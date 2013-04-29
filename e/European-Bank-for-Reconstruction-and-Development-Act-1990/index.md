@@ -1,38 +1,40 @@
-![](http://www.comlaw.gov.au/Details/C2007C00681/Html/EuropeanBankReconDev1990_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00740/Html/37150F9A12717748CA2570E000095563/$FILE/image001.gif)
 
 # European Bank for Reconstruction and Development Act 1990
 
 **Act No. 129 of 1990 as amended**
 
-This compilation was prepared on 9 November 2007
- taking into account amendments up to Act No. 164 of 2005
+This Act was prepared on 22 December 2005
+taking into account amendments up to Act No. 164 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Definitions                                                                                           1
+[3](#3).            Definitions
 
-[4](#4).            Appropriation                                                                                     1
+[4](#4).            Appropriation
 
-[5](#5).            Issue of securities                                                                                1
+[5](#5).            Issue of securities
 
-[6](#6).            Regulations                                                                                          2
+[6](#6).            Regulations
 
 **Schedule 1—Agreement establishing the European bank for reconstruction and development** 
 
 **Notes** 
+
 
 ## An Act relating to the European Bank for Reconstruction and Development
 
@@ -58,7 +60,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  making any payment that Australia is required to make (whether or not Australia may make the payment in a form other than money) to the Bank under the Agreement establishing the European Bank for Reconstruction and Development as set out in Schedule 1; or
 
-                     (b)  redeeming a security issued under subsection 5 (1).
+                     (b)  redeeming a security issued under subsection 5 (1).
 
 ##### <a id="5"></a>5  Issue of securities
 
@@ -75,6 +77,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 ##### <a id="6"></a>6  Regulations
 
                    The Governor-General may make regulations modifying Schedule 1 for the purpose of ensuring that the Schedule correctly sets out the English text of the Agreement establishing the European Bank for Reconstruction and Development, done at Paris on 29 May 1990, as amended from time to time.
+
 
 # Schedule 1—Agreement establishing the European bank for reconstruction and development
 
@@ -102,7 +105,7 @@ Article 1
 
 PURPOSE
 
-In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics. The purpose of the Bank may also be carried out in Mongolia subject to the same conditions. Accordingly, any reference in this Agreement and its annexes to ‘Central and Eastern European countries’, ‘countries from Central and Eastern Europe’, ‘recipient country (or countries)’ or ‘recipient member country (or countries)’ shall refer to Mongolia as well.
+In contributing to economic progress and reconstruction, the purpose of the Bank shall be to foster the transition towards open market oriented economies and to promote private and entrepreneurial initiative in the Central and Eastern European countries committed to and applying the principles of multiparty democracy, pluralism and market economics.
 
 Article 2
 
@@ -894,7 +897,7 @@ Article 61
 
 RATIFICATION, ACCEPTANCE OR APPROVAL
 
-1.  The Agreement shall be subject to ratification, acceptance or approval by the Signatories. Instruments of ratification, acceptance or approval shall, subject to paragraph 2 of this Article, be deposited with the Depository not later than  31 March 1991\. The Depository shall duly notify the other Signatories ofeach deposit and the date thereof.
+1.  The Agreement shall be subject to ratification, acceptance or approval by the Signatories. Instruments of ratification, acceptance or approval shall, subject to paragraph 2 of this Article, be deposited with the Depository not later than 31 March 1991\. The Depository shall duly notify the other Signatories ofeach deposit and the date thereof.
 
 2.  Any Signatory may become a party to this Agreement by depositing an instrument of ratification, acceptance or approval until one year after the date of its entry into force or, if necessary, until such later date as may be decided by a majority of Governors, representing a majority of the total voting power of the members.
 
@@ -947,7 +950,8 @@ INAUGURAL MEETING AND COMMENCEMENT OF OPERATIONS
     </td>
     <td>
       <div>
-CAPITAL SUBSCRIPTION</div>
+CAPITAL SUBSCRIPTION 
+</div>
     </td>
   </tr>
   <tr>
@@ -962,569 +966,573 @@ CAPITAL SUBSCRIPTION</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>A—European Communities</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>a)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Belgium ..................................</div>
-  </td>
-  <td>
-    <div>22 800</div>
-  </td>
-  <td>
-    <div>228.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Denmark .................................</div>
-  </td>
-  <td>
-    <div>12 000</div>
-  </td>
-  <td>
-    <div>120.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>France ....................................</div>
-  </td>
-  <td>
-    <div>85 175</div>
-  </td>
-  <td>
-    <div>851.75</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Germany, Federal Republic of ..</div>
-  </td>
-  <td>
-    <div>85 175</div>
-  </td>
-  <td>
-    <div>851.75</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Greece ....................................</div>
-  </td>
-  <td>
-    <div>6 500</div>
-  </td>
-  <td>
-    <div>65.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ireland ....................................</div>
-  </td>
-  <td>
-    <div>3 000</div>
-  </td>
-  <td>
-    <div>30.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Italy ........................................</div>
-  </td>
-  <td>
-    <div>85 175</div>
-  </td>
-  <td>
-    <div>851.75</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Luxembourg ............................</div>
-  </td>
-  <td>
-    <div>2 000</div>
-  </td>
-  <td>
-    <div>20.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Netherlands .............................</div>
-  </td>
-  <td>
-    <div>24 800</div>
-  </td>
-  <td>
-    <div>248.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portugal ..................................</div>
-  </td>
-  <td>
-    <div>4 200</div>
-  </td>
-  <td>
-    <div>42.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Spain ......................................</div>
-  </td>
-  <td>
-    <div>34 000</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>United Kindom ........................</div>
-  </td>
-  <td>
-    <div>85 175</div>
-  </td>
-  <td>
-    <div>851.75</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>b)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>European Economic Community</div>
-  </td>
-  <td>
-    <div>30 000</div>
-  </td>
-  <td>
-    <div>300.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>European Investment Bank ......</div>
-  </td>
-  <td>
-    <div>30 000</div>
-  </td>
-  <td>
-    <div>300.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>B—Other European Countries</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Austria ....................................</div>
-  </td>
-  <td>
-    <div>22 800</div>
-  </td>
-  <td>
-    <div>228.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Cyprus ....................................</div>
-  </td>
-  <td>
-    <div>1 000</div>
-  </td>
-  <td>
-    <div>10.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Finland ....................................</div>
-  </td>
-  <td>
-    <div>12 500</div>
-  </td>
-  <td>
-    <div>125.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Iceland ....................................</div>
-  </td>
-  <td>
-    <div>1 000</div>
-  </td>
-  <td>
-    <div>10.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Israël ......................................</div>
-  </td>
-  <td>
-    <div>6 500</div>
-  </td>
-  <td>
-    <div>65.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Liechtenstein ...........................</div>
-  </td>
-  <td>
-    <div>200</div>
-  </td>
-  <td>
-    <div>2.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Malta ......................................</div>
-  </td>
-  <td>
-    <div>100</div>
-  </td>
-  <td>
-    <div>1.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Norway ..................................</div>
-  </td>
-  <td>
-    <div>12 500</div>
-  </td>
-  <td>
-    <div>125.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sweden ...................................</div>
-  </td>
-  <td>
-    <div>22 800</div>
-  </td>
-  <td>
-    <div>228.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Switzerland .............................</div>
-  </td>
-  <td>
-    <div>22 800</div>
-  </td>
-  <td>
-    <div>228.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Turkey ....................................</div>
-  </td>
-  <td>
-    <div>11 500</div>
-  </td>
-  <td>
-    <div>115.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C—Recipient countries</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bulgaria ..................................</div>
-  </td>
-  <td>
-    <div>7 900</div>
-  </td>
-  <td>
-    <div>79.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Czechoslovakia ........................</div>
-  </td>
-  <td>
-    <div>2 800</div>
-  </td>
-  <td>
-    <div>128.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>German Democratic Republic ...</div>
-  </td>
-  <td>
-    <div>15 500</div>
-  </td>
-  <td>
-    <div>155.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Hungary ..................................</div>
-  </td>
-  <td>
-    <div>7 900</div>
-  </td>
-  <td>
-    <div>79.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Poland ....................................</div>
-  </td>
-  <td>
-    <div>12 800</div>
-  </td>
-  <td>
-    <div>128.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Romania .................................</div>
-  </td>
-  <td>
-    <div>4 800</div>
-  </td>
-  <td>
-    <div>48.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Union of Soviet Socialist Republics .............................</div>
-  </td>
-  <td>
-    <div>
-60 000</div>
-  </td>
-  <td>
-    <div>
-600.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Yugoslavia ..............................</div>
-  </td>
-  <td>
-    <div>12 800</div>
-  </td>
-  <td>
-    <div>128.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>D—Non-European Countries</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australia .................................</div>
-  </td>
-  <td>
-    <div>10 000</div>
-  </td>
-  <td>
-    <div>100.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Canada ...................................</div>
-  </td>
-  <td>
-    <div>34 000</div>
-  </td>
-  <td>
-    <div>340.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Egypt ......................................</div>
-  </td>
-  <td>
-    <div>1 000</div>
-  </td>
-  <td>
-    <div>10.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Japan ......................................</div>
-  </td>
-  <td>
-    <div>85 175</div>
-  </td>
-  <td>
-    <div>851.75</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Korea, Republic of ...................</div>
-  </td>
-  <td>
-    <div>6 500</div>
-  </td>
-  <td>
-    <div>65.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Mexico ...................................</div>
-  </td>
-  <td>
-    <div>3 000</div>
-  </td>
-  <td>
-    <div>30.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Morocco .................................</div>
-  </td>
-  <td>
-    <div>1 000</div>
-  </td>
-  <td>
-    <div>10.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>New Zealand ..........................</div>
-  </td>
-  <td>
-    <div>1 000</div>
-  </td>
-  <td>
-    <div>10.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>United States of America .........</div>
-  </td>
-  <td>
-    <div>100 000</div>
-  </td>
-  <td>
-    <div>1000.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>E—Non allocated shares</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>TOTAL ...............................</div>
-  </td>
-  <td>
-    <div>125</div>
-  </td>
-  <td>
-    <div>1.25</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>1 000 000</div>
-  </td>
-  <td>
-    <div>10000.00</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>A—European Communities</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>a)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Belgium ..................................</div>
+    </td>
+    <td>
+      <div>22 800</div>
+    </td>
+    <td>
+      <div>228.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Denmark .................................</div>
+    </td>
+    <td>
+      <div>12 000</div>
+    </td>
+    <td>
+      <div>120.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>France ....................................</div>
+    </td>
+    <td>
+      <div>85 175</div>
+    </td>
+    <td>
+      <div>851.75</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Germany, Federal Republic of ..</div>
+    </td>
+    <td>
+      <div>85 175</div>
+    </td>
+    <td>
+      <div>851.75</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Greece ....................................</div>
+    </td>
+    <td>
+      <div>6 500</div>
+    </td>
+    <td>
+      <div>65.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ireland ....................................</div>
+    </td>
+    <td>
+      <div>3 000</div>
+    </td>
+    <td>
+      <div>30.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Italy ........................................</div>
+    </td>
+    <td>
+      <div>85 175</div>
+    </td>
+    <td>
+      <div>851.75</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Luxembourg ............................</div>
+    </td>
+    <td>
+      <div>2 000</div>
+    </td>
+    <td>
+      <div>20.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Netherlands .............................</div>
+    </td>
+    <td>
+      <div>24 800</div>
+    </td>
+    <td>
+      <div>248.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portugal ..................................</div>
+    </td>
+    <td>
+      <div>4 200</div>
+    </td>
+    <td>
+      <div>42.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Spain ......................................</div>
+    </td>
+    <td>
+      <div>34 000</div>
+    </td>
+    <td>
+      <div>340.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>United Kindom ........................</div>
+    </td>
+    <td>
+      <div>85 175</div>
+    </td>
+    <td>
+      <div>851.75</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>b)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>European Economic Community</div>
+    </td>
+    <td>
+      <div>30 000</div>
+    </td>
+    <td>
+      <div>300.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>European Investment Bank ......</div>
+    </td>
+    <td>
+      <div>30 000</div>
+    </td>
+    <td>
+      <div>300.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>B—Other European Countries</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Austria ....................................</div>
+    </td>
+    <td>
+      <div>22 800</div>
+    </td>
+    <td>
+      <div>228.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Cyprus ....................................</div>
+    </td>
+    <td>
+      <div>1 000</div>
+    </td>
+    <td>
+      <div>10.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Finland ....................................</div>
+    </td>
+    <td>
+      <div>12 500</div>
+    </td>
+    <td>
+      <div>125.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Iceland ....................................</div>
+    </td>
+    <td>
+      <div>1 000</div>
+    </td>
+    <td>
+      <div>10.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Israël ......................................</div>
+    </td>
+    <td>
+      <div>6 500</div>
+    </td>
+    <td>
+      <div>65.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Liechtenstein ...........................</div>
+    </td>
+    <td>
+      <div>200</div>
+    </td>
+    <td>
+      <div>2.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Malta ......................................</div>
+    </td>
+    <td>
+      <div>100</div>
+    </td>
+    <td>
+      <div>1.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Norway ..................................</div>
+    </td>
+    <td>
+      <div>12 500</div>
+    </td>
+    <td>
+      <div>125.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sweden ...................................</div>
+    </td>
+    <td>
+      <div>22 800</div>
+    </td>
+    <td>
+      <div>228.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Switzerland .............................</div>
+    </td>
+    <td>
+      <div>22 800</div>
+    </td>
+    <td>
+      <div>228.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Turkey ....................................</div>
+    </td>
+    <td>
+      <div>11 500</div>
+    </td>
+    <td>
+      <div>115.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>C—Recipient countries</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Bulgaria ..................................</div>
+    </td>
+    <td>
+      <div>7 900</div>
+    </td>
+    <td>
+      <div>79.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Czechoslovakia ........................</div>
+    </td>
+    <td>
+      <div>2 800</div>
+    </td>
+    <td>
+      <div>128.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>German Democratic Republic ...</div>
+    </td>
+    <td>
+      <div>15 500</div>
+    </td>
+    <td>
+      <div>155.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Hungary ..................................</div>
+    </td>
+    <td>
+      <div>7 900</div>
+    </td>
+    <td>
+      <div>79.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Poland ....................................</div>
+    </td>
+    <td>
+      <div>12 800</div>
+    </td>
+    <td>
+      <div>128.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Romania .................................</div>
+    </td>
+    <td>
+      <div>4 800</div>
+    </td>
+    <td>
+      <div>48.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Union of Soviet Socialist Republics .............................</div>
+    </td>
+    <td>
+      <div>
+60 000 
+</div>
+    </td>
+    <td>
+      <div>
+600.00 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Yugoslavia ..............................</div>
+    </td>
+    <td>
+      <div>12 800</div>
+    </td>
+    <td>
+      <div>128.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>D—Non-European Countries</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australia .................................</div>
+    </td>
+    <td>
+      <div>10 000</div>
+    </td>
+    <td>
+      <div>100.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Canada ...................................</div>
+    </td>
+    <td>
+      <div>34 000</div>
+    </td>
+    <td>
+      <div>340.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Egypt ......................................</div>
+    </td>
+    <td>
+      <div>1 000</div>
+    </td>
+    <td>
+      <div>10.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Japan ......................................</div>
+    </td>
+    <td>
+      <div>85 175</div>
+    </td>
+    <td>
+      <div>851.75</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Korea, Republic of ...................</div>
+    </td>
+    <td>
+      <div>6 500</div>
+    </td>
+    <td>
+      <div>65.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Mexico ...................................</div>
+    </td>
+    <td>
+      <div>3 000</div>
+    </td>
+    <td>
+      <div>30.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Morocco .................................</div>
+    </td>
+    <td>
+      <div>1 000</div>
+    </td>
+    <td>
+      <div>10.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>New Zealand ..........................</div>
+    </td>
+    <td>
+      <div>1 000</div>
+    </td>
+    <td>
+      <div>10.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>United States of America .........</div>
+    </td>
+    <td>
+      <div>100 000</div>
+    </td>
+    <td>
+      <div>1000.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>E—Non allocated shares</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>TOTAL ...............................</div>
+    </td>
+    <td>
+      <div>125</div>
+    </td>
+    <td>
+      <div>1.25</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>1 000 000</div>
+    </td>
+    <td>
+      <div>10000.00</div>
+    </td>
+  </tr>
+</tbody></table>
 
 (* )   Prospective members are listed under the above categories only for the purpose of this Agreement. Recipient countries are referred to elsewhere in this Agreement as Central and Eastern European countries.
 
@@ -1646,11 +1654,14 @@ Any Governor who does not participate in voting for the election or whose vote d
 
 A decision by any Governor not to participate in voting for the election of a Director shall not affect the calculation of the eligible votes to be made under Section A, Section B (i), Section B (ii) or Section B (iii) of this Annex.
 
+
 # Notes to the _European Bank for Reconstruction and Development Act 1990_
 
 ### Note 1
 
 The _European Bank for Reconstruction and Development Act 1990_ as shown in this compilation comprises Act No. 129, 1990 amended as indicated in the Tables below.
+
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1670,11 +1681,13 @@ The _European Bank for Reconstruction and Development Act 1990_ as shown in this
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1684,41 +1697,45 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>European Bank for Reconstruction and Development Act 1990</div>
-  </td>
-  <td>
-    <div>129, 1990</div>
-  </td>
-  <td>
-    <div>28 Dec 1990</div>
-  </td>
-  <td>
-    <div>28 Dec 1990</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>European Bank for Reconstruction and Development Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>164, 2005</div>
-  </td>
-  <td>
-    <div>19 Dec 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 5): 14 Oct 2006 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>European Bank for Reconstruction and Development Act 1990</div>
+    </td>
+    <td>
+      <div>129, 1990</div>
+    </td>
+    <td>
+      <div>28 Dec 1990</div>
+    </td>
+    <td>
+      <div>28 Dec 1990</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>European Bank for Reconstruction and Development Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>164, 2005</div>
+    </td>
+    <td>
+      <div>19 Dec 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–4): Royal Assent 
+Schedule 1 (item 5): \[ <i>see</i>Note 2] 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1743,45 +1760,47 @@ Remainder: Royal Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 164, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 164, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 164, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 164, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 164, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 164, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>ad. No. 164, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_European Bank for Reconstruction and Development Amendment Act 2005 (No. 164, 2005)_
+
+The following amendment commences on the day on which the Amendment to the Agreement establishing the European Bank for Reconstruction and Development in order to admit Mongolia as a country of operations (adopted by the Board of Governors on 30 January 2004) comes into force for Australia. The amendment however may not commence _see_ s. 2(1):
+
+## Schedule 1
+
+## 5  At the end of Article 1 of Schedule 1
+
+Add “The purpose of the Bank may also be carried out in Mongolia subject to the same conditions. Accordingly, any reference in this Agreement and its annexes to ‘Central and Eastern European countries’, ‘countries from Central and Eastern Europe’, ‘recipient country (or countries)’ or ‘recipient member country (or countries)’ shall refer to Mongolia as well.”.
+
+As at 22 December 2005 the amendment is not incorporated in this compilation.
+
 
  
