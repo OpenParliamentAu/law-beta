@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00181/Html/1b05602a-7b1b-4ab0-8b53-49b8a793c177_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00594/Html/afa29a33-7c5b-415b-b915-4cac6c2db004_files/image001.gif)
 
 # Defence Force Discipline Act 1982
 
 **Act No. 152 of 1982 as amended**
 
-This compilation was prepared on 25 January 2012
+This compilation was prepared on 1 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -1436,7 +1436,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ### Division 1—Offences relating to operations against the enemy
 
-##### <a id="15"></a>15  Abandoning or surrendering a post etc.
+##### <a id="15"></a>15  Abandoning or surrendering a post etc.
 
              (1)  A person who is a defence member or a defence civilian is guilty of an offence if:
 
@@ -4312,7 +4312,7 @@ then, in any proceedings before a service tribunal, the prosecution has the burd
 
              (3)  Subsection (2) does not apply in relation to asking a person to take part in an identification parade conducted in accordance with section 101N.
 
-##### <a id="101D"></a>101D  Cautioning once decision to charge or summon has been made
+##### <a id="101D"></a>101D  Cautioning once decision to charge or summon has been made
 
              (1)  After an investigating officer has decided to charge a person with a service offence, to seek the issue of a summons against a person for a service offence or to recommend that a person be so charged or that a summons be so sought:
 
@@ -4888,7 +4888,7 @@ Note:          The defendant bears a legal burden in relation 
 
 ### Division 5—Rights of persons charged with service offences
 
-##### <a id="101S"></a>101S  Persons to be cautioned
+##### <a id="101S"></a>101S  Persons to be cautioned
 
                    Immediately after a person in custody is charged with a service offence, the investigating officer in charge of investigating the service offence shall caution the person, or cause the person to be cautioned, in a language in which the person is reasonably fluent, in writing, and also, if practicable, orally, that the person is not obliged to, but may if the person wishes to do so, answer any questions, or do any thing, asked of the person by an investigating officer and that anything said or done by the person may be used in evidence.
 
@@ -7491,13 +7491,31 @@ the reviewing authority may order that the execution of the punishment shall be 
 
 ##### <a id="188"></a>188  Acting Judge Advocate General or Deputy Judge Advocate General
 
-                   The Minister may appoint a person who is eligible for appointment as Judge Advocate General or a Deputy Judge Advocate General:
+             (1)  The Minister may appoint a person who is eligible for appointment as Judge Advocate General or a Deputy Judge Advocate General:
 
                      (a)  to act as Judge Advocate General or a Deputy Judge Advocate General, as the case may be, during a vacancy in the office concerned, whether or not an appointment has previously been made to that office; or
 
-                     (b)  to act as the Judge Advocate General or a Deputy Judge Advocate General, as the case may be, during any period, or during all periods, when the Judge Advocate General or a Deputy Judge Advocate General is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  to act as the Judge Advocate General or a Deputy Judge Advocate General, as the case may be, during any period, or during all periods, when the Judge Advocate General or a Deputy Judge Advocate General is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Minister may:
+
+                     (a)  subject to this Act, determine the terms and conditions of appointment including remuneration and allowances, of a person acting as Judge Advocate General or a Deputy Judge Advocate General; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (4)  Where a person is acting as Judge Advocate General or a Deputy Judge Advocate General in accordance with paragraph (1)(b) and the office of Judge Advocate General or a Deputy Judge Advocate General becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (5)  The appointment of a person to act as Judge Advocate General or a Deputy Judge Advocate General ceases to have effect if the person resigns his or her appointment by writing signed by the person and delivered to the Minister.
+
+             (6)  While a person is acting as Judge Advocate General or a Deputy Judge Advocate General, the person has and may exercise all the powers, and shall perform all the functions, of the Judge Advocate General or a Deputy Judge Advocate General, as the case may be, under this Act.
+
+             (7)  The appointment of a person under subsection (1) is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with the person’s appointment.
+
+             (8)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for the person’s appointment had not arisen, that there is a defect or irregularity in or in connection with the person’s appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ### Division 2—Chief Judge Advocate
 
@@ -7673,7 +7691,15 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  during any period, or during all periods, when the Registrar is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
              (3)  The Minister must not appoint a person to act as the Registrar unless:
 
@@ -7905,9 +7931,17 @@ Note:          The annual report prepared by the Director of M
 
                      (a)  during a vacancy in the office, whether or not an appointment has previously been made to that office; or
 
-                     (b)  during any period, or during all periods, when the Director of Military Prosecutions is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the Director of Military Prosecutions is absent from duty or from   Australia, or is, for any other reason, unable to perform the functions of his or her office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
              (3)  The Minister must not appoint a person to act as the Director of Military Prosecutions unless:
 
@@ -9709,7 +9743,7 @@ Schedule 2 (items 29, 30): 1 Nov 1995 ( <i>see Gazette</i>1995, No. S361
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 2 (items 50, 51): <i>(i)</i> 
+    <div>Schedule 2 (items 50, 51): <i>(I)</i> 
 Schedule 4 (items 63, 64) and Schedule 5 (items 49, 50): Royal Assent <i>(i)</i></div>
   </td>
   <td>
@@ -10145,7 +10179,7 @@ Sch. 3 (am. by 82, 2011, Sch. 1) \[ <i>see</i>Note 1]</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 510–518) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 510–518) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -17305,32 +17339,10 @@ ad. No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 186, 187</div>
+    <div>Ss. 186–188</div>
   </td>
   <td colspan="2">
     <div>am. No. 43, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 43, 1995; No. 46, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 188</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 46, 2011</div>
   </td>
   <td>
     <div></div>
@@ -17822,62 +17834,7 @@ ad. No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 188FG–188FK</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188FL</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 159, 2006; No. 46, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 188FL(1)</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 46, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188FM</div>
+    <div>Ss. 188FG–188FM</div>
   </td>
   <td colspan="2">
     <div>ad. No. 142, 2005</div>
@@ -18064,51 +18021,7 @@ ad. No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 188GK–188GO</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188GP</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 142, 2005</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 46, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 188GP(1)</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 46, 2011</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 188GQ</div>
+    <div>Ss. 188GK–188GQ</div>
   </td>
   <td colspan="2">
     <div>ad. No. 142, 2005</div>
@@ -18610,7 +18523,59 @@ Note:          See Part 6 of the _Trans‑Tasman Proceedings
 
 Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans‑Tasman Proceedings Act 2010_”.
 
-As at 25 January 2012 the amendments are not incorporated in this compilation.
+As at 1 August 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 510  Subsection 188(1)
+
+Omit “(1)”.
+
+## 511  Paragraph 188(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 512  Subsection 188(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 513  At the end of subsection 188(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 514  Subsections 188(2) to (8)
+
+Repeal the subsections.
+
+## 515  At the end of subsection 188FL(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 516  Subsection 188FL(2)
+
+Repeal the subsection.
+
+## 517  At the end of subsection 188GP(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 518  Subsection 188GP(2)
+
+Repeal the subsection.
+
+As at 1 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -19218,6 +19183,8 @@ _Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
