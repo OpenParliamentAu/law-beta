@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2007C00132/Html/AusLandTransDev1988_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00515/Html/60831291D9801CC8CA25704B00185A4E/$FILE/image001.gif)
 
 # Australian Land Transport Development Act 1988
 
 **Act No. 154 of 1988 as amended**
 
-This compilation was prepared on 26 March 2007
- taking into account amendments up to Act No. 8 of 2007
+This compilation was prepared on 28 July 2005
+taking into account amendments up to Act No. 94 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -74,6 +76,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act to govern payments for the purposes of the development and maintenance of land transport systems, and for related purposes
 
 ## Part I—Preliminary
@@ -126,7 +129,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (d)  the acquisition of land for the purpose of:
 
-                              (i)   constructing, reconstructing or realigning the railway or road; or
+                              (i)  constructing, reconstructing or realigning the railway or road; or
 
                              (ii)  bringing the railway or road to a higher standard; and
 
@@ -136,7 +139,7 @@ but does not include the maintenance of the railway or road.
 
                     <a name="existing-fund"></a>**_existing Fund_** means:
 
-                     (a)  the Australian Bicentennial Road Development Trust Fund established by section 7 of the _Australian   Bicentennial Road__Development Trust Fund Act 1982_; or
+                     (a)  the Australian Bicentennial Road Development Trust Fund established by section 7 of the _Australian Bicentennial Road__Development Trust Fund Act 1982_; or
 
                      (b)  the Australian Land Transport Trust Fund established by section 11 of the _Australian__Land__Transport (Financial Assistance) Act 1985_.
 
@@ -212,7 +215,7 @@ Note:          The Australian Land Transport Development Reser
 
 associated with a road.
 
-                    <a name="state"></a>**_State_** includes the Northern Territory or the Australian   Capital Territory.
+                    <a name="state"></a>**_State_** includes the Northern Territory or the Australian Capital Territory.
 
                     <a name="state-arteri-road"></a>**_State arterial road_** means a road, or proposed road, in respect of which a declaration under subsection 6(1) is in force.
 
@@ -254,7 +257,7 @@ associated with a road.
 
                                         (A)  national highways; or
 
-                                        (B)   national arterial roads;
+                                        (B)  national arterial roads;
 
                                    and programs for the maintenance of national highways, being projects or programs approved under subsection 26(3);
 
@@ -416,7 +419,7 @@ Certain declarations under this Act continue in force
 
                      (a)  a person who is registered as a company auditor or a public accountant under a law in force in a State; or
 
-                     (b)  a member of the Institute of Chartered   Accountants in Australia or of the Australian Society of Accountants.
+                     (b)  a member of the Institute of Chartered Accountants in Australia or of the Australian Society of Accountants.
 
 ##### <a id="31"></a>31  Condition relating to expenditure of moneys paid under this Act
 
@@ -508,6 +511,14 @@ the State will give to the Minister an undertaking that it will implement road s
 
                      (b)  works carried out by a public utility.
 
+             (3)  Paragraph 32(1)(n) does not apply:
+
+                     (a)  to the sale or other disposal to the National Rail Corporation Limited of an asset; or
+
+                     (b)  to the granting to the National Rail Corporation Limited of a lease of an asset having a term of at least 20 years;
+
+in accordance with subclause 5(5) of the Agreement set out in the Schedule to the _National Rail Corporation Agreement Act 1992_.
+
 ## Part V—Miscellaneous
 
 ##### <a id="33"></a>33  Deduction of amounts repayable
@@ -556,6 +567,7 @@ the State will give to the Minister an undertaking that it will implement road s
 
                    As soon as practicable after 30 June in each financial year in which payments have been made under this Act, the Minister must cause a report to be tabled in each House of the Parliament on the operation of this Act during that financial year.
 
+
 # Notes to the _Australian Land Transport Development Act 1988_
 
 ### Note 1
@@ -584,11 +596,13 @@ All other relevant information pertaining to application, saving or transitional
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -598,194 +612,181 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Australian Centennial Roads Development Act 1988</div>
-  </td>
-  <td>
-    <div>154, 1988</div>
-  </td>
-  <td>
-    <div>26 Dec 1988</div>
-  </td>
-  <td>
-    <div>1 Jan 1989</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>29, 1989</div>
-  </td>
-  <td>
-    <div>22 May 1989</div>
-  </td>
-  <td>
-    <div>22 May 1989</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Centennial Roads Development Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>3, 1991</div>
-  </td>
-  <td>
-    <div>8 Jan 1991</div>
-  </td>
-  <td>
-    <div>8 Jan 1991</div>
-  </td>
-  <td>
-    <div>Ss. 7(2), 12(2) and 14(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Land Transport Development Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>86, 1993</div>
-  </td>
-  <td>
-    <div>30 Nov 1993</div>
-  </td>
-  <td>
-    <div>30 Nov 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act (No. 2) 1993</div>
-  </td>
-  <td>
-    <div>5, 1994</div>
-  </td>
-  <td>
-    <div>18 Jan 1994</div>
-  </td>
-  <td>
-    <div>Schedule (items 4–8): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 347–367): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake Act 1999</div>
-  </td>
-  <td>
-    <div>118, 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>22 Sept 1999</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 200): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (items 54–56): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>AusLink (National Land Transport—Consequential and Transitional Provisions) Act 2005</div>
-  </td>
-  <td>
-    <div>94, 2005</div>
-  </td>
-  <td>
-    <div>6 July 2005</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 2: 28 July 2005 ( <i>see</i>s. 2(1) and F2005L02026) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 2 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2007</div>
-  </td>
-  <td>
-    <div>8, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 20): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Australian Centennial Roads Development Act 1988</div>
+    </td>
+    <td>
+      <div>154, 1988</div>
+    </td>
+    <td>
+      <div>26 Dec 1988</div>
+    </td>
+    <td>
+      <div>1 Jan 1989</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Communications Legislation Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>29, 1989</div>
+    </td>
+    <td>
+      <div>22 May 1989</div>
+    </td>
+    <td>
+      <div>22 May 1989</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Centennial Roads Development Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>3, 1991</div>
+    </td>
+    <td>
+      <div>8 Jan 1991</div>
+    </td>
+    <td>
+      <div>8 Jan 1991</div>
+    </td>
+    <td>
+      <div>Ss. 7(2), 12(2) and 14(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Land Transport Development Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>86, 1993</div>
+    </td>
+    <td>
+      <div>30 Nov 1993</div>
+    </td>
+    <td>
+      <div>30 Nov 1993</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Communications Legislation Amendment Act (No. 2) 1993</div>
+    </td>
+    <td>
+      <div>5, 1994</div>
+    </td>
+    <td>
+      <div>18 Jan 1994</div>
+    </td>
+    <td>
+      <div>Schedule (items 4–8): <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 347–367): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Stocktake Act 1999</div>
+    </td>
+    <td>
+      <div>118, 1999</div>
+    </td>
+    <td>
+      <div>22 Sept 1999</div>
+    </td>
+    <td>
+      <div>22 Sept 1999</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 200): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (items 54–56): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>AusLink (National Land Transport—Consequential and Transitional Provisions) Act 2005</div>
+    </td>
+    <td>
+      <div>94, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 2: 28 July 2005 ( <i>see</i>s. 2(1) and F2005L02026) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Australian__Land__Transport Development Act 1988_ was amended by the Schedule (items 4–8) only of the _Transport and Communications Amendment Act (No. 2) 1993_, subsections 2(1) and (9) of which provide as follows:
 
@@ -806,6 +807,7 @@ _(c)_     The _Australian__Land__Transport Development Act 1988_ was ame
 _(d)_ The _Australian__Land__Transport Development Act 1988_ was amended by Schedule 3 (items 54–56) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+
 
 ## Table of Amendments
 
@@ -830,567 +832,571 @@ _(d)_ The _Australian__Land__Transport Development Act 1988_ was amended by Sche
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>rs. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 1</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 4–7</div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7A–7C</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8, 9</div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 29, 1989; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>rep. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 11</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 12</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 86, 1993; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 15</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997 
-rs. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 5, 1994; No. 152, 1997; No. 55, 2001; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 17, 18</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 20, 21</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 86, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 28A</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 55, 2001; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29, 30</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 3, 1991; No. 5, 1994; No. 152, 1997; No. 94, 2005; No. 8, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 118, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rs. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 94, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>rep. No. 118, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>rs. No. 3, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 94, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>rs. No. 5, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 1</div>
+    </td>
+    <td>
+      <div>am. No. 3, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 3, 1991; No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 4–7</div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 7A–7C</div>
+    </td>
+    <td>
+      <div>ad. No. 3, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 8, 9</div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 29, 1989; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>rep. No. 3, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 2</div>
+    </td>
+    <td>
+      <div>ad. No. 3, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 11</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 3, 1991; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 12</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 3, 1991; No. 86, 1993; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 15</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997 
+rs. No. 94, 2005 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 3, 1991; No. 5, 1994; No. 152, 1997; No. 55, 2001; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 17, 18</div>
+    </td>
+    <td>
+      <div>am. No. 3, 1991; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 20, 21</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>rep. No. 86, 1993</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 3, 1991; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 28</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 28A</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28A</div>
+    </td>
+    <td>
+      <div>ad. No. 5, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 55, 2001; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 29, 30</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 31</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 3, 1991; No. 5, 1994; No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 118, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>rs. No. 3, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 118, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>ad. No. 3, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 94, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+    <td>
+      <div>rep. No. 118, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 2</div>
+    </td>
+    <td>
+      <div>rs. No. 3, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 94, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1437,5 +1443,6 @@ $1,371,489,000 is appropriated out of the Consolidated Revenue Fund in respect o
 (1)        Despite the amendments made by Schedule 1 to this Act, section 10 of the _Australian__Land__Transport Development Act 1988_, as in force immediately before the transition time, continues to have effect after the transition time for the purpose of the making of a determination under that section in respect of the financial year ending on 30 June 2005.
 
 (2)        A determination under section 10 of the _Australian Land Transport Development Act 1988_, as that section continues to have effect under subitem (1), has effect for the purposes of that Act as in force from 1 July 2004 to the transition time.
+
 
  
