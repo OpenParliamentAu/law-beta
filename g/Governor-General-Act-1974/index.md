@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00548/Html/6678a200-6720-47d0-b83e-7010df6a3c7e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00147/Html/1035c731-7df3-494b-8719-b52567b6073b_files/image001.gif)
 
 # Governor‑General Act 1974
 
 **Act No. 16 of 1974 as amended**
 
-This compilation was prepared on 18 July 2012
- taking into account amendments up to Act No. 82 of 2012
+This compilation was prepared on 24 January 2012
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -38,12 +38,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4B](#4B).         Application for review
 
-[4C](#4C).         Recoverable payments
-
-[4D](#4D).         Recoverable death payments
-
-[4E](#4E).          Reports about recoverable payments and recoverable death payments
-
 [5](#5).            Appropriation
 
 [6](#6).            Official Secretary
@@ -70,7 +64,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          Regulations
 
-**Notes** 
+**Notes**
+
+[4](#4).            Entitlements from 1 July 2008
 
 ## An Act to make provision in relation to the Salary of the Governor‑General, and the Payment of Allowances to persons, and to the spouses of persons, who have held the office of Governor‑General, to establish the office of Official Secretary to the Governor‑General, to provide for the employment of staff of the Governor‑General, and for related purposes
 
@@ -259,204 +255,6 @@ Definitions
                      (c)  subparagraph 2C(b)(iii); or
 
                      (d)  subsection 4A(1).
-
-##### <a id="4C"></a>4C  Recoverable payments
-
-             (1)  If, apart from this subsection, the Commonwealth does not have power under this Act to pay an amount (the **_relevant amount_**) to a person (the **_recipient_**) purportedly as a benefit, then the Commonwealth may pay the relevant amount to the recipient.
-
-Recovery
-
-             (2)  If a payment is made under subsection (1) to the recipient, the relevant amount:
-
-                     (a)  is a debt due to the Commonwealth by the recipient; and
-
-                     (b)  may be recovered by the designated Secretary, on behalf of the Commonwealth, in a court of competent jurisdiction.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-             (3)  If:
-
-                     (a)  a payment is made under subsection (1) to the recipient; and
-
-                     (b)  the recipient is receiving, or is entitled to receive, a benefit;
-
-then:
-
-                     (c)  the relevant amount; or
-
-                     (d)  such part of the relevant amount as the designated Secretary determines;
-
-may, if the designated Secretary so directs, be recovered by deduction from that benefit.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-Appropriation
-
-             (4)  For the purposes of subsection 4AA(5), if a payment under subsection (1) of this section relates to a benefit under subsection 4AA(2), the payment is taken to be a benefit under subsection 4AA(2).
-
-             (5)  For the purposes of section 5, if a payment under subsection (1) of this section relates to an allowance under section 4, the payment is taken to be an allowance under section 4.
-
-Benefit
-
-             (6)  For the purposes of this section, **_benefit_** means:
-
-                     (a)  an allowance under section 4; or
-
-                     (b)  a benefit under subsection 4AA(2).
-
-Designated Secretary
-
-             (7)  For the purposes of this section, **_designated Secretary_** means the Secretary of the Department administered by the Minister who administers sections 4 and 4AA.
-
-##### <a id="4D"></a>4D  Recoverable death payments
-
-             (1)  If, apart from this subsection, the Commonwealth does not have power under this Act to pay an amount (the **_relevant amount_**) in any of the following circumstances:
-
-                     (a)  the relevant amount is deposited to an account kept in the name of a deceased person;
-
-                     (b)  the relevant amount is deposited to an account kept in the names of a deceased person and another person;
-
-                     (c)  the relevant amount is paid by way of a cheque made out to a deceased person;
-
-the Commonwealth may pay the relevant amount in the circumstances mentioned in paragraph (a), (b) or (c), so long as:
-
-                     (d)  on the last day on which changes could reasonably be made to the payment of the relevant amount, the designated Secretary did not know that the deceased person had died; and
-
-                     (e)  apart from this subsection, the relevant amount would have been payable as a benefit to the deceased person if the deceased person had not died.
-
-             (2)  If a payment is made under subsection (1), the relevant amount is taken to have been paid to the deceased person’s estate.
-
-Recovery
-
-             (3)  If a payment is made under subsection (1), the relevant amount:
-
-                     (a)  is a debt due to the Commonwealth by the legal personal representative of the deceased person; and
-
-                     (b)  may be recovered by the designated Secretary, on behalf of the Commonwealth, in a court of competent jurisdiction.
-
-Note:          See also section 47 of the _Financial Management and Accountability Act 1997_ (duty to pursue recovery of a debt).
-
-Appropriation
-
-             (4)  For the purposes of subsection 4AA(5), if a payment under subsection (1) of this section relates to a benefit under subsection 4AA(2), the payment under subsection (1) of this section is taken to be a benefit under subsection 4AA(2).
-
-             (5)  For the purposes of section 5, if a payment under subsection (1) of this section relates to an allowance under section 4, the payment is taken to be an allowance under section 4.
-
-Benefit
-
-             (6)  For the purposes of this section, **_benefit_** means:
-
-                     (a)  an allowance under section 4; or
-
-                     (b)  a benefit under subsection 4AA(2).
-
-Designated Secretary
-
-             (7)  For the purposes of this section, **_designated Secretary_** means the Secretary of the Department administered by the Minister who administers sections 4 and 4AA.
-
-##### <a id="4E"></a>4E  Reports about recoverable payments and recoverable death payments
-
-             (1)  During the applicable publication period for a reporting period, the designated Secretary must cause to be published, in such manner as the designated Secretary thinks fit, a report that sets out:
-
-                     (a)  both:
-
-                              (i)  the number of payments made under subsection 4C(1) during the reporting period; and
-
-                             (ii)  the total amount of those payments; and
-
-                     (b)  both:
-
-                              (i)  the number of payments made under subsection 4D(1) during the reporting period; and
-
-                             (ii)  the total amount of those payments.
-
-             (2)  However, a report is not required if:
-
-                     (a)  the number mentioned in subparagraph (1)(a)(i) is zero; and
-
-                     (b)  the number mentioned in subparagraph (1)(b)(i) is zero.
-
-Deferred reporting
-
-             (3)  Paragraph (1)(a) of this section does not require a report to deal with a payment unless, before the preparation of the report, a designated Department official was aware the payment was made under subsection 4C(1).
-
-             (4)  Paragraph (1)(b) of this section does not require a report to deal with a payment unless, before the preparation of the report, a designated Department official was aware the payment was made under subsection 4D(1).
-
-             (5)  For the purposes of this section, if:
-
-                     (a)  a payment was made under subsection 4C(1) or 4D(1) in a reporting period; and
-
-                     (b)  either:
-
-                              (i)  because of subsection (3) of this section, paragraph (1)(a) of this section did not require a report to deal with the payment; or
-
-                             (ii)  because of subsection (4) of this section, paragraph (1)(b) of this section did not require a report to deal with the payment; and
-
-                     (c)  during a later reporting period, a designated Department official becomes aware that the payment was made under subsection 4C(1) or 4D(1), as the case may be;
-
-the payment is subject to a **_deferred reporting obligation_** in relation to the later reporting period.
-
-             (6)  If one or more payments made under subsection 4C(1) during a reporting period are subject to a deferred reporting obligation in relation to a later reporting period, the designated Secretary must, during the applicable publication period for the later reporting period:
-
-                     (a)  prepare a report that sets out:
-
-                              (i)  the number of those payments; and
-
-                             (ii)  the total amount of those payments; and
-
-                            (iii)  the reporting period during which the payments were made; and
-
-                     (b)  if a report is required under subsection (1) in relation to the later reporting period—include the paragraph (a) report in the subsection (1) report; and
-
-                     (c)  if paragraph (b) does not apply—publish, in such manner as the designated Secretary thinks fit, the paragraph (a) report.
-
-             (7)  If one or more payments made under subsection 4D(1) during a reporting period are subject to a deferred reporting obligation in relation to a later reporting period, the designated Secretary must, during the applicable publication period for the later reporting period:
-
-                     (a)  prepare a report that sets out:
-
-                              (i)  the number of those payments; and
-
-                             (ii)  the total amount of those payments; and
-
-                            (iii)  the reporting period during which the payments were made; and
-
-                     (b)  if a report is required under subsection (1) in relation to the later reporting period—include the paragraph (a) report in the subsection (1) report; and
-
-                     (c)  if paragraph (b) does not apply—publish, in such manner as the designated Secretary thinks fit, the paragraph (a) report.
-
-Reporting period
-
-             (8)  For the purposes of this section, a **_reporting period_** is:
-
-                     (a)  a financial year; or
-
-                     (b)  if a shorter recurring period is specified in a legislative instrument made by the designated Minister—that period.
-
-Applicable publication period
-
-             (9)  For the purposes of this section, the **_applicable publication period_** for a reporting period is the period of:
-
-                     (a)  4 months; or
-
-                     (b)  if a lesser number of months is specified, in relation to the reporting period, in a legislative instrument made by the designated Minister—that number of months;
-
-beginning immediately after the end of the reporting period.
-
-Designated Department
-
-           (10)  For the purposes of this section, **_designated Department_** means the Department administered by the designated Minister.
-
-Designated Department official
-
-           (11)  For the purposes of this section, **_designated Department official_** means an official (within the meaning of the _Financial Management and Accountability Act 1997_) who is in the designated Department or is part of the designated Department.
-
-Designated Minister
-
-           (12)  For the purposes of this section, **_designated Minister_** means the Minister who administers sections 4 and 4AA.
-
-Designated Secretary
-
-           (13)  For the purposes of this section, **_designated Secretary_** means the Secretary of the designated Department.
 
 ##### <a id="5"></a>5  Appropriation
 
@@ -952,23 +750,6 @@ Schedule 5: 1 Jan 2009 ( <i>see</i>F2008L04609)</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
-  </td>
-  <td>
-    <div>82, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (item 66): 29 June 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1264,30 +1045,6 @@ _(g)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
   </td>
   <td>
     <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4C</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4D</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4E</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
   </td>
 </tr>
 <tr>
