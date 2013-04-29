@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image001.gif)
 
 # ACIS Administration Act 1999
 
 **Act No. 139 of 1999 as amended**
 
-This compilation was prepared on 14 April 2004
+This compilation was prepared on 29 October 2003
  incorporating amendments up to Act No. 96 of 2003
 
 The text of any of those amendments not in force
@@ -44,7 +44,7 @@ Prepared by the Office of Legislative Drafting,
 
 [9](#9).            Arm’s length transactions
 
-[10](#10).          Determination of entitlement to credit between participants
+[10](#10).          Determination of entitlement to modulated credit between participants
 
 [11](#11).          Other Commonwealth assistance
 
@@ -172,11 +172,9 @@ Prepared by the Office of Legislative Drafting,
 
     **Division 2—Caps on scheme and participants**
 
-[53](#53).          Stage caps on ACIS
+[53](#53).          $2,000,000,000 cap on ACIS
 
-[53A](#53A).       Ledger treatment of amounts recovered under the _ACIS (Unearned Credit Liability) Act 1999_
-
-[54](#54).          5% of sales limit on participants
+[54](#54).          5% of sales cap on participants
 
     **Division 3—Guidelines for modulation**
 
@@ -184,7 +182,7 @@ Prepared by the Office of Legislative Drafting,
 
     **Division 4—MVP credit**
 
-[56](#56).          Secretary to modulate capped production credit for each MVP
+[56](#56).          Secretary to modulate production credit for each MVP
 
 [57](#57).          Secretary to modulate investment credit for each MVP
 
@@ -195,12 +193,6 @@ Prepared by the Office of Legislative Drafting,
 [59](#59).          Secretary to modulate investment credit for each ACP, AMTP and ASP
 
 [60](#60).          Secretary must modulate in accordance with Ministerial guidelines
-
-**Part 5A—Research and development scheme**
-
-[60A](#60A).       Research and development scheme
-
-[60B](#60B).       Variation of R&amp;D scheme
 
 **Part 6—The ACIS ledger and its maintenance** 
 
@@ -214,9 +206,9 @@ Prepared by the Office of Legislative Drafting,
 
 [63](#63).          Information to be kept in ledger
 
-[64](#64).          Entry of credit in the ledger
+[64](#64).          Entry of modulated credit in the ledger
 
-[65](#65).          Effect of entering credit in the ACIS ledger
+[65](#65).          Effect of entering modulated credit in the ledger
 
 [66](#66).          Circumstances in which the Secretary must amend the ledger
 
@@ -232,6 +224,8 @@ Prepared by the Office of Legislative Drafting,
 
 [71](#71).          Time in which entries to be made
 
+[72](#72).          Secretary does not have to amend the ledger after 31 December 2006
+
     **Division 4—No liability for ledger entries**
 
 [73](#73).          Secretary not liable in certain circumstances
@@ -242,15 +236,13 @@ Prepared by the Office of Legislative Drafting,
 
 [74](#74).          Overview of Part
 
-    **Division 1A—Use and expiry of duty credits**
-
-[74A](#74A).       Use and expiry of duty credits
-
-[74B](#74B).       How application of previously paid duty credits to be made
-
     **Division 2—Transfer of credit**
 
 [75](#75).          Duty credit transferable
+
+    **Division 2A—Application of duty credit against previously paid duty**
+
+[75A](#75A).       When can a person apply duty credit against duty that has already been paid?
 
     **Division 3—Minister may limit use of credit in certain circumstances**
 
@@ -372,17 +364,13 @@ Prepared by the Office of Legislative Drafting,
 
 [115](#115).        Secretary may delegate powers
 
-[115A](#115A).     Minister may publish information relating to participants
-
 [116](#116).        Regulations
 
 **Schedule 1—Consequential amendments** 
 
-Customs Act 1901                                                                                                    121
+Customs Act 1901                                                                                                    110
 
 **Notes** 
-
- 
 
 ## An Act to promote competitiveness, and encourage investment, in the automotive industry, and for related purposes
 
@@ -402,55 +390,27 @@ Customs Act 1901                     �
 
 ##### <a id="4"></a>4  Overview of the Act
 
-             (1)  This Act sets up ACIS for the purpose set out in section 3\. Under ACIS, participants receive duty credit which can be applied against customs duty payable, or paid, on certain eligible imports (item 41E of Schedule 4 to the Tariff and subsection 74A(1) of this Act).
+             (1)  This Act sets up ACIS for the purpose set out in section 3\. Under ACIS, participants receive duty credit which can be applied against customs duty payable, or paid, on certain eligible imports (item 41E of Schedule 4 to the Tariff and section 75A of this Act).
 
-          (1A)  There are 3 stages in ACIS:
+             (2)  ACIS has a $2,000,000,000 cap on the value of certain modulated credit that can be entered in the ACIS ledger (section 53).
 
-                     (a)  Stage 1—the period commencing on the scheme commencement date and ending 31 December 2005; and
+             (3)  Participants can receive duty credit in respect of the period starting on the scheme commencement date and ending on 31 December 2005 provided the cap referred to in subsection (2) has not already been reached. Duty credits can be applied to offset customs duty until 31 December 2006.
 
-                     (b)  Stage 2—the period commencing on 1 January 2006 and ending on 31 December 2010; and
-
-                     (c)  Stage 3—the period commencing on 1 January 2011 and ending on 31 December 2015.
-
-             (2)  Each ACIS Stage has a cap on the value of certain duty credit that may be entered in the ACIS ledger in respect of that stage. The stage caps are as follows:
-
-                     (a)  ACIS Stage 1—$2,000,000,000;
-
-                     (b)  ACIS Stage 2—$2,000,000,000;
-
-                     (c)  ACIS Stage 3—$1,000,000,000.
-
-There are also personal limits on each participant in respect of each ACIS year (see section 54).
-
-          (2A)  In ACIS Stages 2 and 3, the stage cap will be divided into separate funding pools—one for MVPs and the other for participants who are not MVPs (see section 55).
-
-             (3)  In ACIS Stage 2, the R&amp;D scheme operates to provide to MVPs, within the funding pool for MVPs, duty credits that are unmodulated type J investment credits (see Part 5A).
-
-          (3A)  Participants can receive duty credits in respect of an ACIS Stage if the cap for that stage has not already been reached. Duty credits issued in respect of a particular ACIS Stage may be applied:
-
-                     (a)  to the importation of eligible imports; or
-
-                     (b)  against the customs duty a person has already paid if the duty was paid in respect of the importation, on or after 1 January 2001, of eligible imports.
-
-          (3B)  Duty credit issued in respect of a particular ACIS Stage expires if the duty credit has not been applied against customs duty:
-
-                     (a)  during the particular stage; or
-
-                     (b)  on or before 31 December of the calendar year next following the stage (see section 74A).
+Note:          The scheme may start before 1 January 2001 but, if it does, it must start on the first day of a calendar year (see **_scheme commencement date_** in subsection 6(1)). 
 
              (4)  Under ACIS, certain persons may apply for registration under the scheme (Part 2).
 
              (5)  Once registered, a participant has an obligation to make quarterly returns in accordance with Part 3.
 
-             (6)  On the basis of such returns, a participant is eligible to earn unmodulated credit (Part 4 and the R&amp;D scheme for unmodulated type J investment credit) depending on:
+             (6)  On the basis of such returns, a participant is eligible to earn unmodulated credit (Part 4) depending on:
 
                      (a)  the participant’s production of motor vehicles, engines or engine components (MVPs only); and
 
                      (b)  the participant’s investment in certain plant and equipment and research and development.
 
-             (7)  The scheme provides for a modulation process (Part 5) under which unmodulated credit (except unmodulated uncapped production credit and unmodulated type J investment credit), is converted into modulated credit. The modulation process has regard to the stage caps for ACIS.
+             (7)  The scheme provides for a modulation process (Part 5) under which unmodulated credit is converted into modulated credit, having regard, where appropriate, to the $2,000,000,000 cap and a personal cap on each participant (section 54).
 
-             (8)  Duty credit is modulated credit, unmodulated uncapped production credit or unmodulated type J investment credit that has been entered in the ACIS ledger.
+             (8)  Duty credit is modulated credit that has been entered in the ACIS ledger.
 
              (9)  The ACIS ledger is dealt with in Part 6.
 
@@ -500,15 +460,7 @@ Note 2:       If the specified penalty is imprisonment only, section
 
                     <a name="aci-lgere"></a>**_ACIS ledger_** means the ledger established by the Secretary under section 62.
 
-                    <a name="aci-stage"></a>**_ACIS Stage_** means ACIS Stage 1, ACIS Stage 2 or ACIS Stage 3.
-
-                    <a name="aci-stage"></a>**_ACIS Stage 1_** means the period commencing on the scheme commencement date and ending on 31 December 2005.
-
-                    <a name="aci-stage"></a>**_ACIS Stage 2_** means the period commencing on 1 January 2006 and ending on 31 December 2010.
-
-                    <a name="aci-stage"></a>**_ACIS Stage 3_** means the period commencing on 1 January 2011 and ending on 31 December 2015.
-
-                    <a name="aci-year"></a>**_ACIS year_** means the year commencing on the scheme commencement date and each succeeding year before the year commencing 1 January 2016.
+                    <a name="aci-year"></a>**_ACIS year_** means the year commencing on the scheme commencement date and each succeeding year before the year commencing 1 January 2006.
 
                     <a name="acp"></a>**_ACP_** means a person registered as an automotive component producer under section 26 _._
 
@@ -544,17 +496,7 @@ other than a component of a kind that is declared by the regulations not to be a
 
                     <a name="automot-tool"></a>**_automotive tooling_** means tooling of a kind declared by the regulations to be automotive tooling for the purposes of this Act.
 
-                    <a name="duti-crite"></a>**_duty credit_** means any of the following that has been entered in the ACIS ledger:
-
-                     (a)  modulated capped production credit;
-
-                     (b)  unmodulated uncapped production credit;
-
-                     (c)  modulated investment credit;
-
-                     (d)  unmodulated type J investment credit.
-
-However, it does not include such a credit that has expired.
+                    <a name="duti-crite"></a>**_duty credit_** means modulated capped production credit, modulated uncapped production credit, or modulated investment credit that has been entered in the ACIS ledger.
 
                     <a name="elig-import"></a>**_eligible imports_** means:
 
@@ -596,15 +538,7 @@ whether that engine is a dressed or undressed engine, whether it is a short or l
 
                      (g)  ignition wiring sets classified to heading 8544.
 
-                    <a name="expir"></a>**_expires_**, in relation to a duty credit, has the meaning given by subsection 74A(3).
-
-                    <a name="final-quarter"></a>**_final quarter_** means:
-
-                     (a)  for ACIS Stage 1—the quarter ending on 31 December 2005; and
-
-                     (b)  for ACIS Stage 2—the quarter ending on 31 December 2010; and
-
-                     (c)  for ACIS Stage 3—the quarter ending on 31 December 2015.
+                    <a name="final-quarter"></a>**_final quarter_** means the quarter ending on 31 December 2005.
 
                     <a name="mvp-own-us"></a>**_for the MVP’s own use_**, in relation to type B investment and type C investment, has the meaning provided for in the regulations, if regulations have been made under subsection (4).
 
@@ -652,6 +586,8 @@ and includes:
 
                      (a)  modulated capped production credit; and
 
+                     (b)  modulated uncapped production credit; and
+
                      (c)  modulated investment credit.
 
                     <a name="modul-invest-crite"></a>**_modulated investment credit_** means:
@@ -661,6 +597,8 @@ and includes:
                      (b)  modulated ACP, AMTP or ASP investment credit.
 
                     <a name=""></a><a name="modul-mvp-invest-crite"></a>**_modulated MVP investment credit_**, in relation to a quarter and an MVP, means the unmodulated investment credit (if any) worked out in relation to that quarter and that MVP, modulated in accordance with section 57.
+
+                    <a name="modul-uncapped-product-crite"></a>**_modulated uncapped production credit_**, in relation to a quarter and an MVP, means the unmodulated uncapped production credit (if any) worked out in relation to that quarter and that MVP, modulated in accordance with section 56.
 
                     <a name="monitor-warrant"></a>**_monitoring warrant_** means a warrant issued under section 92.
 
@@ -763,8 +701,6 @@ worked out in accordance with regulations made for the purpose of this definitio
                     <a name="provid-australia"></a>**_provided in Australia_** has the meaning given in subsection 7(7).
 
                     <a name="quarter"></a>**_quarter_** means a period of 3 months commencing on 1 January, 1 April, 1 July or 1 October of a year.
-
-                    <a name="scheme"></a>**_R&amp;D scheme_** means the scheme the Minister formulates under subsection 60A(1).
 
                     <a name="registr-quarter"></a>**_registration quarter_**, in relation to a person in respect of whom the Secretary has decided to grant an application for registration as a participant, means the quarter in which the registration took effect, or is taken to have effect, under section 28.
 
@@ -878,16 +814,6 @@ Note 1:       See regulations made under subsection (5) for when p
 
 Note 2:       See section 6C for when investment undertaken by a person can be treated as investment undertaken by another person who is an ASP.
 
-                    <a name="type-invest"></a>**_type J investment_**, in relation to a quarter falling in ACIS Stage 2 and an MVP, means investment undertaken by the MVP:
-
-                     (a)  in that quarter; and
-
-                     (b)  in that part of the MVP’s research and development that is allowed under the R&amp;D scheme.
-
-Note 1:       See regulations made under subsection (5) for when particular investment undertaken by an MVP is treated as having occurred.
-
-Note 2:       See section 6C for when investment undertaken by a person can be treated as investment undertaken by another person who is an MVP.
-
                     <a name="unearned-crite-liabil"></a>**_unearned credit liability_** means a liability imposed under the _ACIS (Unearned Credit Liability) Act 1999_.
 
                     <a name="unmodulated-cap-product-crite"></a>**_unmodulated capped production credit_**, in relation to a quarter and to an MVP, means the unmodulated capped production credit (if any) worked out in relation to that quarter and that MVP in accordance with subsection 42(2).
@@ -901,8 +827,6 @@ Note 2:       See section 6C for when investment undertaken by a p
                      (c)  in relation to a quarter and an AMTP—means the unmodulated investment credit worked out in relation to that quarter and that AMTP in accordance with section 48 or 49; or
 
                      (d)  in relation to a quarter and an ASP—means the unmodulated investment credit worked out in relation to that quarter and that ASP in accordance with section 50 or 51.
-
-                    <a name="unmodulated-type-invest-crite"></a>**_unmodulated type J investment credit_**, in relation to a quarter falling in ACIS Stage 2, means the credit worked out in relation to that quarter and an MVP under the R&amp;D scheme.
 
                     <a name="unmodulated-uncapped-product-crite"></a>**_unmodulated uncapped production credit_**, in relation to a quarter and to an MVP, means the unmodulated uncapped production credit (if any) worked out in relation to that quarter and that MVP in accordance with subsection 42(1).
 
@@ -1132,11 +1056,11 @@ the value of that investment is to be determined on the basis that the participa
 
              (4)  Guidelines made for the purposes of subsection (3) are disallowable instruments within the meaning of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="10"></a>10  Determination of entitlement to credit between participants
+##### <a id="10"></a>10  Determination of entitlement to modulated credit between participants
 
-             (1)  If more than one participant is involved in a transaction giving rise to the issue of modulated credit, unmodulated uncapped production credit or unmodulated type J investment credit, the credit will be issued to only one of those participants.
+             (1)  If more than one participant is involved in a transaction giving rise to the issue of modulated credit, the modulated credit will be issued to only one of those participants.
 
-             (2)  The Minister must make rules for identifying, in circumstances where more than one participant is involved in a transaction giving rise to the issue of modulated credit, unmodulated uncapped production credit or unmodulated type J investment credit, the participant who is entitled to that credit.
+             (2)  The Minister must make rules for identifying, in circumstances where more than one participant is involved in a transaction giving rise to the issue of modulated credit, the participant who is entitled to that credit.
 
              (3)  A rule made under subsection (2) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
@@ -1778,19 +1702,19 @@ whichever last occurs, provide a return to the Secretary in respect of that quar
 
 ##### <a id="40"></a>40  Rules concerning returns
 
-             (1)  If a participant, in providing a return for a quarter ending after registration other than the final quarter for an ACIS Stage, fails to cover:
+             (1)  If a participant, in providing a return for a quarter ending after registration other than the final quarter, fails to cover:
 
                      (a)  any particular MVP production achieved (in the case of an MVP); or
 
                      (b)  any particular investment undertaken;
 
-by that participant in that quarter, that production or investment may be covered in the return for the quarter next following that quarter or, if 2 or more quarters for the same ACIS Stage follow that quarter, in either of the 2 quarters next following that quarter.
+by that participant in that quarter, that production or investment may be covered in the return for the quarter next following that quarter or, if 2 or more quarters follow that quarter, in either of the 2 quarters next following that quarter.
 
              (2)  If production achieved or investment undertaken by a participant is covered in a later return as provided for in subsection (1), it is to be treated, for all purposes of this Act, as if it were production achieved or investment undertaken in the quarter in which it is reported and not in the quarter in which it was actually achieved or undertaken.
 
              (3)  If production achieved or investment undertaken by a participant is not covered in a later return as provided for in subsection (1), it is to be treated, for all purposes of this Act, as if it had never been achieved or undertaken.
 
-             (4)  If a participant, in providing a return in respect of the final quarter for an ACIS Stage, fails to cover any particular:
+             (4)  If a participant, in providing a return in respect of the final quarter, fails to cover any particular:
 
                      (a)  MVP production achieved (in the case of an MVP); or
 
@@ -1810,17 +1734,15 @@ by that participant in that quarter, that production or investment is to be trea
 
 ##### <a id="41"></a>41  Overview of Part
 
-                   This Part deals with the working out of unmodulated credits.
-
-Note:          Unmodulated type J investment credit is worked out under the R&amp;D scheme.
+                   This Part deals with the working out of unmodulated credit. This is the first step in the process of working out the amount of modulated credit to be issued to participants.
 
 ### Division 2—Working out unmodulated production credit and unmodulated investment credit for MVPs
 
 ##### <a id="42"></a>42  Secretary to work out unmodulated production credit for each MVP
 
-             (1)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated uncapped production credit to be issued to the MVP for that quarter in accordance with the formula:
+             (1)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated uncapped production credit for the MVP for that quarter in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image002.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image002.gif)</sub>
 
 where:
 
@@ -1832,7 +1754,7 @@ Note:          The definition of **_production value_** refers
 
              (2)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated capped production credit for the MVP for that quarter in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image003.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image003.gif)</sub>
 
 where:
 
@@ -1848,7 +1770,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type A investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image004.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image004.gif)</sub>
 
 where:
 
@@ -1864,7 +1786,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type B investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image005.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image005.gif)</sub>
 
 where:
 
@@ -1880,7 +1802,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type C investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image006.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image006.gif)</sub>
 
 where:
 
@@ -1898,7 +1820,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type D investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image007.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image007.gif)</sub>
 
 where:
 
@@ -1914,7 +1836,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type E investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image008.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image008.gif)</sub>
 
 where:
 
@@ -1932,7 +1854,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type F investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image009.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image009.gif)</sub>
 
 where:
 
@@ -1948,7 +1870,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type G investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image010.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image010.gif)</sub>
 
 where:
 
@@ -1966,7 +1888,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type H investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image011.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image011.gif)</sub>
 
 where:
 
@@ -1982,7 +1904,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type I investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image012.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01583/Html/ACISA1999_image012.gif)</sub>
 
 where:
 
@@ -2000,7 +1922,7 @@ where:
 
 ##### <a id="52"></a>52  Overview of Part
 
-             (1)  This Part deals with the modulation process. In this process, unmodulated credits, other than unmodulated uncapped production credits and unmodulated type J investment credits, are modulated and the amount of modulated credit to be issued to participants is worked out.
+             (1)  This Part deals with the modulation process. In this process, unmodulated credits are modulated and the amount of modulated credit to be issued to participants is worked out.
 
              (2)  Division 2 sets out caps on the scheme and each participant. These caps are taken into account in the modulation process.
 
@@ -2012,166 +1934,29 @@ where:
 
 ### Division 2—Caps on scheme and participants
 
-##### <a id="53"></a>53  Stage caps on ACIS
+##### <a id="53"></a>53  $2,000,000,000 cap on ACIS
 
-Caps for each stage of ACIS
+             (1)  The Secretary must not enter in the ACIS ledger amounts in respect of modulated capped production credit and modulated investment credit that in total exceed $2,000,000,000.
 
-             (1)  In respect of an ACIS Stage listed in the table below, the Secretary must not enter in the ACIS ledger modulated capped production credit, modulated investment credit or unmodulated type J investment credit that in total exceeds the amount listed next to that ACIS Stage (the **_stage cap_**).
+             (2)  In determining amounts to be entered in the ledger under subsection (1), particular amounts received, or likely to be received, by the Commonwealth by way of liability imposed under the _ACIS (Unearned Credit Liability) Act 1999_(including amounts received, or likely to be received, as offsets of particular duty credit against this liability) must be taken into account. 
 
-Note:          Unmodulated type J investment credit can only be issued in respect of ACIS Stage 2.
+##### <a id="54"></a>54  5% of sales cap on participants 
 
-<table>
-<colgroup>
-  <col width="26%">
-  <col width="32%">
-  <col width="43%">
-</colgroup>
+5% of sales value cap on participants to whom paragraph 16(1)(a), 17(1)(a) or (2)(a), 18(1)(a) or 19(1)(a) applied
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Stage caps</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>ACIS Stage</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>The stage cap</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>ACIS Stage 1</div>
-  </td>
-  <td>
-    <div>$2,000,000,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>ACIS Stage 2</div>
-  </td>
-  <td>
-    <div>$2,000,000,000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>ACIS Stage 3</div>
-  </td>
-  <td>
-    <div>$1,000,000,000</div>
-  </td>
-</tr></table>
+             (1)  If a participant to whom paragraph 16(1)(a), 17(1)(a) or (2)(a), 18(1)(a) or 19(1)(a) applied is granted registration, then, at the end of each ACIS year, the total of the modulated credit issued to the participant must not exceed 5% of the sales value of the participant’s ACIS goods and services in respect of the year preceding the first-mentioned year.
 
-Stage 2 and 3 caps divided between MVPs and others
+5% of sales cap on participants to whom paragraph 16(1)(b) or (c), 17(1)(b) or (c) or (2)(b) or (c), 18(1)(b) or (c) or 19(1)(b) or (c) applied
 
-             (2)  In ACIS Stages 2 and 3, the stage cap will be divided into funding pools of amounts available to be entered in the ACIS ledger for MVPs and amounts available to be entered in the ledger for participants who are not MVPs.
+             (2)  If a participant to whom paragraph 16(1)(b) or (c), 17(1)(b) or (c) or (2)(b) or (c), 18(1)(b) or (c) or 19(1)(b) or (c) applied is granted registration, then, at the end of the ACIS year in which the registration took effect, the total of the modulated credit issued to the participant must not exceed 5% of the sales value of the participant’s ACIS goods and services in respect of that year.
 
-Note:          See the guidelines made under section 55 for how the division is to occur.
-
-Matters affecting ACIS Stage 2 cap
-
-             (3)  In ACIS Stage 2, the R&amp;D scheme will operate within the limits of the amount of the stage cap and the amount available to be entered in the ledger for  MVPs.
-
-Note:          See Part 5A.
-
-##### <a id="53A"></a>53A  Ledger treatment of amounts recovered under the _ACIS (Unearned Credit Liability) Act 1999_
-
-If UCL received in same ACIS Stage that duty credit was issued or the following calendar year
-
-             (1)  If:
-
-                     (a)  a person is liable to pay to the Commonwealth a UCL amount in relation to duty credit issued to a participant in respect of a particular ACIS Stage; and
-
-                     (b)  the UCL amount is received, or likely to be received, by the Commonwealth during:
-
-                              (i)  the particular stage; or
-
-                             (ii)  the calendar year next following the particular stage;
-
-then, in determining amounts to be entered in the ACIS ledger under subsection 53(1) in respect of the particular stage, the UCL amount must be taken into account in that stage.
-
-Note:          See the guidelines made under section 55 for how UCL amounts are to be dealt with.
-
-If UCL received at a later time
-
-             (2)  If:
-
-                     (a)  a person is liable to pay to the Commonwealth a UCL amount in relation to duty credit issued to a participant in respect of a particular ACIS Stage; and
-
-                     (b)  the UCL amount is not received, or not likely to be received, by the Commonwealth during:
-
-                              (i)  the particular stage; or
-
-                             (ii)  the calendar year next following the particular stage;
-
-then, in determining amounts to be entered in the ACIS ledger under subsection 53(1), the UCL amount must not be taken into account:
-
-                     (c)  in that particular stage; or
-
-                     (d)  in any other ACIS Stage.
-
-             (3)  In this section:
-
-                    <a name="ucl-amount"></a>**_UCL amount_** means the amount of a liability imposed under the _ACIS (Unearned Credit Liability) Act 1999_, including amounts received, or likely to be received, as offsets of particular duty credit against this liability.
-
-##### <a id="54"></a>54  5% of sales limit on participants 
-
-5% of sales value limit on participants to whom paragraph 16(1)(a), 17(1)(a) or (2)(a), 18(1)(a) or 19(1)(a) applied
-
-             (1)  If a participant to whom paragraph 16(1)(a), 17(1)(a) or (2)(a), 18(1)(a) or 19(1)(a) applied is granted registration, then, in respect of each ACIS year, the total of the following credit:
-
-                     (a)  the modulated credit;
-
-                     (b)  the unmodulated uncapped production credit;
-
-                     (c)  the unmodulated type J investment credit;
-
-issued to the participant must not exceed 5% of the sales value of the participant’s ACIS goods and services in respect of the year preceding the first-mentioned year.
-
-5% of sales limit on participants to whom paragraph 16(1)(b) or (c), 17(1)(b) or (c) or (2)(b) or (c), 18(1)(b) or (c) or 19(1)(b) or (c) applied
-
-             (2)  If a participant to whom paragraph 16(1)(b) or (c), 17(1)(b) or (c) or (2)(b) or (c), 18(1)(b) or (c) or 19(1)(b) or (c) applied is granted registration, then, in respect of the ACIS year in which the registration took effect, the total of the following credit:
-
-                     (a)  the modulated credit;
-
-                     (b)  the unmodulated uncapped production credit;
-
-                     (c)  the unmodulated type J investment credit;
-
-issued to the participant must not exceed 5% of the sales value of the participant’s ACIS goods and services in respect of that year.
-
-5% of sales limit on certain participants in second year of registration
+5% of sales cap on certain participants in second year of registration
 
              (3)  At the end of each ACIS year following the ACIS year in which the registration of the participant referred to in subsection (2) took effect, the total of the modulated credit issued to the participant must not exceed 5% of the sales value of the participant’s ACIS goods and services in respect of the year preceding the first-mentioned year.
 
 Meaning of **sales value** **of ACIS goods and services**
 
-             (4)  In this section, a reference to the **_sales value_** **_of ACIS goods and services_** of a participant is a reference to the sales value of the goods sold and services provided by that participant as a result of activities that:
+             (4)  In this section, a reference to the **_sales value_** **_of ACIS goods and services_** of a participant is a reference to the sales value of the goods or services provided by that participant as a result of activities that:
 
 (a) earned; or
 
@@ -2183,43 +1968,39 @@ the participant duty credit.
 
 ##### <a id="55"></a>55  Minister must make modulation guidelines
 
-             (1)  The Minister must make guidelines setting out the way in which the following kinds of credit are to be modulated in respect of an ACIS Stage:
+             (1)  The Minister must make guidelines setting out the way in which the following kinds of credit are to be modulated:
 
-                     (a)  unmodulated investment credit issued to MVPs; and
+                     (a)  unmodulated uncapped production credit; 
 
-                    (aa)  unmodulated investment credit issued to participants who are not MVPs; and
+                     (b)  unmodulated capped production credit;
 
-                     (b)  unmodulated capped production credit.
+                     (c)  unmodulated investment credit.
 
-          (1A)  The Minister must also make guidelines:
-
-                     (a)  setting out how the stage caps referred to in section 53 are to be divided between MVPs and participants who are not MVPs as provided for in subsection 53(2); and
-
-                     (b)  setting out how UCL amounts (see section 53A) that under subsection 53A(1) are required to be taken into account in respect of a particular stage are to be dealt with in that stage; and
-
-                     (c)  setting out how the various credit referred to in section 54 with respect to a participant is to be adjusted so that the total of the credit does not exceed the 5% limit for the participant provided for in that section.
-
-             (2)  In making guidelines for the purposes of subsection (1) or (1A), the Minister must:
+             (2)  In making guidelines for the purposes of subsection (1), the Minister must:
 
                      (a)  have regard to Australia’s international obligations under the WTO Agreement on Subsidies and Countervailing Measures; and
 
-                     (b)  ensure that the relevant stage cap for the relevant ACIS Stage (see section 53) is not exceeded; and
+                     (b)  ensure that the $2,000,000,000 cap on ACIS (see section 53) is not exceeded; and
 
                      (c)  ensure that, in respect of any ACIS year, the 5% of sales cap on individual participants (see section 54) is not exceeded.
 
-             (3)  Guidelines made for the purposes of subsection (1) or (1A) are disallowable instruments within the meaning of section 46A of the _Acts Interpretation Act 1901_.
+             (3)  Guidelines made for the purposes of subsection (1) are disallowable instruments within the meaning of section 46A of the _Acts Interpretation Act 1901_.
 
 ### Division 4—MVP credit
 
-##### <a id="56"></a>56  Secretary to modulate capped production credit for each MVP
+##### <a id="56"></a>56  Secretary to modulate production credit for each MVP
 
-                   When the Secretary has worked out the unmodulated capped production credit (if any) in relation to each MVP and a particular quarter in an ACIS Stage, the Secretary must modulate the credit to work out the modulated capped production credit to be issued to each MVP.
+                   When the Secretary has worked out:
+
+                     (a)  the unmodulated uncapped production credit (if any); and
+
+                     (b)  the unmodulated capped production credit (if any);
+
+in relation to each MVP and a particular quarter, the Secretary must modulate each kind of unmodulated production credit to work out the modulated uncapped production credit and modulated capped production credit to be issued to each MVP.
 
 ##### <a id="57"></a>57  Secretary to modulate investment credit for each MVP
 
-                   When the Secretary has worked out the unmodulated investment credit, in relation to each MVP and a particular quarter in an ACIS Stage, in respect of eligible investments, the Secretary must modulate each unmodulated investment credit to work out the modulated investment credit to be issued to each MVP.
-
-Note:          Unmodulated type J investment credit is worked out under the R&amp;D scheme.
+                   When the Secretary has worked out the unmodulated investment credit, in relation to each MVP and a particular quarter, in respect of eligible investments, the Secretary must modulate each unmodulated investment credit to work out the modulated investment credit to be issued to each MVP.
 
 ##### <a id="58"></a>58  Secretary must modulate in accordance with Ministerial guidelines
 
@@ -2229,45 +2010,11 @@ Note:          Unmodulated type J investment credit is worked 
 
 ##### <a id="59"></a>59  Secretary to modulate investment credit for each ACP, AMTP and ASP
 
-                   When the Secretary has worked out the unmodulated investment credit in relation to each ACP, AMTP and ASP and a particular quarter in an ACIS Stage, in respect of eligible investments, the Secretary must modulate each unmodulated investment credit to work out the modulated investment credit to be issued to each ACP, AMTP or ASP, as the case requires.
+                   When the Secretary has worked out the unmodulated investment credit in relation to each ACP, AMTP and ASP and a particular quarter, in respect of eligible investments, the Secretary must modulate each unmodulated investment credit to work out the modulated investment credit to be issued to each ACP, AMTP or ASP, as the case requires.
 
 ##### <a id="60"></a>60  Secretary must modulate in accordance with Ministerial guidelines
 
                    The Secretary must conduct each modulation required under this Division in the manner set out in guidelines made under section 55.
-
-## Part 5A—Research and development scheme
-
-##### <a id="60A"></a>60A  Research and development scheme
-
-             (1)  The Minister must, by writing, formulate a scheme (the **_R&amp;D scheme_**) for the issuing, in respect of ACIS Stage 2, of duty credits to MVPs in return for the MVPs undertaking type J investment.
-
-Matters that the scheme may provide for
-
-             (2)  Without limiting subsection (1), the scheme may provide for the following:
-
-                     (a)  the kinds of research and development undertaken by MVPs that are allowed for the purposes of the scheme;
-
-                     (b)  the amount of credits available to be issued under the scheme;
-
-                     (c)  guidelines for working out the amount of unmodulated type J investment credit available to be issued to an MVP in respect of a quarter;
-
-                     (d)  the amount of credits available for issuing under the scheme in respect of each year of the scheme;
-
-                     (e)  conferring of powers on the Minister or Secretary to make decisions of an administrative character relating to the scheme.
-
-When must scheme be formulated?
-
-             (3)  The Minister must formulate the scheme by the end of the period of one calendar year beginning on the day on which the _ACIS Administration Amendment Act 2003_ receives the Royal Assent.
-
-Scheme a disallowable instrument
-
-             (4)  An instrument under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
-
-##### <a id="60B"></a>60B  Variation of R&amp;D scheme
-
-             (1)  The R&amp;D scheme may be varied, but not revoked, in accordance with subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-             (2)  Subsection (1) does not limit the application of subsection 33(3) of the _Acts Interpretation Act 1901_ to other instruments under this Act.
 
 ## Part 6—The ACIS ledger and its maintenance
 
@@ -2275,7 +2022,7 @@ Scheme a disallowable instrument
 
 ##### <a id="61"></a>61  Overview of Part
 
-             (1)  This Part deals with the ACIS ledger and its maintenance. Once modulated credit, unmodulated uncapped production credit or unmodulated type J investment credit has been worked out by the Secretary, the Secretary issues the credit by entering it in the ledger. Credit so entered in the ledger is duty credit.
+             (1)  This Part deals with the ACIS ledger and its maintenance. Once modulated credit has been worked out by the Secretary, the Secretary issues the credit by entering it in the ledger. Credit so entered in the ledger is duty credit.
 
              (2)  Division 2 deals with the establishment of the ledger and the making of entries in it.
 
@@ -2291,57 +2038,41 @@ Scheme a disallowable instrument
 
              (2)  The ledger may be kept in an electronic form.
 
-             (3)  The ledger is to be divided into 3 parts—one part for duty credits issued in respect of each ACIS Stage.
-
 ##### <a id="63"></a>63  Information to be kept in ledger
 
-                   The ACIS ledger is to be a record of the modulated credit, unmodulated uncapped production credit and unmodulated type J investment credit that a person owns either:
+                   The ACIS ledger is to be a record of the modulated credit that a person owns either:
 
                      (a)  because the credit was issued to the person; or
 
                      (b)  because the credit was transferred to the person.
 
-##### <a id="64"></a>64  Entry of credit in the ledger
+##### <a id="64"></a>64  Entry of modulated credit in the ledger
 
-             (1)  After working out, under sections 54 and 56, the modulated capped production credit (if any) that is to be issued to an MVP, the Secretary must enter the credit in the ACIS ledger in respect of the MVP and the ACIS Stage concerned.
+             (1)  After working out, under section 56, the modulated capped or uncapped MVP production credit (if any) that is to be issued to an MVP, the Secretary must enter the modulated credit of that kind in the ACIS ledger in respect of the MVP.
 
-             (2)  After working out, under sections 54 and 57, the modulated investment credit (if any) that is to be issued to an MVP, the Secretary must enter the credit in the ledger in respect of the MVP and the ACIS Stage concerned.
+             (2)  After working out, under section 57, the modulated investment credit (if any) that is to be issued to an MVP, the Secretary must enter the credit in the ledger in respect of the MVP.
 
-             (3)  After working out, under sections 54 and 59, the modulated investment credit (if any) that is to be issued to an ACP, AMTP or ASP, the Secretary must enter the credit in the ledger in respect of the ACP, AMTP or ASP and the ACIS Stage concerned.
+             (3)  After working out, under section 59, the modulated investment credit (if any) that is to be issued to an ACP, AMTP or ASP, the Secretary must enter the credit in the ledger in respect of the ACP, AMTP or ASP.
 
-             (4)  After working out, under subsection 42(1) and section 54, the amount of unmodulated uncapped production credit that is to be issued to an MVP in respect of a quarter, the Secretary must enter the credit in the ledger in respect of the MVP and the ACIS Stage concerned.
+##### <a id="65"></a>65  Effect of entering modulated credit in the ledger
 
-             (5)  After working out, under the R&amp;D scheme and section 54, the amount of unmodulated type J investment credit that is to be issued to an MVP in respect of ACIS Stage 2, the Secretary must enter the credit in the ledger in respect of the MVP and ACIS Stage 2.
-
-Note:          Unmodulated type J investment credit may be issued to an MVP in respect of ACIS Stage 2 only.
-
-##### <a id="65"></a>65  Effect of entering credit in the ACIS ledger
-
-                   When the Secretary enters modulated credit, unmodulated uncapped production credit or unmodulated type J investment credit in the ACIS ledger in respect of a participant, the credit is issued to the participant as a duty credit.
+                   When the Secretary enters in the ACIS ledger modulated credit worked out under section 56, 57 or 59 in respect of a participant, the credit is issued to the person as a duty credit.
 
 ##### <a id="66"></a>66  Circumstances in which the Secretary must amend the ledger 
 
-             (1)  The Secretary must amend the ACIS ledger in respect of a person and the person’s duty credit in the following circumstances:
+                   The Secretary must amend the ACIS ledger in respect of a person and the person’s duty credit in the following circumstances:
 
                      (a)  when the person applies duty credit in respect of the  importation of  eligible imports;
 
-                    (aa)  when the person applies duty credit in accordance with subsection 74A(1) against an earlier payment of duty on the importation of eligible imports;
+                    (aa)  when the person applies duty credit in accordance with section 75A against an earlier payment of duty on the importation of eligible imports;
 
                      (b)  when the Secretary applies duty credit under Part 9 to offset an unearned credit liability that the person has;
 
                      (c)  when the person transfers duty credit to another person;
 
-                     (d)  to give effect to a decision of the Administrative Appeals Tribunal or of a court concerning the person.
+                     (d)  to give effect to a decision of the Administrative Appeals Tribunal or of a court concerning the person;
 
-             (2)  If the Secretary determines under section 68 that there has been an error in the ACIS ledger that would require an increase in the duty credit entered in respect of a participant and an ACIS Stage, the Secretary must amend the ledger to fix the error if and only if:
-
-                     (a)  the cap for the stage has not been reached (see section 53); and
-
-                     (b)  the personal limit for the participant for the ACIS year in which the error was entered in the ledger has not been reached (see section 54).
-
-             (3)  If the Secretary determines that there is an error in the ledger that would require a decrease in the duty credit entered in respect of a participant, the Secretary must amend the ledger to fix the error.
-
-             (4)  This section operates subject to section 71.
+                     (e)  if the Secretary determines that there is an error in the ledger in respect of the person.
 
 ##### <a id="67"></a>67  Ledger to show balance of credit
 
@@ -2349,7 +2080,7 @@ Note:          Unmodulated type J investment credit may be iss
 
 ##### <a id="68"></a>68  Person may apply to Secretary to fix an error in ledger
 
-             (1)  If a person believes that there is an error in the ACIS ledger in respect of themselves and an ACIS Stage (the **_relevant stage_**), the person may apply to the Secretary to amend the ledger.
+             (1)  If a person believes that there is an error in the ACIS ledger in respect of themselves, the person may apply to the Secretary to amend the ledger.
 
              (2)  The application:
 
@@ -2359,21 +2090,11 @@ Note:          Unmodulated type J investment credit may be iss
 
                      (c)  specify the reasons that the person believes that there is such an error; and
 
-                     (d)  specify the amendment to the ledger that the person believes should be made to correct the alleged error; and
-
-                     (e)  must be made during the relevant stage or during the calendar year next following the relevant stage.
-
-             (3)  An application is valid if it complies with subsection (2).
-
-             (4)  If the Secretary receives a valid application under subsection (1), the Secretary must determine if there is an error in the ledger.
-
-             (5)  The Secretary may, on his or her own initiative, determine that there is an error in the ledger in respect of a participant and an ACIS Stage.
+                     (d)  specify the amendment to the ledger that the person believes should be made to correct the alleged error.
 
 ##### <a id="69"></a>69  Electronic access to ledger
 
-             (1)  If the Secretary keeps the ACIS ledger in an electronic form, the Secretary may make provision for persons who own or owned duty credit to have electronic access to the ledger.
-
-          (1A)  At any time, the ACIS ledger kept in electronic form need only show the entries relating to the period of the ACIS Stage that is current at that time and the calendar year next following that stage.
+             (1)  If the Secretary keeps the ACIS ledger in an electronic form, the Secretary may make provision for persons who own duty credit to have electronic access to the ledger.
 
              (2)  In making such provision, the Secretary must ensure that a person may only access the part of the ledger that relates to that person.
 
@@ -2381,13 +2102,17 @@ Note:          Unmodulated type J investment credit may be iss
 
              (1)  The Secretary must, within 7 days after a modulation day in respect of a quarter, send to each person who owns or owned duty credit during that quarter a notice setting out the entries made in the ledger in respect of the person in the quarter.
 
-             (2)  In this section, **_modulation day_**, in respect of a quarter, means the day that the Secretary enters modulated credit in the ledger under section 64 in respect of the quarter.
+             (2)  In this section, **_modulation day_**, in respect of a quarter, means the day that the Secretary enters modulated credit in the ledger under sections 56, 57 and 59 in respect of the quarter.
 
 ### Division 3—Period in which entries in ledger to be made
 
 ##### <a id="71"></a>71  Time in which entries to be made
 
-                   The Secretary can only amend the ACIS ledger in respect of an ACIS Stage during that stage and during the 6 calendar years next following that stage.
+                   The Secretary may amend the ACIS ledger at any time.
+
+##### <a id="72"></a>72  Secretary does not have to amend the ledger after 31 December 2006
+
+                   Despite sections 64 and 66, the Secretary does not have to amend the ACIS ledger after 31 December 2006.
 
 ### Division 4—No liability for ledger entries
 
@@ -2401,55 +2126,13 @@ Note:          Unmodulated type J investment credit may be iss
 
 ##### <a id="74"></a>74  Overview of Part
 
-                   This Part:
+                   This Part provides that duty credit:
 
-                     (a)  provides for the use and expiry of duty credits (Division 1A); and
+                     (a)  is transferable (Division 2); and
 
-                     (b)  provides that duty credits are transferable (Division 2); and
+                     (b)  may be applied against previously paid duty (Division 2A); and
 
-                     (c)  provides that duty credits may be subject to limited use restrictions (Division 3).
-
-Note:          The main use for duty credits is applying duty credits in respect of the importation of eligible imports.
-
-### Division 1A—Use and expiry of duty credits
-
-##### <a id="74A"></a>74A  Use and expiry of duty credits
-
-             (1)  Duty credits issued in respect of an ACIS Stage may be applied:
-
-                     (a)  to the importation of eligible imports; or
-
-                     (b)  against customs duty a person has already paid if the duty was paid in respect of the importation, on or after 1 January 2001, of eligible imports.
-
-Note 1:       Duty credits may also be transferred. See section 75.
-
-Note 2:       The purpose of applying duty credit as provided for in paragraph (1)(b) is to get a refund (equal to the amount of duty credit applied) of duty that has already been paid. For provisions about refunds, see the regulations made for the purposes of section 163 of the _Customs Act 1901_.
-
-             (2)  Duty credits issued in respect of a particular ACIS Stage may only be applied as provided for in subsection (1):
-
-                     (a)  during that particular stage; or
-
-                     (b)  on or before 31 December of the calendar year next following the stage.
-
-             (3)  Duty credit issued in respect of a particular ACIS Stage **_expires_** if the duty credit has not been applied as provided for in subsection (1):
-
-                     (a)  during the particular stage; or
-
-                     (b)  on or before 31 December of the calendar year next following the stage.
-
-##### <a id="74B"></a>74B  How application of previously paid duty credits to be made
-
-                   An application of duty credit under paragraph 74A(1)(b) can only be made by notifying the Secretary. The notification must:
-
-                     (a)  be in writing; and
-
-                     (b)  be in the approved form; and
-
-                     (c)  contain such information as the form requires; and
-
-                     (d)  be signed in the manner indicated in the form; and
-
-                     (e)  comply with any other applicable requirements specified in regulations made for the purposes of this paragraph.
+                     (c)  may be subject to limited use restrictions (Division 3).
 
 ### Division 2—Transfer of credit
 
@@ -2477,11 +2160,31 @@ Note 2:       The purpose of applying duty credit as provided for in
 
              (5)  If duty credit is transferred and the ledger amended accordingly, that transfer is not affected if the Secretary subsequently determines that the transferor was not entitled to all or any of the credit that has been so transferred.
 
+### Division 2A—Application of duty credit against previously paid duty
+
+##### <a id="75A"></a>75A  When can a person apply duty credit against duty that has already been paid?
+
+             (1)  A person can apply duty credit the person owns against duty that the person has already paid if that duty was paid in respect of the importation, on or after 1 January 2001, of eligible imports.
+
+Note:          The purpose of applying duty credit in this way is to get a refund (equal to the amount of duty credit applied) of duty that has already been paid. For provisions about refunds, see the regulations made for the purposes of section 163 of the _Customs Act 1901_.
+
+             (2)  An application of duty credit under subsection (1) can only be made by notifying the Secretary. The notification must:
+
+                     (a)  be in writing; and
+
+                     (b)  be in the approved form; and
+
+                     (c)  contain such information as the form requires; and
+
+                     (d)  be signed in the manner indicated in the form; and
+
+                     (e)  comply with any other applicable requirements specified in regulations made for the purposes of this paragraph.
+
 ### Division 3—Minister may limit use of credit in certain circumstances
 
 ##### <a id="76"></a>76  Minister may limit use of modulated ACP, AMTP or ASP investment credit
 
-             (1)  The Minister may, by notice in writing, declare that, with effect from the date of publication of that notice, and for the period specified in that notice:
+             (1)  The Minister may, by notice in writing, declare that, with effect from the date of publication of that notice:
 
                      (a)  any duty credit that is modulated ACP, AMTP or ASP investment credit in the ACIS ledger on that date; or
 
@@ -2491,7 +2194,7 @@ may only be used:
 
                      (c)  as credit in respect of motor vehicles entered under item 41E of Schedule 4 to the Tariff; or
 
-                    (ca)  by applying it in accordance with paragraph 74A(1)(b) against an earlier payment of duty on the importation of eligible imports; or
+                    (ca)  by applying it in accordance with section 75A against an earlier payment of duty on the importation of eligible imports; or
 
                      (d)  as a set-off against a liability under the _ACIS (Unearned Credit Liability) Act 1999_.
 
@@ -2501,7 +2204,7 @@ may only be used:
 
 ##### <a id="77"></a>77  Minister may limit use of certain production credit
 
-             (1)  The Minister may, by notice in writing, declare that, with effect from the date of publication of that notice, and for the period specified in that notice:
+             (1)  The Minister may, by notice in writing, declare that, with effect from the date of publication of that notice:
 
                      (a)  any duty credit that is modulated capped production credit in the ACIS ledger on that date; or
 
@@ -2511,7 +2214,7 @@ may only be used:
 
                      (c)  as credit in respect of motor vehicles entered under item 41E of Schedule 4 to the Tariff; or
 
-                    (ca)  by applying it in accordance with paragraph 74A(1)(b) against an earlier payment of duty on the importation of eligible imports; or
+                    (ca)  by applying it in accordance with section 75A against an earlier payment of duty on the importation of eligible imports; or
 
                      (d)  as a set-off against a liability under the _ACIS (Unearned Credit Liability) Act 1999_.
 
@@ -2913,9 +2616,7 @@ the balance is to be offset against the liability in the order set out in sectio
 
                      (c)  next, offset so much of the duty credit that is modulated MVP investment credit (if any);
 
-                     (d)  next, offset so much of the duty credit that is unmodulated uncapped production credit (if any);
-
-                     (e)  next, offset so much of the duty credit that is unmodulated type J investment credit.
+                     (d)  next, offset so much of the duty credit that is modulated uncapped production credit (if any).
 
 ##### <a id="101"></a>101  Amount of unearned credit liability outstanding
 
@@ -3019,11 +2720,11 @@ First update if participant registered after the first quarter of a year
 
 Later updates
 
-             (4)  After a first update has been provided, later updates must be provided by a participant in each ACIS year after the year in which the participant is required to provide a first update. Each update must be provided within the time allowed under subsection 35(1) for providing a third quarter return in respect of that subsequent year.
+             (4)  After a first update has been provided, later updates must be provided by a participant in each year after the year in which the participant is required to provide a first update and before 2005\. Each update must be provided within the time allowed under subsection 35(1) for providing a third quarter return in respect of that subsequent year.
 
 Period update must cover
 
-             (5)  Each update must cover the 5 year period starting on 1 January of the year next following the date by which it is to be provided under this section.
+             (5)  Each update must cover the period starting on 1 January of the year next following the date by which it is to be provided under this section and ending on 31 December 2005.
 
 Meaning of terms used in this section
 
@@ -3099,15 +2800,9 @@ Note:          The meaning of **_fit and proper_** is extended
 
                       (f)  a decision by the Secretary under guidelines made under section 10 as to whether an ACIS participant is entitled to duty credit;
 
-                    (fa)  a decision by the Secretary under subsection 42(1):
-
-                              (i)  not to issue an MVP with unmodulated uncapped production credit; or
-
-                             (ii)  as to the amount of any credit to be so issued;
-
                      (g)  a decision by the Secretary under section 56:
 
-                              (i)  not to issue an MVP with modulated capped production credit; or
+                              (i)  not to issue an MVP with modulated capped or modulated uncapped production credit; or
 
                              (ii)  as to the amount of any credit to be so issued;
 
@@ -3120,12 +2815,6 @@ Note:          The meaning of **_fit and proper_** is extended
                       (i)  a decision by the Secretary under section 59:
 
                               (i)  not to issue an ACP, AMTP or ASP with modulated investment credit; or
-
-                             (ii)  as to the amount of any credit to be so issued;
-
-                      (j)  a decision under the R&amp;D scheme:
-
-                              (i)  not to issue an MVP with unmodulated type J investment credit; or
 
                              (ii)  as to the amount of any credit to be so issued.
 
@@ -3149,19 +2838,15 @@ the limitations set out in the following subsections apply to the implementation
 
                      (a)  the applicant for review is a participant at the time that the court’s decision concerning his or her application is made; and
 
-                     (b)  the court’s decision would result in the applicant being issued with an increased amount of modulated capped production credit, modulated investment credit or unmodulated type J investment credit;
+                     (b)  the court’s decision would result in the applicant being issued with an increased amount of modulated capped production credit or modulated investment credit;
 
-the court’s decision can only be given effect to if:
-
-                     (c)  the stage cap (referred to in section 53) for the stage in respect of when the original decision was made has not been reached; and
-
-                     (d)  the court’s decision is made before the end of the calendar year next following that stage.
+the court’s decision can only be given effect to if the $2,000,000,000 cap on ACIS (section 53) has not been reached.
 
              (4)  If the applicant for review is a participant at the time that the court’s decision concerning his or her application is made:
 
-                     (a)  the decision can only be given effect to if the applicant’s personal 5% limit on sales (section 54) in respect of the ACIS year in which the original decision was made has not been reached; and
+                     (a)  the decision can only be given effect to if the applicant’s personal 5% cap on sales (section 54) in respect of the ACIS year in which the court decision was made has not been reached; and
 
-                     (b)  if the limit has not been reached, the decision can only be given effect to to the extent of the 5% limit.
+                     (b)  if the cap has not been reached, the decision can only be given effect to to the extent of the 5% cap.
 
 ##### <a id="113"></a>113  Limitations on implementation of AAT decisions concerning duty credit decisions 
 
@@ -3179,19 +2864,15 @@ the limitations set out in the following subsections apply to the implementation
 
                      (a)  the applicant for review is a participant at the time that the AAT’s decision concerning his or her application is made; and
 
-                     (b)  the AAT’s decision would result in the applicant being issued with an increased amount of modulated capped production credit, modulated investment credit or unmodulated type J investment credit;
+                     (b)  the AAT’s decision would result in the applicant being issued with an increased amount of modulated capped production credit or modulated investment credit;
 
-the AAT’s decision can only be given effect to if:
-
-                     (c)  the stage cap (referred to in section 53) for the stage in respect of which the original decision was made has not been reached; and
-
-                     (d)  the AAT’s decision is made before the end of the calendar year next following that stage.
+the AAT’s decision can only be given effect to if the $2,000,000,000 cap on ACIS (section 53) has not been reached.
 
              (4)  If the applicant for review is a participant at the time that the AAT’s decision concerning his or her application is made:
 
-                     (a)  the decision can only be given effect to if the applicant’s personal 5% limit on sales (section 54) in respect of the ACIS year in which the original decision was made has not been reached; and
+                     (a)  the decision can only be given effect to if the applicant’s personal 5% cap on sales (section 54) in respect of the ACIS year in which the AAT decision was made has not been reached; and
 
-                     (b)  if the limit has not been reached, the decision can only be given effect to to the extent of the 5% limit.
+                     (b)  if the cap has not been reached, the decision can only be given effect to to the extent of the 5% cap.
 
 ##### <a id="114"></a>114  Review of other decisions
 
@@ -3240,14 +2921,6 @@ the AAT’s decision can only be given effect to if:
              (3)  If the Secretary delegates a power mentioned in subsection (2) to the Chief Executive Officer of the Australian Customs Service, the Chief Executive Officer may, by writing, sub-delegate the power to an officer of Customs (within the meaning of the _Customs Act 1901_).
 
              (4)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply in relation to the sub-delegation in a corresponding way to the way in which they apply to a delegation.
-
-##### <a id="115A"></a>115A  Minister may publish information relating to participants
-
-                   The Minister may cause to be published the following information about a participant or a person who was a participant:
-
-                     (a)  that the person is or was a participant and the period of the person’s participation in ACIS;
-
-                     (b)  the amount of duty credit entered in the ACIS ledger in respect of the person and an ACIS year.
 
 ##### <a id="116"></a>116  Regulations
 
@@ -3446,7 +3119,7 @@ Remainder: Royal Assent</div>
     <div>14 Oct 2003</div>
   </td>
   <td>
-    <div>Schedule 1: 14 Apr 2004 
+    <div>Schedule 1: \[ <i>see</i> <i>(d)</i>, Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3485,6 +3158,95 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
+_(d)_ Subsections 2(1) (item 2) and (3) of the _ACIS Administration Amendment Act 2003_ provide as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      2\. Schedule 1
+    </div>
+  </td>
+  <td>
+    <div>
+      A single day to be fixed by Proclamation, subject to subsection (3)
+    </div>
+  </td>
+  <td>
+    <div>
+      \[
+        <i>see</i>Note 2]
+    </div>
+  </td>
+</tr></table>
+
+                 (3)   If a provision covered by item 2 of the table does not commence within the period of 6 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+
 ## Table of Amendments
 
 <table>
@@ -3521,7 +3283,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 21 and 96, 2003</div>
+    <div>am. No. 21, 2003</div>
   </td>
 </tr>
 <tr>
@@ -3529,7 +3291,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 149, 2000; No. 83, 2002; Nos. 21 and 96, 2003</div>
+    <div>am. No. 149, 2000; No. 83, 2002; No. 21, 2003</div>
   </td>
 </tr>
 <tr>
@@ -3542,14 +3304,6 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 7(6)</div>
-  </td>
-  <td>
-    <div>am. No. 149, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
@@ -3558,18 +3312,10 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 10</div>
+    <div>Subhead. to s. 7(6)</div>
   </td>
   <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
+    <div>am. No. 149, 2000</div>
   </td>
 </tr>
 <tr>
@@ -3734,34 +3480,10 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 </tr>
 <tr>
   <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rs. No. 96, 2003</div>
   </td>
 </tr>
 <tr>
@@ -3777,7 +3499,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 149, 2000; No. 83, 2002; No. 96, 2003</div>
+    <div>am. No. 149, 2000; No. 83, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3846,186 +3568,10 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rs. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53A</div>
-  </td>
-  <td>
-    <div>ad. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 54</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 54(1)–(3)</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>rs. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 57</div>
-  </td>
-  <td>
-    <div>ad. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 60A, 60B</div>
-  </td>
-  <td>
-    <div>ad. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4038,74 +3584,10 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 </tr>
 <tr>
   <td>
-    <div>Ss. 62, 63</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 64</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>rs. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 66</div>
   </td>
   <td>
-    <div>am. Nos. 21 and 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 68–70</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>rs. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>rep. No. 96, 2003</div>
+    <div>am. No. 21, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4129,31 +3611,15 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 74</div>
   </td>
   <td>
-    <div>rs. Nos. 21 and 96, 2003</div>
+    <div>rs. No. 21, 2003</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1A</b></div>
+    <div><b>Division 2A</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1A of Part 7</div>
-  </td>
-  <td>
-    <div>ad. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 74A, 74B</div>
-  </td>
-  <td>
-    <div>ad. No. 96, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4166,26 +3632,10 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 75A</div>
   </td>
   <td>
     <div>ad. No. 21, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 96, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4201,31 +3651,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>Ss. 76, 77</div>
   </td>
   <td>
-    <div>am. Nos. 21 and 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 100</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
+    <div>am. No. 21, 2003</div>
   </td>
 </tr>
 <tr>
@@ -4241,7 +3667,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 109</div>
   </td>
   <td>
-    <div>am. No. 149, 2000; No. 96, 2003</div>
+    <div>am. No. 149, 2000</div>
   </td>
 </tr>
 <tr>
@@ -4273,7 +3699,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 111</div>
   </td>
   <td>
-    <div>am. No. 149, 2000; No. 96, 2003</div>
+    <div>am. No. 149, 2000</div>
   </td>
 </tr>
 <tr>
@@ -4289,15 +3715,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
     <div>S. 112</div>
   </td>
   <td>
-    <div>am. No. 194, 1999; No. 96, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 113</div>
-  </td>
-  <td>
-    <div>am. No. 96, 2003</div>
+    <div>am. No. 194, 1999</div>
   </td>
 </tr>
 <tr>
@@ -4315,15 +3733,782 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
   <td>
     <div>am. No. 146, 1999; No. 21, 2003</div>
   </td>
+</tr></table>
+
+### Note 2
+
+_ACIS Administration Amendment Act 2003 (No. 96, 2003)_
+
+The following amendments commence on 14 April 2004 unless proclaimed earlier:
+
+## Schedule 1
+
+1  Subsection 4(1)
+
+Omit “section 75A”, substitute “subsection 74A(1)”.
+
+2  After subsection 4(1)
+
+Insert:
+
+          (1A)  There are 3 stages in ACIS:
+
+                     (a)  Stage 1—the period commencing on the scheme commencement date and ending 31 December 2005; and
+
+                     (b)  Stage 2—the period commencing on 1 January 2006 and ending on 31 December 2010; and
+
+                     (c)  Stage 3—the period commencing on 1 January 2011 and ending on 31 December 2015.
+
+3  Subsections 4(2) and (3)
+
+Repeal the subsections, substitute:
+
+             (2)  Each ACIS Stage has a cap on the value of certain duty credit that may be entered in the ACIS ledger in respect of that stage. The stage caps are as follows:
+
+                     (a)  ACIS Stage 1—$2,000,000,000;
+
+                     (b)  ACIS Stage 2—$2,000,000,000;
+
+                     (c)  ACIS Stage 3—$1,000,000,000.
+
+There are also personal limits on each participant in respect of each ACIS year (see section 54).
+
+          (2A)  In ACIS Stages 2 and 3, the stage cap will be divided into separate funding pools—one for MVPs and the other for participants who are not MVPs (see section 55).
+
+             (3)  In ACIS Stage 2, the R&amp;D scheme operates to provide to MVPs, within the funding pool for MVPs, duty credits that are unmodulated type J investment credits (see Part 5A).
+
+          (3A)  Participants can receive duty credits in respect of an ACIS Stage if the cap for that stage has not already been reached. Duty credits issued in respect of a particular ACIS Stage may be applied:
+
+                     (a)  to the importation of eligible imports; or
+
+                     (b)  against the customs duty a person has already paid if the duty was paid in respect of the importation, on or after 1 January 2001, of eligible imports.
+
+          (3B)  Duty credit issued in respect of a particular ACIS Stage expires if the duty credit has not been applied against customs duty:
+
+                     (a)  during the particular stage; or
+
+                     (b)  on or before 31 December of the calendar year next following the stage (see section 74A).
+
+4  Subsection 4(6)
+
+Omit “(Part 4)”, substitute “(Part 4 and the R&amp;D scheme for unmodulated type J investment credit)”.
+
+5  Subsection 4(7)
+
+Repeal the subsection, substitute:
+
+             (7)  The scheme provides for a modulation process (Part 5) under which unmodulated credit (except unmodulated uncapped production credit and unmodulated type J investment credit), is converted into modulated credit. The modulation process has regard to the stage caps for ACIS.
+
+6  Subsection 4(8)
+
+After “modulated credit”, insert “, unmodulated uncapped production credit or unmodulated type J investment credit”.
+
+7  Subsection 6(1)
+
+Insert:
+
+                    <a name="aci-stage"></a>**_ACIS Stage_** means ACIS Stage 1, ACIS Stage 2 or ACIS Stage 3.
+
+8  Subsection 6(1)
+
+Insert:
+
+                    <a name="aci-stage"></a>**_ACIS Stage 1_** means the period commencing on the scheme commencement date and ending on 31 December 2005.
+
+9  Subsection 6(1)
+
+Insert:
+
+                    <a name="aci-stage"></a>**_ACIS Stage 2_** means the period commencing on 1 January 2006 and ending on 31 December 2010.
+
+10  Subsection 6(1)
+
+Insert:
+
+                    <a name="aci-stage"></a>**_ACIS Stage 3_** means the period commencing on 1 January 2011 and ending on 31 December 2015.
+
+11  Subsection 6(1) (definition of _ACIS year_)
+
+Omit “2006”, substitute “2016”.
+
+12  Subsection 6(1) (definition of _duty credit_)
+
+Repeal the definition, substitute:
+
+                    <a name="duti-crite"></a>**_duty credit_** means any of the following that has been entered in the ACIS ledger:
+
+                     (a)  modulated capped production credit;
+
+                     (b)  unmodulated uncapped production credit;
+
+                     (c)  modulated investment credit;
+
+                     (d)  unmodulated type J investment credit.
+
+However, it does not include such a credit that has expired.
+
+13  Subsection 6(1)
+
+Insert:
+
+                    <a name="expir"></a>**_expires_**, in relation to a duty credit, has the meaning given by subsection 74A(3).
+
+14  Subsection 6(1) (definition of _final quarter_)
+
+Repeal the definition, substitute:
+
+                    <a name="final-quarter"></a>**_final quarter_** means:
+
+                     (a)  for ACIS Stage 1—the quarter ending on 31 December 2005; and
+
+                     (b)  for ACIS Stage 2—the quarter ending on 31 December 2010; and
+
+                     (c)  for ACIS Stage 3—the quarter ending on 31 December 2015.
+
+15  Subsection 6(1) (paragraph (b) of the definition of _modulated credit_)
+
+Repeal the paragraph.
+
+16  Subsection 6(1) (definition of _modulated uncapped production credit_)
+
+Repeal the definition.
+
+17  Subsection 6(1)
+
+Insert:
+
+                    <a name="scheme"></a>**_R&amp;D scheme_** means the scheme the Minister formulates under subsection 60A(1).
+
+18  Subsection 6(1)
+
+Insert:
+
+                    <a name="type-invest"></a>**_type J investment_**, in relation to a quarter falling in ACIS Stage 2 and an MVP, means investment undertaken by the MVP:
+
+                     (a)  in that quarter; and
+
+                     (b)  in that part of the MVP’s research and development that is allowed under the R&amp;D scheme.
+
+Note 1:       See regulations made under subsection (5) for when particular investment undertaken by an MVP is treated as having occurred.
+
+Note 2:       See section 6C for when investment undertaken by a person can be treated as investment undertaken by another person who is an MVP.
+
+19  Subsection 6(1)
+
+Insert:
+
+                    <a name="unmodulated-type-invest-crite"></a>**_unmodulated type J investment credit_**, in relation to a quarter falling in ACIS Stage 2, means the credit worked out in relation to that quarter and an MVP under the R&amp;D scheme.
+
+20  Subsection 10(1)
+
+Omit “modulated credit, the modulated”, substitute “modulated credit, unmodulated uncapped production credit or unmodulated type J investment credit, the”.
+
+21  Subsection 10(2)
+
+After “modulated credit”, insert “, unmodulated uncapped production credit or unmodulated type J investment credit”.
+
+_Note:       The heading to section 10 is altered by omitting “modulated”._
+
+22  Subsection 40(1)
+
+After “final quarter”, insert “for an ACIS Stage”.
+
+23  Subsection 40(1)
+
+After “2 or more quarters”, insert “for the same ACIS Stage”.
+
+24  Subsection 40(4)
+
+After “final quarter”, insert “for an ACIS Stage”.
+
+25  Section 41
+
+Repeal the section, substitute:
+
+##### <a id="41"></a>41  Overview of Part
+
+                   This Part deals with the working out of unmodulated credits.
+
+Note:          Unmodulated type J investment credit is worked out under the R&amp;D scheme.
+
+26  Subsection 42(1)
+
+Omit “for the MVP”, substitute “to be issued to the MVP”.
+
+27  Subsection 52(1)
+
+After “unmodulated credits”, insert “, other than unmodulated uncapped production credits and unmodulated type J investment credits,”.
+
+28  Section 53
+
+Repeal the section, substitute:
+
+<a id="53"></a>53  Stage caps on ACIS
+
+Caps for each stage of ACIS
+
+             (1)  In respect of an ACIS Stage listed in the table below, the Secretary must not enter in the ACIS ledger modulated capped production credit, modulated investment credit or unmodulated type J investment credit that in total exceeds the amount listed next to that ACIS Stage (the **_stage cap_**).
+
+Note:          Unmodulated type J investment credit can only be issued in respect of ACIS Stage 2.
+
+<table>
+<colgroup>
+  <col width="26%">
+  <col width="32%">
+  <col width="43%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Stage caps</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>ACIS Stage</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>The stage cap</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>ACIS Stage 1</div>
+  </td>
+  <td>
+    <div>$2,000,000,000</div>
+  </td>
 </tr>
 <tr>
   <td>
-    <div>S. 115A</div>
+    <div>2</div>
   </td>
   <td>
-    <div>ad. No. 96, 2003</div>
+    <div>ACIS Stage 2</div>
+  </td>
+  <td>
+    <div>$2,000,000,000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>ACIS Stage 3</div>
+  </td>
+  <td>
+    <div>$1,000,000,000</div>
   </td>
 </tr></table>
+
+Stage 2 and 3 caps divided between MVPs and others
+
+             (2)  In ACIS Stages 2 and 3, the stage cap will be divided into funding pools of amounts available to be entered in the ACIS ledger for MVPs and amounts available to be entered in the ledger for participants who are not MVPs.
+
+Note:          See the guidelines made under section 55 for how the division is to occur.
+
+Matters affecting ACIS Stage 2 cap
+
+             (3)  In ACIS Stage 2, the R&amp;D scheme will operate within the limits of the amount of the stage cap and the amount available to be entered in the ledger for  MVPs.
+
+Note:          See Part 5A.
+
+<a id="53A"></a>53A  Ledger treatment of amounts recovered under the _ACIS (Unearned Credit Liability) Act 1999_
+
+If UCL received in same ACIS Stage that duty credit was issued or the following calendar year
+
+             (1)  If:
+
+                     (a)  a person is liable to pay to the Commonwealth a UCL amount in relation to duty credit issued to a participant in respect of a particular ACIS Stage; and
+
+                     (b)  the UCL amount is received, or likely to be received, by the Commonwealth during:
+
+                              (i)  the particular stage; or
+
+                             (ii)  the calendar year next following the particular stage;
+
+then, in determining amounts to be entered in the ACIS ledger under subsection 53(1) in respect of the particular stage, the UCL amount must be taken into account in that stage.
+
+Note:          See the guidelines made under section 55 for how UCL amounts are to be dealt with.
+
+If UCL received at a later time
+
+             (2)  If:
+
+                     (a)  a person is liable to pay to the Commonwealth a UCL amount in relation to duty credit issued to a participant in respect of a particular ACIS Stage; and
+
+                     (b)  the UCL amount is not received, or not likely to be received, by the Commonwealth during:
+
+                              (i)  the particular stage; or
+
+                             (ii)  the calendar year next following the particular stage;
+
+then, in determining amounts to be entered in the ACIS ledger under subsection 53(1), the UCL amount must not be taken into account:
+
+                     (c)  in that particular stage; or
+
+                     (d)  in any other ACIS Stage.
+
+             (3)  In this section:
+
+                    <a name="ucl-amount"></a>**_UCL amount_** means the amount of a liability imposed under the _ACIS (Unearned Credit Liability) Act 1999_, including amounts received, or likely to be received, as offsets of particular duty credit against this liability.
+
+29  Subsection 54(1)
+
+Omit “at the end of each ACIS year, the total of the modulated credit”, substitute:
+
+in respect of each ACIS year, the total of the following credit:
+
+                     (a)  the modulated credit;
+
+                     (b)  the unmodulated uncapped production credit;
+
+                     (c)  the unmodulated type J investment credit;
+
+_Note 1:    The heading to section 54 is altered by omitting “cap” and substituting “limit”._
+
+_Note 2:    The heading to subsection 54(1) is altered by omitting “cap” and substituting “limit”._
+
+30  Subsection 54(2)
+
+Omit “at the end of the ACIS year in which the registration took effect, the total of the modulated credit”, substitute:
+
+in respect of the ACIS year in which the registration took effect, the total of the following credit:
+
+                     (a)  the modulated credit;
+
+                     (b)  the unmodulated uncapped production credit;
+
+                     (c)  the unmodulated type J investment credit;
+
+_Note 1:    The heading to subsection 54(2) is altered by omitting “cap” and substituting “limit”._
+
+_Note 2:    The heading to subsection 54(3) is altered by omitting “cap” and substituting “limit”._
+
+31  Subsection 54(4)
+
+Omit “sales value of the goods or services”, substitute “sales value of the goods sold and services”.
+
+32  Subsection 55(1)
+
+After “modulated”, insert “in respect of an ACIS Stage”.
+
+33  Paragraph 55(1)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  unmodulated investment credit issued to MVPs; and
+
+                    (aa)  unmodulated investment credit issued to participants who are not MVPs; and
+
+34  Paragraph 55(1)(c)
+
+Repeal the paragraph.
+
+35  After subsection 55(1)
+
+Insert:
+
+          (1A)  The Minister must also make guidelines:
+
+                     (a)  setting out how the stage caps referred to in section 53 are to be divided between MVPs and participants who are not MVPs as provided for in subsection 53(2); and
+
+                     (b)  setting out how UCL amounts (see section 53A) that under subsection 53A(1) are required to be taken into account in respect of a particular stage are to be dealt with in that stage; and
+
+                     (c)  setting out how the various credit referred to in section 54 with respect to a participant is to be adjusted so that the total of the credit does not exceed the 5% limit for the participant provided for in that section.
+
+36  Subsection 55(2)
+
+After “subsection (1)”, insert “or (1A)”.
+
+37  Paragraph 55(2)(b)
+
+Omit “$2,000,000,000 cap on ACIS (see section 53)”, substitute “relevant stage cap for the relevant ACIS Stage (see section 53)”.
+
+38  Subsection 55(3)
+
+Omit “subsection (1)”, substitute “subsection (1) or (1A)”.
+
+39  Section 56
+
+Repeal the section, substitute:
+
+<a id="56"></a>56  Secretary to modulate capped production credit for each MVP
+
+                   When the Secretary has worked out the unmodulated capped production credit (if any) in relation to each MVP and a particular quarter in an ACIS Stage, the Secretary must modulate the credit to work out the modulated capped production credit to be issued to each MVP.
+
+40  Section 57
+
+After “particular quarter”, insert “in an ACIS Stage”.
+
+41  At the end of section 57
+
+Add:
+
+Note:          Unmodulated type J investment credit is worked out under the R&amp;D scheme.
+
+42  Section 59
+
+After “particular quarter”, insert “in an ACIS Stage”.
+
+43  After Part 5
+
+Insert:
+
+## Part 5A—Research and development scheme
+
+<a id="60A"></a>60A  Research and development scheme
+
+             (1)  The Minister must, by writing, formulate a scheme (the **_R&amp;D scheme_**) for the issuing, in respect of ACIS Stage 2, of duty credits to MVPs in return for the MVPs undertaking type J investment.
+
+Matters that the scheme may provide for
+
+             (2)  Without limiting subsection (1), the scheme may provide for the following:
+
+                     (a)  the kinds of research and development undertaken by MVPs that are allowed for the purposes of the scheme;
+
+                     (b)  the amount of credits available to be issued under the scheme;
+
+                     (c)  guidelines for working out the amount of unmodulated type J investment credit available to be issued to an MVP in respect of a quarter;
+
+                     (d)  the amount of credits available for issuing under the scheme in respect of each year of the scheme;
+
+                     (e)  conferring of powers on the Minister or Secretary to make decisions of an administrative character relating to the scheme.
+
+When must scheme be formulated?
+
+             (3)  The Minister must formulate the scheme by the end of the period of one calendar year beginning on the day on which the _ACIS Administration Amendment Act 2003_ receives the Royal Assent.
+
+Scheme a disallowable instrument
+
+             (4)  An instrument under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
+<a id="60B"></a>60B  Variation of R&amp;D scheme
+
+             (1)  The R&amp;D scheme may be varied, but not revoked, in accordance with subsection 33(3) of the _Acts Interpretation Act 1901_.
+
+             (2)  Subsection (1) does not limit the application of subsection 33(3) of the _Acts Interpretation Act 1901_ to other instruments under this Act.
+
+44  Subsection 61(1)
+
+After “modulated credit”, insert “, unmodulated uncapped production credit or unmodulated type J investment credit”.
+
+45  At the end of section 62
+
+Add:
+
+             (3)  The ledger is to be divided into 3 parts—one part for duty credits issued in respect of each ACIS Stage.
+
+46  Section 63
+
+After “modulated credit”, insert “, unmodulated uncapped production credit and unmodulated type J investment credit”.
+
+47  Subsection 64(1)
+
+Repeal the subsection, substitute:
+
+             (1)  After working out, under sections 54 and 56, the modulated capped production credit (if any) that is to be issued to an MVP, the Secretary must enter the credit in the ACIS ledger in respect of the MVP and the ACIS Stage concerned.
+
+48  Subsection 64(2)
+
+Omit “section 57”, substitute “sections 54 and 57”.
+
+49  At the end of subsection 64(2)
+
+Add “and the ACIS Stage concerned”.
+
+50  Subsection 64(3)
+
+Omit “section 59”, substitute “sections 54 and 59”.
+
+51  At the end of subsection 64(3)
+
+Add “and the ACIS Stage concerned”.
+
+_Note:       The heading to section 64 is altered by omitting “modulated”._
+
+52  At the end of section 64
+
+Add:
+
+             (4)  After working out, under subsection 42(1) and section 54, the amount of unmodulated uncapped production credit that is to be issued to an MVP in respect of a quarter, the Secretary must enter the credit in the ledger in respect of the MVP and the ACIS Stage concerned.
+
+             (5)  After working out, under the R&amp;D scheme and section 54, the amount of unmodulated type J investment credit that is to be issued to an MVP in respect of ACIS Stage 2, the Secretary must enter the credit in the ledger in respect of the MVP and ACIS Stage 2.
+
+Note:          Unmodulated type J investment credit may be issued to an MVP in respect of ACIS Stage 2 only.
+
+53  Section 65
+
+Repeal the section, substitute:
+
+<a id="65"></a>65  Effect of entering credit in the ACIS ledger
+
+                   When the Secretary enters modulated credit, unmodulated uncapped production credit or unmodulated type J investment credit in the ACIS ledger in respect of a participant, the credit is issued to the participant as a duty credit.
+
+54  Paragraph 66(aa)
+
+Omit “section 75A”, substitute “subsection 74A(1)”.
+
+55  Paragraph 66(e)
+
+Repeal the paragraph.
+
+56  At the end of section 66
+
+Add:
+
+             (2)  If the Secretary determines under section 68 that there has been an error in the ACIS ledger that would require an increase in the duty credit entered in respect of a participant and an ACIS Stage, the Secretary must amend the ledger to fix the error if and only if:
+
+                     (a)  the cap for the stage has not been reached (see section 53); and
+
+                     (b)  the personal limit for the participant for the ACIS year in which the error was entered in the ledger has not been reached (see section 54).
+
+             (3)  If the Secretary determines that there is an error in the ledger that would require a decrease in the duty credit entered in respect of a participant, the Secretary must amend the ledger to fix the error.
+
+             (4)  This section operates subject to section 71.
+
+57  Subsection 68(1)
+
+Omit “themselves”, substitute “themselves and an ACIS Stage (the **_relevant stage_**)”.
+
+58  At the end of subsection 68(2)
+
+Add:
+
+             ; and (e)  must be made during the relevant stage or during the calendar year next following the relevant stage.
+
+59  At the end of section 68
+
+Add:
+
+             (3)  An application is valid if it complies with subsection (2).
+
+             (4)  If the Secretary receives a valid application under subsection (1), the Secretary must determine if there is an error in the ledger.
+
+             (5)  The Secretary may, on his or her own initiative, determine that there is an error in the ledger in respect of a participant and an ACIS Stage.
+
+60  Subsection 69(1)
+
+After “own”, insert “or owned”.
+
+61  After subsection 69(1)
+
+Insert:
+
+          (1A)  At any time, the ACIS ledger kept in electronic form need only show the entries relating to the period of the ACIS Stage that is current at that time and the calendar year next following that stage.
+
+62  Subsection 70(2)
+
+Omit “sections 56, 57 and 59”, substitute “section 64”.
+
+63  Sections 71 and 72
+
+Repeal the sections, substitute:
+
+<a id="71"></a>71  Time in which entries to be made
+
+                   The Secretary can only amend the ACIS ledger in respect of an ACIS Stage during that stage and during the 6 calendar years next following that stage.
+
+64  Section 74
+
+Repeal the section, substitute:
+
+<a id="74"></a>74  Overview of Part
+
+                   This Part:
+
+                     (a)  provides for the use and expiry of duty credits (Division 1A); and
+
+                     (b)  provides that duty credits are transferable (Division 2); and
+
+                     (c)  provides that duty credits may be subject to limited use restrictions (Division 3).
+
+Note:          The main use for duty credits is applying duty credits in respect of the importation of eligible imports.
+
+65  After Division 1 of Part 7
+
+Insert:
+
+### Division 1A—Use and expiry of duty credits
+
+<a id="74A"></a>74A  Use and expiry of duty credits
+
+             (1)  Duty credits issued in respect of an ACIS Stage may be applied:
+
+                     (a)  to the importation of eligible imports; or
+
+                     (b)  against customs duty a person has already paid if the duty was paid in respect of the importation, on or after 1 January 2001, of eligible imports.
+
+Note 1:       Duty credits may also be transferred. See section 75.
+
+Note 2:       The purpose of applying duty credit as provided for in paragraph (1)(b) is to get a refund (equal to the amount of duty credit applied) of duty that has already been paid. For provisions about refunds, see the regulations made for the purposes of section 163 of the _Customs Act 1901_.
+
+             (2)  Duty credits issued in respect of a particular ACIS Stage may only be applied as provided for in subsection (1):
+
+                     (a)  during that particular stage; or
+
+                     (b)  on or before 31 December of the calendar year next following the stage.
+
+             (3)  Duty credit issued in respect of a particular ACIS Stage **_expires_** if the duty credit has not been applied as provided for in subsection (1):
+
+                     (a)  during the particular stage; or
+
+                     (b)  on or before 31 December of the calendar year next following the stage.
+
+<a id="74B"></a>74B  How application of previously paid duty credits to be made
+
+                   An application of duty credit under paragraph 74A(1)(b) can only be made by notifying the Secretary. The notification must:
+
+                     (a)  be in writing; and
+
+                     (b)  be in the approved form; and
+
+                     (c)  contain such information as the form requires; and
+
+                     (d)  be signed in the manner indicated in the form; and
+
+                     (e)  comply with any other applicable requirements specified in regulations made for the purposes of this paragraph.
+
+66  Division 2A of Part 7
+
+Repeal the Division.
+
+67  Subsection 76(1)
+
+Omit “that notice”, substitute “that notice, and for the period specified in that notice”.
+
+68  Paragraph 76(1)(ca)
+
+Omit “section 75A”, substitute “paragraph 74A(1)(b)”.
+
+69  Subsection 77(1)
+
+Omit “that notice”, substitute “that notice, and for the period specified in that notice”.
+
+70  Paragraph 77(1)(ca)
+
+Omit “section 75A”, substitute “paragraph 74A(1)(b)”.
+
+71  Paragraph 100(d)
+
+Omit “modulated”, substitute “unmodulated”.
+
+72  At the end of section 100
+
+Add:
+
+                   ; (e)  next, offset so much of the duty credit that is unmodulated type J investment credit.
+
+73  Subsection 109(4)
+
+Omit “year after the year in which the participant is required to provide a first update and before 2005”, substitute “ACIS year after the year in which the participant is required to provide a first update”.
+
+74  Subsection 109(5)
+
+Before “period”, insert “5 year”.
+
+75  Subsection 109(5)
+
+Omit “and ending on 31 December 2005”.
+
+76  After paragraph 111(f)
+
+Insert:
+
+                    (fa)  a decision by the Secretary under subsection 42(1):
+
+                              (i)  not to issue an MVP with unmodulated uncapped production credit; or
+
+                             (ii)  as to the amount of any credit to be so issued;
+
+77  Subparagraph 111(g)(i)
+
+Omit “or modulated uncapped”.
+
+78  At the end of section 111
+
+Add:
+
+                    ; (j)  a decision under the R&amp;D scheme:
+
+                              (i)  not to issue an MVP with unmodulated type J investment credit; or
+
+                             (ii)  as to the amount of any credit to be so issued.
+
+79  Paragraph 112(3)(b)
+
+Omit “or modulated investment credit”, substitute “, modulated investment credit or unmodulated type J investment credit”.
+
+80  Subsection 112(3)
+
+Omit “if the $2,000,000,000 cap on ACIS (section 53) has not been reached”, substitute:
+
+if:
+
+                     (c)  the stage cap (referred to in section 53) for the stage in respect of when the original decision was made has not been reached; and
+
+                     (d)  the court’s decision is made before the end of the calendar year next following that stage.
+
+81  Paragraph 112(4)(a)
+
+Omit “court decision”, substitute “original decision”.
+
+82  Paragraphs 112(4)(a) and (b)
+
+Omit “cap” (wherever occurring), substitute “limit”.
+
+83  Paragraph 113(3)(b)
+
+Omit “or modulated investment credit”, substitute “, modulated investment credit or unmodulated type J investment credit”.
+
+84  Subsection 113(3)
+
+Omit “if the $2,000,000,000 cap on ACIS (section 53) has not been reached”, substitute:
+
+if:
+
+                     (c)  the stage cap (referred to in section 53) for the stage in respect of which the original decision was made has not been reached; and
+
+                     (d)  the AAT’s decision is made before the end of the calendar year next following that stage.
+
+85  Paragraph 113(4)(a)
+
+Omit “AAT decision”, substitute “original decision”.
+
+86  Paragraphs 113(4)(a) and (b)
+
+Omit “cap” (wherever occurring), substitute “limit”.
+
+87  After section 115
+
+Insert:
+
+<a id="115A"></a>115A  Minister may publish information relating to participants
+
+                   The Minister may cause to be published the following information about a participant or a person who was a participant:
+
+                     (a)  that the person is or was a participant and the period of the person’s participation in ACIS;
+
+                     (b)  the amount of duty credit entered in the ACIS ledger in respect of the person and an ACIS year.
+
+As at 29 October 2003 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4331,7 +4516,7 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
 
 _ACIS Administration Amendment Act 2002 (No. 83, 2002)_
 
-## Schedule 1
+Schedule 1
 
 5  Transitional provisions
 
@@ -4348,6 +4533,8 @@ _Note:       The amendments made by this Schedule operate retrospect
 * * *
 
 _ACIS Administration Amendment Act 2003 (No. 96, 2003)_
+
+The following provisions commence on 14 April 2004 unless proclaimed earlier:
 
 Schedule 1
 
