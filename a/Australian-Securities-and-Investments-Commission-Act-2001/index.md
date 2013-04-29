@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00898/Html/be26b728-3c8e-41cb-93d7-45bf97c4ad8e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00892/Html/d3a97bec-48a2-4e16-9990-e186aa659ce2_files/image001.gif)
 
 # Australian Securities and Investments Commission Act 2001
 
 **Act No. 51 of 2001 as amended**
 
-This compilation was prepared on 11 December 2012
- taking into account amendments up to Act No. 176 of 2012
+This compilation was prepared on 4 December 2012
+ taking into account amendments up to Act No. 169 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -145,7 +145,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [12DMA Liability of recipient for unsolicited financial services etc](#12DMA Liability of recipient for unsolicited financial services etc).
 
-[12DMB](#12DMB). Assertion of right to payment for unauthorised advertisements
+[12DMB](#12DMB). Assertion of right to payment for unauthorised 
+ advertisements
 
 [12DN](#12DN).    Application of provisions of this Division to information providers
 
@@ -572,6 +573,14 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [127](#127).        Confidentiality
 
 **Part 8—Finance and reporting requirements** 
+
+    **Division 1—Companies and Unclaimed Moneys Special Account**
+
+[133](#133).        Companies and Unclaimed Moneys Special Account
+
+[134](#134).        Credits to the Account
+
+[135](#135).        Purpose of the Account
 
     **Division 2—Reporting requirements**
 
@@ -7180,6 +7189,52 @@ other than information that has already been lawfully made available to the publ
 
 ## Part 8—Finance and reporting requirements
 
+### Division 1—Companies and Unclaimed Moneys Special Account
+
+##### <a id="133"></a>133  Companies and Unclaimed Moneys Special Account
+
+             (1)  The Companies and Unclaimed Moneys Special Account is established by this section.
+
+             (2)  The Account is a Special Account for the purposes of the _Financial Management and Accountability Act 1997_.
+
+##### <a id="134"></a>134  Credits to the Account
+
+                   There must be credited to the Account amounts equal to the following:
+
+                     (a)  all money appropriated by the Parliament for the purposes of the Account;
+
+                     (b)  amounts referred to in paragraphs 1339(2)(a) and (b) of the _Corporations Act 2001_;
+
+                     (c)  interest received by ASIC from the investment of amounts debited from the Account;
+
+                     (d)  money received by ASIC in relation to property paid for with amounts debited from the Account.
+
+Note:          An Appropriation Act provides for amounts to be credited to a Special Account if any of the purposes of the Account is a purpose that is covered by an item in the Appropriation Act.
+
+##### <a id="135"></a>135  Purpose of the Account
+
+             (1)  This section sets out the purposes of the Account.
+
+             (2)  Amounts standing to the credit of the Account may be debited for the following purposes:
+
+                     (a)  the purpose of subsection 1341(1) of the _Corporations Act 2001_;
+
+                     (b)  in payment to a person under paragraph 1341(2)(c) of the _Corporations Act 2001_;
+
+                     (c)  to meet the expenses of administering the Account;
+
+                     (d)  in respect of amounts credited under paragraph 134(c) of this Act—in payment in relation to proposals determined by the Minister to reduce business costs and improve regulation in one or more of the following areas:
+
+                              (i)  corporate governance of managed investment schemes and bodies corporate;
+
+                             (ii)  securities;
+
+                            (iii)  financial products;
+
+                            (iv)  winding up and external administration of managed investment schemes and bodies corporate.
+
+Note:          See section 21 of the _Financial Management and Accountability Act 1997_.
+
 ### Division 2—Reporting requirements
 
 ##### <a id="136"></a>136  Annual reports
@@ -10961,7 +11016,7 @@ Schedule 9 (items 1–6) and Schedule 11 (items 1, 2): <i>(e)</i>Schedule�
     <div>S. 4 and Schedule 1 (items 96, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
+    <div>S. 4 and Sch. 1 (item 496)</div>
   </td>
 </tr>
 <tr>
@@ -11476,23 +11531,6 @@ Schedule 1 (item 256A): 1 July 2012</div>
   </td>
   <td>
     <div>Schedule 3 (items 20–23): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Treasury Legislation Amendment (Unclaimed Money and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>176, 2012</div>
-  </td>
-  <td>
-    <div>4 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 1): 5 Dec 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -13959,42 +13997,18 @@ Part 2</div>
 </tr>
 <tr>
   <td>
-    <div>Div. 1 of Part 8</div>
+    <div><b>Division 1</b></div>
   </td>
-  <td>
-    <div>rep. No. 176, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 133</div>
-  </td>
-  <td>
-    <div>rs. No. 74, 2007</div>
-  </td>
-</tr>
-<tr>
   <td>
     <div></div>
   </td>
-  <td>
-    <div>rep. No. 176, 2012</div>
-  </td>
 </tr>
 <tr>
   <td>
-    <div>S. 134</div>
+    <div>Ss. 133, 134</div>
   </td>
   <td>
     <div>rs. No. 74, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 176, 2012</div>
   </td>
 </tr>
 <tr>
@@ -14011,14 +14025,6 @@ Part 2</div>
   </td>
   <td>
     <div>rs. No. 74, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 176, 2012</div>
   </td>
 </tr>
 <tr>
