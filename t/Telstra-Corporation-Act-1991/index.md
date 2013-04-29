@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00303/Html/2812a753-60dc-4dba-abeb-cfd6cc72f160_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00848/Html/TelstraCorpn1991WD02_image001.gif)
 
 # Telstra Corporation Act 1991
 
 **Act No. 79 of 1991 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -50,21 +50,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8AJ](#8AJ).       Telstra sale scheme
 
-[8AJA](#8AJA).    Sale‑scheme hybrid securities
+[8AJA](#8AJA).    Sale-scheme hybrid securities
 
 [8AK](#8AK).      Exemption from stamp duty—transfer by the Commonwealth of its shares in Telstra etc 
 
-[8AKA](#8AKA).   Authorisation of borrowing—issue of sale‑scheme hybrid securities
+[8AKA](#8AKA).   Authorisation of borrowing—issue of sale-scheme hybrid securities
 
 [8AQ](#8AQ).      Assistance given by Telstra or the Board in connection with a Telstra sale scheme
 
 [8AR](#8AR).      Giving of assistance—ancillary provisions
 
-[8AT](#8AT).       Commonwealth to be bound by Chapters 6CA, 6D and 7 of the Corporations Act
+[8AT](#8AT).      Commonwealth to be bound by Chapters 6CA, 6D and 7 of the Corporations Act
 
-[8AU](#8AU).      Alterations of Telstra’s constitution before the minority‑interest sale time
+[8AU](#8AU).      Alterations of Telstra’s constitution before the minority-interest sale time
 
-[8AUA](#8AUA).   Alteration of Telstra’s constitution after the minority‑interest sale time
+[8AUA](#8AUA).   Alteration of Telstra’s constitution after the minority-interest sale time
 
 [8AV](#8AV).      Reduction of Telstra’s share capital
 
@@ -76,13 +76,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8AY](#8AY).      Telstra’s obligations to disclose information
 
-[8AYB](#8AYB).   Telstra to give information to the Minister about the level of non‑Commonwealth ownership of shares in Telstra
+[8AYB](#8AYB).    Telstra to give information to the Minister about the level of non-Commonwealth ownership of shares in Telstra
 
-[8AYC](#8AYC).   Application of the _Ombudsman Act 1976_ to Telstra
+[8AYC](#8AYC).    Application of the _Ombudsman Act 1976_ to Telstra
 
 [8AYD](#8AYD).   Controlling interest in Telstra
 
-[8AZ](#8AZ).       Rights of Telstra’s shareholders, debenture holders and creditors to be subject to this Act
+[8AZ](#8AZ).      Rights of Telstra’s shareholders, debenture holders and creditors to be subject to this Act
 
 [8BA](#8BA).      Compensation—constitutional safety net
 
@@ -100,13 +100,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8BE](#8BE).       Definitions in Schedule
 
-    **Division 3—Extra‑territorial operation**
+    **Division 3—Extra-territorial operation**
 
-[8BF](#8BF).       Extra‑territorial operation
+[8BF](#8BF).       Extra-territorial operation
 
     **Division 4—Limit on foreign ownership**
 
-[8BG](#8BG).      Meaning of _unacceptable foreign‑ownership situation_
+[8BG](#8BG).      Meaning of _unacceptable foreign-ownership situation_
 
 [8BH](#8BH).      Acquisitions of shares
 
@@ -114,13 +114,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8BJ](#8BJ).        Remedial orders
 
-    **Division 6—Anti‑avoidance**
+    **Division 6—Anti-avoidance**
 
-[8BM](#8BM).      Anti‑avoidance
+[8BM](#8BM).     Anti-avoidance
 
-    **Division 7—Record‑keeping and giving of information**
+    **Division 7—Record-keeping and giving of information**
 
-[8BN](#8BN).      Record‑keeping and giving of information
+[8BN](#8BN).      Record-keeping and giving of information
 
 [8BO](#8BO).      Incorrect records
 
@@ -146,7 +146,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8BX](#8BX).      Validity of acts done in contravention of this Part
 
-[8BY](#8BY).      Winding‑up of Telstra not prevented by this Act
+[8BY](#8BY).       Winding-up of Telstra not prevented by this Act
 
 [8BZ](#8BZ).       Acquisition of property
 
@@ -156,9 +156,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8CC](#8CC).       Provision to attract the corporations power and the communications power
 
-**Part 2AA—Anti‑avoidance**
+**Part 2AA—Anti-avoidance**
 
-[8CCA](#8CCA).    Anti‑avoidance
+[8CCA](#8CCA).    Anti-avoidance
 
 **Part 2B—Remedial provisions relating to Telstra** 
 
@@ -180,15 +180,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8CJ](#8CJ).        Prosecutions of persons other than corporations
 
-[8CK](#8CK).       Service of summons or process on foreign corporations—criminal proceedings
+[8CK](#8CK).      Service of summons or process on foreign corporations—criminal proceedings
 
 [8CL](#8CL).       Indictable offences
 
-**Part 2C—Re‑affirmation of the universal service obligation and the customer service guarantee**
+**Part 2C—Re-affirmation of the universal service obligation and the customer service guarantee**
 
-[8CM](#8CM).      Re‑affirmation of universal service obligation
+[8CM](#8CM).     Re-affirmation of universal service obligation
 
-[8CN](#8CN).      Re‑affirmation of the customer service guarantee
+[8CN](#8CN).      Re-affirmation of the customer service guarantee
 
 **Part 3A—Transitional provisions relating to the sale by the Commonwealth of its remaining equity interest in Telstra** 
 
@@ -204,7 +204,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9E](#9E).          Employee’s long service leave credit for the purposes of sections 9B and 9C
 
-[9F](#9F).          Division not to affect an employee’s post‑sale long service leave rights
+[9F](#9F).          Division not to affect an employee’s post-sale long service leave rights
 
 [9G](#9G).         Saving—Long Service Leave Act
 
@@ -234,7 +234,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4—Telstra to be successor of Telecom and OTC**
 
-[10](#10).          Extra‑territorial operation of Part
+[10](#10).          Extra-territorial operation of Part
 
 [11](#11).          Vesting of property, rights and liabilities
 
@@ -248,7 +248,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Other persons not to use protected names
 
-[16](#16).          Exceptions for pre‑existing rights
+[16](#16).          Exceptions for pre-existing rights
 
 [17](#17).          Use of other names by protected bodies
 
@@ -324,9 +324,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [69](#69).          Delegation by Minister
 
-[70](#70).          Delegation by Transport Minister
+[70](#70).          Delegation by Minister for Transport and Regional Services
 
-[71](#71).          Delegation by Secretary of the Department
+[71](#71).          Delegation by Secretary to the Department
 
 **Schedule—Ownership definitions**
 
@@ -392,9 +392,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="board"></a>**_Board_** means the board of directors of Telstra.
 
-                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid‑security issuer company_** means a hybrid‑security issuer company other than a category B hybrid‑security issuer company.
+                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid-security issuer company_** means a hybrid-security issuer company other than a category B hybrid-security issuer company.
 
-                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category B hybrid‑security issuer company_** has the meaning given by subsection 8AJ(6B).
+                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category B hybrid-security issuer company_** has the meaning given by subsection 8AJ(6B).
 
                     <a name="constitut"></a>**_constitution_**, in relation to Telstra, has the same meaning as in the _Corporations Act 2001_.
 
@@ -436,8 +436,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="financ-depart"></a>**_Finance Department_** means the Department administered by the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="former-corpor"></a><a name="former-telecommun-corpor"></a>**_former telecommunications corporation_** or **_former corporation_** means OTC or Telecom.
 
                     <a name="futur-fund"></a>**_Future Fund_** means the Future Fund established by a law of the Commonwealth.
@@ -446,9 +444,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  Telstra; or
 
-                     (b)  a wholly‑owned subsidiary of Telstra.
+                     (b)  a wholly-owned subsidiary of Telstra.
 
-                    <a name="hybrid-secur-issuer-compani"></a>**_hybrid‑security issuer company_** has the meaning given by section 8AJ.
+                    <a name="hybrid-secur-issuer-compani"></a>**_hybrid-security issuer company_** has the meaning given by section 8AJ.
 
                     <a name="instrum"></a>**_instrument_** includes a document and an oral agreement.
 
@@ -476,7 +474,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="minist-financ"></a>**_Minister for Finance_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
-                    <a name="minor-interest-sale-time"></a>**_minority‑interest sale time_** means the first time after the commencement of Part 2A when a person other than the Commonwealth becomes the legal owner of any of the voting shares in Telstra.
+                    <a name="minor-interest-sale-time"></a>**_minority-interest sale time_** means the first time after the commencement of Part 2A when a person other than the Commonwealth becomes the legal owner of any of the voting shares in Telstra.
 
                     <a name="otc"></a>**_OTC_** means OTC Limited.
 
@@ -530,11 +528,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="right"></a>**_rights_** (except in Parts 2, 2A and 2B and the Schedule) means all rights, powers, privileges and immunities, whether actual, contingent or prospective, whether statutory or otherwise, and wherever arising.
 
-                    <a name="sale-scheme-hybrid-secur"></a>**_sale‑scheme hybrid security_** has the meaning given by section 8AJA.
+                    <a name="sale-scheme-hybrid-secur"></a>**_sale-scheme hybrid security_** has the meaning given by section 8AJA.
 
-                    <a name="sale-scheme-trust-deed"></a>**_sale‑scheme trust deed_** has the meaning given by section 8AJ.
+                    <a name="sale-scheme-trust-deed"></a>**_sale-scheme trust deed_** has the meaning given by section 8AJ.
 
-                    <a name="sale-scheme-truste"></a>**_sale‑scheme trustee_** has the meaning given by section 8AJ.
+                    <a name="sale-scheme-truste"></a>**_sale-scheme trustee_** has the meaning given by section 8AJ.
 
                     <a name="src-act"></a>**_SRC Act_** means the _Safety, Rehabilitation and Compensation Act 1988_.
 
@@ -576,15 +574,11 @@ but, except for the purposes of section 28, does not include income tax impose
 
                     <a name="transition-protect-period"></a>**_transitional protection period_** means the period of 3 months commencing on the succession day.
 
-                    <a name="transport-depart"></a>**_Transport Department_** means the Department administered by the Transport Minister.
-
-                    <a name="transport-minist"></a>**_Transport Minister_** means the Minister administering the _Nation Building Program (National Land Transport) Act 2009_.
-
-                    <a name="unaccept-foreign-ownership-situat"></a>**_unacceptable foreign‑ownership situation_** has the meaning given by section 8BG.
+                    <a name="unaccept-foreign-ownership-situat"></a>**_unacceptable foreign-ownership situation_** has the meaning given by section 8BG.
 
                     <a name="vote-share"></a>**_voting shares_** has the same meaning as in the _Corporations Act 2001_.
 
-                    <a name="hold-bodi"></a><a name="wholli-owned-subsidiari"></a>**_wholly‑owned subsidiary_**, in relation to a body corporate (in this definition called the **_holding body_**), means a body corporate:
+                    <a name="hold-bodi"></a><a name="wholli-owned-subsidiari"></a>**_wholly-owned subsidiary_**, in relation to a body corporate (in this definition called the **_holding body_**), means a body corporate:
 
                      (a)  that is a subsidiary of the holding body; and
 
@@ -592,7 +586,7 @@ but, except for the purposes of section 28, does not include income tax impose
 
                               (i)  the holding body; or
 
-                             (ii)  a body corporate that is, under any other application or applications of this definition, a wholly‑owned subsidiary of the holding body; or
+                             (ii)  a body corporate that is, under any other application or applications of this definition, a wholly-owned subsidiary of the holding body; or
 
                             (iii)  a nominee of the holding body or of a body of a kind referred to in subparagraph (ii); and
 
@@ -632,11 +626,11 @@ Note:          The Schedule sets out definitions of expression
 
                      (a)  consist of:
 
-                              (i)  at least one entity that, immediately before the succession day, was a wholly‑owned subsidiary of Telecom; and
+                              (i)  at least one entity that, immediately before the succession day, was a wholly-owned subsidiary of Telecom; and
 
-                             (ii)  at least one entity that, immediately before that day, was a wholly‑owned subsidiary of OTC; or
+                             (ii)  at least one entity that, immediately before that day, was a wholly-owned subsidiary of OTC; or
 
-                     (b)  consist of Telstra and at least one entity that, immediately before the succession day, was a wholly‑owned subsidiary of Telecom or of OTC.
+                     (b)  consist of Telstra and at least one entity that, immediately before the succession day, was a wholly-owned subsidiary of Telecom or of OTC.
 
              (4)  The regulations may make 2 or more different declarations under subsection (2).
 
@@ -674,7 +668,7 @@ Securities lending arrangements
 
                      (b)  the Commonwealth may come under an obligation to:
 
-                              (i)  re‑acquire the borrowed share from the borrower at a later time; or
+                              (i)  re-acquire the borrowed share from the borrower at a later time; or
 
                              (ii)  acquire an identical share from the borrower at a later time;
 
@@ -688,7 +682,7 @@ Definition
 
              (5)  In this section:
 
-                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid‑security issuer company.
+                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
 
 ##### <a id="4"></a>4  Operating under a name
 
@@ -744,7 +738,7 @@ Part sets out rules about how that sale is to be carried out.</li>
 
 ##### <a id="8AJ"></a>8AJ  Telstra sale scheme
 
-             (1)  The object of this section is to define the expressions **_Telstra sale scheme_**,**_sale‑scheme trustee_**,**_sale‑scheme trust deed_** and **_hybrid‑security issuer company_**.
+             (1)  The object of this section is to define the expressions **_Telstra sale scheme_**,**_sale-scheme trustee_**,**_sale-scheme trust deed_** and **_hybrid-security issuer company_**.
 
              (2)  For the purposes of this Act, a **_Telstra sale scheme_** is a scheme the object of which is to achieve the transfer, or progressive transfer, of the whole or a part of the Commonwealth’s equity in Telstra to other persons.
 
@@ -758,7 +752,7 @@ Part sets out rules about how that sale is to be carried out.</li>
 
                      (a)  the transfer by the Commonwealth of any of its shares in Telstra; 
 
-                     (b)  the transfer by the Commonwealth of interests in its shares in Telstra to a company (the **_sale‑scheme trustee_**) in the company’s capacity as the trustee of a trust established by a trust deed (the **_sale‑scheme trust deed_**);
+                     (b)  the transfer by the Commonwealth of interests in its shares in Telstra to a company (the **_sale-scheme trustee_**) in the company’s capacity as the trustee of a trust established by a trust deed (the **_sale-scheme trust deed_**);
 
                      (c)  an investor in Telstra initially acquiring a particular interest in shares in Telstra and subsequently acquiring the remaining interests in those shares;
 
@@ -776,11 +770,11 @@ Part sets out rules about how that sale is to be carried out.</li>
 
                       (j)  the alteration of Telstra’s constitution;
 
-                     (k)  the issue by the Commonwealth or Telstra of sale‑scheme hybrid securities;
+                     (k)  the issue by the Commonwealth or Telstra of sale-scheme hybrid securities;
 
-                      (l)  an arrangement under which one or more designated companies (each of which is called a **_hybrid‑security issuer company_**) issue sale‑scheme hybrid securities;
+                      (l)  an arrangement under which one or more designated companies (each of which is called a **_hybrid-security issuer company_**) issue sale-scheme hybrid securities;
 
-                    (m)  the guarantee by the Commonwealth of obligations of a hybrid‑security issuer company in relation to sale‑scheme hybrid securities (for example, obligations to make payments of interest or dividends);
+                    (m)  the guarantee by the Commonwealth of obligations of a hybrid-security issuer company in relation to sale-scheme hybrid securities (for example, obligations to make payments of interest or dividends);
 
                      (n)  an agreement of the kind known as a securities lending arrangement, where the securities lending arrangement relates to shares in Telstra.
 
@@ -790,11 +784,11 @@ Part sets out rules about how that sale is to be carried out.</li>
 
           (6A)  For the purposes of this section, a **_designated company_** is:
 
-                     (a)  a wholly‑owned Commonwealth company; or
+                     (a)  a wholly-owned Commonwealth company; or
 
                      (b)  a body corporate specified in a written declaration made by the Minister for Finance under this paragraph.
 
-          (6B)  A **_category B hybrid‑security issuer company_** is a hybrid‑security issuer company (other than a wholly‑owned  Commonwealth company) specified in a written declaration made by the Minister for Finance under this subsection.
+          (6B)  A **_category B hybrid-security issuer company_** is a hybrid-security issuer company (other than a wholly-owned  Commonwealth company) specified in a written declaration made by the Minister for Finance under this subsection.
 
           (6C)  A declaration under paragraph (6A)(b) or subsection (6B) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
@@ -820,13 +814,13 @@ Part sets out rules about how that sale is to be carried out.</li>
 
                     <a name="transfer"></a>**_transfer_**, in relation to an interest in a share, includes the creation of the interest.
 
-                    <a name="compani"></a><a name="commonwealth"></a><a name="wholli-owned"></a>**_wholly‑owned_****_Commonwealth_****_company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_(in working out whether a company is covered by this definition, ignore any sale‑scheme hybrid securities issued by the company).
+                    <a name="compani"></a><a name="commonwealth"></a><a name=""></a><a name="wholli-owned"></a>**_wholly-owned_****_Commonwealth_****_company_** has the same meaning as in the _Commonwealth Authorities and Companies Act 1997_(in working out whether a company is covered by this definition, ignore any sale-scheme hybrid securities issued by the company).
 
-##### <a id="8AJA"></a>8AJA  Sale‑scheme hybrid securities
+##### <a id="8AJA"></a>8AJA  Sale-scheme hybrid securities
 
-             (1)  For the purposes of this Act, a **_sale‑scheme hybrid security_** is:
+             (1)  For the purposes of this Act, a **_sale-scheme hybrid security_** is:
 
-                     (a)  an interest‑bearing security that is issued on the basis that it will or may be redeemed in exchange for a share or shares in Telstra; or
+                     (a)  an interest-bearing security that is issued on the basis that it will or may be redeemed in exchange for a share or shares in Telstra; or
 
                      (b)  a share that is issued on the basis that it will or may be redeemed in exchange for a share or shares in Telstra; or
 
@@ -834,11 +828,11 @@ Part sets out rules about how that sale is to be carried out.</li>
 
                      (d)  an option to acquire a share or shares in Telstra; or
 
-                     (e)  an interest‑bearing security that is issued on the basis that it will or may be converted to a share or shares in Telstra; or
+                     (e)  an interest-bearing security that is issued on the basis that it will or may be converted to a share or shares in Telstra; or
 
                       (f)  any other security or financial product that is issued on the basis that it will or may be converted to a share or shares in Telstra; or
 
-                     (g)  an interest‑bearing security that is issued on the basis that it will or may be exchanged for a share or shares in Telstra; or
+                     (g)  an interest-bearing security that is issued on the basis that it will or may be exchanged for a share or shares in Telstra; or
 
                      (h)  any other security or financial product that is issued on the basis that it will or may be exchanged for a share or shares in Telstra; or
 
@@ -902,17 +896,17 @@ Part sets out rules about how that sale is to be carried out.</li>
 
                      (c)  the receipt of money by the Commonwealth, or by a person acting on behalf of the Commonwealth, in respect of a transfer covered by paragraph (a); 
 
-                     (d)  the transfer by the sale‑scheme trustee of:
+                     (d)  the transfer by the sale-scheme trustee of:
 
                               (i)  a share in Telstra held by the trustee; or
 
                              (ii)  an interest in such a share;
 
-                            where the transfer is in accordance with the sale‑scheme trust deed; 
+                            where the transfer is in accordance with the sale-scheme trust deed; 
 
                      (e)  an agreement relating to a transfer covered by paragraph (d); 
 
-                      (f)  the receipt of money by the sale‑scheme trustee, or by a person acting on behalf of the sale‑scheme trustee, in respect of a transfer covered by paragraph (d); 
+                      (f)  the receipt of money by the sale-scheme trustee, or by a person acting on behalf of the sale-scheme trustee, in respect of a transfer covered by paragraph (d); 
 
                      (g)  the reduction of Telstra’s share capital;
 
@@ -924,21 +918,21 @@ Part sets out rules about how that sale is to be carried out.</li>
 
                      (k)  the redemption of redeemable preference shares in Telstra held by the Commonwealth; 
 
-                   (ka)  the issue of sale‑scheme hybrid securities;
+                    (ka)  the issue of sale-scheme hybrid securities;
 
-                   (kb)  the receipt of money by the Commonwealth, or by a person acting on behalf of the Commonwealth, in respect of the issue of sale‑scheme hybrid securities;
+                    (kb)  the receipt of money by the Commonwealth, or by a person acting on behalf of the Commonwealth, in respect of the issue of sale-scheme hybrid securities;
 
-                   (kc)  the receipt of money by a hybrid‑security issuer company, or by a person acting on behalf of a hybrid‑security issuer company, in respect of the issue of sale‑scheme hybrid securities;
+                    (kc)  the receipt of money by a hybrid-security issuer company, or by a person acting on behalf of a hybrid-security issuer company, in respect of the issue of sale-scheme hybrid securities;
 
-                   (kd)  the redemption, exchange or conversion of sale‑scheme hybrid securities;
+                    (kd)  the redemption, exchange or conversion of sale-scheme hybrid securities;
 
-                   (ke)  the transfer by a hybrid‑security issuer company of a share in Telstra held by the company;
+                    (ke)  the transfer by a hybrid-security issuer company of a share in Telstra held by the company;
 
-                    (kf)  the grant of a charge, pledge or lien (whether in connection with sale‑scheme hybrid securities or otherwise);
+                    (kf)  the grant of a charge, pledge or lien (whether in connection with sale-scheme hybrid securities or otherwise);
 
-                   (kg)  an agreement relating to a matter covered by paragraph (c), (f), (g), (h), (i), (j), (k), (ka), (kb), (kc), (kd), (ke) or (kf);
+                    (kg)  an agreement relating to a matter covered by paragraph (c), (f), (g), (h), (i), (j), (k), (ka), (kb), (kc), (kd), (ke) or (kf);
 
-                   (kh)  an agreement of the kind known as a securities lending arrangement, where the securities lending arrangement relates to shares in Telstra;
+                    (kh)  an agreement of the kind known as a securities lending arrangement, where the securities lending arrangement relates to shares in Telstra;
 
                       (l)  any other matter that is specified in the regulations.
 
@@ -966,9 +960,9 @@ Part sets out rules about how that sale is to be carried out.</li>
 
                      (c)  in relation to stamp duty, or other tax, of a kind specified in the regulations, in such circumstances as are specified in the regulations.
 
-##### <a id="8AKA"></a>8AKA  Authorisation of borrowing—issue of sale‑scheme hybrid securities
+##### <a id="8AKA"></a>8AKA  Authorisation of borrowing—issue of sale-scheme hybrid securities
 
-                   To the extent to which the issue of sale‑scheme hybrid securities under a Telstra sale scheme involves a borrowing of money by the Commonwealth, that borrowing is authorised by this section.
+                   To the extent to which the issue of sale-scheme hybrid securities under a Telstra sale scheme involves a borrowing of money by the Commonwealth, that borrowing is authorised by this section.
 
 Note:          Section 37 of the _Financial Management and Accountability Act 1997_ provides that an agreement for the borrowing of money by the Commonwealth is of no effect unless the borrowing is authorised by an Act.
 
@@ -990,7 +984,7 @@ Note:          Section 37 of the _Financial Management and A
 
                      (a)  a provision of the _Corporations Act 2001_; or
 
-                   (ab)  if Telstra is a listed disclosing entity—the listing rules of a listing market in relation to Telstra; or
+                    (ab)  if Telstra is a listed disclosing entity—the listing rules of a listing market in relation to Telstra; or
 
                      (b)  a rule of common law or equity (other than a rule of administrative law).
 
@@ -1032,7 +1026,7 @@ Note:          Section 37 of the _Financial Management and A
 
                      (b)  the capacity of Telstra, or of a member of the Board, to enter into an agreement with the Commonwealth.
 
-Note:          This ensures, for example, that the Commonwealth can enter into a co‑operation agreement with Telstra or with a member of the Board.
+Note:          This ensures, for example, that the Commonwealth can enter into a co-operation agreement with Telstra or with a member of the Board.
 
              (8)  Section 8AQ extends to the giving of assistance outside Australia, whether or not in a foreign country.
 
@@ -1050,7 +1044,7 @@ Chinese wall arrangements
 
                      (a)  shares in Telstra; or
 
-                     (b)  sale‑scheme hybrid securities; or
+                     (b)  sale-scheme hybrid securities; or
 
                      (c)  a Telstra sale scheme;
 
@@ -1068,11 +1062,11 @@ merely because of information in the possession of an officer or employee of the
 
              (6)  A reference in subsection (5) to an **_officer_** of the Commonwealth includes a reference to the holder of an office under a law of the Commonwealth.
 
-##### <a id="8AU"></a>8AU  Alterations of Telstra’s constitution before the minority‑interest sale time
+##### <a id="8AU"></a>8AU  Alterations of Telstra’s constitution before the minority-interest sale time
 
              (1)  This section applies to an alteration of Telstra’s constitution if:
 
-                     (a)  the alteration occurs before the minority‑interest sale time; and
+                     (a)  the alteration occurs before the minority-interest sale time; and
 
                      (b)  the alteration relates to the formulation, entering into, or carrying out, of a Telstra sale scheme.
 
@@ -1092,7 +1086,7 @@ merely because of information in the possession of an officer or employee of the
 
                     <a name="debentur"></a>**_debenture_** has the same meaning as in the _Corporations Act 2001_.
 
-##### <a id="8AUA"></a>8AUA  Alteration of Telstra’s constitution after the minority‑interest sale time
+##### <a id="8AUA"></a>8AUA  Alteration of Telstra’s constitution after the minority-interest sale time
 
              (1)  The Minister may, by written instrument, alter Telstra’s constitution if:
 
@@ -1114,7 +1108,7 @@ merely because of information in the possession of an officer or employee of the
 
                            (vii)  in the case of a provision that prohibits an act or thing unless the Commonwealth directs otherwise—remove that power of direction; or
 
-                          (viii)  remove a provision that prohibits an act or thing unless the Minister directs otherwise; or
+                           (viii)  remove a provision that prohibits an act or thing unless the Minister directs otherwise; or
 
                             (ix)  in the case of a provision that prohibits an act or thing unless the Minister directs otherwise—remove that power of direction; and
 
@@ -1182,7 +1176,7 @@ merely because of information in the possession of an officer or employee of the
 
                      (a)  a provision of the _Corporations Act 2001_; or
 
-                   (ab)  if Telstra is a listed disclosing entity—the listing rules of a listing market in relation to Telstra; or
+                    (ab)  if Telstra is a listed disclosing entity—the listing rules of a listing market in relation to Telstra; or
 
                      (b)  a rule of common law or equity (other than a rule of administrative law).
 
@@ -1236,7 +1230,7 @@ merely because of information in the possession of an officer or employee of the
 
                     <a name="list-rule"></a>**_listing rules_** of a market has the same meaning as it is given by section 9 of the _Corporations Act 2001_.
 
-##### <a id="8AYB"></a>8AYB  Telstra to give information to the Minister about the level of non‑Commonwealth ownership of shares in Telstra
+##### <a id="8AYB"></a>8AYB  Telstra to give information to the Minister about the level of non-Commonwealth ownership of shares in Telstra
 
 Direction to give information
 
@@ -1264,7 +1258,7 @@ Securities lending arrangements
 
                      (b)  the Commonwealth may come under an obligation to:
 
-                              (i)  re‑acquire the borrowed share from the borrower at a later time; or
+                              (i)  re-acquire the borrowed share from the borrower at a later time; or
 
                              (ii)  acquire an identical share from the borrower at a later time;
 
@@ -1282,11 +1276,11 @@ Definition
 
              (7)  In this section:
 
-                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid‑security issuer company.
+                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
 
 ##### <a id="8AYC"></a>8AYC  Application of the _Ombudsman Act 1976_ to Telstra
 
-                   In determining whether Telstra is a prescribed authority for the purposes of the _Ombudsman Act 1976_, assume that each reference to the Commonwealth in the definition of **_Commonwealth‑controlled company_** in subsection 3(1) of that Act includes a reference to a category A hybrid‑security issuer company.
+                   In determining whether Telstra is a prescribed authority for the purposes of the _Ombudsman Act 1976_, assume that each reference to the Commonwealth in the definition of **_Commonwealth-controlled company_** in subsection 3(1) of that Act includes a reference to a category A hybrid-security issuer company.
 
 ##### <a id="8AYD"></a>8AYD  Controlling interest in Telstra
 
@@ -1318,21 +1312,21 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
              (1)  The Minister may, by writing, delegate to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  an SES employee or acting SES employee whether or not in the Department;
 
-                     (c)  a person who is appointed by the Governor‑General under section 67 of the Constitution and has responsibilities in relation to the sale of Commonwealth assets;
+                     (c)  a person who is appointed by the Governor-General under section 67 of the Constitution and has responsibilities in relation to the sale of Commonwealth assets;
 
 all or any of the Minister’s powers under this Part.
 
              (2)  The Minister for Finance may, by writing, delegate to:
 
-                     (a)  the Secretary of the Finance Department; or
+                     (a)  the Secretary to the Department of Finance; or
 
-                     (b)  an SES employee or acting SES employee whether or not in the Finance Department;
+                     (b)  an SES employee or acting SES employee whether or not in the Department of Finance;
 
-                     (c)  a person who is appointed by the Governor‑General under section 67 of the Constitution and has responsibilities in relation to the sale of Commonwealth assets;
+                     (c)  a person who is appointed by the Governor-General under section 67 of the Constitution and has responsibilities in relation to the sale of Commonwealth assets;
 
 all or any of the powers conferred on the Minister for Finance by this Part.
 
@@ -1360,7 +1354,7 @@ is subject to the following ownership restrictions:</li>
 
                (a)     a limit on total foreign ownership;
 
-              (b)     a limit on individual foreign ownership.
+               (b)     a limit on individual foreign ownership.
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
@@ -1394,13 +1388,13 @@ Note 2A:    A person’s **_stake_** is calculated on the assumption that 
 
 Note 3:       A person’s **_stake_** includes the interests of the person’s associates.
 
-Note 4:       There are 4 different types of stake. The main types are the percentage of total paid‑up share capital and the percentage of voting power.
+Note 4:       There are 4 different types of stake. The main types are the percentage of total paid-up share capital and the percentage of voting power.
 
 Note 5:       The ownership restrictions will be breached if any type of stake goes over the relevant limit.
 
-### Division 3—Extra‑territorial operation
+### Division 3—Extra-territorial operation
 
-##### <a id="8BF"></a>8BF  Extra‑territorial operation
+##### <a id="8BF"></a>8BF  Extra-territorial operation
 
                    The following provisions extend to acts, omissions, matters and things outside Australia, whether or not in a foreign country:
 
@@ -1410,9 +1404,9 @@ Note 5:       The ownership restrictions will be breached if any typ
 
 ### Division 4—Limit on foreign ownership 
 
-##### <a id="8BG"></a>8BG  Meaning of _unacceptable foreign‑ownership situation_
+##### <a id="8BG"></a>8BG  Meaning of _unacceptable foreign-ownership situation_
 
-                   For the purposes of this Act, an **_unacceptable foreign‑ownership situation_** exists in relation to Telstra if:
+                   For the purposes of this Act, an **_unacceptable foreign-ownership situation_** exists in relation to Telstra if:
 
                      (a)  there is a group of foreign persons who hold, in total, a particular type of stake in Telstra of more than 35%; or
 
@@ -1430,11 +1424,11 @@ Note 2:       A person’s **_stake_** includes the interests of the
 
                      (b)  the acquisition has the result, in relation to Telstra, that:
 
-                              (i)  an unacceptable foreign‑ownership situation comes into existence in relation to Telstra; or
+                              (i)  an unacceptable foreign-ownership situation comes into existence in relation to Telstra; or
 
-                             (ii)  if an unacceptable foreign‑ownership situation already exists in relation to Telstra because there is a group of foreign persons who hold, in total, a particular type of stake in Telstra of more than 35%—there is an increase in the total of any type of stake held by any group of foreign persons in Telstra; or
+                             (ii)  if an unacceptable foreign-ownership situation already exists in relation to Telstra because there is a group of foreign persons who hold, in total, a particular type of stake in Telstra of more than 35%—there is an increase in the total of any type of stake held by any group of foreign persons in Telstra; or
 
-                            (iii)  if an unacceptable foreign‑ownership situation already exists in relation to Telstra because there is or are one or more foreign persons each of whom holds a particular type of stake in Telstra of more than 5%—there is an increase in any type of stake held by any of those foreign persons; and
+                            (iii)  if an unacceptable foreign-ownership situation already exists in relation to Telstra because there is or are one or more foreign persons each of whom holds a particular type of stake in Telstra of more than 5%—there is an increase in any type of stake held by any of those foreign persons; and
 
                      (c)  the person or persons mentioned in paragraph (a) knew, or were reckless as to whether, the acquisition would have that result;
 
@@ -1444,7 +1438,7 @@ Note:          A person’s **_stake_** is calculated on the a
 
 ##### <a id="8BI"></a>8BI  Compliance by Telstra
 
-             (1)  Telstra must take all reasonable steps to ensure that an unacceptable foreign‑ownership situation does not exist in relation to Telstra.
+             (1)  Telstra must take all reasonable steps to ensure that an unacceptable foreign-ownership situation does not exist in relation to Telstra.
 
              (2)  Telstra is guilty of an offence if:
 
@@ -1464,7 +1458,7 @@ Note:          A person’s **_stake_** is calculated on the a
 
 ##### <a id="8BJ"></a>8BJ  Remedial orders
 
-             (1)  If an unacceptable foreign‑ownership situation exists in relation to Telstra, the Federal Court may, on application by the Minister or Telstra, make such orders as the court considers appropriate for the purpose of ensuring that that situation ceases to exist. 
+             (1)  If an unacceptable foreign-ownership situation exists in relation to Telstra, the Federal Court may, on application by the Minister or Telstra, make such orders as the court considers appropriate for the purpose of ensuring that that situation ceases to exist. 
 
              (2)  The Federal Court’s orders include:
 
@@ -1488,9 +1482,9 @@ Note:          A person’s **_stake_** is calculated on the a
 
              (6)  The Federal Court may, by order, rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
 
-### Division 6—Anti‑avoidance
+### Division 6—Anti-avoidance
 
-##### <a id="8BM"></a>8BM  Anti‑avoidance
+##### <a id="8BM"></a>8BM  Anti-avoidance
 
              (1)  If:
 
@@ -1504,9 +1498,9 @@ the Minister may give the stakeholder a written direction to cease holding that 
 
              (2)  A person who intentionally contravenes a direction under subsection (1) is guilty of an offence punishable on conviction by a fine not exceeding 400 penalty units.
 
-### Division 7—Record‑keeping and giving of information
+### Division 7—Record-keeping and giving of information
 
-##### <a id="8BN"></a>8BN  Record‑keeping and giving of information
+##### <a id="8BN"></a>8BN  Record-keeping and giving of information
 
              (1)  The regulations may make provision for and in relation to requiring a person:
 
@@ -1522,7 +1516,7 @@ Statutory declarations
 
              (2)  The regulations may provide that information given in accordance with a requirement covered by paragraph (1)(b) or (c) must be verified by statutory declaration.
 
-No self‑incrimination
+No self-incrimination
 
              (3)  An individual is not required to give information in accordance with a requirement covered by paragraph (1)(b) or (c) if the information might tend to incriminate the individual or expose the individual to a penalty.
 
@@ -1614,7 +1608,7 @@ Definition
 
                    An act is not invalidated by the fact that it constitutes an offence against this Part.
 
-##### <a id="8BY"></a>8BY  Winding‑up of Telstra not prevented by this Act
+##### <a id="8BY"></a>8BY  Winding-up of Telstra not prevented by this Act
 
                    This Act does not, by implication, prevent Telstra being wound up in accordance with the _Corporations Act 2001_.
 
@@ -1652,11 +1646,11 @@ that notice is to include a statement to the effect that, subject to the _Admini
 
              (1)  The Minister may, by writing, delegate to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  an SES employee or acting SES employee whether or not in the Department;
 
-                   (ba)  a person who is appointed by the Governor‑General under section 67 of the Constitution and has responsibilities in relation to the sale of Commonwealth assets;
+                    (ba)  a person who is appointed by the Governor-General under section 67 of the Constitution and has responsibilities in relation to the sale of Commonwealth assets;
 
 all or any of the Minister’s powers under:
 
@@ -1668,11 +1662,11 @@ all or any of the Minister’s powers under:
 
              (2)  The Minister for Finance may, by writing, delegate to:
 
-                     (a)  the Secretary of the Finance Department; or
+                     (a)  the Secretary to the Department of Finance; or
 
-                     (b)  an SES employee or acting SES employee whether or not in the Finance Department;
+                     (b)  an SES employee or acting SES employee whether or not in the Department of Finance;
 
-                     (c)  a person who is appointed by the Governor‑General under section 67 of the Constitution and has responsibilities in relation to the sale of Commonwealth assets;
+                     (c)  a person who is appointed by the Governor-General under section 67 of the Constitution and has responsibilities in relation to the sale of Commonwealth assets;
 
 all or any of the powers conferred on the Minister for Finance by this Part.
 
@@ -1684,9 +1678,9 @@ all or any of the powers conferred on the Minister for Finance by this Part.
 
                      (b)  carries on a business that consists of or includes the supply of a carriage service (within the meaning of the _Telecommunications Act 1997_).
 
-## Part 2AA—Anti‑avoidance
+## Part 2AA—Anti-avoidance
 
-##### <a id="8CCA"></a>8CCA  Anti‑avoidance
+##### <a id="8CCA"></a>8CCA  Anti-avoidance
 
              (1)  Telstra must not, either alone or together with one or more other persons, enter into, begin to carry out or carry out a scheme if it would be concluded that Telstra did so for the sole or dominant purpose of avoiding the application of any provision of this Act in relation to Telstra.
 
@@ -1890,11 +1884,11 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
                    An offence against Division 4 or 6 of Part 2A is an indictable offence.
 
-## Part 2C—Re‑affirmation of the universal service obligation and the customer service guarantee
+## Part 2C—Re-affirmation of the universal service obligation and the customer service guarantee
 
-##### <a id="8CM"></a>8CM  Re‑affirmation of universal service obligation
+##### <a id="8CM"></a>8CM  Re-affirmation of universal service obligation
 
-             (1)  The Parliament re‑affirms its intention:
+             (1)  The Parliament re-affirms its intention:
 
                      (a)  that all people in Australia, wherever they reside or carry on business, will continue to have reasonable access, on an equitable basis, to standard telephone services and payphones; and
 
@@ -1902,9 +1896,9 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
              (2)  An expression used in this section and in Part 2 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ has the same meaning in this section as it has in that Part.
 
-##### <a id="8CN"></a>8CN  Re‑affirmation of the customer service guarantee
+##### <a id="8CN"></a>8CN  Re-affirmation of the customer service guarantee
 
-             (1)  The Parliament re‑affirms its intention that the Minister will take all reasonable steps to ensure that:
+             (1)  The Parliament re-affirms its intention that the Minister will take all reasonable steps to ensure that:
 
                      (a)  the ACMA continues to make performance standards to be complied with by carriage service providers in relation to customer service; and
 
@@ -1928,7 +1922,7 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
                      (b)  the period starting on the LSL changeover day during which the employee continues to be an employee of a Telstra body.
 
-                    <a name="employe"></a>**_employee_** includes a person employed in a full‑time or a part‑time capacity.
+                    <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
 
                     <a name="law"></a>**_law_** means:
 
@@ -1936,7 +1930,7 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
                      (b)  regulations or any other instrument (other than a determination, award or industrial agreement) made under such a law.
 
-                    <a name="post-sale-long-servic-leav-right"></a>**_post‑sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination, award, industrial agreement or law (other than this Act) on or after the LSL changeover day in relation to service on or after that day.
+                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights the employee acquires under a determination, award, industrial agreement or law (other than this Act) on or after the LSL changeover day in relation to service on or after that day.
 
 ##### <a id="9B"></a>9B  Long service leave for employees with less than 10 years service
 
@@ -1956,7 +1950,7 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
 the Telstra body may grant the employee long service leave on full salary for a period of up to the employee’s long service leave credit under subsection 9E(1).
 
-             (6)  If a period of long service leave may be granted to an employee under subsection (4) or (5), the Telstra body may, if the employee asks in writing, grant the employee long service leave on half salary for a period that is not more than twice the first‑mentioned period.
+             (6)  If a period of long service leave may be granted to an employee under subsection (4) or (5), the Telstra body may, if the employee asks in writing, grant the employee long service leave on half salary for a period that is not more than twice the first-mentioned period.
 
              (7)  Long service leave granted in the circumstances set out in subsection (5) is to be taken so as to end immediately before the employee ceases to be an employee.
 
@@ -1988,7 +1982,7 @@ the Telstra body must pay him or her an amount equal to full salary in respect o
 
                      (a)  the employee ceases to be an employee of a Telstra body; and
 
-                     (b)  the Telstra body is satisfied that the employee left the Telstra body because of ill‑health that justified his or her so leaving; and
+                     (b)  the Telstra body is satisfied that the employee left the Telstra body because of ill-health that justified his or her so leaving; and
 
                      (c)  when the employee left, his or her combined service period was at least one year;
 
@@ -2046,9 +2040,9 @@ if the employee had been retrenched on the LSL changeover day.
 
              (2)  For the purposes of section 9C, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1) of this section reduced by any long service leave credit used under section 9B.
 
-##### <a id="9F"></a>9F  Division not to affect an employee’s post‑sale long service leave rights
+##### <a id="9F"></a>9F  Division not to affect an employee’s post-sale long service leave rights
 
-                   To avoid doubt, this Division does not affect an employee’s post‑sale long service leave rights.
+                   To avoid doubt, this Division does not affect an employee’s post-sale long service leave rights.
 
 ##### <a id="9G"></a>9G  Saving—Long Service Leave Act
 
@@ -2144,7 +2138,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00303/Html/2812a753-60dc-4dba-abeb-cfd6cc72f160_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00848/Html/TelstraCorpn1991WD02_image002.gif)
 
 where:
 
@@ -2158,7 +2152,7 @@ where:
 
 ## Part 4—Telstra to be successor of Telecom and OTC
 
-##### <a id="10"></a>10  Extra‑territorial operation of Part
+##### <a id="10"></a>10  Extra-territorial operation of Part
 
                    It is the intention of the Parliament that the operation of this Part should, as far as possible, include operation in relation to the following:
 
@@ -2220,7 +2214,7 @@ a protected name, or a name so closely resembling a protected name as to be like
 
              (2)  Nothing in subsection (1) limits anything else in that subsection.
 
-##### <a id="16"></a>16  Exceptions for pre‑existing rights
+##### <a id="16"></a>16  Exceptions for pre-existing rights
 
              (1)  Nothing in section 15, so far as it applies in relation to a particular protected name, affects rights conferred by law on a person in relation to:
 
@@ -2234,7 +2228,7 @@ and was so registered, or was registered under the _Designs Act 1906_, at the pr
 
                      (a)  was using the relevant name in good faith in that manner; or
 
-                     (b)  would have been entitled to prevent another person from passing off, by means of the use of the relevant name or a similar name, goods or services as the goods or services of the first‑mentioned person.
+                     (b)  would have been entitled to prevent another person from passing off, by means of the use of the relevant name or a similar name, goods or services as the goods or services of the first-mentioned person.
 
 ##### <a id="17"></a>17  Use of other names by protected bodies
 
@@ -2384,25 +2378,25 @@ continues to have effect according to its tenor on and after the succession day 
 
 ##### <a id="36"></a>36  Audit
 
-             (1)  The Auditor‑General may, by written notice given to Telstra, resign as auditor of Telstra.
+             (1)  The Auditor-General may, by written notice given to Telstra, resign as auditor of Telstra.
 
              (2)  Subsections (3), (3A) and (4) are repealed at whichever is the earlier of the following times:
 
-                     (a)  the time when the Auditor‑General resigns in accordance with subsection (1);
+                     (a)  the time when the Auditor-General resigns in accordance with subsection (1);
 
                      (b)  the end of the first annual general meeting of Telstra held after the designated day.
 
           (2A)  Even if subsections (3), (3A) and (4) remain in effect until the end of the first annual general meeting of Telstra held after the designated day, a replacement auditor may be appointed at the meeting, in accordance with the _Corporations Act 2001_, as if a vacancy in the office of auditor had arisen at the start of the meeting.
 
-             (3)  The Auditor‑General is taken to have been appointed under section 327 of the _Corporations Act 2001_ as auditor of Telstra with effect from its formation.
+             (3)  The Auditor-General is taken to have been appointed under section 327 of the _Corporations Act 2001_ as auditor of Telstra with effect from its formation.
 
-          (3A)  However, the rule in subsection (3) does not prevent the members of the Board from appointing another person or firm to be an additional auditor of Telstra. Such an appointment must comply with subsection 327(7) of the _Corporations Act 2001_. Before making such an appointment, the members of the Board must consult the Auditor‑General. The _Corporations Act 2001_ has effect as if the additional auditor had been appointed under subsection 327(5) of that Act.
+          (3A)  However, the rule in subsection (3) does not prevent the members of the Board from appointing another person or firm to be an additional auditor of Telstra. Such an appointment must comply with subsection 327(7) of the _Corporations Act 2001_. Before making such an appointment, the members of the Board must consult the Auditor-General. The _Corporations Act 2001_ has effect as if the additional auditor had been appointed under subsection 327(5) of that Act.
 
-             (4)  Sections 328 and 329 of the _Corporations Act 2001_ do not apply in relation to the Auditor‑General’s appointment as auditor of Telstra.
+             (4)  Sections 328 and 329 of the _Corporations Act 2001_ do not apply in relation to the Auditor-General’s appointment as auditor of Telstra.
 
-             (5)  Nothing done, or omitted to be done, by the Auditor‑General as auditor of Telstra makes the Auditor‑General liable to be prosecuted for an offence.
+             (5)  Nothing done, or omitted to be done, by the Auditor-General as auditor of Telstra makes the Auditor-General liable to be prosecuted for an offence.
 
-             (6)  For the purposes of this section, if a provision of the _Corporations Act 2001_ referred to in this section is repealed and replaced by another provision of that Act that deals with a corresponding matter, a reference in this section to the first‑mentioned provision is to be read as a reference to the replacement provision.
+             (6)  For the purposes of this section, if a provision of the _Corporations Act 2001_ referred to in this section is repealed and replaced by another provision of that Act that deals with a corresponding matter, a reference in this section to the first-mentioned provision is to be read as a reference to the replacement provision.
 
 ##### <a id="37"></a>37  Pending proceedings
 
@@ -2456,7 +2450,7 @@ the officer with whom the certificate is lodged may:
 
 ##### <a id="42"></a>42  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2482,11 +2476,11 @@ elements of the social bonus are as follows:</li>
 
                (a)     rural transaction centres ($70 million over 5 years);
 
-              (b)     extended access to untimed local calls ($150 million over 3 years);
+               (b)     extended access to untimed local calls ($150 million over 3 years);
 
                (c)     meeting the telecommunications needs of people in remote island communities, isolated island communities or the Australian Antarctic Territory ($20 million over 3 years);
 
-              (d)     internet access for people in rural or regional areas ($36 million over 3 years);
+               (d)     internet access for people in rural or regional areas ($36 million over 3 years);
 
                (e)     mobile phone coverage along highways ($25 million over 3 years);
 
@@ -2510,7 +2504,7 @@ elements of the social bonus are as follows:</li>
 
                      (a)  an amount received by the Commonwealth directly or indirectly from:
 
-                              (i)  the sale‑scheme trustee; or
+                              (i)  the sale-scheme trustee; or
 
                              (ii)  an investor in Telstra;
 
@@ -2640,7 +2634,7 @@ Note:          An example of a purpose mentioned in paragraph�
 
              (2)  The terms and conditions on which that financial assistance is granted are to be set out in a written agreement between the Commonwealth and the State.
 
-             (3)  An agreement under subsection (2) may be entered into by the Secretary of the Department on behalf of the Commonwealth.
+             (3)  An agreement under subsection (2) may be entered into by the Secretary to the Department on behalf of the Commonwealth.
 
 ##### <a id="62"></a>62  Grant of financial assistance to a person other than a State
 
@@ -2652,7 +2646,7 @@ Note:          An example of a purpose mentioned in paragraph�
 
              (2)  The terms and conditions on which that financial assistance is granted are to be set out in a written agreement between the Commonwealth and the person.
 
-             (3)  An agreement under subsection (2) may be entered into by the Secretary of the Department on behalf of the Commonwealth.
+             (3)  An agreement under subsection (2) may be entered into by the Secretary to the Department on behalf of the Commonwealth.
 
 ### Division 6—Delegation
 
@@ -2660,7 +2654,7 @@ Note:          An example of a purpose mentioned in paragraph�
 
              (1)  The Minister may, by writing, delegate to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  an SES employee, or acting SES employee, in the Department;
 
@@ -2668,23 +2662,23 @@ all or any of the Minister’s powers under this Part.
 
              (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister.
 
-##### <a id="70"></a>70  Delegation by Transport Minister
+##### <a id="70"></a>70  Delegation by Minister for Transport and Regional Services
 
-             (1)  The Transport Minister may, by writing, delegate to:
+             (1)  The Minister for Transport and Regional Services may, by writing, delegate to:
 
-                     (a)  the Secretary of the Transport Department; or
+                     (a)  the Secretary to the Department of Transport and Regional Services; or
 
                      (b)  an SES employee, or acting SES employee, in the Department;
 
-all or any of the powers conferred by this Part on the Transport Minister.
+all or any of the powers conferred by this Part on the Minister for Transport and Regional Services.
 
-             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Transport Minister.
+             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Minister for Transport and Regional Services.
 
-##### <a id="71"></a>71  Delegation by Secretary of the Department
+##### <a id="71"></a>71  Delegation by Secretary to the Department
 
-             (1)  The Secretary of the Department may, by writing, delegate to an SES employee, or acting SES employee, in the Department all or any of the powers conferred on the Secretary by this Part.
+             (1)  The Secretary to the Department may, by writing, delegate to an SES employee, or acting SES employee, in the Department all or any of the powers conferred on the Secretary by this Part.
 
-             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Secretary of the Department.
+             (2)  The delegate is, in the exercise of the power delegated under subsection (1), subject to the directions of the Secretary to the Department.
 
 # Schedule—Ownership definitions
 
@@ -2772,7 +2766,7 @@ all or any of the powers conferred by this Part on the Transport Minister.
 
                     <a name="interest-share"></a>**_interest in a share_** has the meaning given by clause 8.
 
-                    <a name="lend-monei"></a>**_lending money_** includes providing non‑equity finance where the provision of the finance may reasonably be regarded as equivalent to lending money.
+                    <a name="lend-monei"></a>**_lending money_** includes providing non-equity finance where the provision of the finance may reasonably be regarded as equivalent to lending money.
 
                     <a name="loan-secur"></a>**_loan security_** means a security held solely for the purposes of a moneylending agreement.
 
@@ -2784,9 +2778,9 @@ all or any of the powers conferred by this Part on the Transport Minister.
 
                      (b)  a receiver and manager of any part of the undertaking of the company appointed under a power contained in any instrument; or
 
-                     (c)  a liquidator of the company appointed in a voluntary winding‑up.
+                     (c)  a liquidator of the company appointed in a voluntary winding-up.
 
-                    <a name="ordinarili-resid-australia"></a>**_ordinarily resident in Australia_** has the meaning given by clause 3.
+                    <a name="australia"></a><a name="ordinarili-resid"></a>**_ordinarily resident in_****_Australia_** has the meaning given by clause 3.
 
                     <a name="ownership-provision"></a>**_ownership provisions_** means Part 2A and this Schedule.
 
@@ -2824,7 +2818,7 @@ Note:          See also subclause (2).
 
                     <a name="substanti-interest"></a>**_substantial interest_**, in relation to a trust estate, has the meaning given by clause 13.
 
-                    <a name="sub-underwrit"></a>**_sub‑underwriter_**, in relation to an issue of shares, means a person who is a party to an agreement with an underwriter that obliges the first‑mentioned person to subscribe for any of the shares in circumstances specified in the agreement.
+                    <a name="sub-underwrit"></a>**_sub-underwriter_**, in relation to an issue of shares, means a person who is a party to an agreement with an underwriter that obliges the first-mentioned person to subscribe for any of the shares in circumstances specified in the agreement.
 
                     <a name="underwrit"></a>**_underwriter_**, in relation to an issue of shares, means a person who is a party to an agreement with the company issuing the shares that includes a provision obliging the person to subscribe for any of the shares in the event of a shortfall in public subscriptions below an amount specified in the agreement.
 
@@ -2834,7 +2828,7 @@ Note:          See also subclause (2).
 
 ##### <a id="3"></a>3  When foreign citizens are ordinarily resident in Australia
 
-                   For the purposes of the ownership provisions, a foreign citizen is **_ordinarily resident in Australia_** at a particular time if, and only if:
+                   For the purposes of the ownership provisions, a foreign citizen is **_ordinarily resident in_****_Australia_** at a particular time if, and only if:
 
                      (a)  the foreign citizen has been in Australia during 200 or more days in the period of 12 months immediately preceding that time; and
 
@@ -2842,11 +2836,11 @@ Note:          See also subclause (2).
 
                               (i)  the foreign citizen is in Australia and has permission to remain in Australia indefinitely; 
 
-                             (ii)  the individual is not in Australia but has a right to re‑enter Australia and, on re‑entry, to be granted permission to remain in Australia indefinitely; 
+                             (ii)  the individual is not in Australia but has a right to re-enter Australia and, on re-entry, to be granted permission to remain in Australia indefinitely; 
 
                             (iii)  the individual is in Australia and has a special category visa under section 32 of the _Migration Act 1958_;
 
-                            (iv)  the individual is not in Australia, is a New Zealand citizen, holds a New Zealand passport and, on re‑entry to Australia, would have the right to be granted a special category visa under section 32 of the _Migration Act 1958_.
+                            (iv)  the individual is not in Australia, is a New Zealand citizen, holds a New Zealand passport and, on re-entry to Australia, would have the right to be granted a special category visa under section 32 of the _Migration Act 1958_.
 
 ##### <a id="4"></a>4  Entering into an agreement or arrangement
 
@@ -2914,13 +2908,13 @@ then, the second person is taken to be an associate of the first person for the 
 
                      (a)  the person has the power (whether exercisable with or without the consent or concurrence of any other person) to veto such an appointment; or
 
-                     (b)  a person’s appointment as a director of the company follows necessarily from that person being a director or other officer of the first‑mentioned person.
+                     (b)  a person’s appointment as a director of the company follows necessarily from that person being a director or other officer of the first-mentioned person.
 
-##### <a id="7"></a>7  Meaning of _entitled to acquire_
+##### <a id="7"></a>7  Meaning of entitled to acquire
 
                    For the purposes of the ownership provisions, a person is **_entitled to acquire_** any thing if the person is absolutely or contingently entitled to acquire it, whether because of any constituent document of a company, the exercise of any right or option or for any other reason.
 
-##### <a id="8"></a>8  Meaning of _interest in a share_
+##### <a id="8"></a>8  Meaning of interest in a share
 
              (1)  Subject to this clause, for the purposes of the ownership provisions, a person holds an **_interest in a share_** if the person has any legal or equitable interest in the share.
 
@@ -2954,7 +2948,7 @@ then, the second person is taken to be an associate of the first person for the 
 
              (1)  For the purposes of the ownership provisions, the following interests must be disregarded:
 
-                     (a)  an interest in a share in Telstra held by the sale‑scheme trustee in accordance with the sale‑scheme trust deed;
+                     (a)  an interest in a share in Telstra held by the sale-scheme trustee in accordance with the sale-scheme trust deed;
 
                      (b)  an interest in a share held by a person whose ordinary business includes the lending of money if the person holds the interest as a loan security;
 
@@ -2984,7 +2978,7 @@ the person’s interest in the share must be disregarded at all times during so 
 
                      (a)  a person acquires an interest in a share in Telstra; and
 
-                     (b)  the interest was acquired in the person’s capacity as an underwriter or a sub‑underwriter under a Telstra sale scheme;
+                     (b)  the interest was acquired in the person’s capacity as an underwriter or a sub-underwriter under a Telstra sale scheme;
 
 the person’s interest in the share must be disregarded at all times during whichever of the following periods is applicable:
 
@@ -2994,7 +2988,7 @@ the person’s interest in the share must be disregarded at all times during whi
 
 ##### <a id="10"></a>10  Voting power
 
-             (1)  A reference in the ownership provisions to the **_voting power_** in a company is a reference to the total rights of shareholders to vote, or participate in any decision‑making, concerning any of the following:
+             (1)  A reference in the ownership provisions to the **_voting power_** in a company is a reference to the total rights of shareholders to vote, or participate in any decision-making, concerning any of the following:
 
                      (a)  the making of distributions of capital or profits of the company to its shareholders;
 
@@ -3008,7 +3002,7 @@ the person’s interest in the share must be disregarded at all times during whi
 
                      (b)  whether or not based on legal or equitable rights.
 
-             (3)  If the percentage of total rights to vote or participate in decision‑making differs as between different types of voting or decision‑making, the highest of those percentages applies for the purposes of this clause.
+             (3)  If the percentage of total rights to vote or participate in decision-making differs as between different types of voting or decision-making, the highest of those percentages applies for the purposes of this clause.
 
              (4)  If a company:
 
@@ -3032,19 +3026,19 @@ this clause has effect as if the members or policy holders of the company were s
 
 ##### <a id="12"></a>12  Direct control interests in a company
 
-             (1)  A person holds a **_direct control interest_** in a company at a particular time equal to the percentage of the total paid‑up share capital of the company in which the person holds an interest at that time.
+             (1)  A person holds a **_direct control interest_** in a company at a particular time equal to the percentage of the total paid-up share capital of the company in which the person holds an interest at that time.
 
              (2)  A person also holds a **_direct control interest_** in a company at a particular time equal to the percentage of the voting power in the company that the person is in a position to control at that time.
 
-             (3)  A person also holds a **_direct control interest_** in a company at a particular time equal to the percentage that the person holds, or is entitled to acquire, at that time of the total rights to distributions of capital or profits of the company to its shareholders on winding‑up.
+             (3)  A person also holds a **_direct control interest_** in a company at a particular time equal to the percentage that the person holds, or is entitled to acquire, at that time of the total rights to distributions of capital or profits of the company to its shareholders on winding-up.
 
-             (4)  A person also holds a **_direct control interest_** in a company at a particular time equal to the percentage that the person holds, or is entitled to acquire, at that time of the total rights to distributions of capital or profits of the company to its shareholders, otherwise than on winding‑up.
+             (4)  A person also holds a **_direct control interest_** in a company at a particular time equal to the percentage that the person holds, or is entitled to acquire, at that time of the total rights to distributions of capital or profits of the company to its shareholders, otherwise than on winding-up.
 
           (4A)  In determining the direct control interest of a particular type that a person holds in Telstra, it is to be assumed that the only shares in Telstra are the shares held by persons other than the Commonwealth.
 
        (4AA)  For the purposes of subclause (4A), if a share in Telstra is an investment of the Future Fund, the share is taken to be held by a person other than the Commonwealth.
 
-       (4AB)  For the purposes of subclause (4A), if:
+        (4AB)  For the purposes of subclause (4A), if:
 
                      (a)  a share in Telstra is held by the Commonwealth; and
 
@@ -3064,7 +3058,7 @@ Note:   For specification by class, see subsection 13(3) of the _Legislative
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00303/Html/2812a753-60dc-4dba-abeb-cfd6cc72f160_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00848/Html/TelstraCorpn1991WD02_image003.gif)
 
 where:
 
@@ -3123,7 +3117,7 @@ For all other relevant information pertaining to application, saving or transiti
   <col width="0%">
   <col width="17%">
   <col width="21%">
-  <col width="16%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -3593,7 +3587,7 @@ Remainder: Royal Assent</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td colspan="2">
     <div>144, 2008</div>
@@ -3613,7 +3607,7 @@ Remainder: Royal Assent</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>Nation‑building Funds (Consequential Amendments) Act 2008</div>
+    <div>Nation-building Funds (Consequential Amendments) Act 2008</div>
   </td>
   <td colspan="2">
     <div>155, 2008</div>
@@ -3728,26 +3722,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td colspan="2">
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 213–215), Schedule 6 (items 116–119) and Schedule 7 (items 135–138): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -3763,7 +3737,7 @@ _(a)_     The _Australian and Overseas Telecommunications Corporation Ac
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Telstra Corporation Act 1991_ was amended by subsections 3(1) and (2) only of the _Transport and Communications Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
+_(b)_    The _Telstra Corporation Act 1991_ was amended by subsections 3(1) and (2) only of the _Transport and Communications Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -4096,7 +4070,7 @@ _(m)_ Subsection 2(1) (item 22) of the _Fair Work (State Referral and Conseque
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -4239,7 +4213,7 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 173, 1991; No. 64, 1994; No. 81, 1996; No. 59, 1997; Nos. 52, 53 and 146, 1999; No. 55, 2001; No. 45, 2005; No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006); No. 155, 2008; No. 110, 2009; No. 5, 2011</div>
+    <div>am. No. 173, 1991; No. 64, 1994; No. 81, 1996; No. 59, 1997; Nos. 52, 53 and 146, 1999; No. 55, 2001; No. 45, 2005; No. 118, 2005 (as am. by No. 192, 1976; as am. by No. 122, 2006); No. 155, 2008; No. 110, 2009</div>
   </td>
 </tr>
 <tr>
@@ -4319,7 +4293,7 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div></div>
   </td>
   <td>
-    <div>rs. No. 81, 1996</div>
+    <div>rep. No. 81, 1996</div>
   </td>
 </tr>
 <tr>
@@ -4887,7 +4861,7 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div></div>
   </td>
   <td>
-    <div>am. No. 53 and 146, 1999; No. 5, 2011</div>
+    <div>am. No. 53 and 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -4956,7 +4930,7 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>Note 2A to s. 8BE ..............</div>
+    <div>Note 2A to s. 8BE ................</div>
   </td>
   <td>
     <div>ad. No. 53, 1999</div>
@@ -4996,15 +4970,7 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 8BG ................</div>
+    <div>Note 1 to s. 8BG ..................</div>
   </td>
   <td>
     <div>rs. No. 53, 1999</div>
@@ -5015,7 +4981,7 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>Note 2 to s. 8BG</div>
   </td>
   <td>
-    <div>rep. No. 53, 1999</div>
+    <div>am. No. 53, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5024,16 +4990,6 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
   </td>
   <td>
     <div>rep. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 4 to s. 8BG 
-Renumbered Note 2</div>
-  </td>
-  <td>
-    <div>
-No. 53, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5329,7 +5285,7 @@ No. 53, 1999</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 53 and 146, 1999; No. 5, 2011</div>
+    <div>am. No. 53 and 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5338,14 +5294,6 @@ No. 53, 1999</div>
   </td>
   <td>
     <div>ad. No. 81, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 53, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5838,22 +5786,6 @@ No. 53, 1999</div>
 </tr>
 <tr>
   <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 22</div>
   </td>
   <td>
@@ -5887,14 +5819,6 @@ No. 53, 1999</div>
 <tr>
   <td>
     <div></div>
-  </td>
-  <td>
-    <div>rep. No. 52, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
   </td>
   <td>
     <div>rep. No. 52, 1999</div>
@@ -6310,7 +6234,7 @@ No. 53, 1999</div>
 </tr>
 <tr>
   <td>
-    <div>S. 60</div>
+    <div>Ss. 60–62</div>
   </td>
   <td>
     <div>ad. No. 53, 1999</div>
@@ -6322,22 +6246,6 @@ No. 53, 1999</div>
   </td>
   <td>
     <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61, 62</div>
-  </td>
-  <td>
-    <div>ad. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6478,7 +6386,7 @@ No. 53, 1999</div>
 </tr>
 <tr>
   <td>
-    <div>S. 69</div>
+    <div>S. 69–71</div>
   </td>
   <td>
     <div>ad. No. 53, 1999</div>
@@ -6489,55 +6397,7 @@ No. 53, 1999</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 70</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>ad. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 71</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>ad. No. 53, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999; No. 5, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -6663,9 +6523,9 @@ _Telecommunications (Transitional Provisions and Consequential Amendments) Act 1
 
 ## 66  Transitional—certain acts of AUSTEL to be attributed to the ACCC
 
-(1)       This item applies to anything done by, or in relation to, AUSTEL under section 22 or 24 of the _Telstra Corporation Act 1991_ before the commencement of this item.
+(1)        This item applies to anything done by, or in relation to, AUSTEL under section 22 or 24 of the _Telstra Corporation Act 1991_ before the commencement of this item.
 
-(2)       The _Telstra Corporation Act 1991_ has effect, after the commencement of this item, as if the thing had been done by, or in relation to, the ACCC.
+(2)        The _Telstra Corporation Act 1991_ has effect, after the commencement of this item, as if the thing had been done by, or in relation to, the ACCC.
 
 * * *
 
@@ -6695,23 +6555,23 @@ This Schedule extends to acts, omissions, matters and things outside Australia.
 
 In this Schedule, unless the contrary intention appears:
 
-                    <a name="replac-act"></a>**_replacement Acts_** means the _Auditor‑General Act 1997_, the _Financial Management and Accountability Act 1997_ and the _Commonwealth Authorities and Companies Act 1997_.
+                    <a name="replac-act"></a>**_replacement Acts_** means the _Auditor-General Act 1997_, the _Financial Management and Accountability Act 1997_ and the _Commonwealth Authorities and Companies Act 1997_.
 
                     <a name="reserv-monei-fund"></a>**_Reserved Money Fund_** means the Reserved Money Fund established by the _Financial Management and Accountability Act 1997_.
 
 ## 4  Transfers from old Funds to new Funds
 
-(2)       If:
+(2)        If:
 
                      (a)  immediately before the commencement of this Schedule, money was in an account (however described) that was established or continued in existence by an Act that is amended by Schedule 2 to this Act; and
 
 the money must be transferred from that account to the component of the Reserved Money Fund that is established to replace that account.
 
-(3)       If an amendment made by Schedule 2 substitutes a component of the Reserved Money Fund for an account (however described), any reference in any Act or other instrument to that component is to be read as including a reference to the account for which it is substituted, unless the context otherwise requires.
+(3)        If an amendment made by Schedule 2 substitutes a component of the Reserved Money Fund for an account (however described), any reference in any Act or other instrument to that component is to be read as including a reference to the account for which it is substituted, unless the context otherwise requires.
 
 ## 8  Regulations
 
-(2)       In particular, regulations may be made:
+(2)        In particular, regulations may be made:
 
                      (c)  for other transitional matters arising out of the amendments made by Schedules 2 and 3.
 
@@ -6723,7 +6583,7 @@ _Telecommunications Legislation Amendment Act 1999 (No. 52, 1999)_
 
 ## 77  Transitional—eligible instruments
 
-(1)       This item applies to an eligible instrument if:
+(1)        This item applies to an eligible instrument if:
 
                      (a)  the eligible instrument was in force immediately before the commencement of this item; and
 
@@ -6731,13 +6591,13 @@ _Telecommunications Legislation Amendment Act 1999 (No. 52, 1999)_
 
                      (c)  that provision is repealed by this Schedule.
 
-(3)       In this item:
+(3)        In this item:
 
                     <a name="elig-instrum"></a>**_eligible instrument_** means regulations, a declaration, a determination, a direction, a standard or any other instrument.
 
 ## 78  Transitional—acts or things done before commencement
 
-(1)       This item applies to an act or thing (other than the making of an eligible instrument) if:
+(1)        This item applies to an act or thing (other than the making of an eligible instrument) if:
 
                      (a)  the act or thing was done before the commencement of this item; and
 
@@ -6745,7 +6605,7 @@ _Telecommunications Legislation Amendment Act 1999 (No. 52, 1999)_
 
                      (c)  that provision is repealed by this Schedule.
 
-(3)       In this item:
+(3)        In this item:
 
                     <a name="elig-instrum"></a>**_eligible instrument_** means regulations, a declaration, a determination, a direction, a standard or any other instrument.
 
@@ -6755,7 +6615,7 @@ Section 151CM of the _Trade Practices Act 1974_ has effect, after the commence
 
 ## 82  Transitional regulations
 
-The Governor‑General may make regulations in relation to transitional matters arising out of the amendments and repeals made by this Schedule.
+The Governor-General may make regulations in relation to transitional matters arising out of the amendments and repeals made by this Schedule.
 
 * * *
 
@@ -6825,7 +6685,7 @@ Securities lending arrangements
 
                      (b)  the Commonwealth may come under an obligation to:
 
-                              (i)  re‑acquire the borrowed share from the borrower at a later time; or
+                              (i)  re-acquire the borrowed share from the borrower at a later time; or
 
                              (ii)  acquire an identical share from the borrower at a later time;
 
@@ -6845,7 +6705,7 @@ Definitions
 
              (7)  In this section:
 
-                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid‑security issuer company_** has the same meaning as in the _Telstra Corporation Act 1991_.
+                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid-security issuer company_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
                     <a name="commun-fund"></a>**_Communications Fund_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
@@ -6853,7 +6713,7 @@ Definitions
 
                     <a name="telstra"></a>**_Telstra_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
-                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid‑security issuer company.
+                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
 
                     <a name="vote-share"></a>**_voting share_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
@@ -6875,7 +6735,7 @@ Securities lending arrangements
 
                      (b)  the Commonwealth may come under an obligation to:
 
-                              (i)  re‑acquire the borrowed share from the borrower at a later time; or
+                              (i)  re-acquire the borrowed share from the borrower at a later time; or
 
                              (ii)  acquire an identical share from the borrower at a later time;
 
@@ -6895,7 +6755,7 @@ Definitions
 
              (7)  In this section:
 
-                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid‑security issuer company_** has the same meaning as in the _Telstra Corporation Act 1991_.
+                    <a name="categori-hybrid-secur-issuer-compani"></a>**_category A hybrid-security issuer company_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
                     <a name="commun-fund"></a>**_Communications Fund_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
@@ -6903,27 +6763,27 @@ Definitions
 
                     <a name="telstra"></a>**_Telstra_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
-                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid‑security issuer company.
+                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
 
                     <a name="vote-share"></a>**_voting share_** has the same meaning as in the _Telstra Corporation Act 1991_.
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 3
 
 ## 18  Transitional provision
 
-(1)       For the purposes of sections 8BI and 8BJ of the _Telstra Corporation Act 1991_, if:
+(1)        For the purposes of sections 8BI and 8BJ of the _Telstra Corporation Act 1991_, if:
 
-                     (a)  apart from this subitem, an unacceptable foreign‑ownership situation would exist on the day on which the amendments of that Act made by this Schedule commence; and
+                     (a)  apart from this subitem, an unacceptable foreign-ownership situation would exist on the day on which the amendments of that Act made by this Schedule commence; and
 
                      (b)  the situation would exist only because of the amendments;
 
 the situation is, during the period of 6 months starting on the day on which the amendments commence, taken not to exist for so long as it would otherwise have existed.
 
-(2)       If:
+(2)        If:
 
                      (a)  on the day on which the amendments of the _Telstra Corporation Act 1991_ made by this Schedule commence, a person would, apart from this subitem, be required by regulations made for the purposes of section 8BN of that Act to do something in relation to an ownership matter; and
 
