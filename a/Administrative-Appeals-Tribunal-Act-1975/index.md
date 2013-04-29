@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00390/Html/AdminAppealsTribunal75_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00572/Html/AdminAppealsTribunal75_image001.gif)
 
 # Administrative Appeals Tribunal Act 1975
 
 **Act No. 91 of 1975 as amended**
 
-This compilation was prepared on 10 June 2010
- taking into account amendments up to Act No. 51 of 2010
+This compilation was prepared on 15 December 2009
+ taking into account amendments up to Act No. 122 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -377,7 +377,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Administrative Appeals Tribunal Act 1975_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> </span>[_see_ Note 1]
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> </span>[_see_ Note 1]
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -779,7 +779,7 @@ is not capable of being retired from office on the ground of invalidity (within 
 
                      (b)  in any other case—he or she shall cause the interest of the member to be disclosed to the parties to the proceeding.
 
-##### <a id="15"></a>15  Resignation
+##### <a id="15"></a>15  Resignation
 
              (1)  A member may resign his or her appointment by giving the Governor-General a written resignation.
 
@@ -3949,17 +3949,15 @@ I,               , do solemnly and sincerely promise
 
 The _Administrative Appeals Tribunal Act 1975_ as shown in this compilation comprises Act No. 91, 1975 amended as indicated in the Tables below.
 
+The _Administrative Appeals Tribunal Act 1975_ was modified by the _Commonwealth Employees’ Rehabilitation and Compensation Act 1988_(No. 75, 1988), the _Social Security Act 1991_(No. 46, 1991), the _Taxation Laws Amendment Act (No. 3) 1991_(No. 216, 1991) and the _Migration Reform Act 1992_(No. 184, 1992). The modifications made by these Acts are not incorporated in this compilation.
+
 The _Administrative Appeals Tribunal Act 1975_ was amended by the Administrative Appeals Tribunal (Social Services Act) Regulations. The amendments made by these Regulations were repealed by the _Statute Law Revision Act 1981_(No. 61, 1981).
 
 The _Administrative Appeals Tribunal Act 1975_ was amended by the Administrative Appeals Tribunal (Patent Attorneys) Regulations. The amendments are incorporated in this compilation.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For application, saving or transitional provisions made by the _Freedom of Information Amendment (Reform) Act 2010_, _see_ Act No. 51, 2010.
-
 All relevant information pertaining to application, saving or transitional provisions prior to 30 May 2000 is not included in this compilation. For subsequent information _see_ Table A.
-
-The _Administrative Appeals Tribunal Act 1975_ was modified by the _Commonwealth Employees’ Rehabilitation and Compensation Act 1988_(No. 75, 1988), the _Social Security Act 1991_(No. 46, 1991), the _Taxation Laws Amendment Act (No. 3) 1991_(No. 216, 1991) and the _Migration Reform Act 1992_(No. 184, 1992). The modifications made by these Acts are not incorporated in this compilation.
 
 The _Administrative Appeals Tribunal Act 1975_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
 
@@ -5139,24 +5137,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 3 (item 5) \[in part] 
 \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>51, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 41A, 41B): \[ <i>see (zf)</i>and Note 2] 
-Schedule 7: <i>(zf)</i></div>
-  </td>
-  <td>
-    <div>Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(2) of which provides as follows: 
@@ -5303,99 +5283,6 @@ _(zd)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 
 _(ze)_ The _Administrative Appeals Tribunal Act 1975_ was amended by Schedule 2 (item 1) only of the _Jurisdiction of the Federal Magistrates Service Legislation Amendment Act 2001,_ subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
-
-_(zf)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedules 4 to 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>.
-    </div>
-    <div>
-      However, if section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>does not commence, the
-        provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 2]
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -8538,26 +8425,6 @@ s. 44AA(7)–(10)</div>
     <div></div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
-
-The following amendments commence immediately after 1 November 2010:
-
-## Schedule 6
-
-## 41A  After paragraph 49(1)(c)
-
-Insert:
-
-                    (ca)  the Australian Information Commissioner holding office under the _Australian Information Commissioner Act 2010_; and
-
-## 41B  Subsection 49(3)
-
-Omit “or (c)”, substitute “, (c) or (ca)”.
-
-As at 10 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
