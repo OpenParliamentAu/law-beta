@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2006C00650/Html/LongServiceLeaveCE1976WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image001.gif)
 
 # Long Service Leave (Commonwealth Employees) Act 1976
 
 **Act No. 192 of 1976 as amended**
 
-This compilation was prepared on 9 November 2006
- taking into account amendments up to Act No. 122 of 2006
+This compilation was prepared on 27 March 2006
+taking into account amendments up to Act No. 39 of 2005 and SLI 2006 No. 50
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -74,15 +76,12 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Amendment of the _Meat Inspection Arrangements Act 1964_
 
-[25A](#25A).       Schedule 1
-
 [26](#26).          Regulations
 
-**Schedule 1—Amendments** 
-
-Telstra (Transition to Full Private Ownership) Act 2005                                 41
-
 **Notes** 
+
+ 
+
 
 ## An Act to make Provision for Long Service Leave in respect of Employees of the Commonwealth and certain other Persons, and for other purposes
 
@@ -264,7 +263,7 @@ _Commonwealth Employees’ Furlough Act 1973._
 
                      (b)  a local governing body that was or is established by or under a law of a State.
 
-             (2)  This section has effect as if the Australian   Capital Territory and the Northern Territory were States.
+             (2)  This section has effect as if the Australian Capital Territory and the Northern Territory were States.
 
 ##### <a id="7"></a>7  Regulations with respect to previous service with prescribed authorities etc.
 
@@ -280,7 +279,7 @@ _Commonwealth Employees’ Furlough Act 1973._
 
                      (c)  may be expressed to have effect in respect only of employment on or after a particular date, before a particular date or during a particular period.
 
-             (4)  This section has effect as if the Australian   Capital Territory and the Northern Territory were States.
+             (4)  This section has effect as if the Australian Capital Territory and the Northern Territory were States.
 
 ##### <a id="8"></a>8  Meaning of salary
 
@@ -398,13 +397,13 @@ shall not be taken, by reason only of his or her being such a person, to be empl
 
                      (c)  the Public Service of a Territory, the ACT teaching service, or the Teaching Service of the Northern Territory;
 
-                    (ca)  any service of an authority of the   Northern Territory, not being employment at a time when the authority was a public authority of the Commonwealth;
+                    (ca)  any service of an authority of the Northern Territory, not being employment at a time when the authority was a public authority of the Commonwealth;
 
-                    (cb)  any service of an authority of the   Australian Capital Territory, not being employment at a time when the authority was a public authority of the Commonwealth;
+                    (cb)  any service of an authority of the Australian Capital Territory, not being employment at a time when the authority was a public authority of the Commonwealth;
 
                      (d)  any service of an authority established or constituted by or under a law of an external Territory;
 
-                     (e)  the Public Service of the former Territory  of Nauru; or
+                     (e)  the Public Service of the former Territory of Nauru; or
 
                       (f)  other relevant service;
 
@@ -430,7 +429,7 @@ and the periods for which he or she was so employed are continuous with one anot
 
                      (b)  as a person holding an office, or employed, under the _Reserve Bank Act 1959_ or the _Commonwealth Banks Act 1959_; or
 
-                     (c)  outside   Australia as a person appointed or engaged by the Commonwealth after the commencement of this Act for employment outside Australia only;
+                     (c)  outside Australia as a person appointed or engaged by the Commonwealth after the commencement of this Act for employment outside Australia only;
 
 shall be deemed to be employment in other relevant service.
 
@@ -506,7 +505,7 @@ those periods of employment referred to in paragraph (a) or (b) of this subsecti
 
 and he or she is required to devote the whole of his or her time to the duties of the office.
 
-##### <a id="13"></a>13  Modifications of sections 11 and 12 in relation to service in the Independent  State of Papua New Guinea
+##### <a id="13"></a>13  Modifications of sections 11 and 12 in relation to service in the Independent State of Papua New Guinea
 
              (1)  In this section:
 
@@ -698,7 +697,7 @@ the approving authority shall authorize payment to him or her:
 
                      (a)  the long service leave credit of a category A employee on a day is the period equal to the number of months ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2006C00650/Html/LongServiceLeaveCE1976WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image002.gif)
 
                             where:
 
@@ -708,7 +707,7 @@ the approving authority shall authorize payment to him or her:
 
                      (b)  the long service leave credit related to the full-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00650/Html/LongServiceLeaveCE1976WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image003.gif)
 
                             where:
 
@@ -718,7 +717,7 @@ the approving authority shall authorize payment to him or her:
 
                      (c)  the long service leave credit related to the part-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00650/Html/LongServiceLeaveCE1976WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image004.gif)
 
                             where:
 
@@ -772,7 +771,7 @@ the approving authority shall authorize payment to him or her:
 
                              (ii)  the rate per week ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00650/Html/LongServiceLeaveCE1976WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00071/Html/A2D20C77F31D8D10CA25713E001FE961/$FILE/image005.gif)
 
                                    where:
 
@@ -890,7 +889,7 @@ immediately before he or she ceases to be an employee is the rate at which full 
 
                      (c)  section 14 of the _Statistics (Arrangements with States) Act 1956_.
 
-##### <a id="24A"></a>24A   Commonwealth Teaching Service—transitional
+##### <a id="24A"></a>24A  Commonwealth Teaching Service—transitional
 
              (1)  In this section, unless the contrary intention appears:
 
@@ -928,7 +927,7 @@ immediately before he or she ceases to be an employee is the rate at which full 
 
 ##### <a id="25"></a>25  Amendment of the _Meat Inspection Arrangements Act 1964_
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
@@ -936,146 +935,12 @@ The amendment made by this section is incorporated in the compilation on ComLaw.
 
 _Meat Inspection Arrangements Act 1964_
 
-For access to the wording of the amendment made by this section, _see_ Act No. 192, 1976.
-
-* * *
-
-##### <a id="25A"></a>25A  Schedule 1
-
-                   The Act that is specified in Schedule 1 is amended as set out in the applicable items in the Schedule.
+For access to the wording of the amendment made by this section, _see_ Act No. 192, 1976.</div>
 
 ##### <a id="26"></a>26  Regulations
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 
-# Schedule 1—Amendments
-
-<h9 class="ActHead9">Telstra (Transition to Full Private Ownership) Act 2005</h9>
-
-## 1  Subsection 2(1) (table item 3)
-
-Repeal the item, substitute:
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>3\. Schedule 1, items 41 to 51</div>
-  </td>
-  <td>
-    <div>The designated day declared under section 3.</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3A. Schedule 1, item 52</div>
-  </td>
-  <td>
-    <div>The third anniversary of the designated day declared under section 3.</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3B. Schedule 1, items 53 to 65</div>
-  </td>
-  <td>
-    <div>The designated day declared under section 3.</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr></table>
-
-## 2  Item 59 of Schedule 1 (new definition of _Long Service Leave Act_)
-
-After “before”, insert “the third anniversary of”.
-
-## 3  Item 64 of Schedule 1 (paragraph (a) of the definition of _combined service period_ in new subsection 9A(2))
-
-Omit “was, immediately before”, substitute “is, immediately before the third anniversary of”.
-
-## 4  Item 64 of Schedule 1 (paragraph (b) of the definition of _combined service period_ in new subsection 9A(2))
-
-After “on”, insert “the third anniversary of”.
-
-## 5  Item 64 of Schedule 1 (definition of _post-sale long service leave rights_ in new subsection 9A(2))
-
-Omit “the designated day in relation to service on or after that day.”, substitute “the third anniversary of the designated day in relation to service on or after that anniversary.”.
-
-## 6  Item 64 of Schedule 1 (new subsection 9B(1))
-
-Omit “was”, substitute “is”.
-
-## 7  Item 64 of Schedule 1 (new subsection 9B(2))
-
-Omit “was” (first occurring), substitute “is”.
-
-## 8  Item 64 of Schedule 1 (new subsection 9B(2))
-
-After “before”, insert “the third anniversary of”.
-
-## 9  Item 64 of Schedule 1 (new subsection 9B(2))
-
-Omit “was” (second occurring), substitute “is”.
-
-## 10  Item 64 of Schedule 1 (new subsection 9B(4))
-
-After “after”, insert “the third anniversary of”.
-
-## 11  Item 64 of Schedule 1 (new subsection 9C(2))
-
-Omit “was” (first occurring), substitute “is”.
-
-## 12  Item 64 of Schedule 1 (new subsection 9C(2))
-
-After “before”, insert “the third anniversary of”.
-
-## 13  Item 64 of Schedule 1 (new subsection 9C(2))
-
-Omit “was” (second occurring), substitute “is”.
-
-## 14  Item 64 of Schedule 1 (new subsection 9D(1))
-
-Omit “was” (first occurring), substitute “is”.
-
-## 15  Item 64 of Schedule 1 (new subsection 9D(1))
-
-After “before”, insert “the third anniversary of”.
-
-## 16  Item 64 of Schedule 1 (new subsection 9D(1))
-
-Omit “was” (second occurring), substitute “is”.
-
-## 17  Item 64 of Schedule 1 (new subsection 9D(2))
-
-After “after”, insert “the third anniversary of”.
-
-## 18  Item 64 of Schedule 1 (new subsection 9E(1))
-
-After “on” (wherever occurring), insert “the third anniversary of”.
-
-## 19  Item 64 of Schedule 1 (new section 9G)
-
-After “before”, insert “the third anniversary of”.
-
-## 20  Item 64 of Schedule 1 (new section 9G)
-
-Omit “was”, substitute “is”.
-
-## 21  Item 64 of Schedule 1 (new paragraph 9G(b))
-
-After “after”, insert “the third anniversary of”.
 
 # Notes to the _Long Service Leave (Commonwealth Employees) Act 1976_
 
@@ -1107,11 +972,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1121,521 +988,525 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Long Service Leave (Commonwealth Employees) Act 1976</div>
-  </td>
-  <td>
-    <div>192, 1976</div>
-  </td>
-  <td>
-    <div>20 Dec 1976</div>
-  </td>
-  <td>
-    <div>20 Dec 1976</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian National Railways Amendment Act 1978</div>
-  </td>
-  <td>
-    <div>9, 1978</div>
-  </td>
-  <td>
-    <div>1 Apr 1978</div>
-  </td>
-  <td>
-    <div>1 Mar 1978</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Employees (Redeployment and Retirement) Act 1979</div>
-  </td>
-  <td>
-    <div>52, 1979</div>
-  </td>
-  <td>
-    <div>14 June 1979</div>
-  </td>
-  <td>
-    <div>S. 20: Royal Assent 
-Remainder: 6 Feb 1981 ( <i>see Gazette</i>1981, No. S20)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>155, 1979</div>
-  </td>
-  <td>
-    <div>28 Nov 1979</div>
-  </td>
-  <td>
-    <div>19 Oct 1979 ( <i>see 
+<tbody>
+  <tr>
+    <td>
+      <div>Long Service Leave (Commonwealth Employees) Act 1976</div>
+    </td>
+    <td>
+      <div>192, 1976</div>
+    </td>
+    <td>
+      <div>20 Dec 1976</div>
+    </td>
+    <td>
+      <div>20 Dec 1976</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian National Railways Amendment Act 1978</div>
+    </td>
+    <td>
+      <div>9, 1978</div>
+    </td>
+    <td>
+      <div>1 Apr 1978</div>
+    </td>
+    <td>
+      <div>1 Mar 1978</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Employees (Redeployment and Retirement) Act 1979</div>
+    </td>
+    <td>
+      <div>52, 1979</div>
+    </td>
+    <td>
+      <div>14 June 1979</div>
+    </td>
+    <td>
+      <div>S. 20: Royal Assent 
+Remainder: 6 Feb 1981 ( <i>see Gazette</i>1981, No. S20) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police (Consequential Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>155, 1979</div>
+    </td>
+    <td>
+      <div>28 Nov 1979</div>
+    </td>
+    <td>
+      <div>19 Oct 1979 ( <i>see 
+
  </i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Long Service Leave (Commonwealth Employees) Amendment Act 1981</div>
-  </td>
-  <td>
-    <div>6, 1981</div>
-  </td>
-  <td>
-    <div>13 Mar 1981</div>
-  </td>
-  <td>
-    <div>13 Mar 1981</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1981</div>
-  </td>
-  <td>
-    <div>61, 1981</div>
-  </td>
-  <td>
-    <div>12 June 1981</div>
-  </td>
-  <td>
-    <div>S. 116: 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian National Railways Commission (Transitional Provisions and Consequential Amendments) Act 1983</div>
-  </td>
-  <td>
-    <div>141, 1983</div>
-  </td>
-  <td>
-    <div>22 Dec 1983</div>
-  </td>
-  <td>
-    <div>17 Feb 1984 ( <i>see 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Long Service Leave (Commonwealth Employees) Amendment Act 1981</div>
+    </td>
+    <td>
+      <div>6, 1981</div>
+    </td>
+    <td>
+      <div>13 Mar 1981</div>
+    </td>
+    <td>
+      <div>13 Mar 1981</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1981</div>
+    </td>
+    <td>
+      <div>61, 1981</div>
+    </td>
+    <td>
+      <div>12 June 1981</div>
+    </td>
+    <td>
+      <div>S. 116: 30 Sept 1983 ( <i>see Gazette</i>1983, No. S222) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian National Railways Commission (Transitional Provisions and Consequential Amendments) Act 1983</div>
+    </td>
+    <td>
+      <div>141, 1983</div>
+    </td>
+    <td>
+      <div>22 Dec 1983</div>
+    </td>
+    <td>
+      <div>17 Feb 1984 ( <i>see 
+
  </i>s. 2 and <i>Gazette</i>1984, No. S47)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Service Reform Act 1984</div>
-  </td>
-  <td>
-    <div>63, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>S. 142: Royal Assent <i>(b)</i> 
-S. 143: 1 Oct 1984 ( <i>see Gazette</i>1984, No. S383) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Service and Statutory Authorities Amendment Act 1985</div>
-  </td>
-  <td>
-    <div>166, 1985</div>
-  </td>
-  <td>
-    <div>11 Dec 1985</div>
-  </td>
-  <td>
-    <div>S. 35: Royal Assent <i>(c)</i> 
-Ss. 36–39: 1 Apr 1986 ( <i>see Gazette</i>1986, No. S134) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Airlines (Conversion to Public Company) Act 1988</div>
-  </td>
-  <td>
-    <div>6, 1988</div>
-  </td>
-  <td>
-    <div>9 Mar 1988</div>
-  </td>
-  <td>
-    <div>Ss. 67 and 68: Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>87, 1988</div>
-  </td>
-  <td>
-    <div>8 Nov 1988</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Mar 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S53)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
-  </td>
-  <td>
-    <div>109, 1988</div>
-  </td>
-  <td>
-    <div>6 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 23, Schedule 5 (in part): 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(e)</i> 
-Schedule 5 (in part): <i>(e)</i></div>
-  </td>
-  <td>
-    <div>S. 23</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Capital Territory Government Service (Consequential Provisions) Act 1994</div>
-  </td>
-  <td>
-    <div>92, 1994</div>
-  </td>
-  <td>
-    <div>29 June 1994</div>
-  </td>
-  <td>
-    <div>1 July 1994 ( <i>see Gazette</i>1994, No. S256)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Government Business Enterprises (Miscellaneous Reforms) Act 1988</div>
-  </td>
-  <td>
-    <div>123, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Part II (ss. 3–12): 26 Jan 1989 
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Service Reform Act 1984</div>
+    </td>
+    <td>
+      <div>63, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td>
+      <div>S. 142: Royal Assent <i>(b)</i> 
+S. 143: 1 Oct 1984 ( <i>see Gazette</i>1984, No. S383) <i>(b)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Service and Statutory Authorities Amendment Act 1985</div>
+    </td>
+    <td>
+      <div>166, 1985</div>
+    </td>
+    <td>
+      <div>11 Dec 1985</div>
+    </td>
+    <td>
+      <div>S. 35: Royal Assent <i>(c)</i> 
+Ss. 36–39: 1 Apr 1986 ( <i>see Gazette</i>1986, No. S134) <i>(c)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Airlines (Conversion to Public Company) Act 1988</div>
+    </td>
+    <td>
+      <div>6, 1988</div>
+    </td>
+    <td>
+      <div>9 Mar 1988</div>
+    </td>
+    <td>
+      <div>Ss. 67 and 68: Royal Assent <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>87, 1988</div>
+    </td>
+    <td>
+      <div>8 Nov 1988</div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 Mar 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S53) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
+    </td>
+    <td>
+      <div>109, 1988</div>
+    </td>
+    <td>
+      <div>6 Dec 1988</div>
+    </td>
+    <td>
+      <div>S. 23, Schedule 5 (in part): 11 May 1989 ( <i>see Gazette</i>1989, No. S164) <i>(e)</i> 
+Schedule 5 (in part): <i>(e)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 23</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Capital Territory Government Service (Consequential Provisions) Act 1994</div>
+    </td>
+    <td>
+      <div>92, 1994</div>
+    </td>
+    <td>
+      <div>29 June 1994</div>
+    </td>
+    <td>
+      <div>1 July 1994 ( <i>see Gazette</i>1994, No. S256)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Government Business Enterprises (Miscellaneous Reforms) Act 1988</div>
+    </td>
+    <td>
+      <div>123, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>Part II (ss. 3–12): 26 Jan 1989 
 Part VI (ss. 26–31): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S399) 
 Part VII (ss. 32–37): 14 Nov 1988 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act (No. 2) 1990</div>
-  </td>
-  <td>
-    <div>108, 1990</div>
-  </td>
-  <td>
-    <div>18 Dec 1990</div>
-  </td>
-  <td>
-    <div>Ss. 8, 13 and 21: 1 Feb 1991 ( <i>see 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act (No. 2) 1990</div>
+    </td>
+    <td>
+      <div>108, 1990</div>
+    </td>
+    <td>
+      <div>18 Dec 1990</div>
+    </td>
+    <td>
+      <div>Ss. 8, 13 and 21: 1 Feb 1991 ( <i>see 
+
  </i>s. 2(4) and <i>Gazette</i>1991, No. S18) 
 Ss. 22–24: 1 Mar 1989 
 S. 26: 1 Jan 1990 
 S. 33: 25 Mar 1991 ( <i>see Gazette</i>1991, No. S73) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act (No. 3) 1991</div>
-  </td>
-  <td>
-    <div>7, 1992</div>
-  </td>
-  <td>
-    <div>15 Jan 1992</div>
-  </td>
-  <td>
-    <div>Part 2 (ss. 3–27): 27 June 1992 ( <i>see Gazette</i>1992, No. S159) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act (No. 3) 1991</div>
+    </td>
+    <td>
+      <div>7, 1992</div>
+    </td>
+    <td>
+      <div>15 Jan 1992</div>
+    </td>
+    <td>
+      <div>Part 2 (ss. 3–27): 27 June 1992 ( <i>see Gazette</i>1992, No. S159) 
 Part 5 (ss. 38, 39): 8 Apr 1992 ( <i>see Gazette</i>1992, No. S92) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act (No. 2) 1992</div>
-  </td>
-  <td>
-    <div>215, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act (No. 2) 1992</div>
+    </td>
+    <td>
+      <div>215, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1, 2) and Part 3 (ss. 9, 10): Royal Assent 
 Parts 9–11 
 (ss. 34–40): 18 Feb 1991 
-Remainder: 21 Jan 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 71): <i>(f)</i> 
-Schedule 5 (items 76–78): Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>60, 1996</div>
-  </td>
-  <td>
-    <div>25 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 19 (items 26, 27): Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian National Railways Commission Sale Act 1997</div>
-  </td>
-  <td>
-    <div>96, 1997</div>
-  </td>
-  <td>
-    <div>30 June 1997</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 6): 1 Nov 2000 ( <i>see Gazette</i>2000, No. S562) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>189, 1997</div>
-  </td>
-  <td>
-    <div>7 Dec 1997</div>
-  </td>
-  <td>
-    <div>5 Dec 1999 ( <i>see</i>s. 2 and <i>Gazette</i>1999, No. S584)</div>
-  </td>
-  <td>
-    <div>S. 2 (am. by 145, 1999, Sch. 1 \[item 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service Act 1999</div>
-  </td>
-  <td>
-    <div>145, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div><i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 557–566): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Federal Police Legislation Amendment Act 2000</div>
-  </td>
-  <td>
-    <div>9, 2000</div>
-  </td>
-  <td>
-    <div>7 Mar 2000</div>
-  </td>
-  <td>
-    <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 20, 26, 34) \[ <i>see</i> Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
-  </td>
-  <td>
-    <div>10, 2001</div>
-  </td>
-  <td>
-    <div>22 Mar 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 64, 65): 
-19 Apr 2001 <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>39, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Long Service Leave (Commonwealth Employees) Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>122, 2006</div>
-  </td>
-  <td>
-    <div>4 Nov 2006</div>
-  </td>
-  <td>
-    <div>5 Nov 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: 21 Jan 1993 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 71): <i>(f)</i> 
+Schedule 5 (items 76–78): Royal Assent <i>(f)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Workplace Relations and Other Legislation Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>60, 1996</div>
+    </td>
+    <td>
+      <div>25 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 19 (items 26, 27): Royal Assent <i>(g)</i></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian National Railways Commission Sale Act 1997</div>
+    </td>
+    <td>
+      <div>96, 1997</div>
+    </td>
+    <td>
+      <div>30 June 1997</div>
+    </td>
+    <td>
+      <div>Schedule 4 (item 6): 1 Nov 2000 ( <i>see Gazette</i>2000, No. S562) <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Parliamentary Service (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>189, 1997</div>
+    </td>
+    <td>
+      <div>7 Dec 1997</div>
+    </td>
+    <td>
+      <div>5 Dec 1999 ( <i>see</i>s. 2 and <i>Gazette</i>1999, No. S584)</div>
+    </td>
+    <td>
+      <div>S. 2 (am. by 145, 1999, Sch. 1 \[item 2])</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Parliamentary Service Act 1999</div>
+    </td>
+    <td>
+      <div>145, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div><i>(i)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 557–566): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Federal Police Legislation Amendment Act 2000</div>
+    </td>
+    <td>
+      <div>9, 2000</div>
+    </td>
+    <td>
+      <div>7 Mar 2000</div>
+    </td>
+    <td>
+      <div>2 July 2000 ( <i>see Gazette</i>2000, No. S328)</div>
+    </td>
+    <td>
+      <div>Sch. 3 (items 20, 26, 34) \[ <i>see</i> Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) Act 2001</div>
+    </td>
+    <td>
+      <div>10, 2001</div>
+    </td>
+    <td>
+      <div>22 Mar 2001</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 64, 65): 
+19 Apr 2001 <i>(k)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Parliamentary Service Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>39, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by section 116 only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
 
@@ -1703,6 +1574,7 @@ _(k)_ The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by 
 
                  (1)   Subject to this section, this Act commences on the 28th day after the day on which it receives the Royal Assent. 
 
+
 ## Table of Amendments
 
 <table>
@@ -1726,162 +1598,151 @@ _(k)_ The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. Nos. 52 and 155, 1979; No. 6, 1981; No. 166, 1985; Nos. 6 and 109, 1988; No. 215, 1992; No. 43, 1996; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6, 7</div>
-  </td>
-  <td>
-    <div>am. No. 166, 1985; No. 109, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 7, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>rs. No. 215, 1992; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 215, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A................................... 
-Renumbered s. 9B...........</div>
-  </td>
-  <td>
-    <div>ad. No. 6 1981 
-No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9B</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 189, 1997 (as am. by No. 145, 1999); No. 39, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 9, 1978; No. 155, 1979; No. 6, 1981; No. 141, 1983; Nos. 109 and 123, 1988; No. 108, 1990; No. 43, 1996; No. 96, 1997; No. 9, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 6, 1981; No. 166, 1985; No. 109, 1988; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 61, 1981; No. 87, 1988; No. 215, 1992; Nos. 43 and 60, 1996; No. 146, 1999; No. 10, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 13, 14</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 16–21</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 63, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23, 24</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24A</div>
-  </td>
-  <td>
-    <div>ad. No. 109, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25A</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. Nos. 52 and 155, 1979; No. 6, 1981; No. 166, 1985; Nos. 6 and 109, 1988; No. 215, 1992; No. 43, 1996; No. 189, 1997 (as am. by No. 145, 1999); No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6, 7</div>
+    </td>
+    <td>
+      <div>am. No. 166, 1985; No. 109, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8A</div>
+    </td>
+    <td>
+      <div>ad. No. 7, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>rs. No. 215, 1992; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9A</div>
+    </td>
+    <td>
+      <div>ad. No. 215, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9A................................... 
+Renumbered s. 9B 
+</div>
+    </td>
+    <td>
+      <div>ad. No. 6 1981 
+No. 43, 1996 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9B</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996; No. 189, 1997 (as am. by No. 145, 1999); No. 39, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 9, 1978; No. 155, 1979; No. 6, 1981; No. 141, 1983; Nos. 109 and 123, 1988; No. 108, 1990; No. 43, 1996; No. 96, 1997; No. 9, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 6, 1981; No. 166, 1985; No. 109, 1988; No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 61, 1981; No. 87, 1988; No. 215, 1992; Nos. 43 and 60, 1996; No. 146, 1999; No. 10, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 13, 14</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 87, 1988; No. 60, 1996; SLI 2006 No. 50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 16–21</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 63, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 23, 24</div>
+    </td>
+    <td>
+      <div>am. No. 43, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24A</div>
+    </td>
+    <td>
+      <div>ad. No. 109, 1988</div>
+    </td>
+  </tr>
+</tbody></table>
 
-## Table A
+
+Table A
 
 ### Application, saving or transitional provisions
 
@@ -1914,6 +1775,7 @@ If, immediately before the commencing time, any warrant, writ, order, permission
 (all within the meaning of the _Australian Federal Police Act 1979_ as in force at and after the commencing time).
 
 Note:          A person who is a member or staff member of the Australian Federal Police immediately before the commencing time is taken to be engaged as an AFP employee. Similarly, a person who is a special member of the Australian Federal Police immediately before the commencing time is taken to be appointed as a special member. See item 2 of this Schedule.
+
 
  
 
