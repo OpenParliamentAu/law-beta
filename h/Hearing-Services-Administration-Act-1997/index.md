@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00461/Html/6f44b3e5-a066-4f31-a8e9-5c291117b2ff_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00386/Html/18760ed6-b0fc-44ae-94f4-3d1ba38caee3_files/image001.gif)
 
 # Hearing Services Administration Act 1997
 
 **Act No. 81 of 1997 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 30 May 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -204,8 +204,6 @@ to provide hearing services to voucher‑holders.</li>
 
                     <a name="australian-perman-resid"></a>**_Australian permanent resident_** means a person in Australia whose presence in Australia is not subject to any limitation as to time imposed by law.
 
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
                     <a name="contract-servic-provid"></a>**_contracted service provider_** means an accredited service provider engaged under section 20.
 
                     <a name="data-process-devic"></a>**_data processing device_** means any article or material (for example, a disk) from which information is capable of being reproduced, with or without the aid of any other article or device.
@@ -382,7 +380,7 @@ Note:          **_Participant in the voucher system_** is defi
 
 ### Division 3—Participants in the voucher system
 
-##### <a id="13"></a>13  Participants in the voucher system
+##### <a id="13"></a>13  Participants in the voucher system
 
              (1)  The Minister may, by writing, determine that:
 
@@ -644,7 +642,7 @@ Note:          Section 19B of the _Crimes Act 1914_ empowers
 
                      (c)  an incorporated company; or
 
-                     (d)  the Chief Executive Medicare.
+                     (d)  the Chief Executive Officer of Medicare Australia.
 
 ##### <a id="23"></a>23  Repayments by contracted service providers
 
@@ -1226,7 +1224,7 @@ of Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 276, 277): 1 July 2011</div>
+    <div>Schedule 4 (items 276, 277): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1266,14 +1264,6 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1329,7 +1319,7 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 159, 1997; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 159, 1997; No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1404,6 +1394,28 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
     <div>am. No. 111, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 276  Section 4
+
+Insert:
+
+                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 277  Subsection 21(10) (paragraph (d) of the definition of _body_)
+
+Repeal the paragraph, substitute:
+
+                     (d)  the Chief Executive Medicare.
+
+As at 30 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
