@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00553/Html/92529167-7f4f-4c69-8a3d-fc943341b0a5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00434/Html/a711d158-9420-4ee9-944c-ce8fef0870f5_files/image001.gif)
 
 # Ombudsman Act 1976
 
 **Act No. 181 of 1976 as amended**
 
-This compilation was prepared on 18 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 10 June 2011
+ taking into account amendments up to Act No. 11 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -325,8 +325,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (c)  to control more than one‑half of the issued share capital of the company (excluding any part of that share capital that carries no right to participate beyond a specified amount in a distribution of either profits or capital).
 
                     <a name="commonwealth-servic-provid"></a>**_Commonwealth service provider_** has the meaning given by section 3BA.
-
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
 
                     <a name="depart"></a>**_Department_** means a Department within the meaning of the _Public Service Act 1999_, but does not include the branch of the Australian Public Service comprising the transitional staff as defined by section 3 of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.
 
@@ -2429,7 +2427,7 @@ Note:          For information, documents or other records giv
 
              (4)  A PPO is taken to be registered for the purposes of this Part from the time when the Postal Industry Ombudsman includes that PPO on the Register.
 
-##### <a id="19ZB"></a>19ZB  Information to be included in Register
+##### <a id="19ZB"></a>19ZB  Information to be included in Register
 
              (1)  The Postal Industry Ombudsman must include the following information in the register:
 
@@ -3146,7 +3144,7 @@ Note:          For information, documents or other records giv
 
                      (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
              (2)  In spite of anything contained in sections 27 and 28, an Ombudsman who:
 
@@ -3154,7 +3152,7 @@ is not capable of being retired from office on the ground of invalidity (within 
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given a certificate under section 13 of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
              (3)  In spite of anything contained in sections 27 and 28, an Ombudsman who:
 
@@ -3162,7 +3160,7 @@ is not capable of being retired from office on the ground of invalidity (within 
 
                      (b)  is under 60 years of age;
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless CSC has given an approval and certificate under section 43 of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of that Act) unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
 ##### <a id="29"></a>29  Acting appointments
 
@@ -4351,40 +4349,6 @@ Schedule 6 (item 130): 19 Apr 2011</div>
     <div>Sch. 2 (items 8, 9) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 894–900) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 123, 124): <i>(t)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -5062,61 +5026,6 @@ _(s)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
   </td>
 </tr></table>
 
-_(t)_      Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -5169,7 +5078,7 @@ _(t)_      Subsection 2(1) (item 2) of the _Superannuation Legislation
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 63, 1978; Nos. 107 and 155, 1979; No. 61, 1983; No. 63, 1984 (as am. by No. 193, 1985); No. 168, 1986; No. 109, 1988; No. 199, 1991; No. 196, 1992; Nos. 33 and 177, 1994; No. 43, 1996; No. 1, 1997; Nos. 146 and 194, 1999; No. 135, 2001; Nos. 63 and 125, 2002; Nos. 45 and 141, 2005; Nos. 25 and 84, 2006; Nos. 5 and 58, 2011</div>
+    <div>am. No. 63, 1978; Nos. 107 and 155, 1979; No. 61, 1983; No. 63, 1984 (as am. by No. 193, 1985); No. 168, 1986; No. 109, 1988; No. 199, 1991; No. 196, 1992; Nos. 33 and 177, 1994; No. 43, 1996; No. 1, 1997; Nos. 146 and 194, 1999; No. 135, 2001; Nos. 63 and 125, 2002; Nos. 45 and 141, 2005; Nos. 25 and 84, 2006; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6020,7 +5929,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 28A</div>
+    <div>Ss. 28A, 28B</div>
   </td>
   <td>
     <div>ad. No. 94, 1992</div>
@@ -6032,22 +5941,6 @@ No. 49, 2001</div>
   </td>
   <td>
     <div>am. No. 26, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28B</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 26, 2008; No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6260,48 +6153,6 @@ No. 49, 2001</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 894  Paragraph 29(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 895  Subsection 29(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 896  At the end of subsection 29(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 897  Paragraph 29(1A)(b)
-
-Omit “Deputy Ombudsman;”, substitute “Deputy Ombudsman.”.
-
-## 898  Subsection 29(1A)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 899  At the end of subsection 29(1A)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 900  Subsections 29(2), (4), (5), (6), (8) and (9)
-
-Repeal the subsections.
-
-As at 18 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -6423,21 +6274,5 @@ The first report under section 19ZS of the _Ombudsman Act 1976_ relating to th
                      (a)  started on the commencement of this Part; and
 
                      (b)  ended on the 30 June first occurring after that commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
