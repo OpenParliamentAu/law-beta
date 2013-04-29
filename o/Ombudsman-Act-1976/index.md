@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00193/Html/5f1af9ec-dede-47b7-bfb7-fa4093172833_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00824/Html/Ombudsman1976_WD02_image001.gif)
 
 # Ombudsman Act 1976
 
 **Act No. 181 of 1976 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 11 of 2011
+This compilation was prepared on 20 December 2010
+ taking into account amendments up to Act No. 139 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -26,7 +26,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Interpretation
 
-[3A](#3A).         Prescribed authorities: Commonwealth‑controlled companies
+[3A](#3A).         Prescribed authorities: Commonwealth-controlled companies
 
 [3B](#3B).         Certain legislation relating to Australian Capital Territory not to be enactment
 
@@ -126,7 +126,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19N](#19N).       Discretion to investigate complaints as Commonwealth Ombudsman or as Postal Industry Ombudsman
 
-[19P](#19P).        Discretion to refer complaint to another statutory office‑holder
+[19P](#19P).        Discretion to refer complaint to another statutory office-holder
 
 [19Q](#19Q).       Discretion not to investigate certain complaints
 
@@ -136,7 +136,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19S](#19S).        Powers of the Postal Industry Ombudsman under section 9
 
-[19T](#19T).        Duty to accord procedural fairness
+[19T](#19T).       Duty to accord procedural fairness
 
 [19U](#19U).       Disclosure of identifying information
 
@@ -148,61 +148,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19Y](#19Y).       Postal Industry Ombudsman may notify employer of misconduct
 
-[19Z](#19Z).        Limitation on liability where information or documents provided in good faith or when required to do so
+[19Z](#19Z).       Limitation on liability where information or documents provided in good faith or when required to do so
 
     **Division 4—Register of PPOs**
 
-[19ZA](#19ZA).     Registration of PPOs
+[19ZA](#19ZA).    Registration of PPOs
 
 [19ZB](#19ZB).     Information to be included in Register
 
 [19ZC](#19ZC).     Deregistration of PPOs
 
-[19ZD](#19ZD).     Register may be maintained by electronic means
+[19ZD](#19ZD).    Register may be maintained by electronic means
 
     **Division 5—Fees for investigations**
 
 [19ZE](#19ZE).     Fees for investigations
-
-**Part IIC—Establishment, functions, powers and duties of the Overseas Students Ombudsman** 
-
-    **Division 1—Preliminary**
-
-[19ZF](#19ZF).     Definitions
-
-[19ZG](#19ZG).     Continued application of Part to former registered providers
-
-[19ZH](#19ZH).     Part not to affect operation of other provisions of this Act
-
-    **Division 2—Establishment and functions of the Overseas Students Ombudsman**
-
-[19ZI](#19ZI).      Establishment of office of Overseas Students Ombudsman
-
-[19ZJ](#19ZJ).      Functions of Overseas Students Ombudsman
-
-[19ZK](#19ZK).     Transfer of complaints
-
-[19ZL](#19ZL).     Discretion not to investigate certain complaints
-
-    **Division 3—Powers and duties of the Overseas Students Ombudsman**
-
-[19ZM](#19ZM).    Application of other provisions of this Act to the Overseas Students Ombudsman
-
-[19ZN](#19ZN).     Powers of the Overseas Students Ombudsman under section 9
-
-[19ZO](#19ZO).     Duty to accord procedural fairness
-
-[19ZP](#19ZP).     Disclosure of identifying information
-
-[19ZQ](#19ZQ).     Overseas Students Ombudsman may report to private registered provider
-
-[19ZR](#19ZR).     Minister to table certain reports in Parliament
-
-[19ZS](#19ZS).     Annual reports
-
-[19ZT](#19ZT).     Overseas Students Ombudsman may notify of misconduct
-
-[19ZU](#19ZU).     Limitation on liability where information or documents provided in good faith or when required to do so
 
 **Part III—Conditions of service, and staff, of the Ombudsman** 
 
@@ -260,7 +220,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to provide for the appointment of a Commonwealth Ombudsman, a Defence Force Ombudsman, a Postal Industry Ombudsman and an Overseas Students Ombudsman, and to define their respective functions and powers
+## An Act to provide for the appointment of a Commonwealth Ombudsman, a Defence Force Ombudsman and a Postal Industry Ombudsman, and to define their respective functions and powers
 
 ## Part I—Preliminary
 
@@ -280,7 +240,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
 
-                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital Territory__(Self‑Government) Act_ _1988_.
+                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital Territory__(Self-Government) Act_ _1988_.
 
                     <a name="afp-appointe"></a>**_AFP appointee_** has the same meaning as in the _Australian Federal Police Act 1979_.
 
@@ -300,6 +260,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="board-acc"></a>**_Board of the ACC_** means the Board of the Australian Crime Commission established under section 7B of the _Australian Crime Commission Act 2002_.
 
+                    <a name="case-manag"></a>**_case manager_** has the same meaning as in the _Employment Services Act 1994_.
+
                     <a name="chief-execut-offic-court-tribun"></a>**_chief executive officer of a court or tribunal_** means the person holding, or performing the duties of, one of the following offices:
 
                      (a)  Clerk of the High Court;
@@ -316,47 +278,59 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                       (f)  an office prescribed by the regulations in lieu of an office referred to in paragraph (a), (b), (c), (ca) or (d).
 
-                    <a name="commonwealth-control-compani"></a>**_Commonwealth‑controlled company_** means an incorporated company in which the Commonwealth has an interest that enables the Commonwealth:
+                    <a name="commonwealth-control-compani"></a>**_Commonwealth-controlled company_** means an incorporated company in which the Commonwealth has an interest that enables the Commonwealth:
 
                      (a)  to control the composition of the board of directors of the company; or
 
-                     (b)  to cast, or control the casting of, more than one‑half of the maximum number of votes that might be cast at a general meeting of the company; or
+                     (b)  to cast, or control the casting of, more than one-half of the maximum number of votes that might be cast at a general meeting of the company; or
 
-                     (c)  to control more than one‑half of the issued share capital of the company (excluding any part of that share capital that carries no right to participate beyond a specified amount in a distribution of either profits or capital).
+                     (c)  to control more than one-half of the issued share capital of the company (excluding any part of that share capital that carries no right to participate beyond a specified amount in a distribution of either profits or capital).
 
                     <a name="commonwealth-servic-provid"></a>**_Commonwealth service provider_** has the meaning given by section 3BA.
 
-                    <a name="depart"></a>**_Department_** means a Department within the meaning of the _Public Service Act 1999_, but does not include the branch of the Australian Public Service comprising the transitional staff as defined by section 3 of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.
+                    <a name="depart"></a>**_Department_** means a Department within the meaning of the _Public Service Act 1999_, but does not include the branch of the Australian Public Service comprising the transitional staff as defined by section 3 of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.
 
                     <a name="deputi-ombudsman"></a>**_Deputy Ombudsman_** means a Deputy Commonwealth Ombudsman.
 
                     <a name="deputi-ombudsman-defenc-forc"></a>**_Deputy Ombudsman (Defence Force)_** means the Deputy Ombudsman who is, by virtue of a notice under subsection 23(1) that is in force, designated as the Deputy Ombudsman (Defence Force).
 
+                    <a name="elig-case-manag"></a>**_eligible case manager_** means an entity (within the meaning of the _Employment Services Act 1994_):
+
+                     (a)  that is, or has at any time been, a contracted case manager within the meaning of that Act; and
+
+                     (b)  that is not:
+
+                              (i)  a Department; or
+
+                             (ii)  covered by paragraph (a), (b), (ba), (bb), (c) or (d) of the definition of **_prescribed authority_**.
+
                     <a name="enact"></a>**_enactment_** means, subject to section 3B:
 
                      (a)  an Act;
 
-                     (b)  an Ordinance of the Australian Capital Territory;
+                     (b)  an Ordinance of the Australian   Capital Territory;
 
-                     (c)  an Ordinance of the Territory of Christmas Island or of the Territory of Cocos (Keeling) Islands;
+                     (c)  an Ordinance of the Territory of Christmas   Island or of the Territory of Cocos (Keeling) Islands;
 
                      (d)  an instrument made under an Act or under an Ordinance referred to in paragraph (b) or (c); or
 
                      (e)  a law (not being an Act, an Ordinance referred to in paragraph (c) or an instrument referred to in paragraph (d)) in force in the Territory of Christmas Island or the Territory of Cocos (Keeling) Islands;
 
-but does not include the _Norfolk Island__Act 1979_, the _Northern Territory__(Self‑Government) Act 1978_ or an enactment of Norfolk Island or of the Northern Territory.
+but does not include the _Norfolk Island__Act 1979_, the _Northern Territory__(Self-Government) Act 1978_ or an enactment of Norfolk Island or of the Northern Territory.
 
-                    <a name="enact-norfolk-island"></a>**_enactment of Norfolk Island_** means:
+                    <a name="norfolk-island"></a><a name="enact"></a>**_enactment of_****_Norfolk  Island_** means:
 
                      (a)  a law or Ordinance referred to in paragraph (a), (b) or (c) of the definition of **_enactment_**in subsection 4(1) of the _Norfolk Island__Act 1979_; or
 
-                     (b)  an instrument (including rules, regulations or by‑laws) made under such a law or Ordinance.
+                     (b)  an instrument (including rules, regulations or by-laws) made under such a law or Ordinance.
 
-                    <a name="enact-northern-territori"></a>**_enactment of the Northern Territory_** means:
+                    <a name="northern-territori"></a><a name="enact"></a>**_enactment of the_****_Northern Territory_** means:
 
-                     (a)  a law or Ordinance referred to in paragraph (a) or (b) of the definition of **_enactment_** in subsection 4(1) of the _Northern Territory__(Self‑Government) Act 1978_; or
+                     (a)  a law or Ordinance referred to in paragraph (a) or (b) of the definition of **_enactment_** in subsection 4(1) of the _Northern   Territory__(Self-Government) Act 1978_; or
 
-                     (b)  an instrument (including rules, regulations or by‑laws) made under such a law or Ordinance.
+                     (b)  an instrument (including rules, regulations or by-laws) made under such a law or Ordinance.
+
+                    <a name="esra"></a>**_ESRA_** means the Employment Services Regulatory Authority established under the _Employment Services Act 1994_.
 
                     <a name="law-enforc-agenc"></a>**_law enforcement agency_** has the same meaning as in the _Australian Crime Commission Act 2002_.
 
@@ -368,7 +342,7 @@ but does not include the _Norfolk Island__Act 1979_, the _Northern Territory__(S
 
                              (ii)  any other person (not being a Minister) authorized to exercise powers or perform functions of the Department on behalf of the Department; or
 
-                     (b)  in relation to a prescribed authority:
+                     (b)  in relation to a prescribed authority (other than an eligible case manager):
 
                               (i)  the person who constitutes, or is acting as the person who constitutes, the authority;
 
@@ -376,7 +350,19 @@ but does not include the _Norfolk Island__Act 1979_, the _Northern Territory__(S
 
                             (iii)  a person who is employed in the service of, or is a member of the staff of, the authority, whether or not he or she is employed by the authority; or
 
-                            (iv)  a person authorized by the authority to exercise any powers or perform any functions of the authority on behalf of the authority.
+                            (iv)  a person authorized by the authority to exercise any powers or perform any functions of the authority on behalf of the authority; or
+
+                     (c)  in relation to a prescribed authority that is an eligible case manager:
+
+                              (i)  if the eligible case manager is an individual—the individual; or
+
+                             (ii)  if the eligible case manager is a body corporate—a director, the secretary or an employee of the body corporate; or
+
+                            (iii)  if the eligible case manager is a partnership—a partner in, or an employee of, the partnership; or
+
+                            (iv)  if the eligible case manager is an unincorporated association—a member of the executive committee, or an employee, of the unincorporated association; or
+
+                             (v)  in any other case—an officer or employee of the eligible case manager.
 
 Note:          For the meaning of **_officer_** for the purposes of Part IIB, see section 19G.
 
@@ -386,7 +372,17 @@ Note:          For the meaning of **_officer_** for the purpos
 
                     <a name="ordin"></a>**_Ordinance_**, in relation to the Australian Capital Territory, includes a law of a State that applies, or the provisions of a law of a State that apply, in the Territory by virtue of an enactment (other than a law that is, or provisions that are, an ACT enactment).
 
-                    <a name="parliamentari-depart"></a>**_Parliamentary Department_** means a Department of the Parliament established under the _Parliamentary Service Act 1999_.
+                    <a name="parliamentari-depart"></a>**_Parliamentary Department_** means:
+
+                     (a)  the Department of the Senate; or
+
+                     (b)  the Department of the House of Representatives; or
+
+                     (c)  the Department of the Parliamentary Library; or
+
+                     (d)  the Department of the Parliamentary Reporting Staff; or
+
+                     (e)  the Joint House Department.
 
                     <a name="postal-similar-servic"></a>**_postal or similar service_** includes:
 
@@ -410,11 +406,11 @@ Note:          For the meaning of **_officer_** for the purpos
 
                              (v)  a Royal Commission; or
 
-                     (b)  a Commonwealth‑controlled company that is a prescribed authority by virtue of section 3A; or
+                     (b)  a Commonwealth-controlled company that is a prescribed authority by virtue of section 3A; or
 
-                   (ba)  a body corporate, or an unincorporated body, established by the Governor‑General or by a Minister and declared by the regulations to be a prescribed authority; or
+                    (ba)  a body corporate, or an unincorporated body, established by the Governor-General or by a Minister and declared by the regulations to be a prescribed authority; or
 
-                   (bb)  a chief executive officer of a court or tribunal; or
+                    (bb)  a chief executive officer of a court or tribunal; or
 
                      (c)  the person holding, or performing the duties of, an office established by an enactment, other than:
 
@@ -422,17 +418,25 @@ Note:          For the meaning of **_officer_** for the purpos
 
                              (ii)  a person who, under subsection (3) or the regulations, is not to be taken to be a prescribed authority for the purposes of this Act; or
 
-                     (d)  the person performing the duties of an appointment declared by the regulations to be an appointment the holder of which is a prescribed authority for the purposes of this Act, being an appointment made by the Governor‑General, or by a Minister, otherwise than under an enactment.
+                     (d)  the person performing the duties of an appointment declared by the regulations to be an appointment the holder of which is a prescribed authority for the purposes of this Act, being an appointment made by the Governor-General, or by a Minister, otherwise than under an enactment; or
+
+                     (e)  an eligible case manager.
 
                     <a name="princip-offic"></a>**_principal officer_** means:
 
                      (a)  in relation to a Department of the Australian Public Service—the person holding, or performing the duties of, the office of Secretary of the Department; or
 
-                     (c)  in relation to a prescribed authority:
+                     (c)  in relation to a prescribed authority (other than an eligible case manager):
 
                               (i)  if the regulations declare an office to be the principal office in respect of the authority—the person holding, or performing the duties of, that office; or
 
-                             (ii)  in any other case—the person who constitutes, or is acting as the person who constitutes, that authority or, if the authority is constituted by 2 or more persons, the person who is entitled to preside at any meeting of the authority at which he or she is present.
+                             (ii)  in any other case—the person who constitutes, or is acting as the person who constitutes, that authority or, if the authority is constituted by 2 or more persons, the person who is entitled to preside at any meeting of the authority at which he or she is present; or
+
+                     (d)  in relation to a prescribed authority that is an eligible case manager:
+
+                              (i)  if the eligible case manager is an individual—the individual; or
+
+                             (ii)  in any other case—the individual primarily responsible for the management of the eligible case manager.
 
 Note:          For the meaning of **_principal officer_** for the purposes of Part IIB, see section 19G.
 
@@ -448,13 +452,15 @@ Note:          In certain circumstances, a PPO that is no long
 
                      (d)  if a prescribed authority referred to in paragraph (c) of that definition is responsible for dealing with the matter—the Minister administering the enactment by which the office is established; or
 
+                    (da)  if a prescribed authority referred to in paragraph (e) of that definition is responsible for dealing with the matter—the Minister administering the _Employment Services Act 1994_; or
+
                      (e)  if any other prescribed authority is responsible for dealing with the matter—the Minister declared by the regulations to be the responsible Minister in respect of that authority;
 
 or another Minister acting for and on behalf of that Minister.
 
                     <a name="secretari"></a>**_Secretary_**, in relation to a Department, means the person who is the Secretary of the Department for the purposes of the _Public Service Act 1999_.
 
-             (2)  An unincorporated body, being a board, council, committee, sub‑committee or other body established by, or in accordance with the provisions of, an enactment for the purpose of assisting, or performing functions connected with, a prescribed authority shall not be taken to be a prescribed authority for the purpose of this Act, but action taken by the body, or by a person on its behalf, shall, for the purpose of this Act, be deemed to have been taken by that prescribed authority.
+             (2)  An unincorporated body, being a board, council, committee, sub-committee or other body established by, or in accordance with the provisions of, an enactment for the purpose of assisting, or performing functions connected with, a prescribed authority shall not be taken to be a prescribed authority for the purpose of this Act, but action taken by the body, or by a person on its behalf, shall, for the purpose of this Act, be deemed to have been taken by that prescribed authority.
 
              (3)  A person shall not be taken to be a prescribed authority by virtue of holding, or performing the duties of:
 
@@ -468,13 +474,13 @@ but any action taken by or on behalf of a person holding, or performing the duti
 
              (4)  Where:
 
-                     (a)  a person who is not an officer of a Department, or of a prescribed authority, for the purposes of this Act takes action in the exercise of a power or the performance of a function that the person is authorized to exercise or to perform, as the case may be, by reason of his or her holding an appointment made by, or by reason of authority given by, the Governor‑General, a Minister or the Secretary of a Department; and
+                     (a)  a person who is not an officer of a Department, or of a prescribed authority, for the purposes of this Act takes action in the exercise of a power or the performance of a function that the person is authorized to exercise or to perform, as the case may be, by reason of his or her holding an appointment made by, or by reason of authority given by, the Governor-General, a Minister or the Secretary of a Department; and
 
                      (b)  the person does not exercise the power or perform the function by reason of his or her holding, or performing the duties of, an office established by, or in accordance with the provisions of, an enactment or by reason of his or her being a Judge of a court of, or a magistrate of, a State or Territory;
 
 the action shall be deemed to be taken, for the purposes of this Act, by the Department responsible for dealing with the matter in connection with which the action is taken.
 
-          (4A)  Notwithstanding subsection (4), where a person is authorized to exercise a power or perform a function by reason of his or her holding an appointment made by, or by reason of authority given by, the Governor‑General, a Minister or the Secretary of a Department otherwise than under an enactment, the regulations may provide that action taken by the person in the exercise of that power or the performance of that function shall not be deemed to be taken, for the purposes of this Act, by the Department responsible for dealing with the matter in connection with which the action is taken.
+          (4A)  Notwithstanding subsection (4), where a person is authorized to exercise a power or perform a function by reason of his or her holding an appointment made by, or by reason of authority given by, the Governor-General, a Minister or the Secretary of a Department otherwise than under an enactment, the regulations may provide that action taken by the person in the exercise of that power or the performance of that function shall not be deemed to be taken, for the purposes of this Act, by the Department responsible for dealing with the matter in connection with which the action is taken.
 
           (4B)  For the purposes of this Act, if:
 
@@ -556,7 +562,7 @@ the action is taken to be action taken by the Department or prescribed authority
 
                               (i)  the Australian Capital   Territory; or
 
-                             (ii)  a Territory authority as defined by section 3 of the _Australian Capital Territory__(Self‑Government) Act 1988_;
+                             (ii)  a Territory authority as defined by section 3 of the _Australian Capital Territory__(Self-Government) Act 1988_;
 
                             as the case requires.
 
@@ -634,29 +640,29 @@ a reference to which this subsection applies has effect in accordance with subse
 
                       (f)  in the case of any other Parliamentary Department, the reference is to be read as a reference to the President of the Senate and the Speaker.
 
-##### <a id="3A"></a>3A  Prescribed authorities: Commonwealth‑controlled companies
+##### <a id="3A"></a>3A  Prescribed authorities: Commonwealth-controlled companies
 
-             (1)  A Commonwealth‑controlled company is a prescribed authority unless:
+             (1)  A Commonwealth-controlled company is a prescribed authority unless:
 
                      (a)  it is excluded by subsection (2); or
 
                      (b)  under the regulations it is to be taken not to be a prescribed authority.
 
-             (2)  Subject to subsection (3), a Commonwealth‑controlled company is excluded for the purposes of paragraph (1)(a) if:
+             (2)  Subject to subsection (3), a Commonwealth-controlled company is excluded for the purposes of paragraph (1)(a) if:
 
-                     (a)  the company was a Commonwealth‑controlled company immediately before the commencement of Part 6 of the _Prime Minister and Cabinet (Miscellaneous Provisions) Act 1994_; and
+                     (a)  the company was a Commonwealth-controlled company immediately before the commencement of Part 6 of the _Prime Minister and Cabinet (Miscellaneous Provisions) Act 1994_; and
 
                      (b)  immediately before that commencement the company was not a prescribed authority for the purposes of this Act as then in force.
 
-             (3)  A Commonwealth‑controlled company that, but for this subsection, would be excluded by subsection (2) is not so excluded if the regulations declare that the company is to be taken to be a prescribed authority.
+             (3)  A Commonwealth-controlled company that, but for this subsection, would be excluded by subsection (2) is not so excluded if the regulations declare that the company is to be taken to be a prescribed authority.
 
 ##### <a id="3B"></a>3B  Certain legislation relating to Australian Capital Territory not to be enactment
 
              (1)  ACT enactments are not enactments.
 
-             (2)  The _Australian Capital Territory__(Self‑Government) Act 1988_ and the _Canberra__Water Supply (Googong Dam) Act 1974_ are not enactments.
+             (2)  The _Australian Capital Territory__(Self-Government) Act 1988_ and the _Canberra__Water Supply (Googong Dam) Act 1974_ are not enactments.
 
-             (3)  Part IV, sections 29 and 30, subsection 63(2), section 66 and Division 5 of Part X of the _Australian Capital Territory__Planning and Land Management Act 1988_ are not enactments.
+             (3)  Part IV, sections 29 and 30, subsection 63(2), section 66 and Division 5 of Part X of the _Australian   Capital Territory__Planning and Land Management Act 1988_ are not enactments.
 
              (4)  Where the whole of an Act or Ordinance is not an enactment, an instrument made under it is not an enactment.
 
@@ -732,7 +738,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  action taken by a Justice or Judge of a court created by the Parliament; or
 
-                   (ba)  action by the chief executive officer of a court or by a person who, for the purposes of this Act, is to be taken to be a member of the staff of the chief executive officer of a court:
+                    (ba)  action by the chief executive officer of a court or by a person who, for the purposes of this Act, is to be taken to be a member of the staff of the chief executive officer of a court:
 
                               (i)  when exercising a power of the court; or
 
@@ -746,7 +752,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (d)  action taken by any body or person with respect to persons employed in the Australian Public Service or the service of a prescribed authority, being action taken in relation to that employment, including action taken with respect to the promotion, termination of appointment or discipline of a person so employed or the payment of remuneration to such a person; or
 
-                     (g)  action taken by a Department or by a prescribed authority with respect to the appointment of a person to an office or position established by or under an enactment, not being an office or position in the Australian Public Service or an office in the service of a prescribed authority.
+                     (g)  action taken by a Department or by a prescribed authority with respect to the appointment of a person to an office or position established by or under an enactment, not being an office or position in the Australian Public Service or an office in the service of a prescribed authority; or
+
+                     (h)  action taken by an eligible case manager that is not connected with:
+
+                              (i)  the provision of case management services (within the meaning of the _Employment Services Act 1994_) to persons referred to the eligible case manager under Part 4.3 of that Act; or
+
+                             (ii)  the performance of functions conferred on the eligible case manager under that Act.
 
              (3)  The reference in paragraph (2)(a) to action taken by a Minister does not include a reference to action taken by a delegate of a Minister, and, for the purposes of this subsection, action shall be deemed to have been taken by such a delegate notwithstanding that the action is taken in pursuance of a power that is deemed by a provision of an enactment, when exercised by the delegate, to have been exercised by the Minister.
 
@@ -766,7 +778,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  a law of Western Australia in its application in the Territory of Christmas Island by virtue of the _Christmas Island Act 1958_; or
 
-                     (b)  a law of Western Australia in its application in the Territory of Cocos (Keeling) Islands by virtue of the _Cocos (Keeling) Islands Act 1955_;
+                     (b)  a law of Western Australia in its application in the Territory of Cocos (Keeling) Islands by virtue of the _Cocos (Keeling)__Islands__Act 1955_;
 
 by a person employed by Western Australia.
 
@@ -832,7 +844,23 @@ the Ombudsman may decide not to investigate the action, or not to investigate th
 
                      (e)  give to the ACMA any information or documents that relate to the complaint and are in the possession, or under the control, of the Ombudsman.
 
-          (4E)  A complaint transferred under subsection (4D) shall be taken to be a complaint made to the ACMA under Part 26 of the _Telecommunications Act 1997._
+           (4E)  A complaint transferred under subsection (4D) shall be taken to be a complaint made to the ACMA under Part 26 of the _Telecommunications Act 1997._
+
+          (4G)  If, before the Ombudsman begins, or after the Ombudsman has begun, to investigate action taken by a Department or by a prescribed authority, being action that is the subject matter of a complaint, the Ombudsman forms the opinion that:
+
+                     (a)  a complaint with respect to the action has been, or could have been, made by the complainant to ESRA under Part 4.7 of the _Employment Services Act 1994_; and
+
+                     (b)  the action could be more conveniently or effectively dealt with by ESRA;
+
+the Ombudsman may decide not to investigate the action, or not to investigate the action further, as the case may be, and, if the Ombudsman so decides, the Ombudsman must:
+
+                     (c)  transfer the complaint to ESRA; and
+
+                     (d)  forthwith give written notice to the complainant stating that the complaint has been so transferred; and
+
+                     (e)  give to ESRA any information or documents that relate to the complaint and are in the possession, or under the control, of the Ombudsman.
+
+          (4H)  A complaint transferred under subsection (4G) is taken to be a complaint made to ESRA under Part 4.7 of the _Employment Services Act 1994_.
 
              (5)  Where a complaint is made to the Ombudsman by a complainant at the request of another person or of a body of persons, this section applies as if references to the complainant were references to the person or the body of persons at whose request the complaint is made.
 
@@ -1022,7 +1050,7 @@ Transfer to Information Commissioner
 
              (4)  A complaint transferred under subsection (3) is taken to be a complaint made to the Information Commissioner under Part V of the _Privacy Act 1988_ or Part VIIB of the _Freedom of Information Act 1982_, as the case requires.
 
-##### <a id="7"></a>7  Complaints
+##### <a id="7"></a>7  Complaints
 
              (1)  Subject to subsection (2), a complaint under this Act may be made to the Ombudsman orally or in writing.
 
@@ -1038,7 +1066,7 @@ Transfer to Information Commissioner
 
                      (b)  to have delivered to him or her, without undue delay, any sealed envelope, addressed to him or her and sent by the Ombudsman, that comes into the possession or under the control of the person in whose custody he or she is detained or of any other person performing duties in connection with his or her detention.
 
-             (4)  Where a sealed envelope addressed to the Ombudsman is delivered by a person detained in custody to a person referred to in subsection (3) for sending to the Ombudsman, or a sealed envelope addressed to a person so detained and sent by the Ombudsman comes into the possession or under the control of a person referred to in that subsection, neither the person in whose custody the first‑mentioned person is detained nor any other person performing duties in connection with his or her detention is entitled to open the envelope or to inspect any document enclosed in the envelope.
+             (4)  Where a sealed envelope addressed to the Ombudsman is delivered by a person detained in custody to a person referred to in subsection (3) for sending to the Ombudsman, or a sealed envelope addressed to a person so detained and sent by the Ombudsman comes into the possession or under the control of a person referred to in that subsection, neither the person in whose custody the first-mentioned person is detained nor any other person performing duties in connection with his or her detention is entitled to open the envelope or to inspect any document enclosed in the envelope.
 
              (5)  For the purposes of subsections (3) and (4), the Ombudsman may make arrangements with the appropriate authority of a State or a Territory for the identification and delivery of sealed envelopes sent by the Ombudsman to persons detained in custody in that State or Territory.
 
@@ -1084,7 +1112,7 @@ the information or the production of the document or record is not admissible in
 
           (1D)  For the purposes of the _Privacy Act 1988_, the giving of the information to the Ombudsman or the production of the document or record to the Ombudsman is taken to be authorised by law.
 
-          (1E)  Subsection (1B) does not otherwise affect a claim of legal professional privilege that anyone may make in relation to the information, document or record.
+           (1E)  Subsection (1B) does not otherwise affect a claim of legal professional privilege that anyone may make in relation to the information, document or record.
 
 Arrangements with Departments and prescribed authorities
 
@@ -1144,7 +1172,7 @@ the information or the production of the document or record is not admissible in
 
           (2D)  For the purposes of the _Privacy Act 1988_, the giving of the information to the Ombudsman or the production of the document or record to the Ombudsman is taken to be authorised by law.
 
-          (2E)  Subsection (2B) does not otherwise affect a claim of legal professional privilege that anyone may make in relation to the information, document or record.
+           (2E)  Subsection (2B) does not otherwise affect a claim of legal professional privilege that anyone may make in relation to the information, document or record.
 
 Ombudsman may obtain information
 
@@ -1358,7 +1386,7 @@ to be dealt with jointly by the Ombudsman and the Australian Federal Police.
 
                     (aa)  an officer of a Department or prescribed authority; or
 
-                   (ab)  a Commonwealth service provider of a Department or prescribed authority under a contract; or
+                    (ab)  a Commonwealth service provider of a Department or prescribed authority under a contract; or
 
                     (ac)  an employee of Commonwealth service provider of a Department or prescribed authority under a contract;
 
@@ -1378,7 +1406,7 @@ is capable of furnishing information or producing documents or other records rel
 
              (2)  Where the Ombudsman has reason to believe that a person is able to give information relevant to an investigation under this Act, the Ombudsman may, by notice in writing served on the person, require the person to attend before a person specified in the notice, on such date and at such time and place as are specified in the notice, to answer questions relevant to the investigation.
 
-             (3)  Where the Attorney‑General furnishes to the Ombudsman a certificate certifying that the disclosure to the Ombudsman of information concerning a specified matter (including the furnishing of information in answer to a question) or the disclosure to the Ombudsman of the contents of any documents or records would be contrary to the public interest:
+             (3)  Where the Attorney-General furnishes to the Ombudsman a certificate certifying that the disclosure to the Ombudsman of information concerning a specified matter (including the furnishing of information in answer to a question) or the disclosure to the Ombudsman of the contents of any documents or records would be contrary to the public interest:
 
                      (a)  by reason that it would prejudice the security, defence or international relations of the Commonwealth; or
 
@@ -1408,7 +1436,7 @@ the Ombudsman is not entitled to require a person to furnish any information con
 
                     (aa)  might tend to incriminate the person or make the person liable to a penalty; or
 
-                   (ab)  would disclose one of the following:
+                    (ab)  would disclose one of the following:
 
                               (i)  a legal advice given to a Minister, a Department or a prescribed authority;
 
@@ -1452,7 +1480,7 @@ the Ombudsman, after having investigated the complaint, may, if he or she is of 
 
                      (b)  there is no enactment that prescribes a period within which the person is required to do or refuse to do the act or thing;
 
-                     (c)  an enactment provides that application may be made to a person other than a prescribed tribunal for the review of decisions made in the exercise of that power and an enactment also provides that application may be made to a prescribed tribunal for the review of decisions made by the last‑mentioned person upon an application first referred to in this paragraph; and
+                     (c)  an enactment provides that application may be made to a person other than a prescribed tribunal for the review of decisions made in the exercise of that power and an enactment also provides that application may be made to a prescribed tribunal for the review of decisions made by the last-mentioned person upon an application first referred to in this paragraph; and
 
                      (d)  a complaint has been made to the Ombudsman concerning a failure to do the act or thing in the exercise of that power;
 
@@ -1554,9 +1582,9 @@ the Ombudsman, after having investigated the complaint, may, if he or she is of 
 
 unless the Minister administering that Act, or another Minister acting for and on behalf of that Minister, has approved the person entering the place or area and he or she complies with any conditions imposed by the Minister giving the approval in relation to his or her entering that place or area and the manner in which his or her investigation is to be conducted at that place or area.
 
-             (3)  Where the Attorney‑General is satisfied that the carrying on of an investigation at a place might prejudice the security or defence of the Commonwealth, the Attorney‑General may, by notice in writing delivered to the Ombudsman, declare the place to be a place to which this subsection applies and, while the declaration is in force, subsection (1) does not authorize a person to enter, or carry on an investigation at, the place unless a Minister specified in the declaration, or another Minister acting for and on behalf of that Minister, has approved the person entering the place and he or she complies with any conditions imposed by the Minister giving the approval in relation to his or her entering the place and the manner in which his or her investigation is to be conducted at that place.
+             (3)  Where the Attorney-General is satisfied that the carrying on of an investigation at a place might prejudice the security or defence of the Commonwealth, the Attorney-General may, by notice in writing delivered to the Ombudsman, declare the place to be a place to which this subsection applies and, while the declaration is in force, subsection (1) does not authorize a person to enter, or carry on an investigation at, the place unless a Minister specified in the declaration, or another Minister acting for and on behalf of that Minister, has approved the person entering the place and he or she complies with any conditions imposed by the Minister giving the approval in relation to his or her entering the place and the manner in which his or her investigation is to be conducted at that place.
 
-             (4)  For the purposes of an investigation under this Act, an authorized person is entitled to inspect any documents relevant to the investigation kept at premises entered by him or her under this section (including premises occupied by a Commonwealth service provider), other than documents in respect of which the Attorney‑General has furnished a certificate under subsection 9(3), at a reasonable time of the day arranged with the principal officer of the Department or prescribed authority concerned.
+             (4)  For the purposes of an investigation under this Act, an authorized person is entitled to inspect any documents relevant to the investigation kept at premises entered by him or her under this section (including premises occupied by a Commonwealth service provider), other than documents in respect of which the Attorney-General has furnished a certificate under subsection 9(3), at a reasonable time of the day arranged with the principal officer of the Department or prescribed authority concerned.
 
              (5)  Subsection (4) shall not be taken to restrict the operation of section 9.
 
@@ -1758,7 +1786,7 @@ then:
 
              (1)  Where a member of the Defence Force makes a complaint to the Defence Force Ombudsman with respect to action in respect of which the member was entitled to seek and has sought, in the manner provided by or under the _Defence Act 1903_, redress from a member of the Defence Force authorized by or under that Act to grant redress:
 
-                     (a)  the Defence Force Ombudsman shall not commence to investigate the action before the twenty‑ninth day after the complainant sought the redress unless:
+                     (a)  the Defence Force Ombudsman shall not commence to investigate the action before the twenty-ninth day after the complainant sought the redress unless:
 
                               (i)  redress is granted before that day and the conditions set out in subparagraphs (b)(i) and (ii) are satisfied in respect of the redress; or
 
@@ -1978,7 +2006,7 @@ Notice of transferral to be given to complainant
 
              (9)  If the Commonwealth Ombudsman or the Postal Industry Ombudsman transfers a complaint, or part of a complaint, he or she must give notice of the transfer, in writing, to the complainant.
 
-##### <a id="19P"></a>19P  Discretion to refer complaint to another statutory office‑holder
+##### <a id="19P"></a>19P  Discretion to refer complaint to another statutory office-holder
 
              (1)  This section applies if:
 
@@ -1986,21 +2014,21 @@ Notice of transferral to be given to complainant
 
                      (b)  before or after starting to investigate that action under paragraph 19M(2)(a), the Postal Industry Ombudsman becomes of the opinion that:
 
-                              (i)  a statutory office‑holder (other than the Postal Industry Ombudsman or the Commonwealth Ombudsman) has the function of investigating, reviewing or enquiring into action of that kind; and
+                              (i)  a statutory office-holder (other than the Postal Industry Ombudsman or the Commonwealth Ombudsman) has the function of investigating, reviewing or enquiring into action of that kind; and
 
-                             (ii)  the action could be more conveniently or effectively dealt with by that statutory office‑holder.
+                             (ii)  the action could be more conveniently or effectively dealt with by that statutory office-holder.
 
-             (2)  The Postal Industry Ombudsman may decide not to investigate the action, or not to investigate the action further, as the case may be, and, if the Postal Industry Ombudsman so decides, he or she must transfer the complaint to that other statutory office‑holder.
+             (2)  The Postal Industry Ombudsman may decide not to investigate the action, or not to investigate the action further, as the case may be, and, if the Postal Industry Ombudsman so decides, he or she must transfer the complaint to that other statutory office-holder.
 
              (3)  If the Postal Industry Ombudsman transfers a complaint under subsection (2), the Postal Industry Ombudsman must, as soon as is reasonably practicable:
 
                      (a)  give notice of the transfer, in writing, to the complainant; and
 
-                     (b)  give to the other statutory office‑holder any information or documents that relate to the complaint and are in the possession or under the control of the Postal Industry Ombudsman.
+                     (b)  give to the other statutory office-holder any information or documents that relate to the complaint and are in the possession or under the control of the Postal Industry Ombudsman.
 
              (4)  In this section:
 
-                    <a name="statutori-offic-holder"></a>**_statutory office‑holder_** means a person who holds any office or appointment under a law of the Commonwealth, or under a law of a State or Territory.
+                    <a name="statutori-offic-holder"></a>**_statutory office-holder_** means a person who holds any office or appointment under a law of the Commonwealth, or under a law of a State or Territory.
 
 ##### <a id="19Q"></a>19Q  Discretion not to investigate certain complaints
 
@@ -2064,7 +2092,7 @@ Notice of transferral to be given to complainant
 
                              (ii)  subsection 6(1);
 
-                            (iii)  subsections 6(4D) to (4E);
+                            (iii)  subsections 6(4D) to (4H);
 
                             (iv)  subsections 6(6) to (15);
 
@@ -2074,9 +2102,9 @@ Notice of transferral to be given to complainant
 
                            (vii)  subsections 8(8) to (11);
 
-                          (viii)  sections 8A and 8B;
+                           (viii)  sections 8A and 8B;
 
-                        (viiia)  paragraphs 9(1AA)(ab) and (ac);
+                         (viiia)  paragraphs 9(1AA)(ab) and (ac);
 
                             (ix)  paragraph 9(4)(ab);
 
@@ -2086,7 +2114,7 @@ Notice of transferral to be given to complainant
 
                            (xii)  sections 14 to 18;
 
-                          (xiii)  subsection 19(8); and
+                           (xiii)  subsection 19(8); and
 
                      (c)  subsection 31(1); and
 
@@ -2493,582 +2521,23 @@ Note:          In certain circumstances, a PPO that is no long
 
                      (b)  is recoverable by the ACMA, on behalf of the Commonwealth, in a court of competent jurisdiction.
 
-## Part IIC—Establishment, functions, powers and duties of the Overseas Students Ombudsman
-
-### Division 1—Preliminary
-
-##### <a id="19ZF"></a>19ZF  Definitions
-
-                   In this Part:
-
-                    <a name="offic"></a>**_officer_**, of a private registered provider, means a person who:
-
-                     (a)  is employed in the service of a private registered provider; or
-
-                     (b)  is a member of the staff of a private registered provider, whether or not the person is employed by a private registered provider; or
-
-                     (c)  is authorised by a private registered provider to exercise any powers, or perform any functions, of the private registered provider (including a contractor, for example).
-
-                    <a name="oversea-student-act"></a>**_Overseas Students Act_** means the _Education Services for Overseas Students Act 2000_.
-
-                    <a name="princip-execut-offic"></a>**_principal executive officer_** has the same meaning as in the Overseas Students Act.
-
-                    <a name="privat-regist-provid"></a>**_private registered provider_** means a registered provider, within the meaning of the Overseas Students Act, that is not owned or administered by:
-
-                     (a)  the Commonwealth; or
-
-                     (b)  a State or Territory.
-
-##### <a id="19ZG"></a>19ZG  Continued application of Part to former registered providers
-
-             (1)  This section applies if:
-
-                     (a)  a private registered provider took action at a particular time; and
-
-                     (b)  the Overseas Students Ombudsman receives a complaint in relation to that action within 12 months after that time; and
-
-                     (c)  after that time, the private registered provider ceases to be a private registered provider for the purposes of this Part.
-
-             (2)  This Part applies, in relation to that complaint, as if the private registered provider continued to be a private registered provider.
-
-##### <a id="19ZH"></a>19ZH  Part not to affect operation of other provisions of this Act
-
-                   This Part does not, by implication, affect the operation of other provisions in this Act.
-
-### Division 2—Establishment and functions of the Overseas Students Ombudsman
-
-##### <a id="19ZI"></a>19ZI  Establishment of office of Overseas Students Ombudsman
-
-             (1)  For the purposes of this Act, there is to be an Overseas Students Ombudsman.
-
-             (2)  The office of Overseas Students Ombudsman is to be held by the person who holds the office of Commonwealth Ombudsman.
-
-             (3)  The reference in subsection (2) to the person who holds the office of Commonwealth Ombudsman includes a reference to a person for the time being acting in that office because of an appointment under section 29.
-
-##### <a id="19ZJ"></a>19ZJ  Functions of Overseas Students Ombudsman
-
-             (1)  The functions of the Overseas Students Ombudsman are:
-
-                     (a)  to investigate complaints made to him or her under this Act; and
-
-                     (b)  to give private registered providers advice and training about the best practice for the handling of complaints made by overseas students; and
-
-                     (c)  to perform such other functions as are conferred on him or her by:
-
-                              (i)  this Act or the regulations; or
-
-                             (ii)  another Act or regulations made under another Act.
-
-             (2)  Subject to this Act, the Overseas Students Ombudsman:
-
-                     (a)  is to investigate action that he or she is authorised by this Act to investigate and in respect of which a complaint has been made to him or her; and
-
-                     (b)  may, on his or her own initiative, investigate action that he or she is authorised by this Act to investigate.
-
-             (3)  The Overseas Students Ombudsman is authorised by this Act to investigate action taken by a private registered provider in connection with an overseas student, an intending overseas student, or an accepted student, within the meaning of the Overseas Students Act.
-
-##### <a id="19ZK"></a>19ZK  Transfer of complaints
-
-             (1)  This section applies if:
-
-                     (a)  a complaint has been made to the Overseas Students Ombudsman with respect to action taken by a private registered provider; and
-
-                     (b)  the Overseas Students Ombudsman, either before or after starting to investigate that action, forms the opinion that:
-
-                              (i)  a statutory complaint handler has the function of investigating, reviewing or enquiring into action of that kind; or
-
-                             (ii)  a statutory office‑holder has the function of investigating, reviewing or enquiring into action of that kind.
-
-             (2)  In the case of a statutory complaint handler, the Overseas Students Ombudsman:
-
-                     (a)  must not investigate or further investigate the action; and
-
-                     (b)  must transfer the complaint to the statutory complaint handler.
-
-             (3)  In the case of a statutory office‑holder, if the Overseas Students Ombudsman considers the action could be more conveniently or effectively dealt with by the statutory office‑holder, the Overseas Students Ombudsman:
-
-                     (a)  may decide not to investigate or further investigate the action; and
-
-                     (b)  if that decision is made, must transfer the complaint to the statutory office‑holder.
-
-             (4)  If the Overseas Students Ombudsman transfers a complaint under this section, the Overseas Students Ombudsman must, as soon as is reasonably practicable:
-
-                     (a)  give notice of the transfer to the complainant; and
-
-                     (b)  give any information or documents that relate to the complaint and are in the possession or under the control of the Overseas Students Ombudsman to the statutory complaint handler or statutory office‑holder.
-
-             (5)  In this section:
-
-                    <a name="statutori-complaint-handler"></a>**_statutory complaint handler_** means a person, prescribed under the regulations, who has a function of investigating action taken by a private registered provider in connection with an overseas student, an intending overseas student, or an accepted student, within the meaning of the Overseas Students Act.
-
-                    <a name="statutori-offic-holder"></a>**_statutory office‑holder_** means a person who holds any office or appointment under a law of the Commonwealth, or under a law of a State or Territory.
-
-##### <a id="19ZL"></a>19ZL  Discretion not to investigate certain complaints
-
-             (1)  This section applies if:
-
-                     (a)  a complaint has been made to the Overseas Students Ombudsman with respect to action taken by a private registered provider; and
-
-                     (b)  the Overseas Students Ombudsman is of the opinion that:
-
-                              (i)  the complaint is frivolous or vexatious or was not made in good faith; or
-
-                             (ii)  the complainant does not have a sufficient interest in the subject matter of the complaint; or
-
-                            (iii)  an investigation, or further investigation, of the action is not warranted having regard to all the circumstances; or
-
-                            (iv)  the complainant has not yet raised the complaint with the registered provider; or
-
-                             (v)  the action came to the complainant’s knowledge more than 12 months before the complaint was made; or
-
-                            (vi)  the complainant has, or had, a right to cause the action to which the complaint relates to be reviewed by a court or by a tribunal constituted by or under an enactment but has not exercised that right.
-
-             (2)  The Overseas Students Ombudsman may, in his or her discretion:
-
-                     (a)  decide not to investigate the action; or
-
-                     (b)  if he or she has started to investigate the action—decide not to investigate the action further.
-
-### Division 3—Powers and duties of the Overseas Students Ombudsman
-
-##### <a id="19ZM"></a>19ZM  Application of other provisions of this Act to the Overseas Students Ombudsman
-
-             (1)  Subject to this section, the provisions covered by subsection (3) apply in relation to the Overseas Students Ombudsman.
-
-             (2)  Unless the contrary intention appears, the provisions covered by subsection (3) apply as if:
-
-                     (a)  a reference in any of those provisions to the Ombudsman were a reference to the Overseas Students Ombudsman; and
-
-                     (b)  a reference in any of those provisions to any of the following were a reference to a private registered provider:
-
-                              (i)  a Department;
-
-                             (ii)  a prescribed authority;
-
-                            (iii)  a Department or a prescribed authority; and
-
-                     (c)  a reference in any of those provisions to an officer were a reference to an officer within the meaning of this Part; and
-
-                     (d)  a reference in any of those provisions to a principal officer were a reference to a principal executive officer within the meaning of this Part.
-
-             (3)  The following provisions are covered by this subsection:
-
-                     (a)  subsections 3(1) and (8);
-
-                     (b)  sections 3C and 3D;
-
-                     (c)  sections 6A to 7A;
-
-                     (d)  section 8, other than:
-
-                              (i)  paragraph (7A)(b); and
-
-                             (ii)  subsections (8) to (12);
-
-                     (e)  section 8A, other than subsections (1B) to (1D);
-
-                      (f)  section 9, other than:
-
-                              (i)  paragraphs (1AA)(ab) and (ac); and
-
-                             (ii)  paragraph (4)(ab);
-
-                     (g)  section 11A, other than subsections (1) and (5);
-
-                     (h)  sections 12 to 14;
-
-                      (i)  section 18;
-
-                      (j)  section 19, other than subsection (8);
-
-                     (k)  subsection 31(1);
-
-                      (l)  section 33;
-
-                    (m)  section 34, other than subsections 34(1) to (2A);
-
-                     (n)  section 35, other than paragraph (1)(e) and subparagraph (3)(b)(ia);
-
-                     (o)  section 35AA;
-
-                     (p)  section 35A, other than subsection (3A);
-
-                     (q)  sections 35B to 38.
-
-             (4)  Each provision of this Act specified in column 1 of the table applies in relation to the Overseas Students Ombudsman in accordance with the table:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="30%">
-  <col width="30%">
-  <col width="30%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="4">
-      <div>
-        <b>Application of Act to Overseas Students Ombudsman</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>
-        <b>Column 1</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 2</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Column 3</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>This provision of this Act ...</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>applies in relation to the Overseas Students Ombudsman as if a reference
-          in that provision to ...</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>were a reference to ...</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>subsection 7A(1)</div>
-  </td>
-  <td>
-    <div>paragraph 5(1)(b)</div>
-  </td>
-  <td>
-    <div>paragraph 19ZJ(2)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>subsection 11A(4)</div>
-  </td>
-  <td>
-    <div>the Minister</div>
-  </td>
-  <td>
-    <div>the Minister and the Minister administering the Overseas Students Act</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>subsections 12(4) and (5)</div>
-  </td>
-  <td>
-    <div>section 15</div>
-  </td>
-  <td>
-    <div>section 19ZQ</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>section 18</div>
-  </td>
-  <td>
-    <div>section 17</div>
-  </td>
-  <td>
-    <div>section 19ZR</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>subsection 19(2)</div>
-  </td>
-  <td>
-    <div>section 15, 16 or 17</div>
-  </td>
-  <td>
-    <div>section 19ZQ or 19ZR</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>subsection 35(6A)</div>
-  </td>
-  <td>
-    <div>paragraph 6(4A)(e), (4D)(e) or (18)(d)</div>
-  </td>
-  <td>
-    <div>paragraph 19ZK(4)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>paragraph 35AA(1)(a)</div>
-  </td>
-  <td>
-    <div>paragraph 5(1)(b)</div>
-  </td>
-  <td>
-    <div>paragraph 19ZJ(2)(b)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>subsection 35B(2) (paragraph (a) of the definition of
-      <b>
-        <i>listed disclosure method</i>
-      </b>)</div>
-  </td>
-  <td>
-    <div>Division 2 of Part II</div>
-  </td>
-  <td>
-    <div>section 19ZQ, 19ZR or 19ZS</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>subsection 35B(2) (paragraph (b) of the definition of
-      <b>
-        <i>listed disclosure method</i>
-      </b>)</div>
-  </td>
-  <td>
-    <div>section 6A</div>
-  </td>
-  <td>
-    <div>section 19ZK</div>
-  </td>
-</tr></table>
-
-##### <a id="19ZN"></a>19ZN  Powers of the Overseas Students Ombudsman under section 9
-
-                   The Overseas Students Ombudsman may exercise his or her powers under section 9 for any of the following purposes:
-
-                     (a)  to determine whether he or she may investigate action under this Part;
-
-                     (b)  to decide whether or not to investigate action, or to investigate action further, under this Part;
-
-                     (c)  to start or further the conduct of an investigation under this Part;
-
-                     (d)  to prepare a report in relation to an investigation under this Part;
-
-                     (e)  if he or she has exercised a power for any of the purposes mentioned in paragraphs (a) to (d)—to ascertain what action has been taken by a private registered provider following the exercise of that power.
-
-##### <a id="19ZO"></a>19ZO  Duty to accord procedural fairness
-
-                   The Overseas Students Ombudsman must comply with the rules of procedural fairness when exercising a power under this Act.
-
-Example 1: If the Overseas Students Ombudsman sets out a critical opinion of a person in a report under section 19ZQ, he or she must give that person an opportunity to appear and make submissions to him or her (see subsection 8(5)).
-
-Example 2: The Overseas Students Ombudsman must accord procedural fairness to a person if he or she sets out a critical opinion of the person:
-
-(a)    in disclosing information, or making a statement, under subsection 35A(1); or
-
-(b)    in referring to an investigation in a report under section 19ZS.
-
-##### <a id="19ZP"></a>19ZP  Disclosure of identifying information
-
-                   The Overseas Students Ombudsman must not, in referring to an investigation in a report under section 19ZQ or 19ZS, disclose the name of a complainant or any other matter that would enable a complainant to be identified, unless it is fair and reasonable in all the circumstances to do so.
-
-##### <a id="19ZQ"></a>19ZQ  Overseas Students Ombudsman may report to private registered provider
-
-             (1)  This section applies if:
-
-                     (a)  an investigation under this Act into action taken by a private registered provider has been completed; and
-
-                     (b)  the Overseas Students Ombudsman is of the opinion that the action taken:
-
-                              (i)  appears to have been contrary to law; or
-
-                             (ii)  was unreasonable, unjust, oppressive or improperly discriminatory; or
-
-                            (iii)  was otherwise, in all the circumstances, wrong; and
-
-                     (c)  the Overseas Students Ombudsman is of the opinion that:
-
-                              (i)  some particular action could be, and should be, taken to rectify, mitigate or alter the effects of the action taken; or
-
-                             (ii)  a policy or practice on which the action taken was based should be altered; or
-
-                            (iii)  reasons should have been, but were not, given for the action taken; or
-
-                            (iv)  any other thing should be done in relation to the action taken.
-
-             (2)  The Overseas Students Ombudsman must report accordingly to the private registered provider.
-
-             (3)  The Overseas Students Ombudsman:
-
-                     (a)  must include in the report his or her reasons for the opinions specified in the report; and
-
-                     (b)  may also include in the report any recommendations he or she thinks fit to make.
-
-             (4)  The Overseas Students Ombudsman may ask the private registered provider to give him or her, within a specified time, particulars of any action that the private registered provider proposes to take with respect to the matters and recommendations included in the report.
-
-             (5)  The private registered provider may give the Overseas Students Ombudsman comments about the report.
-
-             (6)  The Overseas Students Ombudsman must give a copy of:
-
-                     (a)  the report; and
-
-                     (b)  any comments given under subsection (5);
-
-to the Minister administering the Overseas Students Act.
-
-##### <a id="19ZR"></a>19ZR  Minister to table certain reports in Parliament
-
-             (1)  This section applies if:
-
-                     (a)  the Overseas Students Ombudsman has given a report under section 19ZQ to a private registered provider; and
-
-                     (b)  action that is, in the opinion of the Overseas Students Ombudsman, adequate and appropriate in the circumstances is not taken with respect to the matters and recommendations included in the report within a reasonable time after the report was given to the private registered provider.
-
-             (2)  The Overseas Students Ombudsman may request the Minister administering the Overseas Students Act to cause copies of the report to be laid before each House of the Parliament.
-
-             (3)  If the Overseas Students Ombudsman makes a request under subsection (2), the Minister administering the Overseas Students Act must cause copies of:
-
-                     (a)  the report; and
-
-                     (b)  any comments given under subsection 19ZQ(5) before the request was made;
-
-to be laid before each House of the Parliament within 15 sitting days of that House after that Minister receives the request.
-
-##### <a id="19ZS"></a>19ZS  Annual reports
-
-             (1)  The Overseas Students Ombudsman has the same powers and duties under this section as the Ombudsman has under subsections 19(1) to (7B) with respect to the submission of reports relating to:
-
-                     (a)  his or her operations; and
-
-                     (b)  the exercise of his or her powers and the performance of his or her functions.
-
-             (2)  For the purposes of subsection (1), the powers and duties of the Ombudsman do not include his or her powers and duties with respect to reports relating to the Australian Capital Territory.
-
-             (3)  A report relating to the operations of the Overseas Students Ombudsman during a year may be included in a report under section 19 relating to the operations of the Ombudsman during that year.
-
-             (4)  A report relating to the operations of the Overseas Students Ombudsman during a year must:
-
-                     (a)  identify the number of complaints received by the Overseas Students Ombudsman under this Part during that year; and
-
-                     (b)  if the Overseas Students Ombudsman has investigated action under paragraph 19ZJ(2)(a)—identify:
-
-                              (i)  the number of the investigations started during that year; and
-
-                             (ii)  the number of the investigations completed during that year; and
-
-                     (c)  if the Overseas Students Ombudsman has investigated action under paragraph 19ZJ(2)(b)—identify:
-
-                              (i)  the number of the investigations started during that year; and
-
-                             (ii)  the number of the investigations completed during that year; and
-
-                     (d)  identify:
-
-                              (i)  the number of times when the Overseas Students Ombudsman has made a requirement of a person under section 9 during that year; and
-
-                             (ii)  the circumstances in which each of those requirements was made.
-
-             (5)  A report relating to the operations of the Overseas Students Ombudsman during a year may include:
-
-                     (a)  details of the circumstances and number of occasions where the holder of the office of Overseas Students Ombudsman has decided, under section 19ZK, to transfer a complaint to a statutory complaint handler or statutory office‑holder; and
-
-                     (b)  details of recommendations made during that year in reports under section 19ZQ; and
-
-                     (c)  statistical information about actions taken during that year as a result of such recommendations; and
-
-                     (d)  details of action that the Overseas Students Ombudsman took during the year to promote best practice in dealing with complaints; and
-
-                     (e)  details of the Overseas Students Ombudsman’s observations regarding:
-
-                              (i)  any trends in complaints; or
-
-                             (ii)  any broader issues that arise from investigations.
-
-##### <a id="19ZT"></a>19ZT  Overseas Students Ombudsman may notify of misconduct
-
-             (1)  This section applies if the Overseas Students Ombudsman forms the opinion, either before or after completing an investigation under this Act, that there is evidence that a person who is an officer of a private registered provider has engaged in misconduct.
-
-             (2)  If the Overseas Students Ombudsman is of the opinion that the evidence is, in all the circumstances, of sufficient force to justify his or her doing so, the Overseas Students Ombudsman may bring the evidence to the notice of the principal executive officer of the private registered provider.
-
-##### <a id="19ZU"></a>19ZU  Limitation on liability where information or documents provided in good faith or when required to do so
-
-             (1)  A person is neither liable to a proceeding, nor subject to a liability, under an enactment merely because the person, in good faith and in relation to the Overseas Students Ombudsman’s functions or powers:
-
-                     (a)  gives information to the Overseas Students Ombudsman (other than in accordance with a requirement under section 9); or
-
-                     (b)  gives a document or other record to the Overseas Students Ombudsman (other than in accordance with a requirement under section 9).
-
-Note:          For information, documents or other records given in accordance with a requirement under section 9, see subsections 9(4) and (5).
-
-             (2)  To avoid doubt, subsection (1) does not prevent the person from being liable to a proceeding, or being subject to a liability, for conduct of the person that is revealed by the information, document or record given to the Overseas Students Ombudsman.
-
-             (3)  This section does not limit section 37.
-
 ## Part III—Conditions of service, and staff, of the Ombudsman
 
 ### Division 1—Ombudsman
 
-##### <a id="20"></a>20  Interpretation
+##### <a id="20"></a>20  Interpretation
 
                    In this Division, unless the contrary intention appears, **_Ombudsman_** means the Commonwealth Ombudsman or a Deputy Commonwealth Ombudsman.
 
 ##### <a id="21"></a>21  Appointment of Ombudsman
 
-             (1)  An Ombudsman shall be appointed by the Governor‑General.
+             (1)  An Ombudsman shall be appointed by the Governor-General.
 
              (2)  An Ombudsman holds office on such terms and conditions (if any) in respect to matters not provided for in this Act as are prescribed.
 
 ##### <a id="22"></a>22  Tenure of office
 
-             (1)  Subject to this Act, an Ombudsman holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re‑appointment.
+             (1)  Subject to this Act, an Ombudsman holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re-appointment.
 
 ##### <a id="23"></a>23  Deputy Ombudsman
 
@@ -3092,29 +2561,29 @@ Note:          For information, documents or other records giv
 
 ##### <a id="26"></a>26  Resignation
 
-                   An Ombudsman may resign his or her office by writing under his or her hand delivered to the Governor‑General.
+                   An Ombudsman may resign his or her office by writing under his or her hand delivered to the Governor-General.
 
 ##### <a id="27"></a>27  Retirement
 
-                   The Governor‑General may, with the consent of an Ombudsman, retire that Ombudsman on the ground of physical or mental incapacity.
+                   The Governor-General may, with the consent of an Ombudsman, retire that Ombudsman on the ground of physical or mental incapacity.
 
 ##### <a id="28"></a>28  Suspension and removal of Ombudsman
 
-             (1)  The Governor‑General may remove an Ombudsman from office on an address praying for his or her removal on the ground of misbehaviour or physical or mental incapacity being presented to the Governor‑General by each House of the Parliament in the same session of the Parliament.
+             (1)  The Governor-General may remove an Ombudsman from office on an address praying for his or her removal on the ground of misbehaviour or physical or mental incapacity being presented to the Governor-General by each House of the Parliament in the same session of the Parliament.
 
-             (2)  The Governor‑General may suspend an Ombudsman from office on the ground of misbehaviour or physical or mental incapacity.
+             (2)  The Governor-General may suspend an Ombudsman from office on the ground of misbehaviour or physical or mental incapacity.
 
-             (3)  Where the Governor‑General suspends an Ombudsman from office, the Minister shall cause a statement of the grounds of the suspension to be laid before each House of the Parliament within 7 sitting days of the House after the suspension.
+             (3)  Where the Governor-General suspends an Ombudsman from office, the Minister shall cause a statement of the grounds of the suspension to be laid before each House of the Parliament within 7 sitting days of the House after the suspension.
 
-             (4)  Where such a statement has been laid before a House of the Parliament, that House may, within 15 sitting days of that House after the day on which the statement has been laid before it, by resolution, declare that the Ombudsman should be removed from office and, if each House so passes such a resolution, the Governor‑General shall remove the Ombudsman from office.
+             (4)  Where such a statement has been laid before a House of the Parliament, that House may, within 15 sitting days of that House after the day on which the statement has been laid before it, by resolution, declare that the Ombudsman should be removed from office and, if each House so passes such a resolution, the Governor-General shall remove the Ombudsman from office.
 
              (5)  If, at the expiration of 15 sitting days of a House of the Parliament after the day on which the statement has been laid before that House, that House has not passed such a resolution, the suspension terminates.
 
              (6)  The suspension of an Ombudsman from office under this section does not affect any entitlement of the Ombudsman to be paid remuneration and allowances.
 
-             (7)  If an Ombudsman becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit, the Governor‑General shall remove him or her from office.
+             (7)  If an Ombudsman becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit, the Governor-General shall remove him or her from office.
 
-          (7A)  If an Ombudsman is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months, the Governor‑General may remove him or her from office.
+          (7A)  If an Ombudsman is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months, the Governor-General may remove him or her from office.
 
              (8)  An Ombudsman shall not be removed or suspended from office except as provided by this section.
 
@@ -3152,7 +2621,7 @@ is not capable of being retired from office on the ground of invalidity (within 
 
              (3)  In spite of anything contained in sections 27 and 28, an Ombudsman who:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60 years of age;
 
@@ -3218,7 +2687,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
                      (a)  all or any of his or her powers under this Act, other than his or her powers under sections 15, 16, 17 and 19 and this power of delegation; and
 
-                     (b)  any power exercisable by him or her by virtue of an instrument of delegation referred to in subsection (7) the sub‑delegation of which is permitted by the relevant law of the State or by the instrument of delegation; and
+                     (b)  any power exercisable by him or her by virtue of an instrument of delegation referred to in subsection (7) the sub-delegation of which is permitted by the relevant law of the State or by the instrument of delegation; and
 
                      (c)  all or any of his or her powers under Division 7 of Part V of the _Australian Federal Police Act 1979_.
 
@@ -3226,7 +2695,9 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
           (2A)  The Postal Industry Ombudsman may, either generally or as otherwise provided by the instrument of delegation, by instrument in writing, delegate to  a person  all or any of his or her powers under this Act, other than his or her powers under sections 19V and 19W and his or her powers referred to in section 19X.
 
-          (2B)  The Overseas Students Ombudsman may, either generally or as otherwise provided by the instrument of delegation, by instrument in writing, delegate to  a person  all or any of his or her powers under this Act, other than his or her powers under sections 19ZQ and 19ZR and his or her powers referred to in section 19ZS.
+             (3)  A power delegated under subsection (1), (2) or (2A), when exercised by the delegate shall, for the purposes of this Act, be deemed to have been exercised by the Ombudsman, Defence Force Ombudsman or Postal Industry Ombudsman, as the case may be.
+
+             (4)  A delegation under subsection (1), (2) or (2A) does not prevent the exercise of a power by the Ombudsman, Defence Force Ombudsman or Postal Industry Ombudsman, as the case may be.
 
              (5)  A delegate shall, upon request by a person affected by the exercise of any powers delegated to him or her, produce the instrument of delegation or a copy of the instrument, for inspection by the person.
 
@@ -3270,7 +2741,7 @@ the Ombudsman is authorized to exercise that power accordingly.
 
              (4)  Subject to subsection (5), subsection (2) does not prevent the Ombudsman or a Deputy Ombudsman from disclosing, in a report made under this Act, such matters as, in his or her opinion, ought to be disclosed in the course of setting out the grounds for the conclusions and recommendations contained in the report.
 
-             (5)  Where the Attorney‑General furnishes to the Ombudsman a certificate in writing certifying that:
+             (5)  Where the Attorney-General furnishes to the Ombudsman a certificate in writing certifying that:
 
                      (a)  the disclosure of information or documents concerning a specified matter or matters included in a specified class of matters; or
 
@@ -3338,11 +2809,57 @@ to the Integrity Commissioner.
 
                      (b)  disclose the name of a complainant or any other matter that would enable a complainant to be identified unless it is fair and reasonable in all the circumstances to do so.
 
+          (3A)  If:
+
+                     (a)  the Ombudsman has information about a particular case manager; and
+
+                     (b)  the information is relevant to the performance of the functions, or the exercise of the powers, of ESRA; and
+
+                     (c)  in the opinion of the Ombudsman, it is:
+
+                              (i)  in the interests of ESRA, the case manager or a complainant; or
+
+                             (ii)  otherwise in the public interest;
+
+                            to disclose the information to ESRA or to make a statement about the information to ESRA;
+
+this Act does not prevent the Ombudsman from disclosing the information, or making the statement, to ESRA.
+
+          (3B)  Subsection (3A) does not, by implication, limit the generality of subsection (1).
+
+          (3C)  The Ombudsman must not disclose information, or make a statement about information, under subsection (3A) if:
+
+                     (a)  the information was obtained in the course of a particular investigation; and
+
+                     (b)  the disclosure of the information, or the making of the statement, is likely to interfere with:
+
+                              (i)  the carrying out of that or any other investigation under this Act; or
+
+                             (ii)  the making of a report under this Act.
+
+          (3D)  The Ombudsman must not disclose information, or make a statement about information, under subsection (3A) if:
+
+                     (a)  the information was obtained as a result of the making of inquiries under section 7A; and
+
+                     (b)  the disclosure of the information, or the making of the statement, is likely to interfere with:
+
+                              (i)  the making of those or any other inquiries under section 7A; or
+
+                             (ii)  the carrying out of an investigation under this Act; or
+
+                            (iii)  the making of a report under this Act.
+
+           (3E)  The Ombudsman must not, in disclosing information, or making a statement, under subsection (3A):
+
+                     (a)  set out opinions that are, either expressly or impliedly, critical of a case manager or person unless the Ombudsman has given the case manager or the person an opportunity to make submissions, either orally or in writing, in relation to the information or statement, as the case requires; or
+
+                     (b)  disclose the name of a complainant or any matter that would enable a complainant to be identified unless it is fair and reasonable in all the circumstances to do so.
+
              (4)  This section has effect notwithstanding subsection 8(2) and section 35 (other than subsection (5) of that section).
 
 ##### <a id="35B"></a>35B  Disclosure of ACC information
 
-             (1)  If the Attorney‑General gives the Ombudsman a certificate certifying that the disclosure of certain ACC information by one or more listed disclosure methods specified in the certificate would be contrary to the public interest by reason that it would prejudice:
+             (1)  If the Attorney-General gives the Ombudsman a certificate certifying that the disclosure of certain ACC information by one or more listed disclosure methods specified in the certificate would be contrary to the public interest by reason that it would prejudice:
 
                      (a)  the safety of a person; or
 
@@ -3374,7 +2891,7 @@ the Ombudsman must not so disclose the ACC information.
 
 ##### <a id="35C"></a>35C  Disclosure of ACLEI information
 
-             (1)  If the Attorney‑General gives the Ombudsman a certificate certifying that the disclosure of certain ACLEI information by one or more listed disclosure methods specified in the certificate would be contrary to the public interest by reason that it would prejudice:
+             (1)  If the Attorney-General gives the Ombudsman a certificate certifying that the disclosure of certain ACLEI information by one or more listed disclosure methods specified in the certificate would be contrary to the public interest by reason that it would prejudice:
 
                      (a)  the safety of a person; or
 
@@ -3412,7 +2929,7 @@ the Ombudsman must not so disclose the ACLEI information.
 
                      (b)  to be sworn or make an affirmation;
 
-                   (ba)  to furnish information; or
+                    (ba)  to furnish information; or
 
                      (c)  to answer a question or produce a document or record;
 
@@ -3436,7 +2953,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="38"></a>38  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, prescribing matters in connexion with fees and expenses of witnesses appearing before the Ombudsman.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, prescribing matters in connexion with fees and expenses of witnesses appearing before the Ombudsman.
 
 # Notes to the _Ombudsman Act 1976_
 
@@ -3673,7 +3190,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td colspan="2">
     <div>109, 1988</div>
@@ -4310,41 +3827,6 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 70–86): Royal Assent 
-Schedule 6 (item 130): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Education Services for Overseas Students Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>11, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>8 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–4, 8, 9): 9 Apr 2011</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 8, 9) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4358,7 +3840,7 @@ _(a)_     The _Ombudsman Act 1976_ was amended by section 115 only of 
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(b)_     The _Ombudsman Act 1976_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
+_(b)_    The _Ombudsman Act 1976_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
 
                  (4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
 
@@ -4368,13 +3850,13 @@ _(c)_     The _Public Service Reform Act 1984_ was amended by section 
 
 _(d)_     The _Ombudsman Act 1976_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(e)_     The _Ombudsman Act 1976_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(f)_      The _Ombudsman Act 1976_ was amended by Schedule 5 (in part) only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows: 
+_(f)_      The _Ombudsman Act 1976_ was amended by Schedule 5 (in part) only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows: 
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
@@ -4863,7 +4345,7 @@ _(q)_     Subsection 2(1) (items 3–7) of the _Postal Industry Ombuds
   <td>
     <div>
       Immediately after the commencement of Schedule 5 to the
-        <i>A.C.T. Self‑Government (Consequential Provisions) Act 1988</i>.
+        <i>A.C.T. Self-Government (Consequential Provisions) Act 1988</i>.
     </div>
   </td>
   <td>
@@ -5058,7 +4540,7 @@ _(s)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div></div>
   </td>
   <td>
-    <div>am. No. 25, 2006; No. 11, 2011</div>
+    <div>am. No. 25, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5074,7 +4556,7 @@ _(s)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 63, 1978; Nos. 107 and 155, 1979; No. 61, 1983; No. 63, 1984 (as am. by No. 193, 1985); No. 168, 1986; No. 109, 1988; No. 199, 1991; No. 196, 1992; Nos. 33 and 177, 1994; No. 43, 1996; No. 1, 1997; Nos. 146 and 194, 1999; No. 135, 2001; Nos. 63 and 125, 2002; Nos. 45 and 141, 2005; Nos. 25 and 84, 2006; No. 5, 2011</div>
+    <div>am. No. 63, 1978; Nos. 107 and 155, 1979; No. 61, 1983; No. 63, 1984 (as am. by No. 193, 1985); No. 168, 1986; No. 109, 1988; No. 199, 1991; No. 196, 1992; Nos. 33 and 177, 1994; No. 43, 1996; No. 1, 1997; Nos. 146 and 194, 1999; No. 135, 2001; Nos. 63 and 125, 2002; Nos. 45 and 141, 2005; Nos. 25 and 84, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5152,7 +4634,7 @@ No. 49, 2001</div>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 63, 1978; No. 155, 1979; No. 61, 1983; No. 199, 1991; Nos. 33 and 177, 1994; No. 146, 1999; No. 135, 2001; No. 125, 2002; Nos. 84 and 86, 2006; No. 5, 2011</div>
+    <div>am. No. 63, 1978; No. 155, 1979; No. 61, 1983; No. 199, 1991; Nos. 33 and 177, 1994; No. 146, 1999; No. 135, 2001; No. 125, 2002; Nos. 84 and 86, 2006</div>
   </td>
 </tr>
 <tr>
@@ -5160,7 +4642,7 @@ No. 49, 2001</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 61, 1983; No. 168, 1986; No. 119, 1988; No. 63, 1989; Nos. 99 and 199, 1991; Nos. 33 and 177, 1994; No. 59, 1997; No. 146, 1999; No. 45, 2005; Nos. 25, 84 and 86, 2006; No. 51, 2010; No. 5, 2011</div>
+    <div>am. No. 61, 1983; No. 168, 1986; No. 119, 1988; No. 63, 1989; Nos. 99 and 199, 1991; Nos. 33 and 177, 1994; No. 59, 1997; No. 146, 1999; No. 45, 2005; Nos. 25, 84 and 86, 2006; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5720,7 +5202,7 @@ No. 49, 2001</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 141, 2005; No. 51, 2010; No. 5, 2011</div>
+    <div>am. No. 141, 2005; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -5785,70 +5267,6 @@ No. 49, 2001</div>
   </td>
   <td>
     <div>am. No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IIC</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIC</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19ZF–19ZH</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19ZI–19ZL</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19ZM–19ZU</div>
-  </td>
-  <td>
-    <div>ad. No. 11, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6040,7 +5458,7 @@ No. 49, 2001</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 199, 1991; Nos. 25 and 84, 2006; No. 11, 2011</div>
+    <div>am. No. 199, 1991; Nos. 25 and 84, 2006</div>
   </td>
 </tr>
 <tr>
@@ -6072,7 +5490,7 @@ No. 49, 2001</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 177, 1994; No. 135, 2001; No. 141, 2005; No. 86, 2006; No. 5, 2011</div>
+    <div>am. No. 177, 1994; No. 135, 2001; No. 141, 2005; No. 86, 2006</div>
   </td>
 </tr>
 <tr>
@@ -6169,7 +5587,7 @@ Add:
 
              (6)  The Commonwealth Ombudsman, in performing functions under an enactment of Norfolk Island, may, if he or she so chooses, be called the Norfolk Island Ombudsman. 
 
-As at 19 April 2011 the amendments are not incorporated in this compilation.
+As at 20 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -6179,9 +5597,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -6191,9 +5609,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -6201,9 +5619,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -6233,9 +5651,9 @@ _Australian Crime Commission Establishment Act 2002  (No. 125, 2002)_
 
 ## 226  Transitional regulations
 
-(1)       The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
+(1)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
 
-(2)       Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Despite subsection 48(2) of the _Acts Interpretation Act 1901_, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -6245,7 +5663,7 @@ _Postal Industry Ombudsman Act 2006 (No. 25, 2006)_
 
 ## 20  Application
 
-(1)       The amendments made by Part 1 of this Schedule apply in relation to action taken by Australia Post or a registered PPO after the commencement of this Part.
+(1)        The amendments made by Part 1 of this Schedule apply in relation to action taken by Australia Post or a registered PPO after the commencement of this Part.
 
 ## 21  Transitional—reports under section 19X
 
@@ -6267,30 +5685,12 @@ The amendments made by Part 2 apply in relation to a complaint made to the Omb
 
 ## 67  Savings—complaints on foot continue under old law
 
-(1)       This item applies if:
+(1)        This item applies if:
 
                      (a)  before the commencement of Part 2, a complaint is made to the Ombudsman under the _Ombudsman Act 1976_; and
 
                      (b)  at the commencement of that Part, the Ombudsman has not informed the complainant of the result of the complaint under section 12 of that Act.
 
-(2)       Despite the amendments made to the _Ombudsman Act 1976_ by Part 2, the Ombudsman must continue to deal with the complaint under the _Ombudsman Act 1976_ as if those amendments had not been made.
-
-* * *
-
-_Education Services for Overseas Students Legislation Amendment Act 2011 (No. 11, 2011)_
-
-## Schedule 2
-
-## 8  Application of Part 1
-
-The amendments made by Part 1 of this Schedule apply in relation to action taken by a private registered provider before or after this Schedule commences.
-
-## 9  Transitional provision—reports under section 19ZS
-
-The first report under section 19ZS of the _Ombudsman Act 1976_ relating to the operations of the Overseas Students Ombudsman during a year must relate to the operations of the Overseas Students Ombudsman during the period that:
-
-                     (a)  started on the commencement of this Part; and
-
-                     (b)  ended on the 30 June first occurring after that commencement.
+(2)        Despite the amendments made to the _Ombudsman Act 1976_ by Part 2, the Ombudsman must continue to deal with the complaint under the _Ombudsman Act 1976_ as if those amendments had not been made.
 
  
