@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00542/Html/6bcd0d02-0c25-4f44-8d01-a120f0f62901_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00249/Html/InspGenTax2003_image001.gif)
 
-# Inspector‑General of Taxation Act 2003
+# Inspector-General of Taxation Act 2003
 
 **Act No. 28 of 2003 as amended**
 
-This compilation was prepared on 18 July 2011
- taking into account amendments up to Act No. 58 of 2011
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 26 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -30,19 +30,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Geographical application of this Act
 
-**Part 2—Establishment and functions of the Inspector‑General of Taxation** 
+**Part 2—Establishment and functions of the Inspector-General of Taxation** 
 
-    **Division 1—Establishment of the Inspector‑General of Taxation**
+    **Division 1—Establishment of the Inspector-General of Taxation**
 
-[6](#6).            Inspector‑General of Taxation
+[6](#6).            Inspector-General of Taxation
 
-    **Division 2—Functions of the Inspector‑General**
+    **Division 2—Functions of the Inspector-General**
 
-[7](#7).            Functions of the Inspector‑General
+[7](#7).            Functions of the Inspector-General
 
 [8](#8).            When a review may be conducted
 
-[9](#9).            Setting the Inspector‑General’s work program
+[9](#9).            Setting the Inspector-General’s work program
 
 [10](#10).          Reporting on reviews
 
@@ -52,11 +52,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12](#12).          Purposes for which powers may be exercised
 
-[13](#13).          Inspector‑General may invite submissions
+[13](#13).          Inspector-General may invite submissions
 
-[14](#14).          Inspector‑General may request Commissioner of Taxation to provide information and documents etc 
+[14](#14).          Inspector-General may request Commissioner of Taxation to provide information and documents etc 
 
-[15](#15).          Inspector‑General may require tax officials to provide information and documents etc 
+[15](#15).          Inspector-General may require tax officials to provide information and documents etc 
 
 [16](#16).          Certain excuses are not available in relation to section 15 requirements
 
@@ -64,9 +64,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          No loss of legal professional privilege
 
-[19](#19).          Inspector‑General may keep documents
+[19](#19).          Inspector-General may keep documents
 
-[20](#20).          Inspector‑General may make and keep copies of documents
+[20](#20).          Inspector-General may make and keep copies of documents
 
 [21](#21).          Access to ATO premises
 
@@ -84,7 +84,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [27](#27).          Legal professional privilege
 
-**Part 3—Administrative provisions about the Inspector‑General and staff**
+**Part 3—Administrative provisions about the Inspector-General and staff**
 
 [28](#28).          Appointment
 
@@ -112,11 +112,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39](#39).          Victimisation
 
-[40](#40).          Protection from liability for Minister, Inspector‑General etc 
+[40](#40).          Protection from liability for Minister, Inspector-General etc 
 
 [41](#41).          Annual report
 
-[42](#42).          Delegation of certain powers by Inspector‑General
+[42](#42).          Delegation of certain powers by Inspector-General
 
 [43](#43).          Regulations
 
@@ -124,19 +124,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Consequential amendments** 
 
-Freedom of Information Act 1982                                                                          31
+Freedom of Information Act 1982                                                                           31
 
 National Crime Authority Act 1984                                                                       31
 
 **Notes** 
 
-## An Act to provide for the appointment of an Inspector‑General of Taxation, and for related purposes
+## An Act to provide for the appointment of an Inspector-General of Taxation, and for related purposes
 
 ## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Inspector‑General of Taxation Act 2003_.
+                   This Act may be cited as the _Inspector-General of Taxation Act 2003_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -156,11 +156,9 @@ National Crime Authority Act 1984               �
 
                     In this Act:
 
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
+                    <a name="inspector-gener"></a>**_Inspector-General_** means the Inspector-General of Taxation referred to in section 6.
 
-                    <a name="inspector-gener"></a>**_Inspector‑General_** means the Inspector‑General of Taxation referred to in section 6.
-
-                    <a name="inspector-gener-staff"></a>**_Inspector‑General’s staff_** means:
+                    <a name="inspector-gener-staff"></a>**_Inspector-General’s staff_** means:
 
                      (a)  the staff referred to in subsection 36(1); and
 
@@ -202,19 +200,19 @@ National Crime Authority Act 1984               �
 
                    This Act applies both within and outside   Australia and extends to every external Territory.
 
-## Part 2—Establishment and functions of the Inspector‑General of Taxation
+## Part 2—Establishment and functions of the Inspector-General of Taxation
 
-### Division 1—Establishment of the Inspector‑General of Taxation
+### Division 1—Establishment of the Inspector-General of Taxation
 
-##### <a id="6"></a>6  Inspector‑General of Taxation
+##### <a id="6"></a>6  Inspector-General of Taxation
 
-                   There is to be an Inspector‑General of Taxation.
+                   There is to be an Inspector-General of Taxation.
 
-### Division 2—Functions of the Inspector‑General
+### Division 2—Functions of the Inspector-General
 
-##### <a id="7"></a>7  Functions of the Inspector‑General
+##### <a id="7"></a>7  Functions of the Inspector-General
 
-             (1)  The functions of the Inspector‑General are:
+             (1)  The functions of the Inspector-General are:
 
                      (a)  to review:
 
@@ -226,21 +224,21 @@ National Crime Authority Act 1984               �
 
                               (i)  the subject and outcome of the review; and
 
-                             (ii)  any recommendations that the Inspector‑General thinks appropriate concerning how the system reviewed could be improved.
+                             (ii)  any recommendations that the Inspector-General thinks appropriate concerning how the system reviewed could be improved.
 
              (2)  The reference in subparagraph (1)(a)(ii) to administrative matters includes, for example, the process for assessing, collecting, paying or recovering amounts under a tax law, or the enforcement of a tax law. However, it does not include rules imposing or creating an obligation to pay an amount under a tax law, or rules dealing with the quantification of such an amount.
 
 ##### <a id="8"></a>8  When a review may be conducted
 
-             (1)  The Inspector‑General may conduct a review on his or her own initiative.
+             (1)  The Inspector-General may conduct a review on his or her own initiative.
 
-Note:          For example, the Inspector‑General may conduct a review on a matter that has been drawn to his or her attention by taxpayers, tax professionals or the Commonwealth Ombudsman.
+Note:          For example, the Inspector-General may conduct a review on a matter that has been drawn to his or her attention by taxpayers, tax professionals or the Commonwealth Ombudsman.
 
-             (2)  The Inspector‑General may be directed, in writing, by the Minister to conduct a review. On receipt of a direction, the Inspector‑General must include the review in his or her work program under section 9.
+             (2)  The Inspector-General may be directed, in writing, by the Minister to conduct a review. On receipt of a direction, the Inspector-General must include the review in his or her work program under section 9.
 
-Note:          Under section 9, the Inspector‑General has discretion in deciding how to include the review in the work program (including, for example, what priority to give the review).
+Note:          Under section 9, the Inspector-General has discretion in deciding how to include the review in the work program (including, for example, what priority to give the review).
 
-             (3)  The Inspector‑General may be requested to conduct a review by:
+             (3)  The Inspector-General may be requested to conduct a review by:
 
                      (a)  the Minister; or
 
@@ -250,21 +248,21 @@ Note:          Under section 9, the Inspector‑General has 
 
                      (d)  a resolution of a Committee of either House, or of both Houses, of the Parliament.
 
-However, the Inspector‑General is not required to comply with the request.
+However, the Inspector-General is not required to comply with the request.
 
-##### <a id="9"></a>9  Setting the Inspector‑General’s work program
+##### <a id="9"></a>9  Setting the Inspector-General’s work program
 
-             (1)  The Inspector‑General has discretion in setting his or her work program (subject to subsection 8(2) and subsection (2) of this section).
+             (1)  The Inspector-General has discretion in setting his or her work program (subject to subsection 8(2) and subsection (2) of this section).
 
-             (2)  The Inspector‑General must consult the Commonwealth Ombudsman and the Commonwealth Auditor‑General, at least once a year, to assist the Inspector‑General in setting his or her work program.
+             (2)  The Inspector-General must consult the Commonwealth Ombudsman and the Commonwealth Auditor-General, at least once a year, to assist the Inspector-General in setting his or her work program.
 
 ##### <a id="10"></a>10  Reporting on reviews
 
-                   After completing a review, the Inspector‑General must make a written report to the Minister setting out:
+                   After completing a review, the Inspector-General must make a written report to the Minister setting out:
 
                      (a)  the subject and outcome of the review; and
 
-                     (b)  any recommendations that the Inspector‑General thinks appropriate concerning how the system reviewed could be improved.
+                     (b)  any recommendations that the Inspector-General thinks appropriate concerning how the system reviewed could be improved.
 
 Note:          For limitations on what may be included in reports under this section, see the following provisions:
 
@@ -286,7 +284,7 @@ Note:          For limitations on what may be included in repo
 
                      (a)  before the general publication deadline; or
 
-                     (b)  if the Inspector‑General recommends that the tabling or public release of the report be delayed for a specified period—before the extended publication deadline.
+                     (b)  if the Inspector-General recommends that the tabling or public release of the report be delayed for a specified period—before the extended publication deadline.
 
              (2)  For the purposes of subsection (1):
 
@@ -314,11 +312,11 @@ Deciding whether to conduct a review
 
                      (c)  documents produced under section 14 or 15 for the purpose of making such a decision may, if the decision is that a review is to be conducted, continue to be kept under section 19 for as long as is necessary for the purposes of conducting the review.
 
-##### <a id="13"></a>13  Inspector‑General may invite submissions
+##### <a id="13"></a>13  Inspector-General may invite submissions
 
 Inviting submissions
 
-             (1)  For the purposes of conducting a review, the Inspector‑General may invite members of the public generally, or particular people or organisations, to make submissions relevant to the review.
+             (1)  For the purposes of conducting a review, the Inspector-General may invite members of the public generally, or particular people or organisations, to make submissions relevant to the review.
 
 Note 1:       Section 17 protects a person making a submission in good faith from liability to damages.
 
@@ -326,13 +324,13 @@ Note 2:       Section 18 provides that making a submission does no
 
 Process for inviting or making submissions
 
-             (2)  The Inspector‑General has discretion in deciding matters connected with the process for inviting or making submissions, including:
+             (2)  The Inspector-General has discretion in deciding matters connected with the process for inviting or making submissions, including:
 
                      (a)  how to communicate the invitation; and
 
                      (b)  how submissions may be made.
 
-Note:          For example, the Inspector‑General may:
+Note:          For example, the Inspector-General may:
 
 (a)           advertise in the press or other media seeking written submissions from the public; or
 
@@ -340,7 +338,7 @@ Note:          For example, the Inspector‑General may:
 
 Submissions may be made publicly available
 
-             (3)  The Inspector‑General may, in any way he or she thinks appropriate, make any submission, or a written record (which may be a summary) of any oral submission, available to the public generally, or to particular people or organisations.
+             (3)  The Inspector-General may, in any way he or she thinks appropriate, make any submission, or a written record (which may be a summary) of any oral submission, available to the public generally, or to particular people or organisations.
 
 Note:          For restrictions on the power given by this subsection, see the following provisions:
 
@@ -352,15 +350,15 @@ Note:          For restrictions on the power given by this sub
 
 (d)           section 26 (confidential submissions).
 
-##### <a id="14"></a>14  Inspector‑General may request Commissioner of Taxation to provide information and documents etc.
+##### <a id="14"></a>14  Inspector-General may request Commissioner of Taxation to provide information and documents etc.
 
-                   For the purposes of conducting a review, the Inspector‑General may request the Commissioner of Taxation:
+                   For the purposes of conducting a review, the Inspector-General may request the Commissioner of Taxation:
 
-                     (a)  to give the Inspector‑General, or a member of the Inspector‑General’s staff, information relevant to the review, or arrange for another tax official to do so; or
+                     (a)  to give the Inspector-General, or a member of the Inspector-General’s staff, information relevant to the review, or arrange for another tax official to do so; or
 
-                     (b)  to produce to the Inspector‑General, or a member of the Inspector‑General’s staff, documents relevant to the review, or arrange for another tax official to do so; or
+                     (b)  to produce to the Inspector-General, or a member of the Inspector-General’s staff, documents relevant to the review, or arrange for another tax official to do so; or
 
-                     (c)  to attend before the Inspector‑General, or a member of the Inspector‑General’s staff, to answer questions relevant to the review, or arrange for another tax official to do so.
+                     (c)  to attend before the Inspector-General, or a member of the Inspector-General’s staff, to answer questions relevant to the review, or arrange for another tax official to do so.
 
 Note 1:       For restrictions on the power given by this section, see section 22 (information that would be prejudicial to the public interest).
 
@@ -368,29 +366,29 @@ Note 2:       Section 17 protects a person complying with a reques
 
 Note 3:       Section 18 provides that compliance with a request does not result in a loss of legal professional privilege.
 
-##### <a id="15"></a>15  Inspector‑General may require tax officials to provide information and documents etc.
+##### <a id="15"></a>15  Inspector-General may require tax officials to provide information and documents etc.
 
 Application of section
 
-             (1)  This section applies to a person who is or was a tax official if the Inspector‑General has reason to believe that the person:
+             (1)  This section applies to a person who is or was a tax official if the Inspector-General has reason to believe that the person:
 
                      (a)  has information or documents relevant to a review; or
 
                      (b)  is capable of giving evidence that is relevant to a review.
 
-Inspector‑General may require information, documents etc.
+Inspector-General may require information, documents etc.
 
-             (2)  The Inspector‑General may, by written notice given to the person, require the person:
+             (2)  The Inspector-General may, by written notice given to the person, require the person:
 
-                     (a)  to give the information to the Inspector‑General, or a member of the Inspector‑General’s staff, by the time, and in the manner and form, specified in the notice; or
+                     (a)  to give the information to the Inspector-General, or a member of the Inspector-General’s staff, by the time, and in the manner and form, specified in the notice; or
 
-                     (b)  to produce the documents to the Inspector‑General, or a member of the Inspector‑General’s staff, by the time, and in the manner, specified in the notice; or
+                     (b)  to produce the documents to the Inspector-General, or a member of the Inspector-General’s staff, by the time, and in the manner, specified in the notice; or
 
-                     (c)  to attend before the Inspector‑General, or a member of the Inspector‑General’s staff, at the time and place specified in the notice, and answer questions relevant to the review.
+                     (c)  to attend before the Inspector-General, or a member of the Inspector-General’s staff, at the time and place specified in the notice, and answer questions relevant to the review.
 
 Note 1:       For restrictions on the power given by this subsection, see section 22 (information that would be prejudicial to the public interest).
 
-Note 2:       Section 16 removes certain excuses that might otherwise justify non‑compliance with a requirement.
+Note 2:       Section 16 removes certain excuses that might otherwise justify non-compliance with a requirement.
 
 Note 3:       Section 17 protects a person complying with a requirement in good faith from liability to a penalty or damages.
 
@@ -402,7 +400,7 @@ People must be given at least 14 days to comply
 
 Information or answers may be required to be given on oath etc.
 
-             (4)  The Inspector‑General may require the information or answers to be verified by, or given on, oath or affirmation, and either orally or in writing. For that purpose, the Inspector‑General, or a member of the Inspector‑General’s staff, may administer the oath or affirmation.
+             (4)  The Inspector-General may require the information or answers to be verified by, or given on, oath or affirmation, and either orally or in writing. For that purpose, the Inspector-General, or a member of the Inspector-General’s staff, may administer the oath or affirmation.
 
              (5)  The oath or affirmation is an oath or affirmation that the information or answers are or will be true.
 
@@ -484,15 +482,15 @@ when requested or required to do so under section 14 or 15 is not liable:
 
                      (c)  referred to in answering a question asked pursuant to a request or requirement made under section 14 or 15.
 
-##### <a id="19"></a>19  Inspector‑General may keep documents
+##### <a id="19"></a>19  Inspector-General may keep documents
 
-Inspector‑General may keep documents
+Inspector-General may keep documents
 
-             (1)  The Inspector‑General may take possession of a document produced under section 14 or 15 and keep it for as long as is necessary for the purposes of conducting the review to which the document is relevant.
+             (1)  The Inspector-General may take possession of a document produced under section 14 or 15 and keep it for as long as is necessary for the purposes of conducting the review to which the document is relevant.
 
 Certified copy to be supplied to person entitled to document
 
-             (2)  The person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the Inspector‑General to be a true copy.
+             (2)  The person otherwise entitled to possession of the document is entitled to be supplied, as soon as practicable, with a copy certified by the Inspector-General to be a true copy.
 
 Certified copy to be treated as original
 
@@ -500,15 +498,15 @@ Certified copy to be treated as original
 
 Right to inspect and copy the original
 
-             (4)  Until a certified copy is supplied, the Inspector‑General must, at such times and places as the Inspector‑General thinks appropriate, permit the person otherwise entitled to possession of the document (or a person authorised by that person) to inspect and make copies of all or part of the document.
+             (4)  Until a certified copy is supplied, the Inspector-General must, at such times and places as the Inspector-General thinks appropriate, permit the person otherwise entitled to possession of the document (or a person authorised by that person) to inspect and make copies of all or part of the document.
 
-##### <a id="20"></a>20  Inspector‑General may make and keep copies of documents
+##### <a id="20"></a>20  Inspector-General may make and keep copies of documents
 
-                   The Inspector‑General may make and keep copies of all or part of any documents produced under section 14 or 15.
+                   The Inspector-General may make and keep copies of all or part of any documents produced under section 14 or 15.
 
 ##### <a id="21"></a>21  Access to ATO premises
 
-                   The Commissioner of Taxation must comply with (or ensure compliance with) any reasonable request made by the Inspector‑General for access by the Inspector‑General, or a member of the Inspector‑General’s staff, to any premises occupied by the Australian Taxation Office for the purposes of:
+                   The Commissioner of Taxation must comply with (or ensure compliance with) any reasonable request made by the Inspector-General for access by the Inspector-General, or a member of the Inspector-General’s staff, to any premises occupied by the Australian Taxation Office for the purposes of:
 
                      (a)  receiving information or documents under section 14 or 15; or
 
@@ -520,7 +518,7 @@ Right to inspect and copy the original
 
 Minister’s power to certify that disclosure of information would be prejudicial
 
-             (1)  The Minister may give the Inspector‑General a certificate stating that the disclosure of information relating to a specified matter would:
+             (1)  The Minister may give the Inspector-General a certificate stating that the disclosure of information relating to a specified matter would:
 
                      (a)  prejudice the security, defence or international relations of the Commonwealth; or
 
@@ -546,19 +544,19 @@ Minister’s power to certify that disclosure of information would be prejudicia
 
                       (l)  prejudice the revenue of the Commonwealth.
 
-Certificates may have effect for information‑gathering powers and/or reporting obligations
+Certificates may have effect for information-gathering powers and/or reporting obligations
 
              (2)  A certificate may be expressed to have effect for the purposes of either or both of the following:
 
-                     (a)  the Inspector‑General’s information‑gathering powers;
+                     (a)  the Inspector-General’s information-gathering powers;
 
-                     (b)  the Inspector‑General’s reporting obligations.
+                     (b)  the Inspector-General’s reporting obligations.
 
-However, a certificate based on the ground referred to in paragraph (1)(l) must only be expressed to have effect for the purposes of the Inspector‑General’s reporting obligations.
+However, a certificate based on the ground referred to in paragraph (1)(l) must only be expressed to have effect for the purposes of the Inspector-General’s reporting obligations.
 
-Effect of certificate on information‑gathering powers
+Effect of certificate on information-gathering powers
 
-             (3)  The following provisions apply while a certificate that is expressed to have effect for the purposes of the Inspector‑General’s information‑gathering powers is in force:
+             (3)  The following provisions apply while a certificate that is expressed to have effect for the purposes of the Inspector-General’s information-gathering powers is in force:
 
                      (a)  a submission, or a record of a submission, that contains information relating to the matter specified in the certificate must not be made available under subsection 13(3);
 
@@ -568,7 +566,7 @@ Effect of certificate on information‑gathering powers
 
 Effect of certificate on reporting obligations
 
-             (4)  While a certificate that is expressed to have effect for the purposes of the Inspector‑General’s reporting obligations is in force, information relating to the matter specified in the certificate must not be included in a report under section 10 or 41.
+             (4)  While a certificate that is expressed to have effect for the purposes of the Inspector-General’s reporting obligations is in force, information relating to the matter specified in the certificate must not be included in a report under section 10 or 41.
 
 ##### <a id="23"></a>23  Taxpayer information
 
@@ -588,7 +586,7 @@ Submissions not to be made available if they include information relating to a t
 
                      (b)  it is reasonably likely that people to whom the submission or record is proposed to be made available (other than people to whom the taxpayer has disclosed information relating to the taxpayer’s affairs) would be able to work out the identity of the taxpayer to whom the information relates.
 
-Note:          This subsection applies even when the information relates to the submission‑maker’s own affairs.
+Note:          This subsection applies even when the information relates to the submission-maker’s own affairs.
 
 Matters to be taken into account in “reasonably likely” test
 
@@ -620,7 +618,7 @@ Proposal to include criticism of the ATO or tax officials in a report
 
 Commissioner to be given opportunity to make submissions
 
-             (2)  The material must not be included in the report unless the Inspector‑General has given the Commissioner of Taxation, or a person authorised in writing  by the Commissioner, a reasonable opportunity to make submissions to the Inspector‑General in relation to the subject of the criticism.
+             (2)  The material must not be included in the report unless the Inspector-General has given the Commissioner of Taxation, or a person authorised in writing  by the Commissioner, a reasonable opportunity to make submissions to the Inspector-General in relation to the subject of the criticism.
 
 Note:          Compliance with this subsection for the purposes of including material in a report under section 10 also counts as compliance for the purposes of including substantially the same material in a report under section 41.
 
@@ -650,7 +648,7 @@ No loss of legal professional privilege
 
 Confidential submissions not to be made available or reported
 
-             (1)  If a person who makes a submission under section 13 has told the Inspector‑General, or a member of the Inspector‑General’s staff, that the submission is to be kept confidential, then:
+             (1)  If a person who makes a submission under section 13 has told the Inspector-General, or a member of the Inspector-General’s staff, that the submission is to be kept confidential, then:
 
                      (a)  the submission, or a record of the submission, must not be made available under subsection 13(3); and
 
@@ -658,7 +656,7 @@ Confidential submissions not to be made available or reported
 
 Restriction does not apply if same information is obtained by other means
 
-             (2)  However, paragraph (1)(b) does not prevent the inclusion in a report of information contained in a submission if the same information has also been obtained by the Inspector‑General, or a member of the Inspector‑General’s staff, by other means.
+             (2)  However, paragraph (1)(b) does not prevent the inclusion in a report of information contained in a submission if the same information has also been obtained by the Inspector-General, or a member of the Inspector-General’s staff, by other means.
 
 ##### <a id="27"></a>27  Legal professional privilege
 
@@ -666,7 +664,7 @@ Reports not to include privileged information or documents
 
              (1)  Information or a document:
 
-                     (a)  that has been given or produced to the Inspector‑General, or a member of the Inspector‑General’s staff, under section 14, 15 or 25; and
+                     (a)  that has been given or produced to the Inspector-General, or a member of the Inspector-General’s staff, under section 14, 15 or 25; and
 
                      (b)  that is:
 
@@ -696,33 +694,33 @@ Subsection (2) does not otherwise affect privilege
 
                      (c)  the report, or any part of it, is tabled or otherwise made publicly available by the Minister.
 
-## Part 3—Administrative provisions about the Inspector‑General and staff
+## Part 3—Administrative provisions about the Inspector-General and staff
 
 ##### <a id="28"></a>28  Appointment
 
-Appointment by Governor‑General on full‑time basis
+Appointment by Governor-General on full-time basis
 
-             (1)  The Inspector‑General is to be appointed by the Governor‑General by written instrument. The appointment is to be on a full‑time basis.
+             (1)  The Inspector-General is to be appointed by the Governor-General by written instrument. The appointment is to be on a full-time basis.
 
 Obligation to fill vacancy as soon as practicable
 
-             (2)  Whenever a vacancy occurs in the office of Inspector‑General, an appointment must be made to the office as soon as practicable.
+             (2)  Whenever a vacancy occurs in the office of Inspector-General, an appointment must be made to the office as soon as practicable.
 
 Period of appointment
 
-             (3)  The Inspector‑General holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
+             (3)  The Inspector-General holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
 
 Terms and conditions not covered by this Act
 
-             (4)  The Inspector‑General holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor‑General.
+             (4)  The Inspector-General holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Governor-General.
 
 ##### <a id="29"></a>29  Acting appointment
 
-             (1)  The Minister may appoint a person to act as the Inspector‑General:
+             (1)  The Minister may appoint a person to act as the Inspector-General:
 
-                     (a)  during a vacancy in the office of Inspector‑General (whether or not an appointment has previously been made to the office); or
+                     (a)  during a vacancy in the office of Inspector-General (whether or not an appointment has previously been made to the office); or
 
-                     (b)  during any period, or during all periods, when the Inspector‑General is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Inspector-General is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
              (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
 
@@ -736,35 +734,35 @@ Terms and conditions not covered by this Act
 
 ##### <a id="30"></a>30  Remuneration
 
-             (1)  The Inspector‑General is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Inspector‑General is to be paid the remuneration that is prescribed.
+             (1)  The Inspector-General is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Inspector-General is to be paid the remuneration that is prescribed.
 
-             (2)  The Inspector‑General is to be paid the allowances that are prescribed.
+             (2)  The Inspector-General is to be paid the allowances that are prescribed.
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="31"></a>31  Leave
 
-             (1)  The Inspector‑General has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  The Inspector-General has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant the Inspector‑General leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (2)  The Minister may grant the Inspector-General leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
 ##### <a id="32"></a>32  Engaging in other paid work
 
-                   The Inspector‑General must not engage in paid employment outside the duties of his or her office without the Minister’s  approval.
+                   The Inspector-General must not engage in paid employment outside the duties of his or her office without the Minister’s  approval.
 
 ##### <a id="33"></a>33  Disclosure of interests
 
-                   The Inspector‑General must give written notice to the Minister  of all interests (financial or otherwise) that the Inspector‑General has or acquires and that could conflict with the proper performance of the Inspector‑General’s functions.
+                   The Inspector-General must give written notice to the Minister  of all interests (financial or otherwise) that the Inspector-General has or acquires and that could conflict with the proper performance of the Inspector-General’s functions.
 
 ##### <a id="34"></a>34  Resignation
 
-                   The Inspector‑General may resign his or her appointment by giving the Governor‑General a written resignation.
+                   The Inspector-General may resign his or her appointment by giving the Governor-General a written resignation.
 
 ##### <a id="35"></a>35  Termination of appointment
 
 Obligation to terminate on certain grounds
 
-             (1)  The Governor‑General must terminate the appointment of the Inspector‑General if the Inspector‑General:
+             (1)  The Governor-General must terminate the appointment of the Inspector-General if the Inspector-General:
 
                      (a)  becomes bankrupt; or
 
@@ -782,51 +780,51 @@ Obligation to terminate on certain grounds
 
 Discretion to terminate for misbehaviour or physical or mental incapacity
 
-             (2)  Subject to subsections (3), (4) and (5), the Governor‑General may terminate the appointment of the Inspector‑General on the ground of misbehaviour or physical or mental incapacity.
+             (2)  Subject to subsections (3), (4) and (5), the Governor-General may terminate the appointment of the Inspector-General on the ground of misbehaviour or physical or mental incapacity.
 
-             (3)  If the Inspector‑General:
+             (3)  If the Inspector-General:
 
                      (a)  is an eligible employee for the purposes of the _Superannuation Act 1976_; and
 
                      (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
 
-his or her appointment cannot be terminated on the ground of physical or mental incapacity unless CSC  has given a certificate under section 54C of that Act.
+his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the Board (within the meaning of that Act) has given a certificate under section 54C of that Act.
 
-             (4)  If the Inspector‑General:
+             (4)  If the Inspector-General:
 
                      (a)  is a member of the superannuation scheme established by deed under the _Superannuation Act 1990_; and
 
                      (b)  is under 60 years of age;
 
-his or her appointment cannot be terminated on the ground of physical or mental incapacity unless CSC has given a certificate under section 13 of that Act.
+his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the Board (within the meaning of that Act) has given a certificate under section 13 of that Act.
 
-             (5)  If the Inspector‑General:
+             (5)  If the Inspector-General:
 
-                     (a)  is an ordinary employer‑sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
+                     (a)  is an ordinary employer-sponsored member of PSSAP, within the meaning of the _Superannuation Act 2005_; and
 
                      (b)  is under 60 years of age;
 
-his or her appointment cannot be terminated on the ground of physical or mental incapacity unless CSC  has given an approval and certificate under section 43 of that Act.
+his or her appointment cannot be terminated on the ground of physical or mental incapacity unless the Board (within the meaning of that Act) has given an approval and certificate under section 43 of that Act.
 
 ##### <a id="36"></a>36  Staff and consultants
 
 Staff engaged under the Public Service Act
 
-             (1)  The staff required to assist the Inspector‑General in the performance of the Inspector‑General’s functions are to be persons engaged under the _Public Service Act 1999_.
+             (1)  The staff required to assist the Inspector-General in the performance of the Inspector-General’s functions are to be persons engaged under the _Public Service Act 1999_.
 
              (2)  For the purposes of the _Public Service Act 1999_:
 
-                     (a)  the Inspector‑General and the APS employees so assisting the Inspector‑General together constitute a Statutory Agency; and
+                     (a)  the Inspector-General and the APS employees so assisting the Inspector-General together constitute a Statutory Agency; and
 
-                     (b)  the Inspector‑General is the Head of that Statutory Agency.
+                     (b)  the Inspector-General is the Head of that Statutory Agency.
 
 Secondments and similar arrangements
 
-             (3)  The Inspector‑General may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_) for the services of employees or officers of the Agency to be made available to the Inspector‑General.
+             (3)  The Inspector-General may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_) for the services of employees or officers of the Agency to be made available to the Inspector-General.
 
 Consultants
 
-             (4)  The Inspector‑General may, on behalf of the Commonwealth, engage persons having suitable qualifications and experience as consultants to the Inspector‑General. The terms and conditions of the engagement of a person are such as are determined by the Inspector‑General.
+             (4)  The Inspector-General may, on behalf of the Commonwealth, engage persons having suitable qualifications and experience as consultants to the Inspector-General. The terms and conditions of the engagement of a person are such as are determined by the Inspector-General.
 
 ## Part 4—Other matters
 
@@ -838,9 +836,9 @@ Definitions
 
                     <a name="person-whom-section-appli"></a>**_person to whom this section applies_** means a person who is or was:
 
-                     (a)  the Inspector‑General; or
+                     (a)  the Inspector-General; or
 
-                     (b)  a member of the Inspector‑General’s staff.
+                     (b)  a member of the Inspector-General’s staff.
 
                     <a name="protect-docum"></a>**_protected document_** means a document that:
 
@@ -882,13 +880,13 @@ unless that disclosure or production is necessary for the purpose of carrying in
 
 ##### <a id="38"></a>38  Reporting breaches of duty or misconduct
 
-                   If the Inspector‑General forms the opinion either before, during or after conducting a review:
+                   If the Inspector-General forms the opinion either before, during or after conducting a review:
 
                      (a)  that a person who is or was a tax official  has engaged in misconduct; and
 
-                     (b)  that the evidence is of sufficient weight to justify the Inspector‑General doing so;
+                     (b)  that the evidence is of sufficient weight to justify the Inspector-General doing so;
 
-the Inspector‑General must report the evidence to:
+the Inspector-General must report the evidence to:
 
                      (c)  if the person is or was  the Commissioner of Taxation—the Minister; or
 
@@ -960,15 +958,15 @@ Threatening to cause detriment to another person
 
              (4)  In a prosecution for an offence against subsection (2), it is not necessary to prove that the person threatened actually feared that the threat would be carried out.
 
-##### <a id="40"></a>40  Protection from liability for Minister, Inspector‑General etc.
+##### <a id="40"></a>40  Protection from liability for Minister, Inspector-General etc.
 
              (1)  This section applies to the following persons (**_protected persons_**):
 
                      (a)  the Minister;
 
-                     (b)  the Inspector‑General;
+                     (b)  the Inspector-General;
 
-                     (c)  a person acting under the Inspector‑General’s authority.
+                     (c)  a person acting under the Inspector-General’s authority.
 
              (2)  A protected person is not liable to civil proceedings for loss, damage or injury of any kind suffered by another person as a result of the performance or exercise, in good faith, of the protected person’s functions, powers or duties under or in relation to this Act.
 
@@ -976,7 +974,7 @@ Threatening to cause detriment to another person
 
 Annual report to be given to Minister
 
-             (1)  The Inspector‑General must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report (an **_annual report_**) on the operations of the Inspector‑General during the year that ended on that 30 June.
+             (1)  The Inspector-General must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report (an **_annual report_**) on the operations of the Inspector-General during the year that ended on that 30 June.
 
 Note:          For limitations on what may be included in reports under this section, see the following provisions:
 
@@ -1000,23 +998,23 @@ Annual report to be tabled in Parliament
 
              (3)  The Minister must cause a copy of each annual report to be tabled in each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives the report.
 
-##### <a id="42"></a>42  Delegation of certain powers by Inspector‑General
+##### <a id="42"></a>42  Delegation of certain powers by Inspector-General
 
-                   The Inspector‑General may delegate all or any of the following powers to a member of the Inspector‑General’s staff:
+                   The Inspector-General may delegate all or any of the following powers to a member of the Inspector-General’s staff:
 
-                     (a)  the Inspector‑General’s powers under section 13 to invite submissions, to decide matters connected with the process for inviting or making submissions, and to make submissions available;
+                     (a)  the Inspector-General’s powers under section 13 to invite submissions, to decide matters connected with the process for inviting or making submissions, and to make submissions available;
 
-                     (b)  the Inspector‑General’s power under section 21 to request access to premises;
+                     (b)  the Inspector-General’s power under section 21 to request access to premises;
 
-                     (c)  the Inspector‑General’s power under section 25 to give a reasonable opportunity to make submissions;
+                     (c)  the Inspector-General’s power under section 25 to give a reasonable opportunity to make submissions;
 
-                     (d)  the Inspector‑General’s powers under subsections 36(3) and (4) to make arrangements and engage consultants (including determining the terms and conditions of their engagement).
+                     (d)  the Inspector-General’s powers under subsections 36(3) and (4) to make arrangements and engage consultants (including determining the terms and conditions of their engagement).
 
 ##### <a id="43"></a>43  Regulations
 
 General power to make regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1024,7 +1022,7 @@ General power to make regulations
 
 Regulations about fees and allowances for expenses
 
-             (2)  Without limiting subsection (1), the regulations may provide for a person who attends before the Inspector‑General, or a member of the Inspector‑General’s staff, under section 13, 14, 15 or 25 to be paid, in relation to that attendance, fees and allowances for expenses fixed by, or calculated in accordance with, the regulations.
+             (2)  Without limiting subsection (1), the regulations may provide for a person who attends before the Inspector-General, or a member of the Inspector-General’s staff, under section 13, 14, 15 or 25 to be paid, in relation to that attendance, fees and allowances for expenses fixed by, or calculated in accordance with, the regulations.
 
 ##### <a id="44"></a>44  Schedule(s)
 
@@ -1045,7 +1043,7 @@ Insert in its appropriate alphabetical position:
 
 <tr>
   <td>
-    <div><i> Inspector‑General of Taxation Act 2003 </i> , section 37</div>
+    <div><i> Inspector-General of Taxation Act 2003 </i> , section 37</div>
   </td>
 </tr></table>
 
@@ -1062,17 +1060,15 @@ Insert in its appropriate alphabetical position:
 
 <tr>
   <td>
-    <div><i> Inspector‑General of Taxation Act 2003 </i> , section 37</div>
+    <div><i> Inspector-General of Taxation Act 2003 </i> , section 37</div>
   </td>
 </tr></table>
 
-# Notes to the _Inspector‑General of Taxation Act 2003_
+# Notes to the _Inspector-General of Taxation Act 2003_
 
 ### Note 1
 
-The _Inspector‑General of Taxation Act 2003_ as shown in this compilation comprises Act No. 28, 2003 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+The _Inspector-General of Taxation Act 2003_ as shown in this compilation comprises Act No. 28, 2003 amended as indicated in the Tables below.
 
 ### Table of Acts
 
@@ -1108,7 +1104,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Inspector‑General of Taxation Act 2003</div>
+    <div>Inspector-General of Taxation Act 2003</div>
   </td>
   <td>
     <div>28, 2003</div>
@@ -1131,134 +1127,13 @@ of Assent</div>
     <div>26, 2008</div>
   </td>
   <td>
-    <div>23 June 2008</div>
+    <div>23 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 77–80): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 723–725) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 102, 103): <i>(a)</i></div>
+    <div>Schedule 1 (items 77–80): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
   </td>
 </tr></table>
 
@@ -1287,23 +1162,7 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
@@ -1314,50 +1173,8 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 26, 2008; No. 58, 2011</div>
+    <div>am. No. 26, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 723  Subsection 29(1)
-
-Omit “(1)”.
-
-## 724  At the end of subsection 29(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 725  Subsection 29(2)
-
-Repeal the subsection.
-
-As at 18 July 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
