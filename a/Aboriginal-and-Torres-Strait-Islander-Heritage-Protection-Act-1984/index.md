@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00807/Html/723c433c-21b4-4512-9a67-c3a94127032d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00375/Html/AbTSIHerProte1984WD02_image001.gif)
 
 # Aboriginal and Torres Strait Islander Heritage Protection Act 1984
 
 **Act No. 79 of 1984 as amended**
 
-This compilation was prepared on 14 December 2010
- taking into account amendments up to Act No. 139 of 2010
+This compilation was prepared on 7 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -104,7 +104,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_.
+                   This Act may be cited as the _Aboriginal and__Torres Strait__Islander Heritage Protection Act 1984_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -126,7 +126,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  an object made from human hair or from any other bodily material that is not readily recognizable as being bodily material; or
 
-                     (c)  a body or the remains of a body dealt with or to be dealt with in accordance with a law of a State or Territory relating to medical treatment or post‑mortem examinations.
+                     (c)  a body or the remains of a body dealt with or to be dealt with in accordance with a law of a State or Territory relating to medical treatment or post-mortem examinations.
 
                     <a name="aborigin-tradition"></a>**_Aboriginal tradition_** means the body of traditions, observances, customs and beliefs of Aboriginals generally or of a particular community or group of Aboriginals, and includes any such traditions, observances, customs or beliefs relating to particular persons, areas, objects or relationships.
 
@@ -180,7 +180,7 @@ and references in this Act to injury or desecration shall be construed according
 
 ##### <a id="6"></a>6  Act binds the Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
 ##### <a id="6A"></a>6A  Application of the _Criminal Code_
 
@@ -330,6 +330,8 @@ he or she may, by legislative instrument, make a declaration in relation to the 
 
                     <a name="declar"></a>**_declaration_** means a declaration under this Division.
 
+                    <a name="minist"></a>**_Minister_**, in relation to Norfolk Island, means an executive member as defined by the _Norfolk Island__Act 1979_.
+
              (2)  The Minister shall not make a declaration in relation to an area, object or objects located in a State, the Northern Territory or Norfolk Island unless he or she has consulted with the appropriate Minister of that State or Territory as to whether there is, under a law of that State or Territory, effective protection of the area, object or objects from the threat of injury or desecration.
 
              (3)  The Minister may, at any time after receiving an application for a declaration, whether or not he or she has made a declaration pursuant to the application, request such persons as he or she considers appropriate to consult with him or her, or with a person nominated by him or her, with a view to resolving, to the satisfaction of the applicant or applicants and the Minister, any matter to which the application relates.
@@ -352,7 +354,7 @@ he or she may, by legislative instrument, make a declaration in relation to the 
 
                      (a)  take reasonable steps to give notice, in writing, of the declaration to persons likely to be substantially affected by the declaration; and
 
-                     (b)  in the case of a declaration in relation to an area—serve a copy of the declaration on the Australian Institute of Aboriginal Studies and, if the Institute maintains a register of significant Aboriginal areas, it shall enter the area in the register.
+                     (b)  in the case of a declaration in relation to an area—serve a copy of the declaration on the Australian Institute  of Aboriginal Studies and, if the Institute maintains a register of significant Aboriginal areas, it shall enter the area in the register.
 
              (3)  Any failure to publish a declaration in a newspaper or failure to comply with subsection (2) does not affect the validity of a declaration.
 
@@ -522,7 +524,7 @@ the officer may make a declaration for the purposes of this section.
 
 paragraph (a) or (b), as the case may be, shall be deemed to apply to the body corporate at that time.
 
-             (2)  Any conduct engaged in on behalf of a body corporate by a member of the governing body, director, servant or agent of the body corporate, or by any other person at the direction or with the consent or agreement (whether express or implied) of one of the first‑mentioned persons, shall be deemed, for the purposes of this Act, to have been engaged in also by the body corporate.
+             (2)  Any conduct engaged in on behalf of a body corporate by a member of the governing body, director, servant or agent of the body corporate, or by any other person at the direction or with the consent or agreement (whether express or implied) of one of the first-mentioned persons, shall be deemed, for the purposes of this Act, to have been engaged in also by the body corporate.
 
              (3)  In subsection (2), a reference to engaging in conduct is a reference to doing, or failing or refusing to do, any act or thing.
 
@@ -604,9 +606,9 @@ order the exclusion of the public, or of persons specified in the order, from a 
 
                              (ii)  under section 26;
 
-may apply to the Attorney‑General for a grant of assistance under subsection (2).
+may apply to the Attorney-General for a grant of assistance under subsection (2).
 
-             (2)  Where an application is made by a person under subsection (1), the Attorney‑General, or a person appointed or engaged under the _Public Service Act 1999_ (the **_public servant_**) authorized in writing by the Attorney‑General, may, if he or she is satisfied that it would involve hardship to that person to refuse the application and that, in all the circumstances, it is reasonable that the application should be granted, authorize the grant by the Commonwealth to the person, either unconditionally or subject to such conditions as the Attorney‑General or public servant determines, of such legal or financial assistance as the Attorney‑General or public servant determines.
+             (2)  Where an application is made by a person under subsection (1), the Attorney-General, or a person appointed or engaged under the _Public Service Act 1999_ (the **_public servant_**) authorized in writing by the Attorney-General, may, if he or she is satisfied that it would involve hardship to that person to refuse the application and that, in all the circumstances, it is reasonable that the application should be granted, authorize the grant by the Commonwealth to the person, either unconditionally or subject to such conditions as the Attorney-General or public servant determines, of such legal or financial assistance as the Attorney-General or public servant determines.
 
 ## Part IV—Miscellaneous
 
@@ -618,15 +620,17 @@ may apply to the Attorney‑General for a grant of assistance under subsection�
 
              (3)  A delegation under this section does not prevent the exercise of a power or performance of a function by the Minister.
 
-             (4)  In this section, **_declaration_** means a declaration made under Part II.
+             (4)   In this section, **_declaration_** means a declaration made under Part II.
 
 ##### <a id="32"></a>32  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
+
+ 
 
 # Notes to the _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_
 
@@ -634,7 +638,7 @@ may apply to the Attorney‑General for a grant of assistance under subsection�
 
 The _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_ as shown in this compilation comprises Act No. 79, 1984 amended as indicated in the Tables below.
 
-The _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_ was amended by the Aboriginal and Torres Strait Islander Heritage Protection Regulations (Amendment). The amendments made by these Regulations were repealed by the _Aboriginal and Torres Strait Islander Heritage Protection Amendment Act 2006_(No. 152, 2006).
+The _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_ was amended by the Aboriginal and Torres Strait Islander Heritage Protection Regulations (Amendment). The amendments are incorporated in this compilation. 
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
@@ -854,24 +858,7 @@ Remainder: Royal Assent</div>
     <div>3 July 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 2010</div>
-  </td>
-  <td>
-    <div>139, 2010</div>
-  </td>
-  <td colspan="2">
-    <div>10 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 61): 11 Dec 2010</div>
+    <div>Schedule 1 (item 1): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -886,21 +873,21 @@ Remainder: Royal Assent</div>
   <td></td>
 </tr></table>
 
-_(a)_     The _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_ was amended by Schedule 5 (items 1–3) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(a)_     The _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_ was amended by Schedule 5 (items 1-3) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_ was amended by Schedule 1 (items 20 and 21) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(b)_    The _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_ was amended by Schedule 1 (items 20 and 21) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_ was amended by Schedule 1 (items 1–11) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
+_(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection Act 1984_ was amended by Schedule 1 (items 1-11) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the latest of the following days:
 
-                              (c)   the day on which item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_ commences.
+                              (c)   the day on which item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 commences.
 
 ## Table of Amendments
 
@@ -1018,7 +1005,7 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 139, 2010</div>
+    <div>am. No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -1434,7 +1421,7 @@ _(c)_     The _Aboriginal and Torres Strait Islander Heritage Protection
     <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 39, 1987; No. 43, 1996;No. 146, 1999; No. 152, 2006</div>
+    <div>am. No. 39, 1987; No. 43, 1996; 146, 1999; No. 152, 2006</div>
   </td>
 </tr>
 <tr>
