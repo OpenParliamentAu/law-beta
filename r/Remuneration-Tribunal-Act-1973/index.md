@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00226/Html/1bc4f6d1-8ecf-4152-8ba6-02305a67fc6d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00182/Html/f296e653-2cf4-4b2f-99f2-fea653449915_files/image001.gif)
 
 # Remuneration Tribunal Act 1973
 
 **Act No. 215 of 1973 as amended**
 
-This compilation was prepared on 15 February 2012
+This compilation was prepared on 1 February 2012
  taking into account amendments up to Act No. 170 of 2011
 
 The text of any of those amendments not in force
@@ -374,7 +374,7 @@ then, if the President considers that the member should not take part, or contin
 
                      (b)  the office of Parliamentary Service Merit Protection Commissioner;
 
-                     (c)  offices of Secretary (other than the Parliamentary Budget Officer);
+                     (c)  offices of Secretary;
 
                      (d)  the office of Parliamentary Librarian.
 
@@ -2070,7 +2070,7 @@ Remainder: Royal Assent</div>
     <div>4 Dec 2011</div>
   </td>
   <td>
-    <div>Schedule 3 (item 5): 15 Feb 2012 ( <i>see</i>F2012L00277)</div>
+    <div>Schedule 3 (item 5): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -2527,7 +2527,7 @@ _(y)_     Subsection 2(1) (items 24 and 30) of the _Fair Work (State R
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 73, 1984; Nos. 87 and 123, 1988; No. 109, 1993; No. 168, 1995; No. 66, 1997; No. 146, 1999; No. 27, 2001; No. 39, 2005; SLI 2006 No. 50; No. 150, 2007; No. 54, 2009; Nos. 75 and 170, 2011</div>
+    <div>am. No. 73, 1984; Nos. 87 and 123, 1988; No. 109, 1993; No. 168, 1995; No. 66, 1997; No. 146, 1999; No. 27, 2001; No. 39, 2005; SLI 2006 No. 50; No. 150, 2007; No. 54, 2009; No. 75, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2905,7 +2905,21 @@ The following amendment commences on the designated sale day declared under sect
 
 Repeal the paragraph.
 
-As at 15 February 2012 the amendment is not incorporated in this compilation.
+As at 1 February 2012 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011 (No. 170, 2011)_
+
+The following amendment commences on 4 June 2012 unless proclaimed earlier:
+
+## Schedule 3
+
+## 5  At the end of paragraph 5(2D)(c)
+
+Add “(other than the Parliamentary Budget Officer)”.
+
+As at 1 February 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
