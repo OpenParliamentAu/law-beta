@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image001.gif)
 
 # Patents Act 1990
 
 **Act No. 83 of 1990 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 9 January 2012
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -162,7 +162,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Chapter 4—Publication**
 
-[53](#53).          Publication of certain information about applicants etc 
+[53](#53).          Publication of certain information about applicants etc                           
  [_see also_ Table B]
 
 [54](#54).          Notice of publication
@@ -679,19 +679,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 2—Consequential Amendments** 
 
-Companies Act 1981                                                                                               171
+Companies Act 1981                                                                                               170
 
-Designs Act 1906                                                                                                     171
+Designs Act 1906                                                                                                     170
 
-Industry, Technology and Commerce Legislation Amendment Act (No. 2) 1989                171
+Industry, Technology and Commerce Legislation Amendment Act (No. 2) 1989                170
 
-Jurisdiction of Courts (Cross-vesting) Act 1987                                               171
+Jurisdiction of Courts (Cross-vesting) Act 1987                                               170
 
-Nuclear Non-Proliferation (Safeguards) Act 1987                                          171
+Nuclear Non-Proliferation (Safeguards) Act 1987                                          170
 
-Sales Tax Assessment Act (No. 1) 1930                                                                172
+Sales Tax Assessment Act (No. 1) 1930                                                                171
 
-Trade Marks Act 1955                                                                                            172
+Trade Marks Act 1955                                                                                            171
 
 **Notes** 
 
@@ -845,8 +845,6 @@ permit
 
 pharmaceutical substance
 
-PPSA security interest
-
 prescribed court
 
 prescribed depositary institution
@@ -909,7 +907,7 @@ work
 
                    The following diagram shows most of the typical steps involved in getting and maintaining a standard patent. The diagram is intended for use only as a general introductory illustration and is not intended to have any other effect. If there is an inconsistency between any matter contained in the diagram and a provision of this Act or the regulations, the provision prevails.
 
-![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
+![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image002.gif)TABLE 1—GETTING AND MAINTAINING A STANDARD PATENT  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -945,7 +943,7 @@ work
 <tr>
   <td height="162"></td>
   <td rowspan="3" align="left">
-    <img width="400" height="704" src="http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image003.gif">
+    <img width="400" height="704" src="http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image003.gif">
   </td>
 </tr>
 <tr>
@@ -967,7 +965,7 @@ refused</span></div>
 </tr>
 <tr>
   <td height="493"></td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image004.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image004.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1124,7 +1122,7 @@ done so ( <i>see section 44</i>)</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image005.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image008.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image010.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image011.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image012.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image005.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image007.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image008.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image006.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image010.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image004.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image011.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image009.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image012.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1147,7 +1145,7 @@ continuation fees are not paid
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image013.gif)  <table>
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image013.gif)  <table>
 <colgroup>
   <col width="NaN%">
   <col width="NaN%">
@@ -1253,7 +1251,7 @@ stage are not published.</span></div>
         </tr>
       </table>
      </td>
-</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image015.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image016.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image018.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image019.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image020.gif)![](http://www.comlaw.gov.au/Details/C2012C00162/Html/9a5c4bb5-a702-432d-88c6-05f13e8722c0_files/image021.gif)
+</tr></table>  ![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image015.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image014.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image016.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image017.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image018.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image019.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image020.gif)![](http://www.comlaw.gov.au/Details/C2012C00113/Html/2d4811e4-9b99-4709-bd59-eb63cc7ea864_files/image021.gif)
 
 ##### <a id="5"></a>5  Associated applications
 
@@ -1969,7 +1967,7 @@ the applicant may, instead of asking for an examination as directed, ask for def
 
 ### Division 2—Modified examination
 
-##### <a id="47"></a>47  Request for modified examination
+##### <a id="47"></a>47  Request for modified examination
 
              (1)  Where:
 
@@ -3448,7 +3446,7 @@ whichever period ends later.
 
              (3)  The nominated person or patentee must be joined as a respondent in the proceedings.
 
-##### <a id="126"></a>126  Proceedings for non‑infringement declarations
+##### <a id="126"></a>126  Proceedings for non‑infringement declarations
 
              (1)  A prescribed court must not make a non‑infringement declaration unless a patent has been granted in respect of the relevant invention and:
 
@@ -3836,7 +3834,7 @@ then, upon receipt by the Commissioner of that copy:
 
              (2)  Where an application has lapsed under this section, the Commissioner must publish a notice to that effect in the _Official Journal_.
 
-##### <a id="149"></a>149  Revocation of direction
+##### <a id="149"></a>149  Revocation of direction
 
                    Where under section 148 an application has lapsed, or has ceased to be treated as an international application, because of a direction by the Director under section 147, the applicant may apply in writing to the Director for the revocation of the direction and the Director may revoke the direction.
 
@@ -4312,19 +4310,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  This section does not protect a person who deals with a patentee otherwise than as a purchaser in good faith for value and without notice of any fraud on the part of the patentee.
 
-          (2A)  Despite subsection (1), the recording in the Register of a right that is a PPSA security interest does not affect a dealing with a patent.
-
              (3)  Equities in relation to a patent may be enforced against the patentee except to the prejudice of a purchaser in good faith for value.
-
-             (4)  Subsection (3) does not apply in relation to an equity that is a PPSA security interest.
-
-Note:          The _Personal Property Securities Act 2009_ deals with the rights of purchasers of personal property (including intellectual property such as patents) that is subject to PPSA security interests. That Act also provides for the priority and enforcement of PPSA security interests. See the following provisions of that Act:
-
-(a)    Part 2.5 (taking personal property free of security interests);
-
-(b)    Part 2.6 (priority between security interests);
-
-(c)    Chapter 4 (enforcement of security interests).
 
 ##### <a id="190"></a>190  Inspection of Register
 
@@ -4396,13 +4382,9 @@ may apply to a prescribed court for an order to rectify the Register.
 
              (2)  If the Register is wholly or partly kept by use of a computer, a document signed by the Commissioner reproducing in writing all or any of the particulars comprising the Register, or that part of it, is admissible in any proceedings as _prima facie_ evidence of those particulars.
 
-             (3)  This section does not apply in relation to any particulars registered in the Register in relation to a PPSA security interest.
-
-Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
-
 ##### <a id="196"></a>196  Evidence—unregistered particulars
 
-             (1)  A document in respect of which particulars have not been entered in the Register is not admissible in any proceedings in proof of the title to a patent or to an interest in a patent unless:
+                   A document in respect of which particulars have not been entered in the Register is not admissible in any proceedings in proof of the title to a patent or to an interest in a patent unless:
 
                      (a)  the court or tribunal before which the proceedings are brought otherwise directs; or
 
@@ -4411,10 +4393,6 @@ Note:          Certain particulars relating to registrations i
                               (i)  for an order under section 192; or
 
                              (ii)  to enforce equities in relation to a patent or licence.
-
-             (2)  However, subsection (1) does not restrict the admissibility in any proceedings of a document in relation to a PPSA security interest.
-
-Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
 
 ##### <a id="197"></a>197  Evidence—certificate and copies of documents
 
@@ -4592,7 +4570,7 @@ must not prepare a specification, or a document relating to an amendment of a sp
 
                     Penalty:  30 penalty units.
 
-##### <a id="203"></a>203  Attendance at patent attorney’s office
+##### <a id="203"></a>203  Attendance at patent attorney’s office
 
                    A registered patent attorney must not practise, act, or hold himself or herself out as practising or acting, as a patent attorney, at an office or place of business where specifications or other documents are prepared for the purposes of this Act, unless he or she, or another registered patent attorney, is in regular attendance at, and in continuous charge of, that office or place.
 
@@ -4832,7 +4810,7 @@ the prescribed provisions have effect for the protection or compensation of pers
 
                     <a name="relev-act"></a>**_relevant act_** means an action (other than a prescribed action) in relation to a patent, a patent application, or any proceedings under this Act (other than court proceedings), and includes the making of a Convention application within the time allowed for making such applications.
 
-##### <a id="224"></a>224  Review of decisions 
+##### <a id="224"></a>224  Review of decisions 
 
              (1)  Application may be made to the Administrative Appeals Tribunal for review of:
 
@@ -5154,7 +5132,7 @@ and such a patent is not invalid, so far as the invention is claimed in any clai
 
              (2)  On and after the commencing day, the Register of Patent Attorneys under the 1952 Act is to be taken to form part of the Register of Patent Attorneys under this Act.
 
-##### <a id="240"></a>240  Registered patent attorneys
+##### <a id="240"></a>240  Registered patent attorneys
 
                    This Act applies, on and after the commencing day, in relation to a person who was, immediately before that day, a registered patent attorney under the 1952 Act as if the person had been registered as a patent attorney under this Act.
 
@@ -5349,18 +5327,6 @@ _\[See also section 10]_
                      (b)  action on an infectious agent, or on a toxin or other poison, in a human body;
 
 but does not include a substance that is solely for use in _in vitro_ diagnosis or _in vitro_ testing.
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
 
                     <a name="prescrib-court"></a>**_prescribed court_** means the Federal Court, the Supreme Court of a State, the Supreme Court of the Australian Capital Territory, the Supreme Court of the Northern Territory or the Supreme Court of Norfolk Island.
 
@@ -5912,7 +5878,7 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 2 (items 8–15): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 2 (items 8–15): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 15) \[ <i>see</i>Table A]</div>
@@ -5963,7 +5929,7 @@ Schedule 16 (item 1): 4 Oct 2002 ( <i>see</i>s. 2(1))</div>
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (item 16): <i>(h)</i></div>
+    <div>Schedule 3 (item 16): \[ <i>see (h)</i>and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -6240,7 +6206,8 @@ _(h)_ Subsection 2(1) (item 13) of the _Personal Property Securities (Corporat
   </td>
   <td>
     <div>
-      30 January 2012
+      \[
+        <i>see</i>Note 3]
     </div>
   </td>
 </tr></table>
@@ -6281,7 +6248,7 @@ _(h)_ Subsection 2(1) (item 13) of the _Personal Property Securities (Corporat
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 108 and 154, 1994; No. 100, 1998; No. 140, 2000; No. 48, 2003; No. 131, 2009</div>
+    <div>am. Nos. 108 and 154, 1994; No. 100, 1998; No. 140, 2000; No. 48, 2003</div>
   </td>
 </tr>
 <tr>
@@ -7789,26 +7756,10 @@ of Chapt. 6</div>
 </tr>
 <tr>
   <td>
-    <div>S. 189</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 191</div>
   </td>
   <td>
     <div>am. No. 140, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 195, 196</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -8048,9 +7999,112 @@ of Chapt. 6</div>
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 66, 1991; Nos. 58, 108 and 154, 1994; No. 100, 1998; No. 146, 1999; No. 140, 2000; No. 160, 2001; No. 48, 2003; No. 106, 2006; No. 131, 2009; No. 96, 2010; No. 46, 2011</div>
+    <div>am. No. 66, 1991; Nos. 58, 108 and 154, 1994; No. 100, 1998; No. 146, 1999; No. 140, 2000; No. 160, 2001; No. 48, 2003; No. 106, 2006; No. 46, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 2
+
+## 8  Section 3 (list of definitions)
+
+Insert “PPSA security interest”.
+
+## 9  After subsection 189(2)
+
+Insert:
+
+          (2A)  Despite subsection (1), the recording in the Register of a right that is a PPSA security interest does not affect a dealing with a patent.
+
+## 10  At the end of section 189
+
+Add:
+
+             (4)  Subsection (3) does not apply in relation to an equity that is a PPSA security interest.
+
+Note:          The _Personal Property Securities Act 2009_ deals with the rights of purchasers of personal property (including intellectual property such as patents) that is subject to PPSA security interests. That Act also provides for the priority and enforcement of PPSA security interests. See the following provisions of that Act:
+
+(a)    Part 2.5 (taking personal property free of security interests);
+
+(b)    Part 2.6 (priority between security interests);
+
+(c)    Chapter 4 (enforcement of security interests).
+
+## 11  At the end of section 195
+
+Add:
+
+             (3)  This section does not apply in relation to any particulars registered in the Register in relation to a PPSA security interest.
+
+Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
+
+## 12  Section 196
+
+Before “A document”, insert “(1)”.
+
+## 13  At the end of section 196
+
+Add:
+
+             (2)  However, subsection (1) does not restrict the admissibility in any proceedings of a document in relation to a PPSA security interest.
+
+Note:          Certain particulars relating to registrations in respect of PPSA security interests under the _Personal Property Securities Act 2009_ are admissible in evidence: see section 174 of that Act.
+
+## 14  Schedule 1 (Dictionary)
+
+Insert:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means:
+
+                     (a)  a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies (other than a transitional security interest within the meaning of that Act); or
+
+                     (b)  a transitional security interest within the meaning of that Act, and to which Division 4 of Part 9.4 of that Act applies.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_. Division 4 of Part 9.4 of that Act applies to transitional security interests in situations including the bankruptcy or insolvency of a secured party, grantor or debtor.
+
+As at 9 January 2012 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
+
+The following amendment commences immediately after 30 January 2012:
+
+## Schedule 3
+
+## 16  Schedule 1 (Dictionary) (definition of _PPSA security interest_)
+
+Repeal the definition, substitute:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
+
+_Note:       This amendment replaces the definition inserted by item 14 of Schedule 2 to the Personal Property Securities (Consequential Amendments) Act 2009._
+
+As at 9 January 2012 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -8284,7 +8338,7 @@ The amendment of section 122 of the _Patents Act 1990_ made by this Schedule a
 
 ## Schedule 6
 
-## 2  Application
+## 2  Application
 
 The amendment of the _Patents Act 1990_ made by this Schedule applies in relation to patents granted as a result of applications filed on or after the commencement of this Schedule.
 
@@ -8322,6 +8376,8 @@ The amendments made by this Schedule apply to the making of a complete applicati
 
 _Personal Property Securities (Consequential Amendments) Act 2009
  (No. 131, 2009)_
+
+The following provision commences on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
 
 ## Schedule 2
 
