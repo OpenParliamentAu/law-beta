@@ -1,12 +1,12 @@
-![](http://www.comlaw.gov.au/Details/C2004C02825/Html/CocosKI55_image001.jpg)
+![](http://www.comlaw.gov.au/Details/C2004C02824/Html/CocKeelingIs55_image001.jpg)
 
 # Cocos (Keeling) Islands Act 1955
 
-**Act No. 34 of 1955 as amended**
+Act No. 34 of 1955 as amended 
 
-Consolidated as in force on 23 December 1999
+Consolidated as in force on 14 October 1999
 
-(includes amendments up to Act No. 146 of 1999)
+(includes amendments up to Act No. 118 of 1997)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -15,121 +15,121 @@ Prepared by the Office of Legislative Drafting,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]                                                                        2
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]                                                               2
 
-[4](#4).            Interpretation                                                                                       1
+[4](#4).            Interpretation                                                                                       2
 
 **Part II—Acceptance of the Islands**
 
-[5](#5).            Acceptance of Cocos or Keeling Islands                                             4
+[5](#5).            Acceptance of Cocos or Keeling Islands                                             5
 
-[6](#6).            Transfer of rights, liabilities etc  to Commonwealth                           4
+[6](#6).            Transfer of rights, liabilities etc  to Commonwealth                           5
 
-[7](#7).            Extinguishment of certain rights and restrictions under the 1886 Indenture             5
+[7](#7).            Extinguishment of certain rights and restrictions under the 1886 Indenture             6
 
-**Part III—Laws and legislative powers** 
+**Part III—Laws and Legislative Powers** 
 
     **Division 1—Laws of the Territory**
 
-[7A](#7A).         The laws of the Territory                                                                    6
+[7A](#7A).         The laws of the Territory                                                                    7
 
-[8](#8).            Operation of existing laws etc                                                             6
+[8](#8).            Operation of existing laws etc                                                             7
 
-[8A](#8A).         Application of Western Australian laws                                             7
+[8A](#8A).         Application of Western Australian laws                                             8
 
-[8B](#8B).         Minister must table lists of applied Western Australian Acts            7
+[8B](#8B).         Minister must table lists of applied Western Australian Acts            8
 
-[8C](#8C).         House may terminate application of Western Australian Acts in the Territory      8
+[8C](#8C).         House may terminate application of Western Australian Acts in the Territory      9
 
-[8D](#8D).         Extension of period for giving notice of motion to terminate WA Act 10
+[8D](#8D).         Extension of period for giving notice of motion to terminate WA Act 11
 
-[8E](#8E).          Application of Commonwealth Acts                                                11
+[8E](#8E).          Application of Commonwealth Acts                                                12
 
 [8F](#8F).          Application of the _Workplace Relations Act 1996_                            12
 
-[8G](#8G).         Powers and functions under the applied Western Australian laws   12
+[8G](#8G).         Powers and functions under the applied Western Australian laws   13
 
-[8H](#8H).         Arrangements with the Government of Western Australia               14
+[8H](#8H).         Arrangements with the Government of Western Australia               15
 
-[8I](#8I).           Savings                                                                                               14
+[8I](#8I).           Savings                                                                                               15
 
-    **Division 2—Legislative powers of the Governor-General**
+    **Division 2—Legislative Powers of the Governor-General**
 
-[12](#12).          Legislative powers of Governor-General                                           16
+[12](#12).          Legislative powers of Governor-General                                           17
 
-[13](#13).          Laying of Ordinances before the Parliament                                      16
+[13](#13).          Laying of Ordinances before the Parliament                                      17
 
-[13A](#13A).       Ordinance not to be re-made while required to be tabled                  18
+[13A](#13A).       Ordinance not to be re-made while required to be tabled                  19
 
-[13B](#13B).       Ordinance not to be re-made while subject to disallowance              18
+[13B](#13B).       Ordinance not to be re-made while subject to disallowance              19
 
-[13C](#13C).       Disallowed Ordinance not to be re-made unless resolution rescinded or House approves   19
+[13C](#13C).       Disallowed Ordinance not to be re-made unless resolution rescinded or House approves   20
 
-[13D](#13D).       Regulations, rules and by-laws                                                          20
+[13D](#13D).       Regulations, rules and by-laws                                                          21
 
-**Part IVA—Trials on indictment**
+**Part IVA—Trials on Indictment**
 
-[15AA](#15AA).    Trials on indictment to be by judge and jury                                     21
+[15AA](#15AA).    Trials on indictment to be by judge and jury                                     22
 
-[15AB](#15AB).    Minister may make arrangements with States                                   21
+[15AB](#15AB).    Minister may make arrangements with States                                   22
 
-[15AC](#15AC).    Indictment court may sit in a State                                                    21
+[15AC](#15AC).    Indictment court may sit in a State                                                    22
 
-[15AD](#15AD).    Juries outside the Territory                                                               23
+[15AD](#15AD).    Juries outside the Territory                                                               24
 
-[15AE](#15AE).     Offences in relation to jurors                                                             25
+[15AE](#15AE).     Offences in relation to jurors                                                             26
 
-[15AF](#15AF).     Removal of accused to State to stand trial                                         26
+[15AF](#15AF).     Removal of accused to State to stand trial                                         27
 
-[15AG](#15AG).    Accused to be conveyed to court                                                      26
+[15AG](#15AG).    Accused to be conveyed to court                                                      27
 
-[15AH](#15AH).    Return of accused to Territory                                                          27
+[15AH](#15AH).    Return of accused to Territory                                                          28
 
-[15AI](#15AI).      Person deemed to be prisoner under _Removal of Prisoners (Territories) Act 1923_  27
+[15AI](#15AI).      Person deemed to be prisoner under _Removal of Prisoners (Territories) Act 1923_  28
 
-[15AJ](#15AJ).     Person deemed to be criminal lunatic under _Removal of Prisoners (Territories) Act 1923_   27
+[15AJ](#15AJ).     Person deemed to be criminal lunatic under _Removal of Prisoners (Territories) Act 1923_   28
 
-[15AK](#15AK).    Repatriation of person tried in a State                                               28
+[15AK](#15AK).    Repatriation of person tried in a State                                               29
 
-**Part IVAA—Conferral of Territory jurisdiction on Western Australian courts etc.**
+**Part IVAA—Conferral of Territory Jurisdiction on Western Australian courts etc.**
 
-[15AAA](#15AAA). Definitions                                                                                         29
+[15AAA](#15AAA). Definitions                                                                                         30
 
-[15AAB](#15AAB). Conferral of jurisdiction on Western Australian courts and court officers   29
+[15AAB](#15AAB). Conferral of jurisdiction on Western Australian courts and court officers   30
 
-[15AAC](#15AAC). Transfer of Supreme Court jurisdiction                                             29
+[15AAC](#15AAC). Transfer of Supreme Court jurisdiction                                             30
 
-[15AAD](#15AAD). Transfer of pending proceedings                                                       30
+[15AAD](#15AAD). Transfer of pending proceedings                                                       31
 
-[15AAE](#15AAE).  Application of provisions of this Act to courts of Western Australia 31
+[15AAE](#15AAE).  Application of provisions of this Act to courts of Western Australia 32
 
-[15AAF](#15AAF).  Savings—jurisdiction of Supreme Court of the Territory on and after transfer day             32
+[15AAF](#15AAF).  Savings—jurisdiction of Supreme Court of the Territory on and after transfer day             33
 
-[15AAG](#15AAG). Abolition of Supreme Court of the Territory                                    32
+[15AAG](#15AAG). Abolition of Supreme Court of the Territory                                    33
 
-[15AAH](#15AAH). Transitional provisions after abolition of Supreme Court                 32
+[15AAH](#15AAH). Transitional provisions after abolition of Supreme Court                 33
 
-[15AAI](#15AAI).   References to courts of Territory—transitional                                33
+[15AAI](#15AAI).   References to courts of Territory—transitional                                34
 
 **Part V—Miscellaneous**
 
-[15A](#15A).       Appointment of officers                                                                    35
+[15A](#15A).       Appointment of officers                                                                    36
 
-[16](#16).          Sittings of courts etc                                                                          35
+[16](#16).          Sittings of courts etc                                                                          36
 
-[17](#17).          Grant of pardon, remission etc                                                          35
+[17](#17).          Grant of pardon, remission etc                                                          36
 
-[18](#18).          Continuation of Malay customs                                                        36
+[18](#18).          Continuation of Malay customs                                                        37
 
-[18A](#18A).       Exemption from customs duty of goods produced in the Territory 36
+[18A](#18A).       Exemption from customs duty of goods produced in the Territory 37
 
-[18B](#18B).       Disposal of land                                                                                 36
+[18B](#18B).       Disposal of land                                                                                 37
 
-[19](#19).          Audit                                                                                                  37
+[19](#19).          Audit                                                                                                  38
 
-[20](#20).          Regulations                                                                                        37
+[20](#20).          Regulations                                                                                        38
 
 **Schedule—Laws continuing in force in the Territory on and after 1 July 1992** 
 
@@ -137,23 +137,29 @@ Prepared by the Office of Legislative Drafting,
 
 ## An Act to provide for the acceptance of the Cocos or Keeling Islands as a Territory under the Authority of the Commonwealth and to provide for the Government of that Territory
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
+## <span style="font-size:11.0pt;display:none">Do not delete</span> : <span class="CharPartText">Part placeholder</span>
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 Preamble
 
-                   WHEREAS the islands named the Cocos or Keeling Islands (being the islands referred to in section 4) are governed and administered as part of the Colony of Singapore, in pursuance of the Singapore Colony Order in Council, 1955, being an Order in Council dated 1 February 1955, made by Her Majesty by virtue and in exercise of the powers vested in Her Majesty by the Imperial Acts entitled the British Settlements Acts, 1887 and 1945, and the Straits Settlements (Repeal) Act, 1946: 
+                    WHEREAS the islands named the Cocos or Keeling Islands (being the islands referred to in section 4) are governed and administered as part of the Colony of Singapore, in pursuance of the Singapore Colony Order in Council, 1955, being an Order in Council dated 1 February 1955, made by Her Majesty by virtue and in exercise of the powers vested in Her Majesty by the Imperial Acts entitled the British Settlements Acts, 1887 and 1945, and the Straits Settlements (Repeal) Act, 1946: 
 
-                   AND WHEREAS by the _Cocos (Keeling) Islands (Request and Consent) Act 1954_ the Parliament of the Commonwealth requested, and consented to, the enactment by the Parliament of the United Kingdom of an Act enabling the Queen to place the Cocos or Keeling Islands under the authority of the Commonwealth and making provision for matters incidental to the placing of those Islands under that authority:
+                    AND WHEREAS by the _Cocos (Keeling) Islands (Request and Consent) Act 1954_ the Parliament of the Commonwealth requested, and consented to, the enactment by the Parliament of the United Kingdom of an Act enabling the Queen to place the Cocos or Keeling Islands under the authority of the Commonwealth and making provision for matters incidental to the placing of those Islands under that authority:
 
-                   AND WHEREAS the Government of the Commonwealth has also requested, and consented to, the enactment by the Parliament of the United Kingdom of such an Act:
+                    AND WHEREAS the Government of the Commonwealth has also requested, and consented to, the enactment by the Parliament of the United Kingdom of such an Act:
 
-                   AND WHEREAS by the Imperial Act entitled the Cocos Islands Act, 1955, it is provided that Her Majesty may, by Order in Council, direct that the Cocos or Keeling Islands shall, on such date as may be specified in the Order, cease to form part of the Colony of Singapore and be placed under the authority of the Commonwealth: 
+                    AND WHEREAS by the Imperial Act entitled the Cocos Islands Act, 1955, it is provided that Her Majesty may, by Order in Council, direct that the Cocos or Keeling Islands shall, on such date as may be specified in the Order, cease to form part of the Colony of Singapore and be placed under the authority of the Commonwealth: 
 
-                   AND WHEREAS by the Constitution it is provided that the Parliament may make laws for the government of any territory placed by the Queen under the authority of and accepted by the Commonwealth:
+                    AND WHEREAS by the Constitution it is provided that the Parliament may make laws for the government of any territory placed by the Queen under the authority of and accepted by the Commonwealth:
 
-                   BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and the House of Representatives of the Commonwealth of Australia, as follows:
-
- 
+                    BE it therefore enacted by the Queen’s Most Excellent Majesty, the Senate, and the House of Representatives of the Commonwealth of Australia, as follows:
 
 ## Part I—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -254,6 +260,8 @@ Preamble
              (2)  In this Act, a reference to an Act is a reference to the whole or a part of that Act, or to the whole or a part of a law made under that Act.
 
 ## Part II—Acceptance of the Islands
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="5"></a>5  Acceptance of Cocos or Keeling Islands
 
@@ -511,7 +519,7 @@ Note:          Under section 19 of the _Acts Interpretation Ac
 
                      (g)  an authority (whether incorporated or not) established by an Ordinance or a law made under an Ordinance;
 
-                     (h)  a person appointed or engaged under the _Public Service Act 1999_;
+                     (h)  an officer or employee within the meaning of the _Public Service Act 1922_;
 
                       (i)  a person employed under a Western Australian law, or a Western Australia law as in force in the Territory under section 8A;
 
@@ -687,6 +695,8 @@ no Ordinance containing a provision being the same in substance as a provision o
 
 ## Part IVA—Trials on indictment
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="15AA"></a>15AA  Trials on indictment to be by judge and jury
 
                    The trial on indictment of an offence against a law in force in the Territory shall be by judge and jury.
@@ -801,11 +811,11 @@ that apply for the purposes of the trial of a criminal matter in the Supreme Cou
 
                      (b)  having so attended, withdraw from the presence of the court, without the permission of the Sheriff, before being discharged or excused by a judge of the court or the Sheriff.
 
-                    Penalty:  $200 or imprisonment for 1 month.
+                    Penalty: $200 or imprisonment for 1 month.
 
              (3)  A person shall not personate, or attempt to personate, a person who is a juror for the purpose of sitting on a jury.
 
-                    Penalty:  $1,000 or imprisonment for 6 months.
+                    Penalty: $1,000 or imprisonment for 6 months.
 
              (4)  A person shall not:
 
@@ -815,7 +825,7 @@ that apply for the purposes of the trial of a criminal matter in the Supreme Cou
 
                      (c)  being a juror, accept such a payment or benefit.
 
-                    Penalty:  Imprisonment for 5 years.
+                    Penalty: Imprisonment for 5 years.
 
 ##### <a id="15AF"></a>15AF  Removal of accused to State to stand trial
 
@@ -892,6 +902,8 @@ and sections 9 and 10A of that Act apply (so far as they are capable of applying
 the Commonwealth shall, on application by the person to the Secretary, provide the person with means to enable the person to return to the Territory.
 
 ## Part IVAA—Conferral of Territory jurisdiction on Western Australian courts etc.
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="15AAA"></a>15AAA  Definitions
 
@@ -1033,11 +1045,13 @@ the Commonwealth shall, on application by the person to the Secretary, provide t
 
 ## Part V—Miscellaneous
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="15A"></a>15A  Appointment of officers
 
-             (1)  In spite of the _Public Service Act 1999_, a law of the Territory may make provision for and in relation to the appointment and employment of persons for the purposes of the government of the Territory.
+             (1)  In spite of the _Public Service Act 1922_, a law of the Territory may make provision for and in relation to the appointment and employment of persons for the purposes of the government of the Territory.
 
-             (3)  Nothing in this section shall be deemed to prevent the appointment or employment of persons under the _Public Service Act 1999_ in its application to the Territory.
+             (3)  Nothing in this section shall be deemed to prevent the appointment or employment of persons under the _Public Service Act 1922_ in its application to the Territory.
 
 ##### <a id="16"></a>16  Sittings of courts etc.
 
@@ -1098,6 +1112,10 @@ the Commonwealth shall, on application by the person to the Secretary, provide t
 # Schedule—Laws continuing in force in the Territory on and after 1 July 1992
 
 _Section 8_
+
+## <span style="font-size:11.0pt;display:none">Do not delete</span> : <span class="CharPartText">Part placeholder</span>
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 _Administration Ordinance 1975_
 
@@ -1269,7 +1287,7 @@ p. 3665)</div>
     <div>12 June 1975</div>
   </td>
   <td>
-    <div>Ss. 4 and 38: 1 July 1975 ( <i>see</i>s. 2(1) and <i>Gazette</i>1975, No. S122) 
+    <div>Ss. 4 and 38: 1 July 1975 ( <i>see</i>s. 2(1) and <i>Gazette</i> 1975, No. S122) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1554,23 +1572,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 15) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 297, 298): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
@@ -1605,7 +1606,7 @@ Remainder: Royal Assent</div>
 
                   (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-(_h_)     The _Workplace Relations and Other Legislation Amendment Act 1996_ was amended by Schedule 3 (items 1 and 2) of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
+(_h_)     The _Workplace Relations and Other Legislation Amendment Act 1996_  was amended by Schedule 3 (items 1 and 2) of the _Workplace Relations and Other Legislation Amendment Act (No. 2) 1996_, subsection 2(4) of which provides as follows:
 
                   (4)   The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
 
@@ -1615,11 +1616,7 @@ The _Workplace Relations and Other Legislation Amendment Act 1996_ received the 
 
                   (1)   Subject to subsections (2), (3) and (4), this Act commences on the day on which it receives the Royal Assent.
 
-(_j_)      The _Cocos (Keeling) Islands Act 1955_ was amended by Schedule 1 (items 297 and 298) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provides as follows:
-
-                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
-
-                  (2)   Subject to this section, this Act commences at the commencing time.
+ 
 
 ## Table of Amendments
 
@@ -1809,7 +1806,7 @@ The _Workplace Relations and Other Legislation Amendment Act 1996_ received the 
     <div></div>
   </td>
   <td>
-    <div>am. No. 211, 1992; No. 113, 1994; No. 146, 1999</div>
+    <div>am. No. 211, 1992; No. 113, 1994</div>
   </td>
 </tr>
 <tr>
@@ -2101,7 +2098,7 @@ The _Workplace Relations and Other Legislation Amendment Act 1996_ received the 
     <div></div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 65, 1985; No. 104, 1992; No. 146, 1999</div>
+    <div>am. No. 216, 1973; No. 65, 1985; No. 104, 1992</div>
   </td>
 </tr>
 <tr>
