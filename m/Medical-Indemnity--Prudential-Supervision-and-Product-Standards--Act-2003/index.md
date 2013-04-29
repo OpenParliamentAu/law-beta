@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00468/Html/e8c6b90c-f795-4a63-8bdf-54fb246dd39a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00425/Html/e5c4267e-0b5d-49b4-9f36-73f145ab9f11_files/image001.gif)
 
 # Medical Indemnity (Prudential Supervision and Product Standards) Act 2003
 
 **Act No. 37 of 2003 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 7 June 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -169,8 +169,6 @@ General
                     <a name="asic"></a>**_ASIC_** means the Australian Securities and Investments Commission.
 
                     <a name="breach-minimum-cover-rule"></a>**_breach the minimum cover rules_** has the meaning given by subsection (8).
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
 
                     <a name="claim"></a>**_claim_**:
 
@@ -1514,7 +1512,7 @@ Offences—giving notice
 
                      (a)  the insurer provides medical indemnity cover under subsection 26A(1) or 26C(1); and
 
-                     (b)  the insurer does not, within the notification period, give to the Chief Executive Medicare a written notice stating:
+                     (b)  the insurer does not, within the notification period, give to the Chief Executive Officer of Medicare Australia a written notice stating:
 
                               (i)  the name of the practitioner for whom the medical indemnity cover is provided; and
 
@@ -1808,7 +1806,7 @@ Remainder: Royal Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 358, 359): 1 July 2011</div>
+    <div>Schedule 4 (items 358, 359): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1974,7 +1972,7 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 77, 2004; No. 32, 2011</div>
+    <div>am. No. 77, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2206,7 +2204,7 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 25 and 111, 2005; No. 116, 2006; No. 32, 2011</div>
+    <div>am. Nos. 25 and 111, 2005; No. 116, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2217,5 +2215,25 @@ _(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity L
     <div>ad. No. 77, 2004</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 358  Subsection 4(1)
+
+Insert:
+
+                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 359  Paragraph 26D(2)(b)
+
+Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Executive Medicare”.
+
+As at 7 June 2011 the amendments are not incorporated in this compilation.
 
  
