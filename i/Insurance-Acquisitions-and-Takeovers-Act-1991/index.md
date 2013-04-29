@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00717/Html/a796af5c-7cb2-46e8-8071-eac69f7b7252_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00081/Html/InsAcqisTakeovers1991_WD02_image001.gif)
 
 # Insurance Acquisitions and Takeovers Act 1991
 
 **Act No. 6 of 1992 as amended**
 
-This compilation was prepared on 15 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 February 2010
+ taking into account amendments up to Act No. 75 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,169 +13,176 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Objects of Act and simplified outline of Act
+[3](#3).            Objects of Act and simplified outline of Act                                      1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       2
 
-[5](#5).            What is contrary to the public interest
+[5](#5).            What is contrary to the public interest                                                8
 
-[6](#6).            Entering into an agreement or arrangement
+[6](#6).            Entering into an agreement or arrangement                                          9
 
-[7](#7).            Associates
+[7](#7).            Associates                                                                                            9
 
-[8](#8).            Proposals to acquire shares or assets
+[8](#8).            Proposals to acquire shares or assets                                                10
 
-[9](#9).            Meaning of _entitled to acquire_
+[9](#9).            Meaning of _entitled to acquire_                                                           11
 
-[10](#10).          Meaning of _interest in an asset_
+[10](#10).          Meaning of _interest in an asset_                                                          11
 
-[11](#11).          Meaning of _interest in a share_
+[11](#11).          Meaning of _interest in a share_                                                           12
 
-[12](#12).          Certain interests in shares to be disregarded
+[12](#12).          Certain interests in shares to be disregarded                                      13
 
-[13](#13).          Voting power
+[13](#13).          Voting power                                                                                     13
 
-[14](#14).          Associate‑inclusive control interest in a company
+[14](#14).          Associate-inclusive control interest in a company                            14
 
-[15](#15).          Direct control interests in a company
+[15](#15).          Direct control interests in a company                                               14
 
-[16](#16).          Power to appoint director
+[16](#16).          Power to appoint director                                                                 15
 
-[17](#17).          Deemed notices—options
+[17](#17).          Deemed notices—options                                                                 16
 
-[18](#18).          Application of Act
+[18](#18).          Application of Act                                                                            16
 
-[19](#19).          Severability
+[19](#19).          Severability                                                                                        16
 
-**Part 3—Control of acquisition or leasing of assets of Australian‑registered insurance companies** 
-
-    **Division 1—Interpretation**
-
-[35](#35).          Interpretation
-
-[36](#36).          Meaning of _trigger proposal_—proposals to acquire or lease assets of Australian‑registered insurance companies
-
-[37](#37).          When trigger proposal carried out
-
-    **Division 2—Notification**
-
-[38](#38).          Compulsory notification of trigger proposal
-
-[40](#40).          Trigger proposal must not be carried out before a go‑ahead decision is given
-
-    **Division 3—Go‑ahead decisions**
-
-[41](#41).          Unconditional or conditional go‑ahead decision
-
-    **Division 4—Permanent restraining orders and divestment orders**
-
-[43](#43).          Permanent restraining order
-
-[44](#44).          Divestment order
-
-[45](#45).          Offence of contravening permanent restraining order or divestment order
-
-[46](#46).          Publication of orders
-
-[47](#47).          When orders come into operation
-
-[48](#48).          Revocation of orders
-
-**Part 4—Control of agreements relating to the directorate of Australian‑registered insurance companies** 
+**Part 3—Control of acquisition or leasing of assets of Australian-registered insurance companies** 
 
     **Division 1—Interpretation**
 
-[49](#49).          Interpretation
+[35](#35).          Interpretation                                                                                     17
 
-[50](#50).          Meaning of _trigger proposal_—agreements relating to the directorate of Australian‑registered insurance companies
+[36](#36).          Meaning of _trigger proposal_—proposals to acquire or lease assets of Australian-registered insurance companies                                                                                                           17
 
-[51](#51).          When trigger proposal carried out
+[37](#37).          When trigger proposal carried out                                                     20
 
     **Division 2—Notification**
 
-[52](#52).          Compulsory notification of trigger proposal
+[38](#38).          Compulsory notification of trigger proposal                                     21
 
-[54](#54).          Trigger proposal must not be carried out before a go‑ahead decision is given
+[40](#40).          Trigger proposal must not be carried out before a go-ahead decision is given         21
 
-    **Division 3—Go‑ahead decisions**
+    **Division 3—Go-ahead decisions**
 
-[55](#55).          Unconditional or conditional go‑ahead decision
+[41](#41).          Unconditional or conditional go-ahead decision                                23
 
     **Division 4—Permanent restraining orders and divestment orders**
 
-[57](#57).          Permanent restraining order
+[43](#43).          Permanent restraining order                                                               24
 
-[58](#58).          Divestment order
+[44](#44).          Divestment order                                                                               24
 
-[59](#59).          Offence of contravening permanent restraining order or divestment order
+[45](#45).          Offence of contravening permanent restraining order or divestment order              25
 
-[60](#60).          Publication of orders
+[46](#46).          Publication of orders                                                                          25
 
-[61](#61).          When orders come into operation
+[47](#47).          When orders come into operation                                                      25
 
-[62](#62).          Revocation of orders
+[48](#48).          Revocation of orders                                                                          26
+
+**Part 4—Control of agreements relating to the directorate of Australian-registered insurance companies** 
+
+    **Division 1—Interpretation**
+
+[49](#49).          Interpretation                                                                                     27
+
+[50](#50).          Meaning of _trigger proposal_—agreements relating to the directorate of Australian-registered insurance companies                                                                                                           27
+
+[51](#51).          When trigger proposal carried out                                                     28
+
+    **Division 2—Notification**
+
+[52](#52).          Compulsory notification of trigger proposal                                     29
+
+[54](#54).          Trigger proposal must not be carried out before a go-ahead decision is given         29
+
+    **Division 3—Go-ahead decisions**
+
+[55](#55).          Unconditional or conditional go-ahead decision                                31
+
+    **Division 4—Permanent restraining orders and divestment orders**
+
+[57](#57).          Permanent restraining order                                                               32
+
+[58](#58).          Divestment order                                                                               32
+
+[59](#59).          Offence of contravening permanent restraining order or divestment order              33
+
+[60](#60).          Publication of orders                                                                          33
+
+[61](#61).          When orders come into operation                                                      33
+
+[62](#62).          Revocation of orders                                                                          33
 
 **Part 5—Judicial enforcement of Ministerial orders**
 
-[63](#63).          Federal Court may enforce Ministerial orders
+[63](#63).          Federal Court may enforce Ministerial orders                                   34
 
-**Part 6—Anti‑avoidance**
+**Part 6—Anti-avoidance**
 
-[64](#64).          Anti‑avoidance
+[64](#64).          Anti-avoidance                                                                                   36
 
-**Part 7—Decision‑making principles**
+**Part 7—Decision-making principles**
 
-[65](#65).          Decision‑making principles
+[65](#65).          Decision-making principles                                                               37
 
 **Part 8—Review of decisions**
 
-[66](#66).          Reconsideration of reviewable decision
+[66](#66).          Reconsideration of reviewable decision                                             38
 
-[67](#67).          Review of decisions by Administrative Appeals Tribunal
+[67](#67).          Review of decisions by Administrative Appeals Tribunal               38
 
-[68](#68).          Statements to accompany notification of decisions
+[68](#68).          Statements to accompany notification of decisions                          39
 
 **Part 9—Miscellaneous**
 
-[69](#69).          Delegation
+[69](#69).          Delegation                                                                                          41
 
-[70](#70).          Concurrent operation of State/Territory laws
+[70](#70).          Concurrent operation of State/Territory laws                                   41
 
-[71](#71).          Validity of acts done in contravention of this Act
+[71](#71).          Validity of acts done in contravention of this Act                            41
 
-[72](#72).          Minister’s consent for criminal proceedings
+[72](#72).          Minister’s consent for criminal proceedings                                     41
 
-[73](#73).          Minister may obtain information and documents
+[73](#73).          Minister may obtain information and documents                             41
 
-[75](#75).          APRA Act secrecy provisions apply
+[75](#75).          APRA Act secrecy provisions apply                                               43
 
-[76](#76).          Conduct by directors, servants and agents
+[76](#76).          Conduct by directors, servants and agents                                        43
 
-[77](#77).          Company’s financial statements to be prima facie evidence of value of its assets
+[77](#77).          Company’s financial statements to be prima facie evidence of value of its assets  45
 
-[78](#78).          Company’s financial statements to be prima facie evidence of total net liabilities in respect of its contracts of life insurance
+[78](#78).          Company’s financial statements to be prima facie evidence of total net liabilities in respect of its contracts of life insurance                                                                                            45
 
-[79](#79).          Company’s financial statements to be prima facie evidence of its unearned premiums provision and its outstanding claims provision
+[79](#79).          Company’s financial statements to be prima facie evidence of its unearned premiums provision and its outstanding claims provision                                                                                 46
 
-[80](#80).          _Foreign Acquisitions and Takeovers Act 1975_ and this Act to operate independently of each other
+[80](#80).          _Foreign Acquisitions and Takeovers Act 1975_ and this Act to operate independently of each other     47
 
-[81](#81).          Transitional—pre‑commencement acquisitions etc 
+[81](#81).          Transitional—pre-commencement acquisitions etc                           47
 
-[82](#82).          Regulations
+[82](#82).          Regulations                                                                                        47
+
+**Part 10—Consequential amendments**
+
+[83](#83).          Consequential amendments                                                               49
+
+**Schedule—Consequential amendments** 
 
 **Notes** 
 
-## An Act relating to the control of Australian‑registered insurance companies, and for other purposes
+## An Act relating to the control of Australian-registered insurance companies, and for other purposes
 
 ## Part 1—Preliminary
 
@@ -199,15 +206,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ·<span style="font:7.0pt " new="">         </span>To set out rules about the **control** of, and the **compulsory notification** of proposals relating to:
 
-               (a)     the **acquisition** or **leasing** of **assets** of Australian‑registered insurance companies (Part 3); or
+               (a)     the **acquisition** or **leasing** of **assets** of Australian-registered insurance companies (Part 3); or
 
-              (b)     the entering into of **agreements** relating to **directors** of Australian‑registered insurance companies (Part 4).
+               (b)     the entering into of **agreements** relating to **directors** of Australian-registered insurance companies (Part 4).
 
 ·<span style="font:7.0pt " new="">         </span>To protect the **public interest** in a number of ways, including: 
 
-               (a)     ensuring that the affairs of Australian‑registered insurance companies are carried out in a **prudential manner**; and 
+               (a)     ensuring that the affairs of Australian-registered insurance companies are carried out in a **prudential manner**; and 
 
-              (b)     preventing **unsuitable persons** from being in a **position of influence** over Australian‑registered insurance companies; and 
+               (b)     preventing **unsuitable persons** from being in a **position of influence** over Australian-registered insurance companies; and 
 
                (c)     preventing the **undue concentration of economic power** in the Australian general insurance industry, in the Australian life insurance industry or in the Australian financial system. 
 
@@ -221,7 +228,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 <li class="BoxList" style="margin-left:18.0pt;text-indent:-18.0pt">·<span style="font:7.0pt " new="">        
 
-</span>A proposal can be **carried out** if the Minister makes a **go‑ahead decision**.</li>
+</span>A proposal can be **carried out** if the Minister makes a **go-ahead decision**.</li>
 
 ·<span style="font:7.0pt " new="">         </span>If an unauthorised proposal is carried out, the Minister can make a **divestment order**.
 
@@ -255,13 +262,13 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="associ"></a>**_associate_** has the meaning given by section 7.
 
-                    <a name="associ-inclus-control-interest"></a>**_associate‑inclusive control interest_** has the meaning given by section 14.
+                    <a name="associ-inclus-control-interest"></a>**_associate-inclusive control interest_** has the meaning given by section 14.
 
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
                     <a name="australian-gener-insur-industri"></a>**_Australian general insurance industry_** means so much of the Australian insurance industry as does not consist of the Australian life insurance industry.
 
-                    <a name="australian-regist-insur-compani"></a>**_Australian‑registered insurance company_** means:
+                    <a name="australian-regist-insur-compani"></a>**_Australian-registered insurance company_** means:
 
                      (a)  a company authorised under the _Insurance Act 1973_ to carry on insurance business; or
 
@@ -333,15 +340,15 @@ but does not include:
 
                     <a name="interest-share"></a>**_interest in a share_** has the meaning given by section 11.
 
-                    <a name="lend-monei"></a>**_lending money_** includes providing non‑equity finance where the provision of the finance may reasonably be regarded as equivalent to lending money.
+                    <a name="lend-monei"></a>**_lending money_** includes providing non-equity finance where the provision of the finance may reasonably be regarded as equivalent to lending money.
 
                     <a name="life-insur-busi"></a>**_life insurance business_** has the same meaning as in the _Life Insurance Act 1995_.
 
                     <a name="moneylend-agreem"></a>**_moneylending agreement_** means an agreement entered into in good faith in the ordinary course of carrying on a business of lending money, but does not include an agreement dealing with any matter unrelated to the carrying on of that business.
 
-                    <a name="non-arm-length-arrang"></a>**_non‑arm’s length arrangement_** means an arrangement where the parties to the arrangement are not dealing with each other at arm’s length in relation to the arrangement.
+                    <a name="non-arm-length-arrang"></a>**_non-arm’s length arrangement_** means an arrangement where the parties to the arrangement are not dealing with each other at arm’s length in relation to the arrangement.
 
-                    <a name="non-arm-length-transact"></a>**_non‑arm’s length transaction_** means a transaction where the parties to the transaction are not dealing with each other at arm’s length in relation to the transaction.
+                    <a name="non-arm-length-transact"></a>**_non-arm’s length transaction_** means a transaction where the parties to the transaction are not dealing with each other at arm’s length in relation to the transaction.
 
                     <a name="offic"></a>**_officer_**, in relation to a company, includes:
 
@@ -411,7 +418,7 @@ would have been shown in those statements as the value of the asset at that time
 
 ##### <a id="5"></a>5  What is contrary to the public interest
 
-             (1)  For the purposes of the application of this Act to an Australian‑registered insurance company, a particular matter is taken to be contrary to the public interest if it is:
+             (1)  For the purposes of the application of this Act to an Australian-registered insurance company, a particular matter is taken to be contrary to the public interest if it is:
 
                      (a)  likely to adversely affect the prudential conduct of the affairs of the company; or
 
@@ -477,7 +484,7 @@ and a reference in this Act to an arrangement is to be construed accordingly.
 
                       (j)  a company where the person is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of the company;
 
-                     (k)  a company in which the person has, apart from this paragraph, an associate‑inclusive control interest of not less than 15%;
+                     (k)  a company in which the person has, apart from this paragraph, an associate-inclusive control interest of not less than 15%;
 
                       (l)  a person who is, because of this subsection, an associate of any other person who is an associate of the person (including a person who is an associate of the person by any other application or applications of this paragraph).
 
@@ -501,7 +508,7 @@ then, the second person is taken to be an associate of the first person for the 
 
                      (c)  takes part in, or proposes to take part in, negotiations with a view to the acquisition of the shares or assets.
 
-             (2)  A reference in this section to an asset includes a reference to any or all of the interests, rights or benefits of an Australian‑registered insurance company under a contract of insurance where the company is the insurer.
+             (2)  A reference in this section to an asset includes a reference to any or all of the interests, rights or benefits of an Australian-registered insurance company under a contract of insurance where the company is the insurer.
 
 ##### <a id="9"></a>9  Meaning of _entitled to acquire_ 
 
@@ -573,7 +580,7 @@ then, the second person is taken to be an associate of the first person for the 
 
 ##### <a id="13"></a>13  Voting power
 
-             (1)  A reference in this Act to the voting power in a company is a reference to the total rights of shareholders to vote, or participate in any decision‑making, concerning any of the following:
+             (1)  A reference in this Act to the voting power in a company is a reference to the total rights of shareholders to vote, or participate in any decision-making, concerning any of the following:
 
                      (a)  the making of distributions of capital or profits of the company to its shareholders;
 
@@ -587,7 +594,7 @@ then, the second person is taken to be an associate of the first person for the 
 
                      (b)  whether or not based on legal or equitable rights.
 
-             (3)  If the percentage of total rights to vote or participate in decision‑making differs as between different types of voting or decision‑making, the highest of those percentages applies for the purposes of this section.
+             (3)  If the percentage of total rights to vote or participate in decision-making differs as between different types of voting or decision-making, the highest of those percentages applies for the purposes of this section.
 
              (4)  If a company:
 
@@ -597,25 +604,25 @@ then, the second person is taken to be an associate of the first person for the 
 
 this section has effect as if the members or policy holders of the company were shareholders in the company.
 
-##### <a id="14"></a>14  Associate‑inclusive control interest in a company
+##### <a id="14"></a>14  Associate-inclusive control interest in a company
 
-             (1)  A particular type of associate‑inclusive control interest that a person holds in a company at a particular time is the aggregate of:
+             (1)  A particular type of associate-inclusive control interest that a person holds in a company at a particular time is the aggregate of:
 
                      (a)  the direct control interests in the company of that type that the person holds at that time; and
 
                      (b)  the direct control interests in the company of that type held at that time by associates of the person.
 
-             (2)  In calculating the associate‑inclusive control interest that a person holds in a company, a direct control interest held because of subsection 15(5) is not to be counted under paragraph (1)(a) to the extent to which it is calculated by reference to a direct control interest in the company that is taken into account under paragraph (1)(b).
+             (2)  In calculating the associate-inclusive control interest that a person holds in a company, a direct control interest held because of subsection 15(5) is not to be counted under paragraph (1)(a) to the extent to which it is calculated by reference to a direct control interest in the company that is taken into account under paragraph (1)(b).
 
 ##### <a id="15"></a>15  Direct control interests in a company
 
-             (1)  A person holds a direct control interest in a company at a particular time equal to the percentage of the total paid‑up share capital of the company in which the person holds an interest at that time.
+             (1)  A person holds a direct control interest in a company at a particular time equal to the percentage of the total paid-up share capital of the company in which the person holds an interest at that time.
 
              (2)  A person also holds a direct control interest in a company at a particular time equal to the percentage of the voting power in the company that the person is in a position to control at that time.
 
-             (3)  A person also holds a direct control interest in a company at a particular time equal to the percentage that the person holds, or is entitled to acquire, at that time of the total rights to distributions of capital or profits of the company to its shareholders on winding‑up.
+             (3)  A person also holds a direct control interest in a company at a particular time equal to the percentage that the person holds, or is entitled to acquire, at that time of the total rights to distributions of capital or profits of the company to its shareholders on winding-up.
 
-             (4)  A person also holds a direct control interest in a company at a particular time equal to the percentage that the person holds, or is entitled to acquire, at that time of the total rights to distributions of capital or profits of the company to its shareholders, otherwise than on winding‑up.
+             (4)  A person also holds a direct control interest in a company at a particular time equal to the percentage that the person holds, or is entitled to acquire, at that time of the total rights to distributions of capital or profits of the company to its shareholders, otherwise than on winding-up.
 
              (5)  If:
 
@@ -625,7 +632,7 @@ this section has effect as if the members or policy holders of the company were 
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00717/Html/a796af5c-7cb2-46e8-8071-eac69f7b7252_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00081/Html/InsAcqisTakeovers1991_WD02_image002.gif)
 
 where:
 
@@ -641,7 +648,7 @@ where:
 
                      (a)  the person has the power (whether exercisable with or without the consent or concurrence of any other person) to veto such an appointment; or
 
-                     (b)  a person’s appointment as a director of the company follows necessarily from that person being a director or other officer of the first‑mentioned person.
+                     (b)  a person’s appointment as a director of the company follows necessarily from that person being a director or other officer of the first-mentioned person.
 
 ##### <a id="17"></a>17  Deemed notices—options
 
@@ -659,7 +666,7 @@ where:
 
 ##### <a id="19"></a>19  Severability
 
-             (1)  If this Act would be wholly or partly invalid apart from this subsection, this Act has effect as if each reference in this Act to an Australian‑registered insurance company were, by express provision, confined to an Australian‑registered insurance company that:
+             (1)  If this Act would be wholly or partly invalid apart from this subsection, this Act has effect as if each reference in this Act to an Australian-registered insurance company were, by express provision, confined to an Australian-registered insurance company that:
 
                      (a)  carries on as its sole or principal business the business of insurance; or
 
@@ -671,7 +678,7 @@ where:
 
                      (e)  is incorporated in a Territory.
 
-## Part 3—Control of acquisition or leasing of assets of Australian‑registered insurance companies
+## Part 3—Control of acquisition or leasing of assets of Australian-registered insurance companies
 
 ### Division 1—Interpretation
 
@@ -681,47 +688,47 @@ where:
 
                     <a name="breach-condition-offenc"></a>**_breach of condition offence_** means an offence against subsection 41(3).
 
-                    <a name="condition-go-ahead-decision"></a>**_conditional go‑ahead decision_** means a go‑ahead decision that is subject to conditions.
+                    <a name="condition-go-ahead-decision"></a>**_conditional go-ahead decision_** means a go-ahead decision that is subject to conditions.
 
                     <a name="divest-order"></a>**_divestment order_** means an order under section 44.
 
-                    <a name="go-ahead-decision"></a>**_go‑ahead decision_** means a decision under subsection 41(1).
+                    <a name="go-ahead-decision"></a>**_go-ahead decision_** means a decision under subsection 41(1).
 
                     <a name="perman-restrain-order"></a>**_permanent restraining order_** means an order under section 43.
 
                     <a name="trigger-propos"></a>**_trigger proposal_** has the meaning given by section 36.
 
-##### <a id="36"></a>36  Meaning of _trigger proposal_—proposals to acquire or lease assets of Australian‑registered insurance companies
+##### <a id="36"></a>36  Meaning of _trigger proposal_—proposals to acquire or lease assets of Australian-registered insurance companies
 
                    If any of the following paragraphs applies:
 
                      (a)  both of the following conditions are satisfied:
 
-                              (i)  one or more persons propose to acquire assets of an Australian‑registered insurance company under a non‑arm’s length transaction;
+                              (i)  one or more persons propose to acquire assets of an Australian-registered insurance company under a non-arm’s length transaction;
 
                              (ii)  the sum of:
 
                                         (A)  the value of the assets proposed to be acquired; and
 
-                                        (B)  the total value of any assets of the company acquired by the persons or their associates under non‑arm’s length transactions in the 12‑month period before the date of the proposed acquisition;
+                                        (B)  the total value of any assets of the company acquired by the persons or their associates under non-arm’s length transactions in the 12-month period before the date of the proposed acquisition;
 
                                    is 15% or more of the total book value of the assets of the company as at that date;
 
                      (b)  both of the following conditions are satisfied:
 
-                              (i)  one or more persons propose to enter into a non‑arm’s length arrangement relating to the leasing or letting on hire of, or the granting of other rights to use, assets of an Australian‑registered insurance company;
+                              (i)  one or more persons propose to enter into a non-arm’s length arrangement relating to the leasing or letting on hire of, or the granting of other rights to use, assets of an Australian-registered insurance company;
 
                              (ii)  the sum of:
 
                                         (A)  the value of the assets concerned; and
 
-                                        (B)  if the persons or their associates have entered into one or more non‑arm’s length arrangements relating to the leasing or letting on hire of, or the granting of other rights to use, assets of the company, being arrangements entered into in the 12‑month period before the date when the proposed arrangement referred to in subparagraph (i) will be entered into—the total value of those assets;
+                                        (B)  if the persons or their associates have entered into one or more non-arm’s length arrangements relating to the leasing or letting on hire of, or the granting of other rights to use, assets of the company, being arrangements entered into in the 12-month period before the date when the proposed arrangement referred to in subparagraph (i) will be entered into—the total value of those assets;
 
                                    is 15% or more of the total book value of the assets of the company as at that date;
 
                      (c)  all of the following conditions are satisfied:
 
-                              (i)  one or more persons propose to acquire any or all of the interests, rights or benefits of an Australian‑registered insurance company under one or more contracts of life insurance where the company is the insurer;
+                              (i)  one or more persons propose to acquire any or all of the interests, rights or benefits of an Australian-registered insurance company under one or more contracts of life insurance where the company is the insurer;
 
                              (ii)  the company is registered under section 21 of the _Life Insurance Act 1995_;
 
@@ -729,13 +736,13 @@ where:
 
                                         (A)  the total net liabilities in respect of those contracts; and
 
-                                        (B)  if the persons or their associates have acquired any or all of the interests, rights or benefits of the company under one or more contracts of life insurance where the company is the insurer, being acquisitions that occurred in the 12‑month period before the date of the proposed acquisition referred to in subparagraph (i)—the total net liabilities in respect of those contracts;
+                                        (B)  if the persons or their associates have acquired any or all of the interests, rights or benefits of the company under one or more contracts of life insurance where the company is the insurer, being acquisitions that occurred in the 12-month period before the date of the proposed acquisition referred to in subparagraph (i)—the total net liabilities in respect of those contracts;
 
                                    is 15% or more of the total book net liabilities in respect of all of the company’s contracts of life insurance as at that date;
 
                      (d)  all of the following conditions are satisfied:
 
-                              (i)  one or more persons propose to acquire any or all of the interests, rights or benefits of an Australian‑registered insurance company under one or more contracts of insurance where the company is the insurer;
+                              (i)  one or more persons propose to acquire any or all of the interests, rights or benefits of an Australian-registered insurance company under one or more contracts of insurance where the company is the insurer;
 
                              (ii)  the company is authorised under the _Insurance Act 1973_ to carry on insurance business;
 
@@ -743,13 +750,13 @@ where:
 
                                         (A)  any reduction in the company’s unearned premiums provision resulting from the acquisition; and
 
-                                        (B)  if the persons or their associates have acquired any or all of the interests, rights or benefits of the company under one or more contracts of insurance where the company is the insurer, being acquisitions that occurred in the 12‑month period before the date of the proposed acquisition referred to in subparagraph (i)—the total of any reductions in the company’s unearned premiums provision resulting from those acquisitions;
+                                        (B)  if the persons or their associates have acquired any or all of the interests, rights or benefits of the company under one or more contracts of insurance where the company is the insurer, being acquisitions that occurred in the 12-month period before the date of the proposed acquisition referred to in subparagraph (i)—the total of any reductions in the company’s unearned premiums provision resulting from those acquisitions;
 
                                    is 15% or more of the company’s book unearned premiums provision as at that date;
 
                      (e)  all of the following conditions are satisfied:
 
-                              (i)  one or more persons propose to acquire any or all of the interests, rights or benefits of an Australian‑registered insurance company under one or more contracts of insurance where the company is the insurer;
+                              (i)  one or more persons propose to acquire any or all of the interests, rights or benefits of an Australian-registered insurance company under one or more contracts of insurance where the company is the insurer;
 
                              (ii)  the company is authorised under the _Insurance Act 1973_ to carry on insurance business;
 
@@ -757,7 +764,7 @@ where:
 
                                         (A)  any reduction in the company’s outstanding claims provision resulting from the acquisition; and
 
-                                        (B)  if the persons or their associates have acquired any or all of the interests, rights or benefits of the company under one or more contracts of insurance where the company is the insurer, being acquisitions that occurred in the 12‑month period before the date of the proposed acquisition referred to in subparagraph (i)—the total of any reductions in the company’s outstanding claims provision resulting from those acquisitions;
+                                        (B)  if the persons or their associates have acquired any or all of the interests, rights or benefits of the company under one or more contracts of insurance where the company is the insurer, being acquisitions that occurred in the 12-month period before the date of the proposed acquisition referred to in subparagraph (i)—the total of any reductions in the company’s outstanding claims provision resulting from those acquisitions;
 
                                    is 15% or more of the company’s book outstanding claims provision as at that date;
 
@@ -795,33 +802,33 @@ the person is guilty of an offence punishable on conviction by imprisonment for 
 
 Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
-##### <a id="40"></a>40  Trigger proposal must not be carried out before a go‑ahead decision is given
+##### <a id="40"></a>40  Trigger proposal must not be carried out before a go-ahead decision is given
 
                    If:
 
                      (a)  a person carries out a trigger proposal; and
 
-                     (b)  the Minister did not give a go‑ahead decision in relation to the proposal before the relevant acquisition occurred or the relevant arrangement was entered into;
+                     (b)  the Minister did not give a go-ahead decision in relation to the proposal before the relevant acquisition occurred or the relevant arrangement was entered into;
 
 the person commits an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 
 Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
-### Division 3—Go‑ahead decisions
+### Division 3—Go-ahead decisions
 
-##### <a id="41"></a>41  Unconditional or conditional go‑ahead decision
+##### <a id="41"></a>41  Unconditional or conditional go-ahead decision
 
-             (1)  The Minister may make a decision (in this Part called a **_go‑ahead decision_**) that the Commonwealth Government has no objection to a trigger proposal, either:
+             (1)  The Minister may make a decision (in this Part called a **_go-ahead decision_**) that the Commonwealth Government has no objection to a trigger proposal, either:
 
                      (a)  unconditionally; or
 
                      (b)  so long as the person concerned complies with such conditions as the Minister considers are necessary in order that the proposal, if carried out, will not be contrary to the public interest.
 
-             (2)  If the Minister makes a go‑ahead decision, the person must be given written advice of the decision, and of the conditions (if any) applicable to the decision, before the end of 10 days after the day on which the decision is made.
+             (2)  If the Minister makes a go-ahead decision, the person must be given written advice of the decision, and of the conditions (if any) applicable to the decision, before the end of 10 days after the day on which the decision is made.
 
              (3)  If:
 
-                     (a)  the person is given written advice of the go‑ahead decision within the period of 10 days; and
+                     (a)  the person is given written advice of the go-ahead decision within the period of 10 days; and
 
                      (b)  the person carries out the proposal; and
 
@@ -833,7 +840,7 @@ the person is guilty of an offence punishable on conviction by imprisonment for 
 
 Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
-             (4)  If the Minister makes a go‑ahead decision in relation to a trigger proposal, the Minister is not empowered to make a permanent restraining order in relation to the trigger proposal.
+             (4)  If the Minister makes a go-ahead decision in relation to a trigger proposal, the Minister is not empowered to make a permanent restraining order in relation to the trigger proposal.
 
 ### Division 4—Permanent restraining orders and divestment orders
 
@@ -861,7 +868,7 @@ the Minister may, for remedial purposes, make an order (in this Part called a **
 
              (4)  If:
 
-                     (a)  a person is given written advice of a go‑ahead decision before the end of 10 days after the day on which the decision is made; and
+                     (a)  a person is given written advice of a go-ahead decision before the end of 10 days after the day on which the decision is made; and
 
                      (b)  the person carries out the proposal concerned;
 
@@ -893,7 +900,7 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
              (2)  The Minister must not revoke a permanent restraining order or divestment order if the Minister is satisfied that it would be contrary to the public interest to do so.
 
-## Part 4—Control of agreements relating to the directorate of Australian‑registered insurance companies
+## Part 4—Control of agreements relating to the directorate of Australian-registered insurance companies
 
 ### Division 1—Interpretation
 
@@ -903,41 +910,41 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
                     <a name="breach-condition-offenc"></a>**_breach of condition offence_** means an offence against subsection 55(3).
 
-                    <a name="condition-go-ahead-decision"></a>**_conditional go‑ahead decision_** means a go‑ahead decision that is subject to conditions.
+                    <a name="condition-go-ahead-decision"></a>**_conditional go-ahead decision_** means a go-ahead decision that is subject to conditions.
 
                     <a name="divest-order"></a>**_divestment order_** means an order under section 58.
 
-                    <a name="go-ahead-decision"></a>**_go‑ahead decision_** means a decision under subsection 55(1).
+                    <a name="go-ahead-decision"></a>**_go-ahead decision_** means a decision under subsection 55(1).
 
                     <a name="perman-restrain-order"></a>**_permanent restraining order_** means an order under section 57.
 
                     <a name="trigger-propos"></a>**_trigger proposal_** has the meaning given by section 50.
 
-##### <a id="50"></a>50  Meaning of _trigger proposal_—agreements relating to the directorate of Australian‑registered insurance companies
+##### <a id="50"></a>50  Meaning of _trigger proposal_—agreements relating to the directorate of Australian-registered insurance companies
 
                    If:
 
                      (a)  either of the following subparagraphs applies:
 
-                              (i)  one or more persons propose to enter into an agreement in relation to an Australian‑registered insurance company;
+                              (i)  one or more persons propose to enter into an agreement in relation to an Australian-registered insurance company;
 
-                             (ii)  it is proposed to alter a constituent document of an Australian‑registered insurance company; and
+                             (ii)  it is proposed to alter a constituent document of an Australian-registered insurance company; and
 
                      (b)  under the proposed agreement or in consequence of the proposed alteration:
 
-                              (i)  one or more directors of the Australian‑registered insurance company will be accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of:
+                              (i)  one or more directors of the Australian-registered insurance company will be accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of:
 
-                                        (A)  a person whose associate‑inclusive control interest in the company is 15% or more, being a person acting alone or together with one or more associates; or
+                                        (A)  a person whose associate-inclusive control interest in the company is 15% or more, being a person acting alone or together with one or more associates; or
 
                                         (B)  an associate of such a person; or
 
                              (ii)  either:
 
-                                        (A)  a person whose associate‑inclusive control interest in the company is 15% or more, being a person acting alone or together with one or more associates; or
+                                        (A)  a person whose associate-inclusive control interest in the company is 15% or more, being a person acting alone or together with one or more associates; or
 
                                         (B)  an associate of such a person;
 
-                                   will have the power to appoint or remove one or more directors of the Australian‑registered insurance company;
+                                   will have the power to appoint or remove one or more directors of the Australian-registered insurance company;
 
 the proposal is a trigger proposal for the purposes of this Part.
 
@@ -947,9 +954,9 @@ the proposal is a trigger proposal for the purposes of this Part.
 
                      (a)  either of the following subparagraphs applies:
 
-                              (i)  one or more persons enter into an agreement in relation to an Australian‑registered insurance company;
+                              (i)  one or more persons enter into an agreement in relation to an Australian-registered insurance company;
 
-                             (ii)  a constituent document of an Australian‑registered insurance company is altered; and
+                             (ii)  a constituent document of an Australian-registered insurance company is altered; and
 
                      (b)  the agreement or alteration has an effect mentioned in paragraph 50(b);
 
@@ -981,33 +988,33 @@ the person or company is guilty of an offence punishable on conviction by impris
 
 Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
-##### <a id="54"></a>54  Trigger proposal must not be carried out before a go‑ahead decision is given
+##### <a id="54"></a>54  Trigger proposal must not be carried out before a go-ahead decision is given
 
                    If:
 
                      (a)  a person or company carries out a trigger proposal; and
 
-                     (b)  the Minister did not give a go‑ahead decision in relation to the proposal before the relevant agreement was entered into or the relevant alteration to the company’s constituent document was made, as the case may be;
+                     (b)  the Minister did not give a go-ahead decision in relation to the proposal before the relevant agreement was entered into or the relevant alteration to the company’s constituent document was made, as the case may be;
 
 the person or company commits an offence punishable on conviction by imprisonment for a period not exceeding 2 years.
 
 Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
-### Division 3—Go‑ahead decisions
+### Division 3—Go-ahead decisions
 
-##### <a id="55"></a>55  Unconditional or conditional go‑ahead decision
+##### <a id="55"></a>55  Unconditional or conditional go-ahead decision
 
-             (1)  The Minister may make a decision (in this Part called a **_go‑ahead decision_**) that the Commonwealth Government has no objection to a trigger proposal, either:
+             (1)  The Minister may make a decision (in this Part called a **_go-ahead decision_**) that the Commonwealth Government has no objection to a trigger proposal, either:
 
                      (a)  unconditionally; or
 
                      (b)  so long as the person or company concerned complies with such conditions as the Minister considers are necessary in order that the proposal, if carried out, will not be contrary to the public interest.
 
-             (2)  If the Minister makes a go‑ahead decision, the person or company must be given written advice of the decision, and of the conditions (if any) applicable to the decision, before the end of 10 days after the day on which the decision is made.
+             (2)  If the Minister makes a go-ahead decision, the person or company must be given written advice of the decision, and of the conditions (if any) applicable to the decision, before the end of 10 days after the day on which the decision is made.
 
              (3)  If:
 
-                     (a)  the person or company is given written advice of the go‑ahead decision within the period of 10 days; and
+                     (a)  the person or company is given written advice of the go-ahead decision within the period of 10 days; and
 
                      (b)  the person or company carries out the proposal; and
 
@@ -1019,7 +1026,7 @@ the person or company is guilty of an offence punishable on conviction by impris
 
 Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
-             (4)  If the Minister makes a go‑ahead decision in relation to a trigger proposal, the Minister is not empowered to make a permanent restraining order in relation to the trigger proposal.
+             (4)  If the Minister makes a go-ahead decision in relation to a trigger proposal, the Minister is not empowered to make a permanent restraining order in relation to the trigger proposal.
 
 ### Division 4—Permanent restraining orders and divestment orders
 
@@ -1041,7 +1048,7 @@ the Minister may, for remedial purposes, make an order (in this Part called a **
 
              (3)  If:
 
-                     (a)  a person or company is given written advice of a go‑ahead decision before the end of 10 days after the day on which the decision is made; and
+                     (a)  a person or company is given written advice of a go-ahead decision before the end of 10 days after the day on which the decision is made; and
 
                      (b)  the person or company carries out the proposal concerned;
 
@@ -1097,9 +1104,9 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
                      (d)  an order that any exercise of rights attached to shares or assets held by the offender be disregarded; or
 
-                     (e)  an order prohibiting a person from acting as a director of an Australian‑registered insurance company or from being involved in the management of an Australian‑registered insurance company; or
+                     (e)  an order prohibiting a person from acting as a director of an Australian-registered insurance company or from being involved in the management of an Australian-registered insurance company; or
 
-                      (f)  an order directing an Australian‑registered insurance company to make such alterations of any of its constituent documents as are specified in the order.
+                      (f)  an order directing an Australian-registered insurance company to make such alterations of any of its constituent documents as are specified in the order.
 
              (4)  In addition to the powers conferred on the Federal Court by the preceding provisions of this section, the Court:
 
@@ -1111,11 +1118,11 @@ Note:          Subsection 4B(2) of the _Crimes Act 1914_ allow
 
              (6)  The Court may, by order, rescind, vary or discharge an order made by it under this section or suspend the operation of such an order.
 
-             (7)  A reference in this section to an asset includes a reference to any or all of the interests, rights or benefits of an Australian‑registered insurance company under a contract of insurance where the company is or was the insurer.
+             (7)  A reference in this section to an asset includes a reference to any or all of the interests, rights or benefits of an Australian-registered insurance company under a contract of insurance where the company is or was the insurer.
 
-## Part 6—Anti‑avoidance
+## Part 6—Anti-avoidance
 
-##### <a id="64"></a>64  Anti‑avoidance
+##### <a id="64"></a>64  Anti-avoidance
 
              (1)  If:
 
@@ -1139,13 +1146,13 @@ the Minister may make any order under a provision of Part 3 or 4 that the Mini
 
                      (b)  any scheme, plan, proposal, action, course of action or course of conduct, whether unilateral or otherwise.
 
-## Part 7—Decision‑making principles
+## Part 7—Decision-making principles
 
-##### <a id="65"></a>65  Decision‑making principles
+##### <a id="65"></a>65  Decision-making principles
 
-             (1)  The Minister may, by legislative instrument, formulate principles (in this section called **_decision‑making principles_**) to be complied with by him or her in making decisions under Part 3 or 4 (other than section 42 or 56).
+             (1)  The Minister may, by legislative instrument, formulate principles (in this section called **_decision-making principles_**) to be complied with by him or her in making decisions under Part 3 or 4 (other than section 42 or 56).
 
-             (2)  In making a decision under Part 3 or 4 (other than section 42 or 56), the Minister must comply with any relevant decision‑making principles.
+             (2)  In making a decision under Part 3 or 4 (other than section 42 or 56), the Minister must comply with any relevant decision-making principles.
 
 ## Part 8—Review of decisions
 
@@ -1175,7 +1182,7 @@ request the Minister to reconsider the decision.
 
              (3)  If a request is made under subsection 66(1) in respect of a reviewable decision, section 41 of the _Administrative Appeals Tribunal Act 1975_ applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.
 
-             (5)  A non‑presidential member of the Administrative Appeals Tribunal must not sit as a member of the Administrative Appeals Tribunal for the purposes of a review of a reviewable decision, or for the purposes of a request under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ in respect of such a decision, if he or she is a director or employee of a company or body carrying on (whether in Australia or elsewhere) life insurance business or insurance business.
+             (5)  A non-presidential member of the Administrative Appeals Tribunal must not sit as a member of the Administrative Appeals Tribunal for the purposes of a review of a reviewable decision, or for the purposes of a request under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ in respect of such a decision, if he or she is a director or employee of a company or body carrying on (whether in Australia or elsewhere) life insurance business or insurance business.
 
              (6)  An order must not be made under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ in respect of a reviewable decision except by the Administrative Appeals Tribunal.
 
@@ -1193,7 +1200,7 @@ request the Minister to reconsider the decision.
 
                      (a)  the person may, if dissatisfied with the decision, seek a reconsideration of the decision by the Minister in accordance with subsection 66(1); and
 
-                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Minister upon that reconsideration confirming or varying the first‑mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
+                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Minister upon that reconsideration confirming or varying the first-mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
 
              (2)  If the Minister confirms or varies a reviewable decision under subsection 66(3) and gives to the person written notice of the confirmation or variation of the decision, that notice must include a statement to the effect that the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision so confirmed or varied, make application to the Administrative Appeals Tribunal for review of the decision.
 
@@ -1365,33 +1372,55 @@ the person is not liable to be punished by imprisonment for that offence.
 
              (2)  In particular, a decision under either Act that the Commonwealth Government has no objection to a proposal has effect only for the purposes of the Act concerned.
 
-##### <a id="81"></a>81  Transitional—pre‑commencement acquisitions etc.
+##### <a id="81"></a>81  Transitional—pre-commencement acquisitions etc.
 
-             (1)  This section has effect subject to Part 6 (which deals with anti‑avoidance).
+             (1)  This section has effect subject to Part 6 (which deals with anti-avoidance).
 
              (3)  Part 3 does not apply in relation to:
 
                      (a)  an acquisition of assets that occurred before the commencement of this Act; or
 
-                     (b)  an acquisition of interests, rights or benefits of an Australian‑registered insurance company under a contract of insurance where the company is the insurer, being an acquisition that occurred before the commencement of this Act; or
+                     (b)  an acquisition of interests, rights or benefits of an Australian-registered insurance company under a contract of insurance where the company is the insurer, being an acquisition that occurred before the commencement of this Act; or
 
-                     (c)  an arrangement relating to the leasing or letting on hire of, or the granting of other rights to use, assets of an Australian‑registered insurance company that was entered into before the commencement of this Act.
+                     (c)  an arrangement relating to the leasing or letting on hire of, or the granting of other rights to use, assets of an Australian-registered insurance company that was entered into before the commencement of this Act.
 
              (4)  Part 4 does not apply in relation to:
 
-                     (a)  an agreement in relation to an Australian‑registered insurance company that was entered into before the commencement of this Act; or
+                     (a)  an agreement in relation to an Australian-registered insurance company that was entered into before the commencement of this Act; or
 
-                     (b)  an alteration of a constituent document of an Australian‑registered insurance company that occurred before the commencement of this Act.
+                     (b)  an alteration of a constituent document of an Australian-registered insurance company that occurred before the commencement of this Act.
 
 ##### <a id="82"></a>82  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
              (2)  Without limiting the generality of subsection (1), the regulations may exempt specified proposals, acquisitions, arrangements or transactions from the operation of any or all of the provisions of Parts 3 and 4.
+
+## Part 10—Consequential amendments
+
+##### <a id="83"></a>83  Consequential amendments 
+
+                   The Act specified in the Schedule is amended as set out in the Schedule.
+
+# Schedule—Consequential amendments
+
+_Section 83_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+_Insurance Act 1973_
+
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 6, 1992.
+
+* * *
 
 # Notes to the _Insurance Acquisitions and Takeovers Act 1991_
 
@@ -1406,10 +1435,10 @@ For all relevant information pertaining to application, saving or transitional p
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="19%">
   <col width="21%">
-  <col width="15%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -1512,7 +1541,7 @@ of Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -1643,7 +1672,7 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -1674,30 +1703,13 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 40, 41): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedule 6 only of the _Financial Laws Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedule 8 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_, subsection 2(2)(f) of which provides as follows:
+_(b)_    The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedule 8 only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act 1998_, subsection 2(2)(f) of which provides as follows:
 
                  (2)   The following provisions of this Act commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_:
 
@@ -2066,7 +2078,7 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 3</div>
+    <div>Heading to Div. 2 of Part 3 .</div>
   </td>
   <td>
     <div>rs. No. 37, 2002</div>
@@ -2162,7 +2174,7 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4 of Part 3</div>
+    <div>Heading to Div. 4 of Part 3 .</div>
   </td>
   <td>
     <div>rs. No. 37, 2002</div>
@@ -2242,7 +2254,7 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part 4</div>
+    <div>Heading to Div. 2 of Part 4 .</div>
   </td>
   <td>
     <div>rs. No. 37, 2002</div>
@@ -2338,7 +2350,7 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4 of Part 4</div>
+    <div>Heading to Div. 4 of Part 4 .</div>
   </td>
   <td>
     <div>rs. No. 37, 2002</div>
@@ -2631,30 +2643,6 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
   <td>
     <div>am. No. 54, 1998</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 10</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
 
 ## Table A
@@ -2665,9 +2653,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -2677,9 +2665,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -2687,9 +2675,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -2720,11 +2708,11 @@ In this Schedule:
 
 ## 2  APRA’s corporate existence is continued
 
-(1)       The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
+(1)        The body corporate that was, immediately before the commencement of the amendments, the Australian Prudential Regulation Authority (**_APRA_**) continues in existence after that commencement by force of this item under the corporate structure provided for by the amended Act.
 
 _Note:       Rights, liabilities and obligations as between APRA and other people, and things done by or on behalf of APRA, or in relation to APRA, are therefore not affected by the restructure of APRA._
 
-(2)       However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
+(2)        However, this does not imply that any person who, immediately before the commencement of the amendments, was a member of APRA’s Board, or was APRA’s Chief Executive Officer, continues to hold office after that commencement.
 
 _Note:       These people cease to hold office on the commencement of the amendments because of the repeal of the provisions under which they were appointed._
 
@@ -2736,11 +2724,11 @@ _Note:       The reference to a member of APRA’s Board covers APRA
 
 ## 4  Continued effect of certain delegations
 
-(1)       A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
+(1)        A delegation in force, immediately before the commencement of the amendments, under subsection 15(1) or (2) of the old Act continues to have effect after that commencement as if it were a delegation under APRA’s seal under that subsection of the amended Act. If the delegation was to one or more members of APRA’s Board, it continues to have effect as if it were a delegation to any APRA member.
 
-(2)       A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
+(2)        A direction in force, immediately before the commencement of the amendments, under subsection 15(3) of the old Act continues to have effect after that commencement, in relation to a delegation to which subitem (1) applies, as if it were a direction given by APRA under that subsection of the amended Act.
 
-(3)       A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
+(3)        A delegation to one or more members of APRA’s Board in force, immediately before the commencement of the amendments, under a provision amended by Schedule 2 continues to have effect after that commencement as if it were a delegation under the amended provision to any APRA member.
 
 _Note:       Delegations in favour of APRA, or APRA staff members, are not affected by the Schedule 2 amendments._
 
@@ -2754,19 +2742,19 @@ An approval in force, immediately before the commencement of the amendments, und
 
 ## 7  Continued or extended effect of certain regulations
 
-(1)       Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
+(1)        Regulations in force, immediately before the commencement of the amendments, under paragraph (k) of the definition of **_Act covered by this section_** in subsection 56(1) of the old Act continue to have effect after that commencement as if they were made under paragraph (o) of the definition of **_prudential regulation framework law_** in subsection 3(1) of the amended Act, but only as that paragraph applies for the purposes of section 56 of the amended Act.
 
-(2)       Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
+(2)        Regulations in force, immediately before the commencement of the amendments, under paragraph 56(5)(a) of the old Act have effect after that commencement (in addition to the effect they continue to have for that paragraph of the amended Act) as if they were also made under subsection 10A(1) of the amended Act.
 
 ## 8  Delegations by ASIC to APRA staff members
 
-(1)       Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
+(1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
-(2)       For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
+(2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 14
 
