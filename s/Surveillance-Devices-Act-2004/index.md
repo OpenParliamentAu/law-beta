@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00046/Html/f94d29a7-538a-4c36-a0b4-e0b9574a0b01_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00804/Html/7396e27d-f883-400d-bda2-c2c4283a323b_files/image001.gif)
 
 # Surveillance Devices Act 2004
 
 **Act No. 152 of 2004 as amended**
 
-This compilation was prepared on 21 January 2013
- taking into account amendments up to Act No. 194 of 2012
+This compilation was prepared on 9 November 2012
+ taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -131,8 +131,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [45](#45).          Prohibition on use, recording, communication or publication of protected information or its admission in evidence
 
-[45A](#45A).       Protected information related to integrity operations
-
 [46](#46).          Dealing with records obtained by use of surveillance devices
 
 [47](#47).          Protection of surveillance device technologies and methods
@@ -185,9 +183,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 **Schedule 1—Amendment of other legislation and transitional and saving provisions** 
 
-Australian Federal Police Act 1979                                                                      81
+Australian Federal Police Act 1979                                                                      77
 
-Customs Act 1901                                                                                                      82
+Customs Act 1901                                                                                                      78
 
 **Notes** 
 
@@ -337,7 +335,7 @@ Customs Act 1901                     �
 
                     <a name="devic"></a>**_device_** includes instrument, apparatus and equipment.
 
-                    <a name="disciplinari-proceing"></a>**_disciplinary proceeding_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
+                    <a name="disciplinari-proceing"></a>**_disciplinary proceeding_** means a proceeding of a disciplinary nature under a law of the Commonwealth or of a State or Territory.
 
                     <a name="elig-judg"></a>**_eligible Judge_** means an eligible Judge within the meaning of section 12.
 
@@ -353,19 +351,7 @@ Customs Act 1901                     �
 
                     <a name="instal"></a>**_install_** includes attach.
 
-                    <a name="integr-author"></a>**_integrity authority_** means:
-
-                     (a)  an integrity testing controlled operations authority under Part IAB of the _Crimes Act 1914_ authorising a controlled operation under that Part; or
-
-                     (b)  an integrity testing authority under Part IABA of the _Crimes Act 1914_ authorising an integrity testing operation under that Part.
-
                     <a name="integr-commission"></a>**_Integrity Commissioner_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
-
-                    <a name="integr-oper"></a>**_integrity operation_** means:
-
-                     (a)  a controlled operation authorised by an integrity testing controlled operation authority granted under Part IAB of the _Crimes Act 1914_; or
-
-                     (b)  an integrity testing operation authorised by an integrity testing authority granted under Part IABA of the _Crimes Act 1914_.
 
                     <a name="investig-proceing"></a>**_investigative proceeding_** has the same meaning as in the _Mutual Assistance in Criminal Matters Act 1987._
 
@@ -483,8 +469,6 @@ whether within or beyond Australia.
 
                    (da)  an offence against section 46A, 46C, 46D, 49A or 51A of the _Torres Strait Fisheries Act 1984_; or
 
-                   (db)  if a surveillance device warrant, or a tracking device authorisation, is issued or given (or is sought) for the purposes of an integrity operation in relation to a suspected offence against the law of the Commonwealth, or of a State or Territory, that is punishable by a maximum term of imprisonment of 12 months or more or for life—that offence; or
-
                      (e)  an offence that is prescribed by the regulations.
 
                     <a name="relev-proceing"></a>**_relevant proceeding_** means:
@@ -544,14 +528,6 @@ whether within or beyond Australia.
                     <a name="surveil-devic-warrant"></a>**_surveillance device warrant_** means a warrant issued under Division 2 of Part 2 or under subsection 35(4) or (5).
 
                     <a name="sworn"></a>**_sworn_** includes affirmed.
-
-                    <a name="target-agenc"></a>**_target agency_** means any of the following:
-
-                     (a)  the Australian Federal Police;
-
-                     (b)  the Australian Crime Commission;
-
-                     (c)  Customs.
 
                     <a name="track-devic"></a>**_tracking device_** means any electronic device capable of being used to determine or monitor the location of a person or an object or the status of an object.
 
@@ -697,8 +673,6 @@ whether or not that person is physically present for any step in the execution o
 
 ##### <a id="14"></a>14  Application for surveillance device warrant
 
-Warrants sought for offence investigations
-
              (1)  A law enforcement officer (or another person on his or her behalf) may apply for the issue of a surveillance device warrant if the law enforcement officer suspects on reasonable grounds that:
 
                      (a)  one or more relevant offences have been, are being, are about to be, or are likely to be, committed; and
@@ -709,15 +683,11 @@ Warrants sought for offence investigations
 
              (2)  If the application is being made by or on behalf of a State or Territory law enforcement officer, the reference in subsection (1) to a relevant offence does not include a reference to a State offence that has a federal aspect.
 
-Warrants sought for recovery orders
-
              (3)  A law enforcement officer (or another person on his or her behalf) may apply for the issue of a surveillance device warrant if:
 
                      (a)  a recovery order is in force; and
 
                      (b)  the law enforcement officer suspects on reasonable grounds that the use of a surveillance device may assist in the location and safe recovery of the child to whom the recovery order relates.
-
-Warrants sought for mutual assistance investigations
 
           (3A)  A law enforcement officer (or another person on his or her behalf) may apply for the issue of a surveillance device warrant if he or she:
 
@@ -729,21 +699,7 @@ Warrants sought for mutual assistance investigations
 
                              (ii)  the identity or location of the persons suspected of committing the offence.
 
-Warrants sought for integrity operations
-
-          (3B)  A federal law enforcement officer (or another person on his or her behalf) may apply for the issue of a surveillance device warrant if:
-
-                     (a)  an integrity authority is in effect authorising an integrity operation in relation to an offence that it is suspected has been, is being or is likely to be committed by a staff member of a target agency; and
-
-                     (b)  the federal law enforcement officer suspects on reasonable grounds that the use of a surveillance device will assist the conduct of the integrity operation by:
-
-                              (i)  recording or monitoring the operation; and
-
-                             (ii)  enabling evidence to be obtained relating to the commission of the offence or the integrity, location or identity of any staff member of the target agency.
-
-Procedure for making applications
-
-             (4)  The application under subsection (1), (3), (3A) or (3B) may be made to an eligible Judge or to a nominated AAT member.
+             (4)  The application under subsection (1), (3) or (3A) may be made to an eligible Judge or to a nominated AAT member.
 
              (5)  An application:
 
@@ -785,15 +741,13 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
                    (ba)  in the case of a warrant sought in relation to a mutual assistance authorisation—that such an authorisation is in force and that there are reasonable grounds for the suspicion founding the application for the warrant; and
 
-                   (bb)  in the case of a warrant sought for the purposes of an integrity operation—that the integrity authority for the operation is in effect, and that there are reasonable grounds for the suspicions founding the application for the warrant (as mentioned in paragraphs 14(3B)(a) and (b)); and
-
                      (c)  in the case of an unsworn application—that it would have been impracticable for an affidavit to have been sworn or prepared before the application was made; and
 
                      (d)  in the case of a remote application—that it would have been impracticable for the application to have been made in person.
 
              (2)  In determining whether a surveillance device warrant should be issued, the eligible Judge or nominated AAT member must have regard to:
 
-                     (a)  in the case of a warrant sought in relation to a relevant offence or a mutual assistance authorisation, or for the purposes of an integrity operation—the nature and gravity of the alleged offence; and
+                     (a)  in the case of a warrant sought in relation to a relevant offence or a mutual assistance authorisation—the nature and gravity of the alleged offence; and
 
                      (b)  in the case of a warrant sought to assist in the location and safe recovery of a child to whom a recovery order relates—the circumstances that gave rise to the making of the order; and
 
@@ -801,7 +755,7 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
                      (d)  the existence of any alternative means of obtaining the evidence or information sought to be obtained; and
 
-                     (e)  in the case of a warrant sought in relation to a relevant offence or a recovery order, or for the purposes of an integrity operation—the likely evidentiary or intelligence value of any evidence or information sought to be obtained; and
+                     (e)  in the case of a warrant sought in relation to a relevant offence or a recovery order—the likely evidentiary or intelligence value of any evidence or information sought to be obtained; and
 
                     (ea)  in the case of a warrant sought in relation to a mutual assistance authorisation—the likely evidentiary or intelligence value of any evidence or information sought to be obtained, to the extent that this is possible to determine from information obtained from the foreign country to which the authorisation relates; and
 
@@ -823,8 +777,6 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
                           (iiia)  if the warrant relates to a mutual assistance authorisation—the offence or offences against the law of a foreign country to which the authorisation relates; and
 
-                          (iiib)  if the warrant is issued for the purposes of an integrity operation—the integrity authority for the operation and each alleged relevant offence in relation to which the authority was granted; and
-
                             (iv)  the date the warrant is issued; and
 
                              (v)  the surveillance device or devices authorised to be used; and
@@ -835,19 +787,11 @@ an application for a warrant may be made before an affidavit is prepared or swor
 
                           (viii)  if the warrant authorises the use of a surveillance device in respect of the conversations, activities or location of a person—the name of the person (if known) or the fact that the person’s identity is unknown; and
 
-                            (ix)  the period during which the warrant is in force (see subsection (1A)); and
+                            (ix)  the period during which the warrant is in force, being a period not exceeding 90 days; and
 
                              (x)  the name of the law enforcement officer primarily responsible for executing the warrant; and
 
                             (xi)  any conditions subject to which premises may be entered, or a surveillance device may be used, under the warrant.
-
-          (1A)  A warrant may only be issued:
-
-                     (a)  for a period of no more than 90 days; or
-
-                     (b)  if the warrant is issued for the purposes of an integrity operation—for a period of no more than 21 days.
-
-Note:          The use of a surveillance device pursuant to a warrant may be discontinued earlier: see section 21.
 
              (2)  In the case of a warrant authorising the use of a surveillance device on premises that are vehicles, the warrant need only specify the class of vehicle in relation to which the use of the surveillance device is authorised.
 
@@ -921,11 +865,7 @@ Note:          The use of a surveillance device pursuant to a 
 
              (1)  A law enforcement officer to whom a surveillance device warrant has been issued (or another person on his or her behalf) may apply, at any time before the expiry of the warrant:
 
-                     (a)  for an extension of the warrant for a period of no more than:
-
-                              (i)  90 days after the day the warrant would otherwise expire; or
-
-                             (ii)  if the warrant is issued for the purposes of an integrity operation—21 days after the day the warrant would otherwise expire; or
+                     (a)  for an extension of the warrant for a period not exceeding 90 days from the day on which it would otherwise expire; or
 
                      (b)  for a variation of any of the other terms of the warrant.
 
@@ -943,7 +883,7 @@ Note:          The use of a surveillance device pursuant to a 
 
              (1)  A surveillance device warrant may, by instrument in writing, be revoked by an eligible Judge or nominated AAT member on his or her own initiative at any time before the expiration of the period of validity specified in the warrant.
 
-             (2)  If the circumstances set out in paragraphs 21(2)(a) and (b), 21(3)(a) and (b), 21(3A)(a) and (b) or 21(3B)(a) and (b) apply in relation to a surveillance device warrant—the chief officer of the law enforcement agency to which the law enforcement officer to whom the warrant was issued belongs or is seconded must, by instrument in writing, revoke the warrant.
+             (2)  If the circumstances set out in paragraphs 21(2)(a) and (b), 21(3)(a) and (b) or 21(3A)(a) and (b) apply in relation to a surveillance device warrant—the chief officer of the law enforcement agency to which the law enforcement officer to whom the warrant was issued belongs or is seconded must, by instrument in writing, revoke the warrant.
 
              (3)  The instrument revoking a warrant must be signed by the eligible Judge, the nominated AAT member or the chief officer of the law enforcement agency, as the case requires.
 
@@ -989,18 +929,6 @@ the chief officer must, in addition to revoking the warrant under section 20, 
 
 the chief officer must, in addition to revoking the warrant under section 20, take the steps necessary to ensure that use of the surveillance device authorised by the warrant is discontinued.
 
-          (3B)  If:
-
-                     (a)  the surveillance device warrant has been sought by or on behalf of a federal law enforcement officer for the purposes of an integrity operation; and
-
-                     (b)  the chief officer of the law enforcement agency to which the law enforcement officer belongs or is seconded is satisfied that:
-
-                              (i)  the use of a surveillance device under the warrant sought is no longer necessary for the purposes of the integrity operation; or
-
-                             (ii)  the integrity authority for the integrity operation is no longer in effect;
-
-the chief officer must, in addition to revoking the warrant under section 20, take the steps necessary to ensure that use of the surveillance device authorised by the warrant is discontinued.
-
              (4)  If the chief officer of a law enforcement agency is notified that a warrant has been revoked by an eligible Judge or a nominated AAT member under section 20, he or she must take the steps necessary to ensure that use of the surveillance device authorised by the warrant is discontinued as soon as practicable.
 
              (5)  If the law enforcement officer to whom the warrant is issued, or who is primarily responsible for executing the warrant, believes that use of a surveillance device under the warrant is no longer necessary for the purpose:
@@ -1014,14 +942,6 @@ the chief officer must, in addition to revoking the warrant under section 20, 
                               (i)  the commission of the offence against a law of a foreign country to which the authorisation relates; or
 
                              (ii)  the identity or location of the persons suspected of committing the offence;
-
-he or she must immediately inform the chief officer of the law enforcement agency to which he or she belongs or is seconded.
-
-             (6)  In the case of a warrant issued for the purposes of an integrity operation, if the law enforcement officer to whom the warrant is issued, or who is primarily responsible for executing the warrant, believes that:
-
-                     (a)  the use of a surveillance device under the warrant is no longer necessary for those purposes; or
-
-                     (b)  the integrity authority for the integrity operation is no longer in effect;
 
 he or she must immediately inform the chief officer of the law enforcement agency to which he or she belongs or is seconded.
 
@@ -1441,15 +1361,13 @@ may, without warrant, use a surveillance device for any purpose that involves li
 
              (3)  A law enforcement officer may, with the written permission of an appropriate authorising officer, use a tracking device without a warrant in the location and safe recovery of a child to whom a recovery order relates.
 
-          (3A)  A federal law enforcement officer may, with the written permission of an appropriate authorising officer, use a tracking device without a warrant for the purposes of an integrity operation.
+             (4)  Subsections (1) and (3) have effect despite any other law of the Commonwealth or of a State or self‑governing Territory (including any principle of the common law) forbidding the use of such a device without a warrant.
 
-             (4)  Subsections (1), (3) and (3A) have effect despite any other law of the Commonwealth or of a State or self‑governing Territory (including any principle of the common law) forbidding the use of such a device without a warrant.
-
-             (5)  A tracking device authorisation given under subsection (1), (3) or (3A) may authorise the law enforcement officer to use more than one tracking device.
+             (5)  A tracking device authorisation given under subsection (1) or (3) may authorise the law enforcement officer to use more than one tracking device.
 
              (6)  If an appropriate authorising officer gives a tracking device authorisation under this section, an appropriate authorising officer may also authorise the retrieval, without a warrant, of a tracking device to which the tracking device authorisation relates.
 
-             (7)  A tracking device authorisation given under subsection (1), (3) or (3A) and an authorisation for the retrieval of a tracking device given under subsection (6) must indicate the period, not exceeding 90 days, for which the authorisation remains in force.
+             (7)  A tracking device authorisation given under subsection (1) or (3) and an authorisation for the retrieval of a tracking device given under subsection (6) must indicate the period, not exceeding 90 days, for which the authorisation remains in force.
 
              (8)  An appropriate authorising officer must not give permission under this section for the use, installation or retrieval of a tracking device if the installation of the device, or its retrieval, involves entry onto premises without permission or an interference with the interior of a vehicle without permission.
 
@@ -1486,8 +1404,6 @@ Note:          Section 22 deals with applications for a retr
                      (c)  if the authorisation authorises the use of a tracking device in relation to the investigation of an alleged relevant offence or offences—the alleged offence or offences in respect of which the authorisation is given; and
 
                      (d)  if the authorisation authorises the use of a tracking device in relation to a recovery order—the date the order was made and the name of the child to whom the order relates; and
-
-                   (da)  if the authorisation authorises the use of a tracking device for the purposes of an integrity operation—details identifying the integrity authority for the operation and each alleged relevant offence; and
 
                      (e)  if the authorisation authorises the use of a tracking device in or on an object or class of object—the object or class of object in or on which the use of the tracking device is authorised; and
 
@@ -1629,7 +1545,7 @@ the chief officer of the law enforcement agency to which the law enforcement off
 
                      (b)  the information is protected information; and
 
-                     (c)  the use, recording, communication or publication of the information is not permitted by this section or section 45A (which deals with information relating to integrity operations).
+                     (c)  the use, recording, communication or publication of the information is not permitted by this section.
 
                     Penalty:  Imprisonment for 2 years.
 
@@ -1639,7 +1555,7 @@ the chief officer of the law enforcement agency to which the law enforcement off
 
                      (b)  the information is protected information; and
 
-                     (c)  the use, recording, communication or publication of the information is not permitted by this section or section 45A (which deals with information relating to integrity operations); and
+                     (c)  the use, recording, communication or publication of the information is not permitted by this section; and
 
                      (d)  the use, recording, communication or publication of the information, endangers the health or safety of any person or prejudices the effective conduct of an investigation into a relevant offence.
 
@@ -1735,60 +1651,6 @@ for a particular purpose, the protected information that has been so communicate
 
                      (h)  a proceeding for a review of a decision to grant such a bail application.
 
-##### <a id="45A"></a>45A  Protected information related to integrity operations
-
-             (1)  Protected information may be used, recorded, communicated or published, or may be admitted in evidence, if it is necessary to do so for any of the following purposes:
-
-                     (a)  making a decision about whether to apply for an integrity authority;
-
-                     (b)  designing an integrity operation;
-
-                     (c)  applying for an integrity authority;
-
-                     (d)  granting an integrity authority;
-
-                     (e)  conducting an integrity operation;
-
-                      (f)  applying for any warrant, authorisation or order, under a law of the Commonwealth, for the purposes of an integrity operation;
-
-                     (g)  any disciplinary or legal action in relation to a staff member of a target agency, if arising out of, or otherwise related to, an integrity testing operation.
-
-Note:          If use etc. of protected information is permitted under this section, the offences in subsections 45(1) and (2) do not apply (see paragraphs 45(1)(c) and (2)(c)).
-
-             (2)  Subsection (1) does not limit subsections 45(4) and (5) (which permit protected information to be used etc. for certain other purposes).
-
-             (3)  If protected information is communicated under subsection (1), subsection 45(7) does not apply in relation to the further communication of the information.
-
-Note:          If protected information is communicated from one agency to another agency, subsection 45(7) restricts the circumstances in which the information may be further communicated.
-
-             (4)  Paragraph (1)(g) (use etc. for disciplinary or legal action) does not authorise:
-
-                     (a)  the use, recording, communication or publication of information of the kind referred to in paragraph (d) of the definition of **_protected information_** in section 44; or
-
-                     (b)  the giving in evidence of protected information of the kind referred to in paragraph (d) of that definition;
-
-regardless of whether that information is also information of the kind referred to in paragraph (b) or (c) of that definition.
-
-Note:          Paragraph (d) of the definition of **_protected information_** in section 44 covers information obtained by a law enforcement officer in contravention of a requirement for a warrant, tracking device authorisation or emergency authorisation.
-
-             (5)  In this section:
-
-                    <a name="disciplinari-legal-action"></a>**_disciplinary or legal action_**, in relation to a staff member of a target agency, means any of the following:
-
-                     (a)  action in respect of alleged misconduct of the staff member;
-
-                     (b)  termination of the employment or appointment of the staff member;
-
-                     (c)  a disciplinary proceeding in relation to the staff member, or a report of such a proceeding;
-
-                     (d)  the investigation of an offence suspected to have been committed by the staff member;
-
-                     (e)  a legal proceeding in relation to the staff member, or a report of such a proceeding.
-
-**_Disciplinary or legal action_** also includes the consideration of whether an action or proceeding covered by this definition should be taken or brought.
-
-                    <a name="staff-member"></a>**_staff member_**, of a target agency, means a staff member of that agency within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_ (see section 10 of that Act).
-
 ##### <a id="46"></a>46  Dealing with records obtained by use of surveillance devices
 
              (1)  The chief officer of a law enforcement agency:
@@ -1797,17 +1659,17 @@ Note:          Paragraph (d) of the definition of **_protect
 
                      (b)  must cause to be destroyed any record or report referred to in paragraph (a):
 
-                              (i)  as soon as practicable after the making of the record or report if the chief officer is satisfied that no civil or criminal proceeding to which the material contained in the record or report relates has been, or is likely to be, commenced and that the material contained in the record or report is not likely to be required in connection with an activity referred to in subsection 45(4) or a purpose referred to in subsection 45(5) or 45A(1); and
+                              (i)  as soon as practicable after the making of the record or report if the chief officer is satisfied that no civil or criminal proceeding to which the material contained in the record or report relates has been, or is likely to be, commenced and that the material contained in the record or report is not likely to be required in connection with an activity referred to in subsection 45(4) or a purpose referred to in subsection 45(5); and
 
                              (ii)  within the period of 5 years after the making of the record or report, and within each period of 5 years thereafter, unless, before the end of that period, the chief officer is satisfied in relation to the material contained in the record or report of a matter referred to in subparagraph (i) and certifies to that effect.
 
-             (2)  The officer in charge of any agency that is not a law enforcement agency but that, as described in subsection 45(4) or (5) or 45A(1), receives records or reports obtained by use of a surveillance device:
+             (2)  The officer in charge of any agency that is not a law enforcement agency but that, as described in subsection 45(4) or (5), receives records or reports obtained by use of a surveillance device:
 
                      (a)  must ensure that every record or report that is so received is kept in a secure place that is not accessible to people who are not entitled to deal with the record or report; and
 
                      (b)  must cause to be destroyed any record or report referred to in paragraph (a):
 
-                              (i)  as soon as practicable after the receipt of the record or report by the agency if the officer in charge is satisfied that no civil or criminal proceeding to which the material contained in the record or report relates has been, or is likely to be, commenced and that the material contained in the record or report is not likely to be required in connection with an activity referred to in subsection 45(4) or a purpose referred to in subsection 45(5) or 45A(1); and
+                              (i)  as soon as practicable after the receipt of the record or report by the agency if the officer in charge is satisfied that no civil or criminal proceeding to which the material contained in the record or report relates has been, or is likely to be, commenced and that the material contained in the record or report is not likely to be required in connection with an activity referred to in subsection 45(4) or a purpose referred to in subsection 45(5); and
 
                              (ii)  within the period of 5 years after the making of the record or report, and within each period of 5 years thereafter, unless, before the end of that period, the officer in charge is satisfied in relation to the material contained in the record or report of a matter referred to in subparagraph (i) and certifies to that effect.
 
@@ -1882,8 +1744,6 @@ must, as soon as practicable after the warrant or authority ceases to be in forc
                             (ix)  if the warrant is issued or the authorisation given in respect of the investigation of a relevant offence—give details of the benefit to the investigation of the use of the device and of the general use made or to be made of any evidence or information obtained by the use of the device; and
 
                              (x)  if the warrant is issued or the authorisation given in respect of the location and safe recovery of a child to whom a recovery order relates—give details of use of the device in assisting with the location and safe recovery of the child; and
-
-                           (xa)  if the warrant is issued or the authorisation given for the purposes of an integrity operation—give details of the benefit to the operation of the use of the device and of the general use made or to be made of any evidence or information obtained by the use of the device; and
 
                             (xi)  give details of the communication of evidence or information obtained by the use of the device to persons other than officers of the agency; and
 
@@ -2013,8 +1873,6 @@ must, as soon as practicable after the warrant or authority ceases to be in forc
 
                           (iiia)  if the warrant was issued in relation to a mutual assistance authorisation—the offence against the law of the foreign country to which the authorisation relates; and
 
-                          (iiib)  if the warrant was issued for the purposes of an integrity operation—details identifying the integrity authority for the operation and the relevant offence in respect of which the integrity authority was granted; and
-
                             (iv)  the period during which the warrant is in force; and
 
                              (v)  details of any variation or extension of the warrant.
@@ -2049,9 +1907,7 @@ must, as soon as practicable after the warrant or authority ceases to be in forc
 
                              (ii)  if the authorisation related to a relevant offence—the relevant offence in relation to which it was given; and
 
-                            (iii)  if the authorisation related to a recovery order—the date of issue of the recovery order and the name of the child to whom the order related; and
-
-                            (iv)  if the authorisation was given for the purposes of an integrity operation—details identifying the integrity authority authorising the operation and the relevant offence in respect of which the integrity authority was granted.
+                            (iii)  if the authorisation related to a recovery order—the date of issue of the recovery order and the name of the child to whom the order related.
 
              (5)  The register is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
@@ -2764,23 +2620,6 @@ Schedule 3 (item 53): <i>(d)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Law Enforcement Integrity Legislation Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>194, 2012</div>
-  </td>
-  <td>
-    <div>12 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 47–78, 91(1), (2)): 13 Dec 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 91(1), (2))</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(1) (item 19) of the _Anti‑Terrorism Act (No. 2) 2005_ provides as follows:
@@ -3087,7 +2926,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. Nos. 86 and 170, 2006; Nos. 52 and 104, 2007; No. 95, 2008; No. 32, 2009; No. 4, 2010; Nos. 7, 24 and 194, 2012</div>
+    <div>am. Nos. 86 and 170, 2006; Nos. 52 and 104, 2007; No. 95, 2008; No. 32, 2009; No. 4, 2010; Nos. 7 and 24, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3124,42 +2963,10 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 14(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 194, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 14(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 194, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 14(3A)</div>
-  </td>
-  <td>
-    <div>ad. No. 194, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 14(4)</div>
-  </td>
-  <td>
-    <div>ad. No. 194, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. Nos. 7 and 194, 2012</div>
+    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3167,7 +2974,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. Nos. 7 and 194, 2012</div>
+    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3175,7 +2982,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. Nos. 7 and 194, 2012</div>
+    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3188,18 +2995,10 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
 </tr>
 <tr>
   <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 194, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 20</div>
   </td>
   <td>
-    <div>am. Nos. 7 and 194, 2012</div>
+    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3207,7 +3006,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. Nos. 7 and 194, 2012</div>
+    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3276,26 +3075,10 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
 </tr>
 <tr>
   <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 194, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 39(8)</div>
   </td>
   <td>
     <div>ad. No. 136, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 194, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3351,23 +3134,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
     <div>S. 45</div>
   </td>
   <td>
-    <div>am. Nos. 7 and 194, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45A</div>
-  </td>
-  <td>
-    <div>ad. No. 194, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 194, 2012</div>
+    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3376,14 +3143,6 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 194, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3399,7 +3158,7 @@ _(d)_     Subsection 2(1) (item 9) of the _Extradition and Mutual Assist
     <div>S. 53</div>
   </td>
   <td>
-    <div>am. Nos. 7 and 194, 2012</div>
+    <div>am. No. 7, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3564,7 +3323,7 @@ _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 ## Schedule 3
 
-## 10  Saving—appointments
+## 10  Saving—appointments
 
 The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
@@ -3581,20 +3340,5 @@ _Extradition and Mutual Assistance in Criminal Matters Legislation Amendment Act
 ## 69  Application of amendments made by this Division
 
 The amendments made by this Division apply in relation to a request by a foreign country that is under consideration on or after the commencement of this item, whether the request was made before or after that commencement.
-
-* * *
-
-_Law Enforcement Integrity Legislation Amendment Act 2012
- (No. 194, 2012)_
-
-## Schedule 1
-
-## 91  Application of amendments in Part 3
-
-Amendments of the Surveillance Devices Act 2004
-
-(1)       Subsections 14(3B) and 39(3A) of the _Surveillance Devices Act 2004_, as inserted by this Part, apply in relation to an integrity operation for which the integrity authority was granted on or after the commencement of this Part, whether the act or omission constituting the suspected offence to which the operation relates occurred (or is alleged to have occurred) before, on or after that commencement.
-
-(2)       Section 45A of the _Surveillance Devices Act 2004_, as inserted by this Part, applies in relation to protected information whether the information was obtained or created before, on or after the commencement of this Part.
 
  
