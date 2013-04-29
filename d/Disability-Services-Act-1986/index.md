@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00458/Html/9cc944c1-7058-48f0-a22f-241f4a512f16_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00418/Html/c2866e62-ad90-4655-8c88-4e12c689c9a7_files/image001.gif)
 
 # Disability Services Act 1986
 
 **Act No. 129 of 1986 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 6 June 2011
  taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
@@ -1428,9 +1428,7 @@ the Secretary may, by notice served on the person, require the person:
 
                      (b)  divulge any information to any prescribed authority or person; or
 
-                     (c)  divulge any information to a person who is expressly or impliedly authorised by the person to whom the information relates to obtain it; or
-
-                     (d)  make a record of information with the express or implied authorisation of the person to whom the information relates.
+                     (c)  divulge any information to a person who is expressly or impliedly authorised by the person to whom the information relates to obtain it.
 
              (6)  An authority or person to whom information is divulged under subsection (5), and any person or employee under the control of that authority or person, shall, in respect of that information, be subject to the same rights, privileges, obligations and liabilities under this section as if that authority or person were a person performing duties under this Part and had acquired the information in the performance of those duties.
 
@@ -1984,7 +1982,7 @@ Remainder: Royal Assent</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (item 94A): 1 July 2011</div>
+    <div>Schedule 4 (item 94A): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2923,7 +2921,7 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 70, 1991; No. 137, 2001; No. 32, 2011</div>
+    <div>am. No. 70, 1991; No. 137, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2983,6 +2981,22 @@ _(p)_     Subsection 2(1) (item 8) of the _Social Security and Family 
   </td>
 </tr></table>
 
+### Note 2
+
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendment commences on 1 July 2011:
+
+## Schedule 4
+
+## 94A  At the end of subsection 28(5)
+
+Add:
+
+               ; or (d)  make a record of information with the express or implied authorisation of the person to whom the information relates.
+
+As at 6 June 2011 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3022,8 +3036,7 @@ The amendments of the _Disability Services Act 1986_ made by this Schedule apply
 
 * * *
 
-_Employment and Workplace Relations Legislation Amendment (Welfare to Work and Vocational Rehabilitation Services) Act 2007 
- (No. 65, 2007)_
+_Employment and Workplace Relations Legislation Amendment (Welfare to Work and Vocational Rehabilitation Services) Act 2007 (No. 65, 2007)_
 
 ## Schedule 1
 
