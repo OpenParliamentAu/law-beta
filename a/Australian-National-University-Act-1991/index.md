@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00316/Html/f9809e02-acc1-4679-81c8-f4e3c59ef469_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00378/Html/AusNatUni91WD02_image001.gif)
 
 # Australian National University Act 1991
 
 **Act No. 131 of 1991 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 7 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -92,11 +92,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Chancellor
 
-[33](#33).          Pro‑Chancellor
+[33](#33).          Pro-Chancellor
 
-[34](#34).          Vice‑Chancellor
+[34](#34).          Vice-Chancellor
 
-[35](#35).          Deputy Vice‑Chancellor
+[35](#35).          Deputy Vice-Chancellor
 
 [37](#37).          Acting appointments
 
@@ -174,7 +174,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Australian__National University__Act 1991_.
+                   This Act may be cited as the _Australian__National__University__Act 1991_.
 
 ##### <a id="2"></a>2  Commencement
 
@@ -202,21 +202,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="dean"></a>**_dean_** means the head, by whatever name called, of any faculty.
 
-                    <a name="deputi-vice-chancellor"></a>**_Deputy Vice‑Chancellor_** means a Deputy Vice‑Chancellor of the University appointed under section 35.
+                    <a name="deputi-vice-chancellor"></a>**_Deputy Vice-Chancellor_** means a Deputy Vice-Chancellor of the University appointed under section 35.
 
-                    <a name="elect"></a>**_elect_** includes re‑elect.
+                    <a name="elect"></a>**_elect_** includes re-elect.
 
                     <a name="execut-offic"></a>**_executive office_** means:
 
-                     (a)  the office of Vice‑Chancellor; or
+                     (a)  the office of Vice-Chancellor; or
 
-                     (b)  the office or offices of Deputy Vice‑Chancellor.
+                     (b)  the office or offices of Deputy Vice-Chancellor.
 
                     <a name="ex-officio-member"></a>**_ex officio member_**, in relation to the Council, means:
 
                      (a)  the Chancellor; or
 
-                     (c)  the Vice‑Chancellor.
+                     (c)  the Vice-Chancellor.
 
                     <a name="gener-staff"></a>**_general staff_** means members of the staff of the University other than:
 
@@ -226,13 +226,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  the academic staff of The Faculties.
 
-                    <a name="institut"></a>**_Institute_** means the Institute of Advanced Studies referred to in paragraph 7(1)(a).
+                    <a name="institut"></a>**_Institute_** means the Institute of Advanced   Studies referred to in paragraph 7(1)(a).
 
                     <a name="nomin-committe-council"></a>**_Nominations Committee of Council_** means the persons referred to in subsection 10(2).
 
-                    <a name="origin-act"></a>**_original Act_** means the _Australian__National University__Act 1946_.
+                    <a name="origin-act"></a>**_original Act_** means the _Australian__National__University__Act 1946_.
 
-                    <a name="pro-chancellor"></a>**_Pro‑Chancellor_** means the Pro‑Chancellor of the University appointed under section 33.
+                    <a name="pro-chancellor"></a>**_Pro-Chancellor_** means the Pro-Chancellor of the University appointed under section 33.
 
                     <a name="professor"></a>**_professor_** does not include an assistant professor or an associate professor.
 
@@ -248,7 +248,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  Convocation.
 
-                    <a name="vice-chancellor"></a>**_Vice‑Chancellor_** means the Vice‑Chancellor of the University appointed under section 34.
+                    <a name="vice-chancellor"></a>**_Vice-Chancellor_** means the Vice-Chancellor of the University appointed under section 34.
 
 ## Part 2—The Australian National University
 
@@ -296,7 +296,7 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
                      (e)  awarding and conferring degrees, diplomas and certificates in its own right or jointly with other institutions, as determined by the Council;
 
-                      (f)  providing opportunities for persons, including those who already have post‑secondary qualifications, to obtain higher education qualifications;
+                      (f)  providing opportunities for persons, including those who already have post-secondary qualifications, to obtain higher education qualifications;
 
                      (g)  engaging in extension activities.
 
@@ -382,7 +382,7 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
                      (a)  the Chancellor;
 
-                     (c)  the Vice‑Chancellor;
+                     (c)  the Vice-Chancellor;
 
                      (k)  one person who is either a dean or the head of a research school and is elected, in either case, by the deans and the heads of the research schools voting together;
 
@@ -462,27 +462,27 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
                      (a)  the Chancellor is not present at a meeting of the Council; and
 
-                     (b)  if the Pro‑Chancellor is a member of the Council—he or she is present;
+                     (b)  if the Pro-Chancellor is a member of the Council—he or she is present;
 
-the Pro‑Chancellor is to preside at the meeting.
+the Pro-Chancellor is to preside at the meeting.
 
-             (3)  If neither the Chancellor nor the Pro‑Chancellor (if he or she is a member of the Council) is present at a meeting of the Council, the members present must elect one of their number to preside at the meeting.
+             (3)  If neither the Chancellor nor the Pro-Chancellor (if he or she is a member of the Council) is present at a meeting of the Council, the members present must elect one of their number to preside at the meeting.
 
              (4)  At a meeting of the Council, a quorum is constituted by a majority of the persons for the time being holding office as members of the Council.
 
 ##### <a id="13"></a>13  Resolutions without meetings
 
-             (1)  The Chancellor or Pro‑Chancellor (if he or she is a member of the Council) may, in writing, request members to pass a resolution without a meeting.
+             (1)  The Chancellor or Pro-Chancellor (if he or she is a member of the Council) may, in writing, request members to pass a resolution without a meeting.
 
              (2)  A copy of the request and the text of the proposed resolution, must be sent to each member of the Council.
 
-             (3)  Subject to subsection (4), the resolution is passed if each of a majority of the members of the Council eligible to vote on that resolution signs a document containing the text of the resolution and returns it to the Chancellor or Pro‑Chancellor (if he or she is a member of the Council).
+             (3)  Subject to subsection (4), the resolution is passed if each of a majority of the members of the Council eligible to vote on that resolution signs a document containing the text of the resolution and returns it to the Chancellor or Pro-Chancellor (if he or she is a member of the Council).
 
-             (4)  If the proposed resolution deals with whether a member of the Council has breached his or her duties under section 18A, 18B, 18C, 18D, 18E or 18F as a member of the Council, the resolution is passed if each of at least a two‑thirds majority of the members of the Council eligible to vote on that resolution:
+             (4)  If the proposed resolution deals with whether a member of the Council has breached his or her duties under section 18A, 18B, 18C, 18D, 18E or 18F as a member of the Council, the resolution is passed if each of at least a two-thirds majority of the members of the Council eligible to vote on that resolution:
 
                      (a)  signs a document containing the text of the resolution; and
 
-                     (b)  returns it to the Chancellor or Pro‑Chancellor (if he or she is a member of the Council).
+                     (b)  returns it to the Chancellor or Pro-Chancellor (if he or she is a member of the Council).
 
              (5)  For the purposes of this section, a member of the Council is not eligible to vote on a resolution if:
 
@@ -504,7 +504,7 @@ the Pro‑Chancellor is to preside at the meeting.
 
                      (g)  in the case of a member referred to in paragraph 10(1)(k), (l), (m), (n), (o) or (p)—ceases to be qualified to be elected as mentioned in the paragraph concerned; or
 
-                      (i)  becomes a Deputy Vice‑Chancellor of the University under section 35; or
+                      (i)  becomes a Deputy Vice-Chancellor of the University under section 35; or
 
                       (j)  is or becomes disqualified from managing corporations under Part 2D.6 of the _Corporations Act 2001_; or
 
@@ -514,15 +514,15 @@ the Pro‑Chancellor is to preside at the meeting.
 
 the member’s office becomes vacant.
 
-          (1A)  For the purposes of paragraph (1)(k), the Council forms its opinion by resolution passed at a meeting of the Council if the resolution is passed at the meeting by at least a two‑thirds majority of the members of the Council.
+          (1A)  For the purposes of paragraph (1)(k), the Council forms its opinion by resolution passed at a meeting of the Council if the resolution is passed at the meeting by at least a two-thirds majority of the members of the Council.
 
              (2)  If a person holding office as a member of the Council referred to in one of the paragraphs of subsection 10(1), other than paragraph (a) or (c), is, before otherwise ceasing to hold that office, appointed to the office of:
 
                      (a)  Chancellor; or
 
-                     (c)  Vice‑Chancellor;
+                     (c)  Vice-Chancellor;
 
-that person ceases, upon being so appointed, to hold that first‑mentioned office.
+that person ceases, upon being so appointed, to hold that first-mentioned office.
 
 ##### <a id="16"></a>16  Casual vacancies
 
@@ -548,7 +548,7 @@ that person ceases, upon being so appointed, to hold that first‑mentioned offi
 
              (3)  The Council must not delegate its power to:
 
-                     (a)  appoint the Chancellor, Pro‑Chancellor or Vice‑Chancellor; or
+                     (a)  appoint the Chancellor, Pro-Chancellor or Vice-Chancellor; or
 
                      (b)  approve the University’s annual budget or its business plan; or
 
@@ -572,7 +572,7 @@ that person ceases, upon being so appointed, to hold that first‑mentioned offi
 
              (4)  The Council must not delegate its power to:
 
-                     (a)  appoint the Chancellor, Pro‑Chancellor or Vice‑Chancellor; or
+                     (a)  appoint the Chancellor, Pro-Chancellor or Vice-Chancellor; or
 
                      (b)  approve the University’s annual budget or its business plan; or
 
@@ -692,7 +692,7 @@ except as allowed under section 27J of the _Commonwealth Authorities and Compani
 
              (2)  The Council must cause a roll to be kept of all members of Convocation.
 
-             (3)  Meetings of Convocation may be convened by the Vice‑Chancellor or as provided in the Statutes.
+             (3)  Meetings of Convocation may be convened by the Vice-Chancellor or as provided in the Statutes.
 
 ##### <a id="31"></a>31  Quorum at meetings of Convocation
 
@@ -708,39 +708,39 @@ except as allowed under section 27J of the _Commonwealth Authorities and Compani
 
              (2)  Subject to subsection (1A) and the Statutes, the Chancellor holds office for such period, and on such conditions, as the Council determines.
 
-##### <a id="33"></a>33  Pro‑Chancellor
+##### <a id="33"></a>33  Pro-Chancellor
 
-             (1)  The Council may appoint a Pro‑Chancellor of the University. The appointee must be a member of the Council appointed by the Minister under paragraph 10(1)(q).
+             (1)  The Council may appoint a Pro-Chancellor of the University. The appointee must be a member of the Council appointed by the Minister under paragraph 10(1)(q).
 
-          (1A)  The Pro‑Chancellor may hold that office for a period that is shorter than the period of his or her office as a member of the Council. However, if:
+          (1A)  The Pro-Chancellor may hold that office for a period that is shorter than the period of his or her office as a member of the Council. However, if:
 
                      (a)  the period of his or her office as a member of the Council ends at a particular time; or
 
                      (b)  his or her office as a member of the Council becomes vacant under section 15 at a particular time;
 
-he or she also ceases to hold office as Pro‑Chancellor at that time.
+he or she also ceases to hold office as Pro-Chancellor at that time.
 
-             (2)  Subject to subsection (1A) and the Statutes, the Pro‑Chancellor holds office for such period, and on such conditions, as the Council determines.
+             (2)  Subject to subsection (1A) and the Statutes, the Pro-Chancellor holds office for such period, and on such conditions, as the Council determines.
 
-##### <a id="34"></a>34  Vice‑Chancellor
+##### <a id="34"></a>34  Vice-Chancellor
 
-             (1)  The Council must appoint the Vice‑Chancellor of the University.
+             (1)  The Council must appoint the Vice-Chancellor of the University.
 
-             (2)  The Vice‑Chancellor:
+             (2)  The Vice-Chancellor:
 
                      (a)  is the chief executive officer of the University; and
 
                      (b)  has such powers and duties as the Statutes prescribe or, subject to the Statutes, as the Council determines.
 
-             (3)  Subject to the Statutes, the Vice‑Chancellor holds office for such period, and on such conditions, as the Council determines.
+             (3)  Subject to the Statutes, the Vice-Chancellor holds office for such period, and on such conditions, as the Council determines.
 
-##### <a id="35"></a>35  Deputy Vice‑Chancellor
+##### <a id="35"></a>35  Deputy Vice-Chancellor
 
-             (1)  The Council must appoint a Deputy Vice‑Chancellor of the University, or more than one.
+             (1)  The Council must appoint a Deputy Vice-Chancellor of the University, or more than one.
 
-             (2)  A Deputy Vice‑Chancellor has such powers and duties as the Statutes prescribe or, subject to the Statutes, as the Council determines.
+             (2)  A Deputy Vice-Chancellor has such powers and duties as the Statutes prescribe or, subject to the Statutes, as the Council determines.
 
-             (3)  A Deputy Vice‑Chancellor holds office for such period, and on such conditions, subject to the Statutes, as the Council determines.
+             (3)  A Deputy Vice-Chancellor holds office for such period, and on such conditions, subject to the Statutes, as the Council determines.
 
 ##### <a id="37"></a>37  Acting appointments
 
@@ -778,13 +778,13 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                      (b)  an act or proceeding of the members, or a committee, of a University body;
 
-                     (c)  an act done by the Chancellor, the Pro‑Chancellor or a person holding an executive office.
+                     (c)  an act done by the Chancellor, the Pro-Chancellor or a person holding an executive office.
 
              (2)  An act or proceeding is not invalid merely because of:
 
                      (a)  a defect in the appointment, election, choosing or admission of:
 
-                              (i)  the Chancellor, the Pro‑Chancellor or a person holding an executive office; or
+                              (i)  the Chancellor, the Pro-Chancellor or a person holding an executive office; or
 
                              (ii)  any other member of a University body or of a committee of a University body;
 
@@ -896,11 +896,11 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                               (i)  the Chancellor;
 
-                             (ii)  the Pro‑Chancellor;
+                             (ii)  the Pro-Chancellor;
 
                             (iii)  any person holding an executive office;
 
-                     (h)  the exercise and performance by a Deputy Vice‑Chancellor, in specified circumstances, of the powers and duties of the Vice‑Chancellor;
+                     (h)  the exercise and performance by a Deputy Vice-Chancellor, in specified circumstances, of the powers and duties of the Vice-Chancellor;
 
                       (i)  the tenure of the holder of any office or place established by or under this Act in respect of which this Act does not:
 
@@ -940,7 +940,7 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                      (y)  the control and investment of the property of the University;
 
-                     (z)  the provision of superannuation or similar benefits for, and for the families of, persons holding executive office and other persons employed by the University.
+                      (z)  the provision of superannuation or similar benefits for, and for the families of, persons holding executive office and other persons employed by the University.
 
              (3)  The Statutes may empower any authority (including the Council) or officer of the University to make rules or orders, not inconsistent with this Act or with any Statute:
 
@@ -964,7 +964,7 @@ but a person appointed to act during a vacancy may not continue so to act for mo
 
                      (b)  providing for the punishment, upon summary conviction, by a fine, of offences against such a Statute.
 
-             (2)  A Statute made under this section is not to be inconsistent with a law of the Australian Capital Territory (including an enactment as defined in section 3 of the _Australian Capital Territory (Self‑Government) Act 1988_), but a Statute is not to be treated as inconsistent with such a law merely because it makes provisions with respect to a matter dealt with by that law, if the provisions can be obeyed without contravening that law.
+             (2)  A Statute made under this section is not to be inconsistent with a law of the Australian Capital Territory (including an enactment as defined in section 3 of the _Australian Capital Territory (Self-Government) Act 1988_), but a Statute is not to be treated as inconsistent with such a law merely because it makes provisions with respect to a matter dealt with by that law, if the provisions can be obeyed without contravening that law.
 
 ##### <a id="52"></a>52  Statutes to be published
 
@@ -1034,15 +1034,15 @@ being an instrument or document subsisting immediately before the commencement.
 
 ##### <a id="55"></a>55  Senior officers to continue in office
 
-             (1)  A person who, immediately before the commencement, held under the original Act the office of Chancellor, Pro‑Chancellor, Vice‑Chancellor or Deputy Vice‑Chancellor (in this section called the **_previous office_**) is taken to have been, on the commencement, duly appointed under Part 2 to:
+             (1)  A person who, immediately before the commencement, held under the original Act the office of Chancellor, Pro-Chancellor, Vice-Chancellor or Deputy Vice-Chancellor (in this section called the **_previous office_**) is taken to have been, on the commencement, duly appointed under Part 2 to:
 
                      (a)  the office of Chancellor; or
 
-                     (b)  the office of Pro‑Chancellor; or
+                     (b)  the office of Pro-Chancellor; or
 
-                     (c)  the office of Vice‑Chancellor; or
+                     (c)  the office of Vice-Chancellor; or
 
-                     (d)  an office of Deputy Vice‑Chancellor;
+                     (d)  an office of Deputy Vice-Chancellor;
 
 (as the case may be).
 
@@ -1114,9 +1114,9 @@ the Council may make such decision as it thinks proper to resolve the difficulty
 
                              (ii)  states that the estate or interest has, because of this Division, become an asset of the University; and
 
-                            (iii)  is signed by an officer of the Attorney‑General’s Department authorised by the Secretary of that Department to give such certificates;
+                            (iii)  is signed by an officer of the Attorney-General’s Department authorised by the Secretary to that Department to give such certificates;
 
-                            is lodged with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
+                            is lodged with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
 the officer with whom the certificate is lodged may deal with and give effect to the certificate as if it were a grant, conveyance, memorandum or instrument of transfer of the estate or interest to the University duly executed under the laws in force in that State or Territory.
 
@@ -1138,7 +1138,7 @@ the officer with whom the certificate is lodged may deal with and give effect to
 
 ##### <a id="63"></a>63  Students of the Arts Institute
 
-             (1)  A person who, immediately before the commencement, was enrolled, or entitled to be enrolled, as a student in a course of study offered by the Arts Institute is entitled to enrol, not later than 31 December 1992, as a student of the University in a course of study that is the same as, or substantially similar to, the first‑mentioned course of study.
+             (1)  A person who, immediately before the commencement, was enrolled, or entitled to be enrolled, as a student in a course of study offered by the Arts Institute is entitled to enrol, not later than 31 December 1992, as a student of the University in a course of study that is the same as, or substantially similar to, the first-mentioned course of study.
 
              (2)  Where:
 
@@ -1146,7 +1146,7 @@ the officer with whom the certificate is lodged may deal with and give effect to
 
                      (b)  immediately before the commencement, that permission had not expired or been revoked;
 
-the person is, in the academic year in which the person would, by the terms of that permission, have been required to enrol in that course of study, entitled to enrol as a student of the University in a course of study that is the same as, or substantially similar to, the first‑mentioned course of study.
+the person is, in the academic year in which the person would, by the terms of that permission, have been required to enrol in that course of study, entitled to enrol as a student of the University in a course of study that is the same as, or substantially similar to, the first-mentioned course of study.
 
              (3)  This section does not apply to a person who, immediately before the commencement, had completed the requirements of the course of study concerned.
 
@@ -1172,7 +1172,7 @@ the person is, in the academic year in which the person would, by the terms of t
 
                      (a)  the accounts and records to which section 47 applies are the accounts and records of the University and such of the accounts and records of the Arts Institute as are in the possession of the University;
 
-                     (b)  the Council and the Auditor‑General may, in discharging their obligations under section 49, rely on accounts and records of the Arts Institute that are in the possession of the University or to which the Council is allowed access and on any other information provided to the Council by any person who held an office established by a repealed enactment or who was a member of the staff of the Arts Institute;
+                     (b)  the Council and the Auditor-General may, in discharging their obligations under section 49, rely on accounts and records of the Arts Institute that are in the possession of the University or to which the Council is allowed access and on any other information provided to the Council by any person who held an office established by a repealed enactment or who was a member of the staff of the Arts Institute;
 
                      (c)  for the purposes of paragraph 49(2)(c), **_this Act_** includes the original Act and the Arts Institute Ordinance.
 
@@ -1180,7 +1180,7 @@ the person is, in the academic year in which the person would, by the terms of t
 
 ### Note 1
 
-The _Australian__National University__Act 1991_ as shown in this compilation comprises Act No. 131, 1991 amended as indicated in the Tables below. 
+The _Australian__National__University__Act 1991_ as shown in this compilation comprises Act No. 131, 1991 amended as indicated in the Tables below. 
 
 For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -1246,7 +1246,7 @@ of Assent</div>
   <td>
     <div>Part 1 (ss. 1, 2): Royal Assent 
 Parts 2, 3 (ss. 
-3–46) and Part 5 (ss. 60‑70): 1 Jan 1993 
+3–46) and Part 5 (ss. 60-70): 1 Jan 1993 
 Remainder: 1 Jan 1994</div>
   </td>
   <td>
@@ -1477,36 +1477,19 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 24): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Australian__National University__Act 1991_ was amended by Schedule 2 (items 415–422) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(a)_     The _Australian__National__University__Act 1991_ was amended by Schedule 2 (items 415–422) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_     The _Australian__National University__Act 1991_ was amended by Schedule 10 (item 45) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(b)_    The _Australian__National__University__Act 1991_ was amended by Schedule 10 (item 45) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12\. 
 
-_(c)_ The _Australian__National University__Act 1991_ was amended by Schedule 3 only of the _Higher Education Funding Amendment Act 2001_, subsection 2(1) of which provides as follows:
+_(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule 3 only of the _Higher Education Funding Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2007,30 +1990,6 @@ _(d)_ Subsection 2(1) (item 8) of the _Statute Law Revision Act 2008_ provides a
 </tr>
 <tr>
   <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Div. 4 of Part 5</div>
   </td>
   <td>
@@ -2084,13 +2043,13 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## Schedule 1
 
-## 212  Transitional—pre‑commencement deeds and compositions
+## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre‑commencement deed_**.
+(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre‑commencement composition_**.
+(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
-(3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -2098,21 +2057,21 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement deed; and
+                     (c)  a pre-commencement deed; and
 
-                     (d)  a pre‑commencement composition; and
+                     (d)  a pre-commencement composition; and
 
                      (e)  any matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement deed; or
+                              (i)  a pre-commencement deed; or
 
-                             (ii)  a pre‑commencement composition;
+                             (ii)  a pre-commencement composition;
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 213  Transitional—pre‑commencement authorities
+## 213  Transitional—pre-commencement authorities
 
-(1)       For the purposes of this item, if:
+(1)        For the purposes of this item, if:
 
                      (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
 
@@ -2124,9 +2083,9 @@ as if those repeals had not happened and those amendments had not been made.
 
                             (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
 
-the authority is a **_pre‑commencement authority_**.
+the authority is a **_pre-commencement authority_**.
 
-(2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
+(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
                      (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
 
@@ -2134,11 +2093,11 @@ the authority is a **_pre‑commencement authority_**.
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement authority; and
+                     (c)  a pre-commencement authority; and
 
-                     (d)  the control of the debtor’s property following a pre‑commencement authority becoming effective; and
+                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
 
-                     (e)  a meeting of the debtor’s creditors called under a pre‑commencement authority; and
+                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
 
                       (f)  whichever of the following is applicable:
 
@@ -2150,7 +2109,7 @@ continue to apply, in relation to:
 
                      (g)  any other matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement authority; or
+                              (i)  a pre-commencement authority; or
 
                              (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
 
@@ -2162,9 +2121,9 @@ as if those repeals had not happened and those amendments had not been made.
 
 ## 215  Transitional—regulations
 
-(1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
+(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -2176,23 +2135,23 @@ _Higher Education Legislation Amendment Act (No. 2) 2004 (No. 114, 2004)_
 
 In this Part:
 
-**_Principal Act_** means the _Australian__National University__Act 1991_.
+**_Principal Act_** means the _Australian__National__University__Act 1991_.
 
 ## 21  Amendments relating to the Chancellor
 
 The amendments of section 32 of the Principal Act made by this Act apply to each person holding office as Chancellor under that section on or after the commencement of this item, whether that person was appointed to that office before, on or after that commencement.
 
-## 22  Amendments relating to the Pro‑Chancellor
+## 22  Amendments relating to the Pro-Chancellor
 
-(1)       This item applies to a person who holds office as Pro‑Chancellor immediately before the commencement of this item.
+(1)        This item applies to a person who holds office as Pro-Chancellor immediately before the commencement of this item.
 
-(2)       The appointment of the person as Pro‑Chancellor continues in force after the commencement of this item as if it had been made under section 33 of the Principal Act as amended by this Act.
+(2)        The appointment of the person as Pro-Chancellor continues in force after the commencement of this item as if it had been made under section 33 of the Principal Act as amended by this Act.
 
-(3)       For the purposes of the Principal Act as amended by this Act, the person is taken, on the commencement of this item:
+(3)        For the purposes of the Principal Act as amended by this Act, the person is taken, on the commencement of this item:
 
                      (a)  to have been appointed to the Council by the Minister under paragraph 10(1)(q) of the Principal Act on the recommendation of the Nominations Committee of Council; and
 
-                     (b)  to have been so appointed for a period equal to the remainder of the period of his or her office as Pro‑Chancellor if no amendment of section 33 of the Principal Act had been made by this Act.
+                     (b)  to have been so appointed for a period equal to the remainder of the period of his or her office as Pro-Chancellor if no amendment of section 33 of the Principal Act had been made by this Act.
 
 * * *
 
@@ -2202,7 +2161,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -2210,12 +2169,14 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
+ 
 
  
