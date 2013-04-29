@@ -1,7 +1,7 @@
 
 Passenger Movement Charge Act 1978
 Act No. 118 of 1978 as amended 
-This compilation was prepared on 25 July 2001 taking into account amendments up to Act No. 79 of 2001
+This compilation was prepared on 2 May 2000 taking into account amendments up to Act No. 25 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -56,7 +56,7 @@ the first‑mentioned departure is taken not to be a departure from Australia fo
 	(b)	for an installation in Area A, on or after 1 July 1995;
 whether or not the person intends to return to Australia.
 6  Rate of passenger movement charge
-		The rate of charge imposed by this Act in respect of the departure of a person from Australia is $38.
+		The rate of charge imposed by this Act in respect of the departure of a person from Australia is $30.
 Notes to the Passenger Movement Charge Act 1978
 Note 1
 The Passenger Movement Charge Act 1978 as shown in this compilation comprises Act No. 118, 1978 amended as indicated in the Tables below.
@@ -112,11 +112,6 @@ Timor Gap Treaty (Transitional Arrangements) Act 2000
 3 Apr 2000
 Ss 4-6 and Schedule 2 (item 37): (a)
 Ss. 4-6  [see Table A]
-Passenger Movement Charge Amendment Act 2001
-79, 2001
-30 June 2001
-1 July 2001
-Sch. 1 (item 2) [see Table A]
 
 (a)	The Passenger Movement Charge Act 1978 was amended by Schedule 2 (item 37) only of the Timor Gap Treaty (Transitional Arrangements) Act 2000, subsection 2(2) of which provides as follows:
 	(2)	Sections 3 to 7 and Schedules 1 and 2 (other than items 18 to 25 of Schedule 2) are taken to have commenced at the transition time. [see Table A]
@@ -141,7 +136,7 @@ am. No. 146, 1994
 
 rs. No. 64, 1995
 S. 6	
-am. No. 131, 1981; No. 47, 1988; No. 77, 1991; No. 96, 1993; No. 146, 1994 ; No. 66, 1998; No. 79, 2001
+am. No. 131, 1981; No. 47, 1988; No. 77, 1991; No. 96, 1993; No. 146, 1994 ; No. 66, 1998
 
 Table A
 Application, saving or transitional provisions
@@ -154,11 +149,4 @@ Timor Gap Treaty (Transitional Arrangements) Act 2000  (No. 25, 2000)
 		In this Act:
 transition time means 1.23 am Australian Central Standard Time on 26 October 1999.
 Note:	This time corresponds to the time in New York when the United Nations Security Council adopted Resolution 1272 (1999), which established UNTAET and gave it responsibility for the administration of East Timor. In 2000 the text of the Resolution was available in the Library of the Department of Foreign Affairs and Trade and accessible on the Internet through the Department’s or the United Nations’ world‑wide web site.
-
-Passenger Movement Charge Amendment Act 2001 (No. 79, 2001)
-Schedule 1
-2  Application
-The amendment of section 6 of the Passenger Movement Charge Act 1978 made by this Schedule applies in relation to the departure of a person from Australia on or after 1 July 2001, unless:
-	(a)	the person departs using a ticket or equivalent authority; and
-	(b)	the ticket or authority was sold or issued before 1 July 2001.
 
