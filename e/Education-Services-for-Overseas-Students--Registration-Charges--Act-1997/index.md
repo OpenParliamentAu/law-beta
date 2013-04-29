@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00170/Html/EducSerOSStuRC1997_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00008/Html/EducSerOSStuRC1997_WD02_image001.gif)
 
 # Education Services for Overseas Students (Registration Charges) Act 1997
 
 **Act No. 18 of 1997 as amended**
 
-This compilation was prepared on 10 March 2010
- taking into account amendments up to Act No. 10 of 2010
+This compilation was prepared on 1 January 2007
+ taking into account amendments up to Act No. 143 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,25 +18,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Crown to be bound
+[3](#3).            Crown to be bound                                                                              1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                       1
 
-[5](#5).            Annual registration charge
+[5](#5).            Annual registration charge                                                                   1
 
-[5A](#5A).         Variation of annual registration charge
+[5A](#5A).         Variation of annual registration charge                                                 2
 
-[6](#6).            Initial registration charge
+[6](#6).            Initial registration charge                                                                      3
 
-[7](#7).            Indexation of amounts
+[7](#7).            Indexation of amounts                                                                         3
 
-[8](#8).            Imposition of charges
+[8](#8).            Imposition of charges                                                                          4
 
-[9](#9).            Transitional arrangements for 1997
+[9](#9).            Transitional arrangements for 1997                                                     4
 
 **Notes** 
 
@@ -102,17 +102,17 @@ Note 2:       A dollar amount may be different if an instrument unde
 
 ##### <a id="6"></a>6  Initial registration charge
 
-             (1)  Before becoming registered under section 9 of the _Education Services for Overseas Students Act 2000_, a provider is liable to pay an initial registration charge.
+             (1)  Before becoming registered, a provider is liable to pay an initial registration charge.
 
-Note:          A provider is liable to pay the initial registration charge each time the provider becomes registered under that section.
+Note:          A provider is liable to pay the initial registration charge each time the provider becomes registered.
 
-             (2)  The amount of the charge for a registration under that section is worked out using the formula:
+             (2)  The amount of the charge for a registration is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00170/Html/EducSerOSStuRC1997_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00008/Html/EducSerOSStuRC1997_WD02_image002.gif)
 
 where:
 
-                    <a name="remain-month"></a>**_remaining months_** means the number of complete months that remain in the year after the provider becomes registered under that section.
+                    <a name="remain-month"></a>**_remaining months_** means the number of complete months that remain in the year after the provider becomes registered.
 
 Note:          The amount of the charge is indexed under section 7 for 1998 and later years.
 
@@ -126,7 +126,7 @@ Note:          The reason for the exception is that the possib
 
              (2)  The dollar amounts specified in subsection 5(2) or in an instrument in effect under section 5A, and the amount specified in the formula in subsection 6(2), are to be adjusted for the current year by multiplying the amounts that applied to the year before the current year by the indexation factor worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00170/Html/EducSerOSStuRC1997_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00008/Html/EducSerOSStuRC1997_WD02_image003.gif)
 
 where:
 
@@ -275,23 +275,6 @@ of Assent</div>
   <td>
     <div>Sch. 1 (item 37(1))</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Education Services for Overseas Students Amendment (Re-registration of Providers and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>10, 2010</div>
-  </td>
-  <td>
-    <div>3 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 27–30): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Education Services for Overseas Students (Registration Charges) Act 1997_ was amended by Schedule 1 (item 2) only of the _Education Services for Overseas Students (Consequential and Transitional) Act 2000_, subsection 2(4) of which provides as follows:
@@ -398,15 +381,7 @@ _(a)_     The _Education Services for Overseas Students (Registration Ch
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 143, 2006; No. 10, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 6(1)</div>
-  </td>
-  <td>
-    <div>am. No. 10, 2010</div>
+    <div>am. No. 143, 2006</div>
   </td>
 </tr>
 <tr>
@@ -523,5 +498,7 @@ _Education Services for Overseas Students Legislation Amendment (2006 Measures N
                      (b)  of the _Education Services for Overseas Students (Registration Charges) Act 1997_ made by item 36 of this Schedule;
 
 do not apply to a liability to pay the initial registration charge or a reinstatement fee if the liability existed immediately before the commencement of this item.
+
+ 
 
  
