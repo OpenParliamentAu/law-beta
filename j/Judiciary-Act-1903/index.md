@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00549/Html/6ab9c16c-807a-49cc-9424-d6f542b537b9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00510/Html/Judiciary03_WD02_image001.gif)
 
 # Judiciary Act 1903
 
 **Act No. 6 of 1903 as amended**
 
-This compilation was prepared on 4 December 2009
+This compilation was prepared on 11 November 2009
  taking into account amendments up to Act No. 106 of 2009
 
 The text of any of those amendments not in force 
@@ -21,391 +21,385 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Interpretation                                                                                        1
+[2](#2).            Interpretation
 
-[3A](#3A).         Extension to Territories                                                                        2
+[3A](#3A).         Extension to Territories
 
 **Part III—Jurisdiction and powers of the High Court generally** 
 
     **Division 1—Exercise of jurisdiction**
 
-[15](#15).          Exercise of jurisdiction                                                                         3
+[15](#15).          Exercise of jurisdiction
 
     **Division 2—Jurisdiction of single Justice**
 
-[16](#16).          Jurisdiction in Chambers                                                                      4
+[16](#16).          Jurisdiction in Chambers
 
-[17](#17).          State Supreme Courts invested with jurisdiction in Chambers             4
+[17](#17).          State Supreme Courts invested with jurisdiction in Chambers
 
-[18](#18).          Reference to Full Court                                                                        4
+[18](#18).          Reference to Full Court
 
     **Division 3—Full Court**
 
-[19](#19).          Quorum of a Full Court                                                                       5
+[19](#19).          Quorum of a Full Court
 
-[20](#20).          Appeals from Judges of federal jurisdiction                                         5
+[20](#20).          Appeals from Judges of federal jurisdiction
 
-[21](#21).          Applications for special leave to appeal to High Court                         5
+[21](#21).          Applications for special leave to appeal to High Court
 
-[22](#22).          Quorum for granting leave to appeal to the Queen in Council or to High Court       6
+[22](#22).          Quorum for granting leave to appeal to the Queen in Council or to High Court
 
-[23](#23).          Decision in case of difference of opinion                                             6
+[23](#23).          Decision in case of difference of opinion
 
     **Division 4—Enforcement of process**
 
-[24](#24).          Contempt                                                                                              7
+[24](#24).          Contempt
 
-[25](#25).          Powers of court to extend to whole Commonwealth                            7
+[25](#25).          Powers of court to extend to whole Commonwealth
 
     **Division 4A—Summary judgment**
 
-[25A](#25A).       Summary judgment                                                                              8
+[25A](#25A).       Summary judgment
 
     **Division 5—Costs**
 
-[26](#26).          Costs                                                                                                    9
+[26](#26).          Costs
 
-[27](#27).          No appeal as to costs                                                                            9
+[27](#27).          No appeal as to costs
 
     **Division 6—Defendants**
 
-[28](#28).          Non-appearance of some defendants                                                  10
+[28](#28).          Non-appearance of some defendants
 
-[29](#29).          Absent defendants                                                                              10
+[29](#29).          Absent defendants
 
 **Part IV—Original jurisdiction of the High Court**
 
-[30](#30).          Original jurisdiction conferred                                                           11
+[30](#30).          Original jurisdiction conferred
 
-[31](#31).          Judgment and execution                                                                     11
+[31](#31).          Judgment and execution
 
-[32](#32).          Complete relief to be granted                                                              11
+[32](#32).          Complete relief to be granted
 
-[33](#33).          Mandamus Prohibition Ouster of office                                             12
+[33](#33).          Mandamus Prohibition Ouster of office
 
-[33A](#33A).       Awards may be made Rules of Court                                                12
+[33A](#33A).       Awards may be made Rules of Court
 
 **Part V—Appellate jurisdiction of the High Court** 
 
     **Division 1—Appeals**
 
-[34](#34).          Appeals from Justices of High Court                                                 13
+[34](#34).          Appeals from Justices of High Court
 
-[35](#35).          Appeal from courts of States                                                              13
+[35](#35).          Appeal from courts of States
 
-[35AA](#35AA).    Appeals from Supreme Court of a Territory                                      14
+[35AA](#35AA).    Appeals from Supreme Court of a Territory
 
-[35A](#35A).       Criteria for granting special leave to appeal                                        14
+[35A](#35A).       Criteria for granting special leave to appeal
 
     **Division 2—Power of Court**
 
-[36](#36).          New Trials                                                                                         15
+[36](#36).          New Trials
 
-[37](#37).          Form of judgment on appeal                                                              15
+[37](#37).          Form of judgment on appeal
 
 **Part VI—Exclusive and invested jurisdiction**
 
-[38](#38).          Matters in which jurisdiction of High Court exclusive                       16
+[38](#38).          Matters in which jurisdiction of High Court exclusive
 
-[39](#39).          Federal jurisdiction of State Courts in other matters                           16
+[39](#39).          Federal jurisdiction of State Courts in other matters
 
-[39A](#39A).       Federal jurisdiction invested in State Courts by other provisions       17
+[39A](#39A).       Federal jurisdiction invested in State Courts by other provisions
 
-[39B](#39B).       Original jurisdiction of Federal Court of Australia                             17
+[39B](#39B).       Original jurisdiction of Federal Court of Australia
 
 **Part VII—Removal of causes**
 
-[40](#40).          Removal by order of the High Court                                                  22
+[40](#40).          Removal by order of the High Court
 
-[41](#41).          Proceedings after removal                                                                  23
+[41](#41).          Proceedings after removal
 
-[42](#42).          Remittal of causes                                                                              23
+[42](#42).          Remittal of causes
 
-[43](#43).          Effect of interlocutory orders etc  before removal of cause                23
+[43](#43).          Effect of interlocutory orders etc  before removal of cause
 
-[44](#44).          Remittal of matters by High Court to other courts                              24
+[44](#44).          Remittal of matters by High Court to other courts
 
-[45](#45).          Defence in causes removed to High Court                                         25
+[45](#45).          Defence in causes removed to High Court
 
 **Part VIII—Enforcement of certain orders concerning court proceedings**
 
-[46](#46).          Interpretation                                                                                      26
+[46](#46).          Interpretation
 
-[47](#47).          Application                                                                                         26
+[47](#47).          Application
 
-[48](#48).          Crown to be bound                                                                            26
+[48](#48).          Crown to be bound
 
-[49](#49).          Contravention of order to constitute contempt                                    26
+[49](#49).          Contravention of order to constitute contempt
 
-[50](#50).          Reports                                                                                               27
+[50](#50).          Reports
 
-[51](#51).          Application of this Part                                                                      28
+[51](#51).          Application of this Part
 
 **Part VIIIA—Legal practitioners**
 
-[55A](#55A).       Right of barristers and solicitors admitted in federal courts to practise in those courts             29
+[55A](#55A).       Right of barristers and solicitors admitted in federal courts to practise in those courts
 
-[55B](#55B).       Right to practise as barrister or solicitor in federal courts and courts exercising federal jurisdiction        29
+[55B](#55B).       Right to practise as barrister or solicitor in federal courts and courts exercising federal jurisdiction
 
-[55C](#55C).       Register of Practitioners                                                                     31
+[55C](#55C).       Register of Practitioners
 
-[55D](#55D).       Right to practise as barrister or solicitor in Territories                        32
+[55D](#55D).       Right to practise as barrister or solicitor in Territories
 
-[55E](#55E).        Attorney-General’s lawyers                                                               34
+[55E](#55E).        Attorney-General’s lawyers
 
-[55F](#55F).        Attorney-General’s lawyer may act for more than one party              35
+[55F](#55F).        Attorney-General’s lawyer may act for more than one party
 
-[55G](#55G).       Commonwealth may charge for services of Attorney-General’s lawyer  35
+[55G](#55G).       Commonwealth may charge for services of Attorney-General’s lawyer
 
-[55H](#55H).       Lawyers employed by a State, the Australian Capital Territory or the Northern Territory        35
+[55H](#55H).       Lawyers employed by a State, the Australian Capital Territory or the Northern Territory
 
 **Part VIIIB—The Australian Government Solicitor** 
 
     **Division 1—Definitions**
 
-[55I](#55I).         Definitions                                                                                         37
+[55I](#55I).         Definitions
 
     **Division 2—Establishment and functions of the Australian Government Solicitor**
 
-[55J](#55J).        Establishment of the Australian Government Solicitor                       38
+[55J](#55J).        Establishment of the Australian Government Solicitor
 
-[55K](#55K).       Functions                                                                                           38
+[55K](#55K).       Functions
 
-[55L](#55L).        Powers                                                                                               38
+[55L](#55L).        Powers
 
-[55M](#55M).      Constitution                                                                                        39
+[55M](#55M).      Constitution
 
-[55N](#55N).       Persons and bodies for whom the AGS may provide services          39
+[55N](#55N).       Persons and bodies for whom the AGS may provide services
 
-[55P](#55P).        AGS may charge for services                                                            40
+[55P](#55P).        AGS may charge for services
 
     **Division 3—Capacity of AGS and AGS lawyers to act**
 
-[55Q](#55Q).       AGS lawyers                                                                                     42
+[55Q](#55Q).       AGS lawyers
 
-[55R](#55R).       AGS may act for more than one party                                                42
+[55R](#55R).       AGS may act for more than one party
 
     **Division 4—Appointment and terms and conditions of CEO and staff**
 
-[55S](#55S).        Chief Executive Officer of the AGS                                                  43
+[55S](#55S).        Chief Executive Officer of the AGS
 
-[55T](#55T).        Appointment of CEO                                                                         43
+[55T](#55T).       Appointment of CEO
 
-[55U](#55U).       Terms and conditions of appointment                                                43
+[55U](#55U).       Terms and conditions of appointment
 
-[55V](#55V).       Resignation                                                                                        43
+[55V](#55V).       Resignation
 
-[55W](#55W).      Termination of CEO’s appointment                                                   44
+[55W](#55W).      Termination of CEO’s appointment
 
-[55X](#55X).       CEO must disclose interests                                                               44
+[55X](#55X).       CEO must disclose interests
 
-[55Y](#55Y).       Outside employment                                                                          44
+[55Y](#55Y).       Outside employment
 
-[55Z](#55Z).        Acting CEO                                                                                       44
+[55Z](#55Z).       Acting CEO
 
-[55ZA](#55ZA).     Delegation                                                                                          45
+[55ZA](#55ZA).    Delegation
 
-[55ZB](#55ZB).     Staff and consultants                                                                          45
+[55ZB](#55ZB).     Staff and consultants
 
     **Division 5—Money**
 
-[55ZC](#55ZC).     Exemption from State and Territory taxation                                      46
+[55ZC](#55ZC).     Exemption from State and Territory taxation
 
-[55ZD](#55ZD).     AGS must make tax-equivalent payments to the Commonwealth      46
+[55ZD](#55ZD).    AGS must make tax-equivalent payments to the Commonwealth
 
-[55ZE](#55ZE).     Corporate governance requirements                                                   46
+[55ZE](#55ZE).     Corporate governance requirements
 
 **Part VIIIC—Attorney-General’s Legal Services Directions**
 
-[55ZF](#55ZF).     Attorney-General may issue directions                                              48
+[55ZF](#55ZF).     Attorney-General may issue directions
 
-[55ZG](#55ZG).     Compliance with Legal Services Directions                                       49
+[55ZG](#55ZG).    Compliance with Legal Services Directions
 
-[55ZH](#55ZH).     Legal Services Directions and legal professional privilege                 49
+[55ZH](#55ZH).    Legal Services Directions and legal professional privilege
 
-[55ZI](#55ZI).      Anything done under Legal Services Directions not actionable         50
+[55ZI](#55ZI).      Anything done under Legal Services Directions not actionable
 
 **Part IX—Suits by and against the Commonwealth and the States**
 
-[56](#56).          Suits against the Commonwealth                                                       51
+[56](#56).          Suits against the Commonwealth
 
-[57](#57).          Suits by a State against the Commonwealth                                       51
+[57](#57).          Suits by a State against the Commonwealth
 
-[58](#58).          Suits against a State in matters of federal jurisdiction                         51
+[58](#58).          Suits against a State in matters of federal jurisdiction
 
-[59](#59).          Suits between States                                                                           52
+[59](#59).          Suits between States
 
-[60](#60).          Injunction against a State and its officers                                           52
+[60](#60).          Injunction against a State and its officers
 
-[61](#61).          Suits by Commonwealth                                                                    52
+[61](#61).          Suits by Commonwealth
 
-[62](#62).          Suits by a State                                                                                   52
+[62](#62).          Suits by a State
 
-[63](#63).          Service of process when Commonwealth or State is party                 52
+[63](#63).          Service of process when Commonwealth or State is party
 
-[64](#64).          Rights of parties                                                                                 52
+[64](#64).          Rights of parties
 
-[65](#65).          No execution against Commonwealth or a State                                53
+[65](#65).          No execution against Commonwealth or a State
 
-[66](#66).          Performance by Commonwealth or State                                           53
+[66](#66).          Performance by Commonwealth or State
 
-[67](#67).          Execution by Commonwealth or State                                               53
+[67](#67).          Execution by Commonwealth or State
 
 **Part IXA—Suits relating to the Northern Territory**
 
-[67A](#67A).       Interpretation                                                                                      54
+[67A](#67A).       Interpretation
 
-[67B](#67B).       Suits between Commonwealth and Northern Territory                      54
+[67B](#67B).       Suits between Commonwealth and Northern Territory
 
-[67C](#67C).       Jurisdiction of Supreme Court of Territory                                        54
+[67C](#67C).       Jurisdiction of Supreme Court of Territory
 
-[67D](#67D).       Prosecution of indictable offences in Supreme Court of Territory     55
+[67D](#67D).       Prosecution of indictable offences in Supreme Court of Territory
 
-[67E](#67E).        No execution against Territory                                                           55
+[67E](#67E).        No execution against Territory
 
-[67F](#67F).        Effect of this Part                                                                               55
+[67F](#67F).        Effect of this Part
 
 **Part X—Criminal jurisdiction** 
 
     **Division 1—Application of laws**
 
-[68](#68).          Jurisdiction of State and Territory courts in criminal cases                56
-
-[68A](#68A).       Committals jurisdiction if both Federal Court of Australia and State or Territory court have jurisdiction in relation to indictable offence                                                                               59
-
-[68B](#68B).       Application of State and Territory laws if Federal Court of Australia and State or Territory court both have jurisdiction in relation to an offence                                                                          61
-
-[68C](#68C).       Adjustments to State and Territory laws applying to proceedings before Federal Court of Australia       61
+[68](#68).          Jurisdiction of State and Territory courts in criminal cases
 
     **Division 2—Indictable offences**
 
-[69](#69).          Indictments                                                                                         65
+[69](#69).          Indictments
 
-[70](#70).          Offences committed in several States                                                 65
+[70](#70).          Offences committed in several States
 
-[70A](#70A).       Indictable offence not committed in a State                                        66
+[70A](#70A).       Indictable offence not committed in a State
 
-[71](#71).          Discharge of persons committed for trial                                           66
+[71](#71).          Discharge of persons committed for trial
 
-[71A](#71A).       Trial of indictable offence without preliminary examination               66
+[71A](#71A).       Trial of indictable offence without preliminary examination
 
     **Division 3—Appeals**
 
-[72](#72).          Reservation of points of law                                                              68
+[72](#72).          Reservation of points of law
 
-[73](#73).          Hearing                                                                                              69
+[73](#73).          Hearing
 
-[74](#74).          Effect of order of Full Court                                                              69
+[74](#74).          Effect of order of Full Court
 
-[75](#75).          Certain errors not to avoid conviction                                                70
+[75](#75).          Certain errors not to avoid conviction
 
-[76](#76).          Appeal from arrest of judgment                                                         70
+[76](#76).          Appeal from arrest of judgment
 
-[77](#77).          No other appeal                                                                                  71
+[77](#77).          No other appeal
 
 **Part XA—Procedure of the High Court** 
 
     **Division 1—Trials**
 
-[77A](#77A).       Trial without jury                                                                               72
+[77A](#77A).       Trial without jury
 
-[77B](#77B).       Power of High Court to direct trial with jury                                     72
+[77B](#77B).       Power of High Court to direct trial with jury
 
-[77C](#77C).       Trial of an issue and new trials                                                           72
+[77C](#77C).       Trial of an issue and new trials
 
-[77D](#77D).       Juries                                                                                                  72
+[77D](#77D).       Juries
 
     **Division 2—Evidence**
 
-[77E](#77E).        Production of books                                                                           74
+[77E](#77E).        Production of books
 
-[77F](#77F).        Oaths and affirmations                                                                       74
+[77F](#77F).        Oaths and affirmations
 
-[77G](#77G).       Orders and commissions for examination of witnesses                     74
+[77G](#77G).       Orders and commissions for examination of witnesses
 
-[77H](#77H).       Oral and affidavit evidence                                                                 75
+[77H](#77H).       Oral and affidavit evidence
 
     **Division 3—Defects and errors**
 
-[77J](#77J).        Amendment                                                                                        76
+[77J](#77J).        Amendment
 
-[77K](#77K).       Formal defects not to invalidate                                                          76
+[77K](#77K).       Formal defects not to invalidate
 
     **Division 4—Reserved judgments**
 
-[77L](#77L).        Reserved judgments                                                                           77
+[77L](#77L).        Reserved judgments
 
     **Division 5—Judgment and execution**
 
-[77M](#77M).      Enforcement of judgments                                                                 78
+[77M](#77M).      Enforcement of judgments
 
-[77MA](#77MA).   Interest up to judgment                                                                       78
+[77MA](#77MA).   Interest up to judgment
 
-[77N](#77N).       Interest on judgment debts                                                                 79
+[77N](#77N).       Interest on judgment debts
 
-[77P](#77P).        Interpleader                                                                                        79
+[77P](#77P).        Interpleader
 
-[77Q](#77Q).       Discharge of property taken in execution                                           80
+[77Q](#77Q).       Discharge of property taken in execution
 
     **Division 6—Receivers and managers**
 
-[77R](#77R).       Receivers and managers                                                                     81
+[77R](#77R).       Receivers and managers
 
 **Part XB—Appeals to the High Court** 
 
     **Division 1—Security**
 
-[77S](#77S).        Security                                                                                              82
+[77S](#77S).        Security
 
     **Division 2—Procedure**
 
-[77T](#77T).        Institution of appeals                                                                          83
+[77T](#77T).       Institution of appeals
 
-[77U](#77U).       Stay of proceedings                                                                            83
+[77U](#77U).       Stay of proceedings
 
-[77V](#77V).       Death of party to an appeal                                                                 83
+[77V](#77V).       Death of party to an appeal
 
 **Part XI—Supplementary provisions** 
 
     **Division 1—Appearance of Parties**
 
-[78](#78).          Appearance of parties                                                                         84
+[78](#78).          Appearance of parties
 
     **Division 1A—Provisions relating to Constitutional matters**
 
-[78AA](#78AA).    State includes Australian Capital Territory and Northern Territory    85
+[78AA](#78AA).    State includes Australian Capital Territory and Northern Territory
 
-[78A](#78A).       Intervention by Attorneys-General                                                     85
+[78A](#78A).       Intervention by Attorneys-General
 
-[78B](#78B).       Notice to Attorneys-General                                                              86
+[78B](#78B).       Notice to Attorneys-General
 
     **Division 2—Application of laws**
 
-[79](#79).          State or Territory laws to govern where applicable                            87
+[79](#79).          State or Territory laws to govern where applicable
 
-[80](#80).          Common law to govern                                                                      88
+[80](#80).          Common law to govern
 
-[80A](#80A).       Application of sections 79 and 80 to Territory courts                        88
+[80A](#80A).       Application of sections 79 and 80 to Territory courts
 
-[81](#81).          Security of the peace and for good behaviour                                    88
+[81](#81).          Security of the peace and for good behaviour
 
     **Division 3—Venue**
 
-[82](#82).          Venue in suits for penalties                                                                89
+[82](#82).          Venue in suits for penalties
 
-[83](#83).          Venue in suits for taxes                                                                      89
+[83](#83).          Venue in suits for taxes
 
-[84](#84).          Venue in suits for forfeiture                                                               89
+[84](#84).          Venue in suits for forfeiture
 
-[85](#85).          Property seized as forfeited                                                                89
+[85](#85).          Property seized as forfeited
 
     **Division 4—Rules of Court**
 
-[86](#86).          Rules of Court                                                                                    90
+[86](#86).          Rules of Court
 
-[88](#88).          Regulations                                                                                        91
+[88](#88).          Regulations
 
 **The Schedule** 
 
@@ -432,8 +426,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="chief-justic"></a>**_Chief Justice_** includes a Justice for the time being performing the duties and exercising the powers of the Chief Justice.
 
                     <a name="defend"></a>**_Defendant_** includes any person against whom any relief is sought in a matter or who is required to attend the proceedings in a matter as a party thereto.
-
-                    <a name="examin-commit-trial-indict"></a>**_examination and commitment for trial on indictment_** includes commitment for trial on indictment.
 
                     <a name="judgment"></a>**_Judgment_** includes any judgment decree order or sentence.
 
@@ -497,7 +489,7 @@ But on the application of either party the Justice may order the application to 
 
 ##### <a id="19"></a>19  Quorum of a Full Court
 
-                   Except as hereinafter provided, a Full Court may be constituted by any two or more Justices of the High Court sitting together.
+                   Except as hereinafter provided, a Full   Court may be constituted by any two or more Justices of the High Court sitting together.
 
 ##### <a id="20"></a>20  Appeals from Judges of federal jurisdiction
 
@@ -745,8 +737,6 @@ Scope of original jurisdiction
 
                      (c)  arising under any laws made by the Parliament, other than a matter in respect of which a criminal prosecution is instituted or any other criminal matter.
 
-Note:          Paragraph (c) does not prevent other laws of the Commonwealth conferring criminal jurisdiction on the Federal Court of Australia.
-
 Jurisdiction for certain writs that relate to criminal prosecutions etc.
 
           (1B)  If a decision to prosecute a person for an offence against a law of the Commonwealth, a State or a Territory has been made by an officer or officers of the Commonwealth and the prosecution is proposed to be commenced in a court of a State or Territory:
@@ -769,7 +759,7 @@ the following apply:
 
           (1D)  Subsection (1C) does not apply where a person has applied for a writ of mandamus or prohibition, or an injunction, against an officer or officers of the Commonwealth in relation to a related criminal justice process decision before the commencement of a prosecution for an offence against a law of the Commonwealth, or of a State or a Territory.
 
-          (1E)  Where subsection (1D) applies, the prosecutor may apply to the court for a permanent stay of the proceedings referred to in that subsection, and the court may grant such a stay if the court determines that:
+           (1E)  Where subsection (1D) applies, the prosecutor may apply to the court for a permanent stay of the proceedings referred to in that subsection, and the court may grant such a stay if the court determines that:
 
                      (a)  the matters the subject of the proceedings are more appropriately dealt with in the criminal justice process; and
 
@@ -937,7 +927,7 @@ and extends to acts done or omitted to be done outside Australia.
 
 ##### <a id="48"></a>48  Crown to be bound
 
-                   This Part binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+                   This Part binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
 ##### <a id="49"></a>49  Contravention of order to constitute contempt
 
@@ -1093,7 +1083,7 @@ but the Court may at any time, by order, revoke or vary any such order.
 
 subsections (1), (3) and (4) do not apply in relation to practice in the Territory.
 
-             (7)  Nothing in this section applies in relation to practice in a federal court or to practice in the Northern   Territory, the Territory of Christmas Island or the Territory of Cocos (Keeling)  Islands.
+             (7)  Nothing in this section applies in relation to practice in a federal court or to practice in the Northern   Territory, the Territory of Christmas Island or the Territory of Cocos (Keeling) Islands.
 
 ##### <a id="55E"></a>55E  Attorney-General’s lawyers 
 
@@ -1149,7 +1139,7 @@ whether or not he or she is so entitled apart from this subsection.
 
              (2)  If the Commonwealth has charged a client an amount under subsection (1), the amount may be recovered by the client as costs incurred by the client.
 
-##### <a id="55H"></a>55H  Lawyers employed by a State, the Australian Capital Territory or the Northern Territory
+##### <a id="55H"></a>55H  Lawyers employed by a State, the Australian Capital Territory or the Northern   Territory
 
              (1)  If:
 
@@ -1191,7 +1181,7 @@ the amount charged is taken to have been paid by the client.
 
                     <a name="state"></a>**_State_** includes the Australian Capital   Territory and the Northern Territory.
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory or the Northern Territory.
+                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory or the Northern Territory.
 
 ### Division 2—Establishment and functions of the Australian Government Solicitor
 
@@ -1285,7 +1275,7 @@ Note:          For **_Territory_** see subsection (5).
 
                      (e)  a person employed by:
 
-                              (i)  a State or Norfolk Island; or
+                              (i)  a State or Norfolk  Island; or
 
                              (ii)  a body established by a law of a State or of Norfolk Island;
 
@@ -1309,7 +1299,7 @@ Note:          For **_State_** see section 55I.
 
              (5)  In this section:
 
-                    <a name="territori"></a>**_Territory_** does not include the Australian Capital Territory, the Northern Territory or Norfolk Island.
+                    <a name="territori"></a>**_Territory_** does not include the Australian   Capital Territory, the Northern Territory or Norfolk Island.
 
 ##### <a id="55P"></a>55P  AGS may charge for services
 
@@ -1575,7 +1565,7 @@ the person is taken, for all purposes, not to have breached legal professional p
 
 ##### <a id="63"></a>63  Service of process when Commonwealth or State is party
 
-                   Where the Commonwealth or a State is a Party to a suit, all process in the suit required to be served upon that party shall be served upon the Attorney-General of the Commonwealth or of the State, as the case may be, or upon some person appointed by him or her to receive service.
+                   Where the Commonwealth or a State is a Party to a suit, all process in the suit required to be served upon that party shall be served upon the Attorney-General of the Commonwealth or of the State, as the case may be, or upon some person appointed by him or her to receive service.
 
 ##### <a id="64"></a>64  Rights of parties
 
@@ -1607,7 +1597,7 @@ the person is taken, for all purposes, not to have breached legal professional p
 
                    The Commonwealth may bring a suit against the Territory, and the Territory may bring a suit against the Commonwealth, in the Supreme Court of the Territory in respect of a cause of any description, whether at law or in equity, including (but without limiting the generality of the foregoing) a claim in tort.
 
-##### <a id="67C"></a>67C  Jurisdiction of Supreme Court of Territory
+##### <a id="67C"></a>67C  Jurisdiction of Supreme Court of Territory
 
                    The jurisdiction of the Supreme Court of the Territory extends to:
 
@@ -1693,254 +1683,6 @@ of persons charged with offences against the laws of the Commonwealth, being off
 
            (11)  Nothing in this section excludes or limits any power of arrest conferred by, or any jurisdiction vested or conferred by, any other law, including an Act passed before the commencement of this subsection.
 
-##### <a id="68A"></a>68A  Committals jurisdiction if both Federal Court of Australia and State or Territory court have jurisdiction in relation to indictable offence
-
-             (1)  This section applies if both:
-
-                     (a)  the Federal Court of Australia; and
-
-                     (b)  a court of a State or Territory (the **_superior State or Territory court_**);
-
-have jurisdiction to try a person on indictment for an indictable offence against a law of the Commonwealth (the **_indictable offence_**).
-
-Working out which court the person should be committed to
-
-             (2)  If a court of the State or Territory (the **_State or Territory committals court_**) has, under subsection 68(2), jurisdiction with respect to the examination and commitment for trial on indictment of a person who is charged with the indictable offence, the court may, in exercising that jurisdiction:
-
-                     (a)  commit the person for trial on indictment for the offence before either:
-
-                              (i)  the Federal Court of Australia; or
-
-                             (ii)  the superior State or Territory court; or
-
-                     (b)  if the person pleads guilty to the offence, commit the person for sentencing for the offence by either:
-
-                              (i)  the Federal Court of Australia; or
-
-                             (ii)  the superior State or Territory court.
-
-This subsection has effect subject to subsections (3) and (4).
-
-Note:          Paragraph (2)(b) refers to committal for sentencing. For the power of the State or Territory committal court to commit for sentencing, see subsection 68(7).
-
-             (3)  Despite subsection 68(1), if:
-
-                     (a)  a person is charged with the indictable offence; and
-
-                     (b)  at the end of the proceedings before the State or Territory committals court, the State or Territory committals court proposes to make an order (the **_committal order_**) that the person be committed for trial on indictment, or for sentencing, for the indictable offence;
-
-the State or Territory committals court must invite the Director of Public Prosecutions to suggest the court before which the person is to be tried or sentenced.
-
-Note:          The State or Territory committals court must make this invitation even if the Director of Public Prosecutions is not a party to the committal proceedings.
-
-             (4)  When making the committal order, the State or Territory committals court must consider specifying the court suggested by the Director of Public Prosecutions as the court before which the person is to be tried or sentenced.
-
-Committal court may grant bail to person to appear before Federal Court
-
-             (5)  If the committal order relating to the person specifies the Federal Court of Australia, then a power of the State or Territory committals court:
-
-                     (a)  that is conferred by a law applying under subsection 68(1) in relation to indictable offences against the laws of the Commonwealth; and
-
-                     (b)  that enables the State or Territory committals court to grant bail to persons accused of such offences to appear before the superior State or Territory court if committed for trial, or for sentencing, before the superior State or Territory court;
-
-applies as if the power included the power to grant bail to the first-mentioned person to appear before the Federal Court of Australia.
-
-Note:          Appeals or reviews of the exercise of this power will be dealt with under the laws of the State or Territory applying under subsection 68(1). However, bail will be dealt with under Part VIB of the _Federal Court of Australia Act 1976_ once indictable primary proceedings (within the meaning of that Act) commence for the person.
-
-If question about person’s fitness to be tried
-
-             (6)  Subsection 20B(1) of the _Crimes Act 1914_ applies as if the reference in that subsection to the court to which the proceedings would have been referred had the person been committed for trial were a reference to a court to which the proceedings could have been referred had the person been committed for trial.
-
-Note:          This means the committal court may choose whether to refer a question of the person’s fitness to be tried to either the Federal Court of Australia or the superior State or Territory court.
-
-##### <a id="68B"></a>68B  Application of State and Territory laws if Federal Court of Australia and State or Territory court both have jurisdiction in relation to an offence
-
-             (1)  To avoid doubt:
-
-                     (a)  subsection 68(1) applies to a person:
-
-                              (i)  who is charged with an offence against a law of the Commonwealth; and
-
-                             (ii)  in respect of whom jurisdiction is conferred on a court of a State or Territory by section 68;
-
-                            even if jurisdiction in relation to that person and that offence is also conferred on the Federal Court of Australia by another law of the Commonwealth; and
-
-                     (b)  subsection 68(1) applies to the person and the offence in relation to:
-
-                              (i)  any proceedings in relation to the offence that are brought before a court of the State or Territory; and
-
-                             (ii)  any proceedings in relation to the offence that are brought before the Federal Court of Australia.
-
-             (2)  Paragraph (1)(b) has effect subject to section 68C.
-
-##### <a id="68C"></a>68C  Adjustments to State and Territory laws applying to proceedings before Federal Court of Australia
-
-             (1)  This section applies if:
-
-                     (a)  an offence referred to in subsection 68(1) is an indictable offence; and
-
-                     (b)  the Federal Court of Australia (the **_Federal Court_**) has jurisdiction to try a person on indictment for the offence; and
-
-                     (c)  proceedings commence in the Federal Court in relation to the offence that are:
-
-                              (i)  indictable primary proceedings (within the meaning of the _Federal Court of Australia Act 1976_) (**_primary proceedings_**); or
-
-                             (ii)  criminal appeal proceedings (within the meaning of that Act) that relate to primary proceedings; or
-
-                            (iii)  proceedings under section 30CA of that Act that relate to primary proceedings; or
-
-                            (iv)  proceedings under section 30CB of that Act that relate to primary proceedings; or
-
-                             (v)  proceedings referred to the Federal Court under section 20B of the _Crimes Act 1914_ (as that section applies because of subsection 68A(6)).
-
-The State or Territory in which trial proceedings must be heard
-
-             (2)  If the proceedings are primary proceedings that:
-
-                     (a)  are to include either the person, the prosecutor or both appearing before the Federal Court in accordance with an order of a court of a State or Territory committing the person for trial on indictment before the Court for the offence; or
-
-                     (b)  if paragraph (a) does not apply—include the filing in the Federal Court, in a State or Territory, of an indictment against the person for the offence;
-
-the Federal Court must hear the proceedings in that State or Territory unless and until the Federal Court makes an order under subsection (3).
-
-Note:          The place in which any other proceedings are to be heard is a matter for the Court.
-
-             (3)  If the proceedings are covered by subsection (2), the Federal Court may, before the jury is empanelled for the trial, make an order specifying the State or Territory in which the Federal Court will hear the proceedings.
-
-             (4)  Subsections (2) and (3) have effect subject to section 80 of the Constitution and sections 70 and 70A.
-
-Which State’s or Territory’s laws are to apply?
-
-             (5)  The laws to be applied under subsection 68(1) in relation to the proceedings are those referred to in the following table:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="45%">
-  <col width="45%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>Laws applicable in relation to the proceedings</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If the proceedings are ...</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>the laws to be applied are ...</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>primary proceedings (other than proceedings for the sentencing of the
-      person following a trial in the Federal Court)</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory in which the Federal Court hears the
-      proceedings.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>primary proceedings for the sentencing of the person following a trial
-      in the Federal Court</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in relation to the trial at
-      the end of the trial.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>appeal proceedings covered by subparagraph (1)(c)(ii)</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in relation to the corresponding
-      primary proceedings at the end of those primary proceedings.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>proceedings covered by subparagraph (1)(c)(iii) in relation to a case
-      stated, or question reserved, by a court</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in the proceedings during
-      which the court stated the case or reserved the question.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>proceedings covered by subparagraph (1)(c)(iv)</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in relation to the corresponding
-      primary proceedings at the end of those primary proceedings.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>proceedings covered by subparagraph (1)(c)(v) as a result of a referral
-      by a court</div>
-  </td>
-  <td>
-    <div>the laws of the State or Territory applying in the proceedings during
-      which the court made the referral.</div>
-  </td>
-</tr></table>
-
-What those laws include
-
-             (6)  The laws of that State or Territory are taken:
-
-                     (a)  to include the Rules of the Supreme Court of that State or Territory that apply in relation to criminal proceedings; and
-
-                     (b)  not to include the Rules of any other court of that State or Territory.
-
-How those laws apply
-
-             (7)  The laws of that State or Territory apply as if any reference in those laws to the Supreme Court of that State or Territory, and any reference to a court that includes a reference to the Supreme Court of that State or Territory, were a reference to the Federal Court.
-
-             (8)  The laws of that State or Territory apply to the proceedings only to the extent to which they are:
-
-                     (a)  not inconsistent with the laws of the Commonwealth; and
-
-                     (b)  not inconsistent with the Rules of the Federal Court.
-
 ### Division 2—Indictable offences
 
 ##### <a id="69"></a>69  Indictments
@@ -1961,15 +1703,11 @@ indictable offences against the laws of the Commonwealth.
 
 ##### <a id="70"></a>70  Offences committed in several States
 
-             (1)  When an offence against the laws of the Commonwealth is begun in one State or part of the Commonwealth and completed in another, the offender may be dealt with tried and punished in either State or part in the same manner as if the offence had been actually and wholly committed therein.
-
-             (2)  This section has effect subject to section 68C.
+                   When an offence against the laws of the Commonwealth is begun in one State or part of the Commonwealth and completed in another, the offender may be dealt with tried and punished in either State or part in the same manner as if the offence had been actually and wholly committed therein.
 
 ##### <a id="70A"></a>70A  Indictable offence not committed in a State
 
-             (1)  The trial on indictment of an offence against a law of the Commonwealth not committed within any State and not being an offence to which section 70 applies may be held in any State or Territory.
-
-             (2)  This section has effect subject to section 68C.
+                   The trial on indictment of an offence against a law of the Commonwealth not committed within any State and not being an offence to which section 70 applies may be held in any State or Territory.
 
 ##### <a id="71"></a>71  Discharge of persons committed for trial
 
@@ -1983,15 +1721,7 @@ indictable offences against the laws of the Commonwealth.
 
 ##### <a id="71A"></a>71A  Trial of indictable offence without preliminary examination
 
-             (1)  Notwithstanding anything contained in this Part, or any provision of any law of a State or Territory, the Attorney-General of the Commonwealth may file an indictment for any indictable offence against the laws of the Commonwealth in:
-
-                     (a)  the High Court; or
-
-                     (b)  if the Federal Court of Australia has jurisdiction to try a person for the offence—that Court; or
-
-                     (c)  the Supreme Court of a State or Territory;
-
-without examination or commitment for trial.
+             (1)  Notwithstanding anything contained in this Part, or any provision of any law of a State or Territory, the Attorney-General of the Commonwealth may file an indictment for any indictable offence against the laws of the Commonwealth in the High Court or the Supreme Court of a State or Territory, without examination or commitment for trial.
 
              (2)  Upon an indictment being so filed, the Court or a Justice or Judge thereof, may cause a summons to be issued to the defendant to appear at the time and place mentioned in the summons there to answer the charge mentioned in the indictment, or may issue a warrant for the defendant’s arrest, and may hold the defendant in custody or admit the defendant to bail.
 
@@ -2001,25 +1731,7 @@ without examination or commitment for trial.
 
 ##### <a id="72"></a>72  Reservation of points of law
 
-             (1)  This section applies if a person is indicted before a Court, other than:
-
-                     (a)  the Federal Court of Australia; or
-
-                     (b)  the Supreme Court of a Territory (other than the Australian Capital Territory or the Northern Territory);
-
-for an indictable offence against a law of the Commonwealth.
-
-          (1A)  The Court (the **_trial court_**) before which the person is tried:
-
-                     (a)  must, if an application is made by or on behalf of the person before the jury delivers its verdict on a count in the indictment in relation to the person; and
-
-                     (b)  may in its discretion (either before or after judgment without such an application);
-
-reserve a question of law, in relation to that count, which arises on the trial for the consideration of:
-
-                     (c)  a Full Court of the High Court; or
-
-                     (d)  a Full Court of the Supreme Court of the same State or Territory as the trial court.
+             (1)  When any person is indicted for an indictable offence against the laws of the Commonwealth, the Court before which he or she is tried shall on the application by or on behalf of the accused person made before verdict, and may in its discretion either before or after judgment without such application, reserve any question of law which arises on the trial for the consideration of a Full Court of the High Court or if the trial was had in a Court of a State of a Full Court of the Supreme Court of the State.
 
              (2)  If the accused person is convicted, and a question of law has been so reserved before judgment, the Court before which he or she was tried may either pronounce judgment on the conviction and respite execution of the judgment, or postpone the judgment until the question has been considered and decided, and may either commit the person convicted to prison or admit him or her to bail on recognizance with or without sureties, and in such sum as the Court thinks fit, conditioned to appear at such time and place as the Court directs and to render himself or herself in execution or to receive judgment as the case may be.
 
@@ -2055,21 +1767,9 @@ or the Court may send the case back to be amended or restated.
 
 ##### <a id="76"></a>76  Appeal from arrest of judgment
 
-             (1)  This section applies if a Court, other than:
+             (1)  When the Court before which an accused person is convicted on indictment for an offence against the laws of the Commonwealth arrests judgment at the trial, the Court shall on the application of counsel for the prosecution state a case for the consideration of a Full Court of the High Court or a Full Court of the Supreme Court of the State in manner hereinbefore provided.
 
-                     (a)  the Federal Court of Australia; or
-
-                     (b)  the Supreme Court of a Territory (other than the Australian Capital Territory or the Northern Territory);
-
-convicts an accused person on indictment for an offence against the laws of the Commonwealth.
-
-          (1A)  If the Court (the **_trial court_**) before which the accused person is convicted arrests judgment at the trial, the Court must on the application of counsel for the prosecution state a case for the consideration of:
-
-                     (a)  a Full Court of the High Court; or
-
-                     (b)  a Full Court of the Supreme Court of the same State or Territory as the trial court.
-
-             (2)  On the hearing of the case the Full Court may affirm or reverse the order arresting judgment. If the order is reversed the Court shall direct that judgment be pronounced upon the offender, and he or she shall be ordered to appear at such time and place as the Court directs to receive judgment, and an issuing officer (within the meaning of Part IAA of the _Crimes Act 1914_) may issue a warrant for the arrest of the offender.
+             (2)  On the hearing of the case the Full Court may affirm or reverse the order arresting judgment. If the order is reversed the Court shall direct that judgment be pronounced upon the offender, and he or she shall be ordered to appear at such time and place as the Court directs to receive judgment, and any Justice of the Peace may issue his or her warrant for the arrest of the offender.
 
              (3)  An offender so arrested may be admitted to bail by order of the Court which may be made in Court or in Chambers, at the time when the order directing judgment to be pronounced is made or afterwards.
 
@@ -2373,7 +2073,7 @@ interest, or a sum in lieu of interest, shall not be given under subsection (1
 
 ##### <a id="81"></a>81  Security of the peace and for good behaviour
 
-                   The Justices of the High Court, the Judges of the Federal Court of Australia, and the Judges and magistrates of the several States and Territories who are empowered by law to authorize arrests for offences against the laws of the Commonwealth, shall have the like authority to hold to security of the peace and for good behaviour in matters arising under the laws of the Commonwealth as may be lawfully exercised by any Judge or Magistrate of the respective States and Territories in other cases cognisable before them.
+                   The Justices of the High Court, and the Judges and magistrates of the several States and Territories who are empowered by law to authorize arrests for offences against the laws of the Commonwealth, shall have the like authority to hold to security of the peace and for good behaviour in matters arising under the laws of the Commonwealth as may be lawfully exercised by any Judge or Magistrate of the respective States and Territories in other cases cognisable before them.
 
 ### Division 3—Venue
 
@@ -2403,7 +2103,7 @@ interest, or a sum in lieu of interest, shall not be given under subsection (1
 
                      (b)  Regulating procedure pleading and practice in the High Court in civil or criminal matters in the exercise both of its original and of its appellate jurisdiction;
 
-                   (ba)  Regulating the means by which particular facts may be proved and the mode in which evidence thereof may be given;
+                    (ba)  Regulating the means by which particular facts may be proved and the mode in which evidence thereof may be given;
 
                      (d)  Prescribing the forms to be used for the purposes of the proceedings of the High Court;
 
@@ -2437,7 +2137,7 @@ and, in particular, may make regulations:
 
                     (ca)  prescribing the fees payable in respect of proceedings in the High Court and the execution of the process of the High Court;
 
-                   (cb)  modifying or adapting provisions of the _Legislative Instruments Act 2003_ (other than provisions of Part 5 of that Act or any other provisions whose modification or adaptation would affect the operation of that Part) in their application to the Court;
+                    (cb)  modifying or adapting provisions of the _Legislative Instruments Act 2003_ (other than provisions of Part 5 of that Act or any other provisions whose modification or adaptation would affect the operation of that Part) in their application to the Court;
 
                      (d)  prescribing the practice and procedure for the filing and giving of such a notice, including the manner in which, the time within which, the persons to whom, and the persons by whom, such a notice is to be given; and
 
@@ -2452,10 +2152,10 @@ FORM OF CERTIFICATE OF JUDGMENT
 A.B. v. The Commonwealth (_or as the case may be_).
 
             I hereby certify that A.B. of (_address and occupation_) did on the
- day of, 19        , obtain a judgment of the (_name of Court_) in his or her (_as the case may be_) favour and that by that judgment the sum of                
+ day of, 19          , obtain a judgment of the (_name of Court_) in his or her (_as the case may be_) favour and that by that judgment the sum of                     
  was awarded to him or her (_as the case may be_).
 
-            Dated this                                day of              , 19      .
+            Dated this                                 day of               , 19       .
 
 Registrar (_or as the case may be_).
 
@@ -2465,7 +2165,7 @@ Registrar (_or as the case may be_).
 
 The _Judiciary Act 1903_ as shown in this compilation comprises Act No. 6, 1903 amended as indicated in the Tables below. 
 
-The _Judiciary Act 1903_ was affected by section 44 of the _CSL Sale Act 1993_.
+The _Judiciary Act 1903_ was affected by section 44 of the _CSL__Sale__Act 1993_.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -4038,13 +3738,13 @@ Remainder: Royal Assent</div>
     <div>71, 2008</div>
   </td>
   <td>
-    <div>1 July 2008</div>
+    <div>1 July 2008</div>
   </td>
   <td>
-    <div>2 July 2008</div>
+    <div>2 July 2008</div>
   </td>
   <td>
-    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -4055,7 +3755,7 @@ Remainder: Royal Assent</div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td>
     <div>S. 4: Royal Assent 
@@ -4077,7 +3777,7 @@ Schedule 5 (items 38, 85): <i>(za)</i></div>
   </td>
   <td>
     <div>Schedule 1 (items 6, 
-98–108): 4 Dec 2009</div>
+98–108): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4088,7 +3788,7 @@ _(a)_     _The_ _Judiciary Amendment Act (No. 2) 1979_ was amended by 
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(b)_     The _Judiciary Act 1903_ was amended by Part XXVI (sections 160 and 161) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
+_(b)_    The _Judiciary Act 1903_ was amended by Part XXVI (sections 160 and 161) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows:
 
                (12)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 
@@ -4565,7 +4265,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. No. 50, 1959; No. 216, 1973; No. 138, 1979; No. 165, 1992; No. 7, 1999; No. 100, 2005; No. 106, 2009</div>
+    <div>am. No. 50, 1959; No. 216, 1973; No. 138, 1979; No. 165, 1992; No. 7, 1999; No. 100, 2005</div>
   </td>
 </tr>
 <tr>
@@ -5310,14 +5010,6 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
   <td>
     <div>am. No. 72, 1984; No. 87, 1988; No. 98, 1993; No. 60, 1996; No. 34, 1997; No. 125, 1999; No. 57, 2000; No. 151, 2004; No. 89, 2005; No. 54, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 39B(1A)</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2009</div>
   </td>
 </tr>
 <tr>
@@ -6227,14 +5919,6 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div>Ss. 68A–68C</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -6267,26 +5951,10 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 106, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 70A</div>
   </td>
   <td>
     <div>ad. No. 164, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 106, 2009</div>
   </td>
 </tr>
 <tr>
@@ -6310,7 +5978,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div></div>
   </td>
   <td>
-    <div>am. No. 86, 1979; No. 108, 1989; No. 141, 1994; No. 106, 2009</div>
+    <div>am. No. 86, 1979; No. 108, 1989; No. 141, 1994</div>
   </td>
 </tr>
 <tr>
@@ -6342,7 +6010,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div>S. 72</div>
   </td>
   <td>
-    <div>am. No. 4, 1915; No. 138, 1979; No. 141, 1994; No. 106, 2009</div>
+    <div>am. No. 4, 1915; No. 138, 1979; No. 141, 1994</div>
   </td>
 </tr>
 <tr>
@@ -6358,7 +6026,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div>S. 76</div>
   </td>
   <td>
-    <div>am. No. 141, 1994; No. 106, 2009</div>
+    <div>am. No. 141, 1994</div>
   </td>
 </tr>
 <tr>
@@ -6651,7 +6319,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part XI</div>
+    <div>Heading to Div. 1 of Part XI.</div>
   </td>
   <td>
     <div>ad. No. 216, 1973</div>
@@ -6747,7 +6415,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 2 of Part XI</div>
+    <div>Heading to Div. 2 of Part XI.</div>
   </td>
   <td>
     <div>ad. No. 216, 1973</div>
@@ -6766,7 +6434,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div>S. 79</div>
   </td>
   <td>
-    <div>am. No. 138, 1979; No. 71, 2008</div>
+    <div>am. No. 138, 1979; No. 71, 2008</div>
   </td>
 </tr>
 <tr>
@@ -6798,7 +6466,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
     <div>S. 81</div>
   </td>
   <td>
-    <div>am. No. 50, 1959; No. 106, 2009</div>
+    <div>am. No. 50, 1959</div>
   </td>
 </tr>
 <tr>
@@ -6811,7 +6479,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part XI</div>
+    <div>Heading to Div. 3 of Part XI.</div>
   </td>
   <td>
     <div>ad. No. 216, 1973</div>
@@ -6843,7 +6511,7 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 4 of Part XI</div>
+    <div>Heading to Div. 4 of Part XI.</div>
   </td>
   <td>
     <div>ad. No. 216, 1973</div>
@@ -6994,6 +6662,364 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
 </tr></table>
 
+### Note 2
+
+_Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009 (No. 106, 2009)_
+
+The following amendments commence on 4 December 2009:
+
+## Schedule 1
+
+## 6  After section 68
+
+Insert:
+
+##### <a id="68A"></a>68A  Committals jurisdiction if both Federal Court of Australia and State or Territory court have jurisdiction in relation to indictable offence
+
+             (1)  This section applies if both:
+
+                     (a)  the Federal Court of Australia; and
+
+                     (b)  a court of a State or Territory (the **_superior State or Territory court_**);
+
+have jurisdiction to try a person on indictment for an indictable offence against a law of the Commonwealth (the **_indictable offence_**).
+
+Working out which court the person should be committed to
+
+             (2)  If a court of the State or Territory (the **_State or Territory committals court_**) has, under subsection 68(2), jurisdiction with respect to the examination and commitment for trial on indictment of a person who is charged with the indictable offence, the court may, in exercising that jurisdiction:
+
+                     (a)  commit the person for trial on indictment for the offence before either:
+
+                              (i)  the Federal Court of Australia; or
+
+                             (ii)  the superior State or Territory court; or
+
+                     (b)  if the person pleads guilty to the offence, commit the person for sentencing for the offence by either:
+
+                              (i)  the Federal Court of Australia; or
+
+                             (ii)  the superior State or Territory court.
+
+This subsection has effect subject to subsections (3) and (4).
+
+Note:          Paragraph (2)(b) refers to committal for sentencing. For the power of the State or Territory committal court to commit for sentencing, see subsection 68(7).
+
+             (3)  Despite subsection 68(1), if:
+
+                     (a)  a person is charged with the indictable offence; and
+
+                     (b)  at the end of the proceedings before the State or Territory committals court, the State or Territory committals court proposes to make an order (the **_committal order_**) that the person be committed for trial on indictment, or for sentencing, for the indictable offence;
+
+the State or Territory committals court must invite the Director of Public Prosecutions to suggest the court before which the person is to be tried or sentenced.
+
+Note:          The State or Territory committals court must make this invitation even if the Director of Public Prosecutions is not a party to the committal proceedings.
+
+             (4)  When making the committal order, the State or Territory committals court must consider specifying the court suggested by the Director of Public Prosecutions as the court before which the person is to be tried or sentenced.
+
+Committal court may grant bail to person to appear before Federal Court
+
+             (5)  If the committal order relating to the person specifies the Federal Court of Australia, then a power of the State or Territory committals court:
+
+                     (a)  that is conferred by a law applying under subsection 68(1) in relation to indictable offences against the laws of the Commonwealth; and
+
+                     (b)  that enables the State or Territory committals court to grant bail to persons accused of such offences to appear before the superior State or Territory court if committed for trial, or for sentencing, before the superior State or Territory court;
+
+applies as if the power included the power to grant bail to the first-mentioned person to appear before the Federal Court of Australia.
+
+Note:          Appeals or reviews of the exercise of this power will be dealt with under the laws of the State or Territory applying under subsection 68(1). However, bail will be dealt with under Part VIB of the _Federal Court of Australia Act 1976_ once indictable primary proceedings (within the meaning of that Act) commence for the person.
+
+If question about person’s fitness to be tried
+
+             (6)  Subsection 20B(1) of the _Crimes Act 1914_ applies as if the reference in that subsection to the court to which the proceedings would have been referred had the person been committed for trial were a reference to a court to which the proceedings could have been referred had the person been committed for trial.
+
+Note:          This means the committal court may choose whether to refer a question of the person’s fitness to be tried to either the Federal Court of Australia or the superior State or Territory court.
+
+##### <a id="68B"></a>68B  Application of State and Territory laws if Federal Court of Australia and State or Territory court both have jurisdiction in relation to an offence
+
+             (1)  To avoid doubt:
+
+                     (a)  subsection 68(1) applies to a person:
+
+                              (i)  who is charged with an offence against a law of the Commonwealth; and
+
+                             (ii)  in respect of whom jurisdiction is conferred on a court of a State or Territory by section 68;
+
+                            even if jurisdiction in relation to that person and that offence is also conferred on the Federal Court of Australia by another law of the Commonwealth; and
+
+                     (b)  subsection 68(1) applies to the person and the offence in relation to:
+
+                              (i)  any proceedings in relation to the offence that are brought before a court of the State or Territory; and
+
+                             (ii)  any proceedings in relation to the offence that are brought before the Federal Court of Australia.
+
+             (2)  Paragraph (1)(b) has effect subject to section 68C.
+
+##### <a id="68C"></a>68C  Adjustments to State and Territory laws applying to proceedings before Federal Court of Australia
+
+             (1)  This section applies if:
+
+                     (a)  an offence referred to in subsection 68(1) is an indictable offence; and
+
+                     (b)  the Federal Court of Australia (the **_Federal Court_**) has jurisdiction to try a person on indictment for the offence; and
+
+                     (c)  proceedings commence in the Federal Court in relation to the offence that are:
+
+                              (i)  indictable primary proceedings (within the meaning of the _Federal Court of Australia Act 1976_) (**_primary proceedings_**); or
+
+                             (ii)  criminal appeal proceedings (within the meaning of that Act) that relate to primary proceedings; or
+
+                            (iii)  proceedings under section 30CA of that Act that relate to primary proceedings; or
+
+                            (iv)  proceedings under section 30CB of that Act that relate to primary proceedings; or
+
+                             (v)  proceedings referred to the Federal Court under section 20B of the _Crimes Act 1914_ (as that section applies because of subsection 68A(6)).
+
+The State or Territory in which trial proceedings must be heard
+
+             (2)  If the proceedings are primary proceedings that:
+
+                     (a)  are to include either the person, the prosecutor or both appearing before the Federal Court in accordance with an order of a court of a State or Territory committing the person for trial on indictment before the Court for the offence; or
+
+                     (b)  if paragraph (a) does not apply—include the filing in the Federal Court, in a State or Territory, of an indictment against the person for the offence;
+
+the Federal Court must hear the proceedings in that State or Territory unless and until the Federal Court makes an order under subsection (3).
+
+Note:          The place in which any other proceedings are to be heard is a matter for the Court.
+
+             (3)  If the proceedings are covered by subsection (2), the Federal Court may, before the jury is empanelled for the trial, make an order specifying the State or Territory in which the Federal Court will hear the proceedings.
+
+             (4)  Subsections (2) and (3) have effect subject to section 80 of the Constitution and sections 70 and 70A.
+
+Which State’s or Territory’s laws are to apply?
+
+             (5)  The laws to be applied under subsection 68(1) in relation to the proceedings are those referred to in the following table:
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="45%">
+  <col width="45%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Laws applicable in relation to the proceedings</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>If the proceedings are ...</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>the laws to be applied are ...</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>primary proceedings (other than proceedings for the sentencing of the
+      person following a trial in the Federal Court)</div>
+  </td>
+  <td>
+    <div>the laws of the State or Territory in which the Federal Court hears the
+      proceedings.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>primary proceedings for the sentencing of the person following a trial
+      in the Federal Court</div>
+  </td>
+  <td>
+    <div>the laws of the State or Territory applying in relation to the trial at
+      the end of the trial.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>appeal proceedings covered by subparagraph (1)(c)(ii)</div>
+  </td>
+  <td>
+    <div>the laws of the State or Territory applying in relation to the corresponding
+      primary proceedings at the end of those primary proceedings.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>proceedings covered by subparagraph (1)(c)(iii) in relation to a case
+      stated, or question reserved, by a court</div>
+  </td>
+  <td>
+    <div>the laws of the State or Territory applying in the proceedings during
+      which the court stated the case or reserved the question.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>proceedings covered by subparagraph (1)(c)(iv)</div>
+  </td>
+  <td>
+    <div>the laws of the State or Territory applying in relation to the corresponding
+      primary proceedings at the end of those primary proceedings.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>proceedings covered by subparagraph (1)(c)(v) as a result of a referral
+      by a court</div>
+  </td>
+  <td>
+    <div>the laws of the State or Territory applying in the proceedings during
+      which the court made the referral.</div>
+  </td>
+</tr></table>
+
+What those laws include
+
+             (6)  The laws of that State or Territory are taken:
+
+                     (a)  to include the Rules of the Supreme Court of that State or Territory that apply in relation to criminal proceedings; and
+
+                     (b)  not to include the Rules of any other court of that State or Territory.
+
+How those laws apply
+
+             (7)  The laws of that State or Territory apply as if any reference in those laws to the Supreme Court of that State or Territory, and any reference to a court that includes a reference to the Supreme Court of that State or Territory, were a reference to the Federal Court.
+
+             (8)  The laws of that State or Territory apply to the proceedings only to the extent to which they are:
+
+                     (a)  not inconsistent with the laws of the Commonwealth; and
+
+                     (b)  not inconsistent with the Rules of the Federal Court.
+
+## 98  Section 2
+
+Insert:
+
+                    <a name="examin-commit-trial-indict"></a>**_examination and commitment for trial on indictment_** includes commitment for trial on indictment.
+
+## 99  At the end of subsection 39B(1A)
+
+Add:
+
+Note:          Paragraph (c) does not prevent other laws of the Commonwealth conferring criminal jurisdiction on the Federal Court of Australia.
+
+## 100  Section 70
+
+Before “When”, insert “(1)”.
+
+## 101  At the end of section 70
+
+Add:
+
+             (2)  This section has effect subject to section 68C.
+
+## 102  Section 70A
+
+Before “The”, insert “(1)”.
+
+## 103  At the end of section 70A
+
+Add:
+
+             (2)  This section has effect subject to section 68C.
+
+## 104  Subsection 71A(1)
+
+Repeal the subsection, substitute:
+
+             (1)  Notwithstanding anything contained in this Part, or any provision of any law of a State or Territory, the Attorney-General of the Commonwealth may file an indictment for any indictable offence against the laws of the Commonwealth in:
+
+                     (a)  the High Court; or
+
+                     (b)  if the Federal Court of Australia has jurisdiction to try a person for the offence—that Court; or
+
+                     (c)  the Supreme Court of a State or Territory;
+
+without examination or commitment for trial.
+
+## 105  Subsection 72(1)
+
+Repeal the subsection, substitute:
+
+             (1)  This section applies if a person is indicted before a Court, other than:
+
+                     (a)  the Federal Court of Australia; or
+
+                     (b)  the Supreme Court of a Territory (other than the Australian Capital Territory or the Northern Territory);
+
+for an indictable offence against a law of the Commonwealth.
+
+          (1A)  The Court (the **_trial court_**) before which the person is tried:
+
+                     (a)  must, if an application is made by or on behalf of the person before the jury delivers its verdict on a count in the indictment in relation to the person; and
+
+                     (b)  may in its discretion (either before or after judgment without such an application);
+
+reserve a question of law, in relation to that count, which arises on the trial for the consideration of:
+
+                     (c)  a Full Court of the High Court; or
+
+                     (d)  a Full Court of the Supreme Court of the same State or Territory as the trial court.
+
+## 106  Subsection 76(1)
+
+Repeal the subsection, substitute:
+
+             (1)  This section applies if a Court, other than:
+
+                     (a)  the Federal Court of Australia; or
+
+                     (b)  the Supreme Court of a Territory (other than the Australian Capital Territory or the Northern Territory);
+
+convicts an accused person on indictment for an offence against the laws of the Commonwealth.
+
+          (1A)  If the Court (the **_trial court_**) before which the accused person is convicted arrests judgment at the trial, the Court must on the application of counsel for the prosecution state a case for the consideration of:
+
+                     (a)  a Full Court of the High Court; or
+
+                     (b)  a Full Court of the Supreme Court of the same State or Territory as the trial court.
+
+## 107  Subsection 76(2)
+
+Omit “any Justice of the Peace may issue his or her”, substitute “an issuing officer (within the meaning of Part IAA of the _Crimes Act 1914_) may issue a”.
+
+## 108  Section 81
+
+After “High Court,”, insert “the Judges of the Federal Court of Australia,”.
+
+As at 11 November 2009 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7002,7 +7028,7 @@ _Judiciary Amendment Act 1999 (No. 7, 1999)_
 
 ## Schedule 2  
 
-## 1  Definitions
+## 1  Definitions
 
 In this Schedule:
 
@@ -7014,9 +7040,9 @@ In this Schedule:
 
 ## 2  AGS successor in law
 
-(1)       The AGS is the successor in law of the former AGS.
+(1)        The AGS is the successor in law of the former AGS.
 
-(2)       Without limiting subitem (1), if:
+(2)        Without limiting subitem (1), if:
 
                      (a)  the former AGS was acting in relation to a matter before the commencement time; and
 
@@ -7034,7 +7060,7 @@ An officer or employee within the meaning of the _Public Service_ Act _1922_ tra
 
 ## 5  Attorney-General may transfer Commonwealth assets to new AGS
 
-(1)       The Attorney-General may, by writing, make any or all of the following declarations:
+(1)        The Attorney-General may, by writing, make any or all of the following declarations:
 
                      (a)  a declaration that a specified asset of the Commonwealth vests in the AGS at a specified time without any conveyance, transfer or assignment;
 
@@ -7042,13 +7068,13 @@ An officer or employee within the meaning of the _Public Service_ Act _1922_ tra
 
                      (c)  a declaration that the AGS becomes the Commonwealth’s successor in law in relation to a specified asset immediately after the asset vests in the AGS.
 
-(2)       A declaration has effect accordingly.
+(2)        A declaration has effect accordingly.
 
-(3)       Subitem (1) does not prevent the Commonwealth from transferring an asset to the AGS otherwise than under that subitem.
+(3)        Subitem (1) does not prevent the Commonwealth from transferring an asset to the AGS otherwise than under that subitem.
 
 ## 6  Attorney-General may transfer Commonwealth liabilities to new AGS
 
-(1)       The Attorney-General may, by writing, make any or all of the following declarations:
+(1)        The Attorney-General may, by writing, make any or all of the following declarations:
 
                      (a)  a declaration that a specified liability ceases to be a liability of the Commonwealth and becomes a liability of the AGS at a specified time;
 
@@ -7056,27 +7082,27 @@ An officer or employee within the meaning of the _Public Service_ Act _1922_ tra
 
                      (c)  a declaration that the AGS becomes the Commonwealth’s successor in law in relation to a specified liability immediately after the liability becomes a liability of the AGS.
 
-(2)       A declaration has effect accordingly.
+(2)        A declaration has effect accordingly.
 
-(3)       Subitem (1) does not prevent the Commonwealth from transferring a liability to the AGS otherwise than under that subitem.
+(3)        Subitem (1) does not prevent the Commonwealth from transferring a liability to the AGS otherwise than under that subitem.
 
 ## 7  Transfer of records
 
-(1)       The Secretary to the Attorney-General’s Department may transfer to the AGS records of the Commonwealth that relate to the functions of the AGS.
+(1)        The Secretary to the Attorney-General’s Department may transfer to the AGS records of the Commonwealth that relate to the functions of the AGS.
 
-(2)       In this item:
+(2)        In this item:
 
 **_record_** has the same meaning as in the _Archives Act 1983_.
 
 ## 8  Regulations
 
-(1)       The Governor-General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-(2)       Without limiting subitem (1), regulations may be made in relation to transitional matters arising out of the abolition of the former AGS or otherwise arising out of the enactment of this Act.
+(2)        Without limiting subitem (1), regulations may be made in relation to transitional matters arising out of the abolition of the former AGS or otherwise arising out of the enactment of this Act.
 
 * * *
 
@@ -7096,7 +7122,7 @@ _Jurisdiction of Courts Legislation Amendment Act 2000 (No. 57, 2000)_
 
 ## 16  Application of amendments
 
-(1)       In this item:
+(1)        In this item:
 
 **_commencement_** means the commencement of the amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule.
 
@@ -7108,7 +7134,7 @@ _Jurisdiction of Courts Legislation Amendment Act 2000 (No. 57, 2000)_
 
                      (c)  section 39B of the _Judiciary Act 1903._
 
-(2)       The amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule apply in relation to:
+(2)        The amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule apply in relation to:
 
                      (a)  a decision made on or after the commencement to prosecute a person for an offence, even if the conduct alleged to give rise to the offence occurred before the commencement; or
 
@@ -7118,7 +7144,7 @@ _Jurisdiction of Courts Legislation Amendment Act 2000 (No. 57, 2000)_
 
                              (ii)  the prosecution of the offence, or an appeal arising out of the prosecution, was commenced before the commencement.
 
-(3)       The amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule also apply in relation to:
+(3)        The amendments of the _Administrative Decisions (Judicial Review) Act 1977_, the _Corporations Act 1989_ and the _Judiciary Act 1903_ made by Part 1 of this Schedule also apply in relation to:
 
                      (a)  a decision made before the commencement to prosecute a person for an offence, unless that decision is the subject of an application that is before a court at 13 April 2000; or
 
@@ -7242,9 +7268,9 @@ Note:          Just before the commencement of this Schedule, 
 
 ## 8  Meaning of _ineffective order_
 
-(1)       A reference in this Part to an **_ineffective order_** is a reference to a purported order described in subitem (2). This subitem has effect subject to subitem (3) as it affects the meaning of a reference to an ineffective order in the context of a particular case.
+(1)        A reference in this Part to an **_ineffective order_** is a reference to a purported order described in subitem (2). This subitem has effect subject to subitem (3) as it affects the meaning of a reference to an ineffective order in the context of a particular case.
 
-(2)       An order that a non-judicial officer of a court of summary jurisdiction of a State has purported to make is an **_ineffective order_** if:
+(2)        An order that a non-judicial officer of a court of summary jurisdiction of a State has purported to make is an **_ineffective order_** if:
 
                      (a)  the officer purported to make the order before the commencement of this Part; and
 
@@ -7252,7 +7278,7 @@ Note:          Just before the commencement of this Schedule, 
 
                      (c)  paragraph 39(2)(d) of the _Judiciary Act 1903_ prohibited the exercise by the officer of the court’s federal jurisdiction.
 
-(3)       If a court, or a non-judicial officer of a court of summary jurisdiction of a State, has purported to affirm, vary, revoke, set aside, reverse, revive or suspend an ineffective order, a reference in this Part to the ineffective order is a reference to the order in the form in which, and to the extent to which, it purports or purported to have effect from time to time.
+(3)        If a court, or a non-judicial officer of a court of summary jurisdiction of a State, has purported to affirm, vary, revoke, set aside, reverse, revive or suspend an ineffective order, a reference in this Part to the ineffective order is a reference to the order in the form in which, and to the extent to which, it purports or purported to have effect from time to time.
 
 ## 9  Rights and liabilities declared in certain cases
 
@@ -7260,7 +7286,7 @@ The rights and liabilities of all persons are, by force of this item, declared t
 
 ## 10  Effect of declared rights and liabilities
 
-(1)       A right or liability conferred, imposed or affected by item 9 in relation to an ineffective order of a court of summary jurisdiction:
+(1)        A right or liability conferred, imposed or affected by item 9 in relation to an ineffective order of a court of summary jurisdiction:
 
                      (a)  is exercisable or enforceable; and
 
@@ -7268,11 +7294,11 @@ The rights and liabilities of all persons are, by force of this item, declared t
 
 as if it were a right or liability conferred, imposed or affected by an order made by that court, in the exercise of its federal jurisdiction, in or in relation to the proceedings for the order.
 
-(2)       The rights and liabilities conferred, imposed or affected by item 9 include (but are not limited to) the right of a person who was a party to the proceeding or purported proceeding in which the ineffective order was made to appeal against that order.
+(2)        The rights and liabilities conferred, imposed or affected by item 9 include (but are not limited to) the right of a person who was a party to the proceeding or purported proceeding in which the ineffective order was made to appeal against that order.
 
 ## 11  Effect of things done or omitted to be done under or in relation to rights and liabilities
 
-(1)       Any act or thing done or omitted to be done before, at or after the commencement of this Part under or in relation to a right or liability conferred, imposed or affected by item 9 in relation to an ineffective order of a court of summary jurisdiction:
+(1)        Any act or thing done or omitted to be done before, at or after the commencement of this Part under or in relation to a right or liability conferred, imposed or affected by item 9 in relation to an ineffective order of a court of summary jurisdiction:
 
                      (a)  has the same effect, and gives rise to the same consequences, for the purposes of any written or other law; and
 
@@ -7280,7 +7306,7 @@ as if it were a right or liability conferred, imposed or affected by an order ma
 
 as if it were done or omitted to be done to give effect to, or under the authority of, or in reliance on, an order made by that court, in the exercise of its federal jurisdiction, in or in relation to the proceedings for the order.
 
-(2)       Subject to subitem (3), for the purposes of an enforcement law (see subitem (4)), any act or thing done or omitted to be done before, at or after the commencement of this Part:
+(2)        Subject to subitem (3), for the purposes of an enforcement law (see subitem (4)), any act or thing done or omitted to be done before, at or after the commencement of this Part:
 
                      (a)  gives rise to the same consequences; and
 
@@ -7288,9 +7314,9 @@ as if it were done or omitted to be done to give effect to, or under the authori
 
 as if each ineffective order of a court of summary jurisdiction were an order made by that court, in the exercise of its federal jurisdiction, in or in relation to the proceedings for the order.
 
-(3)       If, before the commencement of this Part, a court purported to convict a person of an offence against an enforcement law on the basis that an ineffective order was a valid order, nothing in this item is to be taken to validate or confirm that conviction.
+(3)        If, before the commencement of this Part, a court purported to convict a person of an offence against an enforcement law on the basis that an ineffective order was a valid order, nothing in this item is to be taken to validate or confirm that conviction.
 
-(4)       In this item:
+(4)        In this item:
 
 **_enforcement law_** means a provision of a law of the Commonwealth, other than a law relating to contempt of court, that sets out a consequence for a person if the person:
 
@@ -7302,9 +7328,9 @@ an order, or a particular kind of order, made by a court exercising federal juri
 
 ## 12  Powers of courts in relation to declared rights and liabilities
 
-(1)       A court may vary, revoke, set aside, revive or suspend a right or liability conferred, imposed or affected by item 9 in relation to an ineffective order of a court of summary jurisdiction as if it were a right or liability conferred, imposed or affected by an order made by that court of summary jurisdiction, in the exercise of its federal jurisdiction, in or in relation to the proceedings for the order.
+(1)        A court may vary, revoke, set aside, revive or suspend a right or liability conferred, imposed or affected by item 9 in relation to an ineffective order of a court of summary jurisdiction as if it were a right or liability conferred, imposed or affected by an order made by that court of summary jurisdiction, in the exercise of its federal jurisdiction, in or in relation to the proceedings for the order.
 
-(2)       In addition to its powers under subitem (1), a court (the **_review court_**) also has power to make an order achieving any other result that could have been achieved if:
+(2)        In addition to its powers under subitem (1), a court (the **_review court_**) also has power to make an order achieving any other result that could have been achieved if:
 
                      (a)  the ineffective order had been an order made by a court of summary jurisdiction, in the exercise of its federal jurisdiction, in or in relation to the proceedings for the order; and
 
@@ -7338,7 +7364,7 @@ Nothing in this Part applies to an order declared to be invalid by a court befor
 
 Conferral of jurisdiction
 
-(1)       Jurisdiction in matters arising under this Part is conferred on:
+(1)        Jurisdiction in matters arising under this Part is conferred on:
 
                      (a)  the Family Court of Australia; and
 
@@ -7348,9 +7374,9 @@ _Note:       Sections 39 and 39B of the Judiciary Act 1903 give St
 
 Limitation of jurisdiction
 
-(2)       A court has jurisdiction in a matter arising under this Part in relation to an ineffective order only if it had jurisdiction in the matter (the **_initial matter_**) in connection with which the order was purportedly made. The court’s jurisdiction in the matter arising under this Part is subject to the same conditions and limitations as would apply to it in dealing with the initial matter.
+(2)        A court has jurisdiction in a matter arising under this Part in relation to an ineffective order only if it had jurisdiction in the matter (the **_initial matter_**) in connection with which the order was purportedly made. The court’s jurisdiction in the matter arising under this Part is subject to the same conditions and limitations as would apply to it in dealing with the initial matter.
 
-(3)       Subitem (2) applies whether the court has jurisdiction in the matter arising under this Part because of subitem (1) or otherwise.
+(3)        Subitem (2) applies whether the court has jurisdiction in the matter arising under this Part because of subitem (1) or otherwise.
 
 * * *
 
@@ -7376,8 +7402,8 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No.
 
 ## 85  Application of item 38
 
-(1)       The amendment made by item 38 of this Schedule applies in relation to any matter in which a writ of mandamus or prohibition or an injunction is sought, on or after the WR Act repeal day, against an officer or officers of the Commonwealth in relation to a decision made (whether before or after that day) by the officer or officers in the capacity of a person who holds office under the _Fair Work Act 2009_.
+(1)        The amendment made by item 38 of this Schedule applies in relation to any matter in which a writ of mandamus or prohibition or an injunction is sought, on or after the WR Act repeal day, against an officer or officers of the Commonwealth in relation to a decision made (whether before or after that day) by the officer or officers in the capacity of a person who holds office under the _Fair Work Act 2009_.
 
-(2)       Despite the amendment made by item 38 of this Schedule, subsection 39B(2) of the _Judiciary Act 1903_, as in force immediately before the WR Act repeal day, continues to apply in relation to any matter in which a writ of mandamus or prohibition or an injunction is sought, on or after that day, against an officer or officers of the Commonwealth in relation to a decision made (whether before or after that day) by the officer or officers in the capacity of a person who holds office under the _Workplace Relations Act 1996_.
+(2)        Despite the amendment made by item 38 of this Schedule, subsection 39B(2) of the _Judiciary Act 1903_, as in force immediately before the WR Act repeal day, continues to apply in relation to any matter in which a writ of mandamus or prohibition or an injunction is sought, on or after that day, against an officer or officers of the Commonwealth in relation to a decision made (whether before or after that day) by the officer or officers in the capacity of a person who holds office under the _Workplace Relations Act 1996_.
 
  
