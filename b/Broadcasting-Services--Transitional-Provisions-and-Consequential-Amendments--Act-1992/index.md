@@ -1,95 +1,126 @@
-![](http://www.comlaw.gov.au/Details/C2004C02569/Html/BroadcastServTPC92_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00136/Html/90b2dfc0-471e-4716-815b-f89342b68efe_files/image001.gif)
 
 # Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992
 
 **Act No. 105 of 1992 as amended**
 
-This compilation was prepared on 8 September 2000
- taking into account amendments up to Act No. 143 of 1997
+This compilation was prepared on 4 April 2006
+ taking into account amendments up to Act No. 9 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+The operation of amendments that have been incorporated may be 
+ affected by application provisions that are set out in the Notes section
+
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1  Short title \[see Note 1]](#1  Short title \[see Note 1]).                                                                                   1
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2  Commencement \[see Note 1]](#2  Commencement \[see Note 1]).                                                                         1
 
-[3](#3).            Interpretation—expressions used in the Broadcasting Services Act   1
+[3  Interpretation—expressions used in the Broadcasting Services Act](#3  Interpretation—expressions used in the Broadcasting Services Act).               1
 
 **Part 2—Transitional provisions** 
 
     **Division 1—Preliminary**
 
-[4](#4).            Interpretation                                                                                       2
+[4  Interpretation](#4  Interpretation).                                                                                                  2
 
     **Division 2—Licences**
 
-[5](#5).            Preservation of certain licences                                                            4
+[5  Preservation of certain licences](#5  Preservation of certain licences).                                                                      4
 
-[6](#6).            Remote Aboriginal community services                                              5
+[6  Remote Aboriginal community services](#6  Remote Aboriginal community services).                                                         5
 
-[7](#7).            Terms of preserved licences                                                                5
+[7  Terms of preserved licences](#7  Terms of preserved licences).                                                                           5
 
-[8](#8).            Licence areas of preserved licences                                                      5
+[8  Licence areas of preserved licences](#8  Licence areas of preserved licences).                                                                5
 
-[9](#9).            Conditions of licences                                                                          6
+[9  Conditions of licences](#9  Conditions of licences).                                                                                    6
 
-[10](#10).          Authority to operate radiocommunications transmitters                    7
+[10  Authority to operate radiocommunications transmitters](#10  Authority to operate radiocommunications transmitters).                               7
 
-[11](#11).          Applications for renewal not dealt with under the Broadcasting Act 9
+[11  Applications for renewal not dealt with under the Broadcasting Act](#11  Applications for renewal not dealt with under the Broadcasting Act).            9
 
-[12](#12).          Pending applications for grant of licences under the Broadcasting Act 9
+[12  Pending applications for grant of licences under the Broadcasting Act](#12  Pending applications for grant of licences under the Broadcasting Act).        9
 
-[13](#13).          Pending applications for grant of licences under the Broadcasting Act for services not requiring licences under the Broadcasting Services Act                                                                 11
+[13  Pending applications for grant of licences under the Broadcasting Act for services not requiring licences under the Broadcasting Services Act](#13  Pending applications for grant of licences under the Broadcasting Act for services not requiring licences under the Broadcasting Services Act).                                                                11
 
-[16](#16).          Aggregation of licence areas of existing licences in Tasmania            12
+[16  Aggregation of licence areas of existing licences in Tasmania](#16  Aggregation of licence areas of existing licences in Tasmania).                   12
 
     **Division 3—Directorships and control**
 
-[17](#17).          Special provision for certain directorships                                        13
+[17  Special provision for certain directorships](#17  Special provision for certain directorships).                                                 13
 
-[18](#18).          Periods of grace for compliance with ownership and control provisions                13
+[18  Periods of grace for compliance with ownership and control provisions](#18  Periods of grace for compliance with ownership and control provisions).   13
 
-[19](#19).          Grandfathering of existing interests relevant to control                     14
+[19  Grandfathering of existing interests relevant to control](#19  Grandfathering of existing interests relevant to control).                              14
 
-[20](#20).          Protection for persons having interests in former supplementary radio licences    15
+20  Protection for persons having interests in former supplementary radio licences                15
 
     **Division 4—Program standards**
 
-[21](#21).          Program standards                                                                             17
-
-    **Division 5—Licence fees** 
+[21  Program standards](#21  Program standards).                                                                                     17
 
     **Division 6—Miscellaneous**
 
-[23](#23).          Vesting of property, rights and liabilities of the Australian Broadcasting Tribunal                20
+23  Vesting of property, rights and liabilities of the Australian Broadcasting Tribunal           19
 
-[24](#24).          Effect of directions and orders under Division 4 of Part IIIBA of the Broadcasting Act        20
+24  Effect of directions and orders under Division 4 of Part IIIBA of the Broadcasting Act  19
 
-[25](#25).          Continuation of secrecy provision                                                    21
+[25  Continuation of secrecy provision](#25  Continuation of secrecy provision).                                                              20
 
-[26](#26).          Obligations to provide information or produce documents under the Broadcasting Act        22
+26  Obligations to provide information or produce documents under the Broadcasting Act    21
 
-[27](#27).          Technical standards relating to broadcasting equipment                   22
+[27  Technical standards relating to broadcasting equipment](#27  Technical standards relating to broadcasting equipment).                             21
 
 **Part 3—Repeals and consequential amendments**
 
-[28](#28).          Repeal of the Broadcasting Act                                                         23
+[28  Repeal of the Broadcasting Act](#28  Repeal of the Broadcasting Act).                                                                  23
 
-[29](#29).          Other repeals                                                                                     25
+[29  Other repeals](#29  Other repeals).                                                                                              23
 
-[30](#30).          Consequential amendments                                                               25
+[30  Consequential amendments](#30  Consequential amendments).                                                                        23
 
-**Schedule 1—Repealed Acts** 
+Schedule 1—Repealed Acts                                                
 
-**Schedule 2—Consequential amendments** 
+Broadcasting (Limited Licences) Fees Act 1988                                                 24
+
+Broadcasting (Retransmission Permits and Temporary Transmission Permits) Fees Act 1988       24
+
+Schedule 2—Consequential amendments                          
+
+Affirmative Action (Equal Employment Opportunity for Women) Act 1986  25
+
+Australian Broadcasting Corporation Act 1983                                                25
+
+Commonwealth Electoral Act 1918                                                                       30
+
+Copyright Act 1968                                                                                                   31
+
+Parliamentary Proceedings Broadcasting Act 1946                                          31
+
+Radio Licence Fees Act 1964                                                                                  32
+
+Radiocommunications Act 1983                                                                             33
+
+Referendum (Machinery Provisions) Act 1984                                                    39
+
+Sea Installations Act 1987                                                                                       40
+
+Special Broadcasting Service Act 1991                                                                40
+
+Telecommunications Act 1991                                                                                44
+
+Television Licence Fees Act 1964                                                                          44
+
+Trade Practices Act 1974                                                                                         45
 
 **Notes** 
 
@@ -371,7 +402,7 @@ the person is taken to have lodged, on that commencement, an application under t
 
                      (c)  apart from this section, the holding by the person of that directorship would, immediately after the commencement of this Act, be a contravention of the new Act;
 
-the holding by the person of that directorship (including a holding on re-election) is not a contravention of the new Act.
+the holding by the person of that directorship (including a holding on re‑election) is not a contravention of the new Act.
 
 ##### <a id="18"></a>18  Periods of grace for compliance with ownership and control provisions
 
@@ -467,7 +498,7 @@ under Part 9 of the new Act.
 
              (9)  If a code of practice relating to a matter to which a program standard referred to in subsection (4) relates is registered under subsection 123(4) of the new Act in relation to a section of the broadcasting industry, the program standard ceases to be in force in relation to that matter in relation to that section of the industry.
 
-### Division 5—Licence fees
+Division 5—Licence fees
 
 ### Division 6—Miscellaneous
 
@@ -481,7 +512,7 @@ under Part 9 of the new Act.
 
 ##### <a id="24"></a>24  Effect of directions and orders under Division 4 of Part IIIBA of the Broadcasting Act
 
-             (1)  Any directions given by the Tribunal under Division 4 of Part IIIBA of the Broadcasting Act (**_the Part_**), and any orders by the Federal Court of Australia under that Division, in force immediately before the commencement of this Act are, to the extent tp which the directions or orders are necessary to ensure compliance with the new Act, enforceable as if the Part had remained in force.
+             (1)  Any directions given by the Tribunal under Division 4 of Part IIIBA of the Broadcasting Act (**_the Part_**), and any orders by the Federal Court of Australia under that Division, in force immediately before the commencement of this Act are, to the extent to which the directions or orders are necessary to ensure compliance with the new Act, enforceable as if the Part had remained in force.
 
              (2)  The ABA has the same power to amend or revoke a direction referred to in subsection (1) as the Tribunal would have had if the Part had remained in force.
 
@@ -539,85 +570,11 @@ the person is required to supply the information or to produce the documents, bu
 
 ## Part 3—Repeals and consequential amendments
 
+### <span style="font-size:8.0pt"> </span><span style="font-size:8.0pt"> </span>
+
 ##### <a id="28"></a>28  Repeal of the Broadcasting Act
 
-             (1)  The _Broadcasting Act 1942_ is repealed except for the following provisions:
-
-                     (a)  section 1;
-
-                     (b)  subsection 4(1) so far as it relates to the definitions of the following terms:
-
-**_Australia_**
-
-**_election_**
-
-**_election period_**
-
-**_exempt matter_**
-
-**_government authority_**
-
-**_legislature of a Territory_**
-
-**_ordinary election_**
-
-**_Parliament_**
-
-**_policy launch_**
-
-**_political party_**
-
-**_political reference_**
-
-**_program_**
-
-**_referendum_**
-
-**_SBS_**
-
-**_Senate election_**
-
-**_the Corporation;_**
-
-                     (c)  subsection 4(4);
-
-                     (d)  section 6;
-
-                     (e)  Part IIID;
-
-                      (f)  section 134, in relation to the making of regulations for the purposes of Part IIID.
-
-             (2)  The provisions of the _Broadcasting Act 1942_ referred to in subsection (1) have effect from the commencement of this Act as if:
-
-                     (a)  a reference to a broadcaster, other than a reference in Division 3 of Part IIID, were a reference to a national broadcaster, the holder of a licence, the holder of a subscription television broadcasting licence or a person who provides a broadcasting service under a class licence; and
-
-                     (b)  a reference to a broadcaster in Division 3 of Part IIID were a reference to a national broadcaster, the holder of a commercial radio broadcasting licence, a commercial television broadcasting licence or a community broadcasting licence; and
-
-                     (c)  a reference to a broadcast were a reference to a program delivered by a broadcasting service; and
-
-                     (d)  a reference to a broadcasting service were a reference to a broadcasting service specified in section 11 of the new Act, other than a broadcasting service specified in paragraph 13(1)(c) of the new Act; and
-
-                     (e)  a reference to a licensee, except in relation to Division 3 of Part IIID, were a reference to the holder of a licence under the new Act or a licence continued in force under subsection 5(1) of this Act or a person who provides a service under a class licence; and
-
-                      (f)  a reference to a licensee in relation to Division 3 of Part IIID were a reference to the holder of a licence under the new Act or a licence continued in force under subsection 5(1) of this Act; and
-
-                     (g)  a reference to a service area in relation to a broadcasting service were a reference to the licence area of the licence under which that broadcasting service is provided; and
-
-                     (h)  a reference to the Tribunal were a reference to the ABA; and
-
-                      (i)  a reference to section 117 of the Broadcasting Act were a reference:
-
-                              (i)  in relation to a broadcaster referred to in subclause 4(1) of Part 2 of Schedule 2 of the new Act—to clause 4 of that Part; and
-
-                             (ii)  in relation to the Australian Broadcasting Corporation, to section 79A of the _Australian Broadcasting Corporation Act 1983_; and
-
-                            (iii)  in relation to the SBS, to section 70A of the _Special Broadcasting Service Act 1991_; and
-
-                      (j)  subsection 95A(2) were omitted and the following subsection substituted:
-
-“(2)  Nothing in this Part prevents the holder of a community radio broadcasting licence under the _Broadcasting Services Act 1992_ who provides a service for visually handicapped persons from broadcasting any material which is permitted to be broadcast under the conditions to which that licence is subject.”
-
-             (3)  Unless the contrary intention appears, a reference in subsection (2) to the new Act is a reference to the _Broadcasting Services Act 1992_.
+             (1)  The _Broadcasting Act 1942_ is repealed. 
 
 ##### <a id="29"></a>29  Other repeals
 
@@ -631,15 +588,15 @@ the person is required to supply the information or to produce the documents, bu
 
 Section 29
 
-Broadcasting (Limited Licences) Fees Act 1988
+<h9 class="ActHead9">Broadcasting (Limited Licences) Fees Act 1988</h9>
 
-Broadcasting (Retransmission Permits and Temporary Transmission Permits) Fees Act 1988
+<h9 class="ActHead9">Broadcasting (Retransmission Permits and Temporary Transmission Permits) Fees Act 1988</h9>
 
 # Schedule 2—Consequential amendments
 
 Section 30
 
-Affirmative Action (Equal Employment Opportunity for Women) Act 1986
+<h9 class="ActHead9">Affirmative Action (Equal Employment Opportunity for Women) Act 1986</h9>
 
 ## Subsection 3(1) (definition of _voluntary body_):
 
@@ -651,17 +608,17 @@ Omit paragraph (e), substitute:
 
 Omit “broadcasting or televising within the meaning of the _Broadcasting Act 1942_”, substitute “the provision of a broadcasting service specified in section 11 of the _Broadcasting Services Act 1992_”.
 
-Australian Broadcasting Corporation Act 1983
+<h9 class="ActHead9">Australian Broadcasting Corporation Act 1983</h9>
 
-## Section 6:
+Section 6:
 
-Omit “public sector” (wherever occurring), substitute “community sector”.
+Omit “public sectors” (wherever occurring), substitute “community sectors”.
 
 ## Subsection 8(1):
 
 Add at the end:
 
-; and (e)  to develop codes of practice relating to programming matters and to notify those codes to the Australian Broadcasting Authority.
+; and (e) to develop codes of practice relating to programming matters and to notify those codes to the Australian Broadcasting Authority.
 
 ## Subsection 25(5):
 
@@ -681,7 +638,7 @@ Add at the end:
 
                              (v)  open narrowcasting television services;
 
-                            under Part 8 of the Broadcasting Services Act 1992.
+                            under Part 8 of the _Broadcasting Services Act 1992_.
 
 ## Section 29A:
 
@@ -803,15 +760,15 @@ Insert:
 
              (6)  The obligation imposed by this section on the Corporation to retain a record does not apply at any time when the record is in the custody of a court in connection with proceedings instituted in the court.
 
-             (7)  Subsection (1) does not apply to or in relation to proceedings of the Senate or of the House of Representatives broadcast or re-broadcast by the Corporation pursuant to the _Parliamentary Proceedings Broadcasting Act 1946_.
+             (7)  Subsection (1) does not apply to or in relation to proceedings of the Senate or of the House of Representatives broadcast or re‑broadcast by the Corporation pursuant to the _Parliamentary Proceedings Broadcasting Act 1946_.
 
 ## Section 80:
 
 Insert after paragraph (d) the following paragraph:
 
-                    (da)  codes of practice developed under subsection 8(1);
+                   (da)  codes of practice developed under subsection 8(1);
 
-Commonwealth Electoral Act 1918
+<h9 class="ActHead9">Commonwealth Electoral Act 1918</h9>
 
 ## Subsection 287(1) (definition of _broadcaster_):
 
@@ -841,17 +798,17 @@ Omit the subsection, substitute:
 
                      (c)  in any other case—clause 5 of Schedule 2 to the _Broadcasting Services Act 1992_.
 
-Copyright Act 1968
+<h9 class="ActHead9">Copyright Act 1968</h9>
 
 ## Subsection 10(1) (definition of _the Special Broadcasting Service_):
 
 Omit “established by the _Broadcasting Act 1942_”, substitute “referred to in section 5 of the _Special Broadcasting Service Act 1991_”.
 
-## Paragraph 47A(11)(b) (definition of _print-handicapped radio licence_):
+## Paragraph 47A(11)(b) (definition of _print‑handicapped radio licence_):
 
 Omit “the _Broadcasting Act 1942_, the _Radiocommunications Act 1983_ or the _Wireless Telegraphy Act 1905_”, substitute “the _Broadcasting Services Act 1992_ or the _Radiocommunications Act 1983_”.
 
-Parliamentary Proceedings Broadcasting Act 1946
+<h9 class="ActHead9">Parliamentary Proceedings Broadcasting Act 1946</h9>
 
 ## Subsection 3(1) (definition of _national broadcasting station_):
 
@@ -863,7 +820,7 @@ Omit the definition, substitute:
 
 Omit “The provisions of section 117 of the _Broadcasting Act 1942_”, substitute “The provisions of sections 79A and 79B of the _Australian Broadcasting Corporation Act 1983_, clauses 3, 4 and 5 of Part 2 of Schedule 2 to the _Broadcasting Services Act 1992_ and sections 70A and 70B of the _Special Broadcasting Services Act 1991_”.
 
-Radio Licence Fees Act 1964
+<h9 class="ActHead9">Radio Licence Fees Act 1964</h9>
 
 ## Section 3:
 
@@ -903,7 +860,7 @@ Omit “Where a licensee has, in accordance with subsection 123(2) of the _Broad
 
 adopted an accounting period ending on a day other than 30 June,
 
-Radiocommunications Act 1983
+<h9 class="ActHead9">Radiocommunications Act 1983</h9>
 
 ## Subsection 3(1) (definition of _broadcasting station_):
 
@@ -925,9 +882,9 @@ Insert the following definitions:
 
                     <a name="aba"></a>**_ABA_** means the Australian Broadcasting Authority established under the _Broadcasting Services Act 1992_.
 
-                    <a name="broadcast-servic"></a>**_broadcasting service_** has the same meaning as in the _Broadcasting Services Act 1992_.
+                    <a name="broadcast-servic"></a>**_Broadcasting service_** has the same meaning as in the _Broadcasting Services Act 1992_.
 
-                    <a name="broadcast-servic-band"></a>**_broadcasting services bands_** has the same meaning as in the _Broadcasting Services Act 1992_.
+                    <a name="broadcast-servic-band"></a>**_Broadcasting services bands_** has the same meaning as in the _Broadcasting Services Act 1992_.
 
 ## Section 18:
 
@@ -1087,7 +1044,7 @@ Insert:
 
 ##### <a id="92A"></a>92A  Minister may determine allocation system
 
-             (1)  The Minister may determine in writing a price-based allocation system for granting licences of a kind identified in the regulations.
+             (1)  The Minister may determine in writing a price‑based allocation system for granting licences of a kind identified in the regulations.
 
              (2)  The system so determined:
 
@@ -1099,7 +1056,7 @@ Insert:
 
              (3)  If a licence is granted in accordance with a system so determined, the Minister must publish in the _Gazette_ the name of the successful applicant and the amount that the applicant agreed to pay to the Commonwealth for the grant of the licence.
 
-Referendum (Machinery Provisions) Act 1984
+<h9 class="ActHead9">Referendum (Machinery Provisions) Act 1984</h9>
 
 ## Section 110 (paragraph (c) of the definition of _broadcaster_):
 
@@ -1129,13 +1086,13 @@ Omit the subsection, substitute:
 
                      (c)  in any other case—clause 5 of Schedule 2 to the _Broadcasting Services Act 1992_.
 
-Sea Installations Act 1987
+<h9 class="ActHead9">Sea Installations Act 1987</h9>
 
 ## Schedule:
 
 Omit “_Broadcasting Act 1942_”, substitute “_Broadcasting Services Act 1992_”.
 
-Special Broadcasting Service Act 1991
+<h9 class="ActHead9">Special Broadcasting Service Act 1991</h9>
 
 ## Paragraph 6(2)(g):
 
@@ -1255,13 +1212,13 @@ whichever happens first, and ends at the close of the poll on the polling day fo
 
              (6)  The obligation imposed by this section on the SBS to retain a record does not apply at any time when the record is in the custody of a court in connection with proceedings instituted in the court.
 
-Telecommunications Act 1991
+<h9 class="ActHead9">Telecommunications Act 1991</h9>
 
 ## Subsection 99(2) (definition of _broadcaster_):
 
 Omit “or the holder of a licence or permit under the _Broadcasting Act 1942_”, substitute “or the holder of a licence under the _Broadcasting Services Act 1992_, the provider of a broadcasting service under a class licence under that Act or a person providing a service referred to in section 212 of that Act”.
 
-Television Licence Fees Act 1964
+<h9 class="ActHead9">Television Licence Fees Act 1964</h9>
 
 ## Section 3:
 
@@ -1297,7 +1254,7 @@ Omit “Where a licensee has, in accordance with subsection 123(2) of the _Broad
 
 adopted an accounting period ending on a day other than 30 June,
 
-Trade Practices Act 1974
+<h9 class="ActHead9">Trade Practices Act 1974</h9>
 
 ## Subsection 65A(3) (definition of _consortium_):
 
@@ -1311,9 +1268,7 @@ Omit the paragraph, substitute:
 
                     (aa)  a person who is the provider of a broadcasting service under a class licence under that Act; and
 
-                    (ab)  the holder of a licence continued in force by subsection 5(1) of the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_; and
-
- 
+                   (ab)  the holder of a licence continued in force by subsection 5(1) of the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_; and
 
 # Notes to the _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_
 
@@ -1322,8 +1277,6 @@ Omit the paragraph, substitute:
 The _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_ as shown in this compilation comprises Act No. 105, 1992 amended as indicated in the Tables below.
 
 ### Table of Acts
-
-* * *
 
 <table>
 <colgroup>
@@ -1354,19 +1307,7 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead></table>
-
-* * *
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
+</thead>
 <tr>
   <td>
     <div>Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992</div>
@@ -1412,7 +1353,7 @@ of Assent</div>
     <div>24 Dec 1992</div>
   </td>
   <td>
-    <div>Ss 64-66: Royal Assent <i>(a)</i></div>
+    <div>Ss. 64–66: Royal Assent <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1423,35 +1364,161 @@ of Assent</div>
     <div>Broadcasting Services Legislation Amendment Act 1997</div>
   </td>
   <td>
-    <div>143m 1997</div>
+    <div>143, 1997</div>
   </td>
   <td>
     <div>8 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2: 8 Oct 1997</div>
+    <div>8 Oct 1997</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Broadcasting Legislation Amendment Act (No. 2) 2002</div>
+  </td>
+  <td>
+    <div>120, 2002</div>
+  </td>
+  <td>
+    <div>2 Dec 2002</div>
+  </td>
+  <td>
+    <div>Schedules 1 and 2: 30 Dec 2002 
+Remainder: Royal Assent</div>
+  </td>
+  <td>
+    <div>—</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Statute Law Revision Act 2006</div>
+  </td>
+  <td>
+    <div>9, 2006</div>
+  </td>
+  <td>
+    <div>23 Mar 2006</div>
+  </td>
+  <td>
+    <div>Schedule 2 (item 8): <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
- 
-
-_(a)_     The _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_ was amended by sections 64-66 only of the _Transport and Communications Legislation Amendment Act (No. 3) 1992_, subsection 2(1) of which provides as follows:
+_(a)_     The _Broadcasting Services (Transitional Provisions and Consequential Amendments) Act 1992_ was amended by sections 64–66 only of the _Transport and Communications Legislation Amendment Act (No. 3) 1992_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-## Table of Amendments
+_(b)_     Subsection 2(1) (item 25) of the _Statute Law Revision Act 2006_ provides as follows:
 
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
 <table>
 <colgroup>
-  <col width="34%">
-  <col width="66%">
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
 </colgroup>
 
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      25\. Schedule 2, item 8
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Broadcasting Services (Transitional Provisions and Consequential Amendments)
+          Act 1992</i>for the commencement of the amendments in Schedule 2 to that
+        Act of section 6 of the
+        <i>Australian Broadcasting Corporation Act 1983</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      5 October 1992
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="33%">
+  <col width="67%">
+</colgroup>
+
+<tr>
+  <td colspan="2">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Provision affected</div>
@@ -1459,18 +1526,7 @@ ad. = added or inserted      am. = amended      rep. = repea
   <td>
     <div>How affected</div>
   </td>
-</tr></table>
-
-<div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
-
-</div>
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
+</tr>
 <tr>
   <td>
     <div>S. 4</div>
@@ -1521,11 +1577,29 @@ ad. = added or inserted      am. = amended      rep. = repea
 </tr>
 <tr>
   <td>
-    <div>S. 27.........................................</div>
+    <div>S. 27........................................</div>
   </td>
   <td>
     <div>am. No. 167, 1992</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28........................................</div>
+  </td>
+  <td>
+    <div>am. No. 120, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 2.............................</div>
+  </td>
+  <td>
+    <div>am. No. 9, 2006</div>
+  </td>
 </tr></table>
+
+ 
 
  
