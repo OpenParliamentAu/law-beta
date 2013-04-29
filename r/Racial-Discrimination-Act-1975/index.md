@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00236/Html/834f9d76-166b-41c1-a99f-4d33050dfe5f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00852/Html/cb4d5b73-5ef2-4f50-bf3b-b89c00046f0e_files/image001.gif)
 
 # Racial Discrimination Act 1975
 
 **Act No. 52 of 1975 as amended**
 
-This compilation was prepared on 14 February 2012
+This compilation was prepared on 21 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -620,9 +620,9 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  The Minister may appoint a person to act in the office of Commissioner during any period, or during all periods, when the Commissioner is absent from duty or from Australia or during a vacancy in that office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (4)  Sections 32, 33 and 35 apply in relation to a person appointed to act in the office of Commissioner in like manner as they apply in relation to the Commissioner.
+
+             (6)  The validity of anything done by a person appointed to act in the office of Commissioner shall not be called in question on the ground that the occasion for the person’s appointment had not arisen or that the appointment had ceased to have effect.
 
 ##### <a id="40"></a>40  Delegation
 
@@ -726,7 +726,7 @@ _Article_ 2
 
 (c)     Each State Party shall take effective measures to review governmental, national and local policies, and to amend, rescind or nullify any laws and regulations which have the effect of creating or perpetuating racial discrimination wherever it exists;
 
-(d)      Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization;
+(d)     Each State Party shall prohibit and bring to an end, by all appropriate means, including legislation as required by circumstances, racial discrimination by any persons, group or organization;
 
 (e)     Each State Party undertakes to encourage, where appropriate, integrationist multi‑racial organizations and movements and other means of eliminating barriers between races, and to discourage anything which tends to strengthen racial division.
 
@@ -1429,7 +1429,7 @@ S. 22: 10 Dec 1999 ( <i>see Gazette</i>1999, No. S598)</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 968, 969) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 968, 969) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -2727,15 +2727,7 @@ rep. No. 133, 1999</div>
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 91, 1976; No. 126, 1986; No. 132, 1992; No. 13, 1994; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 36(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 91, 1976; No. 126, 1986; No. 132, 1992; No. 13, 1994</div>
   </td>
 </tr>
 <tr>
@@ -2930,6 +2922,26 @@ rep. No. 133, 1999</div>
     <div>am. No. 126, 1986; No. 70, 2009</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 968  At the end of subsection 36(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 969  Subsection 36(6)
+
+Repeal the subsection.
+
+As at 21 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3232,6 +3244,8 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
