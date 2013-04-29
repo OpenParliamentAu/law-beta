@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00146/Html/74d7d9c2-a9f5-47b9-96f5-1ba4857030b7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00741/Html/cf8001ce-472a-4258-a090-9812cee18445_files/image001.gif)
 
 # Dental Benefits Act 2008
 
 **Act No. 41 of 2008 as amended**
 
-This compilation was prepared on 24 January 2012
+This compilation was prepared on 13 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -1092,7 +1092,7 @@ unless the Secretary or the Chief Executive Medicare believes on reasonable grou
 
 if the disclosure is for the purposes of administering this Act.
 
-Note:          For the definition of **_APS employee_**, see section 2B of the _Acts Interpretation Act 1901_.
+Note:          For the definition of **_APS employee_**, see section 17AA of the _Acts Interpretation Act 1901_.
 
              (2)  In this section:
 
@@ -1588,7 +1588,7 @@ in relation to:</li>
 
              (1)  The Secretary may, by writing, delegate any or all of his or her functions or powers under this Act to an SES employee, or acting SES employee, in the Department.
 
-Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
              (2)  In exercising powers or performing functions delegated under subsection (1), the delegate must comply with any directions of the Secretary.
 
@@ -1703,7 +1703,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 530, 531) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 530, 531) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -1887,14 +1887,6 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 41(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6</b></div>
   </td>
   <td>
@@ -1964,21 +1956,33 @@ of Assent</div>
   <td>
     <div>am. No. 32, 2011</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 66(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 530  Subsection 41(1) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+## 531  Subsection 66(1) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+As at 13 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
