@@ -1,8049 +1,13097 @@
-![](http://www.comlaw.gov.au/Details/C2005C00492/Html/75EF1B5730454F03CA25704900130E40/$FILE/image001.gif)
+**
 
-# Audit (Transitional and Miscellaneous) Amendment Act 1997
+###  AUDIT (TRANSITIONAL AND MISCELLANEOUS) AMENDMENT ACT 1997 
+**
 
-**Act No. 152 of 1997 as amended** 
 
-This compilation was prepared on 18 July 2005
+**
 
-**\[This Act was amended by Act No. 63 of 2002; No. 100, 2005]** 
+###  Compilation Information 
+**
 
-**Amendments from Act No. 63 of 2002**
 
-\[Schedule 2 (item 1) repealed items 1306 to 1310 of Schedule 2
-Schedule 12 (item 1) commenced on 1 January 1998]
 
-**Amendments from Act No. 100 of 2005**
 
-\[Schedule 2 (item 4) repealed item 394 of Schedule 2
-\[Schedule 2 (items 5 and 6) amended heading to item 398 of Schedule 2
 
-Schedule 2 (items 4–6) commenced immediately after 1 January 1998]
+**
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-Canberra
+###  Long Title 
+**
+Audit Act 1901
+Auditor-General Act 1997
+Financial Management and Accountability Act 1997
+Commonwealth Authorities and Companies Act 1997
+Assented to 24 October 1997
 
+###  AUDIT (TRANSITIONAL AND MISCELLANEOUS) AMENDMENT ACT 1997- SECT 1  Short title 
+<dl compact="">
 
-# Contents
+		This Act may be cited as the _Audit (Transitional and Miscellaneous) Amendment Act 1997_.
 
-[1](#1).            Short title
+ </dl>
+###  AUDIT (TRANSITIONAL AND MISCELLANEOUS) AMENDMENT ACT 1997- SECT 2  Commencement 
+<dl compact="">
 
-[2](#2).            Commencement
+<dt>(1)</dt><dd>Subject to subsections (2) and (3), this Act commences on the day on which
 
-[3](#3).            Schedule(s)
+it receives the Royal Assent.</dd> <dt>(2)</dt><dd>Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.</dd> <dt>(3)</dt><dd>Schedule 3 commences as follows: </dd> </dl>
+<dl compact=""><dl compact="">
 
-[4](#4).            Some amendments in Schedule 2 may not take effect or may take effect in a modified way
+<dt>(a)</dt><dd>the amendments of the _Air Services Act 1995_ are taken to have
 
-**Schedule 1—Repeal of the Audit Act 1901** 
+commenced on the day on which that Act received the Royal Assent;</dd>
 
-Audit Act 1901                                                                                                             4
+<dt>(b)</dt><dd>the amendment of the _Australian Law Reform Commission Act 1996_
 
-**Schedule 2—Consequential amendments of Acts** 
+commences immediately after the commencement of Schedule 1 of the _Australian Law Reform Commission (Repeal, Transitional and Miscellaneous) Act 1996_;</dd>
 
-Aboriginal and Torres Strait Islander Commission Act 1989                            5
+<dt>(c)</dt><dd>the amendments of the _Australian Maritime Safety Authority Act 1990_
 
-Aboriginal Councils and Associations Act 1976                                                13
+commence on the day on which this Act receives the Royal Assent;</dd>
 
-Aboriginal Land Grant (Jervis Bay Territory) Act 1986                                   15
+<dt>(d)</dt><dd>the amendments of the _Civil Aviation Legislation Amendment Act 1995_
 
-Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987            16
+are taken to have commenced on the day on which that Act received the Royal
 
-Aboriginal Land Rights (Northern Territory) Act 1976                                    19
+Assent;</dd>
 
-Acts Interpretation Act 1901                                                                                   22
+<dt>(e)</dt><dd>the amendment of the _Commonwealth Funds Management Limited Act 1990_
 
-Acts Interpretation Amendment Act 1976                                                             23
+commences, or is taken to have commenced, on the sale day as defined in
 
-Administrative Appeals Tribunal Act 1975                                                          23
+subsection 3(1) of the _CFM Sale Act 1996_;</dd>
 
-Administrative Decisions (Judicial Review) Act 1977                                       24
+<dt>(f)</dt><dd>the amendments of the _Ozone Protection Amendment Act 1995_ are taken
 
-Agricultural and Veterinary Chemicals (Administration) Act 1992               24
+to have commenced on the day on which that Act received the Royal Assent;</dd>
 
-Aircraft Noise Levy Collection Act 1995                                                              25
+<dt>(g)</dt><dd>the amendments of the _Small Superannuation Accounts Act 1995_
 
-Air Services Act 1995                                                                                                26
+commence on the same day as the _Financial Management and Accountability Act 1997_;</dd>
 
-Albury-Wodonga Development Act 1973                                                              26
+<dt>(h)</dt><dd>the amendments of the _Transport Legislation Amendment Act 1995_ are
 
-Anglo-Australian Telescope Agreement Act 1970                                              26
+taken to have commenced on the day on which that Act received the Royal Assent.
 
-Australia Council Act 1975                                                                                     27
+</dd>
 
-Australia-Japan Foundation Act 1976                                                                 29
+</dl></dl>
+###  AUDIT (TRANSITIONAL AND MISCELLANEOUS) AMENDMENT ACT 1997- SECT 3  Schedule(s) 
+<dl compact="">
 
-Australia New Zealand Food Authority Act 1991                                              31
+		Subject to section 2, each Act that is specified in a Schedule to this Act is
 
-Australian Broadcasting Corporation Act 1983                                                32
+amended or repealed as set out in the applicable items in the Schedule
 
-Australian Centre for International Agricultural Research Act 1982            34
+concerned, and any other item in a Schedule to this Act has effect according to
 
-Australian Film Commission Act 1975                                                                  35
+its terms.
 
-Australian Film, Television and Radio School Act 1973                                  37
+ </dl>
+###  AUDIT (TRANSITIONAL AND MISCELLANEOUS) AMENDMENT ACT 1997- SECT 4  Some amendments in Schedule 2 may not take effect or may take effect in a modified way 
+<dl compact="">
 
-Australian Heritage Commission Act 1975                                                          38
+<dt>(1)</dt><dd>If, on or before the commencement of Schedule 2, Part 6 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_
 
-Australian Horticultural Corporation Act 1987                                                 40
+commences or has commenced, the following amendments set out in Schedule 2 to
 
-Australian Industry Development Corporation Act 1970                                 44
+this Act do not take effect:
 
-Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989 47
+</dd> </dl>
 
-Australian Institute of Health and Welfare Act 1987                                          48
+Back to Top
 
-Australian Institute of Marine Science Act 1972                                                50
+<dl compact=""><dl compact="">
 
-Australian Land Transport Development Act 1988                                            51
+<dt>(a)</dt><dd>the amendments of the _Housing Loans Insurance Act 1965_;</dd>
 
-Australian Maritime Safety Authority Act 1990                                                  54
+<dt>(b)</dt><dd>the amendments of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
 
-Australian National Maritime Museum Act 1990                                               54
+</dd>
 
-Australian National Railways Commission Act 1983                                        56
+</dl></dl>
+<dl compact="">
 
-Australian National Training Authority Act 1992                                             59
+<dt>(2)</dt><dd>If, on or before the commencement of Schedule 2, Part 12 of the _Wool International Act 1993_ commences or has commenced, the amendments of that
 
-Australian National University Act 1991                                                             60
+Act set out in Schedule 2 to this Act do not take effect.</dd> <dt>(3)</dt><dd>If: </dd> </dl>
+<dl compact=""><dl compact="">
 
-Australian Nuclear Science and Technology Organisation Act 1987            61
+<dt>(a)</dt><dd>an Act is amended by Schedule 2; and</dd>
 
-Australian Postal Corporation Act 1989                                                             65
+<dt>(b)</dt><dd>the short title of the Act is changed on or before the commencement of
 
-Australian Securities Commission Act 1989                                                        68
+that Schedule;
 
-Australian Sports Commission Act 1989                                                              71
+</dd>
 
-Australian Sports Drug Agency Act 1990                                                             73
+</dl></dl>
+**
 
-Australian Tourist Commission Act 1987                                                             74
+###  AUDIT (TRANSITIONAL AND MISCELLANEOUS) AMENDMENT ACT 1997Schedule 1&#151;Repeal of the Audit Act 1901 
+**
+Audit Act 1901
 
-Australian Trade Commission Act 1985                                                               76
 
-Australian War Memorial Act 1980                                                                       77
+**
 
-Australian Wine and Brandy Corporation Act 1980                                          78
+###  AUDIT (TRANSITIONAL AND MISCELLANEOUS) AMENDMENT ACT 1997Schedule 2&#151;Consequential amendments of Acts 
+**
+Aboriginal and Torres Strait Islander Commission Act 1989
 
-Australian Wool Research and Promotion Organisation Act 1993                80
 
-Bankruptcy Act 1966                                                                                                82
+approved bank
 
-Broadcasting Services Act 1992                                                                             83
 
-Child Support (Registration and Collection) Act 1988                                    84
 
-Civil Aviation Act 1988                                                                                            86
 
-Coal Industry Act 1946                                                                                            86
+<dl compact="">
 
-Coal Mining Industry (Long Service Leave Funding) Act 1992                      87
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Commonwealth Inscribed Stock Act 1911                                                            88
+applies to the Commission. That Act deals with matters relating to Commonwealth
 
-Commonwealth Places (Application of Laws) Act 1970                                   88
+authorities, including reporting and accountability, banking and investment,
 
-Crimes Act 1914                                                                                                         88
+and conduct of officers.
 
-Criminology Research Act 1971                                                                             88
+ </dl>
 
-Customs Act 1901                                                                                                      91
 
-Dairy Produce Act 1986                                                                                           91
 
-Defence Housing Authority Act 1987                                                                    96
 
-Defence Service Homes Act 1918                                                                            98
 
-Dried Sultana Production Underwriting Act 1982                                            99
 
-Dried Vine Fruits Equalization Act 1978                                                             99
+Commonwealth Authorities and Companies Act 1997
 
-Dried Vine Fruits Stabilization Legislation Repeal Act 1981                          99
 
-Employment Services Act 1994                                                                             100
 
-Endangered Species Protection Act 1992                                                          101
+<dl compact="">
 
-Excise Act 1901                                                                                                        101
+<dt>(2)</dt><dd>This section does not apply to a liability that arises under the
 
-Export Finance and Insurance Corporation Act 1991                                    101
+_Commonwealth Authorities and Companies Act 1997_.
 
-Family Law Act 1975                                                                                              103
+</dd> </dl>
 
-Federal Airports Corporation Act 1986                                                             104
 
-Federal Court of Australia Act 1976                                                                   108
 
-Financial Agreement Act 1994                                                                             108
+Commonwealth Authorities and Companies Act 1997
 
-Fisheries Administration Act 1991                                                                      109
 
-Forestry and Timber Bureau Act 1930                                                                110
 
-Great Barrier Reef Marine Park Act 1975                                                          111
+Commonwealth Authorities and Companies Act 1997
 
-Health Insurance Commission Act 1973                                                             112
 
-Hearing Services Act 1991                                                                                    115
 
-Higher Education Funding Act 1988                                                                  117
+<dl compact="">
 
-Horticultural Research and Development Corporation Act 1987                 118
+<dt>(6C)</dt><dd>Section 14 of the _Commonwealth Authorities and Companies Act 1997_
 
-Housing Loans Insurance Act 1965                                                                     119
+does not apply to the Commission.
 
-Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996       121
+</dd> </dl>
 
-Income Tax Assessment Act 1936                                                                          122
+Back to Top
 
-Interstate Road Transport Act 1985                                                                    122
 
-Lands Acquisition Act 1989                                                                                  123
 
-Loan Consolidation and Investment Reserve Act 1955                                   124
 
-Loan (Income Equalization Deposits) Act 1976                                               125
+<dl compact="">
 
-Loan (Temporary Revenue Deficits) Act 1953                                                   125
+<dt>(3A)</dt><dd>Subsection (3) does not prevent the investment of money under section 18
 
-Maritime College Act 1978                                                                                   126
+of the _Commonwealth Authorities and Companies Act 1997_.
 
-Meat and Live-stock Industry Act 1995                                                              127
+</dd> </dl>
 
-Military Superannuation and Benefits Act 1991                                              131
 
-National Cattle Disease Eradication Trust Account Act 1991                      132
 
-National Environment Protection Council Act 1994                                       134
 
-National Gallery Act 1975                                                                                    134
 
-National Health Act 1953                                                                                      136
 
-National Health and Medical Research Council Act 1992                            138
+<dl compact="">
 
-National Library Act 1960                                                                                    140
+<dt>(3A)</dt><dd>Subsection (3) does not prevent the investment of money under section 18
 
-National Measurement Act 1960                                                                          141
+of the _Commonwealth Authorities and Companies Act 1997_.
 
-National Museum of Australia Act 1980                                                             142
+</dd> </dl>
 
-National Occupational Health and Safety Commission Act 1985                 144
 
-National Parks and Wildlife Conservation Act 1975                                       145
 
-National Residue Survey Administration Act 1992                                          147
 
-National Road Transport Commission Act 1991                                              149
 
-Native Title Act 1993                                                                                              149
 
-Natural Heritage Trust of Australia Act 1997                                                   150
 
-Natural Resources Management (Financial Assistance) Act 1992               150
 
-Norfolk Island Act 1979                                                                                         151
 
-Occupational Health and Safety (Commonwealth Employment) Act 1991 152
+<dl compact="">
 
-Pig Industry Act 1986                                                                                             152
+<dt>(3)</dt><dd>In this section:
 
-Prawn Export Promotion Act 1995                                                                      154
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-Primary Industries and Energy Research and Development Act 1989         154
+_bank_ has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
 
-Primary Industries Levies and Charges Collection Act 1991                         156
+ </dl></dl>
 
-Proceeds of Crime Act 1987                                                                                  156
+15
+  Subsection 72(1)
 
-Public Accounts Committee Act 1951                                                                 158
+ Repeal the subsection, substitute:
 
-Public Service Act 1922                                                                                         164
+<dl compact=""><dl compact="">
 
-Qantas Sale Act 1992                                                                                             164
+<dt>(1)</dt><dd>In this section, _annual report_ means the annual report of
 
-Remuneration and Allowances Act 1990                                                            164
+the Commission prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Reserve Bank Act 1959                                                                                           165
+</dd> </dl></dl>
 
-Royal Australian Air Force Veterans’ Residences Act 1953                           167
+16
+  Subsections 72(2), (3) and (4)
 
-Safety, Rehabilitation and Compensation Act 1988                                        167
+ Omit "report prepared under subsection (1)", substitute "annual report".
 
-Science and Industry Research Act 1949                                                            170
+17
+  Subsection 72(5)
 
-Sea Installations Act 1987                                                                                     171
+ After "financial statements", insert "included in the annual report".
 
-Services Trust Funds Act 1947                                                                              172
+18
+  Subsection 72(6)
 
-Snowy Mountains Hydro-electric Power Act 1949                                           173
+ Omit "report prepared under subsection (1)", substitute "annual report".
 
-Special Broadcasting Service Act 1991                                                              174
+19
+  Subsection 72(7)
 
-States Grants (Primary and Secondary Education Assistance) Act 1992    176
+ Omit "a report prepared under subsection (1)", substitute "an annual report".
 
-States Grants (Schools Assistance) Act 1984                                                    176
+20
+  Subsections 72(8) and (9)
 
-States Grants (Schools Assistance) Act 1988                                                    176
+ Repeal the subsections.
 
-States Grants (TAFE Assistance) Act 1989                                                        176
+21
+  Section 73
 
-Stevedoring Industry Finance Committee Act 1977                                         176
+ Repeal the section.
 
-Student and Youth Assistance Act 1973                                                              177
+22
+  Subsection 74(1)
 
-Superannuation Act 1976                                                                                      178
+ Omit ", not inconsistent with this Act or the regulations,".
 
-Superannuation Act 1990                                                                                      180
+23
+  After subsection 74(1)
 
-Superannuation Industry (Supervision) Act 1993                                            181
+ Insert:
 
-Surplus Revenue Act 1908                                                                                     182
+<dl compact=""><dl compact="">
 
-Taxation (Interest on Overpayments and Early Payments) Act 1983           182
+<dt>(1A)</dt><dd>Directions under subsection (1) must not be inconsistent with:
 
-Telstra Corporation Act 1991                                                                               182
+</dd> </dl></dl>
 
-Therapeutic Goods Act 1989                                                                                 182
+<dl compact=""><dl compact=""><dl compact="">
 
-Tobacco Marketing Act 1965                                                                               184
+<dt>(a)</dt><dd>this Act or the regulations under this Act; or</dd>
 
-Trade Practices Act 1974                                                                                       185
+<dt>(b)</dt><dd>the _Commonwealth Authorities and Companies Act 1997_, or regulations
 
-University of Canberra Act 1989                                                                          185
+or Finance Minister's Orders made under that Act.
 
-Vocational Education and Training Funding Act 1992                                 186
+</dd>
 
-Wheat Marketing Act 1989                                                                                    187
+</dl></dl></dl>
 
-Wool International Act 1993                                                                                 189
+<center>Back to Top</center>
 
-**Schedule 3—Amendment of Acts to update references and make other changes** 
+24
+  Subsection 74(3)
 
-Air Services Act 1995                                                                                              192
+ Repeal the subsection.
 
-Australian Law Reform Commission Act 1996                                                   192
+25
+  Subsection 99(1)
 
-Australian Maritime Safety Authority Act 1990                                                192
+ Omit "4 months", substitute "2 months".
 
-Civil Aviation Legislation Amendment Act 1995                                              192
+26
+  At the end of subsection 142(2)
 
-Commonwealth Funds Management Limited Act 1990                                   193
+ Add:
 
-Ozone Protection Amendment Act 1995                                                              193
+<dl compact=""><dl compact="">
 
-Small Superannuation Accounts Act 1995                                                         194
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Transport Legislation Amendment Act 1995                                                      195
+applies to the TSRA. That Act deals with matters relating to Commonwealth
 
-**Schedule 4—Transitional matters and regulations** 
+authorities, including reporting and accountability, banking and investment,
 
+and conduct of officers.
 
-## An Act to deal with transitional and consequential matters arising from the repeal of the _Audit Act 1901_ and the enactment of the _Auditor-General Act 1997_, the _Financial Management and Accountability Act 1997_ and the _Commonwealth Authorities and Companies Act 1997_, and for related purposes
+ </dl></dl>
 
-[_Assented to__24 October 1997_]
+27
+  Section 143N
 
-The Parliament of Australia enacts:
+ Repeal the section.
 
-##### <a id="1"></a>1  Short title
+28
+  Paragraph 143S(6)(e)
 
-                   This Act may be cited as the _Audit (Transitional and Miscellaneous) Amendment Act 1997_.
+ Omit "143N", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-##### <a id="2"></a>2  Commencement
+29
+  At the end of section 143U
 
-             (1)  Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+ Add:
 
-             (2)  Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+<dl compact=""><dl compact="">
 
-             (3)  Schedule 3 commences as follows:
+<dt>(3)</dt><dd>This section does not apply to a liability that arises under the
 
-                     (a)  the amendments of the _Air Services Act 1995_ are taken to have commenced on the day on which that Act received the Royal Assent;
+_Commonwealth Authorities and Companies Act 1997_.
 
-                     (b)  the amendment of the _Australian Law Reform Commission Act 1996_ commences immediately after the commencement of Schedule 1 of the _Australian Law Reform Commission (Repeal, Transitional and Miscellaneous) Act 1996_;
+</dd> </dl></dl>
 
-                     (c)  the amendments of the _Australian Maritime Safety Authority Act 1990_ commence on the day on which this Act receives the Royal Assent;
+30
+  Paragraph 144E(5)(a)
 
-                     (d)  the amendments of the _Civil Aviation Legislation Amendment Act 1995_ are taken to have commenced on the day on which that Act received the Royal Assent;
+ Omit "143N", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-                     (e)  the amendment of the _Commonwealth Funds Management Limited Act 1990_ commences, or is taken to have commenced, on the sale day as defined in subsection 3(1) of the _CFM Sale Act 1996_;
+31
+  Subsection 144E(14)
 
-                      (f)  the amendments of the _Ozone Protection Amendment Act 1995_ are taken to have commenced on the day on which that Act received the Royal Assent;
+ Omit "143N", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-                     (g)  the amendments of the _Small Superannuation Accounts Act 1995_ commence on the same day as the _Financial Management and Accountability Act 1997_;
+32
+  After subsection 144V(3)
 
-                     (h)  the amendments of the _Transport Legislation Amendment Act 1995_ are taken to have commenced on the day on which that Act received the Royal Assent.
+ Insert:
 
-##### <a id="3"></a>3  Schedule(s)
+<dl compact=""><dl compact="">
 
-                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+<dt>(3A)</dt><dd>Subsection (3) does not prevent the investment of money under section 18
 
-##### <a id="4"></a>4  Some amendments in Schedule 2 may not take effect or may take effect in a modified way
+of the _Commonwealth Authorities and Companies Act 1997_.
 
-             (1)  If, on or before the commencement of Schedule 2, Part 6 of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_ commences or has commenced, the following amendments set out in Schedule 2 to this Act do not take effect:
+</dd> </dl></dl>
 
-                     (a)  the amendments of the _Housing Loans Insurance Act 1965_;
+33
+  Subsection 144V(6)
 
-                     (b)  the amendments of the _Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_.
+ Repeal the subsection.
 
-             (2)  If, on or before the commencement of Schedule 2, Part 12 of the _Wool International Act 1993_ commences or has commenced, the amendments of that Act set out in Schedule 2 to this Act do not take effect.
+34
+  Subsection 144W(4)
 
-             (3)  If:
+ Repeal the subsection, substitute:
 
-                     (a)  an Act is amended by Schedule 2; and
+<dl compact=""><dl compact="">
 
-                     (b)  the short title of the Act is changed on or before the commencement of that Schedule;
+<dt>(4)</dt><dd>Subsection (3) does not prevent the investment of money under section 18
 
-the amendment made by Schedule 2 has effect as an amendment of the Act under its new short title.
+of the _Commonwealth Authorities and Companies Act 1997_.
 
+</dd> </dl></dl>
 
- 
+35
+  Subsection 144X(1)
 
-###### Schedule 1—Repeal of the Audit Act 1901
+ Omit "an approved bank", substitute "a bank".
 
-<h9 class="ActHead9">Audit Act 1901</h9>
+36
+  At the end of section 144X
 
-## 1  The whole of the Act
+ Add:
 
-Repeal the Act.
+<dl compact=""><dl compact="">
 
+<dt>(3)</dt><dd>In this section:
 
- 
+</dd> </dl></dl>
 
-###### Schedule 2—Consequential amendments of Acts
+<def><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Aboriginal and Torres Strait Islander Commission Act 1989</h9>
+_bank_ has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
 
-## 1  Subsection 4(1) (definition of _approved bank_)
+ </dl></dl>
+
+37
+  At the end of section 144ZA
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>Section 14 of the _Commonwealth Authorities and Companies Act 1997_
+
+does not apply to the TSRA.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+38
+  Subsection 144ZB(1)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>In this section, _annual report_ means the annual report of
+
+the TSRA prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+Note:	The heading to section 144ZB is altered by omitting "and financial statements".
+
+39
+  Subsection 144ZB(2)
+
+ Omit "each report", substitute "each annual report".
+
+40
+  Subsection 144ZB(3)
+
+ Omit "report relating to the year", substitute "annual report for the year".
+
+41
+  Subsection 144ZB(4)
+
+ Omit "report under this section", substitute "annual report".
+
+42
+  Subsection 144ZB(5)
+
+ Omit "a report under this section", substitute "an annual report".
+
+43
+  Subsections 144ZB(6) and (7)
+
+ Repeal the subsections.
+
+44
+  Section 144ZC
+
+ Repeal the section.
+
+45
+  Subsection 144ZD(1)
+
+ Omit ", not inconsistent with this Act or the regulations,".
+
+46
+  After subsection 144ZD(1)
+
+ Insert:
+
+_Directions must not be inconsistent with this Act etc._
+
+<dl compact=""><dl compact="">
+
+<dt>(1A)</dt><dd>Directions under subsection (1) must not be inconsistent with:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>this Act or the regulations under this Act; or</dd>
+
+<dt>(b)</dt><dd>the _Commonwealth Authorities and Companies Act 1997_, or regulations
+
+or Finance Minister's Orders made under that Act.
+
+</dd>
+
+</dl></dl></dl>
+
+47
+  Subsection 144ZD(3)
+
+ Repeal the subsection.
+
+48
+  At the end of subsection 145(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Corporation. That Act deals with matters relating to
+
+Commonwealth authorities, including reporting and accountability, banking and
+
+investment, and conduct of officers.
+
+ </dl></dl>
+
+49
+  Section 151
+
+ After "this Act", insert "or the _Commonwealth Authorities and Companies Act 1997_".
+
+50
+  Section 163
+
+ Repeal the section.
+
+51
+  Paragraph 165(2)(c)
+
+ Omit "163", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+52
+  Paragraph 167(3)(a)
+
+ Omit "163", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+53
+  Subsection 167(11)
+
+ Omit "163", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+<center>Back to Top</center>
+
+54
+  Section 180
+
+ Repeal the section.
+
+55
+  Section 186
+
+ Repeal the section.
+
+56
+  Section 189
+
+ Repeal the section.
+
+57
+  At the end of subsection 191A(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Indigenous Land Corporation. That Act deals with matters
+
+relating to Commonwealth authorities, including reporting and accountability,
+
+banking and investment, and conduct of officers.
+
+ </dl></dl>
+
+58
+  Section 191L
+
+ After "this Act", insert "or the _Commonwealth Authorities and Companies Act 1997_".
+
+59
+  Section 191M
+
+ Repeal the section.
+
+60
+  Subsections 192F(1) and (2)
+
+ Repeal the subsections.
+
+61
+  Paragraph 192H(2)(e)
+
+ After "192F", insert "of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+62
+  Paragraph 192J(3)(a)
+
+ Omit "192F", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+Note:	The heading to subsection 192J(3) is altered by omitting "_192F_" and substituting "_21 of the Commonwealth Authorities and Companies Act 1997_".
+
+63
+  Subsection 192W(1)
+
+ Omit "fund", substitute "reserve".
+
+64
+  Subsections 192W(2) to (5)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Land Fund is a component of the Reserved Money Fund.</dd> <dt>(3)</dt><dd>So far as practicable, money in the Land Fund that is not required for the purpose of making payments out of the Land Fund must be invested under section 39 of the _Financial Management and Accountability Act 1997._</dd> <dt>(4)</dt><dd>If income is received by the Commonwealth from the investment of money from the Land Fund, an amount equal to the income must be transferred to the Land Fund from the Consolidated Revenue Fund. </dd> </dl></dl>
+
+65
+  Section 193F
+
+ Repeal the section.
+
+66
+  Paragraph 193G(1)(b)
+
+ Repeal the paragraph, substitute:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>any person to whom the Finance Minister has delegated powers conferred on
+
+the Finance Minister by section 39 of the _Financial Management and Accountability Act 1997_, in so far as those powers relate to the Land Fund;
+
+and
+
+</dd>
+
+</dl></dl></dl>
+
+67
+  Subsection 193G(1) (note)
+
+ Repeal the note.
+
+68
+  Section 193K
+
+ Repeal the section, substitute: 
+
+193K
+  Modifications of Commonwealth Authorities and Companies 
+Act
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Indigenous Land Corporation.</dd> <dt>(2)</dt><dd>The annual report of the Indigenous Land Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include such additional information (if any) as is specified in the regulations under this Act.</dd> <dt>(3)</dt><dd>Division 2 of Part 3 (except section 10) of the _Commonwealth Authorities and Companies Act 1997_ applies as if the first category A year were a financial year. </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+69
+  Section 193V
+
+ Repeal the section.
+
+70
+  Subsections 200(3), (4) and (5)
+
+ Repeal the subsections. 
+
+_Aboriginal Councils and Associations Act 1976_
+
+71
+  At the end of subsection 19(3)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	Subject to section 19A, the _Commonwealth Authorities and Companies Act 1997_ applies to an Aboriginal Council. That Act deals with
+
+matters relating to Commonwealth authorities, including reporting and
+
+accountability, banking and investment, and conduct of officers.
+
+ </dl></dl>
+
+72
+  After section 19
+
+ Insert: 
+
+19A
+  Application of the _Commonwealth Authorities and Companies Act 1997_ if Administrator appointed
+
+<dl compact=""><dl compact="">
+
+		If an Administrator of an Aboriginal Council is appointed under Part V then,
+
+while the appointment remains in force:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>subject to paragraph (b), the _Commonwealth Authorities and Companies Act 1997_ applies in relation to the Aboriginal Council as if the
+
+Administrator were the sole director of the Aboriginal Council for the purposes
+
+of that Act; and</dd>
+
+<dt>(b)</dt><dd>section 21 of that Act does not apply to the Administrator.
+
+</dd>
+
+</dl></dl></dl>
+
+73
+  Paragraph 22(1)(b) and subsection 22(9)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+74
+  Subsections 22(4), (8), (8A) and (9)
+
+ After "this Act" (wherever occurring), insert "or the _Commonwealth Authorities and Companies Act 1997_".
+
+75
+  Subsection 23(1)
+
+ After "regulations", insert "and to the _Commonwealth Authorities and Companies Act 1997_"_._
+
+76
+  Section 29
+
+ After "this Act", insert "and the _Commonwealth Authorities and Companies Act 1997_".
+
+77
+  Paragraph 29(c)
+
+ Repeal the paragraph.
+
+78
+  Paragraph 35(2)(a)
+
+ Omit "or the regulations", substitute ", the regulations or the _Commonwealth Authorities and Companies Act 1997_".
+
+79
+  Subsection 36(3)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+80
+  Subsections 38(1), (2), (3) and (4)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The members of an Aboriginal Council must give the Registrar a copy of the
+
+annual report on the Council for a financial year under section 9 of the
+
+_Commonwealth Authorities and Companies Act 1997_. The copy must be given
+
+to the Registrar as soon as practicable after the report is given to the
+
+Minister, and must not be given to the Registrar later than 31 December in the
+
+next financial year.
+
+</dd> </dl></dl>
+
+Note:	The heading to section 38 is replaced by the heading "Extra reporting and accounting requirements".
+
+81
+  Paragraph 38(5)(a)
+
+ Omit "accounts and records", substitute "accounting records".
+
+<center>Back to Top</center>
+
+82
+  Paragraph 38(5)(b)
+
+ Omit "Council's report and examiner's report", substitute "annual report on the Council".
+
+83
+  Subsection 38(6)
+
+ Repeal the subsection.
+
+84
+  Paragraph 40(1)(a)
+
+ Omit "or the Rules", substitute ", the Rules or the _Commonwealth Authorities and Companies Act 1997_".
+
+85
+  Subsection 56(3)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+86
+  After section 75
+
+ Insert: 
+
+75A
+  Disclosure of interest by Administrator of Aboriginal 
+Council
+
+<dl compact=""><dl compact="">
+
+		If the corporation is an Aboriginal Council, the Administrator must give
+
+written notice to the Minister of any material personal interest that the
+
+Administrator has in a matter being considered or about to be considered in
+
+relation to a matter.
+
+ </dl></dl>
+
+_Aboriginal Land Grant (Jervis Bay Territory) Act 1986_
+
+87
+  Subsection 2(2)
+
+ Repeal the subsection.
+
+88
+  At the end of section 2
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	For the manner in which the Chairperson and Deputy
+
+Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+
+ </dl></dl>
+
+89
+  At the end of subsection 4(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Council. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+90
+  After section 4
+
+ Insert: 
+
+4A
+  Who are directors for the purposes of the _Commonwealth Authorities and Companies Act 1997_?
+
+<dl compact=""><dl compact="">
+
+		The members of the executive committee (not the registered members of the
+
+Council) are directors of the Council for the purposes of the application of
+
+the _Commonwealth Authorities and Companies Act 1997_ to the Council.
+
+ </dl></dl>
+
+91
+  Paragraph 28(2)(a)
+
+ Omit "or by the regulations", substitute ", by the regulations or by the _Commonwealth Authorities and Companies Act 1997_".
+
+92
+  Section 51
+
+ Repeal the section.
+
+93
+  Section 52
+
+ Repeal the section, substitute: 
+
+52
+  Annual report to be laid before meeting of Council
+
+ <dl compact=""><dl compact="">
+
+		The executive committee must table a copy of the annual report on the Council
+
+at the next general meeting of the Council held after the deadline for the
+
+financial year to which the report relates. The report is prepared under
+
+section 9 of the _Commonwealth Authorities and Companies Act 1997_ and the
+
+deadline is as specified in that section.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+_Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_
+
+94
+  Part VI (heading)
+
+ Repeal the heading, substitute: 
+
+<part>Part VI&#151;Funding
+
+95
+  Subsection 38(1)
+
+ Omit "trust fund", substitute "reserve".
+
+Note:	The heading to section 38 is replaced by the heading "Payments into and out of Reserves".
+
+96
+  Subsection 38(1)
+
+ Omit "Trust Fund", substitute "Reserve".
+
+97
+  Subsection 38(2)
+
+ Omit "Trust Fund", substitute "Reserve".
+
+98
+  Subsection 38(3)
+
+ Omit "trust fund", substitute "reserve".
+
+99
+  Subsection 38(3)
+
+ Omit "Trust Fund", substitute "Reserve".
+
+100
+  Subsection 38(4)
+
+ Omit "Trust Fund", substitute "Reserve".
+
+101
+  Subsection 38(5)
+
+ Repeal the subsection.
+
+102
+  Subsection 38(6)
+
+ Omit "Trust Fund", substitute "Reserve".
+
+103
+  Subsection 38(7)
+
+ Omit "Land Trust Fund", substitute "Land Reserve".
+
+104
+  Paragraph 38(7)(b)
+
+ Omit "paid into the Aboriginal Advancement Trust Fund", substitute "credited to the Consolidated Revenue Fund".
+
+105
+  After subsection 38(7)
+
+ Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(7A)</dt><dd>Whenever an amount is credited to the Consolidated Revenue Fund under
+
+paragraph (7)(b), an equal amount must be transferred to the Aboriginal
+
+Advancement Reserve from the Consolidated Revenue Fund.
+
+</dd> </dl></dl>
+
+106
+  Subsection 38(8)
+
+ Omit "Forest Trust Fund", substitute "Forest Reserve".
+
+107
+  Paragraph 38(8)(b)
+
+ Omit "paid into the Aboriginal Advancement Trust Fund", substitute "credited to the Consolidated Revenue Fund".
+
+108
+  After subsection 38(8)
+
+ Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(8A)</dt><dd>Whenever an amount is credited to the Consolidated Revenue Fund under
+
+paragraph (8)(b), an equal amount must be transferred to the Aboriginal
+
+Advancement Reserve from the Consolidated Revenue Fund.
+
+</dd> </dl></dl>
+
+109
+  Subsection 38(9)
+
+ Omit "Trust Fund", substitute "Reserve".
+
+110
+  Subsection 38(10)
+
+ Omit "Trust Fund" (first, second and third occurring), substitute "Reserve".
+
+111
+  Paragraph 38(10)(b)
+
+ Omit "paid into the Aboriginal Advancement Trust Fund", substitute "credited to the Consolidated Revenue Fund".
+
+112
+  Subsections 38(11) and (12)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(11)</dt><dd>A reserve established by this section is a component of the Reserved
+
+Money Fund.</dd> <dt>(12)</dt><dd>If interest is received by the Commonwealth from the investment of money from a reserve established by this section, an amount equal to the interest must be transferred to that reserve from the Consolidated Revenue Fund. </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+_Aboriginal Land Rights (Northern Territory) Act 1976_
+
+113
+  Subsection 3(1) (definition of _Trust Account_)
+
+ Repeal the definition.
+
+114
+  Subsection 3(1)
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Reserve_ means the Aboriginals Benefit Reserve established by
+
+section 62.
+
+ </dl></dl>
+
+115
+  Subsections 4(5) and (5A) and 7(1) and (1A)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+116
+  At the end of subsection 22(1)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	Subject to section 22A, the _Commonwealth Authorities and Companies Act 1997_ applies to a Land Council. That Act deals with matters
+
+relating to reporting and accountability, banking and investment, and conduct
+
+of officers.
+
+ </dl></dl>
+
+117
+  After section 22
+
+ Insert: 
+
+22A
+  Who are directors for the purposes of the _Commonwealth Authorities and Companies Act 1997_?
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection (2), the members of a Land Council are directors of
+
+the Council for the purposes of the application of Division 4 of Part 3 of the
+
+_Commonwealth Authorities and Companies Act 1997_ to the Land Council.</dd> <dt>(2)</dt><dd>The Chair of a Land Council (not the members of the Land Council) is the only director of the Council for the purposes of the application to the Land Council of the other provisions of the _Commonwealth Authorities and Companies Act 1997_. </dd> </dl></dl>
+
+118
+  Subsection 28(1) and sections 30 and 31
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+119
+  Section 32
+
+ Repeal the section.
+
+120
+  After subsection 34(3)
+
+ Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(3A)</dt><dd>A Land Council is also required to prepare budget estimates under
+
+section&#160;14 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+Note:	The heading to section 34 is replaced by the heading "Administrative expenditure to be in accordance with approved estimates".
+
+121
+  Subsection 35(10)
+
+ Omit "accordance with section 62B of the _Audit Act 1901_", substitute "investments of the kind authorised by section 39 of the _Financial Management and Accountability Act 1997_".
+
+122
+  Sections 37, 37AA, 37A and 38
+
+ Repeal the sections, substitute: 
+
+37
+  Additional reporting requirements
+
+ <dl compact=""><dl compact="">
+
+		The annual report on a Land Council under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include particulars of any
+
+determinations:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>made by the Land Council under subsection 35(1), (2), (3) or (3A) during
+
+the financial year to which the report relates; or</dd>
+
+<dt>(b)</dt><dd>made by the Minister under subsection 35(6) during that year.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+123
+  Part VI (heading)
+
+ Repeal the heading, substitute: 
+
+<part>Part VI&#151;Aboriginals Benefit Reserve
+
+124
+  Subsection 62(1)
+
+ Omit "Fund", substitute "reserve".
+
+Note:	The heading to section 62 is altered by omitting "Trust Account" and substituting "Reserve".
+
+125
+  Subsection 62(1)
+
+ Omit "Trust Account", substitute "Reserve".
+
+126
+  Subsections 62(2) and (3)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.</dd> <dt>(3)</dt><dd>If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund. </dd> </dl></dl>
+
+127
+  Subsections 63(2), (3), (3A) and (4)
+
+ Omit "Trust Account", substitute "Reserve".
+
+Note:	The heading to section 63 is altered by omitting "Trust Account" and substituting "Reserve".
+
+128
+  Subsection 63(5A)
+
+ Omit "paid into the Trust Account", substitute "transferred to the Reserve from the Consolidated Revenue Fund amounts equal to".
+
+129
+  Subsection 63(5B)
+
+ Omit "paid into the Trust Account", substitute "transferred to the Reserve from the Consolidated Revenue Fund amounts equal to".
+
+130
+  Subsection 63(6)
+
+ Repeal the subsection.
+
+131
+  Section 64
+
+ Omit "Trust Account" (wherever occurring), substitute "Reserve".
+
+Note:	The heading to section 64 is altered by omitting "Trust Account" and substituting "Reserve".
+
+132
+  Section 64A
+
+ Omit "Trust Account" (wherever occurring), substitute "Reserve".
+
+Note:	The heading to section 64A is altered by omitting "Trust Account" and substituting "Reserve".
+
+133
+  Subsections 64B(1), (2), (3) and (4)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>As soon as practicable after 30 June in each year, the Commission must
+
+prepare and give to the Minister a report relating to the operation of the
+
+Reserve for the year.</dd> <dt>(2)</dt><dd>The report must include: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and</dd>
+
+<dt>(b)</dt><dd>an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Minister must cause a copy of the report to be tabled in each House of
+
+the Parliament as soon as practicable.
+
+</dd> </dl></dl>
+
+134
+  Section 65
+
+ Omit "Trust Account" (wherever occurring), substitute "Reserve".
+
+Note:	The heading to section 65 is altered by omitting "Trust Account" and substituting "Reserve".
+
+135
+  Subsections 65(2) and (3)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair". 
+
+<center>Back to Top</center>
+
+_Acts Interpretation Act 1901_
+
+136
+  Paragraph 17(k)
+
+ Repeal the paragraph, substitute:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(k)</dt><dd>_Consolidated Revenue Fund_ means the Consolidated Revenue
+
+Fund referred to in section 81 of the Constitution;</dd>
+
+<dt>(ka)</dt><dd>_Loan Fund_ means the Loan Fund established by section 19 of
+
+the _Financial Management and Accountability Act 1997_;</dd>
+
+<dt>(kb)</dt><dd>_Reserved Money Fund_ means the Reserved Money Fund
+
+established by section 20 of the _Financial Management and Accountability Act 1997._
+
+</dd>
+
+</dl></dl></dl>
+
+137
+  Section 18B
+
+ Repeal the section, substitute: 
+
+18B
+  How Chairs and Deputy Chairs may be referred to
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Where an Act establishes an office of Chair of a body, the Chair may be
+
+referred to as Chair, Chairperson, Chairman, Chairwoman or by any other such
+
+term as the person occupying the office so chooses.</dd> <dt>(2)</dt><dd>If a person occupying an office mentioned in subsection (1) does not make known his or her choice of term, the person may be referred to by whichever of the following terms that a person addressing that person considers appropriate: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>Chair;</dd>
+
+<dt>(b)</dt><dd>Chairperson;</dd>
+
+<dt>(c)</dt><dd>Chairman;</dd>
+
+<dt>(d)</dt><dd>Chairwoman.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Where an Act establishes an office of Deputy Chair of a body, the Deputy
+
+Chair may be referred to as Deputy Chair, Deputy Chairperson, Deputy Chairman,
+
+Deputy Chairwoman or by any other such term as the person occupying the office
+
+so chooses.</dd> <dt>(4)</dt><dd>If a person occupying an office mentioned in subsection (3) does not make known his or her choice of term, the person may be referred to by whichever of the following terms that a person addressing that person considers appropriate: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>Deputy Chair;</dd>
+
+<dt>(b)</dt><dd>Deputy Chairperson;</dd>
+
+<dt>(c)</dt><dd>Deputy Chairman;</dd>
+
+<dt>(d)</dt><dd>Deputy Chairwoman.
+
+</dd>
+
+</dl></dl></dl>
+
+_Acts Interpretation Amendment Act 1976_
+
+138
+  Subsection 8(3)
+
+ Repeal the subsection. 
+
+_Administrative Appeals Tribunal Act 1975_
+
+139
+  Section 24R
+
+ Repeal the section, substitute: 
+
+24R
+  Annual report
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>As soon as practicable after 30 June in each year, the President must
+
+prepare and give to the Minister a report of the management of the
+
+administrative affairs of the Tribunal during the year.</dd> <dt>(2)</dt><dd>The report must include: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and</dd>
+
+<dt>(b)</dt><dd>an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Minister must cause a copy of the report to be tabled in each House of
+
+the Parliament as soon as practicable.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+140
+  Sections 24S and 24T
+
+ Repeal the sections. 
+
+_Administrative Decisions (Judicial Review) Act 1977_
+
+141
+  Paragraph (h) of Schedule 2
+
+ Omit "32 or 36A of the _Audit Act 1901_", substitute "27 of the _Financial Management and Accountability Act 1997_". 
+
+_Agricultural and Veterinary Chemicals (Administration) Act 1992_
+
+142
+  At the end of section 10
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>Section 28 of the _Commonwealth Authorities and Companies Act 1997_
+
+does not apply in relation to the NRA.
+
+</dd> </dl></dl>
+
+143
+  At the end of subsection 12(1)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the NRA. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+144
+  Subsections 23(1), (2) and (3)
+
+ Repeal the subsections.
+
+Note:	The heading to section 23 is altered by adding at the end "in resolutions without formal meetings".
+
+145
+  Paragraph 24(2)(b)
+
+ After "23", insert "of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+146
+  Section 61
+
+ Repeal the section.
+
+147
+  At the end of section 62
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the NRA
+
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+148
+  Section 68
+
+ Omit "Without limiting the generality of subsection 63H(1) of the _Audit Act 1901_ in its application in relation to the NRA, the NRA must include in each report referred to in that subsection", substitute "The directors must include in each report on the NRA prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_".
+
+149
+  Paragraph 69(1)(b)
+
+ Omit "63D(1) of the _Audit Act 1901_", substitute "18(2) of the _Commonwealth Authorities and Companies Act 1997_".
+
+150
+  Subsection 69(2)
+
+ Repeal the subsection.
+
+151
+  Section 81
+
+ Repeal the section. 
+
+_Aircraft Noise Levy Collection Act 1995_
+
+152
+  Subsection 17(4)
+
+ Repeal the subsection. 
+
+_Air Services Act 1995_
+
+153
+  At the end of subsection 7(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to AA. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+_Albury-Wodonga Development Act 1973_
+
+154
+  Section 5
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+155
+  Subsection 5(1)
+
+ Omit "Chairmen", substitute "Chairs".
+
+156
+  After section 9
+
+ Insert: 
+
+9A
+  _Commonwealth Authorities and Companies Act 1997_ does not 
+apply to Corporation
+
+<dl compact=""><dl compact="">
+
+		The Corporation is not a Commonwealth authority for the purposes of the
+
+_Commonwealth Authorities and Companies Act 1997_.
+
+ </dl></dl>
+
+157
+  Subclause 5(3) of Schedule 2
+
+ Omit "Chairman" (wherever occurring), substitute "Chair". 
+
+_Anglo-Australian Telescope Agreement Act 1970_
+
+158
+  After section 6
+
+ Insert: 
+
+6A
+  _Commonwealth Authorities and Companies Act 1997_ does not 
+apply to Board
+
+<dl compact=""><dl compact="">
+
+		The Board is not a Commonwealth authority for the purposes of the
+
+_Commonwealth Authorities and Companies Act 1997_.
+
+ </dl></dl>
+
+159
+  Subarticles 7(1) and (2) of the Schedule
+
+ Omit "Chairman" (wherever occurring), substitute "Chair". 
+
+_Australia Council Act 1975_
+
+160
+  At the end of subsection 8(1)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Council. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+161
+  Subparagraph 14(2)(a)(ii)
+
+ Omit "19", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+162
+  Subsection 15(6)
+
+ Omit "and section 19", substitute "of this Act and section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+163
+  Section 19
+
+ Repeal the section.
+
+164
+  Paragraph 19F(2)(e)
+
+ Omit "19", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+165
+  Subsection 27(2)
+
+ Omit "19 or 31", substitute "31 of this Act or with section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+166
+  After subsection 33(1)
+
+ Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(1A)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Council under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+167
+  Subsection 34(2A)
+
+ Omit "in accordance with subsection 36A(2)", substitute "under section&#160;18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+168
+  Sections 35 and 36
+
+ Repeal the sections.
+
+169
+  At the end of subsection 36A(1)
+
+ Add "The Council may also invest surplus money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.".
+
+170
+  Subsection 36A(2)
+
+ Repeal the subsection.
+
+171
+  Subsection 36A(3)
+
+ Omit "in accordance with this section", substitute "as mentioned in subsection (1)".
+
+172
+  Section 37
+
+ Repeal the section.
+
+173
+  Section 38
+
+ Repeal the section, substitute: 
+
+38
+  Extra reporting requirements
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The annual report on the Council under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>particulars of all matters specified by the Minister under paragraph 6A(c)
+
+during the year to which the report relates; and</dd>
+
+<dt>(b)</dt><dd>the text of all directions under sections 6B and 7 during the year to
+
+which the report relates.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Minister must cause any report or financial statements given by the
+
+members of the Council to the Minister under paragraph 16(1)(b) of the
+
+_Commonwealth Authorities and Companies Act 1997_ to be tabled in each
+
+House of the Parliament as soon as practicable.
+
+</dd> </dl></dl>
+
+174
+  Section 39
+
+ Repeal the section. 
+
+_Australia-Japan Foundation Act 1976_
+
+175
+  Section 3 (definition of _Fund_)
+
+ Repeal the definition.
+
+176
+  Section 3
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Reserve_ means the reserve established by section 17.
+
+ </dl></dl>
+
+177
+  Paragraph 5(1)(d)
+
+ Omit "Fund", substitute "Reserve".
+
+178
+  Subsection 9(3), paragraph 9(4)(a), subsection 12(1) and section 
+15
+
+Omit "Chairman" (wherever occurring), substitute "Chair".
+
+179
+  Part IV (heading)
+
+ Repeal the heading, substitute: 
+
+<part>Part IV&#151;Australia-Japan Reserve
+
+180
+  Section 17
+
+ Repeal the section, substitute: 
+
+17
+  Establishment of Reserve
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Australia-Japan
+
+Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund. </dd> </dl></dl>
+
+<center>Back to Top</center>
+
+181
+  Section 18
+
+ Omit "The Fund shall consist of", substitute "There must be transferred to the Reserve from the Consolidated Revenue Fund".
+
+Note:	The heading to section 18 is altered by omitting "Fund" and substituting "Reserve".
+
+182
+  Paragraph 18(a)
+
+ Omit "Fund", substitute "Reserve".
+
+183
+  Paragraph 18(b)
+
+ Before "income", insert "amounts equal to".
+
+184
+  Paragraph 18(b)
+
+ Omit "Fund", substitute "Reserve".
+
+185
+  Paragraph 18(c)
+
+ Before "any moneys", insert "amounts equal to".
+
+186
+  Paragraph 18(c)
+
+ Omit "Fund", substitute "Reserve".
+
+187
+  Paragraph 18(d)
+
+ Before "any other moneys", insert "amounts equal to".
+
+188
+  Paragraph 18(e)
+
+ Before "any moneys", insert "amounts equal to".
+
+189
+  Subsection 19(1)
+
+ Omit "Fund", substitute "Reserve".
+
+Note:	The heading to section 19 is altered by omitting "Fund" and substituting "Reserve".
+
+190
+  Sections 24A, 24B and 25
+
+ Repeal the sections, substitute: 
+
+25
+  Annual report
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>As soon as practicable after 30 June in each year, the Foundation must
+
+prepare and give to the Minister a report of the operations of the Foundation
+
+during the year.</dd> <dt>(2)</dt><dd>The report must include: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and</dd>
+
+<dt>(b)</dt><dd>an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_; and</dd>
+
+<dt>(c)</dt><dd>a copy of all directions given by the Minister to the Foundation during
+
+the year under subsection 5(3) of this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Minister must cause a copy of the report to be tabled in each House of
+
+the Parliament as soon as practicable.</dd> <dt>(4)</dt><dd>The Foundation must give the Minister any additional reports (with or without financial statements) that the Minister from time to time requires. </dd> </dl></dl>
+
+_Australia New Zealand Food Authority Act 1991_
+
+191
+  At the end of subsection 6(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Authority. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+192
+  At the end of section 11
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>This section does not affect the application of section 28 of the
+
+_Commonwealth Authorities and Companies Act 1997_ in relation to the
+
+Authority.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+193
+  Subsections 50(1), (2) and (3)
+
+ Repeal the subsections.
+
+194
+  Paragraph 52(2)(b)
+
+ After "50", insert "of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+195
+  Section 56
+
+ Repeal the section.
+
+196
+  At the end of section 57
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Subsection (2) does not prevent investment of surplus money of the
+
+Authority under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+197
+  Section 59
+
+ Repeal the section.
+
+198
+  Paragraph 60(1)(b)
+
+ Omit "63J(1) of the _Audit Act 1901_ (as that subsection applies under subsection 59(1))", substitute "18(2) of the _Commonwealth Authorities and Companies Act 1997_".
+
+199
+  Subsection 60(2)
+
+ Repeal the subsection.
+
+200
+  Section 69
+
+ Omit "The Authority must include in each report prepared under section 63M of the _Audit Act 1901_ (as that section applies to the Authority under subsection 59(1))", substitute "The members must include in each report on the Authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_". 
+
+_Australian Broadcasting Corporation Act 1983_
+
+201
+  At the end of subsection 5(1)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Corporation. That Act deals with matters relating to
+
+Commonwealth authorities, including reporting and accountability, banking and
+
+investment, and conduct of officers.
+
+ </dl></dl>
+
+202
+  Subsection 8(3)
+
+ Omit "this section shall", substitute "subsection (1) or (2) is to".
+
+203
+  Subsection 17(1)
+
+ Repeal the subsection.
+
+204
+  Subsection 17(1A)
+
+ Omit "subsection (1)", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+205
+  Subsection 17(2)
+
+ Repeal the subsection.
+
+206
+  Subsection 17(5)
+
+ Repeal the subsection.
+
+207
+  Subparagraph 18(2)(a)(ii)
+
+ Omit "17", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+208
+  At the end of subsection 25A(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	Section 15 of the _Commonwealth Authorities and Companies Act 1997_ requires Directors to notify the Minister of significant business
+
+activities and arrangements.
+
+ </dl></dl>
+
+209
+  Subsection 25A(3)
+
+<center>Back to Top</center>
+
+ Repeal the subsection.
+
+210
+  Subsection 68(1)
+
+ Omit "Subject to subsection (2), the", substitute "The".
+
+211
+  Subsections 68(2) and (3)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Corporation under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+Note:	The heading to section 68 is altered by omitting "and investment".
+
+212
+  Section 69
+
+ Repeal the section.
+
+213
+  Section 72
+
+ Repeal the section.
+
+214
+  At the end of section 78
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(7)</dt><dd>Without limiting subsection (6), section 28 of the _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to the
+
+Corporation.
+
+</dd> </dl></dl>
+
+215
+  Section 80
+
+ Omit "Board must cause to be included in each report prepared under section 63M of the _Audit Act 1901_, as that section applies to the Corporation by virtue of section 72 of this Act", substitute "Directors must include in each annual report on the Corporation prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_". 
+
+_Australian Centre for International Agricultural Research Act 1982_
+
+216
+  Section 3 (definition of _Chairman_)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+217
+  Section 3 (definition of _Fund_)
+
+ Repeal the definition.
+
+218
+  Section 3
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Reserve_ means the reserve established by section 33.
+
+ </dl></dl>
+
+219
+  Section 9, subsections 10(6), 14(2), (4) and (5) and 
+15(6)
+
+Omit "Chairman" (wherever occurring), substitute "Chair".
+
+220
+  Subsection 33(1)
+
+ Omit "Trust Fund", substitute "Reserve".
+
+Note:	The heading to section 33 is altered by omitting "Fund" and substituting "Reserve".
+
+221
+  Subsection 33(2)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.
+
+</dd> </dl></dl>
+
+222
+  Section 34
+
+ Repeal the section, substitute: 
+
+34
+  Payments into Reserve
+
+ <dl compact=""><dl compact="">
+
+		There must be transferred to the Reserve from the Consolidated Revenue Fund:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>all money appropriated by the Parliament for the purposes of the Reserve;
+
+and</dd>
+
+<dt>(b)</dt><dd>amounts equal to money from time to time received by the Centre.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+223
+  Section 35
+
+ Omit "Fund", substitute "Reserve".
+
+Note:	The heading to section 35 is altered by omitting "Fund" and substituting "Reserve".
+
+224
+  Section 36
+
+ Omit "Fund" (wherever occurring), substitute "Reserve".
+
+225
+  Sections 38A, 38AA, 38B and 39
+
+ Repeal the sections, substitute: 
+
+39
+  Annual report
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>As soon as practicable after 30 June in each year, the Board must prepare
+
+and give to the Minister a report of the operations of the Centre during the
+
+year.</dd> <dt>(2)</dt><dd>The report must include: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and</dd>
+
+<dt>(b)</dt><dd>an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Minister must cause a copy of the report to be tabled in each House of
+
+the Parliament as soon as practicable.
+
+</dd> </dl></dl>
+
+_Australian Film Commission Act 1975_
+
+226
+  Section 3 (definitions of _Chairman_, _Deputy Chairman_ 
+and _member_)
+
+Omit "Chairman" (wherever occurring), substitute "Chair".
+
+227
+  At the end of subsection 4(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Commission. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+228
+  Subsection 6(4)
+
+ Omit all the words from and including "The Commission" to and including "a statement of:", substitute "The annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include a statement of:".
+
+229
+  Subsection 15(1) and sections 19 and 20
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+230
+  Section 22
+
+ Repeal the section.
+
+231
+  Subparagraph 23(2)(a)(ii)
+
+ Omit "section 22", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+232
+  Subsections 23(3) and 28(1), (4), (5), (6) and (7)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+233
+  Section 32
+
+ Repeal the section.
+
+234
+  Subsection 33(2)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+235
+  Section 34
+
+ Repeal the section.
+
+236
+  Paragraph 35(2)(b)
+
+ Omit "in accordance with subsection 33(2)", substitute "under section&#160;18 of the _Commonwealth Authorities and Companies Act 1997_".
+
+237
+  Sections 37, 38, 40D, 44 and 45
+
+ Repeal the sections. 
+
+_Australian Film, Television and Radio School Act 1973_
+
+238
+  At the end of subsection 4(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the School. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+239
+  Subsection 12(5) and section 13
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+240
+  Paragraph 18(c)
+
+ Omit "19", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+241
+  Section 19
+
+ Repeal the section.
+
+242
+  Sections 20 and 23
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+243
+  Paragraph 29(1)(c)
+
+ Omit "19", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+244
+  Sections 37 and 38
+
+ Repeal the sections.
+
+245
+  After subsection 39(1)
+
+ Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(1A)</dt><dd>Subsection (1) does not prevent investment of surplus money of the School
+
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+246
+  Paragraph 51(c)
+
+ Omit "chairman", substitute "chair". 
+
+_Australian Heritage Commission Act 1975_
+
+247
+  Section 3 (definition of _Chairman_)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+248
+  At the end of subsection 11(1)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Commission. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+249
+  Paragraph 12(1)(a), subsections 12(1A), (3), (7), (8) and (9), 
+section 16 and subsection 17(2)
+
+Omit "Chairman" (wherever occurring), substitute "Chair".
+
+250
+  Paragraph 18(2)(c)
+
+ Omit "section 19", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+251
+  Section 19
+
+ Repeal the section, substitute: 
+
+<center>Back to Top</center>
+
+19
+  Application of section 21 of the _Commonwealth Authorities and Companies Act 1997_ to deemed and co-opted Commissioners
+
+<dl compact=""><dl compact="">
+
+		Section 21 of the _Commonwealth Authorities and Companies Act 1997_
+
+(disclosure of material personal interests) applies to a person deemed to be a
+
+Commissioner under subsection 17(3), or to a person who is a co-opted
+
+Commissioner, as if the person were a Commissioner.
+
+ </dl></dl>
+
+252
+  Section 20
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+253
+  Subsection 21(3)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>A person appointed under subsection (1):
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is to be regarded as a Commissioner for the purposes of section 14 of this
+
+Act and of section 21 of the _Commonwealth Authorities and Companies Act 1997_; but</dd>
+
+<dt>(b)</dt><dd>is not to be regarded as a Commissioner for the purposes of any of the
+
+other provisions of this Act or of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd>
+
+</dl></dl></dl>
+
+254
+  Subsection 32(2)
+
+ Omit "Chairman", substitute "Chair".
+
+255
+  At the end of section 35
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+256
+  Sections 36, 38, 40 and 41
+
+ Repeal the sections.
+
+257
+  Section 43
+
+ Repeal the section, substitute: 
+
+43
+  Extra reporting requirements
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a description of the condition of the national estate at the end of the
+
+period to which the report relates; and</dd>
+
+<dt>(b)</dt><dd>the text of all directions given by the Minister to the Commission under
+
+section 25 during the period to which the report relates.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Commission may also give the Minister any other reports relating to
+
+the national estate that it thinks fit.</dd> <dt>(3)</dt><dd>The Minister must cause any report the Commission gives the Minister under subsection (2), or under paragraph 16(1)(b) of the _Commonwealth Authorities and Companies Act 1997_, to be tabled in each House of the Parliament within 15 sitting days of that House after the Minister receives the report. </dd> </dl></dl>
+
+_Australian Horticultural Corporation Act 1987_
+
+258
+  Subsection 3(1) (definition of _authorised auditor_)
 
 Repeal the definition.
 
-## 2  Add at the end of subsection 6(2)
+259
+  Subsection 3(1) (definition of _company auditor_)
 
-Add:
+ Repeal the definition.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<center>Back to Top</center>
 
-## 3  Section 37
-
-Repeal the section.
-
-## 4  Paragraph 40(7)(e)
-
-Omit “37”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 5  At the end of section 42
-
-Add:
-
-             (2)  This section does not apply to a liability that arises under the _Commonwealth Authorities and Companies Act 1997_.
-
-## 6  Paragraph 44(5)(a)
-
-Omit “37”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 7  Subsection 44(13)
-
-Omit “37”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 8  After subsection 61(6B)
-
-Insert:
-
-          (6C)  Section 14 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Commission.
-
-## 9  After subsection 67(3)
-
-Insert:
-
-          (3A)  Subsection (3) does not prevent the investment of money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 10  Subsection 67(6)
-
-Repeal the subsection.
-
-## 11  After subsection 68(3)
-
-Insert:
-
-          (3A)  Subsection (3) does not prevent the investment of money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 12  Subsection 68(6)
-
-Repeal the subsection.
-
-## 13  Subsection 69(1)
-
-Omit “an approved bank”, substitute “a bank”.
-
-## 14  At the end of section 69
-
-Add:
-
-             (3)  In this section:
-
-                    <a name="bank"></a>**_bank_** has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
-
-## 15  Subsection 72(1)
-
-Repeal the subsection, substitute:
-
-             (1)  In this section, **_annual report_** means the annual report of the Commission prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 16  Subsections 72(2), (3) and (4)
-
-Omit “report prepared under subsection (1)”, substitute “annual report”.
-
-## 17  Subsection 72(5)
-
-After “financial statements”, insert “included in the annual report”.
-
-## 18  Subsection 72(6)
-
-Omit “report prepared under subsection (1)”, substitute “annual report”.
-
-## 19  Subsection 72(7)
-
-Omit “a report prepared under subsection (1)”, substitute “an annual report”.
-
-## 20  Subsections 72(8) and (9)
-
-Repeal the subsections.
-
-## 21  Section 73
-
-Repeal the section.
-
-## 22  Subsection 74(1)
-
-Omit “, not inconsistent with this Act or the regulations,”.
-
-## 23  After subsection 74(1)
-
-Insert:
-
-          (1A)  Directions under subsection (1) must not be inconsistent with:
-
-                     (a)  this Act or the regulations under this Act; or
-
-                     (b)  the _Commonwealth Authorities and Companies Act 1997_, or regulations or Finance Minister’s Orders made under that Act.
-
-## 24  Subsection 74(3)
-
-Repeal the subsection.
-
-## 25  Subsection 99(1)
-
-Omit “4 months”, substitute “2 months”.
-
-## 26  At the end of subsection 142(2)
-
-Add:
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the TSRA. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 27  Section 143N
-
-Repeal the section.
-
-## 28  Paragraph 143S(6)(e)
-
-Omit “143N”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 29  At the end of section 143U
-
-Add:
-
-             (3)  This section does not apply to a liability that arises under the _Commonwealth Authorities and Companies Act 1997_.
-
-## 30  Paragraph 144E(5)(a)
-
-Omit “143N”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 31  Subsection 144E(14)
-
-Omit “143N”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 32  After subsection 144V(3)
-
-Insert:
-
-          (3A)  Subsection (3) does not prevent the investment of money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 33  Subsection 144V(6)
-
-Repeal the subsection.
-
-## 34  Subsection 144W(4)
-
-Repeal the subsection, substitute:
-
-             (4)  Subsection (3) does not prevent the investment of money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 35  Subsection 144X(1)
-
-Omit “an approved bank”, substitute “a bank”.
-
-## 36  At the end of section 144X
-
-Add:
-
-             (3)  In this section:
-
-                    <a name="bank"></a>**_bank_** has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
-
-## 37  At the end of section 144ZA
-
-Add:
-
-             (5)  Section 14 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the TSRA.
-
-## 38  Subsection 144ZB(1)
-
-Repeal the subsection, substitute:
-
-             (1)  In this section, **_annual report_** means the annual report of the TSRA prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
-
-_Note:       The heading to section 144ZB is altered by omitting “and financial statements”._
-
-## 39  Subsection 144ZB(2)
-
-Omit “each report”, substitute “each annual report”.
-
-## 40  Subsection 144ZB(3)
-
-Omit “report relating to the year”, substitute “annual report for the year”.
-
-## 41  Subsection 144ZB(4)
-
-Omit “report under this section”, substitute “annual report”.
-
-## 42  Subsection 144ZB(5)
-
-Omit “a report under this section”, substitute “an annual report”.
-
-## 43  Subsections 144ZB(6) and (7)
-
-Repeal the subsections.
-
-## 44  Section 144ZC
-
-Repeal the section.
-
-## 45  Subsection 144ZD(1)
-
-Omit “, not inconsistent with this Act or the regulations,”.
-
-## 46  After subsection 144ZD(1)
-
-Insert:
-
-Directions must not be inconsistent with this Act etc.
-
-          (1A)  Directions under subsection (1) must not be inconsistent with:
-
-                     (a)  this Act or the regulations under this Act; or
-
-                     (b)  the _Commonwealth Authorities and Companies Act 1997_, or regulations or Finance Minister’s Orders made under that Act.
-
-## 47  Subsection 144ZD(3)
-
-Repeal the subsection.
-
-## 48  At the end of subsection 145(2)
-
-Add:
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 49  Section 151
-
-After “this Act”, insert “or the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 50  Section 163
-
-Repeal the section.
-
-## 51  Paragraph 165(2)(c)
-
-Omit “163”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 52  Paragraph 167(3)(a)
-
-Omit “163”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 53  Subsection 167(11)
-
-Omit “163”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 54  Section 180
-
-Repeal the section.
-
-## 55  Section 186
-
-Repeal the section.
-
-## 56  Section 189
-
-Repeal the section.
-
-## 57  At the end of subsection 191A(2)
-
-Add:
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Indigenous Land Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 58  Section 191L
-
-After “this Act”, insert “or the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 59  Section 191M
-
-Repeal the section.
-
-## 60  Subsections 192F(1) and (2)
-
-Repeal the subsections.
-
-## 61  Paragraph 192H(2)(e)
-
-After “192F”, insert “of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 62  Paragraph 192J(3)(a)
-
-Omit “192F”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-_Note:       The heading to subsection 192J(3) is altered by omitting “192F” and substituting “21 of the Commonwealth Authorities and Companies Act 1997”._
-
-## 63  Subsection 192W(1)
-
-Omit “fund”, substitute “reserve”.
-
-## 64  Subsections 192W(2) to (5)
-
-Repeal the subsections, substitute:
-
-             (2)  The Land Fund is a component of the Reserved Money Fund.
-
-             (3)  So far as practicable, money in the Land Fund that is not required for the purpose of making payments out of the Land Fund must be invested under section 39 of the _Financial Management and Accountability Act 1997._
-
-             (4)  If income is received by the Commonwealth from the investment of money from the Land Fund, an amount equal to the income must be transferred to the Land Fund from the Consolidated Revenue Fund.
-
-## 65  Section 193F
-
-Repeal the section.
-
-## 66  Paragraph 193G(1)(b)
-
-Repeal the paragraph, substitute:
-
-                     (b)  any person to whom the Finance Minister has delegated powers conferred on the Finance Minister by section 39 of the _Financial Management and Accountability Act 1997_, in so far as those powers relate to the Land Fund; and
-
-## 67  Subsection 193G(1) (note)
-
-Repeal the note.
-
-## 68  Section 193K
-
-Repeal the section, substitute:
-
-##### <a id="193K"></a>193K  Modifications of Commonwealth Authorities and Companies Act
-
-             (1)  Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Indigenous Land Corporation.
-
-             (2)  The annual report of the Indigenous Land Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include such additional information (if any) as is specified in the regulations under this Act.
-
-             (3)  Division 2 of Part 3 (except section 10) of the _Commonwealth Authorities and Companies Act 1997_ applies as if the first category A year were a financial year.
-
-## 69  Section 193V
-
-Repeal the section.
-
-## 70  Subsections 200(3), (4) and (5)
-
-Repeal the subsections.
-
-<h9 class="ActHead9">Aboriginal Councils and Associations Act 1976</h9>
-
-## 71  At the end of subsection 19(3)
-
-Add:
-
-Note:          Subject to section 19A, the _Commonwealth Authorities and Companies Act 1997_ applies to an Aboriginal Council. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 72  After section 19
-
-Insert:
-
-##### <a id="19A"></a>19A  Application of the _Commonwealth Authorities and Companies Act 1997_ if Administrator appointed
-
-                   If an Administrator of an Aboriginal Council is appointed under Part V then, while the appointment remains in force:
-
-                     (a)  subject to paragraph (b), the _Commonwealth Authorities and Companies Act 1997_ applies in relation to the Aboriginal Council as if the Administrator were the sole director of the Aboriginal Council for the purposes of that Act; and
-
-                     (b)  section 21 of that Act does not apply to the Administrator.
-
-## 73  Paragraph 22(1)(b) and subsection 22(9)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 74  Subsections 22(4), (8), (8A) and (9)
-
-After “this Act” (wherever occurring), insert “or the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 75  Subsection 23(1)
-
-After “regulations”, insert “and to the _Commonwealth Authorities and Companies Act 1997_”_._
-
-## 76  Section 29
-
-After “this Act”, insert “and the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 77  Paragraph 29(c)
-
-Repeal the paragraph.
-
-## 78  Paragraph 35(2)(a)
-
-Omit “or the regulations”, substitute “, the regulations or the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 79  Subsection 36(3)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 80  Subsections 38(1), (2), (3) and (4)
-
-Repeal the subsections, substitute:
-
-             (1)  The members of an Aboriginal Council must give the Registrar a copy of the annual report on the Council for a financial year under section 9 of the _Commonwealth Authorities and Companies Act 1997_. The copy must be given to the Registrar as soon as practicable after the report is given to the Minister, and must not be given to the Registrar later than 31 December in the next financial year.
-
-_Note:       The heading to section 38 is replaced by the heading “Extra reporting and accounting requirements”._
-
-## 81  Paragraph 38(5)(a)
-
-Omit “accounts and records”, substitute “accounting records”.
-
-## 82  Paragraph 38(5)(b)
-
-Omit “Council’s report and examiner’s report”, substitute “annual report on the Council”.
-
-## 83  Subsection 38(6)
-
-Repeal the subsection.
-
-## 84  Paragraph 40(1)(a)
-
-Omit “or the Rules”, substitute “, the Rules or the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 85  Subsection 56(3)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 86  After section 75
-
-Insert:
-
-##### <a id="75A"></a>75A  Disclosure of interest by Administrator of Aboriginal Council
-
-                   If the corporation is an Aboriginal Council, the Administrator must give written notice to the Minister of any material personal interest that the Administrator has in a matter being considered or about to be considered in relation to a matter.
-
-<h9 class="ActHead9">Aboriginal Land Grant (Jervis Bay Territory) Act 1986</h9>
-
-## 87  Subsection 2(2)
-
-Repeal the subsection.
-
-## 88  At the end of section 2
-
-Add:
-
-Note:          For the manner in which the Chairperson and Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
-
-## 89  At the end of subsection 4(2)
-
-Add:
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Council. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 90  After section 4
-
-Insert:
-
-##### <a id="4A"></a>4A  Who are directors for the purposes of the _Commonwealth Authorities and Companies Act 1997_?
-
-                   The members of the executive committee (not the registered members of the Council) are directors of the Council for the purposes of the application of the _Commonwealth Authorities and Companies Act 1997_ to the Council.
-
-## 91  Paragraph 28(2)(a)
-
-Omit “or by the regulations”, substitute “, by the regulations or by the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 92  Section 51
-
-Repeal the section.
-
-## 93  Section 52
-
-Repeal the section, substitute:
-
-##### <a id="52"></a>52  Annual report to be laid before meeting of Council
-
-                   The executive committee must table a copy of the annual report on the Council at the next general meeting of the Council held after the deadline for the financial year to which the report relates. The report is prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_ and the deadline is as specified in that section.
-
-<h9 class="ActHead9">Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987</h9>
-
-## 94  Part VI (heading)
-
-Repeal the heading, substitute:
-
-## Part VI—Funding
-
-## 95  Subsection 38(1)
-
-Omit “trust fund”, substitute “reserve”.
-
-_Note:       The heading to section 38 is replaced by the heading “Payments into and out of Reserves”._
-
-## 96  Subsection 38(1)
-
-Omit “Trust Fund”, substitute “Reserve”.
-
-## 97  Subsection 38(2)
-
-Omit “Trust Fund”, substitute “Reserve”.
-
-## 98  Subsection 38(3)
-
-Omit “trust fund”, substitute “reserve”.
-
-## 99  Subsection 38(3)
-
-Omit “Trust Fund”, substitute “Reserve”.
-
-## 100  Subsection 38(4)
-
-Omit “Trust Fund”, substitute “Reserve”.
-
-## 101  Subsection 38(5)
-
-Repeal the subsection.
-
-## 102  Subsection 38(6)
-
-Omit “Trust Fund”, substitute “Reserve”.
-
-## 103  Subsection 38(7)
-
-Omit “Land Trust Fund”, substitute “Land Reserve”.
-
-## 104  Paragraph 38(7)(b)
-
-Omit “paid into the Aboriginal Advancement Trust Fund”, substitute “credited to the Consolidated Revenue Fund”.
-
-## 105  After subsection 38(7)
-
-Insert:
-
-          (7A)  Whenever an amount is credited to the Consolidated Revenue Fund under paragraph (7)(b), an equal amount must be transferred to the Aboriginal Advancement Reserve from the Consolidated Revenue Fund.
-
-## 106  Subsection 38(8)
-
-Omit “Forest Trust Fund”, substitute “Forest Reserve”.
-
-## 107  Paragraph 38(8)(b)
-
-Omit “paid into the Aboriginal Advancement Trust Fund”, substitute “credited to the Consolidated Revenue Fund”.
-
-## 108  After subsection 38(8)
-
-Insert:
-
-          (8A)  Whenever an amount is credited to the Consolidated Revenue Fund under paragraph (8)(b), an equal amount must be transferred to the Aboriginal Advancement Reserve from the Consolidated Revenue Fund.
-
-## 109  Subsection 38(9)
-
-Omit “Trust Fund”, substitute “Reserve”.
-
-## 110  Subsection 38(10)
-
-Omit “Trust Fund” (first, second and third occurring), substitute “Reserve”.
-
-## 111  Paragraph 38(10)(b)
-
-Omit “paid into the Aboriginal Advancement Trust Fund”, substitute “credited to the Consolidated Revenue Fund”.
-
-## 112  Subsections 38(11) and (12)
-
-Repeal the subsections, substitute:
-
-           (11)  A reserve established by this section is a component of the Reserved Money Fund.
-
-           (12)  If interest is received by the Commonwealth from the investment of money from a reserve established by this section, an amount equal to the interest must be transferred to that reserve from the Consolidated Revenue Fund.
-
-<h9 class="ActHead9">Aboriginal Land Rights (Northern Territory) Act 1976</h9>
-
-## 113  Subsection 3(1) (definition of _Trust Account_)
+260
+  Subsection 3(1) (definition of _Corporation auditor_)
 
 Repeal the definition.
 
-## 114  Subsection 3(1)
+261
+  At the end of subsection 12(1)
 
-Insert:
+ Add:
 
-                    <a name="reserv"></a>**_Reserve_** means the Aboriginals Benefit Reserve established by section 62.
+<dl compact=""><dl compact="">
 
-## 115  Subsections 4(5) and (5A) and 7(1) and (1A)
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+applies to the Corporation. That Act deals with matters relating to
 
-## 116  At the end of subsection 22(1)
+Commonwealth authorities, including reporting and accountability, banking and
 
-Add:
+investment, and conduct of officers.
 
-Note:          Subject to section 22A, the _Commonwealth Authorities and Companies Act 1997_ applies to a Land Council. That Act deals with matters relating to reporting and accountability, banking and investment, and conduct of officers.
+ </dl></dl>
 
-## 117  After section 22
+262
+  At the end of section 13
 
-Insert:
+ Add:
 
-##### <a id="22A"></a>22A  Who are directors for the purposes of the _Commonwealth Authorities and Companies Act 1997_?
+<dl compact=""><dl compact="">
 
-             (1)  Subject to subsection (2), the members of a Land Council are directors of the Council for the purposes of the application of Division 4 of Part 3 of the _Commonwealth Authorities and Companies Act 1997_ to the Land Council.
+Note:	For the manner in which the Chairperson may be referred to,
 
-             (2)  The Chair of a Land Council (not the members of the Land Council) is the only director of the Council for the purposes of the application to the Land Council of the other provisions of the _Commonwealth Authorities and Companies Act 1997_.
+see section 18B of the _Acts Interpretation Act 1901_.
 
-## 118  Subsection 28(1) and sections 30 and 31
+ </dl></dl>
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+263
+  Section 14
 
-## 119  Section 32
+ Repeal the section.
 
-Repeal the section.
+264
+  Subsection 15(8)
 
-## 120  After subsection 34(3)
+ Repeal the subsection.
 
-Insert:
+265
+  At the end of section 15
 
-          (3A)  A Land Council is also required to prepare budget estimates under section 14 of the _Commonwealth Authorities and Companies Act 1997_.
+ Add:
 
-_Note:       The heading to section 34 is replaced by the heading “Administrative expenditure to be in accordance with approved estimates”._
+<dl compact=""><dl compact="">
 
-## 121  Subsection 35(10)
+Note:	For the manner in which the Chairperson may be referred to,
 
-Omit “accordance with section 62B of the _Audit Act 1901_”, substitute “investments of the kind authorised by section 39 of the _Financial Management and Accountability Act 1997_”.
+see section 18B of the _Acts Interpretation Act 1901_.
 
-## 122  Sections 37, 37AA, 37A and 38
+ </dl></dl>
 
-Repeal the sections, substitute:
+266
+  Section 23
 
-##### <a id="37"></a>37  Additional reporting requirements
+ Repeal the section.
 
-                   The annual report on a Land Council under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include particulars of any determinations:
+267
+  Paragraph 24(2)(b)
 
-                     (a)  made by the Land Council under subsection 35(1), (2), (3) or (3A) during the financial year to which the report relates; or
+ Omit "23", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-                     (b)  made by the Minister under subsection 35(6) during that year.
+268
+  Subsection 30(1)
 
-## 123  Part VI (heading)
+ Repeal the subsection.
 
-Repeal the heading, substitute:
+269
+  Subsection 30(2)
 
-## Part VI—Aboriginals Benefit Reserve
+ Omit "Without limiting the generality of subsection (1), the Corporation shall include in the report:", substitute "The annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:".
 
-## 124  Subsection 62(1)
+Note:	The heading to section 30 is replaced by the heading "Extra matters to be included in annual report".
 
-Omit “Fund”, substitute “reserve”.
+270
+  Paragraph 30(2)(a)
 
-_Note:       The heading to section 62 is altered by omitting “Trust Account” and substituting “Reserve”._
+ Omit "and of each Board".
 
-## 125  Subsection 62(1)
+271
+  Paragraph 30(2)(b)
 
-Omit “Trust Account”, substitute “Reserve”.
+ Omit "or a Board" (wherever occurring).
 
-## 126  Subsections 62(2) and (3)
+272
+  Subsections 30(3), (4), (4A) and (5)
 
-Repeal the subsections, substitute:
+ Repeal the subsections.
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+273
+  After section 30
 
-             (3)  If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund.
+ Insert: 
 
-## 127  Subsections 63(2), (3), (3A) and (4)
+30A
+  Corporation to give Minister annual reports on Product 
+Boards
 
-Omit “Trust Account”, substitute “Reserve”.
+<dl compact=""><dl compact="">
 
-_Note:       The heading to section 63 is altered by omitting “Trust Account” and substituting “Reserve”._
+<dt>(1)</dt><dd>The Corporation must, by the 15 October after the end of each financial
 
-## 128  Subsection 63(5A)
+year, give to the Minister the annual report on each Product Board for that
 
-Omit “paid into the Trust Account”, substitute “transferred to the Reserve from the Consolidated Revenue Fund amounts equal to”.
+year given to the Corporation by the Board under section 9 of the
 
-## 129  Subsection 63(5B)
+_Commonwealth Authorities and Companies Act 1997_ (as modified by section
 
-Omit “paid into the Trust Account”, substitute “transferred to the Reserve from the Consolidated Revenue Fund amounts equal to”.
+101A of this Act).</dd> <dt>(2)</dt><dd>The Minister may grant an extension of time in special circumstances.</dd> <dt>(3)</dt><dd>The Minister must table each report in each House of the Parliament as soon as practicable. </dd> </dl></dl>
 
-## 130  Subsection 63(6)
+<center>Back to Top</center>
 
-Repeal the subsection.
+274
+  Subsection 49(1)
 
-## 131  Section 64
+ Repeal the subsection.
 
-Omit “Trust Account” (wherever occurring), substitute “Reserve”.
+Note:	The heading to section 49 is replaced by the heading "Separate accounts may be required in some circumstances".
 
-_Note:       The heading to section 64 is altered by omitting “Trust Account” and substituting “Reserve”._
+275
+  Sections 50, 51, 56 and 57
 
-## 132  Section 64A
+ Repeal the sections.
 
-Omit “Trust Account” (wherever occurring), substitute “Reserve”.
+276
+  Subsection 73(5)
 
-_Note:       The heading to section 64A is altered by omitting “Trust Account” and substituting “Reserve”._
+ Repeal the subsection, substitute:
 
-## 133  Subsections 64B(1), (2), (3) and (4)
+<dl compact=""><dl compact="">
 
-Repeal the subsections, substitute:
+<dt>(5)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_
 
-             (1)  As soon as practicable after 30 June in each year, the Commission must prepare and give to the Minister a report relating to the operation of the Reserve for the year.
+applies in relation to the committee as if the committee were a Commonwealth
 
-             (2)  The report must include:
+authority (as defined in that Act).
 
-                     (a)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and
+</dd> </dl></dl>
 
-                     (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
+277
+  At the end of section 84
 
-             (3)  The Minister must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
+ Add:
 
-## 134  Section 65
+<dl compact=""><dl compact="">
 
-Omit “Trust Account” (wherever occurring), substitute “Reserve”.
+Note:	For the manner in which the Chairperson may be referred to,
 
-_Note:       The heading to section 65 is altered by omitting “Trust Account” and substituting “Reserve”._
+see section 18B of the _Acts Interpretation Act 1901_.
 
-## 135  Subsections 65(2) and (3)
+ </dl></dl>
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+278
+  Section 85
 
-<h9 class="ActHead9">Acts Interpretation Act 1901</h9>
+ Repeal the section.
 
-## 136  Paragraph 17(k)
+279
+  Subsection 86(8)
 
-Repeal the paragraph, substitute:
+ Repeal the subsection.
 
-                     (k)**_Consolidated Revenue Fund_** means the Consolidated Revenue Fund referred to in section 81 of the Constitution;
+280
+  At the end of section 86
 
-                    (ka)**_Loan Fund_** means the Loan Fund established by section 19 of the _Financial Management and Accountability Act 1997_;
+ Add:
 
-                    (kb)**_Reserved Money Fund_** means the Reserved Money Fund established by section 20 of the _Financial Management and Accountability Act 1997._
+<dl compact=""><dl compact="">
 
-## 137  Section 18B
+Note:	For the manner in which the Deputy Chairperson may be
 
-Repeal the section, substitute:
+referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
-##### 18B  How Chairs and Deputy Chairs may be referred to
+ </dl></dl>
 
-             (1)  Where an Act establishes an office of Chair of a body, the Chair may be referred to as Chair, Chairperson, Chairman, Chairwoman or by any other such term as the person occupying the office so chooses.
+281
+  At the end of subsection 101(1)
 
-             (2)  If a person occupying an office mentioned in subsection (1) does not make known his or her choice of term, the person may be referred to by whichever of the following terms that a person addressing that person considers appropriate:
+ Add:
 
-                     (a)  Chair;
+<dl compact=""><dl compact="">
 
-                     (b)  Chairperson;
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-                     (c)  Chairman;
+applies to each Board. That Act deals with matters relating to Commonwealth
 
-                     (d)  Chairwoman.
+authorities, including reporting and accountability, banking and investment,
 
-             (3)  Where an Act establishes an office of Deputy Chair of a body, the Deputy Chair may be referred to as Deputy Chair, Deputy Chairperson, Deputy Chairman, Deputy Chairwoman or by any other such term as the person occupying the office so chooses.
+and conduct of officers.
 
-             (4)  If a person occupying an office mentioned in subsection (3) does not make known his or her choice of term, the person may be referred to by whichever of the following terms that a person addressing that person considers appropriate:
+ </dl></dl>
 
-                     (a)  Deputy Chair;
+282
+  After section 101
 
-                     (b)  Deputy Chairperson;
+ Insert: 
 
-                     (c)  Deputy Chairman;
+101A
+  Modification of the _Commonwealth Authorities and Companies Act 1997_
 
-                     (d)  Deputy Chairwoman.
+<dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Acts Interpretation Amendment Act 1976</h9>
+		Section 9 of the _Commonwealth Authorities and Companies Act 1997_
 
-## 138  Subsection 8(3)
+applies in relation to a Board as if:
 
-Repeal the subsection.
+ </dl></dl>
 
-<h9 class="ActHead9">Administrative Appeals Tribunal Act 1975</h9>
+<dl compact=""><dl compact=""><dl compact="">
 
-## 139  Section 24R
+<dt>(a)</dt><dd>a reference to the responsible Minister were instead a reference to the
 
-Repeal the section, substitute:
+Corporation; and</dd>
 
-##### <a id="24R"></a>24R  Annual report
+<dt>(b)</dt><dd>the reference to the 15th day of the 4th month after the end of the
 
-             (1)  As soon as practicable after 30 June in each year, the President must prepare and give to the Minister a report of the management of the administrative affairs of the Tribunal during the year.
+financial year were instead a reference to the next 31&#160;August after the
 
-             (2)  The report must include:
+end of the financial year; and</dd>
 
-                     (a)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and
+<dt>(c)</dt><dd>subsection (3) were omitted.
 
-                     (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
+</dd>
 
-             (3)  The Minister must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
+</dl></dl></dl>
 
-## 140  Sections 24S and 24T
+283
+  Subsection 115F(1)
 
-Repeal the sections.
+ Repeal the subsection.
 
-<h9 class="ActHead9">Administrative Decisions (Judicial Review) Act 1977</h9>
+284
+  Subsection 115F(2)
 
-## 141  Paragraph (h) of Schedule 2
+ Omit "Without limiting the generality of subsection (1), each report must include:", substitute "The annual report on a Board under section&#160;9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:".
 
-Omit “32 or 36A of the _Audit Act 1901_”, substitute “27 of the _Financial Management and Accountability Act 1997_”.
+Note:	The heading to section 115F is replaced by the heading "Extra matters to be included in Product Board annual reports".
 
-<h9 class="ActHead9">Agricultural and Veterinary Chemicals (Administration) Act 1992</h9>
+<center>Back to Top</center>
 
-## 142  At the end of section 10
+285
+  Subsections 115F(3), (4) and (5)
 
-Add:
+ Repeal the subsections.
 
-             (5)  Section 28 of the _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to the NRA.
+286
+  Section 115FA
 
-## 143  At the end of subsection 12(1)
+ Omit "a report of a Board has been given to the Corporation under subsection 115F(1)", substitute "an annual report on a Board has been given to the Corporation".
 
-Add:
+287
+  Section 115S
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the NRA. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Omit "50, 51,".
 
-## 144  Subsections 23(1), (2) and (3)
+288
+  Section 115T
 
-Repeal the subsections.
+ Repeal the section.
 
-_Note:       The heading to section 23 is altered by adding at the end “in resolutions without formal meetings”._
+289
+  Subsection 115ZB(5)
 
-## 145  Paragraph 24(2)(b)
+ Repeal the subsection, substitute:
 
-After “23”, insert “of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dl compact=""><dl compact="">
 
-## 146  Section 61
+<dt>(5)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_
 
-Repeal the section.
+applies in relation to a committee as if the committee were a Commonwealth
 
-## 147  At the end of section 62
+authority (as defined in that Act).
 
-Add:
+</dd> </dl></dl>
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the NRA under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+_Australian Industry Development Corporation Act 1970_
 
-## 148  Section 68
+290
+  Section 4 (definition of _Chairman_)
 
-Omit “Without limiting the generality of subsection 63H(1) of the _Audit Act 1901_ in its application in relation to the NRA, the NRA must include in each report referred to in that subsection”, substitute “The directors must include in each report on the NRA prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 149  Paragraph 69(1)(b)
+291
+  At the end of subsection 5(2)
 
-Omit “63D(1) of the _Audit Act 1901_”, substitute “18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+ Add:
 
-## 150  Subsection 69(2)
+<dl compact=""><dl compact="">
 
-Repeal the subsection.
+Note:	Subject to section 5A, the _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters
 
-## 151  Section 81
+relating to Commonwealth authorities, including reporting and accountability,
 
-Repeal the section.
+banking and investment and conduct of officers.
 
-<h9 class="ActHead9">Aircraft Noise Levy Collection Act 1995</h9>
+ </dl></dl>
 
-## 152  Subsection 17(4)
+292
+  After section 5
 
-Repeal the subsection.
+ Insert: 
 
-<h9 class="ActHead9">Air Services Act 1995</h9>
+5A
+  Modification of the _Commonwealth Authorities and Companies Act 1997_ how that Act applies to subsidiaries
 
-## 153  At the end of subsection 7(2)
+<dl compact=""><dl compact="">
 
-Add:
+<dt>(1)</dt><dd>Sections 15, 16, 17, 28 and 29 of the _Commonwealth Authorities and Companies Act 1997_ have effect, as they apply to the Corporation, as if a
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to AA. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+reference in any of those sections to a subsidiary were instead a reference to
 
-<h9 class="ActHead9">Albury-Wodonga Development Act 1973</h9>
+an eligible subsidiary in relation to the Corporation as defined in section 4
 
-## 154  Section 5
+of this Act.</dd> <dt>(2)</dt><dd>Finance Minister's Orders referred to in subsection 13(2) of the _Commonwealth Authorities and Companies Act 1997_ cannot require the Corporation to include, in reports under section 13 of that Act, information about a subsidiary of the Corporation that is not an eligible subsidiary (as defined in section 4 of this Act). </dd> </dl></dl>
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+293
+  Subsection 8A(10)
 
-## 155  Subsection 5(1)
+ Omit all the words after "and shall include", substitute "in the annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ a separate report on each such operation carried on during the year to which the report relates.".
 
-Omit “Chairmen”, substitute “Chairs”.
+294
+  Subsection 8A(12)
 
-## 156  After section 9
+ Repeal the subsection.
 
-Insert:
+295
+  Section 9
 
-##### <a id="9A"></a>9A  _Commonwealth Authorities and Companies Act 1997_ does not apply to Corporation
+ After "this Act", insert "and the _Commonwealth Authorities and Companies Act 1997_".
 
-                   The Corporation is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+296
+  Section 11, subsections 12(1) and 13(2), sections 15A, 16, 17 and 
+18 and subsection 19(1)
 
-## 157  Subclause 5(3) of Schedule 2
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+297
+  Paragraph 19(3)(b)
 
-<h9 class="ActHead9">Anglo-Australian Telescope Agreement Act 1970</h9>
+ Omit "22", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 158  After section 6
+298
+  Section 20, paragraph 20A(1)(b) and subsections 21(1), (2), (3), 
+(4) and (5)
 
-Insert:
+<center>Back to Top</center>
 
-##### <a id="6A"></a>6A  _Commonwealth Authorities and Companies Act 1997_ does not apply to Board
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-                   The Board is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+299
+  Sections 22, 23B, 23C and 23D
 
-## 159  Subarticles 7(1) and (2) of the Schedule
+ Repeal the sections.
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+300
+  Section 23E
 
-<h9 class="ActHead9">Australia Council Act 1975</h9>
+ After "financial target", insert "for a corporate plan under section 17 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 160  At the end of subsection 8(1)
+301
+  Sections 23F, 23H and 25
 
-Add:
+ Repeal the sections.
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Council. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+302
+  Subsection 26(1)
 
-## 161  Subparagraph 14(2)(a)(ii)
+ Omit "Subject to subsection (2), moneys", substitute "Money".
 
-Omit “19”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+303
+  Subsection 26(2)
 
-## 162  Subsection 15(6)
+ Repeal the subsection, substitute:
 
-Omit “and section 19”, substitute “of this Act and section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dl compact=""><dl compact="">
 
-## 163  Section 19
+<dt>(2)</dt><dd>Subsection (1) does not prevent the investment of surplus money of the
 
-Repeal the section.
+Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997._
 
-## 164  Paragraph 19F(2)(e)
+</dd> </dl></dl>
 
-Omit “19”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+304
+  Section 28
 
-## 165  Subsection 27(2)
+ Repeal the section.
 
-Omit “19 or 31”, substitute “31 of this Act or with section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+305
+  Subsections 29(1) to (7) (inclusive)
 
-## 166  After subsection 33(1)
+ Repeal the subsections.
 
-Insert:
+306
+  Paragraph 29(8)(a)
 
-          (1A)  Subsection (1) does not prevent investment of surplus money of the Council under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+ Omit "under this section".
 
-## 167  Subsection 34(2A)
+Note:	The heading to section 29 is replaced by the heading "Additional audit arrangements".
 
-Omit “in accordance with subsection 36A(2)”, substitute “under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+307
+  Subsection 33(2)
 
-## 168  Sections 35 and 36
+ Omit "Chairman", substitute "Chair".
 
-Repeal the sections.
+308
+  Subsections 37(1) to (2B) (inclusive)
 
-## 169  At the end of subsection 36A(1)
+ Repeal the subsections.
 
-Add “The Council may also invest surplus money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.”.
+309
+  Subsection 37(2C)
 
-## 170  Subsection 36A(2)
+ Omit "The report of the corporation's operations for a financial year shall:", substitute "The annual report on the Corporation under section&#160;9 of the _Commonwealth Authorities and Companies Act 1997_ must also:".
 
-Repeal the subsection.
+Note:	The heading to section 37 is replaced by the heading "Extra reporting requirements".
 
-## 171  Subsection 36A(3)
+310
+  Paragraph 37(2C)(b)
 
-Omit “in accordance with this section”, substitute “as mentioned in subsection (1)”.
+ Omit "overall".
 
-## 172  Section 37
+311
+  Paragraphs 37(2C)(d) and (e)
 
-Repeal the section.
+ Omit "target", substitute "targets".
 
-## 173  Section 38
+312
+  Subsection 37(3)
 
-Repeal the section, substitute:
+ Repeal the subsection.
 
-##### <a id="38"></a>38  Extra reporting requirements
+313
+  Subsection 37(4)
 
-             (1)  The annual report on the Council under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:
+ Omit "under subsection (3)", substitute "relating to the Corporation under Part 2 of Schedule 1 to the _Commonwealth Authorities and Companies Act 1997_".
 
-                     (a)  particulars of all matters specified by the Minister under paragraph 6A(c) during the year to which the report relates; and
+314
+  Subsection 37(5)
 
-                     (b)  the text of all directions under sections 6B and 7 during the year to which the report relates.
+ Repeal the subsection, substitute:
 
-             (2)  The Minister must cause any report or financial statements given by the members of the Council to the Minister under paragraph 16(1)(b) of the _Commonwealth Authorities and Companies Act 1997_ to be tabled in each House of the Parliament as soon as practicable.
+<dl compact=""><dl compact="">
 
-## 174  Section 39
+<dt>(5)</dt><dd>In this section:
 
-Repeal the section.
+</dd> </dl></dl>
 
-<h9 class="ActHead9">Australia-Japan Foundation Act 1976</h9>
+<def><dl compact=""><dl compact="">
 
-## 175  Section 3 (definition of _Fund_)
+_corporate plan_ means the corporate plan for the Corporation under
 
-Repeal the definition.
+section 17 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 176  Section 3
+ </dl></dl>
 
-Insert:
+315
+  After section 37
 
-                    <a name="reserv"></a>**_Reserve_** means the reserve established by section 17.
+ Insert: 
 
-## 177  Paragraph 5(1)(d)
+37A
+  Information about the receiving subsidiary
 
-Omit “Fund”, substitute “Reserve”.
+<center>Back to Top</center>
 
-## 178  Subsection 9(3), paragraph 9(4)(a), subsection 12(1) and section 15
+ <dl compact=""><dl compact="">
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+<dt>(1)</dt><dd>The Minister or the Finance Minister may require the Corporation to give
 
-## 179  Part IV (heading)
+to him or her a copy of information of a particular kind about the receiving
 
-Repeal the heading, substitute:
+subsidiary that is provided to the Corporation as a holder of shares in the
 
-## Part IV—Australia-Japan Reserve
+receiving subsidiary.</dd> <dt>(2)</dt><dd>The Directors must comply with the requirement as soon as practicable after receiving information of that kind.</dd> <dt>(3)</dt><dd>In this section: </dd> </dl></dl>
 
-## 180  Section 17
+<def><dl compact=""><dl compact="">
 
-Repeal the section, substitute:
+_Finance Minister_ means the Minister who administers the
 
-##### <a id="17"></a>17  Establishment of Reserve
+_Commonwealth Authorities and Companies Act 1997_.
 
-             (1)  This subsection establishes a reserve called the Australia-Japan Reserve.
+ </dl></dl>
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+_Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_
 
-## 181  Section 18
+316
+  At the end of subsection 4(2)
 
-Omit “The Fund shall consist of”, substitute “There must be transferred to the Reserve from the Consolidated Revenue Fund”.
+ Add:
 
-_Note:       The heading to section 18 is altered by omitting “Fund” and substituting “Reserve”._
+<dl compact=""><dl compact="">
 
-## 182  Paragraph 18(a)
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Omit “Fund”, substitute “Reserve”.
+applies to the Institute. That Act deals with matters relating to Commonwealth
 
-## 183  Paragraph 18(b)
+authorities, including reporting and accountability, banking and investment,
 
-Before “income”, insert “amounts equal to”.
+and conduct of officers.
 
-## 184  Paragraph 18(b)
+ </dl></dl>
 
-Omit “Fund”, substitute “Reserve”.
+317
+  Section 19
 
-## 185  Paragraph 18(c)
+ Repeal the section.
 
-Before “any moneys”, insert “amounts equal to”.
+318
+  Paragraph 21(2)(b)
 
-## 186  Paragraph 18(c)
+ Omit "19", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “Fund”, substitute “Reserve”.
+319
+  Section 37
 
-## 187  Paragraph 18(d)
+ Repeal the section.
 
-Before “any other moneys”, insert “amounts equal to”.
+320
+  At the end of section 38
 
-## 188  Paragraph 18(e)
+ Add:
 
-Before “any moneys”, insert “amounts equal to”.
+<dl compact=""><dl compact="">
 
-## 189  Subsection 19(1)
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-Omit “Fund”, substitute “Reserve”.
+Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-_Note:       The heading to section 19 is altered by omitting “Fund” and substituting “Reserve”._
+</dd> </dl></dl>
 
-## 190  Sections 24A, 24B and 25
+321
+  Section 40
 
-Repeal the sections, substitute:
+ Repeal the section.
 
-##### <a id="25"></a>25  Annual report
+322
+  Subsection 42(1)
 
-             (1)  As soon as practicable after 30 June in each year, the Foundation must prepare and give to the Minister a report of the operations of the Foundation during the year.
+ Repeal the subsection.
 
-             (2)  The report must include:
+Note:	The heading to section 42 is altered by omitting "Minister and Commission" and substituting "Commission and TSRA".
 
-                     (a)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and
+323
+  Section 58
 
-                     (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_; and
+ Repeal the section.
 
-                     (c)  a copy of all directions given by the Minister to the Foundation during the year under subsection 5(3) of this Act.
+_Australian Institute of Health and Welfare Act 1987_
 
-             (3)  The Minister must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
+324
+  Subsection 3(3)
 
-             (4)  The Foundation must give the Minister any additional reports (with or without financial statements) that the Minister from time to time requires.
+ Repeal the subsection.
 
-<h9 class="ActHead9">Australia New Zealand Food Authority Act 1991</h9>
+325
+  At the end of section 3
 
-## 191  At the end of subsection 6(2)
+ Add:
 
-Add:
+<dl compact=""><dl compact="">
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+Note:	For the manner in which the Chairperson may be referred to,
 
-## 192  At the end of section 11
+see section 18B of the _Acts Interpretation Act 1901_.
 
-Add:
+ </dl></dl>
 
-             (4)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the Authority.
+326
+  At the end of subsection 4(2)
 
-## 193  Subsections 50(1), (2) and (3)
+ Add:
 
-Repeal the subsections.
+<dl compact=""><dl compact="">
 
-## 194  Paragraph 52(2)(b)
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-After “50”, insert “of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+applies to the Institute. That Act deals with matters relating to Commonwealth
 
-## 195  Section 56
+authorities, including reporting and accountability, banking and investment,
 
-Repeal the section.
+and conduct of officers.
 
-## 196  At the end of section 57
+ </dl></dl>
 
-Add:
+<center>Back to Top</center>
 
-             (3)  Subsection (2) does not prevent investment of surplus money of the Authority under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+327
+  At the end of section 7
 
-## 197  Section 59
+ Add:
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-## 198  Paragraph 60(1)(b)
+<dt>(3)</dt><dd>This section does not affect the application of section 28 of the
 
-Omit “63J(1) of the _Audit Act 1901_ (as that subsection applies under subsection 59(1))”, substitute “18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+_Commonwealth Authorities and Companies Act 1997_ in relation to the
 
-## 199  Subsection 60(2)
+Institute.
 
-Repeal the subsection.
+</dd> </dl></dl>
 
-## 200  Section 69
+328
+  Paragraph 13(2)(b)
 
-Omit “The Authority must include in each report prepared under section 63M of the _Audit Act 1901_ (as that section applies to the Authority under subsection 59(1))”, substitute “The members must include in each report on the Authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "14", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-<h9 class="ActHead9">Australian Broadcasting Corporation Act 1983</h9>
+329
+  Subsections 14(1) and (2)
 
-## 201  At the end of subsection 5(1)
+ Repeal the subsections.
 
-Add:
+330
+  Subsection 14(3)
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Omit "This section", substitute "Section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 202  Subsection 8(3)
+331
+  Subsection 16(13)
 
-Omit “this section shall”, substitute “subsection (1) or (2) is to”.
+ Repeal the subsection, substitute:
 
-## 203  Subsection 17(1)
+<dl compact=""><dl compact="">
 
-Repeal the subsection.
+<dt>(13)</dt><dd>A member of a committee must disclose at a meeting of the committee any
 
-## 204  Subsection 17(1A)
+pecuniary or other interest:
 
-Omit “subsection (1)”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+</dd> </dl></dl>
 
-## 205  Subsection 17(2)
+<dl compact=""><dl compact=""><dl compact="">
 
-Repeal the subsection.
+<dt>(a)</dt><dd>that the member has directly or indirectly in a matter being considered,
 
-## 206  Subsection 17(5)
+or about to be considered by the committee; and</dd>
 
-Repeal the subsection.
+<dt>(b)</dt><dd>that would conflict with the proper performance of the member's functions
 
-## 207  Subparagraph 18(2)(a)(ii)
+in relation to the consideration of the matter.
 
-Omit “17”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+</dd>
 
-## 208  At the end of subsection 25A(2)
-
-Add:
-
-Note:          Section 15 of the _Commonwealth Authorities and Companies Act 1997_ requires Directors to notify the Minister of significant business activities and arrangements.
-
-## 209  Subsection 25A(3)
-
-Repeal the subsection.
-
-## 210  Subsection 68(1)
-
-Omit “Subject to subsection (2), the”, substitute “The”.
-
-## 211  Subsections 68(2) and (3)
-
-Repeal the subsections, substitute:
-
-             (2)  Subsection (1) does not prevent investment of surplus money of the Corporation under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-_Note:       The heading to section 68 is altered by omitting “and investment”._
-
-## 212  Section 69
-
-Repeal the section.
-
-## 213  Section 72
-
-Repeal the section.
-
-## 214  At the end of section 78
-
-Add:
-
-             (7)  Without limiting subsection (6), section 28 of the _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to the Corporation.
-
-## 215  Section 80
-
-Omit “Board must cause to be included in each report prepared under section 63M of the _Audit Act 1901_, as that section applies to the Corporation by virtue of section 72 of this Act”, substitute “Directors must include in each annual report on the Corporation prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-<h9 class="ActHead9">Australian Centre for International Agricultural Research Act 1982</h9>
-
-## 216  Section 3 (definition of _Chairman_)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 217  Section 3 (definition of _Fund_)
-
-Repeal the definition.
-
-## 218  Section 3
-
-Insert:
-
-                    <a name="reserv"></a>**_Reserve_** means the reserve established by section 33.
-
-## 219  Section 9, subsections 10(6), 14(2), (4) and (5) and 15(6)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 220  Subsection 33(1)
-
-Omit “Trust Fund”, substitute “Reserve”.
-
-_Note:       The heading to section 33 is altered by omitting “Fund” and substituting “Reserve”._
-
-## 221  Subsection 33(2)
-
-Repeal the subsection, substitute:
-
-             (2)  The Reserve is a component of the Reserved Money Fund.
-
-## 222  Section 34
-
-Repeal the section, substitute:
-
-##### <a id="34"></a>34  Payments into Reserve
-
-                   There must be transferred to the Reserve from the Consolidated Revenue Fund:
-
-                     (a)  all money appropriated by the Parliament for the purposes of the Reserve; and
-
-                     (b)  amounts equal to money from time to time received by the Centre.
-
-## 223  Section 35
-
-Omit “Fund”, substitute “Reserve”.
-
-_Note:       The heading to section 35 is altered by omitting “Fund” and substituting “Reserve”._
-
-## 224  Section 36
-
-Omit “Fund” (wherever occurring), substitute “Reserve”.
-
-## 225  Sections 38A, 38AA, 38B and 39
-
-Repeal the sections, substitute:
-
-##### <a id="39"></a>39  Annual report
-
-             (1)  As soon as practicable after 30 June in each year, the Board must prepare and give to the Minister a report of the operations of the Centre during the year.
-
-             (2)  The report must include:
-
-                     (a)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and
-
-                     (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
-
-             (3)  The Minister must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
-
-<h9 class="ActHead9">Australian Film Commission Act 1975</h9>
-
-## 226  Section 3 (definitions of _Chairman_, _Deputy Chairman_ and _member_)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 227  At the end of subsection 4(2)
-
-Add:
-
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 228  Subsection 6(4)
-
-Omit all the words from and including “The Commission” to and including “a statement of:”, substitute “The annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include a statement of:”.
-
-## 229  Subsection 15(1) and sections 19 and 20
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 230  Section 22
-
-Repeal the section.
-
-## 231  Subparagraph 23(2)(a)(ii)
-
-Omit “section 22”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 232  Subsections 23(3) and 28(1), (4), (5), (6) and (7)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 233  Section 32
-
-Repeal the section.
-
-## 234  Subsection 33(2)
-
-Repeal the subsection, substitute:
-
-             (2)  Subsection (1) does not prevent investment of surplus money of the Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 235  Section 34
-
-Repeal the section.
-
-## 236  Paragraph 35(2)(b)
-
-Omit “in accordance with subsection 33(2)”, substitute “under section 18 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 237  Sections 37, 38, 40D, 44 and 45
-
-Repeal the sections.
-
-<h9 class="ActHead9">Australian Film, Television and Radio School Act 1973</h9>
-
-## 238  At the end of subsection 4(2)
-
-Add:
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the School. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 239  Subsection 12(5) and section 13
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 240  Paragraph 18(c)
-
-Omit “19”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 241  Section 19
-
-Repeal the section.
-
-## 242  Sections 20 and 23
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 243  Paragraph 29(1)(c)
-
-Omit “19”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 244  Sections 37 and 38
-
-Repeal the sections.
-
-## 245  After subsection 39(1)
-
-Insert:
-
-          (1A)  Subsection (1) does not prevent investment of surplus money of the School under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 246  Paragraph 51(c)
-
-Omit “chairman”, substitute “chair”.
-
-<h9 class="ActHead9">Australian Heritage Commission Act 1975</h9>
-
-## 247  Section 3 (definition of _Chairman_)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 248  At the end of subsection 11(1)
-
-Add:
-
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 249  Paragraph 12(1)(a), subsections 12(1A), (3), (7), (8) and (9), section 16 and subsection 17(2)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 250  Paragraph 18(2)(c)
-
-Omit “section 19”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 251  Section 19
-
-Repeal the section, substitute:
-
-##### <a id="19"></a>19  Application of section 21 of the _Commonwealth Authorities and Companies Act 1997_ to deemed and co-opted Commissioners
-
-                   Section 21 of the _Commonwealth Authorities and Companies Act 1997_ (disclosure of material personal interests) applies to a person deemed to be a Commissioner under subsection 17(3), or to a person who is a co-opted Commissioner, as if the person were a Commissioner.
-
-## 252  Section 20
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 253  Subsection 21(3)
-
-Repeal the subsection, substitute:
-
-             (3)  A person appointed under subsection (1):
-
-                     (a)  is to be regarded as a Commissioner for the purposes of section 14 of this Act and of section 21 of the _Commonwealth Authorities and Companies Act 1997_; but
-
-                     (b)  is not to be regarded as a Commissioner for the purposes of any of the other provisions of this Act or of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 254  Subsection 32(2)
-
-Omit “Chairman”, substitute “Chair”.
-
-## 255  At the end of section 35
-
-Add:
-
-             (2)  Subsection (1) does not prevent investment of surplus money of the Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 256  Sections 36, 38, 40 and 41
-
-Repeal the sections.
-
-## 257  Section 43
-
-Repeal the section, substitute:
-
-##### <a id="43"></a>43  Extra reporting requirements
-
-             (1)  The annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:
-
-                     (a)  a description of the condition of the national estate at the end of the period to which the report relates; and
-
-                     (b)  the text of all directions given by the Minister to the Commission under section 25 during the period to which the report relates.
-
-             (2)  The Commission may also give the Minister any other reports relating to the national estate that it thinks fit.
-
-             (3)  The Minister must cause any report the Commission gives the Minister under subsection (2), or under paragraph 16(1)(b) of the _Commonwealth Authorities and Companies Act 1997_, to be tabled in each House of the Parliament within 15 sitting days of that House after the Minister receives the report.
-
-<h9 class="ActHead9">Australian Horticultural Corporation Act 1987</h9>
-
-## 258  Subsection 3(1) (definition of _authorised auditor_)
-
-Repeal the definition.
-
-## 259  Subsection 3(1) (definition of _company auditor_)
-
-Repeal the definition.
-
-## 260  Subsection 3(1) (definition of _Corporation auditor_)
-
-Repeal the definition.
-
-## 261  At the end of subsection 12(1)
-
-Add:
-
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 262  At the end of section 13
-
-Add:
-
-Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
-
-## 263  Section 14
-
-Repeal the section.
-
-## 264  Subsection 15(8)
-
-Repeal the subsection.
-
-## 265  At the end of section 15
-
-Add:
-
-Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
-
-## 266  Section 23
-
-Repeal the section.
-
-## 267  Paragraph 24(2)(b)
-
-Omit “23”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 268  Subsection 30(1)
-
-Repeal the subsection.
-
-## 269  Subsection 30(2)
-
-Omit “Without limiting the generality of subsection (1), the Corporation shall include in the report:”, substitute “The annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:”.
-
-_Note:      The heading to section 30 is replaced by the heading “Extra matters to be included in annual report”._
-
-## 270  Paragraph 30(2)(a)
-
-Omit “and of each Board”.
-
-## 271  Paragraph 30(2)(b)
-
-Omit “or a Board” (wherever occurring).
-
-## 272  Subsections 30(3), (4), (4A) and (5)
-
-Repeal the subsections.
-
-## 273  After section 30
-
-Insert:
-
-##### <a id="30A"></a>30A  Corporation to give Minister annual reports on Product Boards
-
-             (1)  The Corporation must, by the 15 October after the end of each financial year, give to the Minister the annual report on each Product Board for that year given to the Corporation by the Board under section 9 of the _Commonwealth Authorities and Companies Act 1997_ (as modified by section 101A of this Act).
-
-             (2)  The Minister may grant an extension of time in special circumstances.
-
-             (3)  The Minister must table each report in each House of the Parliament as soon as practicable.
-
-## 274  Subsection 49(1)
-
-Repeal the subsection.
-
-_Note:      The heading to section 49 is replaced by the heading “Separate accounts may be required in some circumstances”._
-
-## 275  Sections 50, 51, 56 and 57
-
-Repeal the sections.
-
-## 276  Subsection 73(5)
-
-Repeal the subsection, substitute:
-
-             (5)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ applies in relation to the committee as if the committee were a Commonwealth authority (as defined in that Act).
-
-## 277  At the end of section 84
-
-Add:
-
-Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
-
-## 278  Section 85
-
-Repeal the section.
-
-## 279  Subsection 86(8)
-
-Repeal the subsection.
-
-## 280  At the end of section 86
-
-Add:
-
-Note:          For the manner in which the Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
-
-## 281  At the end of subsection 101(1)
-
-Add:
-
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to each Board. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 282  After section 101
-
-Insert:
-
-##### <a id="101A"></a>101A  Modification of the _Commonwealth Authorities and Companies Act 1997_
-
-                   Section 9 of the _Commonwealth Authorities and Companies Act 1997_ applies in relation to a Board as if:
-
-                     (a)  a reference to the responsible Minister were instead a reference to the Corporation; and
-
-                     (b)  the reference to the 15th day of the 4th month after the end of the financial year were instead a reference to the next 31 August after the end of the financial year; and
-
-                     (c)  subsection (3) were omitted.
-
-## 283  Subsection 115F(1)
-
-Repeal the subsection.
-
-## 284  Subsection 115F(2)
-
-Omit “Without limiting the generality of subsection (1), each report must include:”, substitute “The annual report on a Board under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:”.
-
-_Note:      The heading to section 115F is replaced by the heading “Extra matters to be included in Product Board annual reports”._
-
-## 285  Subsections 115F(3), (4) and (5)
-
-Repeal the subsections.
-
-## 286  Section 115FA
-
-Omit “a report of a Board has been given to the Corporation under subsection 115F(1)”, substitute “an annual report on a Board has been given to the Corporation”.
-
-## 287  Section 115S
-
-Omit “50, 51,”.
-
-## 288  Section 115T
-
-Repeal the section.
-
-## 289  Subsection 115ZB(5)
-
-Repeal the subsection, substitute:
-
-             (5)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ applies in relation to a committee as if the committee were a Commonwealth authority (as defined in that Act).
-
-<h9 class="ActHead9">Australian Industry Development Corporation Act 1970</h9>
-
-## 290  Section 4 (definition of _Chairman_)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 291  At the end of subsection 5(2)
-
-Add:
-
-Note:          Subject to section 5A, the _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment and conduct of officers.
-
-## 292  After section 5
-
-Insert:
-
-##### <a id="5A"></a>5A  Modification of the _Commonwealth Authorities and Companies Act 1997—_ how that Act applies to subsidiaries
-
-             (1)  Sections 15, 16, 17, 28 and 29 of the _Commonwealth Authorities and Companies Act 1997_ have effect, as they apply to the Corporation, as if a reference in any of those sections to a subsidiary were instead a reference to an eligible subsidiary in relation to the Corporation as defined in section 4 of this Act.
-
-             (2)  Finance Minister’s Orders referred to in subsection 13(2) of the _Commonwealth Authorities and Companies Act 1997_ cannot require the Corporation to include, in reports under section 13 of that Act, information about a subsidiary of the Corporation that is not an eligible subsidiary (as defined in section 4 of this Act).
-
-## 293  Subsection 8A(10)
-
-Omit all the words after “and shall include”, substitute “in the annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ a separate report on each such operation carried on during the year to which the report relates.”.
-
-## 294  Subsection 8A(12)
-
-Repeal the subsection.
-
-## 295  Section 9
-
-After “this Act”, insert “and the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 296  Section 11, subsections 12(1) and 13(2), sections 15A, 16, 17 and 18 and subsection 19(1)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 297  Paragraph 19(3)(b)
-
-Omit “22”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 298  Section 20, paragraph 20A(1)(b) and subsections 21(1), (2), (3), (4) and (5)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 299  Sections 22, 23B, 23C and 23D
-
-Repeal the sections.
-
-## 300  Section 23E
-
-After “financial target”, insert “for a corporate plan under section 17 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 301  Sections 23F, 23H and 25
-
-Repeal the sections.
-
-## 302  Subsection 26(1)
-
-Omit “Subject to subsection (2), moneys”, substitute “Money”.
-
-## 303  Subsection 26(2)
-
-Repeal the subsection, substitute:
-
-             (2)  Subsection (1) does not prevent the investment of surplus money of the Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997._
-
-## 304  Section 28
-
-Repeal the section.
-
-## 305  Subsections 29(1) to (7) (inclusive)
-
-Repeal the subsections.
-
-## 306  Paragraph 29(8)(a)
-
-Omit “under this section”.
-
-_Note:       The heading to section 29 is replaced by the heading “Additional audit arrangements”._
-
-## 307  Subsection 33(2)
-
-Omit “Chairman”, substitute “Chair”.
-
-## 308  Subsections 37(1) to (2B) (inclusive)
-
-Repeal the subsections.
-
-## 309  Subsection 37(2C)
-
-Omit “The report of the corporation’s operations for a financial year shall:”, substitute “The annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also:”.
-
-_Note:       The heading to section 37 is replaced by the heading “Extra reporting requirements”._
-
-## 310  Paragraph 37(2C)(b)
-
-Omit “overall”.
-
-## 311  Paragraphs 37(2C)(d) and (e)
-
-Omit “target”, substitute “targets”.
-
-## 312  Subsection 37(3)
-
-Repeal the subsection.
-
-## 313  Subsection 37(4)
-
-Omit “under subsection (3)”, substitute “relating to the Corporation under Part 2 of Schedule 1 to the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 314  Subsection 37(5)
-
-Repeal the subsection, substitute:
-
-             (5)  In this section:
-
-                    <a name="corpor-plan"></a>**_corporate plan_** means the corporate plan for the Corporation under section 17 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 315  After section 37
-
-Insert:
-
-##### <a id="37A"></a>37A  Information about the receiving subsidiary
-
-             (1)  The Minister or the Finance Minister may require the Corporation to give to him or her a copy of information of a particular kind about the receiving subsidiary that is provided to the Corporation as a holder of shares in the receiving subsidiary.
-
-             (2)  The Directors must comply with the requirement as soon as practicable after receiving information of that kind.
-
-             (3)  In this section:
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Commonwealth Authorities and Companies Act 1997_.
-
-<h9 class="ActHead9">Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989</h9>
-
-## 316  At the end of subsection 4(2)
-
-Add:
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Institute. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 317  Section 19
-
-Repeal the section.
-
-## 318  Paragraph 21(2)(b)
-
-Omit “19”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 319  Section 37
-
-Repeal the section.
-
-## 320  At the end of section 38
-
-Add:
-
-             (2)  Subsection (1) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 321  Section 40
-
-Repeal the section.
-
-## 322  Subsection 42(1)
-
-Repeal the subsection.
-
-_Note:       The heading to section 42 is altered by omitting “Minister and Commission” and substituting “Commission and TSRA”._
-
-## 323  Section 58
-
-Repeal the section.
-
-<h9 class="ActHead9">Australian Institute of Health and Welfare Act 1987</h9>
-
-## 324  Subsection 3(3)
-
-Repeal the subsection.
-
-## 325  At the end of section 3
-
-Add:
-
-Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
-
-## 326  At the end of subsection 4(2)
-
-Add:
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Institute. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 327  At the end of section 7
-
-Add:
-
-             (3)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the Institute.
-
-## 328  Paragraph 13(2)(b)
-
-Omit “14”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 329  Subsections 14(1) and (2)
-
-Repeal the subsections.
-
-## 330  Subsection 14(3)
-
-Omit “This section”, substitute “Section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 331  Subsection 16(13)
-
-Repeal the subsection, substitute:
-
-           (13)  A member of a committee must disclose at a meeting of the committee any pecuniary or other interest:
-
-                     (a)  that the member has directly or indirectly in a matter being considered, or about to be considered by the committee; and
-
-                     (b)  that would conflict with the proper performance of the member’s functions in relation to the consideration of the matter.
+</dl></dl></dl>
 
 The member must make the disclosure as soon as practicable after he or she knows of the relevant facts.
 
-           (14)  The disclosure must be recorded in the minutes of the meeting.
+<dl compact=""><dl compact="">
 
-           (15)  Subsection (13) does not apply to an interest held by a member described in paragraph 8(1)(c), (ca), (cb) or (h) or subsection 8(2) merely because the member was nominated by a body or person mentioned in that paragraph or subsection.
+<dt>(14)</dt><dd>The disclosure must be recorded in the minutes of the meeting.</dd> <dt>(15)</dt><dd>Subsection (13) does not apply to an interest held by a member described in paragraph 8(1)(c), (ca), (cb) or (h) or subsection 8(2) merely because the member was nominated by a body or person mentioned in that paragraph or subsection. </dd> </dl></dl>
 
-## 332  Section 21
+332
+  Section 21
 
-Repeal the section.
+ Repeal the section.
 
-## 333  At the end of section 22
+333
+  At the end of section 22
 
-Add:
+ Add:
 
-             (3)  Subsection (2) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+<dl compact=""><dl compact="">
 
-## 334  Subsection 24(1)
+<dt>(3)</dt><dd>Subsection (2) does not prevent investment of surplus money of the
 
-Repeal the subsection.
+Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-_Note:       The heading to section 24 is replaced by the heading “Extra matters to be included in annual report”._
+</dd> </dl></dl>
 
-## 335  Subsection 24(2)
+334
+  Subsection 24(1)
 
-Omit “prepared under section 63M of the _Audit Act 1901_ (as that section applies by virtue of subsection (1)) shall”, substitute “on the Institute under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must”.
+ Repeal the subsection.
 
-## 336  Paragraph 25(1)(a)
+Note:	The heading to section 24 is replaced by the heading "Extra matters to be included in annual report".
 
-Omit “subsection 63J(1) of the _Audit Act 1901_ (as that subsection applies by virtue of subsection 24(1))”, substitute “subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+335
+  Subsection 24(2)
 
-## 337  Subsection 25(2)
+ Omit "prepared under section 63M of the _Audit Act 1901_ (as that section applies by virtue of subsection (1)) shall", substitute "on the Institute under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must".
 
-Repeal the subsection.
+336
+  Paragraph 25(1)(a)
 
-<h9 class="ActHead9">Australian Institute of Marine Science Act 1972</h9>
+ Omit "subsection 63J(1) of the _Audit Act 1901_ (as that subsection applies by virtue of subsection 24(1))", substitute "subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 338  Subsection 5(2)
+337
+  Subsection 25(2)
 
-Repeal the subsection.
+ Repeal the subsection. 
 
-## 339  At the end of subsection 7(2)
+_Australian Institute of Marine Science Act 1972_
 
-Add:
+338
+  Subsection 5(2)
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Institute. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<center>Back to Top</center>
 
-## 340  Section 10AA
+ Repeal the subsection.
 
-Repeal the section.
+339
+  At the end of subsection 7(2)
 
-## 341  Paragraph 16(c)
+ Add:
 
-Omit “18”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dl compact=""><dl compact="">
 
-## 342  Section 18
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Repeal the section.
+applies to the Institute. That Act deals with matters relating to Commonwealth
 
-## 343  Paragraph 28(d)
+authorities, including reporting and accountability, banking and investment,
 
-Omit “18”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”_._
+and conduct of officers.
 
-## 344  Section 37
+ </dl></dl>
 
-Repeal the section.
+340
+  Section 10AA
 
-## 345  At the end of section 38
+ Repeal the section.
 
-Add:
+341
+  Paragraph 16(c)
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+ Omit "18", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 346  Section 40
+342
+  Section 18
 
-Repeal the section.
+ Repeal the section.
 
-<h9 class="ActHead9">Australian Land Transport Development Act 1988</h9>
+343
+  Paragraph 28(d)
 
-## 347  Title
+ Omit "18", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_"_._
 
-Omit “**Trust Fund**”, substitute “**reserve**”.
+344
+  Section 37
 
-## 348  Subsection 3(1) (definition of _Fund_)
+ Repeal the section.
+
+345
+  At the end of section 38
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+346
+  Section 40
+
+ Repeal the section. 
+
+_Australian Land Transport Development Act 1988_
+
+347
+  Title
+
+ Omit "Trust Fund", substitute "reserve".
+
+348
+  Subsection 3(1) (definition of _Fund_)
+
+ Repeal the definition.
+
+349
+  Subsection 3(1)
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Reserve_ means the Australian Land Transport Reserve established
+
+by section 11.
+
+ </dl></dl>
+
+350
+  Paragraph 3(6)(a)
+
+ Omit "Fund" (wherever occurring), substitute "Reserve".
+
+351
+  Subsections 10(3) and (4)
+
+ Repeal the subsections.
+
+352
+  Part 2 (heading)
+
+ Repeal the heading, substitute: 
+
+<part>Part 2&#151;Australian Land Transport Development Reserve
+
+353
+  Subsection 11(1)
+
+ Omit "fund", substitute "reserve".
+
+Note:	The heading to section 11 is altered by omitting "Fund" and substituting "Reserve".
+
+354
+  Subsection 11(1)
+
+ Omit "Trust Fund", substitute "Reserve".
+
+355
+  Subsection 11(2)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+356
+  Subsection 12(1)
+
+ Omit "Fund", substitute "Reserve out of the Consolidated Revenue Fund".
+
+Note:	The heading to section 12 is altered by omitting "Fund" and substituting "Reserve".
+
+357
+  Subsection 12(2)
+
+ Omit "Fund", substitute "Reserve".
+
+358
+  Subsection 12(4)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>If interest is received by the Commonwealth from the investment of money
+
+from the Reserve, an amount equal to the interest must be transferred to the
+
+Reserve from the Consolidated Revenue Fund.
+
+</dd> </dl></dl>
+
+359
+  Section 13
+
+ Repeal the section.
+
+360
+  Section 15
+
+ Omit "the Fund" (wherever occurring), substitute "the Reserve".
+
+Note:	The heading to section 15 is altered by omitting "Fund" and substituting "Reserve".
+
+361
+  Section 16
+
+ Repeal the section.
+
+362
+  Sections 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28A, 29, 30, 31, 
+32 and 33
+
+Omit "the Fund" (wherever occurring), substitute "the Reserve".
+
+Note 1:	The heading to section 28 is altered by omitting "Fund" and substituting "Reserve".
+ Note 2:	The heading to section 28A is altered by omitting "Fund" and substituting "Reserve".
+ Note 3:	The heading to section 31 is altered by omitting "Fund" and substituting "Reserve".
+
+363
+  Subsection 34(1)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Whenever an amount is repaid to the Commonwealth by a State, approved
+
+railway authority or approved organisation under this Act, an equal amount must
+
+be transferred to the Reserve from the Consolidated Revenue Fund.
+
+</dd> </dl></dl>
+
+364
+  Section 35
+
+ Repeal the section.
+
+365
+  Paragraph 37(1)(a)
+
+ Omit "Fund", substitute "Reserve".
+
+366
+  Paragraph 40(d)
+
+ Omit "the Fund", substitute "the Reserve".
+
+367
+  Subsection 41(1)
+
+ Omit "Fund" (wherever occurring), substitute "Reserve". 
+
+_Australian Maritime Safety Authority Act 1990_
+
+368
+  At the end of subsection 5(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Authority. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+369
+  At the end of subsection 10(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ gives the Authority power to invest its surplus money.".
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+370
+  Section 11
+
+ Repeal the section.
+
+371
+  Section 19
+
+ Repeal the section.
+
+372
+  Paragraph 21(2)(d)
+
+ Omit "19", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+373
+  Section 28
+
+ Repeal the section.
+
+374
+  Sections 44 and 45
+
+ Repeal the sections. 
+
+_Australian National Maritime Museum Act 1990_
+
+375
+  At the end of subsection 5(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Museum. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+376
+  Subsection 10(5)
+
+ Omit "The Museum must, in each report prepared under section 63M of the _Audit Act 1901_ (as that section applies by virtue of subsection 48(1)),", substitute "In each report on the Museum under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must".
+
+377
+  Paragraph 21(2)(c)
+
+ Omit "22", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+378
+  Section 22
+
+ Repeal the section.
+
+379
+  Subsection 23(6)
+
+ Omit "22(2)", substitute "21(3) of the _Commonwealth Authorities and Companies Act 1997_".
+
+380
+  Paragraph 36(2)(e)
+
+ Omit "22 or 37", substitute "37 of this Act, or section 21 of the _Commonwealth Authorities and Companies Act 1997_,".
+
+381
+  Subsection 44(4)
+
+ Omit "section 63J of the _Audit Act 1901_ (as that section applies because of section 48 of this Act)", substitute "subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_".
+
+382
+  Subsection 45(2)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Museum
+
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+383
+  Section 46
+
+ Repeal the section.
+
+384
+  Subsection 47(3)
+
+ Omit "45(2) or paragraph 50(2)(b)", substitute "18(3) of the _Commonwealth Authorities and Companies Act 1997_ or paragraph 50(2)(b) of this Act".
+
+385
+  Subsections 48(1) and (2)
+
+ Repeal the subsections.
+
+Note:	The heading to section 48 is replaced by the heading "Extra matters to be included in annual report".
+
+386
+  Subsection 48(3)
+
+ Omit "submitted by the Museum under section 63M of the _Audit Act 1901_, as that section applies because of subsection (1) of this section, shall", substitute "prepared by the members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must".
+
+<center>Back to Top</center>
+
+387
+  Subsection 50(1)
+
+ Omit "opened and maintained under section 63J of the _Audit Act 1901_ (as that section applies because of section 48 of this Act) that does not, or accounts referred to in that section that do not,", substitute "maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ that does not".
+
+388
+  Subsections 50(3) and (4)
+
+ Repeal the subsections. 
+
+_Australian National Railways Commission Act 1983_
+
+389
+  Subsection 3(1) (definition of _authorised auditor_)
 
 Repeal the definition.
 
-## 349  Subsection 3(1)
+390
+  Subsection 3(1)
 
-Insert:
+ Insert:
 
-                    <a name="reserv"></a>**_Reserve_** means the Australian Land Transport Reserve established by section 11.
+<def><dl compact=""><dl compact="">
 
-## 350  Paragraph 3(6)(a)
+_annual report_ means an annual report on the Commission
 
-Omit “Fund” (wherever occurring), substitute “Reserve”.
+under section 9 of the _Commonwealth Authorities and Companies Act 1997_. _corporate plan_ means a corporate plan for the Commission under section 17 of the _Commonwealth Authorities and Companies Act 1997_.  </dl></dl>
 
-## 351  Subsections 10(3) and (4)
+391
+  Section 3 (definitions of _Chairman_, _Commissioner_ 
+and _Deputy Chairman_)
 
-Repeal the subsections.
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 352  Part 2 (heading)
+392
+  At the end of subsection 4(2)
 
-Repeal the heading, substitute:
+ Add:
 
-## Part 2—Australian Land Transport Development Reserve
+<dl compact=""><dl compact="">
 
-## 353  Subsection 11(1)
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Omit “fund”, substitute “reserve”.
+applies to the Commission. That Act deals with matters relating to Commonwealth
 
-_Note:       The heading to section 11 is altered by omitting “Fund” and substituting “Reserve”._
+authorities, including reporting and accountability, banking and investment,
 
-## 354  Subsection 11(1)
+and conduct of officers.
 
-Omit “Trust Fund”, substitute “Reserve”.
+ </dl></dl>
 
-## 355  Subsection 11(2)
+393
+  Subsections 8(3), (4) and (5)
 
-Repeal the subsection, substitute:
+ Repeal the subsections.
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+394
+  At the end of section 19
 
-## 356  Subsection 12(1)
+ Add:
 
-Omit “Fund”, substitute “Reserve out of the Consolidated Revenue Fund”.
+<dl compact=""><dl compact="">
 
-_Note:       The heading to section 12 is altered by omitting “Fund” and substituting “Reserve”._
+Note:	This section does not affect the application of the
 
-## 357  Subsection 12(2)
+_Commonwealth Authorities and Companies Act 1997_ to the Commission.
 
-Omit “Fund”, substitute “Reserve”.
+ </dl></dl>
 
-## 358  Subsection 12(4)
+395
+  Subsection 20A(3)
 
-Repeal the subsection, substitute:
+ Omit ", in developing objectives, strategies and policies under subsection 22(1),", substitute ", in preparing its corporate plan,".
 
-             (4)  If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund.
+396
+  Subsection 20A(4)
 
-## 359  Section 13
+ Repeal the subsection.
 
-Repeal the section.
+397
+  Section 22
 
-## 360  Section 15
+ Repeal the section.
 
-Omit “the Fund” (wherever occurring), substitute “the Reserve”.
+398
+  Paragraphs 24(1)(a) and (b), subsections 24(4), (5) and (6), 
+25(3) and (4) and 26(1), (2) and (3), sections 29 and 30 and paragraphs
 
-_Note:       The heading to section 15 is altered by omitting “Fund” and substituting “Reserve”._
+31(1)(b) and 32(2)(b) and (c)
 
-## 361  Section 16
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-Repeal the section.
+399
+  Paragraph 32(2)(d)
 
-## 362  Sections 17, 18, 19, 20, 21, 22, 23, 24, 26, 27, 28A, 29, 30, 31, 32 and 33
+ Omit "his obligations under section 33", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “the Fund” (wherever occurring), substitute “the Reserve”.
+400
+  Subsection 32(3A)
 
-_Note 1:    The heading to section 28 is altered by omitting “Fund” and substituting “Reserve”._
+ Repeal the subsection, substitute:
 
-_Note 2:    The heading to section 28A is altered by omitting “Fund” and substituting “Reserve”._
+<dl compact=""><dl compact="">
 
-_Note 3:    The heading to section 31 is altered by omitting “Fund” and substituting “Reserve”._
+<dt>(3A)</dt><dd>If:
 
-## 363  Subsection 34(1)
+</dd> </dl></dl>
 
-Repeal the subsection, substitute:
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  Whenever an amount is repaid to the Commonwealth by a State, approved railway authority or approved organisation under this Act, an equal amount must be transferred to the Reserve from the Consolidated Revenue Fund.
+<dt>(a)</dt><dd>the Minister is of the opinion that:
 
-## 364  Section 35
+</dd>
 
-Repeal the section.
+</dl></dl></dl>
 
-## 365  Paragraph 37(1)(a)
+<center>Back to Top</center>
 
-Omit “Fund”, substitute “Reserve”.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 366  Paragraph 40(d)
+<dt>(i)</dt><dd>the Commission has failed to comply with section 20B of this Act; or</dd>
 
-Omit “the Fund”, substitute “the Reserve”.
+<dt>(ii)</dt><dd>the Commissioners have failed to comply with:
 
-## 367  Subsection 41(1)
+</dd>
 
-Omit “Fund” (wherever occurring), substitute “Reserve”.
+</dl></dl></dl></dl>
 
-<h9 class="ActHead9">Australian Maritime Safety Authority Act 1990</h9>
+	(A)	subsection 13(2), 15(1) or 17(5) of the _Commonwealth Authorities and Companies Act 1997_; or
+ 	(B)	paragraph 16(1)(a) or (b) of the _Commonwealth Authorities and Companies Act 1997_; and
 
-## 368  At the end of subsection 5(2)
+<dl compact=""><dl compact=""><dl compact="">
 
-Add:
+<dt>(b)</dt><dd>the Minister proposes that the appointment of all or specified
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+Commissioners be terminated;
 
-## 369  At the end of subsection 10(2)
+</dd>
 
-Add:
-
-Note:          Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ gives the Authority power to invest its surplus money.”.
-
-## 370  Section 11
-
-Repeal the section.
-
-## 371  Section 19
-
-Repeal the section.
-
-## 372  Paragraph 21(2)(d)
-
-Omit “19”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 373  Section 28
-
-Repeal the section.
-
-## 374  Sections 44 and 45
-
-Repeal the sections.
-
-<h9 class="ActHead9">Australian National Maritime Museum Act 1990</h9>
-
-## 375  At the end of subsection 5(2)
-
-Add:
-
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Museum. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 376  Subsection 10(5)
-
-Omit “The Museum must, in each report prepared under section 63M of the _Audit Act 1901_ (as that section applies by virtue of subsection 48(1)),”, substitute “In each report on the Museum under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must”.
-
-## 377  Paragraph 21(2)(c)
-
-Omit “22”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 378  Section 22
-Repeal the section.
-
-## 379  Subsection 23(6)
-
-Omit “22(2)”, substitute “21(3) of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 380  Paragraph 36(2)(e)
-
-Omit “22 or 37”, substitute “37 of this Act, or section 21 of the _Commonwealth Authorities and Companies Act 1997_,”.
-
-## 381  Subsection 44(4)
-
-Omit “section 63J of the _Audit Act 1901_ (as that section applies because of section 48 of this Act)”, substitute “subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 382  Subsection 45(2)
-
-Repeal the subsection, substitute:
-
-             (2)  Subsection (1) does not prevent investment of surplus money of the Museum under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 383  Section 46
-
-Repeal the section.
-
-## 384  Subsection 47(3)
-
-Omit “45(2) or paragraph 50(2)(b)”, substitute “18(3) of the _Commonwealth Authorities and Companies Act 1997_ or paragraph 50(2)(b) of this Act”.
-
-## 385  Subsections 48(1) and (2)
-
-Repeal the subsections.
-
-_Note:       The heading to section 48 is replaced by the heading “Extra matters to be included in annual report”._
-
-## 386  Subsection 48(3)
-
-Omit “submitted by the Museum under section 63M of the _Audit Act 1901_, as that section applies because of subsection (1) of this section, shall”, substitute “prepared by the members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must”.
-
-## 387  Subsection 50(1)
-
-Omit “opened and maintained under section 63J of the _Audit Act 1901_ (as that section applies because of section 48 of this Act) that does not, or accounts referred to in that section that do not,”, substitute “maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ that does not”.
-
-## 388  Subsections 50(3) and (4)
-
-Repeal the subsections.
-
-<h9 class="ActHead9">Australian National Railways Commission Act 1983</h9>
-
-## 389  Subsection 3(1) (definition of _authorised auditor_)
-
-Repeal the definition.
-
-## 390  Subsection 3(1)
-
-Insert:
-
-                    <a name="annual-report"></a>**_annual report_** means an annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
-
-                    <a name="corpor-plan"></a>**_corporate plan_** means a corporate plan for the Commission under section 17 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 391  Section 3 (definitions of _Chairman_, _Commissioner_ and _Deputy Chairman_)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 392  At the end of subsection 4(2)
-
-Add:
-
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 393  Subsections 8(3), (4) and (5)
-
-Repeal the subsections.
-
-## 395  Subsection 20A(3)
-
-Omit “, in developing objectives, strategies and policies under subsection 22(1),”, substitute “, in preparing its corporate plan,”.
-
-## 396  Subsection 20A(4)
-
-Repeal the subsection.
-
-## 397  Section 22
-
-Repeal the section.
-
-## 398  Paragraphs 24(1)(a) and (b), subsections 24(4), (5) and (6) and 26(1), (2) and (3), sections 29 and 30 and paragraph 31(1)(b)
-
-Omit “Chairman” (wherever occurring), substitute “Chair”.
-
-## 399  Paragraph 32(2)(d)
-
-Omit “his obligations under section 33”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 400  Subsection 32(3A)
-
-Repeal the subsection, substitute:
-
-          (3A)  If:
-
-                     (a)  the Minister is of the opinion that:
-
-                              (i)  the Commission has failed to comply with section 20B of this Act; or
-
-                             (ii)  the Commissioners have failed to comply with:
-
-                                        (A)  subsection 13(2), 15(1) or 17(5) of the _Commonwealth Authorities and Companies Act 1997_; or
-
-                                        (B)  paragraph 16(1)(a) or (b) of the _Commonwealth Authorities and Companies Act 1997_; and
-
-                     (b)  the Minister proposes that the appointment of all or specified Commissioners be terminated;
+</dl></dl></dl>
 
 the Governor-General is to terminate the appointment of all Commissioners, or the specified Commissioners, as the case may be.
 
-## 401  Sections 33 and 59
+401
+  Sections 33 and 59
 
-Repeal the sections.
+ Repeal the sections.
 
-## 402  Subsections 34(2), (4) and (5) and 36A(2), sections 36E, 39 and 41 and subsections 43(1), (2), (6) and (8)
+402
+  Subsections 34(2), (4) and (5) and 36A(2), sections 36E, 39 and 
+41 and subsections 43(1), (2), (6) and (8)
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 403  Subsection 60(2)
+403
+  Subsection 60(2)
 
-Repeal the subsection, substitute:
+ Repeal the subsection, substitute:
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Commission under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+<dl compact=""><dl compact="">
 
-## 404  Sections 65, 66 and 66A
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-Repeal the sections.
+Commission under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 405  Subsection 67A(1)
+</dd> </dl></dl>
 
-Repeal the subsection.
+404
+  Sections 65, 66 and 66A
 
-## 406  Subsection 67A(2)
+ Repeal the sections.
 
-Omit “The report shall:”, substitute “The Commission’s annual report must also:”.
+405
+  Subsection 67A(1)
 
-_Note:      The heading to section 67A is replaced by the heading “Extra matters to be included in annual report”._
+ Repeal the subsection.
 
-## 407  Paragraph 67A(2)(a)
+406
+  Subsection 67A(2)
 
-Omit “8(5) or”.
+ Omit "The report shall:", substitute "The Commission's annual report must also:".
 
-## 408  At the end of paragraphs 67A(2)(a), (b), (c) and (d) and subparagraph 67A(2)(e)(i)
+Note:	The heading to section 67A is replaced by the heading "Extra matters to be included in annual report".
 
-Add “and”.
+407
+  Paragraph 67A(2)(a)
 
-## 409  After paragraph 67A(2)(a)
+ Omit "8(5) or".
 
-Insert:
+408
+  At the end of paragraphs 67A(2)(a), (b), (c) and (d) and 
+subparagraph 67A(2)(e)(i)
 
-                    (aa)  include a summary of:
+Add "and".
 
-                              (i)  notices given to the Commission in that financial year under subsection 20A(1); and
+409
+  After paragraph 67A(2)(a)
 
-                             (ii)  action taken by the Commission, in that financial year, because of notices given to the Commission under subsection 20A(1); and
+ Insert:
 
-## 410  Subsection 67A(3)
+<dl compact=""><dl compact=""><dl compact="">
 
-Repeal the subsection, substitute:
+<dt>(aa)</dt><dd>include a summary of:
 
-             (3)  The financial statements in the annual report must show separately the financial effect on the Commission’s operations of each direction that:
+</dd>
 
-                     (a)  was given to the Commission by the Minister under subsection 19(2); and
+</dl></dl></dl>
 
-                     (b)  was applicable to the year to which the report relates.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 411  Subsections 67A(4), (5), (6) and (7)
+<dt>(i)</dt><dd>notices given to the Commission in that financial year under subsection
 
-Repeal the subsections.
+20A(1); and</dd>
 
-## 412  Section 71
+<dt>(ii)</dt><dd>action taken by the Commission, in that financial year, because of
 
-Repeal the section.
+notices given to the Commission under subsection 20A(1); and
 
-<h9 class="ActHead9">Australian National Training Authority Act 1992</h9>
+</dd>
 
-## 413  At the end of section 18
+</dl></dl></dl></dl>
 
-Add:
+410
+  Subsection 67A(3)
 
-             (5)  This section does not affect, and is not affected by, section 9 of the _Commonwealth Authorities and Companies Act 1997_ as it applies in relation to the Authority under section 23 of this Act.
+ Repeal the subsection, substitute:
 
-## 414  Section 23
+<dl compact=""><dl compact="">
 
-Repeal the section, substitute:
+<dt>(3)</dt><dd>The financial statements in the annual report must show separately the
 
-##### <a id="23"></a>23  Application of the Commonwealth Authorities and Companies Act
+financial effect on the Commission's operations of each direction that:
 
-             (1)  The Authority is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+</dd> </dl></dl>
 
-             (2)  Sections 9, 11, 18 and 20 of that Act, and Schedule 1 to that Act, apply in relation to the Authority as if it were a Commonwealth authority for the purposes of that Act.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  A copy of each annual report given to the Minister must be given to each member of the Ministerial Council as soon as practicable.
+<dt>(a)</dt><dd>was given to the Commission by the Minister under subsection 19(2); and</dd>
 
-<h9 class="ActHead9">Australian National University Act 1991</h9>
+<dt>(b)</dt><dd>was applicable to the year to which the report relates.
 
-## 415  At the end of subsection 4(2)
+</dd>
 
-Add:
+</dl></dl></dl>
 
-Note:         Subject to section 4A, the _Commonwealth Authorities and Companies Act 1997_ applies to the University. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking, and conduct of officers.
+411
+  Subsections 67A(4), (5), (6) and (7)
 
-## 416  After section 4
+<center>Back to Top</center>
 
-Insert:
+ Repeal the subsections.
 
-##### <a id="4A"></a>4A  Modification of the _Commonwealth Authorities and Companies Act 1997_
+412
+  Section 71
 
-             (1)  Section 14, subsection 18(3), and sections 28 and 29, of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the University.
+ Repeal the section. 
 
-             (2)  Nothing in section 16 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Council to do anything that will or might affect the academic independence or integrity of the University.
+_Australian National Training Authority Act 1992_
 
-##### <a id="4B"></a>4B  University’s financial year starts on 1 January
+413
+  At the end of section 18
 
-                   For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the University’s financial year is a period of 12 months starting on 1 January.
+ Add:
 
-## 417  Subsection 6(3)
+<dl compact=""><dl compact="">
 
-After “this Act”, insert “or the _Commonwealth Authorities and Companies Act 1997_”_._
+<dt>(5)</dt><dd>This section does not affect, and is not affected by, section 9 of the
 
-## 418  Section 14
+_Commonwealth Authorities and Companies Act 1997_ as it applies in
 
-Repeal the section.
+relation to the Authority under section 23 of this Act.
 
-## 419  Paragraph 15(1)(e)
+</dd> </dl></dl>
 
-Omit “subsection 14(1)”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+414
+  Section 23
 
-## 420  Sections 45, 46, 47 and 49
+ Repeal the section, substitute: 
 
-Repeal the sections.
+23
+  Application of the Commonwealth Authorities and Companies 
+Act
 
-## 421  Subsection 50(1)
+<dl compact=""><dl compact="">
 
-After “this Act” (first occurring), insert “or the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(1)</dt><dd>The Authority is not a Commonwealth authority for the purposes of the
 
-## 422  Subparagraph 50(2)(f)(iii)
+_Commonwealth Authorities and Companies Act 1997_.</dd> <dt>(2)</dt><dd>Sections 9, 11, 18 and 20 of that Act, and Schedule 1 to that Act, apply in relation to the Authority as if it were a Commonwealth authority for the purposes of that Act.</dd> <dt>(3)</dt><dd>A copy of each annual report given to the Minister must be given to each member of the Ministerial Council as soon as practicable. </dd> </dl></dl>
 
-Repeal the subparagraph, substitute:
+_Australian National University Act 1991_
 
-                            (iii)  disclosure of pecuniary interests at meetings of the Convocation or of a statutory Board; and
+415
+  At the end of subsection 4(2)
 
-<h9 class="ActHead9">Australian Nuclear Science and Technology Organisation Act 1987</h9>
+ Add:
 
-## 423  Subsection 3(2)
+<dl compact=""><dl compact="">
 
-Repeal the subsection.
+Note:	Subject to section 4A, the _Commonwealth Authorities and Companies Act 1997_ applies to the University. That Act deals with matters
 
-## 424  At the end of subsection 4(1)
+relating to Commonwealth authorities, including reporting and accountability,
 
-Add:
+banking, and conduct of officers.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Organisation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ </dl></dl>
 
-## 425  Subsections 7(1) and (2)
+416
+  After section 4
 
-Repeal the subsections.
+ Insert: 
 
-_Note:       The heading to section 7 is replaced by the heading “Disclosure of the Organisation’s interests in companies”._
+4A
+  Modification of the _Commonwealth Authorities and Companies Act 1997_
 
-## 426  Subsection 7(3)
+<dl compact=""><dl compact="">
 
-Omit “Subject to subsection (4), where”, substitute “If”.
+<dt>(1)</dt><dd>Section 14, subsection 18(3), and sections 28 and 29, of the
 
-## 427  Subsection 7(4)
+_Commonwealth Authorities and Companies Act 1997_ do not apply in relation
 
-Repeal the subsection.
+to the University.</dd> <dt>(2)</dt><dd>Nothing in section 16 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Council to do anything that will or might affect the academic independence or integrity of the University. </dd> </dl></dl>
 
-## 428  Subsection 9(6)
+4B
+  University's financial year starts on 1 January
 
-Repeal the subsection.
+ <dl compact=""><dl compact="">
 
-## 429  At the end of section 9
+		For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the University's financial year is a period of 12 months starting on
 
-Add:
+1 January.
 
-Note:          For the manner in which the Chairperson and Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+ </dl></dl>
 
-## 430  Paragraph 14(2)(c)
+417
+  Subsection 6(3)
 
-Omit “15”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ After "this Act", insert "or the _Commonwealth Authorities and Companies Act 1997_"_._
 
-## 431  Section 15
+418
+  Section 14
 
-Repeal the section.
+ Repeal the section.
 
-## 432  Subsection 16(6)
+419
+  Paragraph 15(1)(e)
 
-Omit “15(2)”, substitute “21(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "subsection 14(1)", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 433  Paragraph 21C(2)(d)
+420
+  Sections 45, 46, 47 and 49
 
-Omit “15 or 22”, substitute “22 of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<center>Back to Top</center>
 
-## 434  Subsection 26(12)
+ Repeal the sections.
 
-Repeal the subsection.
+421
+  Subsection 50(1)
 
-## 435  At the end of section 26
+ After "this Act" (first occurring), insert "or the _Commonwealth Authorities and Companies Act 1997_".
 
-Add:
+422
+  Subparagraph 50(2)(f)(iii)
 
-Note:          For the manner in which the Chairperson and Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+ Repeal the subparagraph, substitute:
 
-## 436  Subsection 27(4)
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-Repeal the subsection, substitute:
+<dt>(iii)</dt><dd>disclosure of pecuniary interests at meetings of the Convocation or of a
 
-             (4)  Subsection (3) does not prevent investment of surplus money of the Organisation under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+statutory Board; and
 
-## 437  Section 28
+</dd>
 
-Repeal the section.
+</dl></dl></dl></dl>
 
-## 438  Subsections 29(1) and (2)
+_Australian Nuclear Science and Technology Organisation Act 1987_
 
-Repeal the subsections.
+423
+  Subsection 3(2)
 
-_Note:       The heading to section 29 is replaced by the heading “Extra matters to be included in annual report”._
+ Repeal the subsection.
 
-## 439  Subsection 29(3)
+424
+  At the end of subsection 4(1)
 
-Omit “Organisation shall, in each report prepared pursuant to section 63M of the _Audit Act 1901_ (as that section applies in relation to the Organisation by virtue of subsection (1))”, substitute “members of the Board must, in each annual report they prepare under section 9 of the _Commonwealth Authorities and Companies Act 1997_,”.
+ Add:
 
-## 440  At the end of subsection 37(2)
+<dl compact=""><dl compact="">
 
-Add:
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Note:          Subject to section 37R, the _Commonwealth Authorities and Companies Act 1997_ applies to the Bureau. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+applies to the Organisation. That Act deals with matters relating to
 
-## 441  Subsection 37Q(4)
+Commonwealth authorities, including reporting and accountability, banking and
 
-Repeal the subsection, substitute:
+investment, and conduct of officers.
 
-             (4)  Subsection (3) does not prevent investment of surplus money of the Bureau under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+ </dl></dl>
 
-## 442  Section 37R
+425
+  Subsections 7(1) and (2)
 
-Repeal the section, substitute:
+ Repeal the subsections.
 
-##### <a id="37R"></a>37R  Application of the _Commonwealth Authorities and Companies Act 1997_
+Note:	The heading to section 7 is replaced by the heading "Disclosure of the Organisation's interests in companies".
 
-             (1)  The _Commonwealth Authorities and Companies Act 1997_ (except section 21) applies in relation to the Bureau as if the Director of the Nuclear Safety Bureau were a director of the Bureau for the purposes of that Act.
+426
+  Subsection 7(3)
 
-             (2)  Each annual report prepared by the Director under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include particulars of each direction that:
+ Omit "Subject to subsection (4), where", substitute "If".
 
-                     (a)  was given by the Minister to the Bureau under section 37D of this Act; and
+427
+  Subsection 7(4)
 
-                     (b)  applied in relation to the financial year covered by the report.
+ Repeal the subsection.
 
-## 443  Section 37U
+428
+  Subsection 9(6)
 
-Repeal the section, substitute:
+ Repeal the subsection.
 
-##### <a id="37U"></a>37U  Tabling of reports and documents given to the Minister by the Bureau
+429
+  At the end of section 9
 
-                   Within 15 sitting days of receiving a report or document from the Bureau under section 16 of the _Commonwealth Authorities and Companies Act 1997_, the Minister must cause a copy of the report or document to be tabled in each House of the Parliament.
+ Add:
 
-## 444  Subsection 39(1)
+<dl compact=""><dl compact="">
 
-Omit “opened and maintained pursuant to section 63J of the _Audit Act 1901_ (as that section applies in relation to the Organisation by virtue of section 29 of this Act) that does not, or accounts referred to in that section that do not,”, substitute “maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ that does not”.
+Note:	For the manner in which the Chairperson and Deputy
 
-## 445  Subsection 39(2)
+Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
-Omit “, 28 and 29”.
+ </dl></dl>
 
-## 446  Subsections 39(3), (4) and (5)
+430
+  Paragraph 14(2)(c)
 
-Repeal the subsections.
+ Omit "15", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-<h9 class="ActHead9">Australian Postal Corporation Act 1989</h9>
+431
+  Section 15
 
-## 447  Section 3 (definition of _authorised auditor_)
+ Repeal the section.
 
-Repeal the definition.
+432
+  Subsection 16(6)
 
-## 448  At the end of section 13
+ Omit "15(2)", substitute "21(3) of the _Commonwealth Authorities and Companies Act 1997_".
 
-Add:
+433
+  Paragraph 21C(2)(d)
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to Australia Post. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Omit "15 or 22", substitute "22 of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 449  Paragraph 28(a)
+434
+  Subsection 26(12)
 
-Omit “notified by the Minister under section 48”, substitute “of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the subsection.
 
-## 450  Sections 35, 36 and 37
+435
+  At the end of section 26
 
-Repeal the sections.
+ Add:
 
-## 451  Section 38
+<dl compact=""><dl compact="">
 
-After “financial target”, insert “for inclusion in a corporate plan under section 17 of the _Commonwealth Authorities and Companies Act 1997_”.
+Note:	For the manner in which the Chairperson and Deputy
 
-## 452  Paragraph 38(h)
+Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
-Omit “notified by the Minister under section 48”, substitute “of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_”.
+ </dl></dl>
 
-## 453  Section 39
+436
+  Subsection 27(4)
 
-Repeal the section.
+<center>Back to Top</center>
 
-## 454  Subsection 40(1)
+ Repeal the subsection, substitute:
 
-Omit all the words from and including “When” to and including “receiving the copy of the plan”, substitute “If the Minister receives a corporate plan for Australia Post under section 17 of the _Commonwealth Authorities and Companies Act 1997_, the Minister may, within 60 days”.
+<dl compact=""><dl compact="">
 
-## 455  Paragraph 40(1)(b)
+<dt>(4)</dt><dd>Subsection (3) does not prevent investment of surplus money of the
 
-Omit “the”, substitute “a”.
+Organisation under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 456  At the end of section 40
+</dd> </dl></dl>
 
-Add:
+437
+  Section 28
 
-             (5)  Australia Post must comply with a direction under subsection (1) and must inform the Minister of the changes made to the plan to comply with the direction.
+ Repeal the section.
 
-## 457  Sections 41 and 42
+438
+  Subsections 29(1) and (2)
 
-Repeal the sections.
+ Repeal the subsections.
 
-## 458  Section 43
+Note:	The heading to section 29 is replaced by the heading "Extra matters to be included in annual report".
 
-Omit “The report of Australia Post’s operations for a financial year shall:”, substitute “The annual report on Australia Post under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also:”.
+439
+  Subsection 29(3)
 
-_Note:      The heading to section 43 is altered by omitting “General” and substituting “Extra general”._
+ Omit "Organisation shall, in each report prepared pursuant to section&#160;63M of the _Audit Act 1901_ (as that section applies in relation to the Organisation by virtue of subsection (1))", substitute "members of the Board must, in each annual report they prepare under section 9 of the _Commonwealth Authorities and Companies Act 1997_,".
 
-## 459  Paragraph 43(b)
+440
+  At the end of subsection 37(2)
 
-Repeal the paragraph, substitute:
+ Add:
 
-                     (b)  include an outline of:
+<dl compact=""><dl compact="">
 
-                              (i)  the strategies and policies of Australia Post and its subsidiaries that are set out in the corporate plan; and
+Note:	Subject to section 37R, the _Commonwealth Authorities and Companies Act 1997_ applies to the Bureau. That Act deals with matters
 
-                             (ii)  the financial targets and non-financial performance measures that are set out in the corporate plan; and
+relating to Commonwealth authorities, including reporting and accountability,
 
-## 460  Subparagraph 43(g)(i)
+banking and investment, and conduct of officers.
 
-Omit “notified under section 48”, substitute “of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_”.
+ </dl></dl>
 
-## 461  At the end of section 43
+441
+  Subsection 37Q(4)
 
-Add:
+ Repeal the subsection, substitute:
 
-             (2)  In this section:
+<dl compact=""><dl compact="">
 
-                    <a name="corpor-plan"></a>**_corporate plan_** means the corporate plan for Australia Post under section 17 of the _Commonwealth Authorities and Companies Act 1997_.
+<dt>(4)</dt><dd>Subsection (3) does not prevent investment of surplus money of the Bureau
 
-## 462  Subsection 44(1)
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Omit “The report of Australia Post’s operations for a financial year shall:”, substitute “The annual report on Australia Post under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also:”.
+</dd> </dl></dl>
 
-_Note:      The heading to section 44 is altered by omitting “Financial” and substituting “Extra financial”._
+442
+  Section 37R
 
-## 463  Paragraph 44(1)(a)
+ Repeal the section, substitute: 
 
-Omit “target”, substitute “targets”.
+37R
+  Application of the _Commonwealth Authorities and Companies Act 1997_
 
-## 464  Paragraph 44(1)(b)
+<dl compact=""><dl compact="">
 
-Omit “vary the”, substitute “vary a”.
+<dt>(1)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ (except section
 
-## 465  Paragraph 44(1)(c)
+21) applies in relation to the Bureau as if the Director of the Nuclear Safety
 
-Omit “target”, substitute “targets”.
+Bureau were a director of the Bureau for the purposes of that Act.</dd> <dt>(2)</dt><dd>Each annual report prepared by the Director under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include particulars of each direction that: </dd> </dl></dl>
 
-## 466  Subparagraph 44(1)(g)(ii)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “notified by the Minister under section 48”, substitute “of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(a)</dt><dd>was given by the Minister to the Bureau under section 37D of this Act;
 
-## 467  At the end of section 44
+and</dd>
 
-Add:
+<dt>(b)</dt><dd>applied in relation to the financial year covered by the report.
 
-             (3)  In this section:
+</dd>
 
-                    <a name="corpor-plan"></a>**_corporate plan_** means the corporate plan for Australia Post under section 17 of the _Commonwealth Authorities and Companies Act 1997_.
+</dl></dl></dl>
 
-## 468  Sections 45, 46, 47 and 48
+443
+  Section 37U
 
-Repeal the sections.
+ Repeal the section, substitute: 
 
-## 469  Subsection 57(2)
+37U
+  Tabling of reports and documents given to the Minister by the 
+Bureau
 
-Repeal the subsection, substitute:
+<dl compact=""><dl compact="">
 
-             (2)  Subsection (1) does not prevent investment of surplus money of Australia Post under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+		Within 15 sitting days of receiving a report or document from the Bureau
 
-## 470  Sections 58 and 59
+under section 16 of the _Commonwealth Authorities and Companies Act 1997_,
 
-Repeal the sections.
+the Minister must cause a copy of the report or document to be tabled in each
 
-## 471  Subsection 67(2)
+House of the Parliament.
 
-Omit “subsection 71(2)”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ </dl></dl>
 
-## 472  Section 71
+444
+  Subsection 39(1)
 
-Repeal the section, substitute:
+ Omit "opened and maintained pursuant to section 63J of the _Audit Act 1901_ (as that section applies in relation to the Organisation by virtue of 
+<center>Back to Top</center>
+ section 29 of this Act) that does not, or accounts referred to in that section that do not,", substitute "maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ that does not".
 
-##### <a id="71"></a>71  Disclosure not required in relation to publicly available goods or services
+445
+  Subsection 39(2)
 
-                   Section 21 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to a matter relating to the supply of goods or services for a director if the goods or services are, or are to be, available to members of the public on the same terms and conditions.
+ Omit ", 28 and 29".
 
-## 473  Paragraph 79(2)(b)
+446
+  Subsections 39(3), (4) and (5)
 
-Omit “71”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the subsections. 
 
-## 474  Paragraph 79(5)(a)
+_Australian Postal Corporation Act 1989_
 
-Omit “41, 46 or 47”, substitute “15 or 16, or subsection 17(5), of the _Commonwealth Authorities and Companies Act 1997_”.
+447
+  Section 3 (definition of _authorised auditor_)
 
-<h9 class="ActHead9">Australian Securities Commission Act 1989</h9>
+ Repeal the definition.
 
-## 475  At the end of section 8
+448
+  At the end of section 13
 
-Add:
+ Add:
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<dl compact=""><dl compact="">
 
-## 476  Subsection 10(2)
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Repeal the subsection.
+applies to Australia Post. That Act deals with matters relating to Commonwealth
 
-## 477  At the end of section 10
+authorities, including reporting and accountability, banking and investment,
 
-Add:
+and conduct of officers.
 
-Note:          For the manner in which the Chairperson and Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+ </dl></dl>
 
-## 478  At the end of section 124
+449
+  Paragraph 28(a)
 
-Add:
+ Omit "notified by the Minister under section 48", substitute "of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_".
 
-             (7)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to members.
+450
+  Sections 35, 36 and 37
 
-## 479  Subsection 135(1)
+ Repeal the sections.
 
-Omit “Subject to subsection (3), the”, substitute “The”.
+451
+  Section 38
 
-## 480  Subsection 135(3)
+ After "financial target", insert "for inclusion in a corporate plan under section 17 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the subsection, substitute:
+452
+  Paragraph 38(h)
 
-             (3)  Subsection (1) does not prevent investment of surplus money of the Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+ Omit "notified by the Minister under section 48", substitute "of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 481  Subsection 135(4)
+453
+  Section 39
 
-Omit “has effect”, substitute “and subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ have effect in relation to the Commission”.
+ Repeal the section.
 
-## 482  Subsection 135(6)
+454
+  Subsection 40(1)
 
-Omit “subsection (3)”, substitute “subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit all the words from and including "When" to and including "receiving the copy of the plan", substitute "If the Minister receives a corporate plan for Australia Post under section 17 of the _Commonwealth Authorities and Companies Act 1997_, the Minister may, within 60 days".
 
-## 483  Section 136
+455
+  Paragraph 40(1)(b)
 
-Repeal the section.
+ Omit "the", substitute "a".
 
-## 484  Subsection 137(2) (definition of _contract_)
+456
+  At the end of section 40
 
-Omit “subsection 135(3)”, substitute “subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+ Add:
 
-## 485  Section 138
+<dl compact=""><dl compact="">
 
-Repeal the section, substitute:
+<dt>(5)</dt><dd>Australia Post must comply with a direction under subsection (1) and must
 
-##### <a id="138"></a>138  Extra matters to be included in annual report
+inform the Minister of the changes made to the plan to comply with the
 
-                   A report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must:
+direction.
 
-                     (a)  describe the specific goals the Commission has pursued, and the priorities it has followed, during the year, in performing its functions and pursuing the objectives referred to in subsection 1(2); and
+</dd> </dl></dl>
 
-                     (b)  describe what progress the Commission has made during that year towards achieving those goals; and
+457
+  Sections 41 and 42
 
-                     (c)  describe any matters that, during that year, have adversely affected the Commission’s effectiveness or have hindered the Commission in pursuing any of those goals and objectives.
+ Repeal the sections.
 
-## 486  Paragraph 141(a)
+458
+  Section 43
 
-Omit “section 63J of the _Audit Act 1901_”, substitute “subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "The report of Australia Post's operations for a financial year shall:", substitute "The annual report on Australia Post under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also:".
 
-## 487  Sections 143 and 144
+Note:	The heading to section 43 is altered by omitting "General" and substituting "Extra general".
 
-Repeal the sections.
+459
+  Paragraph 43(b)
 
-## 488  At the end of section 146
+ Repeal the paragraph, substitute:
 
-Add:
+<dl compact=""><dl compact=""><dl compact="">
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Advisory Committee. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<dt>(b)</dt><dd>include an outline of:
 
-## 489  Subsection 161(1)
+</dd>
 
-Omit “Subject to subsection (3), the”, substitute “The”.
+</dl></dl></dl>
 
-## 490  Subsection 161(3)
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-Repeal the subsection, substitute:
+<dt>(i)</dt><dd>the strategies and policies of Australia Post and its subsidiaries that
 
-             (3)  Subsection (1) does not prevent investment of surplus money of the Advisory Committee under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+are set out in the corporate plan; and</dd>
 
-## 491  Subsection 161(6)
+<dt>(ii)</dt><dd>the financial targets and non-financial performance measures that are set
 
-Omit “(3)”, substitute “18(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+out in the corporate plan; and
 
-## 492  Section 162
+</dd>
 
-Repeal the section.
+</dl></dl></dl></dl>
 
-## 493  Section 164
+<center>Back to Top</center>
 
-Repeal the section.
+460
+  Subparagraph 43(g)(i)
 
-## 494  Paragraph 167(a)
+ Omit "notified under section 48", substitute "of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “section 63J of the _Audit Act 1901_”, substitute “subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+461
+  At the end of section 43
 
-## 495  Sections 169 and 170
+ Add:
 
-Repeal the sections.
+<dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Australian Sports Commission Act 1989</h9>
+<dt>(2)</dt><dd>In this section:
 
-## 496  At the end of subsection 5(2)
+</dd> </dl></dl>
 
-Add:
+<def><dl compact=""><dl compact="">
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+_corporate plan_ means the corporate plan for Australia Post under
 
-## 497  Section 18
+section 17 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Repeal the section.
+ </dl></dl>
 
-## 498  Paragraph 19(2)(b)
+462
+  Subsection 44(1)
 
-Omit “section 18”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "The report of Australia Post's operations for a financial year shall:", substitute "The annual report on Australia Post under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also:".
 
-## 499  Subsection 21(10)
+Note:	The heading to section 44 is altered by omitting "Financial" and substituting "Extra financial".
 
-Omit “direct or indirect pecuniary”, substitute “material personal”.
+463
+  Paragraph 44(1)(a)
 
-## 500  Subsection 22(7)
+ Omit "target", substitute "targets".
 
-Repeal the subsection, substitute:
+464
+  Paragraph 44(1)(b)
 
-             (7)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ applies to a member of a committee as if:
+ Omit "vary the", substitute "vary a".
 
-                     (a)  the committee were the Board referred to in that section; and
+465
+  Paragraph 44(1)(c)
 
-                     (b)  the member were a director of a Commonwealth authority referred to in that section; and
+ Omit "target", substitute "targets".
 
-                     (c)  the Commission were the responsible Minister referred to in that section.
+466
+  Subparagraph 44(1)(g)(ii)
 
-## 501  Section 44
+ Omit "notified by the Minister under section 48", substitute "of which the directors are notified under section 28 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the section.
+467
+  At the end of section 44
 
-## 502  At the end of section 45 
+ Add:
 
-Add:
+<dl compact=""><dl compact="">
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+<dt>(3)</dt><dd>In this section:
 
-## 503  Subsection 47(2)
+</dd> </dl></dl>
 
-Omit “subsection 49(1)”, substitute “subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+<def><dl compact=""><dl compact="">
 
-## 504  Subsection 48(1)
+_corporate plan_ means the corporate plan for Australia Post under
 
-Repeal the subsection.
+section 17 of the _Commonwealth Authorities and Companies Act 1997_.
 
-_Note:       The heading to section 48 is replaced by the heading “Extra matters to be included in annual report”._
+ </dl></dl>
 
-## 505  Subsection 48(2)
+468
+  Sections 45, 46, 47 and 48
 
-Omit “Commission shall, in each report prepared pursuant to section 63M of the _Audit Act 1901_ (as that section applies by virtue of subsection (1))”, substitute “members must, in each report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the sections.
 
-## 506  Section 49
+469
+  Subsection 57(2)
 
-Repeal the section.
+ Repeal the subsection, substitute:
 
-## 507  Subsection 52(1)
+<dl compact=""><dl compact="">
 
-Omit “opened and maintained under section 63J of the _Audit Act 1901_ (as that section applies by virtue of section 48 of this Act)”, substitute “maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of Australia
 
-## 508  Subsection 52(2)
+Post under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Omit “Notwithstanding sections 44, 45, 48 and 49”, substitute “Despite section 45”.
+</dd> </dl></dl>
 
-## 509  Subsections 52(3) and (4)
+470
+  Sections 58 and 59
 
-Repeal the subsections.
+ Repeal the sections.
 
-## 510  Section 53
+471
+  Subsection 67(2)
 
-Repeal the section.
+ Omit "subsection 71(2)", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 511  Section 56
+472
+  Section 71
 
-Omit “, 44”.
+ Repeal the section, substitute: 
 
-## 512  Section 61
+71
+  Disclosure not required in relation to publicly available goods or 
+services
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Australian Sports Drug Agency Act 1990</h9>
+		Section 21 of the _Commonwealth Authorities and Companies Act 1997_ does
 
-## 513  At the end of subsection 7(1)
+not apply to a matter relating to the supply of goods or services for a
 
-Add:
+director if the goods or services are, or are to be, available to members of
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Agency. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+the public on the same terms and conditions.
 
-## 514  Section 59
+ </dl></dl>
 
-Repeal the section.
+<center>Back to Top</center>
 
-## 515  At the end of section 60
+473
+  Paragraph 79(2)(b)
 
-Add:
+ Omit "71", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Agency under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+474
+  Paragraph 79(5)(a)
 
-## 516  Subsection 62(2)
+ Omit "41, 46 or 47", substitute "15 or 16, or subsection 17(5), of the _Commonwealth Authorities and Companies Act 1997_". 
 
-Omit “subsection 64(1)”, substitute “section 18 of the _Commonwealth Authorities and Companies Act 1997_”.
+_Australian Securities Commission Act 1989_
 
-## 517  Subsection 63(1)
+475
+  At the end of section 8
 
-Repeal the subsection.
+ Add:
 
-_Note:       The heading to section 63 is replaced by the heading “Extra matters to be included in annual report”._
+<dl compact=""><dl compact="">
 
-## 518  Subsection 63(2)
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Omit “The Agency must, in each report prepared under section 63M of the _Audit Act 1901_ (as that section applies by virtue of subsection (1) of this section)”, substitute “In each report on the Agency under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must”.
+applies to the Commission. That Act deals with matters relating to Commonwealth
 
-## 519  Subsection 63(3)
+authorities, including reporting and accountability, banking and investment,
 
-Omit “prepared by the Agency”.
+and conduct of officers.
 
-## 520  Section 64
+ </dl></dl>
 
-Repeal the section.
+476
+  Subsection 10(2)
 
-## 521  Subsection 65(1)
+ Repeal the subsection.
 
-Omit “opened and maintained under section 63J of the _Audit Act 1901_ (as that section applies by virtue of section 63 of this Act)”, substitute “maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+477
+  At the end of section 10
 
-## 522  Subsection 65(2)
+ Add:
 
-Omit “Notwithstanding sections 59, 60, 63 and 64”, substitute “Despite section 60”.
+<dl compact=""><dl compact="">
 
-## 523  Subsections 65(3) and (4)
+Note:	For the manner in which the Chairperson and Deputy
 
-Repeal the subsections.
+Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
-## 524  Section 69
+ </dl></dl>
 
-Repeal the section.
+478
+  At the end of section 124
 
-<h9 class="ActHead9">Australian Tourist Commission Act 1987</h9>
+ Add:
 
-## 525  At the end of subsection 9(1)
+<dl compact=""><dl compact="">
 
-Add:
+<dt>(7)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+does not apply to members.
 
-## 526  Subsections 20(1), (2) and (3)
+</dd> </dl></dl>
 
-Repeal the subsections.
+479
+  Subsection 135(1)
 
-_Note:       The heading to section 20 is altered by adding at the end “by the Chairperson”._
+ Omit "Subject to subsection (3), the", substitute "The".
 
-## 527  Paragraph 21(2)(b)
+480
+  Subsection 135(3)
 
-Omit “20”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the subsection, substitute:
 
-## 528  After paragraph 21(2)(b)
+<dl compact=""><dl compact="">
 
-Insert:
+<dt>(3)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-                    (ba)  in the case of the Chairperson if the Chairperson is appointed on a full-time basis—contravenes section 20 without reasonable excuse.
+Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 529  Subsection 23(8)
+</dd> </dl></dl>
 
-Omit “subsection 20(2)”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+481
+  Subsection 135(4)
 
-## 530  At the end of section 29
+ Omit "has effect", substitute "and subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ have effect in relation to the Commission".
 
-Add:
+482
+  Subsection 135(6)
 
-             (4)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the Commission.
+ Omit "subsection (3)", substitute "subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 531  At the end of section 45
+483
+  Section 136
 
-Add:
+ Repeal the section.
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+484
+  Subsection 137(2) (definition of _contract_)
 
-## 532  Section 47
+ Omit "subsection 135(3)", substitute "subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the section.
+485
+  Section 138
 
-<h9 class="ActHead9">Australian Trade Commission Act 1985</h9>
+ Repeal the section, substitute: 
 
-## 533  Subsection 3(1) (definition of _approved bank_)
+138
+  Extra matters to be included in annual report
 
-Repeal the definition.
+ <dl compact=""><dl compact="">
 
-## 534  At the end of subsection 7(2)
+		A report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must:
 
-Add:
+ </dl></dl>
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 535  Paragraph 20(2)(d)
+<dt>(a)</dt><dd>describe the specific goals the Commission has pursued, and the priorities
 
-Omit “section 22”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+it has followed, during the year, in performing its functions and pursuing the
 
-## 536  Section 22
+objectives referred to in subsection 1(2); and</dd>
 
-Repeal the section.
+<dt>(b)</dt><dd>describe what progress the Commission has made during that year towards
 
-## 537  Paragraph 72(e)
+achieving those goals; and</dd>
 
-Omit “63E of the _Audit Act 1901_ as that section applies to the Commission by virtue of sub-section 89(1) of this Act”, substitute “18 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(c)</dt><dd>describe any matters that, during that year, have adversely affected the
 
-## 538  Sections 76 and 77
+Commission's effectiveness or have hindered the Commission in pursuing any of
 
-Repeal the sections.
+those goals and objectives.
 
-## 539  Section 89
+</dd>
 
-Repeal the section, substitute:
+</dl></dl></dl>
 
-##### <a id="89"></a>89  Extra matters to be included in annual report
+<center>Back to Top</center>
 
-                   The financial statements in an annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must show separately the financial effect on the Commission’s operations of each direction that:
+486
+  Paragraph 141(a)
 
-                     (a)  was given to the Commission by the Minister under subsection 10(1) of this Act; and
+ Omit "section 63J of the _Audit Act 1901_", substitute "subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_".
 
-                     (b)  was in force for all or part of the year to which the report relates.
+487
+  Sections 143 and 144
 
-## 540  Subsection 92(1)
+ Repeal the sections.
 
-Repeal the subsection, substitute:
+488
+  At the end of section 146
 
-             (1)  The report of operations in the annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include information about the Commission’s operations under the _Export Market Development Grants Act 1974_, but not the Commission’s operations under the _Export Expansion Grants Act 1978_.
+ Add:
 
-## 541  Section 93
+<dl compact=""><dl compact="">
 
-Repeal the section.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-<h9 class="ActHead9">Australian War Memorial Act 1980</h9>
+applies to the Advisory Committee. That Act deals with matters relating to
 
-## 542  Section 3 (definition of _Chairman_)
+Commonwealth authorities, including reporting and accountability, banking and
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+investment, and conduct of officers.
 
-## 543  At the end of subsection 4(2)
+ </dl></dl>
 
-Add:
+489
+  Subsection 161(1)
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Memorial. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Omit "Subject to subsection (3), the", substitute "The".
 
-## 544 Section 11
+490
+  Subsection 161(3)
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+ Repeal the subsection, substitute:
 
-## 545  Paragraph 14(2)(c)
+<dl compact=""><dl compact="">
 
-Omit “16”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(3)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-## 546  Section 16
+Advisory Committee under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Repeal the section.
+</dd> </dl></dl>
 
-## 547  Subsections 17(1), (3) and (4) and 19(6)
+491
+  Subsection 161(6)
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+ Omit "(3)", substitute "18(3) of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 548  Section 31
+492
+  Section 162
 
-Repeal the section.
+ Repeal the section.
 
-## 549  Subsection 32(4)
+493
+  Section 164
 
-Omit “section 63J of the _Audit Act 1901_”, substitute “subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the section.
 
-## 550  At the end of section 33
+494
+  Paragraph 167(a)
 
-Add:
+ Omit "section 63J of the _Audit Act 1901_", substitute "subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_".
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Memorial under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+495
+  Sections 169 and 170
 
-## 551  Subsection 34(1)
+ Repeal the sections. 
 
-Repeal the subsection.
+_Australian Sports Commission Act 1989_
 
-## 552  Subsection 35(2)
+496
+  At the end of subsection 5(2)
 
-Omit “34”, substitute “18 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Add:
 
-_Note:       The heading to section 35 is replaced by the heading “Contracts”._
+<dl compact=""><dl compact="">
 
-## 553  Section 36
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Repeal the section.
+applies to the Commission. That Act deals with matters relating to Commonwealth
 
-<h9 class="ActHead9">Australian Wine and Brandy Corporation Act 1980</h9>
+authorities, including reporting and accountability, banking and investment,
 
-## 554  Subsection 4(2)
+and conduct of officers.
 
-Repeal the subsection.
+ </dl></dl>
 
-## 555  At the end of section 4
+497
+  Section 18
 
-Add:
+ Repeal the section.
 
-Note:          For the manner in which the Chairperson and Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+498
+  Paragraph 19(2)(b)
 
-## 556  At the end of subsection 12(1)
+ Omit "section 18", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Add:
+499
+  Subsection 21(10)
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Omit "direct or indirect pecuniary", substitute "material personal".
 
-## 557  Paragraph 20(4)(b)
+500
+  Subsection 22(7)
 
-After “21”, insert “of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the subsection, substitute:
 
-## 558  Subsections 21(1), (2) and (3)
+<dl compact=""><dl compact="">
 
-Repeal the subsections.
+<dt>(7)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_
 
-## 559  Subsection 21(4)
+applies to a member of a committee as if:
 
-Omit “A member who is a wine maker or a grape grower shall not be taken to have a pecuniary interest”, substitute “For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member who is a winemaker or a grape grower is not taken to have a material personal interest”.
+</dd> </dl></dl>
 
-## 560  Subsection 31K(1)
+<dl compact=""><dl compact=""><dl compact="">
 
-After “section”, insert “and the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(a)</dt><dd>the committee were the Board referred to in that section; and</dd>
 
-## 561  Section 35
+<dt>(b)</dt><dd>the member were a director of a Commonwealth authority referred to in that
 
-Omit “Subject to section 36, the”, substitute “The”.
+section; and</dd>
 
-## 562  At the end of section 35
+<dt>(c)</dt><dd>the Commission were the responsible Minister referred to in that section.
 
-Add:
+</dd>
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+</dl></dl></dl>
 
-## 563  Section 36
+<center>Back to Top</center>
 
-Repeal the section.
+501
+  Section 44
 
-## 564  Subsections 38(1), (2) and (3)
+ Repeal the section.
 
-Repeal the subsections.
+502
+  At the end of section 45 
 
-_Note:       The heading to section 38 is replaced by the heading “Extra matters to be included in annual report”._
+ Add:
 
-## 565  Subsection 38(4)
+<dl compact=""><dl compact="">
 
-Omit “the Corporation of its operations”, substitute “the members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ on the operations of the Corporation”.
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-## 566  Section 38A
+Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Repeal the section.
+</dd> </dl></dl>
 
-## 567  Section 41
+503
+  Subsection 47(2)
 
-Repeal the section.
+ Omit "subsection 49(1)", substitute "subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_".
 
-<h9 class="ActHead9">Australian Wool Research and Promotion Organisation Act 1993</h9>
+504
+  Subsection 48(1)
 
-## 568  At the end of subsection 5(2)
+ Repeal the subsection.
 
-Add:
+Note:	The heading to section 48 is replaced by the heading "Extra matters to be included in annual report".
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Organisation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+505
+  Subsection 48(2)
 
-## 569  Subsections 30(1) and (2)
+ Omit "Commission shall, in each report prepared pursuant to section&#160;63M of the _Audit Act 1901_ (as that section applies by virtue of subsection (1))", substitute "members must, in each report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the subsections.
+506
+  Section 49
 
-## 570  Subsection 30(3)
+ Repeal the section.
 
-Omit “A member”, substitute “For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member”.
+507
+  Subsection 52(1)
 
-## 571  Subsection 30(3)
+ Omit "opened and maintained under section 63J of the _Audit Act 1901_ (as that section applies by virtue of section 48 of this Act)", substitute "maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “pecuniary”, substitute “material personal”.
+508
+  Subsection 52(2)
 
-## 572  Paragraph 33(2)(c)
+ Omit "Notwithstanding sections 44, 45, 48 and 49", substitute "Despite section 45".
 
-Omit “30”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+509
+  Subsections 52(3) and (4)
 
-## 573  Paragraph 42(4)(c)
+ Repeal the subsections.
 
-Omit “30”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+510
+  Section 53
 
-## 574  Subsection 56(2)
+ Repeal the section.
 
-Repeal the subsection, substitute:
+511
+  Section 56
 
-             (2)  Subsection (1) does not prevent the investment under section 19 of the _Commonwealth Authorities and Companies Act 1997_ of money in the Fund that is not immediately required for the purposes of the Organisation.
+ Omit ", 44".
 
-## 575  At the end of section 59
+512
+  Section 61
 
-Add:
+ Repeal the section. 
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Organisation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+_Australian Sports Drug Agency Act 1990_
 
-## 576  Section 63
+513
+  At the end of subsection 7(1)
 
-Repeal the section.
+ Add:
 
-## 577  Subsection 64(2)
+<dl compact=""><dl compact="">
 
-Repeal the subsection.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 578  Section 65
+applies to the Agency. That Act deals with matters relating to Commonwealth
 
-Repeal the section.
+authorities, including reporting and accountability, banking and investment,
 
-## 579  Part 9
+and conduct of officers.
 
-Repeal the Part.
+ </dl></dl>
 
-## 580  At the end of section 68
+514
+  Section 59
 
-Add:
+ Repeal the section.
 
-             (5)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the Organisation.
+515
+  At the end of section 60
 
-## 581  Subsection 76(1)
+ Add:
 
-Repeal the subsection.
+<dl compact=""><dl compact="">
 
-## 582  Subsection 76(2)
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Agency
 
-After “report”, insert “on the Organisation under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 583  Subsections 76(3) and (4)
+</dd> </dl></dl>
 
-Repeal the subsections.
+516
+  Subsection 62(2)
 
-<h9 class="ActHead9">Bankruptcy Act 1966</h9>
+ Omit "subsection 64(1)", substitute "section 18 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 584  After section 18
+<center>Back to Top</center>
 
-Insert:
+517
+  Subsection 63(1)
 
-##### <a id="18AA"></a>18AA  _Commonwealth__Authorities and Companies Act 1997_ does not apply to Official Trustee
+ Repeal the subsection.
 
-                   The Official Trustee is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+Note:	The heading to section 63 is replaced by the heading "Extra matters to be included in annual report".
 
-## 585  Section 20A (definition of _Equalization Account_)
+518
+  Subsection 63(2)
 
-Repeal the definition.
+ Omit "The Agency must, in each report prepared under section 63M of the _Audit Act 1901_ (as that section applies by virtue of subsection (1) of this section)", substitute "In each report on the Agency under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must".
 
-## 586  Section 20A
+519
+  Subsection 63(3)
 
-Insert:
+ Omit "prepared by the Agency".
 
-                    <a name="equal-reserv"></a>**_Equalization Reserve_** means the Common Investment Fund Equalization Reserve established by section 20G.
+520
+  Section 64
 
-## 587  Section 20G
+ Repeal the section.
 
-Repeal the section, substitute:
+521
+  Subsection 65(1)
 
-##### <a id="20G"></a>20G  Common Investment Fund Equalization Reserve
+ Omit "opened and maintained under section 63J of the _Audit Act 1901_ (as that section applies by virtue of section 63 of this Act)", substitute "maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_".
 
-             (1)  This subsection establishes a reserve called the Common Investment Fund Equalization Reserve.
+522
+  Subsection 65(2)
 
-             (2)  The Equalization Reserve is a component of the Reserved Money Fund.
+ Omit "Notwithstanding sections 59, 60, 63 and 64", substitute "Despite section 60".
 
-## 588  Subsections 20H(1) and (2)
+523
+  Subsections 65(3) and (4)
 
-Omit “Equalization Account”, substitute “Consolidated Revenue Fund”.
+ Repeal the subsections.
 
-_Note:       The heading to section 20H is altered by omitting “Account” and substituting “Reserve”._
+524
+  Section 69
 
-## 589  After subsection 20H(2)
+ Repeal the section. 
 
-Insert:
+_Australian Tourist Commission Act 1987_
 
-          (2A)  Whenever a payment is made into the Consolidated Revenue Fund under subsection (1) or (2), an equal amount must be transferred to the Equalization Reserve from the Consolidated Revenue Fund.
+525
+  At the end of subsection 9(1)
 
-## 590  Subsection 20H(3)
+ Add:
 
-Omit “Account”, substitute “Reserve”.
+<dl compact=""><dl compact="">
 
-## 591  Subsection 20H(4)
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Omit “Equalization Account”, substitute “Equalization Reserve”.
+applies to the Commission. That Act deals with matters relating to Commonwealth
 
-## 592  Subsection 20H(4)
+authorities, including reporting and accountability, banking and investment,
 
-Omit “that Account” (wherever occurring), substitute “the Equalization Reserve”.
+and conduct of officers.
 
-## 593  Subsection 20H(5)
+ </dl></dl>
 
-Repeal the subsection, substitute:
+526
+  Subsections 20(1), (2) and (3)
 
-             (5)  Whenever an amount required by subsection (3) to be paid out of the Equalization Reserve exceeds the amount standing to the credit of the Equalization Reserve, an amount equal to the excess must be transferred to the Equalization Reserve from the Consolidated Revenue Fund.
+ Repeal the subsections.
 
-## 594  Subparagraph 40(1)(f)(ii)
+Note:	The heading to section 20 is altered by adding at the end "by the Chairperson".
 
-Omit “Chairman”, substitute “Chair”.
+527
+  Paragraph 21(2)(b)
 
-## 595  Section 139L (sub-subparagraph (b)(i)(A) of the definition of _income_)
+ Omit "20", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “Trust Account”, substitute “Reserve”.
+528
+  After paragraph 21(2)(b)
 
-## 596  Section 257 and paragraph 258(a)
+ Insert:
 
-Omit “chairman” (wherever occurring), substitute “chair”.
+<dl compact=""><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Broadcasting Services Act 1992</h9>
+<dt>(ba)</dt><dd>in the case of the Chairperson if the Chairperson is appointed on a
 
-## 597  At the end of subsection 154(2)
+full-time basis&#151;contravenes section 20 without reasonable excuse.
 
-Add:
+</dd>
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the ABA. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+</dl></dl></dl>
 
-## 598  Paragraph 160(b)
+529
+  Subsection 23(8)
 
-Omit “161”, substitute “28 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "subsection 20(2)", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 599  Section 161
+530
+  At the end of section 29
 
-Repeal the section.
+ Add:
 
-## 600  Clause 6 of Schedule 3
+<dl compact=""><dl compact="">
 
-Repeal the clause.
+<dt>(4)</dt><dd>This section does not affect the application of section 28 of the
 
-## 601  Paragraph 9(3)(e) of Schedule 3
+_Commonwealth Authorities and Companies Act 1997_ in relation to the
 
-Omit “6 or 7”, substitute “7 of this Schedule or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+Commission.
 
-## 602  Clauses 13 and 14 of Schedule 3
+</dd> </dl></dl>
 
-Repeal the clauses.
+531
+  At the end of section 45
 
-## 603  Subclause 16(1) of Schedule 3
+ Add:
 
-Omit “Subject to subclause (2), money”, substitute “Money”.
+<dl compact=""><dl compact="">
 
-## 604  Subclause 16(2) of Schedule 3
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-Repeal the subclause, substitute:
+Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-             (2)  Subclause (1) does not prevent investment of surplus money of the ABA under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+</dd> </dl></dl>
 
-<h9 class="ActHead9">Child Support (Registration and Collection) Act 1988</h9>
+<center>Back to Top</center>
 
-## 605  Subsection 4(1) (definition of _Trust Account_)
+532
+  Section 47
 
-Repeal the definition.
+ Repeal the section. 
 
-## 606  Subsection 4(1)
+_Australian Trade Commission Act 1985_
 
-Insert:
+533
+  Subsection 3(1) (definition of _approved bank_)
 
-                    <a name="reserv"></a>**_Reserve_** means the Child Support Reserve established by section 73.
+ Repeal the definition.
 
-## 607  Paragraph 53(c)
+534
+  At the end of subsection 7(2)
 
-Omit “appropriated out of the Consolidated Revenue Fund”, substitute “required to be transferred to the Reserve”.
+ Add:
 
-## 608  Division 1 of Part VI (heading)
+<dl compact=""><dl compact="">
 
-Omit “**_Trust Account_**”, substitute “**_Child Support Reserve_**”.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 609  Subsection 73(1)
+applies to the Commission. That Act deals with matters relating to Commonwealth
 
-Omit “An account”, substitute “A reserve”.
+authorities, including reporting and accountability, banking and investment,
 
-## 610  Subsection 73(1)
+and conduct of officers.
 
-Omit “Trust Account”, substitute “Reserve”.
+ </dl></dl>
 
-## 611  Subsection 73(2)
+535
+  Paragraph 20(2)(d)
 
-Repeal the subsection, substitute:
+ Omit "section 22", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+536
+  Section 22
 
-## 612  Subsection 74(1)
+ Repeal the section.
 
-Omit “There shall be paid into the Trust Account”, substitute “The following amounts must be transferred to the Reserve out of the Consolidated Revenue Fund”.
+537
+  Paragraph 72(e)
 
-_Note:       The heading to section 74 is altered by omitting “Trust Account” and substituting “Reserve”._
+ Omit "63E of the _Audit Act 1901_ as that section applies to the Commission by virtue of sub-section 89(1) of this Act", substitute "18 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 613  Paragraphs 74(1)(a), (b) and (c)
+538
+  Sections 76 and 77
 
-Before “amounts received”, insert “amounts equal to”.
+ Repeal the sections.
 
-## 614  Paragraph 74(1)(c)
+539
+  Section 89
 
-Omit “and”.
+ Repeal the section, substitute: 
 
-## 615  Paragraph 74(1)(d)
+89
+  Extra matters to be included in annual report
 
-Repeal the paragraph.
+ <dl compact=""><dl compact="">
 
-## 616  Subsection 74(2)
+		The financial statements in an annual report on the Commission under section
 
-Omit “and pay that portion into the Trust Account”, substitute “and only that portion is to be transferred to the Reserve under subsection (1)”.
+9 of the _Commonwealth Authorities and Companies Act 1997_ must show
 
-## 617  Section 75
+separately the financial effect on the Commission's operations of each
 
-Omit “Trust Account” (wherever occurring), substitute “Reserve”.
+direction that:
 
-_Note:       The heading to section 75 is altered by omitting “Trust Account” and substituting “Reserve”._
+ </dl></dl>
 
-## 618  Paragraph 75(d)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “an appropriation has previously been required from that Fund”, substitute “amounts have been transferred from the Consolidated Revenue Fund”.
+<dt>(a)</dt><dd>was given to the Commission by the Minister under subsection 10(1) of this
 
-## 619  Section 77
+Act; and</dd>
 
-Omit “is payable into the Trust Account out of the Consolidated Revenue Fund, which is appropriated accordingly”, substitute “must be transferred to the Reserve from the Consolidated Revenue Fund”.
+<dt>(b)</dt><dd>was in force for all or part of the year to which the report relates.
 
-## 620  Paragraph 78(3)(d)
+</dd>
 
-Omit “is payable into the Trust Account out of the Consolidated Revenue Fund, which is appropriated accordingly”, substitute “must be transferred to the Reserve from the Consolidated Revenue Fund”.
+</dl></dl></dl>
 
-<h9 class="ActHead9">Civil Aviation Act 1988</h9>
+540
+  Subsection 92(1)
 
-## 621  At the end of subsection 8(2)
+ Repeal the subsection, substitute:
 
-Add:
+<dl compact=""><dl compact="">
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the CASA. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<dt>(1)</dt><dd>The report of operations in the annual report on the Commission under
 
-<h9 class="ActHead9">Coal Industry Act 1946</h9>
+section 9 of the _Commonwealth Authorities and Companies Act 1997_ must
 
-## 622  After section 6
+include information about the Commission's operations under the _Export Market Development Grants Act 1974_, but not the Commission's operations
 
-Insert:
+under the _Export Expansion Grants Act 1978_.
 
-##### <a id="6A"></a>6A  _Commonwealth Authorities and Companies Act 1997_ does not apply to Board
+</dd> </dl></dl>
 
-                   The Board is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+541
+  Section 93
 
-## 623  Section 28G
+ Repeal the section. 
 
-Repeal the section.
+_Australian War Memorial Act 1980_
 
-<h9 class="ActHead9">Coal Mining Industry (Long Service Leave Funding) Act 1992</h9>
+542
+  Section 3 (definition of _Chairman_)
 
-## 624  At the end of subsection 6(2)
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-Add:
+543
+  At the end of subsection 4(2)
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Add:
 
-## 625  Subsection 20(3)
+<dl compact=""><dl compact="">
 
-Omit “would, for the purposes of section 22, be taken to have an interest”, substitute “has a material personal interest”.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 626  Section 22
+applies to the Memorial. That Act deals with matters relating to Commonwealth
 
-Repeal the section.
+authorities, including reporting and accountability, banking and investment,
 
-## 627  Paragraph 28(2)(c)
+and conduct of officers.
 
-Omit “22 or 27”, substitute “27 of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ </dl></dl>
 
-## 628  Section 30
+<center>Back to Top</center>
 
-Repeal the section.
+544
+ Section 11
 
-## 629  Subsection 39(1)
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-Repeal the subsection.
+545
+  Paragraph 14(2)(c)
 
-## 630  Subsection 39(2)
+ Omit "16", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “Section 63E of the _Audit Act 1901_”, substitute “Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+546
+  Section 16
 
-_Note:       The heading to section 39 is altered by omitting “Division 2 of Part XI of the Audit Act” and substituting “the Commonwealth Authorities and Companies Act”._
+ Repeal the section.
 
-## 631  Subsection 39(3)
+547
+  Subsections 17(1), (3) and (4) and 19(6)
 
-Repeal the subsection.
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 632  Subsections 39(4) and (5)
+548
+  Section 31
 
-Omit “Division 2 of Part XI of the _Audit Act 1901_ as that Division”, substitute “the _Commonwealth Authorities and Companies Act 1997_ as that Act”.
+ Repeal the section.
 
-<h9 class="ActHead9">Commonwealth Inscribed Stock Act 1911</h9>
+549
+  Subsection 32(4)
 
-## 633  Section 51F
+ Omit "section 63J of the _Audit Act 1901_", substitute "subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the section.
+550
+  At the end of section 33
 
-## 634  Section 53
+ Add:
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Commonwealth Places (Application of Laws) Act 1970</h9>
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-## 635  Section 21
+Memorial under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Omit “_Audit Act 1901-1969_”, substitute “_Financial Management and Accountability Act 1997_”.
+</dd> </dl></dl>
 
-_Note:       The heading to section 21 is altered by omitting “Audit” and substituting “Financial Management and Accountability”._
+551
+  Subsection 34(1)
 
-<h9 class="ActHead9">Crimes Act 1914</h9>
+ Repeal the subsection.
 
-## 636  Section 3 (definition of _Trust Fund_)
+552
+  Subsection 35(2)
 
-Repeal the definition.
+ Omit "34", substitute "18 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 637  Paragraph 9A(c)
+Note:	The heading to section 35 is replaced by the heading "Contracts".
 
-Omit “Trust Fund”, substitute “Confiscated Assets Reserve”.
+553
+  Section 36
 
-## 638  Paragraph 66(d)
+ Repeal the section. 
 
-Omit “chairman”, substitute “chair”.
+_Australian Wine and Brandy Corporation Act 1980_
 
-<h9 class="ActHead9">Criminology Research Act 1971</h9>
+554
+  Subsection 4(2)
 
-## 639  Section 4 (definition of _approved bank_)
+ Repeal the subsection.
 
-Repeal the definition.
+555
+  At the end of section 4
 
-## 640  At the end of subsection 5(2)
+ Add:
 
-Add:
+<dl compact=""><dl compact="">
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Institute. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+Note:	For the manner in which the Chairperson and Deputy
 
-## 641  Section 12 and subsections 13(2) and 14(1), (2), (3) and (4)
+Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+ </dl></dl>
 
-## 642  Sections 28A and 30
+556
+  At the end of subsection 12(1)
 
-Repeal the sections.
+ Add:
 
-## 643  At the end of section 31
+<dl compact=""><dl compact="">
 
-Add:
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+applies to the Corporation. That Act deals with matters relating to
 
-## 644  Section 32
+Commonwealth authorities, including reporting and accountability, banking and
 
-Repeal the section.
+investment, and conduct of officers.
 
-## 645  Subsection 32A(1)
+ </dl></dl>
 
-Omit “opened and maintained pursuant to section 30 that does not, or accounts referred to in that section that do not,”, substitute “maintained under section 18 of the _Commonwealth Authorities and Companies Act 1997_ that does not”.
+557
+  Paragraph 20(4)(b)
 
-## 646  Subsection 32A(2)
+ After "21", insert "of the _Commonwealth Authorities and Companies Act 1997_".
 
-After “Division”, insert “or any provision of the _Commonwealth Authorities and Companies Act 1997_”.
+558
+  Subsections 21(1), (2) and (3)
 
-## 647  Subsections 32A(3), (4) and (5)
+ Repeal the subsections.
 
-Repeal the subsections.
+559
+  Subsection 21(4)
 
-## 648  Section 33
+ Omit "A member who is a wine maker or a grape grower shall not be taken to have a pecuniary interest", substitute "For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member who is a winemaker or a grape grower is not taken to have a material personal interest".
 
-Repeal the section.
+<center>Back to Top</center>
 
-## 649  At the end of subsection 34(2)
+560
+  Subsection 31K(1)
 
-Add:
+ After "section", insert "and the _Commonwealth Authorities and Companies Act 1997_".
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Council. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+561
+  Section 35
 
-## 650  Section 37 and subsections 39(1), (2), (3) and (4)
+ Omit "Subject to section 36, the", substitute "The".
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+562
+  At the end of section 35
 
-## 651  Section 42
+ Add:
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-## 652  Section 43
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-Repeal the section, substitute:
+Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
 
-##### <a id="43"></a>43  Copy of annual report also to be given to State and Northern Territory Ministers and Auditors-General
+</dd> </dl></dl>
 
-                   As soon as practicable after the members of the Council give the Attorney-General the annual report on the Council for a financial year under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must give a copy of the report to:
+563
+  Section 36
 
-                     (a)  the appropriate Minister of each State and of the Northern Territory; and
+ Repeal the section.
 
-                     (b)  the Auditor-General of each State and of the Northern Territory.
+564
+  Subsections 38(1), (2) and (3)
 
-## 653  At the end of section 44
+ Repeal the subsections.
 
-Add:
+Note:	The heading to section 38 is replaced by the heading "Extra matters to be included in annual report".
 
-             (2)  The _Commonwealth Authorities and Companies Act 1997_ applies to the Fund as though the Fund were money of the Council.
+565
+  Subsection 38(4)
 
-## 654  Section 45
+ Omit "the Corporation of its operations", substitute "the members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ on the operations of the Corporation".
 
-Repeal the section.
+566
+  Section 38A
 
-## 655  At the end of section 47
+ Repeal the section.
 
-Add:
+567
+  Section 41
 
-             (3)  Surplus money of the Fund may be invested, in the name of the Council, under section 18 of the _Commonwealth Authorities and Companies Act 1997_, unless subsection (2) applies to the money and the conditions referred to in that subsection specify the manner in which the money is to be or may be invested. In that case, the money may only be invested in accordance with those conditions.
+ Repeal the section. 
 
-## 656  Sections 48 and 49
+_Australian Wool Research and Promotion Organisation Act 1993_
 
-Repeal the sections.
+568
+  At the end of subsection 5(2)
 
-<h9 class="ActHead9">Customs Act 1901</h9>
+ Add:
 
-## 657  Sections 183DA and 183DC and subsections 183J(1) and (4), 183K(1) and 183R(1)
+<dl compact=""><dl compact="">
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 658  Subsection 208DA(1) (definition of _Trust Fund_)
+applies to the Organisation. That Act deals with matters relating to
 
-Repeal the definition.
+Commonwealth authorities, including reporting and accountability, banking and
 
-## 659  Subsection 208DA(3)
+investment, and conduct of officers.
 
-Omit “Trust Fund” (wherever occurring), substitute “Confiscated Assets Reserve”.
+ </dl></dl>
 
-## 660  Subsection 243A(1) (definition of _Trust Fund_)
+569
+  Subsections 30(1) and (2)
 
-Repeal the definition.
+ Repeal the subsections.
 
-## 661  Subsections 243G(6) and (7)
+570
+  Subsection 30(3)
 
-Omit “Trust Fund” (wherever occurring), substitute “Confiscated Assets Reserve”.
+ Omit "A member", substitute "For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member".
 
-<h9 class="ActHead9">Dairy Produce Act 1986</h9>
+571
+  Subsection 30(3)
 
-## 662  Subsection 3(1) (definitions of _approved bank_ and _Corporation auditor_)
+ Omit "pecuniary", substitute "material personal".
+
+572
+  Paragraph 33(2)(c)
+
+ Omit "30", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+573
+  Paragraph 42(4)(c)
+
+ Omit "30", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+574
+  Subsection 56(2)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent the investment under section 19 of the
+
+_Commonwealth Authorities and Companies Act 1997_ of money in the Fund
+
+that is not immediately required for the purposes of the Organisation.
+
+</dd> </dl></dl>
+
+575
+  At the end of section 59
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Organisation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+576
+  Section 63
+
+ Repeal the section.
+
+577
+  Subsection 64(2)
+
+ Repeal the subsection.
+
+578
+  Section 65
+
+ Repeal the section.
+
+579
+  Part 9
+
+ Repeal the Part.
+
+580
+  At the end of section 68
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>This section does not affect the application of section 28 of the
+
+_Commonwealth Authorities and Companies Act 1997_ in relation to the
+
+Organisation.
+
+</dd> </dl></dl>
+
+581
+  Subsection 76(1)
+
+ Repeal the subsection.
+
+582
+  Subsection 76(2)
+
+ After "report", insert "on the Organisation under section 9 of the _Commonwealth Authorities and Companies Act 1997_".
+
+583
+  Subsections 76(3) and (4)
+
+ Repeal the subsections. 
+
+_Bankruptcy Act 1966_
+
+584
+  After section 18
+
+ Insert: 
+
+18AA
+  _Commonwealth Authorities and Companies Act 1997_ does not 
+apply to Official Trustee
+
+<dl compact=""><dl compact="">
+
+		The Official Trustee is not a Commonwealth authority for the purposes of the
+
+_Commonwealth Authorities and Companies Act 1997_.
+
+ </dl></dl>
+
+585
+  Section 20A (definition of _Equalization Account_)
+
+ Repeal the definition.
+
+586
+  Section 20A
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Equalization Reserve_ means the Common Investment Fund
+
+Equalization Reserve established by section 20G.
+
+ </dl></dl>
+
+587
+  Section 20G
+
+ Repeal the section, substitute: 
+
+20G
+  Common Investment Fund Equalization Reserve
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Common Investment Fund
+
+Equalization Reserve.</dd> <dt>(2)</dt><dd>The Equalization Reserve is a component of the Reserved Money Fund. </dd> </dl></dl>
+
+588
+  Subsections 20H(1) and (2)
+
+ Omit "Equalization Account", substitute "Consolidated Revenue Fund".
+
+Note:	The heading to section 20H is altered by omitting "Account" and substituting "Reserve".
+
+589
+  After subsection 20H(2)
+
+ Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(2A)</dt><dd>Whenever a payment is made into the Consolidated Revenue Fund under
+
+subsection (1) or (2), an equal amount must be transferred to the Equalization
+
+Reserve from the Consolidated Revenue Fund.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+590
+  Subsection 20H(3)
+
+ Omit "Account", substitute "Reserve".
+
+591
+  Subsection 20H(4)
+
+ Omit "Equalization Account", substitute "Equalization Reserve".
+
+592
+  Subsection 20H(4)
+
+ Omit "that Account" (wherever occurring), substitute "the Equalization Reserve".
+
+593
+  Subsection 20H(5)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>Whenever an amount required by subsection (3) to be paid out of the
+
+Equalization Reserve exceeds the amount standing to the credit of the
+
+Equalization Reserve, an amount equal to the excess must be transferred to the
+
+Equalization Reserve from the Consolidated Revenue Fund.
+
+</dd> </dl></dl>
+
+594
+  Subparagraph 40(1)(f)(ii)
+
+ Omit "Chairman", substitute "Chair".
+
+595
+  Section 139L (sub-subparagraph (b)(i)(A) of the definition of 
+_income_)
+
+Omit "Trust Account", substitute "Reserve".
+
+596
+  Section 257 and paragraph 258(a)
+
+ Omit "chairman" (wherever occurring), substitute "chair". 
+
+_Broadcasting Services Act 1992_
+
+597
+  At the end of subsection 154(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the ABA. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+598
+  Paragraph 160(b)
+
+ Omit "161", substitute "28 of the _Commonwealth Authorities and Companies Act 1997_".
+
+599
+  Section 161
+
+ Repeal the section.
+
+600
+  Clause 6 of Schedule 3
+
+ Repeal the clause.
+
+601
+  Paragraph 9(3)(e) of Schedule 3
+
+ Omit "6 or 7", substitute "7 of this Schedule or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+602
+  Clauses 13 and 14 of Schedule 3
+
+ Repeal the clauses.
+
+603
+  Subclause 16(1) of Schedule 3
+
+ Omit "Subject to subclause (2), money", substitute "Money".
+
+604
+  Subclause 16(2) of Schedule 3
+
+ Repeal the subclause, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subclause (1) does not prevent investment of surplus money of the ABA
+
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+_Child Support (Registration and Collection) Act 1988_
+
+605
+  Subsection 4(1) (definition of _Trust Account_)
+
+ Repeal the definition.
+
+606
+  Subsection 4(1)
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Reserve_ means the Child Support Reserve established by
+
+section&#160;73.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+607
+  Paragraph 53(c)
+
+ Omit "appropriated out of the Consolidated Revenue Fund", substitute "required to be transferred to the Reserve".
+
+608
+  Division 1 of Part VI (heading)
+
+ Omit "_Trust Account_", substitute "_Child Support Reserve_".
+
+609
+  Subsection 73(1)
+
+ Omit "An account", substitute "A reserve".
+
+610
+  Subsection 73(1)
+
+ Omit "Trust Account", substitute "Reserve".
+
+611
+  Subsection 73(2)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.
+
+</dd> </dl></dl>
+
+612
+  Subsection 74(1)
+
+ Omit "There shall be paid into the Trust Account", substitute "The following amounts must be transferred to the Reserve out of the Consolidated Revenue Fund".
+
+Note:	The heading to section 74 is altered by omitting "Trust Account" and substituting "Reserve".
+
+613
+  Paragraphs 74(1)(a), (b) and (c)
+
+ Before "amounts received", insert "amounts equal to".
+
+614
+  Paragraph 74(1)(c)
+
+ Omit "and".
+
+615
+  Paragraph 74(1)(d)
+
+ Repeal the paragraph.
+
+616
+  Subsection 74(2)
+
+ Omit "and pay that portion into the Trust Account", substitute "and only that portion is to be transferred to the Reserve under subsection (1)".
+
+617
+  Section 75
+
+ Omit "Trust Account" (wherever occurring), substitute "Reserve".
+
+Note:	The heading to section 75 is altered by omitting "Trust Account" and substituting "Reserve".
+
+618
+  Paragraph 75(d)
+
+ Omit "an appropriation has previously been required from that Fund", substitute "amounts have been transferred from the Consolidated Revenue Fund".
+
+619
+  Section 77
+
+ Omit "is payable into the Trust Account out of the Consolidated Revenue Fund, which is appropriated accordingly", substitute "must be transferred to the Reserve from the Consolidated Revenue Fund".
+
+620
+  Paragraph 78(3)(d)
+
+ Omit "is payable into the Trust Account out of the Consolidated Revenue Fund, which is appropriated accordingly", substitute "must be transferred to the Reserve from the Consolidated Revenue Fund". 
+
+_Civil Aviation Act 1988_
+
+621
+  At the end of subsection 8(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the CASA. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+_Coal Industry Act 1946_
+
+622
+  After section 6
+
+ Insert: 
+
+6A
+  _Commonwealth Authorities and Companies Act 1997_ does not 
+apply to Board
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+		The Board is not a Commonwealth authority for the purposes of the
+
+_Commonwealth Authorities and Companies Act 1997_.
+
+ </dl></dl>
+
+623
+  Section 28G
+
+ Repeal the section. 
+
+_Coal Mining Industry (Long Service Leave Funding) Act 1992_
+
+624
+  At the end of subsection 6(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Corporation. That Act deals with matters relating to
+
+Commonwealth authorities, including reporting and accountability, banking and
+
+investment, and conduct of officers.
+
+ </dl></dl>
+
+625
+  Subsection 20(3)
+
+ Omit "would, for the purposes of section 22, be taken to have an interest", substitute "has a material personal interest".
+
+626
+  Section 22
+
+ Repeal the section.
+
+627
+  Paragraph 28(2)(c)
+
+ Omit "22 or 27", substitute "27 of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+628
+  Section 30
+
+ Repeal the section.
+
+629
+  Subsection 39(1)
+
+ Repeal the subsection.
+
+630
+  Subsection 39(2)
+
+ Omit "Section 63E of the _Audit Act 1901_", substitute "Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_".
+
+Note:	The heading to section 39 is altered by omitting "Division 2 of Part XI of the Audit Act" and substituting "the Commonwealth Authorities and Companies Act".
+
+631
+  Subsection 39(3)
+
+ Repeal the subsection.
+
+632
+  Subsections 39(4) and (5)
+
+ Omit "Division 2 of Part XI of the _Audit Act 1901_ as that Division", substitute "the _Commonwealth Authorities and Companies Act 1997_ as that Act". 
+
+_Commonwealth Inscribed Stock Act 1911_
+
+633
+  Section 51F
+
+ Repeal the section.
+
+634
+  Section 53
+
+ Repeal the section. 
+
+_Commonwealth Places (Application of Laws) Act 1970_
+
+635
+  Section 21
+
+ Omit "_Audit Act 1901-1969_", substitute "_Financial Management and Accountability Act 1997_".
+
+Note:	The heading to section 21 is altered by omitting "Audit" and substituting "Financial Management and Accountability". 
+
+_Crimes Act 1914_
+
+636
+  Section 3 (definition of _Trust Fund_)
+
+ Repeal the definition.
+
+637
+  Paragraph 9A(c)
+
+ Omit "Trust Fund", substitute "Confiscated Assets Reserve".
+
+638
+  Paragraph 66(d)
+
+ Omit "chairman", substitute "chair". 
+<center>Back to Top</center>
+
+_Criminology Research Act 1971_
+
+639
+  Section 4 (definition of _approved bank_)
+
+ Repeal the definition.
+
+640
+  At the end of subsection 5(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Institute. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+641
+  Section 12 and subsections 13(2) and 14(1), (2), (3) and 
+(4)
+
+Omit "Chairman" (wherever occurring), substitute "Chair".
+
+642
+  Sections 28A and 30
+
+ Repeal the sections.
+
+643
+  At the end of section 31
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+644
+  Section 32
+
+ Repeal the section.
+
+645
+  Subsection 32A(1)
+
+ Omit "opened and maintained pursuant to section 30 that does not, or accounts referred to in that section that do not,", substitute "maintained under section 18 of the _Commonwealth Authorities and Companies Act 1997_ that does not".
+
+646
+  Subsection 32A(2)
+
+ After "Division", insert "or any provision of the _Commonwealth Authorities and Companies Act 1997_".
+
+647
+  Subsections 32A(3), (4) and (5)
+
+ Repeal the subsections.
+
+648
+  Section 33
+
+ Repeal the section.
+
+649
+  At the end of subsection 34(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Council. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+650
+  Section 37 and subsections 39(1), (2), (3) and (4)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+651
+  Section 42
+
+ Repeal the section.
+
+652
+  Section 43
+
+ Repeal the section, substitute: 
+
+43
+  Copy of annual report also to be given to State and Northern 
+Territory Ministers and Auditors-General
+
+<dl compact=""><dl compact="">
+
+		As soon as practicable after the members of the Council give the
+
+Attorney-General the annual report on the Council for a financial year under
+
+section 9 of the _Commonwealth Authorities and Companies Act 1997_, the
+
+members must give a copy of the report to:
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the appropriate Minister of each State and of the Northern Territory;
+
+and</dd>
+
+<dt>(b)</dt><dd>the Auditor-General of each State and of the Northern Territory.
+
+</dd>
+
+</dl></dl></dl>
+
+653
+  At the end of section 44
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ applies to the
+
+Fund as though the Fund were money of the Council.
+
+</dd> </dl></dl>
+
+654
+  Section 45
+
+ Repeal the section.
+
+655
+  At the end of section 47
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Surplus money of the Fund may be invested, in the name of the Council,
+
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_,
+
+unless subsection (2) applies to the money and the conditions referred to in
+
+that subsection specify the manner in which the money is to be or may be
+
+invested. In that case, the money may only be invested in accordance with those
+
+conditions.
+
+</dd> </dl></dl>
+
+656
+  Sections 48 and 49
+
+ Repeal the sections. 
+
+_Customs Act 1901_
+
+657
+  Sections 183DA and 183DC and subsections 183J(1) and (4), 183K(1) 
+and 183R(1)
+
+Omit "Chairman" (wherever occurring), substitute "Chair".
+
+658
+  Subsection 208DA(1) (definition of _Trust Fund_)
+
+ Repeal the definition.
+
+659
+  Subsection 208DA(3)
+
+ Omit "Trust Fund" (wherever occurring), substitute "Confiscated Assets Reserve".
+
+660
+  Subsection 243A(1) (definition of _Trust Fund_)
+
+ Repeal the definition.
+
+661
+  Subsections 243G(6) and (7)
+
+ Omit "Trust Fund" (wherever occurring), substitute "Confiscated Assets Reserve". 
+
+_Dairy Produce Act 1986_
+
+662
+  Subsection 3(1) (definitions of _approved bank_ and 
+_Corporation auditor_)
 
 Repeal the definitions.
 
-## 663  Subsection 3(1)
+663
+  Subsection 3(1)
 
-Insert:
+ Insert:
 
-                    <a name="annual-report"></a>**_annual report_** means an annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
+<def><dl compact=""><dl compact="">
 
-## 664  Subsection 3(2)
+_annual report_ means an annual report on the Corporation under
 
-Repeal the subsection.
+section 9 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 665  At the end of section 3
+ </dl></dl>
 
-Add:
+664
+  Subsection 3(2)
 
-Note:          For the manner in which the Chairperson and Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+ Repeal the subsection.
 
-## 666  At the end of subsection 5(2)
+665
+  At the end of section 3
 
-Add:
+ Add:
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<dl compact=""><dl compact="">
 
-## 667  Paragraph 12(2)(f)
+Note:	For the manner in which the Chairperson and Deputy
 
-Omit “Corporation auditor” (wherever occurring), substitute “Auditor-General”.
+Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
-## 668  After subsection 12(9)
+ </dl></dl>
 
-Insert:
+666
+  At the end of subsection 5(2)
 
-          (9A)  Asia Dairy Industries (H.K.) Limited is not to be taken to be a subsidiary of the Corporation for the purposes of section 29 of the _Commonwealth Authorities and Companies Act 1997_.
+<center>Back to Top</center>
 
-## 669  Section 16
+ Add:
 
-Omit “laid before each House of the Parliament under subsection 123(4)”, substitute “tabled in each House of the Parliament under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dl compact=""><dl compact="">
 
-## 670  Section 35
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Repeal the section, substitute:
+applies to the Corporation. That Act deals with matters relating to
 
-##### <a id="35"></a>35  Situations that do not amount to interests requiring disclosure
+Commonwealth authorities, including reporting and accountability, banking and
 
-                   For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal interest in a matter being considered or about to be considered by the Corporation merely because the member is a dairy farmer or manufacturer of dairy produce.
+investment, and conduct of officers.
 
-## 671  Paragraph 38(3)(c)
+ </dl></dl>
 
-Omit “35”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+667
+  Paragraph 12(2)(f)
 
-## 672  At the end of section 40
+ Omit "Corporation auditor" (wherever occurring), substitute "Auditor-General".
 
-Add:
+668
+  After subsection 12(9)
 
-             (3)  A member who has a material personal interest in a matter being considered or about to be considered by the Corporation under this section, being an interest that could conflict with the proper performance of the member’s functions in relation to the consideration of the matter, must not sign a document under this section.
+ Insert:
 
-## 673  At the end of section 46
+<dl compact=""><dl compact="">
 
-Add:
+<dt>(9A)</dt><dd>Asia Dairy Industries (H.K.) Limited is not to be taken to be a
 
-             (2)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ applies in relation to the Selection Committee as if the Selection Committee were a Commonwealth authority (as defined in that Act).
+subsidiary of the Corporation for the purposes of section 29 of the
 
-## 674  Paragraph 47(4)(d)
+_Commonwealth Authorities and Companies Act 1997_.
 
-Omit “35”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+</dd> </dl></dl>
 
-## 675  Sections 72 and 73
+669
+  Section 16
 
-Repeal the sections.
+ Omit "laid before each House of the Parliament under subsection 123(4)", substitute "tabled in each House of the Parliament under section&#160;9 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 676  Subsections 74(2) and (3)
+670
+  Section 35
 
-Repeal the subsections, substitute:
+ Repeal the section, substitute: 
 
-             (2)  Money of the Corporation not immediately required for the purpose of the Corporation may be lent to a relevant fund for the purpose of meeting a temporary deficit in the fund.
+35
+  Situations that do not amount to interests requiring 
+disclosure
 
-## 677  At the end of section 74
+<dl compact=""><dl compact="">
 
-Add:
+		For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal
 
-             (3)  This section does not prevent investment of surplus money of the Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+interest in a matter being considered or about to be considered by the
 
-## 678  Subsection 80(4)
+Corporation merely because the member is a dairy farmer or manufacturer of
 
-Omit “section 73”, substitute “subsection 19(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+dairy produce.
 
-## 679  Sections 81 and 82
+ </dl></dl>
 
-Repeal the sections.
+671
+  Paragraph 38(3)(c)
 
-## 680  Section 85
+ Omit "35", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the section, substitute:
+672
+  At the end of section 40
 
-##### <a id="85"></a>85  Investment of money standing to credit of a relevant fund
+ Add:
 
-                   Money standing to the credit of a relevant fund may be invested:
+<dl compact=""><dl compact="">
 
-                     (a)  by way of a loan to another relevant fund for the purposes of meeting a temporary deficit in that fund; or
+<dt>(3)</dt><dd>A member who has a material personal interest in a matter being considered
 
-                     (b)  under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+or about to be considered by the Corporation under this section, being an
 
-## 681  At the end of section 86
+interest that could conflict with the proper performance of the member's
 
-Add:
+functions in relation to the consideration of the matter, must not sign a
 
-             (3)  The _Commonwealth Authorities and Companies Act 1997_ applies to the Fund as though the Fund were money of the Corporation.
+document under this section.
 
-## 682  Paragraphs 87(c) and 88(1)(j)
+</dd> </dl></dl>
 
-Omit “paragraph 74(2)(b)”, substitute “subsection 74(2)”.
+673
+  At the end of section 46
 
-## 683  Paragraph 88(1)(m)
+ Add:
 
-Omit “Chairman”, substitute “Chair”.
+<dl compact=""><dl compact="">
 
-## 684  At the end of section 89
+<dt>(2)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_
 
-Add:
+applies in relation to the Selection Committee as if the Selection Committee
 
-             (3)  The _Commonwealth Authorities and Companies Act 1997_ applies to the Fund as though the Fund were money of the Corporation.
+were a Commonwealth authority (as defined in that Act).
 
-## 685  Paragraphs 90(2)(d) and 91(1)(d)
+</dd> </dl></dl>
 
-Omit “paragraph 74(2)(b)”, substitute “subsection 74(2)”.
+674
+  Paragraph 47(4)(d)
 
-## 686  After subsection 92(2)
+ Omit "35", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Insert:
+675
+  Sections 72 and 73
 
-             (3)  The _Commonwealth Authorities and Companies Act 1997_ applies to the Fund as though the Fund were money of the Corporation.
+ Repeal the sections.
 
-## 687  Paragraph 101(g)
+676
+  Subsections 74(2) and (3)
 
-Omit “paragraph 74(2)(b)”, substitute “subsection 74(2)”.
+ Repeal the subsections, substitute:
 
-## 688  At the end of section 104
+<dl compact=""><dl compact="">
 
-Add:
+<dt>(2)</dt><dd>Money of the Corporation not immediately required for the purpose of the
 
-             (3)  The _Commonwealth Authorities and Companies Act 1997_ applies to the Fund as though the Fund were money of the Corporation.
+Corporation may be lent to a relevant fund for the purpose of meeting a
 
-## 689  Paragraph 106(h)
+temporary deficit in the fund.
 
-Omit “paragraph 74(2)(b)”, substitute “subsection 74(2)”.
+</dd> </dl></dl>
 
-## 690  Subsection 108G(3)
+<center>Back to Top</center>
 
-Omit “section 73”, substitute “subsection 19(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+677
+  At the end of section 74
 
-## 691  Section 122
+ Add:
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-## 692  Subsections 123(1) and (2)
+<dt>(3)</dt><dd>This section does not prevent investment of surplus money of the
 
-Repeal the subsections.
+Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 693  Subsection 123(3)
+</dd> </dl></dl>
 
-Omit “Without limiting, by implication, the generality of subsection (1), the Corporation shall include in each annual report referred to in that subsection:”, substitute “The annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:”.
+678
+  Subsection 80(4)
 
-_Note:      The heading to section 123 is replaced by the heading “Extra matters to be included in annual report”._
+ Omit "section 73", substitute "subsection 19(2) of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 694  Subsection 123(4)
+679
+  Sections 81 and 82
 
-Repeal the subsection.
+ Repeal the sections.
 
-## 695  Section 124
+680
+  Section 85
 
-Omit “The”, substitute “Subject to the provisions of the _Commonwealth Authorities and Companies Act 1997_, the”.
+ Repeal the section, substitute: 
 
-<h9 class="ActHead9">Defence Housing Authority Act 1987</h9>
+85
+  Investment of money standing to credit of a relevant 
+fund
 
-## 696  Subsection 3(1) (definitions of _authorised auditor_ and _financial statements_)
+<dl compact=""><dl compact="">
+
+		Money standing to the credit of a relevant fund may be invested:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>by way of a loan to another relevant fund for the purposes of meeting a
+
+temporary deficit in that fund; or</dd>
+
+<dt>(b)</dt><dd>under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd>
+
+</dl></dl></dl>
+
+681
+  At the end of section 86
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ applies to the
+
+Fund as though the Fund were money of the Corporation.
+
+</dd> </dl></dl>
+
+682
+  Paragraphs 87(c) and 88(1)(j)
+
+ Omit "paragraph 74(2)(b)", substitute "subsection 74(2)".
+
+683
+  Paragraph 88(1)(m)
+
+ Omit "Chairman", substitute "Chair".
+
+684
+  At the end of section 89
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ applies to the
+
+Fund as though the Fund were money of the Corporation.
+
+</dd> </dl></dl>
+
+685
+  Paragraphs 90(2)(d) and 91(1)(d)
+
+ Omit "paragraph 74(2)(b)", substitute "subsection 74(2)".
+
+686
+  After subsection 92(2)
+
+ Insert:
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ applies to the
+
+Fund as though the Fund were money of the Corporation.
+
+</dd> </dl></dl>
+
+687
+  Paragraph 101(g)
+
+ Omit "paragraph 74(2)(b)", substitute "subsection 74(2)".
+
+688
+  At the end of section 104
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ applies to the
+
+Fund as though the Fund were money of the Corporation.
+
+</dd> </dl></dl>
+
+689
+  Paragraph 106(h)
+
+<center>Back to Top</center>
+
+ Omit "paragraph 74(2)(b)", substitute "subsection 74(2)".
+
+690
+  Subsection 108G(3)
+
+ Omit "section 73", substitute "subsection 19(2) of the _Commonwealth Authorities and Companies Act 1997_".
+
+691
+  Section 122
+
+ Repeal the section.
+
+692
+  Subsections 123(1) and (2)
+
+ Repeal the subsections.
+
+693
+  Subsection 123(3)
+
+ Omit "Without limiting, by implication, the generality of subsection (1), the Corporation shall include in each annual report referred to in that subsection:", substitute "The annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:".
+
+Note:	The heading to section 123 is replaced by the heading "Extra matters to be included in annual report".
+
+694
+  Subsection 123(4)
+
+ Repeal the subsection.
+
+695
+  Section 124
+
+ Omit "The", substitute "Subject to the provisions of the _Commonwealth Authorities and Companies Act 1997_, the". 
+
+_Defence Housing Authority Act 1987_
+
+696
+  Subsection 3(1) (definitions of _authorised auditor_ and 
+_financial statements_)
 
 Repeal the definitions.
 
-## 697  At the end of section 8
+697
+  At the end of section 8
 
-Add:
+ Add:
 
-             (9)  Section 29 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Authority.
+<dl compact=""><dl compact="">
 
-## 698  At the end of subsection 11(1)
+<dt>(9)</dt><dd>Section 29 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Authority.
 
-Add:
+</dd> </dl></dl>
 
-Note:          Subject to subsection 8(9), the _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+698
+  At the end of subsection 11(1)
 
-## 699  Subsections 20(1), (2) and (3)
+ Add:
 
-Repeal the subsections.
+<dl compact=""><dl compact="">
 
-## 700  Subsection 20(4)
+Note:	Subject to subsection 8(9), the _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with
 
-Omit “A member shall not be taken to have a pecuniary”, substitute “For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal”.
+matters relating to Commonwealth authorities, including reporting and
 
-## 701  Paragraph 21(2)(b)
+accountability, banking and investment, and conduct of officers.
 
-Omit “20”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ </dl></dl>
 
-## 702  Subsection 26(6)
+699
+  Subsections 20(1), (2) and (3)
 
-Repeal the subsection, substitute:
+ Repeal the subsections.
 
-             (6)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ applies to members of a committee as if:
+700
+  Subsection 20(4)
 
-                     (a)  the committee were a Commonwealth authority; and
+ Omit "A member shall not be taken to have a pecuniary", substitute "For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal".
 
-                     (b)  the members of the committee were directors of a Commonwealth authority; and
+701
+  Paragraph 21(2)(b)
 
-                     (c)  a member of the committee did not have a material personal interest in a matter only because the member is the tenant of a house rented from the Authority.
+ Omit "20", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 703  Section 27
+702
+  Subsection 26(6)
 
-Repeal the section.
+ Repeal the subsection, substitute:
 
-## 704  Subsection 28(1)
+<dl compact=""><dl compact="">
 
-Repeal the subsection.
+<dt>(6)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_
 
-_Note:       The heading to section 28 is altered by omitting “plans” and substituting “targets to be included in corporate plan”._
+applies to members of a committee as if:
 
-## 705  Subsection 28(2)
+</dd> </dl></dl>
 
-Omit “, the Authority shall”, substitute “to be included in the Authority’s corporate plan under section 17 of the _Commonwealth Authorities and Companies Act 1997_, the members must”.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 706  Subsection 28(3)
+<dt>(a)</dt><dd>the committee were a Commonwealth authority; and</dd>
 
-Repeal the subsection.
+<dt>(b)</dt><dd>the members of the committee were directors of a Commonwealth authority;
 
-## 707  Section 29
+and</dd>
 
-Repeal the section.
+<dt>(c)</dt><dd>a member of the committee did not have a material personal interest in a
 
-## 708  Sections 43 and 44
+matter only because the member is the tenant of a house rented from the
 
-Repeal the sections.
+Authority.
 
-<h9 class="ActHead9">Defence Service Homes Act 1918</h9>
+</dd>
 
-## 709  Subsection 40(1)
+</dl></dl></dl>
 
-Repeal the subsection, substitute:
+<center>Back to Top</center>
 
-             (1)  This subsection establishes a reserve called the Defence Service Homes Insurance Reserve.
+703
+  Section 27
 
-          (1A)  The Reserve is a component of the Reserved Money Fund.
+ Repeal the section.
 
-_Note:       The heading to section 40 is altered by omitting “Trust Account” and substituting “Reserve”._
+704
+  Subsection 28(1)
 
-## 710  Subsection 40(2)
+ Repeal the subsection.
 
-Omit “To that Trust Account there must be credited”, substitute “There must be transferred to the Reserve from the Consolidated Revenue Fund amounts equal to”.
+Note:	The heading to section 28 is altered by omitting "plans" and substituting "targets to be included in corporate plan".
 
-## 711  Subsection 40(3)
+705
+  Subsection 28(2)
 
-Omit “that Trust Account”, substitute “the Reserve”.
+ Omit ", the Authority shall", substitute "to be included in the Authority's corporate plan under section 17 of the _Commonwealth Authorities and Companies Act 1997_, the members must".
 
-## 712  Subsection 40A(1)
+706
+  Subsection 28(3)
 
-Omit “there shall be paid to the Defence Service Homes Insurance Trust Account”, substitute “there must be transferred to the Defence Service Homes Insurance Reserve from the Consolidated Revenue Fund”.
+ Repeal the subsection.
 
-_Note:       The heading to section 40A is altered by omitting “Trust Account” and substituting “Reserve”._
+707
+  Section 29
 
-## 713  Subsection 40A(1)
+ Repeal the section.
 
-Omit “that Account”, substitute “the Reserve”.
+708
+  Sections 43 and 44
 
-## 714  Subsection 40A(2)
+ Repeal the sections. 
 
-Repeal the subsection, substitute:
+_Defence Service Homes Act 1918_
 
-             (2)  If interest is received by the Commonwealth from the investment of money from the Defence Service Homes Insurance Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund.
+709
+  Subsection 40(1)
 
-## 715  Subsection 40A(3)
+ Repeal the subsection, substitute:
 
-Repeal the subsection.
+<dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Dried Sultana Production Underwriting Act 1982</h9>
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Defence Service Homes
 
-## 716  Subsection 3(1) (definition of _Audit Act_)
+Insurance Reserve.</dd> <dt>(1A)</dt><dd>The Reserve is a component of the Reserved Money Fund. </dd> </dl></dl>
 
-Repeal the definition.
+Note:	The heading to section 40 is altered by omitting "Trust Account" and substituting "Reserve".
 
-## 717  Subsection 12(4)
+710
+  Subsection 40(2)
 
-Omit “Audit Act”, substitute “_Financial Management and Accountability Act 1997_”.
+ Omit "To that Trust Account there must be credited", substitute "There must be transferred to the Reserve from the Consolidated Revenue Fund amounts equal to".
 
-## 718  Subsection 13(2)
+711
+  Subsection 40(3)
 
-Omit “Audit Act”, substitute “_Financial Management and Accountability Act 1997_”.
+ Omit "that Trust Account", substitute "the Reserve".
 
-<h9 class="ActHead9">Dried Vine Fruits Equalization Act 1978</h9>
+712
+  Subsection 40A(1)
 
-## 719  Subsection 9(1)
+ Omit "there shall be paid to the Defence Service Homes Insurance Trust Account", substitute "there must be transferred to the Defence Service Homes Insurance Reserve from the Consolidated Revenue Fund".
 
-Omit “the Corporation”, substitute “the Australian Dried Fruits Board”.
+Note:	The heading to section 40A is altered by omitting "Trust Account" and substituting "Reserve".
 
-## 720  Paragraph 9(1)(a)
+713
+  Subsection 40A(1)
 
-Omit “an approved bank”, substitute “a bank”.
+ Omit "that Account", substitute "the Reserve".
 
-## 721  Subsection 9(2)
+714
+  Subsection 40A(2)
 
-Repeal the subsection, substitute:
+ Repeal the subsection, substitute:
 
-             (2)  In this section:
+<dl compact=""><dl compact="">
 
-                    <a name="bank"></a>**_bank_** has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
+<dt>(2)</dt><dd>If interest is received by the Commonwealth from the investment of money
 
-<h9 class="ActHead9">Dried Vine Fruits Stabilization Legislation Repeal Act 1981</h9>
+from the Defence Service Homes Insurance Reserve, an amount equal to the
 
-## 722  Subsection 8(4)
+interest must be transferred to the Reserve from the Consolidated Revenue Fund.
 
-Omit “_Audit Act 1901_”, substitute “_Financial Management and Accountability Act 1997_”.
+</dd> </dl></dl>
 
-## 723  Subsection 9(2)
+715
+  Subsection 40A(3)
 
-Omit “_Audit Act 1901_”, substitute “_Financial Management and Accountability Act 1997_”.
+ Repeal the subsection. 
 
-<h9 class="ActHead9">Employment Services Act 1994</h9>
+_Dried Sultana Production Underwriting Act 1982_
 
-## 724  At the end of subsection 68(2)
+716
+  Subsection 3(1) (definition of _Audit Act_)
 
-Add:
+ Repeal the definition.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to ESRA. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+717
+  Subsection 12(4)
 
-## 725  Sections 72 and 73
+ Omit "Audit Act", substitute "_Financial Management and Accountability Act 1997_".
 
-Repeal the sections.
+718
+  Subsection 13(2)
 
-## 726  Subsections 85(1) and (2)
+ Omit "Audit Act", substitute "_Financial Management and Accountability Act 1997_". 
 
-Repeal the subsections.
+_Dried Vine Fruits Equalization Act 1978_
 
-## 727  Subsection 85(3)
+<center>Back to Top</center>
 
-Omit “direct or indirect pecuniary interests”, substitute “material personal interests”.
+719
+  Subsection 9(1)
 
-_Note:       The heading to section 85 is replaced by the heading “Minister to be notified of material personal interests”._
+ Omit "the Corporation", substitute "the Australian Dried Fruits Board".
 
-## 728  Paragraph 87(2)(e)
+720
+  Paragraph 9(1)(a)
 
-Omit “section 85 (which deals with conflict of interest)”, substitute “section 85 of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_ (these sections deal with disclosure of interests)”.
+ Omit "an approved bank", substitute "a bank".
 
-## 729  Paragraph 89(3)(a)
+721
+  Subsection 9(2)
 
-Omit “85”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the subsection, substitute:
 
-## 730  Section 105
+<dl compact=""><dl compact="">
 
-Repeal the section.
+<dt>(2)</dt><dd>In this section:
 
-## 731  Paragraph 106(c)
+</dd> </dl></dl>
 
-Omit “section 108”, substitute “subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+<def><dl compact=""><dl compact="">
 
-## 732  Section 107
+_bank_ has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
 
-Repeal the section, substitute:
+ </dl></dl>
 
-##### <a id="107"></a>107  Extra matters to be included in annual report
+_Dried Vine Fruits Stabilization Legislation Repeal Act 1981_
 
-                   The annual report on ESRA under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:
+722
+  Subsection 8(4)
 
-                     (a)  particulars of any directions given by the Minister under section 71 during the financial year; and
+ Omit "_Audit Act 1901_", substitute "_Financial Management and Accountability Act 1997_".
 
-                     (b)  such additional information (if any) as is specified in the regulations.
+723
+  Subsection 9(2)
 
-## 733  Section 108
+ Omit "_Audit Act 1901_", substitute "_Financial Management and Accountability Act 1997_". 
 
-Repeal the section.
+_Employment Services Act 1994_
 
-<h9 class="ActHead9">Endangered Species Protection Act 1992</h9>
+724
+  At the end of subsection 68(2)
 
-## 734  Section 49
+ Add:
 
-Omit “prepared under section 52 of the _National Parks and Wildlife Conservation Act 1975_”, substitute “the Director prepares under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Excise Act 1901</h9>
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 735  Subsection 165A(11)
+applies to ESRA. That Act deals with matters relating to Commonwealth
 
-Omit “section 70C of the _Audit Act 1901_”, substitute “section 34 of the _Financial Management and Accountability Act 1997_”.
+authorities, including reporting and accountability, banking and investment,
 
-<h9 class="ActHead9">Export Finance and Insurance Corporation Act 1991</h9>
+and conduct of officers.
 
-## 736  At the end of subsection 6(2)
+ </dl></dl>
 
-Add:
+725
+  Sections 72 and 73
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to EFIC. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Repeal the sections.
 
-## 737  At the end of subsection 11(2)
+726
+  Subsections 85(1) and (2)
 
-Add:
+ Repeal the subsections.
 
-Note:          Subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_ also gives EFIC the power to invest its surplus money.
+727
+  Subsection 85(3)
 
-## 738  Paragraph 42(3)(c)
+ Omit "direct or indirect pecuniary interests", substitute "material personal interests".
 
-Omit “45”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+Note:	The heading to section 85 is replaced by the heading "Minister to be notified of material personal interests".
 
-## 739  Section 45
+728
+  Paragraph 87(2)(e)
 
-Repeal the section.
+ Omit "section 85 (which deals with conflict of interest)", substitute "section 85 of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_ (these sections deal with disclosure of interests)".
 
-## 740  Subsection 46(3)
+729
+  Paragraph 89(3)(a)
 
-Omit “direct or indirect pecuniary”, substitute “material personal”.
+ Omit "85", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 741  Section 48
+730
+  Section 105
 
-Repeal the section.
+ Repeal the section.
 
-## 742  Subsection 49(1)
+731
+  Paragraph 106(c)
 
-Repeal the subsection.
+ Omit "section 108", substitute "subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 743  Subsection 49(2)
+732
+  Section 107
 
-After “financial target” insert “to be included in a corporate plan”.
+ Repeal the section, substitute: 
 
-## 744  At the end of subsection 49(2)
+107
+  Extra matters to be included in annual report
 
-Add:
+ <dl compact=""><dl compact="">
 
-Note:          Section 17 of the _Commonwealth Authorities and Companies Act 1997_ requires the members to prepare corporate plans for EFIC.
+		The annual report on ESRA under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:
 
-## 745  Sections 50 and 51
+ </dl></dl>
 
-Repeal the sections.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 746  Section 57
+<dt>(a)</dt><dd>particulars of any directions given by the Minister under section 71
 
-Repeal the section.
+during the financial year; and</dd>
 
-## 747  Subsection 70(1)
+<dt>(b)</dt><dd>such additional information (if any) as is specified in the regulations.
 
-Repeal the subsection.
+</dd>
 
-_Note:       The heading to section 70 is replaced by the heading “Extra matters to be included in annual report”._
+</dl></dl></dl>
 
-## 748  Subsection 70(2)
+<center>Back to Top</center>
 
-Omit “EFIC is required, in the financial statements prepared in respect of each financial year for the purpose of section 63H of the _Audit Act 1901_ (as it applies by virtue of subsection (1)), to”, substitute “In each report on EFIC under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must”.
+733
+  Section 108
 
-## 749  Subsection 85(1)
+ Repeal the section. 
 
-Repeal the subsection.
+_Endangered Species Protection Act 1992_
 
-## 750  Section 86
+734
+  Section 49
 
-Repeal the section.
+ Omit "prepared under section 52 of the _National Parks and Wildlife Conservation Act 1975_", substitute "the Director prepares under section&#160;9 of the _Commonwealth Authorities and Companies Act 1997_". 
 
-<h9 class="ActHead9">Family Law Act 1975</h9>
+_Excise Act 1901_
 
-## 751  Sections 38S, 38T and 38U
+735
+  Subsection 165A(11)
 
-Repeal the sections, substitute:
+ Omit "section 70C of the _Audit Act 1901_", substitute "section 34 of the _Financial Management and Accountability Act 1997_". 
 
-##### <a id="38S"></a>38S  Annual report
+_Export Finance and Insurance Corporation Act 1991_
 
-             (1)  As soon as practicable after 30 June in each year, the Chief Judge must prepare and give to the Attorney-General a report of the management of the administrative affairs of the Court during the year.
+736
+  At the end of subsection 6(2)
 
-             (2)  The report must include:
+ Add:
 
-                     (a)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and
+<dl compact=""><dl compact="">
 
-                     (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-             (3)  The Attorney-General must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
+applies to EFIC. That Act deals with matters relating to Commonwealth
 
-## 752  Subsection 114B(4)
+authorities, including reporting and accountability, banking and investment,
 
-Omit “by the Institute under section 63M of the _Audit Act 1901_, as that section applies to the Institute by virtue of section 114N of this Act, shall”, substitute “on the Institute under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must”.
+and conduct of officers.
 
-## 753  At the end of subsection 114BA(1)
+ </dl></dl>
 
-Add:
+737
+  At the end of subsection 11(2)
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Institute. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Add:
 
-## 754  Paragraphs 114J(2)(a) and (c)
+<dl compact=""><dl compact="">
 
-Add at the end “or”.
+Note:	Subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_ also gives EFIC the power to invest its surplus money.
 
-## 755  After paragraph 114J(2)(c)
+ </dl></dl>
 
-Insert:
+738
+  Paragraph 42(3)(c)
 
-                     (d)  without reasonable excuse contravenes section 21 of the _Commonwealth Authorities and Companies Act 1997_;”.
+ Omit "45", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 756  Section 114MB
+739
+  Section 45
 
-Repeal the section.
+ Repeal the section.
 
-## 757  At the end of section 114MD
+740
+  Subsection 46(3)
 
-Add:
+ Omit "direct or indirect pecuniary", substitute "material personal".
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+741
+  Section 48
 
-## 758  Section 114ME
+ Repeal the section.
 
-Repeal the section.
+742
+  Subsection 49(1)
 
-## 759  Section 114N
+ Repeal the subsection.
 
-Repeal the section.
+743
+  Subsection 49(2)
 
-<h9 class="ActHead9">Federal Airports Corporation Act 1986</h9>
+ After "financial target" insert "to be included in a corporate plan".
 
-## 760  Subsection 3(1) (definition of _Corporate plan_)
+744
+  At the end of subsection 49(2)
 
-Repeal the definition.
+ Add:
 
-## 761  Subsection 3(1) (definition of _financial plan_)
+<dl compact=""><dl compact="">
 
-Repeal the definition.
+Note:	Section 17 of the _Commonwealth Authorities and Companies Act 1997_ requires the members to prepare corporate plans for EFIC.
 
-## 762  Subsection 3(1)
+ </dl></dl>
 
-Insert:
+745
+  Sections 50 and 51
 
-                    <a name="annual-report"></a>**_annual report_** means an annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
+ Repeal the sections.
 
-## 763  Subsection 3(1)
+746
+  Section 57
 
-Insert:
+ Repeal the section.
 
-                    <a name="corpor-plan"></a>**_corporate plan_** means a corporate plan for the Corporation under section 17 of the _Commonwealth Authorities and Companies Act 1997_.
+747
+  Subsection 70(1)
 
-## 764  Subsection 3(2)
+ Repeal the subsection.
 
-Repeal the subsection, substitute:
+Note:	The heading to section 70 is replaced by the heading "Extra matters to be included in annual report".
 
-             (2)  For the purposes of this Act:
+748
+  Subsection 70(2)
 
-                     (a)  the Acting Chair may be referred to as the Acting Chair, Acting Chairperson, Acting Chairman or Acting Chairwoman or by any other such term as the person occupying the office so chooses; and
+ Omit "EFIC is required, in the financial statements prepared in respect of each financial year for the purpose of section 63H of the _Audit Act 1901_ (as it applies by virtue of subsection (1)), to", substitute "In each report on EFIC under section 9 of the _Commonwealth Authorities and Companies Act Back to Top 1997_, the members must".
 
-                     (b)  the Acting Deputy Chair may be referred to as the Acting Deputy Chair, Acting Deputy  Chairperson, Acting Deputy Chairman or Acting Deputy Chairwoman or by any other such term as the person occupying the office so chooses.
+749
+  Subsection 85(1)
 
-          (2A)  If a person occupying either of the offices mentioned in subsection (2) does not make known his or her choice of term, the person may be referred to by whichever of the following terms that a person addressing that person considers appropriate, as the case requires:
+ Repeal the subsection.
 
-                     (a)  Acting Chair or Acting Deputy Chair;
+750
+  Section 86
 
-                     (b)  Acting Chairperson or Acting Deputy Chairperson;
+ Repeal the section. 
 
-                     (c)  Acting Chairman or Acting Deputy Chairman;
+_Family Law Act 1975_
 
-                     (d)  Acting Chairwoman or Acting Deputy Chairwoman.
+751
+  Sections 38S, 38T and 38U
 
-Note:          For the manner in which the Chairperson and Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+ Repeal the sections, substitute: 
 
-## 765  At the end of subsection 5(2)
+38S
+  Annual report
 
-Add:
+ <dl compact=""><dl compact="">
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<dt>(1)</dt><dd>As soon as practicable after 30 June in each year, the Chief Judge must
 
-## 766  Sections 10 and 11
+prepare and give to the Attorney-General a report of the management of the
 
-Repeal the sections.
+administrative affairs of the Court during the year.</dd> <dt>(2)</dt><dd>The report must include: </dd> </dl></dl>
 
-## 767  Paragraph 19(2)(d)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “20”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(a)</dt><dd>the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and</dd>
 
-## 768  Subsection 19(2C)
+<dt>(b)</dt><dd>an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
 
-Repeal the subsection, substitute:
+</dd>
 
-          (2C)  If the Minister is of the opinion that:
+</dl></dl></dl>
 
-                     (a)  the Board has failed to comply with section 42B; or
+<dl compact=""><dl compact="">
 
-                     (b)  the members have failed to comply with:
+<dt>(3)</dt><dd>The Attorney-General must cause a copy of the report to be tabled in each
 
-                              (i)  subsection 13(2), 15(1) or 17(5) of the _Commonwealth Authorities and Companies Act 1997_; or
+House of the Parliament as soon as practicable.
 
-                             (ii)  paragraph 16(1)(a) or (b) or the _Commonwealth Authorities and Companies Act 1997_;
+</dd> </dl></dl>
+
+752
+  Subsection 114B(4)
+
+ Omit "by the Institute under section 63M of the _Audit Act 1901_, as that section applies to the Institute by virtue of section 114N of this Act, shall", substitute "on the Institute under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must".
+
+753
+  At the end of subsection 114BA(1)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Institute. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+754
+  Paragraphs 114J(2)(a) and (c)
+
+ Add at the end "or".
+
+755
+  After paragraph 114J(2)(c)
+
+ Insert:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(d)</dt><dd>without reasonable excuse contravenes section 21 of the _Commonwealth Authorities and Companies Act 1997_;".
+
+</dd>
+
+</dl></dl></dl>
+
+756
+  Section 114MB
+
+ Repeal the section.
+
+757
+  At the end of section 114MD
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+758
+  Section 114ME
+
+ Repeal the section.
+
+759
+  Section 114N
+
+ Repeal the section. 
+
+<center>Back to Top</center>
+
+_Federal Airports Corporation Act 1986_
+
+760
+  Subsection 3(1) (definition of _Corporate plan_)
+
+ Repeal the definition.
+
+761
+  Subsection 3(1) (definition of _financial plan_)
+
+ Repeal the definition.
+
+762
+  Subsection 3(1)
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_annual report_ means an annual report on the Corporation under
+
+section 9 of the _Commonwealth Authorities and Companies Act 1997_.
+
+ </dl></dl>
+
+763
+  Subsection 3(1)
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_corporate plan_ means a corporate plan for the Corporation under
+
+section 17 of the _Commonwealth Authorities and Companies Act 1997_.
+
+ </dl></dl>
+
+764
+  Subsection 3(2)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of this Act:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Acting Chair may be referred to as the Acting Chair, Acting
+
+Chairperson, Acting Chairman or Acting Chairwoman or by any other such term as
+
+the person occupying the office so chooses; and</dd>
+
+<dt>(b)</dt><dd>the Acting Deputy Chair may be referred to as the Acting Deputy Chair,
+
+Acting Deputy  Chairperson, Acting Deputy Chairman or Acting Deputy Chairwoman
+
+or by any other such term as the person occupying the office so chooses.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2A)</dt><dd>If a person occupying either of the offices mentioned in subsection (2)
+
+does not make known his or her choice of term, the person may be referred to by
+
+whichever of the following terms that a person addressing that person considers
+
+appropriate, as the case requires:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>Acting Chair or Acting Deputy Chair;</dd>
+
+<dt>(b)</dt><dd>Acting Chairperson or Acting Deputy Chairperson;</dd>
+
+<dt>(c)</dt><dd>Acting Chairman or Acting Deputy Chairman;</dd>
+
+<dt>(d)</dt><dd>Acting Chairwoman or Acting Deputy Chairwoman.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	For the manner in which the Chairperson and Deputy
+
+Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+
+ </dl></dl>
+
+765
+  At the end of subsection 5(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Corporation. That Act deals with matters relating to
+
+Commonwealth authorities, including reporting and accountability, banking and
+
+investment, and conduct of officers.
+
+ </dl></dl>
+
+766
+  Sections 10 and 11
+
+ Repeal the sections.
+
+767
+  Paragraph 19(2)(d)
+
+ Omit "20", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+768
+  Subsection 19(2C)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2C)</dt><dd>If the Minister is of the opinion that:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Board has failed to comply with section 42B; or</dd>
+
+<dt>(b)</dt><dd>the members have failed to comply with:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>subsection 13(2), 15(1) or 17(5) of the _Commonwealth Authorities and Companies Act 1997_; or</dd>
+
+<dt>(ii)</dt><dd>paragraph 16(1)(a) or (b) or the _Commonwealth Authorities and Companies Act 1997_;
+
+</dd>
+
+</dl></dl></dl></dl>
 
 the Minister may terminate the appointment of all members (other than the Chief Executive Officer) or specified members (other than the Chief Executive Officer).
 
-## 769  Section 20
+769
+  Section 20
 
-Repeal the section.
+ Repeal the section.
 
-## 770  Subsection 27A(1)
+770
+  Subsection 27A(1)
 
-Omit “financial plan”, substitute “corporate plan”. 
+ Omit "financial plan", substitute "corporate plan". 
 
-## 771  Sections 37 and 38
+771
+  Sections 37 and 38
 
-Repeal the sections.
+ Repeal the sections.
 
-## 772  Subsection 39(1)
+772
+  Subsection 39(1)
 
-Omit “financial plan under paragraph 38(3)(b)”, substitute “corporate plan”.
+ Omit "financial plan under paragraph 38(3)(b)", substitute "corporate plan".
 
-## 773  Subsection 39(2)
+773
+  Subsection 39(2)
 
-Repeal the subsection.
+ Repeal the subsection.
 
-## 774  Subsection 40(1)
+774
+  Subsection 40(1)
 
-Repeal the subsection, substitute:
+ Repeal the subsection, substitute:
 
-             (1)  Without limiting the generality of the Minister’s powers under subsection 41(1A) or (2), the Minister may direct the Board to vary the Corporation’s corporate plan in respect of financial targets or non-financial performance measures or both.
+<dl compact=""><dl compact="">
 
-_Note:      The heading to section 40 is altered by omitting “financial” and substituting “corporate”._
+<dt>(1)</dt><dd>Without limiting the generality of the Minister's powers under subsection
 
-## 775  Section 40A
+41(1A) or (2), the Minister may direct the Board to vary the Corporation's
 
-Repeal the section.
+corporate plan in respect of financial targets or non-financial performance
 
-## 776  At the end of section 41
+measures or both.
 
-Add:
+</dd> </dl></dl>
 
-Note:         This section does not affect the application of the _Commonwealth Authorities and Companies Act 1997_ to the Corporation.
+Note:	The heading to section 40 is altered by omitting "financial" and substituting "corporate".
 
-## 777  Subsection 42A(3)
+775
+  Section 40A
 
-Omit “Corporate”, substitute “corporate”.
+ Repeal the section.
 
-## 778  Sections 54, 54A, 54B, 54C and 55
+776
+  At the end of section 41
 
-Repeal the sections.
+ Add:
 
-## 779  Section 65
+<dl compact=""><dl compact="">
 
-Repeal the section, substitute:
+Note:	This section does not affect the application of the
 
-##### <a id="65"></a>65  Extra matters to be included in annual report
+_Commonwealth Authorities and Companies Act 1997_ to the Corporation.
 
-                   The Corporation’s annual report must also include:
+ </dl></dl>
 
-                     (a)  an evaluation of the Corporation’s overall performance against:
+777
+  Subsection 42A(3)
 
-                              (i)  the objectives, including operational targets, set out in its corporate plan; and
+ Omit "Corporate", substitute "corporate".
 
-                             (ii)  the financial targets and non-financial performance measures set out in its corporate plan; and
+778
+  Sections 54, 54A, 54B, 54C and 55
 
-                     (b)  an assessment of the adverse effect, if any, that meeting the non-commercial commitments imposed on the Corporation has had on the Corporation’s profitability during the financial year; and
+ Repeal the sections.
 
-                     (c)  assessments of the financial performance of each Federal airport during the financial year; and
+779
+  Section 65
 
-                     (d)  a summary of:
+ Repeal the section, substitute: 
 
-                              (i)  income earned by the Corporation from each Federal airport development site; and
+65
+  Extra matters to be included in annual report
 
-                             (ii)  the expenditure of money by the Corporation in relation to each Federal airport development site; and
+ <dl compact=""><dl compact="">
 
-                            (iii)  any other financial transactions by the Corporation in relation to each Federal airport development site; and
+		The Corporation's annual report must also include:
 
-                     (e)  details of the progress in the establishment of an airport at each Federal airport development site.
+ </dl></dl>
 
-<h9 class="ActHead9">Federal Court of Australia Act 1976</h9>
+<dl compact=""><dl compact=""><dl compact="">
 
-## 780  Sections 18S, 18T and 18U
+<dt>(a)</dt><dd>an evaluation of the Corporation's overall performance against:
 
-Repeal the sections, substitute:
+</dd>
 
-##### <a id="18S"></a>18S  Annual report
+</dl></dl></dl>
 
-             (1)  As soon as practicable after 30 June in each year, the Chief Judge must prepare and give to the Attorney-General a report of the management of the administrative affairs of the Court during the year.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The report must include:
+<dt>(i)</dt><dd>the objectives, including operational targets, set out in its corporate
 
-                     (a)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and
+plan; and</dd>
 
-                     (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
+<dt>(ii)</dt><dd>the financial targets and non-financial performance measures set out in
 
-             (3)  The Attorney-General must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
+its corporate plan; and
 
-<h9 class="ActHead9">Financial Agreement Act 1994</h9>
+</dd>
 
-## 781  Subsection 6(2)
+</dl></dl></dl></dl>
 
-Repeal the subsection, substitute:
+<center>Back to Top</center>
 
-             (2)  The account is a component of the Reserved Money Fund.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 782  At the end of section 6
+<dt>(b)</dt><dd>an assessment of the adverse effect, if any, that meeting the
 
-Add:
+non-commercial commitments imposed on the Corporation has had on the
 
-             (4)  There must be transferred to the account from the Consolidated Revenue Fund amounts equal to all money received by the Commonwealth under the 1994 Financial Agreement.
+Corporation's profitability during the financial year; and</dd>
 
-## 783  Subclause 4(4) of the Schedule
+<dt>(c)</dt><dd>assessments of the financial performance of each Federal airport during
 
-Omit “Chairman”, substitute “Chair”.
+the financial year; and</dd>
 
-<h9 class="ActHead9">Fisheries Administration Act 1991</h9>
+<dt>(d)</dt><dd>a summary of:
 
-## 784  Paragraph 7(k)
+</dd>
 
-Omit “section 63H of the _Audit Act 1901_, and in this Part,”, substitute “this Part”.
+</dl></dl></dl>
 
-## 785  At the end of section 7
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-Add:
+<dt>(i)</dt><dd>income earned by the Corporation from each Federal airport development
 
-Note:          Section 9 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Authority to prepare an annual report on the Authority.
+site; and</dd>
 
-## 786  At the end of subsection 10(1)
+<dt>(ii)</dt><dd>the expenditure of money by the Corporation in relation to each Federal
 
-Add:
+airport development site; and</dd>
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<dt>(iii)</dt><dd>any other financial transactions by the Corporation in relation to each
 
-## 787  Section 20
+Federal airport development site; and
 
-Repeal the section.
+</dd>
 
-## 788  Paragraph 21(2)(b)
+</dl></dl></dl></dl>
 
-Omit “20”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 789  Section 64
+<dt>(e)</dt><dd>details of the progress in the establishment of an airport at each Federal
 
-Omit “to 21 (inclusive) and section”, substitute “, 19, 21 and”.
+airport development site.
 
-## 790  After section 64
+</dd>
 
-Insert:
+</dl></dl></dl>
 
-##### <a id="64A"></a>64A  Disclosure of interests of members of management advisory committees
+_Federal Court of Australia Act 1976_
 
-             (1)  If:
+780
+  Sections 18S, 18T and 18U
 
-                     (a)  a member of a management advisory committee has a direct or indirect pecuniary interest in a matter being considered, or about to be considered, by the committee; and
+ Repeal the sections, substitute: 
 
-                     (b)  the interest could conflict with the proper performance of the member’s duties in relation to the consideration of the matter;
+18S
+  Annual report
 
-the member must disclose the nature of the interest at a meeting of the committee, as soon as practicable after the relevant facts have come to the member’s knowledge.
+ <dl compact=""><dl compact="">
 
-             (2)  A disclosure must be recorded in the minutes of the meeting.
+<dt>(1)</dt><dd>As soon as practicable after 30 June in each year, the Chief Judge must
 
-## 791  Subsection 88(1)
+prepare and give to the Attorney-General a report of the management of the
 
-Repeal the subsection.
+administrative affairs of the Court during the year.</dd> <dt>(2)</dt><dd>The report must include: </dd> </dl></dl>
 
-_Note:       The heading to section 88 is replaced by the heading “Extra matters to be included in annual report”._
+<dl compact=""><dl compact=""><dl compact="">
 
-## 792  Subsection 88(2)
+<dt>(a)</dt><dd>the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and</dd>
 
-Omit “Without limiting the generality of subsection 63H(1) of the _Audit Act 1901_ in its application in relation to the Authority, the Authority must include in each report referred to in that subsection”, substitute “Each annual report on the Authority prepared by the directors under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include”.
+<dt>(b)</dt><dd>an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
 
-## 793  Subsection 88(2) (note)
+</dd>
 
-Repeal the note.
+</dl></dl></dl>
 
-<h9 class="ActHead9">Forestry and Timber Bureau Act 1930</h9>
+<dl compact=""><dl compact="">
 
-## 794  Section 5
+<dt>(3)</dt><dd>The Attorney-General must cause a copy of the report to be tabled in each
 
-Repeal the section, substitute:
+House of the Parliament as soon as practicable.
 
-##### <a id="5"></a>5  Forestry Reserve
+</dd> </dl></dl>
 
-             (1)  This subsection establishes a reserve called the Forestry Reserve.
+_Financial Agreement Act 1994_
 
-          (1A)  The Reserve is a component of the Reserved Money Fund.
+781
+  Subsection 6(2)
 
-             (2)  There must be transferred to the Reserve from the Consolidated Revenue Fund:
+ Repeal the subsection, substitute:
 
-                     (a)  amounts equal to donations for the furtherance of forestry that are received by the Director-General or are otherwise received by or on behalf of the Commonwealth; and
+<dl compact=""><dl compact="">
 
-                     (b)  money appropriated by the Parliament for the purposes of the Reserve or payable to the Reserve under any other law.
+<dt>(2)</dt><dd>The account is a component of the Reserved Money Fund.
 
-             (3)  Money in the Reserve may be applied, in a manner approved by the Minister, for the furtherance of forestry.
+</dd> </dl></dl>
 
-             (4)  If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund.
+782
+  At the end of section 6
 
-<h9 class="ActHead9">Great Barrier Reef Marine Park Act 1975</h9>
+ Add:
 
-## 795  Subsection 7(3)
+<dl compact=""><dl compact="">
 
-Omit “Authority shall include in each report prepared under section 63M of the _Audit Act 1901_”, substitute “members must include in each report on the Authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(4)</dt><dd>There must be transferred to the account from the Consolidated Revenue
 
-## 796  At the end of subsection 9(1)
+Fund amounts equal to all money received by the Commonwealth under the 1994
 
-Add:
+Financial Agreement.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+</dd> </dl></dl>
 
-## 797  Paragraph 16(2)(e)
+783
+  Subclause 4(4) of the Schedule
 
-Omit “section 16A”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "Chairman", substitute "Chair". 
 
-## 798  Subsections 16A(1) and (2)
+_Fisheries Administration Act 1991_
 
-Repeal the subsections.
+784
+  Paragraph 7(k)
 
-_Note:       The heading to section 16A is altered by omitting “members” and substituting “Chair”._
+ Omit "section 63H of the _Audit Act 1901_, and in this Part,", substitute "this Part".
 
-## 799  Subsection 16A(4)
+785
+  At the end of section 7
 
-Repeal the subsection.
+ Add:
 
-## 800  At the end of section 53
+<dl compact=""><dl compact="">
 
-Add:
+Note:	Section 9 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Authority to prepare an annual report
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Authority under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+on the Authority.
 
-## 801  Sections 53A and 54
+ </dl></dl>
 
-Repeal the sections.
+<center>Back to Top</center>
 
-## 802  Section 55
+786
+  At the end of subsection 10(1)
 
-Repeal the section.
+ Add:
 
-## 803  Subsection 56(2)
+<dl compact=""><dl compact="">
 
-Omit “subsection 53A(2)”, substitute “section 18 of the _Commonwealth Authorities and Companies Act 1997_”.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 804  Subsection 61A(5)
+applies to the Authority. That Act deals with matters relating to Commonwealth
 
-Omit “Authority shall include in each report prepared under section 63M of the _Audit Act 1901_”, substitute “members must include in each annual report on the Authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+authorities, including reporting and accountability, banking and investment,
 
-<h9 class="ActHead9">Health Insurance Commission Act 1973</h9>
+and conduct of officers.
 
-## 805  Section 8G
+ </dl></dl>
 
-After “this Act”, insert “and the _Commonwealth Authorities and Companies Act 1997_”.
+787
+  Section 20
 
-## 806  At the end of subsection 9(1)
+ Repeal the section.
 
-Add:
+788
+  Paragraph 21(2)(b)
 
-Note:          Subject to section 9A, the _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability and conduct of officers.
+ Omit "20", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 807  After section 9
+789
+  Section 64
 
-Insert:
+ Omit "to 21 (inclusive) and section", substitute ", 19, 21 and".
 
-##### <a id="9A"></a>9A  Modification of the _Commonwealth Authorities and Companies Act 1997_
+790
+  After section 64
 
-                   Sections 14, 18 and 19 of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the Commission, except as provided in subsections 36(6), (6A) and (6D).
+ Insert: 
 
-## 808  Section 15
+64A
+  Disclosure of interests of members of management advisory 
+committees
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-## 809  Paragraph 17(2)(b)
+<dt>(1)</dt><dd>If:
 
-Omit “15”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”_._
+</dd> </dl></dl>
 
-## 810  Paragraph 26(2)(b)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “15”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(a)</dt><dd>a member of a management advisory committee has a direct or indirect
 
-## 811  Subsection 34(1)
+pecuniary interest in a matter being considered, or about to be considered, by
 
-Omit all the words from and including “prepare estimates” to and including “medicare functions”, substitute “prepare budget estimates, in such form as the Minister directs, relating to the Commission’s performance of its medicare functions”.
+the committee; and</dd>
 
-## 812  Subsection 34AAA(1)
+<dt>(b)</dt><dd>the interest could conflict with the proper performance of the member's
 
-Omit all the words from and including “prepare estimates” to and including “child care cash rebate functions”, substitute “prepare budget estimates, in such form as the Minister directs, relating to the Commission’s performance of its child care cash rebate functions”.
+duties in relation to the consideration of the matter;
 
-## 813  Subsection 35(1)
+</dd>
 
-Omit “an approved bank or banks”, substitute “a bank or banks”.
+</dl></dl></dl>
 
-## 814  Subsection 35(5)
+the member must disclose the nature of the interest at a meeting of the committee, as soon as practicable after the relevant facts have come to the member's knowledge.
 
-Repeal the subsection, substitute:
+<dl compact=""><dl compact="">
 
-             (5)  In this section:
+<dt>(2)</dt><dd>A disclosure must be recorded in the minutes of the meeting.
 
-                    <a name="bank"></a>**_bank_** has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
+</dd> </dl></dl>
 
-## 815  Subsection 36(6)
+791
+  Subsection 88(1)
 
-Omit all the words from and including “Commission:” to and including “Treasurer;”, substitute “Commission in any manner specified in subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_,”.
+ Repeal the subsection.
 
-## 816  Subsection 36(6A)
+Note:	The heading to section 88 is replaced by the heading "Extra matters to be included in annual report".
 
-Omit all the words from and including “invested:” to and including “body thinks fit;”, substitute “invested in any manner specified in subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_,”.
+792
+  Subsection 88(2)
 
-## 817  After subsection 36(6B)
+ Omit "Without limiting the generality of subsection 63H(1) of the _Audit Act 1901_ in its application in relation to the Authority, the Authority must include in each report referred to in that subsection", substitute "Each annual report on the Authority prepared by the directors under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include".
 
-Insert:
+793
+  Subsection 88(2) (note)
 
-        (6BA)  Powers to invest money under subsection (6A) may be exercised:
+ Repeal the note. 
 
-                     (a)  by the Commission; or
+_Forestry and Timber Bureau Act 1930_
 
-                     (b)  by a person or body who or that is:
+794
+  Section 5
 
-                              (i)  approved by the Commission; and
+ Repeal the section, substitute: 
 
-                             (ii)  in the business of investment management; and
+5
+  Forestry Reserve
 
-                            (iii)  acting in accordance with any directions given by the Commission.
+ <dl compact=""><dl compact="">
 
-## 818  Subsection 36(6C)
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Forestry Reserve.</dd> <dt>(1A)</dt><dd>The Reserve is a component of the Reserved Money Fund.</dd> <dt>(2)</dt><dd>There must be transferred to the Reserve from the Consolidated Revenue Fund: </dd> </dl></dl>
 
-Omit “and (6B)”, substitute “,(6B) and (6BA)”.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 819  Subsection 36(6D)
+<dt>(a)</dt><dd>amounts equal to donations for the furtherance of forestry that are
 
-Omit all the words from and including “Commission:” to and including “Treasurer;”, substitute “Commission in any manner specified in subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_,”.
+received by the Director-General or are otherwise received by or on behalf of
 
-## 820  Sections 40 and 41
+the Commonwealth; and</dd>
 
-Repeal the sections.
+<dt>(b)</dt><dd>money appropriated by the Parliament for the purposes of the Reserve or
 
-## 821  Section 42
+payable to the Reserve under any other law.
 
-Repeal the section, substitute:
+</dd>
 
-##### <a id="42"></a>42  Extra matters to be included in annual report
+</dl></dl></dl>
 
-                   The annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:
+<center>Back to Top</center>
 
-                     (a)  the principles that were applicable in accordance with subsections 34B(2), 34C(1) and 36(6B) during the financial year; and
+<dl compact=""><dl compact="">
 
-                     (b)  a statement as to whether those principles differed from the principles that were applicable in the preceding financial year, and, if they differed, as to the manner in which they differed; and
+<dt>(3)</dt><dd>Money in the Reserve may be applied, in a manner approved by the Minister,
 
-                     (c)  the number of:
+for the furtherance of forestry.</dd> <dt>(4)</dt><dd>If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund. </dd> </dl></dl>
 
-                              (i)  signed instruments made under section 8M; and
+_Great Barrier Reef Marine Park Act 1975_
 
-                             (ii)  notices in writing given under section 8P; and
+795
+  Subsection 7(3)
 
-                            (iii)  notices in writing given to individual patients under section 8P; and
+ Omit "Authority shall include in each report prepared under section 63M of the _Audit Act 1901_", substitute "members must include in each report on the Authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_".
 
-                            (iv)  premises entered under section 8U; and
+796
+  At the end of subsection 9(1)
 
-                             (v)  occasions when powers were used under section 8V; and
+ Add:
 
-                            (vi)  search warrants issued under section 8Y; and
+<dl compact=""><dl compact="">
 
-                           (vii)  search warrants issued by telephone or other electronic means under section 8Z; and
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-                           (viii)  patients advised in writing under section 8ZN.
+applies to the Authority. That Act deals with matters relating to Commonwealth
 
-## 822  Section 43
+authorities, including reporting and accountability, banking and investment,
 
-Repeal the section.
+and conduct of officers.
 
-<h9 class="ActHead9">Hearing Services Act 1991</h9>
+ </dl></dl>
 
-## 823  At the end of subsection 7(2)
+797
+  Paragraph 16(2)(e)
 
-Add:
+ Omit "section 16A", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+798
+  Subsections 16A(1) and (2)
 
-## 824  Section 10
+ Repeal the subsections.
 
-Repeal the section.
+Note:	The heading to section 16A is altered by omitting "members" and substituting "Chair".
 
-## 825  At the end of section 12
+799
+  Subsection 16A(4)
 
-Add:
+ Repeal the subsection.
 
-             (4)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the Authority.
+800
+  At the end of section 53
 
-## 826  Subsection 22(3)
+ Add:
 
-Omit “would, for the purposes of section 24, be taken to have an interest”, substitute “has a material personal interest”.
+<dl compact=""><dl compact="">
 
-## 827  Section 24
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-Repeal the section.
+Authority under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 828  Paragraph 31(2)(b)
+</dd> </dl></dl>
 
-Omit “or section 24”, substitute “of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+801
+  Sections 53A and 54
 
-## 829  Section 39
+ Repeal the sections.
 
-Repeal the section.
+802
+  Section 55
 
-## 830  Paragraph 46(2)(b)
+ Repeal the section.
 
-Omit “or section 24”, substitute “of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+803
+  Subsection 56(2)
 
-## 831  Subsection 52(2)
+ Omit "subsection 53A(2)", substitute "section 18 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “Subject to subsection (3), the”, substitute “The”.
+804
+  Subsection 61A(5)
 
-## 832  Subsections 52(3), (4) and (5)
+ Omit "Authority shall include in each report prepared under section 63M of the _Audit Act 1901_", substitute "members must include in each annual report on the Authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_". 
 
-Repeal the subsections, substitute:
+_Health Insurance Commission Act 1973_
 
-             (3)  Subsection (2) does not prevent investment of surplus money of the Authority under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+805
+  Section 8G
 
-## 833  Section 59
+ After "this Act", insert "and the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the section.
+806
+  At the end of subsection 9(1)
 
-## 834  Paragraph 60(1)(b)
+ Add:
 
-Omit “63D(1) of the _Audit Act 1901_”, substitute “18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+<dl compact=""><dl compact="">
 
-## 835  Subsection 60(2)
+Note:	Subject to section 9A, the _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters
 
-Repeal the subsection.
+relating to Commonwealth authorities, including reporting and accountability
 
-## 836  Section 61
+and conduct of officers.
 
-Repeal the section.
+ </dl></dl>
 
-## 837  Section 71
+807
+  After section 9
 
-Repeal the section.
+<center>Back to Top</center>
 
-<h9 class="ActHead9">Higher Education Funding Act 1988</h9>
+ Insert: 
 
-## 838  Subsection 34(1) (definition of _Fund_)
+9A
+  Modification of the _Commonwealth Authorities and Companies Act 1997_
 
-Repeal the definition.
+<dl compact=""><dl compact="">
 
-## 839  Subsection 34(1)
+		Sections 14, 18 and 19 of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the Commission, except as provided in
 
-Insert:
+subsections 36(6), (6A) and (6D).
 
-                    <a name="reserv"></a>**_Reserve_** means the Higher Education (HECS) Reserve established by section 59.
+ </dl></dl>
 
-## 840  Part 4.3 (heading)
+808
+  Section 15
 
-Repeal the heading, substitute:
+ Repeal the section.
 
-## Part 4.3—Higher Education (HECS) Reserve
+809
+  Paragraph 17(2)(b)
 
-## 841  Subsection 59(1)
+ Omit "15", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_"_._
 
-Omit “fund”, substitute “reserve”.
+810
+  Paragraph 26(2)(b)
 
-_Note:       The heading to section 59 is altered by omitting “Fund” and substituting “Reserve”._
+ Omit "15", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 842  Subsection 59(1)
+811
+  Subsection 34(1)
 
-Omit “Trust Fund”, substitute “(HECS) Reserve”.
+ Omit all the words from and including "prepare estimates" to and including "medicare functions", substitute "prepare budget estimates, in such form as the Minister directs, relating to the Commission's performance of its medicare functions".
 
-## 843  Subsection 59(2)
+812
+  Subsection 34AAA(1)
 
-Repeal the subsection, substitute:
+ Omit all the words from and including "prepare estimates" to and including "child care cash rebate functions", substitute "prepare budget estimates, in such form as the Minister directs, relating to the Commission's performance of its child care cash rebate functions".
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+813
+  Subsection 35(1)
 
-## 844  Subsection 60(1)
+ Omit "an approved bank or banks", substitute "a bank or banks".
 
-Omit “There shall be paid into the Fund”, substitute “There must be transferred to the Reserve from the Consolidated Revenue Fund amounts equal to”.
+814
+  Subsection 35(5)
 
-_Note:       The heading to section 60 is altered by omitting “Fund” and substituting “Reserve”._
+ Repeal the subsection, substitute:
 
-## 845  Paragraph 60(1)(b)
+<dl compact=""><dl compact="">
 
-Omit “amounts equal to”.
+<dt>(5)</dt><dd>In this section:
 
-## 846  Paragraphs 60(1)(c) and (d)
+</dd> </dl></dl>
 
-Omit “Fund”, substitute “Reserve”.
+<def><dl compact=""><dl compact="">
 
-## 847  Paragraph 60(1)(e)
+_bank_ has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
 
-Omit “in the Fund”, substitute “from the Fund”.
+ </dl></dl>
 
-## 848  Subsection 60(2)
+815
+  Subsection 36(6)
 
-Repeal the subsection.
+ Omit all the words from and including "Commission:" to and including "Treasurer;", substitute "Commission in any manner specified in subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_,".
 
-## 849  Subsection 61(1)
+816
+  Subsection 36(6A)
 
-Omit “Fund”, substitute “Reserve”.
+ Omit all the words from and including "invested:" to and including "body thinks fit;", substitute "invested in any manner specified in subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_,".
 
-_Note:       The heading to section 61 is altered by omitting “Fund” and substituting “Reserve”._
+817
+  After subsection 36(6B)
 
-## 850  Subsection 117(2)
+ Insert:
 
-Omit “section 49 or 50 of the _Audit Act 1901_”, substitute “section 54 or 55 of the _Financial Management and Accountability Act 1997_”.
+<dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Horticultural Research and Development Corporation Act 1987</h9>
+<dt>(6BA)</dt><dd>Powers to invest money under subsection (6A) may be exercised:
 
-## 851  Subsection 7(1)
+</dd> </dl></dl>
 
-Omit “Subject to subsection (2), the”, substitute “The”.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 852  Subsection 7(2)
+<dt>(a)</dt><dd>by the Commission; or</dd>
 
-Repeal the subsection.
+<dt>(b)</dt><dd>by a person or body who or that is:
 
-## 853  At the end of subsection 11(1)
+</dd>
 
-Add:
+</dl></dl></dl>
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 854  Section 22
+<dt>(i)</dt><dd>approved by the Commission; and</dd>
 
-Repeal the section.
+<dt>(ii)</dt><dd>in the business of investment management; and</dd>
 
-## 855  Paragraph 23(2)(b)
+<dt>(iii)</dt><dd>acting in accordance with any directions given by the Commission.
 
-Omit “22”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+</dd>
 
-## 856  Subsection 29(1)
+</dl></dl></dl></dl>
 
-Omit “Without limiting the matters that the Corporation may include in its annual report for a period, the Corporation shall include in the report”, substitute “The members of the Corporation must include in a report on the Corporation prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+818
+  Subsection 36(6C)
 
-## 857  Subsection 29(2)
+ Omit "and (6B)", substitute ",(6B) and (6BA)".
 
-Repeal the subsection.
+<center>Back to Top</center>
 
-## 858  At the end of section 47
+819
+  Subsection 36(6D)
 
-Add:
+ Omit all the words from and including "Commission:" to and including "Treasurer;", substitute "Commission in any manner specified in subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_,".
 
-             (3)  This section does not prevent investment of surplus money of the Corporation under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+820
+  Sections 40 and 41
 
-## 859  Section 52
+ Repeal the sections.
 
-Repeal the section.
+821
+  Section 42
 
-## 860  Subsection 54(5)
+ Repeal the section, substitute: 
 
-Repeal the subsection, substitute:
+42
+  Extra matters to be included in annual report
 
-             (5)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ applies to a member of a committee as if the committee were a Commonwealth authority and the member were a director of the authority.
+ <dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Housing Loans Insurance Act 1965</h9>
+		The annual report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:
 
-## 861  Subsection 4(1) (definition of _approved bank_)
+ </dl></dl>
 
-Repeal the definition.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 862  At the end of subsection 6(2)
+<dt>(a)</dt><dd>the principles that were applicable in accordance with subsections 34B(2),
 
-Add:
+34C(1) and 36(6B) during the financial year; and</dd>
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+<dt>(b)</dt><dd>a statement as to whether those principles differed from the principles
 
-## 863  Section 10
+that were applicable in the preceding financial year, and, if they differed, as
 
-Repeal the section.
+to the manner in which they differed; and</dd>
 
-## 864  Paragraph 11(2)(b)
+<dt>(c)</dt><dd>the number of:
 
-Omit “10”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+</dd>
 
-## 865  Section 32
+</dl></dl></dl>
 
-Repeal the section.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 866  Section 33
+<dt>(i)</dt><dd>signed instruments made under section 8M; and</dd>
 
-Omit “Subject to section 34, the”, substitute “The”.
+<dt>(ii)</dt><dd>notices in writing given under section 8P; and</dd>
 
-## 867  At the end of section 33
+<dt>(iii)</dt><dd>notices in writing given to individual patients under section 8P; and</dd>
 
-Add:
+<dt>(iv)</dt><dd>premises entered under section 8U; and</dd>
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+<dt>(v)</dt><dd>occasions when powers were used under section 8V; and</dd>
 
-## 868  Section 34
+<dt>(vi)</dt><dd>search warrants issued under section 8Y; and</dd>
 
-Repeal the section.
+<dt>(vii)</dt><dd>search warrants issued by telephone or other electronic means under
 
-## 869  Subsection 36(1)
+section 8Z; and</dd>
 
-Repeal the subsection.
+<dt>(viii)</dt><dd>patients advised in writing under section 8ZN.
 
-_Note:      The heading to section 36 is replaced by the heading “Special account for business under subsection 17(3C) directions”._
+</dd>
 
-## 870  Section 37
+</dl></dl></dl></dl>
 
-Repeal the section.
+822
+  Section 43
 
-## 871  Section 37A
+ Repeal the section. 
 
-Omit “17A, 19 or 34”, substitute “17A or 19 of this Act, or subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+_Hearing Services Act 1991_
 
-## 872  Section 37B
+823
+  At the end of subsection 7(2)
 
-Repeal the section.
+ Add:
 
-## 873  Section 39
+<dl compact=""><dl compact="">
 
-Repeal the section, substitute:
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-##### <a id="39"></a>39  Extra matters to be included in annual report
+applies to the Authority. That Act deals with matters relating to Commonwealth
 
-                   The annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also set out:
+authorities, including reporting and accountability, banking and investment,
 
-                     (a)  all directions given to the Corporation by the Minister under subsection 17(3C), section 20 or subsection 31A(4) or 31C(1) during the year to which the report relates; and
+and conduct of officers.
 
-                     (b)  all determinations made by the Minister under subsection 25(4) or 31B(1) or (2) during the year to which the report relates.
+ </dl></dl>
 
-## 874  Section 40
+824
+  Section 10
 
-Repeal the section, substitute:
+ Repeal the section.
 
-##### <a id="40"></a>40  A Minister cannot require reports etc. about affairs of a particular person
+825
+  At the end of section 12
 
-                   A Minister cannot, under paragraph 16(1)(b) or (c) of the _Commonwealth Authorities and Companies Act 1997_, require the members of the Corporation to give that Minister a report, document or information relating to the affairs of a particular person.
+ Add:
 
-<h9 class="ActHead9">Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996</h9>
+<dl compact=""><dl compact="">
 
-## 875  Subsection 40(1)
+<dt>(4)</dt><dd>This section does not affect the application of section 28 of the
 
-After “section 39 of that Act”, insert “, or section 9 of the _Commonwealth Authorities and Companies Act 1997_,”.
+_Commonwealth Authorities and Companies Act 1997_ in relation to the
 
-## 876  Subsection 40(2)
+Authority.
 
-Omit “section 39 of the Housing Loans Insurance Act, as it continues in force by subsection (1) of this section,”, substitute “the section that applies to the period of 12 months ending on that 30 June (being either section 39 of the Housing Loans Insurance Act or section 9 of the _Commonwealth Authorities and Companies Act 1997_)”.
+</dd> </dl></dl>
 
-<h9 class="ActHead9">Income Tax Assessment Act 1936</h9>
+826
+  Subsection 22(3)
 
-## 877  Subsection 128U(1) (definition of _mining payment_)
+ Omit "would, for the purposes of section 24, be taken to have an interest", substitute "has a material personal interest".
 
-Omit “Trust Account” (wherever occurring), substitute “Aboriginals Benefit Reserve”.
+827
+  Section 24
 
-## 878  Subsection 128U(1) (definition of _Trust Account_)
+ Repeal the section.
 
-Repeal the definition.
+828
+  Paragraph 31(2)(b)
 
-## 879  Subsection 128U(1)
+ Omit "or section 24", substitute "of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Insert:
+829
+  Section 39
 
-                    <a name="aborigin-benefit-reserv"></a>**_Aboriginals Benefit Reserve_** means the Aboriginals Benefit Reserve established by section 62 of the _Aboriginal__Land__Rights (__Northern Territory__) Act 1976_.
+<center>Back to Top</center>
 
-## 880  Subsection 159ZR(1) (definition of _eligible income_)
+ Repeal the section.
 
-After “section 34A of the _Audit Act 1901_”, insert “or section 33 of the _Financial Management and Accountability Act 1997_”.
+830
+  Paragraph 46(2)(b)
 
-<h9 class="ActHead9">Interstate Road Transport Act 1985</h9>
+ Omit "or section 24", substitute "of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 881  Subsection 3(1) (definition of _Fund_)
+831
+  Subsection 52(2)
 
-Repeal the definition.
+ Omit "Subject to subsection (3), the", substitute "The".
 
-## 882  Subsection 3(1)
+832
+  Subsections 52(3), (4) and (5)
 
-Insert:
+ Repeal the subsections, substitute:
 
-                    <a name="reserv"></a>**_Reserve_** means the Interstate Road Transport Reserve established by section 21.
+<dl compact=""><dl compact="">
 
-## 883  Part IV (heading)
+<dt>(3)</dt><dd>Subsection (2) does not prevent investment of surplus money of the
 
-Repeal the heading, substitute:
+Authority under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## Part IV—Interstate Road Transport Reserve
+</dd> </dl></dl>
 
-## 884  Section 21
+833
+  Section 59
 
-Repeal the section, substitute:
+ Repeal the section.
 
-##### <a id="21"></a>21  Interstate Road Transport Reserve
+834
+  Paragraph 60(1)(b)
 
-             (1)  This subsection establishes a reserve called the Interstate Road Transport Reserve.
+ Omit "63D(1) of the _Audit Act 1901_", substitute "18(2) of the _Commonwealth Authorities and Companies Act 1997_".
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+835
+  Subsection 60(2)
 
-             (3)  If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund.
+ Repeal the subsection.
 
-## 885  Subsection 22(1)
+836
+  Section 61
 
-Omit “Fund”, substitute “Reserve”.
+ Repeal the section.
 
-_Note:       The heading to section 22 is altered by omitting “Fund” and substituting “Reserve”._
+837
+  Section 71
 
-## 886  Subsection 22(1)
+ Repeal the section. 
 
-Omit “which is appropriated accordingly,”.
+_Higher Education Funding Act 1988_
 
-## 887  Subsection 22(2)
+838
+  Subsection 34(1) (definition of _Fund_)
 
-Omit “Fund”, substitute “Reserve, out of the Consolidated Revenue Fund, amounts equal to”.
+ Repeal the definition.
 
-## 888  Section 23
+839
+  Subsection 34(1)
 
-Omit “Fund”, (wherever occurring), substitute “Reserve”.
+ Insert:
 
-_Note:       The heading to section 23 is altered by omitting “Fund” and substituting “Reserve”._
+<def><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Lands Acquisition Act 1989</h9>
+_Reserve_ means the Higher Education (HECS) Reserve established by
 
-## 889  Section 6 (definition of _Trust Fund_)
+section 59.
 
-Repeal the definition.
+ </dl></dl>
 
-## 890  Section 6
+840
+  Part 4.3 (heading)
 
-Insert:
+ Repeal the heading, substitute: 
 
-                    <a name="reserv"></a>**_Reserve_** means the Lands Acquisition Reserve established by section 89A.
+<part>Part 4.3&#151;Higher Education (HECS) Reserve
 
-## 891  After section 89
+841
+  Subsection 59(1)
 
-Insert:
+ Omit "fund", substitute "reserve".
 
-##### <a id="89A"></a>89A  Establishment of Lands Acquisition Reserve
+Note:	The heading to section 59 is altered by omitting "Fund" and substituting "Reserve".
 
-             (1)  This subsection establishes a reserve called the Lands Acquisition Reserve.
+842
+  Subsection 59(1)
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+ Omit "Trust Fund", substitute "(HECS) Reserve".
 
-## 892  Section 90
+843
+  Subsection 59(2)
 
-Omit “Trust Fund” (wherever occurring), substitute “Reserve”.
+ Repeal the subsection, substitute:
 
-_Note:       The heading to section 90 is altered by omitting “Trust Fund” and substituting “Reserve”._
+<dl compact=""><dl compact="">
 
-## 893  Section 114
+<dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.
 
-Omit “Trust Fund” (wherever occurring), substitute “Reserve”.
+</dd> </dl></dl>
 
-_Note:       The heading to section 114 is altered by omitting “Trust Fund” and substituting “Reserve”._
+844
+  Subsection 60(1)
 
-<h9 class="ActHead9">Loan Consolidation and Investment Reserve Act 1955</h9>
+ Omit "There shall be paid into the Fund", substitute "There must be transferred to the Reserve from the Consolidated Revenue Fund amounts equal to".
 
-## 894  Subsection 4(2)
+Note:	The heading to section 60 is altered by omitting "Fund" and substituting "Reserve".
 
-Repeal the subsection, substitute:
+845
+  Paragraph 60(1)(b)
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+ Omit "amounts equal to".
 
-## 895  Section 5
+846
+  Paragraphs 60(1)(c) and (d)
 
-Repeal the section, substitute:
+ Omit "Fund", substitute "Reserve".
 
-##### <a id="5"></a>5  Payments to Reserve
+<center>Back to Top</center>
 
-                   There must be transferred to the Reserve from the Consolidated Revenue Fund:
+847
+  Paragraph 60(1)(e)
 
-                     (a)  amounts appropriated by the Parliament for the purposes of the Reserve; and
+ Omit "in the Fund", substitute "from the Fund".
 
-                     (b)  amounts equal to interest received by the Commonwealth from the investment of money from the Reserve.
+848
+  Subsection 60(2)
 
-## 896  Subsection 6(4)
+ Repeal the subsection.
 
-Omit “section 62B of the _Audit Act 1901_”, substitute “section 39 of the _Financial Management and Accountability Act 1997_”.
+849
+  Subsection 61(1)
 
-## 897  Subsection 7(4)
+ Omit "Fund", substitute "Reserve".
 
-Repeal the subsection, substitute:
+Note:	The heading to section 61 is altered by omitting "Fund" and substituting "Reserve".
 
-             (4)  Section 62 of the _Financial Management and Accountability Act 1997_ applies to the Finance Minister’s power under subsection 6(4) of this Act in the same way as that section applies to the Finance Minister’s powers under the _Financial Management and Accountability Act 1997_.
+850
+  Subsection 117(2)
 
-<h9 class="ActHead9">Loan (Income Equalization Deposits) Act 1976</h9>
+ Omit "section 49 or 50 of the _Audit Act 1901_", substitute "section 54 or 55 of the _Financial Management and Accountability Act 1997_". 
 
-## 898  Subsection 4B(3)
+_Horticultural Research and Development Corporation Act 1987_
 
-Omit “Trust Account”, substitute “Reserve”.
+851
+  Subsection 7(1)
 
-## 899  Section 7
+ Omit "Subject to subsection (2), the", substitute "The".
 
-Repeal the section, substitute:
+852
+  Subsection 7(2)
 
-##### <a id="7"></a>7  Establishment of Reserve
+ Repeal the subsection.
 
-             (1)  This subsection establishes a reserve called the Income Equalization Deposits Reserve.
+853
+  At the end of subsection 11(1)
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+ Add:
 
-## 900  Section 8
+<dl compact=""><dl compact="">
 
-Omit “Trust Account” (wherever occurring), substitute “Reserve”.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-_Note:       The heading to section 8 is altered by omitting “Trust Account” and substituting “Reserve”._
+applies to the Corporation. That Act deals with matters relating to
 
-## 901  Subsection 15A(9)
+Commonwealth authorities, including reporting and accountability, banking and
 
-Omit “Trust Account”, substitute “Reserve”.
+investment, and conduct of officers.
 
-<h9 class="ActHead9">Loan (Temporary Revenue Deficits) Act 1953</h9>
+ </dl></dl>
 
-## 902  Subsection 3(1)
+854
+  Section 22
 
-Omit “Notwithstanding section fifty-seven of the _Audit Act 1901-1952_, whenever”, substitute “Whenever”.
+ Repeal the section.
 
-<h9 class="ActHead9">Maritime College Act 1978</h9>
+855
+  Paragraph 23(2)(b)
 
-## 903  At the end of subsection 5(2)
+ Omit "22", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Add:
+856
+  Subsection 29(1)
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the College. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Omit "Without limiting the matters that the Corporation may include in its annual report for a period, the Corporation shall include in the report", substitute "The members of the Corporation must include in a report on the Corporation prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 904  Paragraph 17(2)(b)
+857
+  Subsection 29(2)
 
-Omit “an obligation imposed on him or her by section 18”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the subsection.
 
-## 905  Section 18
+858
+  At the end of section 47
 
-Repeal the section.
+ Add:
 
-## 906  After section 32
+<dl compact=""><dl compact="">
 
-Insert:
+<dt>(3)</dt><dd>This section does not prevent investment of surplus money of the
 
-##### <a id="33"></a>33  College’s financial year starts on 1 January
+Corporation under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-                   For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the College’s financial year is a period of 12 months starting on 1 January.
+</dd> </dl></dl>
 
-## 907  At the end of section 34
+859
+  Section 52
 
-Add:
+ Repeal the section.
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the College under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+860
+  Subsection 54(5)
 
-## 908  Section 35
+ Repeal the subsection, substitute:
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-## 909  Section 37C
+<dt>(5)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_
 
-Omit “35,”.
+applies to a member of a committee as if the committee were a Commonwealth
 
-## 910  Section 37E
+authority and the member were a director of the authority.
 
-Repeal the section.
+</dd> </dl></dl>
 
-<h9 class="ActHead9">Meat and Live-stock Industry Act 1995</h9>
+_Housing Loans Insurance Act 1965_
 
-## 911  At the end of subsection 8(2)
+861
+  Subsection 4(1) (definition of _approved bank_)
 
-Add:
+ Repeal the definition.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Council. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+862
+  At the end of subsection 6(2)
 
-## 912  Paragraph 23(1)(a)
+ Add:
 
-Repeal the paragraph, substitute:
+<dl compact=""><dl compact="">
 
-                     (a)  to consider the most recent annual reports on the Council, AMLC and MRC (these reports are prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_); and
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 913  Paragraph 23(2)(a)
+applies to the Corporation. That Act deals with matters relating to
 
-Omit all the words after “annual report”, substitute “on the Council be received;”.
+Commonwealth authorities, including reporting and accountability, banking and
 
-## 914  Paragraph 23(2)(b)
+investment, and conduct of officers.
 
-Omit all the words after “annual report”, substitute “on AMLC be received;”.
+ </dl></dl>
 
-## 915  Paragraph 23(2)(c)
+<center>Back to Top</center>
 
-Omit all the words after “annual report”, substitute “on MRC be received;”.
+863
+  Section 10
 
-## 916  Section 32
+ Repeal the section.
 
-Repeal the section, substitute:
+864
+  Paragraph 11(2)(b)
 
-##### <a id="32"></a>32  Situations that do not amount to interests requiring disclosure
+ Omit "10", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-                   For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal interest in a matter being considered or about to be considered by the Council merely because the member is a producer of live-stock, an exporter of live-stock, the operator of meatworks or an exporter of meat.
+865
+  Section 32
 
-## 917  Paragraph 35(3)(c)
+ Repeal the section.
 
-Omit “32”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+866
+  Section 33
 
-## 918  At the end of section 44
+ Omit "Subject to section 34, the", substitute "The".
 
-Add:
+867
+  At the end of section 33
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Council under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+ Add:
 
-## 919  Section 47
+<dl compact=""><dl compact="">
 
-Repeal the section.
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-## 920  Section 50
+Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Omit “The Council must include in each annual report prepared under section 63H of the _Audit Act 1901_, as that section applies to it because of section 47 of this Act:”, substitute “The annual report on the Council under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:”.
+</dd> </dl></dl>
 
-_Note:       The heading to section 50 is replaced by the heading “Extra matters to be included in annual report”._
+868
+  Section 34
 
-## 921  At the end of subsection 53(2)
+ Repeal the section.
 
-Add:
+869
+  Subsection 36(1)
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to AMLC. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Repeal the subsection.
 
-## 922  Section 112
+Note:	The heading to section 36 is replaced by the heading "Special account for business under subsection 17(3C) directions".
 
-Repeal the section, substitute:
+870
+  Section 37
 
-##### <a id="112"></a>112  Situations that do not amount to interests requiring disclosure
+ Repeal the section.
 
-                   For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal interest in a matter being considered or about to be considered by AMLC merely because the member is a producer of live-stock, an exporter of live-stock, the operator of meatworks or an exporter of meat.
+871
+  Section 37A
 
-## 923  Paragraph 115(3)(c)
+ Omit "17A, 19 or 34", substitute "17A or 19 of this Act, or subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “112”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+872
+  Section 37B
 
-## 924  At the end of section 126
+ Repeal the section.
 
-Add:
+873
+  Section 39
 
-             (3)  Subsections (1) and (2) do not prevent investment of surplus money of AMLC under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+ Repeal the section, substitute: 
 
-## 925  Sections 130, 131, 132 and 133
+39
+  Extra matters to be included in annual report
 
-Repeal the sections.
+ <dl compact=""><dl compact="">
 
-## 926  Subsection 163(1)
+		The annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also set out:
 
-Repeal the subsection.
+ </dl></dl>
 
-## 927  Subsection 163(2)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “The annual report for a financial year must include:”, substitute “The annual report on AMLC under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:”.
+<dt>(a)</dt><dd>all directions given to the Corporation by the Minister under subsection
 
-_Note:      The heading to section 163 is replaced by the heading “Extra matters to be included in annual report”._
+17(3C), section 20 or subsection 31A(4) or 31C(1) during the year to which the
 
-## 928  Subsections 163(4) and (5)
+report relates; and</dd>
 
-Repeal the subsections.
+<dt>(b)</dt><dd>all determinations made by the Minister under subsection 25(4) or 31B(1)
 
-## 929  At the end of subsection 166(2)
+or (2) during the year to which the report relates.
 
-Add:
+</dd>
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to MRC. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+</dl></dl></dl>
 
-## 930  Section 191
+874
+  Section 40
 
-Repeal the section, substitute:
+ Repeal the section, substitute: 
 
-##### <a id="191"></a>191  Situations that do not amount to interests requiring disclosure
+40
+  A Minister cannot require reports etc. about affairs of a 
+particular person
 
-                   For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal interest in a matter being considered or about to be considered by MRC merely because the member is a producer of live-stock, an exporter of live-stock, the operator of meatworks or an exporter of meat.
+<dl compact=""><dl compact="">
 
-## 931  Paragraph 194(3)(c)
+		A Minister cannot, under paragraph 16(1)(b) or (c) of the _Commonwealth Authorities and Companies Act 1997_, require the members of the Corporation
 
-Omit “191”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+to give that Minister a report, document or information relating to the affairs
 
-## 932  At the end of section 205
+of a particular person.
 
-Add:
+ </dl></dl>
 
-             (2)  Subsection (1) does not prevent investment of surplus money of MRC under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+_Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996_
 
-## 933  Section 208
+875
+  Subsection 40(1)
 
-Repeal the section.
+ After "section 39 of that Act", insert ", or section 9 of the _Commonwealth Authorities and Companies Act 1997_,".
 
-## 934  Section 213
+<center>Back to Top</center>
 
-Omit “MRC must include in each annual report prepared under section 63H of the _Audit Act 1901_, as that section applies to it because of section 208 of this Act:”, substitute “ The annual report on MRC under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:”.
+876
+  Subsection 40(2)
 
-_Note:      The heading to section 213 is replaced by the heading “Extra matters to be included in annual report”._
+ Omit "section 39 of the Housing Loans Insurance Act, as it continues in force by subsection (1) of this section,", substitute "the section that applies to the period of 12 months ending on that 30 June (being either section 39 of the Housing Loans Insurance Act or section 9 of the _Commonwealth Authorities and Companies Act 1997_)". 
 
-## 935  Paragraph 221(3)(b)
+_Income Tax Assessment Act 1936_
 
-Omit “authority’s annual report”, substitute “annual report on the authority under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+877
+  Subsection 128U(1) (definition of _mining payment_)
 
-## 936  At the end of section 221
+Omit "Trust Account" (wherever occurring), substitute "Aboriginals Benefit Reserve".
 
-Add:
+878
+  Subsection 128U(1) (definition of _Trust Account_)
 
-             (5)  This section does not apply to notices under section 28 of the _Commonwealth Authorities_ and _Companies Act 1997_, and does not affect the Minister’s power to give notices under that section.
+ Repeal the definition.
 
-<h9 class="ActHead9">Military Superannuation and Benefits Act 1991</h9>
+879
+  Subsection 128U(1)
 
-## 937  At the end of section 19
+ Insert:
 
-Add:
+<def><dl compact=""><dl compact="">
 
-             (4)  The Board is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+_Aboriginals Benefit Reserve_ means the Aboriginals Benefit Reserve
 
-## 938  Section 25
+established by section 62 of the _Aboriginal Land Rights (Northern Territory) Act 1976_.
 
-Repeal the section, substitute:
+ </dl></dl>
 
-##### <a id="25"></a>25  Banking
+880
+  Subsection 159ZR(1) (definition of _eligible income_)
 
-             (1)  The Board must pay all money received by it in respect of the Fund into an account maintained by it with a bank.
+After "section 34A of the _Audit Act 1901_", insert "or section 33 of the _Financial Management and Accountability Act 1997_". 
 
-             (2)  In this section:
+_Interstate Road Transport Act 1985_
 
-                    <a name="bank"></a>**_bank_** has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
+881
+  Subsection 3(1) (definition of _Fund_)
 
-##### <a id="25A"></a>25A  Accounting records
+ Repeal the definition.
 
-             (1)  The Board must keep proper accounts and records of the Fund’s transactions and affairs in accordance with the accounting principles generally applied in commercial practice.
+882
+  Subsection 3(1)
 
-             (2)  The Board must do all things necessary to ensure that:
+ Insert:
 
-                     (a)  all payments out of the Fund are correctly made and properly authorised; and
+<def><dl compact=""><dl compact="">
 
-                     (b)  adequate control is maintained over the assets of the Fund and over the incurring of liabilities by the Board in respect of the Fund.
+_Reserve_ means the Interstate Road Transport Reserve established
 
-             (3)  If a requirement of this section is contravened, each member of the Board who intentionally:
+by section 21.
 
-                     (a)  caused the contravention; or
+ </dl></dl>
 
-                     (b)  failed to take all reasonable steps to comply with the requirement, or secure compliance with the requirement;
+883
+  Part IV (heading)
+
+ Repeal the heading, substitute: 
+
+<part>Part IV&#151;Interstate Road Transport Reserve
+
+884
+  Section 21
+
+ Repeal the section, substitute: 
+
+21
+  Interstate Road Transport Reserve
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Interstate Road Transport
+
+Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.</dd> <dt>(3)</dt><dd>If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund. </dd> </dl></dl>
+
+885
+  Subsection 22(1)
+
+ Omit "Fund", substitute "Reserve".
+
+Note:	The heading to section 22 is altered by omitting "Fund" and substituting "Reserve".
+
+886
+  Subsection 22(1)
+
+ Omit "which is appropriated accordingly,".
+
+887
+  Subsection 22(2)
+
+ Omit "Fund", substitute "Reserve, out of the Consolidated Revenue Fund, amounts equal to".
+
+888
+  Section 23
+
+ Omit "Fund", (wherever occurring), substitute "Reserve".
+
+Note:	The heading to section 23 is altered by omitting "Fund" and substituting "Reserve". 
+<center>Back to Top</center>
+
+_Lands Acquisition Act 1989_
+
+889
+  Section 6 (definition of _Trust Fund_)
+
+ Repeal the definition.
+
+890
+  Section 6
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Reserve_ means the Lands Acquisition Reserve established by
+
+section 89A.
+
+ </dl></dl>
+
+891
+  After section 89
+
+ Insert: 
+
+89A
+  Establishment of Lands Acquisition Reserve
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Lands Acquisition
+
+Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund. </dd> </dl></dl>
+
+892
+  Section 90
+
+ Omit "Trust Fund" (wherever occurring), substitute "Reserve".
+
+Note:	The heading to section 90 is altered by omitting "Trust Fund" and substituting "Reserve".
+
+893
+  Section 114
+
+ Omit "Trust Fund" (wherever occurring), substitute "Reserve".
+
+Note:	The heading to section 114 is altered by omitting "Trust Fund" and substituting "Reserve". 
+
+_Loan Consolidation and Investment Reserve Act 1955_
+
+894
+  Subsection 4(2)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.
+
+</dd> </dl></dl>
+
+895
+  Section 5
+
+ Repeal the section, substitute: 
+
+5
+  Payments to Reserve
+
+ <dl compact=""><dl compact="">
+
+		There must be transferred to the Reserve from the Consolidated Revenue Fund:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>amounts appropriated by the Parliament for the purposes of the Reserve;
+
+and</dd>
+
+<dt>(b)</dt><dd>amounts equal to interest received by the Commonwealth from the investment
+
+of money from the Reserve.
+
+</dd>
+
+</dl></dl></dl>
+
+896
+  Subsection 6(4)
+
+ Omit "section 62B of the _Audit Act 1901_", substitute "section 39 of the _Financial Management and Accountability Act 1997_".
+
+897
+  Subsection 7(4)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Section 62 of the _Financial Management and Accountability Act 1997_
+
+applies to the Finance Minister's power under subsection 6(4) of this Act in
+
+the same way as that section applies to the Finance Minister's powers under the
+
+_Financial Management and Accountability Act 1997_.
+
+</dd> </dl></dl>
+
+_Loan (Income Equalization Deposits) Act 1976_
+
+898
+  Subsection 4B(3)
+
+ Omit "Trust Account", substitute "Reserve".
+
+<center>Back to Top</center>
+
+899
+  Section 7
+
+ Repeal the section, substitute: 
+
+7
+  Establishment of Reserve
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Income Equalization
+
+Deposits Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund. </dd> </dl></dl>
+
+900
+  Section 8
+
+ Omit "Trust Account" (wherever occurring), substitute "Reserve".
+
+Note:	The heading to section 8 is altered by omitting "Trust Account" and substituting "Reserve".
+
+901
+  Subsection 15A(9)
+
+ Omit "Trust Account", substitute "Reserve". 
+
+_Loan (Temporary Revenue Deficits) Act 1953_
+
+902
+  Subsection 3(1)
+
+ Omit "Notwithstanding section fifty-seven of the _Audit Act 1901-1952_, whenever", substitute "Whenever". 
+
+_Maritime College Act 1978_
+
+903
+  At the end of subsection 5(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the College. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+904
+  Paragraph 17(2)(b)
+
+ Omit "an obligation imposed on him or her by section 18", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+905
+  Section 18
+
+ Repeal the section.
+
+906
+  After section 32
+
+ Insert: 
+
+33
+  College's financial year starts on 1 January
+
+ <dl compact=""><dl compact="">
+
+		For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the College's financial year is a period of 12 months starting on 1
+
+January.
+
+ </dl></dl>
+
+907
+  At the end of section 34
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the College
+
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+908
+  Section 35
+
+ Repeal the section.
+
+909
+  Section 37C
+
+ Omit "35,".
+
+910
+  Section 37E
+
+ Repeal the section. 
+
+_Meat and Live-stock Industry Act 1995_
+
+911
+  At the end of subsection 8(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Council. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+912
+  Paragraph 23(1)(a)
+
+ Repeal the paragraph, substitute:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to consider the most recent annual reports on the Council, AMLC and MRC
+
+(these reports are prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_); and
+
+</dd>
+
+</dl></dl></dl>
+
+913
+  Paragraph 23(2)(a)
+
+ Omit all the words after "annual report", substitute "on the Council be received;".
+
+914
+  Paragraph 23(2)(b)
+
+ Omit all the words after "annual report", substitute "on AMLC be received;".
+
+915
+  Paragraph 23(2)(c)
+
+ Omit all the words after "annual report", substitute "on MRC be received;".
+
+916
+  Section 32
+
+ Repeal the section, substitute: 
+
+32
+  Situations that do not amount to interests requiring 
+disclosure
+
+<dl compact=""><dl compact="">
+
+		For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal
+
+interest in a matter being considered or about to be considered by the Council
+
+merely because the member is a producer of live-stock, an exporter of
+
+live-stock, the operator of meatworks or an exporter of meat.
+
+ </dl></dl>
+
+917
+  Paragraph 35(3)(c)
+
+ Omit "32", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+918
+  At the end of section 44
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Council
+
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+919
+  Section 47
+
+ Repeal the section.
+
+920
+  Section 50
+
+ Omit "The Council must include in each annual report prepared under section 63H of the _Audit Act 1901_, as that section applies to it because of section 47 of this Act:", substitute "The annual report on the Council under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:".
+
+Note:	The heading to section 50 is replaced by the heading "Extra matters to be included in annual report".
+
+921
+  At the end of subsection 53(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to AMLC. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+922
+  Section 112
+
+ Repeal the section, substitute: 
+
+112
+  Situations that do not amount to interests requiring 
+disclosure
+
+<dl compact=""><dl compact="">
+
+		For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal
+
+interest in a matter being considered or about to be considered by AMLC merely
+
+because the member is a producer of live-stock, an exporter of live-stock, the
+
+operator of meatworks or an exporter of meat.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+923
+  Paragraph 115(3)(c)
+
+ Omit "112", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+924
+  At the end of section 126
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Subsections (1) and (2) do not prevent investment of surplus money of AMLC
+
+under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+925
+  Sections 130, 131, 132 and 133
+
+ Repeal the sections.
+
+926
+  Subsection 163(1)
+
+ Repeal the subsection.
+
+927
+  Subsection 163(2)
+
+ Omit "The annual report for a financial year must include:", substitute "The annual report on AMLC under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:".
+
+Note:	The heading to section 163 is replaced by the heading "Extra matters to be included in annual report".
+
+928
+  Subsections 163(4) and (5)
+
+ Repeal the subsections.
+
+929
+  At the end of subsection 166(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to MRC. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+930
+  Section 191
+
+ Repeal the section, substitute: 
+
+191
+  Situations that do not amount to interests requiring 
+disclosure
+
+<dl compact=""><dl compact="">
+
+		For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal
+
+interest in a matter being considered or about to be considered by MRC merely
+
+because the member is a producer of live-stock, an exporter of live-stock, the
+
+operator of meatworks or an exporter of meat.
+
+ </dl></dl>
+
+931
+  Paragraph 194(3)(c)
+
+ Omit "191", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+932
+  At the end of section 205
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of MRC under
+
+section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+933
+  Section 208
+
+ Repeal the section.
+
+934
+  Section 213
+
+ Omit "MRC must include in each annual report prepared under section&#160;63H of the _Audit Act 1901_, as that section applies to it because of section&#160;208 of this Act:", substitute " The annual report on MRC under section&#160;9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:".
+
+Note:	The heading to section 213 is replaced by the heading "Extra matters to be included in annual report".
+
+935
+  Paragraph 221(3)(b)
+
+ Omit "authority's annual report", substitute "annual report on the authority 
+<center>Back to Top</center>
+ under section 9 of the _Commonwealth Authorities and Companies Act 1997_".
+
+936
+  At the end of section 221
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>This section does not apply to notices under section 28 of the
+
+_Commonwealth Authorities_ and _Companies Act 1997_, and does not
+
+affect the Minister's power to give notices under that section.
+
+</dd> </dl></dl>
+
+_Military Superannuation and Benefits Act 1991_
+
+937
+  At the end of section 19
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>The Board is not a Commonwealth authority for the purposes of the
+
+_Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+938
+  Section 25
+
+ Repeal the section, substitute: 
+
+25
+  Banking
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Board must pay all money received by it in respect of the Fund into an
+
+account maintained by it with a bank.</dd> <dt>(2)</dt><dd>In this section: </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_bank_ has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
+
+ </dl></dl>
+
+25A
+  Accounting records
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Board must keep proper accounts and records of the Fund's transactions
+
+and affairs in accordance with the accounting principles generally applied in
+
+commercial practice.</dd> <dt>(2)</dt><dd>The Board must do all things necessary to ensure that: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>all payments out of the Fund are correctly made and properly authorised;
+
+and</dd>
+
+<dt>(b)</dt><dd>adequate control is maintained over the assets of the Fund and over the
+
+incurring of liabilities by the Board in respect of the Fund.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If a requirement of this section is contravened, each member of the Board
+
+who intentionally:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>caused the contravention; or</dd>
+
+<dt>(b)</dt><dd>failed to take all reasonable steps to comply with the requirement, or
+
+secure compliance with the requirement;
+
+</dd>
+
+</dl></dl></dl>
 
 is guilty of an offence.
 
-                    Penalty for contravention of subsection (3):  Imprisonment for 6 months
+Penalty for contravention of subsection (3):  Imprisonment for 6 months 
 
-##### <a id="25B"></a>25B  Audit
+25B
+  Audit
 
-             (1)  At least once a year, the Auditor-General must:
+ <dl compact=""><dl compact="">
 
-                     (a)  inspect and audit:
+<dt>(1)</dt><dd>At least once a year, the Auditor-General must:
 
-                              (i)  the accounts and records of the Fund’s financial transactions; and
+</dd> </dl></dl>
 
-                             (ii)  the records relating to assets of the Fund; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  report to the Minister the results of the inspection and audit.
+<dt>(a)</dt><dd>inspect and audit:
 
-             (2)  The Auditor-General may, however, decide to dispense with all or any part of the detailed inspection of the accounts and records.
+</dd>
 
-             (3)  The Auditor-General must, as soon as practicable, report to the Minister any irregularity disclosed by the inspection that the Auditor-General thinks is sufficiently important to be reported.
+</dl></dl></dl>
 
-Note:          For the information-gathering powers of the Auditor-General, see Part 5 of the _Auditor-General Act 1997_.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">National Cattle Disease Eradication Trust Account Act 1991</h9>
+<dt>(i)</dt><dd>the accounts and records of the Fund's financial transactions; and</dd>
 
-## 939  Title
+<dt>(ii)</dt><dd>the records relating to assets of the Fund; and
 
-Omit “**continue in existence the National Cattle Disease Eradication Trust Account**”, substitute “**establish the National Cattle Disease Eradication Reserve**”.
+</dd>
 
-## 940  Section 1
+</dl></dl></dl></dl>
 
-Omit “_Trust Account_”, substitute “_Reserve_”.
+<center>Back to Top</center>
 
-## 941  Section 3 (definition of _the Account_)
+<dl compact=""><dl compact=""><dl compact="">
 
-Repeal the definition.
+<dt>(b)</dt><dd>report to the Minister the results of the inspection and audit.
 
-## 942  Section 3
+</dd>
 
-Insert:
+</dl></dl></dl>
 
-                    <a name="reserv"></a>**_Reserve_** means the National Cattle Disease Eradication Reserve established by section 4.
+<dl compact=""><dl compact="">
 
-## 943  Section 4
+<dt>(2)</dt><dd>The Auditor-General may, however, decide to dispense with all or any part
 
-Repeal the section, substitute:
+of the detailed inspection of the accounts and records.</dd> <dt>(3)</dt><dd>The Auditor-General must, as soon as practicable, report to the Minister any irregularity disclosed by the inspection that the Auditor-General thinks is sufficiently important to be reported. </dd> </dl></dl>
 
-##### <a id="4"></a>4  Establishment of Reserve
+<dl compact=""><dl compact="">
 
-             (1)  This subsection establishes a reserve called the National Cattle Disease Eradication Reserve.
+Note:	For the information-gathering powers of the
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+Auditor-General, see Part&#160;5 of the _Auditor-General Act 1997_.
 
-## 944  Subsection 5(1)
+ </dl></dl>
 
-Omit “There is to be paid into the Account”, substitute “There must be transferred to the Reserve from the Consolidated Revenue Fund”.
+_National Cattle Disease Eradication Trust Account Act 1991_
 
-_Note:       The heading to section 5 is altered by omitting “Trust Account” and substituting “Reserve”._
+939
+  Title
 
-## 945  Paragraph 5(1)(c)
+ Omit "continue in existence the National Cattle Disease Eradication Trust Account", substitute "establish the National Cattle Disease Eradication Reserve".
 
-Omit “Account”, substitute “Reserve”.
+940
+  Section 1
 
-## 946  Paragraph 5(1)(d)
+ Omit "_Trust Account_", substitute "_Reserve_".
 
-Repeal the paragraph, substitute:
+941
+  Section 3 (definition of _the Account_)
 
-                     (d)  amounts equal to interest from the investment of money from the Reserve.
+ Repeal the definition.
 
-## 947  Subsection 5(2)
+942
+  Section 3
 
-Repeal the subsection.
+ Insert:
 
-## 948  Section 6
+<def><dl compact=""><dl compact="">
 
-Omit “Account”, substitute “Reserve”.
+_Reserve_ means the National Cattle Disease Eradication Reserve
 
-_Note:       The heading to section 6 is altered by omitting “Trust Account” and substituting “Reserve”._
+established by section 4.
 
-<h9 class="ActHead9">National Environment Protection Council Act 1994</h9>
+ </dl></dl>
 
-## 949  At the end of section 56
+943
+  Section 4
 
-Add:
+ Repeal the section, substitute: 
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Service Corporation under section 18 of the _Commonwealth Authorities and Companies Act 1997_ as it applies to the Service Corporation under section 59 of this Act.
+4
+  Establishment of Reserve
 
-## 950  Sections 58 and 59
+ <dl compact=""><dl compact="">
 
-Repeal the sections, substitute:
+<dt>(1)</dt><dd>This subsection establishes a reserve called the National Cattle Disease
 
-##### <a id="59"></a>59  Application of the _Commonwealth Authorities and Companies Act 1997_
+Eradication Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund. </dd> </dl></dl>
 
-             (1)  The Service Corporation is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+944
+  Subsection 5(1)
 
-             (2)  Sections 9, 18 and 20 of that Act, and Schedule 1 to that Act, apply in relation to the Service Corporation as if it were a Commonwealth authority for the purposes of that Act.
+ Omit "There is to be paid into the Account", substitute "There must be transferred to the Reserve from the Consolidated Revenue Fund".
 
-             (3)  Section 9 of the _Commonwealth Authorities and Companies Act 1997_ applies in relation to the Service Corporation as if the NEPC Executive Officer were a director of the Service Corporation for the purposes of that Act.
+Note:	The heading to section 5 is altered by omitting "Trust Account" and substituting "Reserve".
 
-             (4)  Schedule 1 to that Act applies in relation to the Commission as if references in that Schedule to the Finance Minister’s Orders were references to requirements set out in a resolution of the Ministerial Council carried in accordance with section 28 of this Act.
+945
+  Paragraph 5(1)(c)
 
-             (5)  An annual report prepared under section 9 of that Act must also contain any other information required by the Council to be included in the report.
+ Omit "Account", substitute "Reserve".
 
-             (6)  A copy of each annual report given to the Minister must be given to each member of the Ministerial Council as soon as practicable.
+946
+  Paragraph 5(1)(d)
 
-<h9 class="ActHead9">National Gallery Act 1975</h9>
+ Repeal the paragraph, substitute:
 
-## 951  Subsection 3(1) (definitions of _Chairman_ and _Deputy Chairman_)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+<dt>(d)</dt><dd>amounts equal to interest from the investment of money from the Reserve.
 
-## 952  At the end of subsection 4(2)
+</dd>
 
-Add:
+</dl></dl></dl>
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Gallery. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+947
+  Subsection 5(2)
 
-## 953  Subsection 7(4)
+ Repeal the subsection.
 
-Omit “sections 36 and 39”, substitute “section 36 of this Act and subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+948
+  Section 6
 
-## 954  Paragraph 13(1)(a) and section 14
+ Omit "Account", substitute "Reserve".
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+Note:	The heading to section 6 is altered by omitting "Trust Account" and substituting "Reserve". 
 
-## 955  Paragraph 17(2)(c)
+_National Environment Protection Council Act 1994_
 
-Omit “19”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+949
+  At the end of section 56
 
-## 956  Section 19
+ Add:
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-## 957  Section 20 and subsections 22(1) and (5)
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Service
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+Corporation under section 18 of the _Commonwealth Authorities and Companies Act 1997_ as it applies to the Service Corporation under section 59 of this
 
-## 958  Paragraph 29(2)(aa)
+Act.
 
-Omit “19”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+</dd> </dl></dl>
 
-## 959  Section 35
+<center>Back to Top</center>
 
-Repeal the section.
+950
+  Sections 58 and 59
 
-## 960  At the end of section 37
+ Repeal the sections, substitute: 
 
-Add:
+59
+  Application of the _Commonwealth Authorities and Companies Act 1997_
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Gallery under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+<dl compact=""><dl compact="">
 
-## 961  Subsection 38(2)
+<dt>(1)</dt><dd>The Service Corporation is not a Commonwealth authority for the purposes
 
-Omit “39”, substitute “18 of the _Commonwealth Authorities and Companies Act 1997_”.
+of the _Commonwealth Authorities and Companies Act 1997_.</dd> <dt>(2)</dt><dd>Sections 9, 18 and 20 of that Act, and Schedule 1 to that Act, apply in relation to the Service Corporation as if it were a Commonwealth authority for the purposes of that Act.</dd> <dt>(3)</dt><dd>Section 9 of the _Commonwealth Authorities and Companies Act 1997_ applies in relation to the Service Corporation as if the NEPC Executive Officer were a director of the Service Corporation for the purposes of that Act.</dd> <dt>(4)</dt><dd>Schedule 1 to that Act applies in relation to the Commission as if references in that Schedule to the Finance Minister's Orders were references to requirements set out in a resolution of the Ministerial Council carried in accordance with section 28 of this Act.</dd> <dt>(5)</dt><dd>An annual report prepared under section 9 of that Act must also contain any other information required by the Council to be included in the report.</dd> <dt>(6)</dt><dd>A copy of each annual report given to the Minister must be given to each member of the Ministerial Council as soon as practicable. </dd> </dl></dl>
 
-## 962  Sections 39 and 40
+_National Gallery Act 1975_
 
-Repeal the sections, substitute:
+951
+  Subsection 3(1) (definitions of _Chairman_ and _Deputy Chairman_)
 
-##### <a id="40"></a>40  Extra matters to be included in annual report
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-                   In each report on the Gallery under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must include particulars of any disposals of works of art under section 9 of this Act during the financial year to which the report relates.
+952
+  At the end of subsection 4(2)
 
-<h9 class="ActHead9">National Health Act 1953</h9>
+ Add:
 
-## 963  At the end of subsection 82B(2)
+<dl compact=""><dl compact="">
 
-Add:
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Note:         Subject to section 82BA, the _Commonwealth Authorities and Companies Act 1997_ applies to the Council. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+applies to the Gallery. That Act deals with matters relating to Commonwealth
 
-## 964  After section 82B
+authorities, including reporting and accountability, banking and investment,
 
-Insert:
+and conduct of officers.
 
-##### <a id="82BA"></a>82BA  Modification of the _Commonwealth Authorities and Companies Act 1997_
+ </dl></dl>
 
-             (1)  The _Commonwealth Authorities and Companies Act 1997_ applies (subject to subsection (2)) in relation to the Council as if the Commissioner were the Council’s only director.
+953
+  Subsection 7(4)
 
-             (2)  Sections 14 and 21 of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the Council.
+ Omit "sections 36 and 39", substitute "section 36 of this Act and subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 965  After section 82C
+954
+  Paragraph 13(1)(a) and section 14
 
-Insert:
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-##### <a id="82CA"></a>82CA  Disclosure of interests by Commissioner
+955
+  Paragraph 17(2)(c)
 
-                   If the Commissioner has a material personal interest in a matter that the Commissioner is considering or is about to consider, the Commissioner must give written notice of the interest to the Minister.
+ Omit "19", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 966  Section 82P
+956
+  Section 19
 
-After “powers of the Council”, insert “, other than functions and powers under the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the section.
 
-## 967  At the end of section 82PA
+957
+  Section 20 and subsections 22(1) and (5)
 
-Add:
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-Note:         An annual report on the Council’s operations must also be prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
+958
+  Paragraph 29(2)(aa)
 
-_Note:       The heading to section 82PA is replaced by the heading “Report on registered organisations”._
+ Omit "19", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 968  At the end of subsection 82ZR(1)
+959
+  Section 35
 
-Add:
+ Repeal the section.
 
-Note:         Subject to section 82ZRAA, the _Commonwealth Authorities and Companies Act 1997_ applies to the Complaints Commissioner. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+960
+  At the end of section 37
 
-## 969  After section 82ZR
+ Add:
 
-Insert:
+<dl compact=""><dl compact="">
 
-##### <a id="82ZRAA"></a>82ZRAA  _Commonwealth Authorities and Companies Act 1997_ applies as though Complaints Commissioner were a director
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Gallery
 
-             (1)  Subsection 82ZR(1) provides that the Complaints Commissioner is a corporation. The _Commonwealth Authorities and Companies Act 1997_ applies (subject to subsection (2)) in relation to the corporation as if the person holding, or performing the duties of, the office of Complaints Commissioner were a director of the corporation for the purposes of that Act.
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-             (2)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to the Complaints Commissioner.
+</dd> </dl></dl>
 
-## 970  After section 82ZUB
+961
+  Subsection 38(2)
 
-Insert:
+ Omit "39", substitute "18 of the _Commonwealth Authorities and Companies Act 1997_".
 
-##### <a id="82ZUBA"></a>82ZUBA  Disclosure of interest by Complaints Commissioner
+962
+  Sections 39 and 40
 
-                   If the Complaints Commissioner has a material personal interest in a matter that the Complaints Commissioner is considering or is about to consider, the Complaints Commissioner must give written notice of the interest to the Minister.
+ Repeal the sections, substitute: 
+<center>Back to Top</center>
 
-## 971  Subsection 82ZVA(1)
+40
+  Extra matters to be included in annual report
 
-Repeal the subsection.
+ <dl compact=""><dl compact="">
 
-## 972  Subsection 82ZVA(2)
+		In each report on the Gallery under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must include particulars of
 
-Omit all the words from and including “The annual report” to and including “summary of:”, substitute “The annual report prepared by the Complaints Commissioner under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include a summary of:”.
+any disposals of works of art under section 9 of this Act during the financial
 
-_Note:       The heading to section 82ZVA is replaced by the heading “Extra matters to be included in annual report._
+year to which the report relates.
 
-<h9 class="ActHead9">National Health and Medical Research Council Act 1992</h9>
+ </dl></dl>
 
-## 973  Section 4 (definition of _Fund_)
+_National Health Act 1953_
 
-Repeal the definition.
+963
+  At the end of subsection 82B(2)
 
-## 974  Section 4
+ Add:
 
-Insert:
+<dl compact=""><dl compact="">
 
-                    <a name="reserv"></a>**_Reserve_** means the Medical Research Endowment Reserve established by section 49.
+Note:	Subject to section 82BA, the _Commonwealth Authorities and Companies Act 1997_ applies to the Council. That Act deals with matters
 
-## 975  Paragraph 7(1)(c)
+relating to Commonwealth authorities, including reporting and accountability,
 
-Omit “Fund”, substitute “Reserve”.
+banking and investment, and conduct of officers.
 
-## 976  Paragraphs 35(2)(a) and (b)
+ </dl></dl>
 
-Omit “Fund”, substitute “Reserve”.
+964
+  After section 82B
 
-## 977  Part 7 (heading)
+ Insert: 
 
-Repeal the heading, substitute:
+82BA
+  Modification of the _Commonwealth Authorities and Companies Act 1997_
 
-## Part 7—Medical Research Endowment Reserve
+<dl compact=""><dl compact="">
 
-## 978  Section 49
+<dt>(1)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ applies
 
-Repeal the section, substitute:
+(subject to subsection (2)) in relation to the Council as if the Commissioner
 
-##### <a id="49"></a>49  Establishment of Reserve
+were the Council's only director.</dd> <dt>(2)</dt><dd>Sections 14 and 21 of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the Council. </dd> </dl></dl>
 
-             (1)  This subsection establishes a reserve called the Medical Research Endowment Reserve.
+965
+  After section 82C
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+ Insert: 
 
-             (3)  If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund.
+82CA
+  Disclosure of interests by Commissioner
 
-## 979  Section 50
+ <dl compact=""><dl compact="">
 
-Repeal the section, substitute:
+		If the Commissioner has a material personal interest in a matter that the
 
-##### <a id="50"></a>50  Payments into Reserve
+Commissioner is considering or is about to consider, the Commissioner must give
 
-                   There must be transferred to the Reserve from the Consolidated Revenue Fund:
+written notice of the interest to the Minister.
 
-                     (a)  amounts from time to time appropriated by the Parliament for the purposes of the Reserve; and
+ </dl></dl>
 
-                     (b)  amounts equal to amounts that are given or bequeathed for the purposes of the Reserve.
+966
+  Section 82P
 
-## 980  Subsection 51(1)
+ After "powers of the Council", insert ", other than functions and powers under the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “Fund”, substitute “Reserve”.
+967
+  At the end of section 82PA
 
-_Note:       The heading to section 51 is altered by omitting “Fund” and substituting “Reserve”._
+ Add:
 
-## 981  Subsection 52(1)
+<dl compact=""><dl compact="">
 
-Omit “the _Audit Act 1901_ (other than section 62B of that Act)”, substitute “the _Financial Management and Accountability Act 1997_ (other than section 39 of that Act)”.
+Note:	An annual report on the Council's operations must also be
 
-## 982  Subsection 52(1)
+prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Omit “Fund” (wherever occurring), substitute “Reserve”.
+ </dl></dl>
 
-## 983  Subsection 52(2)
+Note:	The heading to section 82PA is replaced by the heading "Report on registered organisations".
 
-Omit “Fund”, substitute “Reserve”.
+968
+  At the end of subsection 82ZR(1)
 
-## 984  Section 53
+ Add:
 
-Repeal the section, substitute:
+<dl compact=""><dl compact="">
 
-##### <a id="53"></a>53  Money repaid to the Commonwealth
+Note:	Subject to section 82ZRAA, the _Commonwealth Authorities and Companies Act 1997_ applies to the Complaints Commissioner. That Act
 
-                   Amounts equal to money repaid to the Commonwealth in accordance with a condition determined under subsection 51(2) must be transferred to the Reserve from the Consolidated Revenue Fund.
+deals with matters relating to Commonwealth authorities, including reporting
 
-<h9 class="ActHead9">National Library Act 1960</h9>
+and accountability, banking and investment, and conduct of officers.
 
-## 985  At the end of subsection 5(1)
+ </dl></dl>
 
-Add:
+969
+  After section 82ZR
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Library. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Insert: 
 
-## 986  Section 12
+82ZRAA
+  _Commonwealth Authorities and Companies Act 1997_ applies 
+as though Complaints Commissioner were a director
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+<center>Back to Top</center>
 
-## 987  Paragraph 15(1)(e)
+<dl compact=""><dl compact="">
 
-Omit “15B”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<dt>(1)</dt><dd>Subsection 82ZR(1) provides that the Complaints Commissioner is a
 
-## 988  Section 15B
+corporation. The _Commonwealth Authorities and Companies Act 1997_ applies
 
-Repeal the section.
+(subject to subsection (2)) in relation to the corporation as if the person
 
-## 989  Section 16
+holding, or performing the duties of, the office of Complaints Commissioner
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+were a director of the corporation for the purposes of that Act.</dd> <dt>(2)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to the Complaints Commissioner. </dd> </dl></dl>
 
-## 990  Paragraph 17E(1)(aa)
+970
+  After section 82ZUB
 
-Omit “15B”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Insert: 
 
-## 991  Sections 21 and 21A
+82ZUBA
+  Disclosure of interest by Complaints Commissioner
 
-Repeal the sections.
+ <dl compact=""><dl compact="">
 
-## 992  At the end of section 22
+		If the Complaints Commissioner has a material personal interest in a matter
 
-Add:
+that the Complaints Commissioner is considering or is about to consider, the
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Library under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+Complaints Commissioner must give written notice of the interest to the
 
-## 993  Section 23
+Minister.
 
-Repeal the section.
+ </dl></dl>
 
-## 994  Section 27
+971
+  Subsection 82ZVA(1)
 
-Repeal the section.
+ Repeal the subsection.
 
-<h9 class="ActHead9">National Measurement Act 1960</h9>
+972
+  Subsection 82ZVA(2)
 
-## 995  At the end of subsection 16(2)
+ Omit all the words from and including "The annual report" to and including "summary of:", substitute "The annual report prepared by the Complaints Commissioner under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include a summary of:".
 
-Add:
+Note:	The heading to section 82ZVA is replaced by the heading "Extra matters to be included in annual report. 
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+_National Health and Medical Research Council Act 1992_
 
-## 996  Subsection 17(1)
+973
+  Section 4 (definition of _Fund_)
 
-Omit “Chairman”, substitute “Chair”.
+ Repeal the definition.
 
-## 997  Paragraph 18AC(2)(c)
+974
+  Section 4
 
-Omit “18AD”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Insert:
 
-## 998  Sections 18AD and 18C
+<def><dl compact=""><dl compact="">
 
-Repeal the sections.
+_Reserve_ means the Medical Research Endowment Reserve established
 
-## 999  Subsections 18AE(2), (4), (5) and (7), sections 18AM, 18AN and 18AO and subsection 18AP(6)
+by section 49.
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+ </dl></dl>
 
-## 1000  Paragraph 18D(c)
+975
+  Paragraph 7(1)(c)
 
-Omit “18DA”, substitute “18 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "Fund", substitute "Reserve".
 
-## 1001  Sections 18DA and 18E
+976
+  Paragraphs 35(2)(a) and (b)
 
-Repeal the sections.
+ Omit "Fund", substitute "Reserve".
 
-## 1002  Subsection 18F(2)
+977
+  Part 7 (heading)
 
-Omit “18DA”, substitute “18 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the heading, substitute: 
 
-## 1003  Sections 18G, 18H and 19C
+<part>Part 7&#151;Medical Research Endowment Reserve
 
-Repeal the sections.
+978
+  Section 49
 
-<h9 class="ActHead9">National Museum of Australia Act 1980</h9>
+ Repeal the section, substitute: 
 
-## 1004  Section 3 (definitions of _Chairman_ and _Deputy Chairman_)
+49
+  Establishment of Reserve
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+ <dl compact=""><dl compact="">
 
-## 1005  At the end of subsection 4(2)
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Medical Research
 
-Add:
+Endowment Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.</dd> <dt>(3)</dt><dd>If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund. </dd> </dl></dl>
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Museum. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+979
+  Section 50
 
-## 1006  Subsection 9(5)
+ Repeal the section, substitute: 
 
-Omit “The Museum must, in each report prepared under section 63M of the _Audit Act 1901_ (as that section applies by virtue of section 38),”, substitute “In each report on the Museum under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must”.
+50
+  Payments into Reserve
 
-## 1007  Paragraph 13(1)(a) and section 14
+ <dl compact=""><dl compact="">
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+		There must be transferred to the Reserve from the Consolidated Revenue Fund:
 
-## 1008  Paragraph 17(2)(c)
+ </dl></dl>
 
-Omit “section 19”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+<center>Back to Top</center>
 
-## 1009  Section 19
+<dl compact=""><dl compact=""><dl compact="">
 
-Repeal the section.
+<dt>(a)</dt><dd>amounts from time to time appropriated by the Parliament for the purposes
 
-## 1010  Section 20 and subsection 22(6)
+of the Reserve; and</dd>
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+<dt>(b)</dt><dd>amounts equal to amounts that are given or bequeathed for the purposes of
 
-## 1011  Paragraph 27(2)(e)
+the Reserve.
 
-Omit “his obligations under section 19”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+</dd>
 
-## 1012  Section 34
+</dl></dl></dl>
 
-Repeal the section.
+980
+  Subsection 51(1)
 
-## 1013  At the end of section 35
+ Omit "Fund", substitute "Reserve".
 
-Add:
+Note:	The heading to section 51 is altered by omitting "Fund" and substituting "Reserve".
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Museum under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+981
+  Subsection 52(1)
 
-## 1014  Section 36
+ Omit "the _Audit Act 1901_ (other than section 62B of that Act)", substitute "the _Financial Management and Accountability Act 1997_ (other than section 39 of that Act)".
 
-Repeal the section.
+982
+  Subsection 52(1)
 
-## 1015  Subsection 37(2)
+ Omit "Fund" (wherever occurring), substitute "Reserve".
 
-Omit “36”, substitute “18 of the _Commonwealth Authorities and Companies Act 1997_”.
+983
+  Subsection 52(2)
 
-## 1016  Subsections 38(1), (2) and (3)
+ Omit "Fund", substitute "Reserve".
 
-Repeal the subsections.
+984
+  Section 53
 
-_Note:       The heading to section 38 is replaced by the heading “Extra matters to be included in annual report”._
+ Repeal the section, substitute: 
 
-## 1017  Subsection 38(4)
+53
+  Money repaid to the Commonwealth
 
-Omit “Museum in pursuance of section 63M of the _Audit Act_ _1901_ shall”, substitute “members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must”.
+ <dl compact=""><dl compact="">
 
-<h9 class="ActHead9">National Occupational Health and Safety Commission Act 1985</h9>
+		Amounts equal to money repaid to the Commonwealth in accordance with a
 
-## 1018  At the end of subsection 6(2)
+condition determined under subsection 51(2) must be transferred to the Reserve
 
-Add:
+from the Consolidated Revenue Fund.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ </dl></dl>
 
-## 1019  Subsection 10(11)
+_National Library Act 1960_
 
-Repeal the subsection.
+985
+  At the end of subsection 5(1)
 
-## 1020  At the end of section 10
+ Add:
 
-Add:
+<dl compact=""><dl compact="">
 
-Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 1021  Paragraph 14(3)(b)
+applies to the Library. That Act deals with matters relating to Commonwealth
 
-After “27”, insert “of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+authorities, including reporting and accountability, banking and investment,
 
-## 1022  Subsection 14(6)
+and conduct of officers.
 
-Omit “15 or 27”, substitute “27 of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ </dl></dl>
 
-## 1023  Subsections 15(1), (2) and (3)
+986
+  Section 12
 
-Repeal the subsections.
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-_Note:       The heading to section 15 is altered by omitting “members” and substituting “Chairperson and Chief Executive Officer”._
+987
+  Paragraph 15(1)(e)
 
-## 1024  Section 57
+ Omit "15B", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the section.
+988
+  Section 15B
 
-## 1025  Subsection 58(2)
+ Repeal the section.
 
-Repeal the subsection, substitute:
+989
+  Section 16
 
-             (2)  Money standing to the credit of the Fund that is not immediately needed for the purposes of the Fund may be invested under subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_.
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 1026  Subsection 58(8) (definition of _approved bank_)
+990
+  Paragraph 17E(1)(aa)
 
-Repeal the definition.
+ Omit "15B", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 1027  At the end of section 59
+991
+  Sections 21 and 21A
 
-Add:
+ Repeal the sections.
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+992
+  At the end of section 22
 
-## 1028  Section 60
+ Add:
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-## 1029  Subsection 66(2)
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Library
 
-Repeal the subsection, substitute:
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-             (2)  The Minister must cause to be tabled in each House of the Parliament a copy of the statement prepared for a year under subsection (1) at the same time as the annual report for the Commission for that year is tabled under the _Commonwealth Authorities and Companies Act 1997_.
+</dd> </dl></dl>
 
-<h9 class="ActHead9">National Parks and Wildlife Conservation Act 1975</h9>
+993
+  Section 23
 
-## 1030  At the end of subsection 15(1)
+ Repeal the section.
 
-Add:
+994
+  Section 27
 
-Note:         Subject to section 15A, the _Commonwealth Authorities and Companies Act 1997_ applies to the Director. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Repeal the section. 
+<center>Back to Top</center>
 
-## 1031  After section 15
+_National Measurement Act 1960_
 
-Insert:
+995
+  At the end of subsection 16(2)
 
-##### <a id="15A"></a>15A  Modification of the _Commonwealth Authorities and Companies Act 1997_
+ Add:
 
-             (1)  Subsection 15(1) provides that the Director is a corporation. The _Commonwealth Authorities and Companies Act 1997_ applies (subject to subsections (2) and (3)) in relation to the corporation as if the person holding, or performing the duties of, the office of Director were a director of the corporation for the purposes of that Act.
+<dl compact=""><dl compact="">
 
-             (2)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to the Director.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-             (3)  The _Commonwealth Authorities and Companies Act 1997_ applies to the Fund as though the Fund were money of the Director.
+applies to the Commission. That Act deals with matters relating to Commonwealth
 
-## 1032  Subsection 16(3)
+authorities, including reporting and accountability, banking and investment,
 
-Repeal the subsection.
+and conduct of officers.
 
-## 1033  After section 17
+ </dl></dl>
 
-Insert:
+996
+  Subsection 17(1)
 
-##### <a id="17AA"></a>17AA  Disclosure of interest by Director
+ Omit "Chairman", substitute "Chair".
 
-                   If the Director has a material personal interest in a matter that the Director is considering or is about to consider, the Director must give written notice of the interest to the Minister.
+997
+  Paragraph 18AC(2)(c)
 
-## 1034  Section 47
+ Omit "18AD", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the section.
+998
+  Sections 18AD and 18C
 
-## 1035  At the end of section 48
+ Repeal the sections.
 
-Add:
+999
+  Subsections 18AE(2), (4), (5) and (7), sections 18AM, 18AN and 
+18AO and subsection 18AP(6)
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Fund under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 1036  Sections 49A, 50 and 51
+1000
+  Paragraph 18D(c)
 
-Repeal the sections.
+ Omit "18DA", substitute "18 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 1037  Section 52
+1001
+  Sections 18DA and 18E
 
-Repeal the section, substitute:
+ Repeal the sections.
 
-##### <a id="52"></a>52  Extra matters to be included in annual report
+1002
+  Subsection 18F(2)
 
-                   The annual report prepared by the Director under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:
+ Omit "18DA", substitute "18 of the _Commonwealth Authorities and Companies Act 1997_".
 
-                     (a)  particulars of any directions given by the Minister under subsection 16(2) of this Act during the year to which the report relates; and
+1003
+  Sections 18G, 18H and 19C
 
-                     (b)  the report prepared by the Director under section 49 of the _Endangered Species Protection Act 1992_.
+ Repeal the sections. 
 
-## 1038  Section 53
+_National Museum of Australia Act 1980_
 
-Repeal the section.
+1004
+  Section 3 (definitions of _Chairman_ and _Deputy Chairman_)
 
-<h9 class="ActHead9">National Residue Survey Administration Act 1992</h9>
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 1039  Title
+1005
+  At the end of subsection 4(2)
 
-Omit “**Trust Account**”, substitute “**Reserve**”.
+ Add:
 
-## 1040  Section 4 (definition of _Account_)
+<dl compact=""><dl compact="">
 
-Repeal the definition.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 1041  Section 4
+applies to the Museum. That Act deals with matters relating to Commonwealth
 
-Insert:
+authorities, including reporting and accountability, banking and investment,
 
-                    <a name="reserv"></a>**_Reserve_** means the National Residue Survey Reserve established by section 6.
+and conduct of officers.
 
-## 1042  Part 3 (heading)
+ </dl></dl>
 
-Repeal the heading, substitute:
+1006
+  Subsection 9(5)
 
-## Part 3—National Residue Survey Account
+ Omit "The Museum must, in each report prepared under section 63M of the _Audit Act 1901_ (as that section applies by virtue of section 38),", substitute "In each report on the Museum under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must".
 
-## 1043  Section 6
+1007
+  Paragraph 13(1)(a) and section 14
 
-Repeal the section, substitute:
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-##### <a id="6"></a>6  Establishment of Reserve
+1008
+  Paragraph 17(2)(c)
 
-             (1)  This subsection establishes a reserve called the National Residue Survey Reserve.
+ Omit "section 19", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+1009
+  Section 19
 
-## 1044  Section 7
+ Repeal the section.
 
-Omit “There is to be paid into the Account”, substitute “There must be transferred to the Reserve from the Consolidated Revenue Fund”.
+1010
+  Section 20 and subsection 22(6)
 
-_Note:       The heading to section 7 is altered by omitting “Account” and substituting “Reserve”._
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 1045  Paragraphs 7(c), (d) and (da)
+1011
+  Paragraph 27(2)(e)
 
-Repeal the paragraphs, substitute:
+ Omit "his obligations under section 19", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-                     (c)  amounts equal to amounts paid to the Commonwealth for the purposes of the National Residue Survey or the Reserve;
+<center>Back to Top</center>
 
-## 1046  Paragraph 7(e)
+1012
+  Section 34
 
-Omit “Account”, substitute “Reserve”.
+ Repeal the section.
 
-## 1047  Paragraph 7(f)
+1013
+  At the end of section 35
 
-Repeal the paragraph, substitute:
+ Add:
 
-                      (f)  amounts equal to income from the investment of money from the Reserve.
+<dl compact=""><dl compact="">
 
-## 1048  Section 8
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Museum
 
-Omit “Account” (wherever occurring), substitute “Reserve”.
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-_Note:       The heading to section 8 is altered by omitting “Account” and substituting “Reserve”._
+</dd> </dl></dl>
 
-## 1049  Section 10
+1014
+  Section 36
 
-Omit “National Residue Survey Account”, substitute “Reserve”.
+ Repeal the section.
 
-## 1050  Paragraphs 10(a), (b) and (c)
+1015
+  Subsection 37(2)
 
-Omit “Account”, substitute “Reserve”.
+ Omit "36", substitute "18 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 1051  Section 11
+1016
+  Subsections 38(1), (2) and (3)
 
-Omit “National Residue Survey Account”, substitute “Reserve”.
+ Repeal the subsections.
 
-## 1052  Section 12
+Note:	The heading to section 38 is replaced by the heading "Extra matters to be included in annual report".
 
-Repeal the section.
+1017
+  Subsection 38(4)
 
-<h9 class="ActHead9">National Road Transport Commission Act 1991</h9>
+ Omit "Museum in pursuance of section 63M of the _Audit Act_ _1901_ shall", substitute "members under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must". 
 
-## 1053  Sections 40 and 41
+_National Occupational Health and Safety Commission Act 1985_
 
-Repeal the sections, substitute:
+1018
+  At the end of subsection 6(2)
 
-##### <a id="40"></a>40  Application of the _Commonwealth Authorities and Companies Act 1997_
+ Add:
 
-             (1)  The Commission is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+<dl compact=""><dl compact="">
 
-             (2)  Sections 9, 18 and 20 of that Act, and Schedule 1 to that Act, apply in relation to the Commission as if it were a Commonwealth authority for the purposes of that Act.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-             (3)  Schedule 1 to that Act applies in relation to the Commission as if references in that Schedule to the Finance Minister’s Orders were references to requirements set out in a resolution of the Ministerial Council passed in accordance with the Heavy Vehicles Agreement.
+applies to the Commission. That Act deals with matters relating to Commonwealth
 
-             (4)  An annual report prepared by members under section 9 of that Act must also contain any other information required by an Agreement to be included in the report.
+authorities, including reporting and accountability, banking and investment,
 
-             (5)  A copy of each annual report given to the Minister must be given to each member of the Ministerial Council as soon as practicable.
+and conduct of officers.
 
-<h9 class="ActHead9">Native Title Act 1993</h9>
+ </dl></dl>
 
-## 1054  Sections 133, 134 and 135
+1019
+  Subsection 10(11)
 
-Repeal the sections, substitute:
+ Repeal the subsection.
 
-##### <a id="133"></a>133  Annual report
+1020
+  At the end of section 10
 
-             (1)  As soon as practicable after 30 June in each year, the President must prepare and give to the Commonwealth Minister a report of the management of the administrative affairs of the Tribunal during the year.
+ Add:
 
-             (2)  The report must include:
+<dl compact=""><dl compact="">
 
-                     (a)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and
+Note:	For the manner in which the Chairperson may be referred to,
 
-                     (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
+see section 18B of the _Acts Interpretation Act 1901_.
 
-             (3)  The Commonwealth Minister must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
+ </dl></dl>
 
-<h9 class="ActHead9">Natural Heritage Trust of Australia Act 1997</h9>
+1021
+  Paragraph 14(3)(b)
 
-## 1055  Section 52 (note)
+ After "27", insert "of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “40(2)”, substitute “39(2)”.
+1022
+  Subsection 14(6)
 
-<h9 class="ActHead9">Natural Resources Management (Financial Assistance) Act 1992</h9>
+ Omit "15 or 27", substitute "27 of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 1056  Title
+1023
+  Subsections 15(1), (2) and (3)
 
-Omit “**Fund**”, substitute “**Reserve**”.
+ Repeal the subsections.
 
-## 1057  Subsection 4(1) (definition of _Fund_)
+Note:	The heading to section 15 is altered by omitting "members" and substituting "Chairperson and Chief Executive Officer".
 
-Repeal the definition.
+1024
+  Section 57
 
-## 1058  Subsection 4(1)
+ Repeal the section.
 
-Insert:
+1025
+  Subsection 58(2)
 
-                    <a name="reserv"></a>**_Reserve_** means the Natural Resources Management Reserve established by section 11.
+ Repeal the subsection, substitute:
 
-## 1059  Subsection 6(5)
+<dl compact=""><dl compact="">
 
-Omit “Fund”, substitute “Reserve”.
+<dt>(2)</dt><dd>Money standing to the credit of the Fund that is not immediately needed
 
-## 1060  Part 3 (heading)
+for the purposes of the Fund may be invested under subsection 18(3) of the
 
-Repeal the heading, substitute:
+_Commonwealth Authorities and Companies Act 1997_.
 
-## Part 3—Natural Resources Management Reserve
+</dd> </dl></dl>
 
-## 1061  Subsections 11(1), (2) and (3)
+1026
+  Subsection 58(8) (definition of _approved bank_)
 
-Repeal the subsections, substitute:
+ Repeal the definition.
 
-             (1)  This subsection establishes a reserve called the Natural Resources Management Reserve.
+1027
+  At the end of section 59
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+<center>Back to Top</center>
 
-             (3)  If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund.
+ Add:
 
-_Note:       The heading to section 11 is altered by omitting “Fund” and substituting “Reserve”._
+<dl compact=""><dl compact="">
 
-## 1062  Subsection 11(4)
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-Omit “The following amounts are to be paid into the Fund”, substitute “There must be transferred to the Reserve from the Consolidated Revenue Fund”.
+Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 1063  Paragraph 11(4)(b)
+</dd> </dl></dl>
 
-Omit “Fund”, substitute “Reserve”.
+1028
+  Section 60
 
-## 1064  Paragraphs 11(4)(b), (c) and (d)
+ Repeal the section.
 
-Before “amounts”, insert “amounts equal to”.
+1029
+  Subsection 66(2)
 
-## 1065  Subsection 11(5)
+ Repeal the subsection, substitute:
 
- Omit “Fund” (wherever occurring), substitute “Reserve”.
+<dl compact=""><dl compact="">
 
-## 1066  Subsection 12(1)
+<dt>(2)</dt><dd>The Minister must cause to be tabled in each House of the Parliament a
 
-Omit “or in the _Audit Act 1901_ (other than subsection (2) of this section and section 62B of the _Audit Act 1901_)”, substitute “(other than subsection (2) of this section) or in the _Financial Management and Accountability Act 1997_ (other than section 39 of that Act)”.
+copy of the statement prepared for a year under subsection&#160;(1) at the same
 
-## 1067  Paragraphs 12(1)(a) and (b)
+time as the annual report for the Commission for that year is tabled under the
 
-Omit “Fund”, substitute “Reserve”.
+_Commonwealth Authorities and Companies Act 1997_.
 
-## 1068  Subsection 12(2)
+</dd> </dl></dl>
 
-Omit “Fund”, substitute “Reserve”.
+_National Parks and Wildlife Conservation Act 1975_
 
-<h9 class="ActHead9">Norfolk Island Act 1979</h9>
+1030
+  At the end of subsection 15(1)
 
-## 1069  Section 51G
+ Add:
 
-Omit “subsection 63MB(1) of the _Audit Act 1901_” (wherever occurring), substitute “section 24 of the _Auditor-General Act 1997_”.
+<dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Occupational Health and Safety (Commonwealth Employment) Act 1991</h9>
+Note:	Subject to section 15A, the _Commonwealth Authorities and Companies Act 1997_ applies to the Director. That Act deals with matters
 
-## 1070  Subsection 5(1) (definition of _annual report of Comcare_)
+relating to Commonwealth authorities, including reporting and accountability,
+
+banking and investment, and conduct of officers.
+
+ </dl></dl>
+
+1031
+  After section 15
+
+ Insert: 
+
+15A
+  Modification of the _Commonwealth Authorities and Companies Act 1997_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subsection 15(1) provides that the Director is a corporation. The
+
+_Commonwealth Authorities and Companies Act 1997_ applies (subject to
+
+subsections (2) and (3)) in relation to the corporation as if the person
+
+holding, or performing the duties of, the office of Director were a director of
+
+the corporation for the purposes of that Act.</dd> <dt>(2)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_ does not apply in relation to the Director.</dd> <dt>(3)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ applies to the Fund as though the Fund were money of the Director. </dd> </dl></dl>
+
+1032
+  Subsection 16(3)
+
+ Repeal the subsection.
+
+1033
+  After section 17
+
+ Insert: 
+
+17AA
+  Disclosure of interest by Director
+
+ <dl compact=""><dl compact="">
+
+		If the Director has a material personal interest in a matter that the
+
+Director is considering or is about to consider, the Director must give written
+
+notice of the interest to the Minister.
+
+ </dl></dl>
+
+1034
+  Section 47
+
+ Repeal the section.
+
+1035
+  At the end of section 48
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Fund
+
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+1036
+  Sections 49A, 50 and 51
+
+ Repeal the sections.
+
+<center>Back to Top</center>
+
+1037
+  Section 52
+
+ Repeal the section, substitute: 
+
+52
+  Extra matters to be included in annual report
+
+ <dl compact=""><dl compact="">
+
+		The annual report prepared by the Director under section 9 of the
+
+_Commonwealth Authorities and Companies Act 1997_ must also include:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>particulars of any directions given by the Minister under subsection 16(2)
+
+of this Act during the year to which the report relates; and</dd>
+
+<dt>(b)</dt><dd>the report prepared by the Director under section 49 of the _Endangered Species Protection Act 1992_.
+
+</dd>
+
+</dl></dl></dl>
+
+1038
+  Section 53
+
+ Repeal the section. 
+
+_National Residue Survey Administration Act 1992_
+
+1039
+  Title
+
+ Omit "Trust Account", substitute "Reserve".
+
+1040
+  Section 4 (definition of _Account_)
+
+ Repeal the definition.
+
+1041
+  Section 4
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Reserve_ means the National Residue Survey Reserve established by
+
+section 6.
+
+ </dl></dl>
+
+1042
+  Part 3 (heading)
+
+ Repeal the heading, substitute: 
+
+<part>Part 3&#151;National Residue Survey Account
+
+1043
+  Section 6
+
+ Repeal the section, substitute: 
+
+6
+  Establishment of Reserve
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection establishes a reserve called the National Residue Survey
+
+Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund. </dd> </dl></dl>
+
+1044
+  Section 7
+
+ Omit "There is to be paid into the Account", substitute "There must be transferred to the Reserve from the Consolidated Revenue Fund".
+
+Note:	The heading to section 7 is altered by omitting "Account" and substituting "Reserve".
+
+1045
+  Paragraphs 7(c), (d) and (da)
+
+ Repeal the paragraphs, substitute:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(c)</dt><dd>amounts equal to amounts paid to the Commonwealth for the purposes of the
+
+National Residue Survey or the Reserve;
+
+</dd>
+
+</dl></dl></dl>
+
+1046
+  Paragraph 7(e)
+
+ Omit "Account", substitute "Reserve".
+
+1047
+  Paragraph 7(f)
+
+ Repeal the paragraph, substitute:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(f)</dt><dd>amounts equal to income from the investment of money from the Reserve.
+
+</dd>
+
+</dl></dl></dl>
+
+1048
+  Section 8
+
+ Omit "Account" (wherever occurring), substitute "Reserve".
+
+<center>Back to Top</center>
+
+Note:	The heading to section 8 is altered by omitting "Account" and substituting "Reserve".
+
+1049
+  Section 10
+
+ Omit "National Residue Survey Account", substitute "Reserve".
+
+1050
+  Paragraphs 10(a), (b) and (c)
+
+ Omit "Account", substitute "Reserve".
+
+1051
+  Section 11
+
+ Omit "National Residue Survey Account", substitute "Reserve".
+
+1052
+  Section 12
+
+ Repeal the section. 
+
+_National Road Transport Commission Act 1991_
+
+1053
+  Sections 40 and 41
+
+ Repeal the sections, substitute: 
+
+40
+  Application of the _Commonwealth Authorities and Companies Act 1997_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Commission is not a Commonwealth authority for the purposes of the
+
+_Commonwealth Authorities and Companies Act 1997_.</dd> <dt>(2)</dt><dd>Sections 9, 18 and 20 of that Act, and Schedule 1 to that Act, apply in relation to the Commission as if it were a Commonwealth authority for the purposes of that Act.</dd> <dt>(3)</dt><dd>Schedule 1 to that Act applies in relation to the Commission as if references in that Schedule to the Finance Minister's Orders were references to requirements set out in a resolution of the Ministerial Council passed in accordance with the Heavy Vehicles Agreement.</dd> <dt>(4)</dt><dd>An annual report prepared by members under section 9 of that Act must also contain any other information required by an Agreement to be included in the report.</dd> <dt>(5)</dt><dd>A copy of each annual report given to the Minister must be given to each member of the Ministerial Council as soon as practicable. </dd> </dl></dl>
+
+_Native Title Act 1993_
+
+1054
+  Sections 133, 134 and 135
+
+ Repeal the sections, substitute: 
+
+133
+  Annual report
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>As soon as practicable after 30 June in each year, the President must
+
+prepare and give to the Commonwealth Minister a report of the management of the
+
+administrative affairs of the Tribunal during the year.</dd> <dt>(2)</dt><dd>The report must include: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_; and</dd>
+
+<dt>(b)</dt><dd>an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The Commonwealth Minister must cause a copy of the report to be tabled in
+
+each House of the Parliament as soon as practicable.
+
+</dd> </dl></dl>
+
+_Natural Heritage Trust of Australia Act 1997_
+
+1055
+  Section 52 (note)
+
+ Omit "40(2)", substitute "39(2)". 
+
+_Natural Resources Management (Financial Assistance) Act 1992_
+
+1056
+  Title
+
+ Omit "Fund", substitute "Reserve".
+
+1057
+  Subsection 4(1) (definition of _Fund_)
+
+ Repeal the definition.
+
+<center>Back to Top</center>
+
+1058
+  Subsection 4(1)
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Reserve_ means the Natural Resources Management Reserve
+
+established by section 11.
+
+ </dl></dl>
+
+1059
+  Subsection 6(5)
+
+ Omit "Fund", substitute "Reserve".
+
+1060
+  Part 3 (heading)
+
+ Repeal the heading, substitute: 
+
+<part>Part 3&#151;Natural Resources Management Reserve
+
+1061
+  Subsections 11(1), (2) and (3)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Natural Resources
+
+Management Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.</dd> <dt>(3)</dt><dd>If interest is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the interest must be transferred to the Reserve from the Consolidated Revenue Fund. </dd> </dl></dl>
+
+Note:	The heading to section 11 is altered by omitting "Fund" and substituting "Reserve".
+
+1062
+  Subsection 11(4)
+
+ Omit "The following amounts are to be paid into the Fund", substitute "There must be transferred to the Reserve from the Consolidated Revenue Fund".
+
+1063
+  Paragraph 11(4)(b)
+
+ Omit "Fund", substitute "Reserve".
+
+1064
+  Paragraphs 11(4)(b), (c) and (d)
+
+ Before "amounts", insert "amounts equal to".
+
+1065
+  Subsection 11(5)
+
+  Omit "Fund" (wherever occurring), substitute "Reserve".
+
+1066
+  Subsection 12(1)
+
+ Omit "or in the _Audit Act 1901_ (other than subsection (2) of this section and section 62B of the _Audit Act 1901_)", substitute "(other than subsection (2) of this section) or in the _Financial Management and Accountability Act 1997_ (other than section 39 of that Act)".
+
+1067
+  Paragraphs 12(1)(a) and (b)
+
+ Omit "Fund", substitute "Reserve".
+
+1068
+  Subsection 12(2)
+
+ Omit "Fund", substitute "Reserve". 
+
+_Norfolk Island Act 1979_
+
+1069
+  Section 51G
+
+ Omit "subsection 63MB(1) of the _Audit Act 1901_" (wherever occurring), substitute "section 24 of the _Auditor-General Act 1997_". 
+
+_Occupational Health and Safety (Commonwealth Employment) Act 1991_
+
+1070
+  Subsection 5(1) (definition of _annual report of Comcare_)
 
 Repeal the definition, substitute:
 
-                    <a name="annual-report-comcar"></a>**_annual report of Comcare_** means the annual report on Comcare prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
+<def><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Pig Industry Act 1986</h9>
+_annual report of Comcare_ means the annual report on Comcare
 
-## 1071  Section 4 (definition of _company auditor_)
+prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Repeal the definition.
+ </dl></dl>
 
-## 1072  Section 4 (definition of _Corporation auditor_)
+_Pig Industry Act 1986_
 
-Repeal the definition.
+1071
+  Section 4 (definition of _company auditor_)
 
-## 1073  At the end of subsection 5(2)
+ Repeal the definition.
 
-Add:
+1072
+  Section 4 (definition of _Corporation auditor_)
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Repeal the definition.
 
-## 1074  Subsection 10(10)
+<center>Back to Top</center>
 
-Repeal the subsection.
+1073
+  At the end of subsection 5(2)
 
-## 1075  At the end of section 10
+ Add:
 
-Add:
+<dl compact=""><dl compact="">
 
-Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 1076  Subsection 11(9)
+applies to the Corporation. That Act deals with matters relating to
 
-Repeal the subsection.
+Commonwealth authorities, including reporting and accountability, banking and
 
-## 1077  At the end of section 11
+investment, and conduct of officers.
 
-Add:
+ </dl></dl>
 
-Note:          For the manner in which the Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+1074
+  Subsection 10(10)
 
-## 1078  Paragraph 14(2)(b)
+ Repeal the subsection.
 
-Omit “15”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+1075
+  At the end of section 10
 
-## 1079  Section 15
+ Add:
 
-Repeal the section, substitute:
+<dl compact=""><dl compact="">
 
-##### <a id="15"></a>15  Situations that do not amount to interests requiring disclosure
+Note:	For the manner in which the Chairperson may be referred to,
 
-             (1)  If:
+see section 18B of the _Acts Interpretation Act 1901_.
 
-                     (a)  a member has an interest in a matter being considered or about to be considered by the Corporation; and
+ </dl></dl>
 
-                     (b)  it is an interest that the member has by reason of being a principal in the industry; and
+1076
+  Subsection 11(9)
 
-                     (c)  the member has that interest in common with other principals in the industry;
+ Repeal the subsection.
+
+1077
+  At the end of section 11
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	For the manner in which the Deputy Chairperson may be
+
+referred to, see section 18B of the _Acts Interpretation Act 1901_.
+
+ </dl></dl>
+
+1078
+  Paragraph 14(2)(b)
+
+ Omit "15", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+1079
+  Section 15
+
+ Repeal the section, substitute: 
+
+15
+  Situations that do not amount to interests requiring 
+disclosure
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a member has an interest in a matter being considered or about to be
+
+considered by the Corporation; and</dd>
+
+<dt>(b)</dt><dd>it is an interest that the member has by reason of being a principal in
+
+the industry; and</dd>
+
+<dt>(c)</dt><dd>the member has that interest in common with other principals in the
+
+industry;
+
+</dd>
+
+</dl></dl></dl>
 
 the interest is not to be taken to be a material personal interest of the member for the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_.
 
-             (2)  In this section:
+<dl compact=""><dl compact="">
 
-                    <a name="princip-industri"></a>**_principal in the industry_** means a pig producer, pig exporter, pork processor, pork producer or pork exporter.
+<dt>(2)</dt><dd>In this section:
 
-## 1080  Subsection 21(4)
+</dd> </dl></dl>
 
-Omit “annual report of the Corporation”, substitute “annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+<def><dl compact=""><dl compact="">
 
-## 1081 After subsection 25(1)
+_principal in the industry_ means a pig producer, pig exporter,
 
-Insert:
+pork processor, pork producer or pork exporter.
 
-          (1A)  Subsection (1) does not prevent investment of surplus money of the Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+ </dl></dl>
 
-## 1082 Sections 26, 27, 28, 29 and 30
+1080
+  Subsection 21(4)
 
-Repeal the sections.
+ Omit "annual report of the Corporation", substitute "annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 1083 Section 33
+1081
+ After subsection 25(1)
 
-Omit “laid before each House of the Parliament in accordance with section 34”, substitute “tabled in each House of the Parliament under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Insert:
 
-## 1084 Subsections 34(1), (2) and (3)
+<dl compact=""><dl compact="">
 
-Repeal the subsections.
+<dt>(1A)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-## 1085  Subsection 34(4)
+Corporation under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
 
-Omit “Without limiting the generality of subsection (1), the Corporation shall include in each annual report referred to in that subsection—”, substitute “The annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:”.
+</dd> </dl></dl>
 
-_Note:      The heading to section 34 is replaced by the heading “Extra matters to be included in annual report”._
+<center>Back to Top</center>
 
-## 1086  Subsection 34(5)
+1082
+ Sections 26, 27, 28, 29 and 30
 
-Repeal the subsection.
+ Repeal the sections.
 
-<h9 class="ActHead9">Prawn Export Promotion Act 1995</h9>
+1083
+ Section 33
 
-## 1087  Section 14
+ Omit "laid before each House of the Parliament in accordance with section&#160;34", substitute "tabled in each House of the Parliament under section&#160;9 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the section.
+1084
+ Subsections 34(1), (2) and (3)
 
-<h9 class="ActHead9">Primary Industries and Energy Research and Development Act 1989</h9>
+ Repeal the subsections.
 
-## 1088  At the end of subsection 10(1)
+1085
+  Subsection 34(4)
 
-Add:
+ Omit "Without limiting the generality of subsection (1), the Corporation shall include in each annual report referred to in that subsection&#151;", substitute "The annual report on the Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include:".
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to an R&amp;D Corporation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+Note:	The heading to section 34 is replaced by the heading "Extra matters to be included in annual report".
 
-## 1089  Subsection 12(1)
+1086
+  Subsection 34(5)
 
-Omit “Subject to subsection (2), an”, substitute “An”.
+ Repeal the subsection. 
 
-## 1090  Subsection 12(2)
+_Prawn Export Promotion Act 1995_
 
-Repeal the subsection.
+1087
+  Section 14
 
-## 1091  Subsection 28(1)
+ Repeal the section. 
 
-Omit “Without limiting the matters that an R&amp;D Corporation may include in its annual report under section 63H of the _Audit Act 1901_ for a period, it must include in the report”, substitute “The directors must include in each report on an R&amp;D Corporation prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+_Primary Industries and Energy Research and Development Act 1989_
 
-## 1092  Subsection 28(2)
+1088
+  At the end of subsection 10(1)
 
-Repeal the subsection.
+ Add:
 
-## 1093  Section 54
+<dl compact=""><dl compact="">
 
-Repeal the section.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 1094  Paragraph 73(1)(c)
+applies to an R&amp;D Corporation. That Act deals with matters relating to
 
-Omit “54”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+Commonwealth authorities, including reporting and accountability, banking and
 
-## 1095  At the end of section 100
+investment, and conduct of officers.
 
-Add:
+ </dl></dl>
 
-             (2)  Section 21 of the _Commonwealth Authorities and Companies Act 1997_ applies to members of an R&amp;D Council as if the Council were a Commonwealth authority and the members were directors of the authority.
+1089
+  Subsection 12(1)
 
-## 1096  At the end of section 138
+ Omit "Subject to subsection (2), an", substitute "An".
 
-Add:
+1090
+  Subsection 12(2)
 
-             ; and (g)  the reference in paragraph 73(1)(c) of this Act to section 21 of the _Commonwealth Authorities and Companies Act 1997_ were a reference to subsections (2), (3), (4) and (5) of this section.
+ Repeal the subsection.
 
-             (2)  If:
+1091
+  Subsection 28(1)
 
-                     (a)  a member of the Selection Committee has a direct or indirect pecuniary interest in a matter being considered, or about to be considered, by the Committee; and
+ Omit "Without limiting the matters that an R&amp;D Corporation may include in its annual report under section 63H of the _Audit Act 1901_ for a period, it must include in the report", substitute "The directors must include in each report on an R&amp;D Corporation prepared under section&#160;9 of the _Commonwealth Authorities and Companies Act 1997_".
 
-                     (b)  the interest could conflict with the proper performance of the member’s duties in relation to the matter;
+1092
+  Subsection 28(2)
+
+ Repeal the subsection.
+
+1093
+  Section 54
+
+ Repeal the section.
+
+1094
+  Paragraph 73(1)(c)
+
+ Omit "54", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+1095
+  At the end of section 100
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Section 21 of the _Commonwealth Authorities and Companies Act 1997_
+
+applies to members of an R&amp;D Council as if the Council were a Commonwealth
+
+authority and the members were directors of the authority.
+
+</dd> </dl></dl>
+
+1096
+  At the end of section 138
+
+ Add:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+	; and (g)	the reference in paragraph 73(1)(c) of this Act to section&#160;21
+
+of the _Commonwealth Authorities and Companies Act 1997_ were a reference
+
+to subsections (2), (3), (4) and (5) of this section.
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a member of the Selection Committee has a direct or indirect pecuniary
+
+interest in a matter being considered, or about to be considered, by the
+
+Committee; and</dd>
+
+<dt>(b)</dt><dd>the interest could conflict with the proper performance of the member's
+
+duties in relation to the matter;
+
+</dd>
+
+</dl></dl></dl>
 
 the member must disclose the nature of the interest at a meeting of the Committee as soon as practicable after the member knows the relevant facts.
 
-             (3)  The disclosure must be recorded in the minutes of the meeting.
+<dl compact=""><dl compact="">
 
-             (4)  Unless the Committee determines otherwise, the member must not:
+<dt>(3)</dt><dd>The disclosure must be recorded in the minutes of the meeting.</dd> <dt>(4)</dt><dd>Unless the Committee determines otherwise, the member must not: </dd> </dl></dl>
 
-                     (a)  be present during any deliberation of the Committee in relation to the matter; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  take part in any decision of the Committee in relation to the matter.
+<dt>(a)</dt><dd>be present during any deliberation of the Committee in relation to the
 
-             (5)  A member who has a direct or indirect pecuniary interest in a matter to which a disclosure relates must not:
+matter; or</dd>
 
-                     (a)  be present during any deliberation of the Committee for the purpose of making a determination under subsection (4); or
+<dt>(b)</dt><dd>take part in any decision of the Committee in relation to the matter.
 
-                     (b)  take part in the Committee’s making of the determination.
+</dd>
 
-_Note:       The heading to section 138 is altered by adding at the end “and disclosure of interest provisions”._
+</dl></dl></dl>
 
-<h9 class="ActHead9">Primary Industries Levies and Charges Collection Act 1991</h9>
+<dl compact=""><dl compact="">
 
-## 1097  Section 13
+<dt>(5)</dt><dd>A member who has a direct or indirect pecuniary interest in a matter to
 
-Omit “_Audit Act 1901_”, substitute “_Financial Management and Accountability Act 1997_”.
+which a disclosure relates must not:
 
-_Note:       The heading to section 13 is altered by omitting “Audit Act” and substituting “Financial Management and Accountability Act”._
+</dd> </dl></dl>
 
-<h9 class="ActHead9">Proceeds of Crime Act 1987</h9>
+<dl compact=""><dl compact=""><dl compact="">
 
-## 1098  Subsection 4(1) (definition of _distributable funds_)
+<dt>(a)</dt><dd>be present during any deliberation of the Committee for the purpose of
 
-Omit “Trust Fund”, substitute “Reserve”.
+making a determination under subsection (4); or</dd>
 
-## 1099  Subsection 4(1) (definition of _suspended funds_)
+<dt>(b)</dt><dd>take part in the Committee's making of the determination.
 
-Omit “Trust Fund”, substitute “Reserve”.
+</dd>
 
-## 1100  Subsection 4(1) (definition of _Trust Fund_)
+</dl></dl></dl>
 
-Repeal the definition.
+Note:	The heading to section 138 is altered by adding at the end "and disclosure of interest provisions". 
 
-## 1101  Subsection 4(1)
+_Primary Industries Levies and Charges Collection Act 1991_
 
-Insert:
+1097
+  Section 13
 
-                    <a name="reserv"></a>**_Reserve_** means the Confiscated Assets Reserve established by section 34A.
+ Omit "_Audit Act 1901_", substitute "_Financial Management and Accountability Act 1997_".
 
-## 1102  Subsection 20(3)
+Note:	The heading to section 13 is altered by omitting "Audit Act" and substituting "Financial Management and Accountability Act". 
 
-Omit “Trust Fund” (wherever occurring), substitute “Reserve”.
+_Proceeds of Crime Act 1987_
 
-## 1103  Subsection 30(4)
+1098
+  Subsection 4(1) (definition of _distributable funds_)
 
-Omit “Trust Fund” (wherever occurring), substitute “Reserve”.
+Omit "Trust Fund", substitute "Reserve".
 
-## 1104  Part IIA (heading)
+1099
+  Subsection 4(1) (definition of _suspended funds_)
 
-Repeal the heading, substitute:
+ Omit "Trust Fund", substitute "Reserve".
 
-## Part IIA—Confiscated Assets Reserve
+1100
+  Subsection 4(1) (definition of _Trust Fund_)
 
-## 1105  Section 34A
+ Repeal the definition.
 
-Repeal the section, substitute:
+1101
+  Subsection 4(1)
 
-##### <a id="34A"></a>34A  Establishment of Reserve
+ Insert:
 
-             (1)  This subsection establishes a reserve called the Confiscated Assets Reserve.
+<def><dl compact=""><dl compact="">
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+_Reserve_ means the Confiscated Assets Reserve established by
 
-## 1106  Subsection 34B(1)
+section&#160;34A.
 
-Omit “There are to be paid into the Trust Fund”, substitute “There must be transferred to the Reserve from the Consolidated Revenue Fund amounts equal to”.
+ </dl></dl>
 
-_Note:       The heading to section 34B is altered by omitting “Trust Fund” and substituting “Reserve”._
+1102
+  Subsection 20(3)
 
-## 1107  Paragraph 34B(1)(d)
+ Omit "Trust Fund" (wherever occurring), substitute "Reserve".
 
-Omit “Trust Fund”, substitute “Reserve”.
+1103
+  Subsection 30(4)
 
-## 1108  Subsections 34B(2) and (3)
+ Omit "Trust Fund" (wherever occurring), substitute "Reserve".
 
-Omit “Trust Fund” (wherever occurring), substitute “Reserve”.
+1104
+  Part IIA (heading)
 
-## 1109  Section 34C
+ Repeal the heading, substitute: 
 
-Omit “Trust Fund” (wherever occurring), substitute “Reserve”.
+<part>Part IIA&#151;Confiscated Assets Reserve
 
-_Note:       The heading to section 34C is altered by omitting “Trust Fund” and substituting “Reserve”._
+1105
+  Section 34A
 
-## 1110  Subsection 34E(1)
+ Repeal the section, substitute: 
+<center>Back to Top</center>
 
-Omit “Trust Fund”, substitute “Reserve”.
+34A
+  Establishment of Reserve
 
-## 1111  Subsections 49(6), (7) and (8)
+ <dl compact=""><dl compact="">
 
-Omit “Trust Fund” (wherever occurring), substitute “Reserve”.
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Confiscated Assets
 
-## 1112  Subsections 63(4), (5) and (6)
+Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund. </dd> </dl></dl>
 
-Omit “Trust Fund” (wherever occurring), substitute “Reserve”.
+1106
+  Subsection 34B(1)
 
-<h9 class="ActHead9">Public Accounts Committee Act 1951</h9>
+ Omit "There are to be paid into the Trust Fund", substitute "There must be transferred to the Reserve from the Consolidated Revenue Fund amounts equal to".
 
-## 1113   At the end of the title
+Note:	The heading to section 34B is altered by omitting "Trust Fund" and substituting "Reserve".
 
-Add “**and Audit**”.
+1107
+  Paragraph 34B(1)(d)
 
-## 1114  Section 1
+ Omit "Trust Fund", substitute "Reserve".
 
-After “_Accounts_”, insert “_and Audit_”.
+1108
+  Subsections 34B(2) and (3)
 
-## 1115  Section 4
+ Omit "Trust Fund" (wherever occurring), substitute "Reserve".
 
-Insert:
+1109
+  Section 34C
 
-                    <a name="audit-offic"></a>**_Audit Office_** means the Australian National Audit Office established by section 38 of the _Auditor-General Act 1997_.
+ Omit "Trust Fund" (wherever occurring), substitute "Reserve".
 
-## 1116  Section 4
+Note:	The heading to section 34C is altered by omitting "Trust Fund" and substituting "Reserve".
 
-Insert:
+1110
+  Subsection 34E(1)
 
-                    <a name="auditor-gener"></a>**_Auditor-General_** means the Auditor-General for the Commonwealth referred to in section 7 of the _Auditor-General Act 1997_.
+ Omit "Trust Fund", substitute "Reserve".
 
-## 1117   Section 4
+1111
+  Subsections 49(6), (7) and (8)
 
-Insert:
+ Omit "Trust Fund" (wherever occurring), substitute "Reserve".
 
-                    <a name="independ-auditor"></a>**_Independent Auditor_** means the Independent Auditor referred to in section 41 of the _Auditor-General Act 1997_.
+1112
+  Subsections 63(4), (5) and (6)
 
-## 1118 Section 4 (definition of _Chairman_)
+ Omit "Trust Fund" (wherever occurring), substitute "Reserve". 
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+_Public Accounts Committee Act 1951_
 
-## 1119  Section 4 (definition of _the Committee_)
+1113
+   At the end of the title
 
-After “Accounts”, insert “and Audit”.
+ Add "and Audit".
 
-## 1120  Section 4 (definition of _Vice-Chairman_)
+1114
+  Section 1
 
-Omit “Vice-Chairman” (wherever occurring), substitute “Deputy Chair”.
+ After "_Accounts_", insert "_and Audit_".
 
-## 1121  At the end of section 4
+1115
+  Section 4
 
-Add:
+ Insert:
 
-Note:          For the manner in which the Chair and Deputy Chair may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+<def><dl compact=""><dl compact="">
 
-## 1122  Subsections 5(1) and (2)
+_Audit Office_ means the Australian National Audit Office
 
-Repeal the subsections, substitute:
+established by section 38 of the _Auditor-General Act 1997_.
 
-             (1)  As soon as practicable after the commencement of this subsection and the first session of each Parliament, a joint committee of members of the Parliament, to be known as the Joint Committee of Public Accounts and Audit, is to be appointed.
+ </dl></dl>
 
-             (2)  The Committee is to consist of 16 members of the Parliament. 6 members must be members of, and be appointed by, the Senate. 10 members must be members of, and be appointed by, the House of Representatives. The members must be appointed according to the practice of the Parliament for the appointment of members to serve on joint select committees of both Houses of the Parliament.
+1116
+  Section 4
 
-## 1123  Transitional provision relating to changes to Committee
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Auditor-General_ means the Auditor-General for the Commonwealth
+
+referred to in section 7 of the _Auditor-General Act 1997_.
+
+ </dl></dl>
+
+1117
+   Section 4
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Independent Auditor_ means the Independent Auditor referred to in
+
+section 41 of the _Auditor-General Act 1997_.
+
+ </dl></dl>
+
+1118
+ Section 4 (definition of _Chairman_)
+
+ Omit "Chairman" (wherever occurring), substitute "Chair".
+
+1119
+  Section 4 (definition of _the Committee_)
+
+ After "Accounts", insert "and Audit".
+
+1120
+  Section 4 (definition of _Vice-Chairman_)
+
+ Omit "Vice-Chairman" (wherever occurring), substitute "Deputy Chair".
+
+1121
+  At the end of section 4
+
+ Add:
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+Note:	For the manner in which the Chair and Deputy Chair may be
+
+referred to, see section 18B of the _Acts Interpretation Act 1901_.
+
+ </dl></dl>
+
+1122
+  Subsections 5(1) and (2)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>As soon as practicable after the commencement of this subsection and the
+
+first session of each Parliament, a joint committee of members of the
+
+Parliament, to be known as the Joint Committee of Public Accounts and Audit, is
+
+to be appointed.</dd> <dt>(2)</dt><dd>The Committee is to consist of 16 members of the Parliament. 6 members must be members of, and be appointed by, the Senate. 10 members must be members of, and be appointed by, the House of Representatives. The members must be appointed according to the practice of the Parliament for the appointment of members to serve on joint select committees of both Houses of the Parliament. </dd> </dl></dl>
+
+1123
+  Transitional provision relating to changes to 
+Committee
 
 For the purposes of section 25B of the _Acts Interpretation Act 1901_, the amendment made by item 1122 is taken to be an amendment altering the name and constitution of the Committee provided for in the _Public Accounts Committee Act 1951_ as in force immediately before the commencement of that item.
 
-## 1124   Subsection 5(6)
+1124
+   Subsection 5(6)
 
-After “Accounts” (wherever occurring), insert “and Audit”.
+ After "Accounts" (wherever occurring), insert "and Audit".
 
-## 1125  Subsection 5(6)
+1125
+  Subsection 5(6)
 
-Omit “(1)”, substitute “(2)”.
+ Omit "(1)", substitute "(2)".
 
-## 1126  Paragraph 5(6)(b)
+1126
+  Paragraph 5(6)(b)
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+ Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 1127  Subsections 6(1), (2), (2A) and (3), 6A(1) and (2) and 7(3)
+1127
+  Subsections 6(1), (2), (2A) and (3), 6A(1) and (2) and 
+7(3)
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-## 1128  Subsections 6(1), (2A) and (3) and 6A(2)
+1128
+  Subsections 6(1), (2A) and (3) and 6A(2)
 
-Omit “Vice-Chairman” (wherever occurring), substitute “Deputy Chair”.
+ Omit "Vice-Chairman" (wherever occurring), substitute "Deputy Chair".
 
-## 1129  Subsection 8(1)
+1129
+  Subsection 8(1)
 
-Repeal the subsection, substitute:
+ Repeal the subsection, substitute:
 
-             (1)  The duties of the Committee are:
+<dl compact=""><dl compact="">
 
-                     (a)  to examine the accounts of the receipts and expenditure of the Commonwealth, including the financial statements given to the Auditor-General under subsections 49(1) and 55(2) of the _Financial Management and Accountability Act 1997_; and
+<dt>(1)</dt><dd>The duties of the Committee are:
 
-                     (b)  to examine the financial affairs of authorities of the Commonwealth to which this Act applies and of intergovernmental bodies to which this Act applies; and
+</dd> </dl></dl>
 
-                     (c)  to examine all reports of the Auditor-General (including reports of the results of performance audits) that are tabled in each House of the Parliament; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  to report to both Houses of the Parliament, with any comment it thinks fit, on any items or matters in those accounts, statements and reports, or any circumstances connected with them, that the Committee thinks should be drawn to the attention of the Parliament; and
+<dt>(a)</dt><dd>to examine the accounts of the receipts and expenditure of the
 
-                     (e)  to report to both Houses of the Parliament any alteration that the Committee thinks desirable in:
+Commonwealth, including the financial statements given to the Auditor-General
 
-                              (i)  the form of the public accounts or in the method of keeping them; or
+under subsections 49(1) and 55(2) of the _Financial Management and Accountability Act 1997_; and</dd>
 
-(ii)  the mode of receipt, control, issue or payment of public moneys; and
+<dt>(b)</dt><dd>to examine the financial affairs of authorities of the Commonwealth to
 
-                      (f)  to inquire into any question connected with the public accounts which is referred to the Committee by either House of the Parliament, and to report to that House on that question; and
+which this Act applies and of intergovernmental bodies to which this Act
 
-                     (g)  to consider:
+applies; and</dd>
 
-                              (i)  the operations of the Audit Office; and
+<dt>(c)</dt><dd>to examine all reports of the Auditor-General (including reports of the
 
-                             (ii)  the resources of the Audit Office, including funding, staff and information technology; and
+results of performance audits) that are tabled in each House of the Parliament;
 
-                            (iii)  reports of the Independent Auditor on operations of the Audit Office; and
+and</dd>
 
-                     (h)  to report to both Houses of the Parliament on any matter arising out of the Committee’s consideration of the matters listed in paragraph (g), or on any other matter relating to the Auditor-General’s functions and powers, that the Committee considers should be drawn to the attention of the Parliament; and
+<dt>(d)</dt><dd>to report to both Houses of the Parliament, with any comment it thinks
 
-                      (i)  to report to both Houses of the Parliament on the performance of the Audit Office at any time; and
+fit, on any items or matters in those accounts, statements and reports, or any
 
-                      (j)  to consider draft estimates for the Audit Office submitted under section 53 of the _Auditor-General Act 1997_; and
+circumstances connected with them, that the Committee thinks should be drawn to
 
-                     (k)  to consider the level of fees determined by the Auditor-General under subsection 14(1) of the _Auditor-General Act 1997_; and
+the attention of the Parliament; and</dd>
 
-                      (l)  to make recommendations to both Houses of Parliament, and to the Minister who administers the _Auditor-General Act 1997_, on draft estimates referred to in paragraph (j); and
+<dt>(e)</dt><dd>to report to both Houses of the Parliament any alteration that the
 
-                    (m)  to determine the audit priorities of the Parliament and to advise the Auditor-General of those priorities; and
+Committee thinks desirable in:
 
-                     (n)  to determine the audit priorities of the Parliament for audits of the Audit Office and to advise the Independent Auditor of those priorities; and
+</dd>
 
-                     (o)  any other duties given to the Committee by this Act, by any other law or  by Joint Standing Orders approved by both Houses of the Parliament.
+</dl></dl></dl>
 
-          (1A)  Nothing in subsection (1) authorises the Committee to direct the activities of the Auditor-General or the Independent Auditor.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 1130  After section 8
+<dt>(i)</dt><dd>the form of the public accounts or in the method of keeping them; or</dd>
 
-Insert:
+(ii)	the mode of receipt, control, issue or payment of public moneys;
 
-##### <a id="8A"></a>8A  Committee may approve or reject recommendation for appointment of Auditor-General or Independent Auditor
+and
 
-             (1)  If the Audit Minister refers a proposed recommendation for an appointment of the Auditor-General or Independent Auditor to the Committee for approval, the Committee must:
+</dl></dl></dl></dl>
 
-                     (a)  approve or reject the proposal within 14 days after receiving it; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  notify the Audit Minister as provided for in subsection (2).
+<dt>(f)</dt><dd>to inquire into any question connected with the public accounts which is
 
-Note:          Clauses 2 of Schedule 1 and 2 of Schedule 2 of the _Auditor-General Act 1997_ require proposed recommendations to be referred to the Committee for approval.
+referred to the Committee by either House of the Parliament, and to report to
 
-             (2)  The Committee may notify the Audit Minister within 14 days after receiving a proposal that it needs more time to consider the proposal. If the Committee does so, the Committee must approve or reject the proposal within 44 days after receiving it.
+that House on that question; and</dd>
 
-             (3)  The decision to approve or reject a proposal is to be by majority of the members of the Committee for the time being holding office.
+<dt>(g)</dt><dd>to consider:
 
-             (4)  If the Committee does not make a decision on a proposal by the required time, the Committee is taken, at that time, to have approved the proposal.
+</dd>
 
-             (5)  The Committee must notify the Audit Minister of its decision on a proposal as soon as practicable after making the decision.
+</dl></dl></dl>
 
-             (6)  A notification under this section must be in writing.
+<center>Back to Top</center>
 
-             (7)  The Committee must report to both Houses of the Parliament on its decision on a proposal.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-(8)  In this section:
+<dt>(i)</dt><dd>the operations of the Audit Office; and</dd>
 
-                    <a name="audit-minist"></a>**_Audit Minister_** means the Minister administering the _Auditor-General Act 1997_.
+<dt>(ii)</dt><dd>the resources of the Audit Office, including funding, staff and
 
-##### <a id="8B"></a>8B  Annual report
+information technology; and</dd>
 
-             (1)  The Committee must, in relation to each financial year, prepare a report on the performance of its duties during the year.
+<dt>(iii)</dt><dd>reports of the Independent Auditor on operations of the Audit Office; and
 
-             (2)  The Committee must table the report in each House of the Parliament.
+</dd>
 
-## 1131  Subsection 9(3)
+</dl></dl></dl></dl>
 
-Omit “sections 8 and 12”, substitute “sections 8, 8A, 8B and 12”.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 1132  Subsections 9(3), 10(1), 11(4), 13(2) and 14(1), paragraph 14(3)(c), section 20 and subsections 22(1) and (2)
+<dt>(h)</dt><dd>to report to both Houses of the Parliament on any matter arising out of
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+the Committee's consideration of the matters listed in paragraph (g), or on any
 
-## 1133  Subsections 9(3), 10(1), 13(2) and 14(1), paragraph 14(3)(c), section 20 and subsection 22(2)
+other matter relating to the Auditor-General's functions and powers, that the
 
-Omit “Vice-Chairman” (wherever occurring), substitute “Deputy Chair”.
+Committee considers should be drawn to the attention of the Parliament; and</dd>
 
-## 1134  Schedule, Form A
+<dt>(i)</dt><dd>to report to both Houses of the Parliament on the performance of the Audit
 
-Omit “Chairman”, substitute “Chair”.
+Office at any time; and</dd>
 
-## 1135  Schedule, Form A
+<dt>(j)</dt><dd>to consider draft estimates for the Audit Office submitted under section
 
-Omit “Vice-Chairman”, substitute “Deputy Chair”.
+53 of the _Auditor-General Act 1997_; and</dd>
 
-## 1136  Schedule, Form C
+<dt>(k)</dt><dd>to consider the level of fees determined by the Auditor-General under
 
-Omit “_Public Accounts Committee Act 1951_”, substitute “_Public Accounts and Audit Committee Act 1951_”.
+subsection 14(1) of the _Auditor-General Act 1997_; and</dd>
 
-## 1137  Schedule, Form C
+<dt>(l)</dt><dd>to make recommendations to both Houses of Parliament, and to the Minister
 
-Omit “Joint Committee of Public Accounts” (wherever occurring), substitute “Joint Committee of Public Accounts and Audit”.
+who administers the _Auditor-General Act 1997_, on draft estimates
 
-## 1138  Schedule, Form D
+referred to in paragraph (j); and</dd>
 
-Omit “_Public Accounts Committee Act 1951_”, substitute “_Public Accounts and Audit Committee Act 1951_”.
+<dt>(m)</dt><dd>to determine the audit priorities of the Parliament and to advise the
 
-## 1139  Schedule, Form D
+Auditor-General of those priorities; and</dd>
 
-Omit “Joint Committee of Public Accounts” (wherever occurring), substitute “Joint Committee of Public Accounts and Audit”.
+<dt>(n)</dt><dd>to determine the audit priorities of the Parliament for audits of the
 
-## 1140  Schedule, Form D
+Audit Office and to advise the Independent Auditor of those priorities; and</dd>
 
-Omit “Chairman”, substitute “Chair”.
+<dt>(o)</dt><dd>any other duties given to the Committee by this Act, by any other law
 
-## 1141  Schedule, Form D
+or  by Joint Standing Orders approved by both Houses of the Parliament.
 
-Omit “Vice-Chairman”, substitute “Deputy Chair”.
+</dd>
 
-<h9 class="ActHead9">Public Service Act 1922</h9>
+</dl></dl></dl>
 
-## 1142  At the end of subsection 25(7)
+<dl compact=""><dl compact="">
 
-Add “and Audit”.
+<dt>(1A)</dt><dd>Nothing in subsection (1) authorises the Committee to direct the
 
-<h9 class="ActHead9">Qantas Sale Act 1992</h9>
+activities of the Auditor-General or the Independent Auditor.
 
-## 1143  Sections 43 and 44
+</dd> </dl></dl>
 
-Repeal the sections.
+1130
+  After section 8
 
-<h9 class="ActHead9">Remuneration and Allowances Act 1990</h9>
+ Insert: 
 
-## 1144  Part 3 of Schedule 2 (table row relating to Chairman, Albury-Wodonga Development Corporation)
+8A
+  Committee may approve or reject recommendation for appointment of 
+Auditor-General or Independent Auditor
 
-Omit “Chairman”, substitute “Chair”.
+<dl compact=""><dl compact="">
 
-## 1145  Part 3 of Schedule 2 (table row relating to Chairman, Australian Wheat Board)
+<dt>(1)</dt><dd>If the Audit Minister refers a proposed recommendation for an appointment
 
-Omit “Chairman”, substitute “Chair”.
+of the Auditor-General or Independent Auditor to the Committee for approval,
 
-## 1146  Schedule 4 (table row relating to Chairmen of Committees)
+the Committee must:
 
-Omit “Chairmen”, substitute “Chairs”.
+</dd> </dl></dl>
 
-## 1147  Schedule 4 (table row relating to Chairman, Joint Committee of Public Accounts)
+<dl compact=""><dl compact=""><dl compact="">
 
-Omit “Accounts”, substitute “Accounts and Audit”.
+<dt>(a)</dt><dd>approve or reject the proposal within 14 days after receiving it; or</dd>
 
-## 1148  Schedule 4 (all table rows after the heading relating to Chairmen of Committees except for the table row relating to the Chairman, Parliamentary Standing Committee on Public Works)
+<dt>(b)</dt><dd>notify the Audit Minister as provided for in subsection (2).
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+</dd>
 
-<h9 class="ActHead9">Reserve Bank Act 1959</h9>
+</dl></dl></dl>
 
-## 1149  At the end of section 7
+<dl compact=""><dl compact="">
 
-Add:
+Note:	Clauses 2 of Schedule 1 and 2 of Schedule 2 of the
 
-Note:          Subject to section 7A, the _Commonwealth Authorities and Companies Act 1997_ applies to the Bank. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability and conduct of officers.
+_Auditor-General Act 1997_ require proposed recommendations to be referred
 
-## 1150  After section 7
+to the Committee for approval.
 
-Insert:
+ </dl></dl>
 
-##### <a id="7A"></a>7A  Modification of the _Commonwealth Authorities and Companies Act 1997_
+<dl compact=""><dl compact="">
 
-                   Sections 14 and 18 of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the Bank.
+<dt>(2)</dt><dd>The Committee may notify the Audit Minister within 14 days after receiving
 
-## 1151  Paragraph 18(1)(e)
+a proposal that it needs more time to consider the proposal. If the Committee
 
-Omit “23”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+does so, the Committee must approve or reject the proposal within 44 days after
 
-## 1152  Subsections 20(2) and (3)
+receiving it.</dd> <dt>(3)</dt><dd>The decision to approve or reject a proposal is to be by majority of the members of the Committee for the time being holding office.</dd> <dt>(4)</dt><dd>If the Committee does not make a decision on a proposal by the required time, the Committee is taken, at that time, to have approved the proposal.</dd> <dt>(5)</dt><dd>The Committee must notify the Audit Minister of its decision on a proposal as soon as practicable after making the decision.</dd> <dt>(6)</dt><dd>A notification under this section must be in writing.</dd> <dt>(7)</dt><dd>The Committee must report to both Houses of the Parliament on its decision on a proposal.</dd> (8)	In this section:  </dl></dl>
 
-Repeal the subsections.
+<def><dl compact=""><dl compact="">
 
-## 1153  At the end of section 20
+_Audit Minister_ means the Minister administering the
 
-Add:
+_Auditor-General Act 1997_.
 
-Note:          For the manner in which the Chairperson and Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+ </dl></dl>
 
-## 1154  Sections 23, 78 and 80
+<center>Back to Top</center>
 
-Repeal the sections.
+8B
+  Annual report
 
-## 1155  Section 30
+ <dl compact=""><dl compact="">
 
-Omit “The”, substitute “Subject to subsection (2), the”.
+<dt>(1)</dt><dd>The Committee must, in relation to each financial year, prepare a report
 
-## 1156  Before paragraph 30(a)
+on the performance of its duties during the year.</dd> <dt>(2)</dt><dd>The Committee must table the report in each House of the Parliament. </dd> </dl></dl>
 
-Insert:
+1131
+  Subsection 9(3)
 
-                    (aa)  such amount as the Treasurer, after consultation with the Board, determines is to be set aside for contingencies; and
+ Omit "sections 8 and 12", substitute "sections 8, 8A, 8B and 12".
 
-## 1157  At the end of section 30
+1132
+  Subsections 9(3), 10(1), 11(4), 13(2) and 14(1), paragraph 
+14(3)(c), section 20 and subsections 22(1) and (2)
 
-Add:
+Omit "Chairman" (wherever occurring), substitute "Chair".
 
-             (2)  If the net profit of the Bank for a year is calculated on a basis that requires the inclusion of unrealised gains on assets during the year, the amount to which subsection (1) applies is to be worked out as follows:
+1133
+  Subsections 9(3), 10(1), 13(2) and 14(1), paragraph 14(3)(c), 
+section 20 and subsection 22(2)
 
-                     (a)  deduct from the net profit an amount equal to the total of all amounts of unrealised gains included in the net profit; and
+Omit "Vice-Chairman" (wherever occurring), substitute "Deputy Chair".
 
-                     (b)  if an asset in respect of which unrealised gains were included in the net profit for a previous year or years is realised during the year—add to the amount remaining after applying paragraph (a) the total amount of those unrealised gains.
+1134
+  Schedule, Form A
 
-## 1158  Section 81
+ Omit "Chairman", substitute "Chair".
 
-Repeal the section, substitute:
+1135
+  Schedule, Form A
 
-##### <a id="81"></a>81  Extra matters to be included in annual report
+ Omit "Vice-Chairman", substitute "Deputy Chair".
 
-             (1)  The annual report on the Bank under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include a report on any investigations on prudential matters under section 61 of the _Banking Act 1959_, including details of persons appointed to investigate and report on such matters.
+1136
+  Schedule, Form C
 
-             (2)  Subsection (1) does not authorise the inclusion in the annual report of a report with respect to the affairs of an individual bank or the affairs of an individual customer of a bank.
+ Omit "_Public Accounts Committee Act 1951_", substitute "_Public Accounts and Audit Committee Act 1951_".
 
-## 1159  Section 81A
+1137
+  Schedule, Form C
 
-Repeal the section.
+ Omit "Joint Committee of Public Accounts" (wherever occurring), substitute "Joint Committee of Public Accounts and Audit".
 
-<h9 class="ActHead9">Royal Australian Air Force Veterans’ Residences Act 1953</h9>
+1138
+  Schedule, Form D
 
-## 1160  Subsection 3(3)
+ Omit "_Public Accounts Committee Act 1951_", substitute "_Public Accounts and Audit Committee Act 1951_".
 
-Repeal the subsection.
+1139
+  Schedule, Form D
 
-## 1161  Subsection 3(4)
+ Omit "Joint Committee of Public Accounts" (wherever occurring), substitute "Joint Committee of Public Accounts and Audit".
 
-Omit “shall consist of the moneys payable to the Trust under the last preceding sub-section”, substitute “consists of money from the Prize Money Trust Account paid to the Trust for the purposes of the Fund”.
+1140
+  Schedule, Form D
 
-## 1162  After section 5
+ Omit "Chairman", substitute "Chair".
 
-Insert:
+1141
+  Schedule, Form D
 
-##### <a id="5A"></a>5A  Application of the _Commonwealth Authorities and Companies Act 1997_ and the _Auditor-General Act 1997_
+ Omit "Vice-Chairman", substitute "Deputy Chair". 
 
-             (1)  The Trust is taken to constitute a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_ and the _Auditor-General Act 1997_.
+_Public Service Act 1922_
 
-             (2)  Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Trust.
+1142
+  At the end of subsection 25(7)
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ deals with matters relating to Commonwealth authorities, including reporting and accountability, banking, and conduct of officers.
+ Add "and Audit". 
 
-## 1163  Section 10
+_Qantas Sale Act 1992_
 
-Repeal the section.
+1143
+  Sections 43 and 44
 
-<h9 class="ActHead9">Safety, Rehabilitation and Compensation Act 1988</h9>
+ Repeal the sections. 
 
-## 1164  At the end of subsection 74(1)
+_Remuneration and Allowances Act 1990_
 
-Add:
+1144
+  Part 3 of Schedule 2 (table row relating to Chairman, 
+Albury-Wodonga Development Corporation)
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to Comcare. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+Omit "Chairman", substitute "Chair".
 
-## 1165  At the end of section 70B
+1145
+  Part 3 of Schedule 2 (table row relating to Chairman, Australian 
+Wheat Board)
 
-Add:
+Omit "Chairman", substitute "Chair".
 
-             (2)  Section 29 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to Comcare in relation to the activities of Comcare subsidiaries under Part VIIIB or contracts referred to in that Part.
+1146
+  Schedule 4 (table row relating to Chairmen of 
+Committees)
 
-_Note:       The heading to section 70B is replaced by the heading “Formation and activities of Comcare subsidiaries”._
+Omit "Chairmen", substitute "Chairs".
 
-## 1166  At the end of section 73
+1147
+  Schedule 4 (table row relating to Chairman, Joint Committee of 
+Public Accounts)
 
-Add:
+Omit "Accounts", substitute "Accounts and Audit".
 
-             (3)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to Comcare.
+1148
+  Schedule 4 (all table rows after the heading relating to 
+Chairmen of Committees except for the table row relating to the Chairman,
 
-## 1167  At the end of section 76
+Parliamentary Standing Committee on Public Works)
 
-Add:
+Omit "Chairman" (wherever occurring), substitute "Chair". 
+<center>Back to Top</center>
 
-             (4)  The Chief Executive Officer is a director of Comcare for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+_Reserve Bank Act 1959_
 
-             (5)  If the Chief Executive Officer has a material personal interest in a matter that Comcare is considering or is about to consider, he or she must give written notice of the interest to the Minister.
+1149
+  At the end of section 7
 
-## 1168  Paragraph 84(2)(b)
+ Add:
 
-After “contravenes”, insert “subsection 76(5) or”.
+<dl compact=""><dl compact="">
 
-## 1169  After subsection 89E(2)
+Note:	Subject to section 7A, the _Commonwealth Authorities and Companies Act 1997_ applies to the Bank. That Act deals with matters
 
-Insert:
+relating to Commonwealth authorities, including reporting and accountability
 
-          (2A)  The Commissioners are not directors of Comcare for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+and conduct of officers.
 
-Note:          **_Commissioner_** does not include the Chief Executive Officer: see subsection 4(1).
+ </dl></dl>
 
-## 1170  Section 90
+1150
+  After section 7
 
-Repeal the section, substitute:
+ Insert: 
 
-##### <a id="90"></a>90  Application of the _Commonwealth Authorities and Companies Act 1997_
+7A
+  Modification of the _Commonwealth Authorities and Companies Act 1997_
 
-             (1)  The _Commonwealth Authorities and Companies Act 1997_ (except section 21) applies in relation to Comcare as if the Chief Executive Officer were a director of Comcare for the purposes of that Act.
+<dl compact=""><dl compact="">
 
-             (2)  Each report on Comcare for a year prepared by the Chief Executive Officer under section 9 of that Act must include particulars of each direction given under section 73 of this Act during that year.
+		Sections 14 and 18 of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the Bank.
 
-## 1171  Subsection 90A(1)
+ </dl></dl>
 
-Omit “section 63J of the _Audit Act 1901_ as it applies to Comcare by section 90 of this Act”, substitute “subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_”.
+1151
+  Paragraph 18(1)(e)
 
-## 1172  Subsection 90A(2)
+ Omit "23", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the subsection.
+1152
+  Subsections 20(2) and (3)
 
-## 1173  Subsection 91(4)
+ Repeal the subsections.
 
-Repeal the subsection, substitute:
+1153
+  At the end of section 20
 
-             (4)  Subsection (3) does not prevent investment of surplus money of Comcare under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+ Add:
 
-## 1174  Subsections 92(1) and (2)
+<dl compact=""><dl compact="">
 
-Repeal the subsections.
+Note:	For the manner in which the Chairperson and Deputy
 
-## 1175  Subsection 92(3)
+Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
 
-Omit “A reference in this section to”, substitute “For the purposes of section 14 of the _Commonwealth Authorities and Companies Act 1997_,”.
+ </dl></dl>
 
-## 1176  Subsection 94(2)
+1154
+  Sections 23, 78 and 80
 
-Omit “91(4)”, substitute “18(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the sections.
 
-## 1177  Subsection 108Y(4)
+1155
+  Section 30
 
-Omit “Comcare must, in each report prepared by it under section 63M of the _Audit Act 1901_ (as that section applies to it by virtue of section 90 of this Act)”, substitute “In each report on Comcare under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the Chief Executive Officer must”.
+ Omit "The", substitute "Subject to subsection (2), the".
 
-<h9 class="ActHead9">Science and Industry Research Act 1949</h9>
+1156
+  Before paragraph 30(a)
 
-## 1178  Subsection 8(2)
+ Insert:
 
-Add at the end:
+<dl compact=""><dl compact=""><dl compact="">
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Organisation. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment and conduct of officers.
+<dt>(aa)</dt><dd>such amount as the Treasurer, after consultation with the Board,
 
-## 1179  Subsections 9AA(2) to (6) (inclusive)
+determines is to be set aside for contingencies; and
 
-Repeal the subsections.
+</dd>
 
-## 1180  Paragraph 10E(2)(b)
+</dl></dl></dl>
 
-Omit “or 23”, substitute “of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+1157
+  At the end of section 30
 
-## 1181  Section 14
+ Add:
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-## 1182  Subsection 14A(6)
+<dt>(2)</dt><dd>If the net profit of the Bank for a year is calculated on a basis that
 
-Repeal the subsection.
+requires the inclusion of unrealised gains on assets during the year, the
 
-## 1183  At the end of section 14A
+amount to which subsection (1) applies is to be worked out as follows:
 
-Add:
+</dd> </dl></dl>
 
-Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
+<dl compact=""><dl compact=""><dl compact="">
 
-## 1184  Paragraph 22(2)(c)
+<dt>(a)</dt><dd>deduct from the net profit an amount equal to the total of all amounts of
 
-Omit “23”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+unrealised gains included in the net profit; and</dd>
 
-## 1185  Section 23
+<dt>(b)</dt><dd>if an asset in respect of which unrealised gains were included in the net
 
-Repeal the section.
+profit for a previous year or years is realised during the year&#151;add to the
 
-## 1186  Section 45
+amount remaining after applying paragraph (a) the total amount of those
 
-Repeal the section.
+unrealised gains.
 
-## 1187  Subsection 48(1)
+</dd>
 
-Omit “Subject to sub-section (2), the”, substitute “The”.
+</dl></dl></dl>
 
-## 1188  Subsection 48(2)
+1158
+  Section 81
 
-Repeal the subsection, substitute:
+ Repeal the section, substitute: 
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Organisation under section 18 of the _Commonwealth Authorities and Companies Act 1997._
+81
+  Extra matters to be included in annual report
 
-## 1189  Section 49
+ <dl compact=""><dl compact="">
 
-Repeal the section.
+<dt>(1)</dt><dd>The annual report on the Bank under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include a report on any
 
-## 1190  Subsection 51(1)
+investigations on prudential matters under section&#160;61 of the _Banking Act 1959_, including details of persons appointed to investigate and report
 
-Repeal the subsection.
+on such matters.</dd> <dt>(2)</dt><dd>Subsection (1) does not authorise the inclusion in the annual report of a report with respect to the affairs of an individual bank or the affairs of an individual customer of a bank. </dd> </dl></dl>
 
-_Note:       The heading to section 51 is replaced by the heading “Extra matters to be included in annual report”._
+<center>Back to Top</center>
 
-## 1191  Subsection 51(2)
+1159
+  Section 81A
 
-Omit “The Organisation shall, in each report prepared under section 63M of the _Audit Act 1901_ in respect of a financial year,”, substitute “In each report on the Organisation under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must”.
+ Repeal the section. 
 
-## 1192  Paragraph 51(2)(e)
+_Royal Australian Air Force Veterans&apos; Residences Act 1953_
 
-Omit “14”, substitute “28 of the _Commonwealth Authorities and Companies Act 1997_”.
+1160
+  Subsection 3(3)
 
-<h9 class="ActHead9">Sea Installations Act 1987</h9>
+ Repeal the subsection.
 
-## 1193  Subsections 38(1), (2) and (3)
+1161
+  Subsection 3(4)
 
-Repeal the subsections, substitute:
+ Omit "shall consist of the moneys payable to the Trust under the last preceding sub-section", substitute "consists of money from the Prize Money Trust Account paid to the Trust for the purposes of the Fund".
 
-             (1)  This subsection establishes a reserve called the Sea Installations Reserve.
+1162
+  After section 5
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+ Insert: 
 
-             (3)  There must be transferred to the Reserve from the Consolidated Revenue Fund amounts equal to money paid as a security under section 37 by way of a cash deposit.
+5A
+  Application of the _Commonwealth Authorities and Companies Act 1997_ and the _Auditor-General Act 1997_
 
-_Note:       The heading to section 38 is altered by omitting “Trust Account” and substituting “Reserve”._
+<dl compact=""><dl compact="">
 
-## 1194  Subsection 38(4)
+<dt>(1)</dt><dd>The Trust is taken to constitute a Commonwealth authority for the purposes
 
-Omit “account that is”, substitute “Reserve that represents”.
+of the _Commonwealth Authorities and Companies Act 1997_ and the
 
-<h9 class="ActHead9">Services Trust Funds Act 1947</h9>
+_Auditor-General Act 1997_.</dd> <dt>(2)</dt><dd>Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Trust. </dd> </dl></dl>
 
-## 1195  Section 5
+<dl compact=""><dl compact="">
 
-Omit “chairman” (wherever occurring), substitute “chair”.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 1196  Section 34
+deals with matters relating to Commonwealth authorities, including reporting
 
-Repeal the section, substitute:
+and accountability, banking, and conduct of officers.
 
-##### <a id="34"></a>34  Application of the _Commonwealth Authorities and Companies Act 1997_ and the _Auditor-General Act 1997_
+ </dl></dl>
 
-             (1)  The trustees of each fund are taken to constitute a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_ and the _Auditor-General Act 1997_.
+1163
+  Section 10
 
-             (2)  Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Trust.
+ Repeal the section. 
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ deals with matters relating to Commonwealth authorities, including reporting and accountability, banking, and conduct of officers.
+_Safety, Rehabilitation and Compensation Act 1988_
 
-##### <a id="35"></a>35  Financial years start on 1 July
+1164
+  At the end of subsection 74(1)
 
-             (1)  For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the financial year for the trustees of each fund is, subject to subsection (2), a period of 12 months starting on 1 July.
+ Add:
 
-             (2)  The first annual report required to be prepared under the _Commonwealth Authorities and Companies_ _Act_ _1997_ by the trustees of each fund is to relate to the period of 18 months starting on the last 1 January before the commencement of this section.
+<dl compact=""><dl compact="">
 
-Note:          Previously, funds had financial years that ended on 31 December.
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-## 1197  Paragraph 36(b)
+applies to Comcare. That Act deals with matters relating to Commonwealth
 
-Omit “chairman”, substitute “chair”.
+authorities, including reporting and accountability, banking and investment,
 
-<h9 class="ActHead9">Snowy Mountains Hydro-electric Power Act 1949</h9>
+and conduct of officers.
 
-## 1198  At the end of subsection 7(2)
+ </dl></dl>
 
-Add:
+1165
+  At the end of section 70B
 
-Note:          Subject to section 26, the _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Add:
 
-## 1199  After section 11
+<dl compact=""><dl compact="">
 
-Insert:
+<dt>(2)</dt><dd>Section 29 of the _Commonwealth Authorities and Companies Act 1997_
 
-##### <a id="11A"></a>11A  Disclosure of Commissioner’s interests
+does not apply to Comcare in relation to the activities of Comcare subsidiaries
 
-                   If the Commissioner has a material personal interest in a matter that the Authority is considering or is about to consider, he or she must give written notice of the interest to the Minister.
+under Part VIIIB or contracts referred to in that Part.
 
-## 1200  At the end of section 13
+</dd> </dl></dl>
 
-Add:
+Note:	The heading to section 70B is replaced by the heading "Formation and activities of Comcare subsidiaries".
 
-                ; or (f)  if the Commissioner contravenes section 11A without reasonable excuse.
+1166
+  At the end of section 73
 
-## 1201  Section 26
+ Add:
 
-Repeal the section, substitute:
+<dl compact=""><dl compact="">
 
-##### <a id="26"></a>26  Application of the _Commonwealth Authorities and Companies Act 1997_
+<dt>(3)</dt><dd>This section does not affect the application of section 28 of the
 
-             (1)  The _Commonwealth Authorities and Companies Act 1997_ (except section 21) applies to the Authority as if:
+_Commonwealth Authorities and Companies Act 1997_ in relation to Comcare.
 
-                     (a)  the Authority were a body corporate; and
+</dd> </dl></dl>
 
-                     (b)  the Commissioner were a director of the Authority for the purposes of that Act.
+1167
+  At the end of section 76
 
-             (2)  For the purposes of the application of that Act to the Authority, the following persons are not directors of the Authority:
+ Add:
 
-                     (a)  Associate Commissioners;
+<dl compact=""><dl compact="">
 
-                     (b)  members of the Snowy Mountains Council referred to in clause 17 of the Agreement, except the Commissioner.
+<dt>(4)</dt><dd>The Chief Executive Officer is a director of Comcare for the purposes of
 
-## 1202  Subsection 30(1)
+the _Commonwealth Authorities and Companies Act 1997_.</dd> <dt>(5)</dt><dd>If the Chief Executive Officer has a material personal interest in a matter that Comcare is considering or is about to consider, he or she must give written notice of the interest to the Minister. </dd> </dl></dl>
 
-Omit “63E of the _Audit Act 1901_”, substitute “19 of the _Commonwealth Authorities and Companies Act 1997_”.
+<center>Back to Top</center>
 
-## 1203  Section 30A
+1168
+  Paragraph 84(2)(b)
 
-Repeal the section.
+ After "contravenes", insert "subsection 76(5) or".
 
-## 1204  Subsections 31(2), (3) and (4)
+1169
+  After subsection 89E(2)
 
-Repeal the subsections, substitute:
+ Insert:
 
-             (2)  Subsection (1) does not apply to investments of surplus money of the Authority under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+<dl compact=""><dl compact="">
 
-## 1205  Sections 32 and 32A
+<dt>(2A)</dt><dd>The Commissioners are not directors of Comcare for the purposes of the
 
-Repeal the sections.
+_Commonwealth Authorities and Companies Act 1997_.
 
-## 1206  Subclauses 17(2) and 18(1) and (2) of Schedule 1
+</dd> </dl></dl>
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+<dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Special Broadcasting Service Act 1991</h9>
+Note:	_Commissioner_ does not include the Chief
 
-## 1207  At the end of subsection 5(1)
+Executive Officer: see subsection&#160;4(1).
 
-Add:
+ </dl></dl>
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the SBS. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+1170
+  Section 90
 
-## 1208  At the end of section 13
+ Repeal the section, substitute: 
 
-Add:
+90
+  Application of the _Commonwealth Authorities and Companies Act 1997_
 
-             (2)  The Minister may notify the Directors of general policies of the Commonwealth Government under section 28 of the _Commonwealth Authorities and Companies Act 1997_. However, the Minister must not notify the Directors of general policies that would affect the content or scheduling of programs.
+<dl compact=""><dl compact="">
 
-_Note:       The heading to section 13 is replaced by the heading “Limits on Government directions to SBS”._
+<dt>(1)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ (except
 
-## 1209  Subparagraph 27(2)(c)(ii)
+section&#160;21) applies in relation to Comcare as if the Chief Executive
 
-Omit “43”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
+Officer were a director of Comcare for the purposes of that Act.</dd> <dt>(2)</dt><dd>Each report on Comcare for a year prepared by the Chief Executive Officer under section 9 of that Act must include particulars of each direction given under section 73 of this Act during that year. </dd> </dl></dl>
 
-## 1210  Paragraph 37(2)(d)
+1171
+  Subsection 90A(1)
 
-Omit “or 43”, substitute “of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "section 63J of the _Audit Act 1901_ as it applies to Comcare by section&#160;90 of this Act", substitute "subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_".
 
-## 1211  Subsection 40(2)
+1172
+  Subsection 90A(2)
 
-Omit “43(2)”, substitute “21(3) of the _Commonwealth Authorities and Companies Act 1997_”.
+ Repeal the subsection.
 
-## 1212  Section 43
+1173
+  Subsection 91(4)
 
-Repeal the section.
+ Repeal the subsection, substitute:
 
-## 1213  At the end of subsection 52(2)
+<dl compact=""><dl compact="">
 
-Add:
+<dt>(4)</dt><dd>Subsection (3) does not prevent investment of surplus money of Comcare
 
-Note:          Section 15 of the _Commonwealth Authorities and Companies Act 1997_ requires Directors to notify the Minister of significant business activities and arrangements.
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-## 1214  Subsection 52(3)
+</dd> </dl></dl>
 
-Repeal the subsection.
+1174
+  Subsections 92(1) and (2)
 
-## 1215  Subsections 58(2) and 58(3)
+ Repeal the subsections.
 
-Repeal the subsections, substitute:
+1175
+  Subsection 92(3)
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the SBS under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+ Omit "A reference in this section to", substitute "For the purposes of section&#160;14 of the _Commonwealth Authorities and Companies Act 1997_,".
 
-_Note:       The heading to section 58 is altered by omitting “and investment”._
+1176
+  Subsection 94(2)
 
-## 1216  Section 66
+ Omit "91(4)", substitute "18(3) of the _Commonwealth Authorities and Companies Act 1997_".
 
-Repeal the section.
+1177
+  Subsection 108Y(4)
 
-## 1217  Section 69
+ Omit "Comcare must, in each report prepared by it under section&#160;63M of the _Audit Act 1901_ (as that section applies to it by virtue of section&#160;90 of this Act)", substitute "In each report on Comcare under section&#160;9 of the _Commonwealth Authorities and Companies Act 1997_, the Chief Executive Officer must". 
 
-Repeal the section.
+_Science and Industry Research Act 1949_
 
-## 1218  Section 73
+1178
+  Subsection 8(2)
 
-Omit “Board must include in each report prepared under section 63M of the _Audit Act 1901_, as that section applies to the SBS because of section 69 of this Act”, substitute “Directors must include in each report on the SBS under section 9 of the _Commonwealth Authorities and Companies Act 1997_”.
+ Add at the end:
 
-<h9 class="ActHead9">States Grants (Primary and Secondary Education Assistance) Act 1992</h9>
+<dl compact=""><dl compact="">
 
-## 1219  Subsection 115(2)
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-Omit “section 50 of the _Audit Act 1901_”, substitute “section 55 of the _Financial Management and Accountability Act 1997_”.
+applies to the Organisation. That Act deals with matters relating to
 
-<h9 class="ActHead9">States Grants (Schools Assistance) Act 1984</h9>
+Commonwealth authorities, including reporting and accountability, banking and
 
-## 1220  Subsection 87(2)
+investment and conduct of officers.
 
-Omit “section 50 of the _Audit Act 1901_”, substitute “section 55 of the _Financial Management and Accountability Act 1997_”.
+ </dl></dl>
 
-<h9 class="ActHead9">States Grants (Schools Assistance) Act 1988</h9>
+1179
+  Subsections 9AA(2) to (6) (inclusive)
 
-## 1221  Subsection 48(2)
+<center>Back to Top</center>
 
-Omit “section 50 of the _Audit Act 1901_”, substitute “section 55 of the _Financial Management and Accountability Act 1997_”.
+ Repeal the subsections.
 
-<h9 class="ActHead9">States Grants (TAFE Assistance) Act 1989</h9>
+1180
+  Paragraph 10E(2)(b)
 
-## 1222  Subsection 26(2)
+ Omit "or 23", substitute "of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-Omit “section 49 or 50 of the _Audit Act 1901_”, substitute “section 54 or 55 of the _Financial Management and Accountability Act 1997_”.
+1181
+  Section 14
 
-<h9 class="ActHead9">Stevedoring Industry Finance Committee Act 1977</h9>
+ Repeal the section.
 
-## 1223  At the end of subsection 4(2)
+1182
+  Subsection 14A(6)
 
-Add:
+ Repeal the subsection.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Committee. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+1183
+  At the end of section 14A
 
-## 1224  Section 17
+ Add:
 
-Repeal the section.
+<dl compact=""><dl compact="">
 
-## 1225  At the end of section 18
+Note:	For the manner in which the Chairperson may be referred to,
 
-Add:
+see section 18B of the _Acts Interpretation Act 1901_.
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Committee under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+ </dl></dl>
 
-## 1226  Section 28
+1184
+  Paragraph 22(2)(c)
 
-Repeal the section.
+ Omit "23", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
 
-<h9 class="ActHead9">Student and Youth Assistance Act 1973</h9>
+1185
+  Section 23
 
-## 1227  Subsection 3(1) (definition of _Fund_)
+ Repeal the section.
 
-Repeal the definition.
+1186
+  Section 45
 
-## 1228  Subsection 3(1)
+ Repeal the section.
 
-Insert:
+1187
+  Subsection 48(1)
 
-                    <a name="reserv"></a>**_Reserve_** means the Students (Financial Supplement) Reserve established by section 12M.
+ Omit "Subject to sub-section (2), the", substitute "The".
 
-## 1229  Section 12M
+1188
+  Subsection 48(2)
 
-Repeal the section, substitute:
+ Repeal the subsection, substitute:
 
-##### <a id="12M"></a>12M  Students (Financial Supplement) Reserve
+<dl compact=""><dl compact="">
 
-             (1)  This subsection establishes a reserve called the Students (Financial Supplement) Reserve.
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+Organisation under section 18 of the _Commonwealth Authorities and Companies Act 1997._
 
-## 1230  Subsection 12N(2)
+</dd> </dl></dl>
 
-Omit “Any amount”, substitute “An amount equal to any amount”.
+1189
+  Section 49
 
-## 1231  Subsection 12N(2)
+ Repeal the section.
 
-Omit “is to be paid into the Fund”, substitute “is to be paid into the Reserve out of the Consolidated Revenue Fund”.
+1190
+  Subsection 51(1)
 
-## 1232  Paragraph 12N(2)(a)
+ Repeal the subsection.
 
-Omit “Fund” (wherever occurring), substitute “Reserve”.
+Note:	The heading to section 51 is replaced by the heading "Extra matters to be included in annual report".
 
-## 1233  Subsection 12N(3)
+1191
+  Subsection 51(2)
 
-Omit “Fund” (wherever occurring), substitute “Reserve”.
+ Omit "The Organisation shall, in each report prepared under section&#160;63M of the _Audit Act 1901_ in respect of a financial year,", substitute "In each report on the Organisation under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must".
 
-## 1234  Paragraph 56(f)
+1192
+  Paragraph 51(2)(e)
 
-Omit “Fund”, substitute “Reserve”.
+ Omit "14", substitute "28 of the _Commonwealth Authorities and Companies Act 1997_". 
 
-<h9 class="ActHead9">Superannuation Act 1976</h9>
+_Sea Installations Act 1987_
 
-## 1235  At the end of section 27B
+1193
+  Subsections 38(1), (2) and (3)
 
-Add:
+ Repeal the subsections, substitute:
 
-             (4)  The Board is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+<dl compact=""><dl compact="">
 
-## 1236  Paragraph 41(2)(e)
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Sea Installations
 
-Repeal the paragraph, substitute:
+Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.</dd> <dt>(3)</dt><dd>There must be transferred to the Reserve from the Consolidated Revenue Fund amounts equal to money paid as a security under section&#160;37 by way of a cash deposit. </dd> </dl></dl>
 
-                     (e)  to open and maintain accounts with banks.
+Note:	The heading to section 38 is altered by omitting "Trust Account" and substituting "Reserve".
 
-## 1237  At the end of section 41
+1194
+  Subsection 38(4)
 
-Add:
+ Omit "account that is", substitute "Reserve that represents". 
 
-             (9)  In this section:
+_Services Trust Funds Act 1947_
 
-                    <a name="bank"></a>**_bank_** has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
+<center>Back to Top</center>
 
-## 1238  Section 44
+1195
+  Section 5
 
-Repeal the section, substitute:
+ Omit "chairman" (wherever occurring), substitute "chair".
 
-##### <a id="44"></a>44  Accounting records
+1196
+  Section 34
 
-             (1)  The Board must keep proper accounts and records of the Fund’s transactions and affairs in accordance with the accounting principles generally applied in commercial practice.
+ Repeal the section, substitute: 
 
-             (2)  The Board must do all things necessary to ensure that:
+34
+  Application of the _Commonwealth Authorities and Companies Act 1997_ and the _Auditor-General Act 1997_
 
-                     (a)  all payments out of the Fund are correctly made and properly authorised; and
+<dl compact=""><dl compact="">
 
-                     (b)  adequate control is maintained over the assets of the Fund and over the incurring of liabilities by the Board in respect of the Fund.
+<dt>(1)</dt><dd>The trustees of each fund are taken to constitute a Commonwealth authority
 
-             (3)  If a requirement of this section is contravened, each member of the Board who intentionally:
+for the purposes of the _Commonwealth Authorities and Companies Act 1997_
 
-                     (a)  caused the contravention; or
+and the _Auditor-General Act 1997_.</dd> <dt>(2)</dt><dd>Subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the Trust. </dd> </dl></dl>
 
-                     (b)  failed to take all reasonable steps to comply with the requirement, or secure compliance with the requirement;
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+deals with matters relating to Commonwealth authorities, including reporting
+
+and accountability, banking, and conduct of officers.
+
+ </dl></dl>
+
+35
+  Financial years start on 1 July
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the financial year for the trustees of each fund is, subject to
+
+subsection (2), a period of 12 months starting on 1 July.</dd> <dt>(2)</dt><dd>The first annual report required to be prepared under the _Commonwealth Authorities and Companies_ _Act_ _1997_ by the trustees of each fund is to relate to the period of 18 months starting on the last 1 January before the commencement of this section. </dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Previously, funds had financial years that ended on 31
+
+December.
+
+ </dl></dl>
+
+1197
+  Paragraph 36(b)
+
+ Omit "chairman", substitute "chair". 
+
+_Snowy Mountains Hydro-electric Power Act 1949_
+
+1198
+  At the end of subsection 7(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	Subject to section 26, the _Commonwealth Authorities and Companies Act 1997_ applies to the Authority. That Act deals with matters
+
+relating to Commonwealth authorities, including reporting and accountability,
+
+banking and investment, and conduct of officers.
+
+ </dl></dl>
+
+1199
+  After section 11
+
+ Insert: 
+
+11A
+  Disclosure of Commissioner's interests
+
+ <dl compact=""><dl compact="">
+
+		If the Commissioner has a material personal interest in a matter that the
+
+Authority is considering or is about to consider, he or she must give written
+
+notice of the interest to the Minister.
+
+ </dl></dl>
+
+1200
+  At the end of section 13
+
+ Add:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+	; or (f)	if the Commissioner contravenes section 11A without reasonable excuse.
+
+</dl></dl></dl>
+
+1201
+  Section 26
+
+ Repeal the section, substitute: 
+
+<center>Back to Top</center>
+
+26
+  Application of the _Commonwealth Authorities and Companies Act 1997_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The _Commonwealth Authorities and Companies Act 1997_ (except
+
+section&#160;21) applies to the Authority as if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Authority were a body corporate; and</dd>
+
+<dt>(b)</dt><dd>the Commissioner were a director of the Authority for the purposes of that
+
+Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of the application of that Act to the Authority, the
+
+following persons are not directors of the Authority:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>Associate Commissioners;</dd>
+
+<dt>(b)</dt><dd>members of the Snowy Mountains Council referred to in clause 17 of the
+
+Agreement, except the Commissioner.
+
+</dd>
+
+</dl></dl></dl>
+
+1202
+  Subsection 30(1)
+
+ Omit "63E of the _Audit Act 1901_", substitute "19 of the _Commonwealth Authorities and Companies Act 1997_".
+
+1203
+  Section 30A
+
+ Repeal the section.
+
+1204
+  Subsections 31(2), (3) and (4)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not apply to investments of surplus money of the
+
+Authority under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+1205
+  Sections 32 and 32A
+
+ Repeal the sections.
+
+1206
+  Subclauses 17(2) and 18(1) and (2) of Schedule 1
+
+ Omit "Chairman" (wherever occurring), substitute "Chair". 
+
+_Special Broadcasting Service Act 1991_
+
+1207
+  At the end of subsection 5(1)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the SBS. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+1208
+  At the end of section 13
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Minister may notify the Directors of general policies of the
+
+Commonwealth Government under section 28 of the _Commonwealth Authorities and Companies Act 1997_. However, the Minister must not notify the Directors of
+
+general policies that would affect the content or scheduling of programs.
+
+</dd> </dl></dl>
+
+Note:	The heading to section 13 is replaced by the heading "Limits on Government directions to SBS".
+
+1209
+  Subparagraph 27(2)(c)(ii)
+
+ Omit "43", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+1210
+  Paragraph 37(2)(d)
+
+ Omit "or 43", substitute "of this Act or section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+1211
+  Subsection 40(2)
+
+<center>Back to Top</center>
+
+ Omit "43(2)", substitute "21(3) of the _Commonwealth Authorities and Companies Act 1997_".
+
+1212
+  Section 43
+
+ Repeal the section.
+
+1213
+  At the end of subsection 52(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	Section 15 of the _Commonwealth Authorities and Companies Act 1997_ requires Directors to notify the Minister of significant business
+
+activities and arrangements.
+
+ </dl></dl>
+
+1214
+  Subsection 52(3)
+
+ Repeal the subsection.
+
+1215
+  Subsections 58(2) and 58(3)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the SBS
+
+under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+Note:	The heading to section 58 is altered by omitting "and investment".
+
+1216
+  Section 66
+
+ Repeal the section.
+
+1217
+  Section 69
+
+ Repeal the section.
+
+1218
+  Section 73
+
+ Omit "Board must include in each report prepared under section 63M of the _Audit Act 1901_, as that section applies to the SBS because of section&#160;69 of this Act", substitute "Directors must include in each report on the SBS under section 9 of the _Commonwealth Authorities and Companies Act 1997_". 
+
+_States Grants (Primary and Secondary Education Assistance) Act 1992_
+
+1219
+  Subsection 115(2)
+
+ Omit "section 50 of the _Audit Act 1901_", substitute "section 55 of the _Financial Management and Accountability Act 1997_". 
+
+_States Grants (Schools Assistance) Act 1984_
+
+1220
+  Subsection 87(2)
+
+ Omit "section 50 of the _Audit Act 1901_", substitute "section 55 of the _Financial Management and Accountability Act 1997_". 
+
+_States Grants (Schools Assistance) Act 1988_
+
+1221
+  Subsection 48(2)
+
+ Omit "section 50 of the _Audit Act 1901_", substitute "section 55 of the _Financial Management and Accountability Act 1997_". 
+
+_States Grants (TAFE Assistance) Act 1989_
+
+1222
+  Subsection 26(2)
+
+ Omit "section 49 or 50 of the _Audit Act 1901_", substitute "section 54 or 55 of the _Financial Management and Accountability Act 1997_". 
+
+_Stevedoring Industry Finance Committee Act 1977_
+
+1223
+  At the end of subsection 4(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Committee. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+1224
+  Section 17
+
+ Repeal the section.
+
+<center>Back to Top</center>
+
+1225
+  At the end of section 18
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Committee under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+1226
+  Section 28
+
+ Repeal the section. 
+
+_Student and Youth Assistance Act 1973_
+
+1227
+  Subsection 3(1) (definition of _Fund_)
+
+ Repeal the definition.
+
+1228
+  Subsection 3(1)
+
+ Insert:
+
+<def><dl compact=""><dl compact="">
+
+_Reserve_ means the Students (Financial Supplement) Reserve
+
+established by section 12M.
+
+ </dl></dl>
+
+1229
+  Section 12M
+
+ Repeal the section, substitute: 
+
+12M
+  Students (Financial Supplement) Reserve
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Students (Financial
+
+Supplement) Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund. </dd> </dl></dl>
+
+1230
+  Subsection 12N(2)
+
+ Omit "Any amount", substitute "An amount equal to any amount".
+
+1231
+  Subsection 12N(2)
+
+ Omit "is to be paid into the Fund", substitute "is to be paid into the Reserve out of the Consolidated Revenue Fund".
+
+1232
+  Paragraph 12N(2)(a)
+
+ Omit "Fund" (wherever occurring), substitute "Reserve".
+
+1233
+  Subsection 12N(3)
+
+ Omit "Fund" (wherever occurring), substitute "Reserve".
+
+1234
+  Paragraph 56(f)
+
+ Omit "Fund", substitute "Reserve". 
+
+_Superannuation Act 1976_
+
+1235
+  At the end of section 27B
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>The Board is not a Commonwealth authority for the purposes of the
+
+_Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+1236
+  Paragraph 41(2)(e)
+
+ Repeal the paragraph, substitute:
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(e)</dt><dd>to open and maintain accounts with banks.
+
+</dd>
+
+</dl></dl></dl>
+
+1237
+  At the end of section 41
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(9)</dt><dd>In this section:
+
+</dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_bank_ has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+1238
+  Section 44
+
+ Repeal the section, substitute: 
+
+44
+  Accounting records
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Board must keep proper accounts and records of the Fund's transactions
+
+and affairs in accordance with the accounting principles generally applied in
+
+commercial practice.</dd> <dt>(2)</dt><dd>The Board must do all things necessary to ensure that: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>all payments out of the Fund are correctly made and properly authorised;
+
+and</dd>
+
+<dt>(b)</dt><dd>adequate control is maintained over the assets of the Fund and over the
+
+incurring of liabilities by the Board in respect of the Fund.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If a requirement of this section is contravened, each member of the Board
+
+who intentionally:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>caused the contravention; or</dd>
+
+<dt>(b)</dt><dd>failed to take all reasonable steps to comply with the requirement, or
+
+secure compliance with the requirement;
+
+</dd>
+
+</dl></dl></dl>
 
 is guilty of an offence.
 
-                    Penalty for contravention of subsection (3):  Imprisonment for 6 months.
+Penalty for contravention of subsection (3):  Imprisonment for 6 months. 
 
-##### <a id="44A"></a>44A  Audit
+44A
+  Audit
 
-             (1)  At least once a year, the Auditor-General must:
+ <dl compact=""><dl compact="">
 
-                     (a)  inspect and audit:
+<dt>(1)</dt><dd>At least once a year, the Auditor-General must:
 
-                              (i)  the accounts and records of the Fund’s financial transactions; and
+</dd> </dl></dl>
 
-                             (ii)  the records relating to assets of the Fund; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  report to the Minister the results of the inspection and audit.
+<dt>(a)</dt><dd>inspect and audit:
 
-             (2)  The Auditor-General may, however, decide to dispense with all or any part of the detailed inspection and audit of the accounts and records.
+</dd>
 
-             (3)  The Auditor-General must, as soon as practicable, report to the Minister any irregularity disclosed by the inspection and audit that the Auditor-General thinks is sufficiently important to be reported.
+</dl></dl></dl>
 
-Note:          For the information-gathering powers of the Auditor-General, see Part 5 of the _Auditor-General Act 1997_.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-## 1239  Section 170 (definition of _authorized person_)
+<dt>(i)</dt><dd>the accounts and records of the Fund's financial transactions; and</dd>
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+<dt>(ii)</dt><dd>the records relating to assets of the Fund; and
 
-<h9 class="ActHead9">Superannuation Act 1990</h9>
+</dd>
 
-## 1240  At the end of section 21
+</dl></dl></dl></dl>
 
-Add:
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  The Board is not a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
+<dt>(b)</dt><dd>report to the Minister the results of the inspection and audit.
 
-## 1241  Section 27
+</dd>
 
-Repeal the section, substitute:
+</dl></dl></dl>
 
-##### <a id="27"></a>27  Banking
+<dl compact=""><dl compact="">
 
-             (1)  The Board must pay all money received by it in respect of the PSS Fund into an account maintained by it with a bank.
+<dt>(2)</dt><dd>The Auditor-General may, however, decide to dispense with all or any part
 
-             (2)  In this section:
+of the detailed inspection and audit of the accounts and records.</dd> <dt>(3)</dt><dd>The Auditor-General must, as soon as practicable, report to the Minister any irregularity disclosed by the inspection and audit that the Auditor-General thinks is sufficiently important to be reported. </dd> </dl></dl>
 
-                    <a name="bank"></a>**_bank_** has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
+<dl compact=""><dl compact="">
 
-##### <a id="27A"></a>27A  Accounting records
+Note:	For the information-gathering powers of the
 
-             (1)  The Board must keep proper accounts and records of the PSS Fund’s transactions and affairs in accordance with the accounting principles generally applied in commercial practice.
+Auditor-General, see Part&#160;5 of the _Auditor-General Act 1997_.
 
-             (2)  The Board must do all things necessary to ensure that:
+ </dl></dl>
 
-                     (a)  all payments out of the PSS Fund are correctly made and properly authorised; and
+1239
+  Section 170 (definition of _authorized person_)
 
-                     (b)  adequate control is maintained over the assets of the PSS Fund and over the incurring of liabilities by the Board in respect of the PSS Fund.
+ Omit "Chairman" (wherever occurring), substitute "Chair". 
 
-             (3)  If a requirement of this section is contravened, each member of the Board who intentionally:
+_Superannuation Act 1990_
 
-                     (a)  caused the contravention; or
+1240
+  At the end of section 21
 
-                     (b)  failed to take all reasonable steps to comply with the requirement, or secure compliance with the requirement;
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>The Board is not a Commonwealth authority for the purposes of the
+
+_Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+1241
+  Section 27
+
+ Repeal the section, substitute: 
+
+27
+  Banking
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Board must pay all money received by it in respect of the PSS Fund
+
+into an account maintained by it with a bank.</dd> <dt>(2)</dt><dd>In this section: </dd> </dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_bank_ has the same meaning as it has in the _Commonwealth Authorities and Companies Act 1997_.
+
+ </dl></dl>
+
+27A
+  Accounting records
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Board must keep proper accounts and records of the PSS Fund's
+
+transactions and affairs in accordance with the accounting principles generally
+
+applied in commercial practice.</dd> <dt>(2)</dt><dd>The Board must do all things necessary to ensure that: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>all payments out of the PSS Fund are correctly made and properly
+
+authorised; and</dd>
+
+<dt>(b)</dt><dd>adequate control is maintained over the assets of the PSS Fund and over
+
+the incurring of liabilities by the Board in respect of the PSS Fund.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If a requirement of this section is contravened, each member of the Board
+
+who intentionally:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>caused the contravention; or</dd>
+
+<dt>(b)</dt><dd>failed to take all reasonable steps to comply with the requirement, or
+
+secure compliance with the requirement;
+
+</dd>
+
+</dl></dl></dl>
 
 is guilty of an offence.
 
-                    Penalty for contravention of subsection (3):  Imprisonment for 6 months.
+Penalty for contravention of subsection (3):  Imprisonment for 6 months. 
 
-##### <a id="27B"></a>27B  Audit
+27B
+  Audit
 
-             (1)  At least once a year, the Auditor-General must:
+ <dl compact=""><dl compact="">
 
-                     (a)  inspect and audit:
+<dt>(1)</dt><dd>At least once a year, the Auditor-General must:
 
-                              (i)  the accounts and records of the PSS Fund’s financial transactions; and
+</dd> </dl></dl>
 
-                             (ii)  the records relating to assets of the PSS Fund; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  report to the Minister the results of the inspection and audit.
+<dt>(a)</dt><dd>inspect and audit:
 
-             (2)  The Auditor-General may, however, decide to dispense with all or any part of the detailed inspection and audit of the accounts and records.
+</dd>
 
-             (3)  The Auditor-General must, as soon as practicable, report to the Minister any irregularity disclosed by the inspection and audit that the Auditor-General thinks is sufficiently important to be reported.
+</dl></dl></dl>
 
-Note:          For the information-gathering powers of the Auditor-General, see Part 5 of the _Auditor-General Act 1997_.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Superannuation Industry (Supervision) Act 1993</h9>
+<dt>(i)</dt><dd>the accounts and records of the PSS Fund's financial transactions; and</dd>
 
-## 1242  Section 234
+<dt>(ii)</dt><dd>the records relating to assets of the PSS Fund; and
 
-Repeal the section, substitute:
+</dd>
 
-##### <a id="234"></a>234  Superannuation Protection Reserve
+</dl></dl></dl></dl>
 
-             (1)  This subsection establishes a reserve called the Superannuation Protection Reserve.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+<dt>(b)</dt><dd>report to the Minister the results of the inspection and audit.
 
-             (3)  So far as practicable, money in the Reserve that is not required for the purpose of making payments out of the Reserve must be invested under section 39 of the _Financial Management and Accountability Act 1997_.
+</dd>
 
-             (4)  If income is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the income must be transferred to the Reserve from the Consolidated Revenue Fund.
+</dl></dl></dl>
 
-## 1243  Paragraph 235(1)(b)
+<dl compact=""><dl compact="">
 
-Omit “Superannuation Protection Account”, substitute “Reserve”.
+<dt>(2)</dt><dd>The Auditor-General may, however, decide to dispense with all or any part
 
-## 1244  Section 236
+of the detailed inspection and audit of the accounts and records.</dd> <dt>(3)</dt><dd>The Auditor-General must, as soon as practicable, report to the Minister any irregularity disclosed by the inspection and audit that the Auditor-General thinks is sufficiently important to be reported. </dd> </dl></dl>
 
-Omit “Account” (wherever occurring), substitute “Reserve”.
+<dl compact=""><dl compact="">
 
-_Note:       The heading to section 236 is altered by omitting “Account” and substituting “Reserve”._
+Note:	For the information-gathering powers of the
 
-## 1245  Section 237
+Auditor-General, see Part&#160;5 of the _Auditor-General Act 1997_.
 
-Omit “Account” (wherever occurring), substitute “Reserve”.
+ </dl></dl>
 
-_Note:       The heading to section 237 is altered by omitting “Account” and substituting “Reserve”._
+_Superannuation Industry (Supervision) Act 1993_
 
-<h9 class="ActHead9">Surplus Revenue Act 1908</h9>
+<center>Back to Top</center>
 
-## 1246  Section 5
+1242
+  Section 234
 
-Repeal the section.
+ Repeal the section, substitute: 
 
-<h9 class="ActHead9">Taxation (Interest on Overpayments and Early Payments) Act 1983</h9>
+234
+  Superannuation Protection Reserve
 
-## 1247  Subsection 3(3)
+ <dl compact=""><dl compact="">
 
-Repeal the subsection.
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Superannuation Protection
 
-<h9 class="ActHead9">Telstra Corporation Act 1991</h9>
+Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.</dd> <dt>(3)</dt><dd>So far as practicable, money in the Reserve that is not required for the purpose of making payments out of the Reserve must be invested under section 39 of the _Financial Management and Accountability Act 1997_.</dd> <dt>(4)</dt><dd>If income is received by the Commonwealth from the investment of money from the Reserve, an amount equal to the income must be transferred to the Reserve from the Consolidated Revenue Fund. </dd> </dl></dl>
 
-## 1248  Subsections 36(1) and (2)
+1243
+  Paragraph 235(1)(b)
 
-Repeal the subsections.
+ Omit "Superannuation Protection Account", substitute "Reserve".
 
-_Note:       The heading to section 36 is replaced by the heading “Audit”._
+1244
+  Section 236
 
-<h9 class="ActHead9">Therapeutic Goods Act 1989</h9>
+ Omit "Account" (wherever occurring), substitute "Reserve".
 
-## 1249  Section 45
+Note:	The heading to section 236 is altered by omitting "Account" and substituting "Reserve".
 
-Repeal the section, substitute:
+1245
+  Section 237
 
-##### <a id="45"></a>45  Therapeutic Goods Administration Reserve
+ Omit "Account" (wherever occurring), substitute "Reserve".
 
-             (1)  This subsection establishes a reserve called the Therapeutic Goods Administration Reserve.
+Note:	The heading to section 237 is altered by omitting "Account" and substituting "Reserve". 
 
-             (2)  The Reserve is a component of the Reserved Money Fund.
+_Surplus Revenue Act 1908_
 
-             (3)  Money standing to the credit of the Therapeutic Goods Administration Trust Account immediately before the commencement of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ must be transferred to the Reserve.
+1246
+  Section 5
 
-             (4)  There must be transferred to the Reserve from the Consolidated Revenue Fund:
+ Repeal the section. 
 
-                     (a)  money appropriated by the Parliament for the purposes of the Reserve; and
+_Taxation (Interest on Overpayments and Early Payments) Act 1983_
 
-                     (b)  amounts equal to amounts received by the Commonwealth by way of annual registration charge, annual listing charge and annual licensing charge; and
+1247
+  Subsection 3(3)
 
-                     (c)  amounts equal to interest received by the Commonwealth from the investment of money from the Reserve; and
+ Repeal the subsection. 
 
-                     (d)  amounts equal to money received by the Commonwealth in relation to property paid for with money from the Reserve; and
+_Telstra Corporation Act 1991_
 
-                     (e)  amounts equal to money received by the Commonwealth for services provided or to be provided, by or on behalf of the Commonwealth, using money from the Reserve (including amounts received by way of fees payable under the regulations); and
+1248
+  Subsections 36(1) and (2)
 
-                      (f)  amounts equal to donations for the furtherance of a purpose of the Reserve that are received by the Commonwealth; and
+ Repeal the subsections.
 
-                     (g)  amounts equal to receipts relating to the recovery of debts (other than debts in respect of statutory fines and penalties) by the Commonwealth that are associated with expenditure of money from the Reserve.
+Note:	The heading to section 36 is replaced by the heading "Audit". 
 
-             (5)  The purposes of the Reserve are to make payments:
+_Therapeutic Goods Act 1989_
 
-                     (a)  to further the objects of this Act (as set out in section 4); and
+1249
+  Section 45
 
-                     (b)  to enable the Commonwealth to participate in the international harmonisation of regulatory controls on therapeutic goods and other related activities.
+ Repeal the section, substitute: 
 
-<h9 class="ActHead9">Tobacco Marketing Act 1965</h9>
+45
+  Therapeutic Goods Administration Reserve
 
-## 1250  Section 4 (definition of _approved bank_)
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection establishes a reserve called the Therapeutic Goods
+
+Administration Reserve.</dd> <dt>(2)</dt><dd>The Reserve is a component of the Reserved Money Fund.</dd> <dt>(3)</dt><dd>Money standing to the credit of the Therapeutic Goods Administration Trust Account immediately before the commencement of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ must be transferred to the Reserve.</dd> <dt>(4)</dt><dd>There must be transferred to the Reserve from the Consolidated Revenue Fund: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>money appropriated by the Parliament for the purposes of the Reserve;
+
+and</dd>
+
+<dt>(b)</dt><dd>amounts equal to amounts received by the Commonwealth by way of annual
+
+registration charge, annual listing charge and annual licensing charge; and</dd>
+
+<dt>(c)</dt><dd>amounts equal to interest received by the Commonwealth from the investment
+
+of money from the Reserve; and</dd>
+
+<dt>(d)</dt><dd>amounts equal to money received by the Commonwealth in relation to
+
+property paid for with money from the Reserve; and</dd>
+
+<dt>(e)</dt><dd>amounts equal to money received by the Commonwealth for services provided
+
+or to be provided, by or on behalf of the Commonwealth, using money from the
+
+Reserve (including amounts received by way of fees payable under the
+
+regulations); and</dd>
+
+<dt>(f)</dt><dd>amounts equal to donations for the furtherance of a purpose of the Reserve
+
+that are received by the Commonwealth; and</dd>
+
+<dt>(g)</dt><dd>amounts equal to receipts relating to the recovery of debts (other than
+
+debts in respect of statutory fines and penalties) by the Commonwealth that are
+
+associated with expenditure of money from the Reserve.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>The purposes of the Reserve are to make payments:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>to further the objects of this Act (as set out in section 4); and</dd>
+
+<dt>(b)</dt><dd>to enable the Commonwealth to participate in the international
+
+harmonisation of regulatory controls on therapeutic goods and other related
+
+activities.
+
+</dd>
+
+</dl></dl></dl>
+
+_Tobacco Marketing Act 1965_
+
+1250
+  Section 4 (definition of _approved bank_)
+
+ Repeal the definition.
+
+1251
+  Section 4 (definition of _the_ 
+_Auditor-General_)
 
 Repeal the definition.
 
-## 1251  Section 4 (definition of _the_ _Auditor-General_)
+1252
+  Section 4 (definitions of _Chairman_ and _Deputy Chairman_)
+
+Omit "Chairman" (wherever occurring), substitute "Chair".
+
+1253
+  At the end of subsection 5(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Committee. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.".
+
+ </dl></dl>
+
+1254
+  After section 5
+
+ Insert: 
+
+5A
+  Committee's financial year starts on 1 January
+
+ <dl compact=""><dl compact="">
+
+		For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the Committee's financial year is a period of 12 months starting on 1
+
+January.
+
+ </dl></dl>
+
+1255
+  Section 7 and subsections 8(5) and 10(2), (3), (4) and 
+(5)
+
+Omit "Chairman" (wherever occurring), substitute "Chair".
+
+1256
+  Section 20
+
+ Repeal the section.
+
+1257
+  At the end of section 21
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
+
+Committee under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+1258
+  Sections 22, 23, 24 and 26
+
+ Repeal the sections.
+
+1259
+  Section 28
+
+ Omit "Chairman" (wherever occurring), substitute "Chair". 
+
+_Trade Practices Act 1974_
+
+1260
+  Section 20
+
+ Repeal the section. 
+
+_University of Canberra Act 1989_
+
+1261
+  At the end of subsection 4(3)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	Subject to section 4A, the _Commonwealth Authorities and Companies Act 1997_ applies to the University. That Act deals with matters
+
+relating to Commonwealth authorities, including reporting and accountability,
+
+banking and investment, and conduct of officers.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+1262
+  After section 4
+
+ Insert: 
+
+4A
+  Modification of the _Commonwealth Authorities and Companies Act 1997_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Sections 14 and 28 of the _Commonwealth Authorities and Companies Act 1997_ do not apply to the University.</dd> <dt>(2)</dt><dd>Nothing in section 16 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Council to do anything that will or might affect the academic independence or integrity of the University. </dd> </dl></dl>
+
+4B
+  University's financial year starts on 1 January
+
+ <dl compact=""><dl compact="">
+
+		For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the University's financial year is a period of 12 months starting on
+
+1 January.
+
+ </dl></dl>
+
+1263
+  Paragraph 7(2)(n)
+
+ Repeal the paragraph.
+
+1264
+  Subsection 7(3)
+
+ After "this Act", insert "or the _Commonwealth Authorities and Companies Act 1997_".
+
+1265
+  Section 14
+
+ Repeal the section.
+
+1266
+  Paragraph 15(1)(e)
+
+ Omit "subsection 14(1)", substitute "section 21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+1267
+  At the end of section 33
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent the investment of surplus money of the
+
+University under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+1268
+  Sections 35, 36, 37 and 39
+
+ Repeal the sections.
+
+1269
+  Subsection 40(1)
+
+ After "this Act" (first occurring), insert "or the _Commonwealth Authorities and Companies Act 1997_".
+
+1270
+  Subparagraph 40(2)(e)(iii)
+
+ Repeal the subparagraph, substitute:
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(iii)</dt><dd>disclosure of pecuniary interests at meetings of the Board; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+_Vocational Education and Training Funding Act 1992_
+
+1271
+  Subsection 13(2)
+
+ Omit "section 49 of the _Audit Act 1901_", substitute "section 54 of the _Financial Management and Accountability Act 1997_". 
+
+_Wheat Marketing Act 1989_
+
+1272
+  Subsection 3(1) (definition of _Board auditor_)
+
+ Repeal the definition.
+
+1273
+  At the end of subsection 4(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to the Board. That Act deals with matters relating to Commonwealth
+
+authorities, including reporting and accountability, banking and investment,
+
+and conduct of officers.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+1274
+  At the end of section 8
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>This section does not affect the application of section 28 of the
+
+_Commonwealth Authorities and Companies Act 1997_ in relation to the Board.
+
+</dd> </dl></dl>
+
+1275
+  Section 11
+
+ Omit "89(5)", substitute "9(3) of the _Commonwealth Authorities and Companies Act 1997_".
+
+1276
+  Subsection 15(13)
+
+ Repeal the subsection.
+
+1277
+  At the end of section 15
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	For the manner in which the Chairperson may be referred to,
+
+see section 18B of the _Acts Interpretation Act 1901_.
+
+ </dl></dl>
+
+1278
+  Subsection 16(8)
+
+ Repeal the subsection.
+
+1279
+  At the end of section 16
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	For the manner in which the Deputy Chairperson may be
+
+referred to, see section 18B of the _Acts Interpretation Act 1901_.
+
+ </dl></dl>
+
+1280
+  Subparagraph 20(2)(a)(ii)
+
+ Omit "21", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+1281
+  Subsections 21(1), (2) and (3)
+
+ Repeal the subsections.
+
+1282
+  Subsection 21(4)
+
+ Omit "This section does not apply to a pecuniary", substitute "Section&#160;21 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to a material personal".
+
+1283
+  Subsections 67(1), (2) and (3)
+
+ Repeal the subsections.
+
+Note:	The heading to section 67 is replaced by the heading "Accounting for dealings in wheat".
+
+1284
+  Subsections 67(5), (6) and (7)
+
+ Repeal the subsections.
+
+1285
+  Section 68
+
+ Repeal the section.
+
+1286
+  At the end of section 69
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the Board
+
+under subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+1287
+  Subsection 70(1)
+
+ Repeal the subsection, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_ does not apply to pool funds.
+
+</dd> </dl></dl>
+
+Note:	The heading to section 70 is altered by adding at the end "of pool funds".
+
+1288
+  Subsections 70(3) and (4)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>Pool funds not immediately required for the purposes of the Board may be
+
+invested in the ways described in subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+1289
+  After section 88
+
+ Insert: 
+
+88A
+  Board's financial year starts on 1 October
+
+ <dl compact=""><dl compact="">
+
+		For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the Board's financial year is a period of 12 months starting on 1
+
+October.
+
+ </dl></dl>
+
+1290
+  Subsections 89(1) and (2)
+
+ Repeal the subsections.
+
+1291
+  Subsection 89(3)
+
+ Omit "Without limiting the generality of subsection (1), the Board shall include in each report under that subsection", substitute "In each report on the Board under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must include".
+
+1292
+  Subsection 89(4)
+
+ Omit "referred to in subsection (1)", substitute "for the Board that are referred to in clauses 1 and 2 of the Schedule to the _Commonwealth Authorities and Companies Act 1997_".
+
+1293
+  Subsections 89(5) and (6)
+
+ Repeal the subsections.
+
+1294
+  Subsection 93(11)
+
+ Repeal the subsection. 
+
+_Wool International Act 1993_
+
+1295
+  At the end of subsection 7(2)
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+Note:	The _Commonwealth Authorities and Companies Act 1997_
+
+applies to Wool International. That Act deals with matters relating to
+
+Commonwealth authorities, including reporting and accountability, banking and
+
+investment, and conduct of officers.
+
+ </dl></dl>
+
+1296
+  Section 25
+
+ Repeal the section, substitute: 
+
+25
+  Situations that do not amount to interests requiring 
+disclosure
+
+<dl compact=""><dl compact="">
+
+		For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal
+
+interest in a matter being considered or about to be considered by Wool
+
+International merely because the member is a wool producer, a wool processor or
+
+a manufacturer of wool products.
+
+ </dl></dl>
+
+1297
+  Paragraph 28(2)(c)
+
+ Omit "25", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+1298
+  Paragraph 36(3)(c)
+
+ Omit "25", substitute "21 of the _Commonwealth Authorities and Companies Act 1997_".
+
+1299
+  At the end of section 49
+
+ Add:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of Wool
+
+International under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
+
+</dd> </dl></dl>
+
+1300
+  Subsection 50(1)
+
+ Repeal the subsection.
+
+<center>Back to Top</center>
+
+1301
+  Subsection 55(1)
+
+ Omit "with a bank or banks", substitute "maintained under subsection&#160;19(2) of the _Commonwealth Authorities and Companies Act 1997_".
+
+1302
+  Subsection 55(2)
+
+ Repeal the subsection.
+
+1303
+  Section 56
+
+ Repeal the section.
+
+1304
+  Part 8
+
+ Repeal the Part.
+
+1305
+  Section 67
+
+ Repeal the section, substitute: 
+
+67
+  Extra matters to be included in annual report
+
+ <dl compact=""><dl compact="">
+
+		The annual report on Wool International under section 9 of the
+
+_Commonwealth Authorities and Companies Act 1997_ must also include such
+
+particulars (if any) as are prescribed.
+
+ </dl></dl>
+
+<center>**
+
+###  AUDIT (TRANSITIONAL AND MISCELLANEOUS) AMENDMENT ACT 1997Schedule 3&#151;Amendment of Acts to update references and make other changes 
+**</center>
+
+ _Air Services Act 1995_
+
+1
+  Subsection 2(2), section 13, subsection 16(6), the notes at the end 
+of subsections 17(3) and (4), paragraph 32(2)(d), subparagraphs 32(5)(b)(i) and (ii) and section&#160;51
+
+Omit "_1995_" (wherever occurring), substitute "_1997_". 
+
+_Australian Law Reform Commission Act 1996_
+
+2
+  Subsection 5(2) (note)
+
+ Omit "executive". 
+
+_Australian Maritime Safety Authority Act 1990_
+
+3
+  Paragraph 10(2)(f)
+
+ Repeal the paragraph. 
+
+_Civil Aviation Legislation Amendment Act 1995_
+
+4
+  Subsections 2(2) and (3)
+
+ Repeal the subsections, substitute:
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Section 4 and Schedule 2 commence on the same day as the _Commonwealth Authorities and Companies Act 1997_ commences.
+
+</dd> </dl></dl>
+
+5
+  Section 6
+
+ Repeal the section.
+
+6
+  Section 7 (definition of _CAC Act_) and items 1, 3, 5, 7, 10 
+and 11 of Schedule 2
+
+Omit "_1995_" (wherever occurring), substitute "_1997_".
+
+7
+  Subsection 18(3) (definition of _pre-CAC rules_)
+
+ After "sections", insert "14, 15, 40,".
+
+8
+  Subsection 18(3) (definition of _pre-CAC rules_)
+
+ Omit "and 64", substitute ", 64 and 65".
+
+9
+  Schedule 4
+
+ Repeal the Schedule. 
+
+_Commonwealth Funds Management Limited Act 1990_
+
+10
+  Section 45
+
+ Repeal the section. 
+
+_Ozone Protection Amendment Act 1995_
+
+11
+  Part 2 of Schedule 1
+
+<center>Back to Top</center>
+
+ Repeal the Part.
+
+12
+  Items 56 and 57 of Schedule 1
+
+ Repeal the items.
+
+13
+  Item 58 of Schedule 1
+
+ Omit "If this Part applies, the", substitute "The".
+
+14
+  Items 59 and 60 of Schedule 1
+
+ Repeal the items.
+
+15
+  Item 61 of Schedule 1
+
+ Omit "If this Part applies, the", substitute "The".
+
+16
+  Item 61 of Schedule 1
+
+ Omit "Financial Management and Accountability Act", substitute "_Financial Management and Accountability Act 1997_".
+
+17
+  Item 63 of Schedule 1 (definition of _Transitional Provisions Act_ in new section 65A)
 
 Repeal the definition.
 
-## 1252  Section 4 (definitions of _Chairman_ and _Deputy Chairman_)
+18
+  Item 63 of Schedule 1 (new subsection 65B(5))
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+ Omit "Transitional Provisions Act", substitute "_Audit (Transitional and Miscellaneous) Amendment Act 1997_". 
 
-## 1253  At the end of subsection 5(2)
+_Small Superannuation Accounts Act 1995_
 
-Add:
+19
+  Subsection 8(2) 
 
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to the Committee. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.”.
+ Omit "_1995_" (wherever occurring), substitute "_1997_".
 
-## 1254  After section 5
+20
+  Subsection 8(2) (note 1)
 
-Insert:
+ Omit "40", substitute "39".
 
-##### <a id="5A"></a>5A  Committee’s financial year starts on 1 January
+21
+  At the end of subsection 8(2)
 
-                   For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the Committee’s financial year is a period of 12 months starting on 1 January.
+ Add:
 
-## 1255  Section 7 and subsections 8(5) and 10(2), (3), (4) and (5)
+<dl compact=""><dl compact="">
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+Note 3:	Before the commencement of the _Financial Management and Accountability Act 1997_, the Reserve was a trust account for the
 
-## 1256  Section 20
+purposes of section 62A of the _Audit Act 1901_.
 
-Repeal the section.
+ </dl></dl>
 
-## 1257  At the end of section 21
+22
+  Subsection 8(3)
 
-Add:
+ Repeal the subsection, substitute:
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Committee under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+_Transitionalappropriation_
 
-## 1258  Sections 22, 23, 24 and 26
+<dl compact=""><dl compact="">
 
-Repeal the sections.
+<dt>(3)</dt><dd>The Trust Fund established by the _Audit Act 1901_ is appropriated to
 
-## 1259  Section 28
+the extent necessary to achieve the transition of the Reserve from the scheme
 
-Omit “Chairman” (wherever occurring), substitute “Chair”.
+of the _Audit Act 1901_ to the scheme of the _Financial Management and Accountability Act 1997_.
 
-<h9 class="ActHead9">Trade Practices Act 1974</h9>
+</dd> </dl></dl>
 
-## 1260  Section 20
+23
+  Subsection 10(2)
 
-Repeal the section.
+ Repeal the subsection.
 
-<h9 class="ActHead9">University of Canberra Act 1989</h9>
+24
+  Subsection 19(1)
 
-## 1261  At the end of subsection 4(3)
+ Omit "_1995_", substitute "_1997_".
 
-Add:
+25
+  Subsection 19(3)
 
-Note:         Subject to section 4A, the _Commonwealth Authorities and Companies Act 1997_ applies to the University. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+ Repeal the subsection.
 
-## 1262  After section 4
+26
+  Subsection 33(1)
 
-Insert:
+ Omit "_1995_", substitute "_1997_".
 
-##### <a id="4A"></a>4A  Modification of the _Commonwealth Authorities and Companies Act 1997_
+27
+  Subsection 33(3)
 
-             (1)  Sections 14 and 28 of the _Commonwealth Authorities and Companies Act 1997_ do not apply to the University.
+ Repeal the subsection.
 
-             (2)  Nothing in section 16 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Council to do anything that will or might affect the academic independence or integrity of the University.
+28
+  Section 95
 
-##### <a id="4B"></a>4B  University’s financial year starts on 1 January
+ Repeal the section. 
 
-                   For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the University’s financial year is a period of 12 months starting on 1 January.
+_Transport Legislation Amendment Act 1995_
 
-## 1263  Paragraph 7(2)(n)
+29
+  Subsection 2(2)
 
-Repeal the paragraph.
+ Repeal the subsection.
 
-## 1264  Subsection 7(3)
+30
+  Subsection 2(4)
 
-After “this Act”, insert “or the _Commonwealth Authorities and Companies Act 1997_”.
+ Omit "_1995_", substitute "_1997_".
 
-## 1265  Section 14
+<center>Back to Top</center>
 
-Repeal the section.
+31
+  Part B of Schedule 1
 
-## 1266  Paragraph 15(1)(e)
+ Repeal the Part.
 
-Omit “subsection 14(1)”, substitute “section 21 of the _Commonwealth Authorities and Companies Act 1997_”.
+32
+  Items 4, 5 and 7 of Part C of Schedule 1
 
-## 1267  At the end of section 33
+ Omit "_1995_" (wherever occurring), substitute "_1997_".
 
-Add:
+<center>**
 
-             (2)  Subsection (1) does not prevent the investment of surplus money of the University under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+###  AUDIT (TRANSITIONAL AND MISCELLANEOUS) AMENDMENT ACT 1997Schedule 4&#151;Transitional matters and regulations 
+**</center>
 
-## 1268  Sections 35, 36, 37 and 39
+1
+  This Schedule binds the Crown
 
-Repeal the sections.
+ This Schedule binds the Crown in right of the Commonwealth, but does not make the Crown liable to be prosecuted for an offence.
 
-## 1269  Subsection 40(1)
+2
+  This Schedule extends to things outside Australia
 
-After “this Act” (first occurring), insert “or the _Commonwealth Authorities and Companies Act 1997_”.
+ This Schedule extends to acts, omissions, matters and things outside Australia.
 
-## 1270  Subparagraph 40(2)(e)(iii)
+3
+  Interpretation
 
-Repeal the subparagraph, substitute:
+ In this Schedule, unless the contrary intention appears:
 
-                            (iii)  disclosure of pecuniary interests at meetings of the Board; and
+<def><dl compact=""><dl compact="">
 
-<h9 class="ActHead9">Vocational Education and Training Funding Act 1992</h9>
+_Audit Act_ means the _Audit Act 1901_. _Commercial Activities Fund_ means the Commercial Activities Fund established by the _Financial Management and Accountability Act 1997_. _Finance Minister_ means the Minister who administers this Act. _new Loan Fund_ means the Loan Fund established by the _Financial Management and Accountability Act 1997_. _old Loan Fund_ means the Loan Fund established by the Audit Act. _old Trust Fund_ means the Trust Fund established by the Audit Act. _replacement Acts_ means the _Auditor-General Act 1997_, the _Financial Management and Accountability Act 1997_ and the _Commonwealth Authorities and Companies Act 1997_. _Reserved Money Fund_ means the Reserved Money Fund established by the _Financial Management and Accountability Act 1997_.  </dl></dl>
 
-## 1271  Subsection 13(2)
+4
+  Transfers from old Funds to new Funds
 
-Omit “section 49 of the _Audit Act 1901_”, substitute “section 54 of the _Financial Management and Accountability Act 1997_”.
+ (1)	Money in the old Loan Fund immediately before the commencement of this Schedule must be transferred to the new Loan Fund.
+ (2)	If:
 
-<h9 class="ActHead9">Wheat Marketing Act 1989</h9>
+<dl compact=""><dl compact=""><dl compact="">
 
-## 1272  Subsection 3(1) (definition of _Board auditor_)
+<dt>(a)</dt><dd>immediately before the commencement of this Schedule, money was in an
 
-Repeal the definition.
+account (however described) that was established or continued in existence by
 
-## 1273  At the end of subsection 4(2)
+an Act that is amended by Schedule 2 to this Act; and</dd>
 
-Add:
+<dt>(b)</dt><dd>that account formed part of the old Trust Fund;
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Board. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+</dd>
 
-## 1274  At the end of section 8
-
-Add:
-
-             (4)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to the Board.
-
-## 1275  Section 11
-
-Omit “89(5)”, substitute “9(3) of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 1276  Subsection 15(13)
-
-Repeal the subsection.
-
-## 1277  At the end of section 15
-
-Add:
-
-Note:          For the manner in which the Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
-
-## 1278  Subsection 16(8)
-
-Repeal the subsection.
-
-## 1279  At the end of section 16
-
-Add:
-
-Note:          For the manner in which the Deputy Chairperson may be referred to, see section 18B of the _Acts Interpretation Act 1901_.
-
-## 1280  Subparagraph 20(2)(a)(ii)
-
-Omit “21”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 1281  Subsections 21(1), (2) and (3)
-
-Repeal the subsections.
-
-## 1282  Subsection 21(4)
-
-Omit “This section does not apply to a pecuniary”, substitute “Section 21 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to a material personal”.
-
-## 1283  Subsections 67(1), (2) and (3)
-
-Repeal the subsections.
-
-_Note:       The heading to section 67 is replaced by the heading “Accounting for dealings in wheat”._
-
-## 1284  Subsections 67(5), (6) and (7)
-
-Repeal the subsections.
-
-## 1285  Section 68
-
-Repeal the section.
-
-## 1286  At the end of section 69
-
-Add:
-
-             (2)  Subsection (1) does not prevent investment of surplus money of the Board under subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 1287  Subsection 70(1)
-
-Repeal the subsection, substitute:
-
-             (1)  Subsection 19(3) of the _Commonwealth Authorities and Companies Act 1997_ does not apply to pool funds.
-
-_Note:       The heading to section 70 is altered by adding at the end “of pool funds”._
-
-## 1288  Subsections 70(3) and (4)
-
-Repeal the subsections, substitute:
-
-             (3)  Pool funds not immediately required for the purposes of the Board may be invested in the ways described in subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 1289  After section 88
-
-Insert:
-
-##### <a id="88A"></a>88A  Board’s financial year starts on 1 October
-
-                   For the purposes of the _Commonwealth Authorities and Companies Act 1997_, the Board’s financial year is a period of 12 months starting on 1 October.
-
-## 1290  Subsections 89(1) and (2)
-
-Repeal the subsections.
-
-## 1291  Subsection 89(3)
-
-Omit “Without limiting the generality of subsection (1), the Board shall include in each report under that subsection”, substitute “In each report on the Board under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must include”.
-
-## 1292  Subsection 89(4)
-
-Omit “referred to in subsection (1)”, substitute “for the Board that are referred to in clauses 1 and 2 of the Schedule to the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 1293  Subsections 89(5) and (6)
-
-Repeal the subsections.
-
-## 1294  Subsection 93(11)
-
-Repeal the subsection.
-
-<h9 class="ActHead9">Wool International Act 1993</h9>
-
-## 1295  At the end of subsection 7(2)
-
-Add:
-
-Note:         The _Commonwealth Authorities and Companies Act 1997_ applies to Wool International. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
-
-## 1296  Section 25
-
-Repeal the section, substitute:
-
-##### <a id="25"></a>25  Situations that do not amount to interests requiring disclosure
-
-                   For the purposes of section 21 of the _Commonwealth Authorities and Companies Act 1997_, a member is not taken to have a material personal interest in a matter being considered or about to be considered by Wool International merely because the member is a wool producer, a wool processor or a manufacturer of wool products.
-
-## 1297  Paragraph 28(2)(c)
-
-Omit “25”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 1298  Paragraph 36(3)(c)
-
-Omit “25”, substitute “21 of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 1299  At the end of section 49
-
-Add:
-
-             (2)  Subsection (1) does not prevent investment of surplus money of Wool International under section 19 of the _Commonwealth Authorities and Companies Act 1997_.
-
-## 1300  Subsection 50(1)
-
-Repeal the subsection.
-
-## 1301  Subsection 55(1)
-
-Omit “with a bank or banks”, substitute “maintained under subsection 19(2) of the _Commonwealth Authorities and Companies Act 1997_”.
-
-## 1302  Subsection 55(2)
-
-Repeal the subsection.
-
-## 1303  Section 56
-
-Repeal the section.
-
-## 1304  Part 8
-
-Repeal the Part.
-
-## 1305  Section 67
-
-Repeal the section, substitute:
-
-##### <a id="67"></a>67  Extra matters to be included in annual report
-
-                   The annual report on Wool International under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must also include such particulars (if any) as are prescribed.
-
-
-###### Schedule 3—Amendment of Acts to update references and make other changes
-
-<h9 class="ActHead9">Air Services Act 1995</h9>
-
-## 1  Subsection 2(2), section 13, subsection 16(6), the notes at the end of subsections 17(3) and (4), paragraph 32(2)(d), subparagraphs 32(5)(b)(i) and (ii) and section 51
-
-Omit “_1995_” (wherever occurring), substitute “_1997_”.
-
-<h9 class="ActHead9">Australian Law Reform Commission Act 1996</h9>
-
-## 2  Subsection 5(2) (note)
-
-Omit “executive”.
-
-<h9 class="ActHead9">Australian Maritime Safety Authority Act 1990</h9>
-
-## 3  Paragraph 10(2)(f)
-
-Repeal the paragraph.
-
-<h9 class="ActHead9">Civil Aviation Legislation Amendment Act 1995</h9>
-
-## 4  Subsections 2(2) and (3)
-
-Repeal the subsections, substitute:
-
-             (2)  Section 4 and Schedule 2 commence on the same day as the _Commonwealth Authorities and Companies Act 1997_ commences.
-
-## 5  Section 6
-
-Repeal the section.
-
-## 6  Section 7 (definition of _CAC Act_) and items 1, 3, 5, 7, 10 and 11 of Schedule 2
-
-Omit “_1995_” (wherever occurring), substitute “_1997_”.
-
-## 7  Subsection 18(3) (definition of _pre-CAC rules_)
-
-After “sections”, insert “14, 15, 40,”.
-
-## 8  Subsection 18(3) (definition of _pre-CAC rules_)
-
-Omit “and 64”, substitute “, 64 and 65”.
-
-## 9  Schedule 4
-
-Repeal the Schedule.
-
-<h9 class="ActHead9">Commonwealth Funds Management Limited Act 1990</h9>
-
-## 10  Section 45
-
-Repeal the section.
-
-<h9 class="ActHead9">Ozone Protection Amendment Act 1995</h9>
-
-## 11  Part 2 of Schedule 1
-
-Repeal the Part.
-
-## 12  Items 56 and 57 of Schedule 1
-
-Repeal the items.
-
-## 13  Item 58 of Schedule 1
-
-Omit “If this Part applies, the”, substitute “The”.
-
-## 14  Items 59 and 60 of Schedule 1
-
-Repeal the items.
-
-## 15  Item 61 of Schedule 1
-
-Omit “If this Part applies, the”, substitute “The”.
-
-## 16  Item 61 of Schedule 1
-
-Omit “Financial Management and Accountability Act”, substitute “_Financial Management and Accountability Act 1997_”.
-
-## 17  Item 63 of Schedule 1 (definition of _Transitional Provisions Act_ in new section 65A)
-
-Repeal the definition.
-
-## 18  Item 63 of Schedule 1 (new subsection 65B(5))
-
-Omit “Transitional Provisions Act”, substitute “_Audit (Transitional and Miscellaneous) Amendment Act 1997_”.
-
-<h9 class="ActHead9">Small Superannuation Accounts Act 1995</h9>
-
-## 19  Subsection 8(2) 
-
-Omit “_1995_” (wherever occurring), substitute “_1997_”.
-
-## 20  Subsection 8(2) (note 1)
-
-Omit “40”, substitute “39”.
-
-## 21  At the end of subsection 8(2)
-
-Add:
-
-Note 3:       Before the commencement of the _Financial Management and Accountability Act 1997_, the Reserve was a trust account for the purposes of section 62A of the _Audit Act 1901_.
-
-## 22  Subsection 8(3)
-
-Repeal the subsection, substitute:
-
-Transitional—appropriation
-
-             (3)  The Trust Fund established by the _Audit Act 1901_ is appropriated to the extent necessary to achieve the transition of the Reserve from the scheme of the _Audit Act 1901_ to the scheme of the _Financial Management and Accountability Act 1997_.
-
-## 23  Subsection 10(2)
-
-Repeal the subsection.
-
-## 24  Subsection 19(1)
-
-Omit “_1995_”, substitute “_1997_”.
-
-## 25  Subsection 19(3)
-
-Repeal the subsection.
-
-## 26  Subsection 33(1)
-
-Omit “_1995_”, substitute “_1997_”.
-
-## 27  Subsection 33(3)
-
-Repeal the subsection.
-
-## 28  Section 95
-
-Repeal the section.
-
-<h9 class="ActHead9">Transport Legislation Amendment Act 1995</h9>
-
-## 29  Subsection 2(2)
-
-Repeal the subsection.
-
-## 30  Subsection 2(4)
-
-Omit “_1995_”, substitute “_1997_”.
-
-## 31  Part B of Schedule 1
-
-Repeal the Part.
-
-## 32  Items 4, 5 and 7 of Part C of Schedule 1
-
-Omit “_1995_” (wherever occurring), substitute “_1997_”.
-
-
- 
-
-###### Schedule 4—Transitional matters and regulations
-
-## 1  This Schedule binds the Crown
-
-This Schedule binds the Crown in right of the Commonwealth, but does not make the Crown liable to be prosecuted for an offence.
-
-## 2  This Schedule extends to things outside Australia
-
-This Schedule extends to acts, omissions, matters and things outside Australia.
-
-## 3  Interpretation
-
-In this Schedule, unless the contrary intention appears:
-
-                    <a name="audit-act"></a>**_Audit Act_** means the _Audit Act 1901_.
-
-                    <a name="commerci-activ-fund"></a>**_Commercial Activities Fund_** means the Commercial Activities Fund established by the _Financial Management and Accountability Act 1997_.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers this Act.
-
-                    <a name="new-loan-fund"></a>**_new Loan Fund_** means the Loan Fund established by the _Financial Management and Accountability Act 1997_.
-
-                    <a name="old-loan-fund"></a>**_old Loan Fund_** means the Loan Fund established by the Audit Act.
-
-                    <a name="old-trust-fund"></a>**_old Trust Fund_** means the Trust Fund established by the Audit Act.
-
-                    <a name="replac-act"></a>**_replacement Acts_** means the _Auditor-General Act 1997_, the _Financial Management and Accountability Act 1997_ and the _Commonwealth Authorities and Companies Act 1997_.
-
-                    <a name="reserv-monei-fund"></a>**_Reserved Money Fund_** means the Reserved Money Fund established by the _Financial Management and Accountability Act 1997_.
-
-## 4  Transfers from old Funds to new Funds
-
-(1)        Money in the old Loan Fund immediately before the commencement of this Schedule must be transferred to the new Loan Fund.
-
-(2)        If:
-
-                     (a)  immediately before the commencement of this Schedule, money was in an account (however described) that was established or continued in existence by an Act that is amended by Schedule 2 to this Act; and
-
-                     (b)  that account formed part of the old Trust Fund;
+</dl></dl></dl>
 
 the money must be transferred from that account to the component of the Reserved Money Fund that is established to replace that account.
 
-(3)        If an amendment made by Schedule 2 substitutes a component of the Reserved Money Fund for an account (however described), any reference in any Act or other instrument to that component is to be read as including a reference to the account for which it is substituted, unless the context otherwise requires.
+(3)	If an amendment made by Schedule 2 substitutes a component of the Reserved Money Fund for an account (however described), any reference in any Act or other instrument to that component is to be read as including a reference to the account for which it is substituted, unless the context otherwise requires.
+ (4)	Money in the old Trust Fund immediately before the commencement of this Schedule (other than money covered by subitem (2)) must be transferred to components of the Reserved Money Fund and Commercial Activities Fund that are established by determinations under subsections 20(2) and 21(2) of the _Financial Management and Accountability Act 1997_.
+ (5)	The disallowance rules in section 22 of the _Financial Management and Accountability Act 1997_ do not apply to an original determination made for the purposes of subitem (4) of this item. However, the disallowance rules do apply to any revocation or variation of an original determination.
+ (6)	The old Loan Fund and the old Trust Fund are appropriated for the purposes of this item.
 
-(4)        Money in the old Trust Fund immediately before the commencement of this Schedule (other than money covered by subitem (2)) must be transferred to components of the Reserved Money Fund and Commercial Activities Fund that are established by determinations under subsections 20(2) and 21(2) of the _Financial Management and Accountability Act 1997_.
+5
+  Auditor-General
 
-(5)        The disallowance rules in section 22 of the _Financial Management and Accountability Act 1997_ do not apply to an original determination made for the purposes of subitem (4) of this item. However, the disallowance rules do apply to any revocation or variation of an original determination.
+ 	The person holding office as Auditor-General under the Audit Act immediately before the commencement of this Schedule holds office after the commencement of this Schedule as if the person had been properly appointed as Auditor-General under the _Auditor-General Act 1997_ for the remainder of the period of 10 years that started when the person was appointed under the Audit Act.
 
-(6)        The old Loan Fund and the old Trust Fund are appropriated for the purposes of this item.
+6
+  Independent Auditor
 
-## 5  Auditor-General
+ (1)	This item applies if, immediately before the commencement of this Schedule, an arrangement was in operation under section 48K of the Audit Act for a person to perform the functions of the Independent Auditor under the Audit Act.
+ (2)	The person is taken to be properly appointed on the commencement of this Schedule as the Independent Auditor under the _Auditor-General Act 1997_.
+ (3)	The appointment is for a term that commences on the commencement of this Schedule and ends on the expiry of the arrangement referred to in subitem (1).
+ (4)	While the person holds office as Independent Auditor in accordance with this item, the person is entitled to be paid fees and allowances in accordance with the arrangement referred to in subitem (1), but is not entitled to be paid fees or allowances under clause 3 of Schedule 2 to the _Auditor-General Act 1997_.
 
-            The person holding office as Auditor-General under the Audit Act immediately before the commencement of this Schedule holds office after the commencement of this Schedule as if the person had been properly appointed as Auditor-General under the _Auditor-General Act 1997_ for the remainder of the period of 10 years that started when the person was appointed under the Audit Act.
+7
+  Exempt accounts
 
-## 6  Independent Auditor
+ (1)	In this item:
 
-(1)        This item applies if, immediately before the commencement of this Schedule, an arrangement was in operation under section 48K of the Audit Act for a person to perform the functions of the Independent Auditor under the Audit Act.
+<def><dl compact=""><dl compact="">
 
-(2)        The person is taken to be properly appointed on the commencement of this Schedule as the Independent Auditor under the _Auditor-General Act 1997_.
+_preserved provisions_ means section 70D of the Audit Act and the
 
-(3)        The appointment is for a term that commences on the commencement of this Schedule and ends on the expiry of the arrangement referred to in subitem (1).
+regulations made for the purposes of that section. _replacement provisions_ means section 56 of the _Auditor-General Act 1997_, section 46  of the _Commonwealth Authorities and Companies Act 1997_ and section 58 of the _Financial Management and Accountability Act 1997_.  </dl></dl>
 
-(4)        While the person holds office as Independent Auditor in accordance with this item, the person is entitled to be paid fees and allowances in accordance with the arrangement referred to in subitem (1), but is not entitled to be paid fees or allowances under clause 3 of Schedule 2 to the _Auditor-General Act 1997_.
+(2)	The preserved provisions continue to have effect until the first regulations are in operation for the purposes of the replacement provisions.
+ (3)	If those first regulations, or any of them, are later disallowed by a House of the Parliament, the preserved provisions continue to have effect, to the extent that they cover matters no longer covered by regulations in operation under the replacement provisions, until further regulations are in operation under those provisions that cover those matters.
 
-## 7  Exempt accounts
+8
+  Regulations
 
-(1)        In this item:
+ (1)	The Governor-General may make regulations prescribing matters:
 
-                    <a name="preserv-provision"></a>**_preserved provisions_** means section 70D of the Audit Act and the regulations made for the purposes of that section.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="replac-provision"></a>**_replacement provisions_** means section 56 of the _Auditor-General Act 1997_, section 46  of the _Commonwealth Authorities and Companies Act 1997_ and section 58 of the _Financial Management and Accountability Act 1997_.
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
 
-(2)        The preserved provisions continue to have effect until the first regulations are in operation for the purposes of the replacement provisions.
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
 
-(3)        If those first regulations, or any of them, are later disallowed by a House of the Parliament, the preserved provisions continue to have effect, to the extent that they cover matters no longer covered by regulations in operation under the replacement provisions, until further regulations are in operation under those provisions that cover those matters.
+to this Act.
 
-## 8  Regulations
+</dd>
 
-(1)        The Governor-General may make regulations prescribing matters:
+</dl></dl></dl>
 
-                     (a)  required or permitted by this Act to be prescribed; or
+(2)	In particular, regulations may be made:
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+<dl compact=""><dl compact=""><dl compact="">
 
-(2)        In particular, regulations may be made:
+<dt>(a)</dt><dd>providing for bank accounts under section 21 of the Audit Act to continue
 
-                     (a)  providing for bank accounts under section 21 of the Audit Act to continue in effect as official accounts for the purposes of the _Financial Management and Accountability Act 1997_; and
+in effect as official accounts for the purposes of the _Financial Management and Accountability Act 1997_; and</dd>
 
-                     (b)  for other transitional matters arising out of the repeal of the Audit Act or the enactment of the replacement Acts, or the transition from the Audit Act to the replacement Acts; and
+<dt>(b)</dt><dd>for other transitional matters arising out of the repeal of the Audit Act
 
-                     (c)  for other transitional matters arising out of the amendments made by Schedules 2 and 3.
+or the enactment of the replacement Acts, or the transition from the Audit Act
 
- 
+to the replacement Acts; and</dd>
+
+<dt>(c)</dt><dd>for other transitional matters arising out of the amendments made by
+
+Schedules 2 and 3.
+
+</dd>
+
+</dl></dl></dl>
+
+ (217/96)
+   <center>**
+
+###  Note 
+**</center>  \[Minister's second reading speech made in&#151;
+ House of Representatives on 12 December 1996
+ Senate on 15 March 1997] 
+
+</def></def>
+
+</def>
+
+</def></def>
+
+</def>
+
+</def></def></def></part></def>
+
+</def>
+
+</def></part></def>
+
+</part></def>
+
+</part></def>
+
+</def>
+
+</def>
+
+</def></part></def></def>
+
+</part></def>
+
+</def>
+
+</def></def>
+
+</def>
+
+</def>
+
+</def>
+
+</def>
+
+</def></def>
+
+</def>
+
+</part></def>
+
+</def>
+
+</def>
+
+</def>
+
+</part></def>
+
+</part>
+
+</def>
+
+</part>
+
+</def>
 
 
- 
+
+
+
+
