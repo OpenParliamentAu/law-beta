@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00207/Html/HearServAdminAct1997WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00595/Html/C665B38BF8D6B707CA257089002590E0/$FILE/image001.gif)
 
 # Hearing Services Administration Act 1997
 
 **Act No. 81 of 1997 as amended**
 
-This compilation was prepared on 5 April 2007
- taking into account amendments up to Act No. 32 of 2007
+This compilation was prepared on 1 October 2005
+taking into account amendments up to Act No. 111 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -148,6 +149,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to hearing services
 
 ## Part 1—Preliminary
@@ -164,29 +166,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a simplified outline of this Act:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     This
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     This Act sets up a scheme under which hearing services are provided to voucher-holders by contracted service providers.</li>
 
-Act sets up a scheme under which hearing services are provided to voucher-holders
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister may determine that specified persons are **_participants in the voucher system_**.</li>
 
-by contracted service providers.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Vouchers may be issued to participants in the voucher system.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may determine that specified persons are **_participants in the voucher system_**.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     Vouchers
-
-may be issued to participants in the voucher system.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may accredit service providers and engage accredited service providers
-
-to provide hearing services to voucher-holders.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister may accredit service providers and engage accredited service providers to provide hearing services to voucher-holders.</li></div>
 
 ##### <a id="4"></a>4  Definitions
 
@@ -274,6 +262,8 @@ to provide hearing services to voucher-holders.</li>
 
                      (d)  a person who, for purposes connected with obtaining treatment for an injury, disease or condition that involves hearing loss, holds a card issued by the Commonwealth and known as a Repatriation Health Card, where the card is expressed to be issued for specific conditions;
 
+                     (e)  a person who is a dependant, within the meaning of the _National Health Act 1953_, of a person of a kind mentioned in paragraph (a), (b), (c) or (d) of this subsection;
+
                       (f)  a member of the Australian Defence Force;
 
                      (g)  a person referred to the Minister in connection with the provision of a service under a rehabilitation program under Part III of the _Disability Services Act 1986_.
@@ -328,27 +318,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     Vouchers
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Vouchers may be issued to participants in the voucher system.</li>
 
-may be issued to participants in the voucher system.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister may make rules relating to vouchers. The rules are to be known as the **_voucher rules_**.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister may determine that specified persons are **_participants in the voucher system_**.</li>
 
-Minister may make rules relating to vouchers. The rules are to be known as the **_voucher rules_**.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may determine that specified persons are **_participants in the voucher system_**.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•    The
-
-Minister may determine that specified hearing services are **_available_**
-
-to a voucher-holder under a voucher.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•    The Minister may determine that specified hearing services are **_available_** to a voucher-holder under a voucher.</li></div>
 
 ### Division 2—Issue of vouchers by the Minister 
 
@@ -402,37 +380,15 @@ Note:          **_Participant in the voucher system_** is defi
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister must formulate an **_accreditation scheme_** for the accreditation of entities as service providers. </li>
 
-Minister must formulate an **_accreditation scheme_** for the
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister may accredit entities as service providers under the accreditation scheme. The accreditation may be subject to conditions. An entity accredited by the Minister is to be known as an **_accredited service provider_**.</li>
 
-accreditation of entities as service providers. </li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister may engage an accredited service provider to provide available hearing services to voucher-holders. A service provider engaged by the Minister is to be known as a **_contracted service provider_**.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may accredit entities as service providers under the accreditation
-
-scheme. The accreditation may be subject to conditions. An entity accredited by
-
-the Minister is to be known as an **_accredited service provider_**.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may engage an accredited service provider to provide available hearing
-
-services to voucher-holders. A service provider engaged by the Minister
-
-is to be known as a **_contracted service provider_**.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister must formulate **_rules of conduct_** that apply to contracted
-
-service providers in relation to the provision of hearing services to voucher-holders.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister must formulate **_rules of conduct_** that apply to contracted service providers in relation to the provision of hearing services to voucher-holders.</li></div>
 
 ### Division 2—Accreditation
 
@@ -680,17 +636,11 @@ the entity is liable to repay the amount to the Commonwealth.
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister must establish a complaints-handling mechanism.</li>
 
-Minister must establish a complaints-handling mechanism.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Minister may delegate powers conferred on the Minister by this Act.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Minister may delegate powers conferred on the Minister by this Act.</li></div>
 
 ##### <a id="26"></a>26  Arrangements for dealing with complaints
 
@@ -726,15 +676,9 @@ Minister may delegate powers conferred on the Minister by this Act.</li>
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     Certain
-
-decisions of the Minister may be reviewed by the Administrative Appeals
-
-Tribunal following a process of reconsideration by the Minister.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Certain decisions of the Minister may be reviewed by the Administrative Appeals Tribunal following a process of reconsideration by the Minister.</li></div>
 
 ##### <a id="29"></a>29  Decisions that may be subject to reconsideration by the Minister
 
@@ -822,11 +766,9 @@ Tribunal following a process of reconsideration by the Minister.</li>
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">·      The
-
-Federal Court may grant injunctions in relation to contraventions of:</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">·      The Federal Court may grant injunctions in relation to contraventions of:</li>
 
                (a)     this Act; or
 
@@ -834,9 +776,7 @@ Federal Court may grant injunctions in relation to contraventions of:</li>
 
                (c)     a condition of an accreditation; or
 
-               (d)     an agreement under section 20.
-
-* * *
+               (d)     an agreement under section 20.</div>
 
 ##### <a id="37"></a>37  Injunctions
 
@@ -918,15 +858,9 @@ Performance injunctions
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     This
-
-Part deals with proof in civil proceedings of matters that involve employees,
-
-agents etc.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     This Part deals with proof in civil proceedings of matters that involve employees, agents etc.</li></div>
 
 ##### <a id="43"></a>43  Liability of corporations
 
@@ -1004,25 +938,15 @@ Extended meaning of **engaging in conduct**
 
                    The following is a simplified outline of this Part:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-<li class="BoxList" style="margin-left:21.25pt">•     The
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The _Criminal Code_ applies to offences against this Act.</li>
 
-_Criminal Code_ applies to offences against this Act.</li>
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Partnerships are to be treated as persons for the purposes of this Act.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•     Partnerships
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     Provision is made in relation to the service of documents.</li>
 
-are to be treated as persons for the purposes of this Act.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     Provision
-
-is made in relation to the service of documents.</li>
-
-<li class="BoxList" style="margin-left:21.25pt">•     The
-
-Governor-General may make regulations for the purposes of this Act.</li>
-
-* * *
+<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     The Governor-General may make regulations for the purposes of this Act.</li></div>
 
 ##### <a id="46"></a>46  Application of _Criminal Code_
 
@@ -1070,6 +994,7 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+
 # Notes to the _Hearing Services Administration Act 1997_
 
 ### Note 1
@@ -1096,11 +1021,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1110,96 +1037,84 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Hearing Services Administration Act 1997</div>
-  </td>
-  <td>
-    <div>81, 1997</div>
-  </td>
-  <td>
-    <div>18 June 1997</div>
-  </td>
-  <td>
-    <div>18 June 1997</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Insurance Commission (Reform and Separation of Functions) Act 1997</div>
-  </td>
-  <td>
-    <div>159, 1997</div>
-  </td>
-  <td>
-    <div>11 Nov, 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 35–37): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>111, 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>111, 2005</div>
-  </td>
-  <td>
-    <div>6 Sept 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 396, 397): 
-1 Oct 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Private Health Insurance (Transitional Provisions and Consequential Amendments) Act 2007</div>
-  </td>
-  <td>
-    <div>32, 2007</div>
-  </td>
-  <td>
-    <div>30 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 51): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Hearing Services Administration Act 1997</div>
+    </td>
+    <td>
+      <div>81, 1997</div>
+    </td>
+    <td>
+      <div>18 June 1997</div>
+    </td>
+    <td>
+      <div>18 June 1997</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health Insurance Commission (Reform and Separation of Functions) Act 1997</div>
+    </td>
+    <td>
+      <div>159, 1997</div>
+    </td>
+    <td>
+      <div>11 Nov, 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 35–37): Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>111, 2001</div>
+    </td>
+    <td>
+      <div>17 Sept 2001</div>
+    </td>
+    <td>
+      <div>17 Sept 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Services Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>111, 2005</div>
+    </td>
+    <td>
+      <div>6 Sept 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 396, 397): 
+1 Oct 2005 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
 
-_(a)_     The _Hearing Services Administration Act 1997_ was amended by Schedule 1 (items 35–37) only of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_, subsection 2(1) of which provides as follows:
+
+_(a)_     The _Hearing Services Administration Act 1997_ was amended by Schedule 1 (items 35-37) only of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
 
 ## Table of Amendments
 
@@ -1224,126 +1139,121 @@ _(a)_     The _Hearing Services Administration Act 1997_ was amended by 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 159, 1997; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 21(6)</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 21(7)</div>
-  </td>
-  <td>
-    <div>ad. No. 159, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 111, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2001</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 159, 1997; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 21(6)</div>
+    </td>
+    <td>
+      <div>ad. No. 159, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 21(7)</div>
+    </td>
+    <td>
+      <div>ad. No. 159, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>rep. No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2001</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1356,5 +1266,6 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
 
  
