@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image001.gif)
 
 # Child Support Legislation Amendment (Reform of the Child Support Scheme—New Formula and Other Measures) Act 2006
 
 **Act No. 146 of 2006 as amended**
 
-This compilation was prepared on 1 July 2008
+This compilation was prepared on 1 January 2008
 
 **\[This Act was amended by Act No. 82 of 2007]**
 
@@ -15,17 +15,23 @@ This compilation was prepared on 1 July 2008
  Schedule 1 (item 21) added Schedule 9
  Schedule 1 (item 99) amended item 115 of Schedule 2
  Schedule 1 (item 100) added item 116A of Schedule 2
- Schedule 1 (item 213) repealed items 1 and 2 of Schedule 6
- Schedule 1 (item 214) repealed item 4 of Schedule 6
 
 Schedule 1 (item 1) commenced immediately after 6 December 2006
  Schedule 1 (items 20 and 21) commenced on 22 June 2007
  Schedule 1 (items 99 and 100) commenced immediately before 1 January 2008
- Schedule 1 (items 213 and 214) commenced immediately before 1 July 2008
 
 For application provision _see_ Act No. 82, 2007, Schedule 1 (item 80)]
 
-The commencement details at subsection 2(1) (item 8) of the _Families, Community Services and Indigenous Affairs Legislation Amendment (Child Support Reform Consolidation and Other Measures) Act 2007_ (No. 82, 2007) commencing Schedule 1 (item 212) is misdescribed and therefore the amendment has not been incorporated in this compilation.
+**\[This Act is to be amended by Act No. 82 of 2007]**
+
+\[Schedule 1 (item 212) repeals and substitutes item 104 of Schedule 2
+ Schedule 1 (item 213) repeals items 1 and 2 of Schedule 6
+ Schedule 1 (item 214) repeals item 4 of Schedule 6
+
+Schedule 1 (item 212) commences immediately before the commencement of Schedule 2 to the _Child Support Legislation Amendment (Reform of the Child Support Scheme_—_New Formula and Other Measures) Act 2006_
+ Schedule 1 (items 213 and 214) commences immediately before 1 July 2008
+
+The amendments made by Schedule 1 (items 212–214) have not been incorporated]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -544,15 +550,15 @@ Repeal the Part, substitute:
 
 * * *
 
-<li class="BoxList" style="margin-left:21.25pt">•      This Part includes the formulas
+<li class="BoxList" style="margin-left:21.25pt">•      This Part includes the
 
-used for assessing the annual rate of child support payable by a parent for a
+formulas used for assessing the annual rate of child support payable by a
 
-child for a day in a child support period (other than in cases where that rate
+parent for a child for a day in a child support period (other than in cases
 
-is worked out in accordance with a child support agreement, a Registrar’s
+where that rate is worked out in accordance with a child support agreement, a
 
-determination under Part 6A or a court order).</li>
+Registrar’s determination under Part 6A or a court order).</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The Costs of the Children
 
@@ -598,11 +604,11 @@ child support payable to non-parent carers of children to be worked out.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The Costs of the Children
 
-Table published by the Secretary each year (based on the table in
+Table published by the Secretary each year (based on the table in Schedule 1
 
-Schedule 1 to this Act) sets out the costs to parents of raising children
+to this Act) sets out the costs to parents of raising children in various age
 
-in various age ranges.</li>
+ranges.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      These costs are to be met
 
@@ -702,7 +708,7 @@ _Step 7_.   Work out the costs of the child for the day (see sections 55G 
 
 _Step 8_.   If a parent has a positive child support percentage under step 6, the **_annual rate of child support_** payable by the parent for the child for the day is worked out using the formula:
 
-              ![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image002.gif)
+              ![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image002.gif)
 
 * * *
 
@@ -840,7 +846,7 @@ _Step 4_.   Work out the costs of the child for the day (see sections 55G 
 
 _Step 5_.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image003.gif)
+              ![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image003.gif)
 
 _Step 6._ If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -876,7 +882,7 @@ _Step 4_.   Work out the costs of the child for the day (see sections 55G 
 
 _Step 5_.   Work out the following rate:
 
-              ![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image004.gif)
+              ![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image004.gif)
 
 _Step 6_.   If the parent is not assessed in respect of the costs of another child who is in another child support case, the **_annual rate of child support_** payable by the parent for the child for the day is the rate worked out under step 5.
 
@@ -914,7 +920,7 @@ child support is payable to:
 
 then, the annual rate of child support for the child for a day in the child support period that each parent or non-parent carer (as the case requires) is, subject to section 40B, entitled to be paid is:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image005.gif)
 
 Note:          Under section 40B, a non-parent carer of a child is not entitled to be paid child support unless he or she applies under section 25A in relation to the child.
 
@@ -1006,7 +1012,7 @@ Single child support case—no relevant dependent children
 
 the parent’s **_child support income_** for the child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image006.gif)
 
 Single child support case—relevant dependent children
 
@@ -1018,7 +1024,7 @@ Single child support case—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image007.gif)
 
 Multiple child support cases—no relevant dependent children
 
@@ -1032,7 +1038,7 @@ Multiple child support cases—no relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image008.gif)
 
 Multiple child support cases—relevant dependent children
 
@@ -1046,7 +1052,7 @@ Multiple child support cases—relevant dependent children
 
 the parent’s **_child support income_** for the particular child for a day in a child support period is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image009.gif)
 
 Negative result taken to be nil
 
@@ -1126,7 +1132,7 @@ Note:          This section does not limit the power under sec
 
                    A parent’s **_self-support amount_** for a day in a child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image010.gif)
 
 Note:          A parent’s self-support amount can be varied by a determination or order under section 98S or 118.
 
@@ -1154,7 +1160,7 @@ _Step 4_.   Work out the costs of the child for the day (see sections 55G 
 
 _Step 5_.   Work out the following amount for the child for a day in the child support period:
 
-              ![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image011.gif)
+              ![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image011.gif)
 
 * * *
 
@@ -1170,7 +1176,7 @@ _Method statement_
 
 _Step 1_.   Work out the following amount:
 
-              ![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image012.gif)
+              ![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image012.gif)
 
 _Step 2_.   If the parent has a relevant dependent child, take the parent’s relevant dependent child amount (see section 46) for the day from the amount worked out under step 1.
 
@@ -1184,11 +1190,11 @@ _Step 3_.   Work out the costs of the children for the day for all children 
 
 _Step 4._ Work out the parent’s **_multi-case child costs_** for the particular child for the day using the formula:
 
-              ![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image013.gif)
+              ![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image013.gif)
 
 _Step 5_.   The parent’s **_multi-case allowance_** for the particular child for the day is the following amount:
 
-              ![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image014.gif)
+              ![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image014.gif)
 
 * * *
 
@@ -1240,7 +1246,7 @@ support the non-parent carer is entitled to be paid for the child.</li>
 
 * * *
 
-##### <a id="47B"></a>47B  Meaning of _court order_
+##### <a id="47B"></a>47B  Meaning of _court order_
 
                    In this Division:
 
@@ -1440,9 +1446,9 @@ percentage is the difference between the parent’s income percentage and his or
 
 her cost percentage. Generally, if the parent has a positive child support
 
-percentage, the annual rate of child support payable by the parent is that
+percentage, the annual rate of child support payable by the parent is that percentage
 
-percentage of the costs of the child.</li>
+of the costs of the child.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If a parent has multiple
 
@@ -1458,7 +1464,7 @@ a child is capped by the parent’s multi-case cap for the child.</li>
 
                    Work out each parent’s **_income percentage_** for a child for a day in a child support period using the formula (worked out to 2 decimal places, rounding up if the third decimal place is 5 or more):
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image015.gif)
 
 ##### <a id="55C"></a>55C  Working out cost percentages
 
@@ -1585,7 +1591,7 @@ a child is capped by the parent’s multi-case cap for the child.</li>
 
              (1)  Work out each parent’s **_child support percentage_** for a child for a day in the child support period using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image016.gif)
 
              (2)  A parent’s **_child support percentage_** for a day in a child support period is taken to be nil if the amount worked out using the formula is negative.
 
@@ -1601,7 +1607,7 @@ a child is capped by the parent’s multi-case cap for the child.</li>
 
              (2)  The parent’s **_multi-case cap_** for the particular child for the day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image017.gif)
 
 ### Division 6—The costs of the child
 
@@ -2247,7 +2253,7 @@ Note:          The annual rate of child support specified in s
 
              (4)  If an annual rate of child support is payable by a parent under subsection (1) (including any child support that is not actually payable because of subsection 40B(1)) for more than 3 children for a day in a child support period, then the annual rate of child support payable by the parent for each child for a day in the child support period is:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image018.gif)
 
 Paying the annual rate to more than one person
 
@@ -2337,7 +2343,7 @@ Note:          The minimum annual rate of child support specif
 
 then the **_annual rate of child support_** payable by the parent for a day in the child support period for a particular child support case is:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image019.gif)
 
 Paying the minimum annual rate to more than one person for a single child support case
 
@@ -3952,7 +3958,7 @@ Insert:
 
              (2)  For the purposes of this Act, the amount specified in those provisions in relation to a child support period that begins in a particular calendar year is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image020.gif)
 
 where:
 
@@ -5768,7 +5774,7 @@ the Registrar:
 
              (2)  Subsection (1) does not affect the obligation of the Registrar to comply with paragraph 95(3)(b) or subsection 93(5) in relation to any document or part of a document to which subsection (1) does not apply.
 
-##### <a id="98"></a>98  Directions prohibiting or restricting disclosure of documents
+##### <a id="98"></a>98  Directions prohibiting or restricting disclosure of documents
 
              (1)  If, after considering an application by the Registrar under section 97 for a direction in respect of a document or a part of a document, the SSAT Executive Director directs the Registrar to send the document or the part of the document under paragraph 95(3)(b) or subsection 93(5), the Registrar must do so.
 
@@ -6068,7 +6074,7 @@ if, in the opinion of the SSAT Executive Director having regard to the objective
 
 ##### <a id="103H"></a>103H  Children of parties not to give evidence
 
-                   A person may not give evidence for the purposes of a review of a decision if:
+                   A person may not give evidence for the purposes of a review of a decision if:
 
                      (a)  the person is a child of a party referred to in paragraph 101(1)(a), (c) or (d); or
 
@@ -6442,9 +6448,9 @@ Insert:
 
 is conferred on certain federal and State courts.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      A person may appeal a decision
+<li class="BoxList" style="margin-left:21.25pt">•      A person may appeal a
 
-of the SSAT under Part VIIA to a court on an error of law.</li>
+decision of the SSAT under Part VIIA to a court on an error of law.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      The SSAT may refer a
 
@@ -7534,9 +7540,9 @@ under this Act, a court has broad powers.</li>
 
 instituted under this Act in a court or before the SSAT or the Registrar, a
 
-court may make an order staying or otherwise affecting the operation of the
+court may make an order staying or otherwise affecting the operation of the Assessment
 
-Assessment Act or this Act during the proceeding.</li>
+Act or this Act during the proceeding.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      If a court makes an order
 
@@ -7788,7 +7794,7 @@ items 42 to 45 of this Schedule apply in Western Australia, after Western Aust
 
 <h9 class="ActHead9">Child Support (Assessment) Act 1989</h9>
 
-## 1  Section 5
+## 1  Section 5
 
 Insert:
 
@@ -8320,7 +8326,7 @@ Repeal the section, substitute:
 
                              (ii)  engaged in unconscionable or other conduct;
 
-                            to such an extent that it would be unjust not to set aside the agreement; or
+                            to such an extent that it would be unjust not to set aside the agreement; or
 
                      (c)  that because of a significant change in the circumstances of one of the parties to the agreement, or a child in respect of whom the agreement is made, it would be unjust not to set aside the agreement; or
 
@@ -8708,7 +8714,7 @@ Insert:
 
              (5)  The remaining lump sum payment, for the first payment period that begins on or after 1 January in a calendar year, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image021.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image021.gif)
 
 where:
 
@@ -8716,7 +8722,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image022.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image022.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -8782,7 +8788,7 @@ Underpayments
 
              (3)  If the amount received in an income year by the individual under the agreement or order for the child for the period is less than the amount that is payable to the individual under the agreement or order for the child for the period (such that a debt arises for the period under the agreement or order), then, for the purposes of this Act, the amount of child maintenance that the individual is taken to have received under the agreement or order for the child for the period is the following amount (the **_notional amount paid_**):
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image023.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image023.gif)
 
 Note:          This subclause only applies in respect of enforceable maintenance liabilities (see subclause (7)).
 
@@ -8790,13 +8796,13 @@ Arrears
 
              (4)  If the amount received in an income year by the individual under the agreement or order for the child for the period exceeds the amount that is payable to the individual under the agreement or order for the child for the period, then, for the purposes of this Act, the amount of child maintenance that the individual is taken to have received under the agreement or order for the child for the period is:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image024.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image024.gif)
 
 Note:          This subclause only applies in respect of enforceable maintenance liabilities (see subclause (7)).
 
              (5)  The **_notional arrears amount_**, in respect of a debt arising for a previous period under the agreement or order, is:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image025.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image025.gif)
 
              (6)  For the purposes of subclause (5), if:
 
@@ -9350,9 +9356,21 @@ Omit “, the _Farm Household Support Act 1992_ or subsection 91A(3) of the _Chi
 
 <h9 class="ActHead9">Child Support (Assessment) Act 1989</h9>
 
+## 1  Subsection 98C(3)
+
+Omit “Subsections 117(4)”, substitute “Subsections 117(2A) and (4)”.
+
+## 2  Subsection 98L(2)
+
+Omit “Subsections 117(4)”, substitute “Subsections 117(2A) and (4)”.
+
 ## 3  Subsection 98S(3A)
 
 Repeal the subsection.
+
+## 4  Subsection 98U(3)
+
+Omit “Subsections 117(4)”, substitute “Subsections 117(2A) and (4)”.
 
 ## 5  After paragraph 117(2)(a)
 
@@ -10607,7 +10625,7 @@ Insert:
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div><img width="180" height="55" src="http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image026.gif"></div>
+    <div><img width="180" height="55" src="http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image026.gif"></div>
   </td>
   <td>
     <div>$3,084.25</div>
@@ -10626,7 +10644,7 @@ Insert:
       temporarily separated couple</div>
   </td>
   <td>
-    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image027.gif"></div>
+    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image027.gif"></div>
   </td>
   <td>
     <div>$3,084.25</div>
@@ -10644,7 +10662,7 @@ Insert:
       couple or a respite care couple</div>
   </td>
   <td>
-    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image028.gif"></div>
+    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image028.gif"></div>
   </td>
   <td>
     <div>$3,084.25</div>
@@ -10661,7 +10679,7 @@ Insert:
     <div>Member of a temporarily separated couple</div>
   </td>
   <td>
-    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image028.gif"></div>
+    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image028.gif"></div>
   </td>
   <td>
     <div>$3,084.25</div>
@@ -10739,7 +10757,7 @@ In working out rent assistance, work out the individual’s family situation usi
     <div>Not member of a couple</div>
   </td>
   <td>
-    <div><img width="180" height="55" src="http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image029.gif"></div>
+    <div><img width="180" height="55" src="http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image029.gif"></div>
   </td>
   <td>
     <div>$2,638.95</div>
@@ -10755,7 +10773,7 @@ In working out rent assistance, work out the individual’s family situation usi
       temporarily separated couple</div>
   </td>
   <td>
-    <div><img width="180" height="55" src="http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image030.gif"></div>
+    <div><img width="180" height="55" src="http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image030.gif"></div>
   </td>
   <td>
     <div>$2,478.35</div>
@@ -10770,7 +10788,7 @@ In working out rent assistance, work out the individual’s family situation usi
       couple or a respite care couple</div>
   </td>
   <td>
-    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image031.gif"></div>
+    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image031.gif"></div>
   </td>
   <td>
     <div>$2,638.95</div>
@@ -10784,7 +10802,7 @@ In working out rent assistance, work out the individual’s family situation usi
     <div>Member of a temporarily separated couple</div>
   </td>
   <td>
-    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image031.gif"></div>
+    <div><img width="182" height="55" src="http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image031.gif"></div>
   </td>
   <td>
     <div>$2,478.35</div>
@@ -11150,7 +11168,7 @@ Insert:
 
                     (ab)  the individual has at least one FTB child; and
 
-## 106  Subparagraphs 71E(1)(a)(i) and (2)(a)(i)
+## 106  Subparagraphs 71E(1)(a)(i) and (2)(a)(i)
 
 After “FTB child”, insert “, or a regular care child,”.
 
@@ -11552,7 +11570,7 @@ _Step 2_.   Work out the amount that would be the individual’s rent assist
 
 _Step 3_.   If the individual, and the individual’s partner, between them are entitled to apply for maintenance income from only one maintenance payer, the difference between the amount worked out under step 1 and the amount worked out under step 2 is the individual’s **_RA amount_** for the maintenance income.
 
-_Step 4_.   If the individual, and the individual’s partner, between them are entitled to apply for maintenance income from more than one maintenance payer, the individual’s **_RA amount_** for maintenance income received from a particular maintenance payer is worked out using the formula:![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image032.gif)
+_Step 4_.   If the individual, and the individual’s partner, between them are entitled to apply for maintenance income from more than one maintenance payer, the individual’s **_RA amount_** for maintenance income received from a particular maintenance payer is worked out using the formula:![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image032.gif)
 
 * * *
 
@@ -11564,19 +11582,19 @@ Apportioning the maintenance income free area
 
              (2)  If the individual, and the individual’s partner, between them are entitled to apply for maintenance income from more than one maintenance payer, the individual’s **_MIFA amount_** for maintenance income received from a particular maintenance payer is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image033.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image033.gif)
 
 where:
 
                     <a name="individu-no-child-amount"></a>**_individual’s no child amount_** is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image034.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image034.gif)
 
 ##### <a id="24L"></a>24L  How to work out an individual’s maintenance income ceiling
 
                    The individual’s **_maintenance income ceiling_** for the maintenance income is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image035.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image035.gif)
 
 #### Subdivision D—Maintenance income ceiling for purposes of comparison for Method 2
 
@@ -11630,7 +11648,7 @@ _Step 2_.   Work out the amount that would be the individual’s large famil
 
 _Step 3_.   If the individual, and the individual’s partner, between them are entitled to apply for maintenance income from only one maintenance payer, the difference between the amount worked out under step 1 and the amount worked out under step 2 is the individual’s **_LFS amount_** for the maintenance income.
 
-_Step 4_.   If the individual, and the individual’s partner, between them are entitled to apply for maintenance income from more than one maintenance payer, the individual’s **_LFS amount_** for maintenance income received from a particular maintenance payer is worked out using the formula:![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image036.gif)
+_Step 4_.   If the individual, and the individual’s partner, between them are entitled to apply for maintenance income from more than one maintenance payer, the individual’s **_LFS amount_** for maintenance income received from a particular maintenance payer is worked out using the formula:![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image036.gif)
 
 * * *
 
@@ -11642,7 +11660,7 @@ _Step 4_.   If the individual, and the individual’s partner, between them 
 
                    The individual’s **_maintenance income ceiling_** for the maintenance income is worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00176/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image037.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00030/Html/ChildSuppLegAmenRefChildSuppSchNewFormOthMeas2006_image037.gif)
 
 ## 156  Clause 25 of Schedule 1 (method statement, step 3, paragraph (a))
 
