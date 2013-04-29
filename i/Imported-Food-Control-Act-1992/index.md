@@ -1,7 +1,7 @@
 
 Imported Food Control Act 1992
 Act No. 221 of 1992 as amended
-This compilation was prepared on 8 August 2001  taking into account amendments up to Act No. 81 of 2001
+This compilation was prepared on 24 May 2001  taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -65,7 +65,6 @@ Sections 44 and 45	48
 Division 2—Amendments of the Customs Administration Act 1985	49
 Sections 46 and 47	49
 Notes		51
-
 An Act to provide for the inspection and control of food imported into Australia, and for related purposes
 Part 1—Preliminary
   
@@ -791,24 +790,10 @@ Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 24 Nov 2000
 Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
 Sch. 2 (items 418, 419)
-Australia New Zealand Food Authority Amendment Act 2001
-81, 2001
-10 July 2001
-S. 2(6): Royal Assent (c) Schedule 3 (items 3‑5): [see (c) and Note 2]
-S. 2(6)
 (a)	The Imported Food Control Act 1992 was amended by Schedule 6 (items 1 and 2) only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1996, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (b)	The Imported Food Control Act 1992 was amended by Schedule 4 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1997, subsection 2(4) of which provides as follows:
 	(4) 	The items of Schedules 4, 6, 7 and 8 commence on a day or days to be fixed by Proclamation.
-(c)	The Imported Food Control Act 1992 was amended by Schedule 3 (items 3‑5) only of the Australia New Zealand Food Authority Amendment Act 2001, subsections 2(1)(a), (2) and (5) of which provide as follows:
-	(1)	The following provisions commence on the day on which this Act receives the Royal Assent:
-	(a)	sections 1, 2 and 3;
-	(2)	Part 1 of Schedule 1 (other than item 120A), and Schedule 3, commence on the first day after the commencement of this section on which an amendment of the Australia New Zealand Joint Food Standards Agreement comes into force in accordance with Article 10 of that Agreement. [see Note 2]
-	(5)	As soon as practicable after the commencement of the following provisions:
-	(a)	Part 1 of Schedule 1 (other than item 120A);
-	(b)	Schedule 3;
-		the Minister must cause to be published in the Gazette a notice specifying the day on which those provisions commenced. [see Note 2]
-
 Table of Amendments
 ad. = added or inserted    am. = amended    rep. = repealed    rs. = repealed and substituted
 Provision affected
@@ -841,20 +826,6 @@ S. 42
 am. No. 4, 1999
 
 
-Note 2
-Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)
-The following amendments are dependent on the commencement of an amendment of the Australia New Zealand Joint Food Standards Agreement which comes into force in accordance with Article 10 of that Agreement:
-Schedule 3
-3  Subsection 3(1) (definition of Australia New Zealand Food Standards Code)
-Repeal the definition, substitute:
-Australia New Zealand Food Standards Code has the same meaning as in the Food Standards Australia New Zealand Act 1991.
-4  Subparagraph 3(3)(a)(i)
-Repeal the subparagraph, substitute:
-	(i)	made under the Food Standards Australia New Zealand Act 1991 after the commencement of Part 1 of Schedule 1 to the Australia New Zealand Food Authority Amendment Act 2001; or
-	(ia)	adopted by the Australia New Zealand Food Standards Council under Australia New Zealand Food Authority Act 1991 before the commencement of Part 1 of Schedule 1 to the Australia New Zealand Food Authority Amendment Act 2001; or
-5  Subparagraph 3(3)(a)(ii)
-Omit “within the meaning of that Act”.
-As at 8 August 2001 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
@@ -872,9 +843,4 @@ If:
 	(b)	any or all of those other provisions are repealed by this Schedule; and
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)
-2  Commencement
-	2(6)	In this section:
-Australia New Zealand Joint Food Standards Agreement means the Agreement between the Government of Australia and the Government of New Zealand Establishing a System for the Development of Joint Food Standards, signed at Wellington on 5 December 1995.
 
