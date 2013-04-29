@@ -1,155 +1,154 @@
 
 Norfolk Island Act 1979
 Act No. 25 of 1979 as amended
-Consolidated as in force on 4 January 2000
-(includes amendments up to Act No. 146 of 1999)
+Consolidated as in force on 18 October 1998
+(includes amendments up to Act No. 152 of 1997)
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
   
 Contents
-Part I—Preliminary	5
-1	Short title [see Note 1]	5
-2	Commencement [see Note 1]	5
-3	Repeals	5
-4	Interpretation	5
-Part II—Administration	8
-5	Administrator and Administration	8
-6	Appointment of Administrator	8
-7	Exercise of Administrator’s powers etc.	8
-8	Acting Administrator	9
-9	Deputy Administrator	10
-10	Oath or affirmation of Administrator etc.	10
-Part III—The Executive Council	12
-11	The Executive Council	12
-12	Executive offices	13
-13	Appointment of executive members	13
-14	Tenure of office	14
-15	Oath or affirmation of member of Executive Council and executive member	14
-Part IV—Legislation	15
-Division 1—Laws	15
-16	Continuance of existing laws	15
-17	Amendment and repeal of existing laws	15
-18	Application of Commonwealth Acts	15
-Division 2—Legislative power of Legislative Assembly	16
-19	Legislative power of Legislative Assembly	16
-20	Powers, privileges and immunities of Legislative Assembly	17
-21	Presentation of proposed laws	17
-22	Signification of pleasure on proposed law reserved	18
-23	Disallowance of laws by Governor‑General	18
-24	Reason for withholding assent etc. to be tabled in Legislative Assembly	19
-25	Proposal of money votes	20
-26	Governor‑General may introduce proposed law	20
-Division 3—Legislative powers of the Governor‑General	21
-27	Legislative powers of the Governor‑General	21
-28	Laying of certain Ordinances before the Parliament	22
-28AA	Ordinance not to be re‑made while required to be tabled	24
-28AB	Ordinance not to be re‑made while subject to disallowance	24
-28AC	Disallowed Ordinance not to be re‑made unless resolution rescinded or House approves	25
-28AD	Application of sections 28AA, 28AB and 28AC	26
-28A	Laying of certain regulations before the Parliament	26
-Division 4—Miscellaneous	27
-29	Inconsistency of laws	27
-30	Commencement of enactments	27
-Part V—The Legislative Assembly	28
-Division 1—Constitution and membership of Legislative Assembly	28
-31	Legislative Assembly	28
-32	Oath or affirmation	28
-33	Writs for elections	28
-34	Term of office of member	28
-35	Dates of elections	29
-36	Resignation of members of Legislative Assembly	29
-37	Filling of casual vacancy	29
-38	Qualifications for election	29
-39	Disqualifications for membership of Legislative Assembly	30
-Division 2—Procedure of Legislative Assembly	31
-40	Meetings of Legislative Assembly	31
-41	Speaker and Deputy Speaker of Legislative Assembly	31
-42	Procedure at meetings	32
-43	Validation of acts of Legislative Assembly	33
-44	Minutes of proceedings	33
-45	Standing rules and orders	33
-Part VI—Finance	34
-46	Interpretation	34
-47	Public Account of Norfolk Island	34
-48	Withdrawals from Public Account of Norfolk Island	35
-49	Borrowing from Commonwealth	35
-50	Borrowings otherwise than from Commonwealth	35
-50A	Guarantee of borrowings	37
-50B	Administration may give security	38
-50C	Borrowings not otherwise permitted	38
-50D	Delegation by Treasurer	38
-51	Appointment of Norfolk Island Government Auditor	39
-51A	Restrictions on appointment of Auditor etc.	39
-51B	Auditor‑General may accept appointment	40
-51C	Audit	40
-51D	Tabling of report etc.	40
-51E	Access to documents	41
-51F	Auditor not subject to direction	41
-51G	Auditing standards	41
-Part VII—The Judicial System	43
-52	Constitution of Supreme Court	43
-53	Appointment of Judges	43
-53A	Acting Chief Justice	44
-54	Seniority of Judges	44
-55	Holding of other judicial offices	44
-56	Salaries and travelling allowances	44
-57	Oath or affirmation of Judge	44
-58	Exercise of jurisdiction	45
-59	Jurisdiction of Supreme Court	45
-60	Establishment of courts and tribunals	45
-Part VIII—Miscellaneous	46
-61	Officers	46
-62	Grants of land	46
-64	Customs duty on certain goods	46
-65	Remuneration and allowances	46
-66	Grant of pardon, remission etc.	47
-67	Regulations	47
-Part IX—Transitional	49
-68	Interpretation	49
-69	Election of Legislative Assembly	49
-70	Administrator etc. to continue in office	49
-71	Proposed Ordinances and regulations	50
-72	Laying of Ordinances before the Parliament	50
-73	Validity of Ordinances and enactments	50
-74	Contracts and agreements	50
-75	Public Account of Norfolk Island	51
-76	Audit	51
-77	Regulations	52
-Schedules—The Territory of Norfolk Island	53
-Schedule 1	53
-Schedule 2	54
-Schedule 3	58
-Schedule 4	59
-Schedule 5	60
-Schedule 6	61
-Schedule 7	62
-Schedule 8	63
-Schedule 9	64
-Notes		65
-
+Part I—Preliminary	4
+1	Short title [see Note 1]	4
+2	Commencement [see Note 1]	4
+3	Repeals	4
+4	Interpretation	4
+Part II—Administration	6
+5	Administrator and Administration	6
+6	Appointment of Administrator	7
+7	Exercise of Administrator’s powers etc.	7
+8	Acting Administrator	8
+9	Deputy Administrator	8
+10	Oath or affirmation of Administrator etc.	9
+Part III—The Executive Council	9
+11	The Executive Council	9
+12	Executive offices	10
+13	Appointment of executive members	10
+14	Tenure of office	11
+15	Oath or affirmation of member of Executive Council and executive member	11
+Part IV—Legislation	12
+Division 1—Laws	12
+16	Continuance of existing laws	12
+17	Amendment and repeal of existing laws	12
+18	Application of Commonwealth Acts	13
+Division 2—Legislative Power of Legislative Assembly	14
+19	Legislative power of Legislative Assembly	14
+20	Powers, privileges and immunities of Legislative Assembly	15
+21	Presentation of proposed laws	15
+22	Signification of pleasure on proposed law reserved	16
+23	Disallowance of laws by Governor‑General	17
+24	Reason for withholding assent etc. to be tabled in Legislative Assembly	17
+25	Proposal of money votes	18
+26	Governor‑General may introduce proposed law	18
+Division 3—Legislative Powers of the Governor‑General	19
+27	Legislative powers of the Governor‑General	19
+28	Laying of certain Ordinances before the Parliament	20
+28AA	Ordinance not to be re‑made while required to be tabled	22
+28AB	Ordinance not to be re‑made while subject to disallowance	22
+28AC	Disallowed Ordinance not to be re‑made unless resolution rescinded or House approves	23
+28AD	Application of sections 28AA, 28AB and 28AC	24
+28A	Laying of certain regulations before the Parliament	24
+Division 4—Miscellaneous	25
+29	Inconsistency of laws	25
+30	Commencement of enactments	25
+Part V—The Legislative Assembly	26
+Division 1—Constitution and Membership of Legislative Assembly	26
+31	Legislative Assembly	26
+32	Oath or affirmation	26
+33	Writs for elections	26
+34	Term of office of member	26
+35	Dates of elections	27
+36	Resignation of members of Legislative Assembly	27
+37	Filling of casual vacancy	27
+38	Qualifications for election	27
+39	Disqualifications for membership of Legislative Assembly	28
+Division 2—Procedure of Legislative Assembly	29
+40	Meetings of Legislative Assembly	29
+41	Speaker and Deputy Speaker of Legislative Assembly	29
+42	Procedure at meetings	30
+43	Validation of acts of Legislative Assembly	31
+44	Minutes of proceedings	31
+45	Standing rules and orders	31
+Part VI—Finance	32
+46	Interpretation	32
+47	Public Account of Norfolk Island	32
+48	Withdrawals from Public Account of Norfolk Island	33
+49	Borrowing from Commonwealth	33
+50	Borrowings otherwise than from Commonwealth	33
+50A	Guarantee of borrowings	35
+50B	Administration may give security	36
+50C	Borrowings not otherwise permitted	36
+50D	Delegation by Treasurer	36
+51	Appointment of Norfolk Island Government Auditor	37
+51A	Restrictions on appointment of Auditor etc.	37
+51B	Auditor‑General may accept appointment	38
+51C	Audit	38
+51D	Tabling of report etc.	38
+51E	Access to documents	39
+51F	Auditor not subject to direction	39
+51G	Auditing standards	40
+Part VII—The Judicial System	41
+52	Constitution of Supreme Court	41
+53	Appointment of Judges	41
+53A	Acting Chief Justice	42
+54	Seniority of Judges	42
+55	Holding of other judicial offices	42
+56	Salaries and travelling allowances	42
+57	Oath or affirmation of Judge	43
+58	Exercise of jurisdiction	43
+59	Jurisdiction of Supreme Court	43
+60	Establishment of courts and tribunals	43
+Part VIII—Miscellaneous	44
+61	Officers	44
+62	Grants of land	44
+64	Customs duty on certain goods	44
+65	Remuneration and allowances	44
+66	Grant of pardon, remission etc.	45
+67	Regulations	45
+Part IX—Transitional	47
+68	Interpretation	47
+69	Election of Legislative Assembly	47
+70	Administrator etc. to continue in office	47
+71	Proposed Ordinances and regulations	48
+72	Laying of Ordinances before the Parliament	48
+73	Validity of Ordinances and enactments	48
+74	Contracts and agreements	48
+75	Public Account of Norfolk Island	49
+76	Audit	49
+77	Regulations	50
+Schedules	51
+Schedule 1—The Territory of Norfolk Island	51
+Schedule 2	52
+Schedule 3	55
+Schedule 4	56
+Schedule 5	57
+Schedule 6	58
+Schedule 7	59
+Schedule 8	60
+Schedule 9	61
+Notes 		63
 An Act to provide for the government of Norfolk Island
   
   
-		WHEREAS by an Act of the Parliament of the United Kingdom, made and passed in the sixth and seventh years of the reign of Her Majesty Queen Victoria intituled “An Act to amend so much of an Act of the last Session, for the Government of New South Wales and Van Diemen’s Land, as relates to Norfolk Island,” it was, amongst other things, enacted that it should be lawful for Her Majesty, by Letters Patent under the Great Seal of the United Kingdom, to sever Norfolk Island from the Government of New South Wales and to annex it to the Government and Colony of Van Diemen’s Land:
-		AND WHEREAS Her Majesty Queen Victoria, in exercise of the powers vested in Her by the said Act, by a Commission under the Great Seal of the United Kingdom bearing date the twenty‑fourth day of October, 1843, appointed that from and after the twenty‑ninth day of September, 1844, Norfolk Island should be severed from the Government of New South Wales and annexed to the Government and Colony of Van Diemen’s Land:
-		AND WHEREAS by an Act of the Parliament of the United Kingdom, called the Australian Waste Lands Act 1855, it was, amongst other things, provided that it should be lawful for Her Majesty at any time, by Order in Council, to separate Norfolk Island from the Colony of Van Diemen’s Land and to make such provision for the Government of Norfolk Island as might seem expedient:
-		AND WHEREAS on 8 June 1856 persons who had previously inhabited Pitcairn Island settled on Norfolk Island:
-		AND WHEREAS by an Order in Council dated the twenty‑fourth day of June, 1856, made by Her Majesty in pursuance of the last‑mentioned Act, it was ordered and declared, amongst other things, that from and after the date of the proclamation of the Order in New South Wales Norfolk Island should be thereby separated from the said Colony of Van Diemen’s Land (now called Tasmania) and that from that date all power, authority, and jurisdiction of the Governor, Legislature, Courts of Justice, and Magistrates of Tasmania over Norfolk Island should cease and determine, and that from the said date Norfolk Island should be a distinct and separate Settlement, the affairs of which should until further Order in that behalf by Her Majesty be administered by a Governor to be for that purpose appointed by Her Majesty with the advice and consent of Her Privy Council: and it was thereby further ordered that the Governor and Commander‑in‑Chief for the time being of the Colony of New South Wales should be, and he thereby was, constituted Governor of Norfolk Island, with the powers and authorities in the said Order mentioned:
-		AND WHEREAS the said Order in Council was proclaimed in New South Wales on 1 November 1856:
-		AND WHEREAS by an Order in Council dated the fifteenth day of January, 1897, made in pursuance of the said last‑mentioned Act, Her Majesty, after reciting that it was expedient that other provision should be made for the government of Norfolk Island, and that, in prospect of the future annexation of Norfolk Island to the Colony of New South Wales or to any Federal body of which that Colony might thereafter form part, in the meantime the affairs of Norfolk Island should be administered by the Governor of New South Wales as therein provided, was pleased to revoke the said Order in Council of the twenty‑fourth day of June, One thousand eight hundred and fifty‑six, and to order that the affairs of Norfolk Island should thenceforth, and until further Order should be made in that behalf by Her Majesty, be administered by the Governor and Commander‑in‑Chief for the time being of the Colony of New South Wales and its Dependencies:
-		AND WHEREAS the said Order in Council was published in the New South Wales Government Gazette on 19 March 1897, and took effect at that date:
-		AND WHEREAS by an Order in Council dated the eighteenth day of October, One thousand nine hundred, made in pursuance of the said last mentioned Act, Her Majesty was pleased to revoke the said Order in Council of the fifteenth day of January, One thousand eight hundred and ninety‑seven, and to order that the affairs of Norfolk Island should thenceforth, and until further Order should be made in that behalf by Her Majesty, be administered by the Governor for the time being of the State of New South Wales and its Dependencies:
-		AND WHEREAS the said Order in Council was published in the New South Wales Government Gazette on 1 January 1901, and took effect at that date:
-		AND WHEREAS by an Order in Council dated the 30th day of March, 1914, His Majesty King George V, by virtue and in exercise of the power in that behalf by the said last‑mentioned Act or otherwise in His Majesty vested, after reciting that the Parliament had passed an Act No. 15 of 1913, entitled “An Act to provide for the acceptance of Norfolk Island as a territory under the authority of the Commonwealth, and for the government thereof” and that it was expedient that the said Order in Council of 18th of October, 1900, should be revoked and that Norfolk Island should be placed under the authority of the Commonwealth of Australia, was pleased to revoke the said Order in Council of 18th of October, 1900, and to order that Norfolk Island be placed under the authority of the Commonwealth of Australia:
-		AND WHEREAS the said Order in Council was published in the Gazette on 17 June 1914, and took effect from 1 July 1914, being the date of commencement of the Norfolk Island Act 1913:
-		AND WHEREAS Norfolk Island was, by the Norfolk Island Act 1913, declared to be accepted by the Commonwealth as a Territory under the authority of the Commonwealth:
-		AND WHEREAS Norfolk Island has been governed by the Commonwealth initially under the provisions of the Norfolk Island Act 1913, and subsequently under the provisions of the Norfolk Island Act 1957:
-		AND WHEREAS the residents of Norfolk Island include descendants of the settlers from Pitcairn Island:
-		AND WHEREAS the Parliament recognises the special relationship of the said descendants with Norfolk Island and their desire to preserve their traditions and culture:
-		AND WHEREAS the Parliament considers it to be desirable and to be the wish of the people of Norfolk Island that Norfolk Island achieve, over a period of time, internal self‑government as a Territory under the authority of the Commonwealth and, to that end, to provide, among other things, for the establishment of a representative Legislative Assembly and of other separate political and administrative institutions on Norfolk Island:
-		AND WHEREAS the Parliament intends that within a period of 5 years after the coming into operation of this Act consideration will be given to extending the powers conferred by or under this Act on the Legislative Assembly and the other political and administrative institutions of Norfolk Island, and that provision be made in this Act to enable the results of such consideration to be implemented:
-		BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representatives of the Commonwealth of Australia, as follows:
+WHEREAS by an Act of the Parliament of the United Kingdom, made and passed in the sixth and seventh years of the reign of Her Majesty Queen Victoria intituled “An Act to amend so much of an Act of the last Session, for the Government of New South Wales and Van Diemen’s Land, as relates to Norfolk Island,” it was, amongst other things, enacted that it should be lawful for Her Majesty, by Letters Patent under the Great Seal of the United Kingdom, to sever Norfolk Island from the Government of New South Wales and to annex it to the Government and Colony of Van Diemen’s Land:
+AND WHEREAS Her Majesty Queen Victoria, in exercise of the powers vested in Her by the said Act, by a Commission under the Great Seal of the United Kingdom bearing date the twenty‑fourth day of October, 1843, appointed that from and after the twenty‑ninth day of September, 1844, Norfolk Island should be severed from the Government of New South Wales and annexed to the Government and Colony of Van Diemen’s Land:
+AND WHEREAS by an Act of the Parliament of the United Kingdom, called the Australian Waste Lands Act 1855, it was, amongst other things, provided that it should be lawful for Her Majesty at any time, by Order in Council, to separate Norfolk Island from the Colony of Van Diemen’s Land and to make such provision for the Government of Norfolk Island as might seem expedient:
+AND WHEREAS on 8 June 1856 persons who had previously inhabited Pitcairn Island settled on Norfolk Island:
+AND WHEREAS by an Order in Council dated the twenty‑fourth day of June, 1856, made by Her Majesty in pursuance of the last‑mentioned Act, it was ordered and declared, amongst other things, that from and after the date of the proclamation of the Order in New South Wales Norfolk Island should be thereby separated from the said Colony of Van Diemen’s Land (now called Tasmania) and that from that date all power, authority, and jurisdiction of the Governor, Legislature, Courts of Justice, and Magistrates of Tasmania over Norfolk Island should cease and determine, and that from the said date Norfolk Island should be a distinct and separate Settlement, the affairs of which should until further Order in that behalf by Her Majesty be administered by a Governor to be for that purpose appointed by Her Majesty with the advice and consent of Her Privy Council: and it was thereby further ordered that the Governor and Commander‑in‑Chief for the time being of the Colony of New South Wales should be, and he thereby was, constituted Governor of Norfolk Island, with the powers and authorities in the said Order mentioned:
+AND WHEREAS the said Order in Council was proclaimed in New South Wales on 1 November 1856:
+AND WHEREAS by an Order in Council dated the fifteenth day of January, 1897, made in pursuance of the said last‑mentioned Act, Her Majesty, after reciting that it was expedient that other provision should be made for the government of Norfolk Island, and that, in prospect of the future annexation of Norfolk Island to the Colony of New South Wales or to any Federal body of which that Colony might thereafter form part, in the meantime the affairs of Norfolk Island should be administered by the Governor of New South Wales as therein provided, was pleased to revoke the said Order in Council of the twenty‑fourth day of June, One thousand eight hundred and fifty‑six, and to order that the affairs of Norfolk Island should thenceforth, and until further Order should be made in that behalf by Her Majesty, be administered by the Governor and Commander‑in‑Chief for the time being of the Colony of New South Wales and its Dependencies:
+AND WHEREAS the said Order in Council was published in the New South Wales Government Gazette on 19 March 1897, and took effect at that date:
+AND WHEREAS by an Order in Council dated the eighteenth day of October, One thousand nine hundred, made in pursuance of the said last mentioned Act, Her Majesty was pleased to revoke the said Order in Council of the fifteenth day of January, One thousand eight hundred and ninety‑seven, and to order that the affairs of Norfolk Island should thenceforth, and until further Order should be made in that behalf by Her Majesty, be administered by the Governor for the time being of the State of New South Wales and its Dependencies:
+AND WHEREAS the said Order in Council was published in the New South Wales Government Gazette on 1 January 1901, and took effect at that date:
+AND WHEREAS by an Order in Council dated the 30th day of March, 1914, His Majesty King George V, by virtue and in exercise of the power in that behalf by the said last‑mentioned Act or otherwise in His Majesty vested, after reciting that the Parliament had passed an Act No. 15 of 1913, entitled “An Act to provide for the acceptance of Norfolk Island as a territory under the authority of the Commonwealth, and for the government thereof” and that it was expedient that the said Order in Council of 18th of October, 1900, should be revoked and that Norfolk Island should be placed under the authority of the Commonwealth of Australia, was pleased to revoke the said Order in Council of 18th of October, 1900, and to order that Norfolk Island be placed under the authority of the Commonwealth of Australia:
+AND WHEREAS the said Order in Council was published in the Gazette on 17 June 1914, and took effect from 1 July 1914, being the date of commencement of the Norfolk Island Act 1913:
+AND WHEREAS Norfolk Island was, by the Norfolk Island Act 1913, declared to be accepted by the Commonwealth as a Territory under the authority of the Commonwealth:
+AND WHEREAS Norfolk Island has been governed by the Commonwealth initially under the provisions of the Norfolk Island Act 1913, and subsequently under the provisions of the Norfolk Island Act 1957:
+AND WHEREAS the residents of Norfolk Island include descendants of the settlers from Pitcairn Island:
+AND WHEREAS the Parliament recognises the special relationship of the said descendants with Norfolk Island and their desire to preserve their traditions and culture:
+AND WHEREAS the Parliament considers it to be desirable and to be the wish of the people of Norfolk Island that Norfolk Island achieve, over a period of time, internal self‑government as a Territory under the authority of the Commonwealth and, to that end, to provide, among other things, for the establishment of a representative Legislative Assembly and of other separate political and administrative institutions on Norfolk Island:
+AND WHEREAS the Parliament intends that within a period of 5 years after the coming into operation of this Act consideration will be given to extending the powers conferred by or under this Act on the Legislative Assembly and the other political and administrative institutions of Norfolk Island, and that provision be made in this Act to enable the results of such consideration to be implemented:
+BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representatives of the Commonwealth of Australia, as follows:
 Part I—Preliminary
   
 1  Short title [see Note 1]
@@ -253,7 +252,7 @@ Part III—The Executive Council
 	(2)	The Administrator may at any time terminate an appointment made under subsection (1) if, in his opinion, there are exceptional circumstances that justify his so doing.
 	(3)	A person who is employed in the Public Service of the Territory or of the Commonwealth shall not be appointed to an executive office, and a person holding executive office vacates his office if he becomes so employed.
 	(4)	For the purposes of subsection (3), a person who:
-	(a)	is an APS employee; or
+	(a)	is an employee, within the meaning of the Public Service Act 1922;
 	(b)	is employed under a law relating to the Public Service of the Territory as a temporary employee; or
 	(c)	is employed under a law relating to the Public Service of a Territory or of the Commonwealth as an officer or employee to whom any provisions of that law do not apply;
 shall be deemed to be employed in the Public Service of the Territory or of the Commonwealth, as the case requires.
@@ -704,12 +703,13 @@ then, whether or not representations were made by the Council in relation to the
 	(3)	Regulations shall not be made by virtue of this section after  30 June 1980.
 Schedules
 Schedule 1—The Territory of Norfolk Island
-Subsection 4(1)	
+Subsection 4(1) 
+  
   
 Norfolk Island and all the other islands and rocks lying within the area bounded by the parallels 28 degrees 59 minutes and 29 degrees 9 minutes south latitude and the meridians 167 degrees 54 minutes and 168 degrees east longitude.
-
 Schedule 2
-Sections 4, 7, 12, 21, 27, 47 and 67	
+Sections 4, 7, 12, 21, 27, 47 and 67
+  
   
 1. 
 The raising of revenues for purposes of matters specified in this Schedule. 
@@ -893,7 +893,6 @@ Maintenance of law and order and the administration of justice.
 Correctional services. 
 93.
 Private law. 
-
 Schedule 3
 Sections 4, 7, 12, 21, 27 and 67
   
@@ -918,7 +917,6 @@ Labour and industrial relations, employees’ compensation and occupational heal
 Moveable cultural heritage objects. 
 10.
 Social Security. 
-
 Schedule 4
 Sections 10 and 57
   
@@ -927,50 +925,49 @@ OATH
 	I, A.B., do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law, that I will well and truly serve Her in the office of 				and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will: So help me God!
 AFFIRMATION
 	I, A.B., do solemnly and sincerely promise and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law, that I will well and truly serve Her in the office of				 and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will.
-
 Schedule 5
 Subsection 15(1)
+  
   
 OATH
 	I, A.B., do swear that, except as authorized by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my membership of the Executive Council of Norfolk Island: So help me God!
 AFFIRMATION
 	I, A.B., do solemnly and sincerely promise and declare that, except as authorized by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my membership of the Executive Council of Norfolk Island.
-
 Schedule 6
 Subsection 15(2)
+  
   
 OATH 
 	I, A.B., do swear that, except in the course of my duties or as authorized by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my holding executive office: So help me God! 
 AFFIRMATION
 	I, A.B., do solemnly and sincerely promise and declare that, except in the course of my duties or as authorized by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my holding executive office. 
-
 Schedule 7 
 Subsection 15(3) 
+  
   
 OATH
 	I, A.B., do swear that, except as authorized by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my having attended any meeting of the Executive Council of Norfolk Island: So help me God! 
 AFFIRMATION
 	I, A.B., do solemnly and sincerely promise and declare that, except as authorised by law, I will not divulge any information (including the contents of any document) of which I have become aware by reason of my having attended any meeting of the Executive Council of Norfolk Island.
-
 Schedule 8
 Subsection 32(1)
+  
   
 OATH
 	I, A.B., do swear that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law: So help me God! 
 AFFIRMATION
 	I, A.B., do solemnly and sincerely affirm and declare that I will be faithful and bear true allegiance to Her Majesty Queen Elizabeth, Her heirs and successors according to law. 
-
 Schedule 9
 Subsection 32(1)
+  
   
 OATH
 	I, A.B., do swear that I will render true and faithful service as a member of the Legislative Assembly of Norfolk Island: So help me God! 
 AFFIRMATION	I, A.B., do solemnly and sincerely promise and declare that I will render true and faithful service as a member of the Legislative Assembly of Norfolk Island.
-
 Notes to the Norfolk Island Act 1979
 Note 1
 The Norfolk Island Act 1979 as shown in this consolidation comprises Act No. 25, 1979 amended as indicated in the Tables below. 
-The Norfolk Island Act 1979 was amended by the Norfolk Island (Exercise of Powers) Regulations (Statutory Rules 1981 No. 153 as amended). The amendments are incorporated in this consolidation. 
+The Norfolk Island Act 1979  was amended by the Norfolk Island (Exercise of Powers) Regulations as amended. The amendments are incorporated in this consolidation. 
 Table of Acts
 Act
 Number  and year
@@ -997,7 +994,7 @@ as amended by
 
 
 
-Statute Law (Miscellaneous Amendments) Act (No. 2) 1982
+Statute Law (Miscellaneous Amendments) Act (No. 2) 1982
 80, 1982
 22 Sept 1982
 Part LXXI (ss. 262, 263): (b)
@@ -1082,11 +1079,6 @@ Audit (Transitional and Miscellaneous) Amendment Act 1997
 24 Oct 1997
 Schedule 2 (item 1069): 1 Jan 1998 (see Gazette 1997, No. GN49) (k)
 —
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (item 692): 5 Dec 1999 (see Gazette 1999, No. S584) (l)
-—
 (a)	The Norfolk Island Act 1979 was amended by Part XXVIII (sections 164 and 165) only of the Statute Law (Miscellaneous Amendments) Act (No. 1) 1982, subsection 2(12) of which provides as follows:
 	(12)	The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
 (b)	The Statute Law (Miscellaneous Amendments) Act (No. 1) 1982 was amended by Part LXXI (sections 262 and 263) only of the Statute Law (Miscellaneous Amendments) Act (No. 2) 1982, subsection 2(11) of which provides as follows:
@@ -1109,9 +1101,6 @@ Schedule 1 (item 692): 5 Dec 1999 (see Gazette 1999, No. S584) (l)
 	(1)	Sections 1, 2, 25 and 26 commence on the day on which this Act receives the Royal Assent.
 (k)	The Norfolk Island Act 1979 was amended by Schedule 2 (item 1069) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-(l)	The Norfolk Island Act 1979 was amended by Schedule 1 (item 692) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -1125,7 +1114,7 @@ am. No. 193, 1985; No. 21, 1992
 S. 10	
 am. No. 193, 1985
 S. 13	
-am. No. 63, 1984; No. 146, 1999
+am. No. 63, 1984
 S. 19	
 am. No. 17, 1997
 S. 24	
@@ -1165,7 +1154,7 @@ ad. No. 27, 1988
 
 am. No. 152, 1997
 S. 51H	
-ad. No. 27, 1988
+ad. No.27, 1988
 Ss. 52, 53	
 am. No. 120, 1981; No. 60, 1989
 S. 53A	
@@ -1185,7 +1174,7 @@ rep. No. 27, 1988
 S. 65	
 am. No. 104, 1992
 Schedule 2	
-am. Statutory Rules 1981 No. 153 (as am. by 1984 No. 33; 1985 No. 173; 1989 No. 268; 1992 No. 164)
+am. Statutory Rules 1981 No. 153 (as am. by 1984 No. 33; 1985 No. 173; 1989 No. 268; 1992 No.164)
 Schedule 3	
-am. Statutory Rules 1981 No.153 (as am. by 1989 No. 268)
+am. Statutory Rules 1989 No.268
 
