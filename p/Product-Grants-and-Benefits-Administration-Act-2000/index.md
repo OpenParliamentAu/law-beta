@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00922/Html/2ebda735-ee1c-49e4-8c1f-fdb305908cfa_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00802/Html/7de7d909-c096-48fb-ba24-9d415b055908_files/image001.gif)
 
 # Product Grants and Benefits Administration Act 2000
 
 **Act No. 61 of 2000 as amended**
 
-This compilation was prepared on 11 December 2012
+This compilation was prepared on 9 November 2012
  taking into account amendments up to Act No. 136 of 2012
 
 The text of any of those amendments not in force 
@@ -1597,41 +1597,7 @@ Schedule 4 (item 4): Royal Assent</div>
     <div>16 Nov 2009</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (item 25): 17 Nov 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 35, 36): <i>(d)</i></div>
+    <div>Schedule 1 (item 25): <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1847,61 +1813,7 @@ _(c)_ Subsection 2(1) (item 16) of the _Fuel Tax (Consequential and Transitional
   </td>
 </tr></table>
 
-_(d)_     Subsection 2(1) (item 27) of the _Statute Law Revision Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      27\. Schedule 2, items 35 and 36
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Statute Stocktake (Regulatory and Other Laws) Act 2009</i>for the commencement
-        of that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      17 November 2009
-    </div>
-  </td>
-</tr></table>
+_(d)_ Subparagraphs 47(3)(c)(ia) and (d)(ia) were repealed by Schedule 1 (item 7) of the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_ before the amendments made by Schedule 1 (item 25) of the _Statute Stocktake (Regulatory and Other Laws) Act 2009_ commenced _._
 
 _(e)_     Subsection 2(1) (item 4) of the _Human Services Legislation Amendment Act 2011_ provides as follows:
 
@@ -2438,7 +2350,7 @@ Omit “otherwise—”.
 
 Repeal the subsections.
 
-As at 11 December 2012 the amendments are not incorporated in this compilation.
+As at 9 November 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2464,8 +2376,7 @@ _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2
 
 * * *
 
-_Energy Grants (Credits) Scheme (Consequential Amendments) Act 2003 
- (No. 54, 2003)_
+_Energy Grants (Credits) Scheme (Consequential Amendments) Act 2003 (No. 54, 2003)_
 
 ## Schedule 1
 
@@ -2536,8 +2447,7 @@ The amendments of the _Product Grants and Benefits Administration Act 2000_ made
 
 * * *
 
-_Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005 
- (No. 161, 2005)_
+_Tax Laws Amendment (Improvements to Self Assessment) Act (No. 2) 2005 (No. 161, 2005)_
 
 ## Schedule 2
 
@@ -2640,7 +2550,7 @@ The amendments made by Divisions 1 and 2 apply in relation to things done on o
 
 * * *
 
-_Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
+_Indirect Tax Laws Amendment (Assessment) Act 2012 (No. 39, 2012)_
 
 ## Schedule 1
 
