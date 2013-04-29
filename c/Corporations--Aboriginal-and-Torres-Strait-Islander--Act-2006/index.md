@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00186/Html/51e870cf-675e-42f0-88f7-aa9850ac65b1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00133/Html/b90b7fd2-376b-4a92-a8a1-a8023f854a6b_files/image001.gif)
 
 # Corporations (Aboriginal and Torres Strait Islander) Act 2006
 
 **Act No. 124 of 2006 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 27 December 2011
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
@@ -651,8 +651,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [201‑120](#201‑120). Objections to right to vote (replaceable rule—see section 60‑1)
 
-[201‑125](#201‑125). How voting is carried out (replaceable rule—see 
- section 60‑1)
+[201‑125](#201‑125). How voting is carried out (replaceable rule—see section 60‑1)
 
 [201‑130](#201‑130). Matters on which a poll may be demanded
 
@@ -13255,12 +13254,6 @@ Note:          The defendant bears an evidential burden in rel
 
              (5)  This section does not apply to an authorised officer who is an APS employee or a Commonwealth officer.
 
-          (5A)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to a charge created in accordance with paragraph (4)(b).
-
-Note 1:       The effect of this subsection is that the priority between a charge created in accordance with paragraph (4)(b) and a security interest to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
-
-Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
-
              (6)  In this section:
 
                     <a name="commonwealth-offic"></a>**_Commonwealth officer_** includes a person who:
@@ -14428,7 +14421,7 @@ Note:          The termination of the appointment of the speci
 
 ### Division 508—Transition to normal control of the corporation’s affairs at end of special administration
 
-##### <a id="508‑1"></a>508‑1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
+##### <a id="508‑1"></a>508‑1  Special administrator to ensure that there will be directors when corporation ceases to be under special administration
 
              (1)  The special administrator for an Aboriginal and Torres Strait Islander corporation must ensure that, immediately after the special administration of the corporation ends, there will be:
 
@@ -14487,12 +14480,6 @@ Note:          There are a number of different ways in which t
                      (b)  may charge some or all of the remuneration, charges or expenses referred to in paragraph (a) on the property of the corporation or a related body corporate in such order of priority in relation to any existing charges on that property as the Registrar thinks fit.
 
              (5)  This section does not apply to a special administrator who is an APS employee or a Commonwealth officer.
-
-          (5A)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to a charge created in accordance with paragraph (4)(b).
-
-Note 1:       The effect of this subsection is that the priority between a charge created in accordance with paragraph (4)(b) and a security interest to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
-
-Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
              (6)  In this section:
 
@@ -18217,7 +18204,7 @@ except so far as such a duty or right would, but for the effect of section 628
 
              (2)  Without limiting subsection (1), the regulations may make provision prescribing penalties not exceeding 50 penalty units for contraventions of the regulations.
 
-##### <a id="633‑5"></a>633‑5  Regulations concerning registered native title bodies corporate
+##### <a id="633‑5"></a>633‑5  Regulations concerning registered native title bodies corporate
 
 Regulations concerning registered native title bodies corporate generally
 
@@ -19952,7 +19939,7 @@ of Assent</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 5 (items 21, 22): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 5 (items 21, 22): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -20054,7 +20041,7 @@ of Assent</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 10–13): \[ <i>see</i>s. 2(1) and Note 2]</div>
+    <div>Schedule 2 (items 10–13): \[ <i>see</i>s. 2(1) and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -20573,22 +20560,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 </tr>
 <tr>
   <td>
-    <div><b>Division 453</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 453‑10</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 456</b></div>
   </td>
   <td>
@@ -20641,22 +20612,6 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   </td>
   <td>
     <div>am. No.4, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 511</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 511‑1</div>
-  </td>
-  <td>
-    <div>am. No. 131, 2009</div>
   </td>
 </tr>
 <tr>
@@ -20870,6 +20825,37 @@ _(a)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
 
 ### Note 2
 
+_Personal Property Securities (Consequential Amendments) Act 2009 
+ (No. 131, 2009)_
+
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 5
+
+## 21  After subsection 453‑10(5)
+
+Insert:
+
+          (5A)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to a charge created in accordance with paragraph (4)(b).
+
+Note 1:       The effect of this subsection is that the priority between a charge created in accordance with paragraph (4)(b) and a security interest to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
+
+Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
+
+## 22  After subsection 511‑1(5)
+
+Insert:
+
+          (5A)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to a charge created in accordance with paragraph (4)(b).
+
+Note 1:       The effect of this subsection is that the priority between a charge created in accordance with paragraph (4)(b) and a security interest to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
+
+Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges that arise after the commencement of subsection (5A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
+
+As at 27 December 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
 _Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
 
 The following amendments commence at the same time as section 3 of the _Business Names Registration Act 2011_:
@@ -20894,7 +20880,7 @@ Insert:
 
 Repeal the definition.
 
-As at 30 January 2012 the amendments are not incorporated in this compilation.
+As at 27 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
