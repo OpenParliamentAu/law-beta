@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00171/Html/c5760bff-93e6-4aed-982d-b0cd2f555984_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00485/Html/FisheriesLevy84_WD02_image001.gif)
 
 # Fisheries Levy Act 1984
 
 **Act No. 151 of 1984 as amended**
 
-This compilation was prepared on 28 June 2008
+This compilation was prepared on 26 July 2007
  taking into account amendments up to Act No. 105 of 2007
 
 The text of any of those amendments not in force
@@ -14,25 +14,25 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Application of Act
+[4](#4).            Application of Act                                                                              1
 
-[5](#5).            Imposition of levy
+[5](#5).            Imposition of levy                                                                               1
 
-[6](#6).            Amount of levy
+[6](#6).            Amount of levy                                                                                   3
 
-[7](#7).            Payment of levy
+[7](#7).            Payment of levy                                                                                  3
 
-[8](#8).            Regulations
+[8](#8).            Regulations                                                                                          4
 
 **Notes** 
 
@@ -64,33 +64,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Imposition of levy
 
-                   Levy is imposed on the following:
+                   Levy is imposed on:
 
                      (a)  the grant of a licence under subsection 9(2) or (3) of the _Fisheries Act 1952_, being a licence included in a class of licences prescribed for the purposes of this paragraph;
 
                      (b)  the endorsement under subsection 9(4) of the _Fisheries Act 1952_ of a licence granted under subsection 9(2) or (3) of that Act, being an endorsement included in a class of endorsements prescribed for the purposes of this paragraph;
 
-                   (ba)  the renewal under subsection 9(6B) of the _Fisheries Act 1952_ of a licence granted under subsection 9(2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;
+                    (ba)  the renewal under subsection 9(6B) of the _Fisheries Act 1952_ of a licence granted under subsection 9(2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;
 
-                   (bb)  the variation under subsection 9(7A) of the _Fisheries Act 1952_ of a licence granted under subsection 9(2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;
+                    (bb)  the variation under subsection 9(7A) of the _Fisheries Act 1952_ of a licence granted under subsection 9(2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;
 
-                   (bc)  the allocation of units of fishing capacity, being units of fishing capacity prescribed for the purposes of this paragraph;
+                    (bc)  the allocation of units of fishing capacity, being units of fishing capacity prescribed for the purposes of this paragraph;
 
-                   (bd)  the renewal of the allocation of units of fishing capacity, being units of fishing capacity prescribed for the purposes of this paragraph;
+                    (bd)  the renewal of the allocation of units of fishing capacity, being units of fishing capacity prescribed for the purposes of this paragraph;
 
                      (c)  the endorsement under subsection 12P(4) of the _Fisheries Act 1952_ of a licence granted under subsection 9(2) or (3) of that Act, being an endorsement included in a class of endorsements prescribed for the purposes of this paragraph;
 
-                     (d)  the grant of a licence under subsection 19(2), (3) or (4A) of the _Torres Strait__Fisheries Act 1984_, being a licence included in a class of licences prescribed for the purposes of this paragraph;
+                     (d)  the grant of a licence under subsection 19(2) or (3) of the _Torres Strait__Fisheries Act 1984_, being a licence included in a class of licences prescribed for the purposes of this paragraph;
 
                      (e)  the making under subsection 21(1) of the _Torres Strait Fisheries Act 1984_ of an entry in a licence granted under subsection 19(2) or (3) of that Act, being an entry included in a class of entries prescribed for the purposes of this paragraph;
 
-                    (ea)  the making under subsection 21(1A) of the _Torres Strait Fisheries Act 1984_ of an entry in a licence granted under subsection 19(4A) of that Act, being an entry included in a class of entries prescribed for the purposes of this paragraph;
+                      (f)  the renewal under subsection 24(1) of the _Torres Strait Fisheries Act 1984_ of a licence granted under subsection 19(2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;
 
-                      (f)  the renewal under subsection 24(1) of the _Torres Strait Fisheries Act 1984_ of a licence granted under subsection 19(2), (3) or (4A) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;
+                    (fa)  the variation under subsection 25A(1) of the _Torres Strait Fisheries Act 1984_ of a licence granted under subsection 19(2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph; and
 
-                    (fa)  the variation under subsection 25A(1) of the _Torres Strait Fisheries Act 1984_ of a licence granted under subsection 19(2) or (3) of that Act, being a licence included in a class of licences prescribed for the purposes of this paragraph;
-
-                     (g)  the making under subsection 36(4) of the _Torres Strait Fisheries Act 1984_ of an entry in a licence granted under subsection 19(2), (3) or (4A) of that Act, being an entry included in a class of entries prescribed for the purposes of this paragraph.
+                     (g)  the making under subsection 36(4) of the _Torres Strait Fisheries Act 1984_ of an entry in a licence granted under subsection 19(2) or (3) of that Act, being an entry included in a class of entries prescribed for the purposes of this paragraph.
 
 ##### <a id="6"></a>6  Amount of levy
 
@@ -102,7 +100,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  endorsements of fisheries licences included in different classes of endorsements of fisheries licences;
 
-                   (ba)  units of fishing capacity included in different classes of units of fishing capacity; and
+                    (ba)  units of fishing capacity included in different classes of units of fishing capacity; and
 
                      (c)  entries in fisheries licences included in different classes of entries in fisheries licences.
 
@@ -122,7 +120,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="8"></a>8  Regulations
 
-             (1)  The Governor‑General may make regulations for the purposes of sections 5 and 6.
+             (1)  The Governor-General may make regulations for the purposes of sections 5 and 6.
 
              (2)  Notwithstanding section 49A of the _Acts Interpretation Act 1901_, the regulations may make provision for or in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in a plan of management, being a plan of management as in force at a particular time or as in force from time to time. 
 
@@ -210,7 +208,7 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 1, 2): 26 July 2007 ( <i>see</i>s. 2(1)) 
-Schedule 1 (items 3–8): 28 June 2008 ( <i>see</i>s. 2(1)) 
+Schedule 1 (items 3–8): \[ <i>see</i>s. 2(1) and Note 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -275,20 +273,48 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 30, 1985; No. 105, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6–8</div>
+    <div>Ss. 5–8</div>
   </td>
   <td>
     <div>am. No. 30, 1985</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Fisheries Levy Amendment Act 2007 (No. 105, 2007)_
+
+The following amendments commence on 28 June 2008:
+
+## Schedule 1
+
+## 3  Section 5
+
+After “imposed on”, insert “the following”.
+
+## 4  Paragraph 5(d)
+
+Omit “or (3)”, substitute “, (3) or (4A)”.
+
+## 5  After paragraph 5(e)
+
+Insert:
+
+                    (ea)  the making under subsection 21(1A) of the _Torres Strait Fisheries Act 1984_ of an entry in a licence granted under subsection 19(4A) of that Act, being an entry included in a class of entries prescribed for the purposes of this paragraph;
+
+## 6  Paragraph 5(f)
+
+Omit “or (3)”, substitute “, (3) or (4A)”.
+
+## 7  Paragraph 5(fa)
+
+Omit “and”.
+
+## 8  Paragraph 5(g)
+
+Omit “or (3)”, substitute “, (3) or (4A)”.
+
+As at 26 July 2007 the amendments are not incorporated in this compilation.
 
  
 
