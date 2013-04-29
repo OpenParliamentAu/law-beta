@@ -1,32 +1,29 @@
-![](http://www.comlaw.gov.au/Details/C2004C00410/Html/79c417c7-88a0-47b6-afa0-be7d6de93119_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01897/Html/AppDefProjPro47_image001.gif)
 
 # Approved Defence Projects Protection Act 1947
 
 **Act No. 47 of 1947 as amended**
 
-This compilation was prepared on 23 December 2003
- taking into account amendments up to Act No. 135 of 2003
+This compilation was prepared on 31 October 2001
+ taking into account amendments up to Act No. 141 of 2001
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
-
 Prepared by the Office of Legislative Drafting,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Interpretation                                                                                       1
 
-[3A](#3A).         Application of the _Criminal Code_
+[3A](#3A).         Application of the _Criminal Code_                                                       1
 
-[4](#4).            Prevention etc  of carrying out of defence projects
+[4](#4).            Prevention etc  of carrying out of defence projects                             1
 
 **Notes** 
 
@@ -42,13 +39,13 @@ Prepared by the Office of Legislative Drafting,
 
                    This Act shall come into operation on the day on which it receives the Royal Assent.
 
-##### <a id="3"></a>3  Definitions
+##### <a id="3"></a>3  Interpretation
 
                    In this Act, unless the contrary intention appears:
 
                     <a name="approved-defenc-project"></a>**_approved defence project_** means any work or undertaking for the testing of long range weapons which is approved by the Minister by notice in the _Gazette_ as an immediate defence project and includes any other work or undertaking, being carried out or to be carried out either within or outside Australia for the defence of Australia or any Territory, which is so approved as an immediate defence project.
 
-##### <a id="3A"></a>3A  Application of the _Criminal Code_
+##### <a id="3A"></a>3A  Application of the _Criminal Code_
 
                    Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
@@ -60,7 +57,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (a)  the person boycotts or threatens to boycott any person, property, work or undertaking; and
 
-                     (b)  by doing so the first‑mentioned person:
+                     (b)  by doing so the first-mentioned person:
 
                               (i)  prevents, hinders or obstructs the carrying out of an approved defence project; or
 
@@ -82,7 +79,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (a)  the person uses violence or a threat of violence to a person or property, or engages in any other unlawful conduct; and
 
-                     (b)  by doing so the first‑mentioned person:
+                     (b)  by doing so the first-mentioned person:
 
                               (i)  prevents, hinders or obstructs the carrying out of an approved defence project; or
 
@@ -96,7 +93,7 @@ Note:          The defendant bears an evidential burden in rel
 
                      (b)  if the offence is prosecuted upon indictment—a fine of not more than Ten thousand dollars or imprisonment for not more than twelve months, or both.
 
-             (4)  A prosecution for an offence against this section shall not be instituted except by the Attorney‑General or with the consent of the Attorney‑General or of a person thereto authorized in writing by the Attorney‑General. 
+             (4)  A prosecution for an offence against this section shall not be instituted except by the Attorney-General or with the consent of the Attorney-General or of a person thereto authorized in writing by the Attorney-General. 
 
 # Notes to the _Approved Defence Projects Protection Act 1947_
 
@@ -108,9 +105,11 @@ For all relevant information pertaining to application, saving or transitional p
 
 ### Table of Acts
 
+* * *
+
 <table>
 <colgroup>
-  <col width="31%">
+  <col width="30%">
   <col width="16%">
   <col width="18%">
   <col width="22%">
@@ -137,7 +136,21 @@ of Assent</div>
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
-</thead>
+</thead></table>
+
+* * *
+
+<table>
+<colgroup>
+  <col width="31%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="0%">
+  <col width="14%">
+  <col width="0%">
+</colgroup>
+
 <tr>
   <td>
     <div>Approved Defence Projects Protection Act 1947</div>
@@ -148,10 +161,10 @@ of Assent</div>
   <td>
     <div>12 June 1947</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>12 June 1947</div>
   </td>
-  <td>
+  <td colspan="2">
     <div></div>
   </td>
 </tr>
@@ -165,10 +178,10 @@ of Assent</div>
   <td>
     <div>29 Oct 1966</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>1 Dec 1966</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>—</div>
   </td>
 </tr>
@@ -182,10 +195,10 @@ of Assent</div>
   <td>
     <div>19 Dec 1973</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>31 Dec 1973</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>—</div>
   </td>
 </tr>
@@ -199,11 +212,11 @@ of Assent</div>
   <td>
     <div>22 Sept 1982</div>
   </td>
-  <td>
-    <div>Part LXXVII (s. 280): Royal Assent</div>
+  <td colspan="2">
+    <div>Part LXXVII (s. 280): Royal Assent <i>(a)</i></div>
   </td>
-  <td>
-    <div>S. 280(1) and (2)</div>
+  <td colspan="2">
+    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -218,137 +231,57 @@ of Assent</div>
   </td>
   <td>
     <div>S. 4: Royal Assent 
-Schedule 1 (items 1, 2): 15 Dec 2001</div>
+Schedule 1 (items 1, 2): <i>2 Oct 2001 (b)</i></div>
   </td>
-  <td>
-    <div>S. 4 
-S. 2(2) (am. by 135, 2003, Sch. 2 (item 28))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b> as amended by </b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="2">
+    <div>S. 4</div>
   </td>
   <td>
     <div></div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>135, 2003</div>
-  </td>
-  <td>
-    <div>17 Dec 2003</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 28): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
-_(a)_     Subsection 2(1) (item 9) of the _Defence Legislation Amendment Act 2003_ provides as follows:
+_(a)_     The _Approved Defence Projects Protection Act 1947_ was amended by Part LXXVII (section 280) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, sub-section 2(1) of which provides that Part LXXVII shall come into operation on Royal Assent.
 
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+_(b)_ The _Approved Defence Projects Protection Act 1947_ was amended by Schedule 1 (items 1 and 2) only of the _Defence Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(2) of which provides as follows:
+
+                 (2)   Part 1 of Schedule 1 commences on the later of:
+
+                              (a)   the day on which Chapter 2 of the _Criminal Code_ commences; and
+
+                              (b)   the day after the day on which this Act receives the Royal Assent.
+
+## Table of Amendments
+
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 
 <table>
 <colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
 <tr>
   <td>
-    <div>
-      9\. Schedule 2, item 28
-    </div>
+    <div>Provision affected</div>
   </td>
   <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Defence Legislation Amendment (Application of Criminal Code) Act 2001</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      1 October 2001
-    </div>
+    <div>How affected</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+<div style="border:none;border-top:solid windowtext 1.0pt;padding:1.0pt 0cm 0cm 0cm">
+
+</div>
 
 <table>
 <colgroup>
@@ -357,19 +290,6 @@ _(a)_     Subsection 2(1) (item 9) of the _Defence Legislation Amendme
 </colgroup>
 
 <thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
   <tr>
     <td>
       <div>S. 3</div>
@@ -396,7 +316,7 @@ _(a)_     Subsection 2(1) (item 9) of the _Defence Legislation Amendme
   </td>
 </tr></table>
 
-## Table A
+Table A
 
 ### Application, saving or transitional provisions
 
