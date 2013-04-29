@@ -1,31 +1,23 @@
-![](http://www.comlaw.gov.au/Details/C2006C00613/Html/ANTSCompMeasLegAmend1999_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00613/Html/4F96AD8E7C11FEC1CA25709000204247/$FILE/image001.gif)
 
 # A New Tax System (Compensation Measures Legislation Amendment) Act 1999
 
 **Act No. 68 of 1999 as amended**
 
-This compilation was prepared on 10 October 2006
+This compilation was prepared on 27 July 2000
 
-**\[This Act was amended by Act No. 93 of 2000; No. 108 of 2006]**
-
-**Amendments from Act No. 93 of 2000**
-
+**\[This Act was amended by Act No. 93 of 2000]**
 \[Schedule 1 (item 1) amended Schedule 1 (item 135)
- Schedule 1 (item 2) amended Schedule 1 (item 136)
- Schedule 1 (item 3) amended Schedule 2 (item 6)
- Schedule 1 (item 4) amended Schedule 2 (item 42)
- Schedule 1 (item 5) amended Schedule 4 (item 1)
-
+Schedule 1 (item 2) amended Schedule 1 (item 136)
+Schedule 1 (item 3) amended Schedule 2 (item 6)
+Schedule 1 (item 4) amended Schedule 2 (item 42)
+Schedule 1 (item 5) amended Schedule 4 (item 1)
 Schedule 1 (items 1–5) commenced on 1 July 2000]
 
-**Amendment from Act No. 108 of 2006**
+Prepared by the Office of Legislative Drafting,
+Attorney-General’s Department, 
+Canberra
 
-\[Schedule 6 (item 1) amended heading to item 22 of Schedule 2
-
-Schedule 6 (item 1) commenced immediately after 1 July 2000]
-
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -33,7 +25,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [2](#2).            Commencement                                                                                   1
 
-[3](#3).            Schedule(s)                                                                                           2
+[3](#3).            Schedule(s)                                                                                           1
 
 **Schedule 1—Social Security Act 1991** 
 
@@ -54,6 +46,7 @@ Part 3—Increase in certain pensions              �
 **Schedule 3—National Health Act 1953** 
 
 **Schedule 4—A New Tax System (Family Assistance) Act 1999** 
+
 
 ## An Act to provide for compensation measures related to the implementation of A New Tax System, and for related purposes
 
@@ -89,7 +82,8 @@ Part 3—Increase in certain pensions              �
 
                    Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
-# <span style="font-size:16.0pt;font-family:Helvetica">Schedule 1</span>—<span class="CharAmSchText">Social Security Act 1991</span>
+
+# Schedule 1—Social Security Act 1991
 
 <h7 class="ActHead7">Part 1—Increases to rates and free areas</h7>
 
@@ -229,11 +223,9 @@ Omit “$3,122.60”, substitute “$3,247.40”.
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Step 1A._ Work out the amount of pension supplement using Module BA below.
-
-* * *
+_Step 1A._ Work out the amount of pension supplement using Module BA below.</div>
 
 ## 35  Point 1064-A1 (method statement, step 4)
 
@@ -325,11 +317,9 @@ Omit “$3,122.60”, substitute “$3,247.40”.
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Step 2A._ Work out the amount of pension supplement using Module BA below.
-
-* * *
+_Step 2A._ Work out the amount of pension supplement using Module BA below.</div>
 
 ## 51  Point 1065-A1 (method statement, step 4)
 
@@ -373,7 +363,7 @@ Omit “$455.00” (wherever occurring), substitute “$473.20”.
 
 Omit “$390.00”, substitute “$405.60”.
 
-## 55  Point 1065-E2 (table)
+## 55  Point 1065-E2 (table)
 
 Omit “$17.50” (wherever occurring), substitute “$18.20”.
 
@@ -393,11 +383,9 @@ Omit “$7.00” (wherever occurring), substitute “$7.30”.
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Step 1A._ Work out the amount of pension supplement using Module BA below.
-
-* * *
+_Step 1A._ Work out the amount of pension supplement using Module BA below.</div>
 
 ## 60  Point 1066-A1 (method statement, step 4)
 
@@ -637,11 +625,9 @@ Omit “$7.00” (wherever occurring), substitute “$7.30”.
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Step 1A._ Work out the amount of pension supplement using Module BA below.
-
-* * *
+_Step 1A._ Work out the amount of pension supplement using Module BA below.</div>
 
 ## 113  Point 1068A-A1 (method statement, step 4)
 
@@ -655,11 +641,11 @@ Insert:
 
 Pension supplement
 
- 1068A-BA1 The amount of a person’s pension supplement depends on the person’s maximum basic rate.
+1068A-BA1 The amount of a person’s pension supplement depends on the person’s maximum basic rate.
 
 Amount of pension supplement
 
- 1068A-BA2 The amount of a person’s pension supplement is worked out by:
+1068A-BA2 The amount of a person’s pension supplement is worked out by:
 
                      (a)  calculating the amount (the **_provisional supplement amount_**) that is 4% of the person’s 1 July 2000 maximum basic rate; and
 
@@ -667,15 +653,15 @@ Amount of pension supplement
 
 Note:          The pension supplement amount is indexed 6 monthly in line with CPI increases (see sections 1191 to 1194).
 
- 1068A-BA3 A person’s **_1 July 2000_****_maximum basic rate_** is the maximum basic rate that would have been the person’s maximum basic rate if the rate had not changed since 1 July 2000.
+1068A-BA3 A person’s **_1 July 2000_****_maximum basic rate_** is the maximum basic rate that would have been the person’s maximum basic rate if the rate had not changed since 1 July 2000.
 
 Rounding off of provisional supplement amount
 
- 1068A-BA4 If a provisional supplement amount is a multiple of $2.60, the amount of the pension supplement is the provisional supplement amount.
+1068A-BA4 If a provisional supplement amount is a multiple of $2.60, the amount of the pension supplement is the provisional supplement amount.
 
- 1068A-BA5 If a provisional supplement amount is not a multiple of $2.60, the amount of the pension supplement is the provisional supplement amount rounded up or down to the nearest multiple of $2.60.
+1068A-BA5 If a provisional supplement amount is not a multiple of $2.60, the amount of the pension supplement is the provisional supplement amount rounded up or down to the nearest multiple of $2.60.
 
- 1068A-BA6 If a provisional supplement amount is not a multiple of $2.60, but is a multiple of $1.30, the amount of the pension supplement is the provisional supplement amount rounded up to the nearest multiple of $2.60.
+1068A-BA6 If a provisional supplement amount is not a multiple of $2.60, but is a multiple of $1.30, the amount of the pension supplement is the provisional supplement amount rounded up to the nearest multiple of $2.60.
 
 ## 115  Point 1068A-E14 (table)
 
@@ -697,7 +683,7 @@ Omit “$455.00”, substitute “$473.20”.
 
 Omit “$17.50”, substitute “$18.20”.
 
-## 120  Point 1068A-F2 (table)
+## 120  Point 1068A-F2 (table)
 
 Omit “$182.00”, substitute “$189.80”.
 
@@ -757,23 +743,25 @@ Insert:
   <col width="44%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>1AA.</div>
-  </td>
-  <td>
-    <div>Pension supplement</div>
-  </td>
-  <td>
-    <div>pension supplement</div>
-  </td>
-  <td>
-    <div>\[Pension Rate Calculator A—point 1064-BA2—all amounts]</div>
-    <div>\[Pension Rate Calculator B—point 1065-BA2—all amounts]</div>
-    <div>\[Pension Rate Calculator C—point 1066-BA2]</div>
-    <div>\[Parenting Payment Rate Calculator—point 1068A-BA2]</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1AA.</div>
+    </td>
+    <td>
+      <div>Pension supplement</div>
+    </td>
+    <td>
+      <div>pension supplement</div>
+    </td>
+    <td>
+      <div>\[Pension Rate Calculator A—point 1064-BA2—all amounts]</div>
+      <div>\[Pension Rate Calculator B—point 1065-BA2—all amounts]</div>
+      <div>\[Pension Rate Calculator C—point 1066-BA2]</div>
+      <div>\[Parenting Payment Rate Calculator—point 1068A-BA2]</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 133  Subsection 1191(1) (after table item 1)
 
@@ -789,28 +777,30 @@ Insert:
   <col width="10%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>1A.</div>
-  </td>
-  <td>
-    <div>pension supplement</div>
-  </td>
-  <td>
-    <div>(a) 20 March</div>
-    <div>(b) 20 September</div>
-  </td>
-  <td>
-    <div>(a) 20 December</div>
-    <div>(b) 20 June</div>
-  </td>
-  <td>
-    <div>highest June or December quarter before reference quarter (but not earlier than June quarter 1979)</div>
-  </td>
-  <td>
-    <div>$2.60</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1A.</div>
+    </td>
+    <td>
+      <div>pension supplement</div>
+    </td>
+    <td>
+      <div>(a) 20 March</div>
+      <div>(b) 20 September</div>
+    </td>
+    <td>
+      <div>(a) 20 December</div>
+      <div>(b) 20 June</div>
+    </td>
+    <td>
+      <div>highest June or December quarter before reference quarter (but not earlier than June quarter 1979)</div>
+    </td>
+    <td>
+      <div>$2.60</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 134  Subsection 1192(2) (note)
 
@@ -873,370 +863,372 @@ Note:          Amounts provided for in provisions listed in Ta
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>subsection 967(1)</div>
-  </td>
-  <td>
-    <div>child disability allowance</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>section 1010</div>
-  </td>
-  <td>
-    <div>double orphan pension</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>subsection 1044(1)</div>
-  </td>
-  <td>
-    <div>mobility allowance</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>subsection 1061S—table—column 3—all amounts except item 2</div>
-  </td>
-  <td>
-    <div>telephone allowance</div>
-  </td>
-  <td>
-    <div>0.80</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>point 1064-C8—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>point 1065-C8—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>point 1066-C7—annual amount</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>point 1066A-B1—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pension maximum basic rates</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>point 1066A-C1—annual amount</div>
-  </td>
-  <td>
-    <div>youth disability supplement</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>point 1066A-D8—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>point 1066B-B1—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pension maximum basic rates</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>point 1066B-C1—annual amount</div>
-  </td>
-  <td>
-    <div>youth disability supplement</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>point 1066B-D8—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>point 1067G-B2—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>youth allowance maximum basic rates (people who are not independent)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>point 1067G-B3—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>youth allowance maximum basic rates (people who are independent)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>point 1067G-B4—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>youth allowance maximum basic rates (long term income support students)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>point 1067G-C3—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>point 1067L-B2—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>austudy payment maximum basic rate (person not long term income support student)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>point 1067L-B3</div>
-  </td>
-  <td>
-    <div>austudy payment maximum basic rate (long term income support student)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>point 1067L-C3—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21</div>
-  </td>
-  <td>
-    <div>point 1068-B1—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>benefit maximum basic rates</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>22</div>
-  </td>
-  <td>
-    <div>point 1068-D10—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>23</div>
-  </td>
-  <td>
-    <div>point 1068A-C7—annual amount</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>2.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>24</div>
-  </td>
-  <td>
-    <div>point 1068B-B6</div>
-  </td>
-  <td>
-    <div>parenting payment maximum basic component</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>25</div>
-  </td>
-  <td>
-    <div>point 1068B-C2—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>parenting payment maximum basic rate</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>26</div>
-  </td>
-  <td>
-    <div>point 1068B-E8—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>pharmaceutical allowance</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>subsection 967(1)</div>
+    </td>
+    <td>
+      <div>child disability allowance</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>section 1010</div>
+    </td>
+    <td>
+      <div>double orphan pension</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>subsection 1044(1)</div>
+    </td>
+    <td>
+      <div>mobility allowance</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>subsection 1061S—table—column 3—all amounts except item 2</div>
+    </td>
+    <td>
+      <div>telephone allowance</div>
+    </td>
+    <td>
+      <div>0.80</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>point 1064-C8—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>point 1065-C8—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>point 1066-C7—annual amount</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>point 1066A-B1—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pension maximum basic rates</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>point 1066A-C1—annual amount</div>
+    </td>
+    <td>
+      <div>youth disability supplement</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>point 1066A-D8—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>point 1066B-B1—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pension maximum basic rates</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>point 1066B-C1—annual amount</div>
+    </td>
+    <td>
+      <div>youth disability supplement</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>point 1066B-D8—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>point 1067G-B2—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>youth allowance maximum basic rates (people who are not independent)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>point 1067G-B3—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>youth allowance maximum basic rates (people who are independent)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>point 1067G-B4—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>youth allowance maximum basic rates (long term income support students)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17</div>
+    </td>
+    <td>
+      <div>point 1067G-C3—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>point 1067L-B2—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>austudy payment maximum basic rate (person not long term income support student)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19</div>
+    </td>
+    <td>
+      <div>point 1067L-B3</div>
+    </td>
+    <td>
+      <div>austudy payment maximum basic rate (long term income support student)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20</div>
+    </td>
+    <td>
+      <div>point 1067L-C3—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21</div>
+    </td>
+    <td>
+      <div>point 1068-B1—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>benefit maximum basic rates</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>22</div>
+    </td>
+    <td>
+      <div>point 1068-D10—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>23</div>
+    </td>
+    <td>
+      <div>point 1068A-C7—annual amount</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>2.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>24</div>
+    </td>
+    <td>
+      <div>point 1068B-B6</div>
+    </td>
+    <td>
+      <div>parenting payment maximum basic component</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>25</div>
+    </td>
+    <td>
+      <div>point 1068B-C2—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>parenting payment maximum basic rate</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>26</div>
+    </td>
+    <td>
+      <div>point 1068B-E8—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>pharmaceutical allowance</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="1206GAA"></a>1206GAA  1 July 2000 increase in rent assistance amounts
 
@@ -1284,105 +1276,107 @@ Note:          Amounts provided for in provisions listed in Ta
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>point 1064-D5—table—column 4—all amounts</div>
-  </td>
-  <td>
-    <div>5.20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>point 1066-D4—table—column 2</div>
-  </td>
-  <td>
-    <div>5.20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>point 1066A-EA12—table—column 4—all amounts</div>
-  </td>
-  <td>
-    <div>5.20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>point 1066A-EB13—table—column 4—all amounts</div>
-  </td>
-  <td>
-    <div>5.20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>point 1067G-D6—table—column 4—all amounts</div>
-  </td>
-  <td>
-    <div>0.20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>point 1068-F15—table—column 4—all amounts</div>
-  </td>
-  <td>
-    <div>0.20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>point 1068A-D3—table—column 3</div>
-  </td>
-  <td>
-    <div>5.20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>point 1068B-F6—table—column 4—all amounts</div>
-  </td>
-  <td>
-    <div>0.20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>point 1069-E4—table—column 4—all amounts</div>
-  </td>
-  <td>
-    <div>0.20</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>point 1064-D5—table—column 4—all amounts</div>
+    </td>
+    <td>
+      <div>5.20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>point 1066-D4—table—column 2</div>
+    </td>
+    <td>
+      <div>5.20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>point 1066A-EA12—table—column 4—all amounts</div>
+    </td>
+    <td>
+      <div>5.20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>point 1066A-EB13—table—column 4—all amounts</div>
+    </td>
+    <td>
+      <div>5.20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>point 1067G-D6—table—column 4—all amounts</div>
+    </td>
+    <td>
+      <div>0.20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>point 1068-F15—table—column 4—all amounts</div>
+    </td>
+    <td>
+      <div>0.20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>point 1068A-D3—table—column 3</div>
+    </td>
+    <td>
+      <div>5.20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>point 1068B-F6—table—column 4—all amounts</div>
+    </td>
+    <td>
+      <div>0.20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>point 1069-E4—table—column 4—all amounts</div>
+    </td>
+    <td>
+      <div>0.20</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="1206GB"></a>1206GB  Adjustment of amounts following 1 July 2000 increase
 
@@ -1396,7 +1390,7 @@ Note:          Amounts provided for in provisions listed in Ta
 
 this section applies to modify the way the amount is indexed under Division 2 of this Part for a limited period after 19 March 2001.
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 _Method statement_
 
@@ -1448,9 +1442,7 @@ _Step 16._ The indexed amount for the purposes of step 4 of the method statement
 
                    Note:             The indexed amount for the purposes of step 4 of the method statement in subsection 1192(2) may be increased under section 1195 in certain cases.
 
-_Step 17._ Repeat the method set out in steps 10 to 16 in relation to the third indexation day and to subsequent indexation days until the remaining adjustment amount is zero.
-
-* * *
+_Step 17._ Repeat the method set out in steps 10 to 16 in relation to the third indexation day and to subsequent indexation days until the remaining adjustment amount is zero.</div>
 
 Application of section 1195 to affected amounts
 
@@ -1517,132 +1509,134 @@ Note:          Amounts provided for in provisions listed in Ta
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>subsection 198A(1)</div>
-  </td>
-  <td>
-    <div>income ceiling for care receiver</div>
-  </td>
-  <td>
-    <div>not applicable <i>—</i>see subsection 1206GD(4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>point 1064-E4—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>basic free area for pension</div>
-  </td>
-  <td>
-    <div>$52.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>point 1066-E4—table—column 1</div>
-  </td>
-  <td>
-    <div>basic free area for pension</div>
-  </td>
-  <td>
-    <div>$52.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>point 1066A-F3—table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>basic free area for pension</div>
-  </td>
-  <td>
-    <div>$52.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>paragraph 1067G-F22(a)</div>
-  </td>
-  <td>
-    <div>parental income free area</div>
-  </td>
-  <td>
-    <div>$52.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>point 1068A-E14—table —column 2</div>
-  </td>
-  <td>
-    <div>basic free area for parenting payment</div>
-  </td>
-  <td>
-    <div>$52.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>subpoint 1069-J8(1)—table —column 3—items 1 and 3</div>
-  </td>
-  <td>
-    <div>basic free area for maintenance income test</div>
-  </td>
-  <td>
-    <div>$7.80</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>subpoint 1069-J8(1)—table —column 3—item 2</div>
-  </td>
-  <td>
-    <div>basic free area for maintenance income test</div>
-  </td>
-  <td>
-    <div>$15.60</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>subpoint 1069-J8(1)—table —column 5—all amounts</div>
-  </td>
-  <td>
-    <div>additional free area for maintenance income test</div>
-  </td>
-  <td>
-    <div>$2.60</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>subsection 198A(1)</div>
+    </td>
+    <td>
+      <div>income ceiling for care receiver</div>
+    </td>
+    <td>
+      <div>not applicable <i>—</i>see subsection 1206GD(4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>point 1064-E4—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>basic free area for pension</div>
+    </td>
+    <td>
+      <div>$52.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>point 1066-E4—table—column 1</div>
+    </td>
+    <td>
+      <div>basic free area for pension</div>
+    </td>
+    <td>
+      <div>$52.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>point 1066A-F3—table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>basic free area for pension</div>
+    </td>
+    <td>
+      <div>$52.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>paragraph 1067G-F22(a)</div>
+    </td>
+    <td>
+      <div>parental income free area</div>
+    </td>
+    <td>
+      <div>$52.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>point 1068A-E14—table —column 2</div>
+    </td>
+    <td>
+      <div>basic free area for parenting payment</div>
+    </td>
+    <td>
+      <div>$52.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>subpoint 1069-J8(1)—table —column 3—items 1 and 3</div>
+    </td>
+    <td>
+      <div>basic free area for maintenance income test</div>
+    </td>
+    <td>
+      <div>$7.80</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>subpoint 1069-J8(1)—table —column 3—item 2</div>
+    </td>
+    <td>
+      <div>basic free area for maintenance income test</div>
+    </td>
+    <td>
+      <div>$15.60</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>subpoint 1069-J8(1)—table —column 5—all amounts</div>
+    </td>
+    <td>
+      <div>additional free area for maintenance income test</div>
+    </td>
+    <td>
+      <div>$2.60</div>
+    </td>
+  </tr>
+</tbody></table>
 
              (5)  The assets test free area table is:
 
@@ -1679,307 +1673,309 @@ Note:          Amounts provided for in provisions listed in Ta
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>subsections 198D(1) and (1A)</div>
-  </td>
-  <td>
-    <div>assets value limit for care receiver</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>subsections 198N(2) and(3)</div>
-  </td>
-  <td>
-    <div>assets value limit for care receiver</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>paragraph 198N(4)(a)</div>
-  </td>
-  <td>
-    <div>assets value limit for care receiver</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>subsection 408CE(2)—table—column 3—item 1</div>
-  </td>
-  <td>
-    <div>asset value limit for widow allowance</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>subsection 500Q(2)—table —column 3—item 1</div>
-  </td>
-  <td>
-    <div>assets value limit for parenting payment</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>paragraphs 547C(1)(a) and (b)</div>
-  </td>
-  <td>
-    <div>assets value limit for youth allowance</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>paragraph 573B(1)(a)</div>
-  </td>
-  <td>
-    <div>assets value limit for austudy payment</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>subsection 611(2)—table—column 3A—items 1 and 3</div>
-  </td>
-  <td>
-    <div>assets value limit for newstart allowance</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>subsection 611(2)—table—column 3B—item 3</div>
-  </td>
-  <td>
-    <div>assets value limit for newstart allowance</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>subsection 660YCJ(2)—table—column 3A—items 1 and 3</div>
-  </td>
-  <td>
-    <div>assets value limit for mature age allowance post-30/6/96</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>subsection 660YCJ(2)—table—column 3B—item 3</div>
-  </td>
-  <td>
-    <div>assets value limit for mature age allowance post-30/6/96</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>subsection 680(3)—table—column 3A—items 1 and 3</div>
-  </td>
-  <td>
-    <div>assets value limit for sickness allowance</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>subsection 680(3)—table—column 3B—item 3</div>
-  </td>
-  <td>
-    <div>assets value limit for sickness allowance</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>subsection 733(3)—table—column 3A—items 1 and 3</div>
-  </td>
-  <td>
-    <div>assets value limit for special benefit</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>subsection 733(3)—table—column 3B—item 3</div>
-  </td>
-  <td>
-    <div>assets value limit for special benefit</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>subsection 771HF(2) table—column 3—all amounts</div>
-  </td>
-  <td>
-    <div>assets value limit for partner allowance</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>point 1064-G3—table—column 3—all amounts (other than column 3B—item 1)</div>
-  </td>
-  <td>
-    <div>assets value limit—pensions</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>point 1066-G3—table—column 3—all amounts (other than column 3B—item 1)</div>
-  </td>
-  <td>
-    <div>assets value limit—pensions</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>point 1066A-H3—table—column 3—all amounts (other than column 3B—item 1)</div>
-  </td>
-  <td>
-    <div>assets value limit—pensions</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>point 1068B-B3—table—column 3A—item 2</div>
-    <div></div>
-  </td>
-  <td>
-    <div>assets value limit for parenting payment</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21</div>
-  </td>
-  <td>
-    <div>point 1068B-B3—table—column 3B—item 2</div>
-  </td>
-  <td>
-    <div>assets value limit for parenting payment</div>
-  </td>
-  <td>
-    <div>$250.00</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>subsections 198D(1) and (1A)</div>
+    </td>
+    <td>
+      <div>assets value limit for care receiver</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>subsections 198N(2) and(3)</div>
+    </td>
+    <td>
+      <div>assets value limit for care receiver</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>paragraph 198N(4)(a)</div>
+    </td>
+    <td>
+      <div>assets value limit for care receiver</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>subsection 408CE(2)—table—column 3—item 1</div>
+    </td>
+    <td>
+      <div>asset value limit for widow allowance</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>subsection 500Q(2)—table —column 3—item 1</div>
+    </td>
+    <td>
+      <div>assets value limit for parenting payment</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>paragraphs 547C(1)(a) and (b)</div>
+    </td>
+    <td>
+      <div>assets value limit for youth allowance</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>paragraph 573B(1)(a)</div>
+    </td>
+    <td>
+      <div>assets value limit for austudy payment</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>subsection 611(2)—table—column 3A—items 1 and 3</div>
+    </td>
+    <td>
+      <div>assets value limit for newstart allowance</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>subsection 611(2)—table—column 3B—item 3</div>
+    </td>
+    <td>
+      <div>assets value limit for newstart allowance</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>subsection 660YCJ(2)—table—column 3A—items 1 and 3</div>
+    </td>
+    <td>
+      <div>assets value limit for mature age allowance post-30/6/96</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>11</div>
+    </td>
+    <td>
+      <div>subsection 660YCJ(2)—table—column 3B—item 3</div>
+    </td>
+    <td>
+      <div>assets value limit for mature age allowance post-30/6/96</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>12</div>
+    </td>
+    <td>
+      <div>subsection 680(3)—table—column 3A—items 1 and 3</div>
+    </td>
+    <td>
+      <div>assets value limit for sickness allowance</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>13</div>
+    </td>
+    <td>
+      <div>subsection 680(3)—table—column 3B—item 3</div>
+    </td>
+    <td>
+      <div>assets value limit for sickness allowance</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>subsection 733(3)—table—column 3A—items 1 and 3</div>
+    </td>
+    <td>
+      <div>assets value limit for special benefit</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>15</div>
+    </td>
+    <td>
+      <div>subsection 733(3)—table—column 3B—item 3</div>
+    </td>
+    <td>
+      <div>assets value limit for special benefit</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>16</div>
+    </td>
+    <td>
+      <div>subsection 771HF(2) table—column 3—all amounts</div>
+    </td>
+    <td>
+      <div>assets value limit for partner allowance</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>17</div>
+    </td>
+    <td>
+      <div>point 1064-G3—table—column 3—all amounts (other than column 3B—item 1)</div>
+    </td>
+    <td>
+      <div>assets value limit—pensions</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>18</div>
+    </td>
+    <td>
+      <div>point 1066-G3—table—column 3—all amounts (other than column 3B—item 1)</div>
+    </td>
+    <td>
+      <div>assets value limit—pensions</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>19</div>
+    </td>
+    <td>
+      <div>point 1066A-H3—table—column 3—all amounts (other than column 3B—item 1)</div>
+    </td>
+    <td>
+      <div>assets value limit—pensions</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>20</div>
+    </td>
+    <td>
+      <div>point 1068B-B3—table—column 3A—item 2</div>
+      <div></div>
+    </td>
+    <td>
+      <div>assets value limit for parenting payment</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>21</div>
+    </td>
+    <td>
+      <div>point 1068B-B3—table—column 3B—item 2</div>
+    </td>
+    <td>
+      <div>assets value limit for parenting payment</div>
+    </td>
+    <td>
+      <div>$250.00</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Note:          If an amount is provided for in a subsection or point mentioned in Table B, but the provision providing for the amount is not listed in Table B, the 2.5% increase in the amount will occur on 1 July 2000 because of automatic adjustments under Division 4 of this Part _._
 
@@ -2015,7 +2011,7 @@ Repeal the point.
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2006C00613/Html/ANTSCompMeasLegAmend1999_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00613/Html/4F96AD8E7C11FEC1CA25709000204247/$FILE/image002.gif)
 
 ## 141  Point 1070-B1 (step 1 of the method statement)
 
@@ -2035,27 +2031,26 @@ Pension reduction for ordinary income in excess of ordinary income free area
 
    1064-E10  A person’s reduction for ordinary income is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00613/Html/ANTSCompMeasLegAmend1999_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00613/Html/4F96AD8E7C11FEC1CA25709000204247/$FILE/image003.gif)
 
 ## 144  Point 1066-E8 (formula)
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2006C00613/Html/ANTSCompMeasLegAmend1999_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00613/Html/4F96AD8E7C11FEC1CA25709000204247/$FILE/image004.gif)
 
 ## 145  Point 1066A-F9 (cells at table items 1, 2 and 3, column 3)
 
 Repeal the cells, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2006C00613/Html/ANTSCompMeasLegAmend1999_image005.gif)
-
 ## 146  Point 1068A-E20 (formula)
 
 Repeal the formula, substitute:
 
-![](http://www.comlaw.gov.au/Details/C2006C00613/Html/ANTSCompMeasLegAmend1999_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00613/Html/4F96AD8E7C11FEC1CA25709000204247/$FILE/image006.gif)
 
-# <span style="font-size:16.0pt;font-family:Helvetica">Schedule 2</span>—<span class="CharAmSchText">Veterans’ Entitlements Act 1986</span>
+
+# Schedule 2—Veterans’ Entitlements Act 1986
 
 <h7 class="ActHead7">Part 1—Increases to rates and free areas</h7>
 
@@ -2085,20 +2080,22 @@ Insert:
   <col width="44%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>2.</div>
-  </td>
-  <td>
-    <div>Pension supplement</div>
-  </td>
-  <td>
-    <div>pension supplement</div>
-  </td>
-  <td>
-    <div>*Rate Calculator—point SCH6-BA2—all amounts</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>2.</div>
+    </td>
+    <td>
+      <div>Pension supplement</div>
+    </td>
+    <td>
+      <div>pension supplement</div>
+    </td>
+    <td>
+      <div>*Rate Calculator—point SCH6-BA2—all amounts</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 4  Subsection 59B(1) (after table item 1)
 
@@ -2114,28 +2111,30 @@ Insert:
   <col width="10%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>1A.</div>
-  </td>
-  <td>
-    <div>pension supplement</div>
-  </td>
-  <td>
-    <div>(a) 20 March</div>
-    <div>(b) 20 September</div>
-  </td>
-  <td>
-    <div>(a) December</div>
-    <div>(b) June</div>
-  </td>
-  <td>
-    <div>highest June or December quarter before reference quarter (but not earlier than June quarter 1979)</div>
-  </td>
-  <td>
-    <div>$2.60</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1A.</div>
+    </td>
+    <td>
+      <div>pension supplement</div>
+    </td>
+    <td>
+      <div>(a) 20 March</div>
+      <div>(b) 20 September</div>
+    </td>
+    <td>
+      <div>(a) December</div>
+      <div>(b) June</div>
+    </td>
+    <td>
+      <div>highest June or December quarter before reference quarter (but not earlier than June quarter 1979)</div>
+    </td>
+    <td>
+      <div>$2.60</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ## 5  Subsection 59C(2) (note)
 
@@ -2153,7 +2152,7 @@ Add:
 
              (3)  This Act has effect as if, on 1 July 2000, the amount worked out in accordance with the following formula were substituted for the PA (service pension) rate: 
 
-![](http://www.comlaw.gov.au/Details/C2006C00613/Html/ANTSCompMeasLegAmend1999_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00613/Html/4F96AD8E7C11FEC1CA25709000204247/$FILE/image007.gif)
 
 where:
 
@@ -2161,7 +2160,7 @@ where:
 
              (4)  This Act has effect as if, on 1 July 2000, the amount worked out in accordance with the following formula were substituted for the PA (Part VIIA) rate:
 
-![](http://www.comlaw.gov.au/Details/C2006C00613/Html/ANTSCompMeasLegAmend1999_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00613/Html/4F96AD8E7C11FEC1CA25709000204247/$FILE/image008.gif)
 
 where:
 
@@ -2217,11 +2216,9 @@ Omit “$624” (wherever occurring), substitute “$639.60”.
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Step 1A._ Work out the amount of pension supplement using Module BA below.
-
-* * *
+_Step 1A._ Work out the amount of pension supplement using Module BA below.</div>
 
 ## 20  Subpoint SCH6-A1(2) (method statement, step 4)
 
@@ -2231,13 +2228,11 @@ After “1,”, insert “1A,”.
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Step 2A._ Work out the amount of pension supplement using Module BA below.
+_Step 2A._ Work out the amount of pension supplement using Module BA below.</div>
 
-* * *
-
-## 22  Subpoint SCH6-A1(3) (method statement 2, step 4)
+## 22  Subpoint SCH6-A1(3) (method statement, step 4)
 
 After “2,”, insert “2A,”.
 
@@ -2245,11 +2240,9 @@ After “2,”, insert “2A,”.
 
 Insert:
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Step 1A._ Work out the amount of pension supplement using Module BA below.
-
-* * *
+_Step 1A._ Work out the amount of pension supplement using Module BA below.</div>
 
 ## 24  Subpoint SCH6-A1(6) (method statement, step 4)
 
@@ -2267,7 +2260,7 @@ After “his or her ceiling rate is”, insert “, subject to point SCH6-A5A,�
 
 Insert:
 
- SCH6-A5A  On and after 1 July 2000, the ceiling rate referred to in point SCH6-A5 is taken to be equal to the pre-November 1986 rate increased by 4%.
+SCH6-A5A  On and after 1 July 2000, the ceiling rate referred to in point SCH6-A5 is taken to be equal to the pre-November 1986 rate increased by 4%.
 
 ## 28  Part 2 of Schedule 6 (after Module B)
 
@@ -2277,11 +2270,11 @@ Insert:
 
 Pension supplement
 
- SCH6-BA1  The amount of a person’s pension supplement depends on the person’s maximum basic rate. There is a pension supplement amount for each maximum basic rate listed in the table in point SCH6-B1.
+SCH6-BA1  The amount of a person’s pension supplement depends on the person’s maximum basic rate. There is a pension supplement amount for each maximum basic rate listed in the table in point SCH6-B1.
 
 Amount of pension supplement
 
- SCH6-BA2  The amount of a person’s pension supplement is worked out by:
+SCH6-BA2  The amount of a person’s pension supplement is worked out by:
 
                      (a)  calculating the amount (the **_provisional supplement amount_**) that is 4% of the person’s 1 July 2000 maximum basic rate; and
 
@@ -2289,15 +2282,15 @@ Amount of pension supplement
 
 Note:          The pension supplement amounts are indexed 6 monthly in line with CPI increases (see sections 59B to 59E).
 
- SCH6-BA3  A person’s **_1 July 2000_****_maximum basic rate_** is the maximum basic rate that would have been the person’s maximum basic rate if the rate had not changed since 1 July 2000.
+SCH6-BA3  A person’s **_1 July 2000_****_maximum basic rate_** is the maximum basic rate that would have been the person’s maximum basic rate if the rate had not changed since 1 July 2000.
 
 Rounding off of provisional supplement amount
 
- SCH6-BA4  If a provisional supplement amount is a multiple of $2.60, the amount of the pension supplement is the provisional supplement amount.
+SCH6-BA4  If a provisional supplement amount is a multiple of $2.60, the amount of the pension supplement is the provisional supplement amount.
 
- SCH6-BA5  If a provisional supplement amount is not a multiple of $2.60, the amount of the pension supplement is the provisional supplement amount rounded up or down to the nearest multiple of $2.60.
+SCH6-BA5  If a provisional supplement amount is not a multiple of $2.60, the amount of the pension supplement is the provisional supplement amount rounded up or down to the nearest multiple of $2.60.
 
- SCH6-BA6  If a provisional supplement amount is not a multiple of $2.60, but is a multiple of $1.30, the amount of the pension supplement is the provisional supplement amount rounded up to the nearest multiple of $2.60.
+SCH6-BA6  If a provisional supplement amount is not a multiple of $2.60, but is a multiple of $1.30, the amount of the pension supplement is the provisional supplement amount rounded up to the nearest multiple of $2.60.
 
 ## 29  Point SCH6-E6 (table)
 
@@ -2404,146 +2397,148 @@ Note:          Amounts provided for in provisions listed in Ta
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>subsection 22(3)</div>
-  </td>
-  <td>
-    <div>disability pension (general)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>subsection 23(4)</div>
-  </td>
-  <td>
-    <div>disability pension (intermediate)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>subsection 24(4)</div>
-  </td>
-  <td>
-    <div>disability pension (special)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>subsection 27(1)—table—items 1 to 6</div>
-  </td>
-  <td>
-    <div>disability pension (war-caused injury or disease)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>subsection 27(1)—table—items 7 to 15</div>
-  </td>
-  <td>
-    <div>disability pension (war-caused injury or disease)</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>subsection 30(2)—all amounts</div>
-  </td>
-  <td>
-    <div>orphan pension</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>subsection 97(1)—table—column 2—all amounts</div>
-  </td>
-  <td>
-    <div>clothing allowance</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>subsection 98(1)—table—column 2—all amounts</div>
-  </td>
-  <td>
-    <div>attendant allowance</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>subsection 104(1)—table—column 2—all amounts</div>
-  </td>
-  <td>
-    <div>recreation transport allowance</div>
-  </td>
-  <td>
-    <div>0.10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>subsection 118S(1)</div>
-  </td>
-  <td>
-    <div>telephone allowance</div>
-  </td>
-  <td>
-    <div>0.80</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>subsection 22(3)</div>
+    </td>
+    <td>
+      <div>disability pension (general)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>subsection 23(4)</div>
+    </td>
+    <td>
+      <div>disability pension (intermediate)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>subsection 24(4)</div>
+    </td>
+    <td>
+      <div>disability pension (special)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>subsection 27(1)—table—items 1 to 6</div>
+    </td>
+    <td>
+      <div>disability pension (war-caused injury or disease)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>subsection 27(1)—table—items 7 to 15</div>
+    </td>
+    <td>
+      <div>disability pension (war-caused injury or disease)</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>subsection 30(2)—all amounts</div>
+    </td>
+    <td>
+      <div>orphan pension</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>7</div>
+    </td>
+    <td>
+      <div>subsection 97(1)—table—column 2—all amounts</div>
+    </td>
+    <td>
+      <div>clothing allowance</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>8</div>
+    </td>
+    <td>
+      <div>subsection 98(1)—table—column 2—all amounts</div>
+    </td>
+    <td>
+      <div>attendant allowance</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>9</div>
+    </td>
+    <td>
+      <div>subsection 104(1)—table—column 2—all amounts</div>
+    </td>
+    <td>
+      <div>recreation transport allowance</div>
+    </td>
+    <td>
+      <div>0.10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>10</div>
+    </td>
+    <td>
+      <div>subsection 118S(1)</div>
+    </td>
+    <td>
+      <div>telephone allowance</div>
+    </td>
+    <td>
+      <div>0.80</div>
+    </td>
+  </tr>
+</tbody></table>
 
 ##### <a id="198GA"></a>198GA  1 July 2000 increase in rent assistance amounts
 
@@ -2575,7 +2570,7 @@ Note:          Amounts provided for in column 4 of the table i
 
 this section applies to modify the way the amount is indexed under that Division or section (as the case may be) for a limited period after 19 March 2001.
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 _Method statement_
 
@@ -2633,9 +2628,7 @@ _Step 16._ The indexed amount for the purposes of step 5 of the method statement
 
                    Note:             The indexed amount for the purposes of step 5 of the method statement in subsection 59C(2) may be increased under section 59EA in certain cases. Similarly, if the indexed amount is a rate worked out under section 198, that amount may be increased under subsection 198(6) or (7) in certain cases.
 
-_Step 17._ Repeat the method set out in steps 10 to 16 in relation to the third indexation day and to subsequent indexation days until the remaining adjustment amount is zero.
-
-* * *
+_Step 17._ Repeat the method set out in steps 10 to 16 in relation to the third indexation day and to subsequent indexation days until the remaining adjustment amount is zero.</div>
 
 Meaning of terms in method statement if amount is indexed under section 198, 198A, 198D or 198F
 
@@ -2735,7 +2728,7 @@ Repeal the subpoint, substitute:
 
              (1)  A person’s reduction for ordinary/adjusted income is:
 
-![](http://www.comlaw.gov.au/Details/C2006C00613/Html/ANTSCompMeasLegAmend1999_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00613/Html/4F96AD8E7C11FEC1CA25709000204247/$FILE/image009.gif)
 
 <h7 class="ActHead7">Part 3—Increase in certain pensions</h7>
 
@@ -2749,7 +2742,8 @@ Repeal the subpoint, substitute:
 
                      (b)  otherwise—to the nearest ten cents (rounding 5 cents upwards).
 
-# <span style="font-size:16.0pt;font-family:Helvetica">Schedule 3</span>—<span class="CharAmSchText">National Health Act 1953</span>
+
+# Schedule 3—National Health Act 1953
 
 ## 1  Subsection 58G(2)
 
@@ -2761,7 +2755,8 @@ Repeal the subsection, substitute:
 
                      (b)  if the Minister has determined, in writing, a higher rate per fortnight—at that higher fortnightly rate.
 
-# <span style="font-size:16.0pt;font-family:Helvetica">Schedule 4</span>—<span class="CharAmSchText">A New Tax System (Family Assistance) Act 1999</span>
+
+# Schedule 4—A New Tax System (Family Assistance) Act 1999
 
 ## 1  At the end of Schedule 4
 
@@ -2771,7 +2766,7 @@ Add:
 
              (1)  This clause applies to modify the way an amount specified in column 3 of the table in clause 14 of Schedule 1 (the **_maximum rent assistance amount_**) is indexed under Part 2 of this Schedule for a limited period after 19 March 2001.
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 4pt; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 _Method statement_
 
@@ -2799,9 +2794,7 @@ _Step 11._ Subtract the remaining adjustment amount from the indexed amount. The
 
 _Step 12._ The indexed amount for the purposes of step 4 of the method statement in subclause 4(2) is taken to be equal to the current figure worked out under step 2 of that method statement. Go to step 13.
 
-_Step 13._ Repeat the method set out in steps 8 to 12 in relation to the third indexation day and to subsequent indexation days until the remaining adjustment amount is zero.
-
-* * *
+_Step 13._ Repeat the method set out in steps 8 to 12 in relation to the third indexation day and to subsequent indexation days until the remaining adjustment amount is zero.</div>
 
 Rounding of provisional overall adjustment amounts
 
@@ -2810,5 +2803,6 @@ Rounding of provisional overall adjustment amounts
              (3)  If a provisional overall adjustment amount is not a multiple of the rounding base, the overall adjustment amount is the provisional overall adjustment amount rounded up or down to the nearest multiple of the rounding base.
 
              (4)  If a provisional overall adjustment amount is not a multiple of the rounding base, but is a multiple of half the rounding base, the overall adjustment amount is the provisional overall adjustment amount rounded up to the nearest multiple of the rounding base.
+
 
  
