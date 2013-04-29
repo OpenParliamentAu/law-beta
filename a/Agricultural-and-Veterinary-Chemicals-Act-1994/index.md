@@ -1,17 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C01728/Html/AgricVetsChem94_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01727/Html/AgriVetsChem94_image001.gif)
 
 # Agricultural and Veterinary Chemicals Act 1994
 
 **Act No. 36 of 1994 as amended**
 
-This compilation was prepared on 8 September 2003
- taking into account amendments up to Act No. 83 of 2001
+This compilation was prepared on 5 July 2000 
+ taking into account amendments up to Act No. 57 of 2000
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -20,77 +17,75 @@ Prepared by the Office of Legislative Drafting,
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        2
 
-[2](#2).            Commencement \[s _ee_ Note 1]
+[2](#2).            Commencement \[s _ee_ Note 1]                                                               2
 
-[3](#3).            Object
+[3](#3).            Object                                                                                                  2
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           3
 
-[5](#5).            Jervis Bay Territory
+[5](#5).            Jervis Bay Territory                                                                            5
 
-[6](#6).            Extension to external Territories
+[6](#6).            Extension to external Territories                                                          5
 
 **Part 2—The Agvet Code, and the Agvet Regulations, of the participating Territories**
 
-[7](#7).            Application of Agvet Code in the participating Territories
+[7](#7).            Application of Agvet Code in the participating Territories                6
 
-[8](#8).            Application of Agvet Regulations in the participating Territories
+[8](#8).            Application of Agvet Regulations in the participating Territories      6
 
-[9](#9).            Agvet Code of the participating Territories taken to be an Act
+[9](#9).            Agvet Code of the participating Territories taken to be an Act          7
 
-[10](#10).          Relationship between the Agvet Code and Agvet Regulations of the participating Territories and the laws of a participating Territory
+[10](#10).          Relationship between the Agvet Code and Agvet Regulations of the participating Territories and the laws of a participating Territory                                                                         7
 
 **Part 3—Citing the Agvet Code and the Agvet Regulations**
 
-[11](#11).          References to Agvet Code and Agvet Regulations of other jurisdictions
+[11](#11).          References to Agvet Code and Agvet Regulations of other jurisdictions     8
 
-[12](#12).          References to Agvet Codes and Agvet Regulations
+[12](#12).          References to Agvet Codes and Agvet Regulations                             8
 
 **Part 4—Application of Agvet Codes to the Crown**
 
-[13](#13).          Agvet Code of the participating Territories
+[13](#13).          Agvet Code of the participating Territories                                      10
 
-[14](#14).          Agvet Code of other jurisdictions
+[14](#14).          Agvet Code of other jurisdictions                                                      10
 
-[15](#15).          Crown not liable to prosecution
+[15](#15).          Crown not liable to prosecution                                                        10
 
-[16](#16).          This Part overrides the prerogative
+[16](#16).          This Part overrides the prerogative                                                   10
 
 **Part 5—Performance of functions that corresponding laws of States confer on Commonwealth authorities and officers**
 
-[17](#17).          Ministers
+[17](#17).          Ministers                                                                                           11
 
-[18](#18).          Commonwealth authorities and officers
+[18](#18).          Commonwealth authorities and officers                                            11
 
-[18A](#18A).       Conferral of duties, functions and powers
-
-[19](#19).          _Gazette_ notices under corresponding laws
+[19](#19).          _Gazette_ notices under corresponding laws                                         11
 
 **Part 6—Jurisdiction of courts**
 
-[20](#20).          Jurisdiction of Federal Court and courts of Territories
+[20](#20).          Jurisdiction of Federal Court and courts of Territories                     12
 
-[21](#21).          Exercise of jurisdiction under cross-vesting provisions
+[21](#21).          Exercise of jurisdiction under cross-vesting provisions                     12
 
 **Part 7—Miscellaneous**
 
-[22](#22).          Orders
+[22](#22).          Orders                                                                                                13
 
-[23](#23).          Manufacturing principles
+[23](#23).          Manufacturing principles                                                                  13
 
-[24](#24).          Repeal and transitional provisions
+[24](#24).          Repeal and transitional provisions                                                    13
 
-[25](#25).          Regulations
+[25](#25).          Regulations                                                                                        14
 
 **Part 8—Imposition of fees and taxes**
 
-[26](#26).          Fees (including taxes)
+[26](#26).          Fees (including taxes)                                                                         18
 
 **Notes** 
 
-## An Act to make a law for the government of certain Territories in relation to the evaluation, registration and control of agricultural and veterinary chemical products, and for related purposes
+An Act to make a law for the government of certain Territories in relation to the evaluation, registration and control of agricultural and veterinary chemical products, and for related purposes
 
 Recognising:
 
@@ -157,8 +152,6 @@ Recognising:
                      (b)  a tribunal or authority established by or in accordance with an Act.
 
                     <a name="chemic-product"></a>**_chemical product_** has the same meaning as in the Agvet Code of the participating Territories.
-
-                    <a name="confer"></a>**_confer_**, in relation to a duty, includes impose.
 
                     <a name="correspond-act"></a>**_corresponding Act_** means an Act of a State that corresponds to this Act.
 
@@ -234,7 +227,7 @@ Recognising:
 
                    For the purposes of this Act, the Jervis Bay Territory is taken to be part of the Australian Capital Territory.
 
-##### <a id="6"></a>6  Extension to external Territories
+##### <a id="6"></a>6  Extension to external Territories
 
                    This Act extends to every external Territory that is a participating Territory.
 
@@ -244,7 +237,7 @@ Recognising:
 
              (1)  The Code set out in the Schedule to the _Agricultural and Veterinary Chemicals Code Act 1994_ as in force for the time being applies as a law for the government of the participating Territories.
 
-             (2)  The provisions of that Code as so applying are in addition to, and do not affect, the _Industrial Chemicals (Notification and Assessment) Act 1989_, the _Food Standards Australia New Zealand Act 1991_ and the _Therapeutic Goods Act 1989_.
+             (2)  The provisions of that Code as so applying are in addition to, and do not affect, the _Industrial Chemicals (Notification and Assessment) Act 1989_, the _Australia New Zealand Food Authority Act 1991_ and the _Therapeutic Goods Act 1989_.
 
              (3)  The powers to require the recall of chemical products that are conferred on the NRA under that Code as so applying are in addition to, and do not affect, the powers conferred by section 65F of the _Trade Practices Act 1974_.
 
@@ -324,35 +317,7 @@ Recognising:
 
 ##### <a id="18"></a>18  Commonwealth authorities and officers
 
-             (1)  A corresponding law of a jurisdiction may confer duties, functions and powers in respect of any matter arising in relation to the applicable provisions of the jurisdiction:
-
-                     (a)  upon the Administrative Appeals Tribunal; or
-
-                     (b)  upon an inspector appointed under subsection 69F(1) of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_; or
-
-                     (c)  upon an analyst approved under section 69G of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_.
-
-Note:          Subsection 7(2) of the _Agricultural and Veterinary Chemicals (Administration) Act 1992_ deals with functions and powers conferred on the NRA by State laws.
-
-             (2)  A corresponding law may confer such other duties, functions and powers as are prescribed upon authorities and officers of the Commonwealth.
-
-             (3)  In enacting subsections (1) and (2), it is the intention of the Parliament to rely on all powers available to it under the Constitution.
-
-##### <a id="18A"></a>18A  Conferral of duties, functions and powers
-
-             (1)  To the extent that an authority or officer of the Commonwealth (including a Minister) has a duty, function or power that is conferred, or taken to be conferred, by a corresponding law:
-
-                     (a)  that duty, function or power is not taken to be conferred by Commonwealth law; and
-
-                     (b)  section 18 is not taken to authorise the conferral of the duty, function or power;
-
-if the conferral or authorisation would contravene a constitutional doctrine restricting the duties that may be conferred on authorities or officers of the Commonwealth, or would otherwise exceed the legislative power of the Commonwealth.
-
-             (2)  If, to ensure the validity of the conferral of a duty, function or power purportedly conferred on an authority or officer of the Commonwealth (including a Minister) by a corresponding law, it is necessary that the duty, function or power be conferred by a law of the Commonwealth, rather than by a law of a State, the duty, function or power is taken to be conferred by this Act to the extent necessary to ensure that validity.
-
-             (3)  If, because of subsection (2), this Act is taken to confer a duty, function or power upon an authority or officer of the Commonwealth (including a Minister), it is the intention of the Parliament to rely on all powers available to it under the Constitution to support the conferral of the duty, function or power.
-
-             (4)  Subsections (2) and (3) do not limit section 18.
+                   A corresponding law may confer prescribed functions and powers on authorities and officers of the Commonwealth.
 
 ##### <a id="19"></a>19  _Gazette_ notices under corresponding laws
 
@@ -426,40 +391,37 @@ and may include codes of good manufacturing practice.
 
 The _Agricultural and Veterinary Chemicals Act 1994_ as shown in this compilation comprises Act No. 36, 1994 amended as indicated in the Tables below. 
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="22%">
-  <col width="15%">
+  <col width="18%">
+  <col width="21%">
+  <col width="0%">
+  <col width="14%">
 </colgroup>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+<tr>
+  <td>
+    <div>Act</div>
+  </td>
+  <td>
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+  </td>
+  <td>
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
+  </td>
+  <td>
+    <div>Date of commencement</div>
+  </td>
+  <td colspan="2">
+    <div>Application, saving or transitional provisions</div>
+  </td>
+</tr>
 <tr>
   <td>
     <div>Agricultural and Veterinary Chemicals Act 1994</div>
@@ -470,7 +432,7 @@ of Assent</div>
   <td>
     <div>15 Mar 1994</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>15 Mar 1995</div>
   </td>
   <td>
@@ -487,7 +449,7 @@ of Assent</div>
   <td>
     <div>16 Dec 1995</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Ss. 1 and 2: Royal Assent 
 Remainder: 1 July 1996 ( <i>see Gazette</i>1996, No. S230)</div>
   </td>
@@ -505,77 +467,25 @@ Remainder: 1 July 1996 ( <i>see Gazette</i>1996, No. S230)</div>
   <td>
     <div>30 May 2000</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>Schedule 1 (items 28-30): 1 July 2000 ( <i>see Gazette</i>2000, No. GN25) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Australia New Zealand Food Authority Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>81, 2001</div>
-  </td>
-  <td>
-    <div>10 July 2001</div>
-  </td>
-  <td>
-    <div>S. 2(6): Royal Assent <i>(b)</i> 
-Schedule 3 (item 1): 1 July 2002 ( <i>see Gazette</i>2002, No. GN30) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 2(6)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agricultural and Veterinary Chemicals Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>83, 2001</div>
-  </td>
-  <td>
-    <div>11 July 2001</div>
-  </td>
-  <td>
-    <div>Schedule 2: <i>(c)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 4)</div>
-  </td>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
 
 _(a)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amended by Schedule 1 (items 28-30) only of the _Jurisdiction of Courts Legislation Amendment Act 2000_, subsection 2(2) of which provides as follows:
 
                  (2)   The items in Schedule 1, other than items 77 to 90, commence on a day or days to be fixed by Proclamation. 
-
-_(b)_    The _Agricultural and Veterinary Chemicals Act 1994_ was amended by Schedule 3 (item 1) only of the _Australia New Zealand Food Authority Amendment Act 2001_, subsections 2(1)(a), (2) and (5) of which provide as follows:
-
-                 (1)   The following provisions commence on the day on which this Act receives the Royal Assent:
-
-                              (a)   sections 1, 2 and 3;
-
-                 (2)   Part 1 of Schedule 1 (other than item 120A), and Schedule 3, commence on the first day after the commencement of this section on which an amendment of the Australia New Zealand Joint Food Standards Agreement comes into force in accordance with Article 10 of that Agreement. 
-
-                 (5)   As soon as practicable after the commencement of the following provisions:
-
-                              (a)   Part 1 of Schedule 1 (other than item 120A);
-
-                              (b)   Schedule 3;
-
-                         the Minister must cause to be published in the _Gazette_ a notice specifying the day on which those provisions commenced.
-
-_(c)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amended by the _Agricultural and Veterinary Chemicals Legislation Amendment Act 2001_, subsection 2(2)(b) of which provides as follows:
-
-                 (2)   Schedule 2 commences at the later of:
-
-                              (b)   the time when Parts 4 to 10 of the _Administrative Review Tribunal Act 2001_ commence.
-
-         The _Administrative Review Tribunal Bill_ has not been enacted. Therefore this amendment does not commence.
 
 ## Table of Amendments
 
@@ -602,26 +512,10 @@ _(c)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amend
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 57, 2000; No. 83, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>am. No. 57, 2000</div>
   </td>
 </tr>
 <tr>
@@ -629,39 +523,7 @@ _(c)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amend
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 152, 1995; No. 81, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>rs. No. 83, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 83, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
+    <div>am. No. 152, 1995</div>
   </td>
 </tr>
 <tr>
@@ -672,26 +534,5 @@ _(c)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amend
     <div>am. No. 57, 2000</div>
   </td>
 </tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
-
-           2(6)  In this section:
-
-                    <a name="australia-new-zealand-joint-food-standard-agreem"></a>**_Australia New Zealand Joint Food Standards Agreement_** means the Agreement between the Government of Australia and the Government of New Zealand Establishing a System for the Development of Joint Food Standards, signed at Wellington on 5 December 1995.
-
-* * *
-
-_Agricultural and Veterinary Chemicals Legislation Amendment Act 2001 
- (No. 83, 2001)_
-
-## Schedule 1
-
-## 4  Application of amendment
-
-The amendment made by item 2 of this Schedule applies in relation to matters arising before, on or after the commencement of that item.
 
  
