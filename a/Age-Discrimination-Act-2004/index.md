@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00485/Html/033d1d44-e6a3-4368-8657-db7ed809b7a5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00446/Html/a5d402d0-2a1a-45cf-89b9-3f721c3a139a_files/image001.gif)
 
 # Age Discrimination Act 2004
 
 **Act No. 68 of 2004 as amended**
 
-This compilation was prepared on 1 July 2011
+This compilation was prepared on 21 June 2011
  taking into account amendments up to Act No. 40 of 2011
 
 The text of any of those amendments not in force
@@ -287,8 +287,6 @@ but does not include:
                     <a name="ag"></a>**_age_** includes age group.
 
 Example:    The reference in subsection 26(3) to students above a particular age includes a reference to students above a particular age group.
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
 
                     <a name="commiss"></a>**_Commission_** means the Australian Human Rights Commission.
 
@@ -1294,11 +1292,11 @@ Administration of certain health legislation
 
                      (a)  the _Health Insurance Act 1973_, or a regulation or any other instrument made under that Act, to the extent that the thing done relates to:
 
-                              (i)  the release of, or the giving of access to, information held by the Chief Executive Medicare; or
+                              (i)  the release of, or the giving of access to, information held by the Chief Executive Officer of Medicare Australia; or
 
                              (ii)  the issue of a medicare card; or
 
-                     (b)  the _National Health Act 1953_, or a regulation or any other instrument made under that Act, to the extent that the thing done relates to the release of, or the giving of access to, information held by the Chief Executive Medicare; or
+                     (b)  the _National Health Act 1953_, or a regulation or any other instrument made under that Act, to the extent that the thing done relates to the release of, or the giving of access to, information held by the Chief Executive Officer of Medicare Australia; or
 
                      (c)  the _Therapeutic Goods Act 1989_, or a regulation or any other instrument made under that Act.
 
@@ -2874,7 +2872,7 @@ Schedule 2 (item 2): 1 July 2008</div>
     <div>25 May 2011</div>
   </td>
   <td>
-    <div>Schedule 4 (items 16–18): 1 July 2011</div>
+    <div>Schedule 4 (items 16–18): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2891,7 +2889,7 @@ Schedule 2 (item 2): 1 July 2008</div>
     <div>20 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–6): \[ <i>see</i>Note 2]</div>
+    <div>Schedule 2 (items 1–6): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -3112,7 +3110,7 @@ _(b)_ Subsection 2(1) (items 11 and 13) of the _Fair Work (State Referral and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 54 and 70, 2009; No. 32, 2011</div>
+    <div>am. Nos. 54 and 70, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3290,7 +3288,7 @@ No. 63, 2006</div>
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005</div>
   </td>
 </tr>
 <tr>
@@ -3440,6 +3438,30 @@ No. 63, 2006</div>
 
 ### Note 2
 
+_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
+
+The following amendments commence on 1 July 2011:
+
+## Schedule 4
+
+## 16  Section 5
+
+Insert:
+
+                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
+
+## 17  Subparagraph 42(5)(a)(i)
+
+Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Executive Medicare”.
+
+## 18  Paragraph 42(5)(b)
+
+Omit “Chief Executive Officer of Medicare Australia”, substitute “Chief Executive Medicare”.
+
+As at 21 June 2011 the amendments are not incorporated in this compilation.
+
+### Note 3
+
 _Sex and Age Discrimination Legislation Amendment Act 2011 
  (No. 40, 2011)_
 
@@ -3581,7 +3603,7 @@ Repeal the paragraph, substitute:
 
                      (a)  the Commissioner or another member of the Commission; or
 
-As at 1 July 2011 the amendments are not incorporated in this compilation.
+As at 21 June 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
