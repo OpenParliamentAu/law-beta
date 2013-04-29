@@ -1,7 +1,7 @@
 
 Nuclear Non‑Proliferation (Safeguards) Act 1987 
 Act No. 8 of 1987 as amended
-This compilation was prepared on 31 March 2001 taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 1 June 2000 taking into account amendments up to Act No. 13 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -107,6 +107,7 @@ Schedule 3—Agreement between Australia and the International Atomic Energy Age
 Schedule 4—Convention on the physical protection of nuclear material	113
 Schedule 5—Prescribed international agreements	126
 Notes to the Nuclear Non-Proliferation (Safeguards) Act 1987	129
+
 An Act to make provision in relation to the non‑proliferation of nuclear weapons and to establish, in accordance with certain international treaties and agreements to which Australia is a party, a system for the imposition and maintenance of nuclear safeguards in Australia, and for related matters
 Part I—Preliminary
   
@@ -475,7 +476,7 @@ is guilty of an offence against this subsection punishable, upon conviction, by:
 	(b)	the material or item is in the course of a journey:
 	(i)	from a place in Australia to a place outside Australia; or
 	(ii)	from a place in Australia to another place in Australia.
-	(3)	Subsection (2) shall not be read as derogating from the effect of the Crimes at Sea Act 2000.
+	(3)	Subsection (2) shall not be read as derogating from the effect of the Crimes at Sea Act 1979.
 	(4)	Subsection (1) does not apply to the possession of associated technology by a Commonwealth officer or a prescribed authority of the Commonwealth in the course of:
 	(a)	the collection, maintenance or assessment, on behalf of the Australian Government, of information relating to nuclear activities or to disarmament; or
 	(b)	the giving of information or advice to the Australian Government in relation to nuclear activities or to disarmament.
@@ -502,7 +503,7 @@ is guilty of an offence against this subsection punishable, upon conviction, by:
 	(c)	if the offender is a natural person—a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both; or
 	(d)	if the offender is a body corporate—a fine not exceeding $25,000.
 	(2)	Subsection (1) extends to a contravention or failure that occurs outside Australia.
-	(3)	Subsection (2) shall not be read as derogating from the effect of the Crimes at Sea Act 2000.
+	(3)	Subsection (2) shall not be read as derogating from the effect of the Crimes at Sea Act 1979.
 26  Unauthorised communication of information
 	(1)	Where:
 	(a)	a person, without reasonable excuse, communicates to another person information of a kind referred to in the definition of associated technology in subsection 4(1); and
@@ -618,7 +619,7 @@ Penalty:	$20,000 or imprisonment for 10 years, or both.
 	(a)	on an Australian ship or Australian aircraft;
 	(b)	in the course of international nuclear transport of nuclear material in a case where Australia is the State where the shipment originates or the State of ultimate destination; or
 	(c)	by an Australian citizen.
-	(4)	Subsection (1) shall not be read as derogating from the effect of the Crimes at Sea Act 2000.
+	(4)	Subsection (1) shall not be read as derogating from the effect of the Crimes at Sea Act 1979.
 	(5)	In subsection (3), international nuclear transport, State where the shipment originates and State of ultimate destination have the same respective meanings as they have in the Physical Protection Convention.
 
 Division 3—Miscellaneous
@@ -1794,7 +1795,7 @@ Agreement between the Government of Australia and the Government of Sweden amend
 Notes to the Nuclear Non-Proliferation (Safeguards) Act 1987
 Note 1
 The Nuclear Non‑Proliferation (Safeguards) Act 1987 as shown in this compilation comprises Act No. 8, 1987 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 31 March 2000 is not included in this compilation. For subsequent information see Table A.
+For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 Act
 Number  and year
@@ -1859,13 +1860,8 @@ Schedule 1 (items 693-695): 5 Dec 1999 (see Gazette 1999, No. S584) (e)
 Crimes at Sea Act 2000
 13, 2000
 31 Mar 2000
-Ss. 1 and 2: Royal Assent Remainder: 31 Mar 2001
+Schedule 2 (items 4, 11): [see (f), Note 2 and Table A]
 Sch. 2 (item 11) [see Table A]
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Schedule 2 (items 299, 418, 419): [see (f), Note 2 and Table A]
-Sch. 2 (items 418, 419) [see Table A]
 
 (a)	The Nuclear Non‑Proliferation (Safeguards) Act 1987 was amended by the Schedule (Part 2) only of the Qantas Sale Act 1992, paragraph 2(3)(a) of which provides as follows:
 	(3)	A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the Gazette but only if:
@@ -1884,9 +1880,9 @@ Sch. 2 (items 418, 419) [see Table A]
 (e)	The Nuclear Non‑Proliferation (Safeguards) Act 1987 was amended by Schedule 1 (items 693-695) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(f)	The Nuclear Non‑Proliferation (Safeguards) Act 1987 was amended by Schedule 2 (item 299) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
-	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
-	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
+(f)	The Nuclear Non‑Proliferation (Safeguards) Act 1987 was amended by Schedule 2 (item 4) only of the Crimes at Sea Act 2000, subsections 2(2) and (3) of which provide as follows:
+	(2)	Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation. [see Note 2]
+	(3)	If the provisions referred to in subsection (2) do not commence under that subsection within the period of 12 months beginning on the day on which this Act receives the Royal Assent, they commence on the first day after the end of that period. [see Note 2]
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -1894,37 +1890,33 @@ Provision affected
 How affected
 S. 3	
 am. No. 150, 1997
-S. 4	
+S. 4 	
 am. No. 99, 1988; No. 196, 1992; No. 3, 1995; No. 150, 1997; No. 146, 1999
 S. 4A	
 ad. No. 150, 1997
 S. 8	
 am. No. 150, 1997
-S. 11	
+S. 11 	
 am. No. 99, 1988; No. 3, 1995
 S. 13	
 am. No. 150, 1997
-S. 15	
+S. 15 	
 am. No. 134, 1990
-S. 23	
-am. No. 83, 1990; No. 13, 2000
-S. 25	
-am. No. 13, 2000
-S. 26	
+S. 23 	
 am. No. 83, 1990
-S. 38	
-am. No. 13, 2000
+S. 26 	
+am. No. 83, 1990
 S. 43	
 am. No. 150, 1997
-S. 45	
+S. 45 	
 am. No. 43, 1996
-S. 46	
+S. 46 	
 rs. No. 122, 1991
 
 am. No. 146, 1999
-S. 48	
+S. 48 	
 am. No. 122, 1991
-S. 49	
+S. 49 	
 am. No. 134, 1990
 S. 55	
 am. No. 146, 1999
@@ -1940,38 +1932,22 @@ Ss. 69A‑69C
 ad. No. 33, 1993
 S. 70	
 am. No. 150, 1997
-S. 73	
+S. 73 	
 am. No. 99, 1988
 Note 2
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following amendment commences on 24 May 2001 unless proclaimed earlier:
+Crimes at Sea Act 2000 (No. 13, 2000)
+The following amendment commences on 31 March 2001 unless proclaimed earlier:
 Schedule 2
-299  Subsection 31(2)
-Omit “section 76 of the Crimes Act 1914”, substitute “section 147.1 or 149.1 of the Criminal Code”.
-As at 31 March 2001 the amendment is not incorporated in this compilation.
+4  Subsections 23(3), 25(3) and 38(4)
+Omit “Crimes at Sea Act 1979”, substitute “Crimes at Sea Act 2000”.
+As at 1 June 2000 the amendment is not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Crimes At Sea Act 2000 (No. 13, 2000)
+The following provision commences on 31 March 2001 unless proclaimed earlier:
 Schedule 2
 11  Application of amendments
 (1)	The amendments made by this Schedule apply to acts and omissions that take place after this Schedule commences.
 (2)	Although this Schedule repeals the Crimes at Sea Act 1979, that Act continues to apply, in relation to acts and omissions that took place before this Schedule commences, as if the repeal had not happened.
 (3)	For the purposes of this item, if an act or omission is alleged to have taken place between two dates, one before and one on or after the day on which this Schedule commences, the act or omission is alleged to have taken place before this Schedule commences.
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following provisions commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
