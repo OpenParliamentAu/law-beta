@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00327/Html/ReserveBank1959_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00682/Html/ReserveBank1959_WD02_image001.gif)
 
 # Reserve Bank Act 1959
 
 **Act No. 4 of 1959 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 15 November 2007
+ taking into account amendments up to Act No. 42 of 2003
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -520,7 +520,7 @@ the disagreement is to be resolved as determined by the Governor.
 
                      (e)  fails to comply with his or her obligations under subsection 18A(3) or section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-the Treasurer shall terminate his or her appointment.
+the Treasurer shall terminate his appointment.
 
              (2)  In this section, **_month_** means any of the 12 months of the year.
 
@@ -1179,7 +1179,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (4)  A contract which, if made between private persons, would by law be valid although made by parol only and not reduced into writing, may be made, varied or discharged by parol in the name and on behalf of the Bank by a person acting with the express or implied authority of the Bank.
 
-             (5)  Nothing in this section invalidates a contract executed on behalf of the Bank by a duly appointed attorney of the Bank if the contract would be valid if executed by the attorney on his or her own behalf.
+             (5)  Nothing in this section invalidates a contract executed on behalf of the Bank by a duly appointed attorney of the Bank if the contract would be valid if executed by the attorney on his own behalf.
 
 ##### <a id="85"></a>85  The Reserve Bank’s seal
 
@@ -2024,23 +2024,6 @@ Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</
     <div>Sch. 3 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 450, 451): 4 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -2237,6 +2220,8 @@ _(s)_ The _Reserve Bank Act 1959_ was amended by Schedule 7 only of the _Finan
     </div>
   </td>
 </tr></table>
+
+ 
 
 ## Table of Amendments
 
@@ -2570,7 +2555,7 @@ _(s)_ The _Reserve Bank Act 1959_ was amended by Schedule 7 only of the _Finan
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 118, 1973; No. 166, 1986; No. 69, 1994; No. 152, 1997; No. 54, 1998; No. 156, 1999; No. 37, 2002; No. 73, 2008</div>
+    <div>am. No. 118, 1973; No. 166, 1986; No. 69, 1994; No. 152, 1997; No. 54, 1998; No. 156, 1999; No. 37, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3551,14 +3536,6 @@ _(s)_ The _Reserve Bank Act 1959_ was amended by Schedule 7 only of the _Finan
 </tr>
 <tr>
   <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 85</div>
   </td>
   <td>
@@ -3637,6 +3614,8 @@ _(s)_ The _Reserve Bank Act 1959_ was amended by Schedule 7 only of the _Finan
     <div>rep. No. 166, 1986</div>
   </td>
 </tr></table>
+
+ 
 
 ## Table A
 
