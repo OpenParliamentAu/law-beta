@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00687/Html/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00642/Html/715DBCF1763CA20ACA2570B400200540/$FILE/image001.gif)
 
 # Office of National Assessments Act 1977
 
 **Act No. 107 of 1977 as amended**
 
-This compilation was prepared on 2 December 2005
+This compilation was prepared on 8 November 2005
 taking into account amendments up to Act No. 128 of 2005
 
 The text of any of those amendments not in force 
@@ -19,41 +19,43 @@ Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                      11
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                             11
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                     11
 
-[4](#4).            Office of National Assessments
+[4](#4).            Office of National Assessments                                                        11
 
-[5](#5).            Functions of Office
+[5](#5).            Functions of Office                                                                            11
 
-[6](#6).            National Assessments Board
+[6](#6).            National Assessments Board                                                             11
 
-[8](#8).            Duty of Director-General to consult National Assessments Board
+[7](#7).            Economic Assessments Board                                                           11
 
-[9](#9).            Director-General entitled to access to information
+[8](#8).            Duty of Director-General to consult relevant Assessments Board   11
 
-[10](#10).          Appointment of Director-General
+[9](#9).            Director-General entitled to access to information                            11
 
-[11](#11).          Term of office
+[10](#10).          Appointment of Director-General                                                     11
 
-[12](#12).          Remuneration and allowances of Director-General
+[11](#11).          Term of office                                                                                    11
 
-[13](#13).          Leave of absence
+[12](#12).          Remuneration and allowances of Director-General                           11
 
-[14](#14).          Resignation
+[13](#13).          Leave of absence                                                                                11
 
-[15](#15).          Termination of appointment
+[14](#14).          Resignation                                                                                        11
 
-[16](#16).          Acting Director-General
+[15](#15).          Termination of appointment                                                             11
 
-[17](#17).          Staff of the Office
+[16](#16).          Acting Director-General                                                                    11
 
-[19](#19).          Reports
+[17](#17).          Staff of the Office                                                                              11
 
-[20](#20).          Regulations
+[19](#19).          Reports                                                                                              11
+
+[20](#20).          Regulations                                                                                        11
 
 **Notes** 
 
@@ -72,6 +74,8 @@ Canberra
 
                    In this Act, unless the contrary intention appears:
 
+                    <a name="board"></a><a name="assess-board"></a>**_Assessments Board_** or **_Board_** means the National Assessments Board or the Economic Assessments Board.
+
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means:
 
                      (a)  an authority or body, whether a body corporate or not, established for a purpose of the Commonwealth by or under a law of the Commonwealth or a law of a Territory; or
@@ -79,10 +83,6 @@ Canberra
                      (b)  an authority or body established for such a purpose by or under an order or direction made or given by the Governor-General, by a Minister or by an authority or body referred to in paragraph (a).
 
                     <a name="depart"></a>**_Department_** means a Department of State.
-
-                    <a name="depart-defenc"></a>**_Department of Defence_** means the Department administered by the Minister administering section 1 of the _Defence Act 1903_.
-
-                    <a name="depart-foreign-affair-trade"></a>**_Department of Foreign Affairs and Trade_** means the Department administered by the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
 
                     <a name="director-gener"></a>**_Director-General_** means the person holding office as the Director-General of the Office of National Assessments.
 
@@ -124,31 +124,7 @@ Canberra
 
                      (c)  to ensure that international developments of major importance to Australia are assessed on a continuing basis; and
 
-                     (d)  to carry out the coordination and evaluation functions specified in subsections (1A) and (1B).
-
-          (1A)  The coordination functions of the Office are:
-
-                     (a)  to coordinate the foreign intelligence activities that Australia engages in, including in relation to setting Australia’s foreign intelligence requirements based on Australia’s foreign intelligence priorities; and
-
-                     (b)  to coordinate matters of common interest to Australia’s foreign intelligence agencies, including, but not limited to, the following:
-
-                              (i)  policy in relation to foreign intelligence;
-
-                             (ii)  long-term planning and cross-agency planning in relation to foreign intelligence;
-
-                            (iii)  liaison with international partners, consistent with the capacity of the agencies to develop relationships with their counterparts in other countries.
-
-          (1B)  The evaluation functions of the Office are:
-
-                     (a)  to evaluate the foreign intelligence activities that Australia engages in, having regard to:
-
-                              (i)  Australia’s foreign intelligence priorities and requirements; and
-
-                             (ii)  the intelligence needs of relevant Ministers; and
-
-                     (b)  to provide advice to the Minister or to relevant Departments on the adequacy of the resources available for foreign intelligence activities; and
-
-                     (c)  to provide advice to the Minister on any improvements or changes that should be made to remedy inadequacies, including, but not limited to, inadequacies relating to coordination arrangements.
+                     (d)  to keep under review the activities connected with international intelligence that are engaged in by Australia and to bring to the notice of relevant Departments and Commonwealth authorities any inadequacies in the nature, the extent, or the arrangements for co-ordination, of those activities that become apparent from time to time and suggest any improvements that should be made to remedy those inadequacies.
 
              (2)  A Minister, or a prescribed Commonwealth officer, may, for the purpose of obtaining assistance in the formation of policies or plans by the Commonwealth Government, request the Director-General to prepare a report or make an assessment in accordance with paragraph (1)(a) and, where such a request is made, the Director-General shall endeavour to comply with the request.
 
@@ -158,35 +134,47 @@ Canberra
 
 ##### <a id="6"></a>6  National Assessments Board
 
-             (1)  For the purposes of this Act there shall be a National Assessments Board, which shall consist of the Director-General and, subject to subsections (2A) and (2B), such other persons as the Minister directs.
+             (1)  For the purposes of this Act there shall be a National Assessments Board, which shall consist of the Director-General and, subject to subsection (2), such other persons as the Minister directs.
 
-             (2)  It is the function of the National Assessments Board to consider national assessments made by the Office.
+             (2)  The National Assessments Board shall include:
 
-          (2A)  The membership of the National Assessments Board may be varied by the Director-General from time to time, but must include:
+                     (a)  an officer of the Department of Foreign Affairs;
 
-                     (a)  the persons specified in subsection (1); and
+                     (b)  an officer of the Department of Defence;
 
-                     (b)  an officer of the Department of Foreign Affairs and Trade; and
+                     (c)  a member of the Defence Force; and
 
-                     (c)  an officer of the Department of Defence; and
-
-                     (d)  an officer of the Department of the Prime Minister and Cabinet; and
-
-                     (e)  a member of the Defence Force.
-
-          (2B)  The Director-General is to take reasonable steps to ensure that a meeting of the National Assessments Board includes representatives of departments and agencies appropriate to the subject matter of the national assessment or national assessments under consideration by the Board at that meeting.
+                     (d)  a person appointed or engaged under the _Public Service Act 1999_, not being an officer of the Department of Foreign Affairs or the Department of Defence, who has expertise in economics.
 
              (3)  The Director-General shall convene meetings of the National Assessments Board.
 
              (4)  At a meeting of the National Assessments Board, the Director-General shall preside and the procedure to be followed shall be as directed by him or her.
 
-##### <a id="8"></a>8  Duty of Director-General to consult National Assessments Board
+             (5)  It is the function of the National Assessments Board to consider assessments prepared by the Office in relation to matters not primarily involving economic considerations.
 
-             (1)  The Director-General shall consult the National Assessments Board in relation to each national assessment made by him or her and shall, if practicable, seek to hold the consultation before furnishing the assessment.
+##### <a id="7"></a>7  Economic Assessments Board
 
-             (2)  In the event of a significant difference of opinion between the Director-General and the National Assessments Board in relation to a national assessment, the Director-General and the Board shall endeavour to reach agreement.
+             (1)  For the purposes of this Act there shall be an Economic Assessments Board, which shall consist of the Director-General or a member of the staff of the Office designated by him or her and, subject to subsection (2), such other persons as the Minister directs.
 
-             (3)  If the Director-General and the National Assessments Board are unable to reach agreement, the Director-General shall forward to each person to whom the national assessment is furnished a statement setting out the matter or matters in respect of which the difference of opinion has arisen.
+             (2)  The Economic Assessments Board shall include:
+
+                     (a)  a person or persons appointed or engaged under the _Public Service Act 1999_ (not being an officer or officers of the Department of Foreign Affairs) who has or have expertise in economics; and
+
+                     (b)  an officer of the Department of Foreign Affairs.
+
+             (3)  The Director-General shall convene meetings of the Economic Assessments Board.
+
+             (4)  At a meeting of the Economic Assessments Board, the Director-General, or, in his or her absence, the member of the staff of the Office referred to in subsection (1), shall preside and the procedure to be followed at the meeting shall be as directed by the person so presiding.
+
+             (5)  It is the function of the Economic Assessments Board to consider assessments prepared by the Office in relation to matters primarily involving economic considerations.
+
+##### <a id="8"></a>8  Duty of Director-General to consult relevant Assessments Board
+
+             (1)  The Director-General shall consult the appropriate Assessments Board in relation to each assessment made by him or her and shall, if practicable, seek to hold the consultation before furnishing the assessment.
+
+             (2)  In the event of a significant difference of opinion between the Director-General and an Assessments Board in relation to an assessment, the Director-General and the Board shall endeavour to reach agreement.
+
+             (3)  If the Director-General and the Board are unable to reach agreement, the Director-General shall forward to each person to whom the assessment is furnished a statement setting out the matter or matters in respect of which the difference of opinion has arisen.
 
 ##### <a id="9"></a>9  Director-General entitled to access to information
 
@@ -209,6 +197,8 @@ Canberra
              (2)  The Director-General shall be paid such allowances as are prescribed.
 
              (3)  Subsection (2) has effect subject to the _Remuneration Tribunal Act 1973_.
+
+             (4)  The rates of remuneration and allowances payable to the Director-General shall not be less than the rates of remuneration and allowances for the time being payable, in pursuance of a determination by the Remuneration Tribunal, to Secretaries of Departments to whom no responsibility loading is payable.
 
 ##### <a id="13"></a>13  Leave of absence
 
@@ -365,7 +355,7 @@ of Assent
       <div>25 June 1984</div>
     </td>
     <td colspan="2">
-      <div>S. 151(1) and (9): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(a)</i></div>
+      <div>S. 151: 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(a)</i></div>
     </td>
     <td colspan="2">
       <div>S. 151(9)</div>
@@ -416,7 +406,7 @@ of Assent
       <div>11 Dec 1985</div>
     </td>
     <td colspan="2">
-      <div>S. 45: 8 Jan 1986 <i>(d)</i></div>
+      <div>Part VII (s. 45): 8 Jan 1986 <i>(d)</i></div>
     </td>
     <td colspan="2">
       <div>S. 45(2)</div>
@@ -528,9 +518,7 @@ Remainder: Royal Assent
         <div>4 Nov 2005</div>
       </td>
       <td colspan="2">
-        <div>Schedules 1–8: 2 Dec 2005 
-Remainder: Royal Assent 
-</div>
+        <div>Schedule 3: \[ <i>see</i>Note 2]</div>
       </td>
       <td>
         <div>—</div>
@@ -564,13 +552,13 @@ _(b)_    The _Office of National Assessments Act 1977_ was amended by sect
 
 _(c)_     The _Office of National Assessments Act 1977_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows: 
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(d)_     The _Office of National Assessments Act 1977_ was amended by section 45 only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows: 
+_(d)_     The _Office of National Assessments Act 1977_ was amended by Part VII (section 45) only of the _Public Service and Statutory Authorities Amendment Act 1985_, subsection 2(7) of which provides as follows: 
 
-                 (7)   The remaining provisions of this Act shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
+                 (7)   The remaining provisions of this Act shall come into operation on the day on which this Act receives the Royal Assent.
 
-_(e)_     The _Office of National Assessments Act 1977_ was amended by Schedule 4 (item 116) and Schedule 5 (items 106-108) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
+_(e)_     The _Office of National Assessments Act 1977_ was amended by Schedule 4 (item 115) and Schedule 5 (items 105-108) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -610,28 +598,12 @@ _(f)_      The _Office of National Assessments Act 1977_ was amended b
       <div>S. 3</div>
     </td>
     <td>
-      <div>am. Nos. 63 and 164, 1984; No. 1, 1997; No. 146, 1999; No. 128, 2005</div>
+      <div>am. Nos. 63 and 164, 1984; No. 1, 1997; No. 146, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 128, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6</div>
-    </td>
-    <td>
-      <div>am. No. 43, 1996; No. 146, 1999; No. 128, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
+      <div>Ss. 6, 7</div>
     </td>
     <td>
       <div>am. No. 43, 1996; No. 146, 1999</div>
@@ -639,26 +611,10 @@ _(f)_      The _Office of National Assessments Act 1977_ was amended b
   </tr>
   <tr>
     <td>
-      <div></div>
-    </td>
-    <td>
-      <div>rep. No. 128, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 8</div>
-    </td>
-    <td>
-      <div>am. No. 128, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 8</div>
     </td>
     <td>
-      <div>am. No. 43, 1996; No. 128, 2005</div>
+      <div>am. No. 43, 1996</div>
     </td>
   </tr>
   <tr>
@@ -674,7 +630,7 @@ _(f)_      The _Office of National Assessments Act 1977_ was amended b
       <div>S. 12</div>
     </td>
     <td>
-      <div>am. No. 63, 1984; No. 43, 1996; No. 128, 2005</div>
+      <div>am. No. 63, 1984; No. 43, 1996</div>
     </td>
   </tr>
   <tr>
@@ -742,6 +698,129 @@ _(f)_      The _Office of National Assessments Act 1977_ was amended b
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Intelligence Services Legislation Amendment Act 2005 (No. 128, 2005)_
+
+The following amendments commence on 2 December 2005:
+
+## Schedule 3
+
+## 1  Section 3 (definition of _Assessments Board_ or _Board_)
+
+Repeal the definition.
+
+## 2  Section 3
+
+Insert:
+
+                    <a name="depart-defenc"></a>**_Department of Defence_** means the Department administered by the Minister administering section 1 of the _Defence Act 1903_.
+
+## 3  Section 3
+
+Insert:
+
+                    <a name="depart-foreign-affair-trade"></a>**_Department of Foreign Affairs and Trade_** means the Department administered by the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
+
+## 4  Paragraph 5(1)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  to carry out the coordination and evaluation functions specified in subsections (1A) and (1B).
+
+## 5  After subsection 5(1)
+
+Insert:
+
+          (1A)  The coordination functions of the Office are:
+
+                     (a)  to coordinate the foreign intelligence activities that Australia engages in, including in relation to setting Australia’s foreign intelligence requirements based on Australia’s foreign intelligence priorities; and
+
+                     (b)  to coordinate matters of common interest to Australia’s foreign intelligence agencies, including, but not limited to, the following:
+
+                              (i)  policy in relation to foreign intelligence;
+
+                             (ii)  long-term planning and cross-agency planning in relation to foreign intelligence;
+
+                            (iii)  liaison with international partners, consistent with the capacity of the agencies to develop relationships with their counterparts in other countries.
+
+          (1B)  The evaluation functions of the Office are:
+
+                     (a)  to evaluate the foreign intelligence activities that Australia engages in, having regard to:
+
+                              (i)  Australia’s foreign intelligence priorities and requirements; and
+
+                             (ii)  the intelligence needs of relevant Ministers; and
+
+                     (b)  to provide advice to the Minister or to relevant Departments on the adequacy of the resources available for foreign intelligence activities; and
+
+                     (c)  to provide advice to the Minister on any improvements or changes that should be made to remedy inadequacies, including, but not limited to, inadequacies relating to coordination arrangements.
+
+## 6  Subsection 6(1)
+
+Omit “subsection (2)”, substitute “subsections (2A) and (2B)”.
+
+## 7  Subsection 6(2)
+
+Repeal the subsection, substitute:
+
+             (2)  It is the function of the National Assessments Board to consider national assessments made by the Office.
+
+          (2A)  The membership of the National Assessments Board may be varied by the Director-General from time to time, but must include:
+
+                     (a)  the persons specified in subsection (1); and
+
+                     (b)  an officer of the Department of Foreign Affairs and Trade; and
+
+                     (c)  an officer of the Department of Defence; and
+
+                     (d)  an officer of the Department of the Prime Minister and Cabinet; and
+
+                     (e)  a member of the Defence Force.
+
+          (2B)  The Director-General is to take reasonable steps to ensure that a meeting of the National Assessments Board includes representatives of departments and agencies appropriate to the subject matter of the national assessment or national assessments under consideration by the Board at that meeting.
+
+## 8  Subsection 6(5)
+
+Repeal the subsection.
+
+## 9  Section 7
+
+Repeal the section.
+
+## 10  Subsection 8(1)
+
+Omit “appropriate”, substitute “National”.
+
+_Note:       The heading to section 8 is altered by omitting “relevant” and substituting “National”._
+
+## 11  Subsection 8(1)
+
+Before “assessment” (first occurring), insert “national”.
+
+## 12  Subsection 8(2)
+
+Omit “an Assessments”, substitute “the National Assessments”.
+
+## 13  Subsection 8(2)
+
+Omit “an assessment”, substitute “a national assessment”.
+
+## 14  Subsection 8(3)
+
+Before “Board”, insert “National Assessments”.
+
+## 15  Subsection 8(3)
+
+Before “assessment”, insert “national”.
+
+## 16  Subsection 12(4)
+
+Repeal the subsection.
+
+As at 8 November 2005 the amendments are not incorporated in this compilation.
 
 
 ## Table A
