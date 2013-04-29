@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00314/Html/699c7744-0535-48e8-8589-431f2e4a7064_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00958/Html/31e8f805-e85b-4122-ad42-02d340c415a8_files/image001.gif)
 
 # Law Enforcement Integrity Commissioner Act 2006
 
 **Act No. 85 of 2006 as amended**
 
-This compilation was prepared on 21 March 2012
+This compilation was prepared on 19 December 2011
  taking into account amendments up to Act No. 174 of 2011
 
 The text of any of those amendments not in force
@@ -6250,7 +6250,7 @@ Integrity Commissioner to be judge or legal practitioner
 
                      (b)  is enrolled as a legal practitioner and has been enrolled as a legal practitioner for at least 5 years.
 
-Note:          The Integrity Commissioner  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          The Integrity Commissioner can be re‑appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 Period of appointment
 
@@ -6314,13 +6314,23 @@ Definition of **Judge**
 
                      (b)  during any period, or during all periods, when the Integrity Commissioner is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
 
              (2)  A person may only be appointed as the acting Integrity Commissioner if he or she:
 
                      (a)  is enrolled as a legal practitioner; and
 
                      (b)  has been enrolled as a legal practitioner for at least 5 years.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="178"></a>178  Remuneration
 
@@ -6450,13 +6460,23 @@ Definition of **Judge**
 
                      (b)  during any period, or during all periods, when the Assistant Integrity Commissioner is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          See also section 33A of the _Acts Interpretation Act 1901_, which contains extra rules about acting appointments.
 
              (2)  A person may only be appointed as the acting Integrity Commissioner if he or she:
 
                      (a)  is enrolled as a legal practitioner; and
 
                      (b)  has been enrolled as a legal practitioner for at least 5 years.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="188"></a>188  Remuneration
 
@@ -7373,7 +7393,7 @@ Remainder: 30 Dec 2006</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 747–751) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 747–751) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -7565,77 +7585,51 @@ _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑
   <td>
     <div>am. No. 5, 2011</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 13</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 175(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 177</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 177(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 187</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 187(1)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 747  Subsection 175(2) (note)
+
+Repeal the note, substitute:
+
+Note:          The Integrity Commissioner  may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+## 748  Subsection 177(1) (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 749  Subsection 177(3)
+
+Repeal the subsection.
+
+## 750  Subsection 187(1) (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 751  Subsection 187(3)
+
+Repeal the subsection.
+
+As at 19 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
