@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00071/Html/AirServices1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00510/Html/AirServices1995_WD02_image001.gif)
 
 # Air Services Act 1995
 
 **Act No. 81 of 1995 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 20 July 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
@@ -160,7 +160,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [54](#54).          Minister’s role in setting service charges and late payment penalties
 
-[55](#55).          Procedure if Part VIIA of the Competition and Consumer Act applies
+[55](#55).          Procedure if Part VIIA of the Trade Practices Act applies
 
 [56](#56).          Penalty for late payment of service charge
 
@@ -759,7 +759,7 @@ Note:          Section 9 of the _Commonwealth Authorities an
 
              (2)  Without limiting subsection (1), the Board may invite a person to attend a meeting for the purpose of advising or informing it on any matter.
 
-##### <a id="26"></a>26  Board resolutions without meetings
+##### <a id="26"></a>26  Board resolutions without meetings
 
                    If the Board so determines, a resolution is taken to have been passed at a meeting of the Board if:
 
@@ -1183,25 +1183,25 @@ the Minister may terminate the appointment of all appointed members or particula
 
                      (b)  the period within which the Minister may give to the Board a notice under subsection (2) of this section has expired without the Minister having given such a notice.
 
-##### <a id="55"></a>55  Procedure if Part VIIA of the Competition and Consumer Act applies
+##### <a id="55"></a>55  Procedure if Part VIIA of the Trade Practices Act applies
 
-             (1)  The Board’s power to set service charges has effect subject to Part VIIA of the _Competition and Consumer Act 2010_.
+             (1)  The Board’s power to set service charges has effect subject to Part VIIA of the _Trade Practices Act 1974_.
 
              (2)  If AA receives either of the following notices, AA must give the Minister a copy of the notice:
 
-                     (a)  a notice under subsection 95L(3) of the _Competition and Consumer Act 2010_ about an inquiry into a supply of services that is the subject of a proposed determination of a service charge;
+                     (a)  a notice under subsection 95L(3) of the _Trade Practices Act 1974_ about an inquiry into a supply of services that is the subject of a proposed determination of a service charge;
 
                      (b)  a notice under section 95ZJ of that Act withdrawing such a notice.
 
-             (3)  If AA receives a report under section 95P of the _Competition and Consumer Act 2010_ on an inquiry held under that Act in relation to the supply of services by AA, it must give a copy of the report to the Minister.
+             (3)  If AA receives a report under section 95P of the _Trade Practices Act 1974_ on an inquiry held under that Act in relation to the supply of services by AA, it must give a copy of the report to the Minister.
 
-             (4)  If AA has received a notice under subsection 95L(3) of the _Competition and Consumer Act 2010_ about an inquiry into the supply of services that is the subject of a proposed determination of a service charge, the period of 30 days referred to in subsection 54(2) does not begin until the Minister receives from AA:
+             (4)  If AA has received a notice under subsection 95L(3) of the _Trade Practices Act 1974_ about an inquiry into the supply of services that is the subject of a proposed determination of a service charge, the period of 30 days referred to in subsection 54(2) does not begin until the Minister receives from AA:
 
                      (a)  a copy of a notice under paragraph (2)(b) of this section; or
 
                      (b)  a copy of the report under subsection (3) of this section in relation to the supply of services concerned.
 
-             (5)  If the Minister receives from AA a copy of a report given to AA under section 95P of the _Competition and Consumer Act 2010_ in relation to the supply of services to which a proposed determination relates, the Minister may, in a notice under subsection 54(2), disapprove the proposed determination and substitute a fresh determination.
+             (5)  If the Minister receives from AA a copy of a report given to AA under section 95P of the _Trade Practices Act 1974_ in relation to the supply of services to which a proposed determination relates, the Minister may, in a notice under subsection 54(2), disapprove the proposed determination and substitute a fresh determination.
 
              (6)  The Minister’s determination has effect as if it had been made by the Board under section 53.
 
@@ -1932,7 +1932,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 18–20): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 18–20): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -2336,7 +2336,7 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>Heading to s. 55</div>
   </td>
   <td>
-    <div>am. No. 134, 2003; No. 103, 2010</div>
+    <div>am. No. 134, 2003</div>
   </td>
 </tr>
 <tr>
@@ -2344,7 +2344,7 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>S. 55</div>
   </td>
   <td>
-    <div>am. No. 134, 2003; No. 103, 2010</div>
+    <div>am. No. 134, 2003</div>
   </td>
 </tr>
 <tr>
@@ -2433,7 +2433,32 @@ Note 1:       The effect of this subsection is that the priority bet
 
 Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to statutory liens that arise after the commencement of subsection (3A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
 
-As at 1 January 2011 the amendments are not incorporated in this compilation.
+As at 20 July 2010 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9" style="page-break-after:avoid">Air Services Act 1995</h9>
+
+## 18  Subsection 55(1)
+
+_Note:       The heading to section 55 is altered by omitting “Trade Practices Act” and substituting “Competition and Consumer Act”._
+
+## 19  Paragraph 55(2)(a)
+
+## 20  Subsections 55(3), (4) and (5)
+
+As at 20 July 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
