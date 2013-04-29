@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00441/Html/MedibankPrivSale_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00143/Html/MedibankPrivSale_WD02_image001.gif)
 
 # Medibank Private Sale Act 2006
 
 **Act No. 160 of 2006 as amended**
 
-This compilation was prepared on 5 July 2010
- taking into account amendments up to Act No. 66 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 [**Note:** Schedule 3 of this Act is not in force, _see_ s. 2]
 
@@ -1453,7 +1453,7 @@ this item has effect as if the members or policy holders of the company were sha
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00441/Html/MedibankPrivSale_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00143/Html/MedibankPrivSale_WD02_image002.gif)
 
 where:
 
@@ -1587,11 +1587,11 @@ The powers conferred on the Federal Court under this Part are in addition to, an
 
 ## 57  Retained earnings
 
-(1)        For the purposes of item 20 of this Schedule and section 137-10 of the _Private Health Insurance Act 2007_, an amount shown in Medibank Private’s accounts as retained earnings is taken to be profits of Medibank Private.
+(1)        For the purposes of item 20 of this Schedule, section 254T of the _Corporations Act 2001_ and section 137-10 of the _Private Health Insurance Act 2007_, an amount shown in Medibank Private’s accounts as retained earnings is taken to be profits of Medibank Private.
 
 (2)        Subitem (1) is enacted for the avoidance of doubt.
 
-(3)        Disregard subitem (1) in determining the application of section 137-10 of the _Private Health Insurance Act 2007_ to a company other than Medibank Private.
+(3)        Disregard subitem (1) in determining the application of section 254T of the _Corporations Act 2001_ or section 137-10 of the _Private Health Insurance Act 2007_ to a company other than Medibank Private.
 
 (4)        This item ceases to have effect at the end of the period of 12 months beginning on the designated sale day declared under section 3.
 
@@ -1834,23 +1834,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations Amendment (Corporate Reporting Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>66, 2010</div>
-  </td>
-  <td>
-    <div>28 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 58, 59): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1966,15 +1949,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Item 57</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2007; No. 66, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 58</div>
+    <div>Items 57, 58</div>
   </td>
   <td>
     <div>am. No. 32, 2007</div>
