@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00240/Html/ImmigrationEdu1971_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00064/Html/ImmigrationEdu1971_image001.gif)
 
 # Immigration (Education) Act 1971
 
 **Act No. 3 of 1971 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 8 January 2009
  taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
@@ -78,8 +78,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="capit-equip-educ-natur"></a>**_capital equipment of an educational nature_** includes tape recording and playing equipment and portable class-rooms, but does not include any other building.
 
-                    <a name="child"></a>**_child_** of a person has the same meaning as in the Migration Act.
-
                     <a name="citizenship-cours"></a>**_citizenship course_** means a course of instruction designed to impart an understanding of ways of life in Australia and of the rights and duties of an Australian citizen.
 
                     <a name="english-cours"></a>**_English course_** means a course of instruction in the English language.
@@ -89,8 +87,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="independ-school"></a>**_independent school_** means a school or institution in Australia, other than a school or institution conducted by the Government of the Commonwealth, a State or a Territory, at which primary education or secondary education is, or both are, provided, but does not include a school conducted for the profit, direct or indirect, of an individual or individuals.
 
                     <a name="migrat-act"></a>**_Migration Act_** means the _Migration Act 1958_.
-
-                    <a name="parent"></a>**_parent_** of a person has the same meaning as in the Migration Act.
 
                     <a name="perman-entri-permit"></a>**_permanent entry permit_** has the same meaning as in the Migration Act as in force immediately before the commencement of section 3 of the _Migration Reform Act 1992_.
 
@@ -152,7 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
           (3A)  The **applicable fee limit** in relation to a course that a person enrols in during a financial year starting on or after 1 July 1995 is, subject to subsection (3B), the amount worked out under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00240/Html/ImmigrationEdu1971_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00064/Html/ImmigrationEdu1971_image002.gif)
 
 where:
 
@@ -601,7 +597,7 @@ Remainder: Royal Assent</div>
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 10 (items 77, 78): 1 July 2009</div>
+    <div>Schedule 10 (items 77, 78): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -656,7 +652,7 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 110, 1973; No. 76, 1986; No. 35, 1991; No. 176, 1992; No. 60, 1994; No. 27, 1997; No. 144, 2008</div>
+    <div>am. No. 110, 1973; No. 76, 1986; No. 35, 1991; No. 176, 1992; No. 60, 1994; No. 27, 1997</div>
   </td>
 </tr>
 <tr>
@@ -835,6 +831,28 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
     <div>am. Nos. 110 and 216, 1973</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+
+The following amendments commence on 1 July 2009:
+
+## Schedule 10
+
+## 77  Section 3
+
+Insert:
+
+                    <a name="child"></a>**_child_** of a person has the same meaning as in the Migration Act.
+
+## 78  Section 3
+
+Insert:
+
+                    <a name="parent"></a>**_parent_** of a person has the same meaning as in the Migration Act.
+
+As at 8 January 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
