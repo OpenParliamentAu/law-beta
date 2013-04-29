@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2011C00406/Html/aa013104-fab2-4a32-a5a7-97f6b9a88c1c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00264/Html/D34318726557419ACA2571790007A75A/$FILE/image001.gif)
 
 # Health and Other Services (Compensation) Act 1995
 
 **Act No. 130 of 1995 as amended**
 
-This compilation was prepared on 30 May 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 24 May 2006
+taking into account amendments up to Act No. 43 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -162,15 +163,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to the consequences of certain compensation payments, and for related purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Health and Other Services (Compensation) Act 1995_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt">[_see_ Note 1]</span>
 
              (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
 
@@ -220,7 +222,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  a residential care subsidy.
 
-                    <a name="employe-micar-australia"></a>**_employee of Medicare Australia_** means an employee within the meaning of the _Medicare Australia Act 1973_.
+                    <a name="australia"></a><a name="employe-micar"></a>**_employee of Medicare_****_Australia_** means an employee within the meaning of the _Medicare__Australia__Act 1973_.
 
                     <a name="fix"></a>**_fixed_**, in relation to an order or agreement relating to an amount of compensation, is defined in subsection (4).
 
@@ -492,7 +494,7 @@ _Note 1:    See also sections 7 and 8 of the Health and Other Services (
 
 _Note 2:    The obligations under this Division may be affected by the operation of Part 3.14 of the Social Security Act 1991 (see section 27)._
 
-##### <a id="9"></a>9  Reimbursement of amounts payable for nursing home care<span style="font-size:9.0pt;font-weight:normal"> </span>or residential care
+##### <a id="9"></a>9  Reimbursement of amounts payable for nursing home care<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> </span>or residential care
 
              (1)  This section applies if:
 
@@ -526,7 +528,7 @@ Note:          So far as subsection (3) would be a law impos
 
                      (b)  nursing home care or residential care has been provided to that person in the course of treatment of, or as a result of, the injury; and
 
-                   (ba)  nursing home benefit or a residential care subsidy has already been paid in respect of that nursing home care or residential care; and
+                    (ba)  nursing home benefit or a residential care subsidy has already been paid in respect of that nursing home care or residential care; and
 
                      (c)  a liability has not already arisen under section 9 in respect of that payment of nursing home benefit or residential care subsidy;
 
@@ -616,7 +618,7 @@ payment to the Commonwealth, under this Act or the Charges Act, of amounts in re
 
              (3)  The Medicare Australia CEO must give a copy of any such notice to the claimant.
 
-##### <a id="17"></a>17  Notice to claimant<span style="font-size:9.0pt; font-weight:normal"> </span>
+##### <a id="17"></a>17  Notice to claimant<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> </span>
 
              (1)  The Medicare Australia CEO may, in respect of the claim for compensation, give to the claimant a written notice that requires the claimant to give to the Medicare Australia CEO a written statement specifying:
 
@@ -708,11 +710,11 @@ Review of decision to refuse to give notice
 
           (9D)  The decision must not be reconsidered by the person who made the decision to refuse to give the notice.
 
-          (9E)  The person reconsidering the decision must affirm or vary the decision within 28 days after the application for reconsideration is made.
+           (9E)  The person reconsidering the decision must affirm or vary the decision within 28 days after the application for reconsideration is made.
 
            (10)  If a decision has been reconsidered, application may be made to the Administrative Appeals Tribunal for review of the decision as affirmed or varied at the reconsideration.
 
-Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires the decision‑maker to notify persons whose interests are affected by the decision of the making of the decision and their right to have the decision reviewed. In so notifying, the decision‑maker must have regard to the Code of Practice determined under section 27B of that Act.
+Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires the decision-maker to notify persons whose interests are affected by the decision of the making of the decision and their right to have the decision reviewed. In so notifying, the decision-maker must have regard to the Code of Practice determined under section 27B of that Act.
 
 ##### <a id="19"></a>19  Reconsideration of decisions about extensions of the period for giving statements
 
@@ -746,7 +748,7 @@ Note:          Section 27A of the _Administrative Appeals Tr
 
 is taken to be an extension of the period until 28 days after the day on which the date for the hearing was set, or until the date set for the hearing, whichever occurs earlier.
 
-##### <a id="21"></a>21  Notice of past benefits<span style="font-size: 9.0pt;font-weight:normal"> </span>
+##### <a id="21"></a>21  Notice of past benefits<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> </span>
 
              (1)  If, in relation to each notice given to the claimant under section 17 in respect of the claim for compensation, either:
 
@@ -828,7 +830,7 @@ the past expenses component is taken to be the amount specified in the notice as
 
              (3)  Subsection (1) is taken not to have been complied with in relation to the payment of an amount into a court unless, at the time of the payment, the notifiable person lodges with the court a copy of the notice under section 21 in respect of the claim.
 
-##### <a id="23"></a>23  Notice of judgment or settlement<span style="font-size:9.0pt;font-weight:normal"> </span>
+##### <a id="23"></a>23  Notice of judgment or settlement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> </span>
 
              (1)  The notifiable person must notify the Medicare Australia CEO in writing if a judgment or settlement has been made in respect of the claim.
 
@@ -972,11 +974,11 @@ Note:          The Medicare Australia CEO will take account of
 
              (1)  Application may be made to the Administrative Appeals Tribunal for review of a decision by the Medicare Australia CEO that a statement under section 18 or 23A, or an amended statement under section 23B, is not substantially correct.
 
-Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires the decision‑maker to notify persons whose interests are affected by the decision of the making of the decision and their right to have the decision reviewed. In so notifying, the decision‑maker must have regard to the Code of Practice determined under section 27B of that Act.
+Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires the decision-maker to notify persons whose interests are affected by the decision of the making of the decision and their right to have the decision reviewed. In so notifying, the decision-maker must have regard to the Code of Practice determined under section 27B of that Act.
 
              (2)  Despite subsection 43(6) of the _Administrative Appeals Tribunal Act 1975_, the Tribunal’s decision has effect on and from the day on which it is made.
 
-##### <a id="24"></a>24  Notice of charge—claims resulting in judgments or settlements<span style="font-size:9.0pt;font-weight:normal"> </span>
+##### <a id="24"></a>24  Notice of charge—claims resulting in judgments or settlements<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> </span>
 
              (1)  Subject to subsection (1A), if the Medicare Australia CEO receives a notice under subsection 23(1), the Medicare Australia CEO must give to:
 
@@ -1536,9 +1538,9 @@ for the purposes of provisions of a kind referred to in paragraph (1)(b).
 
 ##### <a id="40"></a>40  Additional functions of the Medicare Australia CEO
 
-             (1)  In addition to the functions of the Medicare Australia CEO under the _Medicare Australia Act 1973_, the Medicare Australia CEO has such additional functions as are conferred on the Medicare Australia CEO under this Act.
+             (1)  In addition to the functions of the Medicare Australia CEO under the _Medicare__Australia__Act 1973_, the Medicare Australia CEO has such additional functions as are conferred on the Medicare Australia CEO under this Act.
 
-             (2)  Anything done by or on behalf of the Medicare Australia CEO in the performance of such additional functions is taken, for all purposes, to have been done in the performance of his or her functions under the _Medicare Australia Act 1973_.
+             (2)  Anything done by or on behalf of the Medicare Australia CEO in the performance of such additional functions is taken, for all purposes, to have been done in the performance of his or her functions under the _Medicare__Australia__Act 1973_.
 
 ##### <a id="41"></a>41  Delegation
 
@@ -1548,7 +1550,7 @@ for the purposes of provisions of a kind referred to in paragraph (1)(b).
 
                      (b)  a person occupying, or performing the duties of, an office in the Department.
 
-             (2)  The power of delegation under subsection (1) does not affect any power of delegation that the Medicare Australia CEO has under the _Medicare Australia Act 1973_.
+             (2)  The power of delegation under subsection (1) does not affect any power of delegation that the Medicare Australia CEO has under the _Medicare__Australia__Act 1973_.
 
              (3)  The Secretary may delegate any of the Secretary’s powers under this Act to:
 
@@ -1560,7 +1562,7 @@ for the purposes of provisions of a kind referred to in paragraph (1)(b).
 
 ### Division 2—Power to obtain information
 
-##### <a id="42"></a>42  Medicare Australia CEO etc. may obtain information etc.<span style="font-size:9.0pt;font-weight:normal"> </span>
+##### <a id="42"></a>42  Medicare Australia CEO etc. may obtain information etc.<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> </span>
 
              (1)  The Medicare Australia CEO or an authorised officer may require a person to give information or produce a document that is in the person’s custody, or under the person’s control, if the Medicare Australia CEO or authorised officer believes on reasonable grounds that the information or document may be relevant to the question of:
 
@@ -1574,17 +1576,17 @@ for the purposes of provisions of a kind referred to in paragraph (1)(b).
 
                      (e)  whether the Minister should make a determination under subsection 18(1) of the _Health Insurance Act 1973_ or subsection 59(1) of the _National Health Act 1953_ in relation to the amount of compensation, and, if so, the terms of that determination; or
 
-                      (f)  whether the Secretary should make a determination under subsection 44‑20(5) or (6) of the _Aged Care Act 1997_.
+                      (f)  whether the Secretary should make a determination under subsection 44-20(5) or (6) of the _Aged Care Act 1997_.
 
              (2)  The requirement must be by notice in writing given to the person.
 
 Note:          Sections 28A and 29 of the _Acts Interpretation Act 1901_ provide how a notice may be given. In particular, the notice may be given to an individual by: 
 
-·<span style="font:7.0pt " new="">                     </span>delivering it personally; or 
+·<span style="FONT: 7pt 'Times New Roman'">                      </span>delivering it personally; or 
 
-·<span style="font:7.0pt " new="">                     </span>leaving it at the person’s last known address; or 
+·<span style="FONT: 7pt 'Times New Roman'">                      </span>leaving it at the person’s last known address; or 
 
-·<span style="font:7.0pt " new="">                     </span>sending it by pre‑paid post to the person’s last known address.
+·<span style="FONT: 7pt 'Times New Roman'">                      </span>sending it by pre-paid post to the person’s last known address.
 
              (3)  In this section:
 
@@ -1660,11 +1662,12 @@ Note:          For **_document_**, see section 25 of the _Ac
 
 ##### <a id="47"></a>47  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
+
 
 # Notes to the _Health and Other Services (Compensation) Act 1995_
 
@@ -1672,7 +1675,7 @@ Note:          For **_document_**, see section 25 of the _Ac
 
 The _Health and Other Services (Compensation) Act 1995_ as shown in this compilation comprises Act No. 130, 1995 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -1692,11 +1695,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1706,178 +1711,166 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Health and Other Services (Compensation) Act 1995</div>
-  </td>
-  <td>
-    <div>130, 1995</div>
-  </td>
-  <td>
-    <div>14 Nov 1995</div>
-  </td>
-  <td>
-    <div>1 Feb 1996 ( <i>see Gazette</i>1996, No. GN2)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health and Other Services (Compensation) Amendment Act 1996</div>
-  </td>
-  <td>
-    <div>33, 1996</div>
-  </td>
-  <td>
-    <div>28 Aug 1996</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 4): <i>(a)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aged Care (Consequential Provisions) Act 1997</div>
-  </td>
-  <td>
-    <div>114, 1997</div>
-  </td>
-  <td>
-    <div>7 July 1997</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 4–28): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>111, 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health and Other Services (Compensation) Legislation Amendment Act 2001</div>
-  </td>
-  <td>
-    <div>150, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1: 1 Jan 2002 ( <i>see Gazette</i>2001, No. GN49) <i>(c)</i> 
-Schedule 3 (items 3–7): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 42, 43)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Legislation Amendment Act (No. 1) 2003</div>
-  </td>
-  <td>
-    <div>84, 2003</div>
-  </td>
-  <td>
-    <div>23 Sept 2003</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 39)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Legislation Amendment (Podiatric Surgery and Other Matters) Act 2004</div>
-  </td>
-  <td>
-    <div>117, 2004</div>
-  </td>
-  <td>
-    <div>13 July 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 15, 16): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>111, 2005</div>
-  </td>
-  <td>
-    <div>6 Sept 2005</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 92–203): 1 Oct 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health and Other Services (Compensation) Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>43, 2006</div>
-  </td>
-  <td>
-    <div>22 May 2006</div>
-  </td>
-  <td>
-    <div>22 May 2006</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 116–149): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Health and Other Services (Compensation) Act 1995</div>
+    </td>
+    <td>
+      <div>130, 1995</div>
+    </td>
+    <td>
+      <div>14 Nov 1995</div>
+    </td>
+    <td>
+      <div>1 Feb 1996 ( <i>see Gazette</i>1996, No. GN2)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health and Other Services (Compensation) Amendment Act 1996</div>
+    </td>
+    <td>
+      <div>33, 1996</div>
+    </td>
+    <td>
+      <div>28 Aug 1996</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 4): <i>(a)</i> 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aged Care (Consequential Provisions) Act 1997</div>
+    </td>
+    <td>
+      <div>114, 1997</div>
+    </td>
+    <td>
+      <div>7 July 1997</div>
+    </td>
+    <td>
+      <div>Schedule 5 (items 4–28): <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>111, 2001</div>
+    </td>
+    <td>
+      <div>17 Sept 2001</div>
+    </td>
+    <td>
+      <div>17 Sept 2001</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health and Other Services (Compensation) Legislation Amendment Act 2001</div>
+    </td>
+    <td>
+      <div>150, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>Schedule 1: 1 Jan 2002 ( <i>see Gazette</i>2001, No. GN49) <i>(c)</i> 
+Schedule 3 (items 3–7): <i>(c)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (items 42, 43)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health Legislation Amendment Act (No. 1) 2003</div>
+    </td>
+    <td>
+      <div>84, 2003</div>
+    </td>
+    <td>
+      <div>23 Sept 2003</div>
+    </td>
+    <td>
+      <div>Ss. 1–3 and Schedule 1: Royal Assent</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 39)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health Legislation Amendment (Podiatric Surgery and Other Matters) Act 2004</div>
+    </td>
+    <td>
+      <div>117, 2004</div>
+    </td>
+    <td>
+      <div>13 July 2004</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 15, 16): <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Human Services Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>111, 2005</div>
+    </td>
+    <td>
+      <div>6 Sept 2005</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 92–203): 1 Oct 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health and Other Services (Compensation) Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>43, 2006</div>
+    </td>
+    <td>
+      <div>22 May 2006</div>
+    </td>
+    <td>
+      <div>22 May 2006</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 3)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     Subsection 2(2) of the _Health and Other Services (Compensation) Amendment Act 1996_ provides as follows:
 
@@ -1885,7 +1878,7 @@ _(a)_     Subsection 2(2) of the _Health and Other Services (Compensatio
 
          The _Health and Other Services (Compensation) Act 1995_ came into operation on 1 February 1996 (_see Gazette_ 1996, No. GN2). 
 
-_(b)_     The _Health and Other Services (Compensation) Act 1995_ was amended by Schedule 5 (items 4–28) only of the _Aged Care (Consequential Provisions) Act 1997_, subsection 2(1) of which provides as follows:
+_(b)_    The _Health and Other Services (Compensation) Act 1995_ was amended by Schedule 5 (items 4–28) only of the _Aged Care (Consequential Provisions) Act 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences immediately after the commencement of the _Aged Care Act 1997_ (other than Division 1 of that Act).
 
@@ -1971,25 +1964,28 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      5\. Schedule 1, items 15 and 16
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Health and Other Services (Compensation) Act 1995</i>for the commencement
-        of sections 21 and 24 of that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 February 1996
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        5\. Schedule 1, items 15 and 16
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the time specified in the
+          <i>Health and Other Services (Compensation) Act 1995</i>for the commencement
+          of sections 21 and 24 of that Act.
+      </div>
+    </td>
+    <td>
+      <div>
+        1 February 1996
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -2014,814 +2010,657 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 43, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 111, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 114, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 10</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>rs. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15, 16</div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 43, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 17(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 43, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 22(1)</div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1996; No. 114, 1997; No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 23A(2)</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23B–23D</div>
-  </td>
-  <td>
-    <div>ad. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. Nos. 111 and 150, 2001; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2A of Part 3</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33AA</div>
-  </td>
-  <td>
-    <div>ad. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 43, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33A</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33B</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 43, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 33B(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 43, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 33C, 33D</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 150, 2001; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33E</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 114, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 33F, 33G</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33H</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33J</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33K</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 33L, 33M</div>
-  </td>
-  <td>
-    <div>ad. No. 33, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 84, 2003; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 150, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 40</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 40, 41</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 42</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 111, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1997; No. 150, 2001; No. 43, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 2 of Part 2</div>
+    </td>
+    <td>
+      <div>rs. No. 114, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 9</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 10</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>rs. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15, 16</div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 43, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 17(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 43, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 22(1)</div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1996; No. 114, 1997; No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23A</div>
+    </td>
+    <td>
+      <div>ad. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 23A(2)</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 23B–23D</div>
+    </td>
+    <td>
+      <div>ad. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. Nos. 111 and 150, 2001; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2A</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Div. 2A of Part 3</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33AA</div>
+    </td>
+    <td>
+      <div>ad. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 43, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33A</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33B</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 150, 2001; No. 84, 2003; No. 43, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 33B(1)</div>
+    </td>
+    <td>
+      <div>ad. No. 43, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 33C, 33D</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 150, 2001; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33E</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 114, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 33F, 33G</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33H</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33J</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33K</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 33L, 33M</div>
+    </td>
+    <td>
+      <div>ad. No. 33, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 84, 2003; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 150, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 40</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 40, 41</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 42</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 111, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Human Services Legislation Amendment Act 2011 (No. 32, 2011)_
-
-The following amendments commence on 1 July 2011:
-
-## Schedule 4
-
-## 116  Subsection 3(1)
-
-Insert:
-
-                    <a name="chief-execut-micar"></a>**_Chief Executive Medicare_** has the same meaning as in the _Human Services (Medicare) Act 1973_.
-
-## 117  Subsection 3(1) (definition of _employee of Medicare Australia_)
-
-Repeal the definition.
-
-## 118  Subsection 3(1) (definition of _Medicare Australia CEO_)
-
-Repeal the definition.
-
-## 119  Paragraph 8(6)(a)
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-## 120  Paragraph 10(6)(a)
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-## 121  Sections 13 to 18
-
-Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
-
-## 122  Subsection 19(1)
-
-Omit “Medicare Australia CEO’s”, substitute “Chief Executive Medicare’s”.
-
-## 123  Subsection 19(1)
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-## 124  Subsection 19(3)
-
-Omit “Medicare Australia CEO must”, substitute “Chief Executive Medicare must”.
-
-## 125  Paragraph 19(3)(d)
-
-Omit “Medicare Australia CEO’s”, substitute “Chief Executive Medicare’s”.
-
-## 126  Subsection 19(4)
-
-Omit “Medicare Australia CEO’s”, substitute “Chief Executive Medicare’s”.
-
-## 127  Sections 21 to 26
-
-Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
-
-## 128  Section 28
-
-Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
-
-## 129  Subsection 32(1)
-
-Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
-
-## 130  Sections 33C to 33H
-
-Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
-
-## 131  Subsection 33K(1)
-
-Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
-
-## 132  Sections 34 to 36
-
-Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
-
-## 133  Section 39
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-## 134  Subsection 40(1)
-
-Repeal the subsection, substitute:
-
-             (1)  In addition to the functions of the Chief Executive Medicare under the _Human Services (Medicare) Act 1973_, the Chief Executive Medicare has such additional functions as are conferred on the Chief Executive Medicare under this Act.
-
-_Note:       The heading to section 40 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
-
-## 135  Subsection 40(2)
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-## 136  Subsection 40(2)
-
-Omit “_Medicare Australia Act 1973_”, substitute “_Human Services (Medicare) Act 1973_”.
-
-## 137  Subsection 41(1)
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-## 138  Paragraph 41(1)(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_); or
-
-## 139  Subsection 41(2)
-
-Omit “Medicare Australia CEO has under the _Medicare Australia Act 1973_”, substitute “Chief Executive Medicare has under the _Human Services (Medicare) Act 1973_”.
-
-## 140  Paragraphs 41(3)(b) and (c)
-
-Repeal the paragraphs, substitute:
-
-                     (b)  the Chief Executive Medicare; or
-
-                     (c)  a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_).
-
-## 141  Subsection 42(1)
-
-Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
-
-_Note:       The heading to section 42 is altered by omitting “Medicare Australia CEO” and substituting “Chief Executive Medicare”._
-
-## 142  Subsection 42(3) (paragraph (a) of the definition of _authorised officer_)
-
-Omit “_Medicare Australia Act 1973_”, substitute “_Human Services (Medicare) Act 1973_”.
-
-## 143  Subsection 42(3) (paragraph (b) of the definition of _authorised officer_)
-
-Omit “an employee of Medicare Australia”, substitute “a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_)”.
-
-## 144  Subsection 42(3) (paragraph (b) of the definition of _authorised officer_)
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-## 145  Paragraph 43(1)(c)
-
-Omit “employee of Medicare Australia”, substitute “Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_)”.
-
-## 146  Subsection 43(3)
-
-Omit “employee of Medicare Australia”, substitute “Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_)”.
-
-## 147  Subsection 43(5)
-
-Omit “an employee of Medicare Australia”, substitute “a Departmental employee (within the meaning of the _Human Services (Medicare) Act 1973_)”.
-
-## 148  Subsection 43(5)
-
-Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
-
-## 149  Section 46
-
-Omit “Medicare Australia CEO” (wherever occurring), substitute “Chief Executive Medicare”.
-
-As at 30 May 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2835,9 +2674,13 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
 
-_Health and Other Services (Compensation) Legislation Amendment Act 2001 (No. 150, 2001)_
+ </div>
+
+_Health and Other Services (Compensation) Legislation Amendment Act 2001 
+(No. 150, 2001)
+_
 
 ## Schedule 1
 
@@ -2851,15 +2694,17 @@ The amendments made by this Schedule apply to a claim for compensation made:
 
 ## 43  Transitional
 
-(1)       The new provisions operate in relation to a notice, statement or application made under the old provisions before the commencement of this item as if the notice, statement or application had been made under the new provisions.
+(1)        The new provisions operate in relation to a notice, statement or application made under the old provisions before the commencement of this item as if the notice, statement or application had been made under the new provisions.
 
-(2)       In this item:
+(2)        In this item:
 
 **_new provisions_** means sections 23B, 23C and 23D of the _Health and Other Services (Compensation) Act 1995_ (as amended by this Schedule).
 
 **_old provisions_** means sections 33E, 33F and 33G of the _Health and Other Services (Compensation) Act 1995_ (as in force before the commencement of this item).
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Health Legislation Amendment Act (No. 1) 2003 (No. 84, 2003)_
 
@@ -2869,15 +2714,19 @@ _Health Legislation Amendment Act (No. 1) 2003 (No. 84, 2003)_
 
 The amendments made by this Part apply in relation to an amount of compensation fixed by a judgment or settlement if the judgment or settlement is made after the day this item commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Health and Other Services (Compensation) Amendment Act 2006 
- (No. 43, 2006)_
+(No. 43, 2006)
+_
 
 ## Schedule 1
 
 ## 3  Application of amendment of paragraph 17(6)(a)
 
 The amendment of paragraph 17(6)(a) of the _Health and Other Services (Compensation) Act 1995_ made by this Schedule applies in relation to requests made on or after the commencement of this item.
+
 
  
