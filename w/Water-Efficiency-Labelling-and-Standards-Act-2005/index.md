@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00143/Html/bdfe704c-6fb7-4364-a2ed-78203e42d1dd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00706/Html/WaterEfficLabelStand2005_WD02_image001.gif)
 
 # Water Efficiency Labelling and Standards Act 2005
 
 **Act No. 4 of 2005 as amended**
 
-This compilation was prepared on 24 March 2011
- taking into account amendments up to Act No. 6 of 2011
+This compilation was prepared on 13 December 2006
+ taking into account amendments up to Act No. 164 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,217 +14,217 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Objects of Act
+[3](#3).            Objects of Act                                                                                     1
 
-[4](#4).            Act to bind the Crown
+[4](#4).            Act to bind the Crown                                                                         2
 
-[5](#5).            External Territories
+[5](#5).            External Territories                                                                              2
 
 **Part 2—Interpretation**
 
-[6](#6).            Application of the _Criminal Code_
+[6](#6).            Application of the _Criminal Code_                                                       3
 
-[7](#7).            Definitions
+[7](#7).            Definitions                                                                                           3
 
 **Part 3—National WELS scheme**
 
-[8](#8).            WELS scheme to be a national cooperative scheme
+[8](#8).            WELS scheme to be a national cooperative scheme                            6
 
-[9](#9).            Application of this Act
+[9](#9).            Application of this Act                                                                       6
 
-[10](#10).          Relationship between this Act and other Commonwealth laws
+[10](#10).          Relationship between this Act and other Commonwealth laws          6
 
-[11](#11).          State and Territory laws may operate concurrently
+[11](#11).          State and Territory laws may operate concurrently                            6
 
-[12](#12).          Meaning of _corresponding State‑Territory law_
+[12](#12).          Meaning of _corresponding State-Territory law_                                   7
 
-[13](#13).          Commonwealth consent to conferral of functions etc  on the Regulator or inspectors by corresponding State‑Territory laws
+[13](#13).          Commonwealth consent to conferral of functions etc  on the Regulator or inspectors by corresponding State-Territory laws                                                                                                      7
 
-[14](#14).          How duty is imposed by corresponding State‑Territory laws
+[14](#14).          How duty is imposed by corresponding State-Territory laws           8
 
-[15](#15).          When a corresponding State‑Territory law imposes a duty
+[15](#15).          When a corresponding State-Territory law imposes a duty                9
 
-[16](#16).          No doubling‑up of liabilities
+[16](#16).          No doubling-up of liabilities                                                                9
 
-[17](#17).          Review of decisions under corresponding State‑Territory laws
+[17](#17).          Review of decisions under corresponding State-Territory laws          9
 
 **Part 4—WELS products and WELS standards**
 
-[18](#18).          WELS products
+[18](#18).          WELS products                                                                                 11
 
-[19](#19).          WELS standards
+[19](#19).          WELS standards                                                                                11
 
-[20](#20).          Meaning of _WELS‑labelled_
+[20](#20).          Meaning of _WELS-labelled_                                                                12
 
 **Part 5—The WELS Regulator**
 
-[21](#21).          The Regulator
+[21](#21).          The Regulator                                                                                    13
 
-[22](#22).          Functions of the Regulator
+[22](#22).          Functions of the Regulator                                                                13
 
-[23](#23).          Powers of the Regulator
+[23](#23).          Powers of the Regulator                                                                    13
 
-[24](#24).          Arrangements with other agencies
+[24](#24).          Arrangements with other agencies                                                     14
 
-[25](#25).          Delegation
+[25](#25).          Delegation                                                                                          14
 
 **Part 6—Registration of WELS products**
 
-[26](#26).          Applying for registration
+[26](#26).          Applying for registration                                                                   15
 
-[27](#27).          Documentation etc  to be provided with application for registration
+[27](#27).          Documentation etc  to be provided with application for registration 15
 
-[28](#28).          Registration of products
+[28](#28).          Registration of products                                                                    16
 
-[29](#29).          Grounds for refusing to register
+[29](#29).          Grounds for refusing to register                                                         16
 
-[30](#30).          Period of registration
+[30](#30).          Period of registration                                                                         16
 
-[31](#31).          Cancelling or suspending registration
+[31](#31).          Cancelling or suspending registration                                                17
 
 **Part 7—Offences relating to the supply of WELS products** 
 
     **Division 1—Applicable WELS standards**
 
-[32](#32).          Meaning of _applicable WELS standard_
+[32](#32).          Meaning of _applicable WELS standard_                                             19
 
     **Division 2—Registration and labelling**
 
-[33](#33).          Registration requirement
+[33](#33).          Registration requirement                                                                    20
 
-[34](#34).          Labelling registered products
+[34](#34).          Labelling registered products                                                             20
 
     **Division 3—Minimum efficiency and performance requirements**
 
-[35](#35).          Minimum water efficiency—products required to be registered
+[35](#35).          Minimum water efficiency—products required to be registered       21
 
-[36](#36).          Minimum general performance—products required to be registered
+[36](#36).          Minimum general performance—products required to be registered 21
 
     **Division 4—Misuse of WELS standards etc.**
 
-[37](#37).          Misuse of WELS standards and information
+[37](#37).          Misuse of WELS standards and information                                     22
 
-[38](#38).          Information inconsistent with WELS standards
+[38](#38).          Information inconsistent with WELS standards                                22
 
-[39](#39).          Using information in the supply of products
+[39](#39).          Using information in the supply of products                                    22
 
 **Part 8—Other enforcement** 
 
     **Division 1—Infringement notices**
 
-[40](#40).          Infringement notices
+[40](#40).          Infringement notices                                                                          24
 
     **Division 2—Publicising offences**
 
-[41](#41).          Regulator may publicise offences
+[41](#41).          Regulator may publicise offences                                                      25
 
     **Division 3—Enforceable undertakings**
 
-[42](#42).          Acceptance of undertakings
+[42](#42).          Acceptance of undertakings                                                               26
 
-[43](#43).          Enforcement of undertakings
+[43](#43).          Enforcement of undertakings                                                             26
 
     **Division 4—Injunctions**
 
-[44](#44).          Injunctions
+[44](#44).          Injunctions                                                                                         27
 
 **Part 9—WELS inspectors** 
 
     **Division 1—Appointment of WELS inspectors**
 
-[45](#45).          Regulator may appoint WELS inspectors
+[45](#45).          Regulator may appoint WELS inspectors                                         29
 
-[46](#46).          Identity cards
+[46](#46).          Identity cards                                                                                     29
 
     **Division 2—Powers of WELS inspectors**
 
-[47](#47).          Purposes for which powers can be used
+[47](#47).          Purposes for which powers can be used                                           31
 
-[48](#48).          Inspection powers—public areas of WELS business premises
+[48](#48).          Inspection powers—public areas of WELS business premises        31
 
-[49](#49).          Inspection powers—with consent
+[49](#49).          Inspection powers—with consent                                                    31
 
-[50](#50).          Refusing consent is not an offence
+[50](#50).          Refusing consent is not an offence                                                    32
 
-[51](#51).          Inspection powers—with warrant
+[51](#51).          Inspection powers—with warrant                                                    32
 
-[52](#52).          Announcement before entry under warrant
+[52](#52).          Announcement before entry under warrant                                       33
 
-[53](#53).          Copy of warrant to be given to occupier
+[53](#53).          Copy of warrant to be given to occupier                                           33
 
-[54](#54).          Occupier must provide inspector with facilities and assistance
+[54](#54).          Occupier must provide inspector with facilities and assistance        33
 
-[55](#55).          Seizing or securing evidential material
+[55](#55).          Seizing or securing evidential material                                               34
 
-[56](#56).          Holding evidential material for more than 90 days
+[56](#56).          Holding evidential material for more than 90 days                            34
 
-[57](#57).          Returning evidential material
+[57](#57).          Returning evidential material                                                             35
 
     **Division 3—Applying for warrants to enter WELS premises**
 
-[58](#58).          Ordinary warrants
+[58](#58).          Ordinary warrants                                                                             36
 
-[59](#59).          Warrants by telephone, fax etc 
+[59](#59).          Warrants by telephone, fax etc                                                          37
 
     **Division 4—Giving WELS information to WELS inspectors**
 
-[60](#60).          Meaning of _person who has_ _WELS information_
+[60](#60).          Meaning of _person who has_ _WELS information_                                39
 
-[61](#61).          Regulator may require a person to provide information
+[61](#61).          Regulator may require a person to provide information                    39
 
-[62](#62).          Regulator may require a person to appear before a WELS inspector
+[62](#62).          Regulator may require a person to appear before a WELS inspector 39
 
-    **Division 5—Privilege against self‑incrimination**
+    **Division 5—Privilege against self-incrimination**
 
-[63](#63).          Privilege against self‑incrimination not affected
+[63](#63).          Privilege against self-incrimination not affected                                41
 
 **Part 10—Money** 
 
     **Division 1—The WELS Account**
 
-[64](#64).          WELS Account
+[64](#64).          WELS Account                                                                                  42
 
-[65](#65).          Credits to the WELS Account
+[65](#65).          Credits to the WELS Account                                                           42
 
-[66](#66).          Purpose of the WELS Account
+[66](#66).          Purpose of the WELS Account                                                         42
 
     **Division 2—Charging fees etc.**
 
-[67](#67).          Regulator may charge for services
+[67](#67).          Regulator may charge for services                                                     43
 
-[68](#68).          Recovery of amounts
+[68](#68).          Recovery of amounts                                                                         43
 
 **Part 11—Review of decisions**
 
-[69](#69).          Meaning of _reviewable decision_ and _affected person_
+[69](#69).          Meaning of _reviewable decision_ and _affected person_                         44
 
-[70](#70).          Notification of decisions and review rights
+[70](#70).          Notification of decisions and review rights                                       44
 
-[71](#71).          Internal review
+[71](#71).          Internal review                                                                                   44
 
-[72](#72).          Review of decisions by Administrative Appeals Tribunal
+[72](#72).          Review of decisions by Administrative Appeals Tribunal               45
 
 **Part 12—Miscellaneous**
 
-[73](#73).          Compensation for damage to electronic equipment
+[73](#73).          Compensation for damage to electronic equipment                           46
 
-[74](#74).          Compensation for acquisition of property
+[74](#74).          Compensation for acquisition of property                                        46
 
-[75](#75).          Annual report
+[75](#75).          Annual report                                                                                    47
 
-[76](#76).          Review of operation of WELS scheme
+[76](#76).          Review of operation of WELS scheme                                              47
 
-[77](#77).          Regulations
+[77](#77).          Regulations                                                                                        48
 
 **Notes** 
 
@@ -324,9 +324,9 @@ Note:          This table relates only to the provisions of th
 
                      (a)  to conserve water supplies by reducing water consumption;
 
-                     (b)  to provide information for purchasers of water‑use and water‑saving products;
+                     (b)  to provide information for purchasers of water-use and water-saving products;
 
-                     (c)  to promote the adoption of efficient and effective water‑use and water‑saving technologies.
+                     (c)  to promote the adoption of efficient and effective water-use and water-saving technologies.
 
 ##### <a id="4"></a>4  Act to bind the Crown
 
@@ -374,7 +374,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="commonwealth-secretari"></a>**_Commonwealth Secretary_** means the Secretary of the Department of State of the Commonwealth that deals with the matters to which this Act relates.
 
-                    <a name="correspond-state-territori-law"></a>**_corresponding State‑Territory law_** has the meaning given by section 12.
+                    <a name="correspond-state-territori-law"></a>**_corresponding State-Territory law_** has the meaning given by section 12.
 
                     <a name="damag"></a>**_damage_**, in relation to data, includes damage by erasure of data or addition of other data.
 
@@ -408,7 +408,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="review-decision"></a>**_reviewable decision_** has the meaning given by subsection 69(1).
 
-                    <a name="review-state-territori-decision"></a>**_reviewable State‑Territory decision_** has the meaning given by subsection 17(2).
+                    <a name="review-state-territori-decision"></a>**_reviewable State-Territory decision_** has the meaning given by subsection 17(2).
 
                     <a name="statutori-agenc"></a>**_Statutory Agency_** has the same meaning as in the _Public Service Act 1999_.
 
@@ -418,13 +418,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  offer to supply for consideration.
 
-                    <a name="water-save-product"></a>**_water‑saving product_** means a device, appliance or fitting that:
+                    <a name="water-save-product"></a>**_water-saving product_** means a device, appliance or fitting that:
 
-                     (a)  is not a water‑use product; and
+                     (a)  is not a water-use product; and
 
-                     (b)  is designed to operate in place of a water‑use product.
+                     (b)  is designed to operate in place of a water-use product.
 
-                    <a name="water-us-product"></a>**_water‑use product_** means a device, appliance or fitting through which, or into which, water flows as part of its normal operation.
+                    <a name="water-us-product"></a>**_water-use product_** means a device, appliance or fitting through which, or into which, water flows as part of its normal operation.
 
                     <a name="wel-account"></a>**_WELS Account_** means the Special Account established by subsection 64(1).
 
@@ -432,13 +432,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="wel-inspector"></a>**_WELS inspector_** means a person appointed under subsection 45(1).
 
-                    <a name="wel-label"></a>**_WELS‑labelled_** has the meaning given by subsection 20(1).
+                    <a name="wel-label"></a>**_WELS-labelled_** has the meaning given by subsection 20(1).
 
                     <a name="wel-premis"></a>**_WELS premises_** means premises used for, or in connection with, the supply of one or more WELS products.
 
                     <a name="wel-product"></a>**_WELS product_** has the meaning given by subsection 18(1).
 
-                    <a name="wel-scheme"></a>**_WELS scheme_** means the water efficiency labelling and standards scheme established by this Act and corresponding State‑Territory laws.
+                    <a name="wel-scheme"></a>**_WELS scheme_** means the water efficiency labelling and standards scheme established by this Act and corresponding State-Territory laws.
 
                     <a name="wel-standard"></a>**_WELS standard_** has the meaning given by section 19.
 
@@ -476,9 +476,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    This Act is not intended to exclude or limit the operation of a law of a State or Territory to the extent that the law is capable of operating concurrently with this Act.
 
-##### <a id="12"></a>12  Meaning of _corresponding State‑Territory law_
+##### <a id="12"></a>12  Meaning of _corresponding State-Territory law_
 
-             (1)  For the purposes of this Act, **_corresponding State‑Territory law_** means a law of a State or Territory:
+             (1)  For the purposes of this Act, **_corresponding State-Territory law_** means a law of a State or Territory:
 
                      (a)  whose operation involves the use of determinations made under section 18 of this Act; and
 
@@ -488,29 +488,29 @@ and includes such a law as amended from time to time.
 
              (2)  A declaration under paragraph (1)(b) is a legislative instrument for the purposes of the _Legislative Instruments Act 2003_ but neither section 42 of that Act nor Part 6 of that Act applies to the instrument.
 
-##### <a id="13"></a>13  Commonwealth consent to conferral of functions etc. on the Regulator or inspectors by corresponding State‑Territory laws
+##### <a id="13"></a>13  Commonwealth consent to conferral of functions etc. on the Regulator or inspectors by corresponding State-Territory laws
 
-             (1)  A corresponding State‑Territory law may confer functions or powers, or impose duties, on the Regulator.
+             (1)  A corresponding State-Territory law may confer functions or powers, or impose duties, on the Regulator.
 
 Note:          Section 15 sets out when such a law imposes a duty on the Regulator.
 
-             (2)  A corresponding State‑Territory law may confer functions or powers, or impose duties, on WELS inspectors.
+             (2)  A corresponding State-Territory law may confer functions or powers, or impose duties, on WELS inspectors.
 
 Note:          Section 15 sets out when such a law imposes a duty on WELS inspectors.
 
-             (3)  Subsections (1) and (2) do not authorise the conferral of a function or power, or the imposition of a duty, by a corresponding State‑Territory law to the extent to which:
+             (3)  Subsections (1) and (2) do not authorise the conferral of a function or power, or the imposition of a duty, by a corresponding State-Territory law to the extent to which:
 
                      (a)  the conferral or imposition, or the authorisation, would contravene any constitutional doctrines restricting the duties that may be imposed on the Regulator or WELS inspectors; or
 
                      (b)  the authorisation would otherwise exceed the legislative power of the Commonwealth.
 
-             (4)  The Regulator or a WELS inspector cannot perform a duty or function, or exercise a power, under a corresponding State‑Territory law unless the conferral of the function or power, or the imposition of the duty, is in accordance with an agreement between the Commonwealth and the State or Territory concerned.
+             (4)  The Regulator or a WELS inspector cannot perform a duty or function, or exercise a power, under a corresponding State-Territory law unless the conferral of the function or power, or the imposition of the duty, is in accordance with an agreement between the Commonwealth and the State or Territory concerned.
 
-##### <a id="14"></a>14  How duty is imposed by corresponding State‑Territory laws
+##### <a id="14"></a>14  How duty is imposed by corresponding State-Territory laws
 
 Application
 
-             (1)  This section applies if a corresponding State‑Territory law purports to impose a duty on the Regulator or WELS inspectors.
+             (1)  This section applies if a corresponding State-Territory law purports to impose a duty on the Regulator or WELS inspectors.
 
 Note:          Section 15 sets out when such a law imposes a duty on the Regulator or WELS inspectors.
 
@@ -538,15 +538,15 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
              (6)  Subsections (1) to (5) do not limit section 13.
 
-##### <a id="15"></a>15  When a corresponding State‑Territory law imposes a duty
+##### <a id="15"></a>15  When a corresponding State-Territory law imposes a duty
 
-                   For the purposes of sections 13 and 14, a corresponding State‑Territory law **_imposes a duty_** on the Regulator or WELS inspectors if:
+                   For the purposes of sections 13 and 14, a corresponding State-Territory law **_imposes a duty_** on the Regulator or WELS inspectors if:
 
                      (a)  the law confers a function or power on the Regulator or WELS inspectors; and
 
                      (b)  the circumstances in which the function or power is conferred give rise to an obligation on the Regulator or WELS inspectors to perform the function or to exercise the power.
 
-##### <a id="16"></a>16  No doubling‑up of liabilities
+##### <a id="16"></a>16  No doubling-up of liabilities
 
              (1)  If:
 
@@ -558,23 +558,23 @@ the offender is not liable to be punished for the offence under this Act.
 
              (2)  If a person has paid, or been ordered to pay, a pecuniary penalty under a law of a State or Territory, the person is not liable to a pecuniary penalty under this Act in respect of the same conduct.
 
-##### <a id="17"></a>17  Review of decisions under corresponding State‑Territory laws
+##### <a id="17"></a>17  Review of decisions under corresponding State-Territory laws
 
-             (1)  Application may be made to the Administrative Appeals Tribunal for review of a reviewable State‑Territory decision.
+             (1)  Application may be made to the Administrative Appeals Tribunal for review of a reviewable State-Territory decision.
 
-             (2)  A decision made by the Regulator in the performance of a function or the exercise of a power conferred by a corresponding State‑Territory law is a **_reviewable State‑Territory decision_** for the purposes of this section if:
+             (2)  A decision made by the Regulator in the performance of a function or the exercise of a power conferred by a corresponding State-Territory law is a **_reviewable State-Territory decision_** for the purposes of this section if:
 
                      (a)  the law under which the decision was made provides for review by the Administrative Appeals Tribunal; and
 
-                     (b)  the decision is declared by the regulations to be a reviewable State‑Territory decision for the purposes of this section.
+                     (b)  the decision is declared by the regulations to be a reviewable State-Territory decision for the purposes of this section.
 
-             (3)  For the purposes of this section, the _Administrative Appeals Tribunal Act 1975_ has effect as if a corresponding State‑Territory law were an enactment.
+             (3)  For the purposes of this section, the _Administrative Appeals Tribunal Act 1975_ has effect as if a corresponding State-Territory law were an enactment.
 
 ## Part 4—WELS products and WELS standards
 
 ##### <a id="18"></a>18  WELS products
 
-             (1)  The Commonwealth Minister may, by writing and in accordance with subsection (4), determine that water‑use or water‑saving products of a specified kind are **_WELS products_**.
+             (1)  The Commonwealth Minister may, by writing and in accordance with subsection (4), determine that water-use or water-saving products of a specified kind are **_WELS products_**.
 
              (2)  A determination under subsection (1) must set out, or incorporate by reference, the WELS standard for the products.
 
@@ -582,7 +582,7 @@ the offender is not liable to be punished for the offence under this Act.
 
              (4)  Before making a determination under subsection (1), the Commonwealth Minister must have agreement to the terms of the determination from a majority of the participating States and Territories.
 
-             (5)  A State or Territory is a **_participating State or Territory_** if there is a corresponding State‑Territory law for the State or Territory.
+             (5)  A State or Territory is a **_participating State or Territory_** if there is a corresponding State-Territory law for the State or Territory.
 
 ##### <a id="19"></a>19  WELS standards
 
@@ -604,17 +604,11 @@ the offender is not liable to be punished for the offence under this Act.
 
                      (b)  that the products comply with specified minimum general performance requirements for the purposes of specified supplies of the product.
 
-          (3A)  If the WELS standard requires or permits the products to be registered, the **_WELS standard_** may require either or both of the following:
+             (4)  The **_WELS standard_** may require products that are registered (whether required to be registered or not) to be WELS-labelled for the purposes of specified supplies of the product.
 
-                     (a)  that the products comply with requirements relating to plumbing that are contained in a specified document, as in force from time to time (including the Plumbing Code of Australia, or an Act or regulations made by a State or Territory, for example);
+##### <a id="20"></a>20  Meaning of _WELS-labelled_
 
-                     (b)  that a specified type of person or body certifies that the products comply with requirements relating to plumbing that are contained in a specified document, as in force from time to time (including the Plumbing Code of Australia, or an Act or regulations made by a State or Territory, for example).
-
-             (4)  The **_WELS standard_** may require products that are registered (whether required to be registered or not) to be WELS‑labelled for the purposes of specified supplies of the product.
-
-##### <a id="20"></a>20  Meaning of _WELS‑labelled_
-
-             (1)  A product is **_WELS‑labelled_** if it is labelled in accordance with requirements set out in the WELS standard for products of that kind.
+             (1)  A product is **_WELS-labelled_** if it is labelled in accordance with requirements set out in the WELS standard for products of that kind.
 
              (2)  Such requirements may relate to one or more of the following:
 
@@ -636,9 +630,9 @@ the offender is not liable to be punished for the offence under this Act.
 
                      (a)  to administer the WELS scheme;
 
-                     (b)  to undertake or commission research in relation to water‑use and water‑saving products;
+                     (b)  to undertake or commission research in relation to water-use and water-saving products;
 
-                     (c)  to provide advice in relation to determining that water‑use or water‑saving products are WELS products;
+                     (c)  to provide advice in relation to determining that water-use or water-saving products are WELS products;
 
                      (d)  to undertake or commission research in relation to WELS standards;
 
@@ -676,7 +670,7 @@ the offender is not liable to be punished for the offence under this Act.
 
                      (b)  an officer or employee of an agency of a State or Territory.
 
-             (2)  The Regulator may, by writing, delegate one or more of the Regulator’s powers or functions under a corresponding State‑Territory law to one or more of the following:
+             (2)  The Regulator may, by writing, delegate one or more of the Regulator’s powers or functions under a corresponding State-Territory law to one or more of the following:
 
                      (a)  an officer or employee of an agency of the Commonwealth;
 
@@ -694,7 +688,7 @@ the offender is not liable to be punished for the offence under this Act.
 
 Note 1:       A WELS standard may require products to be registered for the purposes of specified supplies: see subsection 19(2). It is an offence to supply an unregistered product if the product is required to be registered for the purposes of the supply: see section 33.
 
-                   However, WELS products can be registered even if registration is not required, but, once a product is registered, WELS‑labelling requirements may apply: see subsection 19(4). It is an offence to supply a product that is not WELS‑labelled if WELS‑labelling requirements apply: see section 34.
+                   However, WELS products can be registered even if registration is not required, but, once a product is registered, WELS-labelling requirements may apply: see subsection 19(4). It is an offence to supply a product that is not WELS-labelled if WELS-labelling requirements apply: see section 34.
 
 Note 2:       Part 7.4 of the _Criminal Code_ provides offences in relation to false or misleading statements.
 
@@ -740,11 +734,7 @@ the Regulator is taken to have refused to register the product.
 
                      (b)  the Regulator is not satisfied that all of the information provided in the application is accurate; or
 
-                     (c)  the product does not satisfy:
-
-                              (i)  a minimum water efficiency or minimum general performance requirement that the product is required to satisfy by the WELS standard for products of that kind; or
-
-                             (ii)  a requirement under subsection 19(3A).
+                     (c)  the product does not satisfy a minimum water efficiency or minimum general performance requirement that the product is required to satisfy by the WELS standard for products of that kind.
 
 ##### <a id="30"></a>30  Period of registration
 
@@ -824,9 +814,9 @@ the product remains registered under the first WELS standard until the first of 
 
                      (b)  the product is registered; and
 
-                     (c)  the applicable WELS standard requires registered products to be WELS‑labelled for the purposes of the supply; and
+                     (c)  the applicable WELS standard requires registered products to be WELS-labelled for the purposes of the supply; and
 
-                     (d)  the product is not WELS‑labelled.
+                     (d)  the product is not WELS-labelled.
 
                     Penalty:  60 penalty units.
 
@@ -924,7 +914,7 @@ Note:          Section 39 sets out circumstances in which in
 
              (1)  The regulations may provide for a person who is alleged to have committed an offence against Part 7 to pay a penalty to the Commonwealth as an alternative to prosecution.
 
-             (2)  The penalty must not exceed one‑fifth of the maximum fine that a court could impose on the person as a penalty for that offence.
+             (2)  The penalty must not exceed one-fifth of the maximum fine that a court could impose on the person as a penalty for that offence.
 
 ### Division 2—Publicising offences
 
@@ -1344,9 +1334,9 @@ The time must not be earlier than 14 days after the notice is given.
 
                     Penalty:  Imprisonment for 6 months.
 
-### Division 5—Privilege against self‑incrimination
+### Division 5—Privilege against self-incrimination
 
-##### <a id="63"></a>63  Privilege against self‑incrimination not affected
+##### <a id="63"></a>63  Privilege against self-incrimination not affected
 
                    Nothing in this Part affects the right of a person to refuse to answer a question, give information, or produce a document, on the ground that the answer to the question, the information, or the production of the document, might tend to incriminate him or her or make him or her liable to a penalty.
 
@@ -1366,7 +1356,7 @@ The time must not be earlier than 14 days after the notice is given.
 
                      (a)  amounts equal to amounts received by the Commonwealth from the States and Territories for the purposes of the WELS scheme;
 
-                     (b)  amounts equal to amounts received by the Commonwealth in connection with the performance of the Regulator’s functions under this Act, the regulations or a corresponding State‑Territory law;
+                     (b)  amounts equal to amounts received by the Commonwealth in connection with the performance of the Regulator’s functions under this Act, the regulations or a corresponding State-Territory law;
 
                      (c)  amounts equal to income received by the Commonwealth from the investment of money from the Account;
 
@@ -1382,7 +1372,7 @@ Note:          An Appropriation Act provides for amounts to be
 
                      (a)  to further the objects of this Act (as set out in section 3); and
 
-                     (b)  otherwise in connection with the performance of the Regulator’s functions under this Act, the regulations or a corresponding State‑Territory law.
+                     (b)  otherwise in connection with the performance of the Regulator’s functions under this Act, the regulations or a corresponding State-Territory law.
 
 ### Division 2—Charging fees etc.
 
@@ -1394,7 +1384,7 @@ Note:          An Appropriation Act provides for amounts to be
 
                    The following amounts may be recovered in a court of competent jurisdiction as debts due to the Commonwealth:
 
-                     (a)  fees payable to the Commonwealth under this Act, the regulations or a corresponding State‑Territory law;
+                     (a)  fees payable to the Commonwealth under this Act, the regulations or a corresponding State-Territory law;
 
                      (b)  amounts payable to the Commonwealth in connection with the performance of the Regulator’s functions.
 
@@ -1524,7 +1514,7 @@ then the Commonwealth is liable to pay compensation of a reasonable amount to th
 
 ##### <a id="77"></a>77  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1605,24 +1595,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 2 (item 1): <i>(a)</i> 
 Schedule 2 (item 2): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Water Efficiency Labelling and Standards Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>6, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 23 Mar 2011 
-Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1770,30 +1742,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Environment and Heritage Legislation Am
   <td>
     <div>am. No. 164, 2006</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 6, 2011</div>
-  </td>
 </tr></table>
 
  
+* * *
