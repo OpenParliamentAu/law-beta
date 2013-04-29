@@ -1,17 +1,8 @@
-![](http://www.comlaw.gov.au/Details/C2004C02687/Html/ChildCare72_image001.gif)
-
 # Child Care Act 1972 
 
-**Act No.  121 of 1972 as amended**
+REPRINT No. 4
 
-Consolidated as in force on 8 April 1998
-
-(includes amendments up to Act No. 196 of 1997)
-
-This Act has uncommenced amendments. For uncommenced amendments see the endnotes.
-
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+Consolidated to 13 November 1997
 
 # Contents
 
@@ -21,11 +12,11 @@ Prepared by the Office of Legislative Drafting,
 
 [2](#2).               Commencement [_see_ Note 1]                                                                 
 
-[4](#4).               Interpretation [_see_ Note 2]                                                                    
+[4](#4).               Interpretation                                                                                         
 
 [4A](#4A).            Child care centres                                                                                   
 
-[4B](#4B).            Eligible child care centres [_see_ Note 2]                                                   
+[4B](#4B).            Eligible child care centres                                                                       
 
 [4C](#4C).            Guidelines for eligible child care centres                                                
 
@@ -51,15 +42,15 @@ Prepared by the Office of Legislative Drafting,
 
 [12](#12).             Grants in relation to establishment of new eligible child care centres    
 
-[12A](#12A).          Grants for fee relief [_see_ Note 2]                                                           
+[12A](#12A).          Grants for fee relief                                                                                
 
-[12B](#12B).          Provision of a persons’s tax file number [_see_ Note 2]                           
+[12B](#12B).          Provision of a persons’s tax file number                                                
 
-[12C](#12C).          Provision of partner’s tax file number [_see_ Note 2]                               
+[12C](#12C).          Provision of partner’s tax file number                                                   
 
-[12D](#12D).          Social Security Secretary may request person who would benefit from fee relief to give statement of person’s tax file number [_see_ Note 2]                                                                             
+[12D](#12D).          Social Security Secretary may request person who would benefit from fee relief to give statement of person’s tax file number                                                                                                 
 
-[12E](#12E).           Social Security Secretary may request person who would benefit from fee relief to give statement of partner’s tax file number [_see_ Note 2]                                                                             
+[12E](#12E).           Social Security Secretary may request person who would benefit from fee relief to give statement of partner’s tax file number                                                                                                 
 
 **Part IV—Research Grants**
 
@@ -111,9 +102,9 @@ Prepared by the Office of Legislative Drafting,
 
 [25](#25).             Regulations                                                                                           
 
-#  
+# 
 
-## An Act to provide for assistance by the Commonwealth in respect of places where children all or the majority of whom are under school age may be cared for, in respect of the development of such places and in respect of research in connection with the care of children, and for related purposes 
+## An Act to provide for assistance by the Commonwealth in respect of places where children all or the majority of whom are under school age may be cared for, in respect of the development of such places and in respect of research in connection with the care of children, and for related purposes  
 
 **Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
 
@@ -123,13 +114,13 @@ Prepared by the Office of Legislative Drafting,
 
 ##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
-This Act may be cited as the _Child Care Act 1972_. 
+This Act may be cited as the _Child Care Act 1972_.  
 
 ##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 1]</span>
 
-This Act shall come into operation on the day on which it receives the Royal Assent. 
+This Act shall come into operation on the day on which it receives the Royal Assent.  
 
-##### <a id="4"></a>4  Interpretation [_see_ Note 2]
+##### <a id="4"></a>4  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
 
@@ -161,11 +152,11 @@ This Act shall come into operation on the day on which it receives the Royal Ass
 
                     <a name="place"></a>**_place_** includes a proposed place.
 
-                    <a name="quarter"></a>**_quarter_** means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October in any year.
+                    <a name="quarter"></a>**_quarter_** means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October in any year.
 
                     <a name="social-secur-secretari"></a>**_Social Security Secretary_** means the Secretary to the Department of Social Security.
 
-##### <a id="4A"></a>4A  Child care centres
+##### <a id="4A"></a>4A  Child care centres
 
              (1)   Subject to subsection (2), a child care centre is a place:
 
@@ -189,7 +180,7 @@ This Act shall come into operation on the day on which it receives the Royal Ass
 
              (2)  For the purposes of Part IVA, a place is a child care centre whether or not all or the majority of the children for whom child care is provided at the place attend the place on a regular basis.
 
-##### <a id="4B"></a>4B  Eligible child care centres [_see_ Note 2]
+##### <a id="4B"></a>4B  Eligible child care centres
 
              (1)  For the purposes of this Act (other than section 12A), a child care centre is an eligible child care centre if:
 
@@ -219,7 +210,7 @@ This Act shall come into operation on the day on which it receives the Royal Ass
 
              (1)  The Minister may make guidelines, not inconsistent with this Act, with respect to the exercise of any of the Minister’s powers under section 4B.
 
-             (2)  A guideline is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+             (2)  A guideline is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ## Part II—Capital Grants  
 
@@ -275,7 +266,7 @@ In this Division, unless the contrary intention appears:
 
                     <a name="approved-equip"></a>**_approved equipment_** means equipment approved under section 9 or equipment included in a class of equipment approved under that section.
 
-                    <a name="cost"></a>**_cost_**, in relation to the acquisition by the operator of an eligible child care centre of approved equipment, means the sum of the amounts that the Minister is satisfied is the cost of acquiring the equipment and such amount (if any) in respect of altering, adding to or installing the equipment as the Minister determines.  
+                    <a name="cost"></a>**_cost_**, in relation to the acquisition by the operator of an eligible child care centre of approved equipment, means the sum of the amounts that the Minister is satisfied is the cost of acquiring the equipment and such amount (if any) in respect of altering, adding to or installing the equipment as the Minister determines.  
 
 ##### <a id="9"></a>9  Approval of equipment
 
@@ -293,11 +284,11 @@ The Minister may, on behalf of the Commonwealth, approve the making of a grant t
 
              (1)  Where, at any time during the 6 weeks immediately before an eligible child care centre first begins to provide child care, a person is employed by the operator of the centre to establish it, the Minister may, on behalf of the Commonwealth, approve the making of a grant to the operator of an amount not exceeding the amount of the salary or wages paid to the person in respect of that period by the operator.  
 
-             (2)  The Minister may authorize the payment to the operator of an eligible child care centre of an advance or advances in respect of a grant that may become payable to the operator under subsection (1). 
+             (2)  The Minister may authorize the payment to the operator of an eligible child care centre of an advance or advances in respect of a grant that may become payable to the operator under subsection (1).  
 
-             (3)  In this section **_salary or wages_** in relation to a person referred to in subsection (1), means salary or wages at the rate fixed by an award, order, determination or agreement made, or having effect under, a law of the Commonwealth, of a State or of a Territory, or if no such rate is applicable, the rate of salary or wages determined by the Minister. 
+             (3)  In this section **_salary or wages_** in relation to a person referred to in subsection (1), means salary or wages at the rate fixed by an award, order, determination or agreement made, or having effect under, a law of the Commonwealth, of a State or of a Territory, or if no such rate is applicable, the rate of salary or wages determined by the Minister.  
 
-##### <a id="12A"></a>12A  Grants for fee relief [_see_ Note 2]
+##### <a id="12A"></a>12A  Grants for fee relief
 
              (1)  The Minister may, at any time, by writing signed by the Minister:
 
@@ -309,13 +300,13 @@ The Minister may, on behalf of the Commonwealth, approve the making of a grant t
 
                      (b)  vary guidelines specified by the Minister under this subsection (including guidelines varied by virtue of a previous application or previous applications of this paragraph); and
 
-                     (c)  revoke guidelines specified by the Minister under this subsection (including guidelines varied by virtue of a previous application or previous applications of paragraph (b)). 
+                     (c)  revoke guidelines specified by the Minister under this subsection (including guidelines varied by virtue of a previous application or previous applications of paragraph (b)).  
 
              (2)  Where the operator of an eligible child care centre provides child care for a child who is identified as a child in economic need, the Minister may, on behalf of the Commonwealth, approve the making of a grant to the operator to enable the operator to allow fee relief for the child in relation to a particular period.
 
-             (3)  A guideline is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. 
+             (3)  A guideline is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.  
 
-##### <a id="12B"></a>12B  Provision of a persons’s tax file number [_see_ Note 2]
+##### <a id="12B"></a>12B  Provision of a persons’s tax file number
 
              (1)  The operator of an approved child care service may not allow fee relief for a child, to a person who is a fee relief beneficiary in relation to the child, from a grant if:
 
@@ -377,7 +368,7 @@ the person is not to be given an assessment of entitlement to fee relief for the
 
                      (e)  the application for a tax file number has not been withdrawn.
 
-##### <a id="12C"></a>12C  Provision of partner’s tax file number [_see_ Note 2]
+##### <a id="12C"></a>12C  Provision of partner’s tax file number
 
              (1)  Subject to subsection (5), the operator of an approved child care service may not allow fee relief for a child, to a person who is a fee relief beneficiary in relation to the child, from a grant if:
 
@@ -411,7 +402,7 @@ the person is not to be given an assessment of entitlement to fee relief for the
 
                              (ii)  if the partner has a tax file number—the tax file number;  and
 
-                     (c)  the Commissioner of Taxation has not told the Social Security Secretary that the partner has no tax file number.
+                     (c)  the Commissioner of Taxation has not told the Social Security  Secretary that the partner has no tax file number.
 
              (4)  A person satisfies this subsection if:
 
@@ -419,13 +410,13 @@ the person is not to be given an assessment of entitlement to fee relief for the
 
                      (b)  the person has given the Social Security Secretary a document by the partner that authorises the Commissioner of Taxation to tell the Social Security Secretary:
 
-                              (i)  if the tax file number is issued to the partner—the tax file number; or
+                              (i)  if the tax file number is issued to the partner—the tax file  number; or
 
-                             (ii)  if the application is refused—that the application has been refused; or
+                             (ii)  if the application is refused—that the application has been  refused; or
 
-                            (iii)  if the application is withdrawn—that the application has been withdrawn; and
+                            (iii)  if the application is withdrawn—that the application has  been withdrawn; and
 
-                     (c)  the Commissioner of Taxation has not told the Social Security  Secretary that an application by the partner for a tax file number has been refused; and
+                     (c)  the Commissioner of Taxation has not told the Social Security  Secretary that an application by the partner for a tax file number has been  refused; and
 
                      (d)  the application for a tax file number has not been withdrawn.
 
@@ -441,7 +432,7 @@ the person is not to be given an assessment of entitlement to fee relief for the
 
                             (iii)  a declaration by the partner under subparagraph (1)(c)(ii).
 
-##### <a id="12D"></a>12D  Social Security Secretary may request person who would benefit from fee relief to give statement of person’s tax file number [_see_ Note 2]
+##### <a id="12D"></a>12D  Social Security Secretary may request person who would benefit from fee relief to give statement of person’s tax file number
 
              (1)  If a person who is a fee relief beneficiary is in Australia, the Social Security Secretary may request but not compel the person:
 
@@ -467,7 +458,7 @@ the person is not to be given an assessment of entitlement to fee relief for the
 
 Note:          In some cases the request can be satisfied by giving the Social Security Secretary a declaration by the person about the person’s tax file number and an authority by the person to the Commissioner of Taxation to give the Social Security Secretary certain information about the person’s tax file number (see subsections 12B(3) and (4)).
 
-##### <a id="12E"></a>12E  Social Security Secretary may request person who would benefit from fee relief to give statement of partner’s tax file number [_see_ Note 2]
+##### <a id="12E"></a>12E  Social Security Secretary may request person who would benefit from fee relief to give statement of partner’s tax file number
 
              (1)  If:
 
@@ -563,13 +554,13 @@ A member of a committee shall be appointed by the Minister as a part-time member
 
              (2)  A member of a committee shall be paid such allowances as are prescribed.  
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_. 
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.  
 
 ## Part VI—Miscellaneous  
 
 **Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-##### <a id="20"></a>20  Conditions relating to grants<span style="font-size:9.0pt;font-weight: normal"> </span>
+##### <a id="20"></a>20  Conditions relating to grants<span style="font-size:9.0pt;font-weight:normal"> </span>
 
              (1)  A grant under this Act may be made upon such terms and conditions, not inconsistent with this Act, as the Minister thinks fit.  
 
@@ -581,11 +572,11 @@ A member of a committee shall be appointed by the Minister as a part-time member
 
                      (b)  the giving of security for:
 
-                              (i)  the repayment of the whole or a part of a grant; or
+                              (i)  the repayment of the whole or a part of a grant; or
 
-                             (ii)  the payment to the Commonwealth of the amount that under the terms and conditions is taken to represent the Commonwealth’s interest in:
+                             (ii)  the payment to the Commonwealth of the amount that under the terms and conditions is taken to represent the Commonwealth’s interest in:
 
-                                        (A)  land purchased (with or without buildings); and     
+                                        (A)  land purchased (with or without buildings); and     
 
                                         (B)  buildings constructed or altered; and  
 
@@ -595,17 +586,17 @@ A member of a committee shall be appointed by the Minister as a part-time member
 
                      (c)  the use and disposal of, and the recovery of, the amount that under the terms and conditions is taken to represent the Commonwealth’s interest in:
 
-                              (i)  land purchased (with or without buildings); and
+                              (i)  land purchased (with or without buildings); and
 
-                             (ii)  buildings constructed or altered; and
+                             (ii)  buildings constructed or altered; and
 
-                            (iii)  equipment acquired, altered, added to or installed;
+                            (iii)  equipment acquired, altered, added to or installed;
 
                             as a result of the application of a grant or a grant and other money (whether or not that amount is more than the amount of the grant).  
 
              (5)  Where a grant under this Act has, in accordance with this section, been made on terms and conditions, the Minister, with the agreement of the grantee, may, by writing, vary those terms and conditions and, where there is an agreement under subsection (2) with respect to the terms and conditions so varied, that agreement shall be taken to be varied accordingly.  
 
-             (6)  In this section, **_grant_** includes an advance on account of grant under subsection 12(2). 
+             (6)  In this section, **_grant_** includes an  advance on account of grant under subsection 12(2).  
 
 ##### <a id="20A"></a>20A  Agreements may be entered into with transferees of land etc.
 
@@ -621,19 +612,19 @@ A member of a committee shall be appointed by the Minister as a part-time member
 
 the Minister may enter into an agreement with the other person or body under which the other person or body is required to comply, or will, on the transfer being effected, be required to comply, with terms and conditions (whether with respect to the land, building, equipment or otherwise).
 
-             (2)  Where an agreement under subsection (1) between the Minister and a person or body is in force, the Minister may vary the agreement with the consent of the person or body. 
+             (2)  Where an agreement under subsection (1) between the Minister and a person or body is in force, the Minister may vary the agreement with the consent of the person or body.    
 
 ##### <a id="20B"></a>20B  Overpayments
 
-             (1)  The payment of an amount to the operator of an eligible child care centre under this Act is, in addition to any conditions imposed under section 20, subject to the condition that if, for any reason, an amount (in this subsection referred to as the **_recoverable amount_**)  has been paid to the operator by way of grant or advance on account of grant under this Act that should not have been paid, the operator will, on demand by the Minister by written notice given to the operator, repay to the Commonwealth the recoverable amount or that part of the recoverable amount specified in the notice. 
+             (1)  The payment of an amount to the operator of an eligible child care centre under this Act is, in addition to any conditions imposed under section 20, subject to the condition that if, for any reason, an amount (in this subsection referred to as the **_recoverable amount_**)  has been paid to the operator by way of grant or advance on account of grant under this Act that should not have been paid, the operator will, on demand by the Minister by written notice given to the operator, repay to the Commonwealth the recoverable amount or that part of the recoverable amount specified in the notice.  
 
-             (2)  The Minister may deduct an amount repayable by the operator of an eligible child care centre under subsection (1) or part of such an amount from an amount (including an advance) payable to the operator under this Act. 
+             (2)  The Minister may deduct an amount repayable by the operator of an eligible child care centre under subsection (1) or part of such an amount from an amount (including an advance) payable to the operator under this Act.  
 
 ##### <a id="21"></a>21  Delegation
 
-             (1)  The Minister may, by signed instrument, delegate any or all of the Minister’s powers under this Act to a person holding or performing the duties of an office in the Department. 
+             (1)  The Minister may, by signed instrument, delegate any or all of the Minister’s powers under this Act to a person holding or performing the duties of an office in the Department.    
 
-             (5)  In subsection (1), a reference to this Act includes a reference to an agreement entered into under this Act. 
+             (5)  In subsection (1), a reference to this Act includes a reference to an agreement entered into under this Act.  
 
 ##### <a id="22"></a>22  Approvals and determinations to be in writing
 
@@ -655,15 +646,17 @@ Grants under this Act and advances on account of grants under subsection 12(2) a
 
 The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
- 
+* * *
 
-# NOTES
+# NOTE
 
 1.   The _Child Care Act 1972_ as shown in this reprint comprises Act No. 121, 1972 amended as indicated in the Tables below. 
 
-      The _Child Care Act 1972_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended).The modifications were repealed by the _Community Services and Health Legislation Amendment Act 1990_ (No. 106, 1990).
+      The _Child Care Act 1972_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended).The modifications were repealed by the _Community Services and Health Legislation Amendment Act 1990_ (No. 106, 1990)
 
 ### Table of Acts
+
+* * *
 
 <table>
 <colgroup>
@@ -674,25 +667,27 @@ The Governor-General may make regulations, not inconsistent with this Act, presc
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>Child Care Act 1972</div>
@@ -878,23 +873,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997</div>
-  </td>
-  <td>
-    <div>196, 1997</div>
-  </td>
-  <td>
-    <div>8 Dec 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1-7): \[ <i>see</i> <i>(f)</i>and Note 2</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
@@ -921,13 +899,24 @@ _(e)_     The _Child Care Act 1972_ was amended by Schedule 2 (Part 1) o
 
                  “(3)   The following provisions commence on 1 January 1996: 
 
-                  (a)   Parts 1 and 3 of Schedule 2;” 
-
-_(f)_ The _Child Care Act 1972_ was amended by Schedule 1 (items 1-7) only of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997, subsection 2(2) of which provides as follows:_
-
-                 “(2)   Subject to subsections (3) to (5), Schedule 1 commences on the day that is the payment commencement day for the purposes of the _Child Care Payments Act 1997_.” [_see_ Note 2]
+                             (a)   Parts 1 and 3 of Schedule 2;” 
 
 ## Table of Amendments
+
+##  
+
+<table>
+<colgroup>
+  <col width="100%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+</thead></table>
 
 <table>
 <colgroup>
@@ -935,11 +924,6 @@ _(f)_ The _Child Care Act 1972_ was amended by Schedule 1 (items 1-7) only of th
   <col width="66%">
 </colgroup>
 
-<tr>
-  <td colspan="2">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-  </td>
-</tr>
 <tr>
   <td>
     <div>Provision affected</div>
@@ -1254,45 +1238,5 @@ _(f)_ The _Child Care Act 1972_ was amended by Schedule 1 (items 1-7) only of th
     <div></div>
   </td>
 </tr></table>
-
- 
-
-2.   The _Child Care Act 1972_ was amended by Schedule 1 (items 1-7) only of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_. The applicable provisions provide as follows:
-
-Schedule 1—Consequential amendments of other legislation
-
-1  Subsection 4(1) (definition of _approved child care service_)
-
-Repeal the definition.
-
-2  Subsection 4(1) (definition of _fee relief beneficiary_)
-
-Repeal the definition.
-
-3  Subsection 4(1) (definition of _partner_)
-
-Repeal the definition
-
-4  Subsection 4(1) (definition of _Social Security Secretary_)
-
-Repeal the definition.
-
-5  Subsection 4B(1)
-
-Omit “(other than section 12A)” (wherever occurring).
-
-6  Subsection 4B(2)
-
-Repeal the subsection.
-
-7  Sections 12A, 12B, 12C, 12D and 12E
-
-Repeal the sections.
-
-      Subsection 2(2) of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_ provides as follows:
-
-“(2)   Subject to subsections (3) to (5), Schedule 1 commences on the day that is the payment commencement day for the purposes of the _Child Care Payments Act 1997_.”
-
-      As at 8 April 1998 no date had been set and the amendments are not incorporated in this reprint.
 
  
