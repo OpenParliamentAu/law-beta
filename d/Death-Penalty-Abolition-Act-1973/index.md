@@ -1,179 +1,56 @@
-**
+**<b>
 
-###  DEATH PENALTY ABOLITION ACT 1973 
-**
+### <center><name>DEATH PENALTY ABOLITION ACT 1973 - Reprinted as at 28 February 1990 (HISTACT CHAP 506 #DATE 28:02:1990) </name></center>
+</b>** *1*Act No. 100, 1973; assented to and commenced 18 September 1973\. 
+**<b>
 
+### <name>DEATH PENALTY ABOLITION ACT 1973 - TABLE OF PROVISIONS </name>
+</b>** 
 
-**
+## TABLE
+<tables> <tt>                              TABLE OF PROVISIONS<lf> 
 
-###  Compilation Information 
-**
+Section<lf> <p>     1\. Short title<lf> <p>     2\. Commencement<lf> <p>     3\. Application of Act<lf> <p>     4\. Abolition of death penalty<lf> <p>     5\. Substitution of imprisonment for life<lf> </lf></p></lf></p></lf></p></lf></p></lf></p></lf>
+</lf></tt></tables>
+**<b>
 
+### <name>DEATH PENALTY ABOLITION ACT 1973 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect> An Act to abolish Capital Punishment under the Laws of the Commonwealth and under certain other Laws in relation to which the Powers of the Parliament<lf>                                     extend<lf> </lf></lf></sect>
+**<b>
 
+### <name>DEATH PENALTY ABOLITION ACT 1973 - SECT 1 Short title </name>
+</b>** 
 
+## SECT
+<sect>   1\. This Act may be cited as the Death Penalty Abolition Act 1973.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
+### <name>DEATH PENALTY ABOLITION ACT 1973 - SECT 2 Commencement </name>
+</b>** 
 
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
+### <name>DEATH PENALTY ABOLITION ACT 1973 - SECT 3 Application of Act </name>
+</b>** 
 
-**
+## SECT
+<sect>   3.(1) This Act applies within and outside Australia and extends to all the Territories.<lf>   (2) Subject to subsection (3), this Act applies in relation to, and in relation to offences under, the laws of the Commonwealth and of the Territories, and, to the extent to which the powers of the Parliament permit, in relation to, and in relation to offences under, Imperial Acts.<lf>   (3) This Act does not apply in relation to, or in relation to offences under, the laws in force in the Territory of Papua or the Territory of New Guinea, other than Acts of the Parliament, or Imperial Acts, as extending to either or both of those Territories of their own force.<lf>   (4) This Act applies in relation to offences committed before, on or after the date of commencement of this Act, including offences in respect of which proceedings are pending at that date, and if, on that date, a person is under sentence of death for an offence in relation to which this Act applies, the sentence has effect as if it were a sentence of imprisonment for life. </lf></lf></lf></sect>
+**<b>
 
-###  Long Title 
-**
+### <name>DEATH PENALTY ABOLITION ACT 1973 - SECT 4 Abolition of death penalty </name>
+</b>** 
 
-###  DEATH PENALTY ABOLITION ACT 1973- SECT 1  Short title [_see_ Note 1] 
-<dl compact="">
+## SECT
+<sect>   4\. A person is not liable to the punishment of death for any offence. </sect>
+**<b>
 
-		This Act may be cited as the _Death Penalty Abolition Act 1973_.
+### <name>DEATH PENALTY ABOLITION ACT 1973 - SECT 5 Substitution of imprisonment for life </name>
+</b>** 
 
- </dl>
-###  DEATH PENALTY ABOLITION ACT 1973- SECT 2  Commencement [_see_ Note 1] 
-<dl compact="">
-
-		This Act shall come into operation on the day on which it receives the Royal
-
-Assent.
-
- </dl>
-###  DEATH PENALTY ABOLITION ACT 1973- SECT 3  Application of Act 
-<dl compact="">
-
-<dt>(1)</dt><dd>This Act applies within and outside Australia and extends to all the
-
-Territories.</dd> <dt>(2)</dt><dd>This Act applies in relation to, and in relation to offences under, the laws of the Commonwealth and of the Territories, and, to the extent to which the powers of the Parliament permit, in relation to, and in relation to offences under, Imperial Acts.</dd> <dt>(4)</dt><dd>This Act applies in relation to offences committed before, on or after the date of commencement of this Act, including offences in respect of which proceedings are pending at that date, and if, on that date, a person is under sentence of death for an offence in relation to which this Act applies, the sentence has effect as if it were a sentence of imprisonment for life. </dd> </dl>
-###  DEATH PENALTY ABOLITION ACT 1973- SECT 4  Abolition of death penalty 
-<dl compact="">
-
-		A person is not liable to the punishment of death for any offence.
-
- </dl>
-###  DEATH PENALTY ABOLITION ACT 1973- SECT 5  Substitution of imprisonment for life 
-<dl compact="">
-
-		Where by any law in relation to which this Act applies (including a provision
-
-that would, but for this Act, have effect by virtue of such a law) it is
-
-provided that a person is liable to the punishment of death, the reference to
-
-the punishment of death shall be read, construed and applied as if the penalty
-
-of imprisonment for life were substituted for that punishment.
-
- </dl>
-**
-
-###  DEATH PENALTY ABOLITION ACT 1973<centreit>Notes to the _Death Penalty Abolition Act 1973_ </centreit>
-**
-Note 1
-Death Penalty Abolition Act 1973
-Table of Acts
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Act</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Number 
-and year</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date 
-of Assent</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Date of commencement</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Application, saving or transitional provisions</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Death Penalty Act 1973_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>100, 1973</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>18 Sept 1973</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>18 Sept 1973</div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>_Law and Justice Legislation Amendment Act 1997_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>34, 1997</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>17 Apr 1997</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedule&#160;5: Royal Assent _(a)_</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-(a)
-Death Penalty Abolition Act 1973
-Law and Justice Legislation Amendment Act 1997
-Table of Amendments
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Provision affected</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>How affected</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 3</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No.&#160;34, 1997</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-
-
-
-
+## SECT
+<sect>   5\. Where by any law in relation to which this Act applies (including a provision that would, but for this Act, have effect by virtue of such a law) it is provided that a person is liable to the punishment of death, the reference to the punishment of death shall be read, construed and applied as if the penalty of imprisonment for life were substituted for that punishment. </sect>
