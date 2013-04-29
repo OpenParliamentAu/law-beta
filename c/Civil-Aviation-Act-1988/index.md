@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00210/Html/a486e22e-de1a-4f5c-9ea8-57984324fe48_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00743/Html/c27cb673-0a7d-48d0-b4d1-84cefaa61cb8_files/image001.gif)
 
 # Civil Aviation Act 1988
 
 **Act No. 63 of 1988 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 November 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -38,7 +38,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Extension to external Territories
 
-[7](#7).            Extra‑territorial application
+[7](#7).            Extra-territorial application
 
 [7A](#7A).         Application of the _Criminal Code_
 
@@ -92,7 +92,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [24](#24).          Interference with crew or aircraft
 
-[25](#25).          Non‑scheduled flights by foreign registered aircraft
+[25](#25).          Non-scheduled flights by foreign registered aircraft
 
 [26](#26).          Aircraft on international flights to have permission
 
@@ -262,9 +262,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
         **Subdivision C—Consequences of incurring demerit points**
 
-[30DY](#30DY).    First‑time demerit suspension notice
+[30DY](#30DY).    First-time demerit suspension notice
 
-[30DZ](#30DZ).     Second‑time demerit suspension notice
+[30DZ](#30DZ).     Second-time demerit suspension notice
 
 [30EA](#30EA).     Details in a demerit suspension notice
 
@@ -416,7 +416,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Regulations**
 
-[34](#34).          General regulation‑making power
+[34](#34).          General regulation-making power
 
 [35](#35).          Drug and alcohol management plans
 
@@ -426,7 +426,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38](#38).          Conferral of power to make legislative instruments
 
-[39](#39).          General regulation‑making power not limited
+[39](#39).          General regulation-making power not limited
 
 **Part V—Corporate plan**
 
@@ -584,9 +584,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="air-rout-airwai-facil"></a>**_air route and airway facilities_** means facilities provided to permit safe navigation of aircraft within the airspace of air routes and airways, including:
 
-                     (a)  visual and non‑visual aids along the air routes and airways;
+                     (a)  visual and non-visual aids along the air routes and airways;
 
-                     (b)  visual and non‑visual aids to approach and landing at aerodromes;
+                     (b)  visual and non-visual aids to approach and landing at aerodromes;
 
                      (c)  communications services;
 
@@ -752,13 +752,11 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name="evidenti-materi"></a>**_evidential material_** means a thing that may be relevant to a civil aviation offence.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="flight"></a>**_flight_** means:
 
-                     (a)  in the case of a heavier‑than‑air aircraft, the operation of the aircraft from the moment at which the aircraft first moves under its own power for the purpose of taking‑off until the moment at which it comes to rest after being airborne; and
+                     (a)  in the case of a heavier-than-air aircraft, the operation of the aircraft from the moment at which the aircraft first moves under its own power for the purpose of taking-off until the moment at which it comes to rest after being airborne; and
 
-                     (b)  in the case of a lighter‑than‑air aircraft, the operation of the aircraft from the moment when it becomes detached from the surface of the earth or from a fixed object on the surface of the earth until the moment when it becomes again attached to the surface of the earth or a fixed object on the surface of the earth.
+                     (b)  in the case of a lighter-than-air aircraft, the operation of the aircraft from the moment when it becomes detached from the surface of the earth or from a fixed object on the surface of the earth until the moment when it becomes again attached to the surface of the earth or a fixed object on the surface of the earth.
 
                     <a name="foreign-regist-aircraft"></a>**_foreign registered aircraft_** means an aircraft registered:
 
@@ -792,7 +790,7 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name="mainten"></a>**_maintenance_** means any task required to ensure, or that could affect, the continuing airworthiness of an aircraft or aeronautical product, including any one or combination of overhaul, repair, inspection, replacement of an aeronautical product, modification or defect rectification.
 
-                    <a name="manoeuvr-area"></a>**_manoeuvring area_** means that part of an aerodrome to be used for the take‑off and landing of aircraft and for the movement of aircraft associated with take‑off and landing, but does not include any part of an aerodrome to be used:
+                    <a name="manoeuvr-area"></a>**_manoeuvring area_** means that part of an aerodrome to be used for the take-off and landing of aircraft and for the movement of aircraft associated with take-off and landing, but does not include any part of an aerodrome to be used:
 
                      (a)  for the purpose of enabling passengers to board aircraft or disembark from aircraft;
 
@@ -806,7 +804,7 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name="temporari-stop-notic"></a><a name="new-zealand"></a>**_New Zealand_****_temporary stop notice_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New Zealand.
 
-                    <a name="non-schuled-flight"></a>**_non‑scheduled flight_** means a flight over or into Australian territory otherwise than under the authority of an international airline licence issued under the _Air Navigation Act 1920_.
+                    <a name="non-schuled-flight"></a>**_non-scheduled flight_** means a flight over or into Australian territory otherwise than under the authority of an international airline licence issued under the _Air Navigation Act 1920_.
 
                     <a name="occupi"></a>**_occupier_**, in relation to prescribed premises, being an aircraft, vessel or vehicle, means the person apparently in charge of the aircraft, vessel or vehicle.
 
@@ -848,7 +846,7 @@ and includes a part of any such premises.
 
                      (b)  aircraft used in the military, customs or police services of a foreign country.
 
-                    <a name="time-servic"></a>**_time‑in‑service_**, in relation to an aircraft, has the same meaning as in the regulations.
+                    <a name="time-servic"></a>**_time-in-service_**, in relation to an aircraft, has the same meaning as in the regulations.
 
                     <a name="vehicl"></a>**_vehicle_** includes:
 
@@ -934,11 +932,11 @@ CASA must, as soon as practicable, publish a _Gazette_ notice setting out partic
 
                      (b)  any other person employed by the Crown.
 
-##### <a id="6"></a>6  Extension to external Territories
+##### <a id="6"></a>6  Extension to external Territories
 
                    This Act extends to all the external Territories.
 
-##### <a id="7"></a>7  Extra‑territorial application 
+##### <a id="7"></a>7  Extra-territorial application 
 
                    This Act extends to matters relating to:
 
@@ -996,13 +994,13 @@ by means that include the following:
 
                      (e)  issuing certificates, licences, registrations and permits;
 
-                      (f)  conducting comprehensive aviation industry surveillance, including assessment of safety‑related decisions taken by industry management at all levels for their impact on aviation safety;
+                      (f)  conducting comprehensive aviation industry surveillance, including assessment of safety-related decisions taken by industry management at all levels for their impact on aviation safety;
 
-                     (g)  conducting regular reviews of the system of civil aviation safety in order to monitor the safety performance of the aviation industry, to identify safety‑related trends and risk factors and to promote the development and improvement of the system;
+                     (g)  conducting regular reviews of the system of civil aviation safety in order to monitor the safety performance of the aviation industry, to identify safety-related trends and risk factors and to promote the development and improvement of the system;
 
                      (h)  conducting regular and timely assessment of international safety developments.
 
-             (2)  CASA also has the following safety‑related functions:
+             (2)  CASA also has the following safety-related functions:
 
                      (a)  encouraging a greater acceptance by the aviation industry of its obligation to maintain high standards of aviation safety, through:
 
@@ -1126,7 +1124,7 @@ Note:          Section 28 of the _Commonwealth Authorities a
 
                      (a)  itself;
 
-                     (b)  in co‑operation with another person (including the Commonwealth); or
+                     (b)  in co-operation with another person (including the Commonwealth); or
 
                      (c)  by arranging for another person (including the Commonwealth) to do so on its behalf.
 
@@ -1278,7 +1276,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (9)  If the proprietor fails to comply with a direction under subsection (6), CASA may authorise an officer, with such reasonable assistance as the officer requires, to enter the premises or place in which the installation is installed, kept or operated, with such force as is necessary and reasonable, and to take the action that was so directed.
 
-           (10)  A notice under this section may be served personally or may be served by post at the last‑known place of residence or business of the proprietor or at the address at which the installation is installed, kept or operated.
+           (10)  A notice under this section may be served personally or may be served by post at the last-known place of residence or business of the proprietor or at the address at which the installation is installed, kept or operated.
 
            (11)  The Director may, in writing, delegate any of CASA’s powers under this section to AA.
 
@@ -1330,7 +1328,7 @@ the pilot in command of the aircraft shall comply with any direction given by an
 
                     <a name="authorised-offici"></a>**_authorised official_**, in relation to a foreign country, means:
 
-                     (a)  a member of the military, police, customs or air‑traffic control services of the foreign country; or
+                     (a)  a member of the military, police, customs or air-traffic control services of the foreign country; or
 
                      (b)  a person authorised by the foreign country to give directions to aircraft flying over the territory of the foreign country.
 
@@ -1418,7 +1416,7 @@ a statement that complies with the regulations made for the purposes of that sub
 
              (2)  A person must not carry or consign for carriage any cargo on board an aircraft unless each person who:
 
-                     (a)  handles, or is involved in the handling of, the cargo for or on behalf of the first‑mentioned person; and
+                     (a)  handles, or is involved in the handling of, the cargo for or on behalf of the first-mentioned person; and
 
                      (b)  has been required, by regulations made for the purposes of this section, to undertake training relating to dangerous goods;
 
@@ -1454,11 +1452,11 @@ if tampering with it may endanger the safety of the aircraft or any person or pr
 
                     Penalty:  Imprisonment for 2 years.
 
-##### <a id="25"></a>25  Non‑scheduled flights by foreign registered aircraft
+##### <a id="25"></a>25  Non-scheduled flights by foreign registered aircraft
 
 Directions
 
-             (1)  Notwithstanding anything in section 14 of the _Air Navigation Act 1920_, if CASA considers that a foreign registered aircraft possessing the nationality of a Contracting State intends, in the course of a non‑scheduled flight over Australian territory, to proceed over regions that are inaccessible or without adequate air navigation facilities, CASA may direct:
+             (1)  Notwithstanding anything in section 14 of the _Air Navigation Act 1920_, if CASA considers that a foreign registered aircraft possessing the nationality of a Contracting State intends, in the course of a non-scheduled flight over Australian territory, to proceed over regions that are inaccessible or without adequate air navigation facilities, CASA may direct:
 
                      (a)  that the aircraft follow an established air route; or
 
@@ -1466,9 +1464,9 @@ Directions
 
 Permissions
 
-             (2)  Where a foreign registered aircraft possessing the nationality of a Contracting State makes a non‑scheduled flight into Australian territory, it shall not take on or discharge passengers, cargo or mail in Australian territory (being passengers, cargo or mail carried, or to be carried, for reward) except with the permission of CASA and in accordance with any conditions to which the permission is subject.
+             (2)  Where a foreign registered aircraft possessing the nationality of a Contracting State makes a non-scheduled flight into Australian territory, it shall not take on or discharge passengers, cargo or mail in Australian territory (being passengers, cargo or mail carried, or to be carried, for reward) except with the permission of CASA and in accordance with any conditions to which the permission is subject.
 
-             (3)  A foreign registered aircraft not possessing the nationality of a Contracting State shall not make a non‑scheduled flight over or into Australian territory except with the permission of CASA and in accordance with any conditions to which the permission is subject.
+             (3)  A foreign registered aircraft not possessing the nationality of a Contracting State shall not make a non-scheduled flight over or into Australian territory except with the permission of CASA and in accordance with any conditions to which the permission is subject.
 
              (4)  If a person applies to CASA for a permission under subsection (2) or (3), CASA must grant the permission if CASA is satisfied that the person has complied with, or is capable of complying with:
 
@@ -1608,7 +1606,7 @@ Permissions—suspension and cancellation
     <div>1</div>
   </td>
   <td>
-    <div>New Zealand AOCs that will be recognised in Australia (known as
+    <div>New Zealand AOCs that will be recognised in Australia (k nown as
       <b>
         <i>New Zealand</i>
       </b>
@@ -1981,7 +1979,7 @@ CASA may have regard to the matters set out in section 28AA.
 
                      (d)  that the applicant has informed CASA:
 
-                              (i)  of the age and total time‑in‑service of the aircraft; and
+                              (i)  of the age and total time-in-service of the aircraft; and
 
                              (ii)  of the country in which any person who operated the aircraft in the period of one year immediately before the application for the AOC had his or her principal place of business; and
 
@@ -2009,7 +2007,7 @@ CASA may have regard to the matters set out in section 28AA.
 
              (2)  In this section:
 
-                    <a name="line-mainten"></a>**_line maintenance_**, in relation to an aircraft, means routine checks, inspections and malfunction rectifications performed en route and at base stations on the aircraft during transit, turn‑around or night stops.
+                    <a name="line-mainten"></a>**_line maintenance_**, in relation to an aircraft, means routine checks, inspections and malfunction rectifications performed en route and at base stations on the aircraft during transit, turn-around or night stops.
 
 ##### <a id="28AA"></a>28AA  Matters that CASA may have regard to in issuing an AOC in relation to certain flights by foreign registered aircraft
 
@@ -2257,9 +2255,9 @@ except to ensure compliance with the provisions of this Act, the regulations and
 
                      (b)  all material required by the regulations or Civil Aviation Orders.
 
-             (3)  The holder must keep the contents of the reference library up‑to‑date and in a readily accessible form.
+             (3)  The holder must keep the contents of the reference library up-to-date and in a readily accessible form.
 
-             (4)  The holder must keep up‑to‑date records of the distribution of operational documents to members of the holder’s flight crew and any other people employed in the holder’s organisation, who are employed as cabin crew, or to carry out duties associated with fuelling, loading or despatching aircraft.
+             (4)  The holder must keep up-to-date records of the distribution of operational documents to members of the holder’s flight crew and any other people employed in the holder’s organisation, who are employed as cabin crew, or to carry out duties associated with fuelling, loading or despatching aircraft.
 
              (5)  In this section, **_operating crew_** has the same meaning as in the regulations. 
 
@@ -2277,7 +2275,7 @@ Insurance requirements
 
              (2)  The holder of the AOC must at all times comply with the applicable provision in relation to the operation.
 
-Note:          The provisions referred to in paragraphs (1)(a) and (b) prescribe, for passenger‑carrying operations, certain requirements relating to personal injury liability insurance.
+Note:          The provisions referred to in paragraphs (1)(a) and (b) prescribe, for passenger-carrying operations, certain requirements relating to personal injury liability insurance.
 
 #### Subdivision F—Other provisions relating to Australian and New Zealand AOCs with ANZA privileges
 
@@ -2291,9 +2289,9 @@ Note:          The provisions referred to in paragraphs (1)(
 
                               (i)  details of all conditions imposed by the Director of CAA New Zealand in relation to the AOC;
 
-                             (ii)  the holder’s New Zealand contact details, including business address, telephone number, fax number (if any), and e‑mail address (if any);
+                             (ii)  the holder’s New Zealand contact details, including business address, telephone number, fax number (if any), and e-mail address (if any);
 
-                            (iii)  the holder’s Australian contact details, including business address, telephone number, fax number (if any), and e‑mail address (if any);
+                            (iii)  the holder’s Australian contact details, including business address, telephone number, fax number (if any), and e-mail address (if any);
 
                             (iv)  any other information required by the regulations.
 
@@ -2975,7 +2973,7 @@ the regulations may provide that the subsequent suspension or cancellation under
 
 #### Subdivision C—Consequences of incurring demerit points
 
-##### <a id="30DY"></a>30DY  First‑time demerit suspension notice
+##### <a id="30DY"></a>30DY  First-time demerit suspension notice
 
              (1)  CASA must give the holder of a civil aviation authorisation a demerit suspension notice under this section if:
 
@@ -3003,7 +3001,7 @@ the regulations may provide that the subsequent suspension or cancellation under
 
 Note:          The suspension period for a particular authorisation may be affected by section 30EB.
 
-##### <a id="30DZ"></a>30DZ  Second‑time demerit suspension notice
+##### <a id="30DZ"></a>30DZ  Second-time demerit suspension notice
 
              (1)  CASA must give the holder of a civil aviation authorisation a demerit suspension notice under this section if:
 
@@ -3627,7 +3625,7 @@ the investigator or the person assisting him or her must, if requested to do so 
 
                      (b)  possession of the document, film, computer file, thing or information by the occupier could constitute an offence.
 
-##### <a id="32AHM"></a>32AHM  Receipts of things seized under warrant
+##### <a id="32AHM"></a>32AHM  Receipts of things seized under warrant
 
              (1)  If a thing is seized, as allowed by section 32AH, the investigator executing the warrant or person assisting him or her must provide a receipt for the thing.
 
@@ -3875,7 +3873,7 @@ CASA is liable to pay compensation of a reasonable amount to the person in respe
 
                     <a name="oper-duti"></a>**_operational duties_** means duties or functions in connection with the operation or safety of the aircraft.
 
-                    <a name="royal-commiss"></a>**_Royal Commission_** means a Commission that has been commissioned by the Governor‑General to conduct an inquiry, and includes any member of such a Commission.
+                    <a name="royal-commiss"></a>**_Royal Commission_** means a Commission that has been commissioned by the Governor-General to conduct an inquiry, and includes any member of such a Commission.
 
 ##### <a id="32AO"></a>32AO  Definition of _CVR_ or _cockpit voice recording_
 
@@ -3891,7 +3889,7 @@ CASA is liable to pay compensation of a reasonable amount to the person in respe
 
                              (ii)  at the time when the recording was made, the aircraft was owned or operated by a constitutional corporation or Commonwealth entity; and
 
-                     (d)  the recording is not an on‑board recording for the purposes of the _Transport Safety Investigation Act 2003_.
+                     (d)  the recording is not an on-board recording for the purposes of the _Transport Safety Investigation Act 2003_.
 
              (2)  In this section:
 
@@ -4063,7 +4061,7 @@ then the court may order that the CVR information, or that part of the CVR infor
 
                      (b)  if the test determined the level of alcohol or testable drug in the sample and a permitted level for alcohol or that drug is specified in the regulations—that the permitted level has been exceeded.
 
-                    <a name="safeti-sensit-aviat-activ"></a>**_safety‑sensitive aviation activities_** means activities that impact directly or indirectly on the safety of:
+                    <a name="safeti-sensit-aviat-activ"></a>**_safety-sensitive aviation activities_** means activities that impact directly or indirectly on the safety of:
 
                      (a)  civil air operations in Australian territory; or
 
@@ -4075,19 +4073,19 @@ then the court may order that the CVR information, or that part of the CVR infor
 
 ### Division 2—Regulations
 
-##### <a id="34"></a>34  General regulation‑making power
+##### <a id="34"></a>34  General regulation-making power
 
 Drug and alcohol management plans
 
-             (1)  The regulations may make provision for and in relation to the development, implementation and enforcement of drug and alcohol management plans covering persons who perform, or are available to perform, safety‑sensitive aviation activities.
+             (1)  The regulations may make provision for and in relation to the development, implementation and enforcement of drug and alcohol management plans covering persons who perform, or are available to perform, safety-sensitive aviation activities.
 
 Drug or alcohol tests
 
-             (2)  The regulations may make provision for and in relation to drug or alcohol tests in respect of persons who perform, or are available to perform, safety‑sensitive aviation activities.
+             (2)  The regulations may make provision for and in relation to drug or alcohol tests in respect of persons who perform, or are available to perform, safety-sensitive aviation activities.
 
 Limitation
 
-             (3)  Regulations must not be made for the purposes of this section unless the performance of the safety‑sensitive aviation activities concerned could be adversely affected by the use of alcohol or a testable drug by persons who perform those activities.
+             (3)  Regulations must not be made for the purposes of this section unless the performance of the safety-sensitive aviation activities concerned could be adversely affected by the use of alcohol or a testable drug by persons who perform those activities.
 
 ##### <a id="35"></a>35  Drug and alcohol management plans
 
@@ -4141,9 +4139,9 @@ Limitation
 
                     (m)  the giving of test results in certificates or other documents and the evidentiary effect of such certificates or other documents;
 
-                     (n)  a person ceasing to perform safety‑sensitive aviation activities if a drug or alcohol test in respect of the person returns a positive test result and the conditions the person must satisfy before resuming such activities;
+                     (n)  a person ceasing to perform safety-sensitive aviation activities if a drug or alcohol test in respect of the person returns a positive test result and the conditions the person must satisfy before resuming such activities;
 
-                     (o)  a person ceasing to perform safety‑sensitive aviation activities if the person refuses to provide a body sample for a drug or alcohol test when required to do so in accordance with the regulations and the conditions the person must satisfy before resuming such activities.
+                     (o)  a person ceasing to perform safety-sensitive aviation activities if the person refuses to provide a body sample for a drug or alcohol test when required to do so in accordance with the regulations and the conditions the person must satisfy before resuming such activities.
 
              (2)  For the purposes of paragraph (1)(d), the regulations may provide that a person or body is authorised to take body samples if the person or body:
 
@@ -4187,7 +4185,7 @@ are not admissible in evidence against the person in any proceedings other than:
 
              (2)  Such an instrument must not prescribe a penalty.
 
-##### <a id="39"></a>39  General regulation‑making power not limited
+##### <a id="39"></a>39  General regulation-making power not limited
 
                    Sections 35 to 38 do not, by implication, limit section 34.
 
@@ -4259,7 +4257,7 @@ Note 3:       Subsection 98(3A) allows regulations to apply, adopt o
 
              (1)  There is payable to CASA such money as is appropriated by the Parliament for the purposes of CASA.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, the money is to be paid to CASA.
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, the money is to be paid to CASA.
 
 ##### <a id="47"></a>47  Application and investment of money 
 
@@ -4327,7 +4325,7 @@ Note:          As a member of the governing body, the Director
 
 ##### <a id="54"></a>54  Appointment
 
-             (1)  A Board member is to be appointed by the Minister by written instrument, on a part‑time basis.
+             (1)  A Board member is to be appointed by the Minister by written instrument, on a part-time basis.
 
              (2)  The Minister must appoint one Board member to be the Chair and another Board member to be the Deputy Chair.
 
@@ -4557,9 +4555,9 @@ Note:          Section 33B of the _Acts Interpretation Act 1
 
 ##### <a id="74"></a>74  Appointment
 
-             (1)  The Director is to be appointed by the Board by written instrument, on a full‑time basis.
+             (1)  The Director is to be appointed by the Board by written instrument, on a full-time basis.
 
-Note:          The Director can be re‑appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+Note:          The Director can be re-appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (2)  Before appointing the Director, the Board must consult the Minister.
 
@@ -4755,7 +4753,7 @@ Note:          See sections 20 and 33A of the _Acts Interpre
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is to be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  Where:
 
@@ -4785,7 +4783,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
 ##### <a id="98"></a>98  Regulations etc.
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act:
 
                      (a)  prescribing matters required or permitted by this Act to be prescribed;
 
@@ -4811,7 +4809,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                    (ba)  the manner of applying for permissions under Part III, including the information that may be required, and the conditions to be satisfied, for the granting of permissions;
 
-                   (bb)  requiring specified persons to provide CASA with, or to ensure that CASA is provided with, specified information relating to the entering into, modification, cancellation, non‑renewal or expiry of acceptable contracts of insurance or adequate financial arrangements in relation to specified passenger‑carrying operations (within the meaning of Part IVA of the _Civil Aviation (Carriers’ Liability) Act 1959_), to the extent that the insurance or arrangements are required under this Act;
+                   (bb)  requiring specified persons to provide CASA with, or to ensure that CASA is provided with, specified information relating to the entering into, modification, cancellation, non-renewal or expiry of acceptable contracts of insurance or adequate financial arrangements in relation to specified passenger-carrying operations (within the meaning of Part IVA of the _Civil Aviation (Carriers’ Liability) Act 1959_), to the extent that the insurance or arrangements are required under this Act;
 
                      (c)  requiring persons performing specified functions in relation to the operation or maintenance of aircraft and aerodromes to be the holders of licences, permits or certificates of specified kinds, and providing for the grant, issue, cancellation, suspension or variation of such licences, permits and certificates;
 
@@ -4841,7 +4839,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (p)  the imposition of penalties, not exceeding a fine of 50 penalty units, for a contravention of a provision of the regulations or a direction, instruction or condition issued, given, made or imposed under, or in force by virtue of, the regulations;
 
-                     (q)  enabling a person who is alleged to have contravened a specified provision of the regulations to pay to CASA, as an alternative to prosecution, a specified penalty, not exceeding an amount equal to one‑fifth of the maximum penalty prescribed for contravening that provision;
+                     (q)  enabling a person who is alleged to have contravened a specified provision of the regulations to pay to CASA, as an alternative to prosecution, a specified penalty, not exceeding an amount equal to one-fifth of the maximum penalty prescribed for contravening that provision;
 
                       (r)  standards relating to the establishment and use of airspace;
 
@@ -4867,7 +4865,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (b)  an aviation document, within the meaning of the Civil Aviation Act 1990 of New Zealand.
 
-       (3AB)  Subsection (3AA) does not prevent the making of regulations for purposes connected with the _Trans‑Tasman Mutual Recognition Act 1997_.
+       (3AB)  Subsection (3AA) does not prevent the making of regulations for purposes connected with the _Trans-Tasman Mutual Recognition Act 1997_.
 
           (3A)  The regulations may make provision for or in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in a written instrument or other document, as in force at a particular time or from time to time, even if the written instrument or other document does not yet exist when the regulation is made.
 
@@ -5020,7 +5018,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Commonwealth Authorities Legislation (Pay‑roll Tax) Amendment Act 1988</div>
+    <div>Commonwealth Authorities Legislation (Pay-roll Tax) Amendment Act 1988</div>
   </td>
   <td>
     <div>55, 1988</div>
@@ -5957,7 +5955,7 @@ Schedule 1 (items 10, 11): 1 July 2009</div>
   </td>
   <td>
     <div>Sch. 1 (item 26) 
-S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
+S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6041,23 +6039,6 @@ S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
   <td>
     <div>Schedule 1 (item 6): Royal Assent 
 Schedule 5 (item 137(a)): <i>(y)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 46, 47): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -6181,7 +6162,7 @@ _(m)_    The _Civil Aviation Act 1988_ was amended by section 77 only of
 
                  (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
 
-         Section 77 of the _Competition Policy Reform Act 1995_ provided for the amendment of section 66 of the _Civil Aviation Act 1988_. The last‑mentioned section was repealed by the _Civil Aviation Legislation Amendment Act 1995_ before a date was fixed for the commencement of section 77.
+         Section 77 of the _Competition Policy Reform Act 1995_ provided for the amendment of section 66 of the _Civil Aviation Act 1988_. The last-mentioned section was repealed by the _Civil Aviation Legislation Amendment Act 1995_ before a date was fixed for the commencement of section 77.
 
 _(ma)_  The _Competition Policy Reform Act 1995_ was amended by Schedule 4 only of the _Civil Aviation Legislation Amendment Act 1998_, subsection 2(4) of which provides as follow:
 
@@ -7018,7 +6999,7 @@ _(y)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 6, 1989; No. 25, 1990; Nos. 11, 101 and 173, 1991; No.  196, 1992 (as am. by No. 168, 1994); No. 5, 1994; No. 82, 1995; Nos. 14 and 130, 1997; No. 8, 2000; Nos. 83 and 105, 2003; No. 102, 2006; No. 39, 2007; No. 87, 2008; Nos. 19 and 33, 2009; No. 8, 2010; No. 5, 2011</div>
+    <div>am. No. 6, 1989; No. 25, 1990; Nos. 11, 101 and 173, 1991; No.  196, 1992 (as am. by No. 168, 1994); No. 5, 1994; No. 82, 1995; Nos. 14 and 130, 1997; No. 8, 2000; Nos. 83 and 105, 2003; No. 102, 2006; No. 39, 2007; No. 87, 2008; Nos. 19 and 33, 2009; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9566,14 +9547,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 47</div>
   </td>
   <td>
@@ -10949,7 +10922,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -10963,7 +10936,7 @@ as if the amendment or repeal had not been made.
 
 (2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -10971,9 +10944,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
