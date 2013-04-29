@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00159/Html/75479c32-9c47-49d4-9859-9a627f3f719a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00040/Html/ProtectionSeaCivilLiability1981WD02_image001.gif)
 
 # Protection of the Sea (Civil Liability) Act 1981
 
 **Act No. 31 of 1981 as amended**
 
-This compilation was prepared on 29 March 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 2 February 2010
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -140,7 +140,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
 ##### <a id="5"></a>5  Operation of Act
 
@@ -168,13 +168,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (4)  In subsections (1) and (2), a reference to a ship as defined by this subsection shall be construed as a reference to a ship that is:
 
-                     (a)  a trading ship proceeding on a voyage other than an overseas voyage or an inter‑State voyage; or
+                     (a)  a trading ship proceeding on a voyage other than an overseas voyage or an inter-State voyage; or
 
                      (b)  an Australian fishing vessel proceeding on a voyage other than an overseas voyage.
 
              (5)  For the purposes of subsection (4):
 
-                     (a)  **_trading ship_**, **_inter‑State voyage_** and **_Australian fishing vessel_** have the same respective meanings as they have in the _Navigation Act 1912_;
+                     (a)  **_trading ship_**, **_inter-State voyage_** and **_Australian fishing vessel_** have the same respective meanings as they have in the _Navigation Act 1912_;
 
                      (b)  **_overseas voyage_** has the same meaning as it has in the _Navigation Act 1912_ except that a voyage of an Australian fishing vessel, being a ship that is regularly engaged in making voyages from a port or ports in Queensland, commencing at a port in that State and ending at the same port or another port in that State shall not be taken to be an overseas voyage by reason only that, as an incidental part of its fishing operations on that voyage, the ship calls at a port or ports in Papua New Guinea; and
 
@@ -614,7 +614,7 @@ shall be deemed, for the purposes of a provision of this Act that creates an off
 
 ##### <a id="27"></a>27  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # Schedule 1—International Convention on Civil Liability for Oil Pollution Damage
 
@@ -634,7 +634,7 @@ ARTICLE I
 
 For the purposes of this Convention: 
 
-1.    “Ship” means any sea‑going vessel and any seaborne craft of any type whatsoever, actually carrying oil in bulk as cargo.
+1.    “Ship” means any sea-going vessel and any seaborne craft of any type whatsoever, actually carrying oil in bulk as cargo.
 
 2.    “Person” means any individual or partnership or any public or private body, whether corporate or not, including a State or any of its constituent subdivisions.
 
@@ -650,7 +650,7 @@ For the purposes of this Convention:
 
 8.    “Incident” means any occurrence, or series of occurrences having the same origin, which causes pollution damage.
 
-9.    “Organization” means the Inter‑Governmental Maritime Consultative Organization.
+9.    “Organization” means the Inter-Governmental Maritime Consultative Organization.
 
 ARTICLE II
 
@@ -684,7 +684,7 @@ ARTICLE V
 
 2.    If the incident occurred as a result of the actual fault or privity of the owner, he shall not be entitled to avail himself of the limitation provided in paragraph 1 of this Article.
 
-3.    For the purpose of availing himself of the benefit of limitation provided for in paragraph 1 of this Article the owner shall constitute a fund for the total sum representing the limit of his liability with the Court or other competent authority of any one of the Contracting States in which action is brought under Article IX. The fund can be constituted either by depositing the sum or by producing a bank guarantee or other guarantee, acceptable under the legislation of the Contracting   State where the fund is constituted, and considered to be adequate by the Court or another competent authority. 
+3.    For the purpose of availing himself of the benefit of limitation provided for in paragraph 1 of this Article the owner shall constitute a fund for the total sum representing the limit of his liability with the Court or other competent authority of any one of the Contracting States in which action is brought under Article IX. The fund can be constituted either by depositing the sum or by producing a bank guarantee or other guarantee, acceptable under the legislation of the Contracting  State where the fund is constituted, and considered to be adequate by the Court or another competent authority. 
 
 4.    The fund shall be distributed among the claimants in proportion to the amounts of their established claims.
 
@@ -696,17 +696,17 @@ ARTICLE V
 
 8.    Claims in respect of expenses reasonably incurred or sacrifices reasonably made by the owner voluntarily to prevent or minimize pollution damage shall rank equally with other claims against the fund.
 
-9.    The franc mentioned in this Article shall be a unit consisting of sixty‑five and a half milligrams of gold of millesimal fineness nine hundred. The amount mentioned in paragraph 1 of this Article shall be converted into the national currency of the State in which the fund is being constituted on the basis of the official value of that currency by reference to the unit defined above on the date of the constitution of the fund.
+9.    The franc mentioned in this Article shall be a unit consisting of sixty-five and a half milligrams of gold of millesimal fineness nine hundred. The amount mentioned in paragraph 1 of this Article shall be converted into the national currency of the State in which the fund is being constituted on the basis of the official value of that currency by reference to the unit defined above on the date of the constitution of the fund.
 
-10.  For the purpose of this Article the ship’s tonnage shall be the net tonnage of the ship with the addition of the amount deducted from the gross tonnage on account of engine room space for the purpose of ascertaining the net tonnage. In the case of a ship which cannot be measured in accordance with the normal rules of tonnage measurement, the ship’s tonnage shall be deemed to be 40 per cent of the weight in tons (of 2240 lbs) of oil which the ship is capable of carrying.
+10.   For the purpose of this Article the ship’s tonnage shall be the net tonnage of the ship with the addition of the amount deducted from the gross tonnage on account of engine room space for the purpose of ascertaining the net tonnage. In the case of a ship which cannot be measured in accordance with the normal rules of tonnage measurement, the ship’s tonnage shall be deemed to be 40 per cent of the weight in tons (of 2240 lbs) of oil which the ship is capable of carrying.
 
-11.  The insurer or other person providing financial security shall be entitled to constitute a fund in accordance with this Article on the same conditions and having the same effect as if it were constituted by the owner. Such a fund may be constituted even in the event of the actual fault or privity of the owner but its constitution shall in that case not prejudice the rights of any claimant against the owner.
+11.   The insurer or other person providing financial security shall be entitled to constitute a fund in accordance with this Article on the same conditions and having the same effect as if it were constituted by the owner. Such a fund may be constituted even in the event of the actual fault or privity of the owner but its constitution shall in that case not prejudice the rights of any claimant against the owner.
 
 ARTICLE VI
 
 1.    Where the owner, after an incident, has constituted a fund in accordance with Article V, and is entitled to limit his liability,
 
-(a)   no person having a claim for pollution damage arising out of that incident shall be entitled to exercise any right against any other assets of the owner in respect of such claim;
+(a)   no person having a claim for pollution damage arising out of that incident shall be entitled to exercise any right against any other other assets of the owner in respect of such claim;
 
 (b)   the Court or other competent authority of any Contracting State shall order the release of any ship or other property belonging to the owner which has been arrested in respect of a claim for pollution damage arising out of that incident, and shall similarly release any bail or other security furnished to avoid such arrest.
 
@@ -742,11 +742,11 @@ ARTICLE VII
 
 9.    Any sums provided by insurance or by other financial security maintained in accordance with paragraph 1 of this Article shall be available exclusively for the satisfaction of claims under this Convention.
 
-10.  A Contracting State shall not permit a ship under its flag to which this Article applies to trade unless a certificate has been issued under paragraph 2 or 12 of this Article.
+10.   A Contracting State shall not permit a ship under its flag to which this Article applies to trade unless a certificate has been issued under paragraph 2 or 12 of this Article.
 
-11.  Subject to the provisions of this Article, each Contracting State shall ensure, under its national legislation, that insurance or other security to the extent specified in paragraph 1 of this Article is in force in respect of any ship, wherever registered, entering or leaving a port in its territory, or arriving at or leaving an off‑shore terminal in its territorial sea, if the ship actually carries more than 2,000 tons of oil in bulk as cargo.
+11.   Subject to the provisions of this Article, each Contracting State shall ensure, under its national legislation, that insurance or other security to the extent specified in paragraph 1 of this Article is in force in respect of any ship, wherever registered, entering or leaving a port in its territory, or arriving at or leaving an off-shore terminal in its territorial sea, if the ship actually carries more than 2,000 tons of oil in bulk as cargo.
 
-12.  If insurance or other financial security is not maintained in respect of a ship owned by a Contracting State, the provisions of this Article relating thereto shall not be applicable to such ship, but the ship shall carry a certificate issued by the appropriate authorities of the State of the ship’s registry stating that the ship is owned by that State and that the ship’s liability is covered within the limits prescribed by Article V, paragraph 1\. Such a certificate shall follow as closely as practicable the model prescribed by paragraph 2 of this Article.
+12.   If insurance or other financial security is not maintained in respect of a ship owned by a Contracting State, the provisions of this Article relating thereto shall not be applicable to such ship, but the ship shall carry a certificate issued by the appropriate authorities of the State of the ship’s registry stating that the ship is owned by that State and that the ship’s liability is covered within the limits prescribed by Article V, paragraph 1\. Such a certificate shall follow as closely as practicable the model prescribed by paragraph 2 of this Article.
 
 ARTICLE VIII
 
@@ -768,17 +768,17 @@ ARTICLE X
 
 (b)   where the defendant was not given reasonable notice and a fair opportunity to present his case.
 
-2.    A judgment recognized under paragraph 1 of this Article shall be enforceable in each Contracting State as soon as the formalities required in that State have been complied with. The formalities shall not permit the merits of the case to be re‑opened.
+2.    A judgment recognized under paragraph 1 of this Article shall be enforceable in each Contracting State as soon as the formalities required in that State have been complied with. The formalities shall not permit the merits of the case to be re-opened.
 
 ARTICLE XI
 
-1.    The provisions of this Convention shall not apply to warships or other ships owned or operated by a State and used, for the time being, only on Government non‑commercial service.
+1.    The provisions of this Convention shall not apply to warships or other ships owned or operated by a State and used, for the time being, only on Government non-commercial service.
 
 2.    With respect to ships owned by a Contracting State and used for commercial purposes, each State shall be subject to suit in the jurisdictions set forth in Article IX and shall waive all defences based on its status as a sovereign State.
 
 ARTICLE XII
 
-This Convention shall supersede any International Conventions in force or open for signature, ratification or accession at the date on which the Convention is opened for signature, but only to the extent that such Conventions would be in conflict with it; however, nothing in this Article shall affect the obligations of Contracting States to non‑Contracting States arising under such International Conventions.
+This Convention shall supersede any International Conventions in force or open for signature, ratification or accession at the date on which the Convention is opened for signature, but only to the extent that such Conventions would be in conflict with it; however, nothing in this Article shall affect the obligations of Contracting States to non-Contracting States arising under such International Conventions.
 
 ARTICLE XIII
 
@@ -794,13 +794,13 @@ ARTICLE XIII
 
 ARTICLE XIV
 
-1.    Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary‑General of the Organization.
+1.    Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary-General of the Organization.
 
 2.    Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to the present Convention with respect to all existing Contracting States, or after the completion of all measures required for the entry into force of the amendment with respect to those Contracting States shall be deemed to apply to the Convention as modified by the amendment.
 
 ARTICLE XV
 
-1.    The present Convention shall enter into force on the ninetieth day following the date on which Governments of eight States including five States each with not less than 1,000,000 gross tons of tanker tonnage have either signed it without reservation as to ratification, acceptance or approval or have deposited instruments of ratification, acceptance, approval or accession with the Secretary‑General of the Organization.
+1.    The present Convention shall enter into force on the ninetieth day following the date on which Governments of eight States including five States each with not less than 1,000,000 gross tons of tanker tonnage have either signed it without reservation as to ratification, acceptance or approval or have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization.
 
 2.    For each State which subsequently ratifies, accepts, approves or accedes to it the present Convention shall come into force on the ninetieth day after deposit by such State of the appropriate instrument.
 
@@ -808,31 +808,31 @@ ARTICLE XVI
 
 1.    The present Convention may be denounced by any Contracting State at any time after the date on which the Convention comes into force for that State.
 
-2.    Denunciation shall be effected by the deposit of an instrument with the Secretary‑General of the Organization.
+2.    Denunciation shall be effected by the deposit of an instrument with the Secretary-General of the Organization.
 
-3.    A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary‑General of the Organization.
+3.    A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary-General of the Organization.
 
 ARTICLE XVII
 
-1.    The United Nations, where it is the administering authority for a territory, or any Contracting State responsible for the international relations of a territory, shall as soon as possible consult with the appropriate authorities of such territory or take such other measures as may be appropriate, in order to extend the present Convention to that territory and may at any time by notification in writing to the Secretary‑General of the Organization declare that the present Convention shall extend to such territory.
+1.    The United Nations, where it is the administering authority for a territory, or any Contracting State responsible for the international relations of a territory, shall as soon as possible consult with the appropriate authorities of such territory or take such other measures as may be appropriate, in order to extend the present Convention to that territory and may at any time by notification in writing to the Secretary-General of the Organization declare that the present Convention shall extend to such territory.
 
 2.    The present Convention shall, from the date of receipt of the notification or from such other date as may be specified in the notification, extend to the territory named therein.
 
-3.    The United Nations, or any Contracting State which has made a declaration under paragraph 1 of this Article may at any time after the date on which the Convention has been so extended to any territory declare by notification in writing to the Secretary‑General of the Organization that the present Convention shall cease to extend to any such territory named in the notification.
+3.    The United Nations, or any Contracting State which has made a declaration under paragraph 1 of this Article may at any time after the date on which the Convention has been so extended to any territory declare by notification in writing to the Secretary-General of the Organization that the present Convention shall cease to extend to any such territory named in the notification.
 
-4.    The present Convention shall cease to extend to any territory mentioned in such notification one year, or such longer period as may be specified therein, after the date of receipt of the notification by the Secretary‑General of the Organization.
+4.    The present Convention shall cease to extend to any territory mentioned in such notification one year, or such longer period as may be specified therein, after the date of receipt of the notification by the Secretary-General of the Organization.
 
 ARTICLE XVIII
 
 1.    A Conference for the purpose of revising or amending the present Convention may be convened by the Organization.
 
-2.    The Organization shall convene a Conference of the Contracting States for revising or amending the present Convention at the request of not less than one‑third of the Contracting States.
+2.    The Organization shall convene a Conference of the Contracting States for revising or amending the present Convention at the request of not less than one-third of the Contracting States.
 
 ARTICLE XIX
 
-1.    The present Convention shall be deposited with the Secretary‑General of the Organization.
+1.    The present Convention shall be deposited with the Secretary-General of the Organization.
 
-2.    The Secretary‑General of the Organization shall:
+2.    The Secretary-General of the Organization shall:
 
 (a)   inform all States which have signed or acceded to the Convention of 
 
@@ -840,13 +840,13 @@ ARTICLE XIX
 
 (ii)   the deposit of any instrument of denunciation of this Convention together with the date of the deposit;
 
-(iii)  the extension of the present Convention to any territory under paragraph 1 of Article XVII and of the termination of any such extension under the provisions of paragraph 4 of that Article stating in each case the date on which the present Convention has been or will cease to be so extended;
+(iii)   the extension of the present Convention to any territory under paragraph 1 of Article XVII and of the termination of any such extension under the provisions of paragraph 4 of that Article stating in each case the date on which the present Convention has been or will cease to be so extended;
 
 (b)   transmit certified true copies of the present Convention to all Signatory States and to all States which accede to the present Convention. 
 
 ARTICLE XX
 
-As soon as the present Convention comes into force, the text shall be transmitted by the Secretary‑General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
+As soon as the present Convention comes into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
 
 ARTICLE XXI
 
@@ -854,7 +854,7 @@ The present Convention is established in a single copy in the English and French
 
 IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention.
 
-DONE at Brussels this twenty‑ninth day of November 1969\. 
+DONE at Brussels this twenty-ninth day of November 1969\. 
 
 <u>ANNEX</u>
 
@@ -899,7 +899,7 @@ Issued in accordance with the provisions of Article VII of the International Con
   </td>
 </tr></table>
 
-This is to certify that there is in force in respect of the above‑named ship a policy of insurance or other financial security satisfying the requirements of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1969.
+This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1969.
 
 <table>
 <colgroup>
@@ -908,7 +908,7 @@ This is to certify that there is in force in respect of the above‑named ship a
 
 <tr>
   <td>
-    <div><u>Type of Security</u>...........................................................................................</div>
+    <div><u>Type of Security</u>.............................................................................................</div>
   </td>
 </tr>
 <tr>
@@ -918,7 +918,7 @@ This is to certify that there is in force in respect of the above‑named ship a
 </tr>
 <tr>
   <td>
-    <div><u>Duration of Security</u>.....................................................................................</div>
+    <div><u>Duration of Security</u>.......................................................................................</div>
   </td>
 </tr>
 <tr>
@@ -938,7 +938,7 @@ This is to certify that there is in force in respect of the above‑named ship a
 </tr>
 <tr>
   <td>
-    <div>Address........................................................................................................</div>
+    <div>Address.........................................................................................................</div>
   </td>
 </tr>
 <tr>
@@ -948,12 +948,12 @@ This is to certify that there is in force in respect of the above‑named ship a
 </tr>
 <tr>
   <td>
-    <div>This certificate is valid until....................................................</div>
+    <div>This certificate is valid until........................................................</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Issued or certified by the Government of................................</div>
+    <div>Issued or certified by the Government of....................................</div>
   </td>
 </tr>
 <tr>
@@ -1030,7 +1030,7 @@ Article I of the 1969 Liability Convention is amended as follows:
 
 1.    Paragraph 1 is replaced by the following text:
 
-1.  “Ship” means any sea‑going vessel and seaborne craft of any type whatsoever constructed or adapted for the carriage of oil in bulk as cargo, provided that a ship capable of carrying oil and other cargoes shall be regarded as a ship only when it is actually carrying oil in bulk as cargo and during any voyage following such carriage unless it is proved that it has no residues of such carriage of oil in bulk aboard.
+1.  “Ship” means any sea-going vessel and seaborne craft of any type whatsoever constructed or adapted for the carriage of oil in bulk as cargo, provided that a ship capable of carrying oil and other cargoes shall be regarded as a ship only when it is actually carrying oil in bulk as cargo and during any voyage following such carriage unless it is proved that it has no residues of such carriage of oil in bulk aboard.
 
 2.    Paragraph 5 is replaced by the following text:
 
@@ -1054,7 +1054,7 @@ Article I of the 1969 Liability Convention is amended as follows:
 
 6.    After paragraph 9 a new paragraph is inserted reading as follows: 
 
-10.  “1969 Liability Convention” means the International Convention on Civil Liability for Oil Pollution Damage, 1969\. For States Parties to the Protocol of 1976 to that Convention, the term shall be deemed to include the 1969 Liability Convention as amended by that Protocol.
+10.   “1969 Liability Convention” means the International Convention on Civil Liability for Oil Pollution Damage, 1969\. For States Parties to the Protocol of 1976 to that Convention, the term shall be deemed to include the 1969 Liability Convention as amended by that Protocol.
 
 <u>Article 3</u>
 
@@ -1064,7 +1064,7 @@ This Convention shall apply exclusively:
 
 (a)   to pollution damage caused:
 
-(i)    in the territory, including the territorial sea, of a Contracting   State, and 
+(i)    in the territory, including the territorial sea, of a Contracting  State, and 
 
 (ii)   in the exclusive economic zone of a Contracting State, established in accordance with international law, or, if a Contracting State has not established such a zone, in an area beyond and adjacent to the territorial sea of that State determined by that State in accordance with international law and extending not more than 200 nautical miles from the baseline from which the breadth of its territorial sea is measured;
 
@@ -1092,7 +1092,7 @@ Article III of the 1969 Liability Convention is amended as follows:
 
 (e)   any person taking preventive measures;
 
-(f)   all servants or agents of persons mentioned in subparagraphs (c), (d) and (e);
+(f)    all servants or agents of persons mentioned in subparagraphs (c), (d) and (e);
 
 unless the damage resulted from their personal act or omission, committed with the intent to cause such damage, or recklessly and with knowledge that such damage would probably result.
 
@@ -1126,11 +1126,11 @@ provided, however, that this aggregate amount shall not in any event exceed 59.7
 
 4.    Paragraph 9 is replaced by the following text:
 
-9 (a). The “unit of account” referred to in paragraph 1 of this Article is the Special Drawing Right as defined by the International Monetary Fund. The amounts mentioned in paragraph 1 shall be converted into national currency on the basis of the value of that currency by reference to the Special Drawing Right on the date of the constitution of the fund referred to in paragraph 3\. The value of the national currency, in terms of the Special Drawing Right, of a Contracting   State which is a member of the International Monetary Fund shall be calculated in accordance with the method of valuation applied by the International Monetary Fund in effect on the date in question for its operations and transactions. The value of the national currency, in terms of the Special Drawing Right, of a Contracting State which is not a member of the International Monetary Fund shall be calculated in a manner determined by that State.
+9 (a).  The “unit of account” referred to in paragraph 1 of this Article is the Special Drawing Right as defined by the International Monetary Fund. The amounts mentioned in paragraph 1 shall be converted into national currency on the basis of the value of that currency by reference to the Special Drawing Right on the date of the constitution of the fund referred to in paragraph 3\. The value of the national currency, in terms of the Special Drawing Right, of a Contracting State which is a member of the International Monetary Fund shall be calculated in accordance with the method of valuation applied by the International Monetary Fund in effect on the date in question for its operations and transactions. The value of the national currency, in terms of the Special Drawing Right, of a Contracting  State which is not a member of the International Monetary Fund shall be calculated in a manner determined by that State.
 
-9 (b). Nevertheless, a Contracting State which is not a member of the International Monetary Fund and whose law does not permit the application of the provisions of paragraph 9(a) may, at the time of ratification, acceptance, approval of or accession to this Convention or at any time thereafter, declare that the unit of account referred to in paragraph 9 (a) shall be equal to 15 gold francs. The gold franc referred to in this paragraph corresponds to sixty‑five and a half milligrammes of gold of millesimal fineness nine hundred. The conversion of the gold franc into the national currency shall be made according to the law of the State concerned.
+9 (b).  Nevertheless, a Contracting State which is not a member of the International Monetary Fund and whose law does not permit the application of the provisions of paragraph 9(a) may, at the time of ratification, acceptance, approval of or accession to this Convention or at any time thereafter, declare that the unit of account referred to in paragraph 9 (a) shall be equal to 15 gold francs. The gold franc referred to in this paragraph corresponds to sixty-five and a half milligrammes of gold of millesimal fineness nine hundred. The conversion of the gold franc into the national currency shall be made according to the law of the State concerned.
 
-9 (c). The calculation mentioned in the last sentence of paragraph 9(a) and the conversion mentioned in paragraph 9(b) shall be made in such manner as to express in the national currency of the Contracting State as far as possible the same real value for the amounts in paragraph 1 as would result from the application of the first three sentences of paragraph 9(a). Contracting States shall communicate to the depositary the manner of calculation pursuant to paragraph 9(a), or the result of the conversion in paragraph 9(b) as the case may be, when depositing an instrument of ratification, acceptance, approval of or accession to this Convention and whenever there is a change in either.
+9 (c).  The calculation mentioned in the last sentence of paragraph 9(a) and the conversion mentioned in paragraph 9(b) shall be made in such manner as to express in the national currency of the Contracting State as far as possible the same real value for the amounts in paragraph 1 as would result from the application of the first three sentences of paragraph 9(a). Contracting States shall communicate to the depositary the manner of calculation pursuant to paragraph 9(a), or the result of the conversion in paragraph 9(b) as the case may be, when depositing an instrument of ratification, acceptance, approval of or accession to this Convention and whenever there is a change in either.
 
 5.    Paragraph 10 is replaced by the following text:
 
@@ -1218,7 +1218,7 @@ FINAL CLAUSES
 
 (b)   accession.
 
-3.    Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary‑General of the Organization.
+3.    Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary-General of the Organization.
 
 4.    Any Contracting State to the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1971, hereinafter referred to as the 1971 Fund Convention, may ratify, accept, approve or accede to this Protocol only if it ratifies, accepts, approves or accedes to the Protocol of 1992 to amend that Convention at the same time, unless it denounces the 1971 Fund Convention to take effect on the date when this Protocol enters into force for that State.
 
@@ -1230,11 +1230,11 @@ FINAL CLAUSES
 
 <u>Entry into force</u>
 
-1.    This Protocol shall enter into force twelve months following the date on which ten States including four States each with not less than one million units of gross tanker tonnage have deposited instruments of ratification, acceptance, approval or accession with the Secretary‑General of the Organization.
+1.    This Protocol shall enter into force twelve months following the date on which ten States including four States each with not less than one million units of gross tanker tonnage have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization.
 
-2.    However, any Contracting State to the 1971 Fund Convention may, at the time of the deposit of its instrument of ratification, acceptance, approval or accession in respect of this Protocol, declare that such instrument shall be deemed not to be effective for the purposes of this Article until the end of the six‑month period in Article 31 of the Protocol of 1992 to amend the 1971 Fund Convention. A State which is not a Contracting State to the 1971 Fund Convention but which deposits an instrument of ratification, acceptance, approval or accession in respect of the Protocol of 1992 to amend the 1971 Fund Convention may also make a declaration in accordance with this paragraph at the same time.
+2.    However, any Contracting State to the 1971 Fund Convention may, at the time of the deposit of its instrument of ratification, acceptance, approval or accession in respect of this Protocol, declare that such instrument shall be deemed not to be effective for the purposes of this Article until the end of the six-month period in Article 31 of the Protocol of 1992 to amend the 1971 Fund Convention. A State which is not a Contracting State to the 1971 Fund Convention but which deposits an instrument of ratification, acceptance, approval or accession in respect of the Protocol of 1992 to amend the 1971 Fund Convention may also make a declaration in accordance with this paragraph at the same time.
 
-3.    Any State which has made a declaration in accordance with the preceding paragraph may withdraw it at any time by means of a notification addressed to the Secretary‑General of the Organization. Any such withdrawal shall take effect on the date the notification is received, provided that such State shall be deemed to have deposited its instrument of ratification, acceptance, approval or accession in respect of this Protocol on that date.
+3.    Any State which has made a declaration in accordance with the preceding paragraph may withdraw it at any time by means of a notification addressed to the Secretary-General of the Organization. Any such withdrawal shall take effect on the date the notification is received, provided that such State shall be deemed to have deposited its instrument of ratification, acceptance, approval or accession in respect of this Protocol on that date.
 
 4.    For any State which ratifies, accepts, approves or accedes to it after the conditions in paragraph 1 for entry into force have been met, this Protocol shall enter into force twelve months following the date of deposit by such State of the appropriate instrument.
 
@@ -1250,13 +1250,13 @@ FINAL CLAUSES
 
 <u>Amendments of limitation amounts</u>
 
-1.    Upon the request of at least one quarter of the Contracting States any proposal to amend the limits of liability laid down in Article V, paragraph 1, of the 1969 Liability Convention as amended by this Protocol shall be circulated by the Secretary‑General to all Members of the Organization and to all Contracting States.
+1.    Upon the request of at least one quarter of the Contracting States any proposal to amend the limits of liability laid down in Article V, paragraph 1, of the 1969 Liability Convention as amended by this Protocol shall be circulated by the Secretary-General to all Members of the Organization and to all Contracting States.
 
 2.    Any amendment proposed and circulated as above shall be submitted to the Legal Committee of the Organization for consideration at a date at least six months after the date of its circulation.
 
 3.    All Contracting States to the 1969 Liability Convention as amended by this Protocol, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Legal Committee for the consideration and adoption of amendments.
 
-4.    Amendments shall be adopted by a two‑thirds majority of the Contracting States present and voting in the Legal Committee, expanded as provided for in paragraph 3, on condition that at least one half of the Contracting States shall be present at the time of voting.
+4.    Amendments shall be adopted by a two-thirds majority of the Contracting States present and voting in the Legal Committee, expanded as provided for in paragraph 3, on condition that at least one half of the Contracting States shall be present at the time of voting.
 
 5.    When acting on a proposal to amend the limits, the Legal Committee shall take into account the experience of incidents and in particular the amount of damage resulting therefrom, changes in the monetary values and the effect of the proposed amendment on the cost of insurance. It shall also take into account the relationship between the limits in Article V, paragraph 1, of the 1969 Liability Convention as amended by this Protocol and those in Article 4, paragraph 4, of the International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage, 1992.
 
@@ -1272,7 +1272,7 @@ FINAL CLAUSES
 
 9.    All Contracting States shall be bound by the amendment, unless they denounce this Protocol in accordance with Article 16, paragraphs 1 and 2, at least six months before the amendment enters into force. Such denunciation shall take effect when the amendment enters into force.
 
-10.  When an amendment has been adopted by the Legal Committee but the eighteen‑month period for its acceptance has not yet expired, a State which becomes a Contracting State during that period shall be bound by the amendment if it enters into force. A State which becomes a Contracting State after that period shall be bound by an amendment which has been accepted in accordance with paragraph 7\. In the cases referred to in this paragraph, a State becomes bound by an amendment when that amendment enters into force, or when this Protocol enters into force for that State, if later. 
+10.   When an amendment has been adopted by the Legal Committee but the eighteen-month period for its acceptance has not yet expired, a State which becomes a Contracting State during that period shall be bound by the amendment if it enters into force. A State which becomes a Contracting State after that period shall be bound by an amendment which has been accepted in accordance with paragraph 7\. In the cases referred to in this paragraph, a State becomes bound by an amendment when that amendment enters into force, or when this Protocol enters into force for that State, if later. 
 
 <u>Article 16</u>
 
@@ -1280,9 +1280,9 @@ FINAL CLAUSES
 
 1.    This Protocol may be denounced by any Party at any time after the date which it enters into force for that Party.
 
-2.    Denunciation shall be effected by the deposit of an instrument with the Secretary‑General of the Organization.
+2.    Denunciation shall be effected by the deposit of an instrument with the Secretary-General of the Organization.
 
-3.    A denunciation shall take effect twelve months, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary‑General of the Organization.
+3.    A denunciation shall take effect twelve months, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary-General of the Organization.
 
 4.    As between the Parties to this Protocol, denunciation by any of them of the 1969 Liability Convention in accordance with Article XVI thereof shall not be construed in any way as a denunciation of the 1969 Liability Convention as amended by this Protocol.
 
@@ -1292,9 +1292,9 @@ FINAL CLAUSES
 
 <u>Depositary</u>
 
-1.    This Protocol and any amendments accepted under Article 15 shall be deposited with the Secretary‑General of the Organization.
+1.    This Protocol and any amendments accepted under Article 15 shall be deposited with the Secretary-General of the Organization.
 
-2.    The Secretary‑General of the Organization shall:
+2.    The Secretary-General of the Organization shall:
 
 (a)   inform all States which have signed or acceded to this Protocol of: 
 
@@ -1302,7 +1302,7 @@ FINAL CLAUSES
 
 (ii)   each declaration and notification under Article 13 and each declaration and communication under Article V, paragraph 9, of the 1992 Liability Convention;
 
-(iii)  the date of entry into force of this Protocol;
+(iii)   the date of entry into force of this Protocol;
 
 (iv)  any proposal to amend limits of liability which has been made in accordance with Article 15, paragraph 1;
 
@@ -1310,15 +1310,15 @@ FINAL CLAUSES
 
 (vi)  any amendment deemed to have been accepted under Article 15, paragraph 7, together with the date on which that amendment shall enter into force in accordance with paragraphs 8 and 9 of that Article;
 
-(vii) the deposit of any instrument of denunciation of this Protocol together with the date of the deposit and the date on which it takes effect; 
+(vii)  the deposit of any instrument of denunciation of this Protocol together with the date of the deposit and the date on which it takes effect; 
 
-(viii)  any denunciation deemed to have been made under Article 16, paragraph 5;
+(viii)   any denunciation deemed to have been made under Article 16, paragraph 5;
 
 (ix)  any communication called for by any Article of this Protocol; 
 
 (b)   transmit certified true copies of this Protocol to all Signatory States and to all States which accede to this Protocol.
 
-3.    As soon as this Protocol enters into force, the text shall be transmitted by the Secretary‑General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
+3.    As soon as this Protocol enters into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
 
 <u>Article 18</u>
 
@@ -1326,7 +1326,7 @@ FINAL CLAUSES
 
 This Protocol is established in a single original in the Arabic, Chinese, English, French, Russian and Spanish languages, each text being equally authentic.
 
-DONE AT LONDON, this twenty‑seventh day of November one thousand nine hundred and ninety‑two.
+DONE AT LONDON, this twenty-seventh day of November one thousand nine hundred and ninety-two.
 
 IN WITNESS WHEREOF the undersigned, being duly authorized by their respective Governments for that purpose, have signed this Protocol. 
 
@@ -1373,7 +1373,7 @@ Issued in accordance with the provisions of Article VII of the International Con
   </td>
 </tr></table>
 
-This is to certify that there is in force in respect of the above‑named ship a policy of insurance or other financial security satisfying the requirements of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992\. 
+This is to certify that there is in force in respect of the above-named ship a policy of insurance or other financial security satisfying the requirements of Article VII of the International Convention on Civil Liability for Oil Pollution Damage, 1992\. 
 
 <table>
 <colgroup>
@@ -1382,7 +1382,7 @@ This is to certify that there is in force in respect of the above‑named ship a
 
 <tr>
   <td>
-    <div>Type of Security...........................................................................................</div>
+    <div>Type of Security.............................................................................................</div>
   </td>
 </tr>
 <tr>
@@ -1392,7 +1392,7 @@ This is to certify that there is in force in respect of the above‑named ship a
 </tr>
 <tr>
   <td>
-    <div>Duration of Security.....................................................................................</div>
+    <div>Duration of Security.......................................................................................</div>
   </td>
 </tr>
 <tr>
@@ -1412,17 +1412,17 @@ This is to certify that there is in force in respect of the above‑named ship a
 </tr>
 <tr>
   <td>
-    <div>Address........................................................................................................</div>
+    <div>Address.........................................................................................................</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>This certificate is valid until...................................................................</div>
+    <div>This certificate is valid until......................................................................</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Issued or certified by the Government of..............................................</div>
+    <div>Issued or certified by the Government of...................................................</div>
   </td>
 </tr>
 <tr>
@@ -1486,7 +1486,7 @@ adopted on 18 October 2000
 
 AMENDMENTS OF THE LIMITATION AMOUNTS IN THE PROTOCOL OF 1992 TO AMEND THE INTERNATIONAL CONVENTION ON CIVIL LIABILITY FOR OIL POLLUTION DAMAGE, 1969
 
-THE LEGAL COMMITTEE at its eighty‑second session:
+THE LEGAL COMMITTEE at its eighty-second session:
 
             RECALLING Article 33(b) of the Convention on the International Maritime Organization (hereinafter referred to as the “IMO Convention”) concerning the functions of the Committee,
 
@@ -1502,9 +1502,9 @@ THE LEGAL COMMITTEE at its eighty‑second session:
 
 3.         FURTHER DETERMINES that, in accordance with article 15(8) of the 1992 CLC Protocol, these amendments, deemed to have been accepted in accordance with paragraph 2 above, shall enter into force on 1 November 2003;
 
-4.         REQUESTS the Secretary‑General, in accordance with articles 15(7) and 17(2)(v) of the 1992 CLC Protocol, to transmit certified copies of the present resolution and the amendments contained in the Annex thereto to all States which have signed or acceded to the 1992 CLC Protocol; and
+4.         REQUESTS the Secretary-General, in accordance with articles 15(7) and 17(2)(v) of the 1992 CLC Protocol, to transmit certified copies of the present resolution and the amendments contained in the Annex thereto to all States which have signed or acceded to the 1992 CLC Protocol; and
 
-5.         FURTHER REQUESTS the Secretary‑General to transmit copies of the present resolution and its Annex to the Members of the Organization which have not signed or acceded to the 1992 CLC Protocol.
+5.         FURTHER REQUESTS the Secretary-General to transmit copies of the present resolution and its Annex to the Members of the Organization which have not signed or acceded to the 1992 CLC Protocol.
 
 ANNEX
 
@@ -1512,11 +1512,11 @@ AMENDMENTS OF THE LIMITATION AMOUNTS IN THE PROTOCOL OF 1992 TO AMEND THE INTERN
 
 Article 6(1) of the 1992 CLC Protocol is amended as follows:
 
-            the reference to “3 million units of account” shall read “4,510,000 units        of account”;
+            the reference to “3 million units of account” shall read “4,510,000 units     of account”;
 
-            the reference to “420 units of account” shall read “631 units of         account”; and
+            the reference to “420 units of account” shall read “631 units of    account”; and
 
-            the reference to “59.7 million units of account” shall read “89,770,000         units of account”.
+            the reference to “59.7 million units of account” shall read “89,770,000       units of account”.
 
 # Notes to the _Protection of the Sea (Civil Liability) Act 1981_
 
@@ -1819,32 +1819,15 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2011</div>
-    </td>
-    <td>
-      <div>5, 2011</div>
-    </td>
-    <td>
-      <div>22 Mar 2011</div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 100): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
 </thead></table>
 
 _(a)_ The _Protection of the Sea (Civil Liability) Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Protection of the Sea (Civil Liability) Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
+_(b)_    The _Protection of the Sea (Civil Liability) Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(c)_     The _Protection of the Sea (Civil Liability) Act 1981_ was amended by Part IV (ss. 35–40) only of the _Protection of the Sea Legislation Amendment Act 1986_, subsections 2(4) and (5) of which provide as follows:
 
@@ -1854,7 +1837,7 @@ _(c)_     The _Protection of the Sea (Civil Liability) Act 1981_ was ame
 
 _(d)_     The _Protection of the Sea Legislation Amendment Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(26) of which provides as follows:
 
-               (26)   The amendments of paragraph 20(2)(b) of, and Schedules 1, 2 and 8 to, the _Protection of the Sea Legislation Amendment Act 1986_ made by this Act shall respectively come into operation or be deemed to have come into operation, as the case requires, on the commencement of subsection 20(2), subsection 15(1), subsection 15(2) and section 40 of the first‑mentioned Act.
+               (26)   The amendments of paragraph 20(2)(b) of, and Schedules 1, 2 and 8 to, the _Protection of the Sea Legislation Amendment Act 1986_ made by this Act shall respectively come into operation or be deemed to have come into operation, as the case requires, on the commencement of subsection 20(2), subsection 15(1), subsection 15(2) and section 40 of the first-mentioned Act.
 
 Section 40 commenced on 9 October 1996 (_see Gazette_ 1996, No. S376).
 
@@ -2254,22 +2237,6 @@ _(h)_     Subsection 2(1) (items 27) of the _Statute Law Revision Act 20
 </tr>
 <tr>
   <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Schedule 2</b></div>
   </td>
   <td>
@@ -2316,7 +2283,7 @@ Insert:
 
           (1B)  While a ship is detained under this section, a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the ship.
 
-As at 29 March 2011 the amendment is not incorporated in this compilation.
+As at 2 February 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
