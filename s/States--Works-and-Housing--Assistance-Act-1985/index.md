@@ -1,1089 +1,1530 @@
-![](http://www.comlaw.gov.au/Details/C2005C00096/Html/9c109701-9c4a-43b6-85be-d9e01133bf81_files/image001.gif)
+**
 
-# States (Works and Housing) Assistance Act 1985
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985 
+**
 
-**Act No. 118 of 1985 as amended**
 
-This compilation was prepared on 28 February 2005
- taking into account amendments up to Act No. 8 of 2005
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation
 
-[4](#4).            Grants to States during 1985‑86 in respect of capital expenditure
+**
 
-[5](#5).            Advance payments to States for 1986‑87 in respect of capital expenditure
+###  Long Title 
+**
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _States (Works and Housing) Assistance Act 1985_.
 
-[5A](#5A).         Grants to States during 1986‑87 in respect of capital expenditure
+ 
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on the day on which it receives the Royal
 
-[5B](#5B).         Advance payments to States for 1987‑88 in respect of capital expenditure
+Assent.
 
-[5C](#5C).         Grants to States during 1987‑88 in respect of capital expenditure
+ 
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 3  Interpretation 
+In this Act:
 
-[5D](#5D).         Advance payments to States for 1988‑89 in respect of capital expenditure
+ 
+<dl compact=""><dl compact="">
 
-[6](#6).            Loans to States for public housing
+_Loan Council_ means the Australian Loan Council constituted in
 
-[7](#7).            Loan not to be made to State in certain circumstances etc 
+pursuance of the Financial Agreement referred to in the _Financial Agreement Validation Act 1929_. _relevant year_ means the year commencing on 1&#160;July 1985 or one of the 2 next succeeding years.  </dl></dl>
 
-[8](#8).            Variation of conditions relating to loan to State
+**
 
-[9](#9).            Advance payments to State in respect of public housing
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 4  Grants to States during 1985-86 in respect of capital expenditure 
+**
 
-[10](#10).          Loans to Northern Territory for public housing
+<dl compact="">
 
-[11](#11).          Loan not to be made to Northern Territory in certain circumstances
+<dt>(1)</dt><dd>There is payable to a State specified in column 1 of Schedule&#160;1,
 
-[12](#12).          Variation of conditions relating to loan to Northern Territory
+during the first relevant year, for the purpose of financial assistance in
 
-[13](#13).          Advance payments to Northern Territory in respect of public housing
+connection with expenditure of a capital nature, the amount specified in column
 
-[13A](#13A).       Statement by State in respect of public housing
+2 of the Schedule opposite to the name of the State, less the sum of any
 
-[14](#14).          Payments to be made out of Consolidated Revenue Fund
+amounts paid to the State under section&#160;5 of the _States (Works and Housing) Assistance Act 1984_.</dd> <dt>(2)</dt><dd>Payments for the purposes of this section shall be made in such amounts and at such times as the Treasurer approves. </dd> </dl>
 
-[15](#15).          Authority to borrow
+**
 
-[16](#16).          Application of moneys borrowed
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 5  Advance payments to States for 1986-87 in respect of capital expenditure 
+**
 
-[18](#18).          Appropriation
+<dl compact="">
 
-**Schedule 1—Capital Grants for 1985‑86** 
+		The Treasurer may, during the period of 6 months commencing on 1&#160;July
 
-**Schedule 2—Public Housing Loans for 1985‑86** 
+1986, make payments to a State specified in column 1 of Schedule&#160;1, for
 
-**Schedule 3—Capital Grants for 1986‑87 and Advance Payments for 1987‑88** 
+the purpose of financial assistance in connection with expenditure of a capital
 
-**Schedule 4—Capital Grants for 1987‑88 and Advance Payments for 1988‑89** 
+nature, of amounts not exceeding in the aggregate the amount specified in
 
-**Notes** 
+column 3 of the Schedule opposite to the name of the State.
 
-## An Act to grant financial assistance to the States in connection with expenditure of a capital nature, to make loans to the States and the Northern Territory for public housing and to authorise the borrowing of certain money by the Commonwealth
+ </dl>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+**
 
-                   This Act may be cited as the _States (Works and Housing) Assistance Act 1985_.
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 5A  Grants to States during 1986-87 in respect of capital expenditure 
+**
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<dl compact="">
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+		The Treasurer may, during the second relevant year, make payments to a State
 
-##### <a id="3"></a>3  Interpretation
+specified in column 1 of Schedule&#160;3, for the purpose of financial
 
-                   In this Act:
+assistance in connection with expenditure of a capital nature, of amounts not
 
-                    <a name="loan-council"></a>**_Loan Council_** means the Australian Loan Council constituted in pursuance of the Financial Agreement referred to in the _Financial Agreement Validation Act 1929_.
+exceeding in the aggregate the difference between:
 
-                    <a name="relev-year"></a>**_relevant year_** means the year commencing on 1 July 1985 or one of the 2 next succeeding years.
+ </dl>
 
-##### <a id="4"></a>4  Grants to States during 1985‑86 in respect of capital expenditure
+<center>Back to Top</center>
 
-             (1)  There is payable to a State specified in column 1 of Schedule 1, during the first relevant year, for the purpose of financial assistance in connection with expenditure of a capital nature, the amount specified in column 2 of the Schedule opposite to the name of the State, less the sum of any amounts paid to the State under section 5 of the _States (Works and Housing) Assistance Act 1984_.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  Payments for the purposes of this section shall be made in such amounts and at such times as the Treasurer approves.
+<dt>(a)</dt><dd>the amount specified in column 2 of the Schedule opposite to the name of
 
-##### <a id="5"></a>5  Advance payments to States for 1986‑87 in respect of capital expenditure
+the State; and</dd>
 
-                   The Treasurer may, during the period of 6 months commencing on 1 July 1986, make payments to a State specified in column 1 of Schedule 1, for the purpose of financial assistance in connection with expenditure of a capital nature, of amounts not exceeding in the aggregate the amount specified in column 3 of the Schedule opposite to the name of the State.
+<dt>(b)</dt><dd>the sum of any amounts paid to the State under section&#160;5.
 
-##### <a id="5A"></a>5A  Grants to States during 1986‑87 in respect of capital expenditure
+</dd>
 
-                   The Treasurer may, during the second relevant year, make payments to a State specified in column 1 of Schedule 3, for the purpose of financial assistance in connection with expenditure of a capital nature, of amounts not exceeding in the aggregate the difference between:
+</dl></dl></dl>
 
-                     (a)  the amount specified in column 2 of the Schedule opposite to the name of the State; and
+**
 
-                     (b)  the sum of any amounts paid to the State under section 5.
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 5B  Advance payments to States for 1987-88 in respect of capital expenditure 
+**
 
-##### <a id="5B"></a>5B  Advance payments to States for 1987‑88 in respect of capital expenditure
+<dl compact="">
 
-                   The Treasurer may, during the period of 6 months commencing on 1 July 1987, make payments to a State specified in column 1 of Schedule 3, for the purpose of financial assistance in connection with expenditure of a capital nature, of amounts not exceeding in the aggregate the amount specified in column 3 of the Schedule opposite to the name of the State.
+		The Treasurer may, during the period of 6 months commencing on 1&#160;July
 
-##### <a id="5C"></a>5C  Grants to States during 1987‑88 in respect of capital expenditure
+1987, make payments to a State specified in column 1 of Schedule&#160;3, for
 
-                   The Treasurer may, during the third relevant year, make payments to a State specified in column 1 of Schedule 4, for the purpose of financial assistance in connection with expenditure of a capital nature, of amounts not exceeding in the aggregate the difference between:
+the purpose of financial assistance in connection with expenditure of a capital
 
-                     (a)  the amount specified in column 2 of the Schedule opposite to the name of the State; and
+nature, of amounts not exceeding in the aggregate the amount specified in
 
-                     (b)  the sum of any amounts paid to the State under section 5B.
+column 3 of the Schedule opposite to the name of the State.
 
-##### <a id="5D"></a>5D  Advance payments to States for 1988‑89 in respect of capital expenditure
+ </dl>
 
-                   The Treasurer may, during the period of 6 months commencing on 1 July 1988, make payments to a State specified in column 1 of Schedule 4, for the purpose of financial assistance in connection with expenditure of a capital nature, of amounts not exceeding in the aggregate the amount specified in column 3 of the Schedule opposite to the name of the State.
+**
 
-##### <a id="6"></a>6  Loans to States for public housing
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 5C  Grants to States during 1987-88 in respect of capital expenditure 
+**
 
-             (1)  Subject to section 7, a State may, on or before 31 December in a relevant year, notify the Treasurer that, for the purpose of expenditure in respect of the relevant year in relation to public housing, it requires a loan of a specified amount, not being an amount that exceeds the prescribed amount, and, where it does so, the Treasurer may, during the relevant year, authorise the making of that loan by way of financial assistance to the State for that purpose.
+<dl compact="">
 
-             (2)  Subject to sections 7 and 8, a loan under subsection (1) shall be made on such terms and conditions as are specified in the agreement entered into between the Commonwealth and the State pursuant to the _Housing Assistance Act 1984_ in relation to loans, other than any terms and conditions of the agreement relating to the provision of matching funds by the State.
+		The Treasurer may, during the third relevant year, make payments to a State
 
-             (3)  Payments for the purposes of this section shall be made in such amounts and at such times as the Treasurer approves.
+specified in column 1 of Schedule&#160;4, for the purpose of financial
 
-             (4)  Where the prescribed amount in relation to a State in relation to the second or third relevant year is not a multiple of $1,000, then:
+assistance in connection with expenditure of a capital nature, of amounts not
 
-                     (a)  where the amount is a multiple of $500—the amount shall be deemed to be increased by $500; and
+exceeding in the aggregate the difference between:
 
-                     (b)  in any other case—the amount shall be deemed to be increased or reduced, as the case requires, to the nearest multiple of $1,000.
+ </dl>
 
-             (5)  In this section:
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="borrow-entitl"></a>**_borrowing entitlement_**, in relation to a State, in relation to a relevant year, means the total amount of loan money decided upon by the Loan Council as the money to be raised for and on behalf of the State during the relevant year, less so much of that amount as is to be made available to the State by way of non‑repayable grants.
+<dt>(a)</dt><dd>the amount specified in column 2 of the Schedule opposite to the name of
 
-                    <a name="prescrib-amount"></a>**_prescribed amount_**, in relation to a State, means:
+the State; and</dd>
 
-                     (a)  in relation to the first relevant year—the amount specified in Schedule 2 opposite to the name of the State;
+<dt>(b)</dt><dd>the sum of any amounts paid to the State under section&#160;5B.
 
-                     (b)  in relation to the second relevant year — an amount equal to:
+</dd>
 
-                              (i)  in the case of Western Australia or South Australia—the whole; or
+</dl></dl></dl>
 
-                             (ii)  in the case of any other State—60%;
+**
 
-                            of the borrowing entitlement of the State for the relevant year; and
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 5D  Advance payments to States for 1988-89 in respect of capital expenditure 
+**
 
-                     (c)  in relation to the third relevant year—an amount equal to the whole of the borrowing entitlement of the State for the relevant year.
+<dl compact="">
 
-##### <a id="7"></a>7  Loan not to be made to State in certain circumstances etc.
+		The Treasurer may, during the period of 6 months commencing on 1&#160;July
 
-                   The Treasurer shall not authorise the making of a loan to a State under subsection 6(1) during a relevant year unless satisfied that the State will comply with the terms and conditions of the agreement entered into between the Commonwealth and the State pursuant to the _Housing Assistance Act 1984_ that relate to the provision of matching funds by the State during the relevant year, and, in addition to the terms and conditions referred to in subsection 6(2), a loan to the State under subsection 6(1) is subject to the condition that the State will comply with the first‑mentioned terms and conditions.
+1988, make payments to a State specified in column 1 of Schedule&#160;4, for
 
-##### <a id="8"></a>8  Variation of conditions relating to loan to State
+the purpose of financial assistance in connection with expenditure of a capital
 
-             (1)  If the Minister for Community Services and Health becomes satisfied that a State has not complied with the condition specified in section 7 in relation to a loan:
+nature, of amounts not exceeding in the aggregate the amount specified in
 
-                     (a)  that Minister shall inform the Treasurer accordingly; and
+column 3 of the Schedule opposite to the name of the State.
 
-                     (b)  the Treasurer may give the Treasurer of the State a notice in writing stating that the terms and conditions relating to interest on, and the repayment of, a specified part of the loan, being such part as the Treasurer considers to be appropriate, are to be terms and conditions set out in the notice, being terms and conditions that the Treasurer, having regard to the terms and conditions relating to interest on, and the repayment of, other loans made by the Commonwealth to States, considers to be appropriate;
+ </dl>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 6  Loans to States for public housing 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to section&#160;7, a State may, on or before 31&#160;December in a
+
+relevant year, notify the Treasurer that, for the purpose of expenditure in
+
+respect of the relevant year in relation to public housing, it requires a loan
+
+of a specified amount, not being an amount that exceeds the prescribed amount,
+
+and, where it does so, the Treasurer may, during the relevant year, authorise
+
+the making of that loan by way of financial assistance to the State for that
+
+purpose.</dd> <dt>(2)</dt><dd>Subject to sections&#160;7 and 8, a loan under subsection&#160;(1) shall be made on such terms and conditions as are specified in the agreement entered into between the Commonwealth and the State pursuant to the _Housing Assistance Act 1984_ in relation to loans, other than any terms and conditions of the agreement relating to the provision of matching funds by the State.</dd> <dt>(3)</dt><dd>Payments for the purposes of this section shall be made in such amounts and at such times as the Treasurer approves.</dd> <dt>(4)</dt><dd>Where the prescribed amount in relation to a State in relation to the second or third relevant year is not a multiple of $1,000, then: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>where the amount is a multiple of $500&#151;the amount shall be deemed to be
+
+increased by $500; and</dd>
+
+<dt>(b)</dt><dd>in any other case&#151;the amount shall be deemed to be increased or reduced,
+
+as the case requires, to the nearest multiple of $1,000.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>In this section:
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_borrowing entitlement_, in relation to a State, in relation to a
+
+relevant year, means the total amount of loan money decided upon by the Loan
+
+Council as the money to be raised for and on behalf of the State during the
+
+relevant year, less so much of that amount as is to be made available to the
+
+State by way of non-repayable grants. _prescribed amount_, in relation to a State, means:  </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in relation to the first relevant year&#151;the amount specified in
+
+Schedule&#160;2 opposite to the name of the State;</dd>
+
+<dt>(b)</dt><dd>in relation to the second relevant year &#151; an amount equal to:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>in the case of Western Australia or South Australia&#151;the whole; or</dd>
+
+<dt>(ii)</dt><dd>in the case of any other State&#151;60%;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		of the borrowing entitlement of the State for the relevant year; and
+
+<dt>(c)</dt><dd>in relation to the third relevant year&#151;an amount equal to the whole of
+
+the borrowing entitlement of the State for the relevant year.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 7  Loan not to be made to State in certain circumstances etc. 
+**
+
+<dl compact="">
+
+		The Treasurer shall not authorise the making of a loan to a State under
+
+subsection 6(1) during a relevant year unless satisfied that the State will
+
+comply with the terms and conditions of the agreement entered into between the
+
+Commonwealth and the State pursuant to the _Housing Assistance Act 1984_ that relate to the provision of matching funds by the State during the
+
+relevant year, and, in addition to the terms and conditions referred to in
+
+subsection 6(2), a loan to the State under subsection 6(1) is subject to the
+
+condition that the State will comply with the first-mentioned terms and
+
+conditions.
+
+ </dl>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 8  Variation of conditions relating to loan to State 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If the Minister for Community Services and Health becomes satisfied that a
+
+State has not complied with the condition specified in section&#160;7 in
+
+relation to a loan:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that Minister shall inform the Treasurer accordingly; and</dd>
+
+<dt>(b)</dt><dd>the Treasurer may give the Treasurer of the State a notice in writing
+
+stating that the terms and conditions relating to interest on, and the
+
+repayment of, a specified part of the loan, being such part as the Treasurer
+
+considers to be appropriate, are to be terms and conditions set out in the
+
+notice, being terms and conditions that the Treasurer, having regard to the
+
+terms and conditions relating to interest on, and the repayment of, other loans
+
+made by the Commonwealth to States, considers to be appropriate;
+
+</dd>
+
+</dl></dl></dl>
 
 and, if such a notice is given, it has effect accordingly.
 
-             (2)  If the Minister for Community Services and Health becomes satisfied that a State has not expended, or committed itself to expend, in respect of the relevant year in relation to public housing, the whole or a part of the money available to the State by way of a loan made to the State under subsection 6(1):
+<dl compact="">
 
-                     (a)  that Minister shall inform the Treasurer accordingly; and
+<dt>(2)</dt><dd>If the Minister for Community Services and Health becomes satisfied that a
 
-                     (b)  the Treasurer may give the Treasurer of the State a notice in writing stating that the terms and conditions relating to interest on, and the repayment of, the loan or a specified part of the loan, being such part as the Treasurer considers to be appropriate, as the case may be, are to be the terms and conditions set out in the notice, being terms and conditions that the Treasurer, having regard to the terms and conditions relating to interest on, and the repayment of, other loans made by the Commonwealth to States, considers to be appropriate;
+State has not expended, or committed itself to expend, in respect of the
+
+relevant year in relation to public housing, the whole or a part of the money
+
+available to the State by way of a loan made to the State under subsection 6(1):
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that Minister shall inform the Treasurer accordingly; and</dd>
+
+<dt>(b)</dt><dd>the Treasurer may give the Treasurer of the State a notice in writing
+
+stating that the terms and conditions relating to interest on, and the
+
+repayment of, the loan or a specified part of the loan, being such part as the
+
+Treasurer considers to be appropriate, as the case may be, are to be the terms
+
+and conditions set out in the notice, being terms and conditions that the
+
+Treasurer, having regard to the terms and conditions relating to interest on,
+
+and the repayment of, other loans made by the Commonwealth to States, considers
+
+to be appropriate;
+
+</dd>
+
+</dl></dl></dl>
+
+and, if such a notice is given, it has effect accordingly. 
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 9  Advance payments to State in respect of public housing 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Treasurer may, during the period of 6 months commencing on 1&#160;July
+
+1986, 1&#160;July 1987 or 1&#160;July 1988, make payments to a State, for the
+
+purpose of financial assistance for expenditure for the purpose of public
+
+housing, of amounts not exceeding in the aggregate 50% of the prescribed amount
+
+for the relevant year ending immediately before that date.</dd> <dt>(2)</dt><dd>Payments under subsection&#160;(1) shall be made on such terms and conditions as are determined by the Treasurer at the time when the payments are made, being such terms and conditions as the Treasurer considers to be appropriate.</dd> <dt>(3)</dt><dd>In this section, _prescribed amount_ has the same meaning as in section&#160;6\. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 10  Loans to Northern Territory for public housing 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Subject to section&#160;11, the Northern Territory may, on or before
+
+31&#160;December in a relevant year, notify the Treasurer that, for the purpose
+
+of expenditure in respect of the relevant year in relation to public housing,
+
+it requires a loan of a specified amount, not being an amount that exceeds the
+
+prescribed amount in relation to the relevant year, and, where it does so, the
+
+Treasurer may, during the relevant year, authorise the making of that loan by
+
+way of financial assistance to the Territory for that purpose.</dd> <dt>(2)</dt><dd>Subject to sections&#160;11 and 12, a loan under subsection&#160;(1) shall be made on such terms and conditions as are specified in the agreement entered into between the Commonwealth and the Northern Territory pursuant to the _Housing Assistance Act 1984_ in relation to loans, other than any terms and conditions of the agreement relating to the provision of matching funds by the Territory.</dd> <dt>(3)</dt><dd>Payments for the purposes of this section shall be made in such amounts and at such times as the Treasurer approves.</dd> <dt>(4)</dt><dd>Where the prescribed amount in relation to a relevant year is an amount that is not a multiple of $1,000, then: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>where the amount is a multiple of $500&#151;the amount shall be deemed to be
+
+increased by $500; and</dd>
+
+<dt>(b)</dt><dd>in any other case&#151;the amount shall be deemed to be increased or reduced,
+
+as the case requires, to the nearest multiple of $1,000.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(5)</dt><dd>In this section:
+
+</dd> </dl>
+
+<def><dl compact=""><dl compact="">
+
+_borrowing entitlement_, in relation to a relevant year, means the
+
+amount of general purpose capital assistance determined by the Commonwealth, in
+
+association with the approval by the Loan Council of the total borrowing
+
+program for the relevant year, to be made available to the Northern Territory
+
+during the relevant year by way of loans from the Commonwealth. _prescribed amount_ means:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in relation to the first relevant year&#151;an amount equal to 30% of the
+
+borrowing entitlement of the Northern Territory for the relevant year;</dd>
+
+<dt>(b)</dt><dd>in relation to the second relevant year&#151;an amount equal to 60% of the
+
+borrowing entitlement of the Northern Territory for the relevant year; and</dd>
+
+<dt>(c)</dt><dd>in relation to the third relevant year&#151;an amount equal to the borrowing
+
+entitlement of the Northern Territory for the relevant year.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 11  Loan not to be made to Northern Territory in certain circumstances 
+**
+
+<dl compact="">
+
+		The Treasurer shall not authorise the making of a loan to the Northern
+
+Territory under subsection 10(1) during a relevant year unless satisfied that
+
+the Territory will comply with the terms and conditions of the agreement
+
+entered into between the Commonwealth and the Territory pursuant to the
+
+_Housing Assistance Act 1984_ that relate to the provision of matching
+
+funds by the Territory during the relevant year, and, in addition to the terms
+
+and conditions referred to in subsection 10(2), a loan to the Territory under
+
+subsection 10(1) is subject to the condition that the Territory will comply
+
+with the first-mentioned terms and conditions.
+
+ </dl>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 12  Variation of conditions relating to loan to Northern Territory 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>If the Minister for Community Services and Health becomes satisfied that
+
+the Northern Territory has not complied with the condition specified in
+
+section&#160;11 in relation to a loan:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that Minister shall inform the Treasurer accordingly; and</dd>
+
+<dt>(b)</dt><dd>the Treasurer may give the Treasurer of the Territory a notice in writing
+
+stating that the terms and conditions relating to interest on, and the
+
+repayment of, a specified part of the loan, being such part as the Treasurer
+
+considers to be appropriate, are to be the terms and conditions set out in the
+
+notice, being terms and conditions that the Treasurer, having regard to the
+
+terms and conditions relating to interest on, and the repayment of, other loans
+
+made by the Commonwealth to the Territory, considers to be appropriate;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
 
 and, if such a notice is given, it has effect accordingly.
 
-##### <a id="9"></a>9  Advance payments to State in respect of public housing
+<dl compact="">
 
-             (1)  The Treasurer may, during the period of 6 months commencing on 1 July 1986, 1 July 1987 or 1 July 1988, make payments to a State, for the purpose of financial assistance for expenditure for the purpose of public housing, of amounts not exceeding in the aggregate 50% of the prescribed amount for the relevant year ending immediately before that date.
+<dt>(2)</dt><dd>If the Minister for Community Services and Health becomes satisfied that
 
-             (2)  Payments under subsection (1) shall be made on such terms and conditions as are determined by the Treasurer at the time when the payments are made, being such terms and conditions as the Treasurer considers to be appropriate.
+the Northern Territory has not expended, or committed itself to expend, in
 
-             (3)  In this section, **_prescribed amount_** has the same meaning as in section 6.
+respect of the relevant year in relation to public housing, the whole or a part
 
-##### <a id="10"></a>10  Loans to Northern Territory for public housing
+of the money available to the Territory by way of a loan made to the Territory
 
-             (1)  Subject to section 11, the Northern Territory may, on or before 31 December in a relevant year, notify the Treasurer that, for the purpose of expenditure in respect of the relevant year in relation to public housing, it requires a loan of a specified amount, not being an amount that exceeds the prescribed amount in relation to the relevant year, and, where it does so, the Treasurer may, during the relevant year, authorise the making of that loan by way of financial assistance to the Territory for that purpose.
+under subsection 9(1):
 
-             (2)  Subject to sections 11 and 12, a loan under subsection (1) shall be made on such terms and conditions as are specified in the agreement entered into between the Commonwealth and the Northern Territory pursuant to the _Housing Assistance Act 1984_ in relation to loans, other than any terms and conditions of the agreement relating to the provision of matching funds by the Territory.
+</dd> </dl>
 
-             (3)  Payments for the purposes of this section shall be made in such amounts and at such times as the Treasurer approves.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  Where the prescribed amount in relation to a relevant year is an amount that is not a multiple of $1,000, then:
+<dt>(a)</dt><dd>that Minister shall inform the Treasurer accordingly; and</dd>
 
-                     (a)  where the amount is a multiple of $500—the amount shall be deemed to be increased by $500; and
+<dt>(b)</dt><dd>the Treasurer may give the Treasurer of the Territory a notice in writing
 
-                     (b)  in any other case—the amount shall be deemed to be increased or reduced, as the case requires, to the nearest multiple of $1,000.
+stating that the terms and conditions relating to interest on, and the
 
-             (5)  In this section:
+repayment of, the loan or a specified part of the loan, being such part as the
 
-                    <a name="borrow-entitl"></a>**_borrowing entitlement_**, in relation to a relevant year, means the amount of general purpose capital assistance determined by the Commonwealth, in association with the approval by the Loan Council of the total borrowing program for the relevant year, to be made available to the Northern Territory during the relevant year by way of loans from the Commonwealth.
+Treasurer considers to be appropriate, as the case may be, are to be the terms
 
-                    <a name="prescrib-amount"></a>**_prescribed amount_** means:
+and conditions set out in the notice, being terms and conditions that the
 
-                     (a)  in relation to the first relevant year—an amount equal to 30% of the borrowing entitlement of the Northern Territory for the relevant year;
+Treasurer, having regard to the terms and conditions relating to interest on,
 
-                     (b)  in relation to the second relevant year—an amount equal to 60% of the borrowing entitlement of the Northern Territory for the relevant year; and
+and the repayment of, other loans made by the Commonwealth to the Territory,
 
-                     (c)  in relation to the third relevant year—an amount equal to the borrowing entitlement of the Northern Territory for the relevant year.
+considers to be appropriate;
 
-##### <a id="11"></a>11  Loan not to be made to Northern Territory in certain circumstances
+</dd>
 
-                   The Treasurer shall not authorise the making of a loan to the Northern Territory under subsection 10(1) during a relevant year unless satisfied that the Territory will comply with the terms and conditions of the agreement entered into between the Commonwealth and the Territory pursuant to the _Housing Assistance Act 1984_ that relate to the provision of matching funds by the Territory during the relevant year, and, in addition to the terms and conditions referred to in subsection 10(2), a loan to the Territory under subsection 10(1) is subject to the condition that the Territory will comply with the first‑mentioned terms and conditions.
+</dl></dl></dl>
 
-##### <a id="12"></a>12  Variation of conditions relating to loan to Northern Territory
+and, if such a notice is given, it has effect accordingly. 
 
-             (1)  If the Minister for Community Services and Health becomes satisfied that the Northern Territory has not complied with the condition specified in section 11 in relation to a loan:
+**
 
-                     (a)  that Minister shall inform the Treasurer accordingly; and
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 13  Advance payments to Northern Territory in respect of public housing 
+**
 
-                     (b)  the Treasurer may give the Treasurer of the Territory a notice in writing stating that the terms and conditions relating to interest on, and the repayment of, a specified part of the loan, being such part as the Treasurer considers to be appropriate, are to be the terms and conditions set out in the notice, being terms and conditions that the Treasurer, having regard to the terms and conditions relating to interest on, and the repayment of, other loans made by the Commonwealth to the Territory, considers to be appropriate;
+<dl compact="">
 
-and, if such a notice is given, it has effect accordingly.
+<dt>(1)</dt><dd>The Treasurer may, during the period of 6 months commencing on 1&#160;July
 
-             (2)  If the Minister for Community Services and Health becomes satisfied that the Northern Territory has not expended, or committed itself to expend, in respect of the relevant year in relation to public housing, the whole or a part of the money available to the Territory by way of a loan made to the Territory under subsection 9(1):
+1986, 1&#160;July 1987 or 1&#160;July 1988, make payments to the Northern
 
-                     (a)  that Minister shall inform the Treasurer accordingly; and
+Territory, for the purpose of financial assistance for expenditure for the
 
-                     (b)  the Treasurer may give the Treasurer of the Territory a notice in writing stating that the terms and conditions relating to interest on, and the repayment of, the loan or a specified part of the loan, being such part as the Treasurer considers to be appropriate, as the case may be, are to be the terms and conditions set out in the notice, being terms and conditions that the Treasurer, having regard to the terms and conditions relating to interest on, and the repayment of, other loans made by the Commonwealth to the Territory, considers to be appropriate;
+purpose of public housing, of amounts not exceeding in the aggregate 15% of the
 
-and, if such a notice is given, it has effect accordingly.
+borrowing entitlement of the Territory for the relevant year ending immediately
 
-##### <a id="13"></a>13  Advance payments to Northern Territory in respect of public housing
+before that date.</dd> <dt>(2)</dt><dd>Payments under subsection&#160;(1) shall be made on such terms and conditions as are determined by the Treasurer at the time when the payments are made, being such terms and conditions as the Treasurer considers to be appropriate.</dd> <dt>(3)</dt><dd>In this section, _borrowing entitlement_ has the same meaning as in section&#160;10\. </dd> </dl>
 
-             (1)  The Treasurer may, during the period of 6 months commencing on 1 July 1986, 1 July 1987 or 1 July 1988, make payments to the Northern Territory, for the purpose of financial assistance for expenditure for the purpose of public housing, of amounts not exceeding in the aggregate 15% of the borrowing entitlement of the Territory for the relevant year ending immediately before that date.
+**
 
-             (2)  Payments under subsection (1) shall be made on such terms and conditions as are determined by the Treasurer at the time when the payments are made, being such terms and conditions as the Treasurer considers to be appropriate.
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 13A  Statement by State in respect of public housing 
+**
 
-             (3)  In this section, **_borrowing entitlement_** has the same meaning as in section 10.
+ <dl compact="">
 
-##### <a id="13A"></a>13A  Statement by State in respect of public housing
+<dt>(1)</dt><dd>A State shall give the Minister for Community Services and Health, not
 
-             (1)  A State shall give the Minister for Community Services and Health, not later than 30 November next following the end of a relevant year, a statement as to the expenditure of the amount of a loan made to the State in that year under the relevant subsection.
+later than 30&#160;November next following the end of a relevant year, a
 
-             (2)  A statement under subsection (1) shall be:
+statement as to the expenditure of the amount of a loan made to the State in
 
-                     (a)  in accordance with a form approved by the Minister for Community Services and Health; and
+that year under the relevant subsection.</dd> <dt>(2)</dt><dd>A statement under subsection&#160;(1) shall be: </dd> </dl>
 
-                     (b)  certified as to its correctness by a person appointed for that purpose by the relevant State Minister.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  In this section:
+<dt>(a)</dt><dd>in accordance with a form approved by the Minister for Community Services
 
-                    <a name="relev-subsect"></a>**_relevant subsection_** means:
+and Health; and</dd>
 
-                     (a)  in the case of the Northern Territory—subsection 10(1); and
+<dt>(b)</dt><dd>certified as to its correctness by a person appointed for that purpose by
 
-                     (b)  in any other case—subsection 6(1).
+the relevant State Minister.
 
-                    <a name="state"></a>**_State_** includes the Northern Territory.
+</dd>
 
-##### <a id="14"></a>14  Payments to be made out of Consolidated Revenue Fund
+</dl></dl></dl>
 
-                   Payments to a State or the Northern Territory for the purposes of this Act may be made out of the Consolidated Revenue Fund.
+<dl compact="">
 
-##### <a id="15"></a>15  Authority to borrow
+<dt>(3)</dt><dd>In this section:
 
-                   The Treasurer may, from time to time, in accordance with the provisions of the _Commonwealth Inscribed Stock Act 1911_, or in accordance with the provisions of an Act authorising the issue of Treasury Bills, borrow money not exceeding in the aggregate the sum of:
+</dd> </dl>
 
-                     (a)  the amounts that may become payable to the States and the Northern Territory under this Act; and
+<def><dl compact=""><dl compact="">
 
-                     (b)  the expenses of borrowing;
+_relevant subsection_ means:
 
-less the sum of any amounts borrowed under subsection 15(1) of the _States (Works and Housing) Assistance Act 1984_ for the purposes of making payments to the States and the Northern Territory under sections 5 and 13 of that Act.
+ </dl></dl>
 
-##### <a id="16"></a>16  Application of moneys borrowed
+<dl compact=""><dl compact=""><dl compact="">
 
-                   Moneys borrowed under section 15 shall be issued and applied only for the expenses of borrowing and for the purposes of making payments to the States and the Northern Territory in accordance with this Act.
+<dt>(a)</dt><dd>in the case of the Northern Territory&#151;subsection 10(1); and</dd>
 
-##### <a id="18"></a>18  Appropriation
+<dt>(b)</dt><dd>in any other case&#151;subsection 6(1).
 
-                   The Consolidated Revenue Fund is appropriated as necessary for the purposes of this Act. 
+</dd>
 
-# Schedule 1—Capital Grants for 1985‑86
+</dl></dl></dl>
 
-Sections 4 and 5
+<def><dl compact=""><dl compact="">
 
-<table>
-<colgroup>
-  <col width="57%">
-  <col width="23%">
-  <col width="20%">
-</colgroup>
+_State_ includes the Northern Territory.
 
-<tr>
-  <td>
+ </dl></dl>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 14  Payments to be made out of Consolidated Revenue Fund or Loan Fund 
+**
+
+<dl compact="">
+
+		Payments to a State or the Northern Territory for the purposes of this Act
+
+may be made out of the Consolidated Revenue Fund or the Loan Fund.
+
+ </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 15  Authority to borrow 
+**
+
+ <dl compact="">
+
+		The Treasurer may, from time to time, in accordance with the provisions of
+
+the _Commonwealth Inscribed Stock Act 1911_, or in accordance with the
+
+provisions of an Act authorising the issue of Treasury Bills, borrow money not
+
+exceeding in the aggregate the sum of:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the amounts that may become payable to the States and the Northern
+
+Territory under this Act; and</dd>
+
+<dt>(b)</dt><dd>the expenses of borrowing;
+
+</dd>
+
+</dl></dl></dl>
+
+less the sum of any amounts borrowed under subsection 15(1) of the _States (Works and Housing) Assistance Act 1984_ for the purposes of making payments to the States and the Northern Territory under sections&#160;5 and 13 of that Act. 
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 16  Application of moneys borrowed 
+**
+
+ <dl compact="">
+
+		Moneys borrowed under section&#160;15 shall be issued and applied only for
+
+the expenses of borrowing, for the purposes of making payments to the States
+
+and the Northern Territory in accordance with this Act and for the purposes of
+
+making payments to the Consolidated Revenue Fund in accordance with
+
+section&#160;17.
+
+ </dl>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 17  Reimbursement of Consolidated Revenue Fund from Loan Fund 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>Where an amount has been paid out of the Consolidated Revenue Fund under
+
+this Act or under section&#160;5 of the _States (Works and Housing) Assistance Act 1984_, the Minister for Finance may authorise the payment to
+
+that Fund, out of the Loan Fund, of an amount not exceeding the amount so
+
+paid.</dd> <dt>(2)</dt><dd>In any statement prepared by the Minister for Finance under section&#160;50 of the _Audit Act 1901_, amounts paid to the Consolidated Revenue Fund under subsection&#160;(1) of this section shall not be shown as receipts of that Fund but shall be shown as having reduced the total of the amounts expended from that Fund under this Act and under section&#160;5 of the _States (Works and Housing) Assistance Act 1984_. </dd> </dl>
+
+**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985- SECT 18  Appropriation 
+**
+
+ <dl compact="">
+
+		The Consolidated Revenue Fund and the Loan Fund are appropriated as necessary
+
+for the purposes of this Act.
+
+ </dl>
+
+<center>**
+
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985Schedule&#160;1&#151;Capital Grants for 1985-86 
+**</center>
+
+Sections&#160;4 and 5
+
+<table><tr align="left">
+  <td colspan="1" align="left">
     <div>Column 1</div>
+
   </td>
-  <td>
-    <div>Column 2</div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div>Amount of grant under subsection 4(1)</div>
+  <td colspan="1" align="right">
+    <div>Column 2 
+Amount of grant under subsection 4(1)</div>
+
   </td>
-  <td>
-    <div>Column 3</div>
-    <div></div>
-    <div></div>
-    <div>Maximum aggregate amount of payments under section 5</div>
+  <td colspan="1" align="right">
+    <div>Column 3 
+Maximum aggregate amount of payments under section&#160;5</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>New South Wales......................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>180,371,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>90,185,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Victoria.....................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Victoria</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>140,186,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>70,093,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Queensland...............................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>73,986,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>36,993,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Western Australia......................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>51,632,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>25,816,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>South Australia.........................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>South Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>72,718,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>36,359,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tasmania..................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Tasmania</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>39,107,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>19,053,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="right">
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="right">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total..................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="right">
+
+  </td>
+  <td colspan="1" align="right">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
+  </td>
+  <td colspan="1" align="right">
     <div>558,000,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>279,000,000</div>
-    <div></div>
+
   </td>
 </tr></table>
 
-# Schedule 2—Public Housing Loans for 1985‑86
+<center>Back to Top</center>
 
-Section 6 
+<center>**
 
-<table>
-<colgroup>
-  <col width="79%">
-  <col width="21%">
-</colgroup>
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985Schedule&#160;2&#151;Public Housing Loans for 1985-86 
+**</center>
 
-<tr>
-  <td>
-    <div></div>
+Section&#160;6 
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>New South Wales......................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>97,603,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Victoria.....................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Victoria</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>75,858,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Queensland...............................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>40,037,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Western Australia......................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>93,132,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>South Australia..........................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>South Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>131,166,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tasmania...................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Tasmania</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>21,162,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="right">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total..................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="right">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
+  </td>
+  <td colspan="1" align="right">
     <div>458,958,000</div>
-    <div></div>
+
   </td>
 </tr></table>
 
-# Schedule 3—Capital Grants for 1986‑87 and Advance Payments for 1987‑88
+<center>**
 
-Sections 5A and 5B
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985Schedule&#160;3&#151;Capital Grants for 1986-87 and Advance Payments for 1987-88 
+**</center>
 
-<table>
-<colgroup>
-  <col width="57%">
-  <col width="23%">
-  <col width="19%">
-</colgroup>
+Sections&#160;5A and 5B
 
-<tr>
-  <td>
+<table><tr align="left">
+  <td colspan="1" align="left">
     <div>Column 1</div>
+
   </td>
-  <td>
-    <div>Column 2</div>
-    <div></div>
-    <div></div>
-    <div>Maximum aggregate amount of payments under section 5A</div>
+  <td colspan="1" align="right">
+    <div>Column 2 
+Maximum aggregate amount of payments under section&#160;5A</div>
+
   </td>
-  <td>
-    <div>Column 3</div>
-    <div></div>
-    <div>Maximum aggregate amount of payments under section 5B</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>$</div>
-  </td>
-  <td>
-    <div>$</div>
+  <td colspan="1" align="right">
+    <div>Column 3 
+Maximum aggregate amount of payments under section&#160;5B</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>New South Wales..............................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="right">
+    <div>$</div>
+
+  </td>
+  <td colspan="1" align="right">
+    <div>$</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
+
+  </td>
+  <td colspan="1" align="right">
     <div>138,809,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>69,404,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Victoria.............................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Victoria</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>107,884,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>53,942,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Queensland.......................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>56,939,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>28,469,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Western Australia..............................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>39,735,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>19,867,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>South Australia..................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>South Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>55,962,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>27,981,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tasmania...........................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Tasmania</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>30,097,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>15,048,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="right">
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="right">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total..................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="right">
+
+  </td>
+  <td colspan="1" align="right">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
+  </td>
+  <td colspan="1" align="right">
     <div>429,426,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>214,713,000</div>
+
   </td>
 </tr></table>
 
-# Schedule 4—Capital Grants for 1987‑88 and Advance Payments for 1988‑89
+<center>Back to Top</center>
 
-Sections 5C and 5D
+<center>**
 
-<table>
-<colgroup>
-  <col width="47%">
-  <col width="28%">
-  <col width="25%">
-</colgroup>
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985Schedule&#160;4&#151;Capital Grants for 1987-88 and Advance Payments for 1988-89 
+**</center>
 
-<tr>
-  <td>
-    <div>Column 1</div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div></div>
-    <div>State</div>
+Sections&#160;5C and 5D
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Column 1 
+State</div>
+
   </td>
-  <td>
-    <div>Column 2</div>
-    <div></div>
-    <div></div>
-    <div>Maximum aggregate amount of payments under section 5C</div>
+  <td colspan="1" align="right">
+    <div>Column 2 
+Maximum aggregate amount of payments under section&#160;5C</div>
+
   </td>
-  <td>
-    <div>Column 3</div>
-    <div></div>
-    <div>Maximum aggregate amount of payments under section 5D</div>
+  <td colspan="1" align="right">
+    <div>Column 3 
+Maximum aggregate amount of payments under section&#160;5D</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>$</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>New South Wales..............................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>58,224,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>29,112,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Victoria.............................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Victoria</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>48,318,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>24,159,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Queensland.......................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Queensland</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>12,483,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>6,241,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Western Australia..............................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Western Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>11,251,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>5,625,500</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>South Australia..................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>South Australia</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>27,390,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>13,695,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Tasmania...........................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Tasmania</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>18,438,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>9,219,000</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="right">
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="right">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Total..................................................................</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="right">
+
+  </td>
+  <td colspan="1" align="right">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Total</div>
+
+  </td>
+  <td colspan="1" align="right">
     <div>176,104,000</div>
+
   </td>
-  <td>
+  <td colspan="1" align="right">
     <div>88,052,000</div>
+
   </td>
 </tr></table>
 
-# Notes to the _States (Works and Housing) Assistance Act 1985_
+<center>Back to Top</center>
 
-### Note 1
+<center>**
 
-The _States (Works and Housing) Assistance Act 1985_ as shown in this compilation comprises Act No. 118, 1985 amended as indicated in the Tables below.
+###  STATES (WORKS AND HOUSING) ASSISTANCE ACT 1985<centreit>Notes to the _States (Works and Housing) Assistance Act 1985_ </centreit>
+**</center>
 
-### Table of Acts
+**Note 1**
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+The _States (Works and Housing) Assistance Act 1985_ as shown in this compilation comprises Act No.&#160;118, 1985 amended as indicated in the Tables below.
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>States (Works and Housing) Assistance Act 1985</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr></table>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div><i>States (Works and Housing) Assistance Act 1985</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>118, 1985</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21 Oct 1985</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21 Oct 1985</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>States (Works and Housing) Assistance Amendment Act 1986</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>States (Works and Housing) Assistance Amendment Act 1986</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>124, 1986</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>6 Dec 1986</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>6 Dec 1986</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>States (Works and Housing) Assistance Amendment Act 1987</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>States (Works and Housing) Assistance Amendment Act 1987</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>96, 1987</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5 Nov 1987</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>5 Nov 1987</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 6(2)</div>
+
   </td>
+</tr></table>**Table <center>Back to Top</center> of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 46–50): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
 
-## Table of Amendments
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
 
-<table>
-<colgroup>
-  <col width="33%">
-  <col width="1%">
-  <col width="65%">
-  <col width="1%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td colspan="2">
-      <div>How affected</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 5A, 5B</div>
+
   </td>
-  <td colspan="2">
-    <div>ad. No. 124, 1986</div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;124, 1986</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 5C, 5D</div>
+
   </td>
-  <td colspan="2">
-    <div>ad. No. 96, 1987</div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;96, 1987</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
-  <td colspan="2">
-    <div>am. No. 124, 1986; No. 96, 1987</div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;124, 1986; No.&#160;96, 1987</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
-  <td colspan="2">
-    <div>am. No. 96, 1987</div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;96, 1987</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 10</div>
+
   </td>
-  <td colspan="2">
-    <div>am. No. 124, 1986; No. 96, 1987</div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;124, 1986; No.&#160;96, 1987</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 12</div>
+
   </td>
-  <td colspan="2">
-    <div>am. No. 96, 1987</div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;96, 1987</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 13A</div>
+
   </td>
-  <td colspan="2">
-    <div>ad. No. 96, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>Heading to s. 14</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 8, 2005</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;96, 1987</div>
+
   </td>
 </tr>
-<tr>
-  <td colspan="2">
-    <div>S. 14</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Schedule&#160;3</div>
+
   </td>
-  <td colspan="2">
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>S. 16</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 8, 2005</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;124, 1986</div>
+
   </td>
 </tr>
-<tr>
-  <td colspan="2">
-    <div>S. 17</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Schedule&#160;4</div>
+
   </td>
-  <td colspan="2">
-    <div>rep. No. 8, 2005</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;96, 1987</div>
+
   </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div>S. 18</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 3</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 124, 1986</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 4</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 96, 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
 </tr></table>
 
- 
+</def></def>
 
- 
+</def>
+
+</def>
+
+
