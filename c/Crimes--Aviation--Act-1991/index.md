@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C03110/Html/CrimesAviation1991_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C03109/Html/CrimesAviation1991_image001.gif)
 
 # Crimes (Aviation) Act 1991
 
 **Act No. 139 of 1991 as amended**
 
-This compilation was prepared on 1 July 2004
- taking into account amendments up to Act No. 64 of 2004
+This compilation was prepared on 16 March 2004
+ taking into account amendments up to Act No. 9 of 2004
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -206,7 +206,7 @@ Prepared by the Office of Legislative Drafting,
 
                      (a)  in sections 30 and 33—any of the following persons:
 
-                              (i)  a protective service officer within the meaning of the _Australian Federal Police Act 1979_;
+                              (i)  a protective service officer within the meaning of the _Australian Protective Service Act 1987_;
 
                              (ii)  a member of the Australian Federal Police or an officer of the police force (however described) of a State or Territory;
 
@@ -1860,11 +1860,11 @@ Article 26
 
 * * *
 
-Note**:**
+No**te:**
 
 The amendments made by this Schedule are incorporated in the compilations on SCALEplus.
 
-Australian Protective Service Act 1987 \[repealed by Act No.64, 2004, Sch. 2 (item 2)]
+Australian Protective Service Act 1987
 
 Australian Security Intelligence Organization Act 1979
 
@@ -2155,23 +2155,6 @@ Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(a)</i><
     <div>Sch. 3 \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Australian Federal Police and Other Legislation Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>64, 2004</div>
-  </td>
-  <td>
-    <div>22 June 2004</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (item 6): 1 July 2004</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -2221,7 +2204,7 @@ _(f)_      The _Crimes (Aviation) Act 1991_ was amended by Schedule 11
 
          Item 15 commenced on 24 May 2001.
 
-_(g)_ Subsection 2(1) (item 11) of the _Security Legislation Amendment (Terrorism) Act 2002_ provides as follows:
+_(g)_ Subsection 2(1) (item 11) of the _Security Legislation Amendment (Terrorism) Act 2002_, provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -2410,7 +2393,7 @@ _(h)_ Subsection 2(1) (item 2) of the _Aviation Transport Security (Consequent
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 196, 1992; No. 182, 1994; No. 146, 1999; No. 9, 2000; No. 65, 2002; No. 64, 2004</div>
+    <div>am. No. 196, 1992; No. 182, 1994; No. 146, 1999; No. 9, 2000; No. 65, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2642,7 +2625,7 @@ The following amendment commences on 10 March 2005 unless proclaimed earlier:
 
 After “_Air Navigation Act 1920_ or regulations made under that Act,”, insert “, the _Aviation Transport Security Act 2004_ or regulations made under that Act, or”.
 
-As at 1 July 2004 the amendment is not incorporated in this compilation.
+As at 16 March 2004 the amendment is not incorporated in this compilation.
 
 ## Table A
 
