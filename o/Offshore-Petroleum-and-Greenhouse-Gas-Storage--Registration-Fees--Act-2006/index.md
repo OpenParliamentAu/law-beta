@@ -1,24 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00858/Html/0af28153-39e3-48a5-ab25-214291187b52_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00482/Html/OffshorePetrGreenGasStorageRegFees2006_image001.gif)
 
 # Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Act 2006
 
 **Act No. 16 of 2006 as amended**
 
-**\[Note: This Act is to be repealed by Act No. 112 of 2011 on the later of 1 November 2013 and the 15th day of the month following the month in which the total of the amounts received by the Commonwealth reaches $30.6 million or a lesser amount is specified in the _Gazette_ (_see_ subsection 2(1) (item 7))**
-
-**For application provision _see_ Act No. 112 of 2011, Schedule 4 (item 22)]**
-
-This compilation was prepared on 21 October 2011
- taking into account amendments up to Act No. 111 of 2011
+This compilation was prepared on 16 October 2009
+ taking into account amendments up to Act No. 102 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -54,11 +49,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Transitional provisions**
 
-[1](#1).            Pre‑commencement entries etc 
+[1](#1).            Pre-commencement entries etc 
 
 [2](#2).            Transitional—regulations
 
-[3](#3).            Re‑enactment of the _Petroleum (Submerged Lands) (Registration Fees) Act 1967_
+[3](#3).            Re-enactment of the _Petroleum (Submerged Lands) (Registration Fees) Act 1967_
 
 **Notes** 
 
@@ -66,7 +61,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## Part 1—Introduction
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt;font-weight: normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Act 2006_.
 
@@ -800,7 +795,7 @@ Note:          For collection of fees, see Part 6.7 of the _
 
 ##### <a id="7"></a>7  Regulations
 
-                   The Governor‑General may make regulations for the purposes of this Act.
+                   The Governor-General may make regulations for the purposes of this Act.
 
 ##### <a id="8"></a>8  Transitional provisions
 
@@ -810,7 +805,7 @@ Note:          For collection of fees, see Part 6.7 of the _
 
 _Note:       See section 8._
 
-##### <a id="1"></a>1  Pre‑commencement entries etc.
+##### <a id="1"></a>1  Pre-commencement entries etc.
 
              (1)  Despite the repeal of the _Petroleum (Submerged Lands) (Registration Fees) Act 1967_, that Act continues to apply, in relation to an entry made before the commencement of this clause, as if that repeal had not happened.
 
@@ -840,9 +835,9 @@ _Note:       See section 8._
 
                      (b)  if the provision appears to have expressed the same idea in a different form of words for the purpose of using a clearer style—disregard the difference.
 
-##### <a id="3"></a>3  Re‑enactment of the _Petroleum (Submerged Lands) (Registration Fees) Act 1967_
+##### <a id="3"></a>3  Re-enactment of the _Petroleum (Submerged Lands) (Registration Fees) Act 1967_
 
-                   This Act re‑enacts the _Petroleum (Submerged Lands) (Registration Fees) Act 1967_ with certain modifications.
+                   This Act re-enacts the _Petroleum (Submerged Lands) (Registration Fees) Act 1967_ with certain modifications.
 
 Note:          Section 15AC of the _Acts Interpretation Act 1901_ provides that if an Act has expressed an idea in a particular form of words, and a later Act appears to have expressed the same idea in a different form of words for the purpose of using a clearer style, the ideas shall not be taken to be different merely because different forms of words were used.
 
@@ -850,19 +845,17 @@ Note:          Section 15AC of the _Acts Interpretation Act 
 
 ### Note 1
 
-The _Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Act 2006_ as shown in this compilation comprises Act No. 16, 2006 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+The _Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Act 2006_ as shown in this compilation comprises Act No. 16, 2006 amended as indicated in the Tables below. 
 
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="19%">
   <col width="21%">
-  <col width="15%">
+  <col width="13%">
 </colgroup>
 
 <thead>
@@ -938,24 +931,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>111, 2011</div>
-  </td>
-  <td>
-    <div>14 Oct 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>s. 2(1), Note 2 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 7, 8)</div>
   </td>
 </tr></table>
 
@@ -1333,77 +1308,5 @@ _(a)_     Subsection 2(1) (item 4) of the _Offshore Petroleum (Registr
     <div>am. No. 119, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Amendment Act 2011 (No. 111, 2011)_
-
-The following amendments commence at the same time as Part 1 of Schedule 2 to the _Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011_:
-
-## Schedule 1
-
-## 1  Subsection 5(2) (paragraph (c) of the cell at table item 4, column headed “In this case...”)
-
-Omit “Designated Authority”, substitute “Titles Administrator”.
-
-## 2  Subsection 6(2) (paragraph (f) of the cell at table item 2, column headed “In this case...”)
-
-Omit “Designated Authority”, substitute “Titles Administrator”.
-
-## 3  Subsection 6(2) (table item 3, column headed “the amount of the fee is...”)
-
-Omit “Designated Authority”, substitute “Titles Administrator”.
-
-## 4  Subsection 6(2) (paragraphs (d) and (f) of the cell at table item 4, column headed “In this case...”)
-
-Omit “Designated Authority”, substitute “Titles Administrator”.
-
-## 5  Subsection 6(2) (paragraph (d) of the cell at table item 6, column headed “In this case...”)
-
-Omit “Designated Authority”, substitute “Titles Administrator”.
-
-## 6  Subsections 6(4) and (5)
-
-Omit “Designated Authority”, substitute “Titles Administrator”.
-
-As at 21 October 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Amendment Act 2011 (No. 111, 2011)_
-
-The following provisions commence at the same time as Part 1 of Schedule 2 to the _Offshore Petroleum and Greenhouse Gas Storage Amendment (National Regulator) Act 2011_:
-
-## Schedule 1
-
-## 7  Transitional—instruments
-
-(1)       This item applies to an instrument if:
-
-                     (a)  the instrument was in force immediately before the commencement of this item; and
-
-                     (b)  the instrument was made or given, by the Designated Authority for an offshore area, under, or for the purposes of, a particular provision of the _Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Act 2006_.
-
-(2)       The instrument has effect, after the commencement of this item, as if it had been made or given:
-
-                     (a)  by the Titles Administrator; and
-
-                     (b)  under, or for the purposes of, the corresponding provision of that Act as amended by this Schedule.
-
-## 8  Transitional—acts of Designated Authority to be attributed to the Titles Administrator etc.
-
-(1)       This item applies to an act or thing (other than the making or giving of an instrument) that was done before the commencement of this item:
-
-                     (a)  by, or in relation to, the Designated Authority for an offshore area; and
-
-                     (b)  under, or for the purposes of, a particular provision of the _Offshore Petroleum and Greenhouse Gas Storage (Registration Fees) Act 2006_.
-
-(2)       The act or thing has effect, after the commencement of this item, as if it had been done:
-
-                     (a)  by, or in relation to, the Titles Administrator; and
-
-                     (b)  under, or for the purposes of, the corresponding provision of that Act as amended by this Schedule.
 
  
