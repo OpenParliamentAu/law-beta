@@ -1,9 +1,8 @@
 
 Natural Heritage Trust of Australia Act 1997
 Act No. 76 of 1997 as amended 
-Consolidated as in force on 16 August 1999
-(includes amendments up to Act No. 92 of 1999)
-This Act has uncommenced amendments For uncommenced amendments, see the endnotes
+Consolidated as in force on 27 July 1999
+(includes amendments up to Act No. 53 of 1999)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
 1	Short title [see Note 1]	1
@@ -66,7 +65,7 @@ Part 6—Miscellaneous	20
 52	Transitional—expenses of investment	27
 53	External Territories	27
 54	Interpretation	27
-Notes 		31
+Notes 		1
 
 An Act to establish the Natural Heritage Trust of Australia Reserve, and for related purposes
 Do not delete : Chapter placeholder
@@ -209,10 +208,10 @@ Note 2:	Before the commencement of the Financial Management and Accountability A
 	(ii)	water;
 	(iii)	vegetation; or
 	(b)	any activity relating to the management of the use, development or conservation of any other natural resources for the purposes of an activity mentioned in paragraph (a).
-18  Meaning of accounting transfer purpose
+	18  Meaning of accounting transfer purpose
 		For the purposes of this Act, each of the following is an accounting transfer purpose:
 	(a)	making payments under section 5 of the Natural Resources Management (Financial Assistance) Act 1992;
-	(b)	after the commencement of the Financial Management and Accountability Act 1997—crediting amounts to the Natural Resources Management Reserve established under the Natural Resources Management (Financial Assistance) Act 1992;
+	(b)	after the commencement of the Financial Management and Accountability Act 1997—crediting amounts to the Natural Resources Management Reserve established under the Natural Resources Management (Financial Assistance) Act 1992;
 	(c)	before the commencement of the Financial Management and Accountability Act 1997—crediting amounts to the Natural Resources Management Fund established under the Natural Resources Management (Financial Assistance) Act 1992;
 	(d)	making payments under agreements in force under Part 3 of the Rural Adjustment Act 1992, to the extent to which those payments are in connection with property management planning in relation to the farm unit.
 19  Grant of financial assistance to a State
@@ -268,7 +267,7 @@ Note:	The principles of ecologically sustainable development that are set out in
 Part 4—Crediting of amounts to the Reserve
 Do not delete : Division placeholder
 22  $1.1 billion derived from the initial partial sale of Telstra 
-	(1)	For each $1 that is received by the Commonwealth, in a particular month beginning before the date of commencement of section 22A, by way of proceeds of the sale of shares in Telstra, $1 is to be transferred to the Reserve from the Consolidated Revenue Fund before the end of the next following month.
+	(1)	For each $1 that is received by the Commonwealth, in a particular month beginning before the date of commencement of section 22A, by way of proceeds of the sale of shares in Telstra, $1 is to be transferred to the Reserve from the Consolidated Revenue Fund before the end of the next following month.
 	(2)	The total amount transferred to the Reserve under this section is not to exceed $1.1 billion.
 22A  $250 million derived from the subsequent partial sale of Telstra
 	(1)	For each $1 that is received by the Commonwealth, in a particular month beginning on or after the date of commencement of this section, by way of proceeds of the sale of shares in Telstra, $1 is to be transferred to the Reserve from the Consolidated Revenue Fund before the end of the next following month.
@@ -319,17 +318,17 @@ Do not delete : Division placeholder
 	(d)	river and/or wetland ecology;
 	(e)	coastal and/or marine systems.
 31  Functions of Committee
-		The functions of the Committee are as follows:
+The functions of the Committee are as follows:
 	(a)	to advise the Natural Heritage Ministerial Board about the integration of the objectives of environmental protection, natural resources management and sustainable agriculture;
 	(b)	to advise the Natural Heritage Ministerial Board about the effectiveness of agreements entered into under subsection 19(2) in achieving integrated outcomes for the operations of the Reserve;
 	(c)	when requested by the Natural Heritage Ministerial Board to do so—to advise the Natural Heritage Ministerial Board about other matters.
 32  Appointment of Committee members
 	(1)	The Committee members are to be appointed by the Natural Heritage Ministerial Board by written instrument.
-	(2)	A Committee member is to be appointed for the period specified in the instrument of appointment. The period must not exceed 3 years.
+	(2)	A Committee member is to be appointed for the period specified in the instrument of appointment. The period must not exceed 3 years.
 	(3)	A Committee member holds office on a part-time basis.
 	(4)	The performance of the functions of the Committee is not affected only because of there being a vacancy or vacancies in the membership of the Committee.
 33  Procedures
-		The Natural Heritage Ministerial Board may give the Committee written directions as to:
+The Natural Heritage Ministerial Board may give the Committee written directions as to:
 	(a)	the way in which the Committee is to carry out its functions; and
 	(b)	procedures to be followed in relation to meetings.
 34  Disclosure of interests
@@ -343,9 +342,9 @@ Do not delete : Division placeholder
 	(3)	A Committee member is to be paid such allowances as are prescribed.
 	(4)	This section has effect subject to the Remuneration Tribunal Act 1973.
 36  Leave of absence
-		The Natural Heritage Ministerial Board or the Chairman may grant leave to a Committee member to be absent from a meeting or meetings of the Committee.
+The Natural Heritage Ministerial Board or the Chairman may grant leave to a Committee member to be absent from a meeting or meetings of the Committee.
 37  Resignation
-		A Committee member may resign by writing signed by the Committee member and sent to the Natural Heritage Ministerial Board.
+A Committee member may resign by writing signed by the Committee member and sent to the Natural Heritage Ministerial Board.
 38  Termination of appointment
 	(1)	The Natural Heritage Ministerial Board may terminate the appointment of a Committee member if the Natural Heritage Ministerial Board is of the opinion that the performance of the Committee member has been unsatisfactory for a significant period of time.
 	(2)	The Natural Heritage Ministerial Board may terminate the appointment of all of the Committee members if the Natural Heritage Ministerial Board is of the opinion that the performance of the Committee has been unsatisfactory for a significant period of time.
@@ -356,7 +355,7 @@ Do not delete : Division placeholder
 	(c)	a Committee member fails, without reasonable excuse, to comply with section 34;
 the Natural Heritage Ministerial Board may terminate the appointment of the Committee member.
 39  Other terms and conditions
-		A Committee member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Natural Heritage Ministerial Board.
+A Committee member holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Natural Heritage Ministerial Board.
 
 
 Part 6—Miscellaneous
@@ -456,8 +455,8 @@ the advertisement must include a statement to the effect that the proceeds of th
 	(1)	A reference in subsection 5(6) of the Natural Resources Management (Financial Assistance) Act 1992 to money appropriated by the Parliament for the purpose mentioned in that subsection includes a reference to money debited from the Reserve in accordance with paragraphs 8(k) and 18(a) of this Act.
 	(2)	After the commencement of the Financial Management and Accountability Act 1997, a reference in paragraph 11(4)(a) of the Natural Resources Management (Financial Assistance) Act 1992 to amounts appropriated from time to time by the Parliament includes a reference to money debited from the Reserve in accordance with paragraphs 8(k) and 18(b) of this Act.
 	(3)	Before the commencement of the Financial Management and Accountability Act 1997, a reference in paragraph 11(4)(a) of the Natural Resources Management (Financial Assistance) Act 1992 to amounts appropriated from time to time by the Parliament includes a reference to money debited from the Reserve in accordance with paragraphs 8(k) and 18(c) of this Act.
-	(4)	A reference in subsection 20A(3) of the Rural Adjustment Act 1992 to money appropriated by the Parliament for the purposes mentioned in that subsection includes a reference to money debited from the Reserve in accordance with paragraphs 8(k) and 18(d) of this Act.
-	(5)	A reference in subsection 21(1) of the Rural Adjustment Act 1992 to money appropriated by the Parliament for the purpose mentioned in that subsection includes a reference to money debited from the Reserve in accordance with paragraphs 8(k) and 18(d) of this Act.
+	(4)	A reference in subsection 20A(3) of the Rural Adjustment Act 1992 to money appropriated by the Parliament for the purposes mentioned in that subsection includes a reference to money debited from the Reserve in accordance with paragraphs 8(k) and 18(d) of this Act.
+	(5)	A reference in subsection 21(1) of the Rural Adjustment Act 1992 to money appropriated by the Parliament for the purpose mentioned in that subsection includes a reference to money debited from the Reserve in accordance with paragraphs 8(k) and 18(d) of this Act.
 50  Regulations
 		The Governor-General may make regulations prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
@@ -491,7 +490,7 @@ environmental protection has the meaning given by section 15.
 exclusive economic zone means the exclusive economic zone (within the meaning of the Seas and Submerged Lands Act 1973), adjacent to the coast of Australia or the coast of an external Territory.
 horticulture includes the production of horticultural products (within the meaning of the Australian Horticultural Corporation Act 1987).
 Natural Heritage Ministerial Board means the Natural Heritage Ministerial Board established by section 40.
-natural resources management has the meaning given by section 17.
+natural resources management has the meaning given by section 17.
 proceeds of the sale of shares in Telstra includes:
 	(a)	an amount received by the Commonwealth directly or indirectly from:
 	(i)	the sale-scheme trustee (within the meaning of the Telstra Corporation Act 1991); or
@@ -502,7 +501,7 @@ Reserve means the Natural Heritage Trust of Australia Reserve established by thi
 Senior Executive Service office has the same meaning as in the Public Service Act 1922.
 State includes the Australian Capital Territory and the Northern Territory.
 sustainable agriculture has the meaning given by section 16.
-Telstra has the same meaning as in the Telstra Corporation Act 1991.
+Telstra has the same meaning as in the Telstra Corporation Act 1991.
 waste minimisation includes reduction of use, re-use and recycling.
 Notes to the Natural Heritage Trust of Australia Act 1997
 Note 1
@@ -523,20 +522,13 @@ Audit (Transitional and Miscellaneous) Amendment Act 1997
 24 Oct 1997
 Schedule 2 (item 1055): 1 Jan 1998 (see Gazette 1997, No. GN49) (a)
 —
-Telstra(Further Dilution of Public Ownership) Act 1999
+Telstra (Further Dilution of Public Ownership) Act 1999
 53, 1999
 5 July 1999
 5 July 1999
 —
-Environmental Reform (Consequential Provisions) Act 1999
-92, 1999
-16 July 1999
-Schedule 4 (item 73): [see (b) and Note 2]
-—
-(a)	The Natural Heritage Trust of Australia Act 1997 was amended by Schedule 2 (item 1055) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
+(a) 	The Natural Heritage Trust of Australia Act 1997 was amended by Schedule 2 (item 1055) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-(b)	The Natural Heritage Trust of Australia Act 1997 was amended by Schedule 4 (item 73) only of the Environmental Reform (Consequential Provisions) Act 1999, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences when the Environment Protection and Biodiversity Conservation Act 1999 commences. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -553,11 +545,4 @@ Note to s. 52
 am. No. 152, 1997
 
 
-Note 2
-Environmental Reform (Consequential Provisions) Act 1999 (No. 92, 1999)
-The following amendments commence when No. 91 of 1999 comes into operation (16 July 2000 if not proclaimed earlier):
-Schedule 4
-73  Paragraph 45(1)(b)
-Omit “and Wildlife”, substitute “(within the meaning of the Environment Protection and Biodiversity Conservation Act 1999)”.
-As at 16 August 1999 no date had been fixed and the amendments are not incorporated in this consolidation.
 
