@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00830/Html/b2b11bbc-1f45-4b5c-98df-e2bdd4f5ea6e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00496/Html/1bdf8a98-2f50-4039-b015-76610594e0c2_files/image001.gif)
 
 # National Film and Sound Archive of Australia Act 2008
 
 **Act No. 14 of 2008 as amended**
 
-This compilation was prepared on 17 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 20 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -861,16 +861,14 @@ The _National Film and Sound Archive of Australia Act 2008_ as shown in this com
 
 For application, saving or transitional provisions made by the _Screen Australia (Transfer of Assets) Act 2011_, _see_ Act No. 20, 2011.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
 <colgroup>
   <col width="29%">
   <col width="17%">
-  <col width="17%">
-  <col width="19%">
+  <col width="16%">
+  <col width="21%">
   <col width="17%">
 </colgroup>
 
@@ -931,23 +929,6 @@ Schedule 2:
   </td>
   <td>
     <div>Sch. 2 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 785–791) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1310,67 +1291,5 @@ _(a)_     Subsection 2(1) (items 2 and 3) of the _Screen Australia (Tran
     <div>am. No. 20, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 785  At the end of subsection 12(1)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Chair, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 786  Subsections 12(2) and (3)
-
-Repeal the subsections.
-
-## 787  At the end of subsections 12(4) and (5)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 788  Subsection 12(6)
-
-Repeal the subsection.
-
-## 789  Subsection 23(1)
-
-Omit “(1)”.
-
-## 790  At the end of subsection 23(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 791  Subsection 23(2)
-
-Repeal the subsection.
-
-As at 17 October 2011 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
