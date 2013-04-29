@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00866/Html/ace4068e-3463-4605-9b31-5c65737a555b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00349/Html/265d7fdc-8250-4e0a-b166-186e71accf19_files/image001.gif)
 
 # Inspector‑General of Intelligence and Security Act 1986
 
 **Act No. 101 of 1986 as amended**
 
-This compilation was prepared on 26 October 2011
- taking into account amendments up to Act No. 118 of 2011
+This compilation was prepared on 6 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -94,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [25](#25).          Reports concerning collection or communication of intelligence
 
-[25A](#25A).       Reports relating to other inspections [_see_ Note 2]
+[25A](#25A).       Reports relating to other inspections [_see_ Note 3]
 
 **Part III—Administrative Provisions**
 
@@ -112,8 +112,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Staff
 
-[32AA](#32AA).    Delegation
-
 **Part IV—Miscellaneous**
 
 [32A](#32A).       Inspector‑General may obtain reports
@@ -122,7 +120,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [33](#33).          Protection from civil actions
 
-[34](#34).          Secrecy
+[34](#34).          Secrecy [_see_ Note 2]
 
 [34A](#34A).       Information and documents may be given to Royal Commissioners
 
@@ -272,9 +270,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    (ba)  to assist Ministers in investigating intelligence or security matters relating to Commonwealth agencies, including agencies other than intelligence agencies; and
 
-                     (c)  to allow for review of certain directions given to ASIO by the Attorney‑General; and
-
-                     (d)  to assist the Government in assuring the Parliament and the public that intelligence and security matters relating to Commonwealth agencies are open to scrutiny, in particular the activities and procedures of intelligence agencies.
+                     (c)  to allow for review of certain directions given to ASIO by the Attorney‑General.
 
 ##### <a id="5"></a>5  Application of Act
 
@@ -389,7 +385,7 @@ and, for all purposes, the person’s service as Inspector‑General must be tak
 
                      (b)  at the request of the responsible Minister or of the Inspector‑General’s own motion, to inquire into the procedures of that agency relating to redress of grievances of employees of that agency; and
 
-                     (c)  at the request of the responsible Minister or of the Inspector‑General’s own motion, to inquire into the effectiveness and appropriateness of the procedures of that agency relating to the legality or propriety of the activities of that agency.
+                     (c)  at the request of the responsible Minister, to inquire into the effectiveness and appropriateness of the procedures of that agency relating to the legality or propriety of the activities of that agency.
 
              (3)  Subject to this section, the functions of the Inspector‑General in relation to DIO or ONA are:
 
@@ -411,25 +407,15 @@ and, for all purposes, the person’s service as Inspector‑General must be tak
 
              (4)  The Inspector‑General shall not, of his or her own motion or in response to a complaint made to the Inspector‑General, perform any of the functions set out in paragraph (2)(a) in relation to action taken by ASIS, DIGO or DSD except to the extent that Australian citizens or permanent residents are affected or a law of the Commonwealth, a State or a Territory may be violated.
 
-             (5)  The functions of the Inspector‑General under subsections (1), (2) and (3) do not include inquiring into a matter to which a complaint to the Inspector‑General made by an employee of DIGO, DSD, DIO or ONA relates to the extent that the matter is directly related to:
+             (5)  The functions of the Inspector‑General under subsections (1), (2) and (3) do not include inquiring into the matters to which a complaint made to the Inspector‑General by an employee of an intelligence agency relates to the extent that those matters are directly related to the promotion, termination of appointment, discipline or remuneration of the complainant or to other matters relating to the complainant’s employment.
 
-                     (a)  the promotion, termination of appointment, discipline or remuneration of the employee by the agency; or
+             (6)  Subject to the succeeding provisions of this section, where a complaint is made to the Inspector‑General by an employee of ASIO or ASIS, being a complaint the subject of which directly relates to the promotion, termination of appointment, discipline or remuneration of the complainant or to other matters relating to the complainant’s employment, the functions of the Inspector‑General include inquiring into the matters to which the complaint relates.
 
-                     (b)  another matter relating to the agency’s employment of the employee.
+             (7)  The Inspector‑General shall not inquire into the matters to which a complaint made to the Inspector‑General by an employee of ASIO or ASIS relates to the extent that the employee was or is able to cause those matters to be reviewed by a body constituted by or including persons other than:
 
-             (6)  The functions of the Inspector‑General include inquiring into a matter to which a complaint to the Inspector‑General made by an ASIO employee or an ASIS employee relates to the extent that the matter is directly related to:
+                     (a)  in the case of an employee of ASIO—the Director‑General of Security or employees of ASIO; or
 
-                     (a)  the promotion, termination of appointment, discipline or remuneration of the employee by ASIO or ASIS; or
-
-                     (b)  another matter relating to the employment of the employee by ASIO or ASIS.
-
-             (7)  However, the Inspector‑General must not inquire into a matter referred to in subsection (6) to the extent that the employee can have the matter reviewed by a body constituted by, or including, persons other than:
-
-                     (a)  for an ASIO employee—the Director‑General of Security or ASIO employees; and
-
-                     (b)  for an ASIS employee—the Director‑General of ASIS or ASIS employees.
-
-Note:          See also subsection 11(5).
+                     (b)  in the case of an employee of ASIS—the Director‑General of ASIS or employees of ASIS.
 
              (9)  The Inspector‑General may perform functions conferred on the Inspector‑General by another Act.
 
@@ -533,19 +519,13 @@ the Inspector‑General shall, subject to this section, inquire into the action.
 
 ##### <a id="14"></a>14  Preliminary inquiries
 
-             (1)  Where a complaint is made to the Inspector‑General in respect of action taken by an intelligence agency, the Inspector‑General may, for the purpose of:
+                   Where a complaint is made to the Inspector‑General in respect of action taken by an intelligence agency, the Inspector‑General may, for the purpose of:
 
                      (a)  determining whether the Inspector‑General is authorised to inquire into the action; or
 
                      (b)  if the Inspector‑General is authorised to inquire into the action: determining whether the Inspector‑General should inquire into the action;
 
 make inquiries of the head of the agency in relation to the action.
-
-             (2)  Of his or her own motion, the Inspector‑General may make inquiries of the head of an intelligence agency:
-
-                     (a)  to determine whether the Inspector‑General is authorised to inquire into an action of the agency; or
-
-                     (b)  to determine whether the Inspector‑General should inquire into the action if the Inspector‑General is authorised to inquire into it.
 
 ### Division 3—Inquiries
 
@@ -739,18 +719,6 @@ Note:          section 355‑185 in Schedule 1 to the _Tax
 
                      (b)  if subsection (3) applies—the version of the final agency copy mentioned in that subsection.
 
-          (4A)  If, under subsection (4), the Inspector‑General gives to a responsible Minister a copy of:
-
-                     (a)  a final agency copy; or
-
-                     (b)  a version of a final agency copy;
-
-the Inspector‑General:
-
-                     (c)  must give to the Prime Minister a copy of the final agency copy, or version, that he or she gave to the responsible Minister, if the Prime Minister requests it; and
-
-                     (d)  may give to the Prime Minister a copy of the final agency copy, or version, that he or she gave to the responsible Minister, if the Inspector‑General considers it appropriate to do so.
-
              (5)  In addition, if the inquiry was conducted as a result of a request made by the Prime Minister under section 9, the Inspector‑General must give the Prime Minister a copy of:
 
                      (a)  the report mentioned in subsection (1) of this section; or
@@ -787,7 +755,7 @@ the Inspector‑General:
 
                      (b)  if the Inspector‑General prepares such a report, he or she must give a copy of the report to the Prime Minister.
 
-##### <a id="25"></a>25  Reports concerning collection or communication of intelligence
+##### <a id="25"></a>25  Reports concerning collection or communication of intelligence
 
                    Where:
 
@@ -797,7 +765,7 @@ the Inspector‑General:
 
 the Inspector‑General shall, in addition to giving a copy of the report in relation to the inquiry to the responsible Minister, give a copy of the report to the Prime Minister.
 
-##### <a id="25A"></a>25A  Reports relating to other inspections [_see_ Note 2]
+##### <a id="25A"></a>25A  Reports relating to other inspections [_see_ Note 3]
 
                    If the Inspector‑General completes an inspection of an intelligence agency under section 9A, the Inspector‑General may report on the inspection to the responsible Minister or the head of the relevant agency.
 
@@ -863,41 +831,13 @@ the Governor‑General shall terminate the appointment of the Inspector‑Genera
 
 ##### <a id="32"></a>32  Staff
 
-             (1)  The staff necessary to assist the Inspector‑General are:
-
-                     (a)  persons engaged under the _Public Service Act 1999_; and
-
-                     (b)  any persons employed under subsection (3).
+             (1)  The staff necessary to assist the Inspector‑General shall be persons engaged under the _Public Service Act 1999_.
 
              (2)  For the purposes of the _Public Service Act 1999_:
 
                      (a)  the Inspector‑General and the APS employees assisting the Inspector‑General together constitute a Statutory Agency; and
 
                      (b)  the Inspector‑General is the Head of that Statutory Agency.
-
-             (3)  The Inspector‑General may, by written agreement, employ a person to assist the Inspector‑General to perform functions and exercise powers under Division 3 or 4 of Part II for the purposes of a particular inquiry specified in the agreement, as delegated under section 32AA.
-
-             (4)  However, the Inspector‑General may only employ a person in relation to a particular inquiry if the responsible Minister is satisfied that:
-
-                     (a)  it is necessary to employ a person in relation to the particular inquiry; and
-
-                     (b)  the person has the expertise appropriate to the inquiry.
-
-             (5)  The Inspector‑General must determine in writing the terms and conditions of employment of the persons mentioned in paragraph (1)(b).
-
-             (6)  Unless the responsible Minister otherwise agrees in relation to a particular inquiry, the person proposed to be employed in relation to the inquiry must be cleared for security purposes to at least the same level, and at the same frequency, as staff members of ASIS.
-
-##### <a id="32AA"></a>32AA  Delegation
-
-             (1)  The Inspector‑General may, by writing signed by the Inspector‑General, delegate all or any of his or her functions or powers under Division 3 or 4 of Part II to a person referred to in subsection 32(3) for the purposes of the particular inquiry concerned.
-
-Note 1:       For further provisions relating to delegations, see sections 34AB and 34A of the _Acts Interpretation Act 1901_.
-
-Note 2:       For variation and revocation of an instrument of delegation, see subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-             (2)  In exercising functions or powers under a delegation, the delegate must comply with any written directions of the Inspector‑General.
-
-             (3)  On request by a person affected by a delegate’s performance of a function, or exercise of a power, the delegate must produce the instrument of delegation (or a copy of it) for the person to inspect.
 
 ## Part IV—Miscellaneous
 
@@ -951,11 +891,11 @@ the head need not give a copy of the report to the Inspector‑General until the
 
 a person is not liable to an action, suit or proceeding in respect of loss, damage or injury of any kind suffered by another person by reason only that the complaint was made, the document was produced or the information or evidence was given.
 
-##### <a id="34"></a>34  Secrecy
+##### <a id="34"></a>34  Secrecy [_see_ Note 2]
 
              (1)  Subject to subsection (1A), a person who is, or has at any time been, the Inspector‑General or a member of the staff of the Inspector‑General or who is acting, or has at any time acted, as the Inspector‑General or as a member of the staff of the Inspector‑General shall not, either directly or indirectly, except in the performance of his or her functions or duties or in the exercise of his or her powers under this Act:
 
-                     (a)  make a record of, or divulge or communicate to any person or to a court, any information acquired under this Act by reason of the person holding, or acting in, that office; or
+                     (a)  make a record of, or divulge or communicate to any person, any information acquired under this Act by reason of the person holding, or acting in, that office; or
 
                      (b)  make use of any such information.
 
@@ -963,7 +903,7 @@ a person is not liable to an action, suit or proceeding in respect of loss, dama
 
        (1AA)  Subject to subsection (1A), a person who is, or has at any time been, the Inspector‑General or a member of the staff of the Inspector‑General or who is acting, or has at any time acted, as the Inspector‑General or as a member of the staff of the Inspector‑General must not, either directly or indirectly, except in the performance of his or her functions or duties or in the exercise of his or her powers under Division 9 of Part VII or section 60A of the _Freedom of Information Act 1982_:
 
-                     (a)  make a record of, or divulge or communicate to any person or to a court, any information acquired under that Division or section by reason of the person holding, or acting in, that office; or
+                     (a)  make a record of, or divulge or communicate to any person, any information acquired under that Division or section by reason of the person holding, or acting in, that office; or
 
                      (b)  make use of any such information.
 
@@ -971,7 +911,7 @@ a person is not liable to an action, suit or proceeding in respect of loss, dama
 
        (1AB)  Subject to subsection (1A), a person who is, or has at any time been, the Inspector‑General or a member of the staff of the Inspector‑General or who is acting, or has at any time acted, as the Inspector‑General or as a member of the staff of the Inspector‑General must not, either directly or indirectly, except in the performance of his or her functions or duties or in the exercise of his or her powers under section 50A of the _Archives Act 1983_:
 
-                     (a)  make a record of, or divulge or communicate to any person or to a court, any information acquired under that section by reason of the person holding, or acting in, that office; or
+                     (a)  make a record of, or divulge or communicate to any person, any information acquired under that section by reason of the person holding, or acting in, that office; or
 
                      (b)  make use of any such information.
 
@@ -989,21 +929,13 @@ a person is not liable to an action, suit or proceeding in respect of loss, dama
 
              (4)  Where, in accordance with subsection (3), a court of summary jurisdiction convicts a person of an offence against subsection (1), (1AA) or (1AB), the penalty that the court may impose is a fine not exceeding $2,000 or imprisonment for a period not exceeding one year, or both.
 
-             (5)  If a person is prohibited by this section from disclosing information, the person must not be required to:
+             (5)  A person who is, or has at any time been, the Inspector‑General or a member of the staff of the Inspector‑General or who is acting, or has at any time acted, as the Inspector‑General or as a member of the staff of the Inspector‑General must not be required to:
 
-                     (a)  produce in a court any document of which the person has custody, or to which the person has access, because the person is performing functions or duties or exercising powers under this Act, Division 9 of Part VII or section 60A of the _Freedom of Information Act 1982_ or section 50A of the _Archives Act 1983_; or
+                     (a)  produce in a court any document of which the person has custody, or to which the person has access, because the person is performing functions or duties or exercising powers under this Act, section 60A of the _Freedom of Information Act 1982_ or section 50A of the _Archives Act 1983_; or
 
                      (b)  divulge or communicate to a court any information obtained by the person because the person is performing those functions or duties or exercising those powers;
 
 except where it is necessary to do so:
-
-                   (ba)  if the person has custody of, or access to, the document because the person is performing functions or duties or exercising powers under this Act—for the purposes of this Act; and
-
-                   (bb)  if the person has custody of, or access to, the document because the person is performing functions or duties or exercising powers under Division 9 of Part VII of the _Freedom of Information Act 1982_—for the purposes of that Division; and
-
-                   (bc)  if the person has custody of, or access to, the document because the person is performing functions or duties or exercising powers under section 60A of the _Freedom of Information Act 1982_—for the purposes of that section; and
-
-                   (bd)  if the person has custody of, or access to, the document because the person is performing functions or duties or exercising powers under section 50A of the _Archives Act 1983_—for the purposes of that section; and
 
                      (c)  if the information is obtained by the person because the person is performing functions or duties or exercising powers under this Act—for the purposes of this Act; and
 
@@ -1021,7 +953,7 @@ except where it is necessary to do so:
 
 ##### <a id="34A"></a>34A  Information and documents may be given to Royal Commissioners
 
-             (1)  The purpose of this section is to further the inquiries to be conducted by a Commission.
+             (1)  The purpose of this section is to further the inquiries to be conducted by the Commissions.
 
              (2)  This section applies in spite of anything in this or any other Act.
 
@@ -1043,11 +975,19 @@ except where it is necessary to do so:
 
              (7)  In this section:
 
-                    <a name="commiss"></a>**_Commission_** means a Royal Commission (within the meaning of the _Royal Commissions Act 1902_) prescribed for the purposes of this definition and includes:
+                    <a name="commiss"></a>**_Commission_** means:
 
-                     (a)  a person appointed to assist the person or persons constituting the Commission; and
+                     (a)  the Commission of inquiry into matters relating to the Australian Secret Intelligence Service issued by the Governor‑General by Letters Patent dated 15 March 1994 to the Honourable Gordon Jacob Samuels AC QC; or
 
-                     (b)  a person or employee under the control of the person or persons constituting the Commission;
+                     (b)  the Commission of inquiry into matters relating to the Australian Secret Intelligence Service issued by the Governor‑General by Letters Patent dated 15 March 1994 to Michael Henry Codd AC;
+
+and includes:
+
+                     (c)  the Commissioner concerned; and
+
+                     (d)  any person appointed to assist a Commission; and
+
+                     (e)  any member of staff of a Commission;
 
 performing any function in relation to the inquiry concerned.
 
@@ -1062,12 +1002,6 @@ performing any function in relation to the inquiry concerned.
              (2)  The Inspector‑General shall include in a report prepared under subsection (1) the Inspector‑General’s comments on any inquiry conducted by the Inspector‑General in accordance with paragraph 8(1)(d) or 8(3)(c) during the year to which the report relates.
 
           (2A)  The Inspector‑General must include in a report prepared under subsection (1) the Inspector‑General’s comments on any inspection conducted under section 9A during the year to which the report relates.
-
-       (2AA)  The Inspector‑General must include in a report prepared under subsection (1) the Inspector‑General’s comments on:
-
-                     (a)  the employment of any person under subsection 32(3) during the year to which the report relates (whether or not the employment commenced during that year); and
-
-                     (b)  any delegation under section 32AA in force during the year to which the report relates.
 
           (2B)  The Inspector‑General must include in a report prepared under subsection (1) the Inspector‑General’s comments on the extent of compliance by ASIS and DSD, during the year to which the report relates, with rules made under section 15 of the _Intelligence Services Act 2001_.
 
@@ -1542,40 +1476,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 719–722) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Inspector‑General of Intelligence and Security Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>118, 2011</div>
-  </td>
-  <td>
-    <div>14 Oct 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1: 15 Oct 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Inspector‑General of Intelligence and Security Act 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(20) of which provides as follows:
@@ -1742,7 +1642,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 127, 2010; No. 118, 2011</div>
+    <div>am. No. 127, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1806,7 +1706,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 141, 1987; No. 75, 1990; No. 161, 1999; No. 40, 2004; No. 128, 2005; No. 70, 2009; No. 127, 2010; No. 118, 2011</div>
+    <div>am. No. 141, 1987; No. 75, 1990; No. 161, 1999; No. 40, 2004; No. 128, 2005; No. 70, 2009; No. 127, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1878,7 +1778,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 127, 2010; No. 118, 2011</div>
+    <div>am. No. 127, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2006,7 +1906,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 128, 2005; No. 170, 2006; No. 52, 2007; Nos. 127 and 145, 2010; No. 118, 2011</div>
+    <div>am. No. 161, 1999; No. 128, 2005; No. 170, 2006; No. 52, 2007; Nos. 127 and 145, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2126,15 +2026,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 118, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32AA</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2011</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2182,7 +2074,7 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 99, 2009; No. 51, 2010; No. 118, 2011</div>
+    <div>am. No. 161, 1999; No. 99, 2009; No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2195,22 +2087,26 @@ _(g)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 161, 1999; No. 153, 2001; No. 128, 2005; No. 127, 2010; No. 118, 2011</div>
+    <div>am. No. 161, 1999; No. 153, 2001; No. 128, 2005; No. 127, 2010</div>
   </td>
 </tr></table>
 
 ### Note 2
+
+Subsection 34(5)—Schedule 6 (item 51) of the _Freedom of Information Amendment (Reform) Act 2010_ (No. 51, 2010) provides as follows:
+
+## Schedule 6
+
+## 51  Subsection 34(5)
+
+Before “section 60A”, insert “Division 9 of Part VII or”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
+
+### Note 3
 
 Section 25A (note)—Schedule 2 (item 55) of the _Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010_ (No. 145, 2010) provides as follows:
 
@@ -2221,34 +2117,6 @@ Section 25A (note)—Schedule 2 (item 55) of the _Tax Laws Amendment (Confiden
 Omit “Section 3EC of”, substitute “Subdivision 355‑C in Schedule 1 to”.
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
-
-### Note 3
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 719  Paragraph 6A(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 720  Subsection 6A(1)
-
-Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
-
-## 721  At the end of subsection 6A(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 722  Subsection 6A(3)
-
-Repeal the subsection.
-
-As at 26 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2321,22 +2189,6 @@ _Anti‑Money Laundering and Counter‑Terrorism Financing Amendment Act 2007 (N
 
 ## 69  Application of amendment—section 22 of the _Inspector‑General of Intelligence and Security Act 1986_
 
-The amendment of section 22 of the _Inspector‑General of Intelligence and Security Act 1986_ made by this Schedule applies in relation to a report prepared under subsection 22(1) of that Act after the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+The amendment of section 22 of the Inspector‑General of Intelligence and Security Act 1986 made by this Schedule applies in relation to a report prepared under subsection 22(1) of that Act after the commencement of this item.
 
  
