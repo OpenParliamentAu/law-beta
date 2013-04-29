@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00745/Html/ef1f71dd-1777-4d0b-8708-ccd3c538989d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00286/Html/b7b4cffb-b94e-4ff1-8918-244b8c086fb2_files/image001.gif)
 
 # Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990
 
 **Act No. 97 of 1990 as amended**
 
-This compilation was prepared on 25 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,81 +13,84 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short Title [_see_ Note 1]
+[1](#1).            Short Title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                        1
 
-[4](#4).            Act extends to external Territories
+[4](#4).            Act extends to external Territories                                                        4
 
-[4A](#4A).         Application of the _Criminal Code_
+[4A](#4A).         Application of the _Criminal Code_                                                        4
 
-[5](#5).            Effect of this Act on other laws
+[5](#5).            Effect of this Act on other laws                                                            4
 
-[6](#6).            Meaning of _dealing in drugs_
+[6](#6).            Meaning of _dealing in drugs_                                                                5
 
-[7](#7).            Meaning of _flight_ in relation to aircraft
+[7](#7).            Meaning of _flight_ in relation to aircraft                                                 6
 
-[8](#8).            Meaning of _ship at sea_
+[8](#8).            Meaning of _ship at sea_                                                                         6
 
-[8A](#8A).         Proof of knowledge, intent or purpose
+[8A](#8A).         Proof of knowledge, intent or purpose                                                 7
 
 **Part 2—Offences**
 
-[9](#9).            Possession of equipment etc 
+[9](#9).            Possession of equipment etc                                                                8
 
-[10](#10).          Dealing in drugs on board an Australian aircraft
+[10](#10).          Dealing in drugs on board an Australian aircraft                                  8
 
-[11](#11).          Dealing in drugs on board an Australian ship
+[11](#11).          Dealing in drugs on board an Australian ship                                      9
 
-[12](#12).          Dealing in drugs outside Australia
+[12](#12).          Dealing in drugs outside Australia                                                     10
 
-[13](#13).          Dealing in drugs outside Australia with a view to commission of offence in Australia etc 
+[13](#13).          Dealing in drugs outside Australia with a view to commission of offence in Australia etc      11
 
-[14](#14).          Conspiracy etc  outside Australia to commit offence inside Australia
+[14](#14).          Conspiracy etc  outside Australia to commit offence inside Australia 12
 
-[15](#15).          Penalties for offences against sections 10 to 13
+[15](#15).          Penalties for offences against sections 10 to 13                                 12
 
-[15A](#15A).       Intentionally converting etc  property derived from a serious State drug offence
+[15A](#15A).       Intentionally converting etc  property derived from a serious State drug offence     15
 
-[15B](#15B).       Intentionally concealing etc  property derived from a serious State drug offence
+[15B](#15B).       Intentionally concealing etc  property derived from a serious State drug offence     16
 
-[15C](#15C).       Intentionally acquiring etc  property derived from a serious State drug offence
+[15C](#15C).       Intentionally acquiring etc  property derived from a serious State drug offence       16
 
 **Part 3—Miscellaneous**
 
-[16](#16).          Prosecutions
+[16](#16).          Prosecutions                                                                                       18
 
-[17](#17).          Presumption that traffickable quantity etc  of narcotic drug etc  is for sale or supply
+[17](#17).          Presumption that traffickable quantity etc  of narcotic drug etc  is for sale or supply               18
 
-[18](#18).          Venue where offence committed on aircraft
+[18](#18).          Venue where offence committed on aircraft                                       19
 
-[19](#19).          Change of venue
+[19](#19).          Change of venue                                                                                19
 
-[20](#20).          Certificates by Foreign Affairs Minister
+[20](#20).          Certificates by Foreign Affairs Minister                                            21
 
-[21](#21).          Section 38 of Judiciary Act
+[21](#21).          Section 38 of Judiciary Act                                                                21
 
-[22](#22).          Regulations
+[22](#22).          Regulations                                                                                        21
 
 **Schedule 1—United Nations Convention Against Illicit Traffic In Narcotic Drugs And Psychotropic Substances** 
 
 **Schedule 2—Narcotic Drugs** 
 
-**Schedule 3—Psychotropic Substances** 
+**Schedule 3—Psychotropic substances** 
 
 **Part 1** 
 
 **Part 2** 
 
 **Notes** 
+
+ 
 
 ## An Act to make provision with respect to the traffic in narcotic drugs and psychotropic substances in accordance with the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances
 
@@ -113,7 +116,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="australian-aircraft"></a>**_Australian aircraft_** means:
 
-                     (a)  an aircraft registered under regulations made under the _Civil Aviation Act 1988_; or
+                     (a)  an aircraft registered in accordance with the Civil Aviation Regulations as an Australian aircraft; or
 
                      (b)  an aircraft that is owned by, or is in the possession or control of, the Commonwealth or an authority of the Commonwealth; or
 
@@ -4061,7 +4064,7 @@ of Assent</div>
     <div>29 Nov 1990</div>
   </td>
   <td>
-    <div>14 Feb 1993 ( <i>see Gazette</i>1993, No. GN4)</div>
+    <div>14 Feb 1993 ( <i>see Gazette</i>1993, No. GN4)</div>
   </td>
   <td>
     <div></div>
@@ -4095,7 +4098,7 @@ of Assent</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i></div>
+    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4112,7 +4115,7 @@ of Assent</div>
     <div>19 Dec 1994</div>
   </td>
   <td>
-    <div>S. 31: 16 Jan 1994 <i>(c)</i></div>
+    <div>S. 31: 16 Jan 1994 <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4147,8 +4150,8 @@ of Assent</div>
   </td>
   <td>
     <div>Schedules 1, 2 and Schedule 3 (items 1–22, 
-24–26): 16 Jan 2003 
-Schedule 3 (item 23): 1 Jan 2003 ( <i>see</i>s. 2(1) (item 4) and <i>Gazette</i>2002, No. GN44) 
+24–26): 16 Jan 2003 
+Schedule 3 (item 23): 1 Jan 2003 ( <i>see</i>s. 2(1) (item 4) and <i>Gazette</i>2002, No. GN44) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4166,24 +4169,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 73, 74): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 3): Royal Assent</div>
+    <div>Schedule 5 (items 73, 74): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -4216,8 +4202,8 @@ _(d)_     The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substa
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -4248,7 +4234,7 @@ _(d)_     The _Crimes (Traffic in Narcotic Drugs and Psychotropic Substa
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 77 and 196, 1992; No. 24, 2001; No. 5, 2011; No. 136, 2012</div>
+    <div>am. Nos. 77 and 196, 1992; No. 24, 2001; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
