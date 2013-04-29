@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00156/Html/e72d0aca-3ea2-4774-9304-d7d0dfdbb1e5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00134/Html/52abf04c-b47f-4065-aa62-926d63289547_files/image001.gif)
 
 # Crimes (Aviation) Act 1991
 
 **Act No. 139 of 1991 as amended**
 
-This compilation was prepared on 30 March 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 4 March 2011
+ taking into account amendments up to Act No. 1 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -80,17 +80,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          Prejudicing safe operation of aircraft with intent to kill etc 
 
-[20A](#20A).       Assaulting crew—general
+[21](#21).          Assaulting crew
 
-[21](#21).          Assaulting crew—affecting performance of duty
+[22](#22).          Endangering safety of aircraft
 
-[22](#22).          Endangering safety of aircraft—general
-
-[22A](#22A).       Endangering safety of aircraft—acts also likely to endanger life or cause serious harm
-
-[23](#23).          Dangerous goods—general
-
-[23A](#23A).       Dangerous goods—acts likely to endanger life or cause serious harm
+[23](#23).          Dangerous goods
 
 [24](#24).          Threats and false statements
 
@@ -196,7 +190,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="3"></a>3  Definitions
 
-                   In this Act, unless the contrary intention appears:
+             (1)  In this Act, unless the contrary intention appears:
 
                     <a name="australia"></a>**_Australia_** includes the external Territories.
 
@@ -240,9 +234,9 @@ and includes, in relation to any of those provisions, a person who is, under sec
 
                      (a)  an area of land or water in Australia that is owned by the Commonwealth and used, or intended for use, either wholly or partly, for, or in connection with, the arrival, departure or other movement of aircraft; or
 
-                     (b)  a core regulated airport within the meaning of the _Airports Act 1996_;
+                     (b)  a Federal airport;
 
-and includes any building, structure, installation or equipment in that area, or on the land that forms the core regulated airport, that is provided for use in connection with the operation of that area or land as an aerodrome or airport.
+and includes any building, structure, installation or equipment in that area, or on the land that forms the Federal airport, that is provided for use in connection with the operation of that area or land as an aerodrome or Federal airport, as the case may be.
 
                     <a name="commonwealth-aircraft"></a>**_Commonwealth aircraft_** means an aircraft, other than a defence aircraft, that is owned by, or in the possession or control of, the Commonwealth or a Commonwealth authority.
 
@@ -291,6 +285,8 @@ and includes any building, structure, installation or equipment in that area, or
                      (d)  a foreign aircraft that is in Australia; or
 
                      (e)  a foreign aircraft that is outside   Australia while engaged in a flight that started in Australia or that was, when the flight started, intended to end in Australia.
+
+                    <a name="feral-airport"></a>**_Federal airport_** has the same meaning as in the _Federal Airports Corporation Act 1986_.
 
                     <a name="foreign-aircraft"></a>**_foreign aircraft_** means an aircraft other than an Australian aircraft, including such an aircraft owned or operated by the government of a foreign country.
 
@@ -341,8 +337,6 @@ and includes any building, structure, installation or equipment in that area, or
                     <a name="remand"></a>**_remand_** includes further remand.
 
                     <a name="repeal-act"></a>**_repealed Acts_** means the Acts repealed by section 53.
-
-                    <a name="seriou-harm"></a>**_serious harm_** has the same meaning as in the _Criminal Code_.
 
                     <a name="threaten"></a>**_threaten_** has the meaning given in section 4.
 
@@ -542,7 +536,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
 ##### <a id="16"></a>16  Taking control of aircraft
 
-             (1)  A person who takes or exercises control of a Division 3 aircraft is guilty of an offence punishable on conviction by imprisonment for 10 years.
+             (1)  A person who takes or exercises control of a Division 3 aircraft is guilty of an offence punishable on conviction by imprisonment for 7 years.
 
              (2)  A person who takes or exercises control of a Division 3 aircraft and who does so while anyone else, other than an accomplice of the person, is on board the aircraft, is guilty of an offence punishable on conviction by imprisonment for 14 years.
 
@@ -580,7 +574,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
              (1)  A person must not do anything capable of prejudicing the safe operation of a Division 3 aircraft with the intention of prejudicing the safe operation of the aircraft.
 
-                    Penalty:  Imprisonment for 20 years.
+                    Penalty:  Imprisonment for 14 years.
 
              (2)  For the purposes of an offence against subsection (1), absolute liability applies to the physical element of circumstance of the offence, that the aircraft is a Division 3 aircraft.
 
@@ -600,25 +594,7 @@ is guilty of an indictable offence punishable on conviction by imprisonment for 
 
 Note:          For **_absolute liability_**, see section 6.2 of the _Criminal Code_.
 
-##### <a id="20A"></a>20A  Assaulting crew—general
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is on board an aircraft; and
-
-                     (b)  the aircraft is a Division 3 aircraft; and
-
-                     (c)  the person assaults, threatens with violence or intimidates another person; and
-
-                     (d)  the other person is a member of the crew of the aircraft.
-
-                    Penalty:  Imprisonment for 10 years.
-
-             (2)  Absolute liability applies to paragraph (1)(b).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-##### <a id="21"></a>21  Assaulting crew—affecting performance of duty
+##### <a id="21"></a>21  Assaulting crew
 
              (1)  A person must not, while on board a Division 3 aircraft, assault, threaten with violence, or otherwise intimidate, a member of the crew of the aircraft in a manner that results in:
 
@@ -626,61 +602,23 @@ Note:          For absolute liability, see section 6.2 of th
 
                      (b)  a lessening of the member’s ability to perform those functions or duties.
 
-                    Penalty:  Imprisonment for 20 years.
+                    Penalty:  Imprisonment for 14 years.
 
              (2)  For the purposes of an offence against subsection (1), absolute liability applies to the physical element of circumstance of the offence, that the aircraft is a Division 3 aircraft.
 
 Note:          For **_absolute liability_**, see section 6.2 of the _Criminal Code_.
 
-Alternative verdicts
-
-             (3)  On a trial for an offence against subsection (1), the trier of fact may find the defendant not guilty of that offence but guilty of an offence against subsection 20A(1) if:
-
-                     (a)  the trier of fact is not satisfied that the defendant is guilty of the offence against subsection (1) of this section; and
-
-                     (b)  the trier of fact is satisfied that the defendant is guilty of the offence against subsection 20A(1); and
-
-                     (c)  the defendant has been accorded procedural fairness in relation to that finding of guilt.
-
-##### <a id="22"></a>22  Endangering safety of aircraft—general
+##### <a id="22"></a>22  Endangering safety of aircraft
 
              (1)  A person who, while on board a Division 3 aircraft, does an act, reckless as to whether the act will endanger the safety of the aircraft, is guilty of an offence.
 
-                    Penalty:  Imprisonment for 10 years.
+                    Penalty:  Imprisonment for 7 years.
 
              (2)  For the purposes of an offence against subsection (1), absolute liability applies to the physical element of circumstance of the offence, that the aircraft is a Division 3 aircraft.
 
 Note:          For **_absolute liability_**, see section 6.2 of the _Criminal Code_.
 
-##### <a id="22A"></a>22A  Endangering safety of aircraft—acts also likely to endanger life or cause serious harm
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person commits an offence against subsection 22(1); and
-
-                     (b)  the act constituting the offence is likely to endanger a person’s life or cause serious harm to a person.
-
-                    Penalty:  Imprisonment for 14 years.
-
-Note:          Subsection 22(1) provides for an offence of endangering the safety of a Division 3 aircraft.
-
-             (2)  There is no fault element for the physical element described in paragraph (1)(a) other than the fault elements (however applying), if any, for the physical elements of the offence against subsection 22(1).
-
-             (3)  To avoid doubt, a person does not commit an offence against subsection 22(1) for the purposes of paragraph (1)(a) of this section if the person has a defence to the offence against subsection 22(1).
-
-             (4)  For the purposes of paragraph (1)(b), an act is taken to be likely to cause serious harm to a person if it is likely to substantially contribute to serious harm to a person.
-
-Alternative verdicts
-
-             (5)  On a trial for an offence against subsection (1), the trier of fact may find the defendant not guilty of that offence but guilty of an offence against subsection 22(1) if:
-
-                     (a)  the trier of fact is not satisfied that the defendant is guilty of the offence against subsection (1) of this section; and
-
-                     (b)  the trier of fact is satisfied that the defendant is guilty of the offence against subsection 22(1); and
-
-                     (c)  the defendant has been accorded procedural fairness in relation to that finding of guilt.
-
-##### <a id="23"></a>23  Dangerous goods—general
+##### <a id="23"></a>23  Dangerous goods
 
              (1)  A person must not:
 
@@ -690,7 +628,11 @@ Alternative verdicts
 
                      (c)  have dangerous goods in his or her possession on board such an aircraft.
 
-                    Penalty:  Imprisonment for 10 years.
+                    Penalty:  
+
+                     (a)  in the case of an individual—imprisonment for 7 years; and
+
+                     (b)  in the case of a body corporate—$100,000.
 
              (2)  Subsection (1) does not apply to:
 
@@ -716,39 +658,11 @@ Alternative verdicts
 
 Note:          For **_absolute liability_**, see section 6.2 of the _Criminal Code_.
 
-##### <a id="23A"></a>23A  Dangerous goods—acts likely to endanger life or cause serious harm
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person commits an offence against subsection 23(1); and
-
-                     (b)  the act constituting the offence is likely to endanger a person’s life or cause serious harm to a person.
-
-                    Penalty:  Imprisonment for 14 years.
-
-Note:          Subsection 23(1) provides for offences relating to dangerous goods and Division 3 aircraft.
-
-             (2)  There is no fault element for the physical element described in paragraph (1)(a) other than the fault elements (however applying), if any, for the physical elements of the offence against subsection 23(1).
-
-             (3)  To avoid doubt, a person does not commit an offence against subsection 23(1) for the purposes of paragraph (1)(a) if the person has a defence to the offence against subsection 23(1).
-
-             (4)  For the purposes of paragraph (1)(b), an act is taken to be likely to cause serious harm to a person if it is likely to substantially contribute to serious harm to a person.
-
-Alternative verdicts
-
-             (5)  On a trial for an offence against subsection (1), the trier of fact may find the defendant not guilty of that offence but guilty of an offence against subsection 23(1) if:
-
-                     (a)  the trier of fact is not satisfied that the defendant is guilty of the offence against subsection (1) of this section; and
-
-                     (b)  the trier of fact is satisfied that the defendant is guilty of the offence against subsection 23(1); and
-
-                     (c)  the defendant has been accorded procedural fairness in relation to that finding of guilt.
-
 ##### <a id="24"></a>24  Threats and false statements
 
              (1)  A person must not threaten to destroy, damage or endanger the safety of a Division 3 aircraft, or to kill or injure anyone on board such an aircraft.
 
-                    Penalty:  Imprisonment for 10 years.
+                    Penalty:  Imprisonment for 2 years.
 
              (2)  A person must not make a statement or communicate information, being a statement or information that he or she knows to be false, to the effect, or from which it can reasonably be inferred, that there has been, is or is to be, a plan, proposal, attempt, conspiracy or threat:
 
@@ -758,7 +672,7 @@ Alternative verdicts
 
                      (c)  to kill or injure anyone on board such an aircraft.
 
-                    Penalty:  Imprisonment for 10 years.
+                    Penalty:  Imprisonment for 2 years.
 
              (3)  For the purposes of an offence against subsection (1) or (2), absolute liability applies to the physical element of circumstance of the offence, that the aircraft is a Division 3 aircraft.
 
@@ -784,7 +698,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (c)  the person is an Australian citizen who commits the act outside Australia.
 
-                    Penalty:  Imprisonment for 20 years.
+                    Penalty:  Imprisonment for 14 years.
 
              (2)  A person who commits an unlawful act of the kind mentioned in subsection 10(2) is guilty of an offence if any of the following applies:
 
@@ -812,7 +726,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (d)  the person is an Australian citizen who commits the act outside Australia.
 
-                    Penalty:  Imprisonment for 20 years.
+                    Penalty:  Imprisonment for 7 years.
 
           (2A)  Absolute liability applies to paragraphs (1)(a), (b) and (c), and (2)(a), (b), (c) and (d).
 
@@ -836,7 +750,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (d)  Article 5 of that Convention, when so read, requires Australia to establish its jurisdiction over the offence.
 
-                    Penalty:  Imprisonment for 20 years.
+                    Penalty:  Imprisonment for 15 years.
 
              (2)  A person is guilty of an offence if:
 
@@ -856,7 +770,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                              (ii)  if the act concerned relates to an aircraft—the aircraft is in Australia, or is a Commonwealth aircraft or a defence aircraft, or the act is committed by an Australian citizen, whether in Australia or not.
 
-                    Penalty:  Imprisonment for 14 years.
+                    Penalty:  Imprisonment for 10 years.
 
           (2A)  For the purposes of an offence against subsection (1) or (2), absolute liability applies to the physical element of circumstance of the offence, that the airport is a prescribed airport.
 
@@ -878,7 +792,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (b)  anyone who is, or may be, within the limits of a Commonwealth aerodrome or any Commonwealth air navigation facilities.
 
-                    Penalty:  Imprisonment for 14 years.
+                    Penalty:  Imprisonment for 7 years.
 
              (2)  For the purposes of an offence against subsection (1), absolute liability applies to whichever one of the following physical elements of circumstance is relevant to the offence:
 
@@ -896,7 +810,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (b)  kill or injure anyone who is, or may be, within the limits of a Commonwealth aerodrome or any Commonwealth air navigation facilities.
 
-                    Penalty:  Imprisonment for 10 years.
+                    Penalty:  Imprisonment for 2 years.
 
              (2)  A person must not make a statement or communicate information, being a statement or information that he or she knows to be false, to the effect, or from which it can reasonably be inferred, that there has been, is, or will be, a plan, proposal, attempt, conspiracy or threat:
 
@@ -906,7 +820,7 @@ Note:          For **_absolute liability_**, see section 6.2
 
                      (c)  to kill or injure anyone who is, or may be, within the limits of a Commonwealth aerodrome or any Commonwealth air navigation facilities.
 
-                    Penalty:  Imprisonment for 10 years.
+                    Penalty:  Imprisonment for 2 years.
 
              (3)  For the purposes of an offence against subsection (1) or (2), absolute liability applies to whichever one of the following physical elements of circumstance is relevant to the offence:
 
@@ -2347,27 +2261,10 @@ Schedule 2 (item 3): Royal Assent</div>
     <div>2 Mar 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1: 30 Mar 2011</div>
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 23) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (items 65, 66): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -2614,7 +2511,7 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 196, 1992; No. 182, 1994; No. 146, 1999; No. 9, 2000; No. 65, 2002; Nos. 64 and 127, 2004; No. 1, 2011</div>
+    <div>am. No. 196, 1992; No. 182, 1994; No. 146, 1999; No. 9, 2000; No. 65, 2002; Nos. 64 and 127, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2715,66 +2612,10 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001; No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 17, 18</div>
+    <div>Ss. 16–21</div>
   </td>
   <td>
     <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001; No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20A</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 21</div>
-  </td>
-  <td>
-    <div>am. No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2001; No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 22</div>
-  </td>
-  <td>
-    <div>am. No. 1, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2787,42 +2628,10 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 23</div>
-  </td>
-  <td>
-    <div>am. No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 89, 1995; No. 146, 1999; No. 24, 2001; No. 9, 2004; No. 1, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 1, 2011</div>
+    <div>am. No. 89, 1995; No. 146, 1999; No. 24, 2001; No. 9, 2004</div>
   </td>
 </tr>
 <tr>
@@ -2830,7 +2639,7 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 1, 2011</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2846,7 +2655,7 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>Ss. 25, 26</div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 1, 2011</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2862,7 +2671,7 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>Ss. 27, 28</div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 1, 2011</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2924,23 +2733,200 @@ _(h)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 
 ### Note 2
 
-_Statute Law Revision Act 2011 (No. 5, 2011)_
+_Aviation Crimes and Policing Legislation Amendment Act 2011 
+ (No. 1, 2011)_
 
-The following amendments commence on 19 April 2011:
+The following amendments commence on 30 March 2011:
 
-## Schedule 5
+## Schedule 1
 
-## 65  Subsection 3(1)
+## 1  Subsection 3(1)
+
+Omit “(1) In this Act”, substitute “In this Act”.
+
+## 2  Subsection 3(1) (definition of _Commonwealth aerodrome)_
+
+Omit all the words after paragraph (a), substitute:
+
+                     (b)  a core regulated airport within the meaning of the _Airports Act 1996_;
+
+and includes any building, structure, installation or equipment in that area, or on the land that forms the core regulated airport, that is provided for use in connection with the operation of that area or land as an aerodrome or airport.
+
+## 3  Subsection 3(1) (definition of _Federal airport_)
+
+Repeal the definition.
+
+## 4  Subsection 3(1)
 
 Insert:
 
-                    <a name="foreign-affair-minist"></a>**_Foreign Affairs Minister_** means the Minister administering the _Diplomatic Privileges and Immunities Act 1967_.
+                    <a name="seriou-harm"></a>**_serious harm_** has the same meaning as in the _Criminal Code_.
 
-## 66  Subsection 43(1)
+## 5  Subsection 16(1)
 
-Omit “Minister for Foreign Affairs”, substitute “Foreign Affairs Minister”.
+Omit “7 years”, substitute “10 years”.
 
-As at 30 March 2011 the amendments are not incorporated in this compilation.
+## 6  Subsection 19(1) (penalty)
+
+Omit “14 years”, substitute “20 years”.
+
+## 7  After section 20
+
+Insert:
+
+##### <a id="20A"></a>20A  Assaulting crew—general
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is on board an aircraft; and
+
+                     (b)  the aircraft is a Division 3 aircraft; and
+
+                     (c)  the person assaults, threatens with violence or intimidates another person; and
+
+                     (d)  the other person is a member of the crew of the aircraft.
+
+                    Penalty:  Imprisonment for 10 years.
+
+             (2)  Absolute liability applies to paragraph (1)(b).
+
+Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
+
+## 8  Subsection 21(1) (penalty)
+
+Omit “14 years”, substitute “20 years”.
+
+_Note:       The heading to section 21 is altered by adding at the end “—affecting performance of duty”._
+
+## 9  At the end of section 21 (after the note)
+
+Add:
+
+Alternative verdicts
+
+             (3)  On a trial for an offence against subsection (1), the trier of fact may find the defendant not guilty of that offence but guilty of an offence against subsection 20A(1) if:
+
+                     (a)  the trier of fact is not satisfied that the defendant is guilty of the offence against subsection (1) of this section; and
+
+                     (b)  the trier of fact is satisfied that the defendant is guilty of the offence against subsection 20A(1); and
+
+                     (c)  the defendant has been accorded procedural fairness in relation to that finding of guilt.
+
+## 10  Subsection 22(1) (penalty)
+
+Omit “7 years”, substitute “10 years”.
+
+_Note:       The heading to section 22 is altered by adding at the end “—general”._
+
+## 11  After section 22
+
+Insert:
+
+##### <a id="22A"></a>22A  Endangering safety of aircraft—acts also likely to endanger life or cause serious harm
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person commits an offence against subsection 22(1); and
+
+                     (b)  the act constituting the offence is likely to endanger a person’s life or cause serious harm to a person.
+
+                    Penalty:  Imprisonment for 14 years.
+
+Note:          Subsection 22(1) provides for an offence of endangering the safety of a Division 3 aircraft.
+
+             (2)  There is no fault element for the physical element described in paragraph (1)(a) other than the fault elements (however applying), if any, for the physical elements of the offence against subsection 22(1).
+
+             (3)  To avoid doubt, a person does not commit an offence against subsection 22(1) for the purposes of paragraph (1)(a) of this section if the person has a defence to the offence against subsection 22(1).
+
+             (4)  For the purposes of paragraph (1)(b), an act is taken to be likely to cause serious harm to a person if it is likely to substantially contribute to serious harm to a person.
+
+Alternative verdicts
+
+             (5)  On a trial for an offence against subsection (1), the trier of fact may find the defendant not guilty of that offence but guilty of an offence against subsection 22(1) if:
+
+                     (a)  the trier of fact is not satisfied that the defendant is guilty of the offence against subsection (1) of this section; and
+
+                     (b)  the trier of fact is satisfied that the defendant is guilty of the offence against subsection 22(1); and
+
+                     (c)  the defendant has been accorded procedural fairness in relation to that finding of guilt.
+
+## 12  Subsection 23(1) (penalty)
+
+Repeal the penalty, substitute:
+
+                    Penalty:  Imprisonment for 10 years.
+
+_Note:       The heading to section 23 is altered by adding at the end “—general”._
+
+## 13  After section 23
+
+Insert:
+
+##### <a id="23A"></a>23A  Dangerous goods—acts likely to endanger life or cause serious harm
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person commits an offence against subsection 23(1); and
+
+                     (b)  the act constituting the offence is likely to endanger a person’s life or cause serious harm to a person.
+
+                    Penalty:  Imprisonment for 14 years.
+
+Note:          Subsection 23(1) provides for offences relating to dangerous goods and Division 3 aircraft.
+
+             (2)  There is no fault element for the physical element described in paragraph (1)(a) other than the fault elements (however applying), if any, for the physical elements of the offence against subsection 23(1).
+
+             (3)  To avoid doubt, a person does not commit an offence against subsection 23(1) for the purposes of paragraph (1)(a) if the person has a defence to the offence against subsection 23(1).
+
+             (4)  For the purposes of paragraph (1)(b), an act is taken to be likely to cause serious harm to a person if it is likely to substantially contribute to serious harm to a person.
+
+Alternative verdicts
+
+             (5)  On a trial for an offence against subsection (1), the trier of fact may find the defendant not guilty of that offence but guilty of an offence against subsection 23(1) if:
+
+                     (a)  the trier of fact is not satisfied that the defendant is guilty of the offence against subsection (1) of this section; and
+
+                     (b)  the trier of fact is satisfied that the defendant is guilty of the offence against subsection 23(1); and
+
+                     (c)  the defendant has been accorded procedural fairness in relation to that finding of guilt.
+
+## 14  Subsection 24(1) (penalty)
+
+Omit “2 years”, substitute “10 years”.
+
+## 15  Subsection 24(2) (penalty)
+
+Omit “2 years”, substitute “10 years”.
+
+## 16  Subsection 25(1) (penalty)
+
+Omit “14 years”, substitute “20 years”.
+
+## 17  Subsection 25(2) (penalty)
+
+Omit “7 years”, substitute “20 years”.
+
+## 18  Subsection 26(1) (penalty)
+
+Omit “15 years”, substitute “20 years”.
+
+## 19  Subsection 26(2) (penalty)
+
+Omit “10 years”, substitute “14 years”.
+
+## 20  Subsection 27(1) (penalty)
+
+Omit “7 years”, substitute “14 years”.
+
+## 21  Subsection 28(1) (penalty)
+
+Omit “2 years”, substitute “10 years”.
+
+## 22  Subsection 28(2) (penalty)
+
+Omit “2 years”, substitute “10 years”.
+
+As at 4 March 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3032,6 +3018,8 @@ The exercise or purported exercise (whether before, at or after the commencement
 
 _Aviation Crimes and Policing Legislation Amendment Act 2011 
  (No. 1, 2011)_
+
+The following provision commences on 30 March 2011:
 
 ## Schedule 1
 
