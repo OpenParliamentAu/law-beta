@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2008C00178/Html/AusNatUni91WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00150/Html/AusNatUni91WD02_image001.gif)
 
 # Australian National University Act 1991
 
 **Act No. 131 of 1991 as amended**
 
-This compilation was prepared on 1 July 2008
+This compilation was prepared on 3 June 2008
  taking into account amendments up to Act No. 20 of 2008
 
 The text of any of those amendments not in force
@@ -274,7 +274,7 @@ Note:         Subject to section 4A, the _Commonwealth Authori
 
 ##### <a id="4A"></a>4A  Modification of the _Commonwealth Authorities and Companies Act 1997_
 
-             (1)  Section 14, subsection 18(3), and sections 28, 29 and 48A, of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the University.
+             (1)  Section 14, subsection 18(3), and sections 28 and 29, of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the University.
 
              (2)  Nothing in section 16 of the _Commonwealth Authorities and Companies Act 1997_ requires the members of the Council to do anything that will or might affect the academic independence or integrity of the University.
 
@@ -1455,7 +1455,7 @@ Remainder: Royal Assent</div>
     <div>26 May 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (item 3): 1 July 2008</div>
+    <div>Schedule 2 (item 3): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1541,26 +1541,10 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 4A</div>
+    <div>Ss. 4A, 4B</div>
   </td>
   <td>
     <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 20, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1915,6 +1899,21 @@ _(c)_ The _Australian__National__University__Act 1991_ was amended by Schedule�
     <div>rep. No. 43, 1996</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Commonwealth Authorities and Companies Amendment Act 2008 
+ (No. 20, 2008)_
+
+The following amendment commences on 1 July 2008:
+
+## Schedule 2
+
+## 3  Subsection 4A(1)
+
+Omit “and 29”, substitute “, 29 and 48A”.
+
+As at 3 June 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
