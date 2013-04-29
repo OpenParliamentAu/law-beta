@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00077/Html/57a053ca-42d4-4cc4-82aa-ee511233f6db_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image001.gif)
 
 # Insurance Contracts Act 1984
 
 **Act No. 80 of 1984 as amended**
 
-This compilation was prepared on 31 January 2013
- taking into account amendments up to Act No. 180 of 2012
+This compilation was prepared on 1 May 2012
+ taking into account amendments up to Act No. 41 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -56,8 +57,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [11C](#11C).       Supervisory powers—ASIC may obtain insurance documents
 
 [11D](#11D).       Supervisory powers—ASIC may review administrative arrangements etc 
-
-[11DA](#11DA).    Supervisory powers—liability of directors, employees and agents of insurers
 
 [11E](#11E).        Examination of documents by ASIC not to imply compliance with relevant legislation
 
@@ -252,6 +251,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 **Part X—Miscellaneous**
 
 [76](#76).          Contribution between insurers
+
+[76A](#76A).       Liability of directors and employees etc 
 
 [77](#77).          Giving notices
 
@@ -561,8 +562,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     Penalty:  150 penalty units.
 
-Note:          For the liability of a director, employee or agent of an insurer, see section 11DA.
-
           (2A)  An offence against subsection (2) is a strict liability offence.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
@@ -593,13 +592,9 @@ Note:          A defendant bears an evidential burden in relat
 
                     Penalty:  150 penalty units.
 
-Note:          For the liability of a director, employee or agent of an insurer, see section 11DA.
-
              (3)  An insurer must not fail, without reasonable excuse, to comply with the requirements of a notice under subsection (1).
 
                     Penalty:  150 penalty units.
-
-Note:          For the liability of a director, employee or agent of an insurer, see section 11DA.
 
           (3A)  An offence against subsection (3) is a strict liability offence.
 
@@ -620,46 +615,6 @@ Note:          A defendant bears an evidential burden in relat
              (6)  In this section:
 
                     <a name="third-parti-claimant"></a>**_third party claimant_** means a person, other than the insured, who is, or might be, entitled to make a claim under a contract of insurance.
-
-##### <a id="11DA"></a>11DA  Supervisory powers—liability of directors, employees and agents of insurers
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is:
-
-                              (i)  a director of a company that is an insurer; or
-
-                             (ii)  an employee or agent of an insurer; and
-
-                     (b)  the person permits or authorises the insurer to engage in conduct; and
-
-                     (c)  the conduct constitutes an offence (the **_insurer offence_**) against subsection 11C(2) or 11D(2) or (3); and
-
-                     (d)  the insurer commits the insurer offence.
-
-                    Penalty:  150 penalty units.
-
-             (2)  There is no fault element for the physical element described in paragraph (1)(d) other than the fault elements (if any) for the physical elements of the insurer offence.
-
-             (3)  To avoid doubt:
-
-                     (a)  an insurer does not commit the insurer offence, for the purposes of subsection (1), if the insurer has a defence to the insurer offence; and
-
-                     (b)  a person may be convicted of an offence against subsection (1) even if the insurer concerned has not been prosecuted for, or convicted of, the insurer offence.
-
-             (4)  In this section:
-
-                    <a name="conduct"></a>**_conduct_** means:
-
-                     (a)  an act; or
-
-                     (b)  an omission to perform an act.
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
 
 ##### <a id="11E"></a>11E  Examination of documents by ASIC not to imply compliance with relevant legislation
 
@@ -915,7 +870,7 @@ but does not apply where:
 
              (4)  If the insurer has not avoided the contract, whether under subsection (2) or (3) or otherwise, the insurer may, by notice in writing given to the insured before the expiration of 3 years after the contract was entered into, vary the contract by substituting for the sum insured (including any bonuses) a sum that is not less than the sum ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2013C00077/Html/57a053ca-42d4-4cc4-82aa-ee511233f6db_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image002.gif)
 
 where:
 
@@ -933,7 +888,7 @@ where:
 
              (1)  In this section, **_the standard formula_**, in relation to a contract of life insurance means the formula
 
-![](http://www.comlaw.gov.au/Details/C2013C00077/Html/57a053ca-42d4-4cc4-82aa-ee511233f6db_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image002.gif)
 
 where:
 
@@ -1241,7 +1196,7 @@ the provision is void.
 
                      (b)  but for this subsection, an average provision included in the contract would have the effect of reducing the liability of the insurer in respect of loss of or damage to the property to an amount that is less than the amount ascertained in accordance with the formula
 
-![](http://www.comlaw.gov.au/Details/C2013C00077/Html/57a053ca-42d4-4cc4-82aa-ee511233f6db_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image003.gif)
 
                             where:
 
@@ -1539,7 +1494,7 @@ then, by force of this section, there exists between the parties to the original
 
              (6)  If the claim is not for total loss of the property insured, the premium is an amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00077/Html/57a053ca-42d4-4cc4-82aa-ee511233f6db_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00420/Html/cddf3dfc-199b-412f-946d-541ec751d7fe_files/image004.gif)
 
 where:
 
@@ -1836,6 +1791,24 @@ Note:          A defendant bears a legal burden in relation to
                      (b)  to recover an amount that exceeds, or amounts that in the aggregate exceed, the amount of the loss.
 
              (3)  Nothing in this section prejudices the rights of an insurer or insurers from whom the insured recovers an amount or amounts in accordance with this section to contribution from any other insurer liable in respect of the same loss.
+
+##### <a id="76A"></a>76A  Liability of directors and employees etc.
+
+             (1)  A director of a company, or an employee or agent (whether of a corporation or of an individual), who intentionally or recklessly permits or authorises a contravention of this Act by the company, corporation or individual, as the case may be, is guilty of an offence against this Act and, subject to subsection (2), is punishable by the penalty provided in respect of that contravention.
+
+             (2)  If a director of a company, or an individual who is an employee or agent of a corporation, intentionally or recklessly permits or authorises a contravention by the company or corporation, the reference in subsection (1) to the penalty provided in respect of the contravention is a reference to:
+
+                     (a)  the penalty that would apply to an individual in respect of the contravention; or
+
+                     (b)  if there is no penalty provided for an individual—a penalty not exceeding one‑fifth of the penalty applying to the company or corporation in respect of the contravention.
+
+             (3)  If:
+
+                     (a)  a company or corporation is the agent of an individual; and
+
+                     (b)  a director of the company, or an employee or agent of the corporation, intentionally or recklessly permits or authorises a contravention of this Act by the company or corporation in its capacity as agent of the individual;
+
+then, despite subsection (1), the offence committed by the company or corporation as agent is punishable by a penalty not exceeding 5 times the penalty applying to the individual.
 
 ##### <a id="77"></a>77  Giving notices
 
@@ -2292,7 +2265,7 @@ Remainder: Royal Assent</div>
     <div>30 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (item 54): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 2 (Item 54): 1 Apr 2007 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -2344,23 +2317,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>15 Apr 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Liability for Corporate Fault Reform Act 2012</div>
-  </td>
-  <td>
-    <div>180, 2012</div>
-  </td>
-  <td>
-    <div>10 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 20–22): 11 Dec 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -2582,14 +2538,6 @@ _(l)_ The _Insurance Contracts Act 1984_ was amended by Schedule 1 (items 24
 </tr>
 <tr>
   <td>
-    <div>Note to s. 11C(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 11C(3)</div>
   </td>
   <td>
@@ -2630,22 +2578,6 @@ _(l)_ The _Insurance Contracts Act 1984_ was amended by Schedule 1 (items 24
 </tr>
 <tr>
   <td>
-    <div>Note to s. 11D(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11D(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 11D(4)</div>
   </td>
   <td>
@@ -2658,14 +2590,6 @@ _(l)_ The _Insurance Contracts Act 1984_ was amended by Schedule 1 (items 24
   </td>
   <td>
     <div>ad. No. 117, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11DA</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3389,14 +3313,6 @@ Part IV</div>
   </td>
   <td>
     <div>ad. No. 49, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 180, 2012</div>
   </td>
 </tr>
 <tr>
