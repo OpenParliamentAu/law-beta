@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00072/Html/3de101e3-fe74-4b01-b09d-8d706612481f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00579/Html/26b110fb-849b-4e23-8c21-4a1e6f4ba52b_files/image001.gif)
 
 # Australian Human Rights Commission Act 1986
 
 **Act No. 125 of 1986 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 29 July 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -1302,17 +1302,23 @@ the Commission shall give a copy of a report setting out its findings, and the r
 
                      (b)  during any period, or during all periods, when the President is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office of President.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (3)  The Minister may appoint a person to act as Human Rights Commissioner:
 
                      (a)  during a vacancy in the office of Human Rights Commissioner, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Human Rights Commissioner is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office of Human Rights Commissioner.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (9)  At any time when a person who is not a member of the Commission is acting as President or Human Rights Commissioner, the person shall be deemed to be a member of the Commission for the purposes of sections 21, 22, 23, 24 and 26 (including those sections as applied by section 33) and sections 42, 48 and 49.
+
+           (10)  The validity of anything done by or in relation to a person purporting to act under subsection (2) or (3) shall not be called in question on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen;
+
+                     (b)  there is a defect or irregularity in connection with the person’s appointment;
+
+                     (c)  the person’s appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="37"></a>37  Terms and conditions of appointment
 
@@ -1552,13 +1558,21 @@ Note:          Functions are also conferred on the Commission 
 
 ##### <a id="46J"></a>46J  Acting Commissioner
 
-                   The Minister may appoint a person to act as Commissioner:
+             (1)  The Minister may appoint a person to act as Commissioner:
 
                      (a)  during a vacancy in the office of Commissioner, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Commissioner is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office of Commissioner.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  The validity of anything done by a person purporting to act under an appointment made under subsection (1) is not to be called in question on the ground that:
+
+                     (a)  the occasion for the person’s appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in or in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ### Division 3—Miscellaneous
 
@@ -2204,7 +2218,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    If information is recorded or stored by means of a mechanical, electronic or other device, any duty imposed by this Act to produce the document recording that information is to be construed as a duty to provide a document containing a clear reproduction in writing of the information.
 
-##### <a id="49B"></a>49B  Jurisdiction of Federal Court and Federal Magistrates Court
+##### <a id="49B"></a>49B  Jurisdiction of Federal Court and Federal Magistrates Court
 
                    The Federal Court and the Federal Magistrates Court have concurrent jurisdiction with respect to civil matters arising under Part IIB or IIC.
 
@@ -3364,7 +3378,7 @@ Remainder: 13 Apr 2000</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 520–523): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+    <div>Schedule 1 (items 520–523): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3796,7 +3810,7 @@ Schedule 2 (items 22–25): <i>(k)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 163–167) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 163–167) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -4533,15 +4547,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 132, 1992; No. 59, 1995; No. 62, 2004; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Notes to s. 36(2), (3)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 132, 1992; No. 59, 1995; No. 62, 2004</div>
   </td>
 </tr>
 <tr>
@@ -4746,34 +4752,10 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
 </tr>
 <tr>
   <td>
-    <div>Ss. 46G–46I</div>
+    <div>Ss. 46G–46J</div>
   </td>
   <td>
     <div>ad. No. 180, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46J</div>
-  </td>
-  <td>
-    <div>ad. No. 180, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 46J</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5225,6 +5207,40 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 163  At the end of subsections 36(2) and (3)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 164  Subsection 36(10)
+
+Repeal the subsection.
+
+## 165  Subsection 46J(1)
+
+Omit “(1)”.
+
+## 166  At the end of subsection 46J(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 167  Subsection 46J(2)
+
+Repeal the subsection.
+
+As at 29 July 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -5581,7 +5597,8 @@ To avoid doubt, the Commission’s right to sue is not affected by the amendment
 
 * * *
 
-_Sex and Age Discrimination Legislation Amendment Act 2011 (No. 40, 2011)_
+_Sex and Age Discrimination Legislation Amendment Act 2011 
+ (No. 40, 2011)_
 
 ## Schedule 2
 
@@ -5596,6 +5613,8 @@ The amendment made by item 10 applies in relation to proceedings:
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
