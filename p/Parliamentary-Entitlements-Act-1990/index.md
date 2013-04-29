@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2009C00477/Html/ParliamentaryEntitlements1990_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00672/Html/ParliamentaryEntitlements1990_WD02_image001.gif)
 
 # Parliamentary Entitlements Act 1990
 
 **Act No. 28 of 1990 as amended**
 
-This compilation was prepared on 13 October 2009
+This compilation was prepared on 17 December 2008
  taking into account amendments up to Act No. 144 of 2008
 
-\[Note: The Scheduled benefits are varied or omitted in accordance with Schedule 1 to the _Parliamentary Entitlements Regulations 1997_ (SR 1997 No. 318 as amended) _see_ Table A]
+\[Note: The Scheduled benefits are varied or omitted in accordance with Schedule 1 to the _Parliamentary Entitlements Regulations 1997_ (1997 No. 318 as amended) _see_ Table A]
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,35 +20,35 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[4](#4).            Entitlement to benefits
+[4](#4).            Entitlement to benefits                                                                        2
 
-[5](#5).            Entitlement to additional benefits
+[5](#5).            Entitlement to additional benefits                                                        3
 
-[6](#6).            Amount of benefit reduced if entitlement begins part-way through financial year
+[6](#6).            Amount of benefit reduced if entitlement begins part-way through financial year 3
 
-[7](#7).            Calculation of benefits
+[7](#7).            Calculation of benefits                                                                         3
 
-[8](#8).            Validation
+[8](#8).            Validation                                                                                             4
 
-[9](#9).            Alteration of Schedule
+[9](#9).            Alteration of Schedule                                                                         4
 
-[10](#10).          Conflict between regulations and determination
+[10](#10).          Conflict between regulations and determination                                  4
 
-[11](#11).          Appropriation
+[11](#11).          Appropriation                                                                                     4
 
-[12](#12).          Regulations
+[12](#12).          Regulations                                                                                          5
 
-[13](#13).          Amendment of Remuneration Tribunal Act
+[13](#13).          Amendment of Remuneration Tribunal Act                                        5
 
-[14](#14).          Transitional: financial year 1989-90
+[14](#14).          Transitional: financial year 1989-90                                                    5
 
 **Schedule 1—Scheduled benefits [_see_ also Table A]** 
 
@@ -156,7 +156,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 then, during that year, the person is entitled only to a proportionate amount of that benefit worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00477/Html/ParliamentaryEntitlements1990_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00672/Html/ParliamentaryEntitlements1990_WD02_image002.gif)
 
              (2)  An amount so worked out must be rounded to the nearest whole number that is greater than zero.
 
@@ -202,11 +202,11 @@ then, during that year, the person is entitled only to a proportionate amount of
 
              (2)  A determination under section 7 of the _Remuneration Tribunal Act 1973_ and in force immediately before the commencement of this Act continues in force as if it had been made under that Act as amended by this Act.
 
-##### <a id="14"></a>14  Transitional: financial year 1989-90
+##### <a id="14"></a>14  Transitional: financial year 1989-90
 
              (1)  In its application to the financial year 1989-90, an amount (in this section called **_whole amount_**) referred to in Schedule 1 (other than item 3 in Part 1) is to be reduced to an amount worked out by the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00477/Html/ParliamentaryEntitlements1990_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00672/Html/ParliamentaryEntitlements1990_WD02_image003.gif)
 
                     <a name="remain-number-dai"></a>where **_remaining number of days_** means the number of days in that financial year from and including the day on which this Act commences.
 
@@ -501,7 +501,7 @@ Insert the following definition:
 
 ### Note 1
 
-The _Parliamentary Entitlements Act 1990_ as shown in this compilation comprises Act No. 28, 1990 amended as indicated in the Tables below.
+The _Parliamentary Entitlements Act 1990_ comprises Act No. 28, 1990 as indicated in the Table below.
 
 ### Table of Acts
 
@@ -612,17 +612,13 @@ of Assent</div>
 
 ## Table A
 
-_Parliamentary Entitlements Regulations 1997 (SR 1997 No. 318 as amended by SR 2003 No. 149; SLI 2005 No. 235; 2006 No. 211; 2008 No. 228; 2009 No. 219 (as amended by SLI 2009 No. 250))_
+_Parliamentary Entitlements Regulations 1997 (1997 No. 318 as amended by 2003 No. 149; SLI 2005 No. 235; 2006 No. 211)_
 
 Schedule 1        Variation or omission of Scheduled benefits in Schedule 1 to the _Parliamentary Entitlements Act 1990_
 
 (regulation 2A)
 
 Part 1          Variations or omissions for Part 1
-
-<a id="\[100]"></a>\[100]       Item 3
-
-omit
 
 \[101]       Item 4
 
@@ -648,103 +644,15 @@ insert
 
 at
 
-<a id="\[104]"></a>\[104]       Item 7
+<a id="\[104]"></a>\[104]       Item 7
 
-substitute
+omit
 
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="90%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>
-      7\. (1)
-    </div>
-  </td>
-  <td>
-    <div>
-      Office accommodation (including for personal staff) in the electorate,
-        together with equipment, facilities, office requisites and stationery necessary
-        to operate the office, as approved by the Minister, for purposes related
-        to Parliamentary, electorate or official business, but not commercial business.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      (2)
-    </div>
-  </td>
-  <td>
-    <div>
-      For subitem (1), office requisites and stationery, as approved by the
-        Minister, must not exceed:
-    </div>
-    <div>(a) from 1 October 2009 to 30 June 2010 — $26 178; and</div>
-    <div>(b) for each subsequent financial year — $35 000 indexed annually.</div>
-  </td>
-</tr></table>
-
-<a id="\[104A]"></a>\[104A]    After item 7
+necessary to operate the office, as approved by the Minister.
 
 insert
 
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="90%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>
-      7A. (1)
-    </div>
-  </td>
-  <td>
-    <div>
-      The cost of purchasing publications (including electronic publications)
-        for purposes related to Parliamentary, electorate or official business,
-        but not commercial business.
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      (2)
-    </div>
-  </td>
-  <td>
-    <div>
-      For subitem (1), the entitlement for a member of the House of Representatives
-        representing an electorate with a demographic rating, as determined by
-        the Australian Electoral Commission, of inner metropolitan or outer metropolitan,
-        must not exceed:
-    </div>
-    <div>(a) for the 2009–2010 financial year — $3 419; and</div>
-    <div>(b) for each subsequent financial year — $3 419 indexed annually in accordance with the Consumer Price Index.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      (3)
-    </div>
-  </td>
-  <td>
-    <div>
-      For subitem (1), the entitlement for a Senator or a member of the House
-        of Representatives not mentioned in subitem (2), must not exceed:
-    </div>
-    <div>(a) for the 2009–2010 financial year — $4 572; and</div>
-    <div>(b) for each subsequent financial year — $4 572 indexed annually in accordance with the Consumer Price Index.</div>
-  </td>
-</tr></table>
+(including for personal staff) necessary to operate the office, as approved by the Minister, for purposes related to Parliamentary, electorate or official business, but not commercial business.
 
 <a id="\[105]"></a>\[105]       Paragraph 8 (b)
 
@@ -927,6 +835,16 @@ overseas
 insert
 
 , and the cost of emergency medical and hospital treatment overseas (if required),
+
+<a id="\[209]"></a>\[209]       Subitem 3 (1)
+
+after
+
+Officer
+
+insert
+
+(other than a Parliamentary Secretary)
 
 <a id="\[210]"></a>\[210]       Item 4
 
