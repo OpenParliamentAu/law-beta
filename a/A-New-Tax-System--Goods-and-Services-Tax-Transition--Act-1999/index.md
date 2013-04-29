@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00517/Html/11e8e1b3-8d09-41b4-a9aa-64dabf23dcdf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00523/Html/ANTSGdsServTaxTrans1999_image001.gif)
 
 # A New Tax System (Goods and Services Tax Transition) Act 1999
 
 **Act No. 57 of 1999 as amended**
 
-This compilation was prepared on 20 November 2009
- taking into account amendments up to Act No. 111 of 2009
+This compilation was prepared on 25 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,109 +18,109 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Schedule(s)                                                                                          1
+[3](#3).            Schedule(s)
 
-[4](#4).            Overview                                                                                             2
+[4](#4).            Overview
 
-[5](#5).            Definitions                                                                                           2
+[5](#5).            Definitions
 
-[6](#6).            Time of supply or acquisition                                                               2
+[6](#6).            Time of supply or acquisition
 
-[6A](#6A).         Trading periods spanning midnight on 30 June 2000                          3
+[6A](#6A).         Trading periods spanning midnight on 30 June 2000
 
 **Part 2—Start of GST**
 
-[7](#7).            Start of GST                                                                                         5
+[7](#7).            Start of GST
 
-[9](#9).            GST registration before 1 July 2000                                                    5
+[9](#9).            GST registration before 1 July 2000
 
-[10](#10).          Invoice or consideration before 1 July 2000                                        5
+[10](#10).          Invoice or consideration before 1 July 2000
 
-[11](#11).          Supply of rights exercisable on or after 1 July 2000                            6
+[11](#11).          Supply of rights exercisable on or after 1 July 2000
 
 **Part 3—Agreements spanning 1 July 2000** 
 
     **Division 1—General**
 
-[12](#12).          Progressive or periodic supplies                                                          7
+[12](#12).          Progressive or periodic supplies
 
-[13](#13).          Existing agreements: no opportunity to review                                    8
+[13](#13).          Existing agreements: no opportunity to review
 
-[14](#14).          Rights granted for life                                                                        10
+[14](#14).          Rights granted for life
 
-[15](#15).          Funeral agreements                                                                            11
+[15](#15).          Funeral agreements
 
     **Division 2—Agreements also spanning 1 July 2005** 
 
         **Subdivision A—Introduction**
 
-[15A](#15A).       Explanation of this Division                                                               12
+[15A](#15A).       Explanation of this Division
 
-[15B](#15B).       Definitions                                                                                         14
+[15B](#15B).       Definitions
 
         **Subdivision B—Payment of GST payable by recipients of supplies**
 
-[15C](#15C).       GST payable by recipients of supplies                                               14
+[15C](#15C).       GST payable by recipients of supplies
 
-[15D](#15D).       Amounts of GST                                                                               16
+[15D](#15D).       Amounts of GST
 
-[15E](#15E).        Rules for recipients who are not registered or required to be registered 16
+[15E](#15E).        Rules for recipients who are not registered or required to be registered
 
-[15F](#15F).        Rule for recipients whose registration is cancelled                             17
+[15F](#15F).        Rule for recipients whose registration is cancelled
 
-[15G](#15G).       Bad debts                                                                                           17
+[15G](#15G).       Bad debts
 
-[15H](#15H).       Tax invoices and adjustment notes                                                     18
+[15H](#15H).       Tax invoices and adjustment notes
 
-[15I](#15I).         Attributing the GST                                                                           18
+[15I](#15I).         Attributing the GST
 
-[15IA](#15IA).      Application of section 105-55 in Schedule 1 to the _Taxation Administration Act 1953_            19
+[15IA](#15IA).      Application of section 105-55 in Schedule 1 to the _Taxation Administration Act 1953_
 
         **Subdivision C—Arbitrated offers**
 
-[15J](#15J).        Arbitrated offers                                                                                 19
+[15J](#15J).        Arbitrated offers
 
-[15K](#15K).       Initial offer                                                                                         19
+[15K](#15K).       Initial offer
 
-[15L](#15L).        Arbitration                                                                                          20
+[15L](#15L).        Arbitration
 
-[15M](#15M).      Final offer                                                                                          21
+[15M](#15M).      Final offer
 
 **Part 4—Stock on hand on 1 July 2000**
 
-[17](#17).          Stock later applied for private or domestic purpose                            22
+[17](#17).          Stock later applied for private or domestic purpose
 
-[18](#18).          Second-hand goods                                                                            23
+[18](#18).          Second-hand goods
 
 **Part 5—Special transitional rules**
 
-[19](#19).          Construction agreements made before 1 July 2000                            24
+[19](#19).          Construction agreements made before 1 July 2000
 
-[19A](#19A).       Sales of motor vehicles held under operating leases since 2 December 1998           25
+[19A](#19A).       Sales of motor vehicles held under operating leases since 2 December 1998
 
-[21](#21).          Acupuncture, naturopathy and herbal medicine                                  25
+[21](#21).          Acupuncture, naturopathy and herbal medicine
 
-[22](#22).          Event before 1 July 2000 giving rise to claim                                    26
+[22](#22).          Event before 1 July 2000 giving rise to claim
 
-[23](#23).          Input tax credits relating to compulsory third party schemes              26
+[23](#23).          Input tax credits relating to compulsory third party schemes
 
-[24](#24).          Gambling                                                                                           27
+[24](#24).          Gambling
 
-[24A](#24A).       Unredeemed vouchers                                                                        27
+[24A](#24A).       Unredeemed vouchers
 
-[24B](#24B).       Commissioner may make determinations relating to rounding           28
+[24B](#24B).       Commissioner may make determinations relating to rounding
 
-[24C](#24C).       Supplies from certain coin-operated devices may be input taxed        28
+[24C](#24C).       Supplies from certain coin-operated devices may be input taxed
 
 **Part 6—Regulations**
 
-[25](#25).          Regulations                                                                                        30
+[25](#25).          Regulations
 
 **Notes** 
 
@@ -489,7 +489,7 @@ supplies that are specifically identified by the agreement are not GST-free unde
 
                      (c)  the right is granted or first exercisable before 1 July 2000.
 
-             (2)  To the extent that the supply is constituted by the supply of the right, so much of the supply as is made before 1 July 2000 is instead taken, for the purposes of this Act, to be made on 1 July 2000.
+             (2)  To the extent that the supply is constituted by the supply of the right, so much of the supply as is made before  1 July 2000 is instead taken, for the purposes of this Act, to be made on  1 July 2000.
 
              (3)  However, in the case of an agreement entered into before 2 December 1998 that is also covered by section 13:
 
@@ -533,7 +533,7 @@ subsection (3) has effect as if the reference to 2 December 1998 were a refe
 
              (2)  The following diagram shows how, as a result of this Division and the GST law in general, each of the 3 possible ways to treat the GST on such a taxable supply will apply in particular cases.
 
-![](http://www.comlaw.gov.au/Details/C2009C00517/Html/11e8e1b3-8d09-41b4-a9aa-64dabf23dcdf_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00523/Html/ANTSGdsServTaxTrans1999_image002.gif)
 
 ##### <a id="15B"></a>15B  Definitions
 
@@ -765,15 +765,7 @@ whichever happens earlier.
 
              (3)  In this section:
 
-                    <a name="new-tax-system-chang"></a>**_New Tax System changes_** means the following:
-
-                     (a)  the amendment of the former _Sales Tax (Exemptions and Classifications) Act 1992_ made by this Act;
-
-                     (b)  the ending of sales tax, as provided for in the former _A New Tax System (End of Sales Tax) Act 1999_;
-
-                     (c)  the imposition of GST;
-
-                     (d)  any other changes (including changes to Commonwealth, State or Territory laws) prescribed by the regulations for the purposes of this definition.
+                    <a name="new-tax-system-chang"></a>**_New Tax System changes_** has the same meaning as in Part VB of the _Trade Practices Act 1974_.
 
 ##### <a id="15M"></a>15M  Final offer
 
@@ -1322,28 +1314,11 @@ Schedule 1 (item 15): <i>(e)</i></div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 5 (items 6–13) and Schedule 6 (items 5–11): Royal Assent</div>
+    <div>Schedule 5 (items 6–13) and Schedule 6 (items 5–11): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 6 (items 
+    <div>Sch. 6 (items 
 5–11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Stocktake (Regulatory and Other Laws) Act 2009</div>
-  </td>
-  <td>
-    <div>111, 2009</div>
-  </td>
-  <td>
-    <div>16 Nov 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 24): 17 Nov 2009</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -1353,7 +1328,7 @@ _(a)_     The _A New Tax System (Goods and Services Tax Transition) Act 
 
          The _A New Tax System (Goods and Services Tax Transition) Act 1999_ commenced on 9 July 1999.
 
-_(b)_     The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 2 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(5) of which provides as follows:
+_(b)_    The _A New Tax System (Goods and Services Tax Transition) Act 1999_ was amended by Schedule 2 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(5) of which provides as follows:
 
                  (5)   Schedule 2 is taken to have commenced immediately after the commencement of Schedule 6 (other than the items for which specific commencement has been provided) to the _A New Tax System (Indirect Tax and Consequential Amendments) Act 1999_.
 
@@ -1498,7 +1473,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 176, 1999; No. 92, 2000; No. 101, 2006</div>
+    <div>am. No. 176, 1999; No. 92, 2000; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1522,7 +1497,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>am. No. 101, 2006</div>
+    <div>am. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1546,7 +1521,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div>S. 8</div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1562,7 +1537,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1591,7 +1566,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 1 of Part 3</div>
+    <div>Heading to Div. 1 of Part 3.</div>
   </td>
   <td>
     <div>ad. No. 10, 2005</div>
@@ -1727,31 +1702,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
 </tr>
 <tr>
   <td>
-    <div>Ss. 15J, 15K</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15L</div>
-  </td>
-  <td>
-    <div>ad. No. 10, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 111, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15M</div>
+    <div>Ss. 15J–15M</div>
   </td>
   <td>
     <div>ad. No. 10, 2005</div>
@@ -1778,7 +1729,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1794,7 +1745,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1810,7 +1761,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1826,7 +1777,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1842,7 +1793,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1866,7 +1817,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1882,7 +1833,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1890,7 +1841,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 101, 2006</div>
+    <div>am. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1898,7 +1849,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 177, 1999; No. 101, 2006</div>
+    <div>am. No. 177, 1999; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1938,7 +1889,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1954,7 +1905,7 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
     <div></div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2039,10 +1990,10 @@ _(e)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (Long-te
 </tr>
 <tr>
   <td>
-    <div>Schedule 1</div>
+    <div>Schedule 1</div>
   </td>
   <td>
-    <div>rep. No. 101, 2006</div>
+    <div>rep. No. 101, 2006</div>
   </td>
 </tr></table>
 
@@ -2104,7 +2055,7 @@ The amendment made by item 15 of this Schedule applies to tax periods starting
 _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
  (No. 101, 2006)_
 
-## Schedule 6
+## Schedule 6
 
 ## 5  Application of Schedule 5 amendments
 
