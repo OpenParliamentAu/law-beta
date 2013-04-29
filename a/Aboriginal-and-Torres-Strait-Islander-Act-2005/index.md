@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image001.gif)
 
 # Aboriginal and Torres Strait Islander Act 2005
 
 **Act No. 150 of 1989 as amended**
 
-This compilation was prepared on 12 July 2010
- taking into account amendments up to Act No. 89 of 2010
+This compilation was prepared on 19 April 2010
+ taking into account amendments up to Act No. 33 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -480,9 +480,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [192X](#192X).     Purpose of Land Account
 
-[192Y](#192Y).     Indexation factor
+[192Y](#192Y).     Business day
 
-[193](#193).        Payments out of Land Account to Indigenous Land Corporation
+[192Z](#192Z).     Transfer of money etc  from the fund established under repealed Part 10 of the _Native Title Act 1993_
+
+[193](#193).        Credits to Land Account in category A years
+
+[193AA](#193AA).  Credit to Land Account in first category B year
+
+[193A](#193A).     Payments out of Land Account to Indigenous Land Corporation—category A years
+
+[193C](#193C).     Payments out of Land Account to Indigenous Land Corporation—category B years
+
+[193D](#193D).     Indexation factor
+
+[193E](#193E).      Advances on account of payments
 
 [193G](#193G).     Consultative forum on investment policy of the Land Account
 
@@ -517,10 +529,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
     **Division 14—Delegation**
 
 [193T](#193T).     Delegation to Indigenous Land Corporation General Manager or member of staff
-
-    **Division 15—Reviews**
-
-[193U](#193U).     Reviews
 
 **Part 4B—Office of Evaluation and Audit (Indigenous Programs)**
 
@@ -745,6 +753,20 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
                     <a name="ailan-kastom"></a>**_Ailan Kastom_** means the body of customs, traditions, observances and beliefs of some or all of the Torres Strait Islanders living in the Torres Strait area, and includes any such customs, traditions, observances and beliefs relating to particular persons, areas, objects or relationships.
 
                     <a name="atsic-abolit-dai"></a>**_ATSIC abolition day_** means the day Schedules 1 and 2 to the _Aboriginal and__Torres Strait__Islander Commission Amendment Act 2005_ commence _._
+
+                    <a name="categori-year"></a>**_category A year_** means:
+
+                     (a)  the period:
+
+                              (i)  beginning at the commencement of section 1 of the _Land Fund and Indigenous Land Corporation (ATSIC Amendment) Act 1995_; and
+
+                             (ii)  ending at the end of 30 June 1995; or
+
+                     (b)  the financial year beginning on 1 July 1995; or
+
+                     (c)  any of the next 8 succeeding financial years.
+
+                    <a name="categori-year"></a>**_category B year_** means a financial year later than the last category A year.
 
                     <a name="commonwealth-bodi"></a>**_Commonwealth body_** includes a Department of State, or authority, of the Commonwealth.
 
@@ -1160,7 +1182,7 @@ is a purpose for which the TSRA could, in the performance of its functions, make
 
                      (b)  an authority of the State of Queensland (including a local government body);
 
-for the purpose of furthering the social, economic or cultural development of Torres Strait Islanders, or Aboriginal persons, living in the Torres Strait area.
+for the purpose of furthering the social, economic or cultural development of Torres Strait Islanders, or Aboriginal persons, living in the Torres  Strait area.
 
              (2)  The TSRA may make a loan of money to:
 
@@ -1652,7 +1674,7 @@ Rules are a disallowable instrument
 
 ##### <a id="143K"></a>143K  Remuneration and allowances
 
-                   A member of the TSRA is entitled to remuneration and allowances in accordance with section 194.
+                   A member of the TSRA is entitled to remuneration and allowances in accordance with section 194.
 
 ##### <a id="143L"></a>143L  Chairperson and Deputy Chairperson
 
@@ -3602,7 +3624,15 @@ Disposal of surplus land
 
 ##### <a id="191L"></a>191L  Powers of Minister
 
-                   Except as expressly provided in this Act or the _Commonwealth Authorities and Companies Act 1997_, the Minister is not empowered to direct the Indigenous Land Corporation in relation to any of its activities.
+             (1)  Except as expressly provided in this Act or the _Commonwealth Authorities and Companies Act 1997_, the Minister is not empowered to direct the Indigenous Land Corporation in relation to any of its activities.
+
+             (2)  In performing its functions and exercising its powers in relation to the expenditure, during the period starting on ATSIC abolition day and ending immediately before Regional Councils abolition day, of money that, before ATSIC abolition day, stood to the credit of the Regional Land Fund established under section 68 of this Act as in force before that day, the Indigenous Land Corporation must act in accordance with any general written directions given to it by the Minister.
+
+             (3)  Subject to subsection (4), the Minister must cause a copy of a direction under subsection (2) to be laid before each House of the Parliament within 15 sitting days of that House after the direction was given.
+
+             (4)  A copy of a direction laid before each House of the Parliament in accordance with subsection (3) must not disclose any matter the disclosure of which in that manner would be inconsistent with the views or sensitivities of Aboriginal persons or Torres Strait Islanders because that matter is sacred or otherwise significant to those persons _._
+
+             (5)  A direction given by the Minister under subsection (2) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
 ### Division 3—National indigenous land strategy and regional indigenous land strategies
 
@@ -3848,7 +3878,7 @@ Vacancy not to affect performance of functions etc.
 
 ##### <a id="191W"></a>191W  Responsibilities of Indigenous Land Corporation Board
 
-                   It is the responsibility of the Indigenous Land Corporation Board to ensure the proper and efficient performance of the functions of the Indigenous Land Corporation and to determine the policy of the Corporation with respect to any matter.
+                   It is the responsibility of the Indigenous Land Corporation Board, subject to any direction from the Minister under subsection 191L(2), to ensure the proper and efficient performance of the functions of the Indigenous Land Corporation and to determine the policy of the Corporation with respect to any matter.
 
 ##### <a id="191X"></a>191X  Appointment of Indigenous Land Corporation Directors
 
@@ -4226,73 +4256,243 @@ Note:          The Account was established by subsection 5(3) 
 
                    The purpose of the Land Account is the making of payments to the Indigenous Land Corporation under this Division.
 
-##### <a id="192Y"></a>192Y  Indexation factor
+##### <a id="192Y"></a>192Y  Business day
 
-             (1)  The **_indexation factor_** for a financial year is worked out using the formula:
+                   For the purposes of this Division, a **_business day_** is a day that is not a Saturday, a Sunday or a public holiday in the Australian Capital Territory.
 
-![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image002.gif)
+##### <a id="192Z"></a>192Z  Transfer of money etc. from the fund established under repealed Part 10 of the _Native Title Act 1993_
+
+             (1)  This section applies to the money and investments of the fund established under the repealed Part 10 of the _Native Title Act 1993_ before the commencement of this section.
+
+             (2)  On the commencement of this subsection, the money and investments become, by force of this subsection, money and investments of the Land Account.
+
+##### <a id="193"></a>193  Credits to Land Account in category A years
+
+Second category A year
+
+             (1)  On the first business day in the second category A year, there is to be credited to the Land Account the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image002.gif)
 
 where:
 
-                    <a name="first-june-year"></a>**_first June year_** means the period of 12 months ending on 30 June immediately before the financial year.
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
 
-                    <a name="index-number"></a>**_index number_**, for a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter.
+Note:          **_Business day_** is defined by section 192Y.
+
+Later category A years
+
+             (2)  On the first business day in each later category A year, there is to be credited to the Land Account the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image003.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+                    <a name="previou-year-amount"></a>**_Previous year’s amount_** means the amount credited to the Land Account under this section in the previous financial year.
+
+Note:          **_Business day_** is defined by section 192Y.
+
+Rounding down
+
+             (3)  If the result of applying the formula set out in subsection (1) or (2) is an amount of dollars and cents, the cents are to be disregarded.
+
+##### <a id="193AA"></a>193AA  Credit to Land Account in first category B year
+
+Top-up payment—first category B year
+
+             (1)  If the target amount for the tenth category A year exceeds the sum of:
+
+                     (a)  the uninvested money standing to the credit of the Land Account immediately before the end of that year; and
+
+                     (b)  the amount that, in the opinion of the Finance Minister, represents the market value of investments of the Land Account (other than fixed-interest investments) immediately before the end of that year, having regard to the relevant audited financial statements; and
+
+                     (c)  the amount that, in the opinion of the Finance Minister, represents the book value of fixed-interest investments of the Land Account immediately before the end of that year, having regard to the relevant audited financial statements;
+
+then, on the first business day in October in the first category B year, there is to be credited to the Land Account an amount equal to the excess.
+
+Note 1:       **_Target amount_** is defined by subsections (2) and (3).
+
+Note 2:       **_Designated funding amount_** is defined by section 193A.
+
+Note 3:       **_Business day_** is defined by section 192Y.
+
+Target amount—second category A year
+
+             (2)  For the purposes of this section, the **_target amount_** for the second category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image004.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+Target amount—later category A years
+
+             (3)  For the purposes of this section, the **_target amount_** for a later category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image005.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+                    <a name="previou-year-target-amount"></a>**_Previous year’s target amount_** means the target amount for the previous category A year.
+
+##### <a id="193A"></a>193A  Payments out of Land Account to Indigenous Land Corporation—category A years
+
+First category A year
+
+             (1)  In the first category A year, there is to be paid to the Indigenous Land Corporation, out of the Land Account, $25 million. The payment is to be made on a business day nominated by the Minister. The nominated day must be within 30 days after the beginning of the first category A year.
+
+Note:          **_Business day_** is defined by section 192Y.
+
+Later category A years
+
+             (2)  On the second business day in the second category A year or a later category A year, there is to be paid to the Indigenous Land Corporation, out of the Land Account, an amount equal to the designated funding amount for the year.
+
+Note 1:       **_Business day_** is defined by section 192Y.
+
+Note 2:       **_Designated funding amount_** is defined by subsections (4), (5), (6) and (7).
+
+Designated funding amount—second category A year
+
+             (4)  For the purposes of this Division, the **_designated funding amount_** for the second category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image006.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+Designated funding amount—third category A year
+
+             (5)  For the purposes of this Division, the **_designated funding amount_** for the third category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image007.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+                    <a name="previou-year-design-fund-amount"></a>**_Previous year’s designated funding amount_** means the designated funding amount for the previous category A year.
+
+Designated funding amount—fourth category A year
+
+             (6)  For the purposes of this Division, the **_designated funding amount_** for the fourth category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image008.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+                    <a name="adjusted-previou-year-design-fund-amount"></a>**_Adjusted previous year’s designated funding amount_** means the amount that would have been the designated funding amount for the previous category A year if the reference in subsection (4) to $24 million were a reference to $45 million.
+
+Designated funding amount—later category A years
+
+             (7)  For the purposes of this Division, the designated funding amount for a later category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image007.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+                    <a name="previou-year-design-fund-amount"></a>**_Previous year’s designated funding amount_** means the designated funding amount for the previous category A year.
+
+Rounding down
+
+             (8)  If the result of applying the formula set out in subsection (4), (5), (6) or (7) is an amount of dollars and cents, the cents are to be disregarded.
+
+##### <a id="193C"></a>193C  Payments out of Land Account to Indigenous Land Corporation—category B years
+
+Payments
+
+             (1)  On the last business day in a category B year, there is to be paid to the Indigenous Land Corporation, out of the Land Account, an amount equal to the designated funding amount for the year.
+
+Note 1:       **_Business day_** is defined by section 192Y.
+
+Note 2:       **_Designated funding amount_** is defined by subsection (3).
+
+Designated funding amount
+
+             (3)  For the purposes of this Division, the **_designated funding amount_** for a category B year is equal to the realised real return on the investments of the Land Account in respect of the previous financial year.
+
+Method of measuring inflation
+
+             (4)  For the purposes of subsection (3), inflation for a financial year is to be measured using the indexation factor for the next financial year worked out under section 193D.
+
+##### <a id="193D"></a>193D  Indexation factor
+
+Indexation factor—category A year
+
+             (1)  The indexation factor for a category A year is worked out using the following formula (and then rounded under subsection (3)):
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image009.gif)
+
+where:
+
+                    <a name="first-march-year"></a>**_first March year_** means the period of 12 months ending on 31 March immediately before the category A year.
+
+                    <a name="index-number"></a>**_index number_**, for a quarter, means the implicit price deflator for gross non-farm product (trend) published by the Australian Statistician in respect of the quarter (ignoring any later number that may be published by the Australian Statistician in substitution for it).
+
+                    <a name="second-march-year"></a>**_second March year_** means the period of 12 months immediately before the first March year.
+
+Indexation factor—category B year
+
+             (2)  The indexation factor for a category B year is worked out using the following formula (and then rounded under subsection (3)):
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image010.gif)
+
+where:
+
+                    <a name="first-june-year"></a>**_first June year_** means the period of 12 months ending on 30 June immediately before the category B year.
+
+                    <a name="index-number"></a>**_index number_**, for a quarter, means the implicit price deflator for gross non-farm product (trend) published by the Australian Statistician in respect of the quarter (ignoring any later number that may be published by the Australian Statistician in substitution for it).
 
                     <a name="second-june-year"></a>**_second June year_** means the period of 12 months immediately before the first June year.
 
-             (2)  An indexation factor is to be calculated to 3 decimal places, but increased by 0.001 if the fourth decimal place is more than 4.
+Rounding the indexation factor
 
-             (3)  If an indexation factor worked out under subsections (1) and (2) would be less than 1, that indexation factor is to be increased to 1.
+             (3)  A result under subsection (1) or (2) must be rounded up or down to 3 decimal places (rounding up in the case exactly half-way between).
 
-             (4)  Calculations under this section are to be made:
+Change in statistical reference base
 
-                     (a)  using only the index numbers published in terms of the most recently published reference base for the Consumer Price Index; and
+             (4)  For the purposes of applying the formula component **_index number_** in subsection (1) or (2), if:
 
-                     (b)  disregarding index numbers published in substitution for previously published index numbers (except where the substituted numbers are published to take account of changes in the reference base).
+                     (a)  at any time, whether before or after the commencement of this subsection, the Australian Statistician has changed or changes the reference base for the implicit price deflator for gross non-farm product (trend);
 
-##### <a id="193"></a>193  Payments out of Land Account to Indigenous Land Corporation
+then:
 
-Financial year beginning on 1 July 2010
+                     (b)  after the change, only numbers published in terms of the new base are to be used.
 
-             (1)  On the first business day in October in the financial year beginning on 1 July 2010, there is to be paid to the Indigenous Land Corporation, out of the Land Account, $45 million.
+##### <a id="193E"></a>193E  Advances on account of payments
 
-Later financial years
+Advances
 
-             (2)  On the first business day in October in a financial year beginning on or after 1 July 2011, there is to be paid to the Indigenous Land Corporation, out of the Land Account, the amount worked out using the following formula:
+             (1)  If the Minister is satisfied that, because of special circumstances, it is appropriate to do so, he or she may, on behalf of the Commonwealth, make an advance on account of payments that may become payable to the Indigenous Land Corporation under section 193A or 193C during a specified financial year.
 
-![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image003.gif)
+Advance to be paid out of amount standing to the credit of the Land Account
 
-where:
+             (2)  An advance is to be debited and paid by the Commonwealth out of the amount standing to the credit of the Land Account.
 
-                    <a name="index-factor"></a>**_indexation factor_** means the indexation factor for the financial year worked out under section 192Y.
+Repayment of excess advances
 
-                    <a name="relev-fund-amount"></a>**_relevant funding amount_** means:
+             (3)  If, at the end of the specified financial year, the Indigenous Land Corporation has received a total amount, by way of advances on account of payments that may become payable to the Corporation under section 193A or 193C during that financial year, that is greater than the total amount (if any) that became payable to the Corporation under section 193A or 193C during that financial year, the Corporation is liable to pay to the Commonwealth the amount of the excess.
 
-                     (a)  for the financial year beginning on 1 July 2011—$45 million; or
+Credits to Land Account
 
-                     (b)  for a later financial year—the amount worked out under this subsection for the previous financial year.
+             (4)  If the Indigenous Land Corporation pays an amount under subsection (3), an amount equal to that amount is to be credited to the Land Account.
 
-Additional payments
+Recovery of excess advances
 
-             (3)  On the first business day in December in a financial year (the **_current year_**) beginning on or after 1 July 2011, an amount is to be paid to the Indigenous Land Corporation, out of the Land Account, if the actual capital value of the Land Account for the current year exceeds the real capital value of the Land Account for the current year. The amount to be paid is an amount equal to the excess.
+             (6)  If the Indigenous Land Corporation is liable to pay an amount to the Commonwealth under subsection (3):
 
-             (4)  For the purposes of subsection (3), the **_real capital value_** of the Land Account for the current year is the actual capital value of the Land Account for the financial year (the **_base year_**) beginning on 1 July 2010 multiplied, in turn, by the indexation factor for each financial year after the base year up to and including the current year.
+                     (a)  the amount may be recovered, as a debt due to the Commonwealth, by action in a court of competent jurisdiction; or
 
-             (5)  For the purposes of subsections (3) and (4), the **_actual capital value_** of the Land Account for a financial year is the sum of:
-
-                     (a)  the amount standing to the credit of the Land Account immediately before the start of that year; and
-
-                     (b)  the value, immediately before the start of that year, of current investments made under section 39 of the _Financial Management and Accountability Act 1997_ using amounts from the Land Account.
-
-Rounding
-
-             (6)  If an amount to be paid under subsection (2) or (3) is an amount of dollars and cents, the cents are to be disregarded.
-
-Definition
-
-             (7)  In this section:
-
-                    <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, a Sunday or a public holiday in the Australian Capital Territory.
+                     (b)  the amount may be deducted from any other amount that is payable to the Corporation under this Division, and if the amount is so deducted, the other amount is taken to have been paid in full to the Corporation.
 
 ##### <a id="193G"></a>193G  Consultative forum on investment policy of the Land Account
 
@@ -4316,9 +4516,17 @@ Minister to provide information
 
           (2A)  A person who is, or is to be, a participant in a meeting convened under subsection (1) may request the Minister to provide to each participant in the meeting such information as is specified in the request. The specified information must relate to the management and/or performance of the investments of the Land Account. The Minister must comply with the request.
 
+First category A year deemed to be a financial year
+
+             (3)  For the purposes of this section, the first category A year is taken to be a financial year.
+
 ##### <a id="193H"></a>193H  Accounts and financial statements
 
-                   The Secretary of the Department must keep accounts, and prepare financial statements, in such form as the Finance Minister determines, in respect of the Land Account.
+             (1)  The Secretary of the Department must keep accounts, and prepare financial statements, in such form as the Finance Minister determines, in respect of the Land Account.
+
+             (2)  Subject to any direction by the Minister responsible for administering the _Commonwealth Authorities and Companies Act 1997_, the financial statements relating to the financial year that includes ATSIC abolition day must deal with expenditure of money that, before that day, stood to the credit of the Regional Land Fund established under section 68 of this Act as in force before that day, separately from the other finances of the Indigenous Land Corporation.
+
+             (3)  A direction referred to in subsection (2) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
 ##### <a id="193I"></a>193I  Annual report about Land Account
 
@@ -4336,9 +4544,11 @@ Annual report—specific matters
 
                      (c)  particulars of investments of the Land Account;
 
-                     (d)  the return on investments of the Land Account in respect of the financial year;
+                     (d)  the realised real return on investments of the Land Account in respect of the financial year;
 
                      (e)  such other information (if any) as is specified in the regulations.
+
+          (2A)  There must also be included in the annual report for the financial year that includes ATSIC abolition day particulars of any direction given by the Minister under subsection 191L(2).
 
 Tabling of annual report
 
@@ -4347,6 +4557,14 @@ Tabling of annual report
 Reporting obligations are in addition to other obligations
 
              (4)  The obligations imposed by this section are in addition to, and not instead of, obligations imposed by any other law of the Commonwealth.
+
+Realised real return
+
+             (5)  For the purposes of paragraph (2)(d), inflation for a financial year is to be measured using the indexation factor for the next financial year worked out under section 193D.
+
+First category A year deemed to be a financial year
+
+             (6)  For the purposes of this section, the first category A year is taken to be a financial year.
 
 ### Division 11—Finances
 
@@ -4368,6 +4586,8 @@ Note:          Paragraph 191H(2)(b) empowers the Indigenous La
 
              (2)  The annual report of the Indigenous Land Corporation under section 9 of the _Commonwealth Authorities and Companies Act 1997_ must include such additional information (if any) as is specified in the regulations under this Act.
 
+             (3)  Division 2 of Part 3 (except section 10) of the _Commonwealth Authorities and Companies Act 1997_ applies as if the first category A year were a financial year.
+
 ##### <a id="193L"></a>193L  Borrowing
 
 Power to borrow
@@ -4388,17 +4608,61 @@ Borrowing
 
                      (e)  the total of the liabilities (whether actual or contingent) of its subsidiaries in respect of guarantees;
 
-is more than the borrowing limit for the year.
+is more than the borrowing limit for the year. For this purpose, the first category A year is taken to be a financial year.
 
-Borrowing limit
+Note:          **_Borrowing limit_** is defined by subsections (3), (4), (5), (6), (7) and (8).
 
-             (3)  For the purposes of this section, the **_borrowing limit_** for a financial year is the amount worked out using the formula:
+Borrowing limit—first category A year
 
-![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image004.gif)
+             (3)  For the purposes of this section, the **_borrowing limit_** for the first category A year is $100 million.
+
+Borrowing limit—second category A year
+
+             (4)  For the purposes of this section, the **_borrowing limit_** for the second category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image011.gif)
 
 where:
 
-                    <a name="index-factor"></a>**_indexation factor_** means the indexation factor for the financial year worked out under section 192Y.
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+Borrowing limit—third category A year
+
+             (5)  For the purposes of this section, the **_borrowing limit_** for the third category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image012.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+                    <a name="previou-year-borrow-limit"></a>**_Previous year’s borrowing limit_** means the borrowing limit for the previous financial year.
+
+Borrowing limit—fourth category A year
+
+             (6)  For the purposes of this section, the **_borrowing limit_** for the fourth category A year is $200 million.
+
+Borrowing limit—fifth category A year
+
+             (7)  For the purposes of this section, the **_borrowing limit_** for the fifth category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image013.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+Borrowing limit—later financial years
+
+             (8)  For the purposes of this section, the **_borrowing limit_** for a later financial year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image012.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+                    <a name="previou-year-borrow-limit"></a>**_Previous year’s borrowing limit_** means the borrowing limit for the previous financial year.
 
 Validity of transactions
 
@@ -4414,13 +4678,15 @@ Money not to be raised except by borrowing
 
 ##### <a id="193M"></a>193M  Giving of security over assets
 
-                   The Indigenous Land Corporation may give security over the whole or any part of its assets:
+             (1)  The Indigenous Land Corporation may give security over the whole or any part of its assets:
 
                      (a)  for the repayment by the Indigenous Land Corporation of money borrowed under section 193L and the payment by the Indigenous Land Corporation of interest (including interest on interest) on money so borrowed; or
 
                      (b)   in connection with a guarantee given by the Indigenous Land Corporation;
 
 and not otherwise.
+
+             (2)  For the purpose of giving any security during the period starting on ATSIC abolition day and ending immediately before Regional Councils abolition day, assets of the Indigenous Land Corporation do not include any money that, before ATSIC abolition day, stood to the credit of the Regional Land Fund established under section 68 of this Act as in force before that day.
 
 ##### <a id="193N"></a>193N  Limit on guarantees
 
@@ -4438,17 +4704,61 @@ Limit
 
                      (e)  the total of the liabilities (whether actual or contingent) of its subsidiaries in respect of guarantees;
 
-is more than the guarantee limit for the financial year.
+is more than the guarantee limit for the financial year. For this purpose, the first category A year is taken to be a financial year.
 
-Guarantee limit
+Note:          **_Guarantee limit_** is defined by subsections (2), (3), (4), (5), (6) and (7).
 
-             (2)  For the purposes of this section, the **_guarantee limit_** for a financial year is the amount worked out using the formula:
+Guarantee limit—first category A year
 
-![](http://www.comlaw.gov.au/Details/C2010C00483/Html/AbTorStrIsland2005_image005.gif)
+             (2)  For the purposes of this section, the **_guarantee limit_** for the first category A year is $100 million.
+
+Guarantee limit—second category A year
+
+             (3)  For the purposes of this section, the **_guarantee limit_** for the second category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image014.gif)
 
 where:
 
-                    <a name="index-factor"></a>**_indexation factor_** means the indexation factor for the financial year worked out under section 192Y.
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+Guarantee limit—third category A year
+
+             (4)  For the purposes of this section, the **_guarantee limit_** for the third category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image015.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+                    <a name="previou-year-guarante-limit"></a>**_Previous year’s guarantee limit_** means the guarantee limit for the previous financial year.
+
+Guarantee limit—fourth category A year
+
+             (5)  For the purposes of this section, the **_guarantee limit_** for the fourth category A year is $200 million.
+
+Guarantee limit—fifth category A year
+
+             (6)  For the purposes of this section, the **_guarantee limit_** for the fifth category A year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image013.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+Guarantee limit—later financial years
+
+             (7)  For the purposes of this section, the **_guarantee limit_** for a later financial year is the amount worked out using the formula:
+
+![](http://www.comlaw.gov.au/Details/C2010C00308/Html/AbTorStrIsland2005_image015.gif)
+
+where:
+
+                    <a name="index-factor"></a>**_Indexation factor_** means the indexation factor for the year worked out under section 193D.
+
+                    <a name="previou-year-guarante-limit"></a>**_Previous year’s guarantee limit_** means the guarantee limit for the previous financial year.
 
 Validity of transactions
 
@@ -4485,6 +4795,8 @@ Definition
                      (c)  the grant of an interest in land by a subsidiary of the Indigenous Land Corporation as a result of the performance by the subsidiary of the function corresponding to the function of the Indigenous Land Corporation referred to in paragraph 191D(1)(a), if the grant occurs within 12 months after the interest was acquired by the subsidiary; or
 
                      (d)  an agreement relating to a grant referred to in paragraph (c); or
+
+                      (f)  an agreement relating to a grant referred to in paragraph (e); or
 
                      (g)  the disposal of an interest in land by a body corporate under section 191T; or
 
@@ -4615,24 +4927,6 @@ Exception—prosecutions
 ##### <a id="193T"></a>193T  Delegation to Indigenous Land Corporation General Manager or member of staff
 
                    The Indigenous Land Corporation may, by writing under its seal, delegate any or all of its functions and powers to the Indigenous Land Corporation General Manager or to a member of the staff of the Corporation.
-
-### Division 15—Reviews
-
-##### <a id="193U"></a>193U  Reviews
-
-             (1)  The regulations must provide for independent reviews of the operation of this Part to be conducted.
-
-             (2)  Regulations made for the purposes of this section must provide for:
-
-                     (a)  the purpose of reviews; and
-
-                     (b)  the timing of reviews; and
-
-                     (c)  the content of reviews.
-
-             (3)  Subsection (2) does not limit subsection (1).
-
-             (4)  The report of each review must be given to the Minister.
 
 ## Part 4B—Office of Evaluation and Audit (Indigenous Programs)
 
@@ -5162,7 +5456,11 @@ except when it is necessary to do so for the purposes of this Act, or of a prose
 
 all or any of the powers or functions conferred on the Minister under this Act.
 
-             (2)  Subsection (1) does not apply to the power to give directions to Indigenous Business Australia under section 151.
+             (2)  Subsection (1) does not apply to:
+
+                     (c)  the power to give directions to Indigenous Business Australia under section 151; or
+
+                     (d)  the power to give directions to the Indigenous Land Corporation under section 191L.
 
 Note 1:       The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
@@ -6406,23 +6704,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Indigenous Legislation Amendment (Budget and Other Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>89, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3: 1 July 2010</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 24) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Aboriginal and Torres Strait Islander Commission Amendment Act 1994_ provides as follows:
@@ -6719,7 +7000,7 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 26 and 37, 1993; Nos. 1 and 100, 1994; No. 20, 1995; No. 35, 1996; No. 152, 1997; Nos. 4 and 55, 2001; Nos. 8 and 32, 2005; Nos. 30 and 125, 2006; No. 89, 2010</div>
+    <div>am. Nos. 26 and 37, 1993; Nos. 1 and 100, 1994; No. 20, 1995; No. 35, 1996; No. 152, 1997; Nos. 4 and 55, 2001; Nos. 8 and 32, 2005; Nos. 30 and 125, 2006</div>
   </td>
 </tr>
 <tr>
@@ -11795,7 +12076,7 @@ Part 3A</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 32, 2005; No. 89, 2010</div>
+    <div>am. No. 152, 1997; No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -11888,7 +12169,7 @@ Part 3A</div>
 </tr>
 <tr>
   <td>
-    <div>S. 191V</div>
+    <div>Ss. 191V, 191W</div>
   </td>
   <td>
     <div>ad. No. 20, 1995</div>
@@ -11900,22 +12181,6 @@ Part 3A</div>
   </td>
   <td>
     <div>am. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 191W</div>
-  </td>
-  <td>
-    <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 32, 2005; No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12265,14 +12530,6 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 192Z</div>
   </td>
   <td>
@@ -12289,26 +12546,10 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 193</div>
   </td>
   <td>
     <div>am. No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12329,26 +12570,10 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 193AA</div>
   </td>
   <td>
     <div>am. No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12369,26 +12594,10 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 193A</div>
   </td>
   <td>
     <div>am. No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12405,14 +12614,6 @@ Part 4A</div>
   </td>
   <td>
     <div>am. No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12441,14 +12642,6 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 193C</div>
   </td>
   <td>
@@ -12465,26 +12658,10 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 193D</div>
   </td>
   <td>
     <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12501,14 +12678,6 @@ Part 4A</div>
   </td>
   <td>
     <div>am. No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12556,7 +12725,7 @@ Part 4A</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 30, 2006; No. 89, 2010</div>
+    <div>am. No. 152, 1997; No. 30, 2006</div>
   </td>
 </tr>
 <tr>
@@ -12580,7 +12749,7 @@ Part 4A</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 8 and 32, 2005; No. 30, 2006; No. 89, 2010</div>
+    <div>am. Nos. 8 and 32, 2005; No. 30, 2006</div>
   </td>
 </tr>
 <tr>
@@ -12604,7 +12773,7 @@ Part 4A</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 32, 2005; No. 30, 2006; No. 89, 2010</div>
+    <div>am. No. 32, 2005; No. 30, 2006</div>
   </td>
 </tr>
 <tr>
@@ -12641,34 +12810,10 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 193L</div>
   </td>
   <td>
     <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 193L(2)</div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12684,7 +12829,7 @@ Part 4A</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 32, 2005; No. 89, 2010</div>
+    <div>am. No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -12693,22 +12838,6 @@ Part 4A</div>
   </td>
   <td>
     <div>ad. No. 20, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 193N(1)</div>
-  </td>
-  <td>
-    <div>rep. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -12740,7 +12869,7 @@ Part 4A</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 32, 2005; No. 89, 2010</div>
+    <div>am. No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -12785,22 +12914,6 @@ Part 4A</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 15</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 15 of Part 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 192 
 Renumbered s. 193U</div>
   </td>
@@ -12815,14 +12928,6 @@ No. 20, 1995</div>
   </td>
   <td>
     <div>rep. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -13053,7 +13158,7 @@ No. 20, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 200B</div>
+    <div>S. 200B (first occurring)</div>
   </td>
   <td>
     <div>ad. No. 8, 2005</div>
@@ -13061,7 +13166,7 @@ No. 20, 1995</div>
 </tr>
 <tr>
   <td>
-    <div>S. 200B 
+    <div>S. 200B (second occurring) 
 
 Renumbered s. 200C</div>
   </td>
@@ -13069,14 +13174,6 @@ Renumbered s. 200C</div>
     <div>ad. No. 32, 2005 
 am. No. 32, 2005 
 No. 30, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 200C</div>
-  </td>
-  <td>
-    <div>am. No. 89, 2010</div>
   </td>
 </tr>
 <tr>
@@ -15430,7 +15527,7 @@ If, immediately before Regional Councils abolition day, proceedings to which a R
 
 (3)        If a document purports to be a certificate under subitem (1) signed by a person purporting to be an authorised officer, judicial notice must be taken of the signature of the person and of the fact that the person is or was an authorised officer.
 
-## 52  Exemption from taxation
+## 52  Exemption from taxation
 
 (1)        Any transfer or other dealing under this Part, and any instrument facilitating or evidencing such a transfer or other dealing, is not subject to stamp duty or other tax under a law of the Commonwealth or of a State or Territory if an authorised officer certifies, in writing:
 
@@ -15466,17 +15563,5 @@ Persons receiving certain amounts under section 35 of the Aboriginal Land Righ
 Persons receiving amounts under subsection 64(4) of the Aboriginal  Land Rights (Northern Territory) Act 1976
 
 (4)        Paragraph 193X(1)(cc) of the _Aboriginal and Torres Strait Islander Act 2005_, as inserted by item 1, applies in relation to amounts received by an individual or organisation after the commencement of that item.
-
-* * *
-
-_Social Security and Indigenous Legislation Amendment (Budget and Other Measures) Act 2010 (No. 89, 2010)_
-
-## Schedule 3
-
-## 24  Transitional
-
-(1)        Despite the amendments made by items 10 and 11, section 193I of the _Aboriginal and Torres Strait Islander Act 2005_, as in force immediately before the commencement of those items, continues to apply in relation to the financial year ending on 30 June 2010.
-
-(2)        For the purposes of working out the borrowing limit under section 193L, and the guarantee limit under section 193N, of the _Aboriginal and Torres Strait Islander Act 2005_ for the financial year beginning on 1 July 2010, the borrowing limit and the guarantee limit for the financial year beginning on 1 July 2009 is $294,170,517.
 
  
