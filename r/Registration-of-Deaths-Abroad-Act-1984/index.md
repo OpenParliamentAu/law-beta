@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00754/Html/9fe7abc8-edc5-4be4-88f3-aae1bf3c0b1c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00242/Html/260cfb5f-011a-4054-9e51-a2cce2fb7102_files/image001.gif)
 
 # Registration of Deaths Abroad Act 1984
 
 **Act No. 169 of 1984 as amended**
 
-This compilation was prepared on 29 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 14 February 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -105,7 +106,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="australian-aircraft"></a>**_Australian aircraft_** means:
 
-                     (a)  an aircraft registered under regulations made under the _Civil Aviation Act 1988_; or
+                     (a)  an aircraft registered in Australia in accordance with the Civil Aviation Regulations; or
 
                      (b)  an aircraft belonging to an arm of the Defence Force of Australia.
 
@@ -892,24 +893,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 976–980) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 6): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -933,8 +917,8 @@ _(d)_     The _Registration of Deaths Abroad Act 1984_ was amended by Sc
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -965,7 +949,7 @@ _(d)_     The _Registration of Deaths Abroad Act 1984_ was amended by Sc
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 63, 1988; No. 70, 1991; No. 184, 1994; No. 45, 1998; No. 52, 2004; No. 136, 2012</div>
+    <div>am. No. 63, 1988; No. 70, 1991; No. 184, 1994; No. 45, 1998; No. 52, 2004</div>
   </td>
 </tr>
 <tr>
