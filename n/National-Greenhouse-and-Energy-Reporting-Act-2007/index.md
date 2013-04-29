@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00478/Html/ab6a49d5-bed1-43eb-b2ee-53a7b74fd70a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00463/Html/NatGreenhouseEneReport2007_image001.gif)
 
 # National Greenhouse and Energy Reporting Act 2007
 
 **Act No. 175 of 2007 as amended**
 
-This compilation was prepared on 16 October 2009
+This compilation was prepared on 28 September 2009
  taking into account amendments up to Act No. 87 of 2009
 
 The text of any of those amendments not in force
@@ -245,19 +245,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [72](#72).          Prohibitions on disclosure of information do not apply
 
-        **Subdivision G—Greenhouse and energy audits**
+        **Subdivision G—External audits**
 
-[73](#73).          Audits of registered corporations—compliance
+[73](#73).          External audits—compliance
 
-[73A](#73A).       Audits of persons providing information under section 20—compliance
+[74](#74).          External audits—other
 
-[74](#74).          Audits of registered corporations—other
-
-[74A](#74A).       Audits of persons providing information under section 20—other
-
-[75](#75).          Conduct of greenhouse and energy audits
-
-[75A](#75A).       Register of greenhouse and energy auditors
+[75](#75).          Requirements for external auditors
 
 **Part 7—Miscellaneous**
 
@@ -417,12 +411,6 @@ Note:          **_Innocent passage_** is defined in section 
 
                    In this Act:
 
-                    <a name="audit-inform"></a>**_audit information_** means information obtained by or on behalf of an audit team leader in the course of carrying out a greenhouse and energy audit.
-
-                    <a name="audit-team-leader"></a>**_audit team leader_** means a registered greenhouse and energy auditor appointed to carry out a greenhouse and energy audit.
-
-                    <a name="audit-team-member"></a>**_audit team member_**, in relation to a greenhouse and energy audit, means a person assisting the audit team leader to carry out the audit.
-
                     <a name="authorised-offic"></a>**_authorised officer_** means an officer appointed under section 57.
 
                     <a name="busi-unit"></a>**_business unit_** has the meaning given by the regulations.
@@ -449,11 +437,15 @@ Note:          **_Innocent passage_** is defined in section 
 
                     <a name="exclus-econom-zone"></a>**_exclusive economic zone_**has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
+                    <a name="extern-auditor"></a>**_external auditor_** means an individual who:
+
+                     (a)  is not an officer, employee or agent of the corporation or of one of the members of the corporation’s group; and
+
+                     (b)  has professional expertise and qualifications which meet the requirements specified in regulations made for the purposes of this paragraph.
+
                     <a name="facil"></a>**_facility_** has the meaning given by section 9.
 
                     <a name="financi-control"></a>**_financial control_** has the meaning given by section 22R.
-
-                    <a name="greenhous-energi-audit"></a>**_greenhouse and energy audit_** means an audit under any of sections 73 to 74A.
 
                     <a name="greenhous-energi-data-offic"></a>**_Greenhouse and Energy Data Officer_** means the Greenhouse and Energy Data Officer established under section 49.
 
@@ -520,8 +512,6 @@ Note:          For the Convention on the Law of the Sea see th
                     <a name="ruction"></a>**_reduction_**, of greenhouse gas emissions, has the meaning given by section 10.
 
                     <a name="regist-corpor"></a>**_registered corporation_** means a corporation that is registered under Division 3 of Part 2.
-
-                    <a name="regist-greenhous-energi-auditor"></a>**_registered greenhouse and energy auditor_** means an individual who is registered in the register of greenhouse and energy auditors kept under section 75A.
 
                     <a name="remov"></a>**_removal_**, of greenhouse gas, has the meaning given by section 10.
 
@@ -637,7 +627,7 @@ have the meaning specified by the regulations.
 
                             (iii)  environmental policies;
 
-                            and meets the requirements of the regulations; or
+                            and meets the requirements of the regulations; or
 
                      (b)  the Greenhouse and Energy Data Officer declares the corporation or member to have operational control of the facility under section 55.
 
@@ -655,7 +645,7 @@ have the meaning specified by the regulations.
 
              (1)  A controlling corporation must apply, in accordance with this section, to be registered under Division 3 if the corporation’s group meets one or more of the thresholds under section 13 for a financial year (the **_trigger year_**) ending on or after 30 June 2009.
 
-                    Civil penalty:          2,000 penalty units.
+                    Civil penalty:            2,000 penalty units.
 
 Note:          Under section 30 a controlling corporation may be liable for an additional civil penalty for each day that it fails to apply in accordance with subsection (1) of this section.
 
@@ -715,7 +705,7 @@ On 30 June 2010 the corporation is still registered under Division 3\. The c
 
              (2)  If a member of a controlling corporation’s group has operational control of a facility for a number of, but not all, days in a financial year (the **_control days_**), subparagraphs (1)(d)(i) to (iii) have effect as though each threshold were replaced by the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00478/Html/ab6a49d5-bed1-43eb-b2ee-53a7b74fd70a_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00463/Html/NatGreenhouseEneReport2007_image002.gif)
 
 Reporting transfer certificate
 
@@ -757,9 +747,7 @@ Reporting transfer certificate
 
                             (iii)  whether the corporation has complied with provisions of this Act;
 
-                            (iv)  information that is published under section 24;
-
-                             (v)  the results of a greenhouse and energy audit carried out in relation to the corporation.
+                            (iv)  information that is published under section 24.
 
 ### Division 3—Registration and deregistration of corporations
 
@@ -821,7 +809,7 @@ Reporting transfer certificate
 
 from the operation of facilities under the operational control of the corporation and entities that are members of the corporation’s group, during that financial year.
 
-                    Civil penalty:          2,000 penalty units.
+                    Civil penalty:            2,000 penalty units.
 
 Note 1:       Under Division 137 of the _Criminal Code_ it may be an offence to provide false or misleading information or documents to the Greenhouse and Energy Data Officer in purported compliance with this Act.
 
@@ -941,7 +929,7 @@ from the project which are attributable to that part of the year or period.
 
                      (b)  include any information specified by the regulations for the purposes of this paragraph.
 
-                    Civil penalty:          1,000 penalty units.
+                    Civil penalty:            1,000 penalty units.
 
 Note:          Under Division 137 of the _Criminal Code_ it may be an offence to provide false or misleading information or documents to the Greenhouse and Energy Data Officer in purported compliance with this Act.
 
@@ -969,7 +957,7 @@ from undertaking the greenhouse gas project.
 
              (2)  A report must include any information specified by the regulations for the purposes of this subsection.
 
-                    Civil penalty:          1,000 penalty units.
+                    Civil penalty:            1,000 penalty units.
 
 Note:          Under Division 137 of the _Criminal Code_ it may be an offence to provide false or misleading information or documents to the Greenhouse and Energy Data Officer in purported compliance with this Act.
 
@@ -991,7 +979,7 @@ Note:          Under Division 137 of the _Criminal Code_ it 
 
                      (c)  comply with the requirements of subsection (3) and the regulations made for the purposes of subsection (4).
 
-                    Civil penalty:          1,000 penalty units.
+                    Civil penalty:            1,000 penalty units.
 
              (2)  A person required to provide information under section 20 must keep records of the person’s activities that:
 
@@ -1037,7 +1025,7 @@ that must be kept under subsection (1) or (2).
 
 from the operation of the facility during the whole, or the part, as the case may be, of that interim financial year.
 
-                    Civil penalty:          2,000 penalty units.
+                    Civil penalty:            2,000 penalty units.
 
 Note 1:       Under Division 137 of the _Criminal Code_, it may be an offence to provide false or misleading information or documents to the Greenhouse and Energy Data Officer in purported compliance with this Act.
 
@@ -1093,7 +1081,7 @@ for an interim financial year to which a report relates.
 
                      (c)  comply with the requirements of subsection (2) and the regulations made for the purposes of subsection (3).
 
-                    Civil penalty:          1,000 penalty units.
+                    Civil penalty:            1,000 penalty units.
 
              (2)  The corporation must retain the records for 7 years from the end of the financial year in which the activities take place.
 
@@ -1365,7 +1353,7 @@ Cancellation
 
              (1)  A person mentioned in subsection (2) commits an offence if:
 
-                     (a)  the person obtains greenhouse and energy information or audit information in his or her capacity as a person mentioned in subsection (2); and
+                     (a)  the person obtains greenhouse and energy information in his or her capacity as a person mentioned in subsection (2); and
 
                      (b)  the person discloses the information to another person otherwise than under, or for the purposes of:
 
@@ -1389,9 +1377,7 @@ Note:          The same conduct may be an offence against both
 
                      (c)  an authorised officer; or
 
-                     (d)  an audit team leader; or
-
-                   (da)  an audit team member; or
+                     (d)  an external auditor; or
 
                      (e)  an employee of the Commonwealth, a State or a Territory or of an authority of the Commonwealth, a State or a Territory; or
 
@@ -1408,6 +1394,8 @@ Publication relating to greenhouse gas emissions, energy production and energy c
                      (a)  greenhouse gas emissions that are scope 1 emissions (within the meaning of the regulations); and
 
                      (b)  greenhouse gas emissions that are scope 2 emissions (within the meaning of the regulations); and
+
+                     (c)  energy production; and
 
                      (d)  energy consumption;
 
@@ -1487,7 +1475,7 @@ Publication by other persons
 
 and the Greenhouse and Energy Data Officer has agreed, in writing, for the information to be published.
 
-##### <a id="25"></a>25  Requests for information not to be published
+##### <a id="25"></a>25  Requests for information not to be published
 
              (1)  A registered corporation, a person required to provide a report under section 22G, or a person required to provide information under section 20, may apply to the Greenhouse and Energy Data Officer requesting information not be published if the information reveals, or could be capable of revealing:
 
@@ -1509,7 +1497,7 @@ about a specific facility, technology or corporate initiative relating to the co
 
              (4)  The Greenhouse and Energy Data Officer must notify an applicant, in writing, of a decision to accept or refuse an application under this section.
 
-##### <a id="26"></a>26  Information may be disclosed to specified persons or bodies
+##### <a id="26"></a>26  Information may be disclosed to specified persons or bodies
 
              (1)  The Greenhouse and Energy Data Officer, or a person authorised by the Greenhouse and Energy Data Officer, may disclose greenhouse and energy information to:
 
@@ -1539,7 +1527,7 @@ for the purposes of, or in connection with, court or tribunal proceedings, or pr
 
                      (b)  security measures required in relation to the confidentiality of the information.
 
-##### <a id="27"></a>27  Information may be disclosed to States and Territories
+##### <a id="27"></a>27  Information may be disclosed to States and Territories
 
              (1)  The Greenhouse and Energy Data Officer, or a person authorised by the Greenhouse and Energy Data Officer, must disclose greenhouse and energy information to a State or Territory or an authority of a State or Territory if:
 
@@ -1589,17 +1577,17 @@ for the purposes of, or in connection with, court or tribunal proceedings, or pr
 
              (1)  If an act or thing is required, under a civil penalty provision of this Act, to be done within a particular period, or before a particular time, then the obligation to do that act or thing continues (even if the period has expired or the time has passed) until the act or thing is done.
 
-             (2)  If, under section 12, 19, 20, 73 or 73A, an act or thing is required to be done within a particular period, or before a particular time, and a person fails to comply with that requirement, the person is liable for a civil penalty for each day that the person fails to comply.
+             (2)  If, under section 12, 19, 20 or 73, an act or thing is required to be done within a particular period, or before a particular time, and a person fails to comply with that requirement, the person is liable for a civil penalty for each day that the person fails to comply.
 
                     Civil penalty:
 
                      (a)  for failure to meet a requirement under section 12, 19 or 20—100 penalty units per day; or
 
-                     (b)  for failure to meet a requirement under section 73 or 73A—10 penalty units per day.
+                     (b)  for failure to meet a requirement under section 73—10 penalty units per day.
 
           (2B)  If, under section 22G, an act or thing is required to be done within a particular period, and a person fails to comply with that requirement, the person is liable for a civil penalty for each day that the person fails to comply.
 
-                    Civil penalty:          100 penalty units per day.
+                    Civil penalty:            100 penalty units per day.
 
              (3)  To avoid doubt, a person’s failure to comply with such a requirement on a particular day is taken, for the purposes of this Act, not to be the same conduct as the person’s failure to comply with that requirement on a different day.
 
@@ -1971,35 +1959,33 @@ the officer contravenes this subsection.
 
 ##### <a id="56"></a>56  AAT review of decisions
 
-                   An application may be made to the Administrative Appeals Tribunal for the review of a decision of the Greenhouse and Energy Data Officer to do any of the following:
+                   An application may be made to the Administrative Appeals Tribunal for the review of a decision of the Greenhouse and Energy Data Officer to:
 
-                     (a)  not register a corporation under section 17;
+                     (a)  not register a corporation under section 17; and
 
-                     (b)  not deregister a corporation under section 18;
+                     (b)  not deregister a corporation under section 18; and
 
-                     (c)  make a determination under section 20;
+                     (c)  make a determination under section 20; and
 
-                     (d)  refuse to make a determination under section 20;
+                     (d)  refuse to make a determination under section 20; and
 
-                   (da)  refuse to issue a reporting transfer certificate under section 22L;
+                    (da)  refuse to issue a reporting transfer certificate under section 22L;
 
-                   (db)  refuse to give consent to the surrender of the reporting transfer certificate under section 22N;
+                    (db)  refuse to give consent to the surrender of the reporting transfer certificate under section 22N;
 
-                   (dc)  cancel a reporting transfer certificate under section 22P;
+                    (dc)  cancel a reporting transfer certificate under section 22P;
 
-                     (e)  refuse an application under section 25;
+                     (e)  refuse an application under section 25; and
 
-                    (ea)  refuse to disclose information under section 27;
+                    (ea)  refuse to disclose information under section 27; and
 
-                      (f)  refuse an application under section 54;
+                      (f)  refuse an application under section 54; and
 
-                     (g)  declare a facility under paragraph 54(1)(b);
+                     (g)  declare a facility under paragraph 54(1)(b); and
 
-                     (h)  refuse an application under section 55;
+                     (h)  refuse an application under section 55; and
 
-                      (i)  declare that a corporation has operational control of a facility under paragraph 55(1)(b);
-
-                      (j)  refuse to register an individual in the register of greenhouse and energy auditors kept under section 75A.
+                      (i)  declare that a corporation has operational control of a facility under paragraph 55(1)(b).
 
 ### Division 4—Monitoring compliance
 
@@ -2295,11 +2281,11 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (3)  The person must not fail to comply with a requirement under this section.
 
-                    Civil penalty:          50 penalty units.
+                    Civil penalty:            50 penalty units.
 
              (4)  The person must not, in purported compliance with a requirement under this section, give to the Greenhouse and Energy Data Officer information that is false or misleading in a material particular.
 
-                    Civil penalty:          60 penalty units.
+                    Civil penalty:            60 penalty units.
 
              (5)  Subsection (3) does not apply to the extent that the person has a reasonable excuse. However, a person does not have a reasonable excuse merely because the information in question is:
 
@@ -2315,201 +2301,69 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    This Division has effect despite any law of the Commonwealth, a State or a Territory prohibiting disclosure of the information.
 
-#### Subdivision G—Greenhouse and energy audits
+#### Subdivision G—External audits
 
-##### <a id="73"></a>73  Audits of registered corporations—compliance
+##### <a id="73"></a>73  External audits—compliance
 
              (1)  This section applies if the Greenhouse and Energy Data Officer has reasonable grounds to suspect that a registered corporation has contravened, is contravening, or is proposing to contravene, this Act or the regulations.
 
              (2)  The Greenhouse and Energy Data Officer may, by written notice given to the corporation, require the corporation to:
 
-                     (a)  appoint as an audit team leader:
+                     (a)  appoint:
 
-                              (i)  a registered greenhouse and energy auditor of its choice; or
+                              (i)  an external auditor of its choice; or
 
-                             (ii)  if the Greenhouse and Energy Data Officer specifies a registered greenhouse and energy auditor in the notice—that auditor; or
+                             (ii)  if the Greenhouse and Energy Data Officer specifies an external auditor in the notice—that external auditor; and
 
-                            (iii)  if the Greenhouse and Energy Data Officer specifies more than one registered greenhouse and energy auditor in the notice—any one of those auditors; and
+                     (b)  arrange for the external auditor to carry out an external audit on one or more aspects of the corporation’s compliance with this Act or the regulations; and
 
-                     (b)  arrange for the audit team leader to carry out an audit on one or more aspects of the corporation’s compliance with this Act or the regulations; and
-
-                     (c)  arrange for the audit team leader to give the corporation a written report setting out the results of the audit; and
+                     (c)  arrange for the external auditor to give the corporation a written report setting out the results of the audit; and
 
                      (d)  give the Greenhouse and Energy Data Officer a copy of the audit report on or before the day specified in the notice.
 
              (3)  The notice must specify the:
-
-                    (aa)  type of audit to be carried out; and
 
                      (a)  matters to be covered by the audit; and
 
                      (b)  form of the audit report and the kinds of details it is to contain.
 
-             (4)  The corporation, and each member of the corporation’s group, must provide the audit team leader and any audit team members with all reasonable facilities and assistance necessary for the effective exercise of the audit team leader’s duties under this Act.
+             (4)  The corporation, and each member of the corporation’s group, must provide an external auditor with all reasonable facilities and assistance necessary for the effective exercise of the external auditor’s duties under this Act.
 
-                    Civil penalty:          250 penalty units.
+                    Civil penalty:            250 penalty units.
 
              (5)  If the Greenhouse and Energy Data Officer gives a corporation written notice under subsection (2), the corporation must comply with the requirements of the notice.
 
-                    Civil penalty:          1,000 penalty units.
+                    Civil penalty:            1,000 penalty units.
 
 Note:          Under section 30 a corporation may be liable for an additional civil penalty for each day after the day mentioned in paragraph (2)(d) for which the corporation fails to provide an audit report in accordance with this section.
 
-##### <a id="73A"></a>73A  Audits of persons providing information under section 20—compliance
+##### <a id="74"></a>74  External audits—other
 
-             (1)  This section applies if the Greenhouse and Energy Data Officer has reasonable grounds to suspect that a person required to provide information under section 20 has contravened, is contravening, or is proposing to contravene, this Act or the regulations.
+             (1)  The Greenhouse and Energy Data Officer may appoint an external auditor to carry out an external audit of a registered corporation’s compliance with one or more aspects of this Act or the regulations.
 
-             (2)  The Greenhouse and Energy Data Officer may, by written notice given to the person, require the person to:
+             (2)  The Greenhouse and Energy Data Officer must give written notice to the corporation of a decision to appoint an auditor under subsection (1). The notice must:
 
-                     (a)  appoint as an audit team leader:
-
-                              (i)  a registered greenhouse and energy auditor of the person’s choice; or
-
-                             (ii)  if the Greenhouse and Energy Data Officer specifies a registered greenhouse and energy auditor in the notice—that auditor; or
-
-                            (iii)  if the Greenhouse and Energy Data Officer specifies more than one registered greenhouse and energy auditor in the notice—any one of those auditors; and
-
-                     (b)  arrange for the audit team leader to carry out an audit on one or more aspects of the person’s compliance with this Act or the regulations; and
-
-                     (c)  arrange for the audit team leader to give the person a written report setting out the results of the audit; and
-
-                     (d)  give the Greenhouse and Energy Data Officer a copy of the audit report on or before the day specified in the notice.
-
-             (3)  The notice must specify the:
-
-                     (a)  type of audit to be carried out; and
-
-                     (b)  matters to be covered by the audit; and
-
-                     (c)  form of the audit report and the kinds of details it is to contain.
-
-             (4)  The person must provide the audit team leader and any audit team members with all reasonable facilities and assistance necessary for the effective exercise of the audit team leader’s duties under this Act.
-
-                    Civil penalty:
-
-                     (a)  for an individual—50 penalty units; or
-
-                     (b)  otherwise—250 penalty units.
-
-             (5)  If the Greenhouse and Energy Data Officer gives a person required to provide information under section 20 written notice under subsection (2), the person must comply with the requirements of the notice.
-
-                    Civil penalty:
-
-                     (a)  for an individual—200 penalty units; or
-
-                     (b)  otherwise—1,000 penalty units.
-
-Note:          Under section 30, a person may be liable for an additional civil penalty for each day after the day mentioned in paragraph (2)(d) for which the person fails to provide an audit report in accordance with this section.
-
-##### <a id="74"></a>74  Audits of registered corporations—other
-
-             (1)  The Greenhouse and Energy Data Officer may appoint a registered greenhouse and energy auditor as an audit team leader to carry out an audit of a registered corporation’s compliance with one or more aspects of this Act or the regulations.
-
-             (2)  The Greenhouse and Energy Data Officer must give written notice to the corporation of a decision to appoint an audit team leader under subsection (1). The notice must:
-
-                     (a)  specify the audit team leader; and
+                     (a)  specify the external auditor; and
 
                      (b)  specify the period within which the audit is to be undertaken; and
-
-                   (ba)  specify the type of audit to be carried out; and
 
                      (c)  specify the matters to be covered by the audit; and
 
                      (d)  be given to the corporation at a reasonable time before the audit is to be undertaken.
 
-          (2A)  The corporation, and each member of the corporation’s group, must provide the audit team leader and any audit team members with all reasonable facilities and assistance necessary for the effective exercise of the audit team leader’s duties under this Act.
+          (2A)  The corporation, and each member of the corporation’s group, must provide the external auditor with all reasonable facilities and assistance necessary for the effective exercise of the external auditor’s duties under this Act.
 
-                    Civil penalty:          250 penalty units.
+                    Civil penalty:            250 penalty units.
 
-             (3)  If a corporation is given a notice under subsection (2), the corporation must arrange for the audit team leader to carry out the audit.
+             (3)  If a corporation is given a notice under subsection (2), the corporation must arrange for the external auditor to carry out the external audit.
 
-                    Civil penalty:          250 penalty units.
+                    Civil penalty:            250 penalty units.
 
-##### <a id="74A"></a>74A  Audits of persons providing information under section 20—other
+##### <a id="75"></a>75  Requirements for external auditors
 
-             (1)  The Greenhouse and Energy Data Officer may appoint a registered greenhouse and energy auditor as an audit team leader to carry out an audit of the compliance of a person required to provide information under section 20 with one or more aspects of this Act or the regulations.
+             (1)  An external auditor must conduct an audit and prepare a report in accordance with guidelines determined by the Greenhouse and Energy Data Officer under subsection (2).
 
-             (2)  The Greenhouse and Energy Data Officer must give written notice to the person of a decision to appoint an audit team leader under subsection (1). The notice must:
-
-                     (a)  specify the audit team leader; and
-
-                     (b)  specify the period within which the audit is to be undertaken; and
-
-                     (c)  specify the type of audit to be carried out; and
-
-                     (d)  specify the matters to be covered by the audit; and
-
-                     (e)  be given to the person at a reasonable time before the audit is to be undertaken.
-
-             (3)  The person must provide the audit team leader and any audit team members with all reasonable facilities and assistance necessary for the effective exercise of the audit team leader’s duties under this Act.
-
-                    Civil penalty:
-
-                     (a)  for an individual—50 penalty units; or
-
-                     (b)  otherwise—250 penalty units.
-
-             (4)  If a person required to provide information under section 20 is given a notice under subsection (2), the person must arrange for the audit team leader to carry out the audit.
-
-                    Civil penalty:
-
-                     (a)  for an individual—50 penalty units; or
-
-                     (b)  otherwise—250 penalty units.
-
-##### <a id="75"></a>75  Conduct of greenhouse and energy audits
-
-             (1)  The Minister may determine, by legislative instrument, requirements to be met by audit team leaders in preparing for and carrying out greenhouse and energy audits and in preparing audit reports.
-
-             (2)  The determination may set out different requirements for different types of audits.
-
-             (3)  An audit team leader must comply with requirements determined under subsection (1).
-
-##### <a id="75A"></a>75A  Register of greenhouse and energy auditors
-
-             (1)  The Greenhouse and Energy Data Officer must cause a register of greenhouse and energy auditors to be kept for the purposes of this Act.
-
-             (2)  The Greenhouse and Energy Data Officer must register an individual in the register if the individual:
-
-                     (a)  has applied for registration in accordance with regulations under subsection (5); and
-
-                     (b)  meets such requirements as to qualifications, knowledge, expertise, competence, independence and other matters as are set out in the regulations for the purposes of this paragraph or in a legislative instrument made under the regulations in accordance with subsection (4).
-
-             (3)  If an individual who has applied for registration in the register does not meet the requirements referred to in paragraph (2)(b), the Greenhouse and Energy Data Officer must refuse to register the individual.
-
-             (4)  Regulations made for the purposes of paragraph (2)(b) may provide for the Greenhouse and Energy Data Officer to make a legislative instrument setting out:
-
-                     (a)  some or all of the requirements that could otherwise be set out in the regulations; or
-
-                     (b)  ways in which requirements set out in the regulations may be met.
-
-             (5)  The regulations may provide for any of the following:
-
-                     (a)  the form and content of the register;
-
-                     (b)  publication of the register;
-
-                     (c)  the form and content of applications for registration and the manner in which applications are to be made;
-
-                     (d)  fees to be paid in connection with registration (including ongoing or recurrent fees to maintain registration);
-
-                     (e)  requirements to be met in order to maintain registration;
-
-                      (f)  review of registration;
-
-                     (g)  suspension of registration in prescribed circumstances;
-
-                     (h)  deregistration in prescribed circumstances;
-
-                      (i)  inspection of the performance of registered greenhouse and energy auditors in carrying out greenhouse and energy audits;
-
-                      (j)  other matters in connection with registration in the register.
-
-             (6)  A fee under paragraph (5)(d) must not be such as to amount to taxation.
-
-             (7)  The Greenhouse and Energy Data Officer may, by signed instrument, delegate to another person (whether or not an SES employee or acting SES employee) any of the Greenhouse and Energy Data Officer’s functions or powers under this section or regulations under this section.
-
-             (8)  However, the Greenhouse and Energy Data Officer must not delegate the power to make a legislative instrument as mentioned in subsection (4) other than to an SES employee or acting SES employee.
+             (2)  The Greenhouse and Energy Data Officer may determine, by legislative instrument, guidelines to be followed by external auditors when conducting audits and preparing reports under this Subdivision.
 
 ## Part 7—Miscellaneous
 
@@ -2617,7 +2471,7 @@ Remainder: Royal Assent</div>
     <div>18 Sept 2009</div>
   </td>
   <td>
-    <div>Schedule 1: 16 Oct 2009 
+    <div>Schedule 1: \[ <i>see</i>Note 2] 
 Schedule 2 (items 1–16): 19 Sept 2009 
 Schedule 2 (items 17–32): \[ <i>see</i>s. 2(1) and Note 2] 
 Schedule 2 (item 33): \[ <i>see</i>s. 2(1) and Note 2] 
@@ -2752,7 +2606,7 @@ Remainder: Royal Assent</div>
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 84, 2008; No. 87, 2009</div>
+    <div>am. No. 84, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2925,14 +2779,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Subhead. to s. 24(2)</div>
   </td>
   <td>
@@ -3069,75 +2915,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Subdiv. G of 
-Div. 4 of Part 6</div>
+    <div>Ss. 73, 74</div>
   </td>
   <td>
-    <div>rs. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 73</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>am. No. 84, 2008; No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73A</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 74</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 84, 2008; No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74A</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>rs. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75A</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
+    <div>am. No. 84, 2008</div>
   </td>
 </tr></table>
 
@@ -3145,6 +2926,324 @@ Div. 4 of Part 6</div>
 
 _National Greenhouse and Energy Reporting Amendment Act 2009 
  (No. 87, 2009)_
+
+The following amendments commence on 16 October 2009:
+
+## Schedule 1
+
+## 1  Section 7
+
+Insert:
+
+                    <a name="audit-inform"></a>**_audit information_** means information obtained by or on behalf of an audit team leader in the course of carrying out a greenhouse and energy audit.
+
+## 2  Section 7
+
+Insert:
+
+                    <a name="audit-team-leader"></a>**_audit team leader_** means a registered greenhouse and energy auditor appointed to carry out a greenhouse and energy audit.
+
+## 3  Section 7
+
+Insert:
+
+                    <a name="audit-team-member"></a>**_audit team member_**, in relation to a greenhouse and energy audit, means a person assisting the audit team leader to carry out the audit.
+
+## 4  Section 7 (definition of _external auditor_)
+
+Repeal the definition.
+
+## 5  Section 7
+
+Insert:
+
+                    <a name="greenhous-energi-audit"></a>**_greenhouse and energy audit_** means an audit under any of sections 73 to 74A.
+
+## 6  Section 7
+
+Insert:
+
+                    <a name="regist-greenhous-energi-auditor"></a>**_registered greenhouse and energy auditor_** means an individual who is registered in the register of greenhouse and energy auditors kept under section 75A.
+
+## 7  At the end of paragraph 16(4)(b)
+
+Add:
+
+                   ; (v)  the results of a greenhouse and energy audit carried out in relation to the corporation.
+
+## 8  Paragraph 23(1)(a)
+
+After “information”, insert “or audit information”.
+
+## 9  Paragraph 23(2)(d)
+
+Omit “external auditor”, substitute “audit team leader”.
+
+## 10  After paragraph 23(2)(d)
+
+Insert:
+
+                    (da)  an audit team member; or
+
+## 11  Subsection 30(2)
+
+Omit “20 or 73”, substitute “20, 73 or 73A”.
+
+## 12  Subsection 30(2) (paragraph (b) of the civil penalty)
+
+Omit “73”, substitute “73 or 73A”.
+
+## 13  Section 56
+
+After “to” (second occurring), insert “do any of the following”.
+
+## 14  Paragraphs 56(a) to (h)
+
+Omit “and”.
+
+## 15  At the end of section 56
+
+Add:
+
+                    ; (j)  refuse to register an individual in the register of greenhouse and energy auditors kept under section 75A.
+
+## 16  Subdivision G of Division 4 of Part 6 (heading)
+
+Repeal the heading, substitute:
+
+#### Subdivision G—Greenhouse and energy audits
+
+## 17  Paragraph 73(2)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  appoint as an audit team leader:
+
+                              (i)  a registered greenhouse and energy auditor of its choice; or
+
+                             (ii)  if the Greenhouse and Energy Data Officer specifies a registered greenhouse and energy auditor in the notice—that auditor; or
+
+                            (iii)  if the Greenhouse and Energy Data Officer specifies more than one registered greenhouse and energy auditor in the notice—any one of those auditors; and
+
+_Note:       The heading to section 73 is altered by omitting “External audits” and substituting “Audits of registered corporations”._
+
+## 18  Paragraph 73(2)(b)
+
+Omit “external auditor”, substitute “audit team leader”.
+
+## 19  Paragraph 73(2)(b)
+
+Omit “external” (second occurring).
+
+## 20  Paragraph 73(2)(c)
+
+Omit “external auditor”, substitute “audit team leader”.
+
+## 21  Before paragraph 73(3)(a)
+
+Insert:
+
+                    (aa)  type of audit to be carried out; and
+
+## 22  Subsection 73(4)
+
+Omit “an external auditor”, substitute “the audit team leader and any audit team members”.
+
+## 23  Subsection 73(4)
+
+Omit “external auditor’s”, substitute “audit team leader’s”.
+
+## 24  After section 73
+
+Insert:
+
+##### <a id="73A"></a>73A  Audits of persons providing information under section 20—compliance
+
+             (1)  This section applies if the Greenhouse and Energy Data Officer has reasonable grounds to suspect that a person required to provide information under section 20 has contravened, is contravening, or is proposing to contravene, this Act or the regulations.
+
+             (2)  The Greenhouse and Energy Data Officer may, by written notice given to the person, require the person to:
+
+                     (a)  appoint as an audit team leader:
+
+                              (i)  a registered greenhouse and energy auditor of the person’s choice; or
+
+                             (ii)  if the Greenhouse and Energy Data Officer specifies a registered greenhouse and energy auditor in the notice—that auditor; or
+
+                            (iii)  if the Greenhouse and Energy Data Officer specifies more than one registered greenhouse and energy auditor in the notice—any one of those auditors; and
+
+                     (b)  arrange for the audit team leader to carry out an audit on one or more aspects of the person’s compliance with this Act or the regulations; and
+
+                     (c)  arrange for the audit team leader to give the person a written report setting out the results of the audit; and
+
+                     (d)  give the Greenhouse and Energy Data Officer a copy of the audit report on or before the day specified in the notice.
+
+             (3)  The notice must specify the:
+
+                     (a)  type of audit to be carried out; and
+
+                     (b)  matters to be covered by the audit; and
+
+                     (c)  form of the audit report and the kinds of details it is to contain.
+
+             (4)  The person must provide the audit team leader and any audit team members with all reasonable facilities and assistance necessary for the effective exercise of the audit team leader’s duties under this Act.
+
+                    Civil penalty:
+
+                     (a)  for an individual—50 penalty units; or
+
+                     (b)  otherwise—250 penalty units.
+
+             (5)  If the Greenhouse and Energy Data Officer gives a person required to provide information under section 20 written notice under subsection (2), the person must comply with the requirements of the notice.
+
+                    Civil penalty:
+
+                     (a)  for an individual—200 penalty units; or
+
+                     (b)  otherwise—1,000 penalty units.
+
+Note:          Under section 30, a person may be liable for an additional civil penalty for each day after the day mentioned in paragraph (2)(d) for which the person fails to provide an audit report in accordance with this section.
+
+## 25  Subsection 74(1)
+
+Omit “an external auditor”, substitute “a registered greenhouse and energy auditor as an audit team leader”.
+
+_Note:       The heading to section 74 is altered by omitting “External audits” and substituting “Audits of registered corporations”._
+
+## 26  Subsection 74(1)
+
+Omit “external” (second occurring).
+
+## 27  Subsection 74(2)
+
+Omit “auditor” (first occurring), substitute “audit team leader”.
+
+## 28  Paragraph 74(2)(a)
+
+Omit “external auditor”, substitute “audit team leader”.
+
+## 29  After paragraph 74(2)(b)
+
+Insert:
+
+                    (ba)  specify the type of audit to be carried out; and
+
+## 30  Subsection 74(2A)
+
+Omit “external auditor”, substitute “audit team leader and any audit team members”.
+
+## 31  Subsection 74(2A)
+
+Omit “external auditor’s”, substitute “audit team leader’s”.
+
+## 32  Subsection 74(3)
+
+Omit “external auditor”, substitute “audit team leader”.
+
+## 33  Subsection 74(3)
+
+Omit “external” (second occurring).
+
+## 34  After section 74
+
+Insert:
+
+##### <a id="74A"></a>74A  Audits of persons providing information under section 20—other
+
+             (1)  The Greenhouse and Energy Data Officer may appoint a registered greenhouse and energy auditor as an audit team leader to carry out an audit of the compliance of a person required to provide information under section 20 with one or more aspects of this Act or the regulations.
+
+             (2)  The Greenhouse and Energy Data Officer must give written notice to the person of a decision to appoint an audit team leader under subsection (1). The notice must:
+
+                     (a)  specify the audit team leader; and
+
+                     (b)  specify the period within which the audit is to be undertaken; and
+
+                     (c)  specify the type of audit to be carried out; and
+
+                     (d)  specify the matters to be covered by the audit; and
+
+                     (e)  be given to the person at a reasonable time before the audit is to be undertaken.
+
+             (3)  The person must provide the audit team leader and any audit team members with all reasonable facilities and assistance necessary for the effective exercise of the audit team leader’s duties under this Act.
+
+                    Civil penalty:
+
+                     (a)  for an individual—50 penalty units; or
+
+                     (b)  otherwise—250 penalty units.
+
+             (4)  If a person required to provide information under section 20 is given a notice under subsection (2), the person must arrange for the audit team leader to carry out the audit.
+
+                    Civil penalty:
+
+                     (a)  for an individual—50 penalty units; or
+
+                     (b)  otherwise—250 penalty units.
+
+## 35  Section 75
+
+Repeal the section, substitute:
+
+##### <a id="75"></a>75  Conduct of greenhouse and energy audits
+
+             (1)  The Minister may determine, by legislative instrument, requirements to be met by audit team leaders in preparing for and carrying out greenhouse and energy audits and in preparing audit reports.
+
+             (2)  The determination may set out different requirements for different types of audits.
+
+             (3)  An audit team leader must comply with requirements determined under subsection (1).
+
+## 36  At the end of Subdivision G of Division 4 of Part 6
+
+Add:
+
+##### <a id="75A"></a>75A  Register of greenhouse and energy auditors
+
+             (1)  The Greenhouse and Energy Data Officer must cause a register of greenhouse and energy auditors to be kept for the purposes of this Act.
+
+             (2)  The Greenhouse and Energy Data Officer must register an individual in the register if the individual:
+
+                     (a)  has applied for registration in accordance with regulations under subsection (5); and
+
+                     (b)  meets such requirements as to qualifications, knowledge, expertise, competence, independence and other matters as are set out in the regulations for the purposes of this paragraph or in a legislative instrument made under the regulations in accordance with subsection (4).
+
+             (3)  If an individual who has applied for registration in the register does not meet the requirements referred to in paragraph (2)(b), the Greenhouse and Energy Data Officer must refuse to register the individual.
+
+             (4)  Regulations made for the purposes of paragraph (2)(b) may provide for the Greenhouse and Energy Data Officer to make a legislative instrument setting out:
+
+                     (a)  some or all of the requirements that could otherwise be set out in the regulations; or
+
+                     (b)  ways in which requirements set out in the regulations may be met.
+
+             (5)  The regulations may provide for any of the following:
+
+                     (a)  the form and content of the register;
+
+                     (b)  publication of the register;
+
+                     (c)  the form and content of applications for registration and the manner in which applications are to be made;
+
+                     (d)  fees to be paid in connection with registration (including ongoing or recurrent fees to maintain registration);
+
+                     (e)  requirements to be met in order to maintain registration;
+
+                      (f)  review of registration;
+
+                     (g)  suspension of registration in prescribed circumstances;
+
+                     (h)  deregistration in prescribed circumstances;
+
+                      (i)  inspection of the performance of registered greenhouse and energy auditors in carrying out greenhouse and energy audits;
+
+                      (j)  other matters in connection with registration in the register.
+
+             (6)  A fee under paragraph (5)(d) must not be such as to amount to taxation.
+
+             (7)  The Greenhouse and Energy Data Officer may, by signed instrument, delegate to another person (whether or not an SES employee or acting SES employee) any of the Greenhouse and Energy Data Officer’s functions or powers under this section or regulations under this section.
+
+             (8)  However, the Greenhouse and Energy Data Officer must not delegate the power to make a legislative instrument as mentioned in subsection (4) other than to an SES employee or acting SES employee.
+
+## 37  Paragraph 24(1)(c)
+
+Repeal the paragraph.
 
 The following amendments commence on the commencement of section 3 of the _Carbon Pollution Reduction Scheme Act 2009_(still a Bill). However, the amendments may not commence, _see_ subsection 2(1) (item 4):
 
@@ -3224,7 +3323,7 @@ The following amendment commences at the same time as Part 2 of Schedule 1 t
 
 Omit “(within the meaning of the regulations)”.
 
-As at 16 October 2009 the amendments are not incorporated in this compilation.
+As at 28 September 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -3237,14 +3336,14 @@ _National Greenhouse and Energy Reporting Amendment Act 2008
 
 ## 35  Application and saving provision
 
-(1)       The amendment made by item 4 does not affect the validity of an application made under subsection 12(1) of the _National Greenhouse and Energy Reporting Act 2007_ before the commencement of that item.
+(1)        The amendment made by item 4 does not affect the validity of an application made under subsection 12(1) of the _National Greenhouse and Energy Reporting Act 2007_ before the commencement of that item.
 
-(2)       The amendments made by items 8 to 10 and 12 apply in relation to applications for registration made on or after the commencement of those items.
+(2)        The amendments made by items 8 to 10 and 12 apply in relation to applications for registration made on or after the commencement of those items.
 
-(3)       The amendment made by item 13 applies in relation to applications for registration made on or after the commencement of that item.
+(3)        The amendment made by item 13 applies in relation to applications for registration made on or after the commencement of that item.
 
-(4)       The amendment made by item 13 does not affect the validity of a registration made under subsection 17(1) of the _National Greenhouse and Energy Reporting Act 2007_ before the commencement of that item.
+(4)        The amendment made by item 13 does not affect the validity of a registration made under subsection 17(1) of the _National Greenhouse and Energy Reporting Act 2007_ before the commencement of that item.
 
-(5)       The amendments made by items 15 and 21 apply in relation to the use of methods that occurs after the conditions concerned take effect.
+(5)        The amendments made by items 15 and 21 apply in relation to the use of methods that occurs after the conditions concerned take effect.
 
  
