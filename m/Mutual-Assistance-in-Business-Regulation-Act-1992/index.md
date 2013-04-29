@@ -1,631 +1,1126 @@
-![](http://www.comlaw.gov.au/Details/C2005C00652/Html/E89C3317C7047BC0CA2570B500189F8E/$FILE/image001.gif)
+**
 
-# Mutual Assistance in Business Regulation Act 1992
-
-**Act No. 25 of 1992 as amended**
-
-This compilation was prepared on 10 November 2005
-taking into account amendments up to Act No. 129 of 2005
-
-The text of any of those amendments not in force
-on that date is appended in the Notes section
-
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section
-
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, Canberra
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992 
+**
 
 
-# Contents
+**
 
-**Part 1—Preliminary**
-
-[1](#1).            Short title [_see_ Note 1]
-
-[2](#2).            Commencement [_see_ Note 1]
-
-[3](#3).            Interpretation
-
-[4](#4).            Act to extend to external Territories
-
-[4A](#4A).         Application of the _Criminal Code_
-
-[5](#5).            Object of Act
-
-**Part 2—Requests by foreign regulators**
-
-[6](#6).            Making of requests
-
-[7](#7).            Commonwealth regulator’s consideration of requests
-
-[8](#8).            Minister’s consideration of matter
-
-[9](#9).            Conditions etc  relevant to an authorisation
-
-[10](#10).          Taking of evidence etc 
-
-[11](#11).          Appearance to be in private
-
-[12](#12).          Representation
-
-[13](#13).          Information provider to comply with requirement
-
-[14](#14).          Self-incrimination
-
-[15](#15).          Legal professional privilege
-
-[16](#16).          Taking of evidence - protection of persons
-
-[17](#17).          Evidence to be put in writing etc 
-
-[18](#18).          Evidence etc  to be sent to foreign regulator
-
-**Part 3—Miscellaneous**
-
-[19](#19).          Act not to limit other provision of assistance
-
-[20](#20).          Orders under Foreign Proceedings (Excess of Jurisdiction) Act not to be contravened
-
-[21](#21).          Allowances and expenses
-
-[22](#22).          Delegation by Minister
-
-[23](#23).          Regulations
-
-**Notes** 
+###  Compilation Information 
+**
 
 
-## An Act to enable certain Commonwealth business-regulating authorities to provide assistance to certain foreign business-regulating authorities or agencies, and for related purposes
 
-## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Mutual Assistance in Business Regulation Act 1992_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-             (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
 
-             (2)  If this Act does not commence under subsection (1) within the period of 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period.
 
-##### <a id="3"></a>3  Interpretation
 
-             (1)  In this Act, unless the contrary intention appears:
+**
 
-                    <a name="busi-law"></a>**_business law_** means a law that regulates, or relates to the regulation of, business or persons engaged in business.
+###  Long Title 
+**
+**
 
-                    <a name="commonwealth-regul"></a>**_Commonwealth regulator_** means an authority of the Commonwealth that:
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992<part>Part&#160;1&#151;Preliminary </part>
+**
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-                     (a)  has functions relating to the administration or enforcement of a business law of the Commonwealth, a State or a Territory; and
+		This Act may be cited as the _Mutual Assistance in Business Regulation Act 1992_.
 
-                     (b)  is prescribed for the purposes of this definition.
+ </dl>
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-                    <a name="foreign-busi-law"></a>**_foreign business law_** means a business law of a foreign country.
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), this Act commences on a day to be fixed by
 
-                    <a name="foreign-regul"></a>**_foreign regulator_** means:
+Proclamation.</dd> <dt>(2)</dt><dd>If this Act does not commence under subsection&#160;(1) within the period of 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period. </dd> </dl>
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 3  Interpretation 
+<dl compact="">
 
-                     (a)  the government of a foreign country or a part of a foreign country; or
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-                     (b)  an agency of such a government having functions relating to the administration or enforcement of a foreign business law; or
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (c)  a person or body that is certified by such a government as having such functions in the country or part of a country that it governs.
+_business law_ means a law that regulates, or relates to the
 
-                    <a name="foreign-request"></a>**_foreign request_**. means a request under section 6.
+regulation of, business or persons engaged in business. _Commonwealth regulator_ means an authority of the Commonwealth that:  </dl></dl>
 
-             (2)  For the purposes of this Act:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  a colony, territory or protectorate of a foreign country; and
+<dt>(a)</dt><dd>has functions relating to the administration or enforcement of a business
 
-                     (b)  a territory for the international relations of which a foreign country is responsible;
+law of the Commonwealth, a State or a Territory; and</dd>
+
+<dt>(b)</dt><dd>is prescribed for the purposes of this definition.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_foreign business law_ means a business law of a foreign country. _foreign regulator_ means:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the government of a foreign country or a part of a foreign country; or</dd>
+
+<dt>(b)</dt><dd>an agency of such a government having functions relating to the
+
+administration or enforcement of a foreign business law; or</dd>
+
+<dt>(c)</dt><dd>a person or body that is certified by such a government as having such
+
+functions in the country or part of a country that it governs.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_foreign request_. means a request under section&#160;6.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of this Act:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a colony, territory or protectorate of a foreign country; and</dd>
+
+<dt>(b)</dt><dd>a territory for the international relations of which a foreign country is
+
+responsible;
+
+</dd>
+
+</dl></dl></dl>
 
 is taken, unless the contrary intention appears, to be part of that foreign country.
 
-             (3)  A reference in this Act to a law of a foreign country includes a reference to a law of a part of, or a law in force in a part of, the foreign country.
+<dl compact=""><dl compact="">
 
-##### <a id="4"></a>4  Act to extend to external Territories
+<dt>(3)</dt><dd>A reference in this Act to a law of a foreign country includes a reference
 
-                   This Act extends to every external Territory.
+to a law of a part of, or a law in force in a part of, the foreign country.
 
-##### <a id="4A"></a>4A  Application of the _Criminal Code_
+</dd> </dl></dl>
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
+**
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 4  Act to extend to external Territories 
+**
 
-##### <a id="5"></a>5  Object of Act
+ <dl compact=""><dl compact="">
 
-             (1)  The object of this Act is to enable Commonwealth regulators to render assistance to foreign regulators in their administration or enforcement of foreign business laws by obtaining from persons relevant information, documents and evidence and transmitting such information and evidence and copies of such documents to foreign regulators.
+		This Act extends to every external Territory.
 
-             (2)  Nothing in this Act is intended to limit the operation of the _Mutual Assistance in Criminal Matters Act 1987_.
+ </dl></dl>
 
-## Part 2—Requests by foreign regulators
+**
 
-##### <a id="6"></a>6  Making of requests
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 4A  Application of the _Criminal Code_ 
+**
 
-             (1)  A foreign regulator, for purposes relating to the administration or enforcement of a foreign business law, may request a Commonwealth regulator to arrange for:
+ <dl compact=""><dl compact="">
 
-                     (a)  the obtaining from a person of information, documents or evidence specified in the request or relating to a matter specified in the request; and
+		Chapter&#160;2 of the _Criminal Code_ applies to all offences against
 
-                     (b)  transmitting such information, evidence or copies of such documents to the foreign regulator.
+this Act.
 
-             (2)  The Commonwealth regulator must not take action undersection 7 in relation to the request unless the Commonwealth regulator has received in writing from the foreign regulator:
+ </dl></dl>
 
-                     (a)  an undertaking by the foreign regulator to the effect that information or evidence obtained from the person and provided to the foreign regulator under this Act:
+<dl compact=""><dl compact="">
 
-                              (i)  will not be used for the purposes of criminal proceedings against the person or of proceedings against the person for the imposition of a penalty; and
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
 
-                             (ii)  to the extent to which it is within the ability of the foreign regulator to ensure it, will not be used by any other person, authority or agency for the purposes of any such proceedings; and
+general principles of criminal responsibility.
 
-                     (b)  such information in relation to the request as is required by the regulations.
+ </dl></dl>
 
-##### <a id="7"></a>7  Commonwealth regulator’s consideration of requests
+**
 
-             (1)  Subject to subsection 6(2), a Commonwealth regulator that has received a foreign request must, in writing:
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 5  Object of Act 
+**
 
-                     (a)  inform the Minister that the Commonwealth regulator:
+ <dl compact=""><dl compact="">
 
-                              (i)  does not oppose the request; or
+<dt>(1)</dt><dd>The object of this Act is to enable Commonwealth regulators to render
 
-                             (ii)  does not oppose the request subject to conditions specified by the Commonwealth regulator being imposed in relation to the providing of anything in compliance with the request and the giving by the foreign regulator of any undertakings so specified for the purpose of ensuring compliance with any such conditions; or
+assistance to foreign regulators in their administration or enforcement of
 
-                     (b)  refuse the request.
+foreign business laws by obtaining from persons relevant information, documents
 
-             (2)  Conditions mentioned in subparagraph (1)(a)(ii) may include (but need not be limited to) conditions relating to any or all of the following:
+and evidence and transmitting such information and evidence and copies of such
 
-                     (a)  maintaining the confidentiality of anything provided in compliance with the request, in particular, information that is personal information within the meaning of the _Privacy Act 1988_;
+documents to foreign regulators.</dd> <dt>(2)</dt><dd>Nothing in this Act is intended to limit the operation of the _Mutual Assistance in Criminal Matters Act 1987_. </dd> </dl></dl>
 
-                     (b)  the storing of, use of, or access to, any such thing;
+<center>**
 
-                     (c)  copying, returning or disposing, of copies of documents provided in compliance with the request.
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992<part>Part&#160;2&#151;Requests by foreign regulators </part>
+**</center>
 
-             (3)  When considering what action to take in relation to the request, the Commonwealth regulator is to take into account the following matters and any other matters that the Commonwealth regulator thinks relevant:
+**
 
-                     (a)  whether the Commonwealth regulator is likely to be able to obtain the requested information, documents or evidence;
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 6  Making of requests 
+**
 
-                     (b)  the cost to the Commonwealth regulator of complying with the request;
+ <dl compact=""><dl compact="">
 
-                     (c)  whether the foreign regulator could more conveniently have the request satisfied from another source;
+<dt>(1)</dt><dd>A foreign regulator, for purposes relating to the administration or
 
-                     (d)  the extent to which the functions of the foreign regulator correspond with the functions of the Commonwealth regulator;
+enforcement of a foreign business law, may request a Commonwealth regulator to
 
-                     (e)  whether the foreign regulator would be likely to comply with a similar request made by the Commonwealth regulator and whether any arrangement with the foreign regulator to that effect exists;
+arrange for:
 
-                      (f)  whether, in the opinion of the Commonwealth regulator, it would be more appropriate for the request to be dealt with under the Mutual Assistance in _Criminal Matters Act 1987_.
+</dd> </dl></dl>
 
-##### <a id="8"></a>8  Minister’s consideration of matter
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  If the Commonwealth regulator informs the Minister as mentioned in subparagraph 7(1)(a)(i) or (ii), the Minister must, in writing:
+<dt>(a)</dt><dd>the obtaining from a person of information, documents or evidence
 
-                     (a)  authorise the obtaining of the information, documents or evidence, as the case may be, from the person in compliance with the request; or
+specified in the request or relating to a matter specified in the request;
 
-                     (b)  refuse the request.
+and</dd>
 
-             (2)  In considering action under this section or subsection 9(2) in relation to the request, the Minister is to take into account the following matters and any other matters that he or she thinks relevant:
+<dt>(b)</dt><dd>transmitting such information, evidence or copies of such documents to the
 
-                     (a)  whether it is in Australia’s national interest to comply with the request;
+foreign regulator.
 
-                     (b)  whether complying with the request is consistent with international law and international comity;
+</dd>
 
-                     (c)  whether anything provided in compliance with the request is likely to be used for punishing a person for an offence of a political character;
+</dl></dl></dl>
 
-                     (d)  whether anything provided in compliance with the request is likely to be used for prosecuting, punishing or otherwise harming a person because of the person’s race, sex, religion, nationality or political opinions;
+<dl compact=""><dl compact="">
 
-                     (e)  whether it would be more appropriate for the request to be dealt with under the _Mutual Assistance in Criminal Matters Act 1987_.
+<dt>(2)</dt><dd>The Commonwealth regulator must not take action undersection 7 in relation
 
-##### <a id="9"></a>9  Conditions etc. relevant to an authorisation
+to the request unless the Commonwealth regulator has received in writing from
 
-             (1)  Subject to subsection (2), if:
+the foreign regulator:
 
-                     (a)  the Commonwealth regulator, in relation to a foreign request, has informed the Minister as mentioned in subparagraph 7(1)(a)(ii); and
+</dd> </dl></dl>
 
-                     (b)  the Minister gives an authorisation under section 8 in relation to the request;
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an undertaking by the foreign regulator to the effect that information or
+
+evidence obtained from the person and provided to the foreign regulator under
+
+this Act:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>will not be used for the purposes of criminal proceedings against the
+
+person or of proceedings against the person for the imposition of a penalty;
+
+and</dd>
+
+<dt>(ii)</dt><dd>to the extent to which it is within the ability of the foreign regulator
+
+to ensure it, will not be used by any other person, authority or agency for the
+
+purposes of any such proceedings; and
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>such information in relation to the request as is required by the
+
+regulations.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 7  Commonwealth regulator's consideration of requests 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection 6(2), a Commonwealth regulator that has received a
+
+foreign request must, in writing:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>inform the Attorney-General that the Commonwealth regulator:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>does not oppose the request; or</dd>
+
+<dt>(ii)</dt><dd>does not oppose the request subject to conditions specified by the
+
+Commonwealth regulator being imposed in relation to the providing of anything
+
+in compliance with the request and the giving by the foreign regulator of any
+
+undertakings so specified for the purpose of ensuring compliance with any such
+
+conditions; or
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(b)</dt><dd>refuse the request.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Conditions mentioned in subparagraph&#160;(1)(a)(ii) may include (but need
+
+not be limited to) conditions relating to any or all of the following:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>maintaining the confidentiality of anything provided in compliance with
+
+the request, in particular, information that is personal information within the
+
+meaning of the _Privacy Act 1988_;</dd>
+
+<dt>(b)</dt><dd>the storing of, use of, or access to, any such thing;</dd>
+
+<dt>(c)</dt><dd>copying, returning or disposing, of copies of documents provided in
+
+compliance with the request.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>When considering what action to take in relation to the request, the
+
+Commonwealth regulator is to take into account the following matters and any
+
+other matters that the Commonwealth regulator thinks relevant:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>whether the Commonwealth regulator is likely to be able to obtain the
+
+requested information, documents or evidence;</dd>
+
+<dt>(b)</dt><dd>the cost to the Commonwealth regulator of complying with the request;</dd>
+
+<dt>(c)</dt><dd>whether the foreign regulator could more conveniently have the request
+
+satisfied from another source;</dd>
+
+<dt>(d)</dt><dd>the extent to which the functions of the foreign regulator correspond with
+
+the functions of the Commonwealth regulator;</dd>
+
+<dt>(e)</dt><dd>whether the foreign regulator would be likely to comply with a similar
+
+request made by the Commonwealth regulator and whether any arrangement with the
+
+foreign regulator to that effect exists;</dd>
+
+<dt>(f)</dt><dd>whether, in the opinion of the Commonwealth regulator, it would be more
+
+appropriate for the request to be dealt with under the Mutual Assistance in
+
+_Criminal Matters Act 1987_.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 8  Attorney-General's consideration of matter 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If the Commonwealth regulator informs the Attorney-General as mentioned in
+
+subparagraph 7(1)(a)(i) or (ii), the Attorney-General must, in writing:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>authorise the obtaining of the information, documents or evidence, as the
+
+case may be, from the person in compliance with the request; or</dd>
+
+<dt>(b)</dt><dd>refuse the request.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>In considering action under this section or subsection 9(2) in relation to
+
+the request, the Attorney-General is to take into account the following matters
+
+and any other matters that he or she thinks relevant:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>whether it is in Australia's national interest to comply with the
+
+request;</dd>
+
+<dt>(b)</dt><dd>whether complying with the request is consistent with international law
+
+and international comity;</dd>
+
+<dt>(c)</dt><dd>whether anything provided in compliance with the request is likely to be
+
+used for punishing a person for an offence of a political character;</dd>
+
+<dt>(d)</dt><dd>whether anything provided in compliance with the request is likely to be
+
+used for prosecuting, punishing or otherwise harming a person because of the
+
+person's race, sex, religion, nationality or political opinions;</dd>
+
+<dt>(e)</dt><dd>whether it would be more appropriate for the request to be dealt with
+
+under the _Mutual Assistance in Criminal Matters Act 1987_.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 9  Conditions etc. relevant to an authorisation 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), if:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Commonwealth regulator, in relation to a foreign request, has informed
+
+the Attorney-General as mentioned in subparagraph 7(1)(a)(ii); and</dd>
+
+<dt>(b)</dt><dd>the Attorney-General gives an authorisation under section&#160;8 in
+
+relation to the request;
+
+</dd>
+
+</dl></dl></dl>
 
 the authorisation is subject to compliance with any conditions and the giving of any undertaking specified by the Commonwealth regulator.
 
-             (2)  In giving an authorisation under section 8, the Minister may:
+<dl compact=""><dl compact="">
 
-                     (a)  impose conditions or further conditions subject to which anything may be provided in compliance with the request; and
+<dt>(2)</dt><dd>In giving an authorisation under section&#160;8, the Attorney-General may:
 
-                     (b)  require undertakings to be given by the foreign regulator to ensure compliance with any such conditions; and
+</dd> </dl></dl>
 
-                     (c)  omit or vary any condition or undertaking to which the authorisation would, under subsection (1), otherwise be subject.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  An authorisation under section 8 that is subject to compliance with conditions or the giving of undertakings (including conditions or undertakings imposed or required under subsection (2)) must specify those conditions and any such undertaking.
+<dt>(a)</dt><dd>impose conditions or further conditions subject to which anything may be
 
-##### <a id="10"></a>10  Taking of evidence etc.
+provided in compliance with the request; and</dd>
 
-             (1)  Where the Minister gives an authorisation under section 8, the following provisions of this section apply.
+<dt>(b)</dt><dd>require undertakings to be given by the foreign regulator to ensure
 
-             (2)  The Commonwealth regulator may, by written notice served on the person to whom the authorisation relates, require the person:
+compliance with any such conditions; and</dd>
 
-                     (a)  to give to the Commonwealth regulator, by instrument signed by the person or, in the case of a body corporate, by a competent officer of the body corporate, within the time and in the manner specified in the notice, information to which the foreign request relates; or
+<dt>(c)</dt><dd>omit or vary any condition or undertaking to which the authorisation
 
-                     (b)  to produce to the Commonwealth regulator, or to a person specified in the notice acting on behalf of the Commonwealth regulator, in accordance with the notice, documents to which the foreign request relates; or
+would, under subsection&#160;(1), otherwise be subject.
 
-                     (c)  to appear before a person specified in the notice acting on behalf of the Commonwealth regulator, at a time and place specified in the notice, to give evidence to which the foreign request relates, either orally or in writing, and produce any such documents.
+</dd>
 
-             (3)  In addition to such information, documents or evidence, an authorisation under section 8 extends to any other information, documents or evidence that, in the opinion of the Commonwealth regulator, is relevant to the matter to which the foreign request relates.
+</dl></dl></dl>
 
-             (4)  A person mentioned in paragraph (2)(c) may require the evidence mentioned in that paragraph to be given on oath or affirmation and for that purpose the person may administer an oath or affirmation.
+<dl compact=""><dl compact="">
 
-##### <a id="11 "></a>11  Appearance to be in private
+<dt>(3)</dt><dd>An authorisation under section&#160;8 that is subject to compliance with
 
-             (1)  An appearance for the purpose of giving evidence by a person in accordance with a requirement under section 10 is to take place in private and may be attended only by a person mentioned in subsection (2).
+conditions or the giving of undertakings (including conditions or undertakings
 
-             (2)  Only the following persons may be present during the taking of evidence:
+imposed or required under subsection&#160;(2)) must specify those conditions
 
-                     (a)  the person taking or giving the evidence;
+and any such undertaking.
 
-                     (b)  a staff member of the Commonwealth regulator who is approved by the Commonwealth regulator;
+</dd> </dl></dl>
 
-                     (c)  a representative of the foreign regulator;
+**
 
-                     (d)  a person who is present at the request of the person giving the evidence;
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 10  Taking of evidence etc. 
+**
 
-                     (e)  a person who is entitled to be present under a direction given by the person taking the evidence;
+ <dl compact=""><dl compact="">
 
-                      (f)  a person who is entitled to be present under section 12.
+<dt>(1)</dt><dd>Where the Attorney-General gives an authorisation under section&#160;8,
 
-##### <a id="12"></a>12  Representation
+the following provisions of this section apply.</dd> <dt>(2)</dt><dd>The Commonwealth regulator may, by written notice served on the person to whom the authorisation relates, require the person: </dd> </dl></dl>
 
-                   A person who appears before a person for the purpose of giving evidence in accordance with a requirement under section 10 may be represented by:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  a barrister or solicitor of the Supreme Court of a State or Territory or of the High Court; or
+<dt>(a)</dt><dd>to give to the Commonwealth regulator, by instrument signed by the person
 
-                     (b)  any other person (including a foreigner) having such expertise, whether in law or otherwise, as could be expected in the circumstances to be of assistance to the person giving evidence.
+or, in the case of a body corporate, by a competent officer of the body
 
-##### <a id="13"></a>13  Information provider to comply with requirement
+corporate, within the time and in the manner specified in the notice,
 
-             (1)  A person must not fail to comply with a requirement made under section 10.
+information to which the foreign request relates; or</dd>
 
-                    Penalty:  Imprisonment for 2 years.
+<dt>(b)</dt><dd>to produce to the Commonwealth regulator, or to a person specified in the
 
-          (1A)  Subsection (1) does not apply if the person has a reasonable excuse.
+notice acting on behalf of the Commonwealth regulator, in accordance with the
 
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).
+notice, documents to which the foreign request relates; or</dd>
 
-             (2)  A person must not, in purported compliance with a requirement made under section 10, give information or evidence knowing it to be false or misleading in a material particular.
+<dt>(c)</dt><dd>to appear before a person specified in the notice acting on behalf of the
 
-                    Penalty:  Imprisonment for 2 years.
+Commonwealth regulator, at a time and place specified in the notice, to give
 
-##### <a id="14"></a>14  Self-incrimination
+evidence to which the foreign request relates, either orally or in writing, and
 
-             (1)  For the purposes of subsection 13(1A), it is not a reasonable excuse for a person to refuse or fail to give information or evidence, or to produce documents, in accordance with a requirement under section 10, that the information, evidence or production of the documents might tend to incriminate the person or make the person liable to a penalty.
+produce any such documents.
 
-             (2)  Subsection (3) applies if:
+</dd>
 
-                     (a)  before giving information or evidence in accordance with such a requirement, a person claims that the information or evidence might tend to incriminate the person or make the person liable to a penalty; and
+</dl></dl></dl>
 
-                     (b)  the information or evidence might in fact tend to incriminate the person or make the person liable to a penalty.
+<dl compact=""><dl compact="">
 
-             (3)  The information or evidence, as the case may be, is not admissible in evidence against the person in:
+<dt>(3)</dt><dd>In addition to such information, documents or evidence, an authorisation
 
-                     (a)  a criminal proceeding; or
+under section&#160;8 extends to any other information, documents or evidence
 
-                     (b)  a proceeding for the imposition of a penalty; other than a proceeding in respect of the falsity of the information or evidence, as the case may be.
+that, in the opinion of the Commonwealth regulator, is relevant to the matter
 
-##### <a id="15"></a>15  Legal professional privilege
+to which the foreign request relates.</dd> <dt>(4)</dt><dd>A person mentioned in paragraph&#160;(2)(c) may require the evidence mentioned in that paragraph to be given on oath or affirmation and for that purpose the person may administer an oath or affirmation. </dd> </dl></dl>
 
-             (1)  This section applies where:
+<center>Back to Top</center>
 
-                     (a)  under this Act, a person requires a lawyer to give information or produce a document; and
+**
 
-                     (b)  giving the information or producing the document would involve disclosing a privileged communication made by, on behalf of, or to the lawyer in his or her capacity as a lawyer.
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 11  Appearance to be in private 
+**
 
-             (2)  The lawyer is entitled to refuse to comply with the requirement unless:
+ <dl compact=""><dl compact="">
 
-                     (a)  if the person to whom, or by or on behalf of whom, the communication was made is a body corporate that is under official management or being wound up—the official manager or liquidator of the body; or
+<dt>(1)</dt><dd>An appearance for the purpose of giving evidence by a person in accordance
 
-                     (b)  otherwise—the person to whom, or by or on behalf of whom, the communication was made; consents to the lawyer complying with the requirement.
+with a requirement under section&#160;10 is to take place in private and may be
 
-             (3)  If the lawyer so refuses, he or she must, as soon as practicable, give to the person who made the requirement a written notice setting out:
+attended only by a person mentioned in subsection&#160;(2).</dd> <dt>(2)</dt><dd>Only the following persons may be present during the taking of evidence: </dd> </dl></dl>
 
-                     (a)  if the lawyer knows the name and address of the person to whom, or by or on behalf of whom, the communication was made—that name and address; and
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  if the communication was made in writing—sufficient particulars to identify the document containing the communication.
+<dt>(a)</dt><dd>the person taking or giving the evidence;</dd>
 
-                    Penalty:  $1,500.
+<dt>(b)</dt><dd>a staff member of the Commonwealth regulator who is approved by the
 
-##### <a id="16"></a>16  Taking of evidence - protection of persons
+Commonwealth regulator;</dd>
 
-             (1)  A person taking evidence under this Act has, in the performance of such duties, the same protection and immunity as a Justice of the High Court.
+<dt>(c)</dt><dd>a representative of the foreign regulator;</dd>
 
-             (2)  A barrister or solicitor, or other representative, appearing on a person’s behalf before a person taking evidence under this Act has the same protection and immunity as a barrister has in appearing for a party in a proceeding in the High Court.
+<dt>(d)</dt><dd>a person who is present at the request of the person giving the
 
-             (3)  A person giving evidence under this Act has the same protection, and is, in addition to the penalties provided by this Act, subject to the same liabilities, as a witness in a proceeding in the High Court.
+evidence;</dd>
 
-##### <a id="17"></a>17  Evidence to be put in writing etc.
+<dt>(e)</dt><dd>a person who is entitled to be present under a direction given by the
 
-                   A person taking evidence under this Act is to cause the evidence to be put in writing and certify that the evidence was taken by the person.
+person taking the evidence;</dd>
 
-##### <a id="18"></a>18  Evidence etc. to be sent to foreign regulator
+<dt>(f)</dt><dd>a person who is entitled to be present under section&#160;12.
 
-             (1)  Subject to this section, if a person complies with a requirement by a Commonwealth regulator under section 10, the Commonwealth regulator must:
+</dd>
 
-                     (a)  in the case of the giving of information—send the information, or a copy of the information certified by the Commonwealth regulator to be a true copy, to the foreign regulator by whom the relevant foreign request was made; or
+</dl></dl></dl>
 
-                     (b)  in the case of the production of documents—send copies of the documents certified by the Commonwealth regulator to be true copies to that foreign regulator; or
+**
 
-                     (c)  in the case of the taking of evidence—send the evidence, as put in writing and certified by the person taking it, to that foreign regulator.
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 12  Representation 
+**
 
-             (2)  The Commonwealth regulator may send information, evidence or copies of documents (in this section called the **_requested material_**) to the foreign regulator in such form, and may edit or otherwise organise the requested material, as seems to the Commonwealth regulator to be appropriate in the circumstances.
+ <dl compact=""><dl compact="">
 
-             (3)  The Commonwealth regulator may refuse to cause the requested material to be transmitted to the foreign regulator or may cause part only of the material to be so transmitted if, upon examination of the material, it appears to the Commonwealth regulator for any reason to be appropriate to do so.
+		A person who appears before a person for the purpose of giving evidence in
 
-             (4)  Where an authorisation under section 8 specifies an undertaking to be given by a foreign regulator, the requested material must not be transmitted to the foreign regulator until the undertaking is given.
+accordance with a requirement under section&#160;10&#160;may be represented by:
 
-## Part 3—Miscellaneous
+ </dl></dl>
 
-##### <a id="19"></a>19  Act not to limit other provision of assistance
+<dl compact=""><dl compact=""><dl compact="">
 
-                   Nothing in this Act prevents the obtaining for, or transmitting to, a foreign regulator of information, evidence or copies of documents otherwise than as mentioned in this Act if, apart from this Act, the information, evidence or copies would be lawfully so obtained or transmitted.
+<dt>(a)</dt><dd>a barrister or solicitor of the Supreme Court of a State or Territory or
 
-##### <a id="20"></a>20  Orders under Foreign Proceedings (Excess of Jurisdiction) Act not to be contravened
+of the High Court; or</dd>
 
-                   Nothing in this Act authorises or requires anything to be done in contravention of an order in force under section 7 of the _Foreign Proceedings (Excess of Jurisdiction) Act 1984_.
+<dt>(b)</dt><dd>any other person (including a foreigner) having such expertise, whether in
 
-##### <a id="21"></a>21  Allowances and expenses
+law or otherwise, as could be expected in the circumstances to be of assistance
 
-                   A person giving information or evidence, or producing documents, under this Act is entitled to be paid by the Commonwealth regulator such allowances for the person’s travelling and other expenses as are prescribed.
-
-##### <a id="22"></a>22  Delegation by Minister
-
-             (1)  The Minister may, by signed instrument, delegate to the Secretary of the Department or an APS employee in the Department any of his or her powers or functions under this Act.
-
-##### <a id="23"></a>23  Regulations
-
-                   The Governor-General may make regulations prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-
-# Notes to the _Mutual Assistance in Business Regulation Act 1992_
-
-### Note 1
-
-The _Mutual Assistance in Business Regulation Act 1992_ as shown in this compilation comprises Act No. 25, 1992 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="21%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Mutual Assistance in Business Regulation Act 1992</div>
-    </td>
-    <td>
-      <div>25, 1992</div>
-    </td>
-    <td>
-      <div>12 May 1992</div>
-    </td>
-    <td>
-      <div>23 Oct 1992 ( <i>see Gazette</i>1992, No. S308)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>24, 2001</div>
-    </td>
-    <td>
-      <div>6 Apr 2001</div>
-    </td>
-    <td>
-      <div>S. 4(1), (2) and Schedule 35: <i>(a)</i></div>
-    </td>
-    <td>
-      <div>S. 4(1) and (2)</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Crimes Legislation Enhancement Act 2003</div>
-    </td>
-    <td>
-      <div>41, 2003</div>
-    </td>
-    <td>
-      <div>3 June 2003</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 15, 16): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Law and Justice Legislation Amendment (Serious Drug Offences and Other Measures) Act 2005</div>
-    </td>
-    <td>
-      <div>129, 2005</div>
-    </td>
-    <td>
-      <div>8 Nov 2005</div>
-    </td>
-    <td>
-      <div>Schedule 5: Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-_(a)_     The _Mutual Assistance in Business Regulation Act 1992_ was amended by Schedule 35 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences at the later of the following times:
-
-                              (a)   immediately after the commencement of item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
-
-         Item 15 commenced on 24 May 2001.
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4A</div>
-    </td>
-    <td>
-      <div>ad. No. 24, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 129, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 8</div>
-    </td>
-    <td>
-      <div>am. No. 129, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 8–10</div>
-    </td>
-    <td>
-      <div>am. No. 129, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 13, 14</div>
-    </td>
-    <td>
-      <div>am. No. 24, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 22</div>
-    </td>
-    <td>
-      <div>am. No. 129, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22</div>
-    </td>
-    <td>
-      <div>am. No. 41, 2003; No. 129, 2005</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)_
-
-##### <a id="4"></a>4  Application of amendments
-
-             (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-
- 
-
- 
+to the person giving evidence.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 13  Information provider to comply with requirement 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person must not fail to comply with a requirement made under
+
+section&#160;10.
+
+</dd> </dl></dl>
+
+Penalty:	Imprisonment for 2 years.
+
+<dl compact=""><dl compact="">
+
+<dt>(1A)</dt><dd>Subsection&#160;(1) does not apply if the person has a reasonable excuse.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matter in subsection&#160;(1A) (see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A person must not, in purported compliance with a requirement made under
+
+section&#160;10, give information or evidence knowing it to be false or
+
+misleading in a material particular.
+
+</dd> </dl></dl>
+
+Penalty:	Imprisonment for 2 years. 
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 14  Self-incrimination 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>For the purposes of subsection 13(1A), it is not a reasonable excuse for a
+
+person to refuse or fail to give information or evidence, or to produce
+
+documents, in accordance with a requirement under section&#160;10, that the
+
+information, evidence or production of the documents might tend to incriminate
+
+the person or make the person liable to a penalty.</dd> <dt>(2)</dt><dd>Subsection&#160;(3) applies if: </dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>before giving information or evidence in accordance with such a
+
+requirement, a person claims that the information or evidence might tend to
+
+incriminate the person or make the person liable to a penalty; and</dd>
+
+<dt>(b)</dt><dd>the information or evidence might in fact tend to incriminate the person
+
+or make the person liable to a penalty.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>The information or evidence, as the case may be, is not admissible in
+
+evidence against the person in:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a criminal proceeding; or</dd>
+
+<dt>(b)</dt><dd>a proceeding for the imposition of a penalty; other than a proceeding in
+
+respect of the falsity of the information or evidence, as the case may be.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 15  Legal professional privilege 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This section applies where:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>under this Act, a person requires a lawyer to give information or produce
+
+a document; and</dd>
+
+<dt>(b)</dt><dd>giving the information or producing the document would involve disclosing
+
+a privileged communication made by, on behalf of, or to the lawyer in his or
+
+her capacity as a lawyer.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The lawyer is entitled to refuse to comply with the requirement unless:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the person to whom, or by or on behalf of whom, the communication was
+
+made is a body corporate that is under official management or being wound
+
+up&#151;the official manager or liquidator of the body; or</dd>
+
+<dt>(b)</dt><dd>otherwise&#151;the person to whom, or by or on behalf of whom, the
+
+communication was made; consents to the lawyer complying with the requirement.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If the lawyer so refuses, he or she must, as soon as practicable, give to
+
+the person who made the requirement a written notice setting out:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the lawyer knows the name and address of the person to whom, or by or
+
+on behalf of whom, the communication was made&#151;that name and address; and</dd>
+
+<dt>(b)</dt><dd>if the communication was made in writing&#151;sufficient particulars to
+
+identify the document containing the communication.
+
+</dd>
+
+</dl></dl></dl>
+
+Penalty:	$1,500\. 
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 16  Taking of evidence - protection of persons 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person taking evidence under this Act has, in the performance of such
+
+duties, the same protection and immunity as a Justice of the High Court.</dd> <dt>(2)</dt><dd>A barrister or solicitor, or other representative, appearing on a person's behalf before a person taking evidence under this Act has the same protection and immunity as a barrister has in appearing for a party in a proceeding in the High Court.</dd> <dt>(3)</dt><dd>A person giving evidence under this Act has the same protection, and is, in addition to the penalties provided by this Act, subject to the same liabilities, as a witness in a proceeding in the High Court. </dd> </dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 17  Evidence to be put in writing etc. 
+**
+
+ <dl compact=""><dl compact="">
+
+		A person taking evidence under this Act is to cause the evidence to be put in
+
+writing and certify that the evidence was taken by the person.
+
+ </dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 18  Evidence etc. to be sent to foreign regulator 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to this section, if a person complies with a requirement by a
+
+Commonwealth regulator under section&#160;10, the Commonwealth regulator must:
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in the case of the giving of information&#151;send the information, or a copy
+
+of the information certified by the Commonwealth regulator to be a true copy,
+
+to the foreign regulator by whom the relevant foreign request was made; or</dd>
+
+<dt>(b)</dt><dd>in the case of the production of documents&#151;send copies of the documents
+
+certified by the Commonwealth regulator to be true copies to that foreign
+
+regulator; or</dd>
+
+<dt>(c)</dt><dd>in the case of the taking of evidence&#151;send the evidence, as put in
+
+writing and certified by the person taking it, to that foreign regulator.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The Commonwealth regulator may send information, evidence or copies of
+
+documents (in this section called the _requested material_) to the
+
+foreign regulator in such form, and may edit or otherwise organise the
+
+requested material, as seems to the Commonwealth regulator to be appropriate in
+
+the circumstances.</dd> <dt>(3)</dt><dd>The Commonwealth regulator may refuse to cause the requested material to be transmitted to the foreign regulator or may cause part only of the material to be so transmitted if, upon examination of the material, it appears to the Commonwealth regulator for any reason to be appropriate to do so.</dd> <dt>(4)</dt><dd>Where an authorisation under section&#160;8 specifies an undertaking to be given by a foreign regulator, the requested material must not be transmitted to the foreign regulator until the undertaking is given. </dd> </dl></dl>
+
+<center>**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992<part>Part&#160;3&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 19  Act not to limit other provision of assistance 
+**
+
+ <dl compact=""><dl compact="">
+
+		Nothing in this Act prevents the obtaining for, or transmitting to, a foreign
+
+regulator of information, evidence or copies of documents otherwise than as
+
+mentioned in this Act if, apart from this Act, the information, evidence or
+
+copies would be lawfully so obtained or transmitted.
+
+ </dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 20  Orders under Foreign Proceedings (Excess of Jurisdiction) Act not to be contravened 
+**
+
+<dl compact=""><dl compact="">
+
+		Nothing in this Act authorises or requires anything to be done in
+
+contravention of an order in force under section&#160;7 of the _Foreign Proceedings (Excess of Jurisdiction) Act 1984_.
+
+ </dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 21  Allowances and expenses 
+**
+
+ <dl compact=""><dl compact="">
+
+		A person giving information or evidence, or producing documents, under this
+
+Act is entitled to be paid by the Commonwealth regulator such allowances for
+
+the person's travelling and other expenses as are prescribed.
+
+ </dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 22  Delegation by Attorney-General 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Attorney-General may, by signed instrument, delegate to the Secretary
+
+of the Department or an APS employee in the Department any of his or her powers
+
+or functions under this Act.
+
+</dd> </dl></dl>
+
+**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992- SECT 23  Regulations 
+**
+
+ <dl compact=""><dl compact="">
+
+		The Governor-General may make regulations prescribing matters:
+
+ </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  MUTUAL ASSISTANCE IN BUSINESS REGULATION ACT 1992<centreit>Notes to the _Mutual Assistance in Business Regulation Act 1992_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Mutual Assistance in Business Regulation Act 1992_ as shown in this compilation comprises Act No.&#160;25, 1992 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table&#160;A. 
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Mutual Assistance in Business Regulation Act 1992</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>25, 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>12 May 1992</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>23 Oct 1992 ( <i>see Gazette</i>1992, No.&#160;S308)</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>24, 2001</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>6 Apr 2001</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 4(1), (2) and Schedule 35: <i>(a)</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>S. 4(1), (2)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Crimes Legislation Enhancement Act 2003</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>41, 2003</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>3 June 2003</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 2 (items 15, 16): Royal Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr></table>_(a)_ The _Mutual Assistance in Business Regulation Act 1992_ was amended by Schedule 35 only of the _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(a) of which provides as follows:
+
+	(1)	Subject to this section, this Act commences at the later of the following times:
+
+	(a)	immediately after the commencement of item&#160;15 of Schedule&#160;1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_;
+
+	Item 15 commenced on 24 May 2001.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 4A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 24, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 13, 14</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 24, 2001</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 22</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 41, 2003</div>
+
+  </td>
+</tr></table>
+
+<center>**
+
+###  Table A 
+**</center>
+
+**Table A**
+
+**Application, saving or transitional provisions**
+
+_Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001_ (No. 24, 2001) 
+
+**4  Application of amendments**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(3), each amendment made by this Act applies to
+
+acts and omissions that take place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl></dl>
+
+</def></def>
+
+
