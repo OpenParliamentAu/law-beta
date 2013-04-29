@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00108/Html/TradexScheme1999WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00517/Html/TradexScheme1999WD02_image001.gif)
 
 # Tradex Scheme Act 1999
 
 **Act No. 185 of 1999 as amended**
 
-This compilation was prepared on 25 February 2010
- taking into account amendments up to Act No. 4 of 2010
+This compilation was prepared on 8 October 2008
+ taking into account amendments up to Act No. 18 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -246,7 +246,7 @@ where the terms of the agreement have not been fully complied with.
 
                     <a name="occupi"></a>**_occupier_** of premises means the person in charge, or apparently in charge, of the premises.
 
-                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against section 6 of the _Crimes Act 1914_, or against section 11.1, 11.4 or 11.5 of the _Criminal Code_, in relation to an offence against this Act.
+                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence against section 6, 7 or 7A, or subsection 86(1), of the _Crimes Act 1914_ in relation to an offence against this Act.
 
                     <a name="premis"></a>**_premises_** includes any place (whether enclosed or built on, or not) and, in particular, includes:
 
@@ -1345,7 +1345,7 @@ of Assent</div>
     <div>Ss. 4–14 and Schedule 3 (item 558): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(a)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -1379,7 +1379,7 @@ of Assent</div>
     <div>Schedule 1 (items 210, 212, 213, 215): 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34)</div>
   </td>
   <td>
-    <div>Sch. 1 (items 212, 213, 215)</div>
+    <div>Sch. 1 (items 212, 213, 215)</div>
   </td>
 </tr>
 <tr>
@@ -1398,23 +1398,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 5, 7)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 24): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -1458,7 +1441,7 @@ _(a)_ The _Tradex Scheme Act 1999_ was amended by Schedule 3 (item 558) only
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 80, 2004; No. 18, 2008; No. 4, 2010</div>
+    <div>am. No. 55, 2001; No. 80, 2004; No. 18, 2008</div>
   </td>
 </tr>
 <tr>
