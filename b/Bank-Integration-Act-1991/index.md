@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00797/Html/bfac9369-539a-4ac4-a31a-49ffbb807f99_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00397/Html/eae8c9a2-adf6-48ac-b60f-10bd96a77983_files/image001.gif)
 
 # Bank Integration Act 1991
 
 **Act No. 210 of 1991 as amended**
 
-This compilation was prepared on 8 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 20 April 2012
+ taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -57,7 +58,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [17](#17).          Legal proceedings and evidence
 
-[18](#18).          Permitted business names
+[18](#18).          Permitted business names [_see_ Note 2]
 
 [19](#19).          Employment unaffected
 
@@ -85,9 +86,19 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [29](#29).          Regulations
 
+**Part 6—Consequential amendments of the Commonwealth Banks Act 1959 and other Acts**
+
+[30](#30).          Principal Act
+
+[31](#31).          Repeal of Part V
+
+[32](#32).          Consequential amendments
+
 **Schedule 1—Receiving and transferring banks** 
 
 **Schedule 2—Permitted business names** 
+
+**Schedule 3—Consequential amendments** 
 
 **Notes** 
 
@@ -343,15 +354,15 @@ by notice published in the _Gazette_, fix a day on which the business of the rel
 
              (3)  Where, before the succession day for a receiving bank and the relevant transferring bank, documentary or other evidence would have been admissible for or against the interests of the transferring bank, that evidence is admissible, on or at any time after that day, for or against the interests of the receiving bank.
 
-##### <a id="18"></a>18  Permitted business names
+##### <a id="18"></a>18  Permitted business names [_see_ Note 2]
 
              (1)  For a period of 6 months beginning on the succession day in relation to a transferring bank whose name is included in Column 1 of Schedule 2, the relevant receiving bank may operate in a State or Territory under any name (in this section called a **_permitted business name_** in relation to that receiving bank) that is included in Column 2 of that Schedule opposite the name of that transferring bank.
 
-             (2)  This section does not prevent a receiving bank from:
+             (2)   This section does not prevent a receiving bank from:
 
                      (a)  operating in a State or Territory under a name other than a permitted business name; or
 
-                     (b)  registering a name on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_.
+                     (b)  registering a name under a law of a State or Territory.
 
 ##### <a id="19"></a>19  Employment unaffected
 
@@ -530,6 +541,20 @@ that person or authority may:
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+## Part 6—Consequential amendments of the Commonwealth Banks Act 1959 and other Acts
+
+##### <a id="30"></a>30  Principal Act
+
+                   In this Part, **Principal Act** means the _Commonwealth Banks Act 1959_.
+
+##### <a id="31"></a>31  Repeal of Part V
+
+                   On the succession day for the Commonwealth Bank and the Commonwealth Savings Bank, Part V of the Principal Act is repealed.
+
+##### <a id="32"></a>32  Consequential amendments
+
+                   On the succession day for the Commonwealth Bank and the Commonwealth Savings Bank, the Acts referred to in Schedule 3 are amended as set out in that Schedule.
 
 # Schedule 1—Receiving and transferring banks
 
@@ -767,6 +792,26 @@ Limited</div>
   </td>
 </tr></table>
 
+# Schedule 3—Consequential amendments
+
+_Section 32_
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+_Banking Act 1959_
+
+_Banks (Shareholding) Act 1972_<span style="font-size:9.0pt">\[repealed by Act No. 54, 1998, Sch. 3]</span>
+
+_Commonwealth Banks Act 1959_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 210, 1991.
+
+* * *
+
 # Notes to the _Bank Integration Act 1991_
 
 ### Note 1
@@ -787,7 +832,7 @@ For all other relevant information pertaining to application, saving or transiti
   <col width="16%">
   <col width="17%">
   <col width="21%">
-  <col width="16%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -825,7 +870,7 @@ of Assent</div>
     <div>24 Dec 1991</div>
   </td>
   <td>
-    <div></div>
+    <div> </div>
   </td>
 </tr>
 <tr>
@@ -839,7 +884,7 @@ of Assent</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 3 (item 6): 24 Dec 1991 <i>(a)</i></div>
+    <div>Schedule 3 (item 6): 24 Dec 1991 <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -890,7 +935,7 @@ of Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 279): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
+    <div>Schedule 1 (item 279): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -907,7 +952,7 @@ of Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 79): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (item 79): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -942,10 +987,10 @@ of Assent</div>
     <div>24 Sept 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 8, 222, 225, 226): Royal Assent</div>
+    <div>Schedule 1 (items 8, 222, 225, 226): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 222, 225, 226)</div>
+    <div>Sch. 1 (items 222, 225, 226)</div>
   </td>
 </tr>
 <tr>
@@ -960,57 +1005,6 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 2 (items 8, 9): 20 Apr 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 2): <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 15, 16): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1037,100 +1031,12 @@ _(d)_ The _Bank Integration Act 1991_ was amended by Schedule 3 (item 79) on
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
-_(e)_        Subsection 2(1) (item 7) of the _Statute Law Revision Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedule 2, item 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Business Names Registration (Transitional and Consequential Provisions)
-          Act 2011</i>for the commencement of Part 1 of Schedule 2 to that Act.
-    </div>
-  </td>
-  <td>
-    <div>
-      20 April 2012
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1177,7 +1083,7 @@ _(e)_        Subsection 2(1) (item 7) of the _Statute Law Revision
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 127, 2011 (as am. by No. 136, 2012)</div>
+    <div>am. No. 127, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1230,34 +1136,10 @@ _(e)_        Subsection 2(1) (item 7) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>Part 6</div>
+    <div><b>Schedule 3</b></div>
   </td>
   <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1267,15 +1149,19 @@ _(e)_        Subsection 2(1) (item 7) of the _Statute Law Revision
   <td>
     <div>am. No. 43, 1996</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+Paragraph 18(2)(b)—Schedule 2 (item 8) of the _Business Names Registration (Transitional and Consequential Provisions) Act 2011_(No. 127, 2011) provides as follows:
+
+## Schedule 2
+
+## 8  Paragraph 18(2)(b)
+
+Omit “under a law or a State or Territory”, substitute “on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_”.
+
+The proposed amendment was misdescribed and is not incorporated in this compilation.
 
 ## Table A
 
