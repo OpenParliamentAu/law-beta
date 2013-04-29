@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00772/Html/393027a3-097d-4a57-823c-6850f49c654b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00071/Html/213808f7-b0d1-43c8-a9c6-8d68b7e3b77e_files/image001.gif)
 
 # Airports (Transitional) Act 1996
 
 **Act No. 36 of 1996 as amended**
 
-This compilation was prepared on 31 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 100 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,313 +13,320 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
-**Part 1—Introduction**
+**Part 1—Introduction**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Simplified outline                                                                                 1
+[3](#3).            Simplified outline
 
-[4](#4).            Definitions                                                                                           2
+[4](#4).            Definitions
 
-[5](#5).            Sydney West Airport                                                                           3
+[5](#5).            Sydney West Airport
 
-[6](#6).            Sale time for Commonwealth‑owned company                                    3
+[6](#6).            Sale time for Commonwealth‑owned company
 
-[7](#7).            Crown to be bound                                                                              4
+[7](#7).            Crown to be bound
 
-[8](#8).            External Territories                                                                               4
+[8](#8).            External Territories
 
-[9](#9).            Extra‑territorial operation                                                                     4
+[9](#9).            Extra‑territorial operation
 
 **Part 2—Transfers from the FAC to the Commonwealth**
 
-[10](#10).          Simplified outline                                                                                 5
+[10](#10).          Simplified outline
 
-[11](#11).          Transfer of FAC land to the Commonwealth                                       5
+[11](#11).          Transfer of FAC land to the Commonwealth
 
-[12](#12).          Transfer of other FAC assets to the Commonwealth                           6
+[12](#12).          Transfer of other FAC assets to the Commonwealth
 
-[13](#13).          Transfer of the FAC’s contractual rights and obligations to the Commonwealth     7
+[13](#13).          Transfer of the FAC’s contractual rights and obligations to the Commonwealth
 
-[14](#14).          Transfer of FAC liabilities to the Commonwealth                                8
+[14](#14).          Transfer of FAC liabilities to the Commonwealth
 
-[15](#15).          Transferred airport ceases to be a Federal airport for purposes of the FAC Act       8
+[15](#15).          Transferred airport ceases to be a Federal airport for purposes of the FAC Act
 
-[16](#16).          Transfers of FAC land may be registered                                            8
+[16](#16).          Transfers of FAC land may be registered
 
-[17](#17).          FAC land leased to the Commonwealth                                               9
+[17](#17).          FAC land leased to the Commonwealth
 
-[18](#18).          Lands Acquisition Act does not apply to this Part                             10
+[18](#18).          Lands Acquisition Act does not apply to this Part
 
 **Part 3—Original grants of airport leases to companies**
 
-[19](#19).          Simplified outline                                                                               11
+[19](#19).          Simplified outline
 
-[20](#20).          Scope of Part                                                                                      11
+[20](#20).          Scope of Part
 
-[21](#21).          Commonwealth may grant airport lease to a Commonwealth‑owned company        12
+[21](#21).          Commonwealth may grant airport lease to a Commonwealth‑owned company
 
-[22](#22).          Commonwealth may grant airport lease to a company that is not owned by the Commonwealth             12
+[22](#22).          Commonwealth may grant airport lease to a company that is not owned by the Commonwealth
 
-[23](#23).          Transfer or lease of assets to company                                               12
+[23](#23).          Transfer or lease of assets to company
 
-[24](#24).          Transfer of contractual rights and obligations                                    13
+[24](#24).          Transfer of contractual rights and obligations
 
-[25](#25).          Transfer of liability to company                                                         14
+[25](#25).          Transfer of liability to company
 
-[26](#26).          Airport lease granted subject to existing interests in the land             15
+[26](#26).          Airport lease granted subject to existing interests in the land
 
-[27](#27).          Entries in title registers                                                                       16
+[27](#27).          Entries in title registers
 
-[28](#28).          Lands Acquisition Act does not apply to this Part                             16
+[28](#28).          Lands Acquisition Act does not apply to this Part
 
 **Part 4—Transfer of the FAC’s assets or contracts to airport‑lessee companies**
 
-[29](#29).          Simplified outline                                                                               17
+[29](#29).          Simplified outline
 
-[30](#30).          Transfer of assets                                                                               17
+[30](#30).          Transfer of assets
 
-[31](#31).          Transfer of contractual rights and obligations                                    18
+[31](#31).          Transfer of contractual rights and obligations
 
 **Part 5—Transfer of the FAC’s liabilities to airport‑lessee companies**
 
-[32](#32).          Simplified outline                                                                               20
+[32](#32).          Simplified outline
 
-[33](#33).          Transfer of liabilities                                                                          20
+[33](#33).          Transfer of liabilities
 
 **Part 6—Treatment of sale of shares in an airport‑lessee company owned by the Commonwealth**
 
-[34](#34).          Simplified outline                                                                               22
+[34](#34).          Simplified outline
 
-[35](#35).          When this Part applies                                                                        22
+[35](#35).          When this Part applies
 
-[36](#36).          Commonwealth may pay the FAC an amount before disposal of shares  23
+[36](#36).          Commonwealth may pay the FAC an amount before disposal of shares
 
-[37](#37).          Commonwealth must pay an amount to the FAC                               23
+[37](#37).          Commonwealth must pay an amount to the FAC
 
-[38](#38).          Capital for the FAC following disposal of shares                              24
+[38](#38).          Capital for the FAC following disposal of shares
 
 **Part 7—Treatment of consideration payable by an airport‑lessee company that is not owned by the Commonwealth**
 
-[40](#40).          Simplified outline                                                                               25
+[40](#40).          Simplified outline
 
-[41](#41).          When this Part applies                                                                        25
+[41](#41).          When this Part applies
 
-[42](#42).          Commonwealth must pay an amount to the FAC                               25
+[42](#42).          Commonwealth must pay an amount to the FAC
 
-[43](#43).          Capital for the FAC after consideration becomes payable                  26
+[43](#43).          Capital for the FAC after consideration becomes payable
 
-[44](#44).          Appropriation of Consolidated Revenue Fund                                   26
+[44](#44).          Appropriation of Consolidated Revenue Fund
 
 **Part 8—Special tax rules** 
 
     **Division 1—Simplified outline**
 
-[45](#45).          Simplified outline                                                                               27
+[45](#45).          Simplified outline
 
     **Division 2—Exemption from stamp duty and other taxes**
 
-[46](#46).          Exemption from stamp duty and other taxes                                      28
+[46](#46).          Exemption from stamp duty and other taxes
 
-[47](#47).          Airport‑lessee company not liable to stamp duty on pre‑grant instruments              28
+[47](#47).          Airport‑lessee company not liable to stamp duty on pre‑grant instruments
 
-[48](#48).          Stamp duty—transfers of assets or liabilities to privately‑owned companies           29
+[48](#48).          Stamp duty—transfers of assets or liabilities to privately‑owned companies
 
     **Division 3—Special income tax rules**
 
-[48A](#48A).       Definitions                                                                                         30
+[48A](#48A).       Definitions
 
-[49B](#49B).       Special rules for fixtures that are depreciating assets—_Income Tax Assessment Act 1997_       30
+[49B](#49B).       Special rules for fixtures that are depreciating assets—_Income Tax Assessment Act 1997_
 
-[50B](#50B).       Acquisition of depreciating asset from the Commonwealth—Division 40 of the _Income Tax Assessment Act 1997_                                                                                                           32
+[50B](#50B).       Acquisition of depreciating asset from the Commonwealth—Division 40 of the _Income Tax Assessment Act 1997_
 
-[51B](#51B).       Acquisition of depreciating asset from the FAC—Division 40 of the _Income Tax Assessment Act 1997_                32
+[51B](#51B).       Acquisition of depreciating asset from the FAC—Division 40 of the _Income Tax Assessment Act 1997_
 
-[52A](#52A).       Consideration received by the FAC for transfer of assets—_Income Tax Assessment Act 1997_               32
+[52A](#52A).       Consideration received by the FAC for transfer of assets—_Income Tax Assessment Act 1997_
 
-[54A](#54A).       Airport‑lessee company to be capital works owner for the purposes of Division 43 of the _Income Tax Assessment Act 1997_                                                                                                   33
+[54A](#54A).       Airport‑lessee company to be capital works owner for the purposes of Division 43 of the _Income Tax Assessment Act 1997_
 
-[55](#55).          Modification of capital allowances and capital gains tax provisions   34
+[55](#55).          Modification of capital allowances and capital gains tax provisions
 
-[56](#56).          Transfer of development allowance benefits                                      34
+[56](#56).          Transfer of development allowance benefits
 
 **Part 9—Transfer of staff from the FAC to airport‑lessee companies** 
 
     **Division 1—Simplified outline**
 
-[57](#57).          Simplified outline                                                                               36
+[57](#57).          Simplified outline
 
     **Division 2—Transfer of staff**
 
-[58](#58).          Transfer of staff from the FAC                                                          37
+[58](#58).          Transfer of staff from the FAC
 
     **Division 3—Terms and conditions**
 
-[59](#59).          Terms and conditions of transferred employees                                 38
+[59](#59).          Terms and conditions of transferred employees
 
-[60](#60).          Variation of terms and conditions of employment                              39
+[60](#60).          Variation of terms and conditions of employment
 
-[61](#61).          Statement of accrued benefits                                                             39
+[61](#61).          Statement of accrued benefits
 
     **Division 4—Mobility rights**
 
-[62](#62).          Cessation of mobility rights                                                               40
+[62](#62).          Cessation of mobility rights
 
     **Division 5—Long service leave**
 
-[63](#63).          Long service leave rules set out in Schedule 1                                   41
+[63](#63).          Long service leave rules set out in Schedule 1
 
     **Division 6—Superannuation**
 
-[64](#64).          Superannuation rules set out in Schedule 2                                        42
+[64](#64).          Superannuation rules set out in Schedule 2
 
     **Division 7—Safety, Rehabilitation and Compensation Act 1988**
 
-[65](#65).          _Safety, Rehabilitation and Compensation Act 1988_ rules set out in Schedule 3        43
+[65](#65).          _Safety, Rehabilitation and Compensation Act 1988_ rules set out in Schedule 3
 
 **Part 10—FAC’s debts** 
 
     **Division 1—Simplified outline**
 
-[66](#66).          Simplified outline                                                                               44
+[66](#66).          Simplified outline
 
     **Division 2—Loans by the Commonwealth**
 
-[67](#67).          Scope of Division                                                                              45
+[67](#67).          Scope of Division
 
-[68](#68).          Treasurer may declare that loan is due and payable                            45
+[68](#68).          Treasurer may declare that loan is due and payable
 
-[69](#69).          Commonwealth may pay the FAC an amount equal to the amount owing               45
+[69](#69).          Commonwealth may pay the FAC an amount equal to the amount owing
 
     **Division 3—Other borrowing transactions**
 
-[71](#71).          Scope of Division                                                                              46
+[71](#71).          Scope of Division
 
-[72](#72).          Borrowing transactions                                                                      46
+[72](#72).          Borrowing transactions
 
-[73](#73).          FAC’s borrowing transactions may become the Commonwealth’s borrowing transactions    46
+[73](#73).          FAC’s borrowing transactions may become the Commonwealth’s borrowing transactions
 
-[74](#74).          Commonwealth takeover of certain obligations of the FAC               46
+[74](#74).          Commonwealth takeover of certain obligations of the FAC
 
-[75](#75).          Application of the _Loans Securities Act 1919_                                    47
+[75](#75).          Application of the _Loans Securities Act 1919_
 
-[76](#76).          Commonwealth takeover of obligations—payments by the FAC to the Commonwealth         47
+[76](#76).          Commonwealth takeover of obligations—payments by the FAC to the Commonwealth
 
-[77](#77).          Commonwealth may pay the FAC an amount to enable the FAC to discharge or extinguish its liability under a borrowing transaction                                                                        48
+[77](#77).          Commonwealth may pay the FAC an amount to enable the FAC to discharge or extinguish its liability under a borrowing transaction
 
 **Part 11—Prosecutions**
 
-[79](#79).          Simplified outline                                                                               49
+[79](#79).          Simplified outline
 
-[80](#80).          Continuing application of the _Director of Public Prosecutions Act 1983_ 49
+[80](#80).          Continuing application of the _Director of Public Prosecutions Act 1983_
 
 **Part 12—Airport‑lessee company not to be an agency of the Commonwealth etc.**
 
-[81](#81).          Simplified outline                                                                               50
+[81](#81).          Simplified outline
 
-[82](#82).          Airport‑lessee company not to be an agency of the Commonwealth etc   50
+[82](#82).          Airport‑lessee company not to be an agency of the Commonwealth etc 
 
 **Part 13—Miscellaneous**
 
-[83](#83).          Simplified outline                                                                               51
+[83](#83).          Simplified outline
 
-[84](#84).          Transfer of pending proceedings                                                        52
+[84](#84).          Transfer of pending proceedings
 
-[85](#85).          Operation of this Act does not place a person in breach of contract etc  52
+[85](#85).          Operation of this Act does not place a person in breach of contract etc 
 
-[86](#86).          Appropriation—grant of airport lease to Commonwealth‑owned company             52
+[86](#86).          Appropriation—grant of airport lease to Commonwealth‑owned company
 
-[87](#87).          This Act does not modify registers kept by land registration officials 53
+[87](#87).          This Act does not modify registers kept by land registration officials
 
-[88](#88).          Declarations that are contingent on the grant of an airport lease may be varied or revoked before the grant             53
+[88](#88).          Declarations that are contingent on the grant of an airport lease may be varied or revoked before the grant
 
-[89](#89).          Copies of declarations to be published in the _Gazette_                        54
+[89](#89).          Copies of declarations to be published in the _Gazette_
 
-[90](#90).          Compensation—constitutional safety‑net                                           54
+[90](#90).          Compensation—constitutional safety‑net
 
-[91](#91).          Commonwealth records                                                                     55
+[91](#91).          Commonwealth records
 
-[92](#92).          Act does not authorise the imposition of taxation                               55
+[92](#92).          Act does not authorise the imposition of taxation
 
-[93](#93).          Regulations                                                                                        55
+[93](#93).          Regulations
+
+**Part 14—Amendment of the Federal Airports Corporation Act 1986**
+
+[94](#94).          Amendments
 
 **Schedule 1—Long Service Leave**
 
-[1](#1).            Scope of Schedule                                                                              56
+[1](#1).            Scope of Schedule
 
-[2](#2).            Definitions                                                                                         56
+[2](#2).            Definitions
 
-[3](#3).            References to Long Service Leave Act                                               57
+[3](#3).            References to Long Service Leave Act
 
-[4](#4).            Long service leave for employees with less than 10 years service     57
+[4](#4).            Long service leave for employees with less than 10 years service
 
-[5](#5).            Payments in lieu of long service leave for employees with less than 10 years service              58
+[5](#5).            Payments in lieu of long service leave for employees with less than 10 years service
 
-[6](#6).            Payments on the death of an employee                                               60
+[6](#6).            Payments on the death of an employee
 
-[7](#7).            Employee’s long service leave credit for the purposes of clauses 4 and 5                61
+[7](#7).            Employee’s long service leave credit for the purposes of clauses 4 and 5
 
-[8](#8).            Schedule not to affect an employee’s future long service leave rights 61
+[8](#8).            Schedule not to affect an employee’s future long service leave rights
 
-[9](#9).            Saving—Long Service Leave Act                                                      61
+[9](#9).            Saving—Long Service Leave Act
 
 **Schedule 2—Superannuation** 
 
 **Part 1—When this Schedule applies**
 
-[1](#1).            When this Schedule applies                                                                62
+[1](#1).            When this Schedule applies
 
 **Part 2—Superannuation schemes** 
 
     **Division 1—Transfer of staff from the FAC**
 
-[2](#2).            Commonwealth‑owned airport‑lessee companies                              63
+[2](#2).            Commonwealth‑owned airport‑lessee companies
 
-[3](#3).            Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_              63
+[3](#3).            Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
 
-[4](#4).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_                                                                                64
+[4](#4).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
 
     **Division 2—Sale of airport‑lessee companies owned by the Commonwealth**
 
-[5](#5).            Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_              65
+[5](#5).            Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
 
-[6](#6).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_                                                                                65
+[6](#6).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
 
     **Division 3—Transfer of staff to airport‑lessee companies that are not owned by the Commonwealth**
 
-[7](#7).            Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973              66
+[7](#7).            Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
-[8](#8).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_                                                                                66
+[8](#8).            Period of eligible employment for the purposes of Division 3 of Part IX of the _Defence Force Retirement and Death Benefits Act 1973_
 
 **Part 3—The Crimes (Superannuation Benefits) Act 1989**
 
-[9](#9).            Continuing application of the _Crimes (Superannuation Benefits) Act 1989_              68
+[9](#9).            Continuing application of the _Crimes (Superannuation Benefits) Act 1989_
 
 **Part 4—The Superannuation Benefits (Supervisory Mechanisms) Act 1990**
 
-[10](#10).          An airport‑lessee company is not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_                                                 70
+[10](#10).          An airport‑lessee company is not to be an eligible or relevant body for the purposes of the _Superannuation Benefits (Supervisory Mechanisms) Act 1990_
 
 **Schedule 3—Safety, Rehabilitation and Compensation Act 1988**
 
-[1](#1).            Definitions                                                                                         71
+[1](#1).            Definitions
 
-[2](#2).            SRC Act continues to apply to transferred employees                       71
+[2](#2).            SRC Act continues to apply to transferred employees
 
-[3](#3).            Commonwealth liable to meet certain SRC Act liabilities and is taken to be the employer in certain circumstances under the SRC Act                                                                                       71
+[3](#3).            Commonwealth liable to meet certain SRC Act liabilities and is taken to be the employer in certain circumstances under the SRC Act
 
-[4](#4).            Airport‑lessee company to co‑operate with the Commonwealth        72
+[4](#4).            Airport‑lessee company to co‑operate with the Commonwealth
 
-[5](#5).            Section 40 of the SRC Act                                                                 72
+[5](#5).            Section 40 of the SRC Act
 
-[6](#6).            Section 71 of the SRC Act                                                                 72
+[6](#6).            Section 71 of the SRC Act
 
-[7](#7).            Section 108C of the SRC Act                                                            72
+[7](#7).            Section 108C of the SRC Act
+
+**Schedule 4—Amendment of the Federal Airports Corporation Act 1986** 
 
 **Notes** 
 
@@ -327,7 +334,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ## Part 1—Introduction
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;font-weight: normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Airports (Transitional) Act 1996_.
 
@@ -687,7 +694,7 @@ Part.</li>
 
 ##### <a id="20"></a>20  Scope of Part
 
-                   This Part applies to the following airports:
+                   This Part applies to the following airports:
 
                      (a)  a core regulated airport (within the meaning of the _Airports Act 1996_);
 
@@ -797,7 +804,7 @@ Note:          A liability or instrument may be specified by n
 
                              (ii)  cease to be enforceable by or against the Commonwealth;
 
-                            whether or not the obligations or benefits touch and concern the land; and
+                            whether or not the obligations or benefits touch and concern the land; and
 
                      (b)  an instrument relating to such an obligation or benefit continues to have effect after the grant of the airport lease as if a reference in the instrument to the FAC or to the Commonwealth were a reference to the company; and
 
@@ -1891,6 +1898,12 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
+## Part 14—Amendment of the Federal Airports Corporation Act 1986
+
+##### <a id="94"></a>94  Amendments 
+
+                   The _Federal Airports Corporation Act 1986_ is amended as set out in Schedule 4.
+
 # Schedule 1—Long Service Leave
 
 ##### <a id="1"></a>1  Scope of Schedule 
@@ -2143,7 +2156,7 @@ Note:          Division 2 deals with the employee’s positi
 
 ### Division 3—Transfer of staff to airport‑lessee companies that are not owned by the Commonwealth
 
-##### <a id="7"></a>7  Deferred benefits under the _Defence Force Retirement and Death Benefits Act 1973_
+##### <a id="7"></a>7  Deferred benefits under the Defence Force Retirement and Death Benefits Act 1973
 
              (1)  This clause applies in relation to an employee of an airport‑lessee company that was granted an airport lease under section 22 if:
 
@@ -2265,6 +2278,74 @@ Definition
 
                    This Act does not prevent section 108C of the _Safety, Rehabilitation and Compensation Act 1988_ from applying to an airport‑lessee company.
 
+###### Schedule 4—Amendment of the Federal Airports Corporation Act 1986
+
+## 1  Section 6
+
+After “Corporation are”, insert “as follows”.
+
+## 2  Paragraph 6(b)
+
+Omit “and” (last occurring).
+
+## 3  After paragraph 6(b)
+
+Insert:
+
+                   (ba)  to assist the Commonwealth and other persons in connection with any or all of the following:
+
+                              (i)  the implementation of the _Airports (Transitional) Act 1996_;
+
+                             (ii)  preparatory work associated with the implementation of the _Airports Act 1996_;
+
+                            (iii)  matters relating to the leasing, or proposed leasing, of an airport (within the meaning of the _Airports (Transitional) Act 1996_) that was or is a Federal airport or a Federal airport development site, including matters relating to the transfer, or proposed transfer, of responsibility for such an airport to an airport‑lessee company (within the meaning of the _Airports (Transitional) Act 1996_);
+
+## 4  After subsection 7(2)
+
+Insert:
+
+          (2A)  Subsection (2) (other than paragraph (2)(a)) does not apply to the function conferred by paragraph 6(ba).
+
+## 5  Paragraph 13(1)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  if the Minister decides to appoint one or more other members—not more than 6 other members.
+
+## 6  Subsection 21(6)
+
+Repeal the subsection, substitute:
+
+             (6)  At a meeting of the Board, a quorum is constituted by the greater of:
+
+                     (a)  3 members; or
+
+                     (b)  the number of members that constitutes a majority of the members for the time being holding office.
+
+## 7  Subsection 40(1)
+
+Omit “41(2)”, substitute “41(1A) or (2)”.
+
+## 8  After subsection 41(1)
+
+Insert:
+
+          (1A)  The Minister may, by notice in writing to the Board, give directions to the Corporation with respect to the performance of its functions, or the exercise of its powers, if the Minister is satisfied that the directions would be likely to facilitate any or all of the following:
+
+                     (a)  the implementation of the _Airports (Transitional) Act 1996_;
+
+                     (b)  preparatory work associated with the implementation of the _Airports Act 1996_;
+
+                     (c)  matters relating to the leasing, or proposed leasing, of an airport (within the meaning of the _Airports (Transitional) Act 1996_) that was or is a Federal airport or a Federal airport development site, including matters relating to the transfer, or proposed transfer, of responsibility for such an airport to an airport‑lessee company (within the meaning of the _Airports (Transitional) Act 1996_).
+
+## 9  Subsections 41(3) and (4)
+
+After “subsection”, insert “(1A) or”.
+
+## 10  Transitional
+
+The amendment made by item 5 does not affect the appointment of a person who held office as a member immediately before the commencement of this item.
+
 # Notes to the _Airports (Transitional) Act 1996_
 
 ### Note 1
@@ -2273,7 +2354,7 @@ The _Airports (Transitional) Act 1996_ as shown in this compilation comprises Ac
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 16 April 1998 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 16 April 1998 is not included in this compilation. For subsequent information _see_ Table A. 
 
 ### Table of Acts
 
@@ -2335,7 +2416,7 @@ of Assent</div>
     <div>25 Nov 1996</div>
   </td>
   <td>
-    <div>Schedule 11 (item 60): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) <i>(a)</i></div>
+    <div>Schedule 11 (item 60): 31 Dec 1996 ( <i>see Gazette</i>1996, No. S535) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2369,7 +2450,7 @@ of Assent</div>
     <div>8 July 1997</div>
   </td>
   <td>
-    <div>Schedule 12 (item 31): 1 July 1997 <i>(b)</i></div>
+    <div>Schedule 12 (item 31): 1 July 1997 <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2386,7 +2467,7 @@ of Assent</div>
     <div>16 Apr 1998</div>
   </td>
   <td>
-    <div>Schedule 10 (items 58–64): Royal Assent <i>(c)</i></div>
+    <div>Schedule 10 (items 58–64): Royal Assent <i>(c)</i></div>
   </td>
   <td>
     <div>Sch. 10 (item 64) \[ <i>see</i>Table A]</div>
@@ -2420,7 +2501,7 @@ of Assent</div>
     <div>5 July 1999</div>
   </td>
   <td>
-    <div>Schedule 4 (items 1–5): Royal Assent <i>(e)</i></div>
+    <div>Schedule 4 (items 1–5): Royal Assent <i>(e)</i></div>
   </td>
   <td>
     <div>Sch. 4 (item 5) \[ <i>see</i>Table A]</div>
@@ -2437,10 +2518,10 @@ of Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 26): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285) <i>(f)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (item 26): 15 July 2001 ( <i>see</i> <i>Gazette</i>2001, No. S285) <i>(f)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -2454,7 +2535,7 @@ of Assent</div>
     <div>30 June 2001</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–9, 488(1)): Royal Assent <i>(g)</i></div>
+    <div>Schedule 2 (items 1–9, 488(1)): Royal Assent <i>(g)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 488(1)) \[ <i>see</i>Table A]</div>
@@ -2471,8 +2552,8 @@ of Assent</div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2, 3) and 
-Schedule 6 (items 1, 6–11): Royal Assent</div>
+    <div>Schedule 2 (items 2, 3) and 
+Schedule 6 (items 1, 6–11): Royal Assent</div>
   </td>
   <td>
     <div>Sch. 6 (items 
@@ -2490,7 +2571,7 @@ Schedule 6 (items 1, 6–11): Royal Assent</div>
     <div>19 Feb 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (item 24): <i>(h)</i></div>
+    <div>Schedule 2 (item 24): <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2507,7 +2588,7 @@ Schedule 6 (items 1, 6–11): Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
+    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2522,10 +2603,10 @@ Remainder: Royal Assent</div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td>
-    <div>Schedule 10 (items 1, 2): <i>(i)</i></div>
+    <div>Schedule 10 (items 1, 2): <i>(i)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2542,7 +2623,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 5, 223–254): 19 Apr 2011</div>
+    <div>Schedule 5 (items 5, 223–254): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -2556,13 +2637,13 @@ Remainder: Royal Assent</div>
     <div>46, 2011</div>
   </td>
   <td>
-    <div>27 June 2011</div>
+    <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 60) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 60) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -2576,24 +2657,7 @@ Remainder: Royal Assent</div>
     <div>15 Sept 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 1): 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 2): Royal Assent</div>
+    <div>Schedule 1 (item 1): 16 Sept 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -2628,7 +2692,7 @@ _(g)_ The _Airports (Transitional) Act 1996_ was amended by Schedule 2 (items�
 
                  (1)   Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 
-_(h)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (2006 Measures No. 6) Act 2007_, provides as follows:
+_(h)_     Subsection 2(1) (item 4) of the _Tax Laws Amendment (2006 Measures No. 6) Act 2007_, provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -2766,7 +2830,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009
     </div>
   </td>
 </tr></table>
@@ -2796,7 +2860,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
+    <div><b>Part 1</b></div>
   </td>
   <td>
     <div></div>
@@ -2820,7 +2884,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
+    <div><b>Part 2</b></div>
   </td>
   <td>
     <div></div>
@@ -2844,7 +2908,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Part 3</b></div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
@@ -2868,7 +2932,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Part 4</b></div>
+    <div><b>Part 4</b></div>
   </td>
   <td>
     <div></div>
@@ -2893,7 +2957,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
   </tr>
   <tr>
     <td>
-      <div><b>Part 5</b></div>
+      <div><b>Part 5</b></div>
     </td>
     <td>
       <div></div>
@@ -2904,12 +2968,12 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
       <div>S. 33</div>
     </td>
     <td>
-      <div>am. No. 5, 2011</div>
+      <div>am. No. 5, 2011</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 6</b></div>
+      <div><b>Part 6</b></div>
     </td>
     <td>
       <div></div>
@@ -2941,7 +3005,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
   </tr>
   <tr>
     <td>
-      <div><b>Part 7</b></div>
+      <div><b>Part 7</b></div>
     </td>
     <td>
       <div></div>
@@ -2966,7 +3030,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </thead>
 <tr>
   <td>
-    <div><b>Part 8</b></div>
+    <div><b>Part 8</b></div>
   </td>
   <td>
     <div></div>
@@ -2974,7 +3038,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3041,7 +3105,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
     <div></div>
   </td>
   <td>
-    <div>am. No. 4, 2007; No. 5, 2011</div>
+    <div>am. No. 4, 2007; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3198,7 +3262,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Part 9</b></div>
+    <div><b>Part 9</b></div>
   </td>
   <td>
     <div></div>
@@ -3206,7 +3270,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -3222,7 +3286,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3233,7 +3297,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
     <div>S. 59</div>
   </td>
   <td>
-    <div>am. No. 60, 1996; No. 8, 2008; No. 54, 2009</div>
+    <div>am. No. 60, 1996; No. 8, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3246,7 +3310,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Part 10</b></div>
+    <div><b>Part 10</b></div>
   </td>
   <td>
     <div></div>
@@ -3254,7 +3318,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -3278,7 +3342,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -3302,7 +3366,7 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
 </tr>
 <tr>
   <td>
-    <div><b>Part 13</b></div>
+    <div><b>Part 13</b></div>
   </td>
   <td>
     <div></div>
@@ -3314,30 +3378,6 @@ _(i)_      Subsection 2(1) (item 32) of the _Fair Work (State Referr
   </td>
   <td>
     <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 14</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 94</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 4</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr></table>
 
