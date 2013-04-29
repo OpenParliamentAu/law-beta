@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00509/Html/Bankruptcy1966_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00092/Html/Bankruptcy1966_WD02_image001.gif)
 
 # Bankruptcy Act 1966
 
 **Act No. 33 of 1966 as amended**
 
-This compilation was prepared on 19 July 2010
- taking into account amendments up to Act No. 106 of 2010
+This compilation was prepared on 24 February 2010
+ taking into account amendments up to Act No. 3 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -20,1366 +20,1371 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[4](#4).            Repeal                                                                                                  1
+[4](#4).            Repeal
 
 **Part IA—Interpretation**
 
-[5](#5).            Interpretation                                                                                       2
+[5](#5).            Interpretation
 
-[5A](#5A).         Acting in accordance with a person’s directions or instructions       17
+[5AA](#5AA).      Place of origin of bankruptcy and insolvency matters
 
-[5B](#5B).         Associated entities: companies                                                          17
+[5A](#5A).         Acting in accordance with a person’s directions or instructions
 
-[5C](#5C).         Associated entities: natural persons                                                  18
+[5B](#5B).         Associated entities: companies
 
-[5D](#5D).         Associated entities: partnerships                                                      18
+[5C](#5C).         Associated entities: natural persons
 
-[5E](#5E).          Associated entities: trusts                                                                 19
+[5D](#5D).         Associated entities: partnerships
 
-[5F](#5F).          Controlling an entity in relation to a matter                                      19
+[5E](#5E).          Associated entities: trusts
 
-[5G](#5G).         Financial affairs of a company                                                           20
+[5F](#5F).          Controlling an entity in relation to a matter
 
-[5H](#5H).         Financial affairs of a natural person                                                   21
+[5G](#5G).         Financial affairs of a company
 
-[5J](#5J).          Financial affairs of a partnership                                                       22
+[5H](#5H).         Financial affairs of a natural person
 
-[5K](#5K).         Financial affairs of a trust                                                                  22
+[5J](#5J).          Financial affairs of a partnership
 
-[6](#6).            Meaning of intent to defraud creditors                                              23
+[5K](#5K).         Financial affairs of a trust
 
-[6A](#6A).         Statement of affairs for purposes other than Part XI                        23
+[6](#6).            Meaning of intent to defraud creditors
 
-[6B](#6B).         Provision of statement of affairs under Part XI and statement of administration of estate of deceased person     24
+[6A](#6A).         Statement of affairs for purposes other than Part XI
 
-[6C](#6C).         Interpretive provisions relating to proceeds of crime orders             24
+[6B](#6B).         Provision of statement of affairs under Part XI and statement of administration of estate of deceased person
+
+[6C](#6C).         Interpretive provisions relating to proceeds of crime orders
 
 **Part IB—Application of Act**
 
-[7](#7).            Application of Act                                                                            26
+[7](#7).            Application of Act
 
-[7A](#7A).         Application of the _Criminal Code_                                                     26
+[7A](#7A).         Application of the _Criminal Code_
 
-[8](#8).            Act to bind the Crown                                                                       26
+[8](#8).            Act to bind the Crown
 
-[9](#9).            Laws of States and Territories not affected by Act                          27
+[9](#9).            Laws of States and Territories not affected by Act
 
 **Part II—Administration** 
 
     **Division 1—General**
 
-[10](#10).          Delegation by Minister or Secretary                                                 28
+[10](#10).          Delegation by Minister or Secretary
 
-[11](#11).          Inspector-General in Bankruptcy                                                      28
+[11](#11).          Inspector-General in Bankruptcy
 
-[12](#12).          Functions of Inspector-General                                                         29
+[12](#12).          Functions of Inspector-General
 
-[15](#15).          Official Receivers                                                                               32
+[13](#13).          Bankruptcy Districts
 
-[16](#16).          Appointment of Inspector-General and Official Receivers               32
+[15](#15).          Official Receivers
 
-[17](#17).          Acting Inspector-General and Acting Official Receivers                   32
+[16](#16).          Appointment of Inspector-General and Official Receivers
 
-[17B](#17B).       Arrangements for services of State and Northern Territory Magistrates                33
+[17](#17).          Acting Inspector-General and Acting Official Receivers
 
-[18](#18).          The Official Trustee in Bankruptcy                                                  33
+[17B](#17B).       Arrangements for services of State and Northern Territory Magistrates
 
-[18AA](#18AA).    _Commonwealth Authorities and Companies Act 1997_ does not apply to Official Trustee     36
+[18](#18).          The Official Trustee in Bankruptcy
 
-[18A](#18A).       Liability of the Official Trustee                                                         36
+[18AA](#18AA).    _Commonwealth Authorities and Companies Act 1997_ does not apply to Official Trustee
 
-[19](#19).          Duties etc  of trustee                                                                         37
+[18A](#18A).       Liability of the Official Trustee
 
-[19AA](#19AA).    Power of investigation of bankrupt’s affairs                                     38
+[19](#19).          Duties etc  of trustee
 
-[19A](#19A).       Liability of Inspector-General, Official Receivers etc                       38
+[19AA](#19AA).    Power of investigation of bankrupt’s affairs
+
+[19A](#19A).       Liability of Inspector-General, Official Receivers etc 
 
     **Division 2—Common Investment Fund**
 
-[20A](#20A).       Interpretation                                                                                     39
+[20A](#20A).       Interpretation
 
-[20B](#20B).       The Common Investment Fund                                                         39
+[20B](#20B).       The Common Investment Fund
 
-[20D](#20D).       Investment of money in Common Fund                                            40
+[20D](#20D).       Investment of money in Common Fund
 
-[20E](#20E).        Borrowing for the Common Fund                                                     41
+[20E](#20E).        Borrowing for the Common Fund
 
-[20F](#20F).        Moneys in Common Fund not held on account of particular estates etc                42
+[20F](#20F).        Moneys in Common Fund not held on account of particular estates etc 
 
-[20G](#20G).       Common Investment Fund Equalization Account                            43
+[20G](#20G).       Common Investment Fund Equalization Account
 
-[20H](#20H).       Credits to and debits from the Equalization Account                       43
+[20H](#20H).       Credits to and debits from the Equalization Account
 
-[20J](#20J).        Interest on moneys in Common Fund payable only in certain circumstances        44
+[20J](#20J).        Interest on moneys in Common Fund payable only in certain circumstances
 
 **Part III—Courts** 
 
     **Division 2—Jurisdiction and powers of courts in bankruptcy**
 
-[27](#27).          Bankruptcy courts                                                                             47
+[27](#27).          Bankruptcy courts
 
-[29](#29).          Courts to help each other                                                                  47
+[29](#29).          Courts to help each other
 
-[30](#30).          General powers of Courts in bankruptcy                                          48
+[30](#30).          General powers of Courts in bankruptcy
 
-[31](#31).          Exercise of jurisdiction                                                                       49
+[31](#31).          Exercise of jurisdiction
 
-[32](#32).          Costs                                                                                                  50
+[32](#32).          Costs
 
-[33](#33).          Adjournment, amendment of process and extension and abridgment of times        50
+[33](#33).          Adjournment, amendment of process and extension and abridgment of times
 
-[33A](#33A).       Alteration of filing date for statement of affairs                                50
+[33A](#33A).       Alteration of filing date for statement of affairs
 
-[34](#34).          Orders and commissions for examination of witnesses                     51
+[34](#34).          Orders and commissions for examination of witnesses
 
-[34A](#34A).       Standard of proof                                                                               51
+[34A](#34A).       Standard of proof
 
-[35](#35).          Family Court’s jurisdiction in bankruptcy where trustee is a party to property settlement or spousal maintenance proceedings etc                                                                                  51
+[35](#35).          Family Court’s jurisdiction in bankruptcy where trustee is a party to property settlement or spousal maintenance proceedings etc 
 
-[35A](#35A).       Transfer of proceedings to Family Court                                          53
+[35A](#35A).       Transfer of proceedings to Family Court
 
-[35B](#35B).       Family Court of Western Australia                                                   54
+[35B](#35B).       Family Court of Western Australia
 
-[36](#36).          Enforcement of orders etc                                                                  55
+[36](#36).          Enforcement of orders etc 
 
-[37](#37).          Power of Court to rescind orders etc                                                 55
+[37](#37).          Power of Court to rescind orders etc 
 
 **Part IV—Proceedings in connexion with bankruptcy** 
 
     **Division 1—Acts of bankruptcy**
 
-[40](#40).          Acts of bankruptcy                                                                           56
+[40](#40).          Acts of bankruptcy
 
-[41](#41).          Bankruptcy notices                                                                           60
+[41](#41).          Bankruptcy notices
 
-[42](#42).          Payment etc  of debt to Commonwealth or State after service of bankruptcy notice             62
+[42](#42).          Payment etc  of debt to Commonwealth or State after service of bankruptcy notice
 
     **Division 2—Creditors’ petitions**
 
-[43](#43).          Jurisdiction to make sequestration orders                                         63
+[43](#43).          Jurisdiction to make sequestration orders
 
-[44](#44).          Conditions on which creditor may petition                                       63
+[44](#44).          Conditions on which creditor may petition
 
-[45](#45).          Creditor’s petition against partnership                                             64
+[45](#45).          Creditor’s petition against partnership
 
-[46](#46).          Petition against 2 or more joint debtors                                             65
+[46](#46).          Petition against 2 or more joint debtors
 
-[47](#47).          Requirements as to creditor’s petition                                              65
+[47](#47).          Requirements as to creditor’s petition
 
-[49](#49).          Change of petitioners [_see_ Table B]                                                  65
+[49](#49).          Change of petitioners [_see_ Table B]
 
-[50](#50).          Taking control of debtor’s property before sequestration [_see_ Table B]                65
+[50](#50).          Taking control of debtor’s property before sequestration [_see_ Table B]
 
-[51](#51).          Costs of prosecuting creditor’s petition                                            67
+[51](#51).          Costs of prosecuting creditor’s petition
 
-[52](#52).          Proceedings and order on creditor’s petition                                     67
+[52](#52).          Proceedings and order on creditor’s petition
 
-[53](#53).          Consolidation of proceedings                                                            68
+[53](#53).          Consolidation of proceedings
 
-[54](#54).          Bankrupt’s statement of affairs                                                         68
+[54](#54).          Bankrupt’s statement of affairs
 
     **Division 2A—Declaration of intention to present debtor’s petition**
 
-[54A](#54A).       Presentation of declaration                                                                70
+[54A](#54A).       Presentation of declaration
 
-[54B](#54B).       When debtor disqualified from presenting declaration                      70
+[54B](#54B).       When debtor disqualified from presenting declaration
 
-[54C](#54C).       Acceptance or rejection of declaration                                               70
+[54C](#54C).       Acceptance or rejection of declaration
 
-[54D](#54D).       Official Receiver to give information to debtor                                 71
+[54D](#54D).       Official Receiver to give information to debtor
 
-[54E](#54E).        Enforcement suspended during stay period                                      71
+[54E](#54E).        Enforcement suspended during stay period
 
-[54F](#54F).        Duties of sheriff                                                                                 71
+[54F](#54F).        Duties of sheriff
 
-[54G](#54G).       Duty of court registrar                                                                       72
+[54G](#54G).       Duty of court registrar
 
-[54H](#54H).       Duties of person entitled to deduct money owing to declared debtor 72
+[54H](#54H).       Duties of person entitled to deduct money owing to declared debtor
 
-[54J](#54J).        Extension of time where this Division prevents the doing of an act 73
+[54J](#54J).        Extension of time where this Division prevents the doing of an act
 
-[54K](#54K).       Section 33 not to apply to this Division                                           73
+[54K](#54K).       Section 33 not to apply to this Division
 
-[54L](#54L).        Secured creditor’s rights under security not affected                        73
+[54L](#54L).        Secured creditor’s rights under security not affected
 
     **Division 3—Debtors’ petitions**
 
-[55](#55).          Debtor’s petition                                                                               74
+[55](#55).          Debtor’s petition
 
-[56A](#56A).       Persons who may present a debtor’s petition against a partnership 77
+[56A](#56A).       Persons who may present a debtor’s petition against a partnership
 
-[56B](#56B).       Presentation of a debtor’s petition against a partnership                  78
+[56B](#56B).       Presentation of a debtor’s petition against a partnership
 
-[56C](#56C).       Referral to the Court of a debtor’s petition against a partnership    78
+[56C](#56C).       Referral to the Court of a debtor’s petition against a partnership
 
-[56D](#56D).       Acceptance of a debtor’s petition against a partnership by the Official Receiver  80
+[56D](#56D).       Acceptance of a debtor’s petition against a partnership by the Official Receiver
 
-[56E](#56E).        Effects of acceptance of a debtor’s petition against a partnership    80
+[56E](#56E).        Effects of acceptance of a debtor’s petition against a partnership
 
-[56F](#56F).        Extra duties of non-petitioning partners who become bankrupts     81
+[56F](#56F).        Extra duties of non-petitioning partners who become bankrupts
 
-[56G](#56G).       Inspection of statements of affairs of partners and partnerships     81
+[56G](#56G).       Inspection of statements of affairs of partners and partnerships
 
-[57](#57).          Debtor’s petition by joint debtors who are not partners                  82
+[57](#57).          Debtor’s petition by joint debtors who are not partners
 
-[57A](#57A).       Time at which person becomes bankrupt on debtor’s petition         86
+[57A](#57A).       Time at which person becomes bankrupt on debtor’s petition
 
     **Division 4—Effect of bankruptcy on property and proceedings**
 
-[58](#58).          Vesting of property upon bankruptcy—general rule                        87
+[58](#58).          Vesting of property upon bankruptcy—general rule
 
-[58A](#58A).       Vesting of property upon bankruptcy—effect of orders in force under the proceeds of crime law       88
+[58A](#58A).       Vesting of property upon bankruptcy—effect of orders in force under the proceeds of crime law
 
-[59](#59).          Second or subsequent bankruptcy                                                     89
+[59](#59).          Second or subsequent bankruptcy
 
-[59A](#59A).       Orders under Part VIII or VIIIAB of the _Family Law Act 1975_        91
+[59A](#59A).       Orders under Part VIII or VIIIAB of the _Family Law Act 1975_
 
-[60](#60).          Stay of legal proceedings                                                                   91
+[60](#60).          Stay of legal proceedings
 
-[61](#61).          Actions by bankrupt partner’s trustee                                              93
+[61](#61).          Actions by bankrupt partner’s trustee
 
-[62](#62).          Actions on joint contracts                                                                 93
+[62](#62).          Actions on joint contracts
 
-[63](#63).          Death of bankrupt                                                                             94
+[63](#63).          Death of bankrupt
 
     **Division 5—Meetings of creditors** 
 
         **Subdivision A—Preliminary**
 
-[63A](#63A).       Definitions [_see_ Table B]                                                                   95
+[63A](#63A).       Definitions [_see_ Table B]
 
-[63B](#63B).       Trustee’s representative                                                                    96
+[63B](#63B).       Trustee’s representative
 
         **Subdivision B—Convening of meetings**
 
-[64](#64).          Trustee to convene meetings                                                             96
+[64](#64).          Trustee to convene meetings
 
-[64A](#64A).       Persons to whom notice of meeting to be given [_see_ Table B]          96
+[64A](#64A).       Persons to whom notice of meeting to be given [_see_ Table B]
 
-[64B](#64B).       Certain matters to be included in notice of meeting [_see_ Table B]    97
+[64B](#64B).       Certain matters to be included in notice of meeting [_see_ Table B]
 
-[64C](#64C).       If telephone conference facilities are available                                   97
+[64C](#64C).       If telephone conference facilities are available
 
-[64D](#64D).       Statement by creditor as to amount of debt [_see_ Table B]                98
+[64D](#64D).       Statement by creditor as to amount of debt [_see_ Table B]
 
-[64E](#64E).        Notice about voting by proxy [_see_ Table B]                                     99
+[64E](#64E).        Notice about voting by proxy [_see_ Table B]
 
-[64F](#64F).        Notice about appointment of attorney                                              99
+[64F](#64F).        Notice about appointment of attorney
 
-[64G](#64G).       Agenda to be set out in notice of meeting [_see_ Table B]                   99
+[64G](#64G).       Agenda to be set out in notice of meeting [_see_ Table B]
 
         **Subdivision C—Procedure before opening of meeting**
 
-[64H](#64H).       Creditors, or proxies or attorneys, participating by telephone       100
+[64H](#64H).       Creditors, or proxies or attorneys, participating by telephone
 
-[64J](#64J).        Preparation of attendance record [_see_ Table B]                               100
+[64J](#64J).        Preparation of attendance record [_see_ Table B]
 
         **Subdivision D—Procedure at meetings**
 
-[64K](#64K).       Opening of meeting [_see_ Table B]                                                   101
+[64K](#64K).       Opening of meeting [_see_ Table B]
 
-[64L](#64L).        Appointment of minutes secretary [_see_ Table B]                           102
+[64L](#64L).        Appointment of minutes secretary [_see_ Table B]
 
-[64M](#64M).      Announcement of proxies and attorneys                                         103
+[64M](#64M).      Announcement of proxies and attorneys
 
-[64N](#64N).       Quorum                                                                                            103
+[64N](#64N).       Quorum
 
-[64P](#64P).        Election of person to preside at meeting [_see_ Table B]                   104
+[64P](#64P).        Election of person to preside at meeting [_see_ Table B]
 
-[64Q](#64Q).       Whether holding of meeting is convenient to majority of creditors 105
+[64Q](#64Q).       Whether holding of meeting is convenient to majority of creditors
 
-[64R](#64R).       Tabling of bankrupt’s statement of affairs [_see_ Table B]                105
+[64R](#64R).       Tabling of bankrupt’s statement of affairs [_see_ Table B]
 
-[64S](#64S).        Statements and questions [_see_ Table B]                                          105
+[64S](#64S).        Statements and questions [_see_ Table B]
 
-[64T](#64T).       Motions [_see_ Table B]                                                                     106
+[64T](#64T).       Motions [_see_ Table B]
 
-[64U](#64U).       Remuneration of registered trustee [_see_ Table B]                            106
+[64U](#64U).       Remuneration of registered trustee [_see_ Table B]
 
-[64V](#64V).       Appointment of committee of inspection [_see_ Table B]                 107
+[64V](#64V).       Appointment of committee of inspection [_see_ Table B]
 
-[64W](#64W).      Other business [_see_ Table B]                                                           107
+[64W](#64W).      Other business [_see_ Table B]
 
-[64X](#64X).       Next meeting [_see_ Table B]                                                              108
+[64X](#64X).       Next meeting [_see_ Table B]
 
         **Subdivision E—Miscellaneous**
 
-[64Y](#64Y).       Adjournment of meeting [_see_ Table B]                                            108
+[64Y](#64Y).       Adjournment of meeting [_see_ Table B]
 
-[64Z](#64Z).       Duties of minutes secretary [_see_ Table B]                                      108
+[64Z](#64Z).       Duties of minutes secretary [_see_ Table B]
 
-[64ZA](#64ZA).    Entitlement to vote                                                                          110
+[64ZA](#64ZA).    Entitlement to vote
 
-[64ZB](#64ZB).     Manner of voting [_see_ Table B]                                                       111
+[64ZB](#64ZB).     Manner of voting [_see_ Table B]
 
-[64ZBA](#64ZBA).  Creditors’ resolution without meeting                                             113
+[64ZBA](#64ZBA).  Creditors’ resolution without meeting
 
-[64ZC](#64ZC).     Appointment of proxies [_see_ Table B]                                            114
+[64ZC](#64ZC).     Appointment of proxies [_see_ Table B]
 
-[64ZD](#64ZD).    Provisions relating to motions and amendments of motions           115
+[64ZD](#64ZD).    Provisions relating to motions and amendments of motions
 
-[64ZE](#64ZE).     Joint bankruptcies [_see_ Table B]                                                     115
+[64ZE](#64ZE).     Joint bankruptcies [_see_ Table B]
 
-[64ZF](#64ZF).     Substantial compliance to be sufficient                                           116
+[64ZF](#64ZF).     Substantial compliance to be sufficient
 
     **Division 5A—Committee of inspection**
 
-[70](#70).          Committee of inspection                                                                 117
+[70](#70).          Committee of inspection
 
-[71](#71).          Vacation of office etc                                                                       118
+[71](#71).          Vacation of office etc 
 
-[72](#72).          Member of committee not to purchase part of estate                     118
+[72](#72).          Member of committee not to purchase part of estate
 
     **Division 6—Composition or arrangement with creditors**
 
-[73](#73).          Composition or arrangement [_see_ Table B]                                     120
+[73](#73).          Composition or arrangement [_see_ Table B]
 
-[73A](#73A).       Trustee may require surety for cost of meeting                              121
+[73A](#73A).       Trustee may require surety for cost of meeting
 
-[73B](#73B).       Declaration of relationships by proposed trustee of composition or scheme of arrangement                121
+[73B](#73B).       Declaration of relationships by proposed trustee of composition or scheme of arrangement
 
-[73C](#73C).       Statement of affairs and declarations of relationships to be tabled at meeting        122
+[73C](#73C).       Statement of affairs and declarations of relationships to be tabled at meeting
 
-[74](#74).          Annulment of bankruptcy [_see_ Table B]                                         123
+[74](#74).          Annulment of bankruptcy [_see_ Table B]
 
-[74A](#74A).       Variation of composition or scheme of arrangement                       123
+[74A](#74A).       Variation of composition or scheme of arrangement
 
-[75](#75).          Effect of composition or scheme of arrangement [_see_ Table B]      124
+[75](#75).          Effect of composition or scheme of arrangement [_see_ Table B]
 
-[76](#76).          Application of Part VIII to trustee of a composition or arrangement 125
+[76](#76).          Application of Part VIII to trustee of a composition or arrangement
 
-[76A](#76A).       Meetings of creditors                                                                       125
+[76A](#76A).       Meetings of creditors
 
-[76B](#76B).       Setting aside and termination of a composition or scheme of arrangement              125
+[76B](#76B).       Setting aside and termination of a composition or scheme of arrangement
 
 **Part V—Control over person and property of debtors and bankrupts** 
 
     **Division 1—General**
 
-[77](#77).          Duties of bankrupt as to discovery etc  of property                      127
+[77](#77).          Duties of bankrupt as to discovery etc  of property
 
-[77AA](#77AA).    Access by Official Receiver and others to premises                       128
+[77AA](#77AA).    Access by Official Receiver and others to premises
 
-[77A](#77A).       Access by trustee to books of associated entity                             129
+[77A](#77A).       Access by trustee to books of associated entity
 
-[77C](#77C).       Power of Official Receiver to obtain information and evidence      130
+[77C](#77C).       Power of Official Receiver to obtain information and evidence
 
-[77D](#77D).       Allowances and expenses in respect of attendance                         131
+[77D](#77D).       Allowances and expenses in respect of attendance
 
-[77E](#77E).        Advance on account of allowances and expenses                            132
+[77E](#77E).        Advance on account of allowances and expenses
 
-[77F](#77F).        Allowances and expenses to be paid out of bankrupt’s estate [_see_ Table B]          133
+[77F](#77F).        Allowances and expenses to be paid out of bankrupt’s estate [_see_ Table B]
 
-[78](#78).          Arrest of debtor or bankrupt                                                           133
+[78](#78).          Arrest of debtor or bankrupt
 
-[80](#80).          Notification of change in name, address or day-time telephone number 134
+[80](#80).          Notification of change in name, address or day-time telephone number
 
-[81](#81).          Discovery of bankrupt’s property etc  [_see_ Table B]                     134
+[81](#81).          Discovery of bankrupt’s property etc  [_see_ Table B]
 
     **Division 2—Offshore information notices**
 
-[81A](#81A).       Issue of notices                                                                                139
+[81A](#81A).       Issue of notices
 
-[81B](#81B).       Extension of period of notice                                                           139
+[81B](#81B).       Extension of period of notice
 
-[81C](#81C).       Variation of notices                                                                          140
+[81C](#81C).       Variation of notices
 
-[81D](#81D).       Withdrawal of notices                                                                      141
+[81D](#81D).       Withdrawal of notices
 
-[81E](#81E).        Notices may be included in same document                                    141
+[81E](#81E).        Notices may be included in same document
 
-[81F](#81F).        Relationship between this Division and section 77C                      141
+[81F](#81F).        Relationship between this Division and section 77C
 
     **Division 3—Failure to comply with certain notices**
 
-[81G](#81G).       Effect of non-compliance with notice                                              142
+[81G](#81G).       Effect of non-compliance with notice
 
 **Part VI—Administration of property** 
 
     **Division 1—Proof of debts**
 
-[82](#82).          Debts provable in bankruptcy [_see_ Table B]                                  143
+[82](#82).          Debts provable in bankruptcy [_see_ Table B]
 
-[83](#83).          Debt not to be considered proved until admitted                            144
+[83](#83).          Debt not to be considered proved until admitted
 
-[84](#84).          Manner of proving debts                                                                 144
+[84](#84).          Manner of proving debts
 
-[85](#85).          Proof by employees                                                                        146
+[85](#85).          Proof by employees
 
-[86](#86).          Mutual credit and set-off                                                                 147
+[86](#86).          Mutual credit and set-off
 
-[87](#87).          Deduction of discounts [_see_ Table B]                                             147
+[87](#87).          Deduction of discounts [_see_ Table B]
 
-[88](#88).          Apportionment to principal and interest of payments made before bankruptcy [_see_ Table B]             147
+[88](#88).          Apportionment to principal and interest of payments made before bankruptcy [_see_ Table B]
 
-[89](#89).          Apportionment where security realized before or after bankruptcy 148
+[89](#89).          Apportionment where security realized before or after bankruptcy
 
-[90](#90).          Proof of debt by secured creditor                                                    148
+[90](#90).          Proof of debt by secured creditor
 
-[91](#91).          Redemption of security by trustee etc                                            149
+[91](#91).          Redemption of security by trustee etc 
 
-[92](#92).          Amendment of valuation                                                                 150
+[92](#92).          Amendment of valuation
 
-[93](#93).          Repayment of excess                                                                       150
+[93](#93).          Repayment of excess
 
-[94](#94).          Subsequent realization of security                                                   150
+[94](#94).          Subsequent realization of security
 
-[95](#95).          Proof in respect of distinct contracts [_see_ Table B]                        151
+[95](#95).          Proof in respect of distinct contracts [_see_ Table B]
 
-[96](#96).          Proof in respect of proportionate part of periodical payment        151
+[96](#96).          Proof in respect of proportionate part of periodical payment
 
-[97](#97).          Production of bills of exchange and promissory notes                    151
+[97](#97).          Production of bills of exchange and promissory notes
 
-[98](#98).          Amendment of proof of debt                                                           151
+[98](#98).          Amendment of proof of debt
 
-[100](#100).        Costs of proving debts etc                                                               152
+[100](#100).        Costs of proving debts etc 
 
-[101](#101).        Inspection of proofs by creditors etc                                              152
+[101](#101).        Inspection of proofs by creditors etc 
 
-[102](#102).        Admission or rejection of proofs                                                     152
+[102](#102).        Admission or rejection of proofs
 
-[103](#103).        Debts to be rounded down to nearest dollar                                    153
+[103](#103).        Debts to be rounded down to nearest dollar
 
-[104](#104).        Appeal against decision of trustee in respect of proof [_see_ Table B] 153
+[104](#104).        Appeal against decision of trustee in respect of proof [_see_ Table B]
 
-[105](#105).        Costs of appeal                                                                                154
+[105](#105).        Costs of appeal
 
-[106](#106).        Trustee may administer oaths etc                                                    154
+[106](#106).        Trustee may administer oaths etc 
 
-[107](#107).        Creditor not to receive more than the amount of his or her debt and interest         154
+[107](#107).        Creditor not to receive more than the amount of his or her debt and interest
 
     **Division 2—Order of payment of debts** 
 
         **Subdivision A—General**
 
-[108](#108).        Debts proved to rank equally except as otherwise provided          155
+[108](#108).        Debts proved to rank equally except as otherwise provided
 
-[109](#109).        Priority payments [_see_ Table B]                                                     155
+[109](#109).        Priority payments [_see_ Table B]
 
-[109A](#109A).     Debts due to employees [_see_ Table B]                                            159
+[109A](#109A).     Debts due to employees [_see_ Table B]
 
-[110](#110).        Application of estates of joint debtors [_see_ Table B]                     160
+[110](#110).        Application of estates of joint debtors [_see_ Table B]
 
-[113](#113).        Apprenticeship etc  claims [_see_ Table B]                                        160
+[113](#113).        Apprenticeship etc  claims [_see_ Table B]
 
-[114](#114).        Payment of liabilities etc  incurred under terminated deed etc  [_see_ Table B]         161
+[114](#114).        Payment of liabilities etc  incurred under terminated deed etc  [_see_ Table B]
 
         **Subdivision B—The effect of proceeds of crime orders and applications for proceeds of crime orders**
 
-[114A](#114A).     The effect of proceeds of crime orders                                            161
+[114A](#114A).     The effect of proceeds of crime orders
 
-[114B](#114B).     The effect of applications for proceeds of crime orders                  162
+[114B](#114B).     The effect of applications for proceeds of crime orders
 
-[114C](#114C).     Director of Public Prosecutions must notify the trustee of certain matters            162
+[114C](#114C).     Director of Public Prosecutions must notify the trustee of certain matters
 
     **Division 3—Property available for payment of debts** 
 
         **Subdivision A—General**
 
-[115](#115).        Commencement of bankruptcy                                                       163
+[115](#115).        Commencement of bankruptcy
 
-[116](#116).        Property divisible among creditors [_see_ Table B]                           164
+[116](#116).        Property divisible among creditors [_see_ Table B]
 
-[117](#117).        Policies of insurance against liabilities to third parties [_see_ Table B] 169
+[117](#117).        Policies of insurance against liabilities to third parties [_see_ Table B]
 
-[118](#118).        Execution by creditor against property of debtor who becomes a bankrupt etc  [_see_ Table B]              170
+[118](#118).        Execution by creditor against property of debtor who becomes a bankrupt etc  [_see_ Table B]
 
-[119](#119).        Duties of sheriff after receiving notice of presentation of petition etc  [_see_ Table B]             173
+[119](#119).        Duties of sheriff after receiving notice of presentation of petition etc  [_see_ Table B]
 
-[119A](#119A).     Duties of sheriff after receiving notice of bankruptcy etc  [_see_ Table B]                176
+[119A](#119A).     Duties of sheriff after receiving notice of bankruptcy etc  [_see_ Table B]
 
-[120](#120).        Undervalued transactions                                                                178
+[120](#120).        Undervalued transactions
 
-[121](#121).        Transfers to defeat creditors                                                            181
+[121](#121).        Transfers to defeat creditors
 
-[121A](#121A).     Transactions where consideration given to a third party                183
+[121A](#121A).     Transactions where consideration given to a third party
 
-[122](#122).        Avoidance of preferences [_see_ Table B]                                          184
+[122](#122).        Avoidance of preferences [_see_ Table B]
 
-[123](#123).        Protection of certain transfers of property against relation back etc  [_see_ Table B]               186
+[123](#123).        Protection of certain transfers of property against relation back etc  [_see_ Table B]
 
-[124](#124).        Protection of certain payments to bankrupt etc  [_see_ Table B]      187
+[124](#124).        Protection of certain payments to bankrupt etc  [_see_ Table B]
 
-[125](#125).        Certain accounts of undischarged bankrupt [_see_ Table B]              188
+[125](#125).        Certain accounts of undischarged bankrupt [_see_ Table B]
 
-[126](#126).        Dealings with undischarged bankrupt in respect of after-acquired property [_see_ Table B]    189
+[126](#126).        Dealings with undischarged bankrupt in respect of after-acquired property [_see_ Table B]
 
-[127](#127).        Limitation of time for making claims by trustee etc  [_see_ Table B] 190
+[127](#127).        Limitation of time for making claims by trustee etc  [_see_ Table B]
 
-[128](#128).        Notice to trustee where identity of vendor etc  with bankrupt in doubt 190
+[128](#128).        Notice to trustee where identity of vendor etc  with bankrupt in doubt
 
         **Subdivision B—Superannuation contributions**
 
-[128A](#128A).     Simplified outline                                                                             191
+[128A](#128A).     Simplified outline
 
-[128B](#128B).     Superannuation contributions made to defeat creditors—contributor is a person who later becomes a bankrupt 192
+[128B](#128B).     Superannuation contributions made to defeat creditors—contributor is a person who later becomes a bankrupt
 
-[128C](#128C).     Superannuation contributions made to defeat creditors—contributor is a third party            194
+[128C](#128C).     Superannuation contributions made to defeat creditors—contributor is a third party
 
-[128D](#128D).     Time for making claims by trustee                                                  197
+[128D](#128D).     Time for making claims by trustee
 
-[128E](#128E).      Superannuation account-freezing notice                                          197
+[128E](#128E).      Superannuation account-freezing notice
 
-[128F](#128F).      Revocation of superannuation account-freezing notice                   199
+[128F](#128F).      Revocation of superannuation account-freezing notice
 
-[128G](#128G).     Copy of superannuation account-freezing notice to be given to trustee etc            202
+[128G](#128G).     Copy of superannuation account-freezing notice to be given to trustee etc 
 
-[128H](#128H).     Consent of Official Receiver to the cashing etc  of a superannuation interest         202
+[128H](#128H).     Consent of Official Receiver to the cashing etc  of a superannuation interest
 
-[128J](#128J).      Power of Court to set aside superannuation account-freezing notice 203
+[128J](#128J).      Power of Court to set aside superannuation account-freezing notice
 
-[128K](#128K).     Judicial enforcement of superannuation account-freezing notices   204
+[128K](#128K).     Judicial enforcement of superannuation account-freezing notices
 
-[128L](#128L).      Protection of trustee of eligible superannuation plan                      204
+[128L](#128L).      Protection of trustee of eligible superannuation plan
 
-[128M](#128M).    References to a member of an eligible superannuation plan            206
+[128M](#128M).    References to a member of an eligible superannuation plan
 
-[128N](#128N).     Definitions                                                                                       206
+[128N](#128N).     Definitions
 
     **Division 4—Realization of property**
 
-[129](#129).        Trustee to take possession of property of bankrupt                      210
+[129](#129).        Trustee to take possession of property of bankrupt
 
-[129AA](#129AA).  Time limit for realising property                                                     211
+[129AA](#129AA).  Time limit for realising property
 
-[129A](#129A).     Eligible judges                                                                                  212
+[129A](#129A).     Eligible judges
 
-[130](#130).        Warrant for seizure of property connected with the bankrupt       212
+[130](#130).        Warrant for seizure of property connected with the bankrupt
 
-[132](#132).        Vesting and transfer of property                                                     214
+[132](#132).        Vesting and transfer of property
 
-[133](#133).        Disclaimer of onerous property [_see_ Table B]                                215
+[133](#133).        Disclaimer of onerous property [_see_ Table B]
 
-[134](#134).        Powers exercisable at discretion of trustee [_see_ Table B]                218
+[134](#134).        Powers exercisable at discretion of trustee [_see_ Table B]
 
-[136](#136).        Right to pay off mortgages [_see_ Table B]                                        220
+[136](#136).        Right to pay off mortgages [_see_ Table B]
 
-[137](#137).        Right of trustee to inspect goods held as security [_see_ Table B]    220
+[137](#137).        Right of trustee to inspect goods held as security [_see_ Table B]
 
-[138](#138).        Limitation of trustee’s power in respect of copyright, patents etc  [_see_ Table B] 221
+[138](#138).        Limitation of trustee’s power in respect of copyright, patents etc  [_see_ Table B]
 
-[139](#139).        Protection of trustee from personal liability in certain cases [_see_ Table B]            221
+[139](#139).        Protection of trustee from personal liability in certain cases [_see_ Table B]
 
     **Division 4A—Orders in relation to property of entity controlled by bankrupt or from which bankrupt derived a benefit**
 
-[139A](#139A).     Trustee may apply to Court                                                           223
+[139A](#139A).     Trustee may apply to Court
 
-[139B](#139B).     Application to be served on respondent entity                               223
+[139B](#139B).     Application to be served on respondent entity
 
-[139C](#139C).     Who may appear at hearing                                                             223
+[139C](#139C).     Who may appear at hearing
 
-[139CA](#139CA).  Definition of _examinable period_                                                      223
+[139CA](#139CA).  Definition of _examinable period_
 
-[139D](#139D).     Order relating to property of entity other than a natural person    224
+[139D](#139D).     Order relating to property of entity other than a natural person
 
-[139DA](#139DA).  Order relating to property of natural person                                   225
+[139DA](#139DA).  Order relating to property of natural person
 
-[139E](#139E).      Order relating to net worth of entity other than a natural person   226
+[139E](#139E).      Order relating to net worth of entity other than a natural person
 
-[139EA](#139EA).   Order relating to increase in value of property of natural person   227
+[139EA](#139EA).   Order relating to increase in value of property of natural person
 
-[139F](#139F).      Court to take account of interests of other persons                        227
+[139F](#139F).      Court to take account of interests of other persons
 
-[139G](#139G).     Giving effect to orders under this Division                                     227
+[139G](#139G).     Giving effect to orders under this Division
 
-[139H](#139H).     Entity entitled to claim in bankruptcy                                            228
+[139H](#139H).     Entity entitled to claim in bankruptcy
 
     **Division 4B—Contribution by bankrupt and recovery of property** 
 
         **Subdivision A—Preliminary**
 
-[139J](#139J).      Objects of Division                                                                          229
+[139J](#139J).      Objects of Division
 
         **Subdivision B—Interpretation**
 
-[139K](#139K).     Definitions                                                                                       229
+[139K](#139K).     Definitions
 
         **Subdivision C—Income**
 
-[139L](#139L).      Meaning of income                                                                          231
+[139L](#139L).      Meaning of income
 
-[139M](#139M).    Derivation of income                                                                       233
+[139M](#139M).    Derivation of income
 
-[139N](#139N).     Income varied by income tax payments and refunds and child support payments 234
+[139N](#139N).     Income varied by income tax payments and refunds and child support payments
 
         **Subdivision D—Liability of bankrupt to pay contributions**
 
-[139P](#139P).      Liability of bankrupt to pay contribution                                       235
+[139P](#139P).      Liability of bankrupt to pay contribution
 
-[139Q](#139Q).     Change in liability of bankrupt                                                        235
+[139Q](#139Q).     Change in liability of bankrupt
 
-[139R](#139R).     Liability not affected by subsequent discharge                               236
+[139R](#139R).     Liability not affected by subsequent discharge
 
-[139S](#139S).      Contribution payable by bankrupt                                                  236
+[139S](#139S).      Contribution payable by bankrupt
 
-[139T](#139T).     Determination of higher income threshold in cases of hardship      236
+[139T](#139T).     Determination of higher income threshold in cases of hardship
 
         **Subdivision E—Provision of information to trustee**
 
-[139U](#139U).     Bankrupt to provide evidence of income                                         238
+[139U](#139U).     Bankrupt to provide evidence of income
 
-[139V](#139V).     Power of trustee to require bankrupt to provide additional evidence 240
+[139V](#139V).     Power of trustee to require bankrupt to provide additional evidence
 
         **Subdivision F—Assessments of income and contribution**
 
-[139W](#139W).    Assessment of bankrupt’s income and contribution                       240
+[139W](#139W).    Assessment of bankrupt’s income and contribution
 
-[139WA](#139WA). No time limit on making assessment                                               241
+[139WA](#139WA). No time limit on making assessment
 
-[139X](#139X).     Basis of assessments                                                                       241
+[139X](#139X).     Basis of assessments
 
-[139Y](#139Y).     Trustee may regard bankrupt as receiving reasonable remuneration 242
+[139Y](#139Y).     Trustee may regard bankrupt as receiving reasonable remuneration
 
-[139Z](#139Z).     If bankrupt claims not to be in receipt of income                            243
+[139Z](#139Z).     If bankrupt claims not to be in receipt of income
 
         **Subdivision G—Review of assessment**
 
-[139ZA](#139ZA).  Internal review of assessment                                                          243
+[139ZA](#139ZA).  Internal review of assessment
 
-[139ZC](#139ZC).   Inspector-General may request further information                        244
+[139ZC](#139ZC).   Inspector-General may request further information
 
-[139ZD](#139ZD).  Decision on review                                                                          244
+[139ZD](#139ZD).  Decision on review
 
-[139ZE](#139ZE).   Inspector-General to notify bankrupt and trustee of decision        245
+[139ZE](#139ZE).   Inspector-General to notify bankrupt and trustee of decision
 
-[139ZF](#139ZF).   Review of assessment decisions                                                      246
+[139ZF](#139ZF).   Review of assessment decisions
 
         **Subdivision H—When contribution payable**
 
-[139ZG](#139ZG).  Payment of contribution                                                                  246
+[139ZG](#139ZG).  Payment of contribution
 
-[139ZH](#139ZH).  If excess contribution paid                                                               247
+[139ZH](#139ZH).  If excess contribution paid
 
-[139ZI](#139ZI).    Notice of determinations                                                                 247
+[139ZI](#139ZI).    Notice of determinations
 
         **Subdivision HA—Supervised account regime**
 
-[139ZIA](#139ZIA). Objects                                                                                             248
+[139ZIA](#139ZIA). Objects
 
-[139ZIB](#139ZIB). Definitions                                                                                       248
+[139ZIB](#139ZIB). Definitions
 
-[139ZIC](#139ZIC). Trustee may determine that the supervised account regime applies to the bankrupt             250
+[139ZIC](#139ZIC). Trustee may determine that the supervised account regime applies to the bankrupt
 
-[139ZID](#139ZID). Revocation of determination                                                            250
+[139ZID](#139ZID). Revocation of determination
 
-[139ZIDAWhen determination ceases to be in force](#139ZIDAWhen determination ceases to be in force).                                      251
+139ZIDAWhen determination ceases to be in force
 
-[139ZIE](#139ZIE).  Bankrupt must open and maintain supervised account                   252
+[139ZIE](#139ZIE).  Bankrupt must open and maintain supervised account
 
-[139ZIEANew supervised account](#139ZIEANew supervised account).                                                                253
+139ZIEANew supervised account
 
-[139ZIF](#139ZIF).  Bankrupt’s monetary income to be deposited to supervised account 254
+[139ZIF](#139ZIF).  Bankrupt’s monetary income to be deposited to supervised account
 
-[139ZIG](#139ZIG). Trustee to supervise withdrawals from supervised account           256
+[139ZIG](#139ZIG). Trustee to supervise withdrawals from supervised account
 
-[139ZIH](#139ZIH). Constructive income receipt arrangements                                      257
+[139ZIH](#139ZIH). Constructive income receipt arrangements
 
-[139ZIHANon-monetary income receipt arrangements](#139ZIHANon-monetary income receipt arrangements).                                 259
+139ZIHANon-monetary income receipt arrangements
 
-[139ZII](#139ZII).   Cash income                                                                                     260
+[139ZII](#139ZII).   Cash income
 
-[139ZIIA Keeping of books](#139ZIIA Keeping of books).                                                                            261
+139ZIIA Keeping of books
 
-[139ZIJ](#139ZIJ).  Injunctions                                                                                       262
+[139ZIJ](#139ZIJ).  Injunctions
 
-[139ZIK](#139ZIK). Interim injunctions                                                                           262
+[139ZIK](#139ZIK). Interim injunctions
 
-[139ZIL](#139ZIL).  Discharge etc  of injunctions                                                            262
+[139ZIL](#139ZIL).  Discharge etc  of injunctions
 
-[139ZIM Certain limits on granting injunctions not to apply](#139ZIM Certain limits on granting injunctions not to apply).                        263
+139ZIM Certain limits on granting injunctions not to apply
 
-[139ZIN](#139ZIN). Other powers of the Court unaffected                                            263
+[139ZIN](#139ZIN). Other powers of the Court unaffected
 
-[139ZIO](#139ZIO). Inspector-General may review trustee’s decision                           264
+[139ZIO](#139ZIO). Inspector-General may review trustee’s decision
 
-[139ZIP](#139ZIP).  Inspector-General may request further information                        265
+[139ZIP](#139ZIP).  Inspector-General may request further information
 
-[139ZIR](#139ZIR). Inspector-General’s decision on review                                          265
+[139ZIR](#139ZIR). Inspector-General’s decision on review
 
-[139ZIS](#139ZIS).  Inspector-General to notify bankrupt and trustee of decision        265
+[139ZIS](#139ZIS).  Inspector-General to notify bankrupt and trustee of decision
 
-[139ZIT](#139ZIT). AAT review of decisions                                                                 266
+[139ZIT](#139ZIT). AAT review of decisions
 
         **Subdivision I—Collection of money or property by Official Receiver from person other than the bankrupt**
 
-[139ZJ](#139ZJ).    Definition [_see_ Table B]                                                                  267
+[139ZJ](#139ZJ).    Definition [_see_ Table B]
 
-[139ZK](#139ZK).  Persons to whom Subdivision applies [_see_ Table B]                      267
+[139ZK](#139ZK).  Persons to whom Subdivision applies [_see_ Table B]
 
-[139ZL](#139ZL).   Official Receiver may require persons to make payments [_see_ Table B]                268
+[139ZL](#139ZL).   Official Receiver may require persons to make payments [_see_ Table B]
 
-[139ZM](#139ZM). Power of Court to set aside notice                                                  269
+[139ZM](#139ZM). Power of Court to set aside notice
 
-[139ZN](#139ZN).  Charge over property                                                                      270
+[139ZN](#139ZN).  Charge over property
 
-[139ZO](#139ZO).  Failure to comply with notice                                                         271
+[139ZO](#139ZO).  Failure to comply with notice
 
-[139ZP](#139ZP).   Employer not to dismiss or injure bankrupt because of giving of notice 271
+[139ZP](#139ZP).   Employer not to dismiss or injure bankrupt because of giving of notice
 
         **Subdivision J—Collection of money or property by Official Receiver from party to transaction that is void against the trustee**
 
-[139ZQ](#139ZQ).  Official Receiver may require payment [_see_ Table B]                     272
+[139ZQ](#139ZQ).  Official Receiver may require payment [_see_ Table B]
 
-[139ZR](#139ZR).   Charge over property [_see_ Table B]                                                274
+[139ZR](#139ZR).   Charge over property [_see_ Table B]
 
-[139ZS](#139ZS).   Power of Court to set aside notice                                                  275
+[139ZS](#139ZS).   Power of Court to set aside notice
 
-[139ZT](#139ZT).   Failure to comply with notice                                                         275
+[139ZT](#139ZT).   Failure to comply with notice
 
         **Subdivision K—Rolled-over superannuation interests etc.**
 
-[139ZU](#139ZU).  Order relating to rolled-over superannuation interests etc              275
+[139ZU](#139ZU).  Order relating to rolled-over superannuation interests etc 
 
-[139ZV](#139ZV).   Enforcement of order                                                                       277
+[139ZV](#139ZV).   Enforcement of order
 
-[139ZW](#139ZW).  Definitions                                                                                       277
+[139ZW](#139ZW).  Definitions
 
     **Division 5—Distribution of property**
 
-[140](#140).        Declaration and distribution of dividends                                        278
+[140](#140).        Declaration and distribution of dividends
 
-[141](#141).        Joint and separate dividends                                                            279
+[141](#141).        Joint and separate dividends
 
-[142](#142).        Apportionment of expenses of administration of joint and separate estates          279
+[142](#142).        Apportionment of expenses of administration of joint and separate estates
 
-[143](#143).        Provision to be made for creditors residing at a distance etc  [_see_ Table B]            279
+[143](#143).        Provision to be made for creditors residing at a distance etc  [_see_ Table B]
 
-[144](#144).        Right of creditor who has not proved debt before declaration of dividend              280
+[144](#144).        Right of creditor who has not proved debt before declaration of dividend
 
-[145](#145).        Final dividend                                                                                  280
+[145](#145).        Final dividend
 
-[146](#146).        Distribution of dividends where bankrupt fails to file statement of affairs [_see_ Table B]      281
+[146](#146).        Distribution of dividends where bankrupt fails to file statement of affairs [_see_ Table B]
 
-[147](#147).        No action for dividend                                                                     281
+[147](#147).        No action for dividend
 
 **Part VII—Discharge and annulment** 
 
     **Division 1—Preliminary**
 
-[148](#148).        Misleading conduct by bankrupt                                                     282
+[148](#148).        Misleading conduct by bankrupt
 
     **Division 2—Discharge by operation of law** 
 
         **Subdivision A—Discharge after certain period**
 
-[149](#149).        Automatic discharge                                                                        284
+[149](#149).        Automatic discharge
 
-[149A](#149A).     Bankruptcy extended when objection made                                    285
+[149A](#149A).     Bankruptcy extended when objection made
 
         **Subdivision B—Objections**
 
-[149B](#149B).     Objection to discharge                                                                     286
+[149B](#149B).     Objection to discharge
 
-[149C](#149C).     Form of notice of objection                                                             286
+[149C](#149C).     Form of notice of objection
 
-[149D](#149D).     Grounds of objection                                                                       287
+[149D](#149D).     Grounds of objection
 
-[149F](#149F).      Copy of notice of objection to be given to bankrupt                      288
+[149F](#149F).      Copy of notice of objection to be given to bankrupt
 
-[149G](#149G).     Date of effect of objection                                                               289
+[149G](#149G).     Date of effect of objection
 
-[149H](#149H).     Trustee ceasing to object on some grounds                                     289
+[149H](#149H).     Trustee ceasing to object on some grounds
 
-[149J](#149J).      Withdrawal of objection                                                                  289
+[149J](#149J).      Withdrawal of objection
 
         **Subdivision C—Review of objection**
 
-[149K](#149K).     Internal review of objection                                                             289
+[149K](#149K).     Internal review of objection
 
-[149M](#149M).    Inspector-General may request further information                        290
+[149M](#149M).    Inspector-General may request further information
 
-[149N](#149N).     Decision on review                                                                          291
+[149N](#149N).     Decision on review
 
-[149P](#149P).      Inspector-General to notify bankrupt and trustee of decision        292
+[149P](#149P).      Inspector-General to notify bankrupt and trustee of decision
 
-[149Q](#149Q).     Review of decisions                                                                         293
+[149Q](#149Q).     Review of decisions
 
     **Division 4—Provisions applicable to all discharges**
 
-[152](#152).        Discharged bankrupt to give assistance                                           294
+[152](#152).        Discharged bankrupt to give assistance
 
-[153](#153).        Effect of discharge                                                                           294
+[153](#153).        Effect of discharge
 
     **Division 5—Annulment of bankruptcy**
 
-[153A](#153A).     Annulment on payment of debts                                                     296
+[153A](#153A).     Annulment on payment of debts
 
-[153B](#153B).     Annulment by Court                                                                       297
+[153B](#153B).     Annulment by Court
 
-[154](#154).        Effect of annulment                                                                         297
+[154](#154).        Effect of annulment
 
 **Part VIII—Trustees** 
 
     **Division 1—Appointment and official name**
 
-[154A](#154A).     Application to become a registered trustee                                     299
+[154A](#154A).     Application to become a registered trustee
 
-[155](#155).        Processing of an application                                                            299
+[155](#155).        Processing of an application
 
-[155A](#155A).     Committee’s decision on an application                                          300
+[155A](#155A).     Committee’s decision on an application
 
-[155B](#155B).     Effect of committee’s decision                                                        302
+[155B](#155B).     Effect of committee’s decision
 
-[155C](#155C).     Registration as a trustee                                                                   302
+[155C](#155C).     Registration as a trustee
 
-[155D](#155D).     Extension of registration                                                                  303
+[155D](#155D).     Extension of registration
 
-[155E](#155E).      Application for change of conditions on practising as a registered trustee              303
+[155E](#155E).      Application for change of conditions on practising as a registered trustee
 
-[155F](#155F).      Decision on application for change of conditions                            304
+[155F](#155F).      Decision on application for change of conditions
 
-[155G](#155G).     Voluntary termination of registration                                              305
+[155G](#155G).     Voluntary termination of registration
 
-[155H](#155H).     Consideration of involuntary termination of registration                305
+[155H](#155H).     Consideration of involuntary termination of registration
 
-[155I](#155I).       Decision on involuntary termination of registration                        306
+[155I](#155I).       Decision on involuntary termination of registration
 
-[155J](#155J).      After termination of registration                                                      307
+[155J](#155J).      After termination of registration
 
-[155K](#155K).     Payment of fees etc  for application, registration and extension     307
+[155K](#155K).     Payment of fees etc  for application, registration and extension
 
-[156A](#156A).     Consent to act as trustee [_see_ Table B]                                           307
+[156A](#156A).     Consent to act as trustee [_see_ Table B]
 
-[157](#157).        Appointment of trustees [_see_ Table B]                                           309
+[157](#157).        Appointment of trustees [_see_ Table B]
 
-[158](#158).        Appointment of more than one trustee etc  [_see_ Table B]              310
+[158](#158).        Appointment of more than one trustee etc  [_see_ Table B]
 
-[159](#159).        Vacancy in office of trustee [_see_ Table B]                                       311
+[159](#159).        Vacancy in office of trustee [_see_ Table B]
 
-[160](#160).        Official Trustee to be trustee when no registered trustee is trustee [_see_ Table B]  311
+[160](#160).        Official Trustee to be trustee when no registered trustee is trustee [_see_ Table B]
 
-[161](#161).        Trustee may act in official name [_see_ Table B]                               311
+[161](#161).        Trustee may act in official name [_see_ Table B]
 
-[161A](#161A).     Registered trustee to notify Inspector-General of certain events    312
+[161A](#161A).     Registered trustee to notify Inspector-General of certain events
 
     **Division 2—Remuneration and costs**
 
-[161B](#161B).     Trustee’s remuneration—minimum entitlement [_see_ Table B]       313
+[161B](#161B).     Trustee’s remuneration—minimum entitlement [_see_ Table B]
 
-[162](#162).        Trustee’s remuneration—general [_see_ Table B]                              313
+[162](#162).        Trustee’s remuneration—general [_see_ Table B]
 
-[163](#163).        Remuneration of the Official Trustee                                              314
+[163](#163).        Remuneration of the Official Trustee
 
-[163A](#163A).     Costs and expenses of Official Receiver                                          314
+[163A](#163A).     Costs and expenses of Official Receiver
 
-[164](#164).        Two or more trustees acting in succession                                      315
+[164](#164).        Two or more trustees acting in succession
 
-[165](#165).        Trustee not to accept extra benefit etc                                            315
+[165](#165).        Trustee not to accept extra benefit etc 
 
-[167](#167).        Taxation of costs                                                                             316
+[167](#167).        Taxation of costs
 
     **Division 3—Accounts and audits**
 
-[168](#168).        Trustee not to pay moneys into private account                            318
+[168](#168).        Trustee not to pay moneys into private account
 
-[169](#169).        Trustee to pay moneys into bank account                                      318
+[169](#169).        Trustee to pay moneys into bank account
 
-[170](#170).        Trustee to give Official Receiver and bankrupt information etc  [_see_ Table B]       319
+[170](#170).        Trustee to give Official Receiver and bankrupt information etc  [_see_ Table B]
 
-[171](#171).        Trustee to give and obtain receipts                                                  319
+[171](#171).        Trustee to give and obtain receipts
 
-[173](#173).        Books to be kept by trustee [_see_ Table B]                                      320
+[173](#173).        Books to be kept by trustee [_see_ Table B]
 
-[174](#174).        Trustee’s books when trading                                                         320
+[174](#174).        Trustee’s books when trading
 
-[175](#175).        Audit of trustee’s accounts                                                             320
+[175](#175).        Audit of trustee’s accounts
 
-[176](#176).        Court may order trustee to make good loss caused by breach of duty 321
+[176](#176).        Court may order trustee to make good loss caused by breach of duty
 
     **Division 4—Control over trustees**
 
-[177](#177).        Control of creditors over trustees                                                    322
+[177](#177).        Control of creditors over trustees
 
-[178](#178).        Appeal to Court against trustee’s decision etc                                322
+[178](#178).        Appeal to Court against trustee’s decision etc 
 
-[179](#179).        Control of trustees by the Court                                                     322
+[179](#179).        Control of trustees by the Court
 
     **Division 5—Vacation of office**
 
-[180](#180).        Resignation of trustee [_see_ Table B]                                                323
+[180](#180).        Resignation of trustee [_see_ Table B]
 
-[181](#181).        Removal of trustee [_see_ Table B]                                                    323
+[181](#181).        Removal of trustee [_see_ Table B]
 
-[181A](#181A).     Streamlined method for replacing trustee [_see_ Table B]                  323
+[181A](#181A).     Streamlined method for replacing trustee [_see_ Table B]
 
-[182](#182).        Bankruptcy of trustee etc                                                                324
+[182](#182).        Bankruptcy of trustee etc 
 
-[183](#183).        Release of registered trustee by the Court                                       324
+[183](#183).        Release of registered trustee by the Court
 
-[184](#184).        Release of registered trustee by operation of law after 7 years       325
+[184](#184).        Release of registered trustee by operation of law after 7 years
 
-[184A](#184A).     Release of the Official Trustee                                                        325
+[184A](#184A).     Release of the Official Trustee
 
 **Part IX—Debt agreements** 
 
     **Division 1—Introduction**
 
-[185](#185).        Definitions                                                                                       327
+[185](#185).        Definitions
 
     **Division 2—Debt agreement proposals**
 
-[185C](#185C).     Giving a debt agreement proposal to the Official Receiver             329
+[185C](#185C).     Giving a debt agreement proposal to the Official Receiver
 
-[185D](#185D).     Statement of affairs to be given with a debt agreement proposal    333
+[185D](#185D).     Statement of affairs to be given with a debt agreement proposal
 
-[185E](#185E).      Accepting a debt agreement proposal for processing                      333
+[185E](#185E).      Accepting a debt agreement proposal for processing
 
-[185EA](#185EA).   Processing of debt agreement proposal                                           335
+[185EA](#185EA).   Processing of debt agreement proposal
 
-[185EB](#185EB).   Inspection of creditor’s statement                                                   336
+[185EB](#185EB).   Inspection of creditor’s statement
 
-[185EC](#185EC).   Acceptance of a debt agreement proposal                                       336
+[185EC](#185EC).   Acceptance of a debt agreement proposal
 
-[185ED](#185ED).   Cancellation of acceptance of debt agreement proposal for processing   337
+[185ED](#185ED).   Cancellation of acceptance of debt agreement proposal for processing
 
-[185F](#185F).      Effect of accepting a debt agreement proposal for processing        338
+[185F](#185F).      Effect of accepting a debt agreement proposal for processing
 
-[185G](#185G).     Lapsing of a debt agreement proposal                                             340
+[185G](#185G).     Lapsing of a debt agreement proposal
 
     **Division 3—Making a debt agreement**
 
-[185H](#185H).     Making a debt agreement                                                                 341
+[185H](#185H).     Making a debt agreement
 
-[185I](#185I).       Parties to a debt agreement                                                              342
+[185I](#185I).       Parties to a debt agreement
 
-[185K](#185K).     Prevention of proceedings relating to debts                                     342
+[185K](#185K).     Prevention of proceedings relating to debts
 
     **Division 3A—Duties of administrators**
 
-[185LA](#185LA).   Duties of an administrator—general                                                343
+[185LA](#185LA).   Duties of an administrator—general
 
-[185LB](#185LB).   Administrator to notify creditors of a 3-month arrears default by a debtor            343
+[185LB](#185LB).   Administrator to notify creditors of a 3-month arrears default by a debtor
 
-[185LC](#185LC).   Administrator to notify Official Receiver of a designated 6-month arrears default by a debtor             344
+[185LC](#185LC).   Administrator to notify Official Receiver of a designated 6-month arrears default by a debtor
 
-[185LD](#185LD).   Administrator to maintain separate bank account                           344
+[185LD](#185LD).   Administrator to maintain separate bank account
 
-[185LE](#185LE).   Administrator to keep accounts etc                                                 345
+[185LE](#185LE).   Administrator to keep accounts etc 
 
-[185LF](#185LF).   Succession of administrator                                                             346
+[185LF](#185LF).   Succession of administrator
 
-[185LG](#185LG).   Duties of an administrator in relation to debt agreements—extended meaning       347
+[185LG](#185LG).   Duties of an administrator in relation to debt agreements—extended meaning
 
     **Division 4—Varying a debt agreement**
 
-[185M](#185M).    Varying a debt agreement                                                                 348
+[185M](#185M).    Varying a debt agreement
 
-[185MA](#185MA). Procedures for dealing with proposals to vary debt agreements     348
+[185MA](#185MA). Procedures for dealing with proposals to vary debt agreements
 
-[185MB](#185MB). Inspection of creditor’s statement                                                   349
+[185MB](#185MB). Inspection of creditor’s statement
 
-[185MC](#185MC). Acceptance of a proposal to vary a debt agreement                        349
+[185MC](#185MC). Acceptance of a proposal to vary a debt agreement
 
-[185MD](#185MD). Withdrawal of proposal to vary a debt agreement                          350
+[185MD](#185MD). Withdrawal of proposal to vary a debt agreement
 
     **Division 5—Ending a debt agreement**
 
-[185N](#185N).     End of debt agreement on discharge of obligations under agreement 352
+[185N](#185N).     End of debt agreement on discharge of obligations under agreement
 
-[185NA](#185NA).  Release of debtor from debts                                                           353
+[185NA](#185NA).  Release of debtor from debts
 
-[185P](#185P).      Terminating a debt agreement by accepting a proposal                   353
+[185P](#185P).      Terminating a debt agreement by accepting a proposal
 
-[185PA](#185PA).   Procedures for dealing with proposals to terminate debt agreements 354
+[185PA](#185PA).   Procedures for dealing with proposals to terminate debt agreements
 
-[185PB](#185PB).   Inspection of creditor’s statement                                                   354
+[185PB](#185PB).   Inspection of creditor’s statement
 
-[185PC](#185PC).   Acceptance of a proposal to terminate a debt agreement                355
+[185PC](#185PC).   Acceptance of a proposal to terminate a debt agreement
 
-[185PD](#185PD).   Withdrawal of proposal to terminate a debt agreement                   356
+[185PD](#185PD).   Withdrawal of proposal to terminate a debt agreement
 
-[185Q](#185Q).     Terminating a debt agreement by order of the Court                       357
+[185Q](#185Q).     Terminating a debt agreement by order of the Court
 
-[185QA](#185QA).  Terminating a debt agreement—designated 6-month arrears default 358
+[185QA](#185QA).  Terminating a debt agreement—designated 6-month arrears default
 
-[185R](#185R).     Terminating a debt agreement by the bankruptcy of the debtor     358
+[185R](#185R).     Terminating a debt agreement by the bankruptcy of the debtor
 
-[185S](#185S).      Validity of things done under a debt agreement that was terminated 358
+[185S](#185S).      Validity of things done under a debt agreement that was terminated
 
     **Division 6—Voiding a debt agreement**
 
-[185T](#185T).     Applying for an order declaring a debt agreement void                   359
+[185T](#185T).     Applying for an order declaring a debt agreement void
 
-[185U](#185U).     Making an order declaring a debt agreement void                            360
+[185U](#185U).     Making an order declaring a debt agreement void
 
-[185V](#185V).     Validity of things done under a debt agreement that was declared void  361
+[185V](#185V).     Validity of things done under a debt agreement that was declared void
 
     **Division 7—General provisions relating to debt agreements**
 
-[185W](#185W).    Court directions to the Official Receiver                                         362
+[185W](#185W).    Court directions to the Official Receiver
 
-[185X](#185X).     No stamp duty payable on a debt agreement                                  362
+[185X](#185X).     No stamp duty payable on a debt agreement
 
-[185XA](#185XA).  Secured creditors                                                                              362
+[185XA](#185XA).  Secured creditors
 
-[185Y](#185Y).     Money received by administrator to be held on trust                     362
+[185Y](#185Y).     Money received by administrator to be held on trust
 
-[185Z](#185Z).     Remuneration of administrator                                                        362
+[185Z](#185Z).     Remuneration of administrator
 
-[185ZA](#185ZA).  Notification of death of administrator                                             363
+[185ZA](#185ZA).  Notification of death of administrator
 
-[185ZB](#185ZB).   Official Trustee to replace an administrator who dies etc               363
+[185ZB](#185ZB).   Official Trustee to replace an administrator who dies etc 
 
-[185ZC](#185ZC).   Official Receiver may appoint a new administrator                        364
+[185ZC](#185ZC).   Official Receiver may appoint a new administrator
 
-185ZCA Court may order administrator to make good loss caused by breach of duty         365
+185ZCA Court may order administrator to make good loss caused by breach of duty
 
-[185ZCB Control of administrators by the Court](#185ZCB Control of administrators by the Court).                                          365
+185ZCB Control of administrators by the Court
 
-[185ZD](#185ZD).  Remuneration of administrator                                                        365
+[185ZD](#185ZD).  Remuneration of administrator
 
     **Division 8—Registration of debt agreement administrators etc.** 
 
         **Subdivision A—Introduction**
 
-[186A](#186A).     Basic eligibility test                                                                         366
+[186A](#186A).     Basic eligibility test
 
         **Subdivision B—Registration of debt agreement administrators**
 
-[186B](#186B).     Application for registration as a debt agreement administrator       368
+[186B](#186B).     Application for registration as a debt agreement administrator
 
-[186C](#186C).     Inspector-General must approve or refuse to approve registration application     368
+[186C](#186C).     Inspector-General must approve or refuse to approve registration application
 
-[186D](#186D).     Registration as a debt agreement administrator                               370
+[186D](#186D).     Registration as a debt agreement administrator
 
-[186E](#186E).      Duration of registration as a debt agreement administrator             371
+[186E](#186E).      Duration of registration as a debt agreement administrator
 
-[186F](#186F).      Conditions of registration—general                                                 371
+[186F](#186F).      Conditions of registration—general
 
-[186G](#186G).     Condition of registration—companies                                             371
+[186G](#186G).     Condition of registration—companies
 
-[186H](#186H).     Application to change or remove registration conditions                372
+[186H](#186H).     Application to change or remove registration conditions
 
         **Subdivision C—Surrender and cancellation of registration as a debt agreement administrator**
 
-[186J](#186J).      Surrender of registration as a debt agreement administrator            373
+[186J](#186J).      Surrender of registration as a debt agreement administrator
 
-[186K](#186K).     Cancellation of an individual’s registration as a debt agreement administrator        373
+[186K](#186K).     Cancellation of an individual’s registration as a debt agreement administrator
 
-[186L](#186L).      Cancellation of a company’s registration as a debt agreement administrator          375
+[186L](#186L).      Cancellation of a company’s registration as a debt agreement administrator
 
-[186LA](#186LA).   Inspector-General may obtain information about debt agreement administration trust accounts           376
+[186LA](#186LA).   Inspector-General may obtain information about debt agreement administration trust accounts
 
-[186LB](#186LB).   Account-freezing notices—debt agreement administration trust accounts              377
+[186LB](#186LB).   Account-freezing notices—debt agreement administration trust accounts
 
-[186LC](#186LC).   Power of court to set aside account-freezing notices                      379
+[186LC](#186LC).   Power of court to set aside account-freezing notices
 
-[186LD](#186LD).   Judicial enforcement of account-freezing notices                            380
+[186LD](#186LD).   Judicial enforcement of account-freezing notices
 
-[186LE](#186LE).   Protection of bank                                                                           380
+[186LE](#186LE).   Protection of bank
 
         **Subdivision D—Ineligibility of a person to act as a debt agreement administrator**
 
-[186M](#186M).    Inspector-General may declare a person ineligible to act as an administrator         380
+[186M](#186M).    Inspector-General may declare a person ineligible to act as an administrator
 
         **Subdivision E—Miscellaneous**
 
-[186N](#186N).     Return of certificate of registration                                                  381
+[186N](#186N).     Return of certificate of registration
 
-[186P](#186P).      Cessation of registration as a debt agreement administrator—no refund of fees     383
+[186P](#186P).      Cessation of registration as a debt agreement administrator—no refund of fees
 
-[186Q](#186Q).     Guidelines relating to Inspector-General’s powers                         384
+[186Q](#186Q).     Guidelines relating to Inspector-General’s powers
 
 **Part X—Personal insolvency agreements** 
 
     **Division 1—Interpretation**
 
-[187](#187).        Interpretation                                                                                   385
+[187](#187).        Interpretation
 
-[187A](#187A).     Application of Part to joint debtors [_see_ Table B]                          385
+[187A](#187A).     Application of Part to joint debtors [_see_ Table B]
 
     **Division 2—Meeting of creditors and control of debtor’s property**
 
-[188](#188).        Debtor may authorise trustee or solicitor to be controlling trustee [_see_ Table B]   386
+[188](#188).        Debtor may authorise trustee or solicitor to be controlling trustee [_see_ Table B]
 
-[188A](#188A).     Personal insolvency agreement [_see_ Table B]                                  388
+[188A](#188A).     Personal insolvency agreement [_see_ Table B]
 
-[188B](#188B).     Inspection of statement of debtor’s affairs                                     390
+[188B](#188B).     Inspection of statement of debtor’s affairs
 
-[189](#189).        Control of property of a debtor who has given authority under section 188          390
+[189](#189).        Control of property of a debtor who has given authority under section 188
 
-[189AAAStay of proceedings relating to creditor’s petition until meeting  of debtor’s creditors](#189AAAStay of proceedings relating to creditor’s petition until meeting  of debtor’s creditors).                                                                       391
+189AAAStay of proceedings relating to creditor’s petition until meeting 
+ of debtor’s creditors
 
-[189AA](#189AA).  Court orders with effect during period of control of debtor’s property 392
+[189AA](#189AA).  Court orders with effect during period of control of debtor’s property
 
 [189AB](#189AB).  Charge over debtor’s property that is subject to control                      
- [_see_ Table B]                                                                                    393
+ [_see_ Table B]
 
-[189AC](#189AC).  Right of indemnity for controlling trustee                                       394
+[189AC](#189AC).  Right of indemnity for controlling trustee
 
-[189A](#189A).     Report and declaration by controlling trustee                                 395
+[189A](#189A).     Report and declaration by controlling trustee
 
-[189B](#189B).     Controlling trustee to prepare statement about possible resolutions 396
+[189B](#189B).     Controlling trustee to prepare statement about possible resolutions
 
-[190](#190).        Duties and powers of controlling trustee                                        396
+[190](#190).        Duties and powers of controlling trustee
 
-[190A](#190A).     Additional duties of controlling trustee                                           397
+[190A](#190A).     Additional duties of controlling trustee
 
-[191](#191).        Payments to protect property etc                                                   398
+[191](#191).        Payments to protect property etc 
 
-[192](#192).        Changing the controlling trustee                                                      398
+[192](#192).        Changing the controlling trustee
 
-[194](#194).        Time for calling meeting                                                                   399
+[194](#194).        Time for calling meeting
 
-[194A](#194A).     Statement of affairs and declarations of relationships to be tabled at meeting        399
+[194A](#194A).     Statement of affairs and declarations of relationships to be tabled at meeting
 
-[195](#195).        Debtor to attend meeting                                                                 400
+[195](#195).        Debtor to attend meeting
 
-[196](#196).        Procedure for calling and holding meeting                                        401
+[196](#196).        Procedure for calling and holding meeting
 
-[204](#204).        Resolution for personal insolvency agreement                                401
+[204](#204).        Resolution for personal insolvency agreement
 
-[205](#205).        Duties of sheriff after receiving notice of signing of authority under section 188 etc             402
+[205](#205).        Duties of sheriff after receiving notice of signing of authority under section 188 etc 
 
-[205A](#205A).     Duties of sheriff after receiving notice of execution of personal insolvency agreement etc     405
+[205A](#205A).     Duties of sheriff after receiving notice of execution of personal insolvency agreement etc 
 
-[206](#206).        Court may adjourn hearing of petition where creditors have passed resolution for personal insolvency agreement                                                                                                         409
+[206](#206).        Court may adjourn hearing of petition where creditors have passed resolution for personal insolvency agreement
 
-[207](#207).        Surrender of security etc  where secured creditor has voted           410
+[207](#207).        Surrender of security etc  where secured creditor has voted
 
-[208](#208).        Termination of control of debtor’s property by the Court             411
+[208](#208).        Termination of control of debtor’s property by the Court
 
-[209](#209).        Acts of controlling trustee to bind trustee of subsequent personal insolvency agreement or bankruptcy              411
+[209](#209).        Acts of controlling trustee to bind trustee of subsequent personal insolvency agreement or bankruptcy
 
-[210](#210).        Other provisions about controlling trustee                                      412
+[210](#210).        Other provisions about controlling trustee
 
-[211](#211).        Other provisions about debtor                                                        412
+[211](#211).        Other provisions about debtor
 
     **Division 3—General provisions**
 
-[215](#215).        Eligibility to be trustee of personal insolvency agreement              413
+[215](#215).        Eligibility to be trustee of personal insolvency agreement
 
-[215A](#215A).     Nomination or appointment of trustee of personal insolvency agreement              413
+[215A](#215A).     Nomination or appointment of trustee of personal insolvency agreement
 
-[216](#216).        Execution of personal insolvency agreements                                 414
+[216](#216).        Execution of personal insolvency agreements
 
-[217](#217).        Failure of trustee to execute personal insolvency agreement           414
+[217](#217).        Failure of trustee to execute personal insolvency agreement
 
-[218](#218).        Notice of execution of personal insolvency agreement                    415
+[218](#218).        Notice of execution of personal insolvency agreement
 
-[219](#219).        Trustee may sue, be sued etc  by official name                               415
+[219](#219).        Trustee may sue, be sued etc  by official name
 
-[220](#220).        Filling of vacancy in office of trustee after execution of personal insolvency agreement etc  416
+[220](#220).        Filling of vacancy in office of trustee after execution of personal insolvency agreement etc 
 
-[221](#221).        Sequestration order where debtor fails to attend meeting, execute personal insolvency agreement etc   417
+[221](#221).        Sequestration order where debtor fails to attend meeting, execute personal insolvency agreement etc 
 
-[221A](#221A).     Variation of personal insolvency agreement                                    418
+[221A](#221A).     Variation of personal insolvency agreement
 
-[222](#222).        Court may set aside personal insolvency agreement                       419
+[222](#222).        Court may set aside personal insolvency agreement
 
-[222A](#222A).     Termination of personal insolvency agreement by trustee              422
+[222A](#222A).     Termination of personal insolvency agreement by trustee
 
-[222B](#222B).     Termination of personal insolvency agreement by creditors           423
+[222B](#222B).     Termination of personal insolvency agreement by creditors
 
-[222C](#222C).     Court may terminate personal insolvency agreement                      423
+[222C](#222C).     Court may terminate personal insolvency agreement
 
-[222D](#222D).     Termination of personal insolvency agreement by occurrence of terminating event               425
+[222D](#222D).     Termination of personal insolvency agreement by occurrence of terminating event
 
-[223](#223).        Calling of meetings after the first meeting                                       425
+[223](#223).        Calling of meetings after the first meeting
 
-[223A](#223A).     Rules in relation to meetings                                                            425
+[223A](#223A).     Rules in relation to meetings
 
-[224](#224).        Validity of acts if personal insolvency agreement set aside or terminated              426
+[224](#224).        Validity of acts if personal insolvency agreement set aside or terminated
 
-[224A](#224A).     Notice that a personal insolvency agreement has been set aside, varied or terminated           426
+[224A](#224A).     Notice that a personal insolvency agreement has been set aside, varied or terminated
 
-[225](#225).        Evidence of personal insolvency agreement, resolution etc             427
+[225](#225).        Evidence of personal insolvency agreement, resolution etc 
 
-[226](#226).        Creditor may inspect personal insolvency agreement etc               428
+[226](#226).        Creditor may inspect personal insolvency agreement etc 
 
-[227](#227).        Stamp duty not payable on personal insolvency agreements etc  entered into under this Part              428
+[227](#227).        Stamp duty not payable on personal insolvency agreements etc  entered into under this Part
 
-[229](#229).        Personal insolvency agreement to bind all creditors                        429
+[229](#229).        Personal insolvency agreement to bind all creditors
 
-[230](#230).        Release of provable debts                                                                430
+[230](#230).        Release of provable debts
 
-[231](#231).        Application of general provisions of Act to personal insolvency agreements        431
+[231](#231).        Application of general provisions of Act to personal insolvency agreements
 
-[231A](#231A).     Right of debtor to remaining property                                            432
+[231A](#231A).     Right of debtor to remaining property
 
-[232](#232).        Certificate relating to discharge of obligations                                 433
+[232](#232).        Certificate relating to discharge of obligations
 
 **Part XI—Administration of estates of deceased persons in bankruptcy**
 
-[244](#244).        Administration of estates under this Part upon petition by creditor 434
+[244](#244).        Administration of estates under this Part upon petition by creditor
 
-[245](#245).        Debtor dying after presentation of creditor’s petition                    436
+[245](#245).        Debtor dying after presentation of creditor’s petition
 
-[246](#246).        Statement of deceased debtor’s affairs etc  by legal personal representative          437
+[246](#246).        Statement of deceased debtor’s affairs etc  by legal personal representative
 
-[247](#247).        Petition for administration under this Part by person administering deceased person’s estate              437
+[247](#247).        Petition for administration under this Part by person administering deceased person’s estate
 
-[247A](#247A).     Commencement of administration under Part                                 438
+[247A](#247A).     Commencement of administration under Part
 
-[248](#248).        Application of Act in relation to administrations under this Part   439
+[248](#248).        Application of Act in relation to administrations under this Part
 
-[248A](#248A).     Consolidation of proceedings                                                          440
+[248A](#248A).     Consolidation of proceedings
 
-[249](#249).        Vesting of property on making of order                                          441
+[249](#249).        Vesting of property on making of order
 
-[249A](#249A).     Charge over property owned in joint tenancy                                 448
+[249A](#249A).     Charge over property owned in joint tenancy
 
-[250](#250).        Effect of order under Part where deceased person was bankrupt   449
+[250](#250).        Effect of order under Part where deceased person was bankrupt
 
-[251](#251).        Real property devised by will that vests directly in devisee to form part of estate in certain cases      452
+[251](#251).        Real property devised by will that vests directly in devisee to form part of estate in certain cases
 
-[252](#252).        Liability of legal personal representative                                         452
+[252](#252).        Liability of legal personal representative
 
-[252A](#252A).     Annulment on payment of debts                                                     453
+[252A](#252A).     Annulment on payment of debts
 
-[252B](#252B).     Annulment by Court                                                                       454
+[252B](#252B).     Annulment by Court
 
-[252C](#252C).     Effect of annulment                                                                         454
+[252C](#252C).     Effect of annulment
 
 **Part XIA—Farmers’ debts assistance**
 
-[253A](#253A).     Interpretation                                                                                   456
+[253A](#253A).     Interpretation
 
-[253B](#253B).     Law of State or Territory may be proclaimed                                 456
+[253B](#253B).     Law of State or Territory may be proclaimed
 
-[253C](#253C).     Notice about stay under proclaimed law                                         457
+[253C](#253C).     Notice about stay under proclaimed law
 
-[253E](#253E).      Relevant authority may apply for stay of proceedings under certain petitions      457
+[253E](#253E).      Relevant authority may apply for stay of proceedings under certain petitions
 
-[253F](#253F).      Relevant authority may be heard on application relating to debtor’s petition        457
+[253F](#253F).      Relevant authority may be heard on application relating to debtor’s petition
 
 **Part XII—Unclaimed dividends or moneys**
 
-[254](#254).        Payment of unclaimed moneys to the Commonwealth                   459
+[254](#254).        Payment of unclaimed moneys to the Commonwealth
 
 **Part XIII—Evidence**
 
-[255](#255).        Record of proceedings or evidence                                                  461
+[255](#255).        Record of proceedings or evidence
 
-[256](#256).        Evidence of matters stated in notices published in _Gazette_             461
+[256](#256).        Evidence of matters stated in notices published in _Gazette_
 
-[257](#257).        Evidence of proceedings at meetings of creditors or committee of inspection        461
+[257](#257).        Evidence of proceedings at meetings of creditors or committee of inspection
 
-[258](#258).        Presumption about due convening of meetings etc                          461
+[258](#258).        Presumption about due convening of meetings etc 
 
-[262](#262).        Swearing of affidavits                                                                      462
+[262](#262).        Swearing of affidavits
 
 **Part XIV—Offences**
 
-[263](#263).        Concealment etc  of property etc                                                    463
+[263](#263).        Concealment etc  of property etc 
 
-[263A](#263A).     False affidavits                                                                                 464
+[263A](#263A).     False affidavits
 
-[263C](#263C).     False claims about a creditor’s entitlement to vote                         465
+[263C](#263C).     False claims about a creditor’s entitlement to vote
 
-[264A](#264A).     Failure of person to attend before the Court etc                             465
+[264A](#264A).     Failure of person to attend before the Court etc 
 
-[264B](#264B).     Arrest of person failing to attend before the Court etc                   466
+[264B](#264B).     Arrest of person failing to attend before the Court etc 
 
-[264C](#264C).     Refusal to be sworn or give evidence etc                                         467
+[264C](#264C).     Refusal to be sworn or give evidence etc 
 
-[264D](#264D).     Prevarication or evasion in the course of examination                     468
+[264D](#264D).     Prevarication or evasion in the course of examination
 
-[264E](#264E).      Offences in relation to Registrar or magistrate conducting an examination              468
+[264E](#264E).      Offences in relation to Registrar or magistrate conducting an examination
 
-[265](#265).        Failure of bankrupt or debtor to disclose property etc                   469
+[265](#265).        Failure of bankrupt or debtor to disclose property etc 
 
-[265A](#265A).     Offences relating to exercise of powers under section 77A or 130 472
+[265A](#265A).     Offences relating to exercise of powers under section 77A or 130
 
-[266](#266).        Disposing or charging of property by person who becomes, or has become, a bankrupt       473
+[266](#266).        Disposing or charging of property by person who becomes, or has become, a bankrupt
 
-[267](#267).        False declaration by debtor or bankrupt                                          473
+[267](#267).        False declaration by debtor or bankrupt
 
-[267B](#267B).     Failure of person to provide information                                        474
+[267B](#267B).     Failure of person to provide information
 
-[267D](#267D).     Failure of person to attend                                                              474
+[267D](#267D).     Failure of person to attend
 
-[267E](#267E).      Arrest of person failing to attend before Official Receiver or authorised officer     474
+[267E](#267E).      Arrest of person failing to attend before Official Receiver or authorised officer
 
-[267F](#267F).      Refusal to be sworn or give evidence etc                                         475
+[267F](#267F).      Refusal to be sworn or give evidence etc 
 
-[267G](#267G).     Prevarication or evasion in the course of giving evidence                476
+[267G](#267G).     Prevarication or evasion in the course of giving evidence
 
-[268](#268).        Offences in relation to personal insolvency agreements                  476
+[268](#268).        Offences in relation to personal insolvency agreements
 
-[269](#269).        Bankrupt obtaining credit etc  without disclosing bankruptcy       479
+[269](#269).        Bankrupt obtaining credit etc  without disclosing bankruptcy
 
-[270](#270).        Failure to keep proper books of account                                         480
+[270](#270).        Failure to keep proper books of account
 
-[271](#271).        Gambling or hazardous speculations                                               480
+[271](#271).        Gambling or hazardous speculations
 
-[272](#272).        Leaving Australia with intent to defeat creditors etc                       481
+[272](#272).        Leaving Australia with intent to defeat creditors etc 
 
-[273](#273).        Trial of offences                                                                               482
+[273](#273).        Trial of offences
 
-[275](#275).        Criminal liability not affected by discharge etc                               482
+[275](#275).        Criminal liability not affected by discharge etc 
 
-[276](#276).        Trustee acting under a personal insolvency agreement that has been set aside       483
+[276](#276).        Trustee acting under a personal insolvency agreement that has been set aside
 
-[277](#277).        Punishment of contempt of court                                                    483
+[277](#277).        Punishment of contempt of court
 
-[277A](#277A).     Keeping of books in respect of period of bankruptcy                    483
+[277A](#277A).     Keeping of books in respect of period of bankruptcy
 
 **Part XV—Provisions relating to the Bankruptcy (Estate Charges) Act 1997**
 
-[278](#278).        Interpretation                                                                                   485
+[278](#278).        Interpretation
 
-[279](#279).        Administration of, and powers and functions in relation to, the Charges Acts       485
+[279](#279).        Administration of, and powers and functions in relation to, the Charges Acts
 
-[280](#280).        Deferred payment of interest charge or realisations charge             485
+[280](#280).        Deferred payment of interest charge or realisations charge
 
-[281](#281).        Late payment penalty—interest charge and realisations charge      487
+[281](#281).        Late payment penalty—interest charge and realisations charge
 
-[282](#282).        Extension of time for payment—interest charge and realisations charge 487
+[282](#282).        Extension of time for payment—interest charge and realisations charge
 
-[283](#283).        Remission of interest charge, realisations charge and late payment penalty           487
+[283](#283).        Remission of interest charge, realisations charge and late payment penalty
 
-[284](#284).        Recovery of interest charge, realisations charge and late payment penalty             488
+[284](#284).        Recovery of interest charge, realisations charge and late payment penalty
 
-[285](#285).        Payments by cheque or payment order                                           488
+[285](#285).        Payments by cheque or payment order
 
-[286](#286).        Regulations may deal with other matters                                        489
+[286](#286).        Regulations may deal with other matters
 
 **Part XVI—Miscellaneous**
 
-[301](#301).        Certain provisions in contracts etc  to be void                                490
+[301](#301).        Certain provisions in contracts etc  to be void
 
-[302](#302).        Certain provisions in bills of sale etc  to be void                             490
+[302](#302).        Certain provisions in bills of sale etc  to be void
 
-[302A](#302A).     Certain provisions in governing rules of superannuation funds and approved deposit funds to be void                491
+[302A](#302A).     Certain provisions in governing rules of superannuation funds and approved deposit funds to be void
 
-[302AB](#302AB).  Certain provisions in RSA’s terms and conditions to be void        492
+[302AB](#302AB).  Certain provisions in RSA’s terms and conditions to be void
 
-[302B](#302B).     Certain provisions in trust deeds void                                             492
+[302B](#302B).     Certain provisions in trust deeds void
 
-[303](#303).        Applications to Court                                                                     493
+[303](#303).        Applications to Court
 
-[304](#304).        Parts of dollar to be disregarded in determining majority in value of creditors etc  493
+[304](#304).        Parts of dollar to be disregarded in determining majority in value of creditors etc 
 
-[304A](#304A).     Indexation                                                                                        493
+[304A](#304A).     Indexation
 
-[305](#305).        Payment of expenses by Commonwealth                                       496
+[305](#305).        Payment of expenses by Commonwealth
 
-[306](#306).        Formal defect not to invalidate proceedings                                    497
+[306](#306).        Formal defect not to invalidate proceedings
 
-[306A](#306A).     Protection of Registrars, magistrates etc  in relation to examinations 497
+[306A](#306A).     Protection of Registrars, magistrates etc  in relation to examinations
 
-[306B](#306B).     Protection in respect of reports                                                       498
+[306B](#306B).     Protection in respect of reports
 
-[307](#307).        Proceedings in firm name                                                                 498
+[307](#307).        Proceedings in firm name
 
-[308](#308).        Representation of corporation etc                                                   498
+[308](#308).        Representation of corporation etc 
 
-[309](#309).        Service of notices etc                                                                       498
+[309](#309).        Service of notices etc 
 
-[311](#311).        Stamp duty not payable on trustee’s cheques or receipts              499
+[311](#311).        Stamp duty not payable on trustee’s cheques or receipts
 
-[312](#312).        Return or destruction of old accounts and records                          499
+[312](#312).        Return or destruction of old accounts and records
 
-[313](#313).        Audit of accounts and records of the Official Trustee and the Official Receivers   500
+[313](#313).        Audit of accounts and records of the Official Trustee and the Official Receivers
 
-[315](#315).        Regulations                                                                                      501
+[315](#315).        Regulations
 
-[316](#316).        Legislative instruments determining fees                                         503
+[316](#316).        Legislative instruments determining fees
 
 **Schedule 1—Acts repealed** 
 
@@ -1471,7 +1476,7 @@ as if those Acts had not been repealed.
 
                      (b)  someone who is a child of the person within the meaning of the _Family Law Act 1975_.
 
-                    <a name="close-rel"></a>**_close relative_**, in relation to a person, means a spouse, de facto partner, parent, child, brother, sister, half-brother, or half-sister, of the person.
+                    <a name="close-rel"></a>**_close relative_**, in relation to a person, means a spouse, de facto partner, parent, child, brother, sister, half-brother, or half-sister, of the person.
 
                     <a name="compani"></a>**_company_** means a corporation, other than a corporation that is incorporated within Australia or an external Territory and is:
 
@@ -1527,7 +1532,7 @@ but does not include:
 
                     <a name="declar-debtor"></a>**_declared debtor_** means a debtor who has presented under section 54A a declaration of intention.
 
-                    <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
+                    <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
 
                     <a name="director"></a>**_director_**, in relation to a corporation, includes:
 
@@ -1542,6 +1547,8 @@ but does not include:
                              (ii)  any person occupying or acting in the position of member of that committee of management, council or other governing body, by whatever name called and whether or not validly appointed to occupy, or duly authorised to act, in the position; and
 
                             (iii)  any person in accordance with whose directions or instructions the members of that committee of management, council or other governing body are accustomed to act.
+
+                    <a name="district"></a>**_District_** means a part of Australia declared to be a Bankruptcy District for the purposes of this Act.
 
                     <a name="elig-judg"></a>**_eligible judge_** means a judge of the Court declared by the Minister to be an eligible judge under subsection 129A(2).
 
@@ -1787,7 +1794,7 @@ Note:          Section 188A sets out requirements for person
 
                       (f)  a relative  of such a beneficiary;
 
-                     (g)  a relative of the spouse, or de facto partner, of such a beneficiary;
+                     (g)  a relative of the spouse, or de facto partner, of such a beneficiary;
 
                      (h)  a trustee of a trust under which the person, or a relative of the person, is a beneficiary;
 
@@ -1809,7 +1816,7 @@ For the purposes of paragraph (c) of this definition, the question whether a b
 
                       (f)  the spouse of a person specified in paragraph (b), (c), (d) or (e).
 
-For the purposes of this definition, **_spouse_** includes de facto partner.
+For the purposes of this definition, **_spouse_** includes de facto partner.
 
 Note:          **_Parent_** and **_child_** are defined by this subsection.
 
@@ -1871,7 +1878,7 @@ whichever happens first.
 
                     <a name="stai-proclaim-law"></a>**_stay under a proclaimed law_**, in relation to a person or the estate of a deceased person, means a stay, by or under a proclaimed law, of proceedings or of execution in relation to all or any of the debts of that person or of that estate, as the case may be.
 
-                    <a name="stepchild"></a><a name="stepchild"></a>**_stepchild_**: without limiting who is a stepchild of a person for the purposes of this Act, someone is the **_stepchild_** of a person if he or she would be the person’s stepchild except that the person is not legally married to the person’s de facto partner.
+                    <a name="stepchild"></a><a name="stepchild"></a>**_stepchild_**: without limiting who is a stepchild of a person for the purposes of this Act, someone is the **_stepchild_** of a person if he or she would be the person’s stepchild except that the person is not legally married to the person’s de facto partner.
 
                     <a name="territori"></a>**_Territory_**, except in the expression“Territory of the Commonwealth”, means the Australian Capital Territory or the Northern Territory of Australia.
 
@@ -1885,7 +1892,11 @@ whichever happens first.
 
                     <a name="feral-court"></a>**_the Federal Court_** means the Federal Court of Australia.
 
-                    <a name="offici-receiv"></a>**_the Official Receiver_** means any Official Receiver.
+                    <a name="offici-receiv"></a>**_the Official Receiver_**:
+
+                     (a)  in relation to a matter referred to in section 5AA, means the Official Receiver for the District in which the matter originated, as determined under section 5AA; and
+
+                     (b)  in any other case, means any Official Receiver.
 
                     <a name="properti-bankrupt"></a>**_the property of the bankrupt_**, in relation to a bankrupt, means:
 
@@ -1941,11 +1952,155 @@ whichever happens first.
 
              (6)  For the purposes of this Act, the members of a person’s family are taken to include the following (without limitation):
 
-                     (a)  a de facto partner of the person;
+                     (a)  a de facto partner of the person;
 
                      (b)  someone who is the child of the person, or of whom the person is the child, because of the definition of **_child_** in this section;
 
                      (c)  anyone else who would be a member of the person’s family if someone mentioned in paragraph (a) or (b) is taken to be a member of the person’s family.
+
+##### <a id="5AA"></a>5AA  Place of origin of bankruptcy and insolvency matters
+
+             (1)  This section identifies the place of origin of each of the matters set out in column 2 of the table. The place of origin of each matter is worked out using column 3 of the table.
+
+<table>
+<colgroup>
+  <col width="6%">
+  <col width="46%">
+  <col width="48%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>Place of origin of bankruptcy and insolvency matters</b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div>
+        <b>Matter</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Place of origin</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Bankruptcy that resulted from acceptance of a debtor’s petition</div>
+  </td>
+  <td>
+    <div>The District in which the debtor’s petition was accepted</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      2
+    </div>
+  </td>
+  <td>
+    <div>Any other bankruptcy</div>
+  </td>
+  <td>
+    <div>The District in which the sequestration order was made</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      3
+    </div>
+  </td>
+  <td>
+    <div>Control of a debtor’s property under section 50</div>
+  </td>
+  <td>
+    <div>The District in which the Court made an order directing a trustee to take
+      control of the debtor’s property</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      4
+    </div>
+  </td>
+  <td>
+    <div>Scheme of arrangement or composition under Division 6 of Part IV</div>
+  </td>
+  <td>
+    <div>The District in which there originated the bankruptcy that was annulled
+      under section 74 on acceptance of the proposal for the scheme or composition</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      5
+    </div>
+  </td>
+  <td>
+    <div>Matter relating to a debt agreement proposal</div>
+  </td>
+  <td>
+    <div>The District in which the debt agreement proposal was accepted for processing</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      6
+    </div>
+  </td>
+  <td>
+    <div>Part X administration</div>
+  </td>
+  <td>
+    <div>The District in which the Official Receiver was given a copy of the authority
+      under section 188 that relates to the administration</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      7
+    </div>
+  </td>
+  <td>
+    <div>Administration under Part XI</div>
+  </td>
+  <td>
+    <div>The District in which the Court made the order for the administration</div>
+  </td>
+</tr></table>
+
+             (2)  For the purposes of item 6 of the table, an authority under section 188 relates to a personal insolvency agreement if a special resolution relating to the agreement was passed at a meeting of creditors called under the authority.
+
+             (3)  In this section:
+
+                    <a name="matter-relat-debt-agreem-propos"></a>**_matter relating to a debt agreement proposal_** includes:
+
+                     (a)  a debt agreement; and
+
+                     (b)  an activity required or permitted by a debt agreement.
+
+                    <a name="part-administr"></a>**_Part X administration_** means:
+
+                     (a)  an activity that a controlling trustee may or must carry out after consenting to exercise powers given by an authority under section 188 (including control of a debtor’s property under Division 2 of Part X); or
+
+                     (b)  a personal insolvency agreement.
 
 ##### <a id="5A"></a>5A  Acting in accordance with a person’s directions or instructions
 
@@ -2079,7 +2234,7 @@ done or made at that time, in relation to that matter, by or on behalf of the en
 
              (4)  A person shall not be taken to control a company at a particular time in relation to a matter if the company is not a private company at that time.
 
-##### <a id="5G"></a>5G  Financial affairs of a company
+##### <a id="5G"></a>5G  Financial affairs of a company
 
                    For the purposes of this Act, a company’s financial affairs include:
 
@@ -2409,9 +2564,13 @@ the giving of the notification, or the breach, as the case may be, is taken to b
 
                      (b)  subject to section 64ZA, is entitled to participate in any such meeting as the Inspector-General thinks fit.
 
+##### <a id="13"></a>13  Bankruptcy Districts
+
+                   The Inspector-General, by notice in the _Gazette_, may declare any part, or any parts, of Australia to be a Bankruptcy District for the purposes of this Act.
+
 ##### <a id="15"></a>15  Official Receivers
 
-             (1)  There is to be such number of Official Receivers as the Minister thinks necessary.
+             (1)  There shall be for each District an Official Receiver and such officers to assist the Official Receiver in the performance of his or her functions under this Act as are necessary.
 
              (3)  Each Official Receiver has such powers and functions as are conferred or imposed on an Official Receiver by this Act.
 
@@ -2465,43 +2624,17 @@ Note:          Section 303 explains who may apply to the Cou
 
              (7)  All courts (whether exercising federal jurisdiction or not), and all persons acting judicially, shall take judicial notice of the mark of such a seal affixed on a document and shall, in the absence of proof to the contrary, presume that it was duly affixed.
 
-             (8)  The Official Receiver may exercise the powers, and perform the functions, of the Official Trustee.
+             (8)  The Official Receiver for a District may exercise the powers, and perform the functions, of the Official Trustee that relate to a matter that is determined under section 5AA to have originated in that District.
 
        (8AA)  In exercising powers or performing functions under subsection (8), an Official Receiver must act in the name of, and on behalf of, the Official Trustee.
 
           (8A)  All acts and things done in the name of, or on behalf of, the Official Trustee by any Official Receiver, shall be deemed to have been done by the Official Trustee.
 
-          (8B)  The Inspector-General may exercise any of the powers, and perform any of the functions, of the Official Trustee that are not related to any of the following matters:
-
-                     (a)  a bankruptcy;
-
-                     (b)  control of a debtor’s property under section 50;
-
-                     (c)  a scheme of arrangement or composition under Division 6 of Part IV;
-
-                     (d)  a matter relating to a debt agreement proposal;
-
-                     (e)  Part X administration;
-
-                      (f)  administration under Part XI.
+          (8B)  The Inspector-General may exercise any of the powers, and perform any of the functions, of the Official Trustee that are not mentioned in subsection (8).
 
           (8C)  In exercising powers or performing functions under subsection (8B), the Inspector-General must act in the name of, and on behalf of, the Official Trustee.
 
           (8D)  Anything done by the Inspector-General in the name of, or on behalf of, the Official Trustee is taken to have been done by the Official Trustee.
-
-           (8E)  In subsection (8B):
-
-                    <a name="matter-relat-debt-agreem-propos"></a>**_matter relating to a debt agreement proposal_** includes:
-
-                     (a)  a debt agreement; and
-
-                     (b)  an activity required or permitted by a debt agreement.
-
-                    <a name="part-administr"></a>**_Part X administration_** means:
-
-                     (a)  an activity that a controlling trustee may or must carry out after consenting to exercise powers given by an authority under section 188 (including control of a debtor’s property under Division 2 of Part X); or
-
-                     (b)  a personal insolvency agreement.
 
              (9)  Where, under a provision of this Act, the exercise of a power or the performance of a function by the Official Trustee is dependent upon the opinion, belief or state of mind of the Official Trustee in relation to a matter:
 
@@ -2626,6 +2759,8 @@ so far as they relate to the bankruptcy.
              (3)  All moneys (other than moneys to which subsection (8) applies) held by the Official Trustee at the commencement of this section, including moneys that, at that time, are held on deposit with a bank under subsection 172(1), and all investments made under that subsection and held by the Official Trustee at that time, shall form part of the Common Fund.
 
              (4)  The Official Trustee shall open and maintain, with an ADI or ADIs, such accounts for the purposes of the Common Fund as are necessary for the purposes of the Common Fund.
+
+             (5)  The Official Trustee shall ensure that at all times at least one account referred to in subsection (4) is maintained for each District, or, if the Official Trustee thinks fit, for any 2 or more Districts having the same Official Receiver.
 
              (6)  The payment of moneys into an account referred to in subsection (4) shall be deemed to be the payment of those moneys into the Common Fund.
 
@@ -2975,15 +3110,15 @@ then, at and after that time, the Family Court has jurisdiction in bankruptcy in
 
           (1A)  If, at a particular time:
 
-                     (a)  a party to a de facto relationship is a bankrupt; and
+                     (a)  a party to a de facto relationship is a bankrupt; and
 
                      (b)  the trustee of the bankrupt’s estate is:
 
-                              (i)  a party to property settlement proceedings in relation to either or both of the parties to the de facto relationship; or
+                              (i)  a party to property settlement proceedings in relation to either or both of the parties to the de facto relationship; or
 
-                             (ii)  an applicant under section 90SN of the _Family Law Act 1975_ for the variation or setting aside of an order made under section 90SM of that Act in property settlement proceedings in relation to either or both of the parties to the de facto relationship; or
+                             (ii)  an applicant under section 90SN of the _Family Law Act 1975_ for the variation or setting aside of an order made under section 90SM of that Act in property settlement proceedings in relation to either or both of the parties to the de facto relationship; or
 
-                            (iii)  a party to maintenance proceedings under Part VIIIAB of the _Family Law Act 1975_ in relation to the maintenance of one of the parties to the de facto relationship;
+                            (iii)  a party to maintenance proceedings under Part VIIIAB of the _Family Law Act 1975_ in relation to the maintenance of one of the parties to the de facto relationship;
 
 then, at and after that time, the Family Court has jurisdiction in bankruptcy in relation to any matter connected with, or arising out of, the bankruptcy of the bankrupt.
 
@@ -3049,7 +3184,7 @@ then, at and after that time, the Family Court has jurisdiction in bankruptcy in
 
              (1)  Sections 27, 35 (other than subsection (1A)) and 35A apply to the Family Court of Western Australia in a corresponding way to the way in which they apply to the Family Court of Australia.
 
-          (1A)  Despite subsection (1), section 35A does not apply to the Family Court of Western Australia in relation to a de facto financial cause (within the meaning of the _Family Law Act 1975_).
+          (1A)  Despite subsection (1), section 35A does not apply to the Family Court of Western Australia in relation to a de facto financial cause (within the meaning of the _Family Law Act 1975_).
 
              (2)  Paragraph 35A(3)(f) has effect, in relation to a proceeding transferred to the Family Court of Western Australia, as if:
 
@@ -3414,7 +3549,7 @@ to be examined on oath under this section about the debtor and the debtor’s ex
 
 and, if it is satisfied with the proof of those matters, may make a sequestration order against the estate of the debtor.
 
-          (1A)  If the Court makes a sequestration order, the creditor who obtained the order must give a copy of it to the Official Receiver.
+          (1A)  If the Court makes a sequestration order, the creditor who obtained the order must give a copy of it to the Official Receiver for the District in which the order was made.
 
              (2)  If the Court is not satisfied with the proof of any of those matters, or is satisfied by the debtor:
 
@@ -3456,7 +3591,7 @@ and, if the Court does so, those estates shall be administered accordingly.
 
              (1)  Where a sequestration order is made, the person against whose estate it is made shall, within 14 days from the day on which he or she is notified of the bankruptcy:
 
-                     (a)  make out and file with the Official Receiver a statement of his or her affairs; and
+                     (a)  make out and file with the Official Receiver for the District in which the sequestration order was made a statement of his or her affairs; and
 
                      (b)  furnish a copy of the statement to the trustee.
 
@@ -3464,7 +3599,7 @@ and, if the Court does so, those estates shall be administered accordingly.
 
              (2)  Where a sequestration order is made against 2 or more joint debtors (whether partners or not), each of those persons shall (in addition to complying with subsection (1) in relation to his or her affairs), within 14 days from the day on which he or she is notified of the bankruptcy, and either on his or her own account or jointly with another or others of those debtors:
 
-                     (a)  make out and file in the office of the Official Receiver a statement of the joint affairs of those persons; and
+                     (a)  make out and file in the office of the Official Receiver for the District in which the sequestration order was made a statement of the joint affairs of those persons; and
 
                      (b)  furnish a copy of the statement to the trustee.
 
@@ -3850,7 +3985,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (5)  The Official Receiver may refuse to allow a person access under this section to particular information in a statement of affairs on the ground that access to that information would jeopardise, or be likely to jeopardise, the safety of any person.
 
-##### <a id="57"></a>57  Debtor’s petition by joint debtors who are not partners
+##### <a id="57"></a>57  Debtor’s petition by joint debtors who are not partners
 
              (1)  Where joint debtors are not in partnership with one another, the debtors, or any 2 or more of the debtors, may present to the Official Receiver a petition jointly against themselves.
 
@@ -4100,9 +4235,9 @@ Notifying the trustee of grounds for subsection 58(1) to apply to property
 
              (4)  Notwithstanding anything contained in this section, a bankrupt may continue, in his or her own name, an action commenced by him or her before he or she became a bankrupt in respect of:
 
-                     (a)  any personal injury or wrong done to the bankrupt, his or her spouse or de facto partner or a member of his or her family; or
+                     (a)  any personal injury or wrong done to the bankrupt, his or her spouse or de facto partner or a member of his or her family; or
 
-                     (b)  the death of his or her spouse or de facto partner or of a member of his or her family.
+                     (b)  the death of his or her spouse or de facto partner or of a member of his or her family.
 
 Note:          See also subsection 5(6).
 
@@ -4806,9 +4941,9 @@ the continuing members may act notwithstanding the vacancy and may appoint an el
 
 he or she may lodge with the trustee a proposal in writing signed by him or her setting out the terms of the proposed composition or scheme of arrangement and particulars of any sureties or securities forming part of the proposal.
 
-          (1A)  The trustee must, within 2 working days after receiving the proposal, give a copy of the proposal to the Official Receiver.
+          (1A)  The trustee must, within 2 working days after receiving the proposal, give a copy of the proposal to the Official Receiver for the District in which the bankrupt resides.
 
-          (1B)  For the purposes of subsection (1A), a **_working day_** is a day that is not a Saturday, Sunday or public holiday in the place in which the bankrupt resides.
+          (1B)  For the purposes of subsection (1A), a **_working day_** is a day that is not a Saturday, Sunday or public holiday in the District in which the bankrupt resides.
 
              (2)  The trustee shall call a meeting of creditors and shall send to each creditor before the meeting a copy of the proposal accompanied by a report on it.
 
@@ -5961,7 +6096,7 @@ is property divisible amongst the creditors of the bankrupt.
 
                      (d)  subject to sections 128B, 128C and 139ZU:
 
-                              (i)  policies of life assurance or endowment assurance in respect of the life of the bankrupt or the spouse or de facto partner of the bankrupt;
+                              (i)  policies of life assurance or endowment assurance in respect of the life of the bankrupt or the spouse or de facto partner of the bankrupt;
 
                              (ii)  the proceeds of such policies received on or after the date of the bankruptcy;
 
@@ -5993,9 +6128,9 @@ is property divisible amongst the creditors of the bankrupt.
 
                      (g)  any right of the bankrupt to recover damages or compensation:
 
-                              (i)  for personal injury or wrong done to the bankrupt, the spouse or de facto partner of the bankrupt or a member of the family of the bankrupt; or
+                              (i)  for personal injury or wrong done to the bankrupt, the spouse or de facto partner of the bankrupt or a member of the family of the bankrupt; or
 
-                             (ii)  in respect of the death of the spouse or de facto partner of the bankrupt or a member of the family of the bankrupt;
+                             (ii)  in respect of the death of the spouse or de facto partner of the bankrupt or a member of the family of the bankrupt;
 
                             and any damages or compensation recovered by the bankrupt (whether before or after he or she became a bankrupt) in respect of such an injury or wrong or the death of such a person;
 
@@ -6021,7 +6156,7 @@ Note:       See also subsection 5(6).
 
                      (q)  any property that, under an order under Part VIII of the _Family Law Act 1975_, the trustee is required to transfer to the spouse, or a former spouse, of the bankrupt;
 
-                      (r)  any property that, under an order under Part VIIIAB of the _Family Law Act 1975_, the trustee is required to transfer to a former de facto partner of the bankrupt.
+                      (r)  any property that, under an order under Part VIIIAB of the _Family Law Act 1975_, the trustee is required to transfer to a former de facto partner of the bankrupt.
 
           (2B)  Where, because of a resolution passed by the creditors, or an order made by the Court, under paragraph (2)(b), (c) or (ca), property that is vested in the trustee ceases at a particular time to be property divisible among the creditors, then, immediately after that time:
 
@@ -6322,15 +6457,15 @@ What is not consideration
 
                      (a)  the fact that the transferee is related to the transferor;
 
-                     (b)  if the transferee is the spouse or de facto partner of the transferor—the transferee making a deed in favour of the transferor;
+                     (b)  if the transferee is the spouse or de facto partner of the transferor—the transferee making a deed in favour of the transferor;
 
-                     (c)  the transferee’s promise to marry, or to become the de facto partner of, the transferor;
+                     (c)  the transferee’s promise to marry, or to become the de facto partner of, the transferor;
 
                      (d)  the transferee’s love or affection for the transferor;
 
                      (e)  if the transferee is the spouse, or a former spouse, of the transferor—the transferee granting the transferor a right to live at the transferred property, unless the grant relates to a transfer or settlement of property, or an agreement, under the _Family Law Act 1975_;
 
-                      (f)  if the transferee is a former de facto partner of the transferor—the transferee granting the transferor a right to live at the transferred property, unless the grant relates to a transfer or settlement of property, or an agreement, under the _Family Law Act 1975_.
+                      (f)  if the transferee is a former de facto partner of the transferor—the transferee granting the transferor a right to live at the transferred property, unless the grant relates to a transfer or settlement of property, or an agreement, under the _Family Law Act 1975_.
 
 Protection of successors in title
 
@@ -6398,15 +6533,15 @@ What is not consideration
 
                      (a)  the fact that the transferee is related to the transferor;
 
-                     (b)  if the transferee is the spouse or de facto partner of the transferor—the transferee making a deed in favour of the transferor;
+                     (b)  if the transferee is the spouse or de facto partner of the transferor—the transferee making a deed in favour of the transferor;
 
-                     (c)  the transferee’s promise to marry, or to become the de facto partner of, the transferor;
+                     (c)  the transferee’s promise to marry, or to become the de facto partner of, the transferor;
 
                      (d)  the transferee’s love or affection for the transferor;
 
                      (e)  if the transferee is the spouse, or a former spouse, of the transferor—the transferee granting the transferor a right to live at the transferred property, unless the grant relates to a transfer or settlement of property, or an agreement, under the _Family Law Act 1975_;
 
-                      (f)  if the transferee is a former de facto partner of the transferor—the transferee granting the transferor a right to live at the transferred property, unless the grant relates to a transfer or settlement of property, or an agreement, under the _Family Law Act 1975_.
+                      (f)  if the transferee is a former de facto partner of the transferor—the transferee granting the transferor a right to live at the transferred property, unless the grant relates to a transfer or settlement of property, or an agreement, under the _Family Law Act 1975_.
 
 Exemption of transfers of property under debt agreements
 
@@ -6682,9 +6817,9 @@ the recovery of superannuation contributions made to defeat the bankrupt’s
 
 creditors.</li>
 
-<li class="BoxList" style="margin-left:21.25pt;page-break-after:avoid">•      There
+<li class="BoxList" style="margin-left:21.25pt">•      There are 2 types of
 
-are 2 types of recoverable contributions:</li>
+recoverable contributions:</li>
 
                (a)     contributions made by a person who later becomes a bankrupt (see section 128B);
 
@@ -6790,7 +6925,7 @@ Transfers that are void
 
                              (ii)  to hinder or delay the process of making property available for division among the beneficiary’s creditors; and
 
-                      (f)  the transfer occurred on or after 28 July 2006;
+                      (f)  the transfer occurred on or after  28 July 2006;
 
 the transfer is void against the trustee in the beneficiary’s bankruptcy.
 
@@ -7486,7 +7621,7 @@ the property, notwithstanding that it vests in equity in the person named in the
 
                     <a name="mortgage"></a>**_mortgagee_** includes the person entitled to the benefit of a charge.
 
-##### <a id="134"></a>134  Powers exercisable at discretion of trustee [_see_ Table B]
+##### <a id="134"></a>134  Powers exercisable at discretion of trustee [_see_ Table B]
 
              (1)  Subject to this Act, the trustee may do all or any of the following things:
 
@@ -7532,7 +7667,7 @@ the property, notwithstanding that it vests in equity in the person named in the
 
                             and, in consideration of the bankrupt’s services, make such allowance to the bankrupt out of the estate as the trustee considers reasonable;
 
-                   (ma)  make such allowance out of the estate as he or she thinks just to the bankrupt, the spouse or de facto partner of the bankrupt or the family of the bankrupt;
+                   (ma)  make such allowance out of the estate as he or she thinks just to the bankrupt, the spouse or de facto partner of the bankrupt or the family of the bankrupt;
 
 Note:       See also subsection 5(6).
 
@@ -7845,7 +7980,7 @@ For the purposes of this definition, **_income_** has its ordinary meaning.
 
                     <a name="origin-assess"></a>**_original assessment_**, in relation to a contribution assessment period, means the assessment made by the trustee under subsection 139W(1) in respect of that period.
 
-                    <a name="spous"></a>**_spouse_**, in relation to a bankrupt, includes a de facto partner of the bankrupt.
+                    <a name="spous"></a>**_spouse_**, in relation to a bankrupt, includes a de facto partner of the bankrupt.
 
                     <a name="subsequ-assess"></a>**_subsequent assessment_**, in relation to a contribution assessment period, means an assessment made by the trustee under subsection 139W(2) in respect of that period.
 
@@ -7969,7 +8104,7 @@ Note:          Subdivision HA deals with the supervised accoun
 
                    The contribution that a bankrupt is liable to pay in respect of a contribution assessment period is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00509/Html/Bankruptcy1966_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00092/Html/Bankruptcy1966_WD02_image002.gif)
 
                     where:
 
@@ -10388,7 +10523,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  If a registered trustee becomes bankrupt, becomes a party (as debtor) to a debt agreement or signs an authority under section 188, the trustee’s registration is cancelled.
 
-             (4)  Where a person registered as a trustee dies, the person administering the estate of the deceased person shall forthwith notify, in writing, the Official Receiver of that fact.
+             (4)  Where a person registered as a trustee dies, the person administering the estate of the deceased person shall forthwith notify, in writing, the Official Receiver for the District in which the trustee was ordinarily resident of that fact.
 
                     Penalty:  $100.
 
@@ -10854,7 +10989,7 @@ until any of the following events occurs:
 
                             (iv)  details of the debt agreement are entered on the National Personal Insolvency Index;
 
-                            the entry of those details on the National Personal Insolvency Index;
+                            the entry of those details on the National Personal Insolvency Index;
 
                      (g)  in the case where:
 
@@ -11550,7 +11685,7 @@ Note:          For the remuneration payable to the Official Tr
 
 ##### <a id="185ZA"></a>185ZA  Notification of death of administrator
 
-             (1)  If the administrator in relation to a debt agreement dies, the person administering the estate of the deceased person must, as soon as practicable, give written notice of that fact to the Official Receiver.
+             (1)  If the administrator in relation to a debt agreement dies, the person administering the estate of the deceased person must, as soon as practicable, give written notice of that fact to the Official Receiver for the District in which the debt agreement administrator was ordinarily resident.
 
                     Penalty:  1 penalty unit.
 
@@ -12344,7 +12479,7 @@ Note:          Section 188A sets out requirements for person
 
                      (b)  the debtor’s statement of affairs;
 
-to the Official Receiver.
+to the Official Receiver for the District in which the debtor resides.
 
           (5A)  For the purposes of subsection (5), a **_working day_** is a day that is not a Saturday, Sunday or public holiday in the place where the registered trustee or solicitor consented to exercise the powers given by the authority.
 
@@ -15153,7 +15288,7 @@ or, if any such amount has previously been altered under this section, the amoun
 
              (6)  The formula for the purposes of subsections (2), (3), (4) and (5) is: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00509/Html/Bankruptcy1966_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00092/Html/Bankruptcy1966_WD02_image003.gif)
 
 where:
 
@@ -15728,7 +15863,7 @@ Remainder: 1 Feb 1981 ( <i>see Gazette</i>1980, No. S282)</div>
     <div>2 Dec 1981</div>
   </td>
   <td>
-    <div>Part X (ss. 36, 37): 2 Nov 1981 ( <i>see Gazette</i>1981, No. S229) <i>(d)</i></div>
+    <div>Part X (ss. 36, 37): 2 Nov 1981 ( <i>see Gazette</i>1981, No. S229) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -15849,7 +15984,7 @@ S. 151(6): <i>(g)</i></div>
     <div>7 May 1985</div>
   </td>
   <td>
-    <div>19 May 1986 ( <i>see Gazette</i>1986, No. S224)</div>
+    <div>19 May 1986 ( <i>see Gazette</i>1986, No. S224)</div>
   </td>
   <td>
     <div>Ss. 6(2), 7(2), 8(2), 14(2), 29(2), (3) and 35(2)</div>
@@ -15883,9 +16018,9 @@ S. 151(6): <i>(g)</i></div>
     <div>18 Dec 1986</div>
   </td>
   <td>
-    <div>Part II (ss. 3–6), ss. 8(a) and 9–11: 1 Jan 1987 ( <i>see</i>s. 2(3)) 
+    <div>Part II (ss. 3–6), ss. 8(a) and 9–11: 1 Jan 1987 ( <i>see</i>s. 2(3)) 
 S. 8(c): 10 June 1986 
-Ss. 26(b), (c), 28, 40, 49(3) and (7): 1 Jan 1987 ( <i>see</i>s. 2(4) and <i>Gazette</i>1986, No. S650) 
+Ss. 26(b), (c), 28, 40, 49(3) and (7): 1 Jan 1987 ( <i>see</i>s. 2(4) and <i>Gazette</i>1986, No. S650) 
 S. 55: 1 Mar 1987 ( <i>see Gazette</i>1987, No. S32) 
 Remainder: Royal Assent</div>
   </td>
@@ -15940,10 +16075,10 @@ Remainder: Royal Assent</div>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
 Ss. 4(1)(f), 9–11, 19, 24–29, 31, 32, 34–37, 46, 47, 
-53–58, 97, 98, 101, 103 and 105: 3 Jan 1989 ( <i>see Gazette</i>1988, No. S392) 
+53–58, 97, 98, 101, 103 and 105: 3 Jan 1989 ( <i>see Gazette</i>1988, No. S392) 
 Ss. 6, 16–18, 
 20–22, 30, 38, 41, 59, 60, 62–65, 
-68–79, 82, 86, 87, 90, 99 and 100: 31 July 1989 ( <i>see Gazette</i>1989, No. S245) 
+68–79, 82, 86, 87, 90, 99 and 100: 31 July 1989 ( <i>see Gazette</i>1989, No. S245) 
 Ss. 14, 42-44 and 51: 1 Mar 1988 ( <i>see Gazette</i>1988, No. S49) 
 Remainder: 13 Jan 1988</div>
   </td>
@@ -16052,7 +16187,7 @@ Remainder: Royal Assent</div>
     <div>Part I (ss. 1, 2), ss. 3, 26, 29–33, 35, 38 and 40: Royal Assent 
 S. 23(1): 4 May 1989 
 S. 39: 23 Jan 1988 
-Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
+Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
   </td>
   <td>
     <div>S. 28</div>
@@ -16069,7 +16204,7 @@ Remainder: 28 Dec 1989 ( <i>see Gazette</i>1989, No. S383)</div>
     <div>21 Dec 1990</div>
   </td>
   <td>
-    <div>Ss. 3, 5, 6, 8, 9, 16, 17, 20–23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 ( <i>see Gazette</i>1991, No. GN3, p. 278) 
+    <div>Ss. 3, 5, 6, 8, 9, 16, 17, 20–23, 28, 30, 32, 33, 38 and 39: 4 Feb 1991 ( <i>see Gazette</i>1991, No. GN3, p. 278) 
 Ss. 4, 7, 10–15, 18, 19, 24–27, 29, 31 and 34–37: 21 June 1991 
 Remainder: Royal Assent</div>
   </td>
@@ -16089,7 +16224,7 @@ Remainder: Royal Assent</div>
     <div>17 Jan 1992</div>
   </td>
   <td>
-    <div>Part 2 (ss. 3–50): 1 July 1992 ( <i>see Gazette</i>1992, No. S176) 
+    <div>Part 2 (ss. 3–50): 1 July 1992 ( <i>see Gazette</i>1992, No. S176) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -16178,7 +16313,7 @@ Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. S25)</div>
     <div>16 June 1993</div>
   </td>
   <td>
-    <div>Ss. 6, 7, 9, 11, 13, 15 and Part 5 (ss. 29, 30): 1 June 1993 
+    <div>Ss. 6, 7, 9, 11, 13, 15 and Part 5 (ss. 29, 30): 1 June 1993 
 Part 4 (ss. 20–28): 1 July 1993 
 Remainder: Royal Assent</div>
   </td>
@@ -16218,7 +16353,7 @@ Remainder: 1 July 1994</div>
     <div>Ss. 89–91: Royal Assent <i>(n)</i></div>
   </td>
   <td>
-    <div>S. 91 (am. by 94, 1994, s. 11)</div>
+    <div>S. 91 (am. by 94, 1994, s. 11)</div>
   </td>
 </tr>
 <tr>
@@ -16283,10 +16418,10 @@ Remainder: 1 July 1994</div>
     <div>16 Dec 1995</div>
   </td>
   <td>
-    <div>Schedule 2 (items 54–57, 64): Royal Assent <i>(q)</i></div>
+    <div>Schedule 2 (items 54–57, 64): Royal Assent <i>(q)</i></div>
   </td>
   <td>
-    <div>Sch. 2 (items 56, 64)</div>
+    <div>Sch. 2 (items 56, 64)</div>
   </td>
 </tr>
 <tr>
@@ -16300,7 +16435,7 @@ Remainder: 1 July 1994</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 1: 16 Dec 1996 ( <i>see Gazette</i>1996, No. GN49) 
+    <div>Schedule 1: 16 Dec 1996 ( <i>see Gazette</i>1996, No. GN49) 
 Schedule 2: <i>(r)</i> 
 Remainder: Royal Assent</div>
   </td>
@@ -16405,7 +16540,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 584–596): 1 Jan 1998 ( <i>see Gazette</i>1997, GN49) <i>(u)</i></div>
+    <div>Schedule 2 (items 584–596): 1 Jan 1998 ( <i>see Gazette</i>1997, GN49) <i>(u)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -16456,10 +16591,10 @@ Remainder: Royal Assent</div>
     <div>29 June 1998</div>
   </td>
   <td>
-    <div>Schedule 1 (Items 10–23): 1 July 1998 (see Gazette 1998, No. S316)(w)</div>
+    <div>Schedule 1 (Items 10–23): 1 July 1998 (see Gazette 1998, No. S316)(w)</div>
   </td>
   <td>
-    <div>S. 4(2) \[see Table A]</div>
+    <div>S. 4(2) \[see  Table A]</div>
   </td>
 </tr>
 <tr>
@@ -16507,11 +16642,11 @@ Remainder: Royal Assent</div>
     <div>17 June 1999</div>
   </td>
   <td>
-    <div>Schedule 7 (items 1–4): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(z)</i> 
-Schedule 8 (items 1–9, 22): Royal Assent <i>(z)</i></div>
+    <div>Schedule 7 (items 1–4): 1 July 1999 ( <i>see Gazette</i>1999, No. S283) <i>(z)</i> 
+Schedule 8 (items 1–9, 22): Royal Assent <i>(z)</i></div>
   </td>
   <td>
-    <div>Sch. 8 (items 1–9, 22) \[ <i>see</i>Table A] 
+    <div>Sch. 8 (items 1–9, 22) \[ <i>see</i>Table A] 
 S. 3(2)(e) (am. by 160, 2000, Sch. 4 \[item 4])</div>
   </td>
 </tr>
@@ -16650,7 +16785,7 @@ Remainder: 18 Jan 2001</div>
 Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -16682,10 +16817,10 @@ Remainder: 24 May 2001</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 18 Dec 2000 ( <i>see Gazette</i>2000, No. S634)</div>
+Remainder: 18 Dec 2000 ( <i>see Gazette</i>2000, No. S634)</div>
   </td>
   <td>
-    <div>Sch. 3 (items 7(1), 8) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 7(1), 8) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -16716,10 +16851,10 @@ Remainder: 18 Dec 2000 ( <i>see Gazette</i>2000, No. S634)</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 80–87): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(zg)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 80–87): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(zg)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i> Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -16736,7 +16871,7 @@ Remainder: 18 Dec 2000 ( <i>see Gazette</i>2000, No. S634)</div>
     <div>28 Dec 2002</div>
   </td>
   <td>
-    <div>S. 5 (as am. by 86, 2002, Sch. 5 \[item 10]) \[ <i>see</i>Table A]</div>
+    <div>S. 5 (as am. by 86, 2002, Sch. 5 \[item 10]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -16784,7 +16919,7 @@ Remainder: 18 Dec 2000 ( <i>see Gazette</i>2000, No. S634)</div>
     <div>18 July 2001</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1, 2): Royal Assent <i>(zh)</i></div>
+    <div>Schedule 2 (items 1, 2): Royal Assent <i>(zh)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -16818,7 +16953,7 @@ Remainder: 18 Dec 2000 ( <i>see Gazette</i>2000, No. S634)</div>
     <div>29 June 2002</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 2): <i>(zj)</i></div>
+    <div>Schedule 6 (items 1, 2): <i>(zj)</i></div>
   </td>
   <td>
     <div>Sch. 6 (item 2) \[ <i>see</i>Table A]</div>
@@ -16839,7 +16974,7 @@ Remainder: 18 Dec 2000 ( <i>see Gazette</i>2000, No. S634)</div>
 Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div>
   </td>
   <td>
-    <div>Sch. 4 (items 12, 16) \[ <i>see</i>Table A]</div>
+    <div>Sch. 4 (items 12, 16) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -16857,7 +16992,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 198 (as am. by 80, 2004, Sch. 7 \[items 1, 2]) Sch. 1 (items 
+    <div>Sch. 1 (item 198 (as am. by 80, 2004, Sch. 7 \[items 1, 2]) Sch. 1 (items 
 199–237) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -16889,7 +17024,7 @@ Remainder: Royal Assent</div>
     <div>23 June 2004</div>
   </td>
   <td>
-    <div>Schedule 7 (items 1, 2): <i>(zk)</i> 
+    <div>Schedule 7 (items 1, 2): <i>(zk)</i> 
 Schedule 7 (item 3): Royal Assent</div>
   </td>
   <td>
@@ -16907,7 +17042,7 @@ Schedule 7 (item 3): Royal Assent</div>
     <div>19 Dec 2003</div>
   </td>
   <td>
-    <div>Schedule 2 (items 96, 97): <i>(zl)</i></div>
+    <div>Schedule 2 (items 96, 97): <i>(zl)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -16924,7 +17059,7 @@ Schedule 7 (item 3): Royal Assent</div>
     <div>26 May 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 11, 12): 27 May 2004</div>
+    <div>Schedule 1 (items 11, 12): 27 May 2004</div>
   </td>
   <td>
     <div>—</div>
@@ -16941,7 +17076,7 @@ Schedule 7 (item 3): Royal Assent</div>
     <div>23 June 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–187, 212–215) and Schedules 
+    <div>Schedule 1 (items 1–187, 212–215) and Schedules 
 2–5: 1 Dec 2004 ( <i>see</i> <i>Gazette</i>2004, No. GN34) 
 Schedule 6: Royal Assent</div>
   </td>
@@ -16996,7 +17131,7 @@ Schedule 6: Royal Assent</div>
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 97–108, 496): Royal Assent</div>
+    <div>S. 4 and Schedule 1 (items 97–108, 496): Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
@@ -17014,7 +17149,7 @@ Schedule 6: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1: 18 Sept 2005 
-Schedules 3–5: 15 Apr 2005 
+Schedules 3–5: 15 Apr 2005 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -17067,12 +17202,12 @@ Remainder: Royal Assent</div>
     <div>3 May 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–19), Schedules 2 and 3: 1 July 2006 
-Schedule 1 (items 20, 21): <i>(zn)</i> 
+    <div>Schedule 1 (items 1–19), Schedules 2 and 3: 1 July 2006 
+Schedule 1 (items 20, 21): <i>(zn)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 3, 5, 9, 13, 15, 18), Sch. 3 (item 4) and Sch. 4 (item 8) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 3, 5, 9, 13, 15, 18), Sch. 3 (item 4) and Sch. 4 (item 8) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -17086,10 +17221,10 @@ Remainder: Royal Assent</div>
     <div>14 Sept 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 25, 26) and Schedule 6 (items 1, 6–11): Royal Assent</div>
+    <div>Schedule 2 (items 25, 26) and Schedule 6 (items 1, 6–11): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 6 (items 1, 6–11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 6 (items 1, 6–11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -17103,7 +17238,7 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 4 (items 2–4): Royal Assent</div>
+    <div>Schedule 4 (items 2–4): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -17120,10 +17255,10 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 3 (items 1–3): 1 July 2007</div>
+    <div>Schedule 3 (items 1–3): 1 July 2007</div>
   </td>
   <td>
-    <div>Sch. 3 (item 3) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (item 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -17137,12 +17272,12 @@ Remainder: Royal Assent</div>
     <div>10 Apr 2007</div>
   </td>
   <td>
-    <div>Schedule 1: 11 Apr 2007 
-Schedule 2: 1 July 2007 
+    <div>Schedule 1: 11 Apr 2007 
+Schedule 2: 1 July 2007 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 21–23) and Sch. 2 (item 80) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 21–23) and Sch. 2 (item 80) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -17156,15 +17291,15 @@ Remainder: Royal Assent</div>
     <div>15 Apr 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–14): 28 July 2006 
-Schedule 1 (items 15–37): 15 Oct 2007 
-Schedule 2 (items 1, 5–7): 27 Apr 2007 ( <i>see</i>F2007L01131) 
-Schedule 2 (items 2–4, 11–19): 16 Apr 2007 
-Schedule 2 (items 8–10): <i>(zo) 
+    <div>Schedule 1 (items 1–14): 28 July 2006 
+Schedule 1 (items 15–37): 15 Oct 2007 
+Schedule 2 (items 1, 5–7): 27 Apr 2007 ( <i>see</i>F2007L01131) 
+Schedule 2 (items 2–4, 11–19): 16 Apr 2007 
+Schedule 2 (items 8–10): <i>(zo) 
  </i>Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 2 (item 4) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 4) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -17175,10 +17310,10 @@ Schedule 2 (items 8–10): <i>(zo)
     <div>73, 2008</div>
   </td>
   <td>
-    <div>3 July 2008</div>
+    <div>3 July 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (item 26): Royal Assent</div>
+    <div>Schedule 3 (item 26): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -17186,7 +17321,7 @@ Schedule 2 (items 8–10): <i>(zo)
 </tr>
 <tr>
   <td>
-    <div>Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008</div>
+    <div>Family Law Amendment (De Facto Financial Matters and Other Measures) Act 2008</div>
   </td>
   <td>
     <div>115, 2008</div>
@@ -17195,7 +17330,7 @@ Schedule 2 (items 8–10): <i>(zo)
     <div>21 Nov 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 4–18): 1 Mar 2009</div>
+    <div>Schedule 2 (items 4–18): 1 Mar 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -17212,7 +17347,7 @@ Schedule 2 (items 8–10): <i>(zo)
     <div>9 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 2 (items 11–23, 25, 27, 29–33): 10 Dec 2008 
+    <div>Schedule 2 (items 11–23, 25, 27, 29–33): 10 Dec 2008 
 Schedule 2 (items 24, 26, 28): <i>(zp)</i></div>
   </td>
   <td>
@@ -17227,10 +17362,10 @@ Schedule 2 (items 24, 26, 28): <i>(zp)</i></div>
     <div>54, 2009</div>
   </td>
   <td>
-    <div>25 June 2009</div>
+    <div>25 June 2009</div>
   </td>
   <td>
-    <div>Schedule 5 (items 17–19): <i>(zq)</i></div>
+    <div>Schedule 5 (items 17–19): <i>(zq)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -17247,7 +17382,7 @@ Schedule 2 (items 24, 26, 28): <i>(zp)</i></div>
     <div>6 Nov 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 7–9): 4 Dec 2009</div>
+    <div>Schedule 1 (items 7–9): 4 Dec 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -17264,10 +17399,10 @@ Schedule 2 (items 24, 26, 28): <i>(zp)</i></div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 5 (items 5–18): \[ <i>see</i>Note 2 and Table A]</div>
+    <div>Schedule 5 (items 5–18): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 5 (item 18) \[ <i>see</i>Table A]</div>
+    <div>Sch. 5 (item 18) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -17285,26 +17420,6 @@ Schedule 2 (items 24, 26, 28): <i>(zp)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy Legislation Amendment Act 2010</div>
-  </td>
-  <td>
-    <div>106, 2010</div>
-  </td>
-  <td>
-    <div>14 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1, Schedule 2 and Schedule 4 (items 5–10, 12, 13): \[ <i>see</i>Note 3 and Table A] 
-Schedule 3: 15 July 2010 
-Schedule 4 (items 1–4): \[ <i>see</i>Note 3 and Table A] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 17), Sch. 2 (item 84), Sch. 3 (item 17) and Sch. 4 (items 4, 13) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -17692,7 +17807,9 @@ _(zl)_ Subsection 2(1) (item 8) of the _Higher Education Support (Transitional
       The later of:
     </div>
     <div>
-      (a) 1 January 2004; and
+      (a)
+      1 January 2004
+      ; and
     </div>
     <div>
       (b) immediately after the commencement of sections 1-10 to 238-15 of the
@@ -17740,4 +17857,10668 @@ _(zm)_ Subsection 2(1) (item 30) of the _Statute Law Revision Act 2005_ provid
         <b>
           Date/Details
         </b>
-    
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      30\. Schedule 2, item 9
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the time specified in the
+        <i>Bankruptcy Legislation Amendment Act 2004</i>for the commencement of item 167
+        of Schedule 1 to that Act.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 December 2004
+    </div>
+  </td>
+</tr></table>
+
+_(zn)_ Subsection 2(1) (item 3) of the _Bankruptcy Legislation Amendment (Fees and Charges) Act 2006_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      3\. Schedule 1, Part 2
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) immediately after the commencement of the provision(s) covered by
+        table item 2; and
+    </div>
+    <div>
+      (b) immediately after the commencement of Schedule 1 to the
+        <i>Bankruptcy Legislation Amendment (Anti-avoidance) Act 2006</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2006
+
+(paragraph (a) applies)
+    </div>
+  </td>
+</tr></table>
+
+_(zo)_ Subsection 2(1) (items 7–9) of the _Bankruptcy Legislation Amendment (Superannuation Contributions) Act 2007_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      7\. Schedule 2, item 8
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 12 of Schedule 1 to the
+        <i>Bankruptcy Legislation Amendment (Anti-avoidance) Act 2006</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      31 May 2006
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, item 9
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of item 208 of Schedule 1 to the
+        <i>Bankruptcy Legislation Amendment Act 1996</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      16 December 1996
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      9\. Schedule 2, item 10
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of section 10 of the
+        <i>Superannuation Industry (Supervision) Consequential Amendments Act 1993</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 1994
+    </div>
+  </td>
+</tr></table>
+
+_(zp)_ Subsection 2(1) (items 6, 8 and 10) of the _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      6\. Schedule 2, item 24
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) the start of the day after this Act receives the Royal Assent; and
+    </div>
+    <div>
+      (b) immediately after the commencement of item 13 of Schedule 2 to the
+        <i>Family Law Amendment (De Facto Financial Matters and Other Measures) Act
+          2008</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 March 2009
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      8\. Schedule 2, item 26
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) the start of the day after this Act receives the Royal Assent; and
+    </div>
+    <div>
+      (b) immediately after the commencement of item 15 of Schedule 2 to the
+        <i>Family Law Amendment (De Facto Financial Matters and Other Measures) Act
+          2008</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 March 2009
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>
+      10\. Schedule 2, item 28
+    </div>
+  </td>
+  <td>
+    <div>
+      The later of:
+    </div>
+    <div>
+      (a) the start of the day after this Act receives the Royal Assent; and
+    </div>
+    <div>
+      (b) immediately after the commencement of item 17 of Schedule 2 to the
+        <i>Family Law Amendment (De Facto Financial Matters and Other Measures) Act
+          2008</i>.
+    </div>
+    <div>
+      However, the provision(s) do not commence at all if the event mentioned
+        in paragraph (b) does not occur.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 March 2009
+    </div>
+    <div>
+      (paragraph (b) applies)
+    </div>
+  </td>
+</tr></table>
+
+_(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>
+      11\. Schedule 5, items 1 to 30
+    </div>
+  </td>
+  <td>
+    <div>
+      Immediately after the commencement of Part 2-4 of the
+        <i>Fair Work Act 2009</i>.
+    </div>
+  </td>
+  <td>
+    <div>
+      1 July 2009 (
+        <i>see</i>F2009L02563)
+    </div>
+  </td>
+</tr></table>
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div><b>Part 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 3</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 216, 1973</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 4</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part</b> <b>IA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part IA</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968; No. 122, 1970; No. 155, 1979; Nos. 12 and 70, 1980; No. 21, 1985; Nos. 73 and 119, 1987; No. 8, 1988; No. 129, 1989; No. 115, 1990; Nos. 9 and 210, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 48, 1998; No. 194, 1999; No. 143, 2000; Nos. 55 and 123, 2001; Nos. 86 and 131, 2002; No. 80, 2004; No. 20, 2005; Nos. 33 and 34, 2006; Nos. 8, 44 and 57, 2007; Nos. 115 and 144, 2008; No. 3, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5AA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 5B, 5C</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 5D–5F</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5G</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 210, 1992; No. 55, 2001; No. 8, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 5H</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 5J, 5K</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 6A</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 6B</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6B</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 6C</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IB</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part IB</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 7A</div>
+  </td>
+  <td>
+    <div>ad. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 9</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part II</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part II</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 10</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 11 .</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980; No. 21, 1985; No. 168, 1986; Nos. 73 and 119, 1987; No. 9, 1992; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 13</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 14A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 15</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 16</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 16</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 21, 1985; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 21, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17AA</div>
+  </td>
+  <td>
+    <div>ad. No. 193, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 17B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 21, 1985; No. 168, 1986; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18AA</div>
+  </td>
+  <td>
+    <div>ad. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 21, 1985; No. 119, 1987; No. 115, 1990; Nos. 9 and 143, 1992; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19AA</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 19A</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 19B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 168, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part II</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986; No. 152, 1997; No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 21, 1985; No. 168, 1986; No. 115, 1990; No. 44, 1996; No. 48, 1998; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20C</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 63, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 168, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20D</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986; No. 119, 1987; No. 44, 1996; No. 11, 1997; No. 48, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20E</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986; No. 44, 1996; No. 48, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20F</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20G</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 152, 1997; No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 20H</div>
+  </td>
+  <td>
+    <div>am. No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20H</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 21, 1985; No. 168, 1986; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 20J</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986; No. 44, 1996 (as am. by No. 125, 1999); No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part III</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1 of Part III</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 21</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 22</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 23, 24</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 25</div>
+  </td>
+  <td>
+    <div>am. No. 40, 1969</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 111, 1977</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 26</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 27</div>
+  </td>
+  <td>
+    <div>am. No. 161, 1976; No. 12, 1980; No. 176, 1981; No. 44, 1996; No. 194, 1999; No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 28</div>
+  </td>
+  <td>
+    <div>am. No. 161, 1976; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 29</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 29</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 30</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 194, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 143, 1992; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 31A</div>
+  </td>
+  <td>
+    <div>ad. No. 168, 1986</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990; No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 33A</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 34A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35A</div>
+  </td>
+  <td>
+    <div>ad. No. 8, 1988</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 194, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 35B</div>
+  </td>
+  <td>
+    <div>ad. No. 98, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 36</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 37</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 38</div>
+  </td>
+  <td>
+    <div>rs. No. 161, 1976</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 38, 1988</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 39</div>
+  </td>
+  <td>
+    <div>rep. No. 161, 1976</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 40</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 119, 1987; No. 44, 1996; Nos. 86 and 131, 2002; No. 80, 2004; No. 20, 2005; No. 115, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 41</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 42</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 10, 1984</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 43</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 143, 1992; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 44</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 45</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 46</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 47</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 50</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 119, 1987; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 51</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 52</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981 (as am. by No. 176, 1981); No. 21, 1985; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 53</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 21, 1985; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 131, 2002; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2A of Part IV</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54B</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 54C</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 54D</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 54D–54H</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 54J–54L</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 55</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 74, 1981; No. 21, 1985; No. 119, 1987; No. 115, 1990; No. 143, 1992; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 74, 1981; No. 21, 1985; No. 119, 1987; No. 115, 1990; No. 143, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56A</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 56B–56D</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56E</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56F</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 56G</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 74, 1981; No. 21, 1985; No. 119, 1987; No. 115, 1990; No. 143, 1992; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 57A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 58</div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 73, 1987; No. 44, 1996; No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 58(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Renumbered Note 1........</div>
+  </td>
+  <td>
+    <div>No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note 2 to s. 58(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 58A</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 143, 1992; No. 44, 1996; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 59A</div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 59A</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 60</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 73, 1987; No. 44, 1996; No. 86, 2002; No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 60(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 61</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 5 
+of Part IV</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. A of Div. 5 
+of Part IV</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 63B</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. B 
+of Div. 5 of Part IV</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 74, 1981; No. 21, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1992; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 64B, 64C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64D</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 64E, 64F</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64G</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 64H, 64J</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 64K, 64L</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64M</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 64M(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64N</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 64P–64T</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64U</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 64V-64X</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64Y</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64Z</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 64ZBA</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 64ZC–64ZF</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 65</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 67</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 68</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 69</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 74, 1981; No. 21, 1985; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 5A 
+of Part IV</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 70</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 71</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 73</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 73A</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 73B, 73C</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 74A</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 75</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 9, 1992; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 76</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 76A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 76B</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part V</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part V .</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 77AA</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77AA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 77A</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77B</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 33 and 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77D</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77E</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 77F</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 78</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968; No. 12, 1980; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 79</div>
+  </td>
+  <td>
+    <div>am. No. 56, 1975; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 80</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 9, 1992; No. 44, 1996; No. 24, 2001; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 81</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 21, 1985; No. 119, 1987; No. 115, 1990; No. 9, 1992; No. 44, 1996; No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 81A–81F</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part V</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 81G</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 82</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; Nos. 73 and 119, 1987; No. 210, 1992; No. 44, 1996; No. 55, 2001; Nos. 86 and 131, 2002; No. 150, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 82(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 150, 2003</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 83</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 84, 85</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 86</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 90, 91</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 92</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 93–95</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 98</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 99</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 100</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 101</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 102</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 103</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 104</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 105</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 106</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 107</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 107</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. A 
+of Div. 2 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 108</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 18, 1983; No. 21, 1985; No. 154, 1986; No. 119, 1987; No. 115, 1990; No. 32, 1993; No. 170, 1995; No. 44, 1996; Nos. 51 and 131, 2002; No. 80, 2004; SLI 2006 No. 50; No. 101, 2006; No. 54, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 109A</div>
+  </td>
+  <td>
+    <div>ad. No. 21, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 110</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 111, 112</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 113</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 114</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. B of Div. 2 
+of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 114A–114C</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Subdiv. A 
+of Div. 3 of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 115</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 168, 1986; No. 119, 1987; No. 115, 1990; No. 143, 1992; No. 82, 1993; No. 84, 1994; No. 44, 1996; Nos. 62 and 179, 1997; No. 38, 1999; Nos. 22 and 144, 2000; No. 61, 2001; No. 131, 2002; No. 20, 2005; No. 33, 2006; Nos. 15 and 57, 2007; Nos. 115 and 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 117</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 118, 119</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 119A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 120</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 33, 2006; Nos. 115 and 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 120(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 121</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 33, 2006; No. 57, 2007; Nos. 115 and 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 121(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 121A</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 122</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 32, 1993; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 123</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 123</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 32, 1993; No. 44, 1996; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 124</div>
+  </td>
+  <td>
+    <div>am. No. 12, 198; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 125</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 44, 1996; No. 48, 1998; No. 44, 1999; No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 126</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 48, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 127, 128</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. B of Div. 3 
+of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 128A–128C</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 128D</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 128E–128H</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 128EJ–128M</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 128N</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 129</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 129AA</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 129A</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 130</div>
+  </td>
+  <td>
+    <div>rs. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 131</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 132</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 21, 1985; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 133</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 134</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 135</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 135</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 136, 137</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 138</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4A 
+of Part VI</div>
+  </td>
+  <td>
+    <div>rs. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4A of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139A–139C</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139CA</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 139D</div>
+  </td>
+  <td>
+    <div>am. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139D</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990; No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139DA</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 139E</div>
+  </td>
+  <td>
+    <div>am. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139E</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990; No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139EA</div>
+  </td>
+  <td>
+    <div>ad. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139F</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 139G</div>
+  </td>
+  <td>
+    <div>am. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139G, 139H</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 33, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4B of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139J</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139K</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 81, 1992; No. 44, 1996; No. 131, 2002; No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139L</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 82, 1993; No. 184, 1994; No. 44, 1996; No. 62, 1997; No. 152, 1997; Nos. 45 and 93, 1998, No. 83, 1999; No. 131, 2002; Nos. 8 and 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139M</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139N</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139P–139S</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139T</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139U</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 170, 1995; No. 48, 1998; No. 179, 1999; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139V</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision F</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139W</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139WA</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139X</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139Y</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. SLI 2006 No. 50; No. 54, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139Z</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision G</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZC, 139ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZE</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZF</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision H</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZG</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 11, 1993; No. 131, 2002; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZH, 139ZI</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision HA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. HA of Div. 4B 
+of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZIA–139ZID</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZIDA</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZIE</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZIEA</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZIF–139ZIH</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZIHA</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZII</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZIIA</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZIJ–139ZIP</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZIR–139ZIT</div>
+  </td>
+  <td>
+    <div>ad. No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision I</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZJ–139ZP</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision J</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZQ</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZR–139ZT</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision K</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subdiv. K of Div. 4B 
+of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZU–139ZW</div>
+  </td>
+  <td>
+    <div>ad. No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4C of Part VI</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZU, 139ZV</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 139ZW, 139ZX</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZY</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 139ZZ</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 139ZZ</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 140</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968; No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 20, 2005; No. 34, 2006; No. 115, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 144</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 145</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 146</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 147</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VII</div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 1 of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 148</div>
+  </td>
+  <td>
+    <div>am. No. 73, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 2 of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 74, 1981; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149A</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149B</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149D</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 55, 2001; No. 131, 2002; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149E</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 149F</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149F</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149G</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 149H</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 149H, 149J</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149K</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149L</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 149M, 149N</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149P</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149Q</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3 of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149R</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 149S–149Z</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 149ZA–149ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 55, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149ZE</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149ZF</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 149ZG, 149ZH</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 149ZI</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 149ZJ–149ZM</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 150</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 21, 1985; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 151</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 4 
+of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 152</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 153</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 73, 1987; No. 9, 1992; No. 44, 1996; No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 153(1)</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 153(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5 of Part VII</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 153A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002; No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 153B</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 154</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part VIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 154A</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 11, 1997; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 119, 1987; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 11, 1997; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155A</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155B</div>
+  </td>
+  <td>
+    <div>ad. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155C</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 11, 1997; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 155D, 155E</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 11, 1997; No. 131, 2002; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 155F, 155G</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155H</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 80, 2004; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155I</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155J</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 155K</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 156</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 156A</div>
+  </td>
+  <td>
+    <div>ad. No. 74, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 157</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 158</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 159</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 160</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 74, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 161</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 20, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 161A</div>
+  </td>
+  <td>
+    <div>ad. No. 21, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 161B</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 161B</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 162</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 162</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 9, 1992; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 163</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 11, 1997; No. 8, 2005; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 163</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 163A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 8, 2005; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 164</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 165</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 166</div>
+  </td>
+  <td>
+    <div>rep. No. 74, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 167</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 168</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 48, 1998; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 169</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 11, 1997; No. 48, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 170</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 171</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 172</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 129, 1989</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 173</div>
+  </td>
+  <td>
+    <div>am. No. 11, 1997; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 174</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 175</div>
+  </td>
+  <td>
+    <div>am. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 175</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 115, 1990; 
+No. 44, 1996 (as am. by No. 11, 1997); No. 11, 1997; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 176</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 177</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 178</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 179</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4A of Part VIII</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 179A–179K</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 180</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 181</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 181A</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 182</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 183, 184</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 184A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part IX</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part IX</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 1 
+of Part IX</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 185(1)</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Subhead. to s. 185A(1)</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185A, 185B</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 185C</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185C–185E</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185EA–185ED</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185F</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185G</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185H</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185I</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185J</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185K</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185L</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3A of Part IX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185LA–185LG</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part IX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185M</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185M(2)</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185M(3)</div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185MA–185MD</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185N</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 86 and 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185NA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185P</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185P(2)</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185P(3)</div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185PA–185PD</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185Q</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185QA</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185R</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185S</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185S</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185T</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185U</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185V</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185V</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 7 of Part IX.</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 185W</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185W</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185W(2)</div>
+  </td>
+  <td>
+    <div>rs. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185X</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185XA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185Y</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185Y</div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185Z</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185ZCA, 185ZCB</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 8 of Part IX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186A</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186B–186D</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186E</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186F–186H</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186J–186L</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186LA–186LE</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186M</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186N</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186P, 186Q</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part X</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part X</div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 187</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 187A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 188</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188A</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188B</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 189</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AAA</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AB</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AC</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 189A</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189B</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 190</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 190</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 119, 1987; No. 44, 1996; No. 86, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 190A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 191</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 192</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 193</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 194</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 194A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 195</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 196</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 197</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 198</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 199</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 200</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 201–203</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 204</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 204</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 205</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 205A</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 205A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 206</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 206</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 207</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 208</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 209</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 209</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 210</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 211</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 212</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 212A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 212B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 212C–212F</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 213</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 214</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 215A</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215B</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 216</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 216</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 217</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 217</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 218</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 218</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 220</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 220</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 221</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 221</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 221A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 222</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 222A–222D</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 223</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 223A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 224</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 224A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 225</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 225</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 226</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 226</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 227</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 227</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part X</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 228</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 229</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 230</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 231</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 231A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 232</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5 of Part X</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 233</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 234</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 234A, 234B</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 235</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237AA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 6 
+of Part X</div>
+  </td>
+  <td>
+    <div>rs. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 6 of Part X</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 238</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 239</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 240</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 240A, 240B</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 241</div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 242</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243AA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 244</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 245</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 246</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 246</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 247</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 247A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 248</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 248A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 249</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 9, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 38, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 249A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 250</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 251, 252</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 252A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 252B, 252C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253</div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XIA</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253B</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986; No. 115, 1990; No. 73, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253C</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253D</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253E</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253F</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 254</div>
+  </td>
+  <td>
+    <div>am. No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 254</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980; No. 74, 1981; No. 44, 1996; No. 80, 2004; No. 8, 2005; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 255</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 256</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 257</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 258</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 259</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 260</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 261</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 262</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 62, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 137, 2000; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263C</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264C</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264D</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264E</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 265</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 265(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 265A</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 265A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1992; No. 24, 2001; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 266</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267B</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267D</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267E</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267F</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267G</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 268</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 268</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 268(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 268(6)</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 268A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 269</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 270</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 271</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 272</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1992; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 273</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 106, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 273(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 274</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 275</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 276</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 276</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 277</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 277A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part XV</div>
+  </td>
+  <td>
+    <div>rs. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XV</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 278</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 279</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 280</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 281</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 282</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 283</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 284</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 285</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 48, 1998; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 286</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 287, 288</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 289</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 290–293</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 294</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 295</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 296–298</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 299, 300</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XVI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 301, 302</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 302A</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 302AB</div>
+  </td>
+  <td>
+    <div>ad. No. 62, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 302B</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 303</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 303</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 304A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 305</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 74, 1981; No. 21, 1985; No. 119, 1987; No. 115, 1990; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306C</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 308</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 309</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 310</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 143, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 311</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 312</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 313</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 313</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 314</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 315</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 99, 1988; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 11, 1997; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 316</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to The Schedules .</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to First Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 1</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Second 
+Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 2</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 2</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Third, Fourth Schedules</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
+
+## Schedule 5
+
+## 5  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-grantor-debtor"></a>**_PPSA grantor or debtor_** (short for Personal Property Securities Act grantor or debtor), in relation to a PPSA security interest, means a grantor or debtor within the meaning of the _Personal Property Securities Act 2009_.
+
+## 6  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-parti"></a>**_PPSA secured party_**(short for Personal Property Securities Act secured party), in relation to a PPSA security interest, means a secured party within the meaning of the _Personal Property Securities Act 2009_.
+
+## 7  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-agreem"></a>**_PPSA security agreement_** (short for Personal Property Securities Act security agreement), in relation to a PPSA security interest, means a security agreement within the meaning of the _Personal Property Securities Act 2009_.
+
+## 8  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
+
+## 9  Subsection 5(1) (definition of _secured creditor_)
+
+Repeal the definition, substitute:
+
+                    <a name="secur-critor"></a>**_secured creditor_**, in relation to a debtor, means:
+
+                     (a)  in the case of a debt secured by a PPSA security interest—the PPSA secured party in relation to the interest, if the interest:
+
+                              (i)  arose as security for the debt; and
+
+                             (ii)  is perfected (within the meaning of the _Personal Property Securities Act 2009_); or
+
+                     (b)  in the case of any other debt—a person holding a mortgage, charge or lien on property of the debtor as a security for a debt due to him or her from the debtor.
+
+## 10  Subsection 301(1)
+
+Omit “or in a licence”, substitute “, in a licence or in a PPSA security agreement”.
+
+## 11  Paragraphs 301(1)(a), (b) and (c)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  the contract, agreement, lease, hire-purchase agreement, licence or PPSA security agreement is to terminate, or may be terminated by the vendor, lessor, owner, licensor or PPSA secured party; or
+
+                     (b)  the operation of the contract, agreement, lease, hire-purchase agreement, licence or PPSA security agreement is to be modified; or
+
+                     (c)  property to which the contract, agreement, lease, hire-purchase agreement, licence or PPSA security agreement relates may be repossessed by or on behalf of the vendor, lessor, owner, licensor or PPSA secured party;
+
+## 12  Subsection 301(1)
+
+Omit “or licensee”, substitute “, licensee or PPSA grantor or debtor”.
+
+## 13  After subsection 301(2)
+
+Insert:
+
+          (2A)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
+
+Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
+
+## 14  Subsection 302(1)
+
+Omit “or charge” (first occurring), substitute “, charge or PPSA security agreement”.
+
+## 15  Paragraphs 302(1)(a) and (b)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  enabling the grantee, mortgagee, person entitled to the benefit of the lien or charge or PPSA secured party to exercise any power or remedy; or
+
+                     (b)  to the effect that the operation of the bill of sale, mortgage, lien, charge or PPSA security agreement is to be modified;
+
+## 16  Subsection 302(1)
+
+Omit “or person whose property is subject to the lien or charge”, substitute “, the person whose property is subject to the lien or charge or the PPSA grantor or debtor”.
+
+## 17  At the end of section 302
+
+Add:
+
+             (3)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
+
+Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
+
+As at 24 February 2010 the amendments are not incorporated in this compilation.
+
+## Table A
+
+### Application, saving or transitional provisions
+
+_Bankruptcy Legislation Amendment Act 1996 (No. 44, 1996)_
+
+## Schedule 1
+
+## 441  Items 2 to 5 and 8, 9, 11 and 16
+
+Application
+
+(1)               The new definitions inserted or substituted by items 2 to 5 and 8, 9, 11 and 16 apply to all provisions of the _Bankruptcy Act 1966_ applying to bankruptcies and other insolvency administrations that are current on or after the commencement of this Schedule.
+
+Transitional—item 11
+
+(2)               Despite the substitution of the definition of **_Registrar_** by item 11:
+
+                     (a)  the Court may still make orders under paragraphs 30(5)(c) and (d) of the _Bankruptcy Act 1966_ in relation to a failure to comply with an order, direction or  requirement that was given or made by a Registrar in Bankruptcy before this Schedule commenced; and
+
+                     (b)  the Court may still extend or abridge, under paragraph 33(1)(c) of the _Bankruptcy Act 1966_, a time that was fixed by a Registrar in Bankruptcy before this Schedule commenced; and
+
+                     (c)  the Court or a magistrate may issue a warrant under subsection 264B(1) of the _Bankruptcy Act 1966_ for the arrest of a person who failed to attend before, or appear and report to, the Registrar in Bankruptcy before this Schedule commenced.
+
+## 442  Items 46 and 52
+
+                   The amendments made by the following items apply in relation to authorities given under section 188 of the _Bankruptcy Act 1966_ after this Schedule commences:
+
+                     (a)  item 46;
+
+                     (b)  item 52, so far as it substitutes a new paragraph 12(2)(b) of the _Bankruptcy Act 196_ 6.
+
+## 443  Items 89 and 90
+
+                   The amendments made by items 89 and 90 do not apply in relation to proceedings in bankruptcy that were begun in the Supreme Court of a State or of the Northern Territory before this Schedule commenced.
+
+## 444  Item 91
+
+                   The amendment made by item 91 does not apply in relation to proceedings in bankruptcy that were begun in the Supreme Court of a State or of the Northern Territory before this Schedule commenced.
+
+## 445  Item 101
+
+                   The amendment made by item 101 does not apply in relation to appeals from any proceedings continued under item 444 in the Supreme Court of a State or of the Northern Territory after this Schedule commenced.
+
+## 446  Items 108 and 109
+
+                   The amendments made by items 108 and 109 apply in relation to all acts of bankruptcy committed on or after the commencement of this Schedule.
+
+## 447  Item 120
+
+                   The amendment made by item 120:
+
+                     (a)  applies to the presentation of creditor’s petitions after this Schedule commences; and
+
+                     (b)  does not prevent the continuation of proceedings begun before this Schedule commenced by the presentation of a creditor’s petition against a debtor who owed the petitioning creditors one or more debts totalling at least $1,500 but less than $2,000.
+
+## 448  Items 144 to 150
+
+                   The amendments made by items 144 to 150 apply to:
+
+                     (a)  debtor’s petitions that were presented, but not accepted or rejected, before this Schedule commenced; and
+
+                     (b)  debtor’s petitions that are presented after this Schedule commences.
+
+## 449  Item 151
+
+                   The new sections substituted by item 151 apply to:
+
+                     (a)  debtor’s petitions that were presented, but not accepted or rejected, before this Schedule commenced; and
+
+                     (b)  debtor’s petitions that are presented after this Schedule commences.
+
+## 450  Items 152 to 158
+
+                   The amendments made by items 152 to 158 apply to:
+
+                     (a)  debtor’s petitions that were presented, but not accepted or rejected, before this Schedule commenced; and
+
+                     (b)  debtor’s petitions that are presented after this Schedule commences.
+
+## 451  Item 161
+
+                   The amendment made by item 161 applies in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 452  Item 165
+
+                   The amendment made by item 165 applies in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 453  Item 182
+
+                   The new subsection substituted by item 182 applies to debts provable in a bankruptcy that is current on or after the commencement of this Schedule, regardless of when the maintenance agreement or maintenance order under which the debt arose was made.
+
+## 454  Item 193
+
+                   The amendment made by item 193 applies to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
+
+## 455  Item 198
+
+                   The amendment made by item 198 applies to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
+
+## 456  Items 199 to 202
+
+                   The amendments made by items 199 to 202 apply in relation to bankruptcies current on or after the commencement of this Schedule. However, the amendments:
+
+                     (a)  do not affect any distribution of a dividend before this Schedule commenced; and
+
+                     (b)  do not make a trustee liable for any act or omission of the trustee that occurred before this Schedule commenced.
+
+## 457  Item 208
+
+                   The new sections inserted by item 208 apply to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
+
+## 458  Items 209 to 221
+
+                   The amendments made by items 209 to 221 apply to all bankruptcies that are current on or after the day on which this Schedule commences, but do not affect any distributions made before this Schedule commenced.
+
+## 459  Item 222
+
+                   The amendment made by item 222 applies in relation to debtors who are bankrupt when this Schedule commences or who become bankrupt after this Schedule commences. However, the amendment:
+
+                     (a)  does not affect any distribution of a dividend before this Schedule commenced; and
+
+                     (b)  does not make a trustee liable for any act or omission of the trustee that occurred before this Schedule commenced.
+
+## 460  Items 233 to 241
+
+                   The amendments made by items 233 to 241 apply to all bankruptcies current on or after the commencement of this Schedule.
+
+## 461  Items 242 to 246
+
+                   The amendments made by items 242 to 246 apply to all bankruptcies current on or after the commencement of this Schedule.
+
+## 462  Item 250
+
+                   The new definition of **_contribution assessment period_** substituted by item 250 applies to bankruptcies for which the date of the bankruptcy is on or after the commencement of this Schedule.
+
+## 463  Items 252 to 254
+
+                   The amendments made by items 252 to 254 apply in relation to all bankruptcies current on or after the commencement of this Schedule. However, the amendments do not affect any assessment made before this Schedule commenced.
+
+## 464  Items 256 to 258
+
+                   The amendments made by items 256 to 258 apply in relation to each bankrupt for whom the date of the bankruptcy was on or after the commencement of this Schedule.
+
+## 465  Item 259
+
+                   The amendment made by item 259 applies to all bankruptcies current on or after the commencement of this Schedule.
+
+## 466  Item 277
+
+                   The amendment made by item 277 applies to statements given to the Official Receiver after this Schedule commences.
+
+## 467  Item 282
+
+                   Despite the amendment made by item 282, the Court may make an order annulling a bankruptcy that resulted from the Registrar in Bankruptcy accepting a debtor’s petition.
+
+## 468  Item 283
+
+                   The new sections inserted by item 283 apply in relation to:
+
+                     (a)  applications made after this Schedule commences; and
+
+                     (b)  persons who were registered trustees immediately before this Schedule commenced; and
+
+                     (c)  persons who become registered as trustees after this Schedule commences.
+
+## 469  Items 293 and 425
+
+                   The amendments made by items 293 and 425 apply to trustees who consent to act as trustee after the commencement of this Schedule.
+
+## 470  Items 303 to 308
+
+                   The amendments made by items 303 to 308 apply to all bankruptcies current on or after the commencement of this Schedule.
+
+## 471  Items 315 and 316
+
+                   The amendments made by items 315 and 316 apply to a person registered as a trustee on or after the day on which this Schedule commences.
+
+## 472  Items 321, 323 and 324
+
+                   The amendments made by items 321, 323 and 324 apply in relation to authorities given under section 188 after this Schedule commences.
+
+## 473  Item 332
+
+                   The section inserted by item 332 applies in relation to authorities signed by debtors on or after the day on which this Schedule commences.
+
+## 474  Item 333
+
+                   The amendment made by item 333 applies in relation to an authority under section 188 of the _Bankruptcy Act 1966_ that is current on or after the day on which this Schedule commences.
+
+## 475  Item 334
+
+                   The new sections inserted by item 334 apply in relation to an authority under section 188 of the _Bankruptcy Act 1966_ that is current on or after the day on which this Schedule commences.
+
+## 476  Item 344
+
+                   The new section substituted by item 344 applies in relation to a meeting called under an authority under section 188 of the _Bankruptcy Act 1966_ that is current on or after the day on which this Schedule commences.
+
+## 477  Items 345 and 346
+
+                   The amendments made by items 345 and 346 apply in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 478  Item 347
+
+                   The amendment made by item 347 applies in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 479  Items 348 and 349
+
+                   The amendments made by items 348 and 349 apply in relation to resolutions and special resolutions at a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 480  Item 356
+
+                   The new section substituted by item 356 applies in relation to all persons who are controlling trustees on or after the commencement of this Schedule.
+
+## 481  Item 360
+
+                   The amendment made by item 360 applies in relation to resolutions at a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 482  Items 368 and 369
+
+                   The amendments made by items 368 and 369 do not apply in relation to a special resolution passed at a meeting:
+
+                     (a)  called before this Schedule commences; or
+
+                     (b)  held after this section commences as a continuation of a meeting called before this Schedule commences.
+
+## 483  Items 373 and 374
+
+                   The amendments made by items 373 and 374 apply in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 484  Item 375
+
+                   The amendment made by item 375 applies in relation to a meeting held after this Schedule commences, except a meeting:
+
+                     (a)  notice of which was given before the commencement of this Schedule; or
+
+                     (b)  continuing a meeting described in paragraph (a) that was adjourned.
+
+## 485  Item 382
+
+                   Despite the amendment made by item 382, proceedings begun before the commencement of this Schedule by presentation of a petition to the Court in relation to one or more debts totalling at least $1,500 but less than $2,000 may continue.
+
+## 486  Item 402
+
+                   The new section substituted by item 402 applies in relation to debtor’s petitions that:
+
+                     (a)  are presented after this Schedule commences; or
+
+                     (b)  were presented, but not dealt with by the Registrar in Bankruptcy, before this Schedule commenced.
+
+## 487  Item 415
+
+                   The new section substituted by item 415 applies only in relation to section 64D statements given on or after the day this Schedule commences.
+
+## 488  Item 417
+
+                   The amendment made by item 417 applies in relation to debtor’s petitions that are presented after this Schedule commences.
+
+## 489  Item 418
+
+                   The amendment made by item 418 applies to statements given to the Official Receiver in relation to debtor’s petitions that:
+
+                     (a)  are presented after this Schedule commences; or
+
+                     (b)  were presented, but not dealt with by the Registrar in Bankruptcy, before this Schedule commenced.
+
+## 490  Item 422
+
+                   The new section inserted by item 422 applies to trust deeds regardless of when they were made.
+
+## 491  Items 427 and 428
+
+                   Despite the amendments made by items 427 and 428, an action, suit or proceeding does not lie in respect of a statement made in good faith in a report referred to in subsection 19AA(2), 150(3), 154A(3) or 189A(1) of the _Bankruptcy Act 1966_ as in force before this Schedule commenced.
+
+## 492  Bankruptcy Districts
+
+                   An area that was a Bankruptcy District because of a proclamation in force immediately before the commencement of this Schedule continues to be a Bankruptcy District as if it had been declared by the Inspector-General by notice in the _Gazette_.
+
+## 493  Orders made by State and Northern Territory Supreme Courts
+
+                   The _Bankruptcy Act 1966_ applies in relation to an order made at any time by the Supreme Court of a State or of the Northern Territory exercising its jurisdiction in bankruptcy as if the order had been made by the Federal Court of Australia.
+
+## 494  Examinations being conducted by Registrar in Bankruptcy
+
+                   An examination that was being conducted by a Registrar in Bankruptcy under section 81 of the _Bankruptcy Act 1966_ before this Schedule commenced may be continued by the Registrar, a Deputy Registrar, a District Registrar or a Deputy District Registrar of the Federal Court after this Schedule commences, as if he or she had been conducting the examination before this Schedule commenced.
+
+## 495  Failure to comply with bankruptcy notice issued by Registrar in Bankruptcy
+
+                   Failure to comply with a bankruptcy notice issued by a Registrar in Bankruptcy before this Schedule commenced is an act of bankruptcy, even if one or both of the following conditions are met:
+
+                     (a)  the time fixed by the Registrar in Bankruptcy ends after the commencement of this Schedule;
+
+                     (b)  the bankruptcy notice related to a debt of less than $2,000.
+
+## 496  Debtor’s petition presented to Registrar in Bankruptcy
+
+                   The Official Receiver must deal with a debtor’s petition that was presented to a Registrar in Bankruptcy before this Schedule commenced, but which the Registrar had not accepted or rejected. In particular, if the Registrar had referred the petition to the Court, but had not received or had not acted on the Court’s direction, the Official Receiver must act on the Court’s direction.
+
+## 497  Registration of trustees
+
+Registration of trustees registered previously
+
+(1)               A person who was a registered trustee immediately before this Schedule commenced is taken to be registered as a trustee under section 155C of the _Bankruptcy Act 1966_, without needing to pay a registration fee.
+
+No refund of fees paid previously
+
+(2)               A person who was registered as a trustee immediately before this Schedule commenced is not entitled to the refund of any fees paid in relation to that registration.
+
+Applicants for registration
+
+(3)               If, before the commencement of this Schedule:
+
+                     (a)  a person had applied:
+
+                              (i)  for a report stating the Official Receiver’s opinion about the applicant; or
+
+                             (ii)  to be registered as a trustee; and
+
+                     (b)  the Court had not decided whether to direct that the applicant be registered or to refuse the application;
+
+then:
+
+                     (c)  section 154A, and subsections  155(2), (3), (3A), (3B) and (8), of the _Bankruptcy Act 1966_ as in force immediately before the commencement of this Schedule apply in relation to the application; and
+
+                     (d)  if the Court directs that the applicant be registered, the Inspector-General must register the applicant under section 155C of the _Bankruptcy Act 1966_ without payment of the registration fee indicated in that section.
+
+## 498  Debts to which debt agreement proposal may relate
+
+                   A debt agreement proposal can be made under Part IX of the _Bankruptcy Act 1966_ whether the debts to which the proposal relates were incurred before or after this Schedule commenced.
+
+## 499  Remuneration of controlling trustee
+
+                   A person who was a controlling trustee immediately before the commencement of this Schedule is to continue to be remunerated under the arrangements existing immediately before that commencement.
+
+## 500  Orders under subsection 254(3)
+
+                   If, before this Schedule commenced, the Minister received an office copy of an order under subsection 254(3) of the _Bankruptcy Act 1966_ but had not paid the amount specified in the order to the person in whose favour the order was made, the Official Receiver must pay the person.
+
+* * *
+
+_Bankruptcy Amendment Act 1997 (No. 11, 1997)_
+
+## Schedule 3
+
+## 1  Bank accounts and investments under sections 169, 172 and 210
+
+(1)               If:
+
+                     (a)  immediately before the commencement of this Schedule, a trustee was maintaining an account under:
+
+                              (i)  section 169 or 172 of the _Bankruptcy Act 1966_ as then in force; or
+
+                             (ii)  section 210 of the _Bankruptcy Act 1966_ as in force immediately before the commencement of Schedule 1 to the _Bankruptcy Legislation Amendment Act 1996_; and
+
+                     (b)  the account does not comply with section 169 of the _Bankruptcy Act 1966_ as amended by Schedule 1 to this Act;
+
+the trustee must pay the money into an account that complies with that section as so amended as soon as reasonably practicable after the commencement of this Schedule.
+
+(2)               If, immediately before the commencement of this Schedule, a trustee held public securities as an investment under section 172 of the _Bankruptcy Act 1966_ as then in force, the trustee must, as soon as reasonably practicable after that commencement:
+
+                     (a)  convert the securities into money; and
+
+                     (b)  pay the money into an account that complies with section 169 of the _Bankruptcy Act 1966_ as amended by Schedule 1 to this Act.
+
+(3)               This item does not require a trustee to close a fixed term deposit, or to convert fixed term securities into money, before the term ends.
+
+(4)               In this item, a reference to section 169 or 172 of the _Bankruptcy Act 1966_ as in force at a particular time includes a reference to that section as applied by other provisions of that Act as then in force.
+
+## 2  Transition to realisations charge
+
+(1)               The Governor-General may make regulations dealing with the transition from the fees imposed by old rules 179 and 181 to the realisations charge imposed by Part 3 of the _Bankruptcy (Estate Charges) Act 1997_.
+
+(2)               For example, the regulations may provide for:
+
+                     (a)  the continued application, with specified modifications, of old rule 179 in relation to amounts received or paid by a trustee before the commencement of this Schedule, including, in particular, amounts received or paid before 1 November 1996 (the start of the first charge period); and
+
+                     (b)  the crediting or waiver of fees paid or payable under that rule, or that rule as it continues to apply, to the extent that the fees are attributable to amounts received by a trustee on or after 1 November 1996.
+
+             (3)  In this item:
+
+                    <a name="criting"></a>**_crediting_** means crediting against a liability to pay realisations charge.
+
+                    <a name="79-181"></a><a name=""></a><a name="old-rule"></a>**_old rule_****_s 1_****_79 and 181_** means rules 179 and 181 of the Bankruptcy Rules as in force immediately before the commencement of Schedule 1 to the _Bankruptcy Legislation Amendment Act 1996_.
+
+* * *
+
+_Financial Sector Reform (Consequential Amendments) Act 1998 
+ (No. 48, 1998)_
+
+## 4  Transitional provisions
+
+Treatment of approvals and authorisations under the Bankruptcy Act 1966
+
+             (2)  An approval of a bank, or an authorisation of a person, that is in force immediately before the commencement of item 10 of Schedule 1 for the purposes of the definition of approved bank in subsection 5(1) of the _Bankruptcy Act 1966_ as then in force is to be taken, after that commencement, to be an approval of the bank or an authorisation of the person for the purposes of the definition of ADI in subsection 5(1) of that Act as in force immediately after that commencement.
+
+* * *
+
+_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)_
+
+## Schedule 8
+
+## 1  Definitions
+
+(1)        In this Part:
+
+                    <a name="afic"></a>**_AFIC_** means the Australian Financial Institutions Commission.
+
+                    <a name="afic-code"></a>**_AFIC Code_** means any of the following Codes of a State or Territory:
+
+                     (a)  the AFIC (NSW) Code of New South   Wales;
+
+                     (b)  the AFIC (Victoria) Code of Victoria;
+
+                     (c)  the AFIC (Queensland) Code of Queensland;
+
+                     (d)  the AFIC (Western Australia) Code of Western Australia;
+
+                     (e)  the AFIC (South Australia) Code of   South Australia;
+
+                      (f)  the AFIC (Tasmania) Code of Tasmania;
+
+                     (g)  the AFIC (ACT) Code of the Australian   Capital Territory;
+
+                     (h)  the AFIC (NT) Code of the Northern   Territory.
+
+                    <a name="apra"></a>**_APRA_** means the Australian Prudential Regulation Authority.
+
+                    <a name="apra-act"></a>**_APRA Act_** means the _Australian Prudential Regulation Authority Act 1998_.
+
+                    <a name="apra-employe"></a>**_APRA employee_** means a person appointed under section 45 of the APRA Act.
+
+                    <a name="asic"></a>**_ASIC_** means the Australian Securities and Investments Commission.
+
+                    <a name="fic-bodi"></a>**_FIC body_** means a body that is a society, or a special services provider, as defined in section 3 of any of the Financial Institutions Codes.
+
+                    <a name="financi-institut-code"></a>**_Financial Institutions Code_** means any of the following Codes of a State or Territory:
+
+                     (a)  the Financial Institutions (NSW) Code of New South Wales;
+
+                     (b)  the Financial Institutions (Victoria) Code of Victoria;
+
+                     (c)  the Financial Institutions (Queensland) Code of Queensland;
+
+                     (d)  the Financial Institutions (Western   Australia) Code of Western Australia;
+
+                     (e)  the Financial Institutions (South   Australia) Code of South Australia;
+
+                      (f)  the Financial Institutions (Tasmania) Code of Tasmania;
+
+                     (g)  the Financial Institutions (ACT) Code of the Australian Capital Territory;
+
+                     (h)  the Financial Institutions (NT) Code of the Northern Territory.
+
+                    <a name="friendli-societi-code"></a>**_Friendly Societies Code_** means any of the following Codes of a State or Territory:
+
+                     (a)  the Friendly Societies (NSW) Code of New South Wales;
+
+                     (b)  the Friendly Societies (Victoria) Code of Victoria;
+
+                     (c)  the Friendly Societies (Queensland) Code of Queensland;
+
+                     (d)  the Friendly Societies (Western   Australia) Code of Western Australia;
+
+                     (e)  the Friendly Societies (South   Australia) Code of South Australia;
+
+                      (f)  the Friendly Societies (Tasmania) Code of Tasmania;
+
+                     (g)  the Friendly Societies (ACT) Code of the Australian Capital Territory;
+
+                     (h)  the Friendly Societies (NT) Code of the Northern Territory.
+
+                    <a name="friendli-societi"></a>**_friendly society_** means a body that is a society for the purposes of any of the Friendly Societies Codes.
+
+                    <a name="ssa"></a>**_SSA_** means any of the following:
+
+                     (a)  the New South Wales Financial Institutions Commission;
+
+                     (b)  the Victorian Financial Institutions Commission;
+
+                     (c)  the Queensland Office of Financial Supervision;
+
+                     (d)  the Western Australian Financial Institutions Authority;
+
+                     (e)  the South Australian Office of Financial Supervision;
+
+                      (f)  the Tasmanian Office of Financial Supervision;
+
+                     (g)  the Registrar of Financial Institutions of the Australian Capital Territory;
+
+                     (h)  the Territory Supervisory Authority of the Northern Territory.
+
+                    <a name="state-territori-employe"></a>**_State or Territory employee_** means a person who, immediately before the transfer date, is:
+
+                     (a)  an officer, employee, or member of the staff of, AFIC or an SSA; or
+
+                     (b)  the Executive Director of AFIC; or
+
+                     (c)  the holder of any other statutory office within AFIC or an SSA, other than a statutory office of member (including a Chair or Deputy Chair, however described) of, or of the governing body of, AFIC or an SSA; or
+
+                     (d)  an officer, employee, or member of the staff of, a State or Territory, or an authority of a State or Territory, whose duties consist of or include assisting AFIC or an SSA in the performance of its functions or the exercise of its powers.
+
+                    <a name="territori"></a>**_Territory_** means the Australian Capital   Territory or the Northern Territory.
+
+                    <a name="transfer-agreem"></a>**_transfer agreement_** means an agreement entered into:
+
+                     (a)  by or on behalf of the Treasurer; and
+
+                     (b)  by or on behalf of a Minister of a State or Territory, or 2 or more such Ministers;
+
+that provides for matters connected with the transfer of staff, assets or liabilities from AFIC or an SSA to APRA or ASIC.
+
+                    <a name="transfer-date"></a>**_transfer date_** has the meaning given by section 2 (which is at the front of this Act).
+
+                    <a name="transfer-bodi"></a>**_transferring body_** means a body that, immediately before the transfer date, was:
+
+                     (a)  an FIC body; or
+
+                     (b)  a friendly society.
+
+(2)        In this Part, a reference to a transfer agreement determining or specifying a person, thing or other matter includes a reference to a person or persons determining or specifying that person, thing or matter, as permitted by that transfer agreement.
+
+## 2  Transfer of State or Territory employees to APRA
+
+(1)        A transfer agreement may determine that specified State or Territory employees become APRA employees on a specified date, not being a date before the transfer date. In this Division, the date so specified is the **_agreed date_** in relation to the employees concerned.
+
+_Note:       Employees may be specified by name, by inclusion in a specified class, or in some other way._
+
+(2)        The agreement has effect accordingly, to the extent that it is within the Commonwealth’s legislative power to give the agreement that effect.
+
+## 3  Terms and conditions of transferred staff
+
+(1)        APRA is to determine the terms and conditions applying to a person who becomes an APRA employee as mentioned in item 2 as if the person had actually been appointed under section 45 of the APRA Act. The terms and conditions of employment must not be less favourable than those that applied to the person immediately before the agreed date.
+
+(2)        The person is entitled to retain, as an APRA employee, all the benefits that had accrued to the person in respect of his or her length of State or Territory service up to the agreed date, as if those benefits had accrued in respect of the person’s position as an APRA employee. For this purpose, the person’s **_State or Territory service_** is:
+
+                     (a)  the person’s service as a State or Territory employee; and
+
+                     (b)  the person’s other service (if any) that, immediately before the person becoming an APRA employee, counted as service under the terms of that person’s employment as a State or Territory employee.
+
+(3)        The person’s service as an APRA employee is taken, for all purposes, to have been continuous with the person’s service, immediately before the agreed date, as a State or Territory employee.
+
+## 4  Statement of accrued benefits
+
+(1)        A transfer agreement may determine that APRA is to be given a statement of the benefits to which a person who becomes an APRA employee as mentioned in item 2 has an accrued entitlement in respect of his or her position as a State or Territory employee.
+
+(2)        In any proceedings relating to subitem 3(2), the statement is prima facie evidence of the matters set out in the statement.
+
+(3)        Item 2 has effect in relation to the person even if the statement is not given as required.
+
+## 5  Transfer of assets
+
+(1)        A transfer agreement may determine that all or any of the following things happen on a specified date, not being a date before the transfer date:
+
+                     (a)  specified assets vest in APRA, or in ASIC, without any conveyance, transfer or assignment;
+
+                     (b)  specified instruments in relation to specified assets continue to have effect after the assets vest in APRA, or in ASIC, as if specified references in the instruments were references to APRA, or to ASIC, as the case requires;
+
+                     (c)  APRA or ASIC becomes the previous owner’s successor in law in relation to specified assets immediately after the assets vest in APRA, or in ASIC.
+
+_Note:       Assets or instruments may be specified by description, by inclusion in a specified class or in some other way._
+
+(2)        The agreement has effect accordingly, to the extent that it is within the Commonwealth’s legislative power to give the agreement that effect.
+
+(3)        This item does not prevent assets being transferred to APRA or ASIC otherwise than in accordance with a transfer agreement.
+
+(4)        In this item:
+
+                    <a name="asset"></a>**_assets_** includes records.
+
+## 6  Transfer of liabilities
+
+(1)        A transfer agreement may determine that all or any of the following things happen on a specified date, not being a date before the transfer date:
+
+                     (a)  specified liabilities vest in APRA, or in ASIC;
+
+                     (b)  specified instruments in relation to specified liabilities continue to have effect after the liabilities vest in APRA, or in ASIC, as if specified references in the instruments were references to APRA, or to ASIC, as the case requires;
+
+                     (c)  APRA or ASIC becomes the previously liable person’s successor in law in relation to specified liabilities immediately after the liabilities vest in APRA, or in ASIC.
+
+_Note:       Liabilities or instruments may be specified by description, by inclusion in a specified class or in some other way._
+
+(2)        The agreement has effect accordingly, to the extent that it is within the Commonwealth’s legislative power to give the agreement that effect.
+
+(3)        This item does not prevent liabilities being transferred to APRA or ASIC otherwise than in accordance with a transfer agreement.
+
+## 7  Certain bodies taken to have authorities to carry on banking business
+
+(1)        This item applies to the following bodies:
+
+                     (a)  all bodies that were FIC bodies immediately before the transfer date;
+
+                     (b)  The Cairns Cooperative Weekly Penny Savings Bank Limited (**_CCWPSBL_**), but only if a determination under subitem (2) is in force immediately before the transfer date.
+
+_Note:       The Cairns Cooperative Weekly Penny Savings Bank Limited is a body incorporated under the Financial Intermediaries Act 1996 of Queensland._
+
+(2)        APRA may, in writing, determine that this item applies to CCWPSBL, but only if the Treasurer and the Queensland Minister responsible for the administration of the _Financial Intermediaries Act 1996_ of Queensland have agreed that CCWPSBL should be covered by the _Banking Act 1959_ from the transfer date.
+
+(3)        On the transfer date, a body to which this item applies is taken to have been granted an authority under subsection 9(3) of the _Banking Act 1959_.
+
+(4)        APRA may, in writing, determine conditions to which the authority is subject. The determination has effect accordingly.
+
+(5)        The authority may be dealt with under the _Banking Act 1959_ as if it had actually been granted under subsection 9(3) of that Act.
+
+(6)        Conditions determined under subitem (4) may be dealt with under the _Banking Act 1959_ as if they were imposed under subsection 9(4) of that Act.
+
+(7)        Subsection 9(7) of the _Banking Act 1959_ does not apply to:
+
+                     (a)  the grant of an authority that is taken to have occurred under subitem (3); or
+
+                     (b)  the imposition of conditions on that authority under subitem (4).
+
+(8)        APRA must give the body written notice of the following:
+
+                     (a)  the fact that the body is taken, by subitem (3), to have been granted an authority under subsection 9(3) of the _Banking Act 1959_; and
+
+                     (b)  the determination under subitem (4) of conditions to which the authority is subject.
+
+(9)        APRA may also give notice of a matter referred to in paragraph (8)(a) or (b) in such other way as APRA considers appropriate.
+
+## 8  Bodies taken to have consent for use of certain expressions
+
+(1)        A body that, immediately before the transfer date:
+
+                     (a)  was a society, services corporation or association as defined in section 3 of a Financial Institutions Code; and
+
+                     (b)  was trading or carrying on business (within the meaning of section 144 of that Code) under a name or title of which words, abbreviations or symbols covered by paragraph 144(2)(a) of that Code formed part;
+
+is taken, on the transfer date, to have been granted a consent under section 66 of the _Banking Act 1959_ covering the body trading or carrying on business under that name or title. The consent may be dealt with under that Act as
