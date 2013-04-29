@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00589/Html/7750ff58-d488-4647-98f2-293e043fbba3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00164/Html/2569d51e-03c7-43f8-9ed8-0c086227b9ff_files/image001.gif)
 
 # Marine Navigation (Regulatory Functions) Levy Collection Act 1991
 
 **Act No. 41 of 1991 as amended**
 
-This compilation was prepared on 7 August 2012
- taking into account amendments up to Act No. 54 of 2012
+This compilation was prepared on 30 January 2012
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -15,8 +15,6 @@ The operation of amendments that have been incorporated may be
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney‑General’s Department, Canberra
-
-<span style="font-size:8.0pt"> </span><span style="font-size:8.0pt"> </span>
 
 # Contents
 
@@ -66,8 +64,6 @@ Marine Navigation Levy Collection Act 1989            �
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="australian-intern-ship-regist"></a>**_Australian International Shipping Register_** has the same meaning as in the _Shipping Registration Act 1981_.
-
                     <a name="australian-port"></a>**_Australian port_** means a place  appointed, proclaimed or prescribed as a port under the _Customs Act 1901_, or under a law of a State or the Northern Territory.
 
                     <a name="authorised-person"></a>**_authorised person_** means a person appointed under section 5 of the _Marine Navigation Levy Collection Act 1989_.
@@ -88,15 +84,11 @@ Marine Navigation Levy Collection Act 1989            �
 
                     <a name="marin-navig-aid"></a>**_marine navigational aid_** has the same meaning as in the _Lighthouses Act 1911_.
 
-                    <a name="offic-custom"></a>**_officer of Customs_** has the same meaning as in the _Customs Act 1901_.
+                    <a name="offic-custom"></a>**_officer of Customs_** has the same meaning as in the _Customs Act 1901_.
 
                     <a name="quarter"></a>**_quarter_** means a period of 3 months commencing on 1 January, 1 April, 1 July or 1 October in any year.
 
-                    <a name="sea-go-ship"></a>**_sea‑going ship_** means:
-
-                     (a)  a ship which, in the course of a voyage to or from an Australian port, passes a marine navigational aid under the control of the Commonwealth; or
-
-                     (b)  a ship that is registered in the Australian International Shipping Register.
+                    <a name="sea-go-ship"></a>**_sea‑going ship_** includes a ship which, in the course of a voyage to or from an Australian port, passes a marine navigational aid under the control of the Commonwealth.
 
                     <a name="ship"></a>**_ship_** has the same meaning as in the _Lighthouses Act 1911_.
 
@@ -132,7 +124,7 @@ Marine Navigation Levy Collection Act 1989            �
 
 is payable on the day the ship leaves that port.
 
-             (3)  Levy in respect of a ship (other than a ship to which subsection (1), (2) or (4A) applies) is payable:
+             (3)  Levy in respect of a ship (other than a ship to which subsection (1) or (2) applies) is payable:
 
                      (a)  where levy has not previously been paid in respect of the ship—on the day of its arrival at an Australian port; or
 
@@ -149,8 +141,6 @@ is payable on the day the ship leaves that port.
                      (c)  to disembark a passenger or a member of the crew for medical treatment; or
 
                      (d)  for shelter, repairs or refitting.
-
-          (4A)  Levy in respect of a ship that is registered in the Australian International Shipping Register is payable on the first day of each quarter.
 
              (5)  Levy is not payable in respect of a ship more than 4 times in any period of 12 consecutive months.
 
@@ -206,7 +196,7 @@ is payable on the day the ship leaves that port.
 
                    The Acts specified in the Schedule are amended as set out in the Schedule.
 
-###### Schedule—Consequential amendments of other Acts
+# Schedule—Consequential amendments of other Acts
 
 _Section 12_
 
@@ -222,29 +212,29 @@ After “_Marine Navigation Levy Act 1989_”, insert “, the _Marine Navigatio
 
 Repeal the section, substitute:
 
-##### <a id="8"></a>8  To whom levy is payable
+##### “8  To whom levy is payable
 
-             (1)  Levy payable under subsection 7(1) must be paid:
+           “(1)  Levy payable under subsection 7(1) must be paid:
 
                      (a)  to a Collector at the ship’s home port; or
 
                      (b)  to a Collector at such other Australian port as the owner or agent of the ship has specified in a written notice given, before the day on which the levy is payable, to a Collector at the ship’s home port.
 
-             (2)  Levy payable under subsection 7(2) must be paid:
+           “(2)  Levy payable under subsection 7(2) must be paid:
 
                      (a)  to a Collector at the Australian port referred to in that subsection; or
 
                      (b)  to a Collector at such other Australian port as the owner or agent of the ship has specified in a written notice given, before the day on which the levy is payable, to the Collector at that port.
 
-             (3)  Levy payable under subsection 7(3) must be paid to a Collector at the Australian port referred to in that subsection.
+           “(3)  Levy payable under subsection 7(3) must be paid to a Collector at the Australian port referred to in that subsection.
 
-             (4)  The payment of levy may be made:
+           “(4)  The payment of levy may be made:
 
                      (a)  personally; or
 
                      (b)  by post addressed to the Collector; or
 
-                     (c)  as otherwise prescribed.
+                     (c)  as otherwise prescribed.”.
 
 # Notes to the _Marine Navigation (Regulatory Functions) Levy Collection Act 1991_
 
@@ -336,27 +326,7 @@ of Assent</div>
     <div>14 Dec 2009</div>
   </td>
   <td>
-    <div>Schedule 3 (items 4, 5): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Shipping Registration Amendment (Australian International Shipping Register) Act 2012</div>
-  </td>
-  <td>
-    <div>54, 2012</div>
-  </td>
-  <td>
-    <div>21 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 2–5): 1 July 2012</div>
+    <div>Schedule 3 (items 4, 5): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
   </td>
   <td>
     <div>—</div>
@@ -394,15 +364,7 @@ of Assent</div>
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 94, 2008; No. 54, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 54, 2012</div>
+    <div>am. No. 94, 2008</div>
   </td>
 </tr>
 <tr>
