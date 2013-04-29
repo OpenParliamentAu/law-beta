@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00660/Html/292f9482-4db3-47fe-9dea-a909daa88180_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00250/Html/a3de7b4b-1412-4ee9-9b2c-6198fee58eea_files/image001.gif)
 
 # War Graves Act 1980
 
 **Act No. 100 of 1980 as amended**
 
-This compilation was prepared on 23 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -296,74 +296,59 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td colspan="2">
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 502–514): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 7 (item 147): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 1171–1175) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
+<thead>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td colspan="2">
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2008</div>
+    </td>
+    <td>
+      <div>73, 2008</div>
+    </td>
+    <td>
+      <div>3 July 2008</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 4 (items 502–514): 4 July 2008</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2011</div>
+    </td>
+    <td>
+      <div>5, 2011</div>
+    </td>
+    <td>
+      <div>22 Mar 2011</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 7 (item 147): 19 Apr 2011</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</thead>
 <tr height="0">
   <td></td>
   <td></td>
@@ -495,38 +480,6 @@ _(d)_     The _War Graves Act 1980_ was amended by Schedule 1 (item 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1171  Subsection 10(1)
-
-Omit “(1)”.
-
-## 1172  Paragraph 10(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 1173  Subsection 10(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 1174  At the end of subsection 10(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 1175  Subsections 10(2) to (7)
-
-Repeal the subsections.
-
-As at 23 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -539,21 +492,5 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
