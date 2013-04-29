@@ -1,7 +1,7 @@
 
 Royal Commissions Act 1902
 Act No. 12 of 1902 as amended
-This compilation was prepared on 8 October 2001 taking into account amendments up to Act No. 166 of 2001
+This compilation was prepared on 19 July 2001 taking into account amendments up to Act No. 49 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -16,37 +16,37 @@ Contents
 3	Failure of witnesses to attend or produce documents	3
 4	Search warrants	4
 5	Application by telephone for search warrants	6
-6	Penalty for refusing to be sworn or to give evidence	7
-6A	Self incrimination	7
-6B	Arrest of witness failing to appear	8
+6	Penalty for refusing to be sworn or to give evidence	6
+6A	Self‑incrimination	7
+6B	Arrest of witness failing to appear	7
 6C	Acts or omissions on different days to constitute separate offences	8
-6D	Rights of witness	9
-6DD	Statements made by witness not admissible in evidence against the witness	10
-6F	Power of Commission in relation to documents and other things	10
-6FA	Examination of witnesses by counsel etc.	11
-6G	Witness to be paid expenses	11
-6H	False or misleading evidence	11
-6I	Bribery of witness	12
-6J	Fraud on witness	13
-6K	Destroying documents or other things	13
-6L	Preventing witness from attending	14
-6M	Injury to witness	15
-6N	Dismissal by employers of witness	15
-6O	Contempt of Royal Commission	15
-6P	Commission may communicate information	16
-7	Protection to Commissioners etc.	17
-7AA	Commission may have concurrent functions and powers under State laws	18
-7A	Effect of Royal Commissioner having authority to inquire under foreign law	18
-7B	Commission may take evidence outside Australia	19
-7C	Statements made by witness not admissible in evidence against the witness	20
-7D	Certain evidence before a State Commission inadmissible in Commonwealth proceedings	20
-8	Allowances to witnesses	21
-LEGAL PROCEEDINGS	22
-10	Institution of proceedings in respect of other offences	22
-15	Costs	22
-16	Evidence of issue of Commission etc.	22
-17	Regulations	23
-Notes		25
+6D	Rights of witness	8
+6DD	Statements made by witness not admissible in evidence against the witness	9
+6F	Power of Commission in relation to documents and other things	9
+6FA	Examination of witnesses by counsel etc.	10
+6G	Witness to be paid expenses	10
+6H	False or misleading evidence	10
+6I	Bribery of witness	11
+6J	Fraud on witness	11
+6K	Destroying documents or other things	12
+6L	Preventing witness from attending	12
+6M	Injury to witness	13
+6N	Dismissal by employers of witness	13
+6O	Contempt of Royal Commission	13
+6P	Commission may communicate information	14
+7	Protection to Commissioners etc.	15
+7AA	Commission may have concurrent functions and powers under State laws	15
+7A	Effect of Royal Commissioner having authority to inquire under foreign law	16
+7B	Commission may take evidence outside Australia	17
+7C	Statements made by witness not admissible in evidence against the witness	17
+7D	Certain evidence before a State Commission inadmissible in Commonwealth proceedings	17
+8	Allowances to witnesses	18
+LEGAL PROCEEDINGS	20
+10	Institution of proceedings in respect of other offences	20
+15	Costs	20
+16	Evidence of issue of Commission etc.	20
+17	Regulations	21
+Notes		23
 
 An Act relating to Royal Commissions
 1  Short title [see Note 1]
@@ -68,14 +68,11 @@ relevant Commission means a Commission established by Letters Patent that declar
 		Chapter 2 of the Criminal Code applies to all offences against this Act.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 2  Power to summon witnesses and take evidence
-	(1)	A member of a Commission may summon a person to appear before the Commission at a hearing to do either or both of the following:
-	(a)	to give evidence;
-	(b)	to produce the documents, or other things, specified in the summons.
+	(1)	A member of a Commission may summon a person to appear before the Commission at a hearing to give evidence and to produce such documents or other things (if any) as are referred to in the summons.
 	(2)	The member of a Commission presiding at a hearing of the Commission may require a person appearing at the hearing to produce a document or other thing.
 	(3)	A Commission may, at a hearing, take evidence on oath or affirmation and for that purpose:
 	(a)	a member of the Commission may require a person appearing at the hearing to give evidence either to take an oath or to make an affirmation in a form approved by the member of the Commission presiding at the hearing; and
 	(b)	a member of the Commission, or a person who is an authorized person in relation to the Commission, may administer an oath or affirmation to a person so appearing at the hearing.
-	(3A)	A member of a Commission may, by written notice served (as prescribed) on a person, require the person to produce a document or thing specified in the notice to a person, and at the time and place, specified in the notice.
 	(4)	In this section, a reference to a person who is an authorized person in relation to a Commission is a reference to a person authorized in writing, or a person included in a class of persons authorized in writing, for the purposes of this section by the President or Chairman of that Commission, or by the sole Commissioner, as the case may be.
 3  Failure of witnesses to attend or produce documents
 	(1)	A person served, as prescribed, with a summons to appear as a witness at a hearing before a Commission shall not:
@@ -91,25 +88,17 @@ Penalty:	$1,000 or imprisonment for 6 months.
 	(2B)	Subsection (2) does not apply if the person has a reasonable excuse.
 	(3)	It is a defence to a prosecution for an offence against subsection (2) constituted by a failure to produce a document or other thing to a Commission if the document or other thing was not relevant to the matters into which the Commission was inquiring.
 Note:	A defendant bears an evidential burden in relation to the matters in subsections (1B), (2B) and (3) (see subsection 13.3(3) of the Criminal Code).
-	(4)	A person served with a notice under subsection 2(3A) must not refuse or fail to produce a document or other thing that the person was required to produce in accordance with the notice.
-Penalty:	$1,000 or imprisonment for 6 months.
-	(5)	Subsection (4) does not apply if the person has a reasonable excuse.
-	(6)	It is a defence to a prosecution for an offence against subsection (4) constituted by a refusal or failure to produce a document or other thing if the document or other thing was not relevant to the matters into which the Commission was inquiring.
-Note:	A defendant bears an evidential burden in relation to the matters in subsections (5) and (6) (see subsection 13.3(3) of the Criminal Code).
 4  Search warrants
-	(1A)	A relevant Commission may authorise:
-	(a)	a member of the relevant Commission; or
-	(b)	a member of the Australian Federal Police, or of the Police Force of a State or Territory, who is assisting the relevant Commission;
-to apply for search warrants under subsection (3) in relation to matters into which the relevant Commission is inquiring. The authorisation must be in writing.
 	(1)	Where:
-	(a)	a relevant Commission, or a person authorised by a relevant Commission under subsection (1A), has reasonable grounds for suspecting that there may be, at that time or within the next following 24 hours, upon any land or upon or in any premises, vessel, aircraft or vehicle, a thing or things of a particular kind connected with a matter into which the relevant Commission is inquiring (in this section referred to as things of the relevant kind); and
-	(b)	the relevant Commission, or the person, believes on reasonable grounds that, if a summons were issued for the production of the thing or things, the thing or things might be concealed, lost, mutilated or destroyed;
-the relevant Commission, or the person, may apply to a Judge of a prescribed court for the issue of a search warrant under subsection (3).
-	(3)	Where an application under subsection (1) is made to a Judge of a prescribed court, the Judge may, if he or she is satisfied that there are reasonable grounds for issuing the warrant, issue a search warrant authorizing a member of the Australian Federal Police or of the Police Force of a State or of the Northern Territory, or any other person, named in the warrant, with such assistance as the member or person thinks necessary and if necessary by force:
+	(a)	a relevant Commission has reasonable grounds for suspecting that there may be, at that time or within the next following 24 hours, upon any land or upon or in any premises, vessel, aircraft or vehicle, a thing or things of a particular kind connected with a matter into which the relevant Commission is inquiring (in this section referred to as things of the relevant kind); and
+	(b)	the relevant Commission believes on reasonable grounds that, if a summons were issued for the production of the thing or things, the thing or things might be concealed, lost, mutilated or destroyed;
+the relevant Commission may apply to a Judge of a prescribed court for the issue of a search warrant under subsection (3).
+	(2)	A reference in subsection (1) to a relevant Commission includes a reference to a member of a relevant Commission authorized by the relevant Commission to act under that subsection.
+	(3)	Where an application under subsection (1) is made by a relevant Commission to a Judge of a prescribed court, the Judge may, if he or she is satisfied that there are reasonable grounds for issuing the warrant, issue a search warrant authorizing a member of the Australian Federal Police or of the Police Force of a State or of the Northern Territory, or any other person, named in the warrant, with such assistance as the member or person thinks necessary and if necessary by force:
 	(a)	to enter upon the land or upon or into the premises, vessel, aircraft or vehicle;
 	(b)	to search the land, premises, vessel, aircraft or vehicle for things of the relevant kind; and
 	(c)	to seize any things of the relevant kind found upon the land or upon or in the premises, vessel, aircraft or vehicle and deliver things so seized to the relevant Commission.
-	(4)	There shall be stated in a warrant issued under this section:
+	(4)	There shall be stated in a warrant issued under this section on the application of a relevant Commission:
 	(a)	a statement of the purpose for which the warrant is issued, which shall include a reference to the matter into which the relevant Commission is inquiring and with which the things of the relevant kind are connected;
 	(b)	whether entry is authorized to be made at any time of the day or night or during specified hours of the day or night;
 	(c)	a description of the kind of things authorized to be seized; and
@@ -123,11 +112,11 @@ and he or she believes on reasonable grounds that it is necessary to seize that 
 	(b)	a Judge of a court of a State or Territory.
 	(7)	In this section, thing includes a document.
 5  Application by telephone for search warrants
-	(1)	An application for a search warrant under subsection 4(1) may be made by telephone if the applicant for the warrant considers it necessary to do so because of circumstances of urgency.
+	(1)	Where, by reason of circumstances of urgency, a relevant Commission considers it necessary to do so, the relevant Commission may make application by telephone for a search warrant under subsection 4(1).
 	(2)	Where a Judge issues a search warrant upon an application made by telephone, the Judge shall:
 	(a)	complete and sign that warrant;
-	(b)	inform the applicant of the terms of the warrant and the date on which and the time at which it was signed; and
-	(c)	forward a copy of the warrant to the applicant.
+	(b)	inform the relevant Commission of the terms of the warrant and the date on which and the time at which it was signed; and
+	(c)	forward a copy of the warrant to the relevant Commission.
 	(3)	Where a search warrant is issued upon an application made by telephone, a member of the staff of the relevant Commission or a member of the Australian Federal Police or of the Police Force of a State may complete a form of warrant in the terms indicated by a Judge under subsection (2).
 	(4)	A form of warrant duly completed in accordance with subsection (3) shall be deemed to be a warrant issued under section 4.
 6  Penalty for refusing to be sworn or to give evidence
@@ -135,55 +124,34 @@ and he or she believes on reasonable grounds that it is necessary to seize that 
 	(2)	The penalty for an offence under subsection (1) is a fine not exceeding $1,000 or imprisonment for a period not exceeding 6 months.
 	(3)	Subsection (1) is an offence of strict liability.
 Note:	For strict liability, see section 6.1 of the Criminal Code.
-6A  Self incrimination
-	(1)	It is not a reasonable excuse for the purposes of subsection 3(2B) or (5) for a natural person to refuse or fail to produce a document or other thing that the production of the document or other thing might tend to:
-	(a)	incriminate the person; or
-	(b)	make the person liable to a penalty.
-	(2)	A natural person is not excused from answering a question that the person is required to answer by a member of a Commission on the ground that answering the question might tend to:
-	(a)	incriminate the person; or
-	(b)	make the person liable to a penalty.
-	(3)	Subsections (1) and (2) do not apply to the production of a document or other thing, or the answer to a question, if:
-	(a)	the production or answer might tend to incriminate the person in relation to an offence; and
-	(b)	the person has been charged with that offence; and
-	(c)	the charge has not been finally dealt with by a court or otherwise disposed of.
-	(4)	Subsections (1) and (2) do not apply to the production of a document or other thing, or the answer to a question, if:
-	(a)	the production or answer might tend to make the person liable to a penalty; and
-	(b)	proceedings in respect of the penalty have commenced; and
-	(c)	those proceedings have not been finally dealt with by a court or otherwise disposed of.
+6A  Self‑incrimination
+	(1)	It is not a reasonable excuse for the purposes of subsection 3(2B) for a person to refuse or fail to produce a document or other thing that the person was required to produce at a hearing before a Commission that the production of the document or other thing might tend to incriminate him or her.
+	(2)	A person is not entitled to refuse or fail to answer a question that the person is required to answer by a member of a Commission on the ground that the answer to the question might tend to incriminate him or her.
+	(3)	This section does not apply where the offence in respect of which the production of a document or other thing or the answer to a question might tend to incriminate a person is an offence with which the person has been charged and the charge has not been finally dealt with by a court or otherwise disposed of.
 6B  Arrest of witness failing to appear
 	(1)	If any person served with a summons to attend a Royal Commission as a witness fails to attend the Commission in answer to the summons, the President or Chairman may, on proof by statutory declaration of the service of the summons, issue a warrant for the person’s apprehension.
 	(2)	The warrant shall authorize the apprehension of the witness and the witness being brought before the Commission, and the witness’ detention in custody for that purpose until he or she is released by order of the President or Chairman.
 	(3)	The warrant may be executed by any member of the Australian Federal Police or of the Police Force of a State or of the Northern Territory, or by any person to whom it is addressed, and the person executing it shall have power to break and enter any place building or vessel for the purpose of executing it.
 	(4)	The apprehension of any witness under this section shall not relieve him or her from any liability incurred by the witness by reason of his or her non‑compliance with the summons.
 6C  Acts or omissions on different days to constitute separate offences
-		Where any person has on any day done or omitted to do something, and the person’s act or omission amounts to an offence against section 3 or 6, and does or omits to do the same thing at any meeting of the Commission held on some other day, each such act or omission shall be a separate offence.
+		Where any person has on any day done or omitted to do something, and the person’s act or omission amounts to an offence against section five or section six of this Act, and does or omits to do the same thing at any meeting of the Commission held on some other day, each such act or omission shall be a separate offence.
 6D  Rights of witness
 	(1)	Nothing in this Act shall make it compulsory for any witness before a Royal Commission to disclose to the Commission any secret process of manufacture.
 	(2)	If any witness before a Royal Commission requests that the witness’ evidence relating to a particular subject be taken in private on the ground that the evidence relates to the profits or financial position of any person, and that the taking of the evidence in public would be unfairly prejudicial to the interests of that person, the Commission may, if it thinks proper, take that evidence in private, and no person who is not expressly authorized by the Commission to be present shall be present during the taking of that evidence.
 	(3)	The Commission may direct that:
 	(a)	any evidence given before it;
-	(b)	the contents of any document, or a description of any thing:
-	(i)	produced before, or delivered to, the Commission; or
-	(ii)	produced under a notice under subsection 2(3A); or
+	(b)	the contents of any document, or a description of any thing, produced before, or delivered to, the Commission; or
 	(c)	any information that might enable a person who has given evidence before the Commission to be identified;
 shall not be published, or shall not be published except in such manner, and to such persons, as the Commission specifies.
 	(4)	A person who makes any publication in contravention of any direction given under subsection (3) is guilty of an offence punishable, upon summary conviction, by a fine not exceeding $2,000 or imprisonment for a period not exceeding 12 months.
 	(5)	This section shall be read as in aid of and not as in derogation of the Commission’s general powers to order that any evidence may be taken in private.
 6DD  Statements made by witness not admissible in evidence against the witness
-	(1)	The following are not admissible in evidence against a natural person in any civil or criminal proceedings in any court of the Commonwealth, of a State or of a Territory:
-	(a)	a statement or disclosure made by the person in the course of giving evidence before a Commission;
-	(b)	the production of a document or other thing by the person pursuant to a summons, requirement or notice under section 2.
-	(2)	Subsection (1) does not apply to the admissibility of evidence in proceedings for an offence against this Act.
+		A statement or disclosure made by any witness in the course of giving evidence before a Commission is not (except in proceedings for an offence against this Act) admissible in evidence against that witness in any civil or criminal proceedings in any court of the Commonwealth, of a State or of a Territory.
 6F  Power of Commission in relation to documents and other things
 	(1)	A Commission, a member of a Commission or a person who is an authorized person in relation to a Commission may:
-	(a)	inspect any documents or other things:
-	(i)	produced before, or delivered to, the Commission; or
-	(ii)	produced under a notice under subsection 2(3A); and
+	(a)	inspect any documents or other things produced before, or delivered to, the Commission;
 	(b)	retain the documents or other things for so long as is reasonably necessary for the purposes of the inquiry to which the documents or other things are relevant; and
-	(c)	in the case of documents:
-	(i)	produced before, or delivered to, the Commission; or
-	(ii)	produced under a notice under subsection 2(3A);
-		make copies of any documents that contain matter that is relevant to a matter into which the Commission is inquiring.
+	(c)	in the case of documents produced before, or delivered to, the Commission—make copies of matter contained in the documents, being matter that is relevant to a matter into which the Commission is inquiring.
 	(2)	Where the retention of a document or other thing by a Commission ceases to be reasonably necessary for the purposes of the inquiry to which the document or other thing is relevant, the Commission shall, if a person who appears to the Commission to be entitled to the document or other thing so requests, cause the document or other thing to be delivered to that person unless the Commission has furnished the document or other thing to a person or body referred to in paragraph 6P(1)(a), (aa), (c), (d), (da) or (e) or subsection 6P(2) or (2A).
 	(3)	In subsection (1), a reference to a person who is an authorized person in relation to a Commission is a reference to a person authorized in writing, or a person included in a class of persons authorized in writing, for the purposes of that subsection by the President or Chairman of that Commission, or by the sole Commissioner, as the case may be.
 6FA  Examination of witnesses by counsel etc.
@@ -197,23 +165,15 @@ shall not be published, or shall not be published except in such manner, and to 
 	(3)	Notwithstanding that an offence against subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 	(4)	Where, in accordance with subsection (3), a court of summary jurisdiction convicts a person of an offence against subsection (1), the penalty that the court may impose is a fine not exceeding $2,000 or imprisonment for a period not exceeding 12 months.
 6I  Bribery of witness
-	(1)	Any person who:
+		Any person who:
 	(a)	gives, confers, or procures, or promises or offers to give or confer, or to procure or attempt to procure, any property or benefit of any kind to, upon, or for, any person, upon any agreement or understanding that any person called or to be called as a witness before any Royal Commission shall give false testimony or withhold true testimony; or
 	(b)	attempts by any means to induce a person called or to be called as a witness before any Royal Commission to give false testimony, or to withhold true testimony; or
 	(c)	asks, receives or obtains, or agrees to receive or obtain any property or benefit of any kind for himself, or any other person, upon any agreement or understanding that any person shall as a witness before any Royal Commission give false testimony or withhold true testimony;
 shall be guilty of an indictable offence.
 Penalty:	Imprisonment for five years.
-	(2)	Any person who:
-	(a)	gives, confers, or procures, or promises or offers to give or confer, or to procure or attempt to procure, any property or benefit of any kind to, upon, or for, any person, upon any agreement or understanding that any person who is required to produce a document or other thing pursuant to a summons, requirement or notice under section 2 will not comply with the requirement; or
-	(b)	attempts by any means to induce any person who is required to produce a document or other thing pursuant to a summons, requirement or notice under section 2 not to comply with the requirement; or
-	(c)	asks, receives or obtains, or agrees to receive or obtain any property or benefit of any kind for himself, or any other person, upon any agreement or understanding that any person who is required to produce a document or other thing pursuant to a summons, requirement or notice under section 2 will not comply with the requirement;
-is guilty of an indictable offence.
-Penalty:	Imprisonment for 5 years.
 6J  Fraud on witness
-	(1)	Any person who practises any fraud or deceit, or intentionally makes or exhibits any statement, representation, token, or writing, knowing it to be false, to any person called or to be called as a witness before any Royal Commission with intent to affect the testimony of that person as a witness, shall be guilty of an indictable offence.
+		Any person who practises any fraud or deceit, or intentionally makes or exhibits any statement, representation, token, or writing, knowing it to be false, to any person called or to be called as a witness before any Royal Commission with intent to affect the testimony of that person as a witness, shall be guilty of an indictable offence.
 Penalty:	Imprisonment for two years.
-	(2)	Any person who practises any fraud or deceit, or intentionally makes or exhibits any statement, representation, token, or writing, knowing it to be false, to any person with intent that any person who is required to produce a document or other thing pursuant to a summons, requirement or notice under section 2 will not comply with the requirement, is guilty of an indictable offence.
-Penalty:	Imprisonment for 2 years.
 6K  Destroying documents or other things
 	(1)	A person commits an offence if:
 	(a)	the person acts or omits to act; and
@@ -221,31 +181,19 @@ Penalty:	Imprisonment for 2 years.
 	(i)	concealed, mutilated or destroyed; or
 	(ii)	rendered incapable of identification; or
 	(iii)	in the case of a document, rendered illegible or indecipherable; and
-	(c)	the person knows, or is reckless as to whether, the document or thing is one that:
-	(i)	is or may be required in evidence before a Commission; or
-	(ii)	a person has been, or is likely to be, required to produce pursuant to a summons, requirement or notice under section 2.
+	(c)	the person knows or has reasonable grounds to believe that the document or thing is or may be required in evidence before a Commission.
 	(2)	An offence under subsection (1) is an indictable offence and, subject to this section, is punishable on conviction by imprisonment for a period not exceeding 2 years or by a fine not exceeding $10,000.
 	(3)	Notwithstanding that an offence under subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 	(4)	Where, in accordance with subsection (3), a court of summary jurisdiction convicts a person of an offence under subsection (1), the penalty that the court may impose is a fine not exceeding $2,000 or imprisonment for a period not exceeding 12 months.
 6L  Preventing witness from attending
-	(1)	Any person who intentionally prevents any person who has been summoned to attend as a witness before any Royal Commission from attending as a witness or from producing anything in evidence pursuant to the summons to attend shall be guilty of an indictable offence.
+		Any person who intentionally prevents any person who has been summoned to attend as a witness before any Royal Commission from attending as a witness or from producing anything in evidence pursuant to the summons to attend shall be guilty of an indictable offence.
 Penalty:	Imprisonment for one year.
-	(2)	Any person who intentionally prevents any person who is required to produce a document or other thing pursuant to a notice under subsection 2(3A) from producing that document or thing in accordance with the notice is guilty of an indictable offence.
-Penalty:	Imprisonment for 1 year.
 6M  Injury to witness
-		Any person who uses, causes or inflicts, any violence, punishment, damage, loss, or disadvantage to any person for or on account of:
-	(a)	the person having appeared as a witness before any Royal Commission; or
-	(b)	any evidence given by him or her before any Royal Commission; or
-	(c)	the person having produced a document or thing pursuant to a summons, requirement or notice under section 2;
-is guilty of an indictable offence.
-Penalty:	$1,000, or imprisonment for 1 year.
+		Any person who uses, causes or inflicts, any violence, punishment, damage, loss, or disadvantage to any person for or on account of the person having appeared as a witness before any Royal Commission, or for or on account of any evidence given by him or her before any Royal Commission, shall be guilty of an indictable offence.
+Penalty:	One thousand dollars, or imprisonment for one year.
 6N  Dismissal by employers of witness
-	(1)	Any employer who dismisses any employee from his or her employment, or prejudices any employee in his or her employment, for or on account of the employee having:
-	(a)	appeared as a witness before a Royal Commission; or
-	(b)	given evidence before a Royal Commission; or
-	(c)	produced a document or thing pursuant to a summons, requirement or notice under section 2;
-is guilty of an indictable offence.
-Penalty:	$1,000, or imprisonment for 1 year.
+	(1)	Any employer who dismisses any employee from his or her employment, or prejudices any employee in his or her employment, for or on account of the employee having appeared as a witness before a Royal Commission, or for or on account of the employee having given evidence before a Royal Commission, shall be guilty of an indictable offence.
+Penalty:	One thousand dollars, or imprisonment for one year.
 	(2)	Subsection (1) does not apply if the employee was dismissed or prejudiced in his or her employment for some reason other than the reasons mentioned in subsection (1).
 Note:	A defendant bears an evidential burden in relation to the matters in subsection (2) (see subsection 13.3(3) of the Criminal Code).
 6O  Contempt of Royal Commission
@@ -253,16 +201,13 @@ Note:	A defendant bears an evidential burden in relation to the matters in subse
 Penalty:	Two hundred dollars, or imprisonment for three months.
 	(2)	If the President or Chairman of a Royal Commission or the sole Commissioner is a Justice of the High Court, or a Judge of any other Federal Court, of the Supreme Court of a Territory or of the Supreme Court or County Court or District Court of a State, he or she shall, in relation to any offence against subsection (1) of this section committed in the face of the Commission, have all the powers of a Justice of the High Court sitting in open Court in relation to a contempt committed in face of the Court, except that any punishment inflicted shall not exceed the punishment provided by subsection (1) of this section.
 6P  Commission may communicate information
-	(1)	Where, in the course of inquiring into a matter, a Commission obtains information that relates, or that may relate, to a contravention of a law, or evidence of a contravention of a law, of the Commonwealth, of a State or of a Territory, the Commission may, if in the opinion of the Commission it is appropriate so to do, communicate the information or furnish the evidence, as the case may be, to:
-	(a)	the Attorney‑General of the Commonwealth, of a State, of the Australian Capital Territory or of the Northern Territory; or
+	(1)	Where, in the course of inquiring into a matter, a Commission obtains information that relates, or that may relate, to the commission of an offence, or evidence of the commission of an offence, against a law of the Commonwealth, of a State or of a Territory, the Commission may, if in the opinion of the Commission it is appropriate so to do, communicate the information or furnish the evidence, as the case may be, to:
+	(a)	the Attorney‑General of the Commonwealth, of a State or of the Northern Territory; or
 	(aa)	the Director of Public Prosecutions; or
 	(c)	a Special Prosecutor appointed under the Special Prosecutors Act 1982; or
 	(d)	the Commissioner of the Australian Federal Police or of the Police Force of a State or of the Northern Territory; or
 	(da)	the Director of the Australian Bureau of Criminal Intelligence; or
 	(e)	the authority or person responsible for the administration or enforcement of that law.
-	(1A)	A reference in subsection (1) to a contravention of a law is a reference to a contravention for which a person may be liable to:
-	(a)	a criminal penalty; or
-	(b)	a civil or administrative penalty.
 	(2)	Where, in the course of inquiring into a matter, a Commission:
 	(a)	obtains information;
 	(b)	takes evidence; or
@@ -339,6 +284,7 @@ are the same or substantially the same as the matters specified in the Letters P
 		The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
 Notes to the Royal Commissions Act 1902
 Note 1
 The Royal Commissions Act 1902 as shown in this compilation comprises Act No. 12, 1902 amended as indicated in the Tables below.
@@ -434,11 +380,6 @@ Prime Minister and Cabinet Legislation Amendment (Application of Criminal Code) 
 21 June 2001
 19 July 2001
 S. 4 [see Table A]
-Royal Commissions and Other Legislation Amendment Act 2001
-166, 2001
-1 Oct 2001
-1 Oct 2001
-—
 (a)	The Royal Commissions Act 1902 was amended by Part XXXIV (sections 201‑204) only of the Statute Law (Miscellaneous Amendments) Act (No. 1) 1982, subsection 2(1) of which provides as follows:
 	(1)	Sections 1 and 2 and Parts VIII and XXXIV shall come into operation on the day on which this Act receives the Royal Assent.
 (b)	The Royal Commissions Amendment Act 1982 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1983, subsection 2(12) of which provides as follows:
@@ -468,24 +409,22 @@ S. 2
 am. No. 4, 1912; No. 216, 1973
 
 rs. No. 139, 1982
-
-am. No. 166, 2001
 S. 3	
 rs. No. 139, 1982
 
-am. Nos. 49 and 166, 2001
+am. No. 49, 2001
 Note to s. 3(3)	
 ad. No. 49, 2001
 S. 4	
 rs. No. 139, 1982
 
-am. Nos. 49 and 166, 2001
+am. No. 49, 2001
 S. 5	
 am. No. 4, 1912; No. 93, 1966
 
 rs. No. 139, 1982
 
-am. Nos. 49 and 166, 2001
+am. No. 49, 2001
 S. 6	
 am. No. 4, 1912; No. 93, 1966; No. 139, 1982; No. 49, 2001
 S. 6A	
@@ -494,8 +433,6 @@ ad. No. 4, 1912
 rs. No. 139, 1982
 
 am. No. 49, 2001
-
-rs. No. 166, 2001
 S. 6B	
 ad. No. 4, 1912
 
@@ -503,17 +440,17 @@ am. No. 139, 1982; No. 49, 2001
 S. 6C	
 ad. No. 4, 1912
 
-am. Nos. 49 and 166, 2001
+am. No. 49, 2001
 S. 6D	
 ad. No. 4, 1912
 
-am. No. 1, 1933; No. 93, 1966; No. 139, 1982; Nos. 49 and 166, 2001
+am. No. 1, 1933; No. 93, 1966; No. 139, 1982; No. 49, 2001
 Heading to s. 6DD	
 am. No. 49, 2001
 S. 6DD	
 ad. No. 4, 1912
 
-rs. No. 26, 1982; No. 166, 2001
+rs. No. 26, 1982
 S. 6E	
 ad. No. 4, 1912
 
@@ -527,7 +464,7 @@ am. No. 1, 1933
 
 rs. No. 139, 1982
 
-am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001
+am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994
 S. 6FA	
 ad. No. 1, 1933
 
@@ -545,27 +482,21 @@ am. No. 49, 2001
 Ss. 6I, 6J	
 ad. No. 4, 1912
 
-am. Nos. 49 and 166, 2001
+am. No. 49, 2001
 S. 6K	
 ad. No. 4, 1912
 
 rs. No. 139, 1982
 
-am. Nos. 49 and 166, 2001
+am. No. 49, 2001
 S. 6L	
 ad. No. 4, 1912
 
-am. Nos. 49 and 166, 2001
-S. 6M	
+am. No. 49, 2001
+Ss. 6M, 6N 	
 ad. No. 4, 1912
 
 am. No. 93, 1966; No. 49, 2001
-
-rs. No. 166, 2001
-S. 6N 	
-ad. No. 4, 1912
-
-am. No. 93, 1966; Nos. 49 and 166, 2001
 S. 6O	
 ad. No. 4, 1912
 
@@ -573,7 +504,7 @@ am. No. 93, 1966; No. 19, 1979; No. 49, 2001
 S. 6P	
 ad. No. 139, 1982
 
-am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994; No. 166, 2001
+am. Nos. 91 and 114, 1983; No. 42, 1984; No. 33, 1994
 S. 7	
 am. No. 4, 1912; No. 139, 1982; No. 49, 2001
 S. 7AA	
