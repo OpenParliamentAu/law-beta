@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00027/Html/96dd6d27-d8e8-4f59-a347-a5af89e821ea_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00857/Html/8c0d94af-e56d-4523-9900-e397b5e325d1_files/image001.gif)
 
 # Administrative Decisions (Judicial Review) Act 1977
 
 **Act No. 59 of 1977 as amended**
 
-This compilation was prepared on 1 January 2012
- taking into account amendments up to Act No. 174 of 2011
+This compilation was prepared on 24 October 2011
+ taking into account amendments up to Act No. 119 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -972,11 +972,9 @@ Note:          An application under this Act in relation to ot
 
              (y)  decisions of the Administrative Appeals Tribunal (other than decisions made on review of decisions of the Australian Archives) made on a review that is required by the _Administrative Appeals Tribunal Act 1975_ to be conducted by the Security Appeals Division of that Tribunal;
 
-           (ya)  decisions of a proceeds of crime authority or an approved examiner under Part 3‑1 of the _Proceeds of Crime Act 2002_;
+           (ya)  decisions of the DPP or an approved examiner under Part 3‑1 of the _Proceeds of Crime Act 2002_;
 
-           (yb)  decisions of a proceeds of crime authority to apply for an order under the _Proceeds of Crime Act 2002_;
-
-           (yc)  decisions of a proceeds of crime authority to transfer to another proceeds of crime authority responsibility for an application for a principal order, or a principal order, under section 315B of the _Proceeds of Crime Act 2002_;
+           (yb)  decisions of the DPP to apply for an order under the _Proceeds of Crime Act 2002_;
 
            (za)  decisions under Part VIIIB of the _Judiciary Act 1903_ (which relates to the Australian Government Solicitor);
 
@@ -1251,7 +1249,7 @@ of Assent</div>
     <div>16 June 1977</div>
   </td>
   <td>
-    <div>1 Oct 1980 ( <i>see Gazette</i>1980, No. S210)</div>
+    <div>1 Oct 1980 ( <i>see Gazette</i>1980, No. S210)</div>
   </td>
   <td>
     <div></div>
@@ -2699,7 +2697,7 @@ Schedule 2 (items 1–5, 16): Royal Assent</div>
     <div>Ss. 4–14 and Schedule 3 (items 13–15): 15 July 2001 ( <i>see</i>s. 2(3) and <i>Gazette</i>2001, No. S285)</div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -3545,7 +3543,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 2, 150): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 2, 150): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -3579,7 +3577,7 @@ Remainder: Royal Assent</div>
     <div>16 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 17 Dec 2010</div>
+    <div>Schedule 2 (item 1): 17 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -3596,8 +3594,8 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): Royal Assent 
-Schedule 5 (items 1, 2): 19 Apr 2011</div>
+    <div>Schedule 1 (item 2): Royal Assent 
+Schedule 5 (items 1, 2): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -3615,23 +3613,6 @@ Schedule 5 (items 1, 2): 19 Apr 2011</div>
   </td>
   <td>
     <div>Schedule 2 (item 1): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>174, 2011</div>
-  </td>
-  <td>
-    <div>5 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 140, 141): 1 Jan 2012</div>
   </td>
   <td>
     <div>—</div>
@@ -4341,7 +4322,7 @@ _(q)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010; No. 174, 2011</div>
+    <div>am. Nos. 115, 122, 137, 140 and 153, 1982; No. 144, 1983; Nos. 4, 47 and 65, 1985; Nos. 41, 76, 102 and 112, 1986; Nos. 62, 76 and 145, 1987; Nos. 5 and 87, 1988; Nos. 14 and 107, 1989; Nos. 60 and 118, 1990; No. 216, 1991; Nos. 92, 151 and 196, 1992; Nos. 32, 54 and 88, 1993; No. 124, 1994; Nos. 161 and 175, 1995; Nos. 15, 43 and 60, 1996; Nos. 39 and 177, 1997; Nos. 7, 118 and 161, 1999; No. 176, 1999 (as am. by No. 156, 2000); No. 57, 2000; Nos. 123, 134 and 153, 2001; Nos. 86 and 127, 2002; Nos. 35, 62 and 124, 2004; Nos. 100, 112, 118, 137, 144 and 146, 2005; Nos. 40, 73, 74, 90, 101, 161 and 170, 2006; Nos. 8, 52 and 56, 2007; No. 105, 2008; Nos. 55, 88 and 117, 2009; Nos. 4, 79 and 145, 2010</div>
   </td>
 </tr>
 <tr>
@@ -4393,7 +4374,7 @@ Insert:
 
                    (dc)  if an Act of another State or of the Australian Capital Territory or the Northern Territory applies the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, as that Law applies as a law of that other State or of that Territory—the National Energy Retail Law as so applied;
 
-As at 1 January 2012 the amendment is not incorporated in this compilation.
+As at 24 October 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
