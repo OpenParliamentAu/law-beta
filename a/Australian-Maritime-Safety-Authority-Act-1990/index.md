@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00679/Html/5672b755-de3e-4f21-833b-2b084e6d1597_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00333/Html/37938f95-d759-4943-b0d1-32cad85fe9b8_files/image001.gif)
 
 # Australian Maritime Safety Authority Act 1990
 
 **Act No. 78 of 1990 as amended**
 
-This compilation was prepared on 25 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 5 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1541,23 +1541,6 @@ Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 189–194) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Maritime Safety Authority Act 1990_ was amended by Part 2 (sections 4–6) only of the _Transport Legislation Amendment Act 1991_, subsection 2(3) of which provides as follows:
@@ -2136,44 +2119,6 @@ _(l)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 189  At the end of subsections 18(1), (2) and (3)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 190  Subsections 18(5) and (6)
-
-Repeal the subsections.
-
-## 191  Paragraph 54(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 192  Subsection 54(1)
-
-Omit “but a person appointed to act during a vacancy must not continue so to act for more than 12 months.”.
-
-## 193  At the end of subsection 54(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 194  Subsection 54(4)
-
-Repeal the subsection.
-
-As at 25 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2199,21 +2144,5 @@ continues to have effect after the commencing time as if it had been done by the
 **_commencing time_** means the day this Act receives the Royal Assent.
 
 **_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
