@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00188/Html/0ee43641-f52f-4814-b614-3ac3e581626c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00904/Html/fb9fc3ed-2ede-4dff-9173-68c686f50fdb_files/image001.gif)
 
 # Qantas Sale Act 1992
 
 **Act No. 196 of 1992 as amended**
 
-This compilation was prepared on 31 January 2012
+This compilation was prepared on 11 November 2011
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
@@ -72,7 +72,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [21](#21).          This Part to have effect despite Corporations Act
 
-**Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations** 
+    **Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations** 
 
 Sections 22, 23
 
@@ -297,6 +297,8 @@ Sections 22, 23
                      (b)  that is under the protection of a foreign country; or
 
                      (c)  for whose international relations a foreign country is responsible.
+
+                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 2007_.
 
                     <a name="australian-intern-airlin"></a>**_Australian international airline_** means an international airline (other than Qantas) that may be permitted to carry people or goods, or both people and goods, under a bilateral arrangement as an airline designated by Australia to operate a scheduled international air service.
 
@@ -660,19 +662,17 @@ by the Commonwealth.
 
                    This Part has effect despite any provision of the _Corporations Act 2001_ of a State or an internal Territory.
 
-## Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations
+### Part 5—Amendment of the Long Service Leave (Commonwealth Employees) Regulations
 
-##### Sections <a id="22"></a>22, 23
+##### Sections 22, 23
 
 * * *
 
 **Note:**
 
-The amendments made by this Part are incorporated in the compilation on ComLaw.
+The amendments made by this Part are incorporated in the compilation on SCALEplus of the _Long Service Leave (Commonwealth Employees) Regulations 1957_.
 
-_Long Service Leave (Commonwealth Employees) Regulations 1957_.
-
-For access to the wording of the amendments made by this Part _see_ Act No. 196, 1992.
+For access to the wording of the amendments made by this Part, click here [_Qantas Sale Act 1992_ No. 196 of 1992].
 
 * * *
 
@@ -1018,7 +1018,7 @@ cease to apply to the employee on the day on which this section commences.
 
 Australian Airlines is entitled to be paid an amount equal to the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00188/Html/0ee43641-f52f-4814-b614-3ac3e581626c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00904/Html/fb9fc3ed-2ede-4dff-9173-68c686f50fdb_files/image002.gif)
 
 where:
 
@@ -1040,7 +1040,7 @@ where:
 
 then Qantas or the subsidiary, as the case may be, is entitled to be paid the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00188/Html/0ee43641-f52f-4814-b614-3ac3e581626c_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00904/Html/fb9fc3ed-2ede-4dff-9173-68c686f50fdb_files/image003.gif)
 
 where:
 
@@ -1132,7 +1132,7 @@ _Radiocommunications Act 1983_\[repealed by No. 167, 1992]
 
 _Resource Assessment Commission Act 1989_
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 196, 1992.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 196, 1992.
 
 * * *
 
@@ -1164,7 +1164,7 @@ _Nuclear Non‑Proliferation (Safeguards) Act 1987_
 
 _South Pacific Nuclear Free Zone Treaty Act 1986_
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 196, 1992.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 196, 1992.
 
 * * *
 
@@ -1182,7 +1182,7 @@ _Workplace Relations Act 1996_
 
 _Superannuation Act 1990_
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 196, 1992.
+For access to the wording of the amendments made by this Schedule, see Act No. 196, 1992.
 
 * * *
 
@@ -1230,7 +1230,7 @@ _Public Works Committee Act 1969_
 
 _Resource Assessment Commission Act 1989_
 
-For access to the wording of the amendments made by this Schedule _see_ Act No. 196, 1992.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 196, 1992.
 
 * * *
 
@@ -1243,8 +1243,6 @@ The _Qantas Sale Act 1992_ as shown in this compilation comprises Act No. 196,
 Sections 35, 37 and 50 are repealed, _see_ sections 36, 38 and 51.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
-
-For application, saving or transitional provisions made by Schedule 1 (item 7) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
 
 For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
@@ -1291,10 +1289,11 @@ of Assent</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Ss. 22, 23, 26, 27, 29, 32–34, 42, 45–49 and Schedule (Part 4): 30 July 1995 ( <i>see Gazette</i>1995, No. S324) 
+    <div>Ss. 22, 23, 26, 27, 29, 32–34, 42, 
+45–49 and Schedule (Part 4): 30 July 1995 ( <i>see Gazette</i>1995, No. S324) 
 S. 25 and Schedule (Parts 3, 6, 7): <i>(a)</i> 
-Ss. 30, 31, 35, 37, 39, 43, 50 and Schedule (Parts 1, 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) 
-Ss. 36, 38, 44, 51 and Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) 
+Ss. 30, 31, 35, 37, 39, 43, 50 and Schedule (Parts 1, 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) 
+Ss. 36, 38, 44, 51 and Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1348,8 +1347,8 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule (items 
 7–9, 13–16, 18): <i>(c)</i> 
-Schedule (items 10, 11): <i>(c)</i> 
-Schedule (items 19, 20): <i>(c)</i> 
+Schedule (items 10, 11): <i>(c)</i> 
+Schedule (items 19, 20): <i>(c)</i> 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1401,7 +1400,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1143): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(e)</i></div>
+    <div>Schedule 2 (item 1143): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1418,7 +1417,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 755–759): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
+    <div>Schedule 1 (items 755–759): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(f)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1435,7 +1434,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 5 (items 26, 27): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(g)</i></div>
+    <div>Schedule 5 (items 26, 27): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1452,7 +1451,7 @@ Remainder: Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 444–457): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 444–457): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -1487,7 +1486,7 @@ Remainder: Royal Assent</div>
     <div>17 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 11 (items 14–17): 18 Dec 2010</div>
+    <div>Schedule 11 (items 14–17): 18 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -1504,10 +1503,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 965) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 965) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr>
@@ -1521,7 +1520,7 @@ Remainder: Royal Assent</div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 25): \[ <i>see</i>s. 2(1) and Note 2]</div>
+    <div>Schedule 2 (item 25): \[ <i>see</i>s. 2(1) and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -1648,7 +1647,7 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 168, 1994; No. 44, 1995; No. 156, 1999; No. 55, 2001; No. 21, 2007; No. 46, 2011</div>
+    <div>am. No. 168, 1994; No. 44, 1995; No. 156, 1999; No. 55, 2001; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1926,6 +1925,20 @@ _(h)_ The _Qantas Sale Act 1992_ was amended by Schedule 3 (items 444–457)
 
 ### Note 2
 
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 965  Subsection 7(7) (definition of _Australian citizen_)
+
+Repeal the definition.
+
+As at 11 November 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
 _Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
 
 The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
@@ -1936,13 +1949,15 @@ The following amendment commences at the same time as section 3 of the _Business
 
 After “under a law of a State or Territory that relates to the registration of business names”, substitute “on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_”.
 
-As at 31 January 2012 the amendment is not incorporated in this compilation.
+As at 11 November 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
