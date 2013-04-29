@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00372/Html/ImmigrationEdu1971_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00243/Html/ImmigrationEdu1971_image001.gif)
 
 # Immigration (Education) Act 1971
 
 **Act No. 3 of 1971 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 2 April 2007
  taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
@@ -148,7 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
           (3A)  The **applicable fee limit** in relation to a course that a person enrols in during a financial year starting on or after 1 July 1995 is, subject to subsection (3B), the amount worked out under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00372/Html/ImmigrationEdu1971_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00243/Html/ImmigrationEdu1971_image002.gif)
 
 where:
 
@@ -218,7 +218,9 @@ where:
 
                      (b)  if the person fails to register with the provider of an approved English course within the period of 3 months starting on the visa commencement date; or
 
-                     (c)  if the person fails to commence an approved English course within the period of 12 months starting on the visa commencement date.
+                     (c)  if the person fails to commence an approved English course within the period of 12 months starting on the visa commencement date; or
+
+                     (d)  at the end of the period of 36 months starting on the visa commencement date.
 
              (2)  If:
 
@@ -562,8 +564,7 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
-Remainder: Royal Assent</div>
+    <div>Schedule 2 and Schedule 3 (items 14, 21): \[ <i>see</i>s. 2(1), Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 14, 21) \[ <i>see</i>Table A]</div>
@@ -679,7 +680,7 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
 </tr>
 <tr>
   <td>
-    <div>S. 4C</div>
+    <div>Ss. 4C, 4D</div>
   </td>
   <td>
     <div>ad. No. 176, 1992</div>
@@ -691,22 +692,6 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
   </td>
   <td>
     <div>am. No. 27, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4D</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 27, 1997; No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -798,6 +783,23 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
   </td>
 </tr></table>
 
+### Note 2
+
+_Australian Citizenship (Transitionals and Consequentials) Act 2007
+ (No. 21, 2007)_
+
+The following amendment commences on 15 September 2007 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1  Paragraphs 4D(1)(c) and (d)
+
+Repeal the paragraphs, substitute:
+
+                     (c)  if the person fails to commence an approved English course within the period of 12 months starting on the visa commencement date.
+
+As at 2 April 2007 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -831,6 +833,8 @@ If:
 _Australian Citizenship (Transitionals and Consequentials) Act 2007
  (No. 21, 2007)_
 
+The following provisions commence on 15 September 2007 unless proclaimed earlier:
+
 ## Schedule 3
 
 ## 14  Definition
@@ -862,6 +866,8 @@ _Migration Legislation Amendment Act (No. 5) 1995 (No. 100, 1995)_
 (2)        If, immediately before the commencement of this item, the Commonwealth had an obligation under that Act to a person covered by subitem (1), that obligation ceases at the commencement of this item. 
 
 Schedule 1 (item 1) commenced on 15 September 1995.
+
+ 
 
  
 
