@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image001.gif)
 
 # National Health Act 1953
 
 **Act No. 95 of 1953 as amended**
 
-This compilation was prepared on 23 March 2012
- taking into account amendments up to Act No. 8 of 2012
+This compilation was prepared on 27 December 2011
+ taking into account amendments up to Act No. 86 of 2011
 
 [**Note:** Subsections 90(3A), (3AA), (3AB), (3AC), (3AD), (3AE), (3AF) 
  and (3B) cease to have effect on 30 June 2015, _see_ section 90(3C)
@@ -172,8 +172,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [86A](#86A).       Pharmaceutical benefits not to be supplied in respect of persons reasonably believed not to be in Australia
 
-[86B](#86B).       Approved supplier may request provision of medicare 
- number
+[86B](#86B).       Approved supplier may request provision of medicare number
 
 [86C](#86C).       On and after 1 January 2001 approved supplier must request provision of medicare number in certain circumstances
 
@@ -599,8 +598,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [135A](#135A).     Officers to observe secrecy
 
-135AAA  Prescribers and approved suppliers must 
- observe secrecy in relation to medicare numbers and expiry dates provided for pharmaceutical benefit scheme purposes
+135AAA  Prescribers and approved suppliers must observe secrecy in relation to medicare numbers and expiry dates provided for pharmaceutical benefit scheme purposes
 
 [135AA](#135AA).  Privacy guidelines
 
@@ -762,7 +760,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act extends to the Territory of Cocos (Keeling) Islands and to the Territory of Christmas Island.
 
-##### <a id="7A"></a>7A  Application of the _Criminal Code_
+##### <a id="7A"></a>7A  Application of the _Criminal Code_
 
                    Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences against this Act.
 
@@ -4621,7 +4619,7 @@ then the reduction referred to in subsection (5) is to be adjusted so that the
 
 then the reduction referred to in subsection (5) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image002.gif)
 
 Apportioning if quantities different
 
@@ -4731,7 +4729,7 @@ then the reduction referred to in subsection (3) or (4) is to be adjusted so t
 
 then the reduction referred to in subsection (3) or (4) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image002.gif)
 
 Section does not limit Minister’s powers
 
@@ -5636,7 +5634,7 @@ Claimed price reduction
 
 then, for the purposes of that determination, on the reduction day the claimed price for the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image003.gif)
 
 where:
 
@@ -6284,7 +6282,7 @@ Note:          The Department can tell you what the current in
 
              (3)  Subject to this section, the indexed amount for an amount to be indexed is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image004.gif)
 
 where:
 
@@ -6298,7 +6296,7 @@ where:
 
              (4)  Subject to subsections (5) and (6), the indexation factor for an amount to be indexed on an indexation day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image005.gif)
 
 where:
 
@@ -6356,7 +6354,7 @@ where:
 
 ##### <a id="99M"></a>99M  Powers
 
-                   The Authority has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions. 
+                   The Authority has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions. 
 
 ##### <a id="99N"></a>99N  Membership
 
@@ -7088,7 +7086,7 @@ the Chief Executive Medicare is not required to return or reconsign the substanc
 
                      (d)  if the substances would, but for their detention, have been carried or sent by the exporter to a place outside Australia and the exporter continues to require that the substances are sent to that place—of sending the substances to that place.
 
-##### <a id="99ZS"></a>99ZS  Guidelines for detention of, dealing with, and disposal of, substances
+##### <a id="99ZS"></a>99ZS  Guidelines for detention of, dealing with, and disposal of, substances
 
              (1)  The CEO of Customs may, by notice in writing, issue guidelines for the performance of functions and duties, and for the exercise of powers, by Customs officers, in relation to matters arising under this Division including, in particular, matters relating to:
 
@@ -7412,7 +7410,7 @@ Procedure
 
        (4AC)  For the purposes of subsection (4AA), the designated quantity of a pharmaceutical benefit or pharmaceutical item is the quantity of that pharmaceutical benefit or pharmaceutical item worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00328/Html/e2fd7dc8-0bb0-47c9-9bed-c0a71442b54d_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image006.gif)
 
 where:
 
@@ -13434,23 +13432,6 @@ Schedule 4 (item 654): \[ <i>see</i> <i>(zzzh)</i>and Note 4]</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Health Amendment (Fifth Community Pharmacy Agreement Initiatives) Act 2012</div>
-  </td>
-  <td>
-    <div>8, 2012</div>
-  </td>
-  <td>
-    <div>20 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedules 1–3: \[ <i>see</i>Note 5 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 3) and Sch. 3 (item 4) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -32670,7 +32651,7 @@ Repeal the paragraph, substitute:
 
                              (ii)  a supply of a pharmaceutical benefit to which subsection 98AC(1) applies.
 
-## 5  Subparagraph 135AA(2)(a)(i)
+## 5  Subparagraph 135AA(2)(a)(i)
 
 After “made”, insert “, or who provided the pharmaceutical benefit”.
 
@@ -32694,7 +32675,7 @@ of the pharmaceutical entitlements number applicable to the person to whom each 
 
                      (d)  as a person included within a class identified by the Minister in a determination under subsection 86E(1).
 
-As at 23 March 2012 the amendments are not incorporated in this compilation.
+As at 27 December 2011 the amendments are not incorporated in this compilation.
 
 ### Note 4
 
@@ -32708,99 +32689,7 @@ The following amendment commences immediately after 1 April 2012:
 
 Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
 
-As at 23 March 2012 the amendment is not incorporated in this compilation.
-
-### Note 5
-
-_National Health Amendment (Fifth Community Pharmacy Agreement Initiatives) Act 2012 (No. 8, 2012)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 1
-
-## 1  Paragraph 89(b)
-
-After “provisions of”, insert “section 89A,”.
-
-## 2  After section 89
-
-Insert:
-
-##### <a id="89A"></a>89A  When pharmaceutical benefits may be supplied by approved pharmacists without prescription
-
-             (1)  An approved pharmacist may, at or from premises in respect of which the pharmacist is for the time being approved, supply a pharmaceutical benefit without a prescription for that supply if:
-
-                     (a)  the pharmaceutical benefit is covered by an instrument made under subsection (3); and
-
-                     (b)  the supply is made in accordance with conditions that are specified in an instrument made under subsection (3).
-
-             (2)  If an approved pharmacist makes a supply in accordance with subsection (1), then this Act (other than paragraph 89(a)) applies in relation to the supply as if:
-
-                     (a)  a person had presented the pharmacist with a prescription that:
-
-                              (i)  had been written by a PBS prescriber in accordance with this Act and the regulations; and
-
-                             (ii)  did not contain a medicare number; and
-
-                     (b)  a reference in this Part to a prescription for the supply of a pharmaceutical benefit to a person who is a holder of a concession card or an entitlement card included a reference to a supply made in accordance with subsection (1) to a person who is a holder of a concession card or an entitlement card on the day of the supply; and
-
-                     (c)  the following provisions were omitted:
-
-                              (i)  subsection 84(2A) and paragraph 84(10)(a);
-
-                             (ii)  section 84AA;
-
-                            (iii)  subparagraph 86B(3)(b)(i) and paragraph 86B(4)(e);
-
-                            (iv)  paragraphs 86C(3)(c) and (6)(e);
-
-                             (v)  paragraph 92A(1)(ca); and
-
-                     (d)  the words “, in accordance with section 84AA,” in the definitions of **_concessional benefit prescription_**, **_concession card prescription_** and **_entitlement card prescription_** in subsection 84(1) were omitted.
-
-             (3)  The Minister may, by legislative instrument, determine:
-
-                     (a)  the pharmaceutical benefits that may be supplied by an approved pharmacist without a prescription; and
-
-                     (b)  the conditions that must be satisfied when making a supply of those pharmaceutical benefits.
-
-             (4)  The Minister must publish statistics annually for each pharmaceutical item supplied under subsection (1).
-
-             (5)  The Minister must: 
-
-                     (a)  cause a written report to be prepared of a review of this section no more than two years from the commencement of the section; and
-
-                     (b)  cause a copy of the report to be laid before each House of the Parliament within six months of the commencement of the review.
-
-## Schedule 2
-
-## 1  At the end of subsection 93A(2)
-
-Add:
-
-Note:          Subsection 33(3A) of the _Acts Interpretation Act 1901_ applies to a determination under subsection (2). This means that, for example, a determination could determine conditions for private hospitals that are different from conditions that are determined for residential care services.
-
-## Schedule 3
-
-## 1  After subsection 85A(2)
-
-Insert:
-
-          (2A)  The Minister may determine that particular conditions must be satisfied when writing a prescription to which a determination under paragraph (2)(a) or (b) applies.
-
-## 2  After subsection 85A(3)
-
-Insert:
-
-          (3A)  The Minister may determine rules that must be applied when deciding whether to authorise a variation under regulations made for the purposes of subsection (3).
-
-## 3  Subsection 85A(4)
-
-Repeal the subsection, substitute:
-
-             (4)  A determination made under subsection (1), (2), (2A) or (3A) is a legislative instrument.
-
-As at 23 March 2012 the amendments are not incorporated in this compilation.
+As at 27 December 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -33198,7 +33087,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre‑commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -33522,7 +33411,7 @@ the claim is taken, for the purposes of that Act, to be a claim made under secti
 
 (2)       The Commission may, under section 13 of that Act, approve the provision of treatment that was provided before the claim was made, but must not approve the provision of treatment that was provided before 19 June 2006.
 
-## 2  Claims made on or after 19 June 2006—entitlement to travelling expenses
+## 2  Claims made on or after 19 June 2006—entitlement to travelling expenses
 
 (1)       If:
 
@@ -33775,23 +33664,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_National Health Amendment (Fifth Community Pharmacy Agreement Initiatives) Act 2012 (No. 8, 2012)_
-
-The following provisions commence on 1 July 2012:
-
-## Schedule 1
-
-## 3  Application of amendments
-
-The amendments made by this Schedule apply to supplies that are made on and after the day this Schedule commences.
-
-## Schedule 3
-
-## 4  Application of amendments
-
-The amendments made by this Schedule apply to prescriptions that are written on and after the day this Schedule commences.
 
  
