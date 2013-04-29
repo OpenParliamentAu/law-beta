@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00631/Html/0af7bd93-c3c6-43e0-9993-b3cb1d762148_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00954/Html/fb2f5908-d04d-4b53-91c4-992036ba222c_files/image001.gif)
 
 # Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009
 
 **Act No. 15 of 2009 as amended**
 
-This compilation was prepared on 21 August 2012
- taking into account amendments up to Act No. 99 of 2012
+This compilation was prepared on 15 December 2011
+ taking into account amendments up to Act No. 147 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -42,11 +42,11 @@ Taxation Administration Act 1953                
 
 Part 3—Application and transitional provisions                                          159
 
-Part 4—Amendments relating to Division 775                                            170
+Part 4—Amendments relating to Division 775                                            167
 
-Income Tax Assessment Act 1997                                                                          170
+Income Tax Assessment Act 1997                                                                          167
 
-New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003           171
+New Business Tax System (Taxation of Financial Arrangements) Act (No. 1) 2003           168
 
 **Notes** 
 
@@ -153,7 +153,7 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="3"></a>3  Schedule(s)
 
-                   Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
+                   Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
 ###### Schedule 1—Amendments
 
@@ -4338,9 +4338,9 @@ Note 1:       The amount may be relevant, for example, for the purpo
 
 Note 2:       This subsection does not affect the financial benefits received or provided under the financial arrangement from you starting or ceasing to have it (except in the circumstances described in Note 3). However:
 
-(a)    the market value of the thing will be, or form part of, those financial benefits for the purposes of section 230‑445; and
+(a)           the market value of the thing will be, or form part of, those financial benefits for the purposes of section 230‑445; and
 
-(b)    in the case of a non arm’s length transaction, the amount of those financial benefits may be affected by section 230‑510.
+(b)           in the case of a non arm’s length transaction, the amount of those financial benefits may be affected by section 230‑510.
 
 Note 3:       If the thing is itself a Division 230 financial arrangement and subsection (3) does not apply, this subsection will determine the financial benefits received or provided under the financial arrangement from you starting or ceasing to have it.
 
@@ -4540,7 +4540,7 @@ Add:
 
 Note:          Under section 230‑20, foreign exchange losses from a Division 230 financial arrangement are dealt with under Division 230 and not under this Division.
 
-## 4  Section 775‑200
+## 4  Section 775‑200
 
 After “4”, insert “or 9”.
 
@@ -5602,7 +5602,7 @@ Insert:
 
                      (c)  the **_Division 230 starting value_** of an asset or liability that is or is part of a Division 230 financial arrangement to which Subdivision 230‑F (reliance on financial reports method) applies is the value of the asset or the amount of the liability according to the relevant standards mentioned in section 230‑420 that apply in relation to the arrangement.
 
-## 97  Subsection 995‑1(1) (after paragraph (b) of the definition of _special accrual amount_)
+## 97  Subsection 995‑1(1) (after paragraph (b) of the definition of _special accrual amount_)
 
 Insert:
 
@@ -5834,7 +5834,7 @@ the following provisions have effect:
 
 (16)     An amount is to be grossed up for the purposes of subitems (14) and (15) by multiplying the amount by:
 
-![](http://www.comlaw.gov.au/Details/C2012C00631/Html/0af7bd93-c3c6-43e0-9993-b3cb1d762148_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00954/Html/fb2f5908-d04d-4b53-91c4-992036ba222c_files/image002.gif)
 
 (17)     A balancing adjustment under subitem (13) is to be spread evenly over the first applicable income year and the next 3 income years.
 
@@ -5861,90 +5861,6 @@ the following provisions have effect:
                              (ii)  you took all reasonable steps to notify the Commissioner of the election on or before the lodgment date, or there were no such steps you could have taken.
 
 (3)       The later date specified in the notice must be a date that occurred no later than 3 months after the lodgment date mentioned in paragraph 104(5)(b) (disregarding this item).
-
-## 104B  Asset or liability of entity joining pre‑TOFA consolidated group etc.
-
-(1)       This item applies in relation to an asset or liability if:
-
-                     (a)  an entity (the **_joining entity_**) becomes a subsidiary member of a consolidated group or MEC group at a time (the **_joining time_**); and
-
-                     (b)  the asset or liability becomes that of the head company of the group because subsection 701‑1(1) of the _Income Tax Assessment Act 1997_ (the single entity rule) applies when the joining entity becomes a subsidiary member of the group; and
-
-                     (c)  the asset or liability is, or is part of, a financial arrangement at the start of the head company’s first applicable income year; and
-
-                     (d)  the head company’s first applicable income year starts after the joining time; and
-
-                     (e)  the head company has the asset or liability (whether or not because of subsection 701‑1(1) of the _Income Tax Assessment Act 1997_ (the single entity rule)) throughout the period:
-
-                              (i)  starting at the joining time; and
-
-                             (ii)  ending at the start of the head company’s first applicable income year; and
-
-                      (f)  the head company elects to have subitem 104(2) apply to itself; and
-
-                     (g)  the joining entity is _not_ a chosen transitional entity (within the meaning of Division 701 of the _Income Tax (Transitional Provisions) Act 1997_).
-
-Note:          Item 104C prevents the application of this item in relation to certain assets and liabilities.
-
-(2)       For the purposes of subitem 104(13) and Division 230 of the _Income Tax Assessment Act 1997_:
-
-                     (a)  in the case of an asset—assume that subsection 701‑55(5A) of that Act applies in relation to the asset at the joining time; and
-
-                     (b)  in the case of a liability—assume that section 715‑375 of that Act applies as if the liability is, or is part of, a Division 230 financial arrangement at the joining time.
-
-(3)       Subitems 104(14) and (15) do not apply in relation to the asset or liability.
-
-(4)       In the case of an asset, subitems (5), (6) and (7) apply if, on the assumption that subsection 701‑55(5A) of the _Income Tax Assessment Act 1997_ applies in relation to the asset at the joining time, paragraph 701‑55(5A)(b) of that Act would apply in relation to the asset.
-
-(5)       Work out if the Division 230 starting value for the asset at the joining time exceeds or falls short of its tax cost setting amount.
-
-(6)       If there is an excess, an amount equal to 25% of that excess is included in the head company’s assessable income for:
-
-                     (a)  the head company’s first applicable income year; and
-
-                     (b)  each of the 3 subsequent income years.
-
-(7)       If there is a shortfall, the head company is entitled to a deduction equal to 25% of that shortfall for:
-
-                     (a)  the head company’s first applicable income year; and
-
-                     (b)  each of the 3 subsequent income years.
-
-(8)       In the case of a liability, subitem (9) applies if Subdivision 705‑B of the _Income Tax Assessment Act 1997_ (group formation) has effect in relation to the joining entity becoming a subsidiary member of the group.
-
-(9)       Treat the amount of the payment mentioned in subsection 715‑375(2) of that Act as being the amount of consideration that the joining entity would need to provide, if it were to cease holding the liability just before the joining time, without an amount being assessable income of, or deductible to, the joining entity.
-
-## 104C  Exception to item 104B
-
-(1)       Subitem (2) applies if:
-
-                     (a)  assuming that item 51 of Schedule 3 to the _Tax Laws Amendment (2012 Measures No. 2) Act 2012_ commenced at the same time as this item, that item would apply in relation to a ruling or advice; and
-
-                     (b)  to the extent that the ruling or advice has effect in relation to the application of subsection 701‑55(5C) or (6) of the original 2010 law (within the meaning of that Schedule) in respect of the joining entity mentioned in item 50 of that Schedule, that ruling or advice is in relation to an asset of an entity for an income year; and
-
-                     (c)  the asset is, or is part of, a financial arrangement at the start of the income year; and
-
-                     (d)  the requirements in subitem 104B(1) are satisfied in relation to the asset; and
-
-                     (e)  the entity is the head company mentioned in subitem 104B(1); and
-
-                      (f)  the income year is the head company’s first applicable income year mentioned in subitem 104B(1).
-
-(2)       Item 104B does not apply in relation to the asset.
-
-(3)       Subitem (4) applies if:
-
-                     (a)  subitem (2) applies; and
-
-                     (b)  a liability is, or is part of, a financial arrangement at the start of the income year mentioned in subitem (1); and
-
-                     (c)  the financial arrangement is of the same kind as the financial arrangement mentioned in paragraph (1)(c); and
-
-                     (d)  the requirements in subitem 104B(1) are satisfied in relation to the liability; and
-
-                     (e)  the head company mentioned in subitem 104B(1) is the same entity as the head company mentioned in paragraph (1)(e) of this item.
-
-(4)       Item 104B does not apply in relation to the liability.
 
 ## 105  Application of financial arrangement amendments (arrangements that are not financial arrangements)
 
@@ -6052,7 +5968,7 @@ For all relevant information pertaining to application, saving or transitional p
   <col width="15%">
   <col width="19%">
   <col width="21%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -6104,7 +6020,7 @@ of Assent</div>
     <div>7 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (items 133, 134): <i>(a)</i></div>
+    <div>Schedule 3 (items 133, 134): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -6126,27 +6042,9 @@ of Assent</div>
   <td>
     <div>Sch. 4 (item 4)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2012 Measures No. 2) Act 2012</div>
-  </td>
-  <td>
-    <div>99, 2012</div>
-  </td>
-  <td>
-    <div>29 June 2012</div>
-  </td>
-  <td>
-    <div>S. 4: Royal Assent 
-Schedule 2 (item 5): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
 </tr></table>
 
-_(a)_     Subsection 2(1) (item 8) of the _Tax Laws Amendment (2010 Measures No. 4) Act 2010_ provides as follows:
+_(a)_ Subsection 2(1) (item 8) of the _Tax Laws Amendment (2010 Measures No. 4) Act 2010_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -6233,62 +6131,6 @@ _(a)_     Subsection 2(1) (item 8) of the _Tax Laws Amendment (2010 Me
   </td>
 </tr></table>
 
-_(b)_     Subsection 2(1) (item 6) of the _Tax Laws Amendment (2012 Measures No. 2) Act 2012_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      6\. Schedule 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Parts 1, 2 and 3 of Schedule 1 to
-        the
-        <i>Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      26 March 2009
-    </div>
-  </td>
-</tr></table>
-
 ## Table of Amendments
 
 <table>
@@ -6346,22 +6188,6 @@ _(b)_     Subsection 2(1) (item 6) of the _Tax Laws Amendment (2012 Me
 </tr>
 <tr>
   <td>
-    <div>Item 104B</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 104C</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Item 105</div>
   </td>
   <td>
@@ -6373,26 +6199,12 @@ _(b)_     Subsection 2(1) (item 6) of the _Tax Laws Amendment (2012 Me
 
 ### Application, saving or transitional provisions
 
-_Tax Laws Amendment (2011 Measures No. 7) Act 2011 (No. 147, 2011)_
+_Tax Laws Amendment (2011 Measures No. 7) Act 2011 (No. 147, 2011)_
 
 ## Schedule 4
 
 ## 4  Application of amendments
 
 The amendments made by this Schedule apply in relation to lodgment dates mentioned in paragraph 104(5)(b) of Schedule 1 to the _Tax Laws Amendment (Taxation of Financial Arrangements) Act 2009_, whether the lodgment dates occur before, on or after the commencement of this item.
-
-* * *
-
-_Tax Laws Amendment (2012 Measures No. 2) Act 2012 (No. 99, 2012)_
-
-##### <a id="4"></a>4  Amendment of assessments
-
-                   Section 170 of the _Income Tax Assessment Act 1936_ does not prevent the amendment of an assessment if:
-
-                     (a)  the assessment was made before the commencement of this section; and
-
-                     (b)  the amendment is made within 2 years after that commencement; and
-
-                     (c)  the amendment is made for the purpose of giving effect to Schedule 2 or 3 to this Act.
 
  
