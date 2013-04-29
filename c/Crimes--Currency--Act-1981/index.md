@@ -1,19 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2012C00781/Html/da015990-79d0-4391-9f5e-2da29dc65fe9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00400/Html/CrimesCurrency1981_image001.gif)
 
 # Crimes (Currency) Act 1981
 
 **Act No. 122 of 1981 as amended**
 
-This compilation was prepared on 5 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 9 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -27,7 +27,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [4](#4).            Extension of Act to Territories
 
-[5](#5).            Extra‑territorial operation of Act
+[5](#5).            Extra-territorial operation of Act
 
 [5A](#5A).         Application of the _Criminal Code_
 
@@ -37,7 +37,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [7](#7).            Uttering counterfeit money or counterfeit securities
 
-[8](#8).            Buying or selling non‑excepted counterfeit money or counterfeit securities
+[8](#8).            Buying or selling non-excepted counterfeit money or counterfeit securities
 
 [9](#9).            Possessing counterfeit money or counterfeit securities
 
@@ -87,15 +87,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [30](#30).          Regulations
 
-**Part IV—Amendments of Acts** 
-
-    **Division 1—Amendments of the Crimes Act 1914** 
-
-    **Division 2—Amendments of the Commonwealth Inscribed Stock Act 1911** 
-
-    **Division 3—Amendments of the Reserve Bank Act 1959** 
-
-    **Division 4—Amendments of the Treasury Bills Act 1914** 
+Sections 31-42
 
 **Schedule—International Convention for the Suppression of Counterfeiting Currency** 
 
@@ -157,7 +149,7 @@ and includes any such article whether or not it is in a fit state to be uttered 
 
                      (b)  a coin, other than a coin referred to in paragraph (a), that has been a current coin in a country other than Australia (whether or not the country concerned is still in existence) but is no longer a current coin in any country.
 
-                    <a name="non-excepted-counterfeit-monei"></a>**_non‑excepted counterfeit money_** means counterfeit money other than an excepted counterfeit coin.
+                    <a name="non-excepted-counterfeit-monei"></a>**_non-excepted counterfeit money_** means counterfeit money other than an excepted counterfeit coin.
 
                     <a name="paper-monei"></a>**_paper money_** means money comprising a note written, printed or otherwise made on paper or any other material.
 
@@ -191,7 +183,7 @@ and includes any such article whether or not it is in a fit state to be uttered 
 
                    This Act extends to every external Territory.
 
-##### <a id="5"></a>5  Extra‑territorial operation of Act
+##### <a id="5"></a>5  Extra-territorial operation of Act
 
                    This Act extends, except so far as the contrary intention appears:
 
@@ -231,9 +223,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  in the case of a person, being a body corporate—$60,000.
 
-##### <a id="8"></a>8  Buying or selling non‑excepted counterfeit money or counterfeit securities
+##### <a id="8"></a>8  Buying or selling non-excepted counterfeit money or counterfeit securities
 
-             (1)  A person shall not buy, sell, receive or dispose of, or offer to buy, sell, procure or dispose of, non‑excepted counterfeit money or a counterfeit prescribed security.
+             (1)  A person shall not buy, sell, receive or dispose of, or offer to buy, sell, procure or dispose of, non-excepted counterfeit money or a counterfeit prescribed security.
 
           (1A)  Subsection (1) does not apply if the person has a reasonable excuse.
 
@@ -437,9 +429,9 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  A person shall not, without the consent, in writing, of an authorized person, design, make, print or distribute:
 
-                     (a)  a business or professional card, notice, placard, circular, hand‑bill, poster or other material that so resembles current paper money or an Australian prescribed security as to be capable of misleading a person into believing it is that current paper money or that Australian prescribed security; or
+                     (a)  a business or professional card, notice, placard, circular, hand-bill, poster or other material that so resembles current paper money or an Australian prescribed security as to be capable of misleading a person into believing it is that current paper money or that Australian prescribed security; or
 
-                     (b)  a newspaper, journal, magazine, notice, placard, circular, hand‑bill, poster, business or professional card or other material that includes a representation of current paper money or an Australian prescribed security that is, when detached from the newspaper, journal, magazine, notice, placard, circular, hand‑bill, poster, business or professional card or other material in which it is included, capable of misleading a person into believing that it is that current paper money or that Australian prescribed security.
+                     (b)  a newspaper, journal, magazine, notice, placard, circular, hand-bill, poster, business or professional card or other material that includes a representation of current paper money or an Australian prescribed security that is, when detached from the newspaper, journal, magazine, notice, placard, circular, hand-bill, poster, business or professional card or other material in which it is included, capable of misleading a person into believing that it is that current paper money or that Australian prescribed security.
 
                     Penalty:
 
@@ -455,9 +447,9 @@ Note:          A defendant bears an evidential burden in relat
 
                    A person shall not, without the consent, in writing, of an authorized person, import into Australia or export from Australia:
 
-                     (a)  any business or professional card, notice, placard, circular, hand‑bill, poster or other material of the kind referred to in paragraph 19(1)(a); or
+                     (a)  any business or professional card, notice, placard, circular, hand-bill, poster or other material of the kind referred to in paragraph 19(1)(a); or
 
-                     (b)  any newspaper, journal, magazine, notice, placard, circular, hand‑bill, poster, business or professional card or other material of the kind referred to in paragraph 19(1)(b).
+                     (b)  any newspaper, journal, magazine, notice, placard, circular, hand-bill, poster, business or professional card or other material of the kind referred to in paragraph 19(1)(b).
 
                     Penalty:
 
@@ -581,7 +573,7 @@ stating that he or she has examined an article described in the certificate and 
 
              (6)  A certificate shall not be received in evidence in pursuance of subsection (4) in a proceeding for an offence unless the person charged with the offence has been given a copy of the certificate together with reasonable notice of the intention to produce the certificate as evidence in the proceeding.
 
-             (7)  Where, in pursuance of subsection (4), a certificate of an examiner of counterfeit foreign coin, an examiner of counterfeit foreign paper money or an examiner of counterfeit foreign prescribed securities is admitted in evidence in a proceeding for an offence, the person charged with the offence may require the examiner to be called as a witness for the prosecution and the examiner may be cross‑examined as if he or she had given evidence of the matters stated in the certificate.
+             (7)  Where, in pursuance of subsection (4), a certificate of an examiner of counterfeit foreign coin, an examiner of counterfeit foreign paper money or an examiner of counterfeit foreign prescribed securities is admitted in evidence in a proceeding for an offence, the person charged with the offence may require the examiner to be called as a witness for the prosecution and the examiner may be cross-examined as if he or she had given evidence of the matters stated in the certificate.
 
              (8)  In this section:
 
@@ -595,7 +587,7 @@ stating that he or she has examined an article described in the certificate and 
 
 ##### <a id="28"></a>28  Counterfeit money to be rendered incapable of use
 
-             (1)  Where a person charged with the receipt or disbursement of public moneys or an officer of an ADI or of the Reserve Bank Service is presented with non‑excepted counterfeit money at his or her place of business, he or she shall:
+             (1)  Where a person charged with the receipt or disbursement of public moneys or an officer of an ADI or of the Reserve Bank Service is presented with non-excepted counterfeit money at his or her place of business, he or she shall:
 
                      (a)  to the extent that the counterfeit money consists of paper money—stamp or write in plain letters the word “counterfeit” upon each face of each item of that paper money that is so presented to him or her; and
 
@@ -605,7 +597,7 @@ stating that he or she has examined an article described in the certificate and 
 
              (3)  In subsection (1):
 
-                    <a name="adi"></a>**_ADI_** (authorised deposit‑taking institution) means a body corporate that is an ADI for the purposes of the _Banking Act 1959_.
+                    <a name="adi"></a>**_ADI_** (authorised deposit-taking institution) means a body corporate that is an ADI for the purposes of the _Banking Act 1959_.
 
 ##### <a id="29"></a>29  Forfeiture and seizure
 
@@ -663,17 +655,27 @@ stating that he or she has examined an article described in the certificate and 
 
 ##### <a id="30"></a>30  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-## Part IV—Amendments of Acts
+##### Sections 31-42
 
-### Division 1—Amendments of the Crimes Act 1914
+* * *
 
-### Division 2—Amendments of the Commonwealth Inscribed Stock Act 1911
+**Note:**
 
-### Division 3—Amendments of the Reserve Bank Act 1959
+The amendments made by these sections are incorporated in the compilations on ComLaw.
 
-### Division 4—Amendments of the Treasury Bills Act 1914
+Crimes Act 1914
+
+Commonwealth Inscribed Stock Act 1911
+
+Reserve Bank Act 1959
+
+Treasury Bills Act 1914
+
+For access to the wording of the amendments made by these sections, _see_ Act No. 122, 1981.
+
+* * *
 
 # Schedule—International Convention for the Suppression of Counterfeiting Currency 
 
@@ -785,13 +787,13 @@ Except in cases of purely local interest, each central office should, so far as 
 
 (1)   Any discovery of counterfeit currency. Notification of the forgery of bank or currency notes shall be accompanied by a technical description of the forgeries, to be provided solely by the institution whose notes have been forged. A photographic reproduction or, if possible, a specimen forged note should be transmitted. In urgent cases, a notification and a brief description made by the police authorities may be discreetly communicated to the central offices interested, without prejudice to the notification and technical description mentioned above;
 
-(2)   Investigation and prosecutions in cases of counterfeiting, and arrests, convictions and expulsions of counterfeiters, and also, where possible, their movements, together with any details which may be of use, and in particular their descriptions, finger‑prints and photographs;
+(2)   Investigation and prosecutions in cases of counterfeiting, and arrests, convictions and expulsions of counterfeiters, and also, where possible, their movements, together with any details which may be of use, and in particular their descriptions, finger-prints and photographs;
 
 (3) Details of discoveries of forgeries, stating whether it has been possible to seize all counterfeit currency put into circulation.
 
 _Article_ 15
 
-In order to ensure, improve and develop direct international co‑operation in the prevention and punishment of counterfeiting currency, the representatives of the central offices of the High Contracting Parties should from time to time hold conferences with the participation of representatives of the banks of issue and of the central authorities concerned. The organisation and supervision of a central international information office may form the subject of one of these conferences.
+In order to ensure, improve and develop direct international co-operation in the prevention and punishment of counterfeiting currency, the representatives of the central offices of the High Contracting Parties should from time to time hold conferences with the participation of representatives of the banks of issue and of the central authorities concerned. The organisation and supervision of a central international information office may form the subject of one of these conferences.
 
 _Article_ 16
 
@@ -831,19 +833,19 @@ The High Contracting Parties agree that any disputes which might arise between t
 
 _Article_ 20
 
-The present Convention, of which the French and English texts are both authentic, shall bear to‑day’s date. Until the 31st day of December 1929, it shall be open for signature on behalf of any Member of the League of Nations and on behalf of any   non‑member State which was represented at the Conference which elaborated the present Convention or to which a copy is communicated by the Council of the League of Nations.
+The present Convention, of which the French and English texts are both authentic, shall bear to-day’s date. Until the 31st day of December 1929, it shall be open for signature on behalf of any Member of the League of Nations and on behalf of any non-member State which was represented at the Conference which elaborated the present Convention or to which a copy is communicated by the Council of the League of Nations.
 
-It shall be ratified, and the instruments of ratification shall be transmitted to the Secretary‑General of the League of Nations, who will notify their receipt to all the Members of the League and to the non‑member States aforesaid. 
+It shall be ratified, and the instruments of ratification shall be transmitted to the Secretary-General of the League of Nations, who will notify their receipt to all the Members of the League and to the non-member States aforesaid. 
 
 _Article_ 21
 
-After the 1st day of January 1930, the present Convention shall be open to accession on behalf of any Member of the League of Nations and any of the non‑member States referred to in Article 20 on whose behalf it has not been signed.
+After the 1st day of January 1930, the present Convention shall be open to accession on behalf of any Member of the League of Nations and any of the non-member States referred to in Article 20 on whose behalf it has not been signed.
 
-The instruments of accession shall be transmitted to the Secretary‑General of the League of Nations, who will notify their receipt to all the Members of the League and to the non‑member States referred to in Article 20.
+The instruments of accession shall be transmitted to the Secretary-General of the League  of Nations, who will notify their receipt to all the Members of the League and to the non-member States referred to in Article 20.
 
 _Article_ 22
 
-The countries which are ready to ratify the Convention under the second paragraph of Article 20 or to accede to the Convention under Article 21 but desire to be allowed to make any reservations with regard to the application of the Convention may inform the Secretary‑General of the League of Nations to this effect, who shall forthwith communicate such reservations to the High Contracting Parties on whose behalf ratifications or accessions have been deposited and enquire whether they have any objection thereto. If within six months of the date of the communication of the Secretary‑General no objections have been received, the participation in the Convention of the country making the reservation shall be deemed to have been accepted by the other High Contracting Parties subject to the said reservation.
+The countries which are ready to ratify the Convention under the second paragraph of Article 20 or to accede to the Convention under Article 21 but desire to be allowed to make any reservations with regard to the application of the Convention may inform the Secretary-General of the League of Nations to this effect, who shall forthwith communicate such reservations to the High Contracting Parties on whose behalf ratifications or accessions have been deposited and enquire whether they have any objection thereto. If within six months of the date of the communication of the Secretary-General no objections have been received, the participation in the Convention of the country making the reservation shall be deemed to have been accepted by the other High Contracting Parties subject to the said reservation.
 
 _Article_ 23
 
@@ -857,23 +859,23 @@ Nevertheless, the High Contracting Parties reserve the right to accede to the Co
 
 _Article_ 25
 
-The present Convention shall not come into force until five ratifications or accessions on behalf of Members of the League of Nations or non‑member States have been deposited. The date of its coming into force shall be the ninetieth day after the receipt by the Secretary‑General of the League of Nations of the fifth ratification or accession.
+The present Convention shall not come into force until five ratifications or accessions on behalf of Members of the League of Nations or non-member States have been deposited. The date of its coming into force shall be the ninetieth day after the receipt by the Secretary-General of the League of Nations of the fifth ratification or accession.
 
 _Article_ 26
 
-After the coming into force of the Convention in accordance with Article 25, each subsequent ratification or accession shall take effect on the ninetieth day from the date of its receipt by the Secretary‑General of the League of Nations. 
+After the coming into force of the Convention in accordance with Article 25, each subsequent ratification or accession shall take effect on the ninetieth day from the date of its receipt by the Secretary-General of the League of  Nations. 
 
 _Article_ 27
 
-The present Convention may be denounced on behalf of any Member of the League of Nations or   non‑member State by a notification in writing addressed to the Secretary‑General of the League of Nations, who will inform all the Members of the League and the non‑member States referred to in Article 20\. Such denunciation shall take effect one year after the date of its receipt by the Secretary‑General of the League of Nations, and shall operate only in respect of the High Contracting Party on whose behalf it was notified.
+The present Convention may be denounced on behalf of any Member of the League of Nations or   non-member State by a notification in writing addressed to the Secretary-General of the League of Nations, who will inform all the Members of the League and the non-member States referred to in Article 20\. Such denunciation shall take effect one year after the date of its receipt by the Secretary-General of the League of Nations, and shall operate only in respect of the High Contracting Party on whose behalf it was notified.
 
 _Article_ 28
 
 The present Convention shall be registered by the Secretariat of the League of Nations on the date of its coming into force.
 
-IN FAITH WHEREOF the above‑mentioned Plenipotentiaries have signed the present Convention.
+IN FAITH WHEREOF the above-mentioned Plenipotentiaries have signed the present Convention.
 
-DONE at Geneva, the twentieth day of April one thousand nine hundred and twenty‑nine, in a single copy, which will remain deposited in the archives of the Secretariat of the League of Nations, and of which certified copies will be transmitted to all the Members of the League and to the non‑member States referred to in Article 20.
+DONE at Geneva, the twentieth day of April one thousand nine hundred and twenty-nine, in a single copy, which will remain deposited in the archives of the Secretariat of the League of Nations, and of which certified copies will be transmitted to all the Members of the League and to the non-member States referred to in Article 20.
 
 (_Here follow the signatures of the Plenipotentiaries of the Heads of State on behalf of whom the Convention was signed_.) 
 
@@ -907,7 +909,7 @@ The High Contracting Parties who make the reservations set forth hereunder make 
 
 (2) Pending the negotiation for the abolition of consular jurisdiction which is still enjoyed by nationals of some Powers, the CHINESE Government is unable to accept Article 10, which involves the general undertaking of a Government to grant extradition of a foreigner who is accused of counterfeiting currency by a third State.
 
-(3) As regards the provisions of Article 20, the delegation of the UNION OF SOVIET SOCIALIST REPUBLICS reserves for its Government the right to address, if it so desires, the instrument of its ratification to another signatory State in order that the latter may transmit a copy thereof to the Secretary‑General of the League of Nations for notification to all the signatory or acceding States.
+(3) As regards the provisions of Article 20, the delegation of the UNION OF SOVIET SOCIALIST REPUBLICS reserves for its Government the right to address, if it so desires, the instrument of its ratification to another signatory State in order that the latter may transmit a copy thereof to the Secretary-General of the League of Nations for notification to all the signatory or acceding States.
 
 III. DECLARATIONS
 
@@ -919,7 +921,7 @@ At the moment of signing the Convention, the representative of Switzerland made 
 
 “Nevertheless, the Federal Council is disposed to put into execution, to the extent of its authority, the administrative provisions of the Convention whenever these will come into force in accordance with Article 25.”
 
-UNION OF SOVIET SOCIALIST REPUBLICS
+UNION OF SOVIET SOCIALIST  REPUBLICS
 
 At the moment of signing the Convention, the representative of the Union of Soviet Socialist   Republics made the following declaration:
 
@@ -927,11 +929,11 @@ At the moment of signing the Convention, the representative of the Union of Sovi
 
 “As regards the provision in the same Article by which disputes which it has not been possible to settle by direct negotiations would be submitted to any other arbitral procedure than that of the Permanent Court of International Justice, the delegation of the Union of Soviet Socialist Republics expressly declares that acceptance of this provision must not be interpreted as modifying the point of view of the Government of the Union on the general question of arbitration as a means of settling disputes between States.”
 
-The present Protocol in so far as it creates obligations between the High Contracting Parties will have the same force, effect and duration as the Convention of to‑day’s date, of which it is to be considered as an integral part. 
+The present Protocol in so far as it creates obligations between the High Contracting Parties will have the same force, effect and duration as the Convention of to-day’s date, of which it is to be considered as an integral part. 
 
 IN FAITH WHEREOF the undersigned have affixed their signatures to the present Protocol.
 
-DONE at Geneva, this twentieth day of April, one thousand nine hundred and twenty‑nine, in a single copy, which shall be deposited in the archives of the Secretariat of the League of Nations and of which authenticated copies shall be delivered to all Members of the League of Nations and non‑member States represented at the Conference.
+DONE at Geneva, this twentieth day of April, one thousand nine hundred and twenty-nine, in a single copy, which shall be deposited in the archives of the Secretariat of the League of Nations and of which authenticated copies shall be delivered to all Members of the League of Nations and non-member States represented at the Conference.
 
 (_Here follow the signatures of the Plenipotentiaries of the Heads of State on behalf of_ _whom the Protocol was signed_.)  
 
@@ -947,11 +949,11 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="31%">
   <col width="16%">
-  <col width="17%">
-  <col width="21%">
-  <col width="15%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -986,8 +988,8 @@ of Assent</div>
     <div>17 Sept 1981</div>
   </td>
   <td>
-    <div>Ss. 1–3: Royal Assent 
-Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
+    <div>Ss. 1-3: Royal Assent 
+Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
   </td>
   <td>
     <div></div>
@@ -1021,12 +1023,12 @@ Remainder: 16 Dec 1985 ( <i>see</i>s. 2(2))</div>
     <div>15 June 1988</div>
   </td>
   <td>
-    <div>Part III (ss. 
-17–32), s. 98, Part IX (s. 99) and Part X (ss. 100–103): 1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
+    <div>Part III (ss. 17-32), s. 98, Part IX (s. 99) and Part X (ss. 100-103): 1 July 1988 ( <i>see Gazette</i>1988, No. S189) 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>S. 100(1)–(3)</div>
+    <div>S. 100(1)- 
+(3)</div>
   </td>
 </tr>
 <tr>
@@ -1040,7 +1042,8 @@ Remainder: Royal Assent</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(b)</i></div>
+    <div>Schedule (Part 2): 10 Mar 1993 ( <i>see Gazette</i>1993, 
+No. GN17) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1074,7 +1077,7 @@ Remainder: Royal Assent</div>
     <div>29 June 1998</div>
   </td>
   <td>
-    <div>Schedule 1 (items 37, 38): 1 July 1998 ( <i>see Gazette</i>1998, No. S316) <i>(d)</i></div>
+    <div>Schedule 1 (items 37, 38): 1 July 1998 ( <i>see Gazette</i> 1998, No. S316) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1113,23 +1116,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (item 33): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Crimes (Currency) Act 1981_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1985_, subsection 2(7) of which provides as follows:
@@ -1138,13 +1124,13 @@ _(a)_     The _Crimes (Currency) Act 1981_ was amended by section 3 on
 
          The amendment of section 2 commenced on Royal Assent.
 
-_(b)_     The _Crimes (Currency) Act 1981_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, subsection 2(3)(a) of which provides as follows:
+_(b)_    The _Crimes (Currency) Act 1981_ was amended by the Schedule (Part 2) only of the _Qantas Sale Act 1992_, subsection 2(3)(a) of which provides as follows:
 
                  (3)   A Proclamation may fix a day that is earlier than the day on which the Proclamation is published in the _Gazette_ but only if:
 
                               (a)   in the case of sections 30, 31, 35, 37, 39, 43 and 50 and Parts 1 and 2 of the Schedule—the day is not earlier than the substantial minority sale day; and
 
-_(c)_     The _Crimes (Currency) Act 1981_ was amended by the Schedule (item 50) only of the _Commonwealth Bank Sale Act 1995_, subsection 2(2) of which provides as follows:
+_(c)_     The _Crimes (Currency) Act 1981_ was amended by the Schedule (item 50) only of the _Commonwealth Bank__Sale__Act 1995_, subsection 2(2) of which provides as follows:
 
                  (2)   Part 3, and all the items of the Schedule (except items 1, 12, 16, 17, 21, 22, 23, 26, 27, 31, 37 and 48), commence at the transfer time.
 
@@ -1166,8 +1152,8 @@ _(e)_     The _Crimes (Currency) Act 1981_ was amended by Schedule 13 
 
 <table>
 <colgroup>
-  <col width="31%">
-  <col width="69%">
+  <col width="33%">
+  <col width="67%">
 </colgroup>
 
 <thead>
@@ -1352,142 +1338,6 @@ _(e)_     The _Crimes (Currency) Act 1981_ was amended by Schedule 13 
   <td>
     <div>ad. No. 193, 1985</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
 </tr></table>
 
 ## Table A
@@ -1501,6 +1351,8 @@ _Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (
              (1)  Subject to subsection (3), each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+ 
 
  
 * * *
