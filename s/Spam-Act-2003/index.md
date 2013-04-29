@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00080/Html/SpamAct03WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00539/Html/SpamAct03WD02_image001.gif)
 
 # Spam Act 2003
 
 **Act No. 129 of 2003 as amended**
 
-This compilation was prepared on 14 January 2011
+This compilation was prepared on 3 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
@@ -417,7 +417,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                     <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
 
-                    <a name="acquir"></a>**_acquire_**, when used in relation to goods or services, has the same meaning as in the _Competition and Consumer Act 2010_.
+                    <a name="acquir"></a>**_acquire_**, when used in relation to goods or services, has the same meaning as in the _Trade Practices Act 1974_.
 
                     <a name=""></a><a name="address-harvest-softwar"></a>**_address-harvesting software_** means  software that is specifically designed or marketed for use for:
 
@@ -493,7 +493,7 @@ Note:          The _Telecommunications Act 1997_ contains addi
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="good"></a>**_goods_** has the same meaning as in the _Competition and Consumer Act 2010_.
+                    <a name="good"></a>**_goods_** has the same meaning as in the _Trade Practices Act 1974_.
 
                     <a name="govern-bodi"></a>**_government body_** means:
 
@@ -597,7 +597,7 @@ Note:          For treatment of partnerships, see section 58
 
 Note:          See also section 9.
 
-                    <a name="servic"></a>**_services_** has the same meaning as in the _Competition and Consumer Act 2010_.
+                    <a name="servic"></a>**_services_** has the same meaning as in the _Trade Practices Act 1974_.
 
                     <a name="softwar"></a>**_software_** includes a combination of software and associated data.
 
@@ -605,7 +605,7 @@ Note:          See also section 9.
 
                     <a name="suppli"></a>**_supply_**:
 
-                     (a)  when used in relation to goods or services—has the same meaning as in the _Competition and Consumer Act 2010_; or
+                     (a)  when used in relation to goods or services—has the same meaning as in the _Trade Practices Act 1974_; or
 
                      (b)  when used in relation to land—includes transfer; or
 
@@ -729,7 +729,7 @@ Interpretation
 
 ##### <a id="7"></a>7  Australian link
 
-                   For the purposes of this Act, a commercial electronic message has an **_Australian link_** if, and only if:
+                   For the purposes of this Act, a commercial electronic message has an **_Australian link_** if, and only if:
 
                      (a)  the message originates in Australia; or
 
@@ -2237,7 +2237,7 @@ Schedule 2: <i>(a)</i></div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 100–103): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 100–103): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2485,7 +2485,7 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
     <div>S. 4</div>
   </td>
   <td colspan="2">
-    <div>am. No. 45, 2005; Nos. 8 and 103, 2010</div>
+    <div>am. No. 45, 2005; No. 8, 2010</div>
   </td>
   <td>
     <div></div>
@@ -2667,5 +2667,30 @@ _(b)_ Subsection 2(1) (items 31 and 38) of the _Statute Law Revision Act 2010_ p
   <td></td>
   <td></td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Spam Act 2003</h9>
+
+## 100  Section 4 (definition of _acquire_)
+
+## 101  Section 4 (definition of _goods_)
+
+## 102  Section 4 (definition of _services_)
+
+## 103  Section 4 (paragraph (a) of the definition of _supply_)
+
+As at 3 August 2010 the amendments are not incorporated in this compilation.
 
  
