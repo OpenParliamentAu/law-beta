@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00130/Html/66c7658b-8562-4f47-89a6-918f629f02df_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00968/Html/e87959bd-229a-470d-a0d5-a20632a82ba8_files/image001.gif)
 
 # Auditor‑General Act 1997
 
 **Act No. 151 of 1997 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 20 December 2011
  taking into account amendments up to Act No. 190 of 2011
 
 The text of any of those amendments not in force
@@ -148,7 +148,8 @@ Related legislation
 
 [30](#30).          Relationship of information‑gathering powers with other laws
 
-[31](#31).          Purpose for which information‑gathering powers may be used
+[31](#31).          Purpose for which information‑gathering powers may be 
+ used
 
 [32](#32).          Power of Auditor‑General to obtain information
 
@@ -1133,6 +1134,8 @@ Note:          Section 4AA of the _Crimes Act 1914_ sets the
 
                     <a name="intellig-secur-agenc"></a>**_intelligence or security agency_**has the meaning given by section 85ZL of the _Crimes Act 1914_.
 
+                    <a name="modif"></a>**_modifications_**includes additions, omissions and substitutions.
+
 ##### <a id="56A"></a>56A  Constitutional safety net
 
              (1)  If a provision of this Act:
@@ -1263,9 +1266,19 @@ the Governor‑General may, with the consent of the Auditor‑General, retire th
 
                      (b)  during any period, or during all periods, when the Auditor‑General is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
              (3)  A person acting under this section is entitled to the same remuneration and allowances as apply to the office of Auditor‑General. The Consolidated Revenue Fund is appropriated for the payment of the remuneration and allowances.
+
+Note:          Section 33A of the _Acts Interpretation Act 1901_ has rules that apply to acting appointments.
 
 # Schedule 2—Appointment, conditions of appointment etc. for Independent Auditor
 
@@ -1345,13 +1358,23 @@ the Governor‑General may, with the consent of the Independent Auditor, retire 
 
 ##### <a id="6"></a>6  Acting appointment
 
-                   The Minister may appoint a person to act as Independent Auditor:
+             (1)  The Minister may appoint a person to act as Independent Auditor:
 
                      (a)  if there is a vacancy in the office of Independent Auditor, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Independent Auditor is unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under this section is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          Section 33A of the _Acts Interpretation Act 1901_ has rules that apply to acting appointments. These rules include a power for the Minister to determine remuneration and allowances.
 
 # Notes to the _Auditor-General Act 1997_
 
@@ -1526,7 +1549,7 @@ Remainder: 24 May 2001</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 77–83) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 77–83) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2049,14 +2072,6 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 56A</div>
   </td>
   <td>
@@ -2076,7 +2091,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>Schedule 1</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 26, 2008; Nos. 46 and 58, 2011</div>
+    <div>am. No. 146, 1999; No. 26, 2008; No. 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2092,9 +2107,51 @@ _(c)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. No. 26, 2008; Nos. 46 and 58, 2011</div>
+    <div>am. No. 26, 2008; No. 58, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 77  Subsection 56(3) (definition of _modifications_)
+
+Repeal the definition.
+
+## 78  At the end of subclause 7(1) of Schedule 1
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 79  Subclause 7(2) of Schedule 1
+
+Repeal the subclause.
+
+## 80  Subclause 7(3) of Schedule 1 (note)
+
+Repeal the note.
+
+## 81  Subclause 6(1) of Schedule 2
+
+Omit “(1)”.
+
+## 82  At the end of subclause 6(1) of Schedule 2
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 83  Subclause 6(2) of Schedule 2
+
+Repeal the subclause.
+
+As at 20 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2158,6 +2215,8 @@ The amendments made by items 21 and 22 of this Schedule apply to the use or di
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
