@@ -1,1351 +1,2119 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="4FB6D8ACA3B95950CA256FE2000A91A3/$FILE/image001.png"></v:imagedata></v:shape>
+**
 
-# Venture Capital Act 2002
+###  VENTURE CAPITAL ACT 2002 
+**
 
-**Act No. 137 of 2002 as amended**
 
-This compilation was prepared on 11 April 2005
-taking into account amendments up to Act No. 41 of 2005
+**
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
 
 
-# Contents
 
-**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>** 
 
-    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                              </span>**
 
-[1-1](#1-1).         Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[1-5](#1-5).         Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[1-10](#1-10).       Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[1-15](#1-15).       Identifying defined terms<span style="mso-tab-count: 1 dotted">                                                                     </span>
+**
 
-    **Division 3—A guide to this Act<span style="mso-tab-count: 1">                                                                              </span>**
+###  Long Title 
+**
+**
 
-[3-1](#3-1).         What this Act is about<span style="mso-tab-count: 1 dotted">                                                                         </span>
+###  VENTURE CAPITAL ACT 2002<part>Part&#160;1&#151;Preliminary </part>
+**
+**
 
-[3-5](#3-5).         Registration of venture capital limited partnerships and Australian venture capital funds of funds (Part 2)<span style="mso-tab-count: 1">         </span>
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;1&#151;Preliminary</division> 
+**
 
-[3-10](#3-10).       Registration of eligible venture capital investors (Part 3)<span style="mso-tab-count: 1 dotted">                    </span>
 
-[3-15](#3-15).       Determinations by the PDF Board concerning certain investments (Part 4)<span style="mso-tab-count: 1">           </span>
 
-[3-20](#3-20).       Review of decisions (Part 5)<span style="mso-tab-count: 1 dotted">                                                                </span>
+###  VENTURE CAPITAL ACT 2002- SECT 1-1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[3-25](#3-25).       Miscellaneous (Part 6)<span style="mso-tab-count: 1 dotted">                                                                         </span>
+		This Act may be cited as the _Venture Capital Act 2002_.
 
-**Part 2—Registration of venture capital limited partnerships and Australian venture capital funds of funds<span style="mso-tab-count: 1">                                                                                                                                        </span>** 
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 1-5  Commencement [_see_ Note 1] 
+<dl compact="">
 
-    **Division 7—A guide to this Part<span style="mso-tab-count: 1">                                                                             </span>**
+		This Act commences on the day on which it receives the Royal Assent.
 
-[7-1](#7-1).         What this Part is about<span style="mso-tab-count: 1 dotted">                                                                        </span>
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 1-10  Interpretation 
+<dl compact="">
 
-    **Division 9—Registration requirements<span style="mso-tab-count: 1">                                                              </span>**
+<dt>(1)</dt><dd>An expression has the same meaning in this Act as in the _Income Tax Assessment Act 1997_.</dd> <dt>(2)</dt><dd>Division&#160;950 of the _Income Tax Assessment Act 1997_ (which contains rules for interpreting that Act) applies to this Act as if the provisions of this Act were provisions of the _Income Tax Assessment Act 1997_. </dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 1-15  Identifying defined terms 
+<dl compact="">
 
-[9-1](#9-1).         Registration requirements of VCLPs<span style="mso-tab-count: 1 dotted">                                                   </span>
+<dt>(1)</dt><dd>Many of the terms in this Act are defined in the Dictionary, starting at
 
-[9-5](#9-5).         Registration requirements of AFOFs<span style="mso-tab-count: 1 dotted">                                                  </span>
+section&#160;995-1, to the _Income Tax Assessment Act 1997_.</dd> <dt>(2)</dt><dd>Most of the terms that are defined in that Dictionary are identified by an asterisk appearing at the start of the term: as in <sup>*</sup>PDF Board. The footnote with the asterisk contains a signpost to that Dictionary.</dd> <dt>(3)</dt><dd>An asterisk usually identifies the first occurrence of a term in a section (if not divided into subsections), subsection or definition. Later occurrences of the term in the same provision are not usually asterisked.</dd> <dt>(4)</dt><dd>Terms are not asterisked in headings, notes, examples, explanatory tables, guides, outline provisions or diagrams.</dd> <dt>(5)</dt><dd>If a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision. </dd> </dl>
+**
 
-[9-10](#9-10).       Meaning of _permitted loan_<span style="mso-tab-count: 1 dotted">                                                                   </span>
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;3&#151;A guide to this Act</division> 
+**
+###  VENTURE CAPITAL ACT 2002- SECT 3-1  What this Act is about 
+<dl compact="">
 
-    **Division 11—Application for registration<span style="mso-tab-count: 1">                                                        </span>**
+		This Act provides for some administrative measures that are needed for the
 
-[11-1](#11-1).       Application for registration<span style="mso-tab-count: 1 dotted">                                                               </span>
+operation of:
 
-[11-5](#11-5).       Determination of further information to be included in application<span style="mso-tab-count: 1 dotted">  </span>
+ </dl>
 
-[11-10](#11-10).     Further information may be requested<span style="mso-tab-count: 1 dotted">                                              </span>
+Back to Top
 
-[11-15](#11-15).     Period within which application must be decided<span style="mso-tab-count: 1 dotted">                             </span>
+<dl compact=""><dl compact="">
 
-    **Division 13—Registration<span style="mso-tab-count: 1">                                                                                        </span>**
+<dt>(a)</dt><dd>the capital gains tax exemption relating to venture capital under
 
-[13-1](#13-1).       Registration<span style="mso-tab-count: 1 dotted">                                                                                        </span>
+Subdivision&#160;118-F of the _Income Tax Assessment Act 1997_ (and the
 
-[13-5](#13-5).       Conditional registration<span style="mso-tab-count: 1 dotted">                                                                     </span>
+related provisions about similar income gains and losses); and</dd>
 
-[13-10](#13-10).     When registration is in force<span style="mso-tab-count: 1 dotted">                                                              </span>
+<dt>(b)</dt><dd>the "flow-through" treatment, under Division&#160;5 of Part&#160;III of
 
-    **Division 15—Obligations while registered<span style="mso-tab-count: 1">                                                     </span>**
+the _Income Tax Assessment Act 1936_, of the income of limited
 
-[15-1](#15-1).       Annual return<span style="mso-tab-count: 1 dotted">                                                                                     </span>
+partnerships that are used as vehicles for making venture capital investments.
 
-[15-5](#15-5).       Determination of further information to be included in returns<span style="mso-tab-count: 1 dotted">        </span>
+</dd>
 
-[15-10](#15-10).     Quarterly returns<span style="mso-tab-count: 1 dotted">                                                                               </span>
+</dl></dl>
+<dl compact="">
 
-[15-15](#15-15).     Further information may be requested<span style="mso-tab-count: 1 dotted">                                              </span>
+Note:	The PDF Board is responsible for the operation of these
 
-[15-20](#15-20).     Other information may be requested<span style="mso-tab-count: 1 dotted">                                                 </span>
+measures. The _Pooled Development Funds Act 1992_ provides for the
 
-    **Division 17—Revocation of registration<span style="mso-tab-count: 1">                                                          </span>**
+establishment and operation of the PDF Board.
 
-[17-1](#17-1).       Revoking registration for not meeting investment registration requirements etc <span style="mso-tab-count: 1">    </span>
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 3-5  Registration of venture capital limited partnerships and Australian venture capital funds of funds (Part&#160;2) 
+<dl compact="">
 
-[17-5](#17-5).       Revoking registration for not meeting other registration requirements<span style="mso-tab-count: 1 dotted"> </span>
+		Part&#160;2 provides for:
 
-[17-10](#17-10).     Revocation at discretion of PDF Board<span style="mso-tab-count: 1 dotted">                                             </span>
+ </dl>
+<dl compact=""><dl compact="">
 
-[17-15](#17-15).     Notice of revocation<span style="mso-tab-count: 1 dotted">                                                                          </span>
+<dt>(a)</dt><dd>the registration requirements for venture capital limited partnerships and
 
-[17-20](#17-20).     Date of effect of revocation<span style="mso-tab-count: 1 dotted">                                                               </span>
+Australian venture capital funds of funds; and</dd>
 
-[17-25](#17-25).     Revocation on application by partnership<span style="mso-tab-count: 1 dotted">                                        </span>
+<dt>(b)</dt><dd>applications for registration; and</dd>
 
-**Part 3—Registration of eligible venture capital investors<span style="mso-tab-count: 1">                            </span>** 
+<dt>(c)</dt><dd>registration of limited partnerships by the PDF Board, including
 
-    **Division 21—Registration of eligible venture capital investors<span style="mso-tab-count: 1">          </span>** 
+conditional registration; and</dd>
 
-        **Guide to Division 21<span style="mso-tab-count: 1">                                                                                                  </span>**
+<dt>(d)</dt><dd>the obligations imposed on general partners of partnerships that are
 
-[21-1](#21-1).       What this Division is about<span style="mso-tab-count: 1 dotted">                                                               </span>
+registered; and</dd>
 
-        **Operative provisions<span style="mso-tab-count: 1">                                                                                                 </span>**
+<dt>(e)</dt><dd>revocation of registration.
 
-[21-5](#21-5).       Registration as eligible venture capital investors<span style="mso-tab-count: 1 dotted">                               </span>
+</dd>
 
-[21-10](#21-10).     Period within which application must be decided<span style="mso-tab-count: 1 dotted">                             </span>
+</dl></dl>
+###  VENTURE CAPITAL ACT 2002- SECT 3-10  Registration of eligible venture capital investors (Part&#160;3) 
+<dl compact="">
 
-[21-15](#21-15).     When registration is in force<span style="mso-tab-count: 1 dotted">                                                              </span>
+		Part&#160;3 provides for registration of entities as eligible venture capital
 
-[21-20](#21-20).     Annual return by eligible entity<span style="mso-tab-count: 1 dotted">                                                         </span>
+investors, their obligations while registered, and revocation of registration.
 
-[21-25](#21-25).     Revocation at discretion of PDF Board<span style="mso-tab-count: 1 dotted">                                             </span>
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 3-15  Determinations by the PDF Board concerning certain investments (Part&#160;4) 
+<dl compact="">
 
-[21-30](#21-30).     Revocation on application<span style="mso-tab-count: 1 dotted">                                                                 </span>
+		Part&#160;4 provides for the PDF Board to make determinations that are
 
-**Part 4—Determinations by the PDF Board concerning certain investments<span style="mso-tab-count: 1">            </span>** 
+relevant to whether certain investments can be eligible venture capital
 
-    **Division 25—Determinations by the PDF Board concerning certain investments<span style="mso-tab-count: 1">         </span>** 
+investments.
 
-        **Guide to Division 25<span style="mso-tab-count: 1">                                                                                                  </span>**
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 3-20  Review of decisions (Part&#160;5) 
+<dl compact="">
 
-[25-1](#25-1).       What this Division is about<span style="mso-tab-count: 1 dotted">                                                               </span>
+		Part&#160;5 provides for review of the PDF Board's decisions under this Act.
 
-        **Operative provisions<span style="mso-tab-count: 1">                                                                                                 </span>**
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 3-25  Miscellaneous (Part&#160;6) 
+<dl compact="">
 
-[25-5](#25-5).       PDF Board may determine a shorter period<span style="mso-tab-count: 1 dotted">                                      </span>
+		Part&#160;6 deals with miscellaneous matters.
 
-[25-10](#25-10).     PDF Board may determine that a requirement does not apply<span style="mso-tab-count: 1 dotted">         </span>
+ </dl>
+**
 
-[25-15](#25-15).     PDF Board may determine that a requirement does not apply<span style="mso-tab-count: 1 dotted">         </span>
+###  VENTURE CAPITAL ACT 2002<part>Part&#160;2&#151;Registration of venture capital limited partnerships and Australian venture capital funds of funds </part>
+**
+**
 
-**Part 5—Review of decisions<span style="mso-tab-count: 1">                                                                                           </span>** 
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;7&#151;A guide to this Part</division> 
+**
+###  VENTURE CAPITAL ACT 2002- SECT 7-1  What this Part is about 
 
-    **Division 29—Review of decisions<span style="mso-tab-count: 1">                                                                       </span>**
 
-[29-1](#29-1).       Decisions reviewed<span style="mso-tab-count: 1 dotted">                                                                            </span>
+Income Tax Assessment Act 1997
 
-[29-5](#29-5).       Notification of right to seek internal review<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[29-10](#29-10).     Internal review of decisions<span style="mso-tab-count: 1 dotted">                                                               </span>
+Income Tax Assessment Act 1936
 
-[29-15](#29-15).     Review of decisions by Administrative Appeals Tribunal<span style="mso-tab-count: 1 dotted">               </span>
+Back to Top
 
-**Part 6—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>** 
 
-    **Division 33—Miscellaneous<span style="mso-tab-count: 1">                                                                                   </span>**
 
-[33-1](#33-1).       Annual report<span style="mso-tab-count: 1 dotted">                                                                                    </span>
 
-[33-5](#33-5).       Meaning of _form approved by the PDF Board_<span style="mso-tab-count: 1 dotted">                                  </span>
 
-[33-10](#33-10).     Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
+**
 
-## An Act relating to venture capital investments, and for related purposes
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;9&#151;Registration requirements</division> 
+**
 
-## Part 1—Preliminary
 
-### Division 1—Preliminary
+permitted loan
+###  VENTURE CAPITAL ACT 2002- SECT 9-1  Registration requirements of VCLPs 
+<dl compact="">
 
-**Table of sections**
+<dt>(1)</dt><dd>The _registration requirements of a VCLP_, in relation to a
 
-1-1            Short title
+<sup>*</sup>limited partnership, are that:
 
-1-5            Commencement
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-1-10          Interpretation
+<dt>(a)</dt><dd>the partnership was established by or under a law in force in, or in any
 
-1-15          Identifying defined terms
+part of:
 
-##### <a id="1-1"></a>1-1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
+</dd>
 
-                   This Act may be cited as the _Venture Capital Act 2002_.
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="1-5"></a>1-5  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span>
+<dt>(i)</dt><dd>Australia; or</dd>
 
-                   This Act commences on the day on which it receives the Royal Assent.
+<dt>(ii)</dt><dd>Canada; or</dd>
 
-##### <a id="1-10"></a>1-10  Interpretation
+<dt>(iii)</dt><dd>France; or</dd>
 
-             (1)  An expression has the same meaning in this Act as in the _Income Tax Assessment Act 1997_.
+<dt>(iv)</dt><dd>Germany; or</dd>
 
-             (2)  Division 950 of the _Income Tax Assessment Act 1997_ (which contains rules for interpreting that Act) applies to this Act as if the provisions of this Act were provisions of the _Income Tax Assessment Act 1997_.
+<dt>(v)</dt><dd>Japan; or</dd>
 
-##### <a id="1-15"></a>1-15  Identifying defined terms
+<dt>(vi)</dt><dd>the United Kingdom; or</dd>
 
-             (1)  Many of the terms in this Act are defined in the Dictionary, starting at section 995-1, to the _Income Tax Assessment Act 1997_.
+<dt>(vii)</dt><dd>the United States of America; or</dd>
 
-             (2)  Most of the terms that are defined in that Dictionary are identified by an asterisk appearing at the start of the term: as in * PDF Board. The footnote with the asterisk contains a signpost to that Dictionary.
+<dt>(viii)</dt><dd>any other foreign country prescribed by the regulations; and
 
-             (3)  An asterisk usually identifies the first occurrence of a term in a section (if not divided into subsections), subsection or definition. Later occurrences of the term in the same provision are not usually asterisked.
+</dd>
 
-             (4)  Terms are not asterisked in headings, notes, examples, explanatory tables, guides, outline provisions or diagrams.
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-             (5)  If a term is not identified by an asterisk, disregard that fact in deciding whether or not to apply to that term a definition or other interpretation provision.
+<dt>(b)</dt><dd>all of the partners who are <sup>*</sup>general partners are residents of
 
-<o:p> </o:p>
+a country referred to in paragraph&#160;(a); and</dd>
 
-### Division 3—A guide to this Act
+<dt>(c)</dt><dd>under the partnership agreement the partnership is to remain in existence
 
-##### <a id="3-1"></a>3-1  What this Act is about
+for a period of not less than 5 years and not more than 15 years; and</dd>
 
-                   This Act provides for some administrative measures that are needed for the operation of:
+<dt>(d)</dt><dd>the partnership's <sup>*</sup>committed capital is at least $20 million;
 
-                     (a)  the capital gains tax exemption relating to venture capital under Subdivision 118-F of the _Income Tax Assessment Act 1997_ (and the related provisions about similar income gains and losses); and
+and</dd>
 
-                     (b)  the “flow-through” treatment, under Division 5 of Part III of the _Income Tax Assessment Act 1936_, of the income of limited partnerships that are used as vehicles for making venture capital investments.
+<dt>(e)</dt><dd>each investment that the partnership holds is either:
 
-Note:          The PDF Board is responsible for the operation of these measures. The _Pooled Development Funds Act 1992_ provides for the establishment and operation of the PDF Board.
+</dd>
 
-##### <a id="3-5"></a>3-5  Registration of venture capital limited partnerships and Australian venture capital funds of funds (Part 2)
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-                   Part 2 provides for:
+<dt>(i)</dt><dd>an <sup>*</sup>eligible venture capital investment; or</dd>
 
-                     (a)  the registration requirements for venture capital limited partnerships and Australian venture capital funds of funds; and
+<dt>(ii)</dt><dd>an investment in a company, in which the partnership owns one or more
 
-                     (b)  applications for registration; and
+eligible venture capital investments, that would have been an eligible venture
 
-                     (c)  registration of limited partnerships by the PDF Board, including conditional registration; and
+capital investment but for subsections 118-425(2) and (6) of the _Income Tax Assessment Act 1997_; and
 
-                     (d)  the obligations imposed on general partners of partnerships that are registered; and
+</dd>
 
-                     (e)  revocation of registration.
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-##### <a id="3-10"></a>3-10  Registration of eligible venture capital investors (Part 3)
+<dt>(f)</dt><dd>the partnership only carries on activities that are related to making
 
-                   Part 3 provides for registration of entities as eligible venture capital investors, their obligations while registered, and revocation of registration.
+<sup>*</sup>eligible venture capital investments or investments to which
 
-##### <a id="3-15"></a>3-15  Determinations by the PDF Board concerning certain investments (Part 4)
+subparagraph&#160;(e)(ii) applies; and</dd>
 
-                   Part 4 provides for the PDF Board to make determinations that are relevant to whether certain investments can be eligible venture capital investments.
+<dt>(g)</dt><dd>every <sup>*</sup>debt interest that the partnership owns is, and
 
-##### <a id="3-20"></a>3-20  Review of decisions (Part 5)
+continues to be, a <sup>*</sup>permitted loan.
 
-                   Part 5 provides for review of the PDF Board’s decisions under this Act.
+</dd>
 
-##### <a id="3-25"></a>3-25  Miscellaneous (Part 6)
+</dl></dl>
+<dl compact="">
 
-                   Part 6 deals with miscellaneous matters.
+<dt>(2)</dt><dd>The requirements in paragraphs&#160;(1)(e), (f) and (g) are
 
-<o:p> </o:p>
+_investment registration requirements_.
 
-## Part 2—Registration of venture capital limited partnerships and Australian venture capital funds of funds
+</dd> </dl>
 
-### Division 7—A guide to this Part
+Back to Top
 
-##### <a id="7-1"></a>7-1  What this Part is about
+###  VENTURE CAPITAL ACT 2002- SECT 9-5  Registration requirements of AFOFs 
+<dl compact="">
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
+<dt>(1)</dt><dd>The _registration requirements of an AFOF_, in relation to a
 
-The PDF Board can register limited partnerships as venture capital limited partnerships or Australian venture capital funds of funds.
+<sup>*</sup>limited partnership, are that:
 
-Registration is one of the requirements before investments of venture capital through a limited partnership can attract the operation of:
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     the capital gains tax exemption relating to venture capital under Subdivision 118-F of the _Income Tax Assessment Act 1997_ (and the related provisions about similar income gains and losses); and</li>
+<dt>(a)</dt><dd>the partnership is established by or under the law of a State or
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     the “flow-through” treatment, under Division 5 of Part III of the _Income Tax Assessment Act 1936_, of the income of limited partnerships.</li>
+Territory; and</dd>
 
-Broadly speaking, the PDF Board will register a limited partnership under Division 13 if an application meets the requirements of Division 11, unless the PDF Board is satisfied that the partnership does not meet the applicable registration requirements of Division 9.
+<dt>(b)</dt><dd>all of the partners who are <sup>*</sup>general partners are
 
-Conditional registration is an option if an application does not meet the requirements of Division 11.
+<sup>*</sup>Australian residents; and</dd>
 
-                   Note:             Conditional registration becomes important if full registration is achieved. Registration is then backdated to the time of conditional registration. However, this only backdates the “flow-through” treatment of the partnership income. The other tax consequences operate from the time of unconditional registration.
+<dt>(c)</dt><dd>under the partnership agreement, the partnership is to remain in
 
-The PDF Board can revoke a registration under Division 17\. Broadly speaking, the grounds for revocation are:
+existence for a period of not less than 5 years and not more than 20 years;
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     failure to meet the applicable registration requirements of Division 9; and</li>
+and</dd>
 
-<li class="BoxList" style="MARGIN-LEFT: 21.25pt">•     failure to provide information as required under Division 15.</li></div>
+<dt>(d)</dt><dd>each investment that the partnership owns is:
 
-<o:p> </o:p>
+</dd>
 
-### Division 9—Registration requirements
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-**Table of sections**
+<dt>(i)</dt><dd>an investment in a <sup>*</sup>VCLP; or</dd>
 
-9-1            Registration requirements of VCLPs<o:p></o:p>
+<dt>(ii)</dt><dd>an <sup>*</sup>eligible venture capital investment in a company in which
 
-9-5            Registration requirements of AFOFs<o:p></o:p>
+a VCLP, of which the partnership is a partner, owns one or more eligible
 
-9-10          Meaning of permitted loan
+venture capital investments; or</dd>
 
-##### <a id="9-1"></a>9-1  Registration requirements of VCLPs 
+<dt>(iii)</dt><dd>an investment in a company referred to in subparagraph&#160;(ii) that
 
-             (1)  The **_registration requirements of a VCLP_**, in relation to a * limited partnership, are that:
+would have been an eligible venture capital investment but for subsections
 
-                     (a)  the partnership was established by or under a law in force in, or in any part of:
+118-425(2) and (6) of the _Income Tax Assessment Act 1997_; and
 
-                              (i)  <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>; or
+</dd>
 
-                             (ii)  <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canada</st1:place></st1:country-region>; or
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-                            (iii)  <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">France</st1:place></st1:country-region>; or
+<dt>(e)</dt><dd>the partnership only carries on activities that are related to making
 
-                            (iv)  <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Germany</st1:place></st1:country-region>; or
+eligible venture capital investments, investments to which
 
-                             (v)  <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Japan</st1:place></st1:country-region>; or
+subparagraph&#160;(d)(iii) applies or investing in VCLPs; and</dd>
 
-                            (vi)  the <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United Kingdom</st1:place></st1:country-region>; or
+<dt>(f)</dt><dd>every <sup>*</sup>debt interest that the partnership owns is, and
 
-                           (vii)  the <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">United States of America</st1:place></st1:country-region>; or
+continues to be, a <sup>*</sup>permitted loan.
 
-                           (viii)  any other foreign country prescribed by the regulations; and
+</dd>
 
-                     (b)  all of the partners who are * general partners are residents of a country referred to in paragraph (a); and
+</dl></dl>
+<dl compact="">
 
-                     (c)  under the partnership agreement the partnership is to remain in existence for a period of not less than 5 years and not more than 15 years; and
+<dt>(2)</dt><dd>The requirements in paragraphs&#160;(1)(d), (e) and (f) are
 
-                     (d)  the partnership’s * committed capital is at least $20 million; and
+_investment registration requirements_.
 
-                     (e)  each investment that the partnership holds is either:
+</dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 9-10  Meaning of _permitted loan_ 
+<dl compact="">
 
-                              (i)  an * eligible venture capital investment; or
+<dt>(1)</dt><dd>A debt interest is a _permitted loan_ if:
 
-                             (ii)  an investment in a company, in which the partnership owns one or more eligible venture capital investments, that would have been an eligible venture capital investment but for subsections 118-425(2) and (6) of the _Income Tax Assessment Act 1997_; and
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                      (f)  the partnership only carries on activities that are related to making * eligible venture capital investments or investments to which subparagraph (e)(ii) applies; and
+<dt>(a)</dt><dd>it is a loan made to a <sup>*</sup>company and the sum of:
 
-                     (g)  every * debt interest that the partnership owns is, and continues to be, a * permitted loan.
+</dd>
 
-             (2)  The requirements in paragraphs (1)(e), (f) and (g) are **_investment registration requirements_**.
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="9-5"></a>9-5  Registration requirements of AFOFs 
+<dt>(i)</dt><dd>the <sup>*</sup>equity interests that the partnership owns in the company;
 
-             (1)  The **_registration requirements of an AFOF_**, in relation to a * limited partnership, are that:
+and</dd>
 
-                     (a)  the partnership is established by or under the law of a State or Territory; and
+<dt>(ii)</dt><dd>any debt interests that the partnership owns in the company that can be
 
-                     (b)  all of the partners who are * general partners are * Australian residents; and
+converted into equity interests in the company;
 
-                     (c)  under the partnership agreement, the partnership is to remain in existence for a period of not less than 5 years and not more than 20 years; and
+</dd>
 
-                     (d)  each investment that the partnership owns is:
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-                              (i)  an investment in a * VCLP; or
+		is at least 10% of the sum of:
 
-                             (ii)  an * eligible venture capital investment in a company in which a VCLP, of which the partnership is a partner, owns one or more eligible venture capital investments; or
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-                            (iii)  an investment in a company referred to in subparagraph (ii) that would have been an eligible venture capital investment but for subsections 118-425(2) and (6) of the _Income Tax Assessment Act 1997_; and
+<dt>(iii)</dt><dd>all of the equity interests in the company; and</dd>
 
-                     (e)  the partnership only carries on activities that are related to making eligible venture capital investments, investments to which subparagraph (d)(iii) applies or investing in VCLPs; and
+<dt>(iv)</dt><dd>all of the debt interests in the company that can be converted into
 
-                      (f)  every * debt interest that the partnership owns is, and continues to be, a * permitted loan.
+equity interests in the company;
 
-             (2)  The requirements in paragraphs (1)(d), (e) and (f) are **_investment registration requirements_**.
+</dd>
 
-##### <a id="9-10"></a>9-10  Meaning of _permitted loan_
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-             (1)  A debt interest is a **_permitted loan_** if:
+		and the company meets the requirements of subsections 118-425(2) to (7) of
 
-                     (a)  it is a loan made to a * company and the sum of:
+the _Income Tax Assessment Act 1997_ in relation to the investments
 
-                              (i)  the * equity interests that the partnership owns in the company; and
+referred to in subparagraphs&#160;(i) and (ii); or
 
-                             (ii)  any debt interests that the partnership owns in the company that can be converted into equity interests in the company;
+<dt>(b)</dt><dd>it is repaid within 6 months, or such longer period as the <sup>*</sup>PDF
 
-                            is at least 10% of the sum of:
+Board allows under subsection&#160;(3).
 
-                            (iii)  all of the equity interests in the company; and
+</dd>
 
-                            (iv)  all of the debt interests in the company that can be converted into equity interests in the company;
+</dl></dl>
+<dl compact="">
 
-                            and the company meets the requirements of subsections 118-425(2) to (7) of the _Income Tax Assessment Act 1997_ in relation to the investments referred to in subparagraphs (i) and (ii); or
+<dt>(2)</dt><dd>A <sup>*</sup>general partner may apply to the <sup>*</sup>PDF Board, in
 
-                     (b)  it is repaid within 6 months, or such longer period as the * PDF Board allows under subsection (3).
+the <sup>*</sup>form approved by the PDF Board, for the PDF Board to allow a
 
-             (2)  A * general partner may apply to the * PDF Board, in the * form approved by the PDF Board, for the PDF Board to allow a longer period for the purposes of paragraph (1)(b).
+longer period for the purposes of paragraph&#160;(1)(b).</dd> <dt>(3)</dt><dd>The <sup>*</sup>PDF Board may, for the purposes of paragraph&#160;(1)(b), allow a longer period if the PDF Board is satisfied that: </dd> </dl>
 
-             (3)  The * PDF Board may, for the purposes of paragraph (1)(b), allow a longer period if the PDF Board is satisfied that:
+Back to Top
 
-                     (a)  there are exceptional circumstances; and
+<dl compact=""><dl compact="">
 
-                     (b)  the extended period is no longer than reasonably necessary.
+<dt>(a)</dt><dd>there are exceptional circumstances; and</dd>
 
-<o:p> </o:p>
+<dt>(b)</dt><dd>the extended period is no longer than reasonably necessary.
 
-### Division 11—Application for registration
+</dd>
 
-**Table of sections**
+</dl></dl>
+**
 
-11-1          Application for registration
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;11&#151;Application for registration</division> 
+**
 
-11-5          Determination of further information to be included in application
 
-11-10        Further information may be requested
 
-11-15        Period within which application must be decided
+###  VENTURE CAPITAL ACT 2002- SECT 11-1  Application for registration 
+<dl compact="">
 
-##### <a id="11-1"></a>11-1  Application for registration
+<dt>(1)</dt><dd>A <sup>*</sup>general partner of a <sup>*</sup>limited partnership may
 
-             (1)  A * general partner of a * limited partnership may apply, in the * form approved by the PDF Board, to the * PDF Board for registration of the partnership as a * VCLP or an * AFOF under this Part.
+apply, in the <sup>*</sup>form approved by the PDF Board, to the
 
-             (2)  An application must be in writing, and must include the following information:
+<sup>*</sup>PDF Board for registration of the partnership as a <sup>*</sup>VCLP
 
-                     (a)  the name and residency status of, and the relevant qualifications and experience of, each * general partner;
+or an <sup>*</sup>AFOF under this Part.</dd> <dt>(2)</dt><dd>An application must be in writing, and must include the following information: </dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (b)  the name, address and residency status of each * limited partner;
+<dt>(a)</dt><dd>the name and residency status of, and the relevant qualifications and
 
-                     (c)  for each general partner that is a * company—the address of the general partner’s registered office;
+experience of, each <sup>*</sup>general partner;</dd>
 
-                     (d)  for each general partner who is an individual—the general partner’s business address;
+<dt>(b)</dt><dd>the name, address and residency status of each <sup>*</sup>limited
 
-                     (e)  the partnership’s business address;
+partner;</dd>
 
-                      (f)  a copy of the partnership agreement, which must:
+<dt>(c)</dt><dd>for each general partner that is a <sup>*</sup>company&#151;the address of the
 
-                              (i)  require partners to contribute their * committed capital as and when required under the agreement; and
+general partner's registered office;</dd>
 
-                             (ii)  prohibit the addition of new partners to the partnership except as provided for in the agreement; and
+<dt>(d)</dt><dd>for each general partner who is an individual&#151;the general partner's
 
-                            (iii)  prohibit increases in the partnership’s committed capital except as provided for in the agreement; and
+business address;</dd>
 
-                            (iv)  confer on a general partner the right to require partners to contribute their committed capital to the partnership; and
+<dt>(e)</dt><dd>the partnership's business address;</dd>
 
-                             (v)  include a plan which outlines the partnership’s future intended investment activities;
+<dt>(f)</dt><dd>a copy of the partnership agreement, which must:
 
-                     (g)  any documents  that were issued inviting investment in the partnership;
+</dd>
 
-                     (h)  the amount of each partner’s committed capital in the partnership;
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-                      (i)  in relation to each limited partner claiming to be tax exempt in his or her country of residence—details of the facts that qualify the partner to be tax exempt in his or her country of residence;
+<dt>(i)</dt><dd>require partners to contribute their <sup>*</sup>committed capital as and
 
-                      (j)  if the application is an application for registration as a VCLP—a statement by a general partner as to whether the partnership meets the * registration requirements of a VCLP;
+when required under the agreement; and</dd>
 
-                     (k)  if the application is an application for registration as an AFOF—a statement by a general partner as to whether the partnership meets the * registration requirements of an AFOF;
+<dt>(ii)</dt><dd>prohibit the addition of new partners to the partnership except as
 
-                      (l)  such further information as the * PDF Board determines under section 11-5.
+provided for in the agreement; and</dd>
 
-Note:          Part 7.4 of the _Criminal Code_ creates offences for making false and misleading statements, giving false or misleading information and producing false or misleading documents.
+<dt>(iii)</dt><dd>prohibit increases in the partnership's committed capital except as
 
-##### <a id="11-5"></a>11-5  Determination of further information to be included in application
+provided for in the agreement; and</dd>
 
-             (1)  The * PDF Board may, for the purposes of paragraph 11-1(2)(l), determine, by writing signed by the Chairperson of the PDF Board pursuant to a resolution of the PDF Board, that specified information is to be included in the application.
+<dt>(iv)</dt><dd>confer on a general partner the right to require partners to contribute
 
-             (2)  A determination under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+their committed capital to the partnership; and</dd>
 
-##### <a id="11-10"></a>11-10  Further information may be requested
+<dt>(v)</dt><dd>include a plan which outlines the partnership's future intended investment
 
-                   If the * PDF Board needs further information to decide an application for registration under this Part, it may ask a * general partner to provide further information.
+activities;
 
-##### <a id="11-15"></a>11-15  Period within which application must be decided
+</dd>
 
-             (1)  Subject to this section, the * PDF Board must decide an application for registration or conditional registration under this Part within 60 days after receiving it.
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-             (2)  If the * PDF Board thinks that it will take longer to decide the application, the PDF Board may extend, by up to 60 days, the period for deciding it.
+<dt>(g)</dt><dd>any documents  that were issued inviting investment in the
 
-             (3)  An extension must be made by written notice given to a * general partner within 60 days after the * PDF Board receives the application.
+partnership;</dd>
 
-             (4)  If the * PDF Board extends the period, the PDF Board must decide the application within the extended period.
+<dt>(h)</dt><dd>the amount of each partner's committed capital in the partnership;</dd>
 
-<o:p> </o:p>
+<dt>(i)</dt><dd>in relation to each limited partner claiming to be tax exempt in his or
 
-### Division 13—Registration
+her country of residence&#151;details of the facts that qualify the partner to be
 
-**Table of sections**
+tax exempt in his or her country of residence;</dd>
 
-13-1          Registration
+<dt>(j)</dt><dd>if the application is an application for registration as a VCLP&#151;a
 
-13-5          Conditional registration
+statement by a general partner as to whether the partnership meets the
 
-13-10        When registration is in force
+<sup>*</sup>registration requirements of a VCLP;</dd>
 
-##### <a id="13-1"></a>13-1  Registration
+<dt>(k)</dt><dd>if the application is an application for registration as an AFOF&#151;a
 
-             (1)  The * PDF Board must register a partnership as a * VCLP under this Part if:
+statement by a general partner as to whether the partnership meets the
 
-                     (a)  a * general partner has applied for registration as a VCLP; and
+<sup>*</sup>registration requirements of an AFOF;</dd>
 
-                     (b)  the application meets the requirements under section 11-1; and
+<dt>(l)</dt><dd>such further information as the <sup>*</sup>PDF Board determines under
 
-                     (c)  any further information requested under section 11-10 has been provided; and
+section&#160;11-5.
 
-                     (d)  a general partner has notified the PDF Board that the VCLP has sufficient funds to begin its investment program;
+</dd>
 
-unless the PDF Board is satisfied that the partnership:
+</dl></dl>
+<dl compact="">
 
-                     (e)  does not meet the * registration requirements of a VCLP; or
+Note:	Part&#160;7.4 of the _Criminal Code_ creates offences
 
-                      (f)  has had a previous registration revoked under Division 17.
+for making false and misleading statements, giving false or misleading
 
-             (2)  The * PDF Board must register a partnership as an * AFOF under this Part if:
+information and producing false or misleading documents.
 
-                     (a)  a * general partner has applied for registration as an AFOF; and
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 11-5  Determination of further information to be included in application 
+<dl compact="">
 
-                     (b)  the application meets the requirements under section 11-1; and
+<dt>(1)</dt><dd>The <sup>*</sup>PDF Board may, for the purposes of paragraph 11-1(2)(l),
 
-                     (c)  any further information requested under section 11-10 has been provided; and
+determine, by writing signed by the Chairperson of the PDF Board pursuant to a
 
-                     (d)  a general partner has notified the PDF Board that the AFOF has sufficient funds to begin its investment program;
+resolution of the PDF Board, that specified information is to be included in
 
-unless the PDF Board is satisfied that the partnership:
+the application.</dd> <dt>(2)</dt><dd>A determination under this section is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl>
 
-                     (e)  does not meet the * registration requirements of an AFOF; or
+Back to Top
 
-                      (f)  has had a previous registration revoked under Division 17.
+###  VENTURE CAPITAL ACT 2002- SECT 11-10  Further information may be requested 
+<dl compact="">
 
-             (3)  If the * PDF Board decides to register the partnership as a * VCLP or an * AFOF under this Part, the PDF Board must notify a * general partner of the partnership as soon as practicable after the decision is made.
+		If the <sup>*</sup>PDF Board needs further information to decide an
 
-             (4)  If the * PDF Board decides not to register the partnership as a * VCLP or an * AFOF under this Part, the PDF Board must:
+application for registration under this Part, it may ask a <sup>*</sup>general
 
-                     (a)  notify a * general partner of the partnership as soon as practicable after the decision is made; and
+partner to provide further information.
 
-                     (b)  provide reasons for the decision.
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 11-15  Period within which application must be decided 
+<dl compact="">
 
-             (5)  The * PDF Board cannot register the partnership both as a * VCLP and as an * AFOF.
+<dt>(1)</dt><dd>Subject to this section, the <sup>*</sup>PDF Board must decide an
 
-##### <a id="13-5"></a>13-5  Conditional registration
+application for registration or conditional registration under this Part within
 
-             (1)  The * PDF Board may conditionally register the partnership as a * VCLP if:
+60 days after receiving it.</dd> <dt>(2)</dt><dd>If the <sup>*</sup>PDF Board thinks that it will take longer to decide the application, the PDF Board may extend, by up to 60 days, the period for deciding it.</dd> <dt>(3)</dt><dd>An extension must be made by written notice given to a <sup>*</sup>general partner within 60 days after the <sup>*</sup>PDF Board receives the application.</dd> <dt>(4)</dt><dd>If the <sup>*</sup>PDF Board extends the period, the PDF Board must decide the application within the extended period. </dd> </dl>
+**
 
-                     (a)  a * general partner has applied for registration as a VCLP; and
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;13&#151;Registration</division> 
+**
 
-                     (b)  either:
 
-                              (i)  the application for registration does not meet the requirements under section 11-1; or
+###  VENTURE CAPITAL ACT 2002- SECT 13-1  Registration 
+<dl compact="">
 
-                             (ii)  any further information requested under section 11-10 has not been provided;
+<dt>(1)</dt><dd>The <sup>*</sup>PDF Board must register a partnership as a
 
-unless the PDF Board is satisfied that the partnership:
+<sup>*</sup>VCLP under this Part if:
 
-                     (c)  would not, if it was conditionally registered, meet the * registration requirements of a VCLP within the period specified under subsection 13-10(3); or
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (d)  has had a previous registration revoked under Division 17.
+<dt>(a)</dt><dd>a <sup>*</sup>general partner has applied for registration as a VCLP;
 
-             (2)  The * PDF Board may conditionally register the partnership as an * AFOF if:
+and</dd>
 
-                     (a)  a * general partner has applied for registration as an AFOF; and
+<dt>(b)</dt><dd>the application meets the requirements under section&#160;11-1; and</dd>
 
-                     (b)  either:
+<dt>(c)</dt><dd>any further information requested under section&#160;11-10 has been
 
-                              (i)  the application for registration does not meet the requirements under section 11-1; or
+provided; and</dd>
 
-                             (ii)  any further information requested under section 11-10 has not been provided;
+<dt>(d)</dt><dd>a general partner has notified the PDF Board that the VCLP has sufficient
 
-unless the PDF Board is satisfied that the partnership:
+funds to begin its investment program;
 
-                     (c)  would not, if it was conditionally registered, meet the * registration requirements of an AFOF within the period specified under subsection 13-10(3); or
+</dd>
 
-                     (d)  has had a previous registration revoked under Division 17.
+</dl></dl>
+<dl compact=""><dl compact="">
 
-             (3)  Conditional registration under this section does not mean that the partnership is registered under this Part as a * VCLP or an * AFOF.
+<dt>(e)</dt><dd>does not meet the <sup>*</sup>registration requirements of a VCLP; or</dd>
 
-##### <a id="13-10"></a>13-10  When registration is in force
+<dt>(f)</dt><dd>has had a previous registration revoked under Division&#160;17.
 
-             (1)  Registration of the partnership as a * VCLP or an * AFOF comes into force on the day on which registration under section 13-1 was granted.
+</dd>
 
-             (2)  However, if conditional registration of the partnership had been granted under section 13-5 and was in force on the day on which registration under section 13-1 was granted, registration of the partnership as a * VCLP or an * AFOF is taken to have come into force on:
+</dl></dl>
+<dl compact="">
 
-                     (a)  if, since its establishment, the partnership has only carried on activities related to becoming registered as a VCLP or an AFOF—the day on which it was established; or
+<dt>(2)</dt><dd>The <sup>*</sup>PDF Board must register a partnership as an
 
-                     (b)  otherwise—the day on which the conditional registration was granted.
+<sup>*</sup>AFOF under this Part if:
 
-             (3)  If a * VCLP or an * AFOF is not registered under section 13-1 within 24 months after the day on which the conditional registration of the partnership was granted under section 13-5, the conditional registration lapses.
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-             (4)  Registration is taken to be in force until revoked under Division 17.
+<dt>(a)</dt><dd>a <sup>*</sup>general partner has applied for registration as an AFOF;
 
-<o:p> </o:p>
+and</dd>
 
-### Division 15—Obligations while registered
+<dt>(b)</dt><dd>the application meets the requirements under section&#160;11-1; and</dd>
 
-**Table of sections<o:p></o:p>**
+<dt>(c)</dt><dd>any further information requested under section&#160;11-10 has been
 
-15-1          Annual return
+provided; and</dd>
 
-15-5          Determination of further information to be included in returns
+<dt>(d)</dt><dd>a general partner has notified the PDF Board that the AFOF has sufficient
 
-15-10        Quarterly returns
+funds to begin its investment program;
 
-15-15        Further information may be requested
+</dd>
 
-15-20        Other information may be requested
+</dl></dl>
+<dl compact=""><dl compact="">
 
-##### <a id="15-1"></a>15-1  Annual return
+<dt>(e)</dt><dd>does not meet the <sup>*</sup>registration requirements of an AFOF; or</dd>
 
-                   A * general partner of a partnership registered under this Part as a * VCLP or an * AFOF must, within 3 months after the end of each * financial year, give the * PDF Board a written return that includes the following information:
+<dt>(f)</dt><dd>has had a previous registration revoked under Division&#160;17.
 
-                     (a)  the name and address of each partner, and that partner’s residency status at the end of the financial year (including details of changes to that status during the year);
+</dd>
 
-                     (b)  in relation to each partner claiming to be tax exempt—details of the facts that qualify the partner to be tax exempt in his or her country of residence;
+</dl></dl>
+<dl compact="">
 
-                     (c)  details of:
+<dt>(3)</dt><dd>If the <sup>*</sup>PDF Board decides to register the partnership as a
 
-                              (i)  the amount of each partner’s * committed capital in the partnership; and
+<sup>*</sup>VCLP or an <sup>*</sup>AFOF under this Part, the PDF Board must
 
-                             (ii)  any acquisitions or disposals of a partner’s * equity interests in the partnership during the year including any consideration given or received for that acquisition or disposal;
+notify a <sup>*</sup>general partner of the partnership as soon as practicable
 
-                     (d)  details of any variation made to the partnership agreement during the year;
+after the decision is made.</dd> <dt>(4)</dt><dd>If the <sup>*</sup>PDF Board decides not to register the partnership as a <sup>*</sup>VCLP or an <sup>*</sup>AFOF under this Part, the PDF Board must: </dd> </dl>
 
-                     (e)  details of:
+Back to Top
 
-                              (i)  investments the partnership made during that year; and
+<dl compact=""><dl compact="">
 
-                             (ii)  investments the partnership owns at the end of that year; and
+<dt>(a)</dt><dd>notify a <sup>*</sup>general partner of the partnership as soon as
 
-                            (iii)  disposals of investments during that year including any profits derived or losses incurred from that disposal;
+practicable after the decision is made; and</dd>
 
-                      (f)  if the partnership is registered under this Part as a VCLP—a statement from a general partner as to whether the partnership met the * registration requirements of a VCLP throughout the financial year;
+<dt>(b)</dt><dd>provide reasons for the decision.
 
-                     (g)  if the partnership is registered under this Part as an AFOF—a statement from a general partner as to whether the partnership met the * registration requirements of an AFOF throughout the financial year;
+</dd>
 
-                    (ga)  for an investment in a company that the partnership held throughout the financial year—a statement from a general partner as to whether the company met the requirements of subsections 118-425(3), (4) and (5), and paragraph 118-425(11)(d), of the _Income Tax Assessment Act 1997_ at all times during that year;
+</dl></dl>
+<dl compact="">
 
-                     (h)  such further information as the PDF Board determines under section 15-5.
+<dt>(5)</dt><dd>The <sup>*</sup>PDF Board cannot register the partnership both as a
 
-Note:          Part 7.4 of the _Criminal Code_ creates offences for making false or misleading statements, giving false or misleading information and producing false or misleading documents.
+<sup>*</sup>VCLP and as an <sup>*</sup>AFOF.
 
-##### <a id="15-5"></a>15-5  Determination of further information to be included in returns
+</dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 13-5  Conditional registration 
+<dl compact="">
 
-             (1)  The * PDF Board may, for the purposes of paragraph 15-1(h), determine, by writing signed by the Chairperson of the PDF Board pursuant to a resolution of the PDF Board, that specified information is to be included in returns.
+<dt>(1)</dt><dd>The <sup>*</sup>PDF Board may conditionally register the partnership as a
 
-             (2)  A determination under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+<sup>*</sup>VCLP if:
 
-##### <a id="15-10"></a>15-10  Quarterly returns
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                   A* general partner of a partnership registered under this Part as a * VCLP or an * AFOF must, within one month after the end of each * quarter, give the * PDF Board a written return that includes:
+<dt>(a)</dt><dd>a <sup>*</sup>general partner has applied for registration as a VCLP;
 
-                     (a)  details of any investments it has made during the quarter, and the consideration given for those investments; and
+and</dd>
 
-                     (b)  details of any disposals of investments during the quarter, and any profit derived or loss incurred from those disposals (including details of how that profit or loss was calculated); and
+<dt>(b)</dt><dd>either:
 
-                     (c)  for each investment in a company made during the quarter—a statement from a general partner as to whether the company met the requirements of subsections 118-425(3), (4) and (5), and paragraph 118-425(11)(d), of the _Income Tax Assessment Act 1997_ at all times during the quarter after the investment was made; and
+</dd>
 
-                     (d)  for each disposal of an investment in a company during the quarter—a statement from a general partner as to whether the company met those requirements at all times during the quarter up to the day of disposal.
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="15-15"></a>15-15  Further information may be requested
+<dt>(i)</dt><dd>the application for registration does not meet the requirements under
 
-                   The * PDF Board may ask a * general partner of the partnership to provide further information about the investments or disposals notified under section 15-10.
+section&#160;11-1; or</dd>
 
-##### <a id="15-20"></a>15-20  Other information may be requested
+<dt>(ii)</dt><dd>any further information requested under section&#160;11-10 has not been
 
-                   The * PDF Board may ask a * general partner of the partnership to provide the PDF Board with information that the PDF Board considers necessary for the purposes of administering this Act.
+provided;
 
-<o:p> </o:p>
+</dd>
 
-### Division 17—Revocation of registration
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-**Table of sections**
+<dt>(c)</dt><dd>would not, if it was conditionally registered, meet the
 
-17-1          Revoking registration for not meeting investment registration requirements etc.
+<sup>*</sup>registration requirements of a VCLP within the period specified
 
-17-5          Revoking registration for not meeting other registration requirements
+under subsection 13-10(3); or</dd>
 
-17-10        Revocation at discretion of PDF Board
+<dt>(d)</dt><dd>has had a previous registration revoked under Division&#160;17.
 
-17-15        Notice of revocation
+</dd>
 
-17-20        Date of effect of revocation
+</dl></dl>
+<dl compact="">
 
-17-25        Revocation on application by partnership
+<dt>(2)</dt><dd>The <sup>*</sup>PDF Board may conditionally register the partnership as an
 
-##### <a id="17-1"></a>17-1  Revoking registration for not meeting investment registration requirements etc.
+<sup>*</sup>AFOF if:
 
-             (1)  If the * PDF Board has reason to believe that:
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (a)  a partnership registered as a * VCLP does not meet the * investment registration requirements of a VCLP; or
+<dt>(a)</dt><dd>a <sup>*</sup>general partner has applied for registration as an AFOF;
 
-                     (b)  a partnership registered as an * AFOF does not meet the * investment registration requirements of an AFOF;
+and</dd>
 
-it must notify a * general partner of the partnership, in writing, that it will revoke the registration if it is satisfied that, at the end of the period determined under subsection (2), the partnership does not meet the investment registration requirements of a VCLP or an AFOF, as the case may be.
+<dt>(b)</dt><dd>either:
 
-             (2)  The * PDF Board must, for the purposes of subsection (1), determine a period that:
+</dd>
 
-                     (a)  it is satisfied is a reasonable period; and
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  does not exceed 6 months.
+<dt>(i)</dt><dd>the application for registration does not meet the requirements under
 
-             (3)  The notice must:
+section&#160;11-1; or</dd>
 
-                     (a)  state the matters that in the * PDF Board’s opinion, may constitute grounds for revocation; and
+<dt>(ii)</dt><dd>any further information requested under section&#160;11-10 has not been
 
-                     (b)  state the period, determined by the PDF Board under subsection (2), within which the * investment registration requirements must be complied with; and
+provided;
 
-                     (c)  state that the * general partner may make written submissions to the PDF Board about the matters in the notice within that period.
+</dd>
 
-             (4)  A * general partner may make submissions about the matters in the notice at any time during that period.
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-             (5)  The * PDF Board must revoke the registration if, after considering any submissions made under subsection (4), it is satisfied that, at the end of that period, the partnership does not meet the * investment registration requirements of a VCLP or the * investment registration requirements of an AFOF, as the case may be.
+<dt>(c)</dt><dd>would not, if it was conditionally registered, meet the
 
-             (6)  Subsection (5) does not apply if the registration is revoked under section 17-10 within that period.
+<sup>*</sup>registration requirements of an AFOF within the period specified
 
-##### <a id="17-5"></a>17-5  Revoking registration for not meeting other registration requirements
+under subsection 13-10(3); or</dd>
 
-             (1)  If the * PDF Board has reason to believe that:
+<dt>(d)</dt><dd>has had a previous registration revoked under Division&#160;17.
 
-                     (a)  a partnership registered as a * VCLP does not meet the * registration requirements of a VCLP that are not * investment registration requirements; or
+</dd>
 
-                     (b)  a partnership registered as an * AFOF does not meet the * registration requirements of an AFOF that are not * investment registration requirements;
+</dl></dl>
+<dl compact="">
 
-it must notify a * general partner of the partnership, in writing, that it will revoke the registration if it is satisfied that, in 60 days time, the partnership does not meet the registration requirements of a VCLP or an AFOF, as the case may be.
+<dt>(3)</dt><dd>Conditional registration under this section does not mean that the
 
-             (2)  The notice must:
+partnership is registered under this Part as a <sup>*</sup>VCLP or an
 
-                     (a)  state the matters that, in the * PDF Board’s opinion, may constitute grounds for revocation; and
+<sup>*</sup>AFOF.
 
-                     (b)  state that the * general partner may apply for an extension of the 60 day period; and
+</dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 13-10  When registration is in force 
+<dl compact="">
 
-                     (c)  state that the general partner may make written submissions to the PDF Board about the matters in the notice within the 60 day period or that period as extended under subsection (4).
+<dt>(1)</dt><dd>Registration of the partnership as a <sup>*</sup>VCLP or an
 
-             (3)  A * general partner may apply to the * PDF Board, in the * form approved by the PDF Board, for an extension of the 60 day period.
+<sup>*</sup>AFOF comes into force on the day on which registration under
 
-             (4)  The * PDF Board may, for the purposes of paragraph (2)(c), extend, by up to 60 days, the period if it is satisfied that:
+section&#160;13-1 was granted.</dd> <dt>(2)</dt><dd>However, if conditional registration of the partnership had been granted under section&#160;13-5 and was in force on the day on which registration under section&#160;13-1 was granted, registration of the partnership as a <sup>*</sup>VCLP or an <sup>*</sup>AFOF is taken to have come into force on: </dd> </dl>
 
-                     (a)  reasonable progress is being made towards meeting the requirements; and
+Back to Top
 
-                     (b)  the requirements will be met within the extended period.
+<dl compact=""><dl compact="">
 
-             (5)  A * general partner may make submissions about the matters in the notice at any time during:
+<dt>(a)</dt><dd>if, since its establishment, the partnership has only carried on
 
-                     (a)  the 60 day period; or
+activities related to becoming registered as a VCLP or an AFOF&#151;the day on
 
-                     (b)  if the period was extended under subsection (4)—that extended period.
+which it was established; or</dd>
 
-             (6)  The * PDF Board must revoke the registration if, after considering any submissions made under subsection (5), it is satisfied that:
+<dt>(b)</dt><dd>otherwise&#151;the day on which the conditional registration was granted.
 
-                     (a)  at the end of the 60 day period; or
+</dd>
 
-                     (b)  if the period was extended under subsection (4)—that extended period;
+</dl></dl>
+<dl compact="">
 
-the partnership does not meet the * registration requirements of a VCLP or the * registration requirements of an AFOF, as the case may be.
+<dt>(3)</dt><dd>If a <sup>*</sup>VCLP or an <sup>*</sup>AFOF is not registered under
 
-##### <a id="17-10"></a>17-10  Revocation at discretion of PDF Board
+section&#160;13-1 within 24 months after the day on which the conditional
 
-             (1)  Subject to subsection (2), the * PDF Board may revoke a partnership’s registration as a * VCLP or an * AFOF under this Part if the PDF Board is satisfied that the partnership has:
+registration of the partnership was granted under section&#160;13-5, the
 
-                     (a)  failed to lodge an annual return under section 15-1; or
+conditional registration lapses.</dd> <dt>(4)</dt><dd>Registration is taken to be in force until revoked under Division&#160;17\. </dd> </dl>
+**
 
-                     (b)  failed to lodge a quarterly return under section 15-10; or
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;15&#151;Obligations while registered</division> 
+**
 
-                     (c)  failed to provide any further information requested under section 15-15; or
 
-                     (d)  failed to provide any information requested under section 15-20; or
 
-                     (e)  during a 12 month period, received more than one notice under section 17-1:
 
-                              (i)  that related to a failure to meet the registration requirement set out in paragraph 9-1(1)(e) or 9-5(1)(d) (whichever is applicable); and
+###  VENTURE CAPITAL ACT 2002- SECT 15-1  Annual return 
+<dl compact="">
 
-                             (ii)  in relation to which the partnership’s registration has not been revoked.
+		A <sup>*</sup>general partner of a partnership registered under this Part as
 
-             (2)  The * PDF Board must not revoke the partnership’s registration unless the PDF Board:
+a <sup>*</sup>VCLP or an <sup>*</sup>AFOF must, within 3 months after the end
 
-                     (a)  by notice in writing given to a * general partner of the partnership, allows the general partner at least 28 days after the notice is given in which to make written submissions to the PDF Board about the matters specified in the notice that, in the PDF Board’s opinion, may constitute grounds for revocation; and
+of each <sup>*</sup>financial year, give the <sup>*</sup>PDF Board a written
 
-                     (b)  considers any such submissions.
+return that includes the following information:
 
-##### <a id="17-15"></a>17-15  Notice of revocation
+ </dl>
+<dl compact=""><dl compact="">
 
-                   As soon as practicable after revoking a partnership’s registration under section 17-1, 17-5 or 17-10, the * PDF Board must give a * general partner of the partnership a notice that advises of the revocation and sets out the PDF Board’s reasons for deciding to revoke.
+<dt>(a)</dt><dd>the name and address of each partner, and that partner's residency status
 
-##### <a id="17-20"></a>17-20  Date of effect of revocation
+at the end of the financial year (including details of changes to that status
 
-                   The revocation takes effect from the day on which the * PDF Board decides to revoke registration.
+during the year);</dd>
 
-##### <a id="17-25"></a>17-25  Revocation on application by partnership
+<dt>(b)</dt><dd>in relation to each partner claiming to be tax exempt&#151;details of the
 
-             (1)  A * general partner of a partnership registered under this Part as a * VCLP or an * AFOF may apply in writing to the * PDF Board to have the registration revoked.
+facts that qualify the partner to be tax exempt in his or her country of
 
-             (2)  The * PDF Board must revoke the registration as soon as practicable after receiving the application.
+residence;</dd>
 
-             (3)  The revocation takes effect on the day on which notice of the revocation is given to a * general partner of the partnership.
+<dt>(c)</dt><dd>details of:
 
-<o:p> </o:p>
+</dd>
 
-## Part 3—Registration of eligible venture capital investors
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-### Division 21—Registration of eligible venture capital investors
+<dt>(i)</dt><dd>the amount of each partner's <sup>*</sup>committed capital in the
 
-#### Guide to Division 21
+partnership; and</dd>
 
-##### <a id="21-1"></a>21-1  What this Division is about
+<dt>(ii)</dt><dd>any acquisitions or disposals of a partner's <sup>*</sup>equity interests
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
+in the partnership during the year including any consideration given or
 
-The PDF Board can register entities as eligible venture capital investors, and revoke their registration.
+received for that acquisition or disposal;
 
-Registration is one of the requirements before investments of venture capital by an entity directly (rather than through a limited partnership) can attract the operation of section 118-415 of the _Income Tax Assessment Act 1997_ (and the related provisions about similar income gains and losses).</div>
+</dd>
 
-Note:          Section 118-415 of the _Income Tax Assessment Act 1997_ gives to an individual investor an equivalent capital gains tax exemption to the one that the investor could have, under section 118-405 or 118-410 of that Act, from investing through a limited partnership registered under Part 2 of this Act.
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-**Table of sections**
+<dt>(d)</dt><dd>details of any variation made to the partnership agreement during the
 
-Operative provisions
+year;</dd>
 
-21-5          Registration as eligible venture capital investors
+<dt>(e)</dt><dd>details of:
 
-21-10        Period within which application must be decided
+</dd>
 
-21-15        When registration is in force
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-21-20        Annual return by eligible entity
+<dt>(i)</dt><dd>investments the partnership made during that year; and</dd>
 
-21-25        Revocation at discretion of PDF Board
+<dt>(ii)</dt><dd>investments the partnership owns at the end of that year; and</dd>
 
-21-30        Revocation on application
+<dt>(iii)</dt><dd>disposals of investments during that year including any profits derived
 
-#### Operative provisions
+or losses incurred from that disposal;
 
-##### <a id="21-5"></a>21-5  Registration as eligible venture capital investors
+</dd>
 
-             (1)  An * entity may apply to the * PDF Board, in the * form approved by the PDF Board, for registration under this Part as an * eligible venture capital investor.
+</dl></dl></dl>
+<dl compact=""><dl compact="">
 
-             (2)  An application must be given to the * PDF Board within 30 days after the applicant enters into the contract to acquire its first * eligible venture capital investment after the commencement of this Act.
+<dt>(f)</dt><dd>if the partnership is registered under this Part as a VCLP&#151;a statement
 
-             (3)  An application must be in writing, and must include the following information:
+from a general partner as to whether the partnership met the
 
-                     (a)  the applicant’s current residency status;
+<sup>*</sup>registration requirements of a VCLP throughout the financial
 
-                     (b)  details of the facts that qualify the applicant as a * tax-exempt foreign resident;
+year;</dd>
 
-                     (c)  the address of the applicant’s registered office;
+<dt>(g)</dt><dd>if the partnership is registered under this Part as an AFOF&#151;a statement
 
-                     (d)  the name and address of the first * company in which the applicant has invested or proposes to invest and the industry in which the company operates;
+from a general partner as to whether the partnership met the
 
-                     (e)  the amount of the investment and the date on which it was or is to be made;
+<sup>*</sup>registration requirements of an AFOF throughout the financial
 
-                      (f)  details of any other investments that the applicant holds in the company that are not * eligible venture capital investments.
+year;</dd>
 
-             (4)  The * PDF Board must register the applicant under this Part if the PDF Board is satisfied that the information has been provided.
+<dt>(ga)</dt><dd>for an investment in a company that the partnership held throughout the
 
-             (5)  If the * PDF Board registers an applicant under this Part, the PDF Board must notify the applicant within 60 days after the application was made.
+financial year&#151;a statement from a general partner as to whether the company
 
-             (6)  If the * PDF Board does not register an applicant under this Part, the PDF Board must:
+met the requirements of subsections 118-425(3), (4) and (5), and paragraph
 
-                     (a)  notify the applicant within 60 days after the application was made; and
+118-425(11)(d), of the _Income Tax Assessment Act 1997_ at all times
 
-                     (b)  provide reasons for the decision.
+during that year;</dd>
 
-##### <a id="21-10"></a>21-10  Period within which application must be decided
+<dt>(h)</dt><dd>such further information as the PDF Board determines under
 
-             (1)  Subject to this section, the * PDF Board must decide an application for registration under this Part within 60 days after receiving it.
+section&#160;15-5.
 
-             (2)  If the * PDF Board thinks that it will take longer to decide the application, the PDF Board may extend, by up to 60 days, the period for deciding it.
+</dd>
 
-             (3)  An extension must be made by written notice given to the applicant within 60 days after the * PDF Board receives the application.
+</dl></dl>
 
-             (4)  If the * PDF Board extends the period, the PDF Board must decide the application within the extended period.
+Back to Top
 
-##### <a id="21-15"></a>21-15  When registration is in force
+<dl compact="">
 
-             (1)  Registration of an * entity as an * eligible venture capital investor is taken to have come into force on the day on which the first investment referred to in subsection 21-5(2) was made.
+Note:	Part&#160;7.4 of the _Criminal Code_ creates offences
 
-             (2)  Registration is taken to be in force until revoked under section 21-25.
+for making false or misleading statements, giving false or misleading
 
-##### <a id="21-20"></a>21-20  Annual return by eligible entity
+information and producing false or misleading documents.
 
-             (1)  An * entity registered under this Part must, within 3 months after the end of each * financial year, give the * PDF Board a written return that includes the following information:
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 15-5  Determination of further information to be included in returns 
+<dl compact="">
 
-                     (a)  the entity’s residency status at the end of the financial year (including details of changes to that status during the year);
+<dt>(1)</dt><dd>The <sup>*</sup>PDF Board may, for the purposes of paragraph 15-1(h),
 
-                     (b)  the address of the entity’s registered office (including details of changes to that address during the year);
+determine, by writing signed by the Chairperson of the PDF Board pursuant to a
 
-                     (c)  details of the facts that qualify the entity to be tax exempt in its country of residence;
+resolution of the PDF Board, that specified information is to be included in
 
-                     (d)  details of the facts that qualify the entity as an * eligible venture capital investor;
+returns.</dd> <dt>(2)</dt><dd>A determination under this section is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 15-10  Quarterly returns 
+<dl compact="">
 
-                     (e)  details of:
+		A<sup>*</sup>general partner of a partnership registered under this Part as a
 
-                              (i)  the * eligible venture capital investments the entity made during that year; and
+<sup>*</sup>VCLP or an <sup>*</sup>AFOF must, within one month after the end of
 
-                             (ii)  the eligible venture capital investments that the entity disposed of during that year; and
+each <sup>*</sup>quarter, give the <sup>*</sup>PDF Board a written return that
 
-                            (iii)  the eligible venture capital investments the entity holds at the end of that year; and
+includes:
 
-                            (iv)  the disposals of eligible venture capital investments during that year including any profits derived or losses incurred from that disposal;
+ </dl>
+<dl compact=""><dl compact="">
 
-                      (f)  the industries to which those investments relate;
+<dt>(a)</dt><dd>details of any investments it has made during the quarter, and the
 
-                     (g)  for each investment in a company that the entity held throughout that year—a statement as to whether the company met the requirements of subsections 118-425(3), (4) and (5), and paragraph 118-425(11)(d), of the _Income Tax Assessment Act 1997_ at all times during that year;
+consideration given for those investments; and</dd>
 
-                     (h)  for each investment in a company that the entity made during that year—a statement as to whether the company met those requirements at all times during that year after the investment was made;
+<dt>(b)</dt><dd>details of any disposals of investments during the quarter, and any profit
 
-                      (i)  for each investment in a company that the entity disposed of during that year—a statement as to whether the company met those requirements at all times during that year up to the day of disposal.
+derived or loss incurred from those disposals (including details of how that
 
-             (2)  Information about a matter that a return must include because of paragraph (1)(a) or (b) is information about that matter as at the end of the financial year.
+profit or loss was calculated); and</dd>
 
-Note:          Part 7.4 of the _Criminal Code_ creates offences for making false and misleading statements, giving false or misleading information and producing false or misleading documents.
+<dt>(c)</dt><dd>for each investment in a company made during the quarter&#151;a statement from
 
-##### <a id="21-25"></a>21-25  Revocation at discretion of PDF Board
+a general partner as to whether the company met the requirements of subsections
 
-             (1)  Subject to this section, the * PDF Board may revoke an * entity’s registration under this Part if the PDF Board is satisfied that the entity has failed to comply with section 21-20.
+118-425(3), (4) and (5), and paragraph 118-425(11)(d), of the _Income Tax Assessment Act 1997_ at all times during the quarter after the investment
 
-             (2)  As soon as practicable after revoking an * entity’s registration under this Part, the * PDF Board must give the entity a notice that advises of the revocation and sets out the PDF Board’s reasons for deciding to revoke.
+was made; and</dd>
 
-             (3)  The * PDF Board must not revoke a registration unless the PDF Board:
+<dt>(d)</dt><dd>for each disposal of an investment in a company during the quarter&#151;a
 
-                     (a)  by notice in writing given to the * entity, allows the entity at least 14 days after the notice is given in which to make written submissions to the PDF Board about the matters specified in the notice that, in the PDF Board’s opinion, may constitute grounds for revocation; and
+statement from a general partner as to whether the company met those
 
-                     (b)  considers any such submissions.
+requirements at all times during the quarter up to the day of disposal.
 
-##### <a id="21-30"></a>21-30  Revocation on application
+</dd>
 
-             (1)  An * entity registered under this Part may apply in writing to the * PDF Board to have its registration revoked.
+</dl></dl>
+###  VENTURE CAPITAL ACT 2002- SECT 15-15  Further information may be requested 
+<dl compact="">
 
-             (2)  The * PDF Board must revoke the registration as soon as practicable after receiving the application.
+		The <sup>*</sup>PDF Board may ask a <sup>*</sup>general partner of the
 
-             (3)  The revocation takes effect on the day on which notice of the revocation is given to the * entity.
+partnership to provide further information about the investments or disposals
 
-<o:p> </o:p>
+notified under section&#160;15-10.
 
-## Part 4—Determinations by the PDF Board concerning certain investments
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 15-20  Other information may be requested 
+<dl compact="">
 
-### Division 25—Determinations by the PDF Board concerning certain investments
+		The <sup>*</sup>PDF Board may ask a <sup>*</sup>general partner of the
 
-#### Guide to Division 25
+partnership to provide the PDF Board with information that the PDF Board
 
-##### <a id="25-1"></a>25-1  What this Division is about
+considers necessary for the purposes of administering this Act.
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
+ </dl>
+**
 
-The PDF Board can make determinations having the effect of relaxing the requirements of paragraph 18-425(2)(b) of the _Income Tax Assessment Act 1997_.</div>
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;17&#151;Revocation of registration</division> 
+**
 
-Note:          Paragraph 18-425(2)(b) of the _Income Tax Assessment Act 1997_ is about how closely a company is connected with <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>. It is one of the requirements that a company must meet in order for investments in the company to be eligible venture capital investments. The capital gains tax exemption under Subdivision 118-F of that Act only applies in relation to eligible venture capital investments.
 
-**Table of sections**
 
-Operative provisions
 
-25-5          PDF Board may determine a shorter period
 
-25-10        PDF Board may determine that a requirement does not apply
+###  VENTURE CAPITAL ACT 2002- SECT 17-1  Revoking registration for not meeting investment registration requirements etc. 
+<dl compact="">
 
-<a id="25-15"></a>25-15        PDF Board may determine that a requirement does not apply
+<dt>(1)</dt><dd>If the <sup>*</sup>PDF Board has reason to believe that:
 
-#### Operative provisions
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-##### <a id="25-5"></a>25-5  PDF Board may determine a shorter period
+<dt>(a)</dt><dd>a partnership registered as a <sup>*</sup>VCLP does not meet the
 
-             (1)  The * PDF Board may, on the application of a * general partner of a * limited partnership registered as a * VCLP or an * AFOF, determine a shorter period during which a * company must meet the requirements of paragraph 118-425(2)(b) of the _Income Tax Assessment Act 1997_.
+<sup>*</sup>investment registration requirements of a VCLP; or</dd>
 
-             (2)  The application must be in the * form approved by the PDF Board.
+<dt>(b)</dt><dd>a partnership registered as an <sup>*</sup>AFOF does not meet the
 
-             (3)  In considering whether to make a determination, the * PDF Board must apply the principles specified under subsection (4).
+<sup>*</sup>investment registration requirements of an AFOF;
 
-             (4)  The * PDF Board may make principles about making determinations under this section.
+</dd>
 
-             (5)  If the * PDF Board determines a shorter period, the PDF Board must notify the * general partner as soon as practicable after the determination is made.
+</dl></dl>
 
-             (6)  If the * PDF Board refuses to make a determination, the PDF Board must:
+Back to Top
 
-                     (a)  notify the * general partner as soon as practicable after the refusal; and
+*
+<dl compact="">
 
-                     (b)  provide reasons for the refusal.
+<dt>(2)</dt><dd>The <sup>*</sup>PDF Board must, for the purposes of subsection&#160;(1),
 
-             (7)  Principles made under subsection (4) are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+determine a period that:
 
-##### <a id="25-10"></a>25-10  PDF Board may determine that a requirement does not apply
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-             (1)  The * PDF Board may, on the application of a * general partner of a partnership registered as a VCLP or an AFOF, determine that either or both of the following requirements do not apply to a * company:
+<dt>(a)</dt><dd>it is satisfied is a reasonable period; and</dd>
 
-                     (a)  the requirement referred to under subparagraph 118-425(2)(b)(i) of the _Income Tax Assessment Act 1997_ that more than 50% of the people who are currently engaged by the company to perform services must perform those services primarily in Australia;
+<dt>(b)</dt><dd>does not exceed 6 months.
 
-                     (b)  the requirement referred to under subparagraph 118-425(2)(b)(ii) of that Act that more than 50% of its assets (determined by value) must be situated in <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
+</dd>
 
-             (2)  The application must be in the * form approved by the PDF Board.
+</dl></dl>
+<dl compact="">
 
-             (3)  In considering whether to make a determination, the * PDF Board must apply the principles specified under subsection (4).
+<dt>(3)</dt><dd>The notice must:
 
-             (4)  The * PDF Board may make principles about making determinations under this section.
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-             (5)  If the * PDF Board determines that a requirement does not apply, the PDF Board must notify the * general partner as soon as practicable after the determination is made.
+<dt>(a)</dt><dd>state the matters that in the <sup>*</sup>PDF Board's opinion, may
 
-             (6)  If the * PDF Board refuses to make a determination, the PDF Board must:
+constitute grounds for revocation; and</dd>
 
-                     (a)  notify the * general partner as soon as practicable after the refusal; and
+<dt>(b)</dt><dd>state the period, determined by the PDF Board under subsection&#160;(2),
 
-                     (b)  provide reasons for the refusal.
+within which the <sup>*</sup>investment registration requirements must be
 
-             (7)  Principles made under subsection (4) are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+complied with; and</dd>
 
-##### <a id="25-15"></a>25-15  PDF Board may determine that a requirement does not apply
+<dt>(c)</dt><dd>state that the <sup>*</sup>general partner may make written submissions to
 
-             (1)  The * PDF Board may, on the application of a * general partner of a partnership registered as a * VCLP or an * AFOF, determine that:
+the PDF Board about the matters in the notice within that period.
 
-                     (a)  a company’s primary activity is not an ineligible activity mentioned in subsection 118-425(13) of the _Income Tax Assessment Act 1997_; and
+</dd>
 
-                     (b)  the company’s failure to satisfy at least 2 of the requirements in subsection 118-425(3) of that Act is temporary and did not exist at the time the relevant investment in the company was made and, if it has been disposed of, when it was disposed of.
+</dl></dl>
+<dl compact="">
 
-             (2)  The application must be in the * form approved by the PDF Board.
+<dt>(4)</dt><dd>A <sup>*</sup>general partner may make submissions about the matters in
 
-             (3)  In considering whether to make a determination, the * PDF Board must apply the principles specified under subsection (4).
+the notice at any time during that period.</dd> <dt>(5)</dt><dd>The <sup>*</sup>PDF Board must revoke the registration if, after considering any submissions made under subsection&#160;(4), it is satisfied that, at the end of that period, the partnership does not meet the <sup>*</sup>investment registration requirements of a VCLP or the <sup>*</sup>investment registration requirements of an AFOF, as the case may be.</dd> <dt>(6)</dt><dd>Subsection&#160;(5) does not apply if the registration is revoked under section&#160;17-10 within that period. </dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 17-5  Revoking registration for not meeting other registration requirements 
+<dl compact="">
 
-             (4)  The * PDF Board may make principles about making determinations under this section.
+<dt>(1)</dt><dd>If the <sup>*</sup>PDF Board has reason to believe that:
 
-             (5)  If the * PDF Board makes a determination under subsection (1), the PDF Board must notify the * general partner as soon as practicable after the determination is made.
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-             (6)  If the * PDF Board refuses to make a determination, the PDF Board must:
+<dt>(a)</dt><dd>a partnership registered as a <sup>*</sup>VCLP does not meet the
 
-                     (a)  notify the * general partner as soon as practicable after the refusal; and
+<sup>*</sup>registration requirements of a VCLP that are not
 
-                     (b)  provide reasons for the refusal.
+<sup>*</sup>investment registration requirements; or</dd>
 
-             (7)  Principles made under subsection (4) are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+<dt>(b)</dt><dd>a partnership registered as an <sup>*</sup>AFOF does not meet the
 
-<o:p> </o:p>
+<sup>*</sup>registration requirements of an AFOF that are not
 
-## Part 5—Review of decisions
+<sup>*</sup>investment registration requirements;
 
-### Division 29—Review of decisions
+</dd>
 
-**Table of sections**
+</dl></dl>
+*
+<dl compact="">
 
-29-1          Decisions reviewed
+<dt>(2)</dt><dd>The notice must:
 
-29-5          Notification of right to seek internal review
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-29-10        Internal review of decisions
+<dt>(a)</dt><dd>state the matters that, in the <sup>*</sup>PDF Board's opinion, may
 
-29-15        Review of decisions by Administrative Appeals Tribunal
+constitute grounds for revocation; and</dd>
 
-##### <a id="29-1"></a>29-1  Decisions reviewed
+<dt>(b)</dt><dd>state that the <sup>*</sup>general partner may apply for an extension of
 
-                   The following decisions of the * PDF Board are reviewable under this Part:
+the 60 day period; and</dd>
 
-                     (a)  decisions under subsection 9-10(3) allowing, or refusing to allow, a longer period for the purposes of paragraph 9-10(1)(b) for repayment of a * permitted loan;
+<dt>(c)</dt><dd>state that the general partner may make written submissions to the PDF
 
-                     (b)  decisions under section 13-1 refusing to register a * limited partnership as a * VCLP or an * AFOF under Part 2;
+Board about the matters in the notice within the 60 day period or that period
 
-                     (c)  decisions under section 13-5 refusing to register conditionally a limited partnership as a VCLP or an AFOF;
+as extended under subsection&#160;(4).
 
-                     (d)  decisions under section 17-1, 17-5 or 17-10 revoking a registration under Part 2;
+</dd>
 
-                     (e)  decisions under subsection 17-1(2) determining a period within which * investment registration requirements must be met;
+</dl></dl>
+<dl compact="">
 
-                      (f)  decisions under section 21-5 refusing to register an entity as an * eligible venture capital investor under Part 3;
+<dt>(3)</dt><dd>A <sup>*</sup>general partner may apply to the <sup>*</sup>PDF Board, in
 
-                     (g)  decisions under section 21-25 revoking a registration under Part 3;
+the <sup>*</sup>form approved by the PDF Board, for an extension of the 60 day
 
-                     (h)  decisions under section 25-5 determining a shorter period, or refusing to make such a determination; or
+period.</dd> <dt>(4)</dt><dd>The <sup>*</sup>PDF Board may, for the purposes of paragraph&#160;(2)(c), extend, by up to 60 days, the period if it is satisfied that: </dd> </dl>
 
-                      (i)  decisions under section 25-10 or 25-15 refusing to make a determination.
+Back to Top
 
-##### <a id="29-5"></a>29-5  Notification of right to seek internal review
+<dl compact=""><dl compact="">
 
-             (1)  A notice that:
+<dt>(a)</dt><dd>reasonable progress is being made towards meeting the requirements; and</dd>
 
-                     (a)  is given to the * person affected by a decision that is reviewable under this Part; and
+<dt>(b)</dt><dd>the requirements will be met within the extended period.
 
-                     (b)  advises that person of the decision;
+</dd>
 
-must include a statement to the effect that the person may, under section 29-10, request the * PDF Board to reconsider the decision.
+</dl></dl>
+<dl compact="">
 
-             (2)  The person affected by the decision is the person who made the relevant application to the PDF Board.
+<dt>(5)</dt><dd>A <sup>*</sup>general partner may make submissions about the matters in
 
-             (3)  A failure to comply with subsection (1) in relation to a decision reviewable under this Part  does not affect the validity of the decision.
+the notice at any time during:
 
-##### <a id="29-10"></a>29-10  Internal review of decisions
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-             (1)  If the * person affected by a decision that is reviewable under this Part is dissatisfied with the decision, the person may, by notice in writing given to the * PDF Board, request the PDF Board to reconsider the decision.
+<dt>(a)</dt><dd>the 60 day period; or</dd>
 
-             (2)  The request must not be made more than 21 days, or such longer period as the * PDF Board approves, after the person receives from the PDF Board a notice advising of the decision.
+<dt>(b)</dt><dd>if the period was extended under subsection&#160;(4)&#151;that extended period.
 
-             (3)  The request must set out the person’s reasons for making it.
+</dd>
 
-             (4)  On receipt of the request, the * PDF Board must reconsider the decision and may confirm or revoke it, or vary it in such manner as the PDF Board thinks fit.
+</dl></dl>
+<dl compact="">
 
-             (5)  If the * PDF Board does not confirm, vary or revoke the decision before the end of the period of 60 days after the day on which the PDF Board receives the request, the PDF Board is taken, at the end of that period, to have confirmed the decision.
+<dt>(6)</dt><dd>The <sup>*</sup>PDF Board must revoke the registration if, after
 
-             (6)  As soon as practicable after the * PDF Board confirms, varies or revokes the decision, the PDF Board must give the person a written notice that:
+considering any submissions made under subsection&#160;(5), it is satisfied
 
-                     (a)  advises of the confirmation, variation or revocation of the decision; and
+that:
 
-                     (b)  except in a case to which subsection (5) applies—advises of the PDF Board’s reasons for confirming, varying or revoking the decision; and
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                     (c)  in the case of a confirmation or variation of the decision—advises the person that the person may apply to the Administrative Appeals Tribunal under the _Administrative Appeals Tribunal Act 1975_ for review of the decision as confirmed or varied.
+<dt>(a)</dt><dd>at the end of the 60 day period; or</dd>
 
-             (7)  A failure to comply with subsection (6) in relation to the confirmation, variation or revocation of the decision does not affect the validity of the confirmation, variation or revocation.
+<dt>(b)</dt><dd>if the period was extended under subsection&#160;(4)&#151;that extended period;
 
-             (8)  For the purposes of subsections (4), (5), (6) and (7) and section 29-15, if the * PDF Board revokes a decision and replaces it with another decision:
+</dd>
 
-                     (a)  the PDF Board is taken to vary the first-mentioned decision and not to revoke it; and
+</dl></dl>
+*
+*
+###  VENTURE CAPITAL ACT 2002- SECT 17-10  Revocation at discretion of PDF Board 
+<dl compact="">
 
-                     (b)  the other decision is taken to be the first-mentioned decision as varied.
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), the <sup>*</sup>PDF Board may revoke a
 
-##### <a id="29-15"></a>29-15  Review of decisions by Administrative Appeals Tribunal
+partnership's registration as a <sup>*</sup>VCLP or an <sup>*</sup>AFOF under
 
-             (1)  Application may be made to the Administrative Appeals Tribunal for a reviewable decision of the * PDF Board that has been confirmed or varied under section 29-10.
+this Part if the PDF Board is satisfied that the partnership has:
 
-             (2)  An application may only be made by * the person affected by the decision.
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-<o:p> </o:p>
+<dt>(a)</dt><dd>failed to lodge an annual return under section&#160;15-1; or</dd>
 
-## Part 6—Miscellaneous
+<dt>(b)</dt><dd>failed to lodge a quarterly return under section&#160;15-10; or</dd>
 
-### Division 33—Miscellaneous
+<dt>(c)</dt><dd>failed to provide any further information requested under
 
-**Table of sections**
+section&#160;15-15; or</dd>
 
-33-1          Annual report
+<dt>(d)</dt><dd>failed to provide any information requested under section&#160;15-20; or</dd>
 
-33-5          Meaning of form approved by the PDF Board
+<dt>(e)</dt><dd>during a 12 month period, received more than one notice under
 
-33-10        Regulations
+section&#160;17-1:
 
-##### <a id="33-1"></a>33-1  Annual report
+</dd>
 
-             (1)  The * PDF Board must, as soon as practicable after the end of each * financial year, prepare and give to the Minister a report of its operations during that year.
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (2)  The * PDF Board must include in the report:
+<dt>(i)</dt><dd>that related to a failure to meet the registration requirement set out in
 
-                     (a)  a list of the partnerships registered under Part 2 as at the end of the financial year; and
+paragraph 9-1(1)(e) or 9-5(1)(d) (whichever is applicable); and</dd>
 
-                     (b)  a list of the * partnerships that became registered under that Part during the * financial year; and
+<dt>(ii)</dt><dd>in relation to which the partnership's registration has not been revoked.
 
-                     (c)  a list of the partnerships whose registration under that Part was revoked during the financial year.
+</dd>
 
-             (3)  The * PDF Board must also include in the report:
+</dl></dl></dl>
+<dl compact="">
 
-                     (a)  a list of the * entities registered under Part 3 as at the end of the * financial year; and
+<dt>(2)</dt><dd>The <sup>*</sup>PDF Board must not revoke the partnership's registration
 
-                     (b)  a list of the entities that became registered under that Part during the financial year; and
+unless the PDF Board:
 
-                     (c)  a list of the entities whose registration under that Part was revoked during the financial year.
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-##### <a id="33-5"></a>33-5  Meaning of _form approved by the PDF Board_
+<dt>(a)</dt><dd>by notice in writing given to a <sup>*</sup>general partner of the
 
- A notice or application is in the **_form approved by the PDF Board_** if:
+partnership, allows the general partner at least 28 days after the notice is
 
-                     (a)  it is in the form approved by the * PDF Board for that kind of notice or application; and
+given in which to make written submissions to the PDF Board about the matters
 
-                     (b)  it contains a declaration signed by a person or persons as the form requires; and
+specified in the notice that, in the PDF Board's opinion, may constitute
 
-                     (c)  it contains the information that the form requires, and any further information, statement or document as the PDF Board requires, whether in the form or otherwise; and
+grounds for revocation; and</dd>
 
-                     (d)  it is given in the manner that the PDF Board requires (which may include electronically).
+<dt>(b)</dt><dd>considers any such submissions.
 
-##### <a id="33-10"></a>33-10  Regulations
+</dd>
 
-                   The Governor-General may make regulations prescribing matters:
+</dl></dl>
+###  VENTURE CAPITAL ACT 2002- SECT 17-15  Notice of revocation 
+<dl compact="">
 
-                     (a)  required or permitted by this Act to be prescribed; or
+		As soon as practicable after revoking a partnership's registration under
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+section&#160;17-1, 17-5 or 17-10, the <sup>*</sup>PDF Board must give a
 
+<sup>*</sup>general partner of the partnership a notice that advises of the
 
-# Notes to the _<span style="mso-no-proof: yes">Venture Capital Act 2002</span>_
+revocation and sets out the PDF Board's reasons for deciding to revoke.
 
-### Note 1
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 17-20  Date of effect of revocation 
+<dl compact="">
 
-The _Venture Capital Act 2002_ as shown in this compilation comprises Act No. 137, 2002 amended as indicated in the Tables below.
+		The revocation takes effect from the day on which the <sup>*</sup>PDF Board
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
+decides to revoke registration.
 
-### Table of Acts
+ </dl>
 
-<table>
-<colgroup>
-  <col width="31%">
-  <col width="16%">
-  <col width="18%">
-  <col width="19%">
-  <col width="16%">
-</colgroup>
+Back to Top
 
-<thead>
-  <tr>
-    <td>
-      <div>Act <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Number 
-and year <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Venture Capital Act 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>137, 2002</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="19" month="12">19 Dec 2002</st1:date></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="19" month="12">19 Dec 2002</st1:date></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (2004 Measures No. 3) Act 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>105, 2004</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="30" month="6">30 June 2004</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 2: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="4">1 Apr 2004</st1:date> 
-Remainder: Royal Assent <o:p></o:p> 
-</div>
-    </td>
-    <td>
-      <div>Sch. 1 (item 19) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (2004 Measures No. 7) Act 2005</div>
-    </td>
-    <td>
-      <div>41, 2005</div>
-    </td>
-    <td>
-      <div>1 Apr 2005</div>
-    </td>
-    <td>
-      <div>Schedule 10 (items 243, 276): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</tbody></table>
+###  VENTURE CAPITAL ACT 2002- SECT 17-25  Revocation on application by partnership 
+<dl compact="">
 
+<dt>(1)</dt><dd>A <sup>*</sup>general partner of a partnership registered under this Part
 
-## Table of Amendments
+as a <sup>*</sup>VCLP or an <sup>*</sup>AFOF may apply in writing to the
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+<sup>*</sup>PDF Board to have the registration revoked.</dd> <dt>(2)</dt><dd>The <sup>*</sup>PDF Board must revoke the registration as soon as practicable after receiving the application.</dd> <dt>(3)</dt><dd>The revocation takes effect on the day on which notice of the revocation is given to a <sup>*</sup>general partner of the partnership. </dd> </dl>
+**
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>S. 15-1 </div>
-    </td>
-    <td>
-      <div>am. No. 105, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 15-10 </div>
-    </td>
-    <td>
-      <div>am. No. 105, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Link note to Guide </div>
-    </td>
-    <td>
-      <div>rep. No. 41 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21-5 </div>
-    </td>
-    <td>
-      <div>am. No. 41 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21-20 </div>
-    </td>
-    <td>
-      <div>am. No. 105, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Link note to Guide </div>
-    </td>
-    <td>
-      <div>rep. No. 41 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 25-15 </div>
-    </td>
-    <td>
-      <div>ad. No. 105, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 29-1 </div>
-    </td>
-    <td>
-      <div>am. No. 105, 2004</div>
-    </td>
-  </tr>
-</tbody></table>
+###  VENTURE CAPITAL ACT 2002<part>Part&#160;3&#151;Registration of eligible venture capital investors </part>
+**
+**
 
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;21&#151;Registration of eligible venture capital investors</division> 
+**
+**
 
-## Table A
+###  VENTURE CAPITAL ACT 2002<division>Guide to Division&#160;21 </division> 
+**
+###  VENTURE CAPITAL ACT 2002- SECT 21-1  What this Division is about 
 
-### Application, saving or transitional provisions
+Income Tax Assessment Act 1997
+<dl compact="">
 
-_Tax Laws Amendment (2004 Measures No. 3) Act 2004 (No. 105, 2004)<o:p></o:p>_
+Note:	Section&#160;118-415 of the _Income Tax Assessment Act 1997_ gives to an individual investor an equivalent capital gains tax
 
-## Schedule 1
+exemption to the one that the investor could have, under section&#160;118-405
 
-## 19  Application
+or 118-410 of that Act, from investing through a limited partnership registered
 
-The amendments made by this Schedule apply, and are taken to have applied, to CGT events relating to investments made on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="1" month="7">1 July 2002</st1:date>.
+under Part&#160;2 of this Act.
 
+ </dl>
 
-<o:p> </o:p>
+
+
+
+
+\[This is the end of the Guide]
+**
+
+###  VENTURE CAPITAL ACT 2002<division>Operative provisions </division> 
+**
+###  VENTURE CAPITAL ACT 2002- SECT 21-5  Registration as eligible venture capital investors 
+<dl compact="">
+
+<dt>(1)</dt><dd>An <sup>*</sup>entity may apply to the <sup>*</sup>PDF Board, in the
+
+<sup>*</sup>form approved by the PDF Board, for registration under this Part as
+
+an <sup>*</sup>eligible venture capital investor.</dd> <dt>(2)</dt><dd>An application must be given to the <sup>*</sup>PDF Board within 30 days after the applicant enters into the contract to acquire its first <sup>*</sup>eligible venture capital investment after the commencement of this Act.</dd> <dt>(3)</dt><dd>An application must be in writing, and must include the following information: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the applicant's current residency status;</dd>
+
+<dt>(b)</dt><dd>details of the facts that qualify the applicant as a
+
+<sup>*</sup>tax-exempt non-resident;</dd>
+
+<dt>(c)</dt><dd>the address of the applicant's registered office;</dd>
+
+<dt>(d)</dt><dd>the name and address of the first <sup>*</sup>company in which the
+
+applicant has invested or proposes to invest and the industry in which the
+
+company operates;</dd>
+
+<dt>(e)</dt><dd>the amount of the investment and the date on which it was or is to be
+
+made;</dd>
+
+<dt>(f)</dt><dd>details of any other investments that the applicant holds in the company
+
+that are not <sup>*</sup>eligible venture capital investments.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(4)</dt><dd>The <sup>*</sup>PDF Board must register the applicant under this Part if
+
+the PDF Board is satisfied that the information has been provided.</dd> <dt>(5)</dt><dd>If the <sup>*</sup>PDF Board registers an applicant under this Part, the PDF Board must notify the applicant within 60 days after the application was made.</dd> <dt>(6)</dt><dd>If the <sup>*</sup>PDF Board does not register an applicant under this Part, the PDF Board must: </dd> </dl>
+
+Back to Top
+
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>notify the applicant within 60 days after the application was made; and</dd>
+
+<dt>(b)</dt><dd>provide reasons for the decision.
+
+</dd>
+
+</dl></dl>
+###  VENTURE CAPITAL ACT 2002- SECT 21-10  Period within which application must be decided 
+<dl compact="">
+
+<dt>(1)</dt><dd>Subject to this section, the <sup>*</sup>PDF Board must decide an
+
+application for registration under this Part within 60 days after receiving
+
+it.</dd> <dt>(2)</dt><dd>If the <sup>*</sup>PDF Board thinks that it will take longer to decide the application, the PDF Board may extend, by up to 60 days, the period for deciding it.</dd> <dt>(3)</dt><dd>An extension must be made by written notice given to the applicant within 60 days after the <sup>*</sup>PDF Board receives the application.</dd> <dt>(4)</dt><dd>If the <sup>*</sup>PDF Board extends the period, the PDF Board must decide the application within the extended period. </dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 21-15  When registration is in force 
+<dl compact="">
+
+<dt>(1)</dt><dd>Registration of an <sup>*</sup>entity as an <sup>*</sup>eligible venture
+
+capital investor is taken to have come into force on the day on which the first
+
+investment referred to in subsection 21-5(2) was made.</dd> <dt>(2)</dt><dd>Registration is taken to be in force until revoked under section&#160;21-25\. </dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 21-20  Annual return by eligible entity 
+<dl compact="">
+
+<dt>(1)</dt><dd>An <sup>*</sup>entity registered under this Part must, within 3 months
+
+after the end of each <sup>*</sup>financial year, give the <sup>*</sup>PDF
+
+Board a written return that includes the following information:
+
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the entity's residency status at the end of the financial year (including
+
+details of changes to that status during the year);</dd>
+
+<dt>(b)</dt><dd>the address of the entity's registered office (including details of
+
+changes to that address during the year);</dd>
+
+<dt>(c)</dt><dd>details of the facts that qualify the entity to be tax exempt in its
+
+country of residence;</dd>
+
+<dt>(d)</dt><dd>details of the facts that qualify the entity as an <sup>*</sup>eligible
+
+venture capital investor;</dd>
+
+<dt>(e)</dt><dd>details of:
+
+</dd>
+
+</dl></dl>
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the <sup>*</sup>eligible venture capital investments the entity made
+
+during that year; and</dd>
+
+<dt>(ii)</dt><dd>the eligible venture capital investments that the entity disposed of
+
+during that year; and</dd>
+
+<dt>(iii)</dt><dd>the eligible venture capital investments the entity holds at the end of
+
+that year; and</dd>
+
+<dt>(iv)</dt><dd>the disposals of eligible venture capital investments during that year
+
+including any profits derived or losses incurred from that disposal;
+
+</dd>
+
+</dl></dl></dl>
+<dl compact=""><dl compact="">
+
+<dt>(f)</dt><dd>the industries to which those investments relate;</dd>
+
+<dt>(g)</dt><dd>for each investment in a company that the entity held throughout that
+
+year&#151;a statement as to whether the company met the requirements of subsections
+
+118-425(3), (4) and (5), and paragraph 118-425(11)(d), of the _Income Tax Assessment Act 1997_ at all times during that year;</dd>
+
+<dt>(h)</dt><dd>for each investment in a company that the entity made during that year&#151;a
+
+statement as to whether the company met those requirements at all times during
+
+that year after the investment was made;</dd>
+
+<dt>(i)</dt><dd>for each investment in a company that the entity disposed of during that
+
+year&#151;a statement as to whether the company met those requirements at all times
+
+during that year up to the day of disposal.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(2)</dt><dd>Information about a matter that a return must include because of
+
+paragraph&#160;(1)(a) or (b) is information about that matter as at the end of
+
+the financial year.
+
+</dd> </dl>
+
+Back to Top
+
+<dl compact="">
+
+Note:	Part&#160;7.4 of the _Criminal Code_ creates offences
+
+for making false and misleading statements, giving false or misleading
+
+information and producing false or misleading documents.
+
+ </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 21-25  Revocation at discretion of PDF Board 
+<dl compact="">
+
+<dt>(1)</dt><dd>Subject to this section, the <sup>*</sup>PDF Board may revoke an
+
+<sup>*</sup>entity's registration under this Part if the PDF Board is satisfied
+
+that the entity has failed to comply with section&#160;21-20.</dd> <dt>(2)</dt><dd>As soon as practicable after revoking an <sup>*</sup>entity's registration under this Part, the <sup>*</sup>PDF Board must give the entity a notice that advises of the revocation and sets out the PDF Board's reasons for deciding to revoke.</dd> <dt>(3)</dt><dd>The <sup>*</sup>PDF Board must not revoke a registration unless the PDF Board: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>by notice in writing given to the <sup>*</sup>entity, allows the entity at
+
+least 14 days after the notice is given in which to make written submissions to
+
+the PDF Board about the matters specified in the notice that, in the PDF
+
+Board's opinion, may constitute grounds for revocation; and</dd>
+
+<dt>(b)</dt><dd>considers any such submissions.
+
+</dd>
+
+</dl></dl>
+###  VENTURE CAPITAL ACT 2002- SECT 21-30  Revocation on application 
+<dl compact="">
+
+<dt>(1)</dt><dd>An <sup>*</sup>entity registered under this Part may apply in writing to
+
+the <sup>*</sup>PDF Board to have its registration revoked.</dd> <dt>(2)</dt><dd>The <sup>*</sup>PDF Board must revoke the registration as soon as practicable after receiving the application.</dd> <dt>(3)</dt><dd>The revocation takes effect on the day on which notice of the revocation is given to the <sup>*</sup>entity. </dd> </dl>
+**
+
+###  VENTURE CAPITAL ACT 2002<part>Part&#160;4&#151;Determinations by the PDF Board concerning certain investments </part>
+**
+**
+
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;25&#151;Determinations by the PDF Board concerning certain investments</division> 
+**
+**
+
+###  VENTURE CAPITAL ACT 2002<division>Guide to Division&#160;25 </division> 
+**
+###  VENTURE CAPITAL ACT 2002- SECT 25-1  What this Division is about 
+Income Tax Assessment Act 1997
+<dl compact="">
+
+Note:	Paragraph 18-425(2)(b) of the _Income Tax Assessment Act 1997_ is about how closely a company is connected with Australia. It is one
+
+of the requirements that a company must meet in order for investments in the
+
+company to be eligible venture capital investments. The capital gains tax
+
+exemption under Subdivision&#160;118-F of that Act only applies in relation to
+
+eligible venture capital investments.
+
+ </dl>
+
+
+\[This is the end of the Guide]
+**
+
+###  VENTURE CAPITAL ACT 2002<division>Operative provisions </division> 
+**
+###  VENTURE CAPITAL ACT 2002- SECT 25-5  PDF Board may determine a shorter period 
+<dl compact="">
+
+<dt>(1)</dt><dd>The <sup>*</sup>PDF Board may, on the application of a <sup>*</sup>general
+
+partner of a <sup>*</sup>limited partnership registered as a <sup>*</sup>VCLP
+
+or an <sup>*</sup>AFOF, determine a shorter period during which a
+
+<sup>*</sup>company must meet the requirements of paragraph 118-425(2)(b) of
+
+the _Income Tax Assessment Act 1997_.</dd> <dt>(2)</dt><dd>The application must be in the <sup>*</sup>form approved by the PDF Board.</dd> <dt>(3)</dt><dd>In considering whether to make a determination, the <sup>*</sup>PDF Board must apply the principles specified under subsection&#160;(4).</dd> <dt>(4)</dt><dd>The <sup>*</sup>PDF Board may make principles about making determinations under this section.</dd> <dt>(5)</dt><dd>If the <sup>*</sup>PDF Board determines a shorter period, the PDF Board must notify the <sup>*</sup>general partner as soon as practicable after the determination is made.</dd> <dt>(6)</dt><dd>If the <sup>*</sup>PDF Board refuses to make a determination, the PDF Board must: </dd> </dl>
+
+Back to Top
+
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>notify the <sup>*</sup>general partner as soon as practicable after the
+
+refusal; and</dd>
+
+<dt>(b)</dt><dd>provide reasons for the refusal.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(7)</dt><dd>Principles made under subsection&#160;(4) are disallowable instruments for
+
+the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+
+</dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 25-10  PDF Board may determine that a requirement does not apply 
+<dl compact="">
+
+<dt>(1)</dt><dd>The <sup>*</sup>PDF Board may, on the application of a <sup>*</sup>general
+
+partner of a partnership registered as a VCLP or an AFOF, determine that either
+
+or both of the following requirements do not apply to a <sup>*</sup>company:
+
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the requirement referred to under subparagraph 118-425(2)(b)(i) of the
+
+_Income Tax Assessment Act 1997_ that more than 50% of the people who are
+
+currently engaged by the company to perform services must perform those
+
+services primarily in Australia;</dd>
+
+<dt>(b)</dt><dd>the requirement referred to under subparagraph 118-425(2)(b)(ii) of that
+
+Act that more than 50% of its assets (determined by value) must be situated in
+
+Australia.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(2)</dt><dd>The application must be in the <sup>*</sup>form approved by the PDF
+
+Board.</dd> <dt>(3)</dt><dd>In considering whether to make a determination, the <sup>*</sup>PDF Board must apply the principles specified under subsection&#160;(4).</dd> <dt>(4)</dt><dd>The <sup>*</sup>PDF Board may make principles about making determinations under this section.</dd> <dt>(5)</dt><dd>If the <sup>*</sup>PDF Board determines that a requirement does not apply, the PDF Board must notify the <sup>*</sup>general partner as soon as practicable after the determination is made.</dd> <dt>(6)</dt><dd>If the <sup>*</sup>PDF Board refuses to make a determination, the PDF Board must: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>notify the <sup>*</sup>general partner as soon as practicable after the
+
+refusal; and</dd>
+
+<dt>(b)</dt><dd>provide reasons for the refusal.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(7)</dt><dd>Principles made under subsection&#160;(4) are disallowable instruments for
+
+the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+
+</dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 25-15  PDF Board may determine that a requirement does not apply 
+<dl compact="">
+
+<dt>(1)</dt><dd>The <sup>*</sup>PDF Board may, on the application of a <sup>*</sup>general
+
+partner of a partnership registered as a <sup>*</sup>VCLP or an
+
+<sup>*</sup>AFOF, determine that:
+
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a company's primary activity is not an ineligible activity mentioned in
+
+subsection 118-425(13) of the _Income Tax Assessment Act 1997_; and</dd>
+
+<dt>(b)</dt><dd>the company's failure to satisfy at least 2 of the requirements in
+
+subsection 118-425(3) of that Act is temporary and did not exist at the time
+
+the relevant investment in the company was made and, if it has been disposed
+
+of, when it was disposed of.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(2)</dt><dd>The application must be in the <sup>*</sup>form approved by the PDF
+
+Board.</dd> <dt>(3)</dt><dd>In considering whether to make a determination, the <sup>*</sup>PDF Board must apply the principles specified under subsection&#160;(4).</dd> <dt>(4)</dt><dd>The <sup>*</sup>PDF Board may make principles about making determinations under this section.</dd> <dt>(5)</dt><dd>If the <sup>*</sup>PDF Board makes a determination under subsection&#160;(1), the PDF Board must notify the <sup>*</sup>general partner as soon as practicable after the determination is made.</dd> <dt>(6)</dt><dd>If the <sup>*</sup>PDF Board refuses to make a determination, the PDF Board must: </dd> </dl>
+
+Back to Top
+
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>notify the <sup>*</sup>general partner as soon as practicable after the
+
+refusal; and</dd>
+
+<dt>(b)</dt><dd>provide reasons for the refusal.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(7)</dt><dd>Principles made under subsection&#160;(4) are disallowable instruments for
+
+the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+
+</dd> </dl>
+**
+
+###  VENTURE CAPITAL ACT 2002<part>Part&#160;5&#151;Review of decisions </part>
+**
+**
+
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;29&#151;Review of decisions</division> 
+**
+
+
+
+###  VENTURE CAPITAL ACT 2002- SECT 29-1  Decisions reviewed 
+<dl compact="">
+
+		The following decisions of the <sup>*</sup>PDF Board are reviewable under
+
+this Part:
+
+ </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>decisions under subsection 9-10(3) allowing, or refusing to allow, a
+
+longer period for the purposes of paragraph 9-10(1)(b) for repayment of a
+
+<sup>*</sup>permitted loan;</dd>
+
+<dt>(b)</dt><dd>decisions under section&#160;13-1 refusing to register a
+
+<sup>*</sup>limited partnership as a <sup>*</sup>VCLP or an <sup>*</sup>AFOF
+
+under Part&#160;2;</dd>
+
+<dt>(c)</dt><dd>decisions under section&#160;13-5 refusing to register conditionally a
+
+limited partnership as a VCLP or an AFOF;</dd>
+
+<dt>(d)</dt><dd>decisions under section&#160;17-1, 17-5 or 17-10 revoking a registration
+
+under Part&#160;2;</dd>
+
+<dt>(e)</dt><dd>decisions under subsection 17-1(2) determining a period within which
+
+<sup>*</sup>investment registration requirements must be met;</dd>
+
+<dt>(f)</dt><dd>decisions under section&#160;21-5 refusing to register an entity as an
+
+<sup>*</sup>eligible venture capital investor under Part&#160;3;</dd>
+
+<dt>(g)</dt><dd>decisions under section&#160;21-25 revoking a registration under
+
+Part&#160;3;</dd>
+
+<dt>(h)</dt><dd>decisions under section&#160;25-5 determining a shorter period, or
+
+refusing to make such a determination; or</dd>
+
+<dt>(i)</dt><dd>decisions under section&#160;25-10 or 25-15 refusing to make a
+
+determination.
+
+</dd>
+
+</dl></dl>
+###  VENTURE CAPITAL ACT 2002- SECT 29-5  Notification of right to seek internal review 
+<dl compact="">
+
+<dt>(1)</dt><dd>A notice that:
+
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>is given to the <sup>*</sup>person affected by a decision that is
+
+reviewable under this Part; and</dd>
+
+<dt>(b)</dt><dd>advises that person of the decision;
+
+</dd>
+
+</dl></dl>
+*
+<dl compact="">
+
+<dt>(2)</dt><dd>The person affected by the decision is the person who made the relevant
+
+application to the PDF Board.</dd> <dt>(3)</dt><dd>A failure to comply with subsection&#160;(1) in relation to a decision reviewable under this Part  does not affect the validity of the decision. </dd> </dl>
+###  VENTURE CAPITAL ACT 2002- SECT 29-10  Internal review of decisions 
+<dl compact="">
+
+<dt>(1)</dt><dd>If the <sup>*</sup>person affected by a decision that is reviewable under
+
+this Part is dissatisfied with the decision, the person may, by notice in
+
+writing given to the <sup>*</sup>PDF Board, request the PDF Board to reconsider
+
+the decision.</dd> <dt>(2)</dt><dd>The request must not be made more than 21 days, or such longer period as the <sup>*</sup>PDF Board approves, after the person receives from the PDF Board a notice advising of the decision.</dd> <dt>(3)</dt><dd>The request must set out the person's reasons for making it.</dd> <dt>(4)</dt><dd>On receipt of the request, the <sup>*</sup>PDF Board must reconsider the decision and may confirm or revoke it, or vary it in such manner as the PDF Board thinks fit.</dd> <dt>(5)</dt><dd>If the <sup>*</sup>PDF Board does not confirm, vary or revoke the decision before the end of the period of 60 days after the day on which the PDF Board receives the request, the PDF Board is taken, at the end of that period, to have confirmed the decision.</dd> <dt>(6)</dt><dd>As soon as practicable after the <sup>*</sup>PDF Board confirms, varies or revokes the decision, the PDF Board must give the person a written notice that: </dd> </dl>
+
+Back to Top
+
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>advises of the confirmation, variation or revocation of the decision;
+
+and</dd>
+
+<dt>(b)</dt><dd>except in a case to which subsection&#160;(5) applies&#151;advises of the PDF
+
+Board's reasons for confirming, varying or revoking the decision; and</dd>
+
+<dt>(c)</dt><dd>in the case of a confirmation or variation of the decision&#151;advises the
+
+person that the person may apply to the Administrative Appeals Tribunal under
+
+the _Administrative Appeals Tribunal Act 1975_ for review of the decision
+
+as confirmed or varied.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(7)</dt><dd>A failure to comply with subsection&#160;(6) in relation to the
+
+confirmation, variation or revocation of the decision does not affect the
+
+validity of the confirmation, variation or revocation.</dd> <dt>(8)</dt><dd>For the purposes of subsections&#160;(4), (5), (6) and (7) and section&#160;29-15, if the <sup>*</sup>PDF Board revokes a decision and replaces it with another decision: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the PDF Board is taken to vary the first-mentioned decision and not to
+
+revoke it; and</dd>
+
+<dt>(b)</dt><dd>the other decision is taken to be the first-mentioned decision as varied.
+
+</dd>
+
+</dl></dl>
+###  VENTURE CAPITAL ACT 2002- SECT 29-15  Review of decisions by Administrative Appeals Tribunal 
+<dl compact="">
+
+<dt>(1)</dt><dd>Application may be made to the Administrative Appeals Tribunal for a
+
+reviewable decision of the <sup>*</sup>PDF Board that has been confirmed or
+
+varied under section&#160;29-10.</dd> <dt>(2)</dt><dd>An application may only be made by <sup>*</sup>the person affected by the decision. </dd> </dl>
+**
+
+###  VENTURE CAPITAL ACT 2002<part>Part&#160;6&#151;Miscellaneous </part>
+**
+**
+
+###  VENTURE CAPITAL ACT 2002<division>Division&#160;33&#151;Miscellaneous</division> 
+**
+
+form approved by the PDF Board
+
+###  VENTURE CAPITAL ACT 2002- SECT 33-1  Annual report 
+<dl compact="">
+
+<dt>(1)</dt><dd>The <sup>*</sup>PDF Board must, as soon as practicable after the end of
+
+each <sup>*</sup>financial year, prepare and give to the Minister a report of
+
+its operations during that year.</dd> <dt>(2)</dt><dd>The <sup>*</sup>PDF Board must include in the report: </dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a list of the partnerships registered under Part&#160;2 as at the end of
+
+the financial year; and</dd>
+
+<dt>(b)</dt><dd>a list of the <sup>*</sup>partnerships that became registered under that
+
+Part during the <sup>*</sup>financial year; and</dd>
+
+<dt>(c)</dt><dd>a list of the partnerships whose registration under that Part was revoked
+
+during the financial year.
+
+</dd>
+
+</dl></dl>
+<dl compact="">
+
+<dt>(3)</dt><dd>The <sup>*</sup>PDF Board must also include in the report:
+
+</dd> </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a list of the <sup>*</sup>entities registered under Part&#160;3 as at the
+
+end of the <sup>*</sup>financial year; and</dd>
+
+<dt>(b)</dt><dd>a list of the entities that became registered under that Part during the
+
+financial year; and</dd>
+
+<dt>(c)</dt><dd>a list of the entities whose registration under that Part was revoked
+
+during the financial year.
+
+</dd>
+
+</dl></dl>
+###  VENTURE CAPITAL ACT 2002- SECT 33-5  Meaning of _form approved by the PDF Board_ <center>[Back to Top](#top)</center> 
+<dl compact="">
+
+ A notice or application is in the _form approved by the PDF Board_ if:
+
+ </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>it is in the form approved by the <sup>*</sup>PDF Board for that kind of
+
+notice or application; and</dd>
+
+<dt>(b)</dt><dd>it contains a declaration signed by a person or persons as the form
+
+requires; and</dd>
+
+<dt>(c)</dt><dd>it contains the information that the form requires, and any further
+
+information, statement or document as the PDF Board requires, whether in the
+
+form or otherwise; and</dd>
+
+<dt>(d)</dt><dd>it is given in the manner that the PDF Board requires (which may include
+
+electronically).
+
+</dd>
+
+</dl></dl>
+###  VENTURE CAPITAL ACT 2002- SECT 33-10  Regulations 
+<dl compact="">
+
+		The Governor-General may make regulations prescribing matters:
+
+ </dl>
+<dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act.
+
+</dd>
+
+</dl></dl>
+**
+
+###  VENTURE CAPITAL ACT 2002<centreit>Notes to the _Venture Capital Act 2002_ </centreit>
+**
+Note 1
+Venture Capital Act 2002
+
+see
+Table of Acts
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Venture Capital Act 2002_</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>137, 2002</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>19 Dec 2002</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>19 Dec 2002</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Tax Laws Amendment (2004 Measures No.&#160;3) Act 2004_</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>105, 2004</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>30 June 2004</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 2: 1&#160;Apr 2004 
+Remainder: Royal Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (item 19)</div>
+
+  </td>
+</tr>
+Table of Amendments
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 15-1</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 105, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 15-10</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 105, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 21-20</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 105, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 25-15</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 105, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 29-1</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 105, 2004</div>
+
+  </td>
+</tr>
+**
+
+###  Table A 
+**
+Table A
+Application, saving or transitional provisions
+Tax Laws Amendment (2004 Measures No. 3) Act 2004
+Schedule 1
+19  Application
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
