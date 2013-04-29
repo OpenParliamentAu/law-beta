@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00673/Html/3eeaae12-c7f0-40f7-9784-6af5af4d9bab_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00408/Html/9cc5a3d3-2ab9-43a8-b2bf-85523db42517_files/image001.gif)
 
 # Customs Tariff Act 1995
 
 **Act No. 147 of 1995 as amended**
 
-This compilation was prepared on 5 September 2012
- taking into account amendments up to Act No. 85 of 2012
+This compilation was prepared on 23 April 2012
+ taking into account amendments up to Act No. 155 of 2011
 
 **Volume 1** includes:     Table of Contents
          User’s guide
@@ -37,7 +37,7 @@ The operation of amendments that have been incorporated may be
          Table of Acts
          Act Notes
          Table of Amendments
-         Note 2
+         Notes 2 and 3
          Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -98,8 +98,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [18](#18).          Calculation of concessional duty
 
 [19](#19).          Indexation of rates of duty
-
-[19A](#19A).       Changes of rates of duty
 
 [20](#20).          Duty where goods consist of certain containers and certain contents
 
@@ -177,7 +175,7 @@ The organisation of the Act
 
                    Schedule 4 identifies classes of goods to which concessional rates may apply and specifies the concessional rates of duty potentially applicable to such classes.
 
-                   Schedule 5 sets out the rate of duty for US originating goods.
+                   Schedule 5 sets out the rate of duty for US originating goods.
 
                    Schedule 6 sets out the rate of duty for Thai originating goods.
 
@@ -1480,44 +1478,6 @@ are increased by the same amount on and from that day.
              (2)  If, under the provisions of subsection (1), the rate of duty payable on goods is increased on a particular day, that rate is payable on goods entered for home consumption on and from that day.
 
              (3)  If, under the provisions of subsection (1), the rate of duty payable on goods is increased on a particular day, the Chief Executive Officer must, on or as soon as practicable after that day, publish for the information of the public a notice in the _Gazette_ advertising the increased rate and the goods to which that rate is to apply.
-
-##### <a id="19A"></a>19A  Changes of rates of duty
-
-Gasoline for use as fuel in aircraft
-
-             (1)  If, because of section 6FA of the _Excise Tariff Act 1921_, that Act has effect as if on a day a rate (the **_replacement rate_**) were substituted for another rate in subitem 10.6 of the Schedule to that Act, this Act has effect as if on that day the replacement rate were substituted for each rate of duty set out in each of the following:
-
-                     (a)  subheading 2710.12.61 in Schedule 3;
-
-                     (b)  subheading 2710.91.61 in Schedule 3;
-
-                     (c)  subheading 2710.99.61 in Schedule 3;
-
-                     (d)  a table item that is in Schedule 5, 6, 7 or 8 and relates to a subheading described in paragraph (a), (b) or (c).
-
-Kerosene for use as fuel in aircraft
-
-             (2)  If, because of section 6FB of the _Excise Tariff Act 1921_, that Act has effect as if on a day a rate (the **_replacement rate_**) were substituted for another rate in subitem 10.17 of the Schedule to that Act, this Act has effect as if on that day the replacement rate were substituted for each rate of duty set out in each of the following:
-
-                     (a)  subheading 2710.19.40 in Schedule 3;
-
-                     (b)  subheading 2710.91.40 in Schedule 3;
-
-                     (c)  subheading 2710.99.40 in Schedule 3;
-
-                     (d)  a table item that is in Schedule 5, 6, 7 or 8 and relates to a subheading described in paragraph (a), (b) or (c).
-
-Application of replacement rate
-
-             (4)  If, because of subsection (1), or (2), this Act has effect as if the replacement rate were substituted on a day for another rate, the replacement rate applies in relation to:
-
-                     (a)  goods imported into Australia on or after that day; and
-
-                     (b)  goods imported into Australia before that day, where the time for working out the rate of import duty on the goods has not occurred before that day.
-
-Publication of replacement rate
-
-             (5)  If, because of subsection (1), or (2), this Act has effect as if the replacement rate were substituted on a day for another rate, the Chief Executive Officer must, on or as soon as practicable after that day, publish for the information of the public a notice in the _Gazette_ advertising the replacement rate and the goods it applies to.
 
 ##### <a id="20"></a>20  Duty where goods consist of certain containers and certain contents
 
