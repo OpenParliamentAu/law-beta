@@ -1,184 +1,53 @@
-![](http://www.comlaw.gov.au/Details/C2004C00459/Html/70909364-8640-48a1-9930-46ce75579c87_files/image001.gif)
+**<b>
 
-# Cockatoo and Schnapper Islands Act 1949
+### <center><name>COCKATOO AND SCHNAPPER ISLANDS ACT 1949 - Reprinted as at 19 December 1973 (HISTACT CHAP 1965 #DATE 19:12:1973) </name></center>
+</b>** 
+**<b>
 
-**Act No. 30 of 1949 as amended**
+### <name>COCKATOO AND SCHNAPPER ISLANDS ACT 1949-1973 - TABLE OF PROVISIONS </name>
+</b>** 
 
-This compilation was prepared on 23 April 2004
- taking into account amendments up to Act No. 216 of 1973
+## TABLE
+<tables> <tt><lf>                      COCKATOO  AND  SCHNAPPER  ISLANDS  ACT<lf> <lf>                                    1949-1973<lf> <lf>                              TABLE  OF  PROVISIONS<lf> Section<lf>   1\.        Short title<lf>   2\.        Commencement<lf>   3\.        (Repealed)<lf>   4\.        Definitions<lf>   5\.        Title to Cockatoo Island, &c.<lf>   6\.        Powers of Minister </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+### <name>COCKATOO AND SCHNAPPER ISLANDS ACT 1949-1973 - SECT. 1\. Short title. </name>
+</b>** 
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+## SECT
+<sect>                COCKATOO  AND  SCHNAPPER  ISLANDS  ACT  1949-1973<lf> Title amended by No. 216, 1973, s. 3\. An Act to provide for the Control and Management of Cockatoo Island and Schnapper Island.<lf> Short title amended; No. 32, 1918, s. 2.<lf>   1\. This Act may be cited as the Cockatoo and Schnapper Islands Act 1949-1973.* <lf> </lf></lf></lf></lf></sect>
+**<b>
 
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+### <name>COCKATOO AND SCHNAPPER ISLANDS ACT 1949-1973 - SECT. 2\. Commencement. </name>
+</b>** 
 
-# Contents
+## SECT
+<sect>   2\. This Act shall come into operation on a date to be fixed by Proclamation.* <lf> Section 3 repealed by No. 216, 1973, s. 3.<lf>                          *   *   *   *   *   *   *   *<lf> </lf></lf></lf></sect>
+**<b>
 
-[1](#1).            Short title [_see_ Note 1]
+### <name>COCKATOO AND SCHNAPPER ISLANDS ACT 1949-1973 - SECT. 4\. Definitions. </name>
+</b>** 
 
-[2](#2).            Commencement [_see_ Note 1]
+## SECT
+<sect>   4\. In this Act, unless the contrary intention appears-<lf> <lf>   ''Cockatoo Island'' means the island situated in the Harbour of Port Jackson in the State of New South Wales and known as Cockatoo Island;<lf> <lf>   ''Schnapper Island'' means the island situated in the Harbour of Port Jackson in the State of New South Wales and known as Schnapper Island;<lf> <lf>   ''the Australian Commonwealth Shipping Board'' means the Australian Commonwealth Shipping Board constituted under the Commonwealth Shipping Act 1923.<lf> </lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-[4](#4).            Interpretation
+### <name>COCKATOO AND SCHNAPPER ISLANDS ACT 1949-1973 - SECT. 5\. Title to Cockatoo Island, &c. </name>
+</b>** 
 
-[5](#5).            Title to Cockatoo Island, etc 
+## SECT
+<sect>   5\. (1) All right, title and interest of the Australian Commonwealth Shipping Board in and to Cockatoo Island and Schnapper Island are, by force of this Act, transferred to and vested in the Commonwealth.<lf> Amended by No. 216, 1973, s. 3\. 
 
-[6](#6).            Powers of Minister
+  (2) All rights, property, assets, obligations and liabilities of the Australian Commonwealth Shipping Board (including all right, title and interest of that Board in and to all improvements, buildings, structures, erections, dockyards, machinery, tools, plant, craft, furniture and fittings on Cockatoo Island or Schnapper Island) shall, by force of this Act, be vested in or imposed on the Commonwealth, and, in any contract, agreement or other instrument to which the Australian Commonwealth Shipping Board is a party, any reference to that Board shall be read as a reference to the Commonwealth.<lf> </lf>
+</lf></sect>
+**<b>
 
-**Notes** 
+### <name>COCKATOO AND SCHNAPPER ISLANDS ACT 1949-1973 - SECT. 6\. Powers of Minister. </name>
+</b>** 
 
-## An Act to provide for the Control and Management of Cockatoo Island and Schnapper Island.
+## SECT
+<sect>   6\. The Minister shall have power, subject to any lease of Cockatoo Island or Schnapper Island, to control and manage those Islands and the works and establishments on those Islands.<lf> ------------------------------------------------------------------------------ -- <lf> </lf></lf></sect>
+**<b>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
-
-                   This Act may be cited as the _Cockatoo and Schnapper Islands Act 1949_.
-
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
-
-                   This Act shall come into operation on a date to be fixed by Proclamation.
-
-##### <a id="4"></a>4  Interpretation
-
-                   In this Act, unless the contrary intention appears:
-
-                    <a name="cockatoo-island"></a>**_Cockatoo Island_** means the island situated in the Harbour of Port Jackson in the State of New South Wales and known as Cockatoo Island.
-
-                    <a name="schnapper-island"></a>**_Schnapper Island_** means the island situated in the Harbour of Port Jackson in the State of New South Wales and known as Schnapper Island.
-
-                    <a name="australian-commonwealth-ship-board"></a>**_the Australian Commonwealth Shipping Board_** means the Australian Commonwealth Shipping Board constituted under the _Commonwealth Shipping Act 1923_.
-
-##### <a id="5"></a>5  Title to Cockatoo Island, etc.
-
-             (1)  All right, title and interest of the Australian Commonwealth Shipping Board in and to Cockatoo Island and Schnapper Island are, by force of this Act, transferred to and vested in the Commonwealth.
-
-             (2)  All rights, property, assets, obligations and liabilities of the Australian Commonwealth Shipping Board (including all right, title and interest of that Board in and to all improvements, buildings, structures, erections, dockyards, machinery, tools, plant, craft, furniture and fittings on Cockatoo Island or Schnapper Island) shall, by force of this Act, be vested in or imposed on the Commonwealth, and, in any contract, agreement or other instrument to which the Australian Commonwealth Shipping Board is a party, any reference to that Board shall be read as a reference to the Commonwealth.
-
-##### <a id="6"></a>6  Powers of Minister
-
-                   The Minister shall have power, subject to any lease of Cockatoo Island or Schnapper Island, to control and manage those Islands and the works and establishments on those Islands.
-
-# Notes to the _Cockatoo and Schnapper Islands Act 1949_
-
-### Note 1
-
-The _Cockatoo and Schnapper Islands Act 1949_ as shown in this compilation comprises Act No. 30, 1949 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Cockatoo and Schnapper Islands Act 1949</div>
-  </td>
-  <td>
-    <div>30, 1949</div>
-  </td>
-  <td>
-    <div>12 July 1949</div>
-  </td>
-  <td>
-    <div>4 Sept 1950 ( <i>see Gazette</i>1950, p. 2227)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr></table>
-
- 
+### <name>COCKATOO AND SCHNAPPER ISLANDS ACT 1949-1973 - NOTE </name>
+</b>** <lf>                                       NOTE<lf> 1\.  The Cockatoo and Schnapper Islands Act 1949-1973 comprises the Cockatoo and Schnapper Islands Act 1949 as amended by the other Act specified in the following table:<lf> ---------------------------------------------------------------------------- <lf> <lf>                                 Number                       Date of<lf>     Act                         and year        Date of<lf>                                                 Assent       commencement<lf> ---------------------------------------------------------------------------- <lf> <lf>     Cockatoo and Schnapper<lf>     Islands Act 1949            No. 30, 1949    12 July 1949 4 Sept 1950 (see<lf>                                                              Gazette 1950, p.<lf>                                                              2227)<lf>     Statute Law Revision Act<lf>     1973                        No. 216, 1973   19 Dec 1973  31 Dec 1973<lf> ---------------------------------------------------------------------------- <lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
