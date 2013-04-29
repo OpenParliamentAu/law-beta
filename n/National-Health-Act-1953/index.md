@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00638/Html/f98ac48b-b6ef-47c3-af65-ef291e311cbf_files/image001.gif)
 
 # National Health Act 1953
 
 **Act No. 95 of 1953 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 3 August 2011
  taking into account amendments up to Act No. 86 of 2011
 
 [**Note:** Subsections 90(3A), (3AA), (3AB), (3AC), (3AD), (3AE), (3AF) 
@@ -172,7 +172,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [86A](#86A).       Pharmaceutical benefits not to be supplied in respect of persons reasonably believed not to be in Australia
 
-[86B](#86B).       Approved supplier may request provision of medicare number
+[86B](#86B).       Approved supplier may request provision of medicare 
+ number
 
 [86C](#86C).       On and after 1 January 2001 approved supplier must request provision of medicare number in certain circumstances
 
@@ -468,8 +469,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [99ZL](#99ZL).     Examination and inspection powers
 
-[99ZM](#99ZM).    Customs may detain some drug like substances and not 
- others
+[99ZM](#99ZM).    Customs may detain some drug like substances and not others
 
 [99ZN](#99ZN).     Customs treatment of detained substances and retained documents
 
@@ -656,7 +656,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="de-facto-partner"></a>**_de facto partner_** of a person means:
 
-                     (a)  another person (whether of the same sex or a different sex) with whom the person has a relationship that is registered under a law of a State or Territory prescribed for the purposes of section 2E of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section; or
+                     (a)  another person (whether of the same sex or a different sex) with whom the person has a relationship that is registered under a law of a State or Territory prescribed for the purposes of section 22B of the _Acts Interpretation Act 1901_ as a kind of relationship prescribed for the purposes of that section; or
 
                      (b)  another person (whether of the same sex or a different sex) who is living with the person on a genuine domestic basis although not legally married to the person.
 
@@ -760,7 +760,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act extends to the Territory of Cocos (Keeling) Islands and to the Territory of Christmas Island.
 
-##### <a id="7A"></a>7A  Application of the _Criminal Code_
+##### <a id="7A"></a>7A  Application of the _Criminal Code_
 
                    Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences against this Act.
 
@@ -4619,7 +4619,7 @@ then the reduction referred to in subsection (5) is to be adjusted so that the
 
 then the reduction referred to in subsection (5) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00638/Html/f98ac48b-b6ef-47c3-af65-ef291e311cbf_files/image002.gif)
 
 Apportioning if quantities different
 
@@ -4729,7 +4729,7 @@ then the reduction referred to in subsection (3) or (4) is to be adjusted so t
 
 then the reduction referred to in subsection (3) or (4) is to be adjusted so that the percentage worked out as follows is taken into account in relation to the component:
 
-![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00638/Html/f98ac48b-b6ef-47c3-af65-ef291e311cbf_files/image002.gif)
 
 Section does not limit Minister’s powers
 
@@ -5634,7 +5634,7 @@ Claimed price reduction
 
 then, for the purposes of that determination, on the reduction day the claimed price for the brand of the pharmaceutical item is taken to be reduced by the percentage worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00638/Html/f98ac48b-b6ef-47c3-af65-ef291e311cbf_files/image003.gif)
 
 where:
 
@@ -6132,11 +6132,23 @@ for a brand of a pharmaceutical item that has an approved price to pharmacists t
 
                      (a)  during a vacancy in the office of Chairperson; or
 
-                     (b)  during any period, or during all periods, when the Chairperson is unavailable to perform the duties of Chairperson.
+                     (b)  during any period, or during all periods, when the Chairperson is unavailable to perform the duties of Chairperson;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed so to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  A person acting in the place of the Chairperson has all the powers, and shall perform all the functions and duties, conferred or imposed by this Act on the Chairperson.
 
              (4)  Where the Tribunal as constituted for the purpose of a proceeding includes a person acting or purporting to be appointed under this section, or a person so acting or purporting to be appointed has done any act, the validity of any decision of, or of any direction given or other act done by, the Tribunal as so constituted, or of the act done by the person so acting or purporting to be appointed, shall not be called in question in any proceeding on the ground that the occasion for the person to act or for the appointment of the person had not arisen or that the occasion for the person’s appointment had passed or the person’s appointment had ceased to have effect.
+
+             (5)  A person who is appointed under this section may resign that appointment by writing signed by the person delivered to the Governor‑General.
+
+             (6)  The Governor‑General may:
+
+                     (a)  subject to this Division, determine the terms and conditions (including terms and conditions relating to remuneration and allowances) of appointment of a person appointed under this section; and
+
+                     (b)  at any time terminate such an appointment.
 
              (7)  Where, by virtue of an appointment under subsection (1), a person is acting as Chairperson during the unavailability of the Chairperson, the Governor‑General may, by reason of the pending consideration of a matter by the Tribunal or other special circumstances, direct that the person so acting shall continue so to act until otherwise directed by the Governor‑General notwithstanding that the Chairperson has ceased to be unavailable.
 
@@ -6152,11 +6164,23 @@ Note:          For rules that apply to acting appointments, se
 
                      (a)  during a vacancy in an office of an additional member; or
 
-                     (b)  during any period, or during all periods, when an additional member is unavailable to perform his or her duties.
+                     (b)  during any period, or during all periods, when an additional member is unavailable to perform his or her duties;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed so to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  A person acting in the place of an additional member has all the powers, and shall perform all the functions and duties, conferred or imposed by this Act on an additional member.
 
              (4)  Where the Tribunal as constituted for the purpose of a proceeding includes a person acting or purporting to be appointed under this section, or a person so acting or purporting to be appointed has done any act, the validity of any decision of, or of any direction given or other act done by, the Tribunal as so constituted, or of the act done by the person so acting or purporting to be appointed, shall not be called in question in any proceeding on the ground that the occasion for the person to act or for the appointment of the person had not arisen or that the occasion for the person’s appointment had passed or the person’s appointment had ceased to have effect.
+
+             (5)  A person who is appointed under this section may resign that appointment by writing signed by the person delivered to the Minister.
+
+             (6)  The Minister may:
+
+                     (a)  subject to this Division, determine the terms and conditions (including terms and conditions relating to remuneration and allowances) of appointment of a person appointed under this section; and
+
+                     (b)  at any time terminate such an appointment. 
 
 ### Division 4A—Indexation
 
@@ -6282,7 +6306,7 @@ Note:          The Department can tell you what the current in
 
              (3)  Subject to this section, the indexed amount for an amount to be indexed is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00638/Html/f98ac48b-b6ef-47c3-af65-ef291e311cbf_files/image004.gif)
 
 where:
 
@@ -6296,7 +6320,7 @@ where:
 
              (4)  Subject to subsections (5) and (6), the indexation factor for an amount to be indexed on an indexation day is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00638/Html/f98ac48b-b6ef-47c3-af65-ef291e311cbf_files/image005.gif)
 
 where:
 
@@ -6354,7 +6378,7 @@ where:
 
 ##### <a id="99M"></a>99M  Powers
 
-                   The Authority has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions. 
+                   The Authority has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions. 
 
 ##### <a id="99N"></a>99N  Membership
 
@@ -7086,7 +7110,7 @@ the Chief Executive Medicare is not required to return or reconsign the substanc
 
                      (d)  if the substances would, but for their detention, have been carried or sent by the exporter to a place outside Australia and the exporter continues to require that the substances are sent to that place—of sending the substances to that place.
 
-##### <a id="99ZS"></a>99ZS  Guidelines for detention of, dealing with, and disposal of, substances
+##### <a id="99ZS"></a>99ZS  Guidelines for detention of, dealing with, and disposal of, substances
 
              (1)  The CEO of Customs may, by notice in writing, issue guidelines for the performance of functions and duties, and for the exercise of powers, by Customs officers, in relation to matters arising under this Division including, in particular, matters relating to:
 
@@ -7410,7 +7434,7 @@ Procedure
 
        (4AC)  For the purposes of subsection (4AA), the designated quantity of a pharmaceutical benefit or pharmaceutical item is the quantity of that pharmaceutical benefit or pharmaceutical item worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00286/Html/fa5ba43b-f420-4b92-b727-d65f0eba5a00_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00638/Html/f98ac48b-b6ef-47c3-af65-ef291e311cbf_files/image006.gif)
 
 where:
 
@@ -8570,11 +8594,11 @@ The _National Health Act 1953_ was modified by the National Health Regulations (
 
 <table>
 <colgroup>
-  <col width="30%">
-  <col width="15%">
+  <col width="31%">
+  <col width="16%">
   <col width="17%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -10545,7 +10569,7 @@ S. 41(4): 1 Mar 1989 ( <i>see</i>s. 2(8) and <i>Gazette</i>1989, No. S54)
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Ss. 27(3)–(7) and 37</div>
+    <div>Ss. 27(3)‑ (7) and 37</div>
   </td>
 </tr>
 <tr>
@@ -13411,7 +13435,7 @@ Schedule 4 (item 654): \[ <i>see</i> <i>(zzzh)</i>and Note 4]</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 798–806) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 798–806) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 5 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -13529,7 +13553,8 @@ _(r)_     The _National Health Act 1953_ was amended by sections 57–
 
 _(s)_     The _Health Legislation Amendment Act (No. 2) 1986_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(16) of which provides as follows: 
 
-               (16)   The amendments of section 46 of, and Schedules 1 and 2 to, the _Health Legislation Amendment Act (No. 2) 1986_ made by this Act shall be respectively deemed to have come into operation on the commencement of sections 46 and 37 of the first‑mentioned Act. 
+               (16)   The amendments of section 46 of, and Schedules 1 and 2 to, the _Health Legislation Amendment Act (No. 2) 1986_ made by this Act shall be respectively deemed to have come into operation on the commencement of sections 46 and 37 of the 
+ first‑mentioned Act. 
 
 _(t)_      The _National Health Act 1953_ was amended by sections 6–23 only of the _Nursing Homes and Hostels Legislation Amendment Act 1986_, subsections 2(4) and (5) of which provide as follows: 
 
@@ -14440,7 +14465,7 @@ _(zzzh)_   Subsection 2(1) (item 7) of the _Human Services Legislation Ame
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 68, 1955; No. 92, 1957; No. 82, 1962; No. 37, 1964; No. 100, 1965; No. 44, 1966; No. 14, 1967; No. 100, 1968; No. 41, 1970; No. 114, 1972; No. 202, 1973; No. 1, 1975; No. 60, 1976 (as am. by No. 91, 1976); Nos. 91, 99 and 108, 1976; No. 100, 1977; No. 132, 1978; Nos. 54 and 122, 1979; No. 131, 1980; Nos. 118 and 176, 1981; Nos. 49, 80 and 112, 1982; Nos. 54 and 139, 1983; Nos. 63 and 135, 1984; Nos. 65, 70 and 127, 1985; Nos. 28, 75, 94 and 115, 1986; Nos. 22, 44, 72 and 131, 1987; No. 79, 1988; Nos. 95 and 164, 1989; No. 3, 1990; Nos. 6, 68, 70, 73, 83, 116, 141, 175 and 211, 1991; Nos. 81, 88 and 136, 1992; No. 192, 1992 (as am. by No. 12, 1994); Nos. 204 and 230, 1992; Nos. 12, 116, 164, 174 and 184, 1994; Nos. 41, 105 and 149, 1995; Nos. 1, 79 and 84, 1996; Nos. 114 and 197, 1997; No. 45, 1998; Nos. 44, 118, 146, 130 and 159, 1999; No. 72, 2000; Nos. 6 and 80, 2001; No. 69, 2003; Nos. 52 and 117, 2004; Nos. 31, 111, 140 and 155, 2005; No. 136, 2006; Nos. 8, 32, 111 and 169, 2007; No. 144, 2008; No. 29, 2010; Nos. 5, 32, 46 and 86, 2011</div>
+    <div>am. No. 68, 1955; No. 92, 1957; No. 82, 1962; No. 37, 1964; No. 100, 1965; No. 44, 1966; No. 14, 1967; No. 100, 1968; No. 41, 1970; No. 114, 1972; No. 202, 1973; No. 1, 1975; No. 60, 1976 (as am. by No. 91, 1976); Nos. 91, 99 and 108, 1976; No. 100, 1977; No. 132, 1978; Nos. 54 and 122, 1979; No. 131, 1980; Nos. 118 and 176, 1981; Nos. 49, 80 and 112, 1982; Nos. 54 and 139, 1983; Nos. 63 and 135, 1984; Nos. 65, 70 and 127, 1985; Nos. 28, 75, 94 and 115, 1986; Nos. 22, 44, 72 and 131, 1987; No. 79, 1988; Nos. 95 and 164, 1989; No. 3, 1990; Nos. 6, 68, 70, 73, 83, 116, 141, 175 and 211, 1991; Nos. 81, 88 and 136, 1992; No. 192, 1992 (as am. by No. 12, 1994); Nos. 204 and 230, 1992; Nos. 12, 116, 164, 174 and 184, 1994; Nos. 41, 105 and 149, 1995; Nos. 1, 79 and 84, 1996; Nos. 114 and 197, 1997; No. 45, 1998; Nos. 44, 118, 146, 130 and 159, 1999; No. 72, 2000; Nos. 6 and 80, 2001; No. 69, 2003; Nos. 52 and 117, 2004; Nos. 31, 111, 140 and 155, 2005; No. 136, 2006; Nos. 8, 32, 111 and 169, 2007; No. 144, 2008; No. 29, 2010; Nos. 5, 32 and 86, 2011</div>
   </td>
 </tr>
 <tr>
@@ -30076,15 +30101,7 @@ rs. No. 40, 1981</div>
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 88, 1992; No. 54, 2009; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 99D(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. Nos. 75 and 94, 1986; No. 87, 1988; No. 88, 1992; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -30108,15 +30125,7 @@ rs. No. 40, 1981</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 94, 1986; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 99E(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 94, 1986</div>
   </td>
 </tr>
 <tr>
@@ -32651,7 +32660,7 @@ Repeal the paragraph, substitute:
 
                              (ii)  a supply of a pharmaceutical benefit to which subsection 98AC(1) applies.
 
-## 5  Subparagraph 135AA(2)(a)(i)
+## 5  Subparagraph 135AA(2)(a)(i)
 
 After “made”, insert “, or who provided the pharmaceutical benefit”.
 
@@ -32675,7 +32684,7 @@ of the pharmaceutical entitlements number applicable to the person to whom each 
 
                      (d)  as a person included within a class identified by the Minister in a determination under subsection 86E(1).
 
-As at 27 December 2011 the amendments are not incorporated in this compilation.
+As at 3 August 2011 the amendments are not incorporated in this compilation.
 
 ### Note 4
 
@@ -32689,7 +32698,57 @@ The following amendment commences immediately after 1 April 2012:
 
 Omit “Medicare Australia CEO”, substitute “Chief Executive Medicare”.
 
-As at 27 December 2011 the amendment is not incorporated in this compilation.
+As at 3 August 2011 the amendment is not incorporated in this compilation.
+
+### Note 5
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 798  Subsection 4(1) (paragraph (a) of the definition of _de facto partner_)
+
+Omit “section 22B”, substitute “section 2E”.
+
+## 799  Paragraph 99D(1)(b)
+
+Omit “Chairperson;”, substitute “Chairperson.”.
+
+## 800  Subsection 99D(1)
+
+Omit “but a person appointed so to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 801  At the end of subsection 99D(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 802  Subsections 99D(2), (3), (5) and (6)
+
+Repeal the subsections.
+
+## 803  Paragraph 99E(1)(b)
+
+Omit “duties;”, substitute “duties.”.
+
+## 804  Subsection 99E(1)
+
+Omit “but a person appointed so to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 805  At the end of subsection 99E(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 806  Subsections 99E(2), (3), (5) and (6)
+
+Repeal the subsections.
+
+As at 3 August 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -32893,8 +32952,7 @@ The amendments made by items 42 and 43 apply only for the purpose of working o
 
 * * *
 
-_National Health Amendment (Lifetime Health Cover) Act 1999 
- (No. 130, 1999)_
+_National Health Amendment (Lifetime Health Cover) Act 1999 (No. 130, 1999)_
 
 ## <a id="4"></a>4  Review of operation of Act
 
@@ -32978,7 +33036,7 @@ the Minister must refer the report to the Council and the Council must deal with
 
 Any delegation in force under section 82X of the _National Health Act 1953_ immediately before the commencement of Part 1 of this Schedule has effect, on and after that commencement, as if it were a delegation in force under that section as renumbered.
 
-## 45  Transitional provision
+## 45  Transitional provision
 
 Any proceedings commenced but not completed under section 82Y of the _National Health Act 1953_ as in force before the commencement of Part 1 of this Schedule have effect, on and after that commencement, as if they were proceedings that had been commenced under that section as renumbered.
 
@@ -33044,8 +33102,7 @@ The Governor‑General may make regulations dealing with matters of a transition
 
 * * *
 
-_Health Legislation Amendment (Gap Cover Schemes) Act 2000 
- (No. 72, 2000)_
+_Health Legislation Amendment (Gap Cover Schemes) Act 2000 (No. 72, 2000)_
 
 ## <a id="4"></a>4  Review of operation of Act
 
@@ -33087,7 +33144,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre‑commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -33185,7 +33242,8 @@ _National Health Amendment (Private Health Insurance Levies) Act 2003
 
 * * *
 
-_Health Legislation Amendment (Private Health Insurance Reform) Act 2004 (No. 1, 2004)_
+_Health Legislation Amendment (Private Health Insurance Reform) Act 2004
+ (No. 1, 2004)_
 
 ## Schedule 1
 
@@ -33359,8 +33417,7 @@ _National Health Amendment (Prostheses) Act 2005 (No. 31, 2005)_
 
 * * *
 
-_National Health Amendment (Immunisation Program) Act 2005 
- (No. 140, 2005)_
+_National Health Amendment (Immunisation Program) Act 2005 (No. 140, 2005)_
 
 ## Schedule 1
 
@@ -33394,8 +33451,7 @@ The amendments of section 90 of the _National Health Act 1953_ made by this Pa
 
 * * *
 
-_Australian Participants in British Nuclear Tests (Treatment) (Consequential Amendments and Transitional Provisions) Act 2006 
- (No. 136, 2006)_
+_Australian Participants in British Nuclear Tests (Treatment) (Consequential Amendments and Transitional Provisions) Act 2006 (No. 136, 2006)_
 
 ## Schedule 2
 
@@ -33654,6 +33710,8 @@ is in force immediately before commencement, then, on and after commencement, th
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
