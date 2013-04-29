@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00297/Html/11202e8d-a353-4868-82fe-a0640f6970a3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00320/Html/AusCapTerPlaLanManAct1988_WD02_image001.gif)
 
 # Australian Capital Territory (Planning and Land Management) Act 1988
 
 **Act No. 108 of 1988 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 13 May 2007
+ taking into account amendments up to Act No. 59 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,9 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
+
+ 
 
 # Contents
 
@@ -68,7 +70,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          Action on referral by Minister
 
-[20A](#20A).       Objections to re‑submitted draft Plan
+[20A](#20A).       Objections to re-submitted draft Plan
 
 [21](#21).          Publication and commencement of approved Plan
 
@@ -214,7 +216,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [79](#79).          Publication and commencement of approved variation
 
-    **Division 6—Plan of lay‑out of the City of Canberra**
+    **Division 6—Plan of lay-out of the City of Canberra**
 
 [80](#80).          Modification of section 12A of _Seat of Government (Administration) Act 1910_
 
@@ -240,7 +242,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Australian Capital Territory__(Planning and Land Management) Act 1988_. 
+                   This Act may be cited as the _Australian   Capital Territory__(Planning and Land Management) Act 1988_. 
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -262,7 +264,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="assembli"></a>**_Assembly_** means the Legislative Assembly for the Australian Capital Territory established by the Self‑Government Act.
+                    <a name="assembli"></a>**_Assembly_** means the Legislative Assembly for the Australian Capital Territory established by the Self-Government Act.
 
                     <a name="author"></a>**_Authority_** means the National Capital Authority established by this Act.
 
@@ -270,11 +272,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means:
 
-                     (a)  a body, whether corporate or not, established by or under a law of the Commonwealth other than the Self‑Government Act;
+                     (a)  a body, whether corporate or not, established by or under a law of the Commonwealth other than the Self-Government Act;
 
                      (b)  any other body, whether corporate or not, established by the Commonwealth;
 
-                     (c)  an office established by, or appointment made under, a law of the Commonwealth other than the Self‑Government Act; or
+                     (c)  an office established by, or appointment made under, a law of the Commonwealth other than the Self-Government Act; or
 
                      (d)  an appointment made by the Commonwealth.
 
@@ -284,15 +286,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Note:          Canberra Airport is not a Designated Area: see section 112A of the _Airports Act 1996_.
 
-                    <a name="enact"></a>**_enactment_** has the same meaning as in the Self‑Government Act.
+                    <a name="enact"></a>**_enactment_** has the same meaning as in the Self-Government Act.
 
-                    <a name="execut"></a>**_Executive_** has the same meaning as in the Self‑Government Act.
+                    <a name="execut"></a>**_Executive_** has the same meaning as in the Self-Government Act.
 
-                    <a name="full-time-member"></a>**_full‑time member_** means:
+                    <a name="full-time-member"></a>**_full-time member_** means:
 
-                     (a)  if there is a full‑time Chairperson—the Chairperson; or
+                     (a)  if there is a full-time Chairperson—the Chairperson; or
 
-                     (b)  if there is a part‑time Chairperson—the Chief Executive.
+                     (b)  if there is a part-time Chairperson—the Chief Executive.
 
                     <a name="land-acquisit-act"></a>**_Lands Acquisition Act_** means the Act for the time being in force relating to the acquisition of land by the Commonwealth and associated matters.
 
@@ -304,15 +306,15 @@ Note:          Canberra Airport is not a Designated Area: see 
 
                     <a name="member"></a>**_member_** means a member of the Authority.
 
-                    <a name="land"></a><a name="nation"></a>**_National_****_Land_** has the meaning given by section 27.
+                    <a name="land"></a><a name=""></a><a name="nation"></a>**_National_****_Land_** has the meaning given by section 27.
 
                     <a name="plan"></a>**_Plan_** means the National Capital Plan prepared by the Authority under Part III.
 
-                    <a name="self-govern-act"></a>**_Self‑Government Act_** means the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                    <a name="self-govern-act"></a>**_Self-Government Act_** means the _Australian   Capital Territory__(Self-Government) Act 1988_.
 
-                    <a name="self-govern-dai"></a>**_Self‑Government Day_** means the day on which the Assembly becomes empowered to make laws.
+                    <a name="self-govern-dai"></a>**_Self-Government Day_** means the day on which the Assembly becomes empowered to make laws.
 
-                    <a name="territori"></a>**_Territory_** has the same meaning as in the Self‑Government Act.
+                    <a name="territori"></a>**_Territory_** has the same meaning as in the Self-Government Act.
 
                     <a name="territori-author"></a>**_Territory authority_** means:
 
@@ -322,7 +324,7 @@ Note:          Canberra Airport is not a Designated Area: see 
 
                      (c)  an office established by, or appointment made under, an enactment; or
 
-                     (d)  an appointment made by the Executive or by a Minister as defined by the Self‑Government Act.
+                     (d)  an appointment made by the Executive or by a Minister as defined by the Self-Government Act.
 
                     <a name="territori-gazett"></a>**_Territory Gazette_** means the _Australian Capital Territory Gazette_.
 
@@ -330,7 +332,7 @@ Note:          Canberra Airport is not a Designated Area: see 
 
                     <a name="territori-plan-author"></a>**_Territory planning authority_** means the authority referred to in section 25.
 
-                    <a name="land"></a><a name="territori"></a>**_Territory_****_Land_** has the meaning given by section 28.
+                    <a name="land"></a><a name=""></a><a name="territori"></a>**_Territory_****_Land_** has the meaning given by section 28.
 
                     <a name="work"></a>**_works_** includes:
 
@@ -338,7 +340,7 @@ Note:          Canberra Airport is not a Designated Area: see 
 
                      (b)  landscaping;
 
-                     (c)  tree‑felling; or
+                     (c)  tree-felling; or
 
                      (d)  excavations;
 
@@ -512,13 +514,13 @@ the Authority may apply to the Minister to certify the draft Plan under this sec
 
                      (d)  if it thinks fit, alter the draft Plan; and
 
-                     (e)  re‑submit the draft Plan to the Minister for approval;
+                     (e)  re-submit the draft Plan to the Minister for approval;
 
 and subsection 19(1) and, if necessary, this section, apply again.
 
-##### <a id="20A"></a>20A  Objections to re‑submitted draft Plan
+##### <a id="20A"></a>20A  Objections to re-submitted draft Plan
 
-             (1)  If the Territory planning authority continues to object to any aspect of the draft Plan re‑submitted to the Minister, the Authority must attach to the draft Plan a statement of its reasons for not accommodating the objection.
+             (1)  If the Territory planning authority continues to object to any aspect of the draft Plan re-submitted to the Minister, the Authority must attach to the draft Plan a statement of its reasons for not accommodating the objection.
 
              (2)  If the Minister receives a statement from the Authority under subsection (1), the Minister, after consultation with the Executive, must give a written direction to the Authority:
 
@@ -552,7 +554,7 @@ and subsection 19(1) and, if necessary, this section, apply again.
 
                              (ii)  the motion has been called on, moved and seconded and has not been withdrawn or otherwise disposed of;
 
-the Plan shall, for the purposes of subsection (2), be taken to have been laid before the first‑mentioned House on the first sitting day of that House after the dissolution, expiry or prorogation, as the case may be.
+the Plan shall, for the purposes of subsection (2), be taken to have been laid before the first-mentioned House on the first sitting day of that House after the dissolution, expiry or prorogation, as the case may be.
 
              (4)  If:
 
@@ -618,17 +620,17 @@ the disallowance revives the earlier part from the date of the disallowance as i
 
 ## Part V—Land management
 
-##### <a id="27"></a>27  National Land
+##### <a id="27"></a>27  National  Land
 
              (1)  The Minister may, by notice published in the _Commonwealth Gazette_ declare specified areas of land in the Territory to be National Land.
 
              (2)  The Minister shall not declare an area to be National Land unless the land is, or is intended to be, used by or on behalf of the Commonwealth.
 
-             (3)  If an Act vests the management (however described) of specified land in the Territory in a person or body, the land is National Land for the purposes of this Act.
+             (3)  If an Act vests the management (however described) of specified land in the Territory in a person or body, the land is National  Land for the purposes of this Act.
 
              (4)  Subsection (3) does not apply to the vesting of an estate in land.
 
-##### <a id="28"></a>28  Territory Land
+##### <a id="28"></a>28  Territory  Land
 
                    At any time when any land in the Territory is not National Land, that land is Territory Land for the purposes of this Act.
 
@@ -646,7 +648,7 @@ the disallowance revives the earlier part from the date of the disallowance as i
 
                      (b)  that appropriate classes of decisions relating to the administration of estates in Territory Land shall be subject to just and timely review without unnecessary formality.
 
-             (3)  The term of an estate in Territory Land granted on or after Self‑Government Day shall not exceed 99 years or such longer period as is prescribed, but the estate may be renewed.
+             (3)  The term of an estate in Territory Land granted on or after Self-Government Day shall not exceed 99 years or such longer period as is prescribed, but the estate may be renewed.
 
              (4)  The Authority may intervene in any proceedings for review of a decision relating to the administration of an estate in Territory Land.
 
@@ -678,7 +680,7 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
                      (e)  when the land became National Land, that interest was acquired by the Commonwealth.
 
-             (3)  Subsection (2) applies only to Territory Land that becomes National Land at any time after the first declaration of National Land.
+             (3)  Subsection (2) applies only to Territory  Land that becomes National Land at any time after the first declaration of National  Land.
 
 ##### <a id="31A"></a>31A  Minerals in Territory Land
 
@@ -686,7 +688,7 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
                     <a name="miner"></a>**_mineral_** means a naturally occurring substance or mixture of substances, whether in a solid, liquid or gaseous state.
 
-             (2)  So long as any land in the Territory is Territory Land, all rights of the Commonwealth in relation to minerals in that land are vested in the Territory.
+             (2)  So long as any land in the Territory is Territory  Land, all rights of the Commonwealth in relation to minerals in that land are vested in the Territory.
 
 ##### <a id="32"></a>32  Application of Lands Acquisition Act to Territory Land
 
@@ -706,17 +708,17 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
              (1)  The Authority shall consist of a Chairperson and 4 other members, as provided by this section.
 
-             (2)  The Chairperson may be appointed on a full‑time or part‑time basis.
+             (2)  The Chairperson may be appointed on a full-time or part-time basis.
 
-             (3)  If the Chairperson is appointed on a full‑time basis, the Chairperson shall also be the Chief Executive and there shall be 4 non‑executive members.
+             (3)  If the Chairperson is appointed on a full-time basis, the Chairperson shall also be the Chief Executive and there shall be 4 non-executive members.
 
-             (4)  If the Chairperson is appointed on a part‑time basis, there shall be a separate Chief Executive and 3 other non‑executive members.
+             (4)  If the Chairperson is appointed on a part-time basis, there shall be a separate Chief Executive and 3 other non-executive members.
 
-             (5)  The Chief Executive (if any) appointed under subsection (4) shall be appointed on a full‑time basis.
+             (5)  The Chief Executive (if any) appointed under subsection (4) shall be appointed on a full-time basis.
 
-             (6)  The non‑executive members shall be appointed on a part‑time basis.
+             (6)  The non-executive members shall be appointed on a part-time basis.
 
-             (7)  The members shall be appointed by the Governor‑General, and hold office on such terms and conditions (in respect of matters not provided for by this Act) as are determined by the Governor‑General.
+             (7)  The members shall be appointed by the Governor-General, and hold office on such terms and conditions (in respect of matters not provided for by this Act) as are determined by the Governor-General.
 
 ##### <a id="34"></a>34  Vacancies not to invalidate actions of Authority
 
@@ -734,27 +736,27 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
              (1)  Subject to this Part, a member holds office for the period, not exceeding 5 years, specified in the instrument of appointment.
 
-             (2)  A person appointed as a member is eligible for re‑appointment.
+             (2)  A person appointed as a member is eligible for re-appointment.
 
 ##### <a id="37"></a>37  Acting appointments
 
-             (1)  The Minister may appoint a person to act as the full‑time member during any period, or during all periods:
+             (1)  The Minister may appoint a person to act as the full-time member during any period, or during all periods:
 
                      (a)  when there is a vacancy in the office of that member, whether or not an appointment has previously been made to the office; or
 
                      (b)  when that member is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-             (2)  Where there is, or is to be, a part‑time Chairperson, the Minister may appoint a member to act as the Chairperson during any period, or during all periods:
+             (2)  Where there is, or is to be, a part-time Chairperson, the Minister may appoint a member to act as the Chairperson during any period, or during all periods:
 
                      (a)  when there is a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
 
                      (b)  when the Chairperson is absent from Australia or is, for any other reason, unable to perform the duties of the office.
 
-             (3)  The Minister may appoint a person to act as a non‑executive member referred to in subsection 33(3) or (4) during any period, or during all periods:
+             (3)  The Minister may appoint a person to act as a non-executive member referred to in subsection 33(3) or (4) during any period, or during all periods:
 
-                     (a)  when there is a vacancy in the office of a non‑executive member, whether or not an appointment has previously been made to the office; or
+                     (a)  when there is a vacancy in the office of a non-executive member, whether or not an appointment has previously been made to the office; or
 
-                     (b)  when a non‑executive member is acting as Chairperson, is absent from Australia or is, for any other reason, unable to perform the duties of the office.
+                     (b)  when a non-executive member is acting as Chairperson, is absent from Australia or is, for any other reason, unable to perform the duties of the office.
 
              (4)  A person appointed to act during a vacancy shall not continue so to act for a continuous period of more than 12 months.
 
@@ -770,39 +772,39 @@ the liability is vested in the Territory and ceases to be a liability of the Com
 
 ##### <a id="38"></a>38  Leave of absence
 
-             (1)  A full‑time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  A full-time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
              (2)  The Minister may:
 
-                     (a)  grant a full‑time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines in writing; and
+                     (a)  grant a full-time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines in writing; and
 
-                     (b)  grant a part‑time member leave to be absent from a meeting or meetings of the Authority.
+                     (b)  grant a part-time member leave to be absent from a meeting or meetings of the Authority.
 
 ##### <a id="39"></a>39  Outside employment
 
-             (1)  A full‑time member shall not engage in paid employment outside his or her duties except with the approval of the Minister.
+             (1)  A full-time member shall not engage in paid employment outside his or her duties except with the approval of the Minister.
 
-             (2)  If a part‑time member engages in paid employment that, in the opinion of the Minister, conflicts with the proper performance of his or her duties, the Minister may, in writing, direct the member to cease that employment.
+             (2)  If a part-time member engages in paid employment that, in the opinion of the Minister, conflicts with the proper performance of his or her duties, the Minister may, in writing, direct the member to cease that employment.
 
 ##### <a id="40"></a>40  Resignation of members
 
-                   A member may resign by written instrument delivered to the Governor‑General.
+                   A member may resign by written instrument delivered to the Governor-General.
 
 ##### <a id="41"></a>41  Termination of appointments
 
-             (1)  The Governor‑General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of a member for misbehaviour or physical or mental incapacity.
 
              (2)  If:
 
                      (a)  a member becomes bankrupt, applies to take the benefit of any law for relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
-                     (b)  a full‑time member is absent from duty, except on leave of absence, for 14 consecutive days or 28 days in any 12 months;
+                     (b)  a full-time member is absent from duty, except on leave of absence, for 14 consecutive days or 28 days in any 12 months;
 
-                     (c)  a part‑time member is absent, except on leave of absence granted under section 38, from 3 consecutive meetings of the Authority; or
+                     (c)  a part-time member is absent, except on leave of absence granted under section 38, from 3 consecutive meetings of the Authority; or
 
                      (d)  a member fails, without reasonable excuse, to comply with section 42;
 
-the Governor‑General may terminate the appointment of the member.
+the Governor-General may terminate the appointment of the member.
 
 ##### <a id="42"></a>42  Disclosure of interests
 
@@ -836,13 +838,13 @@ the Governor‑General may terminate the appointment of the member.
 
              (5)  Where the Chairperson is not present at a meeting, the members present shall appoint one of their number to preside.
 
-             (6)  At a meeting, 3 members constitute a quorum, but, subject to subsection (6A), one of them must be the full‑time member.
+             (6)  At a meeting, 3 members constitute a quorum, but, subject to subsection (6A), one of them must be the full-time member.
 
-          (6A)  If the full‑time member is precluded from being present by section 42, then:
+          (6A)  If the full-time member is precluded from being present by section 42, then:
 
-                     (a)  if the full‑time member is the Chairperson—any 3 members constitute a quorum; or
+                     (a)  if the full-time member is the Chairperson—any 3 members constitute a quorum; or
 
-                     (b)  if the full‑time member is not the Chairperson—the Chairperson and any other 2 members constitute a quorum.
+                     (b)  if the full-time member is not the Chairperson—the Chairperson and any other 2 members constitute a quorum.
 
              (7)  Questions arising at a meeting shall be decided by a majority of the votes of the members present and voting.
 
@@ -920,7 +922,7 @@ the Governor‑General may terminate the appointment of the member.
 
 ##### <a id="53"></a>53  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -964,8 +966,6 @@ _National Capital Development Commission Act 1975._
 
                     <a name="commenc-dai"></a>**_commencing day_** means the day on which this Part commences.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="interim-author"></a>**_interim authority_** means the authority established by the _Interim__Territory__Planning Ordinance 1988_ of the Territory.
 
                     <a name="nation-capit-plan"></a>**_National Capital Plan_** means the Plan prepared under Part III, and includes a stage or part of that Plan.
@@ -986,9 +986,9 @@ and includes a part of such a policy.
 
 ##### <a id="57"></a>57  Declaration of end of transition period
 
-             (1)  When the Governor‑General is satisfied that the National Capital Plan sufficiently covers the Territory, the Governor‑General shall, by Proclamation, declare that the transition period ends on a day specified in the Proclamation.
+             (1)  When the Governor-General is satisfied that the National Capital Plan sufficiently covers the Territory, the Governor-General shall, by Proclamation, declare that the transition period ends on a day specified in the Proclamation.
 
-             (2)  The day specified shall not be later than 2 years after Self‑Government Day.
+             (2)  The day specified shall not be later than 2 years after Self-Government Day.
 
              (3)  On the first sitting day of a House of the Parliament after the end of the transition period, the Minister shall cause to be laid before that House:
 
@@ -1004,7 +1004,7 @@ and includes a part of such a policy.
 
 ##### <a id="59"></a>59  Procedures before establishment of Executive
 
-             (1)  Until the establishment of the Executive on Self‑Government Day:
+             (1)  Until the establishment of the Executive on Self-Government Day:
 
                      (a)  references in this Part to the Executive shall be read as references to the Minister;
 
@@ -1012,9 +1012,9 @@ and includes a part of such a policy.
 
                      (c)  references in subsections 74(1) and 79(1) to the _Territory Gazette_ shall be read as references to the _Commonwealth Gazette._
 
-(2)  Section 78 does not apply to a draft variation submitted or re‑submitted to the Minister under section 75 or 77 as affected by this section.
+(2)  Section 78 does not apply to a draft variation submitted or re-submitted to the Minister under section 75 or 77 as affected by this section.
 
-             (3)  Any steps taken under this Part by the Minister before Self‑Government Day have effect on and after that Day as if they had been taken by the Executive.
+             (3)  Any steps taken under this Part by the Minister before Self-Government Day have effect on and after that Day as if they had been taken by the Executive.
 
 ##### <a id="60"></a>60  Procedures before establishment of Territory planning authority
 
@@ -1024,7 +1024,7 @@ and includes a part of such a policy.
 
 ##### <a id="61"></a>61  Application of Canberra Water Supply (Googong Dam) Act before establishment of Executive
 
-             (1)  Until the establishment of the Executive on Self‑Government Day:
+             (1)  Until the establishment of the Executive on Self-Government Day:
 
                      (a)  references in the _Canberra__Water Supply (Googong Dam) Act 1974_ to the Executive shall be read as references to the Minister;
 
@@ -1032,7 +1032,7 @@ and includes a part of such a policy.
 
                      (c)  section 6A of that Act has no effect.
 
-             (2)  Any steps taken under that Act by the Minister before Self‑Government Day have effect on and after that Day as if they had been taken by the Executive.
+             (2)  Any steps taken under that Act by the Minister before Self-Government Day have effect on and after that Day as if they had been taken by the Executive.
 
 ### Division 3—Continuation of NCDC policies
 
@@ -1154,7 +1154,7 @@ and, if it thinks fit, may alter the draft variation.
 
                      (d)  if it thinks fit, alter the draft variation; and
 
-                     (e)  re‑submit the draft variation to the Minister for approval;
+                     (e)  re-submit the draft variation to the Minister for approval;
 
 and subsection 70(1) and, if necessary, this section, apply again.
 
@@ -1194,7 +1194,7 @@ and subsection 70(1) and, if necessary, this section, apply again.
 
              (2)  The Territory planning authority shall:
 
-                     (a)  consult with the National Capital Authority about the draft variation and have regard to any views expressed by the last‑mentioned Authority; and
+                     (a)  consult with the National Capital Authority about the draft variation and have regard to any views expressed by the last-mentioned Authority; and
 
                      (b)  have regard to any representations made by the public;
 
@@ -1228,7 +1228,7 @@ and, if it thinks fit, may alter the draft variation.
 
                      (d)  if it thinks fit, alter the draft variation; and
 
-                     (e)  re‑submit the draft variation to the Executive for approval;
+                     (e)  re-submit the draft variation to the Executive for approval;
 
 and section 76 and, if necessary, this section, apply again.
 
@@ -1248,7 +1248,7 @@ and section 76 and, if necessary, this section, apply again.
 
              (2)  The variation takes effect on publication of the notice of approval.
 
-### Division 6—Plan of lay‑out of the City of Canberra
+### Division 6—Plan of lay-out of the City of Canberra
 
 ##### <a id="80"></a>80  Modification of section 12A of _Seat of Government (Administration) Act 1910_
 
@@ -1256,11 +1256,11 @@ and section 76 and, if necessary, this section, apply again.
 
                      (a)  after subsection (1) the following subsection were inserted:
 
-                        “(1A)     The Minister shall not act under subsection (1) except after consultation with the Australian Capital Territory Executive.”;
+                         “(1A)     The Minister shall not act under subsection (1) except after consultation with the Australian Capital Territory Executive.”;
 
                      (b)  after subsection (2) the following subsection were inserted:
 
-                        “(2A)     The statement laid before each House of the Parliament under subsection (2) shall include any views expressed by the Australian Capital Territory Executive in consultations held under subsection (1A).”;
+                         “(2A)     The statement laid before each House of the Parliament under subsection (2) shall include any views expressed by the Australian Capital Territory Executive in consultations held under subsection (1A).”;
 
                      (c)  subsection (4) were amended by omitting “The Minister” and substituting “A prescribed body”;
 
@@ -1268,7 +1268,7 @@ and section 76 and, if necessary, this section, apply again.
 
                            “(5)     In subsection (4):
 
-                                    **_prescribed body_** means:
+                                                **_prescribed body_** means:
 
                                          (a)  the Commonwealth;
 
@@ -1276,7 +1276,7 @@ and section 76 and, if necessary, this section, apply again.
 
                                          (c)  a Territory authority as defined by that Act; or
 
-                                         (d)  the body politic established by section 7 of the _Australian Capital   Territory__(Self‑Government) Act 1988_.”.
+                                         (d)  the body politic established by section 7 of the _Australian Capital   Territory__(Self-Government) Act 1988_.”.
 
 ### Division 7—Transfers following repeal of NCDC Act
 
@@ -1318,7 +1318,7 @@ the proceedings may be continued, subject to the direction of the court, by or a
 
              (1)  Where any money has been, or is, appropriated by an Appropriation Act for the purposes of the NCDC, the Act shall be taken to have appropriated, or to appropriate, the money for the purposes of the Department of Administrative Services as set out in Subdivision 6 of Division 805 in the relevant Schedule to that Act.
 
-             (2)  The money shall be apportioned between any or all of the items of that Subdivision as the Finance Minister determines in writing.
+             (2)  The money shall be apportioned between any or all of the items of that Subdivision as the Minister for Finance determines in writing.
 
              (3)  This section does not apply to:
 
@@ -1330,6 +1330,8 @@ the proceedings may be continued, subject to the direction of the court, by or a
 
                     <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for expenditure in respect of the financial year ending on 30 June 1989, and includes an Act appropriating money, by way of interim provision, for such expenditure.
 
+ 
+
 # Schedule—Consequential amendments
 
 _Section 55_
@@ -1340,18 +1342,20 @@ _Section 55_
 
 The amendments made by this Schedule are incorporated in the current consolidations on ComLaw.
 
-_Canberra Water Supply (Googong Dam) Act 1974_
+Canberra Water Supply (Googong Dam) Act 1974
 
 _Parliament House Construction Authority Act 1979_
  <span style="font-size:9.0pt">\[repealed by Act No. 37, 1992, s. 4]</span>
 
-_Public Works Committee Act 1969_
+Public Works Committee Act 1969 
 
-_Seat of Government (Administration) Act 1910_
+Seat of Government (Administration) Act 1910
 
 For access to the wording of the amendments made by this Schedule _see_ Act No. 108, 1988.
 
 * * *
+
+ 
 
 # Notes to the _Australian Capital Territory (Planning and Land Management) Act 1988_
 
@@ -1616,23 +1620,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td colspan="2">
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 18, 19): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1652,11 +1639,11 @@ _(a)_     Section 2 of the _Australian Capital   Territory__(Planning 
 
                 The date fixed in pursuance of subsection 2(2) was 12 March 1991 (_see Gazette_ 1991, No. S62).
 
-                In pursuance of subsection 2(3) the date fixed for sections 25, 26, 28‑32, 51 and 52 was 11 May 1989 (_see Gazette_ 1989, No. S164); for the remaining sections the date fixed was 31 January 1989 (_see Gazette_ 1989, No. S39).
+                In pursuance of subsection 2(3) the date fixed for sections 25, 26, 28-32, 51 and 52 was 11 May 1989 (_see Gazette_ 1989, No. S164); for the remaining sections the date fixed was 31 January 1989 (_see Gazette_ 1989, No. S39).
 
-_(b)_     The _Australian Capital Territory__(Planning and Land Management) Act 1988_ was amended by Part 3 (sections 5 and 6) only of the _Arts, Environment, Tourism and Territories Legislation Amendment Act 1990_, subsection 2(3) of which provides as follows:
+_(b)_    The _Australian Capital Territory__(Planning and Land Management) Act 1988_ was amended by Part 3 (sections 5 and 6) only of the _Arts, Environment, Tourism and Territories Legislation Amendment Act 1990_, subsection 2(3) of which provides as follows:
 
-                 (3)   Part 3 is taken to have commenced immediately after the commencement of section 55 of the _Australian Capital Territory__(Planning and Land Management) Act 1989_.
+                 (3)   Part 3 is taken to have commenced immediately after the commencement of section 55 of the _Australian   Capital Territory__(Planning and Land Management) Act 1989_.
 
          Section 55 commenced on 31 January 1989 (_see Gazette_ 1989, No. S39). 
 
@@ -1796,26 +1783,10 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 </thead>
 <tr>
   <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 4</div>
   </td>
   <td>
     <div>am. No. 118, 1997; No. 59, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1836,34 +1807,10 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 10</div>
   </td>
   <td>
     <div>ad. No. 59, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1876,26 +1823,10 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 </tr>
 <tr>
   <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 31A</div>
   </td>
   <td>
     <div>ad. No. 6, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1940,26 +1871,10 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 </tr>
 <tr>
   <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 47</div>
   </td>
   <td>
     <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -1980,42 +1895,10 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 </tr>
 <tr>
   <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 55</div>
   </td>
   <td>
     <div>am. No. 88, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part X</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2028,34 +1911,10 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 74</div>
   </td>
   <td>
     <div>am. No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 85</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr></table>
 
@@ -2063,7 +1922,7 @@ _(g)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 
 ### Application, saving or transitional provisions
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
 
 ## Schedule 1
 
