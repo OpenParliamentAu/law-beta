@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00358/Html/c4abba6d-0d8c-4f5a-9da4-1d55162289d3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00867/Html/db027209-a871-4c40-be7d-4d2bf9181356_files/image001.gif)
 
 # Special Prosecutors Act 1982
 
 **Act No. 79 of 1982 as amended**
 
-This compilation was prepared on 28 March 2012
+This compilation was prepared on 27 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -206,9 +206,19 @@ the Governor‑General shall terminate the appointment of that Special Prosecuto
 
 ##### <a id="16"></a>16  Acting Special Prosecutor
 
-                   The Attorney‑General may appoint a person to act as a Special Prosecutor during any period, or during all periods, when a Special Prosecutor is absent from duty or from Australia or is, for any reason, unable to perform the functions of his or her office.
+             (1)  The Attorney‑General may appoint a person to act as a Special Prosecutor during any period, or during all periods, when a Special Prosecutor is absent from duty or from Australia or is, for any reason, unable to perform the functions of his or her office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  The Attorney‑General may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as a Special Prosecutor; and
+
+                     (b)  at any time terminate such an appointment.
+
+             (3)  The appointment of a person to act as a Special Prosecutor ceases to have effect if he or she resigns the appointment by writing signed by him or her and delivered to the Attorney‑General.
+
+             (4)  While a person is acting as a Special Prosecutor, he or she has, and may exercise, all the powers and shall perform all the functions of the Special Prosecutor in whose place he or she is acting.
+
+             (5)  The validity of anything done by or in relation to a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for him or her to act had not arisen or had passed.
 
 ##### <a id="17"></a>17  Appointment of staff, consultants etc.
 
@@ -232,7 +242,7 @@ Note:          For rules that apply to acting appointments, se
 
                      (d)  persons whose services are made available to that Special Prosecutor pursuant to arrangements made under section 19.
 
-##### <a id="19"></a>19  Administrative arrangements
+##### <a id="19"></a>19  Administrative arrangements
 
              (1)  The Attorney‑General may make an arrangement with the appropriate Minister of a State or of the Northern Territory under which the State or Territory will, from time to time as agreed upon under the arrangement, make available a person who is an officer or employee of the State or Territory or of an authority of the State or Territory or a member of the Police Force of the State or Territory, or persons who are such officers, employees or members, to perform services for a Special Prosecutor.
 
@@ -456,7 +466,7 @@ of Assent</div>
       <div>27 June 2011</div>
     </td>
     <td colspan="2">
-      <div>Schedule 2 (items 1067–1069) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+      <div>Schedule 2 (items 1067–1069) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -558,15 +568,7 @@ _(b)_     The _Special Prosecutors Act 1982_ was amended by Schedule 1
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 39, 1983; No. 73, 2008; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 39, 1983; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -594,6 +596,30 @@ _(b)_     The _Special Prosecutors Act 1982_ was amended by Schedule 1
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1067  Subsection 16(1)
+
+Omit “(1)”.
+
+## 1068  At the end of subsection 16(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1069  Subsections 16(2) to (5)
+
+Repeal the subsections.
+
+As at 27 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -610,6 +636,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
