@@ -1,7 +1,7 @@
 
 Financial Sector (Shareholdings) Act 1998
 Act No. 55 of 1998 as amended
-This compilation was prepared on 27 September 2001 taking into account amendments up to Act No. 117 of 2001
+This compilation was prepared on 24 May 2001 taking into account amendments up to Act No. 31 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -82,9 +82,9 @@ Schedule 1—Ownership definitions	36
 10	Stake in a company	43
 11	Direct control interests in a company	43
 Notes		45
-
 An Act relating to shareholdings in certain financial sector companies, and for related purposes
 Part 1—Preliminary
+  
 1  Short title [see Note 1]
 		This Act may be cited as the Financial Sector (Shareholdings) Act 1998.
 2  Commencement [see Note 1]
@@ -119,7 +119,8 @@ Note:	Schedule 1 sets out definitions of expressions used in Part 2 (which dea
 		This Act extends to all the external Territories.
 7  Extra‑territorial operation
 		This Act extends to acts, omissions, matters and things outside Australia.
-Part 2—Restrictions on shareholdings in financial sector companies
+
+Part 2—Restrictions on shareholdings in financial sector companies
 Division 1—Introduction
 8  Simplified outline
 		The following is a simplified outline of this Part:
@@ -133,7 +134,8 @@ Division 1—Introduction
 •	The regulations may require records to be kept, and information to be given, for purposes relating to the restrictions on shareholdings.
 9  Definitions in Schedule 1
 		Schedule 1 sets out definitions of expressions used in this Part.
-Division 2—15% shareholding limit
+
+Division 2—15% shareholding limit
 10  Meaning of unacceptable shareholding situation
 		For the purposes of this Act, an unacceptable shareholding situation exists in relation to a particular financial sector company and in relation to a particular person if the person holds a stake in the company of more than:
 	(a)	15%; or
@@ -281,7 +283,8 @@ Officers of company
 	(2)	If an application is given by way of electronic transmission, the application is taken to be accompanied by a fee if the fee is paid within 7 days after the transmission.
 	(3)	In this section:
 data storage device means any article or material (for example, a disk) from which information is capable of being reproduced with or without the aid of any other article or device.
-Division 4—Practical control where 15% shareholding limit not exceeded
+
+Division 4—Practical control where 15% shareholding limit not exceeded
 22  Meaning of control
 		In this Division:
 control includes control as a result of, or by means of, trusts, agreements, arrangements, understandings and practices, whether or not having legal or equitable force and whether or not based on legal or equitable rights.
@@ -318,6 +321,10 @@ Note:	Practical control has the meaning given by section 23.
 	(b)	the person intentionally or recklessly contravenes the requirement.
 Penalty:	400 penalty units.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+	(4)	For the purposes of subsection (3), a person is taken to be reckless if:
+	(a)	the person is aware of a substantial risk that anything done or not done by the person will constitute a contravention of a requirement under this section; and
+	(b)	having regard to the circumstances known to the person, it is unjustifiable to take the risk.
+	(5)	The question whether taking a risk is unjustifiable is one of fact.
 25  Remedial orders
 	(1)	If:
 	(a)	a declaration under section 23 is in force in relation to a person and in relation to a financial sector company; and
@@ -362,6 +369,10 @@ Offence
 	(b)	the person intentionally or recklessly contravenes the requirement.
 Penalty:	50 penalty units.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+	(4A)	For the purposes of subsection (4), a person is taken to be reckless if:
+	(a)	the person is aware of a substantial risk that anything done or not done by the person will constitute a contravention of a requirement covered by paragraph (1)(a), (b) or (c); and
+	(b)	having regard to the circumstances known to the person, it is unjustifiable to take the risk.
+	(4B)	The question whether taking a risk is unjustifiable is one of fact.
 Regulations may confer discretionary powers on the Treasurer
 	(5)	Regulations made for the purposes of this section may make provision for or in relation to a matter by conferring a power on the Treasurer. For example, the regulations could provide that the Treasurer may, by written notice given to a financial sector company, require the company to give the Treasurer, within the period and in the manner specified in the notice, specified information about an ownership matter relating to the company.
 Definition
@@ -370,7 +381,8 @@ Definition
 	(b)	whether the directors of a financial sector company are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of a person (either alone or together with associates);
 	(c)	whether a person (either alone or together with associates) is in a position to exercise control over a financial sector company.
 For this purpose, control has the same meaning as in section 22.
-Division 6—Ancillary matters
+
+Division 6—Ancillary matters
 27  Provision to attract the corporations power, the banking power and the insurance power
 	(1)	This Part does not apply in relation to a financial sector company unless the company is:
 	(a)	a constitutional corporation (other than a corporation that carries on State banking, or State insurance, not extending beyond the limits of the State concerned); or
@@ -396,7 +408,9 @@ constitutional corporation means a corporation to which paragraph 51(xx) of the 
 	(2)	In this section:
 acquisition of property has the same meaning as in paragraph 51(xxxi) of the Constitution.
 just terms has the same meaning as in paragraph 51(xxxi) of the Constitution.
-Part 3—Anti‑avoidance
+
+Part 3—Anti‑avoidance
+  
 31  Anti‑avoidance
 	(1)	If:
 	(a)	one or more persons enter into, begin to carry out or carry out a scheme; and
@@ -413,7 +427,9 @@ Definitions
 	(3)	In this section:
 increase, in relation to a stake in a company, includes an increase from a starting point of nil.
 stake, in relation to a company, has the same meaning as in Schedule 1.
-Part 4—Injunctions
+
+Part 4—Injunctions
+  
 32  Injunctions
 Restraining injunctions
 	(1)	If a person has engaged, is engaging or is proposing to engage in any conduct in contravention of section 11, the Federal Court may, on the application of the Treasurer, grant an injunction:
@@ -459,7 +475,9 @@ Performance injunctions
 	(b)	if it appears to the court that, if an injunction is not granted, it is likely that the person will refuse or fail to do that act or thing—whether or not the person has previously refused or failed to do that act or thing and whether or not there is an imminent danger of substantial damage to any person if the person refuses or fails to do that act or thing.
 36  Other powers of the court unaffected
 		The powers conferred on the court under this Part are in addition to, and not instead of, any other powers of the court, whether conferred by this Act or otherwise.
-Part 5—Offences
+
+Part 5—Offences
+  
 38  Incorrect records
 		A person is guilty of an offence if:
 	(a)	the person is subject to a requirement covered by paragraph 26(1)(a); and
@@ -481,7 +499,9 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of crimina
 Note:	Section 28A of the Acts Interpretation Act 1901 deals with the service of documents.
 	(4)	In this section:
 criminal proceeding includes a proceeding to determine whether a person should be tried for an offence.
-Part 6—Civil liability
+
+Part 6—Civil liability
+  
 42  Civil liability of corporations
 State of mind 
 	(1)	If, in a civil proceeding under this Act in respect of conduct engaged in by a corporation, it is necessary to establish the state of mind of the corporation, it is sufficient to show that:
@@ -519,6 +539,7 @@ Extended meaning of engaging in conduct
 	(4)	A reference in this section to engaging in conduct includes a reference to failing or refusing to engage in conduct.
 
 Part 7—Miscellaneous
+  
 44  Delegation by Treasurer
 	(1)	The Treasurer may, by writing, delegate any or all of the Treasurer’s powers under this Act to:
 	(a)	the Chief Executive Officer of APRA (the Australian Prudential Regulation Authority); or
@@ -565,10 +586,9 @@ transferring financial sector company means a financial sector company that is a
 	(4)	In this section:
 replaced legislation has the same meaning as it has for the purposes of item 22 of Schedule 8 to the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999.
 transfer date means the date that is the transfer date for the purposes of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999.
-
 Schedule 1—Ownership definitions
 Note:	See section 9.
-
+  
 1  Object
 		The object of this Schedule is to define terms used in Part 2 (which deals with restrictions on shareholdings).
 2  Definitions
@@ -746,28 +766,22 @@ Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001
 28 Apr 2001
 Schedule 1 (items 1-4): 28 Apr 2001 (b)
 —
-Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001
-117, 2001
-18 Sept 2001
-Schedule 3 (items 1-4): 19 Sept 2001 (c)
-S. 4
 (a)	The Financial Sector (Shareholdings) Act 1998 was amended by Schedule 7 (item 45) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999, subsections 3(1), (2)(e) and (16) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(2)	The following provisions commence on the transfer date:
 	(e)	subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act.
+
 (b)	The Financial Sector (Shareholdings) Act 1998 was amended by Schedule 1 (items 1-4) only of the Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001, subsection 2(1) of which provides as follows:
 	(1)	Sections 1, 2 and 3 and items 1 to 4 (inclusive) of Schedule 1, and Schedule 2, to this Act commence on the day on which this Act receives the Royal Assent.
-(c)	The Financial Sector (Shareholdings) Act 1998 was amended by Schedule 3 (items 1-4) only of the Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001, subsection 2(5) of which provides as follows:
-	(5)	Part 1 of Schedule 3 commences on the day after the day on which this Act receives the Royal Assent.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 24	
-am. Nos. 31 and 117, 2001
+am. No. 31, 2001
 S. 26	
-am. Nos. 31 and 117, 2001
+am. No. 31, 2001
 S. 37	
 rep. No. 137, 2000
 Ss. 48, 49	
@@ -825,11 +839,5 @@ If:
 	(b)	any or all of those other provisions are repealed by this Schedule; and
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-Treasury Legislation Amendment (Application of Criminal Code) Act (No. 3) 2001 (No. 117, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
       
 
