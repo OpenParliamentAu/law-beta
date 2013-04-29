@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00379/Html/CwlthVoluntProtection2003_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00665/Html/CwlthVoluntProtection2003_image001.gif)
 
 # Commonwealth Volunteers Protection Act 2003
 
 **Act No. 2 of 2003 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 15 November 2006
  taking into account amendments up to Act No. 125 of 2006
 
 The text of any of those amendments not in force 
@@ -162,7 +162,7 @@ Note:          This table relates only to the provisions of th
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** means a body corporate established or continued in existence for a public purpose  by or under a Commonwealth law, but does not include:
 
-                     (a)  a corporation registered under the _Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_; or
+                     (a)  an Aboriginal association incorporated under Part IV of the _Aboriginal Councils and Associations Act 1976_; or
 
                      (b)  an association of employees that is an organisation within the meaning of the _Workplace Relations Act 1996_; or
 
@@ -339,52 +339,27 @@ Remainder: Royal Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
-Remainder: Royal Assent</div>
+    <div>Schedule 2 (item 91): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+_Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006 (No. 125, 2006)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2006</div>
-  </td>
-</tr></table>
+The following amendment commences on 1 July 2007 (_see_ s. 2(1)):
+
+## Schedule 2
+
+## 91  Subsection 4(1) (paragraph (a) of the definition of _Commonwealth authority_)
+
+Repeal the paragraph, substitute:
+
+                     (a)  a corporation registered under the _Corporations (Aboriginal and__Torres Strait__Islander) Act 2006_; or
+
+As at 15 November 2006 the amendment is not incorporated in this compilation.
 
  
