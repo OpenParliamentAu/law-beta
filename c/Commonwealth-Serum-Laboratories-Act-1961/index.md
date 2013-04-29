@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00721/Html/984c1e5a-31a3-4f2d-abd3-e06d81d8597d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00343/Html/CommSerumlabor1961_image001.gif)
 
 # Commonwealth Serum Laboratories Act 1961
 
 **Act No. 38 of 1961 as amended**
 
-This compilation was prepared on 5 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 16 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -70,7 +70,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19D](#19D).       Inconsistent alteration to CSL’s articles of association to have no effect
 
-[19E](#19E).        CSL to maintain a register of foreign‑held voting shares
+[19E](#19E).        CSL to maintain a register of foreign-held voting shares
 
 [19F](#19F).        Injunctions in relation to contraventions of a mandatory article or section 19E
 
@@ -100,7 +100,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19S](#19S).        Interim injunctions
 
-[19T](#19T).        Factors relevant to the grant of a restraining injunction
+[19T](#19T).       Factors relevant to the grant of a restraining injunction
 
 [19U](#19U).       Factors relevant to the grant of a mandatory injunction
 
@@ -114,9 +114,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19Y](#19Y).       Jurisdiction of courts
 
-[19Z](#19Z).        This Part to have effect despite the Corporations Act
+[19Z](#19Z).       This Part to have effect despite the Corporations Act
 
-[19ZA](#19ZA).     Remedies under this Part to be additional remedies
+[19ZA](#19ZA).    Remedies under this Part to be additional remedies
 
 **Part 5—Staff matters**
 
@@ -196,7 +196,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="transition"></a>**_transition_** means the commencement of Part 3, being the Part inserted by section 13 of the _Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990_.
 
-                    <a name="wholli-owned-subsidiari"></a>**_wholly‑owned subsidiary_**, in relation to CSL, means a body corporate:
+                    <a name="wholli-owned-subsidiari"></a>**_wholly-owned subsidiary_**, in relation to CSL, means a body corporate:
 
                      (a)  that is a subsidiary of CSL; and
 
@@ -204,7 +204,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  CSL; or
 
-                             (ii)  a body corporate that is, under any other application or applications of this definition, a wholly‑owned subsidiary of CSL; or
+                             (ii)  a body corporate that is, under any other application or applications of this definition, a wholly-owned subsidiary of CSL; or
 
                             (iii)  a nominee of CSL or of a body of a kind referred to in subparagraph (ii); and
 
@@ -448,7 +448,7 @@ under the _Corporations Act 2001_.
 
                     <a name="csl-subsidiari"></a>**_CSL subsidiary_** means a body corporate that is a subsidiary of CSL.
 
-                    <a name="foreign-held-vote-share"></a>**_foreign‑held voting shares_** means:
+                    <a name="foreign-held-vote-share"></a>**_foreign-held voting shares_** means:
 
                      (a)  voting shares that are acknowledged in writing by the registered owner of those shares to be shares in which a foreign person has a relevant interest; or
 
@@ -464,7 +464,7 @@ under the _Corporations Act 2001_.
 
                     <a name="regist-member"></a>**_register of members_** has the same meaning as in the _Corporations Act 2001_.
 
-                    <a name="sale-dai"></a>**_sale day_** has the same meaning as in the _CSL   Sale Act 1993_.
+                    <a name="sale-dai"></a>**_sale day_** has the same meaning as in the _CSL__Sale__Act 1993_.
 
                     <a name="share"></a>**_share_**, in relation to a body corporate, means a share in the body corporate’s share capital.
 
@@ -526,7 +526,7 @@ purely because he or she is an employee of the body corporate.
 
              (1)  The articles of association of CSL must, on and after the sale day, include the following provisions:
 
-                     (a)  a provision imposing restrictions on the counting of votes in respect of the appointment, replacement and removal of directors of CSL so as to prevent the votes attaching to all significant foreign shareholdings being counted in respect of the appointment, replacement or removal, of more than one‑third of the directors of CSL who hold office at any particular time; and
+                     (a)  a provision imposing restrictions on the counting of votes in respect of the appointment, replacement and removal of directors of CSL so as to prevent the votes attaching to all significant foreign shareholdings being counted in respect of the appointment, replacement or removal, of more than one-third of the directors of CSL who hold office at any particular time; and
 
                      (b)  a provision requiring the directors of CSL, for the purposes of enforcing the articles giving effect to paragraph (a), to take reasonable steps to find out whether there are significant foreign shareholdings; and
 
@@ -540,7 +540,7 @@ purely because he or she is an employee of the body corporate.
 
                      (e)  a provision requiring that the principal facilities used by CSL and any CSL subsidiaries to produce products derived from human plasma collected from blood or plasma donated by individuals in Australia always be located in Australia; and
 
-                      (f)  a provision requiring that, at all times, at least two‑thirds of the directors of CSL be Australian citizens; and
+                      (f)  a provision requiring that, at all times, at least two-thirds of the directors of CSL be Australian citizens; and
 
                      (g)  a provision requiring that the presiding director (however described) at a meeting of the board of directors of CSL be an Australian citizen; and
 
@@ -568,9 +568,9 @@ has no effect.
 
                     <a name="special-resolut"></a>**_special resolution_** has the same meaning as in the _Corporations Act 2001_.
 
-##### <a id="19E"></a>19E  CSL to maintain a register of foreign‑held voting shares
+##### <a id="19E"></a>19E  CSL to maintain a register of foreign-held voting shares
 
-             (1)  CSL must on and after the sale day maintain a register of foreign‑held voting shares.
+             (1)  CSL must on and after the sale day maintain a register of foreign-held voting shares.
 
              (2)  If the Minister gives CSL a written request that CSL give to him or her the register or a copy of the register at such reasonable time and reasonable place as the Minister specifies, CSL must give the Minister the register or a copy of the register, as the case requires, in accordance with the request.
 
@@ -650,11 +650,11 @@ has no effect.
 
 ##### <a id="19N"></a>19N  Declaration of Broadmeadows land
 
-                   The Minister may, by notice in the _Gazette_, declare the whole, or any specified part of, the land located at Broadmeadows in the State of Victoria that has been transferred to CSL or a wholly‑owned subsidiary of CSL by the Commonwealth on or before the sale day to be the Broadmeadows land for the purposes of this Division.
+                   The Minister may, by notice in the _Gazette_, declare the whole, or any specified part of, the land located at Broadmeadows in the State of Victoria that has been transferred to CSL or a wholly-owned subsidiary of CSL by the Commonwealth on or before the sale day to be the Broadmeadows land for the purposes of this Division.
 
 ##### <a id="19P"></a>19P  Prohibition on disposal etc. of Broadmeadows facility
 
-             (1)  Neither CSL nor a wholly‑owned subsidiary may:
+             (1)  Neither CSL nor a wholly-owned subsidiary may:
 
                      (a)  dispose of the whole of the Broadmeadows facility; or
 
@@ -664,15 +664,15 @@ has no effect.
 
 without the written approval of the Minister.
 
-             (2)  Subsection (1) does not prevent CSL disposing of the facility, or granting an interest (including a contingent interest) in the facility, to a wholly‑owned subsidiary of CSL.
+             (2)  Subsection (1) does not prevent CSL disposing of the facility, or granting an interest (including a contingent interest) in the facility, to a wholly-owned subsidiary of CSL.
 
-             (3)  Subsection (1) does not prevent a wholly‑owned subsidiary of CSL disposing of the facility, or granting an interest (including a contingent interest) in the facility, to CSL or another wholly‑owned subsidiary of CSL.
+             (3)  Subsection (1) does not prevent a wholly-owned subsidiary of CSL disposing of the facility, or granting an interest (including a contingent interest) in the facility, to CSL or another wholly-owned subsidiary of CSL.
 
-             (4)  If a wholly‑owned subsidiary of CSL owns or has an interest (including a contingent interest) in the Broadmeadows facility, neither CSL nor a wholly‑owned subsidiary of CSL that directly or indirectly owns the first‑mentioned subsidiary may:
+             (4)  If a wholly-owned subsidiary of CSL owns or has an interest (including a contingent interest) in the Broadmeadows facility, neither CSL nor a wholly-owned subsidiary of CSL that directly or indirectly owns the first-mentioned subsidiary may:
 
-                     (a)  dispose of any shares in the first‑mentioned subsidiary or any other wholly‑owned subsidiary of CSL that directly or indirectly owns the first‑mentioned subsidiary; or
+                     (a)  dispose of any shares in the first-mentioned subsidiary or any other wholly-owned subsidiary of CSL that directly or indirectly owns the first-mentioned subsidiary; or
 
-                     (b)  do anything that would cause the first‑mentioned subsidiary not to be a wholly‑owned subsidiary of CSL;
+                     (b)  do anything that would cause the first-mentioned subsidiary not to be a wholly-owned subsidiary of CSL;
 
 without the written approval of the Minister.
 
@@ -686,7 +686,7 @@ without the written approval of the Minister.
 
                      (a)  the Broadmeadows land declared under section 19N; and
 
-                     (b)  the buildings and fixtures on that land on the day the land was transferred to CSL or a wholly‑owned subsidiary of CSL by the Commonwealth; and
+                     (b)  the buildings and fixtures on that land on the day the land was transferred to CSL or a wholly-owned subsidiary of CSL by the Commonwealth; and
 
                      (c)  buildings and fixtures that are constructed on or affixed to the land after that day.
 
@@ -824,7 +824,7 @@ without the written approval of the Minister.
 
                      (b)  but for this subsection, some or all of that period would not have to be taken into account as a period during which the staff member was employed by CSL;
 
-CSL shall treat the whole of the first‑mentioned period as a period during which the staff member was employed by it.
+CSL shall treat the whole of the first-mentioned period as a period during which the staff member was employed by it.
 
 ##### <a id="28"></a>28  Effect of sections 26 and 27
 
@@ -884,7 +884,7 @@ but does not include income tax imposed as such by a law of the Commonwealth.
 
 ##### <a id="32"></a>32  Exemptions relating to exempt matters
 
-                   Tax under a law of the Commonwealth or a State or Territory is not payable in relation to:
+                   Tax under a law of the Commonwealth or a State or Territory is not payable in relation to:
 
                      (a)  an exempt matter; or
 
@@ -914,7 +914,7 @@ but does not include income tax imposed as such by a law of the Commonwealth.
 
                      (c)  CSL is to be taken to have incurred, in relation to its acquisition of a transferring asset, the liability to pay or give consideration incurred by the Commonwealth in relation to the acquisition of that asset by the Commonwealth and to have done so when the Commonwealth incurred the liability; and
 
-                     (d)  CSL is to be taken to have incurred, in relation to a transferring asset, costs and expenditure of the kinds referred to in subsection 110‑25(3), (5) or (6) of the _Income Tax Assessment Act 1997_ incurred by the Commonwealth in relation to the asset and to have done so when the Commonwealth incurred the costs or expenditure.
+                     (d)  CSL is to be taken to have incurred, in relation to a transferring asset, costs and expenditure of the kinds referred to in subsection 110-25(3), (5) or (6) of the _Income Tax Assessment Act 1997_ incurred by the Commonwealth in relation to the asset and to have done so when the Commonwealth incurred the costs or expenditure.
 
 ## Part 7—Miscellaneous
 
@@ -950,7 +950,7 @@ except so far as express provision is made by a law of the Commonwealth, State o
 
 ##### <a id="42"></a>42  Regulations
 
-             (1)  The Governor‑General may make regulations not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -964,7 +964,7 @@ The _Commonwealth Serum Laboratories Act 1961_ as shown in this compilation comp
 
 The _Commonwealth Serum Laboratories Act 1961_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
-The _Commonwealth Serum Laboratories Act 1961_ is affected by sections 42 and 46 of the _CSL Sale Act 1993_.
+The _Commonwealth Serum Laboratories Act 1961_ is affected by sections 42 and 46 of the _CSL__Sale__Act 1993_.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -978,7 +978,7 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="16%">
   <col width="18%">
   <col width="21%">
-  <col width="16%">
+  <col width="15%">
 </colgroup>
 
 <thead>
@@ -1464,30 +1464,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 408) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Commonwealth Serum Laboratories Act 1961_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Commonwealth Serum Laboratories Act 1961_ was amended by subsection 41(1) only of the _Community Services and Health Legislation Amendment Act (No. 2) 1988_, subsection 2(1) of which provides as follows:
+_(b)_    The _Commonwealth Serum Laboratories Act 1961_ was amended by subsection 41(1) only of the _Community Services and Health Legislation Amendment Act (No. 2) 1988_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1606,7 +1589,7 @@ _(i)_      Subsection 2(1) (item 33) of the _Fair Work (State Referr
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -3113,20 +3096,6 @@ Certain provisions of the _Commonwealth Serum Laboratories Act 1961_, as amended
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 408  Subsection 19B(1) (definition of _Australian citizen_)
-
-Repeal the definition.
-
-As at 5 September 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3135,7 +3104,7 @@ _Tax Law Improvement Act (No. 1) 1998 (No. 46, 1998)_
 
 ## 4  Application of amendments
 
-An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998‑99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
+An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998-99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
 
 * * *
 
@@ -3170,17 +3139,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -3211,22 +3180,6 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
 ### Renumbering Table
 
