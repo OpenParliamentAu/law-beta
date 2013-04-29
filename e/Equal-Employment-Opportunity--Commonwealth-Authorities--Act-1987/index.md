@@ -1,7 +1,7 @@
 
 Equal Employment Opportunity (Commonwealth Authorities) Act 1987
 Act No. 20 of 1987 as amended
-This compilation was prepared on 23 February 2000 taking into account amendments up to Act No. 183 of 1999
+This compilation was prepared on 18 February 2000 taking into account amendments up to Act No. 146 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -11,7 +11,7 @@ Contents
 Part I—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
-3	Interpretation [see Note 2]	1
+3	Interpretation	1
 4	Extension to certain external Territories	4
 Part II—Programs	5
 5	Relevant authorities required to develop etc. programs	5
@@ -32,7 +32,7 @@ Part I—Preliminary
 		This Act may be cited as the Equal Employment Opportunity (Commonwealth Authorities) Act 1987. 
 2  Commencement [see Note 1]
 		This Act shall come into operation on a day to be fixed by Proclamation. 
-3  Interpretation [see Note 2]
+3  Interpretation
 	(1)	In this Act, unless the contrary intention appears:
 Australia includes the Territories to which this Act extends.
 authority means:
@@ -168,11 +168,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 424-433): 5 Dec 1999 (see Gazette 1999, No. S584) (a)
 —
-Equal Opportunity for Women in the Workplace Amendment Act 1999
-183, 1999
-22 Dec 1999
-Schedules 1 and 3: 1 Jan 2000 Remainder: Royal Assent
-—
 (a)	The Equal Employment Opportunity (Commonwealth Authorities) Act 1987 was amended by Schedule 1 (items 424-433) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
@@ -192,11 +187,4 @@ S. 12
 am. No. 146, 1999
 Ss. 13, 14	
 rep. No. 146, 1999
-
-Note 2
-Subsection 3(1)—Schedule 1 (item 28) of the Equal Opportunity for Women in the Workplace Amendment Act 1999 provides as follows:
-Schedule 1  
-28  Subsection 3(1) (paragraph (b) of the definition of authority)
-Omit “Affirmative Action (Equal Employment Opportunity for Women) Act 1986”, substitute “Equal Opportunity for Women in the Workplace Act 1999”.
-The proposed amendment was misdescribed and is not incorporated in this compilation.
 
