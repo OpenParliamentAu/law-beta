@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00006/Html/CoaMinIndLonSerLeaFunAct92_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00322/Html/CoaMinIndLonSerLeaFunAct92_WD02_image001.gif)
 
 # Coal Mining Industry (Long Service Leave Funding) Act 1992
 
 **Act No. 60 of 1992 as amended**
 
-This compilation was prepared on 1 January 2010
- taking into account amendments up to Act No. 127 of 2009
+This compilation was prepared on 15 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -188,8 +188,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_.
 
-                    <a name="black-coal-mine-industri"></a>**_black coal mining industry_** has the same meaning as in the Black Coal Mining Industry Award 2010 as in force on 1 January 2010.
-
                     <a name="board"></a>**_Board_** means the Board of Directors of the Corporation.
 
                     <a name="chairperson"></a>**_Chairperson_** means Chairperson of the Board.
@@ -202,23 +200,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="elig-employe"></a>**_eligible employee_** means:
 
-                     (a)  an employee who is employed in the black coal mining industry by an employer engaged in the black coal mining industry, whose duties are directly connected with the day to day operation of a black coal mine; or
+                     (a)  a person employed in the black coal mining industry under a relevant industrial instrument, or the National Employment Standards, the duties of whose employment are carried out at or about a place where black coal is mined; or
 
-                     (b)  an employee who is employed in the black coal mining industry, whose duties are carried out at or about a place where black coal is mined and are directly connected with the day to day operation of a black coal mine; or
+                     (b)  a person employed by a company that mines black coal the duties of whose employment (wherever they are carried out) are directly connected with the day to day operation of a black coal mine; or
 
-                     (c)  an employee permanently employed with a mine rescue service for the purposes of the black coal mining industry; or
+                     (c)  a person permanently employed on a full-time basis in connection with a mines rescue service for the purposes of the black coal mining industry the duties of whose employment require him or her to be located at a mines rescue station; or
 
-                     (d)  a prescribed person who is employed in the black coal mining industry;
+                     (d)  any prescribed person who is, or is any person who is included in a prescribed class of persons who are, employed in the black coal mining industry;
 
-but does not include a person declared by the regulations not to be an eligible employee for the purposes of this Act.
+but does not include:
 
-Note:          For prescription or declaration by class, see subsection 13(3) of the _Legislative Instruments Act 2003_.
+                     (e)  a person the duties of whose employment are performed in South Australia; or
 
-                    <a name="employe"></a>**_employee_** means a national system employee as defined in section 13 of the _Fair Work Act 2009_.
+                      (f)  a person who is, or a person who is included in a class of person who are, declared by the regulations not to be an eligible employee or eligible employees for the purposes of this Act.
 
                     <a name="employe-repres-director"></a>**_employee-representative Director_** means a Director referred to in subsection 13(4), (5) or (6).
-
-                    <a name="employ"></a>**_employer_** means a national system employer as defined in section 14 of the _Fair Work Act 2009_.
 
                     <a name="employ-repres-director"></a>**_employer-representative Director_** means a Director referred to in subsection 13(2) or (3).
 
@@ -248,7 +244,7 @@ Note:          For prescription or declaration by class, see s
 
 that confers on employees in the black coal mining industry to whom the award, determination, order or agreement applies an entitlement to long service leave in circumstances set out in the award, determination, order or agreement, being an entitlement that continues to exist and accrue so long as the employees continue to be employed by any employer in that industry.
 
-             (2)  A regulation is not to be made prescribing a person for the purposes of paragraph (d) of the definition of **_eligible employee_** in subsection (1) unless the prescribing of that person for those purposes has been recommended to the Minister by the Board.
+             (2)  A regulation is not to be made prescribing a person or class of persons for the purposes of paragraph (d) of the definition of **_eligible employee_** in subsection (1) unless the prescribing of that person or class of persons for those purposes has been recommended to the Minister by the Board.
 
 ##### <a id="5"></a>5  Act to bind Crown
 
@@ -700,7 +696,7 @@ does not exceed $50,000 or, if a higher amount is prescribed, that higher amount
 
              (2)  For the purposes of subsection (1), the maximum reimbursable amount in respect of an eligible employee is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00006/Html/CoaMinIndLonSerLeaFunAct92_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00322/Html/CoaMinIndLonSerLeaFunAct92_WD02_image002.gif)
 
 where:
 
@@ -718,15 +714,11 @@ where:
 
                      (b)  if any production-related bonuses were paid to the employee in respect of his or her employment during the period of 52 weeks immediately before he or she was paid for, or commenced to take, the long service leave—the total of those bonuses divided by 52.
 
-             (3)  A reference in this section to an employee’s entitlement to long service leave, or to an employee’s entitlement to be paid for, or to take, long service leave, is a reference to the employee’s entitlement under any of the following:
+             (3)  A reference in this section to an employee’s entitlement to, to be paid for, or to take, long service leave is a reference to the employee’s entitlement:
 
-                     (a)  section 113 of the _Fair Work Act 2009_;
+                     (a)  in the case of an employee employed under a relevant industrial instrument—under that instrument; or
 
-                     (b)  a relevant industrial instrument;
-
-                     (c)  a contract of employment.
-
-Note:          Schedule 2 to the _Coal Mining Industry (Long Service Leave Funding) Amendment Act 2009_ extends the operation of section 113 of the _Fair Work Act 2009_.
+                     (b)  in any other case—under the employee’s contract of employment.
 
 ##### <a id="45"></a>45  Reimbursement of employers in respect of certain past payments for long service leave
 
@@ -1095,23 +1087,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Coal Mining Industry (Long Service Leave Funding) Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>127, 2009</div>
-  </td>
-  <td>
-    <div>10 Dec 2009</div>
-  </td>
-  <td>
-    <div>1 Jan 2010</div>
-  </td>
-  <td>
-    <div>Sch.1 (item 7) and Sch. 2 (item 1)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Coal Mining Industry (Long Service Leave Funding) Act 1992_ was amended by Schedule 2 (items 624–632) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
@@ -1272,7 +1247,7 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008; Nos. 54 and 127, 2009</div>
+    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1381,14 +1356,6 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 127, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 48A</div>
   </td>
   <td>
@@ -1434,33 +1401,5 @@ _Workplace Relations Amendment (A Stronger Safety Net) Act 2007
 ## 33  Substitution of parties to proceedings
 
 From the commencement of this Schedule, the Workplace Authority Director is substituted for the Employment Advocate as a party in any proceedings that were pending in any court or tribunal immediately before that commencement.
-
-* * *
-
-_Coal Mining Industry (Long Service Leave Funding) Amendment Act 2009 (No. 127, 2009)_
-
-## Schedule 1
-
-## 7  Application of amendments
-
-The amendments made by this Schedule apply in relation to industry and employment occurring on or after the commencement of this Schedule.
-
-## Schedule 2
-
-## 1  Extended operation of section 113 of the _Fair Work Act 2009_
-
-(1)        This item applies to an eligible employee if there are no applicable award-derived long service leave terms in relation to the employee (apart from this item).
-
-(2)        Section 113 of the _Fair Work Act 2009_ applies to the eligible employee, and his or her employment as an eligible employee, as if The Coal Mining Industry (Production and Engineering) Consolidated Award 1997 would have applied to the employee immediately before the commencement of Part 2-2 of that Act if the employee had at that time been in that employment.
-
-_Note:       This ensures there are applicable award-derived long service leave terms in relation to the eligible employee based on that award. Therefore subsection 113(1) of the Fair Work Act 2009 entitles the employee to long service leave in accordance with those terms, subject to subsection 113(2) of that Act._
-
-(3)        This item does not affect the operation of section 113 of the _Fair Work Act 2009_ apart from this item.
-
-(4)        In this item:
-
-**_applicable award-derived long service leave terms_** has the meaning given by subsection 113(3) of the _Fair Work Act 2009_.
-
-**_eligible employee_** has the same meaning as in the _Coal Mining Industry (Long Service Leave Funding) Act 1992_.
 
  
