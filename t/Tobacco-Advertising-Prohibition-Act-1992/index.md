@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2012C00653/Html/a33e23f5-8181-4d17-95eb-334ee00d0820_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00285/Html/f8e244e1-ce6d-413e-a4b9-137e39253789_files/image001.gif)
 
 # Tobacco Advertising Prohibition Act 1992
 
 **Act No. 218 of 1992 as amended**
 
-This compilation was prepared on 6 September 2012
+This compilation was prepared on 9 March 2012
  taking into account amendments up to Act No. 5 of 2012
 
-[**Note**: Subsections 17(2)–(5) and Division 3 of Part 3 (sections 23–25) of 
+[**Note**: Subsections 17(2)–(5) and Division 3 of Part 3 (sections 23–25) of 
  this Act are not in force, _see_ s. 2(2) and Note 1]
 
 The text of any of those amendments not in force 
@@ -47,7 +47,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Meaning of _tobacco advertisement_
 
-[10](#10).          Meaning of _publish_ a tobacco advertisement
+[10](#10).          Meaning of _publish a tobacco advertisement_
 
 [11](#11).          Meaning of _holding company_ and _related body corporate_
 
@@ -65,13 +65,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [15](#15).          Tobacco advertisements not to be published
 
-[15A](#15A).       Tobacco advertisements not to be published electronically
-
 [16](#16).          Point of sale advertising permitted
-
-[16A](#16A).       Point of sale advertising permitted—internet sales
-
-[16B](#16B).       Conduct by carriers etc  permitted
 
 [17](#17).          Periodicals printed outside Australia—acts of publication permitted
 
@@ -157,7 +151,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  The object is to improve public health.
 
-##### <a id="4"></a>4  Act extends to external Territories
+##### <a id="4"></a>4  Act extends to external Territories
 
                    This Act extends to all the external Territories.
 
@@ -223,7 +217,7 @@ this Act does not exclude or limit the application of that law to that conduct.
 
                      (a)  either:
 
-                              (i)  particular conduct is permitted by section 14, 16, 16A, 16B, 17, 18, 19 or 20; or
+                              (i)  particular conduct is permitted by section 14, 16, 17, 18, 19 or 20; or
 
                              (ii)  a person could, in respect of particular conduct, establish a defence referred to in section 21 or 22; and
 
@@ -237,7 +231,7 @@ this Act does not exclude or limit the application of that law to that conduct.
 
 ##### <a id="7"></a>7  Permission provisions only have effect for the purposes of this Act
 
-                   Sections 14, 16, 16A, 16B, 17, 18, 19 and 20 only have effect for the purposes of this Act.
+                   Sections 14, 16, 17, 18, 19 and 20 only have effect for the purposes of this Act.
 
 ## Part 2—Interpretation
 
@@ -258,8 +252,6 @@ this Act does not exclude or limit the application of that law to that conduct.
                     <a name="displai"></a>**_display_** includes continue to display.
 
                     <a name="distributor-tobacco-product"></a>**_distributor of tobacco products_** has a meaning affected by section 12.
-
-                    <a name="electron"></a><a name="electron"></a>**_electronically_**: a person publishes a tobacco advertisement **_electronically_** if the person publishes the tobacco advertisement within the meaning of paragraph 10(1)(da).
 
                     <a name="exempt-librari"></a>**_exempt library_** means:
 
@@ -525,11 +517,11 @@ Meaning of words
 
                     <a name="word"></a>**_words_** includes abbreviations, initials and numbers.
 
-##### <a id="10"></a>10  Meaning of _publish_ a tobacco advertisement
+##### <a id="10"></a>10  Meaning of _publish a tobacco advertisement_ 
 
 Basic meaning
 
-             (1)  Subject to this section, for the purposes of this Act, a person **_publishes_** a tobacco advertisement if the person does any of the following things:
+             (1)  Subject to this section, for the purposes of this Act, a person publishes a tobacco advertisement if the person does any of the following things:
 
                      (a)  the person includes the advertisement in a document (including, for example, a newspaper, magazine, program, leaflet or ticket) that is available, or distributed, to the public or a section of the public;
 
@@ -548,12 +540,6 @@ Basic meaning
                              (ii)  public transport; or
 
                             (iii)  a workplace;
-
-                   (da)  the person brings the advertisement, or something that contains the advertisement, to the notice of, or disseminates the advertisement, or something that contains the advertisement, to, the public, or a section of the public, by an electronic means in connection with a telegraphic, telephonic or other like service within the meaning of paragraph 51(v) of the Constitution including, for example:
-
-                              (i)  by means of the internet; or
-
-                             (ii)  by making the advertisement remotely accessible by a computer, mobile phone or any other electronic device;
 
                      (e)  the person otherwise brings the advertisement, or something that contains the advertisement, to the notice of, or disseminates the advertisement, or something that contains the advertisement, to, the public, or a section of the public, by any means (including, for example, by means of a film, video, computer disk or electronic medium).
 
@@ -599,8 +585,6 @@ Exception—acknowledgments of assistance or support
 
                     Penalty:  120 penalty units.
 
-Note:          A defendant bears an evidential burden in relation to the matters in section 14: see subsection 13.3(3) of the _Criminal Code_.
-
              (2)  This section has effect subject to section 26A.
 
 ##### <a id="14"></a>14  Accidental or incidental broadcast permitted
@@ -617,157 +601,17 @@ Note:          A defendant bears an evidential burden in relat
 
              (1)  A regulated corporation must not:
 
-                     (a)  publish a tobacco advertisement in   Australia on or after 1 July 1993, otherwise than as permitted by section 16, 16B, 17, 18, 19 or 20; or
+                     (a)  publish a tobacco advertisement in   Australia on or after 1 July 1993, otherwise than as permitted by section 16, 17, 18, 19 or 20; or
 
                      (b)  authorise or cause a tobacco advertisement to be so published.
 
-Note:          A defendant bears an evidential burden in relation to the matters in sections 16 and 16B to 20: see subsection 13.3(3) of the _Criminal Code_.
+             (2)  A person must not publish a tobacco advertisement in Australia on or after 1 July 1993 in the course of, or for the purposes of, regulated trade or commerce otherwise than as permitted by section 16, 17, 18, 19 or 20.
 
-             (2)  A person must not publish a tobacco advertisement in Australia on or after 1 July 1993 in the course of, or for the purposes of, regulated trade or commerce otherwise than as permitted by section 16, 16B, 17, 18, 19 or 20.
-
-Note:          A defendant bears an evidential burden in relation to the matters in sections 16 and 16B to 20: see subsection 13.3(3) of the _Criminal Code_.
-
-             (3)  A person must not publish a tobacco advertisement in a Territory, other than the Australian Capital Territory, the Northern Territory or Norfolk Island, on or after 1 July 1993 otherwise than as permitted by section 16, 16B, 17, 18, 19 or 20.
-
-Note:          A defendant bears an evidential burden in relation to the matters in sections 16 and 16B to 20: see subsection 13.3(3) of the _Criminal Code_.
+             (3)  A person must not publish a tobacco advertisement in a Territory, other than the Australian Capital Territory, the Northern Ter  ritory or Norfolk Island, on or after 1 July 1993 otherwise than as permitted by section 16, 17, 18, 19 or 20.
 
              (4)  This section has effect subject to section 26A.
 
                     Penalty:  120 penalty units.
-
-##### <a id="15A"></a>15A  Tobacco advertisements not to be published electronically
-
-Offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person publishes something, or authorises or causes something to be published; and
-
-                     (b)  the thing is a tobacco advertisement; and
-
-                     (c)  the tobacco advertisement is published electronically; and
-
-                     (d)  the tobacco advertisement is published in Australia.
-
-                    Penalty:  120 penalty units.
-
-Exceptions
-
-             (2)  Subsection (1) does not apply to the publication of a tobacco advertisement if its publication is permitted by any of sections 16A, 16B, 17, 19 and 20.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
-
-Geographical application
-
-             (3)  Section 15.2 of the _Criminal Code_ (extended geographical jurisdiction—category B) applies to an offence against subsection (1).
-
-Meaning of **published in Australia**
-
-             (4)  In this section, a tobacco advertisement that is published electronically is **_published in Australia_** if:
-
-                     (a)  the advertisement originates in Australia; or
-
-                     (b)  all of the following apply:
-
-                              (i)  the advertisement did not originate in Australia, or the advertisement’s origin cannot be determined;
-
-                             (ii)  the advertisement has an Australian link;
-
-                            (iii)  the advertisement is accessible, or intended to be accessible, by the public, or a section of the public, in Australia.
-
-             (5)  A tobacco advertisement has an **_Australian link_** if:
-
-                     (a)  at a particular time, the advertisement is published, or authorised or caused to be published, by an entity, or the person or persons constituting or responsible for an entity; and
-
-                     (b)  at that time, the circumstances described in the following table apply to the entity.
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="28%">
-  <col width="62%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Entity</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Applicable circumstances</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>Individual</div>
-  </td>
-  <td>
-    <div>Any of the following circumstances:</div>
-    <div>(a) the individual is an Australian citizen;</div>
-    <div>(b) the individual is an individual whose continued presence in Australia
-      is not subject to a limitation as to time imposed by law;</div>
-    <div>(c) the individual is physically present in Australia.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>Body corporate</div>
-  </td>
-  <td>
-    <div>Any of the following circumstances:</div>
-    <div>(a) the body corporate has been incorporated in Australia;</div>
-    <div>(b) the body corporate has its central management and control in Australia.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>Trust</div>
-  </td>
-  <td>
-    <div>The trust has been created in Australia.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>Partnership</div>
-  </td>
-  <td>
-    <div>The partnership has been formed in Australia.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>Unincorporated body</div>
-  </td>
-  <td>
-    <div>The unincorporated body has its central management and control in Australia.</div>
-  </td>
-</tr></table>
 
 ##### <a id="16"></a>16  Point of sale advertising permitted
 
@@ -787,75 +631,9 @@ Meaning of **published in Australia**
 
                              (ii)  there is such a law, but it does not contain any provisions expressly dealing with the display of advertisements for tobacco products at or on places where tobacco products are offered for sale to the public; and
 
-                     (b)  the display of the advertisement complies with all applicable requirements as to the size, content, format and location of the advertisement set out in regulations made for the purposes of this subsection.
+                     (b)  the display of the advertisement complies with all applicable requirements as to the size, content and location of the advertisement set out in regulations made for the purposes of this subsection.
 
              (3)  For the purposes of this section, a vending machine from which tobacco products can be purchased by the public is taken to be a place where tobacco products are offered for sale to the public.
-
-##### <a id="16A"></a>16A  Point of sale advertising permitted—internet sales
-
-             (1)  A person may publish a tobacco advertisement on the internet if:
-
-                     (a)  the advertisement is accessible by the public, or a section of the public, in a State or Territory; and
-
-                     (b)  the advertisement provides a facility for a person accessing the advertisement to purchase a tobacco product; and
-
-                     (c)  a law of the State or Territory regulates the advertising of tobacco products on the internet; and
-
-                     (d)  that law contains provisions expressly dealing with the publication of advertisements for tobacco products on the internet that provide a facility for a person accessing the advertisement to purchase a tobacco product; and
-
-                     (e)  under those provisions, publishing the advertisement is not an offence.
-
-             (2)  A person may publish a tobacco advertisement on the internet if:
-
-                     (a)  the advertisement is accessible by the public, or a section of the public, in a State or Territory; and
-
-                     (b)  the advertisement provides a facility for a person accessing the tobacco advertisement to purchase a tobacco product; and
-
-                     (c)  either:
-
-                              (i)  there is no law of the State or Territory that regulates the advertising of tobacco products on the internet; or
-
-                             (ii)  there is such a law, but it does not contain any provisions expressly dealing with the publication of advertisements for tobacco products on the internet that provide a facility for a person accessing the advertisement to purchase a tobacco product; and
-
-                     (d)  the publication of the advertisement complies with all applicable requirements set out in regulations made for the purposes of this subsection.
-
-             (3)  In this section, a tobacco advertisement **_provides a facility_** for a person accessing the advertisement to purchase a tobacco product if the advertisement is published in conjunction with the facility or otherwise includes or provides the facility.
-
-             (4)  Regulations made for the purposes of subsection (2) may prescribe requirements as to any of the following:
-
-                     (a)  the size, content, format and location of tobacco advertisements;
-
-                     (b)  without limiting paragraph (a)—the inclusion in tobacco advertisements of any of the following:
-
-                              (i)  health warnings;
-
-                             (ii)  warnings about age restrictions on the sale of tobacco products;
-
-                            (iii)  information about any fees, taxes and charges payable in relation to tobacco products;
-
-                     (c)  age restricted access systems for access to tobacco advertisements.
-
-##### <a id="16B"></a>16B  Conduct by carriers etc. permitted
-
-             (1)  A person may publish a tobacco advertisement if:
-
-                     (a)  the person is a carrier and, in publishing the tobacco advertisement, is acting solely in the person’s capacity as a carrier; or
-
-                     (b)  the person is a carriage service provider and, in publishing the tobacco advertisement, is acting solely in the person’s capacity as a carriage service provider; or
-
-                     (c)  the person is an internet service provider and, in publishing the tobacco advertisement, is acting solely in the person’s capacity as an internet service provider; or
-
-                     (d)  the person is an internet content host and, in publishing the tobacco advertisement, is acting solely in the person’s capacity as an internet content host.
-
-             (2)  In this section:
-
-                    <a name="carriag-servic-provid"></a>**_carriage service provider_** has the same meaning as in the _Telecommunications Act 1997_.
-
-                    <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications Act 1997_.
-
-                    <a name="internet-content-host"></a>**_internet content host_** has the same meaning as in Schedule 5 to the _Broadcasting Services Act 1992_.
-
-                    <a name="internet-servic-provid"></a>**_internet service provider_** has the same meaning as in Schedule 5 to the _Broadcasting Services Act 1992_.
 
 ##### <a id="17"></a>17  Periodicals printed outside Australia—acts of publication permitted
 
@@ -1109,7 +887,7 @@ the other person is taken to have published the advertisement under the contract
 
 ##### <a id="30"></a>30  Review of decisions
 
-                   Subject to the _Administrative Appeals Tribunal Act 1975_, an application may be made to the Administrative Appeals Tribunal for a review of a decision made under subsection 9(5), 17(2), 18(2) or 18(3).
+                   Subject to the _Administrative Appeals Tribunal Act 1975_, an application may be made to the Administrative Appeals Tribunal for a review of a decision made under subsection 9(5), 17(2), 18(2) or 18(3).
 
 ##### <a id="31"></a>31  Offences by partnerships and unincorporated bodies
 
@@ -1231,9 +1009,9 @@ being an offence that relates to this Act.
 
 The _Tobacco Advertising Prohibition Act 1992_ as shown in this compilation comprises Act No. 218, 1992 amended as indicated in the Tables below.
 
-Subsections 17(2)–(5) and Division 3 of Part 3 (sections 23–25) of this Act are not in force, _see_ s. 2(2).
+Subsections 17(2)–(5) and Division 3 of Part 3 (sections 23–25) of this Act are not in force, _see_ s. 2(2).
 
-Schedule (item 11) of the _Tobacco Advertising Prohibition Amendment Act 1995_ (No. 17, 1995) commenced on 29 March 1995 and amended section 23\. The amendment is incorporated in this compilation.
+Schedule (item 11) of the _Tobacco Advertising Prohibition Amendment Act 1995_ (No. 17, 1995) commenced on 29 March 1995 and amended section 23\. The amendment is incorporated in this compilation.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -1282,7 +1060,7 @@ of Assent</div>
     <div>24 Dec 1992</div>
   </td>
   <td>
-    <div>Ss. 17(2)–(5) and Div. 3 of Part 3 (ss. 23–25): ( <i>see</i>s. 2(2)) 
+    <div>Ss. 17(2)–(5) and Div. 3 of Part 3 (ss. 23–25): ( <i>see</i>s. 2(2)) 
 Part 5 (ss. 
 35–37): 1 July 1993 
 Remainder: Royal Assent</div>
@@ -1319,7 +1097,7 @@ Remainder: Royal Assent</div>
     <div>3 Aug 2000</div>
   </td>
   <td>
-    <div>Schedule 3 (item 7): 1 Jan 2001 ( <i>see Gazette</i>2000, No. GN50) <i>(a)</i></div>
+    <div>Schedule 3 (item 7): 1 Jan 2001 ( <i>see Gazette</i>2000, No. GN50) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1336,7 +1114,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>24 Nov 2000</div>
+    <div>24 Nov 2000</div>
   </td>
   <td>
     <div>—</div>
@@ -1353,7 +1131,7 @@ Remainder: Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (item 549): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (item 549): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -1422,7 +1200,7 @@ Remainder: Royal Assent</div>
     <div>6 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 1: 6 Sept 2012 
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1574,22 +1352,6 @@ _(c)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 2</b></div>
   </td>
   <td>
@@ -1601,7 +1363,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 17, 1995; No. 108, 2000; No. 5, 2012</div>
+    <div>am. No. 17, 1995; No. 108, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1614,18 +1376,10 @@ _(c)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 10</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 17, 1995; No. 5, 2012</div>
+    <div>am. No. 17, 1995</div>
   </td>
 </tr>
 <tr>
@@ -1670,14 +1424,6 @@ _(c)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
 </tr>
 <tr>
   <td>
-    <div>Note to s. 13(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -1689,63 +1435,7 @@ _(c)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
     <div>S. 15</div>
   </td>
   <td>
-    <div>am. No. 17, 1995; No. 111, 2001; No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 15(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15A</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16A</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16B</div>
-  </td>
-  <td>
-    <div>ad. No. 5, 2012</div>
+    <div>am. No. 17, 1995; No. 111, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1829,6 +1519,294 @@ _(c)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
   </td>
 </tr></table>
 
+### Note 2
+
+_Tobacco Advertising Prohibition Amendment Act 2012 (No. 5, 2012)_
+
+The following amendments commence on 6 September 2012 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subparagraph 6(3)(a)(i)
+
+After “16,”, insert “16A, 16B,”.
+
+## 2  Section 7
+
+After “16,”, insert “16A, 16B,”.
+
+## 3  Section 8
+
+Insert:
+
+                    <a name="electron"></a><a name="electron"></a>**_electronically_**: a person publishes a tobacco advertisement **_electronically_** if the person publishes the tobacco advertisement within the meaning of paragraph 10(1)(da).
+
+## 4  Subsection 10(1)
+
+Omit “publishes”, substitute “**_publishes_**”.
+
+_Note:       The heading to section 10 is altered by omitting “a tobacco advertisement” and substituting “a tobacco advertisement”._
+
+## 5  After paragraph 10(1)(d)
+
+Insert:
+
+                   (da)  the person brings the advertisement, or something that contains the advertisement, to the notice of, or disseminates the advertisement, or something that contains the advertisement, to, the public, or a section of the public, by an electronic means in connection with a telegraphic, telephonic or other like service within the meaning of paragraph 51(v) of the Constitution including, for example:
+
+                              (i)  by means of the internet; or
+
+                             (ii)  by making the advertisement remotely accessible by a computer, mobile phone or any other electronic device;
+
+## 6  At the end of subsection 13(1) (after the penalty)
+
+Insert:
+
+Note:          A defendant bears an evidential burden in relation to the matters in section 14: see subsection 13.3(3) of the _Criminal Code_.
+
+## 7  Paragraph 15(1)(a)
+
+After “16,”, insert “16B,”.
+
+## 8  At the end of subsection 15(1)
+
+Add:
+
+Note:          A defendant bears an evidential burden in relation to the matters in sections 16 and 16B to 20: see subsection 13.3(3) of the _Criminal Code_.
+
+## 9  Subsection 15(2)
+
+After “16,”, insert “16B,”.
+
+## 10  At the end of subsection 15(2)
+
+Add:
+
+Note:          A defendant bears an evidential burden in relation to the matters in sections 16 and 16B to 20: see subsection 13.3(3) of the _Criminal Code_.
+
+## 11  Subsection 15(3)
+
+After “16,”, insert “16B,”.
+
+## 12  At the end of subsection 15(3)
+
+Add:
+
+Note:          A defendant bears an evidential burden in relation to the matters in sections 16 and 16B to 20: see subsection 13.3(3) of the _Criminal Code_.
+
+## 13  After section 15
+
+Insert:
+
+##### <a id="15A"></a>15A  Tobacco advertisements not to be published electronically
+
+Offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person publishes something, or authorises or causes something to be published; and
+
+                     (b)  the thing is a tobacco advertisement; and
+
+                     (c)  the tobacco advertisement is published electronically; and
+
+                     (d)  the tobacco advertisement is published in Australia.
+
+                    Penalty:  120 penalty units.
+
+Exceptions
+
+             (2)  Subsection (1) does not apply to the publication of a tobacco advertisement if its publication is permitted by any of sections 16A, 16B, 17, 19 and 20.
+
+Note:          A defendant bears an evidential burden in relation to the matters in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
+
+Geographical application
+
+             (3)  Section 15.2 of the _Criminal Code_ (extended geographical jurisdiction—category B) applies to an offence against subsection (1).
+
+Meaning of **published in Australia**
+
+             (4)  In this section, a tobacco advertisement that is published electronically is **_published in Australia_** if:
+
+                     (a)  the advertisement originates in Australia; or
+
+                     (b)  all of the following apply:
+
+                              (i)  the advertisement did not originate in Australia, or the advertisement’s origin cannot be determined;
+
+                             (ii)  the advertisement has an Australian link;
+
+                            (iii)  the advertisement is accessible, or intended to be accessible, by the public, or a section of the public, in Australia.
+
+             (5)  A tobacco advertisement has an **_Australian link_** if:
+
+                     (a)  at a particular time, the advertisement is published, or authorised or caused to be published, by an entity, or the person or persons constituting or responsible for an entity; and
+
+                     (b)  at that time, the circumstances described in the following table apply to the entity.
+
+<table>
+<colgroup>
+  <col width="10%">
+  <col width="28%">
+  <col width="62%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>
+        <b>Item</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Entity</b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>Applicable circumstances</b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>Individual</div>
+  </td>
+  <td>
+    <div>Any of the following circumstances:</div>
+    <div>(a) the individual is an Australian citizen;</div>
+    <div>(b) the individual is an individual whose continued presence in Australia
+      is not subject to a limitation as to time imposed by law;</div>
+    <div>(c) the individual is physically present in Australia.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>Body corporate</div>
+  </td>
+  <td>
+    <div>Any of the following circumstances:</div>
+    <div>(a) the body corporate has been incorporated in Australia;</div>
+    <div>(b) the body corporate has its central management and control in Australia.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>Trust</div>
+  </td>
+  <td>
+    <div>The trust has been created in Australia.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>Partnership</div>
+  </td>
+  <td>
+    <div>The partnership has been formed in Australia.</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>Unincorporated body</div>
+  </td>
+  <td>
+    <div>The unincorporated body has its central management and control in Australia.</div>
+  </td>
+</tr></table>
+
+## 14  Paragraph 16(2)(b)
+
+After “content”, insert “, format”.
+
+## 15  After section 16
+
+Insert:
+
+##### <a id="16A"></a>16A  Point of sale advertising permitted—internet sales
+
+             (1)  A person may publish a tobacco advertisement on the internet if:
+
+                     (a)  the advertisement is accessible by the public, or a section of the public, in a State or Territory; and
+
+                     (b)  the advertisement provides a facility for a person accessing the advertisement to purchase a tobacco product; and
+
+                     (c)  a law of the State or Territory regulates the advertising of tobacco products on the internet; and
+
+                     (d)  that law contains provisions expressly dealing with the publication of advertisements for tobacco products on the internet that provide a facility for a person accessing the advertisement to purchase a tobacco product; and
+
+                     (e)  under those provisions, publishing the advertisement is not an offence.
+
+             (2)  A person may publish a tobacco advertisement on the internet if:
+
+                     (a)  the advertisement is accessible by the public, or a section of the public, in a State or Territory; and
+
+                     (b)  the advertisement provides a facility for a person accessing the tobacco advertisement to purchase a tobacco product; and
+
+                     (c)  either:
+
+                              (i)  there is no law of the State or Territory that regulates the advertising of tobacco products on the internet; or
+
+                             (ii)  there is such a law, but it does not contain any provisions expressly dealing with the publication of advertisements for tobacco products on the internet that provide a facility for a person accessing the advertisement to purchase a tobacco product; and
+
+                     (d)  the publication of the advertisement complies with all applicable requirements set out in regulations made for the purposes of this subsection.
+
+             (3)  In this section, a tobacco advertisement **_provides a facility_** for a person accessing the advertisement to purchase a tobacco product if the advertisement is published in conjunction with the facility or otherwise includes or provides the facility.
+
+             (4)  Regulations made for the purposes of subsection (2) may prescribe requirements as to any of the following:
+
+                     (a)  the size, content, format and location of tobacco advertisements;
+
+                     (b)  without limiting paragraph (a)—the inclusion in tobacco advertisements of any of the following:
+
+                              (i)  health warnings;
+
+                             (ii)  warnings about age restrictions on the sale of tobacco products;
+
+                            (iii)  information about any fees, taxes and charges payable in relation to tobacco products;
+
+                     (c)  age restricted access systems for access to tobacco advertisements.
+
+##### <a id="16B"></a>16B  Conduct by carriers etc. permitted
+
+             (1)  A person may publish a tobacco advertisement if:
+
+                     (a)  the person is a carrier and, in publishing the tobacco advertisement, is acting solely in the person’s capacity as a carrier; or
+
+                     (b)  the person is a carriage service provider and, in publishing the tobacco advertisement, is acting solely in the person’s capacity as a carriage service provider; or
+
+                     (c)  the person is an internet service provider and, in publishing the tobacco advertisement, is acting solely in the person’s capacity as an internet service provider; or
+
+                     (d)  the person is an internet content host and, in publishing the tobacco advertisement, is acting solely in the person’s capacity as an internet content host.
+
+             (2)  In this section:
+
+                    <a name="carriag-servic-provid"></a>**_carriage service provider_** has the same meaning as in the _Telecommunications Act 1997_.
+
+                    <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications Act 1997_.
+
+                    <a name="internet-content-host"></a>**_internet content host_** has the same meaning as in Schedule 5 to the _Broadcasting Services Act 1992_.
+
+                    <a name="internet-servic-provid"></a>**_internet service provider_** has the same meaning as in Schedule 5 to the _Broadcasting Services Act 1992_.
+
+As at 9 March 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1852,6 +1830,8 @@ _Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2
 * * *
 
 _Tobacco Advertising Prohibition Amendment Act 2012 (No. 5, 2012)_
+
+The following provision commences on 6 September 2012 unless proclaimed earlier:
 
 ## Schedule 1
 
