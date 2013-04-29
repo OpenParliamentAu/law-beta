@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00153/Html/33110c18-4aca-4956-8329-a12b2d353090_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00011/Html/LawEnforceIntegrityCommr2006_image001.gif)
 
 # Law Enforcement Integrity Commissioner Act 2006
 
 **Act No. 85 of 2006 as amended**
 
-This compilation was prepared on 29 March 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 30 December 2006
+ taking into account amendments up to Act No. 170 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -168,7 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [56](#56).          Comments by head of agency
 
-[57](#57).          Follow‑up action on report
+[57](#57).          Follow-up action on report
 
 [58](#58).          Advising person who referred corruption issue of outcome of the investigation
 
@@ -242,7 +242,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [79](#79).          Legal practitioner not required to disclose privileged communications
 
-[80](#80).          Self‑incrimination etc 
+[80](#80).          Self-incrimination etc 
 
 [81](#81).          Protection of person required to give information and produce documents
 
@@ -266,7 +266,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [87](#87).          Evidence on oath or by affirmation
 
-[88](#88).          Examination and cross‑examination of witnesses
+[88](#88).          Examination and cross-examination of witnesses
 
 [89](#89).          Giving evidence in private
 
@@ -286,7 +286,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [95](#95).          Legal practitioner not required to disclose privileged communications
 
-[96](#96).          Self‑incrimination etc 
+[96](#96).          Self-incrimination etc 
 
         **Subdivision F—Court orders for delivery of witness’s passport and witness’s arrest**
 
@@ -314,7 +314,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [105](#105).        Power to enter places occupied by law enforcement agencies
 
-[106](#106).        Receipts of things seized without warrant
+[106](#106).        Receipts of things seized under warrant
 
     **Division 4—Search warrants** 
 
@@ -422,9 +422,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [147](#147).        Evidence of, or information suggesting, wrongful conviction
 
-**Part 11—Attorney‑General’s certificates about release of information**
+**Part 11—Attorney-General’s certificates about release of information**
 
-[149](#149).        Attorney‑General’s certificate in relation to particular information
+[149](#149).        Attorney-General’s certificate in relation to particular information
 
 [150](#150).        Integrity Commissioner’s access to section 149 certified information
 
@@ -552,13 +552,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [201](#201).        Annual report
 
-[202](#202).        Inter‑Governmental Committee comments on annual report
+[202](#202).        Inter-Governmental Committee comments on annual report
 
 [203](#203).        Reports on investigations and public inquiries
 
 [204](#204).        Special reports
 
-[205](#205).        Inter‑Governmental Committee comments on special report in relation to ACC
+[205](#205).        Inter-Governmental Committee comments on special report in relation to ACC
 
 [206](#206).        Contents of annual or special report
 
@@ -608,7 +608,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to provide for the appointment of the Integrity Commissioner, to set out the functions and powers of the Integrity Commissioner, and for related purposes
+ 
+
+An Act to provide for the appointment of the Integrity Commissioner, to set out the functions and powers of the Integrity Commissioner, and for related purposes
 
 ## Part 1—Preliminary
 
@@ -877,7 +879,7 @@ but does not include a criminal prosecution for an offence under either of those
 
                     <a name="integr-commission"></a>**_Integrity Commissioner_** means the Integrity Commissioner appointed under section 175.
 
-                    <a name="inter-government-committe"></a>**_Inter‑Governmental Committee_** means the Inter‑Governmental Committee established by section 8 of the _Australian Crime Commission Act 2002_.
+                    <a name="inter-government-committe"></a>**_Inter-Governmental Committee_** means the Inter-Governmental Committee established by section 8 of the _Australian Crime Commission Act 2002_.
 
                     <a name="investig-warrant"></a>**_investigation warrant_** means a warrant to search for a thing that may be relevant to:
 
@@ -929,7 +931,7 @@ but does not include a criminal prosecution for an offence under either of those
 
                     <a name="law-enforc-secreci-provision"></a>**_law enforcement secrecy provision_** means:
 
-                     (a)  Part 11 of the _Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006_; or
+                     (a)  Part 11 of the _Anti-Money Laundering and Counter-Terrorism Financing Act 2006_; or
 
                      (b)  section 45 of the _Surveillance Devices Act 2004_; or
 
@@ -941,7 +943,7 @@ but does not include a criminal prosecution for an offence under either of those
 
                      (a)  a member, or member of staff, of an authority established by or under a law of a State or Territory for purposes that include providing legal assistance; or
 
-                     (b)  a person to whom the Attorney‑General has delegated his or her powers and functions under section 103.
+                     (b)  a person to whom the Attorney-General has delegated his or her powers and functions under section 103.
 
                     <a name="legal-practition"></a>**_legal practitioner_** means a barrister, a solicitor, a barrister and solicitor or a legal practitioner, of the High Court or of the Supreme Court of a State or Territory.
 
@@ -2579,7 +2581,7 @@ to the extent to which the report relates to the law enforcement agency.
 
                    If the Integrity Commissioner gives the head of a law enforcement agency a copy of a report, or a supplementary report, under section 55, the head of the agency may give the Integrity Commissioner such comments concerning the report, or supplementary report, as he or she wishes to make.
 
-##### <a id="57"></a>57  Follow‑up action on report
+##### <a id="57"></a>57  Follow-up action on report
 
              (1)  The Integrity Commissioner may request the head of a law enforcement agency to whom a report is given under subsection 55(2) to give the Integrity Commissioner, within a specified time, details of any action that the head of the agency proposes to take with respect to a recommendation included in the report.
 
@@ -2813,7 +2815,7 @@ the head of the agency must take such steps as the head of the agency considers 
 
 #### Subdivision B—Reporting by Commonwealth government agencies at end of investigations
 
-##### <a id="66"></a>66  Final report on investigation
+##### <a id="66"></a>66  Final report on investigation
 
              (1)  After a Commonwealth government agency completes:
 
@@ -3151,7 +3153,7 @@ Note 2:       See also subsection 150(2) in relation to section 14
 
 Note 1:       A legal practitioner may refuse to produce a document or thing in certain circumstances: see section 79.
 
-Note 2:       This section is not subject to the privilege against self‑incrimination but there are limits on the uses to which the evidence the person gives may be put: see section 80.
+Note 2:       This section is not subject to the privilege against self-incrimination but there are limits on the uses to which the evidence the person gives may be put: see section 80.
 
 ##### <a id="79"></a>79  Legal practitioner not required to disclose privileged communications
 
@@ -3181,9 +3183,9 @@ he or she must, if required by the Integrity Commissioner, give the Integrity Co
 
              (5)  This section does not affect the law relating to legal professional privilege.
 
-##### <a id="80"></a>80  Self‑incrimination etc.
+##### <a id="80"></a>80  Self-incrimination etc.
 
-Self‑incrimination
+Self-incrimination
 
              (1)  A person is not excused from:
 
@@ -3497,9 +3499,9 @@ Note 2:       This means that a hearing is a **_judicial proceeding_
 
              (4)  The Integrity Commissioner may allow a person attending a hearing who has been sworn, or who has made an affirmation, to give evidence by tendering a written statement and verifying it by oath or affirmation.
 
-##### <a id="88"></a>88  Examination and cross‑examination of witnesses
+##### <a id="88"></a>88  Examination and cross-examination of witnesses
 
-                   At a hearing, the following persons may, so far as the Integrity Commissioner thinks appropriate, examine or cross‑examine any witness on any matter that the Integrity Commissioner considers relevant:
+                   At a hearing, the following persons may, so far as the Integrity Commissioner thinks appropriate, examine or cross-examine any witness on any matter that the Integrity Commissioner considers relevant:
 
                      (a)  counsel assisting the Integrity Commissioner generally or in relation to the investigation or public inquiry to which the hearing relates;
 
@@ -3821,7 +3823,7 @@ Failure to swear an oath, make an affirmation or answer a question
 
 Note 1:       A legal practitioner may refuse to answer a question in certain circumstances: see section 95.
 
-Note 2:       This subsection is not subject to the privilege against self‑incrimination but there are limits on the uses to which the evidence the person gives may be put: see section 96.
+Note 2:       This subsection is not subject to the privilege against self-incrimination but there are limits on the uses to which the evidence the person gives may be put: see section 96.
 
              (3)  Subsection (2) has effect subject to section 150 (which deals with section 149 certified information).
 
@@ -3837,7 +3839,7 @@ Failure to produce a document or thing
 
 Note 1:       A legal practitioner may refuse to produce a document or thing in certain circumstances: see section 95.
 
-Note 2:       This subsection is not subject to the privilege against self‑incrimination but there are limits on the uses to which the evidence the person gives may be put: see section 96.
+Note 2:       This subsection is not subject to the privilege against self-incrimination but there are limits on the uses to which the evidence the person gives may be put: see section 96.
 
              (5)  Subsection (4) has effect subject to section 150 (which deals with section 149 certified information).
 
@@ -3907,9 +3909,9 @@ he or she must, if required by the Integrity Commissioner, give the Integrity Co
 
              (5)  This section does not affect the law relating to legal professional privilege.
 
-##### <a id="96"></a>96  Self‑incrimination etc.
+##### <a id="96"></a>96  Self-incrimination etc.
 
-Self‑incrimination
+Self-incrimination
 
              (1)  A person is not excused from:
 
@@ -4191,7 +4193,7 @@ and the Judge may exercise any of the powers under subsection (2).
 
 ##### <a id="103"></a>103  Person may apply for legal and financial assistance
 
-             (1)  A person who is summoned under section 83 to attend a hearing before the Integrity Commissioner may apply to the Attorney‑General for assistance in respect of:
+             (1)  A person who is summoned under section 83 to attend a hearing before the Integrity Commissioner may apply to the Attorney-General for assistance in respect of:
 
                      (a)  his or her attendance at the hearing; or
 
@@ -4207,17 +4209,17 @@ Note 2:       A person may also apply for assistance in respect of a
 
                      (b)  is being represented at the hearing by a legal practitioner with the consent of the Integrity Commissioner;
 
-may apply to the Attorney‑General for assistance in respect of that representation.
+may apply to the Attorney-General for assistance in respect of that representation.
 
 Note:          A person may also apply for assistance in respect of an application to the Federal Court or the Federal Magistrates Court under the _Administrative Decisions (Judicial Review) Act 1977_ for an order of review in respect of a matter arising under this Act: see section 221.
 
-             (3)  If a person applies under subsection (1) or (2), the Attorney‑General may, if he or she is satisfied that:
+             (3)  If a person applies under subsection (1) or (2), the Attorney-General may, if he or she is satisfied that:
 
                      (a)  it would involve substantial hardship to the person to refuse the application; or
 
                      (b)  the circumstances of the case are of such a special nature that the application should be granted;
 
-authorise the Commonwealth to provide the person with legal or financial assistance, determined by the Attorney‑General, in respect of:
+authorise the Commonwealth to provide the person with legal or financial assistance, determined by the Attorney-General, in respect of:
 
                      (c)  the person’s attendance at the hearing; or
 
@@ -4227,7 +4229,7 @@ authorise the Commonwealth to provide the person with legal or financial assista
 
                      (a)  unconditionally; or
 
-                     (b)  subject to such conditions as the Attorney‑General determines.
+                     (b)  subject to such conditions as the Attorney-General determines.
 
              (5)  An instrument that determines the conditions on which legal or financial assistance may be given is not a legislative instrument.
 
@@ -4325,7 +4327,7 @@ unless:
 
                              (ii)  the manner in which his or her investigation is to be conducted at that place or area.
 
-             (4)  If the Attorney‑General is satisfied that conducting an investigation at a place might prejudice the security or defence of the Commonwealth, the Attorney‑General may, by written notice to the Integrity Commissioner, declare the place to be a place to which this subsection applies.
+             (4)  If the Attorney-General is satisfied that conducting an investigation at a place might prejudice the security or defence of the Commonwealth, the Attorney-General may, by written notice to the Integrity Commissioner, declare the place to be a place to which this subsection applies.
 
              (5)  While the declaration is in force, subsection (1) does not authorise a person to do anything at the place unless:
 
@@ -4337,9 +4339,9 @@ unless:
 
                              (ii)  the manner in which his or her investigation is to be conducted at that place.
 
-             (6)  A declaration by the Attorney‑General under this section is not a legislative instrument.
+             (6)  A declaration by the Attorney-General under this section is not a legislative instrument.
 
-##### <a id="106"></a>106  Receipts of things seized without warrant
+##### <a id="106"></a>106  Receipts of things seized under warrant
 
              (1)  If a thing is seized, or removed from a place, under section 105, the Integrity Commissioner (or an authorised officer) must provide a receipt for the thing.
 
@@ -5363,11 +5365,11 @@ the Integrity Commissioner must:
 
                      (d)  advise the person that the Integrity Commissioner has brought the evidence to the notice of the Minister.
 
-## Part 11—Attorney‑General’s certificates about release of information
+## Part 11—Attorney-General’s certificates about release of information
 
-##### <a id="149"></a>149  Attorney‑General’s certificate in relation to particular information
+##### <a id="149"></a>149  Attorney-General’s certificate in relation to particular information
 
-             (1)  The Attorney‑General may certify that disclosure of:
+             (1)  The Attorney-General may certify that disclosure of:
 
                      (a)  information about a matter specified in the certificate; or
 
@@ -5423,7 +5425,7 @@ would be contrary to the public interest on one or more of the grounds set out i
 
                      (c)  disclosure otherwise than to a specified person or group of persons.
 
-             (5)  Without limiting subsection (1), a certificate under that subsection may provide that the disclosure of information about the existence or non‑existence of:
+             (5)  Without limiting subsection (1), a certificate under that subsection may provide that the disclosure of information about the existence or non-existence of:
 
                      (a)  information about a specified matter; or
 
@@ -5435,7 +5437,7 @@ would be contrary to the public interest because it would:
 
                      (d)  prejudice the proper performance of the functions of the ACC.
 
-             (6)  The Attorney‑General must give a copy of the certificate to:
+             (6)  The Attorney-General must give a copy of the certificate to:
 
                      (a)  the Integrity Commissioner; and
 
@@ -6220,9 +6222,9 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="175"></a>175  Appointment of Integrity Commissioner
 
-Appointment by Governor‑General
+Appointment by Governor-General
 
-             (1)  The Integrity Commissioner is to be appointed by the Governor‑General by written instrument.
+             (1)  The Integrity Commissioner is to be appointed by the Governor-General by written instrument.
 
 Integrity Commissioner to be judge or legal practitioner
 
@@ -6232,19 +6234,19 @@ Integrity Commissioner to be judge or legal practitioner
 
                      (b)  is enrolled as a legal practitioner and has been enrolled as a legal practitioner for at least 5 years.
 
-Note:          The Integrity Commissioner can be re‑appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+Note:          The Integrity Commissioner can be re-appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 Period of appointment
 
              (3)  The Integrity Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 5 years. The sum of the periods for which the Integrity Commissioner holds office must not exceed 5 years.
 
-Full‑time appointment
+Full-time appointment
 
-             (4)  The Integrity Commissioner is to be appointed on a full‑time basis.
+             (4)  The Integrity Commissioner is to be appointed on a full-time basis.
 
 Arrangement with Governor of State or Administrator of Territory
 
-             (5)  The Governor‑General may, for the purpose of appointing to the office of the Integrity Commissioner a person who is the holder of a judicial office of a State or Territory, enter into such arrangement with the Governor of that State or the Administrator of that Territory, as the case may be, as is necessary to secure that person’s services.
+             (5)  The Governor-General may, for the purpose of appointing to the office of the Integrity Commissioner a person who is the holder of a judicial office of a State or Territory, enter into such arrangement with the Governor of that State or the Administrator of that Territory, as the case may be, as is necessary to secure that person’s services.
 
              (6)  An arrangement under subsection (5) may provide for the Commonwealth to reimburse a State or Territory with respect to the services of the person to whom the arrangement relates.
 
@@ -6336,17 +6338,17 @@ Note:          See also section 33A of the _Acts Interpretat
 
 ##### <a id="181"></a>181  Other terms and conditions
 
-                   A person holding office as Integrity Commissioner, other than a person who is a Judge, holds office on the terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Governor‑General.
+                   A person holding office as Integrity Commissioner, other than a person who is a Judge, holds office on the terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="182"></a>182  Resignation
 
-                   The Integrity Commissioner may resign his or her appointment by giving the Governor‑General a written resignation.
+                   The Integrity Commissioner may resign his or her appointment by giving the Governor-General a written resignation.
 
 ##### <a id="183"></a>183  Termination of employment
 
-             (1)  The Governor‑General may terminate the appointment of the Integrity Commissioner by reason of misbehaviour or physical or  mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the Integrity Commissioner by reason of misbehaviour or physical or  mental incapacity.
 
-             (2)  The Governor‑General must terminate the appointment of the Integrity Commissioner if:
+             (2)  The Governor-General must terminate the appointment of the Integrity Commissioner if:
 
                      (a)  the Integrity Commissioner becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
 
@@ -6366,9 +6368,9 @@ Note:          See also section 33A of the _Acts Interpretat
 
 ##### <a id="185"></a>185  Appointment of Assistant Integrity Commissioners
 
-Appointment by Governor‑General
+Appointment by Governor-General
 
-             (1)  An Assistant Integrity Commissioner is to be appointed by the Governor‑General by written instrument.
+             (1)  An Assistant Integrity Commissioner is to be appointed by the Governor-General by written instrument.
 
 Assistant Integrity Commissioner to be judge or legal practitioner
 
@@ -6382,15 +6384,15 @@ Period of appointment
 
              (3)  An Assistant Integrity Commissioner holds office for the period specified in the instrument of appointment. The period must not exceed 5 years. The sum of the periods for which a person holds office as an Assistant Integrity Commissioner must not exceed 5 years.
 
-Full‑time or part‑time appointment
+Full-time or part-time appointment
 
-             (4)  An Assistant Integrity Commissioner may be appointed on either a full‑time or part‑time basis.
+             (4)  An Assistant Integrity Commissioner may be appointed on either a full-time or part-time basis.
 
-             (5)  However, a Judge may only be appointed as an Assistant Integrity Commissioner on a full‑time basis.
+             (5)  However, a Judge may only be appointed as an Assistant Integrity Commissioner on a full-time basis.
 
 Arrangement with Governor of State or Administrator of Territory
 
-             (6)  The Governor‑General may, for the purpose of appointing to the office of an Assistant Integrity Commissioner a person who is the holder of a judicial office of a State or Territory, enter into such arrangement with the Governor of that State or the Administrator of that Territory, as the case may be, as is necessary to secure that person’s services.
+             (6)  The Governor-General may, for the purpose of appointing to the office of an Assistant Integrity Commissioner a person who is the holder of a judicial office of a State or Territory, enter into such arrangement with the Governor of that State or the Administrator of that Territory, as the case may be, as is necessary to secure that person’s services.
 
              (7)  An arrangement under subsection (6) may provide for the Commonwealth to reimburse a State or Territory with respect to the services of the person to whom the arrangement relates.
 
@@ -6472,31 +6474,31 @@ Note:          See also section 33A of the _Acts Interpretat
 
 ##### <a id="189"></a>189  Leave
 
-             (1)  A full‑time Assistant Integrity Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
+             (1)  A full-time Assistant Integrity Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
 
-             (2)  The Minister may grant a full‑time Assistant Integrity Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
+             (2)  The Minister may grant a full-time Assistant Integrity Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Minister determines.
 
-             (3)  The Integrity Commissioner may grant leave of absence to any part‑time Assistant Integrity Commissioner on the terms and conditions that the Integrity Commissioner determines.
+             (3)  The Integrity Commissioner may grant leave of absence to any part-time Assistant Integrity Commissioner on the terms and conditions that the Integrity Commissioner determines.
 
 ##### <a id="190"></a>190  Outside employment
 
-             (1)  A full‑time Assistant Integrity Commissioner must not engage in paid employment outside the duties of his or her office without the Minister’s consent.
+             (1)  A full-time Assistant Integrity Commissioner must not engage in paid employment outside the duties of his or her office without the Minister’s consent.
 
-             (2)  A part‑time Assistant Integrity Commissioner must not engage in paid employment that, in the Minister’s opinion, conflicts or could conflict with the proper performance of the Assistant Integrity Commissioner’s duties.
+             (2)  A part-time Assistant Integrity Commissioner must not engage in paid employment that, in the Minister’s opinion, conflicts or could conflict with the proper performance of the Assistant Integrity Commissioner’s duties.
 
 ##### <a id="191"></a>191  Other terms and conditions
 
-                   A person holding office as an Assistant Integrity Commissioner, other than a person who is a Judge, holds office on the terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Governor‑General.
+                   A person holding office as an Assistant Integrity Commissioner, other than a person who is a Judge, holds office on the terms and conditions (if any) in relation to matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="192"></a>192  Resignation
 
-                   An Assistant Integrity Commissioner may resign his or her appointment by giving the Governor‑General a written resignation.
+                   An Assistant Integrity Commissioner may resign his or her appointment by giving the Governor-General a written resignation.
 
 ##### <a id="193"></a>193  Termination of employment
 
 All Assistant Integrity Commissioners
 
-             (1)  The Governor‑General may terminate the appointment of an Assistant Integrity Commissioner:
+             (1)  The Governor-General may terminate the appointment of an Assistant Integrity Commissioner:
 
                      (a)  for misbehaviour or physical or mental incapacity; or
 
@@ -6512,17 +6514,17 @@ All Assistant Integrity Commissioners
 
                      (c)  if the Assistant Integrity Commissioner fails to comply with section 194.
 
-Additional grounds (full‑time Assistant Integrity Commissioners)
+Additional grounds (full-time Assistant Integrity Commissioners)
 
-             (2)  The Governor‑General may terminate the appointment of a full‑time Assistant Integrity Commissioner, if:
+             (2)  The Governor-General may terminate the appointment of a full-time Assistant Integrity Commissioner, if:
 
                      (a)  the Assistant Integrity Commissioner is absent from duty, except on leave, for 14 consecutive days or for 28 days in any period of 12 months; or
 
                      (b)  the Assistant Integrity Commissioner engages, except with the Minister’s consent, in paid employment outside the duties of his or her office.
 
-Additional grounds (part‑time Assistant Integrity Commissioners)
+Additional grounds (part-time Assistant Integrity Commissioners)
 
-             (3)  The Governor‑General may terminate the appointment of a part‑time Assistant Integrity Commissioner, if the Assistant Integrity Commissioner engages, except with the Minister’s approval, in paid employment that conflicts or could conflict with the proper performance of the duties of his or her office.
+             (3)  The Governor-General may terminate the appointment of a part-time Assistant Integrity Commissioner, if the Assistant Integrity Commissioner engages, except with the Minister’s approval, in paid employment that conflicts or could conflict with the proper performance of the duties of his or her office.
 
              (4)  A reference in subsections (1) and (2) to a person holding office as an Assistant Integrity Commissioner does not include a reference to a person who is a Judge.
 
@@ -6660,13 +6662,13 @@ Note:          See also section 34C of the _Acts Interpretat
 
                             being applications and proceedings that were determined, or otherwise disposed of, during that year.
 
-##### <a id="202"></a>202  Inter‑Governmental Committee comments on annual report
+##### <a id="202"></a>202  Inter-Governmental Committee comments on annual report
 
                    If an annual report under section 201 mentions the ACC, the Minister must:
 
-                     (a)  give a copy of the annual report to the Inter‑Governmental Committee; and
+                     (a)  give a copy of the annual report to the Inter-Governmental Committee; and
 
-                     (b)  if the Inter‑Governmental Committee gives the Minister comments in writing in relation to the annual report—cause a copy of those comments to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives those comments.
+                     (b)  if the Inter-Governmental Committee gives the Minister comments in writing in relation to the annual report—cause a copy of those comments to be laid before each House of the Parliament within 15 sitting days of that House after the day on which the Minister receives those comments.
 
 ##### <a id="203"></a>203  Reports on investigations and public inquiries
 
@@ -6744,13 +6746,13 @@ Opinion or finding critical of a government agency or person
 
                      (b)  may, with the Integrity Commissioner’s approval, be represented by another person.
 
-##### <a id="205"></a>205  Inter‑Governmental Committee comments on special report in relation to ACC
+##### <a id="205"></a>205  Inter-Governmental Committee comments on special report in relation to ACC
 
                    If a special report under section 204 relates to the ACC, the Minister must:
 
-                     (a)  give a copy of the report to the Inter‑Governmental Committee; and
+                     (a)  give a copy of the report to the Inter-Governmental Committee; and
 
-                     (b)  if the Inter‑Governmental Committee gives the Minister comments, in writing, in relation to the report—cause a copy of those comments to be laid before each House of the Parliament within 15 sitting days of that House after their receipt by the Minister.
+                     (b)  if the Inter-Governmental Committee gives the Minister comments, in writing, in relation to the report—cause a copy of those comments to be laid before each House of the Parliament within 15 sitting days of that House after their receipt by the Minister.
 
 ##### <a id="206"></a>206  Contents of annual or special report
 
@@ -7044,7 +7046,7 @@ Opportunity to appear and make submissions
 
                              (ii)  corruption generally in, or the integrity of staff members of, Commonwealth government agencies with a law enforcement function;
 
-                            and report to both Houses of the Parliament on any change that the Committee thinks desirable:
+                            and report to both Houses of the Parliament on any change that the Committee thinks desirable:
 
                             (iii)  to the Integrity Commissioner’s functions or powers; or
 
@@ -7176,21 +7178,21 @@ Form of delegation
 
 ##### <a id="221"></a>221  Legal and financial assistance in relation to applications for administrative review
 
-             (1)  A person may apply to the Attorney‑General for assistance in respect of the person’s application, or proposed application, to the Federal Court or the Federal Magistrates Court under the _Administrative Decisions (Judicial Review) Act 1977_ for an order of review in respect of a matter arising under this Act.
+             (1)  A person may apply to the Attorney-General for assistance in respect of the person’s application, or proposed application, to the Federal Court or the Federal Magistrates Court under the _Administrative Decisions (Judicial Review) Act 1977_ for an order of review in respect of a matter arising under this Act.
 
-             (2)  The Attorney‑General may, if he or she is satisfied that:
+             (2)  The Attorney-General may, if he or she is satisfied that:
 
                      (a)  it would involve substantial hardship to the person to refuse the application; or
 
                      (b)  the circumstances of the case are of such a special nature that the application should be granted;
 
-authorise the Commonwealth to provide the person with legal or financial assistance, determined by the Attorney‑General, in respect of the person’s application to the Federal Court or the Federal Magistrates Court, as the case may be.
+authorise the Commonwealth to provide the person with legal or financial assistance, determined by the Attorney-General, in respect of the person’s application to the Federal Court or the Federal Magistrates Court, as the case may be.
 
              (3)  Legal or financial assistance may be given:
 
                      (a)  unconditionally; or
 
-                     (b)  subject to such conditions as the Attorney‑General determines.
+                     (b)  subject to such conditions as the Attorney-General determines.
 
              (4)  An instrument that determines the conditions on which legal or financial assistance may be given is not a legislative instrument.
 
@@ -7228,7 +7230,7 @@ Undertaking the review
 
 Report to Minister
 
-             (2)  The persons undertaking the review must give the Minister a written report of the review within 6 months after the end of the 3‑year period.
+             (2)  The persons undertaking the review must give the Minister a written report of the review within 6 months after the end of the 3-year period.
 
 Submissions
 
@@ -7254,7 +7256,7 @@ Tabling of report
 
 Section not to apply if review conducted by Parliamentary committee
 
-             (6)  However, this section does not apply if a committee of one or both Houses of the Parliament (including the Parliamentary Joint Committee on the Australian Commission for Law Enforcement Integrity) has reviewed the operation of this Act, or started such a review, before the end of the 3‑year period.
+             (6)  However, this section does not apply if a committee of one or both Houses of the Parliament (including the Parliamentary Joint Committee on the Australian Commission for Law Enforcement Integrity) has reviewed the operation of this Act, or started such a review, before the end of the 3-year period.
 
 Definition
 
@@ -7264,7 +7266,7 @@ Definition
 
 ##### <a id="224"></a>224  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -7322,7 +7324,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 30 Dec 2006</div>
+Remainder: 30 Dec 2006</div>
   </td>
   <td>
     <div></div>
@@ -7330,7 +7332,7 @@ Remainder: 30 Dec 2006</div>
 </tr>
 <tr>
   <td>
-    <div>Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
+    <div>Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006</div>
   </td>
   <td>
     <div>170, 2006</div>
@@ -7344,26 +7346,9 @@ Remainder: 30 Dec 2006</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 65) (Note): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
+_(a)_ Subsection 2(1) (item 23) of the _Anti-Money Laundering and Counter-Terrorism Financing (Transitional Provisions and Consequential Amendments) Act 2006_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -7443,7 +7428,7 @@ _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑
     </div>
     <div>
       (a) at the same time as section 3 of the
-        <i>Anti‑Money Laundering and Counter‑Terrorism Financing Act 2006</i>commences;
+        <i>Anti-Money Laundering and Counter-Terrorism Financing Act 2006</i>commences;
         and
     </div>
     <div>
@@ -7486,43 +7471,11 @@ _(a)_ Subsection 2(1) (item 23) of the _Anti‑Money Laundering and Counter‑
 </thead>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
     <div>am. No. 170, 2006</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 106</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
 </tr></table>
 
- 
+###  
