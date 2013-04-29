@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00712/Html/2a2f7fb4-dc3b-4fec-aa0b-ade5fdb954ad_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00267/Html/3da212aa-f980-4686-a3f0-8579fe1c1d8c_files/image001.gif)
 
 # Australian War Memorial Act 1980
 
 **Act No. 104 of 1980 as amended**
 
-This compilation was prepared on 2 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -262,7 +262,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (4)  Notwithstanding anything contained in this Act, any money or other property held by the Memorial upon trust or accepted by the Memorial subject to a condition shall not be dealt with except in accordance with the obligations of the Memorial as trustee of the trust or as the person who has accepted the money or other property subject to the condition, as the case may be.
 
-##### <a id="7"></a>7  Land and historical material for Memorial
+##### <a id="7"></a>7  Land and historical material for Memorial
 
              (1)  The Minister may make available to the Memorial for the purposes of the Memorial such land owned or held under lease by the Commonwealth as is specified by the Minister by notice in the _Gazette_ and any building, structure or other improvements on that land.
 
@@ -981,23 +981,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 280–284) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian War Memorial Act 1980_ was amended by section 115 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows: 
@@ -1384,38 +1367,6 @@ _(i)_      The _Australian War Memorial Act 1980_ was amended by Sched
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 280  Subsection 26(1)
-
-Omit “(1)”.
-
-## 281  Paragraph 26(1)(b)
-
-Omit “office;”, substitute “office.”.
-
-## 282  Subsection 26(1)
-
-Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
-
-## 283  At the end of subsection 26(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 284  Subsections 26(2) to (8)
-
-Repeal the subsections.
-
-As at 2 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1427,21 +1378,5 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
