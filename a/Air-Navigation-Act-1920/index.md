@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00233/Html/AirNavigation1920_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00592/Html/AirNavigation1920_WD02_image001.gif)
 
 # Air Navigation Act 1920
 
 **Act No. 50 of 1920 as amended**
 
-This compilation was prepared on 3 April 2007
- taking into account amendments up to Act No. 21 of 2007
+This compilation was prepared on 9 October 2006
+ taking into account amendments up to Act No. 109 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -18,91 +18,91 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Extension to Territories                                                                       1
+[2](#2).            Extension to Territories
 
-[2A](#2A).         Act to bind Crown                                                                               1
+[2A](#2A).         Act to bind Crown
 
-[2B](#2B).         Act not to apply to state aircraft                                                        1
+[2B](#2B).         Act not to apply to state aircraft
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[3AB](#3AB).      Aircraft flights: when do they start?                                                   4
+[3AB](#3AB).      Aircraft flights: when do they start?
 
-[3AC](#3AC).      Aircraft flights: when do they end?                                                     4
+[3AC](#3AC).      Aircraft flights: when do they end?
 
-[3AG](#3AG).      Application of the _Criminal Code_                                                       5
+[3AG](#3AG).      Application of the _Criminal Code_
 
 **Part 2—Regulation of Air Navigation**
 
-[3A](#3A).         Approval of ratification of Chicago Convention etc                           6
+[3A](#3A).         Approval of ratification of Chicago Convention etc 
 
-[4](#4).            Texts of Chicago Convention etc                                                         7
+[4](#4).            Texts of Chicago Convention etc 
 
-[5](#5).            Contracting States                                                                                7
+[5](#5).            Contracting States
 
-[9](#9).            International airports                                                                           7
+[9](#9).            International airports
 
-[10](#10).          International aircraft to land at and take off from designated airports 7
+[10](#10).          International aircraft to land at and take off from designated airports
 
-[11](#11).          Freedoms of the air                                                                              8
+[11](#11).          Freedoms of the air
 
-[11A](#11A).       Foreign shareholdings in Australian international airlines                   8
+[11A](#11A).       Foreign shareholdings in Australian international airlines
 
-[11B](#11B).       Injunctions relating to section 11A                                                    11
+[11B](#11B).       Injunctions relating to section 11A
 
-[12](#12).          International airline licences                                                               14
+[12](#12).          International airline licences
 
-[13](#13).          Suspension or cancellation of international airline licences               15
+[13](#13).          Suspension or cancellation of international airline licences
 
-[14](#14).          Non-scheduled flights by aircraft possessing nationality of a Contracting State    15
+[14](#14).          Non-scheduled flights by aircraft possessing nationality of a Contracting State
 
-[15](#15).          Definitions                                                                                         16
+[15](#15).          Definitions
 
-[15A](#15A).       Aircraft on non-scheduled flights not to take on or discharge passengers, cargo or mail without permission        16
+[15A](#15A).       Aircraft on non-scheduled flights not to take on or discharge passengers, cargo or mail without permission
 
-[15B](#15B).       Applications for permission to operate non-scheduled flights         19
+[15B](#15B).       Applications for permission to operate non-scheduled flights
 
-[15C](#15C).       Information to be contained in application                                        19
+[15C](#15C).       Information to be contained in application
 
-[15D](#15D).       Determination of application for permission                                    21
+[15D](#15D).       Determination of application for permission
 
-[15E](#15E).        Variation of permission on application by charter operator             22
+[15E](#15E).        Variation of permission on application by charter operator
 
-[15F](#15F).        Variation, suspension or cancellation of permission on Secretary’s initiative         22
+[15F](#15F).        Variation, suspension or cancellation of permission on Secretary’s initiative
 
-[16](#16).          Aircraft on international flights to comply with laws                       23
+[16](#16).          Aircraft on international flights to comply with laws
 
-[17](#17).          Aircraft on international flights to have permission                          23
+[17](#17).          Aircraft on international flights to have permission
 
-[18](#18).          Publication of determinations                                                            24
+[18](#18).          Publication of determinations
 
-[19](#19).          Carriage of munitions                                                                         25
+[19](#19).          Carriage of munitions
 
 **Part 4—Miscellaneous**
 
-[23A](#23A).       Review of decisions by Administrative Appeals Tribunal               26
+[23A](#23A).       Review of decisions by Administrative Appeals Tribunal
 
-[23](#23).          Defences in proceedings with respect to offences                             26
+[23](#23).          Defences in proceedings with respect to offences
 
-[24](#24).          Crown not liable to prosecution                                                        26
+[24](#24).          Crown not liable to prosecution
 
-[24A](#24A).       Conduct by directors, servants and agents                                        27
+[24A](#24A).       Conduct by directors, servants and agents
 
-[26](#26).          Regulations                                                                                        28
+[26](#26).          Regulations
 
-[27](#27).          Extra-territorial operation of regulations                                           30
+[27](#27).          Extra-territorial operation of regulations
 
-[27A](#27A).       Registration of security interests in relation to aircraft and components of aircraft               32
+[27A](#27A).       Registration of security interests in relation to aircraft and components of aircraft
 
-[29](#29).          Annual report                                                                                    35
+[29](#29).          Annual report
 
-[30](#30).          Powers and functions under State and Northern Territory laws       36
+[30](#30).          Powers and functions under State and Northern Territory laws
 
-[31](#31).          Delegation                                                                                          36
+[31](#31).          Delegation
 
 **Schedule 1—Convention on International Civil Aviation** 
 
@@ -3412,7 +3412,7 @@ Schedule 1 (items 9–11): Royal Assent <i>(p)</i></div>
     <div>Ss. 4–14 and Schedule 3 (items 19–21): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(s)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14</div>
   </td>
 </tr>
 <tr>
@@ -3622,23 +3622,6 @@ Schedule 2 (item 3): Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Citizenship (Transitionals and Consequentials) Act 2007</div>
-  </td>
-  <td>
-    <div>21, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 3): \[ <i>see</i>s. 2(1) andNote 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Section 2 of the _Air Navigation Act 1920_ provides as follows:
@@ -3669,7 +3652,7 @@ _(d)_     The _Civil Aviation Act 1988_ was amended by section 8 only 
 
 _(e)_     The _Air Navigation Act 1920_ was amended by Part 2 (sections 3–5) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1989_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 _(f)_      The _Air Navigation Act 1920_ was amended by subsection 4(1) only of the _Transport and Communications Legislation Amendment Act 1990_, subsections 2(1) and (2) of which provide as follows:
 
@@ -3679,7 +3662,7 @@ _(f)_      The _Air Navigation Act 1920_ was amended by subsection 4(1
 
 _(g)_     The _Air Navigation Act 1920_ was amended by Part 2 (sections 3–6) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1992_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
 _(h)_     The _Air Navigation Act 1920_ was amended by sections 3–15 only of the _Transport and Communications Legislation Amendment Act 1992_, subsections 2(1) and (3) of which provide as follows:
 
@@ -3926,7 +3909,9 @@ _(v)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instrume
 <tr>
   <td>
     <div>
-      2\. Section 4
+      2
+      .
+      Section 4
     </div>
   </td>
   <td>
@@ -4010,12 +3995,10 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     </div>
     <div>
       (a)
-
       the start of the day on which this Act receives the Royal Assent; and
     </div>
     <div>
       (b)
-
       immediately after the commencement of section 3 of the
         <i>Aviation Transport Security Act 2004</i>.
     </div>
@@ -6708,23 +6691,6 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div></div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Australian Citizenship (Transitionals and Consequentials) Act 2007
- (No. 21, 2007)_
-
-The following amendment commences on 15 September 200 7 unless proclaimed earlier:
-
-## Schedule 1
-
-## 3  Subsection 11A(4) (definition of _Australian citizen_)
-
-Repeal the definition, substitute:
-
-                    <a name="australian-citizen"></a>**_Australian citizen_** has the same meaning as in the _Australian Citizenship Act 2007_.
-
-As at 3 April 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
