@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00235/Html/d6d1e6cd-0b88-46f6-b1a6-65470b169db5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00048/Html/CriminologyRes71WD02_image001.gif)
 
 # Criminology Research Act 1971
 
 **Act No. 15 of 1971 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 11 January 2011
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -34,7 +34,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Functions of Institute
 
-[6A](#6A).         Power of Attorney‑General to request Institute to perform certain functions
+[6A](#6A).         Power of Attorney-General to request Institute to perform certain functions
 
 [7](#7).            Powers of Institute
 
@@ -106,7 +106,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [41](#41).          Powers of Council
 
-[43](#43).          Copy of annual report also to be given to State, Australian Capital Territory and Northern Territory Ministers and Auditors‑General
+[43](#43).          Copy of annual report also to be given to State, Australian Capital Territory and Northern Territory Ministers and Auditors-General
 
 **Part IV—The Criminology Research Fund**
 
@@ -142,7 +142,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="acting-director"></a>**_Acting Director_** means an Acting Director of the Institute appointed under section 22.
 
-                    <a name="appoint"></a>**_appoint_** includes re‑appoint.
+                    <a name="appoint"></a>**_appoint_** includes re-appoint.
 
                     <a name="criminolog-research"></a>**_criminological research_** means research in connexion with:
 
@@ -150,15 +150,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  any related matter.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="appropri-minist"></a>**_the appropriate Minister_** means:
 
                      (a)  in relation to a State, such Minister of the Crown of that State as is prescribed, and includes any Minister of the Crown for the time being acting for and on behalf of that Minister; and
 
                     (aa)  in relation to the Australian Capital Territory, such Minister of the Australian Capital Territory as is prescribed, and includes any Minister of the Australian Capital Territory for the time being acting for and on behalf of that Minister; and
 
-                     (b)  in relation to the Northern Territory, such Minister of the Northern Territory as is prescribed, and includes any Minister of the Northern Territory for the time being acting for and on behalf of that Minister.
+                     (b)  in relation to the Northern   Territory, such Minister of the Northern Territory as is prescribed, and includes any Minister of the Northern Territory for the time being acting for and on behalf of that Minister.
 
                     <a name="board"></a>**_the Board_** means the Board of Management of the Institute established by section 8.
 
@@ -194,11 +192,11 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                    The functions of the Institute are:
 
-                     (a)  to conduct, or arrange for the conduct of, such criminological research as is approved by the Board or is requested by the Attorney‑General;
+                     (a)  to conduct, or arrange for the conduct of, such criminological research as is approved by the Board or is requested by the Attorney-General;
 
-                     (b)  to communicate to the Commonwealth, the States, the Australian Capital Territory and the Northern Territory the results of research conducted by the Institute;
+                     (b)  to communicate to the Commonwealth, the States, the Australian Capital Territory and the Northern   Territory the results of research conducted by the Institute;
 
-                     (c)  to conduct, or arrange for the conduct of, such seminars and courses of training or instruction for persons engaged, or to be engaged, in criminological research or in work related to the prevention or correction of criminal behaviour as are approved by the Board or are requested by the Attorney‑General;
+                     (c)  to conduct, or arrange for the conduct of, such seminars and courses of training or instruction for persons engaged, or to be engaged, in criminological research or in work related to the prevention or correction of criminal behaviour as are approved by the Board or are requested by the Attorney-General;
 
                      (d)  to advise the Council in relation to needs for, and programmes of, criminological research;
 
@@ -210,23 +208,23 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (h)  to publish such material resulting from or connected with the performance of its functions as is approved by the Board;
 
-                   (ha)  to collect information and statistics (without detracting from, and in the context of, the overall collecting and coordinating role of the Australian Bureau of Statistics);
+                    (ha)  to collect information and statistics (without detracting from, and in the context of, the overall collecting and coordinating role of the Australian Bureau of Statistics);
 
-                   (hb)  to provide information and advice to Departments, agencies and authorities of the Commonwealth, of the States, of the Australian Capital Territory and of the Northern Territory dealing with the administration of criminal justice;
+                    (hb)  to provide information and advice to Departments, agencies and authorities of the Commonwealth, of the States, of the Australian Capital Territory and of the Northern Territory dealing with the administration of criminal justice;
 
-                   (hc)  to collaborate, in and outside Australia, with governments, institutions and authorities, and with bodies and persons, in relation to research, or the training of persons, in or in connection with the administration of criminal justice; and
+                    (hc)  to collaborate, in and outside Australia, with governments, institutions and authorities, and with bodies and persons, in relation to research, or the training of persons, in or in connection with the administration of criminal justice; and
 
                       (i)  to do anything incidental or conducive to the performance of any of the foregoing functions.
 
-##### <a id="6A"></a>6A  Power of Attorney‑General to request Institute to perform certain functions
+##### <a id="6A"></a>6A  Power of Attorney-General to request Institute to perform certain functions
 
-             (1)  The Attorney‑General may request the Institute to:
+             (1)  The Attorney-General may request the Institute to:
 
-                     (a)  conduct, or arrange for the conduct of, criminological research into a matter specified by the Attorney‑General; or
+                     (a)  conduct, or arrange for the conduct of, criminological research into a matter specified by the Attorney-General; or
 
-                     (b)  to conduct seminars or courses of training or instruction in a matter specified by the Attorney‑General, being seminars or courses of training or instruction for persons engaged, or to be engaged, in criminological research or in work related to the prevention or correction of criminal behaviour.
+                     (b)  to conduct seminars or courses of training or instruction in a matter specified by the Attorney-General, being seminars or courses of training or instruction for persons engaged, or to be engaged, in criminological research or in work related to the prevention or correction of criminal behaviour.
 
-             (2)  Where the Attorney‑General so requests the Institute to conduct, or arrange for the conduct of, criminological research, or to conduct seminars or courses of training or instruction, the Attorney‑General may also require the Board to ensure that such priority is given to the conduct of that research, or to the conduct of those seminars or courses of training or instruction, as the Attorney‑General specifies.
+             (2)  Where the Attorney-General so requests the Institute to conduct, or arrange for the conduct of, criminological research, or to conduct seminars or courses of training or instruction, the Attorney-General may also require the Board to ensure that such priority is given to the conduct of that research, or to the conduct of those seminars or courses of training or instruction, as the Attorney-General specifies.
 
 ##### <a id="7"></a>7  Powers of Institute
 
@@ -234,7 +232,7 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                     (aa)  to acquire, hold and dispose of real and personal property;
 
-                   (ab)  to enter into contracts;
+                    (ab)  to enter into contracts;
 
                      (a)  to erect buildings;
 
@@ -256,13 +254,13 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (a)  the Director;
 
-                     (b)  3 members appointed by the Attorney‑General; and
+                     (b)  3 members appointed by the Attorney-General; and
 
                      (c)  4 members appointed by the Council.
 
-             (2)  A member of the Board who is appointed by the Attorney‑General holds office during the pleasure of the Attorney‑General.
+             (2)  A member of the Board who is appointed by the Attorney-General holds office during the pleasure of the Attorney-General.
 
-             (3)  A member of the Board who is appointed by the Council shall cease to hold office one year after the appointment takes effect unless the appointment is sooner terminated, but is eligible for re‑appointment.
+             (3)  A member of the Board who is appointed by the Council shall cease to hold office one year after the appointment takes effect unless the appointment is sooner terminated, but is eligible for re-appointment.
 
              (5)  An act or decision of the Board is not invalid by reason only of a vacancy or vacancies in the membership of the Board.
 
@@ -270,13 +268,13 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
              (1)  A member of the Board may:
 
-                     (a)  in the case of the Director or a member appointed by the Attorney‑General—with the approval of the Attorney‑General; or
+                     (a)  in the case of the Director or a member appointed by the Attorney-General—with the approval of the Attorney-General; or
 
                      (b)  in the case of a member appointed by the Council—with the approval of the Council;
 
 appoint a person, other than a member, to be the deputy of the member.
 
-             (2)  A member may revoke the appointment of a person as the deputy of the member, but the revocation is not effective until the member has given notice of it by writing signed by the member and delivered to the Attorney‑General or to the Council, as the case requires.
+             (2)  A member may revoke the appointment of a person as the deputy of the member, but the revocation is not effective until the member has given notice of it by writing signed by the member and delivered to the Attorney-General or to the Council, as the case requires.
 
              (3)  The deputy of a member is entitled, in the event of the absence of the member from a meeting of the Board, to attend that meeting and, when so attending, shall be deemed to be the member of whom he or she is the deputy.
 
@@ -288,7 +286,7 @@ appoint a person, other than a member, to be the deputy of the member.
 
              (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
 
-             (4)  Subsection (1) does not apply in relation to a member of the Board, or a deputy of such a member, if the member or deputy holds any office or appointment, or is otherwise employed, on a full‑time basis in the service or employment of:
+             (4)  Subsection (1) does not apply in relation to a member of the Board, or a deputy of such a member, if the member or deputy holds any office or appointment, or is otherwise employed, on a full-time basis in the service or employment of:
 
                      (a)  the Commonwealth, a State or the Administration of a Territory;
 
@@ -298,13 +296,13 @@ appoint a person, other than a member, to be the deputy of the member.
 
 ##### <a id="12"></a>12  Chair of Board
 
-             (1)  The Attorney‑General shall appoint one of the members of the Board referred to in paragraph 9(1)(b) to be the Chair of the Board.
+             (1)  The Attorney-General shall appoint one of the members of the Board referred to in paragraph 9(1)(b) to be the Chair of the Board.
 
-             (2)  The Chair may resign from office as Chair by writing signed by the Chair and delivered to the Attorney‑General.
+             (2)  The Chair may resign from office as Chair by writing signed by the Chair and delivered to the Attorney-General.
 
 ##### <a id="13"></a>13  Resignation of members of Board and deputies of members
 
-             (1)  A member of the Board who is appointed by the Attorney‑General, or the deputy of such a member, may resign from office by writing signed by the member or the deputy, as the case may be, and delivered to the Attorney‑General.
+             (1)  A member of the Board who is appointed by the Attorney-General, or the deputy of such a member, may resign from office by writing signed by the member or the deputy, as the case may be, and delivered to the Attorney-General.
 
              (2)  A member of the Board who is appointed by the Council, or the deputy of such a member, may resign from office by writing signed by the member or the deputy, as the case may be, and delivered to the Chair of the Council.
 
@@ -312,15 +310,15 @@ appoint a person, other than a member, to be the deputy of the member.
 
              (1)  The Chair of the Board or the deputy of the Chair may convene meetings of the Board.
 
-             (2)  If neither the Chair nor the deputy of the Chair is available, the Attorney‑General may convene a meeting of the Board.
+             (2)  If neither the Chair nor the deputy of the Chair is available, the Attorney-General may convene a meeting of the Board.
 
              (3)  The Chair or the deputy of the Chair shall preside at all meetings of the Board at which he or she is present.
 
-             (4)  At a meeting of the Board at which neither the Chair nor the deputy of the Chair is present, the members present shall elect one of the members appointed by the Attorney‑General to preside.
+             (4)  At a meeting of the Board at which neither the Chair nor the deputy of the Chair is present, the members present shall elect one of the members appointed by the Attorney-General to preside.
 
-             (5)  For the purposes of a meeting of the Board, 2 of the members appointed by the Attorney‑General and 2 of the members appointed by the Council constitute a quorum.
+             (5)  For the purposes of a meeting of the Board, 2 of the members appointed by the Attorney-General and 2 of the members appointed by the Council constitute a quorum.
 
-             (6)  A member of the Board may, by writing signed by the member, appoint another member or the deputy of another member as his or her proxy to attend and vote on his or her behalf at a meeting of the Board at which neither the first‑mentioned member nor his or her deputy is present.
+             (6)  A member of the Board may, by writing signed by the member, appoint another member or the deputy of another member as his or her proxy to attend and vote on his or her behalf at a meeting of the Board at which neither the first-mentioned member nor his or her deputy is present.
 
              (7)  At a meeting of the Board:
 
@@ -332,9 +330,9 @@ appoint a person, other than a member, to be the deputy of the member.
 
 ##### <a id="15"></a>15  Director of Institute
 
-             (1)  There shall be a Director of the Institute, who shall be appointed by the Governor‑General.
+             (1)  There shall be a Director of the Institute, who shall be appointed by the Governor-General.
 
-             (2)  The appointment of the Director is subject to such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (2)  The appointment of the Director is subject to such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="16"></a>16  Functions of Director
 
@@ -342,9 +340,9 @@ appoint a person, other than a member, to be the deputy of the member.
 
 ##### <a id="17"></a>17  Tenure of office of Director
 
-             (1)  Subject to this Act, the person appointed as the Director holds office for such period, not exceeding 7 years, as is specified in the instrument of the person’s appointment, but is eligible for re‑appointment.
+             (1)  Subject to this Act, the person appointed as the Director holds office for such period, not exceeding 7 years, as is specified in the instrument of the person’s appointment, but is eligible for re-appointment.
 
-             (4)  The Director may resign from office by writing signed by the Director and addressed to the Governor‑General.
+             (4)  The Director may resign from office by writing signed by the Director and addressed to the Governor-General.
 
 ##### <a id="18"></a>18  Remuneration and allowances of Director
 
@@ -358,11 +356,11 @@ appoint a person, other than a member, to be the deputy of the member.
 
              (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Attorney‑General may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
+             (2)  The Attorney-General may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
 ##### <a id="20"></a>20  Termination of appointment of Director
 
-                   The Governor‑General may terminate the appointment of the Director for misbehaviour of physical or mental incapacity.
+                   The Governor-General may terminate the appointment of the Director for misbehaviour of physical or mental incapacity.
 
 ##### <a id="21"></a>21  Vacation of office of Director
 
@@ -372,11 +370,11 @@ appoint a person, other than a member, to be the deputy of the member.
 
                      (b)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months;
 
-the Governor‑General shall remove the Director from office.
+the Governor-General shall remove the Director from office.
 
 ##### <a id="22"></a>22  Acting Director
 
-             (1)  The Attorney‑General may appoint a person to act as Director:
+             (1)  The Attorney-General may appoint a person to act as Director:
 
                      (a)  during a vacancy in the office of Director; or
 
@@ -386,15 +384,15 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
-             (3)  The Attorney‑General may:
+             (3)  The Attorney-General may:
 
                      (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Director; and
 
                      (b)  terminate such an appointment at any time.
 
-             (4)  Where a person is acting as Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Attorney‑General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+             (4)  Where a person is acting as Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Attorney-General otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
 
-             (5)  The appointment of a person to act as Director ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Attorney‑General.
+             (5)  The appointment of a person to act as Director ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Attorney-General.
 
              (6)  While a person is acting as Director, the person may exercise all the powers, and shall perform all the functions, of the Director under this Act.
 
@@ -402,9 +400,9 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="23"></a>23  Appointment of staff of Institute
 
-             (1)  The Director may, on behalf of the Institute and with the approval of the Attorney‑General, appoint as employees of the Institute such persons as the Director thinks are necessary for the purposes of this Part.
+             (1)  The Director may, on behalf of the Institute and with the approval of the Attorney-General, appoint as employees of the Institute such persons as the Director thinks are necessary for the purposes of this Part.
 
-             (2)  The terms and conditions of employment of employees of the Institute are, subject to this Act, such as are from time to time determined by the Director with the approval of the Attorney‑General.
+             (2)  The terms and conditions of employment of employees of the Institute are, subject to this Act, such as are from time to time determined by the Director with the approval of the Attorney-General.
 
 ### Division 4—Finances of Institute
 
@@ -412,11 +410,11 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (1)  There are payable to the Institute such moneys as are appropriated by the Parliament for the purposes of the Institute.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Institute.
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Institute.
 
 ##### <a id="29"></a>29  Limit on contracts
 
-                   The Institute shall not, except with the approval of the Attorney‑General, enter into a contract involving the payment by the Institute of an amount exceeding $100,000.
+                   The Institute shall not, except with the approval of the Attorney-General, enter into a contract involving the payment by the Institute of an amount exceeding $100,000.
 
 ##### <a id="31"></a>31  Application of moneys
 
@@ -476,15 +474,15 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
                      (b)  one is to represent each State; and
 
-                   (ba)  one is to represent the Australian Capital Territory; and
+                    (ba)  one is to represent the Australian   Capital Territory; and
 
-                     (c)  one is to represent the Northern Territory.
+                     (c)  one is to represent the Northern   Territory.
 
-             (2)  The member who is to represent the Commonwealth shall be appointed by the Attorney‑General and holds office during the pleasure of the Attorney‑General.
+             (2)  The member who is to represent the Commonwealth shall be appointed by the Attorney-General and holds office during the pleasure of the Attorney-General.
 
-             (3)  A member who is to represent a State, or a member who is to represent the Australian Capital Territory or the Northern Territory, shall be appointed by the Attorney‑General upon the nomination of the appropriate Minister of that State, or that Territory, as the case requires.
+             (3)  A member who is to represent a State, or a member who is to represent the Australian Capital Territory or the Northern   Territory, shall be appointed by the Attorney-General upon the nomination of the appropriate Minister of that State, or that Territory, as the case requires.
 
-             (4)  If, and only if, the appropriate Minister of a State, of the Australian Capital Territory or of the Northern Territory, so requests, the Attorney‑General shall remove from office the member representing that State, or the member representing that Territory, as the case requires.
+             (4)  If, and only if, the appropriate Minister of a State, of the Australian Capital Territory or of the Northern Territory, so requests, the Attorney-General shall remove from office the member representing that State, or the member representing that Territory, as the case requires.
 
              (5)  The appointment of a member is not invalid by reason only of a defect or irregularity in connexion with the nomination of the member.
 
@@ -494,17 +492,17 @@ Note:         The _Commonwealth Authorities and Companies Act 19
 
              (1)  A member of the Council may:
 
-                     (a)  in the case of the member appointed to represent the Commonwealth—with the approval of the Attorney‑General;
+                     (a)  in the case of the member appointed to represent the Commonwealth—with the approval of the Attorney-General;
 
                      (b)  in the case of a member appointed to represent a State—with the approval of the appropriate Minister of the State; or
 
-                   (ba)  in the case of the member appointed to represent the Australian Capital Territory—with the approval of the appropriate Minister of that Territory; or
+                    (ba)  in the case of the member appointed to represent the Australian Capital Territory—with the approval of the appropriate Minister of that Territory; or
 
                      (c)  in the case of the member appointed to represent the Northern Territory—with the approval of the appropriate Minister of that Territory;
 
 appoint a person, other than a member, to be the deputy of the member.
 
-             (2)  A member may revoke the appointment of a person as the deputy of the member, but the revocation is not effective until the member has given notice of it by writing signed by the member and delivered to the Attorney‑General, to the appropriate Minister of the State concerned, or to the appropriate Minister of the Australian Capital Territory or the Northern Territory, as the case requires.
+             (2)  A member may revoke the appointment of a person as the deputy of the member, but the revocation is not effective until the member has given notice of it by writing signed by the member and delivered to the Attorney-General, to the appropriate Minister of the State concerned, or to the appropriate Minister of the Australian Capital Territory or the Northern Territory, as the case requires.
 
              (3)  The deputy of a member is entitled, in the event of the absence of the member from a meeting of the Council, to attend that meeting and, when so attending, shall be deemed to be the member of whom he or she is the deputy.
 
@@ -518,13 +516,13 @@ appoint a person, other than a member, to be the deputy of the member.
 
                      (b)  ceasing to be a member.
 
-             (3)  The Chair may resign from office as Chair by writing signed by the Chair and delivered to the Attorney‑General.
+             (3)  The Chair may resign from office as Chair by writing signed by the Chair and delivered to the Attorney-General.
 
-             (4)  The Chair is eligible for re‑election.
+             (4)  The Chair is eligible for re-election.
 
 ##### <a id="38"></a>38  Resignation of members of Council and deputies of members
 
-             (1)  The member of the Council who is appointed to represent the Commonwealth, or the deputy of that member, may resign from office by writing signed by the member or the deputy, as the case may be, and delivered to the Attorney‑General.
+             (1)  The member of the Council who is appointed to represent the Commonwealth, or the deputy of that member, may resign from office by writing signed by the member or the deputy, as the case may be, and delivered to the Attorney-General.
 
              (2)  A member of the Council who is appointed to represent a State, or the deputy of that member, may resign from office by writing signed by the member or the deputy, as the case may be, and delivered to the appropriate Minister of the State.
 
@@ -536,7 +534,7 @@ appoint a person, other than a member, to be the deputy of the member.
 
              (1)  The Chair of the Council or the deputy of the Chair may convene meetings of the Council.
 
-             (2)  If neither the Chair nor the deputy of the Chair is available, the Attorney‑General may convene a meeting of the Council.
+             (2)  If neither the Chair nor the deputy of the Chair is available, the Attorney-General may convene a meeting of the Council.
 
              (3)  The Chair or the deputy of the Chair shall preside at all meetings of the Council at which he or she is present.
 
@@ -544,7 +542,7 @@ appoint a person, other than a member, to be the deputy of the member.
 
              (5)  For the purposes of a meeting of the Council, the member representing the Commonwealth and 4 other members constitute a quorum.
 
-             (6)  A member of the Council may, by writing signed by the member, appoint another member or the deputy of another member as the proxy of the first‑mentioned member to attend and vote on behalf of the first‑mentioned member at a meeting of the Council at which neither the first‑mentioned member nor the deputy of the first‑mentioned member is present.
+             (6)  A member of the Council may, by writing signed by the member, appoint another member or the deputy of another member as the proxy of the first-mentioned member to attend and vote on behalf of the first-mentioned member at a meeting of the Council at which neither the first-mentioned member nor the deputy of the first-mentioned member is present.
 
              (7)  At a meeting of the Council:
 
@@ -562,13 +560,13 @@ appoint a person, other than a member, to be the deputy of the member.
 
                    The Council has power to do all things that are necessary or convenient to be done for or in connexion with the performance of its functions.
 
-##### <a id="43"></a>43  Copy of annual report also to be given to State, Australian Capital   Territory and Northern Territory Ministers and Auditors‑General
+##### <a id="43"></a>43  Copy of annual report also to be given to State, Australian Capital   Territory and Northern Territory Ministers and Auditors-General
 
-                   As soon as practicable after the members of the Council give the Attorney‑General the annual report on the Council for a financial year under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must give a copy of the report to:
+                   As soon as practicable after the members of the Council give the Attorney-General the annual report on the Council for a financial year under section 9 of the _Commonwealth Authorities and Companies Act 1997_, the members must give a copy of the report to:
 
                      (a)  the appropriate Minister of each State, of the Australian Capital Territory and of the Northern Territory; and
 
-                     (b)  the Auditor‑General of each State, of the Australian Capital Territory and of the Northern Territory.
+                     (b)  the Auditor-General of each State, of the Australian Capital Territory and of the Northern Territory.
 
 ## Part IV—The Criminology Research Fund
 
@@ -614,7 +612,7 @@ appoint a person, other than a member, to be the deputy of the member.
 
 ##### <a id="51"></a>51  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # Notes to the _Criminology Research Act 1971_
 
@@ -915,23 +913,6 @@ Remainder: Royal Assent</div>
 19–29) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (items 79, 80): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -943,9 +924,9 @@ Remainder: Royal Assent</div>
 
 _(a)_     The _Criminology Research Act 1971_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Criminology Research Act 1971_ was amended by Schedule 4 (items 54 and 55) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(b)_    The _Criminology Research Act 1971_ was amended by Schedule 4 (items 54 and 55) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -1003,7 +984,7 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 123, 1986; No. 152, 1997; No. 41, 2003; No. 5, 2011</div>
+    <div>am. No. 123, 1986; No. 152, 1997; No. 41, 2003</div>
   </td>
 </tr>
 <tr>
@@ -1235,7 +1216,7 @@ _(d)_     The _Criminology Research Act 1971_ was amended by Schedule 
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 123, 1986; No. 5, 2011</div>
+    <div>am. No. 36, 1978; No. 123, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1583,7 +1564,7 @@ Repeal the Division.
 
 ## 10  Subsections 15(1) and (2)
 
-Omit “Governor‑General”, substitute “Attorney‑General”.
+Omit “Governor-General”, substitute “Attorney-General”.
 
 ## 11  Section 16
 
@@ -1597,7 +1578,7 @@ Repeal the section, substitute:
 
                               (i)  approved by the Director, taking the advice of the Advisory Council into account; or
 
-                             (ii)  requested by the Attorney‑General;
+                             (ii)  requested by the Attorney-General;
 
                      (b)  to communicate the results of that research to the Commonwealth, the States, the Australian Capital Territory, the Northern Territory and the community;
 
@@ -1605,7 +1586,7 @@ Repeal the section, substitute:
 
                               (i)  approved by the Director, taking the advice of the Advisory Council into account; or
 
-                             (ii)  requested by the Attorney‑General;
+                             (ii)  requested by the Attorney-General;
 
                      (d)  to advise the Advisory Council in relation to needs for, and programs of, criminological research;
 
@@ -1633,11 +1614,11 @@ Omit “7 years”, substitute “5 years”.
 
 ## 13  Subsection 17(4)
 
-Omit “Governor‑General”, substitute “Attorney‑General”.
+Omit “Governor-General”, substitute “Attorney-General”.
 
 ## 14  Sections 20 and 21
 
-Omit “Governor‑General”, substitute “Attorney‑General”.
+Omit “Governor-General”, substitute “Attorney-General”.
 
 ## 15  Section 23
 
@@ -1651,7 +1632,7 @@ Repeal the section, substitute:
 
                      (b)  persons employed or engaged by the Institute for a particular project.
 
-             (2)  The Director, with the approval of the Attorney‑General, must determine the terms and conditions of employment of the persons mentioned in paragraph (1)(b).
+             (2)  The Director, with the approval of the Attorney-General, must determine the terms and conditions of employment of the persons mentioned in paragraph (1)(b).
 
              (3)  For the purposes of the _Public Service Act 1999_:
 
@@ -1687,15 +1668,15 @@ Repeal the Parts, substitute:
 
              (3)  The Advisory Council consists of the following members:
 
-                     (a)  a representative of the Commonwealth, who is appointed by the Attorney‑General;
+                     (a)  a representative of the Commonwealth, who is appointed by the Attorney-General;
 
-                     (b)  a representative of each of the States, the Australian Capital Territory and the Northern Territory, who is appointed by the Attorney‑General for the State or Territory.
+                     (b)  a representative of each of the States, the Australian Capital Territory and the Northern Territory, who is appointed by the Attorney-General for the State or Territory.
 
              (4)  A person stops being a member of the Advisory Council if:
 
-                     (a)  the person resigns, by a written notice given to the Attorney‑General of the government that the person represents; or
+                     (a)  the person resigns, by a written notice given to the Attorney-General of the government that the person represents; or
 
-                     (b)  the Attorney‑General of the government that the person represents, by a written notice, revokes the appointment.
+                     (b)  the Attorney-General of the government that the person represents, by a written notice, revokes the appointment.
 
 ##### <a id="34"></a>34  Meetings of the Advisory Council
 
@@ -1773,7 +1754,7 @@ Note:          Also see section 34C of the _Acts Interpretat
 
                      (b)  any other matter prescribed by the regulations.
 
-As at 19 April 2011 the amendments are not incorporated in this compilation.
+As at 11 January 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1797,37 +1778,37 @@ The following provisions commence on 1 July 2011:
 
 ## 19  Institute and Board
 
-(1)       This item applies despite the amendment or repeal of a provision of the _Criminology Research Act 1971_ made by this Schedule.
+(1)        This item applies despite the amendment or repeal of a provision of the _Criminology Research Act 1971_ made by this Schedule.
 
-(2)       A person who holds office as a member of the Criminology Research Council, immediately before the commencement of this item, continues to hold office as a member of the Criminology Research Advisory Council after that commencement on the same terms and conditions, as if appointed under section 33 of the _Criminology Research Act 1971_ as inserted by this Act.
+(2)        A person who holds office as a member of the Criminology Research Council, immediately before the commencement of this item, continues to hold office as a member of the Criminology Research Advisory Council after that commencement on the same terms and conditions, as if appointed under section 33 of the _Criminology Research Act 1971_ as inserted by this Act.
 
-(3)       A person who holds office as the Director of the Australian Institute of Criminology (the **_Institute_**), immediately before the commencement of this item, continues to hold office after that commencement on the same terms and conditions, as if appointed by the Attorney‑General.
+(3)        A person who holds office as the Director of the Australian Institute of Criminology (the **_Institute_**), immediately before the commencement of this item, continues to hold office after that commencement on the same terms and conditions, as if appointed by the Attorney-General.
 
-(4)       If the context permits:
+(4)        If the context permits:
 
                      (a)  a reference in an Act, statutory instrument or other document (including a contract, for example) to the Board is a reference to the Director; and
 
                      (b)  a reference in an Act, statutory instrument or other document to a member of the Board is a reference to a member of the Institute.
 
-(5)       A decision made by the Board that is in force immediately before this item commences continues in force when this item commences, as if made by the Director.
+(5)        A decision made by the Board that is in force immediately before this item commences continues in force when this item commences, as if made by the Director.
 
-(6)       In this item:
+(6)        In this item:
 
 **_decision_** includes an agreement, approval, authorisation, certificate, consent, declaration, deed, delegation, direction, dismissal, exemption, instruction, minute of a meeting, order, policy, protocol, recommendation, release, resolution or settlement, for example.
 
 ## 20  Employees
 
-(1)       This item applies to a person who was an employee of the old Institute immediately before this Schedule commenced.
+(1)        This item applies to a person who was an employee of the old Institute immediately before this Schedule commenced.
 
-(2)       If a public service determination applies to the person, the person’s service as an employee of the old Institute is taken, for all purposes, to be continuous with his or her service as an employee of the new Institute.
+(2)        If a public service determination applies to the person, the person’s service as an employee of the old Institute is taken, for all purposes, to be continuous with his or her service as an employee of the new Institute.
 
-(3)       If a public service determination does not apply to the person:
+(3)        If a public service determination does not apply to the person:
 
                      (a)  the person is taken, when this Schedule commences, to be employed under this Act as an employee of the new Institute without change to the terms and conditions of their employment; and
 
                      (b)  the person’s service as an employee of the old Institute is taken, for all purposes, to be continuous with his or her service as an employee of the new Institute.
 
-(4)       In this item:
+(4)        In this item:
 
 **_new Institute_** means the Institute as it exists after this Schedule commences.
 
@@ -1841,7 +1822,7 @@ The following provisions commence on 1 July 2011:
 
 ## 21  Vesting of property and money
 
-(1)       When this Schedule commences:
+(1)        When this Schedule commences:
 
                      (a)  any real or personal property or money of, or held on trust by, the Institute immediately before this Schedule commences:
 
@@ -1851,7 +1832,7 @@ The following provisions commence on 1 July 2011:
 
                      (b)  the Commonwealth becomes the Institute’s successor in law in relation to that property or money.
 
-(2)       An amount that is equal to the total of following amounts is credited to the Criminology Research Special Account when this Schedule commences:
+(2)        An amount that is equal to the total of following amounts is credited to the Criminology Research Special Account when this Schedule commences:
 
                      (a)  the amount of money that the Institute had immediately before this Schedule commences;
 
@@ -1871,7 +1852,7 @@ When this Schedule commences:
 
 ## 23  Instruments relating to transferred assets and liabilities
 
-(1)       This item applies to an instrument that:
+(1)        This item applies to an instrument that:
 
                      (a)  relates to assets or liabilities covered by items 21 and 22; and
 
@@ -1879,7 +1860,7 @@ When this Schedule commences:
 
                      (c)  is in force immediately before this Schedule commences.
 
-(2)       When this Schedule commences, the reference to the Institute is to be read as a reference to the Commonwealth as necessary to give effect to items 21 and 22.
+(2)        When this Schedule commences, the reference to the Institute is to be read as a reference to the Commonwealth as necessary to give effect to items 21 and 22.
 
 ## 24  Exemption from stamp duty and other State or Territory taxes
 
@@ -1891,21 +1872,21 @@ No stamp duty or other tax is payable under a law of a State or Territory in res
 
 ## 25  Proceedings
 
-(1)       This item applies to any proceedings to which the Institute was a party that were pending in any court or tribunal immediately before this Schedule commences.
+(1)        This item applies to any proceedings to which the Institute was a party that were pending in any court or tribunal immediately before this Schedule commences.
 
-(2)       When this Schedule commences, the Commonwealth is substituted for the Institute as a party to the proceedings.
+(2)        When this Schedule commences, the Commonwealth is substituted for the Institute as a party to the proceedings.
 
 ## 26  Contracts
 
-(1)       This item applies to a contract that:
+(1)        This item applies to a contract that:
 
                      (a)  was entered into by the Institute before this Schedule commences; and
 
                      (b)  was in force immediately before commencement of this Schedule.
 
-(2)       When this Schedule commences, the contract has effect as if the Commonwealth had entered into the contract.
+(2)        When this Schedule commences, the contract has effect as if the Commonwealth had entered into the contract.
 
-(3)       In this item:
+(3)        In this item:
 
 **_contract_** includes an agreement, arrangement or understanding.
 
@@ -1917,7 +1898,7 @@ If the Consolidated Revenue Fund is appropriated under an Act (an **_appropriati
 
 Reports for periods ending before this Schedule commences
 
-(1)       If:
+(1)        If:
 
                      (a)  a law required the Institute, or the Criminology Research Council, to provide a report (whether financial statements or otherwise) for a period that ended before this Schedule commences; and
 
@@ -1927,7 +1908,7 @@ the Institute  must provide the report as required.
 
 Reports for periods ending after this Schedule commences
 
-(2)       If:
+(2)        If:
 
                      (a)  immediately before this Schedule commences, a law required the Institute, or the Criminology Research Council, to provide a report (whether financial statements or otherwise) for a period; and
 
@@ -1935,7 +1916,7 @@ Reports for periods ending after this Schedule commences
 
 the Institute  must provide the report, as required, for the part of the period that occurs before this Schedule commences.
 
-(3)       If:
+(3)        If:
 
                      (a)  under subitem (2), the Institute is required to provide a report for a part of a period; and
 
@@ -1945,15 +1926,15 @@ the Institute may meet the requirements in a single report for the period.
 
 ## 29  Regulations
 
-(1)       The Governor‑General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Part to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Part.
 
-(2)       In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
+(2)        In particular, regulations may be made prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by this Schedule.
 
-(3)       Without limiting subitem (2), the regulations may prescribe matters of a transitional nature in relation to the transfer of staff from the old Institute to the new Institute and, in particular, may provide for:
+(3)        Without limiting subitem (2), the regulations may prescribe matters of a transitional nature in relation to the transfer of staff from the old Institute to the new Institute and, in particular, may provide for:
 
                      (a)  the way in which the entitlements and obligations of the staff of the old Institute are to be treated on the transfer of staff; or
 
@@ -1969,7 +1950,7 @@ the Institute may meet the requirements in a single report for the period.
 
                              (ii)  things done by, for or in relation to the old Institute or a staff member of the old Institute before this Schedule commences.
 
-(4)       Regulations made under subitem (1) have effect despite:
+(4)        Regulations made under subitem (1) have effect despite:
 
                      (a)  the _Fair Work Act 2009_; or
 
@@ -1977,7 +1958,7 @@ the Institute may meet the requirements in a single report for the period.
 
                      (c)  the _Public Service Act 1999_.
 
-(5)       In this item:
+(5)        In this item:
 
 **_new Institute_** means the Institute as it exists after this Schedule commences.
 
@@ -2000,5 +1981,7 @@ the Institute may meet the requirements in a single report for the period.
                      (g)  transfers, redundancy, resignations, or termination of employment;
 
                      (h)  leave.
+
+ 
 
  
