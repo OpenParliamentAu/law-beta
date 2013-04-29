@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00342/Html/623d742f-dec1-42eb-a042-79d98e113e7a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00875/Html/feb5f776-25e8-4672-a5f3-0655a47230ea_files/image001.gif)
 
 # National Library Act 1960
 
 **Act No. 69 of 1960 as amended**
 
-This compilation was prepared on 27 March 2012
+This compilation was prepared on 28 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -140,7 +140,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (3)  All courts, judges and persons acting judicially shall take judicial notice of the seal of the Library affixed to a document and shall presume that it was duly affixed.
 
-##### <a id="6"></a>6  Functions of Library
+##### <a id="6"></a>6  Functions of Library
 
                    The functions of the Library are, on behalf of the Commonwealth:
 
@@ -220,7 +220,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (3)  A member of the Council elected by either House of the Parliament holds office, subject to this Act, for such period, not exceeding 3 years, as is fixed by that House at the time of his or her election.
 
-             (4)  A member of the Council appoint ed by the Governor‑General holds office, subject to this Act, for such period, not exceeding 3 years, as is fixed by the Governor‑General at the time of his or her appointment.
+             (4)  A member of the Council appointed by the Governor‑General holds office, subject to this Act, for such period, not exceeding 3 years, as is fixed by the Governor‑General at the time of his or her appointment.
 
              (5)  A member of the Council elected by either House of the Parliament or appointed by the Governor‑General is eligible for re‑election or re‑appointment.
 
@@ -228,13 +228,29 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="11"></a>11  Acting members
 
-                   The Minister may appoint a person to act as a member appointed by the Governor‑General:
+             (1)  The Minister may appoint a person to act as a member appointed by the Governor‑General:
 
                      (a)  during a vacancy in the office of such a member; or
 
-                     (b)  during any period, or during all periods, when such a member is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when such a member is absent from duty or from Australia or is, for any other reason, unable to perform the functions of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment under this section may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed under this section; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (4)  Where a person is acting as a member appointed by the Governor‑General in accordance with paragraph (1)(b) and the office of that member becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever first happens.
+
+             (5)  A person appointed to act under this section may resign his or her appointment by writing signed by the person and delivered to the Minister.
+
+             (6)  Where a person is acting as a member appointed by the Governor‑General, that person has and may exercise all the powers, and shall perform all the functions, of that member.
+
+             (7)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, or that there is a defect or irregularity in, or in connection with, the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="12"></a>12  Chair and Deputy Chair
 
@@ -368,9 +384,25 @@ the Governor‑General shall terminate the appointment of the Director‑General
 
                      (a)  during a vacancy in the office;
 
-                     (b)  during any period, or during all periods, when the Director‑General is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office of Director‑General.
+                     (b)  during any period, or during all periods, when the Director‑General is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office of Director‑General;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment under this section may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person appointed under this section; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (4)  Where a person is acting as Director‑General in accordance with paragraph (1)(b) and the office of Director‑General becomes vacant while that person is so acting, then, subject to subsection (2), that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever first happens.
+
+             (5)  A person appointed to act under this section may resign his or her appointment by writing signed by the person and delivered to the Minister.
+
+             (6)  While a person is acting as Director‑General, that person has and may exercise all the powers, and shall perform all the functions, of the Director‑General.
+
+             (7)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
              (8)  Section 17B applies in relation to a person appointed under this section in like manner as it applies in relation to the Director‑General.
 
@@ -787,7 +819,7 @@ Remainder: Royal Assent</div>
       <div>27 June 2011</div>
     </td>
     <td>
-      <div>Schedule 2 (items 813–821) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+      <div>Schedule 2 (items 813–821) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
       <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -944,22 +976,6 @@ _(g)_     The _National Library Act 1960_ was amended by Schedule 10 (
   </td>
   <td>
     <div>rs. No. 165, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1228,22 +1244,6 @@ _(g)_     The _National Library Act 1960_ was amended by Schedule 10 (
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 17J(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 18</div>
   </td>
   <td>
@@ -1411,6 +1411,56 @@ _(g)_     The _National Library Act 1960_ was amended by Schedule 10 (
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 813  Subsection 11(1)
+
+Omit “(1)”.
+
+## 814  Paragraph 11(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 815  Subsection 11(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 816  At the end of subsection 11(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 817  Subsections 11(2) to (7)
+
+Repeal the subsections.
+
+## 818  Paragraph 17J(1)(b)
+
+Omit “Director‑General;”, substitute “Director‑General.”.
+
+## 819  Subsection 17J(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 820  At the end of subsection 17J(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 821  Subsections 17J(2) to (7)
+
+Repeal the subsections.
+
+As at 28 October 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1427,6 +1477,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
