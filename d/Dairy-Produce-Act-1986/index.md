@@ -1,7 +1,7 @@
 
 Dairy Produce Act 1986
 Act No. 54 of 1986 as amended
-This compilation was prepared on 16 October 2001  taking into account amendments up to Act No. 115 of 2001
+This compilation was prepared on 8 August 2001  taking into account amendments up to Act No. 94 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -13,7 +13,6 @@ Part I—Preliminary	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
 4	Act to bind Crown	6
-4A	Application of the Criminal Code	6
 Part II—The Australian Dairy Corporation	7
 Division 1—Constitution, objective and functions of Corporation	7
 5	Australian Dairy Corporation	7
@@ -23,323 +22,326 @@ Division 1—Constitution, objective and functions of Corporation	7
 Division 2—Powers and duties of Corporation	10
 9	Powers of the Corporation	10
 10	Dealing in dairy produce	10
-11	Subsidiary companies etc.	12
+11	Subsidiary companies etc.	11
 12	Asia Dairy Industries	13
 13	Power of Corporation to lend money	15
-14	Corporation may consult industry representatives	16
+14	Corporation may consult industry representatives	15
 15	Committees	16
 16	Report to Council	16
-Division 3—Corporate plans and annual operational plans	18
-17	Corporation to prepare corporate plans	18
-18	Agreement to corporate plans	19
-19	Variation of corporate plans by Corporation	19
-20	Variation of corporate plans at request of Minister	20
-21	Date of effect of variations	21
-22	Notice of variation of corporate plans	21
-23	Corporation to prepare annual operational plans	21
-24	Agreement to annual operational plans	21
-25	Variation of annual operational plans	22
-26	Notice of variation of annual operational plan	23
-27	Consultation with the executive	23
-Part III—Membership and meetings of Corporation	24
-Division 1—Nominations for membership of Corporation	24
-28	Selection Committee	24
-29	Minister may request nominations	24
-30	Selection of nominees	24
-31	Nominations	25
-32	Minister may reject nomination	26
-Division 2—Provisions relating to membership and meetings of Corporation	27
-33	Membership of Corporation	27
-34	Deputies of Chairperson and government member	28
-35	Situations that do not amount to interests requiring disclosure	29
-36	Remuneration and allowances	29
-37	Leave of absence of appointed members	30
-38	Termination etc. of appointments	30
-39	Meetings of Corporation	31
-40	Resolutions without formal meetings	32
-Division 3—Provisions relating to membership and meetings of Selection Committee	33
-41	Membership of Selection Committee	33
-42	Remuneration	33
-43	Termination of appointments	33
-44	Meetings of Selection Committee	33
-45	Staff and consultants	34
-46	Applied provisions	34
-Part IV—Staff	36
-47	Managing Director	36
-48	Acting Managing Director	37
-49	Duties of Managing Director	38
-50	Other staff and consultants	38
-50A	Equal employment opportunity	38
-50B	Merit principle to apply	39
-Part V—Export control	40
-51	Interpretation	40
-51A	IDA minimum price	40
-52	Regulations relating to exports	41
-53	Corporation may issue directions	42
-54	Prohibition of export of controlled dairy exports	43
-55	Applications for licences	43
-56	Grant of licence	44
-57	Duration of licence	45
-58	Renewal of licences	45
-59	Cancellation of licences	45
-60	Operation of other laws	47
-Part VII—Finance	48
-Division 1—Preliminary	48
-71	Money to be paid to Corporation	48
-74	Application of money of Corporation	48
-75	Raising of money by Corporation	49
-76	Guarantee of borrowings by Corporation	50
-77	Borrowings not otherwise permitted	51
-78	Corporation may give security	52
-79	Hedging through currency contracts etc.	52
-80	Surplus or deficit in respect of certain activities of Corporation	54
-83	Liability to taxation	55
-85	Investment of money standing to credit of a relevant fund	55
-Division 2—Industry Fund	56
-86	Industry Fund	56
-87	Payments into Industry Fund	56
-88	Application of Industry Fund	56
-Division 3—Promotion Fund	59
-89	Dairy Produce Promotion Fund	59
-90	Payments into Promotion Fund	59
-91	Application of the Promotion Fund	60
-Division 4—Market Support Fund and market support payments	61
-92	Market Support Fund	61
-93	Payments into Market Support Fund	61
-94	Market support payments	62
-94A	Import offset payments	62
-95	Rate of market support payments in relation to prescribed dairy produce	64
-96	Rate of market support payments in relation to dairy produce other than prescribed dairy produce	67
-97	Special rates of market support payments	68
-99	Corporation may guarantee rate of market support payments	69
-100	Applications for market support payments	70
-101	Application of the Market Support Fund	71
-102	Winding‑up of Market Support Fund	72
-Division 5—Domestic Market Support Fund	74
-103	Definitions	74
-104	Establishment of Domestic Market Support Fund	75
-105	Money to be paid into Domestic Fund	75
-106	Application of Domestic Market Support Fund	76
-107	Payment of market milk and manufacturing milk levies to Corporation	77
-108	Returns to Corporation by manufacturers	78
-108A	Domestic market support payments	78
-108B	Rate of domestic market support payments	78
-108C	Recipients of domestic market support payments	79
-108D	Negative levy payments	79
-108E	Levy rebates to downstream manufacturers	80
-108EA	Levy rebates: Victorian gas supply failure	81
-108EB	Payment to milk producers: Victorian gas supply failure	82
-108F	Refunds of levy for 1 July 2000 stocks of dairy products	84
-108G	Winding‑up of Domestic Market Support Fund	85
-Part VIII—Miscellaneous	87
-109	Liability of Corporation for subsidiary companies	87
-109A	Reduction of acquisition offset and import offset levy amounts in certain circumstances	87
-109B	Reduction of levies to avoid double payment	89
-109C	Appointment of authorised persons	90
-110	Exporters other than manufacturers to furnish details of exports	90
-111	Power to call for returns	91
-111A	Determination of milk fat or protein content of dairy produce	91
-113	Offences in relation to returns etc.	93
-114	Court may order refunds	93
-115	Overpayments	95
-116	Access to premises	95
-117	Indictable offences	96
-118	Reconsideration and review of decisions	97
-119	Secrecy	99
-120	Appointment of authorised persons	100
-121	Validity of contracts	101
-123	Extra matters to be included in annual report	101
-124	Liability of members of Corporation	101
-125	Delegation by Corporation and Managing Director	102
-125A	Dairy industry adjustment program	102
-126	Regulations	102
-Schedule 1—Definitions related to sections 50A and 50B	104
-Schedule 2—Dairy industry adjustment program	107
-Part 1—Introduction	107
-1	Simplified outline	107
-2	Definitions	108
-3	DSAP payment start day	111
-4	DSAP claim period	111
-5	Entity	112
-6	Dairy farm enterprise	112
-7	Eligible interest in a dairy farm enterprise	113
-8	Application to things happening before commencement	114
-Part 2—DSAP payments and SDA payments	115
-Division 1—DSAP scheme	115
-9	Simplified outline	115
-10	DSAP scheme	116
-11	General policy objectives for the DSAP scheme	116
-12	Types of payment rights	116
-13	Standard payment right	117
-14	Exceptional events supplementary payment right	120
-15	Anomalous circumstances payment right	121
-16	$350,000 cap	122
-17	Farm business assessment	125
-18	Units in payment rights	126
-19	Cancellation of units	126
-20	Duration of scheme	127
-21	Register of units etc.	127
-22	Invitations to make claims for payment rights etc.	129
-23	Making of DSAP payments	130
-24	Scheme may confer administrative powers on the DAA	132
-25	Reconsideration and review of decisions	132
-26	Statement to accompany notification of decisions	133
-27	Fees	134
-28	Statutory declarations	134
-29	Methods by which DSAP payments may be made	134
-30	Adjustment of eligibility for payment rights—transfer of milk delivery rights	135
-31	Adjustment of eligibility for payment rights—abnormal market milk pool distributions	135
-32	Adjustment of eligibility for payment rights—death	136
-33	Ancillary or incidental provisions	136
-34	Scheme‑making power not limited	136
-35	Variation of scheme	136
-36	Scheme to be a disallowable instrument	137
-37	Application to things happening before commencement	137
-Division 1A—Supplementary Dairy Assistance (SDA) scheme	138
-37A	Simplified outline	138
-37B	Formulation of scheme	138
-37C	General policy objectives for the SDA scheme	139
-37D	Types of payment rights	139
-37DA	Basic market milk payment rights—eligibility etc.	139
-37E	Additional market milk payment rights—eligibility etc.	140
-37F	Market milk payment rights—offsetting	142
-37G	Discretionary payment rights—eligibility	143
-37H	Discretionary payment rights—entity affected by significant event, crisis or anomalous circumstances etc.	143
-37J	Discretionary payment rights—entity suffered a fall in lease income etc.	143
-37K	Units in payment rights	145
-37L	Cancellation of units	145
-37M	Duration of scheme	146
-37N	Register of units etc.	146
-37P	Making of SDA payments	147
-37Q	Conferral of administrative powers etc.	148
-37R	Review of decisions	148
-37S	Fees	148
-37T	Statutory declarations	148
-37U	Methods by which SDA payments may be made	148
-37V	Adjustment of eligibility for payment rights etc.—death	149
-37W	Ancillary or incidental provisions	149
-37X	Scheme‑making power not limited	149
-37Y	Variation of scheme	149
-37Z	Scheme to be a disallowable instrument	149
-37ZA	Application to things happening before commencement	150
-37ZB	Use and disclosure of information obtained under the DSAP scheme	150
-Division 2—Information‑gathering powers	151
-38	DAA may obtain information and documents	151
-39	Copying documents—reasonable compensation	152
-40	Self‑incrimination	152
-41	Copies of documents	153
-42	DAA may retain documents	153
-Division 3—Protection of confidentiality of information	154
-43	Protection of confidentiality of information	154
-Division 4—Recovery of scheme debts	156
-44	Scheme debt	156
-45	Scheme debts are debts due to the Corporation	156
-46	Recovery by legal proceedings	156
-47	Recovery by set‑off	156
-48	Corporation may collect money from a person who owes money to an entity	156
-49	Penalty for unpaid scheme debts	158
-Division 5—Cancellation of units	160
-50	Cancellation of units because of the making of a false statement	160
-51	Cancellation of units because of an error made by the DAA	161
-52	Cancellation of unit because of a breach of an undertaking to assign the unit	162
-53	Cancellation of units when a dairy exit payment becomes payable	163
-54	Limit on cancellation or variation	163
-Division 6—Dairy Adjustment Authority	164
-55	Dairy Adjustment Authority	164
-56	Functions	164
-57	Powers	164
-58	Phasing‑down of the DAA	164
-59	Membership of the DAA	165
-60	Qualifications of DAA members	166
-61	Appointment of DAA members	166
-62	Procedures	167
-63	Disclosure of interests before the second DAA phase‑down time	167
-64	Disclosure of interests after the second DAA phase‑down time	168
-65	Remuneration and allowances	170
-66	Leave of absence	170
-67	Resignation	170
-68	Termination of appointment	170
-69	Other terms and conditions	171
-70	Corporation must provide assistance to DAA	171
-71	Consultants etc.	172
-72	Delegation by DAA—before second DAA phase‑down time	172
-73	Delegation by DAA—after second DAA phase‑down time	173
-74	Annual report	173
-Division 7—Miscellaneous	174
-75	DSAP and SDA payments taken to be subsidies for the purposes of section 15‑10 of the Income Tax Assessment Act 1997	174
-76	Review in 2002‑2003	174
-Part 3—Dairy Structural Adjustment Fund	175
-77	Establishment of the Dairy Structural Adjustment Fund	175
-78	Money to be paid into the Dairy Structural Adjustment Fund	175
-79	Application of the Dairy Structural Adjustment Fund	176
-80	Solvency of the Dairy Structural Adjustment Fund	178
-81	Borrowing for the purposes of the Dairy Structural Adjustment Fund	178
-82	Investment of money standing to credit of the Dairy Structural Adjustment Fund	178
-83	Payment of dairy adjustment levy to the Corporation	178
-84	Payment of DSAP and SDA scheme fees to the Corporation	179
-85	Payment of penalties under the DSAP scheme and SDA scheme to the Corporation	179
-86	Dairy Regional Assistance Programme	179
-Part 4—Collection of dairy adjustment levy	181
-Division 1—Introduction	181
-87	Simplified outline	181
-88	Definitions	181
-Division 2—Liability for levy	184
-89	When levy is payable	184
-90	Commencement of levy	184
-91	No double levy	184
-92	Exemptions from levy	184
-93	Who pays the levy	185
-94	Termination of levy when core funding obligations are met	185
-95	Termination of levy if DSAP payment start day does not occur within 6 months after the Dairy Industry Adjustment Act 2000 receives Royal Assent	186
-Division 3—When levy due for payment	187
-96	When levy due for payment	187
-Division 4—Collection agents, collection sub‑agents and collecting organisations	188
-97	Collection agents	188
-98	Collection sub‑agents—simple supply chain	189
-99	Collection sub‑agents—complex supply chain	191
-100	Collection agents and collection sub‑agents to notify unpaid levy	194
-101	Collection agents and collection sub‑agents to notify unremitted levy	195
-102	Collection agents and collection sub‑agents to issue receipts for levy	195
-103	Collecting organisations	196
-104	Application of the Financial Management and Accountability Act 1997	198
-Division 5—Record‑keeping requirements	199
-105	Record‑keeping requirements for levy payers	199
-106	Record‑keeping requirements for collection agents and collection sub‑agents	200
-Division 6—Late payment penalty	201
-107	Late payment penalty	201
-Division 7—Recovery of levy debts	203
-108	Levy debts	203
-109	Levy debts are debts due to the Commonwealth	203
-110	Recovery of levy debts	203
-111	Commonwealth may collect money from a person who owes money to a person	204
-Division 8—Information‑gathering powers	206
-112	Power to call for returns or information	206
-113	Regulations may require the giving of returns or information	207
-114	Self‑incrimination	207
-Division 9—Access to premises	209
-115	Powers of authorised person in relation to premises	209
-116	Obstruction of authorised person acting under a warrant	209
-117	Persons to assist authorised persons acting under a warrant	210
-118	Warrant to enter premises	210
-119	Identity cards	211
-Division 10—Evidentiary certificates	213
-120	Evidentiary certificates	213
-121	Evidentiary effect of certificate	213
-Division 11—Miscellaneous	215
-122	Designated small remitters	215
-123	Designated small levy‑payers	215
-124	Refund of overpayments	216
-125	Refund of levy	216
-126	Methods by which levy may be paid or remitted	216
-127	Authorised persons	216
-128	Publication of information about levy	217
-129	Delegation by Secretary	217
-130	Reconsideration and review of decisions	218
-131	Commonwealth not liable to levy	219
-Part 5—Offences	221
-133	False or misleading evidence	221
-Notes		223
-
+Division 3—Corporate plans and annual operational plans	17
+17	Corporation to prepare corporate plans	17
+18	Agreement to corporate plans	18
+19	Variation of corporate plans by Corporation	18
+20	Variation of corporate plans at request of Minister	19
+21	Date of effect of variations	20
+22	Notice of variation of corporate plans	20
+23	Corporation to prepare annual operational plans	20
+24	Agreement to annual operational plans	20
+25	Variation of annual operational plans	21
+26	Notice of variation of annual operational plan	22
+27	Consultation with the executive	22
+Part III—Membership and meetings of Corporation	23
+Division 1—Nominations for membership of Corporation	23
+28	Selection Committee	23
+29	Minister may request nominations	23
+30	Selection of nominees	23
+31	Nominations	24
+32	Minister may reject nomination	25
+Division 2—Provisions relating to membership and meetings of Corporation	26
+33	Membership of Corporation	26
+34	Deputies of Chairperson and government member	27
+35	Situations that do not amount to interests requiring disclosure	28
+36	Remuneration and allowances	28
+37	Leave of absence of appointed members	29
+38	Termination etc. of appointments	29
+39	Meetings of Corporation	30
+40	Resolutions without formal meetings	31
+Division 3—Provisions relating to membership and meetings of Selection Committee	32
+41	Membership of Selection Committee	32
+42	Remuneration	32
+43	Termination of appointments	32
+44	Meetings of Selection Committee	32
+45	Staff and consultants	33
+46	Applied provisions	33
+Part IV—Staff	35
+47	Managing Director	35
+48	Acting Managing Director	36
+49	Duties of Managing Director	37
+50	Other staff and consultants	37
+50A	Equal employment opportunity	37
+50B	Merit principle to apply	38
+Part V—Export control	39
+51	Interpretation	39
+51A	IDA minimum price	39
+52	Regulations relating to exports	40
+53	Corporation may issue directions	41
+54	Prohibition of export of controlled dairy exports	42
+55	Applications for licences	42
+56	Grant of licence	42
+57	Duration of licence	43
+58	Renewal of licences	44
+59	Cancellation of licences	44
+60	Operation of other laws	45
+Part VII—Finance	46
+Division 1—Preliminary	46
+71	Money to be paid to Corporation	46
+74	Application of money of Corporation	46
+75	Raising of money by Corporation	47
+76	Guarantee of borrowings by Corporation	48
+77	Borrowings not otherwise permitted	49
+78	Corporation may give security	50
+79	Hedging through currency contracts etc.	50
+80	Surplus or deficit in respect of certain activities of Corporation	52
+83	Liability to taxation	53
+85	Investment of money standing to credit of a relevant fund	53
+Division 2—Industry Fund	54
+86	Industry Fund	54
+87	Payments into Industry Fund	54
+88	Application of Industry Fund	54
+Division 3—Promotion Fund	57
+89	Dairy Produce Promotion Fund	57
+90	Payments into Promotion Fund	57
+91	Application of the Promotion Fund	58
+Division 4—Market Support Fund and market support payments	59
+92	Market Support Fund	59
+93	Payments into Market Support Fund	59
+94	Market support payments	60
+94A	Import offset payments	60
+95	Rate of market support payments in relation to prescribed dairy produce	62
+96	Rate of market support payments in relation to dairy produce other than prescribed dairy produce	65
+97	Special rates of market support payments	66
+99	Corporation may guarantee rate of market support payments	67
+100	Applications for market support payments	68
+101	Application of the Market Support Fund	69
+102	Winding‑up of Market Support Fund	70
+Division 5—Domestic Market Support Fund	72
+103	Definitions	72
+104	Establishment of Domestic Market Support Fund	73
+105	Money to be paid into Domestic Fund	73
+106	Application of Domestic Market Support Fund	74
+107	Payment of market milk and manufacturing milk levies to Corporation	75
+108	Returns to Corporation by manufacturers	76
+108A	Domestic market support payments	76
+108B	Rate of domestic market support payments	76
+108C	Recipients of domestic market support payments	77
+108D	Negative levy payments	77
+108E	Levy rebates to downstream manufacturers	78
+108EA	Levy rebates: Victorian gas supply failure	79
+108EB	Payment to milk producers: Victorian gas supply failure	80
+108F	Refunds of levy for 1 July 2000 stocks of dairy products	82
+108G	Winding‑up of Domestic Market Support Fund	83
+Part VIII—Miscellaneous	85
+109	Liability of Corporation for subsidiary companies	85
+109A	Reduction of acquisition offset and import offset levy amounts in certain circumstances	85
+109B	Reduction of levies to avoid double payment	87
+109C	Appointment of authorised persons	88
+110	Exporters other than manufacturers to furnish details of exports	88
+111	Power to call for returns	89
+111A	Determination of milk fat or protein content of dairy produce	89
+113	Offences in relation to returns etc.	91
+114	Court may order refunds	91
+115	Overpayments	92
+116	Access to premises	93
+117	Indictable offences	94
+118	Reconsideration and review of decisions	95
+119	Secrecy	97
+120	Appointment of authorised persons	98
+121	Validity of contracts	98
+123	Extra matters to be included in annual report	99
+124	Liability of members of Corporation	99
+125	Delegation by Corporation and Managing Director	99
+125A	Dairy industry adjustment program	100
+126	Regulations	100
+Schedule 1—Definitions related to sections 50A and 50B	102
+Schedule 2—Dairy industry adjustment program	105
+Part 1—Introduction	105
+1	Simplified outline	105
+2	Definitions	106
+3	DSAP payment start day	109
+4	DSAP claim period	109
+5	Entity	110
+6	Dairy farm enterprise	110
+7	Eligible interest in a dairy farm enterprise	111
+8	Application to things happening before commencement	112
+Part 2—DSAP payments and SDA payments	113
+Division 1—DSAP scheme	113
+9	Simplified outline	113
+10	DSAP scheme	114
+11	General policy objectives for the DSAP scheme	114
+12	Types of payment rights	114
+13	Standard payment right	115
+14	Exceptional events supplementary payment right	118
+15	Anomalous circumstances payment right	119
+16	$350,000 cap	120
+17	Farm business assessment	122
+18	Units in payment rights	123
+19	Cancellation of units	124
+20	Duration of scheme	124
+21	Register of units etc.	125
+22	Invitations to make claims for payment rights etc.	127
+23	Making of DSAP payments	128
+24	Scheme may confer administrative powers on the DAA	130
+25	Reconsideration and review of decisions	130
+26	Statement to accompany notification of decisions	131
+27	Fees	132
+28	Statutory declarations	132
+29	Methods by which DSAP payments may be made	132
+30	Adjustment of eligibility for payment rights—transfer of milk delivery rights	132
+31	Adjustment of eligibility for payment rights—abnormal market milk pool distributions	133
+32	Adjustment of eligibility for payment rights—death	133
+33	Ancillary or incidental provisions	134
+34	Scheme‑making power not limited	134
+35	Variation of scheme	134
+36	Scheme to be a disallowable instrument	134
+37	Application to things happening before commencement	134
+Division 1A—Supplementary Dairy Assistance (SDA) scheme	135
+37A	Simplified outline	135
+37B	Formulation of scheme	135
+37C	General policy objectives for the SDA scheme	136
+37D	Types of payment rights	136
+37DA	Basic market milk payment rights—eligibility etc.	136
+37E	Additional market milk payment rights—eligibility etc.	137
+37F	Market milk payment rights—offsetting	139
+37G	Discretionary payment rights—eligibility	140
+37H	Discretionary payment rights—entity affected by significant event, crisis or anomalous circumstances etc.	140
+37J	Discretionary payment rights—entity suffered a fall in lease income etc.	140
+37K	Units in payment rights	142
+37L	Cancellation of units	142
+37M	Duration of scheme	142
+37N	Register of units etc.	143
+37P	Making of SDA payments	144
+37Q	Conferral of administrative powers etc.	144
+37R	Review of decisions	145
+37S	Fees	145
+37T	Statutory declarations	145
+37U	Methods by which SDA payments may be made	145
+37V	Adjustment of eligibility for payment rights etc.—death	145
+37W	Ancillary or incidental provisions	146
+37X	Scheme‑making power not limited	146
+37Y	Variation of scheme	146
+37Z	Scheme to be a disallowable instrument	146
+37ZA	Application to things happening before commencement	146
+37ZB	Use and disclosure of information obtained under the DSAP scheme	146
+Division 2—Information‑gathering powers	148
+38	DAA may obtain information and documents	148
+39	Copying documents—reasonable compensation	149
+40	Self‑incrimination	149
+41	Copies of documents	150
+42	DAA may retain documents	150
+Division 3—Protection of confidentiality of information	151
+43	Protection of confidentiality of information	151
+Division 4—Recovery of scheme debts	153
+44	Scheme debt	153
+45	Scheme debts are debts due to the Corporation	153
+46	Recovery by legal proceedings	153
+47	Recovery by set‑off	153
+48	Corporation may collect money from a person who owes money to an entity	153
+49	Penalty for unpaid scheme debts	155
+Division 5—Cancellation of units	157
+50	Cancellation of units because of the making of a false statement	157
+51	Cancellation of units because of an error made by the DAA	158
+52	Cancellation of unit because of a breach of an undertaking to assign the unit	159
+53	Cancellation of units when a dairy exit payment becomes payable	160
+54	Limit on cancellation or variation	160
+Division 6—Dairy Adjustment Authority	161
+55	Dairy Adjustment Authority	161
+56	Functions	161
+57	Powers	161
+58	Phasing‑down of the DAA	161
+59	Membership of the DAA	162
+60	Qualifications of DAA members	163
+61	Appointment of DAA members	163
+62	Procedures	164
+63	Disclosure of interests before the second DAA phase‑down time	164
+64	Disclosure of interests after the second DAA phase‑down time	165
+65	Remuneration and allowances	167
+66	Leave of absence	167
+67	Resignation	167
+68	Termination of appointment	167
+69	Other terms and conditions	168
+70	Corporation must provide assistance to DAA	168
+71	Consultants etc.	169
+72	Delegation by DAA—before second DAA phase‑down time	169
+73	Delegation by DAA—after second DAA phase‑down time	170
+74	Annual report	170
+Division 7—Miscellaneous	171
+75	DSAP and SDA payments taken to be subsidies for the purposes of section 15‑10 of the Income Tax Assessment Act 1997	171
+76	Review in 2002‑2003	171
+Part 3—Dairy Structural Adjustment Fund	172
+77	Establishment of the Dairy Structural Adjustment Fund	172
+78	Money to be paid into the Dairy Structural Adjustment Fund	172
+79	Application of the Dairy Structural Adjustment Fund	173
+80	Solvency of the Dairy Structural Adjustment Fund	175
+81	Borrowing for the purposes of the Dairy Structural Adjustment Fund	175
+82	Investment of money standing to credit of the Dairy Structural Adjustment Fund	175
+83	Payment of dairy adjustment levy to the Corporation	175
+84	Payment of DSAP and SDA scheme fees to the Corporation	176
+85	Payment of penalties under the DSAP scheme and SDA scheme to the Corporation	176
+86	Dairy Regional Assistance Programme	176
+Part 4—Collection of dairy adjustment levy	178
+Division 1—Introduction	178
+87	Simplified outline	178
+88	Definitions	178
+Division 2—Liability for levy	181
+89	When levy is payable	181
+90	Commencement of levy	181
+91	No double levy	181
+92	Exemptions from levy	181
+93	Who pays the levy	182
+94	Termination of levy when core funding obligations are met	182
+95	Termination of levy if DSAP payment start day does not occur within 6 months after the Dairy Industry Adjustment Act 2000 receives Royal Assent	183
+Division 3—When levy due for payment	184
+96	When levy due for payment	184
+Division 4—Collection agents, collection sub‑agents and collecting organisations	185
+97	Collection agents	185
+98	Collection sub‑agents—simple supply chain	186
+99	Collection sub‑agents—complex supply chain	188
+100	Collection agents and collection sub‑agents to notify unpaid levy	191
+101	Collection agents and collection sub‑agents to notify unremitted levy	192
+102	Collection agents and collection sub‑agents to issue receipts for levy	192
+103	Collecting organisations	193
+104	Application of the Financial Management and Accountability Act 1997	195
+Division 5—Record‑keeping requirements	196
+105	Record‑keeping requirements for levy payers	196
+106	Record‑keeping requirements for collection agents and collection sub‑agents	197
+Division 6—Late payment penalty	198
+107	Late payment penalty	198
+Division 7—Recovery of levy debts	200
+108	Levy debts	200
+109	Levy debts are debts due to the Commonwealth	200
+110	Recovery of levy debts	200
+111	Commonwealth may collect money from a person who owes money to a person	201
+Division 8—Information‑gathering powers	203
+112	Power to call for returns or information	203
+113	Regulations may require the giving of returns or information	204
+114	Self‑incrimination	204
+Division 9—Access to premises	206
+115	Powers of authorised person in relation to premises	206
+116	Obstruction of authorised person acting under a warrant	206
+117	Persons to assist authorised persons acting under a warrant	206
+118	Warrant to enter premises	207
+119	Identity cards	207
+Division 10—Evidentiary certificates	209
+120	Evidentiary certificates	209
+121	Evidentiary effect of certificate	209
+Division 11—Miscellaneous	211
+122	Designated small remitters	211
+123	Designated small levy‑payers	211
+124	Refund of overpayments	212
+125	Refund of levy	212
+126	Methods by which levy may be paid or remitted	212
+127	Authorised persons	212
+128	Publication of information about levy	213
+129	Delegation by Secretary	213
+130	Reconsideration and review of decisions	214
+131	Commonwealth not liable to levy	215
+Part 5—Offences	217
+132	Application of Criminal Code	217
+133	False or misleading evidence	217
+134	False or misleading statements in claims	217
+135	False or misleading information	219
+136	False or misleading documents	219
+Notes		221
 An Act relating to the Australian Dairy Corporation, the marketing and export of dairy produce and the collection of certain levies imposed in connection with the dairy industry, and for other purposes
 Part I—Preliminary
   
@@ -425,9 +427,6 @@ Note:	For the manner in which the Chairperson and Deputy Chairperson may be refe
 4  Act to bind Crown
 	(1)	This Act binds the Crown in right of the Commonwealth and of each of the States and Territories.
 	(2)	Nothing in this Act renders the Crown in right of the Commonwealth or of a State or Territory liable to be prosecuted for an offence against, or arising under, this Act.
-4A  Application of the Criminal Code
-		Chapter 2 of the Criminal Code applies to all offences against this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 
 Part II—The Australian Dairy Corporation
 Division 1—Constitution, objective and functions of Corporation
@@ -867,26 +866,20 @@ and a licensee shall comply with such a direction that is given to the licensee.
 	(a)	it has, not less than 14 days before doing so, given notice in writing to all licensees that it proposes to give the direction; and
 	(b)	the executive agrees.
 54  Prohibition of export of controlled dairy exports
-	(1)	A person other than the Corporation shall not export controlled dairy exports from Australia.
-	(1A)	Subsection (1) does not apply if the person is a licensee.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (1A). See subsection 13.3(3) of the Criminal Code.
+	(1)	A person other than the Corporation shall not export controlled dairy exports from Australia unless the person is a licensee.
 	(2)	A person shall not export controlled dairy exports from Australia in contravention of regulations made for the purposes of subsection 52(1).
 Penalty:
 	(a)	in the case of a natural person—a fine of $5,000 or imprisonment for 2 years, or both; or
 	(b)	in the case of a body corporate—a fine of $25,000.
-	(3)	In subsection (2), strict liability applies to the physical element of circumstance, that the regulations were made under subsection 52(1).
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 55  Applications for licences
 	(1)	An application for an export licence shall be made to the Corporation as prescribed.
 	(2)	Where a person has furnished information (whether in writing or not) about a matter to the Corporation in connection with an application for an export licence and, before the application is granted or refused:
 	(a)	the information ceases to be correct; or
 	(b)	the person becomes aware that the information is not correct;
 the person shall, within 7 days after the occurrence of the change or becoming so aware, as the case may be, give to the Corporation, in writing, correct information in relation to the matter.
-	(3)	A person who fails to comply with subsection (2) is guilty of an offence punishable, on summary conviction, by:
+	(3)	A person who fails, without reasonable excuse, to comply with subsection (2) is guilty of an offence punishable, on summary conviction, by:
 	(a)	in the case of a natural person—a fine of $2,000 or imprisonment for 12 months or both; or
 	(b)	in the case of a body corporate—a fine of $10,000.
-	(4)	Subsection (3) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (4). See subsection 13.3(3) of the Criminal Code.
 56  Grant of licence
 	(1)	Subject to the succeeding provisions of this section, the Corporation shall, upon receiving an application, made as prescribed, for an export licence, grant an export licence to the applicant.
 	(2)	Where the applicant is a body corporate, the Corporation shall not grant an export licence to the applicant if, within 10 years before the application was made:
@@ -1552,12 +1545,10 @@ the dairy produce is to be taken to have the prescribed protein content for dair
 	(1A)	This section does not apply to:
 	(a)	Schedule 2; or
 	(b)	regulations made for the purposes of Schedule 2.
-	(1)	A person shall not refuse or fail to submit a return or provide information that is required by or under this Act or the regulations to be submitted or provided.
-	(1B)	Subsection (1) does not apply if the person has a reasonable excuse.
-Note:	The defendant bears an evidential burden in relation to the matter in subsection (1B). See subsection 13.3(3) of the Criminal Code.
+	(1)	A person shall not, without reasonable excuse, refuse or fail to submit a return or provide information that is required by or under this Act or the regulations to be submitted or provided.
 	(2)	A person is not excused from submitting a return or providing information that the person is required by or under this Act or the regulations to submit or provide on the ground that the return or information might tend to incriminate the person, but any return or information so submitted or provided is not admissible in evidence against the person in:
 	(a)	criminal proceedings other than proceedings for an offence against subsection (1) or (3).
-	(3)	A person shall not intentionally present a document, make a statement or submit a return, knowing that it is false or misleading in a material particular, to a person performing duties in relation to this Act.
+	(3)	A person shall not knowingly present a document, make a statement or submit a return, that is false or misleading in a material particular to a person performing duties in relation to this Act.
 Penalty:
 	(a)	in the case of a natural person—$2,000 or imprisonment for 12 months, or both; or
 	(b)	in the case of a body corporate—$10,000.
@@ -1639,7 +1630,7 @@ reviewable decision means a decision of the Corporation under subsection (9).
 	(14)	Any failure to comply with the requirements of subsection (12) or (13) in relation to a decision does not affect the validity of the decision.
 119  Secrecy
 	(1)	This section applies to every person who is or has been a member of the Corporation or of the staff assisting the Corporation.
-	(2)	Subject to this section, a person to whom this section applies shall not, either directly or indirectly:
+	(2)	Subject to this section, a person to whom this section applies shall not, either directly or indirectly, except for the purposes of this Act or as otherwise required by law:
 	(a)	make a record of, or divulge or communicate to any person, any information concerning the affairs of a person acquired by that first‑mentioned person by reason of that first‑mentioned person’s office as a member of the Corporation or as a member of the staff assisting the Corporation; or
 	(b)	produce to any person an application or other document given to the Corporation by a manufacturer of dairy produce for the purpose of obtaining a market support payment under this Act, an application or other document given to the Corporation by a person for the purposes of section 99 or a return furnished to the Corporation by an exporter of dairy produce pursuant to section 110.
 Penalty:	$2,000 or imprisonment for 12 months, or both.
@@ -1652,8 +1643,6 @@ Penalty:	$2,000 or imprisonment for 12 months, or both.
 	(d)	a provision of the Farm Household Support Act 1992 in so far as that provision relates to the DEP scheme (within the meaning of that Act).
 	(3)	Subsection (2) does not apply to the disclosure of information, or the production of a document, to the Minister, or to the Secretary to the Department or an officer of the Department designated by the Secretary.
 	(4)	Subsection (2) does not prevent the Corporation from making public at any time any information of a statistical nature.
-	(4A)	Subsection (2) does not apply to conduct engaged in for the purposes of this Act or as otherwise required by law.
-Note:	The defendant bears an evidential burden in relation to the matters in subsections (2A), (2B), (3), (4) and (4A). See subsection 13.3(3) of the Criminal Code.
 	(5)	A person to whom information is communicated under subsection (3) and an employee or other person under the control of that first‑mentioned person are, in respect of that information, entitled to rights and privileges, and subject to obligations and liabilities, under subsection (2) as if they were persons referred to in subsection (1).
 	(6)	An offence against subsection (2) is punishable on summary conviction.
 	(7)	In this section, produce includes permit access to.
@@ -2028,8 +2017,8 @@ is issued to a shareholder in the cooperative or company:
 False or misleading statements in certificates
 	(8)	For the purposes of clause 50, a statement made in a certificate of a kind referred to in subclause (2) of this clause is taken to be made to a person who was exercising powers, or performing functions, under or in connection with the DSAP scheme.
 Note:	Clause 50 deals with false or misleading statements.
-	(9)	For the purposes of section 136.1 of the Criminal Code, a statement made in a certificate of a kind referred to in subclause (2) of this clause is taken to be a statement made in connection with a claim for a payment right.
-Note:	Section 136.1 of the Criminal Code deals with false or misleading statements.
+	(9)	For the purposes of clause 134, a statement made in a certificate of a kind referred to in subclause (2) of this clause is taken to be a statement made in connection with a claim for a payment right.
+Note:	Clause 134 deals with false or misleading statements.
 17  Farm business assessment
 	(1)	This clause sets out policy objectives for the DSAP scheme.
 	(2)	The first objective is that an entity is not eligible for the grant of a payment right unless:
@@ -2042,8 +2031,8 @@ Compliance after making claim
 False or misleading statements in certificates
 	(4)	For the purposes of clause 50, a statement made in a certificate of a kind referred to in paragraph (2)(b) of this clause is taken to be made to a person who was exercising powers, or performing functions, under or in connection with the DSAP scheme.
 Note:	Clause 50 deals with false or misleading statements.
-	(5)	For the purposes of section 136.1 of the Criminal Code, a statement made in a certificate of a kind referred to in paragraph (2)(b) of this clause is taken to be a statement made in connection with a claim for a payment right.
-Note:	Section 136.1 of the Criminal Code deals with false or misleading statements.
+	(5)	For the purposes of clause 134, a statement made in a certificate of a kind referred to in paragraph (2)(b) of this clause is taken to be a statement made in connection with a claim for a payment right.
+Note:	Clause 134 deals with false or misleading statements.
 18  Units in payment rights
 	(1)	This clause sets out policy objectives for the DSAP scheme.
 	(2)	The first objective is that each payment right is to be divided into units, where each unit has a face value of $32.
@@ -2432,9 +2421,9 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal
 	(6)	A notice under subclause (2) must set out the effect of the following provisions:
 	(a)	subclause (5);
 	(b)	clause 133;
-	(c)	section 136.1 of the Criminal Code;
-	(d)	section 137.1 of the Criminal Code;
-	(e)	section 137.2 of the Criminal Code.
+	(c)	clause 134;
+	(d)	clause 135;
+	(e)	clause 136.
 39  Copying documents—reasonable compensation
 		A person is entitled to be paid reasonable compensation for complying with a requirement covered by paragraph 38(2)(c).
 40  Self‑incrimination
@@ -2444,7 +2433,7 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal
 	(b)	any information, document or thing obtained as a direct or indirect consequence of giving the information or evidence or producing the document or copy;
 is not admissible in evidence against the individual in criminal proceedings other than:
 	(c)	proceedings for an offence against subclause 38(5) or clause 133; or
-	(d)	proceedings for an offence against section 136.1, 137.1 or 137.2 of the Criminal Code that relates to this Division.
+	(d)	proceedings for an offence against clause 134, 135 or 136 that relates to this Division.
 41  Copies of documents
 	(1)	The DAA may inspect a document or copy produced under this Division and may make and retain copies of, or take and retain extracts from, such a document.
 	(2)	The DAA may retain possession of a copy of a document produced in accordance with a requirement covered by paragraph 38(2)(c).
@@ -3301,7 +3290,7 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal
 is not admissible in evidence against the individual in criminal proceedings other than:
 	(c)	proceedings for an offence against subclause 112(2) or (4) or 113(4); or
 	(d)	proceedings for an offence against regulations made for the purposes of clause 113; or
-	(e)	proceedings for an offence against section 137.1 or 137.2 of the Criminal Code that relates to this Division.
+	(e)	proceedings for an offence against clause 135 or 136 that relates to this Division.
 	(3)	In this clause:
 this Division includes regulations made for the purposes of clause 113.
 
@@ -3315,21 +3304,13 @@ enter the premises for the purpose of ascertaining whether a person has contrave
 	(a)	search the premises for, examine and take stock of, any leviable milk products; and
 	(b)	search the premises for, inspect, examine, take extracts from, and make copies of, any examinable documents.
 116  Obstruction of authorised person acting under a warrant
-	(1)	A person is guilty of an offence if:
+		A person is guilty of an offence if:
 	(a)	the person obstructs or hinders an authorised person in the exercise of the authorised person’s power under clause 115; and
 	(b)	the authorised person exercises that power in accordance with a warrant issued under clause 118.
 Penalty:	30 penalty units.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
-	(2)	In paragraph (1)(a), strict liability applies to the physical element of circumstance, that the authorised person’s power is under clause 115.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
-	(3)	In paragraph (1)(b), strict liability applies to the physical element of circumstance, that the issue of the warrant was under clause 118.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 117  Persons to assist authorised persons acting under a warrant
 	(1)	If an authorised person enters any premises under clause 115 in accordance with a warrant issued under clause 118, the occupier or the person in charge must, if requested to do so by the authorised person, provide reasonable assistance to the authorised person in the exercise of his or her power under that clause in relation to those premises.
-	(1A)	In subclause (1), strict liability applies to the physical elements of circumstance, that:
-	(a)	the authorised person’s power is under clause 115; and
-	(b)	the issue of the warrant was under clause 118.
-Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(2)	A person is guilty of an offence if:
 	(a)	the person is subject to a requirement to provide reasonable assistance to an authorised person under subclause (1); and
 	(b)	the first‑mentioned person engages in conduct; and
@@ -3475,6 +3456,8 @@ Minister for Finance means the Minister administering the Financial Management a
 
 Part 5—Offences
   
+132  Application of Criminal Code
+		Chapter 2 of the Criminal Code applies to all offences against this Schedule.
 133  False or misleading evidence
 		A person is guilty of an offence if:
 	(a)	the person gives evidence to another person; and
@@ -3482,6 +3465,63 @@ Part 5—Offences
 	(c)	the evidence is given under clause 38.
 Penalty:	Imprisonment for 12 months.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+134  False or misleading statements in claims
+Knowledge
+	(1)	A person is guilty of an offence if:
+	(a)	the person makes a statement (whether orally, in a document or in any other way); and
+	(b)	the person does so knowing that the statement:
+	(i)	is false or misleading; or
+	(ii)	omits any matter or thing without which the statement is misleading; and
+	(c)	the statement is made in, or in connection with, a claim for a payment right.
+Penalty:	Imprisonment for 12 months.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+	(2)	Subclause (1) does not apply as a result of subparagraph (1)(b)(i) if the statement is not false or misleading in a material particular.
+Note:	A defendant bears an evidential burden in relation to the matter in subclause (2). See subsection 13.3(3) of the Criminal Code.
+	(3)	Subclause (1) does not apply as a result of subparagraph (1)(b)(ii) if the statement did not omit any matter or thing without which the statement is misleading in a material particular.
+Note:	A defendant bears an evidential burden in relation to the matter in subclause (3). See subsection 13.3(3) of the Criminal Code.
+Recklessness
+	(4)	A person is guilty of an offence if:
+	(a)	the person makes a statement (whether orally, in a document or in any other way); and
+	(b)	the person does so reckless as to whether the statement:
+	(i)	is false or misleading; or
+	(ii)	omits any matter or thing without which the statement is misleading; and
+	(c)	the statement is made in, or in connection with a claim for a payment right.
+Penalty:	Imprisonment for 6 months.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+	(5)	Subclause (4) does not apply as a result of subparagraph (4)(b)(i) if the statement is not false or misleading in a material particular.
+Note:	A defendant bears an evidential burden in relation to the matter in subclause (5). See subsection 13.3(3) of the Criminal Code.
+	(6)	Subclause (4) does not apply as a result of subparagraph (4)(b)(ii) if the statement did not omit any matter or thing without which the statement is misleading in a material particular.
+Note:	A defendant bears an evidential burden in relation to the matter in subclause (6). See subsection 13.3(3) of the Criminal Code.
+Alternative verdicts
+	(7)	If, in a prosecution for an offence against subclause (1), the trier of fact is not satisfied that the defendant is guilty of the offence, but is satisfied beyond reasonable doubt that the defendant is guilty of an offence against subclause (4), the trier of fact may find the defendant not guilty of the offence against subclause (1) but guilty of the offence against subclause (4), so long as the defendant has been accorded procedural fairness in relation to that finding of guilt.
+135  False or misleading information
+	(1)	A person is guilty of an offence if:
+	(a)	the person gives information to another person; and
+	(b)	the person does so knowing that the information:
+	(i)	is false or misleading; or
+	(ii)	omits any matter or thing without which the information is misleading; and
+	(c)	either of the following subparagraphs applies:
+	(i)	the information is given to a person who is exercising powers or performing functions under, or in connection with, the DSAP scheme, the SDA scheme or this Schedule;
+	(ii)	the information is given in compliance or purported compliance with the DSAP scheme, the SDA scheme or this Schedule.
+Penalty:	Imprisonment for 12 months.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+	(2)	Subclause (1) does not apply as a result of subparagraph (1)(b)(i) if the information is not false or misleading in a material particular.
+Note:	A defendant bears an evidential burden in relation to the matter in subclause (2). See subsection 13.3(3) of the Criminal Code.
+	(3)	Subclause (1) does not apply as a result of subparagraph (1)(b)(ii) if the information did not omit any matter or thing without which the information is misleading in a material particular.
+Note:	A defendant bears an evidential burden in relation to the matter in subclause (3). See subsection 13.3(3) of the Criminal Code.
+136  False or misleading documents
+	(1)	A person is guilty of an offence if:
+	(a)	the person produces a document to another person; and
+	(b)	the person does so knowing that the document is false or misleading; and
+	(c)	the document is produced in compliance or purported compliance with the DSAP scheme, the SDA scheme or this Schedule.
+Penalty:	Imprisonment for 12 months.
+Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+	(2)	Subclause (1) does not apply if the document is not false or misleading in a material particular.
+Note:	A defendant bears an evidential burden in relation to the matter in subclause (2). See subsection 13.3(3) of the Criminal Code.
+	(3)	Subclause (1) does not apply to a person who produces a document if the document is accompanied by a written statement signed by the person or, in the case of a body corporate, by a competent officer of the body corporate:
+	(a)	stating that the document is, to the knowledge of the first‑mentioned person, false or misleading in a material particular; and
+	(b)	setting out, or referring to, the material particular in which the document is, to the knowledge of the first‑mentioned person, false or misleading.
+Note:	A defendant bears an evidential burden in relation to the matter in subclause (3). See subsection 13.3(3) of the Criminal Code.
 
 Notes to the Dairy Produce Act 1986
 Note 1
@@ -3645,11 +3685,6 @@ Dairy Produce Legislation Amendment (Supplementary Assistance) Act 2001
 20 July 2001
 20 July 2001
 —
-Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001
-115, 2001
-18 Sept 2001
-16 Oct 2001
-S. 4 [see Table A]
 (a)	The Dairy Produce Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986, subsection 2(4) of which provides as follows:
 	(4)	The amendment of paragraph 36(3)(d) of the Dairy Produce Act 1986 made by this Act shall be deemed to have come into operation on 1 July 1986.
 (b)	The Dairy Produce Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(1) of which provides as follows:
@@ -3687,8 +3722,6 @@ Title
 am. No. 22, 2000
 S. 3	
 am. No. 141, 1987; Nos. 129 and 130, 1989; No. 17, 1990; Nos. 26 and 39, 1991; No. 16, 1993; No. 153, 1994; No. 45, 1995; No. 152, 1997; No. 32, 1999; No. 22, 2000
-S. 4A	
-ad. No. 115, 2001
 Note to s.5(2)	
 ad. No. 152, 1997
 S. 10	
@@ -3735,8 +3768,6 @@ S. 51A
 ad. No. 162, 1987
 S. 53	
 am. No. 39, 1991
-Ss. 54, 55	
-am. No. 115, 2001
 S. 59	
 am. No. 162, 1987
 Heading to Part VI	
@@ -3898,7 +3929,7 @@ am. No. 16, 1993; No. 22, 2000
 
 rep. No. 137, 2000
 S. 113	
-am. No. 26, 1991; No. 22, 2000; No. 115, 2001
+am. No. 26, 1991; No. 22, 2000
 S. 114	
 am. No. 22, 2000
 
@@ -3910,7 +3941,7 @@ am. No. 137, 2000
 S. 118	
 am. No. 162, 1987; No. 26, 1991; No. 94, 1993; No. 45, 1995; No. 4, 1999
 S. 119	
-am. No. 16, 1993; Nos. 22 and 94, 2000; No. 115, 2001
+am. No. 16, 1993; Nos. 22 and 94, 2000
 S. 120	
 am. No. 22, 2000
 S. 122	
@@ -3947,30 +3978,10 @@ Cc. 1, 2
 ad. No. 22, 2000
 
 am. No. 94, 2001
-Cc. 3-8	
-ad. No. 22, 2000
 Part 2
 
 Heading to Part 2	
 rs. No. 94, 2001
-Division 1
-
-Cc. 9-15	
-ad. No. 22, 2000
-C. 16	
-ad. No. 22, 2000
-
-am. No. 115, 2001
-Note to c. 16(9)	
-am. No. 115, 2001
-C. 17	
-ad. No. 22, 2000
-
-am. No. 115, 2001
-Note to c. 17(5)	
-am. No. 115, 2001
-Cc. 18-37	
-ad. No. 22, 2000
 Division 1A
 
 Div. 1A of Part 2	 (cc. 37A‑37D, 37DA, 37E‑37Z, 37ZA, 37ZB)
@@ -3988,15 +3999,7 @@ Division 2
 C. 38	
 ad. No. 22, 2000
 
-am. Nos. 94 and 115, 2001
-C. 39	
-ad. No. 22, 2000
-C. 40	
-ad. No. 22, 2000
-
-am. No. 115, 2001
-Cc. 41, 42	
-ad. No. 22, 2000
+am. No. 94, 2001
 Division 3
 
 C. 43	
@@ -4009,14 +4012,10 @@ C. 44
 ad. No. 22, 2000
 
 am. No. 94, 2001
-Cc. 45, 46	
-ad. No. 22, 2000
 C. 47	
 ad. No. 22, 2000
 
 am. No. 94, 2001
-C. 48	
-ad. No. 22, 2000
 C. 49	
 ad. No. 22, 2000
 
@@ -4033,18 +4032,12 @@ Cc. 52, 53
 ad. No. 22, 2000
 
 am. No. 94, 2001
-C. 54	
-ad. No. 22, 2000
 Division 6
 
-C. 55	
-ad. No. 22, 2000
 C. 56	
 ad. No. 22, 2000
 
 am. No. 94, 2001
-Cc. 57-74	
-ad. No. 22, 2000
 Division 7
 
 Heading to c. 75	
@@ -4055,14 +4048,10 @@ ad. No. 22, 2000
 am. No. 94, 2001
 Part 3
 
-C. 77	
-ad. No. 22, 2000
 Cc. 78‑80	
 ad. No. 22, 2000
 
 am. No. 94, 2001
-Cc. 81-83	
-ad. No. 22, 2000
 Heading to c. 84	
 am. No. 94, 2001
 C. 84	
@@ -4071,92 +4060,24 @@ ad. No. 22, 2000
 am. No. 94, 2001
 Heading to c. 85	
 am. No. 94, 2001
-C. 85	
-ad. No. 22, 2000
 C. 86	
 ad. No. 22, 2000
 
 am. No. 94, 2001
 Part 4
 
-Division 1
-
-Cc. 87, 88	
-ad. No. 22, 2000
 Division 2
 
-Cc. 89-93	
-ad. No. 22, 2000
 C. 94	
 ad. No. 22, 2000
 
 am. No. 94, 2001
-C. 95	
-ad. No. 22, 2000
-Division 3
-
-C. 96	
-ad. No. 22, 2000
-Division 4
-
-Cc. 97-104	
-ad. No. 22, 2000
-Division 5
-
-Cc. 105, 106	
-ad. No. 22, 2000
-Division 6
-
-C. 107	
-ad. No. 22, 2000
-Division 7
-
-Cc. 108-111	
-ad. No. 22, 2000
-Division 8
-
-Cc. 112, 113	
-ad. No. 22, 2000
-C. 114	
-ad. No. 22, 2000
-
-am. No. 115, 2001
-Division 9
-
-C. 115	
-ad. No. 22, 2000
-Cc. 116, 117	
-ad. No. 22, 2000
-
-am. No. 115, 2001
-Cc. 118, 119	
-ad. No. 22, 2000
-Division 10
-
-Cc. 120, 121	
-ad. No. 22, 2000
-Division 11
-
-Cc. 122-131	
-ad. No.22, 2000
 Part 5
 
-C. 132	
-ad. No. 22, 2000
-
-rep. No. 115, 2001
-C. 133	
-ad. No. 22, 2000
-C. 134	
-ad. No. 22, 2000
-
-rep. No. 115, 2001
 Cc. 135, 136	
-ad. No. 22, 2000
+am. No. 22, 2000
 
 am. No. 94, 2001
-
-rep. No. 115, 2001
 Table A
 Application, saving or transitional provisions
 Dairy Industry Adjustment Act 2000 (No. 22, 2000)
@@ -4216,10 +4137,5 @@ If:
 	(b)	any or all of those other provisions are repealed by this Schedule; and
 	(c)	the first‑mentioned provision is amended by this Schedule;
 the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-Agriculture, Fisheries and Forestry Legislation Amendment (Application of Criminal Code) Act 2001 (No. 115, 2001)
-4  Application of amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
       
 
