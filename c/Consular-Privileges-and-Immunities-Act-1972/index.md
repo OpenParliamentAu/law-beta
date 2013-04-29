@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00345/Html/ConPriAndImmAct1972_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00374/Html/ConPriAndImmAct1972_image001.gif)
 
 # Consular Privileges and Immunities Act 1972
 
 **Act No. 62 of 1972 as amended**
 
-This compilation was prepared on 9 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -138,13 +138,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  The exemption from customs duties, taxes and related charges provided for by paragraph 1 or paragraph 2 of Article 50, or Article 62, of the Convention as having the force of law by virtue of section 5 in respect of articles imported into Australia that are for the use of a consular post or person referred to in that Article:
 
-                     (a)  does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the _Customs Act 1901_, intended for the use of the consular post or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the consular post or person, as the case may be, have adequately been met by the other articles; and
+                     (a)  does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the _Customs Act 1901_, intended for the use of the consular post or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his opinion, the reasonable requirements of the consular post or person, as the case may be, have adequately been met by the other articles; and
 
                      (b)  does not apply unless:
 
-                              (i)  the person for whose use the articles are intended, or, if the articles are intended for the use of a consular post, the head of the consular post, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the _Customs Act 1901_, he or she will pay to the Commonwealth an amount equal to so much (if any) as the Minister for Industry, Technology and Commerce determines of the customs duties, taxes and related charges that, but for paragraph 1 or paragraph 2 of Article 50, or Article 62, as the case may be, of the Convention, would have been payable in respect of the articles; and
+                              (i)  the person for whose use the articles are intended, or, if the articles are intended for the use of a consular post, the head of the consular post, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the _Customs Act 1901_, he will pay to the Commonwealth an amount equal to so much (if any) as the Minister for Industry, Technology and Commerce determines of the customs duties, taxes and related charges that, but for paragraph 1 or paragraph 2 of Article 50, or Article 62, as the case may be, of the Convention, would have been payable in respect of the articles; and
 
-                             (ii)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last-mentioned agreement—the person complies with such conditions (if any) as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first-mentioned agreement).
+                             (ii)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last-mentioned agreement—the person complies with such conditions (if any) as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he will comply with the first-mentioned agreement).
 
           (1A)  Despite:
 
@@ -184,13 +184,13 @@ indirect tax that would be payable on an importation under one of those Acts is 
 
                      (c)  are goods, or are included in a class of goods, approved by the Minister for Industry, Technology and Commerce for the purposes of this subsection.
 
-             (3)  Subsection (1) does not apply in respect of goods that are intended for the use of a consular post or person referred to in that subsection where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the consular post or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the consular post or person, as the case may be, have adequately been met by the other goods.
+             (3)  Subsection (1) does not apply in respect of goods that are intended for the use of a consular post or person referred to in that subsection where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the consular post or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his opinion, the reasonable requirements of the consular post or person, as the case may be, have adequately been met by the other goods.
 
              (4)  Subsection (1) does not apply in respect of any goods unless:
 
-                     (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a consular post, the head of the consular post, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he or she will, unless the Minister for Industry, Technology and Commerce otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
+                     (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a consular post, the head of the consular post, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he will, unless the Minister for Industry, Technology and Commerce otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
 
-                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions (if any) as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first-mentioned agreement).
+                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions (if any) as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he will comply with the first-mentioned agreement).
 
 ##### <a id="9"></a>9  Regulations may grant consular privileges and immunities in certain cases
 
@@ -316,7 +316,7 @@ determined by the Minister.
 
 ##### <a id="11"></a>11  Withdrawal of privileges and immunities
 
-             (1)  Where the Minister is satisfied that the privileges and immunities granted in relation to a consular post of Australia in an overseas country, or to persons connected with that consular post, are less than the privileges and immunities granted by this Act in relation to a consular post of that country, or to persons connected with such a post, he or she may, by instrument in writing, withdraw, in relation to that post or persons connected with that post, all or any of the privileges and immunities granted by this Act.
+             (1)  Where the Minister is satisfied that the privileges and immunities granted in relation to a consular post of Australia in an overseas country, or to persons connected with that consular post, are less than the privileges and immunities granted by this Act in relation to a consular post of that country, or to persons connected with such a post, he may, by instrument in writing, withdraw, in relation to that post or persons connected with that post, all or any of the privileges and immunities granted by this Act.
 
              (2)  The Minister shall cause any such instrument to be published in the _Gazette_.
 
@@ -1546,23 +1546,6 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 193–199): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1576,7 +1559,7 @@ _(a)_     The _Consular Privileges and Immunities Act 1972_ was amended 
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-                 (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on  22 December 1975.
+                 (7)   The amendments of each other Act specified in the Schedule made by this Act shall be deemed to have come into operation on 22 December 1975.
 
 _(b)_    The _Consular Privileges and Immunities Act 1972_ was amended by section 3 only of the _Australian Federal Police (Consequential Amendments) Act 1979_, subsection 2(1) of which provides as follows:
 
@@ -1662,7 +1645,7 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 91, 1976; Nos. 26, 80 and 115, 1982; No. 65, 1985; No. 76, 1987; No. 15, 1988; No. 15, 1996; No. 177, 1999: No. 73, 2008</div>
+    <div>am. No. 216, 1973; No. 91, 1976; Nos. 26, 80 and 115, 1982; No. 65, 1985; No. 76, 1987; No. 15, 1988; No. 15, 1996; No. 177, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1670,7 +1653,7 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 91, 1976; No. 80, 1982; No. 65, 1985; No. 15, 1988: No. 73, 2008</div>
+    <div>am. No. 216, 1973; No. 91, 1976; No. 80, 1982; No. 65, 1985; No. 15, 1988</div>
   </td>
 </tr>
 <tr>
@@ -1747,14 +1730,6 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12A</div>
   </td>
   <td>
@@ -1803,7 +1778,7 @@ The object of this Part is to ensure that, despite the repeals and amendments ma
 
 before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
 
-## 7  Making and amending assessments, and doing other things, in relation to past matters
+## 7  Making and amending assessments, and doing other things, in relation to past matters
 
 Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
 
