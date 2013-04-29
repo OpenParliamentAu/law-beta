@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00234/Html/87b3ade2-1901-432e-a81e-60ea8b910da6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image001.gif)
 
 # Defence Force (Home Loans Assistance) Act 1990
 
 **Act No. 14 of 1991 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 15 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -124,7 +124,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Schedule 1—Agreement between the Commonwealth and the Bank** 
 
-**Schedule 2—Consequential amendments of the _Defence Service Homes Act 1918_** 
+**Schedule 2—Consequential amendments of the Defence Service Homes Act 1918** 
 
 **Notes** 
 
@@ -160,17 +160,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  in relation to a person covered by subparagraph (a)(i) of the definition of **_eligible person_**—either:
 
-                              (i)  5 years of effective full‑time service; or
+                              (i)  5 years of effective full-time service; or
 
                              (ii)  5 years of composite service; and
 
                      (b)  in relation to a person covered by subparagraphs (b)(i), (ii) and (iii) of that definition—either:
 
-                              (i)  5 years of effective full‑time service less the number of years of effective full‑time service completed before the person’s discharge; or
+                              (i)  5 years of effective full-time service less the number of years of effective full-time service completed before the person’s discharge; or
 
                              (ii)  5 years of composite service less the number of years of composite service completed before the person’s discharge; and
 
-                     (c)  in relation to a person covered by subparagraph (d)(i) of that definition—the number of years of effective full‑time service or composite service set out in Column 2 of the following table opposite the number of years specified in Column 1 that applies to the person:
+                     (c)  in relation to a person covered by subparagraph (d)(i) of that definition—the number of years of effective full-time service or composite service set out in Column 2 of the following table opposite the number of years specified in Column 1 that applies to the person:
 
 <table>
 <colgroup>
@@ -181,11 +181,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 <tr>
   <td>
     <div>Column 1</div>
-    <div>Number of years of effective full‑time service or composite service completed before the person’s discharge</div>
+    <div>Number of years of effective full-time service or composite service completed before the person’s discharge</div>
   </td>
   <td>
     <div>Column 2</div>
-    <div>Number of years of effective full‑time service or composite service to be completed by the person after again becoming a member</div>
+    <div>Number of years of effective full-time service or composite service to be completed by the person after again becoming a member</div>
   </td>
 </tr>
 <tr>
@@ -253,13 +253,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  the _Veterans’ Entitlements Act 1986_; or
 
-                   (ba)  the _Military Rehabilitation and Compensation Act 2004_; or
+                    (ba)  the _Military Rehabilitation and Compensation Act 2004_; or
 
                      (c)  a law of the Commonwealth prescribed by the regulations.
 
-                    <a name="composit-servic"></a>**_composite service_**, in relation to a person who has completed a period of effective full‑time service and a period of statutory training obligation without a break between the periods, means a period of service that is worked out as follows:
+                    <a name="composit-servic"></a>**_composite service_**, in relation to a person who has completed a period of effective full-time service and a period of statutory training obligation without a break between the periods, means a period of service that is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00234/Html/87b3ade2-1901-432e-a81e-60ea8b910da6_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image002.gif)
 
                     where:
 
@@ -267,29 +267,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="statutori-train-factor"></a>**_statutory training factor_** is 0.625.
 
-                    <a name="effect-full-time-servic-year"></a>**_effective full‑time service years_** means the years of effective full‑time service completed by a person.
+                    <a name="effect-full-time-servic-year"></a>**_effective full-time service years_** means the years of effective full-time service completed by a person.
 
-Example 1:    If a person completes 7 years of statutory training obligation and 1 year of effective full‑time service—the person’s years of composite service are:
+Example 1:    If a person completes 7 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2011C00234/Html/87b3ade2-1901-432e-a81e-60ea8b910da6_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image003.gif)
 
-Example 2:    If a person completes 4 years of statutory training obligation and 1 year of effective full‑time service—the person’s years of composite service are:
+Example 2:    If a person completes 4 years of statutory training obligation and 1 year of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2011C00234/Html/87b3ade2-1901-432e-a81e-60ea8b910da6_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image004.gif)
 
-Example 3:    If a person completes 10 years of statutory training obligation and 2 years of effective full‑time service—the person’s years of composite service are:
+Example 3:    If a person completes 10 years of statutory training obligation and 2 years of effective full-time service—the person’s years of composite service are:
 
-![](http://www.comlaw.gov.au/Details/C2011C00234/Html/87b3ade2-1901-432e-a81e-60ea8b910da6_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image005.gif)
 
-                    <a name="continu-full-time-servic"></a>**_continuous full‑time service_** means an unbroken period of full‑time service by a member in the Defence Force.
+                    <a name="continu-full-time-servic"></a>**_continuous full-time service_** means an unbroken period of full-time service by a member in the Defence Force.
 
-Note:          See section 7 for some special circumstances in which a period of full‑time service is taken to have been broken.
+Note:          See section 7 for some special circumstances in which a period of full-time service is taken to have been broken.
 
                     <a name="de-facto-partner"></a>**_de facto partner_** has the meaning given by the _Acts Interpretation Act 1901_.
 
                     <a name="dsh-act"></a>**_DSH Act_** means the _Defence Service Homes Act 1918_.
 
-                    <a name="effect-full-time-servic"></a>**_effective full‑time service_** means a period of continuous full‑time service by a member, other than:
+                    <a name="effect-full-time-servic"></a>**_effective full-time service_** means a period of continuous full-time service by a member, other than:
 
                      (a)  a period longer than 21 consecutive days during which the member is:
 
@@ -309,13 +309,13 @@ Note:          See section 7 for some special circumstances 
 
                             (iii)  was required by an appropriate authority in the Defence Force to continue those studies after appointment;
 
-                            the period, determined by an appropriate authority in the Defence Force, during which the member cannot be treated as rendering effective full‑time service because of the need to engage in those studies or in activities connected with them.
+                            the period, determined by an appropriate authority in the Defence Force, during which the member cannot be treated as rendering effective full-time service because of the need to engage in those studies or in activities connected with them.
 
                     <a name="elig-person"></a>**_eligible person_** means:
 
                      (a)  a person who:
 
-                              (i)  is a non‑DSH member (other than an operational service member, a warlike service member, a rejoining member or a person covered by paragraph (b) or (d)); and
+                              (i)  is a non-DSH member (other than an operational service member, a warlike service member, a rejoining member or a person covered by paragraph (b) or (d)); and
 
                              (ii)  completes (whether before, on or after the commencing day) the basic service period applicable to the person; or
 
@@ -323,7 +323,7 @@ Note:          See section 7 for some special circumstances 
 
                               (i)  on or after the commencing day, is discharged from the Defence Force because of a compensable disability; and
 
-                             (ii)  immediately before the discharge, was a non‑DSH member engaged or appointed for a period of less than  5 years; and
+                             (ii)  immediately before the discharge, was a non-DSH member engaged or appointed for a period of less than  5 years; and
 
                             (iii)  again becomes a member within 2 years after the day on which the discharge took effect; and
 
@@ -347,7 +347,7 @@ Note:          See section 7 for some special circumstances 
 
                               (i)  before, on or after the commencing day resigns, retires or is discharged from the Defence Force; and
 
-                             (ii)  immediately before the resignation, retirement or discharge was an operational service member, a warlike service member or a non‑DSH member covered by paragraph (a), (b), (d), (e) or (f); and
+                             (ii)  immediately before the resignation, retirement or discharge was an operational service member, a warlike service member or a non-DSH member covered by paragraph (a), (b), (d), (e) or (f); and
 
                             (iii)  has not again become a member; or 
 
@@ -379,7 +379,7 @@ Note:          See section 7 for some special circumstances 
 
                     <a name="holder"></a>**_holder_**, in relation to an entitlement certificate, means the person to whom the certificate was issued.
 
-                    <a name="hous"></a>**_house_** means a dwelling‑house and includes a single unit held under a strata title system, but does not include:
+                    <a name="hous"></a>**_house_** means a dwelling-house and includes a single unit held under a strata title system, but does not include:
 
                      (a)  a house that is unfit for anyone to live in or that is the subject of a condemnation order; or
 
@@ -403,19 +403,19 @@ Note:          See section 7 for some special circumstances 
 
 and who, immediately before the discharge:
 
-                     (c)  had been a non‑DSH member engaged or appointed for a period that would have allowed the person to complete at least 5 years of effective full‑time service or composite service; and
+                     (c)  had been a non-DSH member engaged or appointed for a period that would have allowed the person to complete at least 5 years of effective full-time service or composite service; and
 
-                     (d)  had completed less than 16 years of effective full‑time service or composite service.
+                     (d)  had completed less than 16 years of effective full-time service or composite service.
 
                     <a name="intestaci-law"></a>**_intestacy law_** means a law of, or in force in, a State or Territory that provides for the devolution of the estate of a person who dies intestate.
 
                     <a name="member"></a>**_member_** means a member of the Defence Force.
 
-                    <a name="middl-east-oper-area"></a>**_Middle‑East operational area_** means the area comprising the following countries and sea areas:
+                    <a name="middl-east-oper-area"></a>**_Middle-East operational area_** means the area comprising the following countries and sea areas:
 
-                     (a)  Kuwait, Iraq, Bahrain, Oman, Qatar, Saudi Arabia, the United Arab Emirates and the Island of Cyprus;
+                     (a)  Kuwait, Iraq, Bahrain, Oman, Qatar,   Saudi Arabia, the United Arab Emirates and the Island of Cyprus;
 
-                     (b)  the sea areas contained within the  Gulf of Suez, the Gulf of Aqaba, the Red Sea, the Gulf of Aden, the Persian Gulf and the Gulf of Oman;
+                     (b)  the sea areas contained within the  Gulf of Suez, the Gulf of Aqaba, the Red Sea, the Gulf of Aden, the Persian  Gulf and the Gulf of Oman;
 
                      (c)  the sea area contained within the Arabian Sea north of the boundary formed by joining each of the following points to the next:
 
@@ -484,7 +484,7 @@ and who, immediately before the discharge:
 
                      (d)  the sea areas contained within the Suez Canal and the Mediterranean Sea east of 30°E.
 
-                    <a name="non-dsh-member"></a>**_non‑DSH member_** means:
+                    <a name="non-dsh-member"></a>**_non-DSH member_** means:
 
                      (a)  a member whose first service in the Defence Force began after 14 May 1985 and who is not covered by paragraph (ga) of the definition of **_Australian Soldier_** in subsection 4(1) of the DSH Act; or
 
@@ -516,7 +516,7 @@ and who, immediately before the discharge:
 
                      (b)  cancelling an entitlement certificate; or
 
-                   (ba)  refusing to make a determination under subsection 4(1A); or
+                    (ba)  refusing to make a determination under subsection 4(1A); or
 
                      (c)  refusing to grant approval under section 15 or 18; or
 
@@ -530,7 +530,7 @@ and who, immediately before the discharge:
 
                      (h)  refusing to extend the period for making an application under section 33.
 
-                    <a name="secretari"></a>**_Secretary_** means the Secretary of the Department.
+                    <a name="secretari"></a>**_Secretary_** means the Secretary to the Department.
 
                     <a name="statutori-train-oblig"></a>**_statutory training obligation_** means a period of training in a 12 month period that has been rendered by a person because the person is bound to render that training under the _Defence Act 1903_, the _Naval Defence Act 1910_ or the _Air Force Act 1923_ or in accordance with regulations made under the _Defence Act 1903_, the _Naval Defence Act 1910_ or the _Air Force Act 1923_.
 
@@ -538,7 +538,7 @@ and who, immediately before the discharge:
 
                      (a)  at least 16 but under 25; and
 
-                     (b)  receiving full‑time education at a school or college, or at a university or other tertiary education establishment.
+                     (b)  receiving full-time education at a school or college, or at a university or other tertiary education establishment.
 
                     <a name="subsidis-borrow"></a>**_subsidised borrower_** means a person who:
 
@@ -558,7 +558,7 @@ Note:          See also section 8.
 
                     <a name="elig-person"></a><a name="train-period"></a>**_training period_**, in relation to a person covered by paragraph (h) of the definition of **_eligible person_**, means:
 
-                     (a)  5 years of effective full‑time service; or
+                     (a)  5 years of effective full-time service; or
 
                      (b)  a continuous period of 8 years of statutory training obligation; or
 
@@ -574,9 +574,9 @@ Note:          See also section 8.
 
                      (a)  the person is a member; and
 
-                     (b)  the person is a non‑DSH member; and
+                     (b)  the person is a non-DSH member; and
 
-                     (c)  the person is allotted for duty anywhere within the Middle‑East operational area; and
+                     (c)  the person is allotted for duty anywhere within the Middle-East operational area; and
 
                      (d)  the duty includes duty sometime during the period that starts on 2 August 1990 and ends on 9 June 1991.
 
@@ -592,11 +592,11 @@ Note:          See also section 8.
 
                      (a)  the person is a member; and
 
-                     (b)  the person is a non‑DSH member because of an election under section 4BA of the DSH Act; and
+                     (b)  the person is a non-DSH member because of an election under section 4BA of the DSH Act; and
 
                      (c)  the person is an Australian Soldier for the purposes of the DSH Act because of paragraph (a), (b), (c), (g) or (ga) of the definition of **_Australian Soldier_** in subsection 4(1) of the DSH Act.
 
-Note 1:       for paragraph (3)(b) see paragraph (b) of the definition of **_non‑DSH member_**in section 3 of this Act.
+Note 1:       for paragraph (3)(b) see paragraph (b) of the definition of **_non-DSH member_**in section 3 of this Act.
 
 Note 2:       the people referred to in paragraph (3)(c) served in operational areas in military conflicts before the Gulf conflict.
 
@@ -604,7 +604,7 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
              (1)  A warlike service member is a member who:
 
-                     (a)  is a non‑DSH member; and 
+                     (a)  is a non-DSH member; and 
 
                      (b)  has been allotted for duty declared under subsection 3C(1) to be warlike service; and
 
@@ -678,7 +678,7 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
 ##### <a id="7"></a>7  Breaking continuity of service
 
-             (1)  Without otherwise limiting the meaning of **_continuous full‑time service_** as defined in section 3, a period of full‑time service by a member in the Defence Force is taken to be broken, for the purposes of this Act, if:
+             (1)  Without otherwise limiting the meaning of **_continuous full-time service_** as defined in section 3, a period of full-time service by a member in the Defence Force is taken to be broken, for the purposes of this Act, if:
 
                      (a)  the member is absent on leave without pay (other than prescribed leave) for longer than 12 consecutive months; or
 
@@ -686,7 +686,7 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
              (2)  Paragraph (1)(b) does not apply if the delay was caused by the processing of the transfer by the relevant authorities in the Defence Force and was beyond the member's control.
 
-             (3)  A period of full‑time service by a member of the Defence Force is not taken to have been broken by a period described in paragraph (a) or (b) of the definition of **_effective full‑time service_** in section 3.
+             (3)  A period of full-time service by a member of the Defence Force is not taken to have been broken by a period described in paragraph (a) or (b) of the definition of **_effective full-time service_** in section 3.
 
 ##### <a id="8"></a>8  Multiple surviving spouses or de facto partners
 
@@ -742,11 +742,11 @@ Note 2:       the people referred to in paragraph (3)(c) served in
 
                              (ii)  is the surviving spouse or de facto partner of such an eligible person; and
 
-                     (c)  if the person is a member (other than an operational service member, a warlike service member, a rejoining member or a person covered by paragraph (h) of the definition of **_eligible person_**)—the person has completed 6 months of effective full‑time service after the end of the person’s basic service period; and
+                     (c)  if the person is a member (other than an operational service member, a warlike service member, a rejoining member or a person covered by paragraph (h) of the definition of **_eligible person_**)—the person has completed 6 months of effective full-time service after the end of the person’s basic service period; and
 
-                     (d)  if the person is an operational service member under subsection 3A(3)—the person has completed 6 months of effective full‑time service; and
+                     (d)  if the person is an operational service member under subsection 3A(3)—the person has completed 6 months of effective full-time service; and
 
-                     (e)  if the person is a rejoining member who is not entitled to a subsidy period when he or she becomes a rejoining member—the person has completed 6 months of effective full‑time service after becoming a rejoining member; and
+                     (e)  if the person is a rejoining member who is not entitled to a subsidy period when he or she becomes a rejoining member—the person has completed 6 months of effective full-time service after becoming a rejoining member; and
 
                       (f)  the person’s subsidy period has not ended; and
 
@@ -1026,13 +1026,13 @@ whichever is less.
 
                             (iii)  if the member has served more than 20 completed years of subsidy service—20 years; or
 
-                   (ba)  in relation to a member who is an operational service member under subsection 3A(3):
+                    (ba)  in relation to a member who is an operational service member under subsection 3A(3):
 
                               (i)  if the member has served 20 completed years or less of subsidy service—the number of completed years of subsidy service served by the member; or
 
                              (ii)  if the member has served more than 20 completed years of subsidy service—20 years; or 
 
-                   (bb)  in relation to a person who is or has been a warlike service member:
+                    (bb)  in relation to a person who is or has been a warlike service member:
 
                               (i)  the total of:
 
@@ -1086,11 +1086,11 @@ whichever is less.
 
                     <a name="subsidi-servic"></a>**_subsidy service_** means:
 
-                     (a)  effective full‑time service; or
+                     (a)  effective full-time service; or
 
                      (b)  statutory training obligation; or
 
-                     (c)  statutory training obligation added to effective full‑time service.
+                     (c)  statutory training obligation added to effective full-time service.
 
                     <a name="used-subsidi-period"></a>**_used subsidy period_**, in relation to a person, means the total period during which subsidy has been paid on any subsidised loan to the person.
 
@@ -1184,7 +1184,7 @@ whichever ended first.
 
                     <a name="prescrib-member"></a>**_prescribed member_** means a deceased member:
 
-                     (a)  who had completed less than 16 years of effective full‑time service or composite service immediately before his or her death; and
+                     (a)  who had completed less than 16 years of effective full-time service or composite service immediately before his or her death; and
 
                     (aa)  who was neither an operational service member nor a warlike service member; and
 
@@ -1206,8 +1206,6 @@ whichever ended first.
 
              (2)  The RMR amount must be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00234/Html/87b3ade2-1901-432e-a81e-60ea8b910da6_files/image006.gif)
-
 where:
 
                     <a name="br"></a>**_BR_** is the benchmark rate.
@@ -1216,7 +1214,7 @@ where:
 
              (3)  The monthly subsidy amount must be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00234/Html/87b3ade2-1901-432e-a81e-60ea8b910da6_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image006.gif)
 
 where:
 
@@ -1464,7 +1462,7 @@ the Secretary may, by notice in writing given to the person, reduce the due amou
 
              (3)  An application for a review must be made within 30 days after the day on which the decision first came to the notice of the applicant, or within such further period (if any) as the Secretary, either before or after the end of that period, allows.
 
-             (4)  Subject to subsection (5), the Secretary must, on receiving an application, review the decision, or cause it to be reviewed by a person to whom the Secretary’s power under this section is delegated, being a person other than the person who made, or was involved in the making of, the decision and occupying a position senior to that occupied by the last‑mentioned person.
+             (4)  Subject to subsection (5), the Secretary must, on receiving an application, review the decision, or cause it to be reviewed by a person to whom the Secretary’s power under this section is delegated, being a person other than the person who made, or was involved in the making of, the decision and occupying a position senior to that occupied by the last-mentioned person.
 
              (5)  Where a reviewable decision is made by the Secretary personally, the Secretary must refer an application for review of the decision to the Minister and the Minister must review the decision.
 
@@ -1586,7 +1584,7 @@ Note:          The authorisation under this subsection is only
 
 ##### <a id="40"></a>40  Regulations
 
-                   The Governor‑General may make regulations not inconsistent with this Act prescribing matters:
+                   The Governor-General may make regulations not inconsistent with this Act prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1628,9 +1626,9 @@ Clause
 
           4.5     Manner of payment
 
-          4.6     Resolution of dispute as to sums payable under Sub‑clause 4.1(b)
+          4.6     Resolution of dispute as to sums payable under Sub-clause 4.1(b)
 
-          4.7     Provision for possible refund of part or all of the $42 million referred to in Sub‑clause 4.1(a)
+          4.7     Provision for possible refund of part or all of the $42 million referred to in Sub-clause 4.1(a)
 
 5.       SUBSIDISED LOANS
 
@@ -1654,7 +1652,7 @@ Clause
 
           5.10   Provision of reasons for rejection
 
-          5.11   Non‑discrimination
+          5.11   Non-discrimination
 
           5.12   Security
 
@@ -1680,13 +1678,13 @@ Clause
 
           7.3     Payment of Subsidy
 
-8.       OVER‑PAYMENT OF SUBSIDY
+8.       OVER-PAYMENT OF SUBSIDY
 
           8.1     Where immediate repayment required
 
-          8.2     Where over‑payments are to be added to Subsidised Loan Account
+          8.2     Where over-payments are to be added to Subsidised Loan Account
 
-          8.3     Bank not required to add over‑payment where Subsidised Loan Account closed
+          8.3     Bank not required to add over-payment where Subsidised Loan Account closed
 
           8.4     Commonwealth to refund amounts to Bank in certain circumstances
 
@@ -1796,7 +1794,7 @@ Clause
 
           29.5   Effects of termination
 
-          29.6   Interest payable on moneys over‑due
+          29.6   Interest payable on moneys over-due
 
 30.     AUDIT
 
@@ -1828,18 +1826,17 @@ Clause
 
           31.9   Commencement Date after 31 December 1991
 
-                             31.10 Passage of enabling legislation after 31 December 1990
+                             31.10  Passage of enabling legislation after 31 December 1990
 
 SCHEDULES
 
-1.       Schedule A   Table of Franchise Payments
+1.       Schedule A    Table of Franchise Payments
 
-2.       Schedule B    Particulars to be included in certain forms used under 
-                                the Act
+2.       Schedule B     Particulars to be included in certain forms used under the                              Act
 
-3.       Schedule C    Part D—certificate by Bank manager
+3.       Schedule C     Part D—certificate by Bank manager
 
-4.       Schedule D   Loan agreement
+4.       Schedule D    Loan agreement
 
 AN AGREEMENT made the 5th day of November 1990 BETWEEN THE COMMONWEALTH OF AUSTRALIA (“the Commonwealth”) of the one part, and NATIONAL AUSTRALIA BANK LIMITED of 500 Bourke Street, Melbourne in the State of Victoria of the other part,
 
@@ -1904,7 +1901,7 @@ In this Agreement except where the context otherwise requires:
     <div>Benchmark Rate:</div>
   </td>
   <td>
-    <div>means the rate of interest calculated in accordance with Sub‑clause 5.15.</div>
+    <div>means the rate of interest calculated in accordance with Sub-clause 5.15.</div>
   </td>
 </tr>
 <tr>
@@ -2000,7 +1997,7 @@ In this Agreement except where the context otherwise requires:
     <div>Lending Criteria</div>
   </td>
   <td>
-    <div>means the lending criteria set out in Sub‑clause 5.7.</div>
+    <div>means the lending criteria set out in Sub-clause 5.7.</div>
   </td>
 </tr>
 <tr>
@@ -2093,7 +2090,7 @@ In this Agreement except where the context otherwise requires:
     <div>Subsidy Payment Commencement:</div>
   </td>
   <td>
-    <div>means in respect of a Subsidised Loan the making of the first payment of Subsidy by the Commonwealth to the Bank in respect of a Subsidised Loan which shall occur when the first payment is included in an amount deposited with the Bank pursuant to Sub‑clause 7.3.2.</div>
+    <div>means in respect of a Subsidised Loan the making of the first payment of Subsidy by the Commonwealth to the Bank in respect of a Subsidised Loan which shall occur when the first payment is included in an amount deposited with the Bank pursuant to Sub-clause 7.3.2.</div>
   </td>
 </tr>
 <tr>
@@ -2107,27 +2104,27 @@ In this Agreement except where the context otherwise requires:
 
 1.2     Interpretation
 
-          1.2.1      Words importing one gender shall include the other gender.
+          1.2.1       Words importing one gender shall include the other gender.
 
-          1.2.2      Words importing the singular shall include the plural and vice‑versa.
+          1.2.2       Words importing the singular shall include the plural and vice-versa.
 
-          1.2.3      A reference to a Clause shall be a reference to all of its Sub‑clauses, and a reference to a Sub‑clause shall be a reference to all of its Sub‑Sub‑clauses.
+          1.2.3       A reference to a Clause shall be a reference to all of its Sub-clauses, and a reference to a Sub-clause shall be a reference to all of its Sub-Sub-clauses.
 
-          1.2.4      The Clause headings in this Agreement are for reference only and have no effect on the construction, interpretation or meaning of the Clauses.
+          1.2.4       The Clause headings in this Agreement are for reference only and have no effect on the construction, interpretation or meaning of the Clauses.
 
-          1.2.5      The Schedules referred to herein form part of and are subject to the terms of this Agreement.
+          1.2.5       The Schedules referred to herein form part of and are subject to the terms of this Agreement.
 
-          1.2.6      Where in this Agreement any period of time dating from a given day, act or event is prescribed or allowed for any purpose, the time shall be reckoned inclusive of such day or of the day of such act or event.
+          1.2.6       Where in this Agreement any period of time dating from a given day, act or event is prescribed or allowed for any purpose, the time shall be reckoned inclusive of such day or of the day of such act or event.
 
-          1.2.7      Where the last day of any period prescribed or allowed by this Agreement for the doing of anything falls on a Saturday, on a Sunday or on a day which is a public holiday or a bank holiday in the place in which the thing is to be or may be done, the thing may be done on the first day following which is not a Saturday, a Sunday, a public holiday or a bank holiday in that place.
+          1.2.7       Where the last day of any period prescribed or allowed by this Agreement for the doing of anything falls on a Saturday, on a Sunday or on a day which is a public holiday or a bank holiday in the place in which the thing is to be or may be done, the thing may be done on the first day following which is not a Saturday, a Sunday, a public holiday or a bank holiday in that place.
 
-          1.2.8      Where in this Agreement any reference to time occurs, such time shall, unless it is otherwise specifically stated, be deemed in each State or part of the Commonwealth to mean the time in that State or part of the Commonwealth.
+          1.2.8       Where in this Agreement any reference to time occurs, such time shall, unless it is otherwise specifically stated, be deemed in each State or part of the Commonwealth to mean the time in that State or part of the Commonwealth.
 
-          1.2.9      A reference to a Clause shall be a reference to a Clause in this Agreement.
+          1.2.9       A reference to a Clause shall be a reference to a Clause in this Agreement.
 
-          1.2.10                A reference to the parties shall be a reference to the parties to this Agreement or their permitted assigns.
+          1.2.10 A reference to the parties shall be a reference to the parties to this Agreement or their permitted assigns.
 
-          1.2.11                All sums of money referred to in this Agreement and all payments made under this Agreement shall be in Australian dollars. 
+          1.2.11 All sums of money referred to in this Agreement and all payments made under this Agreement shall be in Australian dollars. 
 
 2.       AGREEMENT
 
@@ -2155,11 +2152,11 @@ In this Agreement except where the context otherwise requires:
 
           The Bank agrees to pay to the Commonwealth:
 
-          (a)     forty‑two million dollars ($42 million); and
+          (a)     forty-two million dollars ($42 million); and
 
           (b)     for each of the periods set out in Column 1 of Schedule A a payment calculated in accordance with the following formula:
 
-P = (a — b) ![](http://www.comlaw.gov.au/Details/C2011C00234/Html/87b3ade2-1901-432e-a81e-60ea8b910da6_files/image008.gif) c
+P = (a — b) ![](http://www.comlaw.gov.au/Details/C2009C00020/Html/DefenceForceHLA1990_WD02HYP_image007.gif) c
 
 Where 
 
@@ -2175,33 +2172,33 @@ provided that where P is a figure less than one (1), no payment shall be due to 
 
 4.2.    Provision of invoices
 
-          The Commonwealth agrees to provide the Bank with a written invoice detailing its claim for payments due under Sub‑clause 4.1 (b).
+          The Commonwealth agrees to provide the Bank with a written invoice detailing its claim for payments due under Sub-clause 4.1 (b).
 
 4.3     Times for payment
 
-          The payments referred to in Sub‑clause 4.1 shall be made as follows:
+          The payments referred to in Sub-clause 4.1 shall be made as follows:
 
-          (a)     the sum of forty‑two million dollars ($42 million) referred to in Sub‑clause 4.1 (a) on the Commencement Date by 11.00 A.M; and
+          (a)     the sum of forty-two million dollars ($42 million) referred to in Sub-clause 4.1 (a) on the Commencement Date by 11.00 A.M; and
 
-          (b)     the payments referred to in Sub‑clause 4.1 (b) at the times set out in Column 4 of Schedule A or within seven (7) days after receipt by the Bank of an invoice under Sub‑clause 4.2, whichever is the later.
+          (b)     the payments referred to in Sub-clause 4.1 (b) at the times set out in Column 4 of Schedule A or within seven (7) days after receipt by the Bank of an invoice under Sub-clause 4.2, whichever is the later.
 
 4.4     Checking of invoices by the Bank
 
-4.4.1  The Bank agrees that, upon receipt of an invoice referred to in Sub‑clause 4.2, it shall conduct a reasonable examination of such of its records as the Bank considers relevant to determine the correctness or otherwise of the invoice. If, following the examination, the Bank is of the opinion that the Commonwealth has omitted to claim sums to which the Commonwealth is entitled it shall immediately advise the Commonwealth in writing of the omission.
+4.4.1  The Bank agrees that, upon receipt of an invoice referred to in Sub-clause 4.2, it shall conduct a reasonable examination of such of its records as the Bank considers relevant to determine the correctness or otherwise of the invoice. If, following the examination, the Bank is of the opinion that the Commonwealth has omitted to claim sums to which the Commonwealth is entitled it shall immediately advise the Commonwealth in writing of the omission.
 
-          4.4.2  Where an invoice omits to claim sums to which the Commonwealth is entitled and the Bank has advised the Commonwealth of the omission pursuant to Sub‑clause 4.4.1, the Commonwealth shall provide the Bank with a further written invoice in respect of the omitted sum, such invoice to be payable by the Bank within seven (7) days of receipt.
+          4.4.2  Where an invoice omits to claim sums to which the Commonwealth is entitled and the Bank has advised the Commonwealth of the omission pursuant to Sub-clause 4.4.1, the Commonwealth shall provide the Bank with a further written invoice in respect of the omitted sum, such invoice to be payable by the Bank within seven (7) days of receipt.
 
 4.5     Manner of payment
 
-          The sums referred to in Sub‑clause 4.1 shall be paid by means of a Bank cheque made payable to the Receiver of Public Moneys, Department of Finance and shall be delivered by hand to the Receiver of Public Moneys, Department of Finance, 624 Bourke Street, Melbourne, or as may be otherwise decided by the Commonwealth and notified to the Bank.
+          The sums referred to in Sub-clause 4.1 shall be paid by means of a Bank cheque made payable to the Receiver of Public Moneys, Department of Finance and shall be delivered by hand to the Receiver of Public Moneys, Department of Finance, 624 Bourke Street, Melbourne, or as may be otherwise decided by the Commonwealth and notified to the Bank.
 
-4.6     Resolution of disputes as to payments under Sub‑clause 4.1 (b).
+4.6     Resolution of disputes as to payments under Sub-clause 4.1 (b).
 
-          Where a dispute, question or difference has arisen between the Commonwealth and the Bank as to a sum payable under Sub‑clause 4.1 (b), the Bank shall pay to the Commonwealth the sum about which there is no dispute, question or difference and the matter that is in dispute may be referred to arbitration by one of the parties in accordance with Clause 24.
+          Where a dispute, question or difference has arisen between the Commonwealth and the Bank as to a sum payable under Sub-clause 4.1 (b), the Bank shall pay to the Commonwealth the sum about which there is no dispute, question or difference and the matter that is in dispute may be referred to arbitration by one of the parties in accordance with Clause 24.
 
 4.7     Provision for possible refund of part or all of $42 million referred to in Clause 4.1 (a)
 
-          4.7.1  The Commonwealth agrees that, pursuant to this Sub‑clause, the Bank may be entitled to a refund of part or all of the sum of $42 million referred to in Clause 4.1 (a) of this Agreement if, before 31 December 1995, the Commonwealth should:
+          4.7.1  The Commonwealth agrees that, pursuant to this Sub-clause, the Bank may be entitled to a refund of part or all of the sum of $42 million referred to in Clause 4.1 (a) of this Agreement if, before 31 December 1995, the Commonwealth should:
 
 (a)   pass legislation to reduce the benefits available to Entitled Persons under the Scheme;
 
@@ -2213,7 +2210,7 @@ and this causes:
 
 (d)   the number of persons to whom Subsidised Loans are provided by the Bank under the Scheme to fall below:
 
-(i)   2,000 in the period from the Commencement Date to 31 December 1992; or
+(i)    2,000 in the period from the Commencement Date to 31 December 1992; or
 
 (ii)   2,000 in the 1993 Calendar Year, the 1994 Calendar Year or the 1995 Calendar Year.
 
@@ -2223,17 +2220,17 @@ Period within which number of
 
 Subsidised Loans provided
 
-by the Bank first falls below 2,000                       $ Million
+by the Bank first falls below 2,000                              $ Million
 
-Commencement Date to 31 December 1992                   42
+Commencement Date to 31 December 1992                        42
 
-1993 Calendar Year                                                         30
+1993 Calendar Year                                                           30
 
-1994 Calendar Year                                                         20
+1994 Calendar Year                                                           20
 
-1995 Calendar Year                                                         10
+1995 Calendar Year                                                           10
 
-1996 Calendar Year                                                      NIL
+1996 Calendar Year                                                        NIL
 
 4.7.3  If within a period of three (3) months after verifying the facts, agreement has not been reached with the Commonwealth on the amount, if any, to be refunded to the Bank pursuant to this Clause, then the matter may be referred to arbitration by one of the parties in accordance with Clause 24.
 
@@ -2275,23 +2272,23 @@ Where a person enquires of the Bank regarding the Scheme, the Bank shall immedia
 
 Upon receipt of the above documents, the Bank shall consider the application for the Subsidised Loan.
 
-5.3.2      An Application for Payment of Subsidy shall include the particulars set out in Schedule B and Part D of the application shall be in the form set out in Schedule C.
+5.3.2       An Application for Payment of Subsidy shall include the particulars set out in Schedule B and Part D of the application shall be in the form set out in Schedule C.
 
-5.3.3      The Bank shall consider and assess an application for a Subsidised Loan in accordance with the Lending Criteria and shall advise the Entitled Person of the outcome within fifteen (15) days from the date of receipt of the documents specified in Sub‑clause 5.3.1.
+5.3.3       The Bank shall consider and assess an application for a Subsidised Loan in accordance with the Lending Criteria and shall advise the Entitled Person of the outcome within fifteen (15) days from the date of receipt of the documents specified in Sub-clause 5.3.1.
 
 5.4     Obligation of the Bank to make a Subsidised Loan
 
-5.4.1      Where an Entitled Person satisfies the Lending Criteria and provides security in accordance with Sub‑clause 5.12, the Bank shall make a Subsidised Loan of an amount sought in the application for the Subsidised Loan on the date specified by the Entitled Person.
+5.4.1       Where an Entitled Person satisfies the Lending Criteria and provides security in accordance with Sub-clause 5.12, the Bank shall make a Subsidised Loan of an amount sought in the application for the Subsidised Loan on the date specified by the Entitled Person.
 
-          5.4.2      After making a Subsidised Loan in accordance with Sub‑clause 5.4.1 a Manager of a branch of the Bank shall complete Part D of the application for Payment of Subsidy and shall attach to it all documents supplied by the Entitled Person in support of the application. The Bank shall then immediately forward to the Commonwealth by registered mail the Application for Payment of Subsidy and documents in support of the application.
+          5.4.2       After making a Subsidised Loan in accordance with Sub-clause 5.4.1 a Manager of a branch of the Bank shall complete Part D of the application for Payment of Subsidy and shall attach to it all documents supplied by the Entitled Person in support of the application. The Bank shall then immediately forward to the Commonwealth by registered mail the Application for Payment of Subsidy and documents in support of the application.
 
-          5.4.3      Nothing in this Agreement shall be construed as:
+          5.4.3       Nothing in this Agreement shall be construed as:
 
 (a)   preventing the Bank from making or agreeing to make a Housing Loan to a person who has not obtained an Entitlement Certificate; or
 
-(b)   obliging the Commonwealth to pay Subsidy in respect of a Housing Loan until the provisions of Sub‑clause 7.1 have been satisfied.
+(b)   obliging the Commonwealth to pay Subsidy in respect of a Housing Loan until the provisions of Sub-clause 7.1 have been satisfied.
 
-          5.4.4      Where an Entitled Person fails to satisfy the Lending Criteria and the Bank nevertheless agrees to make a Subsidised Loan the Bank may require appropriate security in addition to that set out in Sub‑clause 5.12, whether by way of guarantee or otherwise from a person other than the Entitled Person, or may require additional security from the Entitled Person.
+          5.4.4       Where an Entitled Person fails to satisfy the Lending Criteria and the Bank nevertheless agrees to make a Subsidised Loan the Bank may require appropriate security in addition to that set out in Sub-clause 5.12, whether by way of guarantee or otherwise from a person other than the Entitled Person, or may require additional security from the Entitled Person.
 
 5.5     Increase in the amount of a Subsidised Loan
 
@@ -2307,7 +2304,7 @@ the Bank agrees that, provided the Lending Criteria are satisfied, it will grant
 
 (a)   the Bank has forwarded to the Commonwealth an Application for Payment of Subsidy including a certificate by a manager of a branch of the Bank in the form of Part D; and
 
-(b)   the provisions of Sub‑clause 7.1 have been satisfied.
+(b)   the provisions of Sub-clause 7.1 have been satisfied.
 
 5.5.3  The Bank agrees that any increase in the amount of a Subsidised Loan shall be secured under the Mortgage securing the original advance.
 
@@ -2333,15 +2330,15 @@ known commitments of an Entitled Person will be taken into consideration in dete
 
 The parties agree that:
 
-(a)   the Lending Criteria will be subject to alteration from time to time to reflect changes in prevailing market conditions and lending norms as evidenced by the lending criteria applied by the largest Banking Group providers of Housing Loans in Australia determined in accordance with Sub‑clause 5.15.3; and
+(a)   the Lending Criteria will be subject to alteration from time to time to reflect changes in prevailing market conditions and lending norms as evidenced by the lending criteria applied by the largest Banking Group providers of Housing Loans in Australia determined in accordance with Sub-clause 5.15.3; and
 
 (b)   the Bank shall notify the Commonwealth at least thirty (30) days prior to affecting any such alteration to the Lending Criteria;
 
-provided always that the Bank will treat Entitled Persons no less favourably than its other Housing Loan customers and that nothing in this Sub‑clause shall affect the Bank's obligations under Sub‑clause 5.9.
+provided always that the Bank will treat Entitled Persons no less favourably than its other Housing Loan customers and that nothing in this Sub-clause shall affect the Bank's obligations under Sub-clause 5.9.
 
 5.9     Factors to be excluded by the Bank
 
-The Bank agrees that the following factors will not be taken into account when considering whether an Entitled Person has satisfied the Lending Criteria set out in Sub‑clause 5.7:
+The Bank agrees that the following factors will not be taken into account when considering whether an Entitled Person has satisfied the Lending Criteria set out in Sub-clause 5.7:
 
 (a)   the age of the Entitled Person;
 
@@ -2359,7 +2356,7 @@ The Bank agrees that the following factors will not be taken into account when c
 
 Where the Bank has rejected an application by an Entitled Person for a Subsidised Loan and the Entitled Person requests reasons for the rejection, the bank shall within seven (7) days provide reason in  writing for the rejection specifying why it considers the Lending Criteria have not been met.
 
-5.11   Non‑discrimination
+5.11   Non-discrimination
 
 The Bank agrees that it will not before, during or after repayment of a Subsidised Loan discriminate against or differentiate, other than as provided for in this Agreement, between persons who apply for Entitlement Certificates, Entitled Persons, Joint Borrowers and Subsidised Borrowers, and the Bank's other Housing Loan customers.
 
@@ -2377,7 +2374,7 @@ The Bank agrees that:
 
 5.13   Loan agreement
 
-5.13.1  The Bank agrees that the loan agreement relating to a Subsidised Loan shall be in the terms set out in Schedule D. The Bank may apply to the Commonwealth for approval to vary the terms of the loan agreement and the Commonwealth's approval to any such application shall not be unreasonably withheld, provided that at all times the loan agreement provides that:
+5.13.1   The Bank agrees that the loan agreement relating to a Subsidised Loan shall be in the terms set out in Schedule D. The Bank may apply to the Commonwealth for approval to vary the terms of the loan agreement and the Commonwealth's approval to any such application shall not be unreasonably withheld, provided that at all times the loan agreement provides that:
 
 (a)   the maximum rate of interest to be applied by the Bank to a Subsidised Loan shall be the Benchmark Rate;
 
@@ -2389,7 +2386,7 @@ The Bank agrees that:
 
 (e)   payments of instalments are due on Rest Days.
 
-5.13.2  The Commonwealth acknowledges that it shall be a term of a Subsidised Loan made by the Bank to an Entitled Person pursuant to Sub‑clause 5.4 that if:
+5.13.2   The Commonwealth acknowledges that it shall be a term of a Subsidised Loan made by the Bank to an Entitled Person pursuant to Sub-clause 5.4 that if:
 
 (a)   the Commonwealth declines to pay Subsidy in respect of the Subsidised Loan;
 
@@ -2399,15 +2396,15 @@ The Bank agrees that:
 
 the loan shall thereafter not be a Subsidised Loan and the Bank shall thereafter not be bound by the Act or this Agreement in respect of the loan and may deal with the borrower as the Bank deals with its other Housing Loan customers. In particular, the Bank shall be entitled to charge the interest rate applicable to similar loans provided by the Bank to its other Housing Loan customers from the date Subsidy is declined or terminated.
 
-5.13.3  Sub‑clause 5.13.2 shall not apply for the reason only that Subsidy has been suspended under the Act.
+5.13.3   Sub-clause 5.13.2 shall not apply for the reason only that Subsidy has been suspended under the Act.
 
 5.14   Entitled Person to include **_spouse_** in certain cases.
 
-For the purposes of Sub‑clauses 5.3 to 5.13, inclusive, a reference to “Entitled Person” shall, where appropriate, include a reference to both the Entitled Person and spouse of the Entitled Person.
+For the purposes of Sub-clauses 5.3 to 5.13, inclusive, a reference to “Entitled Person” shall, where appropriate, include a reference to both the Entitled Person and spouse of the Entitled Person.
 
 5.15   Calculation of the Benchmark Rate
 
-5.15.1  Definitions
+5.15.1   Definitions
 
 For the purpose of this Clause:
 
@@ -2422,7 +2419,7 @@ For the purpose of this Clause:
     <div>Banking Group:</div>
   </td>
   <td>
-    <div>means a bank licensed under the <i>Banking Act 1959</i>as amended (or under any future Commonwealth legislation relating to the licensing of banks) or a bank constituted by or under a law of the Commonwealth or of a State. Where one bank is a wholly‑owned subsidiary of another bank then both banks shall be considered to be part of the same Banking Group;</div>
+    <div>means a bank licensed under the <i>Banking Act 1959</i>as amended (or under any future Commonwealth legislation relating to the licensing of banks) or a bank constituted by or under a law of the Commonwealth or of a State. Where one bank is a wholly-owned subsidiary of another bank then both banks shall be considered to be part of the same Banking Group;</div>
   </td>
 </tr>
 <tr>
@@ -2436,21 +2433,21 @@ For the purpose of this Clause:
   </td>
 </tr></table>
 
-5.15.2  The Benchmark Rate shall be calculated by the Commonwealth in the following way:
+5.15.2   The Benchmark Rate shall be calculated by the Commonwealth in the following way:
 
 (a)   the calculation shall be made as at the last Business Day of each Month;
 
-(b)   the largest Banking Group providers of Housing Loans in Australia shall be determined pursuant to Sub‑clause 5.15.3;
+(b)   the largest Banking Group providers of Housing Loans in Australia shall be determined pursuant to Sub-clause 5.15.3;
 
-(c)   for each of the largest Banking Groups a simple arithmetic average of the Standard Rates of Interest which that Banking Group applied on the day referred to in Sub‑clause 5.15.2 (a) in all States and the Australian Capital Territory and the Northern Territory in which that Banking Group conducted Housing Loan business shall be calculated;
+(c)   for each of the largest Banking Groups a simple arithmetic average of the Standard Rates of Interest which that Banking Group applied on the day referred to in Sub-clause 5.15.2 (a) in all States and the Australian Capital Territory and the Northern Territory in which that Banking Group conducted Housing Loan business shall be calculated;
 
-(d)   the figures so calculated for each Banking Group shall then be subject to a simple arithmetic average and, subject to Sub‑clause 5.15.2 (e), the figure resulting shall be the Benchmark Rate to be applied from the first day of the second Month commencing after the day referred to in Sub‑clause 5.15.2 (a);
+(d)   the figures so calculated for each Banking Group shall then be subject to a simple arithmetic average and, subject to Sub-clause 5.15.2 (e), the figure resulting shall be the Benchmark Rate to be applied from the first day of the second Month commencing after the day referred to in Sub-clause 5.15.2 (a);
 
-(e)   in cases where, on the date referred to in Sub‑clause 5.15.2 (a) and on the basis of data supplied by the Reserve Bank of Australia to the Commonwealth, it appears that the Bank has offered publicly to provide Housing Loans in any State or Territory on terms which include an interest rate lower than that referred to in Sub‑clause 5.15.2 (d), then the lower interest rate so offered by the Bank shall be taken to be the Benchmark Rate to be applied in that State or Territory from the first day of the second Month commencing after the day referred to in Sub‑clause 5.15.2(a); provided that this Sub‑clause shall not refer to Housing Loans in which the annual rate of interest is fixed for a period in excess of twelve (12) months by agreement between the Bank and the borrower;
+(e)   in cases where, on the date referred to in Sub-clause 5.15.2 (a) and on the basis of data supplied by the Reserve Bank of Australia to the Commonwealth, it appears that the Bank has offered publicly to provide Housing Loans in any State or Territory on terms which include an interest rate lower than that referred to in Sub-clause 5.15.2 (d), then the lower interest rate so offered by the Bank shall be taken to be the Benchmark Rate to be applied in that State or Territory from the first day of the second Month commencing after the day referred to in Sub-clause 5.15.2(a); provided that this Sub-clause shall not refer to Housing Loans in which the annual rate of interest is fixed for a period in excess of twelve (12) months by agreement between the Bank and the borrower;
 
-(f)   the Commonwealth shall notify the Bank of the Benchmark Rate calculated in accordance with this Sub‑clause within seven (7) days of the date referred to in Sub‑clause 5.15.2(a).
+(f)   the Commonwealth shall notify the Bank of the Benchmark Rate calculated in accordance with this Sub-clause within seven (7) days of the date referred to in Sub-clause 5.15.2(a).
 
-5.15.3  The largest Banking Group providers of Housing Loans in Australia shall be determined in the following way:
+5.15.3   The largest Banking Group providers of Housing Loans in Australia shall be determined in the following way:
 
 (a)   until 30 September 1992 the largest Banking Group providers of Housing Loans in Australia shall be deemed to be:
 
@@ -2458,7 +2455,7 @@ For the purpose of this Clause:
 
 (ii)   Westpac Banking Corporation;
 
-(iii)  State Bank of Victoria;
+(iii)   State Bank of Victoria;
 
 (iv)  National Australia Bank Limited;
 
@@ -2466,21 +2463,21 @@ For the purpose of this Clause:
 
 (b)   On 30 September 1992 and on 30 September of each succeeding year the largest Banking Groups shall be the five (5) largest Banking Group providers of Housing Loans in Australia as determined on the basis of the total amount outstanding under Housing Loans during July 1992 and July of each succeeding year as appropriate as shown in data supplied by the Reserve Bank of Australia.
 
-(c)   If such data are not supplied by the Reserve Bank of Australia on 30 September 1992 or on 30 September of each succeeding year, then the five (5) largest Banking Group providers of Housing Loans shall be the five (5) largest Banking Group providers of Housing Loans last determined under this Sub‑clause until the data are supplied by the Reserve Bank of Australia. If on 31 December 1992 or 31 December of a succeeding year as appropriate the data are still not available the parties shall use such data as are otherwise agreed.
+(c)   If such data are not supplied by the Reserve Bank of Australia on 30 September 1992 or on 30 September of each succeeding year, then the five (5) largest Banking Group providers of Housing Loans shall be the five (5) largest Banking Group providers of Housing Loans last determined under this Sub-clause until the data are supplied by the Reserve Bank of Australia. If on 31 December 1992 or 31 December of a succeeding year as appropriate the data are still not available the parties shall use such data as are otherwise agreed.
 
-(d)   Where a Banking Group had been one of the five (5) largest Banking Group providers of Housing Loans and that Banking Group ceases to be a Banking Group within the meaning of Sub‑clause 5.15.1, then the remainder of the five (5) largest Banking Groups shall be deemed to be the largest Banking Group providers of Housing Loans until another determination is made under this Sub‑Sub‑clause.
+(d)   Where a Banking Group had been one of the five (5) largest Banking Group providers of Housing Loans and that Banking Group ceases to be a Banking Group within the meaning of Sub-clause 5.15.1, then the remainder of the five (5) largest Banking Groups shall be deemed to be the largest Banking Group providers of Housing Loans until another determination is made under this Sub-Sub-clause.
 
-5.15.4  The parties agree that data supplied by the Reserve Bank of Australia to the Commonwealth pursuant to this Sub‑clause shall be treated by them as final and conclusive.
+5.15.4   The parties agree that data supplied by the Reserve Bank of Australia to the Commonwealth pursuant to this Sub-clause shall be treated by them as final and conclusive.
 
-5.15.5  Where a dispute, question or difference arises as to the Benchmark Rate notified by the Commonwealth to the Bank pursuant to Sub‑clause 5.15.2(f) the matter may be referred to arbitration by the Bank in accordance with Clause 24\. If a determination is not made by the arbitrator or the matter otherwise resolved by the date referred to in Sub‑clause 5.15.2(d), then the Benchmark Rate first notified by the Commonwealth pursuant to Sub‑clause 5.15.2(f) shall be treated by the parties as final and conclusive.
+5.15.5   Where a dispute, question or difference arises as to the Benchmark Rate notified by the Commonwealth to the Bank pursuant to Sub-clause 5.15.2(f) the matter may be referred to arbitration by the Bank in accordance with Clause 24\. If a determination is not made by the arbitrator or the matter otherwise resolved by the date referred to in Sub-clause 5.15.2(d), then the Benchmark Rate first notified by the Commonwealth pursuant to Sub-clause 5.15.2(f) shall be treated by the parties as final and conclusive.
 
-5.15.6  For the purposes of calculations of Subsidy payments under the Act the Benchmark Rate shall be expressed as a decimal fraction, for example 16.75 per cent shall be expressed as 0.1675.
+5.15.6   For the purposes of calculations of Subsidy payments under the Act the Benchmark Rate shall be expressed as a decimal fraction, for example 16.75 per cent shall be expressed as 0.1675.
 
 5.16   Changes to Title of Subsidised Loan Account during the term of a Subsidised Loan
 
           Where a Subsidised Borrower who:
 
-5.16.1  (a)   is the sole owner of the Property and wishes by a sale or transfer of part of his or her interest in the Property to own the Property together with his or her spouse as joint tenants;
+5.16.1   (a)   is the sole owner of the Property and wishes by a sale or transfer of part of his or her interest in the Property to own the Property together with his or her spouse as joint tenants;
 
 (b)   together with his or her spouse as joint tenants owns the Property and wishes by a purchase or transfer of the spouse's interest to become the sole owner of the Property; or
 
@@ -2488,11 +2485,11 @@ For the purpose of this Clause:
 
 the Bank shall advise the Subsidised Borrower immediately that an application must be made to the Commonwealth for a Grant of Approval and the Bank shall provide the person with such an application.
 
-5.16.2  Where the Bank receives a completed and signed application for a Grant of Approval from a Subsidised Borrower the Bank shall immediately forward by registered mail the application to the Commonwealth.
+5.16.2   Where the Bank receives a completed and signed application for a Grant of Approval from a Subsidised Borrower the Bank shall immediately forward by registered mail the application to the Commonwealth.
 
-5.16.3  Where the Commonwealth issues a Grant of Approval it shall forward a copy to any branch of the Bank nominated by the Subsidised Borrower. A Grant of Approval shall include the particulars set out in Schedule B.
+5.16.3   Where the Commonwealth issues a Grant of Approval it shall forward a copy to any branch of the Bank nominated by the Subsidised Borrower. A Grant of Approval shall include the particulars set out in Schedule B.
 
-5.16.4  Except where it is required by law to do so or a Subsidised Borrower has requested under the Act that Subsidy be cancelled, the Bank will not after Subsidy payments have commenced in respect of a Subsidised Loan allow a Property held as a joint tenancy to be held or converted to a tenancy in common, and shall not, unless approved by the Commonwealth, allow:
+5.16.4   Except where it is required by law to do so or a Subsidised Borrower has requested under the Act that Subsidy be cancelled, the Bank will not after Subsidy payments have commenced in respect of a Subsidised Loan allow a Property held as a joint tenancy to be held or converted to a tenancy in common, and shall not, unless approved by the Commonwealth, allow:
 
 (a)   a person, other than a person named in the Entitlement Certificate, to be joined to the Title, Mortgage or Subsidised Loan Account;
 
@@ -2500,13 +2497,13 @@ the Bank shall advise the Subsidised Borrower immediately that an application mu
 
 (c)   the name of a person appearing on the Title, Mortgage or Subsidised Loan Account to be changed from that appearing in the Entitlement Certificate.
 
-5.16.5  A Subsidised Borrower may apply directly to the Commonwealth for a Grant of Approval.
+5.16.5   A Subsidised Borrower may apply directly to the Commonwealth for a Grant of Approval.
 
 6.       FEES
 
 6.1     Definition of “fees”
 
-6.1.1    For the purposes of this Clause, “fees” shall mean any fee or disbursement charged by the Bank to a Housing Loan customer in connection with any services or other matters relating to a Housing Loan, including:
+6.1.1     For the purposes of this Clause, “fees” shall mean any fee or disbursement charged by the Bank to a Housing Loan customer in connection with any services or other matters relating to a Housing Loan, including:
 
 (a)   the processing and determining of applications for Housing Loans secured by a first mortgage;
 
@@ -2520,29 +2517,29 @@ the Bank shall advise the Subsidised Borrower immediately that an application mu
 
 (f)   the preparation and execution of all documentation associated with the above services or matters.
 
-6.1.2    For the purposes of this Clause, “disbursement”  includes, but is not limited to, State and Commonwealth charges relating to stamping and registration of documents, legal costs, mortgage insurance premiums and charges to the Bank for advising, consulting and valuation services.
+6.1.2     For the purposes of this Clause, “disbursement”  includes, but is not limited to, State and Commonwealth charges relating to stamping and registration of documents, legal costs, mortgage insurance premiums and charges to the Bank for advising, consulting and valuation services.
 
 6.2     Fees to be the same as for other Housing Loan customers
 
-6.2.1    The Bank agrees that persons who use or seek to use the Scheme shall pay no more in fees (and no other fees) in respect of Housing Loans provided by the Bank than are paid by its other Housing Loan customers.
+6.2.1     The Bank agrees that persons who use or seek to use the Scheme shall pay no more in fees (and no other fees) in respect of Housing Loans provided by the Bank than are paid by its other Housing Loan customers.
 
-6.2.2    In particular where an Entitled Person applies for a Subsidised Loan and at the same time applies for a Further Housing Loan from the Bank, regardless of the number of accounts which may be operated by the Bank in relation to the loans, the Bank hereby agrees that it shall charge only one set of fees. Such fees shall be calculated as though the Entitled Person has applied for a single Housing Loan of an amount equal to the aggregate amount of the Subsidised Loan and the Further Housing Loan.
+6.2.2     In particular where an Entitled Person applies for a Subsidised Loan and at the same time applies for a Further Housing Loan from the Bank, regardless of the number of accounts which may be operated by the Bank in relation to the loans, the Bank hereby agrees that it shall charge only one set of fees. Such fees shall be calculated as though the Entitled Person has applied for a single Housing Loan of an amount equal to the aggregate amount of the Subsidised Loan and the Further Housing Loan.
 
 7.       SUBSIDY
 
 7.1     Obligation of the Commonwealth to pay Subsidy
 
-7.1.1    Subject to Sub‑clause 7.1.2, the Commonwealth agrees to pay Subsidy to the Bank in accordance with the Act and this Agreement.
+7.1.1     Subject to Sub-clause 7.1.2, the Commonwealth agrees to pay Subsidy to the Bank in accordance with the Act and this Agreement.
 
-7.1.2    The obligation of the Commonwealth referred to in Sub‑clause 7.1.1 is conditional on:
+7.1.2     The obligation of the Commonwealth referred to in Sub-clause 7.1.1 is conditional on:
 
 (a)   the satisfaction of all of the relevant provisions of the Act, including the Commonwealth's acceptance of Part D of the Application for Payment of Subsidy;
 
-(b)   the advancing of a loan by the Bank pursuant to Sub‑clause 5.4 or the advancing of an increase pursuant to Sub‑clause 5.5.1 within twelve (12) months of the date of issue of the Entitlement Certificate or a Grant of Approval as the case may be.
+(b)   the advancing of a loan by the Bank pursuant to Sub-clause 5.4 or the advancing of an increase pursuant to Sub-clause 5.5.1 within twelve (12) months of the date of issue of the Entitlement Certificate or a Grant of Approval as the case may be.
 
-7.1.3    In cases where the Commonwealth is not satisfied with the contents of Part D of the Application for Payment of Subsidy, the Commonwealth shall immediately notify the Bank and the applicant and specify the matters in respect of which the Commonwealth is not satisfied. The applicant and the Bank shall be given a reasonable opportunity to rectify the deficiencies specified.
+7.1.3     In cases where the Commonwealth is not satisfied with the contents of Part D of the Application for Payment of Subsidy, the Commonwealth shall immediately notify the Bank and the applicant and specify the matters in respect of which the Commonwealth is not satisfied. The applicant and the Bank shall be given a reasonable opportunity to rectify the deficiencies specified.
 
-7.1.4    The Bank acknowledges that the Commonwealth may, in accordance with the Act, terminate or suspend payments of Subsidy. In the event that the Commonwealth decides to terminate or suspend Subsidy payments it shall provide notice to the Bank in accordance with Sub‑clause 11.2.
+7.1.4     The Bank acknowledges that the Commonwealth may, in accordance with the Act, terminate or suspend payments of Subsidy. In the event that the Commonwealth decides to terminate or suspend Subsidy payments it shall provide notice to the Bank in accordance with Sub-clause 11.2.
 
 7.2     Obligation of Bank on receipt of Subsidy
 
@@ -2550,11 +2547,11 @@ The Bank agrees that it will receive and deal with Subsidy payments for the bene
 
 7.3     Payment of Subsidy
 
-7.3.1    The first payment of Subsidy in respect of a Subsidised Loan shall be made on the second Rest Day after the Bank has advanced a Subsidised Loan pursuant to Sub‑clause 5.4\. Prior to a Subsidy Payment Commencement being made, the Commonwealth shall advise the Entitled Person and the Bank of the date of commencement and the basis of calculation of Subsidy. The Commonwealth shall continue to pay Subsidy to the Bank on each Rest Day thereafter until such time as payments of Subsidy stop or are cancelled or suspended in accordance with the Act, or the Subsidised Loan is repaid in full, whichever is the earlier.
+7.3.1     The first payment of Subsidy in respect of a Subsidised Loan shall be made on the second Rest Day after the Bank has advanced a Subsidised Loan pursuant to Sub-clause 5.4\. Prior to a Subsidy Payment Commencement being made, the Commonwealth shall advise the Entitled Person and the Bank of the date of commencement and the basis of calculation of Subsidy. The Commonwealth shall continue to pay Subsidy to the Bank on each Rest Day thereafter until such time as payments of Subsidy stop or are cancelled or suspended in accordance with the Act, or the Subsidised Loan is repaid in full, whichever is the earlier.
 
-7.3.2    All Subsidy payments due to be paid to the Bank on a particular Rest Day shall be totalled and paid by the Commonwealth to the Bank by depositing the amount so totalled to such account as the Bank may from time to time advise.
+7.3.2     All Subsidy payments due to be paid to the Bank on a particular Rest Day shall be totalled and paid by the Commonwealth to the Bank by depositing the amount so totalled to such account as the Bank may from time to time advise.
 
-7.3.3    The Commonwealth shall on the day Subsidy is paid provide the following:
+7.3.3     The Commonwealth shall on the day Subsidy is paid provide the following:
 
 (a)   the name of each Subsidised Borrower and Joint Borrower, if any;
 
@@ -2564,13 +2561,13 @@ The Bank agrees that it will receive and deal with Subsidy payments for the bene
 
 (d)   such other information as may be agreed between the parties.
 
-7.3.4    On the day Subsidy is paid, the Bank shall credit Subsidy payments to the relevant Subsidised Loan Accounts as notified by the Commonwealth, provided that if the information referred to in Sub‑clause 7.3.3 is delivered to the Bank after 3.00 p.m. on the day Subsidy is paid, the Bank will endeavour to credit Subsidy to the relevant Subsidised Loan Accounts on that day and if it is unable to do so, Subsidy shall be credited to Subsidised Loan Accounts on the following Business Day.
+7.3.4     On the day Subsidy is paid, the Bank shall credit Subsidy payments to the relevant Subsidised Loan Accounts as notified by the Commonwealth, provided that if the information referred to in Sub-clause 7.3.3 is delivered to the Bank after 3.00 p.m. on the day Subsidy is paid, the Bank will endeavour to credit Subsidy to the relevant Subsidised Loan Accounts on that day and if it is unable to do so, Subsidy shall be credited to Subsidised Loan Accounts on the following Business Day.
 
-7.3.5    The information referred to in Sub‑clause 7.3.3 shall be delivered to a lodgement point nominated by the Bank and shall be supplied on magnetic tape or in such other computerised form as the parties may agree and in accordance with agreed standards and specifications.
+7.3.5     The information referred to in Sub-clause 7.3.3 shall be delivered to a lodgement point nominated by the Bank and shall be supplied on magnetic tape or in such other computerised form as the parties may agree and in accordance with agreed standards and specifications.
 
-7.3.6    In cases where, on payment of Subsidy, the Bank is unable to exactly match its records relating to a Subsidised Borrower or Joint Borrower (namely, the correct name or names of such persons together with the Subsidised Loan Account number) with that advised by the Commonwealth, then unless the parties can resolve the discrepency in records the Bank agrees that it will repay to the Commonwealth the Subsidy received within three (3) days of its receipt.
+7.3.6     In cases where, on payment of Subsidy, the Bank is unable to exactly match its records relating to a Subsidised Borrower or Joint Borrower (namely, the correct name or names of such persons together with the Subsidised Loan Account number) with that advised by the Commonwealth, then unless the parties can resolve the discrepency in records the Bank agrees that it will repay to the Commonwealth the Subsidy received within three (3) days of its receipt.
 
-8.       OVER‑PAYMENT OF SUBSIDY
+8.       OVER-PAYMENT OF SUBSIDY
 
 8.1     Where immediate repayment required
 
@@ -2584,43 +2581,43 @@ The Bank agrees that it will receive and deal with Subsidy payments for the bene
 
 the Bank agrees that it will repay the amount of Subsidy received to the Commonwealth within three (3) days of its receipt, together with written advice as to the reason for the return of the Subsidy amount.
 
-8.2     Where Over‑payments are to be added to Subsidised Loan Account
+8.2     Where Over-payments are to be added to Subsidised Loan Account
 
-Subject to Sub‑clause 8.3 and 8.5, where Subsidy has not been paid in accordance with the Act and there has been an over‑payment of Subsidy, the following procedures shall be followed:
+Subject to Sub-clause 8.3 and 8.5, where Subsidy has not been paid in accordance with the Act and there has been an over-payment of Subsidy, the following procedures shall be followed:
 
 (a)   the amount payable to the Commonwealth shall be the due amount determined in accordance with the provisions of the Act;
 
-(b)   the Commonwealth will notify the Subsidised Borrower and the Bank of the over‑payment of Subsidy and request that the Subsidised Borrower within thirty (30) days either,
+(b)   the Commonwealth will notify the Subsidised Borrower and the Bank of the over-payment of Subsidy and request that the Subsidised Borrower within thirty (30) days either,
 
 (i)    repay the due amount directly to the Commonwealth; or
 
-(ii)   consent to the due amount being paid to the Commonwealth in the manner provided in Sub‑clause 8.2(d);
+(ii)   consent to the due amount being paid to the Commonwealth in the manner provided in Sub-clause 8.2(d);
 
-(c)   the due amount shall be paid to the  Commonwealth by the Bank in the manner provided in Sub‑clause 8.2(d) where:
+(c)   the due amount shall be paid to the  Commonwealth by the Bank in the manner provided in Sub-clause 8.2(d) where:
 
 (i)    the Subsidised Borrower at any time so consents,
 
-(ii)   the Subsidised Borrower makes no reply to the Commonwealth's request under Sub‑clause 8.2 (b),
+(ii)   the Subsidised Borrower makes no reply to the Commonwealth's request under Sub-clause 8.2 (b),
 
-(iii)  the Commonwealth obtains a judgment of a court against the Subsidised Borrower for payment of the due amount which is not paid within thirty (30) days of the date of the judgment, or
+(iii)   the Commonwealth obtains a judgment of a court against the Subsidised Borrower for payment of the due amount which is not paid within thirty (30) days of the date of the judgment, or
 
 (iv)  seeks a review of a decision of the Commonwealth pursuant to the Act relating to relief against hardship and the decision of the Commonwealth is upheld, or the due amount reduced and the due amount is not paid to the Commonwealth within thirty (30) days of written notification to the Subsidised Borrower of the Commonwealth's decision;
 
-(d)   where Sub‑clause 8.2 (c) is applicable, the Commonwealth shall notify the Bank in writing and the Bank shall,
+(d)   where Sub-clause 8.2 (c) is applicable, the Commonwealth shall notify the Bank in writing and the Bank shall,
 
 (i)    pay the due amount to the Commonwealth and add the amount of such payment to the principal sum outstanding on the Subsidised Borrower's Subsidised Loan Account, and,  
 
 (ii)   immediately advise the Commonwealth in writing that the amount has been so added specifying the date on which it was added and the principal and interest owing to the Bank before the amount was added in respect of any advance by the Bank secured over the Property;
 
-(e)   the Parties acknowledge that where the Bank adds an amount to the principal sum outstanding on a Subsidised Loan Account pursuant to Sub‑clause 8.2 (d), such amount shall be repayable to the Bank as if the Bank had advanced the amount to the Subsidised Borrower as a Housing Loan secured by a mortgage and that the Commonwealth is not obliged under the Act to pay Subsidy in respect of the amount.
+(e)   the Parties acknowledge that where the Bank adds an amount to the principal sum outstanding on a Subsidised Loan Account pursuant to Sub-clause 8.2 (d), such amount shall be repayable to the Bank as if the Bank had advanced the amount to the Subsidised Borrower as a Housing Loan secured by a mortgage and that the Commonwealth is not obliged under the Act to pay Subsidy in respect of the amount.
 
-8.3     Bank not required to add over‑payment where Subsidised Loan Account closed.
+8.3     Bank not required to add over-payment where Subsidised Loan Account closed.
 
-8.3.1    Pursuant to the Act, the Bank shall not be required to perform its obligations under Sub‑clause 8.2 (d) where the Subsidised Loan Account is closed at the time the Bank receives notice from the Commonwealth pursuant to that Sub‑clause.
+8.3.1     Pursuant to the Act, the Bank shall not be required to perform its obligations under Sub-clause 8.2 (d) where the Subsidised Loan Account is closed at the time the Bank receives notice from the Commonwealth pursuant to that Sub-clause.
 
-8.3.2    For the purposes of this clause the Subsidised Loan Account shall not be taken to be closed until all agreements made between the Bank and the Subsidised Borrower and which related to the Subsidised Loan, including increases in the amount of the Subsidised Loan, have been discharged.
+8.3.2     For the purposes of this clause the Subsidised Loan Account shall not be taken to be closed until all agreements made between the Bank and the Subsidised Borrower and which related to the Subsidised Loan, including increases in the amount of the Subsidised Loan, have been discharged.
 
-8.4     Commonwealth to refund Amount to Bank in certain circumstances. Where pursuant to Sub‑clause 8.2 (d) (i) the Bank has paid an amount to the Commonwealth and added that amount to the principal outstanding on a Subsidised Loan Account and has provided the advice to the Commonwealth set out in Sub‑clause 8.2 (d) (ii), if at any time thereafter:
+8.4     Commonwealth to refund Amount to Bank in certain circumstances. Where pursuant to Sub-clause 8.2 (d) (i) the Bank has paid an amount to the Commonwealth and added that amount to the principal outstanding on a Subsidised Loan Account and has provided the advice to the Commonwealth set out in Sub-clause 8.2 (d) (ii), if at any time thereafter:
 
 (a)   the Bank, for any reason or in any circumstances, realises the Mortgage securing the loan;
 
@@ -2628,11 +2625,11 @@ Subject to Sub‑clause 8.3 and 8.5, where Subsidy has not been paid in accord
 
 (c)   the Bank has taken action against the borrower to recover the shortfall suffered by the Bank on realisation of the Mortgage and such action has not been successful or the Bank in the ordinary course of its business would have written off the amount of the shortfall as a bad debt,
 
-the Commonwealth will refund to the Bank such amount of the moneys paid by the Bank to the Commonwealth pursuant to Sub‑clause 8.2 (d) as is necessary to recompense the Bank for the shortfall suffered on realisation of the Mortgage; provided always that in assessing the extent of the shortfall to be recompensed to the Bank no account shall be taken of moneys owing to the Bank over and above those referred to in 8.2 (d) (ii).
+the Commonwealth will refund to the Bank such amount of the moneys paid by the Bank to the Commonwealth pursuant to Sub-clause 8.2 (d) as is necessary to recompense the Bank for the shortfall suffered on realisation of the Mortgage; provided always that in assessing the extent of the shortfall to be recompensed to the Bank no account shall be taken of moneys owing to the Bank over and above those referred to in 8.2 (d) (ii).
 
 8.5     Cases of fraud, mistake or concealment
 
-Where there has been any fraud, mistake or concealment by the Bank or its servants or agents and this results in an over‑payment of Subsidy, the Bank shall pay immediately the due amount to the Commonwealth. In cases of fraud or concealment, and provided the Subsidised Borrower has not been a party thereto, the Bank shall make no claim against the Subsidised Borrower in respect of the due amount
+Where there has been any fraud, mistake or concealment by the Bank or its servants or agents and this results in an over-payment of Subsidy, the Bank shall pay immediately the due amount to the Commonwealth. In cases of fraud or concealment, and provided the Subsidised Borrower has not been a party thereto, the Bank shall make no claim against the Subsidised Borrower in respect of the due amount
 
 8.6     Commonwealth to notify Bank of due amount from time to time
 
@@ -2640,7 +2637,7 @@ Where:
 
 (a)        pursuant to the Act, a due amount is payable to the Commonwealth by a person who is or was a Subsidised Borrower;
 
-(b)       such person has been allowed to pay the due amount to the Commonwealth by instalments; and
+(b)        such person has been allowed to pay the due amount to the Commonwealth by instalments; and
 
 (c)        the Bank is, or may be, required to pay pursuant to the Act the balance of the due amount after deduction of instalments, to the Commonwealth,
 
@@ -2712,7 +2709,7 @@ Where in the course of normal banking business, an officer of a branch of the Ba
 
 (i)    the completion of Part D of an Application for Payment of Subsidy (7 days); or
 
-(ii)   crediting of a Subsidy payment to a Subsidised Loan Account (1 day); and    
+(ii)   crediting of a Subsidy payment to a Subsidised Loan Account (1 day); and            
 
 (i)    change of name or names on the Title, Mortgage or Subsidised Loan Account  where the change has not been approved by the Commonwealth by the issue of a Grant of Approval (7 days); and
 
@@ -2730,7 +2727,7 @@ The Commonwealth will notify the Bank in writing within the number of days speci
 
 11.3   Provision of information generally 
 
-Unless the Bank is prohibited by law from doing so, the Bank agrees that it will provide the Commonwealth with copies of any documents or any other information in the possession or under the control of the Bank relating to applications for Subsidised Loans or to Subsidised Loans as may be requested by the Commonwealth in writing. The Bank shall comply with any request by the Commonwealth within fourteen (14) days of receipt of the request or provide written reasons to the Commonwealth why it has not and advise the Commonwealth when it shall comply; provided that in all cases the Bank shall comply with the request within twenty‑eight (28) days of receipt.
+Unless the Bank is prohibited by law from doing so, the Bank agrees thatit will provide the Commonwealth with copies of any documents or any other information in the possession or under the control of the Bank relating to applications for Subsidised Loans or to Subsidised Loans as may be requested by the Commonwealth in writing. The Bank shall comply with any request by the Commonwealth within fourteen (14) days of receipt of the request or provide written reasons to the Commonwealth why it has not and advise the Commonwealth when it shall comply; provided that in all cases the Bank shall comply with the request within twenty-eight (28) days of receipt.
 
 11.4   Assistance in preparing Annual Reports and evaluations
 
@@ -2746,7 +2743,7 @@ The Bank hereby agrees to provide reasonable assistance to the Commonwealth in c
 
 11.5   Disclosure
 
-The reports by the Bank referred to in Sub‑clause 11.4 (b) (i) are not to be copied, used, disclosed or otherwise made available to any third party without the prior written consent of both parties.
+The reports by the Bank referred to in Sub-clause 11.4 (b) (i) are not to be copied, used, disclosed or otherwise made available to any third party without the prior written consent of both parties.
 
 11.6   No charge to the Commonwealth by the Bank
 
@@ -2760,7 +2757,7 @@ The Bank agrees that the Commonwealth may discharge its rights and exercise its 
 
 12.2   Meaning of “Commonwealth” in Agreement
 
-Any reference to the “Commonwealth” in this Agreement shall, unless the contrary intention appears, include any Department or Departments of State of the Commonwealth, or any statutory authority of the Commonwealth which is charged with the responsibility for administering the Scheme pursuant to Sub‑clause 12.1.
+Any reference to the “Commonwealth” in this Agreement shall, unless the contrary intention appears, include any Department or Departments of State of the Commonwealth, or any statutory authority of the Commonwealth which is charged with the responsibility for administering the Scheme pursuant to Sub-clause 12.1.
 
 13.     DEALINGS WITH SOUTH AFRICA
 
@@ -2788,7 +2785,7 @@ This Agreement shall be governed by and be construed in accordance with the law 
 
 17.     NOTICES
 
-Unless the contrary intention appears in this Agreement, any notice, request or other communication to be given or served pursuant to this Agreement shall be in writing and shall be delivered by hand or sent by pre‑paid post or data facsimile transmission to:
+Unless the contrary intention appears in this Agreement, any notice, request or other communication to be given or served pursuant to this Agreement shall be in writing and shall be delivered by hand or sent by pre-paid post or data facsimile transmission to:
 
 (a)   In respect of the Commonwealth,
 
@@ -2824,7 +2821,7 @@ Such notice, request or other communication shall be deemed to have been given o
 
 (a)   if delivered by hand, upon delivery;
 
-(b)   if in the form of a letter sent by pre‑paid post, upon the expiration of two (2) working days after the date on which it was so sent;
+(b)   if in the form of a letter sent by pre-paid post, upon the expiration of two (2) working days after the date on which it was so sent;
 
 (c)   if by data facsimile transmission, upon the sender's facsimile machine recording that the facsimile has been properly transmitted to the recipients's address,
 
@@ -2870,27 +2867,27 @@ If any party considers that a dispute, question or difference has arisen as to t
 
 24.2   Submitting a dispute to arbitration
 
-In the event that such dispute, question or difference is not settled within fourteen (14) days from the date of service of the notice referred to in  Sub‑clause 24.1, either party may submit the dispute, question or difference to arbitration by serving a further notice on the other party stating that it requires that the dispute, question or difference be referred to arbitration and the giving of such further notice shall operate to refer such dispute, question or difference to arbitration. Such dispute, question or difference shall then be determined, subject to the provisions of this Agreement, by an arbitrator selected by agreement in writing by the parties within fourteen (14) days of the giving of the aforementioned further notice or, in the absence of such agreement, by an arbitrator appointed in accordance with the provisions of the law relating to arbitration in force in the State of Victoria.
+In the event that such dispute, question or difference is not settled within fourteen (14) days from the date of service of the notice referred to in  Sub-clause 24.1, either party may submit the dispute, question or difference to arbitration by serving a further notice on the other party stating that it requires that the dispute, question or difference be referred to arbitration and the giving of such further notice shall operate to refer such dispute, question or difference to arbitration. Such dispute, question or difference shall then be determined, subject to the provisions of this Agreement, by an arbitrator selected by agreement in writing by the parties within fourteen (14) days of the giving of the aforementioned further notice or, in the absence of such agreement, by an arbitrator appointed in accordance with the provisions of the law relating to arbitration in force in the State of Victoria.
 
 24.3   Arbitration relating to Franchise Payments
 
-For the purposes of a dispute, question or difference referred to in Sub‑clause 4.6, the time periods referred to in Sub‑clause 24.2 shall be seven (7) days and the arbitrator shall be appointed by the President of the Australian Institute of Chartered Accountants.
+For the purposes of a dispute, question or difference referred to in Sub-clause 4.6, the time periods referred to in Sub-clause 24.2 shall be seven (7) days and the arbitrator shall be appointed by the President of the Australian Institute of Chartered Accountants.
 
 24.4   Arbitration Relating To Benchmark Rate
 
-For the purposes of a dispute, question or difference as to the Benchmark Rate notified by the Commonwealth to the Bank pursuant to Sub‑clause 5.15.2 (f), the following provisions shall apply:
+For the purposes of a dispute, question or difference as to the Benchmark Rate notified by the Commonwealth to the Bank pursuant to Sub-clause 5.15.2 (f), the following provisions shall apply:
 
 (a)   the Bank shall immediately serve on the Commonwealth a notice of such dispute, question or difference and the parties shall meet or confer within two (2) days of receipt of the notice in an attempt to settle such dispute, question or difference;
 
-(b)   in the event that such dispute, question or difference is not settled within three (3) days from the date of service of the notice referred to in Sub‑clause 24.4 (a), the Bank may submit the dispute, question or difference to arbitration by serving a further notice on the Commonwealth stating that it requires the dispute, question or difference to be referred to arbitration and the giving of such further notice shall operate to refer such dispute, question or difference to arbitration; and
+(b)   in the event that such dispute, question or difference is not settled within three (3) days from the date of service of the notice referred to in Sub-clause 24.4 (a), the Bank may submit the dispute, question or difference to arbitration by serving a further notice on the Commonwealth stating that it requires the dispute, question or difference to be referred to arbitration and the giving of such further notice shall operate to refer such dispute, question or difference to arbitration; and
 
-(c)   such dispute, question or difference shall then be determined, subject to the provisions of this Agreement, by an arbitrator appointed by the President of the Australian Institute of Chartered Accountants being an arbitrator who has agreed in writing before his appointment to make a determination within twenty‑one (21) days of the date referred to in Sub‑clause 5.15.2 (a).
+(c)   such dispute, question or difference shall then be determined, subject to the provisions of this Agreement, by an arbitrator appointed by the President of the Australian Institute of Chartered Accountants being an arbitrator who has agreed in writing before his appointment to make a determination within twenty-one (21) days of the date referred to in Sub-clause 5.15.2 (a).
 
 24.5   Provisions relating to all arbitrations
 
 The following provisions shall apply to all arbitrations:
 
-(a)   a reference to arbitration under this Clause shall be deemed to be a reference to arbitration within the meaning of the law of the State of Victoria;
+(a)   a reference to arbitration under this Clause shall   be deemed to be a reference to arbitration within the meaning of the law of the State of Victoria;
 
 (b)   the fees and expenses of the arbitrator shall be borne equally by the Bank and the Commonwealth;
 
@@ -2938,11 +2935,11 @@ The Bank warrants, undertakes and represents to the Commonwealth and it is a con
 
 27.1   Obligations of the Bank
 
-The Bank shall indemnify and keep indemnified the Commonwealth, its officers, employees and agents from and against all and any reasonable losses, costs (including legal costs) and liabilities, refunds, expenses and other out‑goings incurred by the Commonwealth in connection with any claim made by a third party against the Commonwealth in relation to a Subsidised Loan to the extent to which those losses, costs, refunds, liabilities, expenses or other outgoings are incurred by the Commonwealth as a result of the Bank's failure to perform its obligations under this Agreement.
+The Bank shall indemnify and keep indemnified the Commonwealth, its officers, employees and agents from and against all and any reasonable losses, costs (including legal costs) and liabilities, refunds, expenses and other out-goings incurred by the Commonwealth in connection with any claim made by a third party against the Commonwealth in relation to a Subsidised Loan to the extent to which those losses, costs, refunds, liabilities, expenses or other outgoings are incurred by the Commonwealth as a result of the Bank's failure to perform its obligations under this Agreement.
 
 27.2   Obligations of the Commonwealth
 
-The Commonwealth shall indemnify and keep indemnified the Bank, its officers, employees and agents from and against all and any reasonable losses, costs (including legal costs) and liabilities, refunds, expenses and other out‑goings incurred by the Bank in connection with any claim made by a third party against the Bank in relation to a Subsidised Loan to the extent to which those losses, costs, refunds, liabilities, expenses or other out‑goings are incurred by the Bank as a result of the Commonwealth's failure to perform its obligations under this Agreement.
+The Commonwealth shall indemnify and keep indemnified the Bank, its officers, employees and agents from and against all and any reasonable losses, costs (including legal costs) and liabilities, refunds, expenses and other out-goings incurred by the Bank in connection with any claim made by a third party against the Bank in relation to a Subsidised Loan to the extent to which those losses, costs, refunds, liabilities, expenses or other out-goings are incurred by the Bank as a result of the Commonwealth's failure to perform its obligations under this Agreement.
 
 28.     RELATIONSHIP OF THE PARTIES
 
@@ -2950,23 +2947,23 @@ This Agreement does not constitute either party as a joint venturer, partner, ag
 
 29.     DEFAULT PROVISIONS
 
-29.1   Persistent failure by the Bank to provide Subsidised Loans.
+29.1      Persistent failure by the Bank to provide Subsidised Loans.
 
 Where it appears to the Commonwealth that there has been a persistent failure by the Bank to provide Subsidised Loans in accordance with this Agreement the following provisions shall apply:
 
-29.1.1  the Commonwealth shall serve upon the Bank a notice in writing giving particulars of the persistent failure and requiring the Bank to rectify the failure;
+29.1.1   the Commonwealth shall serve upon the Bank a notice in writing giving particulars of the persistent failure and requiring the Bank to rectify the failure;
 
-29.1.2  within twenty‑eight (28) days of the date of service of such a notice on the Bank either party may request a meeting in which case the parties shall forthwith meet in order that agreement can be reached on whether there has been a persistent failure and, if so, the appropriate steps and procedures to be taken or adopted by the Bank in order to rectify the failure;
+29.1.2   within twenty-eight (28) days of the date of service of such a notice on the Bank either party may request a meeting in which case the parties shall forthwith meet in order that agreement can be reached on whether there has been a persistent failure and, if so, the appropriate steps and procedures to be taken or adopted by the Bank in order to rectify the failure;
 
-29.1.3  where three (3) months has elapsed from the date of service of such a notice on the Bank and the parties have not met or are unable to reach agreement pursuant to Sub‑clause 29.1.2 then, if the Commonwealth considers that the Bank has not rectified the persistent failure, the Commonwealth may require the Bank to show cause to the Commonwealth why the Commonwealth should not terminate the Agreement, and in the event that the Bank fails to do so, the Commonwealth may terminate the Agreement.
+29.1.3   where three (3) months has elapsed from the date of service of such a notice on the Bank and the parties have not met or are unable to reach agreement pursuant to Sub-clause 29.1.2 then, if the Commonwealth considers that the Bank has not rectified the persistent failure, the Commonwealth may require the Bank to show cause to the Commonwealth why the Commonwealth should not terminate the Agreement, and in the event that the Bank fails to do so, the Commonwealth may terminate the Agreement.
 
 29.2   Persistent failure by Bank to comply with any other term of the Agreement.
 
 Where it appears to the Commonwealth that there has been a persistent failure by the Bank to comply with any other term of this Agreement the following provisions shall apply:
 
-29.2.1  the Commonwealth shall serve upon the Bank a notice in writing specifying the nature of the persistent failure and giving particulars thereof and requiring the Bank to rectify the failure;
+29.2.1   the Commonwealth shall serve upon the Bank a notice in writing specifying the nature of the persistent failure and giving particulars thereof and requiring the Bank to rectify the failure;
 
-29.2.2  where following such notice the Commonwealth considers that the Bank has not rectified the persistent failure, the Commonwealth may refer the matter to arbitration in accordance with Clause 24\. In the event that it is determined that there has been a persistent failure by the Bank, the Commonwealth may require the Bank to show cause to the Commonwealth why the Commonwealth should not terminate the Agreement and in the event that the Bank fails to do so the Commonwealth may terminate the Agreement.
+29.2.2   where following such notice the Commonwealth considers that the Bank has not rectified the persistent failure, the Commonwealth may refer the matter to arbitration in accordance with Clause 24\. In the event that it is determined that there has been a persistent failure by the Bank, the Commonwealth may require the Bank to show cause to the Commonwealth why the Commonwealth should not terminate the Agreement and in the event that the Bank fails to do so the Commonwealth may terminate the Agreement.
 
 29.3   Meaning of “rectify the failure”
 
@@ -2990,7 +2987,7 @@ Where:
 
 (g)   the Bank assigns its rights or obligations under this Agreement in whole or in part without the consent of the other party;
 
-(h)   pursuant to the _Banking Act 1959_ as amended the Reserve Bank of Australia appoints an officer to investigate the affairs of the Bank or the Reserve Bank of Australia assumes control of and carries on the business of the Bank; or
+(h)   pursuant to the Banking Act 1959 as amended the Reserve Bank of Australia appoints an officer to investigate the affairs of the Bank or the Reserve Bank of Australia assumes control of and carries on the business of the Bank; or
 
 (i)    the Bank loses its approval to carry on banking business in Australia,
 
@@ -2998,29 +2995,29 @@ then the Commonwealth shall be entitled by notice in writing to immediately term
 
 29.5   Effects of termination
 
-29.5.1  Upon the termination of this Agreement for any reason the exclusive rights granted to the Bank in Clause 3 shall be terminated and the Commonwealth may grant those rights to another person of the Commonwealth's sole choosing.
+29.5.1   Upon the termination of this Agreement for any reason the exclusive rights granted to the Bank in Clause 3 shall be terminated and the Commonwealth may grant those rights to another person of the Commonwealth's sole choosing.
 
-29.5.2  In the event that the Commonwealth terminates the Agreement under Sub‑clauses 29.1, 29.2 or 29.4 the Bank shall not, pursuant to Sub‑clause 4.7 have any claim to a refund of part or all of the payment of the forty‑two million dollars ($42 million) made pursuant to Sub‑clause 4.1 (a).
+29.5.2   In the event that the Commonwealth terminates the Agreement under Sub-clauses 29.1, 29.2 or 29.4 the Bank shall not, pursuant to Sub-clause 4.7 have any claim to a refund of part or all of the payment of the forty-two million dollars ($42 million) made pursuant to Sub-clause 4.1 (a).
 
-29.5.3  Upon the termination of this Agreement, the Bank shall be obliged to complete all outstanding applications for Housing Loans already submitted by Entitled Persons and Entitled Persons and their spouses, where appropriate, as though the agreement had not been terminated.
+29.5.3   Upon the termination of this Agreement, the Bank shall be obliged to complete all outstanding applications for Housing Loans already submitted by Entitled Persons and Entitled Persons and their spouses, where appropriate, as though the agreement had not been terminated.
 
-29.5.4  All covenants and agreements by either party which by their terms or by reasonable implication are to be performed in whole or in part after the termination of this Agreement shall survive such termination including the duties arising pursuant to Clause 25.
+29.5.4   All covenants and agreements by either party which by their terms or by reasonable implication are to be performed in whole or in part after the termination of this Agreement shall survive such termination including the duties arising pursuant to Clause 25.
 
-29.5.5  Except as may otherwise be provided for in this Sub‑clause, the termination of this Agreement for any reason:
+29.5.5   Except as may otherwise be provided for in this Sub-clause, the termination of this Agreement for any reason:
 
 (a)   shall not abrogate, impair, release or extinguish any debt, obligation or liability of one party to the other party which may have accrued hereunder including without limitation any such debt, obligation or liability which was the cause of termination or arose out of such cause; and
 
 (b)   shall be without prejudice to any right or remedy which shall have accrued or which may accrue thereafter in favour of either party.
 
-29.6   Interest payable on moneys over‑due
+29.6   Interest payable on moneys over-due
 
-29.6.1  Unless otherwise provided, if either party defaults in the payment of any moneys due to the other party under this Agreement the party in default shall, without prejudice to any other rights of the other party, pay on demand interest on the moneys due. Such interest shall be paid at a rate per annum equal to the Benchmark Rate as at the date of default plus 5 per cent and shall be calculated from the date the moneys are due until they are paid.
+29.6.1   Unless otherwise provided, if either party defaults in the payment of any moneys due to the other party under this Agreement the party in default shall, without prejudice to any other rights of the other party, pay on demand interest on the moneys due. Such interest shall be paid at a rate per annum equal to the Benchmark Rate as at the date of default plus 5 per cent and shall be calculated from the date the moneys are due until they are paid.
 
-29.6.2  The parties acknowledge that this Sub‑clause shall not apply to:
+29.6.2   The parties acknowledge that this Sub-clause shall not apply to:
 
 (a)   payments of Subsidy by the Commonwealth; or
 
-(b)   any refund made pursuant to Sub‑clause 4.7 of the $42 million referred to in Sub‑clause 4.1 (a) until any sum is due under Sub‑clause 24.5 (d).
+(b)   any refund made pursuant to Sub-clause 4.7 of the $42 million referred to in Sub-clause 4.1 (a) until any sum is due under Sub-clause 24.5 (d).
 
 30.     AUDIT
 
@@ -3030,7 +3027,7 @@ The Bank agrees to provide to the Commonwealth within two (2) months of the Comm
 
 30.2   Qualified Reports
 
-If the external auditors' opinion is qualified in any respect the reasons for such qualification shall be specified in the report and the Bank agrees to take immediate action to remedy the matters specified and to obtain a further report from its external auditors within twenty‑eight (28) days stating that, in their opinion, the reasons for the qualification no longer apply.
+If the external auditors' opinion is qualified in any respect the reasons for such qualification shall be specified in the report and the Bank agrees to take immediate action to remedy the matters specified and to obtain a further report from its external auditors within twenty-eight (28) days stating that, in their opinion, the reasons for the qualification no longer apply.
 
 30.3   Discussion of audit procedures with external auditors
 
@@ -3042,19 +3039,19 @@ The Bank shall not be entitled to charge a fee for any information or service pr
 
 31.     ENABLING LEGISLATION
 
-31.1.1  Enabling legislation being passed by Parliament
+31.1.1   Enabling legislation being passed by Parliament
 
 This Agreement is binding on the parties but, except for this Clause, is subject to and conditional upon legislation being passed by Parliament in the form of the draft Bill initialled on behalf of the parties at the time of execution of this Agreement with such amendments only as:
 
 (i)    are agreed in writing on behalf of the parties; or
 
-(ii)   are taken to have been agreed to by the Bank pursuant to Sub‑clause 31.4.
+(ii)   are taken to have been agreed to by the Bank pursuant to Sub-clause 31.4.
 
-31.1.2  The draft Bill referred to in Sub‑clause 31.1.1 to be initialled by the parties shall not include Schedule 1 thereto.
+31.1.2   The draft Bill referred to in Sub-clause 31.1.1 to be initialled by the parties shall not include Schedule 1 thereto.
 
 31.2   Amendments to draft Bill
 
-In the event that the legislation passed by Parliament should contain any amendments from the draft Bill referred to in Sub‑clause 31.1, the Commonwealth shall within two (2) days of the passage of the legislation give notice to the Bank of the amendments together with such information relating to those amendments as it wishes to provide.
+In the event that the legislation passed by Parliament should contain any amendments from the draft Bill referred to in Sub-clause 31.1, the Commonwealth shall within two (2) days of the passage of the legislation give notice to the Bank of the amendments together with such information relating to those amendments as it wishes to provide.
 
 31.3   Effect of Amendments
 
@@ -3066,21 +3063,19 @@ If the amendments:
 
 (c)   reduce or restrict the entitlements of persons set out in the Agreement or the draft Bill; or
 
-(d)   alter any of the obligations of the Commonwealth set out in the Agreement or the draft Bill or affect the capacity of the Commonwealth to perform its obligations under this Agreement or the draft Bill, and
-
-in the opinion of the Bank, this adversely affects the position of the Bank under the Scheme, the Bank shall notify the Commonwealth within seven (7) days of receipt of the notice under Sub‑clause 31.2 or such further period as may be agreed upon by the parties.
+(d)   alter any of the obligations of the Commonwealth set out in the Agreement or the draft Bill or affect the capacity of the Commonwealth to perform its obligations under this Agreement or the draft Bill, and in the opinion of the Bank, this adversely affects the position of the Bank under the Scheme, the Bank shall notify the Commonwealth within seven (7) days of receipt of the notice under Sub-clause 31.2 or such further period as may be agreed upon by the parties.
 
 31.4   No Notice by Bank
 
-In the event that the Bank does no give notice under Sub‑clause 31.3, it shall be taken to have agreed to such amendments for the purposes of Sub‑clause 31.1.
+In the event that the Bank does no give notice under Sub-clause 31.3, it shall be taken to have agreed to such amendments for the purposes of Sub-clause 31.1.
 
 31.5   Draft Bill to be submitted to Parliament
 
-The Commonwealth agrees that the draft Bill to be submitted to the Parliament shall be the draft Bill referred to in Sub‑clause 31.1 with only such amendments thereto as may be agreed in writing on behalf of the parties.
+The Commonwealth agrees that the draft Bill to be submitted to the Parliament shall be the draft Bill referred to in Sub-clause 31.1 with only such amendments thereto as may be agreed in writing on behalf of the parties.
 
 31.6   Procedure where notice given by the Bank
 
-If a notice is served by the Bank in accordance with Sub‑clause 31.3, then the parties will, as soon as possible after receipt of the notice, meet or communicate to discuss the effect of the amendments and to reach agreement on whether this Agreement shall proceed. If, after twenty one (21) days of service of the notice under Sub‑clause 31.3, agreement has not been reached by the parties, then the Agreement shall terminate.
+If a notice is served by the Bank in accordance with Sub-clause 31.3, then the parties will, as soon as possible after receipt of the notice, meet or communicate to discuss the effect of the amendments and to reach agreement on whether this Agreement shall proceed. If, after twenty one (21) days of service of the notice under Sub-clause 31.3, agreement has not been reached by the parties, then the Agreement shall terminate.
 
 31.7   Effect of termination
 
@@ -3094,29 +3089,27 @@ The parties hereby agree that a copy of this Agreement shall be annexed to and a
 
 In the event that the Commencement Date is a date after 31 December 1991 then this Agreement shall be of no force or effect and neither the bank nor the Commonwealth will have any right to claim for compensation, losses, expenses, costs or damages arising or resulting from this Agreement against the other.
 
-31.10 Passage of enabling legislation after 31 December 1990
+31.10  Passage of enabling legislation after 31 December 1990
 
-In the event that the enabling legislation is passed after 31 December 1990, references to the Act in this Agreement shall be read as references to the _Defence Force (Home Loans Assistance) Act 1991_.
+In the event that the enabling legislation is passed after 31 December 1990, references to the Act in this Agreement shall be read as references to the Defence Force (Home Loans Assistance) Act 1991.
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-SIGNED for and on behalf of the                   
- Commonwealth of Australia by                                   GORDON BILNEY
- The Honourable GORDON NEIL                   
- BILNEY, Minister for Defence                       
- Science and Personnel, in the presence of:     
+SIGNED for and on behalf of the                      
+ Commonwealth of Australia by                                      GORDON BILNEY
+ The Honourable GORDON NEIL                     
+ BILNEY, Minister for Defence                         
+ Science and Personnel, in the presence of:         
 
 JONATHAN HUTSON                                   
 
-SIGNED on behalf of                                     
+SIGNED on behalf of                                       
  NATIONAL AUSTRALIA                                          JOHN F. ASTBURY
- BANK LIMITED by its Attorney                                 Chief General Manager 
- JOHN FREDERICK ASTBURY,                                 Relationship Banking (North) 
- under Power of Attorney dated                       
- 22nd February 1990 (who states                     
- that he holds the office in the                         
- Bank indicated under his signature)                
- in the presence of:                                          
+ BANK LIMITED by its Attorney                                  Chief General Manager JOHN FREDERICK ASTBURY,                                                                                Relationship Banking (North) under Power of Attorney dated       
+ 22nd February 1990 (who states                        
+ that he holds the office in the                             
+ Bank indicated under his signature)                    
+ in the presence of:                                            
 
 R. J. MILLER                                                 
 
@@ -3503,55 +3496,55 @@ A Grant of Approval relating to Transfers will include the following details:
 
 **PART D—CERTIFICATE BY BANK MANAGER**
 
-I,........................................ , manager of the............................................        branch of the National Australia Bank certify that:
+I,.......................................... , manager of the............................................        branch of the National Australia Bank certify that:
 
-(1)       the security offered for the Subsidised Loan (“the loan”) is the property named in Part B and the Subsidised Loan is secured by a first mortgage over this property;
+(1)        the security offered for the Subsidised Loan (“the loan”) is the property named in Part B and the Subsidised Loan is secured by a first mortgage over this property;
 
-(2)       the persons specified in Part A (“the applicants”) are the sole proprietors, or joint tenants, of the property specified in Part B;
+(2)        the persons specified in Part A (“the applicants”) are the sole proprietors, or joint tenants, of the property specified in Part B;
 
 (3) (a)  the Applicants have informed the Bank that the funds advanced under the Subsidised Loan are to be used to do one or more of the following things:
 
 (i)      to buy land and build the house to which the loan relates on the land;
 
-(ii)     to build the house on land already owned by the person;
+(ii)      to build the house on land already owned by the person;
 
-(iii)    to buy the house together with the land on which it is built;
+(iii)     to buy the house together with the land on which it is built;
 
-(iv)    if the house was partly built and already owned by the person—to complete the house;
+(iv)     if the house was partly built and already owned by the person—to complete the house;
 
 (v)     if the house was complete and already owned by the person—to enlarge renovate or repair the house or to construct any permanent improvements on the land on which the house is built; or
 
-(vi)    to discharge another loan used by the person for a purpose mentioned in sub‑paragraphs (i) (ii) (iii) (iv) or (v).
+(vi)     to discharge another loan used by the person for a purpose mentioned in sub-paragraphs (i) (ii) (iii) (iv) or (v).
 
 OR
 
-(b)       where the Applicants have obtained a Grant of Approval relating to a Loan Increase, the Applicants have informed the Bank that the amount of the increase has been used by them to do one or more of the following things:
+(b)        where the Applicants have obtained a Grant of Approval relating to a Loan Increase, the Applicants have informed the Bank that the amount of the increase has been used by them to do one or more of the following things:
 
 (i)    to enlarge, renovate or repair the house in respect of which the loan was made, or to construct any permanent improvements on the land on which the house is built; or
 
-(ii)   to discharge another loan used by the person of the kind mentioned in sub‑paragraph 3 (a) (i), (ii), (iii), (iv) or (v) above.
+(ii)   to discharge another loan used by the person of the kind mentioned in sub-paragraph 3 (a) (i), (ii), (iii), (iv) or (v) above.
 
-(4)     the Applicants have informed me that the house is sufficiently complete to permit the Applicants to be owner‑occupiers and they have informed me that they are doing so;
+(4)     the Applicants have informed me that the house is sufficiently complete to permit the Applicants to be owner-occupiers and they have informed me that they are doing so;
 
-(5).... the loan or Loan Increase was approved on .................. ;
+(5).... the loan or Loan Increase was approved on ...................... ;
 
-(6)....  the final advance on the Subsidised Loan or the advance of the Loan increase was made on          ;
+(6)....  the final advance on the Subsidised Loan or the advance of the Loan increase was made on       ;
 
-(7).... the BSB/loan account number for the Subsidised Loan is  ............ ;
+(7).... the BSB/loan account number for the Subsidised Loan is  .................. ;
 
-(8).... the Subsidised Loan or loan increase amounts to $40000/$.........  (delete $40000 and insert amount ONLY if total subsidised home loan borrowings are BELOW $40000, otherwise delete space);
+(8).... the Subsidised Loan or loan increase amounts to $40000/$................  (delete $40000 and insert amount ONLY if total subsidised home loan borrowings are BELOW $40000, otherwise delete space);
 
 (9)     I have attached documentary evidence provided by the borrowers indicating that the property(ies) they were required to dispose of in order to obtain the subsidy have been disposed of and other documents in support of the application.
 
-Date.................................................                  Signed............................... 
+Date.................................................                  Signed................................ 
 
-Name................................ 
+Name................................. 
 
-Branch.............................. 
+Branch............................... 
 
 Address............................. 
 
-Telephone Number ( )....... 
+Telephone Number (   )....... 
 
 **Schedule D—Loan Agreement**
 
@@ -3559,7 +3552,7 @@ TO: National Australia Bank Limited (the “Bank”).
 
 The Applicant named in Item 1 of the Schedule hereby applies to the Bank for the loan as set out in Item 2 of the Schedule upon the following terms and conditions:—
 
-1.    Except to the extent that such interpretation may be excluded by or be repugnant to the context when herein used:—     
+1.    Except to the extent that such interpretation may be excluded by or be repugnant to the context when herein used:—   
 
 (i)         “Applicant” shall mean every person who applies for the loan and shall include the legal personal representatives and assigns of each of them.
 
@@ -3575,9 +3568,9 @@ The Applicant named in Item 1 of the Schedule hereby applies to the Bank for t
 
 (vii)      “Interest day” means the last working day in each calender month in each year or such date as the Bank may adopt for the purpose of debiting interest payments as set out in Item 4 of the Schedule.
 
-(viii)     “Reference rate” means the nominal rate of interest selected by the Bank set out in Item 3 of the Schedule (if any) upon which the monthly instalments set out in Item 3 of the Schedule are assessed, or such other rate as the Bank may hereafter fix from time to time.
+(viii)      “Reference rate” means the nominal rate of interest selected by the Bank set out in Item 3 of the Schedule (if any) upon which the monthly instalments set out in Item 3 of the Schedule are assessed, or such other rate as the Bank may hereafter fix from time to time.
 
-(ix)       “Scheme” means the Australian Defence Force Home Loan Assistance Scheme established by the _Defence Force (Home Loans Assistance) Act 1990_ and by the agreement made between the Bank and the Commonwealth on 5th November 1990, a copy of which is set out in Schedule 1 to the said Act, as they both are in force from time to time.
+(ix)       “Scheme” means the Australian Defence Force Home Loan Assistance Scheme established by the Defence Force (Home Loans Assistance) Act 1990 and by the agreement made between the Bank and the Commonwealth on 5th November 1990, a copy of which is set out in Schedule 1 to the said Act, as they both are in force from time to time.
 
 (x)        “Securities” means the securities set out in Item 6 of the Schedule, and any other securities which may be held by the Bank hereafter in respect of all or any of the Applicant's liabilities to the Bank.
 
@@ -3587,7 +3580,7 @@ The Applicant named in Item 1 of the Schedule hereby applies to the Bank for t
 
 2.    Subject to Clause 3 hereof, interest shall accrue to the Bank for so long as the balance of the loan remains unpaid and shall be calculated at the Scheme rate applicable from time to time on the daily balance of the loan. Such interest shall be debited to the loan account on each interest day.
 
-3.    (i)         The Applicant agrees that, during such period/s as the Bank is not in receipt of subsidy, interest accruing to the Bank pursuant to Clause 2 hereof shall be calculated at the current interest rate and the Bank may review the instalments payable pursuant to Clause 4 hereof in the manner provided for in sub‑clauses 6 (ii) or 6 (iii) hereof.
+3.    (i)         The Applicant agrees that, during such period/s as the Bank is not in receipt of subsidy, interest accruing to the Bank pursuant to Clause 2 hereof shall be calculated at the current interest rate and the Bank may review the instalments payable pursuant to Clause 4 hereof in the manner provided for in sub-clauses 6 (ii) or 6 (iii) hereof.
 
 (ii)        Paragraph (i) hereof shall not apply during such periods as the Bank is not in receipt of subsidy by reason only that subsidy has been suspended pursuant to the Scheme.
 
@@ -3617,25 +3610,25 @@ Upon the fixing of a new current interest rate by the Bank, or debiting an annua
 
 9.    Notwithstanding Clause 8 (iii) hereof or the fact that a commitment fee may have been charged by the Bank if the Applicant does not avail of the loan or any part thereof within twelve months of the date of issue of the entitlement certificate (or, if no Entitlement Certificate is issued, within twelve (12) months of the date of approval of the loan) the Bank may thereafter at any time elect that it shall no longer be under any obligation to make the loan hereby applied for provided that the Bank shall give to the Applicant not less than one months notice of its intention to exercise such election and the Applicant shall have the right to draw the loan (subject to the terms and conditions) prior to the expiration of the period mentioned in such notice; provided always that if the Bank does elect not to make the loan it shall not affect the Applicant's right to apply for further loans under the Scheme or otherwise.
 
-10.  The Applicant shall pay, or reimburse the Bank on demand, or at its discretion the Bank may debit the Applicant's account, for all costs, charges and expenses of every description which the Bank may according to its usual practice incur in connection with:—
+10.   The Applicant shall pay, or reimburse the Bank on demand, or at its discretion the Bank may debit the Applicant's account, for all costs, charges and expenses of every description which the Bank may according to its usual practice incur in connection with:—
 
 (a)   this application, the loan, any instrument executed by the Applicant pursuant to these terms and conditions or any of the securities or any other document given or which may be given in relation to the loan, and
 
 (b)   the exercise or attempted exercise of any power or remedy pursuant to these terms and conditions, any of the securities or any other document or otherwise in respect of the loan,
 
-including, but not limited to, all charges for legal advice or assistance as between solicitor and client, stamp duty and search and registration fees. The Bank may debit all such costs, charges and expenses to the loan account so that the amounts thereof shall be included in the balance of the loan from time to time or may debit the same to the account nominated on the Home‑Loan Application for debiting of instalments.
+including, but not limited to, all charges for legal advice or assistance as between solicitor and client, stamp duty and search and registration fees. The Bank may debit all such costs, charges and expenses to the loan account so that the amounts thereof shall be included in the balance of the loan from time to time or may debit the same to the account nominated on the Home-Loan Application for debiting of instalments.
 
-11.  Sub‑clause 6.1 and sub‑clause 6.2 of the agreement made between the Bank and the Commonwealth on 5th November 1990, a copy of which is set out in Schedule 1 of the _Defence Force (Home Loans Assistance) Act 1990_, are incorporated by reference herein for the purposes of Clause 8 and Clause 10 hereof.
+11.   Sub-clause 6.1 and sub-clause 6.2 of the agreement made between the Bank and the Commonwealth on 5th November 1990, a copy of which is set out in Schedule 1 of the Defence Force (Home Loans Assistance) Act 1990, are incorporated by reference herein for the purposes of Clause 8 and Clause 10 hereof.
 
-12.  The balance of the loan together with interest and all fees and other moneys owing by the Applicant to the Bank shall be secured by the securities. The Applicant shall not be entitled to drawdown the loan or any part thereof until the Bank is satisfied that each security is properly executed and, where appropriate, is capable of registration.
+12.   The balance of the loan together with interest and all fees and other moneys owing by the Applicant to the Bank shall be secured by the securities. The Applicant shall not be entitled to drawdown the loan or any part thereof until the Bank is satisfied that each security is properly executed and, where appropriate, is capable of registration.
 
-13.  The Applicant shall set forth such information in a Home‑Loan Application as the Bank may require.
+13.   The Applicant shall set forth such information in a Home-Loan Application as the Bank may require.
 
-14.  Notwithstanding anything to the contrary expressed or implied herein or in any other document whatsoever whether connected with the loan or with any other transaction and whether executed heretofore or hereafter the Applicant agrees with the Bank to pay the balance of the loan together with interest and all fees and other moneys owing by the Applicant to the Bank on the date upon which demand therefor in writing is made on the Applicant by the Bank after the occurrence of any one or more of the following events:—
+14.   Notwithstanding anything to the contrary expressed or implied herein or in any other document whatsoever whether connected with the loan or with any other transaction and whether executed heretofore or hereafter the Applicant agrees with the Bank to pay the balance of the loan together with interest and all fees and other moneys owing by the Applicant to the Bank on the date upon which demand therefor in writing is made on the Applicant by the Bank after the occurrence of any one or more of the following events:—
 
 (a)   default is made in the payment of any moneys on the  day upon which they become due and payable pursuant to the provisions hereof,
 
-(b)   default (other than the default mentioned in the preceding sub‑ paragraph (a)) is made in the performance or observance of any of the provisions hereof,
+(b)   default (other than the default mentioned in the preceding sub- paragraph (a)) is made in the performance or observance of any of the provisions hereof,
 
 (c)   the Applicant commits a breach of any covenant or agreement contained in the said securities,
 
@@ -3643,7 +3636,7 @@ including, but not limited to, all charges for legal advice or assistance as bet
 
 (e)   any mortgagee or encumbrancer of the land comprised in the security exercises or attempts to exercise any power by virtue of any default under the mortgage or encumbrance,
 
-(f)   the Applicant without the written consent of the Bank (which may attach such terms or conditions to the giving of consent as it thinks fit) further mortgages, charges or otherwise further encumbers the land subject to the securities, or does or suffers to be done anything whereby any charge or liability becomes or might become imposed upon the land subject to the securities of any part or parts thereof, whether in priority to the securities or not or attempts so to do,
+(f)    the Applicant without the written consent of the Bank (which may attach such terms or conditions to the giving of consent as it thinks fit) further mortgages, charges or otherwise further encumbers the land subject to the securities, or does or suffers to be done anything whereby any charge or liability becomes or might become imposed upon the land subject to the securities of any part or parts thereof, whether in priority to the securities or not or attempts so to do,
 
 (g)   the Applicant without the written consent of the Bank (which may attach such terms or conditions to the giving of consent as it thinks fit) transfers, sells or leases or attempts to transfer, sell, lease or in any way parts with possession of the land subject to the securities or any part or parts thereof or attempts so to do, or alters, demolishes or removes any building thereon,
 
@@ -3653,17 +3646,17 @@ including, but not limited to, all charges for legal advice or assistance as bet
 
 (j)    the Applicant becomes bankrupt or assigns his estate for the benefit of his creditors or enters into a composition or arrangement with his creditors or in the case of a company goes into liquidation either voluntarily or compulsorily,
 
-(k)   any of the information supplied by the Applicant appearing in the Home‑Loan Application is found to be false or, in the opinion of the Bank, is misleading, or
+(k)   any of the information supplied by the Applicant appearing in the Home-Loan Application is found to be false or, in the opinion of the Bank, is misleading, or
 
 (l)    any of the information supplied by the Applicant in support of any application to the Commonwealth under the Scheme (including, but not limited to, information supplied in an application for an entitlement certificate or application for payment of subsidy) is found to be false.
 
-15.  The Applicant agrees and acknowledges that during such period as the Bank is in receipt of subsidy in respect of the loan the Bank shall be bound to act in accordance with the Scheme and in particular the Applicant acknowledges and agrees that:
+15.   The Applicant agrees and acknowledges that during such period as the Bank is in receipt of subsidy in respect of the loan the Bank shall be bound to act in accordance with the Scheme and in particular the Applicant acknowledges and agrees that:
 
-(a)   (i) where an amount is incorrectly paid to the Bank by the Commonwealth by way of subsidy, the Bank will, in accordance with the Scheme, pay to the Commonwealth an amount equal to the amount incorrectly paid (together with any interest thereon due under the Scheme) and any such payment will be debited to the loan account so that the amount thereof shall be included in the balance of the loan from time to time and shall be secured by the securities;
+(a)   (i)  where an amount is incorrectly paid to the Bank by    the Commonwealth by way of subsidy, the Bank will, in accordance with the Scheme, pay to the Commonwealth an amount equal to the amount incorrectly paid (together with any interest thereon due under the Scheme) and any such payment will be debited to the loan account so that the amount thereof shall be included in the balance of the loan from time to time and shall be secured by the securities;
 
-(ii)   where the Bank pays an amount to the Commonwealth under  sub‑paragraph (i) hereof and such amount (or any part thereof) is reimbursed or refunded to the Bank by the Commonwealth pursuant to the Scheme, the Applicant will be indebted to the Commonwealth for such amount; and
+(ii)   where the Bank pays an amount to the Commonwealth under  sub-paragraph (i) hereof and such amount (or any part thereof) is reimbursed or refunded to the Bank by the Commonwealth pursuant to the Scheme, the Applicant will be indebted to the Commonwealth for such amount; and
 
-(iii)  if the Applicant is indebted to the Commonwealth under the Scheme for any amount incorrectly paid to the Bank by the Commonwealth by way of subsidy and the Bank realises any securities over the property specified in Item 6 of the Schedule, then the Bank will from the proceeds of such realisation pay to the Commonwealth such amount as the Bank is required to pay under the Scheme in respect of the Applicant's indebtedness;
+(iii)   if the Applicant is indebted to the Commonwealth under the Scheme for any amount incorrectly paid to the Bank by the Commonwealth by way of subsidy and the Bank realises any securities over the property specified in Item 6 of the Schedule, then the Bank will from the proceeds of such realisation pay to the Commonwealth such amount as the Bank is required to pay under the Scheme in respect of the Applicant's indebtedness;
 
 (b)   the Bank will provide the Commonwealth with copies of any documents or any other information in the possession or under the control of the Bank relating to the loan or application for loan or to the Scheme as may from time to time be requested by the Commonwealth pursuant to the Scheme or which the Bank is otherwise required to provide to the Commonwealth pursuant to the Scheme;
 
@@ -3677,49 +3670,49 @@ including, but not limited to, all charges for legal advice or assistance as bet
 
 unless the Bank agrees to such change and the Applicant obtains approval from the Commonwealth for such change;
 
-(e)   the Bank will not allow a property specified in Item 6 of the Schedule to be held on, or converted to, a tenancy in common.
+(e) the Bank will not allow a property specified in Item 6 of the Schedule to be held on, or converted to, a tenancy in common.
 
-16.  The Applicant acknowledges that the Commonwealth has sole responsibility for considering and approving any applications which the Applicant is required to make to the Commonwealth pursuant to the Scheme (including, but not limited to, applications for entitlement certificate and payment of subsidy) and for determining whether subsidy is payable or whether subsidy shall be cancelled or suspended.
+16.   The Applicant acknowledges that the Commonwealth has sole responsibility for considering and approving any applications which the Applicant is required to make to the Commonwealth pursuant to the Scheme (including, but not limited to, applications for entitlement certificate and payment of subsidy) and for determining whether subsidy is payable or whether subsidy shall be cancelled or suspended.
 
-17.  The Bank agrees to be bound by and act in accordance with the Scheme. The generality of this clause shall not be affected by any other provisions herein.
+17.   The Bank agrees to be bound by and act in accordance with the Scheme. The generality of this clause shall not be affected by any other provisions herein.
 
-18.   When two or more Applicants are parties hereto the agreements on their part herein contained or implied shall bind them and any two or more of them jointly and each of them severally.
+18.    When two or more Applicants are parties hereto the agreements on their part herein contained or implied shall bind them and any two or more of them jointly and each of them severally.
 
 **Schedule**
 
 Item:
 
-1.           Applicant:
+1.            Applicant:
 
-2.           Loan: $
+2.            Loan: $
 
-Term:                          years
+Term:                           years
 
-3.           Instalments
+3.            Instalments
 
 Initial Instalment: $
 
-Due:  Monthly/Fortnightly* —commencing that period from final drawdown or such other date as advised by the Bank.
+Due:   Monthly/Fortnightly* —commencing that period from final drawdown or such other date as advised by the Bank.
 
-Reference Rate:              % per annum
+Reference Rate:               % per annum
 
-4.           Loan Interest Day
+4.            Loan Interest Day
 
-Last business day of each—Month**           (*  * Delete and specify relevant period if other than Month)
+Last business day of each—Month**              (*  * Delete and specify relevant period if other than Month)
 
-5.           Fees
+5.            Fees
 
 Application Fee: $
 
-Initial Service Fee: $                           per half year
+Initial Service Fee: $                             per half year
 
-Commitment fee:        % per annum
+Commitment fee:          % per annum
 
-6.           Securities
+6.            Securities
 
 (To be) registered First/Second*  Mortgage over property situated at—
 
-7.           Insurances
+7.            Insurances
 
 Please effect a:
 
@@ -3733,11 +3726,11 @@ and debit to the loan account the annual premium/s as advised by the Insurer/s.
 
 * Delete whichever is inapplicable.
 
-8.           Current Interest Rate
+8.            Current Interest Rate
 
               % per annum
 
-# Schedule 2—Consequential amendments of the _Defence Service Homes Act 1918_ 
+# Schedule 2—Consequential amendments of the Defence Service Homes Act 1918 
 
 * * *
 
@@ -4089,7 +4082,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -4103,23 +4096,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 4 (items 16, 22, 24, 35)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 48): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Defence Force (Home Loans Assistance) Act 1990_ was amended by Part 7 (section 88) only of the _Veterans’ Affairs Legislation Amendment Act 1992_, paragraph 2 (1) (f) of which provides as follows:
@@ -4128,7 +4104,7 @@ _(a)_     The _Defence Force (Home Loans Assistance) Act 1990_ was amend
 
                                (f)   Part 7;
 
-_(b)_     The _Defence Force (Home Loans Assistance) Act 1990_ was amended by the _Defence Legislation Amendment Act 1995_, subsection 2(4) of which provides as follows:
+_(b)_    The _Defence Force (Home Loans Assistance) Act 1990_ was amended by the _Defence Legislation Amendment Act 1995_, subsection 2(4) of which provides as follows:
 
                  (4)   Schedule 3 is taken to have commenced immediately before 1 September 1994.
 
@@ -4263,7 +4239,7 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004; No. 137, 2006; No. 81, 2007; Nos. 28 and 144, 2008; No. 5, 2011</div>
+    <div>am. No. 152, 1991; Nos. 70 and 91, 1992; No. 95, 1993; No. 56, 1996; No. 116, 1999; No. 10, 2001; No. 135, 2003; No. 52, 2004; No. 137, 2006; No. 81, 2007; Nos. 28 and 144, 2008</div>
   </td>
 </tr>
 <tr>
@@ -4519,15 +4495,15 @@ _(e)_     Subsection 2(1) (item 3) of the _Defence Legislation Amendme
 
 ### Application, saving or transitional provisions
 
-_Defence Legislation Amendment Act (No. 1) 1996 (No. 56, 1996)_
+_Defence Legislation amendment Act (No. 1) 1996 (No. 56, 1996)_
 
 ## Schedule 1
 
 ## 44  Application
 
-(1)       The amendments made by items 5 to 13, 15, 16, 17 and 41 do not apply to a person who is a subsidised borrower on the day this item commences.
+(1)        The amendments made by items 5 to 13, 15, 16, 17 and 41 do not apply to a person who is a subsidised borrower on the day this item commences.
 
-(2)       The amendments made by items 29 to 40 only apply in relation to the statutory training obligation of a person, who is a subsidised borrower on the day this item commences, that is commenced after that day.
+(2)        The amendments made by items 29 to 40 only apply in relation to the statutory training obligation of a person, who is a subsidised borrower on the day this item commences, that is commenced after that day.
 
 * * *
 
@@ -4537,23 +4513,23 @@ _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) A
 
 ## 94  Saving—old regulations
 
-(1)       Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
+(1)        Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
 
 _Example: Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve._
 
-(2)       However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
+(2)        However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
 
 ## 95  Regulations about transitional matters
 
-(1)       The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
+(1)        The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 
-(2)       In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
+(2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
-(3)       Subitem (2) does not limit the scope of subitem (1).
+(3)        Subitem (2) does not limit the scope of subitem (1).
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
 ## Schedule 4
 
