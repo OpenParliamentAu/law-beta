@@ -1,7 +1,7 @@
 
 Dairy Produce Act 1986
 Act No. 54 of 1986 as amended
-This compilation was prepared on 26 July 2001  taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 24 May 2001  taking into account amendments up to Act No. 137 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -1130,7 +1130,7 @@ relevant year means the financial year that began on 1 July 1991 or any later fi
 	(4)	The Corporation must give written notice to the manufacturer of its determination.
 	(5)	For the purposes of this section:
 	(a)	the question whether a particular kind of dairy produce is of a similar kind to dairy produce of another kind is to be determined by the Corporation; and
-	(b)	the question whether a body corporate is related to a manufacturer is to be determined in the same way as the question whether 2 bodies corporate are related to each other is determined for the purposes of the Corporations Act 2001.
+	(b)	the question whether a body corporate is related to a manufacturer is to be determined in the same way as the question whether 2 bodies corporate are related to each other is determined for the purposes of the Corporations Law.
 	(6)	The Corporation must, from time to time, publish, in such manner as it thinks appropriate, notices:
 	(a)	listing the kinds of dairy produce in respect of which market support payments are payable; and
 	(b)	setting out, in relation to each kind of dairy produce so listed, any kind or kinds of dairy produce that it has determined to be of a similar kind to the first‑mentioned kind of dairy produce.
@@ -3303,7 +3303,6 @@ Notes to the Dairy Produce Act 1986
 Note 1
 The Dairy Produce Act 1986 as shown in this compilation comprises Act No. 54, 1986 amended as indicated in the Tables below. 
 The Dairy Produce Act 1986 was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations 1989 No. 3 (as amended).
-For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
 All relevant information pertaining to application, saving or transitional provisions prior to 3 April 2000 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
@@ -3451,11 +3450,6 @@ Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 24 Nov 2000
 Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
 Sch. 2 (items 418, 419) [see Table A]
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-55, 2001
-28 June 2001
-Ss. 4‑14 and Schedule 3 (item 166): 15 July 2001 (see Gazette 2001, No. S285) (m)
-Ss. 4‑14
 (a)	The Dairy Produce Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986, subsection 2(4) of which provides as follows:
 	(4)	The amendment of paragraph 36(3)(d) of the Dairy Produce Act 1986 made by this Act shall be deemed to have come into operation on 1 July 1986.
 (b)	The Dairy Produce Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(1) of which provides as follows:
@@ -3482,8 +3476,6 @@ Ss. 4‑14
 (l)	The Dairy Produce Act 1986 was amended by Schedule 10 (items 71‑75) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2)(c) of which provides as follows:
 	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
 	(c)	the items in Schedules 10, 11 and 12. 
-(m)	The Dairy Produce Act 1986 was amended by Schedule 3 (item 166) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -3612,7 +3604,7 @@ am. No. 67, 1992; No. 153, 1994
 S. 94A	
 ad. No. 94, 1993
 
-am. No. 153, 1994; No. 55, 2001
+am. No. 153, 1994
 S. 95	
 am. No. 39, 1991; No. 67, 1992; No. 153, 1994
 S. 98	
