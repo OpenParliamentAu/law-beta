@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image001.gif)
 
 # Higher Education Funding Act 1988
 
 **Act No. 2 of 1989 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 29 May 2007
  taking into account amendments up to Act No. 72 of 2007
 
 The text of any of those amendments not in force
@@ -212,17 +212,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 4.5—Abolition of Higher Education Administration Charge** 
 
-    **Divisions 1–3**
+    **Divisions 1–3** 
 
-[90–95](#90–95).    
+90–95
 
     **Division 4—Canberra Institute of the Arts**
 
 [96](#96).          Charges not to be imposed
 
-    **Division 5—Amount of charge not fixed beyond year 1988**
+    **Division 5—Amount of charge not fixed beyond year 1988** 
 
-[97, 98](#97, 98).    
+97, 98
 
 **Chapter 4A—Post-graduate education loan scheme** 
 
@@ -480,8 +480,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [110A](#110A).     Transitional financial assistance
 
-[110B](#110B).     Commonwealth not liable where person later gives correct information
-
 [111](#111).        Time and manner of payments
 
 [112](#112).        Delegation
@@ -646,9 +644,9 @@ but does not include:
 
                      (e)  a diplomatic or consular representative of New Zealand, a member of the staff of such a representative or the spouse or dependent relative of such a representative.
 
-                    <a name="perman-resid"></a>**_permanent resident_** has the same meaning as in the _Australian Citizenship Act 2007_.
+                    <a name="perman-resid"></a>**_permanent resident_** has the same meaning as in the _Australian Citizenship Act 1948_.
 
-                    <a name="perman-visa"></a>**_permanent visa_** has the same meaning as in the _Migration Act 1958_.
+                    <a name="perman-visa"></a>**_permanent visa_** has the same meaning as in the _Australian Citizenship Act 1948_.
 
                     <a name="previou-assist-act"></a>**_previous Assistance Act_** means the _States Grants (Tertiary Education Assistance) Act 1987_.
 
@@ -1757,11 +1755,11 @@ the Minister may, for the purposes of this Chapter, give directions to the insti
 
              (3)  If the actual enrolment number in relation to a relevant higher education institution in a State in respect of the year 1988 is less than the estimated enrolment number in relation to the institution in respect of that year, there is payable to the State in relation to the institution the amount ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image002.gif)
 
              (4)  Payment of an amount to a State under Part 2.2 in relation to a relevant higher education institution in respect of the year 1989 is subject to the additional condition that, if the estimated enrolment number in relation to the institution in respect of the year 1988 is less than the actual enrolment number in relation to the institution in respect of that year, the State will pay to the Commonwealth the amount ascertained in accordance with the formula 
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image002.gif)
 
              (5)  For the purposes of the formulae in subsections (3) and (4):
 
@@ -1971,7 +1969,7 @@ Amount of contribution for pre-1997 student
 
              (3)  The contribution for a pre-1997 student is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image003.gif)
 
 where:
 
@@ -1991,7 +1989,7 @@ Amount of contribution for other students
 
              (6)  The amount for a Band is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image004.gif)
 
 where:
 
@@ -2099,7 +2097,7 @@ For this purpose, **_relevant unit of study_** means any unit of study that may 
 
                                         (A)  to lend to the student an amount (the **_formula amount_**) worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image005.gif)
 
                                         (B)  to apply the money lent in paying to the institution, in discharge of the student’s liability to pay the remainder of the assessed contribution (see subsection (1B)), the amount of that assessed contribution outstanding after deducting from that assessed contribution the amount of the student payment; and
 
@@ -2113,17 +2111,17 @@ For this purpose, **_relevant unit of study_** means any unit of study that may 
 
 Example:    If the student’s assessed contribution for the course of study is $2,350 and the student makes a payment of $1,000, the amount that the Commonwealth will lend to the student is $1,017, ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image006.gif)
 
                    This amount is the **_formula amount_**(see sub-subparagraph (1A)(c)(i)(A)).
 
                    The amount that the Commonwealth will pay to the institution to discharge the student’s liability is $1350, ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image007.gif)
 
                    The value to the student of the discount for making the student payment of $1,000 is $333 (this amount forms part of the amount the Commonwealth pays to the institution to discharge the student’s liability), ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image008.gif)
 
           (1B)  For the purposes of subsection (1A):
 
@@ -2165,7 +2163,7 @@ Example:    If the student’s assessed contribution for the course of stu
 
                              (ii)  will be resident outside Australia for the duration of a course in that semester for a reason other than a requirement of the course;
 
-but does not include a student who has been granted an approval to become an Australian citizen under section 24 of the _Australian Citizenship Act 2007_ and who has yet to make the pledge referred to in section 26 of that Act.
+but does not include a student who has been granted a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_ and who has yet to make the pledge referred to in section 15 of that Act.
 
              (4)  For the purposes of subsection (3), the **_prescribed residency requirements_** for a person on a particular day are that the person:
 
@@ -2339,7 +2337,7 @@ the institution must cancel the student’s enrolment and must not permit the st
 
              (2)  A failure to comply with subsection (1) does not affect the validity of the decision.
 
-##### <a id="52"></a>52  Unauthorised requirement etc. that tax file number be quoted
+##### <a id="52"></a>52  Unauthorised requirement etc. that tax file number be quoted
 
              (1)  A person must not require or request a student to quote the student’s tax file number.
 
@@ -2589,23 +2587,23 @@ the Commonwealth must, as a benefit to the student:
 
                       (f)  pay to the institution, in discharge of the remainder of the student’s liability, an amount (the **_discount amount_**) worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image009.gif)
 
 Example: If the student’s contribution for the course of study is $2,350 and the student makes a payment of $1,000, the amount that the Commonwealth will lend to the student is $1,017, ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image010.gif)
 
                 This amount is the**_formula amount_**(seeparagraph (3A)(e)).
 
                 The amount that the Commonwealth will pay to the institution to discharge the student’s liability is $1,350, ie:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image007.gif)
 
                 The amount that the Commonwealth will pay to the institution comprises the sum of the amount the Commonwealth will lend to the student, ie $1,017 (the formula amount) and the student discount that the student receives for making the student payment ($333).
 
                 The value of the discount to the student for making the student payment is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image008.gif)
 
                 This amount is the **_discount amount_** (see paragraph (3A)(f)).
 
@@ -2764,7 +2762,7 @@ For access to the wording of the amendments made by this Part, _see_ Act No. 2
 
 The amendments made by this Division are incorporated in the compilations on ComLaw.
 
-States Grants (Tertiary Education Assistance) Act 1984 
+States Grants (Teritiary Education Assistance) Act 1984 
   \[repealed by Act No. 118, 1999, Sch. 1]
 
 For access to the wording of the amendments made by this Division, _see_ Act No. 2, 1989.
@@ -2928,7 +2926,7 @@ Minister may have regard to breaches of this Chapter
 
                      (a)  an Australian citizen; or
 
-                     (b)  a person who has been granted an approval to become an Australian citizen under section 24 of the _Australian Citizenship Act 2007_ and who has yet to make the pledge referred to in section 26 of that Act; or
+                     (b)  a person who has been granted a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_ and who has yet to make the pledge referred to in section 15 of that Act; or
 
                      (c)  a New Zealand citizen who is the holder of a permanent visa, is present in Australia and:
 
@@ -3605,7 +3603,7 @@ Repeats
 
                      (a)  an Australian citizen; or
 
-                     (b)  a person who has been granted an approval to become an Australian citizen under section 24 of the _Australian Citizenship Act 2007_ and who has yet to make the pledge referred to in section 26 of that Act; or
+                     (b)  a person who has been granted a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_ and who has yet to make the pledge referred to in section 15 of that Act; or
 
                      (c)  a person who is a permanent resident.
 
@@ -3948,7 +3946,7 @@ to lend to the applicant the amount of those fees outstanding and to use the amo
 
                               (i)  an Australian citizen; or
 
-                             (ii)  a person who has been granted an approval to become an Australian citizen under section 24 of the _Australian Citizenship Act 2007_ and who has yet to make the pledge referred to in section 26 of that Act; or
+                             (ii)  a person who has been granted a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_ and who has yet to make the pledge referred to in section 15 of that Act; or
 
                             (iii)  a New Zealand citizen who is the holder of a permanent visa, is present in Australia and:
 
@@ -4046,7 +4044,7 @@ the Agency must not permit the client, as an eligible client, to continue to be 
 
 ##### <a id="106AB"></a>106AB   Commonwealth not liable where client does not have a tax file number
 
-                   If the circumstances mentioned in paragraphs  106AA(1)(a) and (b) apply, the Commonwealth is not liable, and is taken never to have been liable:
+                   If the circumstances mentioned in paragraphs 106AA(1)(a) and (b) apply, the Commonwealth is not liable, and is taken never to have been liable:
 
                      (a)  to lend an amount to the client under paragraph 106D(1)(a); or
 
@@ -4612,7 +4610,7 @@ Note:          A person’s accumulated HELP debt, worked out 
 
              (3)  For the purposes of paragraph (2)(c), the **adjusted accumulated HEC debt of the person at the earlier date** is the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image011.gif)
 
 where:
 
@@ -4684,11 +4682,11 @@ by the sum of:
 
              (3)  The debtor is taken to pay off the total debt if he or she pays in respect of the debt an amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image012.gif)
 
              (4)  Subject to subsection (5), if a person pays an amount of $500 or more in part settlement of a debt, the outstanding amount of the debt is to be reduced by the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image013.gif)
 
 Example:    If a person owes a semester debt of $1,700, and the person makes a payment of $600, the debt is to be reduced by an amount of $660 (i.e. $600 x 1.1), leaving a balance of $1,040 ($1,700 – $660) to be paid.
 
@@ -4744,7 +4742,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                      (b)  in the case of a subsequent year of income—the number of whole dollars of the amount worked out by using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image014.gif)
 
                             where:
 
@@ -4919,7 +4917,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income (other than the 2004-05 year of income)—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image015.gif); or
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image015.gif); or
 
                             (iii)  for the 2004-05 year of income—$35,000;
 
@@ -4929,7 +4927,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image016.gif)
 
                      (c)  the **_second intermediate prescribed amount_** for a year of income is:
 
@@ -4937,7 +4935,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image017.gif)
 
                      (d)  the **_third intermediate prescribed amount_** for a year of income is:
 
@@ -4945,7 +4943,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image018.gif)
 
                      (e)  the **_fourth intermediate prescribed amount_** for a year of income is:
 
@@ -4953,7 +4951,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image019.gif)
 
                       (f)  the **_fifth intermediate prescribed amount_** for a year of income is:
 
@@ -4961,7 +4959,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image020.gif)
 
                      (g)  the **_maximum prescribed amount_** for a year of income is:
 
@@ -4969,7 +4967,7 @@ the person is liable to pay in accordance with this Chapter to the Commonwealth 
 
                              (ii)  for a later year of income—the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00393/Html/HighEdFund1988_WD02HYP_image021.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00344/Html/HighEdFund1988_WD02HYP_image021.gif)
 
 (4A)  For the purposes of paragraph (4)(a), **_AWE_** for a year of income is the number of dollars in the sum of:
 
@@ -5680,7 +5678,7 @@ the benefits of, or the opportunities created by, the project, program or expend
 
                      (c)  for the year 2007—$7,845,000.
 
-##### <a id="110B"></a>110B   Commonwealth not liable where person later gives correct information
+##### <a id="110B"></a>110B  Commonwealth not liable where person later gives correct information
 
                    Despite any other provision of this Act, the Commonwealth is not, and is taken never to have been, liable to:
 
@@ -5744,7 +5742,7 @@ because of information given to an institution by the person after the commencem
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-##### <a id="121–124"></a>121–124<a id="  "></a>  
+##### <a id="121–124"></a>121–124
 
 * * *
 
@@ -5773,8 +5771,8 @@ _Note:       See section 23._
 
 <table>
 <colgroup>
-  <col width="25%">
-  <col width="75%">
+  <col width="50%">
+  <col width="50%">
 </colgroup>
 
 <thead>
@@ -6329,7 +6327,7 @@ Remainder: Royal Assent</div>
     <div>24 Dec 1991</div>
   </td>
   <td>
-    <div>S. 113: 1 Mar 1992 ( <i>see Gazette</i>1992, No. GN7) <i>(b)</i></div>
+    <div>S. 113: 1 Mar 1992 ( <i>see Gazette</i>1992, No. GN7) <i>(b)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -6364,9 +6362,11 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Parts 2, 3 
-(ss. 3–46) and Part 5 (ss.60–70): 1 Jan 1993 
+(ss. 3–46) and 
+Part 5 (ss. 
+ 60–70): 1 Jan 1993 
 Part 4 (ss. 
-47–59): 1 Jan 1994 
+ 47–59): 1 Jan 1994 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -6665,7 +6665,7 @@ Remainder: Royal Assent</div>
     <div>12 Dec 1996</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3, 12): 1 Jan 1998 <i>(i)</i> 
+    <div>Schedule 1 (items 1–3, 12): 1 Jan 1998 <i>(i)</i> 
 Schedule 1 (items 4–11, 
 13–23, 33): 1 Jan 1997 <i>(i)</i> 
 Schedule 1 (items 24–32): Royal Assent <i>(i)</i></div>
@@ -6753,7 +6753,7 @@ Schedule 1 (items 24–32): Royal Assent <i>(i)</i></div>
     <div>19 Apr 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (item 14): 17 May 1999 
+    <div>Schedule 3 (item 14): 17 May 1999 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -6771,8 +6771,8 @@ Remainder: Royal Assent</div>
     <div>8 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (item 10): <i>(k)</i> 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 1–9): Royal Assent 
+Remainder: <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -7181,10 +7181,10 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Schedule 1 (items 2, 3, 
-150–155): Royal Assent</div>
+150–155, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
+    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -7285,7 +7285,7 @@ Schedule 5: <i>(s)</i></div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 1 (item 15): Royal Assent</div>
+    <div>Schedule 1 (item 15): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -7302,8 +7302,7 @@ Schedule 5: <i>(s)</i></div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (items 32–37): \[ <i>see</i>s. 2(1) and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -7324,7 +7323,7 @@ Remainder: Royal Assent</div>
 Schedule 3 (item 6): \[ <i>see</i>Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (item 6) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (item 6) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -7953,7 +7952,7 @@ _(s)_ Subsection 2(1) (item 7) of the _Higher Education Legislation Amendment 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. Nos. 80 and 168, 1989; No. 122, 1990; No. 177, 1991; No. 158, 1992; No. 116, 1993; Nos. 24 and 147, 1994; Nos. 135 and 163, 1995; No. 72, 1996; No. 130, 2000; No. 116, 2001; No. 150, 2003; No. 21, 2007</div>
+    <div>am. Nos. 80 and 168, 1989; No. 122, 1990; No. 177, 1991; No. 158, 1992; No. 116, 1993; Nos. 24 and 147, 1994; Nos. 135 and 163, 1995; No. 72, 1996; No. 130, 2000; No. 116, 2001; No. 150, 2003</div>
   </td>
 </tr>
 <tr>
@@ -8113,7 +8112,7 @@ _(s)_ Subsection 2(1) (item 7) of the _Higher Education Legislation Amendment 
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. Nos. 80 and 168, 1989; No. 122, 1990; Nos. 53 and 177, 1991; Nos. 74 and 158, 1992; No. 116, 1993; No. 24, 1994 (as am. by No. 147, 1994); Nos. 79 and 147, 1994; Nos. 135 and 163, 1995; No. 72, 1996; No. 112, 1998; No. 158, 1999; No. 130, 2000; Nos. 9, 86 and 116, 2001; Nos. 78 and 87, 2002; Nos. 87 and 150, 2003; Nos. 45 and 114, 2004</div>
+    <div>am. Nos. 80 and 168, 1989; No. 122, 1990; Nos. 53 and 177, 1991; Nos. 74 and 158, 1992; No. 116, 1993; No. 24, 1994 (as am. by No. 147, 1994); Nos. 79 and 147, 1994; Nos. 135 and 163, 1995; No. 72, 1996; No. 112, 1998; No. 158, 1999; No. 130, 2000; Nos. 9, 86 and 116, 2001; Nos. 78 and 87, 2002; Nos. 87 and 150, 2003; Nos. 45 and 114, 2004</div>
   </td>
 </tr>
 <tr>
@@ -8737,7 +8736,7 @@ _(s)_ Subsection 2(1) (item 7) of the _Higher Education Legislation Amendment 
     <div>S. 41</div>
   </td>
   <td>
-    <div>am. No. 158, 1992; No. 116, 1993; No. 24, 1994; No. 163, 1995; No. 125, 1997; No. 21, 2007</div>
+    <div>am. No. 158, 1992; No. 116, 1993; No. 24, 1994; No. 163, 1995; No. 125, 1997</div>
   </td>
 </tr>
 <tr>
@@ -9246,14 +9245,6 @@ _(s)_ Subsection 2(1) (item 7) of the _Higher Education Legislation Amendment 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4A.2</b></div>
   </td>
   <td>
@@ -9486,26 +9477,10 @@ _(s)_ Subsection 2(1) (item 7) of the _Higher Education Legislation Amendment 
 </tr>
 <tr>
   <td>
-    <div>Ss. 98T, 98U</div>
+    <div>Ss. 98T–98V</div>
   </td>
   <td>
     <div>ad. No. 13, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 98V</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 21, 2007</div>
   </td>
 </tr>
 <tr>
@@ -9697,7 +9672,7 @@ _(s)_ Subsection 2(1) (item 7) of the _Higher Education Legislation Amendment 
     <div></div>
   </td>
   <td>
-    <div>am. No. 147, 1994; No. 163, 1995; No. 72, 1996; No. 21, 2007</div>
+    <div>am. No. 147, 1994; No. 163, 1995; No. 72, 1996</div>
   </td>
 </tr>
 <tr>
@@ -10454,15 +10429,7 @@ _(s)_ Subsection 2(1) (item 7) of the _Higher Education Legislation Amendment 
 </tr>
 <tr>
   <td>
-    <div>S. 106Z</div>
-  </td>
-  <td>
-    <div>ad. No. 116, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106ZA</div>
+    <div>Ss. 106Z, 106ZA</div>
   </td>
   <td>
     <div>ad. No. 116, 1993</div>
@@ -10598,15 +10565,7 @@ _(s)_ Subsection 2(1) (item 7) of the _Higher Education Legislation Amendment 
 </tr>
 <tr>
   <td>
-    <div>S. 106ZH</div>
-  </td>
-  <td>
-    <div>ad. No. 116, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 106ZJ</div>
+    <div>Ss. 106ZH, 106ZJ</div>
   </td>
   <td>
     <div>ad. No. 116, 2001</div>
@@ -10854,7 +10813,15 @@ _(s)_ Subsection 2(1) (item 7) of the _Higher Education Legislation Amendment 
 </tr>
 <tr>
   <td>
-    <div>Ss. 115, 116</div>
+    <div>S. 115</div>
+  </td>
+  <td>
+    <div>am. No. 138, 1988; No. 158, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 116</div>
   </td>
   <td>
     <div>am. No. 138, 1988; No. 158, 1992</div>
@@ -10987,7 +10954,46 @@ Tabor College Tasmania;
 
 Tabor College Victoria.
 
-## Table A
+### Note 3
+
+_Australian Citizenship (Transitionals and Consequentials) Act 2007
+ (No. 21, 2007)_
+
+The following amendments commence on 15 September 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 32  Section 3 (definition of _permanent resident_)
+
+Repeal the definition, substitute:
+
+                    <a name="perman-resid"></a>**_permanent resident_** has the same meaning as in the _Australian Citizenship Act 2007_.
+
+## 33  Section 3 (definition of _permanent visa_)
+
+Repeal the definition, substitute:
+
+                    <a name="perman-visa"></a>**_permanent visa_** has the same meaning as in the _Migration Act 1958_.
+
+## 34  Subsection 41(3)
+
+Omit “a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_ and who has yet to make the pledge referred to in section 15”, substitute “an approval to become an Australian citizen under section 24 of the _Australian Citizenship Act 2007_ and who has yet to make the pledge referred to in section 26”.
+
+## 35  Paragraph 98B(1)(b)
+
+Omit “a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_ and who has yet to make the pledge referred to in section 15”, substitute “an approval to become an Australian citizen under section 24 of the _Australian Citizenship Act 2007_ and who has yet to make the pledge referred to in section 26”.
+
+## 36  Paragraph 98V(b)
+
+Omit “a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_ and who has yet to make the pledge referred to in section 15”, substitute “an approval to become an Australian citizen under section 24 of the _Australian Citizenship Act 2007_ and who has yet to make the pledge referred to in section 26”.
+
+## 37  Subparagraph 101(1)(d)(ii)
+
+Omit “a certificate of Australian citizenship under section 13 of the _Australian Citizenship Act 1948_ and who has yet to make the pledge referred to in section 15”, substitute “an approval to become an Australian citizen under section 24 of the _Australian Citizenship Act 2007_ and who has yet to make the pledge referred to in section 26”.
+
+As at 29 May 2007 the amendments are not incorporated in this compilation.
+
+### Table A
 
 ### Application, saving or transitional provisions
 
@@ -11152,7 +11158,7 @@ _Innovation and Education Legislation Amendment Act (No. 2) 2001
 
 _Education, Training and Youth Affairs Legislation Amendment (Application of Criminal Code) Act 2001 (No. 147, 2001)_
 
-##### 4  Application of amendments
+## 4  Application of amendments
 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
@@ -11202,7 +11208,7 @@ _Higher Education Funding Amendment Act 2002 (No. 87, 2002)_
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
-##### 4  Saving of matters in Part 2 of Schedule 1
+## 4  Saving of matters in Part 2 of Schedule 1
 
              (1)  If:
 
@@ -11215,6 +11221,12 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
              (2)  In this section:
 
                     <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
+
+## Schedule 1
+
+## 496  Saving provision—Finance Minister’s determinations
+
+If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
 * * *
 
@@ -11341,5 +11353,9 @@ The following provision commences on 1 January 2008:
 ## 6  Application
 
 The amendments made by items 2 to 5 apply in relation to a * census date that occurs on or after the commencement of this item.
+
+ 
+
+ 
 
  
