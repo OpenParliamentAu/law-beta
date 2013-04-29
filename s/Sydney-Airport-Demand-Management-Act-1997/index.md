@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00081/Html/SydAirDemdMgmt1997WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00570/Html/SydAirDemdMgmt1997WD02HYP_image001.gif)
 
 # Sydney Airport Demand Management Act 1997
 
 **Act No. 173 of 1997 as amended**
 
-This compilation was prepared on 14 January 2011
+This compilation was prepared on 16 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
@@ -18,207 +18,207 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Identifying defined terms                                                                     1
+[3](#3).            Identifying defined terms
 
-[4](#4).            Overview                                                                                             2
+[4](#4).            Overview
 
-[5](#5).            Consequential amendment of the _Airports Act 1996_                           3
+[5](#5).            Consequential amendment of the _Airports Act 1996_
 
-[5A](#5A).         Part IIIA of the _Competition and Consumer Act 2010_ to be subject to this Act     3
+[5A](#5A).         Part IIIA of the _Trade Practices Act 1974_ to be subject to this Act
 
 **Part 2—The maximum aircraft movement limit at Sydney Airport**
 
-[6](#6).            Maximum movement limit                                                                   4
+[6](#6).            Maximum movement limit
 
-[7](#7).            Minister’s power to determine a lower maximum movement limit     4
+[7](#7).            Minister’s power to determine a lower maximum movement limit
 
-[8](#8).            Consultation about determination of lower maximum movement limit 5
+[8](#8).            Consultation about determination of lower maximum movement limit
 
-[9](#9).            Airservices Australia to monitor compliance with maximum movement limit and to report to Minister               6
+[9](#9).            Airservices Australia to monitor compliance with maximum movement limit and to report to Minister
 
 **Part 3—Penalties for unauthorised gate movements** 
 
     **Division 1—Situations in which penalties apply**
 
-[10](#10).          Gate movements to which this Part applies                                        8
+[10](#10).          Gate movements to which this Part applies
 
-[11](#11).          Meaning of _no-slot movement_ and _off-slot movement_                         9
+[11](#11).          Meaning of _no-slot movement_ and _off-slot movement_
 
-[12](#12).          Prohibition on no-slot movements                                                    10
+[12](#12).          Prohibition on no-slot movements
 
-[13](#13).          Prohibition on off-slot movements                                                    10
+[13](#13).          Prohibition on off-slot movements
 
     **Division 2—Civil penalties**
 
-[14](#14).          Pecuniary penalties for contravention of civil penalty provisions    11
+[14](#14).          Pecuniary penalties for contravention of civil penalty provisions
 
-[15](#15).          Procedural matters                                                                             12
+[15](#15).          Procedural matters
 
-[16](#16).          No criminal proceedings for contravention of civil penalty provision 12
+[16](#16).          No criminal proceedings for contravention of civil penalty provision
 
     **Division 3—Infringement notices (alternative to proceedings for civil penalty)**
 
-[17](#17).          Interpretation                                                                                     13
+[17](#17).          Interpretation
 
-[18](#18).          Purpose and effect of this Division                                                   13
+[18](#18).          Purpose and effect of this Division
 
-[19](#19).          Issue of infringement notices                                                             14
+[19](#19).          Issue of infringement notices
 
-[20](#20).          Infringement notice penalty                                                               14
+[20](#20).          Infringement notice penalty
 
-[21](#21).          Infringement notice penalty is payable to the Slot Manager on behalf of Commonwealth     15
+[21](#21).          Infringement notice penalty is payable to the Slot Manager on behalf of Commonwealth
 
-[22](#22).          Time for payment                                                                              15
+[22](#22).          Time for payment
 
-[23](#23).          Contents of infringement notice                                                        15
+[23](#23).          Contents of infringement notice
 
-[24](#24).          Person issued with infringement notice may initiate proceedings in the Federal Court for a determination of whether there has been a contravention                                                           16
+[24](#24).          Person issued with infringement notice may initiate proceedings in the Federal Court for a determination of whether there has been a contravention
 
-[25](#25).          Withdrawal of infringement notice                                                    17
+[25](#25).          Withdrawal of infringement notice
 
-[26](#26).          Effect of payment of infringement notice penalty                            17
+[26](#26).          Effect of payment of infringement notice penalty
 
     **Division 4—Obligations in relation to money received under this Part**
 
-[27](#27).          Civil penalties and infringement notice penalties to be paid to the Commonwealth               19
+[27](#27).          Civil penalties and infringement notice penalties to be paid to the Commonwealth
 
-[28](#28).          Slot Manager to apply money for purposes of functions under this Act               19
+[28](#28).          Slot Manager to apply money for purposes of functions under this Act
 
     **Division 5—Exemptions**
 
-[29](#29).          Aircraft may make gate movements in emergencies or if Slot Manager grants dispensation   21
+[29](#29).          Aircraft may make gate movements in emergencies or if Slot Manager grants dispensation
 
-[30](#30).          Emergencies                                                                                       21
+[30](#30).          Emergencies
 
-[31](#31).          Dispensations in exceptional circumstances                                      21
+[31](#31).          Dispensations in exceptional circumstances
 
-[32](#32).          State aircraft                                                                                       22
+[32](#32).          State aircraft
 
 **Part 4—The Slot Management Scheme** 
 
     **Division 1—Framework within which Scheme to be developed and to operate**
 
-[33](#33).          The Scheme and its basic purpose                                                     23
+[33](#33).          The Scheme and its basic purpose
 
-[34](#34).          The concept of a slot                                                                         23
+[34](#34).          The concept of a slot
 
-[35](#35).          Contents of Scheme                                                                           23
+[35](#35).          Contents of Scheme
 
-[36](#36).          Minister’s power to determine additional requirements                   25
+[36](#36).          Minister’s power to determine additional requirements
 
-[37](#37).          Consequence of Scheme not being consistent with section 35          25
+[37](#37).          Consequence of Scheme not being consistent with section 35
 
     **Division 2—Development and amendment of Scheme** 
 
         **Subdivision A—Development**
 
-[38](#38).          Slot Manager to develop slot management scheme and submit it for approval       26
+[38](#38).          Slot Manager to develop slot management scheme and submit it for approval
 
-[39](#39).          Minister’s power to request or make amendments                           26
+[39](#39).          Minister’s power to request or make amendments
 
-[40](#40).          Approval of scheme                                                                          26
+[40](#40).          Approval of scheme
 
-[41](#41).          When Slot Management Scheme comes into force                            27
+[41](#41).          When Slot Management Scheme comes into force
 
         **Subdivision B—Amendment**
 
-[42](#42).          Slot Manager may develop amendments of Slot Management Scheme and submit them for approval  27
+[42](#42).          Slot Manager may develop amendments of Slot Management Scheme and submit them for approval
 
-[43](#43).          Minister’s power to request or develop amendments                       27
+[43](#43).          Minister’s power to request or develop amendments
 
-[44](#44).          Approval of amendments                                                                  28
+[44](#44).          Approval of amendments
 
-[45](#45).          When an amendment comes into force                                              28
+[45](#45).          When an amendment comes into force
 
     **Division 3—Powers of Minister and Compliance Committee in relation to slot allocation**
 
-[46](#46).          Minister’s powers                                                                             29
+[46](#46).          Minister’s powers
 
-[47](#47).          Compliance Committee’s powers                                                     30
+[47](#47).          Compliance Committee’s powers
 
 **Part 5—The Compliance Scheme** 
 
     **Division 1—Framework within which Scheme to be developed and to operate**
 
-[48](#48).          The Scheme and its basic purpose                                                     31
+[48](#48).          The Scheme and its basic purpose
 
-[49](#49).          Contents of Scheme                                                                           31
+[49](#49).          Contents of Scheme
 
-[50](#50).          Minister’s power to determine additional requirements                   32
+[50](#50).          Minister’s power to determine additional requirements
 
-[51](#51).          Consequence of Scheme not being consistent with section 49          32
+[51](#51).          Consequence of Scheme not being consistent with section 49
 
     **Division 2—Development and amendment of Scheme** 
 
         **Subdivision A—Development**
 
-[52](#52).          Compliance Committee to develop compliance scheme and submit it for approval               33
+[52](#52).          Compliance Committee to develop compliance scheme and submit it for approval
 
-[53](#53).          Minister’s power to request or make amendments                           33
+[53](#53).          Minister’s power to request or make amendments
 
-[54](#54).          Approval of scheme                                                                          34
+[54](#54).          Approval of scheme
 
-[55](#55).          When Compliance Scheme comes into force                                     34
+[55](#55).          When Compliance Scheme comes into force
 
         **Subdivision B—Amendment**
 
-[56](#56).          Compliance Committee may develop amendments of Compliance Scheme and submit them for approval           34
+[56](#56).          Compliance Committee may develop amendments of Compliance Scheme and submit them for approval
 
-[57](#57).          Minister’s power to request or develop amendments                       34
+[57](#57).          Minister’s power to request or develop amendments
 
-[58](#58).          Approval of amendments                                                                  35
+[58](#58).          Approval of amendments
 
-[59](#59).          When an amendment comes into force                                              35
+[59](#59).          When an amendment comes into force
 
     **Division 3—Modification of Scheme in exceptional circumstances**
 
-[59A](#59A).       Minister’s power to determine modifications                                   36
+[59A](#59A).       Minister’s power to determine modifications
 
 **Part 6—The Slot Manager**
 
-[60](#60).          The Slot Manager                                                                              37
+[60](#60).          The Slot Manager
 
-[61](#61).          Appointment of Slot Manager                                                          37
+[61](#61).          Appointment of Slot Manager
 
-[62](#62).          The legal position of the Slot Manager                                              37
+[62](#62).          The legal position of the Slot Manager
 
-[63](#63).          Termination of appointment                                                             39
+[63](#63).          Termination of appointment
 
-[64](#64).          Protection of Slot Manager etc  from legal actions                            39
+[64](#64).          Protection of Slot Manager etc  from legal actions
 
-[65](#65).          Change of Slot Manager                                                                     39
+[65](#65).          Change of Slot Manager
 
 **Part 7—The Compliance Committee**
 
-[66](#66).          The Compliance Committee                                                              40
+[66](#66).          The Compliance Committee
 
-[67](#67).          Regulations may deal with appointment and other matters              40
+[67](#67).          Regulations may deal with appointment and other matters
 
-[68](#68).          The legal position of the Compliance Committee                             40
+[68](#68).          The legal position of the Compliance Committee
 
-[69](#69).          Protection of Compliance Committee from legal actions                  41
+[69](#69).          Protection of Compliance Committee from legal actions
 
 **Part 8—Miscellaneous**
 
-[70](#70).          Evidentiary certificates                                                                      42
+[70](#70).          Evidentiary certificates
 
-[71](#71).          Delegation                                                                                          42
+[71](#71).          Delegation
 
-[72](#72).          Crown to be bound                                                                            43
+[72](#72).          Crown to be bound
 
-[73](#73).          Extra-territorial operation                                                                  43
+[73](#73).          Extra-territorial operation
 
-[74](#74).          Regulations                                                                                        43
+[74](#74).          Regulations
 
 **Schedule 1—Definitions**
 
-[1](#1).            Definitions                                                                                         44
+[1](#1).            Definitions
 
 **Schedule 2—Amendment of the Airports Act 1996** 
 
@@ -339,9 +339,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The _Airports Act 1996_ is amended as set out in Schedule 2.
 
-##### <a id="5A"></a>5A  Part IIIA of the _Competition and Consumer Act 2010_ to be subject to this Act
+##### <a id="5A"></a>5A  Part IIIA of the _Trade Practices Act 1974_ to be subject to this Act
 
-                   Part IIIA of the _Competition and Consumer Act 2010_ has effect subject to this Act.
+                   Part IIIA of the _Trade Practices Act 1974_ has effect subject to this Act.
 
 ## Part 2—The maximum aircraft movement limit at Sydney Airport
 
@@ -727,9 +727,9 @@ Note:          The person may apply to the * Federal Court for
 
 must be paid to the Commonwealth.
 
-             (2)  If an amount is paid to the Commonwealth as a civil penalty (Division 2) or an infringement notice penalty (Division 3) the Commonwealth must pay to the Slot Manager an amount equal to that amount.
+             (2)  If an amount is paid to the Commonwealth as a civil penalty (Division 2) or an infringement notice penalty (Division 3) the Commonwealth must pay to the Slot Manager an amount equal to that amount.
 
-             (3)  A payment of an amount to the Slot Manager under subsection (2) is subject to the condition that, if the Commonwealth becomes liable to refund the whole or part of that amount, the Slot Manager must pay to the Commonwealth an amount equivalent to the amount that the Commonwealth is liable to refund.
+             (3)  A payment of an amount to the Slot Manager under subsection (2) is subject to the condition that, if the Commonwealth becomes liable to refund the whole or part of that amount, the Slot Manager must pay to the Commonwealth an amount equivalent to the amount that the Commonwealth is liable to refund.
 
              (4)  The Consolidated Revenue Fund is appropriated for the purposes of subsection (2).
 
@@ -1269,7 +1269,7 @@ is, for the purposes of proceedings under this Act, prima facie evidence of the 
 
 ##### <a id="71"></a>71  Delegation
 
-                   The Minister may, in writing, delegate to:
+                   The Minister may, in writing, delegate to:
 
                      (a)  the Secretary of the Department; or
 
@@ -1283,7 +1283,7 @@ all or any of the following powers:
 
                      (e)  the power under subsection 66(3) to make appointments to the * Compliance Committee.
 
-##### <a id="72"></a>72  Crown to be bound
+##### <a id="72"></a>72  Crown to be bound
 
              (1)  This Act binds the Crown in each of its capacities.
 
@@ -1395,7 +1395,7 @@ The _Sydney Airport Demand Management Act 1997_ as shown in this compilation com
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A. 
 
 ### Table of Acts
 
@@ -1477,10 +1477,10 @@ Remainder: Royal Assent</div>
   </td>
   <td colspan="2">
     <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
+Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419)</div>
+    <div>Sch. 2 (items 418, 419)</div>
   </td>
 </tr>
 <tr>
@@ -1528,7 +1528,7 @@ Remainder: 24 May 2001</div>
     <div>22 Feb 2005</div>
   </td>
   <td colspan="2">
-    <div>S. 4 and Schedule 1 (items 424, 425, 496): Royal Assent</div>
+    <div>S. 4 and Schedule 1 (items 424, 425, 496): Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 496)</div>
@@ -1545,7 +1545,7 @@ Remainder: 24 May 2001</div>
     <div>27 Sept 2006</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 83–96): Royal Assent</div>
+    <div>Schedule 2 (items 83–96): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -1559,14 +1559,14 @@ Remainder: 24 May 2001</div>
     <div>83, 2008</div>
   </td>
   <td>
-    <div>12 July 2008</div>
+    <div>12 July 2008</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1: 12 Jan 2009 
+    <div>Schedule 1: 12 Jan 2009 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 43, 45)</div>
+    <div>Sch. 1 (items 43, 45)</div>
   </td>
 </tr>
 <tr>
@@ -1577,10 +1577,10 @@ Remainder: Royal Assent</div>
     <div>103, 2010</div>
   </td>
   <td>
-    <div>13 July 2010</div>
+    <div>13 July 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 6 (items 1, 104): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 104): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1603,7 +1603,7 @@ _(a)_     The _Sydney__Airport__Demand Management Act 1997_ was amended 
 
 _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule 3 (items 507 and 508) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
-                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
+                 (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
 ## Table of Amendments
 
@@ -1646,26 +1646,10 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 5A</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5A</div>
   </td>
   <td>
     <div>ad. No. 45, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -1982,7 +1966,7 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>Div. 3 of Part 5</div>
+    <div>Div. 3 of Part 5</div>
   </td>
   <td>
     <div>ad. No. 83, 2008</div>
@@ -2069,6 +2053,27 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
   </td>
 </tr></table>
 
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendment commences on the start of 1 January 2011:
+
+## Schedule 6
+
+## 1  Amendment of Acts
+
+The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
+
+<h9 class="ActHead9">Sydney Airport Demand Management Act 1997</h9>
+
+## 104  Section 5A
+
+_Note:       The heading to section 5A is altered by omitting “Trade Practices Act 1974” and substituting “Competition and Consumer Act 2010”._
+
+As at 16 August 2010 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2105,21 +2110,21 @@ the amendment of the first-mentioned provision by this Schedule does not affect 
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
+##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
              (1)  If:
 
                      (a)  a decision or action is taken or another thing is made, given or done; and
 
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
+                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
 
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
+then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
 
              (2)  In this section:
 
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
+                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
 ## Schedule 1
 
@@ -2129,7 +2134,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 * * *
 
-_Sydney Airport Demand Management Amendment Act 2008 (No. 83, 2008)_
+_Sydney Airport Demand Management Amendment Act 2008 (No. 83, 2008)_
 
 ## Schedule 1
 
