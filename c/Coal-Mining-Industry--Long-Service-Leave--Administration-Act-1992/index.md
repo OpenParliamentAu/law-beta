@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00058/Html/4cad5dd3-5c0e-412a-8f78-ecd1b51ccb39_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00006/Html/CoaMinIndLonSerLeaFunAct92_WD02_image001.gif)
 
 # Coal Mining Industry (Long Service Leave Funding) Act 1992
 
 **Act No. 60 of 1992 as amended**
 
-This compilation was prepared on 5 February 2010
+This compilation was prepared on 1 January 2010
  taking into account amendments up to Act No. 127 of 2009
 
 The text of any of those amendments not in force 
@@ -14,141 +14,141 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Object                                                                                                   1
+[3](#3).            Object
 
-[4](#4).            Interpretation                                                                                        2
+[4](#4).            Interpretation
 
-[5](#5).            Act to bind Crown                                                                               4
+[5](#5).            Act to bind Crown
 
 **Part 2—Establishment, functions and powers of Corporation**
 
-[6](#6).            Establishment of Corporation                                                               5
+[6](#6).            Establishment of Corporation
 
-[7](#7).            Functions of Corporation                                                                     5
+[7](#7).            Functions of Corporation
 
-[8](#8).            Powers of Corporation                                                                         6
+[8](#8).            Powers of Corporation
 
 **Part 3—Board of Directors of the Corporation** 
 
     **Division 1—Constitution of the Board**
 
-[9](#9).            The Board                                                                                            7
+[9](#9).            The Board
 
-[10](#10).          Board to manage affairs of Corporation                                               7
+[10](#10).          Board to manage affairs of Corporation
 
-[11](#11).          Guidelines for managing affairs of Corporation                                   7
+[11](#11).          Guidelines for managing affairs of Corporation
 
-[12](#12).          Constitution of the Board                                                                     7
+[12](#12).          Constitution of the Board
 
-[13](#13).          Appointment of Directors                                                                    8
+[13](#13).          Appointment of Directors
 
-[14](#14).          Appointment of Chairperson and Deputy Chairperson                        9
+[14](#14).          Appointment of Chairperson and Deputy Chairperson
 
     **Division 2—Meetings of the Board**
 
-[15](#15).          Convening of meetings                                                                      10
+[15](#15).          Convening of meetings
 
-[16](#16).          Presiding at meetings                                                                         10
+[16](#16).          Presiding at meetings
 
-[17](#17).          Quorum                                                                                              10
+[17](#17).          Quorum
 
-[18](#18).          Voting at meetings                                                                             11
+[18](#18).          Voting at meetings
 
-[19](#19).          Conduct of meetings                                                                          11
+[19](#19).          Conduct of meetings
 
-[20](#20).          Resolutions without meetings                                                            11
+[20](#20).          Resolutions without meetings
 
-[21](#21).          Records relating to meetings                                                              11
+[21](#21).          Records relating to meetings
 
     **Division 3—Provisions relating to Directors**
 
-[23](#23).          Term of appointment                                                                          12
+[23](#23).          Term of appointment
 
-[24](#24).          Remuneration and allowances                                                            12
+[24](#24).          Remuneration and allowances
 
-[25](#25).          Leave of absence                                                                                12
+[25](#25).          Leave of absence
 
-[26](#26).          Resignation                                                                                        12
+[26](#26).          Resignation
 
-[27](#27).          Outside employment                                                                          13
+[27](#27).          Outside employment
 
-[28](#28).          Termination of appointment                                                               13
+[28](#28).          Termination of appointment
 
-[29](#29).          Terms and conditions of appointment not provided for by Act          13
+[29](#29).          Terms and conditions of appointment not provided for by Act
 
-[31](#31).          Acting Chairperson and acting Deputy Chairperson                          13
+[31](#31).          Acting Chairperson and acting Deputy Chairperson
 
-[32](#32).          Acting Director                                                                                  14
+[32](#32).          Acting Director
 
 **Part 4—Staff of the Corporation**
 
-[33](#33).          Employees                                                                                          16
+[33](#33).          Employees
 
-[34](#34).          Consultants                                                                                        16
+[34](#34).          Consultants
 
 **Part 5—Finance**
 
-[35](#35).          Transfer of previous Fund to Corporation                                         17
+[35](#35).          Transfer of previous Fund to Corporation
 
-[36](#36).          Payments to Corporation                                                                    17
+[36](#36).          Payments to Corporation
 
-[37](#37).          Borrowing                                                                                          18
+[37](#37).          Borrowing
 
-[38](#38).          Corporation may give security                                                           18
+[38](#38).          Corporation may give security
 
-[39](#39).          Application to the Corporation of the Commonwealth Authorities and Companies Act           18
+[39](#39).          Application to the Corporation of the Commonwealth Authorities and Companies Act
 
 **Part 6—The Coal Mining Industry (Long Service Leave) Fund**
 
-[40](#40).          Establishment of the Fund                                                                  20
+[40](#40).          Establishment of the Fund
 
-[41](#41).          Application of the Fund                                                                     20
+[41](#41).          Application of the Fund
 
-[42](#42).          Investment of the Fund                                                                      20
+[42](#42).          Investment of the Fund
 
-[43](#43).          Sufficiency of the Fund                                                                      21
+[43](#43).          Sufficiency of the Fund
 
 **Part 7—Payments out of the Fund**
 
-[44](#44).          Reimbursement of employers in respect of payments for long service leave            24
+[44](#44).          Reimbursement of employers in respect of payments for long service leave
 
-[45](#45).          Reimbursement of employers in respect of certain past payments for long service leave         25
+[45](#45).          Reimbursement of employers in respect of certain past payments for long service leave
 
-[46](#46).          Reimbursement of employer if employee ceases to be eligible employee 25
+[46](#46).          Reimbursement of employer if employee ceases to be eligible employee
 
-[47](#47).          Reimbursement of overpayment of payroll levy                                 26
+[47](#47).          Reimbursement of overpayment of payroll levy
 
-[48](#48).          Payments to employees if employer being wound up                        26
+[48](#48).          Payments to employees if employer being wound up
 
-[48A](#48A).       Payments to former Oakdale employees                                            27
+[48A](#48A).       Payments to former Oakdale employees
 
-[48B](#48B).       Payments in respect of former employees of companies being wound up etc          28
+[48B](#48B).       Payments in respect of former employees of companies being wound up etc 
 
-[49](#49).          Board may determine claims for payment                                          29
+[49](#49).          Board may determine claims for payment
 
 **Part 8—Miscellaneous**
 
-[50](#50).          Delegation                                                                                          30
+[50](#50).          Delegation
 
-[51](#51).          Expenses of Corporation                                                                    30
+[51](#51).          Expenses of Corporation
 
-[52](#52).          Remuneration and allowances of Directors                                        30
+[52](#52).          Remuneration and allowances of Directors
 
-[53](#53).          Transitional                                                                                        31
+[53](#53).          Transitional
 
-[54](#54).          Regulations                                                                                        31
+[54](#54).          Regulations
 
-[55](#55).          Review of Act                                                                                    31
+[55](#55).          Review of Act
 
 **Notes** 
 
@@ -186,7 +186,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) for the purposes of the _Banking Act 1959_.
+                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_.
 
                     <a name="black-coal-mine-industri"></a>**_black coal mining industry_** has the same meaning as in the Black Coal Mining Industry Award 2010 as in force on 1 January 2010.
 
@@ -216,11 +216,11 @@ Note:          For prescription or declaration by class, see s
 
                     <a name="employe"></a>**_employee_** means a national system employee as defined in section 13 of the _Fair Work Act 2009_.
 
-                    <a name="employe-repres-director"></a>**_employee‑representative Director_** means a Director referred to in subsection 13(4), (5) or (6).
+                    <a name="employe-repres-director"></a>**_employee-representative Director_** means a Director referred to in subsection 13(4), (5) or (6).
 
                     <a name="employ"></a>**_employer_** means a national system employer as defined in section 14 of the _Fair Work Act 2009_.
 
-                    <a name="employ-repres-director"></a>**_employer‑representative Director_** means a Director referred to in subsection 13(2) or (3).
+                    <a name="employ-repres-director"></a>**_employer-representative Director_** means a Director referred to in subsection 13(2) or (3).
 
                     <a name="fund"></a>**_Fund_** means the Coal Mining Industry (Long Service Leave) Fund maintained by the Corporation under section 40.
 
@@ -346,7 +346,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="13"></a>13  Appointment of Directors
 
-             (1)  The Directors are to be appointed by the Minister and hold office on a part‑time basis.
+             (1)  The Directors are to be appointed by the Minister and hold office on a part-time basis.
 
              (2)  Two of the Directors are to be appointed to represent the companies engaged in black coal mining in New South Wales, Queensland or Tasmania.
 
@@ -370,7 +370,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  the New South Wales Mine Managers Association.
 
-             (7)  If the United Mine Workers Division of the Construction, Forestry and Mining Employees Union changes its name or merges with another Division of that Union, the reference in subsection (4) to the first‑mentioned Division is taken to be a reference to that Division under its new name or to the other Division, as the case requires.
+             (7)  If the United Mine Workers Division of the Construction, Forestry and Mining Employees Union changes its name or merges with another Division of that Union, the reference in subsection (4) to the first-mentioned Division is taken to be a reference to that Division under its new name or to the other Division, as the case requires.
 
              (8)  If an organisation referred to in subsection (4), (5) or (6):
 
@@ -380,7 +380,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  is succeeded by another organisation;
 
-the reference in that subsection to the first‑mentioned organisation is taken to be a reference to that organisation under its new name or to the other organisation, as the case requires.
+the reference in that subsection to the first-mentioned organisation is taken to be a reference to that organisation under its new name or to the other organisation, as the case requires.
 
              (9)  A person to be appointed as a Director as mentioned in subsection (2), (3), (4), (5) or (6) is to be a person who the Minister considers, after consulting the bodies or organisations that the person is to represent, is suitable to represent those bodies or organisations, as the case may be.
 
@@ -400,7 +400,7 @@ the reference in that subsection to the first‑mentioned organisation is taken 
 
                      (b)  the offices of Chairperson and Deputy Chairperson are rotated every 2 years between the two categories of Directors.
 
-             (6)  For the purposes of subsection (5), employee‑representative Directors constitute one category of Directors and employer‑representative Directors constitute another category of Directors.
+             (6)  For the purposes of subsection (5), employee-representative Directors constitute one category of Directors and employer-representative Directors constitute another category of Directors.
 
 ### Division 2—Meetings of the Board
 
@@ -426,15 +426,15 @@ the reference in that subsection to the first‑mentioned organisation is taken 
 
 ##### <a id="17"></a>17  Quorum
 
-             (1)  At a meeting, 4 Directors (including at least 2 employee‑representative Directors and 2 employer‑representative Directors) constitute a quorum.
+             (1)  At a meeting, 4 Directors (including at least 2 employee-representative Directors and 2 employer-representative Directors) constitute a quorum.
 
-             (2)  If, as a result of the operation of section 22, it will not or may not be possible to constitute a quorum at a particular meeting as required by subsection (1) of this section, a quorum at that meeting is constituted by such number of Directors (whether or not including any employee‑representative Directors or employer‑representative Directors) as the Minister, acting on a written recommendation of the Chairperson or, in the absence of the Chairperson, of the Deputy Chairperson, determines.
+             (2)  If, as a result of the operation of section 22, it will not or may not be possible to constitute a quorum at a particular meeting as required by subsection (1) of this section, a quorum at that meeting is constituted by such number of Directors (whether or not including any employee-representative Directors or employer-representative Directors) as the Minister, acting on a written recommendation of the Chairperson or, in the absence of the Chairperson, of the Deputy Chairperson, determines.
 
 ##### <a id="18"></a>18  Voting at meetings
 
                    At a meeting:
 
-                     (a)  all questions are to be decided by a two‑thirds majority of votes of the Directors present and voting, being a majority that includes 2 employee‑representative directors and 2 employer‑representative directors; and
+                     (a)  all questions are to be decided by a two-thirds majority of votes of the Directors present and voting, being a majority that includes 2 employee-representative directors and 2 employer-representative directors; and
 
                      (b)  the Director presiding has a deliberative vote but, in the event of an equality of votes, does not have a casting vote.
 
@@ -444,7 +444,7 @@ the reference in that subsection to the first‑mentioned organisation is taken 
 
 ##### <a id="20"></a>20  Resolutions without meetings
 
-             (1)  If a two‑thirds majority of the Directors (being a majority that includes 2 employee‑representative Directors and 2 employer‑representative Directors) sign a document containing a statement that they are in favour of a resolution in terms set out in the document, a resolution in those terms is taken to have been passed at a duly constituted meeting of the Board held on the day the document was signed, or, if the Directors signed the document on different days, on the last of those days.
+             (1)  If a two-thirds majority of the Directors (being a majority that includes 2 employee-representative Directors and 2 employer-representative Directors) sign a document containing a statement that they are in favour of a resolution in terms set out in the document, a resolution in those terms is taken to have been passed at a duly constituted meeting of the Board held on the day the document was signed, or, if the Directors signed the document on different days, on the last of those days.
 
              (2)  For the purposes of subsection (1), 2 or more separate documents containing statements in identical terms each of which is signed by one or more Directors are together taken to constitute one document containing a statement in those terms signed by those Directors on the respective days on which they signed the separate documents.
 
@@ -458,7 +458,7 @@ the reference in that subsection to the first‑mentioned organisation is taken 
 
 ##### <a id="23"></a>23  Term of appointment
 
-                   A Director is to be appointed for a period not exceeding 2 years, but is eligible for re‑appointment.
+                   A Director is to be appointed for a period not exceeding 2 years, but is eligible for re-appointment.
 
 ##### <a id="24"></a>24  Remuneration and allowances
 
@@ -592,7 +592,7 @@ the Deputy Chairperson is to act as Chairperson.
 
                      (a)  the amount to be borrowed; and
 
-                     (b)  any amounts previously borrowed by the Corporation for the same purpose as the first‑mentioned borrowing;
+                     (b)  any amounts previously borrowed by the Corporation for the same purpose as the first-mentioned borrowing;
 
 does not exceed $50,000 or, if a higher amount is prescribed, that higher amount.
 
@@ -700,7 +700,7 @@ does not exceed $50,000 or, if a higher amount is prescribed, that higher amount
 
              (2)  For the purposes of subsection (1), the maximum reimbursable amount in respect of an eligible employee is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00058/Html/4cad5dd3-5c0e-412a-8f78-ecd1b51ccb39_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00006/Html/CoaMinIndLonSerLeaFunAct92_WD02_image002.gif)
 
 where:
 
@@ -714,9 +714,9 @@ where:
 
                     <a name="elig-weekli-wage"></a>**_eligible weekly wage_** means the sum of:
 
-                     (a)  the amount per week of the employee’s eligible wages within the meaning of the Payroll Levy Collection Act immediately before he or she was paid for, or commenced to take, the long service leave (excluding any production‑related bonuses that were included in that amount); and
+                     (a)  the amount per week of the employee’s eligible wages within the meaning of the Payroll Levy Collection Act immediately before he or she was paid for, or commenced to take, the long service leave (excluding any production-related bonuses that were included in that amount); and
 
-                     (b)  if any production‑related bonuses were paid to the employee in respect of his or her employment during the period of 52 weeks immediately before he or she was paid for, or commenced to take, the long service leave—the total of those bonuses divided by 52.
+                     (b)  if any production-related bonuses were paid to the employee in respect of his or her employment during the period of 52 weeks immediately before he or she was paid for, or commenced to take, the long service leave—the total of those bonuses divided by 52.
 
              (3)  A reference in this section to an employee’s entitlement to long service leave, or to an employee’s entitlement to be paid for, or to take, long service leave, is a reference to the employee’s entitlement under any of the following:
 
@@ -886,7 +886,7 @@ any of the Board’s powers under this Act or the Payroll Levy Collection Act ot
 
 ##### <a id="54"></a>54  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -903,8 +903,6 @@ any of the Board’s powers under this Act or the Payroll Levy Collection Act ot
 The _Coal Mining Industry (Long Service Leave Funding) Act 1992_ as shown in this compilation comprises Act No. 60, 1992 amended as indicated in the Tables below.
 
 The _Coal Mining Industry (Long Service Leave Funding) Act 1992_ was amended by _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
-
-The _Coal Mining Industry (Long Service Leave Funding) Act 1992_ was amended by the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ (No. 54, 2009) as amended by the _Fair Work (State Referral and Consequential and Other Amendments) Regulations 2009_ (SLI 2009 No. 165 as amended by SLI 2009 No. 364). The amendment is incorporated in this compilation.
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -1043,7 +1041,7 @@ Remainder: 26 June 1993</div>
     <div>Ss. 4–14 and Schedule 3 (item 100): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -1095,7 +1093,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 8 (items 85–90): <i>(e)</i></div>
   </td>
   <td>
-    <div>Sch. 8 (item 158A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 5]) \[ <i>see</i>Note 1]</div>
+    <div>—</div>
   </td>
 </tr>
 <tr>
@@ -1106,7 +1104,7 @@ Remainder: Royal Assent</div>
     <div>127, 2009</div>
   </td>
   <td>
-    <div>10 Dec 2009</div>
+    <div>10 Dec 2009</div>
   </td>
   <td>
     <div>1 Jan 2010</div>
@@ -1120,7 +1118,7 @@ _(a)_     The _Coal Mining Industry (Long Service Leave Funding) Act 199
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_     The _Coal Mining Industry (Long Service Leave Funding) Act 1992_ was amended by Schedule 1 (items 32 and 33) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
+_(b)_    The _Coal Mining Industry (Long Service Leave Funding) Act 1992_ was amended by Schedule 1 (items 32 and 33) only of the _Financial Sector Reform (Consequential Amendments) Act 1998_, subsection 2(2) of which provides as follows:
 
                  (2)   Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
@@ -1210,13 +1208,13 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009 (
+      1 July 2009 (
         <i>see</i>F2009L02563)
     </div>
   </td>
@@ -1274,7 +1272,7 @@ _(e)_     Subsection 2(1) (item 24) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008; Nos. 54 and 127, 2009</div>
+    <div>am. No. 48, 1998; SLI 2006 No. 50; No. 107, 2007; No. 8, 2008; Nos. 54 and 127, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1425,37 +1423,17 @@ _Workplace Relations Amendment (A Stronger Safety Net) Act 2007
 
 ## 32  General transitional provision
 
-(1)       This item applies to anything done by or in relation to the Employment Advocate before the commencement of this Schedule.
+(1)        This item applies to anything done by or in relation to the Employment Advocate before the commencement of this Schedule.
 
-(2)       For the purposes of the operation of an Act, or an instrument (including regulations) or agreement made under an Act, in relation to a time on or after the commencement of this Schedule, the thing is taken to have been done by or in relation to the Workplace Authority Director.
+(2)        For the purposes of the operation of an Act, or an instrument (including regulations) or agreement made under an Act, in relation to a time on or after the commencement of this Schedule, the thing is taken to have been done by or in relation to the Workplace Authority Director.
 
-(3)       Subitem (2) does not affect the time the thing was done.
+(3)        Subitem (2) does not affect the time the thing was done.
 
-(4)       This item does not affect the following items in this Part.
+(4)        This item does not affect the following items in this Part.
 
 ## 33  Substitution of parties to proceedings
 
 From the commencement of this Schedule, the Workplace Authority Director is substituted for the Employment Advocate as a party in any proceedings that were pending in any court or tribunal immediately before that commencement.
-
-* * *
-
-_Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No. 54, 2009)_
-
-## Schedule 8
-
-## 158A  Application of Coal Mining Industry (Long Service Leave Funding) Act 1992—items 86 and 87
-
-(1)       The definition of **_eligible employee_** in subsection 4(1) of the _Coal Mining Industry (Long Service Leave Funding) Act 1992_ applies as if a reference in that definition to the National Employment Standards includes a reference to the Australian Fair Pay and Conditions Standard, to the extent that the Australian Fair Pay and Conditions Standard continues to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
-
-(2)       The definition of **_industrial authority_** in subsection 4(1) of the _Coal Mining Industry (Long Service Leave Funding) Act 1992_ applies as if a reference in that definition to Fair Work Australia includes a reference to:
-
-                     (a)  the Australian Industrial Relations Commission; and
-
-                     (b)  the Workplace Authority Director; and 
-
-                     (c)  the Employment Advocate; 
-
-            to the extent that they continue to operate in accordance with the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
 
 * * *
 
@@ -1471,17 +1449,17 @@ The amendments made by this Schedule apply in relation to industry and employmen
 
 ## 1  Extended operation of section 113 of the _Fair Work Act 2009_
 
-(1)       This item applies to an eligible employee if there are no applicable award‑derived long service leave terms in relation to the employee (apart from this item).
+(1)        This item applies to an eligible employee if there are no applicable award-derived long service leave terms in relation to the employee (apart from this item).
 
-(2)       Section 113 of the _Fair Work Act 2009_ applies to the eligible employee, and his or her employment as an eligible employee, as if The Coal Mining Industry (Production and Engineering) Consolidated Award 1997 would have applied to the employee immediately before the commencement of Part 2‑2 of that Act if the employee had at that time been in that employment.
+(2)        Section 113 of the _Fair Work Act 2009_ applies to the eligible employee, and his or her employment as an eligible employee, as if The Coal Mining Industry (Production and Engineering) Consolidated Award 1997 would have applied to the employee immediately before the commencement of Part 2-2 of that Act if the employee had at that time been in that employment.
 
-_Note:       This ensures there are applicable award‑derived long service leave terms in relation to the eligible employee based on that award. Therefore subsection 113(1) of the Fair Work Act 2009 entitles the employee to long service leave in accordance with those terms, subject to subsection 113(2) of that Act._
+_Note:       This ensures there are applicable award-derived long service leave terms in relation to the eligible employee based on that award. Therefore subsection 113(1) of the Fair Work Act 2009 entitles the employee to long service leave in accordance with those terms, subject to subsection 113(2) of that Act._
 
-(3)       This item does not affect the operation of section 113 of the _Fair Work Act 2009_ apart from this item.
+(3)        This item does not affect the operation of section 113 of the _Fair Work Act 2009_ apart from this item.
 
-(4)       In this item:
+(4)        In this item:
 
-**_applicable award‑derived long service leave terms_** has the meaning given by subsection 113(3) of the _Fair Work Act 2009_.
+**_applicable award-derived long service leave terms_** has the meaning given by subsection 113(3) of the _Fair Work Act 2009_.
 
 **_eligible employee_** has the same meaning as in the _Coal Mining Industry (Long Service Leave Funding) Act 1992_.
 
