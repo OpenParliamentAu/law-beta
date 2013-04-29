@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00309/Html/758fa8d0-ddd2-4b48-abdd-c08823d8bc5f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00299/Html/NTSelfGovt1978_image001.gif)
 
-# Northern   Territory (Self‑Government) Act 1978
+# Northern   Territory (Self-Government) Act 1978
 
 **Act No. 58 of 1978 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 7 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -124,7 +124,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [46](#46).          Borrowing from Commonwealth
 
-[48](#48).          Commonwealth Auditor‑General may audit Territory accounts
+[48](#48).          Commonwealth Auditor-General may audit Territory accounts
 
 **Part VI—Miscellaneous**
 
@@ -202,9 +202,9 @@ WHEREAS the Northern Territory Acceptance Act 1910 provided for the ratifying of
 
 AND WHEREAS by the Constitution it is provided that the Parliament may make laws for the government of any Territory surrendered by any State to and accepted by the Commonwealth:
 
-AND WHEREAS the Parliament has made provision for the government of the Northern Territory by the Northern Territory (Administration) Act 1910 and for a Supreme Court of the Northern Territory of Australia by the Northern Territory Supreme Court Act 1961: [_see_ Note 1]
+AND WHEREAS the Parliament has made provision for the government of the Northern Territory by the Northern Territory (Administration) Act 1910 and for a Supreme Court of the Northern Territory of Australia by the Northern Territory Supreme Court Act 1961: \[see Note 1]
 
-AND WHEREAS the Parliament considers it desirable, by reason of the political and economic development of the Northern Territory, to confer self‑government on the Territory, and for that purpose to provide, among other things, for the establishment of separate political, representative and administrative institutions in the Territory and to give the Territory control over its own Treasury:
+AND WHEREAS the Parliament considers it desirable, by reason of the political and economic development of the Northern Territory, to confer self-government on the Territory, and for that purpose to provide, among other things, for the establishment of separate political, representative and administrative institutions in the Territory and to give the Territory control over its own Treasury:
 
 BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representatives of the Commonwealth of Australia, as follows:
 
@@ -212,7 +212,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
 ##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-                   This Act may be cited as the _Northern Territory__(Self‑Government) Act 1978_.
+                   This Act may be cited as the _Northern   Territory__(Self-Government) Act 1978_.
 
 ##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
@@ -242,8 +242,6 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
 and includes part of any such law or Ordinance.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
-
                     <a name="legisl-assembli"></a>**_Legislative Assembly_** means the Legislative Assembly of the Northern Territory of Australia.
 
                     <a name="ministeri-offic"></a>**_Ministerial office_** means an office referred to in section 34.
@@ -268,7 +266,7 @@ and includes part of any such law or Ordinance.
 
 ##### <a id="6"></a>6  Legislative power
 
-                   Subject to this Act, the Legislative Assembly has power, with the assent of the Administrator or the Governor‑General, as provided by this Act, to make laws for the peace, order and good government of the Territory.
+                   Subject to this Act, the Legislative Assembly has power, with the assent of the Administrator or the Governor-General, as provided by this Act, to make laws for the peace, order and good government of the Territory.
 
 ##### <a id="7"></a>7  Assent to proposed laws
 
@@ -288,7 +286,7 @@ and includes part of any such law or Ordinance.
 
                              (ii)  that he or she withholds assent to the proposed law; or
 
-                            (iii)  that he or she reserves the proposed law for the Governor‑General’s pleasure.
+                            (iii)  that he or she reserves the proposed law for the Governor-General’s pleasure.
 
              (3)  The Administrator may return the proposed law to the Legislative Assembly with amendments that he or she recommends.
 
@@ -296,7 +294,7 @@ and includes part of any such law or Ordinance.
 
 ##### <a id="8"></a>8  Signification of pleasure on proposed law reserved
 
-             (1)  Where the Administrator reserves a proposed law for the Governor‑General’s pleasure, the Governor‑General shall, subject to this section, declare:
+             (1)  Where the Administrator reserves a proposed law for the Governor-General’s pleasure, the Governor-General shall, subject to this section, declare:
 
                      (a)  that he or she assents to the proposed law;
 
@@ -304,21 +302,21 @@ and includes part of any such law or Ordinance.
 
                      (c)  that he or she withholds assent to part of the proposed law and assents to the remainder of the proposed law.
 
-             (2)  The Governor‑General may return the proposed law to the Administrator with amendments that he or she recommends.
+             (2)  The Governor-General may return the proposed law to the Administrator with amendments that he or she recommends.
 
-             (3)  The Legislative Assembly shall consider the amendments recommended by the Governor‑General and the proposed law, with those or any other amendments or without amendments, may be again presented to the Administrator for assent, and subsection 7(2) applies accordingly.
+             (3)  The Legislative Assembly shall consider the amendments recommended by the Governor-General and the proposed law, with those or any other amendments or without amendments, may be again presented to the Administrator for assent, and subsection 7(2) applies accordingly.
 
-             (4)  Where the Governor‑General makes a declaration in respect of a proposed law in accordance with subsection (1), the Administrator shall, as soon as practicable after the declaration is made, cause to be published in the _Government Gazette_ of the Territory a notice of the declaration.
+             (4)  Where the Governor-General makes a declaration in respect of a proposed law in accordance with subsection (1), the Administrator shall, as soon as practicable after the declaration is made, cause to be published in the _Government Gazette_ of the Territory a notice of the declaration.
 
-             (5)  The assent of the Governor‑General to a proposed law or part of a proposed law is of no effect until notification of the Governor‑General’s declaration in respect of the proposed law is published in the _Government Gazette_ of the Territory.
+             (5)  The assent of the Governor-General to a proposed law or part of a proposed law is of no effect until notification of the Governor-General’s declaration in respect of the proposed law is published in the _Government Gazette_ of the Territory.
 
 ##### <a id="9"></a>9  Disallowance of enactments
 
-             (1)  Subject to this section, the Governor‑General may, within 6 months after the Administrator’s assent to a proposed law, disallow the law or part of the law.
+             (1)  Subject to this section, the Governor-General may, within 6 months after the Administrator’s assent to a proposed law, disallow the law or part of the law.
 
-             (2)  The Governor‑General may, within 6 months after the Administrator’s assent to a proposed law, recommend to the Administrator any amendments of the laws of the Territory that the Governor‑General considers to be desirable as a result of his or her consideration of the law.
+             (2)  The Governor-General may, within 6 months after the Administrator’s assent to a proposed law, recommend to the Administrator any amendments of the laws of the Territory that the Governor-General considers to be desirable as a result of his or her consideration of the law.
 
-             (3)  Where, as a result of his or her consideration of a law, the Governor‑General so recommends any amendments of the laws of the Territory, the time within which the Governor‑General may disallow the law, or a part of the law, is extended until the expiration of 6 months after the date of the Governor‑General’s recommendation.
+             (3)  Where, as a result of his or her consideration of a law, the Governor-General so recommends any amendments of the laws of the Territory, the time within which the Governor-General may disallow the law, or a part of the law, is extended until the expiration of 6 months after the date of the Governor-General’s recommendation.
 
              (4)  Upon publication of notice of the disallowance of a law, or part of a law, in the _Government Gazette_ of the Territory, the disallowance has, subject to subsection (5), the same effect as a repeal of the law or part of the law.
 
@@ -326,7 +324,7 @@ and includes part of any such law or Ordinance.
 
 ##### <a id="10"></a>10  Reason for withholding assent etc. to be tabled in Legislative Assembly
 
-                   Where the Administrator withholds assent to a proposed law, or the Governor‑General withholds assent to a proposed law or part of a proposed law or disallows a law or part of a law, a message of the Administrator stating the reasons for the withholding of assent, or for the disallowance, as the case may be, shall be laid before the Legislative Assembly within 6 sitting days of the Legislative Assembly after the date on which the assent was withheld or the date of the disallowance, as the case may be.
+                   Where the Administrator withholds assent to a proposed law, or the Governor-General withholds assent to a proposed law or part of a proposed law or disallows a law or part of a law, a message of the Administrator stating the reasons for the withholding of assent, or for the disallowance, as the case may be, shall be laid before the Legislative Assembly within 6 sitting days of the Legislative Assembly after the date on which the assent was withheld or the date of the disallowance, as the case may be.
 
 ##### <a id="11"></a>11  Proposal of money votes
 
@@ -352,7 +350,7 @@ and includes part of any such law or Ordinance.
 
              (4)  For the purposes of the election of members of the Legislative Assembly, the Territory shall be distributed into as many electoral divisions as there are members to be elected, and a quota shall be calculated by dividing the whole number of electors in the Territory, as nearly as can be ascertained, by the number of members to be elected.
 
-             (5)  For the purposes of subsection (4), each electoral division shall contain a number of electors not exceeding, or falling short of, the quota calculated under that subsection by more than one‑fifth of the quota.
+             (5)  For the purposes of subsection (4), each electoral division shall contain a number of electors not exceeding, or falling short of, the quota calculated under that subsection by more than one-fifth of the quota.
 
              (6)  A member of the Legislative Assembly shall, before taking his or her seat, make and subscribe an oath or affirmation of allegiance in the form in Schedule 2 and also an oath or affirmation of office in the form in Schedule 3.
 
@@ -360,9 +358,9 @@ and includes part of any such law or Ordinance.
 
 ##### <a id="14"></a>14  Qualifications of electors
 
-             (1)  Subject to subsection (2), all persons who are, under the _Commonwealth Electoral Act 1918_, qualified to vote at an election of a member of the House of Representatives for the Northern Territory, shall be qualified to vote at an election of members of the Legislative Assembly.
+             (1)  Subject to subsection (2), all persons who are, under the _Commonwealth Electoral Act 1918_, qualified to vote at an election of a member of the House of Representatives for the Northern   Territory, shall be qualified to vote at an election of members of the Legislative Assembly.
 
-             (2)  Subsection (1) does not apply to persons who are qualified to vote at an election of a member of the House of Representatives for the Northern Territory by reason only of the amendments of the _Commonwealth Electoral Act 1918_ made by the provisions of Part II of the _Cocos (Keeling) Islands Self‑Determination (Consequential Amendments) Act 1984_ or by the provisions of Part III of the _Christmas Island Administration (Miscellaneous Amendments) Act_ _1984_.
+             (2)  Subsection (1) does not apply to persons who are qualified to vote at an election of a member of the House of Representatives for the Northern Territory by reason only of the amendments of the _Commonwealth Electoral Act 1918_ made by the provisions of Part II of the _Cocos (Keeling) Islands Self-Determination (Consequential Amendments) Act 1984_ or by the provisions of Part III of the _Christmas Island Administration (Miscellaneous Amendments) Act_ _1984_.
 
 ##### <a id="15"></a>15  Writs for elections
 
@@ -544,13 +542,13 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
 ## Part IV—The Administration
 
-##### <a id="31"></a>31  Extent of executive power
+##### <a id="31"></a>31  Extent of executive power
 
                    The duties, powers, functions and authorities of the Administrator, the Executive Council and the Ministers of the Territory imposed or conferred by or under this Part extend to the execution and maintenance of this Act and the laws of the Territory and to the exercise of the prerogatives of the Crown so far as they relate to those duties, powers, functions and authorities.
 
 ##### <a id="32"></a>32  Office of Administrator
 
-             (1)  There shall be an Administrator of the Territory, who shall be appointed by the Governor‑General by Commission under the Seal of Australia and shall hold office during the pleasure of the Governor‑General.
+             (1)  There shall be an Administrator of the Territory, who shall be appointed by the Governor-General by Commission under the Seal of Australia and shall hold office during the pleasure of the Governor-General.
 
              (2)  The Administrator is charged with the duty of administering the government of the Territory.
 
@@ -604,7 +602,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
 ##### <a id="40"></a>40  Acting Administrator
 
-             (1)  The Governor‑General may, by Commission under the Seal of Australia, appoint one or more persons to act in the office of Administrator and to administer the government of the Territory during any vacancy in the office of Administrator or whenever the Administrator is absent from duty or from the Territory or is, for any other reason, unable to exercise and perform the powers and functions of his or her office.
+             (1)  The Governor-General may, by Commission under the Seal of Australia, appoint one or more persons to act in the office of Administrator and to administer the government of the Territory during any vacancy in the office of Administrator or whenever the Administrator is absent from duty or from the Territory or is, for any other reason, unable to exercise and perform the powers and functions of his or her office.
 
              (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
@@ -624,7 +622,7 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
              (1)  The Administrator, and Acting Administrator or a deputy of the Administrator shall, before entering on the duties of his or her office, make and subscribe an oath or affirmation of allegiance in the form in Schedule 2 and also an oath or affirmation of office in the form in Schedule 6.
 
-             (2)  An oath or affirmation under this section shall be made before the Governor‑General, a Judge of the Supreme Court of the Northern Territory of Australia or a person authorized by the Governor‑General to administer the oath or affirmation.
+             (2)  An oath or affirmation under this section shall be made before the Governor-General, a Judge of the Supreme Court of the Northern Territory of Australia or a person authorized by the Governor-General to administer the oath or affirmation.
 
 ## Part V—Finance
 
@@ -650,11 +648,11 @@ all things done or purporting to have been done by the Legislative Assembly or t
 
 ##### <a id="46"></a>46  Borrowing from Commonwealth
 
-                   The Finance Minister may, on behalf of the Commonwealth, out of money appropriated by the Parliament for the purpose, lend money to the Territory or to a Territory authority on such terms and conditions as the Finance Minister, in writing, determines.
+                   The Minister for Finance may, on behalf of the Commonwealth, out of money appropriated by the Parliament for the purpose, lend money to the Territory or to a Territory authority on such terms and conditions as the Minister for Finance, in writing, determines.
 
-##### <a id="48"></a>48  Commonwealth Auditor‑General may audit Territory accounts
+##### <a id="48"></a>48  Commonwealth Auditor-General may audit Territory accounts
 
-                   It is lawful for the Auditor‑General for the Commonwealth to accept appointment as auditor under any enactment relating to the audit of the accounts of the Territory or the audit of the accounts of a body corporate established for a public purpose by or under any other enactment.
+                   It is lawful for the Auditor-General for the Commonwealth to accept appointment as auditor under any enactment relating to the audit of the accounts of the Territory or the audit of the accounts of a body corporate established for a public purpose by or under any other enactment.
 
 ## Part VI—Miscellaneous
 
@@ -712,7 +710,7 @@ Note:          See section 40 of the _Fair Work Act 2009_ an
 
 ##### <a id="55"></a>55  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 ## Part VII—Transitional provisions
 
@@ -724,7 +722,7 @@ Note:          See section 40 of the _Fair Work Act 2009_ an
 
                     <a name="existing-legisl-assembli"></a>**_existing Legislative Assembly_** means the Legislative Assembly established by section 4 of the previous Act.
 
-                    <a name="instrum"></a>**_instrument_** includes rules, regulations or by‑laws.
+                    <a name="instrum"></a>**_instrument_** includes rules, regulations or by-laws.
 
                     <a name="interest"></a>**_interest_** includes any right, title, estate, power, privilege, claim, demand, charge, lien or encumbrance, whether at law or in equity.
 
@@ -792,7 +790,7 @@ Note:          See section 40 of the _Fair Work Act 2009_ an
 
              (1)  An Ordinance made by the existing Legislative Assembly before the commencing date but not assented to before that date (other than an Ordinance to which subsection (2) applies) shall, for the purposes of this Act, be deemed to be a proposed law passed by the Legislative Assembly under this Act.
 
-             (2)  Where, before the commencing date, the Administrator had, in accordance with section 4V or 4W of the previous Act, reserved an Ordinance for the Governor‑General’s pleasure and the Governor‑General had not made a declaration under subsection 4X(1) of that Act in relation to the Ordinance, the Ordinance shall, for the purposes of this Act, be deemed to be a proposed law passed by the Legislative Assembly under this Act and to have been reserved for the Governor‑General’s pleasure in accordance with section 7 of this Act.
+             (2)  Where, before the commencing date, the Administrator had, in accordance with section 4V or 4W of the previous Act, reserved an Ordinance for the Governor-General’s pleasure and the Governor-General had not made a declaration under subsection 4X(1) of that Act in relation to the Ordinance, the Ordinance shall, for the purposes of this Act, be deemed to be a proposed law passed by the Legislative Assembly under this Act and to have been reserved for the Governor-General’s pleasure in accordance with section 7 of this Act.
 
 ##### <a id="67"></a>67  References in other laws
 
@@ -836,7 +834,7 @@ Note:          See section 40 of the _Fair Work Act 2009_ an
 
                               (i)  interests under easements, rights of way or mortgages; or
 
-                             (ii)  interests as lessee or sub‑lessee; and
+                             (ii)  interests as lessee or sub-lessee; and
 
                      (b)  all personal property held by the Commonwealth immediately before that date;
 
@@ -848,11 +846,11 @@ being interests and property that, in the opinion of the Minister, were so held 
 
 ##### <a id="70"></a>70  Acquisition of certain land etc. 
 
-             (1)  The Minister may, from time to time, recommend to the Governor‑General that any interest in land vested or to be vested in the Territory by subsection 69(2) (including an interest less than, or subsidiary to, such an interest) be acquired from the Territory by the Commonwealth under this section.
+             (1)  The Minister may, from time to time, recommend to the Governor-General that any interest in land vested or to be vested in the Territory by subsection 69(2) (including an interest less than, or subsidiary to, such an interest) be acquired from the Territory by the Commonwealth under this section.
 
-             (2)  The Governor‑General may, on the recommendation of the Minister under subsection (1), authorize the acquisition of the interest for a public purpose approved by the Governor‑General.
+             (2)  The Governor-General may, on the recommendation of the Minister under subsection (1), authorize the acquisition of the interest for a public purpose approved by the Governor-General.
 
-             (3)  The Minister may cause to be published in the _Gazette_ notice of the authorization by the Governor‑General and, in the notice, declare that the interest is acquired under this section for the public purpose approved by the Governor‑General.
+             (3)  The Minister may cause to be published in the _Gazette_ notice of the authorization by the Governor-General and, in the notice, declare that the interest is acquired under this section for the public purpose approved by the Governor-General.
 
              (4)  Upon publication of the notice in the _Gazette_ or immediately after the commencement of section 69, whichever is the later, the interest to which the notice relates is, by force of this section:
 
@@ -864,9 +862,9 @@ to the intent that the legal estate in the interest, and all rights and powers i
 
              (5)  An interest that may be acquired under this section may be an interest that did not previously exist as such.
 
-             (6)  Upon the acquisition of an interest by the Commonwealth under this section, all interests that were held from the Territory immediately before the acquisition, being interests derived from the first‑mentioned interest, are, by force of this section, held from the Commonwealth on the same terms and conditions as those on which they were held from the Territory.
+             (6)  Upon the acquisition of an interest by the Commonwealth under this section, all interests that were held from the Territory immediately before the acquisition, being interests derived from the first-mentioned interest, are, by force of this section, held from the Commonwealth on the same terms and conditions as those on which they were held from the Territory.
 
-             (7)  The Secretary of the Department shall lodge with the registrar of titles of the Territory a copy of a notice published under this section, certified by writing signed by the Secretary.
+             (7)  The Secretary to the Department shall lodge with the registrar of titles of the Territory a copy of a notice published under this section, certified by writing signed by the Secretary.
 
              (8)  Upon the lodgment of a copy of a notice in accordance with subsection (7), the registrar of titles shall register the acquisition to which the notice relates in the manner as nearly as may be in which dealings with land are registered, and shall deal with and give effect to the copy of the notice as if it were a grant, conveyance, memorandum or instrument of transfer of the land or interest, as the case may be, to the Commonwealth duly executed under the laws in force in the Territory.
 
@@ -892,7 +890,7 @@ to the intent that the legal estate in the interest, and all rights and powers i
 
              (2)  In subsection (1), **_prescribed contract_** means a contract:
 
-                     (a)  which was subsisting immediately before the commencing date or was entered into on or after that date and before the date of commencement of the _Northern   Territory__(Self‑Government) Amendment Act 1982_;
+                     (a)  which was subsisting immediately before the commencing date or was entered into on or after that date and before the date of commencement of the _Northern   Territory__(Self-Government) Amendment Act 1982_;
 
                      (b)  to which the Commonwealth is a party; and
 
@@ -1032,19 +1030,19 @@ _Subsection 42(1)_
 
 OATH
 
-                   I, _A.B_., do swear that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (_or_ Acting Administrator, or Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will: So help me God! 
+                   I, _A.B_., do swear that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (_or_ Acting Administrator, or Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will: So help me God! 
 
 AFFIRMATION
 
-                   I, _A.B_., do solemnly and sincerely promise and declare that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (_or_ Acting Administrator, _or_ Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill‑will.
+                   I, _A.B_., do solemnly and sincerely promise and declare that I will well and truly serve our Sovereign Lady the Queen in the office of Administrator (_or_ Acting Administrator, _or_ Deputy Administrator) of the Northern Territory of Australia, and that I will do right to all manner of people according to law, without fear or favour, affection or ill-will.
 
 # Notes to the _Northern Territory (Self-Government) Act 1978_
 
 ### Note 1
 
-The _Northern Territory__(Self‑Government) Act 1978_ as shown in this compilation comprises Act No. 58, 1978 amended as indicated in the Tables below.
+The _Northern Territory__(Self-Government) Act 1978_ as shown in this compilation comprises Act No. 58, 1978 amended as indicated in the Tables below.
 
-The _Northern Territory__(Self‑Government) Act 1978_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
+The _Northern Territory__(Self-Government) Act 1978_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendments are incorporated in this compilation.
 
 Preamble—The _Northern Territory__Supreme Court Act 1961_ was repealed by the _Northern Territory__Supreme Court (Repeal) Act 1979_ (No. 85, 1979).
 
@@ -1055,10 +1053,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
-  <col width="20%">
-  <col width="17%">
+  <col width="21%">
+  <col width="16%">
 </colgroup>
 
 <thead>
@@ -1084,7 +1082,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Northern Territory (Self‑Government) Act 1978</div>
+    <div>Northern Territory (Self-Government) Act 1978</div>
   </td>
   <td>
     <div>58, 1978</div>
@@ -1102,7 +1100,7 @@ Remainder: 1 July 1978</div>
 </tr>
 <tr>
   <td>
-    <div>Northern Territory (Self‑Government) Amendment Act 1982</div>
+    <div>Northern Territory (Self-Government) Amendment Act 1982</div>
   </td>
   <td>
     <div>130, 1982</div>
@@ -1137,7 +1135,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Cocos (Keeling) Islands Self‑Determination (Consequential Amendments) Act 1984</div>
+    <div>Cocos (Keeling) Islands Self-Determination (Consequential Amendments) Act 1984</div>
   </td>
   <td>
     <div>46, 1984</div>
@@ -1412,46 +1410,29 @@ Remainder: 24 May 2001</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 170, 171) and Schedule 7 (item 105): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Northern Territory (Self‑Government) Act 1978_ was amended by section 3 only of the _Australian Government Solicitor (Consequential Amendments) Act 1984_, subsection 2(1) of which provides as follows:
+_(a)_     The _Northern Territory__(Self-Government) Act 1978_ was amended by section 3 only of the _Australian Government Solicitor (Consequential Amendments) Act 1984_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsection (2), this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which section 7 of the _Judiciary Amendment Act (No. 2) 1984_ comes into operation.
 
-_(b)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
+_(b)_    The _Northern Territory__(Self-Government) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(c)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+_(c)_     The _Northern Territory__(Self-Government) Act 1978_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(d)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by section 3 only of the _Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991_, subsection 2(2) of which provides as follows:
+_(d)_     The _Northern Territory__(Self-Government) Act 1978_ was amended by section 3 only of the _Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991_, subsection 2(2) of which provides as follows:
 
-                 (2)   Section 5, the amendment of section 3 of the _Australian Capital Territory (Self‑Government) Act 1988_ made by this Act and the repeal of sections 61, 62 and 63 of the _Australian Capital Territory (Self‑Government) Act 1988_ and sections 47, 47A, 47B and 47C of the _Northern Territory (Self‑Government) Act 1978_ effected by this Act commence on 1 July 1991.
+                 (2)   Section 5, the amendment of section 3 of the _Australian Capital Territory (Self-Government) Act 1988_ made by this Act and the repeal of sections 61, 62 and 63 of the _Australian Capital Territory (Self-Government) Act 1988_ and sections 47, 47A, 47B and 47C of the _Northern Territory (Self-Government) Act 1978_ effected by this Act commence on 1 July 1991.
 
-_(e)_     The _Northern Territory__(Self‑Government) Act 1978_ was amended by Schedule 4 (item 113) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(e)_     The _Northern Territory__(Self-Government) Act 1978_ was amended by Schedule 4 (item 113) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent. 
 
-_(f)_      The _Northern Territory__(Self‑Government) Act 1978_ was amended by Schedule 19 (item 34) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
+_(f)_      The _Northern Territory__(Self-Government) Act 1978_ was amended by Schedule 19 (item 34) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1537,7 +1518,7 @@ _(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act</i>
         <i>2009</i>.
     </div>
@@ -1575,23 +1556,7 @@ _(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
 </thead>
 <tr>
   <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
+    <div><b>Part III</b></div>
   </td>
   <td>
     <div></div>
@@ -1791,14 +1756,6 @@ _(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 47</div>
   </td>
   <td>
@@ -1938,7 +1895,7 @@ _(h)_     Subsection 2(1) (item 13) of the _Fair Work (State Referral 
     <div>S. 70</div>
   </td>
   <td>
-    <div>am. No. 130, 1982; No. 10, 1984; No. 21, 1989; No. 7, 1999; No. 5, 2011</div>
+    <div>am. No. 130, 1982; No. 10, 1984; No. 21, 1989; No. 7, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1968,9 +1925,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -1980,9 +1937,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -1990,8 +1947,10 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+
+ 
 
  
