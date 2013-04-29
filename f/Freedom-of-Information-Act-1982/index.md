@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00185/Html/178eedfe-06fe-4a78-9a8a-ce82b4a1f135_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00803/Html/371afa78-1a80-49fb-9dec-7f98629718b9_files/image001.gif)
 
 # Freedom of Information Act 1982
 
 **Act No. 3 of 1982 as amended**
 
-This compilation was prepared on 31 January 2012
- taking into account amendments up to Act No. 170 of 2011
+This compilation was prepared on 28 September 2011
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1464,7 +1464,7 @@ No prejudice from lack of awareness of unpublished information
 
 ## Part III—Access to documents
 
-##### <a id="11"></a>11  Right of access
+##### <a id="11"></a>11  Right of access
 
              (1)  Subject to this Act, every person has a legally enforceable right to obtain access in accordance with this Act to:
 
@@ -3101,7 +3101,7 @@ Note:          Access must generally be given to a conditional
 
                      (b)  giving a person (or class of persons) an undue benefit or detriment, in relation to business carried on by the person (or class), by providing premature knowledge of proposed or possible action or inaction of a person or entity.
 
-Note:          A person includes a body corporate and a body politic (see subsection 2C(1) of the _Acts Interpretation Act 1901_). Examples of a body politic include the government of the Commonwealth, a State, a Territory or a foreign country.
+Note:          A person includes a body corporate and a body politic (see section 22 of the _Acts Interpretation Act 1901_). Examples of a body politic include the government of the Commonwealth, a State, a Territory or a foreign country.
 
              (2)  For the purposes of subsection (1), a substantial adverse effect on Australia’s economy includes a substantial adverse effect on:
 
@@ -4410,7 +4410,7 @@ Offence for failure to comply
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-##### <a id="55S"></a>55S  Information gathering powers—dealings with documents
+##### <a id="55S"></a>55S  Information gathering powers—dealings with documents
 
 What the Information Commissioner may do with documents
 
@@ -7108,7 +7108,7 @@ Remainder: 1 July 1990 ( <i>see</i>s. 2(6) and <i>Gazette</i>1990, No. S154)</
 Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324)</div>
   </td>
   <td>
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
+    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, s. 3)</div>
   </td>
 </tr>
 <tr>
@@ -7989,7 +7989,7 @@ Remainder: Royal Assent</div>
     <div>12 Apr 2007</div>
   </td>
   <td>
-    <div>Sch. 1 (item 5) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 5) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -8074,7 +8074,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 1: 7 Oct 2009</div>
   </td>
   <td>
-    <div>Sch. 1 (items 34, 35) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 34, 35) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -8128,7 +8128,7 @@ Schedule 5 (item 137(a), (c)): <i>(j)</i></div>
 Schedule 2 and Schedule 3 (item 15): 1 May 2011</div>
   </td>
   <td>
-    <div>Sch. 2 (item 4), Sch. 3 (item 39), Sch. 4 (item 65) and Sch. 6 (items 40, 41) \[ <i>see</i>Table A] 
+    <div>Sch. 2 (item 4), Sch. 3 (item 39), Sch. 4 (item 65) and Sch. 6 (items 40, 41) \[ <i>see</i>Table A] 
 Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
@@ -8233,7 +8233,7 @@ Schedule 1 (items 176–182): <i>(l)</i></div>
     <div>Schedule 4 (items 108–113): 1 July 2011</div>
   </td>
   <td>
-    <div>Sch. 4 (item 113) \[ <i>see</i>Table A]</div>
+    <div>Sch. 4 (item 113) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -8247,27 +8247,10 @@ Schedule 1 (items 176–182): <i>(l)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 635) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 635) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 4 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011</div>
-  </td>
-  <td>
-    <div>170, 2011</div>
-  </td>
-  <td>
-    <div>4 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1–3): \[ <i>see</i>Note 4]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -9924,14 +9907,6 @@ Part IV</div>
   </td>
   <td>
     <div>am. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 47J(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11673,45 +11648,17 @@ The proposed amendment was misdescribed and is not incorporated in this compilat
 
 ### Note 4
 
-_Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011 (No. 170, 2011)_
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-The following amendments commence on 4 June 2012 unless proclaimed earlier:
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
 
-## Schedule 3
+## Schedule 2
 
-## 1  Subsection 4(1)
+## 635  Subsection 47J(1) (note)
 
-Insert:
+Omit “section 22”, substitute “subsection 2C(1)”.
 
-                    <a name="parliamentari-budget-offic"></a>**_Parliamentary Budget Office_** has the same meaning as in the _Parliamentary Service Act 1999_.
-
-## 2  Subsection 4(1)
-
-Insert:
-
-                    <a name="parliamentari-budget-offic"></a>**_Parliamentary Budget Officer_** has the same meaning as in the _Parliamentary Service Act 1999_.
-
-## 3  At the end of Division 1 of Part I of Schedule 2
-
-Add:
-
-<table>
-<colgroup>
-  <col width="100%">
-</colgroup>
-
-<tr>
-  <td>
-    <div>Parliamentary Budget Office</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Budget Officer</div>
-  </td>
-</tr></table>
-
-As at 31 January 2012 the amendments are not incorporated in this compilation.
+As at 28 September 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -11992,6 +11939,8 @@ The _Freedom of Information Act 1982_ has effect, after the commencement of this
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
