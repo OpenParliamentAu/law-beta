@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00136/Html/a4cd6da0-98c7-4beb-a809-c09c807836bf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00510/Html/AirNavigation1920_WD02_image001.gif)
 
 # Air Navigation Act 1920
 
 **Act No. 50 of 1920 as amended**
 
-This compilation was prepared on 20 March 2009
+This compilation was prepared on 2 October 2008
  taking into account amendments up to Act No. 87 of 2008
 
 The text of any of those amendments not in force 
@@ -30,6 +30,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Interpretation
 
+[3AB](#3AB).      Aircraft flights: when do they start?
+
+[3AC](#3AC).      Aircraft flights: when do they end?
+
 [3AG](#3AG).      Application of the _Criminal Code_
 
 **Part 2—Regulation of Air Navigation**
@@ -50,9 +54,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [11B](#11B).       Injunctions relating to section 11A
 
-[12](#12).          Requirement to hold international airline licence
+[12](#12).          International airline licences
 
-[13](#13).          Licensing of scheduled international air services
+[13](#13).          Suspension or cancellation of international airline licences
 
 [14](#14).          Non-scheduled flights by aircraft possessing nationality of a Contracting State
 
@@ -154,6 +158,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="aircraft"></a>**_aircraft_** means any machine or craft that can derive support in the atmosphere from the reactions of the air.
 
+                    <a name="oper"></a><a name="aircraft-oper"></a>**_aircraft operator_** or **_operator_**, in relation to an aircraft, means a person who conducts, or offers to conduct, an air service by the use of the aircraft.
+
+                    <a name="airport"></a>**_airport_** means an area of land or water (including any buildings, installations and equipment situated in the area) intended for use either wholly or partly for the arrival, departure or movement of aircraft.
+
+                    <a name="air-servic"></a>**_air service_** means a service of providing air transportation of people or goods, or both people and goods, by:
+
+                     (a)  regular public transport operation; or
+
+                     (b)  charter operation.
+
                     <a name="australian-aircraft"></a>**_Australian aircraft_** means Australian aircraft within the meaning of the _Civil Aviation Act 1988_.
 
                     <a name="australian-territori"></a>**_Australian territory_** means:
@@ -164,7 +178,35 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (c)  the air space over any such territory or sea.
 
+                    <a name="baggag"></a>**_baggage_** means any article or possession of a passenger or crew member that is to be carried on board an aircraft, but does not include an article that is accessible to the passenger or crew member while the aircraft is in flight.
+
                     <a name="carriag"></a>**_carriage_** means carriage anywhere on board an aircraft.
+
+                    <a name="charter-oper"></a>**_charter operation_** means an operation of an aircraft for the purpose of:
+
+                     (a)  a service of providing air transportation of people or goods, or both people and goods, that:
+
+                              (i)  is provided for a fee payable by persons using the service; and
+
+                             (ii)  is not available to the general public on a regular basis;
+
+                            whether or not the service is conducted in accordance with fixed schedules to or from fixed terminals over specific routes; or
+
+                     (b)  a service of providing air transportation of people or goods, or both people and goods, that:
+
+                              (i)  is provided for a fee payable by persons using the service; and
+
+                             (ii)  is available to the general public on a regular basis; and
+
+                            (iii)  is not conducted in accordance with fixed schedules to or from fixed terminals over specific routes; or
+
+                     (c)  a service of providing air transportation of people or goods, or both people and goods, that:
+
+                              (i)  is not provided for a fee payable by persons using the service; and
+
+                             (ii)  is conducted in accordance with fixed schedules to or from fixed terminals over specific routes; and
+
+                            (iii)  is not available to the general public.
 
                     <a name="contract-state"></a>**_Contracting State_** means a country, other than   Australia, that is a party to the Chicago Convention.
 
@@ -174,9 +216,23 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="intern-airport"></a>**_international airport_** means an international airport designated under subsection 9(1).
 
-                    <a name="non-schuled-flight"></a>**_non-scheduled flight_**, in relation to an aircraft, means a flight by the aircraft into or from Australian territory where the flight is not made under the authority of an international airline licence granted by the Secretary under the regulations.
+                    <a name="intern-air-servic"></a>**_international air service_** means an air service provided by means of a flight:
+
+                     (a)  from a place within Australia to a place outside Australia; or
+
+                     (b)  from a place outside Australia to a place within Australia.
+
+                    <a name="non-schuled-flight"></a>**_non-scheduled flight_**, in relation to an aircraft, means a flight by the aircraft into or from Australian territory where the flight is not made under the authority of an international airline licence issued by the Secretary under the regulations.
 
                     <a name="pilot-command"></a>**_pilot in command_**, in relation to an aircraft, means the pilot responsible for the operation and safety of the aircraft during the flight of the aircraft.
+
+                    <a name="regular-public-transport-oper"></a>**_regular public transport operation_** means an operation of an aircraft for the purpose of an air service that:
+
+                     (a)  is provided for a fee payable by persons using the service; and
+
+                     (b)  is conducted in accordance with fixed schedules to or from fixed terminals over specific routes; and
+
+                     (c)  is available to the general public on a regular basis.
 
                     <a name="state-aircraft"></a>**_state aircraft_** means:
 
@@ -186,7 +242,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="air-transit-agreem"></a>**_the Air Transit Agreement_** means the International Air Services Transit Agreement concluded at Chicago on 7 December 1944.
 
-                    <a name="chicago-convent"></a>**_the Chicago Convention_** means the Convention on International Civil Aviation concluded at Chicago on 7 December 1944.
+                    <a name="convent"></a><a name="chicago"></a><a name=""></a>**_the_****_Chicago_****_Convention_** means the Convention on International Civil Aviation concluded at Chicago on 7 December 1944.
 
                     <a name="intern-air-transport-associ"></a>**_the International Air Transport Association_** means the association incorporated under that name by Act 9-10 George VI., Chapter 51, of the Parliament of Canada.
 
@@ -194,7 +250,33 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="secretari"></a>**_the Secretary_** means the Secretary to the Department.
 
+                    <a name="thing"></a>**_thing_** includes any substance.
+
+                    <a name="threaten"></a>**_threaten_** has the meaning given by section 3AA.
+
              (2)  Any reference in this Act to a contravention of, or failure to comply with, a provision of this Act includes a reference to a contravention of, or failure to comply with, an instruction, direction, condition or requirement issued, given, made or imposed in pursuance of this Act.
+
+##### <a id="3AB"></a>3AB  Aircraft flights: when do they start?
+
+                   For the purposes of this Act, a flight of an aircraft is taken to start:
+
+                     (a)  when the last external door is closed in preparation for the first movement of the aircraft for the purpose of taking off on the flight; or
+
+                     (b)  if the aircraft moves, before all the external doors are closed, for the purpose of taking off on the flight—when it first so moves.
+
+##### <a id="3AC"></a>3AC  Aircraft flights: when do they end?
+
+             (1)  Subject to this section, a flight of an aircraft is, for the purposes of this Act, taken to end when the first external door is opened after the aircraft comes to rest on the next landing it makes after starting the flight.
+
+             (2)  If an aircraft makes a forced landing, its flight is, for the purposes of this Act, taken to end when the competent authorities take over responsibility for the aircraft and for the people and property on board.
+
+             (3)  If, after an aircraft starts a flight:
+
+                     (a)  the aircraft is destroyed before the flight is taken to have ended under subsection (1) or (2); or
+
+                     (b)  the flight is abandoned;
+
+the flight is, for the purposes of this Act, taken to end when the aircraft is destroyed, or the flight is abandoned, as the case may be.
 
 ##### <a id="3AG"></a>3AG  Application of the _Criminal Code_
 
@@ -266,11 +348,13 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="11"></a>11  Freedoms of the air
 
-                   Subject to section 12, a scheduled international air service operated by an international airline of a country other than Australia that is a party to the Air Transit Agreement has, in respect of Australian territory, the following freedoms of the air:
+             (1)  Subject to section 12, a scheduled international air service conducted by an international airline of a country other than Australia that is a party to the Air Transit Agreement has, in respect of Australian territory, the following freedoms of the air:
 
                      (a)  the privilege to fly across Australian territory without landing; and
 
                      (b)  the privilege to land in Australian territory for any purpose other than taking on or discharging passengers, cargo or mail.
+
+             (2)  The meanings of **_air service_** and **_international air service_** given by subsection 3(1) do not apply to this section.
 
 ##### <a id="11A"></a>11A  Foreign shareholdings in Australian international airlines
 
@@ -424,49 +508,49 @@ the court may, either in addition to or in substitution for the grant of the inj
 
                     <a name="mandatori-provision"></a>**_mandatory provisions_**, in relation to the constitution of an Australian international airline, means those provisions of the constitution that would be required in order for the airline’s constitution to comply with subsection 11A(2).
 
-##### <a id="12"></a>12  Requirement to hold international airline licence
+##### <a id="12"></a>12  International airline licences
 
-             (1)  Subject to subsections (2) and (3), an international airline must not operate a scheduled international air service over, into or out of Australian territory except in accordance with an international airline licence granted by the Secretary in accordance with the regulations.
+             (1)  Subject to subsection (1B), an international airline shall not operate a scheduled international air service over, into or out of Australian territory except in accordance with an international airline licence issued by the Secretary in accordance with the regulations.
 
-          (1A)  If an international airline contravenes subsection (1), the airline commits an offence punishable on conviction by imprisonment for a period of not more than 7 years.
+          (1A)  If an aircraft is flown in contravention of subsection (1), the operator of the aircraft is guilty of an offence punishable on conviction by imprisonment for a period of not more than 7 years.
 
 Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose in respect of an offence an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
 
-       (1AA)  Subsection (1A) does not apply if the international airline has a reasonable excuse.
+       (1AA)  Subsection (1A) does not apply if the operator has a reasonable excuse.
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (1AA) (see subsection 13.3(3) of the _Criminal Code_).
 
-             (2)  Subsection (1) does not apply to a scheduled international air service if it is operated in accordance with a permission under section 15D.
+          (1B)  Subsection (1) does not apply to the operation of a scheduled international air service by an international airline if it is operated in accordance with:
 
-             (3)  The Secretary may, by legislative instrument, determine that subsection (1) does not apply in relation to a category of scheduled international air services. The determination has effect accordingly.
+                     (a)  an agreement, between the international airline and the holder of an international airline licence, that:
 
-             (4)  For the purposes of this section:
+                              (i)  has been approved in writing by the Secretary; and
 
-                     (a)  an international airline may operate a scheduled international air service even if it does not operate the aircraft used to operate the service; and
+                             (ii)  provides for the airline to operate the service for which the licence was issued; and
 
-                     (b)  an international airline does not operate a scheduled international air service merely because it operates the aircraft used to operate the service.
+                     (b)  the conditions (if any) imposed by the Secretary in giving the approval referred to in subparagraph (a)(i).
 
-##### <a id="13"></a>13  Licensing of scheduled international air services
+             (2)  An international airline licence shall not be granted to an international airline of a country other than Australia unless that country and Australia are parties to the Air Transit Agreement, or to some other agreement or arrangement, whether bilateral or multilateral, under which scheduled international air services of that other country may, subject to the agreement or arrangement, be operated over or into Australian territory.
 
-             (1)  Without limiting section 26, the regulations may provide for or in relation to the licensing of scheduled international air services operated over, into or out of Australian territory.
+             (3)  The meanings of **_air service_** and **_international air service_** given by subsection 3(1) do not apply to this section.
 
-             (2)  In particular, the regulations may provide for or in relation to the following:
+##### <a id="13"></a>13  Suspension or cancellation of international airline licences
 
-                     (a)  the granting of international airline licences by the Secretary;
+                   The Minister may vary, suspend or cancel an international airline licence issued to an international airline if and only if:
 
-                     (b)  the imposition of conditions on international airline licences by the Secretary;
+                     (a)  the airline or any aircraft operated by the airline fails to comply with a provision of this Act, the regulations, the _Civil Aviation Act 1988_, the regulations made under that Act, the _Aviation Transport Security Act 2004_, the regulations made under that Act, or the terms of its licence;
 
-                     (c)  the variation, suspension and cancellation of international airline licences by the Secretary;
+                     (b)  the airline fails to conform to, or comply with, any term or condition of the relevant agreement or arrangement referred to in section 12;
 
-                     (d)  the surrender to the Secretary of international airline licences.
+                     (c)  in the opinion of the Minister:
 
-             (3)  An international airline licence must not be granted  to an international airline of a country other than Australia unless that country and Australia are parties to:
+                              (i)  the airline or an aircraft operated by the airline is likely to fail to comply with this Act, the regulations, the _Civil Aviation Act 1988_, the regulations made under that Act, the _Aviation Transport Security Act 2004_, the regulations made under that Act, or the terms of its licence; or
 
-                     (a)  the Air Transit Agreement; or
+                             (ii)  adequate provision has not been made by the relevant authority to ensure that the airline and aircraft operated by the airline substantially conform to and comply with the standards, practices and procedures set out in the Chicago Convention and the Annexes to that Convention;
 
-                     (b)  some other agreement or arrangement, whether bilateral or multilateral, under which scheduled international air services of that other country may, subject to the agreement or arrangement, be operated over or into Australian territory.
+                            and, in the opinion of the Minister, the likely failure or the lack of provision is likely to affect the safety of air navigation in relation to Australia; or
 
-             (4)  Subsection (3) does not limit subsection 12(3).
+                     (d)  in the opinion of the Minister it is necessary or desirable to do so for the purpose of preserving or promoting fair competition in international air transport services.
 
 ##### <a id="14"></a>14  Non-scheduled flights by aircraft possessing nationality of a Contracting State
 
@@ -750,11 +834,11 @@ the owner, the operator, the hirer, the pilot in command and any other pilot of 
 
 Note:          A defendant bears an evidential burden in relation to the matters in subsection (1AA) (see subsection 13.3(3) of the _Criminal Code_).
 
-       (1AB)  Subsection (1) does not apply if the operator or the pilot, as the case may be, has a reasonable excuse.
+        (1AB)  Subsection (1) does not apply if the operator or the pilot, as the case may be, has a reasonable excuse.
 
 Note:          A defendant bears an evidential burden in relation to the matter in subsection (1AB) (see subsection 13.3(3) of the _Criminal Code_).
 
-       (1AC)  Strict liability applies to paragraph (1)(b).
+        (1AC)  Strict liability applies to paragraph (1)(b).
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
@@ -774,7 +858,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="18"></a>18  Publication of determinations
 
-                   The Secretary must cause any determinations made under subsection 12(3), 15A(3) or 17(1B) to be included in the Aeronautical Information Publications published under regulations made under the _Air Services Act 1995_.
+                   The Secretary must cause any determinations made under subsections 15A(3) and 17(1B) to be included in the Aeronautical Information Publications published under regulations made under the _Air Services Act 1995_.
 
 ##### <a id="19"></a>19  Carriage of munitions
 
@@ -801,14 +885,6 @@ Note:          A defendant bears an evidential burden in relat
 ##### <a id="23A"></a>23A  Review of decisions by Administrative Appeals Tribunal 
 
              (1)  Application may be made to the Administrative Appeals Tribunal for a review of a decision by the Secretary:
-
-                    (aa)  to do any of the following under the regulations:
-
-                              (i)  refuse to grant an international airline licence;
-
-                             (ii)  impose a condition on an international airline licence;
-
-                            (iii)  vary, refuse to vary, suspend or cancel an international airline licence; or
 
                      (a)  to refuse a permission under subsection 15D(1); or
 
@@ -1106,7 +1182,7 @@ under which the carriage by air of passengers or freight, or both passengers and
 
 ##### <a id="30"></a>30  Powers and functions under State and Northern Territory laws
 
-                   It is hereby declared to be the intention of the Parliament that an officer, authority or person having powers or functions under this Act or the regulations may also have, exercise and perform similar powers or functions conferred by the law of a State or of the Northern Territory relating to air navigation.
+                   It is hereby declared to be the intention of the Parliament that an officer, authority or person having powers or functions under this Act or the regulations may also have, exercise and perform similar powers or functions conferred by the law of a State or of the Northern   Territory relating to air navigation.
 
 ##### <a id="31"></a>31  Delegation
 
@@ -1132,7 +1208,7 @@ Have accordingly concluded this Convention to that end.
 
 PART  I.—AIR NAVIGATION
 
-CHAPTER I.—GENERAL PRINCIPLES AND APPLICATION OF THE CONVENTION. 
+CHAPTER  I.—GENERAL PRINCIPLES AND APPLICATION OF THE CONVENTION. 
 
 _Article_ 1.
 
@@ -1358,7 +1434,7 @@ Every aircraft of a contracting State, engaged in international navigation, shal
 
 (_e_)   If it is equipped with radio apparatus, the aircraft radio station licence; 
 
-(_f_)    If it carries passengers, a list of their names and places of embarkation and destination; 
+(_f_)   If it carries passengers, a list of their names and places of embarkation and destination; 
 
 (_g_)   If it carries cargo, a manifest and detailed declarations of the cargo. 
 
@@ -1430,7 +1506,7 @@ To this end the International Civil Aviation Organization shall adopt and amend 
 
 (_e_)   Airworthiness of aircraft; 
 
-(_f_)    Registration and identification of aircraft; 
+(_f_)   Registration and identification of aircraft; 
 
 (_g_)   Collection and exchange of meteorological information; 
 
@@ -1438,7 +1514,7 @@ To this end the International Civil Aviation Organization shall adopt and amend 
 
 (_i_)    Aeronautical maps and charts; 
 
-(_j_)    Customs and immigration procedures; 
+(_j_)   Customs and immigration procedures; 
 
 (_k_)   Aircraft in distress and investigation of accident; 
 
@@ -1502,7 +1578,7 @@ The aims and objectives of the Organization are to develop the principles and te
 
 (_e_)   Prevent economic waste caused by unreasonable competition; 
 
-(_f_)    Insure that the rights of contracting States are fully respected and that every contracting State has a fair opportunity to operate international airlines; 
+(_f_)   Insure that the rights of contracting States are fully respected and that every contracting State has a fair opportunity to operate international airlines; 
 
 (_g_)   Avoid discrimination between contracting States; 
 
@@ -1556,7 +1632,7 @@ The powers and duties of the Assembly shall be to:
 
 (_e_)   Vote an annual budget and determine the financial arrangements of the Organization, in accordance with the provisions of Chapter XII; 
 
-(_f_)    Review expenditures and approve the accounts of the Organization; 
+(_f_)   Review expenditures and approve the accounts of the Organization; 
 
 (_g_)   Refer, at its discretion, to the Council, to subsidiary commissions, or to any other body any matter within its sphere of action;
 
@@ -1564,7 +1640,7 @@ The powers and duties of the Assembly shall be to:
 
 (_i_)    Carry out the appropriate provisions of Chapter XIII; 
 
-(_j_)    Consider proposals for the modification or amendment of the provisions of this Convention and, if it approves of the proposals, recommend them to the contracting States in accordance with the provisions of Chapter XXI; 
+(_j_)   Consider proposals for the modification or amendment of the provisions of this Convention and, if it approves of the proposals, recommend them to the contracting States in accordance with the provisions of Chapter XXI; 
 
 (_k_)   Deal with any matter within the sphere of action of the Organization not specifically assigned to the Council. 
 
@@ -1620,7 +1696,7 @@ The Council shall:
 
 (_e_)   Establish an Air Navigation Commission, in accordance with the provisions of Chapter X; 
 
-(_f_)    Administer the finances of the Organization in accordance with the provisions of Chapters XII and XV; 
+(_f_)   Administer the finances of the Organization in accordance with the provisions of Chapters XII and XV; 
 
 (_g_)   Determine the emoluments of the President of the Council; 
 
@@ -1628,7 +1704,7 @@ The Council shall:
 
 (_i_)    Request, collect, examine and publish information relating to the advancement of air navigation and the operation of international air services, including information about the costs of operation and particulars of subsidies paid to airlines from public funds; 
 
-(_j_)    Report to contracting States any infraction of this Convention, as well as any failure to carry out recommendations or determinations of the Council; 
+(_j_)   Report to contracting States any infraction of this Convention, as well as any failure to carry out recommendations or determinations of the Council; 
 
 (_k_)   Report to the Assembly any infraction of this Convention where a contracting State has failed to take appropriate action within a reasonable time after notice of the infraction; 
 
@@ -1842,7 +1918,7 @@ _Article_ 82\.
 
 **Abrogation of inconsistent arrangements.**
 
-The contracting States accept this Convention as abrogating all obligations and understandings between them which are inconsistent with its terms, and undertake not to enter into any such obligations and understandings. A contracting State which, before becoming a member of the Organization has undertaken any obligations toward a non-contracting State or a national of a contracting State or of a non-contracting State inconsistent with the terms of this Convention, shall take immediate steps to procure its release from the obligations. If an airline of any contracting State has entered into any such inconsistent obligations, the State of which it is a national shall use its best efforts to secure their termination forthwith and shall in any event cause them to be terminated as soon as such action can lawfully be taken after the coming into force of this Convention. 
+The contracting States accept this Convention as abrogating all obligations and understandings between them which are inconsistent with its terms, and undertake not to enter into any such obligations and understandings. A contracting State which, before becoming a member of the Organization has undertaken any obligations toward a non-contracting  State or a national of a contracting State or of a non-contracting State inconsistent with the terms of this Convention, shall take immediate steps to procure its release from the obligations. If an airline of any contracting State has entered into any such inconsistent obligations, the State of which it is a national shall use its best efforts to secure their termination forthwith and shall in any event cause them to be terminated as soon as such action can lawfully be taken after the coming into force of this Convention. 
 
 _Article_ 83\. 
 
@@ -2032,11 +2108,11 @@ The undersigned delegates to the International Civil Aviation Conference, conven
 
 Any State a member of the International Civil Aviation Organization may accept the present Agreement as an obligation binding upon it by notification of its acceptance to the Government of the United States, and such acceptance shall become effective upon the date of the receipt of such notification by that Government. 
 
-This Agreement shall come into force as between contracting States upon its acceptance by each of them. Thereafter it shall become binding as to each other State indicating its acceptance to the Government of the United States on the date of the receipt of the acceptance by that Government. The Government of the United States shall inform all signatory and accepting States of the date of all acceptances of the Agreement, and of the date on which it comes into force for each accepting State. 
+This Agreement shall come into force as between contracting States upon its acceptance by each of them. Thereafter it shall become binding as to each other State indicating its acceptance to the Government of the United States on the date of the receipt of the acceptance by that Government. The Government of the United   States shall inform all signatory and accepting States of the date of all acceptances of the Agreement, and of the date on which it comes into force for each accepting State. 
 
 IN WITNESS WHEREOF, the undersigned, having been duly authorized, sign this Agreement on behalf of their respective governments on the dates appearing opposite their respective signatures. 
 
-DONE at Chicago the seventh day of December, 1944, in the English language. A text drawn up in the English, French, and Spanish languages, each of which shall be of equal authenticity, shall be opened for signature at Washington, D.C. Both texts shall be deposited in the archives of the Government of the United States of America, and certified copies shall be transmitted by that Government to the governments of all the States which may sign and accept this Agreement. 
+DONE at Chicago the seventh day of December, 1944, in the English language. A text drawn up in the English, French, and Spanish languages, each of which shall be of equal authenticity, shall be opened for signature at Washington, D.C. Both texts shall be deposited in the archives of the Government of the United States of   America, and certified copies shall be transmitted by that Government to the governments of all the States which may sign and accept this Agreement. 
 
 # Schedule 3—Protocol relating to an amendment to the Convention on International Civil Aviation
 
@@ -2326,7 +2402,7 @@ In Article 50 (a) of the Convention the second sentence shall be amended by repl
 
 (e)   The Secretary General shall immediately notify all contracting States of the date of deposit of each ratification of the Protocol. 
 
-(f)   The Secretary General shall immediately notify all States parties to the said Convention of the date on which the Protocol comes into force. 
+(f)    The Secretary General shall immediately notify all States parties to the said Convention of the date on which the Protocol comes into force. 
 
 (g)   With respect to any contracting State ratifying the Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization. 
 
@@ -2452,7 +2528,7 @@ Insert, after Article 3, a new Article 3 _bis_:
 
 (e)   The Secretary General shall immediately notify all contracting States of the date of deposit of each ratification of the Protocol. 
 
-(f)   The Secretary General shall notify all States parties to the said Convention of the date on which the Protocol comes into force. 
+(f)    The Secretary General shall notify all States parties to the said Convention of the date on which the Protocol comes into force. 
 
 (g)   With respect to any contracting State ratifying the Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization. 
 
@@ -2496,7 +2572,7 @@ d)    The Protocol shall come into force in respect of the States that hav
 
 e)    The Secretary General shall immediately notify all Contracting States of the date of deposit of each ratification of the Protocol. 
 
-f)    The Secretary General shall immediately notify all States parties to the said Convention of the date on which the Protocol comes into force. 
+f)     The Secretary General shall immediately notify all States parties to the said Convention of the date on which the Protocol comes into force. 
 
 g)    With respect to any Contracting State ratifying the Protocol after the date aforesaid, the Protocol shall come into force upon deposit of its instrument of ratification with the International Civil Aviation Organization. 
 
@@ -2522,13 +2598,13 @@ HAVING CONSIDERED it appropriate to increase the membership of that body from th
 
 HAVING CONSIDERED it necessary to amend, for the purpose aforesaid, the Convention on International Civil Aviation done at Chicago on the seventh day of December 1944; 
 
-1.    APPROVES, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: 
+1.     APPROVES, in accordance with the provisions of Article 94 (_a_) of the Convention aforesaid, the following proposed amendment to the said Convention: 
 
 “In Article 50 (_a_) of the Convention the second sentence shall be amended by replacing ‘thirty-three’ by ‘thirty-six’.”; 
 
-2.    SPECIFIES, pursuant to the provisions of the said Article 94 (_a_) of the said Convention, one hundred and eight as the number of Contracting States upon whose ratification the proposed amendment aforesaid shall come into force; 
+2.     SPECIFIES, pursuant to the provisions of the said Article 94 (_a_) of the said Convention, one hundred and eight as the number of Contracting States upon whose ratification the proposed amendment aforesaid shall come into force; 
 
-3.    RESOLVES that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the amendment above-mentioned and the matter hereinafter appearing: 
+3.     RESOLVES that the Secretary General of the International Civil Aviation Organization draw up a Protocol, in the English, French, Russian and Spanish languages, each of which shall be of equal authenticity, embodying the amendment above-mentioned and the matter hereinafter appearing: 
 
 a)    The Protocol shall be signed by the President of the Assembly and its Secretary General. 
 
@@ -3576,7 +3652,7 @@ Remainder: Royal Assent</div>
     <div>20 Sept 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–22, 26, 27): 20 Mar 2009</div>
+    <div>Schedule 1 (items 1–22, 26, 27): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 26, 27) \[ <i>see</i>Table A]</div>
@@ -3591,13 +3667,13 @@ _(a)_     Section 2 of the _Air Navigation Act 1920_ provides as follo
 
                               (a)   in relation to the then several States and Territories—28 March 1921 (_see Gazette_ 1921, p. 480);
 
-                              (b)   in relation to the Territory of Cocos (Keeling) Islands—23 November 1955 (_see Gazette_ 1955, p. 3824A);
+                              (b)   in relation to the Territory  of Cocos (Keeling) Islands—23 November 1955 (_see Gazette_ 1955, p. 3824A);
 
-                              (c)   in relation to the Australian Antarctic Territory—19 April 1956 (_see Gazette_ 1956, p. 1068); and
+                              (c)   in relation to the Australian  Antarctic Territory—19 April 1956 (_see Gazette_ 1956, p. 1068); and
 
-                              (d)   in relation to the Territory of Christmas Island—10 April 1959 (_see Gazette_ 1959, p. 1149).
+                              (d)   in relation to the Territory  of Christmas Island—10 April 1959 (_see Gazette_ 1959, p. 1149).
 
-_(b)_     The _Air Navigation Act 1920_ was amended by Part LXXVII (section 280) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:
+_(b)_    The _Air Navigation Act 1920_ was amended by Part LXXVII (section 280) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(1) of which provides as follows:
 
                  (1)   Sections 1, 2, 166 and 195 and Parts III, VI, VII, XVI, XXXVI, XLIV, LI, LIII, LIV, LXI and LXXVII shall come into operation on the day on which this Act receives the Royal Assent.
 
@@ -3966,7 +4042,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div>
       10 March 2005
 
-      (paragraph (b) applies)
+(paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -4116,7 +4192,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 130 and 216, 1973; No. 124, 1974; No. 27, 1980; No. 80, 1982; No. 39, 1983; No. 63, 1988; No. 23, 1990; No. 89,1995 (as am. by No. 43, 1996); No. 30, 1997; No. 95, 1998; No. 48, 2000; No. 143, 2002; No. 83, 2003; Nos. 9 and 64, 2004; No. 87, 2008</div>
+    <div>am. Nos. 130 and 216, 1973; No. 124, 1974; No. 27, 1980; No. 80, 1982; No. 39, 1983; No. 63, 1988; No. 23, 1990; No. 89,1995 (as am. by No. 43, 1996); No. 30, 1997; No. 95, 1998; No. 48, 2000; No. 143, 2002; No. 83, 2003; Nos. 9 and 64, 2004</div>
   </td>
   <td>
     <div></div>
@@ -4150,17 +4226,6 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
   </td>
   <td>
     <div>ad. No. 89, 1995</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 87, 2008</div>
   </td>
   <td>
     <div></div>
@@ -4479,7 +4544,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div></div>
   </td>
   <td>
-    <div>am. No. 27, 1980; No. 89, 1995; No. 87, 2008</div>
+    <div>am. No. 27, 1980; No. 89, 1995</div>
   </td>
   <td>
     <div></div>
@@ -4519,17 +4584,6 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 12</div>
-  </td>
-  <td>
-    <div>rs. No. 87, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 12</div>
   </td>
   <td colspan="2">
@@ -4541,7 +4595,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 124, 1974; No. 82, 1992; No. 89, 1995; No. 143, 2001; No. 87, 2008</div>
+    <div>am. No. 124, 1974; No. 82, 1992; No. 89, 1995; No. 143, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4558,17 +4612,6 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
   </td>
   <td colspan="2">
     <div>am. No. 108, 1984; No. 63, 1988; No. 45, 1989; No. 82, 1992; No. 9, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 87, 2008</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -4744,7 +4787,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 82, 1995; No. 30, 1997; No. 87, 2008</div>
+    <div>am. No. 82, 1995; No. 30, 1997</div>
   </td>
 </tr>
 <tr>
@@ -5984,7 +6027,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div></div>
   </td>
   <td>
-    <div>am. No. 95, 1998; No. 9, 2004; No. 87, 2008</div>
+    <div>am. No. 95, 1998; No. 9, 2004</div>
   </td>
   <td>
     <div></div>
@@ -6421,7 +6464,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Heading to Third Schedule</div>
+    <div>Heading to Third Schedule .</div>
   </td>
   <td>
     <div>rep. No. 27, 1980</div>
@@ -6520,7 +6563,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Heading to Sixth Schedule</div>
+    <div>Heading to Sixth Schedule .</div>
   </td>
   <td>
     <div>rep. No. 27, 1980</div>
@@ -6619,7 +6662,7 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
 </tr>
 <tr>
   <td>
-    <div>Heading to Ninth Schedule</div>
+    <div>Heading to Ninth Schedule .</div>
   </td>
   <td>
     <div>rep. No. 27, 1980</div>
@@ -6683,6 +6726,146 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
     <div></div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008 (No. 87, 2008)_
+
+The following amendments commence on 20 March 2009 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsection 3(1) (definition of _aircraft operator_ or _operator_)
+
+Repeal the definition.
+
+## 2  Subsection 3(1) (definition of _airport_)
+
+Repeal the definition.
+
+## 3  Subsection 3(1) (definition of _air service_)
+
+Repeal the definition.
+
+## 4  Subsection 3(1) (definition of _baggage_)
+
+Repeal the definition.
+
+## 5  Subsection 3(1) (definition of _charter operation_)
+
+Repeal the definition.
+
+## 6  Subsection 3(1) (definition of _international air service_)
+
+Repeal the definition.
+
+## 7  Subsection 3(1) (definition of _non-scheduled flight_)
+
+Omit “issued”, substitute “granted”.
+
+## 8  Subsection 3(1) (definition of _regular public transport operation_)
+
+Repeal the definition.
+
+## 9  Subsection 3(1) (definition of _thing_)
+
+Repeal the definition.
+
+## 10  Subsection 3(1) (definition of _threaten_)
+
+Repeal the definition.
+
+## 11  Sections 3AB and 3AC
+
+Repeal the sections.
+
+## 12  Subsection 11(1)
+
+Omit “(1)”.
+
+## 13  Subsection 11(1)
+
+Omit “conducted”, substitute “operated”.
+
+## 14  Subsection 11(2)
+
+Repeal the subsection.
+
+## 15  Subsection 12(1)
+
+Omit “Subject to subsection (1B), an international airline shall”, substitute “Subject to subsections (2) and (3), an international airline must”.
+
+_Note:       The heading to section 12 is replaced by the heading “Requirement to hold international airline licence”._
+
+## 16  Subsection 12(1)
+
+Omit “issued”, substitute “granted”.
+
+## 17  Subsection 12(1A)
+
+Omit “If an aircraft is flown in contravention of subsection (1), the operator of the aircraft is guilty of”, substitute “If an international airline contravenes subsection (1), the airline commits”.
+
+## 18  Subsection 12(1AA)
+
+Omit “operator”, substitute “international airline”.
+
+## 19  Subsections 12(1B), (2) and (3)
+
+Repeal the subsections, substitute:
+
+             (2)  Subsection (1) does not apply to a scheduled international air service if it is operated in accordance with a permission under section 15D.
+
+             (3)  The Secretary may, by legislative instrument, determine that subsection (1) does not apply in relation to a category of scheduled international air services. The determination has effect accordingly.
+
+             (4)  For the purposes of this section:
+
+                     (a)  an international airline may operate a scheduled international air service even if it does not operate the aircraft used to operate the service; and
+
+                     (b)  an international airline does not operate a scheduled international air service merely because it operates the aircraft used to operate the service.
+
+## 20  Section 13
+
+Repeal the section, substitute:
+
+##### <a id="13"></a>13  Licensing of scheduled international air services
+
+             (1)  Without limiting section 26, the regulations may provide for or in relation to the licensing of scheduled international air services operated over, into or out of Australian territory.
+
+             (2)  In particular, the regulations may provide for or in relation to the following:
+
+                     (a)  the granting of international airline licences by the Secretary;
+
+                     (b)  the imposition of conditions on international airline licences by the Secretary;
+
+                     (c)  the variation, suspension and cancellation of international airline licences by the Secretary;
+
+                     (d)  the surrender to the Secretary of international airline licences.
+
+             (3)  An international airline licence must not be granted  to an international airline of a country other than Australia unless that country and Australia are parties to:
+
+                     (a)  the Air Transit Agreement; or
+
+                     (b)  some other agreement or arrangement, whether bilateral or multilateral, under which scheduled international air services of that other country may, subject to the agreement or arrangement, be operated over or into Australian territory.
+
+             (4)  Subsection (3) does not limit subsection 12(3).
+
+## 21  Section 18
+
+Omit “subsections 15A(3) and 17(1B)”, substitute “subsection 12(3), 15A(3) or 17(1B)”.
+
+## 22  Before paragraph 23A(1)(a)
+
+Insert:
+
+                    (aa)  to do any of the following under the regulations:
+
+                              (i)  refuse to grant an international airline licence;
+
+                             (ii)  impose a condition on an international airline licence;
+
+                            (iii)  vary, refuse to vary, suspend or cancel an international airline licence; or
+
+As at 2 October 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -6767,25 +6950,25 @@ _Aviation Transport Security (Consequential Amendments and Transitional Provisio
 
 ## 1  Regulations
 
-(1)       The Governor-General may make regulations prescribing matters:
+(1)        The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-(2)       In particular, regulations may be made:
+(2)        In particular, regulations may be made:
 
                      (a)  providing for regulations made for the purposes of particular provisions of the old Act to continue to have effect (with any prescribed alterations) for the purposes of the new Act; and
 
                      (b)  providing for aviation security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
-                   (ba)  providing for airport security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
+                    (ba)  providing for airport security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act; and
 
-                   (bb)  providing for ASIC programs and international cargo security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act, or as such other programs under the new Act as are prescribed by the regulations; and
+                    (bb)  providing for ASIC programs and international cargo security programs approved under the old Act to continue to be taken to be in force (with any prescribed alterations and for such time as is prescribed) as transport security programs under the new Act, or as such other programs under the new Act as are prescribed by the regulations; and
 
                      (c)  for other transitional measures in relation to the transition from the old Act to the new Act.
 
-(3)       In this item:
+(3)        In this item:
 
 **_new Act_** means the _Aviation Transport Security Act 2004_.
 
@@ -6803,13 +6986,15 @@ The exercise or purported exercise (whether before, at or after the commencement
 
 _Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008 (No. 87, 2008)_
 
+The following provisions commence on 20 March 2009 unless proclaimed earlier:
+
 ## Schedule 1
 
 ## 26  Pre-commencement licences
 
-(1)       Despite the amendments made by this Schedule, the old law continues to apply in relation to the operation of a scheduled international air service in respect of which an international airline licence was in force immediately before the commencement time.
+(1)        Despite the amendments made by this Schedule, the old law continues to apply in relation to the operation of a scheduled international air service in respect of which an international airline licence was in force immediately before the commencement time.
 
-(2)       Subitem (1) has effect in relation to the operation of the service until whichever of the following first occurs:
+(2)        Subitem (1) has effect in relation to the operation of the service until whichever of the following first occurs:
 
                      (a)  the international airline licence is surrendered or cancelled in accordance with the old law as it continues to apply under subitem (1);
 
@@ -6817,17 +7002,17 @@ _Aviation Legislation Amendment (International Airline Licences and Carriers’ 
 
                      (c)  the international airline licence is cancelled under subitem (3).
 
-(3)       If the international airline licence is not surrendered or cancelled as mentioned in paragraph (2)(a) of this item, it is cancelled, by force of this subitem, when whichever of the following first occurs:
+(3)        If the international airline licence is not surrendered or cancelled as mentioned in paragraph (2)(a) of this item, it is cancelled, by force of this subitem, when whichever of the following first occurs:
 
                      (a)  an international airline licence is granted in respect of the operation of the service as mentioned in paragraph (2)(b) of this item;
 
                      (b)  the period of 6 months beginning at the commencement time ends.
 
-(4)       The Minister may, by legislative instrument, determine that the period mentioned in paragraph (3)(b) of this item is extended for a specified licence by the period, not exceeding 2 months, specified in the determination. The Minister cannot extend the period for a particular licence more than once.
+(4)        The Minister may, by legislative instrument, determine that the period mentioned in paragraph (3)(b) of this item is extended for a specified licence by the period, not exceeding 2 months, specified in the determination. The Minister cannot extend the period for a particular licence more than once.
 
-(5)       A determination under subitem (4) has effect accordingly.
+(5)        A determination under subitem (4) has effect accordingly.
 
-(6)       In this item:
+(6)        In this item:
 
 **_commencement time_** means the time when this Schedule commences.
 
@@ -6839,11 +7024,11 @@ _Aviation Legislation Amendment (International Airline Licences and Carriers’ 
 
 ## 27  Constitutional safety net—acquisition of property
 
-(1)       If the operation of this Part would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+(1)        If the operation of this Part would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
 
-(2)       If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+(2)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
 
-(3)       In this item:
+(3)        In this item:
 
 **_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
