@@ -1,1847 +1,2795 @@
-![](http://www.comlaw.gov.au/Details/C2005C00263/Html/AusSportsComm89WD02_files/image001.gif)
+**
 
-# Australian Sports Commission Act 1989
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989 
+**
 
-**Act No. 12 of 1989 as amended**
 
-This compilation was prepared on 7 April 2005
- taking into account amendments up to Act No. 40 of 2005
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-**Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation
+**
 
-[4](#4).            Extension to external Territories
+###  Long Title 
+**
+**
 
-**Part II—Establishment, objects, functions and powers of the Commission**
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<part>Part I&#151;Preliminary </part>
+**
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 1  Short title [_see_ Note 1]  
+This Act may be cited as the _Australian Sports Commission Act 1989_.
 
-[5](#5).            Establishment
+ 
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 2  Commencement [_see_ Note 1] 
+This Act commences on a day to be fixed by Proclamation.
 
-[6](#6).            Objects
+ 
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 3  Interpretation 
+In this Act, unless the contrary intention appears:
 
-[7](#7).            Functions
+ 
+<dl compact=""><dl compact="">
 
-[8](#8).            Powers
+_appointed member_ means a member other than the Secretary to the
 
-[9](#9).            Commission to operate under the name Australian Institute of Sport when performing certain functions
+Department. _Australia_ includes the external Territories. _Australian Sports Foundation_ means the company referred to in section 10\. _Chairperson_ means the Chairperson of the Commission. _Commission_ means the Australian Sports Commission established by this Act. _Deputy Chairperson_ means the Deputy Chairperson of the Commission. _Director_ means the Director of the Institute. _Executive Director_ means the Executive Director of the Commission. _Institute_ means the Australian Institute of Sport referred to in section 9\. _member_ means a member of the Commission and includes the Chairperson and the Deputy Chairperson.  </dl></dl>
 
-[10](#10).          Australian Sports Foundation
+**
 
-[11](#11).          Minister may give directions
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 4  Extension to external Territories 
+**
 
-[12](#12).          Access to facilities by individuals and community groups
+ <dl compact="">
 
-**Part III—Constitution and meetings of the Commission**
+		This Act extends to all external Territories.
 
-[13](#13).          Membership of Commission
+ </dl>
 
-[14](#14).          Leave of absence
+<center>**
 
-[15](#15).          Resignation
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<part>Part II&#151;Establishment, objects, functions and powers of the Commission </part>
+**</center>
 
-[16](#16).          Outside employment
+**
 
-[17](#17).          Remuneration and allowances
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 5  Establishment 
+**
 
-[19](#19).          Termination of appointment
+ <dl compact="">
 
-[20](#20).          Acting appointments
+<dt>(1)</dt><dd>There is established by this Act a Commission by the name of the
 
-[21](#21).          Meetings of Commission
+Australian Sports Commission.</dd> <dt>(2)</dt><dd>The Commission: </dd> </dl>
 
-[22](#22).          Committees
+<dl compact=""><dl compact=""><dl compact="">
 
-**Part IV—Strategic plans and annual operational plans**
+<dt>(a)</dt><dd>is a body corporate with perpetual succession;</dd>
 
-[23](#23).          Strategic plans
+<dt>(b)</dt><dd>shall have a common seal; and</dd>
 
-[24](#24).          Approval and commencement of strategic plans
+<dt>(c)</dt><dd>may sue and be sued.
 
-[25](#25).          Variation of strategic plans
+</dd>
 
-[26](#26).          Annual operational plan
+</dl></dl></dl>
 
-[27](#27).          Compliance with plans
+<center>Back to Top</center>
 
-**Part V—Executive Director and Director of Institute**
+<dl compact=""><dl compact="">
 
-[28](#28).          Executive Director
+Note:	The _Commonwealth Authorities and Companies Act 1997_
 
-[29](#29).          Duties of Executive Director
+applies to the Commission. That Act deals with matters relating to Commonwealth
 
-[30](#30).          Director
+authorities, including reporting and accountability, banking and investment,
 
-[31](#31).          Duties of Director
+and conduct of officers.
 
-[32](#32).          Tenure of Executive Director
+ </dl></dl>
 
-[33](#33).          Remuneration and allowances
+<dl compact="">
 
-[34](#34).          Outside employment
+<dt>(3)</dt><dd>All courts, judges and persons acting judicially shall take notice of the
 
-[35](#35).          Leave of absence
+imprint of the common seal of the Commission appearing on a document and shall
 
-[36](#36).          Resignation
+presume that the document was duly sealed.
 
-[37](#37).          Disclosure of interests
+</dd> </dl>
 
-[38](#38).          Terms and conditions of appointment not provided for by Act
+**
 
-[39](#39).          Acting Executive Director
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 6  Objects 
+**
 
-[40](#40).          Application of sections 32 to 39 to Director
+ <dl compact="">
 
-**Part VI—Staff and consultants**
+<dt>(1)</dt><dd>The objects of the establishment of the Commission are:
 
-[41](#41).          Employees
+</dd> </dl>
 
-[42](#42).          Consultants
+<dl compact=""><dl compact=""><dl compact="">
 
-**Part VII—Finance**
+<dt>(a)</dt><dd>to provide leadership in the development of sport in Australia;</dd>
 
-[43](#43).          Appropriation of money
+<dt>(b)</dt><dd>to encourage increased participation and improved performance by
 
-[45](#45).          Application of money
+Australians in sport;</dd>
 
-[46](#46).          Borrowing from the Commonwealth
+<dt>(c)</dt><dd>to provide resources, services and facilities to enable Australians to
 
-[47](#47).          Contracts
+pursue and achieve excellence in sport while also furthering their educational
 
-[48](#48).          Extra matters to be included in annual report
+and vocational skills and other aspects of their personal development;</dd>
 
-[50](#50).          Commission exempt from taxation
+<dt>(d)</dt><dd>to improve the sporting abilities of Australians generally through the
 
-[51](#51).          Foundation exempt from taxation
+improvement of the standard of sports coaches;</dd>
 
-**Part VIIA—Disclosure and use of protected etc. information**
+<dt>(e)</dt><dd>to foster co-operation in sport between Australia and other countries
 
-[51A](#51A).       Definitions
+through the provision of access to resources, services and facilities related
 
-[51AA](#51AA).    Meaning of _permitted anti-doping purposes_
+to sport; and</dd>
 
-[51B](#51B).       Protected information that can be disclosed
+<dt>(f)</dt><dd>to encourage the private sector to contribute to the funding of sport to
 
-[51C](#51C).       Disclosure of personal protected information
+supplement assistance by the Commonwealth.
 
-[51D](#51D).       Duty not to disclose protected information
+</dd>
 
-[51DA](#51DA).    Disclosure for certain permitted anti-doping purposes of the Commission
+</dl></dl></dl>
 
-[51E](#51E).        Disclosure for permitted anti-doping purposes of a sporting organisation
+<dl compact="">
 
-[51F](#51F).        Disclosure of other information by the Commission
+<dt>(2)</dt><dd>In this section, a reference to _Australians_ includes a
 
-[51G](#51G).       Operation of _Privacy Act 1988_ is not affected
+reference to persons who are ordinarily resident in Australia.
 
-**Part VIII—Miscellaneous**
+</dd> </dl>
 
-[52](#52).          Trust money
+**
 
-[54](#54).          Delegation by Commission
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 7  Functions 
+**
 
-[55](#55).          Delegation by Executive Director
+ <dl compact="">
 
-[56](#56).          Delegation by Minister
+<dt>(1)</dt><dd>The functions of the Commission are:
 
-[57](#57).          Protection from civil actions
+</dd> </dl>
 
-[58](#58).          Regulations
+<dl compact=""><dl compact=""><dl compact="">
 
-**Notes** 
+<dt>(a)</dt><dd>to advise the Minister in relation to the development of sport;</dd>
 
- 
+<dt>(b)</dt><dd>to co-ordinate activities in Australia for the development of sport;</dd>
 
-## An Act to establish the Australian Sports Commission, and for related purposes
+<dt>(c)</dt><dd>to develop and implement programs that promote equality of access to, and
 
-## Part I—Preliminary
+participation in, sport by all Australians;</dd>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1] 
+<dt>(d)</dt><dd>to develop and implement programs for the recognition and development of:
 
-                   This Act may be cited as the _Australian Sports Commission Act 1989_.
+</dd>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+</dl></dl></dl>
 
-                   This Act commences on a day to be fixed by Proclamation.
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="3"></a>3  Interpretation
+<dt>(i)</dt><dd>persons who excel, or who have the potential to excel, in sport; and</dd>
 
-                   In this Act, unless the contrary intention appears:
+<dt>(ii)</dt><dd>persons who have achieved, or who have the potential to achieve,
 
-                    <a name="appointed-member"></a>**_appointed member_** means a member other than the Secretary to the Department.
+standards of excellence as sports coaches, umpires, referees or officials
 
-                    <a name="australia"></a>**_Australia_** includes the external Territories.
+essential to the conduct of sport;
 
-                    <a name="australian-sport-foundat"></a>**_Australian Sports Foundation_** means the company referred to in section 10.
+</dd>
 
-                    <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Commission.
+</dl></dl></dl></dl>
 
-                    <a name="commiss"></a>**_Commission_** means the Australian Sports Commission established by this Act.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="deputi-chairperson"></a>**_Deputy Chairperson_** means the Deputy Chairperson of the Commission.
+<dt>(e)</dt><dd>to initiate, encourage and facilitate research and development in relation
 
-                    <a name="director"></a>**_Director_** means the Director of the Institute.
+to sport;</dd>
 
-                    <a name="execut-director"></a>**_Executive Director_** means the Executive Director of the Commission.
+<dt>(f)</dt><dd>to undertake research and development related to sports science and sports
 
-                    <a name="institut"></a>**_Institute_** means the Australian Institute of Sport referred to in section 9.
+medicine;</dd>
 
-                    <a name="member"></a>**_member_** means a member of the Commission and includes the Chairperson and the Deputy Chairperson.
+<dt>(g)</dt><dd>to provide sports medicine services and sports science services to persons
 
-##### <a id="4"></a>4  Extension to external Territories
+participating in programs of the Commission;</dd>
 
-                   This Act extends to all external Territories.
+<dt>(h)</dt><dd>to establish, manage, develop and maintain facilities for the purposes of
 
-## Part II—Establishment, objects, functions and powers of the Commission
+the Commission;</dd>
 
-##### <a id="5"></a>5  Establishment
+<dt>(j)</dt><dd>to collect and distribute information, and provide advice, on matters
 
-             (1)  There is established by this Act a Commission by the name of the Australian Sports Commission.
+related to the activities of the Commission;</dd>
 
-             (2)  The Commission:
+<dt>(k)</dt><dd>for the purpose of fostering co-operation in sport between Australia and
 
-                     (a)  is a body corporate with perpetual succession;
+other countries, to provide access to persons from other countries to the
 
-                     (b)  shall have a common seal; and
+resources, services and facilities of the Commission;</dd>
 
-                     (c)  may sue and be sued.
+<dt>(m)</dt><dd>to raise money through the Australian Sports Foundation, or by other
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Commission. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+means, for the purposes of the Commission;</dd>
 
-             (3)  All courts, judges and persons acting judicially shall take notice of the imprint of the common seal of the Commission appearing on a document and shall presume that the document was duly sealed.
+<dt>(n)</dt><dd>to administer and expend money appropriated by the Parliament, or raised
 
-##### <a id="6"></a>6  Objects
+in accordance with paragraph (m), for the purposes of the Commission;</dd>
 
-             (1)  The objects of the establishment of the Commission are:
+<dt>(p)</dt><dd>to consult and co-operate with appropriate authorities of the
 
-                     (a)  to provide leadership in the development of sport in Australia;
+Commonwealth, of the States and of the Territories, and with other persons,
 
-                     (b)  to encourage increased participation and improved performance by Australians in sport;
+associations and organisations, on matters related to the activities of the
 
-                     (c)  to provide resources, services and facilities to enable Australians to pursue and achieve excellence in sport while also furthering their educational and vocational skills and other aspects of their personal development;
+Commission; and</dd>
 
-                     (d)  to improve the sporting abilities of Australians generally through the improvement of the standard of sports coaches;
+<dt>(q)</dt><dd>to provide advice on matters related to sport to the Australian Olympic
 
-                     (e)  to foster co-operation in sport between Australia and other countries through the provision of access to resources, services and facilities related to sport; and
+Federation or other persons, bodies or associations; and</dd>
 
-                      (f)  to encourage the private sector to contribute to the funding of sport to supplement assistance by the Commonwealth.
+<dt>(r)</dt><dd>to co-operate with national and international sporting organisations in
 
-             (2)  In this section, a reference to **_Australians_** includes a reference to persons who are ordinarily resident in Australia.
+aiming to foster a sporting environment that is free from the unsanctioned use
 
-##### <a id="7"></a>7  Functions
+of performance enhancing drugs and doping methods.
 
-             (1)  The functions of the Commission are:
+</dd>
 
-                     (a)  to advise the Minister in relation to the development of sport;
+</dl></dl></dl>
 
-                     (b)  to co-ordinate activities in Australia for the development of sport;
+<center>Back to Top</center>
 
-                     (c)  to develop and implement programs that promote equality of access to, and participation in, sport by all Australians;
+<dl compact="">
 
-                     (d)  to develop and implement programs for the recognition and development of:
+<dt>(2)</dt><dd>The functions of the Commission may be performed within or outside
 
-                              (i)  persons who excel, or who have the potential to excel, in sport; and
+Australia.</dd> <dt>(3)</dt><dd>The Commission may perform any of its functions in co-operation with a State or Territory or any person, association or organisation.</dd> <dt>(4)</dt><dd>Subject to section 11, the function of the Commission under paragraph (1)(q) may be performed at the discretion of the Commission.</dd> <dt>(5)</dt><dd>The Commission may perform its functions to the extent only that they are not in excess of the functions that may be conferred on it by virtue of any of the legislative powers of the Parliament, and, in particular, may perform its functions: </dd> </dl>
 
-                             (ii)  persons who have achieved, or who have the potential to achieve, standards of excellence as sports coaches, umpires, referees or officials essential to the conduct of sport;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  to initiate, encourage and facilitate research and development in relation to sport;
+<dt>(a)</dt><dd>by way of expenditure of money that is available for the purposes of the
 
-                      (f)  to undertake research and development related to sports science and sports medicine;
+Commission in accordance with an appropriation made by the Parliament;</dd>
 
-                     (g)  to provide sports medicine services and sports science services to persons participating in programs of the Commission;
+<dt>(b)</dt><dd>for purposes related to the collection of statistics;</dd>
 
-                     (h)  to establish, manage, develop and maintain facilities for the purposes of the Commission;
+<dt>(c)</dt><dd>for purposes related to external affairs; and</dd>
 
-                      (j)  to collect and distribute information, and provide advice, on matters related to the activities of the Commission;
+<dt>(d)</dt><dd>for purposes in relation to a Territory.
 
-                     (k)  for the purpose of fostering co-operation in sport between Australia and other countries, to provide access to persons from other countries to the resources, services and facilities of the Commission;
+</dd>
 
-                    (m)  to raise money through the Australian Sports Foundation, or by other means, for the purposes of the Commission;
+</dl></dl></dl>
 
-                     (n)  to administer and expend money appropriated by the Parliament, or raised in accordance with paragraph (m), for the purposes of the Commission;
+<dl compact="">
 
-                     (p)  to consult and co-operate with appropriate authorities of the Commonwealth, of the States and of the Territories, and with other persons, associations and organisations, on matters related to the activities of the Commission; and
+<dt>(6)</dt><dd>In this section, _Australian Olympic Federation_ means the
 
-                     (q)  to provide advice on matters related to sport to the Australian Olympic Federation or other persons, bodies or associations; and
+Australian Olympic Federation Incorporated, being an association incorporated
 
-                      (r)  to co-operate with national and international sporting organisations in aiming to foster a sporting environment that is free from the unsanctioned use of performance enhancing drugs and doping methods.
+on 24 April 1985 under the _Associations Incorporation Act 1985_ of
 
-             (2)  The functions of the Commission may be performed within or outside Australia.
+Victoria.
 
-             (3)  The Commission may perform any of its functions in co-operation with a State or Territory or any person, association or organisation.
+</dd> </dl>
 
-             (4)  Subject to section 11, the function of the Commission under paragraph (1)(q) may be performed at the discretion of the Commission.
+**
 
-             (5)  The Commission may perform its functions to the extent only that they are not in excess of the functions that may be conferred on it by virtue of any of the legislative powers of the Parliament, and, in particular, may perform its functions:
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 8  Powers 
+**
 
-                     (a)  by way of expenditure of money that is available for the purposes of the Commission in accordance with an appropriation made by the Parliament;
+ <dl compact="">
 
-                     (b)  for purposes related to the collection of statistics;
+<dt>(1)</dt><dd>The Commission has power to do all things necessary or convenient to be
 
-                     (c)  for purposes related to external affairs; and
+done for or in connection with the performance of its functions and, in
 
-                     (d)  for purposes in relation to a Territory.
+particular, may:
 
-             (6)  In this section, **_Australian Olympic Federation_** means the Australian Olympic Federation Incorporated, being an association incorporated on 24 April 1985 under the _Associations Incorporation Act 1985_ of Victoria.
+</dd> </dl>
 
-##### <a id="8"></a>8  Powers
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  The Commission has power to do all things necessary or convenient to be done for or in connection with the performance of its functions and, in particular, may:
+<dt>(a)</dt><dd>enter into contracts; and</dd>
 
-                     (a)  enter into contracts; and
+<dt>(b)</dt><dd>acquire, hold and dispose of real or personal property; and</dd>
 
-                     (b)  acquire, hold and dispose of real or personal property; and
+<dt>(c)</dt><dd>occupy, use and control any land or building owned or held under lease by
 
-                     (c)  occupy, use and control any land or building owned or held under lease by the Commonwealth and made available for the purposes of the Commission; and
+the Commonwealth and made available for the purposes of the Commission; and</dd>
 
-                     (d)  make grants or lend money, and provide scholarships or like benefits; and
+<dt>(d)</dt><dd>make grants or lend money, and provide scholarships or like benefits;
 
-                     (e)  appoint agents and attorneys, and act as an agent for other persons; and
+and</dd>
 
-                      (f)  engage persons to perform services for the Commission; and
+<dt>(e)</dt><dd>appoint agents and attorneys, and act as an agent for other persons; and</dd>
 
-                     (g)  accept gifts, grants, bequests and devises made to the Commission (whether on trust or otherwise) and act as trustee of money or other property vested in the Commission on trust; and
+<dt>(f)</dt><dd>engage persons to perform services for the Commission; and</dd>
 
-                     (h)  erect buildings and structures and carry out works; and
+<dt>(g)</dt><dd>accept gifts, grants, bequests and devises made to the Commission (whether
 
-                      (j)  obtain commercial sponsorship for the Commission and participate in marketing arrangements involving the endorsement by the Commission of products and services associated with sport; and
+on trust or otherwise) and act as trustee of money or other property vested in
 
-                     (k)  arrange for the manufacture of, and distribute (whether by way of sale or otherwise), any article or thing bearing a mark, symbol or writing that is associated with the Commission; and
+the Commission on trust; and</dd>
 
-                    (m)  provide (whether by sale or otherwise) goods and services to persons using, or otherwise attending at, facilities of the Commission; and
+<dt>(h)</dt><dd>erect buildings and structures and carry out works; and</dd>
 
-                   (ma)  despite subsection 46(2), obtain goods or services on credit from any person by the use of a credit card; and
+<dt>(j)</dt><dd>obtain commercial sponsorship for the Commission and participate in
 
-                     (n)  do anything incidental to any of its powers.
+marketing arrangements involving the endorsement by the Commission of products
 
-             (2)  The Commission may charge such fees, or impose such charges, as are reasonable in respect of:
+and services associated with sport; and</dd>
 
-                     (a)  access to, or use of, any of the resources or facilities of the Commission;
+<dt>(k)</dt><dd>arrange for the manufacture of, and distribute (whether by way of sale or
 
-                     (b)  the provision of programs, services, information or advice by the Commission; and
+otherwise), any article or thing bearing a mark, symbol or writing that is
 
-                     (c)  the admission of persons to events and activities conducted by the Commission.
+associated with the Commission; and</dd>
 
-             (3)  The powers of the Commission may be exercised within or outside Australia.
+<dt>(m)</dt><dd>provide (whether by sale or otherwise) goods and services to persons
 
-##### <a id="9"></a>9  Commission to operate under the name Australian Institute of Sport when performing certain functions
+using, or otherwise attending at, facilities of the Commission; and</dd>
 
-                   The Commission shall, in connection with the performance of:
+<dt>(ma)</dt><dd>despite subsection 46(2), obtain goods or services on credit from any
 
-                     (a)  its functions under paragraphs 7(1)(d), (f), (g) and (h); and
+person by the use of a credit card; and</dd>
 
-                     (b)  such other of its functions (if any) as it considers appropriate;
+<dt>(n)</dt><dd>do anything incidental to any of its powers.
 
-operate under the name “Australian Institute of Sport”.
+</dd>
 
-##### <a id="10"></a>10  Australian Sports Foundation
+</dl></dl></dl>
 
-             (1)  As soon as practicable after the commencement of this Act, the Commission shall arrange for the name of the company known as the “Australian Sports Aid Foundation” (being the company that was incorporated in the Australian Capital Territory on 18 February 1986 under the _Companies Act 1981_ for the purpose of section 8 of the _Australian Sports Commission Act 1985_) to be changed to the “Australian Sports Foundation”.
+<dl compact="">
 
-             (2)  After the change of name of the company in accordance with subsection (1) the company is not authorised to change its name.
+<dt>(2)</dt><dd>The Commission may charge such fees, or impose such charges, as are
 
-             (3)  The purpose of the company is to raise money for the development of sport in Australia.
+reasonable in respect of:
 
-             (4)  Except to the extent necessary for the performance of its functions in relation to the Commission, the company is not empowered to do anything that the Commission is not empowered to do.
+</dd> </dl>
 
-##### <a id="11"></a>11  Minister may give directions
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  Subject to subsection (2), the Minister may give written directions to the Commission with respect to the policies and practices to be followed by the Commission in the performance of its functions, and the exercise of its powers, and the Commission shall comply with the directions.
+<dt>(a)</dt><dd>access to, or use of, any of the resources or facilities of the
 
-             (2)  The Minister shall not give a direction to the Commission under subsection (1) unless the Minister:
+Commission;</dd>
 
-                     (a)  has informed the Commission, in writing, that the Minister is considering giving the direction; and
+<dt>(b)</dt><dd>the provision of programs, services, information or advice by the
 
-                     (b)  has given the Chairperson an opportunity to discuss the need for the proposed direction with the Minister.
+Commission; and</dd>
 
-             (3)  The Minister shall cause a copy of each direction given under subsection (1):
+<dt>(c)</dt><dd>the admission of persons to events and activities conducted by the
 
-                     (a)  to be published in the _Gazette_ as soon as practicable after giving the direction; and
+Commission.
 
-                     (b)  to be laid before each House of the Parliament within 15 sitting days of that House after giving the direction.
+</dd>
 
-##### <a id="12"></a>12  Access to facilities by individuals and community groups
+</dl></dl></dl>
 
-                   The Commission shall, to the extent that it is practicable to do so having regard to the objects for which it was established and its functions, allow individuals and groups within the community to have access to, and to make use of, the resources, services and facilities of the Commission, whether or not for purposes related to sport.
+<dl compact="">
 
-## Part III—Constitution and meetings of the Commission
+<dt>(3)</dt><dd>The powers of the Commission may be exercised within or outside Australia.
 
-##### <a id="13"></a>13  Membership of Commission
+</dd> </dl>
 
-             (1)  The Commission shall consist of:
+<center>Back to Top</center>
 
-                     (a)  the Chairperson; and
+**
 
-                     (b)  the Deputy Chairperson; and
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 9  Commission to operate under the name Australian Institute of Sport when performing certain functions 
+**
 
-                    (ba)  the Secretary to the Department; and
+<dl compact="">
 
-                     (c)  not fewer than 5 nor more than 10 other members.
+		The Commission shall, in connection with the performance of:
 
-             (2)  A member referred to in paragraph (1)(a), (b) or (c) shall be appointed by the Minister.
+ </dl>
 
-             (3)  A member referred to in paragraph (1)(a) or (b):
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  may be appointed on a full-time or part-time basis; and
+<dt>(a)</dt><dd>its functions under paragraphs 7(1)(d), (f), (g) and (h); and</dd>
 
-                     (b)  holds office for such period, not exceeding 5 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
+<dt>(b)</dt><dd>such other of its functions (if any) as it considers appropriate;
 
-             (4)  A member referred to in paragraph (1)(c):
+</dd>
 
-                     (a)  shall be appointed on a part-time basis; and
+</dl></dl></dl>
 
-                     (b)  holds office for such period, not exceeding 3 years, as is specified in the instrument of appointment, but is eligible for re-appointment.
+operate under the name "Australian Institute of Sport". 
 
-             (6)  The appointment of a member is not invalid because of a defect or irregularity in connection with the member’s appointment.
+**
 
-             (7)  The exercise of the powers, or the performance of the functions, of the Commission is not affected merely because:
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 10  Australian Sports Foundation 
+**
 
-                     (a)  there is a vacancy in the office of Chairperson or Deputy Chairperson or the office of Secretary to the Department; or
+ <dl compact="">
 
-                     (b)  the number of persons appointed under paragraph (1)(c) falls below 5 for not longer than 3 months.
+<dt>(1)</dt><dd>As soon as practicable after the commencement of this Act, the Commission
 
-             (8)  A member holds office on such terms and conditions (if any), in respect of matters not provided for by this Act, as are determined in writing by the Minister.
+shall arrange for the name of the company known as the "Australian Sports Aid
 
-##### <a id="14"></a>14  Leave of absence
+Foundation" (being the company that was incorporated in the Australian Capital
 
-             (1)  A full-time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+Territory on 18 February 1986 under the _Companies Act 1981_ for the
 
-             (2)  The Minister may:
+purpose of section 8 of the _Australian Sports Commission Act 1985_) to be
 
-                     (a)  if the Chairperson is appointed on a full-time basis—grant to the Chairperson leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines; or
+changed to the "Australian Sports Foundation".</dd> <dt>(2)</dt><dd>After the change of name of the company in accordance with subsection (1) the company is not authorised to change its name.</dd> <dt>(3)</dt><dd>The purpose of the company is to raise money for the development of sport in Australia.</dd> <dt>(4)</dt><dd>Except to the extent necessary for the performance of its functions in relation to the Commission, the company is not empowered to do anything that the Commission is not empowered to do. </dd> </dl>
 
-                     (b)  if the Chairperson is appointed on a part-time basis—grant to the Chairperson leave to be absent from a meeting or meetings of the Commission.
+**
 
-             (3)  The Chairperson may:
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 11  Minister may give directions 
+**
 
-                     (a)  grant to a full-time member, other than the Chairperson, leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Chairperson determines; and
+ <dl compact="">
 
-                     (b)  grant to a part-time member, other than the Chairperson, leave to be absent from a meeting or meetings of the Commission.
+<dt>(1)</dt><dd>Subject to subsection (2), the Minister may give written directions to the
 
-##### <a id="15"></a>15  Resignation
+Commission with respect to the policies and practices to be followed by the
 
-             (1)  The Chairperson may resign the office of Chairperson by writing signed by the Chairperson and delivered to the Minister.
+Commission in the performance of its functions, and the exercise of its powers,
 
-             (2)  The Deputy Chairperson may resign the office of Deputy Chairperson by writing signed by the Deputy Chairperson and delivered to the Minister.
+and the Commission shall comply with the directions.</dd> <dt>(2)</dt><dd>The Minister shall not give a direction to the Commission under subsection <dt>(1)</dt><dd>unless the Minister: </dd>
 
-             (3)  An appointed member (other than the Chairperson or Deputy Chairperson) may resign his or her office by writing signed by the member and delivered to the Minister.
+</dd></dl>
 
-##### <a id="16"></a>16  Outside employment
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  A member appointed on a full-time basis shall not, except with the approval of the Minister, engage in paid employment outside the duties of the office of the member.
+<dt>(a)</dt><dd>has informed the Commission, in writing, that the Minister is considering
 
-             (2)  A member appointed on a part-time basis shall not engage in any paid employment that, in the opinion of the Minister, conflicts with the proper performance of the functions of the member.
+giving the direction; and</dd>
 
-##### <a id="17"></a>17  Remuneration and allowances
+<dt>(b)</dt><dd>has given the Chairperson an opportunity to discuss the need for the
 
-             (1)  The Chairperson, the Deputy Chairperson and the other appointed members shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, an appointed member shall be paid such remuneration as is prescribed.
+proposed direction with the Minister.
 
-             (2)  An appointed member shall be paid such allowances as are prescribed.
+</dd>
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+</dl></dl></dl>
 
-##### <a id="19"></a>19  Termination of appointment
+<dl compact="">
 
-             (1)  The Minister may terminate the appointment of an appointed member for misbehaviour or physical or mental incapacity.
+<dt>(3)</dt><dd>The Minister shall cause a copy of each direction given under subsection
 
-             (2)  If an appointed member:
+(1):
 
-                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for the benefit of those creditors;
+</dd> </dl>
 
-                     (b)  fails, without reasonable excuse, to comply with an obligation imposed by section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  is absent, except on leave of absence granted under section 14, from 3 consecutive meetings of the Commission;
+<dt>(a)</dt><dd>to be published in the _Gazette_ as soon as practicable after giving
 
-                     (d)  being a member appointed on a full-time basis, engages, without the approval of the Minister, in any paid employment outside the duties of the office of the member; or
+the direction; and</dd>
 
-                     (e)  being a member appointed on a part-time basis, engages in any paid employment that, in the opinion of the Minister, conflicts with the proper performance of the functions of the member;
+<dt>(b)</dt><dd>to be laid before each House of the Parliament within 15 sitting days of
 
-the Minister shall terminate the appointment of the member.
+that House after giving the direction.
 
-##### <a id="20"></a>20  Acting appointments
+</dd>
 
-             (1)  The Minister may appoint the Deputy Chairperson, or the member appointed to act as Deputy Chairperson, to act as Chairperson:
+</dl></dl></dl>
 
-                     (a)  during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to the office; or
+**
 
-                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office of Chairperson;
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 12  Access to facilities by individuals and community groups 
+**
+
+ <dl compact="">
+
+		The Commission shall, to the extent that it is practicable to do so having
+
+regard to the objects for which it was established and its functions, allow
+
+individuals and groups within the community to have access to, and to make use
+
+of, the resources, services and facilities of the Commission, whether or not
+
+for purposes related to sport.
+
+ </dl>
+
+<center>**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<part>Part III&#151;Constitution and meetings of the Commission </part>
+**</center>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 13  Membership of Commission 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Commission shall consist of:
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Chairperson; and</dd>
+
+<dt>(b)</dt><dd>the Deputy Chairperson; and</dd>
+
+<dt>(ba)</dt><dd>the Secretary to the Department; and</dd>
+
+<dt>(c)</dt><dd>not fewer than 5 nor more than 10 other members.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>A member referred to in paragraph (1)(a), (b) or (c) shall be appointed by
+
+the Minister.</dd> <dt>(3)</dt><dd>A member referred to in paragraph (1)(a) or (b): </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>may be appointed on a full-time or part-time basis; and</dd>
+
+<dt>(b)</dt><dd>holds office for such period, not exceeding 5 years, as is specified in
+
+the instrument of appointment, but is eligible for re-appointment.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>A member referred to in paragraph (1)(c):
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>shall be appointed on a part-time basis; and</dd>
+
+<dt>(b)</dt><dd>holds office for such period, not exceeding 3 years, as is specified in
+
+the instrument of appointment, but is eligible for re-appointment.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>The appointment of a member is not invalid because of a defect or
+
+irregularity in connection with the member's appointment.</dd> <dt>(7)</dt><dd>The exercise of the powers, or the performance of the functions, of the Commission is not affected merely because: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>there is a vacancy in the office of Chairperson or Deputy Chairperson or
+
+the office of Secretary to the Department; or</dd>
+
+<dt>(b)</dt><dd>the number of persons appointed under paragraph (1)(c) falls below 5 for
+
+not longer than 3 months.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(8)</dt><dd>A member holds office on such terms and conditions (if any), in respect of
+
+matters not provided for by this Act, as are determined in writing by the
+
+Minister.
+
+</dd> </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 14  Leave of absence 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A full-time member has such recreation leave entitlements as are
+
+determined by the Remuneration Tribunal.</dd> <dt>(2)</dt><dd>The Minister may: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>if the Chairperson is appointed on a full-time basis&#151;grant to the
+
+Chairperson leave of absence, other than recreation leave, on such terms and
+
+conditions as to remuneration or otherwise as the Minister determines; or</dd>
+
+<dt>(b)</dt><dd>if the Chairperson is appointed on a part-time basis&#151;grant to the
+
+Chairperson leave to be absent from a meeting or meetings of the Commission.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>The Chairperson may:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>grant to a full-time member, other than the Chairperson, leave of absence,
+
+other than recreation leave, on such terms and conditions as to remuneration or
+
+otherwise as the Chairperson determines; and</dd>
+
+<dt>(b)</dt><dd>grant to a part-time member, other than the Chairperson, leave to be
+
+absent from a meeting or meetings of the Commission.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 15  Resignation 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Chairperson may resign the office of Chairperson by writing signed by
+
+the Chairperson and delivered to the Minister.</dd> <dt>(2)</dt><dd>The Deputy Chairperson may resign the office of Deputy Chairperson by writing signed by the Deputy Chairperson and delivered to the Minister.</dd> <dt>(3)</dt><dd>An appointed member (other than the Chairperson or Deputy Chairperson) may resign his or her office by writing signed by the member and delivered to the Minister. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 16  Outside employment 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A member appointed on a full-time basis shall not, except with the
+
+approval of the Minister, engage in paid employment outside the duties of the
+
+office of the member.</dd> <dt>(2)</dt><dd>A member appointed on a part-time basis shall not engage in any paid employment that, in the opinion of the Minister, conflicts with the proper performance of the functions of the member. </dd> </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 17  Remuneration and allowances 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Chairperson, the Deputy Chairperson and the other appointed members
+
+shall be paid such remuneration as is determined by the Remuneration Tribunal,
+
+but, if no determination of that remuneration by the Tribunal is in operation,
+
+an appointed member shall be paid such remuneration as is prescribed.</dd> <dt>(2)</dt><dd>An appointed member shall be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 19  Termination of appointment 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may terminate the appointment of an appointed member for
+
+misbehaviour or physical or mental incapacity.</dd> <dt>(2)</dt><dd>If an appointed member: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>becomes bankrupt, applies to take the benefit of any law for the relief of
+
+bankrupt or insolvent debtors, compounds with creditors or makes an assignment
+
+of remuneration for the benefit of those creditors;</dd>
+
+<dt>(b)</dt><dd>fails, without reasonable excuse, to comply with an obligation imposed by
+
+section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;</dd>
+
+<dt>(c)</dt><dd>is absent, except on leave of absence granted under section 14, from 3
+
+consecutive meetings of the Commission;</dd>
+
+<dt>(d)</dt><dd>being a member appointed on a full-time basis, engages, without the
+
+approval of the Minister, in any paid employment outside the duties of the
+
+office of the member; or</dd>
+
+<dt>(e)</dt><dd>being a member appointed on a part-time basis, engages in any paid
+
+employment that, in the opinion of the Minister, conflicts with the proper
+
+performance of the functions of the member;
+
+</dd>
+
+</dl></dl></dl>
+
+the Minister shall terminate the appointment of the member. 
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 20  Acting appointments 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister may appoint the Deputy Chairperson, or the member appointed
+
+to act as Deputy Chairperson, to act as Chairperson:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>during a vacancy in the office of Chairperson, whether or not an
+
+appointment has previously been made to the office; or</dd>
+
+<dt>(b)</dt><dd>during any period, or during all periods, when the Chairperson is absent
+
+from duty or from Australia or is, for any reason, unable to perform the duties
+
+of the office of Chairperson;
+
+</dd>
+
+</dl></dl></dl>
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (2)  The Minister may appoint a member to act as Deputy Chairperson:
+<dl compact="">
 
-                     (a)  during a vacancy in the office of Deputy Chairperson, whether or not an appointment has previously been made to the office; or
+<dt>(2)</dt><dd>The Minister may appoint a member to act as Deputy Chairperson:
 
-                     (b)  during any period, or during all periods, when the Deputy Chairperson is absent from duty or from Australia or is, for any reason (including the reason that the Deputy Chairperson is acting as the Chairperson), unable to perform the duties of the office of Deputy Chairperson;
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>during a vacancy in the office of Deputy Chairperson, whether or not an
+
+appointment has previously been made to the office; or</dd>
+
+<dt>(b)</dt><dd>during any period, or during all periods, when the Deputy Chairperson is
+
+absent from duty or from Australia or is, for any reason (including the reason
+
+that the Deputy Chairperson is acting as the Chairperson), unable to perform
+
+the duties of the office of Deputy Chairperson;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (3)  The Minister may appoint a person to act as a member referred to in paragraph 13(1)(c):
+<dl compact="">
 
-                     (a)  during a vacancy in the office of that member, whether or not an appointment has previously been made to the office; or
+<dt>(3)</dt><dd>The Minister may appoint a person to act as a member referred to in
 
-                     (b)  during any period, or during all periods, when that member is absent from duty or from   Australia or is, for any reason (including the reason that the member is acting as the Chairperson or Deputy Chairperson), unable to perform the duties of the office of member;
+paragraph 13(1)(c):
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>during a vacancy in the office of that member, whether or not an
+
+appointment has previously been made to the office; or</dd>
+
+<dt>(b)</dt><dd>during any period, or during all periods, when that member is absent from
+
+duty or from Australia or is, for any reason (including the reason that the
+
+member is acting as the Chairperson or Deputy Chairperson), unable to perform
+
+the duties of the office of member;
+
+</dd>
+
+</dl></dl></dl>
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (4)  Anything done by or in relation to a person purporting to act under subsection (1), (2) or (3) is not invalid because:
+<dl compact="">
 
-                     (a)  the occasion for the person’s appointment had not arisen;
+<dt>(4)</dt><dd>Anything done by or in relation to a person purporting to act under
 
-                     (b)  there was a defect or irregularity in connection with the person’s appointment;
+subsection (1), (2) or (3) is not invalid because:
 
-                     (c)  the person’s appointment had ceased to have effect; or
+</dd> </dl>
 
-                     (d)  the occasion for the person to act had not arisen or had ceased.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="21"></a>21  Meetings of Commission
+<dt>(a)</dt><dd>the occasion for the person's appointment had not arisen;</dd>
 
-             (1)  The Commission shall hold such meetings as are necessary for the efficient performance of its functions.
+<dt>(b)</dt><dd>there was a defect or irregularity in connection with the person's
 
-             (2)  The Chairperson:
+appointment;</dd>
 
-                     (a)  may, at any time, convene a meeting of the Commission; and
+<dt>(c)</dt><dd>the person's appointment had ceased to have effect; or</dd>
 
-                     (b)  shall, on receipt of a written request signed by not less than 3 other members, convene a meeting of the Commission.
+<dt>(d)</dt><dd>the occasion for the person to act had not arisen or had ceased.
 
-             (3)  The Minister may, at any time, convene a meeting of the Commission.
+</dd>
 
-             (4)  The Chairperson shall preside at all meetings of the Commission at which he or she is present.
+</dl></dl></dl>
 
-             (5)  Where the Chairperson is not present at a meeting of the Commission, the Deputy Chairperson shall preside, or, if the Deputy Chairperson is not present, the members present shall appoint one of their number to preside at the meeting.
+**
 
-             (6)  Subject to this Act, the person presiding at a meeting may give directions regarding the procedure to be followed at or in connection with that meeting.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 21  Meetings of Commission 
+**
 
-             (7)  At a meeting:
+ <dl compact="">
 
-                     (a)  5 members constitute a quorum;
+<dt>(1)</dt><dd>The Commission shall hold such meetings as are necessary for the efficient
 
-                     (b)  all questions shall be decided by a majority of votes of the members present and voting; and
+performance of its functions.</dd> <dt>(2)</dt><dd>The Chairperson: </dd> </dl>
 
-                     (c)  the person presiding has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (8)  Where a majority of the members (being a majority of the members that includes the Chairperson) sign a document containing a statement that they are in favour of a resolution in terms set out in the document, a resolution in those terms shall be taken to have been passed at a duly constituted meeting of the Commission held on the day on which the document was signed, or, if the members sign the document on different days, on the last of those days.
+<dt>(a)</dt><dd>may, at any time, convene a meeting of the Commission; and</dd>
 
-             (9)  For the purposes of subsection (8), 2 or more separate documents containing statements in identical terms each of which is signed by one or more members shall together be taken to constitute one document containing a statement in those terms signed by those members on the respective days on which they signed the separate documents.
+<dt>(b)</dt><dd>shall, on receipt of a written request signed by not less than 3 other
 
-           (10)  A member shall not sign, under subsection (8), a document containing a statement in favour of a resolution if the resolution is in respect of a matter in which the member has a material personal interest.
+members, convene a meeting of the Commission.
 
-           (11)  The Commission shall keep records of its meetings and records of resolutions taken to have been passed in accordance with subsection (8).
+</dd>
 
-           (12)  The Commission may invite a person to attend a meeting of the Commission for the purpose of advising or informing the Commission on any matter.
+</dl></dl></dl>
 
-##### <a id="22"></a>22  Committees
+<dl compact="">
 
-             (1)  The Commission may establish such committees as it thinks fit, and a committee shall assist the Commission as directed by the Commission.
+<dt>(3)</dt><dd>The Minister may, at any time, convene a meeting of the Commission.</dd> <dt>(4)</dt><dd>The Chairperson shall preside at all meetings of the Commission at which he or she is present.</dd> <dt>(5)</dt><dd>Where the Chairperson is not present at a meeting of the Commission, the Deputy Chairperson shall preside, or, if the Deputy Chairperson is not present, the members present shall appoint one of their number to preside at the meeting.</dd> <dt>(6)</dt><dd>Subject to this Act, the person presiding at a meeting may give directions regarding the procedure to be followed at or in connection with that meeting.</dd> <dt>(7)</dt><dd>At a meeting: </dd> </dl>
 
-             (2)  A committee shall be constituted wholly by members of the Commission or partly by members of the Commission and partly by other persons.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  Where a committee is constituted partly by members of the Commission and partly by other persons, the Chairperson of the committee shall be a person who is a member of the Commission.
+<dt>(a)</dt><dd>5 members constitute a quorum;</dd>
 
-             (4)  The number of members of a committee required to constitute a quorum at a meeting of that committee shall be as specified by the Commission.
+<dt>(b)</dt><dd>all questions shall be decided by a majority of votes of the members
 
-             (5)  A member of a committee who is not also a member, or an employee, of the Commission shall be paid such remuneration and allowances (if any) as the Commission determines.
+present and voting; and</dd>
 
-             (6)  The office of member of a committee is not a public office within the meaning of the _Remuneration Tribunal Act 1973_.
+<dt>(c)</dt><dd>the person presiding has a deliberative vote and, in the event of an
 
-             (7)  Sections 27F to 27L of the _Commonwealth Authorities and Companies Act 1997_ apply to a member of a committee as if:
+equality of votes, also has a casting vote.
 
-                     (a)  the committee were the Board referred to in that section; and
+</dd>
 
-                     (b)  the member were a director of a Commonwealth authority referred to in that section; and
+</dl></dl></dl>
 
-                     (c)  the Commission were the responsible Minister referred to in that section.
+<dl compact="">
 
-## Part IV—Strategic plans and annual operational plans
+<dt>(8)</dt><dd>Where a majority of the members (being a majority of the members that
 
-##### <a id="23"></a>23  Strategic plans
+includes the Chairperson) sign a document containing a statement that they are
 
-             (1)  The Commission shall develop, and prepare in writing, for each successive period determined in accordance with subsection (2), a strategic plan setting out the manner in which it is proposed that its functions will be performed during that period.
+in favour of a resolution in terms set out in the document, a resolution in
 
-             (2)  The first strategic plan prepared in accordance with this section shall be expressed to relate to a period of 4 years commencing on a day occurring within 12 months after the commencement of this Act and each subsequent strategic plan shall be expressed to relate to the period of 4 years commencing at the end of the period to which the immediately preceding strategic plan relates.
+those terms shall be taken to have been passed at a duly constituted meeting of
 
-             (3)  Each strategic plan prepared in accordance with this section shall be laid before each House of the Parliament within 15 sitting days of that House after approval by the Minister of the plan.
+the Commission held on the day on which the document was signed, or, if the
 
-##### <a id="24"></a>24  Approval and commencement of strategic plans
+members sign the document on different days, on the last of those days.</dd> <dt>(9)</dt><dd>For the purposes of subsection (8), 2 or more separate documents containing statements in identical terms each of which is signed by one or more members shall together be taken to constitute one document containing a statement in those terms signed by those members on the respective days on which they signed the separate documents.</dd> <dt>(10)</dt><dd>A member shall not sign, under subsection (8), a document containing a statement in favour of a resolution if the resolution is in respect of a matter in which the member has a material personal interest.</dd> <dt>(11)</dt><dd>The Commission shall keep records of its meetings and records of resolutions taken to have been passed in accordance with subsection (8).</dd> <dt>(12)</dt><dd>The Commission may invite a person to attend a meeting of the Commission for the purpose of advising or informing the Commission on any matter. </dd> </dl>
 
-                   A strategic plan prepared in accordance with section 23 shall be submitted to the Minister for approval not less than 3 months, or such lesser period as the Minister, in special circumstances, allows, before the day of commencement of the period to which the strategic plan relates and shall come into force on:
+<center>Back to Top</center>
 
-                     (a)  the day on which it is approved by the Minister; or
+**
 
-                     (b)  the day of commencement of the period to which it relates;
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 22  Committees 
+**
 
-whichever is the later.
+ <dl compact="">
 
-##### <a id="25"></a>25  Variation of strategic plans
+<dt>(1)</dt><dd>The Commission may establish such committees as it thinks fit, and a
 
-             (1)  The Commission shall, from time to time, during the period in respect of which a strategic plan prepared in accordance with section 23 is in force, consider whether a variation of the strategic plan is necessary.
+committee shall assist the Commission as directed by the Commission.</dd> <dt>(2)</dt><dd>A committee shall be constituted wholly by members of the Commission or partly by members of the Commission and partly by other persons.</dd> <dt>(3)</dt><dd>Where a committee is constituted partly by members of the Commission and partly by other persons, the Chairperson of the committee shall be a person who is a member of the Commission.</dd> <dt>(4)</dt><dd>The number of members of a committee required to constitute a quorum at a meeting of that committee shall be as specified by the Commission.</dd> <dt>(5)</dt><dd>A member of a committee who is not also a member, or an employee, of the Commission shall be paid such remuneration and allowances (if any) as the Commission determines.</dd> <dt>(6)</dt><dd>The office of member of a committee is not a public office within the meaning of the _Remuneration Tribunal Act 1973_.</dd> <dt>(7)</dt><dd>Sections 27F to 27L of the _Commonwealth Authorities and Companies Act 1997_ apply to a member of a committee as if: </dd> </dl>
 
-             (2)  Where the Commission considers that a variation of a strategic plan is necessary, the Commission may, with the approval of the Minister, vary the strategic plan.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  Where a variation of a strategic plan is approved by the Minister the plan as so varied shall continue in force on and after the day on which the variation is so approved as if the plan had originally been approved by the Minister as so varied.
+<dt>(a)</dt><dd>the committee were the Board referred to in that section; and</dd>
 
-##### <a id="26"></a>26  Annual operational plan
+<dt>(b)</dt><dd>the member were a director of a Commonwealth authority referred to in that
 
-             (1)  The Commission shall develop, and prepare in writing, in respect of each financial year ending after the commencement of this Act, an operational plan, setting out particulars of:
+section; and</dd>
 
-                     (a)  the programs the Commission proposes to carry out; and
+<dt>(c)</dt><dd>the Commission were the responsible Minister referred to in that section.
 
-                     (b)  the resources the Commission proposes to allocate to each such program;
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<part>Part IV&#151;Strategic plans and annual operational plans </part>
+**</center>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 23  Strategic plans 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Commission shall develop, and prepare in writing, for each successive
+
+period determined in accordance with subsection (2), a strategic plan setting
+
+out the manner in which it is proposed that its functions will be performed
+
+during that period.</dd> <dt>(2)</dt><dd>The first strategic plan prepared in accordance with this section shall be expressed to relate to a period of 4 years commencing on a day occurring within 12 months after the commencement of this Act and each subsequent strategic plan shall be expressed to relate to the period of 4 years commencing at the end of the period to which the immediately preceding strategic plan relates.</dd> <dt>(3)</dt><dd>Each strategic plan prepared in accordance with this section shall be laid before each House of the Parliament within 15 sitting days of that House after approval by the Minister of the plan. </dd> </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 24  Approval and commencement of strategic plans 
+**
+
+ <dl compact="">
+
+		A strategic plan prepared in accordance with section 23 shall be submitted to
+
+the Minister for approval not less than 3 months, or such lesser period as the
+
+Minister, in special circumstances, allows, before the day of commencement of
+
+the period to which the strategic plan relates and shall come into force on:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the day on which it is approved by the Minister; or</dd>
+
+<dt>(b)</dt><dd>the day of commencement of the period to which it relates;
+
+</dd>
+
+</dl></dl></dl>
+
+whichever is the later. 
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 25  Variation of strategic plans 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Commission shall, from time to time, during the period in respect of
+
+which a strategic plan prepared in accordance with section 23 is in force,
+
+consider whether a variation of the strategic plan is necessary.</dd> <dt>(2)</dt><dd>Where the Commission considers that a variation of a strategic plan is necessary, the Commission may, with the approval of the Minister, vary the strategic plan.</dd> <dt>(3)</dt><dd>Where a variation of a strategic plan is approved by the Minister the plan as so varied shall continue in force on and after the day on which the variation is so approved as if the plan had originally been approved by the Minister as so varied. </dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 26  Annual operational plan 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Commission shall develop, and prepare in writing, in respect of each
+
+financial year ending after the commencement of this Act, an operational plan,
+
+setting out particulars of:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the programs the Commission proposes to carry out; and</dd>
+
+<dt>(b)</dt><dd>the resources the Commission proposes to allocate to each such program;
+
+</dd>
+
+</dl></dl></dl>
 
 during that year in giving effect to the strategic plan that relates, or the intended strategic plan that will relate, to a period that includes that year or a part of that year.
 
-             (2)  If the Minister is of the opinion that an operational plan in relation to a financial year is inconsistent with the strategic plan relating to the period that includes that year or a part of that year, the Minister may, in writing, request the Commission to revise the operational plan.
+<dl compact="">
 
-             (3)  The Commission may, at any time, revise an operational plan, and shall revise the plan if the Minister requests it under subsection (2) to do so and gives written reasons for the request.
+<dt>(2)</dt><dd>If the Minister is of the opinion that an operational plan in relation to
 
-             (4)  An operational plan, or a revision of an operational plan:
+a financial year is inconsistent with the strategic plan relating to the period
 
-                     (a)  shall be submitted to the Minister as soon as practicable; and
+that includes that year or a part of that year, the Minister may, in writing,
 
-                     (b)  comes into force when it is approved, in writing, by the Minister.
+request the Commission to revise the operational plan.</dd> <dt>(3)</dt><dd>The Commission may, at any time, revise an operational plan, and shall revise the plan if the Minister requests it under subsection (2) to do so and gives written reasons for the request.</dd> <dt>(4)</dt><dd>An operational plan, or a revision of an operational plan: </dd> </dl>
 
-             (5)  The Minister shall approve an operational plan, or a revision of an operational plan, unless the Minister is of the opinion that the plan, or the plan as proposed to be revised, as the case may be, is inconsistent with the strategic plan.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="27"></a>27  Compliance with plans
+<dt>(a)</dt><dd>shall be submitted to the Minister as soon as practicable; and</dd>
 
-                   To the extent that it is practicable to do so and subject to this Act, the Commission shall perform its functions and exercise its powers in a manner that is consistent with, and is designed to give effect to, any strategic plan and any operational plan that are in force.
+<dt>(b)</dt><dd>comes into force when it is approved, in writing, by the Minister.
 
-## Part V—Executive Director and Director of Institute
+</dd>
 
-##### <a id="28"></a>28  Executive Director
+</dl></dl></dl>
 
-             (1)  There shall be an Executive Director of the Commission who shall be appointed by the Commission.
+<dl compact="">
 
-             (3)  The Commission shall not appoint a member as Executive Director.
+<dt>(5)</dt><dd>The Minister shall approve an operational plan, or a revision of an
 
-             (4)  The appointment of a person as Executive Director is not invalid because of a defect or irregularity in connection with the person’s appointment.
+operational plan, unless the Minister is of the opinion that the plan, or the
 
-##### <a id="29"></a>29  Duties of Executive Director
+plan as proposed to be revised, as the case may be, is inconsistent with the
 
-             (1)  The Executive Director shall manage the affairs of the Commission subject to the directions of, and in accordance with policies determined by, the Commission.
+strategic plan.
 
-             (2)  All acts and things done in the name of, or on behalf of, the Commission by the Executive Director, for the purposes of this Act, shall be taken to have been done by the Commission.
+</dd> </dl>
 
-##### <a id="30"></a>30  Director
+**
 
-             (1)  There shall be a Director of the Institute who shall be appointed by the Commission.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 27  Compliance with plans 
+**
 
-             (3)  The Commission shall not appoint a member as Director.
+ <dl compact="">
 
-             (4)  The appointment of a person as Director is not invalid because of a defect or irregularity in connection with the person’s appointment.
+		To the extent that it is practicable to do so and subject to this Act, the
 
-##### <a id="31"></a>31  Duties of Director
+Commission shall perform its functions and exercise its powers in a manner that
 
-             (1)  The Director shall, under the direction of the Executive Director and in accordance with policies determined by the Commission, conduct such of the affairs of the Commission as are relevant to the functions of the Commission referred to in section 9.
+is consistent with, and is designed to give effect to, any strategic plan and
 
-             (2)  All acts and things done in the name of, or on behalf of, the Commission by, or with the authority of, the Director, for the purposes of this Act, shall be taken to have been done by the Commission.
+any operational plan that are in force.
 
-##### <a id="32"></a>32  Tenure of Executive Director
+ </dl>
 
-                   The Executive Director shall hold office for such period, not exceeding 5 years, as is specified in the instrument of his or her appointment, but is eligible for re-appointment.
+<center>**
 
-##### <a id="33"></a>33  Remuneration and allowances
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<part>Part V&#151;Executive Director and Director of Institute </part>
+**</center>
 
-             (1)  The Executive Director shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no such determination of that remuneration by the Tribunal is in operation, the Executive Director shall be paid such remuneration as is prescribed.
+**
 
-             (2)  The Executive Director shall be paid such allowances as are prescribed.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 28  Executive Director 
+**
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+ <dl compact="">
 
-##### <a id="34"></a>34  Outside employment
+<dt>(1)</dt><dd>There shall be an Executive Director of the Commission who shall be
 
-                   The Executive Director shall not engage in paid employment outside the duties of his or her office except with the approval of the Commission.
+appointed by the Commission.</dd> <dt>(3)</dt><dd>The Commission shall not appoint a member as Executive Director.</dd> <dt>(4)</dt><dd>The appointment of a person as Executive Director is not invalid because of a defect or irregularity in connection with the person's appointment. </dd> </dl>
 
-##### <a id="35"></a>35  Leave of absence
+**
 
-             (1)  The Executive Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 29  Duties of Executive Director 
+**
 
-             (2)  The Commission may grant to the Executive Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Commission determines.
+ <dl compact="">
 
-##### <a id="36"></a>36  Resignation
+<dt>(1)</dt><dd>The Executive Director shall manage the affairs of the Commission subject
 
-                   The Executive Director may resign office by writing signed and delivered to the Chairperson.
+to the directions of, and in accordance with policies determined by, the
 
-##### <a id="37"></a>37  Disclosure of interests
+Commission.</dd> <dt>(2)</dt><dd>All acts and things done in the name of, or on behalf of, the Commission by the Executive Director, for the purposes of this Act, shall be taken to have been done by the Commission. </dd> </dl>
 
-                   The Executive Director shall give written notice to the Chairperson of all direct or indirect pecuniary interests that the Executive Director has or acquires in any business or in any body corporate carrying on any business.
+**
 
-##### <a id="38"></a>38  Terms and conditions of appointment not provided for by Act
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 30  Director 
+**
 
-                   The Executive Director holds office on such terms and conditions (if any), in relation to matters not provided for by this Act, as are determined by the Commission.
+ <dl compact="">
 
-##### <a id="39"></a>39  Acting Executive Director
+<dt>(1)</dt><dd>There shall be a Director of the Institute who shall be appointed by the
 
-             (1)  The Commission may appoint a person (other than a member) to act as Executive Director:
+Commission.</dd> <dt>(3)</dt><dd>The Commission shall not appoint a member as Director.</dd> <dt>(4)</dt><dd>The appointment of a person as Director is not invalid because of a defect or irregularity in connection with the person's appointment. </dd> </dl>
 
-                     (a)  during a vacancy in the office of Executive Director (whether or not an appointment has previously been made to the office); or
+<center>Back to Top</center>
 
-                     (b)  during any period, or during all periods, when the Executive Director is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office;
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 31  Duties of Director 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Director shall, under the direction of the Executive Director and in
+
+accordance with policies determined by the Commission, conduct such of the
+
+affairs of the Commission as are relevant to the functions of the Commission
+
+referred to in section 9.</dd> <dt>(2)</dt><dd>All acts and things done in the name of, or on behalf of, the Commission by, or with the authority of, the Director, for the purposes of this Act, shall be taken to have been done by the Commission. </dd> </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 32  Tenure of Executive Director 
+**
+
+ <dl compact="">
+
+		The Executive Director shall hold office for such period, not exceeding 5
+
+years, as is specified in the instrument of his or her appointment, but is
+
+eligible for re-appointment.
+
+ </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 33  Remuneration and allowances 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Executive Director shall be paid such remuneration as is determined by
+
+the Remuneration Tribunal, but, if no such determination of that remuneration
+
+by the Tribunal is in operation, the Executive Director shall be paid such
+
+remuneration as is prescribed.</dd> <dt>(2)</dt><dd>The Executive Director shall be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 34  Outside employment 
+**
+
+ <dl compact="">
+
+		The Executive Director shall not engage in paid employment outside the duties
+
+of his or her office except with the approval of the Commission.
+
+ </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 35  Leave of absence 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Executive Director has such recreation leave entitlements as are
+
+determined by the Remuneration Tribunal.</dd> <dt>(2)</dt><dd>The Commission may grant to the Executive Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Commission determines. </dd> </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 36  Resignation 
+**
+
+ <dl compact="">
+
+		The Executive Director may resign office by writing signed and delivered to
+
+the Chairperson.
+
+ </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 37  Disclosure of interests 
+**
+
+ <dl compact="">
+
+		The Executive Director shall give written notice to the Chairperson of all
+
+direct or indirect pecuniary interests that the Executive Director has or
+
+acquires in any business or in any body corporate carrying on any business.
+
+ </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 38  Terms and conditions of appointment not provided for by Act 
+**
+
+<dl compact="">
+
+		The Executive Director holds office on such terms and conditions (if any), in
+
+relation to matters not provided for by this Act, as are determined by the
+
+Commission.
+
+ </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 39  Acting Executive Director 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Commission may appoint a person (other than a member) to act as
+
+Executive Director:
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>during a vacancy in the office of Executive Director (whether or not an
+
+appointment has previously been made to the office); or</dd>
+
+<dt>(b)</dt><dd>during any period, or during all periods, when the Executive Director is
+
+absent from duty or from Australia or is, for any reason, unable to perform the
+
+duties of the office;
+
+</dd>
+
+</dl></dl></dl>
 
 but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-             (2)  Anything done by or in relation to a person purporting to act as Executive Director is not invalid because:
+<dl compact="">
 
-                     (a)  the occasion for the appointment had not arisen;
+<dt>(2)</dt><dd>Anything done by or in relation to a person purporting to act as Executive
 
-                     (b)  there was a defect or irregularity in connection with the appointment;
+Director is not invalid because:
 
-                     (c)  the appointment had ceased to have effect; or
+</dd> </dl>
 
-                     (d)  the occasion for the person to act as Executive Director had not arisen or had ceased.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="40"></a>40  Application of sections 32 to 39 to Director
+<dt>(a)</dt><dd>the occasion for the appointment had not arisen;</dd>
 
-                   Sections 32 to 39 (both inclusive) apply to the Director as if any reference in those sections to the Executive Director were a reference to the Director.
+<dt>(b)</dt><dd>there was a defect or irregularity in connection with the appointment;</dd>
 
-## Part VI—Staff and consultants
+<dt>(c)</dt><dd>the appointment had ceased to have effect; or</dd>
 
-##### <a id="41"></a>41  Employees
+<dt>(d)</dt><dd>the occasion for the person to act as Executive Director had not arisen or
 
-             (1)  The Executive Director may, on behalf of the Commission, employ such persons as the Commission considers necessary for the performance of its functions and the exercise of its powers.
+had ceased.
 
-             (2)  The terms and conditions of employment of a person employed under subsection (1) are such as are determined by the Commission.
+</dd>
 
-             (3)  The Executive Director may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_), or with a body established by an Act, for the services of officers or employees of that Agency or of that body to be made available to the Commission.
+</dl></dl></dl>
 
-##### <a id="42"></a>42  Consultants
+**
 
-             (1)  The Commission may engage persons having suitable qualifications and experience as consultants to the Commission.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 40  Application of sections 32 to 39 to Director 
+**
 
-             (2)  The terms and conditions of engagement shall be determined by the Commission.
+ <dl compact="">
 
-## Part VII—Finance
+		Sections 32 to 39 (both inclusive) apply to the Director as if any reference
 
-##### <a id="43"></a>43  Appropriation of money
+in those sections to the Executive Director were a reference to the Director.
 
-             (1)  There is payable to the Commission such money as is appropriated by the Parliament for the purposes of the Commission.
+ </dl>
 
-             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Commission.
+<center>**
 
-##### <a id="45"></a>45  Application of money
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<part>Part VI&#151;Staff and consultants </part>
+**</center>
 
-             (1)  The money of the Commission shall be applied only:
+**
 
-                     (a)  in payment or discharge of the expenses, charges, obligations and liabilities incurred or undertaken by the Commission in the performance of its functions and the exercise of its powers; and
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 41  Employees 
+**
 
-                     (b)  in payment of remuneration and allowances payable under this Act.
+ <dl compact="">
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+<dt>(1)</dt><dd>The Executive Director may, on behalf of the Commission, employ such
 
-##### <a id="46"></a>46  Borrowing from the Commonwealth
+persons as the Commission considers necessary for the performance of its
 
-             (1)  The Minister for Finance may, on behalf of the Commonwealth, out of money appropriated by the Parliament for the purpose, lend money to the Commission at such rates of interest and on such other terms and conditions as that Minister determines.
+functions and the exercise of its powers.</dd> <dt>(2)</dt><dd>The terms and conditions of employment of a person employed under subsection (1) are such as are determined by the Commission.</dd> <dt>(3)</dt><dd>The Executive Director may arrange with an Agency Head (within the meaning of the _Public Service Act 1999_), or with a body established by an Act, for the services of officers or employees of that Agency or of that body to be made available to the Commission. </dd> </dl>
 
-             (2)  The Commission shall not borrow money except in accordance with subsection (1).
+**
 
-             (3)  The Commission may give security over the whole or part of its assets for the repayment of amounts borrowed under subsection (1) and the payment of interest on amounts so borrowed.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 42  Consultants 
+**
 
-##### <a id="47"></a>47  Contracts
+ <dl compact="">
 
-             (1)  The Commission shall not, except with the written approval of the Minister:
+<dt>(1)</dt><dd>The Commission may engage persons having suitable qualifications and
 
-                     (a)  enter into a contract involving the payment or receipt by the Commission of an amount exceeding $500,000; or
+experience as consultants to the Commission.</dd> <dt>(2)</dt><dd>The terms and conditions of engagement shall be determined by the Commission. </dd> </dl>
 
-                     (b)  enter into a lease of land for a period of 10 years or more.
+<center>**
 
-             (2)  Paragraph (1)(a) does not apply to the investment of money by the Commission in accordance with subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<part>Part VII&#151;Finance </part>
+**</center>
 
-##### <a id="48"></a>48  Extra matters to be included in annual report
+**
 
-             (2)  The members must, in each report on the Commission under section 9 of the _Commonwealth Authorities and Companies Act 1997_:
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 43  Appropriation of money 
+**
 
-                    (aa)  specify the financial transactions and the state of the affairs of the Australian Sports Foundation;
+ <dl compact="">
 
-                     (a)  include particulars of each direction given to it by the Minister under subsection 11(1) that is applicable in relation to the financial year to which the report relates;
+<dt>(1)</dt><dd>There is payable to the Commission such money as is appropriated by the
 
-                     (b)  include an assessment of the extent to which its operations during the financial year to which the report relates have:
+Parliament for the purposes of the Commission.</dd> <dt>(2)</dt><dd>The Minister for Finance may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Commission. </dd> </dl>
 
-                              (i)  achieved its objectives as stated in the relevant strategic plan; and
+**
 
-                             (ii)  implemented the operational plan applicable to that financial year; and
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 45  Application of money 
+**
 
-                     (c)  include particulars of:
+ <dl compact="">
 
-                              (i)  significant capital works programs (if any) undertaken by the Commission during the financial year to which the report relates;
+<dt>(1)</dt><dd>The money of the Commission shall be applied only:
 
-                             (ii)  significant acquisitions and dispositions of real property by the Commission during that financial year; and
+</dd> </dl>
 
-                            (iii)  variations to the strategic plan and to the operational plan agreed to by the Minister during that financial year.
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="50"></a>50  Commission exempt from taxation
+<dt>(a)</dt><dd>in payment or discharge of the expenses, charges, obligations and
 
-             (1)  Subject to subsection (3), the income, property and transactions of the Commission are not subject to taxation (including taxation under the _Debits Tax Act 1982_) under the laws of the Commonwealth (other than laws relating to sales tax) or of a State or Territory.
+liabilities incurred or undertaken by the Commission in the performance of its
 
-             (2)  Subject to subsection (3), sales tax is not payable by the Commission, or by any other person, on goods that are for use by the Commission.
+functions and the exercise of its powers; and</dd>
 
-             (3)  The regulations may provide that subsection (1) or (2) does not apply in relation to taxation under a specified law.
+<dt>(b)</dt><dd>in payment of remuneration and allowances payable under this Act.
 
-##### <a id="51"></a>51  Foundation exempt from taxation
+</dd>
 
-             (1)  Subject to subsection (3), the income, property and transactions of the Australian Sports Foundation are not subject to taxation (including taxation under the _Debits Tax Act 1982_) under the laws of the Commonwealth (other than laws relating to sales tax) or of a State or Territory.
+</dl></dl></dl>
 
-             (2)  Subject to subsection (3), sales tax is not payable by the Foundation, or by any other person, on goods that are for use by the Foundation.
+<center>Back to Top</center>
 
-             (3)  The regulations may provide that subsection (1) or (2) does not apply in relation to taxation under a specified law.
+<dl compact="">
 
-## Part VIIA—Disclosure and use of protected etc. information
+<dt>(2)</dt><dd>Subsection (1) does not prevent investment of surplus money of the
 
-##### <a id="51A"></a>51A  Definitions
+Commission under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-                   In this Part, unless the contrary intention appears:
+</dd> </dl>
 
-                    <a name="anti-dope-polici"></a>**_anti-doping policy_** means any current written policy of the Commission or a sporting organisation, in respect of performance enhancing drugs or doping methods.
+**
 
-                    <a name="commiss-offici"></a>**_Commission official_** means:
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 46  Borrowing from the Commonwealth 
+**
 
-                     (a)  a member of the Commission; or
+ <dl compact="">
 
-                     (b)  a person employed by the Commission under section 41; or
+<dt>(1)</dt><dd>The Minister for Finance may, on behalf of the Commonwealth, out of money
 
-                     (c)  a consultant engaged by the Commission under section 42; or
+appropriated by the Parliament for the purpose, lend money to the Commission at
 
-                     (d)  the Executive Director; or
+such rates of interest and on such other terms and conditions as that Minister
 
-                     (e)  the Director.
+determines.</dd> <dt>(2)</dt><dd>The Commission shall not borrow money except in accordance with subsection (1).</dd> <dt>(3)</dt><dd>The Commission may give security over the whole or part of its assets for the repayment of amounts borrowed under subsection (1) and the payment of interest on amounts so borrowed. </dd> </dl>
 
-                    <a name="competitor"></a>**_competitor_** has the meaning given by section 2 of the _Australian Sports Drug Agency Act 1990_.
+**
 
-                    <a name="custom-ceo"></a>**_Customs CEO_** means the Chief Executive Officer of the Australian Customs Service referred to in section 4 of the _Customs Administration Act 1985_.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 47  Contracts 
+**
 
-                    <a name="dope-method"></a>**_doping method_**includes:
+ <dl compact="">
 
-                     (a)  the manipulation or substitution of any of the following:
+<dt>(1)</dt><dd>The Commission shall not, except with the written approval of the Minister:
 
-                              (i)  any human biological fluid;
+</dd> </dl>
 
-                             (ii)  any human biological tissue (whether alive or otherwise);
+<dl compact=""><dl compact=""><dl compact="">
 
-                            (iii)  any human breath;
+<dt>(a)</dt><dd>enter into a contract involving the payment or receipt by the Commission
 
-                            in a manner that is capable of concealing the use of a performance enhancing drug by the person concerned; and
+of an amount exceeding $500,000; or</dd>
 
-                     (b)  the use of a substance in a manner that is capable of concealing the use of a performance enhancing drug by the person concerned.
+<dt>(b)</dt><dd>enter into a lease of land for a period of 10 years or more.
 
-                    <a name="permit-anti-dope-purpos"></a>**_permitted anti-doping purposes_** has the meaning given by section 51AA.
+</dd>
 
-                    <a name="protect-inform"></a>**_protected information_** means information disclosed to the Commission under section 16 of the _Customs Administration Act 1985_.
+</dl></dl></dl>
 
-                    <a name="sport-organis"></a>**_sporting organisation_** means an organisation of a particular country, or a part of a country, or an international organisation, that:
+<dl compact="">
 
-                     (a)  has control of one or more sports or sporting events; or
+<dt>(2)</dt><dd>Paragraph (1)(a) does not apply to the investment of money by the
 
-                     (b)  organises or administers one or more sports or sporting events; or
+Commission in accordance with subsection 18(3) of the _Commonwealth Authorities and Companies Act 1997_.
 
-                     (c)  accredits people to take part in sporting competition; or
+</dd> </dl>
 
-                     (d)  provides teams to compete in sporting competition; or
+**
 
-                     (e)  trains, or provides finance for, people to take part in sporting competition.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 48  Extra matters to be included in annual report 
+**
 
-                    <a name="sport-substanc"></a>**_sports substance_** means a performance enhancing drug or a substance that is capable of concealing the use of a performance enhancing drug.
+ <dl compact="">
 
-##### <a id="51AA"></a>51AA  Meaning of _permitted anti-doping purposes_
+<dt>(2)</dt><dd>The members must, in each report on the Commission under section 9 of the
 
-             (1)  In this Part, **_permitted anti-doping purposes_** of a body, being the Commission or a sporting organisation, means any of the following purposes:
+_Commonwealth Authorities and Companies Act 1997_:
 
-                     (a)  investigating whether an anti-doping policy of the body has been breached;
+</dd> </dl>
 
-                     (b)  determining whether to take action under an anti-doping policy of the body;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (c)  determining what action to take under an anti-doping policy of the body;
+<dt>(aa)</dt><dd>specify the financial transactions and the state of the affairs of the
 
-                     (d)  taking action under an anti-doping policy of the body;
+Australian Sports Foundation;</dd>
 
-                     (e)  taking, or participating in, any proceedings relating to action that has been taken under an anti-doping policy of the body.
+<dt>(a)</dt><dd>include particulars of each direction given to it by the Minister under
 
-             (2)  For the purposes of subsection (1), taking action under the Commission’s anti-doping policy includes taking action, under an agreement, in relation to a person who is bound by the Commission’s anti-doping policy.
+subsection 11(1) that is applicable in relation to the financial year to which
 
-##### <a id="51B"></a>51B  Protected information that can be disclosed
+the report relates;</dd>
 
-                   For the purposes of subsection 16(3A) of the _Customs Administration Act 1985_, the Customs CEO cannot authorise the disclosure of information to the Commission unless the Customs CEO is satisfied that:
+<dt>(b)</dt><dd>include an assessment of the extent to which its operations during the
 
-                     (a)  the information relates to the importation into Australia, or the attempted importation into Australia, of a sports substance; and
+financial year to which the report relates have:
 
-                     (b)  at least one of the following conditions is satisfied:
+</dd>
 
-                              (i)  the importation or attempted importation contravenes a law of the Commonwealth;
+</dl></dl></dl>
 
-                             (ii)  there are reasonable grounds to suspect that a competitor is responsible for the importation or attempted importation;
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                            (iii)  there are reasonable grounds to suspect that the substance is for use by one or more competitors.
+<dt>(i)</dt><dd>achieved its objectives as stated in the relevant strategic plan; and</dd>
 
-##### <a id="51C"></a>51C  Disclosure of personal protected information
+<dt>(ii)</dt><dd>implemented the operational plan applicable to that financial year; and
 
-                   For the purposes of subsection 16(9) of the _Customs Administration Act 1985_, the purpose of the Executive Director determining if information should be used or disclosed for permitted anti-doping purposes is taken to be a permissible purpose referred to in a paragraph of that subsection.
+</dd>
 
-##### <a id="51D"></a>51D  Duty not to disclose protected information
+</dl></dl></dl></dl>
 
-             (1)  A Commission official must not disclose any protected information to a person who is not a Commission official, except:
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (a)  as authorised by the Executive Director under section 51DA or 51E; or
+<dt>(c)</dt><dd>include particulars of:
 
-                     (b)  as required or authorised by any other law; or
+</dd>
 
-                     (c)  if the disclosure is to a person to whom the information relates, or to someone acting on behalf of such a person.
+</dl></dl></dl>
 
-             (2)  For the avoidance of doubt, a Commission official is taken to be a Commonwealth officer for the purposes of section 70 of the _Crimes Act 1914._
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-Note:          Section 70 of the _Crimes Act 1914_ imposes secrecy obligations on Commonwealth officers.
+<dt>(i)</dt><dd>significant capital works programs (if any) undertaken by the Commission
 
-##### <a id="51DA"></a>51DA  Disclosure for certain permitted anti-doping purposes of the Commission
+during the financial year to which the report relates;</dd>
 
-Executive Director may authorise disclosure
+<dt>(ii)</dt><dd>significant acquisitions and dispositions of real property by the
 
-             (1)  The Executive Director may authorise the disclosure of protected information to a person who is not a Commission official if:
+Commission during that financial year; and</dd>
 
-                     (a)  the Executive Director is satisfied that the information should be disclosed to the person in the course of a permitted anti-doping purpose of the Commission that is described in paragraph 51AA(1)(d) or (e); and
+<dt>(iii)</dt><dd>variations to the strategic plan and to the operational plan agreed to
 
-                     (b)  the Executive Director is satisfied that the disclosure of the information would not contravene any terms of the authorisation under which the protected information was disclosed to the Commission.
+by the Minister during that financial year.
 
-Executive Director may specify other conditions etc.
+</dd>
 
-             (2)  The Executive Director may specify the manner in which, or the conditions under which, the disclosure is to be made (including the form in which the information is to be presented and the mode of transmitting that information).
+</dl></dl></dl></dl>
 
-Section does not limit internal use and disclosure of information
+**
 
-             (3)  This section does not limit the internal use of the information by a Commission official, or the internal disclosure of the information by a Commission official to another Commission official.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 50  Commission exempt from taxation 
+**
 
-##### <a id="51E"></a>51E  Disclosure for permitted anti-doping purposes of a sporting organisation
+ <dl compact="">
 
-Executive Director may authorise disclosure
+<dt>(1)</dt><dd>Subject to subsection (3), the income, property and transactions of the
 
-             (1)  The Executive Director may authorise the disclosure of protected information to a sporting organisation if:
+Commission are not subject to taxation (including taxation under the _Debits Tax Act 1982_) under the laws of the Commonwealth (other than laws relating
 
-                     (a)  the Executive Director is satisfied that the information should be disclosed to the organisation for permitted anti-doping purposes of the organisation; and
+to sales tax) or of a State or Territory.</dd> <dt>(2)</dt><dd>Subject to subsection (3), sales tax is not payable by the Commission, or by any other person, on goods that are for use by the Commission.</dd> <dt>(3)</dt><dd>The regulations may provide that subsection (1) or (2) does not apply in relation to taxation under a specified law. </dd> </dl>
 
-                     (b)  the organisation has given a written undertaking that:
+<center>Back to Top</center>
 
-                              (i)  the organisation will use or disclose the information only for permitted anti-doping purposes of the organisation; and
+**
 
-                             (ii)  the organisation will take reasonable steps to satisfy itself that the information will not be used or disclosed, by a person to whom the organisation has disclosed the information, in a way that would be unfairly prejudicial to the interests of the person to whom the information relates; and
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 51  Foundation exempt from taxation 
+**
 
-                     (c)  the Executive Director is satisfied that the disclosure of the information would not contravene any terms of the authorisation under which the protected information was disclosed to the Commission; and
+ <dl compact="">
 
-                     (d)  the requirements of subsections (2) to (5) are satisfied.
+<dt>(1)</dt><dd>Subject to subsection (3), the income, property and transactions of the
 
-If the information relates to more than one person, the information cannot be disclosed unless the requirements of subsections (2) to (5), as they apply in relation to each of those persons, are satisfied.
+Australian Sports Foundation are not subject to taxation (including taxation
 
-Notice to be given to person to whom the information relates
+under the _Debits Tax Act 1982_) under the laws of the Commonwealth (other
 
-             (2)  Before authorising the disclosure of the information to the organisation, the Executive Director must:
+than laws relating to sales tax) or of a State or Territory.</dd> <dt>(2)</dt><dd>Subject to subsection (3), sales tax is not payable by the Foundation, or by any other person, on goods that are for use by the Foundation.</dd> <dt>(3)</dt><dd>The regulations may provide that subsection (1) or (2) does not apply in relation to taxation under a specified law. </dd> </dl>
 
-                     (a)  give written notice of the proposed disclosure to the person to whom the information relates; and
+<center>**
 
-                     (b)  invite the person to make a written submission to the Executive Director about the proposed disclosure within a period (the **_submission period_**) that is the specified number of days after the day on which the person receives the notice.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<part>Part VIIA&#151;Disclosure and use of protected etc. information </part>
+**</center>
 
-The notice must also advise the person of the effect of subsection (5).
+**
 
-             (3)  For the purpose of paragraph (2)(b), the specified number of days must be:
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 51A  Definitions 
+**
 
-                     (a)  unless paragraph (b) applies—14 days; or
+ <dl compact="">
 
-                     (b)  if the Executive Director considers it appropriate in the circumstances to specify a lesser number of days—that lesser number of days.
+		In this Part, unless the contrary intention appears:
 
-             (4)  The information must not be disclosed unless:
+ </dl>
 
-                     (a)  the submission period has ended; and
+<def><dl compact=""><dl compact="">
 
-                     (b)  the Executive Director has considered any submission that has been made within the submission period.
+_anti-doping policy_ means any current written policy of the
 
-             (5)  If the Executive Director receives a submission from the person before the end of the submission period, the Executive Director may, for the purposes of subsection (4), take the submission period to have ended immediately after the receipt of the submission.
+Commission or a sporting organisation, in respect of performance enhancing
 
-Executive Director may specify other conditions etc.
+drugs or doping methods. _Commission official_ means:  </dl></dl>
 
-             (6)  The Executive Director may specify the manner in which, or the conditions under which, the disclosure is to be made (including the form in which the information is to be presented and the mode of transmitting the information).
+<dl compact=""><dl compact=""><dl compact="">
 
-##### <a id="51F"></a>51F  Disclosure of other information by the Commission
+<dt>(a)</dt><dd>a member of the Commission; or</dd>
 
-             (1)  If the Executive Director is satisfied that:
+<dt>(b)</dt><dd>a person employed by the Commission under section 41; or</dd>
 
-                     (a)  an anti-doping policy is likely to have been breached by a competitor or other person reasonably believed to be covered by the anti-doping policy (the **_sporting person_**); and
+<dt>(c)</dt><dd>a consultant engaged by the Commission under section 42; or</dd>
 
-                     (b)  information about the sporting person is likely to assist the Customs CEO in determining whether the importation or attempted importation of a sports substance relates to a matter set out in paragraph 51B(b);
+<dt>(d)</dt><dd>the Executive Director; or</dd>
+
+<dt>(e)</dt><dd>the Director.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_competitor_ has the meaning given by section 2 of the
+
+_Australian Sports Drug Agency Act 1990_. _Customs CEO_ means the Chief Executive Officer of the Australian Customs Service referred to in section 4 of the _Customs Administration Act 1985_. _doping method_ includes:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the manipulation or substitution of any of the following:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>any human biological fluid;</dd>
+
+<dt>(ii)</dt><dd>any human biological tissue (whether alive or otherwise);</dd>
+
+<dt>(iii)</dt><dd>any human breath;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		in a manner that is capable of concealing the use of a performance enhancing
+
+drug by the person concerned; and
+
+<dt>(b)</dt><dd>the use of a substance in a manner that is capable of concealing the use
+
+of a performance enhancing drug by the person concerned.
+
+</dd>
+
+</dl></dl></dl>
+
+<def><dl compact=""><dl compact="">
+
+_protected information_ means information disclosed to the
+
+Commission under section 16 of the _Customs Administration Act 1985_. _sporting organisation_ means an organisation of a particular country, or a part of a country, or an international organisation, that:  </dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>has control of one or more sports or sporting events; or</dd>
+
+<dt>(b)</dt><dd>organises or administers one or more sports or sporting events; or</dd>
+
+<dt>(c)</dt><dd>accredits people to take part in sporting competition; or</dd>
+
+<dt>(d)</dt><dd>provides teams to compete in sporting competition; or</dd>
+
+<dt>(e)</dt><dd>trains, or provides finance for, people to take part in sporting
+
+competition.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<def><dl compact=""><dl compact="">
+
+_sports substance_ means a performance enhancing drug or a
+
+substance that is capable of concealing the use of a performance enhancing drug.
+
+ </dl></dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 51B  Protected information that can be disclosed 
+**
+
+ <dl compact="">
+
+		For the purposes of subsection 16(3A) of the _Customs Administration Act 1985_, the Customs CEO cannot authorise the disclosure of information to the
+
+Commission unless the Customs CEO is satisfied that:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the information relates to the importation into Australia, or the
+
+attempted importation into Australia, of a sports substance; and</dd>
+
+<dt>(b)</dt><dd>at least one of the following conditions is satisfied:
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>the importation or attempted importation contravenes a law of the
+
+Commonwealth;</dd>
+
+<dt>(ii)</dt><dd>there are reasonable grounds to suspect that a competitor is responsible
+
+for the importation or attempted importation;</dd>
+
+<dt>(iii)</dt><dd>there are reasonable grounds to suspect that the substance is for use by
+
+one or more competitors.
+
+</dd>
+
+</dl></dl></dl></dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 51C  Disclosure of personal protected information 
+**
+
+ <dl compact="">
+
+		For the purposes of subsection 16(9) of the _Customs Administration Act 1985_, the purpose of the Executive Director determining whether an
+
+anti-doping policy is likely to have been breached is taken to be a permissible
+
+purpose.
+
+ </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 51D  Duty not to disclose protected information 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A Commission official must not disclose any protected information to a
+
+person who is not a Commission official, except:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>as authorised by the Executive Director under section 51E; or</dd>
+
+<dt>(b)</dt><dd>as required or authorised by any other law.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>For the avoidance of doubt, a Commission official is taken to be a
+
+Commonwealth officer for the purposes of section 70 of the _Crimes Act 1914._
+
+</dd> </dl>
+
+<dl compact=""><dl compact="">
+
+Note:	Section 70 of the _Crimes Act 1914_ imposes secrecy
+
+obligations on Commonwealth officers.
+
+ </dl></dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 51E  Disclosure and use of protected information by the Commission 
+**
+
+<dl compact="">
+
+<dt>(1)</dt><dd>This section applies if the Executive Director is satisfied that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an anti-doping policy of a sporting organisation is likely to have been
+
+breached; and</dd>
+
+<dt>(b)</dt><dd>protected information is likely to assist the organisation in determining
+
+whether to take action in accordance with its anti-doping policy.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The Executive Director may authorise the disclosure of the protected
+
+information to the organisation if:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a written undertaking has been given by the organisation that the
+
+information will be used only in determining whether action will be taken in
+
+accordance with the anti-doping policy of the organisation; and </dd>
+
+<dt>(b)</dt><dd>a written undertaking has been given by the organisation not to disclose
+
+or communicate the information to any person who is not a party, or acting on
+
+behalf of a party _,_ to the undertaking; and</dd>
+
+<dt>(c)</dt><dd>the Executive Director is satisfied that the disclosure of the information
+
+would not contravene any terms of the authorisation under which the protected
+
+information was disclosed to the Commission.
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>The Executive Director may specify the manner in which, or the conditions
+
+under which, the disclosure is to be made (including the form in which the
+
+information is to be presented and the mode of transmitting that information).
+
+</dd> </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 51F  Disclosure of other information by the Commission 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>If the Executive Director is satisfied that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>an anti-doping policy is likely to have been breached by a competitor or
+
+other person reasonably believed to be covered by the anti-doping policy (the
+
+_sporting person_); and</dd>
+
+<dt>(b)</dt><dd>information about the sporting person is likely to assist the Customs CEO
+
+in determining whether the importation or attempted importation of a sports
+
+substance relates to a matter set out in paragraph 51B(b);
+
+</dd>
+
+</dl></dl></dl>
 
 then the Executive Director may authorise the disclosure of information to the Australian Customs Service to assist in making that determination.
 
-Note:          Information Privacy Principle 11 set out in section 14 of the _Privacy Act 1988_ limits the disclosure of personal information.
+<dl compact=""><dl compact="">
 
-             (2)  The Executive Director may specify the manner in which, or the conditions under which, the disclosure is to be made (including the form in which the information is to be presented and the mode of transmitting that information).
+Note:	Information Privacy Principle 11 set out in section 14 of
 
-##### <a id="51G"></a>51G  Operation of _Privacy Act 1988_ is not affected
+the _Privacy Act 1988_ limits the disclosure of personal information.
 
-                   Nothing in this Part limits the operation of the _Privacy Act 1988_.
+ </dl></dl>
 
-## Part VIII—Miscellaneous
+<dl compact="">
 
-##### <a id="52"></a>52  Trust money
+<dt>(2)</dt><dd>The Executive Director may specify the manner in which, or the conditions
 
-             (1)  The Commission shall ensure that any money received or held by the Commission on trust is paid into an account, or more than one account, maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ that does not contain any money of the Commission not held on trust.
+under which, the disclosure is to be made (including the form in which the
 
-             (2)  Despite section 45:
+information is to be presented and the mode of transmitting that information).
 
-                     (a)  money or other property held by the Commission on trust shall be applied or dealt with only in accordance with the powers and duties of the Commission as trustee; and
+</dd> </dl>
 
-                     (b)  money held by the Commission on trust may be invested:
+<center>**
 
-                              (i)  in any manner in which the Commission is authorised to invest that money by the terms of the trust; or
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<part>Part VIII&#151;Miscellaneous </part>
+**</center>
 
-                             (ii)  in any manner in which trust money may, for the time being, be invested under law;
+**
 
-                            but not otherwise.
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 52  Trust money 
+**
 
-##### <a id="54"></a>54  Delegation by Commission
+ <dl compact="">
 
-             (1)  The Commission may, by resolution, delegate to:
+<dt>(1)</dt><dd>The Commission shall ensure that any money received or held by the
 
-                     (a)  a member of the Commission;
+Commission on trust is paid into an account, or more than one account,
 
-                     (b)  a committee established under section 22;
+maintained under subsection 18(2) of the _Commonwealth Authorities and Companies Act 1997_ that does not contain any money of the Commission not
 
-                     (c)  the Executive Director;
+held on trust.</dd> <dt>(2)</dt><dd>Despite section 45: </dd> </dl>
 
-                     (d)  the Director; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (e)  a person employed under section 41;
+<dt>(a)</dt><dd>money or other property held by the Commission on trust shall be applied
 
-all or any of the Commission’s powers under this Act, other than the Commission’s powers under sections 22, 23, 25 and 26 and subsections 28(1), 29(1), 30(1) and 39(1) (including the Commission’s powers under subsection 39(1) as that subsection applies by virtue of section 40).
+or dealt with only in accordance with the powers and duties of the Commission
 
-             (2)  The delegate is, in the exercise of a power so delegated, subject to any directions given by the Commission.
+as trustee; and</dd>
 
-##### <a id="55"></a>55  Delegation by Executive Director
+<dt>(b)</dt><dd>money held by the Commission on trust may be invested:
 
-             (1)  The Executive Director may, by signed instrument, delegate to:
+</dd>
 
-                     (a)  the Director; or
+</dl></dl></dl>
 
-                     (b)  a person employed under section 41;
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+
+<dt>(i)</dt><dd>in any manner in which the Commission is authorised to invest that money
+
+by the terms of the trust; or</dd>
+
+<dt>(ii)</dt><dd>in any manner in which trust money may, for the time being, be invested
+
+under law;
+
+</dd>
+
+</dl></dl></dl></dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+		but not otherwise.
+
+</dl></dl></dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 54  Delegation by Commission 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Commission may, by resolution, delegate to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>a member of the Commission;</dd>
+
+<dt>(b)</dt><dd>a committee established under section 22;</dd>
+
+<dt>(c)</dt><dd>the Executive Director;</dd>
+
+<dt>(d)</dt><dd>the Director; or</dd>
+
+<dt>(e)</dt><dd>a person employed under section 41;
+
+</dd>
+
+</dl></dl></dl>
+
+<center>Back to Top</center>
+
+all or any of the Commission's powers under this Act, other than the Commission's powers under sections 22, 23, 25 and 26 and subsections 28(1), 29(1), 30(1) and 39(1) (including the Commission's powers under subsection 39(1) as that subsection applies by virtue of section 40).
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The delegate is, in the exercise of a power so delegated, subject to any
+
+directions given by the Commission.
+
+</dd> </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 55  Delegation by Executive Director 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Executive Director may, by signed instrument, delegate to:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>the Director; or</dd>
+
+<dt>(b)</dt><dd>a person employed under section 41;
+
+</dd>
+
+</dl></dl></dl>
 
 all or any of his or her powers under this Act.
 
-             (2)  The delegate is, in the exercise of a power delegated under subsection (1), subject to any directions given by the Executive Director.
+<dl compact="">
 
-##### <a id="56"></a>56  Delegation by Minister
+<dt>(2)</dt><dd>The delegate is, in the exercise of a power delegated under subsection
 
-                   The Minister may, by signed instrument, delegate to:
+(1), subject to any directions given by the Executive Director.
 
-                     (a)  the Commission;
+</dd> </dl>
 
-                     (b)  a member of the Commission; or
+**
 
-                     (c)  the Executive Director;
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 56  Delegation by Minister 
+**
 
-all or any of the Minister’s powers under this Act, other than the Minister’s powers under section 11, subsection 13(2) and sections 20, 24, 25, 26 and 47.
+ <dl compact="">
 
-##### <a id="57"></a>57  Protection from civil actions
+		The Minister may, by signed instrument, delegate to:
 
-                   A member, the Executive Director or the Director is not liable to an action or other proceeding for damages for or in relation to an act done or omitted to be done in good faith in the performance or purported performance of any function, or in the exercise or purported exercise of any power, of the Commission.
+ </dl>
 
-##### <a id="58"></a>58  Regulations
+<dl compact=""><dl compact=""><dl compact="">
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
+<dt>(a)</dt><dd>the Commission;</dd>
 
-                     (a)  required or permitted by this Act to be prescribed; or
+<dt>(b)</dt><dd>a member of the Commission; or</dd>
 
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act;
+<dt>(c)</dt><dd>the Executive Director;
+
+</dd>
+
+</dl></dl></dl>
+
+all or any of the Minister's powers under this Act, other than the Minister's powers under section 11, subsection 13(2) and sections 20, 24, 25, 26 and 47\. 
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 57  Protection from civil actions 
+**
+
+ <dl compact="">
+
+		A member, the Executive Director or the Director is not liable to an action
+
+or other proceeding for damages for or in relation to an act done or omitted to
+
+be done in good faith in the performance or purported performance of any
+
+function, or in the exercise or purported exercise of any power, of the
+
+Commission.
+
+ </dl>
+
+**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989- SECT 58  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing matters:
+
+ </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>required or permitted by this Act to be prescribed; or</dd>
+
+<dt>(b)</dt><dd>necessary or convenient to be prescribed for carrying out or giving effect
+
+to this Act;
+
+</dd>
+
+</dl></dl></dl>
 
 and, in particular, may make regulations:
 
-                     (c)  regulating, restricting or prohibiting the entry of persons onto or into any land or building owned by, or under the control of, the Commission, regulating the conduct of persons on or in any such land or building, and providing for the removal of persons from any such land or building;
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (d)  prohibiting or regulating the use of any emblem, logo, design, mark, symbol or name that is associated with the Commission; and
+<dt>(c)</dt><dd>regulating, restricting or prohibiting the entry of persons onto or into
 
-                     (e)  prescribing penalties not exceeding a fine of $500 for offences against the regulations. 
+any land or building owned by, or under the control of, the Commission,
 
-# Notes to the _Australian Sports Commission Act 1989_
+regulating the conduct of persons on or in any such land or building, and
 
-### Note 1
+providing for the removal of persons from any such land or building;</dd>
 
-The _Australian Sports Commission Act 1989_ as shown in this consolidation comprises Act No. 12, 1989 amended as indicated in the Tables below.
+<dt>(d)</dt><dd>prohibiting or regulating the use of any emblem, logo, design, mark,
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+symbol or name that is associated with the Commission; and</dd>
 
-### Table of Acts
+<dt>(e)</dt><dd>prescribing penalties not exceeding a fine of $500 for offences against
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+the regulations.
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+</dd>
+
+</dl></dl></dl>
+
+<center>**
+
+###  AUSTRALIAN SPORTS COMMISSION ACT 1989<centreit>Notes to the _Australian Sports Commission Act 1989_ </centreit>
+**</center>
+
+<center>Back to Top</center>
+
+**Note 1**
+
+The _Australian Sports Commission Act 1989_ as shown in this consolidation comprises Act No. 12, 1989 amended as indicated in the Tables below. 
+ All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Australian Sports Commission Act 1989</div>
+
   </td>
-  <td>
-    <div>12, 1989</div>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
   </td>
-  <td>
-    <div>16 Mar 1989</div>
-  </td>
-  <td>
-    <div>1 May 1989 ( <i>see Gazette</i>1989, No. S143)</div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Australian Sports Commission Act 1989</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>12, 1989</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>16 Mar 1989</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 May 1989 ( <i>see Gazette</i>1989, No. S143)</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act 1991</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>33, 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21 Mar 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 5: 1 July 1991 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 2(2)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>179, 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Nov 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Nov 1991</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 3(2)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Sales Tax Amendment (Transitional) Act 1992</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Sales Tax Amendment (Transitional) Act 1992</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>118, 1992</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>30 Sept 1992</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>28 Oct 1992</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Environment, Sport and Territories Legislation Amendment Act 1995</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Environment, Sport and Territories Legislation Amendment Act 1995</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25, 1995</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>6 Apr 1995</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>6 Apr 1995</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>as amended by</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Environment, Sport and Territories Legislation Amendment Act 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Environment, Sport and Territories Legislation Amendment Act 1997</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>118, 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>7 July 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Schedule 1 (item 36): 6 Apr 1995 <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 1996</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>43, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Oct 1996</div>
+
   </td>
-  <td>
-    <div>Schedule 4 (items 41–43): Royal Assent <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 4 (items 41-43): Royal Assent <i>(b)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Audit (Transitional and Miscellaneous) Amendment Act 1997</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>152, 1997</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24 Oct 1997</div>
+
   </td>
-  <td>
-    <div>Schedule 2 (items 496–512): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 2 (items 496-512): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Australian Sports Commission Amendment Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Australian Sports Commission Amendment Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>106, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>31 Aug 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>3 Nov 1999 <i>(d)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>146, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>11 Nov 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 1 (items 260–263): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (items 260-263): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Corporate Law Economic Reform Program Act 1999</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>156, 1999</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24 Nov 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 10 (items 56–58): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule 10 (items 56-58): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No.&#160;S114) <i>(f)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</i></div>
+
+  </th>
+  <th colspan="1" align="left">
     <div>159, 2001</div>
-  </td>
-  <td>
+
+  </th>
+  <th colspan="1" align="left">
     <div>1 Oct 2001</div>
-  </td>
-  <td>
+
+  </th>
+  <th colspan="1" align="left">
     <div>29 Oct 2001</div>
-  </td>
-  <td>
+
+  </th>
+  <th colspan="1" align="left">
     <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Sports Commission Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>40, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 8) \[ <i>see</i>Table A]</div>
-  </td>
+
+  </th>
 </tr></table>
 
-_(a)_     The _Environment, Sport and Territories Legislation Amendment Act 1995_ was amended by Schedule 1 (item 36) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(2) of which provides as follows:
+<center>Back to Top</center>
 
-                 (2)   Item 36 of Schedule 1 is taken to have commenced on the day on which the _Environment, Sport and Territories Legislation Amendment Act 1995_ received the Royal Assent.
+_(a)_	The _Environment, Sport and Territories Legislation Amendment Act 1995_ was amended by Schedule 1 (item 36) only of the _Environment, Sport and Territories Legislation Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-_(b)_    The _Australian Sports Commission Act 1989_ was amended by Schedule 4 (items 41–43) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+	(2)	Item 36 of Schedule 1 is taken to have commenced on the day on which the _Environment, Sport and Territories Legislation Amendment Act 1995_ received the Royal Assent.
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+_(b)_	The _Australian Sports Commission Act 1989_ was amended by Schedule 4 (items 41-43) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-_(c)_     The _Australian Sports Commission Act 1989_ was amended by Schedule 2 (items 496–512) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+_(c)_	The _Australian Sports Commission Act 1989_ was amended by Schedule 2 (items 496-512) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-_(d)_     The _Australian Sports Commission Act 1989_ was amended by the _Australian Sports Commission Amendment Act 1999_, section 2 of which provides as follows:
+	(2)	Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-                    2   This Act commences on the later of:
+_(d)_	The _Australian Sports Commission Act 1989_ was amended by the _Australian Sports Commission Amendment Act 1999_, section 2 of which provides as follows:
 
-                 (a)   the 28th day after the day on which this Act receives the Royal Assent; or
+	2	This Act commences on the later of:
+ 	(a)	the 28th day after the day on which this Act receives the Royal Assent; or
+ 	(b)	immediately after the commencement of the _Customs Legislation Amendment Act (No. 1) 1999_. 
 
-                 (b)   immediately after the commencement of the _Customs Legislation Amendment Act (No. 1) 1999_. 
+	The _Customs Legislation Amendment Act (No. 1) 1999_ commenced on 3 November 1999.
+ _(e)_	The _Australian Sports Commission Act 1989_ was amended by Schedule 1 (items 260-263) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-         The _Customs Legislation Amendment Act (No. 1) 1999_ commenced on 3 November 1999.
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time.
 
-_(e)_     The _Australian Sports Commission Act 1989_ was amended by Schedule 1 (items 260–263) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(f)_	The _Australian Sports Commission Act 1989_ was amended by Schedule 10 (items 56-58) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
 
-                 (2)   Subject to this section, this Act commences at the commencing time.
+	(c)	the items in Schedules 10, 11 and 12\. 
 
-_(f)_      The _Australian Sports Commission Act 1989_ was amended by Schedule 10 (items 56–58) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+**Table of Amendments**
 
-                 (2)   The following provisions commence on a day or days to be fixed by Proclamation:
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-                              (c)   the items in Schedules 10, 11 and 12\. 
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 25, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 7</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 106, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 25, 1995 (as am. by No. 118, 1997)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 13</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 179, 1991; No. 25, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 14</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 179, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 146, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 15</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 25, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 25, 1995; No. 43, 1996</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 18</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rep. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 19</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 25, 1995; No. 152, 1997; No. 156, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 20</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 25, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 21</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 25, 1995; No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 22</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 43, 1996; No. 152, 1997; No. 156, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 28</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 159, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 30</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 159, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 33</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 43, 1996</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 35</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 179, 1991</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 146, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 41</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 146, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 44</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rep. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 45</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 47</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Heading to s. 48</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rs. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 48</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 33, 1991; No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 49</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rep. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 50, 51</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 118, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part VIIA</b></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part VIIA 
+(ss. 51A-51F)</div>
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIIA</div>
-  </td>
-  <td>
+  <td colspan="1" align="left">
     <div>ad. No. 106, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 51A</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 51A-51F)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>ad. No. 106, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51AA</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51B</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 51C, 51D</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51DA</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51E</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 40, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51F</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51G</div>
-  </td>
-  <td>
-    <div>ad. No. 40, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 52</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 53</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rep. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 56</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>am. No. 152, 1997</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Part IX</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part IX 
+(ss. 59-69)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rep. No. 25, 1995</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 59–69</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 59-69</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>rep. No. 25, 1995</div>
+
   </td>
 </tr></table>
 
-## Table A
+**Table A**
 
-### Application, saving or transitional provisions
+**Application, saving or transitional provisions**
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001_(No. 159, 2001)
 
-## Schedule 1
+**Schedule 1** **97  Application of amendments** The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-## 97  Application of amendments
+</def>
 
-The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
+</def></def></def>
 
-* * *
 
-_Australian Sports Commission Amendment Act 2005 (No. 40, 2005)_
-
-## Schedule 1
-
-## 8  Application
-
-The amendments made by this Schedule apply in relation to protected information, whether disclosed to the Commission before, on or after the commencement of this item.
-
- 
-
- 
