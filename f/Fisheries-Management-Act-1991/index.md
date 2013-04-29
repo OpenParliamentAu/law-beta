@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00348/Html/FishMangmtAct1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00309/Html/FishMangmtAct1991_WD02_image001.gif)
 
 # Fisheries Management Act 1991
 
 **Act No. 162 of 1991 as amended**
 
-This compilation was prepared on 11 May 2010
+This compilation was prepared on 19 April 2010
  taking into account amendments up to Act No. 39 of 2010
 
 The text of any of those amendments not in force 
@@ -140,8 +140,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Grant of fishing permits
 
-[32A](#32A).       Transfer of fishing permits
-
     **Division 6—Scientific permits**
 
 [33](#33).          Grant of scientific permits
@@ -189,6 +187,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [47](#47).          Trusts not registrable
 
 [48](#48).          Power of holder of fishing right to deal with fishing right
+
+[49](#49).          Approval of AFMA etc  to dealing required in certain circumstances
 
 [50](#50).          Suspension, cancellation etc  of fishing right to be noted in Register
 
@@ -338,8 +338,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [89](#89).          Identity cards
 
-[89A](#89A).       Defensive equipment
-
 [90](#90).          Officer etc  not liable to certain actions
 
     **Division 2—Fish receiver permits**
@@ -436,11 +434,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [106](#106).        Forfeiture of things used in certain offences
 
-[106AAA](#106AAA).                                 Forfeiture of additional things on forfeited boats
+106AAAForfeiture of additional things on forfeited boats
 
-[106AAB](#106AAB).              Forfeited things become the property of the Commonwealth
+106AABForfeited things become the property of the Commonwealth
 
-[106AAC](#106AAC).                        Rights and interests of the Commonwealth not limited
+106AACRights and interests of the Commonwealth not limited
 
         **Subdivision B—Automatic forfeiture of things**
 
@@ -664,21 +662,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [162](#162).        Operation etc  of decision subject to appeal
 
-**Part 9—Miscellaneous** 
-
-    **Division 1—Electronic decision-making**
-
-[163A](#163A).     What this Division is about
-
-[163B](#163B).     Electronic decision-making
-
-[163C](#163C).     Replacing an electronic decision
-
-[163D](#163D).     Evidence of whether computer is functioning correctly
-
-[163E](#163E).      Return of fishing concession certificate not necessary
-
-    **Division 2—Other miscellaneous provisions**
+**Part 9—Miscellaneous**
 
 [163](#163).        Delegation by Minister
 
@@ -1022,14 +1006,6 @@ but does not include:
 
                      (c)  any other person who is usually resident in Australia or a Territory and whose continued presence in Australia or a Territory is not subject to a limitation as to time imposed by law.
 
-                    <a name="investigated-fisheri-offenc"></a>**_being investigated for a fisheries offence_**, in relation to the holder of a fishing concession, means:
-
-                     (a)  AFMA is investigating whether the holder has committed a fisheries offence; or
-
-                     (b)  a law enforcement agency has notified AFMA that the agency is investigating whether the holder has committed a fisheries offence; or
-
-                     (c)  the holder is charged with a fisheries offence.
-
                     <a name="boat"></a>**_boat_** means launch, vessel or floating craft of any description.
 
                     <a name="ceo"></a>**_CEO_** has the same meaning as in the _Fisheries Administration Act 1991_.
@@ -1042,8 +1018,6 @@ but does not include:
 
                     <a name="complianc-agreem"></a>**_Compliance Agreement_** means the Agreement to promote Compliance with International Conservation and Management Measures by Fishing Vessels on the High Seas done at Rome on 24 November 1993, a copy of the English text of which is set out in Schedule 3.
 
-                    <a name="comput-function-notic"></a>**_computer function notice_** has the meaning given by section 163D.
-
                     <a name="conserv-area"></a>**_conservation area_**, for a conserved fish stock, means the area to which the international fisheries management measure that covers the fish stock relates.
 
                     <a name="conserv-fish-stock"></a>**_conserved fish stock_** means a fish stock covered by an international fisheries management measure.
@@ -1053,10 +1027,6 @@ but does not include:
                     <a name="convey"></a>**_conveyance_** includes an aircraft, vehicle or vessel.
 
                     <a name="deal"></a>**_dealing_** includes a transmission by operation of law.
-
-                    <a name="defens-equip"></a>**_defensive equipment_** has the meaning given by section 89A.
-
-                    <a name="electron-decision"></a>**_electronic decision_** has the meaning given by section 163B.
 
                     <a name="evidenti-materi"></a>**_evidential material_** means a thing relevant to an indictable offence, or a thing relevant to a summary offence, against this Act or the regulations, including such a thing in electronic form.
 
@@ -1075,22 +1045,6 @@ but does not include:
                     <a name="fao"></a>**_FAO_** means the Food and Agriculture Organization of the United Nations.
 
                     <a name="fish"></a>**_fish_** includes all species of bony fish, sharks, rays, crustaceans, molluscs and other marine organisms, but does not include marine mammals or marine reptiles.
-
-                    <a name="fisheri-legisl"></a>**_fisheries legislation_** means:
-
-                     (a)  this Act or the regulations; or
-
-                     (b)  another Act or regulations that are:
-
-                              (i)  administered by the Minister; and
-
-                             (ii)  prescribed under the regulations.
-
-                    <a name="fisheri-offenc"></a>**_fisheries offence_** means:
-
-                     (a)  an offence against this Act or the regulations; or
-
-                     (b)  an offence against another Act that relates to a fishing concession (including an offence for unlawfully obtaining a fishing concession, for example).
 
                     <a name="fish-receiv-permit"></a>**_fish receiver permit_** means a fish receiver permit granted under section 91.
 
@@ -1134,8 +1088,6 @@ but does not include:
 
                      (c)  a foreign fishing licence.
 
-                    <a name="fish-concess-certif"></a>**_fishing concession certificate_** has the meaning given by section 163E.
-
                     <a name="fish-permit"></a>**_fishing permit_** means a fishing permit granted under section 32.
 
                     <a name="fish-right"></a>**_fishing right_** means a statutory fishing right.
@@ -1171,14 +1123,6 @@ Note:          The English text of the United Nations Conventi
                     <a name="intern-fisheri-manag-organis"></a>**_international fisheries management organisation_** means a global, regional or subregional fisheries organisation or arrangement prescribed by the regulations.
 
                     <a name="joint-author"></a>**_Joint Authority_** means an authority established by or under section 61.
-
-                    <a name="law-enforc-agenc"></a>**_law enforcement agency_** means a government body that has responsibility for the enforcement of the laws of:
-
-                     (a)  the Commonwealth; or
-
-                     (b)  a State or Territory.
-
-                    <a name="leas"></a>**_lease_**, of a fishing right, means a temporary assignment of the fishing right.
 
                     <a name="magistr"></a>**_magistrate_** includes a justice of the peace or other person employed in a court of a State or Territory who is authorised to issue search warrants.
 
@@ -1991,6 +1935,8 @@ Note:          Sections 42 and 42A also impose conditions on
 
              (6)  A fishing right ceases to be in force if the holder of the fishing right surrenders it by written notice given to AFMA.
 
+             (7)  The holder of a fishing right must, at the time of giving the written notice referred to in subsection (6) or as soon as practicable after that time, return the original certificate evidencing the fishing right to AFMA.
+
 ##### <a id="23"></a>23  Certain decisions to be provisional
 
              (1)  Where AFMA or a Joint Authority makes a decision as to the person or persons to whom the grant of a fishing right in a managed fishery is to be made, not being a grant or grants to be made after:
@@ -2171,7 +2117,7 @@ the following provisions of this section apply.
 
              (2)  If a person holds a statutory fishing rights option in respect of statutory fishing rights under the new plan, the option entitles the person, subject to subsections (3) and (4), to be granted under the new plan, to the extent to which the person exercises the option in accordance with subsection 31D(1), the number of statutory fishing rights of the relevant class worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00348/Html/FishMangmtAct1991_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00309/Html/FishMangmtAct1991_WD02_image002.gif)
 
 where:
 
@@ -2383,21 +2329,11 @@ AFMA must not register the dealing unless:
 
           (1B)  Subject to subsections (1C) and (1D), if no Australian boat is specified in the permit, the permit authorises the use as mentioned in subsection (1) of such Australian boat (if any) as the person to whom the permit is granted, from time to time, by written notice given to AFMA, nominates for the purposes of the permit.
 
-        (1BA)  After the commencement of this subsection, a boat may be nominated under subsection (1A) or (1B) only if:
+        (1BA)  After the commencement of this subsection, a boat may not be nominated under subsection (1A) or (1B):
 
-                     (a)  either:
+                     (a)  without AFMA’s written agreement to the nomination; and
 
-                              (i)  the boat’s particulars are already registered on the Fishing Permits Register; or
-
-                             (ii)  the boat is an Australian boat; and
-
-                     (b)  the acceptance of the nomination would not be contrary to:
-
-                              (i)  a condition of the permit; or
-
-                             (ii)  the regulations; and
-
-                     (c)  for the purposes of a permit to fish in a specified fishery on the high seas—the boat is an Australian-flagged boat.
+                     (b)  for the purposes of a permit to fish in a specified fishery on the high seas—unless it is an Australian-flagged boat.
 
           (1C)  The permit does not authorise the use of an Australian boat unless the boat complies with any conditions to which the permit is subject.
 
@@ -2475,33 +2411,11 @@ it is a condition of the permit that the holder of the permit comply with the te
 
              (9)  A permit ceases to be in force if the holder of the permit surrenders the permit by written notice given to AFMA.
 
+          (9A)  The holder of a permit must, at the time of giving the written notice referred to in subsection (9) or as soon as practicable after that time, return the original permit to AFMA.
+
+           (10)  Except where a fishing permit is stated to be non-transferable, AFMA may, on the application of the holder of the permit and of another person as proposed transferee, transfer the permit to that other person.
+
            (11)  A fishing permit is to be in the approved form.
-
-##### <a id="32A"></a>32A  Transfer of fishing permits
-
-             (1)  This section is about the holder of a fishing permit transferring the permit to another person.
-
-             (2)  The holder of the fishing permit must apply to AFMA, in the approved form, to register the transfer.
-
-             (3)  The transfer takes effect when AFMA registers the transfer.
-
-             (4)  AFMA must register the transfer unless:
-
-                     (a)  the fishing permit is suspended under section 38; or
-
-                     (b)  the holder of the fishing permit:
-
-                              (i)  is being investigated for a fisheries offence; or
-
-                             (ii)  has been convicted of a fisheries offence; or
-
-                     (c)  a levy on the fishing permit that is due has not been paid; or
-
-                     (d)  other circumstances that are prescribed under the regulations exist.
-
-             (5)  Subsection (4) applies despite the fact that a requirement in a plan of management relating to the transfer has not been satisfied.
-
-             (6)  This section does not apply to a fishing permit that is stated to be non-transferable.
 
 ### Division 6—Scientific permits
 
@@ -2556,6 +2470,8 @@ it is a condition of the permit that the holder of the permit comply with the te
 
              (7)  A scientific permit ceases to be in force if the holder of the permit surrenders the permit by written notice given to AFMA.
 
+          (7A)  The holder of a scientific permit must, at the time of giving the written notice referred to in subsection (7) or as soon as practicable after that time, return the original permit to AFMA.
+
              (8)  A scientific permit is to be in the approved form.
 
 ### Division 7—Foreign fishing licences and Treaty licences
@@ -2608,6 +2524,8 @@ it is a condition of the licence that the holder of the licence comply with the 
              (9)  AFMA may, by written notice given to the holder of a licence, whether or not at the request of the holder, vary or revoke a condition of the licence (not being a condition mentioned in subsection (4) or (6A)) or specify a condition or further condition to which the licence is to be subject.
 
            (10)  A licence ceases to be in force if the holder of the licence surrenders the licence by written notice given to AFMA.
+
+        (10A)  The holder of a licence must, at the time of giving the written notice referred to in subsection (10) or as soon as practicable after that time, return the original licence to AFMA.
 
            (11)  A licence is to be in the approved form.
 
@@ -2776,6 +2694,8 @@ it is a condition of the licence that the holder of the licence comply with the 
              (5)  AFMA may, by written notice given to the holder of a licence, whether or not at the request of the holder, vary or revoke a condition of the licence (not being a condition mentioned in subsection (3) or (4A)) or specify a condition or further condition to which the licence is to be subject.
 
              (6)  A licence ceases to be in force if the holder of the licence surrenders the licence by written notice given to AFMA.
+
+          (6A)  The holder of a licence must, at the time of giving the written notice referred to in subsection (6) or as soon as practicable after that time, return the original licence to AFMA.
 
              (7)  A licence under this section is to be in the approved form.
 
@@ -2977,7 +2897,7 @@ the order overrides the provision and, to that extent, the provision has no effe
 
           (3A)  A party to the dealing may, instead of lodging the instrument evidencing the dealing, lodge with AFMA a summary of that instrument containing the particulars required by AFMA for the purposes of this subsection.
 
-             (4)  Subject to subsections (4C) and (4D), if an application for registration of the dealing, either the instrument evidencing the dealing or a summary of that instrument that complies with subsection (3A), and the other documents referred to in paragraphs (3)(c) and (d), are lodged with AFMA, AFMA must:
+             (4)  Subject to subsection (4C), if an application for registration of the dealing, either the instrument evidencing the dealing or a summary of that instrument that complies with subsection (3A), and the other documents referred to in paragraphs (3)(c) and (d), are lodged with AFMA, AFMA must:
 
                      (a)  register the dealing by entering in the Register the following particulars:
 
@@ -3017,22 +2937,6 @@ AFMA must not register the dealing unless:
 
                              (ii)  21 days have elapsed since the notice was given to the person.
 
-          (4D)  AFMA must register a lease, or transfer of ownership, of a fishing right unless:
-
-                     (a)  the fishing right is suspended under section 38; or
-
-                     (b)  the holder of the fishing right:
-
-                              (i)  is being investigated for a fisheries offence; or
-
-                             (ii)  has been convicted of a fisheries offence; or
-
-                     (c)  a levy on the fishing right that is due has not been paid; or
-
-                     (d)  other circumstances that are prescribed under the regulations exist.
-
-           (4E)  Subsection (4D) applies despite the fact that any requirement in a plan of management relating to the lease, or transfer, has not been satisfied.
-
              (5)  If a dealing is registered:
 
                      (a)  the copies referred to in paragraph (3)(d) and the summary (if any) lodged under subsection (3A) are to be kept by AFMA; and
@@ -3056,6 +2960,14 @@ AFMA must not register the dealing unless:
              (2)  Subsection (1) only protects a person who deals with such a holder as a purchaser in good faith for value and without notice of any fraud on the part of the holder.
 
              (3)  Equities in relation to a fishing right may be enforced against the holder of the fishing right except to the prejudice of a person protected by subsection (2).
+
+##### <a id="49"></a>49  Approval of AFMA etc. to dealing required in certain circumstances
+
+             (1)  A person must not transfer the ownership of a fishing right unless AFMA has, in writing, given its approval to the transfer.
+
+             (2)  AFMA may only refuse to give an approval for the purposes of subsection (1) if the transfer would be contrary to the requirements of the relevant plan of management or a condition of the fishing right.
+
+             (3)  A purported dealing in contravention of subsection (1) has no effect.
 
 ##### <a id="50"></a>50  Suspension, cancellation etc. of fishing right to be noted in Register
 
@@ -4598,52 +4510,6 @@ Note:          The defendant bears an evidential burden in rel
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="89A"></a>89A  Defensive equipment
-
-             (1)  This section is about defensive equipment.
-
-             (2)  **_Defensive equipment_** is:
-
-                     (a)  a bulletproof vest; or
-
-                     (b)  an extendible baton; or
-
-                     (c)  handcuffs; or
-
-                     (d)  other equipment prescribed under the regulations.
-
-             (3)  The CEO may authorise an officer to be issued with, carry, use and store defensive equipment if the CEO considers:
-
-                     (a)  it is reasonably necessary for the officer to use the equipment in order to perform functions or exercise powers under this Act; and
-
-                     (b)  the officer has received adequate training in the effective, lawful and safe carriage, use and storage of defensive equipment.
-
-             (4)  The CEO may make the authorisation subject to conditions.
-
-             (5)  The officer may use the defensive equipment if the officer considers it is reasonably necessary to do so in order to perform functions or exercise powers under this Act or the regulations, subject to:
-
-                     (a)  any conditions in the CEO’s authorisation; and
-
-                     (b)  section 87J.
-
-             (6)  A person commits an offence if:
-
-                     (a)  the person has been issued with defensive equipment; and
-
-                     (b)  the person stops being an officer; and
-
-                     (c)  the person does not, as soon as practicable, return the defensive equipment to the CEO.
-
-                    Penalty:  2 penalty units.
-
-             (7)  Subsection (6) does not apply if the person has a reasonable excuse for not returning the defensive equipment to the CEO as soon as practicable.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (7): see subsection 13.3(3) of the _Criminal Code_.
-
-             (8)  An offence against subsection (6) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
 ##### <a id="90"></a>90  Officer etc. not liable to certain actions
 
                    An officer or a person assisting an officer in the exercise of powers under this Act or the regulations, is not liable to an action, suit or proceeding for or in respect of anything done in good faith or omitted to be done in good faith in the exercise or purported exercise of any power conferred by this Act or the regulations.
@@ -5948,7 +5814,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
              (4)  To avoid doubt, the CEO may give the notice even if the thing has been released under section 88.
 
-##### <a id="106G"></a>106G  Condemnation of thing if it is claimed
+##### <a id="106G"></a>106G  Condemnation of thing if it is claimed
 
 Application
 
@@ -6368,7 +6234,7 @@ the whole of the amount of the charge unpaid becomes due and payable at that tim
 
 ### Division 1—Establishment etc. of Panel
 
-##### <a id="124"></a>124  Establishment of Panel
+##### <a id="124"></a>124  Establishment of Panel
 
                    A Statutory Fishing Rights Allocation Review Panel is established.
 
@@ -6806,7 +6672,7 @@ the Presiding Member must abolish the Committee.
 
 ### Division 3—Review by Panel
 
-##### <a id="142"></a>142  Function
+##### <a id="142"></a>142  Function
 
              (1)  The Panel has the function of reviewing decisions mentioned in subsection 23(1) made by AFMA or a Joint Authority as to the person or persons to whom the grant of a fishing right in a managed fishery is to be made.
 
@@ -7118,88 +6984,6 @@ Note:          For strict liability, see section 6.1 of the 
 
 ## Part 9—Miscellaneous
 
-### Division 1—Electronic decision-making
-
-##### <a id="163A"></a>163A  What this Division is about
-
-                   This Division is about AFMA using a computer program to make certain decisions.
-
-##### <a id="163B"></a>163B  Electronic decision-making
-
-             (1)  AFMA may approve a computer program, which is under AFMA’s control, to be used to make a decision under:
-
-                     (a)  section 32; or
-
-                     (b)  section 32A; or
-
-                     (c)  section 46; or
-
-                     (d)  section 91; or
-
-                     (e)  a plan of management; or
-
-                      (f)  another provision of the fisheries legislation that is prescribed under the regulations.
-
-             (2)  While the approval is in force, the outcome of the use of the computer program (an **_electronic decision_**) is taken to be:
-
-                     (a)  a decision; and
-
-                     (b)  a decision made by AFMA.
-
-             (3)  AFMA’s approval must be made in writing.
-
-             (4)  An approval made under this section is not a legislative instrument.
-
-##### <a id="163C"></a>163C  Replacing an electronic decision
-
-             (1)  This section applies if AFMA is satisfied that an electronic decision that was made by a computer program was made at a time when the computer program was not functioning correctly.
-
-             (2)  A computer program is not functioning correctly if the electronic decision that was made by the computer program is not the same as the decision that AFMA would have made if an employee of AFMA had made the decision.
-
-Example:    A computer program may not be functioning correctly because of a computer virus or because of a typographical error that was made when data was entered into the computer.
-
-             (3)  AFMA may revoke the electronic decision and replace it with the decision that AFMA would have made if an employee of AFMA had made the decision.
-
-             (4)  AFMA may do so:
-
-                     (a)  on its own initiative; or
-
-                     (b)  on the written application of the applicant who had sought the electronic decision.
-
-             (5)  If AFMA revokes an electronic decision after AFMA has notified the applicant about the electronic decision, AFMA must, as soon as practicable after revoking the electronic decision, give to the applicant a written notice that states:
-
-                     (a)  that the electronic decision has been revoked; and
-
-                     (b)  the reasons for revoking the electronic decision; and
-
-                     (c)  the new decision.
-
-##### <a id="163D"></a>163D  Evidence of whether computer is functioning correctly
-
-             (1)  In any proceedings, a computer function notice is prima facie evidence of the matters that are stated in the notice.
-
-             (2)  A **_computer function notice_** is a document that:
-
-                     (a)  is, or is purported to be, signed by the CEO; and
-
-                     (b)  states whether or not a specified computer program was functioning correctly:
-
-                              (i)  in relation to a specified electronic decision; and
-
-                             (ii)  at a specified time or during a specified period.
-
-             (3)  A computer program is functioning correctly if an electronic decision that the computer program makes is the same as the decision that AFMA would have made if an employee of AFMA had made the decision.
-
-##### <a id="163E"></a>163E  Return of fishing concession certificate not necessary
-
-             (1)  This section applies if a plan of management requires the holder of a fishing concession to return the fishing concession certificate to AFMA.
-
-             (2)  The **_fishing concession certificate_** is the certificate that AFMA issued to the holder of the fishing concession as evidence of the grant of the fishing concession.
-
-             (3)  The holder of the fishing concession is no longer required to return the fishing concession certificate to AFMA.
-
-### Division 2—Other miscellaneous provisions
-
 ##### <a id="163"></a>163  Delegation by Minister
 
                    The Minister may, by signed instrument, delegate to:
@@ -7266,7 +7050,7 @@ Note:          Part 2.5 of the _Criminal Code_ deals with co
 
                     <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
 
-                    <a name="relev-decision"></a>**_relevant decision_** means a decision of AFMA under subsection 4(2), 4(3), 22(5) or 26(2), section 31 (other than a decision following an auction or tender), paragraph 31B(1)(b), section 31C, subsection 31F(7), section 32 or 33, subsection 34(9), 38(1), (2) or (3), section 39, subsection 40(5) or (8) or section 91.
+                    <a name="relev-decision"></a>**_relevant decision_** means a decision of AFMA under subsection 4(2), 4(3), 22(5) or 26(2), section 31 (other than a decision following an auction or tender), paragraph 31B(1)(b), section 31C, subsection 31F(7), section 32 or 33, subsection 34(9), 38(1), (2) or (3), section 39, subsection 40(5) or (8) or section 49 or 91.
 
                     <a name="review-decision"></a>**_reviewable decision_** means a decision of AFMA under
  subsection (5).
@@ -9162,7 +8946,7 @@ Note:          This clause corresponds closely to paragraph 33
 
                     <a name="remov"></a>**_removal_** has the same meaning as in the _Migration Act 1958_.
 
-# Schedule 1—Treaty on fisheries between the Governments of certain Pacific Island States and the United States   of America
+# Schedule 1—Treaty on fisheries between the Governments of certain Pacific Island States and the United States of   America
 
 _Section 4_
 
@@ -9569,7 +9353,7 @@ and that such vessel has not submitted to the jurisdiction of the Pacific Island
 
 4.7   Financial assurances provided pursuant to this Treaty may be drawn against by any Pacific  Island party to satisfy any civil or criminal judgment or other determination in favour of a national or the Government of a Pacific Island party.
 
-4.8   Prior to instituting any legal proceedings pursuant to this Article concerning an alleged infringement of this Treaty in waters within the jurisdiction, for any purpose, as recognised by international law, of a Pacific Island party, the Government of the United States shall notify the Government of that Pacific Island party that such proceedings shall be instituted. Such notice shall include a statement of the facts believed to show an infringement of this Treaty and the nature of the proposed proceedings, including the proposed charges and the proposed penalties to be sought. The Government of the United   States shall not institute such proceedings if the Government of that Pacific  Island party objects within 30 days of the effective date of such notice.
+4.8   Prior to instituting any legal proceedings pursuant to this Article concerning an alleged infringement of this Treaty in waters within the jurisdiction, for any purpose, as recognised by international law, of a Pacific Island party, the Government of the United States shall notify the Government of that Pacific Island party that such proceedings shall be instituted. Such notice shall include a statement of the facts believed to show an infringement of this Treaty and the nature of the proposed proceedings, including the proposed charges and the proposed penalties to be sought. The Government of the United States shall not institute such proceedings if the Government of that Pacific Island party objects within 30 days of the effective date of such notice.
 
 4.9   The Government of the United States shall ensure that an agent is appointed and maintained in accordance with the requirements of subparagraphs (a) and (b) of this paragraph, with authority to receive and respond to any legal process issued by a Pacific Island party in respect of an operator of any fishing vessel of the United States (identified in the form set out in Schedule 1 of Annex II) and shall notify the Administrator of the name and address of such agent, who:
 
@@ -11748,7 +11532,7 @@ PART 1
 
                                     C.    Landed Price: The Landed Price is the published standard price per ton (American Tuna Sales Association) for fish delivered to American Samoa prevailing at the time a United   States purse seine vessel arrives in port for the purpose of offloading its catch.
 
-                                    D.   Average Landed Price: The Average Landed Price is calculated by averaging the established landed price categories for yellowfin and skipjack tuna in American   Samoa. The landed price categories to be used are: over 7.5 pounds, 4 to 7.5 pounds and 3 to 4 pounds for skipjack; over 20 pounds, 7.5 to 20 pounds and 4 to 7.5 pounds for yellowfin.
+                                    D.   Average Landed Price: The Average Landed Price is calculated by averaging the established landed price categories for yellowfin and skipjack tuna in American Samoa. The landed price categories to be used are: over 7.5 pounds, 4 to 7.5 pounds and 3 to 4 pounds for skipjack; over 20 pounds, 7.5 to 20 pounds and 4 to 7.5 pounds for yellowfin.
 
                                     E.    Base Price: The Base Price is the Average Landed Price for the three months prior to the Treaty entering into force.
 
@@ -13256,8 +13040,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Part 5 (ss. 
-58–82): 3 Feb 1995 <i>(a)</i> 
+Part 5 (ss. 58–82): 3 Feb 1995 <i>(a)</i> 
 Remainder: 3 Feb 1992 ( <i>see Gazette</i>1992, No. GN1)</div>
   </td>
   <td>
@@ -13838,7 +13621,7 @@ Schedule 3 (items 1–66): 24 June 2009</div>
     <div>13 Apr 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 11 May 2010</div>
+    <div>Schedule 1: \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -14355,7 +14138,7 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 20, 1994; No. 120, 1997; Nos. 143 and 160, 1999; No. 137, 2000; No. 29, 2004; No. 99, 2005; No. 8, 2006; No. 104, 2007; No. 36, 2008; No. 39, 2010</div>
+    <div>am. No. 20, 1994; No. 120, 1997; Nos. 143 and 160, 1999; No. 137, 2000; No. 29, 2004; No. 99, 2005; No. 8, 2006; No. 104, 2007; No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -14603,7 +14386,7 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; Nos. 28 and 29, 2004; No. 39, 2010</div>
+    <div>am. No. 94, 1993; Nos. 28 and 29, 2004</div>
   </td>
 </tr>
 <tr>
@@ -14723,7 +14506,7 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 129, 1994; No. 143, 1999; Nos. 28 and 29, 2004; No. 39, 2010</div>
+    <div>am. No. 94, 1993; No. 129, 1994; No. 143, 1999; Nos. 28 and 29, 2004</div>
   </td>
 </tr>
 <tr>
@@ -14744,14 +14527,6 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
 </tr>
 <tr>
   <td>
-    <div>S. 32A</div>
-  </td>
-  <td>
-    <div>ad. No. 39, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 6</b></div>
   </td>
   <td>
@@ -14763,7 +14538,7 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
     <div>S. 33</div>
   </td>
   <td>
-    <div>am. No. 28, 2004; No. 39, 2010</div>
+    <div>am. No. 28, 2004</div>
   </td>
 </tr>
 <tr>
@@ -14787,7 +14562,7 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 28, 2004; No. 39, 2010</div>
+    <div>am. No. 94, 1993; No. 28, 2004</div>
   </td>
 </tr>
 <tr>
@@ -14843,7 +14618,7 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
     <div>S. 40</div>
   </td>
   <td>
-    <div>am. No. 28, 2004; No. 39, 2010</div>
+    <div>am. No. 28, 2004</div>
   </td>
 </tr>
 <tr>
@@ -14923,7 +14698,7 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 120, 1997; No. 55, 2001; No. 39, 2010</div>
+    <div>am. No. 120, 1997; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -14932,14 +14707,6 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
   </td>
   <td>
     <div>am. No. 120, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 39, 2010</div>
   </td>
 </tr>
 <tr>
@@ -15500,14 +15267,6 @@ _(m)_    Subsection 2(1) (item 56) of the _Statute Law Revision Act 2008
   </td>
   <td>
     <div>am. No. 120, 1997; No. 115, 2001; No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 89A</div>
-  </td>
-  <td>
-    <div>ad. No. 39, 2010</div>
   </td>
 </tr>
 <tr>
@@ -16597,46 +16356,6 @@ of Div. 6 of Part 6</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part 9</div>
-  </td>
-  <td>
-    <div>ad. No. 39, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 163A–163E</div>
-  </td>
-  <td>
-    <div>ad. No. 39, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 9</div>
-  </td>
-  <td>
-    <div>ad. No. 39, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 163</div>
   </td>
   <td>
@@ -16656,7 +16375,7 @@ of Div. 6 of Part 6</div>
     <div>S. 165</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 120, 1997; No. 99, 2005; No. 39, 2010</div>
+    <div>am. No. 94, 1993; No. 120, 1997; No. 99, 2005</div>
   </td>
 </tr>
 <tr>
@@ -17765,7 +17484,7 @@ Insert:
 
 Repeal the subsection.
 
-## 16  Subdivision F of Division 6 of Part 6
+## 16  Subdivision F of Division 6 of Part 6
 
 Repeal the Subdivision, substitute:
 
@@ -17787,7 +17506,331 @@ Repeal the Subdivision, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-As of 11 May 2010 the amendments are not incorporated in this compilation.
+As of 19 April 2010 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Fisheries Legislation Amendment Act 2010 (No. 39, 2010)_
+
+The following amendments commence on 11 May 2010:
+
+## Schedule 1
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="investigated-fisheri-offenc"></a>**_being investigated for a fisheries offence_**, in relation to the holder of a fishing concession, means:
+
+                     (a)  AFMA is investigating whether the holder has committed a fisheries offence; or
+
+                     (b)  a law enforcement agency has notified AFMA that the agency is investigating whether the holder has committed a fisheries offence; or
+
+                     (c)  the holder is charged with a fisheries offence.
+
+## 2  Subsection 4(1)
+
+Insert:
+
+                    <a name="comput-function-notic"></a>**_computer function notice_** has the meaning given by section 163D.
+
+## 3  Subsection 4(1)
+
+Insert:
+
+                    <a name="defens-equip"></a>**_defensive equipment_** has the meaning given by section 89A.
+
+## 4  Subsection 4(1)
+
+Insert:
+
+                    <a name="electron-decision"></a>**_electronic decision_** has the meaning given by section 163B.
+
+## 5  Subsection 4(1)
+
+Insert:
+
+                    <a name="fisheri-legisl"></a>**_fisheries legislation_** means:
+
+                     (a)  this Act or the regulations; or
+
+                     (b)  another Act or regulations that are:
+
+                              (i)  administered by the Minister; and
+
+                             (ii)  prescribed under the regulations.
+
+## 6  Subsection 4(1)
+
+Insert:
+
+                    <a name="fisheri-offenc"></a>**_fisheries offence_** means:
+
+                     (a)  an offence against this Act or the regulations; or
+
+                     (b)  an offence against another Act that relates to a fishing concession (including an offence for unlawfully obtaining a fishing concession, for example).
+
+## 7  Subsection 4(1)
+
+Insert:
+
+                    <a name="fish-concess-certif"></a>**_fishing concession certificate_** has the meaning given by section 163E.
+
+## 8  Subsection 4(1)
+
+Insert:
+
+                    <a name="law-enforc-agenc"></a>**_law enforcement agency_** means a government body that has responsibility for the enforcement of the laws of:
+
+                     (a)  the Commonwealth; or
+
+                     (b)  a State or Territory.
+
+## 9  Subsection 4(1)
+
+Insert:
+
+                    <a name="leas"></a>**_lease_**, of a fishing right, means a temporary assignment of the fishing right.
+
+## 10  Subsection 22(7)
+
+Repeal the subsection.
+
+## 11  Subsection 32(1BA)
+
+Repeal the subsection, substitute:
+
+        (1BA)  After the commencement of this subsection, a boat may be nominated under subsection (1A) or (1B) only if:
+
+                     (a)  either:
+
+                              (i)  the boat’s particulars are already registered on the Fishing Permits Register; or
+
+                             (ii)  the boat is an Australian boat; and
+
+                     (b)  the acceptance of the nomination would not be contrary to:
+
+                              (i)  a condition of the permit; or
+
+                             (ii)  the regulations; and
+
+                     (c)  for the purposes of a permit to fish in a specified fishery on the high seas—the boat is an Australian-flagged boat.
+
+## 12  Subsections 32(9A) and (10)
+
+Repeal the subsections.
+
+## 13  At the end of Division 5 of Part 3
+
+Add:
+
+##### <a id="32A"></a>32A  Transfer of fishing permits
+
+             (1)  This section is about the holder of a fishing permit transferring the permit to another person.
+
+             (2)  The holder of the fishing permit must apply to AFMA, in the approved form, to register the transfer.
+
+             (3)  The transfer takes effect when AFMA registers the transfer.
+
+             (4)  AFMA must register the transfer unless:
+
+                     (a)  the fishing permit is suspended under section 38; or
+
+                     (b)  the holder of the fishing permit:
+
+                              (i)  is being investigated for a fisheries offence; or
+
+                             (ii)  has been convicted of a fisheries offence; or
+
+                     (c)  a levy on the fishing permit that is due has not been paid; or
+
+                     (d)  other circumstances that are prescribed under the regulations exist.
+
+             (5)  Subsection (4) applies despite the fact that a requirement in a plan of management relating to the transfer has not been satisfied.
+
+             (6)  This section does not apply to a fishing permit that is stated to be non-transferable.
+
+## 14  Subsection 33(7A)
+
+Repeal the subsection.
+
+## 15  Subsection 34(10A)
+
+Repeal the subsection.
+
+## 16  Subsection 40(6A)
+
+Repeal the subsection.
+
+## 17  Subsection 46(4)
+
+Omit “subsection (4C)”, substitute “subsections (4C) and (4D)”.
+
+## 18  After subsection 46(4C)
+
+Insert:
+
+          (4D)  AFMA must register a lease, or transfer of ownership, of a fishing right unless:
+
+                     (a)  the fishing right is suspended under section 38; or
+
+                     (b)  the holder of the fishing right:
+
+                              (i)  is being investigated for a fisheries offence; or
+
+                             (ii)  has been convicted of a fisheries offence; or
+
+                     (c)  a levy on the fishing right that is due has not been paid; or
+
+                     (d)  other circumstances that are prescribed under the regulations exist.
+
+           (4E)  Subsection (4D) applies despite the fact that any requirement in a plan of management relating to the lease, or transfer, has not been satisfied.
+
+## 19  Section 49
+
+Repeal the section.
+
+## 20  After section 89
+
+Insert:
+
+##### <a id="89A"></a>89A  Defensive equipment
+
+             (1)  This section is about defensive equipment.
+
+             (2)  **_Defensive equipment_** is:
+
+                     (a)  a bulletproof vest; or
+
+                     (b)  an extendible baton; or
+
+                     (c)  handcuffs; or
+
+                     (d)  other equipment prescribed under the regulations.
+
+             (3)  The CEO may authorise an officer to be issued with, carry, use and store defensive equipment if the CEO considers:
+
+                     (a)  it is reasonably necessary for the officer to use the equipment in order to perform functions or exercise powers under this Act; and
+
+                     (b)  the officer has received adequate training in the effective, lawful and safe carriage, use and storage of defensive equipment.
+
+             (4)  The CEO may make the authorisation subject to conditions.
+
+             (5)  The officer may use the defensive equipment if the officer considers it is reasonably necessary to do so in order to perform functions or exercise powers under this Act or the regulations, subject to:
+
+                     (a)  any conditions in the CEO’s authorisation; and
+
+                     (b)  section 87J.
+
+             (6)  A person commits an offence if:
+
+                     (a)  the person has been issued with defensive equipment; and
+
+                     (b)  the person stops being an officer; and
+
+                     (c)  the person does not, as soon as practicable, return the defensive equipment to the CEO.
+
+                    Penalty:  2 penalty units.
+
+             (7)  Subsection (6) does not apply if the person has a reasonable excuse for not returning the defensive equipment to the CEO as soon as practicable.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (7): see subsection 13.3(3) of the _Criminal Code_.
+
+             (8)  An offence against subsection (6) is an offence of strict liability.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+## 21  Before section 163
+
+Insert:
+
+### Division 1—Electronic decision-making
+
+##### <a id="163A"></a>163A  What this Division is about
+
+                   This Division is about AFMA using a computer program to make certain decisions.
+
+##### <a id="163B"></a>163B  Electronic decision-making
+
+             (1)  AFMA may approve a computer program, which is under AFMA’s control, to be used to make a decision under:
+
+                     (a)  section 32; or
+
+                     (b)  section 32A; or
+
+                     (c)  section 46; or
+
+                     (d)  section 91; or
+
+                     (e)  a plan of management; or
+
+                      (f)  another provision of the fisheries legislation that is prescribed under the regulations.
+
+             (2)  While the approval is in force, the outcome of the use of the computer program (an **_electronic decision_**) is taken to be:
+
+                     (a)  a decision; and
+
+                     (b)  a decision made by AFMA.
+
+             (3)  AFMA’s approval must be made in writing.
+
+             (4)  An approval made under this section is not a legislative instrument.
+
+##### <a id="163C"></a>163C  Replacing an electronic decision
+
+             (1)  This section applies if AFMA is satisfied that an electronic decision that was made by a computer program was made at a time when the computer program was not functioning correctly.
+
+             (2)  A computer program is not functioning correctly if the electronic decision that was made by the computer program is not the same as the decision that AFMA would have made if an employee of AFMA had made the decision.
+
+Example:    A computer program may not be functioning correctly because of a computer virus or because of a typographical error that was made when data was entered into the computer.
+
+             (3)  AFMA may revoke the electronic decision and replace it with the decision that AFMA would have made if an employee of AFMA had made the decision.
+
+             (4)  AFMA may do so:
+
+                     (a)  on its own initiative; or
+
+                     (b)  on the written application of the applicant who had sought the electronic decision.
+
+             (5)  If AFMA revokes an electronic decision after AFMA has notified the applicant about the electronic decision, AFMA must, as soon as practicable after revoking the electronic decision, give to the applicant a written notice that states:
+
+                     (a)  that the electronic decision has been revoked; and
+
+                     (b)  the reasons for revoking the electronic decision; and
+
+                     (c)  the new decision.
+
+##### <a id="163D"></a>163D  Evidence of whether computer is functioning correctly
+
+             (1)  In any proceedings, a computer function notice is prima facie evidence of the matters that are stated in the notice.
+
+             (2)  A **_computer function notice_** is a document that:
+
+                     (a)  is, or is purported to be, signed by the CEO; and
+
+                     (b)  states whether or not a specified computer program was functioning correctly:
+
+                              (i)  in relation to a specified electronic decision; and
+
+                             (ii)  at a specified time or during a specified period.
+
+             (3)  A computer program is functioning correctly if an electronic decision that the computer program makes is the same as the decision that AFMA would have made if an employee of AFMA had made the decision.
+
+##### <a id="163E"></a>163E  Return of fishing concession certificate not necessary
+
+             (1)  This section applies if a plan of management requires the holder of a fishing concession to return the fishing concession certificate to AFMA.
+
+             (2)  The **_fishing concession certificate_** is the certificate that AFMA issued to the holder of the fishing concession as evidence of the grant of the fishing concession.
+
+             (3)  The holder of the fishing concession is no longer required to return the fishing concession certificate to AFMA.
+
+### Division 2—Other miscellaneous provisions
+
+## 22  Subsection 165(1) (definition of _relevant decision_)
+
+Omit “49 or”.
+
+As at 19 April 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
