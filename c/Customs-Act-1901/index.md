@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00923/Html/04e048dc-790d-456a-9e4a-f00ade5cf00c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00834/Html/d1ffad2c-553f-433f-b2ad-52bacbc7f304_files/image001.gif)
 
 # Customs Act 1901
 
 **Act No. 6 of 1901 as amended**
 
-This compilation was prepared on 10 December 2012
- taking into account amendments up to Act No. 172 of 2012
+This compilation was prepared on 15 November 2012
+ taking into account amendments up to Act No. 152 of 2012
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 183U
@@ -27,7 +27,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 – 4
+                                     Notes 2 and 3
                                      Table A
 
 Prepared by the Office of Parliamentary Counsel, Canberra
@@ -194,11 +194,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [64AB](#64AB).    Cargo reports
 
-64ABAA  Outturn reports
+64ABAA Outturn reports
 
-64ABAB  When outturn report is to be communicated to Customs
+64ABAB When outturn report is to be communicated to Customs
 
-64ABAC  Explanation of shortlanded or surplus cargo
+64ABAC Explanation of shortlanded or surplus cargo
 
 [64ACA](#64ACA). Passenger reports
 
@@ -210,7 +210,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [64ACE](#64ACE).  Communication of reports
 
-64ADAA  Requirements for communicating to Customs electronically
+64ADAA Requirements for communicating to Customs electronically
 
 [64ADA](#64ADA). Disclosure of cargo reports to port authorities
 
@@ -284,47 +284,57 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision AA—Information and grant of authority to deal with Subdivision AA goods**
 
-71AAAA  Meaning of _Subdivision AA goods_
+71AAAA Meaning of _Subdivision AA goods_
 
-71AAAB  Report and grant of authority to deal with Subdivision AA goods
+71AAAB Report and grant of authority to deal with Subdivision AA 
+ goods
 
-71AAAC  Suspension of authority to deal with Subdivision AA goods
+71AAAC Suspension of authority to deal with Subdivision AA goods
 
         **Subdivision AB—Information and grant of authority to deal with specified low value goods**
 
-71AAAD  Meaning of _specified low value goods_
+71AAAD Meaning of _specified low value goods_
 
-71AAAE  Regulations
+71AAAE Regulations
 
-71AAAF  Making a self‑assessed clearance declaration
+71AAAF Making a self‑assessed clearance declaration
 
-71AAAG  Customs’ response if a self‑assessed clearance declaration is communicated separately from a cargo report
+71AAAG Customs’ response if a self‑assessed clearance declaration is 
+ communicated separately from a cargo report
 
-71AAAH  Customs’ response if a self‑assessed clearance declaration is communicated together with a cargo report
+71AAAH Customs’ response if a self‑assessed clearance declaration is 
+ communicated together with a cargo report
 
 71AAAI Authority to deal with goods covered by a self‑assessed clearance declaration
 
-71AAAJ  Contents of authority to deal with specified low value goods
+71AAAJ Contents of authority to deal with specified low value goods
 
-71AAAK  No authority to deal with specified low value goods while subject to a direction to hold or further examine
+71AAAK No authority to deal with specified low value goods while 
+ subject to a direction to hold or further examine
 
-[71AAAL  No authority to deal with specified low value goods unless duty etc](#71AAAL  No authority to deal with specified low value goods unless duty etc). paid [_see_ Note 2]
+[71AAAL No authority to deal with specified low value goods unless  duty etc](#71AAAL No authority to deal with specified low value goods unless  duty etc). paid [_see_ Note 3]
 
-71AAAM  Suspension of authority to deal with specified low value goods
+71AAAM Suspension of authority to deal with specified low value 
+ goods
 
-71AAAN  Cancellation of authority to deal with specified low value goods
+71AAAN Cancellation of authority to deal with specified low value 
+ goods
 
-71AAAO  Officer may seek further information in relation to self‑assessed clearance declaration
+71AAAO Officer may seek further information in relation to 
+ self‑assessed clearance declaration
 
-71AAAP  Withdrawal of self‑assessed clearance declarations
+71AAAP Withdrawal of self‑assessed clearance declarations
 
-71AAAQ  Further self‑assessed clearance declaration not to be given while there is an existing self‑assessed clearance declaration
+71AAAQ Further self‑assessed clearance declaration not to be given 
+ while there is an existing self‑assessed clearance declaration
 
-71AAAR  Effect of withdrawal of a self‑assessed clearance declaration
+71AAAR Effect of withdrawal of a self‑assessed clearance declaration
 
-71AAAS  Annotation of self‑assessed clearance declaration by Customs for certain purposes not to constitute withdrawal
+71AAAS Annotation of self‑assessed clearance declaration by 
+ Customs for certain purposes not to constitute withdrawal
 
-71AAAT  Manner and effect of communicating self‑assessed clearance declarations to Customs
+71AAAT Manner and effect of communicating self‑assessed clearance 
+ declarations to Customs
 
         **Subdivision B—Import declarations**
 
@@ -398,8 +408,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [77](#77).          Repacking on wharf
 
-[77AA](#77AA).    Disclosure of information to cargo reporter or owner of 
- goods
+[77AA](#77AA).    Disclosure of information to cargo reporter or owner of goods
 
     **Division 5—Detention of goods in the public interest**
 
@@ -755,13 +764,13 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 4E—Exportation of goods to Chile** 
 
-126AKA  Definitions
+126AKA Definitions
 
 126AKB Record keeping obligations
 
 126AKC Power to require records
 
-126AKD  Power to ask questions
+126AKD Power to ask questions
 
     **Division 5—Miscellaneous**
 
@@ -909,8 +918,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision B—Rules of origin of goods claimed to be the produce or manufacture of Singapore**
 
-[153V](#153V).     Goods claimed to be the produce or manufacture of 
- Singapore
+[153V](#153V).     Goods claimed to be the produce or manufacture of Singapore
 
 [153VA](#153VA).  Goods wholly manufactured in Singapore
 
@@ -1048,9 +1056,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [153ZIH](#153ZIH). Goods wholly manufactured in New Zealand
 
-        **Subdivision G—Non‑qualifying operations**
+[153ZII](#153ZII).   [_see_ Note 2]
 
-[153ZIJ](#153ZIJ).   Non‑qualifying operations
+        **Subdivision GA–section 153ZIIA [_see_ Note 2]** 
 
         **Subdivision H—Consignment**
 
@@ -4286,7 +4294,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  For the purposes of this Act, a report that is sent electronically to Customs under section 64, 64AA, 64AAA, 64AAB, 64AAC, 64AB, 64ABAA, 64ACA or 64ACB is taken to have been communicated to Customs when an acknowledgment of the report is sent to the person identified in the report as the person sending it.
 
-##### <a id="64ADAA"></a>64ADAA  Requirements for communicating to Customs electronically
+##### <a id="64ADAA"></a>64ADAA  Requirements for communicating to Customs electronically
 
                    A communication that is required or permitted by this Subdivision to be made to Customs electronically must:
 
@@ -5356,7 +5364,7 @@ Note 2:       Customs does not have to give an authority to deal wit
 
                    Customs is not required to grant an authority to deal with specified low value goods at any time while the goods are subject to a direction under subparagraph 71AAAG(2)(b)(ii) or section 71AAAH.
 
-##### <a id="71AAAL"></a>71AAAL  No authority to deal with specified low value goods unless duty etc. paid [_see_ Note 2]
+##### <a id="71AAAL"></a>71AAAL  No authority to deal with specified low value goods unless duty etc. paid [_see_ Note 3]
 
 Duty etc. to be paid before authority given
 
@@ -6122,7 +6130,7 @@ Customs must:
 
              (4)  A person who has received a permission may examine the goods in accordance with the permission in the presence of an officer.
 
-##### <a id="71DL"></a>71DL  An officer may seek additional information
+##### <a id="71DL"></a>71DL  An officer may seek additional information
 
              (1)  Without limiting the information that may be required to be included in a warehouse declaration, if a warehouse declaration has been made in respect of goods, authority to deal with the goods may be refused until an officer doing duty in relation to warehouse declarations:
 
@@ -7048,7 +7056,7 @@ the former holder is entitled to a refund of an amount worked out using the form
 
           (1A)  For the purposes of subsection (1), the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00923/Html/04e048dc-790d-456a-9e4a-f00ade5cf00c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00834/Html/d1ffad2c-553f-433f-b2ad-52bacbc7f304_files/image002.gif)
 
 where:
 
@@ -7170,7 +7178,7 @@ give directions, in relation to the controlled goods, to any person in the depot
 
              (3)  A warehouse licence may authorize blending or packaging, processing, manufacture of excisable goods, trading or other activities specified in the licence to be carried on in the warehouse.
 
-##### <a id="80"></a>80  Applications for warehouse licences
+##### <a id="80"></a>80  Applications for warehouse licences
 
                    An application for a warehouse licence shall:
 
@@ -9970,7 +9978,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="130"></a>130  Ship’s and aircraft’s stores exempt from duty
 
-                   Except as provided by the regulations, ship’s stores and aircraft’s stores are not liable to duties of Customs.
+                   Except as provided by the regulations, ship’s stores and aircraft’s stores are not liable to duties of Customs.
 
 ##### <a id="130A"></a>130A  Entry not required for ship’s or aircraft’s stores
 
@@ -10834,7 +10842,7 @@ Definition of **similar goods**
 
 ##### <a id="153N"></a>153N  Manufactured goods originating in a Developing Country but not in any particular Developing Country
 
-                   Goods claimed to be the manufacture of a Developing Country, but not of any particular Developing Country, are the manufacture of a Developing Country, but not a particular Developing Country, if:
+                   Goods claimed to be the manufacture of a Developing Country, but not of any particular Developing Country, are the manufacture of a Developing Country, but not a particular Developing Country, if:
 
                      (a)  the last process in their manufacture was performed in Papua New Guinea or a Forum Island Country; and
 
@@ -11404,9 +11412,9 @@ materials and originating materials, are US originating goods.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision F sets out when
 
-accessories, spare parts or tools (imported with other goods) are US
+accessories, spare parts or tools (imported with other goods) are US originating
 
-originating goods.</li>
+goods.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision G deals with
 
@@ -12184,11 +12192,17 @@ goods are New Zealand originating goods because they are wholly manufactured in
 
   New Zealand.</li>
 
-<li class="BoxList" style="margin-left:21.25pt">•      Subdivision G provides that
+<li class="BoxList" style="margin-left:21.25pt">•      Subdivision G sets out when
 
-goods are not New Zealand originating goods under this Division merely because
+goods are New Zealand originating goods because their last process of
 
-of certain operations.</li>
+manufacture is performed in New Zealand. It is repealed on 1 January 2012.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•      Subdivision GA provides
+
+that goods are not New Zealand originating goods under this Division merely
+
+because of certain operations.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision H deals with
 
@@ -12416,25 +12430,9 @@ Note:          The value of the packaging material or containe
 
              (2)  The CEO may, by legislative instrument, determine specified materials imported into New Zealand to be manufactured raw materials of New Zealand.
 
-#### Subdivision G—Non‑qualifying operations
+##### <a id="153ZII"></a>153ZII  [_see_ Note 2]
 
-##### <a id="153ZIJ"></a>153ZIJ  Non‑qualifying operations
-
-             (1)  Goods are not New Zealand originating goods under this Division merely because of the following operations:
-
-                     (a)  operations to preserve goods in good condition for the purposes of transport or storage;
-
-                     (b)  disassembly of goods;
-
-                     (c)  affixing of marks, labels or other similar distinguishing signs on goods or their packaging;
-
-                     (d)  packaging, changes to packaging, the breaking up or assembly of packages or presenting goods for transport or sale;
-
-                     (e)  quality control inspections;
-
-                      (f)  any combination of operations referred to in paragraphs (a) to (e).
-
-             (2)  This section applies despite any other provision of this Division.
+#### Subdivision GA–section 153ZIIA [_see_ Note 2]
 
 #### Subdivision H—Consignment
 
@@ -12742,7 +12740,7 @@ Note:          The value of the packaging material or containe
 
 #### Subdivision E—Goods that are accessories, spare parts, tools or instructional or other information resources
 
-##### <a id="153ZJG"></a>153ZJG  Goods that are accessories, spare parts, tools or instructional or other information resources
+##### <a id="153ZJG"></a>153ZJG  Goods that are accessories, spare parts, tools or instructional or other information resources
 
                    Goods are **_Chilean originating goods_** if:
 
@@ -14112,7 +14110,7 @@ This number is not exceeded by 8 units of comparable goods sold in contemporary 
 
 Therefore, reference sales are the sales at the unit price of $20.
 
-##### <a id="161D"></a>161D  Deductive (later sales) value
+##### <a id="161D"></a>161D  Deductive (later sales) value
 
              (1)  The deductive (later sales) value of imported goods is their value calculated as if the value of each of the units were the unit price of comparable goods sold in the reference sale or sales. 
 
