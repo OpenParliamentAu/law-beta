@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00529/Html/18ef76e0-f453-45e9-81f2-7b65da316d47_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00383/Html/f961db10-ea5b-44d4-a239-628e3c9f7cf8_files/image001.gif)
 
 # Education Services for Overseas Students (Registration Charges) Act 1997
 
 **Act No. 18 of 1997 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 29 March 2012
  taking into account amendments up to Act No. 10 of 2012
 
 The text of any of those amendments not in force
@@ -94,7 +94,13 @@ Working out what constitutes a course
 
              (5)  For the purposes of this section, a course that spans 2 or more years is taken to be a separate course in each of those years.
 
-             (6)  For the purposes of this section, a course is taken to be a separate course at each location at which the provider is registered to provide the course.
+             (6)  For the purposes of this section, if:
+
+                     (a)  a provider is registered to provide a course for a State; and
+
+                     (b)  the Register lists one or more locations within the State where the course will be provided;
+
+the course is taken to be a separate course at each of those locations.
 
 Regulations
 
@@ -118,11 +124,11 @@ Application of section
 
              (1)  This section applies if:
 
-                     (a)  a designated authority recommends under section 9AA of the _Education Services for Overseas Students Act 2000_ (the **_ESOS Act_**) that a provider be registered under that Act to provide a course at a location to overseas students; and
+                     (a)  a designated authority for a State recommends under section 9 of the _Education Services for Overseas Students Act 2000_ (the **_ESOS Act_**) that a provider be registered under that Act to provide a course for the State to overseas students; and
 
-                     (b)  the provider meets the requirements in subsection 9AB(1) of that Act, other than the requirement in paragraph 9AB(1)(c); and
+                     (b)  the provider meets the requirements in subsection 9(2) of that Act, other than the requirement in paragraph 9(2)(aa); and
 
-                     (c)  at the time the provider meets those requirements, the provider is not registered to provide any course at any locations.
+                     (c)  at the time the provider meets those requirements, the provider is not registered to provide any course for any State.
 
 Amount of the entry to market charges and due dates
 
@@ -175,8 +181,8 @@ Amount of the entry to market charges and due dates
     <div>$7,500</div>
   </td>
   <td>
-    <div>The time when the provider becomes registered to provide the course at
-      the location under section 9AB of the ESOS Act</div>
+    <div>The time when the provider becomes registered to provide the course for
+      the State under section 9 of the ESOS Act</div>
   </td>
 </tr>
 <tr>
@@ -188,8 +194,8 @@ Amount of the entry to market charges and due dates
   </td>
   <td>
     <div>The end of the first anniversary of the day on which the provider was
-      registered to provide the course at the location under section 9AB of the
-      ESOS Act</div>
+      registered to provide the course for the State under section 9 of the ESOS
+      Act</div>
   </td>
 </tr>
 <tr>
@@ -201,14 +207,14 @@ Amount of the entry to market charges and due dates
   </td>
   <td>
     <div>The end of the second anniversary of the day on which the provider was
-      registered to provide the course at the location under section 9AB of the
-      ESOS Act</div>
+      registered to provide the course for the State under section 9 of the ESOS
+      Act</div>
   </td>
 </tr></table>
 
 Note:          The dollar amounts of the charges are indexed under section 7.
 
-             (3)  A provider is liable to pay the second or third entry to market charge only if the provider is still registered to provide the course at the location on the relevant anniversary referred to in column 2 of table item 2 or 3.
+             (3)  A provider is liable to pay the second or third entry to market charge only if the provider is still registered to provide the course for the State on the relevant anniversary referred to in column 2 of table item 2 or 3.
 
 Exemptions from the charges
 
@@ -228,7 +234,7 @@ Indexation formula
 
              (2)  The dollar amounts specified in subsection 5(2), in regulations made under paragraph 5(7)(a), or in column 1 of the table in subsection 6(2), are to be adjusted for the current year by multiplying the amounts that applied to the year before the current year by the indexation factor worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00529/Html/18ef76e0-f453-45e9-81f2-7b65da316d47_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00383/Html/f961db10-ea5b-44d4-a239-628e3c9f7cf8_files/image002.gif)
 
 where:
 
@@ -333,7 +339,7 @@ of Assent</div>
     <div>21 Dec 2000</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2) and Schedule 2: 4 June 2001 ( <i>see Gazette</i>2001, No. S175)</div>
+    <div>Schedule 1 (item 2) and Schedule 2: 4 June 2001 ( <i>see Gazette</i>2001, No. S175) <i>(a)</i></div>
   </td>
   <td>
     <div>Sch. 2</div>
@@ -453,7 +459,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 2 (item 88): <i>(a)</i></div>
+    <div>Schedule 2 (item 88): \[ <i>see</i> <i>(b)</i>and Table A]</div>
   </td>
   <td>
     <div>—</div>
@@ -470,7 +476,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2012</div>
   </td>
   <td>
-    <div>Schedule 1: <i>(b)</i> 
+    <div>Schedule 1: \[ <i>see (c)</i>andNote 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -478,7 +484,11 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
-_(b)_    Subsection 2(1) (items 6 and 8) of the _Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012_ provides as follows:
+_(a)_     The _Education Services for Overseas Students (Registration Charges) Act 1997_ was amended by Schedule 1 (item 2) only of the _Education Services for Overseas Students (Consequential and Transitional) Act 2000_, subsection 2(4) of which provides as follows:
+
+                 (4)   The remaining provisions of this Act commence on a day or days to be fixed by Proclamation.
+
+_(b)_     Subsection 2(1) (items 6 and 8) of the _Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -560,7 +570,7 @@ _(b)_    Subsection 2(1) (items 6 and 8) of the _Education Services for 
   </td>
   <td>
     <div>
-      1 July 2012
+
     </div>
   </td>
 </tr>
@@ -590,15 +600,15 @@ _(b)_    Subsection 2(1) (items 6 and 8) of the _Education Services for 
   </td>
   <td>
     <div>
-      1 July 2012
-    </div>
-    <div>
-      (paragraph (a) applies)
+      \[
+        <i>see</i>Table A]
+
+(paragraph (a) applies)
     </div>
   </td>
 </tr></table>
 
-_(b)_     Subsection 2(1) (item 2) of the _Education Services for Overseas Students (Registration Charges) Amendment (Tuition Protection Service)_ _Act 2012_ provides as follows:
+_(c)_     Subsection 2(1) (item 2) of the _Education Services for Overseas Students (Registration Charges) Amendment (Tuition Protection Service)_ _Act 2012_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -661,9 +671,9 @@ _(b)_     Subsection 2(1) (item 2) of the _Education Services for Over
   </td>
   <td>
     <div>
-      1 July 2012
-    </div>
-    <div>
+      \[
+        <i>see</i>Note 2]
+
       (paragraph (a) applies)
     </div>
   </td>
@@ -721,7 +731,7 @@ _(b)_     Subsection 2(1) (item 2) of the _Education Services for Over
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 167, 2000; No. 89, 2003; No. 105, 2011; No. 10, 2012</div>
+    <div>am. No. 167, 2000; No. 89, 2003; No. 105, 2011</div>
   </td>
 </tr>
 <tr>
@@ -806,14 +816,6 @@ _(b)_     Subsection 2(1) (item 2) of the _Education Services for Over
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 10, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 6(1)</div>
   </td>
   <td>
@@ -838,15 +840,7 @@ _(b)_     Subsection 2(1) (item 2) of the _Education Services for Over
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 7(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 7(3)</div>
+    <div>Subheads. to s. 7(2), (3)</div>
   </td>
   <td>
     <div>ad. No. 105, 2011</div>
@@ -892,6 +886,44 @@ _(b)_     Subsection 2(1) (item 2) of the _Education Services for Over
     <div>rs. No. 105, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Education Services for Overseas Students (Registration Charges) Amendment (Tuition Protection Service) Act 2012 (No. 10, 2012)_
+
+The following amendments commence immediately after 1 July 2012:
+
+## Schedule 1
+
+## 1  Subsection 5(6)
+
+Repeal the subsection, substitute:
+
+             (6)  For the purposes of this section, a course is taken to be a separate course at each location at which the provider is registered to provide the course.
+
+## 2  Subsection 6(1)
+
+Repeal the subsection, substitute:
+
+Application of section
+
+             (1)  This section applies if:
+
+                     (a)  a designated authority recommends under section 9AA of the _Education Services for Overseas Students Act 2000_ (the **_ESOS Act_**) that a provider be registered under that Act to provide a course at a location to overseas students; and
+
+                     (b)  the provider meets the requirements in subsection 9AB(1) of that Act, other than the requirement in paragraph 9AB(1)(c); and
+
+                     (c)  at the time the provider meets those requirements, the provider is not registered to provide any course at any locations.
+
+## 3  Subsection 6(2) (table)
+
+Omit “for the State under section 9” (wherever occurring), substitute “at the location under section 9AB”.
+
+## 4  Subsection 6(3)
+
+Omit “for the State”, substitute “at the location”.
+
+As at 29 March 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1005,10 +1037,21 @@ _Education Services for Overseas Students (Registration Charges) Amendment Act 2
 
 ## Schedule 1
 
-## 14  Application
+## \[NOTE]  14  Application
 
 (1)       The amendments made by this Schedule (other than the amendments made by items 6 and 13 of this Schedule) apply on and after the first 1 January that occurs after this Schedule commences.
 
-(2)       The amendment made by item 6 of this Schedule applies in relation to any recommendation made by a designated authority under section 9AA of the _Education Services for Overseas Students Act 2000_ on or after the first 1 January that occurs after this Schedule commences.
+(2)       The amendment made by item 6 of this Schedule applies in relation to any recommendation made by a designated authority for a State under section 9 of the _Education Services for Overseas Students Act 2000_ on or after the first 1 January that occurs after this Schedule commences.
+
+_\[NOTE]:  Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 
+ (No. 9, 2012)_
+
+The following amendment commences immediately after 1 July 2012 and amends the _Education Services for Overseas Students (Registration Charges) Amendment Act 2011_ (No. 105, 2011) as follows:
+
+## Schedule 2
+
+## 88  Subitem 14(2) of Schedule 1
+
+Omit “for a State under section 9”, substitute “under section 9AA”.
 
  
