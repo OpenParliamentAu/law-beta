@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00312/Html/AusCentreForInertAgriRes82WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00443/Html/AusCentreForInertAgriRes82WD02_image001.gif)
 
 # Australian Centre for International Agricultural Research Act 1982
 
 **Act No. 9 of 1982 as amended**
 
-This compilation was prepared on 8 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 6 July 2007
+ taking into account amendments up to Act No. 115 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -26,7 +26,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Interpretation
 
-**Part II—The Australian Centre for International Agricultural Research**
+**Part II—The Australian Centre for International Agricultural Research**
 
 [4](#4).            Establishment of Centre
 
@@ -38,9 +38,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Functions of the staff of the Centre
 
-**Part III—Commission for International Agricultural Research** 
+**Part III—Commission for International Agricultural Research** 
 
-    **Division 1—The Commission**
+    **Division 1—The Commission**
 
 [7](#7).            Establishment of Commission
 
@@ -48,7 +48,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Functions of the Commission
 
-    **Division 2—The Commissioners**
+    **Division 2—The Commissioners**
 
 [10](#10).          Appointment of Commissioners
 
@@ -68,7 +68,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16B](#16B).       Disclosure of interests
 
-    **Division 3—Meetings of the Commission**
+    **Division 3—Meetings of the Commission**
 
 [16C](#16C).       Times and places of meetings
 
@@ -82,15 +82,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [16H](#16H).       Conduct of meetings
 
-    **Division 4—Delegation by Commission**
+    **Division 4—Delegation by Commission**
 
 [16J](#16J).        Delegation by Commission
 
-    **Division 5—Directions by the Minister**
+    **Division 5—Directions by the Minister**
 
 [16K](#16K).       Directions by the Minister
 
-**Part IV—The Policy Advisory Council**
+**Part IV—The Policy Advisory Council**
 
 [17](#17).          Establishment of Council
 
@@ -108,7 +108,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [23](#23).          Meetings of Council
 
-**Part V—The CEO**
+**Part V—The CEO**
 
 [24](#24).          Appointment of CEO
 
@@ -132,7 +132,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [29E](#29E).        CEO not subject to direction by the Commission on certain matters
 
-**Part VI—Staff and consultants**
+**Part VI—Staff and consultants**
 
 [30](#30).          Staff
 
@@ -140,7 +140,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32](#32).          Consultants
 
-**Part VII—Finance**
+**Part VII—Finance**
 
 [33](#33).          Australian Centre for International Agricultural Research Account
 
@@ -148,7 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35](#35).          Purposes of the Account
 
-**Part VIII—Miscellaneous**
+**Part VIII—Miscellaneous**
 
 [39](#39).          Annual report
 
@@ -174,7 +174,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="account"></a>**_Account_** means the account continued in existence by section 33.
+                    <a name="account"></a>**_Account_** means the account continued in existence by section 33.
 
                     <a name="agricultur-research"></a>**_agricultural research_** means scientific, technical, economic or socio-economic research in connection with agriculture, and includes the publication of reports, periodicals, books and papers in connection with any such research.
 
@@ -190,9 +190,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="chair"></a>**_Chair_** means the Chair of the Commission.
 
-                    <a name="commiss"></a>**_Commission_** means the Commission for International Agricultural Research established by section 7.
+                    <a name="commiss"></a>**_Commission_** means the Commission for International Agricultural Research established by section 7.
 
-                    <a name="commission"></a>**_Commissioner_** means a Commissioner of the Commission appointed in accordance with section 10 and includes the Chair.
+                    <a name="commission"></a>**_Commissioner_** means a Commissioner of the Commission appointed in accordance with section 10 and includes the Chair.
 
                     <a name="council"></a>**_Council_** means the Policy Advisory Council.
 
@@ -214,7 +214,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="presid"></a>**_President_** means the President of the Council.
 
-## Part II—The Australian Centre for International Agricultural Research
+## Part II—The Australian Centre for International Agricultural Research
 
 ##### <a id="4"></a>4  Establishment of Centre
 
@@ -224,13 +224,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  the CEO; and
 
-                     (b)  the staff of the Centre referred to in section 30.
+                     (b)  the staff of the Centre referred to in section 30.
 
 ##### <a id="4A"></a>4A  The Chief Executive Officer
 
                    There is to be a Chief Executive Officer of the Centre.
 
-Note:          Part V deals with the appointment and terms and conditions of the CEO.
+Note:          Part V deals with the appointment and terms and conditions of the CEO.
 
 ##### <a id="5"></a>5  Functions of the CEO
 
@@ -246,7 +246,7 @@ Note:          Part V deals with the appointment and terms a
 
                      (c)  to communicate to persons and institutions the results of such agricultural research; and
 
-                     (d)  to establish and fund training schemes related to the research programs referred to in paragraph (a); and
+                     (d)  to establish and fund training schemes related to the research programs referred to in paragraph (a); and
 
                      (e)  to conduct and fund development activities related to those research programs; and
 
@@ -256,27 +256,27 @@ Note:          Part V deals with the appointment and terms a
 
              (3)  Nothing in this section authorises, or permits, the CEO to carry out research on behalf of the Commonwealth.
 
-             (4)  The CEO must, in performing his or her functions, comply with any directions given to the CEO under section 5A.
+             (4)  The CEO must, in performing his or her functions, comply with any directions given to the CEO under section 5A.
 
 ##### <a id="5A"></a>5A  Power of Minister to give directions
 
              (1)  The Minister may, by writing, give directions to the CEO with respect to the performance of the CEO’s functions under this Act (including in relation to the appropriate strategic direction the CEO should take in performing his or her functions).
 
-Note:          A direction under this section is included in the annual report: see section 39.
+Note:          A direction under this section is included in the annual report: see section 39.
 
-             (2)  A direction given under subsection (1) is not a legislative instrument.
+             (2)  A direction given under subsection (1) is not a legislative instrument.
 
 ##### <a id="6"></a>6  Functions of the staff of the Centre
 
-                   The functions of the staff of the Centre referred to in section 30 are to assist the CEO perform his or her functions.
+                   The functions of the staff of the Centre referred to in section 30 are to assist the CEO perform his or her functions.
 
-## Part III—Commission for International Agricultural Research
+## Part III—Commission for International Agricultural Research
 
-### Division 1—The Commission
+### Division 1—The Commission
 
 ##### <a id="7"></a>7  Establishment of Commission
 
-                   The Commission for International Agricultural Research is established by this section.
+                   The Commission for International Agricultural Research is established by this section.
 
 ##### <a id="8"></a>8  Constitution of the Commission
 
@@ -298,7 +298,7 @@ Note:          A direction under this section is included in t
 
                      (d)  to provide advice to the Minister, on the Minister’s request, on any other matter relating to this Act.
 
-### Division 2—The Commissioners
+### Division 2—The Commissioners
 
 ##### <a id="10"></a>10  Appointment of Commissioners
 
@@ -332,7 +332,7 @@ Note:          A direction under this section is included in t
 
                      (b)  during any period, or during all periods, when the Commissioner is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          Section 33A of the _Acts Interpretation Act 1901_ contains provisions relating to acting appointments.
+Note:          Section 33A of the _Acts Interpretation Act 1901_ contains provisions relating to acting appointments.
 
              (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
 
@@ -372,7 +372,7 @@ Note:          Section 33A of the _Acts Interpretation Act 1
 
                      (b)  the Commissioner is absent, except on leave of absence, from 3 consecutive meetings of the Commission; or
 
-                     (c)  the Commissioner fails, without reasonable excuse, to comply with section 16B.
+                     (c)  the Commissioner fails, without reasonable excuse, to comply with section 16B.
 
 ##### <a id="16B"></a>16B  Disclosure of interests
 
@@ -384,9 +384,9 @@ Disclosure to Commission
 
              (2)  A Commissioner who has a direct or indirect pecuniary interest in a matter being considered or about to be considered by the Commission must disclose the nature of the interest to a meeting of the Commission.
 
-             (3)  The disclosure under subsection (2) must be made as soon as possible after the relevant facts have come to the Commissioner’s knowledge.
+             (3)  The disclosure under subsection (2) must be made as soon as possible after the relevant facts have come to the Commissioner’s knowledge.
 
-             (4)  The disclosure under subsection (2) must be recorded in the minutes of the meeting of the Commission.
+             (4)  The disclosure under subsection (2) must be recorded in the minutes of the meeting of the Commission.
 
              (5)  The Commissioner:
 
@@ -394,7 +394,7 @@ Disclosure to Commission
 
                      (b)  must not take part in any decision of the Commission with respect to the matter.
 
-### Division 3—Meetings of the Commission
+### Division 3—Meetings of the Commission
 
 ##### <a id="16C"></a>16C  Times and places of meetings
 
@@ -432,13 +432,13 @@ Disclosure to Commission
 
              (2)  The Commission must ensure that minutes of its meetings are kept.
 
-### Division 4—Delegation by Commission
+### Division 4—Delegation by Commission
 
 ##### <a id="16J"></a>16J  Delegation by Commission
 
              (1)  The Commission may, by resolution, delegate all or any of its functions or powers under this Act to a Commissioner.
 
-Note:          Sections 34AA to 34A of the _Acts Interpretation Act 1901_ contain provisions relating to delegations.
+Note:          Sections 34AA to 34A of the _Acts Interpretation Act 1901_ contain provisions relating to delegations.
 
              (2)  In exercising a delegated function or power, the delegate must comply with any written directions of the Commission.
 
@@ -448,21 +448,21 @@ Note:          Sections 34AA to 34A of the _Acts Interpretat
 
              (5)  A certificate signed by the Chair stating any matter with respect to the delegation is prima facie evidence of the matter.
 
-             (6)  A document purporting to be a certificate mentioned in subsection (5) is taken to be such a certificate and to have been duly given unless the contrary is established.
+             (6)  A document purporting to be a certificate mentioned in subsection (5) is taken to be such a certificate and to have been duly given unless the contrary is established.
 
-### Division 5—Directions by the Minister
+### Division 5—Directions by the Minister
 
 ##### <a id="16K"></a>16K  Directions by the Minister
 
              (1)  The Minister may, by writing, give directions to the Commission with respect to the performance of the Commission’s functions under this Act.
 
-             (2)  In giving a direction, the Minister must have regard to any relevant advice that he or she may have received from the Council under section 18.
+             (2)  In giving a direction, the Minister must have regard to any relevant advice that he or she may have received from the Council under section 18.
 
              (3)  The Minister must give a copy of a direction to the CEO.
 
-Note:          A direction under this section is included in the annual report: see section 39.
+Note:          A direction under this section is included in the annual report: see section 39.
 
-## Part IV—The Policy Advisory Council
+## Part IV—The Policy Advisory Council
 
 ##### <a id="17"></a>17  Establishment of Council
 
@@ -512,7 +512,7 @@ Note:          A direction under this section is included in t
 
                      (a)  shall be appointed to be a part-time member; and
 
-                     (b)  holds office for such term, not exceeding 3 years, as is specified in the instrument of his or her appointment.
+                     (b)  holds office for such term, not exceeding 3 years, as is specified in the instrument of his appointment.
 
              (5)  The performance of the functions of the Council is not affected by reason only of the existence of either or both of the following circumstances:
 
@@ -520,7 +520,7 @@ Note:          A direction under this section is included in t
 
                      (c)  the number of members referred to in paragraph (1)(d) having fallen below 9 for a period of not more than 3 months.
 
-             (6)  The appointment of a person under subsection (2) is not invalidated, and shall not be called in question, by reason of a defect or irregularity in, or in connection with, his or her appointment.
+             (6)  The appointment of a person under subsection (2) is not invalidated, and shall not be called in question, by reason of a defect or irregularity in, or in connection with, his appointment.
 
 ##### <a id="19A"></a>19A  Remuneration and allowances
 
@@ -540,7 +540,7 @@ Note:          A direction under this section is included in t
 
              (2)  If an appointed member of the Council:
 
-                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
+                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his creditors or makes an assignment of his remuneration for their benefit; or
 
                      (b)  is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council otherwise than on business of the Council undertaken with the approval of the Council;
 
@@ -548,19 +548,19 @@ the Minister shall terminate the appointment of that member.
 
 ##### <a id="22"></a>22  Resignation
 
-                   An appointed member of the Council may resign his or her office by writing signed by him or her and delivered to the Minister.
+                   An appointed member of the Council may resign his office by writing signed by him and delivered to the Minister.
 
 ##### <a id="23"></a>23  Meetings of Council
 
              (1)  The President:
 
-                     (a)  shall convene such meetings of the Council as he or she considers necessary for the conduct of its business; and
+                     (a)  shall convene such meetings of the Council as he considers necessary for the conduct of its business; and
 
                      (b)  shall, on receipt of a written request signed by no fewer than 6 members of the Council, convene a meeting of the Council.
 
              (2)  The Minister may at any time convene a meeting of the Council.
 
-             (3)  The President shall preside at all meetings of the Council at which he or she is present.
+             (3)  The President shall preside at all meetings of the Council at which he is present.
 
              (4)  If the President is not present at a meeting of the Council, the members present shall elect one of their number to preside at that meeting.
 
@@ -572,7 +572,7 @@ the Minister shall terminate the appointment of that member.
 
              (8)  Subject to this section, the Council may regulate the conduct of proceedings at its meetings as it thinks fit and shall keep minutes of those proceedings.
 
-## Part V—The CEO
+## Part V—The CEO
 
 ##### <a id="24"></a>24  Appointment of CEO
 
@@ -610,7 +610,7 @@ the Minister shall terminate the appointment of that member.
 
                      (b)  during any period, or during all periods, when the CEO is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          Section 33A of the _Acts Interpretation Act 1901_ contains provisions relating to acting appointments.
+Note:          Section 33A of the _Acts Interpretation Act 1901_ contains provisions relating to acting appointments.
 
              (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
 
@@ -652,7 +652,7 @@ Note:          Section 33A of the _Acts Interpretation Act 1
 
                      (c)  the CEO engages, except with the Minister’s approval, in paid employment outside the duties of his or her office; or
 
-                     (d)  the CEO fails, without reasonable excuse, to comply with section 29D.
+                     (d)  the CEO fails, without reasonable excuse, to comply with section 29D.
 
 ##### <a id="29D"></a>29D  Disclosure of interests
 
@@ -668,7 +668,7 @@ Note:          Section 33A of the _Acts Interpretation Act 1
 
 in relation to the Centre.
 
-## Part VI—Staff and consultants
+## Part VI—Staff and consultants
 
 ##### <a id="30"></a>30  Staff
 
@@ -690,7 +690,7 @@ in relation to the Centre.
 
                    The CEO may, on behalf of the Commonwealth, engage consultants to perform services for the CEO related to the CEO’s functions.
 
-## Part VII—Finance
+## Part VII—Finance
 
 ##### <a id="33"></a>33  Australian Centre for International Agricultural Research Account
 
@@ -718,11 +718,11 @@ Note:          An Appropriation Act provides for amounts to be
 
              (2)  Amounts standing to the credit of the Account may be debited for the following purposes:
 
-                     (a)  in payment or discharge of the costs, expenses and other obligations incurred by the Commonwealth in the performance of the functions of the CEO or of the staff of the Centre referred to in section 30;
+                     (a)  in payment or discharge of the costs, expenses and other obligations incurred by the Commonwealth in the performance of the functions of the CEO or of the staff of the Centre referred to in section 30;
 
                      (b)  in payment of any remuneration and allowances payable to any person under this Act.
 
-## Part VIII—Miscellaneous
+## Part VIII—Miscellaneous
 
 ##### <a id="39"></a>39  Annual report
 
@@ -734,9 +734,9 @@ Note:          An Appropriation Act provides for amounts to be
 
                      (b)  an audit report on those statements under section 57 of the _Financial Management and Accountability Act 1997_; and
 
-                     (c)  particulars of all directions given during the year by the Minister to the CEO under section 5A; and
+                     (c)  particulars of all directions given during the year by the Minister to the CEO under section 5A; and
 
-                     (d)  particulars of all directions given during the year by the Minister to the Commission under section 16K.
+                     (d)  particulars of all directions given during the year by the Minister to the Commission under section 16K.
 
              (3)  The Minister must cause a copy of the report to be tabled in each House of the Parliament as soon as practicable.
 
@@ -754,7 +754,7 @@ Note:          An Appropriation Act provides for amounts to be
 
 The _Australian Centre for International Agricultural Research Act 1982_ as shown in this compilation comprises Act No. 9, 1982 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1006,7 +1006,7 @@ Remainder: Royal Assent</div>
     <div>22 Feb 2005</div>
   </td>
   <td>
-    <div>S. 4 and Schedule 1 (items 84–88, 496): Royal Assent</div>
+    <div>S. 4 and Schedule 1 (items 84–88, 496): Royal Assent</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
@@ -1027,23 +1027,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 2 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td colspan="2">
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 80–86): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -1114,7 +1097,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
 </thead>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b>Part I</b></div>
   </td>
   <td>
     <div></div>
@@ -1125,12 +1108,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 170, 1992; No. 152, 1997; No. 8, 2005; No. 115, 2007</div>
+    <div>am. No. 170, 1992; No. 152, 1997; No. 8, 2005; No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
+    <div><b>Part II</b></div>
   </td>
   <td>
     <div></div>
@@ -1141,7 +1124,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 39, 1983; No. 115, 2007</div>
+    <div>am. No. 39, 1983; No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1149,7 +1132,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 4A</div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>ad. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1157,7 +1140,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>Heading to s. 5</div>
   </td>
   <td>
-    <div>am. No. 115, 2007</div>
+    <div>am. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1165,7 +1148,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 170, 1992; No. 115, 2007</div>
+    <div>am. No. 170, 1992; No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1173,7 +1156,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 5A</div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>ad. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1181,12 +1164,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 6</div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
+    <div><b>Part III</b></div>
   </td>
   <td>
     <div></div>
@@ -1194,15 +1177,15 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
 </tr>
 <tr>
   <td>
-    <div>Part III</div>
+    <div>Part III</div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
+    <div><b>Division 1</b></div>
   </td>
   <td>
     <div></div>
@@ -1213,7 +1196,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 7</div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1229,7 +1212,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1245,7 +1228,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1261,12 +1244,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
+    <div><b>Division 2</b></div>
   </td>
   <td>
     <div></div>
@@ -1285,7 +1268,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1301,7 +1284,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1309,7 +1292,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>Ss. 12, 13</div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1325,7 +1308,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1333,7 +1316,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 16</div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1341,12 +1324,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>Ss. 16A, 16B</div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>ad. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
     <div></div>
@@ -1357,12 +1340,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>Ss. 16C–16H</div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>ad. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 4</b></div>
+    <div><b>Division 4</b></div>
   </td>
   <td>
     <div></div>
@@ -1373,12 +1356,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 16J</div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>ad. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
+    <div><b>Division 5</b></div>
   </td>
   <td>
     <div></div>
@@ -1389,12 +1372,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 16K</div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>ad. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
     <div></div>
@@ -1405,7 +1388,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 115, 2007</div>
+    <div>am. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1413,7 +1396,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 170, 1992; No. 146, 1999; No. 115, 2007; No. 73, 2008</div>
+    <div>am. No. 170, 1992; No. 146, 1999; No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1421,15 +1404,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 19A</div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 21, 22</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
+    <div>ad. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1437,12 +1412,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 170, 1992; No. 115, 2007; No. 73, 2008</div>
+    <div>am. No. 170, 1992; No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part V</b></div>
+    <div><b>Part V</b></div>
   </td>
   <td>
     <div></div>
@@ -1450,10 +1425,10 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
 </tr>
 <tr>
   <td>
-    <div>Part V</div>
+    <div>Part V</div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1461,7 +1436,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 24</div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1477,7 +1452,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1501,7 +1476,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1517,7 +1492,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1525,7 +1500,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>Ss. 28, 29</div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1533,12 +1508,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>Ss. 29A–29E</div>
   </td>
   <td>
-    <div>ad. No. 115, 2007</div>
+    <div>ad. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part VI</b></div>
+    <div><b>Part VI</b></div>
   </td>
   <td>
     <div></div>
@@ -1549,7 +1524,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>Ss. 30, 31</div>
   </td>
   <td>
-    <div>am. No. 63, 1984; No. 146, 1999; No. 115, 2007</div>
+    <div>am. No. 63, 1984; No. 146, 1999; No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1565,12 +1540,12 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div><b>Part VII</b></div>
+    <div><b>Part VII</b></div>
   </td>
   <td>
     <div></div>
@@ -1621,7 +1596,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 152, 1997; No. 8, 2005; No. 115, 2007</div>
+    <div>rs. No. 152, 1997; No. 8, 2005; No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1637,7 +1612,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 8, 2005; No. 115, 2007</div>
+    <div>rs. No. 8, 2005; No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1653,7 +1628,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 8, 2005; No. 115, 2007</div>
+    <div>rs. No. 8, 2005; No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1669,7 +1644,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rep. No. 115, 2007</div>
+    <div>rep. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1685,7 +1660,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rep. No. 115, 2007</div>
+    <div>rep. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1693,7 +1668,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div>S. 38</div>
   </td>
   <td>
-    <div>rep. No. 115, 2007</div>
+    <div>rep. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1746,7 +1721,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
 </tr>
 <tr>
   <td>
-    <div><b>Part VIII</b></div>
+    <div><b>Part VIII</b></div>
   </td>
   <td>
     <div></div>
@@ -1773,7 +1748,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>am. No. 115, 2007</div>
+    <div>am. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1789,7 +1764,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rep. No. 115, 2007</div>
+    <div>rep. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1805,7 +1780,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
     <div></div>
   </td>
   <td>
-    <div>rs. No. 115, 2007</div>
+    <div>rs. No. 115, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1821,7 +1796,7 @@ _(h)_ The _Australian Centre for International Agricultural Research Act 1982_ w
 
 ### Application, saving or transitional provisions
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
 
 ## Schedule 1
 
@@ -1831,21 +1806,21 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 
 * * *
 
-_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
+_Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
-##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
+##### <a id="4"></a>4  Saving of matters in Part 2 of Schedule 1
 
              (1)  If:
 
                      (a)  a decision or action is taken or another thing is made, given or done; and
 
-                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
+                     (b)  the thing is taken, made, given or done under a provision of a Part 2 Act that had effect immediately before the commencement of this Act;
 
-then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
+then the thing has the corresponding effect, for the purposes of the Part 2 Act as amended by this Act, as if it had been taken, made, given or done under the Part 2 Act as so amended.
 
              (2)  In this section:
 
-                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
+                    <a name="part-act"></a>**_Part 2 Act_** means an Act that is amended by an item in Part 2 of Schedule 1.
 
 ## Schedule 1
 
@@ -1855,7 +1830,7 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 
 * * *
 
-_Australian Centre for International Agricultural Research Amendment Act 2007 (No. 115, 2007)_
+_Australian Centre for International Agricultural Research Amendment Act 2007 (No. 115, 2007)_
 
 ## Schedule 2
 
@@ -1935,7 +1910,7 @@ In this Schedule:
 
                             (iii)  states that the land has become vested in the Commonwealth under this Part.
 
-_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 17._
+_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 17._
 
 (2)        The land registration official may:
 
@@ -1957,7 +1932,7 @@ _Note:       Certificates under paragraph (1)(b) are presumed to b
 
                             (iii)  states that the asset has become vested in the Commonwealth under this Part.
 
-_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 17._
+_Note:       Certificates under paragraph (1)(b) are presumed to be authentic: see item 17._
 
 (2)        The assets official may:
 
@@ -1991,11 +1966,11 @@ the instrument has effect from the commencement time as if the reference were a 
 
                      (a)  an instrument is in force immediately before the commencement time; and
 
-                     (b)  the instrument relates to assets or liabilities covered by item 2 or 3; and
+                     (b)  the instrument relates to assets or liabilities covered by item 2 or 3; and
 
                      (c)  the instrument refers to the Centre or to the Director;
 
-the reference is to be read as a reference to the Commonwealth as necessary to give effect to item 2 or 3, as the case requires.
+the reference is to be read as a reference to the Commonwealth as necessary to give effect to item 2 or 3, as the case requires.
 
 References to Board taken to be references to Commission
 
@@ -2009,31 +1984,31 @@ the instrument has effect from the commencement time as if the reference were a 
 
 Minister and regulations may provide otherwise
 
-(4)        The Minister may, by writing, determine that subitem (1), (2) or (3):
+(4)        The Minister may, by writing, determine that subitem (1), (2) or (3):
 
                      (a)  does not apply in relation to a specified reference; or
 
                      (b)  applies as if:
 
-                              (i)  in the case of subitem (1)—the reference in that subitem to the CEO were a reference to the Commonwealth; or
+                              (i)  in the case of subitem (1)—the reference in that subitem to the CEO were a reference to the Commonwealth; or
 
-                             (ii)  in the case of subitem (2)—the reference in that subitem to the Commonwealth were a reference to the CEO; or
+                             (ii)  in the case of subitem (2)—the reference in that subitem to the Commonwealth were a reference to the CEO; or
 
-                            (iii)  in the case of subitem (3)—the reference in that subitem to the Commission were a reference to the CEO.
+                            (iii)  in the case of subitem (3)—the reference in that subitem to the Commission were a reference to the CEO.
 
 A determination under this subitem has effect accordingly.
 
-(5)        The regulations may provide that an instrument containing a reference specified in a determination under paragraph (4)(a) has effect from the commencement time as if:
+(5)        The regulations may provide that an instrument containing a reference specified in a determination under paragraph (4)(a) has effect from the commencement time as if:
 
-                     (a)  in the case of an instrument covered by subitem (1)—the reference were a reference to a specified person or body other than the Commonwealth or the CEO; or
+                     (a)  in the case of an instrument covered by subitem (1)—the reference were a reference to a specified person or body other than the Commonwealth or the CEO; or
 
-                     (b)  in the case of an instrument covered by subitem (2)—the reference were a reference to a specified person or body other than the Commonwealth or the CEO; or
+                     (b)  in the case of an instrument covered by subitem (2)—the reference were a reference to a specified person or body other than the Commonwealth or the CEO; or
 
-                     (c)  in the case of an instrument covered by subitem (3)—the reference were a reference to a specified person or body other than the Commission or the CEO.
+                     (c)  in the case of an instrument covered by subitem (3)—the reference were a reference to a specified person or body other than the Commission or the CEO.
 
 Determinations are not legislative instruments
 
-(6)        A determination under subitem (4) is not a legislative instrument.
+(6)        A determination under subitem (4) is not a legislative instrument.
 
 ## 9  Operation of laws
 
@@ -2041,11 +2016,11 @@ Things done by Centre or Director taken to be done by CEO
 
 (1)        If, before the commencement time, a thing was done by, or in relation to, the Centre or the Director, then, for the purposes of the operation of any law of the Commonwealth after the commencement time, the thing is taken to have been done by, or in relation to, the CEO.
 
-(2)        For the purposes of subitem (1), a thing done before the commencement time under a provision that is amended by this Act has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
+(2)        For the purposes of subitem (1), a thing done before the commencement time under a provision that is amended by this Act has effect from that time as if it were done under that provision as amended. However, this is not taken to change the time at which the thing was actually done.
 
 Minister and regulations may provide otherwise
 
-(3)        The Minister may, by writing, determine that subitem (1):
+(3)        The Minister may, by writing, determine that subitem (1):
 
                      (a)  does not apply in relation to a specified thing done by, or in relation to, the Centre or the Director; or
 
@@ -2053,7 +2028,7 @@ Minister and regulations may provide otherwise
 
 A determination under this subitem has effect accordingly.
 
-(4)        The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a specified person or body other than the Commonwealth or the CEO.
+(4)        The regulations may provide for a thing specified in a determination under paragraph (3)(a) to be taken to have been done by, or in relation to, a specified person or body other than the Commonwealth or the CEO.
 
 Meaning of **doing**
 
@@ -2061,7 +2036,7 @@ Meaning of **doing**
 
 Determinations are not legislative instruments
 
-(6)        A determination made under subitem (3) is not a legislative instrument.
+(6)        A determination made under subitem (3) is not a legislative instrument.
 
 ## 10  Reporting requirements
 
@@ -2077,7 +2052,7 @@ the CEO must provide the report, as required, for so much of the period as occur
 
 (2)        If:
 
-                     (a)  under subitem (1), the CEO is required to provide a report for a part of a period; and
+                     (a)  under subitem (1), the CEO is required to provide a report for a part of a period; and
 
                      (b)  the CEO is also required to provide a similar report for the remainder of the period;
 
@@ -2099,7 +2074,7 @@ Application of law to CEO
 
 ## 11  CEO
 
-(1)        The person holding office as the Director under section 24 of the old law immediately before the commencement time is taken, at the commencement time, to have been duly appointed as the CEO by the Governor-General under section 24 of the new law:
+(1)        The person holding office as the Director under section 24 of the old law immediately before the commencement time is taken, at the commencement time, to have been duly appointed as the CEO by the Governor-General under section 24 of the new law:
 
                      (a)  for the balance of the person’s term of appointment that remained immediately before the commencement time; and
 
@@ -2117,11 +2092,11 @@ Application of law to CEO
 
 ## 13  Arrangements relating to external staff
 
-An arrangement in force under section 31 of the old law immediately before the commencement time continues in force after that time as if it had been entered into under section 31 of the new law.
+An arrangement in force under section 31 of the old law immediately before the commencement time continues in force after that time as if it had been entered into under section 31 of the new law.
 
 ## 14  Consultants
 
-(1)        A person in respect of whom an engagement was in force under section 32 of the old law immediately before the commencement time is taken, at the commencement time, to have been engaged as a consultant under section 32 of the new law.
+(1)        A person in respect of whom an engagement was in force under section 32 of the old law immediately before the commencement time is taken, at the commencement time, to have been engaged as a consultant under section 32 of the new law.
 
 (2)        The person is taken to have been engaged on the same terms and conditions as applied to the person immediately before the commencement time.
 
@@ -2171,6 +2146,6 @@ unless the contrary is established.
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Schedule.
 
-(2)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
+(2)        The Governor-General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments or repeals made by Schedule 1 to this Act.
 
  
