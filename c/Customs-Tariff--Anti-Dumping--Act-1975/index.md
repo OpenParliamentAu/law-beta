@@ -1,1241 +1,1474 @@
-![](http://www.comlaw.gov.au/Details/C2007C00026/Html/CustomsTariffAntiDumping1975_WD02_image001.gif)
+**
 
-# Customs Tariff (Anti-Dumping) Act 1975
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975 
+**
 
-**Act No. 76 of 1975 as amended**
 
-This compilation was prepared on 2 January 2007
- taking into account amendments up to Act No. 166 of 2006
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[6](#6).            Incorporation                                                                                       1
 
-[7](#7).            Imposition of duties of Customs                                                         1
 
-[8](#8).            Dumping duties                                                                                   1
+**
 
-[9](#9).            Third country dumping duties                                                             5
+###  Long Title 
+**
 
-[10](#10).          Countervailing duties                                                                           7
 
-[11](#11).          Third country countervailing duties                                                  10
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[12](#12).          Interim duty not to exceed security taken                                         13
+		This Act may be cited as the _Customs Tariff (Anti-Dumping) Act 1975_.
 
-[16](#16).          Duties to be charged separately                                                         13
+ </dl>
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[21](#21).          Special duties to be additional to ordinary duties                              13
+		This Act shall come into operation on the day on which it receives the Royal
 
-**Notes** 
+Assent.
 
-## An Act relating to certain Special Duties of Customs
+ </dl>
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 6  Incorporation 
+<dl compact="">
 
-##### <a id="1  "></a>1  Short title<a id=" "></a> [_see_ Note 1]
+		The _Customs Act 1901_(in this Act referred to as the Customs Act) is
 
-                   This Act may be cited as the _Customs Tariff (Anti-Dumping) Act 1975_.
+incorporated and shall be read as one with this Act.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+ </dl>
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 7  Imposition of duties of Customs 
+<dl compact="">
 
-                   This Act shall come into operation on the day on which it receives the Royal Assent.
+		Duties of Customs are imposed in accordance with this Act.
 
-##### <a id="6"></a>6  Incorporation
+ </dl>
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 8  Dumping duties 
+<dl compact="">
 
-                   The _Customs Act 1901_(in this Act referred to as the Customs Act) is incorporated and shall be read as one with this Act.
+<dt>(1)</dt><dd>This section does not apply to goods that are:
 
-##### <a id="7"></a>7  Imposition of duties of Customs
+</dd> </dl>
 
-                   Duties of Customs are imposed in accordance with this Act.
+<dl compact="">
 
-##### <a id="8"></a>8  Dumping duties
+<dt>(2)</dt><dd>There is imposed, and there must be collected and paid, on goods:
 
-             (1)  This section does not apply to goods that are New Zealand originating goods under Division 1E of Part VIII of the _Customs Act 1901_.
+</dd> </dl>
 
-             (2)  There is imposed, and there must be collected and paid, on goods:
+<dl compact="">
 
-                     (a)  to which this section applies by virtue of a notice under subsection 269TG(1) or (2) of the Customs Act; and
+<dt>(3)</dt><dd>Pending final assessment of the dumping duty payable on goods the subject
 
-                     (b)  in relation to which the amount of the export price is less than the amount of the normal value;
+of a notice under subsection 269TG(1) or (2) of the Customs Act, an interim
 
-a special duty of Customs, to be known as dumping duty, calculated in accordance with subsection (6).
+dumping duty is payable on those goods.</dd> <dt>(4)</dt><dd>Subject to subsection&#160;(5), the interim dumping duty payable on goods the subject of a notice under subsection 269TG(1) or (2) of the Customs Act is an amount equal to the sum of: </dd> </dl>
 
-             (3)  Pending final assessment of the dumping duty payable on goods the subject of a notice under subsection 269TG(1) or (2) of the Customs Act, an interim dumping duty is payable on those goods.
 
-             (4)  Subject to subsection (5), the interim dumping duty payable on goods the subject of a notice under subsection 269TG(1) or (2) of the Customs Act is an amount equal to the sum of:
+Back to Top
 
-                     (a)  the difference between the export price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice and the normal value of goods of that kind as so ascertained, or last so ascertained; and
 
-                     (b)  if the export price of those particular goods is lower than the export price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice—the amount by which the latter export price exceeds the former.
 
-             (5)  The Minister must, by signed notice, direct that the element of interim dumping duty referred to in paragraph (4)(a) in respect of particular goods be ascertained:
+<dl compact="">
 
-                     (a)  as a proportion of the export price of those particular goods or of the export price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the dumping duty notice, whichever is the greater; or
+<dt>(5)</dt><dd>The Minister must, by signed notice, direct that the element of interim
 
-                     (b)  by reference to a measure of the quantity of those particular goods; or
+dumping duty referred to in paragraph&#160;(4)(a) in respect of particular
 
-                     (c)  by reference to a combination of a proportion of the kind referred to in paragraph (a) and a measure of the quantity of those particular goods;
+goods be ascertained:
 
-and the notice has effect accordingly.
+</dd> </dl>
 
-          (5A)  The Minister must, in exercising his or her powers under subsection (5) in respect of particular goods the subject of a notice under subsection 269TG(1) or (2) of the Customs Act, if the non-injurious price of goods of that kind as ascertained or last ascertained by the Minister for the purposes of the notice is less than the normal value of goods of that kind as so ascertained, or last so ascertained, have regard to the desirability of fixing a lesser amount of duty such that the sum of:
 
-                     (a)  the export price of goods of that kind as so ascertained or last so ascertained; and
+<dl compact="">
 
-                     (b)  that lesser duty;
+<dt>(5A)</dt><dd>The Minister must, in exercising his or her powers under
 
-does not exceed that non-injurious price.
+subsection&#160;(5) in respect of particular goods the subject of a notice
 
-          (5B)  If, in the circumstances specified in section 269TJA of the Customs Act, both a notice under section 269TG of that Act and a notice under section 269TJ of that Act are published at the same time and in respect of the same goods, the Minister must, in exercising his or her powers under subsection (5) in relation to interim dumping duty in respect of the goods, have regard to the desirability of fixing the amount of interim dumping duty in respect of the goods such that the sum of:
+under subsection 269TG(1) or (2) of the Customs Act, if the non-injurious price
 
-                     (a)  the export price of those particular goods; and
+of goods of that kind as ascertained or last ascertained by the Minister for
 
-                     (b)  the amount of the interim dumping duty as so fixed; and
+the purposes of the notice is less than the normal value of goods of that kind
 
-                     (c)  the amount of interim countervailing duty as fixed under section 10;
+as so ascertained, or last so ascertained, have regard to the desirability of
 
-does not exceed the non-injurious price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of those notices.
+fixing a lesser amount of duty such that the sum of:
 
-          (5C)  If the Minister signs a notice under subsection (5), the Minister must cause a copy of that notice to be published in the _Gazette_ unless, in the opinion of the Minister, the publication of that notice would adversely affect the business or commercial interests of any person.
+</dd> </dl>
 
-          (5D)  A notice under subsection (5) applies to goods entered for home consumption on or after a day specified in the notice, which may be earlier than the day of publication of the notice but may not be a day on which an earlier notice under that subsection applied to the goods.
+<dl compact="">
 
-             (6)  The dumping duty payable on goods the subject of a notice under subsection 269TG(1) or (2) of the Customs Act is an amount equal to:
+<dt>(5B)</dt><dd>If, in the circumstances specified in section&#160;269TJA of the Customs
 
-                     (a)  unless paragraph (b) applies—the difference between the amounts that the Minister ascertains to be the export price and the normal value of those particular goods; or
+Act, both a notice under section&#160;269TG of that Act and a notice under
 
-                     (b)  if, in a notice under subsection (5), the Minister determines that the whole or a part of the interim dumping duty payable on those particular goods is to be ascertained by reference to the non-injurious price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the first-mentioned notice—the difference between:
+section&#160;269TJ of that Act are published at the same time and in respect of
 
-                              (i)  the amount that the Minister ascertains to be the export price of those particular goods; and
+the same goods, the Minister must, in exercising his or her powers under
 
-                             (ii)  the lower of the amount that the Minister ascertains to be the normal value of those particular goods and that non-injurious price.
+subsection&#160;(5) in relation to interim dumping duty in respect of the
 
-             (7)  The Minister may, by notice in writing, exempt goods from interim dumping duty and dumping duty if he is satisfied:
+goods, have regard to the desirability of fixing the amount of interim dumping
 
-                     (a)  that like or directly competitive goods are not offered for sale in Australia to all purchasers on equal terms under like conditions having regard to the custom and usage of trade;
+duty in respect of the goods such that the sum of:
 
-                     (b)  that a Tariff Concession Order under Part XVA of the _Customs Act 1901_ in respect of the goods is in force;
+</dd> </dl>
 
-                     (c)  that:
 
-                              (i)  where the goods are goods to which section 8 of the _Customs Tariff Act 1995_ applies—the item in Schedule 4 to that Act that applies to the goods is expressed to apply to goods, or to a class or kind of goods, as prescribed by by-law; and
+<dl compact="">
 
-                             (ii)  suitably equivalent goods the produce or manufacture of Australia are not reasonably available;
+<dt>(5C)</dt><dd>If the Minister signs a notice under subsection&#160;(5), the Minister
 
-                     (d)  that:
+must cause a copy of that notice to be published in the _Gazette_ unless,
 
-                              (i)  the tariff classification in Schedule 3 to that Act that applies to the goods is such that no duty is payable in respect of the goods or the duty payable in respect of the goods is at a rate equivalent to a rate payable under Schedule 4 on the goods; and
+in the opinion of the Minister, the publication of that notice would adversely
 
-                             (ii)  suitably equivalent goods the produce or manufacture of Australia are not reasonably available; or
+affect the business or commercial interests of any person.</dd> <dt>(5D)</dt><dd>A notice under subsection&#160;(5) applies to goods entered for home consumption on or after a day specified in the notice, which may be earlier than the day of publication of the notice but may not be a day on which an earlier notice under that subsection applied to the goods.</dd> <dt>(6)</dt><dd>The dumping duty payable on goods the subject of a notice under subsection 269TG(1) or (2) of the Customs Act is an amount equal to: </dd> </dl>
 
-                     (e)  that the goods, being articles of merchandise, are for use as samples for the sale of similar goods.
 
-             (8)  Where the Minister exempts goods from interim dumping duty and dumping duty under subsection (7) by reason of his being satisfied as to a matter specified in paragraph (7)(a), (c) or (d), the instrument of exemption shall be published in the _Gazette_.
 
-             (9)  In this section, a reference to a Tariff Concession Order includes a reference to a Commercial Tariff Concession Order made under Part XVA of the Customs Act as in force before section 10 of the _Customs Legislation (Tariff Concessions and Anti-Dumping) Amendment Act 1992_ commences.
+<dl compact="">
 
-##### <a id="9"></a>9  Third country dumping duties
+<dt>(7)</dt><dd>The Minister may, by notice in writing, exempt goods from interim dumping
 
-             (1)  This section does not apply to goods that are New Zealand originating goods under Division 1E of Part VIII of the _Customs Act 1901_.
+duty and dumping duty if he is satisfied:
 
-             (2)  There is imposed, and there must be collected and paid, on goods:
+</dd> </dl>
 
-                     (a)  to which this section applies by virtue of a notice under subsection 269TH(1) or (2) of the Customs Act; and
+Back to Top
 
-                     (b)  in relation to which the amount of the export price is less than the amount of the normal value;
 
-a special duty of Customs, to be known as third country dumping duty, calculated in accordance with subsection (6).
+Customs Act 1901
 
-             (3)  Pending final assessment of the third country dumping duty payable on goods the subject of a notice under subsection 269TH(1) or (2) of the Customs Act, an interim third country dumping duty is payable on those goods.
 
-             (4)  Subject to subsection (5), the interim third country dumping duty payable on goods the subject of a notice under subsection 269TH(1) or (2) of the Customs Act is an amount equal to the sum of:
+Customs Tariff Act 1995
 
-                     (a)  the difference between the export price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice and the normal value of goods of that kind as so ascertained, or last so ascertained; and
 
-                     (b)  if the export price of those particular goods is lower than the export price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice—the amount by which the latter export price exceeds the former.
 
-             (5)  The Minister must, by signed notice, direct that the element of interim third country dumping duty referred to in paragraph (4)(a) in respect of particular goods be ascertained:
 
-                     (a)  as a proportion of the export price of those particular goods or of the export price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the dumping duty notice, whichever is the greater; or
 
-                     (b)  by reference to a measure of the quantity of those particular goods; or
 
-                     (c)  by reference to a combination of a proportion of the kind referred to in paragraph (a) and a measure of the quantity of those particular goods;
 
-and the notice has effect accordingly.
+<dl compact="">
 
-          (5A)  The Minister must, in exercising his or her powers under subsection (5) in respect of particular goods the subject of a dumping duty notice under subsection 269TH(1) or (2) of the Customs Act, if the non-injurious price of goods of that kind as ascertained or last ascertained by the Minister for the purposes of the notice is less than the normal value of goods of that kind as so ascertained, or last so ascertained, have regard to the desirability of fixing a lesser amount of duty such that the sum of:
+<dt>(8)</dt><dd>Where the Minister exempts goods from interim dumping duty and dumping
 
-                     (a)  the export price of goods of that kind as so ascertained or last so ascertained; and
+duty under subsection&#160;(7) by reason of his being satisfied as to a matter
 
-                     (b)  that lesser duty;
+specified in paragraph&#160;(7)(a), (c) or (d), the instrument of exemption
 
-does not exceed that non-injurious price.
+shall be published in the _Gazette_.</dd> <dt>(9)</dt><dd>In this section, a reference to a Tariff Concession Order includes a reference to a Commercial Tariff Concession Order made under Part&#160;XVA of the Customs Act as in force before section&#160;10 of the _Customs Legislation (Tariff Concessions and Anti-Dumping) Amendment Act 1992_ commences. </dd> </dl>
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 9  Third country dumping duties 
+<dl compact="">
 
-          (5B)  If the Minister signs a notice under subsection (5), the Minister must cause a copy of that notice to be published in the _Gazette_ unless, in the opinion of the Minister, the publication of that notice would adversely affect the business or commercial interests of any person.
+<dt>(1)</dt><dd>This section does not apply to goods that are:
 
-          (5C)  A notice under subsection (5) applies to goods entered for home consumption on or after a day specified in the notice, which may be earlier than the day of publication of the notice but may not be a day on which an earlier notice under that subsection applied to the goods.
+</dd> </dl>
 
-             (6)  The third country dumping duty payable on goods the subject of a notice under subsection 269TH(1) or (2) of the Customs Act is an amount equal to:
+<dl compact="">
 
-                     (a)  unless paragraph (b) applies—the difference between the amounts that the Minister ascertains to be the export price and the normal value of those particular goods; or
+<dt>(2)</dt><dd>There is imposed, and there must be collected and paid, on goods:
 
-                     (b)  if, in a notice under subsection (5), the Minister determines that the whole or a part of the interim third country dumping duty payable on those particular goods is to be ascertained by reference to the non-injurious price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the first-mentioned notice—the difference between:
+</dd> </dl>
 
-                              (i)  the amount that the Minister ascertains to be the export price of those particular goods; and
+<dl compact="">
 
-                             (ii)  the lower of the amount that the Minister ascertains to be the normal value of those particular goods and that non-injurious price.
+<dt>(3)</dt><dd>Pending final assessment of the third country dumping duty payable on
 
-             (7)  The Minister may, by notice in writing, exempt goods from interim third country dumping duty and third country dumping duty if he is satisfied:
+goods the subject of a notice under subsection 269TH(1) or (2) of the Customs
 
-                     (a)  that like or directly competitive goods are not offered or sold in Australia to all purchasers on equal terms under like conditions having regard to the custom and usage of trade; or
+Act, an interim third country dumping duty is payable on those goods.</dd> <dt>(4)</dt><dd>Subject to subsection&#160;(5), the interim third country dumping duty payable on goods the subject of a notice under subsection 269TH(1) or (2) of the Customs Act is an amount equal to the sum of: </dd> </dl>
 
-                     (c)  that the goods, being articles of merchandise, are for use as samples for the sale of similar goods.
+<dl compact="">
 
-             (8)  Where the Minister exempts goods from the interim third country dumping duty and third country dumping duty under subsection (7) by reason of his being satisfied as to a matter specified under paragraph (7)(a), the instrument of exemption shall be published in the _Gazette_.
+<dt>(5)</dt><dd>The Minister must, by signed notice, direct that the element of interim
 
-##### <a id="10"></a>10  Countervailing duties
+third country dumping duty referred to in paragraph&#160;(4)(a) in respect of
 
-             (1)  There is imposed, and there must be collected and paid, on goods:
+particular goods be ascertained:
 
-                     (a)  to which this section applies by virtue of a notice under subsection 269TJ(1), (2), (4), (5) or (6) of the Customs Act; and
+</dd> </dl>
 
-                     (b)  if the goods are goods to which this section applies by virtue of a notice under subsection 269TJ(1) or (2)—in relation to which a countervailable subsidy is received;
 
-a special duty of Customs, to be known as countervailing duty.
 
-             (2)  The countervailing duty on goods to which this section applies is to be calculated in accordance with subsection (3E).
+Back to Top
 
-             (3)  Pending final assessment of the countervailing duty payable on goods the subject of a notice under subsection 269TJ(1) or (2) of the Customs Act of the Customs Act, an interim countervailing duty is payable on those goods.
+<dl compact="">
 
-          (3A)  Subject to subsection (3B), the interim countervailing duty payable on goods the subject of a notice under subsection 269TJ(1) or (2) of the Customs Act is an amount equal to the countervailable subsidy in respect of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice.
+<dt>(5A)</dt><dd>The Minister must, in exercising his or her powers under
 
-          (3B)  The Minister must, by signed notice, direct that the interim countervailing duty in respect of particular goods to which this section applies by virtue of a declaration under subsection 269TJ(1) or (2) of the Customs Act be ascertained:
+subsection&#160;(5) in respect of particular goods the subject of a dumping
 
-                     (a)  as a proportion of the export price of those particular goods; or
+duty notice under subsection 269TH(1) or (2) of the Customs Act, if the
 
-                     (b)  by reference to a measure of the quantity of those particular goods; or
+non-injurious price of goods of that kind as ascertained or last ascertained by
 
-                     (c)  by reference to a combination of a proportion of the export price of those particular goods and a measure of the quantity of those particular goods;
+the Minister for the purposes of the notice is less than the normal value of
 
-and the notice has effect accordingly.
+goods of that kind as so ascertained, or last so ascertained, have regard to
 
-          (3C)  The Minister must, in exercising his or her powers under subsection (3B) in respect of particular goods the subject of a notice under subsection 269TJ(1) or (2) of the Customs Act, if the non-injurious price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice is less than the sum of:
+the desirability of fixing a lesser amount of duty such that the sum of:
 
-                     (a)  the countervailable subsidy in respect of goods of that kind as so ascertained, or last so ascertained; and
+</dd> </dl>
 
-                     (b)  the export price of those particular goods;
+<dl compact="">
 
-have regard to the desirability of fixing a lesser amount of duty such that the sum of the export price of those particular goods and the lesser duty does not exceed that non-injurious price.
+<dt>(5B)</dt><dd>If the Minister signs a notice under subsection&#160;(5), the Minister
 
-          (3D)  If, in the circumstances specified in section 269TJA of the Customs Act, both a notice under section 269TJ of that Act and a notice under section 269TG of that Act are published at the same time and in respect of the same goods, the Minister must, in exercising his or her powers under subsection (3B) in relation to interim countervailing duty in respect of the goods, have regard to the desirability of fixing the amount of interim countervailing duty in respect of the goods such that the sum of:
+must cause a copy of that notice to be published in the _Gazette_ unless,
 
-                     (a)  the export price of those particular goods; and
+in the opinion of the Minister, the publication of that notice would adversely
 
-                     (b)  the amount of the interim countervailing duty as so fixed; and
+affect the business or commercial interests of any person.</dd> <dt>(5C)</dt><dd>A notice under subsection&#160;(5) applies to goods entered for home consumption on or after a day specified in the notice, which may be earlier than the day of publication of the notice but may not be a day on which an earlier notice under that subsection applied to the goods.</dd> <dt>(6)</dt><dd>The third country dumping duty payable on goods the subject of a notice under subsection 269TH(1) or (2) of the Customs Act is an amount equal to: </dd> </dl>
 
-                     (c)  the amount of interim dumping duty as fixed under section 8;
 
-does not exceed the non-injurious price of goods of that kind, as ascertained, or last ascertained, by the Minister for the purpose of those notices.
 
-           (3E)  The countervailing duty payable on goods the subject of a notice under subsection 269TJ(1) or (2) of the Customs Act is an amount equal to:
+<dl compact="">
 
-                     (a)  unless paragraph (b) applies—the countervailable subsidy in respect of those particular goods; or
+<dt>(7)</dt><dd>The Minister may, by notice in writing, exempt goods from interim third
 
-                     (b)  if, in a notice under subsection (3B), the Minister determines that the interim countervailing duty payable on those particular goods is to be ascertained by reference to the non-injurious price of goods of that kind—the difference between:
+country dumping duty and third country dumping duty if he is satisfied:
 
-                              (i)  the amount that the Minister ascertains to be the export price of those particular goods; and
+</dd> </dl>
 
-                             (ii)  the lower of the sum of the amounts that the Minister ascertains to be the export price of, and the countervailable subsidy in respect of, those particular goods and the non-injurious price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice under subsection 269TJ(1) or (2).
+<dl compact="">
 
-          (5B)  Where the Minister signs a notice under subsection (3B), the Minister shall cause a copy of that notice to be published in the _Gazette_ unless in the opinion of the Minister, the publication of that notice would adversely affect the business or commercial interests of any person.
+<dt>(8)</dt><dd>Where the Minister exempts goods from the interim third country dumping
 
-             (6)  A notice under subsection (3B) applies to goods entered for home consumption on or after a day specified in the notice, which may be earlier than the day of publication of the notice but may not be a day on which an earlier notice under that subsection applied to the goods.
+duty and third country dumping duty under subsection&#160;(7) by reason of his
 
-             (8)  The Minister may, by notice in writing, exempt goods from interim countervailing duty or countervailing duty if he or she is satisfied:
+being satisfied as to a matter specified under paragraph&#160;(7)(a), the
 
-                     (a)  that like or directly competitive goods are not offered for sale in Australia to all purchasers on equal terms under like conditions having regard to the custom and usage of trade;
+instrument of exemption shall be published in the _Gazette_.
 
-                    (aa)  that a Tariff Concession Order under Part XVA of the _Customs Act 1901_ in respect of the goods is in force;
+</dd> </dl>
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 10  Countervailing duties 
+<dl compact="">
 
-                     (b)  that:
+<dt>(1)</dt><dd>There is imposed, and there must be collected and paid, on goods:
 
-                              (i)  where the goods are goods to which section 8 of the _Customs Tariff Act 1995_ applies—the item in Schedule 4 to that Act that applies to the goods is expressed to apply to goods, or to a class or kind of goods, as prescribed by by-law; and
+</dd> </dl>
 
-                             (ii)  suitably equivalent goods the produce or manufacture of Australia are not reasonably available;
+<dl compact="">
 
-                     (c)  that:
+<dt>(2)</dt><dd>The countervailing duty on goods to which this section applies is to be
 
-                              (i)  the tariff classification in Schedule 3 to that Act that applies to the goods is such that no duty is payable in respect of the goods or the duty payable in respect of the goods is at a rate equivalent to a rate payable under Schedule 4 on the goods; and
+calculated in accordance with subsection&#160;(3E).</dd> <dt>(3)</dt><dd>Pending final assessment of the countervailing duty payable on goods the subject of a notice under subsection 269TJ(1) or (2) of the Customs Act of the Customs Act, an interim countervailing duty is payable on those goods.</dd> <dt>(3A)</dt><dd>Subject to subsection&#160;(3B), the interim countervailing duty payable on goods the subject of a notice under subsection 269TJ(1) or (2) of the Customs Act is an amount equal to the countervailable subsidy in respect of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice.</dd> <dt>(3B)</dt><dd>The Minister must, by signed notice, direct that the interim countervailing duty in respect of particular goods to which this section applies by virtue of a declaration under subsection 269TJ(1) or (2) of the Customs Act be ascertained: </dd> </dl>
 
-                             (ii)  suitably equivalent goods the produce or manufacture of Australia are not reasonably available; or
+Back to Top
 
-                     (d)  that the goods, being articles of merchandise, are for use as samples for the sale of similar goods.
 
-             (9)  Where the Minister exempts goods from interim countervailing duty or countervailing duty under subsection (8) because he or she is satisfied as to a matter specified in paragraphs (8)(a), (b) and (c), the instrument of exemption shall be published in the _Gazette_.
 
-           (10)  In this section, a reference to a Tariff Concession Order includes a reference to a Commercial Tariff Concession Order made under Part XVA of the Customs Act as in force before section 10 of the _Customs Legislation (Tariff Concessions and Anti-Dumping) Amendment Act 1992_ commences.
+<dl compact="">
 
-##### <a id="11"></a>11  Third country countervailing duties
+<dt>(3C)</dt><dd>The Minister must, in exercising his or her powers under
 
-             (1)  There is imposed, and there must be collected and paid, on goods:
+subsection&#160;(3B) in respect of particular goods the subject of a notice
 
-                     (a)  to which this section applies by virtue of a notice under subsection 269TK(1) or (2) of the Customs Act; and
+under subsection 269TJ(1) or (2) of the Customs Act, if the non-injurious price
 
-                     (b)  in relation to which a countervailable subsidy is received;
+of goods of that kind as ascertained, or last ascertained, by the Minister for
 
-a special duty of Customs, to be known as third country countervailing duty, calculated in accordance with subsection (7).
+the purpose of the notice is less than the sum of:
 
-             (2)  Pending final assessment of the third country countervailing duty payable on goods the subject of a notice under subsection 269TK(1) or (2) of the Customs Act, an interim third country countervailing duty is payable on those goods.
+</dd> </dl>
 
-             (3)  Subject to subsection (4), the interim third country countervailing duty payable on goods the subject of a notice under subsection 269TK(1) or (2) of the Customs Act is an amount equal to the countervailable subsidy in respect of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice.
+<dl compact="">
 
-             (4)  The Minister must, by signed notice, direct that the interim countervailing duty in respect of particular goods to which this section applies by virtue of a notice under subsection 269TK(1) or (2) of the Customs Act be ascertained:
+<dt>(3D)</dt><dd>If, in the circumstances specified in section&#160;269TJA of the Customs
 
-                     (a)  as a proportion of the export price of those particular goods; or
+Act, both a notice under section&#160;269TJ of that Act and a notice under
 
-                     (b)  by reference to a measure of the quantity of those particular goods; or
+section&#160;269TG of that Act are published at the same time and in respect of
 
-                     (c)  by reference to a combination of a proportion of the export price of those particular goods and a measure of the quantity of those particular goods;
+the same goods, the Minister must, in exercising his or her powers under
 
-and the notice has effect accordingly.
+subsection&#160;(3B) in relation to interim countervailing duty in respect of
 
-             (5)  The Minister must, in exercising his or her powers under subsection (4) in respect of particular goods the subject of a notice under subsection 269TK(1) or (2) of the Customs Act, if the non-injurious price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice is less than the sum of:
+the goods, have regard to the desirability of fixing the amount of interim
 
-                     (a)  the countervailable subsidy as so ascertained, or last so ascertained; and
+countervailing duty in respect of the goods such that the sum of:
 
-                     (b)  the export price of those particular goods;
+</dd> </dl>
 
-have regard to the desirability of fixing a lesser amount of duty such that the sum of the export price of those particular goods and the lesser duty does not exceed that non-injurious price.
 
-             (6)  If the Minister signs a notice under subsection (4), the Minister must cause a copy of that notice to be published in the _Gazette_ unless, in the opinion of the Minister, the publication of that notice would adversely affect the business or commercial interests of any person.
+<dl compact="">
 
-             (7)  The third country countervailing duty payable on goods the subject of a notice under subsection 269TK(1) or (2) of the Customs Act is an amount equal to:
+<dt>(3E)</dt><dd>The countervailing duty payable on goods the subject of a notice under
 
-                     (a)  unless paragraph (b) applies—the countervailable subsidy in respect of those particular goods; or
+subsection 269TJ(1) or (2) of the Customs Act is an amount equal to:
 
-                     (b)  if, in a notice under subsection (4), the Minister determines that the interim countervailing duty payable on those particular goods is to be ascertained by reference to the 
- non-injurious price of goods of that kind—the difference between:
+</dd> </dl>
 
-                              (i)  the amount that the Minister ascertains to be the export price of those particular goods; and
 
-                             (ii)  the lower of the sum of the amounts that the Minister ascertains to be the export price of, and the countervailable subsidy in respect of, those particular goods and the non-injurious price of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice under subsection 269TK(1) or (2).
 
-          (7A)  A notice under subsection (4) applies to goods entered for home consumption on or after a day specified in the notice, which may be earlier than the day of publication of the notice but may not be a day on which an earlier notice under that subsection applied to the goods.
+<dl compact="">
 
-          (7B)  If the Minister has determined, under subsection 269TK(3) of the Customs Act, the amount of any countervailable subsidy in respect of goods to which this section applies by virtue of a notice under subsection 269TK(1) or (2) of that Act, that amount is to be taken to be the amount of that countervailable subsidy for the purposes of this section.
+<dt>(5B)</dt><dd>Where the Minister signs a notice under subsection&#160;(3B), the
 
-             (8)  The Minister may, by notice in writing, exempt goods from interim third country countervailing duties third country countervailing duty if he or she is satisfied:
+Minister shall cause a copy of that notice to be published in the _Gazette_ unless in the opinion of the Minister, the publication of that notice would
 
-                     (a)  that like or directly competitive goods are not offered or sold in Australia to all purchasers on equal terms under like conditions having regard to the custom and usage of trade; or
+adversely affect the business or commercial interests of any person.</dd> <dt>(6)</dt><dd>A notice under subsection&#160;(3B) applies to goods entered for home consumption on or after a day specified in the notice, which may be earlier than the day of publication of the notice but may not be a day on which an earlier notice under that subsection applied to the goods.</dd> <dt>(8)</dt><dd>The Minister may, by notice in writing, exempt goods from interim countervailing duty or countervailing duty if he or she is satisfied: </dd> </dl>
 
-                     (b)  that the goods, being articles of merchandise, are for use as samples for the sale of similar goods.
+Customs Act 1901
 
-             (9)  Where the Minister exempts goods from interim third country countervailing duties third country countervailing duty under subsection (8) because he or she is satisfied as to a matter specified under paragraph (8)(a), the instrument of exemption shall be published in the _Gazette_.
 
-##### <a id="12"></a>12  Interim duty not to exceed security taken
+Customs Tariff Act 1995
 
-                   If:
 
-                     (a)  a security has been taken under section 42 of the _Customs Act 1901_ in respect of interim duty that may become payable under section 8, 9, 10 or 11 of this Act in respect of goods imported into Australia; and
 
-                     (b)  the amount of interim duty that would be so payable under section 8, 9, 10 or 11 of this Act would, but for the operation of this section, exceed the amount of the security taken;
 
-the interim duty payable is equal to the amount of security taken.
+Back to Top
 
-##### <a id="16"></a>16  Duties to be charged separately
 
-                   The several duties imposed by this Act shall be separately charged, notwithstanding that more than one duty applies to any particular goods.
 
-##### <a id="21"></a>21  Special duties to be additional to ordinary duties
 
-                   The special duties of Customs payable under this Act are in addition to such other duties of Customs (if any) as are payable under any other Act.
 
-# Notes to the _Customs Tariff (Anti-Dumping) Act 1975_
+<dl compact="">
 
-### Note 1
+<dt>(9)</dt><dd>Where the Minister exempts goods from interim countervailing duty or
 
-The _Customs Tariff (Anti-Dumping) Act 1975_ as shown in this compilation comprises Act No. 76, 1975 amended as indicated in the Tables below.
+countervailing duty under subsection&#160;(8) because he or she is satisfied as
 
-All relevant information pertaining to application, saving or transitional provisions prior to 14 May 1999 is not included in this compilation. For subsequent information _see_ Table A.
+to a matter specified in paragraphs&#160;(8)(a), (b) and (c), the instrument of
 
-### Table of Acts
+exemption shall be published in the _Gazette_.</dd> <dt>(10)</dt><dd>In this section, a reference to a Tariff Concession Order includes a reference to a Commercial Tariff Concession Order made under Part&#160;XVA of the Customs Act as in force before section&#160;10 of the _Customs Legislation (Tariff Concessions and Anti-Dumping) Amendment Act 1992_ commences. </dd> </dl>
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 11  Third country countervailing duties 
+<dl compact="">
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<dt>(1)</dt><dd>There is imposed, and there must be collected and paid, on goods:
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+</dd> </dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>Pending final assessment of the third country countervailing duty payable
+
+on goods the subject of a notice under subsection 269TK(1) or (2) of the
+
+Customs Act, an interim third country countervailing duty is payable on those
+
+goods.</dd> <dt>(3)</dt><dd>Subject to subsection&#160;(4), the interim third country countervailing duty payable on goods the subject of a notice under subsection 269TK(1) or (2) of the Customs Act is an amount equal to the countervailable subsidy in respect of goods of that kind as ascertained, or last ascertained, by the Minister for the purpose of the notice.</dd> <dt>(4)</dt><dd>The Minister must, by signed notice, direct that the interim countervailing duty in respect of particular goods to which this section applies by virtue of a notice under subsection 269TK(1) or (2) of the Customs Act be ascertained: </dd> </dl>
+
+
+<dl compact="">
+
+<dt>(5)</dt><dd>The Minister must, in exercising his or her powers under
+
+subsection&#160;(4) in respect of particular goods the subject of a notice
+
+under subsection 269TK(1) or (2) of the Customs Act, if the non-injurious price
+
+of goods of that kind as ascertained, or last ascertained, by the Minister for
+
+the purpose of the notice is less than the sum of:
+
+</dd> </dl>
+
+<dl compact="">
+
+<dt>(6)</dt><dd>If the Minister signs a notice under subsection&#160;(4), the Minister
+
+must cause a copy of that notice to be published in the _Gazette_ unless,
+
+in the opinion of the Minister, the publication of that notice would adversely
+
+affect the business or commercial interests of any person.</dd> <dt>(7)</dt><dd>The third country countervailing duty payable on goods the subject of a notice under subsection 269TK(1) or (2) of the Customs Act is an amount equal to: </dd> </dl>
+
+
+
+Back to Top
+
+
+
+
+
+<dl compact="">
+
+<dt>(7A)</dt><dd>A notice under subsection&#160;(4) applies to goods entered for home
+
+consumption on or after a day specified in the notice, which may be earlier
+
+than the day of publication of the notice but may not be a day on which an
+
+earlier notice under that subsection applied to the goods.</dd> <dt>(7B)</dt><dd>If the Minister has determined, under subsection 269TK(3) of the Customs Act, the amount of any countervailable subsidy in respect of goods to which this section applies by virtue of a notice under subsection 269TK(1) or (2) of that Act, that amount is to be taken to be the amount of that countervailable subsidy for the purposes of this section.</dd> <dt>(8)</dt><dd>The Minister may, by notice in writing, exempt goods from interim third country countervailing duties third country countervailing duty if he or she is satisfied: </dd> </dl>
+
+<dl compact="">
+
+<dt>(9)</dt><dd>Where the Minister exempts goods from interim third country countervailing
+
+duties third country countervailing duty under subsection&#160;(8) because he
+
+or she is satisfied as to a matter specified under paragraph&#160;(8)(a), the
+
+instrument of exemption shall be published in the _Gazette_.
+
+</dd> </dl>
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 12  Interim duty not to exceed security taken 
+<dl compact="">
+
+		If:
+
+ </dl>
+Customs Act 1901
+
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 16  Duties to be charged separately 
+<dl compact="">
+
+		The several duties imposed by this Act shall be separately charged,
+
+notwithstanding that more than one duty applies to any particular goods.
+
+ </dl>
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975- SECT 21  Special duties to be additional to ordinary duties 
+<dl compact="">
+
+		The special duties of Customs payable under this Act are in addition to such
+
+other duties of Customs (if any) as are payable under any other Act.
+
+ </dl>
+**
+
+###  CUSTOMS TARIFF (ANTI-DUMPING) ACT 1975<centreit>Notes to the _Customs Tariff (Anti-Dumping) Act 1975_ </centreit>
+**
+Note 1
+Customs Tariff (Anti-Dumping) Act 1975
+
+see
+Table of Acts
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Act 1975</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Act 1975_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>76, 1975</div>
+
   </td>
-  <td>
-    <div>20 June 1975</div>
+  <td colspan="1" align="left">
+    <div>20&#160;June 1975</div>
+
   </td>
-  <td>
-    <div>20 June 1975</div>
+  <td colspan="1" align="left">
+    <div>20&#160;June 1975</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act 1981</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act 1981_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>66, 1981</div>
+
   </td>
-  <td>
-    <div>12 June 1981</div>
+  <td colspan="1" align="left">
+    <div>12&#160;June 1981</div>
+
   </td>
-  <td>
-    <div>10 July 1981</div>
+  <td colspan="1" align="left">
+    <div>10&#160;July 1981</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 14</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment (Off-shore Installations) Act 1982</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment (Off-shore Installations) Act 1982_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>53, 1982</div>
+
   </td>
-  <td>
-    <div>16 June 1982</div>
+  <td colspan="1" align="left">
+    <div>16&#160;June 1982</div>
+
   </td>
-  <td>
-    <div>14 July 1982 
-( <i>see</i>s. 2)</div>
+  <td colspan="1" align="left">
+    <div>14&#160;July 1982 
+( _see_s. 2)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment (Countervailing Duties) Act 1982</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment (Countervailing Duties) Act 1982_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>68, 1982</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24 Aug 1982</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21 Sept 1982</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act 1982</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act 1982_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>114, 1982</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Nov 1982</div>
+
   </td>
-  <td>
-    <div>1 Jan 1983 ( <i>see</i>s. 2 and <i>Gazette</i>1982, No. S274, p. 3)</div>
+  <td colspan="1" align="left">
+    <div>1 Jan 1983 ( _see_s.&#160;2 and _Gazette_1982, No. S274, p.&#160;3)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act (No. 2) 1982</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act (No.&#160;2) 1982_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>136, 1982</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>23 Dec 1982</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>24 Nov 1982</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act 1983</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act 1983_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>20, 1983</div>
+
   </td>
-  <td>
-    <div>14 June 1983</div>
+  <td colspan="1" align="left">
+    <div>14&#160;June 1983</div>
+
   </td>
-  <td>
-    <div>1 July 1983 ( <i>see</i>s. 2 and <i>Gazette</i>1983, No. S136, p. 3)</div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 1983 ( _see_s.&#160;2 and _Gazette_1983, No. S136, p.&#160;3)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1983</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Statute Law (Miscellaneous Provisions) Act (No.&#160;2) 1983_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>91, 1983</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>22 Nov 1983</div>
+
   </td>
-  <td>
-    <div>S. 3: 20 Dec 1983 <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>S. 3: 20 Dec 1983 _(a)_</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act 1984</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act 1984_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1, 1984</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Mar 1984</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Mar 1984</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Administration (Transitional Provisions and Consequential Amendments) Act 1985_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>39, 1985</div>
+
   </td>
-  <td>
-    <div>29 May 1985</div>
+  <td colspan="1" align="left">
+    <div>29&#160;May 1985</div>
+
   </td>
-  <td>
-    <div>10 June 1985 ( <i>see</i>s. 2 and <i>Gazette</i> 1985, No. S194)</div>
+  <td colspan="1" align="left">
+    <div>10&#160;June 1985 ( _see_s. 2 and _Gazette_1985, No. S194)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Miscellaneous Amendments) Act 1987</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Miscellaneous Amendments) Act 1987_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>76, 1987</div>
+
   </td>
-  <td>
-    <div>5 June 1987</div>
+  <td colspan="1" align="left">
+    <div>5&#160;June 1987</div>
+
   </td>
-  <td>
-    <div>1 Jan 1988 ( <i>see</i>s. 2 and <i>Gazette</i>1987, No. S351)</div>
+  <td colspan="1" align="left">
+    <div>1 Jan 1988 ( _see_s.&#160;2 and _Gazette_1987, No. S351)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 10(2) (am. by 141, 1987, s. 3)</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>as amended by</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>**as amended by**</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act 1987</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Statute Law (Miscellaneous Provisions) Act 1987_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>141, 1987</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>18 Dec 1987</div>
+
   </td>
-  <td>
-    <div>S. 3: 1 Jan 1988 ( <i>see Gazette</i>1987, No. S351) <i>(b)</i></div>
+  <td colspan="1" align="left">
+    <div>S. 3: 1 Jan 1988 ( _see Gazette_1987, No. S351) _(b)_</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act 1988</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act 1988_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>69, 1988</div>
+
   </td>
-  <td>
-    <div>15 June 1988</div>
+  <td colspan="1" align="left">
+    <div>15&#160;June 1988</div>
+
   </td>
-  <td>
-    <div>Ss. 1 and 2: 15 June 1988 
-Ss. 4(a) and 5: 15 Oct 1987 Remainder: 1 Sept 1988 ( <i>see</i>s. 2(3) and <i>Gazette</i>1988, No. S217)</div>
+  <td colspan="1" align="left">
+    <div>Ss. 1 and 2: 15&#160;June 1988 
+Ss. 4(a) and 5: 15 Oct 1987 Remainder: 1 Sept 1988 ( _see_s. 2(3) and _Gazette_1988, No. S217)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 17</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act 1989</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act 1989_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>173, 1989</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>20 Dec 1989</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 21 Dec 1989 ( <i>see Gazette</i> 1989, No. S395)</div>
+Remainder: 21 Dec 1989 ( _see Gazette_1989, No. S395)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 9</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Trade Practices (Misuse of Trans-Tasman Market Power) Act 1990</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Trade Practices (Misuse of Trans-Tasman Market Power) Act 1990_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>70, 1990</div>
+
   </td>
-  <td>
-    <div>16 June 1990</div>
+  <td colspan="1" align="left">
+    <div>16&#160;June 1990</div>
+
   </td>
-  <td>
-    <div>1 July 1990 ( <i>see Gazette</i>1990, No. S172)</div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 1990 ( _see Gazette_1990, No. S172)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act 1992</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act 1992_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>90, 1992</div>
+
   </td>
-  <td>
-    <div>30 June 1992</div>
+  <td colspan="1" align="left">
+    <div>30&#160;June 1992</div>
+
   </td>
-  <td>
-    <div>10 July 1992 ( <i>see Gazette</i>1992, No. S187)</div>
+  <td colspan="1" align="left">
+    <div>10&#160;July 1992 ( _see Gazette_1992, No. S187)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act (No. 2) 1992</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act (No.&#160;2) 1992_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>206, 1992</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>21 Dec 1992</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 1 Jan 1993 ( <i>see</i>s. 2(2) and <i>Gazette</i>1992, No. S403)</div>
+Remainder: 1 Jan 1993 ( _see_s. 2(2) and _Gazette_1992, No. S403)</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>as amended by</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>**as amended by**</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Statute Law Revision Act 1996_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>43, 1996</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>25 Oct 1996</div>
+
   </td>
-  <td>
-    <div>Schedule 3 (item 18): 21 Dec 1992 <i>(c)</i></div>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;3 (item&#160;18): 21 Dec 1992 _(c)_</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) (World Trade Organization Amendments) Act 1994</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) (World Trade Organization Amendments) Act 1994_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>151, 1994</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>13 Dec 1994</div>
+
   </td>
-  <td>
-    <div>Ss. 4–7: 1 Jan 1995 ( <i>see</i>s. 2(4) and <i>Gazette</i>1994, No. S471) 
+  <td colspan="1" align="left">
+    <div>Ss. 4-7: 1 Jan 1995 ( _see_s. 2(4) and _Gazette_1994, No. S471) 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Miscellaneous Amendments) Act 1996</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Miscellaneous Amendments) Act 1996_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>15, 1996</div>
+
   </td>
-  <td>
-    <div>24 June 1996</div>
+  <td colspan="1" align="left">
+    <div>24&#160;June 1996</div>
+
   </td>
-  <td>
-    <div>1 July 1996 <i>(d)</i></div>
+  <td colspan="1" align="left">
+    <div>1&#160;July 1996 _(d)_</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act 1998</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act 1998_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>80, 1998</div>
+
   </td>
-  <td>
-    <div>2 July 1998</div>
+  <td colspan="1" align="left">
+    <div>2&#160;July 1998</div>
+
   </td>
-  <td>
-    <div>24 July 1998 ( <i>see</i>s. 2 and <i>Gazette</i>1998, No. GN29)</div>
+  <td colspan="1" align="left">
+    <div>24&#160;July 1998 ( _see_s. 2 and _Gazette_1998, No. GN29)</div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Tariff (Anti-Dumping) Amendment Act (No. 1) 1999</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>_Customs Tariff (Anti-Dumping) Amendment Act (No.&#160;1) 1999_</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>27, 1999</div>
+
   </td>
-  <td>
-    <div>14 May 1999</div>
+  <td colspan="1" align="left">
+    <div>14&#160;May 1999</div>
+
   </td>
-  <td>
-    <div>Schedule 1 (items 2, 4, 6, 7, 9): Royal Assent 
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1 (items&#160;2, 4, 6, 7, 9): Royal Assent 
 Remainder: 1 Jan 1993</div>
+
   </td>
-  <td>
-    <div>Sch. 1 (Item 10) \[ <i>see</i>Table A]</div>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (Item&#160;10) \[ _see_Table A]</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Customs Legislation Amendment (New Zealand Rules of Origin) Act 2006</div>
-  </td>
-  <td>
-    <div>166, 2006</div>
-  </td>
-  <td>
-    <div>12 Dec 2006</div>
-  </td>
-  <td>
-    <div>1 Jan 2007</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+(a)
 
-_(a)_     The _Customs Tariff (Anti-Dumping) Act 1975_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsection 2(1) of which provides as follows:
+Back to Top
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+Customs Tariff (Anti-Dumping) Act 1975
+Statute Law (Miscellaneous Provisions) Act (No. 2) 1983
 
-_(b)_    The _Customs Tariff (Miscellaneous Amendments) Act 1987_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act 1987_, subsection 2(11) of which provides as follows:
 
-               (11)   The amendments of the _Customs Tariff (Miscellaneous Amendments) Act 1987_ made by this Act shall come into operation on the commencement of the 
- first-mentioned Act.
+(b)
+Customs Tariff (Miscellaneous Amendments) Act 1987
+Statute Law (Miscellaneous Provisions) Act 1987
+Customs Tariff (Miscellaneous Amendments) Act 1987
 
-_(c)_     The _Customs Tariff (Anti-Dumping) Amendment Act (No. 2) 1992_ was amended by Schedule 3 (item 18) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+(c)
+Customs Tariff (Anti-Dumping) Amendment Act (No. 2) 1992
+Statute Law Revision Act 1996
+(d)
+Customs Tariff (Miscellaneous Amendments) Act 1996
 
-                 (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
+Customs Tariff Act 1995
+Table of Amendments
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-_(d)_ Section 2 of the _Customs Tariff (Miscellaneous Amendments) Act 1996_ provides as follows:
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
 
-                   2.   This Act commences on 1 July 1996 immediately after the commencement of the _Customs Tariff Act 1995_.
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
 
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 206, 1992</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 151, 1994</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;206, 1992</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;151, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3A</div>
+
   </td>
-  <td>
-    <div>ad. No. 39, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1988</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;39, 1985</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981; No. 53, 1982; No. 1, 1984; No. 39, 1985; No. 69, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981; No.&#160;53, 1982; No.&#160;1, 1984; No.&#160;39, 1985; No.&#160;69, 1988</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 4AA–4AC</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>ad. No. 53, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1988</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 4AA-4AC</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;53, 1982</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4A</div>
+
   </td>
-  <td>
-    <div>ad. No. 66, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 1, 1984; No. 39, 1985; No. 69, 1988</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;66, 1981</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;1, 1984; No.&#160;39, 1985; No.&#160;69, 1988</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981; No. 1, 1984; No. 39, 1985; No. 69, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981; No.&#160;1, 1984; No.&#160;39, 1985; No.&#160;69, 1988</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5AA</div>
+
   </td>
-  <td>
-    <div>ad. No. 69, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;69, 1988</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 5A</div>
+
   </td>
-  <td>
-    <div>ad. No. 1, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;1, 1984</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 6</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981; Nos. 114 and 136, 1982; No. 20, 1983; No. 1, 1984; No. 39, 1985; No. 76, 1987; No. 69, 1988; No. 173, 1989; No. 70, 1990; Nos. 90 and 206, 1992; No. 15, 1996; No. 27, 1999; No. 166, 2006</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981; Nos. 114 and 136, 1982; No.&#160;20, 1983; No.&#160;1, 1984; No.&#160;39, 1985; No.&#160;76, 1987; No.&#160;69, 1988; No.&#160;173, 1989; No.&#160;70, 1990; Nos. 90 and 206, 1992; No.&#160;15, 1996; No.&#160;27, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 9</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981; No. 136, 1982; No. 91, 1983; No. 1, 1984; No. 39, 1985; No. 69, 1988; No. 173, 1989; No. 70, 1990; No. 206, 1992 (as am. by No. 43, 1996); No. 27, 1999; No. 166, 2006</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981; No.&#160;136, 1982; No.&#160;91, 1983; No.&#160;1, 1984; No.&#160;39, 1985; No.&#160;69, 1988; No.&#160;173, 1989; No.&#160;70, 1990; No.&#160;206, 1992 (as am. by No.&#160;43, 1996); No.&#160;27, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 10</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981; Nos. 68, 114 and 136, 1982; No. 20, 1983; No. 1, 1984; No. 39, 1985; No. 76, 1987; No. 69, 1988; No. 173, 1989; Nos. 90 and 206, 1992; No. 151, 1994; No. 15, 1996; No. 80, 1998; No. 27, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981; Nos. 68, 114 and 136, 1982; No.&#160;20, 1983; No.&#160;1, 1984; No.&#160;39, 1985; No.&#160;76, 1987; No.&#160;69, 1988; No.&#160;173, 1989; Nos. 90 and 206, 1992; No.&#160;151, 1994; No.&#160;15, 1996; No.&#160;80, 1998; No.&#160;27, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 11</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981; No. 136, 1982; No. 1, 1984; No. 39, 1985; No. 69, 1988; No. 173, 1989; No. 206, 1992; No. 151, 1994; No. 27, 1999</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981; No.&#160;136, 1982; No.&#160;1, 1984; No.&#160;39, 1985; No.&#160;69, 1988; No.&#160;173, 1989; No.&#160;206, 1992; No.&#160;151, 1994; No.&#160;27, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 11A</div>
+
   </td>
-  <td>
-    <div>ad. No. 66, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;66, 1981</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 12</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>ad. No. 151, 1994</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;151, 1994</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 12A, 12B</div>
+
   </td>
-  <td>
-    <div>ad. No. 69, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;69, 1988</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 13</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 14</div>
+
   </td>
-  <td>
-    <div>am. No. 68, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 136, 1982</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;68, 1982</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;136, 1982</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 15</div>
+
   </td>
-  <td>
-    <div>am. No. 66, 1981; No. 1, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1988</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;66, 1981; No.&#160;1, 1984</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1988</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 17</div>
+
   </td>
-  <td>
-    <div>am. No. 39, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;39, 1985</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 18, 19</div>
+
   </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 20</div>
+
   </td>
-  <td>
-    <div>am. No. 39, 1985; No. 69, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;39, 1985; No.&#160;69, 1988</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 22</div>
+
   </td>
-  <td>
-    <div>ad. No. 69, 1988</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;69, 1988</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 173, 1989</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;173, 1989</div>
+
   </td>
-</tr></table>
+</tr>
+**
 
-## Table A
+###  Table A 
+**
+Table A
+Application, saving or transitional provisions
+Customs Tariff (Anti-Dumping) Amendment Act (No. 1) 1999
+Schedule&#160;1
+10  Saving provisions
+Customs Act 1901
+_Customs Act_
+Customs Tariff (Anti-Dumping) Act 1975
 
-### Application, saving or transitional provisions
+Customs Tariff (Anti-Dumping) Act 1975
 
-_Customs Tariff (Anti-Dumping) Amendment Act (No. 1) 1999 (No. 27, 1999)_
+<dl compact=""><dl compact="">
 
-**Schedule 1**
+**_dumping duty_** and **_countervailing duty_** have the same
 
-## 10  Saving provisions
+meanings as in Part&#160;XVB of the Customs Act.
 
-(1)        Any dumping duty imposed, and any dumping duty or interim dumping duty collected, as a result of a notice given by the Minister under subsection 269TG(1) or (2) or 269TH(1) or (2) of the _Customs Act 1901_ (the **_Customs Act_**) on or after 1 January 1993 is taken, for all purposes, to have been so imposed or collected in accordance with the _Customs Tariff (Anti-Dumping) Act 1975_ as amended by this Act.
+ </dl></dl>
 
-(2)        Any countervailing duty imposed, and any countervailing duty or interim countervailing duty collected, as a result of a notice given by the Minister under subsection 269TJ(1) or (2) or 269TK(1) or (2) of the Customs Act on or after 1 January 1993 is taken, for all purposes, to have been imposed or collected in accordance with the provisions of the _Customs Tariff (Anti-Dumping) Act 1975_ as amended by this Act.
+ 
 
-(3)        In this item:
 
-                    <a name="countervail-duti"></a><a name="dump-duti"></a>**_dumping duty_** and **_countervailing duty_** have the same meanings as in Part XVB of the Customs Act.
 
- 
+
+
+
