@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image001.gif)
 
 # Aboriginal and Torres Strait Islander Act 2005
 
 **Act No. 150 of 1989 as amended**
 
-This compilation was prepared on 30 March 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 11 January 2011
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -30,7 +30,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4A](#4A).         Minister may make determinations about what constitutes misbehaviour
 
-[4B](#4B).         Indigenous‑held land
+[4B](#4B).         Indigenous-held land
 
 [5](#5).            Act binds the Crown
 
@@ -70,7 +70,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [142JA](#142JA).   TSRA’s interest in land
 
-[142K](#142K).     TSRA to formulate decision‑making principles about grants, loans and guarantees
+[142K](#142K).     TSRA to formulate decision-making principles about grants, loans and guarantees
 
 [142L](#142L).      Review of operation of Part etc 
 
@@ -78,7 +78,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [142N](#142N).     Advisory committee—disclosure of interests at meetings
 
-[142P](#142P).      Advisory committee—member’s appointment to be terminated for non‑disclosure of interests
+[142P](#142P).      Advisory committee—member’s appointment to be terminated for non-disclosure of interests
 
 [142Q](#142Q).     Advisory committee—resignation
 
@@ -128,7 +128,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 6—Administrative provisions**
 
-[143J](#143J).      Part‑time basis of holding office
+[143J](#143J).      Part-time basis of holding office
 
 [143K](#143K).     Remuneration and allowances
 
@@ -230,7 +230,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [144ZG](#144ZG).   Remuneration and allowances
 
-[144ZH](#144ZH).   TSRA Administrator holds office on a full‑time basis
+[144ZH](#144ZH).   TSRA Administrator holds office on a full-time basis
 
 [144ZJ](#144ZJ).    Resignation of TSRA Administrator
 
@@ -418,7 +418,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [191X](#191X).     Appointment of Indigenous Land Corporation Directors
 
-[191Y](#191Y).     Automatic re‑appointment of incumbent pending appointment of successor
+[191Y](#191Y).     Automatic re-appointment of incumbent pending appointment of successor
 
     **Division 6—Administrative provisions**
 
@@ -428,11 +428,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [192A](#192A).     Remuneration and allowances
 
-[192B](#192B).     Outside employment—full‑time Indigenous Land Corporation Chairperson
+[192B](#192B).     Outside employment—full-time Indigenous Land Corporation Chairperson
 
-[192C](#192C).     Leave of absence—part‑time Indigenous Land Corporation Directors
+[192C](#192C).     Leave of absence—part-time Indigenous Land Corporation Directors
 
-[192D](#192D).     Leave of absence—full‑time Indigenous Land Corporation Chairperson
+[192D](#192D).     Leave of absence—full-time Indigenous Land Corporation Chairperson
 
 [192E](#192E).      Acting appointments
 
@@ -664,15 +664,15 @@ AND WHEREAS it is also the wish of the people of Australia that there be reached
 
 AND WHEREAS it is the firm objective of the people of Australia that policies be maintained and developed by the Australian Government that will overcome disadvantages of Aboriginal persons and Torres Strait Islanders to facilitate the enjoyment of their culture;
 
-AND WHEREAS it is appropriate to further the aforementioned objective in a manner that is consistent with the aims of self‑management and self‑sufficiency for Aboriginal persons and Torres Strait Islanders;
+AND WHEREAS it is appropriate to further the aforementioned objective in a manner that is consistent with the aims of self-management and self-sufficiency for Aboriginal persons and Torres Strait Islanders;
 
 AND WHEREAS it is also appropriate to establish structures to represent Aboriginal persons and Torres Strait Islanders to ensure maximum participation of Aboriginal persons and Torres Strait Islanders in the formulation and implementation of programs and to provide them with an effective voice within the Australian Government;
 
-AND WHEREAS the Parliament seeks to enable Aboriginal persons and Torres Strait Islanders to increase their economic status, promote their social well‑being and improve the provision of community services;
+AND WHEREAS the Parliament seeks to enable Aboriginal persons and Torres Strait Islanders to increase their economic status, promote their social well-being and improve the provision of community services;
 
 AND WHEREAS the Australian Government has acted to protect the rights of all of its citizens, and in particular its indigenous peoples, by recognising international standards for the protection of universal human rights and fundamental freedoms through:
 
-                 (a)  the ratification of the International Convention on the Elimination of All Forms of Racial Discrimination and other standard‑setting instruments such as the International Covenants on Economic, Social and Cultural Rights and on Civil and Political Rights; and
+                 (a)  the ratification of the International Convention on the Elimination of All Forms of Racial Discrimination and other standard-setting instruments such as the International Covenants on Economic, Social and Cultural Rights and on Civil and Political Rights; and
 
              (b)  the acceptance of the Universal Declaration of Human Rights:
 
@@ -694,11 +694,11 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
                      (a)  to ensure maximum participation of Aboriginal persons and Torres Strait Islanders in the formulation and implementation of government policies that affect them;
 
-                     (b)  to promote the development of self‑management and self‑sufficiency among Aboriginal persons and Torres Strait Islanders;
+                     (b)  to promote the development of self-management and self-sufficiency among Aboriginal persons and Torres Strait Islanders;
 
                      (c)  to further the economic, social and cultural development of Aboriginal persons and Torres Strait Islanders; and
 
-                     (d)  to ensure co‑ordination in the formulation and implementation of policies affecting Aboriginal persons and Torres Strait Islanders by the Commonwealth, State, Territory and local governments, without detracting from the responsibilities of State, Territory and local governments to provide services to their Aboriginal and Torres Strait Islander residents.
+                     (d)  to ensure co-ordination in the formulation and implementation of policies affecting Aboriginal persons and Torres Strait Islanders by the Commonwealth, State, Territory and local governments, without detracting from the responsibilities of State, Territory and local governments to provide services to their Aboriginal and Torres Strait Islander residents.
 
 ##### <a id="4"></a>4  Interpretation
 
@@ -744,7 +744,7 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
 
-                    <a name="holder"></a>**_holder_**, in relation to indigenous‑held land, means a person or body who holds an interest in the land, where the interest is relevant to determining the status of the land as indigenous‑held land.
+                    <a name="holder"></a>**_holder_**, in relation to indigenous-held land, means a person or body who holds an interest in the land, where the interest is relevant to determining the status of the land as indigenous-held land.
 
                     <a name="hous-loan"></a>**_housing loan_** means a loan for one or more of the following purposes:
 
@@ -768,7 +768,7 @@ AND WHEREAS the Australian Government has acted to protect the rights of all of 
 
                     <a name="indigen-busi-australia-gener-manag"></a>**_Indigenous Business Australia General Manager_** means the General Manager of Indigenous Business Australia referred to in section 168.
 
-                    <a name="indigen-held-land"></a>**_indigenous‑held land_** has the meaning given by section 4B.
+                    <a name="indigen-held-land"></a>**_indigenous-held land_** has the meaning given by section 4B.
 
                     <a name="indigen-land-corpor"></a>**_Indigenous Land Corporation_** means the Indigenous Land Corporation established by section 191A.
 
@@ -854,11 +854,11 @@ to administer the affairs of the TSRA.
 
              (3)  A determination under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-##### <a id="4B"></a>4B  Indigenous‑held land
+##### <a id="4B"></a>4B  Indigenous-held land
 
-Indigenous‑held land
+Indigenous-held land
 
-             (1)  For the purposes of this Act, land is **_indigenous‑held land_** if, and only if:
+             (1)  For the purposes of this Act, land is **_indigenous-held land_** if, and only if:
 
                      (a)  an interest in the land is held by an Aboriginal or Torres Strait Islander corporation; or
 
@@ -958,13 +958,13 @@ Functions
 
                      (d)  to develop policy proposals to meet national, State and regional needs and priorities of Torres Strait Islanders, and Aboriginal persons, living in the Torres Strait area;
 
-                     (e)  to assist, advise and co‑operate with Torres Strait Islander and Aboriginal communities, organisations and individuals at national, State, Territory and regional levels;
+                     (e)  to assist, advise and co-operate with Torres Strait Islander and Aboriginal communities, organisations and individuals at national, State, Territory and regional levels;
 
                       (f)  to advise the Minister on:
 
                               (i)  matters relating to Torres Strait Islander affairs, and Aboriginal affairs, in the Torres Strait area, including the administration of legislation;
 
-                             (ii)  the co‑ordination of the activities of other Commonwealth bodies that affect Torres Strait Islanders, or Aboriginal persons, living in the Torres Strait area;
+                             (ii)  the co-ordination of the activities of other Commonwealth bodies that affect Torres Strait Islanders, or Aboriginal persons, living in the Torres Strait area;
 
                      (g)  when requested by the Minister, to provide information or advice to the Minister on any matter specified by the Minister;
 
@@ -1034,7 +1034,7 @@ Limitations on TSRA’s function to acquire land
 
                      (b)  to act as trustee of money and other property vested in it on trust;
 
-                     (c)  to negotiate and co‑operate with other Commonwealth bodies and with State, Territory and local government bodies;
+                     (c)  to negotiate and co-operate with other Commonwealth bodies and with State, Territory and local government bodies;
 
                      (d)  to enter into an agreement for making a grant or loan under section 142GA to the State of Queensland or an authority of that State (including a local government body);
 
@@ -1196,19 +1196,19 @@ is taken to be an interest of the TSRA in the land to which it relates.
 
              (2)  The land is charged with the payment of all costs and expenses incurred by the TSRA in respect of its enforcement of the liability or obligation.
 
-##### <a id="142K"></a>142K  TSRA to formulate decision‑making principles about grants, loans and guarantees
+##### <a id="142K"></a>142K  TSRA to formulate decision-making principles about grants, loans and guarantees
 
-             (1)  The TSRA must formulate principles (the **_decision‑making principles_**), not inconsistent with the objects of this Act, about:
+             (1)  The TSRA must formulate principles (the **_decision-making principles_**), not inconsistent with the objects of this Act, about:
 
                      (a)  the making of grants and loans under section 142F or 142GA; and
 
                      (b)  the giving of guarantees under section 142G.
 
-             (2)  Subject to section 144ZD, the TSRA must perform its functions and exercise its powers under sections 142F, 142G and 142GA in accordance with applicable provisions of the decision‑making principles in force from time to time.
+             (2)  Subject to section 144ZD, the TSRA must perform its functions and exercise its powers under sections 142F, 142G and 142GA in accordance with applicable provisions of the decision-making principles in force from time to time.
 
-             (3)  Without limiting the operation of the _Freedom of Information Act 1982_, the TSRA General Manager must ensure that copies of the decision‑making principles as in force from time to time are available for inspection and purchase at each of the TSRA’s offices.
+             (3)  Without limiting the operation of the _Freedom of Information Act 1982_, the TSRA General Manager must ensure that copies of the decision-making principles as in force from time to time are available for inspection and purchase at each of the TSRA’s offices.
 
-             (4)  The TSRA General Manager must cause notice of the making of decision‑making principles to be published in the _Gazette_.
+             (4)  The TSRA General Manager must cause notice of the making of decision-making principles to be published in the _Gazette_.
 
 ##### <a id="142L"></a>142L  Review of operation of Part etc.
 
@@ -1246,7 +1246,7 @@ is taken to be an interest of the TSRA in the land to which it relates.
 
              (2)  A disclosure under subsection (1) must be recorded in the minutes of the meeting of the committee.
 
-##### <a id="142P"></a>142P  Advisory committee—member’s appointment to be terminated for non‑disclosure of interests
+##### <a id="142P"></a>142P  Advisory committee—member’s appointment to be terminated for non-disclosure of interests
 
              (1)  This section applies to an advisory committee established under section 142M.
 
@@ -1400,21 +1400,21 @@ If no rules in force then Torres Strait area taken to be a single ward
 
 ##### <a id="142W"></a>142W  Term of office of members of TSRA
 
-             (1)  Persons elected, or declared to have been elected, as members of the TSRA for a TSRA ward otherwise than at a by‑election to fill a casual vacancy:
+             (1)  Persons elected, or declared to have been elected, as members of the TSRA for a TSRA ward otherwise than at a by-election to fill a casual vacancy:
 
                      (a)  take office as members at the end of the election period concerned; and
 
-                     (b)  hold office, subject to this Part, until the end of the election period for the next TSRA election (other than a by‑election or an election held for another ward in place of an election in relation to which the Federal Court of Australia has made an order under Schedule 4).
+                     (b)  hold office, subject to this Part, until the end of the election period for the next TSRA election (other than a by-election or an election held for another ward in place of an election in relation to which the Federal Court of Australia has made an order under Schedule 4).
 
-             (2)  A person elected, or declared to have been elected, as a member of the TSRA for a TSRA ward at a by‑election to fill a casual vacancy:
+             (2)  A person elected, or declared to have been elected, as a member of the TSRA for a TSRA ward at a by-election to fill a casual vacancy:
 
-                     (a)  takes office as member immediately after the day on which the poll is declared in relation to that by‑election; and
+                     (a)  takes office as member immediately after the day on which the poll is declared in relation to that by-election; and
 
-                     (b)  holds office, subject to this Part, until immediately before the last day on which a poll is declared in relation to the next TSRA election (other than a by‑election to fill a casual vacancy or an election held for another ward in place of an election in relation to which the Federal Court of Australia has made an order under Schedule 4).
+                     (b)  holds office, subject to this Part, until immediately before the last day on which a poll is declared in relation to the next TSRA election (other than a by-election to fill a casual vacancy or an election held for another ward in place of an election in relation to which the Federal Court of Australia has made an order under Schedule 4).
 
              (3)  In this section:
 
-                    <a name="elect-fill-casual-vacanc"></a>**_by‑election to fill a casual vacancy_** includes an election of a member of the TSRA to fill a position created by an increase in the eligible number.
+                    <a name="elect-fill-casual-vacanc"></a>**_by-election to fill a casual vacancy_** includes an election of a member of the TSRA to fill a position created by an increase in the eligible number.
 
 ##### <a id="142X"></a>142X  Errors in Commonwealth Electoral Roll not to affect entitlements
 
@@ -1530,9 +1530,9 @@ Minister may make rules
 
                      (a)  the manner in which TSRA elections are to be conducted (including, but not limited to, elections conducted because previous elections have been declared to be void); and
 
-                     (b)  the manner in which casual vacancies in the TSRA are to be filled (including, but not limited to, the holding of by‑elections); and
+                     (b)  the manner in which casual vacancies in the TSRA are to be filled (including, but not limited to, the holding of by-elections); and
 
-                     (c)  the manner of changing the membership of the TSRA to conform with changes in the eligible number (including, but not limited to, the holding of by‑elections).
+                     (c)  the manner of changing the membership of the TSRA to conform with changes in the eligible number (including, but not limited to, the holding of by-elections).
 
 Matters that may be dealt with in rules
 
@@ -1620,9 +1620,9 @@ Rules are a disallowable instrument
 
 ### Division 6—Administrative provisions
 
-##### <a id="143J"></a>143J  Part‑time basis of holding office
+##### <a id="143J"></a>143J  Part-time basis of holding office
 
-                   A member of the TSRA (other than the Chairperson) holds office on a part‑time basis.
+                   A member of the TSRA (other than the Chairperson) holds office on a part-time basis.
 
 ##### <a id="143K"></a>143K  Remuneration and allowances
 
@@ -1678,7 +1678,7 @@ equivalent to the disclosure of financial interests required to be made by SES e
 
              (2)  The member must make a disclosure under subsection (1) within one month after being elected as member.
 
-             (3)  The member must from time to time make such further disclosures as are necessary to ensure that the information available to the Minister about the financial interests of the member, and of the members of his or her immediate family, is up‑to‑date.
+             (3)  The member must from time to time make such further disclosures as are necessary to ensure that the information available to the Minister about the financial interests of the member, and of the members of his or her immediate family, is up-to-date.
 
              (4)  In this section:
 
@@ -1758,7 +1758,7 @@ Minister must remove member from office
 
                      (c)  who is the Chairperson of the TSRA, is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any period of 12 months; or
 
-                     (d)  who is a part‑time member, has been absent from 3 consecutive meetings of the TSRA without leave of the Minister and without reasonable excuse; or
+                     (d)  who is a part-time member, has been absent from 3 consecutive meetings of the TSRA without leave of the Minister and without reasonable excuse; or
 
                      (e)  fails, without reasonable excuse, to comply with section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_; or
 
@@ -1834,7 +1834,7 @@ Circumstances in which member of TSRA taken to be guilty of misbehaviour
 
 ##### <a id="143W"></a>143W  Provisions relating to Chairperson
 
-             (1)  The Chairperson of the TSRA holds office on a full‑time basis.
+             (1)  The Chairperson of the TSRA holds office on a full-time basis.
 
              (3)  The Chairperson of the TSRA holds office for the period starting when he or she is elected and ending when a new Chairperson of the TSRA is elected.
 
@@ -1898,7 +1898,7 @@ Statement to be laid before Parliament if Chairperson removed from office
 
 ##### <a id="144"></a>144  Provisions relating to Deputy Chairpersons
 
-             (1)  The Deputy Chairperson of the TSRA holds office on a part‑time basis.
+             (1)  The Deputy Chairperson of the TSRA holds office on a part-time basis.
 
              (3)  The Deputy Chairperson of the TSRA holds office for the period starting when he or she is elected and ending when a new Deputy Chairperson of the TSRA is elected.
 
@@ -1912,7 +1912,7 @@ Statement to be laid before Parliament if Chairperson removed from office
 
                      (b)  under section 143R, he or she is taken to have resigned from the TSRA.
 
-##### <a id="144B"></a>144B  Suspension and removal from office of Deputy Chairperson
+##### <a id="144B"></a>144B  Suspension and removal from office of Deputy Chairperson
 
 Minister may suspend Deputy Chairperson
 
@@ -1970,7 +1970,7 @@ Election of alternate
 
 Term of office
 
-             (3)  The alternate of the Deputy Chairperson holds office for such period as is determined by the TSRA. However, the alternate of the Deputy Chairperson may be re‑elected under subsection (1).
+             (3)  The alternate of the Deputy Chairperson holds office for such period as is determined by the TSRA. However, the alternate of the Deputy Chairperson may be re-elected under subsection (1).
 
 Alternate to act as Deputy Chairperson
 
@@ -2092,7 +2092,7 @@ TSRA may meet by telephone etc.
 
                      (a)  telephone;
 
-                     (b)  closed‑circuit television;
+                     (b)  closed-circuit television;
 
                      (c)  another method of communication determined by the TSRA in writing.
 
@@ -2122,21 +2122,21 @@ Delegation of certain functions and powers
 
 to the TSRA General Manager or to a member of the staff of the TSRA.
 
-TSRA General Manager may sub‑delegate function or power
+TSRA General Manager may sub-delegate function or power
 
-             (2)  If the TSRA delegates a function or power to the TSRA General Manager, he or she may, by writing, sub‑delegate the function or power to a member of the staff of the TSRA.
+             (2)  If the TSRA delegates a function or power to the TSRA General Manager, he or she may, by writing, sub-delegate the function or power to a member of the staff of the TSRA.
 
-Delegation may prohibit sub‑delegation
+Delegation may prohibit sub-delegation
 
-             (3)  The TSRA General Manager must not sub‑delegate a function or power if the instrument of delegation prohibits the sub‑delegation of that function or power.
-
-Application of certain provisions of the Acts Interpretation Act 1901
-
-             (4)  Section 34AA and paragraphs 34AB(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub‑delegation in a corresponding way to the way in which they apply to a delegation.
+             (3)  The TSRA General Manager must not sub-delegate a function or power if the instrument of delegation prohibits the sub-delegation of that function or power.
 
 Application of certain provisions of the Acts Interpretation Act 1901
 
-             (5)  Section 34A and paragraphs 34AB(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub‑delegation as if it were a delegation.
+             (4)  Section 34AA and paragraphs 34AB(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub-delegation in a corresponding way to the way in which they apply to a delegation.
+
+Application of certain provisions of the Acts Interpretation Act 1901
+
+             (5)  Section 34A and paragraphs 34AB(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub-delegation as if it were a delegation.
 
 ### Division 7—General Manager of TSRA
 
@@ -2148,9 +2148,9 @@ Application of certain provisions of the Acts Interpretation Act 1901
 
              (3)  The Minister must not appoint a person as the TSRA General Manager unless the TSRA agrees to the appointment. However, this rule does not apply to the first TSRA General Manager.
 
-             (4)  Subject to subsection (5), the TSRA General Manager must manage the day‑to‑day administration of the TSRA.
+             (4)  Subject to subsection (5), the TSRA General Manager must manage the day-to-day administration of the TSRA.
 
-             (5)  In managing the day‑to‑day administration of the TSRA and in exercising any powers conferred on the TSRA General Manager by this Act, the TSRA General Manager must act in accordance with any policies determined, and any directions given to him or her, by the TSRA in writing.
+             (5)  In managing the day-to-day administration of the TSRA and in exercising any powers conferred on the TSRA General Manager by this Act, the TSRA General Manager must act in accordance with any policies determined, and any directions given to him or her, by the TSRA in writing.
 
 ##### <a id="144H"></a>144H  Period of appointment
 
@@ -2332,7 +2332,7 @@ Note 2:       The TSRA may declare that a member of the TSRA has bec
 
              (4)  Subsection (3) does not prevent the investment of money under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-##### <a id="144X"></a>144X  Borrowing on overdraft to meet temporary deficit
+##### <a id="144X"></a>144X  Borrowing on overdraft to meet temporary deficit
 
              (1)  The TSRA may borrow money on overdraft from a bank for the sole purpose of meeting a temporary deficit in the money of the TSRA.
 
@@ -2426,7 +2426,7 @@ TSRA must comply with directions
 
                      (a)  the Torres Strait Development Plan; or
 
-                     (b)  decision‑making principles in force under section 142K.
+                     (b)  decision-making principles in force under section 142K.
 
 TSRA must make directions available
 
@@ -2464,9 +2464,9 @@ Notice of giving of directions to be published in the Gazette
 
                    A TSRA Administrator is entitled to remuneration and allowances in accordance with section 194.
 
-##### <a id="144ZH"></a>144ZH  TSRA Administrator holds office on a full‑time basis
+##### <a id="144ZH"></a>144ZH  TSRA Administrator holds office on a full-time basis
 
-                   A TSRA Administrator holds office on a full‑time basis.
+                   A TSRA Administrator holds office on a full-time basis.
 
 ##### <a id="144ZJ"></a>144ZJ  Resignation of TSRA Administrator
 
@@ -2494,7 +2494,7 @@ equivalent to the disclosure of financial interests required to be made by SES e
 
              (2)  A TSRA Administrator must make a disclosure under subsection (1) within one month after being appointed as a TSRA Administrator.
 
-             (3)  A TSRA Administrator must from time to time make such further disclosures as are necessary to ensure that the information available to the Minister about the financial interests of the TSRA Administrator, and of the members of the TSRA Administrator’s immediate family, is up‑to‑date.
+             (3)  A TSRA Administrator must from time to time make such further disclosures as are necessary to ensure that the information available to the Minister about the financial interests of the TSRA Administrator, and of the members of the TSRA Administrator’s immediate family, is up-to-date.
 
              (4)  In this section:
 
@@ -2582,7 +2582,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                    Indigenous Business Australia is established:
 
-                     (a)  to assist and enhance Aboriginal and Torres Strait Islander self‑management and economic self‑sufficiency; and
+                     (a)  to assist and enhance Aboriginal and Torres Strait Islander self-management and economic self-sufficiency; and
 
                      (b)  to advance the commercial and economic interests of Aboriginal persons and Torres Strait Islanders by accumulating and using a substantial capital asset for the benefit of the Aboriginal and Torres Strait Islander peoples.
 
@@ -2594,7 +2594,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  to engage in commercial activities;
 
-                     (b)  to promote and encourage Aboriginal and Torres Strait Islander self‑management and economic self‑sufficiency;
+                     (b)  to promote and encourage Aboriginal and Torres Strait Islander self-management and economic self-sufficiency;
 
                      (c)  such other functions as are conferred on it by this Act.
 
@@ -2730,9 +2730,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="157"></a>157  Appointment of Indigenous Business Australia Directors
 
-             (1)  The Indigenous Business Australia Chairperson is to be appointed by the Minister on a full‑time basis or a part‑time basis.
+             (1)  The Indigenous Business Australia Chairperson is to be appointed by the Minister on a full-time basis or a part-time basis.
 
-             (2)  The other Indigenous Business Australia Directors are to be appointed by the Minister on a part‑time basis.
+             (2)  The other Indigenous Business Australia Directors are to be appointed by the Minister on a part-time basis.
 
              (3)  The Indigenous Business Australia Chairperson and at least 4 other Indigenous Business Australia Directors are to be Aboriginal persons or Torres Strait Islanders.
 
@@ -2760,7 +2760,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="161"></a>161  Leave of absence
 
-             (1)  If the Indigenous Business Australia Chairperson was appointed on a full‑time basis:
+             (1)  If the Indigenous Business Australia Chairperson was appointed on a full-time basis:
 
                      (a)  the Chairperson has the recreation leave entitlements that are determined by the Remuneration Tribunal; and
 
@@ -2768,7 +2768,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  The Minister may, by writing:
 
-                     (a)  if the Indigenous Business Australia Chairperson was appointed on a part‑time basis—grant to the Chairperson leave of absence from a meeting of the Indigenous Business Australia Board; and
+                     (a)  if the Indigenous Business Australia Chairperson was appointed on a part-time basis—grant to the Chairperson leave of absence from a meeting of the Indigenous Business Australia Board; and
 
                      (b)  grant to any other Indigenous Business Australia Director leave of absence from a meeting of the Indigenous Business Australia Board.
 
@@ -2880,7 +2880,7 @@ Indigenous Business Australia Directors remaining at the meeting constitute a qu
 
              (1)  There is to be a General Manager of Indigenous Business Australia, who is to be appointed by the Indigenous Business Australia Board.
 
-             (2)  The Indigenous Business Australia General Manager is, subject to subsection (3), to manage the day‑to‑day administration of Indigenous Business Australia.
+             (2)  The Indigenous Business Australia General Manager is, subject to subsection (3), to manage the day-to-day administration of Indigenous Business Australia.
 
              (3)  The Indigenous Business Australia General Manager must, in managing the administration of Indigenous Business Australia and in exercising any powers conferred on him or her by this Act, act in accordance with policies determined, and any directions given, by the Indigenous Business Australia Board in writing.
 
@@ -2960,7 +2960,7 @@ to be made available to Indigenous Business Australia.
 
 ##### <a id="179"></a>179  Capital of Indigenous Business Australia
 
-                   The capital of Indigenous Business Australia consists of:
+                   The capital of Indigenous Business Australia consists of:
 
                      (a)  amounts paid under section 208 of this Act as previously in force to the body that was previously known as the Aboriginal and Torres Strait Islander Commercial Development Corporation and is now known as Indigenous Business Australia; and
 
@@ -3040,7 +3040,7 @@ is taken to be first financial year for which Indigenous Business Australia must
 
 ##### <a id="182"></a>182  Restriction on spending by Indigenous Business Australia
 
-                   The Indigenous Business Australia Board must not approve a proposal for Indigenous Business Australia to spend money (otherwise than for the purposes of the day‑to‑day administration of Indigenous Business Australia) without first considering a written assessment of the proposal that has been:
+                   The Indigenous Business Australia Board must not approve a proposal for Indigenous Business Australia to spend money (otherwise than for the purposes of the day-to-day administration of Indigenous Business Australia) without first considering a written assessment of the proposal that has been:
 
                      (a)  prepared by a member of the staff of Indigenous Business Australia; and
 
@@ -3064,7 +3064,7 @@ is taken to be first financial year for which Indigenous Business Australia must
 
                      (b)  money in the New Housing Fund.
 
-##### <a id="184"></a>184  Limit on Indigenous Business Australia’s powers
+##### <a id="184"></a>184  Limit on Indigenous Business Australia’s powers
 
              (1)  Indigenous Business Australia shall not borrow money except in accordance with section 183.
 
@@ -3124,11 +3124,11 @@ during the period to which the report relates.
 
              (1)  Indigenous Business Australia may, by writing under its seal, delegate all or any of its functions and powers to the Indigenous Business Australia General Manager or to a member of its staff.
 
-             (2)  If Indigenous Business Australia delegates a function or power under subsection (1) to the Indigenous Business Australia General Manager, the Indigenous Business Australia General Manager may, by writing signed by him or her, sub‑delegate the function or power to a member of the staff of Indigenous Business Australia.
+             (2)  If Indigenous Business Australia delegates a function or power under subsection (1) to the Indigenous Business Australia General Manager, the Indigenous Business Australia General Manager may, by writing signed by him or her, sub-delegate the function or power to a member of the staff of Indigenous Business Australia.
 
-             (3)  Section 34AA and paragraphs 34AB(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub‑delegation in a corresponding way to the way in which they apply to a delegation.
+             (3)  Section 34AA and paragraphs 34AB(a), (b) and (d) of the _Acts Interpretation Act 1901_ apply in relation to a sub-delegation in a corresponding way to the way in which they apply to a delegation.
 
-             (4)  Section 34A and paragraphs 34AB(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub‑delegation as if it were a delegation.
+             (4)  Section 34A and paragraphs 34AB(c) and (d) of the _Acts Interpretation Act 1901_ apply to a sub-delegation as if it were a delegation.
 
 ##### <a id="191"></a>191  Secrecy
 
@@ -3146,7 +3146,7 @@ during the period to which the report relates.
 
              (2)  Subject to this section, a person to whom this section applies shall not, either directly or indirectly, except for the purposes of this Act, or of a prosecution for an offence against this Act:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information concerning the affairs of another person acquired by the first‑mentioned person in the performance of duties for the purposes of this Act; or
+                     (a)  make a record of, or divulge or communicate to any person, any information concerning the affairs of another person acquired by the first-mentioned person in the performance of duties for the purposes of this Act; or
 
                      (b)  produce to any person a document relating to the affairs of another person furnished for the purposes of this Act.
 
@@ -3230,7 +3230,7 @@ Imprint of seal
 
                      (a)  to assist Aboriginal persons and Torres Strait Islanders to acquire land; and
 
-                     (b)  to assist Aboriginal persons and Torres Strait Islanders to manage indigenous‑held land;
+                     (b)  to assist Aboriginal persons and Torres Strait Islanders to manage indigenous-held land;
 
 so as to provide economic, environmental, social or cultural benefits for Aboriginal persons and Torres Strait Islanders.
 
@@ -3314,27 +3314,27 @@ Functions
 
              (1)  The **_land management functions_** of the Indigenous Land Corporation are as follows:
 
-                     (a)  to carry on, or arrange for the carrying on of, land management activities in relation to indigenous‑held land under agreements with the holders of the land;
+                     (a)  to carry on, or arrange for the carrying on of, land management activities in relation to indigenous-held land under agreements with the holders of the land;
 
                      (b)  to carry on, or arrange for the carrying on of, land management activities in relation to land held by the Indigenous Land Corporation;
 
-                     (c)  to carry on other land management activities in relation to indigenous‑held land;
+                     (c)  to carry on other land management activities in relation to indigenous-held land;
 
-                     (d)  to make grants of money for the carrying on of land management activities in relation to indigenous‑held land;
+                     (d)  to make grants of money for the carrying on of land management activities in relation to indigenous-held land;
 
-                     (e)  to make loans of money (whether secured or unsecured) for the purpose of carrying on land management activities in relation to indigenous‑held land;
+                     (e)  to make loans of money (whether secured or unsecured) for the purpose of carrying on land management activities in relation to indigenous-held land;
 
-                      (f)  to guarantee loans made for the purpose of carrying on land management activities in relation to indigenous‑held land.
+                      (f)  to guarantee loans made for the purpose of carrying on land management activities in relation to indigenous-held land.
 
 Note 1:       **_Land management activities_** is defined by subsection (5).
 
-Note 2:       **_Indigenous‑held land_** is defined by section 4B.
+Note 2:       **_Indigenous-held land_** is defined by section 4B.
 
 Note 3:       **_Holder_** is defined by section 4.
 
-Land management activities relating to particular indigenous‑held land
+Land management activities relating to particular indigenous-held land
 
-          (1A)  Paragraph (1)(c) does not authorise the Indigenous Land Corporation to carry on a land management activity in relation to particular indigenous‑held land otherwise than under an agreement with the holder of the land.
+          (1A)  Paragraph (1)(c) does not authorise the Indigenous Land Corporation to carry on a land management activity in relation to particular indigenous-held land otherwise than under an agreement with the holder of the land.
 
 Grants—terms and conditions
 
@@ -3378,13 +3378,13 @@ Performance of functions
 
                      (a)  pursuing sound land and environmental management practices;
 
-                     (b)  pursuing a policy of granting money or making loans only where the Indigenous Land Corporation considers that alternative approaches (such as guaranteeing loans obtained from external sources or carrying on land management activities under an agreement with the holders of indigenous‑held land) are impracticable;
+                     (b)  pursuing a policy of granting money or making loans only where the Indigenous Land Corporation considers that alternative approaches (such as guaranteeing loans obtained from external sources or carrying on land management activities under an agreement with the holders of indigenous-held land) are impracticable;
 
-                     (c)  in a case where the Indigenous Land Corporation carries on, or arranges for the carrying on of, land management activities under agreements with holders of indigenous‑held land—directly involving the holders of the land in those activities.
+                     (c)  in a case where the Indigenous Land Corporation carries on, or arranges for the carrying on of, land management activities under agreements with holders of indigenous-held land—directly involving the holders of the land in those activities.
 
 Agreements may involve third parties
 
-             (4)  A reference in this section to an agreement with the holder of indigenous‑held land includes a reference to an agreement with the holder, where one or more other persons are parties to the agreement.
+             (4)  A reference in this section to an agreement with the holder of indigenous-held land includes a reference to an agreement with the holder, where one or more other persons are parties to the agreement.
 
 Definition
 
@@ -3494,7 +3494,7 @@ Indigenous Land Corporation may continue to perform functions
 
 When subsidiary taken to perform a corresponding function
 
-             (6)  For the purposes of this Act and any other law of the Commonwealth, a subsidiary of the Indigenous Land Corporation is taken to perform a function corresponding to a particular function of the Indigenous Land Corporation if, and only if, the subsidiary performs the first‑mentioned function under an arrangement under this section.
+             (6)  For the purposes of this Act and any other law of the Commonwealth, a subsidiary of the Indigenous Land Corporation is taken to perform a function corresponding to a particular function of the Indigenous Land Corporation if, and only if, the subsidiary performs the first-mentioned function under an arrangement under this section.
 
 Independent function
 
@@ -3534,7 +3534,7 @@ Trusts
 
              (3)  Despite anything contained in this Act, any money or other property held by the Indigenous Land Corporation on trust must be dealt with in accordance with the powers and duties of the Indigenous Land Corporation as trustee.
 
-Extra‑territorial exercise of powers
+Extra-territorial exercise of powers
 
              (4)  The powers of the Indigenous Land Corporation may be exercised within or outside Australia.
 
@@ -3592,9 +3592,9 @@ Contents of national indigenous land strategy
 
                      (a)  the acquisition of interests in land for the purpose of making grants of those interests to Aboriginal or Torres Strait Islander corporations;
 
-                     (b)  land management issues relating to indigenous‑held land;
+                     (b)  land management issues relating to indigenous-held land;
 
-                     (c)  environmental issues relating to indigenous‑held land.
+                     (c)  environmental issues relating to indigenous-held land.
 
 Note:          It is not intended that the strategy will contain commercially sensitive information.
 
@@ -3638,9 +3638,9 @@ Contents of regional indigenous land strategy
 
                      (a)  the acquisition of interests in land in the regional area for the purpose of making grants of those interests to Aboriginal or Torres Strait Islander corporations;
 
-                     (b)  land management issues relating to indigenous‑held land in the regional area;
+                     (b)  land management issues relating to indigenous-held land in the regional area;
 
-                     (c)  environmental management issues relating to indigenous‑held land in the regional area.
+                     (c)  environmental management issues relating to indigenous-held land in the regional area.
 
 Note:          It is not intended that a strategy will contain commercially sensitive information.
 
@@ -3850,7 +3850,7 @@ Qualifications
 
 and the Minister must ensure that at least 2 ordinary members of the Board have experience in business or financial management.
 
-##### <a id="191Y"></a>191Y  Automatic re‑appointment of incumbent pending appointment of successor
+##### <a id="191Y"></a>191Y  Automatic re-appointment of incumbent pending appointment of successor
 
 When section applies
 
@@ -3858,11 +3858,11 @@ When section applies
 
                      (a)  a person appointed under subsection 191X(1) (the **_incumbent_**) ceases to hold a particular office of Indigenous Land Corporation Director because of the expiry of the period specified in the instrument of appointment; and
 
-                     (b)  there is not in force an instrument under subsection 191X(1) re‑appointing the incumbent, or appointing another person, to that office with effect from the end of that period.
+                     (b)  there is not in force an instrument under subsection 191X(1) re-appointing the incumbent, or appointing another person, to that office with effect from the end of that period.
 
-Automatic re‑appointment
+Automatic re-appointment
 
-             (2)  The Minister is taken to have re‑appointed the incumbent to that office under this subsection with effect from the end of that period. Section 191X does not apply to the re‑appointment.
+             (2)  The Minister is taken to have re-appointed the incumbent to that office under this subsection with effect from the end of that period. Section 191X does not apply to the re-appointment.
 
 Tenure
 
@@ -3876,33 +3876,33 @@ Tenure
 
 ##### <a id="192"></a>192  Basis on which Indigenous Land Corporation Directors hold office
 
-General rule—part‑time basis
+General rule—part-time basis
 
-             (1)  Subject to this section, an Indigenous Land Corporation Director holds office on a part‑time basis.
+             (1)  Subject to this section, an Indigenous Land Corporation Director holds office on a part-time basis.
 
-Chairperson may hold office on a full‑time basis
+Chairperson may hold office on a full-time basis
 
-             (2)  The instrument of appointment of the Indigenous Land Corporation Chairperson may declare that the Chairperson holds office on a full‑time basis.
+             (2)  The instrument of appointment of the Indigenous Land Corporation Chairperson may declare that the Chairperson holds office on a full-time basis.
 
 ##### <a id="192A"></a>192A  Remuneration and allowances
 
                    An Indigenous Land Corporation Director is entitled to remuneration and allowances in accordance with section 194.
 
-##### <a id="192B"></a>192B  Outside employment—full‑time Indigenous Land Corporation Chairperson
+##### <a id="192B"></a>192B  Outside employment—full-time Indigenous Land Corporation Chairperson
 
 When section applies
 
-             (1)  This section applies to the Indigenous Land Corporation Chairperson if the Chairperson holds office on a full‑time basis.
+             (1)  This section applies to the Indigenous Land Corporation Chairperson if the Chairperson holds office on a full-time basis.
 
 No outside employment
 
              (2)  The Indigenous Land Corporation Chairperson must not engage in any paid employment outside the duties of his or her office without the written agreement of the Indigenous Land Corporation Board.
 
-##### <a id="192C"></a>192C  Leave of absence—part‑time Indigenous Land Corporation Directors
+##### <a id="192C"></a>192C  Leave of absence—part-time Indigenous Land Corporation Directors
 
 When this section applies
 
-             (1)  This section applies to an Indigenous Land Corporation Director who holds office on a part‑time basis.
+             (1)  This section applies to an Indigenous Land Corporation Director who holds office on a part-time basis.
 
 Grant of leave
 
@@ -3912,11 +3912,11 @@ Delegation
 
              (3)  The Indigenous Land Corporation Board may, by writing, delegate to the Indigenous Land Corporation Chairperson the power under subsection (2) to grant leave of absence to the other Indigenous Land Corporation Directors.
 
-##### <a id="192D"></a>192D  Leave of absence—full‑time Indigenous Land Corporation Chairperson
+##### <a id="192D"></a>192D  Leave of absence—full-time Indigenous Land Corporation Chairperson
 
 Indigenous Land Corporation Chairperson to whom this section applies
 
-             (1)  This section applies to the Indigenous Land Corporation Chairperson if the Chairperson holds office on a full‑time basis.
+             (1)  This section applies to the Indigenous Land Corporation Chairperson if the Chairperson holds office on a full-time basis.
 
 Recreation leave
 
@@ -3974,9 +3974,9 @@ Validation
 
 ##### <a id="192F"></a>192F  Disclosure of interests
 
-Notification of business interests to Minister—full‑time Chairperson
+Notification of business interests to Minister—full-time Chairperson
 
-             (3)  If the Indigenous Land Corporation Chairperson holds office on a full‑time basis, the Chairperson must give written notice to the Minister of all direct or indirect pecuniary interests that the Chairperson has or acquires in any business, or in any body corporate carrying on a business.
+             (3)  If the Indigenous Land Corporation Chairperson holds office on a full-time basis, the Chairperson must give written notice to the Minister of all direct or indirect pecuniary interests that the Chairperson has or acquires in any business, or in any body corporate carrying on a business.
 
 ##### <a id="192G"></a>192G  Resignation
 
@@ -4004,9 +4004,9 @@ Bankruptcy, conflict of interest etc.
 
 the Minister must terminate the appointment of the Director.
 
-Full‑time Chairperson—unauthorised absence, paid employment
+Full-time Chairperson—unauthorised absence, paid employment
 
-             (3)  If the Indigenous Land Corporation Chairperson holds office on a full‑time basis and the Chairperson:
+             (3)  If the Indigenous Land Corporation Chairperson holds office on a full-time basis and the Chairperson:
 
                      (a)  is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
@@ -4014,9 +4014,9 @@ Full‑time Chairperson—unauthorised absence, paid employment
 
 the Minister must terminate the appointment of the Chairperson.
 
-Part‑time Directors—unauthorised absence
+Part-time Directors—unauthorised absence
 
-             (4)  If an Indigenous Land Corporation Director who holds office on a part‑time basis is absent, except on leave granted under section 192C, from 3 consecutive meetings of the Indigenous Land Corporation Board, the Minister must terminate the appointment of the Director.
+             (4)  If an Indigenous Land Corporation Director who holds office on a part-time basis is absent, except on leave granted under section 192C, from 3 consecutive meetings of the Indigenous Land Corporation Board, the Minister must terminate the appointment of the Director.
 
 ##### <a id="192I"></a>192I  Other terms and conditions
 
@@ -4082,9 +4082,9 @@ Appointment
 
              (1)  There is to be a General Manager of the Indigenous Land Corporation, who is to be appointed by the Indigenous Land Corporation Board.
 
-Day‑to‑day administration
+Day-to-day administration
 
-             (2)  Subject to subsection (3), the Indigenous Land Corporation General Manager must manage the day‑to‑day administration of the Indigenous Land Corporation.
+             (2)  Subject to subsection (3), the Indigenous Land Corporation General Manager must manage the day-to-day administration of the Indigenous Land Corporation.
 
 Board’s policies and directions
 
@@ -4204,7 +4204,7 @@ Note:          The Account was established by subsection 5(3) 
 
              (1)  The **_indexation factor_** for a financial year is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image002.gif)
 
 where:
 
@@ -4234,7 +4234,7 @@ Later financial years
 
              (2)  On the first business day in October in a financial year beginning on or after 1 July 2011, there is to be paid to the Indigenous Land Corporation, out of the Land Account, the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image003.gif)
 
 where:
 
@@ -4368,7 +4368,7 @@ Borrowing limit
 
              (3)  For the purposes of this section, the **_borrowing limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image004.gif)
 
 where:
 
@@ -4418,7 +4418,7 @@ Guarantee limit
 
              (2)  For the purposes of this section, the **_guarantee limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00059/Html/793bd6d8-28a1-402e-a276-65abc5da2f55_files/image005.gif)
 
 where:
 
@@ -4670,13 +4670,13 @@ the individual may, within 30 days after being notified of the refusal, request 
 
              (1)  A person shall not, in relation to an election under this Act, ask for, receive or obtain, or offer or agree to ask for, or receive or obtain, any property or benefit of any kind for the person or any other person, on an understanding that:
 
-                     (a)  any vote of the first‑mentioned person;
+                     (a)  any vote of the first-mentioned person;
 
-                     (b)  any candidature of the first‑mentioned person;
+                     (b)  any candidature of the first-mentioned person;
 
-                     (c)  any support of, or opposition to, a candidate or a group of candidates by the first‑mentioned person; or
+                     (c)  any support of, or opposition to, a candidate or a group of candidates by the first-mentioned person; or
 
-                     (d)  the doing of any act or thing by the first‑mentioned person:
+                     (d)  the doing of any act or thing by the first-mentioned person:
 
                               (i)  with the intention of influencing the preferences set out in the vote of an elector; or
 
@@ -4712,7 +4712,7 @@ give or confer, or promise or offer to give or confer, any property or benefit o
 
                     Penalty:  25 penalty units.
 
-          (3B)  A person must not encourage another person to vote in an election under this Act if the first‑mentioned person knows that the other person is not entitled to vote in the election.
+          (3B)  A person must not encourage another person to vote in an election under this Act if the first-mentioned person knows that the other person is not entitled to vote in the election.
 
                     Penalty:  25 penalty units.
 
@@ -4734,7 +4734,7 @@ give or confer, or promise or offer to give or confer, any property or benefit o
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority shall be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority shall be taken, for the purposes of a prosecution for an offence against this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  Where:
 
@@ -4840,7 +4840,7 @@ the decision is taken to be a decision of an administrative character made under
 
              (2)  Subject to this section, a person to whom this section applies must not, either directly or indirectly:
 
-                     (a)  make a record of, or divulge or communicate to any person, any information concerning the affairs of another person acquired by the first‑mentioned person in the performance of duties in connection with an application for, or the giving of, a loan, grant or guarantee under this Act; or
+                     (a)  make a record of, or divulge or communicate to any person, any information concerning the affairs of another person acquired by the first-mentioned person in the performance of duties in connection with an application for, or the giving of, a loan, grant or guarantee under this Act; or
 
                      (b)  produce to any person a document relating to the affairs of another person furnished in connection with an application for, or the giving of, a loan, grant or guarantee under this Act;
 
@@ -4906,7 +4906,7 @@ Note 2:       See also sections 34AA and 34AB of the _Acts Interpr
 
 ##### <a id="201"></a>201  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, the Regional Council election rules or the TSRA election rules, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, the Regional Council election rules or the TSRA election rules, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -5066,9 +5066,9 @@ as if:
 
                              (ii)  states that the estate or interest has, because of that section, become an asset of the new Commission, or of the body previously known as the Aboriginal and Torres Strait Islander Commercial Development Corporation and now known as Indigenous Business Australia, as the case may be; and
 
-                            (iii)  is signed by an officer of the Attorney‑General’s Department authorised by the Secretary to that Department to give such certificates;
+                            (iii)  is signed by an officer of the Attorney-General’s Department authorised by the Secretary to that Department to give such certificates;
 
-                            is lodged with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
+                            is lodged with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
 the officer with whom the certificate is lodged may deal with and give effect to the certificate as if it were a grant, conveyance, memorandum or instrument of transfer of the estate or interest to the new Commission or Indigenous Business Australia, as the case may be, duly executed under the laws in force in that state or Territory.
 
@@ -5492,7 +5492,7 @@ is a party to the reference.
 
 ##### <a id="28"></a>28  Power to make Rules of Court
 
-                   The judges of the Court or a majority of them may make Rules of Court not inconsistent with this Act and the TSRA election rules for carrying this Schedule into effect and in particular for regulating the practice and procedure of the Court and the forms to be used.
+             (1)  The judges of the Court or a majority of them may make Rules of Court not inconsistent with this Act and the TSRA election rules for carrying this Schedule into effect and in particular for regulating the practice and procedure of the Court and the forms to be used.
 
 Note:          Section 59 of the _Federal Court of Australia Act 1976_ provides that certain provisions of the _Legislative Instruments Act 2003_ apply, with modification, to rules of court made by the Court. Section 59A of the _Federal Court of Australia Act 1976_ provides that regulations may be made modifying or adapting certain provisions of the _Legislative Instruments Act 2003_ in their application to the Court.
 
@@ -6172,23 +6172,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 11 (item 7): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 1): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -8414,34 +8397,13 @@ _(l)_      Subsection 2(1) (item 11) of the _Financial Framework Leg
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 122A(1), (2)</div>
+    <div>Subheads. to s. 122A(1), 
+(2), (5)</div>
   </td>
   <td>
-    <div>am. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subheads. to s. 122A(5)</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 32, 2005</div>
+    <div>
+am. No. 32, 2005 
+rep. No. 32, 2005</div>
   </td>
 </tr>
 <tr>
@@ -12035,7 +11997,7 @@ Part 4A</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 32, 2005; No. 30, 2006</div>
+    <div>am. No. 32, 2005; No. 30\. 2006</div>
   </td>
 </tr>
 <tr>
@@ -13293,7 +13255,7 @@ Schedule 2A</div>
     <div>Schedule 4</div>
   </td>
   <td>
-    <div>am. Nos. 1 and 100, 1994; No. 140, 2003; No. 62, 2004; No. 32, 2005; No. 5, 2011</div>
+    <div>am. Nos. 1 and 100, 1994; No. 140, 2003; No. 62, 2004; No. 32, 2005</div>
   </td>
 </tr></table>
 
@@ -13380,7 +13342,7 @@ Northern Rivers</div>
 5</div>
   </td>
   <td>
-    <div>ATSIC Coffs Harbour Region ‑ ATSIC 96/1
+    <div>ATSIC Coffs Harbour Region - ATSIC 96/1
 
     </div>
   </td>
@@ -13404,7 +13366,7 @@ Quirindi</div>
 4</div>
   </td>
   <td>
-    <div>ATSIC Tamworth Region ‑ ATSIC 96/2
+    <div>ATSIC Tamworth Region - ATSIC 96/2
 
     </div>
   </td>
@@ -13420,7 +13382,7 @@ Quirindi</div>
     <div>12</div>
   </td>
   <td>
-    <div>ATSIC Sydney Region ‑ ATSIC 96/3
+    <div>ATSIC Sydney Region - ATSIC 96/3
 
     </div>
   </td>
@@ -13440,7 +13402,7 @@ NSW Far West</div>
 3</div>
   </td>
   <td>
-    <div>ATSIC Bourke Region ‑ ATSIC 96/4
+    <div>ATSIC Bourke Region - ATSIC 96/4
 
     </div>
   </td>
@@ -13468,7 +13430,7 @@ Lachlan
 4</div>
   </td>
   <td>
-    <div>ATSIC Wagga Wagga Region ‑ ATSIC 96/5</div>
+    <div>ATSIC Wagga Wagga Region - ATSIC 96/5</div>
   </td>
 </tr>
 <tr>
@@ -13486,7 +13448,7 @@ Umbara</div>
 6</div>
   </td>
   <td>
-    <div>ATSIC Queanbeyan Region ‑ ATSIC 96/6
+    <div>ATSIC Queanbeyan Region - ATSIC 96/6
 
     </div>
   </td>
@@ -13525,7 +13487,7 @@ Ward 5
 3</div>
   </td>
   <td>
-    <div>ATSIC Katherine Region ‑ ATSIC 96/7
+    <div>ATSIC Katherine Region - ATSIC 96/7
 
     </div>
   </td>
@@ -13559,7 +13521,7 @@ Daly River
 1</div>
   </td>
   <td>
-    <div>ATSIC Jabiru Region ‑ ATSIC 96/8
+    <div>ATSIC Jabiru Region - ATSIC 96/8
 
     </div>
   </td>
@@ -13585,7 +13547,7 @@ South
 3</div>
   </td>
   <td>
-    <div>ATSIC Nhulunbuy Region ‑ ATSIC 96/9
+    <div>ATSIC Nhulunbuy Region - ATSIC 96/9
 
     </div>
   </td>
@@ -13617,7 +13579,7 @@ Ward 4
     </div>
   </td>
   <td>
-    <div>ATSIC Darwin Region ‑ ATSIC 96/10
+    <div>ATSIC Darwin Region - ATSIC 96/10
 
     </div>
   </td>
@@ -13633,7 +13595,7 @@ Ward 4
     <div>10</div>
   </td>
   <td>
-    <div>ATSIC Alice Springs Region ‑ ATSIC 96/11
+    <div>ATSIC Alice Springs Region - ATSIC 96/11
 
     </div>
   </td>
@@ -13649,7 +13611,7 @@ Ward 4
     <div>9</div>
   </td>
   <td>
-    <div>ATSIC Tennant Creek Region ‑ ATSIC 96/12
+    <div>ATSIC Tennant Creek Region - ATSIC 96/12
 
     </div>
   </td>
@@ -13673,14 +13635,14 @@ Arltarlpilta</div>
 3</div>
   </td>
   <td>
-    <div>ATSIC Apatula Region ‑ ATSIC 96/13
+    <div>ATSIC Apatula Region - ATSIC 96/13
 
     </div>
   </td>
 </tr>
 <tr>
   <td colspan="4">
-    <div>PART 3 ‑ QUEENSLAND</div>
+    <div>PART 3 - QUEENSLAND</div>
   </td>
 </tr>
 <tr>
@@ -13694,7 +13656,7 @@ Arltarlpilta</div>
     <div>10</div>
   </td>
   <td>
-    <div>ATSIC Cooktown Region ‑ ATSIC 96/14
+    <div>ATSIC Cooktown Region - ATSIC 96/14
 
     </div>
   </td>
@@ -13728,7 +13690,7 @@ Carpentaria
 1</div>
   </td>
   <td>
-    <div>ATSIC Mt Isa Region ‑ ATSIC 96/15
+    <div>ATSIC Mt Isa Region - ATSIC 96/15
 
     </div>
   </td>
@@ -13752,7 +13714,7 @@ Brisbane South</div>
 4</div>
   </td>
   <td>
-    <div>ATSIC Brisbane Region ‑ ATSIC 96/16
+    <div>ATSIC Brisbane Region - ATSIC 96/16
 
     </div>
   </td>
@@ -13768,7 +13730,7 @@ Brisbane South</div>
     <div>12</div>
   </td>
   <td>
-    <div>ATSIC Cairns Region ‑ ATSIC 96/17
+    <div>ATSIC Cairns Region - ATSIC 96/17
 
     </div>
   </td>
@@ -13802,7 +13764,7 @@ Charters Towers</div>
     </div>
   </td>
   <td>
-    <div>ATSIC Townsville Region ‑ ATSIC 96/18
+    <div>ATSIC Townsville Region - ATSIC 96/18
 
     </div>
   </td>
@@ -13818,7 +13780,7 @@ Charters Towers</div>
     <div>11</div>
   </td>
   <td>
-    <div>ATSIC Roma Region ‑ ATSIC 96/19
+    <div>ATSIC Roma Region - ATSIC 96/19
 
     </div>
   </td>
@@ -13834,14 +13796,14 @@ Charters Towers</div>
     <div>11</div>
   </td>
   <td>
-    <div>ATSIC Rockhampton Region ‑ ATSIC 96/20
+    <div>ATSIC Rockhampton Region - ATSIC 96/20
 
     </div>
   </td>
 </tr>
 <tr>
   <td colspan="4">
-    <div>PART 4 ‑ SOUTH AUSTRALIA</div>
+    <div>PART 4 - SOUTH AUSTRALIA</div>
   </td>
 </tr>
 <tr>
@@ -13859,7 +13821,7 @@ Murrundi</div>
 4</div>
   </td>
   <td>
-    <div>ATSIC Adelaide Region ‑ ATSIC 96/21
+    <div>ATSIC Adelaide Region - ATSIC 96/21
 
     </div>
   </td>
@@ -13897,7 +13859,7 @@ Tjuta North</div>
     </div>
   </td>
   <td>
-    <div>ATSIC Port Augusta Region ‑ ATSIC 96/22
+    <div>ATSIC Port Augusta Region - ATSIC 96/22
 
     </div>
   </td>
@@ -13929,14 +13891,14 @@ Wilurrara
 2</div>
   </td>
   <td>
-    <div>ATSIC Ceduna Region ‑ ATSIC 96/23
+    <div>ATSIC Ceduna Region - ATSIC 96/23
 
     </div>
   </td>
 </tr>
 <tr>
   <td colspan="4">
-    <div>PART 5 ‑ TASMANIA</div>
+    <div>PART 5 - TASMANIA</div>
   </td>
 </tr>
 <tr>
@@ -13950,14 +13912,14 @@ Wilurrara
     <div>12</div>
   </td>
   <td>
-    <div>ATSIC Hobart Region ‑ ATSIC 96/24
+    <div>ATSIC Hobart Region - ATSIC 96/24
 
     </div>
   </td>
 </tr>
 <tr>
   <td colspan="4">
-    <div>PART 6 ‑ VICTORIA</div>
+    <div>PART 6 - VICTORIA</div>
   </td>
 </tr>
 <tr>
@@ -13979,7 +13941,7 @@ East Melbourne</div>
 5</div>
   </td>
   <td>
-    <div>ATSIC Wangaratta Region ‑ ATSIC 96/26
+    <div>ATSIC Wangaratta Region - ATSIC 96/26
 
     </div>
   </td>
@@ -13999,7 +13961,7 @@ West Melbourne</div>
 5</div>
   </td>
   <td>
-    <div>ATSIC Ballarat Region ‑ ATSIC 96/27
+    <div>ATSIC Ballarat Region - ATSIC 96/27
 
     </div>
   </td>
@@ -14007,7 +13969,7 @@ West Melbourne</div>
 <thead>
   <tr>
     <td colspan="4">
-      <div>PART 7 ‑ WESTERN AUSTRALIA</div>
+      <div>PART 7 - WESTERN AUSTRALIA</div>
     </td>
   </tr>
 </thead>
@@ -14022,7 +13984,7 @@ West Melbourne</div>
     <div>12</div>
   </td>
   <td>
-    <div>ATSIC Perth Region ‑ ATSIC 96/28
+    <div>ATSIC Perth Region - ATSIC 96/28
 
     </div>
   </td>
@@ -14056,7 +14018,7 @@ Albany</div>
     </div>
   </td>
   <td>
-    <div>ATSIC Narrogin Region ‑ ATSIC 96/29
+    <div>ATSIC Narrogin Region - ATSIC 96/29
 
     </div>
   </td>
@@ -14076,7 +14038,7 @@ Bandaral Ngadu</div>
 5</div>
   </td>
   <td>
-    <div>ATSIC Derby Region ‑ ATSIC 96/30
+    <div>ATSIC Derby Region - ATSIC 96/30
 
     </div>
   </td>
@@ -14100,7 +14062,7 @@ Kutjungka</div>
 2</div>
   </td>
   <td>
-    <div>ATSIC Kununurra Region ‑ ATSIC 96/31
+    <div>ATSIC Kununurra Region - ATSIC 96/31
 
     </div>
   </td>
@@ -14120,7 +14082,7 @@ Outer Areas</div>
 4</div>
   </td>
   <td>
-    <div>ATSIC Broome Region ‑ ATSIC 96/32
+    <div>ATSIC Broome Region - ATSIC 96/32
 
     </div>
   </td>
@@ -14150,7 +14112,7 @@ East Pilbara</div>
     </div>
   </td>
   <td>
-    <div>ATSIC South Hedland Region ‑ ATSIC 96/33
+    <div>ATSIC South Hedland Region - ATSIC 96/33
 
     </div>
   </td>
@@ -14166,7 +14128,7 @@ East Pilbara</div>
     <div>10</div>
   </td>
   <td>
-    <div>ATSIC Geraldton Region ‑ ATSIC 96/34
+    <div>ATSIC Geraldton Region - ATSIC 96/34
 
     </div>
   </td>
@@ -14190,7 +14152,7 @@ South</div>
 3</div>
   </td>
   <td>
-    <div>ATSIC Kalgoorlie Region ‑ ATSIC 96/35
+    <div>ATSIC Kalgoorlie Region - ATSIC 96/35
 
     </div>
   </td>
@@ -14214,7 +14176,7 @@ Cundeelee</div>
 1</div>
   </td>
   <td>
-    <div>ATSIC Warburton Region ‑ ATSIC 96/36
+    <div>ATSIC Warburton Region - ATSIC 96/36
 
     </div>
   </td>
@@ -14273,7 +14235,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
 (1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
@@ -14287,7 +14249,7 @@ as if the amendment or repeal had not been made.
 
 (2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -14295,9 +14257,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -14356,11 +14318,11 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 ## Schedule 1
 
-## 212  Transitional—pre‑commencement deeds and compositions
+## 212  Transitional—pre-commencement deeds and compositions
 
-(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre‑commencement deed_**.
+(1)       For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
 
-(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre‑commencement composition_**.
+(2)       For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
 
 (3)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
@@ -14370,19 +14332,19 @@ _Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement deed; and
+                     (c)  a pre-commencement deed; and
 
-                     (d)  a pre‑commencement composition; and
+                     (d)  a pre-commencement composition; and
 
                      (e)  any matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement deed; or
+                              (i)  a pre-commencement deed; or
 
-                             (ii)  a pre‑commencement composition;
+                             (ii)  a pre-commencement composition;
 
 as if those repeals had not happened and those amendments had not been made.
 
-## 213  Transitional—pre‑commencement authorities
+## 213  Transitional—pre-commencement authorities
 
 (1)       For the purposes of this item, if:
 
@@ -14396,7 +14358,7 @@ as if those repeals had not happened and those amendments had not been made.
 
                             (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
 
-the authority is a **_pre‑commencement authority_**.
+the authority is a **_pre-commencement authority_**.
 
 (2)       Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
 
@@ -14406,11 +14368,11 @@ the authority is a **_pre‑commencement authority_**.
 
 continue to apply, in relation to:
 
-                     (c)  a pre‑commencement authority; and
+                     (c)  a pre-commencement authority; and
 
-                     (d)  the control of the debtor’s property following a pre‑commencement authority becoming effective; and
+                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
 
-                     (e)  a meeting of the debtor’s creditors called under a pre‑commencement authority; and
+                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
 
                       (f)  whichever of the following is applicable:
 
@@ -14422,7 +14384,7 @@ continue to apply, in relation to:
 
                      (g)  any other matter connected with, or arising out of:
 
-                              (i)  a pre‑commencement authority; or
+                              (i)  a pre-commencement authority; or
 
                              (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
 
@@ -14436,7 +14398,7 @@ as if those repeals had not happened and those amendments had not been made.
 
 (1)       The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
 
-(2)       The Governor‑General may make regulations for the purposes of subitem (1).
+(2)       The Governor-General may make regulations for the purposes of subitem (1).
 
 * * *
 
@@ -14703,19 +14665,19 @@ were pending in any court or tribunal, the Indigenous Land Corporation is, on an
 
 (4)       A direction referred to in subsection (3) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
-(5)       Before giving financial statements to the Minister under subitem (1), the Secretary must give them to the Auditor‑General, who must report to the Minister:
+(5)       Before giving financial statements to the Minister under subitem (1), the Secretary must give them to the Auditor-General, who must report to the Minister:
 
-                     (a)  whether, in the Auditor‑General’s opinion, the statements are based on proper accounts and records; and
+                     (a)  whether, in the Auditor-General’s opinion, the statements are based on proper accounts and records; and
 
-                     (b)  whether the statements are in agreement with the accounts and records and, in the Auditor‑General’s opinion, show fairly the financial transactions and state of affairs of the Commission; and
+                     (b)  whether the statements are in agreement with the accounts and records and, in the Auditor-General’s opinion, show fairly the financial transactions and state of affairs of the Commission; and
 
-                     (c)  whether, in the Auditor‑General’s opinion, the receipt, expenditure and investment of money, and the acquisition and disposal of assets by the Commission during the closure period were in accordance with the ATSIC Act; and
+                     (c)  whether, in the Auditor-General’s opinion, the receipt, expenditure and investment of money, and the acquisition and disposal of assets by the Commission during the closure period were in accordance with the ATSIC Act; and
 
-                     (d)  such other matters arising out of the statements as the Auditor‑General considers should be reported to the Minister.
+                     (d)  such other matters arising out of the statements as the Auditor-General considers should be reported to the Minister.
 
-(6)       The Secretary and the Auditor‑General may, in discharging their obligations under this item, rely on accounts and records of the Commission that are in the possession of the Commonwealth or to which the Secretary is allowed access, and on any other information provided to a person who was a member of the Commission or who was a member of the staff of the Commission.
+(6)       The Secretary and the Auditor-General may, in discharging their obligations under this item, rely on accounts and records of the Commission that are in the possession of the Commonwealth or to which the Secretary is allowed access, and on any other information provided to a person who was a member of the Commission or who was a member of the staff of the Commission.
 
-(7)       The Minister must cause copies of the reports and financial reports, together with a copy of the report to the Auditor‑General, to be laid before each House of the Parliament within 15 sittings days of that House after the receipt by the Minister.
+(7)       The Minister must cause copies of the reports and financial reports, together with a copy of the report to the Auditor-General, to be laid before each House of the Parliament within 15 sittings days of that House after the receipt by the Minister.
 
 ## 197  Certificates relating to assets, liabilities and instruments
 
@@ -14735,7 +14697,7 @@ were pending in any court or tribunal, the Indigenous Land Corporation is, on an
 
                      (a)  under item 192 of this Part, an estate or interest in land becomes an asset of the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation; and
 
-                     (b)  a certificate under subitem (1) to that effect is lodged with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
+                     (b)  a certificate under subitem (1) to that effect is lodged with the Registrar-General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
 the officer with whom the certificate is lodged may deal with and give effect to the certificate as if it were a grant, conveyance, memorandum or instrument of transfer of the estate or interest to the Commonwealth, Indigenous Business Australia or the Indigenous Land Corporation, as the case may be, duly executed under the laws in force in that state or Territory.
 
@@ -14945,7 +14907,7 @@ is taken, on and after that day, to be an interest of the Indigenous Land Corpor
 
 Despite the repeal of subsection 128(12) of the ATSIC Act, the model rules formulated by the Commission under that subsection and in force immediately before ATSIC abolition day have effect, on and after that day, as if they were model rules formulated by the Registrar of Aboriginal Corporations under subsection 128(12) of the _Aboriginal and Torres Strait Islander Act 2005_.
 
-## 203  Transitional provision—Suspension of Regional Councillors before ATSIC abolition day
+## 203  Transitional provision—Suspension of Regional Councillors before ATSIC abolition day
 
 If, before ATSIC abolition day:
 
