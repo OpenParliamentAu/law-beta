@@ -1,29 +1,31 @@
-![](http://www.comlaw.gov.au/Details/C2010C00302/Html/SuperLegAmendSimp2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00590/Html/SuperLegAmendSimp2007_image001.gif)
 
 # Superannuation Legislation Amendment (Simplification) Act 2007
 
 **Act No. 15 of 2007 as amended**
 
-This compilation was prepared on 19 April 2010
- taking into account amendments up to Act No. 19 of 2010
+This compilation was prepared on 28 September 2007
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+**\[This Act was amended by Act No. 143 of 2007]**
 
-The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
+**Amendment from Act No. 143 of 2007**
+
+\[Schedule 5 (item 28) repealed and substituted item 12 of Schedule 2
+
+Schedule 5 (item 28) commenced on 24 September 2007]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title                                                                                             1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)                                                                                           3
 
-[4](#4).            Repeals disregarded for the purposes of dependent provisions
+[4](#4).            Repeals disregarded for the purposes of dependent provisions          3
 
 **Schedule 1—Consequential amendments etc.** 
 
@@ -45,85 +47,87 @@ Income Tax Assessment Act 1997                �
 
 Income Tax (Transitional Provisions) Act 1997                                                 49
 
-Parliamentary Superannuation Act 2004                                                            58
+Parliamentary Superannuation Act 2004                                                            59
 
-Pooled Development Funds Act 1992                                                                   58
+Pooled Development Funds Act 1992                                                                   59
 
 Remuneration and Allowances Act 1990                                                              59
 
 Retirement Savings Accounts Act 1997                                                                 59
 
-Seafarers Rehabilitation and Compensation Act 1992                                     61
+Seafarers Rehabilitation and Compensation Act 1992                                     62
 
 Small Superannuation Accounts Act 1995                                                           62
 
-Social Security Act 1991                                                                                          62
+Social Security Act 1991                                                                                          63
 
 Superannuation Contributions Tax (Assessment and Collection) Act 1997 70
 
-Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997                                                                                                  70
+Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997                                                                                                  71
 
-Superannuation (Government Co-contribution for Low Income Earners) Act 2003         71
+Superannuation (Government Co-contribution for Low Income Earners) Act 2003         72
 
-Superannuation Guarantee (Administration) Act 1992                                    72
+Superannuation Guarantee (Administration) Act 1992                                    73
 
-Superannuation Industry (Supervision) Act 1993                                              73
+Superannuation Industry (Supervision) Act 1993                                              74
 
-Superannuation (Productivity Benefit) Act 1988                                               75
+Superannuation (Productivity Benefit) Act 1988                                               76
 
-Taxation Administration Act 1953                                                                         75
+Taxation Administration Act 1953                                                                         76
 
 Taxation (Interest on Overpayments and Early Payments) Act 1983             82
 
-Veterans’ Entitlements Act 1986                                                                            82
+Veterans’ Entitlements Act 1986                                                                            83
 
-Part 3—Repeal of entire Act                                                                                      85
+Part 3—Repeal of entire Act                                                                                      86
 
-Income Tax (Superannuation Payments Withholding Tax) Act 2002             85
+Income Tax (Superannuation Payments Withholding Tax) Act 2002             86
 
-Part 4—Application                                                                                                        86
+Part 4—Application                                                                                                        87
 
 **Schedule 2—Small business relief for CGT events** 
 
-Income Tax Assessment Act 1997                                                                            87
+Income Tax Assessment Act 1997                                                                            88
 
 **Schedule 3—Other amendments** 
 
-Bankruptcy Act 1966                                                                                                91
+Bankruptcy Act 1966                                                                                                92
 
-Child Support (Registration and Collection) Act 1988                                    91
+Child Support (Registration and Collection) Act 1988                                    92
 
-Income Tax Assessment Act 1936                                                                            91
+Income Tax Assessment Act 1936                                                                            92
 
-Income Tax Assessment Act 1997                                                                            92
+Income Tax Assessment Act 1997                                                                            93
 
-Income Tax (Transitional Provisions) Act 1997                                                 98
+Income Tax (Transitional Provisions) Act 1997                                                 99
 
-Superannuation Guarantee (Administration) Act 1992                                  100
+Superannuation Guarantee (Administration) Act 1992                                  101
 
-Superannuation Industry (Supervision) Act 1993                                            101
+Superannuation Industry (Supervision) Act 1993                                            103
 
-Superannuation (Self Managed Superannuation Funds) Taxation Act 1987 102
+Superannuation (Self Managed Superannuation Funds) Taxation Act 1987 104
 
-Superannuation (Unclaimed Money and Lost Members) Act 1999              103
+Superannuation (Unclaimed Money and Lost Members) Act 1999              104
 
-Taxation Administration Act 1953                                                                       104
+Taxation Administration Act 1953                                                                       105
 
 **Schedule 4—Technical corrections** 
 
-Income Tax Assessment Act 1997                                                                          106
+Income Tax Assessment Act 1997                                                                          107
 
-Income Tax (Transitional Provisions) Act 1997                                               106
+Income Tax (Transitional Provisions) Act 1997                                               107
 
-Taxation Administration Act 1953                                                                       107
+Taxation Administration Act 1953                                                                       108
 
-**Notes** 
+ 
 
 ## An Act to amend the law relating to taxation, superannuation, social security and veterans’ entitlements, and for related purposes
 
+[_Assented to 15 March 2007_]
+
 The Parliament of Australia enacts:
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title
 
                    This Act may be cited as the _Superannuation Legislation Amendment (Simplification) Act 2007_.
 
@@ -359,6 +363,8 @@ Note:          This table relates only to the provisions of th
 ##### <a id="4"></a>4  Repeals disregarded for the purposes of dependent provisions
 
                    If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
+
+ 
 
 ###### Schedule 1—Consequential amendments etc.
 
@@ -2877,9 +2883,33 @@ Repeal the paragraph, substitute:
 
 Omit “current pension liabilities (within the meaning of Part IX of the _Income Tax Assessment Act 1936_) of”, substitute “liabilities (contingent or not) in respect of * superannuation income stream benefits that are currently payable by”.
 
+## 237  Subparagraph 320-246(1)(e)(i)
+
+Omit “a rolled-over amount”, substitute “a * roll-over superannuation benefit”.
+
+## 238  Subparagraph 320-246(1)(e)(ii)
+
+Omit “a rolled-over amount”, substitute “a roll-over superannuation benefit”.
+
+## 239  At the end of paragraph 320-246(1)(e)
+
+Add:
+
+                            (iv)  satisfies the conditions in subsections (3), (4) and (5) and was purchased on or after 1 July 2007; or
+
 ## 240  Subsection 320-246(2)
 
 Repeal the subsection.
+
+## 241  Paragraph 320-246(4)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  the total amount payable for its commutation to exceed:
+
+                              (i)  if the annuity is a * superannuation income stream that was purchased on or after 1 July 2007—the amount of the * taxable component of the * superannuation interest supporting the superannuation income stream; or
+
+                             (ii)  if subparagraph (i) does not apply—its reduced purchase price (within the meaning of former section 27A of the _Income Tax Assessment Act 1936_ just before the commencement of Schedule 1 to the _Superannuation Legislation Amendment (Simplification) Act 2007_).
 
 ## 242  Paragraph 320-247(1)(a)
 
@@ -3190,7 +3220,7 @@ and those rights or options are 30 June 1988 assets of the entity.
 
              (3)  The proportion is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00302/Html/SuperLegAmendSimp2007_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00590/Html/SuperLegAmendSimp2007_image002.gif)
 
 where:
 
@@ -4168,7 +4198,7 @@ Repeal the paragraph, substitute:
 
                             (iv)  section 12-140 or 12-145 (recipient does not quote tax file number or ABN); and
 
-## 378  Paragraphs 45-120(2)(a), (b) and (c) in Schedule 1
+## 378  Paragraphs 45-120(2)(a), (b) and (c) in Schedule 1
 
 Repeal the paragraphs, substitute:
 
@@ -4941,6 +4971,18 @@ After “for the person”, insert “in complying superannuation plans”.
 
 After “for the person”, insert “in complying superannuation plans”.
 
+## 51  At the end of Subdivision 320-H
+
+Add:
+
+##### <a id="320-246"></a>320-246  Exempt life insurance policy—extended meaning of roll-over superannuation benefit
+
+                   For the purposes of paragraph 320-246(1)(e) of the _Income Tax Assessment Act 1997_, treat a payment as a **_roll-over superannuation benefit_** if:
+
+                     (a)  the payment was made before 1 July 2007; and
+
+                     (b)  it was a rolled-over amount (within the meaning of section 27A of the _Income Tax Assessment Act 1936_ as in force just before the commencement of Schedule 1 to the _Superannuation Legislation Amendment (Simplification) Act 2007_).
+
 <h9 class="ActHead9">Superannuation Guarantee (Administration) Act 1992</h9>
 
 ## 52  After section 15B
@@ -5166,296 +5208,5 @@ Omit “item”, substitute “section”.
 ## 12  Paragraph 298-5(c) in Schedule 1
 
 Omit “this Schedule; or”, substitute “this Schedule.”.
-
-# Notes to the _Superannuation Legislation Amendment (Simplification) Act 2007_
-
-### Note 1
-
-The _Superannuation Legislation Amendment (Simplification) Act 2007_ as shown in this compilation comprises Act No. 15, 2007 amended as indicated in the Tables below. 
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table  A _._
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="19%">
-  <col width="21%">
-  <col width="13%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Simplification) Act 2007</div>
-  </td>
-  <td>
-    <div>15, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div><i>See</i>s. 2(1)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2007 Measures No. 4) Act 2007</div>
-  </td>
-  <td>
-    <div>143, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 28, 48(1)): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 48(1))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2009 Measures No. 6) Act 2010</div>
-  </td>
-  <td>
-    <div>19, 2010</div>
-  </td>
-  <td>
-    <div>24 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 9, 10): <i>(a) 
- </i>Schedule 3 (item 12): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 12)</div>
-  </td>
-</tr></table>
-
-_(a)_     Subsection 2(1) (item 8) of the _Tax Laws Amendment (2009 Measures No. 6) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      8\. Schedule 3, Part 2, Division 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the start of the day on which the
-        <i>Superannuation Legislation Amendment (Simplification) Act 2007</i>received
-        the Royal Assent.
-    </div>
-  </td>
-  <td>
-    <div>
-      15 March 2007
-    </div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Items 237–239</div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 241</div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 12</div>
-  </td>
-  <td>
-    <div>rs. No. 143, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Item 51</div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2010</div>
-  </td>
-</tr></table>
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Tax Laws Amendment (2007 Measures No. 4) Act 2007 (No. 143, 2007)_
-
-## Schedule 5
-
-## 48  Application
-
-(1)        The amendments made by this Schedule apply to the 2007-2008 income year and later years.
-
-* * *
-
-_Tax Laws Amendment (2009 Measures No. 6) Act 2010 (No. 19, 2010)_
-
-## Schedule 3
-
-## 12  Effect of repeal
-
-To avoid doubt, the following provisions are taken never to have had effect:
-
-                     (a)  item 30 of the table in item 214 of Schedule 7 to the _Tax Laws Amendment (2006 Measures No. 2) Act 2006_;
-
-                     (b)  items 237, 238, 239 and 241 of Schedule 1, and item 51 of Schedule 3, to the _Superannuation Legislation Amendment (Simplification) Act 2007_.
-
-_Note 1:    The provision mentioned in paragraph (a) is repealed by Division 2 of Part 1 of this Schedule._
-
-_Note 2:    The provisions mentioned in paragraph (b) are repealed by Division 2 of Part 2 of this Schedule._
 
  
