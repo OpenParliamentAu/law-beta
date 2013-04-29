@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00374/Html/ConPriAndImmAct1972_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00238/Html/ConPriAndImmAct1972_image001.gif)
 
 # Consular Privileges and Immunities Act 1972
 
 **Act No. 62 of 1972 as amended**
 
-This compilation was prepared on 1 July 2007
+This compilation was prepared on 2 April 2007
  taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
@@ -69,6 +69,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="acquisit"></a>**_acquisition_** has the meaning given by section 195-1 of the GST Act.
 
                     <a name="approved-form"></a>**_approved form_** has the meaning given by section 995-1 of the _Income Tax Assessment Act 1997_.
+
+                    <a name="australian-citizen"></a>**_Australian citizen_** includes a person who, by virtue of regulations in force under the _Australian Citizenship Act 1948_, is, for the purposes of that Act, under the protection of the Australian Government.
 
                     <a name="commission"></a>**_Commissioner_** means the Commissioner of Taxation.
 
@@ -1539,8 +1541,7 @@ Remainder: 1 Jan 1983 ( <i>see</i>s. 2(2) and <i>Gazette</i>1982, No. S274)</div
     <div>15 Mar 2007</div>
   </td>
   <td colspan="2">
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1 (item 18): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1621,7 +1622,7 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 216, 1973; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999; No. 21, 2007</div>
+    <div>am. No. 216, 1973; No. 65, 1985; No. 15, 1988; No. 118, 1992; No. 177, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1753,6 +1754,23 @@ _(h)_ The _Consular Privileges and Immunities Act 1972_ was amended by Schedule�
   </td>
 </tr></table>
 
+ 
+
+### Note 2
+
+_Australian Citizenship (Transitionals and Consequentials) Act 2007
+ (No. 21, 2007)_
+
+The following amendment commences on 15 September 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 18  Subsection 3(1) (definition of _Australian citizen_)
+
+Repeal the definition.
+
+As at 2 April 2007 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1778,7 +1796,7 @@ The object of this Part is to ensure that, despite the repeals and amendments ma
 
 before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
 
-## 7  Making and amending assessments, and doing other things, in relation to past matters
+## 7  Making and amending assessments, and doing other things, in relation to past matters
 
 Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
 
