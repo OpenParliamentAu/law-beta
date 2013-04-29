@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00313/Html/5dbfd844-5af1-423a-a411-32347ce86144_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00853/Html/fba57e32-8812-407a-8bbc-60e26ea49b7a_files/image001.gif)
 
 # Sex Discrimination Act 1984
 
 **Act No. 4 of 1984 as amended**
 
-This compilation was prepared on 20 March 2012
+This compilation was prepared on 21 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -331,6 +331,8 @@ but does not include:
                     <a name="depart"></a>**_Department_** means an Agency within the meaning of the _Public Service Act 1999_.
 
                     <a name="disabl"></a>**_disability_** has the same meaning as in the _Disability Discrimination Act 1992_.
+
+                    <a name="docum"></a>**_document_** includes any book, register or other record of information, however compiled, recorded or stored.
 
                     <a name="educ-author"></a>**_educational authority_** means a body or person administering an educational institution.
 
@@ -1798,13 +1800,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="103"></a>103  Acting Commissioner
 
-                   The Minister may appoint a person to act as Commissioner:
+             (1)  The Minister may appoint a person to act as Commissioner:
 
                      (a)  during a vacancy in the office of Commissioner, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Commissioner is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of the office of Commissioner.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (7)  The validity of anything done by a person purporting to act pursuant to an appointment made under subsection (1) shall not be called in question on the ground that the occasion for the person’s appointment had not arisen, that there is a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ## Part VI—Miscellaneous
 
@@ -3222,7 +3224,7 @@ Sch. 5 (item 87A) (ad. by SLI 2009 No. 165, Sch. 2 \[item 1]) \[ <i>see</i
     <div>27 June 2011</div>
   </td>
   <td colspan="3">
-    <div>Schedule 2 (items 1034–1037) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1034–1037) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -3582,7 +3584,7 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; Nos. 40 and 46, 2011</div>
+    <div>am. No. 72, 1984; No. 126, 1986; Nos. 80 and 87, 1988; No. 115, 1990; No. 71, 1991; Nos. 179 and 180, 1992: No. 165, 1995; No. 60, 1996; Nos. 116, 133, 146 and 161, 1999; No. 105, 2002; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; No. 40, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4907,26 +4909,10 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div>S. 102</div>
+    <div>Ss. 102, 103</div>
   </td>
   <td>
     <div>am. No. 132, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 103</div>
-  </td>
-  <td>
-    <div>am. No. 132, 1992; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 103</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5001,6 +4987,34 @@ _(s)_ Subsection 2(1) (items 13, 17 and 21) of the _Fair Work (State Referral 
     <div>rep. No. 133, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1034  Subsection 4(1) (definition of _document_)
+
+Repeal the definition.
+
+## 1035  Subsection 103(1)
+
+Omit “(1)”.
+
+## 1036  At the end of subsection 103(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1037  Subsection 103(7)
+
+Repeal the subsection.
+
+As at 21 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -5352,6 +5366,8 @@ The amendments of the _Sex Discrimination Act 1984_ made by this Part apply in r
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
