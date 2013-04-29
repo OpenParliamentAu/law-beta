@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image001.gif)
 
 # Defence Forces Retirement Benefits Act 1948
 
 **Act No. 31 of 1948 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2009
+ taking into account amendments up to Act No. 134 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [41A](#41A).       Annual amount of certain pensions to be calculated to nearest dollar
 
-[43](#43).          Non‑completion of engagement
+[43](#43).          Non-completion of engagement
 
 [44](#44).          Completion of engagement
 
@@ -106,11 +106,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [68](#68).          Deduction of unpaid contributions from benefits
 
-[69](#69).          Re‑engagement etc  of pensioners
+[69](#69).          Re-engagement etc  of pensioners
 
 [71](#71).          Absence or desertion
 
-[72](#72).          Reduction of gratuity by reason of non‑effective service
+[72](#72).          Reduction of gratuity by reason of non-effective service
 
 [73](#73).          Special invalidity benefit to members under 18 years of age
 
@@ -124,9 +124,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [80A](#80A).       Definitions
 
-    **Division 2—Benefits for non‑member spouse**
+    **Division 2—Benefits for non-member spouse**
 
-[80B](#80B).       Associate pension for non‑member spouse
+[80B](#80B).       Associate pension for non-member spouse
 
 [80C](#80C).       Commutation of small associate pension
 
@@ -176,7 +176,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 3—Preservation of Rights of Contributors Ceasing to be Members**
 
-[82T](#82T).        Interpretation
+[82T](#82T).       Interpretation
 
 [82U](#82U).       Eligible employment
 
@@ -188,25 +188,25 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [82Y](#82Y).       Deferred benefits
 
-[82Z](#82Z).        Election that Division apply
+[82Z](#82Z).       Election that Division apply
 
-[82ZA](#82ZA).     Circumstances in which transfer value payable
+[82ZA](#82ZA).    Circumstances in which transfer value payable
 
 [82ZB](#82ZB).     Circumstances in which person entitled to deferred benefits
 
 [82ZC](#82ZC).     Person who is entitled to rights under this Division not entitled to other retirement benefits
 
-[82ZD](#82ZD).     Certain former contributors not entitled to benefits under this Division
+[82ZD](#82ZD).    Certain former contributors not entitled to benefits under this Division
 
 [82ZE](#82ZE).     Member who resigned to contest an election
 
 [82ZF](#82ZF).     Invalid pensioner restored to health
 
-[82ZG](#82ZG).     Person entitled to deferred benefits again becoming a member
+[82ZG](#82ZG).    Person entitled to deferred benefits again becoming a member
 
     **Division 4—Miscellaneous**
 
-[82ZH](#82ZH).     Special provisions affecting former members of certain superannuation schemes
+[82ZH](#82ZH).    Special provisions affecting former members of certain superannuation schemes
 
 [82ZJ](#82ZJ).      Payments by Commonwealth
 
@@ -224,9 +224,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [84D](#84D).       Date of payment of increases
 
-[84E](#84E).        Rate of invalidity pension payable on reclassification during a prescribed half‑year
+[84E](#84E).        Rate of invalidity pension payable on reclassification during a prescribed half-year
 
-[84F](#84F).        Commutation of pension benefits during a prescribed half‑year
+[84F](#84F).        Commutation of pension benefits during a prescribed half-year
 
 **Part VII—Miscellaneous**
 
@@ -282,17 +282,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  has attained the age of 16 years but has not attained the age of 25 years;
 
-                             (ii)  is receiving full‑time education at a school, college or university; and
+                             (ii)  is receiving full-time education at a school, college or university; and
 
                             (iii)  is not ordinarily in employment or engaged in work on his own account.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="initi-engag"></a>**_initial engagement_** means an engagement as a member which did not commence immediately upon the termination of a prior engagement as a member.
 
                     <a name="invalid-benefit"></a>**_invalidity benefit_** means benefit to which a member is entitled by virtue of subsection 51(1) and includes a deferred benefit that is applicable in respect of a person under Division 3 of Part VIC and is payable by virtue of paragraph 82ZB(2)(a).
 
-                    <a name="member"></a>**_member_** means a member of the Defence Force on continuous full time service, but does not include an indigenous inhabitant of Papua New Guinea who, at the time he engaged to serve, or was appointed, as such a member was a resident of Papua New Guinea.
+                    <a name="member"></a>**_member_** means a member of the Defence Force on continuous full time service, but does not include an indigenous inhabitant of Papua   New Guinea who, at the time he engaged to serve, or was appointed, as such a member was a resident of Papua New Guinea.
 
                     <a name="offic"></a>**_officer_** means:
 
@@ -304,7 +302,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 and includes a cadet enrolled at the Royal Australian Naval  College or at the Royal Military College or a member enlisted in the Permanent Air Force as an air cadet.
 
-                    <a name="period-non-effect-servic"></a>**_period of non‑effective service_**, in relation to a member, means, subject to subsection 4AA(5), any period of service of the member exceeding 21 consecutive days during which the member was:
+                    <a name="period-non-effect-servic"></a>**_period of non-effective service_**, in relation to a member, means, subject to subsection 4AA(5), any period of service of the member exceeding 21 consecutive days during which the member was:
 
                      (a)  on leave of absence without pay;
 
@@ -362,7 +360,7 @@ and includes a cadet enrolled at the Royal Australian Naval  College or at the R
 
                     <a name="servic"></a>**_the Service_** means the Navy, the Army or the Air Force as the case requires.
 
-                    <a name="superannu-fund"></a>**_the Superannuation Fund_** means the Superannuation Fund established under the _Superannuation Act 1922‑1948_.
+                    <a name="superannu-fund"></a>**_the Superannuation Fund_** means the Superannuation Fund established under the _Superannuation Act 1922-1948_.
 
           (1A)  For the purposes of this Act, a person shall be deemed to have served as a member during any period (whether before or after the commencement of this subsection) if he served during that period as a member as defined by this section as in force during that period.
 
@@ -396,7 +394,7 @@ and any such period shall be deemed to be a period of service.
 
 ##### <a id="4AA"></a>4AA  National serviceman on leave of absence without pay in excess of 30 days
 
-             (1)  In this section, **_national serviceman_** means a member who is a national serviceman or a national service officer for the purposes of the _National Service Act 1951‑1968_.
+             (1)  In this section, **_national serviceman_** means a member who is a national serviceman or a national service officer for the purposes of the _National Service Act 1951-1968_.
 
              (2)  Where a national serviceman has been absent on leave of absence without pay for a continuous period that exceeds 30 days, he is not permitted, and shall not be required, to contribute to the Fund in respect of such part of the period during which he is so absent as extends beyond 30 days.
 
@@ -404,7 +402,7 @@ and any such period shall be deemed to be a period of service.
 
              (4)  In determining the period of service for pension of a national serviceman for the purposes of this Act, any period in respect of which, by virtue of subsection (2), the national serviceman was not permitted or required to contribute to the Fund shall not be treated as a period of service, but service of the national serviceman immediately before such a period and service of the national serviceman immediately after that period shall be deemed to be continuous.
 
-             (5)  In the application of this Act to or in respect of a national serviceman, **_period of non‑effective service_** does not include a period during which the national serviceman is absent on leave of absence without pay.
+             (5)  In the application of this Act to or in respect of a national serviceman, **_period of non-effective service_** does not include a period during which the national serviceman is absent on leave of absence without pay.
 
 ##### <a id="4A"></a>4A  Categories of members
 
@@ -412,9 +410,9 @@ and any such period shall be deemed to be a period of service.
 
              (2)  The category number of a member is:
 
-                     (a)  if the annual pay of the member is less than the prescribed amount—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image002.gif), where A is the number of dollars in his annual pay or, if the number of dollars in his annual pay is not a multiple of 130, the next lower number that is such a multiple; and
+                     (a)  if the annual pay of the member is less than the prescribed amount—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image002.gif), where A is the number of dollars in his annual pay or, if the number of dollars in his annual pay is not a multiple of 130, the next lower number that is such a multiple; and
 
-                     (b)  in any other case—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image003.gif), where:
+                     (b)  in any other case—the number ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image003.gif), where:
 
                                **_B_**  is the number of dollars in the prescribed amount; and
 
@@ -428,7 +426,7 @@ and any such period shall be deemed to be a period of service.
 
              (4)  In this section, **_the prescribed amount_** means such amount, being a multiple of $130, as is specified in the regulations for the purposes of this section.
 
-             (5)  In making a regulation for the purposes of subsection (4), the Governor‑General shall have regard to any general variations in the rates of annual pay of members that have occurred.
+             (5)  In making a regulation for the purposes of subsection (4), the Governor-General shall have regard to any general variations in the rates of annual pay of members that have occurred.
 
              (6)  A regulation for the purposes of subsection (4) may be expressed to have taken effect from a date earlier than the date on which the regulation is made, being a date not earlier than 6 months before the date on which the regulation is made.
 
@@ -562,11 +560,11 @@ the officer is entitled, on his retirement, to a pension in accordance with the 
 
                    Where the amount of pension per annum ascertained under section 38, 39 or 41 includes an amount of cents:
 
-                     (a)  if that last‑mentioned amount is less than 50 cents—the amount of pension shall be deemed to be reduced by that last‑mentioned amount; and
+                     (a)  if that last-mentioned amount is less than 50 cents—the amount of pension shall be deemed to be reduced by that last-mentioned amount; and
 
                      (b)  in any other case—the amount of pension shall be deemed to be increased by treating the cents as $1.
 
-##### <a id="43"></a>43  Non‑completion of engagement
+##### <a id="43"></a>43  Non-completion of engagement
 
              (1)  Except as otherwise provided in this Act, where a member (not being an officer), who is a contributor, retires before completing the engagement under which he was serving immediately prior to his retirement, he shall be entitled to a refund of the amount of any contributions paid by him under this Act in respect of the period served under the uncompleted engagement and shall also be entitled, as from the date of his retirement, to the pension or benefits (if any) to which he would have been entitled if he had retired immediately before commencing to serve under that engagement:
 
@@ -638,9 +636,9 @@ on the ground of invalidity or of physical or mental incapacity to perform his d
 
                             Percentage of Incapacity                                                                    Class 
 
-                     60 or over...................................................................... A........ 30 or over but less than 60      B 
+                     60 or over....................................................................... A........ 30 or over but less than 60         B 
 
-                     Less than 30................................................................... C
+                     Less than 30.................................................................... C
 
           (2A)  Where:
 
@@ -668,7 +666,7 @@ the Authority must:
 
 subsection (1) does not apply in relation to him.
 
-             (4)  Where a person who has ceased to be a member again becomes a member (other than a person referred to in Part VIA as a **_re‑instated candidate to whom this Part applies_**), subsection (3) applies in relation to him as if he had become a contributor at the time he commenced to make contributions after again becoming a member.
+             (4)  Where a person who has ceased to be a member again becomes a member (other than a person referred to in Part VIA as a **_re-instated candidate to whom this Part applies_**), subsection (3) applies in relation to him as if he had become a contributor at the time he commenced to make contributions after again becoming a member.
 
              (5)  This section does not apply to a person who retires on or after 1 October 1972.
 
@@ -688,7 +686,7 @@ subsection (1) does not apply in relation to him.
 
                               (i)  the rate at which pension would be payable to an officer of the same category as the category of the person immediately before his retirement who became entitled to a pension under section 38 upon retiring on attaining the retiring age for the rank held by the person immediately before his retirement; or
 
-                             (ii)  a rate equal to one‑half of the rate at which pension would be payable to him if he were classified as Class A under subsection 51(2).
+                             (ii)  a rate equal to one-half of the rate at which pension would be payable to him if he were classified as Class A under subsection 51(2).
 
              (3)  A person who is entitled to invalidity benefit, is classified as Class B under subsection 51(2) and was not an officer immediately before his retirement is entitled to a pension:
 
@@ -734,7 +732,7 @@ subsection (1) does not apply in relation to him.
 
 ##### <a id="52A"></a>52A  Invalidity benefit payable to certain contributors under Superannuation Act
 
-             (1)  This section applies to a member who becomes entitled to benefit by virtue of subsection 51(1) of this Act and who, at the time he becomes so entitled, is an employee for the purposes of the _Superannuation Act 1922‑1968_ whose liability to make contributions to the Superannuation Fund is deferred by virtue of section 35A of that Act or is a person whose entitlement to a pension under that Act is suspended by force of subsection 48C(1) of that Act.
+             (1)  This section applies to a member who becomes entitled to benefit by virtue of subsection 51(1) of this Act and who, at the time he becomes so entitled, is an employee for the purposes of the _Superannuation Act 1922-1968_ whose liability to make contributions to the Superannuation Fund is deferred by virtue of section 35A of that Act or is a person whose entitlement to a pension under that Act is suspended by force of subsection 48C(1) of that Act.
 
              (2)  Notwithstanding anything contained in section 52, the invalidity benefit to which a person to whom this section applies is entitled is, in addition to a refund under section 60 of the amount of contributions paid by him under this Act, the gratuity to which he would have been entitled if:
 
@@ -798,9 +796,9 @@ the Authority shall have regard to the following matters only:
 
              (3)  Where a person fails to comply with a notice given under subsection (1) and the Authority is not satisfied that there was a reasonable excuse for the failure, the Authority may, by notice in writing given to the person, suspend the person’s pension with effect from such day as the Authority determines, being a day not earlier than:
 
-                     (a)  in a case where the first‑mentioned notice required the person to submit to a medical examination on a day specified in the notice—the day next following that day; or
+                     (a)  in a case where the first-mentioned notice required the person to submit to a medical examination on a day specified in the notice—the day next following that day; or
 
-                     (b)  in a case where the first‑mentioned notice required the person to furnish information within a period specified in the notice—the day next following the end of that period.
+                     (b)  in a case where the first-mentioned notice required the person to furnish information within a period specified in the notice—the day next following the end of that period.
 
              (4)  A notice to a person under subsection (3) shall set out the effect of subsections (5B), (5D) and (5E).
 
@@ -816,9 +814,9 @@ the Authority may, by notice in writing given to the person or to the person and
 
           (5B)  Without limiting subsection (5A), where the pension of a person (in this subsection called the **_relevant person_**) is suspended under subsection (3), the relevant person, or another person acting on the relevant person’s behalf, may, by notice in writing given to the Authority, request the Authority to revoke the suspension, and where such a request is made, the Authority shall, by notice in writing given to the relevant person or to the relevant person and the other person, as the case may be:
 
-                     (a)  if the pension has been suspended by virtue of the relevant person’s having failed to comply with a notice requiring the relevant person to submit to a medical examination—require the relevant person to submit to a medical examination by a medical practitioner at a time and place specified in the second‑mentioned notice; or
+                     (a)  if the pension has been suspended by virtue of the relevant person’s having failed to comply with a notice requiring the relevant person to submit to a medical examination—require the relevant person to submit to a medical examination by a medical practitioner at a time and place specified in the second-mentioned notice; or
 
-                     (b)  if the pension has been suspended by virtue of the relevant person’s having failed to comply with a notice requiring the relevant person to give information to the Authority (in this paragraph called **_the original notice_**)—require the relevant person to give in writing to the Authority, within such period as is specified in the second‑mentioned notice, such information as was required by the original notice to be given.
+                     (b)  if the pension has been suspended by virtue of the relevant person’s having failed to comply with a notice requiring the relevant person to give information to the Authority (in this paragraph called **_the original notice_**)—require the relevant person to give in writing to the Authority, within such period as is specified in the second-mentioned notice, such information as was required by the original notice to be given.
 
           (5C)  A notice given by the Authority under subsection (5B) shall set out the effects of subsections (5D) and (5E).
 
@@ -838,7 +836,7 @@ the Authority shall, by notice in writing given to the relevant person or to the
 
                      (d)  in a case to which subparagraph (b)(ii) applies—the day on which the Authority became so satisfied.
 
-          (5E)  Where:
+           (5E)  Where:
 
                      (a)  because of a request having been made to revoke the suspension of the pension of a person (in this subsection called the **_relevant person_**), a notice under subsection (5B) is given to the relevant person or to the relevant person and another person; and
 
@@ -856,15 +854,15 @@ the Authority shall, by notice in writing given to the relevant person or to the
 
                      (a)  the notice is served on the person personally;
 
-                     (b)  the notice is sent to the person by pre‑paid post as a letter and the person acknowledges receipt of the letter; or
+                     (b)  the notice is sent to the person by pre-paid post as a letter and the person acknowledges receipt of the letter; or
 
-                     (c)  where the Authority has caused all reasonable steps to be taken to ascertain a reliable address of the person, the notice is sent to the person by pre‑paid post to:
+                     (c)  where the Authority has caused all reasonable steps to be taken to ascertain a reliable address of the person, the notice is sent to the person by pre-paid post to:
 
                               (i)  in a case where the Authority is satisfied that at least one reliable address of the person has been ascertained—that address or one of those addresses; or
 
                              (ii)  in any other case—the last address of the person known to the Authority.
 
-             (8)  A reference in subsection (7) to a reliable address of a person shall be read as a reference to an address where, if a letter were sent to the person by pre‑paid post to the address, the person would probably receive the letter.
+             (8)  A reference in subsection (7) to a reliable address of a person shall be read as a reference to an address where, if a letter were sent to the person by pre-paid post to the address, the person would probably receive the letter.
 
              (9)  In this section, **_invalidity benefit_** includes pension payable under section 73.
 
@@ -876,13 +874,13 @@ the Authority shall, by notice in writing given to the relevant person or to the
 
              (1)  In this section:
 
-                    <a name="non-perman-forc-offic"></a>**_non‑Permanent Forces officer_** means an officer who is not a member of the Permanent Forces.
+                    <a name="non-perman-forc-offic"></a>**_non-Permanent Forces officer_** means an officer who is not a member of the Permanent Forces.
 
                     <a name="perman-forc-offic"></a>**_Permanent Forces officer_** means an officer who is a member of the Permanent Forces.
 
              (2)  Where:
 
-                     (a)  a non‑Permanent Forces officer retires; and
+                     (a)  a non-Permanent Forces officer retires; and
 
                      (b)  the retiring age for the rank held by him on his retirement is greater than it would have been if he had been a Permanent Forces officer on his retirement;
 
@@ -894,7 +892,7 @@ the retiring age for the rank held by him on his retirement shall, for the purpo
 
                      (e)  subsections 52(2) and (5); and
 
-                      (f)  if he became a non‑Permanent Forces officer after the commencement of this section and he was, immediately before becoming a non‑Permanent Forces officer, a Permanent Forces officer—subsection 40(2);
+                      (f)  if he became a non-Permanent Forces officer after the commencement of this section and he was, immediately before becoming a non-Permanent Forces officer, a Permanent Forces officer—subsection 40(2);
 
 but not for any other purpose of this Act, be deemed to be the age that would have been that retiring age if he had been a Permanent Forces officer on his retirement.
 
@@ -914,15 +912,15 @@ the retiring age for the rank held by him on his retirement shall, for the purpo
 
              (1)  Subject to subsection (4), on the death before retirement prior to 1 October 1972 of a married member who is a contributor, pension shall be paid to his widow as follows:
 
-                     (a)  during her life—a pension at a rate equal to five‑eighths of the rate at which pension would have been payable to her husband if, on the date of his death, he had become entitled to invalidity benefit and had been classified as Class A under subsection 51(2); and
+                     (a)  during her life—a pension at a rate equal to five-eighths of the rate at which pension would have been payable to her husband if, on the date of his death, he had become entitled to invalidity benefit and had been classified as Class A under subsection 51(2); and
 
-                     (b)  in respect of each child of the widow who is an eligible child (other than a child born after the death of the member unless the child is also the child of the member), and in respect of each child of the member who is an eligible child—a pension at the rate of $312 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one‑sixth of the rate at which pension payable under paragraph (a) is payable to the widow.
+                     (b)  in respect of each child of the widow who is an eligible child (other than a child born after the death of the member unless the child is also the child of the member), and in respect of each child of the member who is an eligible child—a pension at the rate of $312 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one-sixth of the rate at which pension payable under paragraph (a) is payable to the widow.
 
-             (2)  Subject to subsection (3), on the death of the widow, there shall be payable in respect of each child of the widow who is an eligible child (other than a child born after the death of the member unless the child is also the child of the member), and in respect of each child of the member who is an eligible child, a pension at the rate $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one‑eighth of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to the widow.
+             (2)  Subject to subsection (3), on the death of the widow, there shall be payable in respect of each child of the widow who is an eligible child (other than a child born after the death of the member unless the child is also the child of the member), and in respect of each child of the member who is an eligible child, a pension at the rate $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one-eighth of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to the widow.
 
-             (3)  Where the number of children in respect of whom pensions are payable under subsection (2) because of the widow’s death is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image004.gif) of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (2), a pension at the rate calculated by dividing the number of children into the rate exceeded.
+             (3)  Where the number of children in respect of whom pensions are payable under subsection (2) because of the widow’s death is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image004.gif) of the rate at which pension payable under paragraph (1)(a) would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (2), a pension at the rate calculated by dividing the number of children into the rate exceeded.
 
-             (4)  Pension is not payable under this section in respect of a member who, at the time of his death, was an employee for the purposes of the _Superannuation Act 1922‑1968_ whose liability to make contributions to the Superannuation Fund was deferred by virtue of section 35A of that Act or was a person whose entitlement to a pension under that Act was suspended by force of subsection 48C(1) of that Act.
+             (4)  Pension is not payable under this section in respect of a member who, at the time of his death, was an employee for the purposes of the _Superannuation Act 1922-1968_ whose liability to make contributions to the Superannuation Fund was deferred by virtue of section 35A of that Act or was a person whose entitlement to a pension under that Act was suspended by force of subsection 48C(1) of that Act.
 
 ##### <a id="57"></a>57  Pension on death of pensioner etc.
 
@@ -930,9 +928,9 @@ the retiring age for the rank held by him on his retirement shall, for the purpo
 
              (1)  On the death of a male pensioner, pension shall, subject to this section, be paid to his widow as follows:
 
-                     (a)  during her life—five‑eighths of a pension payable to her husband at the time of his death; and
+                     (a)  during her life—five-eighths of a pension payable to her husband at the time of his death; and
 
-                     (b)  in respect of each child of the widow who is an eligible child (other than a child born after the death of the pensioner unless the child is also the child of the pensioner), and in respect of each child of the pensioner who is an eligible child—a pension at the rate of $312 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one‑sixth of the rate at which pension payable under paragraph (a) is payable to the widow.
+                     (b)  in respect of each child of the widow who is an eligible child (other than a child born after the death of the pensioner unless the child is also the child of the pensioner), and in respect of each child of the pensioner who is an eligible child—a pension at the rate of $312 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one-sixth of the rate at which pension payable under paragraph (a) is payable to the widow.
 
              (2)  For the purposes of subsection (1), the pension payable to the widow of a male pensioner during her life shall, in any case where:
 
@@ -968,11 +966,11 @@ pension shall be paid to his widow at the rate or rates at which, under section�
 
 pension is payable to his widow at the rate or rates at which, under section 55, pension is payable to the widow of a married member who was a contributor and died before retirement.
 
-          (3B)  In spite of subsections (1), (2), (3) and (3A), if, on any of the 7 pay‑days immediately following the death of a male pensioner, the rate at which pension would, apart from this subsection, be payable to his widow is less than the rate (in this subsection called the **_putative rate_**) at which the pension payable to him immediately before his death would be payable to him on that day if he had not died, the widow is entitled to a pension payable at a rate equal to the putative rate.
+          (3B)  In spite of subsections (1), (2), (3) and (3A), if, on any of the 7 pay-days immediately following the death of a male pensioner, the rate at which pension would, apart from this subsection, be payable to his widow is less than the rate (in this subsection called the **_putative rate_**) at which the pension payable to him immediately before his death would be payable to him on that day if he had not died, the widow is entitled to a pension payable at a rate equal to the putative rate.
 
-             (4)  Subject to subsection (5), on the death of a widow to whom this section applies, there shall be payable in respect of each child of the widow who is an eligible child (other than a child born after the death of the pensioner unless the child is also the child of the pensioner), and in respect of each child of the male pensioner who is an eligible child, a pension at the rate of $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one‑eighth of the rate at which pension payable under paragraph (1)(a), or under subsection (3), as the case may be would, but for her death, have been payable to the widow.
+             (4)  Subject to subsection (5), on the death of a widow to whom this section applies, there shall be payable in respect of each child of the widow who is an eligible child (other than a child born after the death of the pensioner unless the child is also the child of the pensioner), and in respect of each child of the male pensioner who is an eligible child, a pension at the rate of $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one-eighth of the rate at which pension payable under paragraph (1)(a), or under subsection (3), as the case may be would, but for her death, have been payable to the widow.
 
-             (5)  Where the number of children in respect of whom pensions are payable under subsection (4) because of the widow’s death is such that the sum of the rates of all the pensions exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image004.gif) of the rate at which pension payable under paragraph (1)(a) or subsection (3), as the case requires, would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (4), a pension calculated by dividing the number of children into the rate exceeded.
+             (5)  Where the number of children in respect of whom pensions are payable under subsection (4) because of the widow’s death is such that the sum of the rates of all the pensions exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image004.gif) of the rate at which pension payable under paragraph (1)(a) or subsection (3), as the case requires, would, but for her death, have been payable to her, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (4), a pension calculated by dividing the number of children into the rate exceeded.
 
 ##### <a id="57A"></a>57A  Set off against widow’s pension in certain circumstances
 
@@ -992,9 +990,9 @@ then, in spite of any other law:
 
 ##### <a id="58"></a>58  Pensions payable in respect of orphans
 
-             (1)  Subject to subsection (1A), where the wife of a member who is a contributor or of a male pensioner is dead or divorced and the member or pensioner dies leaving children of himself or of his wife who are eligible children and who were dependent upon him at the time of his death, pension payable under this Act in respect of each child shall be a pension at the rate of $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one‑eighth of the rate at which pension payable under paragraph 55(1)(a), or pension payable under paragraph 57(1)(a), or under subsection 57(3), as the case may be, would, but for her death or divorce, have been payable to the widow.
+             (1)  Subject to subsection (1A), where the wife of a member who is a contributor or of a male pensioner is dead or divorced and the member or pensioner dies leaving children of himself or of his wife who are eligible children and who were dependent upon him at the time of his death, pension payable under this Act in respect of each child shall be a pension at the rate of $5,000 per annum, as indexed in accordance with subsection 84C(2), and an additional pension at a rate equal to one-eighth of the rate at which pension payable under paragraph 55(1)(a), or pension payable under paragraph 57(1)(a), or under subsection 57(3), as the case may be, would, but for her death or divorce, have been payable to the widow.
 
-          (1A)  Where the number of children in respect of whom pensions are payable under subsection (1) because of the death of the member or pensioner is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image004.gif) of the rate at which pension payable under paragraph 55(1)(a) or 57(1)(a), or subsection 57(3), as the case requires, would, but for her death or divorce, have been payable to the widow, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (1), a pension at the rate calculated by dividing the number of children into the rate exceeded.
+          (1A)  Where the number of children in respect of whom pensions are payable under subsection (1) because of the death of the member or pensioner is such that the sum of the rates of all the pensions so payable exceeds a rate equal to 1![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image004.gif) of the rate at which pension payable under paragraph 55(1)(a) or 57(1)(a), or subsection 57(3), as the case requires, would, but for her death or divorce, have been payable to the widow, then, while that position exists, there is payable in respect of each of the children, instead of the pensions described in subsection (1), a pension at the rate calculated by dividing the number of children into the rate exceeded.
 
           (1B)  In the application of subsection (1) in relation to a deceased male pensioner who remarried after he became a pensioner, the reference in that subsection to the wife of a pensioner shall be read as not including a reference to the person who became the wife of the pensioner on that remarriage.
 
@@ -1070,13 +1068,13 @@ his service before his retirement and his service after he again becomes a contr
 
            (11)  The Authority shall not, under subsection (3), grant a pension to a person in relation to a deceased contributor or a deceased pensioner from a specified date at a rate that exceeds the rate at which pension would have been payable from that specified date in respect of that person under this Act, had the person been, for the purposes of this Act as amended and in force at, and at all times after, the date of death of the deceased contributor or the deceased pensioner, the child of the deceased contributor or the deceased pensioner and an eligible child and had the person become, at the time when he would, in the circumstances set out in subsection (3) have first become entitled, as an eligible orphan, to pension benefit in section 43 of the _Defence Force Retirement and Death Benefits Act 1973_, entitled to pension under subsection 55(2), 57(4) or 58(1) of this Act.
 
-           (12)  Where a pensioner dies on or after the commencing date and a pension is paid to a person, under section 57, as a widow of the pensioner, then, during the period that the pension continues to be paid, for the purpose of calculating the maximum rate of pension payable under subsection (1) to another person but not for the purpose of calculating the maximum rate of pension payable under subsection (2) or (3) to another person, this Act has effect as if the reference in paragraph 57(1)(a) to five‑eighths were a reference to three‑eighths.
+           (12)  Where a pensioner dies on or after the commencing date and a pension is paid to a person, under section 57, as a widow of the pensioner, then, during the period that the pension continues to be paid, for the purpose of calculating the maximum rate of pension payable under subsection (1) to another person but not for the purpose of calculating the maximum rate of pension payable under subsection (2) or (3) to another person, this Act has effect as if the reference in paragraph 57(1)(a) to five-eighths were a reference to three-eighths.
 
            (13)  The grant by the Authority, under this section, of a pension to a person does not effect the entitlement of any other person under this Act to a pension that is payable otherwise than by virtue of a grant of a pension under this section or the rate of such a pension.
 
 ##### <a id="64AA"></a>64AA  Special grant of pension where spouse pension would be payable
 
-             (1)  If, at any time after the day on which Schedule 3 to the _Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008_ commenced (the **_start day_**):
+             (1)  If, at any time after the day on which Schedule 3 to the _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008_ commenced (the **_start day_**):
 
                      (a)  a pension is not payable to a person under section 57 or 64 of this Act; and
 
@@ -1108,7 +1106,7 @@ the Authority may grant, from a specified date, a pension to the person at a rat
 
                      (b)  the Authority grants a pension under this section to another person in respect of the pensioner;
 
-then, for the purpose of calculating the rate of pension payable to the other person under this section, this Act has effect as if the reference in paragraph 57(1)(a) to five‑eighths were a reference to three‑eighths.
+then, for the purpose of calculating the rate of pension payable to the other person under this section, this Act has effect as if the reference in paragraph 57(1)(a) to five-eighths were a reference to three-eighths.
 
              (6)  A determination made under subsection (1) is not a legislative instrument.
 
@@ -1116,7 +1114,7 @@ then, for the purpose of calculating the rate of pension payable to the other pe
 
 ##### <a id="64AB"></a>64AB  Special grant of pension where child’s pension would be payable to eligible child
 
-             (1)  If, at any time after the day on which Schedule 3 to the _Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008_ commenced (the **_start day_**):
+             (1)  If, at any time after the day on which Schedule 3 to the _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008_ commenced (the **_start day_**):
 
                      (a)  a pension is not payable in respect of a person under section 55, 57 or 64 of this Act; and
 
@@ -1146,7 +1144,7 @@ the Authority may grant, from a specified date, a pension to the person at a rat
 
 ##### <a id="64AC"></a>64AC  Special grant of pension where child’s pension would be payable to eligible orphan
 
-             (1)  If, at any time after the day on which Schedule 3 to the _Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008_ commenced (the **_start day_**):
+             (1)  If, at any time after the day on which Schedule 3 to the _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008_ commenced (the **_start day_**):
 
                      (a)  a pension is not payable in respect of a person under section 55, 57, 58 or 64 of this Act; and
 
@@ -1216,7 +1214,7 @@ the Authority may grant, from a specified date, a pension to the person at a rat
 
              (2)  In order to ascertain the amount of an instalment of a pension covering a period of a fortnight the annual pension shall be divided by 26.
 
-             (3)  The amount of a pension payable in respect of each day shall be one‑fourteenth of the amount of a fortnightly instalment.
+             (3)  The amount of a pension payable in respect of each day shall be one-fourteenth of the amount of a fortnightly instalment.
 
 ##### <a id="68"></a>68  Deduction of unpaid contributions from benefits
 
@@ -1224,7 +1222,7 @@ the Authority may grant, from a specified date, a pension to the person at a rat
 
              (2)  Where a person ceases to be a member within a period of less than one fortnight after he became a contributor and has not commenced to make contributions to the Fund, he shall, for the purposes of subsection (1), be deemed to be liable to pay to the Fund one fortnightly contribution.
 
-##### <a id="69"></a>69  Re‑engagement etc. of pensioners
+##### <a id="69"></a>69  Re-engagement etc. of pensioners
 
           (1A)  Where:
 
@@ -1254,11 +1252,11 @@ so much of his pension as is equivalent to the amount that, but for this subsect
 
                              (ii)  if the payments from the Commonwealth are equal—of one only of those pensions.
 
-             (5)  Where a person in receipt of a pension under section 55 or 57 is a contributor under the provisions of the _Superannuation Act 1922‑1959_, she is, on retirement on pension under that Act, entitled to receive, in addition to that last‑mentioned pension:
+             (5)  Where a person in receipt of a pension under section 55 or 57 is a contributor under the provisions of the _Superannuation Act 1922-1959_, she is, on retirement on pension under that Act, entitled to receive, in addition to that last-mentioned pension:
 
                      (a)  the proportion of the pension under section 55 or 57 of this Act that is based upon the contributions paid by her husband; and
 
-                     (b)  the amount (if any) by which the proportion of the pension payable by the Commonwealth under this Act exceeds the proportion of the pension payable by the Commonwealth under the _Superannuation Act 1922‑1959_.
+                     (b)  the amount (if any) by which the proportion of the pension payable by the Commonwealth under this Act exceeds the proportion of the pension payable by the Commonwealth under the _Superannuation Act 1922-1959_.
 
              (7)  A person who is a pensioner (other than a pensioner under section 55 or 57) is guilty of an offence if:
 
@@ -1266,7 +1264,7 @@ so much of his pension as is equivalent to the amount that, but for this subsect
 
                      (b)  the person does not, within 14 days after again becoming such a member, notify the board in the prescribed manner.
 
-                    Maximum penalty: $40.
+                    Maximum penalty:    $40.
 
              (8)  Where, by reason of the failure of a pensioner to notify the Board as required by subsection (7), the Board has paid to a pensioner an amount which, under the provisions of this section, should not have been paid, the Board may:
 
@@ -1278,21 +1276,21 @@ so much of his pension as is equivalent to the amount that, but for this subsect
 
            (10)  In subsections (4) and (5), a reference to a pension does not include a reference to a pension payable in respect of a child.
 
-           (11)  Subsection (1A) of this section does not apply to a pensioner who again becomes a member on or after 1 October 1972, subsection (5) of this section does not apply to a person whose retirement on pension under the _Superannuation Act 1922‑1959_, or that Act as amended and in force from time to time, occurred on or after 1 October 1972, and subsection (7) of this section does not apply to a pensioner who again becomes a member on or after that date.
+           (11)  Subsection (1A) of this section does not apply to a pensioner who again becomes a member on or after 1 October 1972, subsection (5) of this section does not apply to a person whose retirement on pension under the _Superannuation Act 1922-1959_, or that Act as amended and in force from time to time, occurred on or after 1 October 1972, and subsection (7) of this section does not apply to a pensioner who again becomes a member on or after that date.
 
 ##### <a id="71"></a>71  Absence or desertion
 
                    Pension or gratuity shall not be payable under this Act to, or in respect of, any member who absents himself without leave for more than 21 days or becomes a deserter and who, during the period of absence or desertion, becomes incapacitated or dies.
 
-##### <a id="72"></a>72  Reduction of gratuity by reason of non‑effective service
+##### <a id="72"></a>72  Reduction of gratuity by reason of non-effective service
 
                    Where:
 
                      (a)  a person is entitled to a gratuity under this Act; and
 
-                     (b)  the period of service for pension of that person includes a period of non‑effective service;
+                     (b)  the period of service for pension of that person includes a period of non-effective service;
 
-the amount of the gratuity that would, but for this section, be payable to the person shall be reduced by an amount that bears to that first‑mentioned amount the same proportion as the period of non‑effective service bears to the period of service for pension.
+the amount of the gratuity that would, but for this section, be payable to the person shall be reduced by an amount that bears to that first-mentioned amount the same proportion as the period of non-effective service bears to the period of service for pension.
 
 ##### <a id="73"></a>73  Special invalidity benefit to members under 18 years of age
 
@@ -1300,9 +1298,9 @@ the amount of the gratuity that would, but for this section, be payable to the p
 
                             Percentage of Incapacity                                                                    Class 
 
-                     60 or over...................................................................... A........ 30 or over but less than 60      B
+                     60 or over....................................................................... A........ 30 or over but less than 60         B
 
-                     Less than 30................................................................... C
+                     Less than 30.................................................................... C
 
           (1A)  If, before the Authority has determined, for the purposes of subsection (1) the percentage of incapacity in relation to civil employment of a person, the person dies, the Authority must:
 
@@ -1360,7 +1358,7 @@ the Authority shall have regard to the following matters only:
 
 ##### <a id="74"></a>74  Commutation of pension
 
-             (1)  Subject to the regulations, a pensioner who has not attained the age of 57 years may apply to the Authority for the commutation of a portion of his pension, being a portion that does not exceed one‑third of the pension.
+             (1)  Subject to the regulations, a pensioner who has not attained the age of 57 years may apply to the Authority for the commutation of a portion of his pension, being a portion that does not exceed one-third of the pension.
 
              (2)  When an application is made to the Authority under this section, the Authority may, at its discretion, grant or refuse the application, or grant the application subject to such terms and conditions as the Authority thinks fit.
 
@@ -1388,9 +1386,9 @@ Note:          This amount is determined by applying those reg
 
                     <a name="member-spous"></a>**_member spouse_** has the same meaning as in Part VIIIB of the _Family Law Act 1975_.
 
-                    <a name="non-member-spous"></a>**_non‑member spouse_** has the same meaning as in Part VIIIB of the _Family Law Act 1975_.
+                    <a name="non-member-spous"></a>**_non-member spouse_** has the same meaning as in Part VIIIB of the _Family Law Act 1975_.
 
-                    <a name="non-standard-pension"></a>**_non‑standard pension_** means pension under this Act other than standard pension.
+                    <a name="non-standard-pension"></a>**_non-standard pension_** means pension under this Act other than standard pension.
 
                     <a name="oper-time"></a>**_operative time_**, in relation to a splitting agreement or splitting order, means the time that is the operative time for the purposes of Part VIIIB of the _Family Law Act 1975_ in relation to a payment split under the agreement or order.
 
@@ -1440,11 +1438,11 @@ Note:          This amount is determined by applying those reg
 
                      (c)  if a base amount applies and the scheme value is more than the family law value—the amount calculated using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image005.gif)
 
-### Division 2—Benefits for non‑member spouse
+### Division 2—Benefits for non-member spouse
 
-##### <a id="80B"></a>80B  Associate pension for non‑member spouse
+##### <a id="80B"></a>80B  Associate pension for non-member spouse
 
              (1)  This section applies to a superannuation interest under this Act (the **_original interest_)**if:
 
@@ -1452,19 +1450,19 @@ Note:          This amount is determined by applying those reg
 
                      (b)  the original interest is not an entitlement to pension under paragraph 57(1)(b), subsection 57(4) or (5) or section 58; and
 
-                     (c)  the member spouse and the non‑member spouse are both alive at the operative time; and
+                     (c)  the member spouse and the non-member spouse are both alive at the operative time; and
 
                      (d)  if a base amount applies—the base amount at the operative time is not more than the family law value or the scheme value.
 
-             (2)  The non‑member spouse is entitled to associate pension from the operative time, at the rate calculated under the Orders by reference to the transfer amount.
+             (2)  The non-member spouse is entitled to associate pension from the operative time, at the rate calculated under the Orders by reference to the transfer amount.
 
 ##### <a id="80C"></a>80C  Commutation of small associate pension
 
-             (1)  If the annual rate of associate pension to which the non‑member spouse becomes entitled is less than the amount determined under the Orders, then the non‑member spouse may elect to commute the pension.
+             (1)  If the annual rate of associate pension to which the non-member spouse becomes entitled is less than the amount determined under the Orders, then the non-member spouse may elect to commute the pension.
 
-             (2)  The election must be made in writing to the Chairman not later than 3 months after the non‑member spouse becomes entitled to the pension.
+             (2)  The election must be made in writing to the Chairman not later than 3 months after the non-member spouse becomes entitled to the pension.
 
-             (3)  If the non‑member spouse makes the election, then the non‑member spouse is entitled instead to a lump sum equal to the transfer amount.
+             (3)  If the non-member spouse makes the election, then the non-member spouse is entitled instead to a lump sum equal to the transfer amount.
 
 ### Division 3—Reduction of benefits for member spouse
 
@@ -1472,7 +1470,7 @@ Note:          This amount is determined by applying those reg
 
              (1)  The annual rate of standard pension that is payable at the operative time in respect of the original interest is reduced to the amount calculated under the Orders.
 
-             (2)  A reduction under this section is to be disregarded in calculating the amount of any non‑standard pension that later becomes payable.
+             (2)  A reduction under this section is to be disregarded in calculating the amount of any non-standard pension that later becomes payable.
 
 Note:          For example, the reduction will be disregarded in calculating the amount of pension under paragraph 57(1)(b) payable in respect of a child of the member spouse after the member spouse’s death.
 
@@ -1488,7 +1486,7 @@ Note:          For example, the reduction will be disregarded 
 
              (1)  This Part applies to a person who, being in receipt of or entitled to a pension under this Act that became payable by reason of his having been a member other than a pension being a deferred benefit applicable under Division 3 of Part VIC, has become liable under section 23 to make contributions to the Fund upon again becoming, or after having again become, a member and has not again ceased to be a member.
 
-             (2)  In determining, for the purposes of subsection (1), whether a person who again becomes a member is required by section 23 to contribute to the Fund, any reference in subsection 23(3) or (4) to engagement, re‑engagement, appointment or re‑appointment shall be read as not including a reference to an engagement, re‑engagement, appointment or re‑appointment of the person before he again became a member.
+             (2)  In determining, for the purposes of subsection (1), whether a person who again becomes a member is required by section 23 to contribute to the Fund, any reference in subsection 23(3) or (4) to engagement, re-engagement, appointment or re-appointment shall be read as not including a reference to an engagement, re-engagement, appointment or re-appointment of the person before he again became a member.
 
              (3)  For the purposes of this section, a person shall not be deemed to have ceased to be entitled to a pension by reason only that the pension has been suspended under this Act.
 
@@ -1508,7 +1506,7 @@ Note:          For example, the reduction will be disregarded 
 
              (6)  The reference in the definition of **_previous category number_** in subsection (5) to the category number of a person immediately before he became a pensioner shall, in the case of a person who became a pensioner before 14 December 1959, be read as a reference to the number of units for which the person was last contributing to the Fund before he became a pensioner.
 
-             (7)  Nothing in Part III of the _Defence Forces Retirement Benefits Act 1959‑1966_, Part IV of the _Defence Forces Retirement Benefits Act 1962‑1963_ or Part IV of the _Defence Forces Retirement Benefits Act 1963‑1965_ shall be construed as affecting the amount of contributions payable by a person to whom this Part applies.
+             (7)  Nothing in Part III of the _Defence Forces Retirement Benefits Act 1959-1966_, Part IV of the _Defence Forces Retirement Benefits Act 1962-1963_ or Part IV of the _Defence Forces Retirement Benefits Act 1963-1965_ shall be construed as affecting the amount of contributions payable by a person to whom this Part applies.
 
 ##### <a id="82G"></a>82G  Pension or benefit payable
 
@@ -1604,7 +1602,7 @@ he is entitled, upon being so reclassified:
 
                      (a)  whose new category number is a lower number than his previous category number;
 
-                     (b)  who, before he first became entitled to pension, made an election under section 61A or 61B of the _Defence Forces Retirement Benefits Act 1963‑1965_;
+                     (b)  who, before he first became entitled to pension, made an election under section 61A or 61B of the _Defence Forces Retirement Benefits Act 1963-1965_;
 
                      (c)  the rate of whose pension on his first retirement was reduced:
 
@@ -1690,7 +1688,7 @@ that pension shall be paid at such rate as is determined by the Board as being a
 
                              (ii)  in the case of any other superannuation scheme—to a benefit by way of a lump sum payable to or in respect of the member under that scheme upon the termination of the employment otherwise than on the ground of invalidity or of physical or mental incapacity to perform the duties of the employment, being a benefit that was based wholly upon contributions under that scheme by the employer or was based partly upon such contributions and partly upon contributions under the scheme by the member; and
 
-                     (b)  a reference to the amount of a transfer value to which subparagraph (a)(ii) applies does not include a reference to any part of the lump sum that was based upon contributions by the member that were of a similar nature to contributions under the _Superannuation Act 1922‑1971_ for reserve units of pension.
+                     (b)  a reference to the amount of a transfer value to which subparagraph (a)(ii) applies does not include a reference to any part of the lump sum that was based upon contributions by the member that were of a similar nature to contributions under the _Superannuation Act 1922-1971_ for reserve units of pension.
 
              (2)  If, after a transfer value became payable to or in respect of a person under a superannuation scheme, an amount equal to the whole or any part of that transfer value was paid to a person administering another superannuation scheme (not being the superannuation scheme constituted by the provisions of this Act and of the other Acts relating to retirement benefits for members of the Defence Force):
 
@@ -1738,7 +1736,7 @@ that pension shall be paid at such rate as is determined by the Board as being a
 
                             (vi)  any deferred benefits would have become so applicable on or after that date but for an election or choice made, option exercised or other act or thing done by him, or he was entitled to make an election or choice, exercise an option or do any other act or thing as a result of which any deferred benefits would have become so applicable on or after that date but he did not make the election or choice, exercise the option or do the other act or thing; or
 
-                           (vii)  in the case of a person who has been an employee within the meaning of the _Superannuation Act 1922‑1971_ and, immediately before he became such an employee, was a contributor to a Public Service Superannuation Fund within the meaning of Part VIII of that Act—a refund of the whole or any part of any contributions made by him to that Fund became payable;
+                           (vii)  in the case of a person who has been an employee within the meaning of the _Superannuation Act 1922-1971_ and, immediately before he became such an employee, was a contributor to a Public Service Superannuation Fund within the meaning of Part VIII of that Act—a refund of the whole or any part of any contributions made by him to that Fund became payable;
 
                             and, if so, setting out particulars of the transfer value, prescribed pension, deferred benefits or refund that became, or would have become, payable.
 
@@ -1888,7 +1886,7 @@ so much of the amount paid to the Commonwealth under subsection (4) as is equa
 
                      (b)  a transfer value of a greater amount would have become so payable but for the doing of, or the failure to do, any act or thing referred to in paragraph 82Q(1)(b);
 
-the first‑mentioned transfer value shall not be taken into account for the purposes of paragraph (3)(a).
+the first-mentioned transfer value shall not be taken into account for the purposes of paragraph (3)(a).
 
              (5)  Where:
 
@@ -1896,7 +1894,7 @@ the first‑mentioned transfer value shall not be taken into account for the pur
 
                      (b)  a transfer value of a smaller amount would have become so payable but for the doing of, or the failure to do, any act or thing referred to in paragraph 82Q(1)(b);
 
-the last‑mentioned transfer value shall not be taken into account for the purposes of paragraph (3)(a).
+the last-mentioned transfer value shall not be taken into account for the purposes of paragraph (3)(a).
 
              (6)  The amount per fortnight of the contribution that, but for this section, would be payable by a member to whom this section applies is reduced by so much of that amount as the Authority determines, having regard to the reduction in his category number effected by subsection (2).
 
@@ -1908,7 +1906,7 @@ the last‑mentioned transfer value shall not be taken into account for the purp
 
                      (a)  in the case of a person other than a person in relation to whom paragraph (b) applies—the period of 3 months immediately after he ceased to be a member; or
 
-                     (b)  in the case of a person who ceased to be a member by reason of his having been transferred to a Reserve or discharged from the Defence Force, or having had his continuous full‑time service terminated, under the _Defence (Parliamentary Candidates) Act 1969_ for the purpose of enabling him to become a candidate for election as a member of a House of the Parliament of the Commonwealth or of a State and was a candidate at the election:
+                     (b)  in the case of a person who ceased to be a member by reason of his having been transferred to a Reserve or discharged from the Defence Force, or having had his continuous full-time service terminated, under the _Defence (Parliamentary Candidates) Act 1969_ for the purpose of enabling him to become a candidate for election as a member of a House of the Parliament of the Commonwealth or of a State and was a candidate at the election:
 
                               (i)  if he is elected—the period commencing immediately after he ceased to be a member and ending on the date on which he becomes a member of that House; or
 
@@ -1944,7 +1942,7 @@ the last‑mentioned transfer value shall not be taken into account for the purp
 
                             (iii)  benefits, whether by way of a lump sum or of a pension, that were payable at a future time and were based, or included an amount or amounts based, wholly upon contributions by the employer under the scheme or partly upon such contributions and partly upon contributions under the scheme by the person became applicable in respect of the person; and
 
-                     (d)  subject to subsection (5), a period of employment of the person during which he was a contributor to a State Fund within the meaning of Part VII of the _Superannuation Act 1922‑1971_ or a contributor to a Public Service Superannuation Fund within the meaning of Part VIII of that Act.
+                     (d)  subject to subsection (5), a period of employment of the person during which he was a contributor to a State Fund within the meaning of Part VII of the _Superannuation Act 1922-1971_ or a contributor to a Public Service Superannuation Fund within the meaning of Part VIII of that Act.
 
              (2)  Paragraph (1)(b) does not apply in relation to a period of employment of a person that terminated before the commencement of this section unless, before the expiration of 3 months after the termination of that employment, the person became employed in other employment that is eligible employment.
 
@@ -1958,39 +1956,39 @@ the last‑mentioned transfer value shall not be taken into account for the purp
 
                      (d)  before the expiration of 3 months after the termination of that employment he became employed in other employment that was eligible employment and:
 
-                              (i)  a lump sum of a kind referred to in paragraph (a) did not become payable to or in respect of him in relation to the first‑mentioned employment and he was not entitled to make an election or choice, exercise an option or do any other act or thing as a result of which such a lump sum would have become so payable;
+                              (i)  a lump sum of a kind referred to in paragraph (a) did not become payable to or in respect of him in relation to the first-mentioned employment and he was not entitled to make an election or choice, exercise an option or do any other act or thing as a result of which such a lump sum would have become so payable;
 
-                             (ii)  a pension of a kind referred to in paragraph (b) did not become payable to or in respect of him in relation to the first‑mentioned employment and he was not entitled to make an election or choice, exercise an option or do any other act or thing as a result of which such a pension would have become so payable; and
+                             (ii)  a pension of a kind referred to in paragraph (b) did not become payable to or in respect of him in relation to the first-mentioned employment and he was not entitled to make an election or choice, exercise an option or do any other act or thing as a result of which such a pension would have become so payable; and
 
-                            (iii)  benefits of a kind referred to in paragraph (c) did not become applicable in respect of him in relation to the first‑mentioned employment and he was not entitled to make an election or choice, exercise an option or do any other act or thing as a result of which any such benefits would have become so applicable.
+                            (iii)  benefits of a kind referred to in paragraph (c) did not become applicable in respect of him in relation to the first-mentioned employment and he was not entitled to make an election or choice, exercise an option or do any other act or thing as a result of which any such benefits would have become so applicable.
 
              (4)  Paragraph (1)(c) does not apply in relation to a period of employment of a person by reason of the operation of subparagraph (1)(c)(i) unless an amount equal to the lump sum referred to in that subparagraph, or an amount that included an amount based upon that lump sum, has been paid into the Fund.
 
              (5)  Paragraph (1)(d) does not apply in relation to a period of employment of a person unless:
 
-                     (a)  an amount equal to the amount refunded to the person from the Fund referred to in that paragraph was paid to the Superannuation Board in accordance with Part VII or Part VIII of the _Superannuation Act 1922‑1971_; and
+                     (a)  an amount equal to the amount refunded to the person from the Fund referred to in that paragraph was paid to the Superannuation Board in accordance with Part VII or Part VIII of the _Superannuation Act 1922-1971_; and
 
-                     (b)  a period of employment during which the person was a contributor to the Superannuation Fund that immediately followed the period of the first‑mentioned employment was a period of eligible employment.
+                     (b)  a period of employment during which the person was a contributor to the Superannuation Fund that immediately followed the period of the first-mentioned employment was a period of eligible employment.
 
              (6)  A reference in paragraph (1)(b), (c) or (d) to a period of employment of a person does not include a reference to a period of employment in relation to which a preceding paragraph of that subsection applies.
 
 ##### <a id="82V"></a>82V  Public employment
 
-             (1)  The Finance Minister may, by instrument under his hand published in the _Gazette_, declare employment, whether within or outside Australia, by a person, or by persons included in a class of persons, specified in the instrument to be public employment for the purposes of this Division.
+             (1)  The Minister for Finance may, by instrument under his hand published in the _Gazette_, declare employment, whether within or outside Australia, by a person, or by persons included in a class of persons, specified in the instrument to be public employment for the purposes of this Division.
 
              (2)  A declaration under subsection (1) shall come into force on the day on which the instrument of declaration is published in the _Gazette_ or, if an earlier day (not being earlier than 1 January 1970) is specified in the instrument as the day on which the declaration is to be deemed to have come into force, shall be deemed to have come into force on that earlier day.
 
-             (3)  A person shall be taken, for the purposes of this Division, to have been employed in public employment at a particular time if, and only if, the employer by whom he was employed at that time was a person, or was a person included in a class of persons, specified in a declaration by the Finance Minister under this section that was, or is to be deemed to have been, in force at that time.
+             (3)  A person shall be taken, for the purposes of this Division, to have been employed in public employment at a particular time if, and only if, the employer by whom he was employed at that time was a person, or was a person included in a class of persons, specified in a declaration by the Minister for Finance under this section that was, or is to be deemed to have been, in force at that time.
 
              (4)  Where any public employment in which a person is employed terminates and, within 3 months after the date of the termination, he again becomes employed in public employment, he shall, for the purposes of this Division, be deemed not to have ceased, by reason of the termination, to be employed in public employment but, in ascertaining the period in which he has been employed in public employment, any period between the termination of a period in which he was employed in public employment and the commencement of a further period in which he was employed in public employment shall not be treated as itself being a period in which he was employed in public employment.
 
 ##### <a id="82W"></a>82W  Eligible superannuation schemes
 
-             (1)  The Finance Minister may, by instrument under his hand published in the _Gazette_, declare a superannuation scheme specified in the instrument to be an eligible superannuation scheme for the purposes of this Division.
+             (1)  The Minister for Finance may, by instrument under his hand published in the _Gazette_, declare a superannuation scheme specified in the instrument to be an eligible superannuation scheme for the purposes of this Division.
 
              (2)  A declaration under subsection (1) shall come into force on the day on which the instrument of declaration is published in the _Gazette_ or, if an earlier day (not being earlier than 1 January 1970) is specified in the instrument as the day on which the declaration is to be deemed to have come into force, shall be deemed to have come into force on that earlier day.
 
-             (3)  A person shall be taken, for the purposes of this Division, to have been a member of an eligible superannuation scheme at a particular time if, and only if, he was at that time a member of a superannuation scheme in respect of which a declaration by the Finance Minister under this section was, or is to be deemed to have been, in force at that time.
+             (3)  A person shall be taken, for the purposes of this Division, to have been a member of an eligible superannuation scheme at a particular time if, and only if, he was at that time a member of a superannuation scheme in respect of which a declaration by the Minister for Finance under this section was, or is to be deemed to have been, in force at that time.
 
 ##### <a id="82X"></a>82X  Transfer value
 
@@ -2000,7 +1998,7 @@ the last‑mentioned transfer value shall not be taken into account for the purp
 
                      (a)  the contributions to the Fund made by the person;
 
-                     (b)  subject to subsection (3), the payments to the Fund that would have been made by the Commonwealth if, on each occasion on which the person was required to pay an amount of contributions to the Fund or would have been required to pay an amount of contributions to the Fund but for an election made by him under subsection 61A(1) or 61B(1) of the _Defence Forces Retirement Benefits Act 1963‑1968_, the Commonwealth had paid to the Fund such amount as would have been necessary to provide for the share of pension that would have been payable by the Commonwealth in respect of the person;
+                     (b)  subject to subsection (3), the payments to the Fund that would have been made by the Commonwealth if, on each occasion on which the person was required to pay an amount of contributions to the Fund or would have been required to pay an amount of contributions to the Fund but for an election made by him under subsection 61A(1) or 61B(1) of the _Defence Forces Retirement Benefits Act 1963-1968_, the Commonwealth had paid to the Fund such amount as would have been necessary to provide for the share of pension that would have been payable by the Commonwealth in respect of the person;
 
                      (c)  any amounts paid to the Board in accordance with subsection 82R(1) in respect of the person;
 
@@ -2064,11 +2062,11 @@ the last‑mentioned transfer value shall not be taken into account for the purp
 
                      (b)  if the person does not leave a widow, or the widow dies within the period referred to in paragraph (a) without making such an election, but the person leaves an eligible child or eligible children—such an election may be made within that period by such person as the Board permits;
 
-and, in that case, this Act has effect as if the election had been made by the first‑mentioned person but subsection (4) does not apply.
+and, in that case, this Act has effect as if the election had been made by the first-mentioned person but subsection (4) does not apply.
 
              (7)  The Board may, if it is satisfied that there are special circumstances that justify it in so doing, extend the period referred to in paragraph (6)(a) or (b).
 
-             (8)  This section does not apply in relation to a person to whom section 35A of the _Superannuation Act 1922‑1971_ applied immediately before he ceased to be a member and who, at the time when he ceased to be a member, had not ceased to be a contributor to the Superannuation Fund.
+             (8)  This section does not apply in relation to a person to whom section 35A of the _Superannuation Act 1922-1971_ applied immediately before he ceased to be a member and who, at the time when he ceased to be a member, had not ceased to be a contributor to the Superannuation Fund.
 
              (9)  This section does not apply in relation to a member who:
 
@@ -2094,7 +2092,7 @@ and, in that case, this Act has effect as if the election had been made by the f
 
 a transfer value in respect of the person is payable to the person administering that scheme.
 
-             (2)  This section does not apply in relation to a person unless the person administering the superannuation scheme agrees to accept the transfer value and, under the rules of the scheme, the first‑mentioned person will become entitled to retirement benefits under the scheme based upon the transfer value.
+             (2)  This section does not apply in relation to a person unless the person administering the superannuation scheme agrees to accept the transfer value and, under the rules of the scheme, the first-mentioned person will become entitled to retirement benefits under the scheme based upon the transfer value.
 
 ##### <a id="82ZB"></a>82ZB  Circumstances in which person entitled to deferred benefits
 
@@ -2214,7 +2212,7 @@ this Act has effect as if the election had not been made.
 
 ##### <a id="82ZE"></a>82ZE  Member who resigned to contest an election
 
-                   Where a person who has made an election under section 82Z is, for the purposes of Part VIA, a re‑instated candidate to whom that Part applies or is, by virtue of section 81, to be deemed to have continued to have been a member, this Act has effect as if the election had not been made.
+                   Where a person who has made an election under section 82Z is, for the purposes of Part VIA, a re-instated candidate to whom that Part applies or is, by virtue of section 81, to be deemed to have continued to have been a member, this Act has effect as if the election had not been made.
 
 ##### <a id="82ZF"></a>82ZF  Invalid pensioner restored to health
 
@@ -2320,13 +2318,13 @@ the Board shall so far as is practicable arrange for the amount or amounts of an
 
 by notice in writing to the Board revoke the election and, in that case, paragraphs (9)(a) and (b) have effect in relation to him.
 
-           (11)  The Finance Minister may, by instrument under his hand published in the _Gazette_, declare a superannuation scheme, being a scheme under which benefits are provided for by means of life policies, to be an approved superannuation scheme for the purposes of this section.
+           (11)  The Minister for Finance may, by instrument under his hand published in the _Gazette_, declare a superannuation scheme, being a scheme under which benefits are provided for by means of life policies, to be an approved superannuation scheme for the purposes of this section.
 
            (12)  A declaration under subsection (11) shall come into force on the day on which the instrument of declaration is published in the _Gazette_ or, if an earlier day (not being earlier than 1 January 1970) is specified in the instrument as the day on which the declaration is to be deemed to have come into force, shall be deemed to have come into force on that earlier day.
 
-           (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Finance Minister under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
+           (13)  A superannuation scheme shall be taken, for the purposes of this section, to have been an approved superannuation scheme at a particular time if a declaration by the Minister for Finance under subsection (11) in respect of that scheme was, or is to be deemed to have been, in force at that time.
 
-           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2011C00289/Html/4d6dccea-6e8d-496d-9d13-4dec35867732_files/image006.gif), where:
+           (14)  In this section, **_the prescribed amount_**, in relation to a person in relation to any time, is an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2009C00017/Html/DefenceForRetBen1948_WD02_image006.gif), where:
 
 _a_   is amount of the annual premium, or the sum of the amounts of the annual premiums, applicable at that time under the life policy or life policies assigned by him to the Board in accordance with subsection (3) or issued in relation to him in accordance with subsection (4);
 
@@ -2334,9 +2332,9 @@ _b_   is the amount, or the sum of the amounts, payable by him under the sup
 
 _c_   is the amount of the annual premium, or the sum of the amounts of the annual premiums, applicable under the life policy or life policies assigned by him to the Board in accordance with subsection (3) immediately before he ceased to be a member of the superannuation scheme referred to in subsection (4).
 
-           (15)  For the purposes of this section, the rate of compound interest in respect of any period that is a financial year or a part of a financial year is the rate of interest determined by the Finance Minister in respect of that financial year or, if the Finance Minister has not determined a rate of interest in respect of that financial year, the rate of interest determined by the Finance Minister in respect of the last preceding financial year in respect of which the Finance Minister has determined a rate of interest.
+           (15)  For the purposes of this section, the rate of compound interest in respect of any period that is a financial year or a part of a financial year is the rate of interest determined by the Minister for Finance in respect of that financial year or, if the Minister for Finance has not determined a rate of interest in respect of that financial year, the rate of interest determined by the Minister for Finance in respect of the last preceding financial year in respect of which the Minister for Finance has determined a rate of interest.
 
-           (16)  In determining a rate of interest in respect of a financial year for the purposes of this section, the Finance Minister shall have regard to the average rate of interest that was earned by the Fund in that financial year and to such other matters as he thinks relevant.
+           (16)  In determining a rate of interest in respect of a financial year for the purposes of this section, the Minister for Finance shall have regard to the average rate of interest that was earned by the Fund in that financial year and to such other matters as he thinks relevant.
 
 ##### <a id="82ZJ"></a>82ZJ  Payments by Commonwealth
 
@@ -2348,7 +2346,7 @@ _c_   is the amount of the annual premium, or the sum of the amounts of the 
 
                      (b)  a payment of pension (other than a pension constituting or forming part of any deferred benefits referred to in section 82ZB) is made under this Act to or in respect of a person in respect of whom an amount has been paid to the Fund under Division 2;
 
-section 32 of this Act, subsection (1) of this section, section 61 of the _Defence Forces Retirement Benefits Act 1959‑1968_ and subsections 61E(7) and (8) of the _Defence Forces Retirement Benefits Act 1963‑1968_ do not apply in relation to the payment but, except in the case of a payment that becomes payable on or after 1 October 1972, the Commonwealth shall pay to the Fund an amount equal to so much of the amount of the payment as the Board determines.
+section 32 of this Act, subsection (1) of this section, section 61 of the _Defence Forces Retirement Benefits Act 1959-1968_ and subsections 61E(7) and (8) of the _Defence Forces Retirement Benefits Act 1963-1968_ do not apply in relation to the payment but, except in the case of a payment that becomes payable on or after 1 October 1972, the Commonwealth shall pay to the Fund an amount equal to so much of the amount of the payment as the Board determines.
 
 ## Part VID—Pension increases
 
@@ -2356,123 +2354,123 @@ section 32 of this Act, subsection (1) of this section, section 61 of the 
 
              (1)  In this Part, unless the contrary intention appears:
 
-                    <a name="first-quarter"></a>**_first quarter_**, in relation to a half‑year, means:
+                    <a name="first-quarter"></a>**_first quarter_**, in relation to a half-year, means:
 
-                     (a)  for a half‑year beginning on 1 January in a year—the March quarter of the year; and
+                     (a)  for a half-year beginning on 1 January in a year—the March quarter of the year; and
 
-                     (b)  for a half‑year beginning on 1 July in a year—the September quarter of the year.
+                     (b)  for a half-year beginning on 1 July in a year—the September quarter of the year.
 
-                    <a name="half-year"></a>**_half‑year_** means a period of 6 months beginning on 1 January or 1 July in any year.
+                    <a name="half-year"></a>**_half-year_** means a period of 6 months beginning on 1 January or 1 July in any year.
 
                     <a name="pension"></a>**_pension_** means a pension payable under or in accordance with this Act, Part III of the _Defence Forces Retirement Benefits Act 1959_, Part IV of the _Defence Forces Retirement Benefits Act 1962_, Part IV of the _Defence Forces Retirement Benefits Act 1963_ or the _Defence Forces Special Retirement Benefits Act 1960_, but does not include associate pension under Part VIA of this Act.
 
-                    <a name="prescrib-half-year"></a>**_prescribed half‑year_** means the half‑year commencing on 1 January 2002 or a subsequent half‑year.
+                    <a name="prescrib-half-year"></a>**_prescribed half-year_** means the half-year commencing on 1 January 2002 or a subsequent half-year.
 
                     <a name="statistician"></a>**_Statistician_** means the Australian Statistician.
 
-             (2)  Subject to subsection (3), if at any time, whether before or after the commencement of this Part, the Statistician has published or publishes in respect of a particular first quarter in a half‑year an all groups consumer price index number for the weighted average of the 8 capital cities in substitution for an index number previously published by him in respect of that quarter, the publication of the later index number shall be disregarded for the purposes of this Part.
+             (2)  Subject to subsection (3), if at any time, whether before or after the commencement of this Part, the Statistician has published or publishes in respect of a particular first quarter in a half-year an all groups consumer price index number for the weighted average of the 8 capital cities in substitution for an index number previously published by him in respect of that quarter, the publication of the later index number shall be disregarded for the purposes of this Part.
 
              (3)  If at any time, whether before or after the commencement of this Part, the Statistician has changed or changes the reference base for the Consumer Price Index, then, for the purposes of the application of this Part after the change took place or takes place, regard shall be had only to index numbers published in terms of the new reference base.
 
-             (4)  Where the prescribed percentage for the purposes of section 84 is or includes a fraction of one‑tenth of 1%:
+             (4)  Where the prescribed percentage for the purposes of section 84 is or includes a fraction of one-tenth of 1%:
 
-                     (a)  if that fraction is less than one‑half of one‑tenth—that fraction shall be disregarded; and
+                     (a)  if that fraction is less than one-half of one-tenth—that fraction shall be disregarded; and
 
-                     (b)  if that fraction is not less than one‑half of one‑tenth—that fraction shall be treated as one‑tenth.
+                     (b)  if that fraction is not less than one-half of one-tenth—that fraction shall be treated as one-tenth.
 
 ##### <a id="84"></a>84  Increase in certain pensions
 
-             (1)  Subject to this Part, if the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half‑year immediately preceding a prescribed half‑year exceeds the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of any earlier half‑year, not being a half‑year earlier than the half‑year that commenced on 1 July 1985, a person who was in receipt of a pension immediately before the commencement of that prescribed half‑year is entitled, at the commencement of that prescribed half‑year, to an increase, as ascertained in accordance with this section, in the rate at which the pension was payable to him immediately before the commencement of that prescribed half‑year.
+             (1)  Subject to this Part, if the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half-year immediately preceding a prescribed half-year exceeds the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of any earlier half-year, not being a half-year earlier than the half-year that commenced on 1 July 1985, a person who was in receipt of a pension immediately before the commencement of that prescribed half-year is entitled, at the commencement of that prescribed half-year, to an increase, as ascertained in accordance with this section, in the rate at which the pension was payable to him immediately before the commencement of that prescribed half-year.
 
-             (2)  The increase provided for by subsection (1) in the rate at which a pension was payable to a person immediately before the commencement of a prescribed half‑year is the prescribed percentage, ascertained in accordance with subsection (3), of that rate.
+             (2)  The increase provided for by subsection (1) in the rate at which a pension was payable to a person immediately before the commencement of a prescribed half-year is the prescribed percentage, ascertained in accordance with subsection (3), of that rate.
 
-             (3)  For the purposes of this section, the prescribed percentage, in relation to a prescribed half‑year, is the percentage that represents A‑B expressed as a percentage of B, where:
+             (3)  For the purposes of this section, the prescribed percentage, in relation to a prescribed half-year, is the percentage that represents A-B expressed as a percentage of B, where:
 
-                       A  is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half‑year immediately preceding the prescribed half‑year; and
+                       A  is the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half-year immediately preceding the prescribed half-year; and
 
-                       B  is the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of any half‑year earlier than the half‑year immediately preceding the prescribed half‑year but not being earlier than the half‑year that commenced on 1 July 1985.
+                       B  is the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of any half-year earlier than the half-year immediately preceding the prescribed half-year but not being earlier than the half-year that commenced on 1 July 1985.
 
-             (4)  Where, by reason of the death on 30 June or 31 December (as the case requires) immediately preceding the commencement of a prescribed half‑year of a person in receipt of pension that became payable to him upon his retirement, including pension that became payable by reason of the invalidity of the person or of his physical or mental incapacity to perform his duties, a pension becomes payable, on the following day, to another person, that other person shall be entitled, at the commencement of that prescribed half‑year, to such an increase in the rate of that pension as he would have been entitled to had the pension become payable to him on that 30 June or 31 December (as the case requires).
+             (4)  Where, by reason of the death on 30 June or 31 December (as the case requires) immediately preceding the commencement of a prescribed half-year of a person in receipt of pension that became payable to him upon his retirement, including pension that became payable by reason of the invalidity of the person or of his physical or mental incapacity to perform his duties, a pension becomes payable, on the following day, to another person, that other person shall be entitled, at the commencement of that prescribed half-year, to such an increase in the rate of that pension as he would have been entitled to had the pension become payable to him on that 30 June or 31 December (as the case requires).
 
 ##### <a id="84A"></a>84A  Application of increase to suspended pensions
 
-                   Where a pension would, but for its suspension under section 53B, be payable to a person immediately before the commencement of a prescribed half‑year, that pension shall, for the purposes of this Part, be deemed to have been payable to that person immediately before the commencement of that prescribed half‑year but any increase in the rate of that pension by virtue of this Part does not take effect in respect of any part of that period of suspension.
+                   Where a pension would, but for its suspension under section 53B, be payable to a person immediately before the commencement of a prescribed half-year, that pension shall, for the purposes of this Part, be deemed to have been payable to that person immediately before the commencement of that prescribed half-year but any increase in the rate of that pension by virtue of this Part does not take effect in respect of any part of that period of suspension.
 
 ##### <a id="84B"></a>84B  Adjustment of increases in case of certain pensions
 
-             (1)  Where a person in receipt of a pension payable in accordance with section 82ZB would, but for this section, be entitled to an increase in the rate at which the pension was payable to the person immediately before the commencement of the prescribed half‑year and:
+             (1)  Where a person in receipt of a pension payable in accordance with section 82ZB would, but for this section, be entitled to an increase in the rate at which the pension was payable to the person immediately before the commencement of the prescribed half-year and:
 
-                     (a)  if the pension became payable to the person otherwise than as a widow—the pension became payable to the person during the half‑year (in this section referred to as the **_preceding half‑year_**) immediately preceding that prescribed half‑year;
+                     (a)  if the pension became payable to the person otherwise than as a widow—the pension became payable to the person during the half-year (in this section referred to as the **_preceding half-year_**) immediately preceding that prescribed half-year;
 
-                     (b)  if the pension became payable to the person as the widow of another person and pension in accordance with that section was not payable to that other person immediately before his death—the pension became payable to the widow during the preceding half‑year; or
+                     (b)  if the pension became payable to the person as the widow of another person and pension in accordance with that section was not payable to that other person immediately before his death—the pension became payable to the widow during the preceding half-year; or
 
-                     (c)  if the pension became payable to the person as the widow of another person and pension in accordance with that section was payable to that other person immediately before his death—pension became payable to that other person during that preceding half‑year;
+                     (c)  if the pension became payable to the person as the widow of another person and pension in accordance with that section was payable to that other person immediately before his death—pension became payable to that other person during that preceding half-year;
 
-the following provisions of this section have effect in relation to the first‑mentioned pension.
+the following provisions of this section have effect in relation to the first-mentioned pension.
 
-             (2)  If the pension that became payable by virtue of section 82ZB to the person, or, in a case where paragraph (1)(c) applies, to another person in relation to whom the person is a widow, became so payable after 16 June or 16 December (as the case requires) in the preceding half‑year, the person is not entitled to an increase.
+             (2)  If the pension that became payable by virtue of section 82ZB to the person, or, in a case where paragraph (1)(c) applies, to another person in relation to whom the person is a widow, became so payable after 16 June or 16 December (as the case requires) in the preceding half-year, the person is not entitled to an increase.
 
-             (3)  If the pension that became payable by virtue of section 82ZB to the person, or, in a case where paragraph (1)(c) applies, to another person in relation to whom a person is a widow, became so payable on or before 16 June or 16 December (as the case requires) in the preceding half‑year, the amount of the increase is so much only of the amount that, but for this section, would have been the amount of the increase as bears to the last‑mentioned amount the same proportion as the number of months in the period that commenced on the day on which the pension became payable, and ended on 30 June or 31 December (as the case requires) in the preceding half‑year bears to 6.
+             (3)  If the pension that became payable by virtue of section 82ZB to the person, or, in a case where paragraph (1)(c) applies, to another person in relation to whom a person is a widow, became so payable on or before 16 June or 16 December (as the case requires) in the preceding half-year, the amount of the increase is so much only of the amount that, but for this section, would have been the amount of the increase as bears to the last-mentioned amount the same proportion as the number of months in the period that commenced on the day on which the pension became payable, and ended on 30 June or 31 December (as the case requires) in the preceding half-year bears to 6.
 
              (4)  If the period referred to in subsection (3) is less than 1 month, that period shall be treated as 1 month.
 
              (5)  If the period referred to in subsection (3) consists of a number of whole months and a part of a month:
 
-                     (a)  where the number of days in that part of that month is less than one‑half of the number of days in that month—that part shall be disregarded; and
+                     (a)  where the number of days in that part of that month is less than one-half of the number of days in that month—that part shall be disregarded; and
 
-                     (b)  where the number of days in that part of that month is not less than one‑half of the number of days in that month—that part shall be treated as a whole month.
+                     (b)  where the number of days in that part of that month is not less than one-half of the number of days in that month—that part shall be treated as a whole month.
 
 ##### <a id="84C"></a>84C  Increases in children’s pensions
 
              (1)  Section 84 does not apply to a pension payable to or in respect of an eligible child, but, for the purposes of paragraph 55(1)(b), subsection 55(2), paragraph 57(1)(b), subsection 57(4) and subsection 58(1), regard shall be had to any increase in the rate of a pension payable under paragraph 55(1)(a), under paragraph 57(1)(a) or under subsection 57(3) to which, by virtue of this Act, a widow is, or, but for her death or divorce, would be, entitled.
 
-             (2)  If the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half‑year immediately preceding a prescribed half‑year exceeds the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of any earlier half‑year, not being a half‑year earlier than the half‑year that commenced on 1 July 1985:
+             (2)  If the all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of the half-year immediately preceding a prescribed half-year exceeds the highest all groups consumer price index number for the weighted average of the 8 capital cities published by the Statistician in respect of the first quarter of any earlier half-year, not being a half-year earlier than the half-year that commenced on 1 July 1985:
 
                      (a)  paragraphs 55(1)(b) and 57(1)(b) have effect as if, for the amount of $312, there were substituted; and
 
                      (b)  subsections 55(2), 57(4) and 58(1) have effect as if, for the amount of $5,000, there were substituted;
 
-on the first day of that prescribed half‑year, an amount calculated by adding to the existing amount the prescribed percentage of the existing amount.
+on the first day of that prescribed half-year, an amount calculated by adding to the existing amount the prescribed percentage of the existing amount.
 
              (3)  For the purposes of the application of subsection (2) to a provision specified in that subsection, the existing amount is:
 
-                     (a)  in relation to the prescribed half‑year that commenced on 1 January 2002—the amount that was the existing amount in relation to that provision, as calculated under this section immediately before the commencement of Schedule 2 to the _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004_; and
+                     (a)  in relation to the prescribed half-year that commenced on 1 January 2002—the amount that was the existing amount in relation to that provision, as calculated under this section immediately before the commencement of Schedule 2 to the _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004_; and
 
-                     (b)  in relation to any subsequent prescribed half‑year—the amount that, because of a previous application or previous applications of subsection (2), is taken to have been substituted, or last substituted, for the amount specified in that provision.
+                     (b)  in relation to any subsequent prescribed half-year—the amount that, because of a previous application or previous applications of subsection (2), is taken to have been substituted, or last substituted, for the amount specified in that provision.
 
 ##### <a id="84D"></a>84D  Date of payment of increases
 
-                   Subject to sections 84E and 84F, an increase payable by virtue of this Part in the rate of a pension that was, or is, under subsection 84(4), to be treated as having been, payable to a person on 30 June or 31 December (as the case requires) in a half‑year applies in relation to the instalment of pension falling due on the first pension pay‑day occurring after that day and in relation to all subsequent instalments.
+                   Subject to sections 84E and 84F, an increase payable by virtue of this Part in the rate of a pension that was, or is, under subsection 84(4), to be treated as having been, payable to a person on 30 June or 31 December (as the case requires) in a half-year applies in relation to the instalment of pension falling due on the first pension pay-day occurring after that day and in relation to all subsequent instalments.
 
-##### <a id="84E"></a>84E  Rate of invalidity pension payable on reclassification during a prescribed half‑year
+##### <a id="84E"></a>84E  Rate of invalidity pension payable on reclassification during a prescribed half-year
 
              (1)  Where:
 
-                     (a)  a person to whom pension is payable under section 52 is reclassified under section 53 during a prescribed half‑year;
+                     (a)  a person to whom pension is payable under section 52 is reclassified under section 53 during a prescribed half-year;
 
-                     (b)  the person became entitled at the commencement of that half‑year to an increase under this Part in the rate at which the pension was payable to him immediately before the commencement of that half‑year;
+                     (b)  the person became entitled at the commencement of that half-year to an increase under this Part in the rate at which the pension was payable to him immediately before the commencement of that half-year;
 
-the rate at which the pension is payable to him on and after the date from which the reclassification has effect is the rate at which the pension would have been payable to him at the commencement of that half‑year if his classification, on and after the date on which he became entitled to the pension, had been in accordance with the reclassification.
+the rate at which the pension is payable to him on and after the date from which the reclassification has effect is the rate at which the pension would have been payable to him at the commencement of that half-year if his classification, on and after the date on which he became entitled to the pension, had been in accordance with the reclassification.
 
              (3)  Where:
 
-                     (a)  at the commencement of a prescribed half‑year a person entitled to invalidity benefit was classifed as Class C under subsection 51(2) but was not entitled to pension under section 52; and
+                     (a)  at the commencement of a prescribed half-year a person entitled to invalidity benefit was classifed as Class C under subsection 51(2) but was not entitled to pension under section 52; and
 
-                     (b)  during the prescribed half‑year the person is reclassified as Class A or Class B;
+                     (b)  during the prescribed half-year the person is reclassified as Class A or Class B;
 
 the rate at which a pension is payable to the person on or after the day from which the reclassification has effect is the rate at which the pension would be payable to the person on that day if, at all times during the period during which the person was classified as Class C, the person had been classified as Class A or Class B (as the case may be).
 
-##### <a id="84F"></a>84F  Commutation of pension benefits during a prescribed half‑year
+##### <a id="84F"></a>84F  Commutation of pension benefits during a prescribed half-year
 
              (1)  Section 74 does not authorize the commutation of a pension in so far as the pension has been increased by virtue of this Part.
 
              (2)  Where:
 
-                     (a)  a portion of the pension of a person is commuted during a prescribed half‑year; and
+                     (a)  a portion of the pension of a person is commuted during a prescribed half-year; and
 
-                     (b)  the person became entitled at the commencement of that half‑year to an increase under this Part in the rate at which pension was payable to him immediately before the commencement of that half‑year;
+                     (b)  the person became entitled at the commencement of that half-year to an increase under this Part in the rate at which pension was payable to him immediately before the commencement of that half-year;
 
-the rate at which the pension is payable to him on and after the date on which that portion of the pension is so commuted is the rate at which the pension would have been payable to him at the commencement of that half‑year if he had so commuted that portion of his pension on the date on which he became entitled to the pension.
+the rate at which the pension is payable to him on and after the date on which that portion of the pension is so commuted is the rate at which the pension would have been payable to him at the commencement of that half-year if he had so commuted that portion of his pension on the date on which he became entitled to the pension.
 
 ## Part VII—Miscellaneous
 
@@ -2492,7 +2490,7 @@ the rate at which the pension is payable to him on and after the date on which t
 
                      (b)  the person does not comply with the requirements in the notice.
 
-                    Maximum penalty: $40.
+                    Maximum penalty:    $40.
 
              (4)  If, at the expiration of the period specified in the notice, the Authority is satisfied that an amount is due under the judgment, the Authority may, in its discretion, deduct from the pension or benefit, and pay to the judgment creditor, such sums as do not exceed that amount or, in a case where a payment of pension or benefit becomes payable on or after 1 October 1972, the Authority may, in its discretion, authorize the deduction from the pension or benefit, and the payment to the judgment creditor, of such sums as do not exceed that amount, and those deductions, and those payments, shall be made accordingly.
 
@@ -2500,9 +2498,9 @@ the rate at which the pension is payable to him on and after the date on which t
 
                      (a)  an instalment of pension payable in respect of a child; or
 
-                     (b)  an instalment of any other pension if the deduction will reduce the amount of the instalment payable to less than one‑half of the amount that would, but for this section, be payable.
+                     (b)  an instalment of any other pension if the deduction will reduce the amount of the instalment payable to less than one-half of the amount that would, but for this section, be payable.
 
-             (6)  If, after a copy of a judgment given against a pensioner or beneficiary, being a judgment in respect of which the Authority is satisfied that an amount is due, has been served in accordance with subsection (1), a copy of another judgment given (whether before or after the first‑mentioned judgment) against the same pensioner or beneficiary in favour of the person in whose favour the first‑mentioned judgment was given or in favour of another person is served in accordance with that subsection, a payment shall not be made in pursuance of this section to the judgment creditor under the other judgment in respect of the amount due under that judgment until the amount due under the first‑mentioned judgment has been paid.
+             (6)  If, after a copy of a judgment given against a pensioner or beneficiary, being a judgment in respect of which the Authority is satisfied that an amount is due, has been served in accordance with subsection (1), a copy of another judgment given (whether before or after the first-mentioned judgment) against the same pensioner or beneficiary in favour of the person in whose favour the first-mentioned judgment was given or in favour of another person is served in accordance with that subsection, a payment shall not be made in pursuance of this section to the judgment creditor under the other judgment in respect of the amount due under that judgment until the amount due under the first-mentioned judgment has been paid.
 
              (7)  A payment made to a judgment creditor in pursuance of this section shall, as between the Board and the pensioner or beneficiary, be deemed to be a payment from the Fund to the pensioner or beneficiary and, in the case of a payment made to the judgment creditor in relation to a payment of pension or benefit that became payable on or after 1 October 1972, shall, as between the Commonwealth and the pensioner or beneficiary, be deemed to be a payment by the Commonwealth to the pensioner or beneficiary.
 
@@ -2512,7 +2510,7 @@ the rate at which the pension is payable to him on and after the date on which t
 
                      (b)  the judgment creditor does not notify the Authority immediately the judgment debt is satisfied.
 
-                    Maximum penalty: 
+                    Maximum penalty:    
 
                      (c)  if the offender is a natural person—$100 or imprisonment for 3 months; or
 
@@ -2548,7 +2546,7 @@ and provisions so made shall have effect notwithstanding anything contained in t
 
 ##### <a id="88"></a>88  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
 
                      (a)  for prescribing the time within which an election under this Act may be made;
 
@@ -3170,7 +3168,7 @@ _Section 39_
 </thead>
 <tr>
   <td>
-    <div>Rear‑Admiral, or relative or higher rank</div>
+    <div>Rear-Admiral, or relative or higher rank</div>
   </td>
   <td>
     <div> </div>
@@ -3182,13 +3180,13 @@ _Section 39_
     <div> </div>
   </td>
   <td>
-    <div>Major‑General, or higher rank</div>
+    <div>Major-General, or higher rank</div>
   </td>
   <td>
     <div> </div>
   </td>
   <td>
-    <div>Air Vice‑Marshal, or higher rank</div>
+    <div>Air Vice-Marshal, or higher rank</div>
   </td>
   <td>
     <div> </div>
@@ -3211,13 +3209,13 @@ _Section 39_
     <div> </div>
   </td>
   <td>
-    <div>Brigadier............... ...............................</div>
+    <div>Brigadier................ ...............................</div>
   </td>
   <td>
     <div> </div>
   </td>
   <td>
-    <div>Air Commodore....</div>
+    <div>Air Commodore......</div>
   </td>
   <td>
     <div> </div>
@@ -3240,13 +3238,13 @@ _Section 39_
     <div> </div>
   </td>
   <td>
-    <div>Colonel.................</div>
+    <div>Colonel...................</div>
   </td>
   <td>
     <div> </div>
   </td>
   <td>
-    <div>Group Captain</div>
+    <div>Group Captain........</div>
   </td>
   <td>
     <div> </div>
@@ -3266,7 +3264,7 @@ Senior Chaplain</div>
   þ</div>
   </td>
   <td>
-    <div>Lieutenant‑Commander (S.D.), or relative rank</div>
+    <div>Lieutenant-Commander (S.D.), or relative rank</div>
   </td>
   <td>
     <div>ü  
@@ -3274,9 +3272,9 @@ Senior Chaplain</div>
   þ</div>
   </td>
   <td>
-    <div>Lieutenant‑Colonel 
-Major (Quarter‑master) 
-Captain (Quarter‑master) 
+    <div>Lieutenant-Colonel 
+Major (Quarter-master) 
+Captain (Quarter-master) 
 Chaplain, First Class or Second Class 
 Colonel (Royal Australian Army Nursing Corps) 
 Colonel (Women’s Royal Australian Army Corps)</div>
@@ -3315,7 +3313,7 @@ Group Officer (Women’s Royal Australian Air Force</div>
 </tr>
 <tr>
   <td>
-    <div>Lieutenant‑Commander, or relative rank 
+    <div>Lieutenant-Commander, or relative rank 
 Chaplain 
 Chief Officer (Women’s Royal Australian Naval Forces)</div>
   </td>
@@ -3340,8 +3338,8 @@ Chief Officer (Women’s Royal Australian Naval Forces)</div>
   <td>
     <div>Major 
 Chaplain, Third Class 
-Lieutenant‑Colonel (Royal Australian Army Nursing Corps) 
-Lieutenant‑Colonel (Women’s Royal Australian Army Corps)</div>
+Lieutenant-Colonel (Royal Australian Army Nursing Corps) 
+Lieutenant-Colonel (Women’s Royal Australian Army Corps)</div>
   </td>
   <td>
     <div>ü  
@@ -3405,7 +3403,7 @@ Forces)</div>
   </td>
   <td>
     <div>Captain 
-Lieutenant (Quarter‑master) 
+Lieutenant (Quarter-master) 
 Chaplain, Fourth Class 
 Major (Royal Australian Army Nursing Corps) 
 Major (Women’s Royal Australian Army Corps) 
@@ -4325,7 +4323,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Defence Force Re‑organization Act 1975</div>
+    <div>Defence Force Re-organization Act 1975</div>
   </td>
   <td>
     <div>96, 1975</div>
@@ -4853,7 +4851,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008</div>
   </td>
   <td>
     <div>134, 2008</div>
@@ -4868,39 +4866,22 @@ Schedule 3 (items 25, 26): 1 Jan 2009</div>
   <td>
     <div>S. 4 and Sch. 3 (item 26) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 96–99): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Defence Forces Retirement Benefits Act 1948_ comprises the _Defence Forces Retirement Benefits Act 1948_(which was proclaimed to commence on 2 July 1948: _see Gazette_ 1948, p. 2583) as amended by the other Acts specified in the Table of Acts. Many of the amending Acts specified in that table made express provision in relation to the commencement and application of the amendments. By reason that the _Defence Force Retirement and Death Benefits Act 1973_ has, in the main, superseded the _Defence Forces Retirement Benefits Act 1948_, references are not made in the table to those provisions. If required, particulars relating to those provisions and to the saving and transitional provisions made by the amending Acts are to be found in the annual volumes of Acts for the respective years in which the amending Acts were enacted. 
 
-_(b)_     The _Defence Forces Retirement Benefits Act 1959_ was amended by section 3 only of the _Statute Law Revision (Decimal Currency) Act 1966_, subsection 2(1) of which provides as follows: 
+_(b)_    The _Defence Forces Retirement Benefits Act 1959_ was amended by section 3 only of the _Statute Law Revision (Decimal Currency) Act 1966_, subsection 2(1) of which provides as follows: 
 
-                 (1)   Subject to the next succeeding subsection, this Act shall come into operation on the first day of December, One thousand nine hundred and sixty‑six.
+                 (1)   Subject to the next succeeding subsection, this Act shall come into operation on the first day of December, One thousand nine hundred and sixty-six.
 
 _(c)_     The _Defence Forces Retirement Benefits Act 1948_ was amended by Part XI (sections 
- 164–167) only of the _Defence Force Re‑organization Act 1975_, section 2 of which provides as follows: 
+ 164–167) only of the _Defence Force Re-organization Act 1975_, section 2 of which provides as follows: 
 
                     2   This Part shall come into operation on the day on which this Act receives the Royal Assent, and the remaining provisions of this Act shall come into operation on such date as is, or such respective dates as are, fixed by Proclamation.
 
 _(d)_     The _Defence Legislation Amendment Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(19) of which provides as follows: 
 
-               (19)   The amendment of Schedule 3 to the _Defence Legislation Amendment Act 1984_ made by this Act shall be deemed to have come into operation immediately before the commencement of section 95 of that first‑mentioned Act.
+               (19)   The amendment of Schedule 3 to the _Defence Legislation Amendment Act 1984_ made by this Act shall be deemed to have come into operation immediately before the commencement of section 95 of that first-mentioned Act.
 
 _(e)_     The _Defence Legislation Amendment Act 1984_ was amended by Schedule 3 (item 20) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows: 
 
@@ -5139,7 +5120,7 @@ _(j)_      Subsection 2(1) (item 3) of the _Defence Legislation Amen
   </td>
   <td>
     <div>am. No. 37, 1949; No. 73, 1950; No. 29, 1951; No. 80, 1953; No. 19, 1955; No. 95, 1957; No. 103, 1959; No. 67, 1962; No. 103, 1963; Nos. 25, 98 and 135, 1965; Nos. 55, 56 and 128, 1968; No. 47, 1971; No. 82, 1973; No. 96, 1975; No. 164, 1984 (as am. by No. 65, 1985); No. 91, 1992; 
-No. 10, 2001; No. 5, 2011</div>
+No. 10, 2001</div>
   </td>
 </tr>
 <tr>
@@ -7833,7 +7814,7 @@ No. 10, 2001; No. 5, 2011</div>
 </tr>
 <tr>
   <td>
-    <div>S. 82U</div>
+    <div>S. 82V</div>
   </td>
   <td>
     <div>ad. No. 47, 1971</div>
@@ -7860,7 +7841,7 @@ No. 10, 2001; No. 5, 2011</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 164, 1984; No. 5, 2011</div>
+    <div>am. No. 36, 1978; No. 164, 1984</div>
   </td>
 </tr>
 <tr>
@@ -8020,7 +8001,7 @@ No. 10, 2001; No. 5, 2011</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 164, 1984; No. 5, 1995; No. 5, 2011</div>
+    <div>am. No. 36, 1978; No. 164, 1984; No. 5, 1995</div>
   </td>
 </tr>
 <tr>
@@ -8586,19 +8567,19 @@ _Defence Legislation Amendment (Enhancement of the Reserves and Modernisation) A
 
 ## 94  Saving—old regulations
 
-(1)       Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
+(1)        Regulations that were in effect under any Act immediately before the commencement of this item continue to have effect after that time as if members of an arm of the Defence Force who were members of a particular part or component of that arm immediately before the commencement of this item were still members of that part or component after that time, even if that part or component no longer exists.
 
 _Example: Assume that, immediately before the commencement of this item, regulations imposed training obligations on members of the Air Force Specialist Reserve. Those obligations would continue to apply to former members of that Reserve after commencement, even though the Air Force Specialist Reserve itself is no longer mentioned in the Air Force Act 1923 and the members have now become members of the Air Force Reserve._
 
-(2)       However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
+(2)        However, regulations that continue in effect under this item do so only to the extent that they are not amended or revoked by later regulations.
 
 ## 95  Regulations about transitional matters
 
-(1)       The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
+(1)        The regulations may make provision in relation to other saving and transitional matters in connection with the amendments made by this Schedule.
 
-(2)       In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
+(2)        In particular, such regulations may deal with the status, after the commencement of the amendments, of persons who were members of the Defence Force immediately before that time.
 
-(3)       Subitem (2) does not limit the scope of subitem (1).
+(3)        Subitem (2) does not limit the scope of subitem (1).
 
 * * *
 
@@ -8621,9 +8602,9 @@ Regulations that were in effect for the purposes of subsection 69(7) of the _Def
 
 _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (No. 58, 2004)_
 
-##### <a id="4"></a>4  Application of family law interest‑splitting amendments
+##### <a id="4"></a>4  Application of family law interest-splitting amendments
 
-             (1)  The family law interest‑splitting amendments apply to:
+             (1)  The family law interest-splitting amendments apply to:
 
                      (a)  any splitting agreement, or splitting order, that has an operative time after the commencement of Schedule 1; and
 
@@ -8631,7 +8612,7 @@ _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (N
 
              (2)  In this section:
 
-                    <a name="famili-law-interest-split-amend"></a>**_family law interest‑splitting amendments_** means the amendments made by Schedule 1, other than items 24 and 34.
+                    <a name="famili-law-interest-split-amend"></a>**_family law interest-splitting amendments_** means the amendments made by Schedule 1, other than items 24 and 34.
 
 ##### <a id="5"></a>5  Application of indexation amendments
 
@@ -8639,9 +8620,9 @@ _Superannuation Legislation Amendment (Family Law and Other Matters) Act 2004 (N
 
                      (a)  for the purpose of working out an increase in the rate of a pension benefit that is payable immediately before:
 
-                              (i)  the prescribed half‑year beginning on 1 January 2004; and
+                              (i)  the prescribed half-year beginning on 1 January 2004; and
 
-                             (ii)  each subsequent prescribed half‑year; and
+                             (ii)  each subsequent prescribed half-year; and
 
                      (b)  for any other purpose related to the purpose mentioned in paragraph (a).
 
@@ -8653,9 +8634,9 @@ _Superannuation Legislation Amendment Act 2007 (No. 165, 2007)_
 
 ## 8  Application
 
-(1)       The amendments made by this Schedule apply in respect of any application for restoration of a pension, or for restoration of the full rate of a pension, that is made on or after the day on which this Schedule commences.
+(1)        The amendments made by this Schedule apply in respect of any application for restoration of a pension, or for restoration of the full rate of a pension, that is made on or after the day on which this Schedule commences.
 
-(2)       If an application made before 1 January 2008 is granted, the pension is payable at the full rate only from 1 January 2008 (despite the following provisions:
+(2)        If an application made before 1 January 2008 is granted, the pension is payable at the full rate only from 1 January 2008 (despite the following provisions:
 
                      (a)  subsection 44(3) of the _Defence Force Retirement and Death Benefits Act 1973_ (as inserted by item 1  of this Schedule);
 
@@ -8665,7 +8646,7 @@ _Superannuation Legislation Amendment Act 2007 (No. 165, 2007)_
 
 * * *
 
-_Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
+_Same-Sex Relationships (Equal Treatment in Commonwealth Laws—Superannuation) Act 2008 (No. 134, 2008)_
 
 ##### <a id="4"></a>4  Entitlements from 1 July 2008
 
@@ -8730,5 +8711,7 @@ The amendment of the _Defence Forces Retirement Benefits Act 1948_ made by this 
                      (a)  receiving a pension under section 38, 39 or 41 of that Act; or
 
                      (b)  receiving a benefit under subsection 51(1) of that Act.
+
+ 
 
  
