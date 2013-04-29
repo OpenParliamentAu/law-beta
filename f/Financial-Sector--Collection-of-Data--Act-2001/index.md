@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00325/Html/a884ec51-f6ba-4db2-9472-173dc03c4bad_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00517/Html/FinanSectorCollectData2001_WD02_image001.gif)
 
 # Financial Sector (Collection of Data) Act 2001
 
 **Act No. 104 of 2001 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 27 July 2010
+ taking into account amendments up to Act No. 82 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -292,7 +292,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (g)  the corporation is authorised by a law of a State or of a Territory to act as an executor, administrator and trustee; or
 
-                     (h)  the sole or principal purpose for which the corporation borrows money is to lend money to a corporation or corporations that, because of subsection 34(2) or (3), is not or are not to be taken to be related to the first‑mentioned corporation but would, but for that subsection, be treated as being so related because of subsection 34(1); or
+                     (h)  the sole or principal purpose for which the corporation borrows money is to lend money to a corporation or corporations that, because of subsection 34(2) or (3), is not or are not to be taken to be related to the first-mentioned corporation but would, but for that subsection, be treated as being so related because of subsection 34(1); or
 
                       (i)  the sum of the values of all the assets of the corporation and of every corporation that is related to the corporation does not exceed:
 
@@ -350,9 +350,9 @@ Note:          A defendant bears an evidential burden in relat
 
                             (iv)  particulars of the principal kinds of finance ordinarily provided by the corporation; and
 
-                     (b)  a copy of the last audited balance‑sheet of the corporation; and
+                     (b)  a copy of the last audited balance-sheet of the corporation; and
 
-                     (c)  if there is no such balance‑sheet or the balance‑sheet includes both assets and liabilities in Australia and assets and liabilities outside Australia but does not show the assets and liabilities in Australia separately from the assets and liabilities outside Australia—a statement showing the assets and liabilities in Australia of the corporation.
+                     (c)  if there is no such balance-sheet or the balance-sheet includes both assets and liabilities in Australia and assets and liabilities outside Australia but does not show the assets and liabilities in Australia separately from the assets and liabilities outside Australia—a statement showing the assets and liabilities in Australia of the corporation.
 
              (6)  If:
 
@@ -376,7 +376,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (8)  A statement or notification by a corporation to APRA under this section must be signed by a senior officer of the corporation.
 
-             (9)  APRA must, if requested to do so by the Secretary of the Department, give the Secretary a copy of a document received by APRA under this section.
+             (9)  APRA must, if requested to do so by the Secretary to the Department, give the Secretary a copy of a document received by APRA under this section.
 
            (10)  An offence for a contravention of subsection (1), (2) or (6) is an offence of strict liability.
 
@@ -416,7 +416,7 @@ and must try to ensure that, as far as practicable, corporations carrying on the
 
                      (a)  after a corporation has been included in a category, the corporation requests APRA to transfer the corporation to another category; or
 
-                     (b)  after a corporation has been transferred from one category to another category, the corporation requests APRA to re‑transfer the corporation to the former category or to transfer the corporation to a third category;
+                     (b)  after a corporation has been transferred from one category to another category, the corporation requests APRA to re-transfer the corporation to the former category or to transfer the corporation to a third category;
 
 and the corporation gives information or makes submissions to APRA in support of the request, APRA must, after taking into account the information or submissions:
 
@@ -490,7 +490,7 @@ Note:          When APRA has determined a reporting standard, 
 
                      (b)  the information to be contained in reporting documents; and
 
-                   (bb)  the auditing of reporting documents; and
+                    (bb)  the auditing of reporting documents; and
 
                      (c)  the persons who are to sign reporting documents; and
 
@@ -824,7 +824,7 @@ Note:          APRA has power to extend periods stated in noti
 
              (3)  The penalty to be specified in an infringement notice under paragraph (1)(d) is whichever is the lesser of:
 
-                     (a)  one‑fifth of the maximum amount of the fine or fines that a court could impose for the offence or offences; or
+                     (a)  one-fifth of the maximum amount of the fine or fines that a court could impose for the offence or offences; or
 
                      (b)  50 penalty units.
 
@@ -976,7 +976,7 @@ APRA must refund to the person, out of money appropriated by the Parliament, an 
 
                      (b)  a request under subsection 41(2) of the _Administrative Appeals Tribunal Act 1975_ in respect of such a decision;
 
-a non‑presidential member of the Administrative Appeals Tribunal must not sit as a member of the Administrative Appeals Tribunal if he or she is a director or employee of:
+a non-presidential member of the Administrative Appeals Tribunal must not sit as a member of the Administrative Appeals Tribunal if he or she is a director or employee of:
 
                      (c)  an entity of any kind carrying on (whether in Australia or elsewhere) insurance business (within the meaning of the _Insurance Act 1973_) or life insurance business (within the meaning of the _Life Insurance Act 1995_); or
 
@@ -1016,7 +1016,7 @@ a non‑presidential member of the Administrative Appeals Tribunal must not sit 
 
 ##### <a id="30"></a>30  Regulations
 
-                   The Governor‑General may make regulations prescribing all matters:
+                   The Governor-General may make regulations prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1032,11 +1032,11 @@ a non‑presidential member of the Administrative Appeals Tribunal must not sit 
 
                     <a name="australia"></a>**_Australia_** includes all the external Territories.
 
-                    <a name="balanc-sheet"></a>**_balance‑sheet_** includes a statement of assets and liabilities or any similar document.
+                    <a name="balanc-sheet"></a>**_balance-sheet_** includes a statement of assets and liabilities or any similar document.
 
                     <a name="categori"></a>**_category_** means one of the categories into which registered entities are divided in the list kept for the purposes of section 11.
 
-                    <a name="co-oper-hous-societi"></a>**_co‑operative housing society_** means a society registered or incorporated as a co‑operative housing society or similar society under a law of a State or Territory.
+                    <a name="co-oper-hous-societi"></a>**_co-operative housing society_** means a society registered or incorporated as a co-operative housing society or similar society under a law of a State or Territory.
 
                     <a name=""></a><a name="decision"></a>**_decision_**, in Part 3A, has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
 
@@ -1098,9 +1098,9 @@ Provision of finance
 
                      (a)  the lending of money, with or without security;
 
-                     (b)  the supplying of goods by way of hire‑purchase;
+                     (b)  the supplying of goods by way of hire-purchase;
 
-                     (c)  the sale (other than a lay‑by sale), in the course of the carrying on of a business of selling goods by retail, of goods on terms under which payment in full for the goods is not required to be made before the expiration of 3 months from the day on which the goods are sold or agreed to be sold;
+                     (c)  the sale (other than a lay-by sale), in the course of the carrying on of a business of selling goods by retail, of goods on terms under which payment in full for the goods is not required to be made before the expiration of 3 months from the day on which the goods are sold or agreed to be sold;
 
                      (d)  the letting on hire of goods;
 
@@ -1112,9 +1112,9 @@ Provision of finance
 
                      (h)  the purchase of debentures or other securities (other than shares) issued by a corporation.
 
-Money received by co‑operative housing society for its shares constitutes borrowing
+Money received by co-operative housing society for its shares constitutes borrowing
 
-             (2)  For the purposes of this Act, the receipt of money by a co‑operative housing society in respect of the issue of shares in the capital of the society is taken to constitute the borrowing of those moneys by the society.
+             (2)  For the purposes of this Act, the receipt of money by a co-operative housing society in respect of the issue of shares in the capital of the society is taken to constitute the borrowing of those moneys by the society.
 
 When debt is due
 
@@ -1124,11 +1124,11 @@ When debt is due
 
              (1)  Subject to subsection (2), for the purposes of the application of sections 7 and 34 in relation to a corporation:
 
-                     (a)  the assets of the corporation on any day are taken to be the assets in Australia of the corporation that were included in the assets of the corporation in the last balance‑sheet of the corporation prepared and audited before that day; and
+                     (a)  the assets of the corporation on any day are taken to be the assets in Australia of the corporation that were included in the assets of the corporation in the last balance-sheet of the corporation prepared and audited before that day; and
 
-                     (b)  the value on that day of any of those assets is taken to be the value of the assets concerned as shown in that balance‑sheet.
+                     (b)  the value on that day of any of those assets is taken to be the value of the assets concerned as shown in that balance-sheet.
 
-             (2)  If, for the purposes of the application of this section in relation to a corporation on any day, there is not such a balance‑sheet as is mentioned in subsection (1), then, for the purposes of the application of sections 7 and 34 in relation to the corporation:
+             (2)  If, for the purposes of the application of this section in relation to a corporation on any day, there is not such a balance-sheet as is mentioned in subsection (1), then, for the purposes of the application of sections 7 and 34 in relation to the corporation:
 
                      (a)  the assets of the corporation on that day are taken to be the assets in Australia of the corporation; and
 
@@ -1138,11 +1138,11 @@ When debt is due
 
              (1)  Subject to subsections (2) and (3), the question whether corporations are related to each other for the purposes of this Act is to be determined in the same manner as the question whether bodies corporate are related to each other is determined under the _Corporations Act 2001_.
 
-             (2)  A corporation is not taken for the purposes of this Act to be related to another corporation (not being a corporation that carries on in Australia a business, whether or not that business is its sole or principal business, of selling goods by retail) unless the first‑mentioned corporation is a foreign corporation, a trading corporation formed within the limits of Australia or a financial corporation so formed and:
+             (2)  A corporation is not taken for the purposes of this Act to be related to another corporation (not being a corporation that carries on in Australia a business, whether or not that business is its sole or principal business, of selling goods by retail) unless the first-mentioned corporation is a foreign corporation, a trading corporation formed within the limits of Australia or a financial corporation so formed and:
 
-                     (a)  the sole or principal business activities in Australia of the first‑mentioned corporation are the borrowing of money and the provision of finance; or
+                     (a)  the sole or principal business activities in Australia of the first-mentioned corporation are the borrowing of money and the provision of finance; or
 
-                     (b)  the sum of the amounts of such of the assets in Australia of the first‑mentioned corporation as consist of debts due to that corporation, being debts resulting from transactions entered into in the course of the provision of finance by that corporation, exceeds:
+                     (b)  the sum of the amounts of such of the assets in Australia of the first-mentioned corporation as consist of debts due to that corporation, being debts resulting from transactions entered into in the course of the provision of finance by that corporation, exceeds:
 
                               (i)  50%; or
 
@@ -1150,7 +1150,7 @@ When debt is due
 
                             of the sum of the values of all the assets in Australia of that corporation.
 
-             (3)  A corporation is not taken for the purposes of this Act to be related to another corporation (being a corporation that carries on in Australia a business, whether or not that business is its sole or principal business, of selling goods by retail) unless the first‑mentioned corporation:
+             (3)  A corporation is not taken for the purposes of this Act to be related to another corporation (being a corporation that carries on in Australia a business, whether or not that business is its sole or principal business, of selling goods by retail) unless the first-mentioned corporation:
 
                      (a)  is a foreign corporation, a trading corporation formed within the limits of Australia or a financial corporation so formed; and
 
@@ -1373,23 +1373,6 @@ Schedule 4 (item 37): Royal Assent</div>
   <td>
     <div>Sch. 4 (item 37)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 61): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedule 3 (item 191) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
@@ -1473,14 +1456,6 @@ _(a)_ The _Financial Sector (Collection of Data) Act 2001_ was amended by Schedu
   </td>
   <td>
     <div>am. No. 32, 2007; No. 75, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1640,7 +1615,7 @@ _Financial Sector Legislation Amendment (Prudential Refinements and Other Measur
 
 ## 37  Saving—exemptions under subsection 16(1) of the _Financial Sector (Collection of Data) Act 2001_
 
-(1)       If:
+(1)        If:
 
                      (a)  APRA exempted a financial sector entity under subsection 16(1) of the _Financial Sector (Collection of Data) Act 2001_ before the commencement of this item; and
 
@@ -1648,7 +1623,7 @@ _Financial Sector Legislation Amendment (Prudential Refinements and Other Measur
 
 the exemption has effect, after that commencement, as if the exemption had been made under subsection 16(1) of that Act as inserted by this Schedule.
 
-(2)       If:
+(2)        If:
 
                      (a)  APRA exempted a class or kind of financial sector entities under subsection 16(1) of the _Financial Sector (Collection of Data) Act 2001_ before the commencement of this item; and
 
