@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00607/Html/35c3cb5a-e731-401d-b541-634f437bdc27_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00324/Html/PublicService1999WD02_image001.gif)
 
 # Public Service Act 1999
 
 **Act No. 147 of 1999 as amended**
 
-This compilation was prepared on 5 August 2011
- taking into account amendments up to Act No. 75 of 2011
+This compilation was prepared on 13 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -128,7 +128,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [45](#45).          Appointment of Commissioner
 
-[46](#46).          Remuneration and other terms and conditions of appointment
+[46](#46).          Remuneration etc 
 
 [47](#47).          Removal from office
 
@@ -148,7 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [52](#52).          Appointment of Merit Protection Commissioner
 
-[53](#53).          Remuneration and other terms and conditions of appointment
+[53](#53).          Remuneration etc 
 
 [54](#54).          Removal from office
 
@@ -166,7 +166,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [60](#60).          Engagement of former Secretaries
 
-[61](#61).          Remuneration and other terms and conditions of appointment
+[61](#61).          Remuneration and other conditions
 
 [62](#62).          Acting Secretary
 
@@ -184,13 +184,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [67](#67).          Appointment etc  of Head
 
-[68](#68).          Remuneration and other terms and conditions of appointment
+[68](#68).          Remuneration and other conditions
 
 [69](#69).          Acting Head
 
 [70](#70).          Annual report
 
-**Part 10—Administrative arrangements and re‑organisations**
+**Part 10—Administrative arrangements and re-organisations**
 
 [71](#71).          Arrangements with States and Territories
 
@@ -270,7 +270,7 @@ Note:          See also the _Public Employment (Consequential 
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="acting-se-employe"></a>**_acting SES employee_** means a non‑SES employee who is acting in a position usually occupied by an SES employee.
+                    <a name="acting-se-employe"></a>**_acting SES employee_** means a non-SES employee who is acting in a position usually occupied by an SES employee.
 
                     <a name="agenc"></a>**_Agency_** means:
 
@@ -356,9 +356,9 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
 
                     <a name="nation-employ-standard"></a>**_National Employment Standards_** has the same meaning as in the _Fair Work Act 2009_.
 
-                    <a name="non-ongoing-ap-employe"></a>**_non‑ongoing APS employee_** means an APS employee who is not an ongoing APS employee. 
+                    <a name="non-ongoing-ap-employe"></a>**_non-ongoing APS employee_** means an APS employee who is not an ongoing APS employee. 
 
-                    <a name="non-se-employe"></a>**_non‑SES employee_** means an APS employee other than an SES employee.
+                    <a name="non-se-employe"></a>**_non-SES employee_** means an APS employee other than an SES employee.
 
                     <a name="ongoing-ap-employe"></a>**_ongoing APS employee_** means a person engaged as an ongoing APS employee, as mentioned in paragraph 22(2)(a).
 
@@ -378,9 +378,9 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
 
                     <a name="statutori-agenc"></a>**_Statutory Agency_** means a body or group of persons declared by an Act to be a Statutory Agency for the purposes of this Act.
 
-                    <a name="wr-act-collect-transition-instrum"></a>**_WR Act collective transitional instrument_** means an award, a collective agreement or a pre‑reform certified agreement (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+                    <a name="wr-act-collect-transition-instrum"></a>**_WR Act collective transitional instrument_** means an award, a collective agreement or a pre-reform certified agreement (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
 
-                    <a name="wr-act-transition-instrum"></a>**_WR Act transitional instrument_** means an award, a workplace agreement, a pre‑reform certified agreement, an AWA or a pre‑reform AWA (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
+                    <a name="wr-act-transition-instrum"></a>**_WR Act transitional instrument_** means an award, a workplace agreement, a pre-reform certified agreement, an AWA or a pre-reform AWA (within the meaning of those terms in the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_).
 
 ##### <a id="8"></a>8  Relationship with Fair Work Acts
 
@@ -414,7 +414,7 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
 
                      (h)  the APS has leadership of the highest quality;
 
-                      (i)  the APS establishes workplace relations that value communication, consultation, co‑operation and input from employees on matters that affect their workplace;
+                      (i)  the APS establishes workplace relations that value communication, consultation, co-operation and input from employees on matters that affect their workplace;
 
                       (j)  the APS provides a fair, flexible, safe and rewarding workplace;
 
@@ -424,7 +424,7 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
 
                     (m)  the APS provides a reasonable opportunity to all eligible members of the community to apply for APS employment;
 
-                     (n)  the APS is a career‑based service to enhance the effectiveness and cohesion of Australia’s democratic system of government;
+                     (n)  the APS is a career-based service to enhance the effectiveness and cohesion of Australia’s democratic system of government;
 
                      (o)  the APS provides a fair system of review of decisions taken in respect of APS employees.
 
@@ -432,7 +432,7 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
 
                      (a)  an assessment is made of the relative suitability of the candidates for the duties, using a competitive selection process; and
 
-                     (b)  the assessment is based on the relationship between the candidates’ work‑related qualities and the work‑related qualities genuinely required for the duties; and
+                     (b)  the assessment is based on the relationship between the candidates’ work-related qualities and the work-related qualities genuinely required for the duties; and
 
                      (c)  the assessment focuses on the relative capacity of the candidates to achieve outcomes related to the duties; and
 
@@ -450,7 +450,7 @@ Note:          See Schedules 4 and 9 of the _Fair Work (Tran
 
 ##### <a id="12"></a>12  Agency Heads must promote APS Values
 
-                   An Agency Head must uphold and promote the APS Values.
+                   An Agency Head must uphold and promote the APS Values.
 
 ##### <a id="13"></a>13  The APS Code of Conduct
 
@@ -490,7 +490,7 @@ in order to gain, or seek to gain, a benefit or advantage for the employee or fo
 
            (13)  An APS employee must comply with any other conduct requirement that is prescribed by the regulations.
 
-##### <a id="14"></a>14  Agency Heads bound by Code of Conduct
+##### <a id="14"></a>14  Agency Heads bound by Code of Conduct
 
              (1)  Agency Heads are bound by the Code of Conduct in the same way as APS employees.
 
@@ -508,7 +508,7 @@ in order to gain, or seek to gain, a benefit or advantage for the employee or fo
 
                      (b)  reduction in classification;
 
-                     (c)  re‑assignment of duties;
+                     (c)  re-assignment of duties;
 
                      (d)  reduction in salary;
 
@@ -632,7 +632,7 @@ must do so without patronage or favouritism.
 
                      (d)  on the ground that the employee lacks, or has lost, an essential qualification for performing duties at the higher classification;
 
-                     (e)  on the ground of non‑performance, or unsatisfactory performance, of duties at the higher classification;
+                     (e)  on the ground of non-performance, or unsatisfactory performance, of duties at the higher classification;
 
                       (f)  on the ground that the employee is unable to perform duties at the higher classification because of physical or mental incapacity;
 
@@ -730,11 +730,11 @@ Note:          The _Fair Work Act 2009_ has rules and entitlem
 
                      (b)  the employee lacks, or has lost, an essential qualification for performing his or her duties;
 
-                     (c)  non‑performance, or unsatisfactory performance, of duties;
+                     (c)  non-performance, or unsatisfactory performance, of duties;
 
                      (d)  inability to perform duties because of physical or mental incapacity;
 
-                     (e)  failure to satisfactorily complete an entry‑level training course;
+                     (e)  failure to satisfactorily complete an entry-level training course;
 
                       (f)  failure to meet a condition imposed under subsection 22(6);
 
@@ -742,9 +742,9 @@ Note:          The _Fair Work Act 2009_ has rules and entitlem
 
                      (h)  any other ground prescribed by the regulations.
 
-             (4)  The regulations may prescribe grounds or procedures applicable to the termination of the engagement of non‑ongoing APS employees.
+             (4)  The regulations may prescribe grounds or procedures applicable to the termination of the engagement of non-ongoing APS employees.
 
-             (5)  Subsection (4) does not, by implication, limit the grounds for termination for a non‑ongoing APS employee.
+             (5)  Subsection (4) does not, by implication, limit the grounds for termination for a non-ongoing APS employee.
 
 ##### <a id="30"></a>30  Retirement
 
@@ -754,7 +754,7 @@ Note:          The _Fair Work Act 2009_ has rules and entitlem
 
 ##### <a id="31"></a>31  Forfeiture of additional remuneration
 
-             (1)  If an APS employee receives any non‑Commonwealth remuneration for performing duties as an APS employee, then the Agency Head may give a notice in writing to the employee in relation to the whole, or a specified part, of the remuneration.
+             (1)  If an APS employee receives any non-Commonwealth remuneration for performing duties as an APS employee, then the Agency Head may give a notice in writing to the employee in relation to the whole, or a specified part, of the remuneration.
 
              (2)  The amount notified by the Agency Head:
 
@@ -762,7 +762,7 @@ Note:          The _Fair Work Act 2009_ has rules and entitlem
 
                      (b)  may be recovered by the Commonwealth from the employee as a debt in a court of competent jurisdiction.
 
-             (3)  If an Agency Head receives any non‑Commonwealth remuneration for performing duties as an Agency Head, then the Agency Minister may give a notice in writing to the Agency Head in relation to the whole, or a specified part, of the remuneration.
+             (3)  If an Agency Head receives any non-Commonwealth remuneration for performing duties as an Agency Head, then the Agency Minister may give a notice in writing to the Agency Head in relation to the whole, or a specified part, of the remuneration.
 
              (4)  The amount notified by the Agency Minister:
 
@@ -772,7 +772,7 @@ Note:          The _Fair Work Act 2009_ has rules and entitlem
 
              (5)  In this section:
 
-                    <a name="non-commonwealth-remuner"></a>**_non‑Commonwealth remuneration_** means any remuneration from a person other than the Commonwealth.
+                    <a name="non-commonwealth-remuner"></a>**_non-Commonwealth remuneration_** means any remuneration from a person other than the Commonwealth.
 
 ##### <a id="32"></a>32  Right of return for election candidates
 
@@ -842,7 +842,7 @@ Note:          For example, the regulations might provide that
 
                             (iii)  management; and
 
-                     (b)  promotes co‑operation with other Agencies; and
+                     (b)  promotes co-operation with other Agencies; and
 
                      (c)  by personal example and other appropriate means, promotes the APS Values and compliance with the Code of Conduct.
 
@@ -872,7 +872,7 @@ Note:          For example, the regulations might provide that
 
 ##### <a id="39"></a>39  Heads of Mission
 
-             (1)  The appointment of a Head of Mission by the Governor‑General cannot take effect unless the person is an APS employee.
+             (1)  The appointment of a Head of Mission by the Governor-General cannot take effect unless the person is an APS employee.
 
              (2)  An Agency Head must comply with any direction in writing by the Agency Minister:
 
@@ -916,7 +916,7 @@ Note:          For example, the regulations might provide that
 
                      (h)  to facilitate continuous improvement in people management throughout the APS;
 
-                      (i)  to co‑ordinate and support APS‑wide training and career development opportunities in the APS;
+                      (i)  to co-ordinate and support APS-wide training and career development opportunities in the APS;
 
                       (j)  to contribute to, and foster, leadership in the APS;
 
@@ -944,7 +944,7 @@ Note:          For example, the regulations might provide that
 
              (3)  Commissioner’s Directions may be made by applying, adopting or incorporating any matter in Classification Rules as in force from time to time, or at a particular time.
 
-             (4)  Commissioner’s directions are disallowable non‑legislative instruments for the purposes of section 46B of the _Acts Interpretation Act 1901_.
+             (4)  Commissioner’s directions are disallowable non-legislative instruments for the purposes of section 46B of the _Acts Interpretation Act 1901_.
 
 ##### <a id="43"></a>43  Commissioner’s inquiry powers
 
@@ -956,11 +956,11 @@ Note:          For example, the regulations might provide that
 
                      (c)  an inquiry on a matter referred to the Commissioner under paragraph 41(1)(d) by the Public Service Minister, by notice in the _Gazette_.
 
-             (2)  The following provisions apply in relation to a special inquiry (with references to the Auditor‑General being replaced by references to the Commissioner):
+             (2)  The following provisions apply in relation to a special inquiry (with references to the Auditor-General being replaced by references to the Commissioner):
 
-                     (a)  sections 32, 33 and 35 of the _Auditor‑General Act 1997_;
+                     (a)  sections 32, 33 and 35 of the _Auditor-General Act 1997_;
 
-                     (b)  any other provisions of the _Auditor‑General Act 1997_, or of regulations under that Act, that are relevant to the operation of section 32, 33 or 35 of that Act.
+                     (b)  any other provisions of the _Auditor-General Act 1997_, or of regulations under that Act, that are relevant to the operation of section 32, 33 or 35 of that Act.
 
 ##### <a id="44"></a>44  Annual report
 
@@ -976,33 +976,21 @@ Note:          For example, the regulations might provide that
 
 ##### <a id="45"></a>45  Appointment of Commissioner
 
-                   The Commissioner is to be appointed by the Governor‑General on a full‑time basis for a period of up to 5 years specified in the instrument of appointment.
+                   The Commissioner is to be appointed by the Governor-General on a full-time basis for a period of up to 5 years specified in the instrument of appointment.
 
-##### <a id="46"></a>46  Remuneration and other terms and conditions of appointment
+##### <a id="46"></a>46  Remuneration etc.
 
-Remuneration and allowances
+             (1)  The remuneration and other conditions of appointment of the Commissioner are as determined in writing by the Agency Minister.
 
-             (1)  The Commissioner is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Commissioner is to be paid the remuneration that is prescribed by the regulations.
+             (2)  For each determination, the Agency Minister must seek the advice of the Remuneration Tribunal and take that advice into account.
 
-             (2)  The Commissioner is to be paid the allowances that are prescribed by the regulations.
-
-             (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
-
-Leave of absence
-
-             (4)  The Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
-
-             (5)  The Agency Minister may grant the Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Agency Minister determines.
-
-Other terms and conditions
-
-             (6)  The Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Agency Minister.
+             (3)  Each determination must be published in the _Gazette_ within 14 days after the determination is made.
 
 ##### <a id="47"></a>47  Removal from office
 
-             (1)  The Governor‑General may remove the Commissioner from office if each House of the Parliament, in the same session of the Parliament, presents an address to the Governor‑General praying for the removal of the Commissioner on the ground of misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may remove the Commissioner from office if each House of the Parliament, in the same session of the Parliament, presents an address to the Governor-General praying for the removal of the Commissioner on the ground of misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must remove the Commissioner from office if the Commissioner does any of the following:
+             (2)  The Governor-General must remove the Commissioner from office if the Commissioner does any of the following:
 
                      (a)  becomes bankrupt;
 
@@ -1054,11 +1042,11 @@ Other terms and conditions
 
                      (e)  such other functions as are prescribed by the regulations.
 
-             (2)  The following provisions apply in relation to an inquiry under paragraph (1)(c) (with references to the Auditor‑General being replaced by references to the Merit Protection Commissioner):
+             (2)  The following provisions apply in relation to an inquiry under paragraph (1)(c) (with references to the Auditor-General being replaced by references to the Merit Protection Commissioner):
 
-                     (a)  sections 32, 33 and 35 of the _Auditor‑General Act 1997_;
+                     (a)  sections 32, 33 and 35 of the _Auditor-General Act 1997_;
 
-                     (b)  any other provisions of the _Auditor‑General Act 1997_, or of regulations under that Act, that are relevant to the operation of section 32, 33 or 35 of that Act.
+                     (b)  any other provisions of the _Auditor-General Act 1997_, or of regulations under that Act, that are relevant to the operation of section 32, 33 or 35 of that Act.
 
              (3)  The regulations may authorise the Merit Protection Commissioner to charge fees (on behalf of the Commonwealth) for the performance of functions prescribed under paragraph (1)(e).
 
@@ -1080,33 +1068,21 @@ Other terms and conditions
 
 ##### <a id="52"></a>52  Appointment of Merit Protection Commissioner
 
-                   The Merit Protection Commissioner is to be appointed by the Governor‑General on a full‑time basis for a period of up to 5 years specified in the instrument of appointment.
+                   The Merit Protection Commissioner is to be appointed by the Governor-General on a full-time basis for a period of up to 5 years specified in the instrument of appointment.
 
-##### <a id="53"></a>53  Remuneration and other terms and conditions of appointment
+##### <a id="53"></a>53  Remuneration etc.
 
-Remuneration and allowances
+             (1)  The remuneration and other conditions of appointment of the Merit Protection Commissioner are as determined in writing by the Agency Minister.
 
-             (1)  The Merit Protection Commissioner is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Merit Protection Commissioner is to be paid the remuneration that is prescribed by the regulations.
+             (2)  For each determination, the Agency Minister must seek the advice of the Remuneration Tribunal and take that advice into account.
 
-             (2)  The Merit Protection Commissioner is to be paid the allowances that are prescribed by the regulations.
-
-             (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
-
-Leave of absence
-
-             (4)  The Merit Protection Commissioner has the recreation leave entitlements that are determined by the Remuneration Tribunal.
-
-             (5)  The Public Service Minister may grant the Merit Protection Commissioner leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Public Service Minister determines.
-
-Other terms and conditions
-
-             (6)  The Merit Protection Commissioner holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Public Service Minister.
+             (3)  Each determination must be published in the _Gazette_ within 14 days after the determination is made.
 
 ##### <a id="54"></a>54  Removal from office
 
-             (1)  The Governor‑General may remove the Merit Protection Commissioner from office if each House of the Parliament, in the same session of the Parliament, presents an address to the Governor‑General praying for the removal of the Merit Protection Commissioner on the ground of misbehaviour or physical or mental incapacity.
+             (1)  The Governor-General may remove the Merit Protection Commissioner from office if each House of the Parliament, in the same session of the Parliament, presents an address to the Governor-General praying for the removal of the Merit Protection Commissioner on the ground of misbehaviour or physical or mental incapacity.
 
-             (2)  The Governor‑General must remove the Merit Protection Commissioner from office if the Merit Protection Commissioner does any of the following:
+             (2)  The Governor-General must remove the Merit Protection Commissioner from office if the Merit Protection Commissioner does any of the following:
 
                      (a)  becomes bankrupt;
 
@@ -1180,15 +1156,13 @@ Note:          In _Barratt v Howard_ \[1999] FCA 1132, the Fed
 
                    At any time after the appointment of a Secretary is terminated under section 56 or 59, the Prime Minister, on behalf of the Commonwealth, may engage the former Secretary to perform specified duties (otherwise than as an APS employee), on terms and conditions determined by the Prime Minister.
 
-##### <a id="61"></a>61  Remuneration and other terms and conditions of appointment
+##### <a id="61"></a>61  Remuneration and other conditions
 
-Remuneration and allowances
+             (1)  The remuneration and other conditions of appointment of a Secretary are as determined in writing by the Prime Minister.
 
-             (1)  The remuneration of a Secretary is as provided by Division 4 of Part II of the _Remuneration Tribunal Act 1973_.
+             (2)  For each determination, the Prime Minister must seek the advice of the Remuneration Tribunal and take that advice into account.
 
-Other terms and conditions
-
-             (2)  The other terms and conditions applying to the appointment of a Secretary are as determined by the Remuneration Tribunal under Division 4 of Part II of the _Remuneration Tribunal Act 1973_.
+             (3)  Each determination must be published in the _Gazette_ within 14 days after the determination is made.
 
 ##### <a id="62"></a>62  Acting Secretary
 
@@ -1234,7 +1208,7 @@ Other terms and conditions
 
 ##### <a id="65"></a>65  Establishment etc. of Executive Agencies
 
-             (1)  The Governor‑General may do any of the following, by order in the _Gazette_:
+             (1)  The Governor-General may do any of the following, by order in the _Gazette_:
 
                      (a)  establish or abolish an Executive Agency;
 
@@ -1272,25 +1246,13 @@ Other terms and conditions
 
                     <a name="relev-secretari"></a>**_relevant Secretary_** means the Secretary of any Department that is administered by the same Minister who is the Agency Minister of the Executive Agency.
 
-##### <a id="68"></a>68  Remuneration and other terms and conditions of appointment
+##### <a id="68"></a>68  Remuneration and other conditions
 
-Remuneration and allowances
+             (1)  The remuneration and other conditions of appointment of the Head of an Executive Agency are as determined in writing by the Agency Minister.
 
-             (1)  The Head of an Executive Agency is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Head of the Executive Agency is to be paid the remuneration that is prescribed by the regulations.
+             (2)  For each determination, the Agency Minister must seek the advice of the Remuneration Tribunal and take that advice into account.
 
-             (2)  The Head of an Executive Agency is to be paid the allowances that are prescribed by the regulations.
-
-             (3)  Subsections (1) and (2) have effect subject to the _Remuneration Tribunal Act 1973_.
-
-Leave of absence
-
-             (4)  The Head of an Executive Agency has the recreation leave entitlements that are determined by the Remuneration Tribunal.
-
-             (5)  The Agency Minister may grant the Head of an Executive Agency leave of absence, other than recreation leave, on the terms and conditions as to remuneration or otherwise that the Agency Minister determines.
-
-Other terms and conditions
-
-             (6)  The Head of an Executive Agency holds office on the terms and conditions (if any) in relation to matters not covered by this Act that are determined by the Agency Minister.
+             (3)  Each determination must be published in the _Gazette_ within 14 days after the determination is made.
 
 ##### <a id="69"></a>69  Acting Head
 
@@ -1316,7 +1278,7 @@ Other terms and conditions
 
              (2)  The report must be prepared in accordance with guidelines approved on behalf of the Parliament by the Joint Committee of Public Accounts and Audit.
 
-## Part 10—Administrative arrangements and re‑organisations
+## Part 10—Administrative arrangements and re-organisations
 
 ##### <a id="71"></a>71  Arrangements with States and Territories
 
@@ -1332,13 +1294,13 @@ Other terms and conditions
 
 ##### <a id="72"></a>72  Machinery of government changes
 
-             (1)  The Commissioner may do any of the following, if the Commissioner is satisfied that it is necessary or desirable in order to give effect to an administrative re‑arrangement:
+             (1)  The Commissioner may do any of the following, if the Commissioner is satisfied that it is necessary or desirable in order to give effect to an administrative re-arrangement:
 
                      (a)  move APS employees to another Agency (without anyone’s consent), by a determination in writing;
 
                      (b)  determine in writing that APS employees cease to be APS employees and become employees of a specified Commonwealth authority;
 
-                     (c)  determine in writing that non‑APS employees cease to be employed as non‑APS employees and become engaged as APS employees in a specified Agency;
+                     (c)  determine in writing that non-APS employees cease to be employed as non-APS employees and become engaged as APS employees in a specified Agency;
 
                      (d)  on behalf of the Commonwealth, engage any person as an APS employee in a specified Agency.
 
@@ -1370,11 +1332,11 @@ Other terms and conditions
 
              (6)  In this section:
 
-                    <a name="administr-re-arrang"></a>**_administrative re‑arrangement_** means any increase, reduction or re‑organisation in Commonwealth functions, including one that results from an order by the Governor‑General.
+                    <a name="administr-re-arrang"></a>**_administrative re-arrangement_** means any increase, reduction or re-organisation in Commonwealth functions, including one that results from an order by the Governor-General.
 
                     <a name="commonwealth-author"></a>**_Commonwealth authority_** includes a company in which the Commonwealth has a controlling interest.
 
-                    <a name="non-ap-employe"></a>**_non‑APS employee_** means a person who is employed by the Commonwealth or by a Commonwealth authority, but does not include an APS employee.
+                    <a name="non-ap-employe"></a>**_non-APS employee_** means a person who is employed by the Commonwealth or by a Commonwealth authority, but does not include an APS employee.
 
                     <a name="workplac-determin"></a>**_workplace determination_** has the same meaning as in the _Fair Work Act 2009_.
 
@@ -1462,7 +1424,7 @@ Note:          The _Freedom of Information Act 1982_ and the _
 
                      (a)  an APS employee; or
 
-                     (b)  a person appointed to an office by the Governor‑General, or by a Minister, under a law of the Commonwealth.
+                     (b)  a person appointed to an office by the Governor-General, or by a Minister, under a law of the Commonwealth.
 
              (9)  A person (the **_first delegate)_** to whom powers or functions are delegated under subsection (5), (6) or (7) may, in writing, delegate any of those powers or functions to another person (the **_second delegate_**). However, if the first delegate is subject to directions in relation to the exercise of a power or function delegated under this subsection, the first delegate must give corresponding directions to the second delegate.
 
@@ -1480,7 +1442,7 @@ Note:          The _Freedom of Information Act 1982_ and the _
 
 ##### <a id="79"></a>79  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1703,48 +1665,6 @@ Remainder: Royal Assent</div>
     <div></div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (items 953–964) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Remuneration and Other Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>75, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 1 (items 7–10, 
-12–15): 5 Aug 2011 ( <i>see</i>F2011L01603)</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 
-12–15)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1842,7 +1762,7 @@ _(a)_     Subsection 2(1) (item 21) of the _Statue Law Revision Act 20
   </td>
 </tr></table>
 
-_(b)_     Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
+_(b)_    Subsection 2(1) (items 2 and 3) of the _Legislative Instruments (Transitional Provisions and Consequential Amendments) Act 2003_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences on the day or at the time specified in column 2 of the table.
 
@@ -1961,13 +1881,14 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -2109,22 +2030,6 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rs. No. 75, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6</b></div>
   </td>
   <td>
@@ -2145,54 +2050,6 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
   </td>
   <td>
     <div>am. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rs. No. 75, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>rs. No. 75, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>rs. No. 75, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2252,72 +2109,6 @@ _(c)_     Subsection 2(1) (item 39) of the _Fair Work (State Referral 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 953  Subsection 48(1)
-
-Omit “(1)”.
-
-## 954  At the end of subsection 48(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 955  Subsection 48(2)
-
-Repeal the subsection.
-
-## 956  Subsection 55(1)
-
-Omit “(1)”.
-
-## 957  At the end of subsection 55(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 958  Subsection 55(2)
-
-Repeal the subsection.
-
-## 959  Subsection 62(1)
-
-Omit “(1)”.
-
-## 960  At the end of subsection 62(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 961  Subsection 62(2)
-
-Repeal the subsection.
-
-## 962  Subsection 69(1)
-
-Omit “(1)”.
-
-## 963  At the end of subsection 69(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 964  Subsection 69(2)
-
-Repeal the subsection.
-
-As at 5 August 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2326,9 +2117,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -2338,9 +2129,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -2348,9 +2139,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -2413,65 +2204,5 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (No.
 ## 28  Saving provision—determinations under subsection 24(1)
 
 If a determination made by an Agency Head under subsection 24(1) of the _Public Service Act 1999_ was in force immediately before the commencement of this Schedule, the determination continues in force on and after that commencement as if it had been made under subsection 24(1) of that Act, as amended by this Schedule.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Remuneration and Other Legislation Amendment Act 2011 (No. 75, 2011)_
-
-## Schedule 1
-
-## 12  Continuation of existing remuneration determination for Public Service Commissioner
-
-(1)       This item applies to a determination (the **_existing determination_**) that was in operation in relation to the Public Service Commissioner under section 46 of the _Public Service Act 1999_ immediately before the commencement of the repeals and amendments made by this Schedule.
-
-(2)       Despite those repeals and amendments, the existing determination continues in operation until such time as a determination of the Remuneration Tribunal, made in accordance with the _Remuneration Tribunal Act 1973_ (as amended by this Schedule), relating to the remuneration that is to be paid to the Public Service Commissioner comes into operation in substitution for the existing determination.
-
-## 13  Continuation of existing remuneration determination for Merit Protection Commissioner
-
-(1)       This item applies to a determination (the **_existing determination_**) that was in operation in relation to the Merit Protection Commissioner under section 53 of the _Public Service Act 1999_ immediately before the commencement of the repeals and amendments made by this Schedule.
-
-(2)       Despite those repeals and amendments, the existing determination continues in operation until such time as a determination of the Remuneration Tribunal, made in accordance with the _Remuneration Tribunal Act 1973_ (as amended by this Schedule), relating to the remuneration that is to be paid to the Merit Protection Commissioner comes into operation in substitution for the existing determination.
-
-## 14  Continuation of existing remuneration determination for Departmental Secretaries
-
-(1)       This item applies to a determination (the **_existing determination_**) that was in operation in relation to a Departmental Secretary under section 61 of the _Public Service Act 1999_ immediately before the commencement of the repeals and amendments made by this Schedule.
-
-(2)       Despite those repeals and amendments, the existing determination continues in operation until such time as:
-
-                     (a)  in the case of a Departmental Secretary to whom subitem (3) applies—determinations made under sections 14 and 15 of the _Remuneration Tribunal Act 1973_ (as inserted by this Schedule) in relation to that Departmental Secretary come into operation in substitution for the existing determination; and
-
-                     (b)  in the case of any other Departmental Secretary—the following instruments come into operation in substitution for the existing determination:
-
-                              (i)  an assignment made under subsection 14(3) of the _Remuneration Tribunal Act 1973_ (as inserted by this Schedule) in relation to that Departmental Secretary;
-
-                             (ii)  a determination made under section 15 of the _Remuneration Tribunal Act 1973_ (as inserted by this Schedule) in relation to that Departmental Secretary.
-
-(3)       This subitem applies to the following Departmental Secretaries:
-
-                     (a)  the Secretary of the Department that is administered by the Prime Minister;
-
-                     (b)  the Secretary of the Department that is administered by the Treasurer.
-
-## 15  Continuation of existing remuneration determinations for Heads of Executive Agencies
-
-(1)       This item applies to a determination (the **_existing determination_**) that was in operation in relation to the Head of an Executive Agency under section 68 of the _Public Service Act 1999_ immediately before the commencement of the repeals and amendments made by this Schedule.
-
-(2)       Despite those repeals and amendments, the existing determination continues in operation until such time as a determination of the Remuneration Tribunal, made in accordance with the _Remuneration Tribunal Act 1973_ (as amended by this Schedule), relating to the remuneration that is to be paid to the Head of the Executive Agency comes into operation in substitution for the existing determination.
 
  
