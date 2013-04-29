@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00525/Html/CorporationsFees2001_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00266/Html/CorporationsFees2001_WD02_image001.gif)
 
 # Corporations (Fees) Act 2001
 
 **Act No. 52 of 2001 as amended**
 
-This compilation was prepared on 1 August 2010
+This compilation was prepared on 1 April 2010
  taking into account amendments up to Act No. 27 of 2010
 
 The text of any of those amendments not in force 
@@ -31,8 +31,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [5A](#5A).         Differential fees for electronic compliance in relation to a chargeable matter
 
 [6](#6).            Matters relating to amount of fees
-
-[6A](#6A).         Matters relating to amount of fees for market supervision
 
 [7](#7).            Who is liable to pay the fee for a chargeable matter, and time liability is incurred
 
@@ -94,9 +92,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (iii)  functions conferred on ASIC by the operating rules of a market as required by subsection 798DA(2) of the _Corporations Act 2001_;
 
-                      (l)  the performance by ASIC of functions provided for in regulations as mentioned in paragraph 798E(2)(b) of the _Corporations Act 2001_;
-
-                    (m)  the performance by ASIC of its functions under Part 7.2A (Supervision of financial markets) of the _Corporations Act 2001_.
+                      (l)  the performance by ASIC of functions provided for in regulations as mentioned in paragraph 798E(2)(b) of the _Corporations Act 2001_.
 
                     <a name="old-corpor-law"></a>**_old Corporations Law_**, in relation to a State or Territory, has the same meaning as it has in Part 10.1 of the _Corporations Act 2001_.
 
@@ -104,7 +100,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="5"></a>5  Imposition of fees for chargeable matters
 
-             (1)  Subject to sections 6 and 6A, the regulations may prescribe fees for chargeable matters.
+             (1)  Subject to section 6, the regulations may prescribe fees for chargeable matters.
 
              (2)  The fees prescribed by the regulations for chargeable matters are imposed, and are so imposed as taxes.
 
@@ -131,18 +127,6 @@ Note:          The limitation in paragraph (a) applies separ
              (4)  The fee, or the total of the fees, for chargeable matters referred to in paragraph (k) of the definition of that term in subsection 4(1) that relate to a particular market licensee must not exceed $100,000 in respect of each period of 12 months during which ASIC performs functions referred to in that paragraph in relation to that market licensee.
 
              (5)  The fee, or the total of the fees, for chargeable matters referred to in paragraph (l) of the definition of that term in subsection 4(1) that relate to a particular market licensee and a particular conflict, or potential conflict, of a kind referred to in subsection 798E(1) of the _Corporations Act 2001_, must not exceed $100,000 in respect of each period of 12 months during which ASIC performs functions referred to in that paragraph in relation to that market licensee and that conflict or potential conflict.
-
-             (6)  This section does not apply in relation to a chargeable matter referred to in paragraph (m) of the definition of **_chargeable matter_** in subsection 4(1).
-
-##### <a id="6A"></a>6A  Matters relating to amount of fees for market supervision
-
-             (1)  The regulations may prescribe a fee for a chargeable matter referred to in paragraph (m) of the definition of **_chargeable matter_** in subsection 4(1):
-
-                     (a)  by specifying an amount as the fee; or
-
-                     (b)  by specifying a method for calculating the amount of the fee.
-
-             (2)  The fee prescribed under subsection (1) need not bear any relationship to the cost of providing any service that forms part of, or is related to, the chargeable matter.
 
 ##### <a id="7"></a>7  Who is liable to pay the fee for a chargeable matter, and time liability is incurred
 
@@ -218,19 +202,13 @@ Note:          The limitation in paragraph (a) applies separ
 
                               (i)  person liable—the market licensee affected; and
 
-                             (ii)  time liability incurred—the time or times determined in accordance with the regulations;
-
-                    (m)  for a chargeable matter referred to in paragraph (m) of that definition:
-
-                              (i)  person liable—the operator of a licensed market; and
-
                              (ii)  time liability incurred—the time or times determined in accordance with the regulations.
 
              (2)  A determination by the Panel for the purposes of subparagraph (1)(j)(i) must be made in accordance with rules made by the Panel in writing for the purposes of that subparagraph.
 
 ##### <a id="8"></a>8  Regulations
 
-                   The Governor-General may make regulations for the purposes of sections 5, 5A, 6 and 6A.
+                   The Governor-General may make regulations for the purposes of sections 5, 5A and 6.
 
 ##### <a id="9"></a>9  Transitional matters
 
@@ -375,7 +353,7 @@ Remainder: Royal Assent</div>
     <div>25 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Aug 2010 ( <i>see</i>s. 2(1)) 
+    <div>Schedule 1: \[ <i>see</i>s. 2(1) and Note 2] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -411,15 +389,7 @@ Remainder: Royal Assent</div>
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 107, 2001; No. 98, 2004; No. 102, 2007; No. 27, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 27, 2010</div>
+    <div>am. No. 107, 2001; No. 98, 2004; No. 102, 2007</div>
   </td>
 </tr>
 <tr>
@@ -435,15 +405,7 @@ Remainder: Royal Assent</div>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 107, 2001; No. 22, 2003; No. 27, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 27, 2010</div>
+    <div>am. No. 107, 2001; No. 22, 2003</div>
   </td>
 </tr>
 <tr>
@@ -451,7 +413,7 @@ Remainder: Royal Assent</div>
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 107, 2001; No. 27, 2010</div>
+    <div>am. No. 107, 2001</div>
   </td>
 </tr>
 <tr>
@@ -459,8 +421,62 @@ Remainder: Royal Assent</div>
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 22, 2003; No. 27, 2010</div>
+    <div>am. No. 22, 2003</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Corporations (Fees) Amendment Act 2010 (No. 27, 2010)_
+
+The following amendments commence at the same time as Schedule 1 to the _Corporations Amendment (Financial Market Supervision) Act 2010_:
+
+## Schedule 1
+
+## 1  Subsection 4(1) (at the end of the definition of _chargeable matter_)
+
+Add:
+
+                  ; (m)  the performance by ASIC of its functions under Part 7.2A (Supervision of financial markets) of the _Corporations Act 2001_.
+
+## 2  Subsection 5(1)
+
+Omit “section 6”, substitute “sections 6 and 6A”.
+
+## 3  At the end of section 6
+
+Add:
+
+             (6)  This section does not apply in relation to a chargeable matter referred to in paragraph (m) of the definition of **_chargeable matter_** in subsection 4(1).
+
+## 4  After section 6
+
+Insert:
+
+##### <a id="6A"></a>6A  Matters relating to amount of fees for market supervision
+
+             (1)  The regulations may prescribe a fee for a chargeable matter referred to in paragraph (m) of the definition of **_chargeable matter_** in subsection 4(1):
+
+                     (a)  by specifying an amount as the fee; or
+
+                     (b)  by specifying a method for calculating the amount of the fee.
+
+             (2)  The fee prescribed under subsection (1) need not bear any relationship to the cost of providing any service that forms part of, or is related to, the chargeable matter.
+
+## 5  At the end of subsection 7(1)
+
+Add:
+
+                  ; (m)  for a chargeable matter referred to in paragraph (m) of that definition:
+
+                              (i)  person liable—the operator of a licensed market; and
+
+                             (ii)  time liability incurred—the time or times determined in accordance with the regulations.
+
+## 6  Section 8
+
+Omit “and 6”, substitute “, 6 and 6A”.
+
+As at 1 April 2010 the amendments are not incorporated in this compilation.
 
  
