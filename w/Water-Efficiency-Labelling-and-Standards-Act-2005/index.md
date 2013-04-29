@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00623/Html/516c1bed-684b-4364-a3d4-f55f31d5ea8a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00143/Html/bdfe704c-6fb7-4364-a2ed-78203e42d1dd_files/image001.gif)
 
 # Water Efficiency Labelling and Standards Act 2005
 
 **Act No. 4 of 2005 as amended**
 
-This compilation was prepared on 22 July 2012
- taking into account amendments up to Act No. 108 of 2012
+This compilation was prepared on 24 March 2011
+ taking into account amendments up to Act No. 6 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -35,8 +35,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [6](#6).            Application of the _Criminal Code_
 
 [7](#7).            Definitions
-
-[7A](#7A).         Meaning of _supply_
 
 **Part 3—National WELS scheme**
 
@@ -372,8 +370,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="applic-wel-standard"></a>**_applicable WELS standard_** has the meaning given by section 32.
 
-                    <a name="commonwealth-depart"></a>**_Commonwealth Department_** means the Department of State of the Commonwealth that deals with the matters to which this Act relates.
-
                     <a name="commonwealth-minist"></a>**_Commonwealth Minister_** means the Minister appointed to administer the Department of State of the Commonwealth that deals with the matters to which this Act relates.
 
                     <a name="commonwealth-secretari"></a>**_Commonwealth Secretary_** means the Secretary of the Department of State of the Commonwealth that deals with the matters to which this Act relates.
@@ -386,21 +382,23 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="execut-agenc"></a>**_Executive Agency_** has the same meaning as in the _Public Service Act 1999_.
 
-                    <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
-
                     <a name="just-term"></a>**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
                     <a name="occupi"></a>**_occupier_**, in relation to premises, includes a person who apparently represents the occupier of the premises.
 
                     <a name="offenc-against-act"></a>**_offence against this Act_** includes:
 
-                     (a)  an offence against section 6 of the _Crimes Act 1914_; and
+                     (a)  an offence against the regulations; or
 
-                     (b)  an offence against section 11.1, 11.4, 11.5, 136.1, 137.1 or 137.2 of the _Criminal Code_;
+                     (b)  an offence against:
 
-that relates to this Act.
+                              (i)  section 6 of the _Crimes Act 1914_; or
 
-                    <a name="particip-state-territori"></a><a name="particip-state-territori"></a>**_participating State or Territory_**: a State or Territory is a **_participating State or Territory_** if there is a corresponding State‑Territory law for the State or Territory.
+                             (ii)  section 11.1, 11.4, 11.5, 136.1, 137.1 or 137.2 of the _Criminal Code_;
+
+                            that relates to this Act or the regulations.
+
+                    <a name="particip-state-territori"></a>**_participating State or Territory_** has the meaning given by subsection 18(5).
 
                     <a name="person-wel-inform"></a>**_person who has WELS information_** has the meaning given by section 60.
 
@@ -414,9 +412,11 @@ that relates to this Act.
 
                     <a name="statutori-agenc"></a>**_Statutory Agency_** has the same meaning as in the _Public Service Act 1999_.
 
-                    <a name="suppli"></a>**_supply_** has the meaning given by section 7A.
+                    <a name="suppli"></a>**_supply_** means:
 
-                    <a name="act"></a>**_this Act_** includes regulations, and other legislative instruments, made under this Act.
+                     (a)  supply for consideration; or
+
+                     (b)  offer to supply for consideration.
 
                     <a name="water-save-product"></a>**_water‑saving product_** means a device, appliance or fitting that:
 
@@ -441,26 +441,6 @@ that relates to this Act.
                     <a name="wel-scheme"></a>**_WELS scheme_** means the water efficiency labelling and standards scheme established by this Act and corresponding State‑Territory laws.
 
                     <a name="wel-standard"></a>**_WELS standard_** has the meaning given by section 19.
-
-##### <a id="7A"></a>7A  Meaning of _supply_
-
-             (1)  A **_supply_** of a WELS product means a supply of the product in the course of trading or commercial activities, and includes:
-
-                     (a)  an offer to supply; and
-
-                     (b)  a supply (including a re‑supply) by way of sale, exchange, gift, lease, loan, hire or hire‑purchase; and
-
-                     (c)  a supply as part of the supply of another thing (including as a fitting or fixture).
-
-             (2)  For the purposes of subsection (1):
-
-                     (a)  offer to supply includes make available, expose, display or advertise; and
-
-                     (b)  it is irrelevant whether the supply is:
-
-                              (i)  for consideration; or
-
-                             (ii)  a wholesale or retail supply. 
 
 ## Part 3—National WELS scheme
 
@@ -594,7 +574,7 @@ the offender is not liable to be punished for the offence under this Act.
 
 ##### <a id="18"></a>18  WELS products
 
-             (1)  The Commonwealth Minister may, by writing, determine that water‑use products or water‑saving products of a specified kind are **_WELS products_**.
+             (1)  The Commonwealth Minister may, by writing and in accordance with subsection (4), determine that water‑use or water‑saving products of a specified kind are **_WELS products_**.
 
              (2)  A determination under subsection (1) must set out, or incorporate by reference, the WELS standard for the products.
 
@@ -602,9 +582,7 @@ the offender is not liable to be punished for the offence under this Act.
 
              (4)  Before making a determination under subsection (1), the Commonwealth Minister must have agreement to the terms of the determination from a majority of the participating States and Territories.
 
-             (5)  Subsection (4) does not apply to a variation of a determination to remove an ambiguity or uncertainty, or to correct an error.
-
-             (6)  Subsection (5) does not, by implication, limit the application of subsection 33(3) of the _Acts Interpretation Act 1901_ in relation to a determination under subsection (1).
+             (5)  A State or Territory is a **_participating State or Territory_** if there is a corresponding State‑Territory law for the State or Territory.
 
 ##### <a id="19"></a>19  WELS standards
 
@@ -628,9 +606,9 @@ the offender is not liable to be punished for the offence under this Act.
 
           (3A)  If the WELS standard requires or permits the products to be registered, the **_WELS standard_** may require either or both of the following:
 
-                     (a)  that the products comply with one or more requirements relating to plumbing imposed by or under a law of a State or Territory, as in force from time to time;
+                     (a)  that the products comply with requirements relating to plumbing that are contained in a specified document, as in force from time to time (including the Plumbing Code of Australia, or an Act or regulations made by a State or Territory, for example);
 
-                     (b)  that a specified type of person or body certifies that the products comply with one or more requirements relating to plumbing imposed by or under a law of a State or Territory, as in force from time to time.
+                     (b)  that a specified type of person or body certifies that the products comply with requirements relating to plumbing that are contained in a specified document, as in force from time to time (including the Plumbing Code of Australia, or an Act or regulations made by a State or Territory, for example).
 
              (4)  The **_WELS standard_** may require products that are registered (whether required to be registered or not) to be WELS‑labelled for the purposes of specified supplies of the product.
 
@@ -650,15 +628,7 @@ the offender is not liable to be punished for the offence under this Act.
 
 ##### <a id="21"></a>21  The Regulator
 
-             (1)  The Commonwealth Secretary must, in writing, designate a position in the Commonwealth Department as the position of Regulator.
-
-Note:          For creation of positions, see section 77 of the _Public Service Act 1999_.
-
-             (2)  The position of Regulator can only be occupied by an SES employee.
-
-             (3)  The **_Regulator_** is the SES employee who occupies that position.
-
-             (4)  An instrument under subsection (1) is not a legislative instrument.
+                   The Commonwealth Secretary is the **_Regulator_**.
 
 ##### <a id="22"></a>22  Functions of the Regulator
 
@@ -666,13 +636,29 @@ Note:          For creation of positions, see section 77 of 
 
                      (a)  to administer the WELS scheme;
 
-                     (b)  to provide information and advice in relation to the WELS scheme;
+                     (b)  to undertake or commission research in relation to water‑use and water‑saving products;
 
-                     (c)  to undertake or commission research in relation to the WELS scheme;
+                     (c)  to provide advice in relation to determining that water‑use or water‑saving products are WELS products;
 
-                     (d)  to monitor and enforce compliance with the WELS scheme;
+                     (d)  to undertake or commission research in relation to WELS standards;
 
-                     (e)  such other functions as are conferred on the Regulator by this Act or any other law.
+                     (e)  to assist in the development of WELS standards;
+
+                      (f)  to provide information and advice to the Commonwealth Minister about the operation of WELS standards;
+
+                     (g)  to provide information and advice to:
+
+                              (i)  the Commonwealth Minister; and
+
+                             (ii)  the States and Territories; and
+
+                            (iii)  the public;
+
+                            about the operation of the WELS scheme;
+
+                     (h)  to undertake or commission research in relation to the effectiveness of WELS standards in relation to reducing water usage;
+
+                      (i)  such other functions as are conferred on the Regulator by this Act, the regulations or any other law.
 
 ##### <a id="23"></a>23  Powers of the Regulator
 
@@ -1062,7 +1048,7 @@ Note:          Part 7.8 of the _Criminal Code_ provides offe
 
                    A WELS inspector may exercise the powers set out in this Division for the following purposes:
 
-                     (a)  determining whether a person is complying with this Act;
+                     (a)  determining whether a person is complying with this Act or the regulations;
 
                      (b)  investigating a possible offence against this Act or the regulations.
 
@@ -1212,7 +1198,7 @@ Issue of warrant
 
              (2)  The magistrate may issue the warrant if the magistrate is satisfied, by information on oath or affirmation, that it is necessary to enter the WELS premises for one or more of the following purposes:
 
-                     (a)  determining whether a person is complying with this Act;
+                     (a)  determining whether a person is complying with this Act or the regulations;
 
                      (b)  investigating a possible offence against this Act or the regulations.
 
@@ -1380,7 +1366,7 @@ The time must not be earlier than 14 days after the notice is given.
 
                      (a)  amounts equal to amounts received by the Commonwealth from the States and Territories for the purposes of the WELS scheme;
 
-                     (b)  amounts equal to amounts received by the Commonwealth in connection with the performance of the Regulator’s functions under this Act or a corresponding State‑Territory law;
+                     (b)  amounts equal to amounts received by the Commonwealth in connection with the performance of the Regulator’s functions under this Act, the regulations or a corresponding State‑Territory law;
 
                      (c)  amounts equal to income received by the Commonwealth from the investment of money from the Account;
 
@@ -1396,7 +1382,7 @@ Note:          An Appropriation Act provides for amounts to be
 
                      (a)  to further the objects of this Act (as set out in section 3); and
 
-                     (b)  otherwise in connection with the performance of the Regulator’s functions under this Act or a corresponding State‑Territory law.
+                     (b)  otherwise in connection with the performance of the Regulator’s functions under this Act, the regulations or a corresponding State‑Territory law.
 
 ### Division 2—Charging fees etc.
 
@@ -1408,7 +1394,7 @@ Note:          An Appropriation Act provides for amounts to be
 
                    The following amounts may be recovered in a court of competent jurisdiction as debts due to the Commonwealth:
 
-                     (a)  fees payable to the Commonwealth under this Act or a corresponding State‑Territory law;
+                     (a)  fees payable to the Commonwealth under this Act, the regulations or a corresponding State‑Territory law;
 
                      (b)  amounts payable to the Commonwealth in connection with the performance of the Regulator’s functions.
 
@@ -1444,23 +1430,13 @@ Note:          An Appropriation Act provides for amounts to be
 
              (2)  An application for internal review must be made within 30 days after the day on which the decision first came to the notice of the applicant, or within such further period (if any) as the Regulator, either before or after the end of that period, allows.
 
-             (3)  The Regulator must, on receiving an application:
+             (3)  The Regulator must, on receiving an application, review the reviewable decision personally.
 
-                     (a)  review the reviewable decision personally; or
-
-                     (b)  cause the reviewable decision to be reviewed by a person:
-
-                              (i)  to whom the Regulator’s power under this section is delegated; and
-
-                             (ii)  who was not involved in the making of the decision; and
-
-                            (iii)  who occupies a position in the Commonwealth Department that is senior to that occupied by any person involved in making the decision.
-
-             (4)  After the Regulator, or the person mentioned in paragraph (3)(b), has reviewed the reviewable decision, the Regulator or the person may:
+             (4)  The Regulator may:
 
                      (a)  make a decision affirming, varying or revoking the reviewable decision; and
 
-                     (b)  if the decision is revoked—make such other decision as the Regulator or the person thinks appropriate.
+                     (b)  if the Regulator revokes the decision, make such other decision as the Regulator thinks appropriate.
 
 ##### <a id="72"></a>72  Review of decisions by Administrative Appeals Tribunal
 
@@ -1468,7 +1444,7 @@ Note:          An Appropriation Act provides for amounts to be
 
                      (a)  a reviewable decision made by the Regulator personally;
 
-                     (b)  an internal review decision made under section 71.
+                     (b)  an internal review decision made by the Regulator under section 71.
 
              (2)  An application under subsection (1) may be made only by the affected person concerned.
 
@@ -1530,17 +1506,11 @@ then the Commonwealth is liable to pay compensation of a reasonable amount to th
 
              (1)  The Commonwealth Minister must cause an independent review of the operation of the WELS scheme to be undertaken as soon as possible after the fifth anniversary of the commencement of this section.
 
-          (1A)  The Commonwealth Minister must cause further independent reviews of the operation of the WELS scheme to be undertaken:
+             (2)  The persons who undertake the review must give the Commonwealth Minister a written report of the review.
 
-                     (a)  within 5 years after the completion of the review referred to in subsection (1); and
+             (3)  The Commonwealth Minister must cause a copy of the report of the review:
 
-                     (b)  thereafter, within 5 years after the completion of the previous review.
-
-             (2)  The persons who undertake a review under this section must give the Commonwealth Minister a written report of the review.
-
-             (3)  The Commonwealth Minister must cause a copy of the report of each review:
-
-                     (a)  to be tabled in each House of the Parliament within 15 sitting days of the day on which the report is given to the Commonwealth Minister; and
+                     (a)  to be tabled in each House of the Parliament within 15 sitting days of the day on which the report is given to the Commonwealth Minister; and
 
                      (b)  to be given to each participating State and Territory.
 
@@ -1562,7 +1532,7 @@ then the Commonwealth is liable to pay compensation of a reasonable amount to th
 
              (2)  Without limiting subsection (1), the regulations may:
 
-                     (a)  prescribe fees in respect of matters under this Act; and
+                     (a)  prescribe fees in respect of matters under this Act (including the regulations); and
 
                      (b)  prescribe penalties of not more than 50 penalty units for offences against the regulations.
 
@@ -1571,8 +1541,6 @@ then the Commonwealth is liable to pay compensation of a reasonable amount to th
 ### Note 1
 
 The _Water Efficiency Labelling and Standards Act 2005_ as shown in this compilation comprises Act No. 4, 2005 amended as indicated in the Tables below.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1658,26 +1626,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Water Efficiency Labelling and Standards Amendment (Scheme Enhancements) Act 2012</div>
-  </td>
-  <td>
-    <div>108, 2012</div>
-  </td>
-  <td>
-    <div>22 July 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2] 
-Schedule 2: \[ <i>see</i>Note 2 and Table A] 
-Schedule 3 (item 20): \[ <i>see</i>Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 5–7), Sch. 2 (item 33) and Sch. 3 (items 21, 22)</div>
   </td>
 </tr></table>
 
@@ -1804,15 +1752,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Environment and Heritage Legislation Am
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 164, 2006; No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 108, 2012</div>
+    <div>am. No. 164, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1828,7 +1768,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Environment and Heritage Legislation Am
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 164, 2006; No. 108, 2012</div>
+    <div>am. No. 164, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1836,31 +1776,7 @@ _(a)_ Subsection 2(1) (item 3) of the _Environment and Heritage Legislation Am
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 6, 2011; No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>rs. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rs. No. 108, 2012</div>
+    <div>am. No. 6, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1878,960 +1794,6 @@ _(a)_ Subsection 2(1) (item 3) of the _Environment and Heritage Legislation Am
   <td>
     <div>am. No. 6, 2011</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 68</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 12</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 108, 2012</div>
-  </td>
 </tr></table>
-
-### Note 2
-
-_Water Efficiency Labelling and Standards Amendment (Scheme Enhancements) Act 2012 (No. 108, 2012)_
-
-The following amendments commence on 22 January 2013 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Section 7 (definition of _registered_)
-
-Repeal the definition, substitute:
-
-                    <a name="regist"></a><a name="regist"></a>**_registered_**: a WELS product is **_registered_** if the product is registered under the scheme formulated under subsection 26(1).
-
-## 2  Part 6
-
-Repeal the Part, substitute:
-
-## Part 6—Registration of WELS products
-
-##### <a id="26"></a>26  Registration of WELS products
-
-             (1)  The Commonwealth Minister must, by legislative instrument, formulate a scheme relating to the registration of WELS products.
-
-             (2)  Without limiting subsection (1), the scheme may make provision for, or in relation to, any of the following:
-
-                     (a)  applications for registration of WELS products (including renewal of registration);
-
-                     (b)  the information or documents to be provided with applications for registration (including verification by statutory declaration of the information);
-
-                     (c)  the fees to be paid in connection with applications for registration, including methods for working out such fees and the circumstances in which fees may be waived or refunded (either in whole or in part);
-
-                     (d)  the grounds for approving or refusing applications for registration;
-
-                     (e)  the period of registration;
-
-                      (f)  the requirements to be met in order for WELS products to remain registered;
-
-                     (g)  the consequences for the registration of a product if a WELS standard for the product is varied or replaced;
-
-                     (h)  the suspension and cancellation of registration;
-
-                      (i)  the creation, maintenance and publication of a register of WELS products;
-
-                      (j)  the review of decisions made by the Regulator under the scheme;
-
-                     (k)  other matters in connection with the registration of WELS products.
-
-             (3)  Without limiting subsection 33(3A) of the _Acts Interpretation Act 1901_, the scheme may make different provision in relation to:
-
-                     (a)  different kinds of WELS products; or
-
-                     (b)  different kinds of applications; or
-
-                     (c)  different kinds of registrations; or
-
-                     (d)  different circumstances.
-
-             (4)  Before formulating a scheme under subsection (1), the Commonwealth Minister must have agreement to the terms of the scheme from a majority of the participating States and Territories.
-
-             (5)  Subsection (4) does not apply to a variation of the scheme to remove an ambiguity or uncertainty, or to correct an error.
-
-             (6)  Subsection (5) does not, by implication, limit the application of subsection 33(3) of the _Acts Interpretation Act 1901_ in relation to the instrument.
-
-             (7)  Despite subsection 44(1) of the _Legislative Instruments Act 2003_, section 42 of that Act applies to the instrument.
-
-Note:          Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ does not apply to the scheme (see section 54 of that Act).
-
-## 3  Paragraph 42(1)(b)
-
-Omit “(see subsection 27(2))”, substitute “imposed under the scheme formulated under subsection 26(1)”.
-
-## 4  Section 69
-
-Repeal the section, substitute:
-
-##### <a id="69"></a>69  Meaning of _reviewable decision_ and _affected person_
-
-             (1)  Each of the following decisions is a **_reviewable decision_**:
-
-                     (a)  a decision by the Regulator under the scheme formulated under subsection 26(1) to refuse to register a WELS product;
-
-                     (b)  a decision by the Regulator under the scheme formulated under subsection 26(1) to cancel or suspend the registration of a WELS product.
-
-             (2)  A person whose application to register a WELS product is refused is the **_affected person_** for the purposes of a decision referred to in paragraph (1)(a).
-
-             (3)  A person in relation to whom a WELS product is registered is the **_affected person_** for the purposes of a decision referred to in paragraph (1)(b).
-
-The following amendments commence on 23 July 2012:
-
-## Schedule 2
-
-## 1  Subsection 4(2)
-
-After “Crown liable”, insert “to a pecuniary penalty or”.
-
-## 2  Section 7
-
-Insert:
-
-                    <a name="civil-penalti-order"></a>**_civil penalty order_** has the meaning given by subsection 44A(4).
-
-## 3  Section 7
-
-Insert:
-
-                    <a name="civil-penalti-provision"></a><a name="civil-penalti-provision"></a>**_civil penalty provision_**: a provision of this Act is a **_civil penalty provision_** if:
-
-                     (a)  either:
-
-                              (i)  the provision sets out at its foot a pecuniary penalty, or penalties, indicated by the words “Civil penalty”; or
-
-                             (ii)  another provision of this Act provides that the provision is a civil penalty provision; and
-
-                     (b)  the provision is of one of the following kinds:
-
-                              (i)  a subsection, or a section that is not divided into subsections;
-
-                             (ii)  a subregulation, or a regulation that is not divided into subregulations.
-
-## 4  Section 7
-
-Insert:
-
-                    <a name="evidenti-burden"></a>**_evidential burden_**, in relation to a matter, means the burden of adducing or pointing to evidence that suggests a reasonable possibility that the matter exists or does not exist.
-
-## 5  Section 7 (definition of _evidential material_)
-
-Repeal the definition, substitute:
-
-                    <a name="evidenti-materi"></a>**_evidential material_** means:
-
-                     (a)  in respect of an offence against this Act:
-
-                              (i)  any thing with respect to which the offence has been committed or is suspected, on reasonable grounds, to have been committed; or
-
-                             (ii)  any thing as to which there are reasonable grounds for suspecting that it will afford evidence as to the commission of the offence; or
-
-                            (iii)  any thing as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of committing the offence; and
-
-                     (b)  in respect of a contravention of a civil penalty provision:
-
-                              (i)  any thing with respect to which the civil penalty provision has been contravened or is suspected, on reasonable grounds, of having been contravened; or
-
-                             (ii)  any thing as to which there are reasonable grounds for suspecting that it will afford evidence as to the contravention of the civil penalty provision; or
-
-                            (iii)  any thing as to which there are reasonable grounds for suspecting that it is intended to be used for the purpose of contravening the civil penalty provision.
-
-## 6  Section 7
-
-Insert:
-
-                    <a name="relev-court"></a>**_relevant court_** means:
-
-                     (a)  the Federal Court; or
-
-                     (b)  the Federal Magistrates Court; or
-
-                     (c)  a court of a State or Territory that has jurisdiction in relation to matters arising under this Act.
-
-## 7  Part 7 (heading)
-
-Repeal the heading, substitute:
-
-## Part 7—Offences and civil penalties relating to the WELS scheme
-
-## 8  Division 2 of Part 7
-
-Repeal the Division, substitute:
-
-### Division 2—Registration and labelling
-
-##### <a id="32A"></a>32A  False or misleading information or documents
-
-                   A person must not provide information or a document with an application for registration of a WELS product if the person knows, or is reckless as to whether, the information or document is false or misleading in a material particular.
-
-                    Civil penalty:          60 penalty units.
-
-Note:          Part 7.4 of the _Criminal Code_ provides offences in relation to false or misleading statements.
-
-##### <a id="33"></a>33  Supply of unregistered WELS products
-
-             (1)  A person contravenes this subsection if:
-
-                     (a)  the person supplies a WELS product; and
-
-                     (b)  the applicable WELS standard requires the product to be registered for the purposes of the supply.
-
-             (2)  Subsection (1) does not apply if the WELS product is registered at the time of the supply.
-
-Strict liability offence
-
-             (3)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
-                    Penalty:  60 penalty units.
-
-Note 1:       For strict liability, see section 6.1 of the _Criminal Code_.
-
-Note 2:       A defendant bears an evidential burden in relation to the matter in subsection (2): see subsection 13.3(3) of the _Criminal Code_.
-
-Civil penalty provision
-
-             (4)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-             (5)  A person who wishes to rely on subsection (2) in proceedings for a civil penalty order bears an evidential burden in relation to the matter in that subsection.
-
-##### <a id="34"></a>34  Supply of WELS products that are not WELS‑labelled
-
-             (1)  A person contravenes this subsection if:
-
-                     (a)  the person supplies a WELS product; and
-
-                     (b)  the applicable WELS standard requires the WELS product to be WELS‑labelled for the purposes of the supply; and
-
-                     (c)  the product is not WELS‑labelled.
-
-Note:          For **_WELS‑labelled_**, see subsection 20(1).
-
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
-                    Penalty:  60 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-## 9  Section 35 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="35"></a>35  Minimum water efficiency
-
-## 10  Subsection 35(1)
-
-Omit “commits an offence”, substitute “contravenes this subsection”.
-
-## 11  Subsection 35(1) (penalty)
-
-Repeal the penalty.
-
-## 12  Subsection 35(2)
-
-Repeal the subsection, substitute:
-
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
-                    Penalty:  60 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-## 13  Section 36 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="36"></a>36  Minimum general performance
-
-## 14  Subsection 36(1)
-
-Omit “commits an offence”, substitute “contravenes this subsection”.
-
-## 15  Subsection 36(1) (penalty)
-
-Repeal the penalty.
-
-## 16  Subsection 36(2)
-
-Repeal the subsection, substitute:
-
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
-                    Penalty:  60 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-## 17  Subsection 37(1)
-
-Omit “commits an offence”, substitute “contravenes this subsection”.
-
-## 18  Subsection 37(1) (penalty)
-
-Repeal the penalty.
-
-## 19  Subsection 37(2)
-
-Repeal the subsection, substitute:
-
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
-                    Penalty:  60 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-## 20  After section 37
-
-Insert:
-
-##### <a id="37A"></a>37A  WELS‑labelling products that are not WELS products
-
-             (1)  A person contravenes this subsection if:
-
-                     (a)  the person supplies a product; and
-
-                     (b)  the product is, or purports to be, WELS‑labelled; and
-
-                     (c)  the product is not a WELS product.
-
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
-                    Penalty:  60 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-## 21  Subsection 38(1)
-
-Omit “commits an offence”, substitute “contravenes this subsection”.
-
-## 22  Subsection 38(1) (penalty)
-
-Repeal the penalty.
-
-## 23  Subsection 38(2)
-
-Repeal the subsection, substitute:
-
-Strict liability offence
-
-             (2)  A person commits an offence of strict liability if the person contravenes subsection (1).
-
-                    Penalty:  60 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Civil penalty provision
-
-             (3)  A person is liable to a civil penalty if the person contravenes subsection (1).
-
-                    Civil penalty:          60 penalty units.
-
-## 24  Subsection 40(1)
-
-Omit “Part 7”, substitute “this Act”.
-
-## 25  After subsection 40(1)
-
-Insert:
-
-          (1A)  The regulations may provide for a person who is alleged to have contravened a civil penalty provision to pay a penalty to the Commonwealth as an alternative to proceedings for a civil penalty order.
-
-## 26  At the end of subsection 40(2)
-
-Add “or that contravention”.
-
-## 27  After Division 3 of Part 8
-
-Insert:
-
-### Division 3A—Compliance audits
-
-##### <a id="43A"></a>43A  Compliance audits
-
-             (1)  This section applies if the Regulator:
-
-                     (a)  suspects, on reasonable grounds, that a person has engaged, is engaging or is proposing to engage in conduct that constituted, constitutes or would constitute:
-
-                              (i)  an offence against this Act; or
-
-                             (ii)  a contravention of a civil penalty provision; and
-
-                     (b)  is satisfied that it would be in the public interest to give the person a notice under this section.
-
-             (2)  The Regulator may, by written notice given to the person, require the person:
-
-                     (a)  to undertake, or arrange for another person to undertake, an audit of whichever of the following is specified in the notice:
-
-                              (i)  the person’s compliance with this Act;
-
-                             (ii)  one or more specified aspects of the person’s compliance with this Act; and
-
-                     (b)  to give the Regulator a written report setting out the results of the audit.
-
-             (3)  The notice must specify:
-
-                     (a)  if the notice requires the person to arrange another person to undertake the audit—requirements relating to the qualifications and independence of the other person; and
-
-                     (b)  the matters to be covered by the audit; and
-
-                     (c)  the period within which the audit must be undertaken; and
-
-                     (d)  the form and content of the report; and
-
-                     (e)  the period within which the report must be given to the Regulator.
-
-             (4)  A person contravenes this subsection if the person is subject to a requirement under subsection (2) and the person fails to comply with the requirement.
-
-             (5)  A person commits an offence of strict liability if the person contravenes subsection (4).
-
-                    Penalty:  30 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (6)  A person is liable to a civil penalty if the person contravenes subsection (4).
-
-                    Civil penalty:          30 penalty units.
-
-             (7)  A notice under subsection (2) is not a legislative instrument.
-
-### Division 3B—Remedial action
-
-##### <a id="43B"></a>43B  Remedial action
-
-             (1)  This section applies if the Regulator:
-
-                     (a)  suspects, on reasonable grounds, that a person has engaged, is engaging or is proposing to engage in conduct that constituted, constitutes or would constitute:
-
-                              (i)  an offence against this Act; or
-
-                             (ii)  a contravention of a civil penalty provision; and
-
-                     (b)  is satisfied that it would be in the public interest to give the person a notice under this section.
-
-             (2)  The Regulator may give the person a written notice requiring the person, within a specified period, to take specified action directed toward either or both of the following:
-
-                     (a)  remedying the conduct;
-
-                     (b)  ensuring that the person does not engage, or continue to engage, in such conduct in the future.
-
-             (3)  A person contravenes this subsection if the person is subject to a requirement under subsection (2) and the person fails to comply with the requirement.
-
-             (4)  A person commits an offence of strict liability if the person contravenes subsection (3).
-
-                    Penalty:  30 penalty units.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (5)  A person is liable to a civil penalty if the person contravenes subsection (3).
-
-                    Civil penalty:          30 penalty units.
-
-             (6)  A notice under subsection (2) is not a legislative instrument.
-
-## 28  Subsections 44(1) and (2)
-
-After “against this Act”, insert “or a contravention of a civil penalty provision”.
-
-## 29  After Part 8
-
-Insert:
-
-## Part 8A—Civil penalty orders
-
-### Division 1—Obtaining a civil penalty order
-
-##### <a id="44A"></a>44A  Civil penalty orders
-
-Application for order
-
-             (1)  The Regulator may apply to a relevant court for an order that a person, who is alleged to have contravened a civil penalty provision, pay the Commonwealth a pecuniary penalty.
-
-             (2)  The Regulator must make the application within 4 years of the alleged contravention.
-
-Court may order person to pay pecuniary penalty
-
-             (3)  If the relevant court is satisfied that the person has contravened the civil penalty provision, the court may order the person to pay to the Commonwealth such pecuniary penalty for the contravention as the court determines to be appropriate.
-
-Note:          Subsection (5) sets out the maximum penalty that the court may order the person to pay.
-
-             (4)  An order under subsection (3) is a **_civil penalty order_**.
-
-Determining pecuniary penalty
-
-             (5)  The pecuniary penalty must not be more than:
-
-                     (a)  if the person is a body corporate—5 times the pecuniary penalty specified for the civil penalty provision; and
-
-                     (b)  otherwise—the pecuniary penalty specified for the civil penalty provision.
-
-             (6)  In determining the pecuniary penalty, the relevant court may take into account all relevant matters, including:
-
-                     (a)  the nature and extent of the contravention; and
-
-                     (b)  the nature and extent of any loss or damage suffered because of the contravention; and
-
-                     (c)  the circumstances in which the contravention took place; and
-
-                     (d)  whether the person has previously been found by a court  to have engaged in any similar conduct.
-
-##### <a id="44B"></a>44B  Civil enforcement of penalty
-
-             (1)  A pecuniary penalty is a debt payable to the Commonwealth.
-
-             (2)  The Commonwealth may enforce a civil penalty order as if it were an order made in civil proceedings against the person to recover a debt due by the person. The debt arising from the order is taken to be a judgement debt.
-
-##### <a id="44C"></a>44C  Conduct contravening more than one civil penalty provision
-
-             (1)  If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Part against a person in relation to the contravention of any one or more of those provisions.
-
-             (2)  However, the person is not liable to more than one pecuniary penalty under this Part in relation to the same conduct.
-
-##### <a id="44D"></a>44D  Multiple contraventions
-
-             (1)  A relevant court may make a single civil penalty order against a person for multiple contraventions of a civil penalty provision if proceedings for the contraventions are founded on the same facts, or if the contraventions form, or are part of, a series of contraventions of the same or a similar character.
-
-Note:          For continuing contraventions of civil penalty provisions, see section 44N.
-
-             (2)  However, the penalty must not exceed the sum of the maximum penalties that could be ordered if a separate penalty were ordered for each of the contraventions.
-
-##### <a id="44E"></a>44E  Proceedings may be heard together
-
-                   A relevant court may direct that 2 or more proceedings for civil penalty orders are to be heard together.
-
-##### <a id="44F"></a>44F  Civil evidence and procedure rules for civil penalty orders
-
-                   A relevant court must apply the rules of evidence and procedure for civil matters when hearing proceedings for a civil penalty order.
-
-##### <a id="44G"></a>44G  Contravening a civil penalty provision is not an offence
-
-                   A contravention of a civil penalty provision is not an offence.
-
-### Division 2—Civil proceedings and criminal proceedings
-
-##### <a id="44H"></a>44H  Civil proceedings after criminal proceedings
-
-                   A relevant court may not make a civil penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is the same, or substantially the same, as the conduct constituting the contravention.
-
-##### <a id="44J"></a>44J  Criminal proceedings during civil proceedings
-
-             (1)  Proceedings for a civil penalty order against a person for a contravention of a civil penalty provision are stayed if:
-
-                     (a)  criminal proceedings are commenced or have already been commenced against the person for an offence; and
-
-                     (b)  the offence is constituted by conduct that is the same, or substantially the same, as the conduct alleged to constitute the contravention.
-
-             (2)  The proceedings for the order (the **_civil proceedings_**) may be resumed if the person is not convicted of the offence. Otherwise:
-
-                     (a)  the civil proceedings are dismissed; and
-
-(b)  costs must not be awarded in relation to the civil proceedings.
-
-##### <a id="44K"></a>44K  Criminal proceedings after civil proceedings
-
-                   Criminal proceedings may be commenced against a person for conduct that is the same, or substantially the same, as conduct that would constitute a contravention of a civil penalty provision regardless of whether a civil penalty order has been made against the person in relation to the contravention.
-
-##### <a id="44L"></a>44L  Evidence given in civil proceedings not admissible in criminal proceedings
-
-             (1)  Evidence of information given, or evidence of production of documents by an individual, is not admissible in criminal proceedings against the individual if:
-
-                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a civil penalty order against the individual for an alleged contravention of a civil penalty provision (whether or not the order was made); and
-
-                     (b)  the conduct alleged to constitute the offence is the same, or substantially the same, as the conduct alleged to constitute the contravention.
-
-             (2)  However, subsection (1) does not apply to criminal proceedings in relation to the falsity of the evidence given by the individual in the proceedings for the civil penalty order.
-
-### Division 3—Miscellaneous
-
-##### <a id="44M"></a>44M  Ancillary contravention of civil penalty provisions
-
-             (1)  A person must not:
-
-                     (a)  attempt to contravene a civil penalty provision; or
-
-                     (b)  aid, abet, counsel or procure a contravention of a civil penalty provision; or
-
-                     (c)  induce (by threats, promises or otherwise) a contravention of a civil penalty provision; or
-
-                     (d)  be in any way, directly or indirectly, knowingly concerned in, or party to, a contravention of a civil penalty provision; or
-
-                     (e)  conspire with others to effect a contravention of a civil penalty provision.
-
-Note:          Section 44Q (which provides that a person’s state of mind does not need to be proven in relation to a civil penalty provision) does not apply to subsection (1) of this section.
-
-Civil penalty
-
-             (2)  A person who contravenes subsection (1) in relation to a civil penalty provision is taken to have contravened the provision.
-
-##### <a id="44N"></a>44N  Continuing contraventions of civil penalty provisions
-
-             (1)  If an act or thing is required under a civil penalty provision to be done:
-
-                     (a)  within a particular period; or
-
-                     (b)  before a particular time;
-
-then the obligation to do that act or thing continues until the act or thing is done (even if the period has expired or the time has passed).
-
-             (2)  A person who contravenes a civil penalty provision that requires an act or thing to be done:
-
-                     (a)  within a particular period; or
-
-                     (b)  before a particular time;
-
-commits a separate contravention of that provision in respect of each day during which the contravention occurs (including the day the relevant civil penalty order is made or any later day).
-
-##### <a id="44P"></a>44P  Mistake of fact
-
-             (1)  A person is not liable to have a civil penalty order made against the person for a contravention of a civil penalty provision if:
-
-                     (a)  at or before the time of the conduct constituting the contravention, the person:
-
-                              (i)  considered whether or not facts existed; and
-
-                             (ii)  was under a mistaken but reasonable belief about those facts; and
-
-                     (b)  had those facts existed, the conduct would not have constituted a contravention of the civil penalty provision.
-
-             (2)  For the purposes of subsection (1), a person may be regarded as having considered whether or not facts existed if:
-
-                     (a)  the person had considered, on a previous occasion, whether those facts existed in the circumstances surrounding that occasion; and
-
-                     (b)  the person honestly and reasonably believed that the circumstances surrounding the present occasion were the same, or substantially the same, as those surrounding the previous occasion.
-
-             (3)  A person who wishes to rely on subsection (1) or (2) in proceedings for a civil penalty order bears an evidential burden in relation to that matter.
-
-##### <a id="44Q"></a>44Q  State of mind
-
-             (1)  In proceedings for a civil penalty order against a person for a contravention of a civil penalty provision (other than section 32A or subsection 44M(1)), it is not necessary to prove:
-
-                     (a)  the person’s intention; or
-
-                     (b)  the person’s knowledge; or
-
-                     (c)  the person’s recklessness; or
-
-                     (d)  the person’s negligence; or
-
-                     (e)  any other state of mind of the person.
-
-             (2)  Subsection (1) does not affect the operation of section 44P (which is about mistake of fact).
-
-## 30  Paragraphs 47(b) and 58(2)(b)
-
-Repeal the paragraphs, substitute:
-
-                     (b)  investigating:
-
-                              (i)  a possible contravention of a civil penalty provision; or
-
-                             (ii)  a possible offence against this Act.
-
-## 31  At the end of section 60
-
-Add “or a contravention of a civil penalty provision”.
-
-## 32  At the end of subsection 77(2)
-
-Add:
-
-             ; and (c)  declare that specified provisions of the regulations are civil penalty provisions for the purposes of this Act, and prescribe penalties for contraventions of such provisions that do not exceed:
-
-                              (i)  for a body corporate—250 penalty units; or
-
-                             (ii)  in any other case—50 penalty units.
-
-The following amendments commence on 1 November 2013:
-
-## Schedule 3
-
-## 20  Subsections 19(2) to (4)
-
-Repeal the subsections, substitute:
-
-             (2)  The **_WELS standard_** must require the products to be registered for the purposes of specified supplies of the product.
-
-             (3)  The **_WELS standard_** may require one or more of the following:
-
-                     (a)  that the products comply with specified minimum water efficiency requirements for the purposes of specified supplies of the product;
-
-                     (b)  that the products comply with specified minimum general performance requirements for the purposes of specified supplies of the product;
-
-                     (c)  that the products comply with one or more requirements relating to plumbing imposed by or under a law of a State or Territory, as in force from time to time;
-
-                     (d)  that a specified type of person or body certifies that the products comply with one or more requirements relating to plumbing imposed by or under a law of a State or Territory, as in force from time to time;
-
-                     (e)  that the products be WELS‑labelled for the purposes of specified supplies of the product.
-
-As at 22 July 2012 the amendments are not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Water Efficiency Labelling and Standards Amendment (Scheme Enhancements) Act 2012 (No. 108, 2012)_
-
-## Schedule 3
-
-## 21  Application of amendments
-
-(1)       The amendment made by item 9 of this Schedule applies in relation to determinations made after the commencement of that item.
-
-(2)       The amendment made by item 14 of this Schedule applies in relation to a reviewable decision made after the commencement of that item.
-
-(3)       The amendment made by item 20 applies in relation to WELS standards made after the commencement of that item.
-
-## 22  Transitional provision
-
-Despite the repeal of section 21 of the _Water Efficiency Labelling and Standards Act 2005_ by item 11 of this Schedule, the Commonwealth Secretary continues to be the Regulator after the commencement of that item until a designation is made under section 21 of that Act as in force after that commencement.
-
-The following provisions commence on 22 January 2013 unless proclaimed earlier:
-
-## Schedule 1
-
-## 5  Definitions
-
-In this Part:
-
-**_commencement_** means the commencement of this item.
-
-**_new WELS Act_** means the _Water Efficiency Labelling and Standards Act 2005_ as in force immediately after commencement.
-
-**_old WELS Act_** means the _Water Efficiency Labelling and Standards Act 2005_ as in force immediately before commencement.
-
-**_registration scheme_** means the scheme formulated under subsection 26(1) of the new WELS Act.
-
-## 6  Pending applications at commencement
-
-(1)       This item applies if a manufacturer made an application for registration of a WELS product under section 26 of the old WELS Act and, immediately before commencement:
-
-                     (a)  the Regulator had not registered the product under section 28 of that Act; and
-
-                     (b)  the Regulator had not refused to register the product under section 29 of that Act.
-
-(2)       The application is taken, immediately after commencement, to have been refused by the Regulator.
-
-(3)       If a registration fee accompanied the application, the Regulator must refund the fee to the manufacturer.
-
-(4)       Refunds of fees under subitem (3) are taken, for the purposes of section 66 of the new WELS Act, to be payments in connection with the performance of the Regulator’s functions under that Act.
-
-## 7  Transitioning existing registrations
-
-Application of item
-
-(1)       This item applies in relation to a WELS product that was registered within the meaning of the old WELS Act immediately before commencement.
-
-Transitioning registrations
-
-(2)       Immediately after commencement:
-
-                     (a)  the WELS product is no longer registered within the meaning of the old WELS Act; and
-
-                     (b)  all of the following apply:
-
-                              (i)  the product is taken, for the purposes of the new WELS Act, to be registered within the meaning of that Act;
-
-                             (ii)  the registration scheme applies in relation to the product as if the product were registered within the meaning of the new WELS Act;
-
-                            (iii)  the applicable WELS standard for the product is the applicable WELS standard under which the product was registered within the meaning of the old WELS Act.
-
-(3)       The WELS product stops being registered within the meaning of the new WELS Act at the end of 80 days after commencement, unless the fee payable in accordance with the registration scheme is paid within that period.
-
-(4)       Paragraph (2)(b) and subitem (3) have effect despite anything in the registration scheme.
-
-Refund of fees paid under old WELS Act
-
-(5)       If a fee accompanied the application that was made under the old WELS Act for registration of the WELS product, the Regulator must pay the person in relation to whom the product is registered an amount worked out using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2012C00623/Html/516c1bed-684b-4364-a3d4-f55f31d5ea8a_files/image002.gif)
-
-where:
-
-**_N_** is the number (which may be zero) of whole years, as determined immediately before commencement, for which the product was registered within the meaning of the old WELS Act.
-
-(6)       The Regulator may set off an amount payable under subitem (5) against the amount of the fee payable under subitem (3).
-
-(7)       Payments of amounts under subitem (5) are taken, for the purposes of section 66 of the new WELS Act, to be payments in connection with the performance of the Regulator’s functions under that Act.
-
-Regulations
-
-(8)       The Governor‑General may make regulations prescribing additional matters of a transitional nature (including any saving or application provisions) relating to Part 6 of the new WELS Act.
-
-The following provisions commence on 23 July 2012:
-
-## Schedule 2
-
-## 33  Application provisions
-
-(1)       Section 32A of the _Water Efficiency Labelling and Standards Act 2005_, as inserted by item 8 of this Schedule, applies in relation to applications made after the commencement of this item.
-
-(2)       Sections 43A and 43B of the _Water Efficiency Labelling and Standards Act 2005_, as inserted by item 27 of this Schedule, apply in relation to conduct engaged in after the commencement of this item.
 
  
