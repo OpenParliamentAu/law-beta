@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00011/Html/50d05b22-bcc8-42ca-b59f-a102d407b6fe_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00159/Html/bcc2685e-a23e-49a6-a639-15fae99bc11b_files/image001.gif)
 
 # Do Not Call Register Act 2006
 
 **Act No. 88 of 2006 as amended**
 
-This compilation was prepared on 7 January 2013
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 24 January 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -137,7 +138,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [1](#1).            Object
 
-[2](#2).            Government bodies and charities
+[2](#2).            Government bodies, religious organisations and charities
 
 [3](#3).            Political parties, independent members of parliament, candidates etc 
 
@@ -153,7 +154,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [1](#1).            Object
 
-[2](#2).            Government bodies and charities
+[2](#2).            Government bodies, religious organisations and charities
 
 [3](#3).            Political parties, independent members of parliament, candidates etc 
 
@@ -613,8 +614,6 @@ Note:          For treatment of partnerships, see section 58
                      (a)  publish on the internet; and
 
                      (b)  publish to the public or a section of the public.
-
-                    <a name="regist-chariti"></a>**_registered charity_** means an entity that is registered under the _Australian Charities and Not‑for‑profits Commission Act 2012_ as the type of entity mentioned in column 1 of item 1 of the table in subsection 25‑5(5) of that Act.
 
                     <a name="regist-polit-parti"></a>**_registered political party_** means a political party, or a branch or division of a political party, that is registered under:
 
@@ -1676,15 +1675,17 @@ _Note:       See section 4._
 
 Note:          Designated telemarketing calls are exempt from section 11 (unsolicited telemarketing calls must not be made to a number registered on the Do Not Call Register).
 
-##### <a id="2"></a>2  Government bodies and charities
+##### <a id="2"></a>2  Government bodies, religious organisations and charities
 
                    For the purposes of this Act, a telemarketing call is a **_designated telemarketing call_** if:
 
-                     (a)  the making of the call is authorised by either of the following bodies:
+                     (a)  the making of the call is authorised by any of the following bodies:
 
                               (i)  a government body;
 
-                             (ii)  a registered charity; and
+                             (ii)  a religious organisation;
+
+                            (iii)  a charity or charitable institution; and
 
                      (b)  if the call relates to goods or services—the body is the supplier, or prospective supplier, of the goods or services; and
 
@@ -1904,15 +1905,17 @@ _Note:       See section 4._
 
 Note:          Designated marketing faxes are exempt from section 12B (unsolicited marketing faxes must not be sent to a number registered on the Do Not Call Register).
 
-##### <a id="2"></a>2  Government bodies and charities
+##### <a id="2"></a>2  Government bodies, religious organisations and charities
 
                    For the purposes of this Act, a marketing fax is a **_designated marketing fax_** if:
 
-                     (a)  the sending of the fax is authorised by either of the following bodies:
+                     (a)  the sending of the fax is authorised by any of the following bodies:
 
                               (i)  a government body;
 
-                             (ii)  a registered charity; and
+                             (ii)  a religious organisation;
+
+                            (iii)  a charity or charitable institution; and
 
                      (b)  if the fax relates to goods or services—the body is the supplier, or prospective supplier, of the goods or services; and
 
@@ -2613,7 +2616,7 @@ Remainder: Royal Assent</div>
     <div>1 Mar 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (item 137(a)): <i>(a)</i></div>
+    <div>Schedule 5 (item 137(a)): <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -2648,7 +2651,7 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 51–54): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 51–54): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -2668,24 +2671,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (item 547) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 179–185): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -2796,8 +2782,8 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -2844,7 +2830,7 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. Nos. 8, 46 and 103, 2010; No. 46, 2011; No. 169, 2012</div>
+    <div>am. Nos. 8, 46 and 103, 2010; No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3009,22 +2995,6 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>Heading to c. 2</div>
-  </td>
-  <td>
-    <div>rs. No. 169, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 2</div>
-  </td>
-  <td>
-    <div>am. No. 169, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Subheads. to c. 4(1), (2)</div>
   </td>
   <td>
@@ -3057,71 +3027,7 @@ _(a)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div>C. 1</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to c. 2</div>
-  </td>
-  <td>
-    <div>rs. No. 169, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 2</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 169, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 3</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 4</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 5</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>C. 7</div>
+    <div>Cc. 1–7</div>
   </td>
   <td>
     <div>ad. No. 46, 2010</div>
