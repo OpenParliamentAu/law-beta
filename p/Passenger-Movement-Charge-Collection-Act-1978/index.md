@@ -1,7 +1,7 @@
 
 Passenger Movement Charge Collection Act 1978
 Act No. 119 of 1978 as amended 
-This compilation was prepared on 7 February 2001 taking into account amendments up to Act No. 137 of 2000
+This compilation was prepared on 2 May 2000 taking into account amendments up to Act No. 25 of 2000
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -24,6 +24,7 @@ Contents
 14	Delegation	9
 15	Regulations	10
 Notes		11
+
 An Act relating to charge imposed in respect of the departure of persons from Australia
 1  Short title [see Note 1]
 		This Act may be cited as the Passenger Movement Charge Collection Act 1978.
@@ -233,11 +234,6 @@ Timor Gap Treaty (Transitional Arrangements) Act 2000
 3 Apr 2000
 Ss. 4-6 and Schedule 2  (items 38, 39): (c)
 Ss. 4-6  [see Table A]
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
-137, 2000
-24 Nov 2000
-Schedule 2 (items 310, 418, 419): [see (d), Note 2 and Table A]
-Sch. 2 (items 418, 419) [see Table A]
 (a)	The Passenger Movement Charge Collection Act 1978 was amended by section 99 only of the Civil Aviation Act 1988, subsection 2(2) of which provides as follows:
 	(2)	Part III, section 98 and Part X, and the amendments made by Part IX, commence on a day or days to be fixed by Proclamation.
 (b)	The Passenger Movement Charge Collection Act 1978 was amended by section 85 only of the Migration Legislation Amendment Act 1994, subsection 2(3) of which provides as follows:
@@ -245,9 +241,6 @@ Sch. 2 (items 418, 419) [see Table A]
 	Section 3 commenced on 1 September 1994.
 (c)	The Passenger Movement Charge Collection Act 1978 was amended by Schedule 2 (items 38 and 39) only of the Timor Gap Treaty (Transitional Arrangements) Act 2000, subsection 2(2) of which provides as follows:
 	(2)	Sections 3 to 7 and Schedules 1 and 2 (other than items 18 to 25 of Schedule 2) are taken to have commenced at the transition time. [see Table A]
-(d)	The Passenger Movement Charge Collection Act 1978 was amended by Schedule 2 (item 310) only of the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000, subsections 2(2) and (3) of which provide as follows:
-	(2)	Subject to this section, the provisions of this Act that are not covered by subsection (1) commence on a day to be fixed by Proclamation. [see Note 2]
-	(3)	If item 15 of Schedule 1 to this Act does not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, the provisions of this Act that are not covered by subsection (1) commence on the first day after the end of that period. This subsection has effect subject to the following subsections of this section. [see Note 2]
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -283,13 +276,6 @@ am. No. 38, 1986; No. 60, 1994
 S. 15	
 am. No. 48, 1988; No. 159, 1994
 
-Note 2
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following amendment commences on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-310  Subsection 8(2)
-Repeal the subsection.
-As at 7 February 2001 the amendment is not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Timor Gap Treaty (Transitional Arrangements) Act 2000  (No. 25, 2000)
@@ -307,21 +293,4 @@ Treaty has the meaning given by subsection 5(1) of the Petroleum (Australia‑In
 UNTAET means the United Nations Transitional Administration in East Timor.
 6  Protection against retrospective criminal liability
 		A person does not commit an offence if the person would not have committed the offence had the amendments made by the items in Schedules 1 and 2 (other than items 18 to 25 of Schedule 2) commenced on the day on which this Act received the Royal Assent (rather than commencing at the transition time).
-
-Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
-The following provisions commence on 24 May 2001 unless proclaimed earlier:
-Schedule 2
-418  Transitional—pre‑commencement offences
-(1)	Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
-	(a)	an offence committed before the commencement of this item; or
-	(b)	proceedings for an offence alleged to have been committed before the commencement of this item; or
-	(c)	any matter connected with, or arising out of, such proceedings;
-as if the amendment or repeal had not been made.
-(2)	Subitem (1) does not limit the operation of section 8 of the Acts Interpretation Act 1901.
-419  Transitional—pre‑commencement notices
-If:
-	(a)	a provision in force immediately before the commencement of this item required that a notice set out the effect of one or more other provisions; and
-	(b)	any or all of those other provisions are repealed by this Schedule; and
-	(c)	the first‑mentioned provision is amended by this Schedule;
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
