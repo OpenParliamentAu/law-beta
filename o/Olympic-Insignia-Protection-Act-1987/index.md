@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00189/Html/061c2a1e-eabf-428d-a554-78d9cc0c2af9_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00907/Html/c5a6b6e6-43c8-4f1f-9239-3ee15660eade_files/image001.gif)
 
 # Olympic Insignia Protection Act 1987
 
 **Act No. 27 of 1987 as amended**
 
-This compilation was prepared on 31 January 2012
+This compilation was prepared on 11 November 2011
  taking into account amendments up to Act No. 127 of 2011
 
 The text of any of those amendments not in force 
@@ -454,7 +454,7 @@ the AOC shall, at the end of that period, be deemed to have granted that consent
 
 ##### <a id="9"></a>9  Remedies for infringement of monopoly in protected design
 
-                   The relief that the Federal Court may grant in an action or proceeding for the infringement of the monopoly in a protected design includes an injunction (subject to such terms, if any, as the Court thinks fit) and, at the option of the plaintiff, either damages or an account of profits.
+                   The relief that the Federal Court may grant in an action or proceeding for the infringement of the monopoly in a protected design includes an injunction (subject to such terms, if any, as the Court thinks fit) and, at the option of the plaintiff, either damages or an account of profits.
 
 ##### <a id="9A"></a>9A  Australian Consumer Law  provides further remedies
 
@@ -849,6 +849,8 @@ An advertisement may:
                      (a)  a broadcasting service within the meaning of the _Broadcasting Services Act 1992_; or
 
                      (b)  something that would be such a broadcasting service if the definition of **_broadcasting service_** in subsection 6(1) of that Act were amended by omitting all the words from and including “but does not include” to the end of the definition.
+
+                    <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="design-owner"></a>**_designated owner_**, in relation to goods imported into Australia, means:
 
@@ -1848,7 +1850,7 @@ Company names
 
 Subsection 2(1)
 
-![](http://www.comlaw.gov.au/Details/C2012C00189/Html/061c2a1e-eabf-428d-a554-78d9cc0c2af9_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00907/Html/c5a6b6e6-43c8-4f1f-9239-3ee15660eade_files/image002.gif)
 
 # Notes to the _Olympic Insignia Protection Act 1987_
 
@@ -1856,9 +1858,7 @@ Subsection 2(1)
 
 The _Olympic Insignia Protection Act 1987_ as shown in this compilation comprises Act No. 27, 1987 amended as indicated in the Tables below.
 
-For application, saving or transitional provisions made by Schedule 1 (item 6) of the _Business Names Registration (Application of Consequential Amendments) Act 2011_, _see_ Act No. 172, 2011.
-
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -2023,7 +2023,7 @@ Schedule 5 (item 137(a)): <i>(a)</i></div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 893) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 893) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -2040,7 +2040,7 @@ Schedule 5 (item 137(a)): <i>(a)</i></div>
     <div>3 Nov 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 24): \[ <i>see</i>s. 2(1) and Note 2]</div>
+    <div>Schedule 2 (item 24): \[ <i>see</i>s. 2(1) and Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -2598,7 +2598,7 @@ of Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 7, 2006; No. 8, 2010; No. 46, 2011</div>
+    <div>am. No. 7, 2006; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2863,6 +2863,20 @@ No. 156, 2001</div>
 
 ### Note 2
 
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 893  Section 23 (definition of _continental shelf_)
+
+Repeal the definition.
+
+As at 11 November 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
 _Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
 
 The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
@@ -2879,13 +2893,15 @@ Repeal the subsection, substitute:
 
                      (b)  the name is registered in relation to the business under a law of the Commonwealth or a State or Territory relating to business names.
 
-As at 31 January 2012 the amendment is not incorporated in this compilation.
+As at 11 November 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
