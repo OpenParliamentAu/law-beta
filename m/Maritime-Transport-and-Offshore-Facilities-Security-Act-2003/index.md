@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00081/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00052/Html/MaritimeTransOffshoreFacilSecurity2003_WD02_image001.gif)
 
 # Maritime Transport and Offshore Facilities Security Act 2003
 
 **Act No. 131 of 2003 as amended**
 
-This compilation was prepared on 8 February 2009
+This compilation was prepared on 6 January 2009
  taking into account amendments up to Act No. 138 of 2008
 
 The text of any of those amendments not in force
@@ -192,6 +192,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [55](#55).          Secretary may direct participants to revise maritime security plans
 
+[56](#56).          Cancelling maritime security plans after 5 years
+
 [57](#57).          Cancelling inadequate maritime security plans
 
 [58](#58).          Cancelling for failure to comply with maritime security plans
@@ -241,6 +243,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [73](#73).          Ship operator may revise ship security plan
 
 [74](#74).          Secretary may direct operator to revise ship security plan
+
+[75](#75).          Cancelling ship security plans after 5 years
 
 [76](#76).          Cancelling inadequate ship security plans
 
@@ -347,6 +351,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [100N](#100N).     Participants may revise offshore security plans
 
 [100O](#100O).     Secretary may direct participants to revise offshore security plans
+
+[100P](#100P).      Cancelling offshore security plans after 5 years
 
 [100Q](#100Q).     Cancelling inadequate offshore security plans
 
@@ -1213,7 +1219,7 @@ Part 13 deals with miscellaneous matters.
 
                              (ii)  on or near a foreign ship regulated as an offshore facility.
 
-##### <a id="7"></a>7  Act to bind Crown
+##### <a id="7"></a>7  Act to bind Crown
 
              (1)  This Act binds the Crown in each of its capacities.
 
@@ -1268,8 +1274,6 @@ Part 13 deals with miscellaneous matters.
                     <a name="amsa-surveyor"></a>**_AMSA surveyor_** means a person appointed under section 190 of the _Navigation Act 1912_.
 
                     <a name="approved-issc-equival"></a>**_approved ISSC equivalent_** has the meaning given by subsection 91(3).
-
-                    <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
 
                     <a name="australian-ship"></a>**_Australian ship_** has the same meaning as in the _Shipping Registration Act 1981_.
 
@@ -1549,7 +1553,7 @@ Note:          A passenger ship may also be a cargo ship.
 
                     <a name="port"></a>**_port_** has the meaning given by section 12.
 
-                    <a name="port-facil"></a>**_port facility_** means an area of land or water, or land and water, within a security regulated port (including any buildings, installations or equipment in or on the area) used either wholly or partly in connection with the loading or unloading of security regulated ships.
+                    <a name="port-facil"></a>**_port facility_** means an area of land or water, or land and water, within a security regulated port (including any buildings, installations or equipment in or on the area) used either wholly or partly in connection with the loading or unloading of ships.
 
                     <a name="port-facil-oper"></a>**_port facility operator_** means a person who operates a port facility.
 
@@ -2533,7 +2537,7 @@ The approval of maritime security plans by the Secretary is dealt with in Divisi
 
 ##### <a id="42"></a>42  Who must have maritime security plans
 
-             (1)  The following maritime industry participants are required to have a maritime security plan:
+                   The following maritime industry participants are required to have a maritime security plan:
 
                      (a)  a port operator;
 
@@ -2545,12 +2549,6 @@ The approval of maritime security plans by the Secretary is dealt with in Divisi
 
 Note:          Part 4 deals with security plans for regulated Australian ships.
 
-             (2)  The Secretary may, by written notice given to a maritime industry participant, permit the participant to have more than one maritime security plan.
-
-             (3)  The notice must specify the operations or locations to be covered by each plan.
-
-             (4)  If the participant has more than one plan, the participant is required to have all of the plans specified in the notice.
-
 ##### <a id="43"></a>43  Offence—operating without a maritime security plan
 
              (1)  A maritime industry participant commits an offence if:
@@ -2559,7 +2557,7 @@ Note:          Part 4 deals with security plans for regulate
 
                      (b)  the participant operates as a participant of that kind; and
 
-                     (c)  there is not such a plan in force for the participant.
+                     (c)  there is no maritime security plan in force for the participant.
 
                     Penalty:  For a port operator or port facility operator—200 penalty units.
 
@@ -2577,7 +2575,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  the participant is required under section 42 to have a maritime security plan; and
 
-                     (b)  there is such a plan for the participant in force; and
+                     (b)  there is a maritime security plan for the participant in force; and
 
                      (c)  the participant fails to comply with the plan.
 
@@ -2643,13 +2641,9 @@ Note:          Obligations on regulated foreign ships are set 
 
              (1)  A maritime security plan for a maritime industry participant must:
 
-                     (a)  include a security assessment for:
+                     (a)  include a security assessment for the participant’s operation; and
 
-                              (i)  the participant’s operation; or
-
-                             (ii)  if the participant has more than one maritime security plan—the operations or locations covered by the plan; and
-
-                     (b)  set out the security activities or measures to be undertaken or implemented by the participant under the plan for maritime security levels 1, 2 and 3; and
+                     (b)  set out the security activities or measures to be undertaken or implemented by the participant for maritime security levels 1, 2 and 3; and
 
                      (c)  designate, by name or by reference to a position, all security officers responsible for implementing and maintaining the plan; and
 
@@ -2683,7 +2677,7 @@ Note:          The maritime security outcomes are set out in s
 
                      (b)  prepared in accordance with any requirements set out in the regulations.
 
-             (2)  A maritime security plan must include:
+             (2)  A maritime security plan must be accompanied by:
 
                      (a)  if the Secretary has not established any port security zones under subsection 102(1) within the area covered by the plan, and the participant proposes that the Secretary should establish such a zone or zones within that area—a map that shows each proposed zone; and
 
@@ -2695,7 +2689,7 @@ Note:          The maritime security outcomes are set out in s
 
                             (iii)  if the participant proposes that the Secretary should establish an additional port security zone within that area or revoke the establishment of an existing port security zone within that area—a map that shows the zones that would be established within that area if the proposal were accepted.
 
-             (3)  The maritime security plan for a port operator for a security regulated port must include a map of the whole security regulated port.
+             (3)  The map that accompanies a maritime security plan for a port operator must cover the whole security regulated port.
 
 ### Division 5—Approving, varying, revising and cancelling maritime security plans
 
@@ -2763,7 +2757,7 @@ Consideration period
 
 the plan comes into force when the notice is given.
 
-             (3)  The plan remains in force for a period of 5 years or such lesser period as the Secretary specifies in the notice of approval (which must be at least 12 months), unless before the end of that period:
+             (3)  The plan remains in force until:
 
                      (a)  the plan is replaced under subsection 54(4) or 55(4); or
 
@@ -2775,7 +2769,7 @@ the plan comes into force when the notice is given.
 
              (2)  The participant must set out the proposed variation in the notice.
 
-             (3)  The notice must include:
+             (3)  The notice must be accompanied by:
 
                      (a)  if the Secretary has established a port security zone or zones under subsection 102(1) within the area covered by the plan, and the participant proposes that such a zone be changed—a map that shows the proposed change; and
 
@@ -2786,8 +2780,6 @@ the plan comes into force when the notice is given.
                              (ii)  the participant proposes that the Secretary should establish an additional port security zone within that area or revoke the establishment of an existing port security zone within that area;
 
                             a map that shows the zones that would be established within that area if the proposal were accepted.
-
-          (3A)  The notice must be prepared in accordance with any requirements set out in the regulations.
 
              (4)  If the Secretary is satisfied that the plan, as varied, would continue to adequately address the relevant requirements under Division 4, the Secretary must:
 
@@ -2861,13 +2853,13 @@ the Secretary must, by written notice given to the participant, cancel the appro
 
 ##### <a id="54"></a>54  Participants may revise maritime security plans
 
-             (1)  If a maritime security plan for a maritime industry participant (the **_existing plan_**) is in force, the participant may, by written notice given to the Secretary, request the Secretary to approve another maritime security plan (the **_revised plan_**) in its place.
+             (1)  If a maritime industry participant has given the Secretary a maritime security plan, the participant may, by written notice given to the Secretary, request the Secretary to approve another maritime security plan (the **_revised plan_**).
 
              (2)  The notice must be accompanied by a copy of the revised plan.
 
              (3)  If a request is made in accordance with this section, sections 51 and 52 apply in relation to the revised plan.
 
-             (4)  If the revised plan comes into force, it replaces the existing plan.
+             (4)  If the revised plan comes into force, it replaces any other plan for the participant in force at that time.
 
 ##### <a id="55"></a>55  Secretary may direct participants to revise maritime security plans
 
@@ -2891,7 +2883,13 @@ the Secretary may, by written notice given to the participant, direct the partic
 
              (3)  If the participant does not give the Secretary the revised plan within the specified period, or within any further period allowed by the Secretary, the Secretary must, by written notice given to the participant, cancel the approval of the existing plan.
 
-             (4)  If the revised plan comes into force, it replaces the existing plan.
+             (4)  If the revised plan comes into force, it replaces any other plan for the participant in force at that time.
+
+##### <a id="56"></a>56  Cancelling maritime security plans after 5 years
+
+                   A maritime security plan for a maritime industry participant is cancelled 5 years after it comes into force, if it has not already ceased to be in force during that period.
+
+Note:          Under subsection 52(3), a plan ceases to be in force if it is replaced (see sections 54 and 55) or is cancelled (see, for example, sections 57, 58 and 59).
 
 ##### <a id="57"></a>57  Cancelling inadequate maritime security plans
 
@@ -3055,7 +3053,7 @@ Note:          The maritime security outcomes are set out in s
 
 ##### <a id="68"></a>68  Form of ship security plans
 
-                   A ship security plan must be:
+                   A ship security plan must be:
 
                      (a)  in writing; and
 
@@ -3127,7 +3125,7 @@ Consideration period
 
 the plan comes into force when the notice is given.
 
-             (3)  The plan remains in force for a period of 5 years or such lesser period as the Secretary specifies in the notice of approval (which must be at least 12 months), unless before the end of that period:
+             (3)  The plan remains in force until:
 
                      (a)  the plan is replaced under subsection 73(4) or 74(4); or
 
@@ -3138,8 +3136,6 @@ the plan comes into force when the notice is given.
              (1)  If a ship security plan for a regulated Australian ship is in force, the ship operator for the ship may, by written notice given to the Secretary, request the Secretary to vary the plan.
 
              (2)  The ship operator must set out the proposed variation in the notice.
-
-          (2A)  The notice must be prepared in accordance with any requirements set out in the regulations.
 
              (3)  If the Secretary is satisfied that the plan, as varied, would continue to adequately address the relevant requirements under Division 4, the Secretary must:
 
@@ -3244,6 +3240,12 @@ the Secretary may, by written notice given to the ship operator for the ship, di
              (3)  If the ship operator does not give the Secretary the revised plan within the specified period, or within any further period allowed by the Secretary, the Secretary must, by written notice given to the ship operator, cancel the approval of the existing plan.
 
              (4)  If the revised plan comes into force, it replaces any other plan for the ship in force at that time.
+
+##### <a id="75"></a>75  Cancelling ship security plans after 5 years
+
+                   A ship security plan for a regulated Australian ship is cancelled 5 years after it comes into force, if it has not already ceased to be in force during that period.
+
+Note:          Under subsection 71(3), a plan ceases to be in force if it is replaced (see sections 73 and 74) or is cancelled (see, for example, sections 76, 77 and 78).
 
 ##### <a id="76"></a>76  Cancelling inadequate ship security plans
 
@@ -3711,7 +3713,7 @@ The approval of offshore security plans by the Secretary is dealt with in Divisi
 
 ##### <a id="100B"></a>100B  Who must have offshore security plans
 
-             (1)  The following offshore industry participants are required to have an offshore security plan:
+                   The following offshore industry participants are required to have an offshore security plan:
 
                      (a)  an offshore facility operator;
 
@@ -3719,19 +3721,13 @@ The approval of offshore security plans by the Secretary is dealt with in Divisi
 
                      (c)  a particular participant prescribed in the regulations.
 
-             (2)  The Secretary may, by written notice given to an offshore industry participant, permit the participant to have more than one offshore security plan.
-
-             (3)  The notice must specify the operations or locations to be covered by each plan.
-
-             (4)  If the participant has more than one plan, the participant is required to have all of the plans specified in the notice.
-
 ##### <a id="100C"></a>100C  Offence—operating without an offshore security plan
 
              (1)  An offshore industry participant commits an offence if:
 
                      (a)  the participant is required under section 100B to have an offshore security plan; and
 
-                     (b)  there is not such a plan in force for the participant.
+                     (b)  there is no offshore security plan in force for the participant.
 
                     Penalty:  For an offshore facility operator—200 penalty units.
 
@@ -3749,7 +3745,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  the participant is required under section 100B to have an offshore security plan; and
 
-                     (b)  there is such a plan for the participant in force; and
+                     (b)  there is an offshore security plan for the participant in force; and
 
                      (c)  the participant fails to comply with the plan.
 
@@ -3815,13 +3811,9 @@ Note:          Obligations on regulated foreign ships are set 
 
              (1)  An offshore security plan for an offshore industry participant must:
 
-                     (a)  include a security assessment for:
+                     (a)  include a security assessment for the participant’s operation; and
 
-                              (i)  the participant’s operation; or
-
-                             (ii)  if the participant has more than one offshore security plan—the operations or locations covered by the plan; and
-
-                     (b)  set out the security activities or measures to be undertaken or implemented by the participant under the plan for maritime security levels 1, 2 and 3; and
+                     (b)  set out the security activities or measures to be undertaken or implemented by the participant for maritime security levels 1, 2 and 3; and
 
                      (c)  designate, by name or by reference to a position, all security officers responsible for implementing and maintaining the plan; and
 
@@ -3857,7 +3849,7 @@ Note:          The maritime security outcomes are set out in s
 
                      (b)  prepared in accordance with any requirements set out in the regulations.
 
-             (2)  An offshore security plan must include:
+             (2)  An offshore security plan must be accompanied by:
 
                      (a)  information on the location of each offshore facility to which the plan relates; and
 
@@ -3937,7 +3929,7 @@ Consideration period
 
 the plan comes into force when the notice is given.
 
-             (3)  The plan remains in force for a period of 5 years or such lesser period as the Secretary specifies in the notice of approval (which must be at least 12 months), unless before the end of that period:
+             (3)  The plan remains in force until:
 
                      (a)  the plan is replaced under subsection 100N(4) or 100O(4); or
 
@@ -3949,7 +3941,7 @@ the plan comes into force when the notice is given.
 
              (2)  The participant must set out the proposed variation in the notice.
 
-             (3)  The notice must include:
+             (3)  The notice must be accompanied by:
 
                      (a)  if the Secretary has established an offshore security zone or zones under subsection 113A(1) within or around an offshore facility to which the plan relates, and the participant proposes that such a zone be changed—information on the proposed change; and
 
@@ -3960,8 +3952,6 @@ the plan comes into force when the notice is given.
                              (ii)  the participant proposes that the Secretary should establish an additional offshore security zone, or revoke the establishment of an existing offshore security zone, within or around the facility;
 
                             information on the zones within or around the facility if the proposal were accepted.
-
-          (3A)  The notice must be prepared in accordance with any requirements set out in the regulations.
 
 (4)  If the Secretary is satisfied that the plan, as varied, would continue to adequately address the relevant requirements under Division 4, the Secretary must:
 
@@ -4035,13 +4025,13 @@ the Secretary must, by written notice given to the participant, cancel the appro
 
 ##### <a id="100N"></a>100N  Participants may revise offshore security plans
 
-             (1)  If an offshore security plan for an offshore industry participant (the **_existing plan_**) is in force, the participant may, by written notice given to the Secretary, request the Secretary to approve another offshore security plan (the **_revised plan_**) in its place.
+             (1)  If an offshore industry participant has given the Secretary an offshore security plan, the participant may, by written notice given to the Secretary, request the Secretary to approve another offshore security plan (the **_revised plan_**).
 
              (2)  The notice must be accompanied by a copy of the revised plan.
 
              (3)  If a request is made in accordance with this section, sections 100K and 100L apply in relation to the revised plan.
 
-             (4)  If the revised plan comes into force, it replaces the existing plan.
+             (4)  If the revised plan comes into force, it replaces any other plan for the participant in force at that time.
 
 ##### <a id="100O"></a>100O  Secretary may direct participants to revise offshore security plans
 
@@ -4065,7 +4055,13 @@ the Secretary may, by written notice given to the participant, direct the partic
 
              (3)  If the participant does not give the Secretary the revised plan within the specified period, or within any further period allowed by the Secretary, the Secretary must, by written notice given to the participant, cancel the approval of the existing plan.
 
-             (4)  If the revised plan comes into force, it replaces the existing plan.
+             (4)  If the revised plan comes into force, it replaces any other plan for the participant in force at that time.
+
+##### <a id="100P"></a>100P  Cancelling offshore security plans after 5 years
+
+                   An offshore security plan for an offshore industry participant is cancelled 5 years after it comes into force, if it has not already ceased to be in force during that period.
+
+Note:          Under subsection 100L(3), a plan ceases to be in force if it is replaced (see sections 100N and 100O) or is cancelled (see, for example, sections 100Q, 100R, 100S and 100T).
 
 ##### <a id="100Q"></a>100Q  Cancelling inadequate offshore security plans
 
@@ -4497,19 +4493,19 @@ The regulations may prescribe different types of port, ship, on-board and offsho
 
           (2A)  If:
 
-                     (a)  a maritime security plan for a port operator for a security regulated port includes a map in accordance with paragraph 49(2)(a) or subparagraph 49(2)(b)(ii) or (iii); and
+                     (a)  a maritime security plan for a port operator for a security regulated port is accompanied by a map in accordance with paragraph 49(2)(a) or subparagraph 49(2)(b)(ii) or (iii); and
 
                      (b)  the Secretary gives the port operator notice under paragraph 51(1)(b) approving the plan;
 
-the Secretary is taken to have given the port operator a notice under subsection (1) of this section (including a map as mentioned in subsection (2)) establishing, or revoking the establishment of, port security zones, as proposed by the operator in the map included in the plan.
+the Secretary is taken to have given the port operator a notice under subsection (1) of this section (including a map as mentioned in subsection (2)) establishing, or revoking the establishment of, port security zones, as proposed by the operator in the map accompanying the plan.
 
           (2B)  If:
 
-                     (a)  a notice under subsection 52A(1) requesting the Secretary to vary a maritime security plan for a port operator for a security regulated port includes a map in accordance with subsection 52A(3); and
+                     (a)  a notice under subsection 52A(1) requesting the Secretary to vary a maritime security plan for a port operator for a security regulated port is accompanied by a map in accordance with subsection 52A(3); and
 
                      (b)  the Secretary gives the port operator notice under paragraph 52A(4)(b) approving the variation;
 
-the Secretary is taken to have given the port operator a notice under subsection (1) of this section (including a map as mentioned in subsection (2)) establishing, or revoking the establishment of, port security zones, as proposed by the port operator in the map included in the notice requesting the variation.
+the Secretary is taken to have given the port operator a notice under subsection (1) of this section (including a map as mentioned in subsection (2)) establishing, or revoking the establishment of, port security zones, as proposed by the port operator in the map accompanying the notice requesting the variation.
 
 Note:          For variation and revocation of instruments under subsection (1), see subsection 33(3) of the _Acts Interpretation Act 1901_.
 
@@ -4787,19 +4783,19 @@ Note:          If a body corporate is convicted of an offence 
 
           (2A)  If:
 
-                     (a)  an offshore security plan for an offshore facility operator includes information in accordance with paragraph 100I(2)(b) or subparagraph 100I(2)(c)(ii) or (iii) relating to proposed changes to the offshore security zones within or around an offshore facility; and
+                     (a)  an offshore security plan for an offshore facility operator is accompanied by information in accordance with paragraph 100I(2)(b) or subparagraph 100I(2)(c)(ii) or (iii) relating to proposed changes to the offshore security zones within or around an offshore facility; and
 
                      (b)  the Secretary gives the offshore facility operator notice under paragraph 100K(1)(b) approving the plan;
 
-the Secretary is taken to have given the offshore facility operator a notice under subsection (1) of this section (including information as mentioned in subsection (2)) establishing, or revoking the establishment of, offshore security zones, as proposed by the offshore facility operator in the information included in the plan.
+the Secretary is taken to have given the offshore facility operator a notice under subsection (1) of this section (including information as mentioned in subsection (2)) establishing, or revoking the establishment of, offshore security zones, as proposed by the offshore facility operator in the information accompanying the plan.
 
           (2B)  If:
 
-                     (a)  a notice under subsection 100LA(1) requesting the Secretary to vary an offshore security plan for an offshore facility operator includes information in accordance with subsection 100LA(3); and
+                     (a)  a notice under subsection 100LA(1) requesting the Secretary to vary an offshore security plan for an offshore facility operator is accompanied by information in accordance with subsection 100LA(3); and
 
-                     (b)  the Secretary gives the offshore facility operator notice under paragraph 100LA(4)(b) approving the variation;
+                     (b)  the Secretary gives the port operator notice under paragraph 100LA(4)(b) approving the variation;
 
-the Secretary is taken to have given the offshore facility operator a notice under subsection (1) of this section (including information as mentioned in subsection (2)) establishing, or revoking the establishment of, offshore security zones, as proposed by the offshore facility operator in the information included in the notice requesting the variation.
+the Secretary is taken to have given the offshore facility operator a notice under subsection (1) of this section (including information as mentioned in subsection (2)) establishing, or revoking the establishment of, offshore security zones, as proposed by the offshore facility operator in the information accompanying the notice requesting the variation.
 
 Note:          For variation and revocation of instruments under subsection (1), see subsection 33(3) of the _Acts Interpretation Act 1901_.
 
@@ -6327,7 +6323,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (4)  Subsection (2) is an offence of strict liability.
 
-##### <a id="163C"></a>163C  Maritime security guards’ power to remove people from zones
+##### <a id="163C"></a>163C  Maritime security guards’ power to remove people from zones
 
              (1)  If:
 
@@ -7113,7 +7109,7 @@ requiring the ship operator or master to take specified action, or refrain from 
 
 ##### <a id="199"></a>199  Demerit points—maritime security plans
 
-             (1)  The demerit points system may provide that the approval of a maritime security plan of a maritime industry participant may be cancelled if the maritime industry participant accrues a prescribed number of demerit points.
+             (1)  The demerit points system may provide that the approval of the maritime security plan of a maritime industry participant may be cancelled if the maritime industry participant accrues a prescribed number of demerit points.
 
 Note:          Section 58 deals with the cancellation of the approval of maritime security plans under the demerit points system.
 
@@ -7141,7 +7137,7 @@ Note:          Section 77 deals with the cancellation of the
 
 ##### <a id="200A"></a>200A  Demerit points—offshore security plans
 
-             (1)  The demerit points system may provide that the approval of an offshore security plan of an offshore industry participant may be cancelled if the offshore industry participant accrues a prescribed number of demerit points.
+             (1)  The demerit points system may provide that the approval of the offshore security plan of an offshore industry participant may be cancelled if the offshore industry participant accrues a prescribed number of demerit points.
 
 Note:          Section 100R deals with the cancellation of the approval of offshore security plans under the demerit points system.
 
@@ -7167,7 +7163,7 @@ Note:          Section 100R deals with the cancellation of t
 
                      (c)  to direct a maritime industry participant or ship operator to revise a plan under section 55, 74 or 100O; or
 
-                     (d)  to cancel the approval of a maritime security plan, a ship security plan or an offshore security plan under section 57, 58, 76, 77, 100Q or 100R; or
+                     (d)  to cancel a maritime security plan, a ship security plan or an offshore security plan under section 57, 58, 76, 77, 100Q or 100R; or
 
                      (e)  to refuse an interim ISSC under section 86 or 100ZC; or
 
@@ -7560,7 +7556,7 @@ Schedule 2 (items 36, 37): Royal Assent</div>
     <div>8 Dec 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 12–59): 8 Feb 2009</div>
+    <div>Schedule 1 (items 12–59): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (items 29, 47)</div>
@@ -7835,7 +7831,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 67, 2005; Nos. 17 and 103, 2006; Nos. 117 and 138, 2008</div>
+    <div>am. No. 67, 2005; Nos. 17 and 103, 2006; No. 117, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8200,22 +8196,6 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
 </tr>
 <tr>
   <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 42–44</div>
-  </td>
-  <td>
-    <div>am. No. 138, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -8243,7 +8223,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8251,7 +8231,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 49</div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8299,7 +8279,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 52</div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8312,14 +8292,6 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 138, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 54</div>
   </td>
   <td>
@@ -8328,18 +8300,10 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 138, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 55</div>
   </td>
   <td>
-    <div>am. No. 67, 2005; No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 67, 2005; No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8348,14 +8312,6 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
   </td>
   <td>
     <div>rs. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 138, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8467,7 +8423,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 71</div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8476,14 +8432,6 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
   </td>
   <td>
     <div>ad. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 138, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8508,14 +8456,6 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
   </td>
   <td>
     <div>rs. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 138, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8640,14 +8580,6 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 138, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 3</b></div>
   </td>
   <td>
@@ -8683,7 +8615,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8707,7 +8639,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8752,7 +8684,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
 </tr>
 <tr>
   <td>
-    <div>S. 100K</div>
+    <div>Ss. 100K, 100L</div>
   </td>
   <td>
     <div>ad. No. 67, 2005</div>
@@ -8768,34 +8700,10 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
 </tr>
 <tr>
   <td>
-    <div>S. 100L</div>
-  </td>
-  <td>
-    <div>ad. No. 67, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 100LA</div>
   </td>
   <td>
     <div>ad. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 138, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8824,14 +8732,6 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 138, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 100O</div>
   </td>
   <td>
@@ -8843,7 +8743,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8860,14 +8760,6 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
   </td>
   <td>
     <div>rs. No. 109, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 138, 2008</div>
   </td>
 </tr>
 <tr>
@@ -9051,7 +8943,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 102</div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -9163,7 +9055,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div></div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -9792,26 +9684,10 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
 </tr>
 <tr>
   <td>
-    <div>S. 199</div>
-  </td>
-  <td>
-    <div>am. No. 138, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 200A</div>
   </td>
   <td>
     <div>ad. No. 67, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 138, 2008</div>
   </td>
 </tr>
 <tr>
@@ -9827,7 +9703,7 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>S. 201</div>
   </td>
   <td>
-    <div>am. No. 67, 2005; No. 109, 2006; No. 138, 2008</div>
+    <div>am. No. 67, 2005; No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -9854,6 +9730,247 @@ _(b)_ Subsection 2(1) (item 35) of the _Statute Law Revision Act 2007_ provides 
     <div>am. No. 67, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Transport Security Amendment (2008 Measures No. 1) Act 2008 
+ (No. 138, 2008)_
+
+The following amendments commence on 8 February 2009:
+
+## Schedule 1
+
+## 12  Section 10
+
+Insert:
+
+                    <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
+
+## 13  Section 10 (definition of _port facility_)
+
+Before “ships”, insert “security regulated”.
+
+## 14  Section 42
+
+Before “The”, insert “(1)”.
+
+## 15  At the end of section 42
+
+Add:
+
+             (2)  The Secretary may, by written notice given to a maritime industry participant, permit the participant to have more than one maritime security plan.
+
+             (3)  The notice must specify the operations or locations to be covered by each plan.
+
+             (4)  If the participant has more than one plan, the participant is required to have all of the plans specified in the notice.
+
+## 16  Paragraph 43(1)(c)
+
+Omit “no maritime security”, substitute “not such a”.
+
+## 17  Paragraph 44(1)(b)
+
+Omit “a maritime security”, substitute “such a”.
+
+## 18  Paragraph 47(1)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  include a security assessment for:
+
+                              (i)  the participant’s operation; or
+
+                             (ii)  if the participant has more than one maritime security plan—the operations or locations covered by the plan; and
+
+## 19  Paragraph 47(1)(b)
+
+After “participant”, insert “under the plan”.
+
+## 20  Subsection 49(2)
+
+Omit “be accompanied by”, substitute “include”.
+
+## 21  Subsection 49(3)
+
+Repeal the subsection, substitute:
+
+             (3)  The maritime security plan for a port operator for a security regulated port must include a map of the whole security regulated port.
+
+## 22  Subsection 52(3)
+
+Omit “until”, substitute “for a period of 5 years or such lesser period as the Secretary specifies in the notice of approval (which must be at least 12 months), unless before the end of that period”.
+
+## 23  Subsection 52A(3)
+
+Omit “be accompanied by”, substitute “include”.
+
+## 24  After subsection 52A(3)
+
+Insert:
+
+          (3A)  The notice must be prepared in accordance with any requirements set out in the regulations.
+
+## 25  Subsection 54(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If a maritime security plan for a maritime industry participant (the **_existing plan_**) is in force, the participant may, by written notice given to the Secretary, request the Secretary to approve another maritime security plan (the **_revised plan_**) in its place.
+
+## 26  Subsection 54(4)
+
+Repeal the subsection, substitute:
+
+             (4)  If the revised plan comes into force, it replaces the existing plan.
+
+## 27  Subsection 55(4)
+
+Repeal the subsection, substitute:
+
+             (4)  If the revised plan comes into force, it replaces the existing plan.
+
+## 28  Section 56
+
+Repeal the section.
+
+## 30  Subsection 71(3)
+
+Omit “until”, substitute “for a period of 5 years or such lesser period as the Secretary specifies in the notice of approval (which must be at least 12 months), unless before the end of that period”.
+
+## 31  After subsection 71A(2)
+
+Insert:
+
+          (2A)  The notice must be prepared in accordance with any requirements set out in the regulations.
+
+## 32  Section 75
+
+Repeal the section.
+
+## 33  Section 100B
+
+Before “The”, insert “(1)”.
+
+## 34  At the end of section 100B
+
+Add:
+
+             (2)  The Secretary may, by written notice given to an offshore industry participant, permit the participant to have more than one offshore security plan.
+
+             (3)  The notice must specify the operations or locations to be covered by each plan.
+
+             (4)  If the participant has more than one plan, the participant is required to have all of the plans specified in the notice.
+
+## 35  Paragraph 100C(1)(b)
+
+Omit “no offshore security”, substitute “not such a”.
+
+## 36  Paragraph 100D(1)(b)
+
+Omit “an offshore security”, substitute “such a”.
+
+## 37  Paragraph 100G(1)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  include a security assessment for:
+
+                              (i)  the participant’s operation; or
+
+                             (ii)  if the participant has more than one offshore security plan—the operations or locations covered by the plan; and
+
+## 38  Paragraph 100G(1)(b)
+
+After “participant”, insert “under the plan”.
+
+## 39  Subsection 100I(2)
+
+Omit “be accompanied by”, substitute “include”.
+
+## 40  Subsection 100L(3)
+
+Omit “until”, substitute “for a period of 5 years or such lesser period as the Secretary specifies in the notice of approval (which must be at least 12 months), unless before the end of that period”.
+
+## 41  Subsection 100LA(3)
+
+Omit “be accompanied by”, substitute “include”.
+
+## 42  After subsection 100LA(3)
+
+Insert:
+
+          (3A)  The notice must be prepared in accordance with any requirements set out in the regulations.
+
+## 43  Subsection 100N(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If an offshore security plan for an offshore industry participant (the **_existing plan_**) is in force, the participant may, by written notice given to the Secretary, request the Secretary to approve another offshore security plan (the **_revised plan_**) in its place.
+
+## 44  Subsection 100N(4)
+
+Repeal the subsection, substitute:
+
+             (4)  If the revised plan comes into force, it replaces the existing plan.
+
+## 45  Subsection 100O(4)
+
+Repeal the subsection, substitute:
+
+             (4)  If the revised plan comes into force, it replaces the existing plan.
+
+## 46  Section 100P
+
+Repeal the section.
+
+## 48  Paragraph 102(2A)(a)
+
+Omit “is accompanied by”, substitute “includes”.
+
+## 49  Subsection 102(2A)
+
+Omit “accompanying”, substitute “included in”.
+
+## 50  Paragraph 102(2B)(a)
+
+Omit “is accompanied by”, substitute “includes”.
+
+## 51  Subsection 102(2B)
+
+Omit “accompanying”, substitute “included in”.
+
+## 52  Paragraph 113A(2A)(a)
+
+Omit “is accompanied by”, substitute “includes”.
+
+## 53  Subsection 113A(2A)
+
+Omit “accompanying”, substitute “included in”.
+
+## 54  Paragraph 113A(2B)(a)
+
+Omit “is accompanied by”, substitute “includes”.
+
+## 55  Paragraph 113A(2B)(b)
+
+Omit “port”, substitute “offshore facility”.
+
+## 56  Subsection 113A(2B)
+
+Omit “accompanying”, substitute “included in”.
+
+## 57  Subsection 199(1)
+
+Omit “of the”, substitute “of a”.
+
+## 58  Subsection 200A(1)
+
+Omit “of the”, substitute “of an”.
+
+## 59  Paragraph 201(d)
+
+After “cancel”, insert “the approval of”.
+
+As at 6 January 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -9954,7 +10071,9 @@ _Maritime Transport and Offshore Facilities Security Amendment (Security Plans a
 * * *
 
 _Transport Security Amendment (2008 Measures No. 1) Act 2008 
- (No. 138, 2008)_
+ (No. 139, 2008)_
+
+_The following provisions commence on the 8 February 2009:_
 
 ## Schedule 1
 
