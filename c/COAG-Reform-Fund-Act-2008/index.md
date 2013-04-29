@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00053/Html/4a7b4f6b-35ec-49a1-a909-9f3b389792e4_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00718/Html/7f3d28b6-05b7-43ba-9453-19622775a76c_files/image001.gif)
 
 # COAG Reform Fund Act 2008
 
 **Act No. 156 of 2008 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 5 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
@@ -42,7 +42,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act to establish the COAG Reform Fund, and for other purposes
+An Act to establish the COAG Reform Fund, and for other purposes
 
 ## Part 1—Preliminary
 
@@ -154,7 +154,7 @@ Note 3:       The provision referred to in paragraph (1)(d) deals 
 
                      (b)  an SES employee, or acting SES employee, in a Department.
 
-Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 2B of the _Acts Interpretation Act 1901_.
+Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
 
              (2)  In exercising powers under a delegation, the delegate must comply with any directions of the Minister concerned.
 
@@ -243,7 +243,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (item 370) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (item 370) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -322,21 +322,29 @@ No. 12, 2009</div>
   <td>
     <div>ad. No. 12, 2009</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 8(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendment commences on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 370  Subsection 8(1) (note)
+
+Omit “section 17AA”, substitute “section 2B”.
+
+As at 5 September 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
