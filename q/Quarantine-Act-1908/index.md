@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00210/Html/Quarantine1908_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00050/Html/Quarantine1908_WD02_image001.gif)
 
 # Quarantine Act 1908
 
 **Act No. 3 of 1908 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 3 February 2010
+ taking into account amendments up to Act No. 131 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -855,7 +855,7 @@ and, to avoid doubt, includes mail of any kind and ballast water.
 
                     <a name="intern-health-regul"></a>**_International Health Regulations_** means the International Health Regulations 2005, done at Geneva on 23 May 2005, as in force for Australia from time to time.
 
-Note:          In 2008, the text of the International Health Regulations was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note:          In 2008, the text of the International Health Regulations was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
 
                     <a name="joint-petroleum-develop-area"></a>**_Joint Petroleum Development Area_** has the same meaning as in the _Petroleum (__Timor Sea__Treaty) Act 2003_.
 
@@ -4401,7 +4401,7 @@ that agent is liable to pay to the Commonwealth, on behalf of that owner, the re
 
                     Maximum penalty:    50 penalty units.
 
-##### <a id="63AA"></a>63AA  Additional provisions concerning agent’s liability under section 59A or 63
+##### <a id="63AA"></a>63AA  Additional provisions concerning agent’s liability under section 59A or 63
 
              (1)  If the master or owner of a vessel has met the liability to the Commonwealth:
 
@@ -7963,7 +7963,7 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
     <div>25 Oct 1996</div>
   </td>
   <td>
-    <div>Schedule 5 (items 126–132): Royal Assent <i>(h)</i></div>
+    <div>Schedule 5 (items 126–132): Royal Assent <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -8043,9 +8043,10 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
     <div>23 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–85, 
+    <div>Schedule 1 (items 1–85, 
 87–327): 23 June 2000 
-Schedule 1 (item 86): 16 July 2000 ( <i>see</i>s. 2(2)) Remainder: Royal Assent</div>
+Schedule 1 (item 86): 16 July 2000 ( <i>see</i>s. 2(2)) 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 43, 50, 65, 68, 73, 76, 81, 83, 85, 91, 93, 96, 98, 112, 114, 119, 143, 160, 165, 174, 180, 193, 201, 226, 265, 271, 290, 317, 320, 323) \[ <i>see</i>Table A]</div>
@@ -8498,23 +8499,6 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   </td>
   <td>
     <div>Schedule 5 (items 31–36): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 84): Royal Assent</div>
   </td>
   <td colspan="2">
     <div>—</div>
@@ -9192,7 +9176,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007; Nos. 68 and 117, 2008; No. 8, 2010</div>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007; Nos. 68 and 117, 2008</div>
   </td>
 </tr>
 <tr>
@@ -12847,7 +12831,7 @@ Add:
 
              (2)  While a vessel is detained under subsection (1), a person does not have the power of seizure provided for by section 123 of the _Personal Property Securities Act 2009_ in relation to the vessel.
 
-## 34  Subsection 69A(14)
+## 34  Subsection 69A(14)
 
 After “In this section”, insert “and subject to subsection (14A)”.
 
@@ -12865,7 +12849,7 @@ Insert:
 
                      (b)  is not in possession or control of the goods or premises at that time.
 
-As at 3 March 2010 the amendments are not incorporated in this compilation.
+As at 3 February 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -13180,7 +13164,8 @@ The amendment made by item 39 does not apply to costs incurred before the day 
 
 * * *
 
-_Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004 (No. 54, 2004)_
+_Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2004 
+ (No. 54, 2004)_
 
 ## Schedule 1
 
@@ -13228,7 +13213,7 @@ A Proclamation made under paragraph 13(1)(g) or (ga) of the _Quarantine Act 1908
 
 A Proclamation made under paragraph 13(1)(h) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 39 of this Schedule continues in force, on and after that date, as if it had been made under paragraph 13(1)(h) of that Act as amended by that item.
 
-## 70  Saving of Proclamations
+## 70  Saving of Proclamations
 
 A Proclamation made under subsection of 20B(1) of the _Quarantine Act 1908_ that was in force immediately before the date of commencement of item 69 of this Schedule continues in force on and after that date, as if it had been made under subsection 20B(1) of that Act as substituted by that item.
 
