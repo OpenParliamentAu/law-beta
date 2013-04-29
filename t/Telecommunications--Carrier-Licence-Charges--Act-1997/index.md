@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00383/Html/857BF3AE5D5C0E1CCA25702600149D17/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00293/Html/AFE1A1C382C46545CA256FE4000728F2/$FILE/image001.gif)
 
 # Telecommunications (Carrier Licence Charges) Act 1997
 
 **Act No. 49 of 1997 as amended**
 
-This compilation was prepared on 1 July 2005
+This compilation was prepared on 8 April 2005
 taking into account amendments up to Act No. 46 of 2005
 
 The text of any of those amendments not in force
@@ -21,7 +21,7 @@ Attorney-General’s Department, Canberra
 
 **Part 1—Introduction**
 
-[1](#1).            Short title _see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]
 
 [2](#2).            Commencement [_see_ Note 1]
 
@@ -55,6 +55,10 @@ Attorney-General’s Department, Canberra
 
 [15](#15).          Limit on total of charges [_see_ Note 2]
 
+**Part 4—Transitional**
+
+[16](#16).          Exercise of powers by AUSTEL before 1 July 1997—application charge
+
 **Notes** 
 
  
@@ -86,9 +90,9 @@ Attorney-General’s Department, Canberra
 
                    In this Act:
 
-                    <a name="accc"></a>**_ACCC_** means the Australian Competition and Consumer Commission.
+                    <a name="aca"></a>**_ACA_** means the Australian Communications Authority.
 
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+                    <a name="accc"></a>**_ACCC_** means the Australian Competition and Consumer Commission.
 
                     <a name="carrier"></a>**_carrier_** has the same meaning as in the _Telecommunications Act 1997_.
 
@@ -114,7 +118,7 @@ Attorney-General’s Department, Canberra
 
 ##### <a id="9"></a>9  Amount of charge
 
-             (1)  The amount of charge imposed on an application for a carrier licence is the amount ascertained in accordance with a written determination made by the ACMA.
+             (1)  The amount of charge imposed on an application for a carrier licence is the amount ascertained in accordance with a written determination made by the ACA.
 
              (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
@@ -140,7 +144,7 @@ Attorney-General’s Department, Canberra
 
 ##### <a id="14"></a>14  Amount of charge
 
-             (1)  The amount of charge imposed on a carrier licence is the amount ascertained in accordance with a written determination made by the ACMA.
+             (1)  The amount of charge imposed on a carrier licence is the amount ascertained in accordance with a written determination made by the ACA.
 
              (2)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
@@ -148,11 +152,11 @@ Attorney-General’s Department, Canberra
 
              (1)  The total of the charges that are imposed on carrier licences in force at the beginning of a financial year must not exceed the sum of:
 
-                     (a)  the amount determined, by a written instrument made by the ACMA, to be the proportion of the ACMA’s costs for the immediately preceding financial year that is attributable to the ACMA’s telecommunications functions and powers; and
+                     (a)  the amount determined, by a written instrument made by the ACA, to be the proportion of the ACA’s costs for the immediately preceding financial year that is attributable to the ACA’s telecommunications functions and powers; and
 
                      (b)  the amount determined, by a written instrument made by the ACCC, to be the proportion of the ACCC’s costs for the immediately preceding financial year that is attributable to the ACCC’s telecommunications functions and powers; and
 
-                     (c)  the amount determined, by a written instrument made by the ACMA, to be the proportion of the Commonwealth’s contribution to the budget of the International Telecommunication Union for the calendar year in which the beginning of the financial year occurs that is to be recovered from carriers; and
+                     (c)  the amount determined, by a written instrument made by the ACA, to be the proportion of the Commonwealth’s contribution to the budget of the International Telecommunication Union for the calendar year in which the beginning of the financial year occurs that is to be recovered from carriers; and
 
                      (d)  the amount determined, in a written instrument made by the Minister, to be the estimated total amount of grants likely to be made during the financial year under section 593 of the _Telecommunications Act 1997_; and 
 
@@ -164,19 +168,31 @@ Attorney-General’s Department, Canberra
 
              (4)  In this section:
 
+                    <a name="aca-telecommun-function"></a>**_ACA’s telecommunications functions_** has the same meaning as in the _Australian Communications Authority Act 1997_.
+
+                    <a name="aca-telecommun-power"></a>**_ACA’s telecommunications powers_** has the same meaning as in the _Telecommunications Act 1997_.
+
                     <a name="accc-telecommun-function-power"></a>**_ACCC’s telecommunications functions and powers_** has the same meaning as in the _Telecommunications Act 1997_.
-
-                    <a name="acma-telecommun-function"></a>**_ACMA’s telecommunications functions_** has the same meaning as in the _Telecommunications Act 1997_.
-
-                    <a name="acma-telecommun-power"></a>**_ACMA’s telecommunications powers_** has the same meaning as in the _Telecommunications Act 1997_.
 
                     <a name="cost"></a>**_cost_**:
 
-                     (a)  in relation to the ACMA, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the ACMA; and
+                     (a)  in relation to the ACA, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the ACA; and
 
                      (b)  in relation to the ACCC, means an amount that, in accordance with accrual-based accounting principles, is treated as a cost of the ACCC.
 
                     <a name="industri-minist"></a>**_Industry Minister_** means the Minister for Industry, Science and Tourism.
+
+## Part 4—Transitional
+
+##### <a id="16"></a>16  Exercise of powers by AUSTEL before 1 July 1997—application charge
+
+             (1)  Before 1 July 1997, Part 2 has effect as if a reference in that Part to the ACA were a reference to AUSTEL. 
+
+             (2)  Anything done by AUSTEL under Part 2 before 1 July 1997 has effect, on and after 1 July 1997, as if it had been done by the ACA.
+
+             (3)  In this section:
+
+                    <a name="austel"></a>**_AUSTEL_** means the Australian Telecommunications Authority.
 
 
 # Notes to the _Telecommunications (Carrier Licence Charges) Act 1997_
@@ -265,7 +281,7 @@ of Assent
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedules 1 and 2: 1 July 2005 ( <i>see</i>s. 2(1)) 
+      <div>Schedules 1 and 2: \[ <i>see</i> <i>(a)</i>, Note 3 and Table A] 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -275,6 +291,97 @@ Remainder: Royal Assent
   </tr>
 </thead>
 <tbody></tbody></table>
+
+
+_(a)_ Subsection 2(1) (item 2) of the _Telecommunications (Carrier Licence Charges) Amendment Act 2005_ provides as follows:
+
+                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table>
+<colgroup>
+  <col width="24%">
+  <col width="54%">
+  <col width="22%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Provision(s)
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Commencement
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Date/Details
+        </b>
+      </div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2\. Schedules 1 and 2
+      </div>
+    </td>
+    <td>
+      <div>
+        At the same time as section 6 of the
+          <i>Australian Communications and Media Authority Act 2005</i>commences.
+      </div>
+    </td>
+    <td>
+      <div>
+        \[
+          <i>see</i>Note 3 and Table A]
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 
 ## Table of Amendments
@@ -303,74 +410,18 @@ Remainder: Royal Assent
 <tbody>
   <tr>
     <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 46, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 9</div>
-    </td>
-    <td>
-      <div>am. No. 46, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 14</div>
-    </td>
-    <td>
-      <div>am. No. 46, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 15</div>
     </td>
     <td>
-      <div>am. No. 68, 1998; No. 46, 2005</div>
+      <div>am. No. 68, 1998</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Part 4</div>
+      <div></div>
     </td>
     <td>
-      <div>rep. No. 46, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16</div>
-    </td>
-    <td>
-      <div>rep. No. 46, 2005</div>
+      <div></div>
     </td>
   </tr>
 </tbody></table>
@@ -390,6 +441,76 @@ Add:
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
+### Note 3
+
+_Telecommunications (Carrier Licence Charges) Amendment Act 2005 
+(No. 46, 2005)
+_
+
+The following amendments commence on 1 July 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Section 5 (definition of _ACA_)
+
+Repeal the definition.
+
+## 2  Section 5
+
+Insert:
+
+                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+
+## 3  Subsection 9(1)
+
+Omit “ACA”, substitute “ACMA”.
+
+## 4  Subsection 14(1)
+
+Omit “ACA”, substitute “ACMA”.
+
+## 5  Paragraph 15(1)(a)
+
+Omit “ACA”, substitute “ACMA”.
+
+## 6  Paragraph 15(1)(a)
+
+Omit “ACA’s” (wherever occurring), substitute “ACMA’s”.
+
+## 7  Paragraph 15(1)(c)
+
+Omit “ACA”, substitute “ACMA”.
+
+## 8  Subsection 15(4) (definition of _ACA’s telecommunications functions_)
+
+Repeal the definition.
+
+## 9  Subsection 15(4) (definition of _ACA’s telecommunications powers_)
+
+Repeal the definition.
+
+## 10  Subsection 15(4)
+
+Insert:
+
+                    <a name="acma-telecommun-function"></a>**_ACMA’s telecommunications functions_** has the same meaning as in the _Telecommunications Act 1997_.
+
+## 11  Subsection 15(4)
+
+Insert:
+
+                    <a name="acma-telecommun-power"></a>**_ACMA’s telecommunications powers_** has the same meaning as in the _Telecommunications Act 1997_.
+
+## 12  Subsection 15(4) (paragraph (a) of the definition of _cost_)
+
+Omit “ACA” (wherever occurring), substitute “ACMA”.
+
+## 13  Part 4
+
+Repeal the Part.
+
+As at 8 April 2005 the amendments are not incorporated in this compilation.
+
 
 ## Table A
 
@@ -398,6 +519,8 @@ The proposed amendment was misdescribed and is not incorporated in this compilat
 _Telecommunications (Carrier Licence Charges) Amendment Act 2005 
 (No. 46, 2005)
 _
+
+The following provisions commence on 1 July 2005 unless proclaimed earlier:
 
 ## Schedule 2
 
