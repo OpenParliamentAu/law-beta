@@ -1,62 +1,58 @@
 
 National Gallery Act 1975 
 Act No. 61 of 1975 as amended
-Consolidated as in force on 16 December 1999
-(includes amendments up to Act No. 146 of 1999)
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
+Consolidated as in force on 29 September 1998
+(includes amendments up to Act No. 152 of 1997)
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, CanberraContents
+Part I—Preliminary	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Interpretation	
+Part II—The National Gallery of Australia	
+4	Establishment of National Gallery of Australia	
+5	National collection to be housed in Australian Capital Territory	
+6	Functions of Gallery	
+7	Powers of Gallery	
+8	Land and works of art for Gallery	
+9	Disposal of works of art from national collection	
+10	Exchange of works of art	
+11	Disposal of property left with Gallery	
+Part III—The Council	
+12	Council	
+13	Membership of Council	
+14	Deputy Chair	
+15	Deputies of members	
+16	Remuneration and allowances of members etc.	
+17	Termination of appointment	
+18	Resignation	
+20	Meetings of Council	
+21	Committees of Council	
+22	Delegation	
+Part IV—The Director	
+24	Director	
+26	Terms and conditions of appointment etc.	
+27	Remuneration and allowances	
+28	Leave of absence	
+29	Termination of appointment	
+30	Resignation	
+31	Acting Director	
+Part V—Staff		
+33	Staff	
+Part VI—Finance		
+34	Moneys payable to Gallery	
+36	National Gallery of Australia Fund	
+37	Application of moneys	
+38	Power to purchase and dispose of assets	
+40	Extra matters to be included in annual report	
+41	Exemption from taxation	
+Part VII—Miscellaneous	
+45	Supply of liquor on premises of Gallery	
+46	Regulations	
 
-  
-  
-  
-Contents
-Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Interpretation	1
-Part II—The National Gallery of Australia	3
-4	Establishment of National Gallery of Australia	3
-5	National collection to be housed in Australian Capital Territory	3
-6	Functions of Gallery	3
-7	Powers of Gallery	4
-8	Land and works of art for Gallery	5
-9	Disposal of works of art from national collection	6
-10	Exchange of works of art	6
-11	Disposal of property left with Gallery	6
-Part III—The Council	10
-12	Council	10
-13	Membership of Council	10
-14	Deputy Chair	10
-15	Deputies of members	11
-16	Remuneration and allowances of members etc.	11
-17	Termination of appointment	11
-18	Resignation	12
-20	Meetings of Council	12
-21	Committees of Council	13
-22	Delegation	13
-Part IV—The Director	15
-24	Director	15
-26	Terms and conditions of appointment etc.	15
-27	Remuneration and allowances	15
-28	Leave of absence	15
-29	Termination of appointment	16
-30	Resignation	16
-31	Acting Director	16
-Part V—Staff	18
-33	Staff	18
-Part VI—Finance	19
-34	Moneys payable to Gallery	19
-36	National Gallery of Australia Fund	19
-37	Application of moneys	19
-38	Power to purchase and dispose of assets	20
-40	Extra matters to be included in annual report	20
-41	Exemption from taxation	21
-Part VII—Miscellaneous	22
-45	Supply of liquor on premises of Gallery	22
-46	Regulations	22
-Notes 		23
 An Act relating to the National Gallery of Australia
+Do not delete : Chapter placeholder
 Part I—Preliminary
-  
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the National Gallery Act 1975.
 2  Commencement [see Note 1]
@@ -71,11 +67,10 @@ Fund means the National Gallery of Australia Fund established by subsection 36(1
 Gallery means the National Gallery of Australia established by this Act.
 member means a member of the Council.
 national collection means all works of art that are owned by the Gallery from time to time other than a work of art that is acquired, commissioned or produced by the Gallery for the purposes of sale.
-part‑time member means a member of the Council appointed to be a part‑time member.
+part-time member means a member of the Council appointed to be a part-time member.
 	(2)	A reference in this Act to any land or building owned by, or under the control of, the Gallery includes a reference to a part of any such land or a part of any such building, as the case may be.
-
 Part II—The National Gallery of Australia
-  
+Do not delete : Division placeholder
 4  Establishment of National Gallery of Australia
 	(1)	The National Gallery of Australia is established.
 	(2)	The Gallery:
@@ -140,7 +135,7 @@ the Gallery may dispose of that work of art accordingly.
 	(ii)	the period specified in the notice under that subsection or, if such notices were sent to more than 1 person, the period specified in the notice last sent, has expired; and
 	(d)	the property is not the subject of a claim lodged with the Gallery by the person who submitted the property to the Gallery or by any other person who has an interest in the property;
 this section applies in relation to that property.
-	(2)	Where the Gallery has a record of the name and address of a person who has an interest in property referred to in paragraph (1)(a) or of the person who submitted that property to the Gallery, the Council shall send by pre‑paid registered post to that person or to each of those persons, addressed to him or her at the relevant address, a notice informing him or her that, after the expiration of 3 months from the date of the notice, the Council intends, unless the person who submitted the property to the Gallery or any other person who has an interest in the property lodges with the Gallery a claim with respect to the property, to deal with the property under this section.
+	(2)	Where the Gallery has a record of the name and address of a person who has an interest in property referred to in paragraph (1)(a) or of the person who submitted that property to the Gallery, the Council shall send by pre-paid registered post to that person or to each of those persons, addressed to him or her at the relevant address, a notice informing him or her that, after the expiration of 3 months from the date of the notice, the Council intends, unless the person who submitted the property to the Gallery or any other person who has an interest in the property lodges with the Gallery a claim with respect to the property, to deal with the property under this section.
 	(3)	The Council may, in respect of property in relation to which this section applies, cause a notice, in accordance with subsection (4), relating to the property to be published twice, with an interval of at least 7 days between the dates of the publications, in such daily newspapers as will ensure its publication in every State and internal Territory.
 	(4)	A notice under subsection (3) shall sufficiently identify the property to which it relates and shall state that, at the expiration of 3 months from the date of publication of the notice, the Council intends to deal with the property under this section unless, before that time, the person who submitted the property to the Gallery or any other person who has an interest in the property has lodged with the Gallery a claim with respect to the property.
 	(5)	Where:
@@ -168,9 +163,8 @@ to the intent that the legal estate in the work of art and all rights and powers
 	(c)	a reference in those Parts to the Minister were a reference to the Minister administering this Act.
 	(15)	Where a person satisfies the Council that he or she had an interest in property immediately before the property was sold by virtue of subsection (11), the Gallery shall pay to the person such amount as it considers appropriate having regard to the interest that person had in the property but not exceeding the amount by which the amount of the proceeds of the sale exceeded the amount of any expenses incurred by the Gallery in connexion with the storage and sale of the property.
 	(16)	No action, other than an action under the Lands Acquisition Act 1989 as applied by subsection (14), lies against any person by reason of any act or thing done in accordance with this section.
-
 Part III—The Council
-  
+Do not delete : Division placeholder
 12  Council
 	(1)	The affairs of the Gallery shall be conducted by a Council to be known as the Council of the National Gallery of Australia.
 	(2)	All acts and things done in the name of, or on behalf of, the Gallery by the Council or with the authority of the Council shall be deemed to have been done by the Gallery.
@@ -179,32 +173,32 @@ Part III—The Council
 	(a)	the Chair;
 	(b)	the Director; and
 	(c)	not more than 9 other members.
-	(2)	The members, other than the Director, shall be appointed by the Governor‑General having regard to their knowledge and experience with respect to the visual arts or any other area of knowledge relevant to the affairs of the Gallery.
-	(3)	A member, other than the Director, shall be appointed to be a part‑time member and holds office for such term, not exceeding 3 years, as is fixed by the Governor‑General in the instrument of his or her appointment.
-	(4)	A part‑time member is eligible for re‑appointment.
+	(2)	The members, other than the Director, shall be appointed by the Governor-General having regard to their knowledge and experience with respect to the visual arts or any other area of knowledge relevant to the affairs of the Gallery.
+	(3)	A member, other than the Director, shall be appointed to be a part‑time member and holds office for such term, not exceeding 3 years, as is fixed by the Governor-General in the instrument of his or her appointment.
+	(4)	A part-time member is eligible for re-appointment.
 	(6)	The exercise or performance of the powers or functions of the Council is not affected by reason only of there being a vacancy in the office of a member.
 14  Deputy Chair
-	(1)	There shall be a Deputy Chair of the Council who shall be elected by the members from among the part‑time members.
+	(1)	There shall be a Deputy Chair of the Council who shall be elected by the members from among the part-time members.
 	(2)	A member elected as Deputy Chair holds office as Deputy Chair for the period fixed by the Council at the time of his or her election but that period shall not extend beyond the expiration of the term for which he or she is holding office as a member at that time.
 	(3)	The Deputy Chair may resign his or her office by writing under his or her hand delivered to the Chair.
-	(4)	The Deputy Chair is eligible for re‑election.
+	(4)	The Deputy Chair is eligible for re-election.
 15  Deputies of members
-	(1)	A part‑time member may, with the approval of the Minister, appoint a person, other than a member, to be his or her deputy.
+	(1)	A part-time member may, with the approval of the Minister, appoint a person, other than a member, to be his or her deputy.
 	(2)	A member may revoke the appointment of a person as his or her deputy, but the revocation is not effective until the member has given notice of it, in writing, to the Minister.
 	(3)	The deputy of a member is entitled, in the event of the absence of the member from a meeting of the Council, to attend that meeting and, when so attending, shall be deemed to be a member.
 16  Remuneration and allowances of members etc.
-	(1)	A part‑time member, the deputy of a member or a member of a committee constituted under section 21 who is not a member of the Council shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
+	(1)	A part-time member, the deputy of a member or a member of a committee constituted under section 21 who is not a member of the Council shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 	(2)	A person referred to in subsection (1) shall be paid such allowances as are prescribed.
 	(3)	This section has effect subject to the Remuneration Tribunal Act 1973.
 17  Termination of appointment
-	(1)	The Governor‑General may terminate the appointment of a part‑time member by reason of misbehaviour or physical or mental incapacity.
-	(2)	If a part‑time member:
+	(1)	The Governor-General may terminate the appointment of a part‑time member by reason of misbehaviour or physical or mental incapacity.
+	(2)	If a part-time member:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 	(b)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council; or
 	(c)	fails, without reasonable excuse, to comply with his or her obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
-the Governor‑General shall terminate his or her appointment.
+the Governor-General shall terminate his or her appointment.
 18  Resignation
-		A part‑time member may resign his or her office by writing under his or her hand delivered to the Governor‑General.
+		A part-time member may resign his or her office by writing under his or her hand delivered to the Governor-General.
 20  Meetings of Council
 	(1)	The Chair or, if for any reason the Chair is unable to act, the Deputy Chair:
 	(a)	shall convene such meetings of the Council as he or she considers necessary for the efficient conduct of its business; and
@@ -215,7 +209,7 @@ the Governor‑General shall terminate his or her appointment.
 	(5)	In the event of the absence of both the Chair and the Deputy Chair from a meeting of the Council, the members present shall elect one of their number to preside at that meeting.
 	(6)	At a meeting of the Council, 7 members constitute a quorum.
 	(7)	Subject to subsection (8), all questions arising at a meeting of the Council shall be decided by a majority of the votes of the members present and voting, including the member presiding.
-	(8)	In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first‑mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
+	(8)	In the event of an equality of votes on a resolution proposed at a meeting of the Council, the resolution shall be taken not to be passed but, if the same resolution is proposed at the first meeting of the Council held after the date of that first-mentioned meeting and there is again an equality of votes, the member presiding has a casting vote on the resolution.
 21  Committees of Council
 	(1)	Subject to this section, the Council may constitute such committees as it thinks necessary for the purposes of this Act.
 	(2)	A committee may be constituted wholly by members of the Council or partly by members of the Council and partly by other persons.
@@ -229,35 +223,34 @@ the Governor‑General shall terminate his or her appointment.
 	(4)	Section 34A of the Acts Interpretation Act 1901 applies in relation to a delegation under this section as if the Council were a person.
 	(5)	A certificate signed by the Chair stating any matter with respect to a delegation of a power under this section is prima facie evidence of that matter.
 	(6)	A document purporting to be a certificate mentioned in subsection (5) shall, unless the contrary is established, be deemed to be such a certificate and to have been duly given.
-
 Part IV—The Director
-  
+Do not delete : Division placeholder
 24  Director
-	(1)	There shall be a Director of the National Gallery of Australia, who shall be appointed by the Governor‑General.
+	(1)	There shall be a Director of the National Gallery of Australia, who shall be appointed by the Governor-General.
 	(2)	The Director is the executive officer of the Council.
 26  Terms and conditions of appointment etc.
-	(1)	The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
-	(2)	The Director holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re‑appointment.
-	(3)	A person who has attained the age of 65 years shall not be appointed or re‑appointed as the Director and a person shall not be appointed or re‑appointed as the Director for a period that extends beyond the date on which he or she will attain the age of 65 years.
+	(1)	The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
+	(2)	The Director holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re-appointment.
+	(3)	A person who has attained the age of 65 years shall not be appointed or re-appointed as the Director and a person shall not be appointed or re-appointed as the Director for a period that extends beyond the date on which he or she will attain the age of 65 years.
 27  Remuneration and allowances
 	(1)	The Director shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 	(2)	The Director shall be paid such allowances as are prescribed.
 	(3)	This section has effect subject to the Remuneration Tribunal Act 1973.
 28  Leave of absence
-	(1)	The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+	(1)	Subject to section 87E of the Public Service Act 1922, the Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 	(2)	The Minister may grant the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 29  Termination of appointment
-	(1)	The Governor‑General may terminate the appointment of the Director by reason of misbehaviour or physical or mental incapacity.
+	(1)	The Governor-General may terminate the appointment of the Director by reason of misbehaviour or physical or mental incapacity.
 	(2)	If the Director:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 	(aa)	fails, without reasonable excuse, to comply with section 21 of the Commonwealth Authorities and Companies Act 1997 or subsection (3) of this section;
-	(ab)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council;
+	 (ab)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council;
 	(b)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 	(c)	engages in paid employment outside the duties of his or her office without the approval of the Minister;
-the Governor‑General shall terminate his or her appointment.
+the Governor-General shall terminate his or her appointment.
 	(3)	The Director shall give written notice to the Minister of all direct or indirect pecuniary interests that the Director has or acquires in any business or in any body corporate carrying on any business.
 30  Resignation
-		The Director may resign his or her office by writing under his or her hand delivered to the Governor‑General.
+		The Director may resign his or her office by writing under his or her hand delivered to the Governor-General.
 31  Acting Director
 	(1)	The Minister may appoint a person to act in the office of Director:
 	(a)	during a vacancy in the office; or
@@ -271,16 +264,14 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 	(5)	While a person is acting in the office of Director, the person has and may exercise all the powers, and shall perform all the functions, of the Director under this Act and the regulations.
 	(6)	A person appointed under subsection (1) may resign the appointment by writing signed by the person and delivered to the Minister.
 	(7)	The validity of anything done by or in relation to a person purporting to act in the office of Director shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
-
 Part V—Staff
-  
+Do not delete : Division placeholder
 33  Staff
 		Subject to any direction of the Minister:
 	(a)	the Gallery may employ such persons as are necessary for the purposes of this Act; and
 	(b)	the terms and conditions of employment (other than in respect of matters provided for by this Act) of persons so employed shall be as determined by the Council.
-
 Part VI—Finance
-  
+Do not delete : Division placeholder
 34  Moneys payable to Gallery
 	(1)	There are payable to the Gallery such moneys as are appropriated, from time to time, by the Parliament for the purposes of this Act.
 	(2)	The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the Gallery.
@@ -308,23 +299,23 @@ Part VI—Finance
 		In each report on the Gallery under section 9 of the Commonwealth Authorities and Companies Act 1997, the members must include particulars of any disposals of works of art under section 9 of this Act during the financial year to which the report relates.
 41  Exemption from taxation
 		The Gallery is not subject to taxation under a law of the Commonwealth or of a State or Territory.
-
 Part VII—Miscellaneous
-  
+Do not delete : Division placeholder
 45  Supply of liquor on premises of Gallery
 	(1)	The regulations may make provision for and in relation to the sale, supply, disposal, possession or control of liquor on premises in the Australian Capital Territory owned by or under the control of the Gallery.
 	(2)	The law of the Australian Capital Territory relating to the sale, supply and disposal of liquor does not apply with respect to premises in respect of which regulations are in force under subsection (1).
 	 (3)	In this section, liquor means wine, spirits, ale, beer, porter, cider, perry or any liquid containing alcohol ordinarily used or fit for use as a beverage.
 46  Regulations
-		The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
+		The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed, or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and in particular:
 	(a)	for regulating the conduct of persons on any land or building owned by, or under the control of, the Gallery;
 	(b)	for fixing charges for entry onto any land, or into any building, owned by, or under the control of, the Gallery; and
 	(c)	for prescribing penalties not exceeding a fine of $500 for offences against the regulations.
 
-Notes to the National Gallery Act 1975
-Note 1
-The National Gallery Act 1975 as shown in this consolidation comprises Act No. 61, 1975 amended as indicated in the Tables below.
+
+NOTE
+1. 	The National Gallery Act 1975 as shown in this reprint comprises Act No. 61, 1975 amended as indicated in the Tables below.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
@@ -368,7 +359,7 @@ Ss. 11 and 13: 7 Dec 1988 Part 5 (ss. 14, 15): 11 May 1989 (see s. 2(3) and G
 Arts, Environment, Tourism and Territories Legislation Amendment Act 1990
 88, 1990
 20 Nov 1990
-Part 5 (ss. 9‑11): Royal Assent (c)
+Part 5 (ss. 9-11): Royal Assent (c)
 —
 Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991
 179, 1991
@@ -393,44 +384,31 @@ S. 5: Royal Assent (d)
 Statute Law Revision Act 1996
 43, 1996
 25 Oct 1996
-Schedule 2 (item 75): (e) Schedule 4 (items 100, 101) and Schedule 5 (items 90‑92): Royal Assent (e)
+Schedule 2 (item 75): (e) Schedule 4 (items 100, 101) and Schedule 5 (items 90-92): Royal Assent (e)
 — 
 Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (items 951‑962): 1 Jan 1998 (see Gazette 1997, No. GN49) (f)
+Schedule 2 (items 951-962): 1 Jan 1998 (see Gazette 1997, No. GN49) (f)
 —
-Public Employment (Consequential and Transitional) Amendment Act 1999
-146, 1999
-11 Nov 1999
-Schedule 1 (item 627): 5 Dec 1999 (see Gazette 1999, No. S584) (g)
-
-
-
-
-
-
 (a)	The National Gallery Act 1975 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(29) of which provides as follows:
-	(29)	The amendments of the National Gallery Act 1975 made by this Act shall come into operation on the day on which this Act receives the Royal Assent.
+	“(29)	The amendments of the National Gallery Act 1975 made by this Act shall come into operation on the day on which this Act receives the Royal Assent.”
 (b)	The Statute Law (Miscellaneous Provisions) Act (No. 1) 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1985, paragraph 2(15)(a) of which provides as follows:
-	(15)	The amendments of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985 made by this Act shall be deemed to have come into operation:
-	(a)	in the case of the amendment made to subsection 2(29)—on the day on which that Act received the Royal Assent; and
-(c)	The National Gallery Act 1975 was amended by Part 5 (sections 9‑11) only of the Arts, Environment, Tourism and Territories Legislation Amendment Act 1990, subsection 2(1) of which provides as follows:
-	(1)	Parts 1, 4, 5, 6, 7 and 8 commence on the day on which this Act receives the Royal Assent.
+	“(15)	The amendments of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985 made by this Act shall be deemed to have come into operation:
+	(a)	in the case of the amendment made to subsection 2(29)—on the day on which that Act received the Royal Assent; and”
+(c)	The National Gallery Act 1975 was amended by Part 5 (sections 9-11) only of the Arts, Environment, Tourism and Territories Legislation Amendment Act 1990, subsection 2(1) of which provides as follows:
+	“(1)	Parts 1, 4, 5, 6, 7 and 8 commence on the day on which this Act receives the Royal Assent.”
 (d)	The National Gallery Act 1975 was amended by section 5 only of the Arts, Environment and Territories Legislation Amendment Act 1993, subsection 2(1) of which provides as follows:
-	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-(e)	The National Gallery Act 1975 was amended by Schedule 2 (item 75), Schedule 4 (items 100 and 101) and Schedule 5 (items 90‑92) only of the Statute Law Revision Act 1996, subsections 2(1) and (2) of which provide as follows:
-	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-	(2)	Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.
+	“(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
+(e)	The National Gallery Act 1975 was amended by Schedule 2 (item 75), Schedule 4 (items 100 and 101) and Schedule 5 (items 90-92) only of the Statute Law Revision Act 1996, subsections 2(1) and (2) of which provide as follows:
+	“(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+	“(2)	Each item in Schedule 2 commences or is taken to have commenced (as the case requires) at the time specified in the note at the end of the item.”
 	Item 75 is taken to have commenced immediately after the commencement of the Arts, Environment and Territories Legislation Amendment Act 1992.
 	The Arts, Environment and Territories Legislation Amendment Act 1992 came into operation on 24 October 1992. 
-(f)	The National Gallery Act 1975 was amended by Schedule 2 (items 951‑962) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
-	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-(g)	The National Gallery Act 1975 was amended by Schedule 1 (item 627) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
-	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
-
+(f)	The National Library Act 1960 was amended by Schedule 2 (items 951-962) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
+	“(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.”
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
@@ -492,8 +470,6 @@ S. 28
 am. No. 65, 1985
 
 rs. No. 179, 1991
-
-am. No. 146, 1999
 S. 29	
 am. No. 65, 1985; No. 179, 1991; No. 43, 1996; No. 152, 1997
 S. 30	
