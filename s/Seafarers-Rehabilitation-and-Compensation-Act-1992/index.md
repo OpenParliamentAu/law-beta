@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image001.gif)
 
 # Seafarers Rehabilitation and Compensation Act 1992
 
 **Act No. 234 of 1992 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 20 December 2011
  taking into account amendments up to Act No. 181 of 2011
 
 The text of any of those amendments not in force 
@@ -1060,7 +1060,7 @@ Indexation factor
 
              (3)  For the purposes of this section, the **_indexation factor_** for a relevant year is the number calculated, to 3 decimal places, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image002.gif)
 
 where:
 
@@ -1152,7 +1152,7 @@ compensation is payable for the cost of the medical treatment, of such amount as
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
 
 where:
 
@@ -1266,7 +1266,7 @@ from the date of the employee’s death or the date of the birth of the child, w
 
              (2)  Subject to subsection (3) and this Part (other than this section), compensation for the injury is payable to the employee, for each of the first 45 weeks (whether consecutive or otherwise) during which the employee is incapacitated, of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image004.gif)
 
 where:
 
@@ -1374,7 +1374,7 @@ subsection (10) applies to one of those children and subsection (11) applies
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image005.gif)
 
 where:
 
@@ -1404,7 +1404,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image006.gif)
 
 where:
 
@@ -1442,7 +1442,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image007.gif)
 
 where:
 
@@ -1482,7 +1482,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image008.gif)
 
 where:
 
@@ -1588,7 +1588,7 @@ the employer must, on the written request of the employee made at any time befor
 
              (2)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image009.gif)
 
 where:
 
@@ -1696,7 +1696,7 @@ the employer must make a determination that any liability to make further paymen
 
              (2)  The amount of the lump sum is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image010.gif)
 
 where:
 
@@ -1784,7 +1784,7 @@ compensation is payable to the employee under this section during the period of 
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
 
 where:
 
@@ -1836,7 +1836,7 @@ make arrangements with an approved program provider for the provision of an appr
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
 
 where:
 
@@ -2280,7 +2280,7 @@ the employer to whom the notice of claim is given may require the employee to un
 
           (4B)  If the journey referred to in paragraph (4)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
 
 where:
 
@@ -2596,7 +2596,7 @@ the employer may, by written notice given to the claimant, ask the claimant to g
 
              (5)  If the journey referred to in paragraph (3)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image003.gif)
 
 where:
 
@@ -3090,13 +3090,21 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="113"></a>113  Persons acting as Chairperson or Deputy Chairperson
 
-                   The Minister may appoint a person to act as the Chairperson or the Deputy Chairperson:
+             (1)  The Minister may appoint a person to act as the Chairperson or the Deputy Chairperson:
 
                      (a)  during a vacancy in the office of Chairperson or Deputy Chairperson, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period or during all periods when the Chairperson or the Deputy Chairperson is absent from duty or from Australia or is, for any other reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  Anything done by or in relation to a person purporting to act under an appointment under subsection (1) is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="114"></a>114  Remuneration and allowances
 
@@ -3202,7 +3210,7 @@ Delegation by Authority
 
 Subdelegation by CEO of Comcare
 
-             (5)  Despite paragraph 34AB(1)(b) of the _Acts Interpretation Act 1901_, the Chief Executive Officer of Comcare may, by signed writing, delegate all or any of the functions and powers delegated under subsection (1) to:
+             (5)  Despite paragraph 34AB(b) of the _Acts Interpretation Act 1901_, the Chief Executive Officer of Comcare may, by signed writing, delegate all or any of the functions and powers delegated under subsection (1) to:
 
                      (a)  the Deputy Chief Executive Officer of Comcare; or
 
@@ -3290,7 +3298,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  the Administrative Appeals Tribunal has been requested under Part 6 to review a determination under section 88.
 
-##### <a id="131"></a>131  Employee to notify other employers that compensation has been paid
+##### <a id="131"></a>131  Employee to notify other employers that compensation has been paid
 
              (1)  If an employer pays the full amount of compensation payable under this Act to an employee in respect of an injury the employee must notify all other employers against whom a claim was made that the employee has received compensation in respect of the injury.
 
@@ -3384,7 +3392,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 the compensation payable under this Act to, or for the benefit of, that person for the injury, loss or damage is the amount (if any) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00122/Html/8a1484fb-f105-4451-a4e2-01b0ebd2a8eb_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00967/Html/9eb8387f-9a67-4145-b78f-bbd54d07f3dd_files/image011.gif)
 
 where:
 
@@ -3977,7 +3985,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1030–1033) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1030–1033) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -4973,22 +4981,6 @@ No. 127, 2002</div>
 </tr>
 <tr>
   <td>
-    <div>S. 113</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 113</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 115</div>
   </td>
   <td>
@@ -5048,7 +5040,7 @@ No. 127, 2002</div>
     <div>S. 125</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 127, 2002; No. 46, 2011</div>
+    <div>am. No. 146, 1999; No. 127, 2002</div>
   </td>
 </tr>
 <tr>
@@ -5163,6 +5155,34 @@ No. 127, 2002</div>
     <div>rep. No. 181, 2011</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1030  Subsection 113(1)
+
+Omit “(1)”.
+
+## 1031  At the end of subsection 113(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1032  Subsection 113(2)
+
+Repeal the subsection.
+
+## 1033  Subsection 125(5)
+
+Omit “paragraph 34AB(b)”, substitute “paragraph 34AB(1)(b)”.
+
+As at 20 December 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -5305,6 +5325,8 @@ The following provisions of the _Seafarers Rehabilitation and Compensation Act 1
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
