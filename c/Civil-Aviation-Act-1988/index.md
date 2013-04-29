@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00401/Html/CivilAviat1988_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00206/Html/CivilAviat1988_WD02_image001.gif)
 
 # Civil Aviation Act 1988
 
 **Act No. 63 of 1988 as amended**
 
-This compilation was prepared on 8 June 2010
+This compilation was prepared on 3 March 2010
  taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
@@ -662,7 +662,7 @@ Note:          Some references to Australian aircraft may be a
 
                             (iii)  services of the kind referred to in paragraph 6(1)(b) of the _Australian Maritime Safety Authority Act 1990_ to the extent that those services use aircraft;
 
-                            and any construction associated with those facilities or services;
+                            and any construction associated with those facilities or services;
 
                       (f)  the personnel engaged in:
 
@@ -2135,7 +2135,7 @@ whether or not the breach is continuing.
 
                      (b)  the Secretary of the Department does not advise CASA that, having regard to the ANZA mutual recognition agreements, the holder of the AOC is no longer eligible to hold an Australian AOC with ANZA privileges.
 
-##### <a id="28BB"></a>28BB  CASA may impose and vary AOC conditions
+##### <a id="28BB"></a>28BB  CASA may impose and vary AOC conditions
 
              (1)  CASA may:
 
@@ -4851,7 +4851,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                             (iii)  services of the kind referred to in paragraph 6(1)(b) of the _Australian Maritime Safety Authority Act 1990_ to the extent that those services use aircraft;
 
-                            and any construction associated with those facilities or services;
+                            and any construction associated with those facilities or services;
 
                       (t)  the personnel engaged in anything referred to in paragraph (s);
 
@@ -5954,42 +5954,7 @@ Schedule 2 (item 22): <i>(x)</i></div>
 Schedule 1 (items 10, 11): 1 July 2009</div>
   </td>
   <td>
-    <div>Sch. 1 (item 26) 
-S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Freedom of Information Amendment (Reform) Act 2010</div>
-  </td>
-  <td>
-    <div>51, 2010</div>
-  </td>
-  <td>
-    <div>31 May 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 9, 10):\[ <i>see (xa)</i>and Table A]</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>S. 4 and Sch. 1 (item 26) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6196,9 +6161,9 @@ _(pa)_ Subsection 2(1) (item 32) of the _Statute Law Revision Act 2002_ provid
 
 <table>
 <colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
+  <col width="20%">
+  <col width="57%">
+  <col width="23%">
 </colgroup>
 
 <thead>
@@ -6294,9 +6259,9 @@ _(s)_ Subsection 2(1) (item 2) of the _Transport Safety Investigation (Consequ
 
 <table>
 <colgroup>
-  <col width="25%">
-  <col width="53%">
-  <col width="22%">
+  <col width="20%">
+  <col width="56%">
+  <col width="24%">
 </colgroup>
 
 <thead>
@@ -6350,9 +6315,9 @@ _(t)_ Subsection 2(1) (items 3, 5, 7, 9 and 11) of the _Civil Aviation Amendme
 
 <table>
 <colgroup>
-  <col width="25%">
-  <col width="53%">
-  <col width="22%">
+  <col width="20%">
+  <col width="56%">
+  <col width="24%">
 </colgroup>
 
 <thead>
@@ -6484,9 +6449,9 @@ _(u)_ Subsection 2(1) (item 2) of the _Aviation Security Amendment Act 2004_ p
 
 <table>
 <colgroup>
-  <col width="28%">
-  <col width="51%">
-  <col width="21%">
+  <col width="26%">
+  <col width="53%">
+  <col width="22%">
 </colgroup>
 
 <thead>
@@ -6832,67 +6797,6 @@ _(x)_ Subsection 2(1) (items 3 and 4) of the _Civil Aviation Amendment Act 2009_
   <td>
     <div>
       27 March 2009
-    </div>
-  </td>
-</tr></table>
-
-_(xa)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Reform) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7\. Schedules 4 to 7
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>.
-    </div>
-    <div>
-      However, if section 3 of the
-        <i>Australian Information Commissioner Act 2010</i>does not commence, the
-        provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Table A]
     </div>
   </td>
 </tr></table>
@@ -11159,7 +11063,7 @@ _Civil Aviation Amendment Act 2009 (No. 19, 2009)_
 
 ## Schedule 3
 
-## 28  Application
+## 28  Application
 
 (1)        The amendments made by items 1 to 6 of this Schedule apply in relation to:
 
@@ -11182,7 +11086,7 @@ The amendment made by item 23 of this Schedule does not affect the continuity 
 _Aviation Legislation Amendment (2008 Measures No. 2) Act 2009 
  (No. 26, 2009)_
 
-##### \[NOTE]  4  Report of the Privacy Commissioner
+##### 4  Report of the Privacy Commissioner
 
              (1)  The Privacy Commissioner must examine the following matter:
 
@@ -11201,24 +11105,5 @@ _Aviation Legislation Amendment (2008 Measures No. 2) Act 2009
 ## 26  Application of Part 2 of this Schedule
 
 The amendments made by Part 2 of this Schedule apply to copying or disclosure that occurs on or after the commencement of that Part.
-
-_\[NOTE]:  Freedom of Information Amendment (Reform) Act 2010 
- (No. 51, 2010)_
-
-The following amendments commence immediately after 1 November 2010 and amend section 4 of the _Aviation Legislation Amendment (2008 Measures No. 2) Act 2009_(No. 26, 2009) as follows:
-
-## Schedule 5
-
-## 9  Subsections 4(1), (2) and (4)
-
-Omit “Privacy Commissioner”, substitute “Information Commissioner”.
-
-_Note:       The heading to section 4 is altered by omitting “Privacy Commissioner” and substituting “Information Commissioner”._
-
-## 10  Subsection 4(4)
-
-Omit “, and may delegate any matter to a member of his or her staff as provided for by section 99 of that Act”.
-
-As at 8 June 2010 the amendments are not incorporated in this compilation.
 
  
