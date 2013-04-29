@@ -1,80 +1,82 @@
-![](http://www.comlaw.gov.au/Details/C2007C00567/Html/ComBanSalAct1995_WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00478/Html/50DC9829C27AB8D1CA2571C300832CEF/$FILE/image001.gif)
 
 # Commonwealth Bank Sale Act 1995
 
 **Act No. 161 of 1995 as amended**
 
-This compilation was prepared on 27 September  2007
- taking into account amendments up to Act No. 154 of 2007
+This compilation was prepared on 3 August 2006 
+taking into account amendments up to Act No. 146 of 1999
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
 **Part 2—Amendments**
 
-[4](#4).            Schedule
+[4](#4).            Schedule                                                                                               3
 
 **Part 3—Transitional and saving** 
 
     **Division 1—_Safety, Rehabilitation and Compensation Act 1988_**
 
-[5](#5).            Interpretation
+[5](#5).            Interpretation                                                                                       4
 
-[6](#6).            SRC Act continues to apply to Commonwealth Bank etc  for certain purposes
+[6](#6).            SRC Act continues to apply to Commonwealth Bank etc  for certain purposes    4
 
-[7](#7).            SRC Act continues to apply for previous injuries etc 
+[7](#7).            SRC Act continues to apply for previous injuries etc                        4
 
-[8](#8).            Payment of premiums
+[8](#8).            Payment of premiums                                                                         5
 
-[9](#9).            Part VIIIA of the SRC Act
+[9](#9).            Part VIIIA of the SRC Act                                                                  5
 
-[10](#10).          Refund of licence fee
+[10](#10).          Refund of licence fee                                                                            5
 
-[11](#11).          Amendment of declarations
+[11](#11).          Amendment of declarations                                                                 6
 
-[12](#12).          Section 128A of the SRC Act
+[12](#12).          Section 128A of the SRC Act                                                              6
 
-[13](#13).          Notification of amount of salary etc 
+[13](#13).          Notification of amount of salary etc                                                    6
 
     **Division 2—_Defence Force Retirement and Death Benefits Act 1973_**
 
-[14](#14).          Interpretation
+[14](#14).          Interpretation                                                                                       7
 
-[15](#15).          Deferred benefits
+[15](#15).          Deferred benefits                                                                                 7
 
-[16](#16).          Periods of eligible employment
+[16](#16).          Periods of eligible employment                                                           7
 
     **Division 3—Miscellaneous**
 
-[17](#17).          Saving previous operation of section 109 of the Commonwealth Banks Act
+[17](#17).          Saving previous operation of section 109 of the Commonwealth Banks Act         8
 
-[18](#18).          Application of bad debt provisions of the Income Tax Assessment Act
+[18](#18).          Application of bad debt provisions of the Income Tax Assessment Act                8
 
-[19](#19).          Regulations
+[19](#19).          Regulations                                                                                          8
 
 **Part 4—Exemption from certain taxes**
 
-[20](#20).          Exemption from certain State and Territory taxes
+[20](#20).          Exemption from certain State and Territory taxes                             10
 
 **Schedule—Amendment of Acts** 
 
 **Notes** 
+
 
 ## An Act to facilitate the sale of the Commonwealth’s shares in the Commonwealth Bank, and for related purposes
 
@@ -122,7 +124,7 @@ Note:          Section 2 deals with the commencement of the 
 
 ## Part 3—Transitional and saving
 
-### Division 1—Safety, Rehabilitation and Compensation Act 1988
+### Division 1—_Safety, Rehabilitation and Compensation Act 1988_
 
 ##### <a id="5"></a>5  Interpretation
 
@@ -162,7 +164,7 @@ including employees who have stopped being employees of the Bank body before the
 
                      (c)  the following word and paragraph were added at the end of subsection 96H(1) of the SRC Act:
 
-                            “; or  (f)   in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
+                            “; or (f)   in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.”.
 
              (2)  If an amount of premium payable by the Bank body in respect of a period before the transfer time remains unpaid, the amount is a debt due to the Commonwealth by the Bank body and is payable to Comcare.
 
@@ -174,7 +176,7 @@ including employees who have stopped being employees of the Bank body before the
 
              (1)  If the Bank body has paid a licence fee under section 107R of the SRC Act in respect of the licence fee year in which the transfer time occurs, then the Bank body is entitled to be paid a refund of the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00567/Html/ComBanSalAct1995_WD02HYP_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00478/Html/50DC9829C27AB8D1CA2571C300832CEF/$FILE/image002.gif)
 
 where:
 
@@ -200,7 +202,7 @@ where:
 
              (2)  The chief executive officer (however described) of the Bank body must notify the Commission, within 28 days after the transfer time, of the amount of salary, wages or pay paid to employees of the Bank body in the period starting on 1 July in the financial year in which the transfer time occurred and ending at the transfer time.
 
-### Division 2—Defence Force Retirement and Death Benefits Act 1973
+### Division 2—_Defence Force Retirement and Death Benefits Act 1973_
 
 ##### <a id="14"></a>14  Interpretation
 
@@ -248,7 +250,7 @@ where:
 
              (2)  In particular, regulations may be made in relation to matters of a transitional or saving nature arising out of the sale of the Commonwealth’s shares in the Commonwealth Bank, or otherwise arising out of the enactment of this Act.
 
-             (3)  Subsection 12(2) of the _Legislative Instruments Act 2003_ does not apply to regulations that are made under this section and take effect at or after the transfer time.
+             (3)  Subsection 48(2) of the _Acts Interpretation Act 1901_ does not apply to regulations that are made under this section and take effect at or after the transfer time.
 
 ## Part 4—Exemption from certain taxes
 
@@ -298,11 +300,12 @@ where:
 
  
 
+
 # Schedule—Amendment of Acts
 
 _Section 4_
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 1pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
@@ -310,25 +313,25 @@ The amendments made by this Schedule are incorporated in the compilations on Com
 
 _Administrative Decisions (Judicial Review) Act 1977_
 
-_Australian Bicentennial Authority Act 1980_<span style="font-size:9.0pt">\[repealed by Act No. 118, 1999, Sch. 1]</span>
+_Australian Bicentennial Authority Act 1980_
 
 _Banking Act 1959_
 
-_Banks (Shareholdings) Act 1972_<span style="font-size:9.0pt">\[repealed by Act No. 54, 1998, Sch. 3]</span>
+_Banks (Shareholdings) Act 1972_
 
 _Commonwealth Banks Act 1959_
 
 _Crimes (Currency) Act 1981_
 
-_Defence (Re-establishment) Act 1965_<span style="font-size:9.0pt">\[repealed by Act No. 10, 2001, Sch. 3]</span>
+_Defence (Re-establishment) Act 1965_
 
 _Freedom of Information Act 1982_
 
-_National Crime Authority Act 1984_\[now cited as _Australian Crime Commission Act 2002_]
+_National Crime Authority Act 1984_
 
 _Northern Territory__(Lessees’ Loan Guarantees) Act 1954_
 
-_Occupational Health and Safety (Commonwealth Employment) Act 1991_\[now cited as _Occupational Health and Safety Act 1991_]
+_Occupational Health and Safety (Commonwealth Employment) Act 1991_
 
 _Papua New Guinea__(Transfer of Banking Business) Act 1973_
 
@@ -336,10 +339,7 @@ _Reserve Bank Act 1959_
 
 _Superannuation Industry (Supervision) Act 1993_
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 161, 1995.
-
-* * *
-
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 161, 1995.</div>
 
 
 # Notes to the _Commonwealth Bank Sale Act 1995_
@@ -368,11 +368,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -400,7 +402,9 @@ of Assent</div>
 Schedule (item 12): 22 Nov 1996 ( <i>see Gazette</i>1996 No. S442) 
 Schedule (item 22): 19 July 1997 
 Schedule (items 1, 48): 19 July 2006 
-Remainder: Royal Assent</div>
+Remainder: Royal Assent 
+
+</div>
     </td>
     <td>
       <div></div>
@@ -440,24 +444,9 @@ Remainder: Royal Assent</div>
       <div>—</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
-    </td>
-    <td>
-      <div>154, 2007</div>
-    </td>
-    <td>
-      <div>24 Sept 2007</div>
-    </td>
-    <td>
-      <div>Schedule 4 (item 12): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+</thead>
+<tbody></tbody></table>
+
 
 _(a)_ The _Commonwealth Bank__Sale__Act 1995_ was amended by Schedule 3 (item 21) only of the _Tax Law Improvement Act (No. 1) 1998_, subsections 2(1)–(3) of which provide as follows:
 
@@ -474,6 +463,7 @@ _(b)_    The _Commonwealth Bank__Sale__Act 1995_ was amended by Schedule�
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
+
 
 ## Table of Amendments
 
@@ -498,42 +488,37 @@ _(b)_    The _Commonwealth Bank__Sale__Act 1995_ was amended by Schedule�
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Heading to s. 18</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 46, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 154, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Heading to s. 18</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 46, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+</tbody></table>
 
  
 
-## Table A
+
+Table A
 
 ### Application, saving or transitional provisions
 
@@ -544,6 +529,7 @@ _Tax Law Improvement Act (No. 1) 1998 (No. 46, 1998)_
                    An amendment made by an item in a Schedule (except an item in Schedule 1 or in Part 1 of any of Schedules 2 to 8) applies to assessments for the 1998-99 income year and later income years, unless otherwise indicated in the Schedule in which the item appears.
 
  
+
 
  
 
