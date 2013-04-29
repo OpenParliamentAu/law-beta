@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00135/Html/IntTaxAgrAct53Vol1_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00487/Html/IntTaxAgrAct53Vol1_WD02_image001.gif)
 
 # International Tax Agreements Act 1953
 
 **Act No. 82 of 1953 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 16 October 2009
+ taking into account amendments up to Act No. 105 of 2009
 
 **Volume 1** includes:       Sections 1–24
                                      Schedules 1–24
@@ -308,15 +308,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="agreem"></a><a name="united-kingdom"></a><a name="1946"></a>**_the 1946_****_United Kingdom_****_agreement_** means the Agreement between the Government of Australia and the Government of the United Kingdom for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income that was signed at London on 29 October 1946.
 
-                    <a name="agreem"></a><a name="new-zealand"></a><a name="1960"></a>**_the 1960_****_New Zealand_****_agreement_** means the Agreement between the Government of Australia and the Government of New Zealand for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income that was signed at   Canberra on 12 May 1960.
-
                     <a name="agreem"></a><a name="united-kingdom"></a><a name="1967"></a>**_the 1967_****_United Kingdom_****_agreement_** means the Agreement between the Government of the Commonwealth of Australia and the Government of the United Kingdom of Great Britain and Northern Ireland for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and capital gains that was signed at Canberra on 7 December 1967.
 
                     <a name="1969-french-airlin-profit-agreem"></a>**_the 1969 French airline profits agreement_** means the Agreement between the Government of Australia and the Government of the French Republic for the avoidance of double taxation of income derived from international air transport that was signed at Canberra on 27 March 1969.
 
                     <a name="1969-japanes-agreem"></a>**_the 1969 Japanese agreement_** means the Agreement between the Government of the Commonwealth of Australia and the Government of Japan for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and the protocol to that agreement, being the agreement and protocol that was signed at Canberra on 20 March 1969.
-
-                    <a name="agreem"></a><a name="new-zealand"></a><a name="1972"></a>**_the 1972_****_New Zealand_****_agreement_** means the Agreement between the Government of Australia and the Government of New Zealand for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income that was signed at   Melbourne on 8 November 1972.
 
                     <a name="1976-french-agreem"></a>**_the 1976 French agreement_** means the Agreement between the Government of Australia and the Government of the French Republic for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income that was signed at Canberra on 13 April 1976.
 
@@ -400,6 +396,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="netherland-agreem"></a>**_the Netherlands agreement_** means the Agreement between the Government of Australia and the Government of the Kingdom of the Netherlands for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and the protocol to that agreement, being the agreement and protocol a copy of each of which in the English language is set out in Schedule 10, as amended by the second Netherlands protocol.
 
+                    <a name="agreem"></a><a name="new-zealand"></a><a name="1960"></a>**_the 1960_****_New Zealand_****_agreement_** means the Agreement between the Government of Australia and the Government of New Zealand for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income that was signed at   Canberra on 12 May 1960.
+
+                    <a name="agreem"></a><a name="new-zealand"></a><a name="1972"></a>**_the 1972_****_New Zealand_****_agreement_** means the Agreement between the Government of Australia and the Government of New Zealand for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income that was signed at   Melbourne on 8 November 1972.
+
                     <a name="agreem"></a><a name="new-zealand"></a><a name=""></a>**_the_****_New Zealand_****_agreement_** means the Agreement between the Government of Australia and the Government of New Zealand for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the agreement a copy of which is set out in Schedule 4, as amended by the New Zealand protocol.
 
                     <a name="protocol"></a><a name="new-zealand"></a><a name=""></a>**_the_****_New   Zealand_****_protocol_** means the Protocol amending the Agreement between the Government of Australia and the Government of New Zealand for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income. A copy of the protocol is set out in Schedule 4A.
@@ -418,7 +418,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="russian-agreem"></a>**_the Russian agreement_** means the Agreement between the Government of Australia and the Government of the Russian Federation for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and the protocol to that agreement, being the agreement and protocol a copy of each of which in the English language is set out in Schedule 46.
 
-                    <a name="second-malaysian-protocol"></a>**_the second Malaysian protocol_** means the Protocol, signed 28 July 2002, amending the agreement between Australia and Malaysia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the protocol a copy of which in the English language is set out in Schedule 16B.
+                    <a name="second-malaysian-protocol"></a>**_the second Malaysian protocol_** means the Protocol, signed 28 July 2002, amending the agreement between Australia and   Malaysia for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income, being the protocol a copy of which in the English language is set out in Schedule 16B.
 
                     <a name="protocol"></a><a name="netherland"></a><a name="second"></a>**_the second_****_Netherlands_****_protocol_** means the protocol a copy of which in the English language is set out in Schedule 10A, being the Second Protocol amending the Agreement between Australia and the Kingdom of the Netherlands for the avoidance of double taxation and the prevention of fiscal evasion with respect to tax on income with Protocol.
 
@@ -616,7 +616,7 @@ for the purpose of determining whether the income may be taxed in Australia in a
 
 ##### <a id="5"></a>5  The 2003 United Kingdom convention
 
-                   Subject to this Act, on and after the date of entry into force of the 2003 United Kingdom convention, the provisions of the convention, so far as those provisions affect Australian tax, have the force of law according to their tenor.
+                   Subject to this Act, on and after the date of entry into force of the 2003 United Kingdom convention, the provisions of the convention, so far as those provisions affect Australian tax, have the force of law according to their tenor.
 
 ##### <a id="5A"></a>5A  Previous United Kingdom agreements etc.
 
@@ -2181,7 +2181,7 @@ ARTICLE 4
 
              (ii)     any other person (except a company as defined under the law of Australia relating to Australian tax) who, under that law, is a resident of Australia,
 
-            provided that, in relation to any income, a person who:
+            provided that, in relation to any income, a person who:
 
             (iii)     is subject to Australian tax on income which is from sources in Australia; or
 
@@ -2511,7 +2511,7 @@ ARTICLE 18
 
 (1)   Subject to the provisions of Article 19 (Governmental Remuneration), pensions and other similar remuneration paid to an individual who is a resident of one of the Contracting States in consideration of past employment shall be taxable only in that State.
 
-(2)   Social security payments and other public pensions paid by one of the Contracting States to an individual who is a resident of the other Contracting State or a citizen of the United States shall be taxable only in the first--mentioned  State.
+(2)   Social security payments and other public pensions paid by one of the Contracting States to an individual who is a resident of the other Contracting State or a citizen of the United States shall be taxable only in the first--mentioned State.
 
 (3)   Annuities paid to an individual who is a resident of one of the Contracting States shall be taxable only in that State.
 
@@ -2559,7 +2559,7 @@ Such appropriate amount shall be based upon the amount of income tax paid to Aus
 
 (3)   An Australian corporation that owns at least 10 percent of the voting power in a United States corporation is, in accordance with the law of Australia as in force at the date of signature of this Convention, entitled to a rebate in its assessment, at the average rate of tax payable by it, in respect of dividends paid by the United States corporation that are included in the taxable income of the Australian corporation. However, should the law as so in force be amended so that the rebate in relation to the dividends ceases to be allowable under that law, Australia shall allow credit under paragraph (2) for the United States tax paid on the profits out of which the dividends are paid as well as for the United States tax paid on the dividends.
 
-(4)   For the purposes of computing United States tax, where a United States citizen is a resident of Australia, the United States shall allow as a credit against United   States tax the income tax paid to Australia after the credit referred to in paragraph (2). The credit so allowed against United States tax shall not reduce that portion of the United States tax that is creditable against Australian tax in accordance with paragraph (2).
+(4)   For the purposes of computing United States tax, where a United States citizen is a resident of Australia, the United States shall allow as a credit against United States tax the income tax paid to Australia after the credit referred to in paragraph (2). The credit so allowed against United States tax shall not reduce that portion of the United States tax that is creditable against Australian tax in accordance with paragraph (2).
 
 ARTICLE 23
 
@@ -2663,7 +2663,7 @@ ARTICLE 29
 
 <u>Termination</u>
 
-(1)   This Convention shall remain in force until terminated by a Contracting State. Either   Contracting State may terminate the Convention at any time after 5 years from the date on which the Convention enters into force, provided that at least 6 months prior notice of termination has been given through the diplomatic channel. In such event, the Convention shall cease to have effect:
+(1)   This Convention shall remain in force until terminated by a Contracting State. Either Contracting State may terminate the Convention at any time after 5 years from the date on which the Convention enters into force, provided that at least 6 months prior notice of termination has been given through the diplomatic channel. In such event, the Convention shall cease to have effect:
 
      (a)  with respect to those dividends, interest and royalties to which Articles 10 (Dividends), 11 (Interest) and 12 (Royalties) respectively apply, and which are paid, credited or otherwise derived on or after the first day of January following the expiration of the 6 month period; and
 
@@ -4046,7 +4046,7 @@ Business profits
 
 2.    Subject to the provisions of paragraph 3, where an enterprise of a Contracting State carries on business in the other Contracting State through a permanent establishment situated in that other State, there shall in each Contracting State be attributed to that permanent establishment the profits which it might be expected to make if it were a distinct and separate enterprise engaged in the same or similar activities under the same or similar conditions and dealing wholly independently with the enterprise of which it is a permanent establishment or with other enterprises with which it deals.
 
-3.    In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise which are incurred for the purposes of the permanent establishment (including executive and general administrative expenses so incurred), whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere. However, no deduction is allowable in respect of expenses which are not deductible under the law of the Contracting State in which the permanent establishment is situated.
+3.    In the determination of the profits of a permanent establishment, there shall be allowed as deductions expenses of the enterprise which are incurred for the purposes of the permanent establishment (including executive and general administrative expenses so incurred), whether incurred in the Contracting State in which the permanent establishment is situated or elsewhere. However, no deduction is allowable in respect of expenses which are not deductible under the law of the Contracting  State in which the permanent establishment is situated.
 
 4.    No profits shall be attributed to a permanent establishment by reason of the mere purchase by that permanent establishment of goods or merchandise for the enterprise.
 
@@ -4507,7 +4507,7 @@ the competent authority of the first-mentioned State shall promptly notify the c
 
 8.         In no case shall the provisions of this Article be construed so as to impose on a Contracting State the obligation:
 
-            a)         to carry out administrative measures at variance with the law and administrative practice of that or of the other Contracting State;
+            a)         to carry out administrative measures at variance with the law and administrative practice of that or of the other Contracting  State;
 
             b)         to carry out measures which would be contrary to public policy (ordre public);
 
@@ -5175,7 +5175,7 @@ Article 7 of the Agreement is omitted and the following Article is substituted:
 
 (3)   The provisions of paragraphs (1) and (2) shall apply in relation to the share of the profits from the operation of ships or aircraft derived by a resident of one of the Contracting States through participation in a pool service, in a joint transport operating organization or in an international operating agency.
 
-(4)   Interest earned on funds held in one of the Contracting States by a resident of the other Contracting  State in connection with the operation of ships or aircraft, other than operations confined solely to places in the first--mentioned State, shall be treated as profits from the operation of ships or aircraft.
+(4)   Interest earned on funds held in one of the Contracting States by a resident of the other Contracting State in connection with the operation of ships or aircraft, other than operations confined solely to places in the first--mentioned  State, shall be treated as profits from the operation of ships or aircraft.
 
 (5)   For the purposes of this Article, profits derived from the carriage by ships or aircraft of passengers, livestock, mail, goods or merchandise shipped in one of the Contracting States for discharge at another place in that Contracting State, or at one or more structures used in connection with the exploration for or exploitation of natural resources situated in waters adjacent to the territorial waters of that Contracting State, shall be treated as profits from operations of ships or aircraft confined solely to places in that State.”.
 
@@ -9843,7 +9843,7 @@ _Taxes Covered_
 
      (a)  in Australia:
 
-            The Australian income tax, including the additional tax upon the undistributed amount of the distributable income of a private company and also income tax upon the reduced taxable income of a non--resident company;
+            The Australian income tax, including the additional tax upon the undistributed amount of the distributable income of a private company and also income tax upon the reduced taxable income of a non--resident company;
 
      (b)  in Switzerland:
 
@@ -12558,7 +12558,7 @@ ARTICLE 11
 
      (c)  Except as aforesaid, dividends paid by a company which is a resident ofIreland for the purposes of Irish tax, being dividends to which a resident of Australia is beneficially entitled, shall be exempt from any tax in Ireland which is chargeable on dividends.
 
-(3)   A resident of Australia who receives dividends from a company which is a resident of Ireland shall, subject to the provisions of paragraph (4) of this Article and provided he is the beneficial owner of the dividends, be entitled to the tax credit in respect thereof to which an individual resident in Ireland would have been entitled had he received those dividends, and to the payment of any excess of that tax credit over his liability to Irish tax. Any such credit shall be treated for the purposes of Australian tax as assessable income from sources in Ireland.
+(3)   A resident of Australia who receives dividends from a company which is a resident of Ireland shall, subject to the provisions of paragraph (4) of this Article and provided he is the beneficial owner of the dividends, be entitled to the tax credit in respect thereof to which an individual resident in Ireland would have been entitled had he received those dividends, and to the payment of any excess of that tax credit over his liability to Irish tax. Any such credit shall be treated for the purposes of Australian tax as assessable income from sources in   Ireland.
 
 (4)   The provisions of paragraph (3) of this Article shall not apply where the beneficial owner of the dividends (being a company) is, or is associated with, a company which either alone or together with one or more associated companies controls directly or indirectly 10 per cent or more of the voting power in the company paying the dividends. For the purposes of this paragraph two companies shall be deemed to be associated if one controls directly or indirectly more than 50 per cent of the voting power in the other company, or a third company controls more than 50 per cent of the voting power in both of them.
 
@@ -13877,7 +13877,7 @@ ARTICLE 22
 
 (2)   However, if such income is derived by a resident of a Contracting State from sources in the other Contracting State, such income may also be taxed in the Contracting State in which it arises.
 
-(3)   The provisions of paragraph (1) shall not apply to income derived by a resident of a Contracting State where that income is effectively connected with a permanent establishment or fixed base situated in the other Contracting State. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
+(3)   The provisions of paragraph (1) shall not apply to income derived by a resident of a Contracting  State where that income is effectively connected with a permanent establishment or fixed base situated in the other Contracting State. In such a case, the provisions of Article 7 or Article 14, as the case may be, shall apply.
 
 ARTICLE 23
 
@@ -14591,7 +14591,7 @@ Other Income
 
 1          Items of income of a resident of a Contracting State, wherever arising, not dealt with in the foregoing Articles of this Convention shall be taxable only in that State.
 
-2          The provisions of paragraph 1 shall not apply to income, other than income from real property as defined in paragraph 2 of Article 6, derived by a resident of a Contracting State who carries on business in the other Contracting State through a permanent establishment situated therein and the right or property in respect of which the income is paid is effectively connected with such permanent establishment.  In such case the provisions of Article 7 shall apply.
+2          The provisions of paragraph 1 shall not apply to income, other than income from real property as defined in paragraph 2 of Article 6, derived by a resident of a Contracting State who carries on business in the other Contracting State through a permanent establishment situated therein and the right or property in respect of which the income is paid is effectively connected with such permanent establishment.  In such case the provisions of Article 7 shall apply.
 
 3          Notwithstanding the provisions of paragraphs 1 and 2, items of income of a resident of a Contracting State not dealt with in the foregoing Articles of this Convention from sources in the other Contracting State may also be taxed in that other State.
 
