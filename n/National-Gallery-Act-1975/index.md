@@ -1,7 +1,7 @@
 
 National Gallery Act 1975
 Act No. 61 of 1975 as amended
-This compilation was prepared on 6 November 2001 taking into account amendments up to Act No. 159 of 2001
+This compilation was prepared on 30 March 2000 taking into account amendments up to Act No. 156 of 1999
 The text of any of those amendments not in force  on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
@@ -12,47 +12,48 @@ Part I—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
-Part II—The National Gallery of Australia	3
-4	Establishment of National Gallery of Australia	3
-5	National collection to be housed in Australian Capital Territory	3
-6	Functions of Gallery	3
-7	Powers of Gallery	4
-8	Land and works of art for Gallery	5
-9	Disposal of works of art from national collection	6
-10	Exchange of works of art	6
-11	Disposal of property left with Gallery	6
-Part III—The Council	10
-12	Council	10
-13	Membership of Council	10
-14	Deputy Chair	10
-15	Deputies of members	11
-16	Remuneration and allowances of members etc.	11
-17	Termination of appointment	12
-18	Resignation	12
-20	Meetings of Council	12
-21	Committees of Council	13
-22	Delegation	13
-Part IV—The Director	15
-24	Director	15
-26	Terms and conditions of appointment etc.	15
-27	Remuneration and allowances	15
-28	Leave of absence	15
-29	Termination of appointment	16
-30	Resignation	16
-31	Acting Director	16
-Part V—Staff	18
-33	Staff	18
-Part VI—Finance	19
-34	Moneys payable to Gallery	19
-36	National Gallery of Australia Fund	19
-37	Application of moneys	19
-38	Power to purchase and dispose of assets	20
-40	Extra matters to be included in annual report	20
-41	Exemption from taxation	21
-Part VII—Miscellaneous	22
-45	Supply of liquor on premises of Gallery	22
-46	Regulations	22
+Part II—The National Gallery of Australia	2
+4	Establishment of National Gallery of Australia	2
+5	National collection to be housed in Australian Capital Territory	2
+6	Functions of Gallery	2
+7	Powers of Gallery	3
+8	Land and works of art for Gallery	4
+9	Disposal of works of art from national collection	5
+10	Exchange of works of art	5
+11	Disposal of property left with Gallery	5
+Part III—The Council	9
+12	Council	9
+13	Membership of Council	9
+14	Deputy Chair	9
+15	Deputies of members	10
+16	Remuneration and allowances of members etc.	10
+17	Termination of appointment	11
+18	Resignation	11
+20	Meetings of Council	11
+21	Committees of Council	12
+22	Delegation	12
+Part IV—The Director	14
+24	Director	14
+26	Terms and conditions of appointment etc.	14
+27	Remuneration and allowances	14
+28	Leave of absence	14
+29	Termination of appointment	15
+30	Resignation	15
+31	Acting Director	15
+Part V—Staff	17
+33	Staff	17
+Part VI—Finance	18
+34	Moneys payable to Gallery	18
+36	National Gallery of Australia Fund	18
+37	Application of moneys	18
+38	Power to purchase and dispose of assets	19
+40	Extra matters to be included in annual report	19
+41	Exemption from taxation	20
+Part VII—Miscellaneous	21
+45	Supply of liquor on premises of Gallery	21
+46	Regulations	21
 Notes		23
+
 An Act relating to the National Gallery of Australia
 Part I—Preliminary
   
@@ -237,6 +238,7 @@ Part IV—The Director
 26  Terms and conditions of appointment etc.
 	(1)	The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
 	(2)	The Director holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment, but is eligible for re‑appointment.
+	(3)	A person who has attained the age of 65 years shall not be appointed or re‑appointed as the Director and a person shall not be appointed or re‑appointed as the Director for a period that extends beyond the date on which he or she will attain the age of 65 years.
 27  Remuneration and allowances
 	(1)	The Director shall be paid such remuneration as is determined by the Remuneration Tribunal, but, if no determination of that remuneration by the Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 	(2)	The Director shall be paid such allowances as are prescribed.
@@ -321,8 +323,7 @@ Part VII—Miscellaneous
 
 Notes to the National Gallery Act 1975
 Note 1
-The National Gallery Act 1975 as shown in this compilation comprises Act No. 61, 1975 amended as indicated in the Tables below.
-All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information see Table A.
+The National Gallery Act 1975 as shown in this consolidation comprises Act No. 61, 1975 amended as indicated in the Tables below.
 Table of Acts
 Act
 Number  and year
@@ -409,11 +410,6 @@ Corporate Law Economic Reform Program Act 1999
 24 Nov 1999
 Schedule 10 (items 94, 95): 13 Mar 2000 (see Gazette 2000, No. S114) (h)
 —
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
-159, 2001
-1 Oct 2001
-29 Oct 2001
-Sch 1 (item 97) [see Table A]
 (a)	The National Gallery Act 1975 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(29) of which provides as follows:
 	(29)	The amendments of the National Gallery Act 1975 made by this Act shall come into operation on the day on which this Act receives the Royal Assent.
 (b)	The Statute Law (Miscellaneous Provisions) Act (No. 1) 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1985, paragraph 2(15)(a) of which provides as follows:
@@ -492,9 +488,7 @@ S. 24
 am. No. 130, 1992
 S. 25	
 rep. No. 65, 1985
-S. 26	
-am. No. 65, 1985; No. 43, 1996; No. 159, 2001
-S. 27	
+Ss. 26, 27	
 am. No. 65, 1985; No. 43, 1996
 S. 28	
 am. No. 65, 1985
@@ -544,10 +538,5 @@ Ss. 43, 44
 rep. No. 65, 1985
 S. 46	
 am. No. 65, 1985 
-Table A
-Application, saving or transitional provisions
-Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)
-Schedule 1
-97  Application of amendments
-The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
+
 
