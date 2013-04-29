@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00965/Html/3ff5bd43-8496-420c-bb3c-f475df16d42f_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00768/Html/e696d03a-0a7e-4967-ac9a-630271038147_files/image001.gif)
 
 # Aboriginal Land Rights (Northern Territory) Act 1976
 
 **Act No. 191 of 1976 as amended**
 
-This compilation was prepared on 20 December 2011
- taking into account amendments up to Act No. 188 of 2011
+This compilation was prepared on 22 September 2011
+ taking into account amendments up to Act No. 97 of 2011
 
 [**Note**: Subsections 70(2BA), (2BB), (2BC) cease to have effect on 
   18 August 2012, _see_ section 70]
@@ -6123,7 +6123,7 @@ Delegation—except mining
 
                      (d)  an SES employee or acting SES employee in any other Department of the Commonwealth; or
 
-                     (e)  the Chief Executive Officer of Indigenous Business Australia appointed under section 168 of the _Aboriginal and Torres Strait Islander Act 2005_.
+                     (e)  the General Manager of Indigenous Business Australia appointed under section 168 of the _Aboriginal and Torres Strait Islander Act 2005_.
 
 Delegation—mining
 
@@ -6204,6 +6204,8 @@ shall be deemed, for the purposes of this Act, to have been engaged in also by t
 ##### <a id="78"></a>78  Regulations
 
                    The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, prescribing penalties, not exceeding a fine of 6 penalty units, for offences against the regulations.
+
+ 
 
 # Schedule 1  
 
@@ -6473,11 +6475,11 @@ All those parcels of land in the Northern Territory containing an area of 5,333�
 
 Firstly:
 
-All that parcel of land containing an area of 1,340 hectares more or less, being all of Northern Territory portion 3807 and being more particularly delineated on Survey Plans S.89/90A and S.89/90B lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 1,340 hectares more or less, being all of Northern Ter  ritory portion 3807 and being more particularly delineated on Survey Plans S.89/90A and S.89/90B lodged with the Surveyor‑General, Darwin.
 
 Secondly:
 
-All that parcel of land containing an area of 1,494 hectares more or less, being all of Northern Ter  ritory portion 3808 and being more particularly delineated on Survey Plans S.89/88A to S.89/88C lodged with the Surveyor‑General, Darwin.
+All that parcel of land containing an area of 1,494 hectares more or less, being all of Northern Territory portion 3808 and being more particularly delineated on Survey Plans S.89/88A to S.89/88C lodged with the Surveyor‑General, Darwin.
 
 Thirdly:
 
@@ -16456,7 +16458,7 @@ _Note:       See paragraph 70A(2)(a)._
   </td>
 </tr></table>
 
-##### <a id="26"></a>26  Milyakburra
+##### <a id="26"></a>26  Milyakburra
 
                    All that area of land contained within the area of land outlined below having a total area of approximately 3.482 square kilometres, to the extent that it is Aboriginal land within the meaning of paragraph (a) of the definition of **_Aboriginal land_** in subsection 3(1), being all of that area contained within and bounded by a line commencing on the low water mark of the coastline of the Northern Territory at Point 1 listed immediately below, thence initially in a north easterly direction successively along a straight line (loxodrome) between each of the following points in the sequence to the intersection with the low water mark of the coastline of the Northern Territory at Point 10, thence generally in a northerly direction following the low water mark of that coastline to the point of commencement.
 
@@ -20053,7 +20055,7 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 19 94 (GDA94)</b>
+        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -25102,7 +25104,7 @@ _Note:       See paragraph 70A(2)(a)._
     </td>
     <td colspan="2">
       <div>
-        <b>Geocentric Datum of Australia 19 94 (GDA94)</b>
+        <b>Geocentric Datum of Australia 1994 (GDA94)</b>
       </div>
     </td>
   </tr>
@@ -26237,7 +26239,7 @@ Remainder: 26 Jan 1977 ( <i>see Gazette</i>1977, No. S6)</div>
     <div>28 May 1980</div>
   </td>
   <td>
-    <div>Ss. 3 and 6–9: 26 Jan 1977 
+    <div>Ss. 3 and 6‑9: 26 Jan 1977 
 Remainder: Royal 
 Assent</div>
   </td>
@@ -27285,23 +27287,6 @@ Ss. 4 and 5 (rep. by 93, 2010, Sch. 1 \[item 1]) \[ <i>see</i>Table A]</div>
   </td>
   <td>
     <div>Schedule 1: 16 Sept 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Indigenous Affairs Legislation Amendment Act (No. 2) 2011</div>
-  </td>
-  <td>
-    <div>188, 2011</div>
-  </td>
-  <td>
-    <div>7 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 73): 8 Dec 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -30134,7 +30119,7 @@ No. 93, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 67, 2008; No. 188, 2011</div>
+    <div>am. No. 67, 2008</div>
   </td>
 </tr>
 <tr>
@@ -30348,7 +30333,7 @@ Repeal the subsection.
 
 Omit “paragraph 34AB(d)”, substitute “paragraph 34AB(1)(d)”.
 
-As at 20 December 2011 the amendments are not incorporated in this compilation.
+As at 22 September 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
