@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00175/Html/TelstraCorpn1991WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00734/Html/TelstraCorpn1991WD02_image001.gif)
 
 # Telstra Corporation Act 1991
 
 **Act No. 79 of 1991 as amended**
 
-This compilation was prepared on 30 March 2007
- taking into account amendments up to Act No. 122 of 2006
+This compilation was prepared on 18 December 2006
+ taking into account amendments up to Act No. 118 of 2005
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -46,6 +46,20 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8AA](#8AA).      Simplified outline
 
+    **Division 3—Telstra’s reporting obligations**
+
+[8AD](#8AD).      Financial statements
+
+[8AE](#8AE).       Minister to be notified of significant events
+
+[8AF](#8AF).       Keeping the Minister and the Minister for Finance informed
+
+[8AG](#8AG).      Corporate plan for Telstra
+
+[8AH](#8AH).      Consequences of contraventions of this Division
+
+[8AI](#8AI).        This Division has effect despite the Corporations Act etc 
+
     **Division 4—Provisions relating to the sale by the Commonwealth of its shares in Telstra**
 
 [8AJ](#8AJ).       Telstra sale scheme
@@ -79,6 +93,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [8AX](#8AX).      Agreements relating to the protection of information obtained from Telstra or the Board
 
 [8AY](#8AY).      Telstra’s obligations to disclose information
+
+[8AYA](#8AYA).   Minister for Finance may direct Telstra not to dilute the Commonwealth’s equity in Telstra etc 
 
 [8AYB](#8AYB).    Telstra to give information to the Minister about the level of non-Commonwealth ownership of shares in Telstra
 
@@ -193,6 +209,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [8CM](#8CM).     Re-affirmation of universal service obligation and digital data service obligation
 
 [8CN](#8CN).      Re-affirmation of the customer service guarantee
+
+**Part 3—Operation of Telstra**
+
+[9](#9).            Minister may give directions to Telstra
 
 **Part 3A—Transitional provisions relating to the sale by the Commonwealth of its remaining equity interest in Telstra** 
 
@@ -734,9 +754,135 @@ Commonwealth may sell its remaining equity interest in Telstra.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     This
 
+Part imposes reporting obligations on Telstra.</li>
+
+<li class="BoxList" style="margin-left:21.25pt">•     This
+
 Part sets out rules about how that sale is to be carried out.</li>
 
 * * *
+
+### Division 3—Telstra’s reporting obligations
+
+##### <a id="8AD"></a>8AD  Financial statements
+
+             (1)  The Minister may give Telstra a written direction requiring Telstra to give the Minister a specified financial statement or statements for a specified period or for each specified period.
+
+             (2)  Telstra must comply with a direction under subsection (1).
+
+             (3)  The following are examples of periods that may be specified under subsection (1):
+
+                     (a)  the first 3 months of each financial year;
+
+                     (b)  the first 6 months of each financial year;
+
+                     (c)  the first 9 months of each financial year;
+
+                     (d)  each financial year.
+
+             (4)  The members of the Board must:
+
+                     (a)  prepare each statement in accordance with written guidelines given to the Board by the Minister; and
+
+                     (b)  give the statement to the Minister within 2 months after the end of the period to which the statement relates.
+
+             (5)  The Minister may grant extensions of time in special circumstances.
+
+             (6)  In this section:
+
+                    <a name="financi-statem"></a>**_financial statements_** includes financial statements for the group consisting of:
+
+                     (a)  Telstra; and
+
+                     (b)  Telstra subsidiaries.
+
+##### <a id="8AE"></a>8AE  Minister to be notified of significant events
+
+             (1)  If Telstra, or any Telstra subsidiary, proposes to do any of the following things, the members of the Board must immediately give the Minister written particulars of the proposal:
+
+                     (a)  form a company or participate in the formation of a company;
+
+                     (b)  participate in a significant partnership, trust, unincorporated joint venture or similar arrangement;
+
+                     (c)  acquire or dispose of a significant shareholding in a company;
+
+                     (d)  acquire or dispose of a significant business;
+
+                     (e)  commence or cease a significant business activity;
+
+                      (f)  make a significant change in the nature or extent of its interests in a partnership, trust, unincorporated joint venture or similar arrangement.
+
+             (2)  The Minister may, by writing, exempt the members of the Board from the requirement to notify matters covered by paragraph (1)(a). The exemption may be granted subject to conditions.
+
+             (3)  The Minister may give written guidelines to the Board that are to be used by the members in deciding whether a proposal is covered by paragraph (1)(b), (c), (d), (e) or (f).
+
+##### <a id="8AF"></a>8AF  Keeping the Minister and the Minister for Finance informed
+
+             (1)  The members of the Board must:
+
+                     (a)  keep the Minister informed of the operations of Telstra and Telstra subsidiaries; and
+
+                     (b)  give the Minister such reports, documents and information in relation to those operations as the Minister requires; and
+
+                     (c)  give the Minister for Finance such reports, documents and information in relation to those operations as the Minister for Finance requires.
+
+             (2)  The members of the Board must comply with requirements under paragraphs (1)(b) and (c) within the time limits set by the Minister concerned.
+
+##### <a id="8AG"></a>8AG  Corporate plan for Telstra 
+
+             (1)  The members of the Board must prepare a corporate plan at least once a year and give it to the Minister.
+
+             (2)  The plan must cover a period of at least 3 years and not more than 5 years.
+
+             (3)  If Telstra has subsidiaries, the plan must cover both Telstra and its subsidiaries. In particular, for each subsidiary the plan must include details of the matters in subsection (6), so far as they are applicable.
+
+             (4)  The members of the Board must keep the Minister informed about changes to the plan.
+
+             (5)  If the Board becomes aware that a particular matter may affect the achievement of the plan, the Board must give the Minister a written notice:
+
+                     (a)  setting out particulars of the matter; and
+
+                     (b)  explaining the effect of the matter on the achievement of the plan.
+
+             (6)  The plan must include details of the following matters (so far as they are applicable):
+
+                     (a)  the objectives of the company;
+
+                     (b)  assumptions about the business environment in which the company operates;
+
+                     (c)  the business strategies of the company;
+
+                     (d)  the investment and financing programs of the company, including strategies for managing financial risk;
+
+                     (e)  financial targets and projections for the company;
+
+                      (f)  the dividend policy of the company;
+
+                     (g)  non-financial performance measures for the company;
+
+                     (h)  community service obligations of the company;
+
+                      (i)  review of performance against previous corporate plans and targets;
+
+                      (j)  analysis of factors likely to affect achievement of targets or create significant financial risk for the company or for the Commonwealth; 
+
+                     (k)  price control and quality control strategies for goods or services supplied by the company under a monopoly;
+
+                      (l)  human resource strategies and industrial relations strategies.
+
+             (7)  The plan must also cover any other matters required by the Minister (which may include further details about the matters in subsection (6)).
+
+##### <a id="8AH"></a>8AH  Consequences of contraventions of this Division
+
+                   A contravention of this Division is not an offence. However, a contravention of this Division is a ground for obtaining an injunction under Division 1 of Part 2B.
+
+##### <a id="8AI"></a>8AI  This Division has effect despite the Corporations Act etc.
+
+                   To avoid doubt, the operation of this Division does not result in a contravention of, or give rise to a liability or remedy under:
+
+                     (a)  a provision of the _Corporations Act 2001_; or
+
+                     (b)  a rule of common law or equity (other than a rule of administrative law).
 
 ### Division 4—Provisions relating to the sale by the Commonwealth of its shares in Telstra 
 
@@ -1206,7 +1352,7 @@ merely because of information in the possession of an officer or employee of the
 
 ##### <a id="8AW"></a>8AW  Use by the Commonwealth of information obtained from Telstra or the Board
 
-             (1)  This section applies to information obtained under repealed Division 3 or under section 8AQ.
+             (1)  This section applies to information obtained under Division 3 or section 8AQ.
 
              (2)  The Commonwealth, or an associated person, may use the information for a purpose in connection with the formulation, entering into, or carrying out, of a Telstra sale scheme.
 
@@ -1248,7 +1394,7 @@ merely because of information in the possession of an officer or employee of the
 
              (1)  The Minister for Finance may, on behalf of the Commonwealth, enter into an agreement with Telstra, or with one or more members of the Board, relating to the protection of information:
 
-                     (a)  that is obtained under repealed Division 3 or under section 8AQ; and
+                     (a)  that is obtained under Division 3 or section 8AQ; and
 
                      (b)  the publication of which might be expected to prejudice substantially Telstra’s commercial interests.
 
@@ -1258,7 +1404,7 @@ merely because of information in the possession of an officer or employee of the
 
 ##### <a id="8AY"></a>8AY  Telstra’s obligations to disclose information
 
-             (1)  To avoid doubt, the mere fact that particular information was requested, required or given under repealed Division 3 or under section 8AQ is not a ground on which Telstra can be required to disclose or notify that, or any other, information under:
+             (1)  To avoid doubt, the mere fact that particular information was requested, required or given under Division 3 or section 8AQ is not a ground on which Telstra can be required to disclose or notify that, or any other, information under:
 
                      (a)  a provision of the _Corporations Act 2001_; or
 
@@ -1271,6 +1417,68 @@ merely because of information in the possession of an officer or employee of the
                     <a name=""></a><a name="list-market"></a>**_listing market_**, in relation to a listed disclosing entity, has the same meaning as it is given by section 9 of the _Corporations Act 2001_.
 
                     <a name="list-rule"></a>**_listing rules_** of a market has the same meaning as it is given by section 9 of the _Corporations Act 2001_.
+
+##### <a id="8AYA"></a>8AYA  Minister for Finance may direct Telstra not to dilute the Commonwealth’s equity in Telstra etc.
+
+Equity-dilution conduct
+
+             (1)  For the purposes of this section, **_equity-dilution conduct_** is conduct that:
+
+                     (a)  will result, or is likely to result, in a dilution of the Commonwealth’s equity in Telstra; and
+
+                     (b)  is not carried out under a Telstra sale scheme.
+
+             (2)  In determining whether conduct is equity-dilution conduct, regard must be had to the economic and commercial substance of the conduct.
+
+             (3)  Subsection (2) does not, by implication, limit subsection (1).
+
+Security-issue conduct
+
+             (4)  For the purposes of this section, **_security-issue conduct_** is conduct that consists of the issue of a security or a financial product.
+
+Notification of proposal to engage in equity-dilution conduct or security-issue conduct
+
+             (5)  Before engaging in particular equity-dilution conduct or security-issue conduct, Telstra must give the Minister for Finance a written notice:
+
+                     (a)  setting out details of Telstra’s proposal to engage in that conduct; and
+
+                     (b)  giving Telstra’s reasons for that proposal.
+
+             (6)  A notice under subsection (5) must be given to the Minister for Finance not later than:
+
+                     (a)  30 days before engaging in the equity-dilution conduct or security-issue conduct; or
+
+                     (b)  if the Minister for Finance allows a shorter period—the beginning of that shorter period.
+
+Direction not to engage in equity-dilution conduct or security-issue conduct
+
+             (7)  The Minister for Finance may, by written notice given to Telstra, direct Telstra not to engage in specified equity-dilution conduct or specified security-issue conduct.
+
+Note:          For specification by class, see subsection 46(3) of the _Acts Interpretation Act 1901_.
+
+             (8)  Telstra must comply with a direction under subsection (7).
+
+Sanction
+
+             (9)  A breach of this section is not an offence. However, a breach of this section is a ground for obtaining an injunction under Division 1 of Part 2B.
+
+Future Fund and Communications Fund
+
+           (10)  For the purposes of this section, if a share in Telstra is an investment of the Future Fund or the Communications Fund, the share is taken to be held by a person other than the Commonwealth.
+
+Direction
+
+           (11)  A direction under subsection (7) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+
+Definitions
+
+           (12)  In this section:
+
+                    <a name="financi-product"></a>**_financial product_** has the same meaning as in Chapter 7 of the _Corporations Act 2001_.
+
+                    <a name="secur"></a>**_security_** has the same meaning as in Chapter 7 of the _Corporations Act 2001_.
+
+                    <a name="commonwealth"></a>**_the Commonwealth_** includes a category A hybrid-security issuer company.
 
 ##### <a id="8AYB"></a>8AYB  Telstra to give information to the Minister about the level of non-Commonwealth ownership of shares in Telstra
 
@@ -1410,9 +1618,7 @@ head office, base of operations and place of incorporation are to remain in Aust
 
 <li class="BoxList" style="margin-left:21.25pt">**•**Telstra’s
 
-Chairperson, and a majority of Telstra’s directors, must be Australian
-
-citizens.</li>
+Chairperson, and a majority of Telstra’s directors, must be Australian citizens.</li>
 
 * * *
 
@@ -1954,6 +2160,30 @@ Note:          Section 28A of the _Acts Interpretation Act 1
 
              (2)  An expression used in this section and in Part 5 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_ has the same meaning in this section as it has in that Part.
 
+## Part 3—Operation of Telstra
+
+##### <a id="9"></a>9  Minister may give directions to Telstra
+
+             (1)  Subject to subsection (2), the Minister may, after consultation with the Board, give to Telstra such written directions in relation to the exercise of the powers of Telstra as appear to the Minister to be necessary in the public interest.
+
+             (2)  Subject to subsection (3), the Minister must not give a direction under subsection (1) in relation to the amounts to be charged for work done, or services, goods or information supplied, by Telstra.
+
+             (3)  Subsection (2) does not affect the Minister’s powers under Part 9 of the _Telecommunications (Consumer Protection and Service Standards) Act 1999_.
+
+             (4)  Any directions given by the Minister under subsection (1) have effect despite any direction given, or determination made, by the ACMA under the _Telecommunications Act 1997_.
+
+             (5)  Where the Minister gives a direction under subsection (1), the Minister must cause a copy of the direction to be laid before each House of the Parliament within 15 sitting days of that House after giving the direction.
+
+             (6)  The Minister is not taken to be a director of Telstra for the purposes of the _Corporations Act 2001_ because of the powers in relation to Telstra that are conferred on the Minister by this Act.
+
+             (7)  It is the duty of the Board to ensure that Telstra complies with any direction given to Telstra under subsection (1).
+
+             (8)  The Minister must cause a copy of the memorandum of association and articles of association of Telstra to be laid before each House of the Parliament within 15 sitting days of that House after the later of:
+
+                     (a)  the commencement of this section; or
+
+                     (b)  the incorporation of Telstra.
+
 ## Part 3A—Transitional provisions relating to the sale by the Commonwealth of its remaining equity interest in Telstra
 
 ### Division 1—Long service leave
@@ -2202,7 +2432,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00175/Html/TelstraCorpn1991WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00734/Html/TelstraCorpn1991WD02_image002.gif)
 
 where:
 
@@ -3114,7 +3344,7 @@ Note:   For specification by class, see subsection 13(3) of the _Legislative
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00175/Html/TelstraCorpn1991WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00734/Html/TelstraCorpn1991WD02_image003.gif)
 
 where:
 
@@ -3154,7 +3384,7 @@ the direct control interest mentioned in paragraph (c) is not to be counted.
 
 The _Telstra Corporation Act 1991_ as shown in this compilation comprises Act No. 79, 1991 amended as indicated in the Tables below.
 
-The _Telstra (Transition to Full Private Ownership) Act 2005_(No. 118, 2005) was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50).
+The _Telstra (Transition to Full Private Ownership) Act 2005_(No. 118, 2005) was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50) [_see_ Note 2].
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
@@ -3315,7 +3545,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (item 1248) and Schedule 4 (items 1–3, 4(2)(a), (3) and 8(2)(c)): 1 Jan 1998 ( <i>see</i> <i>Gazette</i>1997, No. GN49) <i>(d)</i></div>
   </td>
   <td>
-    <div>S. 4(3) and Sch. 4 (items 1–3, 4(2)(a), (3), 8(2)(c))</div>
+    <div>S. 4(3), Sch. 4 (items 1–3, 4(2)(a), (3), 8(2)(c))</div>
   </td>
 </tr>
 <tr>
@@ -3332,7 +3562,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 3 (items 65–68): 2 Aug 1999 <i>(e)</i></div>
   </td>
   <td>
-    <div>Sch. 3 (items 77(1), (3), 78(1), (3)), 81 and 82</div>
+    <div>Sch. 3 (items 77(1), (3), 78(1), (3)), 81 and 82</div>
   </td>
 </tr>
 <tr>
@@ -3406,7 +3636,7 @@ Remainder: Royal Assent</div>
     <div>Ss. 4–14 and Schedule 3 (items 516–548): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(h)</i></div>
   </td>
   <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    <div>Ss. 4–14</div>
   </td>
 </tr>
 <tr>
@@ -3491,7 +3721,7 @@ Schedule 1 (items 441, 444, 456, 457, 491, 492): 1 July 2005</div>
 Schedule 2: <i>(k)</i></div>
   </td>
   <td>
-    <div>Sch. 4 \[ <i>see</i>Note 1]</div>
+    <div>Sch. 4</div>
   </td>
 </tr>
 <tr>
@@ -3531,7 +3761,7 @@ Schedule 4 (item 7): Royal Assent</div>
   <td>
     <div>Ss. 3, 4 and Schedule 1 (items 1–40): Royal Assent 
 Schedule 1 (items 57–65): 24 Nov 2006 ( <i>see</i>s. 3(1) and F2006L03997) 
-Schedule 1 (items 66–72): 28 Feb 2007 ( <i>see</i>s. 4(1), (6) and F2007L00883)</div>
+Schedule 1 (items 66–72): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>Ss. 3 and 4</div>
@@ -4154,10 +4384,10 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Div. 3 of Part 2</div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>rep. No. 118, 2005</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -4170,26 +4400,10 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 8AI</div>
   </td>
   <td>
     <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4206,14 +4420,6 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
   </td>
   <td>
     <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4453,7 +4659,7 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
     <div></div>
   </td>
   <td>
-    <div>am. No. 53 and 146, 1999; Nos. 55 and 123, 2001; No. 118, 2005</div>
+    <div>am. No. 53 and 146, 1999; Nos. 55 and 123, 2001</div>
   </td>
 </tr>
 <tr>
@@ -4462,14 +4668,6 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
   </td>
   <td>
     <div>ad. No. 81, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 2005</div>
   </td>
 </tr>
 <tr>
@@ -4485,28 +4683,12 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 55 and 123, 2001; No. 118, 2005</div>
+    <div>am. Nos. 55 and 123, 2001</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 8AYA</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8AYB–8AYD</div>
+    <div>Ss. 8AYA–8AYD</div>
   </td>
   <td>
     <div>ad. No. 118, 2005</div>
@@ -5210,10 +5392,10 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 </tr>
 <tr>
   <td>
-    <div>Part 3</div>
+    <div><b>Part 3</b></div>
   </td>
   <td>
-    <div>rep. No. 118, 2005</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -5226,26 +5408,10 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9</div>
   </td>
   <td>
     <div>am. No. 64, 1994; No. 59, 1997; No. 52, 1999; No. 55, 2001; No. 45, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 118, 2005</div>
   </td>
 </tr>
 <tr>
@@ -6016,6 +6182,52 @@ _(l)_ Subsection 2(1) (item 4) of the _Telecommunications Legislation Amendmen
     <div>am. No. 53, 1999; No. 118, 2005</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Telstra (Transition to Full Private Ownership) Act 2005 (No. 118, 2005)_
+
+The following amendments commence on the 85% sale day declared under section 4:
+
+## Schedule 1
+
+## 66  Section 8AA
+
+Omit:
+
+* * *
+
+<li class="BoxList" style="margin-left:21.25pt">•     This
+
+Part imposes reporting obligations on Telstra.</li>
+
+* * *
+
+## 67  Division 3 of Part 2
+
+Repeal the Division.
+
+## 68  Subsection 8AW(1)
+
+Omit “Division 3 or”, substitute “repealed Division 3 or under”.
+
+## 69  Paragraph 8AX(1)(a)
+
+Omit “Division 3 or”, substitute “repealed Division 3 or under”.
+
+## 70  Subsection 8AY(1)
+
+Omit “Division 3 or”, substitute “repealed Division 3 or under”.
+
+## 71  Section 8AYA
+
+Repeal the section.
+
+## 72  Part 3
+
+Repeal the Part.
+
+As at 18 December 2006 the amendments are not incorporated in this compilation.
 
 ## Table A
 
