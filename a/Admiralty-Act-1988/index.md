@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2006C00230/Html/C09245056CE5DAD2CA25716300189E7F/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00198/Html/4081E4906AA48DDACA25715700083764/$FILE/image001.gif)
 
 # Admiralty Act 1988
 
 **Act No. 34 of 1988 as amended**
 
-This compilation was prepared on 4 May 2006
+This compilation was prepared on 13 April 2006
 taking into account amendments up to Act No. 23 of 2006
 
 The text of any of those amendments not in force
@@ -21,121 +21,121 @@ Attorney-General’s Department, Canberra
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Maritime claims
+[4](#4).            Maritime claims                                                                                   4
 
-[5](#5).            Application
+[5](#5).            Application                                                                                          6
 
-[6](#6).            Certain rights not created or affected
+[6](#6).            Certain rights not created or affected                                                   7
 
-[7](#7).            External Territories
+[7](#7).            External Territories                                                                              7
 
-[8](#8).            Act to bind Crown
+[8](#8).            Act to bind Crown                                                                               7
 
 **Part II—Jurisdiction in Admiralty**
 
-[9](#9).            Admiralty jurisdiction _in personam_
+[9](#9).            Admiralty jurisdiction _in personam_                                                    9
 
-[10](#10).          Jurisdiction of superior courts in respect of Admiralty actions _in rem_
+[10](#10).          Jurisdiction of superior courts in respect of Admiralty actions _in rem_   9
 
-[11](#11).          Jurisdiction of other courts in respect of Admiralty actions _in rem_
+[11](#11).          Jurisdiction of other courts in respect of Admiralty actions _in rem_   9
 
-[12](#12).          Jurisdiction in associated matters
+[12](#12).          Jurisdiction in associated matters                                                      10
 
-[13](#13).          Restriction to Admiralty and maritime jurisdiction
+[13](#13).          Restriction to Admiralty and maritime jurisdiction                           10
 
 **Part III—Rights to proceed in Admiralty**
 
-[14](#14).          Admiralty actions _in rem_ to be commenced under this Act
+[14](#14).          Admiralty actions _in rem_ to be commenced under this Act              11
 
-[15](#15).          Right to proceed _in rem_ on maritime liens etc 
+[15](#15).          Right to proceed _in rem_ on maritime liens etc                                   11
 
-[16](#16).          Right to proceed _in rem_ on proprietary maritime claims
+[16](#16).          Right to proceed _in rem_ on proprietary maritime claims                  11
 
-[17](#17).          Right to proceed _in rem_ on owner’s liabilities
+[17](#17).          Right to proceed _in rem_ on owner’s liabilities                                   11
 
-[18](#18).          Right to proceed _in rem_ on demise charterer’s liabilities
+[18](#18).          Right to proceed _in rem_ on demise charterer’s liabilities                   12
 
-[19](#19).          Right to proceed _in rem_ against surrogate ship
+[19](#19).          Right to proceed _in rem_ against surrogate ship                                 12
 
-[20](#20).          Service on and arrest of only one ship
+[20](#20).          Service on and arrest of only one ship                                               12
 
-[21](#21).          Re-arrest
+[21](#21).          Re-arrest                                                                                            13
 
-[22](#22).          Service and arrest out of jurisdiction
+[22](#22).          Service and arrest out of jurisdiction                                                 13
 
-[23](#23).          Service and Execution of Process Act not to apply
+[23](#23).          Service and Execution of Process Act not to apply                          14
 
-[24](#24).          Proceeds
+[24](#24).          Proceeds                                                                                             14
 
-[25](#25).          Limitation of liability under Liability Conventions
+[25](#25).          Limitation of liability under Liability Conventions                           15
 
-[26](#26).          Proceedings under Civil Liability Convention
+[26](#26).          Proceedings under Civil Liability Convention                                   15
 
 **Part IV—Transfer and remittal of proceedings**
 
-[27](#27).          Transfer
+[27](#27).          Transfer                                                                                             16
 
-[28](#28).          Remittal
+[28](#28).          Remittal                                                                                             16
 
-[29](#29).          Security in relation to stayed or dismissed proceedings
+[29](#29).          Security in relation to stayed or dismissed proceedings                    18
 
-[30](#30).          Power to deal with ship or other property
+[30](#30).          Power to deal with ship or other property                                       19
 
 **Part V—Miscellaneous**
 
-[31](#31).          Effect of judgment
+[31](#31).          Effect of judgment                                                                             20
 
-[32](#32).          Powers of Federal Court in relation to register
+[32](#32).          Powers of Federal Court in relation to register                                  20
 
-[33](#33).          Co-ownership disputes
+[33](#33).          Co-ownership disputes                                                                     20
 
-[34](#34).          Damages for unjustified arrest etc 
+[34](#34).          Damages for unjustified arrest etc                                                     21
 
-[35](#35).          Priorities: general maritime claims
+[35](#35).          Priorities: general maritime claims                                                     21
 
-[36](#36).          Statutory powers of detention
+[36](#36).          Statutory powers of detention                                                          22
 
-[37](#37).          Limitation periods
+[37](#37).          Limitation periods                                                                             22
 
-[38](#38).          Mode of trial
+[38](#38).          Mode of trial                                                                                      23
 
-[39](#39).          Jurisdictional limits
+[39](#39).          Jurisdictional limits                                                                            23
 
-[40](#40).          Courts to act in aid of each other
+[40](#40).          Courts to act in aid of each other                                                       24
 
-[41](#41).          Rules
+[41](#41).          Rules                                                                                                  24
 
-[42](#42).          Rules Committee
+[42](#42).          Rules Committee                                                                               25
 
-[43](#43).          Regulations
+[43](#43).          Regulations                                                                                        25
 
 **Part VI—Repeals and amendments of Imperial legislation**
 
-[44](#44).          Colonial Courts of Admiralty Act
+[44](#44).          Colonial Courts of Admiralty Act                                                     26
 
-[45](#45).          Repeal of certain Imperial laws
+[45](#45).          Repeal of certain Imperial laws                                                         26
 
-[46](#46).          Merchant Shipping Act
+[46](#46).          Merchant Shipping Act                                                                     26
 
-[47](#47).          Transitional
+[47](#47).          Transitional                                                                                        27
 
 **Part VII—Validation of certain provisions of the Navigation Act 1912**
 
-[48](#48).          Validation
+[48](#48).          Validation                                                                                           28
 
-**Part VIII—Amendments of the Navigation Act 1912** 
+**Part VIII—Amendments of the Navigation Act 1912**
 
-Sections 49–57
+[Sections 49–57](#Sections 49–57).                                                                                                 29
 
-**Part IX—Amendment of the Shipping Registration Act 1981** 
+**Part IX—Amendment of the Shipping Registration Act 1981**
 
-Sections 58, 59
+[Sections 58, 59](#Sections 58, 59).                                                                                                 30
 
 **Notes** 
 
@@ -396,7 +396,7 @@ the other ship is, in relation to the claim, a surrogate ship.
 
 ##### <a id="9"></a>9  Admiralty jurisdiction _in personam_
 
-             (1)  Jurisdiction is conferred on the Federal Court, the Federal Magistrates Court and on the courts of the Territories, and the courts of the States are invested with federal jurisdiction, in respect of proceedings commenced as actions _in personam_:
+             (1)  Jurisdiction is conferred on the Federal Court and on the courts of the Territories, and the courts of the States are invested with federal jurisdiction, in respect of proceedings commenced as actions _in personam_:
 
                      (a)  on a maritime claim; or
 
@@ -566,7 +566,7 @@ Note:          For the Convention on the Law of the Sea see the 
 
 ##### <a id="27"></a>27  Transfer
 
-             (1)  Where a proceeding commenced under this Act is pending in the Federal Court, in the Federal Magistrates Court, in the Supreme Court of a State or Territory or in a court of a State or Territory exercising jurisdiction under section 11, the court (in this section called the **_first court_**) may, at any stage of the proceeding, upon application or on its own motion, by order, transfer the proceeding to some other court that has jurisdiction under this Act with respect to the subject-matter of the claim (in this section called the **_second court_**).
+             (1)  Where a proceeding commenced under this Act is pending in the Federal Court, in the Supreme Court of a State or Territory or in a court of a State or Territory exercising jurisdiction under section 11, the court (in this section called the **_first court_**) may, at any stage of the proceeding, upon application or on its own motion, by order, transfer the proceeding to some other court that has jurisdiction under this Act with respect to the subject-matter of the claim (in this section called the **_second court_**).
 
              (2)  Subsection (1) does not authorise the transfer of a proceeding commenced as an action _in rem_ to a court that does not, apart from the operation of subsection 28(7), have jurisdiction in respect of proceedings so commenced.
 
@@ -581,8 +581,6 @@ Note:          For the Convention on the Law of the Sea see the 
 ##### <a id="28"></a>28  Remittal
 
              (1)  Where a proceeding commenced under this Act as an action _in rem_ against a ship or other property is pending in the Federal Court or in the Supreme Court of a State, the court may, at any stage of the proceeding, upon application or on its own motion, remit the proceeding for hearing to:
-
-                    (aa)  the Federal Magistrates Court; or
 
                      (a)  a court of a State; or
 
@@ -618,7 +616,7 @@ being a court that would have had jurisdiction in respect of the proceeding if:
 
                      (b)  the power of a court to stay execution pending an appeal.
 
-             (7)  The second court is invested with federal jurisdiction, or, if that court is the Federal Magistrates Court or a court of a Territory, jurisdiction is conferred on that court, in respect of the proceeding.
+             (7)  The second court is invested with federal jurisdiction, or, if that court is a court of a Territory, jurisdiction is conferred on that court, in respect of the proceeding.
 
 ##### <a id="29"></a>29  Security in relation to stayed or dismissed proceedings
 
@@ -822,7 +820,7 @@ then, by force of this subsection, the court has power, exercisable in the same 
 
                      (b)  if the defendant is a corporation—a fine of $5,000.
 
-             (4)  Jurisdiction is conferred on the Federal Court, the Federal Magistrates Court and on the courts of the Territories, and the courts of the States are invested with federal jurisdiction, in respect of matters arising under the Rules.
+             (4)  Jurisdiction is conferred on the Federal Court and on the courts of the Territories, and the courts of the States are invested with federal jurisdiction, in respect of matters arising under the Rules.
 
              (5)  Part XII of the _Acts Interpretation Act 1901_ applies in relation to Rules made under this section as it applies in relation to regulations.
 
@@ -1135,10 +1133,10 @@ of Assent
       <div>6 Apr 2006</div>
     </td>
     <td>
-      <div>Schedule 3: 4 May 2006</div>
+      <div>Schedule 3: \[ <i>see</i>Note 2 and Table A]</div>
     </td>
     <td>
-      <div>Sch. 3 (items 2, 6, 8)</div>
+      <div>Sch. 3 (items 2, 6, 8) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
 </tbody></table>
@@ -1178,14 +1176,6 @@ of Assent
   </tr>
   <tr>
     <td>
-      <div>S. 9</div>
-    </td>
-    <td>
-      <div>am. No. 23, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 22</div>
     </td>
     <td>
@@ -1200,23 +1190,42 @@ of Assent
       <div>am. No. 166, 1992</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Ss. 27, 28</div>
-    </td>
-    <td>
-      <div>am. No. 23, 2006</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 41</div>
-    </td>
-    <td>
-      <div>am. No. 23, 2006</div>
-    </td>
-  </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006
+(No. 23, 2006)
+_
+
+The following amendments commence on 4 May 2006:
+
+## Schedule 3
+
+## 1  Subsection 9(1)
+
+After “Federal Court”, insert “, the Federal Magistrates Court”.
+
+## 3  Subsection 27(1)
+
+After “Federal Court,”, insert “in the Federal Magistrates Court,”.
+
+## 4  Before paragraph 28(1)(a)
+
+Insert:
+
+                    (aa)  the Federal Magistrates Court; or
+
+## 5  Subsection 28(7)
+
+After “if that court is”, insert “the Federal Magistrates Court or”.
+
+## 7  Subsection 41(4)
+
+After “Federal Court”, insert “, the Federal Magistrates Court”.
+
+As at 13 April 2006 the amendments are not incorporated in this compilation.
 
 
 ## Table A
@@ -1226,6 +1235,8 @@ of Assent
 _Jurisdiction of the Federal Magistrates Court Legislation Amendment Act 2006
 (No. 23, 2006)
 _
+
+The following provisions commence on 4 May 2006:
 
 ## Schedule 3
 
