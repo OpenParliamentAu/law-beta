@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00678/Html/d6dbc10a-4459-49b0-9c1a-dbb5e062f84d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00465/Html/43c1da58-2bba-4b00-b533-8d37b0f7eb51_files/image001.gif)
 
 # Health and Other Services (Compensation) Act 1995
 
 **Act No. 130 of 1995 as amended**
 
-This compilation was prepared on 22 August 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,147 +18,147 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                         1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Definitions                                                                                           1
+[3](#3).            Definitions
 
-[4](#4).            Definition of _compensation_                                                                  7
+[4](#4).            Definition of _compensation_
 
-[5](#5).            Application of this Act to events occurring before the commencement of this Act   8
+[5](#5).            Application of this Act to events occurring before the commencement of this Act
 
-[6](#6).            Crown to be bound                                                                              9
+[6](#6).            Crown to be bound
 
-[6A](#6A).         Application of the _Criminal Code_                                                        9
+[6A](#6A).         Application of the _Criminal Code_
 
 **Part 2—Consequences of compensation payments** 
 
     **Division 1—Medicare benefit**
 
-[7](#7).            Reimbursement of amounts payable for professional services           10
+[7](#7).            Reimbursement of amounts payable for professional services
 
-[8](#8).            Recovering past payments of medicare benefit from judgments and settlements      11
+[8](#8).            Recovering past payments of medicare benefit from judgments and settlements
 
     **Division 2—Nursing home benefit and residential care subsidy**
 
-[9](#9).            Reimbursement of amounts payable for nursing home care or residential care         13
+[9](#9).            Reimbursement of amounts payable for nursing home care or residential care
 
-[10](#10).          Recovering past payments of nursing home benefit or residential care subsidy from judgments and settlements    14
+[10](#10).          Recovering past payments of nursing home benefit or residential care subsidy from judgments and settlements
 
 **Part 3—Payments to the Commonwealth in respect of compensation payments** 
 
     **Division 1—Notices about compensation claims etc.**
 
-[11](#11).          Operation of Division                                                                        17
+[11](#11).          Operation of Division
 
-[13](#13).          Notice of reimbursement arrangements                                              17
+[13](#13).          Notice of reimbursement arrangements
 
-[14](#14).          Notice of intention to recover amounts                                               17
+[14](#14).          Notice of intention to recover amounts
 
-[17](#17).          Notice to claimant                                                                               18
+[17](#17).          Notice to claimant
 
-[18](#18).          Statement by claimant of past benefits                                                19
+[18](#18).          Statement by claimant of past benefits
 
-[19](#19).          Reconsideration of decisions about extensions of the period for giving statements  22
+[19](#19).          Reconsideration of decisions about extensions of the period for giving statements
 
-[20](#20).          Effect of date of hearing on period for giving statement                     22
+[20](#20).          Effect of date of hearing on period for giving statement
 
-[21](#21).          Notice of past benefits                                                                        23
+[21](#21).          Notice of past benefits
 
-[22](#22).          Restriction on making settlements                                                      25
+[22](#22).          Restriction on making settlements
 
-[23](#23).          Notice of judgment or settlement                                                        26
+[23](#23).          Notice of judgment or settlement
 
-[23A](#23A).       Statement after judgment or settlement—no relevant past benefits     28
+[23A](#23A).       Statement after judgment or settlement—no relevant past benefits
 
-[23B](#23B).       Notice of statement that is not substantially correct                            30
+[23B](#23B).       Notice of statement that is not substantially correct
 
-[23C](#23C).       Notice of acceptance of amended statement                                        31
+[23C](#23C).       Notice of acceptance of amended statement
 
-[23D](#23D).       Review of decision under section 23B by the Administrative Appeals Tribunal      31
+[23D](#23D).       Review of decision under section 23B by the Administrative Appeals Tribunal
 
-[24](#24).          Notice of charge—claims resulting in judgments or settlements        32
+[24](#24).          Notice of charge—claims resulting in judgments or settlements
 
-[25](#25).          Notice of charge—claims resulting in reimbursement arrangements  34
+[25](#25).          Notice of charge—claims resulting in reimbursement arrangements
 
-[26](#26).          Offences                                                                                             35
+[26](#26).          Offences
 
     **Division 2—Payments to the Commonwealth in respect of amounts of compensation**
 
-[27](#27).          Limit on total amount payable in respect of amounts of compensation 38
+[27](#27).          Limit on total amount payable in respect of amounts of compensation
 
-[28](#28).          Payments to the Commonwealth                                                        38
+[28](#28).          Payments to the Commonwealth
 
-[29](#29).          Recovery of amounts payable to the Commonwealth                         39
+[29](#29).          Recovery of amounts payable to the Commonwealth
 
-[30](#30).          Notice of charge suspends liability to pay compensation etc              40
+[30](#30).          Notice of charge suspends liability to pay compensation etc 
 
-[31](#31).          Payment to the Commonwealth discharges liability                           40
+[31](#31).          Payment to the Commonwealth discharges liability
 
-[32](#32).          Offence to make payment before discharging liability to the Commonwealth          41
+[32](#32).          Offence to make payment before discharging liability to the Commonwealth
 
-[33](#33).          Interest not payable on amount withheld                                            43
+[33](#33).          Interest not payable on amount withheld
 
     **Division 2A—Advance payments to the Commonwealth**
 
-[33A](#33A).       Notice of advance payment                                                                44
+[33A](#33A).       Notice of advance payment
 
-[33B](#33B).       Advance payments                                                                             44
+[33B](#33B).       Advance payments
 
-[33C](#33C).       Notice of past benefits                                                                        45
+[33C](#33C).       Notice of past benefits
 
-[33D](#33D).       Time within which notice of past benefits must be given                   46
+[33D](#33D).       Time within which notice of past benefits must be given
 
-[33H](#33H).       Refunds from advance payments                                                       46
+[33H](#33H).       Refunds from advance payments
 
-[33J](#33J).        Additional payments to the Commonwealth                                       47
+[33J](#33J).        Additional payments to the Commonwealth
 
-[33K](#33K).       Payment of the whole of the advance payment                                   47
+[33K](#33K).       Payment of the whole of the advance payment
 
-[33L](#33L).        Advance payments to the Commonwealth discharge liability             47
+[33L](#33L).        Advance payments to the Commonwealth discharge liability
 
-[33M](#33M).      Interest not payable on advance payments                                          48
+[33M](#33M).      Interest not payable on advance payments
 
     **Division 3—Waiver of the requirements of this Part**
 
-[34](#34).          Bulk payment agreements                                                                  49
+[34](#34).          Bulk payment agreements
 
-[35](#35).          Waiver—bulk payment agreements                                                    50
+[35](#35).          Waiver—bulk payment agreements
 
-[36](#36).          Extended waiver—settlements during periods of bulk payment agreements            51
+[36](#36).          Extended waiver—settlements during periods of bulk payment agreements
 
-[37](#37).          Limits of waiver—bulk payment agreements                                     52
+[37](#37).          Limits of waiver—bulk payment agreements
 
-[38](#38).          Waiver—small amounts of compensation                                          52
+[38](#38).          Waiver—small amounts of compensation
 
 **Part 4—Administration** 
 
     **Division 1—General**
 
-[39](#39).          General administration of Act                                                            54
+[39](#39).          General administration of Act
 
-[40](#40).          Additional functions of the Chief Executive Medicare                       54
+[40](#40).          Additional functions of the Chief Executive Medicare
 
-[41](#41).          Delegation                                                                                          54
+[41](#41).          Delegation
 
     **Division 2—Power to obtain information**
 
-[42](#42).          Chief Executive Medicare etc  may obtain information etc                 56
+[42](#42).          Chief Executive Medicare etc  may obtain information etc 
 
-[43](#43).          Content of notices                                                                              57
+[43](#43).          Content of notices
 
-[44](#44).          Offences                                                                                             57
+[44](#44).          Offences
 
-[45](#45).          Exemption                                                                                          58
+[45](#45).          Exemption
 
 **Part 5—Miscellaneous**
 
-[46](#46).          Form of notices etc                                                                             59
+[46](#46).          Form of notices etc 
 
-[47](#47).          Regulations                                                                                        59
+[47](#47).          Regulations
 
 **Notes** 
 
@@ -826,7 +826,7 @@ the past expenses component is taken to be the amount specified in the notice as
 
              (3)  Subsection (1) is taken not to have been complied with in relation to the payment of an amount into a court unless, at the time of the payment, the notifiable person lodges with the court a copy of the notice under section 21 in respect of the claim.
 
-##### <a id="23"></a>23  Notice of judgment or settlement<span style="font-size:9.0pt;font-weight:normal"> </span>
+##### <a id="23"></a>23  Notice of judgment or settlement<span style="font-size:9.0pt;font-weight:normal"> </span>
 
              (1)  The notifiable person must notify the Chief Executive Medicare in writing if a judgment or settlement has been made in respect of the claim.
 
@@ -1715,7 +1715,7 @@ of Assent</div>
     <div>14 Nov 1995</div>
   </td>
   <td>
-    <div>1 Feb 1996 ( <i>see Gazette</i>1996, No. GN2)</div>
+    <div>1 Feb 1996 ( <i>see Gazette</i>1996, No. GN2)</div>
   </td>
   <td>
     <div></div>
@@ -1836,7 +1836,7 @@ Schedule 3 (items 3–7): <i>(c)</i></div>
     <div>6 Sept 2005</div>
   </td>
   <td>
-    <div>Schedule 2 (items 92–203): 1 Oct 2005</div>
+    <div>Schedule 2 (items 92–203): 1 Oct 2005</div>
   </td>
   <td>
     <div>—</div>
@@ -1850,10 +1850,10 @@ Schedule 3 (items 3–7): <i>(c)</i></div>
     <div>43, 2006</div>
   </td>
   <td>
-    <div>22 May 2006</div>
+    <div>22 May 2006</div>
   </td>
   <td>
-    <div>22 May 2006</div>
+    <div>22 May 2006</div>
   </td>
   <td>
     <div>Sch. 1 (item 3)</div>
@@ -1867,30 +1867,13 @@ Schedule 3 (items 3–7): <i>(c)</i></div>
     <div>32, 2011</div>
   </td>
   <td>
-    <div>25 May 2011</div>
+    <div>25 May 2011</div>
   </td>
   <td>
     <div>Schedule 4 (items 116–149): 1 July 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 672) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -1904,7 +1887,7 @@ _(b)_     The _Health and Other Services (Compensation) Act 1995_ was am
 
                  (1)   Subject to this section, this Act commences immediately after the commencement of the _Aged Care Act 1997_ (other than Division 1 of that Act).
 
-         The _Aged Care Act 1997_ (other than Division 1) commenced on 1 October 1997 _._
+         The _Aged Care Act 1997_ (other than Division 1) commenced on 1 October 1997 _._
 
 _(c)_     The _Health and Other Services (Compensation) Act 1995_ was amended by Schedule 1 and Schedule 3 (items 3–7) only of the _Health and Other Services (Compensation) Legislation Amendment Act 2001_, subsections 2(1) and (4)(a) of which provide as follows:
 
@@ -2042,7 +2025,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2050,7 +2033,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 43, 2006</div>
+    <div>am. No. 114, 1997; No. 150, 2001; No. 43, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2082,7 +2065,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2130,7 +2113,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2194,7 +2177,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2202,7 +2185,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 14</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2218,7 +2201,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 43, 2006; No. 32, 2011</div>
+    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 43, 2006; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2234,7 +2217,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 18</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 43, 2006; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 43, 2006; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2242,7 +2225,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2250,7 +2233,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2258,7 +2241,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2274,7 +2257,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 114, 1997; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 114, 1997; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2290,7 +2273,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2298,7 +2281,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>Note to s. 23A(2)</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2314,7 +2297,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2322,7 +2305,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003; No. 117, 2004; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2330,7 +2313,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2338,7 +2321,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 26</div>
   </td>
   <td>
-    <div>am. Nos. 111 and 150, 2001; No. 111, 2005; No. 32, 2011</div>
+    <div>am. Nos. 111 and 150, 2001; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2354,7 +2337,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2370,7 +2353,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 32</div>
   </td>
   <td>
-    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 33, 1996; No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2402,7 +2385,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>rep. No. 43, 2006</div>
+    <div>rep. No. 43, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2426,7 +2409,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 43, 2006</div>
+    <div>am. No. 150, 2001; No. 84, 2003; No. 43, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2434,7 +2417,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>Note to s. 33B(1)</div>
   </td>
   <td>
-    <div>ad. No. 43, 2006</div>
+    <div>ad. No. 43, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2450,7 +2433,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 150, 2001; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2506,7 +2489,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2530,7 +2513,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div></div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2554,7 +2537,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 34</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2562,7 +2545,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 150, 2001; No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2570,7 +2553,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 84, 2003; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2602,7 +2585,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 39</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2610,7 +2593,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>Heading to s. 40</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2618,7 +2601,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>Ss. 40, 41</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2634,7 +2617,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>Heading to s. 42</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2642,7 +2625,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 42</div>
   </td>
   <td>
-    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 114, 1997; No. 150, 2001; No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2650,7 +2633,7 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -2674,23 +2657,9 @@ _(d)_ Subsection 2(1) (item 5) of the _Health Legislation Amendment (Podiatric
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 111, 2005; No. 32, 2011</div>
+    <div>am. No. 111, 2005; No. 32, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 672  Section 46 (note)
-
-Omit “section 25”, substitute “section 2B”.
-
-As at 22 August 2011 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -2748,21 +2717,5 @@ _Health and Other Services (Compensation) Amendment Act 2006
 ## 3  Application of amendment of paragraph 17(6)(a)
 
 The amendment of paragraph 17(6)(a) of the _Health and Other Services (Compensation) Act 1995_ made by this Schedule applies in relation to requests made on or after the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
