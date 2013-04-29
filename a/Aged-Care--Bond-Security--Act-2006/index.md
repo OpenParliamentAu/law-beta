@@ -1,19 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2012C00727/Html/f124cbc0-9139-4e7b-834d-eeb507dc6e84_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00002/Html/3b3e659f-7a18-42d4-bff9-e02d211d6a8f_files/image001.gif)
 
 # Aged Care (Bond Security) Act 2006
 
 **Act No. 26 of 2006 as amended**
 
-This compilation was prepared on 3 October 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 1 January 2009
+ taking into account amendments up to Act No. 140 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -47,7 +47,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [10](#10).          Making of default event declaration
 
-[11](#11).          Notice of default event declaration [_see_ Note 2]
+[11](#11).          Notice of default event declaration
 
 **Part 5—Refund declaration**
 
@@ -462,7 +462,7 @@ the Secretary must make a default event declaration.
 
              (3)  A default event declaration is not a legislative instrument.
 
-##### <a id="11"></a>11  Notice of default event declaration<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
+##### <a id="11"></a>11  Notice of default event declaration
 
              (1)  The Secretary must give a copy of a default event declaration to:
 
@@ -516,7 +516,7 @@ Where all or part of a refund is clawed back as a result of insolvency or bankru
 
 then, for the purposes of paragraph (2)(b), to the extent that the person to whom the refund was made does not retain the value of the refund, the refund is taken not to have been made.
 
-##### <a id="13"></a>13  Making of refund declaration
+##### <a id="13"></a>13  Making of refund declaration
 
              (1)  As soon as practicable after the Secretary has determined the matters mentioned in subsection 12(2) in respect of an outstanding bond balance of a person who is or has been an approved provider (the **_approved provider or former approved provider_**), the Secretary must make a refund declaration relating to the outstanding bond balance.
 
@@ -789,31 +789,14 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 202, 203)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 8): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1007,20 +990,6 @@ Remainder: Royal Assent</div>
     <div>am. No. 140, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-Paragraph 11(1)(a)—Schedule 1 (item 8) of the _Statute Law Revision Act 2012_ (No. 136, 2012) provides as follows:
-
-## Schedule 1
-
-## 8  Paragraph 11(1)(a)
-
-Omit “former approved provide”, substitute “former approved provider”.
-
-_Note:       This item fixes a typographical error._
-
-The proposed amendment was misdescribed and is not incorporated in this compilation.
 
 ## Table A
 
