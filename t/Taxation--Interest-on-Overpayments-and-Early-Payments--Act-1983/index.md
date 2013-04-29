@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00627/Html/e8ac00c8-1ace-46e3-b905-aa8ae00a4792_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00621/Html/e0dab188-9ce4-4481-be70-37a60bbb71cc_files/image001.gif)
 
 # Taxation (Interest on Overpayments and Early Payments) Act 1983
 
 **Act No. 12 of 1983 as amended**
 
-This compilation was prepared on 30 June 2012
- taking into account amendments up to Act No. 99 of 2012
+This compilation was prepared on 27 June 2012
+ taking into account amendments up to Act No. 75 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -190,10 +190,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                   (caa)  a decision under Subdivision 263‑A (about foreign revenue claims) in Schedule 1 to the _Taxation Administration Act 1953_; or
 
-                  (cab)  in a case where the expression is used in relation to relevant tax of a kind referred to in item 91 of the table in section 3C (Pay as you go withholding non‑compliance tax)—a decision of the Commissioner under section 18‑130 in Schedule 1 to the _Taxation Administration Act 1953_; or
-
-Note:       Section 18‑130 in Schedule 1 to the _Taxation Administration Act 1953_ requires the Commissioner to give a notice to a director of a company if the Commissioner is satisfied of certain matters.
-
                     (ca)  in a case where the expression is used in relation to relevant tax of a kind referred to in items 5 to 50 of the table in section 3C—a decision of the Commissioner to amend an assessment made in relation to a taxpayer reducing the liability of the taxpayer to tax other than a decision to give effect to a determination under section 292‑467 of the _Income Tax Assessment Act 1997_; or
 
                    (cb)  in a case where the expression is used in relation to fringe benefits tax imposed by the _Fringe Benefits Tax Act 1986_—a decision of the Commissioner to amend an assessment made in relation to an employer reducing the liability of the employer to tax, other than:
@@ -234,9 +230,7 @@ Note:       Section 18‑130 in Schedule 1 to the _Taxation Admi
 
                      (c)  any tax offset that is subject to the refundable tax offset rules (other than a tax offset that arises under paragraph 292‑467(2)(b) of the _Income Tax Assessment Act 1997_).
 
-Note 1:       Division 67 of the _Income Tax Assessment Act 1997_ lists the tax offsets that are subject to the refundable tax offset rules.
-
-Note 2:       For credits that arise under section 18‑170 or 18‑175 in Schedule 1 to the _Taxation Administration Act 1953_, see subsection (3) of this section.
+Note:          Division 67 of the _Income Tax Assessment Act 1997_ lists the tax offsets that are subject to the refundable tax offset rules.
 
                     <a name="late-payment-interest"></a>**_late payment interest_**, in respect of an amount, means interest payable solely to compensate for the time value of the amount.
 
@@ -265,12 +259,6 @@ Note 2:       For credits that arise under section 18‑170 or 18�
                     <a name="year-incom"></a>**_year of income_** means year of income as defined in subsection 6(1) of the Tax Act _._
 
              (2)  A reference in this Act to a liability of a person to the Commonwealth is a reference to a liability of a person to the Commonwealth arising under, or by virtue of, an Act of which the Commissioner has the general administration.
-
-Credits under section 18‑170 or 18‑175 in Schedule 1 to the Taxation Administration Act 1953
-
-             (3)  To avoid doubt, for the purposes of this Act, a credit of an individual that arises under section 18‑170 or 18‑175 in Schedule 1 to the _Taxation Administration Act 1953_ relates to the income tax payable by the individual for the year of income in which the individual becomes entitled to the credit.
-
-Note:          Subdivision 18‑D in Schedule 1 to the _Taxation Administration Act 1953_ provides that a director, or an associate of a director, of a company that does not comply with its obligations under Part 2‑5 (Pay as you go (PAYG) withholding) must pay Pay as you go withholding non‑compliance tax in certain circumstances. Sections 18‑170 and 18‑175 entitle the director or associate to a credit if the company subsequently complies with its obligations.
 
 ##### <a id="3A"></a>3A  Provision of correlative relief
 
@@ -436,14 +424,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
       section 16‑50) in Schedule 1 to the
       <i>Taxation Administration Act 1953</i>
     </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>91</div>
-  </td>
-  <td>
-    <div>Pay as you go withholding non‑compliance tax</div>
   </td>
 </tr>
 <tr>
@@ -991,7 +971,7 @@ the amount paid by the company shall be taken to have been applied, at the offse
 
 ##### <a id="10"></a>10  Amount of interest 
 
-             (1)  Interest payable to a person by virtue of section 9 in respect of an amount of relevant tax, or the part of an amount of relevant tax, refunded to the person, or applied against any liability of the person to the Commonwealth, as a result of a decision to which this Act applies shall be calculated:
+                   Interest payable to a person by virtue of section 9 in respect of an amount of relevant tax, or the part of an amount of relevant tax, refunded to the person, or applied against any liability of the person to the Commonwealth, as a result of a decision to which this Act applies shall be calculated:
 
                      (a)  in respect of the period that commenced on the later of the following days:
 
@@ -1002,8 +982,6 @@ the amount paid by the company shall be taken to have been applied, at the offse
                             and ended on the day on which the amount of the relevant tax or the part of the amount of relevant tax, as the case may be, was so refunded or applied; and
 
                      (b)  at the base interest rate (within the meaning of the Tax Act).
-
-             (2)  For the purposes of subparagraph (1)(a)(i), if the decision to which this Act relates is a decision of the Commissioner under section 18‑130 in Schedule 1 to the _Taxation Administration Act 1953_ in relation to an amount of Pay as you go withholding non‑compliance tax, the notice of the decision in relation to which that decision was made is the notice the Commissioner gives to the person under section 18‑140 in that Schedule in relation to that amount of tax.
 
 ##### <a id="11"></a>11  Limit on overpayment of interest where correlative relief in respect of foreign income tax
 
@@ -2531,23 +2509,6 @@ Schedule 16 (items 20–37): <i>(v)</i></div>
   <td>
     <div>Sch. 4 (item 20) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2012 Measures No. 2) Act 2012</div>
-  </td>
-  <td>
-    <div>99, 2012</div>
-  </td>
-  <td>
-    <div>29 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 16–23): 30 June 2012</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 23) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Taxation Laws Amendment Act 1984_ provides as follows:
@@ -3050,7 +3011,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010; Nos. 12, 75 and 99, 2012</div>
+    <div>am. No. 123, 1984; Nos. 4, 47 and 49, 1985; Nos. 41, 46, 48 and 154, 1986; Nos. 58, 62 and 145, 1987; No. 2, 1989; No. 60, 1990; No. 216, 1991; Nos. 118 and 138, 1992; Nos. 116 and 118, 1993; Nos. 138 and 181, 1994; Nos. 169 and 170, 1995; Nos. 39 and 152, 1997; Nos. 45, 47 and 85, 1998; No. 11, 1999 (as am. by No. 178, 1999); Nos. 118, 176, 178 and 179, 1999; Nos. 92, 106 and 156, 2000; No. 170, 2001; Nos. 123 and 150, 2003; No. 75, 2005; Nos. 58, 73, 100 and 101, 2006; No. 143, 2007; Nos. 14 and 42, 2009; No. 56, 2010; Nos. 12 and 75, 2012</div>
   </td>
 </tr>
 <tr>
@@ -3090,7 +3051,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 100 and 101, 2006; No. 56, 2010; No. 41, 2011; No. 99, 2012</div>
+    <div>am. Nos. 100 and 101, 2006; No. 56, 2010; No. 41, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3626,7 +3587,7 @@ _(zf)_    Subsection 2(1) (item 2) of the _Superannuation Legislation 
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 123, 1984; No. 49, 1985; No. 46, 1986; No. 181, 1994; No. 11, 1999; Nos. 58 and 101, 2006; No. 14, 2009; No. 99, 2012</div>
+    <div>am. No. 123, 1984; No. 49, 1985; No. 46, 1986; No. 181, 1994; No. 11, 1999; Nos. 58 and 101, 2006; No. 14, 2009</div>
   </td>
 </tr>
 <tr>
@@ -3927,7 +3888,7 @@ Add:
 
                      (c)  any general interest charge due and payable in relation to such an instalment.
 
-As at 30 June 2012 the amendments are not incorporated in this compilation.
+As at 27 June 2012 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -4000,7 +3961,7 @@ Note 1:       The decision of the Commissioner to give the notice is
 
 Note 2:       Liabilities under section 282‑18 of the _Private Health Insurance Act 2007_ are relevant tax. See section 3C.
 
-As at 30 June 2012 the amendments are not incorporated in this compilation.
+As at 27 June 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -4010,7 +3971,7 @@ _Taxation Laws Amendment Act (No. 3) 1999 (No. 11, 1999)_
 
 ## Schedule 1  
 
-## 398  Application
+## 398  Application
 
 (1)       This item applies to amendments made by items 1 to 3, 11, 12, 14, 18 to 27, 29, 37 to 42, 69 to 75, 77 to 80, 88 to 101, 107, 111, 113, 118, 120, 121, 127, 128, 130, 140, 148, 149, 153, 156, 158, 161 to 169, 175, 178, 179, 185, 187 to 189, 191, 192, 195, 200 to 204, 212, 214 to 217, 221, 223, 225, 226 to 228, 234, 236 to 242, 245, 252, 254 to 278, 280, 281, 296 to 298, 301, 304, 306, 309, 310, 314, 315 to 320, 322 to 328, 331, 332 to 335, 337 to 341, 344, 345, 346, 348, 352, 355 to 360, 373, 375 to 377, 379 to 385, 387 to 394, 396 and 397.
 
@@ -4368,19 +4329,5 @@ _Tax and Superannuation Laws Amendment (2012 Measures No. 1) Act 2012 (No. 7
 ## 20  Application of amendments
 
 The amendments made by this Schedule apply in relation to excess concessional contributions for the financial year beginning on 1 July 2011 and later financial years.
-
-* * *
-
-_Tax Laws Amendment (2012 Measures No. 2) Act 2012 (No. 99, 2012)_
-
-## Schedule 1
-
-## 23  Application of amendments
-
-The amendments made by this Part apply to an individual in relation to amounts withheld by a company, if:
-
-                     (a)  the amounts are withheld during an income year of the individual starting on or after 1 July 2011; and
-
-                     (b)  the company is required to pay the amounts withheld to the Commissioner on or after the commencement of this item.
 
  
