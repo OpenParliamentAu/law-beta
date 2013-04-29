@@ -1,7 +1,7 @@
 
 Proceeds of Crime Act 1987
 Act No. 87 of 1987 as amended
-This compilation was prepared on 30 June 2004 taking into account amendments up to Act No. 80 of 2004
+This compilation was prepared on 8 January 2003 taking into account amendments up to Act No. 125 of 2002
 The text of any of those amendments not in force  on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
@@ -1962,18 +1962,18 @@ Proceeds of Crime Act 1987
 Crimes Legislation Amendment Act 1987 
 120, 1987 
 16 Dec 1987 
-Ss. 34–46 and  48–50: Royal Assent (a)  S. 47: 1 Jan 1990 (see Gazette 1989, No. S359) (a) 
+Ss. 34-46 and 48‑50: Royal Assent (a)  S. 47: 1 Jan 1990 (see Gazette 1989, No. S359) (a) 
 — 
 Law and Justice Legislation Amendment Act 1988 
 120, 1988 
 14 Dec 1988 
-Part XVI (ss.  48–69): (b) 
+Part XVI (ss. 48‑69): (b) 
 S. 62(2) 
 Crimes Legislation Amendment Act 1991 
 28, 1991 
 4 Mar 1991 
 Ss. 57, 59: Royal Assent (c)  S. 58: 4 Mar 1992 (c) 
-S. 58(2)–(4) 
+S. 58(2)-(4) 
 Proceeds of Crime Legislation Amendment Act 1991 
 120, 1991 
 27 June 1991 
@@ -1982,12 +1982,12 @@ Ss. 1 and 2: Royal Assent  Remainder: 27 Dec 1991 (see s. 2(3))
 Crimes Legislation Amendment Act (No. 2) 1991 
 123, 1991 
 23 Aug 1991 
-Ss. 5–34 and 38–50: 20 Sept 1991  Ss. 35–37: 6 Dec 1991 (see Gazette 1991, No. S330)  S. 51: 23 Feb 1992 (see s. 2(5)) Remainder: Royal Assent 
+Ss. 5-34 and 38-50: 20 Sept 1991  Ss. 35‑37: 6 Dec 1991 (see Gazette 1991, No. S330)  S. 51: 23 Feb 1992 (see s. 2(5)) Remainder: Royal Assent 
 Ss. 41(2), 42(2), (3), 43(2), 47, 48(2) and 49(2) 
 Crimes Legislation Amendment Act 1992 
 164, 1992 
 11 Dec 1992 
-Part 1 (ss. 1, 2) and Parts 3–11 (ss.  18–53): 8 Jan 1993  Remainder: 1 Feb 1993 (see Gazette 1993, No. GN1) 
+Part 1 (ss. 1, 2) and Parts 3-11 (ss. 18‑53): 8 Jan 1993  Remainder: 1 Feb 1993 (see Gazette 1993, No. GN1) 
 — 
 Service and Execution of Process (Transitional Provisions and Consequential Amendments) Act 1992 
 166, 1992 
@@ -1997,7 +1997,7 @@ Service and Execution of Process (Transitional Provisions and Consequential Amen
 Banking (State Bank of South Australia and Other Matters) Act 1994 
 69, 1994 
 9 June 1994 
-Ss. 66–68: Royal Assent (d) 
+Ss. 66-68: Royal Assent (d) 
 S. 66 
 Crimes and Other Legislation Amendment Act 1994 
 182, 1994 
@@ -2012,7 +2012,7 @@ S. 3: 28 Aug 1995 (see Gazette 1995, No. S323)  Remainder: Royal Assent
 Mutual Assistance in Criminal Matters Legislation Amendment Act 1996
 40, 1996
 9 Oct 1996
-Ss. 1–3: Royal Assent Remainder: 1 Mar 1997 (see Gazette 1997, No. S50)
+Ss. 1-3: Royal Assent Remainder: 1 Mar 1997 (see Gazette 1997, No. S50)
 —
 Proceeds of Crime Amendment Act 1997
 8, 1997
@@ -2022,22 +2022,22 @@ Proceeds of Crime Amendment Act 1997
 Crimes and Other Legislation Amendment Act 1997
 20, 1997
 7 Apr 1997
-Schedule 1 (items 21–23, 27): 28 Aug 1995 (f) Schedule 1 (items 24–26, 28): Royal Assent (f)
+Schedule 1 (items 21-23, 27): 28 Aug 1995 (f) Schedule 1 (items 24-26, 28): Royal Assent (f)
 —
 Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (items1098–1112): 1 Jan 1998 (see Gazette 1997, No. GN49) (g)
+Schedule 2 (items1098-1112): 1 Jan 1998 (see Gazette 1997, No. GN49) (g)
 —
 Financial Sector Reform (Consequential Amendments) Act 1998
 48, 1998
 29 June 1998
-Schedule 1 (items 134–148): 1 July 1998 (see Gazette 1998, No. S316) (h)
+Schedule 1 (items 134-148): 1 July 1998 (see Gazette 1998, No. S316) (h)
 —
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999
 44, 1999
 17 June 1999
-Schedule 7 (items 129–132: 1 July 1999 (see Gazette 1999, No. S283) (i)
+Schedule 7 (items 129-132: 1 July 1999 (see Gazette 1999, No. S283) (i)
 S. 3(2)(e) (am. by 160, 2000, Sch. 4 [item 4]) 
 as amended by
 
@@ -2057,7 +2057,7 @@ Schedule 1 (item 748): 5 Dec 1999 (see Gazette 1999, No. S584) (j)
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent Remainder: 24 May 2001
+Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
 Sch. 2 (items 418, 419) [see Table A]
 Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 24, 2001
@@ -2067,30 +2067,25 @@ S. 4(1) and (2) [see Table A]
 National Crime Authority Legislation Amendment Act 2001
 135, 2001
 1 Oct 2001
-Schedules 1–7,  9–12: 12 Oct 2001 (see Gazette 2001, No. S428) Schedule 8: 13 Oct 2001 (see Gazette 2001, No. S428) Remainder: Royal Assent
+Schedules 1‑7, 9‑12: 12 Oct 2001 (see Gazette 2001, No. S428) Schedule 8: 13 Oct 2001 (see Gazette 2001, No. S428) Remainder: Royal Assent
 —
 Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002
 86, 2002
 11 Oct 2002
-Ss. 1–3: Royal Assent Remainder: 1 Jan 2003 (see s. 2(1) and Gazette 2002, No. GN44)
-Sch. 7 (items 14–16) [see Table A]
+Ss. 1-3: Royal Assent Remainder: 1 Jan 2003 (see s. 2(1) and Gazette 2002, No. GN44)
+Sch. 7 (items 14‑16) [see Table A]
 Australian Crime Commission Establishment Act 2002
 125, 2002
 10 Dec 2002
-Schedule 2 (items 107–115 and 226): 1 Jan 2003
+Schedule 2 (items 107–115 and 226): 1 Jan 2003
 Sch. 2 (item 226) [see Table A]
-Bankruptcy Legislation Amendment Act 2004
-80, 2004
-23 June 2004
-Schedule 1 (items 199, 212, 213, 215): [see Note 2 and Table A]
-Sch. 1 (items 212, 213, 215) [see Table A]
-(a)	The Proceeds of Crime Act 1987 was amended by sections 34–50 only of the Crimes Legislation Amendment Act 1987, subsections 2(1) and (2) of which provide as follows: 
+(a)	The Proceeds of Crime Act 1987 was amended by sections 34-50 only of the Crimes Legislation Amendment Act 1987, subsections 2(1) and (2) of which provide as follows: 
 	(1)	Sections 11, 14, 16, 17, 18, 47, 70, 71, 72, 73, 74 and 75 and paragraph 69(b) shall come into operation on a day or days to be fixed by Proclamation. 
 	(2)	Parts II, VI, VII, VIII (other than section 47) and IX and Schedule 4 shall come into operation on the day on which this Act receives the Royal Assent.
-(b)	The Proceeds of Crime Act 1987 was amended by Part XVI (sections 48–69) only of the Law and Justice Legislation Amendment Act 1988, subsections 2(3) and (9) of which provide as follows:
+(b)	The Proceeds of Crime Act 1987 was amended by Part XVI (sections 48-69) only of the Law and Justice Legislation Amendment Act 1988, subsections 2(3) and (9) of which provide as follows:
 	(3)	Parts VIII, IX and XVI (except the provisions referred to in subsection (9)) commence on the twenty-eighth day after the day on which this Act receives the Royal Assent.
 	(9)	Sections 20, 47, 51, 52, 53, 57, 62 and 65 commence on a day or days to be fixed by Proclamation.
-	In pursuance of subsection 2(3) sections 48–50, 54–56, 58–61, 63, 64 and 66–69 commenced on 11 January 1989.
+	In pursuance of subsection 2(3) sections 48-50, 54-56, 58-61, 63, 64 and 66-69 commenced on 11 January 1989.
 	In pursuance of subsection 2(9) sections 47, 51–53, 57, 62 and 65 commenced on 5 September 1989 (see Gazette 1989, No. S296).
 (c)	The Proceeds of Crime Act 1987 was amended by sections 57–59 only of the Crimes Legislation Amendment Act 1991, subsections 2(1), (4) and (5) of which provide as follows: 
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent. 
@@ -2101,14 +2096,14 @@ Sch. 1 (items 212, 213, 215) [see Table A]
 (e)	The Proceeds of Crime Act 1987 was amended by section 31 only of the Crimes and Other Legislation Amendment Act 1994, subsections 2(1) and (4) of which provide as follows: 
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(4)	The amendments made by this Act to the Australian Federal Police Act 1979, the Crimes (Aviation) Act 1991 (other than the amendment made to Schedule 5 to that Act), the Crimes (Hostages) Act 1989, the Crimes (Internationally Protected Persons) Act 1976, the Crimes (Overseas) Act 1964, the Crimes (Superannuation Benefits) Act 1989, the Crimes (Traffic in Narcotic Drugs and Psychotropic Substances) Act 1990, the Customs Act 1901, the Director of Public Prosecutions Act 1983, the Extradition Act 1988, the Financial Transaction Reports Act 1988 and to sections 23 and 59 of the Proceeds of Crime Act 1987 commence on the 28th day after the day on which this Act receives the Royal Assent.
-(f)	The Proceeds of Crime Act 1987 was amended by Schedule 1 (items 21–28) only of the Crimes and Other Legislation Amendment Act 1997, section 2 of which provides as follows:
+(f)	The Proceeds of Crime Act 1987 was amended by Schedule 1 (items 21-28) only of the Crimes and Other Legislation Amendment Act 1997, section 2 of which provides as follows:
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
 	(2)	Items 21, 22, 23 and 27 of Schedule 1 are taken to have commenced on 28 August 1995, immediately after the commencement of the Schedule to the International War Crimes Tribunals (Consequential Amendments) Act 1995.
-(g)	The Proceeds of Crime Act 1987 was amended by Schedule 2 (items1098–1112) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
+(g)	The Proceeds of Crime Act 1987 was amended by Schedule 2 (items1098-1112) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
-(h)	The Proceeds of Crime Act 1987 was amended by Schedule 1 (items 134–148) only of the Financial Sector Reform (Consequential Amendments) Act 1998, subsection 2(2) of which provides as follows:
+(h)	The Proceeds of Crime Act 1987 was amended by Schedule 1 (items 134-148) only of the Financial Sector Reform (Consequential Amendments) Act 1998, subsection 2(2) of which provides as follows:
 	(2)	Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the Australian Prudential Regulation Authority Act 1998.
-(i)	The Proceeds of Crime Act 1987 was amended by Schedule 7 (items 129–132) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999, subsections 3(2)(e) and (16) of which provides as follows:
+(i)	The Proceeds of Crime Act 1987 was amended by Schedule 7 (items 129-132) only of the Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999, subsections 3(2)(e) and (16) of which provides as follows:
 	(2)	The following provisions commence on the transfer date:
 	(e)	subject to subsection (12), Schedule 7, other than items 43, 44, 118, 205 and 207 (the commencement of those items is covered by subsections (10), (11) and (13)).
 	(16)	The Governor‑General may, by Proclamation published in the Gazette, specify the date that is to be the transfer date for the purposes of this Act. 
@@ -2120,11 +2115,9 @@ Sch. 1 (items 212, 213, 215) [see Table A]
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
 	Item 15 commenced on 24 May 2001.
 Table of Amendments
-ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-Part I
-
 S. 4 	
 am. No. 120, 1987; Nos. 28 and 120, 1991; No. 164, 1992; No.182, 1994; Nos. 8 and 152, 1997; No. 48, 1998; Nos. 44 and 146, 1999; No. 137, 2000; Nos. 86 and 125, 2002
 Heading to s. 7 	
@@ -2135,24 +2128,16 @@ S. 9A
 ad. No. 120, 1988 
 S. 13A 	
 ad. No. 24, 2001
-Part II
-
-Division 1
-
 S. 14	
 am. No. 86, 2002
 S. 18 	
 am. No. 123, 1991 
-Division 2
-
 S. 20 	
 am. No. 120, 1991; No. 164, 1992; No. 152, 1997
 S. 21 	
 am. No. 120 1988; No. 120, 1991 
 S. 22	
 am. No. 86, 2002
-Division 2A
-
 Heading to Div. 2A of Part II 	
 ad. No. 120, 1988 
 
@@ -2169,14 +2154,10 @@ S. 23A
 ad. No. 120, 1988 
 
 am. No. 19, 1995; No. 20, 1997 
-Division 3
-
 S. 27 	
 am. No. 120, 1988; No. 123, 1991 
 S. 28 	
 am. No. 120, 1988 
-Division 4
-
 S. 30 	
 am. No. 120, 1987; Nos. 120 and 123, 1991; No. 164, 1992; Nos. 20 and 152, 1997; No. 86, 2002
 S. 30A	
@@ -2185,15 +2166,11 @@ S. 31
 am. No. 120, 1987; No. 120, 1988; No. 120, 1991 
 S. 32	
 am. No. 86, 2002
-Division 5
-
 S. 34 	
 am. No. 120, 1988 
-Part IIA
-
-Heading to Part IIA 	
+Heading to Part IIA	
 rs. No. 152, 1997
-Part IIA 	
+Part IIA (ss. 34A-34E)	
 ad. No. 120, 1991 
 S. 34A 	
 ad. No. 120, 1991 
@@ -2219,10 +2196,6 @@ S. 34E
 ad. No. 120, 1991
 
 am. No. 152, 1997
-Part III
-
-Division 1
-
 S. 35	
 am. No. 86, 2002
 S. 36 	
@@ -2233,8 +2206,6 @@ S. 39
 am. No. 135, 2001; No. 125, 2002
 S. 40 	
 am. No. 120, 1987; No. 135, 2001; No. 125, 2002 
-Division 2
-
 S. 43 	
 am. No. 120, 1987; No. 120, 1988; No. 123, 1991; No. 86, 2002 
 S. 44 	
@@ -2269,29 +2240,21 @@ S. 60
 am. No. 164, 1992 
 S. 63 	
 am. No. 120, 1991; No. 152, 1997
-Part IV
-
-Division 1
-
 S. 66 	
 am. No. 120, 1987; No. 120, 1988; No. 123, 1991; No. 48, 1998; No. 86, 2002  
 S. 67 	
 rs. No. 120, 1987 
 S. 68 	
 am. No. 24, 2001
-Division 2
-
 S. 70	
 am. No. 86, 2002
 S. 71 	
 am. No. 120, 1987; No. 120, 1988 
-Division 3
-
 S. 73 	
 am. No. 120, 1987; No. 137, 2000; No. 24, 2001; No. 86, 2002 
 S. 74 	
 am. No. 120, 1987; No. 125, 2002 
-Div. 4 of Part IV	
+Div. 4 of Part IV	 (ss. 76–78, 78A, 78B)
 rep. No. 86, 2002
 S. 76	
 rep. No. 86, 2002
@@ -2345,38 +2308,26 @@ am. No. 48, 1998
 rep. No. 86, 2002
 Ss. 79, 80 	
 rep. No. 120, 1987 
-Part V
-
-Div. 1 of Part V 	
+Div. 1 of Part V (ss. 81, 82)	
 rep. No. 86, 2002
 Ss. 81, 82	
 rep. No. 86, 2002
-Div. 2 of Part V 	
+Div. 2 of Part V (s. 83)	
 rep. No. 137, 2000
 S. 83 	
 rep. No. 137, 2000
-Division 3
-
 S. 84 	
 am. No. 120, 1987; No. 137, 2000 
 S. 85 	
 am. No. 120, 1988; No. 20, 1997 
-Part VI
-
-Division 1
-
 S. 86	
 am. No. 86, 2002
 S. 88 	
 am. No. 120, 1987 
 S. 90 	
 am. No. 166, 1992; No. 86, 2002 
-Division 2
-
 S. 92	
 am. No. 86, 2002
-Part VII
-
 S. 96A 	
 ad. No. 137, 2000
 S. 98 	
@@ -2385,14 +2336,6 @@ S. 102A
 ad. No. 120, 1987  
 
 
-Note 2
-Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)
-The following amendment commences on 23 December 2004 unless proclaimed earlier:
-Schedule 1
-199  Subsection 27(1) (paragraph (c) of the definition of insolvency trustee)
-Repeal the paragraph, substitute:
-	(c)	in relation to a personal insolvency agreement under Part X of the Bankruptcy Act 1966—the trustee of the agreement; or
-As at 30 June 2004 the amendment is not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)
@@ -2437,50 +2380,5 @@ Schedule 2
 226  Transitional regulations
 (1)	The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) arising out of the amendments made by this Schedule.
 (2)	Despite subsection 48(2) of the Acts Interpretation Act 1901, regulations made under this item within 1 year after commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
-
-Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)
-The following provisions commence on 23 December 2004 unless proclaimed earlier:
-Schedule 1
-212  Transitional—pre‑commencement deeds and compositions
-(1)	For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the Bankruptcy Act 1966 before the commencement of this item, the deed is a pre‑commencement deed.
-(2)	For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the Bankruptcy Act 1966, the composition is a pre‑commencement composition.
-(3)	Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
-	(a)	the Bankruptcy Act 1966 and regulations under that Act; and
-	(b)	the Acts amended by Part 2 of this Schedule;
-continue to apply, in relation to:
-	(c)	a pre‑commencement deed; and
-	(d)	a pre‑commencement composition; and
-	(e)	any matter connected with, or arising out of:
-	(i)	a pre‑commencement deed; or
-	(ii)	a pre‑commencement composition;
-as if those repeals had not happened and those amendments had not been made.
-213  Transitional—pre‑commencement authorities
-(1)	For the purposes of this item, if:
-	(a)	an authority given by a debtor under section 188 of the Bankruptcy Act 1966 became effective before the commencement of this item; and
-	(b)	as at the commencement of this item, none of the following had happened:
-	(i)	the execution by the debtor and the trustee of a deed of assignment under Part X of the Bankruptcy Act 1966;
-	(ii)	the execution by the debtor and the trustee of a deed of arrangement under Part X of the Bankruptcy Act 1966;
-	(iii)	the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the Bankruptcy Act 1966;
-the authority is a pre‑commencement authority.
-(2)	Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
-	(a)	the Bankruptcy Act 1966 and regulations under that Act; and
-	(b)	the Acts amended by Part 2 of this Schedule;
-continue to apply, in relation to:
-	(c)	a pre‑commencement authority; and
-	(d)	the control of the debtor’s property following a pre‑commencement authority becoming effective; and
-	(e)	a meeting of the debtor’s creditors called under a pre‑commencement authority; and
-	(f)	whichever of the following is applicable:
-	(i)	a deed of assignment executed after the commencement of this item by the debtor and the trustee under Part X of the Bankruptcy Act 1966 in accordance with a special resolution of such a meeting;
-	(ii)	a deed of arrangement executed after the commencement of this item by the debtor and the trustee under Part X of the Bankruptcy Act 1966 in accordance with a special resolution of such a meeting;
-	(iii)	a composition accepted after the commencement of this item by a special resolution of such a meeting; and
-	(g)	any other matter connected with, or arising out of:
-	(i)	a pre‑commencement authority; or
-	(ii)	a deed of assignment mentioned in subparagraph (f)(i); or
-	(iii)	a deed of arrangement mentioned in subparagraph (f)(ii); or
-	(iv)	a composition mentioned in subparagraph (f)(iii);
-as if those repeals had not happened and those amendments had not been made.
-215  Transitional—regulations
-(1)	The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
-(2)	The Governor‑General may make regulations for the purposes of subitem (1).
 
 
