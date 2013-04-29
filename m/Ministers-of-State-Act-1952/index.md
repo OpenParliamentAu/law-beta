@@ -1,9 +1,9 @@
 
 Ministers of State Act 1952
 Act No. 1 of 1952 as amended
-This compilation was prepared on 26 April 2000  taking into account amendments up to Act No. 1 of 2000
-The text of any of those amendments not in force on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
+Consolidated as in force on 30 September 1999
+(includes amendments up to Act No. 115 of 1999
+Prepared by the Office of Legislative Drafting Attorney-General’s Department, Canberra
   
   
   
@@ -14,25 +14,22 @@ Contents
 5	Salaries of Ministers	1
 6	Additional allowances to Ministers of State	1
 Notes		3
-
 An Act to determine the number of the Ministers of State and to make provision for their Salaries and Allowances
   
   
 1  Short title [see Note 1]
 		This Act may be cited as the Ministers of State Act 1952.
 2  Commencement
-		This Act shall be deemed to have come into operation on 1st January, 1952.
+		This Act shall be deemed to have come into operation on 1st January, 1952.
 4  Number of Ministers
-		The number of the Ministers of State must not exceed:
-	(a)	in the case of those designated, when appointed by the Governor‑General, as Parliamentary Secretary—12; and
-	(b)	in the case of those not so designated—30.
+		The number of the Ministers of State shall not exceed 30.
 5  Salaries of Ministers
-		The annual sum payable under section 66 of the Constitution for the salaries of the Ministers of State must not exceed $2,300,000 in a financial year.
+		The annual sum payable under section 66 of the Constitution for the salaries of the Ministers of State must not exceed $1,622,000 in a financial year.
 6  Additional allowances to Ministers of State
 		There are payable to the Ministers of State, in addition to their salaries, and in addition to any allowances payable to them as senators or members of the House of Representatives, such respective allowances as are determined by the Remuneration Tribunal in pursuance of the Remuneration Tribunals Act 1973.
 Notes to the Ministers of State Act 1952
 Note 1
-The Ministers of State Act 1952 as shown in this compilation comprises Act No. 1, 1952 amended as indicated in the Tables below.
+The Ministers of State Act 1952 as shown in this consolidation comprises Act No. 1, 1952 amended as indicated in the Tables below.
 Table of Acts
 Act
 Number  and year
@@ -184,11 +181,6 @@ Ministers of State Amendment Act 1999
 22 Sept 1999
 22 Sept 1999
 —
-Ministers of State and Other Legislation Amendment Act 2000
-1, 2000
-29 Feb 2000
-10 Mar 2000 (see Gazette 2000, No. S112)
-—
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -202,10 +194,8 @@ am. No. 14, 1973
 rep. No. 216, 1973
 S. 4	
 am. No. 1, 1956; No. 1, 1964; No. 1, 1967; No. 43, 1971; No. 91, 1987
-
-rs. No. 1, 2000
 S. 5	
-am. No. 1, 1956; No. 18, 1959; Nos. 1 and 71, 1964; No. 93, 1966; No. 1, 1967; No. 102, 1968; No. 43, 1971; No. 14, 1973; No. 82, 1978; No. 141, 1979; No. 165, 1980; No. 121, 1981; No. 78, 1982; No. 128, 1983; No. 73, 1984; No. 56, 1985; No. 26, 1986; No. 71, 1987; No. 19, 1988; No. 20, 1989; No. 109, 1990; No. 50, 1992; No. 35, 1994; No. 2, 1996; No. 1, 2000
+am. No. 1, 1956; No. 18, 1959; Nos. 1 and 71, 1964; No. 93, 1966; No. 1, 1967; No. 102, 1968; No. 43, 1971; No. 14, 1973; No. 82, 1978; No. 141, 1979; No. 165, 1980; No. 121, 1981; No. 78, 1982; No. 128, 1983; No. 73, 1984; No. 56, 1985; No. 26, 1986; No. 71, 1987; No. 19, 1988; No. 20, 1989; No. 109, 1990; No. 50, 1992; No. 35, 1994; No. 2, 1996
 
 rs. No. 115, 1999
 S. 6	
@@ -228,4 +218,5 @@ Heading to Schedule
 ad. No. 14, 1973
 Schedule	
 rep. No. 216, 1973
+
 
