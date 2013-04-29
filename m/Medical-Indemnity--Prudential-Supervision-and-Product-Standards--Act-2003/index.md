@@ -1,2183 +1,2682 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 107.25pt; HEIGHT: 78pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="D0BEBEAE7ED05E9FCA256FD3001C52E4/$FILE/image001.wmz"></v:imagedata></v:shape>
+**
 
-# Medical Indemnity (Prudential Supervision and Product Standards) Act 2003
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003 
+**
 
-**Act No. 37 of 2003 as amended<o:p></o:p>**
 
-This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="29" month="3">29 March 2005</st1:date>
-taking into account amendments up to Act No. 25 of 2005<o:p></o:p>
+**
 
-The text of any of those amendments not in force
-on that date is appended in the Notes section<o:p></o:p>
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
-# Contents
 
-**Part 1—Introductory<span style="mso-tab-count: 1">                                                                                                             </span>** 
 
-    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                              </span>**
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[3](#3).            Objects<span style="mso-tab-count: 1 dotted">                                                                                                 </span>
 
-    **Division 2—Interpretation<span style="mso-tab-count: 1">                                                                                         </span>**
+**
 
-[4](#4).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
+###  Long Title 
+**
+**
 
-[5](#5).            Providing medical indemnity cover<span style="mso-tab-count: 1 dotted">                                                      </span>
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<part>Part&#160;1&#151;Introductory </part>
+**
+**
 
-[6](#6).            Claims-made based cover and incident-occurring based cover<span style="mso-tab-count: 1 dotted">             </span>
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Division&#160;1&#151;Preliminary </division> 
+**
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[7](#7).            When certain DDR arrangements are taken to be entered into<span style="mso-tab-count: 1 dotted">            </span>
+		This Act may be cited as the _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_.
 
-[7A](#7A).         Reasonableness of premiums<span style="mso-tab-count: 1 dotted">                                                             </span>
+ </dl>
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 2  Commencement 
+<dl compact="">
 
-    **Division 3—Application of Act<span style="mso-tab-count: 1">                                                                              </span>**
+		This Act commences, or is taken to have commenced, on 1&#160;July 2003.
 
-[8](#8).            Application of Act<span style="mso-tab-count: 1 dotted">                                                                            </span>
+ </dl>
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 3  Objects 
+<dl compact="">
 
-[9](#9).            Act extends to external Territories<span style="mso-tab-count: 1 dotted">                                                    </span>
+		The objects of this Act are:
 
-**Part 2—Prudential requirements for provision of medical indemnity cover<span style="mso-tab-count: 1">              </span>** 
+ </dl>
 
-    **Division 1—Provision of medical indemnity cover<span style="mso-tab-count: 1">                                     </span>**
+**
 
-[10](#10).          Medical indemnity cover to be provided only by general insurers and only under contracts of insurance<span style="mso-tab-count: 1">             </span>
-
-[11](#11).          Intermediary’s responsibilities<span style="mso-tab-count: 1 dotted">                                                          </span>
-
-    **Division 2—Transitional arrangements<span style="mso-tab-count: 1">                                                            </span>**
-
-[12](#12).          Effect of determination under subsection 13(3)<span style="mso-tab-count: 1 dotted">                                </span>
-
-[13](#13).          APRA determination that minimum capital requirements do not apply<span style="mso-tab-count: 1"> </span>
-
-[14](#14).          Administrative review<span style="mso-tab-count: 1 dotted">                                                                       </span>
-
-[15](#15).          Application of section 115A of the _Insurance Act 1973_<span style="mso-tab-count: 1 dotted">                   </span>
-
-**Part 3—Product standards for medical indemnity insurance contracts<span style="mso-tab-count: 1">  </span>** 
-
-    **Division 1—Minimum cover<span style="mso-tab-count: 1">                                                                                   </span>**
-
-[16](#16).          Minimum cover amount<span style="mso-tab-count: 1 dotted">                                                                    </span>
-
-[17](#17).          Minimum cover for single claim<span style="mso-tab-count: 1 dotted">                                                        </span>
-
-[18](#18).          Minimum annual cover—incident-occurring based cover<span style="mso-tab-count: 1 dotted">                  </span>
-
-[19](#19).          Minimum annual cover—other cover<span style="mso-tab-count: 1 dotted">                                                </span>
-
-[20](#20).          Amount payable by insurer<span style="mso-tab-count: 1 dotted">                                                               </span>
-
-    **Division 2—Offers to provide retroactive and run-off cover for otherwise uncovered prior incidents<span style="mso-tab-count: 1">                                                                                                                      </span>** 
-
-        **Subdivision A—Regulated insurance contracts<span style="mso-tab-count: 1">                                                  </span>**
-
-[21](#21).          Regulated insurance contracts<span style="mso-tab-count: 1 dotted">                                                            </span>
-
-        **Subdivision B—Insurer’s responsibilities<span style="mso-tab-count: 1">                                                           </span>**
-
-[22](#22).          Additional offer of retroactive cover when regulated insurance contract entered into, comes into effect or is renewed<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
-
-[23](#23).          Additional offer of run-off cover when particular events happen during claims period for regulated insurance contract<span style="mso-tab-count: 1 dotted">                                                                                                           </span>
-
-[24](#24).          Complying offer<span style="mso-tab-count: 1 dotted">                                                                                </span>
-
-[26](#26).          Federal Court may order insurer to make offer<span style="mso-tab-count: 1 dotted">                                 </span>
-
-    **Division 2A—Provision of run-off cover to certain medical practitioners<span style="mso-tab-count: 1">            </span>**
-
-[26A](#26A).       Provision of run-off cover to certain medical practitioners<span style="mso-tab-count: 1 dotted">               </span>
-
-[26B](#26B).       Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run-off cover<span style="mso-tab-count: 1">           </span>
-
-[26C](#26C).       Provision of run-off in accordance with arrangements with MDOs<span style="mso-tab-count: 1 dotted"> </span>
-
-[26D](#26D).       Notification and record-keeping<span style="mso-tab-count: 1 dotted">                                                        </span>
-
-[26E](#26E).        Run-off cover taken to be provided under contract of insurance<span style="mso-tab-count: 1 dotted">      </span>
-
-[26F](#26F).        Federal Court may order insurer to provide run-off cover or MDO to enter into arrangement<span style="mso-tab-count: 1">              </span>
-
-[26G](#26G).       Pecuniary penalties for offences against this Division<span style="mso-tab-count: 1 dotted">                      </span>
-
-    **Division 3—Intermediary’s responsibilities<span style="mso-tab-count: 1">                                                  </span>**
-
-[27](#27).          Intermediary’s responsibilities<span style="mso-tab-count: 1 dotted">                                                          </span>
-
-**Part 4—Administration<span style="mso-tab-count: 1">                                                                                                      </span>**
-
-[28](#28).          APRA to have general administration of Part 2<span style="mso-tab-count: 1 dotted">                                </span>
-
-[29](#29).          APRA Act secrecy provisions apply<span style="mso-tab-count: 1 dotted">                                               </span>
-
-[30](#30).          ASIC to have general administration of Part 3<span style="mso-tab-count: 1 dotted">                                  </span>
-
-**Part 5—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
-
-[31](#31).          Anti-avoidance measures<span style="mso-tab-count: 1 dotted">                                                                   </span>
-
-[32](#32).          Act not to affect State and Territory laws<span style="mso-tab-count: 1 dotted">                                        </span>
-
-[33](#33).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
-
-**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
-
-<o:p> </o:p>
-
-
-## An Act to make provision in relation to medical indemnity cover for health care professionals, and for related purposes
-
-## Part 1—Introductory
-
-### Division 1—Preliminary
-
-##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
-
-                   This Act may be cited as the _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_.
-
-##### <a id="2"></a>2  Commencement
-
-                   This Act commences, or is taken to have commenced, on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
-
-##### <a id="3"></a>3  Objects
-
-                   The objects of this Act are:
-
-                     (a)  to ensure that health care professionals have access to medical indemnity cover that is provided by properly regulated insurers; and
-
-                     (b)  to specify minimum standards for medical indemnity cover that is provided to health care professionals.
-
-<o:p> </o:p>
-
-### Division 2—Interpretation
-
-##### <a id="4"></a>4  Definitions
-
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Division&#160;2&#151;Interpretation </division> 
+**
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 4  Definitions 
 General
+<dl compact="">
 
-             (1)  In this Act:
+<dt>(1)</dt><dd>In this Act:
 
-                    <a name="apra"></a>**_APRA_** means the Australian Prudential Regulation Authority.
+</dd> </dl>
+<dl compact=""><dl compact="">
 
-                    <a name="arrang"></a>**_arrangement_** includes a contract of insurance.
+_APRA_ means the Australian Prudential Regulation Authority. _arrangement_ includes a contract of insurance. _ASIC_ means the Australian Securities and Investments Commission. _breach the minimum cover rules_ has the meaning given by subsection&#160;(8). _claim_:  </dl></dl>
 
-                    <a name="asic"></a>**_ASIC_** means the Australian Securities and Investments Commission.
+	(a)	means a claim or demand of any kind (whether or not involving legal proceedings); and
+ 	(b)	includes proceedings of any kind including:
+ 	(i)	proceedings before an administrative tribunal or of an administrative nature; and
+ 	(ii)	disciplinary proceedings (including disciplinary proceedings conducted by or on behalf of a professional body); and
+ 	(iii)	an inquiry or investigation;
 
-                    <a name="breach-minimum-cover-rule"></a>**_breach the minimum cover rules_** has the meaning given by subsection (8).
+and _claim_ against a person includes an inquiry into, or an investigation of, the person's conduct.
 
-                    <a name="claim"></a>**_claim_**:
+<center>Back to Top</center>
 
-                     (a)  means a claim or demand of any kind (whether or not involving legal proceedings); and
+<def><dl compact=""><dl compact="">
 
-                     (b)  includes proceedings of any kind including:
+_claims-made based cover_ has the meaning given by subsections 6(2)
 
-                              (i)  proceedings before an administrative tribunal or of an administrative nature; and
+and (3). _claims period_, in relation to a regulated insurance contract, has the meaning given by subsection 21(3). _client_, in relation to a regulated insurance contract, has the meaning given by subsection 21(2). _come into effect_, in relation to an arrangement, has the meaning given by subsection&#160;(4). _compensation claim_ means a claim for compensation or damages that is made against a health care professional in relation to a health care incident. _complying offer_ has the meaning given by section&#160;24\. _compulsory new contract offer_, in relation to a new regulated insurance contract, means an offer under section&#160;22\. _compulsory offer period_, in relation to an offer made under section&#160;23, means the period referred to in paragraph 24(2)(b) in relation to the offer. _constitutional corporation_ means a corporation to which paragraph 51(xx) of the Constitution applies. _enter into_, in relation to certain arrangements, has a meaning affected by section&#160;7\. _entity_ means:  </dl></dl>
 
-                             (ii)  disciplinary proceedings (including disciplinary proceedings conducted by or on behalf of a professional body); and
+	(a)	a body corporate; or
+ 	(b)	a partnership; or
+ 	(c)	any other unincorporated association or body of persons; or
+ 	(d)	a trust.
 
-                            (iii)  an inquiry or investigation;
+<def><dl compact=""><dl compact="">
 
-and **_claim_** against a person includes an inquiry into, or an investigation of, the person’s conduct.
+_general insurer_ has the same meaning as in the _Insurance Act 1973_. _health care_ means any care, treatment, advice, service or goods provided in respect of the physical or mental health of a person. _health care incident_, in relation to a health care professional, means an incident that occurs in the course of, or in connection with, the provision of health care by the health care professional. _health care professional_:  </dl></dl>
 
-                    <a name="claim-made-base-cover"></a>**_claims-made based cover_** has the meaning given by subsections 6(2) and (3).
+	(a)	means an individual who provides health care (whether for reward or not and whether as an employee, as part of a business or on some other basis); and
+ 	(b)	includes:
+ 	(i)	a medical practitioner; and
+ 	(ii)	a registered health professional.
 
-                    <a name="claim-period"></a>**_claims period_**, in relation to a regulated insurance contract, has the meaning given by subsection 21(3).
+<def><dl compact=""><dl compact="">
 
-                    <a name="client"></a>**_client_**, in relation to a regulated insurance contract, has the meaning given by subsection 21(2).
+_incident_ includes:
 
-                    <a name="effect"></a>**_come into effect_**, in relation to an arrangement, has the meaning given by subsection (4).
+ </dl></dl>
 
-                    <a name="compens-claim"></a>**_compensation claim_** means a claim for compensation or damages that is made against a health care professional in relation to a health care incident.
+	(a)	any act, omission or circumstance; and
+ 	(b)	an incident that is claimed to have occurred.
 
-                    <a name="compli-offer"></a>**_complying offer_** has the meaning given by section 24.
+<def><dl compact=""><dl compact="">
 
-                    <a name="compulsori-new-contract-offer"></a>**_compulsory new contract offer_**, in relation to a new regulated insurance contract, means an offer under section 22.
+_incident-occurring based cover_ has the meaning given by
 
-                    <a name="compulsori-offer-period"></a>**_compulsory offer period_**, in relation to an offer made under section 23, means the period referred to in paragraph 24(2)(b) in relation to the offer.
+subsection 6(4). _indemnify_ has a meaning affected by subsection&#160;(2). _Lloyd&apos;s underwriter_ has the same meaning as in the _Insurance Act 1973_. _MDO_ has the same meaning as in the _Medical Indemnity Act 2002_. _medical indemnity insurer_ has the same meaning as in the _Medical Indemnity Act 2002_. _medical practitioner_ means an individual registered or licensed as a medical practitioner under a State or Territory law that provides for the registration or licensing of medical practitioners. _minimum cover amount_ has the meaning given by section&#160;16\. _new regulated insurance contract_ means a regulated insurance contract to which section&#160;22 applies. _otherwise uncovered prior incidents_ for a health care professional has the meaning given by subsection 21(4). _payable_, in relation to a compensation claim, has the meaning given by subsection&#160;(7). _provide a financial service_ has the meaning given by section&#160;766A of the _Corporations Act 2001_. _provide medical indemnity cover_ has the meaning given by section&#160;5\. _prudential standard_ means a standard determined by APRA under section&#160;32 of the _Insurance Act 1973_. _registered health professional_: an individual is a _registered health professional_ if:  </dl></dl>
 
-                    <a name=""></a><a name="constitut-corpor"></a>**_constitutional corporation_** means a corporation to which paragraph 51(xx) of the Constitution applies.
+<center>Back to Top</center>
 
-                    <a name="enter"></a>**_enter into_**, in relation to certain arrangements, has a meaning affected by section 7.
+	(a)	the individual practises a health care related vocation; and
+ 	(b)	the individual must be registered under a State or Territory law to practise that vocation.
 
-                    <a name="entiti"></a>**_entity_** means:
+<def><dl compact=""><dl compact="">
 
-                     (a)  a body corporate; or
+_regulated insurance contract_ has the meaning given by subsection
 
-                     (b)  a partnership; or
+21(1). _relevant constitutional connection_ has the meaning given by subsection&#160;(6). _renew_ has the meaning given by subsection&#160;(5). _without medical indemnity cover_ has the meaning given by subsection&#160;(3).  </dl></dl>
 
-                     (c)  any other unincorporated association or body of persons; or
+_Indemnify_
 
-                     (d)  a trust.
+<dl compact=""><dl compact="">
 
-                    <a name="gener-insur"></a>**_general insurer_** has the same meaning as in the _Insurance Act 1973_.
+<dt>(2)</dt><dd>To avoid doubt, a person may, for the purposes of this Act,
 
-                    <a name=""></a><a name="health-care"></a>**_health care_** means any care, treatment, advice, service or goods provided in respect of the physical or mental health of a person.
+_indemnify_ someone else by either:
 
-                    <a name="health-care-incid"></a>**_health care incident_**, in relation to a health care professional, means an incident that occurs in the course of, or in connection with, the provision of health care by the health care professional.
+</dd> </dl></dl>
 
-                    <a name="health-care-profession"></a>**_health care professional_**:
+	(a)	making a payment; or
+ 	(b)	agreeing to make a payment.
 
-                     (a)  means an individual who provides health care (whether for reward or not and whether as an employee, as part of a business or on some other basis); and
+<dl compact=""><dl compact="">
 
-                     (b)  includes:
+Note:	A person may indemnify someone else by making a payment
 
-                              (i)  a medical practitioner; and
+even if the payment was not preceded by an agreement to pay.
 
-                             (ii)  a registered health professional.
+ </dl></dl>
 
-                    <a name="incid"></a>**_incident_** includes:
+_Without medical indemnity cover for a health care incident_
 
-                     (a)  any act, omission or circumstance; and
+<dl compact=""><dl compact="">
 
-                     (b)  an incident that is claimed to have occurred.
+<dt>(3)</dt><dd>For the purposes of this Act, a health care professional is _without medical indemnity cover_ for a health care incident if:
 
-                    <a name="incid-occurring-base-cover"></a>**_incident-occurring based cover_** has the meaning given by subsection 6(4).
+</dd> </dl></dl>
 
-                    <a name="indemnifi"></a>**_indemnify_** has a meaning affected by subsection (2).
+	(a)	the health care incident occurs during a particular period; and
+ 	(b)	there is no arrangement under which the health care professional will, or may, be indemnified for compensation claims made against the health care professional in relation to health care incidents occurring during that period.
 
-                    <a name="lloyd-underwrit"></a>**_Lloyd’s underwriter_** has the same meaning as in the _Insurance Act 1973_.
+_When arrangement comes into effect_
 
-                    <a name="mdo"></a>**_MDO_** has the same meaning as in the _Medical Indemnity Act 2002_.
+<dl compact=""><dl compact="">
 
-                    <a name="mical-indemn-insur"></a>**_medical indemnity insurer_** has the same meaning as in the _Medical Indemnity Act 2002_.
+<dt>(4)</dt><dd>For the purposes of this Act, an arrangement under which a person provides
 
-                    <a name=""></a><a name="mical-practition"></a>**_medical practitioner_** means an individual registered or licensed as a medical practitioner under a State or Territory law that provides for the registration or licensing of medical practitioners.
+medical indemnity cover for a health care professional _comes into effect_ on the first day on which, under the arrangement, a claim
 
-                    <a name="minimum-cover-amount"></a>**_minimum cover amount_** has the meaning given by section 16.
+against the person providing the cover may be made.
 
-                    <a name="new-regul-insur-contract"></a>**_new regulated insurance contract_** means a regulated insurance contract to which section 22 applies.
+</dd> </dl></dl>
 
-                    <a name="otherwis-uncovered-prior-incid"></a>**_otherwise uncovered prior incidents_** for a health care professional has the meaning given by subsection 21(4).
+_Renewal of arrangement_
 
-                    <a name="payabl"></a>**_payable_**, in relation to a compensation claim, has the meaning given by subsection (7).
+<dl compact=""><dl compact="">
 
-                    <a name="provid-financi-servic"></a>**_provide a financial service_** has the meaning given by section 766A of the _Corporations Act 2001_.
+<dt>(5)</dt><dd>For the purposes of this Act, an arrangement is _renewed_ if:
 
-                    <a name="provid-mical-indemn-cover"></a>**_provide medical indemnity cover_** has the meaning given by section 5.
+</dd> </dl></dl>
 
-                    <a name=""></a><a name="prudenti-standard"></a>**_prudential standard_** means a standard determined by APRA under section 32 of the _Insurance Act 1973_.
-
-                    <a name="regist-health-profession"></a><a name="regist-health-profession"></a>**_registered health professional_**: an individual is a **_registered health professional_** if:
-
-                     (a)  the individual practises a health care related vocation; and
-
-                     (b)  the individual must be registered under a State or Territory law to practise that vocation.
-
-                    <a name="regul-insur-contract"></a>**_regulated insurance contract_** has the meaning given by subsection 21(1).
-
-                    <a name="relev-constitut-connect"></a>**_relevant constitutional connection_** has the meaning given by subsection (6).
-
-                    <a name="renew"></a>**_renew_** has the meaning given by subsection (5).
-
-                    <a name="without-mical-indemn-cover"></a>**_without medical indemnity cover_** has the meaning given by subsection (3).
-
-Indemnify
-
-             (2)  To avoid doubt, a person may, for the purposes of this Act, **_indemnify_** someone else by either:
-
-                     (a)  making a payment; or
-
-                     (b)  agreeing to make a payment.
-
-Note:          A person may indemnify someone else by making a payment even if the payment was not preceded by an agreement to pay.
-
-Without medical indemnity cover for a health care incident
-
-             (3)  For the purposes of this Act, a health care professional is **_without medical indemnity cover_** for a health care incident if:
-
-                     (a)  the health care incident occurs during a particular period; and
-
-                     (b)  there is no arrangement under which the health care professional will, or may, be indemnified for compensation claims made against the health care professional in relation to health care incidents occurring during that period.<o:p></o:p>
-
-When arrangement comes into effect
-
-             (4)  For the purposes of this Act, an arrangement under which a person provides medical indemnity cover for a health care professional **_comes into effect_** on the first day on which, under the arrangement, a claim against the person providing the cover may be made.
-
-Renewal of arrangement
-
-             (5)  For the purposes of this Act, an arrangement is **_renewed_** if:
-
-                     (a)  the arrangement is renewed; or
-
-                     (b)  the period of the arrangement is extended;
+	(a)	the arrangement is renewed; or
+ 	(b)	the period of the arrangement is extended;
 
 whether this happens:
 
-                     (c)  because of action taken, or not taken, by a party or parties to the arrangement; or
+	(c)	because of action taken, or not taken, by a party or parties to the arrangement; or
+ 	(d)	automatically; or
+ 	(e)	by force of law.
 
-                     (d)  automatically; or
+<dl compact=""><dl compact="">
 
-                     (e)  by force of law.
+Note:	For example, if renewable insurance cover is provided under
 
-Note:          For example, if renewable insurance cover is provided under a contract of insurance (the **_original contract_**), a further contract of insurance may exist between the parties to the original contract by force of subsection 58(3) of the _Insurance Contracts Act 1984_.
+a contract of insurance (the _original contract_), a further
 
-Relevant constitutional connection
+contract of insurance may exist between the parties to the original contract by
 
-             (6)  For the purposes of this Act, an arrangement has a **_relevant constitutional connection_** if:
+force of subsection 58(3) of the _Insurance Contracts Act 1984_.
 
-                     (a)  the arrangement provides for insurance with respect to which the Commonwealth Parliament has power to make laws under paragraph 51(xiv) of the Constitution; or
+ </dl></dl>
 
-                     (b)  the arrangement is entered into in the course of trade and commerce:
+_Relevant constitutional connection_
 
-                              (i)  with other countries; or
+<dl compact=""><dl compact="">
 
-                             (ii)  among the States; or
+<dt>(6)</dt><dd>For the purposes of this Act, an arrangement has a _relevant constitutional connection_ if:
 
-                            (iii)  between a State and a Territory; or
+</dd> </dl></dl>
 
-                     (c)  the arrangement is entered into in, or is governed by the laws of, a Territory.
+	(a)	the arrangement provides for insurance with respect to which the Commonwealth Parliament has power to make laws under paragraph 51(xiv) of the Constitution; or
+ 	(b)	the arrangement is entered into in the course of trade and commerce:
+ 	(i)	with other countries; or
+ 	(ii)	among the States; or
+ 	(iii)	between a State and a Territory; or
+ 	(c)	the arrangement is entered into in, or is governed by the laws of, a Territory.
 
-Amount payable in relation to compensation claim
+_Amount payable in relation to compensation claim_
 
-             (7)  For the purposes of this Act, the amount that is **_payable_** in relation to a compensation claim  includes an amount that would be paid to meet legal and other expenses that are directly attributable to any negotiations, arbitration or proceedings in relation to the compensation claim.
+<center>Back to Top</center>
 
-Breaching the minimum cover rules
+<dl compact=""><dl compact="">
 
-             (8)  For the purposes of this Act, a regulated insurance contract **_breaches the minimum cover rules_** if subsection 17(2), 18(3) or 19(3) applies to the regulated insurance contract.
+<dt>(7)</dt><dd>For the purposes of this Act, the amount that is _payable_ in
 
-Claim against health care professional during particular period
+relation to a compensation claim  includes an amount that would be
 
-             (9)  A reference in this Act, in relation to:
+paid to meet legal and other expenses that are directly attributable to any
 
-                     (a)  a contract of insurance under which the insurer provides medical indemnity cover for a health care professional; or
+negotiations, arbitration or proceedings in relation to the compensation claim.
 
-                     (b)  an offer by an insurer to provide medical indemnity cover for a health care professional;
+</dd> </dl></dl>
+
+_Breaching the minimum cover rules_
+
+<dl compact=""><dl compact="">
+
+<dt>(8)</dt><dd>For the purposes of this Act, a regulated insurance contract
+
+_breaches the minimum cover rules_ if subsection 17(2), 18(3) or
+
+19(3) applies to the regulated insurance contract.
+
+</dd> </dl></dl>
+
+_Claim against health care professional during particular period_
+
+<dl compact=""><dl compact="">
+
+<dt>(9)</dt><dd>A reference in this Act, in relation to:
+
+</dd> </dl></dl>
+
+	(a)	a contract of insurance under which the insurer provides medical indemnity cover for a health care professional; or
+ 	(b)	an offer by an insurer to provide medical indemnity cover for a health care professional;
 
 to a compensation claim against the health care professional being made, or having to be made, during a particular period is a reference to any one or more of the following happening, or having to happen, during that period:
 
-                     (c)  the compensation claim being made against the health care professional;
+	(c)	the compensation claim being made against the health care professional;
+ 	(d)	the compensation claim being notified to the insurer;
+ 	(e)	the health care incident to which the compensation claim relates being notified to the insurer;
+ 	(f)	a claim being made against the insurer in relation to the compensation claim;
+ 	(g)	an event prescribed by the regulations.
 
-                     (d)  the compensation claim being notified to the insurer;
+_References to health care professional_
 
-                     (e)  the health care incident to which the compensation claim relates being notified to the insurer;
+<dl compact=""><dl compact="">
 
-                      (f)  a claim being made against the insurer in relation to the compensation claim;
+<dt>(10)</dt><dd>A reference in this Act to a health care professional includes a
 
-                     (g)  an event prescribed by the regulations.
+reference to an individual who has been a health care professional at any time.
 
-References to health care professional
+</dd> </dl></dl>
 
-           (10)  A reference in this Act to a health care professional includes a reference to an individual who has been a health care professional at any time.
+_References to medical practitioner_
 
-References to medical practitioner
+<dl compact=""><dl compact="">
 
-           (11)  A reference in this Act to a medical practitioner includes a reference to an individual who has been a medical practitioner at any time.
+<dt>(11)</dt><dd>A reference in this Act to a medical practitioner includes a reference to
 
-References to registered health professional
+an individual who has been a medical practitioner at any time.
 
-           (12)  A reference in this Act to a registered health professional includes a reference to an individual who has been a registered health professional at any time.
+</dd> </dl></dl>
 
-##### <a id="5"></a>5  Providing medical indemnity cover
+_References to registered health professional_
 
-             (1)  A person **_provides medical indemnity cover_** for a health care professional if, under an arrangement, the person must or may indemnify the health care professional in relation to claims that may be made against the health care professional in relation to health care incidents.
+<dl compact=""><dl compact="">
 
-             (2)  The arrangement:
+<dt>(12)</dt><dd>A reference in this Act to a registered health professional includes a
 
-                     (a)  may be one under which the indemnity is provided at the person’s discretion; and
+reference to an individual who has been a registered health professional at any
 
-                     (b)  may be, but need not be, an arrangement between the person and the health care professional; and
+time.
 
-                     (c)  may be:
+</dd> </dl></dl>
 
-                              (i)  one under which the health care professional is indemnified directly; or
+**
 
-                             (ii)  one under which the health care professional is indemnified indirectly through an entity or entities interposed between the person and the health care professional.
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 5  Providing medical indemnity cover 
+**
 
-##### <a id="6"></a>6  Claims-made based cover and incident-occurring based cover
+ <dl compact=""><dl compact="">
 
-             (1)  This section tells you what is meant by **_claims-made based cover_** and **_incident-occurring based cover_** when those terms are used in this Act. There are some kinds of medical indemnity cover that fall outside both those terms.
+<dt>(1)</dt><dd>A person _provides medical indemnity cover_ for a health care
 
-             (2)  For the purposes of this Act, the cover provided for by a contract of insurance is **_claims-made based cover_** if:
+professional if, under an arrangement, the person must or may indemnify the
 
-                     (a)  under the contract, the insurer provides medical indemnity cover for a health care professional in relation to a compensation claim against the health care professional in relation to a health care incident only if:
+health care professional in relation to claims that may be made against the
 
-                              (i)  the incident occurs during a period specified in the contract (the **_incidents period_**); and
+health care professional in relation to health care incidents.</dd> <dt>(2)</dt><dd>The arrangement: </dd> </dl></dl>
 
-                             (ii)  the compensation claim is made against the health care professional during a period specified in the contract (the **_claims period_**); and
+	(a)	may be one under which the indemnity is provided at the person's discretion; and
+ 	(b)	may be, but need not be, an arrangement between the person and the health care professional; and
+ 	(c)	may be:
+ 	(i)	one under which the health care professional is indemnified directly; or
+ 	(ii)	one under which the health care professional is indemnified indirectly through an entity or entities interposed between the person and the health care professional. 
 
-                     (b)  the incidents period is not a period that has ended before the claims period begins; and
+**
 
-                     (c)  the claims period is fixed.
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 6  Claims-made based cover and incident-occurring based cover 
+**
 
-Note 1:       Subparagraph (a)(ii)—subsection 4(9) operates on the reference in this subparagraph to the claim being made during a period.
+<dl compact=""><dl compact="">
 
-Note 2:       Pure ERB cover (which has a defined incidents period that ends before the claims period begins) does not qualify because of paragraph (b). DDR cover (which does not have a fixed claims period) does not qualify because of paragraph (c).
+<dt>(1)</dt><dd>This section tells you what is meant by _claims-made based cover_ and _incident-occurring based cover_ when those terms
 
-             (3)  To avoid doubt, the claims period for the contract is taken to be fixed even if the claims period is capable of being extended:
+are used in this Act. There are some kinds of medical indemnity cover that fall
 
-                     (a)  by agreement between the parties to the contract; or
+outside both those terms.</dd> <dt>(2)</dt><dd>For the purposes of this Act, the cover provided for by a contract of insurance is _claims-made based cover_ if: </dd> </dl></dl>
 
-                     (b)  by renewal of the contract.
+<center>Back to Top</center>
 
-             (4)  For the purposes of this Act, the cover provided for by a contract of insurance is **_incident-occurring based cover_** if:
+	(a)	under the contract, the insurer provides medical indemnity cover for a health care professional in relation to a compensation claim against the health care professional in relation to a health care incident only if:
+ 	(i)	the incident occurs during a period specified in the contract (the _incidents period_); and
+ 	(ii)	the compensation claim is made against the health care professional during a period specified in the contract (the _claims period_); and
+ 	(b)	the incidents period is not a period that has ended before the claims period begins; and
+ 	(c)	the claims period is fixed.
 
-                     (a)  under the contract, the insurer provides medical indemnity cover for a health care professional in relation to a compensation claim in relation to a health care incident only if the incident occurs during a period specified in the contract; and
+<dl compact=""><dl compact="">
 
-                     (b)  under the contract, the insurer provides that medical indemnity cover:
+Note 1:	Subparagraph&#160;(a)(ii)&#151;subsection 4(9) operates on
 
-                              (i)  regardless of when the compensation claim is made against the health care professional; and
+the reference in this subparagraph to the claim being made during a period. Note 2:	Pure ERB cover (which has a defined incidents period that ends before the claims period begins) does not qualify because of paragraph&#160;(b). DDR cover (which does not have a fixed claims period) does not qualify because of paragraph&#160;(c).  </dl></dl>
 
-                             (ii)  whether or not the health care professional has died, become permanently disabled or retired.
+<dl compact=""><dl compact="">
 
-Note:          ERB cover (which has a fixed claims period) does not qualify because of subparagraph (b)(i) and DDR cover does not qualify because of subparagraph (b)(ii).
+<dt>(3)</dt><dd>To avoid doubt, the claims period for the contract is taken to be fixed
 
-##### <a id="7"></a>7  When certain DDR arrangements are taken to be entered into
+even if the claims period is capable of being extended:
 
-             (1)  For the purposes of this Act, if:
+</dd> </dl></dl>
 
-                     (a)  under an arrangement, a person (the **_cover provider_**) will or may provide medical indemnity cover of a particular kind for a health care professional; and
+	(a)	by agreement between the parties to the contract; or
+ 	(b)	by renewal of the contract.
 
-                     (b)  the cover provider will or may provide that cover only if:
+<dl compact=""><dl compact="">
 
-                              (i)  a particular period has expired; and
+<dt>(4)</dt><dd>For the purposes of this Act, the cover provided for by a contract of
 
-                             (ii)  the health care professional dies, becomes permanently disabled or retires; and
+insurance is _incident-occurring based cover_ if:
 
-                     (c)  the arrangement is not a contract of insurance;
+</dd> </dl></dl>
 
-the cover provider is taken to **_enter into_** the arrangement, to the extent to which it relates to that cover, at the earliest time at which:
+	(a)	under the contract, the insurer provides medical indemnity cover for a health care professional in relation to a compensation claim in relation to a health care incident only if the incident occurs during a period specified in the contract; and
+ 	(b)	under the contract, the insurer provides that medical indemnity cover:
+ 	(i)	regardless of when the compensation claim is made against the health care professional; and
+ 	(ii)	whether or not the health care professional has died, become permanently disabled or retired.
 
-                     (d)  there are no conditions that need to be satisfied for the cover to be provided for the health care professional; or
+<dl compact=""><dl compact="">
 
-                     (e)  the only conditions that need to be satisfied for the cover to be provided for the health care professional are conditions that relate to:
+Note:	ERB cover (which has a fixed claims period) does not
 
-                              (i)  payments being made to the cover provider for the cover; or
+qualify because of subparagraph&#160;(b)(i) and DDR cover does not qualify
 
-                             (ii)  the making of a claim against the cover provider under the arrangement.
+because of subparagraph&#160;(b)(ii).
 
-             (2)  Without limiting subparagraph (1)(b)(i), the period referred to in that subparagraph may be specified as a minimum period during which the health care professional is a member of a particular body.
+ </dl></dl>
 
-##### <a id="7A"></a>7A  Reasonableness of premiums
+**
 
-                   In deciding whether the premium payable by an insured under a contract of insurance for particular cover is reasonable, regard is to be had to:
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 7  When certain DDR arrangements are taken to be entered into 
+**
 
-                     (a)  the nature of the risks being assumed by the insurer; and
+<dl compact=""><dl compact="">
 
-                     (b)  the claims handling expenses, and other administrative expenses, the insurer has incurred and can reasonably be expected to incur; and
+<dt>(1)</dt><dd>For the purposes of this Act, if:
 
-                     (c)  the expenses the insurer can reasonably be expected to incur in obtaining appropriate reinsurance; and
+</dd> </dl></dl>
 
-                     (d)  the expenses the insurer can reasonably be expected to incur in capital raising and prudential compliance; and
+	(a)	under an arrangement, a person (the _cover provider_) will or may provide medical indemnity cover of a particular kind for a health care professional; and
+ 	(b)	the cover provider will or may provide that cover only if:
+ 	(i)	a particular period has expired; and
+ 	(ii)	the health care professional dies, becomes permanently disabled or retires; and
+ 	(c)	the arrangement is not a contract of insurance;
 
-                     (e)  the amount that represents a reasonable profit margin for the insurer; and
+the cover provider is taken to _enter into_ the arrangement, to the extent to which it relates to that cover, at the earliest time at which:
 
-                      (f)  the amount of any relevant taxes or statutory charges payable by the insurer; and
+	(d)	there are no conditions that need to be satisfied for the cover to be provided for the health care professional; or
+ 	(e)	the only conditions that need to be satisfied for the cover to be provided for the health care professional are conditions that relate to:
+ 	(i)	payments being made to the cover provider for the cover; or
+ 	(ii)	the making of a claim against the cover provider under the arrangement.
 
-                     (g)  the information provided, or not provided, to the insurer by the client in relation to matters relevant to assessing the risk being assumed by the insurer; and
+<dl compact=""><dl compact="">
 
-                     (h)  the amount that represents provisioning for future liabilities for medical indemnity cover that may be required to be offered under section 23 for a premium that does not reflect the cost of providing that medical indemnity cover; and
+<dt>(2)</dt><dd>Without limiting subparagraph&#160;(1)(b)(i), the period referred to in
 
-                      (i)  the receipt, or probable receipt, of Commonwealth assistance in relation to provision of the medical indemnity cover; and
+that subparagraph may be specified as a minimum period during which the health
 
-                      (j)  such other matters as are specified in regulations made for the purposes of this paragraph.
+care professional is a member of a particular body.
 
-<o:p> </o:p>
+</dd> </dl></dl>
 
-### Division 3—Application of Act
+**
 
-##### <a id="8"></a>8  Application of Act
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 7A  Reasonableness of premiums 
+**
 
-             (1)  This Act does not apply to State insurance (whether or not extending beyond the limits of the State concerned).
+ <dl compact=""><dl compact="">
 
-             (2)  This Act does not apply to:
+		In deciding whether the premium payable by an insured under a contract of
 
-                     (a)  an arrangement under which medical indemnity cover is provided by:
+insurance for particular cover is reasonable, regard is to be had to:
 
-                              (i)  the Commonwealth, a public authority of the Commonwealth or an instrumentality or agency of the Crown in right of the Commonwealth; or
+ </dl></dl>
 
-                             (ii)  a State, a public authority of a State or an instrumentality or agency of the Crown in right of a State; or
+<center>Back to Top</center>
 
-                            (iii)  a Territory, a public authority of a Territory or an instrumentality or agency of the Crown in right of a Territory; or
+	(a)	the nature of the risks being assumed by the insurer; and
+ 	(b)	the claims handling expenses, and other administrative expenses, the insurer has incurred and can reasonably be expected to incur; and
+ 	(c)	the expenses the insurer can reasonably be expected to incur in obtaining appropriate reinsurance; and
+ 	(d)	the expenses the insurer can reasonably be expected to incur in capital raising and prudential compliance; and
+ 	(e)	the amount that represents a reasonable profit margin for the insurer; and
+ 	(f)	the amount of any relevant taxes or statutory charges payable by the insurer; and
+ 	(g)	the information provided, or not provided, to the insurer by the client in relation to matters relevant to assessing the risk being assumed by the insurer; and
+ 	(h)	the amount that represents provisioning for future liabilities for medical indemnity cover that may be required to be offered under section&#160;23 for a premium that does not reflect the cost of providing that medical indemnity cover; and
+ 	(i)	the receipt, or probable receipt, of Commonwealth assistance in relation to provision of the medical indemnity cover; and
+ 	(j)	such other matters as are specified in regulations made for the purposes of this paragraph.
 
-                     (b)  an arrangement under which medical indemnity cover is provided by a person to a health care professional who is an employee of the person; or
+<center>**
 
-                     (c)  an arrangement under which medical indemnity cover is provided by an employer in relation to health care provided to the employer’s employees:
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Division&#160;3&#151;Application of Act </division> 
+**</center>
 
-                              (i)  by an employee of the employer; or
+**
 
-                             (ii)  under a contract between the employer and the person providing the care; or
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 8  Application of Act 
+**
 
-                     (d)  an arrangement under which medical indemnity cover is provided by a body corporate prescribed by the regulations; or
+ <dl compact=""><dl compact="">
 
-                     (e)  an arrangement of a kind prescribed by the regulations.
+<dt>(1)</dt><dd>This Act does not apply to State insurance (whether or not extending
 
-##### <a id="9"></a>9  Act extends to external Territories
+beyond the limits of the State concerned).</dd> <dt>(2)</dt><dd>This Act does not apply to: </dd> </dl></dl>
 
-                   This Act extends to every external Territory.
+	(a)	an arrangement under which medical indemnity cover is provided by:
+ 	(i)	the Commonwealth, a public authority of the Commonwealth or an instrumentality or agency of the Crown in right of the Commonwealth; or
+ 	(ii)	a State, a public authority of a State or an instrumentality or agency of the Crown in right of a State; or
+ 	(iii)	a Territory, a public authority of a Territory or an instrumentality or agency of the Crown in right of a Territory; or
+ 	(b)	an arrangement under which medical indemnity cover is provided by a person to a health care professional who is an employee of the person; or
+ 	(c)	an arrangement under which medical indemnity cover is provided by an employer in relation to health care provided to the employer's employees:
+ 	(i)	by an employee of the employer; or
+ 	(ii)	under a contract between the employer and the person providing the care; or
+ 	(d)	an arrangement under which medical indemnity cover is provided by a body corporate prescribed by the regulations; or
+ 	(e)	an arrangement of a kind prescribed by the regulations. 
 
-<o:p> </o:p>
+**
 
-## Part 2—Prudential requirements for provision of medical indemnity cover
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 9  Act extends to external Territories 
+**
 
-### Division 1—Provision of medical indemnity cover
+ <dl compact=""><dl compact="">
 
-##### <a id="10"></a>10  Medical indemnity cover to be provided only by general insurers and only under contracts of insurance
+		This Act extends to every external Territory.
 
-             (1)  This subsection applies to a person if, on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>:
+ </dl></dl>
 
-                     (a)  the person:
+<center>**
 
-                              (i)  offers to enter into; or
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<part>Part&#160;2&#151;Prudential requirements for provision of medical indemnity cover </part>
+**</center>
 
-                             (ii)  invites an offer to enter into;
+<center>**
 
-                            an arrangement under which the person would provide medical indemnity cover for a health care professional; or
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Division&#160;1&#151;Provision of medical indemnity cover </division> 
+**</center>
 
-                     (b)  the person enters into an arrangement under which the person provides medical indemnity cover for a health care professional; or
+**
 
-                     (c)  an arrangement under which the person provides medical indemnity cover for a health care professional comes into effect; or
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 10  Medical indemnity cover to be provided only by general insurers and only under contracts of insurance 
+**
 
-                     (d)  the person offers to renew an arrangement under which a person provides medical indemnity cover for a health care professional; or
+<dl compact=""><dl compact="">
 
-                     (e)  an arrangement under which the person provides medical indemnity cover for a health care professional is renewed.
+<dt>(1)</dt><dd>This subsection applies to a person if, on or after 1&#160;July 2003:
 
-The **_relevant medical indemnity cover_** is the cover referred to in paragraph (a), (b), (c), (d), or (e).
+</dd> </dl></dl>
 
-             (2)  A person (the **_cover provider_**) commits an offence if:
+	(a)	the person:
+ 	(i)	offers to enter into; or
+ 	(ii)	invites an offer to enter into;
+ 		an arrangement under which the person would provide medical indemnity cover for a health care professional; or
+ 	(b)	the person enters into an arrangement under which the person provides medical indemnity cover for a health care professional; or
+ 	(c)	an arrangement under which the person provides medical indemnity cover for a health care professional comes into effect; or
 
-                     (a)  subsection (1) applies to the cover provider; and
+<center>Back to Top</center>
+ 	(d)	the person offers to renew an arrangement under which a person provides medical indemnity cover for a health care professional; or
+ 	(e)	an arrangement under which the person provides medical indemnity cover for a health care professional is renewed.
 
-                     (b)  either:
+The _relevant medical indemnity cover_ is the cover referred to in paragraph&#160;(a), (b), (c), (d), or (e).
 
-                              (i)  the cover provider is a constitutional corporation; or
+<dl compact=""><dl compact="">
 
-                             (ii)  the cover provider is not a constitutional corporation but the arrangement has, or would have, a relevant constitutional connection; and
+<dt>(2)</dt><dd>A person (the _cover provider_) commits an offence if:
 
-                     (c)  either:
+</dd> </dl></dl>
 
-                              (i)  the cover provider is neither a general insurer nor a Lloyd’s underwriter; or
+	(a)	subsection&#160;(1) applies to the cover provider; and
+ 	(b)	either:
+ 	(i)	the cover provider is a constitutional corporation; or
+ 	(ii)	the cover provider is not a constitutional corporation but the arrangement has, or would have, a relevant constitutional connection; and
+ 	(c)	either:
+ 	(i)	the cover provider is neither a general insurer nor a Lloyd's underwriter; or
+ 	(ii)	the relevant medical indemnity cover is not, or would not be, effected by means of a contract of insurance.
 
-                             (ii)  the relevant medical indemnity cover is not, or would not be, effected by means of a contract of insurance.
+Penalty:	Imprisonment for 12 months.
 
-                    Penalty:  Imprisonment for 12 months.
+<dl compact=""><dl compact="">
 
-             (3)  To avoid doubt:
+<dt>(3)</dt><dd>To avoid doubt:
 
-                     (a)  paragraph (1)(a) applies to offers or invitations that are received in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or the external Territories:
+</dd> </dl></dl>
 
-                              (i)  regardless of where any resulting arrangement is entered into; and
+	(a)	paragraph&#160;(1)(a) applies to offers or invitations that are received in Australia or the external Territories:
+ 	(i)	regardless of where any resulting arrangement is entered into; and
+ 	(ii)	whether or not any resulting arrangement is governed by the laws of a State or Territory; and
+ 	(b)	paragraph&#160;(1)(d) applies to offers that are received in Australia or the external Territories:
+ 	(i)	regardless of where any resulting renewal takes place; and
+ 	(ii)	whether or not the arrangement is governed by the laws of a State or Territory. 
 
-                             (ii)  whether or not any resulting arrangement is governed by the laws of a State or Territory; and
+**
 
-                     (b)  paragraph (1)(d) applies to offers that are received in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or the external Territories:
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 11  Intermediary's responsibilities 
+**
 
-                              (i)  regardless of where any resulting renewal takes place; and
+ <dl compact=""><dl compact="">
 
-                             (ii)  whether or not the arrangement is governed by the laws of a State or Territory.
+<dt>(1)</dt><dd>A person (the _intermediary_) commits an offence if:
 
-##### <a id="11"></a>11  Intermediary’s responsibilities
+</dd> </dl></dl>
 
-             (1)  A person (the **_intermediary_**) commits an offence if:
+	(a)	the intermediary provides a financial service on or after 1&#160;July 2003; and
+ 	(b)	in the course of providing that service, the intermediary:
+ 	(i)	arranges, or offers to arrange, for someone to enter into or renew; or
+ 	(ii)	recommends that someone enter into or renew;
+ 		an arrangement under which a person (the _cover provider_) provides, or would provide, medical indemnity cover for a health care professional; and
+ 	(c)	either:
+ 	(i)	the cover provider is a constitutional corporation; or
+ 	(ii)	the arrangement has, or would have, a relevant constitutional connection; and
+ 	(d)	either:
+ 	(i)	the cover provider is neither a general insurer nor a Lloyd's underwriter; or
+ 	(ii)	the arrangement is not, or would not be, effected by means of a contract of insurance.
 
-                     (a)  the intermediary provides a financial service on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
+Penalty:	Imprisonment for 12 months.
 
-                     (b)  in the course of providing that service, the intermediary:
+<dl compact=""><dl compact="">
 
-                              (i)  arranges, or offers to arrange, for someone to enter into or renew; or
+<dt>(2)</dt><dd>It does not matter whether the intermediary provides the financial service
 
-                             (ii)  recommends that someone enter into or renew;
+in the intermediary's own right or as a representative of another person.</dd> <dt>(3)</dt><dd>To avoid doubt, the intermediary commits the offence whether or not the cover provider commits, or would commit, an offence against subsection 10(2). </dd> </dl></dl>
 
-                            an arrangement under which a person (the **_cover provider_**) provides, or would provide, medical indemnity cover for a health care professional; and
+<center>**
 
-                     (c)  either:
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Division&#160;2&#151;Transitional arrangements </division> 
+**</center>
 
-                              (i)  the cover provider is a constitutional corporation; or
+**
 
-                             (ii)  the arrangement has, or would have, a relevant constitutional connection; and
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 12  Effect of determination under subsection 13(3) 
+**
 
-                     (d)  either:
+ _Section applies to body corporate while determination under subsection 13(3) is in force_
 
-                              (i)  the cover provider is neither a general insurer nor a Lloyd’s underwriter; or
+<dl compact=""><dl compact="">
 
-                             (ii)  the arrangement is not, or would not be, effected by means of a contract of insurance.
+<dt>(1)</dt><dd>This section applies to a body corporate while a determination under
 
-                    Penalty:  Imprisonment for 12 months.
+subsection 13(3) is in force in relation to the body corporate.
 
-             (2)  It does not matter whether the intermediary provides the financial service in the intermediary’s own right or as a representative of another person.
+</dd> </dl></dl>
 
-             (3)  To avoid doubt, the intermediary commits the offence whether or not the cover provider commits, or would commit, an offence against subsection 10(2).
+<center>Back to Top</center>
 
-<o:p> </o:p>
+_Authorisation to carry on insurance business in Australia_
 
-### Division 2—Transitional arrangements
+<dl compact=""><dl compact="">
 
-##### <a id="12"></a>12  Effect of determination under subsection 13(3)
+<dt>(2)</dt><dd>APRA must not refuse an application by the body corporate under
 
-Section applies to body corporate while determination under subsection 13(3) is in force
+section&#160;12 of the _Insurance Act 1973_ on the basis that the body
 
-             (1)  This section applies to a body corporate while a determination under subsection 13(3) is in force in relation to the body corporate.
+corporate does not, or would not, meet the requirements of a prudential
 
-Authorisation to carry on insurance business in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>
+standard to the extent to which the standard imposes a minimum capital
 
-             (2)  APRA must not refuse an application by the body corporate under section 12 of the _Insurance Act 1973_ on the basis that the body corporate does not, or would not, meet the requirements of a prudential standard to the extent to which the standard imposes a minimum capital requirement.
+requirement.
 
-Note:<span style="mso-tab-count: 1">          </span>This subsection is not relevant for a body corporate if at the time the body corporate applied for a determination under section 13 the body corporate was already a general insurer.<o:p></o:p>
+</dd> </dl></dl>
 
-Grounds for revoking authorisation
+<dl compact=""><dl compact="">
 
-             (3)  Paragraph 15(1)(e) of the _Insurance Act 1973_ does not apply to the body corporate.
+Note:	This subsection is not relevant for a body corporate if at
 
-Application of prudential standard imposing minimum capital requirement
+the time the body corporate applied for a determination under section&#160;13
 
-             (4)  Any prudential standard, to the extent to which the standard imposes a minimum capital requirement, does not apply to the body corporate.
+the body corporate was already a general insurer.
 
-##### <a id="13"></a>13  APRA determination that minimum capital requirements do not apply
+ </dl></dl>
 
-Application for determination
+_Grounds for revoking authorisation_
 
-             (1)  A body corporate that:
+<dl compact=""><dl compact="">
 
-                     (a)  is an MDO within the meaning of the _Medical Indemnity Act 2002_; or
+<dt>(3)</dt><dd>Paragraph 15(1)(e) of the _Insurance Act 1973_ does not apply to the
 
-                     (b)  is prescribed by the regulations for the purposes of this paragraph; or
+body corporate.
 
-                     (c)  is related (within the meaning of the _Corporations Act 2001_) to a body corporate to which paragraph (a) or (b) applies;
+</dd> </dl></dl>
 
-may apply to APRA for a determination under subsection (3) that the minimum capital requirements do not apply to the body corporate during the period (the **_transition period_**) that starts on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date> and ends on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2008" day="30" month="6">30 June 2008</st1:date>.
+_Application of prudential standard imposing minimum capital requirement_
 
-             (2)  The application must be in the form prescribed by the regulations.
+<dl compact=""><dl compact="">
 
-Determination that minimum capital requirements do not apply
+<dt>(4)</dt><dd>Any prudential standard, to the extent to which the standard imposes a
 
-             (3)  APRA must determine that the minimum capital requirements do not apply to the body corporate during the transition period if:
+minimum capital requirement, does not apply to the body corporate.
 
-                     (a)<span style="mso-tab-count: 1">  </span>when it applies, the body corporate:<o:p></o:p>
+</dd> </dl></dl>
 
-<span style="mso-tab-count: 1">                              </span>(i)<span style="mso-tab-count: 1">  </span>is not a general insurer; or<o:p></o:p>
+**
 
-<span style="mso-tab-count: 1">                             </span>(ii)<span style="mso-tab-count: 1">  </span>is a general insurer and is prescribed by the regulations for the purposes of this subparagraph; and<o:p></o:p>
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 13  APRA determination that minimum capital requirements do not apply 
+**
 
-                     (b)  when it applies, the body corporate does not, or would not, satisfy the prudential standards, to the extent to which they impose minimum capital requirements; and
+_Application for determination_
 
-                     (c)  the body corporate lodges a funding plan with the application; and
+<dl compact=""><dl compact="">
 
-                     (d)  the funding plan:
+<dt>(1)</dt><dd>A body corporate that:
 
-                              (i)  is in the form prescribed by the regulations; and
+</dd> </dl></dl>
 
-                             (ii)  is certified by an independent auditor and by an independent actuary; and
+	(a)	is an MDO within the meaning of the _Medical Indemnity Act 2002_; or
+ 	(b)	is prescribed by the regulations for the purposes of this paragraph; or
+ 	(c)	is related (within the meaning of the _Corporations Act 2001_) to a body corporate to which paragraph&#160;(a) or (b) applies;
 
-.                           (iii)  complies with the guidelines issued by APRA under subsection (9).
+may apply to APRA for a determination under subsection&#160;(3) that the minimum capital requirements do not apply to the body corporate during the period (the _transition period_) that starts on 1&#160;July 2003 and ends on 30&#160;June 2008.
 
-Note:          Paragraph (c)—If a funding plan lodged with an application does not comply with the requirements set out in paragraph (d), the body corporate will need to make another application under this section and lodge another funding plan with that application.
+<dl compact=""><dl compact="">
 
-          (3A)  APRA must make the determination within 30 days after receiving the application.
+<dt>(2)</dt><dd>The application must be in the form prescribed by the regulations.
 
-          (3B)  The determination must be in writing and APRA must give the body corporate a copy of the determination within 7 days after making the determination.
+</dd> </dl></dl>
 
-When determination ceases to have effect
+_Determination that minimum capital requirements do not apply_
 
-             (4)  The determination ceases to have effect:
+<dl compact=""><dl compact="">
 
-                     (a)  on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2008" day="30" month="6">30 June 2008</st1:date>; or
+<dt>(3)</dt><dd>APRA must determine that the minimum capital requirements do not apply to
 
-                     (b)  if APRA revokes the determination before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2008" day="30" month="6">30 June 2008</st1:date>—on the day specified in the revocation as the day on which the revocation takes effect.
+the body corporate during the transition period if:
 
-Revocation of determination
+</dd> </dl></dl>
 
-             (5)  APRA may revoke the determination if and only if:
+	(a)	when it applies, the body corporate:
+ 	(i)	is not a general insurer; or
+ 	(ii)	is a general insurer and is prescribed by the regulations for the purposes of this subparagraph; and
+ 	(b)	when it applies, the body corporate does not, or would not, satisfy the prudential standards, to the extent to which they impose minimum capital requirements; and
+ 	(c)	the body corporate lodges a funding plan with the application; and
+ 	(d)	the funding plan:
+ 	(i)	is in the form prescribed by the regulations; and
+ 	(ii)	is certified by an independent auditor and by an independent actuary; and
+ .	(iii)	complies with the guidelines issued by APRA under subsection&#160;(9).
 
-                     (a)  the body corporate:
+<dl compact=""><dl compact="">
 
-                              (i)  fails to meet a commitment given, or a target set, in the funding plan; or
+Note:	Paragraph&#160;(c)&#151;If a funding plan lodged with an
 
-                             (ii)  otherwise fails to comply with the funding plan;
+application does not comply with the requirements set out in
 
-                            and the failure is substantial; or
+paragraph&#160;(d), the body corporate will need to make another application
 
-                     (b)  the body corporate no longer carries on a business of providing medical indemnity cover for health care professionals; or
+under this section and lodge another funding plan with that application.
 
-                     (c)  the body corporate requests APRA, in writing, to revoke the determination.
+ </dl></dl>
 
-             (6)  The revocation must:
+<dl compact=""><dl compact="">
 
-                     (a)  be in writing; and
+<dt>(3A)</dt><dd>APRA must make the determination within 30 days after receiving the
 
-                     (b)  specify the day on which the revocation takes effect.
+application.</dd> <dt>(3B)</dt><dd>The determination must be in writing and APRA must give the body corporate a copy of the determination within 7 days after making the determination. </dd> </dl></dl>
 
-The day specified under paragraph (b) must be at least 28 days after the day on which the revocation is made.
+<center>Back to Top</center>
 
-             (7)  APRA must give a copy of the revocation to the body corporate within 7 days after the day on which the revocation is made.
+_When determination ceases to have effect_
 
-No determinations to be made after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>
+<dl compact=""><dl compact="">
 
-             (8)  No determinations under subsection (3) are to be made on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>.
+<dt>(4)</dt><dd>The determination ceases to have effect:
 
-APRA guidelines
+</dd> </dl></dl>
 
-             (9)  APRA may issue guidelines on:
+	(a)	on 30&#160;June 2008; or
+ 	(b)	if APRA revokes the determination before 30&#160;June 2008&#151;on the day specified in the revocation as the day on which the revocation takes effect.
 
-                     (a)  the matters to be included in a funding plan lodged for the purposes of this section (including the nature of the commitments to be given, and the targets to be set, in the plan); and
+_Revocation of determination_
 
-                     (b)  the matters as to which an independent auditor or independent actuary is to certify; and
+<dl compact=""><dl compact="">
 
-                     (c)  the qualifications an auditor or actuary must have to give certificates for the purposes of this section; and
+<dt>(5)</dt><dd>APRA may revoke the determination if and only if:
 
-                     (d)  the necessary degree of independence from a body corporate that an auditor or actuary must have to give a certificate in relation to the body corporate’s funding plan.
+</dd> </dl></dl>
 
-           (10)  Without limiting paragraph (9)(a), the guidelines may provide that the funding plan must include a specified commitment by the body corporate to report to APRA in relation to its compliance with the funding plan.
+	(a)	the body corporate:
+ 	(i)	fails to meet a commitment given, or a target set, in the funding plan; or
+ 	(ii)	otherwise fails to comply with the funding plan;
+ 		and the failure is substantial; or
+ 	(b)	the body corporate no longer carries on a business of providing medical indemnity cover for health care professionals; or
+ 	(c)	the body corporate requests APRA, in writing, to revoke the determination.
 
-           (11)  A guideline issued under subsection (9) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+<dl compact=""><dl compact="">
 
-##### <a id="14"></a>14  Administrative review
+<dt>(6)</dt><dd>The revocation must:
 
-                   An application may be made to the Administrative Appeals Tribunal for review of:
+</dd> </dl></dl>
 
-                     (a)  a decision by APRA not to make a determination under subsection 13(3); or
+	(a)	be in writing; and
+ 	(b)	specify the day on which the revocation takes effect.
 
-                     (b)  a decision by APRA under subsection 13(5) to revoke a determination made under subsection 13(3).
+The day specified under paragraph&#160;(b) must be at least 28 days after the day on which the revocation is made.
 
-Note:          Section 27A of the _Administrative Appeals Tribunal Act 1975_ requires notification of a decision that is reviewable.
+<dl compact=""><dl compact="">
 
-##### <a id="15"></a>15  Application of section 115A of the _Insurance Act 1973_
+<dt>(7)</dt><dd>APRA must give a copy of the revocation to the body corporate within 7
 
-                   Section 115A of the _Insurance Act 1973_ applies as if a reference to this Part in the definition of **_relevant legislation_** in subsection (5) of that section included a reference to a funding plan lodged with an application made under section 13 of this Act.
+days after the day on which the revocation is made.
 
-<o:p> </o:p>
+</dd> </dl></dl>
 
-## Part 3—Product standards for medical indemnity insurance contracts
+_No determinations to be made after 1 July 2005_
 
-### Division 1—Minimum cover
+<dl compact=""><dl compact="">
 
-##### <a id="16"></a>16  Minimum cover amount
+<dt>(8)</dt><dd>No determinations under subsection&#160;(3) are to be made on or after
 
-                   The **_minimum cover amount_** for the purposes of this Division is:
+1&#160;July 2005.
 
-                     (a)  $5 million; or
+</dd> </dl></dl>
 
-                     (b)  such other amount as is prescribed by the regulations.
+_APRA guidelines_
 
-##### <a id="17"></a>17  Minimum cover for single claim
+<dl compact=""><dl compact="">
 
-Circumstances in which section applies
+<dt>(9)</dt><dd>APRA may issue guidelines on:
 
-             (1)  This subsection applies to a person if:
+</dd> </dl></dl>
 
-                     (a)  under a contract of insurance (the **_relevant contract_**), the person provides medical indemnity cover for a health care professional; and
+	(a)	the matters to be included in a funding plan lodged for the purposes of this section (including the nature of the commitments to be given, and the targets to be set, in the plan); and
+ 	(b)	the matters as to which an independent auditor or independent actuary is to certify; and
+ 	(c)	the qualifications an auditor or actuary must have to give certificates for the purposes of this section; and
+ 	(d)	the necessary degree of independence from a body corporate that an auditor or actuary must have to give a certificate in relation to the body corporate's funding plan.
 
-                     (b)  the health care professional is:
+<dl compact=""><dl compact="">
 
-                              (i)  a medical practitioner; or
+<dt>(10)</dt><dd>Without limiting paragraph&#160;(9)(a), the guidelines may provide that
 
-                             (ii)  a registered health professional prescribed by the regulations.
+the funding plan must include a specified commitment by the body corporate to
 
-Offence
+report to APRA in relation to its compliance with the funding plan.</dd> <dt>(11)</dt><dd>A guideline issued under subsection&#160;(9) is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl></dl>
 
-             (2)  A person (the **_insurer_**) commits an offence if:
+**
 
-                     (a)  subsection (1) applies to the insurer; and
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 14  Administrative review 
+**
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
+ <dl compact=""><dl compact="">
 
-                     (c)  the maximum amount payable by the insurer under the relevant contract in relation to a single compensation claim made against the health care professional would, but for subsection (4), be less than the minimum cover amount applicable at that time.
+		An application may be made to the Administrative Appeals Tribunal for review
 
-                    Penalty:  Imprisonment for 12 months.
+of:
 
-             (3)  Subsection (2) does not apply if it would be reasonable to assume, at the time the relevant contract is entered into, comes into effect or is renewed, that every health care incident to which the compensation claim would relate would be one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
+ </dl></dl>
 
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
+	(a)	a decision by APRA not to make a determination under subsection 13(3); or
+ 	(b)	a decision by APRA under subsection 13(5) to revoke a determination made under subsection 13(3).
 
-Maximum amount payable for single claim
+<dl compact=""><dl compact="">
 
-             (4)  If:
+Note:	Section&#160;27A of the _Administrative Appeals Tribunal Act 1975_ requires notification of a decision that is reviewable.
 
-                     (a)  subsection (1) applies to a person (the **_insurer_**); and
+ </dl></dl>
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
+<center>Back to Top</center>
 
-                     (c)  a compensation claim is made against the health care professional; and
+**
 
-                     (d)  an amount is payable by the insurer under the relevant contract in relation to the compensation claim; and
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 15  Application of section&#160;115A of the _Insurance Act 1973_ 
+**
 
-                     (e)  the maximum amount payable by the insurer under the relevant contract in relation to the compensation claim would, but for this subsection, be less than the minimum cover amount applicable at that time;
+<dl compact=""><dl compact="">
 
-the maximum amount payable by the insurer under the relevant contract in relation to the compensation claim is the minimum cover amount applicable at that time (instead of the maximum amount provided for in the relevant contract).
+		Section&#160;115A of the _Insurance Act 1973_ applies as if a reference
 
-             (5)  Subsection (4) does not apply if every health care incident to which the compensation claim relates is one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
+to this Part in the definition of _relevant legislation_ in
 
-             (6)  To avoid doubt, subsection (4) applies whether or not the insurer is convicted of an offence against subsection (2).
+subsection&#160;(5) of that section included a reference to a funding plan
 
-##### <a id="18"></a>18  Minimum annual cover—incident-occurring based cover
+lodged with an application made under section&#160;13 of this Act.
 
-Circumstances in which section applies
+ </dl></dl>
 
-             (1)  This subsection applies to a person if:
+<center>**
 
-                     (a)  under a contract of insurance (the **_relevant contract_**), the person provides medical indemnity cover for a health care professional; and
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<part>Part&#160;3&#151;Product standards for medical indemnity insurance contracts </part>
+**</center>
 
-                     (b)  the health care professional is:
+<center>**
 
-                              (i)  a medical practitioner; or
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Division&#160;1&#151;Minimum cover </division> 
+**</center>
 
-                             (ii)  a registered health professional prescribed by the regulations; and
+**
 
-                     (c)  the relevant contract provides for incident-occurring based cover.
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 16  Minimum cover amount 
+**
 
-Note:          For **_incident-occurring based cover_**, see subsection 6(4). For the purposes of this section, ERB and DDR cover are not incident-occurring based cover.
+ <dl compact=""><dl compact="">
 
-             (2)  For the purposes of this section:
+		The _minimum cover amount_ for the purposes of this Division is:
 
-                     (a)  the **_qualifying incident period_** is the period during which a health care incident must occur for the person to provide medical indemnity cover under the relevant contract in relation to the incident; and
+ </dl></dl>
 
-                     (b)  there is only one **_relevant period_** and it is the qualifying incident period if the qualifying incident period is a year or shorter than a year; and
+	(a)	$5 million; or
+ 	(b)	such other amount as is prescribed by the regulations. 
 
-                     (c)  the year starting at the beginning of the qualifying incident period, and each succeeding year or part of a year in the qualifying incident period, is a **_relevant period_** if the qualifying incident period is longer than a year.
+**
 
-Offence
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 17  Minimum cover for single claim 
+**
 
-             (3)  A person (the **_insurer_**) commits an offence if:
+ _Circumstances in which section applies_
 
-                     (a)  subsection (1) applies to the insurer; and
+<dl compact=""><dl compact="">
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
+<dt>(1)</dt><dd>This subsection applies to a person if:
 
-                     (c)  the maximum amount payable, in aggregate, by the insurer under the relevant contract in relation to all the compensation claims that are made against the health care professional in relation to health care incidents that occur during a particular relevant period would, but for subsection (5), be less than the minimum cover amount applicable at that time.
+</dd> </dl></dl>
 
-                    Penalty:  Imprisonment for 12 months.
+	(a)	under a contract of insurance (the _relevant contract_), the person provides medical indemnity cover for a health care professional; and
+ 	(b)	the health care professional is:
+ 	(i)	a medical practitioner; or
+ 	(ii)	a registered health professional prescribed by the regulations.
 
-             (4)  Subsection (3) does not apply if it would be reasonable to assume, at the time the relevant contract is entered into, comes into effect or is renewed, that every health care incident to which the compensation claims would relate would be one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
+_Offence_
 
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
+<dl compact=""><dl compact="">
 
-Maximum amount payable for multiple claims
+<dt>(2)</dt><dd>A person (the _insurer_) commits an offence if:
 
-             (5)  If:
+</dd> </dl></dl>
 
-                     (a)  subsection (1) applies to a person (the **_insurer_**); and
+	(a)	subsection&#160;(1) applies to the insurer; and
+ 	(b)	the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1&#160;July 2003; and
+ 	(c)	the maximum amount payable by the insurer under the relevant contract in relation to a single compensation claim made against the health care professional would, but for subsection&#160;(4), be less than the minimum cover amount applicable at that time.
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
+Penalty:	Imprisonment for 12 months.
 
-                     (c)  amounts are payable by the insurer under the relevant contract in relation to 2 or more compensation claims (the **_multiple claims_**) that are made against the health care professional in relation to health care incidents that occur in a particular relevant period; and
+<dl compact=""><dl compact="">
 
-                     (d)  the maximum amount payable by the insurer under the relevant contract in relation to the multiple claims would, but for this subsection, be less than the minimum cover amount applicable at that time;
+<dt>(3)</dt><dd>Subsection&#160;(2) does not apply if it would be reasonable to assume, at
+
+the time the relevant contract is entered into, comes into effect or is
+
+renewed, that every health care incident to which the compensation claim would
+
+relate would be one occurring outside Australia and the external Territories.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matter in this subsection&#160;(see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+_Maximum amount payable for single claim_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	subsection&#160;(1) applies to a person (the _insurer_); and
+ 	(b)	the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1&#160;July 2003; and
+ 	(c)	a compensation claim is made against the health care professional; and
+ 	(d)	an amount is payable by the insurer under the relevant contract in relation to the compensation claim; and
+ 	(e)	the maximum amount payable by the insurer under the relevant contract in relation to the compensation claim would, but for this subsection, be less than the minimum cover amount applicable at that time;
+
+the maximum amount payable by the insurer under the relevant contract in relation to the compensation claim is the minimum cover amount applicable at 
+<center>Back to Top</center>
+ that time (instead of the maximum amount provided for in the relevant contract).
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>Subsection&#160;(4) does not apply if every health care incident to which
+
+the compensation claim relates is one occurring outside Australia and the
+
+external Territories.</dd> <dt>(6)</dt><dd>To avoid doubt, subsection&#160;(4) applies whether or not the insurer is convicted of an offence against subsection&#160;(2). </dd> </dl></dl>
+
+**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 18  Minimum annual cover&#151;incident-occurring based cover 
+**
+
+ _Circumstances in which section applies_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>This subsection applies to a person if:
+
+</dd> </dl></dl>
+
+	(a)	under a contract of insurance (the _relevant contract_), the person provides medical indemnity cover for a health care professional; and
+ 	(b)	the health care professional is:
+ 	(i)	a medical practitioner; or
+ 	(ii)	a registered health professional prescribed by the regulations; and
+ 	(c)	the relevant contract provides for incident-occurring based cover.
+
+<dl compact=""><dl compact="">
+
+Note:	For _incident-occurring based cover_, see
+
+subsection 6(4). For the purposes of this section, ERB and DDR cover are not
+
+incident-occurring based cover.
+
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>For the purposes of this section:
+
+</dd> </dl></dl>
+
+	(a)	the _qualifying incident period_ is the period during which a health care incident must occur for the person to provide medical indemnity cover under the relevant contract in relation to the incident; and
+ 	(b)	there is only one _relevant period_ and it is the qualifying incident period if the qualifying incident period is a year or shorter than a year; and
+ 	(c)	the year starting at the beginning of the qualifying incident period, and each succeeding year or part of a year in the qualifying incident period, is a _relevant period_ if the qualifying incident period is longer than a year.
+
+_Offence_
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>A person (the _insurer_) commits an offence if:
+
+</dd> </dl></dl>
+
+	(a)	subsection&#160;(1) applies to the insurer; and
+ 	(b)	the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1&#160;July 2003; and
+ 	(c)	the maximum amount payable, in aggregate, by the insurer under the relevant contract in relation to all the compensation claims that are made against the health care professional in relation to health care incidents that occur during a particular relevant period would, but for subsection&#160;(5), be less than the minimum cover amount applicable at that time.
+
+Penalty:	Imprisonment for 12 months.
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Subsection&#160;(3) does not apply if it would be reasonable to assume, at
+
+the time the relevant contract is entered into, comes into effect or is
+
+renewed, that every health care incident to which the compensation claims would
+
+relate would be one occurring outside Australia and the external Territories.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matter in this subsection&#160;(see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+_Maximum amount payable for multiple claims_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	subsection&#160;(1) applies to a person (the _insurer_); and
+ 	(b)	the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1&#160;July 2003; and
+
+<center>Back to Top</center>
+ 	(c)	amounts are payable by the insurer under the relevant contract in relation to 2 or more compensation claims (the _multiple claims_) that are made against the health care professional in relation to health care incidents that occur in a particular relevant period; and
+ 	(d)	the maximum amount payable by the insurer under the relevant contract in relation to the multiple claims would, but for this subsection, be less than the minimum cover amount applicable at that time;
 
 the maximum amount payable, in aggregate, by the insurer under the relevant contract in relation to the multiple claims is the minimum cover amount applicable at that time (instead of the maximum amount provided for in the relevant contract).
 
-             (6)  Subsection (5) does not apply if every health care incident to which the multiple claims relate is one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
+<dl compact=""><dl compact="">
 
-             (7)  To avoid doubt, subsection (5) applies whether or not the insurer is convicted of an offence against subsection (3).
+<dt>(6)</dt><dd>Subsection&#160;(5) does not apply if every health care incident to which
 
-##### <a id="19"></a>19  Minimum annual cover—other cover
+the multiple claims relate is one occurring outside Australia and the external
 
-Circumstances in which section applies
+Territories.</dd> <dt>(7)</dt><dd>To avoid doubt, subsection&#160;(5) applies whether or not the insurer is convicted of an offence against subsection&#160;(3). </dd> </dl></dl>
 
-             (1)  This subsection applies to a person if:
+**
 
-                     (a)  under a contract of insurance (the **_relevant contract_**), the person provides medical indemnity cover for a health care professional; and
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 19  Minimum annual cover&#151;other cover 
+**
 
-                     (b)  the health care professional is:
+ _Circumstances in which section applies_
 
-                              (i)  a medical practitioner; or
+<dl compact=""><dl compact="">
 
-                             (ii)  a registered health professional prescribed by the regulations; and
+<dt>(1)</dt><dd>This subsection applies to a person if:
 
-                     (c)  the contract does not provide for incident-occurring based cover.
+</dd> </dl></dl>
 
-Note:          For **_incident-occurring based cover_**, see subsection 6(4). For the purposes of this section, ERB and DDR cover are not incident-occurring based cover.
+	(a)	under a contract of insurance (the _relevant contract_), the person provides medical indemnity cover for a health care professional; and
+ 	(b)	the health care professional is:
+ 	(i)	a medical practitioner; or
+ 	(ii)	a registered health professional prescribed by the regulations; and
+ 	(c)	the contract does not provide for incident-occurring based cover.
 
-             (2)  For the purposes of this section:
+<dl compact=""><dl compact="">
 
-                     (a)  the **_qualifying claims period_** is the period specified in the relevant contract as the period during which a compensation claim against the health care professional has to be made for medical indemnity cover to be provided in relation to the compensation claim; and
+Note:	For _incident-occurring based cover_, see
 
-                     (b)  there is only one **_relevant period_** and it is the qualifying claims period if the qualifying claims period is a year or shorter than a year; and
+subsection 6(4). For the purposes of this section, ERB and DDR cover are not
 
-                     (c)  the year starting at the beginning of the qualifying claims period, and each succeeding year or part of a year in the qualifying claims period, is a **_relevant period_** if the qualifying claims period is longer than a year.
+incident-occurring based cover.
 
-Note:          Paragraph (a)—subsection 4(9) operates on the reference in this paragraph to the claim having to be made during a period.
+ </dl></dl>
 
-Offence
+<dl compact=""><dl compact="">
 
-             (3)  A person (the **_insurer_**) commits an offence if:
+<dt>(2)</dt><dd>For the purposes of this section:
 
-                     (a)  subsection (1) applies to the insurer; and
+</dd> </dl></dl>
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
+	(a)	the _qualifying claims period_ is the period specified in the relevant contract as the period during which a compensation claim against the health care professional has to be made for medical indemnity cover to be provided in relation to the compensation claim; and
+ 	(b)	there is only one _relevant period_ and it is the qualifying claims period if the qualifying claims period is a year or shorter than a year; and
+ 	(c)	the year starting at the beginning of the qualifying claims period, and each succeeding year or part of a year in the qualifying claims period, is a _relevant period_ if the qualifying claims period is longer than a year.
 
-                     (c)  the maximum amount payable, in aggregate, by the insurer under the relevant contract in relation to all the compensation claims that are made against the health care professional during a particular relevant period would, but for subsection (5), be less than the minimum cover amount applicable at that time.
+<dl compact=""><dl compact="">
 
-Note:          Paragraph (c)—subsection 4(9) operates on the reference in this paragraph to the claim having to be made during a period.
+Note:	Paragraph&#160;(a)&#151;subsection 4(9) operates on the
 
-                    Penalty:  Imprisonment for 12 months.
+reference in this paragraph to the claim having to be made during a period.
 
-             (4)  Subsection (3) does not apply if it would be reasonable to assume, at the time the relevant contract is entered into, comes into effect or is renewed, that every health care incident to which the compensation claims would relate would be one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
+ </dl></dl>
 
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
+_Offence_
 
-Maximum amount payable for multiple claims
+<dl compact=""><dl compact="">
 
-             (5)  If:
+<dt>(3)</dt><dd>A person (the _insurer_) commits an offence if:
 
-                     (a)  subsection (1) applies to a person (the **_insurer_**); and
+</dd> </dl></dl>
 
-                     (b)  the relevant contract is entered into, comes into effect or is renewed at a particular time on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
+	(a)	subsection&#160;(1) applies to the insurer; and
+ 	(b)	the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1&#160;July 2003; and
+ 	(c)	the maximum amount payable, in aggregate, by the insurer under the relevant contract in relation to all the compensation claims that are made against the health care professional during a particular relevant period would, but for subsection&#160;(5), be less than the minimum cover amount applicable at that time.
 
-                     (c)  amounts are payable by the insurer under the relevant contract in relation to 2 or more compensation claims (the **_multiple claims_**) that are made against the health care professional during a particular relevant period; and
+<dl compact=""><dl compact="">
 
-                     (d)  the maximum amount payable by the insurer under the relevant contract in relation to the multiple claims would, but for this subsection, be less than the minimum cover amount applicable at that time;
+Note:	Paragraph&#160;(c)&#151;subsection 4(9) operates on the
+
+reference in this paragraph to the claim having to be made during a period.
+
+ </dl></dl>
+
+Penalty:	Imprisonment for 12 months.
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Subsection&#160;(3) does not apply if it would be reasonable to assume, at
+
+the time the relevant contract is entered into, comes into effect or is
+
+renewed, that every health care incident to which the compensation claims would
+
+relate would be one occurring outside Australia and the external Territories.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+Note:	A defendant bears an evidential burden in relation to the
+
+matter in this subsection&#160;(see subsection 13.3(3) of the _Criminal Code_).
+
+ </dl></dl>
+
+_Maximum amount payable for multiple claims_
+
+<dl compact=""><dl compact="">
+
+<dt>(5)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	subsection&#160;(1) applies to a person (the _insurer_); and
+ 	(b)	the relevant contract is entered into, comes into effect or is renewed at a particular time on or after 1&#160;July 2003; and
+ 	(c)	amounts are payable by the insurer under the relevant contract in relation to 2 or more compensation claims (the _multiple claims_) that are made against the health care professional during a particular relevant period; and
+ 	(d)	the maximum amount payable by the insurer under the relevant contract in relation to the multiple claims would, but for this subsection, be less than the minimum cover amount applicable at that time;
 
 the maximum amount payable, in aggregate, by the insurer under the relevant contract in relation to the multiple claims is the minimum cover amount applicable at that time (instead of the maximum amount provided for in the relevant contract).
 
-Note:          Paragraph (c)—subsection 4(9) operates on the reference in this paragraph to the claim having to be made during a period.
+<dl compact=""><dl compact="">
 
-             (6)  Subsection (5) does not apply if every health care incident to which the multiple claims relate is one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
+Note:	Paragraph&#160;(c)&#151;subsection 4(9) operates on the
 
-             (7)  To avoid doubt, subsection (5) applies whether or not the insurer is convicted of an offence against subsection (3).
+reference in this paragraph to the claim having to be made during a period.
 
-##### <a id="20"></a>20  Amount payable by insurer
+ </dl></dl>
 
-                   To avoid doubt, in working out for the purposes of this Division the maximum amount payable by an insurer under a contract of insurance, disregard the following:
+<dl compact=""><dl compact="">
 
-                     (a)  any right the insurer may have to a high cost claim indemnity under the _Medical Indemnity Act 2002_;
+<dt>(6)</dt><dd>Subsection&#160;(5) does not apply if every health care incident to which
 
-                    (aa)  any right the insurer may have to a run-off cover indemnity under the _Medical Indemnity Act 2002_;
+the multiple claims relate is one occurring outside Australia and the external
 
-                     (b)  any right the insurer may have to contribution from another insurer;
+Territories.</dd> <dt>(7)</dt><dd>To avoid doubt, subsection&#160;(5) applies whether or not the insurer is convicted of an offence against subsection&#160;(3). </dd> </dl></dl>
 
-                     (c)  any right to which the insurer is subrogated under the contract of insurance.
+**
 
-<o:p> </o:p>
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 20  Amount payable by insurer 
+**
 
-### Division 2—Offers to provide retroactive and run-off cover for otherwise uncovered prior incidents
+ <dl compact=""><dl compact="">
 
-#### Subdivision A—Regulated insurance contracts
+		To avoid doubt, in working out for the purposes of this Division the maximum
 
-##### <a id="21"></a>21  Regulated insurance contracts
+amount payable by an insurer under a contract of insurance, disregard the
 
-Regulated insurance contract
+following:
 
-             (1)  For the purposes of this Division, a contract is a **_regulated insurance contract_** if:
+ </dl></dl>
 
-                     (a)  the contract is a contract of insurance under which the insurer provides medical indemnity cover for a health care professional in relation to compensation claims; and
+	(a)	any right the insurer may have to a high cost claim indemnity under the _Medical Indemnity Act 2002_;
+ 	(aa)	any right the insurer may have to a run-off cover indemnity under the _Medical Indemnity Act 2002_;
+ 	(b)	any right the insurer may have to contribution from another insurer;
+ 	(c)	any right to which the insurer is subrogated under the contract of insurance.
 
-                     (b)  the health care professional is:
+<center>**
 
-                              (i)  a medical practitioner; or
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Division&#160;2&#151;Offers to provide retroactive and run-off cover for otherwise uncovered prior incidents </division> 
+**</center>
 
-                             (ii)  a registered health professional prescribed by the regulations; and
+<center>**
 
-                     (c)  the cover provided for by the contract is claims-made based cover; and
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Subdivision A&#151;Regulated insurance contracts </division> 
+**</center>
 
-                     (d)  the contract is entered into, comes into effect or is renewed on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
+**
 
-Note:          Paragraph (c)—for **_claims-made based cover_**, see subsections 6(2) and (3). For the purposes of this section, ERB and DDR cover are not claims-made based cover.
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 21  Regulated insurance contracts 
+**
 
-Client
+ _Regulated insurance contract_
 
-             (2)  For the purposes of this Division, the **_client_** for the regulated insurance contract is the other party to the regulated insurance contract (who may be the health care professional or someone else).
+<dl compact=""><dl compact="">
 
-Claims period
+<dt>(1)</dt><dd>For the purposes of this Division, a contract is a _regulated insurance contract_ if:
 
-             (3)  For the purposes of this Division, the **_claims period_** for the regulated insurance contract is the period specified in the contract as the period during which a compensation claim against the health care professional has to be made for medical indemnity cover to be provided in relation to the compensation claim.
+</dd> </dl></dl>
 
-Note:          Subsection 4(9) operates on the reference to the claim having to be made during a period.
+	(a)	the contract is a contract of insurance under which the insurer provides medical indemnity cover for a health care professional in relation to compensation claims; and
+ 	(b)	the health care professional is:
+ 	(i)	a medical practitioner; or
+ 	(ii)	a registered health professional prescribed by the regulations; and
+ 	(c)	the cover provided for by the contract is claims-made based cover; and
+ 	(d)	the contract is entered into, comes into effect or is renewed on or after 1&#160;July 2003.
 
-Health care professional’s otherwise uncovered prior incidents
+<dl compact=""><dl compact="">
 
-             (4)  For the purposes of this Division, the health care professional’s **_otherwise uncovered prior incidents_** for the regulated insurance contract are:
+Note:	Paragraph&#160;(c)&#151;for _claims-made based cover_, see subsections 6(2) and (3). For the purposes of this section,
 
-                     (a)  for an offer to be made under section 22—the health care incidents:
+ERB and DDR cover are not claims-made based cover.
 
-                              (i)  that occurred before the start of the claims period for the regulated insurance contract; and
+ </dl></dl>
 
-                             (ii)  for which the health care professional would otherwise be without medical indemnity cover; and
+<center>Back to Top</center>
 
-                     (b)  for an offer to be made under section 23—the health care incidents:
+_Client_
 
-                              (i)  that have occurred, or will occur, before the contract that arises from the offer would take effect; and
+<dl compact=""><dl compact="">
 
-                             (ii)  for which the health care professional would otherwise be without medical indemnity cover.
+<dt>(2)</dt><dd>For the purposes of this Division, the _client_ for the
 
-#### Subdivision B—Insurer’s responsibilities
+regulated insurance contract is the other party to the regulated insurance
 
-##### <a id="22"></a>22  Additional offer of retroactive cover when regulated insurance contract entered into, comes into effect or is renewed
+contract (who may be the health care professional or someone else).
 
-Offence—compulsory offer
+</dd> </dl></dl>
 
-             (1)  A person (the **_insurer_**) commits an offence if:
+_Claims period_
 
-                     (a)  a regulated insurance contract is entered into, comes into effect or is renewed; and
+<dl compact=""><dl compact="">
 
-                     (b)  the insurer provides medical indemnity cover for a health care professional under the regulated insurance contract; and
+<dt>(3)</dt><dd>For the purposes of this Division, the _claims period_ for the
 
-                     (c)  the insurer does not make an offer (the **_compulsory offer_**) to the client that satisfies all of the following subparagraphs:
+regulated insurance contract is the period specified in the contract as the
 
-                              (i)  the offer is an offer to provide medical indemnity cover for the health care professional in relation to all compensation claims that are made against the health care professional, during a period that includes the whole of the claims period for the regulated insurance contract, in relation to the health care professional’s otherwise uncovered prior incidents;
+period during which a compensation claim against the health care professional
 
-                             (ii)  the offer is made at the same time as the insurer makes the offer or the invitation that leads to the regulated insurance contract or the renewal;
+has to be made for medical indemnity cover to be provided in relation to the
 
-                            (iii)  the offer is a complying offer.
+compensation claim.
 
-Note 1:       For **_complying offer_**, see section 24.
+</dd> </dl></dl>
 
-Note 2:       Subparagraph (c)(i)—subsection 4(9) operates on the reference in this subparagraph to the claims being made during a period.
+<dl compact=""><dl compact="">
 
-                    Penalty:  Imprisonment for 12 months.
+Note:	Subsection 4(9) operates on the reference to the claim
 
-          (1A)  In determining whether an offer made by an insurer to provide medical indemnity cover for a health care professional satisfies subparagraph (1)(c)(i), disregard:
+having to be made during a period.
 
-                     (a)  an otherwise uncovered prior incident of the health care professional; or
+ </dl></dl>
 
-                     (b)  a compensation claim in relation to an incident of that kind;
+_Health care professional&apos;s otherwise uncovered prior incidents_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>For the purposes of this Division, the health care professional's
+
+_otherwise uncovered prior incidents_ for the regulated insurance
+
+contract are:
+
+</dd> </dl></dl>
+
+	(a)	for an offer to be made under section&#160;22&#151;the health care incidents:
+ 	(i)	that occurred before the start of the claims period for the regulated insurance contract; and
+ 	(ii)	for which the health care professional would otherwise be without medical indemnity cover; and
+ 	(b)	for an offer to be made under section&#160;23&#151;the health care incidents:
+ 	(i)	that have occurred, or will occur, before the contract that arises from the offer would take effect; and
+ 	(ii)	for which the health care professional would otherwise be without medical indemnity cover. 
+
+<center>**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Subdivision B&#151;Insurer's responsibilities </division> 
+**</center>
+
+**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 22  Additional offer of retroactive cover when regulated insurance contract entered into, comes into effect or is renewed 
+**
+
+_Offencecompulsory offer_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person (the _insurer_) commits an offence if:
+
+</dd> </dl></dl>
+
+	(a)	a regulated insurance contract is entered into, comes into effect or is renewed; and
+ 	(b)	the insurer provides medical indemnity cover for a health care professional under the regulated insurance contract; and
+ 	(c)	the insurer does not make an offer (the _compulsory offer_) to the client that satisfies all of the following subparagraphs:
+ 	(i)	the offer is an offer to provide medical indemnity cover for the health care professional in relation to all compensation claims that are made against the health care professional, during a period that includes the whole of the claims period for the regulated insurance contract, in relation to the health care professional's otherwise uncovered prior incidents;
+ 	(ii)	the offer is made at the same time as the insurer makes the offer or the invitation that leads to the regulated insurance contract or the renewal;
+ 	(iii)	the offer is a complying offer.
+
+<dl compact=""><dl compact="">
+
+Note 1:	For _complying offer_, see section&#160;24\. Note 2:	Subparagraph&#160;(c)(i)&#151;subsection 4(9) operates on the reference in this subparagraph to the claims being made during a period.  </dl></dl>
+
+Penalty:	Imprisonment for 12 months.
+
+<dl compact=""><dl compact="">
+
+<dt>(1A)</dt><dd>In determining whether an offer made by an insurer to provide medical
+
+indemnity cover for a health care professional satisfies
+
+subparagraph&#160;(1)(c)(i), disregard:
+
+</dd> </dl></dl>
+
+	(a)	an otherwise uncovered prior incident of the health care professional; or
+
+<center>Back to Top</center>
+ 	(b)	a compensation claim in relation to an incident of that kind;
 
 if it is reasonable and appropriate for the insurer to exclude the incident or claim from the cover being offered, having regard to:
 
-                     (c)  the nature of the health care provided by the health care professional during the period during which the otherwise uncovered prior incident occurred; and
+	(c)	the nature of the health care provided by the health care professional during the period during which the otherwise uncovered prior incident occurred; and
+ 	(d)	the kinds of exclusions that are usually provided for in contracts of insurance that provide similar cover to the cover being offered; and
+ 	(e)	any other relevant consideration.
 
-                     (d)  the kinds of exclusions that are usually provided for in contracts of insurance that provide similar cover to the cover being offered; and
+<dl compact=""><dl compact="">
 
-                     (e)  any other relevant consideration.
+<dt>(1B)</dt><dd>Strict liability applies to subparagraph&#160;(1)(c)(iii) to the extent
 
-          (1B)  Strict liability applies to subparagraph (1)(c)(iii) to the extent that it relates to whether the premium referred to in paragraph 24(2)(f) is reasonable.
+that it relates to whether the premium referred to in paragraph 24(2)(f) is
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+reasonable.
 
-Offence—entering into regulated insurance contract etc. before response to compulsory offer received
+</dd> </dl></dl>
 
-             (2)  A person (the **_insurer_**) commits an offence if:
+<dl compact=""><dl compact="">
 
-                     (a)  a regulated insurance contract is entered into, comes into effect or is renewed; and
+Note:	For _strict liability_, see section&#160;6.1 of
 
-                     (b)  the insurer provides medical indemnity cover for a health care professional under the regulated insurance contract; and
+the _Criminal Code_.
 
-                     (c)  the regulated insurance contract is entered into, comes into effect or is renewed before the client has given the insurer a written response to the compulsory offer.
+ </dl></dl>
 
-                    Penalty:  Imprisonment for 12 months.
+_Offenceentering into regulated insurance contract etc. before response to compulsory offer received_
 
-Offence—record keeping
+<dl compact=""><dl compact="">
 
-             (3)  A person (the **_insurer_**) commits an offence if:
+<dt>(2)</dt><dd>A person (the _insurer_) commits an offence if:
 
-                     (a)  a regulated insurance contract is entered into, comes into effect or is renewed; and
+</dd> </dl></dl>
 
-                     (b)  the insurer provides medical indemnity cover for a health care professional under the regulated insurance contract; and
+	(a)	a regulated insurance contract is entered into, comes into effect or is renewed; and
+ 	(b)	the insurer provides medical indemnity cover for a health care professional under the regulated insurance contract; and
+ 	(c)	the regulated insurance contract is entered into, comes into effect or is renewed before the client has given the insurer a written response to the compulsory offer.
 
-                     (c)  the insurer does not keep a copy of the following:
+Penalty:	Imprisonment for 12 months.
 
-                              (i)  the compulsory offer;
+_Offencerecord keeping_
 
-                             (ii)  the client’s written response to the compulsory offer;
+<dl compact=""><dl compact="">
 
-                            (iii)  any other offer that the insurer makes to the client, while the compulsory offer is open for acceptance by the client, to provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional;
+<dt>(3)</dt><dd>A person (the _insurer_) commits an offence if:
 
-                            (iv)  any invitations that the insurer makes to the client, while the compulsory offer is open for acceptance by the client, to make an offer to enter into a contract of insurance under which the insurer would provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional;
+</dd> </dl></dl>
 
-                            for the period of 5 years starting on the day on which the compulsory offer is made.
+	(a)	a regulated insurance contract is entered into, comes into effect or is renewed; and
+ 	(b)	the insurer provides medical indemnity cover for a health care professional under the regulated insurance contract; and
+ 	(c)	the insurer does not keep a copy of the following:
+ 	(i)	the compulsory offer;
+ 	(ii)	the client's written response to the compulsory offer;
+ 	(iii)	any other offer that the insurer makes to the client, while the compulsory offer is open for acceptance by the client, to provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional;
+ 	(iv)	any invitations that the insurer makes to the client, while the compulsory offer is open for acceptance by the client, to make an offer to enter into a contract of insurance under which the insurer would provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional;
+ 		for the period of 5 years starting on the day on which the compulsory offer is made.
 
-                    Penalty:  Imprisonment for 6 months.
+Penalty:	Imprisonment for 6 months.
 
-Defences for offences against subsections (1), (2) and (3)
+_Defences for offences against subsections (1), (2) and (3)_
 
-             (4)  Subsections (1), (2) and (3) do not apply if:
+<dl compact=""><dl compact="">
 
-                     (a)  the regulated insurance contract provides medical indemnity cover for the health care professional in relation to all the compensation claims referred to in paragraph (1)(c); or
+<dt>(4)</dt><dd>Subsections&#160;(1), (2) and (3) do not apply if:
 
-                     (b)  the health care professional has no otherwise uncovered prior incidents; or
+</dd> </dl></dl>
 
-                     (c)  every health care incident covered by the regulated insurance contract is, or would be, one occurring outside <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the external Territories.
+	(a)	the regulated insurance contract provides medical indemnity cover for the health care professional in relation to all the compensation claims referred to in paragraph&#160;(1)(c); or
+ 	(b)	the health care professional has no otherwise uncovered prior incidents; or
+ 	(c)	every health care incident covered by the regulated insurance contract is, or would be, one occurring outside Australia and the external Territories.
 
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code)_.
+<dl compact=""><dl compact="">
 
-          (4A)  In determining whether a regulated insurance contract provides the cover referred to in paragraph (4)(a) for a health care professional, disregard:
+Note:	A defendant bears an evidential burden in relation to the
 
-                     (a)  an otherwise uncovered prior incident of the health care professional; or
+matter in this subsection&#160;(see subsection 13.3(3) of the _Criminal Code)_.
 
-                     (b)  a compensation claim in relation to an incident of that kind;
+ </dl></dl>
+
+<dl compact=""><dl compact="">
+
+<dt>(4A)</dt><dd>In determining whether a regulated insurance contract provides the cover
+
+referred to in paragraph&#160;(4)(a) for a health care professional, disregard:
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+	(a)	an otherwise uncovered prior incident of the health care professional; or
+ 	(b)	a compensation claim in relation to an incident of that kind;
 
 if it is reasonable and appropriate for the insurer to exclude the incident or claim from the cover provided by the contract, having regard to:
 
-                     (c)  the nature of the health care provided by the health care professional during the period during which the otherwise uncovered prior incident occurred; and
+	(c)	the nature of the health care provided by the health care professional during the period during which the otherwise uncovered prior incident occurred; and
+ 	(d)	the kinds of exclusions that are usually provided for in contracts of insurance that provide similar cover to the cover being offered; and
+ 	(e)	any other relevant consideration.
 
-                     (d)  the kinds of exclusions that are usually provided for in contracts of insurance that provide similar cover to the cover being offered; and
+<dl compact=""><dl compact="">
 
-                     (e)  any other relevant consideration.
+<dt>(5)</dt><dd>Subsection&#160;(1) does not apply if:
 
-             (5)  Subsection (1) does not apply if:
+</dd> </dl></dl>
 
-                     (a)  the insurer makes an offer for the purposes of subsection (1); and
+	(a)	the insurer makes an offer for the purposes of subsection&#160;(1); and
+ 	(b)	the only reason why the offer does not satisfy subparagraph&#160;(1)(c)(i) is that the offer does not extend to some of the health care professional's otherwise uncovered prior incidents; and
+ 	(c)	the insurer has reasonable grounds for believing that the offer does extend to all the health care professional's otherwise uncovered prior incidents.
 
-                     (b)  the only reason why the offer does not satisfy subparagraph (1)(c)(i) is that the offer does not extend to some of the health care professional’s otherwise uncovered prior incidents; and
+<dl compact=""><dl compact="">
 
-                     (c)  the insurer has reasonable grounds for believing that the offer does extend to all the health care professional’s otherwise uncovered prior incidents.
+Note:	A defendant bears an evidential burden in relation to the
 
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code)_.
+matter in this subsection&#160;(see subsection 13.3(3) of the _Criminal Code)_.
 
-Compulsory offer has no effect in certain circumstances
+ </dl></dl>
 
-             (6)  A compulsory offer made by an insurer for the purposes of subsection (1) ceases to have effect if the winding up of the insurer starts before the offer is accepted.
+_Compulsory offer has no effect in certain circumstances_
 
-Note:          An insurer must not carry on insurance business after the winding up of the insurer has started: see section 116 of the _Insurance Act 1973_.
+<dl compact=""><dl compact="">
 
-Effect of subsection (1)
+<dt>(6)</dt><dd>A compulsory offer made by an insurer for the purposes of
 
-             (7)  Subsection (1) has effect subject to section 116 of the _Insurance Act 1973_.
+subsection&#160;(1) ceases to have effect if the winding up of the insurer
 
-Note:          This means that an insurer does not have to make a compulsory offer for the purposes of subsection (1) once the winding up of the insurer has started.
+starts before the offer is accepted.
 
-##### <a id="23"></a>23  Additional offer of run-off cover when particular events happen during claims period for regulated insurance contract
+</dd> </dl></dl>
 
-Offence—compulsory offer
+<dl compact=""><dl compact="">
 
-             (1)  A person (the **_insurer_**) commits an offence if:
+Note:	An insurer must not carry on insurance business after the
 
-                     (a)  the insurer provides medical indemnity cover for a health care professional under a regulated insurance contract; and
+winding up of the insurer has started: see section&#160;116 of the _Insurance Act 1973_.
 
-                     (b)  an event prescribed by the regulations for the purposes of this paragraph occurs during the claims period for the regulated insurance contract; and
+ </dl></dl>
 
-                     (c)  the insurer does not make an offer (the **_compulsory offer_**) to the client that satisfies all of the following subparagraphs:
+_Effect of subsection (1)_
 
-                              (i)  the offer is an offer to provide medical indemnity cover for the health care professional in relation to compensation claims that are made against the health care professional in relation to the health care professional’s otherwise uncovered prior incidents and the offer satisfies the requirements specified in the regulations for the purposes of this subparagraph;
+<dl compact=""><dl compact="">
 
-                             (ii)  the offer is made within 28 days after the insurer becomes aware of that event;
+<dt>(7)</dt><dd>Subsection&#160;(1) has effect subject to section&#160;116 of the
 
-                            (iii)  the offer is a complying offer.
+_Insurance Act 1973_.
 
-Note:          For **_complying offer_**, see section 24.
+</dd> </dl></dl>
 
-                    Penalty:  Imprisonment for 12 months.
+<dl compact=""><dl compact="">
 
-             (2)  Without limiting subparagraph (1)(c)(i), the regulations made for the purposes of that subparagraph may specify requirements in relation to:
+Note:	This means that an insurer does not have to make a
 
-                     (a)  the compensation claims to be covered by the contract being offered; and
+compulsory offer for the purposes of subsection&#160;(1) once the winding up of
 
-                     (b)  the limits on the amounts payable by the insurer under the contract being offered (whether in relation to an individual compensation claim or in relation to compensation claims made during a particular period).
+the insurer has started.
 
-Without limiting paragraph (a), the regulations may specify the compensation claims by reference to the period during which the compensation claims can be made.
+ </dl></dl>
 
-Offence—entering into new contract before response to compulsory offer received
+**
 
-          (2A)  For the purposes of making an offer to provide the cover referred to in subparagraph (1)(c)(i) for a health care professional, disregard the regulated insurance contract referred to in paragraph (1)(a) in determining the health care professional’s otherwise uncovered prior incidents.
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 23  Additional offer of run-off cover when particular events happen during claims period for regulated insurance contract 
+**
 
-          (2B)  In determining whether an offer made by an insurer to provide medical indemnity cover for a health care professional satisfies subparagraph (1)(c)(i), disregard:
+_Offencecompulsory offer_
 
-                     (a)  an otherwise uncovered prior incident of the health care professional; or
+<dl compact=""><dl compact="">
 
-                     (b)  a compensation claim in relation to an incident of that kind;
+<dt>(1)</dt><dd>A person (the _insurer_) commits an offence if:
+
+</dd> </dl></dl>
+
+	(a)	the insurer provides medical indemnity cover for a health care professional under a regulated insurance contract; and
+ 	(b)	an event prescribed by the regulations for the purposes of this paragraph occurs during the claims period for the regulated insurance contract; and
+ 	(c)	the insurer does not make an offer (the _compulsory offer_) to the client that satisfies all of the following subparagraphs:
+ 	(i)	the offer is an offer to provide medical indemnity cover for the health care professional in relation to compensation claims that are made against the health care professional in relation to the health care professional's otherwise uncovered prior incidents and the offer satisfies the requirements specified in the regulations for the purposes of this subparagraph;
+ 	(ii)	the offer is made within 28 days after the insurer becomes aware of that event;
+ 	(iii)	the offer is a complying offer.
+
+<dl compact=""><dl compact="">
+
+Note:	For _complying offer_, see section&#160;24.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+Penalty:	Imprisonment for 12 months.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>Without limiting subparagraph&#160;(1)(c)(i), the regulations made for the
+
+purposes of that subparagraph may specify requirements in relation to:
+
+</dd> </dl></dl>
+
+	(a)	the compensation claims to be covered by the contract being offered; and
+ 	(b)	the limits on the amounts payable by the insurer under the contract being offered (whether in relation to an individual compensation claim or in relation to compensation claims made during a particular period).
+
+Without limiting paragraph&#160;(a), the regulations may specify the compensation claims by reference to the period during which the compensation claims can be made.
+
+_Offenceentering into new contract before response to compulsory offer received_
+
+<dl compact=""><dl compact="">
+
+<dt>(2A)</dt><dd>For the purposes of making an offer to provide the cover referred to in
+
+subparagraph&#160;(1)(c)(i) for a health care professional, disregard the
+
+regulated insurance contract referred to in paragraph&#160;(1)(a) in
+
+determining the health care professional's otherwise uncovered prior
+
+incidents.</dd> <dt>(2B)</dt><dd>In determining whether an offer made by an insurer to provide medical indemnity cover for a health care professional satisfies subparagraph&#160;(1)(c)(i), disregard: </dd> </dl></dl>
+
+	(a)	an otherwise uncovered prior incident of the health care professional; or
+ 	(b)	a compensation claim in relation to an incident of that kind;
 
 if it is reasonable and appropriate for the insurer to exclude the incident or claim from the cover being offered, having regard to:
 
-                     (c)  the nature of the health care provided by the health care professional during the period during which the otherwise uncovered prior incident occurred; and
+	(c)	the nature of the health care provided by the health care professional during the period during which the otherwise uncovered prior incident occurred; and
+ 	(d)	the kinds of exclusions that are usually provided for in contracts of insurance that provide similar cover to the cover being offered; and
+ 	(e)	any other relevant consideration.
 
-                     (d)  the kinds of exclusions that are usually provided for in contracts of insurance that provide similar cover to the cover being offered; and
+<dl compact=""><dl compact="">
 
-                     (e)  any other relevant consideration.<o:p></o:p>
+<dt>(3)</dt><dd>A person (the _insurer_) commits an offence if:
 
-             (3)  A person (the **_insurer_**) commits an offence if:
+</dd> </dl></dl>
 
-                     (a)  the person provides medical indemnity cover for a health care professional under a regulated insurance contract; and
+	(a)	the person provides medical indemnity cover for a health care professional under a regulated insurance contract; and
+ 	(b)	paragraph&#160;(1)(b) applies to the regulated insurance contract; and
+ 	(c)	after the insurer makes the compulsory offer, the insurer subsequently enters into a contract of insurance with the client to provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional; and
+ 	(d)	the contract referred to in paragraph&#160;(c) is not entered into in response to the compulsory offer; and
+ 	(e)	the contract referred to in paragraph&#160;(c) is entered into before the client has given the insurer a written response to the compulsory offer.
 
-                     (b)  paragraph (1)(b) applies to the regulated insurance contract; and
+Penalty:	Imprisonment for 12 months.
 
-                     (c)  after the insurer makes the compulsory offer, the insurer subsequently enters into a contract of insurance with the client to provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional; and
+_Offencerecord keeping_
 
-                     (d)  the contract referred to in paragraph (c) is not entered into in response to the compulsory offer; and
+<dl compact=""><dl compact="">
 
-                     (e)  the contract referred to in paragraph (c) is entered into before the client has given the insurer a written response to the compulsory offer.
+<dt>(4)</dt><dd>A person (the _insurer_) commits an offence if:
 
-                    Penalty:  Imprisonment for 12 months.
+</dd> </dl></dl>
 
-Offence—record keeping
+	(a)	the insurer provides medical indemnity cover for a health care professional under a regulated insurance contract; and
+ 	(b)	paragraph&#160;(1)(b) applies to the regulated insurance contract; and
+ 	(c)	the insurer does not keep the following:
+ 	(i)	a copy of the compulsory offer;
+ 	(ii)	either a copy of the client's written response to the compulsory offer or a written record (made within 14 days after the end of the compulsory offer period) of the client's response, or failure to respond, to the compulsory offer;
+ 	(iii)	a copy of any other offer that the insurer makes to the client, while the compulsory offer is open for acceptance by the client, to provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional;
+ 	(iv)	a copy of any invitations that the insurer makes to the client, while the compulsory offer is open for acceptance by the client, to make an offer to enter into a contract of insurance under which the insurer would provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional;
+ 		for the period of 5 years starting on the day on which the compulsory offer is made.
 
-             (4)  A person (the **_insurer_**) commits an offence if:
+Penalty:	Imprisonment for 6 months.
 
-                     (a)  the insurer provides medical indemnity cover for a health care professional under a regulated insurance contract; and
+<center>Back to Top</center>
 
-                     (b)  paragraph (1)(b) applies to the regulated insurance contract; and
+_No offences if regulations not in force_
 
-                     (c)  the insurer does not keep the following:
+<dl compact=""><dl compact="">
 
-                              (i)  a copy of the compulsory offer;
+<dt>(4A)</dt><dd>The insurer commits an offence against subsection&#160;(1), (3) or (4)
 
-                             (ii)  either a copy of the client’s written response to the compulsory offer or a written record (made within 14 days after the end of the compulsory offer period) of the client’s response, or failure to respond, to the compulsory offer;
+only if regulations are in force for the purposes of
 
-                            (iii)  a copy of any other offer that the insurer makes to the client, while the compulsory offer is open for acceptance by the client, to provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional;
+subparagraph&#160;(1)(c)(i) both:
 
-                            (iv)  a copy of any invitations that the insurer makes to the client, while the compulsory offer is open for acceptance by the client, to make an offer to enter into a contract of insurance under which the insurer would provide medical indemnity cover for the health care professional in relation to an otherwise uncovered prior incident of the health care professional;
+</dd> </dl></dl>
 
-                            for the period of 5 years starting on the day on which the compulsory offer is made.
+	(a)	when the event referred to in paragraph&#160;(1)(b) occurs; and
+ 	(b)	when the period of 28 days referred to in subparagraph&#160;(1)(c)(ii) ends.
 
-                    Penalty:  Imprisonment for 6 months.
+If this is so, the requirements that the compulsory offer must satisfy are those specified in the regulations as in force when the event referred to in paragraph&#160;(1)(b) occurs.
 
-No offences if regulations not in force
+_Defences for offences against subsections (1), (3) and (4)_
 
-          (4A)  The insurer commits an offence against subsection (1), (3) or (4) only if regulations are in force for the purposes of subparagraph (1)(c)(i) both:
+<dl compact=""><dl compact="">
 
-                     (a)  when the event referred to in paragraph (1)(b) occurs; and
+<dt>(5)</dt><dd>Subsections&#160;(1), (3) and (4) do not apply if every health care
 
-                     (b)  when the period of 28 days referred to in subparagraph (1)(c)(ii) ends.
+incident covered by the regulated insurance contract is, or would be, one
 
-If this is so, the requirements that the compulsory offer must satisfy are those specified in the regulations as in force when the event referred to in paragraph (1)(b) occurs.
+occurring outside Australia and the external Territories.
 
-Defences for offences against subsections (1), (3) and (4)
+</dd> </dl></dl>
 
-             (5)  Subsections (1), (3) and (4) do not apply if every health care incident covered by the regulated insurance contract is, or would be, one occurring outside Australia and the external Territories.
+<dl compact=""><dl compact="">
 
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code)_.
+Note:	A defendant bears an evidential burden in relation to the
 
-             (6)  Subsection (1) does not apply if:
+matter in this subsection&#160;(see subsection 13.3(3) of the _Criminal Code)_.
 
-                     (a)  the insurer makes an offer for the purposes of subsection (1); and
+ </dl></dl>
 
-                     (b)  the only reason why the offer does not satisfy subparagraph (1)(c)(i) is that the offer does not extend to some of the health care professional’s otherwise uncovered prior incidents; and
+<dl compact=""><dl compact="">
 
-                     (c)  the insurer has reasonable grounds for believing that the offer does extend to all the health care professional’s otherwise uncovered prior incidents.
+<dt>(6)</dt><dd>Subsection&#160;(1) does not apply if:
 
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code)_.
+</dd> </dl></dl>
 
-Compulsory offer has no effect in certain circumstances<o:p></o:p>
+	(a)	the insurer makes an offer for the purposes of subsection&#160;(1); and
+ 	(b)	the only reason why the offer does not satisfy subparagraph&#160;(1)(c)(i) is that the offer does not extend to some of the health care professional's otherwise uncovered prior incidents; and
+ 	(c)	the insurer has reasonable grounds for believing that the offer does extend to all the health care professional's otherwise uncovered prior incidents.
 
-             (7)  A compulsory offer made by an insurer for the purposes of subsection (1) ceases to have effect if the winding up of the insurer starts before the offer is accepted.
+<dl compact=""><dl compact="">
 
-Note:          An insurer must not carry on insurance business after the winding up of the insurer has started: see section 116 of the _Insurance Act 1973_.
+Note:	A defendant bears an evidential burden in relation to the
 
-Effect of subsection (1)<o:p></o:p>
+matter in this subsection&#160;(see subsection 13.3(3) of the _Criminal Code)_.
 
-             (8)  Subsection (1) has effect subject to section 116 of the _Insurance Act 1973_.
+ </dl></dl>
 
-Note:          This means that an insurer does not have to make a compulsory offer for the purposes of subsection (1) once the winding up of the insurer has started.
+_Compulsory offer has no effect in certain circumstances_
 
-##### <a id="24"></a>24  Complying offer
+<dl compact=""><dl compact="">
 
-Complying offer test—general
+<dt>(7)</dt><dd>A compulsory offer made by an insurer for the purposes of
 
-             (1)  For the purposes of section 22 or 23, a person (the **_insurer_**) who provides medical indemnity cover under a regulated insurance contract makes a **_complying offer_** to the client to provide medical indemnity cover for a health care professional if and only if:
+subsection&#160;(1) ceases to have effect if the winding up of the insurer
 
-                     (a)  the offer is to provide medical indemnity cover for the health care professional under a contract of insurance; and
+starts before the offer is accepted.
 
-                     (b)<span style="mso-tab-count: 1">  </span>the offer complies with subsection (2).<o:p></o:p>
+</dd> </dl></dl>
 
-The offer must be made to the health care professional’s legal personal representative if the health care professional has died.
+<dl compact=""><dl compact="">
 
-             (2)  The offer complies with this subsection if and only if:
+Note:	An insurer must not carry on insurance business after the
 
-                     (a)  the offer is made in writing; and
+winding up of the insurer has started: see section&#160;116 of the _Insurance Act 1973_.
 
-                     (b)  the offer remains open for acceptance by the client for a period of at least 28 days after the day on which the offer is made; and
+ </dl></dl>
 
-                     (c)  the procedures for dealing with claims under the contract being offered are substantially the same as those provided for in:
+_Effect of subsection (1)_
 
-                              (i)  the proposed regulated contract (if the offer is made for the purposes of section 22); or
+<dl compact=""><dl compact="">
 
-                             (ii)  the current regulated contract (if the offer is made for the purposes of section 23); and
+<dt>(8)</dt><dd>Subsection&#160;(1) has effect subject to section&#160;116 of the
 
-                     (d)<span style="mso-tab-count: 1">  </span>the claims and incidents covered, and the exclusions from the claims and incidents covered, by the contract being offered are reasonable and appropriate having regard to:<o:p></o:p>
+_Insurance Act 1973_.
 
-                              (i)  the nature of the health care provided by the health care professional during the period or periods during which the incidents covered by the contract occurred; and
+</dd> </dl></dl>
 
-                             (ii)  the kinds of claims and incidents that are usually covered by contracts of insurance that provide similar cover to the cover being offered; and
+<dl compact=""><dl compact="">
 
-                            (iii)  the kinds of exclusions that are usually provided for in contracts of insurance that provide similar cover to the cover being offered; and
+Note:	This means that an insurer does not have to make a
 
-                            (iv)  any other relevant consideration; and
+compulsory offer for the purposes of subsection&#160;(1) once the winding up of
 
-                     (e)  the offer specifies the premium payable by the client for the cover being offered; and
+the insurer has started.
 
-                      (f)  if the offer is made for the purposes of section 22—the premium payable by the client for the cover being offered is reasonable (see section 7A); and
+ </dl></dl>
 
-                    (fa)  if the offer is made for the purposes of section 23—the premium payable by the client for the cover does not exceed the amount specified in, or worked out in accordance with, the regulations; and
+**
 
-                     (g)  the other terms and conditions of the contract being offered comply with the requirements (if any) prescribed by the regulations for the purposes of this paragraph; and
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 24  Complying offer 
+**
 
-                     (h)  the offer includes a clear, concise and effective explanation of:
+ _Complying offer testgeneral_
 
-                              (i)  the significant characteristics and features of the cover being offered; and
+<dl compact=""><dl compact="">
 
-                             (ii)  the significant rights, terms and conditions and obligations attaching to the cover being offered; and
+<dt>(1)</dt><dd>For the purposes of section&#160;22 or 23, a person (the
 
-                            (iii)  the risks involved for the health care professional in not accepting the offer; and
+_insurer_) who provides medical indemnity cover under a regulated
 
-                            (iv)  the options that will be available to the health care professional if the health care professional does not accept the offer; and
+insurance contract makes a _complying offer_ to the client to
 
-                             (v)  any other matters prescribed by the regulations.
+provide medical indemnity cover for a health care professional if and only if:
 
-Premiums for run-off cover
+</dd> </dl></dl>
 
-             (3)  Regulations made for the purposes of paragraph (2)(fa) may specify different amounts, or different ways of working out amounts, in relation to different classes of practitioners or different classes of insurance contracts.
+	(a)	the offer is to provide medical indemnity cover for the health care 
+<center>Back to Top</center>
+ professional under a contract of insurance; and
+ 	(b)	the offer complies with subsection&#160;(2).
 
-             (4)  An amount specified in regulations made for the purposes of paragraph (2)(fa) may be a nil amount.
+The offer must be made to the health care professional's legal personal representative if the health care professional has died.
 
-Definitions
+<dl compact=""><dl compact="">
 
-             (5)  In this section:
+<dt>(2)</dt><dd>The offer complies with this subsection if and only if:
 
-                    <a name="current-regul-contract"></a>**_current regulated contract_** means the regulated insurance contract referred to in paragraph 23(1)(a).
+</dd> </dl></dl>
 
-                    <a name="propos-regul-contract"></a>**_proposed regulated contract_** means the regulated insurance contract referred to in paragraph 22(1)(a).
+	(a)	the offer is made in writing; and
+ 	(b)	the offer remains open for acceptance by the client for a period of at least 28 days after the day on which the offer is made; and
+ 	(c)	the procedures for dealing with claims under the contract being offered are substantially the same as those provided for in:
+ 	(i)	the proposed regulated contract (if the offer is made for the purposes of section&#160;22); or
+ 	(ii)	the current regulated contract (if the offer is made for the purposes of section&#160;23); and
+ 	(d)	the claims and incidents covered, and the exclusions from the claims and incidents covered, by the contract being offered are reasonable and appropriate having regard to:
+ 	(i)	the nature of the health care provided by the health care professional during the period or periods during which the incidents covered by the contract occurred; and
+ 	(ii)	the kinds of claims and incidents that are usually covered by contracts of insurance that provide similar cover to the cover being offered; and
+ 	(iii)	the kinds of exclusions that are usually provided for in contracts of insurance that provide similar cover to the cover being offered; and
+ 	(iv)	any other relevant consideration; and
+ 	(e)	the offer specifies the premium payable by the client for the cover being offered; and
+ 	(f)	if the offer is made for the purposes of section&#160;22&#151;the premium payable by the client for the cover being offered is reasonable (see section&#160;7A); and
+ 	(fa)	if the offer is made for the purposes of section&#160;23&#151;the premium payable by the client for the cover does not exceed the amount specified in, or worked out in accordance with, the regulations; and
+ 	(g)	the other terms and conditions of the contract being offered comply with the requirements (if any) prescribed by the regulations for the purposes of this paragraph; and
+ 	(h)	the offer includes a clear, concise and effective explanation of:
+ 	(i)	the significant characteristics and features of the cover being offered; and
+ 	(ii)	the significant rights, terms and conditions and obligations attaching to the cover being offered; and
+ 	(iii)	the risks involved for the health care professional in not accepting the offer; and
+ 	(iv)	the options that will be available to the health care professional if the health care professional does not accept the offer; and
+ 	(v)	any other matters prescribed by the regulations.
 
-##### <a id="26"></a>26  Federal Court may order insurer to make offer
+_Premiums for run-off cover_
 
-             (1)  If the Federal Court of Australia is satisfied that an insurer has engaged in, or is proposing to engage in, conduct that constitutes a contravention of subsection 22(1) or 23(1) by failing to make an offer, the Court may, on application by the client, ASIC or the Minister administering the _Medical Indemnity Act 2002_, grant an injunction requiring the insurer to make an offer.
+<dl compact=""><dl compact="">
 
-             (2)  The Court may specify in its order granting the injunction:
+<dt>(3)</dt><dd>Regulations made for the purposes of paragraph&#160;(2)(fa) may specify
 
-                     (a)  the terms in which the offer is to be made; and
+different amounts, or different ways of working out amounts, in relation to
 
-                     (b)  the time by which the offer must be made; and
+different classes of practitioners or different classes of insurance
 
-                     (c)  the period for which the offer must be open for acceptance by the health care professional; and
+contracts.</dd> <dt>(4)</dt><dd>An amount specified in regulations made for the purposes of paragraph&#160;(2)(fa) may be a nil amount. </dd> </dl></dl>
 
-                     (d)  the time from which the contract that results from the offer is to have effect if the offer is accepted.
+_Definitions_
 
-<o:p> </o:p>
+<dl compact=""><dl compact="">
 
-### Division 2A—Provision of run-off cover to certain medical practitioners
+<dt>(5)</dt><dd>In this section:
 
-##### <a id="26A"></a>26A  Provision of run-off cover to certain medical practitioners
+</dd> </dl></dl>
 
-Offence—compulsory provision of medical indemnity cover
+<def><dl compact=""><dl compact="">
 
-             (1)  A person (the **_insurer_**) commits an offence if:
+_current regulated contract_ means the regulated insurance contract
 
-                     (a)  the insurer is a medical indemnity insurer; and
+referred to in paragraph 23(1)(a). _proposed regulated contract_ means the regulated insurance contract referred to in paragraph 22(1)(a).  </dl></dl>
 
-                     (b)  the insurer, or another medical indemnity insurer, has provided medical indemnity cover for a medical practitioner (the **_practitioner_**) who is an eligible practitioner; and
+**
 
-                     (c)  the insurer:
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 26  Federal Court may order insurer to make offer 
+**
 
-                              (i)  is the last medical indemnity insurer to have provided medical indemnity cover for the practitioner in relation to incidents occurring during a medical practice period of the practitioner; or
+ <dl compact=""><dl compact="">
 
-                             (ii)  has taken over that last medical indemnity insurer; and
+<dt>(1)</dt><dd>If the Federal Court of Australia is satisfied that an insurer has engaged
 
-                     (d)  the insurer does not provide medical indemnity cover for the practitioner that satisfies all of the requirements of subsection (4); and
+in, or is proposing to engage in, conduct that constitutes a contravention of
 
-                     (e)  in a case where a termination date has been set for the purposes of subsection 34ZB(3) of the _Medical Indemnity Act 2002_—the insurer’s failure to provide that medical indemnity cover occurs before that date.
+subsection 22(1) or 23(1) by failing to make an offer, the Court may, on
 
-                    Penalty:  Imprisonment for 12 months.
+application by the client, ASIC or the Minister administering the _Medical Indemnity Act 2002_, grant an injunction requiring the insurer to make an
 
-             (2)  The medical indemnity cover referred to in paragraph (1)(b):
+offer.</dd> <dt>(2)</dt><dd>The Court may specify in its order granting the injunction: </dd> </dl></dl>
 
-                     (a)  may be medical indemnity cover provided to the practitioner or to someone else; and
+<center>Back to Top</center>
 
-                     (b)  need not be medical indemnity cover provided while the practitioner was an eligible practitioner.
+	(a)	the terms in which the offer is to be made; and
+ 	(b)	the time by which the offer must be made; and
+ 	(c)	the period for which the offer must be open for acceptance by the health care professional; and
+ 	(d)	the time from which the contract that results from the offer is to have effect if the offer is accepted.
 
-When a medical indemnity insurer is taken over
+<center>**
 
-             (3)  The reference in paragraph (1)(c) to a medical indemnity insurer having taken over another medical indemnity insurer is a reference to it having assumed some or all of the financial responsibility for claims:
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Division&#160;2A&#151;Provision of run-off cover to certain medical practitioners </division> 
+**</center>
 
-                     (a)  that are claims in relation to incidents that occurred in the course of, or in connection with, the practitioner’s practice as a medical practitioner; and
+**
 
-                     (b)  with which the other medical indemnity insurer would, but for that assumption of responsibility, have been concerned because of the other medical indemnity insurer having provided medical indemnity cover to the person.
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 26A  Provision of run-off cover to certain medical practitioners 
+**
 
-Requirements for medical indemnity cover
+_Offencecompulsory provision of medical indemnity cover_
 
-             (4)  Medical indemnity cover meets the requirements of this subsection if:
+<dl compact=""><dl compact="">
 
-                     (a)  it covers incidents that occurred while the practitioner:
+<dt>(1)</dt><dd>A person (the _insurer_) commits an offence if:
 
-                              (i)  had medical indemnity cover provided by the insurer or any other medical indemnity insurer, or (subject to subsection (6)) by an MDO; and
+</dd> </dl></dl>
 
-                             (ii)  was registered or licensed as a medical practitioner under a State or Territory law that provides for the registration or licensing of medical practitioners; and
+	(a)	the insurer is a medical indemnity insurer; and
+ 	(b)	the insurer, or another medical indemnity insurer, has provided medical indemnity cover for a medical practitioner (the _practitioner_) who is an eligible practitioner; and
+ 	(c)	the insurer:
+ 	(i)	is the last medical indemnity insurer to have provided medical indemnity cover for the practitioner in relation to incidents occurring during a medical practice period of the practitioner; or
+ 	(ii)	has taken over that last medical indemnity insurer; and
+ 	(d)	the insurer does not provide medical indemnity cover for the practitioner that satisfies all of the requirements of subsection&#160;(4); and
+ 	(e)	in a case where a termination date has been set for the purposes of subsection 34ZB(3) of the _Medical Indemnity Act 2002_&#151;the insurer's failure to provide that medical indemnity cover occurs before that date.
 
-                     (b)  the nature and range of incidents it covers is at least the same as the nature and range of incidents covered by the last medical indemnity cover provided for the practitioner; and
+Penalty:	Imprisonment for 12 months.
 
-                     (c)  the contract of insurance under which the medical indemnity cover is provided satisfies subparagraph 34E(1)(e)(ii) of the _Medical Indemnity Act 2002_; and
+<dl compact=""><dl compact="">
 
-Note:       Subparagraph 34E(1)(e)(ii) of the _Medical Indemnity Act 2002_ requires that the practitioner’s contract limit (see section 34B of that Act) equals or exceeds the relevant threshold under section 34F of that Act.
+<dt>(2)</dt><dd>The medical indemnity cover referred to in paragraph&#160;(1)(b):
 
-                     (d)  it is provided on such terms and conditions (if any) determined in writing by the Minister administering the _Medical Indemnity Act 2002_; and
+</dd> </dl></dl>
 
-                     (e)  it provides cover until the practitioner ceases to be an eligible practitioner; and
+	(a)	may be medical indemnity cover provided to the practitioner or to someone else; and
+ 	(b)	need not be medical indemnity cover provided while the practitioner was an eligible practitioner.
 
-                      (f)  no premium or other consideration is payable for the medical indemnity cover by the person to whom it is provided.
+_When a medical indemnity insurer is taken over_
 
-             (5)  A determination under paragraph (4)(d) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+<dl compact=""><dl compact="">
 
-             (6)  Subparagraph (4)(a)(i) applies to medical indemnity cover provided by an MDO only if that cover would have been claims-made cover within the meaning of subsections 6(2) and (3) of this Act if it had been provided for by a contract of insurance.
+<dt>(3)</dt><dd>The reference in paragraph&#160;(1)(c) to a medical indemnity insurer
 
-Practitioner etc. need not apply for medical indemnity cover
+having taken over another medical indemnity insurer is a reference to it having
 
-             (7)  The obligation under subsection (1) to provide medical indemnity cover applies whether or not the practitioner, or any other person, has applied to the insurer for the medical indemnity cover.
+assumed some or all of the financial responsibility for claims:
 
-Effect of subsection (1)<o:p></o:p>
+</dd> </dl></dl>
 
-             (8)  Subsection (1) has effect subject to section 116 of the _Insurance Act 1973_.
+	(a)	that are claims in relation to incidents that occurred in the course of, or in connection with, the practitioner's practice as a medical practitioner; and
+ 	(b)	with which the other medical indemnity insurer would, but for that assumption of responsibility, have been concerned because of the other medical indemnity insurer having provided medical indemnity cover to the person.
 
-Note:          This means that an insurer does not have to provide medical indemnity cover under subsection (1) once the winding up of the insurer has started.
+_Requirements for medical indemnity cover_
 
-Definitions
+<dl compact=""><dl compact="">
 
-             (9)  In this section:
+<dt>(4)</dt><dd>Medical indemnity cover meets the requirements of this subsection if:
 
-                    <a name="elig-practition"></a>**_eligible practitioner_** means a person to whom subsection 34ZB(2) of the _Medical Indemnity Act 2002_ applies.
+</dd> </dl></dl>
 
-                    <a name="mical-practic-period"></a>**_medical practice period_**, of an eligible practitioner, means:
+	(a)	it covers incidents that occurred while the practitioner:
+ 	(i)	had medical indemnity cover provided by the insurer or any other medical indemnity insurer, or (subject to subsection&#160;(6)) by an MDO; and
+ 	(ii)	was registered or licensed as a medical practitioner under a State or Territory law that provides for the registration or licensing of medical practitioners; and
+ 	(b)	the nature and range of incidents it covers is at least the same as the nature and range of incidents covered by the last medical indemnity cover provided for the practitioner; and
+ 	(c)	the contract of insurance under which the medical indemnity cover is provided satisfies subparagraph 34E(1)(e)(ii) of the _Medical Indemnity Act 2002_; and
 
-                     (a)  in any case—the period during which the practitioner was not an eligible practitioner; and
+Note:	Subparagraph 34E(1)(e)(ii) of the _Medical Indemnity Act 2002_ requires that the practitioner's contract limit (see section&#160;34B of that Act) equals or exceeds the relevant threshold under section&#160;34F of that Act.
 
-                     (b)  if:
+	(d)	it is provided on such terms and conditions (if any) determined in writing by the Minister administering the _Medical Indemnity Act 2002_; and
+ 	(e)	it provides cover until the practitioner ceases to be an eligible 
+<center>Back to Top</center>
+ practitioner; and
+ 	(f)	no premium or other consideration is payable for the medical indemnity cover by the person to whom it is provided.
 
-                              (i)  the practitioner was engaged in private medical practice at the time the practitioner was an eligible practitioner; and
+<dl compact=""><dl compact="">
 
-                             (ii)  all of the medical services provided in the course of that medical practice were services provided free of charge; and
+<dt>(5)</dt><dd>A determination under paragraph&#160;(4)(d) is a disallowable instrument
 
-                            (iii)  the practitioner is no longer engaged in that medical practice;
+for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.</dd> <dt>(6)</dt><dd>Subparagraph&#160;(4)(a)(i) applies to medical indemnity cover provided by an MDO only if that cover would have been claims-made cover within the meaning of subsections 6(2) and (3) of this Act if it had been provided for by a contract of insurance. </dd> </dl></dl>
 
-                            the period during which the practitioner was engaged in that medical practice; and
+_Practitioner etc. need not apply for medical indemnity cover_
 
-                     (c)  if the practitioner:
+<dl compact=""><dl compact="">
 
-                              (i)  was engaged in medical practice (other than private medical practice); and
+<dt>(7)</dt><dd>The obligation under subsection&#160;(1) to provide medical indemnity
 
-                             (ii)  was provided with medical indemnity cover in relation to incidents occurring during that medical practice; and
+cover applies whether or not the practitioner, or any other person, has applied
 
-                            (iii)  is no longer engaged in that medical practice;
+to the insurer for the medical indemnity cover.
 
-                            the period during which the practitioner was engaged in that medical practice and in relation to which the practitioner was provided with that medical indemnity cover.
+</dd> </dl></dl>
 
-Note:          This definition, and the obligation under subsection (1) to provide medical indemnity cover, can apply more than once in relation to the same eligible practitioner.
+_Effect of subsection (1)_
 
-                    <a name="privat-mical-practic"></a>**_private medical practice_** has the same meaning as in section 34ZB of the _Medical Indemnity Act 2002_.
+<dl compact=""><dl compact="">
 
-##### <a id="26B"></a>26B  Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run-off cover
+<dt>(8)</dt><dd>Subsection&#160;(1) has effect subject to section&#160;116 of the
 
-Offence—MDOs must arrange run-off cover
+_Insurance Act 1973_.
 
-             (1)  A person (the **_organisation_**) commits an offence if:
+</dd> </dl></dl>
 
-                     (a)  the organisation is an MDO; and
+<dl compact=""><dl compact="">
 
-                     (b)  the organisation, or another MDO, has provided medical indemnity cover for a medical practitioner (the **_practitioner_**) who is an eligible practitioner; and
+Note:	This means that an insurer does not have to provide medical
 
-                     (c)  the organisation is not providing medical indemnity cover for the practitioner that complies with subsection 26A(4), or that would comply with that subsection if it were provided by a medical indemnity insurer under a contract of insurance; and
+indemnity cover under subsection&#160;(1) once the winding up of the insurer
 
-                     (d)  there is no medical indemnity insurer that is obliged under subsection 26A(1) to provide medical indemnity cover for the practitioner; and
+has started.
 
-                     (e)  the organisation:
+ </dl></dl>
 
-                              (i)  is the last MDO to have provided relevant medical indemnity cover for the practitioner in relation to incidents occurring during a medical practice period of the practitioner; or
+_Definitions_
 
-                             (ii)  has taken over that last MDO; and
+<dl compact=""><dl compact="">
 
-                      (f)  the organisation does not have an arrangement with a medical indemnity insurer under which the medical indemnity insurer is obliged to provide medical indemnity cover for the practitioner that satisfies all of the requirements of subsection 26A(4); and
+<dt>(9)</dt><dd>In this section:
 
-                     (g)  in a case where a termination date has been set for the purposes of subsection 34ZB(3) of the _Medical Indemnity Act 2002_—the MDO’s failure to have such an arrangement occurs before that date.
+</dd> </dl></dl>
 
-                    Penalty:  Imprisonment for 12 months.
+<def><dl compact=""><dl compact="">
 
-             (2)  The medical indemnity cover referred to in paragraph (1)(b):
+_eligible practitioner_ means a person to whom subsection 34ZB(2)
 
-                     (a)  may be medical indemnity cover provided to the practitioner or to someone else; and
+of the _Medical Indemnity Act 2002_ applies. _medical practice period_, of an eligible practitioner, means:  </dl></dl>
 
-                     (b)  need not be medical indemnity cover provided while the practitioner was an eligible practitioner.
+	(a)	in any case&#151;the period during which the practitioner was not an eligible practitioner; and
+ 	(b)	if:
+ 	(i)	the practitioner was engaged in private medical practice at the time the practitioner was an eligible practitioner; and
+ 	(ii)	all of the medical services provided in the course of that medical practice were services provided free of charge; and
+ 	(iii)	the practitioner is no longer engaged in that medical practice;
+ 		the period during which the practitioner was engaged in that medical practice.
 
-When an MDO is taken over
+<dl compact=""><dl compact="">
 
-             (3)  The reference in paragraph (1)(e) to an MDO having taken over another MDO is a reference to it having assumed some or all of the financial responsibility for claims:
+Note:	This definition, and the obligation under
 
-                     (a)  that are claims in relation to incidents that occurred in the course of, or in connection with, the practitioner’s practice as a medical practitioner; and
+subsection&#160;(1) to provide medical indemnity cover, can apply more than
 
-                     (b)  with which the other MDO would, but for that assumption of responsibility, have been concerned because of the other MDO having provided medical indemnity cover to the person.
+once in relation to the same eligible practitioner.
 
-Definitions
+ </dl></dl>
 
-             (4)  In this section:
+<def><dl compact=""><dl compact="">
 
-                    <a name="elig-practition"></a>**_eligible practitioner_** means a person to whom subsection 34ZB(2) of the _Medical Indemnity Act 2002_ applies.
+_private medical practice_ has the same meaning as in
 
-                    <a name="mical-practic-period"></a>**_medical practice period_**, of an eligible practitioner, has the same meaning as in section 26A of this Act.
+section&#160;34ZB of the _Medical Indemnity Act 2002_.
 
-##### <a id="26C"></a>26C  Provision of run-off in accordance with arrangements with MDOs
+ </dl></dl>
 
-Offence—compulsory provision of medical indemnity cover
+**
 
-             (1)  A person (the **_insurer_**) commits an offence if:
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 26B  Medical practitioners provided with medical indemnity cover by MDOs, but not adequate run-off cover 
+**
 
-                     (a)  the insurer is a medical indemnity insurer; and
+_OffenceMDOs must arrange run-off cover_
 
-                     (b)  the insurer is obliged, under an arrangement of the kind referred to in paragraph 26B(1)(f), to provide medical indemnity cover for a medical practitioner; and
+<dl compact=""><dl compact="">
 
-                     (c)  the insurer does not provide medical indemnity cover for the practitioner that satisfies all of the requirements of subsection 26A(4); and
+<dt>(1)</dt><dd>A person (the _organisation_) commits an offence if:
 
-                     (d)  in a case where a termination date has been set for the purposes of subsection 34ZB(3) of the _Medical Indemnity Act 2002_—the insurer’s failure to provide that medical indemnity cover occurs before that date.
+</dd> </dl></dl>
 
-                    Penalty:  Imprisonment for 12 months.
+	(a)	the organisation is an MDO; and
+ 	(b)	the organisation, or another MDO, has provided medical indemnity cover for a medical practitioner (the _practitioner_) who is an eligible practitioner; and
+ 	(c)	the organisation is not providing medical indemnity cover for the practitioner that complies with subsection 26A(4), or that would comply with that subsection if it were provided by a medical indemnity insurer under a contract of insurance; and
 
-             (2)  The medical indemnity cover referred to in subsection (1):
+<center>Back to Top</center>
+ 	(d)	there is no medical indemnity insurer that is obliged under subsection 26A(1) to provide medical indemnity cover for the practitioner; and
+ 	(e)	the organisation:
+ 	(i)	is the last MDO to have provided relevant medical indemnity cover for the practitioner in relation to incidents occurring during a medical practice period of the practitioner; or
+ 	(ii)	has taken over that last MDO; and
+ 	(f)	the organisation does not have an arrangement with a medical indemnity insurer under which the medical indemnity insurer is obliged to provide medical indemnity cover for the practitioner that satisfies all of the requirements of subsection 26A(4); and
+ 	(g)	in a case where a termination date has been set for the purposes of subsection 34ZB(3) of the _Medical Indemnity Act 2002_&#151;the MDO's failure to have such an arrangement occurs before that date.
 
-                     (a)  may be medical indemnity cover provided to the practitioner or to someone else; and
+Penalty:	Imprisonment for 12 months.
 
-                     (b)  need not be medical indemnity cover provided while the practitioner was an eligible practitioner.
+<dl compact=""><dl compact="">
 
-Practitioner etc. need not apply for medical indemnity cover
+<dt>(2)</dt><dd>The medical indemnity cover referred to in paragraph&#160;(1)(b):
 
-             (3)  The obligation under subsection (1) to provide medical indemnity cover applies whether or not the practitioner, or any other person, has applied to the insurer for the medical indemnity cover.
+</dd> </dl></dl>
 
-Effect of subsection (1)<o:p></o:p>
+	(a)	may be medical indemnity cover provided to the practitioner or to someone else; and
+ 	(b)	need not be medical indemnity cover provided while the practitioner was an eligible practitioner.
 
-             (4)  Subsection (1) has effect subject to section 116 of the _Insurance Act 1973_.
+_When an MDO is taken over_
 
-Note:          This means that an insurer does not have to provide medical indemnity cover under subsection (1) once the winding up of the insurer has started.
+<dl compact=""><dl compact="">
 
-##### <a id="26D"></a>26D  Notification and record-keeping
+<dt>(3)</dt><dd>The reference in paragraph&#160;(1)(e) to an MDO having taken over another
 
-Offences—giving notice
+MDO is a reference to it having assumed some or all of the financial
 
-             (1)  A person (the **_insurer_**) commits an offence if:
+responsibility for claims:
 
-                     (a)  the insurer provides medical indemnity cover under subsection 26A(1) or 26C(1); and
+</dd> </dl></dl>
 
-                     (b)  the insurer does not give to the person to whom the cover is provided a written notice stating:
+	(a)	that are claims in relation to incidents that occurred in the course of, or in connection with, the practitioner's practice as a medical practitioner; and
+ 	(b)	with which the other MDO would, but for that assumption of responsibility, have been concerned because of the other MDO having provided medical indemnity cover to the person.
 
-                              (i)  the nature and range of incidents it covers; and
+_Definitions_
 
-                             (ii)  the terms and conditions on which it is provided.
+<dl compact=""><dl compact="">
 
-                    Penalty:  Imprisonment for 6 months.
+<dt>(4)</dt><dd>In this section:
 
-             (2)  A person (the **_insurer_**) commits an offence if:
+</dd> </dl></dl>
 
-                     (a)  the insurer provides medical indemnity cover under subsection 26A(1) or 26C(1); and
+<def><dl compact=""><dl compact="">
 
-                     (b)  the insurer does not, within 28 days after providing the medical indemnity cover, give to the Health Insurance Commission a written notice stating:
+_eligible practitioner_ means a person to whom subsection 34ZB(2)
 
-                              (i)  the name of the practitioner for whom the medical indemnity cover is provided; and
+of the _Medical Indemnity Act 2002_ applies. _medical practice period_, of an eligible practitioner, has the same meaning as in section&#160;26A of this Act.  </dl></dl>
 
-                             (ii)  the date from which the medical indemnity cover took effect; and
+**
 
-                            (iii)  such other matters as are determined in writing by the Minister administering the _Medical Indemnity Act 2002_.
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 26C  Provision of run-off in accordance with arrangements with MDOs 
+**
 
-                    Penalty:  Imprisonment for 6 months.
+_Offencecompulsory provision of medical indemnity cover_
 
-             (3)  A determination under subparagraph (2)(b)(iii) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+<dl compact=""><dl compact="">
 
-Offence—record-keeping
+<dt>(1)</dt><dd>A person (the _insurer_) commits an offence if:
 
-             (4)  A person (the **_insurer_**) commits an offence if:
+</dd> </dl></dl>
 
-                     (a)  the insurer provides medical indemnity cover under subsection 26A(1) or 26C(1); and
+	(a)	the insurer is a medical indemnity insurer; and
+ 	(b)	the insurer is obliged, under an arrangement of the kind referred to in paragraph 26B(1)(f), to provide medical indemnity cover for a medical practitioner; and
+ 	(c)	the insurer does not provide medical indemnity cover for the practitioner that satisfies all of the requirements of subsection 26A(4); and
+ 	(d)	in a case where a termination date has been set for the purposes of subsection 34ZB(3) of the _Medical Indemnity Act 2002_&#151;the insurer's failure to provide that medical indemnity cover occurs before that date.
 
-                     (b)  the insurer gives written notice as required by subsection (1) of this section to the person to whom the cover is provided; and
+Penalty:	Imprisonment for 12 months.
 
-                     (c)  the insurer does not keep a copy of the notice for the period starting when the notice is given and ending 5 years after the insurer ceases to provide the cover.
+<dl compact=""><dl compact="">
 
-Note:       Paragraph 26A(4)(d) sets out the period for which the insurer must provide the cover.
+<dt>(2)</dt><dd>The medical indemnity cover referred to in subsection&#160;(1):
 
-                    Penalty:  Imprisonment for 6 months.
+</dd> </dl></dl>
 
-##### <a id="26E"></a>26E  Run-off cover taken to be provided under contract of insurance
+	(a)	may be medical indemnity cover provided to the practitioner or to someone else; and
+ 	(b)	need not be medical indemnity cover provided while the practitioner was an eligible practitioner.
 
-             (1)  If the insurer provides medical indemnity cover under section 26A or 26C, there is taken, for all purposes (other than the purposes specified in the regulations), to be a contract of insurance between:
+_Practitioner etc. need not apply for medical indemnity cover_
 
-                     (a)  the insurer; and
+<dl compact=""><dl compact="">
 
-                     (b)  the person to whom the medical indemnity cover is provided;
+<dt>(3)</dt><dd>The obligation under subsection&#160;(1) to provide medical indemnity
+
+cover applies whether or not the practitioner, or any other person, has applied
+
+to the insurer for the medical indemnity cover.
+
+</dd> </dl></dl>
+
+<center>Back to Top</center>
+
+_Effect of subsection (1)_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>Subsection&#160;(1) has effect subject to section&#160;116 of the
+
+_Insurance Act 1973_.
+
+</dd> </dl></dl>
+
+<dl compact=""><dl compact="">
+
+Note:	This means that an insurer does not have to provide medical
+
+indemnity cover under subsection&#160;(1) once the winding up of the insurer
+
+has started.
+
+ </dl></dl>
+
+**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 26D  Notification and record-keeping 
+**
+
+ _Offencesgiving notice_
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>A person (the _insurer_) commits an offence if:
+
+</dd> </dl></dl>
+
+	(a)	the insurer provides medical indemnity cover under subsection 26A(1) or 26C(1); and
+ 	(b)	the insurer does not give to the person to whom the cover is provided a written notice stating:
+ 	(i)	the nature and range of incidents it covers; and
+ 	(ii)	the terms and conditions on which it is provided.
+
+Penalty:	Imprisonment for 6 months.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>A person (the _insurer_) commits an offence if:
+
+</dd> </dl></dl>
+
+	(a)	the insurer provides medical indemnity cover under subsection 26A(1) or 26C(1); and
+ 	(b)	the insurer does not give to the Health Insurance Commission a written notice stating:
+ 	(i)	the name of the practitioner for whom the medical indemnity cover is provided; and
+ 	(ii)	the date from which the medical indemnity cover took effect; and
+ 	(iii)	such other matters as are determined in writing by the Minister administering the _Medical Indemnity Act 2002_.
+
+Penalty:	Imprisonment for 6 months.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>A determination under subparagraph&#160;(2)(b)(iii) is a disallowable
+
+instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_.
+
+</dd> </dl></dl>
+
+_Offencerecord-keeping_
+
+<dl compact=""><dl compact="">
+
+<dt>(4)</dt><dd>A person (the _insurer_) commits an offence if:
+
+</dd> </dl></dl>
+
+	(a)	the insurer provides medical indemnity cover under subsection 26A(1) or 26C(1); and
+ 	(b)	the insurer gives written notice as required by subsection&#160;(1) of this section to the person to whom the cover is provided; and
+ 	(c)	the insurer does not keep a copy of the notice for the period starting when the notice is given and ending 5 years after the insurer ceases to provide the cover.
+
+Note:	Paragraph 26A(4)(d) sets out the period for which the insurer must provide the cover.
+
+Penalty:	Imprisonment for 6 months. 
+
+**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 26E  Run-off cover taken to be provided under contract of insurance 
+**
+
+<dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If the insurer provides medical indemnity cover under section&#160;26A or
+
+26C, there is taken, for all purposes (other than the purposes specified in the
+
+regulations), to be a contract of insurance between:
+
+</dd> </dl></dl>
+
+	(a)	the insurer; and
+ 	(b)	the person to whom the medical indemnity cover is provided;
 
 under which the medical indemnity cover is provided.
 
-             (2)  This section applies:
+<dl compact=""><dl compact="">
 
-                     (a)  despite the insurer not receiving any premium or other consideration for providing the medical indemnity cover; and
+<dt>(2)</dt><dd>This section applies:
 
-                     (b)  whether or not the medical indemnity cover was provided by means of the person to whom it was provided accepting an offer from the insurer to provide it.
+</dd> </dl></dl>
 
-##### <a id="26F"></a>26F  Federal Court may order insurer to provide run-off cover or MDO to enter into arrangement
+	(a)	despite the insurer not receiving any premium or other consideration for providing the medical indemnity cover; and
 
-             (1)  If the Federal Court of Australia is satisfied that an insurer has engaged in, or is proposing to engage in, conduct that constitutes a contravention of subsection 26A(1) or 26C(1), the Court may grant an injunction requiring the insurer to provide medical indemnity cover in accordance with that subsection.
+<center>Back to Top</center>
+ 	(b)	whether or not the medical indemnity cover was provided by means of the person to whom it was provided accepting an offer from the insurer to provide it. 
 
-             (2)  If the Federal Court of Australia is satisfied that an MDO has engaged in, or is proposing to engage in, conduct that constitutes a contravention of subsection 26B(1), the Court may grant an injunction requiring the MDO to enter into an arrangement of a kind referred to in paragraph 26B(1)(f).
+**
 
-             (3)  An order under this section may be made only after an application by:
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 26F  Federal Court may order insurer to provide run-off cover or MDO to enter into arrangement 
+**
 
-                     (a)  the practitioner; or
+<dl compact=""><dl compact="">
 
-                     (b)  ASIC; or
+<dt>(1)</dt><dd>If the Federal Court of Australia is satisfied that an insurer has engaged
 
-                     (c)  the Minister administering the _Medical Indemnity Act 2002_.
+in, or is proposing to engage in, conduct that constitutes a contravention of
 
-##### <a id="26G"></a>26G  Pecuniary penalties for offences against this Division
+subsection 26A(1) or 26C(1), the Court may grant an injunction requiring the
 
-             (1)  To avoid doubt, subsection 4B(3) of the _Crimes Act 1914_ applies to any offence against a provision of this Division committed by a body corporate, as if an offence against that provision could be committed by a natural person.
+insurer to provide medical indemnity cover in accordance with that
 
-             (2)  This section does not affect the meaning of any other offence against this Act.
+subsection.</dd> <dt>(2)</dt><dd>If the Federal Court of Australia is satisfied that an MDO has engaged in, or is proposing to engage in, conduct that constitutes a contravention of subsection 26B(1), the Court may grant an injunction requiring the MDO to enter into an arrangement of a kind referred to in paragraph 26B(1)(f).</dd> <dt>(3)</dt><dd>An order under this section may be made only after an application by: </dd> </dl></dl>
 
-<o:p> </o:p>
+	(a)	the practitioner; or
+ 	(b)	ASIC; or
+ 	(c)	the Minister administering the _Medical Indemnity Act 2002_. 
 
-### Division 3—Intermediary’s responsibilities
+**
 
-##### <a id="27"></a>27  Intermediary’s responsibilities
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 26G  Pecuniary penalties for offences against this Division 
+**
 
-             (1)  A person (the **_intermediary_**) commits an offence if:
+ <dl compact=""><dl compact="">
 
-                     (a)  the intermediary provides a financial service on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
+<dt>(1)</dt><dd>To avoid doubt, subsection 4B(3) of the _Crimes Act 1914_ applies to
 
-                     (b)  in the course of providing that service, the intermediary:
+any offence against a provision of this Division committed by a body corporate,
 
-                              (i)  arranges, or offers to arrange, for someone to enter into or renew a regulated insurance contract; or
+as if an offence against that provision could be committed by a natural
 
-                             (ii)  recommends that someone enter into or renew a regulated insurance contract; and
+person.</dd> <dt>(2)</dt><dd>This section does not affect the meaning of any other offence against this Act. </dd> </dl></dl>
 
-                     (c)  either:
+<center>**
 
-                              (i)  the regulated insurance contract breaches, or would breach, the minimum cover rules; or
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<division>Division&#160;3&#151;Intermediary's responsibilities </division> 
+**</center>
 
-                             (ii)  the regulated insurance contract is a new regulated insurance contract and the insurer does not make a compulsory new contract offer in relation to the regulated insurance contract.
+**
 
-                    Penalty:  Imprisonment for 12 months.
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 27  Intermediary's responsibilities 
+**
 
-             (2)  It does not matter whether the intermediary provides the financial service in the intermediary’s own right or as a representative of another person.
+ <dl compact=""><dl compact="">
 
-             (3)  Subparagraph (1)(b)(ii) does not apply to a recommendation by the intermediary if the intermediary has reasonable grounds to believe that a compulsory new contract offer will be made in relation to the new regulated insurance contract before that contract is entered into or is renewed.
+<dt>(1)</dt><dd>A person (the _intermediary_) commits an offence if:
 
-Note:          A defendant bears an evidential burden in relation to the matter in this subsection (see subsection 13.3(3) of the _Criminal Code_).
+</dd> </dl></dl>
 
-             (4)  To avoid doubt, the intermediary commits the offence whether or not the insurer commits, or would commit, an offence against subsection 17(2), 18(3), 19(3) or 22(1).
+	(a)	the intermediary provides a financial service on or after 1&#160;July 2003; and
+ 	(b)	in the course of providing that service, the intermediary:
+ 	(i)	arranges, or offers to arrange, for someone to enter into or renew a regulated insurance contract; or
+ 	(ii)	recommends that someone enter into or renew a regulated insurance contract; and
+ 	(c)	either:
+ 	(i)	the regulated insurance contract breaches, or would breach, the minimum cover rules; or
+ 	(ii)	the regulated insurance contract is a new regulated insurance contract and the insurer does not make a compulsory new contract offer in relation to the regulated insurance contract.
 
-<o:p> </o:p>
+Penalty:	Imprisonment for 12 months.
 
-## Part 4—Administration
+<dl compact=""><dl compact="">
 
-##### <a id="28"></a>28  APRA to have general administration of Part 2
+<dt>(2)</dt><dd>It does not matter whether the intermediary provides the financial service
 
-             (1)  Subject to subsection (2), APRA has the general administration of Part 2.
+in the intermediary's own right or as a representative of another person.</dd> <dt>(3)</dt><dd>Subparagraph&#160;(1)(b)(ii) does not apply to a recommendation by the intermediary if the intermediary has reasonable grounds to believe that a compulsory new contract offer will be made in relation to the new regulated insurance contract before that contract is entered into or is renewed. </dd> </dl></dl>
 
-             (2)  The Minister may give APRA directions about the performance or exercise of its functions or powers under Part 2.
+<dl compact=""><dl compact="">
 
-##### <a id="29"></a>29  APRA Act secrecy provisions apply
+Note:	A defendant bears an evidential burden in relation to the
 
-                   Section 56 of the _Australian Prudential Regulation Authority Act 1998_ prohibits certain disclosures of information received under this Act.
+matter in this subsection&#160;(see subsection 13.3(3) of the _Criminal Code_).
 
-##### <a id="30"></a>30  ASIC to have general administration of Part 3
+ </dl></dl>
 
-             (1)  Subject to subsection (2), ASIC has the general administration of Part 3.
+<dl compact=""><dl compact="">
 
-             (2)  The Minister may give ASIC directions about the performance or exercise of its functions or powers under Part 3.
+<dt>(4)</dt><dd>To avoid doubt, the intermediary commits the offence whether or not the
 
-<o:p> </o:p>
+insurer commits, or would commit, an offence against subsection 17(2), 18(3),
 
-## Part 5—Miscellaneous
+19(3) or 22(1).
 
-##### <a id="31"></a>31  Anti-avoidance measures
+</dd> </dl></dl>
 
-             (1)  If:
+<center>Back to Top</center>
 
-                     (a)  before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>, a person entered into an arrangement under which the person provides medical indemnity cover for a health care professional; and
+<center>**
 
-                     (b)  the sole or dominant purpose, or a substantial purpose, of the person in entering into the arrangement at that time was to avoid having a provision or provisions of this Act apply to the arrangement;
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<part>Part&#160;4&#151;Administration </part>
+**</center>
 
-the arrangement is to be treated, for the purposes of this Act, as if it had been entered into on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
+**
 
-             (2)  If:
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 28  APRA to have general administration of Part&#160;2 
+**
 
-                     (a)  an arrangement under which a person provides medical indemnity cover for a health care professional comes into effect before 1 July 2003; and
+ <dl compact=""><dl compact="">
 
-                     (b)  the sole or dominant purpose, or a substantial purpose, of the person in having the arrangement come into effect at that time was to avoid having a provision or provisions of this Act apply to the arrangement;
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), APRA has the general administration of
 
-the arrangement is to be treated, for the purposes of this Act, as if it had come into effect on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
+Part&#160;2.</dd> <dt>(2)</dt><dd>The Minister may give APRA directions about the performance or exercise of its functions or powers under Part&#160;2\. </dd> </dl></dl>
 
-             (3)  If:
-
-                     (a)  an arrangement under which a person provides medical indemnity cover for a health care professional was renewed before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>; and
-
-                     (b)  the sole or dominant purpose, or a substantial purpose, of the person in having the arrangement renewed at that time was to avoid having a provision or provisions of this Act apply to the arrangement;
-
-the arrangement is to be treated, for the purposes of this Act, as if it had been renewed on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date>.
-
-##### <a id="32"></a>32  Act not to affect State and Territory laws
-
-                   This Act is not intended to exclude or limit the concurrent operation of any law of a State or Territory.
-
-##### <a id="33"></a>33  Regulations
-
-             (1)  The Governor-General may make regulations prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-             (2)  The regulations may prescribe penalties not exceeding a fine of 10 penalty units for offences against the regulations.
-
-
-# Notes to the _<span style="mso-no-proof: yes">Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</span>_
-
-### Note 1
-
-The _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_ as shown in this compilation comprises Act No. 37, 2003 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Number 
-and year <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent <o:p></o:p> 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>37, 2003</div>
-    </td>
-    <td>
-      <div>2 May 2003</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">1 July 2003</st1:date></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004</div>
-    </td>
-    <td>
-      <div>77, 2004</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="23" month="6">23 June 2004</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 36): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="7">1 July 2004</st1:date> 
-Schedule 3: <i style="mso-bidi-font-style: normal">(a)</i> 
-Schedule 6 (items 7–9): <i style="mso-bidi-font-style: normal">(a)</i> 
-Schedule 6 (items 10–13): Royal Assent 
-
-</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Medical Indemnity Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>25, 2005</div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="21" month="3">21 Mar 2005</st1:date></div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 15, 16): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="3">22 Mar 2005</st1:date></div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-_(a)_     Subsection 2(1) (items 8 and 16) of the _Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004_ provides as follows:<o:p></o:p>
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<o:p> </o:p>
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-
-          <o:p></o:p>
-
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-
-          <o:p></o:p>
-
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-
-          <o:p></o:p>
-
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-
-          <o:p></o:p>
-
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-
-          <o:p></o:p>
-
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-
-          <o:p></o:p>
-
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-
-          <o:p></o:p>
-
-      </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>
-        8.
-          <span style="mso-spacerun: yes"></span>Schedule 3
-          <o:p></o:p>
-
-      </div>
-    </td>
-    <td>
-      <div>
-        The later of:
-          <o:p></o:p>
-
-      </div>
-      <div>
-        (a) the day after the day on which this Act receives the Royal Assent;
-          and
-          <o:p></o:p>
-
-      </div>
-      <div>
-        (b)
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="7">
-          1 July 2004
-        </st1:date>
-        .
-          <o:p></o:p>
-
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="1" month="7">
-          1 July 2004
-        </st1:date>
-
-(paragraph (b) applies)
-          <o:p></o:p>
-
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        16.
-          <span style="mso-spacerun: yes"></span>Schedule 6, items 7 to 9
-          <o:p></o:p>
-
-      </div>
-    </td>
-    <td>
-      <div>
-        Immediately after the commencement of the
-          <i style="mso-bidi-font-style: normal">Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</i>.
-          <o:p></o:p>
-
-      </div>
-    </td>
-    <td>
-      <div>
-        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="1" month="7">
-          1 July 2003
-        </st1:date>
-
-          <o:p></o:p>
-
-      </div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<tbody>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>How affected <o:p></o:p> </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4 </div>
-    </td>
-    <td>
-      <div>am. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7A </div>
-    </td>
-    <td>
-      <div>ad. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 10, 11 </div>
-    </td>
-    <td>
-      <div>am. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 3 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 20 </div>
-    </td>
-    <td>
-      <div>am. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Subdivision B <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 22 </div>
-    </td>
-    <td>
-      <div>am. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 24 </div>
-    </td>
-    <td>
-      <div>am. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 25 </div>
-    </td>
-    <td>
-      <div>rep. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 26 </div>
-    </td>
-    <td>
-      <div>am. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Division 2A <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 2A of Part 3 </div>
-    </td>
-    <td>
-      <div>ad. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 26A </div>
-    </td>
-    <td>
-      <div>ad. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 25, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 26B, 26C </div>
-    </td>
-    <td>
-      <div>ad. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 26D </div>
-    </td>
-    <td>
-      <div>ad. No. 77, 2004</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div>am. No. 25, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 26E–26G </div>
-    </td>
-    <td>
-      <div>ad. No. 77, 2004</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-<o:p> </o:p>
+**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 29  APRA Act secrecy provisions apply 
+**
+
+ <dl compact=""><dl compact="">
+
+		Section&#160;56 of the _Australian Prudential Regulation Authority Act 1998_ prohibits certain disclosures of information received under this Act.
+
+ </dl></dl>
+
+**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 30  ASIC to have general administration of Part&#160;3 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>Subject to subsection&#160;(2), ASIC has the general administration of
+
+Part&#160;3.</dd> <dt>(2)</dt><dd>The Minister may give ASIC directions about the performance or exercise of its functions or powers under Part&#160;3\. </dd> </dl></dl>
+
+<center>**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<part>Part&#160;5&#151;Miscellaneous </part>
+**</center>
+
+**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 31  Anti-avoidance measures 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	before 1&#160;July 2003, a person entered into an arrangement under which the person provides medical indemnity cover for a health care professional; and
+ 	(b)	the sole or dominant purpose, or a substantial purpose, of the person in entering into the arrangement at that time was to avoid having a provision or provisions of this Act apply to the arrangement;
+
+the arrangement is to be treated, for the purposes of this Act, as if it had been entered into on or after 1&#160;July 2003.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	an arrangement under which a person provides medical indemnity cover for a health care professional comes into effect before 1&#160;July 2003; and
+ 	(b)	the sole or dominant purpose, or a substantial purpose, of the person in having the arrangement come into effect at that time was to avoid having a provision or provisions of this Act apply to the arrangement;
+
+the arrangement is to be treated, for the purposes of this Act, as if it had come into effect on or after 1&#160;July 2003.
+
+<dl compact=""><dl compact="">
+
+<dt>(3)</dt><dd>If:
+
+</dd> </dl></dl>
+
+	(a)	an arrangement under which a person provides medical indemnity cover for a health care professional was renewed before 1&#160;July 2003; and
+ 	(b)	the sole or dominant purpose, or a substantial purpose, of the person in having the arrangement renewed at that time was to avoid having a provision or provisions of this Act apply to the arrangement;
+
+the arrangement is to be treated, for the purposes of this Act, as if it had been renewed on or after 1&#160;July 2003\. 
+
+**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 32  Act not to affect State and Territory laws 
+**
+
+ <dl compact=""><dl compact="">
+
+		This Act is not intended to exclude or limit the concurrent operation of any
+
+law of a State or Territory.
+
+ </dl></dl>
+
+<center>Back to Top</center>
+
+**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003- SECT 33  Regulations 
+**
+
+ <dl compact=""><dl compact="">
+
+<dt>(1)</dt><dd>The Governor-General may make regulations prescribing matters:
+
+</dd> </dl></dl>
+
+	(a)	required or permitted by this Act to be prescribed; or
+ 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+<dl compact=""><dl compact="">
+
+<dt>(2)</dt><dd>The regulations may prescribe penalties not exceeding a fine of 10 penalty
+
+units for offences against the regulations.
+
+</dd> </dl></dl>
+
+<center>**
+
+###  MEDICAL INDEMNITY (PRUDENTIAL SUPERVISION AND PRODUCT STANDARDS) ACT 2003<centreit>Notes to the _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Medical Indemnity (Prudential Supervision and Product Standards) Act 2003_ as shown in this compilation comprises Act No.&#160;37, 2003 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>37, 2003</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>2 May 2003</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 July 2003</div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Medical Indemnity Legislation Amendment (Run-off Cover Indemnity and Other Measures) Act 2004</i></div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>77, 2004</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>23 June 2004</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule 1 (item&#160;36): 1 July 2004 
+Schedule 3: <i>(a)</i> 
+Schedule 6 (items&#160;7-9): <i>(a)</i> 
+Schedule 6 (items&#160;10-13): Royal Assent</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
+  </td>
+</tr></table>_(a)_ Subsection 2(1) (items 8 and 16) of the _Medical Indemnity Legislation Back to Top Amendment (Run-off Cover Indemnity and Other Measures) Act 2004_ provides as follows:
+
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Commencement information</b></div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Column 1</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 2</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 3</b></div>
+
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Provision(s)</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Commencement</b></div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Date/Details</b></div>
+
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>8\. Schedule&#160;3</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>The later of:</div>
+    <div>(a) the day after the day on which this Act receives the Royal Assent; and 
+(b) 1&#160;July 2004.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1 July 2004 
+(paragraph (b) applies)</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>16\. Schedule&#160;6, items&#160;7 to 9</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Immediately after the commencement of the <i>Medical Indemnity (Prudential Supervision and Product Standards) Act 2003</i>.</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>1&#160;July 2003</div>
+
+  </td>
+</tr></table>
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part 1</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 2</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 77, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 7A</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 77, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part 2</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 1</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 10, 11</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 77, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part 3</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 1</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 20</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 77, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 2</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Subdivision B</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 22</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 77, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 24</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 77, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 25</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No. 77, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 26</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No. 77, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Division 2A</b></div>
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Div. 2A of Part 3</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 77, 2004</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 26A-26G</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No. 77, 2004</div>
+
+  </td>
+</tr></table>
+
+</def></def></def>
+
+</def>
+
+</def>
+
+</def></def></def></def>
+
+
