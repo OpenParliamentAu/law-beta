@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00407/Html/360ee59c-8078-4b30-a385-81d49667d863_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00825/Html/ProdGrantBenAdmin2000_WD02_image001.gif)
 
 # Product Grants and Benefits Administration Act 2000
 
 **Act No. 61 of 2000 as amended**
 
-This compilation was prepared on 3 June 2011
- taking into account amendments up to Act No. 32 of 2011
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 145 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -78,17 +77,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [23](#23).          Payment of grants or benefits
 
-[24](#24).          Recovery by set‑off
+[24](#24).          Recovery by set-off
 
 [24A](#24A).       Interest on underpaid grants or benefits
 
-**Part 5—Record‑keeping requirements etc.**
+**Part 5—Record-keeping requirements etc.**
 
-[25](#25).          No entitlement to grants or benefits unless record‑keeping requirements met
+[25](#25).          No entitlement to grants or benefits unless record-keeping requirements met
 
-[26](#26).          Pre‑claim record‑keeping requirements
+[26](#26).          Pre-claim record-keeping requirements
 
-[27](#27).          Post‑claim record‑keeping requirements
+[27](#27).          Post-claim record-keeping requirements
 
 [27A](#27A).       Requirement to notify Commissioner about any disqualifying use etc  of energy grants scheme fuel
 
@@ -116,11 +115,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [35](#35).          General interest charge on unpaid scheme debts
 
-**Part 9—Information‑gathering powers**
+**Part 9—Information-gathering powers**
 
 [42](#42).          Commissioner may obtain information and documents
 
-[43](#43).          Self‑incrimination
+[43](#43).          Self-incrimination
 
 [44](#44).          Copies of documents
 
@@ -154,7 +153,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [55](#55).          Appropriation
 
-[56](#56).          Grants and benefits to be treated as subsidies for the purposes of section 15‑10 of the _Income Tax Assessment Act 1997_
+[56](#56).          Grants and benefits to be treated as subsidies for the purposes of section 15-10 of the _Income Tax Assessment Act 1997_
 
 [57](#57).          Address for service
 
@@ -188,7 +187,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  States and Territories are bound
 
-                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island. However, it does not make the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of each of the States, of the Australian Capital Territory, of the Northern   Territory and of Norfolk Island. However, it does not make the Crown liable to be prosecuted for an offence.
 
 ##### <a id="5"></a>5  Definitions
 
@@ -198,7 +197,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="amount"></a>**_amount_** includes a nil amount.
 
-                    <a name="approved-form"></a>**_approved form_** has the meaning given by section 995‑1 of the _Income Tax Assessment Act 1997_.
+                    <a name="approved-form"></a>**_approved form_** has the meaning given by section 995-1 of the _Income Tax Assessment Act 1997_.
 
                     <a name="assess"></a>**_assessment_** includes an assessment of a nil amount.
 
@@ -216,7 +215,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="electron-signatur"></a>**_electronic signature_** means an entity’s unique identification in an electronic form that is approved by the Commissioner.
 
-                    <a name="energi-grant-scheme-fuel"></a>**_energy grants scheme fuel_** means on‑road alternative fuel within the meaning of the _Energy Grants (Credits) Scheme Act 2003_.
+                    <a name="energi-grant-scheme-fuel"></a>**_energy grants scheme fuel_** means on-road alternative fuel within the meaning of the _Energy Grants (Credits) Scheme Act 2003_.
 
                     <a name="entitl-act"></a>**_entitlement Act_** means an Act under which the entitlement to a grant or benefit arises. The entitlement Acts are listed in section 8.
 
@@ -361,9 +360,9 @@ Note:          An effect of this provision is that the _Taxati
 
 Telephone signature not required
 
-          (1A)  If the application is given by telephone, it need not contain a telephone signature (within the meaning of section 995‑1 of the _Income Tax Assessment Act 1997_).
+          (1A)  If the application is given by telephone, it need not contain a telephone signature (within the meaning of section 995-1 of the _Income Tax Assessment Act 1997_).
 
-Note:          The definition of **_approved form_**in section 5 of this Act would otherwise have the effect that the requirement for a telephone signature, in subsection 388‑75(4) in Schedule 1 to the _Taxation Administration Act 1953_, would apply.
+Note:          The definition of **_approved form_**in section 5 of this Act would otherwise have the effect that the requirement for a telephone signature, in subsection 388-75(4) in Schedule 1 to the _Taxation Administration Act 1953_, would apply.
 
 General requirements
 
@@ -531,7 +530,7 @@ you are liable to repay the amount of the advance to the Commonwealth.
 
                      (d)  must be signed by you, unless it is transmitted to the Commissioner in an electronic format approved by the Commissioner and contains your electronic signature; and
 
-                   (da)  if the claim is for payment of an energy grant in respect of an on‑road credit for on‑road alternative fuel—must be given to the Commissioner before the earlier of:
+                    (da)  if the claim is for payment of an energy grant in respect of an on-road credit for on-road alternative fuel—must be given to the Commissioner before the earlier of:
 
                               (i)  1 July 2011; and
 
@@ -539,19 +538,19 @@ you are liable to repay the amount of the advance to the Commonwealth.
 
                      (e)  otherwise—must be given to the Commissioner before the end of 3 years after the start of the claim period.
 
-          (2A)  Despite the provisions of Part 3 and the _Energy Grants (Credits) Scheme Act 2003_, you are not entitled to an energy grant for an on‑road credit for on‑road alternative fuel if you have already given the Commissioner a return under the _Fuel Tax Act 2006_ that includes a net fuel amount that takes into account a decreasing fuel tax adjustment that relates to the fuel.
+          (2A)  Despite the provisions of Part 3 and the _Energy Grants (Credits) Scheme Act 2003_, you are not entitled to an energy grant for an on-road credit for on-road alternative fuel if you have already given the Commissioner a return under the _Fuel Tax Act 2006_ that includes a net fuel amount that takes into account a decreasing fuel tax adjustment that relates to the fuel.
 
              (3)  Section 9 does not, by implication, limit subsection (2) of this section.
 
              (4)  In this section:
 
-                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006._
+                    <a name="decreas-fuel-tax-adjust"></a>**_decreasing fuel tax adjustment_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
 
-                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 110‑5 of the _Fuel Tax Act 2006._
+                    <a name="net-fuel-amount"></a>**_net fuel amount_** has the meaning given by section 110-5 of the _Fuel Tax Act 2006._
 
-                    <a name="road-altern-fuel"></a>**_on‑road alternative fuel_** has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
+                    <a name="road-altern-fuel"></a>**_on-road alternative fuel_** has the meaning given by section 4 of the _Energy Grants (Credits) Scheme Act 2003_.
 
-                    <a name="road-crite"></a>**_on‑road credit_** means an on‑road credit under Part 3 of the _Energy Grants (Credits) Scheme Act 2003_.
+                    <a name="road-crite"></a>**_on-road credit_** means an on-road credit under Part 3 of the _Energy Grants (Credits) Scheme Act 2003_.
 
 ##### <a id="15A"></a>15A  Authority for third party to make claim under section 15
 
@@ -673,7 +672,7 @@ Note:          Under section 5, **_assessment_** includes a 
 
              (2)  Grant or benefits are payable by the Commonwealth in the manner determined by the Commissioner.
 
-##### <a id="24"></a>24  Recovery by set‑off
+##### <a id="24"></a>24  Recovery by set-off
 
                    If an entity is liable to pay a scheme debt, the scheme debt may be deducted from one or more grants or benefits that are payable to the entity, and if the scheme debt is so deducted, the grant or benefit is taken to have been paid in full to the entity.
 
@@ -725,27 +724,27 @@ Step 5\. Add all of the amounts worked out under step 4.
 
                              (ii)  a decision of the kind mentioned in paragraph (b).
 
-## Part 5—Record‑keeping requirements etc.
+## Part 5—Record-keeping requirements etc.
 
-##### <a id="25"></a>25  No entitlement to grants or benefits unless record‑keeping requirements met
+##### <a id="25"></a>25  No entitlement to grants or benefits unless record-keeping requirements met
 
              (1)  Despite the provisions of Part 3 and the entitlement Acts:
 
-                     (a)  you are not entitled to a grant or benefit in respect of a particular claim period unless you comply with the pre‑claim record‑keeping requirements set out in section 26; and
+                     (a)  you are not entitled to a grant or benefit in respect of a particular claim period unless you comply with the pre-claim record-keeping requirements set out in section 26; and
 
-                     (b)  if you have made a claim for a grant or benefit in respect of a particular claim period—you are not entitled, and are taken never to have been entitled, to the grant or benefit in respect of that claim period unless you have complied with the post‑claim record‑keeping requirements set out in section 27.
+                     (b)  if you have made a claim for a grant or benefit in respect of a particular claim period—you are not entitled, and are taken never to have been entitled, to the grant or benefit in respect of that claim period unless you have complied with the post-claim record-keeping requirements set out in section 27.
 
              (2)  If:
 
                      (a)  you make a claim for a grant or benefit in respect of a claim period; and
 
-                     (b)  you make a statement in the claim to the effect that you undertake to comply with the post‑claim record‑keeping requirements set out in section 27;
+                     (b)  you make a statement in the claim to the effect that you undertake to comply with the post-claim record-keeping requirements set out in section 27;
 
 the Commissioner may, for the purposes of making an assessment, assume that you will comply with those requirements. However, if you do not comply with those requirements, the Commissioner may amend your assessment under section 20.
 
-##### <a id="26"></a>26  Pre‑claim record‑keeping requirements
+##### <a id="26"></a>26  Pre-claim record-keeping requirements
 
-             (1)  This section sets out the pre‑claim record‑keeping requirements that apply to you in relation to a grant or benefit in respect of a particular claim period.
+             (1)  This section sets out the pre-claim record-keeping requirements that apply to you in relation to a grant or benefit in respect of a particular claim period.
 
              (2)  You must:
 
@@ -765,9 +764,9 @@ Note:          Section 27 provides that you must continue to
 
 Note:          Sections 8L, 8Q and 8T of the _Taxation Administration Act 1953_ deal with keeping records incorrectly.
 
-##### <a id="27"></a>27  Post‑claim record‑keeping requirements
+##### <a id="27"></a>27  Post-claim record-keeping requirements
 
-             (1)  This section sets out the post‑claim record‑keeping requirements that apply to you in relation to a grant or benefit in respect of a particular claim period.
+             (1)  This section sets out the post-claim record-keeping requirements that apply to you in relation to a grant or benefit in respect of a particular claim period.
 
           (1A)  If the claim was in relation to an energy grant, you must keep records that enable you to substantiate that you have not lost your entitlement to the grant because of the application of section 49 or 55 of the _Energy Grants (Credits) Scheme Act 2003_.
 
@@ -781,7 +780,7 @@ Note:          Sections 8L, 8Q and 8T of the _Taxation Admin
 
           (1D)  You must retain the records for the period of 5 years after the claim was made.
 
-             (2)  You must continue to retain, for the period of 5 years after the claim was made, the records that the pre‑claim record‑keeping requirements set out in section 26 required you to retain.
+             (2)  You must continue to retain, for the period of 5 years after the claim was made, the records that the pre-claim record-keeping requirements set out in section 26 required you to retain.
 
              (3)  If the Commissioner gives you a written notice telling you to produce records that subsection (2) required you to retain, you must comply with the notice.
 
@@ -819,7 +818,7 @@ you must notify the Commissioner in writing of the fact, within 90 days, or such
 
 Note:          Failure to notify the Commissioner is an offence under paragraph 8C(1)(d) of the _Taxation Administration Act 1953_.
 
-##### <a id="27B"></a>27B  Requirement to notify Commissioner about any disqualifying circumstances for cleaner fuel
+##### <a id="27B"></a>27B  Requirement to notify Commissioner about any disqualifying circumstances for cleaner fuel
 
                    If:
 
@@ -983,7 +982,7 @@ the Commissioner may determine that this Act or an entitlement Act has, and is t
 
                      (a)  an overpayment debt; or
 
-                     (b)  an amount payable by way of a penalty under subsection 284‑75(1) or (4) in Schedule 1 to the _Taxation Administration Act 1953_.
+                     (b)  an amount payable by way of a penalty under subsection 284-75(1) or (4) in Schedule 1 to the _Taxation Administration Act 1953_.
 
              (2)  If an amount of a designated scheme debt that is payable by you remains unpaid after the day by which it must be paid, you are liable to pay the general interest charge (**_GIC_**) on the unpaid amount.
 
@@ -1005,7 +1004,7 @@ Note:          The overpayment debt is recoverable as an admin
 
              (5)  This section does not apply to an overpayment debt that is attributable (in whole or in part) to a change in regulations made for the purposes of working out the amount of a grant or benefit.
 
-## Part 9—Information‑gathering powers
+## Part 9—Information-gathering powers
 
 ##### <a id="42"></a>42  Commissioner may obtain information and documents
 
@@ -1033,7 +1032,7 @@ Note:          Failing to comply with a notice can also be an 
 
              (3)  The regulations may prescribe scales of expenses to be allowed to persons who are required to attend under this section.
 
-##### <a id="43"></a>43  Self‑incrimination
+##### <a id="43"></a>43  Self-incrimination
 
              (1)  An individual is not excused from giving information or evidence or producing a document under this Part on the ground that the information or evidence or the production of the document might tend to incriminate the individual or expose the individual to a penalty.
 
@@ -1143,7 +1142,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (c)  the person does not immediately return the identity card to the Commissioner.
 
-                    Maximum penalty: 1 penalty unit.
+                    Maximum penalty:    1 penalty unit.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -1279,9 +1278,9 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    Grants and benefits must be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
-##### <a id="56"></a>56  Grants and benefits to be treated as subsidies for the purposes of section 15‑10 of the _Income Tax Assessment Act 1997_
+##### <a id="56"></a>56  Grants and benefits to be treated as subsidies for the purposes of section 15-10 of the _Income Tax Assessment Act 1997_
 
-                   A grant or benefit is taken to be a subsidy for the purposes of section 15‑10 of the _Income Tax Assessment Act 1997_.
+                   A grant or benefit is taken to be a subsidy for the purposes of section 15-10 of the _Income Tax Assessment Act 1997_.
 
 ##### <a id="57"></a>57  Address for service
 
@@ -1323,7 +1322,7 @@ has notified the Commissioner of an Australian address for service, the Commissi
 
 ##### <a id="60"></a>60  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1374,7 +1373,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Product Grants and Benefits Administration Act 2000</div>
+    <div>Products Grants and Benefits Administration Act 2000</div>
   </td>
   <td>
     <div>61, 2000</div>
@@ -1659,23 +1658,6 @@ Schedule 4 (item 4): Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 625–627): <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -1693,7 +1675,7 @@ _(a)_     Subsection 2(2)(a) of the _Product Stewardship (Oil) (Conseque
 
          Schedule 1 (items 7 and 8) commenced on 6 July 2000 immediately after the commencement of section 1.
 
-_(b)_ The _Product Grants and Benefits Administration Act 2000_ was amended by Schedule 4 (items 116–118) only of the _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001_, subsection 2(1) of which provides as follows:
+_(b)_ The _Products Grants and Benefits Administration Act 2000_ was amended by Schedule 4 (items 116–118) only of the _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day mentioned in subsection 2.2(2) of the _Criminal Code_.
 
@@ -1785,65 +1767,6 @@ _(c)_ Subsection 2(1) (item 16) of the _Fuel Tax (Consequential and Transitional
 </tr></table>
 
 _(d)_ Subparagraphs 47(3)(c)(ia) and (d)(ia) were repealed by Schedule 1 (item 7) of the _Fuel Tax (Consequential and Transitional Provisions) Act 2006_ before the amendments made by Schedule 1 (item 25) of the _Statute Stocktake (Regulatory and Other Laws) Act 2009_ commenced _._
-
-_(e)_     Subsection 2(1) (item 4) of the _Human Services Legislation Amendment Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      4\. Schedule 4, Part 2, Division 1
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011.
-    </div>
-    <div>
-      However, if Schedule 1 to the
-        <i>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</i>commences
-        before 1 July 2011, the provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      Does not commence
-    </div>
-  </td>
-</tr></table>
 
 ## Table of Amendments
 
@@ -2345,7 +2268,7 @@ Omit “otherwise—”.
 
 Repeal the subsections.
 
-As at 3 June 2011 the amendments are not incorporated in this compilation.
+As at 21 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2377,7 +2300,7 @@ _Energy Grants (Credits) Scheme (Consequential Amendments) Act 2003 (No. 54, 2
 
 ## 28  Application
 
-(1)       Subject to this item, the amendments made by this Schedule, so far as they relate to:
+(1)        Subject to this item, the amendments made by this Schedule, so far as they relate to:
 
                      (a)  applications for registration under section 9 of the _Product Grants and Benefits Administration Act 2000_; or
 
@@ -2385,7 +2308,7 @@ _Energy Grants (Credits) Scheme (Consequential Amendments) Act 2003 (No. 54, 2
 
 apply to applications or claims made after the commencement of this Schedule.
 
-(2)       The amendment made by item 8  applies to registrations taking place before or after the commencement of that item.
+(2)        The amendment made by item 8  applies to registrations taking place before or after the commencement of that item.
 
 ## 29  Transitional—registration
 
@@ -2403,13 +2326,13 @@ then:
 
 ## 30  Transitional—third party authorisations
 
-(1)       This item applies if, at the end of 30 June 2003:
+(1)        This item applies if, at the end of 30 June 2003:
 
                      (a)  an authorisation of a third party to make claims under section 15 of the _Diesel and Alternative Fuels Grants Scheme Act 1999_ was in force under section 15AA of that Act as then in force; or
 
                      (b)  an authorisation of a third party to make applications under section 164 of the _Customs Act 1901_ or section 78A of the _Excise Act 1901_ was in force.
 
-(2)       For the purposes of the _Product Grants and Benefits Administration Act 2000_ as amended by this Schedule:
+(2)        For the purposes of the _Product Grants and Benefits Administration Act 2000_ as amended by this Schedule:
 
                      (a)  the authorisation has effect as if it were an authorisation of the third party to make claims for energy grants under section 15 of that Act as so amended, that was given at the start of 1 July 2003, under subsection 15A(5) of that Act as so amended; and
 
@@ -2466,7 +2389,7 @@ _Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006
 
 Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
 
-                     (a)  so far as they affect assessments—to assessments for the 2006‑07 income year and all later income years; and
+                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
 
                      (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
 
@@ -2492,17 +2415,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
