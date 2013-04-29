@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C00738/Html/CwealthFundsMgmtLtd1990_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02918/Html/CwealthFundsMgm90_image001.gif)
 
 # Commonwealth Funds Management Limited Act 1990
 
 **Act No. 13 of 1991 as amended**
 
-This compilation was prepared on 30 July 2002
- taking into account amendments up to Act No. 63 of 2002
+This compilation was prepared on 26 July 2001
+ taking into account amendments up to Act No. 55 of 2001
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -107,7 +107,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="articl"></a>**_articles_** means articles of association.
 
-                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis  Bay Territory.
+                    <a name="australian-capit-territori"></a>**_Australian Capital Territory_** includes the Jervis Bay Territory.
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
@@ -409,9 +409,9 @@ the Company must treat the whole of the first-mentioned period as a period durin
 
 **Note:**
 
-The amendments made by this Part are incorporated in the compilation on ComLaw of the _Superannuation Act 1976_.
+The amendments made by this Part are incorporated in the compilation on SCALEplus of the Superannuation Act 1976.
 
-For access to the wording of the amendments made by this Part _see_ Act No. 13, 1991.
+For access to the wording of the amendments made by this Part, click here [_Commonwealth Funds Management Limited Act 1990_ No. 13 of 1991].
 
 * * *
 
@@ -423,9 +423,9 @@ For access to the wording of the amendments made by this Part _see_ Act No. 13, 
 
 **Note:**
 
-The amendments made by this Part are incorporated in the compilation on ComLaw of the _Superannuation Act 1990_.
+The amendments made by this Part are incorporated in the compilation on SCALEplus of the Superannuation Act 1990.
 
-For access to the wording of the amendments made by this Part _see_ Act No. 13, 1991.
+For access to the wording of the amendments made by this Part, click here [_Commonwealth Funds Management Limited Act 1990_ No. 13 of 1991].
 
 * * *
 
@@ -525,40 +525,6 @@ Schedule 1 (items 3, 4): <i>(a)</i> </div>
 </tr>
 <tr>
   <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 13, 14): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><i> Audit (Transitional and Miscellaneous) Amendment Act 1997 </i></div>
   </td>
   <td>
@@ -568,7 +534,7 @@ Schedule 1 (items 3, 4): <i>(a)</i> </div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 3 (item 10): <i>(c)</i> </div>
+    <div>Schedule 3 (item 10): <i>(b)</i> </div>
   </td>
   <td>
     <div>—</div>
@@ -585,7 +551,7 @@ Schedule 1 (items 3, 4): <i>(a)</i> </div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4-14 and Schedule 3 (items 127-130): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(d)</i></div>
+    <div>Ss. 4-14 and Schedule 3 (items 127-130): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(c)</i></div>
   </td>
   <td>
     <div>Ss. 4-14</div>
@@ -602,118 +568,13 @@ _(a)_     The _Commonwealth Funds Management Limited Act 1990_ was amend
 
                  (3)   Subject to subsection (4), items 1, 2, 5, 6, 7, 8, 9 and 11 of Schedule 1 commence on a day or days to be fixed by Proclamation.
 
-_(b)_    The _Income Tax (Consequential Amendments) Act 1997_ was amended by Schedule 2 (items 13 and 14) only of the _Statute Law Revision Act 2002_, subsection 2(1) (items 42 and 43) of which provides as follows:
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      42\. Schedule 2, item 13
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Income Tax (Consequential Amendments) Act 1997</i>for the commencement
-        of item 53 of Schedule 3 to that Act
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 1997
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      43\. Schedule 2, item 14
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Income Tax (Consequential Amendments) Act 1997</i>for the commencement
-        of item 53 of Schedule 3 to that Act
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 1997
-    </div>
-  </td>
-</tr></table>
-
-_(c)_     The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 3 (item 10) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(3)(e) of which provide as follows:
+_(b)_    The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 3 (item 10) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(3)(e) of which provide as follows:
 
                               (e)   the amendment of the _Commonwealth Funds Management Limited Act 1990_ commences, or is taken to have commenced, on the sale day as defined in subsection 3(1) of the _CFM Sale Act 1996_;
 
          The sale day occurred on 23 December 1996 (_see Gazette_ 1997, No. S8).
 
-_(d)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 3 (items 127-130) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
+_(c)_ The _Commonwealth Funds Management Limited Act 1990_ was amended by Schedule 3 (items 127-130) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
