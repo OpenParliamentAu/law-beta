@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00297/Html/44baca26-fe85-4f1e-abbd-73e1259beb24_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00962/Html/f2794ce9-1e32-451d-a220-b13af18b6724_files/image001.gif)
 
 # Customs Administration Act 1985
 
 **Act No. 38 of 1985 as amended**
 
-This compilation was prepared on 14 March 2012
+This compilation was prepared on 19 December 2011
  taking into account amendments up to Act No. 174 of 2011
 
 The text of any of those amendments not in force
@@ -38,7 +38,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Employment outside official duties
 
-[8](#8).            Remuneration and allowances
+[8](#8).             Remuneration and allowances
 
 [9](#9).            Leave of absence
 
@@ -138,7 +138,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    The CEO shall not, without the approval of the Minister, engage in paid employment outside the duties of the office of CEO.
 
-##### <a id="8"></a>8  Remuneration and allowances
+##### <a id="8"></a>8   Remuneration and allowances
 
              (1)  The CEO shall be paid such remuneration as is determined by the Remuneration Tribunal.
 
@@ -192,13 +192,29 @@ the Governor‑General shall remove the CEO from office.
 
 ##### <a id="13"></a>13  Acting CEO
 
-                   The Governor‑General may appoint a person to act in the office of CEO:
+             (1)  The Governor‑General may appoint a person to act in the office of CEO:
 
                      (a)  during a vacancy in that office; or
 
                      (b)  during any period, or during all periods, when the person holding that office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of that office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  A person appointed under subsection (1) to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (4)  Where a person is acting in the office of CEO in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Governor‑General otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurs expires, whichever first happens.
+
+             (5)  While a person is acting in the office of CEO, the person has and may exercise all the powers, and shall perform all the functions, of the CEO under this Act or any other law.
+
+             (6)  The Governor‑General may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting in the office of CEO; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (7)  A person appointed under subsection (1) may resign the appointment by writing signed by the person and delivered to the Governor‑General.
+
+             (8)  The validity of anything done by or in relation to a person purporting to act in the office of CEO shall not be called in question on the ground that the occasion for the appointment had not arisen, that there was a defect or irregularity in or in connection with the appointment, that the appointment had ceased to have effect or that the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="14"></a>14  Delegation
 
@@ -208,7 +224,7 @@ Note:          For rules that apply to acting appointments, se
 
              (3)  A function or power so delegated, when performed or exercised by the delegate, shall, for the purposes of the law of customs, or the other law of the Commonwealth, under which the function was established or the power conferred, be taken to have been performed or exercised by the CEO.
 
-             (4)  Paragraph 34AB(1)(c) of the _Acts Interpretation Act 1901_ does not apply to a delegation under subsection (1).
+             (4)  Paragraph 34AB(c) of the _Acts Interpretation Act 1901_ does not apply to a delegation under subsection (1).
 
              (5)  In this section:
 
@@ -569,7 +585,9 @@ All relevant information pertaining to application, saving or transitional provi
   <col width="17%">
   <col width="1%">
   <col width="22%">
-  <col width="15%">
+  <col width="13%">
+  <col width="0%">
+  <col width="2%">
 </colgroup>
 
 <thead>
@@ -588,7 +606,7 @@ of Assent</div>
     <td>
       <div>Date of commencement</div>
     </td>
-    <td>
+    <td colspan="3">
       <div>Application, saving or transitional provisions</div>
     </td>
   </tr>
@@ -606,7 +624,7 @@ of Assent</div>
   <td colspan="2">
     <div>10 June 1985 ( <i>see Gazette</i>1985, No. S194)</div>
   </td>
-  <td>
+  <td colspan="3">
     <div></div>
   </td>
 </tr>
@@ -625,7 +643,7 @@ of Assent</div>
 Ss. 6, 8, 16 and 18: 19 July 1989 
 Remainder: Royal Assent</div>
   </td>
-  <td>
+  <td colspan="3">
     <div>S. 12(2)</div>
   </td>
 </tr>
@@ -643,7 +661,7 @@ Remainder: Royal Assent</div>
     <div>Part 6 (ss. 29, 30): 24 Nov 1988 ( <i>see</i>s. 2(2)) 
 Remainder: Royal Assent</div>
   </td>
-  <td>
+  <td colspan="3">
     <div>—</div>
   </td>
 </tr>
@@ -663,7 +681,7 @@ Ss. 4(1)(b), 16, 26(1)(b), (c) and 33 (in part): 1 July 1989
 S. 15: 1 Aug 1989 
 Remainder: 1 Jan 1990</div>
   </td>
-  <td>
+  <td colspan="3">
     <div>Ss. 2(2) and 34</div>
   </td>
 </tr>
@@ -682,7 +700,7 @@ Remainder: 1 Jan 1990</div>
 Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
 Remainder: Royal Assent</div>
   </td>
-  <td>
+  <td colspan="3">
     <div>S. 31(2)</div>
   </td>
 </tr>
@@ -703,7 +721,7 @@ Ss. 5 and 23: 19 Jan 1993
 S. 21: 18 Aug 1992 
 Remainder: Royal Assent</div>
   </td>
-  <td>
+  <td colspan="3">
     <div>—</div>
   </td>
 </tr>
@@ -720,7 +738,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>15 June 1993 ( <i>see Gazette</i>1993, No. GN22)</div>
   </td>
-  <td>
+  <td colspan="3">
     <div>—</div>
   </td>
 </tr>
@@ -737,7 +755,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Ss. 7, 17 and 18: Royal Assent <i>(a)</i></div>
   </td>
-  <td>
+  <td colspan="3">
     <div>Ss. 17 and 18</div>
   </td>
 </tr>
@@ -754,7 +772,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 2 (item 47): <i>(b)</i></div>
   </td>
-  <td>
+  <td colspan="3">
     <div>—</div>
   </td>
 </tr>
@@ -771,7 +789,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 2: 23 Mar 2000 ( <i>see</i> <i>Gazette</i>2000, No. S142) <i>(c)</i></div>
   </td>
-  <td>
+  <td colspan="3">
     <div>—</div>
   </td>
 </tr>
@@ -788,7 +806,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 1 (items 356–358): 5 Dec 1999 ( <i>see</i> <i>Gazette</i>1999, No. S584) <i>(d)</i></div>
   </td>
-  <td>
+  <td colspan="3">
     <div>—</div>
   </td>
 </tr>
@@ -805,7 +823,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedules 1–3: 26 May 2000 ( <i>see</i> <i>Gazette</i>2000,No. S269)Remainder: Royal Assent</div>
   </td>
-  <td>
+  <td colspan="3">
     <div>—</div>
   </td>
 </tr>
@@ -822,7 +840,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>S. 4(1), (2) and Schedule 22: <i>(e)</i></div>
   </td>
-  <td>
+  <td colspan="3">
     <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
@@ -839,7 +857,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 7 (items 1–8): 4 May 2001 <i>(f)</i></div>
   </td>
-  <td>
+  <td colspan="3">
     <div>—</div>
   </td>
 </tr>
@@ -856,7 +874,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div>Schedule 3 (items 152–171): Royal Assent <i>(g)</i></div>
   </td>
-  <td>
+  <td colspan="3">
     <div>—</div>
   </td>
 </tr>
@@ -873,7 +891,7 @@ Remainder: Royal Assent</div>
   <td colspan="2">
     <div></div>
   </td>
-  <td>
+  <td colspan="3">
     <div></div>
   </td>
 </tr>
@@ -888,10 +906,13 @@ Remainder: Royal Assent</div>
     <div>3 July 2002</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (item 8): <i>(ga)</i></div>
+    <div>Schedule 2 (item 8): <i>(ga)</i></div>
+  </td>
+  <td colspan="2">
+    <div>—</div>
   </td>
   <td>
-    <div>—</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -908,7 +929,10 @@ Remainder: Royal Assent</div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -927,6 +951,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
+  <td colspan="2">
+    <div></div>
+  </td>
 </tr>
 <tr>
   <td>
@@ -939,10 +966,13 @@ Remainder: Royal Assent</div>
     <div>10 Dec 2002</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 39, 40, 226): 1 Jan 2003</div>
+    <div>Schedule 2 (items 39, 40, 226): 1 Jan 2003</div>
   </td>
   <td>
-    <div>Sch. 2 (item 226) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 226) \[ <i>see</i>Table A]</div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -956,10 +986,13 @@ Remainder: Royal Assent</div>
     <div>14 Dec 2005</div>
   </td>
   <td colspan="2">
-    <div>Schedule 10 (item 30): Royal Assent</div>
+    <div>Schedule 10 (item 30): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -973,10 +1006,13 @@ Remainder: Royal Assent</div>
     <div>22 May 2009</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1: 23 May 2009</div>
+    <div>Schedule 1: 23 May 2009</div>
   </td>
   <td>
     <div>—</div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -990,10 +1026,13 @@ Remainder: Royal Assent</div>
     <div>19 Feb 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 10 (item 17): 20 Feb 2010</div>
+    <div>Schedule 10 (item 17): 20 Feb 2010</div>
   </td>
   <td>
     <div>—</div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1012,6 +1051,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
+  <td colspan="2">
+    <div></div>
+  </td>
 </tr>
 <tr>
   <td>
@@ -1024,10 +1066,13 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td colspan="2">
-    <div>Schedule 2 (items 479–482) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 479–482) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+  </td>
+  <td colspan="2">
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -1046,8 +1091,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 6) \[ <i>see</i>Table A]</div>
   </td>
+  <td colspan="2">
+    <div></div>
+  </td>
 </tr>
 <tr height="0">
+  <td></td>
+  <td></td>
   <td></td>
   <td></td>
   <td></td>
@@ -1354,15 +1404,7 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 85, 1995; No. 43, 1996; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 13</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
+    <div>am. No. 85, 1995; No. 43, 1996</div>
   </td>
 </tr>
 <tr>
@@ -1378,7 +1420,7 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
     <div></div>
   </td>
   <td>
-    <div>am. No. 5, 1990; No. 85, 1995; No. 25, 2001; No. 46, 2011</div>
+    <div>am. No. 5, 1990; No. 85, 1995; No. 25, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1399,7 +1441,7 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 16(4)–(6).</div>
+    <div>Subheads. to s.16(4)–(6) .</div>
   </td>
   <td>
     <div>ad. No. 137, 1999</div>
@@ -1478,6 +1520,34 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 479  Subsection 13(1)
+
+Omit “(1)”.
+
+## 480  At the end of subsection 13(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 481  Subsections 13(2) to (8)
+
+Repeal the subsections.
+
+## 482  Subsection 14(4)
+
+Omit “Paragraph 34AB(c)”, substitute “Paragraph 34AB(1)(c)”.
+
+As at 19 December 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1513,6 +1583,8 @@ _Australian Crime Commission Establishment Act 2002 (No. 125, 2002)_
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
