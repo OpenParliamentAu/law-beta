@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00180/Html/c52798df-10ac-4db7-99b9-007999b44dd5_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00116/Html/a3971220-c7bf-48ef-aa7c-5a7877dc32c0_files/image001.gif)
 
 # Mutual Assistance in Criminal Matters Act 1987
 
 **Act No. 85 of 1987 as amended**
 
-This compilation was prepared on 30 January 2012
+This compilation was prepared on 12 January 2012
  taking into account amendments up to Act No. 174 of 2011
 
 The text of any of those amendments not in force
@@ -2102,12 +2102,6 @@ the registration of the foreign restraining order or the foreign pecuniary penal
 
                      (c)  subject to section 35K, is not affected by any change of ownership of the property.
 
-             (4)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to the charge (to the extent, if any, to which that Act applies in relation to the property charged).
-
-Note 1:       The effect of this subsection is that the priority between the charge and a security interest in the property to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
-
-Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges created by this section after the commencement of subsection (4) (which is at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
-
 ##### <a id="35K"></a>35K  When the charge ceases to have effect
 
                    The charge ceases to have effect in respect of the property on the earliest of the following events:
@@ -2136,13 +2130,7 @@ Note 2:       Subsection 73(2) of the _Personal Property Securities 
 
              (4)  In this section:
 
-                    <a name="registr-author"></a>**_registration authority_**, in relation to property of a particular kind, means:
-
-                     (a)  an authority responsible for administering a law of the Commonwealth, a State or a Territory providing for registration of title to, or charges over, property of that kind; or
-
-                     (b)  the Registrar of Personal Property Securities, if the _Personal Property Securities Act 2009_ provides for the registration of data in relation to that kind of personal property for the purposes of paragraph 148(c) of that Act.
-
-Note:       The _Personal Property Securities Act 2009_ provides for the registration of such data if regulations are made for the purposes of paragraph 148(c) of that Act.
+                    <a name="registr-author"></a>**_registration authority_** means an authority responsible for administering a law of the Commonwealth, a State or a Territory providing for registration of title to, or charges over, property of a particular kind.
 
 ##### <a id="35M"></a>35M  When order ceases to be in force
 
@@ -3284,7 +3272,7 @@ Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44
     <div>6 July 2010</div>
   </td>
   <td>
-    <div>Schedule 3 (items 3, 4): 30 Jan 2012 ( <i>see</i>F2011L02397)</div>
+    <div>Schedule 3 (items 3, 4): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -4059,23 +4047,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
 </tr>
 <tr>
   <td>
-    <div>S. 35J</div>
-  </td>
-  <td>
-    <div>ad. No. 86, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 96, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35K</div>
+    <div>Ss. 35J, 35K</div>
   </td>
   <td>
     <div>ad. No. 86, 2002</div>
@@ -4094,7 +4066,7 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
     <div></div>
   </td>
   <td>
-    <div>am. No. 96, 2010; No. 174, 2011</div>
+    <div>am. No. 174, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4402,6 +4374,38 @@ _(g)_     The _Mutual Assistance in Criminal Matters Act 1987_ was amend
   </td>
 </tr></table>
 
+### Note 2
+
+_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
+
+The following amendments commence on 30 January 2012 (_see_ section 306 of the _Personal Property Securities Act 2009_ and F2011L02397):
+
+## Schedule 3
+
+## 3  At the end of section 35J
+
+Add:
+
+             (4)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to the charge (to the extent, if any, to which that Act applies in relation to the property charged).
+
+Note 1:       The effect of this subsection is that the priority between the charge and a security interest in the property to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
+
+Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to charges created by this section after the commencement of subsection (4) (which is at the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
+
+## 4  Subsection 35L(4) (definition of _registration authority_)
+
+Repeal the definition, substitute:
+
+                    <a name="registr-author"></a>**_registration authority_**, in relation to property of a particular kind, means:
+
+                     (a)  an authority responsible for administering a law of the Commonwealth, a State or a Territory providing for registration of title to, or charges over, property of that kind; or
+
+                     (b)  the Registrar of Personal Property Securities, if the _Personal Property Securities Act 2009_ provides for the registration of data in relation to that kind of personal property for the purposes of paragraph 148(c) of that Act.
+
+Note:       The _Personal Property Securities Act 2009_ provides for the registration of such data if regulations are made for the purposes of paragraph 148(c) of that Act.
+
+As at 12 January 2012 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4476,7 +4480,7 @@ Omit the definition, substitute the following definition:
 
 ## Subsection 3 (1): (Definition of _State_):
 
-Before “the Northern Territory” insert “the Australian Capital Territory and”.
+Before “the Northern Territory” insert “the Australian Capital   Territory and”.
 
 ## Subsection 3 (1): (Definition of _Territory_):
 
