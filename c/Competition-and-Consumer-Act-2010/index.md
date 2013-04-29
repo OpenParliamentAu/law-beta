@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00514/Html/b75fa236-8a84-46cc-971b-b3f83a9ffedc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00490/Html/124e7b74-2223-4742-a2e7-7388670a5c3b_files/image001.gif)
 
 # Competition and Consumer Act 2010
 
 **Act No. 51 of 1974 as amended**
 
-This compilation was prepared on 1 July 2012
+This compilation was prepared on 6 June 2012
  taking into account amendments up to Act No. 44 of 2012
 
 **Volume 1** includes:     Table of Contents
@@ -24,7 +24,7 @@ The operation of amendments that have been incorporated may be
                                      Table of Acts
                                      Act Notes
                                      Table of Amendments
-                                     Notes 2 – 4
+                                     Notes 2 – 7
                                      Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
@@ -238,7 +238,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44AJ](#44AJ).     How duty is imposed
 
-[44AK](#44AK).    When a State/Territory energy law etc  imposes a duty
+[44AK](#44AK).    When a State/Territory energy law imposes a duty
 
 [44AL](#44AL).     Powers of the AER
 
@@ -286,7 +286,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44AAE](#44AAE).  Resolutions without meetings
 
-44AAEAArbitration
+44AAEA  Arbitration
 
         **Subdivision D—Miscellaneous**
 
@@ -294,8 +294,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44AAG](#44AAG). Federal Court may make certain orders
 
-44AAGAFederal Court may order disconnection if an event 
- specified in the National Electricity Rules occurs
+44AAGA  Federal Court may order disconnection if an event specified in the National Electricity Rules occurs
 
 [44AAH](#44AAH). Delegation by the AER
 
@@ -509,7 +508,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44ZK](#44ZK).     Intimidation etc 
 
-[44ZL](#44ZL).     Party may request Commission to treat material as confidential
+[44ZL](#44ZL).     Party may request Commission to treat material as 
+ confidential
 
 [44ZM](#44ZM).    Sections 18 and 19 do not apply to the Commission in an arbitration
 
@@ -565,11 +565,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44ZZA](#44ZZA).  Access undertakings by providers
 
-44ZZAAAProposed amendments to access undertakings
+44ZZAAA  Proposed amendments to access undertakings
 
-44ZZAABAccess undertakings containing fixed principles
+44ZZAAB  Access undertakings containing fixed principles
 
-44ZZAAAccess codes prepared by industry bodies
+44ZZAA  Access codes prepared by industry bodies
 
 44ZZAB Commission may rely on industry body consultations
 
@@ -585,7 +585,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 44ZZBC Time limit for Commission decisions
 
-44ZZBCACommission may request information
+44ZZBCA  Commission may request information
 
 44ZZBD Commission may invite public submissions
 
@@ -607,7 +607,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 44ZZCB Deferring access disputes or access undertakings
 
-44ZZCBADeferral of arbitration if review is underway
+44ZZCBA  Deferral of arbitration if review is underway
 
 44ZZCC Overlap between determinations and access undertakings
 
@@ -637,21 +637,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [44ZZM](#44ZZM).  Commonwealth consent to conferral of functions etc  on the Commission or Tribunal by State or Territory laws
 
-44ZZMAHow duty is imposed
+44ZZMA  How duty is imposed
 
-44ZZMBWhen a law of a State or Territory imposes a duty
+44ZZMB  When a law of a State or Territory imposes a duty
 
 [44ZZN](#44ZZN).  Compensation for acquisition of property
 
-44ZZNAOperation of Parts IV and VII not affected by this Part
+44ZZNA  Operation of Parts IV and VII not affected by this Part
 
 [44ZZO](#44ZZO).  Conduct by directors, servants or agents
 
-44ZZOAAAInformation to be given to Tribunal
+44ZZOAAA  Information to be given to Tribunal
 
-44ZZOAATribunal only to consider particular material
+44ZZOAA  Tribunal only to consider particular material
 
-44ZZOATime limit for Tribunal decisions
+44ZZOA  Time limit for Tribunal decisions
 
 [44ZZP](#44ZZP).   Regulations about review by the Tribunal
 
@@ -695,7 +695,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 44ZZRL Conduct notified
 
-44ZZRMCartel provision subject to grant of authorisation
+44ZZRM  Cartel provision subject to grant of authorisation
 
 44ZZRN Contracts, arrangements or understandings between related bodies corporate
 
@@ -833,7 +833,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [77A](#77A).       Indemnification of officers
 
-[77B](#77B).       Certain indemnities not authorised and certain documents void
+[77B](#77B).       Certain indemnities not authorised and certain documents 
+ void
 
 [77C](#77C).       Application of section 77A to a person other than a body corporate
 
@@ -1091,11 +1092,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [95AZE](#95AZE).  Applicant may withdraw application
 
-95AZEATribunal must require Commission to give report
+95AZEA  Tribunal must require Commission to give report
 
 [95AZF](#95AZF).  Commission to assist Tribunal
 
-95AZFACommission may make enquiries
+95AZFA  Commission may make enquiries
 
 [95AZG](#95AZG).  Tribunal to make determination on application
 
@@ -1492,9 +1493,7 @@ were a corporation.
 
                      (b)  the National Gas (Commonwealth) Law and Regulations (as defined by the _Australian Energy Market Act 2004_); or
 
-                     (c)  the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations (as defined by the _Australian Energy Market Act 2004_); or
-
-                     (d)  the National Energy Retail Law and Regulations (Commonwealth) (as defined by the _Australian Energy Market Act 2004_).
+                     (c)  the Offshore Western Australian Pipelines (Commonwealth) Law and Regulations (as defined by the _Australian Energy Market Act 2004_).
 
                     <a name="docum"></a>**_document_** means any record of information, and includes:
 
@@ -1529,12 +1528,6 @@ were a corporation.
                      (c)  minerals, trees and crops, whether on, under or attached to land or not; and
 
                      (d)  gas and electricity.
-
-                    <a name="local-energi-instrum"></a>**_local energy instrument_** means a regulation, rule, order, declaration or other instrument if:
-
-                     (a)  the instrument is made or has effect under a law of a State or Territory; and
-
-                     (b)  the law of the State or Territory applies a uniform energy law as a law of its own jurisdiction.
 
                     <a name="member-commiss"></a>**_member of the Commission_** includes the Chairperson and a person appointed to act as a member of the Commission but does not include an associate member of the Commission.
 
@@ -1600,15 +1593,7 @@ but does not include rights or benefits being the supply of goods or the perform
 
                      (b)  any regulations, as in force from time to time, made under Part 4 of that Act.
 
-The reference in paragraph (a) to the National Electricity Law set out in the Schedule to the _National Electricity (South Australia) Act 1996_ of South Australia as in force from time to time includes a reference to any Rules or other instruments, as in force from time to time, made or having effect under that Law.
-
-                    <a name="south-australian-energi-retail-legisl"></a>**_South Australian Energy Retail Legislation_** means:
-
-                     (a)  the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time; and
-
-                     (b)  any regulations, as amended from time to time, made under Part 11 of the National Energy Retail Law.
-
-The reference in paragraph (a) to the National Energy Retail Law set out in the Schedule to the _National Energy Retail Law (South Australia) Act 2011_ of South Australia, as amended from time to time, includes a reference to any Rules or other instruments, as amended from time to time, made or having effect under that Law.
+The reference in paragraph (a) to the National Electricity Law set out in the Schedule to the _National Electricity (South Australia) Act 1996_ of South Australia as in force from time to time includes a reference to any Rules or other instruments, as in force from time to time, made or having effect under that Law.
 
                     <a name="south-australian-ga-legisl"></a>**_South Australian Gas Legislation_** means:
 
@@ -1671,8 +1656,6 @@ and, when used as a noun, has a corresponding meaning, and **_supplied_** and **
                      (b)  the South Australian Gas Legislation; or
 
                      (c)  the Western Australian Gas Legislation; or
-
-                    (ca)  the South Australian Energy Retail Legislation; or
 
                      (d)  provisions of a law of a State or Territory that:
 
@@ -2330,7 +2313,7 @@ the Minister shall terminate the appointment of that associate member of the Com
 
                    The Chairperson may give directions as to the arrangement of the business of the Commission.
 
-##### <a id="17"></a>17  Disclosure of interests by members
+##### <a id="17"></a>17  Disclosure of interests by members
 
              (1)  Where a member of the Commission other than the Chairperson is taking part, or is to take part, in the determination of a matter before the Commission and the member has or acquires any pecuniary interest that could conflict with the proper performance of his or her functions in relation to the determination of the matter:
 
@@ -2983,33 +2966,25 @@ Note:          The AER may have functions under the _Australia
 
 ##### <a id="44AI"></a>44AI   Commonwealth consent to conferral of functions etc. on AER
 
-General rule
+             (1)  A State/Territory energy law may confer functions or powers, or impose duties, on the AER for the purposes of that law.
 
-             (1)  A State/Territory energy law or a local energy instrument may confer functions or powers, or impose duties, on the AER for the purposes of that law or instrument.
+Note:          Section 44AK sets out when such a law imposes a duty on the AER.
 
-Note:          Section 44AK sets out when such a law or instrument imposes a duty on the AER.
-
-             (2)  Subsection (1) does not authorise the conferral of a function or power, or the imposition of a duty, by a State/Territory energy law or local energy instrument to the extent to which:
+             (2)  Subsection (1) does not authorise the conferral of a function or power, or the imposition of a duty, by a State/Territory energy law to the extent to which:
 
                      (a)  the conferral or imposition, or the authorisation, would contravene any constitutional doctrines restricting the duties that may be imposed on the AER; or
 
                      (b)  the authorisation would otherwise exceed the legislative power of the Commonwealth.
 
-             (3)  The AER cannot perform a duty or function, or exercise a power, under a State/Territory energy law or local energy instrument unless the conferral of the function or power, or the imposition of the duty, is in accordance with the Australian Energy Market Agreement, or any other relevant agreement between the Commonwealth and the State or Territory concerned.
-
-             (4)  A local energy instrument may confer functions or powers, or impose duties, on the AER only if the instrument is designated for the purposes of this subsection under the Australian Energy Market Agreement, or any other relevant agreement between the Commonwealth and the State or Territory that made the instrument.
-
-             (5)  To avoid doubt, if a State/Territory energy law is also a local energy instrument, subsection (4) applies to the law.
+             (3)  The AER cannot perform a duty or function, or exercise a power, under a State/Territory energy law unless the conferral of the function or power, or the imposition of the duty, is in accordance with the Australian Energy Market Agreement, or any other relevant agreement between the Commonwealth and the State or Territory concerned.
 
 ##### <a id="44AJ"></a>44AJ  How duty is imposed
 
 Application
 
-             (1)  This section applies if a State/Territory energy law or local energy instrument purports to impose a duty on the AER.
+             (1)  This section applies if a State/Territory energy law purports to impose a duty on the AER.
 
-Note 1:       Section 44AK sets out when such a law or instrument imposes a duty on the AER.
-
-Note 2:       Section 320 of the South Australian Energy Retail Legislation, as it applies as a law of a State or Territory, deals with the case where a duty purportedly imposed on a Commonwealth body under that applied law cannot be imposed by the State or Territory or the Commonwealth due to constitutional doctrines restricting such duties.
+Note:          Section 44AK sets out when such a law imposes a duty on the AER.
 
 State or Territory legislative power sufficient to support duty
 
@@ -3017,13 +2992,13 @@ State or Territory legislative power sufficient to support duty
 
                      (a)  imposing the duty is within the legislative powers of the State or Territory concerned; and
 
-                     (b)  imposing the duty by the law or instrument of the State or Territory is consistent with the constitutional doctrines restricting the duties that may be imposed on the AER.
+                     (b)  imposing the duty by the law of the State or Territory is consistent with the constitutional doctrines restricting the duties that may be imposed on the AER.
 
-Note:          If this subsection applies, the duty will be taken to be imposed by force of the law or instrument of the State or Territory (the Commonwealth having consented under section 44AI to the imposition of the duty by that law or instrument).
+Note:          If this subsection applies, the duty will be taken to be imposed by force of the law of the State or Territory (the Commonwealth having consented under section 44AI to the imposition of the duty by that law).
 
 Commonwealth legislative power sufficient to support duty but State or Territory legislative powers are not
 
-             (3)  If, to ensure the validity of the purported imposition of the duty, it is necessary that the duty be imposed by a law of the Commonwealth (rather than by the law or instrument of the State or Territory), the duty is taken to be imposed by this Part to the extent necessary to ensure that validity.
+             (3)  If, to ensure the validity of the purported imposition of the duty, it is necessary that the duty be imposed by a law of the Commonwealth (rather than by the law of the State or Territory), the duty is taken to be imposed by this Part to the extent necessary to ensure that validity.
 
              (4)  If, because of subsection (3), this Part is taken to impose the duty, it is the intention of the Parliament to rely on all powers available to it under the Constitution to support the imposition of the duty by this Part.
 
@@ -3035,11 +3010,11 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
              (6)  Subsections (1) to (5) do not limit section 44AI.
 
-##### <a id="44AK"></a>44AK  When a State/Territory energy law etc. imposes a duty
+##### <a id="44AK"></a>44AK  When a State/Territory energy law imposes a duty
 
-                   For the purposes of sections 44AI and 44AJ, a State/Territory energy law or local energy instrument **_imposes a duty_** on the AER if:
+                   For the purposes of sections 44AI and 44AJ, a State/Territory energy law **_imposes a duty_** on the AER if:
 
-                     (a)  the law or instrument confers a function or power on the AER; and
+                     (a)  the law confers a function or power on the AER; and
 
                      (b)  the circumstances in which the function or power is conferred give rise to an obligation on the AER to perform the function or to exercise the power.
 
@@ -3047,7 +3022,7 @@ Commonwealth legislative power sufficient to support duty but State or Territory
 
                    The AER has power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
 
-Note:          State and Territory laws or instruments may also confer powers on the AER in respect of its functions under those laws or instruments: see section 44AI.
+Note:          State and Territory laws may also confer powers on the AER in respect of its functions under those laws: see section 44AI.
 
 ### Division 4—Administrative provisions relating to the AER
 
@@ -3301,9 +3276,7 @@ Authorised use
 
                     (ca)  the Clean Energy Regulator;
 
-                   (cb)  the Climate Change Authority;
-
-                     (d)  any staff or consultant assisting a body mentioned in paragraph (a), (b), (c), (ca) or (cb) in performing its functions or exercising its powers;
+                     (d)  any staff or consultant assisting a body mentioned in paragraph (a), (b), (c) or (ca) in performing its functions or exercising its powers;
 
                      (e)  any other person or body prescribed by the regulations for the purpose of this paragraph.
 
@@ -7505,9 +7478,7 @@ Application
 
              (1)  This section applies if a State or Territory access regime law purports to impose a duty on the Commission or Tribunal.
 
-Note 1:       Section 44ZZMB sets out when such a law imposes a duty on the Commission or Tribunal.
-
-Note 2:       Section 320 of the South Australian Energy Retail Legislation, as it applies as a law of a State or Territory, deals with the case where a duty purportedly imposed on a Commonwealth body under that applied law cannot be imposed by the State or Territory or the Commonwealth due to constitutional doctrines restricting such duties.
+Note:          Section 44ZZMB sets out when such a law imposes a duty on the Commission or Tribunal.
 
 State or Territory legislative power sufficient to support duty
 
@@ -10937,7 +10908,7 @@ but that the person acted honestly and reasonably and, having regard to all the 
 
              (4)  The jurisdiction conferred by subsection (1) on the Federal Court is exclusive of the jurisdiction of any other court other than:
 
-                     (a)  the jurisdiction of the Federal Magistrates Court under subsection (1A); and
+                     (a)  the jurisdiction of the Federal Magistrates C  ourt under subsection (1A); and
 
                      (b)  the jurisdiction of the several courts of the States and Territories under subsection (2); and
 
@@ -11471,7 +11442,7 @@ the court hearing the proceedings may order that the defendant pay all or any of
 
              (2)  This diagram shows when this Division prevents an award of personal injury damages.
 
-![](http://www.comlaw.gov.au/Details/C2012C00514/Html/b75fa236-8a84-46cc-971b-b3f83a9ffedc_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00490/Html/124e7b74-2223-4742-a2e7-7388670a5c3b_files/image002.gif)
 
 ##### <a id="87G"></a>87G  Date of discoverability
 
@@ -11583,7 +11554,7 @@ in working out whether the period of 3 years after the date of discoverability, 
 
                      (b)  during a later year—the amount worked out (to the nearest multiple of $10) as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00514/Html/b75fa236-8a84-46cc-971b-b3f83a9ffedc_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00490/Html/124e7b74-2223-4742-a2e7-7388670a5c3b_files/image003.gif)
 
                             where:
 
@@ -12016,7 +11987,7 @@ the court must not award as personal injury damages for the services:
 
                    A court must not, in a proceeding to which this Part applies, award personal injury damages for economic loss due to the loss of employer superannuation contributions an amount that exceeds the following amount:
 
-![](http://www.comlaw.gov.au/Details/C2012C00514/Html/b75fa236-8a84-46cc-971b-b3f83a9ffedc_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00490/Html/124e7b74-2223-4742-a2e7-7388670a5c3b_files/image004.gif)
 
 where:
 
@@ -14728,7 +14699,7 @@ General notice
 
              (1)  An inquiry body must, as soon as practicable, give notice of an inquiry it is to hold.
 
-             (2)  The notice must be given in each State, the   Australian Capital Territory and the Northern Territory by advertisement published in the _Gazette_ and in a newspaper circulating in that State or Territory.
+             (2)  The notice must be given in each State, the Australian Capital Territory and the Northern Territory by advertisement published in the _Gazette_ and in a newspaper circulating in that State or Territory.
 
 Notice to particular person or persons
 
@@ -14842,7 +14813,7 @@ All inquiries
 
              (3)  For any inquiry, the inquiry body must, unless the Minister directs otherwise, make copies of the report on the inquiry available for public inspection as soon as practicable after the period of 28 days beginning on the day on which it gives the Minister the report.
 
-##### <a id="95Q"></a>95Q  Notification of proposed prices after receipt of report
+##### <a id="95Q"></a>95Q  Notification of proposed prices after receipt of report
 
              (1)  This section applies if a person receives a copy of a report on an inquiry held in relation to the supply by the person of goods or services of a particular description.
 
@@ -15882,7 +15853,7 @@ is, for the purposes of this Act other than this Part, to be taken to be a deter
 
                      (b)  once the Tribunal is so constituted—whether or not that member is part of the Division of the Tribunal so constituted.
 
-##### <a id="104"></a>104  Regulations as to certain matters
+##### <a id="104"></a>104  Regulations as to certain matters
 
                    The regulations may make provision:
 
