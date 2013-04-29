@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00570/Html/SydAirDemdMgmt1997WD02HYP_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00045/Html/SydAirDemdMgmt1997WD02_image001.gif)
 
 # Sydney Airport Demand Management Act 1997
 
 **Act No. 173 of 1997 as amended**
 
-This compilation was prepared on 16 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 12 January 2009
+ taking into account amendments up to Act No. 83 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1569,23 +1569,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (items 43, 45)</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 6 (items 1, 104): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -2052,27 +2035,6 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
     <div>am. No. 83, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendment commences on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Sydney Airport Demand Management Act 1997</h9>
-
-## 104  Section 5A
-
-_Note:       The heading to section 5A is altered by omitting “Trade Practices Act 1974” and substituting “Competition and Consumer Act 2010”._
-
-As at 16 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
