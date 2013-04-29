@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00374/Html/EvidenceAct1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00197/Html/EvidenceAct1995_WD02_image001.gif)
 
 # Evidence Act 1995
 
 **Act No. 2 of 1995 as amended**
 
-This compilation was prepared on 5 August 2009
- taking into account amendments up to Act No. 70 of 2009
+This compilation was prepared on 26 May 2009
+ taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1644,7 +1644,7 @@ Part 3.11 provides for the discretionary and mandatory exclusion of evidence e
 
                          The following diagram shows how this Chapter applies to particular evidence:
 
-![](http://www.comlaw.gov.au/Details/C2009C00374/Html/EvidenceAct1995_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00197/Html/EvidenceAct1995_WD02_image002.gif)
 
  
 
@@ -2002,7 +2002,7 @@ Note 1:       Sections 48, 49, 50, 146, 147 and subsection 150(1) 
 
 Note 2:       Section 182 gives this section a wider application in relation to Commonwealth records.
 
-##### <a id="70"></a>70  Exception: contents of tags, labels and writing
+##### <a id="70"></a>70  Exception: contents of tags, labels and writing
 
              (1)  The hearsay rule does not apply to a tag or label attached to, or writing placed on, an object (including a document) if the tag or label or writing may reasonably be supposed to have been so attached or placed:
 
@@ -2638,7 +2638,7 @@ credibility evidence about the person who made the representation is not admissi
 
 ##### <a id="109"></a>109  Application
 
-                   This Part applies only in a criminal proceeding.
+                   This Part applies only in a criminal proceeding.
 
 ##### <a id="110"></a>110  Evidence about character of accused persons
 
@@ -3460,7 +3460,7 @@ is not to be admitted unless the desirability of admitting the evidence outweigh
 
                      (h)  the difficulty (if any) of obtaining the evidence without impropriety or contravention of an Australian law.
 
-Note:          The International Covenant on Civil and Political Rights is set out in Schedule 2 to the _Australian Human Rights Commission Act 1986_.
+Note:          The International Covenant on Civil and Political Rights is set out in Schedule 2 to the _Human Rights and Equal Opportunity Commission Act 1986_.
 
 ##### <a id="139"></a>139  Cautioning of persons
 
@@ -4327,7 +4327,7 @@ Note:          Subsection 169(3) of the NSW Act differs from s
 
              (2)  A reference in this section to a statute of a foreign country includes a reference to a regulation or by-law of the country.
 
-##### <a id="175"></a>175  Evidence of law reports of foreign countries
+##### <a id="175"></a>175  Evidence of law reports of foreign countries
 
              (1)  Evidence of the unwritten or common law of a foreign country may be adduced by producing a book containing reports of judgments of courts of the country if the book is or would be used in the courts of the country to inform the courts about the unwritten or common law of the country.
 
@@ -4789,7 +4789,7 @@ unless the court gives leave.
 
                      (e)  the power (if any) of the court to adjourn the hearing or to make another order or to give a direction in relation to the evidence.
 
-##### <a id="192A"></a>192A  Advance rulings and findings
+##### <a id="192A"></a>192A  Advance rulings and findings
 
                    Where a question arises in any proceedings, being a question about:
 
@@ -5724,23 +5724,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 2 (item 30): 23 May 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Disability Discrimination and Other Human Rights Legislation Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>70, 2009</div>
-  </td>
-  <td>
-    <div>8 July 2009</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 32): 5 Aug 2009</div>
   </td>
   <td>
     <div>—</div>
@@ -6762,14 +6745,6 @@ _(h)_ The _Evidence Act 1995_ was amended by Schedule 3 (items 174 and 175) 
   </td>
   <td>
     <div>rs. No. 135, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 138(3)</div>
-  </td>
-  <td>
-    <div>am. No. 70, 2009</div>
   </td>
 </tr>
 <tr>
