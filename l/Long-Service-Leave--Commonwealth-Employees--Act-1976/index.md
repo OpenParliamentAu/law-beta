@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image001.gif)
 
 # Long Service Leave (Commonwealth Employees) Act 1976
 
 **Act No. 192 of 1976 as amended**
 
-This compilation was prepared on 15 February 2012
- taking into account amendments up to Act No. 170 of 2011
+This compilation was prepared on 23 November 2009
+ taking into account amendments up to Act No. 110 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -128,7 +128,7 @@ _Commonwealth Employees’ Furlough Act 1973._
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the _Australian Capital Territory__(Self-Government) Act 1988_.
 
                     <a name="act-teach-servic"></a>**_ACT teaching service_** means the service known on 1 November 1988 as the Commonwealth Teaching Service.
 
@@ -150,9 +150,9 @@ _Commonwealth Employees’ Furlough Act 1973._
 
                     <a name="categori-employe"></a>**_category A employee_** means:
 
-                     (a)  an employee the whole of whose employment that counts as employment in a qualifying service for the purposes of this Act has been employment in a full‑time capacity; or
+                     (a)  an employee the whole of whose employment that counts as employment in a qualifying service for the purposes of this Act has been employment in a full-time capacity; or
 
-                     (b)  an employee the whole of whose employment that counts as employment in a qualifying service for the purposes of this Act has been employment in a part‑time capacity.
+                     (b)  an employee the whole of whose employment that counts as employment in a qualifying service for the purposes of this Act has been employment in a part-time capacity.
 
                     <a name="categori-employe"></a>**_category B employee_** means an employee other than a category A employee.
 
@@ -200,7 +200,7 @@ _Commonwealth Employees’ Furlough Act 1973._
 
              (4)  For the purposes of references in this Act to a number of years (other than a reference to a number of completed years), the number of years shall be taken to be, where appropriate, a whole number and a fraction.
 
-             (5)  For the purposes of this Act, a member of the Defence Force shall be deemed to be employed in the Defence Force, and, in the case of a member not engaged on full‑time service, shall be deemed to be so employed while he or she is performing his or her duties as such a member.
+             (5)  For the purposes of this Act, a member of the Defence Force shall be deemed to be employed in the Defence Force, and, in the case of a member not engaged on full-time service, shall be deemed to be so employed while he or she is performing his or her duties as such a member.
 
              (6)  A reference in this Act to a person who is employed by, remunerated by, in the service of, on loan to or appointed or engaged by the Commonwealth shall be read as including a reference to a person who is employed by, remunerated by, in the service of, on loan to or appointed or engaged by:
 
@@ -222,7 +222,7 @@ _Commonwealth Employees’ Furlough Act 1973._
 
              (8)  Where:
 
-                     (a)  a provision of a law of the Commonwealth or of an internal Territory, other than an ACT enactment authorizes, whether expressly or otherwise, the Governor‑General or a Minister to grant leave of absence to the holder of an office established by, or of an appointment made under, that law; and
+                     (a)  a provision of a law of the Commonwealth or of an internal Territory, other than an ACT enactment authorizes, whether expressly or otherwise, the Governor-General or a Minister to grant leave of absence to the holder of an office established by, or of an appointment made under, that law; and
 
                      (b)  the holder of the office or appointment is, for the purposes of this Act, to be taken to be employed in Government Service by reason of holding the office or appointment;
 
@@ -274,7 +274,7 @@ _Commonwealth Employees’ Furlough Act 1973._
 
                      (c)  may be expressed to have effect in respect only of employment on or after a particular date, before a particular date or during a particular period.
 
-             (4)  This section has effect as if the Australian Capital Territory and the Northern Territory were States.
+             (4)  This section has effect as if the Australian   Capital Territory and the Northern Territory were States.
 
 ##### <a id="8"></a>8  Meaning of salary
 
@@ -326,15 +326,13 @@ for the purposes of this Act or of a provision of this Act.
 
                      (c)  the Secretary of another Department of the Parliament established under section 54 of the _Parliamentary Service Act 1999_;
 
-                    (ca)  the Parliamentary Budget Officer appointed under section 64X of that Act;
-
                      (d)  the Parliamentary Librarian appointed under section 38C of that Act;
 
                      (e)  a person engaged as an employee under section 22 of that Act.
 
 ##### <a id="10"></a>10  Meaning of employment in Government Service
 
-             (1)  Subject to this section, a person shall, for the purposes of this Act, be taken to be employed in Government Service if the person is employed by the Commonwealth, whether he or she is so employed under a law or under a contract of service or apprenticeship and whether he or she is employed in a full‑time or in a part‑time capacity.
+             (1)  Subject to this section, a person shall, for the purposes of this Act, be taken to be employed in Government Service if the person is employed by the Commonwealth, whether he or she is so employed under a law or under a contract of service or apprenticeship and whether he or she is employed in a full-time or in a part-time capacity.
 
              (2)  Without limiting by implication the generality of subsection (1), but subject to this section, a person:
 
@@ -348,7 +346,7 @@ shall, for the purposes of this Act, be deemed to be employed in Government Serv
 
              (3)  Subject to subsection (4), this Act does not apply to a person in respect of any period during which he or she held or holds office as a Judge as defined by section 4 of the _Judges’ Pensions Act 1968_.
 
-             (4)  If a person appointed as a Judge as defined by section 4 of the _Judges’ Pensions Act 1968_ was, immediately before his or her appointment, a person to whom this Act, an Act repealed by this Act or sections 73 and 74 of the _Public Service Act 1922_ applied, the person may, within 3 months after his or her appointment as a Judge or, if he or she was appointed as such a Judge before the commencement of this Act, within 3 months after the commencement of this Act, elect, by notice in writing to the Attorney‑General, that subsection (3) shall not apply to him or her and this Act shall then be deemed to have applied, or to apply, to and in relation to him or her in respect of any period during which he or she held or holds the appointment as if the performance of the duties of the appointment constituted employment in Government Service.
+             (4)  If a person appointed as a Judge as defined by section 4 of the _Judges’ Pensions Act 1968_ was, immediately before his or her appointment, a person to whom this Act, an Act repealed by this Act or sections 73 and 74 of the _Public Service Act 1922_ applied, the person may, within 3 months after his or her appointment as a Judge or, if he or she was appointed as such a Judge before the commencement of this Act, within 3 months after the commencement of this Act, elect, by notice in writing to the Attorney-General, that subsection (3) shall not apply to him or her and this Act shall then be deemed to have applied, or to apply, to and in relation to him or her in respect of any period during which he or she held or holds the appointment as if the performance of the duties of the appointment constituted employment in Government Service.
 
              (6)  Notwithstanding anything contained in subsection (1) or (2), a person:
 
@@ -362,7 +360,7 @@ shall, for the purposes of this Act, be deemed to be employed in Government Serv
 
                             who is remunerated, in respect of his or her performance of the duties of that appointment, by fees, allowances or commission;
 
-                   (ab)  who is the holder of a principal executive office within the meaning of the _Remuneration Tribunals Act 1973_(other than a principal executive office prescribed for the purposes of this paragraph);
+                    (ab)  who is the holder of a principal executive office within the meaning of the _Remuneration Tribunals Act 1973_(other than a principal executive office prescribed for the purposes of this paragraph);
 
                      (b)  who is a member of the Defence Force;
 
@@ -396,11 +394,11 @@ shall not be taken, by reason only of his or her being such a person, to be empl
 
                     (ca)  any service of an authority of the   Northern Territory, not being employment at a time when the authority was a public authority of the Commonwealth;
 
-                   (cb)  any service of an authority of the Australian Capital Territory, not being employment at a time when the authority was a public authority of the Commonwealth;
+                    (cb)  any service of an authority of the   Australian Capital Territory, not being employment at a time when the authority was a public authority of the Commonwealth;
 
                      (d)  any service of an authority established or constituted by or under a law of an external Territory;
 
-                     (e)  the Public Service of the former Territory of Nauru; or
+                     (e)  the Public Service of the former Territory  of Nauru; or
 
                       (f)  other relevant service;
 
@@ -456,19 +454,19 @@ and, subject to subsections (3) and (4), the person shall be deemed, for the p
 
              (5)  Where a continuous period of employment of a person in a qualifying service has commenced after, but not more than 12 months after, the expiration of a continuous period of previous employment of the person in a qualifying service, those periods of employment shall, for the purposes of this Act, be deemed to be continuous with one another.
 
-             (6)  For the purposes of subsection (5), where a person, having ceased to be employed in a qualifying service, has undertaken a course of full‑time training:
+             (6)  For the purposes of subsection (5), where a person, having ceased to be employed in a qualifying service, has undertaken a course of full-time training:
 
                      (a)  under a scheme established by the Commonwealth for the training of persons who have served in the Defence Force; or
 
                      (b)  under a prescribed training scheme;
 
-before resuming employment in a qualifying service, the resumption of his or her employment in a qualifying service shall be deemed to have occurred not more than 12 months after he or she ceased to be so employed if the period between his or her ceasing to be so employed and the resumption of that employment, less the period of his or her course of full‑time training under that scheme, does not exceed 12 months.
+before resuming employment in a qualifying service, the resumption of his or her employment in a qualifying service shall be deemed to have occurred not more than 12 months after he or she ceased to be so employed if the period between his or her ceasing to be so employed and the resumption of that employment, less the period of his or her course of full-time training under that scheme, does not exceed 12 months.
 
              (7)  Where a continuous period of employment of a person in a service, being Government Service or a service referred to in paragraph 11(2)(c), (d), (e) or (f), has commenced after, but not immediately after, the expiration of a continuous period of previous employment of the person in such a service, those periods of employment shall, for the purposes of this Act, be deemed to be continuous with one another if the approving authority is satisfied that:
 
-                     (a)  the termination of his or her employment at the expiration of that period of previous employment was due to ill‑health; and
+                     (a)  the termination of his or her employment at the expiration of that period of previous employment was due to ill-health; and
 
-                     (b)  the commencement of that first‑mentioned period of employment occurred not more than 12 months after his or her health became so restored as to enable him or her to perform duties of a kind that were suitable to be performed by him or her having regard to the duties performed by him or her immediately before the expiration of that period of previous employment.
+                     (b)  the commencement of that first-mentioned period of employment occurred not more than 12 months after his or her health became so restored as to enable him or her to perform duties of a kind that were suitable to be performed by him or her having regard to the duties performed by him or her immediately before the expiration of that period of previous employment.
 
              (8)  Where:
 
@@ -478,17 +476,17 @@ before resuming employment in a qualifying service, the resumption of his or her
 
 those periods of employment referred to in paragraph (a) or (b) of this subsection, whichever is applicable, shall, for the purposes of this Act, be deemed to be continuous with one another if the approving authority is satisfied that:
 
-                     (c)  the termination of his or her employment at the expiration of that period of previous employment was due to ill‑health;
+                     (c)  the termination of his or her employment at the expiration of that period of previous employment was due to ill-health;
 
-                     (d)  the person was, due to his or her ill‑health, unemployed for a period immediately following the expiration of that period of previous employment; and
+                     (d)  the person was, due to his or her ill-health, unemployed for a period immediately following the expiration of that period of previous employment; and
 
-                     (e)  the commencement of the period of employment first‑ mentioned in paragraph (a) or (b), whichever is applicable, occurred not more than 12 months after the expiration of the period of unemployment referred to in paragraph (d).
+                     (e)  the commencement of the period of employment first- mentioned in paragraph (a) or (b), whichever is applicable, occurred not more than 12 months after the expiration of the period of unemployment referred to in paragraph (d).
 
              (9)  A person shall not be deemed, for the purposes of this Act, to have been employed in a qualifying service during a period that would, but for subsection (5), (6), (7) or (8), have broken the continuity of his or her service.
 
            (10)  For the purposes of subsection (3), a person shall be taken to have been absent in respect of a period of specified defence service if he or she was, during that period, serving:
 
-                     (a)  on continuous full‑time service in the Reserves (within the meaning of the _Defence Act 1903_); or
+                     (a)  on continuous full-time service in the Reserves (within the meaning of the _Defence Act 1903_); or
 
                      (b)  in a part of the Reserves for such a period as was fixed by or in accordance with regulations in force under the _Defence Act 1903_, the _Naval Defence Act 1910_ or the _Air Force Act 1923_, as in force at the relevant time; or
 
@@ -502,7 +500,7 @@ those periods of employment referred to in paragraph (a) or (b) of this subsec
 
 and he or she is required to devote the whole of his or her time to the duties of the office.
 
-##### <a id="13"></a>13  Modifications of sections 11 and 12 in relation to service in the Independent   State of Papua New Guinea
+##### <a id="13"></a>13  Modifications of sections 11 and 12 in relation to service in the Independent  State of Papua New Guinea
 
              (1)  In this section:
 
@@ -552,27 +550,27 @@ the person:
 
              (6)  Where a continuous period of employment of a person to whom this section applies in a qualifying service has commenced after, but not more than 12 months after, the expiration of the period of his or her relevant employment, those periods of employment shall, for the purposes of this Act, be deemed to be continuous with one another.
 
-             (7)  For the purposes of subsection (6), where a person to whom this section applies has undertaken a course of full‑time training:
+             (7)  For the purposes of subsection (6), where a person to whom this section applies has undertaken a course of full-time training:
 
                      (a)  under a scheme established by the Commonwealth for the training of persons who have served in the Defence Force; or
 
                      (b)  under a training scheme that is a prescribed training scheme for the purposes of paragraph 12(6)(b);
 
-after the expiration of the period of his or her relevant employment and before he or she has become employed in a qualifying service, he or she shall be deemed to have become employed in the qualifying service not more than 12 months after the expiration of the period of his or her relevant employment if the period between the date of expiration of the period of his or her relevant employment and the date on which he or she became employed in the qualifying service, less the period of his or her course of full‑time training under that scheme, does not exceed 12 months.
+after the expiration of the period of his or her relevant employment and before he or she has become employed in a qualifying service, he or she shall be deemed to have become employed in the qualifying service not more than 12 months after the expiration of the period of his or her relevant employment if the period between the date of expiration of the period of his or her relevant employment and the date on which he or she became employed in the qualifying service, less the period of his or her course of full-time training under that scheme, does not exceed 12 months.
 
              (8)  Where a continuous period of employment of a person to whom this section applies in a service of a kind referred to in paragraph 11(2)(c), (d) or (f) has commenced after, but not immediately after, the expiration of the period of his or her relevant employment, those periods of employment shall, for the purposes of this Act, be deemed to be continuous with one another if the approving authority is satisfied that:
 
-                     (a)  the termination of his or her employment at the expiration of the period of his or her relevant employment was due to his or her ill‑health; and
+                     (a)  the termination of his or her employment at the expiration of the period of his or her relevant employment was due to his or her ill-health; and
 
-                     (b)  the commencement of that first‑mentioned period of employment occurred not more than 12 months after his or her health became so restored as to enable him or her to perform duties of a kind that were suitable to be performed by him or her having regard to the duties performed by him or her immediately before the expiration of the period of his or her relevant employment.
+                     (b)  the commencement of that first-mentioned period of employment occurred not more than 12 months after his or her health became so restored as to enable him or her to perform duties of a kind that were suitable to be performed by him or her having regard to the duties performed by him or her immediately before the expiration of the period of his or her relevant employment.
 
              (9)  Where a continuous period of employment of a person to whom this section applies in a service of a kind referred to in paragraph 11(2)(a) or (b) has commenced after, but not immediately after, the termination of the period of his or her relevant employment, those periods of employment shall, for the purposes of this Act, be deemed to be continuous with one another if the approving authority is satisfied that:
 
-                     (a)  the termination of his or her employment at the expiration of his or her period of relevant employment was due to his or her ill‑health;
+                     (a)  the termination of his or her employment at the expiration of his or her period of relevant employment was due to his or her ill-health;
 
-                     (b)  he or she was, due to his or her ill‑health, unemployed for a period immediately following the expiration of the period of his or her relevant employment; and
+                     (b)  he or she was, due to his or her ill-health, unemployed for a period immediately following the expiration of the period of his or her relevant employment; and
 
-                     (c)  he or she became employed in that first‑mentioned employment not more than 12 months after the expiration of the period of unemployment referred to in paragraph (b).
+                     (c)  he or she became employed in that first-mentioned employment not more than 12 months after the expiration of the period of unemployment referred to in paragraph (b).
 
            (10)  Where, by virtue of subsection (6), (7), (8) or (9), 2 periods of employment of a person to whom this section applies are to be deemed to be continuous with one another although they are separated by another period, the person shall not, by virtue of that subsection, be deemed to be employed in a qualifying service during that other period.
 
@@ -590,11 +588,11 @@ after the expiration of the period of his or her relevant employment and before 
 
                      (b)  subsection (4) shall, if applicable, be applied before subsection (5).
 
-             (3)  Where, on the day on which leave is granted to an employee under this Act or an employee ceases to be an employee, the employee is also employed in a qualifying service other than Government Service, so much of his or her current period of employment in that first‑mentioned service as is or was concurrent with any of his or her employment in Government Service does not count as employment in that first‑mentioned service.
+             (3)  Where, on the day on which leave is granted to an employee under this Act or an employee ceases to be an employee, the employee is also employed in a qualifying service other than Government Service, so much of his or her current period of employment in that first-mentioned service as is or was concurrent with any of his or her employment in Government Service does not count as employment in that first-mentioned service.
 
-             (4)  Where a person is or was employed in a qualifying service in a full‑time capacity, any employment in a qualifying service in a part‑time capacity that is or was concurrent with that first‑mentioned employment does not count as employment in such a service.
+             (4)  Where a person is or was employed in a qualifying service in a full-time capacity, any employment in a qualifying service in a part-time capacity that is or was concurrent with that first-mentioned employment does not count as employment in such a service.
 
-             (5)  Where a person who is or was employed in a qualifying service in a part‑time capacity renders or rendered on a day service for a period in accordance with the terms of his or her employment and the person also renders or rendered service for a further period on that day in accordance with the terms of other employment in a part‑time capacity in a qualifying service, his or her period of employment on that day shall be taken to be a period equal to the sum of those periods.
+             (5)  Where a person who is or was employed in a qualifying service in a part-time capacity renders or rendered on a day service for a period in accordance with the terms of his or her employment and the person also renders or rendered service for a further period on that day in accordance with the terms of other employment in a part-time capacity in a qualifying service, his or her period of employment on that day shall be taken to be a period equal to the sum of those periods.
 
              (6)  This section applies in relation to the employment of an employee to whom section 13 applies during the period referred to in that section as the period of his or her relevant employment as if:
 
@@ -634,9 +632,9 @@ after the expiration of the period of his or her relevant employment and before 
 
                      (a)  in the case of a category A employee—long service leave on full salary for a period not exceeding his or her long service leave credit at that time; or
 
-                     (b)  in the case of a category B employee—long service leave on full salary in relation to his or her full‑time service for a period not exceeding his or her long service leave credit related to his or her full‑time service at that time or long service leave on full salary in relation to his or her part‑time service for a period not exceeding his or her long service leave credit related to his or her part‑time service at that time or both.
+                     (b)  in the case of a category B employee—long service leave on full salary in relation to his or her full-time service for a period not exceeding his or her long service leave credit related to his or her full-time service at that time or long service leave on full salary in relation to his or her part-time service for a period not exceeding his or her long service leave credit related to his or her part-time service at that time or both.
 
-             (3)  Where a period of long service leave may at any time be granted to an employee under subsection (2), the approving authority may, at the request of the employee, grant to him or her long service leave on half salary for a period not exceeding twice that first‑mentioned period.
+             (3)  Where a period of long service leave may at any time be granted to an employee under subsection (2), the approving authority may, at the request of the employee, grant to him or her long service leave on half salary for a period not exceeding twice that first-mentioned period.
 
              (4)  Subject to subsections (5) and (6), where an employee whose period of service is at least 10 years ceases to be an employee otherwise than by death, the approving authority shall authorize payment to him or her of an amount equal to:
 
@@ -644,9 +642,9 @@ after the expiration of the period of his or her relevant employment and before 
 
                      (b)  in the case of a category B employee—the sum of:
 
-                              (i)  the amount of salary that would be payable to him or her for a period of service equal to the period of his or her long service leave credit related to his or her full‑time service immediately before he or she ceases to be an employee if salary were payable to him or her in respect of that period at the rate that is, by virtue of section 21, the rate applicable to him or her in relation to his or her long service leave related to his or her full‑time service immediately before he or she ceases to be an employee; and
+                              (i)  the amount of salary that would be payable to him or her for a period of service equal to the period of his or her long service leave credit related to his or her full-time service immediately before he or she ceases to be an employee if salary were payable to him or her in respect of that period at the rate that is, by virtue of section 21, the rate applicable to him or her in relation to his or her long service leave related to his or her full-time service immediately before he or she ceases to be an employee; and
 
-                             (ii)  the amount of salary that would be payable to him or her for a period of service equal to the period of his or her long service leave credit related to his or her part‑time service immediately before he or she ceases to be an employee if salary were payable to him or her in respect of that period at the rate that is, by virtue of section 21, the rate applicable to him or her in relation to his or her long service leave related to his or her part‑time service immediately before he or she ceases to be an employee.
+                             (ii)  the amount of salary that would be payable to him or her for a period of service equal to the period of his or her long service leave credit related to his or her part-time service immediately before he or she ceases to be an employee if salary were payable to him or her in respect of that period at the rate that is, by virtue of section 21, the rate applicable to him or her in relation to his or her long service leave related to his or her part-time service immediately before he or she ceases to be an employee.
 
              (5)  Subsection (4) does not apply to an employee who requests the approving authority in writing, before he or she ceases to be an employee, not to authorize payment to him or her under that subsection.
 
@@ -666,7 +664,7 @@ the approving authority may grant to him or her long service leave on full salar
 
                      (c)  in the case of a category A employee—long service leave for a period not exceeding his or her long service leave credit immediately before he or she commences that leave; or
 
-                     (d)  in the case of a category B employee—long service leave in relation to his or her full‑time service for a period not exceeding his or her long service leave credit related to his or her full‑time service, and long service leave in relation to his or her part‑time service for a period not exceeding his or her long service leave credit related to his or her part‑time service, immediately before he or she commences whichever of those periods of leave he or she commences first.
+                     (d)  in the case of a category B employee—long service leave in relation to his or her full-time service for a period not exceeding his or her long service leave credit related to his or her full-time service, and long service leave in relation to his or her part-time service for a period not exceeding his or her long service leave credit related to his or her part-time service, immediately before he or she commences whichever of those periods of leave he or she commences first.
 
              (2)  Subject to subsections (3) and (4), where an employee whose period of service is less than 10 years but not less than 1 year:
 
@@ -682,9 +680,9 @@ the approving authority shall authorize payment to him or her:
 
                      (e)  in the case of a category B employee—of an amount equal to the sum of:
 
-                              (i)  the amount of salary that would be payable to him or her in respect of a period of service equal to the period of his or her long service leave credit related to his or her full‑time service immediately before he or she ceases to be an employee if salary were payable to him or her in respect of that period at the rate that is, by virtue of section 21, the rate applicable to him or her in relation to his or her long service leave related to his or her full‑time service immediately before he or she ceases to be an employee; and
+                              (i)  the amount of salary that would be payable to him or her in respect of a period of service equal to the period of his or her long service leave credit related to his or her full-time service immediately before he or she ceases to be an employee if salary were payable to him or her in respect of that period at the rate that is, by virtue of section 21, the rate applicable to him or her in relation to his or her long service leave related to his or her full-time service immediately before he or she ceases to be an employee; and
 
-                             (ii)  the amount of salary that would be payable to him or her for a period of service equal to the period of his or her long service leave credit related to his or her part‑time service immediately before he or she ceases to be an employee if salary were payable to him or her in respect of that period at the rate that is, by virtue of section 21, the rate applicable to him or her in relation to his or her long service leave related to his or her part‑time service immediately before he or she ceases to be an employee.
+                             (ii)  the amount of salary that would be payable to him or her for a period of service equal to the period of his or her long service leave credit related to his or her part-time service immediately before he or she ceases to be an employee if salary were payable to him or her in respect of that period at the rate that is, by virtue of section 21, the rate applicable to him or her in relation to his or her long service leave related to his or her part-time service immediately before he or she ceases to be an employee.
 
              (3)  Subsection (2) does not apply to an employee who requests the approving authority in writing, before he or she ceases to be an employee, not to authorize a payment to him or her under that subsection.
 
@@ -698,7 +696,7 @@ the approving authority shall authorize payment to him or her:
 
                      (a)  the long service leave credit of a category A employee on a day is the period equal to the number of months ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image002.gif)
 
                             where:
 
@@ -706,25 +704,25 @@ the approving authority shall authorize payment to him or her:
 
 **_b_** is the number of months comprised in the period or the sum of the periods of long service leave (if any) previously granted to him or her;
 
-                     (b)  the long service leave credit related to the full‑time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
+                     (b)  the long service leave credit related to the full-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image003.gif)
-
-                            where:
-
-**_c_** is the number of years comprised in a period equal to the period, or the sum of the periods, of his or her employment in a full‑time capacity included in the part of his or her period of service that accrued before the prescribed day; and
-
-**_d_** is the number of months comprised in the period, or the sum of the periods, of long service leave (if any) previously granted to him or her in relation to his or her full‑time service; and
-
-                     (c)  the long service leave credit related to the part‑time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
-
-![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image003.gif)
 
                             where:
 
-**_e_** is the number of years comprised in a period equal to the period, or the sum of the periods, of his or her employment in a part‑time capacity included in the part of his or her period of service that accrued before the prescribed day; and
+**_c_** is the number of years comprised in a period equal to the period, or the sum of the periods, of his or her employment in a full-time capacity included in the part of his or her period of service that accrued before the prescribed day; and
 
-**_f_** is the number of months comprised in the period, or the sum of the periods, of long service leave (if any) previously granted to him or her in relation to his or her part‑time service.
+**_d_** is the number of months comprised in the period, or the sum of the periods, of long service leave (if any) previously granted to him or her in relation to his or her full-time service; and
+
+                     (c)  the long service leave credit related to the part-time service of a category B employee on a day is the period equal to the number of months ascertained in accordance with the formula: 
+
+![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image004.gif)
+
+                            where:
+
+**_e_** is the number of years comprised in a period equal to the period, or the sum of the periods, of his or her employment in a part-time capacity included in the part of his or her period of service that accrued before the prescribed day; and
+
+**_f_** is the number of months comprised in the period, or the sum of the periods, of long service leave (if any) previously granted to him or her in relation to his or her part-time service.
 
              (2)  In this section, **_prescribed day_** means:
 
@@ -738,9 +736,9 @@ the approving authority shall authorize payment to him or her:
 
                      (a)  a reference to a period of long service leave granted to him or her is a reference to a period of long service leave granted to him or her, whether before or after the commencement of this Act, under this Act or otherwise in respect of a period of his or her employment that is included in his or her period of service;
 
-                     (b)  a reference to a period of long service leave granted to him or her in relation to his or her full‑time service is a reference to a period of long service leave granted to him or her, whether before or after the commencement of this Act, under this Act or otherwise in respect of a period of employment in a full‑time capacity that is included in his or her period of service; and
+                     (b)  a reference to a period of long service leave granted to him or her in relation to his or her full-time service is a reference to a period of long service leave granted to him or her, whether before or after the commencement of this Act, under this Act or otherwise in respect of a period of employment in a full-time capacity that is included in his or her period of service; and
 
-                     (c)  a reference to a period of long service leave granted to him or her in relation to his or her part‑time service is a reference to a period of long service leave granted to him or her, whether before or after the commencement of this Act, under this Act or otherwise in respect of a period of employment in a part‑time capacity that is included in his or her period of service.
+                     (c)  a reference to a period of long service leave granted to him or her in relation to his or her part-time service is a reference to a period of long service leave granted to him or her, whether before or after the commencement of this Act, under this Act or otherwise in respect of a period of employment in a part-time capacity that is included in his or her period of service.
 
              (2)  In the application of section 18, to and in relation to an employee:
 
@@ -748,31 +746,31 @@ the approving authority shall authorize payment to him or her:
 
                      (b)  if the approving authority is satisfied that long service leave that was granted to the employee otherwise than under this Act, under any of the Acts repealed by this Act or under the _Public Service Act 1922_ in respect of a period of employment included in his or her period of service for the purposes of this Act was not granted to him or her on full salary or half salary having regard to the terms and conditions of the employment, the period of that long service leave shall be deemed to have been such a period as is determined by the approving authority to be the period of long service leave that the employee would have been granted in respect of that employment if he or she had been granted long service leave on full salary;
 
-                     (c)  if the employee has been paid an amount under this Act, under any of the Acts repealed by this Act or under section 54C, 73, 74, 75A, 81K or 81V of the _Public Service Act 1922_ in respect of a period of employment in a full‑time capacity, or in respect of a period of employment in a part‑time capacity, that is included in his or her period of service for the purposes of this Act, the employee shall be deemed to have been granted, on the day on which that payment was made to him or her, a period of long service leave in relation to his or her full‑time service or to his or her part‑time service, as the case may be, equal to the period of long service leave on full salary in relation to which that payment was made to him or her; and
+                     (c)  if the employee has been paid an amount under this Act, under any of the Acts repealed by this Act or under section 54C, 73, 74, 75A, 81K or 81V of the _Public Service Act 1922_ in respect of a period of employment in a full-time capacity, or in respect of a period of employment in a part-time capacity, that is included in his or her period of service for the purposes of this Act, the employee shall be deemed to have been granted, on the day on which that payment was made to him or her, a period of long service leave in relation to his or her full-time service or to his or her part-time service, as the case may be, equal to the period of long service leave on full salary in relation to which that payment was made to him or her; and
 
-                     (d)  if the employee has, in circumstances that are similar to the circumstances in which an amount is payable to an employee under section 16 or 17, been paid an amount otherwise than under this Act or a section of the _Public Service Act 1922_ referred to in paragraph (c) in respect of a period of employment in a full‑time capacity, or in respect of a period of employment in a part‑time capacity, that is included in his or her period of service for the purposes of this Act, the employee shall be deemed to have been granted, on the day on which that payment was made to him or her, such a period of long service leave in relation to his or her full‑time service or in relation to his or her part‑time service, as the case may be, as is determined by the approving authority to be equal to the period of his or her employment in respect of which that payment represented full salary.
+                     (d)  if the employee has, in circumstances that are similar to the circumstances in which an amount is payable to an employee under section 16 or 17, been paid an amount otherwise than under this Act or a section of the _Public Service Act 1922_ referred to in paragraph (c) in respect of a period of employment in a full-time capacity, or in respect of a period of employment in a part-time capacity, that is included in his or her period of service for the purposes of this Act, the employee shall be deemed to have been granted, on the day on which that payment was made to him or her, such a period of long service leave in relation to his or her full-time service or in relation to his or her part-time service, as the case may be, as is determined by the approving authority to be equal to the period of his or her employment in respect of which that payment represented full salary.
 
 ##### <a id="20"></a>20  Rate of salary while absent on long service leave
 
              (1)  Where a period of long service leave is granted under section 16 or 17 to a category A employee on full salary, salary is payable to the employee in respect of any part of the leave:
 
-                     (a)  if the employee has been employed in a full‑time capacity throughout his or her period of service—at the rate that is his or her current rate of salary in respect of that part of the leave;
+                     (a)  if the employee has been employed in a full-time capacity throughout his or her period of service—at the rate that is his or her current rate of salary in respect of that part of the leave;
 
-                     (b)  if the employee has been employed in a part‑time capacity throughout his or her period of service and there has been no change during that period in the number of hours per week for which the employee has, by the terms of his or her employment, been required to render service—at the rate per week at which salary would be payable to him or her in respect of that part of the leave if he or she were not absent on long service leave but were continuing to render service for that number of hours per week in the capacity in which he or she was employed on the relevant day; or
+                     (b)  if the employee has been employed in a part-time capacity throughout his or her period of service and there has been no change during that period in the number of hours per week for which the employee has, by the terms of his or her employment, been required to render service—at the rate per week at which salary would be payable to him or her in respect of that part of the leave if he or she were not absent on long service leave but were continuing to render service for that number of hours per week in the capacity in which he or she was employed on the relevant day; or
 
-                     (c)  if the employee has been employed in a part‑time capacity throughout his or her period of service but there has been a change during that period in the number of hours per week for which he or she was required by the terms of his or her employment to render service—at the rate per week ascertained by multiplying the relevant rate per hour in respect of that part of the leave by a number equal to the prescribed average number of hours of his or her service.
+                     (c)  if the employee has been employed in a part-time capacity throughout his or her period of service but there has been a change during that period in the number of hours per week for which he or she was required by the terms of his or her employment to render service—at the rate per week ascertained by multiplying the relevant rate per hour in respect of that part of the leave by a number equal to the prescribed average number of hours of his or her service.
 
-             (2)  Where a period of long service leave on full salary is granted under section 16 or 17 to a category B employee who is employed in a full‑time capacity on the relevant day:
+             (2)  Where a period of long service leave on full salary is granted under section 16 or 17 to a category B employee who is employed in a full-time capacity on the relevant day:
 
-                     (a)  salary is payable to the employee in respect of any part of that leave that is granted to him or her in relation to his or her full‑time service—at the rate that is his or her current rate of salary in respect of that part of the leave; and
+                     (a)  salary is payable to the employee in respect of any part of that leave that is granted to him or her in relation to his or her full-time service—at the rate that is his or her current rate of salary in respect of that part of the leave; and
 
-                     (b)  salary is payable to him or her in respect of any part of that leave that is granted to him or her in relation to his or her part‑time service—at a weekly rate, being the lesser of:
+                     (b)  salary is payable to him or her in respect of any part of that leave that is granted to him or her in relation to his or her part-time service—at a weekly rate, being the lesser of:
 
                               (i)  the rate that is his or her current rate of salary per week in respect of that part of the leave; and
 
                              (ii)  the rate per week ascertained in accordance with the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2012C00232/Html/28c69f9e-a887-4343-8968-54233a51199e_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00530/Html/LongServiceLeaveCE1976WD02_image005.gif)
 
                                    where:
 
@@ -782,11 +780,11 @@ the approving authority shall authorize payment to him or her:
 
 **_c_** is the number of hours of service that he or she was, on the relevant day, required by the terms of his or her employment to render during a week.
 
-             (3)  Where a period of long service leave on full salary is granted under section 16 or 17 to a category B employee who is employed in a part‑time capacity on the relevant day:
+             (3)  Where a period of long service leave on full salary is granted under section 16 or 17 to a category B employee who is employed in a part-time capacity on the relevant day:
 
-                     (a)  salary is payable to him or her in respect of any part of the leave that is granted to him or her in relation to his or her full‑time service—at the rate at which salary would be payable to him or her in respect of that part of the leave if he or she were not on long service leave but were rendering full‑time service in the capacity in which he or she was employed on the relevant day; and
+                     (a)  salary is payable to him or her in respect of any part of the leave that is granted to him or her in relation to his or her full-time service—at the rate at which salary would be payable to him or her in respect of that part of the leave if he or she were not on long service leave but were rendering full-time service in the capacity in which he or she was employed on the relevant day; and
 
-                     (b)  salary is payable to him or her in respect of any part of the leave that is granted in relation to his or her part‑time service—at the rate per week ascertained by multiplying his or her relevant rate per hour in respect of that part of the leave by a number equal to the prescribed average number of hours of his or her service.
+                     (b)  salary is payable to him or her in respect of any part of the leave that is granted in relation to his or her part-time service—at the rate per week ascertained by multiplying his or her relevant rate per hour in respect of that part of the leave by a number equal to the prescribed average number of hours of his or her service.
 
              (4)  In this section:
 
@@ -798,13 +796,13 @@ the approving authority shall authorize payment to him or her:
 
                               (i)  his or her average number of hours of employment per week during the relevant period; or
 
-                             (ii)  if the employee satisfies the approving authority that his or her average number of hours of employment per week during the relevant period is less than his or her average number of hours of employment per week during his or her period of service—that last‑mentioned average number of hours; and
+                             (ii)  if the employee satisfies the approving authority that his or her average number of hours of employment per week during the relevant period is less than his or her average number of hours of employment per week during his or her period of service—that last-mentioned average number of hours; and
 
                      (b)  in relation to a category B employee who is granted a period of long service leave:
 
                               (i)  his or her average number of hours of employment per week during the relevant period; or
 
-                             (ii)  if the employee satisfies the approving authority that his or her average number of hours of employment per week during the relevant period is less than his or her average number of hours of employment per week throughout his or her period or periods of employment in a part‑time capacity included in his or her period of service—that last‑mentioned average number of hours.
+                             (ii)  if the employee satisfies the approving authority that his or her average number of hours of employment per week during the relevant period is less than his or her average number of hours of employment per week throughout his or her period or periods of employment in a part-time capacity included in his or her period of service—that last-mentioned average number of hours.
 
                     <a name="relev-dai"></a>**_relevant day_**, in relation to an employee who has been granted long service leave, means the day immediately preceding the day on which that leave commences.
 
@@ -814,11 +812,11 @@ the approving authority shall authorize payment to him or her:
 
                      (b)  in relation to a category B employee who has been granted a period of long service leave:
 
-                              (i)  the period of, or the periods aggregating, 12 months during which he or she was last employed in a part‑time capacity before the day on which the leave commences; or
+                              (i)  the period of, or the periods aggregating, 12 months during which he or she was last employed in a part-time capacity before the day on which the leave commences; or
 
-                             (ii)  if he or she has not been employed in a part‑time capacity for 12 months—the period or periods during which he or she has been employed in a part‑time capacity.
+                             (ii)  if he or she has not been employed in a part-time capacity for 12 months—the period or periods during which he or she has been employed in a part-time capacity.
 
-                    <a name="relev-rate-per-hour"></a>**_relevant rate per hour_**, in relation to a part of a period of long service leave that has been granted to an employee who was employed in a part‑time capacity on the relevant day, means the rate per hour at which salary would be payable to him or her in respect of that part of the leave if he or she were not absent on long service leave but were continuing to render part‑time service in the capacity in which he or she was employed on the relevant day.
+                    <a name="relev-rate-per-hour"></a>**_relevant rate per hour_**, in relation to a part of a period of long service leave that has been granted to an employee who was employed in a part-time capacity on the relevant day, means the rate per hour at which salary would be payable to him or her in respect of that part of the leave if he or she were not absent on long service leave but were continuing to render part-time service in the capacity in which he or she was employed on the relevant day.
 
 ##### <a id="21"></a>21  Rate of salary in relation to pay in lieu of leave
 
@@ -826,13 +824,13 @@ the approving authority shall authorize payment to him or her:
 
                      (a)  the rate applicable to him or her in relation to his or her long service leave;
 
-                     (b)  the rate applicable to him or her in relation to his or her long service leave related to his or her full‑time service; or
+                     (b)  the rate applicable to him or her in relation to his or her long service leave related to his or her full-time service; or
 
-                     (c)  the rate applicable to him or her in relation to his or her long service leave related to his or her part‑time service;
+                     (c)  the rate applicable to him or her in relation to his or her long service leave related to his or her part-time service;
 
 immediately before he or she ceases to be an employee is the rate at which full salary would be payable to him or her in respect of his or her employment on the day on which he or she ceases to be an employee (in this section referred to as **_the terminating day_**) if:
 
-                     (d)  he or she were absent from duty on the terminating day in accordance with a period of long service leave, long service leave related to his or her full‑time service or long service leave related to his or her part‑time service, as the case requires, that had been granted to him or her on full salary to commence on the terminating day; and
+                     (d)  he or she were absent from duty on the terminating day in accordance with a period of long service leave, long service leave related to his or her full-time service or long service leave related to his or her part-time service, as the case requires, that had been granted to him or her on full salary to commence on the terminating day; and
 
                      (e)  on the day immediately before the terminating day he or she had completed the period of service that he or she completes on the terminating day.
 
@@ -866,7 +864,7 @@ immediately before he or she ceases to be an employee is the rate at which full 
 
 ##### <a id="24"></a>24  Transitional provision
 
-             (1)  Where an employee ceased to be an employee on or after 1 January 1973 and before the commencement of this Act and the amount that the approving authority could have authorized to be paid to or in relation to him or her under this Act upon his or her ceasing to be such an employee if this Act and the _Public Service Amendment Act 1976_ had come into operation on that first‑mentioned date exceeds that amount (if any) or the sum of the amounts (if any) that have been authorized or are authorized to be paid to or in relation to him or her under whichever of the relevant provisions were applicable to the employee:
+             (1)  Where an employee ceased to be an employee on or after 1 January 1973 and before the commencement of this Act and the amount that the approving authority could have authorized to be paid to or in relation to him or her under this Act upon his or her ceasing to be such an employee if this Act and the _Public Service Amendment Act 1976_ had come into operation on that first-mentioned date exceeds that amount (if any) or the sum of the amounts (if any) that have been authorized or are authorized to be paid to or in relation to him or her under whichever of the relevant provisions were applicable to the employee:
 
                      (a)  if the employee ceased to be an employee by reason of his or her death:
 
@@ -906,11 +904,11 @@ immediately before he or she ceases to be an employee is the rate at which full 
 
                              (ii)  employed in the teaching service of South Australia and engaged in teaching duties in a Commonwealth school in the Northern Territory; or
 
-                     (b)  a member of the Service who became such a member after 31 December 1976 and before 1 April 1977 and was, immediately before becoming such a member, employed in the teaching service of New South Wales and engaged in full‑time teaching duties in the Australian Capital Territory in connection with the provision of technical and further education, that is to say, education provided by way of a course of instruction or training:
+                     (b)  a member of the Service who became such a member after 31 December 1976 and before 1 April 1977 and was, immediately before becoming such a member, employed in the teaching service of New South Wales and engaged in full-time teaching duties in the Australian Capital Territory in connection with the provision of technical and further education, that is to say, education provided by way of a course of instruction or training:
 
                               (i)  that is, or that is preparatory to, a course of a kind relevant to a trade, technical or other skilled occupation; or
 
-                             (ii)  that otherwise meets the educational needs of persons who are not enrolled in a full‑time course of education at a primary school, a secondary school or a secondary college.
+                             (ii)  that otherwise meets the educational needs of persons who are not enrolled in a full-time course of education at a primary school, a secondary school or a secondary college.
 
                     <a name="relev-date"></a>**_relevant date_** means:
 
@@ -922,9 +920,9 @@ immediately before he or she ceases to be an employee is the rate at which full 
 
                     <a name="servic"></a>**_Service_** means the Commonwealth Teaching Service established by the _Commonwealth Teaching Service Act 1972_.
 
-             (2)  Where, at any time, in the application to or in relation to a prescribed teacher of this Act, the period of long service leave to which he or she would, but for this section, be entitled, or the amount of pay in lieu of long service leave that would, but for this section, be payable to or in relation to him or her, under this Act is less than the period of leave to which he or she would be entitled, or the amount that would be payable to or in relation to him or her, as the case may be, if the scale of accrual of long service leave that would have been applicable in relation to him or her under the law of the relevant State as in force on the relevant date if he or she had continued to be employed in the teaching service of the relevant State were substituted for the scale of accrual of long service leave applicable to him or her at that time under this Act, the period of long service leave to which he or she is entitled, or the amount of pay in lieu of long service leave payable to or in relation to him or her, as the case may be, shall be determined in accordance with the first‑mentioned scale of accrual.
+             (2)  Where, at any time, in the application to or in relation to a prescribed teacher of this Act, the period of long service leave to which he or she would, but for this section, be entitled, or the amount of pay in lieu of long service leave that would, but for this section, be payable to or in relation to him or her, under this Act is less than the period of leave to which he or she would be entitled, or the amount that would be payable to or in relation to him or her, as the case may be, if the scale of accrual of long service leave that would have been applicable in relation to him or her under the law of the relevant State as in force on the relevant date if he or she had continued to be employed in the teaching service of the relevant State were substituted for the scale of accrual of long service leave applicable to him or her at that time under this Act, the period of long service leave to which he or she is entitled, or the amount of pay in lieu of long service leave payable to or in relation to him or her, as the case may be, shall be determined in accordance with the first-mentioned scale of accrual.
 
-             (3)  This section ceases to apply on the commencement of the amendment of the definition of **_public authority of the Commonwealth_** in subsection 4(1) of this Act by the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.
+             (3)  This section ceases to apply on the commencement of the amendment of the definition of **_public authority of the Commonwealth_** in subsection 4(1) of this Act by the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.
 
 ##### <a id="25"></a>25  Amendment of the _Meat Inspection Arrangements Act 1964_
 
@@ -942,7 +940,7 @@ For access to the wording of the amendment made by this section, _see_ Act No.�
 
 ##### <a id="26"></a>26  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for carrying out or giving effect to this Act.
 
 # Notes to the _Long Service Leave (Commonwealth Employees) Act 1976_
 
@@ -952,7 +950,7 @@ The _Long Service Leave (Commonwealth Employees) Act 1976_ as shown in this comp
 
 The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50). The amendment is incorporated in this compilation.
 
-The _Long Service Leave (Commonwealth Employees) Act 1976_ is affected by sections 26 and 32 of the _Qantas Sale Act 1992_ (No. 196, 1992), section 15 of the _Snowy Mountains Engineering Corporation Limited Sale Act 1993_ (No. 54, 1993) and sections 15–21 of the _CSL   Sale Act 1993_ (No. 88, 1993). 
+The _Long Service Leave (Commonwealth Employees) Act 1976_ is affected by sections 26 and 32 of the _Qantas Sale Act 1992_ (No. 196, 1992), section 15 of the _Snowy Mountains Engineering Corporation Limited__Sale__Act 1993_ (No. 54, 1993) and sections 15-21 of the _CSL__Sale__Act 1993_ (No. 88, 1993). 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 7 March 2000 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1183,7 +1181,7 @@ Remainder: 1 Mar 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1989, No. S53)</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -1570,30 +1568,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Parliamentary Service Amendment (Parliamentary Budget Officer) Act 2011</div>
-  </td>
-  <td>
-    <div>170, 2011</div>
-  </td>
-  <td>
-    <div>4 Dec 2011</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 4): 15 Feb 2012 ( <i>see</i>F2012L00277)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by section 116 only of the _Statute Law Revision Act 1981_, subsection 2(2) of which provides as follows:
 
                  (2)   Parts III, X and XI and section 116 shall come into operation on a date to be fixed by Proclamation.
 
-_(b)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by sections 142 and 143 only of the _Public Service Reform Act 1984_, subsections 2(1) and (4) of which provide as follows:
+_(b)_    The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by sections 142 and 143 only of the _Public Service Reform Act 1984_, subsections 2(1) and (4) of which provide as follows:
 
                  (1)   Sections 1, 2, 3, 4 and 7, subsections 29(1) and (3), sections 107 and 108, Parts III and IV and sections 125, 138, 142, 144 and 149 shall come into operation on the day on which this Act receives the Royal Assent.
 
@@ -1609,7 +1590,7 @@ _(d)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
-_(e)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by Schedule 5 (in part) of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
+_(e)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by Schedule 5 (in part) of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_, subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
@@ -1635,7 +1616,7 @@ _(g)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(h)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by Schedule 4 (item 6) only of the _Australian National Railways Commission Sale Act 1997_, subsection 2(5) of which provides as follows:
+_(h)_     The _Long Service Leave (Commonwealth Employees) Act 1976_ was amended by Schedule 4 (item 6) only of the _Australian National Railways Commission__Sale__Act 1997_, subsection 2(5) of which provides as follows:
 
                  (5)   The remaining items of Schedule 3 and Schedule 4 commence on a day to be fixed by Proclamation. The day must not be earlier than the later of the day proclaimed for the purposes of subsection (2) and the day proclaimed for the purposes of subsection (3). 
 
@@ -1731,13 +1712,14 @@ _(l)_      Subsection 2(1) (item 24) of the _Fair Work (State Referr
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -1746,8 +1728,8 @@ _(l)_      Subsection 2(1) (item 24) of the _Fair Work (State Referr
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1816,7 +1798,7 @@ _(l)_      Subsection 2(1) (item 24) of the _Fair Work (State Referr
 <tr>
   <td>
     <div>S. 9A................................... 
-Renumbered s. 9B..........</div>
+Renumbered s. 9B...........</div>
   </td>
   <td>
     <div>ad. No. 6 1981 
@@ -1828,7 +1810,7 @@ No. 43, 1996</div>
     <div>S. 9B</div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 189, 1997 (as am. by No. 145, 1999); No. 39, 2005; No. 170, 2011</div>
+    <div>am. No. 43, 1996; No. 189, 1997 (as am. by No. 145, 1999); No. 39, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1978,6 +1960,6 @@ _Law Officers Legislation Amendment Act 2008 (No. 40, 2008)_
 
 ## 5  Application
 
-The _Long Service Leave (Commonwealth Employees) Act 1976_, as amended by this Schedule, applies to a person in respect of any period (whether before or after the commencement of this item) during which the person holds office as the Solicitor‑General if the person was appointed as Solicitor‑General after 31 December 1997.
+The _Long Service Leave (Commonwealth Employees) Act 1976_, as amended by this Schedule, applies to a person in respect of any period (whether before or after the commencement of this item) during which the person holds office as the Solicitor-General if the person was appointed as Solicitor-General after 31 December 1997.
 
  
