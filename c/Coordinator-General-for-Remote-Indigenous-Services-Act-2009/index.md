@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00052/Html/185e1773-21ff-4a1a-bbdc-e6ad48028454_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00555/Html/66c8d524-c049-42dc-81f7-025cc31aa021_files/image001.gif)
 
 # Coordinator‑General for Remote Indigenous Services Act 2009
 
 **Act No. 68 of 2009 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 20 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
@@ -262,7 +262,7 @@ Note:          If the head of a service agency fails to comply
 
 ### Division 3—Monitoring
 
-##### <a id="10"></a>10  Coordinator‑General may request persons to provide information and documents etc.
+##### <a id="10"></a>10  Coordinator‑General may request persons to provide information and documents etc.
 
              (1)  For the purpose of performing his or her functions, the Coordinator‑General may request a person:
 
@@ -362,7 +362,7 @@ Coordinator‑General may escalate concerns
 
                    If the Coordinator‑General proposes to include in a report under this Division material that is expressly or impliedly critical of a service agency, or a part of a service agency, the Coordinator‑General must consult with the head of that service agency.
 
-Note:          Compliance with this section for the purposes of including material in one report under this Division also counts as compliance for the purposes of including substantially the same material in another report under this Division.
+Note:       Compliance with this section for the purposes of including material in one report under this Division also counts as compliance for the purposes of including substantially the same material in another report under this Division.
 
 ## Part 3—Administrative provisions about Coordinator‑General
 
@@ -372,7 +372,7 @@ Appointment by Governor‑General on full‑time basis
 
              (1)  The Coordinator‑General is to be appointed by the Governor‑General by written instrument. The appointment is to be on a full‑time basis.
 
-Note:          The Coordinator‑General is eligible for reappointment: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          The Coordinator‑General is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 Obligation to fill vacancy as soon as practicable
 
@@ -398,9 +398,19 @@ Terms and conditions not covered by this Act
 
                              (ii)  is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  An appointment under subsection (1) ceases to have effect after 12 months if it does not cease earlier.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
 
 ##### <a id="21"></a>21  Remuneration
 
@@ -584,7 +594,7 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 442–444) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 442–444) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11)</div>
@@ -744,42 +754,52 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (C
 </tr>
 <tr>
   <td>
-    <div>Note to s. 19(1)</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 20(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 26</div>
   </td>
   <td>
     <div>am. No. 58, 2011</div>
   </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
 </tr></table>
+
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 442  Subsection 19(1) (note)
+
+Omit “subsection 33(4A)”, substitute “section 33AA”.
+
+## 443  At the end of subsection 20(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 444  Subsection 20(3)
+
+Repeal the subsection.
+
+As at 20 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
