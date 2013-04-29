@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00374/Html/LawOfficers64_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00243/Html/LawOfficers64_WD02_image001.gif)
 
 # Law Officers Act 1964
 
 **Act No. 91 of 1964 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 3 July 2008
+ taking into account amendments up to Act No. 40 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -236,7 +236,7 @@ whether or not he or she would, but for this section, be entitled to practise in
 
                      (a)  if, at the time of so becoming a Judge, he or she is in receipt of a pension by virtue of subsection (1)—that pension ceases to be payable; or
 
-                     (b)  if, at that time, he or she is not so in receipt of a pension—no pension becomes payable by virtue of that subsection by reason of his or her having held office as Solicitor-General.
+                     (b)  if, at that time, he or she is not so in receipt of a pension—no pension becomes payable by virtue of that subsection by reason of his having held office as Solicitor-General.
 
              (3)  If a person is appointed as Solicitor-General and, at the time of his or her appointment, he or she is in receipt of a pension under the _Judges’ Pensions Act 1968_ by virtue of subsection (1), that pension ceases to be payable.
 
@@ -284,7 +284,7 @@ reduced by 2.5% for each whole year between:
 
         (11A)  For the purposes of this section, the **_appropriate current salary_** in relation to a person at a particular time (the **_calculation time_**) is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2008C00374/Html/LawOfficers64_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00243/Html/LawOfficers64_WD02_image002.gif)
 
 For the purposes of the calculation:
 
@@ -639,23 +639,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 381): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Law Officers Act 1964_ was amended by sections 3 and 4 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1983_, subsections 2(1) and (9) of which provide as follows:
@@ -856,7 +839,7 @@ _(f)_      The _Law Officers Act 1964_ was amended by section 3 (ite
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 152, 1968; No. 91, 1983; No. 65, 1985; No. 120,1988; No. 136, 1991; No. 141, 1994; No. 39, 1998; No. 73, 2008</div>
+    <div>am. No. 152, 1968; No. 91, 1983; No. 65, 1985; No. 120,1988; No. 136, 1991; No. 141, 1994; No. 39, 1998</div>
   </td>
 </tr>
 <tr>
