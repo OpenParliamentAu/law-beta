@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00622/Html/PooledDevelFund1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00412/Html/PooledDevelFund1992_WD02_image001.gif)
 
 # Pooled Development Funds Act 1992
 
 **Act No. 100 of 1992 as amended**
 
-This compilation was prepared on 5 October 2007
- taking into account amendments up to Act No. 164 of 2007
+This compilation was prepared on 29 June 2007
+ taking into account amendments up to Act No. 78 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -31,6 +31,18 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [4A](#4A).         Definition of _widely-held complying superannuation fund_
 
 [4B](#4B).         Application of the _Criminal Code_
+
+**Part 2—Establishment, functions and powers of the Venture Capital Registration Board**
+
+[5](#5).            Establishment
+
+[6](#6).            Functions
+
+[7](#7).            Powers
+
+[8](#8).            Directions by Minister
+
+[9](#9).            Minister may require provision of advice
 
 **Part 3—Becoming a PDF**
 
@@ -162,11 +174,53 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [56](#56).          Review of decisions by Administrative Appeals Tribunal
 
+**Part 9—Administrative provisions relating to the Board** 
+
+    **Division 1—Provisions relating to members**
+
+[57](#57).          Membership of Board
+
+[58](#58).          Term of office
+
+[59](#59).          Remuneration and allowances—appointed members
+
+[60](#60).          Leave of absence
+
+[61](#61).          Disclosure of interests
+
+[62](#62).          Resignation—appointed members
+
+[63](#63).          Termination of appointment—appointed members
+
+[64](#64).          Other terms and conditions—appointed members
+
+[65](#65).          Acting members
+
+    **Division 2—Provisions relating to meetings**
+
+[66](#66).          Convening of meetings
+
+[67](#67).          Procedure at meetings
+
+    **Division 3—Staff and consultants**
+
+[68](#68).          Staff
+
+[69](#69).          Consultants
+
 **Part 10—Miscellaneous**
 
 [70](#70).          Board to provide information about PDFs on request
 
 [71](#71).          Secrecy
+
+[72](#72).          Delegation by Board to a member
+
+[73](#73).          Delegation by Board to a committee of members
+
+[74](#74).          Acts done by Board
+
+[75](#75).          Annual report
 
 [76](#76).          Regulations
 
@@ -204,13 +258,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="afof"></a>**_AFOF_** means an Australian venture capital fund of funds within the meaning of subsection 118-410(3) of the _Income Tax Assessment Act 1997_.
 
+                    <a name="appointed-member"></a>**_appointed member_** means a member referred to in paragraph 57(1)(a) or (c).
+
                     <a name="approved-invest-plan"></a>**_approved investment plan_**, in relation to a PDF, has the meaning given by subsection 17(2).
 
-                    <a name="board"></a>**_Board_** means Innovation Australia, established by section 6 of the _Industry Research and Development Act 1986_.
+                    <a name="board"></a>**_Board_** means the Venture Capital Registration Board continued in existence by section 5.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Board.
-
-                    <a name="committe"></a>**_committee_** means a committee appointed under section 22 of the _Industry Research and Development Act 1986_.
 
                     <a name="compani"></a>**_company_** means a company that is incorporated, or taken to be incorporated, under the _Corporations Act 2001_ and that has a share capital.
 
@@ -228,7 +282,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="execut-offic"></a>**_executive officer_**, in relation to a body corporate, means a person, by whatever name called and whether or not a director of the body, who is concerned, or takes part, in the management of the body.
 
-                    <a name="give-inform-board"></a>**_give information to the Board_** has the meaning given by subsection 4(8) of the _Industry Research and Development Act 1986_.
+                    <a name="give-inform-board"></a>**_give information to the Board_** has the meaning given by subsection (5).
 
                     <a name="hold"></a>**_hold_**, in relation to shares, has the meaning given by subsection (4).
 
@@ -282,7 +336,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="review-decision"></a><a name="person-affected"></a>**_person affected_**, in relation to a reviewable decision, means the company, PDF or person referred to in the relevant paragraph of the definition of **_reviewable decision_**.
 
-                    <a name="produc-docum-board"></a>**_produce a document to the Board_** has the meaning given by subsection 4(8) of the _Industry Research and Development Act 1986_.
+                    <a name="produc-docum-board"></a>**_produce a document to the Board_** has the meaning given by subsection (5).
 
                     <a name="registr-applic"></a>**_registration application_** means an application under section 11 that was made before the day on which Part 4 of Schedule 8 to the _Tax Laws Amendment (2007 Measures No. 2) Act 2007_ commenced.
 
@@ -354,6 +408,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (4)  For the purposes of this Act, a person who subscribes for or buys shares is taken to hold the shares from the time of the subscription or purchase until the person no longer has in the shares an interest of any kind (whether legal or equitable).
 
+             (5)  For the purposes of this Act, a person gives information, or produces a document, to the Board if the person gives the information, or produces the document, to:
+
+                     (a)  the Board; or
+
+                     (b)  a member of the Board; or
+
+                     (c)  a member of the staff referred to in section 68; or
+
+                     (d)  a consultant engaged under section 69.
+
 ##### <a id="4A"></a>4A  Definition of _widely-held complying superannuation fund_
 
              (1)  For the purposes of this Act, a fund is a **_widely-held complying superannuation fund_** if:
@@ -383,6 +447,70 @@ Non-resident funds
                    Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+
+## Part 2—Establishment, functions and powers of the Venture Capital Registration Board
+
+##### <a id="5"></a>5  Establishment
+
+                   The PDF Registration Board that existed under this Act immediately before the commencement of this section continues in existence as the Venture Capital Registration Board.
+
+Note:          Section 25B of the _Acts Interpretation Act 1901_ deals with the consequences of the change of name.
+
+##### <a id="6"></a>6  Functions
+
+             (1)  The functions of the Board are:
+
+                     (a)  those conferred on it by the other provisions of this Act; and
+
+                     (b)  to evaluate, and to advise the Minister about, the operation of this Act and of the Commonwealth’s income tax laws as they operate in relation to PDFs; and
+
+                     (c)  to publicise:
+
+                              (i)  the advantages that flow from a company being a PDF; and
+
+                             (ii)  the requirements for becoming and remaining a PDF.
+
+             (2)  The Board also has the function of registering venture capital entities under Part 7A.
+
+             (3)  The Board also has the functions of:
+
+                     (a)  registering limited partnerships as VCLPs, ESVCLPs or AFOFs under Part 2 of the _Venture Capital Act 2002_; and
+
+                    (ab)  approving ESVCLPs’ investment plans, and their replacement plans, under Part 2 of that Act; and
+
+                     (b)  registering entities as eligible venture capital investors under Part 3 of that Act; and
+
+                     (c)  making determinations under Part 4 of that Act; and
+
+                     (d)  giving information it obtains under those Parts to the Commissioner of Taxation for the purposes of implementing and administering the taxation law (within the meaning of the _Taxation Administration Act 1953_).
+
+##### <a id="7"></a>7  Powers
+
+                   The Board has power to do whatever is necessary or convenient to be done for or in connection with performing its functions.
+
+##### <a id="8"></a>8  Directions by Minister
+
+             (1)  The Board must perform its functions and exercise its powers in accordance with such general directions (if any) as the Minister gives to it in writing.
+
+             (2)  Subsection (1) does not empower the Minister:
+
+                     (a)  to direct that a registration declaration be made or revoked in relation to a particular company; or
+
+                     (b)  to direct that the Board perform any of its other functions, or exercise any of its other powers, in a particular way in a particular case.
+
+             (3)  The Minister must cause:
+
+                     (a)  a copy of a direction given under subsection (1); and
+
+                     (b)  a written statement of the reasons for giving the direction;
+
+to be laid before each House of the Parliament within 15 sitting days of that House after the direction is given.
+
+##### <a id="9"></a>9  Minister may require provision of advice
+
+             (1)  The Minister may, by writing given to the Board, require the Board to advise the Minister about a matter connected with the operation of this Act or of the Commonwealth’s income tax laws as they operate in relation to PDFs.
+
+             (2)  The Board must comply with a requirement.
 
 ## Part 3—Becoming a PDF
 
@@ -1658,6 +1786,146 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  An application may only be made by the person affected by the decision.
 
+## Part 9—Administrative provisions relating to the Board
+
+### Division 1—Provisions relating to members
+
+##### <a id="57"></a>57  Membership of Board
+
+             (1)  The Board consists of the following members:
+
+                     (a)  a Chairperson;
+
+                     (b)  an officer of the Department nominated, in writing, by the Secretary to the Department;
+
+                     (c)  4 other members.
+
+             (2)  The Chairperson and the members referred to in paragraph (1)(c) are to be appointed on a part-time basis by the Minister by written instrument.
+
+             (3)  A person may only be appointed as the Chairperson, or as a member referred to in paragraph (1)(c), if the person appears to the Minister to be qualified for appointment because of the person’s knowledge of, or experience in, industry, commerce, finance, economics, marketing, management or a field of technology.
+
+             (4)  The performance of a function, or the exercise of a power, by the Board is not affected by a vacancy or vacancies in its membership.
+
+             (5)  The appointment or nomination of a member is not invalid merely because of a defect or irregularity in connection with the appointment or nomination.
+
+##### <a id="58"></a>58  Term of office
+
+             (1)  An appointed member holds office for such period, not exceeding 3 years, as is specified in the instrument appointing the member.
+
+             (2)  A member nominated under paragraph 57(1)(b) holds office until the Secretary to the Department otherwise directs in writing.
+
+##### <a id="59"></a>59  Remuneration and allowances—appointed members
+
+             (1)  An appointed member is to be paid such remuneration as is determined by the Remuneration Tribunal but, if no determination of that remuneration by the Tribunal is in operation, the appointed member is to be paid such remuneration as is prescribed.
+
+             (2)  An appointed member is to be paid such allowances as are prescribed.
+
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+
+##### <a id="60"></a>60  Leave of absence
+
+             (1)  The Minister may grant the Chairperson leave to be absent from a meeting or meetings of the Board.
+
+             (2)  The Chairperson may grant any other member leave to be absent from a meeting or meetings of the Board.
+
+##### <a id="61"></a>61  Disclosure of interests
+
+             (1)  A member who has a direct or indirect pecuniary interest in a matter being considered or about to be considered at a meeting of the Board must, as soon as possible after the relevant facts have come to the member’s knowledge, disclose the nature of the interest at a meeting of the Board.
+
+             (2)  The disclosure is to be recorded in the minutes of the meeting and the member must not, unless the Minister or the Board otherwise determines:
+
+                     (a)  be present during any deliberation of the Board with respect to the matter; or
+
+                     (b)  take part in any decision of the Board with respect to the matter.
+
+             (3)  For the purpose of the making by the Board of such a determination in relation to the member who has made the disclosure, any member who has a direct or indirect pecuniary interest in the matter to which the disclosure relates must not:
+
+                     (a)  be present during any deliberation of the Board for the purpose of making the determination; or
+
+                     (b)  take part in the making by the Board of the determination.
+
+##### <a id="62"></a>62  Resignation—appointed members
+
+                   An appointed member may resign by writing signed and sent to the Minister.
+
+##### <a id="63"></a>63  Termination of appointment—appointed members
+
+             (1)  The Minister may terminate the appointment of an appointed member for misbehaviour or physical or mental incapacity.
+
+             (2)  The Minister must terminate the appointment of an appointed member if the member:
+
+                     (a)  becomes bankrupt, applies to take the benefit of a law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
+
+                     (b)  is absent, except on leave granted under section 60, from 3 consecutive meetings of the Board; or
+
+                     (c)  contravenes section 61 without reasonable excuse.
+
+##### <a id="64"></a>64  Other terms and conditions—appointed members
+
+                   The appointed members hold office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister in writing.
+
+##### <a id="65"></a>65  Acting members
+
+             (1)  The Minister may appoint a member to act as Chairperson:
+
+                     (a)  during a vacancy in the office of Chairperson, whether or not an appointment has previously been made to that office; or
+
+                     (b)  during any period, or during all periods, when the Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of that office.
+
+             (2)  The Minister may appoint a person to act in the office of an appointed member (other than the office of Chairperson):
+
+                     (a)  during a vacancy in the office of that member, whether or not an appointment has previously been made to that office; or
+
+                     (b)  during any period, or during all periods, when that member is absent from duty or from Australia or is, for any reason, unable to perform the duties of that office.
+
+             (3)  The Minister must not appoint a person to act in an office unless, having regard to subsection 57(3), the person appears to the Minister to be qualified for appointment to the office.
+
+             (4)  A person acting under subsection (1) or (2) during a vacancy is not to continue to act for more than 12 months.
+
+             (5)  The Secretary to the Department may appoint an officer of the Department to act in the office of the member referred to in paragraph 57(1)(b) during any period, or during all periods, when that member is absent from duty or from Australia or is, for any reason, unable to perform the duties of that office.
+
+### Division 2—Provisions relating to meetings
+
+##### <a id="66"></a>66  Convening of meetings
+
+             (1)  The Board is to hold such meetings as are necessary for the efficient performance of its functions.
+
+             (2)  The Chairperson:
+
+                     (a)  may, at any time, convene a meeting of the Board; and
+
+                     (b)  must convene a meeting of the Board if directed to do so by the Minister.
+
+##### <a id="67"></a>67  Procedure at meetings
+
+             (1)  The Chairperson is to preside at all meetings of the Board at which he or she is present.
+
+             (2)  If the Chairperson is not present at a meeting, the members present are to elect one of their number to preside.
+
+             (3)  At a meeting:
+
+                     (a)  3 members form a quorum; and
+
+                     (b)  all questions are to be decided by a majority of votes of the members present and voting; and
+
+                     (c)  the member presiding has a deliberative vote and, in the event of an equality of votes, also has a casting vote.
+
+             (4)  The Board must keep minutes of proceedings at its meetings.
+
+             (5)  Subject to this section, the Board may regulate the conduct of proceedings at its meetings as it thinks fit.
+
+### Division 3—Staff and consultants
+
+##### <a id="68"></a>68  Staff
+
+                   Persons engaged under the _Public Service Act 1999_ are to constitute the staff necessary to assist the Board.
+
+##### <a id="69"></a>69  Consultants
+
+             (1)  The Chairperson may, on behalf of the Commonwealth and with the approval of the Minister, engage persons with suitable qualifications as consultants to the Board.
+
+             (2)  The terms and conditions of engagement of a consultant are such as the Board determines from time to time.
+
 ## Part 10—Miscellaneous
 
 ##### <a id="70"></a>70  Board to provide information about PDFs on request
@@ -1712,25 +1980,15 @@ except when it is necessary to do so for the purpose of carrying into effect the
 
                      (a)  a member of the Board; or
 
-                     (b)  a member of a committee; or
+                     (b)  a member of the staff referred to in section 68; or
 
-                     (c)  a member of the staff assisting the Board or a committee (see section 25 of the _Industry Research and Development Act 1986_); or
-
-                     (d)  a consultant assisting the Board or a committee (see section 25 of the _Industry Research and Development Act 1986_); or
-
-                     (e)  a member of the former Venture Capital Registration Board that was established by this Act (as in force before the commencement of Schedule 12 to the _Tax Laws Amendment (2007 Measures No. 5) Act 2007_); or
-
-                      (f)  a member of the staff assisting the former Venture Capital Registration Board that was established by this Act (as in force before the commencement of Schedule 12 to the _Tax Laws Amendment (2007 Measures No. 5) Act 2007_); or
-
-                     (g)  a consultant to the former Venture Capital Registration Board that was established by this Act (as in force before the commencement of Schedule 12 to the _Tax Laws Amendment (2007 Measures No. 5) Act 2007_), who was engaged under this Act before that commencement.
+                     (c)  a consultant engaged under section 69.
 
                     <a name="produc"></a>**_produce_** includes permit access to.
 
                     <a name="protect-docum"></a>**_protected document_** means:
 
-                     (a)  a document supplied in confidence to the Board in relation to a matter covered by this Act or the _Venture Capital Act 2002_; or
-
-                    (aa)  a document supplied in confidence to the former Venture Capital Registration Board that was established by this Act (as in force before the commencement of Schedule 12 to the _Tax Laws Amendment (2007 Measures No. 5) Act 2007_); or
+                     (a)  a document supplied to the Board in confidence; or
 
                      (b)  a document:
 
@@ -1740,9 +1998,7 @@ except when it is necessary to do so for the purpose of carrying into effect the
 
                     <a name="protect-inform"></a>**_protected information_** means:
 
-                     (a)  information supplied in confidence to the Board in relation to a matter covered by this Act or the _Venture Capital Act 2002_; or
-
-                    (aa)  information supplied in confidence to the former Venture Capital Registration Board that was established by this Act (as in force before the commencement of Schedule 12 to the _Tax Laws Amendment (2007 Measures No. 5) Act 2007_); or
+                     (a)  information supplied to the Board in confidence; or
 
                      (b)  information:
 
@@ -1751,6 +2007,106 @@ except when it is necessary to do so for the purpose of carrying into effect the
                              (ii)  that is obtained by a person to whom this section applies in the course of, or because of, the person’s functions or duties as such a person.
 
                     <a name="tax-law"></a>**_tax law_** means an Act of which the Commissioner of Taxation has the general administration and includes the _Venture Capital Act 2002_.
+
+##### <a id="72"></a>72  Delegation by Board to a member
+
+             (1)  The Board may, by resolution, delegate to a member all or any of the Board’s functions and powers under this Act, other than:
+
+                     (a)  for PDFs—the Board’s powers to make and revoke registration declarations; and
+
+                     (b)  the Board’s powers to register entities or revoke registration under Part 7A; and 
+
+                     (c)  the Board’s powers to register limited partnerships as VCLPs, ESVCLPs or AFOFs or revoke registration under Part 2 of the _Venture Capital Act 2002_; and
+
+                    (ca)  the Board’s powers to approve ESVCLPs’ investment plans, and their replacement plans, under Part 2 of the _Venture Capital Act 2002_; and
+
+                     (d)  the Board’s powers to register entities as eligible venture capital investors or revoke registration under Part 3 of the _Venture Capital Act 2002_; and
+
+                     (e)  the Board’s powers to make determinations under Part 4 of the _Venture Capital Act 2002_.
+
+             (2)  A delegate is to perform or exercise a delegated function or power by writing signed by the delegate.
+
+             (3)  A delegation of a function or power under subsection (1) may be varied or revoked by resolution of the Board (whether or not constituted by the persons who constituted the Board at the time when the function or power was delegated).
+
+##### <a id="73"></a>73  Delegation by Board to a committee of members
+
+             (1)  The Board may, by resolution, delegate to a committee of 2 or more of its members all or any of the Board’s functions and powers under this Act, other than:
+
+                     (a)  for PDFs—the Board’s powers to make and revoke registration declarations; and
+
+                     (b)  the Board’s powers to register entities or revoke registration under Part 7A; and 
+
+                     (c)  the Board’s powers to register limited partnerships as VCLPs, ESVCLPs or AFOFs or revoke registration under Part 2 of the _Venture Capital Act 2002_; and
+
+                    (ca)  the Board’s powers to approve ESVCLPs’ investment plans, and their replacement plans, under Part 2 of the _Venture Capital Act 2002_; and
+
+                     (d)  the Board’s powers to register entities as eligible venture capital investors or revoke registration under Part 3 of the _Venture Capital Act 2002_; and
+
+                     (e)  the Board’s powers to make determinations under Part 4 of the _Venture Capital Act 2002_.
+
+             (2)  A function or power so delegated is to be performed or exercised by writing signed by a member of the committee pursuant to a resolution of the committee.
+
+             (3)  A delegation of a function or power under subsection (1) may be varied or revoked by resolution of the Board (whether or not constituted by the persons who constituted the Board at the time when the function or power was delegated).
+
+##### <a id="74"></a>74  Acts done by Board
+
+             (1)  Except so far as the contrary intention appears in this Act, a function or power of the Board is to be performed or exercised by writing signed by a member pursuant to a resolution of the Board.
+
+             (2)  Subsection (1) does not apply to:
+
+                     (a)  for PDFs—making or revoking a registration declaration; or
+
+                     (b)  registering an entity or revoking registration under Part 7A; or 
+
+                     (c)  registering limited partnerships as VCLPs, ESVCLPs or AFOFs or revoking registration under Part 2 of the _Venture Capital Act 2002_; or
+
+                    (ca)  approving ESVCLPs’ investment plans, and their replacement plans, under Part 2 of the _Venture Capital Act 2002_; or
+
+                     (d)  registering entities as eligible venture capital investors or revoking registration under Part 3 of the _Venture Capital Act 2002_; or
+
+                     (e)  making determinations under Part 4 of the _Venture Capital Act 2002_.
+
+             (3)  A certificate that:
+
+                     (a)  purports to be signed by a member, or by a person authorised by the Board to sign certificates for the purposes of this subsection; and
+
+                     (b)  states that the Board has done any act or thing (for example, passed a particular resolution) or formed any opinion;
+
+is, upon mere production, receivable as _prima facie_ evidence that the Board has done the act or thing or formed the opinion.
+
+             (4)  A certificate that:
+
+                     (a)  purports to be signed by a member; and
+
+                     (b)  states that a specified person is authorised by the Board to sign certificates for the purposes of subsection (3);
+
+is, upon mere production, receivable as _prima facie_ evidence that the person is so authorised.
+
+             (5)  An act or thing done by the Board does not cease to have effect merely because of a change in the Board’s membership.
+
+##### <a id="75"></a>75  Annual report
+
+             (1)  The Board must, as soon as practicable after the end of each financial year, prepare and give to the Minister a report of its operations during that year.
+
+             (2)  The Board must include in the report:
+
+                     (a)  a list of all PDFs in existence as at the end of the financial year; and
+
+                     (b)  a list of all companies that became PDFs during the financial year; and
+
+                     (c)  a list of all companies that ceased to be PDFs during the financial year; and
+
+                     (d)  particulars of any directions given by the Minister under section 8 during the financial year.
+
+          (2A)  The Board must also include in the report:
+
+                     (a)  a list of the entities registered under Part 7A as at the end of the financial year; and
+
+                     (b)  a list of the entities that became registered under that Part during the financial year; and
+
+                     (c)  a list of the entities whose registration under that Part was revoked during the financial year.
+
+             (3)  The Minister is to cause a copy of the report to be laid before each House of the Parliament within 15 sitting days of that House after its receipt by the Minister.
 
 ##### <a id="76"></a>76  Regulations
 
@@ -2145,24 +2501,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2007 Measures No. 5) Act 2007</div>
-  </td>
-  <td>
-    <div>164, 2007</div>
-  </td>
-  <td>
-    <div>25 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 12 (items 53–65, 279–287): 27 Sept 2007 ( <i>see</i>F2007L03842)</div>
-  </td>
-  <td>
-    <div>Sch. 12 (items 
-279–287) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Pooled Development Funds Act 1992_ was amended by Part 4 (sections 20–22) only of the _Industry, Science and Technology Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
@@ -2341,7 +2679,7 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 102, 1994; No. 5, 1995; Nos. 48 and 61, 1998; No. 165, 1999; No. 64, 2000; No. 55, 2001; No. 136, 2002; Nos. 78 and 164, 2007</div>
+    <div>am. No. 102, 1994; No. 5, 1995; Nos. 48 and 61, 1998; No. 165, 1999; No. 64, 2000; No. 55, 2001; No. 136, 2002; No. 78, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2370,26 +2708,18 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
 </tr>
 <tr>
   <td>
+    <div><b>Part 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Heading to Part 2</div>
   </td>
   <td>
     <div>rs. No. 78, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>rep. No 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2402,34 +2732,10 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6</div>
   </td>
   <td>
     <div>am. No. 165, 1999; No. 136, 2002; No. 78, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 7–9</div>
-  </td>
-  <td>
-    <div>rep. No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2738,18 +3044,18 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
 </tr>
 <tr>
   <td>
-    <div>Part 9</div>
+    <div><b>Part 9</b></div>
   </td>
   <td>
-    <div>rep. No. 164, 2007</div>
+    <div></div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>Ss. 57–67</div>
+    <div><b>Division 3</b></div>
   </td>
   <td>
-    <div>rep. No. 164, 2007</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -2758,22 +3064,6 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
   </td>
   <td>
     <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>rep. No. 164, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2789,7 +3079,7 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 71</div>
   </td>
   <td>
-    <div>am. No. 136, 2002; No. 164, 2007</div>
+    <div>am. No. 136, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2802,26 +3092,10 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 164, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 75</div>
   </td>
   <td>
     <div>am. No. 165, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 164, 2007</div>
   </td>
 </tr></table>
 
@@ -2968,123 +3242,5 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
                      (b)  Divisions 301 to 307 of that Act.
-
-* * *
-
-_Tax Laws Amendment (2007 Measures No. 5) Act 2007 (No. 164, 2007)_
-
-## Schedule 12
-
-## 279  Interpretation
-
-In this Part:
-
-**_new Board_** means Innovation Australia, established by section 6 of the _Industry Research and Development Act 1986_ (as amended by this Schedule).
-
-**_former Board_** means:
-
-                     (a)  the Industry Research and Development Board that was established by the _Industry Research and Development Act 1986_(as in force before the commencement of this item); or
-
-                     (b)  the Venture Capital Registration Board that was established by the _Pooled Development Funds Act 1992_ (as in force before the commencement of this item).
-
-## 280  Things done to a former Board before commencement
-
-(1)        Any thing done to a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the new Board.
-
-(2)        Without limiting subitem (1), examples of things done to a former Board include, but are not limited to, the following:
-
-                     (a)  the making of applications or requests to the former Board;
-
-                     (b)  the making of agreements with the former Board;
-
-                     (c)  the giving of notices, documents or other things to the former Board;
-
-                     (d)  the giving of directions by the Minister to the former Board.
-
-## 281  Things done to the Chairperson or acting Chairperson of a former Board before commencement
-
-(1)        Any thing done to the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the Chairperson of the new Board.
-
-(2)        Without limiting subitem (1), examples of things done to the Chairperson of a former Board include, but are not limited to, the giving of notices or advice to the Chairperson.
-
-## 282  Things done by a former Board before commencement
-
-(1)        Any thing done by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the new Board.
-
-(2)        Without limiting subitem (1), examples of things done by a former Board include, but are not limited to, the following:
-
-                     (a)  the making of determinations or decisions by the former Board;
-
-                     (b)  the granting or revoking of registrations, approvals, certificates or other things by the former Board;
-
-                     (c)  the making of requests by the former Board;
-
-                     (d)  the giving of directions by the former Board;
-
-                     (e)  the making of guidelines by the former Board;
-
-                      (f)  the formulation of criteria by the former Board;
-
-                     (g)  the approval of forms by the former Board;
-
-                     (h)  the making of requirements by the former Board;
-
-                      (i)  the making of agreements by the former Board;
-
-                      (j)  the giving of notices, documents or other things by the former Board.
-
-(3)        Without limiting subitem (1), if, after the commencement of this item, the new Board is required under section 46 of the _Industry Research and Development Act 1986_ (as amended by this Schedule) to give a report in relation to a financial year that commenced before the commencement of this item, then the new Board must include in the report any matter that, had the amendments made by this Schedule not been made, a former Board would have been required to include in a report for that year under:
-
-                     (a)  section 46 of the _Industry Research and Development Act 1986_ (as in force before the commencement of this item); or
-
-                     (b)  section 75 of the _Pooled Development Funds Act 1992_ (as in force before the commencement of this item); or
-
-                     (c)  section 33-1 of the _Venture Capital Act 2002_(as in force before the commencement of this item).
-
-## 283  Things done by the Chairperson or acting Chairperson of a former Board before commencement
-
-(1)        Any thing done by the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the Chairperson of the new Board.
-
-(2)        Without limiting subitem (1), examples of things done by the Chairperson of a former Board include, but are not limited to, the following:
-
-                     (a)  the making of inquiries or reports by the Chairperson;
-
-                     (b)  a determination, by the Chairperson, of the form of records;
-
-                     (c)  the signing of documents by the Chairperson.
-
-## 284  Things done by a member or acting member of a former Board before commencement
-
-(1)        Any thing done by a member, or acting member, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a member of the new Board.
-
-(2)        Without limiting subitem (1), examples of things done by a member of a former Board include, but are not limited to, the signing of a certificate by the member.
-
-## 285  Things done by a person authorised by a former Board before commencement
-
-(1)        Any thing done by a person authorised by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a person authorised by the new Board.
-
-(2)        Without limiting subitem (1), examples of things done by a person authorised by a former Board include, but are not limited to, the signing of a certificate by the person.
-
-## 286  References to a former Board in instruments etc.
-
-A reference to a former Board in the following:
-
-                     (a)  a legislative instrument;
-
-                     (b)  guidelines made or criteria formulated under the _Industry Research and Development Act 1986_ or the _Venture Capital Act 2002_;
-
-                     (c)  certificates, notices or other documents given to or by the former Board under the _Industry Research and Development Act 1986_, the _Pooled Development Funds Act 1992_ or the _Venture Capital Act 2002_;
-
-                     (d)  directions given by the Minister to the former Board under the _Industry Research and Development Act 1986_ or the _Pooled Development Funds Act 1992_;
-
-                     (e)  forms approved by the former Board under the _Industry Research and Development Act 1986_;
-
-                      (f)  agreements made with the former Board under the _Industry Research and Development Act 1986_;
-
-is taken, after the commencement of this item, to be a reference to the new Board.
-
-## 287  Committees
-
-An appointment of a member of a committee under section 22 of the _Industry Research and Development Act 1986_ that is in force immediately before the commencement of this item is taken, on that commencement, to be revoked.
 
  
