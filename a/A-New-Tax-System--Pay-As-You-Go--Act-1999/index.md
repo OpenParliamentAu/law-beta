@@ -1,12 +1,14 @@
-![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image001.gif)
 
 # A New Tax System (Pay As You Go) Act 1999
 
 **Act No. 178 of 1999 as amended** 
 
-This compilation was prepared on 17 July 2002
+This compilation was prepared on 5 June 2000
 
-**\[This Act was amended by Act No. 179 of 1999,  Act No. 44 of 2000 and Act No. 57 of 2002]** 
+**\[Note: Some provisions of this Act are not in force, _see_ section 2]** 
+
+**\[This Act was amended by Act No. 179 of 1999 and Act No. 44 of 2000]** 
 
 **Amendments from Act No. 179 of 1999**
 
@@ -21,12 +23,7 @@ Schedule 10 (items 19 to 21) commenced on 22 December 1999]
 \[Schedule 4 (item 2) amended subitem 3(1) of Schedule 1;
  Schedule 4 (item 3) added subitem (1A) to item 3 of Schedule 1
 
-Schedule 4 (items 2 and 3) commence on 22 December 1999]
-
-**Amendment from Act No. 57 of 2002**
-
-\[Schedule 12 (item 40) amended item 62 of Schedule 2
- Schedule 12 (item 40) commenced on 22 December 1999]
+Schedule 4 (items 2 and 3) commences on 22 December 1999]
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
@@ -453,7 +450,7 @@ Part 1—Amendment of the Taxation Administration Act 1953       �
 
 [45-230](#45-230).   Liability to GIC on shortfall in quarterly instalment and on any excess credit under section 45-215    102
 
-[45-235](#45-235).   Liability to GIC on shortfall in annual instalment                           103
+[45-235](#45-235).   Liability to GIC on shortfall in annual instalment                           104
 
 [45-240](#45-240).   Commissioner may remit general interest charge                             105
 
@@ -465,11 +462,11 @@ Part 1—Amendment of the Taxation Administration Act 1953       �
 
         **Instalment income of trust beneficiary**
 
-[45-280](#45-280).   Instalment income for a period in which you are a beneficiary of a trust                106
+[45-280](#45-280).   Instalment income for a period in which you are a beneficiary of a trust                107
 
         **Application of Part to trustees**
 
-[45-300](#45-300).   Trustees to whom this Part applies                                                107
+[45-300](#45-300).   Trustees to whom this Part applies                                                108
 
         **Subdivision 45-J—How Commissioner works out your instalment rate and notional tax**
 
@@ -479,27 +476,27 @@ Part 1—Amendment of the Taxation Administration Act 1953       �
 
 [45-330](#45-330).   Working out your _adjusted taxable income_                                     110
 
-[45-335](#45-335).   Working out your _adjusted withholding income_                              110
+[45-335](#45-335).   Working out your _adjusted withholding income_                              111
 
 [45-340](#45-340).   _Adjusted tax_ on adjusted taxable income or on adjusted withholding income          111
 
         **Subdivision 45-K—How Commissioner works out your benchmark instalment rate and benchmark tax**
 
-[45-355](#45-355).   When Commissioner works out benchmark instalment rate and benchmark tax     112
+[45-355](#45-355).   When Commissioner works out benchmark instalment rate and benchmark tax     113
 
 [45-360](#45-360).   How Commissioner works out _benchmark instalment rate_            113
 
-[45-365](#45-365).   Working out your _benchmark tax_                                                    113
+[45-365](#45-365).   Working out your _benchmark tax_                                                    114
 
 [45-370](#45-370).   Working out your _adjusted assessed taxable income_ for the variation year            114
 
-[45-375](#45-375).   _Adjusted assessed tax_ on adjusted assessed taxable income            114
+[45-375](#45-375).   _Adjusted assessed tax_ on adjusted assessed taxable income            115
 
         **Subdivision 45-L—How Commissioner works out amount of quarterly instalment on basis of GDP-adjusted notional tax**
 
-[45-400](#45-400).   Working out amount of instalment                                                  115
+[45-400](#45-400).   Working out amount of instalment                                                  116
 
-[45-405](#45-405).   Working out your _GDP-adjusted notional tax_                                 116
+[45-405](#45-405).   Working out your _GDP-adjusted notional tax_                                 117
 
 Part 2—Consequential amendment of Acts                                                        121
 
@@ -521,7 +518,7 @@ Income Tax Assessment Act 1936                �
 
 [221AZKE Modified application of sections 221AZKB and 221AZKC to entity adopting a substituted accounting period](#221AZKE Modified application of sections 221AZKB and 221AZKC to entity adopting a substituted accounting period).                                                                                                        128
 
-[221YHAAH](#221YHAAH).    Division does not apply to payments made after 30 June 2000  129
+[221YHAAH](#221YHAAH).    Division does not apply to payments made after 30 June 2000  130
 
 [221ZMA](#221ZMA).     Division does not apply to withdrawals made after 30 June 2000  132
 
@@ -531,13 +528,13 @@ A New Tax System (Goods and Services Tax) Act 1999          
 
     **Division 113—PAYG voluntary agreements**
 
-[113-1](#113-1).     What this Division is about                                                             135
+[113-1](#113-1).     What this Division is about                                                             136
 
 [113-5](#113-5).     Supply of work or services not a taxable supply                            136
 
 A New Tax System (Goods and Services Tax Administration) Act 1999       137
 
-A New Tax System (Australian Business Number) Act 1999                           137
+A New Tax System (Australian Business Number) Act 1999                           138
 
 Fringe Benefits Tax Assessment Act 1986                                                           139
 
@@ -557,7 +554,7 @@ Division 1—Amendment of Part IIB of the Taxation Administration Act 1953 142
 
 [8AAZLB](#8AAZLB).   Method 2—applying the amount first against a non-RBA tax debt  146
 
-8AAZLC RBA surplus and related credits must remain equivalent if one or the other is applied         146
+8AAZLC RBA surplus and related credits must remain equivalent if one or the other is applied         147
 
 [8AAZLD](#8AAZLD).                      Special priority credits: HEC and FS assessment debts  147
 
@@ -569,53 +566,53 @@ Division 1—Amendment of Part IIB of the Taxation Administration Act 1953 142
 
 [8AAZLG](#8AAZLG).                    Retaining refunds until information or notification given  148
 
-[8AAZLH](#8AAZLH).                                                                         How refunds are made  148
+[8AAZLH](#8AAZLH).                                                                         How refunds are made  149
 
 Division 2—Consequential amendments                                                             149
 
 Income Tax Assessment Act 1936                                                                          149
 
-Sales Tax Assessment Act 1992                                                                             149
+Sales Tax Assessment Act 1992                                                                             150
 
 Taxation (Interest on Overpayments and Early Payments) Act 1983           150
 
 Division 3—Application and transitional                                                             150
 
-Part 2—General interest charge                                                                               151
+Part 2—General interest charge                                                                               152
 
-Crimes (Taxation Offences) Act 1980                                                                  151
+Crimes (Taxation Offences) Act 1980                                                                  152
 
-Income Tax Assessment Act 1936                                                                          151
+Income Tax Assessment Act 1936                                                                          152
 
-[102UP](#102UP).   Late payment of ultimate beneficiary non-disclosure tax                151
+[102UP](#102UP).   Late payment of ultimate beneficiary non-disclosure tax                152
 
-[220AAW](#220AAW).                                           Large remitters—non-electronic payment  152
+[220AAW](#220AAW).                                           Large remitters—non-electronic payment  154
 
-[271-80](#271-80).   Late payment of family trust distribution tax                                 155
+[271-80](#271-80).   Late payment of family trust distribution tax                                 156
 
-Income Tax Assessment Act 1997                                                                          156
+Income Tax Assessment Act 1997                                                                          157
 
-Sales Tax Assessment Act 1992                                                                             156
+Sales Tax Assessment Act 1992                                                                             157
 
-Taxation Administration Act 1953                                                                       157
+Taxation Administration Act 1953                                                                       158
 
-[8AAGA Rounding of the charge](#8AAGA Rounding of the charge).                                                                   158
+[8AAGA Rounding of the charge](#8AAGA Rounding of the charge).                                                                   159
 
-Taxation (Interest on Overpayments and Early Payments) Act 1983           158
+Taxation (Interest on Overpayments and Early Payments) Act 1983           159
 
-Taxation Laws Amendment Act (No. 3) 1999                                                     159
+Taxation Laws Amendment Act (No. 3) 1999                                                     160
 
-Part 3—Fringe benefits tax                                                                                        161
+Part 3—Fringe benefits tax                                                                                        162
 
-Fringe Benefits Tax Assessment Act 1986                                                           161
+Fringe Benefits Tax Assessment Act 1986                                                           162
 
-[12](#12).          Depreciated value                                                                            161
+[12](#12).          Depreciated value                                                                            162
 
-[103](#103).        When instalment of tax payable                                                      166
+[103](#103).        When instalment of tax payable                                                      167
 
-[104](#104).        Notice of the amount of an instalment                                            167
+[104](#104).        Notice of the amount of an instalment                                            168
 
-[105](#105).        Entitlement to instalment credit                                                      167
+[105](#105).        Entitlement to instalment credit                                                      168
 
         **Subdivision C—Working out the amount of instalments** 
 
@@ -675,11 +672,11 @@ Add:
 
 _Note:       See section 3AA._
 
-Part 2-1—Introduction to the Pay as you go (PAYG) system
+## Part 2-1—Introduction to the Pay as you go (PAYG) system
 
-Division 6—Guide to Parts 2-5 and 2-10 
+### Division 6—Guide to Parts 2-5 and 2-10 
 
-6-1  What Parts 2-5 and 2-10 are about
+##### <a id="6-1"></a>6-1  What Parts 2-5 and 2-10 are about
 
 * * *
 
@@ -695,7 +692,7 @@ Amounts collected under this system also go towards meeting liability for Medica
 
 6-10          How the amounts collected are dealt with
 
-6-5  The Pay as you go (PAYG) system
+##### <a id="6-5"></a>6-5  The Pay as you go (PAYG) system
 
              (1)  Parts 2-5 and 2-10 establish the PAYG system, which has 2 components:
 
@@ -720,15 +717,15 @@ PAYG instalments
 
 An instalment is usually paid after each quarter, but some taxpayers are eligible to pay an annual instalment after the end of the income year. 
 
-6-10  How the amounts collected are dealt with
+##### <a id="6-10"></a>6-10  How the amounts collected are dealt with
 
                    You are entitled to credits for the amounts of your income that are collected under the PAYG system. The credits are applied under Division 3 of Part IIB against your tax debts, and any excess is refunded to you.
 
-Part 2-5—Pay as you go (PAYG) withholding
+## Part 2-5—Pay as you go (PAYG) withholding
 
-Division 10—Guide to Part 2-5
+### Division 10—Guide to Part 2-5
 
-10-1  What this Part is about
+##### <a id="10-1"></a>10-1  What this Part is about
 
 * * *
 
@@ -740,7 +737,7 @@ This Part also contains provisions about the obligations and rights of payers an
 
 * * *
 
-10-5  Summary of withholding payments
+##### <a id="10-5"></a>10-5  Summary of withholding payments
 
                    The payments and other transactions covered by PAYG withholding are called withholding payments. They are summarised in the table.
 
@@ -1036,7 +1033,7 @@ Note:          The obligation to pay an amount to the Commissi
   </td>
 </tr></table>
 
-Division 11—Preliminary matters
+### Division 11—Preliminary matters
 
 **Table of sections**
 
@@ -1044,7 +1041,7 @@ Division 11—Preliminary matters
 
 11-5          Constructive payment
 
-11-1  Object of this Part
+##### <a id="11-1"></a>11-1  Object of this Part
 
                    The object of this Part is to ensure the efficient collection of:
 
@@ -1058,15 +1055,15 @@ Division 11—Preliminary matters
 
                      (e)  <sup>* </sup>mining withholding tax.
 
-11-5  Constructive payment
+##### <a id="11-5"></a>11-5  Constructive payment
 
              (1)  In working out whether an entity has paid an amount to another entity, and when the payment is made, the amount is taken to have been paid to the other entity when the first entity applies or deals with the amount in any way on the other’s behalf or as the other directs.
 
              (2)  An amount is taken to be payable by an entity to another entity if the first entity is required to apply or deal with it in any way on the other’s behalf or as the other directs.
 
-Division 12—Payments from which amounts must be withheld
+### Division 12—Payments from which amounts must be withheld
 
-**Table of Subdivisions** 
+**Table of Subdivisions**
 
 12-A      General rules
 
@@ -1082,7 +1079,7 @@ Division 12—Payments from which amounts must be withheld
 
 12-G      Payments in respect of mining on Aboriginal land, and natural resources
 
-Subdivision 12-A—General rules
+#### Subdivision 12-A—General rules
 
 **Table of sections**
 
@@ -1094,7 +1091,7 @@ Subdivision 12-A—General rules
 
 12-15        Amounts to be expressed in Australian currency
 
-12-1  General exceptions
+##### <a id="12-1"></a>12-1  General exceptions
 
 Exempt income of recipient
 
@@ -1112,7 +1109,7 @@ Expense payment benefit
 
                      (b)  is _not_ an exempt benefit under section 22 of that Act (about reimbursement of car expenses on the basis of distance travelled).
 
-12-5  What to do if more than one provision requires a withholding
+##### <a id="12-5"></a>12-5  What to do if more than one provision requires a withholding
 
              (1)  If more than one provision in this Division covers a payment, only one amount is to be withheld from the payment.
 
@@ -1239,13 +1236,13 @@ Note:          Some provisions of this Division clearly do not
 
 ·<span style="font:7.0pt " new="">       </span>Section 12-55 (about voluntary agreements) covers a payment only if no other provision requires the payer to withhold an amount from the payment.
 
-12-10  Division does not apply to non-cash benefits
+##### <a id="12-10"></a>12-10  Division does not apply to non-cash benefits
 
                    This Division does not apply to a payment in so far as it consists of providing a <sup>* </sup>non-cash benefit.
 
 Note:          If a non-cash benefit is provided in circumstances where a payment would give rise to a withholding obligation, the provider must pay an amount to the Commissioner: see Division 14.
 
-12-15  Amounts to be expressed in Australian currency
+##### <a id="12-15"></a>12-15  Amounts to be expressed in Australian currency
 
                    The amount that this Division requires to be withheld from a payment made in foreign currency:
 
@@ -1253,7 +1250,7 @@ Note:          If a non-cash benefit is provided in circumstan
 
                      (b)  is to be worked out on the basis of the exchange rate applicable when the amount is required to be withheld under this Division.
 
-Subdivision 12-B—Payments for work and services
+#### Subdivision 12-B—Payments for work and services
 
 **Table of sections**
 
@@ -1269,13 +1266,13 @@ Subdivision 12-B—Payments for work and services
 
 12-60        Payment under labour hire arrangement, or specified by regulations
 
-12-35  Payment to employee
+##### <a id="12-35"></a>12-35  Payment to employee
 
                    An entity must withhold an amount from salary, wages, commission, bonuses or allowances it pays to an individual as an employee (whether of that or another entity).
 
 For exceptions, see section 12-1.
 
-12-40  Payment to company director
+##### <a id="12-40"></a>12-40  Payment to company director
 
                    A company must withhold an amount from a payment of remuneration it makes to an individual:
 
@@ -1285,7 +1282,7 @@ For exceptions, see section 12-1.
 
 For exceptions, see section 12-1.
 
-12-45  Payment to office holder
+##### <a id="12-45"></a>12-45  Payment to office holder
 
              (1)  An entity must withhold an amount from salary, wages, commission, bonuses or allowances it pays to an individual as:
 
@@ -1312,13 +1309,13 @@ For exceptions, see subsection (2) and section 12-1.
 For rules about such resolutions, see section 221B of
  the _Income Tax Assessment Act 1936_.
 
-12-50  Return to work payment
+##### <a id="12-50"></a>12-50  Return to work payment
 
                    An entity must withhold an amount from a payment it makes to an individual if the payment is included in the individual’s assessable income under section 15-3 of the _Income Tax Assessment Act 1997_ (return to work payments).
 
 For exceptions, see section 12-1.
 
-12-55  Voluntary agreement to withhold
+##### <a id="12-55"></a>12-55  Voluntary agreement to withhold
 
              (1)  An entity must withhold an amount from a payment it makes to an individual if:
 
@@ -1340,7 +1337,7 @@ Note:          See section 4AA of the _Crimes Act 1914_ for th
 
              (3)  A party to the voluntary agreement may terminate it at any time by notifying the other party in writing.
 
-12-60  Payment under labour hire arrangement, or specified by regulations 
+##### <a id="12-60"></a>12-60  Payment under labour hire arrangement, or specified by regulations 
 
                    An entity that carries on an <sup>* </sup>enterprise must withhold an amount from a payment that it makes to an individual in the course or furtherance of the enterprise if:
 
@@ -1350,7 +1347,7 @@ Note:          See section 4AA of the _Crimes Act 1914_ for th
 
 For exceptions, see section 12-1.
 
-Subdivision 12-C—Retirement payments, eligible termination payments and annuities
+#### Subdivision 12-C—Retirement payments, eligible termination payments and annuities
 
 **Table of sections**
 
@@ -1360,7 +1357,7 @@ Subdivision 12-C—Retirement payments, eligible termination payments and annuit
 
 12-90        Payment for unused leave
 
-12-80  Payment of pension or annuity
+##### <a id="12-80"></a>12-80  Payment of pension or annuity
 
                    An entity must withhold an amount from a payment it makes to an individual if the payment is:
 
@@ -1370,11 +1367,11 @@ Subdivision 12-C—Retirement payments, eligible termination payments and annuit
 
 For exceptions, see section 12-1.
 
-12-85  Eligible termination payment
+##### <a id="12-85"></a>12-85  Eligible termination payment
 
                    An entity must withhold an amount from an <sup>* </sup>eligible termination payment it makes to an individual.
 
-12-90  Payment for unused leave
+##### <a id="12-90"></a>12-90  Payment for unused leave
 
                    An entity must withhold an amount from a payment it makes to an individual if the payment is included in the individual’s assessable income under:
 
@@ -1386,7 +1383,7 @@ of the _Income Tax Assessment Act 1936_.
 
 For exceptions, see section 12-1.
 
-Subdivision 12-D—Benefit and compensation payments
+#### Subdivision 12-D—Benefit and compensation payments
 
 **Table of sections**
 
@@ -1396,7 +1393,7 @@ Subdivision 12-D—Benefit and compensation payments
 
 12-120      Compensation, sickness or accident payment
 
-12-110  Social Security or other benefit payment
+##### <a id="12-110"></a>12-110  Social Security or other benefit payment
 
              (1)  An entity must withhold an amount from a payment it makes to an individual if the payment is specified in:
 
@@ -1410,7 +1407,7 @@ Note:          Payments specified in those provisions of the _
 
              (2)  In working out the amount to be withheld, disregard so much of the payment as is <sup>* </sup>exempt income of the individual.
 
-12-115  Commonwealth education or training payment
+##### <a id="12-115"></a>12-115  Commonwealth education or training payment
 
              (1)  An entity must withhold an amount from a <sup>* </sup>Commonwealth education or training payment it makes to an individual.
 
@@ -1418,7 +1415,7 @@ For exceptions, see subsection (2) and section 12-1.
 
              (2)  In working out the amount to be withheld, disregard so much of the payment as is <sup>* </sup>exempt income of the individual.
 
-12-120  Compensation, sickness or accident payment
+##### <a id="12-120"></a>12-120  Compensation, sickness or accident payment
 
                    An entity must withhold an amount from a payment of compensation, or of sickness or accident pay, it makes to an individual if the payment:
 
@@ -1430,7 +1427,7 @@ For exceptions, see subsection (2) and section 12-1.
 
 For exceptions, see section 12-1.
 
-Subdivision 12-E—Payments where TFN or ABN not quoted
+#### Subdivision 12-E—Payments where TFN or ABN not quoted
 
 **Table of sections**
 
@@ -1454,9 +1451,9 @@ Payment for a supply
 
 12-190      Recipient does not quote ABN
 
-Payment in respect of investment
+#### Payment in respect of investment
 
-12-140  Recipient does not quote tax file number
+##### <a id="12-140"></a>12-140  Recipient does not quote tax file number
 
              (1)  An <sup>* </sup>investment body must withhold an amount from a payment it makes to another entity in respect of a <sup>* </sup>Part VA investment if:
 
@@ -1478,7 +1475,7 @@ an entity (including the <sup>* </sup>investment body) must withhold an amount f
 
 For exceptions to the rules in this section, see sections 12-155 to 12-170.
 
-12-145  Investor becoming presently entitled to income of a unit trust
+##### <a id="12-145"></a>12-145  Investor becoming presently entitled to income of a unit trust
 
              (1)  This section applies if:
 
@@ -1494,7 +1491,7 @@ For exceptions to the rules in this section, see sections 12-155 to 12-170.
 
              (4)  If that entity withholds an amount from that share as required by subsection (2), subsection 12-140(2) does not require an amount to be withheld from a payment of all or part of that share to the <sup>* </sup>investor.
 
-12-150  Limited application of section 12-140 to payment under eligible deferred interest investment
+##### <a id="12-150"></a>12-150  Limited application of section 12-140 to payment under eligible deferred interest investment
 
                    Section 12-140 applies to a payment in respect of an eligible deferred interest investment (as defined in subsection 221YHZA(1) of the _Income Tax Assessment Act 1936_) only to the extent that is covered by one or both of these paragraphs:
 
@@ -1504,7 +1501,7 @@ For exceptions to the rules in this section, see sections 12-155 to 12-170.
 
  Note:         To the extent that section 12-140 does not apply to the payment, TFN withholding tax may be payable on it. See Subdivision C of Division 3B of Part VI of the _Income Tax Assessment Act 1936_.
 
-12-155  When investor may quote ABN as alternative
+##### <a id="12-155"></a>12-155  When investor may quote ABN as alternative
 
                    Section 12-140 or 12-145 does not require an amount to be withheld if:
 
@@ -1512,7 +1509,7 @@ For exceptions to the rules in this section, see sections 12-155 to 12-170.
 
                      (b)  the other entity has an <sup>* </sup>ABN, and has <sup>* </sup>quoted it to the investment body, by the time referred to in paragraph 12-140(1)(b) or (c).
 
-12-160  Investment body unaware that exemption from quoting TFN has stopped applying
+##### <a id="12-160"></a>12-160  Investment body unaware that exemption from quoting TFN has stopped applying
 
                    Section 12-140 or 12-145 does not require an amount to be withheld if:
 
@@ -1522,7 +1519,7 @@ For exceptions to the rules in this section, see sections 12-155 to 12-170.
 
 Note:          Division 5 of Part VA of that Act provides, in certain cases, that even though an entity has not quoted its tax file number it is taken to have done so.
 
-12-165  Exception for fully franked dividend
+##### <a id="12-165"></a>12-165  Exception for fully franked dividend
 
                    Section 12-140 does not require an amount to be withheld if:
 
@@ -1532,15 +1529,15 @@ Note:          Division 5 of Part VA of that Act provides, in 
 
                      (c)  the franking percentage (within the meaning of section 160APA of that Act) for the dividend is 100%.
 
-12-170  Exception for payments below thresholds set by regulations
+##### <a id="12-170"></a>12-170  Exception for payments below thresholds set by regulations
 
              (1)  Section 12-140 or 12-145 does not require an amount to be withheld if the payment is less than the amount worked out under the regulations.
 
              (2)  Regulations made for the purposes of this section may deal differently with different payments.
 
-Payment for a supply
+#### Payment for a supply
 
-12-190  Recipient does not quote ABN
+##### <a id="12-190"></a>12-190  Recipient does not quote ABN
 
              (1)  An entity (the **_payer_**) must withhold an amount from a payment it makes to another entity if:
 
@@ -1594,7 +1591,7 @@ No need to quote ABN
 
                      (b)  the payer has no reasonable grounds to believe that the statement is false or misleading in a material particular.
 
-Subdivision 12-F—Dividend, interest and royalty payments
+#### Subdivision 12-F—Dividend, interest and royalty payments
 
 **Table of sections**
 
@@ -1628,9 +1625,9 @@ General
 
 12-300      Limits on amount withheld under this Subdivision
 
-Dividends
+#### Dividends
 
-12-210  Dividend payment to overseas person
+##### <a id="12-210"></a>12-210  Dividend payment to overseas person
 
                    A company that is an Australian resident must withhold an amount from a <sup>* </sup>dividend it pays if:
 
@@ -1640,7 +1637,7 @@ Dividends
 
 For limits on the amount to be withheld, see section 12-300.
 
-12-215  Dividend payment received for foreign resident
+##### <a id="12-215"></a>12-215  Dividend payment received for foreign resident
 
                    Immediately after receiving a payment of a <sup>* </sup>dividend of a company that is an Australian resident, an entity must withhold an amount from the dividend if:
 
@@ -1654,17 +1651,17 @@ For limits on the amount to be withheld, see section 12-300.
 
 For limits on the amount to be withheld, see section 12-300.
 
-12-220  Application to part of a dividend
+##### <a id="12-220"></a>12-220  Application to part of a dividend
 
                    This Part applies to a part of a <sup>* </sup>dividend in the same way as to a dividend.
 
-12-225  Application to distribution by a liquidator or other person
+##### <a id="12-225"></a>12-225  Application to distribution by a liquidator or other person
 
                    This Part applies to a distribution that section 47 of the _Income Tax Assessment Act 1936_ treats as a <sup>* </sup>dividend paid by a company, in the same way as this Part applies to a dividend paid by the company, and as if the liquidator or other person making the distribution were the company.
 
-Interest
+#### Interest
 
-12-245  Interest payment to overseas person
+##### <a id="12-245"></a>12-245  Interest payment to overseas person
 
                    An entity must withhold an amount from interest (within the meaning of Division 11A of Part III of the _Income Tax Assessment Act 1936_) it pays to an entity, or to entities jointly, if:
 
@@ -1674,7 +1671,7 @@ Interest
 
 For limits on the amount to be withheld, see section 12-300.
 
-12-250  Interest payment received for foreign resident
+##### <a id="12-250"></a>12-250  Interest payment received for foreign resident
 
                    Immediately after receiving a payment of interest (within the meaning of Division 11A of Part III of the _Income Tax Assessment Act 1936_), an entity must withhold an amount from the payment if:
 
@@ -1688,7 +1685,7 @@ For limits on the amount to be withheld, see section 12-300.
 
 For limits on the amount to be withheld, see section 12-300.
 
-12-255  Interest payment derived by lender in carrying on business through overseas permanent establishment
+##### <a id="12-255"></a>12-255  Interest payment derived by lender in carrying on business through overseas permanent establishment
 
                    An entity must withhold an amount from interest (within the meaning of Division 11A of Part III of the _Income Tax Assessment Act 1936_) it pays if it has been notified:
 
@@ -1698,7 +1695,7 @@ For limits on the amount to be withheld, see section 12-300.
 
 For limits on the amount to be withheld, see section 12-300.
 
-12-260  Lender to notify borrower if interest derived through overseas permanent establishment
+##### <a id="12-260"></a>12-260  Lender to notify borrower if interest derived through overseas permanent establishment
 
              (1)  If:
 
@@ -1724,9 +1721,9 @@ those entities, or the agency, must notify the entity liable to pay the interest
 
 Failure to comply with this section may contravene section 8C of this Act.
 
-Royalties
+#### Royalties
 
-12-280  Royalty payment to overseas person
+##### <a id="12-280"></a>12-280  Royalty payment to overseas person
 
                    An entity must withhold an amount from a <sup>* </sup>royalty it pays to an entity, or to entities jointly, if:
 
@@ -1736,7 +1733,7 @@ Royalties
 
 For limits on the amount to be withheld, see section 12-300.
 
-12-285  Royalty payment received for foreign resident
+##### <a id="12-285"></a>12-285  Royalty payment received for foreign resident
 
                    Immediately after receiving a payment of a <sup>* </sup>royalty, an entity must withhold an amount from the royalty if:
 
@@ -1750,9 +1747,9 @@ For limits on the amount to be withheld, see section 12-300.
 
 For limits on the amount to be withheld, see section 12-300.
 
-General
+#### General
 
-12-300  Limits on amount withheld under this Subdivision
+##### <a id="12-300"></a>12-300  Limits on amount withheld under this Subdivision
 
                    This Subdivision does not require an entity:
 
@@ -1762,7 +1759,7 @@ General
 
 Note:          Section 128B of the _Income Tax Assessment Act 1936_ deals with withholding tax liability.
 
-Subdivision 12-G—Payments in respect of mining on Aboriginal land, and natural resources
+#### Subdivision 12-G—Payments in respect of mining on Aboriginal land, and natural resources
 
 **Table of sections**
 
@@ -1778,9 +1775,9 @@ Natural resources
 
 12-335      Commissioner may exempt from section 12-330, subject to conditions
 
-Mining on Aboriginal land
+#### Mining on Aboriginal land
 
-12-320  Mining payment
+##### <a id="12-320"></a>12-320  Mining payment
 
              (1)  An entity must withhold an amount from a <sup>* </sup>mining payment that:
 
@@ -1796,9 +1793,9 @@ Mining on Aboriginal land
 
 Note:          Section 128V of the _Income Tax Assessment Act 1936_ deals with mining withholding tax liability.
 
-Natural resources
+#### Natural resources
 
-12-325  Natural resource payment
+##### <a id="12-325"></a>12-325  Natural resource payment
 
              (1)  An entity must withhold an amount from a payment it makes to a foreign resident, or to 2 or more entities at least one of which is a foreign resident, if the payment is worked out wholly or partly by reference to the value or quantity of <sup>* </sup>natural resources produced or recovered in Australia.
 
@@ -1818,7 +1815,7 @@ Exception
 
                      (b)  a certificate in force under section 12-335 covers the payment and does not require the entity to withhold an amount from it.
 
-12-330  Payer must ask Commissioner how much to withhold
+##### <a id="12-330"></a>12-330  Payer must ask Commissioner how much to withhold
 
              (1)  An entity must not, intentionally or recklessly, make a payment from which section 12-325 requires it to withhold an amount, unless:
 
@@ -1836,7 +1833,7 @@ Failure to notify not an offence against section 8C
 
              (2)  An entity that fails to notify the Commissioner as required by subsection (1) does not commit an offence against section 8C.
 
-12-335  Commissioner may exempt from section 12-330, subject to conditions
+##### <a id="12-335"></a>12-335  Commissioner may exempt from section 12-330, subject to conditions
 
              (1)  The Commissioner may give an entity a written certificate exempting the entity from complying with section 12-330 for specified payments.
 
@@ -1858,7 +1855,7 @@ Note:          A person who is dissatisfied with a decision un
 
 \[The next Division is Division 14.]
 
-Division 14—Non-cash benefits for which amounts must be paid to the Commissioner
+### Division 14—Non-cash benefits for which amounts must be paid to the Commissioner
 
 **Table of sections**
 
@@ -1870,7 +1867,7 @@ Division 14—Non-cash benefits for which amounts must be paid to the Commission
 
 14-15        Payer can recover amount paid to the Commissioner
 
-14-1  Object of this Division
+##### <a id="14-1"></a>14-1  Object of this Division
 
                    The object of this Division is:
 
@@ -1878,7 +1875,7 @@ Division 14—Non-cash benefits for which amounts must be paid to the Commission
 
                      (b)  in that way, to prevent entities from avoiding their obligations under Division 12 by providing non-cash benefits.
 
-14-5  Provider of non-cash benefit must pay amount to the Commissioner if payment would be subject to withholding
+##### <a id="14-5"></a>14-5  Provider of non-cash benefit must pay amount to the Commissioner if payment would be subject to withholding
 
              (1)  An entity (the **_payer_**) must pay an amount to the Commissioner before providing a <sup>* </sup>non-cash benefit to another entity (the **_recipient_**) if Division 12 would require the payer to withhold an amount (the **_notionally withheld amount_**) if, instead of providing the benefit to the recipient, the payer made a payment to the recipient in money equal to the <sup>* </sup>market value of the benefit when the benefit is provided.
 
@@ -1900,7 +1897,7 @@ Example:    Nick is a building contractor who has entered into a voluntary
 
                      (d)  a benefit constituted by the acquisition of a share or right under an employee share scheme (within the meaning of Division 13A of Part III of the _Income Tax Assessment Act 1936_).
 
-14-10  Dividend, interest or royalty received, for a foreign resident, in the form of a non-cash benefit
+##### <a id="14-10"></a>14-10  Dividend, interest or royalty received, for a foreign resident, in the form of a non-cash benefit
 
                    If:
 
@@ -1916,7 +1913,7 @@ Example:    Nick is a building contractor who has entered into a voluntary
 
 the payer must pay that amount to the Commissioner before providing the benefit (or part of it) to another entity.
 
-14-15  Payer can recover amount paid to the Commissioner
+##### <a id="14-15"></a>14-15  Payer can recover amount paid to the Commissioner
 
              (1)  The payer may recover from the recipient as a debt an amount that the payer has paid to the Commissioner under section 14-5.
 
@@ -1930,7 +1927,7 @@ the payer must pay that amount to the Commissioner before providing the benefit 
 
 \[The next Division is Division 16.]
 
-Division 16—Payer’s obligations and rights
+### Division 16—Payer’s obligations and rights
 
 **Table of Subdivisions**
 
@@ -1944,9 +1941,9 @@ Guide to Division 16
 
  16-D     Additional rights and obligations of entity that makes a dividend, interest or royalty payment
 
-Guide to Division 16
+#### Guide to Division 16
 
-16-1  What this Division is about
+##### <a id="16-1"></a>16-1  What this Division is about
 
 * * *
 
@@ -1956,7 +1953,7 @@ This Division sets out the obligations and rights of an entity required to withh
 
 * * *
 
-Subdivision 16-A—To withhold
+#### Subdivision 16-A—To withhold
 
 **Table of sections**
 
@@ -1984,9 +1981,9 @@ Penalties for not withholding
 
 16-50        General interest charge on unpaid penalty
 
-When and how much to withhold
+#### When and how much to withhold
 
-16-5  When to withhold an amount
+##### <a id="16-5"></a>16-5  When to withhold an amount
 
                    If Division 12 requires an entity to withhold an amount from a payment, the entity must do so when making the payment.
 
@@ -1994,7 +1991,7 @@ Note 1:       An entity is required to withhold an amount under sect
 
 Note 2:       If section 12-215, 12-250 or 12-285 requires an entity to withhold an amount from a payment received by the entity, the entity must do so immediately after receiving the payment.
 
-16-10  How much to withhold
+##### <a id="16-10"></a>16-10  How much to withhold
 
              (1)  The amount that Division 12 requires to be withheld from a payment (except one covered by section 12-325) is to be worked out under the regulations.
 
@@ -2002,7 +1999,7 @@ Note 2:       If section 12-215, 12-250 or 12-285 requires an entity
 
 Note:          The Commissioner may vary an amount required to be withheld. See section 16-15.
 
-16-15  Variation of amounts required to be withheld
+##### <a id="16-15"></a>16-15  Variation of amounts required to be withheld
 
              (1)  The Commissioner may, for the purposes of meeting the special circumstances of a particular case or class of cases, vary the <sup>* </sup>amount required to be withheld by an entity from a <sup>* </sup>withholding payment (except a withholding payment covered by section 12-140 or 12-145). If the Commissioner does so, the amount is varied accordingly.
 
@@ -2016,7 +2013,7 @@ Note:          Section 12-140 is about a payment arising from 
 
                      (b)  if it applies to a class of entities—that is given to each of the entities, or a copy of which is published in the _Gazette_.
 
-16-20  Payer discharged from liability to recipient for amount withheld 
+##### <a id="16-20"></a>16-20  Payer discharged from liability to recipient for amount withheld 
 
                    An entity that:
 
@@ -2028,9 +2025,9 @@ is discharged from all liability to pay or account for that amount to any entity
 
 Note:          The entity may be required to refund the amount in some circumstances. See Subdivision 18-B.
 
-Penalties for not withholding
+#### Penalties for not withholding
 
-16-25  Failure to withhold: offence
+##### <a id="16-25"></a>16-25  Failure to withhold: offence
 
              (1)  An entity must not fail to withhold an amount as required by Division 12.
 
@@ -2058,7 +2055,7 @@ Note 2:       See sections 16-30, 16-35 and 16-40 for an alternative
 
 the court may order the convicted person to pay to the Commissioner an amount up to the <sup>* </sup>amount required to be withheld. The court may so order in addition to imposing a penalty on the convicted person.
 
-16-30  Failure to withhold: civil penalty for entity other than exempt Australian government agency
+##### <a id="16-30"></a>16-30  Failure to withhold: civil penalty for entity other than exempt Australian government agency
 
              (1)  An entity (except an <sup>* </sup>exempt Australian government agency) that:
 
@@ -2072,7 +2069,7 @@ is liable to pay to the Commissioner a penalty (the **_penalty amount_**) equal 
 
 Note:          An entity may become liable under this section in respect of a payment it made or received that is taken to have been subject to withholding tax as a result of a Commissioner’s determination under subsection 177F(2A) of the _Income Tax Assessment Act 1936_ (see also subsection 177F(2F) of that Act).
 
-16-35  Failure to withhold: civil penalty for exempt Australian government agency in relation to payment other than dividend, interest or royalty
+##### <a id="16-35"></a>16-35  Failure to withhold: civil penalty for exempt Australian government agency in relation to payment other than dividend, interest or royalty
 
              (1)  An <sup>* </sup>exempt Australian government agency that:
 
@@ -2092,7 +2089,7 @@ Exception
 
              (4)  This section does not apply in relation to an <sup>* </sup>amount required to be withheld from a <sup>* </sup>withholding payment covered by Subdivision 12-F (about dividend, interest or royalty payment).
 
-16-40  Failure to withhold: civil penalty for exempt Australian government agency in relation to dividend, interest or royalty payment
+##### <a id="16-40"></a>16-40  Failure to withhold: civil penalty for exempt Australian government agency in relation to dividend, interest or royalty payment
 
              (1)  An <sup>* </sup>exempt Australian government agency that:
 
@@ -2106,7 +2103,7 @@ is liable to pay to the Commissioner a penalty (the **_penalty amount_**) equal 
 
 Note:          An entity may become liable under this section in respect of a payment it made or received that is taken to have been subject to withholding tax as a result of a Commissioner’s determination under subsection 177F(2A) of the _Income Tax Assessment Act 1936_ (see also subsection 177F(2F) of that Act).
 
-16-45  Remission of penalty under section 16-30, 16-35 or 16-40
+##### <a id="16-45"></a>16-45  Remission of penalty under section 16-30, 16-35 or 16-40
 
              (1)  The Commissioner may remit all or a part of a penalty under section 16-30, 16-35 or 16-40.
 
@@ -2120,7 +2117,7 @@ the Commissioner must give written notice of the decision to the entity liable t
 
 Note:          A person who is dissatisfied with a decision under this section may object against the decision in the manner set out in Part IVC.
 
-16-50  General interest charge on unpaid penalty
+##### <a id="16-50"></a>16-50  General interest charge on unpaid penalty
 
                    If a penalty under section 16-30, 16-35 or 16-40 remains unpaid after it is due, the entity liable to pay the penalty amount is liable to pay <sup>* </sup>general interest charge on the unpaid amount for each day in the period that:
 
@@ -2132,7 +2129,7 @@ Note:          A person who is dissatisfied with a decision un
 
                              (ii)  general interest charge on any of the penalty amount.
 
-Subdivision 16-B—To pay withheld amounts to the Commissioner
+#### Subdivision 16-B—To pay withheld amounts to the Commissioner
 
 **Table of sections**
 
@@ -2170,15 +2167,15 @@ Special rules for 2000-01
 
 16-135      Meaning of _medium withholder_
 
-When and how to pay amounts to the Commissioner
+#### When and how to pay amounts to the Commissioner
 
-16-70  Entity to pay amounts to Commissioner
+##### <a id="16-70"></a>16-70  Entity to pay amounts to Commissioner
 
              (1)  An entity that withholds an amount under Division 12 must pay the amount to the Commissioner in accordance with this Subdivision.
 
              (2)  An entity required to pay an amount to the Commissioner under Division 14 must pay that amount to the Commissioner in accordance with this Subdivision (except sections 16-75 and 16-80).
 
-16-75  When amounts must be paid to Commissioner
+##### <a id="16-75"></a>16-75  When amounts must be paid to Commissioner
 
 Large withholder
 
@@ -2266,7 +2263,7 @@ Small withholders
 
 Note:          A different rule applies for certain kinds of amounts withheld during 2000-01\. See section 16-120.
 
-16-80  Penalty for failure to pay within time
+##### <a id="16-80"></a>16-80  Penalty for failure to pay within time
 
                    If an amount that an entity must pay to the Commissioner under subsection 16-70(1) remains unpaid after the time by which it is due to be paid, the entity is liable to pay <sup>* </sup>general interest charge on the unpaid amount for each day in the period that:
 
@@ -2278,7 +2275,7 @@ Note:          A different rule applies for certain kinds of a
 
                              (ii)  general interest charge on any of the unpaid amount.
 
-16-85  How amounts are to be paid
+##### <a id="16-85"></a>16-85  How amounts are to be paid
 
 Large withholder 
 
@@ -2304,7 +2301,7 @@ Commissioner may vary payment method
 
              (3)  The Commissioner may, with an entity’s agreement, vary the means by which the withholder pays amounts to the Commissioner under this Subdivision. The variation must be by written notice given to the entity.
 
-16-90  Large withholder: penalty for non-electronic payment
+##### <a id="16-90"></a>16-90  Large withholder: penalty for non-electronic payment
 
              (1)  A <sup>* </sup>large withholder that pays an amount by a means that does not comply with this Division is liable to a penalty of 5 penalty units.
 
@@ -2348,9 +2345,9 @@ Exception
 
                      (b)  the Commissioner has varied under section 16-85 the means by which the large withholder pays amounts to the Commissioner.
 
-Who is a large, medium or small withholder
+#### Who is a large, medium or small withholder
 
-16-95  Meaning of large withholder
+##### <a id="16-95"></a>16-95  Meaning of _large withholder_
 
              (1)  An entity is a **_large withholder_** for a particular month (the **_current month_**) in a <sup>* </sup>financial year starting on or after 1 July 2001 if:
 
@@ -2372,7 +2369,7 @@ Exception
 
              (2)  However, the entity is not a <sup>* </sup>large withholder if the Commissioner determines under section 16-110 that it is a <sup>* </sup>medium withholder or a <sup>* </sup>small withholder for the current month.
 
-16-100  Meaning of medium withholder 
+##### <a id="16-100"></a>16-100  Meaning of _medium withholder_ 
 
              (1)  An entity is a **_medium withholder_** for a particular month (the **_current month_**) in a <sup>* </sup>financial year starting on or after 1 July 2001 if it is not a <sup>* </sup>large withholder for that month and:
 
@@ -2386,7 +2383,7 @@ Note:          Different rules apply for working out who is a 
 
              (2)  However, the entity is not a <sup>* </sup>medium withholder if the Commissioner determines under section 16-110 or 16-115 that the entity is a <sup>* </sup>large withholder or a <sup>* </sup>small withholder for the current month.
 
-16-105  Meaning of small withholder
+##### <a id="16-105"></a>16-105  Meaning of _small withholder_
 
                    An entity is a **_small withholder_** for a particular month if:
 
@@ -2394,7 +2391,7 @@ Note:          Different rules apply for working out who is a 
 
                      (b)  the entity is neither a <sup>* </sup>large withholder nor a <sup>* </sup>medium withholder for that month.
 
-16-110  Commissioner may vary withholder’s status downwards
+##### <a id="16-110"></a>16-110  Commissioner may vary withholder’s status downwards
 
              (1)  The Commissioner may, by giving written notice to a <sup>* </sup>withholder:
 
@@ -2418,7 +2415,7 @@ Note:          Different rules apply for working out who is a 
 
 Note:          A person who is dissatisfied with a decision under this section may object against the decision in the manner set out in Part IVC.
 
-16-115  Commissioner may vary withholder’s status upwards
+##### <a id="16-115"></a>16-115  Commissioner may vary withholder’s status upwards
 
              (1)  The Commissioner may, by giving written notice to a <sup>* </sup>withholder:
 
@@ -2454,9 +2451,9 @@ Note:          A person who is dissatisfied with a decision un
 
 Note:          A person who is dissatisfied with a decision under this section may object against the decision in the manner set out in Part IVC.
 
-Special rules for 2000-01
+#### Special rules for 2000-01
 
-16-120  When certain amounts must be paid to the Commissioner
+##### <a id="16-120"></a>16-120  When certain amounts must be paid to the Commissioner
 
                    If an entity withholds an amount under a provision listed in the table during a month in the <sup>* </sup>financial year starting on 1 July 2000, it must pay the amount to the Commissioner by the end of the 21st day of the next month.
 
@@ -2607,7 +2604,7 @@ Special rules for 2000-01
   </td>
 </tr></table>
 
-16-125  Meaning of large withholder
+##### <a id="16-125"></a>16-125  Meaning of _large withholder_
 
              (1)  An entity is a **_large withholder_** for a particular month (the **_current month_**) in the <sup>* </sup>financial year starting on 1 July 2000 if:
 
@@ -2647,7 +2644,7 @@ Exception
 
              (5)  However, an entity is not a <sup>* </sup>large withholder for a month if the Commissioner determines under section 16-110 that it is a <sup>* </sup>medium withholder or a <sup>* </sup>small withholder for that month.
 
-16-130  When and how some large withholders must pay amounts for July and August 2000
+##### <a id="16-130"></a>16-130  When and how some large withholders must pay amounts for July and August 2000
 
              (1)  This section applies to an entity that is a <sup>* </sup>large withholder for July or August 2000 (otherwise than because of paragraph 16-125(1)(a)).
 
@@ -2661,7 +2658,7 @@ Exception
 
 by a means of <sup>* </sup>electronic payment, or any other means approved in writing by the Commissioner.
 
-16-135  Meaning of medium withholder
+##### <a id="16-135"></a>16-135  Meaning of _medium withholder_
 
              (1)  An entity is a **_medium withholder_** for a particular month (the **_current month_**) in the <sup>* </sup>financial year starting on 1 July 2000 if the entity is not a <sup>* </sup>large withholder for that month and:
 
@@ -2677,7 +2674,7 @@ by a means of <sup>* </sup>electronic payment, or any other means approved in wr
 
              (2)  However, the entity is not a <sup>* </sup>medium withholder if the Commissioner determines under section 16-110 or 16-115 that the entity is a <sup>* </sup>large withholder or a <sup>* </sup>small withholder for the current month.
 
-Subdivision 16-C—To provide information
+#### Subdivision 16-C—To provide information
 
 **Table of sections**
 
@@ -2697,9 +2694,9 @@ To recipients of withholding payments
 
 16-175      Penalty for not providing payment summary
 
-To the Commissioner
+#### To the Commissioner
 
-16-150  Commissioner must be notified of amounts
+##### <a id="16-150"></a>16-150  Commissioner must be notified of amounts
 
              (1)  An entity that must pay an amount to the Commissioner under:
 
@@ -2715,9 +2712,9 @@ must notify the Commissioner of the amount on or before the day on which the amo
 
                      (b)  finishes at the end of the day before the Commissioner receives notification from the entity, or otherwise becomes aware, of the correct amount.
 
-To recipients of withholding payments
+#### To recipients of withholding payments
 
-16-155  Annual payment summary
+##### <a id="16-155"></a>16-155  Annual payment summary
 
              (1)  Within 14 days after the end of a <sup>* </sup>financial year, an entity (the **_payer_**) must give a <sup>* </sup>payment summary (and a copy of it) to another entity (the **_recipient_**) if:
 
@@ -2733,7 +2730,7 @@ To recipients of withholding payments
 
                      (b)  if paragraph (1)(c) applies—the <sup>* </sup>reportable fringe benefits amount, except so much of it as is covered by a previous payment summary (and a copy of it) given by the payer to the recipient under this section.
 
-16-160  Part-year payment summary
+##### <a id="16-160"></a>16-160  Part-year payment summary
 
              (1)  An entity (the **_payer_**) must give a <sup>* </sup>payment summary (and a copy of it) to another entity (the **_recipient_**) if, not later than 21 days before the end of a <sup>* </sup>financial year, the recipient asks in writing for a payment summary covering:
 
@@ -2745,11 +2742,11 @@ other than a payment covered by a previous payment summary (and a copy of it) gi
 
              (2)  The payer must comply with the request within 14 days after receiving it, unless the recipient is an individual and has a <sup>* </sup>reportable fringe benefits amount, for the income year ending at the end of that <sup>* </sup>financial year, in respect of his or her employment (within the meaning of the _Fringe Benefits Tax Assessment Act 1986_) by the payer.
 
-16-165  Payment summary for eligible termination payment
+##### <a id="16-165"></a>16-165  Payment summary for eligible termination payment
 
-                   Within 14 days after an entity (the **_payer_**) makes a <sup>* </sup>withholding payment covered by section 12-85 (about <sup>* </sup>eligible termination payments) to another entity (the **_recipient_**), the payer must give the recipient a <sup>* </sup>payment summary (and a copy of it) that covers that payment. (The summary must cover only that payment.)
+                   Within 14 days after an entity (the **_payer_**) makes a <sup>* </sup>withholding payment covered by section 12-85 (about <sup>* </sup>eligible termination payments) to another entity (the **_recipient_**), the payer must give the recipient a <sup>* </sup>payment summary (and a copy of it) that covers that payment. (The summary must cover only that payment.)
 
-16-170  Form and content of payment summary
+##### <a id="16-170"></a>16-170  Form and content of payment summary
 
              (1)  A **_payment summary_** is a written statement that:
 
@@ -2771,7 +2768,7 @@ other than a payment covered by a previous payment summary (and a copy of it) gi
 
              (4)  The Commissioner may vary any requirements under subsection (1), (2) or (3) by written notice given to an entity. The Commissioner may do so in such instances and to such extent as the Commissioner thinks fit.
 
-16-175  Penalty for not providing payment summary
+##### <a id="16-175"></a>16-175  Penalty for not providing payment summary
 
                    An entity must not fail to comply with any requirements under section 16-155, 16-160 or 16-165, or subsection 16-170(1), (2) or (3) (including any requirements varied by the Commissioner under subsection 16-170(4)).
 
@@ -2779,7 +2776,7 @@ other than a payment covered by a previous payment summary (and a copy of it) gi
 
 Note:          See section 4AA of the _Crimes Act 1914_ for the current value of a penalty unit.
 
-Subdivision 16-D—Additional rights and obligations of entity that makes a dividend, interest or royalty payment
+#### Subdivision 16-D—Additional rights and obligations of entity that makes a dividend, interest or royalty payment
 
 **Table of sections**
 
@@ -2787,7 +2784,7 @@ Subdivision 16-D—Additional rights and obligations of entity that makes a divi
 
 16-200      Payer’s liability and right: additional withholding tax
 
-16-195  Payer’s right to recover amounts of penalty: withholding tax and mining withholding tax
+##### <a id="16-195"></a>16-195  Payer’s right to recover amounts of penalty: withholding tax and mining withholding tax
 
                    An entity that has paid an amount of penalty under section 16-30, 16-35 or 16-40 for a <sup>* </sup>withholding payment covered by:
 
@@ -2799,7 +2796,7 @@ may recover an amount equal to the amount of penalty from the person liable to p
 
 Note           Sections 16-30, 16-35 and 16-40 provide for a civil penalty for failing to comply with Division 12 or 14.
 
-16-200  Payer’s liability and right: additional withholding tax
+##### <a id="16-200"></a>16-200  Payer’s liability and right: additional withholding tax
 
 Penalty
 
@@ -2831,7 +2828,7 @@ General interest charge
 
 \[The next Division is Division 18.]
 
-Division 18—Recipient’s entitlements and obligations
+### Division 18—Recipient’s entitlements and obligations
 
 **Table of Subdivisions**
 
@@ -2841,11 +2838,11 @@ Division 18—Recipient’s entitlements and obligations
 
  18-C     Recipient’s obligations
 
-Subdivision 18-A—Crediting withheld amounts against liability for income tax, withholding tax or mining withholding tax
+#### Subdivision 18-A—Crediting withheld amounts against liability for income tax, withholding tax or mining withholding tax
 
-Guide to Subdivision 18-A
+#### Guide to Subdivision 18-A
 
-18-1  What this Subdivision is about
+##### <a id="18-1"></a>18-1  What this Subdivision is about
 
 * * *
 
@@ -2911,19 +2908,19 @@ Entitlement to credit: mining payment
 
  \[This is the end of the Guide.]
 
-General exception
+#### General exception
 
-18-5  No credit for refunded amount
+##### <a id="18-5"></a>18-5  No credit for refunded amount
 
                    A person is _not_ entitled to a credit under this Subdivision for an <sup>* </sup>amount withheld from a <sup>* </sup>withholding payment to the extent that the amount must be refunded under Subdivision 18-B.
 
-Entitlement to credits: income tax liability
+#### Entitlement to credits: income tax liability
 
-18-10  Application of sections 18-15, 18-20 and 18-25
+##### <a id="18-10"></a>18-10  Application of sections 18-15, 18-20 and 18-25
 
                    The rules set out in sections 18-15, 18-20 and 18-25 do _not_ apply to an <sup>* </sup>amount withheld from a <sup>* </sup>withholding payment that is covered by Subdivision 12-F (about dividend, interest or royalties) or section 12-320 (about mining payments).
 
-18-15  Tax credit for recipient of withholding payments
+##### <a id="18-15"></a>18-15  Tax credit for recipient of withholding payments
 
                    A person is entitled to a credit equal to the total of the <sup>* </sup>amounts withheld from <sup>* </sup>withholding payments made to the person during an income year if:
 
@@ -2931,7 +2928,7 @@ Entitlement to credits: income tax liability
 
                      (b)  the Commissioner is satisfied that no income tax is payable by the person for the income year.
 
-18-20  Tax credit where recipient is a partnership
+##### <a id="18-20"></a>18-20  Tax credit where recipient is a partnership
 
              (1)  A person is entitled to a credit in respect of <sup>* </sup>amounts withheld from <sup>* </sup>withholding payments made to a partnership during an income year if:
 
@@ -2943,7 +2940,7 @@ Entitlement to credits: income tax liability
 
              (2)  The amount of the credit is worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image002.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image002.gif)</sub>
 
 where:
 
@@ -2953,7 +2950,7 @@ where:
 
                     <a name="net-incom-partnership-loss"></a>**_net income/partnership loss_** means so much of the net income or partnership loss for that income year as is attributable to the <sup>* </sup>withholding payments.
 
-18-25  Tax credit where recipient is a trust
+##### <a id="18-25"></a>18-25  Tax credit where recipient is a trust
 
              (1)  A person is entitled under subsection (2), (4), (6) or (8) to a credit in respect of <sup>* </sup>amounts withheld (the **_amounts withheld_**) from <sup>* </sup>withholding payments made to the trustee of a trust during an income year.
 
@@ -2969,7 +2966,7 @@ Trust—section 97
 
              (3)  The amount of the credit is worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image003.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image003.gif)</sub>
 
                    where:
 
@@ -2989,7 +2986,7 @@ Trust—section 98
 
              (5)  The amount of the credit is worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image003.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image003.gif)</sub>
 
 where:
 
@@ -3009,7 +3006,7 @@ Trust—section 99 or 99A
 
              (7)  The amount of the credit is worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image004.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image004.gif)</sub>
 
 where:
 
@@ -3021,9 +3018,9 @@ Trust—no net income
 
              (8)  If there is no net income of the trust for the income year, the trustee is entitled to a credit equal to the sum of the <sup>* </sup>amounts withheld from the <sup>* </sup>withholding payments.
 
-Entitlement to credits: dividend, interest or royalty 
+#### Entitlement to credits: dividend, interest or royalty 
 
-18-30  Credit: dividend, interest or royalty
+##### <a id="18-30"></a>18-30  Credit: dividend, interest or royalty
 
              (1)  A person is entitled to a credit if:
 
@@ -3035,7 +3032,7 @@ Entitlement to credits: dividend, interest or royalty
 
 Note:          A taxpayer may also be entitled to a credit in relation to payment of interest under, or in relation to the transfer of, a qualifying security. See section 221YSA of the _Income Tax Assessment Act 1936_.
 
-18-35  Credit: penalty under section 16-30 or 16-40 or related general interest charge
+##### <a id="18-35"></a>18-35  Credit: penalty under section 16-30 or 16-40 or related general interest charge
 
              (1)  If an entity has paid:
 
@@ -3071,7 +3068,7 @@ then:
 
                      (d)  the Commissioner must pay to the entity an amount equal to the amount that is remitted.
 
-18-40  Credit: liability under section 16-200
+##### <a id="18-40"></a>18-40  Credit: liability under section 16-200
 
              (1)  If an entity has paid to the Commissioner:
 
@@ -3107,9 +3104,9 @@ then:
 
                      (d)  the Commissioner must pay to the entity an amount equal to the amount that is remitted.
 
-Entitlement to credit: mining payment
+#### Entitlement to credit: mining payment
 
-18-45  Credit—mining payment
+##### <a id="18-45"></a>18-45  Credit—mining payment
 
 Credit—amount withheld
 
@@ -3119,7 +3116,7 @@ Credit—amount withheld
 
                      (b)  if, under subsection 128U(4) of that Act, separate mining payments are taken to have been made to, or applied for the benefit of, 2 or more persons because of that payment—each of those persons is entitled to a credit equal to the amount worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image005.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image005.gif)</sub>
 
 Credit—penalty amount
 
@@ -3129,7 +3126,7 @@ Credit—penalty amount
 
                      (b)  if paragraph (1)(b) applies—each of the persons mentioned in that paragraph is entitled to a credit of an amount worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image006.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image006.gif)</sub>
 
 Remission
 
@@ -3139,7 +3136,7 @@ Remission
 
                      (b)  the Commissioner must pay to the entity an amount equal to the amount that is remitted.
 
-Subdivision 18-B—Refund of certain withheld amounts
+#### Subdivision 18-B—Refund of certain withheld amounts
 
 **Table of sections**
 
@@ -3151,7 +3148,7 @@ Subdivision 18-B—Refund of certain withheld amounts
 
 18-80        Refund by Commissioner of amount withheld from payment in respect of investment
 
-18-65  Refund of withheld amounts by the payer to the recipient
+##### <a id="18-65"></a>18-65  Refund of withheld amounts by the payer to the recipient
 
              (1)  An entity (the **_payer_**) must refund to another entity (the **_recipient_**) an amount if:
 
@@ -3229,7 +3226,7 @@ the payment to the Commissioner is reduced by so much of the amount as the payer
 
                      (b)  the payer has sought to recover from the Commissioner under subsection (5).
 
-18-70  Refund of withheld amounts by the Commissioner to the recipient
+##### <a id="18-70"></a>18-70  Refund of withheld amounts by the Commissioner to the recipient
 
              (1)  An entity (the **_recipient_**) may apply in writing to the Commissioner for the refund of an amount if: 
 
@@ -3263,7 +3260,7 @@ and the Commissioner is satisfied that it would be fair and reasonable to refund
 
 Note:          A person who is dissatisfied with a decision under this section may object against the decision in the manner set out in Part IVC.
 
-18-75  Refund of withheld amounts relating to eligible termination payment
+##### <a id="18-75"></a>18-75  Refund of withheld amounts relating to eligible termination payment
 
              (1)  The Commissioner must refund all or part of an <sup>* </sup>amount withheld from a <sup>* </sup>withholding payment covered by section 12-85 (about eligible termination payment) if:
 
@@ -3291,7 +3288,7 @@ Note:          A person who is dissatisfied with a decision un
 
 as appropriate.
 
-18-80  Refund by Commissioner of amount withheld from payment in respect of investment
+##### <a id="18-80"></a>18-80  Refund by Commissioner of amount withheld from payment in respect of investment
 
                    The Commissioner must refund to an entity all or part of an <sup>* </sup>amount withheld from a <sup>* </sup>withholding payment covered by section 12-140 or 12-145 that was made to that entity if:
 
@@ -3303,9 +3300,9 @@ as appropriate.
 
 Note:          A person who is dissatisfied with a decision under this section may object against the decision in the manner set out in Part IVC.
 
-Subdivision 18-C—Recipient’s obligations
+#### Subdivision 18-C—Recipient’s obligations
 
-18-100  Obligation to keep payment summary
+##### <a id="18-100"></a>18-100  Obligation to keep payment summary
 
                    An entity that is given a <sup>* </sup>payment summary and a copy of it in any financial year under this Part must retain that copy for 5 years after the end of that year.
 
@@ -3315,9 +3312,9 @@ Note:          See section 4AA of the _Crimes Act 1914_ for th
 
 \[The next Division is Division 20.]
 
-Division 20—Other matters
+### Division 20—Other matters
 
-**Table of Subdivisions** 
+**Table of Subdivisions**
 
  20-A     How this Part applies to certain entities
 
@@ -3327,7 +3324,7 @@ Division 20—Other matters
 
  20-D     Review of decisions
 
-Subdivision 20-A—How this Part applies to certain entities
+#### Subdivision 20-A—How this Part applies to certain entities
 
 **Table of sections**
 
@@ -3337,7 +3334,7 @@ Subdivision 20-A—How this Part applies to certain entities
 
 20-15        Superannuation funds
 
-20-5  Partnerships
+##### <a id="20-5"></a>20-5  Partnerships
 
              (1)  This Part applies to a partnership as if the partnership were a person, but with the changes set out in this section.
 
@@ -3355,7 +3352,7 @@ Subdivision 20-A—How this Part applies to certain entities
 
                      (b)  was in any way knowingly concerned in, or party to the relevant act or omission (whether directly or indirectly or whether by any act or omission of the partner).
 
-20-10  Unincorporated companies
+##### <a id="20-10"></a>20-10  Unincorporated companies
 
              (1)  This Part applies to a company that is not incorporated as if the company were a person, but with the changes set out in this section.
 
@@ -3371,7 +3368,7 @@ Subdivision 20-A—How this Part applies to certain entities
 
                      (b)  was in any way knowingly concerned in, or party to, the relevant act or omission (whether directly or indirectly and whether by any act or omission of the member).
 
-20-15  Superannuation funds
+##### <a id="20-15"></a>20-15  Superannuation funds
 
                    If a <sup>* </sup>superannuation fund does not have a trustee of the fund, then, for the purposes of this Part:
 
@@ -3381,7 +3378,7 @@ Subdivision 20-A—How this Part applies to certain entities
 
 Note:          The trustee of a superannuation fund is an entity. See subsection 960-100(2) of the _Income Tax Assessment Act 1997_.
 
-Subdivision 20-B—Offences
+#### Subdivision 20-B—Offences
 
 **Table of sections**
 
@@ -3389,7 +3386,7 @@ Subdivision 20-B—Offences
 
 20-40        Joining of charges
 
-20-35  Offences
+##### <a id="20-35"></a>20-35  Offences
 
              (1)  A person must not:
 
@@ -3415,7 +3412,7 @@ which is not a copy duly given to the person.
 
 Note:          See section 4AA of the _Crimes Act 1914_ for the current value of a penalty unit.
 
-20-40  Joining of charges
+##### <a id="20-40"></a>20-40  Joining of charges
 
              (1)  Charges against the same person for a number of offences against this Part may be joined in one complaint, information or summons if those charges:
 
@@ -3439,9 +3436,9 @@ Note:          See section 4AA of the _Crimes Act 1914_ for th
 
                      (b)  the penalty must not exceed the sum of the maximum penalties that could be imposed in respect of each offence separately.
 
-Subdivision 20-C—Commissioner’s power to obtain information and evidence
+#### Subdivision 20-C—Commissioner’s power to obtain information and evidence
 
-20-60  Commissioner’s power
+##### <a id="20-60"></a>20-60  Commissioner’s power
 
              (1)  The Commissioner may require any person:
 
@@ -3461,9 +3458,9 @@ For that purpose, the Commissioner or the officer may administer an oath.
 
              (3)  The regulations may prescribe scales of expenses to be allowed to persons required to attend before the Commissioner or the officer.
 
-Subdivision 20-D—Review of decisions
+#### Subdivision 20-D—Review of decisions
 
-20-80  Reviewable decisions
+##### <a id="20-80"></a>20-80  Reviewable decisions
 
                    A person who is dissatisfied with any of the following decisions of the Commissioner may object against the decision in the manner set out in Part IVC.
 
@@ -3609,9 +3606,9 @@ Subdivision 20-D—Review of decisions
   </td>
 </tr></table>
 
-Part 2-10—Pay as you go (PAYG) instalments
+## Part 2-10—Pay as you go (PAYG) instalments
 
-Division 45—Instalment payments
+### Division 45—Instalment payments
 
 **Table of Subdivisions**
 
@@ -3641,9 +3638,9 @@ Guide to Division 45
 
 45-L      How Commissioner works out amount of quarterly instalment on basis of GDP-adjusted notional tax
 
-Guide to Division 45
+#### Guide to Division 45
 
-45-1  What this Division is about
+##### <a id="45-1"></a>45-1  What this Division is about
 
 * * *
 
@@ -3657,7 +3654,7 @@ The amount of an annual instalment can be your instalment income for the income 
 
 * * *
 
-Subdivision 45-A—Basic rules
+#### Subdivision 45-A—Basic rules
 
 **Table of sections**
 
@@ -3673,7 +3670,7 @@ Subdivision 45-A—Basic rules
 
 45-30        Credit for instalments payable
 
-45-5  Object of this Part
+##### <a id="45-5"></a>45-5  Object of this Part
 
                    The object of this Part is to ensure the efficient collection of:
 
@@ -3683,13 +3680,13 @@ Subdivision 45-A—Basic rules
 
                      (c)  amounts of liabilities to the Commonwealth under Chapter 5A of the _Higher Education Funding Act 1988_.
 
-45-10  Application of Part
+##### <a id="45-10"></a>45-10  Application of Part
 
                    This Part applies to individuals, companies, and the entities listed in items 3 and 4, and 6 to 12, of the table in section 9-1 of the _Income Tax Assessment Act 1997_ (which lists the entities that must pay income tax).
 
 Note:          This Part applies to a trustee covered by item 5 in that table only to the extent set out in section 45-300.
 
-45-15  Liability for instalments
+##### <a id="45-15"></a>45-15  Liability for instalments
 
              (1)  The Commissioner may give you an instalment rate from time to time, by giving you written notice of the rate.
 
@@ -3703,7 +3700,7 @@ Note 3:       Work out the amount of your instalments under Subdivis
 
 Note 4:       If the Commissioner withdraws the rate under section 45-90, you are not liable to pay further instalments.
 
-45-20  Information to be given to the Commissioner
+##### <a id="45-20"></a>45-20  Information to be given to the Commissioner
 
              (1)  If you are liable to pay an instalment for a period (even if it is a nil amount), you must notify the Commissioner of the amount of your <sup>* </sup>instalment income for the period.
 
@@ -3717,7 +3714,7 @@ Exceptions
 
                      (b)  an annual instalment, unless it is worked out under paragraph 45-115(1)(a) (based on the Commissioner’s rate and your instalment income for the income year).
 
-45-25  Penalty for failure to notify Commissioner 
+##### <a id="45-25"></a>45-25  Penalty for failure to notify Commissioner 
 
                    If you fail to notify the Commissioner of an amount as required by section 45-20, or you notify an amount that is less than the correct amount, you are liable to pay the <sup>* </sup>failure to notify penalty on the amount, or on the shortfall, multiplied by the instalment rate that you are required to use to work out the instalment for the period, for each day in the period that:
 
@@ -3725,7 +3722,7 @@ Exceptions
 
                      (b)  finishes at the end of the day before you notify the Commissioner of the correct amount, or he or she otherwise becomes aware of it.
 
-45-30  Credit for instalments payable
+##### <a id="45-30"></a>45-30  Credit for instalments payable
 
              (1)  You are entitled to a credit when the Commissioner:
 
@@ -3747,7 +3744,7 @@ Note:          You can claim a credit under section 45-215 in 
 
 Note:          How the credit is applied is set out in Division 3 of Part IIB.
 
-Subdivision 45-B—When instalments are due
+#### Subdivision 45-B—When instalments are due
 
 **Table of sections**
 
@@ -3771,7 +3768,7 @@ Subdivision 45-B—When instalments are due
 
 45-90        Commissioner may withdraw instalment rate
 
-45-50  Liability to pay first instalment
+##### <a id="45-50"></a>45-50  Liability to pay first instalment
 
              (1)  Your first instalment is payable: 
 
@@ -3783,7 +3780,7 @@ unless the Commissioner withdraws your instalment rate under section 45-90 durin
 
              (2)  However, if paragraph (1)(b) applies but during a later <sup>* </sup>instalment quarter in that income year you stop being an <sup>* </sup>annual payer under section 45-150, your first instalment is payable for that later instalment quarter, unless the Commissioner withdraws your instalment rate under section 45-90 during it.
 
-45-55  Subsequent quarterly instalments
+##### <a id="45-55"></a>45-55  Subsequent quarterly instalments
 
                    If you are liable to pay an instalment for an <sup>* </sup>instalment quarter, you are liable to pay an instalment for the next one unless:
 
@@ -3791,7 +3788,7 @@ unless the Commissioner withdraws your instalment rate under section 45-90 durin
 
                      (b)  during that next quarter the Commissioner withdraws your instalment rate under section 45-90.
 
-45-60  When quarterly instalments are due
+##### <a id="45-60"></a>45-60  When quarterly instalments are due
 
              (1)  If your income year ends on 30 June, the table sets out your **_instalment quarters_** and the days on which the instalments for those quarters are due:
 
@@ -3877,7 +3874,7 @@ unless the Commissioner withdraws your instalment rate under section 45-90 durin
 
              (3)  If subsection (2) applies, an instalment for an <sup>* </sup>instalment quarter is due on or before the 21st day of the month after the end of that quarter.
 
-45-65  Subsequent annual instalments
+##### <a id="45-65"></a>45-65  Subsequent annual instalments
 
                    If you are liable to pay an instalment for an income year (the **_previous year_**), you must pay an instalment for the next income year unless:
 
@@ -3889,7 +3886,7 @@ Note 1:       Sections 45-150 and 45-180 cover cases where an annual
 
 Note 2:       Section 45-155 covers cases where an annual payer’s notional tax is $8,000 or more, or the entity chooses to pay quarterly.
 
-45-70  When annual instalments are due
+##### <a id="45-70"></a>45-70  When annual instalments are due
 
              (1)  This section applies if you are liable to pay an annual instalment for the 2002-03 income year or a later income year.
 
@@ -3900,15 +3897,15 @@ For an instalment you are liable to pay for 2000-01 or 2001-02,
 
              (3)  If the income year ends on a day other than 30 June, the instalment is due on or before the 21st day of the fourth month after the end of the income year.
 
-45-72  Electronic payment
+##### <a id="45-72"></a>45-72  Electronic payment
 
                    You must pay an instalment by <sup>* </sup>electronic payment if you are required to pay by electronic payment the amount of any other liability to the Commissioner that is due on the same day as the instalment.
 
-45-75  Instalments recoverable in same way as income tax
+##### <a id="45-75"></a>45-75  Instalments recoverable in same way as income tax
 
                    Instalments are to be treated as income tax for the purposes of sections 208, 209, 214, 254, 255, 258 and 259 of the _Income Tax Assessment Act 1936_.
 
-45-80  General interest charge on late payment
+##### <a id="45-80"></a>45-80  General interest charge on late payment
 
                    If you fail to pay some or all of an instalment by the time by which the instalment is due to be paid, you are liable to pay the <sup>* </sup>general interest charge on the unpaid amount for each day in the period that:
 
@@ -3920,13 +3917,13 @@ For an instalment you are liable to pay for 2000-01 or 2001-02,
 
                              (ii)  general interest charge on any of the instalment.
 
-45-85  Commissioner may extend time for payment
+##### <a id="45-85"></a>45-85  Commissioner may extend time for payment
 
              (1)  The Commissioner may, in a particular case, grant such extension of time for payment of an instalment as he or she considers the circumstances warrant.
 
              (2)  If the Commissioner grants an extension of time under subsection (1), the instalment is due to be paid on or before the day or days specified by the Commissioner.
 
-45-90  Commissioner may withdraw instalment rate
+##### <a id="45-90"></a>45-90  Commissioner may withdraw instalment rate
 
              (1)  The Commissioner may:
 
@@ -3938,7 +3935,7 @@ Note:          If the Commissioner does so, you are not liable
 
              (2)  If the Commissioner withdraws your instalment rate and later gives you another one, your first instalment after the withdrawal is payable under section 45-50 as if it were your first instalment, and as if that rate were your first instalment rate.
 
-Subdivision 45-C—Working out instalment amounts 
+#### Subdivision 45-C—Working out instalment amounts 
 
 **Table of sections**
 
@@ -3950,11 +3947,11 @@ Subdivision 45-C—Working out instalment amounts
 
 45-120      Meaning of _instalment income_
 
-45-110  How to work out amount of quarterly instalment
+##### <a id="45-110"></a>45-110  How to work out amount of quarterly instalment
 
              (1)  Work out the amount of an instalment you are liable to pay for an <sup>* </sup>instalment quarter as follows:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image007.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image007.gif)</sub>
 
              (2)  For the purposes of the formula in subsection (1):
 
@@ -3968,7 +3965,7 @@ Subdivision 45-C—Working out instalment amounts
 
 Note:          If you believe the Commissioner’s rate is not appropriate for the current income year, you may choose a different instalment rate under Subdivision 45-F.
 
-45-112  Amount of instalment for quarterly payer who pays on basis of GDP-adjusted notional tax
+##### <a id="45-112"></a>45-112  Amount of instalment for quarterly payer who pays on basis of GDP-adjusted notional tax
 
              (1)  If at the end of an <sup>* </sup>instalment quarter in an income year you are a <sup>* </sup>quarterly payer who pays on the basis of GDP-adjusted notional tax, the amount of your instalment for that quarter is the amount notified to you by the Commissioner before the end of that quarter.
 
@@ -3976,13 +3973,13 @@ Note:          The Commissioner works out that amount under Su
 
              (2)  If the Commissioner notifies you of the amount of the instalment _after_ the end of that quarter, the instalment is due on or before the 21st day after the day on which the notice is given.
 
-45-115  How to work out amount of annual instalment
+##### <a id="45-115"></a>45-115  How to work out amount of annual instalment
 
              (1)  The amount of an instalment you are liable to pay for the 2002-03 income year or a later income year is whichever of the following you choose:
 
                      (a)  the amount worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image008.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image008.gif)</sub>
 
                      (b)  your most recent <sup>* </sup>notional tax notified by the Commissioner before the end of the income year under subsection 45-320(5);
 
@@ -3999,7 +3996,7 @@ For the amount of an instalment you are liable to pay
 
              (3)  If you choose to work out your instalment under paragraph (1)(c), you must notify the Commissioner, in the <sup>* </sup>approved form, of the amount of the instalment on or before the day when it is due.
 
-45-120  Meaning of instalment income
+##### <a id="45-120"></a>45-120  Meaning of _instalment income_
 
 General rule
 
@@ -4041,7 +4038,7 @@ Instalment income of entity that is not liable for instalments
 
 Note:          For example, although a partnership does not pay instalments, it is necessary to work out the partnership’s instalment income in order to work out instalments payable by the partners. See Subdivision 45-H.
 
-Subdivision 45-D—Quarterly payers who pay on the basis of GDP-adjusted notional tax
+#### Subdivision 45-D—Quarterly payers who pay on the basis of GDP-adjusted notional tax
 
 **Table of sections**
 
@@ -4051,7 +4048,7 @@ Subdivision 45-D—Quarterly payers who pay on the basis of GDP-adjusted notiona
 
 45-135      Individual stops paying on basis of GDP-adjusted notional tax if his or her notional tax is less than $8,000
 
-45-125  Choosing to pay quarterly instalments on basis of GDP-adjusted notional tax
+##### <a id="45-125"></a>45-125  Choosing to pay quarterly instalments on basis of GDP-adjusted notional tax
 
              (1)  You may choose to pay quarterly instalments on the basis of your <sup>* </sup>GDP-adjusted notional tax if you are an individual and, at the end of the first <sup>* </sup>instalment quarter in an income year for which you are liable to pay an instalment, you satisfy the following conditions:
 
@@ -4069,7 +4066,7 @@ Note:          This means that you cannot choose to pay quarte
 
 Note:          You stop being such a payer if section 45-130 or 45-135 applies to you.
 
-45-130  Individual stops paying on basis of GDP-adjusted notional tax if he or she chooses to stop, or becomes GST registered
+##### <a id="45-130"></a>45-130  Individual stops paying on basis of GDP-adjusted notional tax if he or she chooses to stop, or becomes GST registered
 
              (1)  You stop being a <sup>* </sup>quarterly payer who pays on the basis of GDP-adjusted notional tax if, during an <sup>* </sup>instalment quarter in an income year:
 
@@ -4091,7 +4088,7 @@ Note:          You stop being such a payer if section 45-130 o
 
 Note:          You cannot so choose until the next income year.
 
-45-135  Individual stops paying on basis of GDP-adjusted notional tax if his or her notional tax is less than $8,000 
+##### <a id="45-135"></a>45-135  Individual stops paying on basis of GDP-adjusted notional tax if his or her notional tax is less than $8,000 
 
              (1)  If, during an income year the Commissioner notifies you of your <sup>* </sup>notional tax, and it is less than $8,000, you stop being a <sup>* </sup>quarterly payer who pays on the basis of GDP-adjusted notional tax at the start of the _next_ income year.
 
@@ -4105,7 +4102,7 @@ Note:          You cannot so choose until the next income year
 
 Note:          You can so choose on or before the day on which your first instalment for that next income year is due.
 
-Subdivision 45-E—Annual payers
+#### Subdivision 45-E—Annual payers
 
 **Table of sections**
 
@@ -4127,9 +4124,9 @@ Special rules for 2000-01 and 2001-02
 
 45-180      Entity that becomes GST registered, participant in GST joint venture, or company group member stops being annual payer
 
-When you start and stop being an annual payer
+#### When you start and stop being an annual payer
 
-45-140  Choosing to pay annual instalments
+##### <a id="45-140"></a>45-140  Choosing to pay annual instalments
 
              (1)  You may choose to pay instalments annually instead of quarterly if, at the end of the first <sup>* </sup>instalment quarter in an income year for which you would otherwise be liable to pay a quarterly instalment, you satisfy the following conditions:
 
@@ -4149,7 +4146,7 @@ When you start and stop being an annual payer
 
 Note:          You stop being an annual payer if section 45-150, 45-155 or 45-180 applies to you.
 
-45-145  Meaning of instalment group
+##### <a id="45-145"></a>45-145  Meaning of _instalment group_
 
              (1)  An **_instalment group_** consists of:
 
@@ -4169,7 +4166,7 @@ Note:          You stop being an annual payer if section 45-15
 
                      (c)  the other company is, or a majority of its directors are, accustomed or under an obligation, whether formal or informal, to act according to the directions, instructions or wishes of the first company.
 
-45-150  Entity that becomes GST registered, participant in GST joint venture, or company group member, stops being annual payer
+##### <a id="45-150"></a>45-150  Entity that becomes GST registered, participant in GST joint venture, or company group member, stops being annual payer
 
              (1)  You stop being an <sup>* </sup>annual payer if, during an <sup>* </sup>instalment quarter in the 2002-03 income year or a later income year:
 
@@ -4195,7 +4192,7 @@ Note:          If one of those things happens in 2000-01 or 20
 
                      (b)  you again choose under that section to pay instalments annually.
 
-45-155  Entity stops being annual payer if notional tax is $8,000 or more, or entity chooses to pay quarterly 
+##### <a id="45-155"></a>45-155  Entity stops being annual payer if notional tax is $8,000 or more, or entity chooses to pay quarterly 
 
              (1)  You stop being an <sup>* </sup>annual payer at the end of an income year if, during that income year:
 
@@ -4213,9 +4210,9 @@ Note:          If one of those things happens in 2000-01 or 20
 
                      (b)  you again choose under that section to pay instalments annually.
 
-Special rules for 2000-01 and 2001-02
+#### Special rules for 2000-01 and 2001-02
 
-45-170  Due date for annual instalment
+##### <a id="45-170"></a>45-170  Due date for annual instalment
 
              (1)  This section applies if you are liable to pay an annual instalment for the 2000-01 or 2001-02 income year.
 
@@ -4223,7 +4220,7 @@ Special rules for 2000-01 and 2001-02
 
              (3)  However, in the case of an entity that is an instalment taxpayer for that income year (as defined by subsection 221AZK(1) of the _Income Tax Assessment Act 1936_), the instalment is due on or before the 15th day of the 6th month after the end of that income year.
 
-45-175  Amount of annual instalment
+##### <a id="45-175"></a>45-175  Amount of annual instalment
 
              (1)  Unless subsection (2) applies, the amount of an annual instalment you are liable to pay for the 2000-01 or 2001-02 income year is whichever of the following you choose:
 
@@ -4235,7 +4232,7 @@ Note:          You may be liable to general interest charge un
 
              (2)  If an entity is an instalment taxpayer (as defined by subsection 221AZK(1) of the _Income Tax Assessment Act 1936_) for the 2000-01 or 2001-02 income year, the amount of an annual instalment that the entity is liable to pay for that income year is worked out under section 45-115, as if that section applied to that income year.
 
-45-180  Entity that becomes GST registered, participant in GST joint venture, or company group member stops being annual payer
+##### <a id="45-180"></a>45-180  Entity that becomes GST registered, participant in GST joint venture, or company group member stops being annual payer
 
              (1)  You stop being an <sup>* </sup>annual payer if, during an <sup>* </sup>instalment quarter in the 2000-01 or 2001-02 income year:
 
@@ -4259,7 +4256,7 @@ Note:          You may be liable to general interest charge un
 
                      (b)  you again choose under that section to pay instalments annually.
 
-Subdivision 45-F—Varying the instalment rate for quarterly instalments 
+#### Subdivision 45-F—Varying the instalment rate for quarterly instalments 
 
 **Table of sections**
 
@@ -4271,11 +4268,11 @@ Subdivision 45-F—Varying the instalment rate for quarterly instalments
 
 45-215      Credit on using varied rate in certain cases
 
-45-200  Application
+##### <a id="45-200"></a>45-200  Application
 
                    This Subdivision applies if you are a <sup>* </sup>quarterly payer.
 
-45-205  Choosing a varied instalment rate
+##### <a id="45-205"></a>45-205  Choosing a varied instalment rate
 
              (1)  You may choose an instalment rate for working out under section 45-110 the amount of your instalment for an <sup>* </sup>instalment quarter in an income year.
 
@@ -4293,11 +4290,11 @@ Note 2:       If a rate you have chosen for an instalment quarter is
 
              (4)  However, for working out under section 45-110 the amount of your instalment for an <sup>* </sup>instalment quarter in a later income year, you must use the most recent instalment rate given to you by the Commissioner before the end of that quarter, unless you again choose another instalment rate under subsection (1).
 
-45-210  Notifying Commissioner of varied instalment rate
+##### <a id="45-210"></a>45-210  Notifying Commissioner of varied instalment rate
 
                    If you work out the amount of an instalment using an instalment rate you have chosen under section 45-205, you must specify that rate in the notice about your instalment income that you must give the Commissioner under section 45-20.
 
-45-215  Credit on using varied rate in certain cases 
+##### <a id="45-215"></a>45-215  Credit on using varied rate in certain cases 
 
              (1)  You are entitled to claim a credit if: 
 
@@ -4333,7 +4330,7 @@ Note:          How the credit is applied is set out in Divisio
 
              (3)  The credit entitlement does not affect your liability to pay an instalment.
 
-Subdivision 45-G—General interest charge payable in certain cases if instalments are too low
+#### Subdivision 45-G—General interest charge payable in certain cases if instalments are too low
 
 **Table of sections**
 
@@ -4343,7 +4340,7 @@ Subdivision 45-G—General interest charge payable in certain cases if instalmen
 
 45-240      Commissioner may remit general interest charge
 
-45-230  Liability to GIC on shortfall in quarterly instalment and on any excess credit under section 45-215
+##### <a id="45-230"></a>45-230  Liability to GIC on shortfall in quarterly instalment and on any excess credit under section 45-215
 
              (1)  You are liable to pay the <sup>* </sup>general interest charge under this section if:
 
@@ -4353,7 +4350,7 @@ Subdivision 45-G—General interest charge payable in certain cases if instalmen
 
              (2)  You are liable to pay the <sup>* </sup>general interest charge on the amount worked out as follows:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image009.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image009.gif)</sub>
 
 where:
 
@@ -4367,7 +4364,7 @@ where:
 
                      (a)  if, as a result of using the varied rate for the variation quarter, you claimed a credit under section 45-215—the amount worked out as follows:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image010.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image010.gif)</sub>
 
                             or the amount of the credit, whichever is less; and
 
@@ -4395,7 +4392,7 @@ where:
 
                              (ii)  general interest charge on the unpaid amount.
 
-45-235  Liability to GIC on shortfall in annual instalment
+##### <a id="45-235"></a>45-235  Liability to GIC on shortfall in annual instalment
 
              (1)  You are liable to pay the <sup>* </sup>general interest charge under this section if: 
 
@@ -4439,17 +4436,17 @@ where:
 
                              (ii)  general interest charge on the unpaid amount.
 
-45-240  Commissioner may remit general interest charge 
+##### <a id="45-240"></a>45-240  Commissioner may remit general interest charge 
 
                    The Commissioner may, if he or she is satisfied that because special circumstances exist it would be fair and reasonable to do so, remit the whole or any part of any <sup>* </sup>general interest charge payable under subsection 45-230(2) or subsection 45-235(2) or (3).
 
-Subdivision 45-H—Partnership income­
+#### Subdivision 45-H—Partnership income­
 
-45-260  Instalment income for a period in which you are in a partnership
+##### <a id="45-260"></a>45-260  Instalment income for a period in which you are in a partnership
 
              (1)  Your **_instalment income_** for a period (the **_current period_**) includes an amount for each partnership in which you are a partner at any time during the current period. The amount is worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image011.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image011.gif)</sub>
 
              (2)  For the purposes of the formula in subsection (1):
 
@@ -4467,7 +4464,7 @@ Subdivision 45-H—Partnership income­
 
                      (c)  any other relevant circumstances.
 
-Subdivision 45-I—Trust income
+#### Subdivision 45-I—Trust income
 
 **Table of sections**
 
@@ -4479,13 +4476,13 @@ Application of Part to trustees
 
 45-300      Trustees to whom this Part applies
 
-Instalment income of trust beneficiary
+#### Instalment income of trust beneficiary
 
-45-280  Instalment income for a period in which you are a beneficiary of a trust
+##### <a id="45-280"></a>45-280  Instalment income for a period in which you are a beneficiary of a trust
 
              (1)  Your **_instalment income_** for a period (the **_current period_**) includes an amount for each trust of which you are a beneficiary at any time during the current period. The amount is worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image012.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image012.gif)</sub>
 
              (2)  For the purposes of the formula in subsection (1):
 
@@ -4503,15 +4500,15 @@ Instalment income of trust beneficiary
 
                      (c)  any other relevant circumstances.
 
-Application of Part to trustees
+#### Application of Part to trustees
 
-45-300  Trustees to whom this Part applies
+##### <a id="45-300"></a>45-300  Trustees to whom this Part applies
 
              (1)  This Part applies to a trustee covered by any of items 6 to 12 in the table in section 9-1 of the _Income Tax Assessment Act 1997_.
 
              (2)  This Part also applies for an income year to the trustee of a trust if for the previous income year the trustee was liable to be assessed, and to pay tax, under section 98 (except subsection 98(3) or (4)) or section 99 or 99A of the _Income Tax Assessment Act 1936_.
 
-Subdivision 45-J—How Commissioner works out your instalment rate and notional tax
+#### Subdivision 45-J—How Commissioner works out your instalment rate and notional tax
 
 **Table of sections**
 
@@ -4525,11 +4522,11 @@ Subdivision 45-J—How Commissioner works out your instalment rate and notional 
 
 45-340      _Adjusted tax_ on adjusted taxable income or on adjusted withholding income
 
-45-320  Working out instalment rate
+##### <a id="45-320"></a>45-320  Working out instalment rate
 
              (1)  An instalment rate that the Commissioner gives you must be the percentage worked out to 2 decimal places (rounding up if the third decimal place is 5 or more) using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image013.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image013.gif)</sub>
 
 However, the instalment rate must be a nil rate if either component of the formula is nil.
 
@@ -4545,7 +4542,7 @@ However, the instalment rate must be a nil rate if either component of the formu
 
              (6)  The Commissioner may incorporate notice of the instalment rate and the amount of your <sup>* </sup>notional tax in notice of your assessment.
 
-45-325  Working out your notional tax
+##### <a id="45-325"></a>45-325  Working out your _notional tax_
 
 Notional tax if you have no withholding income
 
@@ -4565,7 +4562,7 @@ Commissioner may take into account proposed changes to the law so as to reduce i
 
              (5)  For the purposes of working out your <sup>* </sup>notional tax, the Commissioner may work out an amount as if provisions of an Act or regulations that, in the Commissioner’s opinion, are likely to be enacted or made had applied for the purposes of the <sup>* </sup>base assessment. But the Commissioner may do so only if, as a result, the instalment rate given to you is reduced.
 
-45-330  Working out your adjusted taxable income 
+##### <a id="45-330"></a>45-330  Working out your _adjusted taxable income_
 
              (1)  Your _adjusted taxable income_ for the <sup>* </sup>base year is your total assessable income for the <sup>* </sup>base assessment, reduced by:
 
@@ -4585,7 +4582,7 @@ Exception: superannuation entities and net capital gains
 
                      (c)  a pooled superannuation trust (as defined in that section) for that year.
 
-45-335  Working out your adjusted withholding income
+##### <a id="45-335"></a>45-335  Working out your _adjusted withholding income_
 
                    Your _adjusted withholding income_ for the <sup>* </sup>base year is:
 
@@ -4595,7 +4592,7 @@ reduced by:
 
                         •  your deductions for that year, as used in making that assessment, to the extent that they reasonably relate to those amounts.
 
-45-340  Adjusted tax on adjusted taxable income or on adjusted withholding income
+##### <a id="45-340"></a>45-340  _Adjusted tax_ on adjusted taxable income or on adjusted withholding income
 
                    Your **_adjusted tax_**on your <sup>* </sup>adjusted taxable income, or on your <sup>* </sup>adjusted withholding income, for the <sup>* </sup>base year is worked out as follows:
 
@@ -4619,7 +4616,7 @@ _Step 4._ The results of steps 1, 2 and 3 are added together, and reduced by wha
 
 * * *
 
-Subdivision 45-K—How Commissioner works out your benchmark instalment rate and benchmark tax
+#### Subdivision 45-K—How Commissioner works out your benchmark instalment rate and benchmark tax
 
 **Table of sections**
 
@@ -4633,17 +4630,17 @@ Subdivision 45-K—How Commissioner works out your benchmark instalment rate and
 
 45-375      _Adjusted assessed tax_ on adjusted assessed taxable income
 
-45-355  When Commissioner works out benchmark instalment rate and benchmark tax
+##### <a id="45-355"></a>45-355  When Commissioner works out benchmark instalment rate and benchmark tax
 
              (1)  The Commissioner may work out your <sup>* </sup>benchmark instalment rate for an income year (the **_variation year_**) if, under section 45-205, you choose an instalment rate to work out the amount of your instalment for an <sup>* </sup>instalment quarter in that year.
 
              (2)  The Commissioner may work out your <sup>* </sup>benchmark tax for an income year (the **_variation year_**) if, under paragraph 45-115(1)(c) or 45-175(1)(b), you estimate the amount of your annual instalment for that year.
 
-45-360  How Commissioner works out benchmark instalment rate
+##### <a id="45-360"></a>45-360  How Commissioner works out _benchmark instalment rate_
 
              (1)  Your **_benchmark instalment rate_** for the variation year is the percentage worked out to 2 decimal places (rounding up if the third decimal place is 5 or more) using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image014.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image014.gif)</sub>
 
 However, your **_benchmark instalment rate_** is a nil rate if either component of the formula is nil.
 
@@ -4651,7 +4648,7 @@ However, your **_benchmark instalment rate_** is a nil rate if either component 
 
                     <a name="variat-year-instal-incom"></a>**_variation year instalment income_** means so much of your assessable income for the variation year as the Commissioner determines is <sup>* </sup>instalment income for that year.
 
-45-365  Working out your benchmark tax
+##### <a id="45-365"></a>45-365  Working out your _benchmark tax_
 
 Benchmark tax if you had no withholding income
 
@@ -4663,7 +4660,7 @@ Benchmark tax if you had withholding income
 
              (3)  It is reduced (but not below nil) by the total amount of the credits to which you are entitled for the variation year under section 18-15 (for amounts withheld from withholding payments made to you during the variation year).
 
-45-370  Working out your adjusted assessed taxable income for the variation year
+##### <a id="45-370"></a>45-370  Working out your _adjusted assessed taxable income_ for the variation year
 
              (1)  Your _adjusted assessed taxable income_ for the variation year is your taxable income for the year, reduced by any <sup>* </sup>net capital gain included in your assessable income for the year.
 
@@ -4677,7 +4674,7 @@ Exception: superannuation entities and net capital gains
 
                      (c)  a pooled superannuation trust (as defined in that section) for the variation year.
 
-45-375  Adjusted assessed tax on adjusted assessed taxable income 
+##### <a id="45-375"></a>45-375  _Adjusted assessed tax_ on adjusted assessed taxable income 
 
                    Your **_adjusted assessed tax_**on your <sup>* </sup>adjusted assessed taxable income for the variation<sup> </sup>year is worked out as follows:
 
@@ -4701,7 +4698,7 @@ _Step 4._ The results of steps 1, 2 and 3 are added together, and reduced by wha
 
 * * *
 
-Subdivision 45-L—How Commissioner works out amount of quarterly instalment on basis of GDP-adjusted notional tax
+#### Subdivision 45-L—How Commissioner works out amount of quarterly instalment on basis of GDP-adjusted notional tax
 
 **Table of sections**
 
@@ -4709,7 +4706,7 @@ Subdivision 45-L—How Commissioner works out amount of quarterly instalment on 
 
 45-405      Working out your _GDP-adjusted notional tax_
 
-45-400  Working out amount of instalment
+##### <a id="45-400"></a>45-400  Working out amount of instalment
 
                    The Commissioner must work out in accordance with the table an amount that he or she notifies to you under section 45-112 as the amount of your instalment for an <sup>* </sup>instalment quarter in an income year (the **_current year_**).
 
@@ -4783,7 +4780,7 @@ Subdivision 45-L—How Commissioner works out amount of quarterly instalment on 
   </td>
 </tr></table>
 
-45-405  Working out your GDP-adjusted notional tax
+##### <a id="45-405"></a>45-405  Working out your _GDP-adjusted notional tax_
 
              (1)  Your **_GDP-adjusted notional tax_** is worked out in the same way as your <sup>* </sup>notional tax would be worked out under Subdivision 45-J for the purposes of working out an instalment rate if that instalment rate were to be given to you at the same time as notice of the amount of the instalment referred to in section 45-400.
 
@@ -4795,7 +4792,7 @@ Subdivision 45-L—How Commissioner works out amount of quarterly instalment on 
 
 are each increased in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image015.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image015.gif)</sub>
 
              (3)  For the purposes of the formula in subsection (2):
 
@@ -4803,7 +4800,7 @@ are each increased in accordance with the formula:
 
                     <a name="gdp-adjust"></a>**_GDP adjustment_** means the percentage (rounded to the nearest whole number, rounding down a number ending in .5) worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image016.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image016.gif)</sub>
 
 or 0% if the percentage worked out using the formula is negative.
 
@@ -4823,7 +4820,7 @@ or 0% if the percentage worked out using the formula is negative.
 
              (7)  To avoid doubt, subsections 45-325(4) and (5) also have effect for the purposes of working out your <sup>* </sup>GDP-adjusted notional tax.
 
-3  Application of Part 2-5 in Schedule 1 to the Taxation Administration Act 1953
+## 3  Application of Part 2-5 in Schedule 1 to the _Taxation Administration Act 1953_
 
 (1)        Division 12 (except section 12-190) in Schedule 1 to the _Taxation Administration Act 1953_ applies to a payment made on or after 1 July 2000.
 
@@ -4839,7 +4836,7 @@ or 0% if the percentage worked out using the formula is negative.
 
 (5)        Subdivision 16-C in Schedule 1 to the _Taxation Administration Act 1953_ applies to the financial year starting on 1 July 2000 and to later financial years.
 
-4  Application of Part 2-10 in Schedule 1 to the Taxation Administration Act 1953
+## 4  Application of Part 2-10 in Schedule 1 to the _Taxation Administration Act 1953_
 
 (1)        Part 2-10 in Schedule 1 to the _Taxation Administration Act 1953_ applies to the 2000-2001 income year and later income years.
 
@@ -4849,11 +4846,11 @@ Part 2—Consequential amendment of Acts
 
 Income Tax Assessment Act 1997
 
-5  After section 26-20
+## 5  After section 26-20
 
 Insert:
 
-26-25  Interest or royalty
+##### <a id="26-25"></a>26-25  Interest or royalty
 
              (1)  You cannot deduct under this Act a payment of interest (within the meaning of Division 11A of Part III of the _Income Tax Assessment Act 1936_) or a <sup>* </sup>royalty if:
 
@@ -4879,11 +4876,11 @@ Insert:
 
 you can deduct the interest or royalty for that income year.
 
-6  Section 28-185
+## 6  Section 28-185
 
 Repeal the section, substitute:
 
-28-185  Application of Subdivision 28-J to recipients and payers of certain withholding payments
+##### <a id="28-185"></a>28-185  Application of Subdivision 28-J to recipients and payers of certain withholding payments
 
 Application to recipients
 
@@ -4999,15 +4996,15 @@ Withholding payments covered
   </td>
 </tr></table>
 
-7  Parts 4-5 and 4-10
+## 7  Parts 4-5 and 4-10
 
 Repeal the Parts.
 
-8  Section 900-12
+## 8  Section 900-12
 
 Repeal the section, substitute:
 
-900-12  Application to recipients and payers of certain withholding payments
+##### <a id="900-12"></a>900-12  Application to recipients and payers of certain withholding payments
 
 Application to recipients
 
@@ -5125,33 +5122,33 @@ Withholding payments covered
 
 Income Tax Assessment Act 1936
 
-9  Subsection 6(1AA)
+## 9  Subsection 6(1AA)
 
 Omit all the words after “(the **_1997 Act_**)”, substitute “, or for the purposes of Schedule 1 to the _Taxation Administration Act 1953_, except as provided in the 1997 Act or in that Schedule”.
 
-10  Subsection 6(1) (at the end of the definition of this Act)
+## 10  Subsection 6(1) (at the end of the definition of _this Act_)
 
 Add:
 
              ; and (c)  Schedule 1 to the _Taxation Administration Act 1953_.
 
-11  Paragraph 220AF(1)(c)
+## 11  Paragraph 220AF(1)(c)
 
 After “1994”, insert “and before 1 July 2000”.
 
-12  Subsection 220AJ(1)
+## 12  Subsection 220AJ(1)
 
 After “financial year”, insert “ending on or before 30 June 2000”.
 
-13  Paragraph 220AQ(1)(b)
+## 13  Paragraph 220AQ(1)(b)
 
 After “first person”, insert “on or before 30 June 2000”.
 
-14  Paragraph 220AQ(2)(c)
+## 14  Paragraph 220AQ(2)(c)
 
 After “form”, insert “, and on or before 30 June 2000”.
 
-15  At the end of section 221AKA
+## 15  At the end of section 221AKA
 
 Add:
 
@@ -5159,25 +5156,25 @@ Add:
 
 Note:          For the 2000-01 income year a taxpayer may be liable to pay PAYG instalments: see Division 45 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-16  Before section 221AZJ
+## 16  Before section 221AZJ
 
 Insert in Subdivision B of Division 1C of Part VI:
 
-221AZJA  Application of this Division
+##### <a id="221AZJA"></a>221AZJA  Application of this Division
 
                    A taxpayer is not liable to pay instalments under this Division for the 2000-01 income year or a later income year.
 
 Note:          For the 2000-01 income year a taxpayer may be liable to pay PAYG instalments: see Division 45 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-17  Subsection 221AZK(2)
+## 17  Subsection 221AZK(2)
 
 After “subsection (3A)”, insert “of this section and to sections 221AZJA, 221AZKB, 221AZKC and 221AZKE”.
 
-18  After section 221AZKA
+## 18  After section 221AZKA
 
 Insert:
 
-221AZKB  For 1999-2000, some medium and small taxpayers need not pay instalment due in month 18
+##### <a id="221AZKB"></a>221AZKB  For 1999-2000, some medium and small taxpayers need not pay instalment due in month 18
 
              (1)  For the 1999-2000 year of income, a medium taxpayer is not liable to pay the instalment that would otherwise be due on the 1st day of month 18.
 
@@ -5195,7 +5192,7 @@ Effect on amount of final instalment
 
              (4)  In working out the amount of the final instalment of a small or medium taxpayer for the 1999-2000 year of income, disregard a previous instalment that the taxpayer is not liable to pay because of this section.
 
-221AZKC  Deferring payment of the final instalment for 1999-2000
+##### <a id="221AZKC"></a>221AZKC  Deferring payment of the final instalment for 1999-2000
 
              (1)  Depending on the amount of its assessed tax for the 1999-2000 year of income, an instalment taxpayer may defer payment of all or some of its final instalment for that year.
 
@@ -5307,7 +5304,7 @@ Note:          If some or all of a quarterly payment is not pa
 
              (8)  Quarterly payments are to be treated as tax for the purposes of sections 206, 208, 209, 214, 254, 255, 258 and 259.
 
-221AZKE  Modified application of sections 221AZKB and 221AZKC to entity adopting a substituted accounting period
+##### <a id="221AZKE"></a>221AZKE  Modified application of sections 221AZKB and 221AZKC to entity adopting a substituted accounting period
 
                    Sections 221AZKB and 221AZKC apply to an entity with modifications that the Commissioner determines in writing if the Commissioner has granted the entity leave under section 18 to adopt an accounting period ending on a day other than 30 June and, as a result:
 
@@ -5315,69 +5312,69 @@ Note:          If some or all of a quarterly payment is not pa
 
                      (b)  the entity’s 2000-01 year of income will end on a day of a calendar year that does not correspond to the last day of the entity’s 1999-2000 year of income.
 
-19  Subsection 221AZMAA(1)
+## 19  Subsection 221AZMAA(1)
 
 After “instalment” (second occurring), insert “or quarterly payment”.
 
-20  Subsection 221AZMAA(1)
+## 20  Subsection 221AZMAA(1)
 
 After “the instalment” (wherever occurring), insert “or quarterly payment”.
 
-21  Subsection 221AZMAA(1)
+## 21  Subsection 221AZMAA(1)
 
 After “221AZK”, insert “or 221AZKC”.
 
-22  Subsection 221C(1A)
+## 22  Subsection 221C(1A)
 
 After “salary or wages” (first occurring), insert “before 1 July 2000”.
 
-23  Section 221K
+## 23  Section 221K
 
 After “at any time”, insert “before 1 July 2000”.
 
-24  Subsection 221S(2)
+## 24  Subsection 221S(2)
 
 After “times”, insert “before 1 July 2000”.
 
-25  After subsection 221S(2)
+## 25  After subsection 221S(2)
 
 Insert:
 
           (2A)  An arrangement under subsection (1), or an authorisation under subsection (2), does not apply to a payment of salary or wages made after 30 June 2000.
 
-26  At the end of subsection 221YB(2)
+## 26  At the end of subsection 221YB(2)
 
 Add “(except the 2000-01 year of income and later income years)”.
 
-27  At the end of subsection 221YB(2)
+## 27  At the end of subsection 221YB(2)
 
 Add:
 
 Note:          For the 2000-01 income year you may be liable to pay PAYG instalments: see Division 45 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-28  At the end of subsection 221YBA(1)
+## 28  At the end of subsection 221YBA(1)
 
 Add “(except the 2000-01 year of income and later income years)”.
 
-29  At the end of subsection 221YBA(1)
+## 29  At the end of subsection 221YBA(1)
 
 Add:
 
 Note:          For the 2000-01 income year you may be liable to pay PAYG instalments: see Division 45 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-30  Before section 221YHA
+## 30  Before section 221YHA
 
 Insert:
 
-221YHAAH  Division does not apply to payments made after 30 June 2000
+##### <a id="221YHAAH"></a>221YHAAH  Division does not apply to payments made after 30 June 2000
 
                    This Division does not apply to a prescribed payment made after 30 June 2000.
 
-31  Paragraph 221YHDD(1)(a)
+## 31  Paragraph 221YHDD(1)(a)
 
 Before “a person”, insert “before 1 July 2000,”.
 
-32  After subsection 221YHDD(4)
+## 32  After subsection 221YHDD(4)
 
 Insert:
 
@@ -5397,21 +5394,21 @@ the householder must, within 6 weeks after that day:
 
 (The completed form does not need to cover prescribed payments made after 30 June 2000.)
 
-33  After subsection 221YHDD(6)
+## 33  After subsection 221YHDD(6)
 
 Insert:
 
           (6A)  Subject to subsection (7), the householder must keep the copy that paragraph (4A)(d) requires to be made for 6 months after it is made.
 
-34  Subsection 221YHDD(8)
+## 34  Subsection 221YHDD(8)
 
 After “(6)”, insert “, (6A)”.
 
-35  Subsection 221YHZB(1)
+## 35  Subsection 221YHZB(1)
 
 After “non-resident” (second occurring), insert “before 1 July 2000”.
 
-36  After subsection 221YHZC(1)
+## 36  After subsection 221YHZC(1)
 
 Insert:
 
@@ -5419,21 +5416,21 @@ Insert:
 
 Note:          Instead, the investment body must withhold an amount under section 12-140 or 12-145 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-37  Subsection 221YHZD(1B)
+## 37  Subsection 221YHZD(1B)
 
 After “202DA”, insert “and before 1 July 2000”.
 
-38  Subsection 221YHZD(1B)
+## 38  Subsection 221YHZD(1B)
 
 Omit “until”, substitute “unless”.
 
-39  Paragraph 221YHZQ(1)(b)
+## 39  Paragraph 221YHZQ(1)(b)
 
 Repeal the paragraph, substitute:
 
                      (b)  if the investment body had paid the deemed payment amount to the investor in money, and section 12-150 in Schedule 1 to the _Taxation Administration Act 1953_ had not been enacted, section 12-140 in that Schedule would have required the investment body to withhold an amount (the **_notional deduction_**) from the payment; and
 
-40  Before subsection 221YL(1)
+## 40  Before subsection 221YL(1)
 
 Insert:
 
@@ -5441,7 +5438,7 @@ Insert:
 
 Note:          Instead, see Subdivision 12-F in Schedule 1 to the _Taxation Administration Act 1953_.
 
-41  After subsection 221YL(2D)
+## 41  After subsection 221YL(2D)
 
 Insert:
 
@@ -5449,53 +5446,53 @@ Insert:
 
 Note:          Instead, the lender must notify the borrower under section 12-260 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-42  Subsection 221YP(1)
+## 42  Subsection 221YP(1)
 
 Omit “until”, substitute “before 1 July 2000 unless”.
 
-43  Subsection 221YP(2)
+## 43  Subsection 221YP(2)
 
 Omit “until”, substitute “before 1 July 2000 unless”.
 
-44  Subsection 221YP(3A)
+## 44  Subsection 221YP(3A)
 
 Omit “until”, substitute “before 1 July 2000 unless”.
 
-45  Subsection 221ZB(1)
+## 45  Subsection 221ZB(1)
 
 After “shall not”, insert “before 1 July 2000”.
 
-46  Before section 221ZM
+## 46  Before section 221ZM
 
 Insert in Division 6 of Part VI:
 
-221ZMA  Division does not apply to withdrawals made after 30 June 2000
+##### <a id="221ZMA"></a>221ZMA  Division does not apply to withdrawals made after 30 June 2000
 
                    This Division does not apply to a withdrawal from a film account made after 30 June 2000.
 
-47  Subsection 221ZXB(1)
+## 47  Subsection 221ZXB(1)
 
 After “if”, insert “, before 1 July 2000,”.
 
-48  After subsection 262A(2)
+## 48  After subsection 262A(2)
 
 Insert:
 
           (2A)  If an entity is required to withhold an amount under Division 12 in Schedule 1 to the _Taxation Administration Act 1953_, or to pay an amount to the Commissioner under Division 14 of that Schedule, the entity must keep records that record and explain all transactions and other acts engaged in by the entity that are relevant for the purposes of that Schedule.
 
-49  After subsection 262A(4)
+## 49  After subsection 262A(4)
 
 Insert:
 
      (4AAA)  Subsection (4) does not apply to any record required to be kept by a provision in Schedule 1 to the _Taxation Administration Act 1953_.
 
-49A  Application
+## 49A  Application
 
 The amendment of the _Income Tax Assessment Act 1936_ made by item 39 of this Schedule applies to an income year that _ends after_ 30 June 2000.
 
 A New Tax System (Goods and Services Tax) Act 1999
 
-50  Paragraph 9-20(2)(a)
+## 50  Paragraph 9-20(2)(a)
 
 Repeal the paragraph, substitute:
 
@@ -5503,13 +5500,13 @@ Repeal the paragraph, substitute:
 
 Note:       Acts done as mentioned in paragraph (a) will still form part of the activities of the enterprise to which the person provides work or services.
 
-51  Paragraph 9-20(2)(d)
+## 51  Paragraph 9-20(2)(d)
 
 Repeal the paragraph, substitute:
 
                      (d)  as a member of a local governing body established by or under a <sup>* </sup>State law or <sup>* </sup>Territory law (except a local governing body to which subsection 12-45(3) in Schedule 1 to the _Taxation Administration Act 1953_ applies).
 
-52  At the end of section 9-20
+## 52  At the end of section 9-20
 
 Add:
 
@@ -5585,7 +5582,7 @@ Add:
   </td>
 </tr></table>
 
-53  Section 9-39 (at the end of the table)
+## 53  Section 9-39 (at the end of the table)
 
 Add:
 
@@ -5608,7 +5605,7 @@ Add:
   </td>
 </tr></table>
 
-54  Section 37-1 (after table item 33)
+## 54  Section 37-1 (after table item 33)
 
 Insert:
 
@@ -5631,45 +5628,45 @@ Insert:
   </td>
 </tr></table>
 
-55  Paragraph 111-5(1)(a)
+## 55  Paragraph 111-5(1)(a)
 
 Omit “, other <sup>* </sup>PAYE earner”.
 
-56  Paragraph 111-5(1)(a)
+## 56  Paragraph 111-5(1)(a)
 
 Omit “, PAYE earner”.
 
-57  Subsection 111-5(1)
+## 57  Subsection 111-5(1)
 
 Omit “, PAYE earner” (last occurring).
 
-58  At the end of subsection 111-5(1)
+## 58  At the end of subsection 111-5(1)
 
 Add:
 
 Note:          This section also applies if you reimburse the recipient of certain withholding payments: see section 111-20.
 
-59  Paragraph 111-5(3)(a)
+## 59  Paragraph 111-5(3)(a)
 
 Omit “, <sup>* </sup>PAYE earner”.
 
-60  Paragraph 111-5(3)(b)
+## 60  Paragraph 111-5(3)(b)
 
 Omit “, PAYE earner”.
 
-61  Paragraph 111-10(2)(a)
+## 61  Paragraph 111-10(2)(a)
 
 Omit “, <sup>* </sup>PAYE earner”.
 
-62  Paragraph 111-10(2)(a)
+## 62  Paragraph 111-10(2)(a)
 
 Omit “, PAYE earner”.
 
-63  After section 111-15
+## 63  After section 111-15
 
 Insert:
 
-111-20  Application of Division to recipients of certain withholding payments
+##### <a id="111-20"></a>111-20  Application of Division to recipients of certain withholding payments
 
              (1)  If you make, or are liable to make, <sup>* </sup>withholding payments covered by subsection (2), this Division applies to you as if:
 
@@ -5760,13 +5757,13 @@ Insert:
   </td>
 </tr></table>
 
-64  At the end of Part 4-2
+## 64  At the end of Part 4-2
 
 Add:
 
-Division 113—PAYG voluntary agreements
+### Division 113—PAYG voluntary agreements
 
-113-1  What this Division is about
+##### <a id="113-1"></a>113-1  What this Division is about
 
 * * *
 
@@ -5778,7 +5775,7 @@ A supply is _not_ a taxable supply if:
 
 * * *
 
-113-5  Supply of work or services not a taxable supply
+##### <a id="113-5"></a>113-5  Supply of work or services not a taxable supply
 
              (1)  A supply that you make is not a <sup>* </sup>taxable supply to the extent that you make it under an arrangement (within the meaning of the _Income Tax Assessment Act 1997_) if:
 
@@ -5798,27 +5795,27 @@ A supply is _not_ a taxable supply if:
 
              (2)  This section has effect despite section 9-5 (about what is a taxable supply.)
 
-65  Section 195-1
+## 65  Section 195-1
 
 Insert:
 
                     <a name="non-cash-benefit"></a>**_non-cash benefit_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
-66  Section 195-1 (definition of PAYE earner)
+## 66  Section 195-1 (definition of _PAYE earner_)
 
 Repeal the definition.
 
-67  Section 195-1 (note at the end of the definition of taxable supply)
+## 67  Section 195-1 (note at the end of the definition of _taxable supply_)
 
 Omit “and 90-5”, substitute “, 90-5 and 113-1”.
 
-68  Section 195-1
+## 68  Section 195-1
 
 Insert:
 
                     <a name="withhold-payment"></a>**_withholding payment_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
-69  Section 195-1
+## 69  Section 195-1
 
 Insert:
 
@@ -5826,17 +5823,17 @@ Insert:
 
 A New Tax System (Goods and Services Tax Administration) Act 1999
 
-70  Item 7 of Schedule 1
+## 70  Item 7 of Schedule 1
 
 Omit “At the end of the Act”, substitute “After Part V”.
 
-71  Item 7 of Schedule 1
+## 71  Item 7 of Schedule 1
 
 Omit “Add:”, substitute “Insert:”.
 
 A New Tax System (Australian Business Number) Act 1999
 
-72  Paragraph 38(2)(a)
+## 72  Paragraph 38(2)(a)
 
 Repeal the paragraph, substitute:
 
@@ -5844,13 +5841,13 @@ Repeal the paragraph, substitute:
 
 Note:       Acts done as mentioned in paragraph (a) will still form part of the activities of the enterprise to which the person provides work or services.
 
-73  Paragraph 38(2)(d)
+## 73  Paragraph 38(2)(d)
 
 Repeal the paragraph, substitute:
 
                      (d)  as a member of a local governing body established by or under a <sup>* </sup>State law or <sup>* </sup>Territory law (except a local governing body to which subsection 12-45(3) in Schedule 1 to the _Taxation Administration Act 1953_ applies).
 
-74  At the end of section 38
+## 74  At the end of section 38
 
 Add:
 
@@ -5926,23 +5923,23 @@ Add:
   </td>
 </tr></table>
 
-75  Section 41
+## 75  Section 41
 
 Insert:
 
                     <a name="non-cash-benefit"></a>**_non-cash benefit_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
-76  Section 41 (definition of PAYE earner)
+## 76  Section 41 (definition of _PAYE earner_)
 
 Repeal the definition.
 
-77  Section 41
+## 77  Section 41
 
 Insert:
 
                     <a name="withhold-payment"></a>**_withholding payment_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
-78  Section 41
+## 78  Section 41
 
 Insert:
 
@@ -5950,13 +5947,13 @@ Insert:
 
 Fringe Benefits Tax Assessment Act 1986
 
-79  Subsection 136(1) (definition of current employee)
+## 79  Subsection 136(1) (definition of _current employee_)
 
 Repeal the definition, substitute:
 
                     <a name="current-employe"></a>**_current employee_** means a person who receives, or is entitled to receive, salary or wages.
 
-80  Subsection 136(1) (definition of current employer)
+## 80  Subsection 136(1) (definition of _current employer_)
 
 Repeal the definition, substitute:
 
@@ -5966,7 +5963,7 @@ Repeal the definition, substitute:
 
                      (b)  in the case of any other unincorporated association or body of persons—its manager or other principal officer.
 
-81  Subsection 136(1) (definition of salary or wages)
+## 81  Subsection 136(1) (definition of _salary or wages_)
 
 Repeal the definition, substitute:
 
@@ -6055,21 +6052,21 @@ Repeal the definition, substitute:
 
 Note:          Section 137 extends the meaning of **_salary or wages_** for some purposes.
 
-82  Subsection 137(1)
+## 82  Subsection 137(1)
 
 Omit “section 221A of the _Income Tax Assessment Act 1936_”, substitute “a definition in subsection 136(1)”.
 
-83  Subsection 137(2)
+## 83  Subsection 137(2)
 
 Repeal the subsection.
 
-84  Application
+## 84  Application
 
 The amendments of the _Fringe Benefits Tax Assessment Act 1986_ made by this Part apply to a payment made, or a benefit provided, on or after 1 July 2000.
 
 Taxation Administration Act 1953
 
-85  Subsection 8AAB(5) (after table item 17)
+## 85  Subsection 8AAB(5) (after table item 17)
 
 Insert:
 
@@ -6158,17 +6155,17 @@ Insert:
   </td>
 </tr></table>
 
-86  Subsection 8AAJ(1)
+## 86  Subsection 8AAJ(1)
 
 Repeal the subsection, substitute:
 
              (1)  There are certain provisions of Acts that make persons liable to pay the failure to notify penalty. Subsections (4) and (5) list the provisions.
 
-87  Subsection 8AAJ(4)
+## 87  Subsection 8AAJ(4)
 
 Omit “Sections 91Z and 95A of the _Sales Tax Assessment Act 1992_ also deal with liability to the penalty.”.
 
-88  At the end of section 8AAJ
+## 88  At the end of section 8AAJ
 
 Add:
 
@@ -6250,25 +6247,25 @@ Part 1—Running balance accounts
 
 Division 1—Amendment of Part IIB of the Taxation Administration Act 1953
 
-1  Section 8AAZA (definition of deficit)
+## 1  Section 8AAZA (definition of _deficit_)
 
 Repeal the definition.
 
-2  Section 8AAZA
+## 2  Section 8AAZA
 
 Insert:
 
                     <a name="excess-non-rba-crite"></a>**_excess non-RBA credit_** means a credit that arises under section 8AAZLA or 8AAZLB.
 
-3  Section 8AAZA (definition of RBA class)
+## 3  Section 8AAZA (definition of _RBA class_)
 
 Repeal the definition.
 
-4  Section 8AAZA (definition of RBA deficit)
+## 4  Section 8AAZA (definition of _RBA_ _deficit_)
 
 Repeal the definition.
 
-5  Section 8AAZA (definition of RBA deficit debt)
+## 5  Section 8AAZA (definition of _RBA_ _deficit debt_)
 
 Repeal the definition, substitute:
 
@@ -6278,7 +6275,7 @@ Repeal the definition, substitute:
 
                      (b)  payments made in respect of current or anticipated primary tax debts of the entity, and credits to which the entity is entitled under a taxation law, that have been allocated to the RBA.
 
-6  Section 8AAZA
+## 6  Section 8AAZA
 
 Insert:
 
@@ -6288,11 +6285,11 @@ Insert:
 
                      (b)  payments made in respect of current or anticipated primary tax debts of the entity, and credits to which the entity is entitled under a taxation law, that have been allocated to the RBA.
 
-7  Section 8AAZA (definition of special priority credit)
+## 7  Section 8AAZA (definition of _special priority credit_)
 
 Repeal the definition.
 
-8  Subsection 8AAZC(1)
+## 8  Subsection 8AAZC(1)
 
 Repeal the subsection, substitute:
 
@@ -6300,17 +6297,17 @@ Repeal the subsection, substitute:
 
 Note:          This section does not prevent the Commissioner from establishing other accounts that are not RBAs.
 
-9  Subsection 8AAZC(4)
+## 9  Subsection 8AAZC(4)
 
 Omit “Within an RBA class,”.
 
-10  After subsection 8AAZC(4)
+## 10  After subsection 8AAZC(4)
 
 Insert:
 
           (4A)  Without limiting subsection (4), separate RBAs may be established for different types of primary tax debts.
 
-11  Subsection 8AAZD(1)
+## 11  Subsection 8AAZD(1)
 
 Repeal the subsection, substitute:
 
@@ -6326,59 +6323,59 @@ Note:          Separate RBAs may be established for different 
 
 _Note:       The following heading to subsection 8AAZD(2) is inserted “Definition”._
 
-12  Section 8AAZE
+## 12  Section 8AAZE
 
 Repeal the section.
 
-13  Subsection 8AAZF(1)
+## 13  Subsection 8AAZF(1)
 
 Omit “a deficit on an RBA”, substitute “an RBA deficit debt”.
 
 _Note:       The heading to section 8AAZF is altered by adding at the end “debt”._
 
-14  Subsection 8AAZF(1)
+## 14  Subsection 8AAZF(1)
 
 Omit “that deficit”, substitute “that RBA deficit debt”.
 
-15  Subsection 8AAZF(2)
+## 15  Subsection 8AAZF(2)
 
 Repeal the subsection, substitute:
 
              (2)  The balance of the RBA is altered in the Commissioner’s favour by the amount of the general interest charge payable.
 
-16  Subsection 8AAZH(1)
+## 16  Subsection 8AAZH(1)
 
 After “deficit”, insert “debt”.
 
 _Note:       The heading to section 8AAZH is altered by adding at the end “debt”._
 
-17  Subsection 8AAZH(2) (example)
+## 17  Subsection 8AAZH(2) (example)
 
 Omit “deficit on the RBA”, substitute “RBA deficit debt”.
 
-18  Paragraph 8AAZJ(1)(a)
+## 18  Paragraph 8AAZJ(1)(a)
 
 After “deficit”, insert “debt”.
 
-19  Paragraph 8AAZJ(1)(b)
+## 19  Paragraph 8AAZJ(1)(b)
 
 Omit “was allocated to the RBA”, substitute “is payable on the RBA deficit debt”.
 
-20  Paragraph 8AAZJ(1)(d)
+## 20  Paragraph 8AAZJ(1)(d)
 
 After “deficit”, insert “debt”.
 
-21  Section 8AAZK
+## 21  Section 8AAZK
 
 Repeal the section.
 
-22  Division 3 of Part IIB
+## 22  Division 3 of Part IIB
 
 Repeal the Division, substitute:
 
-Division 3—Treatment of payments, credits and RBA surpluses
+### Division 3—Treatment of payments, credits and RBA surpluses
 
-8AAZL  Amounts covered by this Division
+##### <a id="8AAZL"></a>8AAZL  Amounts covered by this Division
 
              (1)  This Division sets out how the Commissioner must treat the following kinds of amount:
 
@@ -6392,7 +6389,7 @@ Division 3—Treatment of payments, credits and RBA surpluses
 
 Note:          In either case, section 8AAZLC has some additional rules that apply to RBA surpluses and to certain excess non-RBA credits.
 
-8AAZLA  Method 1—allocating the amount first to an RBA
+##### <a id="8AAZLA"></a>8AAZLA  Method 1—allocating the amount first to an RBA
 
              (1)  The Commissioner may, in the manner he or she determines, allocate the amount to an RBA of the entity.
 
@@ -6408,7 +6405,7 @@ Note:          In either case, section 8AAZLC has some additio
 
                      (b)  relates to the RBA to which the amount was allocated.
 
-8AAZLB  Method 2—applying the amount first against a non-RBA tax debt
+##### <a id="8AAZLB"></a>8AAZLB  Method 2—applying the amount first against a non-RBA tax debt
 
              (1)  The Commissioner may, in the manner he or she determines, apply the amount against a non-RBA tax debt of the entity.
 
@@ -6430,7 +6427,7 @@ Separate RBAs for one entity
 
 Note:          Separate RBAs may be established for different businesses or undertakings conducted by the same entity, for different parts of the same business or undertaking or for different periods: see subsection 8AAZC(5).
 
-8AAZLC  RBA surplus and related credits must remain equivalent if one or the other is applied
+##### <a id="8AAZLC"></a>8AAZLC  RBA surplus and related credits must remain equivalent if one or the other is applied
 
 RBA surpluses
 
@@ -6446,7 +6443,7 @@ Excess non-RBA credits
 
 the related RBA is adjusted in the Commissioner’s favour by the same amount.
 
-8AAZLD  Special priority credits: HEC and FS assessment debts
+##### <a id="8AAZLD"></a>8AAZLD  Special priority credits: HEC and FS assessment debts
 
                    If, under this Division, the Commissioner is to apply a credit that arises under Schedule 1 to this Act (the PAYG system), the Commissioner must apply it, whether under section 8AAZLA or 8AAZLB:
 
@@ -6456,13 +6453,13 @@ the related RBA is adjusted in the Commissioner’s favour by the same amount.
 
 before applying it against other non-RBA tax debts of the entity.
 
-8AAZLE  Instructions to Commissioner not binding
+##### <a id="8AAZLE"></a>8AAZLE  Instructions to Commissioner not binding
 
                    In doing anything under this Division, the Commissioner is not required to take account of any instructions of any entity.
 
-Division 3A—Refunds of RBA surpluses and credits
+### Division 3A—Refunds of RBA surpluses and credits
 
-8AAZLF  Commissioner must refund RBA surpluses and credits
+##### <a id="8AAZLF"></a>8AAZLF  Commissioner must refund RBA surpluses and credits
 
              (1)  The Commissioner must refund to an entity so much of:
 
@@ -6486,7 +6483,7 @@ Effect of refunding credit that relates to an RBA
 
              (5)  If, under this section, the Commissioner refunds an excess non-RBA credit that relates to an RBA, the RBA is adjusted in the Commissioner’s favour by the same amount.
 
-8AAZLG  Retaining refunds until information or notification given
+##### <a id="8AAZLG"></a>8AAZLG  Retaining refunds until information or notification given
 
              (1)  The Commissioner may retain an amount that he or she otherwise would have to refund to an entity under section 8AAZLF, if the entity has not given the Commissioner a notification:
 
@@ -6555,7 +6552,7 @@ Effect of refunding credit that relates to an RBA
 
              (2)  The Commissioner may retain the amount until the entity has given the Commissioner that notification.
 
-8AAZLH  How refunds are made
+##### <a id="8AAZLH"></a>8AAZLH  How refunds are made
 
              (1)  This section applies to refunds payable to an entity of RBA surpluses, or excess non-RBA credits that relate to an RBA, if primary tax debts arising under any of the provisions set out in paragraph 8AAZLG(1)(b) have been allocated to that RBA.
 
@@ -6567,47 +6564,47 @@ Effect of refunding credit that relates to an RBA
 
 Division 2—Consequential amendments
 
-23  Multiple amendments
+## 23  Multiple amendments
 
 The specified provisions of the Acts listed in this Division are amended by omitting “section 8AAZL” and substituting “Division 3 of Part IIB”.
 
 Income Tax Assessment Act 1936
 
-24  Subsection 160AN(3)
+## 24  Subsection 160AN(3)
 
-25  Subsection 160AN(4)
+## 25  Subsection 160AN(4)
 
-26  Paragraph 160APYBB(b)
+## 26  Paragraph 160APYBB(b)
 
-27  Subsection 163B(10) (definition of income tax crediting amount)
+## 27  Subsection 163B(10) (definition of _income tax crediting amount_)
 
-28  Subsection 220AZC(6)
+## 28  Subsection 220AZC(6)
 
-29  Subsection 221YHG(5)
+## 29  Subsection 221YHG(5)
 
-30  Subsection 221YHZL(6)
+## 30  Subsection 221YHZL(6)
 
-31  Subsection 221YT(3)
+## 31  Subsection 221YT(3)
 
-32  Subsection 221ZG(3)
+## 32  Subsection 221ZG(3)
 
 Sales Tax Assessment Act 1992
 
-33  Section 56
+## 33  Section 56
 
 Taxation (Interest on Overpayments and Early Payments) Act 1983
 
-34  Subsection 3(1) (paragraph (a) of the definition of income tax crediting amount)
+## 34  Subsection 3(1) (paragraph (a) of the definition of _income tax crediting amount_)
 
 Division 3—Application and transitional
 
-35  Application
+## 35  Application
 
 (1)        The amendments made by this Part, so far as they relate to the establishment, operation and effect of RBAs, apply to all tax debts owing on or after 1 July 2000, regardless of when the debts arose.
 
 (2)        The amendments made by this Part, so far as they relate to the treatment of payments and credits by the Commissioner, apply to the treatment of payments or credits by the Commissioner on or after 1 July 2000, regardless of when the payments were made or when the credits arose.
 
-36  Transitional—existing RBAs
+## 36  Transitional—existing RBAs
 
 Although item 8 repeals and substitutes subsection 8AAZC(1) of the _Taxation Administration Act 1953_, an RBA system established under the old version of that subsection continues in existence after the commencement of that item as if it had been established under the new version of that subsection.
 
@@ -6615,31 +6612,31 @@ Part 2—General interest charge
 
 Crimes (Taxation Offences) Act 1980
 
-37  Subsection 3(1) (paragraph (b) of the definition of income tax)
+## 37  Subsection 3(1) (paragraph (b) of the definition of _income tax_)
 
 Omit “section 207, 221AG, 221AY, 221AZE or”, substitute “section 163AA, section 170AA, subsection 204(3), subsection 221AZMAA(1), subsection 221AZP(1), subsection 221YD(3), section”.
 
-38  Subsection 3(1) (paragraph (d) of the definition of income tax)
+## 38  Subsection 3(1) (paragraph (d) of the definition of _income tax_)
 
 Omit “221EAA(1), section 220AAE, 220AAM or 220AAR or subsection 220AAV(3)”, substitute “221EAA(1) or section 220AAE, 220AAM or 220AAR”.
 
-39  Subsection 3(1) (paragraph (g) of the definition of income tax)
+## 39  Subsection 3(1) (paragraph (g) of the definition of _income tax_)
 
 Omit “220AS(2)”, substitute “220AS(1)”.
 
 Income Tax Assessment Act 1936
 
-40  At the end of section 102UO
+## 40  At the end of section 102UO
 
 Add:
 
              (3)  Any unpaid ultimate beneficiary non-disclosure tax may be sued for and recovered in a court of competent jurisdiction by the Commissioner suing in his or her official name.
 
-41  Sections 102UP and 102UQ
+## 41  Sections 102UP and 102UQ
 
 Repeal the sections, substitute:
 
-102UP  Late payment of ultimate beneficiary non-disclosure tax
+##### <a id="102UP"></a>102UP  Late payment of ultimate beneficiary non-disclosure tax
 
                    If any of the ultimate beneficiary non-disclosure tax which a person is liable to pay remains unpaid 60 days after the day by which it is due to be paid, the person is liable to pay the general interest charge on the unpaid amount for each day in the period that:
 
@@ -6653,35 +6650,35 @@ Repeal the sections, substitute:
 
 Note:          The general interest charge is worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
 
-42  Subsections 163B(5) and (6)
+## 42  Subsections 163B(5) and (6)
 
 Repeal the subsections.
 
-43  Subsection 163B(8)
+## 43  Subsection 163B(8)
 
 Omit “170, 172, 174”, substitute “204”.
 
-44  Paragraph 214A(2)(e)
+## 44  Paragraph 214A(2)(e)
 
 After “section 8C, 8I,”, insert “8P, 8T, 8X, 8ZB,”.
 
-45  Paragraphs 214A(2)(f), (fa) and (g)
+## 45  Paragraphs 214A(2)(f), (fa) and (g)
 
 Repeal the paragraphs.
 
-46  Section 220AAF
+## 46  Section 220AAF
 
 Omit “the general interest charge”, substitute “a penalty”.
 
-47  Section 220AAF (note)
+## 47  Section 220AAF (note)
 
 Repeal the note.
 
-48  Section 220AAW
+## 48  Section 220AAW
 
 Repeal the section, substitute:
 
-220AAW  Large remitters—non-electronic payment
+##### <a id="220AAW"></a>220AAW  Large remitters—non-electronic payment
 
              (1)  A large remitter that pays an amount other than by electronic transfer is liable to a penalty of the greater of:
 
@@ -6707,21 +6704,21 @@ Note:          The general interest charge is worked out under
 
              (5)  This section does not apply to an exempt Australian government agency (as defined in subsection 995-1(1) of the _Income Tax Assessment Act 1997_).
 
-49  Paragraph 220AAZF(g)
+## 49  Paragraph 220AAZF(g)
 
 Omit “220AAX(5)”, substitute “220AAW(2)”.
 
-50  At the end of section 221AZM
+## 50  At the end of section 221AZM
 
 Add “The credit arises when the Commissioner makes an assessment of the income tax payable by the taxpayer or determines that no income tax is payable.”
 
-51  At the end of section 221N
+## 51  At the end of section 221N
 
 Add:
 
              (3)  A person who is dissatisfied with a decision of the Commissioner under subsection (1) in relation to the person may object against it in the manner set out in Part IVC of the _Taxation Administration Act 1953_.
 
-52  At the end of section 221YDB
+## 52  At the end of section 221YDB
 
 Add:
 
@@ -6737,45 +6734,45 @@ Add:
 
 Note:          The general interest charge is worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
 
-53  Before subsection 221YHZD(1)
+## 53  Before subsection 221YHZD(1)
 
 Insert:
 
      (1AAA)  A person who deducts, or purports to deduct, under subsection 221YHZC(1), an amount from a payment to a non-resident must pay the amount to the Commissioner within 14 days after the end of the month in which the person makes the payment to the non-resident.
 
-54  Paragraph 221YHZD(1) (penalty)
+## 54  Paragraph 221YHZD(1) (penalty)
 
 After “Penalty”, insert “for a contravention of this subsection”.
 
-55  Subsection 221YHZD(2)
+## 55  Subsection 221YHZD(2)
 
 Omit “subsection (1)”, substitute “subsection (1AAA)”.
 
-56  Subsection 254(2)
+## 56  Subsection 254(2)
 
 Omit “a provision of this Act”, substitute “section 163AA, section 170AA, subsection 204(3), subsection 221AZMAA(1), subsection 221AZP(1), subsection 221YD(3) or section 221YDB”.
 
-57  Subsection 255(4)
+## 57  Subsection 255(4)
 
 Omit “a provision of this Act”, substitute “section 163AA, section 170AA, subsection 204(3), subsection 221AZMAA(1), subsection 221AZP(1), subsection 221YD(3) or section 221YDB”.
 
-58  Subsection 258(2)
+## 58  Subsection 258(2)
 
 Omit “a provision of this Act”, substitute “section 163AA, section 170AA, subsection 204(3), subsection 221AZMAA(1), subsection 221AZP(1), subsection 221YD(3) or section 221YDB”.
 
-59  Subsection 259(2)
+## 59  Subsection 259(2)
 
 Omit “a provision of this Act”, substitute “section 163AA, section 170AA, subsection 204(3), subsection 221AZMAA(1), subsection 221AZP(1), subsection 221YD(3) or section 221YDB”.
 
-60  Subsection 265(12)
+## 60  Subsection 265(12)
 
 Omit “a provision of this Act”, substitute “section 163AA, section 170AA, subsection 204(3), subsection 221AZMAA(1), subsection 221AZP(1), subsection 221YD(3) or section 221YDB”.
 
-61  Section 271-80 of Schedule 2F
+## 61  Section 271-80 of Schedule 2F
 
 Repeal the section, substitute:
 
-271-80  Late payment of family trust distribution tax
+##### <a id="271-80"></a>271-80  Late payment of family trust distribution tax
 
                    If any of the family trust distribution tax which a person is liable to pay remains unpaid 60 days after the day by which it is due to be paid, the person is liable to pay the general interest charge on the unpaid amount for each day in the period that:
 
@@ -6789,21 +6786,21 @@ Repeal the section, substitute:
 
 Note:          The general interest charge is worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.
 
-62  Section 271-85 of Schedule 2F
+## 62  Section 271-85 of Schedule 2F
 
-Omit “, and any unpaid additional tax payable under section 271-80,”.
+Omit “, and any unpaid additional tax is payable under section 271-80,”.
 
 Income Tax Assessment Act 1997
 
-63  Paragraph 20-25(2A)(a)
+## 63  Paragraph 20-25(2A)(a)
 
 Omit “general interest charge”, substitute “<sup>* </sup>general interest charge”.
 
-64  Paragraph 25-5(1)(c)
+## 64  Paragraph 25-5(1)(c)
 
 Omit “general interest charge”, substitute “<sup>* </sup>general interest charge”.
 
-65  At the end of section 25-5
+## 65  At the end of section 25-5
 
 Add:
 
@@ -6815,41 +6812,41 @@ Note:          RBAs (running balance accounts) are dealt with 
 
 Sales Tax Assessment Act 1992
 
-66  Section 56
+## 66  Section 56
 
 Omit “_Taxation Administration Act 1955_”, substitute “_Taxation Administration Act 1953_”.
 
-67  Subsection 95A(1)
+## 67  Subsection 95A(1)
 
 After “fails to notify”, insert “the amount of tax payable on”.
 
 _Note:       The heading to section 95A is altered by omitting “of” and substituting “amount of tax payable on”._
 
-68  Subsection 95A(1)
+## 68  Subsection 95A(1)
 
 Omit “the assessable dealing”, substitute “the tax payable”.
 
-69  Subsection 95A(2)
+## 69  Subsection 95A(2)
 
 Omit “an amount of”, substitute “the amount of tax payable on”.
 
-70  Subsection 95A(2)
+## 70  Subsection 95A(2)
 
 Omit “the assessable dealing”, substitute “the tax payable”.
 
-71  At the end of subsection 99(1)
+## 71  At the end of subsection 99(1)
 
 Add “(other than failure to notify penalty under section 95A)”.
 
-72  Subsection 99(3)
+## 72  Subsection 99(3)
 
 After “this Part”, insert “(other than section 95A)”.
 
-73  Section 100
+## 73  Section 100
 
 After “this Part”, insert “(other than failure to notify penalty under section 95A)”.
 
-74  At the end of section 100
+## 74  At the end of section 100
 
 Add:
 
@@ -6857,7 +6854,7 @@ Note:          The Commissioner may remit failure to notify pe
 
 Taxation Administration Act 1953
 
-75  Subsection 8AAB(4) (before table item 1)
+## 75  Subsection 8AAB(4) (before table item 1)
 
 Insert:
 
@@ -6880,7 +6877,7 @@ Insert:
   </td>
 </tr></table>
 
-76  Subsection 8AAB(4) (at the end of the table)
+## 76  Subsection 8AAB(4) (at the end of the table)
 
 Add:
 
@@ -6903,37 +6900,37 @@ Add:
   </td>
 </tr></table>
 
-77  Subsection 8AAF(2)
+## 77  Subsection 8AAF(2)
 
 Repeal the subsection.
 
-78  After section 8AAG
+## 78  After section 8AAG
 
 Insert:
 
-8AAGA  Rounding of the charge
+##### <a id="8AAGA"></a>8AAGA  Rounding of the charge
 
                    If the amount of the charge payable for any period is not a multiple of 5 cents, the Commissioner may round it down to the nearest multiple of 5 cents.
 
-79  Subsection 8AAP(4) (table item 3, entry headed “Topic”)
+## 79  Subsection 8AAP(4) (table item 3, entry headed “Topic”)
 
 Omit “PPS payment summary”, substitute “PPS payment reconciliation statement form”.
 
-80  Subsection 8AAQ(2)
+## 80  Subsection 8AAQ(2)
 
 Omit “reconciliation statement”, substitute “statement, report or form”.
 
-81  Paragraph 8AAZD(2)(b)
+## 81  Paragraph 8AAZD(2)(b)
 
 Omit “debt; or”, substitute “debt.”.
 
-82  Paragraph 8AAZD(2)(c)
+## 82  Paragraph 8AAZD(2)(c)
 
 Repeal the paragraph.
 
 Taxation (Interest on Overpayments and Early Payments) Act 1983
 
-83  Subsection 3(1) (paragraphs (baa), (ba) and (bb) of the definition of relevant tax)
+## 83  Subsection 3(1) (paragraphs (baa), (ba) and (bb) of the definition of _relevant tax_)
 
 Repeal the paragraphs, substitute:
 
@@ -6943,49 +6940,49 @@ Repeal the paragraphs, substitute:
 
                     (bb)  an amount payable to the Commissioner under subsection 221YHH(1) of the Tax Act;
 
-84  Subsection 3(1) (paragraph (caa) of the definition of relevant tax)
+## 84  Subsection 3(1) (paragraph (caa) of the definition of _relevant tax_)
 
 Repeal the paragraph.
 
-85  Subparagraph 12A(1)(a)(i)
+## 85  Subparagraph 12A(1)(a)(i)
 
 After “under”, insert “section 163AA, section 170AA,”.
 
-86  Subparagraph 12A(1)(a)(i)
+## 86  Subparagraph 12A(1)(a)(i)
 
 Omit “subsection 221AZP(1)”, substitute “subsection 204(3), subsection 221AZMAA(1), subsection 221AZP(1), subsection 221YD(3)”.
 
 Taxation Laws Amendment Act (No. 3) 1999
 
-87  Items 84 and 85 of Schedule 1
+## 87  Items 84 and 85 of Schedule 1
 
 Repeal the items.
 
 _Note:       These items contained misdescribed amendments. The correct amendments are in items 44 and 45 of this Schedule._
 
-88  Items 355, 356 and 357 of Schedule 1
+## 88  Items 355, 356 and 357 of Schedule 1
 
 Repeal the items.
 
 _Note:       These items contained misdescribed amendments. The correct amendment is in item 83 of this Schedule._
 
-89  Subitems 398(3), (4) and (5) of Schedule 1
+## 89  Subitems 398(3), (4) and (5) of Schedule 1
 
 Repeal the subitems.
 
-90  Subitem 399(2) of Schedule 1
+## 90  Subitem 399(2) of Schedule 1
 
 Omit “where”, substitute “to the extent that”.
 
-91  Subitem 399(2) of Schedule 1
+## 91  Subitem 399(2) of Schedule 1
 
 Omit “starts”, substitute “occurs”.
 
-92  Application of amendments
+## 92  Application of amendments
 
 The amendments made by this Part apply in relation to amounts that are due to be paid on or after 1 July 1999.
 
-93  Transitional—pre-1 July 1999 debts
+## 93  Transitional—pre-1 July 1999 debts
 
 (1)        This item applies to an amount (including an amount of penalty or interest) that a person owes to the Commonwealth directly under a taxation law (including a law that has been repealed or amended) and that became payable at any time before 1 July 1999, if all or some of the amount (the **_unpaid debt_**) remains unpaid at the beginning of 1 July 1999.
 
@@ -7009,7 +7006,7 @@ Part 3—Fringe benefits tax
 
 Fringe Benefits Tax Assessment Act 1986
 
-94  Subparagraphs 9(2)(c)(i) and (ii)
+## 94  Subparagraphs 9(2)(c)(i) and (ii)
 
 Repeal the subparagraphs, substitute:
 
@@ -7021,27 +7018,27 @@ Repeal the subparagraphs, substitute:
 
                             (iv)  in any other case—0.26;
 
-95  Subsection 11(1) (definition of D)
+## 95  Subsection 11(1) (definition of _D_)
 
 Repeal the definition, substitute:
 
                     <a name=""></a>**_D_** is the number of days in the year of tax.
 
-96  Subsection 11(2) (definition of D)
+## 96  Subsection 11(2) (definition of _D_)
 
 Repeal the definition, substitute:
 
                     <a name=""></a>**_D_** is the number of days in the year of tax.
 
-97  Section 12
+## 97  Section 12
 
 Repeal the section, substitute:
 
-12  Depreciated value
+##### <a id="12"></a>12  Depreciated value
 
              (1)  In this Subdivision, the **_depreciated value_** of a car at a particular time (the **_relevant time_**) is the amount worked out using the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01487/Html/ANTSPAYG99_image017.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01486/Html/ANTSPAYG99_image017.gif)</sub>
 
 where:
 
@@ -7059,27 +7056,27 @@ where:
 
                      (b)  each year starting on 1 July were a year of tax.
 
-98  Paragraph 19(1)(b)
+## 98  Paragraph 19(1)(b)
 
 Omit all the words from and including “both”, substitute “a once-only deduction (in this subsection called the **_gross deduction_**), other than a foreign income deduction, would, or would if not for section 82A, and Subdivisions F, GA and G of Division 3 of Part III, of the _Income Tax Assessment Act 1936_, and Divisions 28 and 900 of the _Income Tax Assessment Act 1997_, have been allowable to the recipient under either of those Acts in respect of the gross interest”.
 
-99  Subparagraph 19(1)(ba)(ii)
+## 99  Subparagraph 19(1)(ba)(ii)
 
 Omit all the words from and including “allowable”, substitute “allowable as a once-only deduction other than a foreign income deduction to the recipient under the _Income Tax Assessment Act 1936_ or the _Income Tax Assessment Act 1997_ in respect of that interest if that interest had been incurred and paid by the recipient on the last day of the loan period”.
 
-100  Subparagraph 19(1)(ca)(i)
+## 100  Subparagraph 19(1)(ca)(i)
 
 Repeal the subparagraph.
 
-101  Subparagraph 19(1)(ca)(ii)
+## 101  Subparagraph 19(1)(ca)(ii)
 
 Omit “in the case of the second standard year of tax or a subsequent year of tax—”.
 
-102  Paragraph 19(1)(d)
+## 102  Paragraph 19(1)(d)
 
 Omit all the words and subparagraphs after “apply” to and including “recipient gives”, substitute “and the loan fringe benefit is a car loan benefit in respect of a car held by the recipient during a period (in this subsection also called the **_holding period_**) in the year of tax, the recipient gives”.
 
-103  Paragraphs 19(2)(a) and (b)
+## 103  Paragraphs 19(2)(a) and (b)
 
 Repeal the paragraphs, substitute:
 
@@ -7087,37 +7084,37 @@ Repeal the paragraphs, substitute:
 
                      (b)  pay a Division 28 car expense;
 
-104  Paragraph 24(1)(b)
+## 104  Paragraph 24(1)(b)
 
 Omit all the words and subparagraphs from and including “both”, substitute “a once-only deduction (in this subsection called the **_gross deduction_**), other than a foreign income deduction, would, or would if not for section 82A, and Subdivisions F, GA and G of Division 3 of Part III, of the _Income Tax Assessment Act 1936_, and Divisions 28 and 900 of the _Income Tax Assessment Act 1997_, have been allowable to the recipient under either of those Acts in respect of the gross expenditure”.
 
-105  Subparagraph 24(1)(ba)(ii)
+## 105  Subparagraph 24(1)(ba)(ii)
 
 Omit all the words and sub-subparagraphs from and including “allowable” to and including “recipient under”, substitute “allowable as a once-only deduction other than a foreign income deduction to the recipient under”.
 
-106  Paragraph 26(1)(c) (definition of C)
+## 106  Paragraph 26(1)(c) (definition of _C_)
 
 Repeal the definition, substitute:
 
                     <a name=""></a>**_C_** is the number of days in the year of tax;
 
-107  Paragraph 26(2)(a) (definition of B)
+## 107  Paragraph 26(2)(a) (definition of _B_)
 
 Repeal the definition, substitute:
 
                     <a name=""></a>**_B_** is the number of days in the current year of tax; and
 
-108  Paragraph 26(3)(a)
+## 108  Paragraph 26(3)(a)
 
 Repeal the paragraph.
 
-109  Paragraph 29(1)(a) (definition of DYT)
+## 109  Paragraph 29(1)(a) (definition of _DYT_)
 
 Repeal the definition, substitute:
 
                     <a name="dyt"></a>**_DYT_** is the number of days in the current year of tax;
 
-110  Subsection 29(3A)
+## 110  Subsection 29(3A)
 
 Repeal the subsection, substitute:
 
@@ -7135,31 +7132,31 @@ Repeal the subsection, substitute:
 
                              (ii)  if the amount ascertained that way is not an amount of whole dollars—by rounding the amount to the nearest dollar (rounding 50 cents upwards).
 
-111  Paragraph 44(1)(b)
+## 111  Paragraph 44(1)(b)
 
 Omit all the words and subparagraphs from and including “both”, substitute “a once-only deduction (in this subsection called the **_gross deduction_**), other than a foreign income deduction, would, or would if not for section 82A, and Subdivisions F, GA and G of Division 3 of Part III, of the _Income Tax Assessment Act 1936_, and Divisions 28 and 900 of the _Income Tax Assessment Act 1997_, have been allowable to the recipient under either of those Acts in respect of the gross expenditure”.
 
-112  Subparagraph 44(1)(ba)(ii)
+## 112  Subparagraph 44(1)(ba)(ii)
 
 Omit all the words and subparagraphs from and including “allowable”, substitute “allowable as a once-only deduction other than a foreign income deduction to the recipient under either of those Acts in respect of that consideration if that consideration had been incurred and paid by the recipient at the provision time”.
 
-113  Paragraph 47(6)(aa)
+## 113  Paragraph 47(6)(aa)
 
 Omit “in the case of a standard year of tax—”.
 
-114  Paragraph 52(1)(b)
+## 114  Paragraph 52(1)(b)
 
 Omit all the words and subparagraphs from and including “both”, substitute “a once-only deduction (in this subsection called the **_gross deduction_**), other than a foreign income deduction, would, or would if not for section 82A, and Subdivisions F, GA and G of Division 3 of Part III, of the _Income Tax Assessment Act 1936_, and Divisions 28 and 900 of the _Income Tax Assessment Act 1997_, have been allowable to the recipient under either of those Acts in respect of the gross expenditure”.
 
-115  Subparagraph 52(1)(ba)(ii)
+## 115  Subparagraph 52(1)(ba)(ii)
 
 Omit all the words and sub-subparagraphs from and including “allowable”, substitute “allowable as a once-only deduction other than a foreign income deduction to the recipient under either of those Acts in respect of so much of that consideration as was taken into account for the purposes of section 48, 49, 50 or 51 of the _Income Tax Assessment Act 1936_, or section 4-15 or 8-1 of the _Income Tax Assessment Act 1997_, if that consideration had been incurred and paid by the recipient at the comparison time”.
 
-116  Subparagraph 61C(3)(b)(i)
+## 116  Subparagraph 61C(3)(b)(i)
 
 Repeal the subparagraph.
 
-117  Paragraphs 62(1)(a) and (b)
+## 117  Paragraphs 62(1)(a) and (b)
 
 Repeal the paragraphs, substitute:
 
@@ -7167,23 +7164,23 @@ Repeal the paragraphs, substitute:
 
                      (b)  in any other case—$500.
 
-118  Section 68
+## 118  Section 68
 
 Omit “28 days after the end of the year”, substitute “21 May in the next year of tax”.
 
-119  Subsection 90(1)
+## 119  Subsection 90(1)
 
 Omit “the twenty-eighth day after the end of the”, substitute “21 May in the next”.
 
-120  Section 102
+## 120  Section 102
 
 Omit all the words and paragraphs after “pay”, substitute “, in accordance with this Division, 4 instalments of tax in respect of each year of tax.”.
 
-121  Sections 103, 104 and 105
+## 121  Sections 103, 104 and 105
 
 Repeal the sections, substitute:
 
-103  When instalment of tax payable
+##### <a id="103"></a>103  When instalment of tax payable
 
                    Subject to this Division, the 4 instalments of tax payable in respect of a year of tax are due and payable as follows:
 
@@ -7257,11 +7254,11 @@ Repeal the sections, substitute:
   </td>
 </tr></table>
 
-104  Notice of the amount of an instalment
+##### <a id="104"></a>104  Notice of the amount of an instalment
 
                    An employer must notify the Commissioner, in the approved form, of the amount of an instalment on or before the day on which the instalment is due and payable.
 
-105  Entitlement to instalment credit
+##### <a id="105"></a>105  Entitlement to instalment credit
 
              (1)  If:
 
@@ -7275,25 +7272,25 @@ Note:          How the credit is applied is set out in Divisio
 
              (2)  The making of the assessment or determination, and the resulting credit entitlement, do not affect the liability to pay the instalment.
 
-122  Subdivision B of Division 2 of Part VII
+## 122  Subdivision B of Division 2 of Part VII
 
 Repeal the Subdivision.
 
-123  Subdivision C of Division 2 of Part VII (heading)
+## 123  Subdivision C of Division 2 of Part VII (heading)
 
 Repeal the heading, substitute:
 
-Subdivision C—Working out the amount of instalments
+#### Subdivision C—Working out the amount of instalments
 
-124  Section 109 (definition of employer’s estimate)
-
-Omit “standard”.
-
-125  Section 109 (definition of estimated tax)
+## 124  Section 109 (definition of _employer’s estimate_)
 
 Omit “standard”.
 
-126  Section 109 (definition of GIC period)
+## 125  Section 109 (definition of _estimated tax_)
+
+Omit “standard”.
+
+## 126  Section 109 (definition of _GIC period_)
 
 Repeal the definition, substitute:
 
@@ -7307,7 +7304,7 @@ Repeal the definition, substitute:
 
                      (d)  for a fourth instalment—the period starting at the beginning of 21 April, and finishing at the end of 20 May, in the next year of tax.
 
-127  Section 109 (definition of relevant fraction)
+## 127  Section 109 (definition of _relevant fraction_)
 
 Repeal the definition, substitute:
 
@@ -7321,97 +7318,97 @@ Repeal the definition, substitute:
 
                      (d)  1.00 for a fourth instalment.
 
-128  Subsection 110(1)
+## 128  Subsection 110(1)
 
 Repeal the subsection, substitute:
 
              (1)  Subject to this section, the notional tax amount of an employer in respect of a year of tax is the amount of the tax that was assessed in respect of the employer in respect of the immediately preceding year of tax.
 
-129  Paragraph 110(2)(a)
+## 129  Paragraph 110(2)(a)
 
 Omit “standard”.
 
-130  Subsection 110(5)
+## 130  Subsection 110(5)
 
 Omit “standard year of tax, being an instalment that becomes due and payable on the twenty-eighth”, substitute “year of tax, being an instalment that becomes due and payable on the 21st”.
 
-131  Subsection 111(1)
+## 131  Subsection 111(1)
 
 Omit “standard”.
 
-132  Subsection 111(1)
+## 132  Subsection 111(1)
 
 Omit “twenty-eighth”, substitute “21st”.
 
-133  Subsection 111(2)
+## 133  Subsection 111(2)
 
 Omit “standard”.
 
-134  Subsection 112(1)
+## 134  Subsection 112(1)
 
 Omit “standard”.
 
-135  Subsection 112(1)(b)
+## 135  Subsection 112(1)(b)
 
 Omit “statement in writing”, substitute “written statement, in the approved form,”.
 
-136  Subsection 136(1)
+## 136  Subsection 136(1)
 
 Insert:
 
                     <a name="approved-form"></a>**_approved form_** has the meaning given by subsection 995-1(1) of the _Income Tax Assessment Act 1997_.
 
-137  Subsection 136(1) (definition of standard year of tax)
+## 137  Subsection 136(1) (definition of _standard year of tax_)
 
 Repeal the definition.
 
-138  Subsection 136(1) (definition of transitional year of tax)
+## 138  Subsection 136(1) (definition of _transitional year of tax_)
 
 Repeal the definition.
 
-139  Subsection 136(1) (definition of year of tax)
+## 139  Subsection 136(1) (definition of _year of tax_)
 
 Repeal the definition, substitute:
 
                     <a name="year-tax"></a>**_year of tax_** means the year starting on 1 April 1987, and each later year starting on 1 April.
 
-140  Application of amendments
+## 140  Application of amendments
 
 The amendments made by this Part apply in relation to the year of tax starting on 1 April 2000 and all later years of tax.
 
 ###### Schedule 3—Consequential amendment of Chapter 6 (the Dictionary) of the Income Tax Assessment Act 1997
 
-1  Subsection 995-1(1)
+## 1  Subsection 995-1(1)
 
 Insert:
 
                     <a name="abn"></a>**_ABN_** has the meaning given by the _A New Tax System (Australian Business Number) Act 1999_.
 
-2  Subsection 995-1(1)
+## 2  Subsection 995-1(1)
 
 Insert:
 
                     <a name="adjusted-assessed-tax"></a>**_adjusted assessed tax_** has the meaning given by section 45-375 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-3  Subsection 995-1(1)
+## 3  Subsection 995-1(1)
 
 Insert:
 
                     <a name="adjusted-assessed-taxabl-incom"></a>**_adjusted assessed taxable income_** has the meaning given by section 45-370 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-4  Subsection 995-1(1)
+## 4  Subsection 995-1(1)
 
 Insert:
 
                     <a name="adjusted-taxabl-incom"></a>**_adjusted taxable income_** has the meaning given by section 45-330 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-5  Subsection 995-1(1)
+## 5  Subsection 995-1(1)
 
 Insert:
 
                     <a name="adjusted-withhold-incom"></a>**_adjusted withholding income_** has the meaning given by section 45-335 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-6  Subsection 995-1(1)
+## 6  Subsection 995-1(1)
 
 Insert:
 
@@ -7423,7 +7420,7 @@ Insert:
 
 or that amount as varied by the Commissioner under section 16-15 in the Schedule.
 
-7  Subsection 995-1(1)
+## 7  Subsection 995-1(1)
 
 Insert:
 
@@ -7433,13 +7430,13 @@ Insert:
 
                      (b)  an amount that the entity paid to the Commissioner under Division 14 in that Schedule in respect of the <sup>* </sup>non-cash benefit of which the withholding payment consists.
 
-8  Subsection 995-1(1)
+## 8  Subsection 995-1(1)
 
 Insert:
 
                     <a name="annual-payer"></a>**_annual payer_** means an entity that has become an annual payer under section 45-140 in Schedule 1 to the _Taxation Administration Act 1953_, and has not since ceased to be an annual payer under section 45-150, 45-155 or 45-180 in that Schedule.
 
-9  Subsection 995-1(1)
+## 9  Subsection 995-1(1)
 
 Insert:
 
@@ -7455,19 +7452,19 @@ Insert:
 
 The Commissioner may combine in the same approved form more than one notice, application or other document.
 
-10  Subsection 995-1(1)
+## 10  Subsection 995-1(1)
 
 Insert:
 
                     <a name="australian-busi-regist"></a>**_Australian Business Register_** means the Australian Business Register established and maintained under the _A New Tax System (Australian Business Number) Act 1999_.
 
-11  Subsection 995-1(1)
+## 11  Subsection 995-1(1)
 
 Insert:
 
                     <a name="australian-busi-registrar"></a>**_Australian Business Registrar_** means the Registrar of the <sup>* </sup>Australian Business Register.
 
-12  Subsection 995-1(1)
+## 12  Subsection 995-1(1)
 
 Insert:
 
@@ -7481,73 +7478,73 @@ Insert:
 
                      (d)  the Legislative Assembly of the Northern Territory of Australia.
 
-13  Subsection 995-1(1)
+## 13  Subsection 995-1(1)
 
 Insert:
 
                     <a name="base-assess"></a>**_base assessment_** has the meaning given by section 45-320 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-14  Subsection 995-1(1)
+## 14  Subsection 995-1(1)
 
 Insert:
 
                     <a name="base-year"></a>**_base year_** has the meaning given by section 45-320 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-15  Subsection 995-1(1)
+## 15  Subsection 995-1(1)
 
 Insert:
 
                     <a name="benchmark-instal-rate"></a>**_benchmark instalment rate_** has the meaning given by section 45-360 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-16  Subsection 995-1(1)
+## 16  Subsection 995-1(1)
 
 Insert:
 
                     <a name="benchmark-tax"></a>**_benchmark tax_** has the meaning given by section 45-365 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-17  Subsection 995-1(1)
+## 17  Subsection 995-1(1)
 
 Insert:
 
                     <a name="carri-australia"></a>**_carried on in Australia_**, in relation to an <sup>* </sup>enterprise, has the meaning given by subsection 9-25(6) of the <sup>* </sup>GST Act.
 
-18  Subsection 995-1(1)
+## 18  Subsection 995-1(1)
 
 Insert:
 
                     <a name="carri"></a>**_carrying on_** an <sup>* </sup>enterprise includes doing anything in the course of the commencement or termination of the enterprise.
 
-19  Subsection 995-1(1)
+## 19  Subsection 995-1(1)
 
 Insert:
 
                     <a name="electron-payment"></a>**_electronic payment_** means a payment by way of electronic transmission, in an electronic format approved by the Commissioner.
 
-20  Subsection 995-1(1)
+## 20  Subsection 995-1(1)
 
 Insert:
 
                     <a name="electron-signatur"></a><a name="electron-signatur"></a>**_electronic signature_** of a person means a unique identification of the person in electronic form that is approved by the Commissioner for the purposes of the definition of **_electronic signature_** in section 6 of the _Income Tax Assessment Act 1936_.
 
-21  Subsection 995-1(1)
+## 21  Subsection 995-1(1)
 
 Insert:
 
                     <a name="enterpris"></a>**_enterprise_** has the meaning given by section 9-20 of the <sup>* </sup>GST Act.
 
-22  Subsection 995-1(1)
+## 22  Subsection 995-1(1)
 
 Insert:
 
                     <a name="failur-notifi-penalti"></a>**_failure to notify penalty_** means the penalty worked out under Division 2 of Part IIA of the _Taxation Administration Act 1953_.
 
-23  Subsection 995-1(1)
+## 23  Subsection 995-1(1)
 
 Insert:
 
                     <a name="farm-manag-deposit"></a>**_farm management deposit_** has the same meaning as in Schedule 2G to the _Income Tax Assessment Act 1936_.
 
-24  Subsection 995-1(1)
+## 24  Subsection 995-1(1)
 
 Insert:
 
@@ -7555,115 +7552,115 @@ Insert:
 
 Note:           **_Foreign resident_** is not asterisked in this Act.
 
-25  Subsection 995-1(1)
+## 25  Subsection 995-1(1)
 
 Insert:
 
                     <a name="ftb-amount"></a>**_FTB amount_** for an income year means an amount of family tax benefit (within the meaning of the _A New Tax System (Family Assistance) (Administration) Act 1999_) to which an individual is entitled in respect of the income year.
 
-26  Subsection 995-1(1)
+## 26  Subsection 995-1(1)
 
 Insert:
 
                     <a name="gdp-adjusted-notion-tax"></a>**_GDP-adjusted notional tax_** has the meaning given by section 45-405 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-27  Subsection 995-1(1)
+## 27  Subsection 995-1(1)
 
 Insert:
 
                     <a name="gdp-amount"></a>**_GDP amount_** for a <sup>* </sup>quarter has the meaning given by section 45-405 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-28  Subsection 995-1(1)
+## 28  Subsection 995-1(1)
 
 Insert:
 
                     <a name="gst-act"></a>**_GST Act_** means the _A New Tax System (Goods and Services Tax) Act 1999._
 
-29  Subsection 995-1(1)
+## 29  Subsection 995-1(1)
 
 Insert:
 
                     <a name="gst-joint-ventur"></a>**_GST joint venture_** has the meaning given by section 51-5 of the <sup>* </sup>GST Act. 
 
-30  Subsection 995-1(1)
+## 30  Subsection 995-1(1)
 
 Insert:
 
                     <a name="instal-group"></a>**_instalment group_** has the meaning given by section 45-145 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-31  Subsection 995-1(1)
+## 31  Subsection 995-1(1)
 
 Insert:
 
                     <a name="instal-incom"></a>**_instalment income_** has the meaning given by sections 45-120, 45-260 and 45-280 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-32  Subsection 995-1(1)
+## 32  Subsection 995-1(1)
 
 Insert:
 
                     <a name="instal-quarter"></a>**_instalment quarter_** has the meaning given by section 45-60 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-33  Subsection 995-1(1)
+## 33  Subsection 995-1(1)
 
 Insert:
 
                     <a name="invest-bodi"></a>**_investment body_** for a <sup>* </sup>Part VA investment has the meaning given by section 202D of the _Income Tax Assessment Act 1936_.
 
-34  Subsection 995-1(1)
+## 34  Subsection 995-1(1)
 
 Insert:
 
                     <a name="investor"></a>**_investor_** for a <sup>* </sup>Part VA investment has the meaning given by section 202D of the _Income Tax Assessment Act 1936_.
 
-35  Subsection 995-1(1)
+## 35  Subsection 995-1(1)
 
 Insert:
 
                     <a name="invoic"></a>**_invoice_** means a document notifying an obligation to make a payment.
 
-36  Subsection 995-1(1)
+## 36  Subsection 995-1(1)
 
 Insert:
 
                     <a name="labour-hire-notion-withheld-amount"></a>**_labour hire notional withheld amount_** has the meaning given by section 16-125 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-37  Subsection 995-1(1)
+## 37  Subsection 995-1(1)
 
 Insert:
 
                     <a name="larg-withhold"></a>**_large withholder_** has the meaning given by sections 16-95 and 16-125 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-38  Subsection 995-1(1)
+## 38  Subsection 995-1(1)
 
 Insert:
 
                     <a name="market-valu"></a>**_market value_** of a <sup>* </sup>non-cash benefit: in working out the market value of a <sup>* </sup>non-cash benefit, disregard anything that would prevent or restrict conversion of the benefit to money.
 
-39  Subsection 995-1(1)
+## 39  Subsection 995-1(1)
 
 Insert:
 
                     <a name="mium-withhold"></a>**_medium withholder_** has the meaning given by section 16-100 and 16-135 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-40  Subsection 995-1(1)
+## 40  Subsection 995-1(1)
 
 Insert:
 
                     <a name="mine-withhold-tax"></a>**_mining withholding tax_** means income tax payable under section 128V of the _Income Tax Assessment Act 1936_.
 
-41  Subsection 995-1(1)
+## 41  Subsection 995-1(1)
 
 Insert:
 
                     <a name="natur-resourc"></a>**_natural resource_** has the meaning given by section 6 of the _Income Tax Assessment Act 1936._
 
-42  Subsection 995-1(1)
+## 42  Subsection 995-1(1)
 
 Insert:
 
                     <a name="non-cash-benefit"></a>**_non-cash benefit_** is property or services in any form except money. If a non-cash benefit is dealt with on behalf of an entity, or is provided or dealt with as an entity directs, the benefit is taken to be provided to the entity.
 
-43  Subsection 995-1(1)
+## 43  Subsection 995-1(1)
 
 Insert:
 
@@ -7671,103 +7668,103 @@ Insert:
 
 Note:          Subdivision 12-E and Division 14 in that Schedule deal with collecting amounts on account of income tax payable by recipients of certain payments or non-cash benefits who have not quoted their tax file number or ABN, as appropriate.
 
-44  Subsection 995-1(1)
+## 44  Subsection 995-1(1)
 
 Insert:
 
                     <a name="notion-tax"></a>**_notional tax_** has the meaning given by section 45-325 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-45  Subsection 995-1(1)
+## 45  Subsection 995-1(1)
 
 Insert:
 
                     <a name="part-va-invest"></a>**_Part VA investment_** means an investment of a kind mentioned in section 202D of the _Income Tax Assessment Act 1936_.
 
-46  Subsection 995-1(1)
+## 46  Subsection 995-1(1)
 
 Insert:
 
                     <a name="particip"></a>**_participant_**, in relation to a <sup>* </sup>GST joint venture, has the meaning given by section 51-5 or paragraph 51-70(1)(a) of the <sup>* </sup>GST Act. 
 
-47  Subsection 995-1(1)
+## 47  Subsection 995-1(1)
 
 Insert:
 
                     <a name="payg-instal"></a>**_PAYG instalment_** means an instalment payable under Division 45 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-48  Subsection 995-1(1)
+## 48  Subsection 995-1(1)
 
 Insert:
 
                     <a name="payment-summari"></a>**_payment summary_** has the meaning given by section 16-170 in Schedule 1 to the _Taxation Administration Act 1953_.
 
-49  Subsection 995-1(1)
+## 49  Subsection 995-1(1)
 
 Insert:
 
                     <a name="quarter"></a>**_quarter_** means a period of 3 months ending on 31 March, 30 June, 30 September or 31 December.
 
-50  Subsection 995-1(1)
+## 50  Subsection 995-1(1)
 
 Insert:
 
                     <a name="quarterli-payer"></a>**_quarterly payer_** means an entity that is liable to pay <sup>* </sup>PAYG instalments and is not an <sup>* </sup>annual payer.
 
-51  Subsection 995-1(1)
+## 51  Subsection 995-1(1)
 
 Insert:
 
                     <a name="quarterli-payer-pai-basi-gdp-adjusted-notion-tax"></a>**_quarterly payer who pays on the basis of GDP-adjusted notional tax_** means an individual who has become such a payer under section 45-125 in Schedule 1 to the _Taxation Administration Act 1953_, and has not since ceased to be one under section 45-130 or 45-135 in that Schedule.
 
-52  Subsection 995-1(1)
+## 52  Subsection 995-1(1)
 
 Insert:
 
                     <a name="quot"></a>**_quote_** an entity’s <sup>* </sup>ABN means quote in a form and manner approved by the Commissioner.
 
-53  Subsection 995-1(1)
+## 53  Subsection 995-1(1)
 
 Insert:
 
                     <a name="quot"></a><a name="quot"></a>**_quoted_**: an entity has **_quoted_** its <sup>* </sup>tax file number in connection with a <sup>* </sup>Part VA investment if the entity is taken, for the purposes of Part VA of the _Income Tax Assessment Act 1936_, to have quoted its tax file number in connection with the investment.
 
-54  Subsection 995-1(1)
+## 54  Subsection 995-1(1)
 
 Insert:
 
                     <a name="report-fring-benefit-amount"></a>**_reportable fringe benefits amount_** for an income year in respect of an employee’s employment by an employer has the same meaning as in the _Fringe Benefits Tax Assessment Act 1986_ (as it applies of its own force or because of the _Fringe Benefits Tax (Application to the Commonwealth) Act 1986_).
 
-55  Subsection 995-1(1)
+## 55  Subsection 995-1(1)
 
 Insert:
 
                     <a name="requir-regist"></a>**_required to be registered_** has the meaning given by the <sup>* </sup>GST Act.
 
-56  Subsection 995-1(1)
+## 56  Subsection 995-1(1)
 
 Insert:
 
                     <a name="small-withhold"></a>**_small withholder_** has the meaning given by section 16-105.
 
-57  Subsection 995-1(1)
+## 57  Subsection 995-1(1)
 
 Insert:
 
                     <a name="suppli"></a>**_supply_** has the meaning given by section 9-10 of the <sup>* </sup>GST Act.
 
-58  Subsection 995-1(1)
+## 58  Subsection 995-1(1)
 
 Insert:
 
                     <a name="tax-file-number"></a>**_tax file number_** means a tax file number as defined in section 202A of the _Income Tax Assessment Act 1936._
 
-59  Subsection 995-1(1)
+## 59  Subsection 995-1(1)
 
 Insert:
 
                     <a name="withhold"></a>**_withholder_** means a <sup>* </sup>large withholder, a <sup>* </sup>medium withholder or a <sup>* </sup>small withholder.
 
-60  Subsection 995-1(1)
+## 60  Subsection 995-1(1)
 
 Insert:
 
@@ -7781,7 +7778,7 @@ Insert:
 
 Note:          Divisions 12 and 14 in Schedule 1 to the _Taxation Administration Act 1953_ deal with collecting amounts on account of income tax payable by the recipient of the payment or non-cash benefit.
 
-61  Subsection 995-1(1)
+## 61  Subsection 995-1(1)
 
 Insert:
 
@@ -7793,13 +7790,13 @@ Insert:
 
                      (c)  a non-cash benefit provided to an entity if that provision would have required the entity to withhold an amount if the benefit had been a payment of an amount equal to the market value of the benefit.
 
-62  Subsection 995-1(1)
+## 62  Subsection 995-1(1)
 
 Insert:
 
                     <a name="withhold-tax"></a>**_withholding tax_** means income tax payable under section 128B of the _Income Tax Assessment Act 1936_.
 
-63  Subsection 995-1(1) (after paragraph (b) of the definition of this Act)
+## 63  Subsection 995-1(1) (after paragraph (b) of the definition of _this Act_)
 
 Insert:
 
