@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00043/Html/FutureFundAct2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00620/Html/FutureFundAct2006_image001.gif)
 
 # Future Fund Act 2006
 
 **Act No. 12 of 2006 as amended**
 
-This compilation was prepared on 21 January 2009
- taking into account amendments up to Act No. 155 of 2008
+This compilation was prepared on 4 October 2007
+ taking into account amendments up to Act No. 161 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -218,10 +218,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [83](#83).          Nominated Minister
 
-[83A](#83A).       Delegation by the nominated Minister
-
-[83B](#83B).       Delegation by the Board
-
 [84](#84).          Miscellaneous receipts to be credited to the Fund Account
 
 [84A](#84A).       Exemption from taxation
@@ -265,16 +261,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [2](#2).            Purposes of the Fund Account
 
 [3](#3).            Board must ensure that there is sufficient money to cover the main purposes of the Fund Account
-
-**Schedule 2A—Inter-fund transfers**
-
-[1](#1).            Simplified outline
-
-[2](#2).            Transfers from the Future Fund to the Building Australia Fund
-
-[3](#3).            Transfers from the Future Fund to the Education Investment Fund
-
-[4](#4).            Transfers from the Future Fund to the Health and Hospitals Fund
 
 **Schedule 3—Target asset level declarations**
 
@@ -428,13 +414,11 @@ Agency is responsible for assisting and advising the Board.</li>
 
 * * *
 
-Note:          The Future Fund Board of Guardians has additional functions under the _Nation-building Funds Act 2008_.
+Note:          The Future Fund Board of Guardians has additional functions under the _Higher Education Endowment Fund Act 2007_.
 
 ##### <a id="5"></a>5  Definitions
 
                    In this Act:
-
-                    <a name="acquir"></a>**_acquire_** includes acquire by way of issue.
 
                     <a name="actuari"></a>**_actuary_** means a person who is a Fellow or an Accredited Member of the Institute of Actuaries of Australia.
 
@@ -460,10 +444,6 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="board-member"></a>**_Board member_** means a member of the Board, and includes the Chair.
 
-                    <a name="build-australia-fund"></a>**_Building Australia Fund_** means the Building Australia Fund established by section 12 of the _Nation-building Funds Act 2008_.
-
-                    <a name="build-australia-fund-special-account"></a>**_Building Australia Fund Special Account_** means the Building Australia Fund Special Account established by section 13 of the _Nation-building Funds Act 2008_.
-
                     <a name="busi-entiti"></a>**_business entity_** means:
 
                      (a)  a company; or
@@ -484,8 +464,6 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="commonwealth-owned-financi-asset"></a>**_Commonwealth-owned financial asset_** means a financial asset held by the Commonwealth.
 
-                    <a name="commun-minist"></a>**_Communications Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
-
                     <a name="deriv"></a>**_derivative_** means a derivative (within the meaning of Chapter 7 of the _Corporations Act 2001_) that is a financial asset.
 
                     <a name="design-actuari"></a>**_designated actuary_** has the meaning given by clause 2 of Schedule 3.
@@ -496,13 +474,7 @@ Note:          The Future Fund Board of Guardians has addition
 
                      (b)  known by the person to be dishonest according to the standards of ordinary people.
 
-                    <a name="educ-invest-fund"></a>**_Education Investment Fund_** means the Education Investment Fund established by section 131 of the _Nation-building Funds Act 2008_.
-
-                    <a name="educ-invest-fund-special-account"></a>**_Education Investment Fund Special Account_** means the Education Investment Fund Special Account established by section 132 of the _Nation-building Funds Act 2008_.
-
-                    <a name="educ-minist"></a>**_Education Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
-
-                    <a name="energi-minist"></a>**_Energy Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
+                    <a name="educ-minist"></a>**_Education Minister_** means the Minister responsible for administering the _Higher Education Support Act 2003_.
 
                     <a name="financ-minist"></a>**_Finance Minister_** has the same meaning as in the _Financial Management and Accountability Act 1997_.
 
@@ -536,13 +508,13 @@ Note:          The Future Fund Board of Guardians has addition
 
                     <a name="gf-system"></a>**_GFS system_** has the same meaning as in GFS Australia.
 
-                    <a name="health-hospit-fund"></a>**_Health and Hospitals Fund_** means the Health and Hospitals Fund established by section 214 of the _Nation-building Funds Act 2008_.
+                    <a name="higher-educ-endow-fund"></a>**_Higher Education Endowment Fund_** means the Higher Education Endowment Fund established by section 11 of the _Higher Education Endowment Fund Act 2007_.
 
-                    <a name="health-hospit-fund-special-account"></a>**_Health and Hospitals Fund Special Account_** means the Health and Hospitals Fund Special Account established by section 215 of the _Nation-building Funds Act 2008_.
+                    <a name="higher-educ-endow-fund-invest-function"></a>**_Higher Education Endowment Fund investment function_** has the same meaning as in the _Higher Education Endowment Fund Act 2007_.
 
-                    <a name="health-minist"></a>**_Health Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
+                    <a name="higher-educ-endow-fund-matter"></a>**_Higher Education Endowment Fund matter_** means a matter that relates to the Board’s functions under the _Higher Education Endowment Fund Act 2007_.
 
-                    <a name="infrastructur-minist"></a>**_Infrastructure Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
+                    <a name="higher-educ-endow-fund-special-account"></a>**_Higher Education Endowment Fund Special Account_** means the Higher Education Endowment Fund Special Account established by section 12 of the _Higher Education Endowment Fund Act 2007_.
 
                     <a name="invest"></a>**_investment_** means any mode of application of money or financial assets for the purpose of gaining a return (whether by way of income, capital gain or any other form of return).
 
@@ -573,8 +545,6 @@ Note:          The Future Fund Board of Guardians has addition
 Note:          See also paragraph 22(1)(a) of the _Acts Interpretation Act 1901_.
 
                     <a name="realis"></a>**_realise_** includes redeem or dispose of.
-
-                    <a name="research-minist"></a>**_Research Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
 
                     <a name="respons-minist"></a>**_responsible Ministers_** means:
 
@@ -621,8 +591,6 @@ Note:          See also paragraph 22(1)(a) of the _Acts Interp
                      (c)  an amount payable by the Commonwealth under a Tasmanian railways arrangement.
 
                     <a name="valu"></a>**_value_** means market value. For this purpose, disregard anything that would prevent or restrict conversion of a financial asset to money.
-
-                    <a name="water-minist"></a>**_Water Minister_** has the same meaning as in the _Nation-building Funds Act 2008_.
 
 ##### <a id="6"></a>6  Financial assets
 
@@ -690,13 +658,11 @@ Note 2:       An Appropriation Act may contain a provision to the ef
 
 ##### <a id="13"></a>13  Operation of the Future Fund
 
-                   Schedules 1, 2, 2A and 3 have effect.
+                   Schedules 1, 2 and 3 have effect.
 
 Note 1:       Schedule 1 is about credits of amounts, and transfers of financial assets, to the Future Fund.
 
 Note 2:       Schedule 2 is about debits of amounts from the Future Fund.
-
-Note 2A:    Schedule 2A is about transfers of amounts from the Future Fund to the Building Australia Fund, the Education Investment Fund and the Health and Hospitals Fund.
 
 Note 3:       Schedule 3 is about target asset level declarations.
 
@@ -1020,21 +986,11 @@ unless the Board does so:
 
              (4)  The Board must ensure that any investment manager engaged by the Board under subsection (1) reports to the Board and the Agency on the state of the investments of the Fund at such times and in such manner as the Board determines.
 
-             (5)  Neither of the following Acts:
+             (5)  Neither this Act nor the _Higher Education Endowment Fund Act 2007_ prevents the same person from being engaged as an investment manager under both of the following provisions:
 
-                     (a)  this Act;
+                     (a)  subsection (1) of this section;
 
-                     (b)  the _Nation-building Funds Act 2008_;
-
-prevents the same person from being engaged as an investment manager under 2 or more of the following provisions:
-
-                     (c)  subsection (1) of this section;
-
-                     (d)  subsection 45(1) of the _Nation-building Funds Act 2008_;
-
-                     (e)  subsection 164(1) of the _Nation-building Funds Act 2008_;
-
-                      (f)  subsection 239(1) of the _Nation-building Funds Act 2008_.
+                     (b)  subsection 34(1) of the _Higher Education Endowment Fund Act 2007_.
 
 ##### <a id="29"></a>29  Custody of securities
 
@@ -1100,7 +1056,7 @@ good faith.</li>
 
 * * *
 
-Note:          The Future Fund Board of Guardians has additional functions under the _Nation-building Funds Act 2008_.
+Note:          The Future Fund Board of Guardians has additional functions under the _Higher Education Endowment Fund Act 2007_.
 
 ### Division 2—Establishment and functions of the Future Fund Board of Guardians
 
@@ -1114,11 +1070,7 @@ Note:          The Future Fund Board of Guardians has addition
 
                      (a)  to invest amounts in accordance with this Act;
 
-                     (b)  such other functions as are conferred on the Board by:
-
-                              (i)  this Act; or
-
-                             (ii)  the _Nation-building Funds Act 2008_;
+                     (b)  such other functions as are conferred on the Board by this Act or the _Higher Education Endowment Fund Act 2007_;
 
                      (c)  to do anything incidental to or conducive to the performance of any of the above functions.
 
@@ -1422,7 +1374,7 @@ Reports and documents
 
              (2)  The Board must give the nominated Minister such reports, documents and information in relation to those operations as are appropriate.
 
-             (3)  Subsections (1) and (2) do not apply to the operations of the Board under the _Nation-building Funds Act 2008_.
+             (3)  Subsections (1) and (2) do not apply to the operations of the Board under the _Higher Education Endowment Fund Act 2007_.
 
 ### Division 7—Duties of Board members etc.
 
@@ -1512,7 +1464,7 @@ and fails to exercise his or her powers and discharge his or her duties:
 
                      (d)  for a proper purpose.
 
-                    Penalty:  Imprisonment for 5 years or 2,000 penalty units, or both.
+                    Penalty:  Imprisonment for 5 years.
 
 ##### <a id="61"></a>61  Use of position—criminal offence
 
@@ -1534,7 +1486,7 @@ and fails to exercise his or her powers and discharge his or her duties:
 
                             (iii)  causing detriment to another person.
 
-                    Penalty:  Imprisonment for 5 years or 2,000 penalty units, or both.
+                    Penalty:  Imprisonment for 5 years.
 
 ##### <a id="62"></a>62  Use of information—criminal offence
 
@@ -1556,7 +1508,7 @@ and fails to exercise his or her powers and discharge his or her duties:
 
                             (iii)  causing detriment to another person.
 
-                    Penalty:  Imprisonment for 5 years or 2,000 penalty units, or both.
+                    Penalty:  Imprisonment for 5 years.
 
 ##### <a id="63"></a>63  Compliance with statutory duties
 
@@ -1564,7 +1516,7 @@ and fails to exercise his or her powers and discharge his or her duties:
 
                      (a)  another provision of this Act; or
 
-                     (b)  the _Nation-building Funds Act 2008_;
+                     (b)  the _Higher Education Endowment Fund Act 2007_;
 
 requires the Board member to do.
 
@@ -1572,7 +1524,7 @@ requires the Board member to do.
 
                      (a)  another provision of this Act; or
 
-                    (aa)  the _Nation-building Funds Act 2008_; or
+                    (aa)  the _Higher Education Endowment Fund Act 2007_; or
 
                      (b)  the _Financial Management and Accountability Act 1997_; or
 
@@ -1608,7 +1560,7 @@ This section does not apply to subsection 56(2) to the extent to which it operat
 
                               (i)  in good faith; and
 
-                             (ii)  after making an independent assessment of the information or advice, having regard to the Board member’s knowledge of the Board and the complexity of the structure and operations of the Board; and
+                             (ii)  after making proper inquiry if the circumstances indicated the need for inquiry; and
 
                      (c)  the reasonableness of the Board member’s reliance on the information or advice arises in proceedings brought to determine whether a Board member has performed a duty under this Division, or an equivalent general law duty;
 
@@ -1948,8 +1900,6 @@ Note:          This means that there will be:
 
 ##### <a id="81"></a>81  Annual report
 
-Board, Agency and Future Fund
-
              (1)  The Chair must, as soon as practicable after the end of each financial year, prepare and give to the nominated Minister a report of:
 
                      (a)  the Agency’s operations; and
@@ -1966,95 +1916,29 @@ Board, Agency and Future Fund
 
                      (g)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(2)(f) of Schedule 2; and
 
-                     (h)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(2)(g) of Schedule 2;
+                     (h)  the total amount debited from the Fund Account for the purpose mentioned in paragraph 2(2)(g) of Schedule 2; and
+
+                      (i)  the performance of the investments of the Higher Education Endowment Fund; and
+
+                      (j)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(1)(f) of the _Higher Education Endowment Fund Act 2007_; and
+
+                     (k)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(4)(d) of the _Higher Education Endowment Fund Act 2007_; and
+
+                      (l)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(4)(e) of the _Higher Education Endowment Fund Act 2007_; and
+
+                    (m)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(4)(f) of the _Higher Education Endowment Fund Act 2007_; and
+
+                     (n)  the total amount debited from the Higher Education Endowment Fund Special Account for the purpose mentioned in paragraph 16(4)(g) of the _Higher Education Endowment Fund Act 2007_;
 
 during the financial year.
 
 Note:          See also section 34C of the _Acts Interpretation Act 1901_.
 
-Building Australia Fund
-
-          (1A)  A report under subsection (1) for a financial year must include a report of:
-
-                     (a)  the performance of the investments of the Building Australia Fund; and
-
-                     (b)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 18(1)(i) of the _Nation-building Funds Act 2008_; and
-
-                     (c)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(d) of the _Nation-building Funds Act 2008_; and
-
-                     (d)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(e) of the _Nation-building Funds Act 2008_; and
-
-                     (e)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(f) of the _Nation-building Funds Act 2008_; and
-
-                      (f)  the total amount debited from the Building Australia Fund Special Account for the purpose mentioned in paragraph 20(g) of the _Nation-building Funds Act 2008_;
-
-during the financial year.
-
-Education Investment Fund
-
-          (1B)  A report under subsection (1) for a financial year must include a report of:
-
-                     (a)  the performance of the investments of the Education Investment Fund; and
-
-                     (b)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 136(1)(i) of the _Nation-building Funds Act 2008_; and
-
-                     (c)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(d) of the _Nation-building Funds Act 2008_; and
-
-                     (d)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(e) of the _Nation-building Funds Act 2008_; and
-
-                     (e)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(f) of the _Nation-building Funds Act 2008_; and
-
-                      (f)  the total amount debited from the Education Investment Fund Special Account for the purpose mentioned in paragraph 138(g) of the _Nation-building Funds Act 2008_;
-
-during the financial year.
-
-Health and Hospitals Fund
-
-          (1C)  A report under subsection (1) for a financial year must include a report of:
-
-                     (a)  the performance of the investments of the Health and Hospitals Fund; and
-
-                     (b)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 218(1)(e) of the _Nation-building Funds Act 2008_; and
-
-                     (c)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(d) of the _Nation-building Funds Act 2008_; and
-
-                     (d)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(e) of the _Nation-building Funds Act 2008_; and
-
-                     (e)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(f) of the _Nation-building Funds Act 2008_; and
-
-                      (f)  the total amount debited from the Health and Hospitals Fund Special Account for the purpose mentioned in paragraph 219(g) of the _Nation-building Funds Act 2008_;
-
-during the financial year.
-
-Benchmarks
-
-             (2)  A report under this section must include a benchmark in relation to the amounts referred to in paragraphs (1)(e) to (h).
-
-          (2A)  A report under this section must include a benchmark in relation to the amounts referred to in paragraphs (1A)(b) to (f).
-
-          (2B)  A report under this section must include a benchmark in relation to the amounts referred to in paragraphs (1B)(b) to (f).
-
-          (2C)  A report under this section must include a benchmark in relation to the amounts referred to in paragraphs (1C)(b) to (f).
-
-Tabling of report
+             (2)  A report under this section must include a benchmark in relation to the amounts referred to in paragraphs (1)(e) to (h) and (j) to (n).
 
              (3)  The nominated Minister must cause a copy of each report under this section to be tabled in each House of the Parliament within 15 sitting days of that House after receiving the report.
 
-             (4)  As soon as practicable after receiving a report under this section, the nominated Minister must give a copy of the report to the following Ministers:
-
-                     (a)  the Communications Minister;
-
-                     (b)  the Education Minister;
-
-                     (c)  the Energy Minister;
-
-                     (d)  the Health Minister;
-
-                     (e)  the Infrastructure Minister;
-
-                      (f)  the Research Minister;
-
-                     (g)  the Water Minister.
+             (4)  As soon as practicable after receiving a report under this section, the nominated Minister must give a copy of the report to the Education Minister.
 
 ##### <a id="82"></a>82  Consultants and advisers to the Board
 
@@ -2092,111 +1976,35 @@ Note:          For variation and revocation, see subsection 33
 
                      (c)  any other information or document obtained by the nominated Minister under this Act.
 
-##### <a id="83A"></a>83A  Delegation by the nominated Minister
-
-             (1)  The nominated Minister may, by writing, delegate any or all of his or her powers under:
-
-                     (a)  section 84; or
-
-                     (b)  Schedule 2A;
-
-to:
-
-                     (c)  the Secretary of a Department; or
-
-                     (d)  an SES employee, or acting SES employee, in a Department.
-
-Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
-
-             (2)  In exercising powers under a delegation, the delegate must comply with any directions of the nominated Minister.
-
-##### <a id="83B"></a>83B  Delegation by the Board
-
-             (1)  The Board may, by writing, delegate any or all of its powers under:
-
-                     (a)  subsection 28(1) of this Act; or
-
-                     (b)  subsection 45(1) of the _Nation-building Funds Act 2008_; or
-
-                     (c)  subsection 164(1) of the _Nation-building Funds Act 2008_; or
-
-                     (d)  subsection 239(1) of the _Nation-building Funds Act 2008_;
-
-to:
-
-                     (e)  the Chair; or
-
-                      (f)  an SES employee, or acting SES employee, in the Agency.
-
-Note:          The expressions **_SES employee_** and **_acting SES employee_** are defined in section 17AA of the _Acts Interpretation Act 1901_.
-
-             (2)  In exercising powers under a delegation, the delegate must comply with any directions of the Board.
-
 ##### <a id="84"></a>84  Miscellaneous receipts to be credited to the Fund Account
 
              (1)  If:
 
                      (a)  the Board receives an amount of money; and
 
-                     (b)  none of the following:
+                     (b)  neither:
 
-                              (i)  another provision of this Act;
+                              (i)  another provision of this Act; nor
 
-                             (ii)  a provision of the _Nation-building Funds Act 2008_;
+                             (ii)  a provision of the _Higher Education Endowment Fund Act 2007_;
 
-                            requires the amount to be credited to:
-
-                            (iii)  the Fund Account; or
-
-                            (iv)  the Building Australia Fund Special Account; or
-
-                             (v)  the Education Investment Fund Special Account; or
-
-                            (vi)  the Health and Hospitals Fund Special Account;
+                            requires the amount to be credited to the Fund Account or the Higher Education Endowment Fund Special Account;
 
 the amount is to be credited to the Fund Account.
 
-Transfer of amounts to the Building Australia Fund Special Account
+Transfer of amounts to the Higher Education Endowment Fund Special Account
 
              (2)  If an amount is credited to the Fund Account under subsection (1), the nominated Minister may, by writing, direct that a specified amount is to be:
 
                      (a)  debited from the Fund Account; and
 
-                     (b)  credited to the Building Australia Fund Special Account;
+                     (b)  credited to the Higher Education Endowment Fund Special Account;
 
 on a specified day.
 
-Transfer of amounts to the Education Investment Fund Special Account
+             (3)  The specified amount must not exceed the amount credited to the Fund Account under subsection (1).
 
-             (3)  If an amount is credited to the Fund Account under subsection (1), the nominated Minister may, by writing, direct that a specified amount is to be:
-
-                     (a)  debited from the Fund Account; and
-
-                     (b)  credited to the Education Investment Fund Special Account;
-
-on a specified day.
-
-Transfer of amounts to the Health and Hospitals Fund Special Account
-
-             (4)  If an amount is credited to the Fund Account under subsection (1), the nominated Minister may, by writing, direct that a specified amount is to be:
-
-                     (a)  debited from the Fund Account; and
-
-                     (b)  credited to the Health and Hospitals Fund Special Account;
-
-on a specified day.
-
-Other provisions
-
-             (5)  If:
-
-                     (a)  an amount (the **_first amount_**) is credited to the Fund account under subsection (1); and
-
-                     (b)  one or more amounts (the **_transfer amounts_**) are specified under any or all of subsections (2), (3) and (4) in relation to the first amount;
-
-the sum of the transfer amounts must not exceed the first amount.
-
-             (6)  A direction under subsection (2), (3) or (4) is not a legislative instrument.
+             (4)  A direction under subsection (2) is not a legislative instrument.
 
 ##### <a id="84A"></a>84A  Exemption from taxation
 
@@ -2590,37 +2398,19 @@ Purposes not related exclusively to the Fund
 
                               (i)  paragraph (1)(g); or
 
-                             (ii)  paragraph 18(1)(j) of the _Nation-building Funds Act 2008_; or
-
-                            (iii)  paragraph 136(1)(j) of the _Nation-building Funds Act 2008_; or
-
-                            (iv)  paragraph 137(e) of the _Nation-building Funds Act 2008_; or
-
-                             (v)  paragraph 218(1)(f) of the _Nation-building Funds Act 2008_;
+                             (ii)  paragraph 16(1)(g) of the _Higher Education Endowment Fund Act 2007_;
 
                      (b)  paying a premium in respect of a contract of insurance entered into by the Board, where the premium is not covered by:
 
                               (i)  paragraph (1)(h); or
 
-                             (ii)  paragraph 18(1)(k) of the _Nation-building Funds Act 2008_; or
-
-                            (iii)  paragraph 136(1)(k) of the _Nation-building Funds Act 2008_; or
-
-                            (iv)  paragraph 137(f) of the _Nation-building Funds Act 2008_; or
-
-                             (v)  paragraph 218(1)(g) of the _Nation-building Funds Act 2008_;
+                             (ii)  paragraph 16(1)(h) of the _Higher Education Endowment Fund Act 2007_;
 
                      (c)  paying or discharging any other costs, expenses, obligations or liabilities incurred by the Board, where the costs, expenses, obligations or liabilities are not covered by:
 
                               (i)  a paragraph of subclause (1); or
 
-                             (ii)  a paragraph of subsection 18(1) of the _Nation-building Funds Act 2008_; or
-
-                            (iii)  a paragraph of subsection 136(1) of the _Nation-building Funds Act 2008_; or
-
-                            (iv)  a paragraph of section 137 of the _Nation-building Funds Act 2008_; or
-
-                             (v)  a paragraph of subsection 218(1) of the _Nation-building Funds Act 2008_;
+                             (ii)  a paragraph of subsection 16(1) of the _Higher Education Endowment Fund Act 2007_;
 
                      (d)  paying remuneration and allowances of Board members;
 
@@ -2637,68 +2427,6 @@ Note:          See section 21 of the _Financial Management a
                    The Board must take all reasonable steps to ensure that, during a financial year to which paragraph 2(1)(a) or (b) of this Schedule applies, the amount of money standing to the credit of the Fund Account is sufficient to cover the purpose mentioned in that paragraph.
 
 Note:          This may require the Board to realise an investment of the Fund in accordance with section 17.
-
- 
-
-# Schedule 2A—Inter-fund transfers
-
-_Note:       See section 13._
-
-##### <a id="1"></a>1  Simplified outline
-
-                   The following is a simplified outline of this Schedule:
-
-* * *
-
-<li class="BoxList" style="margin-left:21.25pt">•      Amounts may be transferred
-
-from the Future Fund to the Building Australia Fund, the Education Investment
-
-Fund or the Health and Hospitals Fund.</li>
-
-* * *
-
-##### <a id="2"></a>2  Transfers from the Future Fund to the Building Australia Fund
-
-             (1)  If an amount is debited from the Building Australia Fund Special Account for a purpose mentioned in section 20 of the _Nation-building Funds Act 2008_, the nominated Minister may, by writing, direct that a specified amount is to be:
-
-                     (a)  debited from the Fund Account; and
-
-                     (b)  credited to the Building Australia Fund Special Account;
-
-on a specified day.
-
-             (2)  The specified amount must not exceed the amount debited from the Building Australia Fund Special Account as mentioned in subsection (1).
-
-             (3)  A direction under subsection (1) is not a legislative instrument.
-
-##### <a id="3"></a>3  Transfers from the Future Fund to the Education Investment Fund
-
-             (1)  If an amount is debited from the Education Investment Fund Special Account for a purpose mentioned in section 138 of the _Nation-building Funds Act 2008_, the nominated Minister may, by writing, direct that a specified amount is to be:
-
-                     (a)  debited from the Fund Account; and
-
-                     (b)  credited to the Education Investment Fund Special Account;
-
-on a specified day.
-
-             (2)  The specified amount must not exceed the amount debited from the Education Investment Fund Special Account as mentioned in subsection (1).
-
-             (3)  A direction under subsection (1) is not a legislative instrument.
-
-##### <a id="4"></a>4  Transfers from the Future Fund to the Health and Hospitals Fund
-
-             (1)  If an amount is debited from the Health and Hospitals Fund Special Account for a purpose mentioned in section 219 of the _Nation-building Funds Act 2008_, the nominated Minister may, by writing, direct that a specified amount is to be:
-
-                     (a)  debited from the Fund Account; and
-
-                     (b)  credited to the Health and Hospitals Fund Special Account;
-
-on a specified day.
-
-             (2)  The specified amount must not exceed the amount debited from the Health and Hospitals Fund Special Account as mentioned in subsection (1).
-
-             (3)  A direction under subsection (1) is not a legislative instrument.
 
 # Schedule 3—Target asset level declarations
 
@@ -2915,23 +2643,6 @@ Remainder: Royal Assent</div>
 78–85)</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Nation-building Funds (Consequential Amendments) Act 2008</div>
-    </td>
-    <td>
-      <div>155, 2008</div>
-    </td>
-    <td>
-      <div>18 Dec 2008</div>
-    </td>
-    <td>
-      <div>Schedule 2 (items 1–44) and Schedule 3 (item 7): 1 Jan 2009 ( <i>see</i> s. 2(1))</div>
-    </td>
-    <td>
-      <div>Sch. 3 (item 7)</div>
-    </td>
-  </tr>
 </thead></table>
 
 ## Table of Amendments
@@ -2991,42 +2702,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 161, 2007; No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2A to s. 13</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2008</div>
+    <div>am. No. 161, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3119,18 +2798,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 27</div>
+    <div>Ss. 27, 28</div>
   </td>
   <td>
     <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007; No. 155, 2008</div>
   </td>
 </tr>
 <tr>
@@ -3191,14 +2862,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -3210,7 +2873,7 @@ Remainder: Royal Assent</div>
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 161, 2007; No. 155, 2008</div>
+    <div>am. No. 161, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3223,18 +2886,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 54</div>
+    <div>Ss. 54, 55</div>
   </td>
   <td>
     <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 161, 2007; No. 155\. 2008</div>
   </td>
 </tr>
 <tr>
@@ -3247,26 +2902,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 60–62</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 63</div>
   </td>
   <td>
-    <div>am. No. 161, 2007; No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 155, 2008</div>
+    <div>am. No. 161, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3287,34 +2926,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 81(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 81(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 81(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 81</div>
   </td>
   <td>
-    <div>am. No. 161, 2007; No. 155, 2008</div>
+    <div>am. No. 161, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3327,18 +2942,10 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 83A, 83B</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 84</div>
   </td>
   <td>
-    <div>am. No. 161, 2007; No. 155, 2008</div>
+    <div>am. No. 161, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3394,7 +3001,7 @@ Remainder: Royal Assent</div>
     <div>C. 2</div>
   </td>
   <td>
-    <div>am. No. 161, 2007; No. 155, 2008</div>
+    <div>am. No. 161, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3403,22 +3010,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>am. No. 161, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 2A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2A</div>
-  </td>
-  <td>
-    <div>ad. No. 155, 2008</div>
   </td>
 </tr></table>
 
@@ -3576,15 +3167,5 @@ The amendments made by items 19, 21 and 26 apply in relation to a direction un
 ## 85  Application of amendment—directions under subclause 8(1) of Schedule 1 to the _Future Fund Act 2006_
 
 The amendment made by item 69 applies in relation to a direction under subclause 8(1) of Schedule 1 to the _Future Fund Act 2006_ that is given after the commencement of this item.
-
-* * *
-
-_Nation-building Funds (Consequential Amendments) Act 2008 (No. 155, 2008)_
-
-## Schedule 3
-
-## 7  Transitional—definition of _acquire_ in section 5 of the _Future Fund Act 2006_
-
-The amendment made by item 2 of Schedule 2 does not imply that, at a time before the commencement of that item, a reference in the _Future Fund Act 2006_ to acquire did not include a reference to acquire by way of issue.
 
  
