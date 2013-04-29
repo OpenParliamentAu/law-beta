@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00463/Html/NatGreenhouseEneReport2007_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00122/Html/NatGreenhouseEneReport2007_image001.gif)
 
 # National Greenhouse and Energy Reporting Act 2007
 
 **Act No. 175 of 2007 as amended**
 
-This compilation was prepared on 28 September 2009
- taking into account amendments up to Act No. 87 of 2009
+This compilation was prepared on 15 March 2009
+ taking into account amendments up to Act No. 84 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -78,34 +78,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [21A](#21A).       Reports relating to offsets of greenhouse gas emissions
 
 [22](#22).          Records to be kept
-
-**Part 3E—Reporting obligations of holders of reporting transfer certificates** 
-
-    **Division 1—Reporting obligations**
-
-[22G](#22G).       Report to be given to Greenhouse and Energy Data Officer
-
-[22H](#22H).       Records to be kept
-
-    **Division 2—Reporting transfer certificates**
-
-[22J](#22J).        Reporting transfer test
-
-[22K](#22K).       Application for reporting transfer certificate
-
-[22KA](#22KA).    Further information
-
-[22L](#22L).        Issue of reporting transfer certificate
-
-[22M](#22M).      Duration of reporting transfer certificate
-
-[22N](#22N).       Surrender of reporting transfer certificate
-
-[22P](#22P).        Cancellation of reporting transfer certificate
-
-[22Q](#22Q).       Reporting transfer certificate is not transferable
-
-[22R](#22R).       Financial control
 
 **Part 4—Disclosure of information**
 
@@ -445,8 +417,6 @@ Note:          **_Innocent passage_** is defined in section 
 
                     <a name="facil"></a>**_facility_** has the meaning given by section 9.
 
-                    <a name="financi-control"></a>**_financial control_** has the meaning given by section 22R.
-
                     <a name="greenhous-energi-data-offic"></a>**_Greenhouse and Energy Data Officer_** means the Greenhouse and Energy Data Officer established under section 49.
 
                     <a name="greenhous-energi-inform"></a>**_greenhouse and energy information_** means information reported to the Greenhouse and Energy Data Officer under this Act or information obtained by a person whilst performing duties under this Act or the regulations.
@@ -483,14 +453,6 @@ but does not include an activity, or a series of activities, in the exclusive ec
 
 Note:          For the Convention on the Law of the Sea see the Schedule to the _Seas and Submerged Lands Act 1973_.
 
-                    <a name="interim-financi-year"></a>**_interim financial year_** means:
-
-                     (a)  the financial year beginning on 1 July 2008; or
-
-                     (b)  the financial year beginning on 1 July 2009; or
-
-                     (c)  the financial year beginning on 1 July 2010.
-
                     <a name="joint-ventur"></a>**_joint venture_** means an enterprise carried on by 2 or more entities in common otherwise than in partnership.
 
                     <a name="member"></a>**_member_** has the meaning given by subsection 8(2).
@@ -514,10 +476,6 @@ Note:          For the Convention on the Law of the Sea see th
                     <a name="regist-corpor"></a>**_registered corporation_** means a corporation that is registered under Division 3 of Part 2.
 
                     <a name="remov"></a>**_removal_**, of greenhouse gas, has the meaning given by section 10.
-
-                    <a name="report-transfer-certif"></a>**_reporting transfer certificate_** means a certificate issued under section 22L.
-
-                    <a name="report-transfer-test"></a>**_reporting transfer test_** has the meaning given by section 22J.
 
                     <a name="subsidiari"></a>**_subsidiary_** has the meaning given by section 46 of the _Corporations Act 2001_.
 
@@ -627,7 +585,7 @@ have the meaning specified by the regulations.
 
                             (iii)  environmental policies;
 
-                            and meets the requirements of the regulations; or
+                            and meets the requirements of the regulations; or
 
                      (b)  the Greenhouse and Energy Data Officer declares the corporation or member to have operational control of the facility under section 55.
 
@@ -705,11 +663,7 @@ On 30 June 2010 the corporation is still registered under Division 3\. The c
 
              (2)  If a member of a controlling corporation’s group has operational control of a facility for a number of, but not all, days in a financial year (the **_control days_**), subparagraphs (1)(d)(i) to (iii) have effect as though each threshold were replaced by the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00463/Html/NatGreenhouseEneReport2007_image002.gif)
-
-Reporting transfer certificate
-
-             (3)  For the purposes of this section, if a person was the holder of a reporting transfer certificate in relation to a facility on a particular day in an interim financial year, the facility is taken not to have been under the operational control of a member of a controlling corporation’s group on that day.
+![](http://www.comlaw.gov.au/Details/C2009C00122/Html/NatGreenhouseEneReport2007_image002.gif)
 
 ##### <a id="14"></a>14  Applying to register in relation to greenhouse gas project
 
@@ -763,12 +717,6 @@ Reporting transfer certificate
 
              (3)  The Greenhouse and Energy Data Officer must notify the corporation, in writing, of his or her decision on the application.
 
-          (3A)  The Greenhouse and Energy Data Officer must register a corporation under this Division if:
-
-                     (a)  a reporting transfer certificate is issued to the corporation; and
-
-                     (b)  the corporation is not already registered under this Division.
-
              (4)  The corporation is registered under this Division when the Greenhouse and Energy Data Officer has entered the name of the corporation on the Register.
 
 ##### <a id="18"></a>18  Deregistration of corporations
@@ -781,15 +729,11 @@ Reporting transfer certificate
 
                      (b)  be in the form (if any) specified in the regulations.
 
-             (3)  The Greenhouse and Energy Data Officer must remove the name of the corporation from the Register if the Greenhouse and Energy Data Officer is satisfied that:
+             (3)  The Greenhouse and Energy Data Officer must remove the name of the corporation from the Register if the Greenhouse and Energy Data Officer is satisfied that the registered corporation’s group is not likely to meet any of the thresholds under section 13 for:
 
-                     (a)  if the registered corporation is the controlling corporation of a group—the registered corporation’s group is not likely to meet any of the thresholds under section 13 for:
+                     (a)  the financial year in which the application is made; and
 
-                              (i)  the financial year in which the application is made; and
-
-                             (ii)  the next 2 financial years; and
-
-                     (b)  the registered corporation does not hold a reporting transfer certificate.
+                     (b)  the next 2 financial years.
 
              (4)  The Greenhouse and Energy Data Officer must notify the corporation, in writing, of his or her decision on the application.
 
@@ -817,8 +761,6 @@ Note 2:       Under section 20 the Greenhouse and Energy Data Offi
 
 Note 3:       Under section 30 a controlling corporation may be liable for an additional civil penalty for each day on and after the end of the period mentioned in paragraph (6)(d) for which it fails to provide a report in accordance with this section.
 
-Note 3A:    Reports under this section and section 22G may be set out in the same document—see subsection 22G(6).
-
              (2)  A report under subsection (1) is required for:
 
                      (a)  the corporation’s trigger year (within the meaning of subsection 12(1) or (3)); and
@@ -838,8 +780,6 @@ from the operation of the facility during the part of that year.
              (4)  A member of the corporation’s group (other than the registered corporation) may provide part of the report referred to in subsection (1) if the part relates to facilities for which that member has operational control.
 
              (5)  If a part or parts of a report relating to one or more facilities are provided in accordance with subsection (4) for a financial year, the report by the registered corporation under subsection (1) in respect of that year need only, in relation to any such facilities, specify the member of the corporation’s group that provided the part or parts of the report in relation to those facilities.
-
-          (5A)  For the purposes of this section, if a person was the holder of a reporting transfer certificate in relation to a facility on a particular day in an interim financial year, the facility is taken not to have been under the operational control of a member of the corporation’s group on that day.
 
              (6)  A report or part of a report under this section must:
 
@@ -1005,348 +945,6 @@ Note:          Under Division 137 of the _Criminal Code_ it 
 
 that must be kept under subsection (1) or (2).
 
-             (5)  In this section:
-
-                    <a name="act"></a>**_this Act_** does not include Part 3E.
-
-## Part 3E—Reporting obligations of holders of reporting transfer certificates
-
-### Division 1—Reporting obligations
-
-##### <a id="22G"></a>22G  Report to be given to Greenhouse and Energy Data Officer
-
-             (1)  If a corporation was the holder of a reporting transfer certificate in relation to a facility during the whole or a part of an interim financial year, the corporation must, in accordance with this section, provide a report to the Greenhouse and Energy Data Officer relating to the:
-
-                     (a)  greenhouse gas emissions; and
-
-                     (b)  energy production; and
-
-                     (c)  energy consumption;
-
-from the operation of the facility during the whole, or the part, as the case may be, of that interim financial year.
-
-                    Civil penalty:            2,000 penalty units.
-
-Note 1:       Under Division 137 of the _Criminal Code_, it may be an offence to provide false or misleading information or documents to the Greenhouse and Energy Data Officer in purported compliance with this Act.
-
-Note 2:       Under section 30, a corporation may be liable for an additional civil penalty for each day after the end of the period mentioned in paragraph (2)(d) for which the corporation fails to provide a report in accordance with this section.
-
-             (2)  A report under this section must:
-
-                     (a)  be given in a manner and form approved by the Greenhouse and Energy Data Officer; and
-
-                     (b)  be based on:
-
-                              (i)  methods determined by the Minister under subsection 10(3); or
-
-                             (ii)  methods which meet criteria determined by the Minister under that subsection;
-
-                            where the use of those methods satisfies any conditions specified in the determination under that subsection; and
-
-                     (c)  include any information specified by the regulations for the purposes of this paragraph; and
-
-                     (d)  be given to the Greenhouse and Energy Data Officer before the end of 4 months after the end of the interim financial year.
-
-             (3)  Regulations made for the purposes of paragraph (2)(c) may specify different requirements for different circumstances.
-
-             (4)  In particular, and without limiting subsection (3), the regulations may specify different requirements for corporations who:
-
-                     (a)  do not meet any threshold; or
-
-                     (b)  do not meet specified thresholds;
-
-for an interim financial year to which a report relates.
-
-             (5)  Regulations made for the purposes of paragraph (2)(c) may also specify information that a State or Territory has requested the Greenhouse and Energy Data Officer to collect.
-
-             (6)  Reports under this section and section 19 may be set out in the same document.
-
-             (7)  If no regulations are in force for the purposes of paragraph (2)(c) of this section, then, in addition to their effect apart from this subsection, regulations made for the purposes of paragraph 19(6)(c) also have the effect they would have if:
-
-                     (a)  they were made for the purposes of paragraph (2)(c) of this section; and
-
-                     (b)  each reference in those regulations to a facility of the corporation were read as a reference to the facility to which the reporting transfer certificate relates; and
-
-                     (c)  each reference in those regulations to a facility under the operational control of the corporation were read as a reference to the facility to which the reporting transfer certificate relates; and
-
-                     (d)  those regulations were otherwise appropriately modified.
-
-##### <a id="22H"></a>22H  Records to be kept
-
-             (1)  A corporation that is or was required to provide a report under section 22G for an interim financial year must keep records of the corporation’s activities that:
-
-                     (a)  allow the corporation to report accurately under section 22G; and
-
-                     (b)  enable the Greenhouse and Energy Data Officer to ascertain whether the corporation has complied with the corporation’s obligations under section 22G; and
-
-                     (c)  comply with the requirements of subsection (2) and the regulations made for the purposes of subsection (3).
-
-                    Civil penalty:            1,000 penalty units.
-
-             (2)  The corporation must retain the records for 7 years from the end of the financial year in which the activities take place.
-
-             (3)  The regulations may specify requirements relating to:
-
-                     (a)  the kinds of records; and
-
-                     (b)  the form of records;
-
-that must be kept under subsection (1).
-
-### Division 2—Reporting transfer certificates
-
-##### <a id="22J"></a>22J  Reporting transfer test
-
-                   A corporation (the **_transferee corporation_**) passes the **_reporting transfer test_** in relation to a facility if:
-
-                     (a)  the facility is under the operational control of another corporation (the **_transferor corporation_**); and
-
-                     (b)  the transferee corporation has financial control over the facility; and
-
-                     (c)  the transferee corporation is a company registered under Part 2A.2 of the _Corporations Act 2001_; and
-
-                     (d)  the transferee corporation is a constitutional corporation; and
-
-                     (e)  if the transferee corporation is a member of a controlling corporation’s group—the transferor corporation is not a member of that group; and
-
-                      (f)  the transferor corporation is a member of a controlling corporation’s group.
-
-Note:          For **_financial control_**, see section 22R.
-
-##### <a id="22K"></a>22K  Application for reporting transfer certificate
-
-Scope
-
-             (1)  This section applies if a corporation passes the reporting transfer test in relation to a facility.
-
-Application
-
-             (2)  The corporation may apply to the Greenhouse and Energy Data Officer for the issue to the corporation of a reporting transfer certificate in relation to the facility.
-
-             (3)  The corporation is not entitled to make an application unless the corporation has the written consent of the controlling corporation mentioned in paragraph 22J(f).
-
-             (4)  If:
-
-                     (a)  the corporation is a member of a controlling corporation’s group; and
-
-                     (b)  the corporation is not the controlling corporation;
-
-the corporation is not entitled to make an application unless the corporation has the written consent of the controlling corporation.
-
-Form of application
-
-             (5)  An application must:
-
-                     (a)  be in writing; and
-
-                     (b)  be in a form approved by the Greenhouse and Energy Data Officer; and
-
-                     (c)  set out such information as is specified in the form; and
-
-                     (d)  be accompanied by:
-
-                              (i)  the consent of the controlling corporation mentioned in paragraph 22J(f) to the making of the application; and
-
-                             (ii)  if subsection (4) applies—the consent of the controlling corporation mentioned in that subsection to the making of the application; and
-
-                            (iii)  a written statement, signed by the chief executive officer of the transferor corporation mentioned in section 22J, to the effect that the transferor corporation has agreed to give the applicant such information as is necessary for the applicant to comply with obligations that will be imposed on the applicant by this Act in relation to the facility if the certificate is issued; and
-
-                            (iv)  such information (if any) as is specified in the regulations; and
-
-                             (v)  such documents (if any) as are specified in the regulations.
-
-             (6)  The approved form of application may provide for verification by statutory declaration of statements in applications.
-
-             (7)  The approved form of application may require the applicant to set out its Australian Business Number (within the meaning of the _A New Tax System (Australian Business Number) Act 1999_).
-
-##### <a id="22KA"></a>22KA  Further information
-
-             (1)  The Greenhouse and Energy Data Officer may, by written notice given to an applicant, require the applicant to give the Greenhouse and Energy Data Officer, within the period specified in the notice, further information in connection with the application.
-
-             (2)  If the applicant breaches the requirement, the Greenhouse and Energy Data Officer may, by written notice given to the applicant:
-
-                     (a)  refuse to consider the application; or
-
-                     (b)  refuse to take any action, or any further action, in relation to the application.
-
-##### <a id="22L"></a>22L  Issue of reporting transfer certificate
-
-Scope
-
-             (1)  This section applies if an application under section 22K has been made for a reporting transfer certificate in relation to a facility.
-
-Issue of certificate
-
-             (2)  After considering the application, the Greenhouse and Energy Data Officer may issue to the applicant a reporting transfer certificate in relation to the facility.
-
-Criteria for issue of certificate
-
-             (3)  The Greenhouse and Energy Data Officer must not issue the reporting transfer certificate unless the Greenhouse and Energy Data Officer is satisfied that:
-
-                     (a)  the applicant passes the reporting transfer test in relation to the facility; and
-
-                     (b)  the applicant has, and is likely to continue to have:
-
-                              (i)  the capacity; and
-
-                             (ii)  the access to information;
-
-                            necessary for it to comply with obligations that will be imposed on the applicant by this Act in relation to the facility if the certificate is issued; and
-
-                     (c)  at least one of the following conditions has been, or is likely to be, satisfied:
-
-                              (i)  during an interim financial year, the operation of the facility causes emissions of greenhouse gases that have a carbon dioxide equivalence of 25 kilotonnes or more;
-
-                             (ii)  during an interim financial year, the operation of the facility causes production of energy of 100 terajoules or more;
-
-                            (iii)  during an interim financial year, the operation of the facility causes consumption of energy of 100 terajoules or more; and
-
-                     (d)  if the regulations specify one or more other requirements—those requirements are met.
-
-Timing
-
-             (4)  The Greenhouse and Energy Data Officer must take all reasonable steps to ensure that a decision is made on the application:
-
-                     (a)  if the Greenhouse and Energy Data Officer requires the applicant to give further information under subsection 22KA(1) in relation to the application—within 90 days after the applicant gave the Greenhouse and Energy Data Officer the information; or
-
-                     (b)  otherwise—within 90 days after the application was made.
-
-Refusal
-
-             (5)  If the Greenhouse and Energy Data Officer decides to refuse to issue the reporting transfer certificate, the Greenhouse and Energy Data Officer must give written notice of the decision to the applicant.
-
-##### <a id="22M"></a>22M  Duration of reporting transfer certificate
-
-             (1)  A reporting transfer certificate comes into force on the day specified in the certificate as the day on which the certificate is to come into force (the **_start day_**).
-
-             (2)  The start day may be earlier than the day on which the certificate is issued, so long as:
-
-                     (a)  the start day occurs in:
-
-                              (i)  the same financial year as the day on which the certificate is issued; or
-
-                             (ii)  the financial year preceding the financial year in which the certificate is issued; and
-
-                     (b)  each of the following has consented to the specification of the start day:
-
-                              (i)  the applicant;
-
-                             (ii)  if a controlling corporation consented under subsection 22K(3) to the making of the application for the certificate—the controlling corporation.
-
-             (3)  A reporting transfer certificate remains in force until the end of 30 June 2011.
-
-             (4)  Subsection (3) has effect subject to this Division.
-
-##### <a id="22N"></a>22N  Surrender of reporting transfer certificate
-
-Scope
-
-             (1)  This section applies if a corporation is the holder of a reporting transfer certificate in relation to a facility.
-
-Surrender
-
-             (2)  The corporation may, with the written consent of the Greenhouse and Energy Data Officer, surrender the certificate.
-
-             (3)  The surrender takes effect when the consent is given by the Greenhouse and Energy Data Officer.
-
-Consent to surrender
-
-             (4)  The Greenhouse and Energy Data Officer must not consent to the surrender of the certificate unless:
-
-                     (a)  if a controlling corporation consented under subsection 22K(3) to the making of the application for the certificate—the controlling corporation has agreed to the surrender of the certificate; and
-
-                     (b)  the Greenhouse and Energy Data Officer is satisfied that there are special circumstances that warrant the giving of consent to the surrender of the certificate.
-
-##### <a id="22P"></a>22P  Cancellation of reporting transfer certificate
-
-Scope
-
-             (1)  This section applies if a corporation is the holder of a reporting transfer certificate in relation to a facility.
-
-Cancellation
-
-             (2)  The Greenhouse and Energy Data Officer must, by written notice given to the corporation, cancel the certificate if the Greenhouse and Energy Data Officer is satisfied that:
-
-                     (a)  the corporation does not pass the reporting transfer test in relation to the facility concerned; or
-
-                     (b)  the corporation has become an externally-administered body corporate (within the meaning of the _Corporations Act 2001_); or
-
-                     (c)  if the regulations specify one or more other grounds for cancellation—at least one of those grounds is applicable to the corporation.
-
-##### <a id="22Q"></a>22Q  Reporting transfer certificate is not transferable
-
-                   A reporting transfer certificate is not transferable.
-
-##### <a id="22R"></a>22R  Financial control
-
-             (1)  For the purposes of this Act, if a corporation (the **_operator_**) has operational control over a facility, another corporation (the **_second corporation_**) has **_financial control_** over the facility if:
-
-                     (a)  under a contract between:
-
-                              (i)  the operator; and
-
-                             (ii)  the second corporation;
-
-                            the operator operates the facility on behalf of the second corporation; or
-
-                     (b)  under a contract between:
-
-                              (i)  the operator; and
-
-                             (ii)  the second corporation and one or more other persons;
-
-                            the operator operates the facility on behalf of the second corporation and those other persons; or
-
-                     (c)  the second corporation is able to control the trading or financial relationships of the operator in relation to the facility; or
-
-                     (d)  the second corporation has the economic benefits from the facility; or
-
-                     (e)  all of the following conditions are satisfied:
-
-                              (i)  the second corporation is a participant in a joint venture;
-
-                             (ii)  there is one other participant in the joint venture;
-
-                            (iii)  the second corporation shares the economic benefits from the facility with the other participant;
-
-                            (iv)  the second corporation’s share equals or exceeds the share of the other participant; or
-
-                      (f)  all of the following conditions are satisfied:
-
-                              (i)  the second corporation is a participant in a joint venture;
-
-                             (ii)  there are 2 or more other participants in the joint venture;
-
-                            (iii)  the second corporation shares the economic benefits from the facility with the other participants;
-
-                            (iv)  no other participant has a share that exceeds the share of the second corporation; or
-
-                     (g)  all of the following conditions are satisfied:
-
-                              (i)  the second corporation is a partner in a partnership;
-
-                             (ii)  there is one other partner in the partnership;
-
-                            (iii)  the second corporation shares the economic benefits from the facility with the other partner;
-
-                            (iv)  the second corporation’s share equals or exceeds the share of the other partner; or
-
-                     (h)  all of the following conditions are satisfied:
-
-                              (i)  the second corporation is a partner in a partnership;
-
-                             (ii)  there are 2 or more other partners in the partnership;
-
-                            (iii)  the second corporation shares the economic benefits from the facility with the other partners;
-
-                            (iv)  no other partner has a share that exceeds the share of the second corporation; or
-
-                      (i)  the second corporation is able to direct or sell the output of the facility; or
-
-                      (j)  under the regulations, the second corporation is taken to have financial control over the facility.
-
-             (2)  In determining whether the second corporation has that financial control, regard must be had to the economic and commercial substance of the matters mentioned in subsection (1).
-
 ## Part 4—Disclosure of information
 
 ##### <a id="23"></a>23  Secrecy
@@ -1411,24 +1009,6 @@ reported in relation to a registered corporation’s group for the previous fina
 
 This subsection is subject to subsection 25(3).
 
-       (1AD)  If a corporation gives the Greenhouse and Energy Data Officer a report under section 22G in relation to an interim financial year, the Greenhouse and Energy Data Officer must publish on a website, by 28 February next following the interim financial year:
-
-                     (a)  the greenhouse gas emissions that are scope 1 emissions (within the meaning of the regulations); and
-
-                     (b)  the greenhouse gas emissions that are scope 2 emissions (within the meaning of the regulations); and
-
-                     (c)  the energy consumption;
-
-set out in the report.
-
-        (1AE)  In addition to publishing the matters mentioned in subsection (1AD), the Greenhouse and Energy Data Officer may also publish on the website:
-
-                     (a)  the methods mentioned in paragraph 22G(2)(b) that were used to measure the values for the facility concerned; and
-
-                     (b)  the rating given to each of those methods under the determination under subsection 10(3).
-
-This subsection is subject to subsection 25(3).
-
 Limitations
 
           (1B)  The Greenhouse and Energy Data Officer must not publish information mentioned in subsection (1) unless:
@@ -1438,14 +1018,6 @@ Limitations
                      (b)  no application has been made under section 25 in relation to that information, or if such an application has been made, it has been refused.
 
           (1C)  However, if the Greenhouse and Energy Data Officer accepts an application under section 25 in relation to information mentioned in subsection (1), he or she may instead publish on a website the fact that the totals concerned fall within a specified range of values.
-
-           (1F)  The Greenhouse and Energy Data Officer must not publish information mentioned in subsection (1AD) unless:
-
-                     (a)  no application has been made under section 25 in relation to that information; or
-
-                     (b)  if such an application has been made—it has been refused.
-
-          (1G)  However, if the Greenhouse and Energy Data Officer accepts an application under section 25 in relation to information mentioned in subsection (1AD), the Greenhouse and Energy Data Officer may instead publish on a website the fact that the values concerned fall within a specified range of values.
 
 Publication relating to greenhouse gas projects
 
@@ -1475,9 +1047,9 @@ Publication by other persons
 
 and the Greenhouse and Energy Data Officer has agreed, in writing, for the information to be published.
 
-##### <a id="25"></a>25  Requests for information not to be published
+##### <a id="25"></a>25  Requests for information not to be published
 
-             (1)  A registered corporation, a person required to provide a report under section 22G, or a person required to provide information under section 20, may apply to the Greenhouse and Energy Data Officer requesting information not be published if the information reveals, or could be capable of revealing:
+             (1)  A registered corporation, or a person required to provide information under section 20, may apply to the Greenhouse and Energy Data Officer requesting information not be published if the information reveals, or could be capable of revealing:
 
                      (a)  trade secrets; or
 
@@ -1497,7 +1069,7 @@ about a specific facility, technology or corporate initiative relating to the co
 
              (4)  The Greenhouse and Energy Data Officer must notify an applicant, in writing, of a decision to accept or refuse an application under this section.
 
-##### <a id="26"></a>26  Information may be disclosed to specified persons or bodies
+##### <a id="26"></a>26  Information may be disclosed to specified persons or bodies
 
              (1)  The Greenhouse and Energy Data Officer, or a person authorised by the Greenhouse and Energy Data Officer, may disclose greenhouse and energy information to:
 
@@ -1584,10 +1156,6 @@ for the purposes of, or in connection with, court or tribunal proceedings, or pr
                      (a)  for failure to meet a requirement under section 12, 19 or 20—100 penalty units per day; or
 
                      (b)  for failure to meet a requirement under section 73—10 penalty units per day.
-
-          (2B)  If, under section 22G, an act or thing is required to be done within a particular period, and a person fails to comply with that requirement, the person is liable for a civil penalty for each day that the person fails to comply.
-
-                    Civil penalty:            100 penalty units per day.
 
              (3)  To avoid doubt, a person’s failure to comply with such a requirement on a particular day is taken, for the purposes of this Act, not to be the same conduct as the person’s failure to comply with that requirement on a different day.
 
@@ -1968,12 +1536,6 @@ the officer contravenes this subsection.
                      (c)  make a determination under section 20; and
 
                      (d)  refuse to make a determination under section 20; and
-
-                    (da)  refuse to issue a reporting transfer certificate under section 22L;
-
-                    (db)  refuse to give consent to the surrender of the reporting transfer certificate under section 22N;
-
-                    (dc)  cancel a reporting transfer certificate under section 22P;
 
                      (e)  refuse an application under section 25; and
 
@@ -2459,27 +2021,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 35)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>National Greenhouse and Energy Reporting Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>87, 2009</div>
-  </td>
-  <td>
-    <div>18 Sept 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1: \[ <i>see</i>Note 2] 
-Schedule 2 (items 1–16): 19 Sept 2009 
-Schedule 2 (items 17–32): \[ <i>see</i>s. 2(1) and Note 2] 
-Schedule 2 (item 33): \[ <i>see</i>s. 2(1) and Note 2] 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -2526,7 +2067,7 @@ Remainder: Royal Assent</div>
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 84, 2008; No. 87, 2009</div>
+    <div>am. No. 84, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2579,14 +2120,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 14, 15</div>
   </td>
   <td>
@@ -2622,15 +2155,7 @@ Remainder: Royal Assent</div>
     <div>S. 17</div>
   </td>
   <td>
-    <div>am. No. 84, 2008; No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2009</div>
+    <div>am. No. 84, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2643,23 +2168,7 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 84, 2008; No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 3A to s. 19(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
+    <div>Ss. 19, 20</div>
   </td>
   <td>
     <div>am. No. 84, 2008</div>
@@ -2687,86 +2196,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>ad. No. 84, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 3E</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22G, 22H</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22J, 22K</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22KA</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22L–22N</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 22P–22R</div>
-  </td>
-  <td>
-    <div>ad. No. 87, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2806,15 +2235,7 @@ Remainder: Royal Assent</div>
     <div>S. 24</div>
   </td>
   <td>
-    <div>am. No. 84, 2008; No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2009</div>
+    <div>am. No. 84, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2823,38 +2244,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>am. No. 84, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2883,22 +2272,6 @@ Remainder: Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 87, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 4</b></div>
   </td>
   <td>
@@ -2921,409 +2294,6 @@ Remainder: Royal Assent</div>
     <div>am. No. 84, 2008</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_National Greenhouse and Energy Reporting Amendment Act 2009 
- (No. 87, 2009)_
-
-The following amendments commence on 16 October 2009:
-
-## Schedule 1
-
-## 1  Section 7
-
-Insert:
-
-                    <a name="audit-inform"></a>**_audit information_** means information obtained by or on behalf of an audit team leader in the course of carrying out a greenhouse and energy audit.
-
-## 2  Section 7
-
-Insert:
-
-                    <a name="audit-team-leader"></a>**_audit team leader_** means a registered greenhouse and energy auditor appointed to carry out a greenhouse and energy audit.
-
-## 3  Section 7
-
-Insert:
-
-                    <a name="audit-team-member"></a>**_audit team member_**, in relation to a greenhouse and energy audit, means a person assisting the audit team leader to carry out the audit.
-
-## 4  Section 7 (definition of _external auditor_)
-
-Repeal the definition.
-
-## 5  Section 7
-
-Insert:
-
-                    <a name="greenhous-energi-audit"></a>**_greenhouse and energy audit_** means an audit under any of sections 73 to 74A.
-
-## 6  Section 7
-
-Insert:
-
-                    <a name="regist-greenhous-energi-auditor"></a>**_registered greenhouse and energy auditor_** means an individual who is registered in the register of greenhouse and energy auditors kept under section 75A.
-
-## 7  At the end of paragraph 16(4)(b)
-
-Add:
-
-                   ; (v)  the results of a greenhouse and energy audit carried out in relation to the corporation.
-
-## 8  Paragraph 23(1)(a)
-
-After “information”, insert “or audit information”.
-
-## 9  Paragraph 23(2)(d)
-
-Omit “external auditor”, substitute “audit team leader”.
-
-## 10  After paragraph 23(2)(d)
-
-Insert:
-
-                    (da)  an audit team member; or
-
-## 11  Subsection 30(2)
-
-Omit “20 or 73”, substitute “20, 73 or 73A”.
-
-## 12  Subsection 30(2) (paragraph (b) of the civil penalty)
-
-Omit “73”, substitute “73 or 73A”.
-
-## 13  Section 56
-
-After “to” (second occurring), insert “do any of the following”.
-
-## 14  Paragraphs 56(a) to (h)
-
-Omit “and”.
-
-## 15  At the end of section 56
-
-Add:
-
-                    ; (j)  refuse to register an individual in the register of greenhouse and energy auditors kept under section 75A.
-
-## 16  Subdivision G of Division 4 of Part 6 (heading)
-
-Repeal the heading, substitute:
-
-#### Subdivision G—Greenhouse and energy audits
-
-## 17  Paragraph 73(2)(a)
-
-Repeal the paragraph, substitute:
-
-                     (a)  appoint as an audit team leader:
-
-                              (i)  a registered greenhouse and energy auditor of its choice; or
-
-                             (ii)  if the Greenhouse and Energy Data Officer specifies a registered greenhouse and energy auditor in the notice—that auditor; or
-
-                            (iii)  if the Greenhouse and Energy Data Officer specifies more than one registered greenhouse and energy auditor in the notice—any one of those auditors; and
-
-_Note:       The heading to section 73 is altered by omitting “External audits” and substituting “Audits of registered corporations”._
-
-## 18  Paragraph 73(2)(b)
-
-Omit “external auditor”, substitute “audit team leader”.
-
-## 19  Paragraph 73(2)(b)
-
-Omit “external” (second occurring).
-
-## 20  Paragraph 73(2)(c)
-
-Omit “external auditor”, substitute “audit team leader”.
-
-## 21  Before paragraph 73(3)(a)
-
-Insert:
-
-                    (aa)  type of audit to be carried out; and
-
-## 22  Subsection 73(4)
-
-Omit “an external auditor”, substitute “the audit team leader and any audit team members”.
-
-## 23  Subsection 73(4)
-
-Omit “external auditor’s”, substitute “audit team leader’s”.
-
-## 24  After section 73
-
-Insert:
-
-##### <a id="73A"></a>73A  Audits of persons providing information under section 20—compliance
-
-             (1)  This section applies if the Greenhouse and Energy Data Officer has reasonable grounds to suspect that a person required to provide information under section 20 has contravened, is contravening, or is proposing to contravene, this Act or the regulations.
-
-             (2)  The Greenhouse and Energy Data Officer may, by written notice given to the person, require the person to:
-
-                     (a)  appoint as an audit team leader:
-
-                              (i)  a registered greenhouse and energy auditor of the person’s choice; or
-
-                             (ii)  if the Greenhouse and Energy Data Officer specifies a registered greenhouse and energy auditor in the notice—that auditor; or
-
-                            (iii)  if the Greenhouse and Energy Data Officer specifies more than one registered greenhouse and energy auditor in the notice—any one of those auditors; and
-
-                     (b)  arrange for the audit team leader to carry out an audit on one or more aspects of the person’s compliance with this Act or the regulations; and
-
-                     (c)  arrange for the audit team leader to give the person a written report setting out the results of the audit; and
-
-                     (d)  give the Greenhouse and Energy Data Officer a copy of the audit report on or before the day specified in the notice.
-
-             (3)  The notice must specify the:
-
-                     (a)  type of audit to be carried out; and
-
-                     (b)  matters to be covered by the audit; and
-
-                     (c)  form of the audit report and the kinds of details it is to contain.
-
-             (4)  The person must provide the audit team leader and any audit team members with all reasonable facilities and assistance necessary for the effective exercise of the audit team leader’s duties under this Act.
-
-                    Civil penalty:
-
-                     (a)  for an individual—50 penalty units; or
-
-                     (b)  otherwise—250 penalty units.
-
-             (5)  If the Greenhouse and Energy Data Officer gives a person required to provide information under section 20 written notice under subsection (2), the person must comply with the requirements of the notice.
-
-                    Civil penalty:
-
-                     (a)  for an individual—200 penalty units; or
-
-                     (b)  otherwise—1,000 penalty units.
-
-Note:          Under section 30, a person may be liable for an additional civil penalty for each day after the day mentioned in paragraph (2)(d) for which the person fails to provide an audit report in accordance with this section.
-
-## 25  Subsection 74(1)
-
-Omit “an external auditor”, substitute “a registered greenhouse and energy auditor as an audit team leader”.
-
-_Note:       The heading to section 74 is altered by omitting “External audits” and substituting “Audits of registered corporations”._
-
-## 26  Subsection 74(1)
-
-Omit “external” (second occurring).
-
-## 27  Subsection 74(2)
-
-Omit “auditor” (first occurring), substitute “audit team leader”.
-
-## 28  Paragraph 74(2)(a)
-
-Omit “external auditor”, substitute “audit team leader”.
-
-## 29  After paragraph 74(2)(b)
-
-Insert:
-
-                    (ba)  specify the type of audit to be carried out; and
-
-## 30  Subsection 74(2A)
-
-Omit “external auditor”, substitute “audit team leader and any audit team members”.
-
-## 31  Subsection 74(2A)
-
-Omit “external auditor’s”, substitute “audit team leader’s”.
-
-## 32  Subsection 74(3)
-
-Omit “external auditor”, substitute “audit team leader”.
-
-## 33  Subsection 74(3)
-
-Omit “external” (second occurring).
-
-## 34  After section 74
-
-Insert:
-
-##### <a id="74A"></a>74A  Audits of persons providing information under section 20—other
-
-             (1)  The Greenhouse and Energy Data Officer may appoint a registered greenhouse and energy auditor as an audit team leader to carry out an audit of the compliance of a person required to provide information under section 20 with one or more aspects of this Act or the regulations.
-
-             (2)  The Greenhouse and Energy Data Officer must give written notice to the person of a decision to appoint an audit team leader under subsection (1). The notice must:
-
-                     (a)  specify the audit team leader; and
-
-                     (b)  specify the period within which the audit is to be undertaken; and
-
-                     (c)  specify the type of audit to be carried out; and
-
-                     (d)  specify the matters to be covered by the audit; and
-
-                     (e)  be given to the person at a reasonable time before the audit is to be undertaken.
-
-             (3)  The person must provide the audit team leader and any audit team members with all reasonable facilities and assistance necessary for the effective exercise of the audit team leader’s duties under this Act.
-
-                    Civil penalty:
-
-                     (a)  for an individual—50 penalty units; or
-
-                     (b)  otherwise—250 penalty units.
-
-             (4)  If a person required to provide information under section 20 is given a notice under subsection (2), the person must arrange for the audit team leader to carry out the audit.
-
-                    Civil penalty:
-
-                     (a)  for an individual—50 penalty units; or
-
-                     (b)  otherwise—250 penalty units.
-
-## 35  Section 75
-
-Repeal the section, substitute:
-
-##### <a id="75"></a>75  Conduct of greenhouse and energy audits
-
-             (1)  The Minister may determine, by legislative instrument, requirements to be met by audit team leaders in preparing for and carrying out greenhouse and energy audits and in preparing audit reports.
-
-             (2)  The determination may set out different requirements for different types of audits.
-
-             (3)  An audit team leader must comply with requirements determined under subsection (1).
-
-## 36  At the end of Subdivision G of Division 4 of Part 6
-
-Add:
-
-##### <a id="75A"></a>75A  Register of greenhouse and energy auditors
-
-             (1)  The Greenhouse and Energy Data Officer must cause a register of greenhouse and energy auditors to be kept for the purposes of this Act.
-
-             (2)  The Greenhouse and Energy Data Officer must register an individual in the register if the individual:
-
-                     (a)  has applied for registration in accordance with regulations under subsection (5); and
-
-                     (b)  meets such requirements as to qualifications, knowledge, expertise, competence, independence and other matters as are set out in the regulations for the purposes of this paragraph or in a legislative instrument made under the regulations in accordance with subsection (4).
-
-             (3)  If an individual who has applied for registration in the register does not meet the requirements referred to in paragraph (2)(b), the Greenhouse and Energy Data Officer must refuse to register the individual.
-
-             (4)  Regulations made for the purposes of paragraph (2)(b) may provide for the Greenhouse and Energy Data Officer to make a legislative instrument setting out:
-
-                     (a)  some or all of the requirements that could otherwise be set out in the regulations; or
-
-                     (b)  ways in which requirements set out in the regulations may be met.
-
-             (5)  The regulations may provide for any of the following:
-
-                     (a)  the form and content of the register;
-
-                     (b)  publication of the register;
-
-                     (c)  the form and content of applications for registration and the manner in which applications are to be made;
-
-                     (d)  fees to be paid in connection with registration (including ongoing or recurrent fees to maintain registration);
-
-                     (e)  requirements to be met in order to maintain registration;
-
-                      (f)  review of registration;
-
-                     (g)  suspension of registration in prescribed circumstances;
-
-                     (h)  deregistration in prescribed circumstances;
-
-                      (i)  inspection of the performance of registered greenhouse and energy auditors in carrying out greenhouse and energy audits;
-
-                      (j)  other matters in connection with registration in the register.
-
-             (6)  A fee under paragraph (5)(d) must not be such as to amount to taxation.
-
-             (7)  The Greenhouse and Energy Data Officer may, by signed instrument, delegate to another person (whether or not an SES employee or acting SES employee) any of the Greenhouse and Energy Data Officer’s functions or powers under this section or regulations under this section.
-
-             (8)  However, the Greenhouse and Energy Data Officer must not delegate the power to make a legislative instrument as mentioned in subsection (4) other than to an SES employee or acting SES employee.
-
-## 37  Paragraph 24(1)(c)
-
-Repeal the paragraph.
-
-The following amendments commence on the commencement of section 3 of the _Carbon Pollution Reduction Scheme Act 2009_(still a Bill). However, the amendments may not commence, _see_ subsection 2(1) (item 4):
-
-## Schedule 2
-
-## 17  Subsection 17(3A)
-
-Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
-
-## 18  Subsections 22G(1) and (2)
-
-Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
-
-Note:          The heading to section 22G is altered by omitting “**Greenhouse and Energy Data Officer**” and substituting “**the Authority**”.
-
-## 19  Subsection 22G(5)
-
-Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
-
-## 20  Paragraph 22H(1)(b)
-
-Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
-
-## 21  Subsection 22K(2)
-
-Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
-
-## 22  Paragraph 22K(5)(b)
-
-Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
-
-## 23  Subsection 22KA(1)
-
-Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
-
-## 24  Subsection 22KA(2)
-
-Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
-
-## 25  Subsection 22L(2)
-
-Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
-
-## 26  Subsections 22L(3), (4) and (5)
-
-Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
-
-## 27  Subsections 22N(2) and (3)
-
-Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
-
-## 28  Subsection 22N(4)
-
-Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
-
-## 29  Subsection 22P(2)
-
-Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
-
-## 30  Subsection 24(1AD)
-
-Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
-
-## 31  Subsections 24(1AE) and (1F)
-
-Omit “Greenhouse and Energy Data Officer”, substitute “Authority”.
-
-## 32  Subsection 24(1G)
-
-Omit “Greenhouse and Energy Data Officer” (wherever occurring), substitute “Authority”.
-
-The following amendment commences at the same time as Part 2 of Schedule 1 to the _Carbon Pollution Reduction Scheme (Consequential Amendments) Act 2009_(still a Bill):
-
-## Schedule 2
-
-## 33  Paragraphs 24(1AD)(a) and (b)
-
-Omit “(within the meaning of the regulations)”.
-
-As at 28 September 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
