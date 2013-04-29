@@ -1,7 +1,7 @@
 **<b>
 
-### <center><name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 Consolidated as at 26 October 1996 (#DATE 26:10:1996) </name></center>
-</b>** *1* The Australian Capital Territory Government Service (Consequential Provisions) Act 1994 as shown in this reprint comprises Act No. 92, 1994 amended as indicated in the Tables below.<lf>                             Table of Acts<lf>     Act             Date            Date of         Application<lf>     Number and      of assent       commencement    saving or<lf>     year                                            transitional<lf>                                                     provisions<lf>     Australian Capital Territory Government Service (Consequential<lf>     Provisions) Act 1994<lf>     92, 1994        29 June 1994    1 July 1994 (see Gazette 1994<lf>                                     No. S256)<lf>     Employment Services (Consequential Amendments) Act 1994<lf>     177, 1994       19 Dec 1994     Ss. 1, 2 (1), (3) and Part 2 (ss.<lf>                                     3-8): 19 Dec 1994 (see s. 2 (1))<lf>                                     Ss. 2 (2) and 32-39: Royal Assent<lf>                                     Remainder: 1 Jan 1995 (see s. 2 (3)<lf>                                     and Gazette 1994, No. S472)<lf>                                                             -<lf>     Australian Capital Territory Government Service     (Consequential Provisions) Amendment Act 1996     46, 1996       25 Oct 1996      25 Oct 1996             -                             Table of Amendments<lf>     ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected   How affected<lf>     S. 27                am. No. 46, 1996     Schedule 3           am. No. 177, 1994<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+### <center><name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - Updated as at 25 January 1995 (HISTACT CHAP 2922 #DATE 25:1:1995) </name></center>
+</b>** *1* The Australian Capital Territory Government Service (Consequential Provisions) Act 1994 as shown in this reprint comprises Act No. 92, 1994 amended as indicated in the Tables below.<lf>                             Table of Acts<lf>     Act             Date            Date of         Application<lf>     Number and      of assent       commencement    saving or<lf>     year                                            transitional<lf>                                                     provisions<lf>     Australian Capital Territory Government Service (Consequential<lf>     Provisions) Act 1994<lf>     92, 1994        29 June 1994    1 July 1994 (see Gazette 1994<lf>                                     No. S256)<lf>     Employment Services (Consequential Amendments) Act 1994<lf>     177, 1994       19 Dec 1994     Ss. 1, 2 (1), (3) and Part 2 (ss.<lf>                                     3-8): 19 Dec 1994 (see s. 2 (1))<lf>                                     Ss. 2 (2) and 32-39: Royal Assent<lf>                                     Remainder: 1 Jan 1995 (see s. 2 (3)<lf>                                     and Gazette 1994, No. S472)<lf>                                                     -<lf>                             Table of Amendments<lf>     ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected   How affected<lf>     Schedule 3           am. No. 177, 1994<lf> #ADD 13:2:1995 </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
 **<b>
 
 ### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - TABLE OF PROVISIONS </name>
@@ -275,16 +275,10 @@
 </b>** 
 
 ## SECT
-<sect>   27\. (1) The Governor-General may make regulations providing for modifications of an Act in its application in relation to:   (a) any matter arising from, connected with, or consequential on the establishment of the Australian Capital Territory Government Service; or   (b) any matter arising from, connected with, or consequential on the amendments of the Public Service Act made by this Act. 
+<sect>   27\. (1) The Governor-General may make regulations providing for modifications of an Act in its application in relation to:<lf>   (a) any matter arising from, connected with, or consequential on the establishment of the Australian Capital Territory Government Service; or<lf>   (b) any matter arising from, connected with, or consequential on the amendments of the Public Service Act made by this Act. 
 
-  (2) Regulations may not be made under subsection (1) after the end of a period of 2 years beginning on the transfer day. 
-
-  (3) The Governor-General may make regulations providing for modifications of this Act or any other Act in its application in relation to any matter arising from or connected with, or consequential on, an ACT officer becoming an employee by or under a law of the Territory of a body corporate controlled by the Territory before, on or after the commencement of this subsection. 
-
-  (4) Regulations may not be made under subsection (3) after 30 June 1998\. 
-
-  (5) In this Section:   "Territory" means the Australian Capital Territory. 
-</sect>
+<lf>   (2) Regulations may not be made under subsection (1) after the end of a period of 2 years beginning on the transfer day. </lf>
+</lf></lf></sect>
 **<b>
 
 ### <name>AUSTRALIAN CAPITAL TERRITORY GOVERNMENT SERVICE (CONSEQUENTIAL PROVISIONS) ACT 1994 - SCHEDULE 1 </name>
