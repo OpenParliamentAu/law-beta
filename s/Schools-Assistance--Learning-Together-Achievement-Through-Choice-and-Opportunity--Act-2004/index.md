@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image001.gif)
 
 # Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Act 2004
 
 **Act No. 135 of 2004 as amended**
 
-This compilation was prepared on 12 April 2007
- taking into account amendments up to Act No. 46 of 2007
+This compilation was prepared on 13 November 2006
+ taking into account amendments up to Act No. 117 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -848,7 +848,7 @@ Note:          **_APS employee_** is defined in the _Acts Inte
 
 for the purposes of the provision of this Act in which the expression appears.
 
-##### <a id="10"></a>10  Nominated authority
+##### <a id="10"></a>10  Nominated authority
 
                    A group of non-government schools may make a written nomination to the Secretary of the Department of a body to be the **_nominated authority_** of the group for the purposes of this Act or of a particular provision or particular provisions of this Act.
 
@@ -898,7 +898,7 @@ Non-government schools
 
 ##### <a id="13"></a>13  Division does not apply in relation to financial assistance under section 69 for approved government school community organisations
 
-                   Nothing in this Division applies in relation to financial assistance paid or payable to a State under section 69 for an approved government school community organisation.
+                   Nothing in this Division applies in relation to financial assistance paid or payable to a State under section 69 for an approved government school community organisation.
 
 Note:          This kind of financial assistance is covered by agreements to which Division 3 applies.
 
@@ -1774,7 +1774,7 @@ Note:          Section 65 requires the Minister to give noti
 
 ### Division 5—Change in systemic status
 
-##### <a id="58"></a>58  Proposal for a non-systemic school to become a member of an approved school system
+##### <a id="58"></a>58  Proposal for a non-systemic school to become a member of an approved school system
 
              (1)  The approved authority of a non-systemic school may apply in writing to the Minister for approval of a proposal for the school to become a member of an approved school system.
 
@@ -2022,7 +2022,7 @@ but does not include a person, or a person included in a class of persons, deter
 
                    The Minister may make a determination authorising payment of financial assistance to a State for recurrent expenditure of government schools in the State for a program year of an amount that is not more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image002.gif)
 
 where:
 
@@ -2136,11 +2136,11 @@ School provides both primary and secondary education
 
              (4)  This subsection applies to a school if the school provides both primary and secondary education and the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image003.gif)
 
 exceeds the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image004.gif)
 
 where:
 
@@ -2323,7 +2323,7 @@ if:
 
                    For the purposes of paragraphs 78(2)(a) and 79(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image005.gif)
 
 where:
 
@@ -2333,7 +2333,7 @@ where:
 
                    For the purposes of paragraphs 78(3)(a) and 79(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image006.gif)
 
 where:
 
@@ -2383,7 +2383,7 @@ where:
 
                    For the purposes of paragraphs 82(2)(a) and 83(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image007.gif)
 
 where:
 
@@ -2393,7 +2393,7 @@ where:
 
                    For the purposes of paragraphs 82(2)(b) and 83(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image008.gif)
 
 where:
 
@@ -2425,7 +2425,7 @@ where:
 
                    For the purposes of paragraph 86(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image009.gif)
 
 where:
 
@@ -2435,7 +2435,7 @@ where:
 
                    For the purposes of paragraphs 86(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image010.gif)
 
 where:
 
@@ -2489,13 +2489,13 @@ where:
 
                    For the purposes of paragraphs 89(2)(a) and 90(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image011.gif)
 
 ##### <a id="92"></a>92  Secondary student amount
 
                    For the purposes of paragraphs 89(3)(a) and 90(3)(a), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image012.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image012.gif)
 
 #### Subdivision G—Special schools and special assistance schools
 
@@ -2541,7 +2541,7 @@ where:
 
                    For the purposes of paragraphs 93(2)(a) and 94(2)(a), work out the amount for the school’s primary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image013.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image013.gif)
 
 where:
 
@@ -2551,7 +2551,7 @@ where:
 
                    For the purposes of paragraphs 93(2)(b) and 94(2)(b), work out the amount for the school’s secondary students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image014.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image014.gif)
 
 where:
 
@@ -2563,7 +2563,7 @@ where:
 
                    For the purposes of paragraphs 78(2)(b), 79(2)(b), 82(2)(c), 83(2)(c), 86(2)(c), 89(2)(b), 90(2)(b), 93(2)(c) and 94(2)(c), work out the amount for the school’s primary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image015.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image015.gif)
 
 where:
 
@@ -2573,7 +2573,7 @@ where:
 
                    For the purposes of paragraphs 78(3)(b), 79(3)(b), 82(2)(d), 83(2)(d), 86(2)(d), 89(3)(b), 90(3)(b), 93(2)(d) and 94(2)(d), work out the amount for the school’s secondary distance education students for the program year using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image016.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image016.gif)
 
 where:
 
@@ -2609,7 +2609,7 @@ Note:          Assistance under this section is in addition to
 
              (2)  The amount determined under subsection (1) for the funded hostel and the program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image017.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image017.gif)
 
 where:
 
@@ -2655,7 +2655,7 @@ Maximum amount
 
              (4)  The amount under subsection (1) or (2) for a program year in relation to a school must not exceed the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image018.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image018.gif)
 
 where:
 
@@ -2755,7 +2755,7 @@ Note:          Section 111 sets a ceiling on grants to the S
 
              (2)  However, the total amount authorised to be paid to a State under subsection (1) for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image019.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image019.gif)
 
 where:
 
@@ -2771,7 +2771,7 @@ where:
 
              (2)  However, the total amount paid to a State under subsection (1) for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image020.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image020.gif)
 
 where:
 
@@ -2811,7 +2811,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (2)  The total amount authorised to be paid to the States under this section for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image021.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image021.gif)
 
 where:
 
@@ -2825,7 +2825,7 @@ where:
 
              (2)  The total amount authorised to be paid to the States under this section for a program year must not be more than the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image022.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image022.gif)
 
 where:
 
@@ -2899,7 +2899,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
 ### Division 1—Average Government School Recurrent Costs
 
-##### <a id="121"></a>121  Changes to Average Government School Recurrent Costs
+##### <a id="121"></a>121  Changes to Average Government School Recurrent Costs
 
              (1)  The regulations may provide that an amount specified in the regulations for a program year replaces an amount in Schedule 1 for the program year.
 
@@ -2917,7 +2917,7 @@ in the State to improve the learning outcomes of students who are educationally 
 
              (2)  The amount in Schedule 2 for primary education for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image023.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image023.gif)
 
 where:
 
@@ -2925,9 +2925,9 @@ where:
 
              (3)  Each amount opposite a percentage of AGSRC in Parts 1 and 3 of Schedule 4 for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image024.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image024.gif)
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image025.gif)          (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image025.gif)          (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
 ##### <a id="123"></a>123  Changes to amounts for secondary education
 
@@ -2935,7 +2935,7 @@ where:
 
              (2)  The amount in Schedule 2 for secondary education for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image026.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image026.gif)
 
 where:
 
@@ -2943,7 +2943,7 @@ where:
 
              (3)  Each amount opposite a percentage of AGSRC in Parts 2 and 4 of Schedule 4 for the program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image027.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image027.gif)
 
              (4)  If an amount worked out under subsection (2) or (3) is an amount of dollars and cents, the amount is to be rounded to the next higher dollar.
 
@@ -2989,7 +2989,7 @@ where:
 
 is replaced for the program year by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image028.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image028.gif)
 
 where:
 
@@ -3019,7 +3019,7 @@ where:
 
 for a program year is replaced by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00253/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image029.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00653/Html/SchoolsAssistLearnTogAchThrChandOpp2004_image029.gif)
 
 where:
 
@@ -3135,7 +3135,7 @@ where:
 
                              (ii)  a school in the approved school system;
 
-                            obtains a higher funding level for the purposes of meeting recurrent expenditure than, in the Minister’s opinion, the school may have obtained if the statement had not been made.
+                            obtains a higher funding level for the purposes of meeting recurrent expenditure than, in the Minister’s opinion, the school may have obtained if the statement had not been made.
 
              (2)  The Minister may make a determination varying the list of non-government schools by setting out:
 
@@ -3819,7 +3819,7 @@ _Note:       See section 69._
     <div>249,000</div>
   </td>
   <td>
-    <div>429,520</div>
+    <div>478,233</div>
   </td>
 </tr>
 <tr>
@@ -3833,7 +3833,7 @@ _Note:       See section 69._
     <div>249,000</div>
   </td>
   <td>
-    <div>362,380</div>
+    <div>186,667</div>
   </td>
 </tr>
 <tr>
@@ -6966,7 +6966,7 @@ _Note:       See section 99._
     <div>101,838</div>
   </td>
   <td>
-    <div>107,000</div>
+    <div>80,000</div>
   </td>
 </tr>
 <tr>
@@ -6977,10 +6977,10 @@ _Note:       See section 99._
     <div>2008</div>
   </td>
   <td>
-    <div>101,838</div>
+    <div>90,123</div>
   </td>
   <td>
-    <div>107,000</div>
+    <div>80,000</div>
   </td>
 </tr>
 <tr>
@@ -7550,7 +7550,7 @@ _Note:       See sections 115 to 120._
     <div>3,433</div>
   </td>
   <td>
-    <div>9,445</div>
+    <div>0</div>
   </td>
 </tr></table>
 
@@ -7746,23 +7746,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>4 Nov 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schools Assistance (Learning Together—Achievement Through Choice and Opportunity) Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>46, 2007</div>
-  </td>
-  <td>
-    <div>10 Apr 2007</div>
-  </td>
-  <td>
-    <div>10 Apr 2007</div>
   </td>
   <td>
     <div>—</div>
@@ -8206,7 +8189,7 @@ Div. 2 of Part 6</div>
     <div>Schedule 3</div>
   </td>
   <td>
-    <div>am. Nos. 29 and 117, 2006; No. 46, 2007</div>
+    <div>am. Nos. 29 and 117, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8222,7 +8205,7 @@ Div. 2 of Part 6</div>
     <div>Schedule 5</div>
   </td>
   <td>
-    <div>am. Nos. 29 and 117, 2006; No. 46, 2007</div>
+    <div>am. Nos. 29 and 117, 2006</div>
   </td>
 </tr>
 <tr>
@@ -8270,7 +8253,7 @@ Div. 2 of Part 6</div>
     <div>Schedule 9</div>
   </td>
   <td>
-    <div>am. No. 29, 2006; No. 46, 2007</div>
+    <div>am. No. 29, 2006</div>
   </td>
 </tr></table>
 
