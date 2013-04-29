@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00214/Html/fbe3b2a8-f8b5-4df4-81c5-d663d821e4fc_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00512/Html/AusHearingServ1991WD02_image001.gif)
 
 # Australian Hearing Services Act 1991
 
 **Act No. 169 of 1991 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 21 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -222,7 +222,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="board"></a>**_Board_** means the Board of the Authority.
 
-                    <a name="borrow"></a>**_borrowing_** includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day‑to‑day operations of the Authority or a subsidiary of the Authority.
+                    <a name="borrow"></a>**_borrowing_** includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of the Authority or a subsidiary of the Authority.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Board.
 
@@ -230,7 +230,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  in relation to a Commonwealth, State or Territory authority—the person who has the responsibility of Executive Officer or Chief Executive Officer of the authority, whether the person is a member of the authority or not; and
 
-                     (b)  in relation to any other authority or body—the person who is responsible for the day‑to‑day management of the authority or body.
+                     (b)  in relation to any other authority or body—the person who is responsible for the day-to-day management of the authority or body.
 
                     <a name="director"></a>**_Director_** means a member of the Board.
 
@@ -254,7 +254,7 @@ but does not include a decision as to the treatment that a person should receive
 
                     <a name="trust-monei"></a>**_trust money_** means money received and held by the Authority on trust.
 
-                    <a name="voucher-holder"></a>**_voucher‑holder_** has the same meaning as in the _Hearing Services Administration Act 1997_.
+                    <a name="voucher-holder"></a>**_voucher-holder_** has the same meaning as in the _Hearing Services Administration Act 1997_.
 
              (2)  The question whether a company is a subsidiary of the Authority is to be determined in the same way as the question whether a corporation is a subsidiary of another corporation is determined for the purposes of the _Corporations Act 2001_.
 
@@ -290,19 +290,19 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (1)  The Authority has the following functions:
 
-                     (a)  to provide hearing services to voucher‑holders in accordance with an agreement entered into by the Authority under Part 3 of the _Hearing Services Administration Act 1997_;
+                     (a)  to provide hearing services to voucher-holders in accordance with an agreement entered into by the Authority under Part 3 of the _Hearing Services Administration Act 1997_;
 
                     (aa)  to provide declared hearing services to young Australians;
 
-                   (ab)  to provide declared hearing services to referred Comcare clients;
+                    (ab)  to provide declared hearing services to referred Comcare clients;
 
                     (ac)  to provide declared hearing services to referred Commonwealth employees;
 
-                   (ad)  to provide declared hearing services to designated persons;
+                    (ad)  to provide declared hearing services to designated persons;
 
                      (b)  to carry out research and development (including
 
-                            co‑operative research with other institutions) into:
+                            co-operative research with other institutions) into:
 
                               (i)  assessment of hearing; and
 
@@ -414,7 +414,7 @@ Note:          For specification by class, see subsection 46(2
 
                     (aa)  appoint agents and attorneys and act as agent for other persons; and
 
-                   (ab)  accept gifts, grants, bequests and devises made to it; and
+                    (ab)  accept gifts, grants, bequests and devises made to it; and
 
                      (b)  acquire, hold and dispose of real or personal property; and
 
@@ -550,9 +550,9 @@ Note:          For specification by class, see subsection 46(2
 
              (1)  Subject to subsection (2), an appointed Director:
 
-                     (a)  is to be appointed on a part‑time basis; and
+                     (a)  is to be appointed on a part-time basis; and
 
-                     (b)  holds office for such period (not exceeding 5 years) as is specified in the instrument of appointment, but is eligible for re‑appointment.
+                     (b)  holds office for such period (not exceeding 5 years) as is specified in the instrument of appointment, but is eligible for re-appointment.
 
              (2)  Each special purpose Director:
 
@@ -738,7 +738,7 @@ Note:          For specification by class, see subsection 46(2
 
              (1)  There is to be a Managing Director of the Authority, who is to be appointed by the Minister after receiving a recommendation from the Board.
 
-             (2)  Subject to this Part, a person appointed as Managing Director holds office for the period, not exceeding 5 years, specified in the instrument of appointment, but is eligible for re‑appointment.
+             (2)  Subject to this Part, a person appointed as Managing Director holds office for the period, not exceeding 5 years, specified in the instrument of appointment, but is eligible for re-appointment.
 
 ##### <a id="42"></a>42  Duties of Managing Director
 
@@ -928,7 +928,7 @@ are guaranteed by the Commonwealth, the obligations become so guaranteed.
 
                              (ii)  in any manner in which trust money may be lawfully invested.
 
-##### <a id="62"></a>62  Charges
+##### <a id="62"></a>62  Charges
 
              (1)  The regulations may provide for charges to be payable to the Authority for:
 
@@ -1066,7 +1066,7 @@ and was so registered, or was registered under the _Designs Act 1906_, at the pr
 
                      (a)  was using the relevant name or symbol in good faith in that manner; or
 
-                     (b)  would have been entitled to prevent another person from passing off, by means of the use of the relevant name or symbol or a similar name or symbol, goods or services as the goods or services of the first‑mentioned person.
+                     (b)  would have been entitled to prevent another person from passing off, by means of the use of the relevant name or symbol or a similar name or symbol, goods or services as the goods or services of the first-mentioned person.
 
              (5)  In this section:
 
@@ -1122,7 +1122,7 @@ and was so registered, or was registered under the _Designs Act 1906_, at the pr
 
                      (c)  to the Chief Officer of any other authority or body for the purpose of enabling that authority or body to perform any arrangements made with the Authority under paragraph 68(c).
 
-             (8)  A person to whom information is disclosed under subsection (7) and any person under the control of the first‑mentioned person to whom that information is disclosed for the purposes of an arrangement under section 68, must not, directly or indirectly, except for the purposes of that arrangement, disclose the information to any person while the person is, or after the person ceases to be, such a person.
+             (8)  A person to whom information is disclosed under subsection (7) and any person under the control of the first-mentioned person to whom that information is disclosed for the purposes of an arrangement under section 68, must not, directly or indirectly, except for the purposes of that arrangement, disclose the information to any person while the person is, or after the person ceases to be, such a person.
 
                     Penalty:  Imprisonment for 2 years.
 
@@ -1130,7 +1130,7 @@ and was so registered, or was registered under the _Designs Act 1906_, at the pr
 
           (8B)  Despite subsection (1), information may be disclosed:
 
-                     (a)  to the Minister, to the Secretary of the Department, or to any other officer of the Department, for the purposes of the administration of the _Hearing Services Administration Act 1997_; or
+                     (a)  to the Minister, to the Secretary to the Department, or to any other officer of the Department, for the purposes of the administration of the _Hearing Services Administration Act 1997_; or
 
                      (b)  to the chief executive officer (however described) of a body, or to a member of the staff of a body, for the purposes of the performance of any functions, or the exercise of any powers, conferred on the body by section 21 of the _Hearing Services Administration Act 1997_.
 
@@ -1162,7 +1162,7 @@ for:
 
                    The Minister may, by signed instrument, delegate all or any of the powers of the Minister under sections 67, 72, 73, 74, 75 and 76 to:
 
-                     (a)  the person holding or performing the duties of the office of Secretary of the Department; or
+                     (a)  the person holding or performing the duties of the office of Secretary to the Department; or
 
                      (b)  an SES employee or acting SES employee in the Department or the Authority; or
 
@@ -1204,7 +1204,7 @@ the following provisions have effect.
 
              (4)  Where the interest of the Commonwealth is of such a kind that it is not held from another person, the transfer has effect as a grant to the Authority of an estate in fee simple.
 
-             (5)  The Minister must cause to be lodged with the Registrar‑General, Registrar of Titles or other appropriate officer of the relevant State or Territory a copy of the notice, certified in writing signed by an officer of the Department authorised by the Minister for the purpose.
+             (5)  The Minister must cause to be lodged with the Registrar-General, Registrar of Titles or other appropriate officer of the relevant State or Territory a copy of the notice, certified in writing signed by an officer of the Department authorised by the Minister for the purpose.
 
              (6)  The officer with whom a copy is lodged may register the transfer as nearly as possible as if it were a dealing in land and may deal with and give effect to the copy as if it were a grant or conveyance duly executed under the laws in force in the relevant State or Territory.
 
@@ -1220,7 +1220,7 @@ the following provisions have effect.
 
                      (c)  that thing was not done by the Commonwealth before the commencement of this Act;
 
-there is payable to the Authority by the Commonwealth an amount that the Minister, having regard to all matters that he or she considers relevant, determines in writing as being payable because of the receipt of the first‑mentioned amount.
+there is payable to the Authority by the Commonwealth an amount that the Minister, having regard to all matters that he or she considers relevant, determines in writing as being payable because of the receipt of the first-mentioned amount.
 
 ##### <a id="75"></a>75  Rights etc. in respect of services and facilities formerly provided by Department
 
@@ -1262,7 +1262,7 @@ has effect after the transfer as if, to the extent to which the contract or inst
 
 ##### <a id="77"></a>77  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act:
 
                      (a)  prescribing matters required or permitted by this Act to be prescribed; and
 
@@ -1306,13 +1306,13 @@ For access to the wording of the amendments made by this section, _see_ Act No.�
 
 _Section 66_
 
-![](http://www.comlaw.gov.au/Details/C2011C00214/Html/fbe3b2a8-f8b5-4df4-81c5-d663d821e4fc_files/image002.jpg)
+![](http://www.comlaw.gov.au/Details/C2006C00512/Html/AusHearingServ1991WD02_image002.jpg)
 
 # Schedule 2—Official symbol of Australian Hearing Services 
 
 _Section 66_
 
-![](http://www.comlaw.gov.au/Details/C2011C00214/Html/fbe3b2a8-f8b5-4df4-81c5-d663d821e4fc_files/image003.jpg)
+![](http://www.comlaw.gov.au/Details/C2006C00512/Html/AusHearingServ1991WD02_image003.jpg)
 
 # Notes to the _Australian Hearing Services Act 1991_
 
@@ -1673,23 +1673,6 @@ Royal Assent</div>
     <div>Sch. 6 (items 
 5–11)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 19): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Hearing Services Act 1991_ was amended by Part 5 (sections 46–48) only of the _Health, Housing and Community Services Legislation Amendment Act 1992_, subsection 2(5) of which provides as follows: 
@@ -1702,7 +1685,7 @@ _(a)_     The _Australian Hearing Services Act 1991_ was amended by Part
 
          The _Australian Hearing Services Act 1991_ came into operation on 1 July 1992\. 
 
-_(b)_     The _Australian Hearing Services Act 1991_ was amended by section 18 only of the _Social Security Legislation Amendment Act (No. 2) 1993_, subsection 2(5) of which provides as follows: 
+_(b)_    The _Australian Hearing Services Act 1991_ was amended by section 18 only of the _Social Security Legislation Amendment Act (No. 2) 1993_, subsection 2(5) of which provides as follows: 
 
                  (5)   Part 3 commences on 1 July 1994.
 
@@ -2395,7 +2378,7 @@ _(k)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
     <div>S. 67</div>
   </td>
   <td>
-    <div>am. No. 82, 1997; No. 146, 1999; No. 5, 2011</div>
+    <div>am. No. 82, 1997; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2411,7 +2394,7 @@ _(k)_     Subsection 2(1) (item 2) of the _Designs (Consequential Amen
     <div>S. 69</div>
   </td>
   <td>
-    <div>am. No. 82, 1997; No. 146, 1999; No. 5, 2011</div>
+    <div>am. No. 82, 1997; No. 146, 1999</div>
   </td>
 </tr>
 <tr>
@@ -2471,15 +2454,15 @@ _Note 2:    This item alters the name of an office. Section 25B of the A
 
 ## 92  Transitional—Authority may continue to provide hearing services to eligible persons for up to 6 months
 
-(1)       The Minister may, by writing, determine that, despite the eligible person amendments made by this Schedule, the Hearing Services Act 1991 continues to apply, until the specified time, in relation to the provision by the Authority of hearing services to specified eligible persons in specified circumstances, as if those amendments had not been made.
+(1)        The Minister may, by writing, determine that, despite the eligible person amendments made by this Schedule, the Hearing Services Act 1991 continues to apply, until the specified time, in relation to the provision by the Authority of hearing services to specified eligible persons in specified circumstances, as if those amendments had not been made.
 
 _Note:       For specification by class, see subsection 46(2) of the Acts Interpretation Act 1901._
 
-(2)       The time specified in the determination must not be later than 31  December 1997.
+(2)        The time specified in the determination must not be later than 31  December 1997.
 
-(3)       A determination under subitem (1) is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
+(3)        A determination under subitem (1) is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
 
-(4)       In this item:
+(4)        In this item:
 
                     <a name="elig-person-amend"></a>**_eligible person amendments_** means:
 
@@ -2497,9 +2480,9 @@ _Note:       For specification by class, see subsection 46(2) of the
 
 ## 94  Transitional—transfer of certain Authority liabilities to the Commonwealth
 
-(1)       This item applies to a liability of the Authority that was incurred before 1 July 1997 under an arrangement under paragraph 8(1)(d) of the Hearing Services Act 1991.
+(1)        This item applies to a liability of the Authority that was incurred before 1 July 1997 under an arrangement under paragraph 8(1)(d) of the Hearing Services Act 1991.
 
-(2)       The Minister may, by writing, make any or all of the following declarations:
+(2)        The Minister may, by writing, make any or all of the following declarations:
 
                      (a)  a declaration that a specified liability ceases to be a liability of the Authority and becomes a liability of the Commonwealth at the beginning of 1 July 1997;
 
@@ -2509,13 +2492,13 @@ _Note:       For specification by class, see subsection 46(2) of the
 
 Note:       A liability or instrument may be specified by name, by inclusion in a specified class or in any other way.
 
-(3)       A declaration under subitem (2) has effect accordingly.
+(3)        A declaration under subitem (2) has effect accordingly.
 
-(4)       A declaration under subitem (2) must not be made after 31 December 1997.
+(4)        A declaration under subitem (2) must not be made after 31 December 1997.
 
-(5)       A copy of a declaration under subitem (2) is to be published in the Gazette within 14 days after the making of the declaration.
+(5)        A copy of a declaration under subitem (2) is to be published in the Gazette within 14 days after the making of the declaration.
 
-(6)       If a declaration is in force under subitem (2), regulation 3H of the Health Insurance Commission Regulations has effect as if:
+(6)        If a declaration is in force under subitem (2), regulation 3H of the Health Insurance Commission Regulations has effect as if:
 
                      (a)  the reference in subregulation 3H(2) of those regulations to Authority included a reference to the Commonwealth; and
 
@@ -2539,7 +2522,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
-(1)       Any thing that:
+(1)        Any thing that:
 
                      (a)  was done by the Treasurer, or by a delegate of the Treasurer, before the commencing time under an affected provision; and
 
@@ -2547,7 +2530,7 @@ _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
 continues to have effect after the commencing time as if it had been done by the Finance Minister under the affected provision.
 
-(2)       In this item:
+(2)        In this item:
 
 **_affected provision_** means a provision that is amended by an item in this Schedule so as to replace references to the Treasurer with references to the Finance Minister.
 
@@ -2588,17 +2571,17 @@ Even though an Act is repealed or amended by this Act, the repeal or amendment i
 
 in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
 
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998‑99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
+Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
 
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998‑99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
+                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
 
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998‑99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
+                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
 
                    Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
 
                    Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
 
-Example 2: During the 1997‑98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
+Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
 
                    Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
 
@@ -2629,5 +2612,7 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+
+ 
 
  
