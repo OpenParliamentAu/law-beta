@@ -1,158 +1,161 @@
-![](http://www.comlaw.gov.au/Details/C2006C00524/Html/AustNationalMaritimeMuseum90WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00556/Html/C84B86D2F1F9BD07CA25707000192233/$FILE/image001.gif)
 
 # Australian National Maritime Museum Act 1990
 
 **Act No. 90 of 1990 as amended**
 
-This compilation was prepared on 25 September 200 6 
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 2 September 2005 
+taking into account amendments up to Act No. 110 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Extension to external Territories
+[4](#4).            Extension to external Territories                                                          3
 
 **Part 2—The Australian National Maritime Museum**
 
-[5](#5).            Establishment of Museum
+[5](#5).            Establishment of Museum                                                                   4
 
-[6](#6).            Functions of Museum
+[6](#6).            Functions of Museum                                                                         4
 
-[7](#7).            Powers of Museum
+[7](#7).            Powers of Museum                                                                             5
 
-[8](#8).            Land etc  for Museum
+[8](#8).            Land etc  for Museum                                                                         7
 
-[9](#9).            National maritime collection
+[9](#9).            National maritime collection                                                                8
 
-[10](#10).          Disposal of material in national maritime collection
+[10](#10).          Disposal of material in national maritime collection                            8
 
 **Part 3—The Council of the Museum** 
 
     **Division 1—Establishment, functions etc. of Council**
 
-[11](#11).          Establishment of Council
+[11](#11).          Establishment of Council                                                                   10
 
-[12](#12).          Functions of Council
+[12](#12).          Functions of Council                                                                         10
 
-[13](#13).          Council may give directions to Director
+[13](#13).          Council may give directions to Director                                            10
 
-[14](#14).          Directions to Council
+[14](#14).          Directions to Council                                                                         10
 
-[15](#15).          Committees of Council
+[15](#15).          Committees of Council                                                                      11
 
-[16](#16).          Delegation by Council
+[16](#16).          Delegation by Council                                                                       11
 
     **Division 2—Membership and meetings of Council**
 
-[17](#17).          Membership of Council
+[17](#17).          Membership of Council                                                                     12
 
-[18](#18).          Acting members
+[18](#18).          Acting members                                                                                 12
 
-[19](#19).          Leave of absence
+[19](#19).          Leave of absence                                                                                13
 
-[20](#20).          Resignation
+[20](#20).          Resignation                                                                                        13
 
-[21](#21).          Termination of appointment
+[21](#21).          Termination of appointment                                                             14
 
-[23](#23).          Meetings of Council
+[23](#23).          Meetings of Council                                                                          14
 
-[24](#24).          Remuneration and allowances
+[24](#24).          Remuneration and allowances                                                            16
 
     **Division 3—Strategic plans and annual operational plans**
 
-[25](#25).          Strategic plans
+[25](#25).          Strategic plans                                                                                    17
 
-[26](#26).          Approval and commencement of strategic plans
+[26](#26).          Approval and commencement of strategic plans                               17
 
-[27](#27).          Variation of strategic plans
+[27](#27).          Variation of strategic plans                                                                17
 
-[28](#28).          Annual operational plans
+[28](#28).          Annual operational plans                                                                   18
 
-[29](#29).          Compliance with plans
+[29](#29).          Compliance with plans                                                                      19
 
 **Part 4—The Director of the Museum**
 
-[30](#30).          Director
+[30](#30).          Director                                                                                              20
 
-[31](#31).          Duties of Director
+[31](#31).          Duties of Director                                                                              20
 
-[32](#32).          Director not to engage in other work
+[32](#32).          Director not to engage in other work                                                 20
 
-[33](#33).          Remuneration and allowances
+[33](#33).          Remuneration and allowances                                                            20
 
-[34](#34).          Leave of absence
+[34](#34).          Leave of absence                                                                                21
 
-[35](#35).          Resignation
+[35](#35).          Resignation                                                                                        21
 
-[36](#36).          Termination of appointment
+[36](#36).          Termination of appointment                                                             21
 
-[37](#37).          Disclosure of interests
+[37](#37).          Disclosure of interests                                                                       22
 
-[38](#38).          Acting Director
+[38](#38).          Acting Director                                                                                  22
 
-[39](#39).          Delegation by Director
+[39](#39).          Delegation by Director                                                                      22
 
 **Part 5—Staff and Consultants**
 
-[40](#40).          Staff
+[40](#40).          Staff                                                                                                   23
 
-[41](#41).          Arrangements relating to staff
+[41](#41).          Arrangements relating to staff                                                           23
 
-[42](#42).          Engagement of consultants
+[42](#42).          Engagement of consultants                                                                23
 
 **Part 6—Finance**
 
-[43](#43).          Appropriation of money
+[43](#43).          Appropriation of money                                                                   24
 
-[44](#44).          Australian National Maritime Museum Fund
+[44](#44).          Australian National Maritime Museum Fund                                   24
 
-[45](#45).          Application of money
+[45](#45).          Application of money                                                                       24
 
-[47](#47).          Contracts
+[47](#47).          Contracts                                                                                           25
 
-[48](#48).          Extra matters to be included in annual report
+[48](#48).          Extra matters to be included in annual report                                    25
 
-[49](#49).          Exemption from taxation
+[49](#49).          Exemption from taxation                                                                   26
 
 **Part 7—Miscellaneous**
 
-[50](#50).          Trust money etc 
+[50](#50).          Trust money etc                                                                                27
 
-[51](#51).          Limits on charges
+[51](#51).          Limits on charges                                                                               27
 
-[52](#52).          Operation of certain other laws not affected
+[52](#52).          Operation of certain other laws not affected                                     27
 
-[53](#53).          Supply of liquor
+[53](#53).          Supply of liquor                                                                                28
 
-[54](#54).          Regulations
+[54](#54).          Regulations                                                                                        28
 
 **Notes** 
+
 
 ## An Act to establish the Australian National Maritime Museum
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Australian__National__Maritime__Museum__Act 1990_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act commences:
 
@@ -190,7 +193,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
-                    <a name="council"></a>**_Council_** means the Council of the Australian National  Maritime Museum established by section 11.
+                    <a name="council"></a>**_Council_** means the Council of the Australian National Maritime Museum established by section 11.
 
                     <a name="director"></a>**_Director_** means the Director of the Museum.
 
@@ -202,7 +205,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="monei-museum"></a>**_money of the Museum_** includes money standing to the credit of the Fund.
 
-                    <a name="museum"></a>**_Museum_** means the Australian National Maritime  Museum established by section 5.
+                    <a name="museum"></a>**_Museum_** means the Australian National Maritime Museum established by section 5.
 
                     <a name="nation-maritim-collect"></a>**_national maritime collection_** means the national collection of maritime historical material referred to in subsection 9 (1).
 
@@ -784,7 +787,9 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
 ##### <a id="49"></a>49  Exemption from taxation
 
-                   The Museum is not subject to taxation under any law of the Commonwealth or of a State or Territory.
+             (1)  The Museum is not subject to taxation under any law of the Commonwealth or of a State or Territory.
+
+             (2)  In particular, sales tax is not payable by the Museum, or by any other person, on goods that are for use by the Museum.
 
 ## Part 7—Miscellaneous
 
@@ -842,6 +847,7 @@ and, in particular, may make regulations:
 
                     <a name="museum-premis"></a>**_Museum premises_** means an area of land or water, or a building, structure or vessel, being an area, or a building, structure or vessel, as the case may be, that is owned by, or under the control of, the Museum. 
 
+
 # Notes to the _Australian National Maritime Museum Act 1990_
 
 ### Note 1
@@ -869,11 +875,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td colspan="2">
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -883,219 +891,204 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Australian National Maritime Museum Act 1990</div>
-  </td>
-  <td colspan="2">
-    <div>90, 1990</div>
-  </td>
-  <td>
-    <div>20 Nov 1990</div>
-  </td>
-  <td>
-    <div>20 Dec 1990</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
-  </td>
-  <td colspan="2">
-    <div>179, 1991</div>
-  </td>
-  <td>
-    <div>25 Nov 1991</div>
-  </td>
-  <td>
-    <div>25 Nov 1991</div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sales Tax Amendment (Transitional) Act 1992</div>
-  </td>
-  <td colspan="2">
-    <div>118, 1992</div>
-  </td>
-  <td>
-    <div>30 Sept 1992</div>
-  </td>
-  <td>
-    <div>28 Oct 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act 1993</div>
-  </td>
-  <td colspan="2">
-    <div>17, 1993</div>
-  </td>
-  <td>
-    <div>9 June 1993</div>
-  </td>
-  <td>
-    <div>Part 4 (ss. 60, 61): <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 1997</div>
-  </td>
-  <td colspan="2">
-    <div>1, 1997</div>
-  </td>
-  <td>
-    <div>19 Feb 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 6–8): Royal Assent <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td colspan="2">
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 375–388): 1 Jan 1998 (see <i>Gazette</i>1997, No. GN49) <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td colspan="2">
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 211–215): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td colspan="2">
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (items 42–44): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td colspan="2">
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arts Legislation Amendment (Maritime Museum and Film, Television and Radio School) Act 2005</div>
-  </td>
-  <td>
-    <div>110, 2005</div>
-  </td>
-  <td colspan="2">
-    <div>31 Aug 2005</div>
-  </td>
-  <td>
-    <div>31 Aug 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td colspan="2">
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 23, 24) and Schedule 6 (items 5–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 
-5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Australian National Maritime Museum Act 1990</div>
+    </td>
+    <td colspan="2">
+      <div>90, 1990</div>
+    </td>
+    <td>
+      <div>20 Nov 1990</div>
+    </td>
+    <td>
+      <div>20 Dec 1990</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts, Sport, Environment, Tourism and Territories Legislation Amendment Act (No. 2) 1991</div>
+    </td>
+    <td colspan="2">
+      <div>179, 1991</div>
+    </td>
+    <td>
+      <div>25 Nov 1991</div>
+    </td>
+    <td>
+      <div>25 Nov 1991</div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sales Tax Amendment (Transitional) Act 1992</div>
+    </td>
+    <td colspan="2">
+      <div>118, 1992</div>
+    </td>
+    <td>
+      <div>30 Sept 1992</div>
+    </td>
+    <td>
+      <div>28 Oct 1992</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act 1993</div>
+    </td>
+    <td colspan="2">
+      <div>17, 1993</div>
+    </td>
+    <td>
+      <div>9 June 1993</div>
+    </td>
+    <td>
+      <div>Part 4 (ss. 60, 61): <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Legislation Amendment Act (No. 1) 1997</div>
+    </td>
+    <td colspan="2">
+      <div>1, 1997</div>
+    </td>
+    <td>
+      <div>19 Feb 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 6–8): Royal Assent <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td colspan="2">
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 375–388): 1 Jan 1998 (see <i>Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td colspan="2">
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 211–215): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td colspan="2">
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div>24 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (items 42–44): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td colspan="2">
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arts Legislation Amendment (Maritime Museum and Film, Television and Radio School) Act 2005</div>
+    </td>
+    <td>
+      <div>110, 2005</div>
+    </td>
+    <td colspan="2">
+      <div>31 Aug 2005</div>
+    </td>
+    <td>
+      <div>31 Aug 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Sales Tax Amendment (Transitional) Act 1992_ was amended by Part 4 (sections 60 and 61) only of the _Taxation Laws Amendment Act 1993_, subsection 2(2) of which provides as follows: 
 
@@ -1108,23 +1101,24 @@ _(b)_    The _Australian__National__Maritime__Museum__Act 1990_ was amende
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
 _(c)_     The _Australian__National__Maritime__Museum__Act 1990_ was amended by Schedule 2 (items 
- 375–388) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+375–388) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
 _(d)_     The _Australian__National__Maritime__Museum__Act 1990_ was amended by Schedule 2 (items 
- 211–215) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+211–215) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
 _(e)_     The _Australian__National__Maritime__Museum__Act 1990_ was amended by Schedule 2 (items 
- 42–44) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+42–44) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12.
+
 
 ## Table of Amendments
 
@@ -1149,278 +1143,281 @@ _(e)_     The _Australian__National__Maritime__Museum__Act 1990_ was ame
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1991; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5(2)</div>
-  </td>
-  <td>
-    <div>am. No 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1991; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1991; No. 1, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>rs. No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1991; No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 179, 1991; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 48</div>
-  </td>
-  <td>
-    <div>rs. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>rs. No. 179, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992 (as am. by No. 17, 1993); No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 110, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1991; No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 5(2)</div>
+    </td>
+    <td>
+      <div>am. No 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 110, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1991; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1991; No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1991; No. 1, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 159, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>rs. No. 179, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1991; No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 179, 1991; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 48</div>
+    </td>
+    <td>
+      <div>rs. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>rs. No. 179, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 118, 1992 (as am. by No. 17, 1993)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>am. No. 110, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1434,79 +1431,5 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No.�
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
 
-* * *
-
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 5  Application of Schedule 5 amendments
-
-The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
  
