@@ -1,7 +1,7 @@
 
 Superannuation Contributions Tax (Assessment and Collection) Act 1997
 Act No. 70 of 1997 as amended
-This compilation was prepared on 5 January 2004 taking into account amendments up to Act No. 142 of 2003
+This compilation was prepared on 19 November 2003 taking into account amendments up to Act No. 111 of 2003
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -9,7 +9,7 @@ Prepared by the Office of Legislative Drafting, Attorney‑General’s Departm
   
   
 Contents
-Part 1—Preliminary	1
+Part 1—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Act to bind Crown	1
@@ -21,53 +21,53 @@ Part 2—Liability to surcharge and advance instalments	4
 7A	Adjusted taxable income—first case	5
 7B	Adjusted taxable income—second case	6
 8	Surchargeable contributions	9
-8A	Holder of surchargeable contributions of a member	14
-9	Surcharge threshold	15
-10	Liability to pay surcharge	17
-10A	Payment splits or interest splits on marriage breakdown	18
-11	Advance instalment of superannuation contributions surcharge	19
-12	Liability to pay advance instalment	19
-Part 3—Assessment and collection of surcharge and advance instalments	21
-13	Superannuation providers to give statements	21
-14	Giving of information in certain form	25
-14A	Commissioner may require member to provide information as to the holder of the member’s surchargeable contributions	26
-15	Assessment of liability to pay surcharge and determination of advance instalment	26
-15A	Self‑assessing superannuation providers	29
-15B	Statement etc. by self‑assessing superannuation provider	30
-16	Deferment of liability for surcharge payable by superannuation (unfunded defined benefits) providers	32
-17	Credit or refund of advance instalment	34
-17A	Periods within which assessments may be made	35
-18	Amendment of assessment if tax file number quoted or found out after assessment	39
-19	Amendment of assessments	39
-20	Assessment of liability to additional surcharge	41
-21	Payment of the general interest charge if liability increased by an amendment of an assessment	43
-22	Payment of general interest charge if surcharge payable under a further assessment	44
-23	Tax file numbers	44
-24	Objections against assessments	45
-Part 4—Recovery of unpaid surcharge, advance instalment, general interest charge or late payment penalty	47
-25	Penalty for non‑payment of surcharge or advance instalment	47
-25A	Additional liability to pay general interest charge	48
-Part 5—Administration	49
-30	General administration of Act	49
-31	Annual report	49
-32	Secrecy	49
-Part 6—Miscellaneous	53
-33	No amount payable by Commonwealth under this Act	53
-34	Act not to operate so as to contravene Constitution	53
-34A	Exclusion of certain members	53
-35	Information to be given to Commissioner by superannuation provider who pays surcharge or advance instalment	53
-35B	Prohibition of avoidance schemes	54
-35A	Contravention notices	54
-36	Authorised officers	56
-37	Evidence	56
-38	Access to premises etc.	57
-39	Obtaining information and evidence	58
-40	Records to be kept and retained by superannuation provider	59
-41	Application of the Criminal Code	60
-42	Regulations	60
-Part 7—Interpretation	62
-43	Definitions	62
-Notes	71
+8A	Holder of surchargeable contributions of a member	12
+9	Surcharge threshold	14
+10	Liability to pay surcharge	16
+10A	Payment splits or interest splits on marriage breakdown	17
+11	Advance instalment of superannuation contributions surcharge	18
+12	Liability to pay advance instalment	18
+Part 3—Assessment and collection of surcharge and advance instalments	20
+13	Superannuation providers to give statements	20
+14	Giving of information in certain form	24
+14A	Commissioner may require member to provide information as to the holder of the member’s surchargeable contributions	25
+15	Assessment of liability to pay surcharge and determination of advance instalment	25
+15A	Self‑assessing superannuation providers	28
+15B	Statement etc. by self‑assessing superannuation provider	29
+16	Deferment of liability for surcharge payable by superannuation (unfunded defined benefits) providers	31
+17	Credit or refund of advance instalment	33
+17A	Periods within which assessments may be made	34
+18	Amendment of assessment if tax file number quoted or found out after assessment	38
+19	Amendment of assessments	38
+20	Assessment of liability to additional surcharge	40
+21	Payment of the general interest charge if liability increased by an amendment of an assessment	42
+22	Payment of general interest charge if surcharge payable under a further assessment	43
+23	Tax file numbers	43
+24	Objections against assessments	44
+Part 4—Recovery of unpaid surcharge, advance instalment, general interest charge or late payment penalty	46
+25	Penalty for non‑payment of surcharge or advance instalment	46
+25A	Additional liability to pay general interest charge	47
+Part 5—Administration	48
+30	General administration of Act	48
+31	Annual report	48
+32	Secrecy	48
+Part 6—Miscellaneous	52
+33	No amount payable by Commonwealth under this Act	52
+34	Act not to operate so as to contravene Constitution	52
+34A	Exclusion of certain members	52
+35	Information to be given to Commissioner by superannuation provider who pays surcharge or advance instalment	52
+35B	Prohibition of avoidance schemes	53
+35A	Contravention notices	53
+36	Authorised officers	55
+37	Evidence	55
+38	Access to premises etc.	56
+39	Obtaining information and evidence	57
+40	Records to be kept and retained by superannuation provider	58
+41	Application of the Criminal Code	59
+42	Regulations	59
+Part 7—Interpretation	61
+43	Definitions	61
+Notes	69
 
 An Act relating to the assessment and collection of superannuation contributions tax, and for related purposes
 Part 1—Preliminary
@@ -124,7 +124,7 @@ No surcharge is payable if surcharge is payable under another Act
 	(ii)	that were so included under section 26AC or under subsection 26AD(2), (3) or (4) of the Income Tax Assessment Act in respect of a bona fide redundancy amount, an early retirement scheme amount or an invalidity amount as defined in section 159S of that Act; and
 	(b)	in respect of the financial year beginning on 1 July 1996 or the following financial year—the amount (if any) by which the amount worked out under paragraph (a) would be increased if it were instead worked out ignoring subsection 271‑105(1) of Schedule 2F to the Income Tax Assessment Act; and
 	(c)	in respect of the financial year beginning on 1 July 1998 or a later financial year—the amount (if any) by which the amount worked out under paragraph (a) would be increased if it were instead worked out ignoring paragraphs 102UK(2)(b) and 102UM(2)(b) of, and subsection 271‑105(1) of Schedule 2F to, the Income Tax Assessment Act; and
-	(d)	the member’s surchargeable contributions for the financial year, worked out ignoring subsection 8(8) of this Act and subsection 9(9) of the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997; and
+	(d)	the member’s surchargeable contributions for the financial year; and
 	(e)	in respect of a financial year beginning on or after 1 July 1999—if the member is an employee (within the meaning of the Fringe Benefits Tax Assessment Act 1986) who has a reportable fringe benefits total (as defined in that Act) for the year of income comprising the financial year—the reportable fringe benefits total for the year of income.
 7B  Adjusted taxable income—second case
 	(1)	This section applies to a member for a financial year if:
@@ -150,7 +150,7 @@ No surcharge is payable if surcharge is payable under another Act
 	(ii)	so much of the part of the payment that was rolled‑over after 30 June 1997 as would have been included in that taxable income if that part of the payment had not been rolled‑over.
 		post‑20 August 1996 period means the number of days in the period of the member’s employment for which the eligible termination payment was made that occurred after 20 August 1996.
 		total period means the number of days in the period of the member’s employment for which the eligible termination payment was made; and
-	(e)	the member’s surchargeable contributions for the financial year, worked out ignoring subsection 8(8) of this Act and subsection 9(9) of the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997, less any amounts included in those surchargeable contributions because of subparagraph 8(2)(c)(iii); and
+	(e)	the member’s surchargeable contributions for the financial year less any amounts included in those surchargeable contributions because of subparagraph 8(2)(c)(iii); and
 	(f)	in respect of a financial year beginning on or after 1 July 1999—if the member is an employee (within the meaning of the Fringe Benefits Tax Assessment Act 1986) who has a reportable fringe benefits total (as defined in that Act) for the year of income comprising the financial year—the reportable fringe benefits total for the year of income.
 8  Surchargeable contributions
 Application
@@ -191,20 +191,6 @@ Regulations
 	(6)	Regulations made for the purposes of paragraph (5)(a) may specify, or make provision for the Commissioner to specify in writing, different methods in relation to different superannuation schemes, different classes of superannuation schemes or different classes of members of a superannuation scheme.
 Transitional provision for 1996‑97 financial year
 	(7)	For the 1996‑97 financial year, a member’s surchargeable contributions are to be worked out only for the part of that financial year that started immediately after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996.
-Reduced surchargeable contributions
-	(8)	The amount of the surchargeable contributions of a member for a financial year is the amount worked out under subsection (2) or (3) (as appropriate), reduced by the amount worked out under subsection (9), if:
-	(a)	an eligible termination payment is made to the member in the financial year from the superannuation fund, approved deposit fund or RSA; and
-	(b)	the eligible termination payment has an excessive component.
-	(9)	The amount of the reduction is worked out as follows:
-Amount of the reduction
-Step 1.	Work out the amount that would have been the taxed element of the retained amount of the post‑June 83 component of the eligible termination payment if the amount of the excessive component of the eligible termination payment had been nil.
-Step 2.	Work out the taxed element of the retained amount of the post‑June 83 component of the eligible termination payment.
-Step 3.	Subtract the result of step 2 from the result of step 1.
-Step 4.	Divide the result of step 3 by 0.85.
-Step 5.	Subtract the result of step 3 from the result of step 4.
-Step 6.	Add the result of step 5 to the excessive component of the eligible termination payment.
-Step 7.	Identify the amount of the surchargeable contributions (apart from subsection (8)) of the member reported for the financial year by the entity that paid the eligible termination payment.
-Step 8.	Identify the lesser of the results of steps 6 and 7 (or either result if they are the same).
 8A  Holder of surchargeable contributions of a member
 Application
 	(1)	This section explains who is to be regarded as the holder of the surchargeable contributions of a member for a particular financial year in respect of which surcharge is payable on those contributions.
@@ -881,7 +867,6 @@ Deputy Commissioner means the Deputy Commissioner of Taxation.
 determination means a determination made under subsection 15(2).
 eligible actuary means a Fellow or Accredited Member of the Institute of Actuaries of Australia.
 eligible termination payment has the same meaning as in Subdivision AA of Division 2 of Part III of the Income Tax Assessment Act.
-excessive component of an eligible termination payment has the meaning given by subsection 27A(1) of the Income Tax Assessment Act.
 exempt public sector superannuation scheme has the same meaning as in section 10 of the Superannuation Industry (Supervision) Act 1993.
 funded defined benefits superannuation scheme means a defined benefits superannuation scheme that is not an unfunded defined benefits superannuation scheme.
 general interest charge means the charge worked out under Division 1 of Part IIA of the Taxation Administration Act 1953.
@@ -900,7 +885,6 @@ notification date means:
 	(c)	for a later financial year:
 	(i)	if the relevant superannuation provider is a self‑assessing superannuation provider for the financial year—the date determined by the Commissioner in relation to the provider for the financial year under section 15A; or
 	(ii)	otherwise—31 October following the financial year.
-post‑June 83 component of an eligible termination payment has the meaning given by section 27AA of the Income Tax Assessment Act.
 public sector superannuation scheme means a scheme for the payment of superannuation, retirement or death benefits, where the scheme is established:
 	(a)	by or under a law of the Commonwealth, a law of a State or a law of a Territory; or
 	(b)	under the authority of:
@@ -908,7 +892,6 @@ public sector superannuation scheme means a scheme for the payment of superannua
 	(ii)	a municipal corporation, another local governing body or a public authority constituted by or under a law of the Commonwealth, a law of a State or a law of a Territory.
 registered organisation has the same meaning as in Division 8A of Part III of the Income Tax Assessment Act.
 regulated superannuation fund has the same meaning as in the Superannuation Industry (Supervision) Act 1993.
-retained amount of the post‑June 83 component of an eligible termination payment has the meaning given by section 27AC of the Income Tax Assessment Act.
 rolled‑over has the meaning given by paragraph 27A(13)(a) of the Income Tax Assessment Act.
 RSA has the same meaning as in the Retirement Savings Accounts Act 1997.
 RSA provider has the same meaning as in the Retirement Savings Accounts Act 1997.
@@ -935,7 +918,6 @@ superannuation (unfunded defined benefits) provider means a superannuation provi
 surchargeable contributions has the meaning given by section 8.
 surcharge threshold has the meaning given by section 9.
 taxable income of a member for a year of income means the member’s taxable income of that year of income as assessed under the Income Tax Assessment Act.
-taxed element of the retained amount of the post‑June 83 component of an eligible termination payment has the meaning given by section 27AC of the Income Tax Assessment Act.
 the 1996‑97 financial year means the financial year starting on 1 July 1996.
 the 1997‑98 financial year means the financial year starting on 1 July 1997.
 the 1998‑99 financial year means the financial year starting on 1 July 1998.
@@ -1045,11 +1027,6 @@ Superannuation (Government Co‑contribution for Low Income Earners) (Consequent
 12 Nov 2003
 12 Nov 2003
 Sch. 1 (item 25)
-Taxation Laws Amendment Act (No. 5) 2003
-142, 2003
-17 Dec 2003
-Schedule 6 (items 9–15, 21): Royal Assent
-Sch. 6 (item 21)
 (a)	The Superannuation Contributions Tax (Assessment and Collection) Act 1997 was amended by Schedule 4 (items 1–50) only of the Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997, subsections 2(1) and (3) of which provide as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 	(3)	Items 1 and 2, and 4 to 50, of Schedule 4 are taken to have commenced on 5 June 1997, immediately after the commencement of the Superannuation Contributions Tax (Assessment and Collection) Act 1997.
@@ -1097,10 +1074,8 @@ S. 7
 am. No. 191, 1997
 Ss. 7A, 7B	
 ad. No. 96, 2001
-
-am. No. 142, 2003
 S. 8	
-am. No. 191, 1997; No. 131, 1999; No. 96, 2001; Nos. 111 and 142, 2003
+am. No. 191, 1997; No. 131, 1999; No. 96, 2001; No. 111, 2003
 S. 8A	
 ad. No. 131, 1999
 
@@ -1218,7 +1193,7 @@ am. No. 131, 1999
 Part 7
 
 S. 43	
-am. No. 191, 1997; No. 17, 1998; Nos. 11, 17, 70, 131 and 146, 1999; No. 96, 2001; No. 114, 2001; No. 142, 2003
+am. No. 191, 1997; No. 17, 1998; Nos. 11, 17, 70, 131 and 146, 1999; No. 96, 2001; No. 114, 2001
 Table A
 Application, saving or transitional provisions
 Taxation Laws Amendment (Trust Loss and Other Deductions) Act 1998  (No. 17, 1998)
@@ -1329,9 +1304,4 @@ Superannuation (Government Co‑contribution for Low Income Earners) (Consequent
 Schedule 1
 25  Application of amendments
 The amendments made by Part 1 of this Schedule apply in relation to contributions made to complying superannuation funds and RSAs on or after 1 July 2003.
-
-Taxation Laws Amendment Act (No. 5) 2003 (No. 142, 2003)
-Schedule 6
-21  Application
-The amendments made by this Part apply to eligible termination payments (as defined in section 27A of the Income Tax Assessment Act 1936) made on or after 1 July 2002.
 
