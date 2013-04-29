@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00787/Html/b4d9c24a-7191-4dae-b633-3de4ecda9e44_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00357/Html/ParlCounselAct1970_image001.gif)
 
 # Parliamentary Counsel Act 1970
 
 **Act No. 8 of 1970 as amended**
 
-This compilation was prepared on 27 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 11 July 2008
+ taking into account amendments up to Act No. 73 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -84,13 +83,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Appointment of First and Second Parliamentary Counsel
 
-             (1)  The First Parliamentary Counsel and the Second Parliamentary Counsel shall be appointed by the Governor‑General.
+             (1)  The First Parliamentary Counsel and the Second Parliamentary Counsel shall be appointed by the Governor-General.
 
              (2)  A person is not eligible for appointment as the First Parliamentary Counsel or as a Second Parliamentary Counsel unless the person is a barrister, a solicitor, a barrister and solicitor or a legal practitioner of the High Court or of the Supreme Court of a State or Territory of not less than 5 years’ standing.
 
 ##### <a id="5"></a>5  Tenure of office
 
-             (1)  Subject to this Act, the First Parliamentary Counsel and the Second Parliamentary Counsel hold office for such periods, not exceeding 7 years, as are respectively specified in the instruments of their appointments and on such terms and conditions as the Governor‑General determines, but are eligible for re‑appointment.
+             (1)  Subject to this Act, the First Parliamentary Counsel and the Second Parliamentary Counsel hold office for such periods, not exceeding 7 years, as are respectively specified in the instruments of their appointments and on such terms and conditions as the Governor-General determines, but are eligible for re-appointment.
 
 ##### <a id="6"></a>6  Remuneration and allowances
 
@@ -108,7 +107,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="8"></a>8  Resignation
 
-                   The First Parliamentary Counsel or a Second Parliamentary Counsel may resign by writing signed and delivered to the Governor‑General.
+                   The First Parliamentary Counsel or a Second Parliamentary Counsel may resign by writing signed and delivered to the Governor-General.
 
 ##### <a id="9"></a>9  First or Second Parliamentary Counsel not to undertake other work
 
@@ -116,9 +115,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="10"></a>10  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the First Parliamentary Counsel or of a Second Parliamentary Counsel for physical or mental incapacity.
+             (1)  The Governor-General may terminate the appointment of the First Parliamentary Counsel or of a Second Parliamentary Counsel for physical or mental incapacity.
 
-             (2)  The Governor‑General shall terminate the appointment of the First Parliamentary Counsel or of a Second Parliamentary Counsel if:
+             (2)  The Governor-General shall terminate the appointment of the First Parliamentary Counsel or of a Second Parliamentary Counsel if:
 
                      (a)  he or she absents himself or herself from duty for 14 consecutive days, or for 28 days in any 12 months, except on leave of absence;
 
@@ -166,7 +165,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="17"></a>17  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
 # The Schedule 
 
@@ -195,11 +194,11 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="17%">
-  <col width="22%">
+  <col width="23%">
   <col width="0%">
-  <col width="15%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -395,57 +394,42 @@ Remainder: Royal Assent</div>
     <div>—</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>29 Oct 2001</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 412): 4 July 2008</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 903, 904) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
+<thead>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>29 Oct 2001</div>
+    </td>
+    <td colspan="2">
+      <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2008</div>
+    </td>
+    <td>
+      <div>73, 2008</div>
+    </td>
+    <td>
+      <div>3 July 2008</div>
+    </td>
+    <td>
+      <div>Schedule 4 (item 412): 4 July 2008</div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+</thead>
 <tr height="0">
   <td></td>
   <td></td>
@@ -457,13 +441,13 @@ Remainder: Royal Assent</div>
 
 _(a)_     The _Salaries Act 1971_ was repealed by section 7 of the _Statute Law Revision Act 1973_. That section provides that the repeal does not affect the operation of any amendment made by the repealed Act or any provision made by it for the citation of an Act as so amended.
 
-_(b)_     The _Parliamentary Counsel Act 1970_ was amended by section 115 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows:
+_(b)_    The _Parliamentary Counsel Act 1970_ was amended by section 115 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
 _(c)_     The _Parliamentary Counsel Act 1970_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1983_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
 _(d)_     The _Parliamentary Counsel Act 1970_ was amended by subsection 151(1) of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows:
 
@@ -691,26 +675,6 @@ _(g)_     The _Parliamentary Counsel Act 1970_ was amended by Schedule�
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 903  At the end of subsections 15(1) and (2)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 904  Subsection 15(8)
-
-Repeal the subsection.
-
-As at 27 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -723,21 +687,5 @@ _Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001
 ## 97  Application of amendments
 
 The amendments made by this Schedule do not apply to an appointment if the term of the appointment began before the commencement of this item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
