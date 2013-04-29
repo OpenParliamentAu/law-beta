@@ -1,20 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2008C00406/Html/SubmarineCablesPipeProtect63_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00582/Html/EE279BA8E077F01CCA25707C0081B1C5/$FILE/image001.gif)
 
 # Submarine Cables and Pipelines Protection Act 1963
 
 **Act No. 61 of 1963 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 20 September 2005
+taking into account amendments up to Act No. 104 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
@@ -43,6 +45,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [11](#11).          Jurisdiction of courts
 
 **Notes** 
+
 
 ## An Act relating to the Protection of Submarine Cables and Pipelines beneath the High Seas
 
@@ -128,11 +131,11 @@ the last preceding subsection does not apply in relation to the break or injury.
 
 ##### <a id="8"></a>8  Liability for breaking or injuring a cable or pipeline
 
-                   If a person, in the course of laying or repairing a submarine cable or pipeline of which he or she is the owner, causes a break in or injury to another cable or pipeline, he or she is liable to bear the cost of repairing the break or injury. 
+                   If a person, in the course of laying or repairing a submarine cable or pipeline of which he is the owner, causes a break in or injury to another cable or pipeline, he is liable to bear the cost of repairing the break or injury. 
 
 ##### <a id="9"></a>9  Indemnity for loss of anchor etc
 
-                   If, after all reasonable precautionary measures have been taken, an anchor, a net or any other fishing gear belonging to a ship is sacrificed in order to avoid injuring a submarine cable or pipeline, the owner of the ship is entitled to be indemnified for his or her loss by the owner of the cable or pipeline. 
+                   If, after all reasonable precautionary measures have been taken, an anchor, a net or any other fishing gear belonging to a ship is sacrificed in order to avoid injuring a submarine cable or pipeline, the owner of the ship is entitled to be indemnified for his loss by the owner of the cable or pipeline. 
 
 ##### <a id="10"></a>10  Punishment of offences
 
@@ -170,6 +173,7 @@ and for holding accused persons to bail apply, so far as they are applicable, to
 
              (6)  Except as provided by this section, the _Judiciary Act 1903-1960_ applies in relation to offences against this Act. 
 
+
 # Notes to the _Submarine Cables and Pipelines Protection Act 1963_
 
 ### Note 1
@@ -196,11 +200,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -210,87 +216,36 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Submarine Cables and Pipelines Protection Act 1963</div>
-  </td>
-  <td>
-    <div>61, 1963</div>
-  </td>
-  <td>
-    <div>28 Oct 1963</div>
-  </td>
-  <td>
-    <div>28 Oct 1963</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>S. 9(1)</div>
-  </td>
-</tr>
-<thead>
+<tbody>
   <tr>
     <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      <div>Submarine Cables and Pipelines Protection Act 1963</div>
     </td>
     <td>
-      <div>143, 2001</div>
+      <div>61, 1963</div>
     </td>
     <td>
-      <div>1 Oct 2001</div>
+      <div>28 Oct 1963</div>
     </td>
     <td>
-      <div>2 Oct 2001</div>
+      <div>28 Oct 1963</div>
     </td>
     <td>
-      <div>S. 4 \[ <i>see</i>Table A]</div>
+      <div> </div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>International Maritime Conventions Legislation Amendment Act 2001</div>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
     </td>
     <td>
-      <div>149, 2001</div>
+      <div>93, 1966</div>
     </td>
     <td>
-      <div>1 Oct 2001</div>
+      <div>29 Oct 1966</div>
     </td>
     <td>
-      <div>Schedule 4: Royal Assent <i>(a)</i></div>
+      <div>1 Dec 1966</div>
     </td>
     <td>
       <div>—</div>
@@ -298,43 +253,81 @@ of Assent</div>
   </tr>
   <tr>
     <td>
-      <div>Telecommunications and Other Legislation Amendment (Protection of Submarine Cables and Other Measures) Act 2005</div>
+      <div>Statute Law Revision Act 1973</div>
     </td>
     <td>
-      <div>104, 2005</div>
+      <div>216, 1973</div>
     </td>
     <td>
-      <div>23 Aug 2005</div>
+      <div>19 Dec 1973</div>
     </td>
     <td>
-      <div>Schedule 1 (item 1): 20 Sept 2005</div>
+      <div>31 Dec 1973</div>
     </td>
     <td>
-      <div>—</div>
+      <div>S. 9(1)</div>
     </td>
   </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2008</div>
-    </td>
-    <td>
-      <div>73, 2008</div>
-    </td>
-    <td>
-      <div>3 July 2008</div>
-    </td>
-    <td>
-      <div>Schedule 4 (items 478, 479): 4 July 2008</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+  <thead>
+    <tr>
+      <td>
+        <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
+      </td>
+      <td>
+        <div>143, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td>
+        <div>2 Oct 2001</div>
+      </td>
+      <td>
+        <div>S. 4 \[ <i>see</i>Table A]</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>International Maritime Conventions Legislation Amendment Act 2001</div>
+      </td>
+      <td>
+        <div>149, 2001</div>
+      </td>
+      <td>
+        <div>1 Oct 2001</div>
+      </td>
+      <td>
+        <div>Schedule 4: Royal Assent <i>(a)</i></div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <div>Telecommunications and Other Legislation Amendment (Protection of Submarine Cables and Other Measures) Act 2005</div>
+      </td>
+      <td>
+        <div>104, 2005</div>
+      </td>
+      <td>
+        <div>23 Aug 2005</div>
+      </td>
+      <td>
+        <div>Schedule 1 (item 1): 20 Sept 2005</div>
+      </td>
+      <td>
+        <div>—</div>
+      </td>
+    </tr>
+  </thead>
+</tbody></table>
+
 
 _(a)_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Schedule 4 only of the _International Maritime Conventions Legislation Amendment Act 2001_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+
 
 ## Table of Amendments
 
@@ -359,78 +352,73 @@ _(a)_ The _Submarine Cables and Pipelines Protection Act 1963_ was amended by Sc
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Preamble</div>
-  </td>
-  <td>
-    <div>rep. No. 149, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3, 4</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 149, 2001; No. 104, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966; No. 216, 1973; No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8, 9</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Preamble</div>
+    </td>
+    <td>
+      <div>rep. No. 149, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 3, 4</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 149, 2001; No. 104, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966; No. 216, 1973; No. 143, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -443,5 +431,6 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
 
  
