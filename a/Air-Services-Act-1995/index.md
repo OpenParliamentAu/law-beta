@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00044/Html/AirServices1995_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00244/Html/AirServices1995_WD02_image001.gif)
 
 # Air Services Act 1995
 
 **Act No. 81 of 1995 as amended**
 
-This compilation was prepared on 2 February 2010
- taking into account amendments up to Act No. 131 of 2009
+This compilation was prepared on 1 July 2009
+ taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -375,7 +375,7 @@ but does not include Qantas Airways Limited.
 
                    This Act binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
-##### <a id="5"></a>5  Extension to external Territories
+##### <a id="5"></a>5  Extension to external Territories
 
                    This Act extends to all the external Territories.
 
@@ -1903,23 +1903,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Consequential Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>131, 2009</div>
-  </td>
-  <td>
-    <div>14 Dec 2009</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 1–4): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 4)</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Air Services Act 1995_ was amended by Schedule 2 (item 153) and Schedule 3 (item 1) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsections 2(2) and 3(a) of which provide as follows:
@@ -2387,37 +2370,6 @@ _(f)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
   </td>
 </tr></table>
 
-### Note 2
-
-_Personal Property Securities (Consequential Amendments) Act 2009
- (No. 131, 2009)_
-
-The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 5
-
-## 1  Paragraph 60(3)(a)
-
-Omit “floating charge”, substitute “security interest that has attached to the aircraft as a circulating asset, within the meaning of the _Personal Property Securities Act 2009_”.
-
-## 2  At the end of subsection 60(3)
-
-Add:
-
-Note:          Part 9.5 of the _Personal Property Securities Act 2009_ deals with security interests that attach to circulating assets. These interests are also described as floating charges.
-
-## 3  After subsection 60(3)
-
-Insert:
-
-          (3A)  Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to a statutory lien.
-
-Note 1:       The effect of this subsection is that the priority between a statutory lien on an aircraft and a security interest in the aircraft to which the _Personal Property Securities Act 2009_ applies is to be determined in accordance with this Act rather than the _Personal Property Securities Act 2009_.
-
-Note 2:       Subsection 73(2) of the _Personal Property Securities Act 2009_ applies to statutory liens that arise after the commencement of subsection (3A) (which is the registration commencement time within the meaning of the _Personal Property Securities Act 2009_).
-
-As at 2 February 2010 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -2578,20 +2530,5 @@ _Note:       This item relates to the transfer of airspace managemen
 **_Airservices Australia_** means the body established by subsection 7(1) of the _Air Services Act 1995_.
 
 **_CASA_** means the Civil Aviation Safety Authority established by the _Civil Aviation Act 1988_.
-
-* * *
-
-_Personal Property Securities (Consequential Amendments) Act 2009
- (No. 131, 2009)_
-
-The following provision commences on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
-
-## Schedule 5
-
-## 4  Application of amendments of the _Air Services Act 1995_
-
-            The amendment of the _Air Services Act 1995_ made by item 1 of this Schedule does not apply in relation to a floating charge if the floating charge was created before the time that item commences.
-
-_Note:       Item 1 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
  
