@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00058/Html/AdminAppealsTribunal75_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00721/Html/AdminAppealsTribunal75_image001.gif)
 
 # Administrative Appeals Tribunal Act 1975
 
 **Act No. 91 of 1975 as amended**
 
-This compilation was prepared on 1 January 2011
- taking into account amendments up to Act No. 139 of 2010
+This compilation was prepared on 1 November 2010
+ taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -377,7 +377,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act may be cited as the _Administrative Appeals Tribunal Act 1975_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt;font-weight:normal"> </span>[_see_ Note 1]
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> </span>[_see_ Note 1]
 
                    This Act shall come into operation on a day to be fixed by Proclamation.
 
@@ -415,8 +415,6 @@ Paragraphs (b) to (f) of this definition do not limit paragraph (a) of this 
 
                     <a name="authorised-member"></a>**_authorised member_** means a member who has been authorised by the President under section 59A for the purposes of the provision in which the expression occurs.
 
-                    <a name="author-norfolk-island"></a>**_authority of Norfolk Island_** means an authority, tribunal or other body, whether incorporated or not, that is established by a Norfolk Island enactment.
-
                     <a name="author-commonwealth"></a>**_authority of the Commonwealth_** means an authority, tribunal or other body, whether incorporated or not, that is established by an enactment.
 
                     <a name="commonwealth-agenc"></a>**_Commonwealth agency_** means a Minister or an authority of the Commonwealth.
@@ -433,13 +431,11 @@ Paragraphs (b) to (f) of this definition do not limit paragraph (a) of this 
 
                      (a)  an Act;
 
-                     (b)  an Ordinance of a Territory other than the Northern Territory, the Australian Capital Territory or Norfolk Island; or
+                     (b)  an Ordinance of a Territory other than the Northern Territory or the Australian Capital Territory; or
 
                      (c)  an instrument (including rules, regulations or by-laws) made under an Act or under such an Ordinance;
 
 and includes an enactment as amended by another enactment.
-
-Note:          See also subsection 25(8) (Norfolk Island enactments).
 
                     <a name="full-time-member"></a>**_full-time member_** means a member who is appointed as a full-time member.
 
@@ -452,18 +448,6 @@ Note:          See also subsection 25(8) (Norfolk Island enact
                     <a name="member"></a>**_member_** means a presidential member, a senior member, or any other member of the Tribunal.
 
                     <a name="non-presidenti-member"></a>**_non-presidential member_** means a member other than a presidential member.
-
-                    <a name="norfolk-island-enact"></a>**_Norfolk Island enactment_** means:
-
-                     (a)  an enactment (within the meaning of the _Norfolk Island Act 1979_); or
-
-                     (b)  an instrument (including rules, regulations or by-laws) made under such an enactment;
-
-and includes a Norfolk Island enactment as amended by another Norfolk Island enactment.
-
-                    <a name="norfolk-island-justic-minist"></a>**_Norfolk Island Justice Minister_** means the Norfolk Island Minister who is responsible, or principally responsible, for the administration of the _Interpretation Act 1979_ of Norfolk Island.
-
-                    <a name="norfolk-island-minist"></a>**_Norfolk Island Minister_** means a Minister of Norfolk Island.
 
                     <a name="offic-tribun"></a>**_officer of the Tribunal_** means the Registrar, a District Registrar, a Conference Registrar or a Deputy Registrar.
 
@@ -1617,9 +1601,7 @@ Enactment may provide for applications for review of decisions
 
                      (b)  for the review of decisions made in the exercise of powers conferred, or that may be conferred, by another enactment having effect under that enactment.
 
-             (2)  The regulations may provide that applications may be made to the Tribunal for review of decisions made in the exercise of powers conferred by a Norfolk Island enactment.
-
-             (3)  Where an enactment makes provision in accordance with subsection (1) or (2), that enactment:
+             (3)  Where an enactment makes provision in accordance with subsection (1), that enactment:
 
                      (a)  shall specify the person or persons to whose decisions the provision applies;
 
@@ -1649,14 +1631,6 @@ Failure of decision-maker to meet deadline
 
              (5)  For the purposes of an enactment that makes provision in accordance with this section for the making of applications to the Tribunal for review of decisions, a failure by a person to do an act or thing within the period prescribed by that enactment, or by another enactment having effect under that enactment, as the period within which that person is required or permitted to do that act or thing shall be deemed to constitute the making of a decision by that person at the expiration of that period not to do that act or thing.
 
-          (5A)  For the purposes of regulations that make provision in accordance with this section for the making of applications to the Tribunal for review of decisions made in the exercise of powers conferred by a Norfolk Island enactment, a failure by a person to do an act or thing within the period prescribed by:
-
-                     (a)  that Norfolk Island enactment; or
-
-                     (b)  another Norfolk Island enactment having effect under that Norfolk Island enactment;
-
-as the period within which that person is required or permitted to do that act or thing is taken to constitute the making of a decision by that person at the end of that period not to do that act or thing.
-
 Enactment may add to, exclude or modify operation of certain provisions
 
              (6)  If an enactment provides for applications to the Tribunal:
@@ -1681,41 +1655,11 @@ this Act has effect as if the decision had been made by:
 
                      (e)  if there is no person for the time being holding or performing the duties of that office or appointment or the office no longer exists—such person as the President or an authorised member specifies.
 
-Norfolk Island enactment
-
-             (8)  If the regulations make provision in accordance with subsection (2) for the making of applications to the Tribunal for review of decisions made in the exercise of powers conferred by a Norfolk Island enactment (the **_primary Norfolk Island enactment_**), this Act, other than:
-
-                     (a)  the definition of **_authority of the Commonwealth_** in subsection 3(1); and
-
-                     (b)  subsections (1), (5) and (6) of this section; and
-
-                     (c)  subsection 21(1); and
-
-                     (d)  subsection 27(1); and
-
-                     (e)  paragraph 27A(2)(b); and
-
-                      (f)  paragraph 33(1)(a); and
-
-                     (g)  paragraph 43B(1)(a); and
-
-                     (h)  section 59;
-
-has effect as if:
-
-                      (i)  the primary Norfolk Island enactment; and
-
-                      (j)  any other Norfolk Island enactment, in so far as it relates to the primary Norfolk Island enactment;
-
-were an enactment (within the meaning of this Act).
-
 ##### <a id="26"></a>26  Restriction on powers of decision-maker after application for review is made
 
              (1)  Subject to section 42D, after an application is made to the Tribunal for a review of a decision, the decision may not be altered otherwise than by the Tribunal on the review unless:
 
-                     (a)  if regulations made for the purposes of subsection 25(2) (which deals with Norfolk Island) did not authorise the making of the application—the enactment that authorised the making of the application expressly permits the decision to be altered; or
-
-                    (aa)  if regulations made for the purposes of subsection 25(2) authorised the making of the application—the Norfolk Island enactment under which the decision was made expressly permits the decision to be altered; or
+                     (a)  the enactment that authorised the making of the application expressly permits the decision to be altered; or
 
                      (b)  the parties to the proceeding, and the Tribunal, consent to the making of the alteration.
 
@@ -1729,9 +1673,7 @@ were an enactment (within the meaning of this Act).
 
 ##### <a id="27"></a>27  Persons who may apply to Tribunal
 
-             (1)  Where this Act or any other enactment (other than the _Australian Security Intelligence Organisation Act 1979_) provides that an application may be made to the Tribunal for a review of a decision, the application may be made by or on behalf of any person or persons (including the Commonwealth or an authority of the Commonwealth or Norfolk Island or an authority of Norfolk Island) whose interests are affected by the decision.
-
-Note:          The enactment may be regulations made for the purposes of subsection 25(2) (review of decisions made in the exercise of powers conferred by a Norfolk Island enactment).
+             (1)  Where this Act or any other enactment (other than the _Australian Security Intelligence Organisation Act 1979_) provides that an application may be made to the Tribunal for a review of a decision, the application may be made by or on behalf of any person or persons (including the Commonwealth or an authority of the Commonwealth) whose interests are affected by the decision.
 
              (2)  An organization or association of persons, whether incorporated or not, shall be taken to have interests that are affected by a decision if the decision relates to a matter included in the objects or purposes of the organization or association.
 
@@ -1755,7 +1697,7 @@ Note:          The enactment may be regulations made for the p
 
              (2)  Subsection (1) does not apply to:
 
-                     (a)  a decision that is deemed to be made because of the operation of subsection 25(5) or (5A); or
+                     (a)  a decision that is deemed to be made because of the operation of subsection 25(5); or
 
                      (b)  a decision in respect of which provision relating to the notification of a right of review is made by another enactment; or
 
@@ -1883,7 +1825,7 @@ Inadequate statement of reasons
 
                     (cb)  in respect of an application under subsection 54(2) of the _Australian Security Intelligence Organisation Act 1979_—must be accompanied by a statement setting out the grounds on which the application is made;
 
-                     (d)  if the terms of the decision were recorded in writing and set out in a document that was given to the applicant or the decision is deemed to be made by reason of the operation of subsection 25(5) or (5A)—shall be lodged with the Tribunal within the prescribed time.
+                     (d)  if the terms of the decision were recorded in writing and set out in a document that was given to the applicant or the decision is deemed to be made by reason of the operation of subsection 25(5)—shall be lodged with the Tribunal within the prescribed time.
 
 Note:          Paragraph 33(1)(c) provides that the Tribunal is not bound by the rules of evidence but may inform itself on any matter in such manner as it thinks appropriate.
 
@@ -1917,11 +1859,11 @@ Prescribed time for making applications—general
 
 Prescribed time for making applications—decision-maker’s failure to meet deadline
 
-             (3)  In the case of a decision that is deemed to be made by reason of the operation of subsection 25(5) or (5A), the prescribed time for the purposes of paragraph (1)(d) is the period commencing on the day on which the decision is deemed to be made and ending:
+             (3)  In the case of a decision that is deemed to be made by reason of the operation of subsection 25(5), the prescribed time for the purposes of paragraph (1)(d) is the period commencing on the day on which the decision is deemed to be made and ending:
 
                      (a)  in a case to which paragraph (b) does not apply—on the twenty-eighth day after that day; or
 
-                     (b)  in the case where the person whose failure to do an act or thing within a particular period is deemed by subsection 25(5) or (5A) to constitute the making of the decision makes or purports to make, after the expiration of that period, a decision either to do or not to do that act or thing, being a decision the terms of which were recorded in writing and set out in a document that was given to the applicant—on the twenty-eighth day after:
+                     (b)  in the case where the person whose failure to do an act or thing within a particular period is deemed by subsection 25(5) to constitute the making of the decision makes or purports to make, after the expiration of that period, a decision either to do or not to do that act or thing, being a decision the terms of which were recorded in writing and set out in a document that was given to the applicant—on the twenty-eighth day after:
 
                               (i)  if the decision sets out the findings on material questions of fact and the reasons for the decision—the day on which a document setting out the terms of the decision is given to the applicant; or
 
@@ -2431,20 +2373,6 @@ What Tribunal must consider in deciding whether to disclose information etc.
 
              (5)  In considering whether information, or matter contained in a document, should be disclosed as mentioned in subsection (3), the Tribunal shall take as the basis of its consideration the principle that it is desirable in the interest of securing the effective performance of the Tribunal’s functions that the parties to a proceeding should be made aware of all relevant matters, but shall pay due regard to any reason that the Attorney-General of the State has specified in the certificate as a reason why the disclosure of the information, or of the matter contained in the document, as the case may be, would be contrary to the public interest.
 
-Norfolk Island
-
-             (6)  In this section:
-
-                    <a name="attornei-gener"></a>**_Attorney-General_**, in relation to Norfolk Island, means the Norfolk Island Justice Minister.
-
-                    <a name="cabinet"></a>**_Cabinet_**, in relation to Norfolk Island, means a body that:
-
-                     (a)  consists of Norfolk Island Ministers; and
-
-                     (b)  corresponds to the Cabinet.
-
-                    <a name="state"></a>**_State_** includes Norfolk Island.
-
 ##### <a id="36C"></a>36C  Answering questions where State Attorney-General intervenes on public interest grounds
 
 Scope
@@ -2466,14 +2394,6 @@ When person excused from answering question
 State Attorney-General taken to be a party
 
              (3)  Where the Attorney-General of a State informs the Tribunal that, in his or her opinion, the answering by a person of a question at the hearing of a proceeding would be contrary to the public interest and, but for this subsection, that Attorney-General would not be a party to the proceeding, that Attorney-General shall, for the purposes of this Act, be taken to be a party to the proceeding.
-
-Norfolk Island
-
-             (4)  In this section:
-
-                    <a name="attornei-gener"></a>**_Attorney-General_**, in relation to Norfolk Island, means the Norfolk Island Justice Minister.
-
-                    <a name="state"></a>**_State_** includes Norfolk Island.
 
 ##### <a id="36D"></a>36D  Public interest questions under sections 36, 36A and 36C
 
@@ -2530,14 +2450,6 @@ Commonwealth Attorney-General or State Attorney-General may appear or be represe
                      (a)  may appear before the Tribunal personally, or may be represented before the Tribunal by a barrister, solicitor or other person, in order to inform the Tribunal of his or her opinion in accordance with section 36A or 36C; or
 
                      (b)  may so inform the Tribunal of his or her opinion by causing to be sent to the Tribunal a written certificate that is signed by him or her and sets out that opinion.
-
-Norfolk Island
-
-             (8)  In this section:
-
-                    <a name="attornei-gener"></a>**_Attorney-General_**, in relation to Norfolk Island, means the Norfolk Island Justice Minister.
-
-                    <a name="state"></a>**_State_** includes Norfolk Island.
 
 ##### <a id="37"></a>37  Lodging of material documents with Tribunal
 
@@ -3171,8 +3083,6 @@ the President may cause a document or any other object given to the Tribunal for
 
                      (b)  a law of a State.
 
-Note:          The enactment may be regulations made for the purposes of subsection 25(2) (review of decisions made in the exercise of powers conferred by a Norfolk Island enactment).
-
              (2)  This Part has effect in relation to a proceeding before the Tribunal under power conferred on it by a law of a State as if a reference in this Part to a provision of this Act that is not in this Part were a reference to that provision as applying as a law of the State.
 
 ##### <a id="44"></a>44  Appeals to Federal Court of Australia from decisions of the Tribunal
@@ -3609,15 +3519,7 @@ Acting ombudsman may attend meetings
 
 ##### <a id="59"></a>59  Advisory opinions
 
-             (1)  If an enactment so provides, the Tribunal may give an advisory opinion on a matter or question referred to it in accordance with the enactment and, for the purpose of giving such an opinion, the Tribunal may hold such hearings and inform itself in such manner as it thinks appropriate.
-
-             (2)  If the regulations so provide, the Tribunal may give an advisory opinion on a matter or question:
-
-                     (a)  arising under a Norfolk Island enactment; and
-
-                     (b)  referred to the Tribunal in accordance with the regulations;
-
-and, for the purpose of giving such an opinion, the Tribunal may hold such hearings and inform itself in such manner as it thinks appropriate.
+                   If an enactment so provides, the Tribunal may give an advisory opinion on a matter or question referred to it in accordance with the enactment and, for the purpose of giving such an opinion, the Tribunal may hold such hearings and inform itself in such manner as it thinks appropriate.
 
 ##### <a id="59A"></a>59A  Authorised members
 
@@ -3867,15 +3769,13 @@ Definitions
 
                     <a name="court"></a>**_court_** includes any tribunal, authority or person having power to require the production of documents or the answering of questions.
 
-                    <a name="enact"></a>**_enactment_** includes a Norfolk Island enactment.
-
                     <a name="produc"></a>**_produce_** includes permit access to.
 
 Note:          Section 81 of the _Australian Security Intelligence Organisation Act 1979_ contains additional provisions relating to secrecy that apply to members and officers of the Tribunal.
 
 ##### <a id="66A"></a>66A  Application of confidentiality provisions in other Acts
 
-             (1)  If:
+                   If:
 
                      (a)  a provision of an enactment (other than this Act) prohibits the disclosure, whether absolutely, in certain circumstances only or subject to conditions, of information by persons who:
 
@@ -3886,10 +3786,6 @@ Note:          Section 81 of the _Australian Security Intellig
                      (b)  a person who is or has been a member, an officer of the Tribunal or a member of the staff of the Tribunal has acquired or acquires any such information in the course of his or her duties as such a member, officer or member of the staff;
 
 that provision applies to the person as if he or she were included in the particular class of persons and acquired the information in the course of duties under the enactment.
-
-             (2)  In this section:
-
-                    <a name="enact"></a>**_enactment_** includes a Norfolk Island enactment.
 
 ##### <a id="67"></a>67  Fees for compliance with summons
 
@@ -3905,7 +3801,7 @@ that provision applies to the person as if he or she were included in the partic
 
 ##### <a id="67A"></a>67A  Giving of notices
 
-             (1)  A notice that is required or permitted by this Act to be given to the person who made a decision (other than a decision under a Norfolk Island enactment) may be given to:
+                   A notice that is required or permitted by this Act to be given to the person who made a decision may be given to:
 
                      (a)  the Secretary of the Department administered by the Minister who administers:
 
@@ -3914,8 +3810,6 @@ that provision applies to the person as if he or she were included in the partic
                              (ii)  if that enactment was made in pursuance of a power contained in another enactment—that other enactment; or
 
                      (b)  if a provision of the regulations or of any other enactment prescribes the holder of a particular office as a person to whom notices may be given under this Act in relation to a class of decisions in which that decision is included—the holder of that office.
-
-             (2)  A notice that is required or permitted by this Act to be given to the person who made a decision under a Norfolk Island enactment may be given to the Chief Executive Officer (within the meaning of the _Public Sector Management Act 2000_ of Norfolk Island).
 
 ##### <a id="68"></a>68  Lodging of documents
 
@@ -5264,23 +5158,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Territories Law Reform Act 2010</div>
-  </td>
-  <td>
-    <div>139, 2010</div>
-  </td>
-  <td>
-    <div>10 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 126–154): 1 Jan 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Administrative Appeals Tribunal Act 1975_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(2) of which provides as follows: 
@@ -5564,7 +5441,7 @@ _(zf)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refo
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 58, 1977; No. 65, 1978; No. 26, 1982; Nos. 109 and 120, 1988; No. 157, 1989; No. 31, 1993; No. 175, 1995; No. 34, 1997; No. 161, 1999; No. 38, 2005; No. 139, 2010</div>
+    <div>am. No. 58, 1977; No. 65, 1978; No. 26, 1982; Nos. 109 and 120, 1988; No. 157, 1989; No. 31, 1993; No. 175, 1995; No. 34, 1997; No. 161, 1999; No. 38, 2005</div>
   </td>
 </tr>
 <tr>
@@ -6764,7 +6641,7 @@ _(zf)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refo
     <div>S. 25</div>
   </td>
   <td>
-    <div>am. No. 58, 1977; No. 65, 1978; No. 26, 1982; No. 175, 1995; No. 43, 1996; No. 38, 2005; No. 139, 2010</div>
+    <div>am. No. 58, 1977; No. 65, 1978; No. 26, 1982; No. 175, 1995; No. 43, 1996; No. 38, 2005</div>
   </td>
 </tr>
 <tr>
@@ -6793,26 +6670,10 @@ _(zf)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refo
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 27</div>
   </td>
   <td>
-    <div>am. No. 58, 1977; No. 175, 1995; No. 161, 1999; No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 27(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2010</div>
+    <div>am. No. 58, 1977; No. 175, 1995; No. 161, 1999</div>
   </td>
 </tr>
 <tr>
@@ -6852,7 +6713,7 @@ _(zf)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refo
     <div></div>
   </td>
   <td>
-    <div>am. No. 104, 1994; No. 156, 1999; No. 55, 2001; No. 139, 2010</div>
+    <div>am. No. 104, 1994; No. 156, 1999; No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -6964,7 +6825,7 @@ _(zf)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refo
     <div></div>
   </td>
   <td>
-    <div>am. No. 26, 1982; No. 31, 1993; No. 175, 1995; No. 161, 1999; No. 38, 2005; No. 139, 2010</div>
+    <div>am. No. 26, 1982; No. 31, 1993; No. 175, 1995; No. 161, 1999; No. 38, 2005</div>
   </td>
 </tr>
 <tr>
@@ -7366,7 +7227,7 @@ No. 38, 2005</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 175, 1995; No. 139, 2010</div>
+    <div>am. No. 175, 1995</div>
   </td>
 </tr>
 <tr>
@@ -7398,7 +7259,7 @@ No. 38, 2005</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 175, 1995; No. 194, 1999; No. 139, 2010</div>
+    <div>am. No. 175, 1995; No. 194, 1999</div>
   </td>
 </tr>
 <tr>
@@ -7430,7 +7291,7 @@ No. 38, 2005</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 157, 1989; No. 175, 1995; No. 139, 2010</div>
+    <div>am. No. 157, 1989; No. 175, 1995</div>
   </td>
 </tr>
 <tr>
@@ -8014,14 +7875,6 @@ No. 38, 2005</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 43B(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Subheads. to s. 44(1), (2)</div>
   </td>
   <td>
@@ -8311,14 +8164,6 @@ s. 44AA(7)–(10)</div>
 </tr>
 <tr>
   <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 59A</div>
   </td>
   <td>
@@ -8498,7 +8343,7 @@ s. 44AA(7)–(10)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 193, 1985; No. 120, 1988; No. 175, 1995; No. 38, 2005; No. 139, 2010</div>
+    <div>am. No. 193, 1985; No. 120, 1988; No. 175, 1995; No. 38, 2005</div>
   </td>
 </tr>
 <tr>
@@ -8523,14 +8368,6 @@ s. 44AA(7)–(10)</div>
   </td>
   <td>
     <div>ad. No. 175, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -8562,7 +8399,7 @@ s. 44AA(7)–(10)</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 63, 1984; No. 38, 2005; No. 139, 2010</div>
+    <div>am. No. 63, 1984; No. 38, 2005</div>
   </td>
 </tr>
 <tr>
