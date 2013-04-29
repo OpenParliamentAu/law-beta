@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2005C00398/Html/62A3B2E9DE9E67F0CA257028000DB114/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00320/Html/FDC66EEC6B4D6907CA256FE800218370/$FILE/image001.gif)
 
 # Special Broadcasting Service Act 1991
 
-**Act No. 180 of 1991 as amended**
+**Act No. 180 of 1991 as amended**
 
-This compilation was prepared on 1 July 2005
-taking into account amendments up to Act No. 45 of 2005
+This compilation was prepared on 15 April 2005
+taking into account amendments up to Act No. 45 of 2005
 
 The text of any of those amendments not in force
 on that date is appended in the Notes section
@@ -22,215 +22,215 @@ Canberra
 
 **Part 1—Preliminary**
 
-[1](#1).            Short title _see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[4](#4).            Extension to external Territories                                                          2
+[4](#4).            Extension to external Territories
 
-**Part 2—Establishment, functions and management of the SBS**
+**Part 2—Establishment, functions and management of the SBS**
 
-[5](#5).            Special Broadcasting Service Corporation                                           3
+[5](#5).            Special Broadcasting Service Corporation
 
-[6](#6).            Charter of the SBS                                                                               3
+[6](#6).            Charter of the SBS
 
-[6A](#6A).         Datacasting functions                                                                          4
+[6A](#6A).         Datacasting functions
 
-[7](#7).            Establishment of Special Broadcasting Service Board                         5
+[7](#7).            Establishment of Special Broadcasting Service Board
 
-[8](#8).            Constitution of the Board                                                                    5
+[8](#8).            Constitution of the Board
 
-[9](#9).            Role of the Board                                                                                 5
+[9](#9).            Role of the Board
 
-[10](#10).          Duties of the Board                                                                             5
+[10](#10).          Duties of the Board
 
-[11](#11).          Minister may give directions to the Board                                          6
+[11](#11).          Minister may give directions to the Board
 
-[12](#12).          Minister may give directions to the SBS in the national interest        6
+[12](#12).          Minister may give directions to the SBS in the national interest
 
-[13](#13).          Limits on Government directions to SBS                                            7
+[13](#13).          Limits on Government directions to SBS
 
-[14](#14).          Managing Director                                                                              7
+[14](#14).          Managing Director
 
-[15](#15).          Duties of the Managing Director                                                         7
+[15](#15).          Duties of the Managing Director
 
-**Part 3—The Board of Directors and the Managing Director** 
+**Part 3—The Board of Directors and the Managing Director** 
 
-    **Division 1—Provisions relating to non-executive Directors**
+    **Division 1—Provisions relating to non-executive Directors**
 
-[16](#16).          This Division applies to non-executive Directors                               9
+[16](#16).          This Division applies to non-executive Directors
 
-[17](#17).          Appointment of non-executive Directors                                            9
+[17](#17).          Appointment of non-executive Directors
 
-[18](#18).          Term of appointment                                                                          9
+[18](#18).          Term of appointment
 
-[19](#19).          Non-executive Directors hold office on part-time basis                    10
+[19](#19).          Non-executive Directors hold office on part-time basis
 
-[20](#20).          Terms and conditions of appointment not provided for by Act       10
+[20](#20).          Terms and conditions of appointment not provided for by Act
 
-[21](#21).          Appointment of Chairperson and Deputy Chairperson                   10
+[21](#21).          Appointment of Chairperson and Deputy Chairperson
 
-[22](#22).          Board’s functions and powers not affected by vacancy etc              10
+[22](#22).          Board’s functions and powers not affected by vacancy etc 
 
-[23](#23).          Remuneration and allowances of non-executive Directors                10
+[23](#23).          Remuneration and allowances of non-executive Directors
 
-[24](#24).          Acting Chairperson and other acting non-executive Directors          11
+[24](#24).          Acting Chairperson and other acting non-executive Directors
 
-[25](#25).          Leave of absence of non-executive Directors                                     12
+[25](#25).          Leave of absence of non-executive Directors
 
-[26](#26).          Resignation of non-executive Directors                                             12
+[26](#26).          Resignation of non-executive Directors
 
-[27](#27).          Removal of non-executive Directors from office                               12
+[27](#27).          Removal of non-executive Directors from office
 
-    **Division 2—Provisions relating to the Managing Director**
+    **Division 2—Provisions relating to the Managing Director**
 
-[28](#28).          Appointment of Managing Director                                                  14
+[28](#28).          Appointment of Managing Director
 
-[29](#29).          Term of appointment of Managing Director                                     14
+[29](#29).          Term of appointment of Managing Director
 
-[30](#30).          Managing Director holds office on a full-time basis                          14
+[30](#30).          Managing Director holds office on a full-time basis
 
-[31](#31).          Terms and conditions of appointment not provided for by Act       14
+[31](#31).          Terms and conditions of appointment not provided for by Act
 
-[32](#32).          Remuneration and allowances of Managing Director                        14
+[32](#32).          Remuneration and allowances of Managing Director
 
-[33](#33).          Acting Managing Director                                                                 15
+[33](#33).          Acting Managing Director
 
-[34](#34).          Leave of absence of Managing Director                                             15
+[34](#34).          Leave of absence of Managing Director
 
-[35](#35).          Resignation of Managing Director                                                     16
+[35](#35).          Resignation of Managing Director
 
-[36](#36).          Duty of Managing Director to disclose certain interests                   16
+[36](#36).          Duty of Managing Director to disclose certain interests
 
-[37](#37).          Removal of Managing Director from office                                       16
+[37](#37).          Removal of Managing Director from office
 
-    **Division 3—Meetings of the Board**
+    **Division 3—Meetings of the Board**
 
-[38](#38).          Meetings of the Board                                                                       17
+[38](#38).          Meetings of the Board
 
-[39](#39).          Presiding at meetings                                                                         17
+[39](#39).          Presiding at meetings
 
-[40](#40).          Quorum and voting at meetings                                                         17
+[40](#40).          Quorum and voting at meetings
 
-[41](#41).          Conduct of meetings                                                                          18
+[41](#41).          Conduct of meetings
 
-[42](#42).          Resolutions without formal meetings                                                18
+[42](#42).          Resolutions without formal meetings
 
-**Part 4—Powers and duties of the SBS**
+**Part 4—Powers and duties of the SBS**
 
-[44](#44).          General powers of the SBS                                                                20
+[44](#44).          General powers of the SBS
 
-[45](#45).          Advertising and sponsorship                                                             21
+[45](#45).          Advertising and sponsorship
 
-[46](#46).          Community information                                                                    23
+[46](#46).          Community information
 
-[47](#47).          Corporate plans                                                                                 23
+[47](#47).          Corporate plans
 
-[48](#48).          Matters to be included in corporate plans                                         23
+[48](#48).          Matters to be included in corporate plans
 
-[49](#49).          Corporate plans to be given to Minister                                           24
+[49](#49).          Corporate plans to be given to Minister
 
-[50](#50).          Community Advisory Committee                                                     24
+[50](#50).          Community Advisory Committee
 
-[51](#51).          Board to notify Minister of certain matters                                      25
+[51](#51).          Board to notify Minister of certain matters
 
-[52](#52).          Power to form companies etc                                                            25
+[52](#52).          Power to form companies etc 
 
-**Part 5—Staff**
+**Part 5—Staff**
 
-[53](#53).          Staff of the SBS until section 54 commences                                    27
+[53](#53).          Staff of the SBS until section 54 commences
 
-[54](#54).          Staff of the SBS                                                                                 27
+[54](#54).          Staff of the SBS
 
-[55](#55).          The SBS is to achieve and maintain high standards as an employer  27
+[55](#55).          The SBS is to achieve and maintain high standards as an employer
 
-**Part 6—Finance**
+**Part 6—Finance**
 
-[56](#56).          Money to be appropriated                                                                28
+[56](#56).          Money to be appropriated
 
-[57](#57).          Money of the SBS                                                                             28
+[57](#57).          Money of the SBS
 
-[58](#58).          Application of money                                                                       28
+[58](#58).          Application of money
 
-[59](#59).          Borrowing from the Commonwealth                                                 29
+[59](#59).          Borrowing from the Commonwealth
 
-[60](#60).          Borrowings otherwise than from the Commonwealth                       29
+[60](#60).          Borrowings otherwise than from the Commonwealth
 
-[61](#61).          Guarantee of borrowing                                                                     29
+[61](#61).          Guarantee of borrowing
 
-[62](#62).          The SBS may give security                                                                29
+[62](#62).          The SBS may give security
 
-[63](#63).          Borrowings not otherwise permitted                                                 30
+[63](#63).          Borrowings not otherwise permitted
 
-[64](#64).          Delegation by Finance Minister                                                        30
+[64](#64).          Delegation by Finance Minister
 
-[65](#65).          Hedging contracts etc                                                                         30
+[65](#65).          Hedging contracts etc 
 
-[68](#68).          Taxation                                                                                             31
+[68](#68).          Taxation
 
-**Part 7—Miscellaneous**
+**Part 7—Miscellaneous**
 
-[70](#70).          Application of Broadcasting Act                                                       32
+[70](#70).          Application of Broadcasting Act
 
-[70AA](#70AA).    Report by ACMA on degradation of signal quality                          32
+[70AA](#70AA).    Report by ABA on degradation of signal quality
 
-[70A](#70A).       Broadcasting of political or controversial matter                               32
+[70A](#70A).       Broadcasting of political or controversial matter
 
-[70B](#70B).       Records of matter broadcast                                                              34
+[70B](#70B).       Records of matter broadcast
 
-[70C](#70C).       Broadcasting of election advertisements                                            35
+[70C](#70C).       Broadcasting of election advertisements
 
-[73](#73).          Matters to be included in annual report                                            37
+[73](#73).          Matters to be included in annual report
 
-[74](#74).          Delegation by the SBS                                                                       38
+[74](#74).          Delegation by the SBS
 
-[75](#75).          Delegation by Managing Director                                                      38
+[75](#75).          Delegation by Managing Director
 
-[76](#76).          Regulations                                                                                        38
+[76](#76).          Regulations
 
-**Part 8—Transitional**
+**Part 8—Transitional**
 
-[77](#77).          Interpretation                                                                                     39
+[77](#77).          Interpretation
 
-[78](#78).          Person holding office as Executive Director of the old body corporate   39
+[78](#78).          Person holding office as Executive Director of the old body corporate
 
-[79](#79).          Person holding office as member of the old body corporate             40
+[79](#79).          Person holding office as member of the old body corporate
 
-[80](#80).          Persons employed or engaged by the old body corporate                 41
+[80](#80).          Persons employed or engaged by the old body corporate
 
-[81](#81).          Persons engaged under section 53                                                      41
+[81](#81).          Persons engaged under section 53
 
-[82](#82).          Delegations and authorisations                                                          41
+[82](#82).          Delegations and authorisations
 
-[83](#83).          References to old body corporate in instruments etc                        42
+[83](#83).          References to old body corporate in instruments etc 
 
-[84](#84).          Property, powers, liabilities etc                                                        42
+[84](#84).          Property, powers, liabilities etc 
 
-[85](#85).          Saving of proceedings                                                                        42
+[85](#85).          Saving of proceedings
 
-[86](#86).          Judicial notice                                                                                    43
+[86](#86).          Judicial notice
 
-[87](#87).          Application of money                                                                       43
+[87](#87).          Application of money
 
-[88](#88).          First estimates                                                                                   43
+[88](#88).          First estimates
 
-[89](#89).          Bank accounts to be treated as if opened under this Act                  43
+[89](#89).          Bank accounts to be treated as if opened under this Act
 
-[90](#90).          Audit                                                                                                  44
+[90](#90).          Audit
 
-[91](#91).          Annual report and financial statements                                            44
+[91](#91).          Annual report and financial statements
 
-[92](#92).          Transfer of appropriations                                                                45
+[92](#92).          Transfer of appropriations
 
-**Part 9—Consequential amendments of the Broadcasting Act 1942**
+**Part 9—Consequential amendments of the Broadcasting Act 1942** 
 
-[Sections 93 to 115](#Sections 93 to 115).                                                                                           46
+Sections 93 to 115
 
-**Part 10—Consequential amendments of other Acts**
+**Part 10—Consequential amendments of other Acts**
 
-[116](#116).        Consequential amendments of other Acts                                         47
+[116](#116).        Consequential amendments of other Acts
 
 **Schedule—Consequential amendments of other Acts** 
 
@@ -241,33 +241,33 @@ Canberra
 
 ## An Act relating to the Special Broadcasting Service Corporation, and for related purposes
 
-## Part 1—Preliminary
+## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Special Broadcasting Service Act 1991_.
+                   This Act may be cited as the _Special Broadcasting Service Act 1991_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
-             (1)  Subject to subsection (2), this Act commences 28 days after the day on which it receives the Royal Assent.
+             (1)  Subject to subsection (2), this Act commences 28 days after the day on which it receives the Royal Assent.
 
-             (2)  Section 54 commences on a day to be fixed by Proclamation.
+             (2)  Section 54 commences on a day to be fixed by Proclamation.
 
 ##### <a id="3"></a>3  Interpretation
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+                    <a name="aba"></a>**_ABA_** means the Australian Broadcasting Authority established under the _Broadcasting Services Act 1992_.
 
-                    <a name="board"></a>**_Board_** means the Special Broadcasting Service Board referred to in section 7.
+                    <a name="board"></a>**_Board_** means the Special Broadcasting Service Board referred to in section 7.
 
                     <a name="borrow"></a>**_borrowing_**, includes raising money or obtaining credit, whether by dealing in securities or otherwise, but does not include obtaining credit in a transaction forming part of the day-to-day operations of the SBS.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Board.
 
-                    <a name="charter"></a>**_Charter_** means the Charter of the SBS described in subsection 6(3).
+                    <a name="charter"></a>**_Charter_** means the Charter of the SBS described in subsection 6(3).
 
-                    <a name="commun-advisori-committe"></a>**_Community Advisory Committee_** means the Community Advisory Committee established under section 50.
+                    <a name="commun-advisori-committe"></a>**_Community Advisory Committee_** means the Community Advisory Committee established under section 50.
 
                     <a name="datacast-licenc"></a>**_datacasting licence_** has the same meaning as in the _Broadcasting Services Act 1992_.
 
@@ -287,17 +287,17 @@ Canberra
 
                     <a name="program"></a>**_program_** means a radio program or a television program.
 
-                    <a name="sb"></a>**_SBS_** means the body corporate preserved and continued in existence as the Special Broadcasting Service Corporation under section 5.
+                    <a name="sb"></a>**_SBS_** means the body corporate preserved and continued in existence as the Special Broadcasting Service Corporation under section 5.
 
 ##### <a id="4"></a>4  Extension to external Territories
 
                    This Act extends to all the external Territories.
 
-## Part 2—Establishment, functions and management of the SBS
+## Part 2—Establishment, functions and management of the SBS
 
 ##### <a id="5"></a>5  Special Broadcasting Service Corporation
 
-             (1)  The body corporate that was, immediately before the day this section commences, in existence because of section 79C of the _Broadcasting Act 1942_ under the name Special Broadcasting Service continues in existence, by force of this subsection, as a body corporate, under this Act, under the name Special Broadcasting Service Corporation.
+             (1)  The body corporate that was, immediately before the day this section commences, in existence because of section 79C of the _Broadcasting Act 1942_ under the name Special Broadcasting Service continues in existence, by force of this subsection, as a body corporate, under this Act, under the name Special Broadcasting Service Corporation.
 
 Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the SBS. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 
@@ -331,7 +331,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (h)  contribute to extending the range of Australian television and radio services, and reflect the changing nature of Australian society, by presenting many points of view and using innovative forms of expression.
 
-             (3)  The principal function of the SBS under subsection (1) and the duties imposed on the SBS under subsection (2) constitute the Charter of the SBS.
+             (3)  The principal function of the SBS under subsection (1) and the duties imposed on the SBS under subsection (2) constitute the Charter of the SBS.
 
              (4)  Nothing in this section imposes on the SBS a duty that is enforceable by proceedings in a court.
 
@@ -401,15 +401,15 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
                              (ii)  if the SBS has the function of providing a datacasting service under section 6A—that service;
 
-                            and to notify those codes to the ACMA.
+                            and to notify those codes to the Australian Broadcasting Authority.
 
              (2)  Nothing in this section imposes on the Board a duty that is enforceable by proceedings in a court.
 
 ##### <a id="11"></a>11  Minister may give directions to the Board
 
-             (1)  Subject to subsections (2) and (3), the Minister may, after consultation with the Board, give to the Board such written directions in relation to the performance of the SBS’s functions as appear to the Minister to be necessary in the public interest.
+             (1)  Subject to subsections (2) and (3), the Minister may, after consultation with the Board, give to the Board such written directions in relation to the performance of the SBS’s functions as appear to the Minister to be necessary in the public interest.
 
-             (2)  Subject to subsection (3), the Minister may only give a direction in relation to a prescribed matter or in prescribed circumstances.
+             (2)  Subject to subsection (3), the Minister may only give a direction in relation to a prescribed matter or in prescribed circumstances.
 
              (3)  The Minister must not give a direction in relation to the content or scheduling of programs to be broadcast.
 
@@ -423,7 +423,7 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
              (3)  The Minister may direct that a matter be broadcast in a language or languages specified in the direction.
 
-             (4)  Subsection (1) has effect subject to section 116 of the _Broadcasting Act 1942_.
+             (4)  Subsection (1) has effect subject to section 116 of the _Broadcasting Act 1942_.
 
              (5)  A direction must be given in writing, or sent by telex or facsimile transmission, to the Managing Director.
 
@@ -433,23 +433,23 @@ then, in addition to the functions conferred on the SBS under section 6, the S
 
              (1)  Except as otherwise provided by or under this or any other Act, the SBS and its Board are not subject to direction by or on behalf of the Commonwealth Government.
 
-             (2)  The Minister may notify the Directors of general policies of the Commonwealth Government under section 28 of the _Commonwealth Authorities and Companies Act 1997_. However, the Minister must not notify the Directors of general policies that would affect the content or scheduling of programs.
+             (2)  The Minister may notify the Directors of general policies of the Commonwealth Government under section 28 of the _Commonwealth Authorities and Companies Act 1997_. However, the Minister must not notify the Directors of general policies that would affect the content or scheduling of programs.
 
 ##### <a id="14"></a>14   Managing Director
 
-                   There is to be a Managing Director of the SBS, who is to be appointed and hold office as provided by Division 2 of Part 3.
+                   There is to be a Managing Director of the SBS, who is to be appointed and hold office as provided by Division 2 of Part 3.
 
 ##### <a id="15"></a>15  Duties of the Managing Director
 
-             (1)  Subject to subsection (2), the affairs of the SBS are to be managed by the Managing Director.
+             (1)  Subject to subsection (2), the affairs of the SBS are to be managed by the Managing Director.
 
              (2)  In managing any of the affairs of the SBS and in exercising any powers conferred on him or her by this Act, the Managing Director must act in accordance with any policies determined, and any directions given, by the Board.
 
              (3)  Anything done in the name of, or on behalf of, the SBS by the Managing Director is taken to have been done by the SBS.
 
-## Part 3—The Board of Directors and the Managing Director
+## Part 3—The Board of Directors and the Managing Director
 
-### Division 1—Provisions relating to non-executive Directors
+### Division 1—Provisions relating to non-executive Directors
 
 ##### <a id="16"></a>16  This Division applies to non-executive Directors
 
@@ -589,7 +589,7 @@ the Governor-General must terminate the appointment of all non-executive Directo
 
 the Governor-General must terminate the appointment of the non-executive Director.
 
-### Division 2—Provisions relating to the Managing Director
+### Division 2—Provisions relating to the Managing Director
 
 ##### <a id="28"></a>28  Appointment of Managing Director
 
@@ -599,7 +599,7 @@ the Governor-General must terminate the appointment of the non-executive Directo
 
 ##### <a id="29"></a>29  Term of appointment of Managing Director
 
-             (1)  Subject to subsection (2), the Managing Director must be appointed for a period not longer than 5 years, but is eligible for re-appointment.
+             (1)  Subject to subsection (2), the Managing Director must be appointed for a period not longer than 5 years, but is eligible for re-appointment.
 
              (2)  Where the person holding office as Managing Director is re-appointed, the re-appointment must be for a period not longer than 5 years.
 
@@ -637,7 +637,7 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
                      (b)  such allowances as are determined by the Board.
 
-             (4)  Anything done by a person purporting to act under subsection (1) is not invalid merely because:
+             (4)  Anything done by a person purporting to act under subsection (1) is not invalid merely because:
 
                      (a)  the occasion for the appointment had not arisen; or
 
@@ -675,11 +675,11 @@ but a person appointed to act during a vacancy must not continue so to act for m
 
                      (c)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit; or
 
-                     (d)  fails, without reasonable excuse, to comply with section 36 of this Act or section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+                     (d)  fails, without reasonable excuse, to comply with section 36 of this Act or section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
 the Board may remove the Managing Director from office.
 
-### Division 3—Meetings of the Board
+### Division 3—Meetings of the Board
 
 ##### <a id="38"></a>38  Meetings of the Board
 
@@ -691,7 +691,7 @@ the Board may remove the Managing Director from office.
 
                      (b)  must convene a meeting on receipt of a written request signed by:
 
-                              (i)  if there are not more than 6 non-executive Directors holding office under section 17—not fewer than 4 Directors; or
+                              (i)  if there are not more than 6 non-executive Directors holding office under section 17—not fewer than 4 Directors; or
 
                              (ii)  if there are more than 6 non-executive Directors holding office under that section—not fewer than 5 Directors.
 
@@ -715,7 +715,7 @@ the Board may remove the Managing Director from office.
 
                      (a)  a quorum is constituted by:
 
-                              (i)  if there are not more than 6 non-executive Directors holding office under section 17—4 Directors; or
+                              (i)  if there are not more than 6 non-executive Directors holding office under section 17—4 Directors; or
 
                              (ii)  if there are more than 6 non-executive Directors holding office under that section—5 Directors; and
 
@@ -723,7 +723,7 @@ the Board may remove the Managing Director from office.
 
                      (c)  the Director presiding has a deliberative vote and, if necessary, also has a casting vote.
 
-             (2)  If, because of section 27J of the _Commonwealth Authorities and Companies Act 1997_, a non-executive Director is not present at a meeting of the Board during a deliberation of the Board in relation to a matter, but there would be a quorum if the non-executive Director were present, the remaining Directors present constitute a quorum for the purpose of any deliberation or decision of the Board at the meeting in relation to the matter.
+             (2)  If, because of section 27J of the _Commonwealth Authorities and Companies Act 1997_, a non-executive Director is not present at a meeting of the Board during a deliberation of the Board in relation to a matter, but there would be a quorum if the non-executive Director were present, the remaining Directors present constitute a quorum for the purpose of any deliberation or decision of the Board at the meeting in relation to the matter.
 
              (3)  The Managing Director must not be present during any deliberation, or take part in any decision, of the Board with respect to the appointment, or any of the terms and conditions of employment, of the Managing Director.
 
@@ -731,7 +731,7 @@ the Board may remove the Managing Director from office.
 
              (1)  The Director presiding at a meeting of the Board may give directions regarding the procedure to be followed at or in connection with the meeting.
 
-             (2)  Without limiting subsection (1), the Board may permit Directors to participate in a particular meeting, or all meetings, by:
+             (2)  Without limiting subsection (1), the Board may permit Directors to participate in a particular meeting, or all meetings, by:
 
                      (a)  telephone; or
 
@@ -739,7 +739,7 @@ the Board may remove the Managing Director from office.
 
                      (c)  any other means of communication.
 
-             (3)  A Director who is permitted to participate in a meeting under subsection (2) is to be regarded as being present at that meeting.
+             (3)  A Director who is permitted to participate in a meeting under subsection (2) is to be regarded as being present at that meeting.
 
 ##### <a id="42"></a>42  Resolutions without formal meetings
 
@@ -749,7 +749,7 @@ the Board may remove the Managing Director from office.
 
                      (b)  that majority would, if present at a meeting of the Board, have constituted a quorum under subsection 40(1).
 
-## Part 4—Powers and duties of the SBS
+## Part 4—Powers and duties of the SBS
 
 ##### <a id="44"></a>44  General powers of the SBS
 
@@ -789,9 +789,9 @@ the Board may remove the Managing Director from office.
 
                      (q)  to do anything incidental to any of its powers.
 
-             (2)  The SBS may, from time to time, determine charges payable in respect of any matter or activity referred to in subsection (1).
+             (2)  The SBS may, from time to time, determine charges payable in respect of any matter or activity referred to in subsection (1).
 
-             (3)  Subject to subsection (4), the SBS does not have power:
+             (3)  Subject to subsection (4), the SBS does not have power:
 
                      (a)  to accept the performance of any service, or the provision of any facility, for the SBS; or
 
@@ -799,7 +799,7 @@ the Board may remove the Managing Director from office.
 
 where it is likely that the independence or integrity of the SBS would be affected.
 
-             (4)  Nothing in subsection (3) precludes the SBS from accepting the performance of services, the provision of facilities or the payment of money by or on behalf of the Commonwealth, a State or a Territory or an authority of the Commonwealth, of a State or of a Territory.
+             (4)  Nothing in subsection (3) precludes the SBS from accepting the performance of services, the provision of facilities or the payment of money by or on behalf of the Commonwealth, a State or a Territory or an authority of the Commonwealth, of a State or of a Territory.
 
              (5)  Before the publication of program schedules of the SBS broadcasting stations, the SBS must make those schedules available at an office of the SBS on equal terms to the publishers of any newspaper, magazine or journal published in Australia.
 
@@ -807,7 +807,7 @@ where it is likely that the independence or integrity of the SBS would be affect
 
 ##### <a id="45"></a>45  Advertising and sponsorship
 
-             (1)  Subject to subsection (2) and section 70C, the SBS may broadcast advertisements and sponsorship announcements.
+             (1)  Subject to subsection (2) and section 70C, the SBS may broadcast advertisements and sponsorship announcements.
 
              (2)  The SBS may only broadcast advertisements or sponsorship announcements:
 
@@ -839,7 +839,7 @@ where it is likely that the independence or integrity of the SBS would be affect
 
              (5)  The Board must, from time to time, revise any guidelines developed by it and must ensure that the guidelines as so developed, or as so developed and revised, are included in the corporate plan, within the statement of strategies and policies to be followed by the SBS to achieve its objectives.
 
-             (6)  Without limiting the generality of subsection (4), the reference to kinds of advertisements and sponsorship announcements in that subsection includes a reference to such kinds of advertisements and sponsorship announcements identified by reference to products and services.
+             (6)  Without limiting the generality of subsection (4), the reference to kinds of advertisements and sponsorship announcements in that subsection includes a reference to such kinds of advertisements and sponsorship announcements identified by reference to products and services.
 
 ##### <a id="46"></a>46  Community information
 
@@ -871,7 +871,7 @@ where it is likely that the independence or integrity of the SBS would be affect
 
                              (ii)  to fulfil the SBS’s principal and subsidiary functions; and
 
-                            (iii)  to ensure that the Board performs its role under paragraph 9(b) and fulfils its duties under section 10; and
+                            (iii)  to ensure that the Board performs its role under paragraph 9(b) and fulfils its duties under section 10; and
 
                      (c)  include a forecast of the revenue and expenditure of the SBS and its subsidiaries, including a forecast of capital expenditure and borrowings; and
 
@@ -883,7 +883,7 @@ where it is likely that the independence or integrity of the SBS would be affect
 
              (2)  The forecast of the revenue and expenditure of the SBS must include an assessment of all the taxes and charges that would be payable by the SBS under the laws of the Commonwealth and of each State and Territory if the SBS were subject to taxation liability under those laws.
 
-             (3)  In this section, unless the contrary intention appears, **_subsidiary_** means a prescribed company within the meaning of section 52 that the SBS controls.
+             (3)  In this section, unless the contrary intention appears, **_subsidiary_** means a prescribed company within the meaning of section 52 that the SBS controls.
 
 ##### <a id="49"></a>49  Corporate plans to be given to Minister
 
@@ -933,9 +933,9 @@ the Board must immediately notify the Minister of its opinion and the reasons fo
 
                      (c)  enter into a partnership, or an arrangement for the sharing of profits or expenses, with a person or body for the purpose of carrying on an authorised business; and
 
-                     (d)  provide technical or other assistance and facilities (whether within or outside Australia) for a prescribed company or for a partnership, or for the purposes of an arrangement, referred to in paragraph (c).
+                     (d)  provide technical or other assistance and facilities (whether within or outside Australia) for a prescribed company or for a partnership, or for the purposes of an arrangement, referred to in paragraph (c).
 
-Note:          Section 15 of the _Commonwealth Authorities and Companies Act 1997_ requires Directors to notify the Minister of significant business activities and arrangements.
+Note:          Section 15 of the _Commonwealth Authorities and Companies Act 1997_ requires Directors to notify the Minister of significant business activities and arrangements.
 
              (4)  Where:
 
@@ -947,9 +947,9 @@ the Minister may give to the SBS such written directions as the Minister thinks 
 
              (5)  This section does not authorise a prescribed company to carry on an authorised business otherwise than in accordance with any applicable law.
 
-## Part 5—Staff
+## Part 5—Staff
 
-##### <a id="53"></a>53  Staff of the SBS until section 54 commences
+##### <a id="53"></a>53  Staff of the SBS until section 54 commences
 
              (1)  The employees of the SBS are to be persons appointed or employed under the _Public Service Act 1922_.
 
@@ -967,21 +967,21 @@ the Minister may give to the SBS such written directions as the Minister thinks 
 
                    The SBS must endeavour to achieve and maintain high standards as an employer in relation to terms and conditions of employment, occupational health, industrial safety, industrial democracy, non-discriminatory employment practices and other related matters.
 
-## Part 6—Finance
+## Part 6—Finance
 
 ##### <a id="56"></a>56  Money to be appropriated
 
              (1)  There is payable to the SBS such money as is from time to time appropriated by the Parliament for the purposes of the SBS.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the SBS.
+             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the SBS.
 
 ##### <a id="57"></a>57  Money of the SBS
 
                    The money of the SBS consists of:
 
-                     (a)  money paid to the SBS under section 56; and
+                     (a)  money paid to the SBS under section 56; and
 
-                     (b)  money borrowed by the SBS under sections 59 or 60; and
+                     (b)  money borrowed by the SBS under sections 59 or 60; and
 
                      (c)  money received by the SBS in respect of the provision of services and facilities; and
 
@@ -999,11 +999,11 @@ the Minister may give to the SBS such written directions as the Minister thinks 
 
                      (a)  in payment or discharge of expenses, obligations and liabilities of the SBS arising under this Act; and
 
-                     (b)  in payment of remuneration, allowances and fees payable to non-executive Directors, the Managing Director and persons referred to in section 53 or 54; and
+                     (b)  in payment of remuneration, allowances and fees payable to non-executive Directors, the Managing Director and persons referred to in section 53 or 54; and
 
                      (c)  in payment of any remuneration, allowances and fees payable to the members of the Community Advisory Committee or other consultative body established by the Board.
 
-             (2)  Subsection (1) does not prevent investment of surplus money of the SBS under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+             (2)  Subsection (1) does not prevent investment of surplus money of the SBS under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="59"></a>59  Borrowing from the Commonwealth
 
@@ -1017,11 +1017,11 @@ the Minister may give to the SBS such written directions as the Minister thinks 
 
 ##### <a id="61"></a>61  Guarantee of borrowing
 
-             (1)  The Finance Minister may, on behalf of the Commonwealth, enter into a contract guaranteeing the performance by the SBS of obligations incurred by it under section 60.
+             (1)  The Finance Minister may, on behalf of the Commonwealth, enter into a contract guaranteeing the performance by the SBS of obligations incurred by it under section 60.
 
              (2)  If the Finance Minister determines in writing that obligations incurred by the SBS under that section are guaranteed by the Commonwealth, the obligations are so guaranteed by force of this subsection.
 
-             (3)  A contract under subsection (1) may include:
+             (3)  A contract under subsection (1) may include:
 
                      (a)  a provision agreeing that proceedings under the contract may be taken in a court of a foreign country; or
 
@@ -1031,9 +1031,9 @@ the Minister may give to the SBS such written directions as the Minister thinks 
 
                    The SBS may give security over the whole or part of its assets for:
 
-                     (a)  the performance by the SBS of any obligation incurred under section 59 or 60; or
+                     (a)  the performance by the SBS of any obligation incurred under section 59 or 60; or
 
-                     (b)  the payment to the Commonwealth of amounts equal to amounts paid or payable by the Commonwealth under a guarantee under section 61.
+                     (b)  the payment to the Commonwealth of amounts equal to amounts paid or payable by the Commonwealth under a guarantee under section 61.
 
 ##### <a id="63"></a>63  Borrowings not otherwise permitted
 
@@ -1047,41 +1047,41 @@ the Minister may give to the SBS such written directions as the Minister thinks 
 
 ##### <a id="65"></a>65  Hedging contracts etc.
 
-             (1)  Subject to subsection (3), the SBS may enter into or deal with contracts, and make other arrangements, in relation to financial futures or foreign currency (including foreign currency futures) for the purpose of reducing or eliminating risks of adverse financial consequences to the SBS in relation to:
+             (1)  Subject to subsection (3), the SBS may enter into or deal with contracts, and make other arrangements, in relation to financial futures or foreign currency (including foreign currency futures) for the purpose of reducing or eliminating risks of adverse financial consequences to the SBS in relation to:
 
                      (a)  any contract (including a contract that may be entered into under this section), or any proposed contract, involving the payment or receipt of money by the SBS; or
 
                      (b)  a borrowing or a proposed borrowing of money by the SBS;
 
-being risks that may arise from variations in the rate of currency exchange or rate of interest applicable to the contract or proposed contract, or to the borrowing or proposed borrowing of money, as the case may be, referred to in paragraph (a) or (b).
+being risks that may arise from variations in the rate of currency exchange or rate of interest applicable to the contract or proposed contract, or to the borrowing or proposed borrowing of money, as the case may be, referred to in paragraph (a) or (b).
 
              (2)  The Minister may, by determination in writing:
 
-                     (a)  set guidelines for the purpose of the exercise by the SBS of its power under subsection (1); and
+                     (a)  set guidelines for the purpose of the exercise by the SBS of its power under subsection (1); and
 
                      (b)  revoke or vary guidelines set for that purpose or set new guidelines for that purpose;
 
 and must give to the SBS a copy of each determination made under this subsection.
 
-             (3)  The SBS may only enter into a contract, dealing or other arrangement under subsection (1) in accordance with the guidelines (if any) having effect from time to time under subsection (2).
+             (3)  The SBS may only enter into a contract, dealing or other arrangement under subsection (1) in accordance with the guidelines (if any) having effect from time to time under subsection (2).
 
-             (4)  A contract, dealing or other arrangement under subsection (1) does not require the approval of the Minister under subsection 67(1).
+             (4)  A contract, dealing or other arrangement under subsection (1) does not require the approval of the Minister under subsection 67(1).
 
              (5)  In this section:
 
-                    <a name="propos-borrow"></a>**_proposed borrowing_** means a proposed borrowing of money that is in accordance with an approval under section 60.
+                    <a name="propos-borrow"></a>**_proposed borrowing_** means a proposed borrowing of money that is in accordance with an approval under section 60.
 
 ##### <a id="68"></a>68  Taxation
 
                    The SBS is not subject to taxation under any law of the Commonwealth, of a State or of a Territory and, in particular, sales tax is not payable by the SBS, or by any other person, on goods that are for use by the SBS.
 
-## Part 7—Miscellaneous
+## Part 7—Miscellaneous
 
 ##### <a id="70"></a>70  Application of Broadcasting Act
 
                    Except where the _Broadcasting Services Act 1992_ otherwise expressly provides, that Act does not apply in relation to the broadcasting services provided by the SBS.
 
-##### <a id="70AA"></a>70AA  Report by ACMA on degradation of signal quality
+##### <a id="70AA"></a>70AA  Report by ABA on degradation of signal quality
 
                    If:
 
@@ -1091,7 +1091,7 @@ and must give to the SBS a copy of each determination made under this subsection
 
                      (c)  the signal concerned is received from an analog terrestrial radiocommunications transmitter;
 
-the Minister may direct the ACMA to conduct an investigation into the matter.
+the Minister may direct the ABA to conduct an investigation into the matter.
 
 ##### <a id="70A"></a>70A  Broadcasting of political or controversial matter
 
@@ -1103,11 +1103,11 @@ the Minister may direct the ACMA to conduct an investigation into the matter.
 
                      (b)  if the matter was televised:
 
-                              (i)  cause the required particulars in relation to the matter (other than the particulars referred to in paragraph (c) of the definition of **_required particulars_** in subsection (5)) to be announced; and
+                              (i)  cause the required particulars in relation to the matter (other than the particulars referred to in paragraph (c) of the definition of **_required particulars_** in subsection (5)) to be announced; and
 
                              (ii)  cause all the required particulars in relation to the matter to be transmitted in the form of images of words.
 
-             (3)  The SBS must, in relation to political matter broadcast at the request of another person, keep a record of the name, address and occupation of the person or, if the person is a company, the name and the address of the principal office of the person, for the required period and must give to the ACMA any particulars of the record that the ACMA, by written notice, requires.
+             (3)  The SBS must, in relation to political matter broadcast at the request of another person, keep a record of the name, address and occupation of the person or, if the person is a company, the name and the address of the principal office of the person, for the required period and must give to the ABA any particulars of the record that the ABA, by written notice, requires.
 
              (4)  For the purposes of this section, a person authorises the broadcasting of political matter only if the person is responsible for approval of the content of the political matter and the decision to present it for broadcasting.
 
@@ -1181,11 +1181,11 @@ the Minister may direct the ACMA to conduct an investigation into the matter.
 
                      (b)  if a complaint has been made about the matter—for 70 days from the date on which the complaint was made.
 
-             (3)  If a person considers that a record so made is admissible in evidence in proceedings instituted, or proposed to be instituted, in a court, being a record that is held under subsection (2), the person may give to the SBS a notice in writing informing the SBS that the record may be required for the purposes of the proceedings.
+             (3)  If a person considers that a record so made is admissible in evidence in proceedings instituted, or proposed to be instituted, in a court, being a record that is held under subsection (2), the person may give to the SBS a notice in writing informing the SBS that the record may be required for the purposes of the proceedings.
 
              (4)  If such a notice is given to the SBS in respect of a record, the SBS must, subject to this section, retain the record until the proceedings or the proposed proceedings to which the notice relates have been finally determined.
 
-             (5)  If the proceedings are not instituted within a period of 3 months after the notice is given to the SBS, subsection (4) ceases to apply to the record at the end of that period.
+             (5)  If the proceedings are not instituted within a period of 3 months after the notice is given to the SBS, subsection (4) ceases to apply to the record at the end of that period.
 
              (6)  The obligation imposed by this section on the SBS to retain a record does not apply at any time when the record is in the custody of a court in connection with proceedings instituted in the court.
 
@@ -1237,7 +1237,7 @@ the SBS must not broadcast an election advertisement in relation to the election
 
 ##### <a id="73"></a>73  Matters to be included in annual report
 
-                   The Directors must include in each report on the SBS under section 9 of the _Commonwealth Authorities and Companies Act 1997_:
+                   The Directors must include in each report on the SBS under section 9 of the _Commonwealth Authorities and Companies Act 1997_:
 
                      (a)  particulars of any broadcast by the SBS during the year because of a direction by the Minister under subsection 12(1); and
 
@@ -1251,7 +1251,7 @@ the SBS must not broadcast an election advertisement in relation to the election
 
                       (f)  particulars of the total revenue earned during the year from advertising and sponsorship, of the identity of each advertiser or sponsor and of the programs (if any) with which each advertiser or sponsor is associated; and
 
-                     (g)  particulars of any direction by the Minister during the year under section 11 or 12; and
+                     (g)  particulars of any direction by the Minister during the year under section 11 or 12; and
 
                      (h)  particulars of any advice received by the Board during the year from the Community Advisory Committee and the action taken by the Board in response to that advice; and
 
@@ -1261,7 +1261,7 @@ the SBS must not broadcast an election advertisement in relation to the election
 
                      (k)  particulars of any activities carried out during the year by the SBS under subsection 52(2); and
 
-                      (l)  particulars of the activities during the year of any authorised business with which the SBS is associated under section 52; and
+                      (l)  particulars of the activities during the year of any authorised business with which the SBS is associated under section 52; and
 
                     (m)  particulars of any significant changes during the year in the transmission coverage, or transmission quality, of national broadcasting services provided by the SBS.
 
@@ -1281,7 +1281,7 @@ the SBS must not broadcast an election advertisement in relation to the election
 
                      (b)  necessary or convenient to be prescribed by regulations for carrying out or giving effect to this Act.
 
-## Part 8—Transitional
+## Part 8—Transitional
 
 ##### <a id="77"></a>77  Interpretation
 
@@ -1295,53 +1295,53 @@ the SBS must not broadcast an election advertisement in relation to the election
 
                     <a name="liabil"></a>**_liabilities_** means liabilities or obligations of any kind, whether liquidated or unliquidated, certain or contingent or accrued or accruing.
 
-                    <a name="old-bodi-corpor"></a>**_old body corporate_** means the Special Broadcasting Service established by Part IIIA of the _Broadcasting Act 1942_.
+                    <a name="old-bodi-corpor"></a>**_old body corporate_** means the Special Broadcasting Service established by Part IIIA of the _Broadcasting Act 1942_.
 
-                    <a name="restructur-bodi-corpor"></a>**_restructured body corporate_** means the body corporate preserved and continued in existence under section 5 as the Special Broadcasting Service Corporation.
+                    <a name="restructur-bodi-corpor"></a>**_restructured body corporate_** means the body corporate preserved and continued in existence under section 5 as the Special Broadcasting Service Corporation.
 
-                    <a name="restructur-dai"></a>**_restructuring day_** means the day section 5 commences.
+                    <a name="restructur-dai"></a>**_restructuring day_** means the day section 5 commences.
 
 ##### <a id="78"></a>78  Person holding office as Executive Director of the old body corporate
 
-             (1)  The person who, immediately before the restructuring day, held office as Executive Director of the old body corporate under section 79Q of the _Broadcasting Act 1942_ is, on that day, taken to have been duly appointed:
+             (1)  The person who, immediately before the restructuring day, held office as Executive Director of the old body corporate under section 79Q of the _Broadcasting Act 1942_ is, on that day, taken to have been duly appointed:
 
-                     (a)  under section 28 of this Act by the Board as Managing Director for the balance of the term of the person’s appointment; and
+                     (a)  under section 28 of this Act by the Board as Managing Director for the balance of the term of the person’s appointment; and
 
                      (b)  on the terms and conditions in respect of matters other than remuneration and allowances that, immediately before the restructuring day, were applicable to the person’s appointment as Executive Director of the old body corporate.
 
-             (2)  Any determination of remuneration payable to the Executive Director of the old body corporate, being a determination made in accordance with section 125F of the _Broadcasting Act 1942_ that is in force immediately before the restructuring day, continues in force, according to its terms, on and after that day, as if it were a determination made in accordance with section 32 of this Act in respect of the Managing Director.
+             (2)  Any determination of remuneration payable to the Executive Director of the old body corporate, being a determination made in accordance with section 125F of the _Broadcasting Act 1942_ that is in force immediately before the restructuring day, continues in force, according to its terms, on and after that day, as if it were a determination made in accordance with section 32 of this Act in respect of the Managing Director.
 
-             (3)  Regulations prescribing the allowances to be paid to the Executive Director of the old body corporate, being regulations made in accordance with section 125F of the _Broadcasting Act 1942_ that were in force immediately before the restructuring day, continue in force, on and after that day, as if they had been made in accordance with section 32 of this Act and applied in respect of the Managing Director.
+             (3)  Regulations prescribing the allowances to be paid to the Executive Director of the old body corporate, being regulations made in accordance with section 125F of the _Broadcasting Act 1942_ that were in force immediately before the restructuring day, continue in force, on and after that day, as if they had been made in accordance with section 32 of this Act and applied in respect of the Managing Director.
 
 ##### <a id="79"></a>79  Person holding office as member of the old body corporate
 
              (1)  A person who, immediately before the restructuring day, held office as a member of the old body corporate is, on that day, taken to have been duly appointed:
 
-                     (a)  under section 17 as a non-executive Director of the Board for the balance of the term of the person’s appointment; and
+                     (a)  under section 17 as a non-executive Director of the Board for the balance of the term of the person’s appointment; and
 
                      (b)  on the terms and conditions in respect of matters other than remuneration and allowances that, immediately before the restructuring day, were applicable to the person’s appointment as a member of the old body corporate.
 
-             (2)  Any determination of remuneration payable to a member of the old body corporate, being a determination made in accordance with section 125F of the _Broadcasting Act 1942_ that is in force immediately before the restructuring day, continues in force, according to its terms, on and after that day, as if it were a determination made in accordance with section 23 of this Act and applied in respect of each non-executive Director.
+             (2)  Any determination of remuneration payable to a member of the old body corporate, being a determination made in accordance with section 125F of the _Broadcasting Act 1942_ that is in force immediately before the restructuring day, continues in force, according to its terms, on and after that day, as if it were a determination made in accordance with section 23 of this Act and applied in respect of each non-executive Director.
 
-             (3)  Regulations prescribing the allowances to be paid to members of the old body corporate, being regulations made in accordance with section 125F of the _Broadcasting Act 1942_ that were in force immediately before the restructuring day, continue in force, on and after that day, as if they had been made in accordance with section 23 of this Act and applied in respect of each non-executive Director.
+             (3)  Regulations prescribing the allowances to be paid to members of the old body corporate, being regulations made in accordance with section 125F of the _Broadcasting Act 1942_ that were in force immediately before the restructuring day, continue in force, on and after that day, as if they had been made in accordance with section 23 of this Act and applied in respect of each non-executive Director.
 
 ##### <a id="80"></a>80  Persons employed or engaged by the old body corporate
 
-             (1)  A person who, immediately before the restructuring day, was an officer or employee of the old body corporate is, on that day, taken to have become an employee of the restructured body corporate under section 53 of this Act as if the person had been employed under that section on the terms and conditions that were applicable to the person immediately before that day.
+             (1)  A person who, immediately before the restructuring day, was an officer or employee of the old body corporate is, on that day, taken to have become an employee of the restructured body corporate under section 53 of this Act as if the person had been employed under that section on the terms and conditions that were applicable to the person immediately before that day.
 
              (2)  A person who, immediately before the restructuring day, had been engaged to perform services for the old body corporate otherwise than as a member of the staff is, on that day, taken to have been engaged under paragraph 44(1)(p) of this Act by the restructured body corporate to perform those services for the restructured body corporate on the terms and conditions that were applicable to the person immediately before that day.
 
-##### <a id="81"></a>81  Persons engaged under section 53
+##### <a id="81"></a>81  Persons engaged under section 53
 
-             (1)  A person who, immediately before the day on which section 53 is taken to have been repealed, was engaged, or was taken to have been engaged, by the restructured body corporate under that section is, on that day, taken to have become an employee of the restructured body corporate engaged under section 54 of this Act.
+             (1)  A person who, immediately before the day on which section 53 is taken to have been repealed, was engaged, or was taken to have been engaged, by the restructured body corporate under that section is, on that day, taken to have become an employee of the restructured body corporate engaged under section 54 of this Act.
 
-             (2)  Where the restructured body corporate determines, on or before the day on which section 53 is taken to have been repealed, certain terms and conditions to be the terms and conditions of employment applicable to a person to whom subsection (1) applies, those terms and conditions are to take effect on that day and are to be taken to have been determined under subsection 54(2).
+             (2)  Where the restructured body corporate determines, on or before the day on which section 53 is taken to have been repealed, certain terms and conditions to be the terms and conditions of employment applicable to a person to whom subsection (1) applies, those terms and conditions are to take effect on that day and are to be taken to have been determined under subsection 54(2).
 
-             (3)  Before the SBS makes a determination mentioned in subsection (2), it must consult with the representatives of industrial organisations representing the interests of the employees who will be affected by the determination.
+             (3)  Before the SBS makes a determination mentioned in subsection (2), it must consult with the representatives of industrial organisations representing the interests of the employees who will be affected by the determination.
 
 ##### <a id="82"></a>82  Delegations and authorisations
 
-             (1)  Any delegation of a power of the old body corporate that was made under section 79X of the _Broadcasting Act 1942_ and was in force immediately before the restructuring day continues in force on and after that day for one month as a delegation made under section 74 of this Act of the corresponding power of the restructured body corporate under this Act, being a power that the restructured body corporate is authorised by that section to delegate.
+             (1)  Any delegation of a power of the old body corporate that was made under section 79X of the _Broadcasting Act 1942_ and was in force immediately before the restructuring day continues in force on and after that day for one month as a delegation made under section 74 of this Act of the corresponding power of the restructured body corporate under this Act, being a power that the restructured body corporate is authorised by that section to delegate.
 
              (2)  An authorisation in relation to the old body corporate that was in force immediately before the restructuring day continues in force on and after that day for one month as if it were an authorisation in relation to the restructured body corporate.
 
@@ -1353,7 +1353,7 @@ the SBS must not broadcast an election advertisement in relation to the election
 
              (1)  The assets, powers, rights, liabilities and obligations of the old body corporate are to be treated, on and after the restructuring day, as assets, powers, rights, liabilities and obligations of the restructured body corporate.
 
-             (2)  Subsection (1) extends, so far as the powers of the Parliament permit, to:
+             (2)  Subsection (1) extends, so far as the powers of the Parliament permit, to:
 
                      (a)  assets situated outside Australia and powers conferred by, or rights existing under, the law of a foreign country; and
 
@@ -1369,71 +1369,69 @@ the SBS must not broadcast an election advertisement in relation to the election
 
                    All courts, judges and persons acting judicially must take judicial notice of the imprint of the seal of the old body corporate appearing on a document that was executed before the restructuring day and must presume that the document was duly sealed.
 
-##### <a id="87"></a>87  Application of money
+##### <a id="87"></a>87  Application of money
 
-                   Despite section 58 of this Act, the money of the restructured body corporate may be applied:
+                   Despite section 58 of this Act, the money of the restructured body corporate may be applied:
 
                      (a)  in payment or discharge of any expenses, charges, obligations or liabilities that were incurred or undertaken before the restructuring day by the old body corporate in connection with the performance of its functions or the exercise of its powers and were not paid or discharged before that day; and
 
-                     (b)  in payment of any remuneration or allowances the liability for which arose under Part IIIA of the _Broadcasting Act 1942_ but which had not been paid before the restructuring day.
+                     (b)  in payment of any remuneration or allowances the liability for which arose under Part IIIA of the _Broadcasting Act 1942_ but which had not been paid before the restructuring day.
 
 ##### <a id="88"></a>88  First estimates
 
-                   Unless the Minister otherwise directs, the first period for which estimates are to be prepared under section 66 of this Act is to be the period commencing on 1 July 1992 and ending on 30 June 1993.
+                   Unless the Minister otherwise directs, the first period for which estimates are to be prepared under section 66 of this Act is to be the period commencing on 1 July 1992 and ending on 30 June 1993.
 
 ##### <a id="89"></a>89  Bank accounts to be treated as if opened under this Act
 
-                   Any bank account maintained by the old body corporate immediately before the restructuring day under section 79ZC of the _Broadcasting Act 1942_ is to be treated, on and after that day, as if it had been opened by the restructured body corporate under section 63J of the _Audit Act 1901_ as that section applies to the restructured body corporate because of section 69.
+                   Any bank account maintained by the old body corporate immediately before the restructuring day under section 79ZC of the _Broadcasting Act 1942_ is to be treated, on and after that day, as if it had been opened by the restructured body corporate under section 63J of the _Audit Act 1901_ as that section applies to the restructured body corporate because of section 69.
 
 ##### <a id="90"></a>90  Audit
 
-                   Section 63L of the _Audit Act 1901_ as that section applies to the restructured body corporate because of section 69 of this Act extends to accounts and records of financial transactions of the old body corporate that took place before the restructuring day as if they were accounts and records of financial transactions of the restructured body corporate.
+                   Section 63L of the _Audit Act 1901_ as that section applies to the restructured body corporate because of section 69 of this Act extends to accounts and records of financial transactions of the old body corporate that took place before the restructuring day as if they were accounts and records of financial transactions of the restructured body corporate.
 
 ##### <a id="91"></a>91   Annual report and financial statements
 
-             (1)  If the old body corporate had not, before the restructuring day, furnished a report and financial statement in relation to its operations during the year that ended on 30 June last preceding that day, the Board of the restructured body corporate must prepare a report and financial statement in relation to those operations in accordance with section 79ZH of the _Broadcasting Act 1942_ and, despite the repeal of that section effected by this Act, that section continues in force for the purpose of the preparation of that report and financial statement as if the body required to prepare and furnish the report and financial statement under that section were the restructured body corporate.
+             (1)  If the old body corporate had not, before the restructuring day, furnished a report and financial statement in relation to its operations during the year that ended on 30 June last preceding that day, the Board of the restructured body corporate must prepare a report and financial statement in relation to those operations in accordance with section 79ZH of the _Broadcasting Act 1942_ and, despite the repeal of that section effected by this Act, that section continues in force for the purpose of the preparation of that report and financial statement as if the body required to prepare and furnish the report and financial statement under that section were the restructured body corporate.
 
-             (2)  If the restructuring day is a day other than 1 July, the report and financial statement in relation to the operations of the restructured body corporate during the year ending on 30 June next following the restructuring day that is required to be prepared by section 63M of the _Audit Act 1901_ as that section applies to the restructured body corporate because of section 69 of this Act must include details in relation to the operations of the old body corporate during the part of that year that preceded the restructuring day.
+             (2)  If the restructuring day is a day other than 1 July, the report and financial statement in relation to the operations of the restructured body corporate during the year ending on 30 June next following the restructuring day that is required to be prepared by section 63M of the _Audit Act 1901_ as that section applies to the restructured body corporate because of section 69 of this Act must include details in relation to the operations of the old body corporate during the part of that year that preceded the restructuring day.
 
-             (3)  A report of the restructured body corporate that relates to operations of the old body corporate must include any matters that would have been required to have been included in a report relating to those operations prepared in accordance with section 79ZH of the _Broadcasting Act 1942_ if this Act had not been enacted.
+             (3)  A report of the restructured body corporate that relates to operations of the old body corporate must include any matters that would have been required to have been included in a report relating to those operations prepared in accordance with section 79ZH of the _Broadcasting Act 1942_ if this Act had not been enacted.
 
 ##### <a id="92"></a>92  Transfer of appropriations 
 
              (1)  Where an Appropriation Act has appropriated, or appropriates, money to the old body corporate, the Appropriation Act is taken to have appropriated, or to appropriate, the money to the restructured body corporate.
 
-             (2)  Subsection (1) does not apply to money that has been spent by the old body corporate before the restructuring day.
+             (2)  Subsection (1) does not apply to money that has been spent by the old body corporate before the restructuring day.
 
              (3)  In this section:
 
-                    <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for the financial year ending on 30 June 1992, and includes an Act making interim provision for such an appropriation.
+                    <a name="appropri-act"></a>**_Appropriation Act_** means an Act appropriating money for the financial year ending on 30 June 1992, and includes an Act making interim provision for such an appropriation.
 
-## Part 9—Consequential amendments of the Broadcasting Act 1942 
+## Part 9—Consequential amendments of the Broadcasting Act 1942 
 
-##### Sections <a id="93 to 115"></a>93 to 115
+##### Sections <a id="93 to 115"></a>93 to 115
 
 <div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 54pt; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
-The amendments made by this Part are incorporated in the compilation on SCALEplus.
+The amendments made by this Part are incorporated in the compilation on SCALEplus of the _Broadcasting Act 1942_.
+<span style="FONT-SIZE: 9pt">\[repealed by Act No. 105, 1992 as amended by Act No. 120, 2002]</span>
 
-_Broadcasting Act 1942_
-<span style="FONT-SIZE: 9pt">\[repealed by Act No. 105, 1992 as amended by Act No. 120, 2002]</span>
+For access to the wording of the amendments made by this Part, _see_ Act  No. 180, 1991.</div>
 
-For access to the wording of the amendments made by this Part, _see_ Act  No. 180, 1991.</div>
-
-## Part 10—Consequential amendments of other Acts
+## Part 10—Consequential amendments of other Acts
 
 ##### <a id="116"></a>116  Consequential amendments of other Acts
 
              (1)  The Acts specified in the Schedule are amended as set out in the Schedule.
 
-             (2)  The amendments made to section 91 of the _Copyright Act 1968_ by subsection (1) do not affect the continued subsistence of any copyright that, immediately before the commencement of this section, subsisted in a television broadcast or sound broadcast that had been made from a place in Australia by the Special Broadcasting Service before the commencement of this section. 
+             (2)  The amendments made to section 91 of the _Copyright Act 1968_ by subsection (1) do not affect the continued subsistence of any copyright that, immediately before the commencement of this section, subsisted in a television broadcast or sound broadcast that had been made from a place in Australia by the Special Broadcasting Service before the commencement of this section. 
 
 
 # Schedule—Consequential amendments of other Acts
 
-Section <a id="116"></a>116
+_Section 116_
 
 <div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
@@ -1445,18 +1443,18 @@ Archives Act 1983
 
 Australian Broadcasting Corporation Act 1983
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 180, 1991.</div>
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 180, 1991.</div>
 
 
 # Notes to the _Special Broadcasting Service Act 1991_
 
 ### Note 1
 
-The _Special Broadcasting Service Act 1991_ as shown in this compilation comprises Act No. 180, 1991 amended as indicated in the Tables below.
+The _Special Broadcasting Service Act 1991_ as shown in this compilation comprises Act No. 180, 1991 amended as indicated in the Tables below.
 
 For application, saving or transitional provisions made by the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_, _see_ Act No. 45, 2005.
 
-All other relevant information pertaining to application, saving or transitional provisions prior to 22 February 2005 is not included in this compilation. For subsequent information _see_ Table A.
+All other relevant information pertaining to application, saving or transitional provisions prior to 22 February 2005 is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -1520,10 +1518,10 @@ Remainder: 23 Dec 1991
       <div>105, 1992</div>
     </td>
     <td>
-      <div>9 July 1992</div>
+      <div>9 July 1992</div>
     </td>
     <td>
-      <div>5 Oct 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. GN38)</div>
+      <div>5 Oct 1992 ( <i>see</i>s. 2 and <i>Gazette</i>1992, No. GN38)</div>
     </td>
     <td>
       <div>—</div>
@@ -1557,7 +1555,7 @@ Remainder: 23 Dec 1991
       <div>11 Dec 1992</div>
     </td>
     <td>
-      <div>1 July 1993</div>
+      <div>1 July 1993</div>
     </td>
     <td>
       <div>—</div>
@@ -1565,7 +1563,7 @@ Remainder: 23 Dec 1991
   </tr>
   <tr>
     <td>
-      <div>Transport and Communications Legislation Amendment Act (No. 3) 1992</div>
+      <div>Transport and Communications Legislation Amendment Act (No. 3) 1992</div>
     </td>
     <td>
       <div>216, 1992</div>
@@ -1574,7 +1572,7 @@ Remainder: 23 Dec 1991
       <div>24 Dec 1992</div>
     </td>
     <td>
-      <div>Part 9 (ss. 33–35): Royal Assent <i>(a)</i></div>
+      <div>Part 9 (ss. 33–35): Royal Assent <i>(a)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1582,7 +1580,7 @@ Remainder: 23 Dec 1991
   </tr>
   <tr>
     <td>
-      <div>Communications and the Arts Legislation Amendment Act (No. 1) 1995</div>
+      <div>Communications and the Arts Legislation Amendment Act (No. 1) 1995</div>
     </td>
     <td>
       <div>32, 1995</div>
@@ -1591,7 +1589,7 @@ Remainder: 23 Dec 1991
       <div>12 Apr 1995</div>
     </td>
     <td>
-      <div>S. 3 (item 122): Royal Assent <i>(b)</i></div>
+      <div>S. 3 (item 122): Royal Assent <i>(b)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1605,10 +1603,10 @@ Remainder: 23 Dec 1991
       <div>59, 1997</div>
     </td>
     <td>
-      <div>3 May 1997</div>
+      <div>3 May 1997</div>
     </td>
     <td>
-      <div>Schedule 1 (items 49, 50): 1 July 1997 <i>(c)</i></div>
+      <div>Schedule 1 (items 49, 50): 1 July 1997 <i>(c)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1625,7 +1623,7 @@ Remainder: 23 Dec 1991
       <div>24 Oct 1997</div>
     </td>
     <td>
-      <div>Schedule 2 (items 1207–1218): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(d)</i></div>
+      <div>Schedule 2 (items 1207–1218): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(d)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1659,7 +1657,7 @@ Remainder: 23 Dec 1991
       <div>11 Nov 1999</div>
     </td>
     <td>
-      <div>Schedule 1 (items 826, 827): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
+      <div>Schedule 1 (items 826, 827): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(e)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1676,7 +1674,7 @@ Remainder: 23 Dec 1991
       <div>24 Nov 1999</div>
     </td>
     <td>
-      <div>Schedule 10 (items 119–121): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
+      <div>Schedule 10 (items 119–121): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(f)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1707,10 +1705,10 @@ Remainder: 23 Dec 1991
       <div>63, 2002</div>
     </td>
     <td>
-      <div>3 July 2002</div>
+      <div>3 July 2002</div>
     </td>
     <td>
-      <div>Schedule 1 (item 29): <i>(g)</i></div>
+      <div>Schedule 1 (item 29): <i>(g)</i></div>
     </td>
     <td>
       <div>—</div>
@@ -1727,10 +1725,10 @@ Remainder: 23 Dec 1991
       <div>22 Feb 2005</div>
     </td>
     <td>
-      <div>Schedule 2 (items 162–168, 174): Royal Assent</div>
+      <div>Schedule 2 (items 162–168, 174): Royal Assent</div>
     </td>
     <td>
-      <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
+      <div>Sch. 2 (item 174) \[ <i>see</i>Table A]</div>
     </td>
   </tr>
   <tr>
@@ -1744,8 +1742,8 @@ Remainder: 23 Dec 1991
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedule 1 (items 124–126) and Schedule 4: 1 July 2005 <i>(h)</i> 
-Schedule 2: <i>(h)</i> 
+      <div>Schedule 1 (items 124–126) and Schedule 4: \[ <i>see (h)</i>and Note 2] 
+Schedule 2: \[ <i>see</i> <i>(h)</i>and Note 2] 
 </div>
     </td>
     <td>
@@ -1755,37 +1753,37 @@ Schedule 2: <i>(h)</i>
 </tbody></table>
 
 
-_(a)_     The _Special Broadcasting Service Act 1991_ was amended by Part 9 (sections 33–35) only of the _Transport and Communications Legislation Amendment Act (No. 3) 1992,_ subsection 2(1) of which provides as follows:
+_(a)_     The _Special Broadcasting Service Act 1991_ was amended by Part 9 (sections 33–35) only of the _Transport and Communications Legislation Amendment Act (No. 3) 1992,_ subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_    The _Special Broadcasting Service Act 1991_ was amended by section 3 (item 122) only of the _Communications and the Arts Legislation Amendment (No. 1) Act 1995_, subsection 2(1) of which provides as follows:
+_(b)_    The _Special Broadcasting Service Act 1991_ was amended by the _Communications and the Arts Legislation Amendment (No. 1) Act 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 1 (items 49 and 50) only of the _Telecommunicatiuons (Transitional Provisions and Consequential Amendments) Act 1997_, subsection 2(2)(d) of which provides as follows:
+_(c)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 1 (items 49 and 50) only of the _Telecommunicatiuons (Transitional Provisions and Consequential Amendments) Act 1997_, subsection 2(2)(d) of which provides as follows:
 
-                 (2)   The following provisions commence on 1 July 1997:
+                 (2)   The following provisions commence on 1 July 1997:
 
-                             (d)   Schedule 1;
+                             (d)   Schedule 1;
 
-_(d)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 2 (items 1207–1218) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(d)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 2 (items 1207–1218) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
+                 (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(e)_     The _Special  Broadcasting Service Act 1991_ was amended by Schedule 1 (items 826 and 827) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provid as follows:
+_(e)_     The _Special  Broadcasting Service Act 1991_ was amended by Schedule 1 (items 826 and 827) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provid as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(f)_      The _Special Broadcasting Service Act 1991_ was amended by Schedule 10 (items 119–121) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(f)_      The _Special Broadcasting Service Act 1991_ was amended by Schedule 10 (items 119–121) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
-                              (c)   the items in Schedules 10, 11 and 12.
+                              (c)   the items in Schedules 10, 11 and 12.
 
-_(g)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 1 (item 29) only of the _Statue Law Revision Act 2002_, subsection 2(1) (item 23) of which provides as follows:
+_(g)_     The _Special Broadcasting Service Act 1991_ was amended by Schedule 1 (item 29) only of the _Statue Law Revision Act 2002_, subsection 2(1) (item 23) of which provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -1868,13 +1866,13 @@ _(g)_     The _Special Broadcasting Service Act 1991_ was amended by Sch
     </td>
     <td>
       <div>
-        23 December 1991
+        23 December 1991
       </div>
     </td>
   </tr>
 </tbody></table>
 
-_(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
+_(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005_ provide as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -1925,7 +1923,8 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     </td>
     <td>
       <div>
-        1 July 2005
+        \[
+          <i>see</i>Note 2]
       </div>
     </td>
   </tr>
@@ -1943,7 +1942,8 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     </td>
     <td>
       <div>
-        1 July 2005
+        \[
+          <i>see</i>Note 2]
       </div>
     </td>
   </tr>
@@ -1961,7 +1961,8 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
     </td>
     <td>
       <div>
-        1 July 2005
+        \[
+          <i>see</i>Note 1]
       </div>
     </td>
   </tr>
@@ -1996,7 +1997,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
 <tbody>
   <tr>
     <td>
-      <div><b>Part 1</b></div>
+      <div><b>Part 1</b></div>
     </td>
     <td>
       <div></div>
@@ -2007,12 +2008,12 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 3</div>
     </td>
     <td>
-      <div>am. No. 167, 1992; No. 131, 1998; No. 23, 2001; Nos. 8 and 45, 2005</div>
+      <div>am. No. 167, 1992; No. 131, 1998; No. 23, 2001; No. 8, 2005</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 2</b></div>
+      <div><b>Part 2</b></div>
     </td>
     <td>
       <div></div>
@@ -2023,7 +2024,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>Note to s. 5(1)</div>
     </td>
     <td>
-      <div>ad. No. 152, 1997</div>
+      <div>ad. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -2031,7 +2032,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 6</div>
     </td>
     <td>
-      <div>am. No. 105, 1992</div>
+      <div>am. No. 105, 1992</div>
     </td>
   </tr>
   <tr>
@@ -2039,7 +2040,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 6A</div>
     </td>
     <td>
-      <div>ad. No. 23, 2001</div>
+      <div>ad. No. 23, 2001</div>
     </td>
   </tr>
   <tr>
@@ -2047,7 +2048,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 10</div>
     </td>
     <td>
-      <div>am. No. 105, 1992; No. 23, 2001; No. 45, 2005</div>
+      <div>am. No. 105, 1992; No. 23, 2001</div>
     </td>
   </tr>
   <tr>
@@ -2055,7 +2056,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>Heading to s. 13</div>
     </td>
     <td>
-      <div>rs. No. 152, 1997</div>
+      <div>rs. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -2063,12 +2064,12 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 13</div>
     </td>
     <td>
-      <div>am. No. 152, 1997</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 3</b></div>
+      <div><b>Part 3</b></div>
     </td>
     <td>
       <div></div>
@@ -2076,7 +2077,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
   </tr>
   <tr>
     <td>
-      <div><b>Division 1</b></div>
+      <div><b>Division 1</b></div>
     </td>
     <td>
       <div></div>
@@ -2087,12 +2088,12 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 27</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 156, 1999</div>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 2</b></div>
+      <div><b>Division 2</b></div>
     </td>
     <td>
       <div></div>
@@ -2103,7 +2104,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 34</div>
     </td>
     <td>
-      <div>am. No. 146, 1999</div>
+      <div>am. No. 146, 1999</div>
     </td>
   </tr>
   <tr>
@@ -2111,12 +2112,12 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 37</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 156, 1999</div>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Division 3</b></div>
+      <div><b>Division 3</b></div>
     </td>
     <td>
       <div></div>
@@ -2127,7 +2128,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 40</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 156, 1999</div>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
     </td>
   </tr>
   <tr>
@@ -2135,12 +2136,12 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 43</div>
     </td>
     <td>
-      <div>rep. No. 152, 1997</div>
+      <div>rep. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 4</b></div>
+      <div><b>Part 4</b></div>
     </td>
     <td>
       <div></div>
@@ -2151,7 +2152,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 44</div>
     </td>
     <td>
-      <div>am. No. 131, 1998</div>
+      <div>am. No. 131, 1998</div>
     </td>
   </tr>
   <tr>
@@ -2167,7 +2168,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 52</div>
     </td>
     <td>
-      <div>am. No. 152, 1997</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -2175,12 +2176,12 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>Note to s. 52(2)</div>
     </td>
     <td>
-      <div>ad. No. 152, 1997</div>
+      <div>ad. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 5</b></div>
+      <div><b>Part 5</b></div>
     </td>
     <td>
       <div></div>
@@ -2191,12 +2192,12 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 53</div>
     </td>
     <td>
-      <div>am. No. 63, 2002</div>
+      <div>am. No. 63, 2002</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 6</b></div>
+      <div><b>Part 6</b></div>
     </td>
     <td>
       <div></div>
@@ -2207,7 +2208,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 56</div>
     </td>
     <td>
-      <div>am. No. 8, 2005</div>
+      <div>am. No. 8, 2005</div>
     </td>
   </tr>
   <tr>
@@ -2215,7 +2216,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>Heading to s. 58</div>
     </td>
     <td>
-      <div>am. No. 152, 1997</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -2223,7 +2224,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 58</div>
     </td>
     <td>
-      <div>am. No. 152, 1997</div>
+      <div>am. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -2231,7 +2232,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>Ss. 59–61</div>
     </td>
     <td>
-      <div>am. No. 8, 2005</div>
+      <div>am. No. 8, 2005</div>
     </td>
   </tr>
   <tr>
@@ -2239,7 +2240,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 64</div>
     </td>
     <td>
-      <div>rs. No. 8, 2005</div>
+      <div>rs. No. 8, 2005</div>
     </td>
   </tr>
   <tr>
@@ -2247,7 +2248,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 66</div>
     </td>
     <td>
-      <div>rep. No. 152, 1997</div>
+      <div>rep. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
@@ -2255,7 +2256,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 67</div>
     </td>
     <td>
-      <div>rep. No. 32, 1995</div>
+      <div>rep. No. 32, 1995</div>
     </td>
   </tr>
   <tr>
@@ -2263,7 +2264,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 68</div>
     </td>
     <td>
-      <div>am. No. 118, 1992</div>
+      <div>am. No. 118, 1992</div>
     </td>
   </tr>
   <tr>
@@ -2271,12 +2272,12 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 69</div>
     </td>
     <td>
-      <div>rep. No. 152, 1997</div>
+      <div>rep. No. 152, 1997</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 7</b></div>
+      <div><b>Part 7</b></div>
     </td>
     <td>
       <div></div>
@@ -2287,15 +2288,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 70</div>
     </td>
     <td>
-      <div>am. No. 105, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 70AA</div>
-    </td>
-    <td>
-      <div>am. No. 45, 2005</div>
+      <div>am. No. 105, 1992</div>
     </td>
   </tr>
   <tr>
@@ -2303,39 +2296,15 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 70AA</div>
     </td>
     <td>
-      <div>ad. No. 131, 1998</div>
+      <div>ad. No. 131, 1998</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div></div>
+      <div>Ss. 70A, 70B</div>
     </td>
     <td>
-      <div>am. No. 45, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 70A</div>
-    </td>
-    <td>
-      <div>ad. No. 105, 1992</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 45, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 70B</div>
-    </td>
-    <td>
-      <div>ad. No. 105, 1992</div>
+      <div>ad. No. 105, 1992</div>
     </td>
   </tr>
   <tr>
@@ -2343,7 +2312,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 70C</div>
     </td>
     <td>
-      <div>ad. No. 216, 1992</div>
+      <div>ad. No. 216, 1992</div>
     </td>
   </tr>
   <tr>
@@ -2351,7 +2320,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 71</div>
     </td>
     <td>
-      <div>rep. No. 131, 1998</div>
+      <div>rep. No. 131, 1998</div>
     </td>
   </tr>
   <tr>
@@ -2359,7 +2328,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 72</div>
     </td>
     <td>
-      <div>am. No. 59, 1997</div>
+      <div>am. No. 59, 1997</div>
     </td>
   </tr>
   <tr>
@@ -2367,7 +2336,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div></div>
     </td>
     <td>
-      <div>rep. No. 131, 1998</div>
+      <div>rep. No. 131, 1998</div>
     </td>
   </tr>
   <tr>
@@ -2375,12 +2344,12 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 73</div>
     </td>
     <td>
-      <div>am. No. 152, 1997; No. 131, 1998</div>
+      <div>am. No. 152, 1997; No. 131, 1998</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div><b>Part 8</b></div>
+      <div><b>Part 8</b></div>
     </td>
     <td>
       <div></div>
@@ -2391,10 +2360,89 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
       <div>S. 81</div>
     </td>
     <td>
-      <div>am. No. 146, 1999</div>
+      <div>am. No. 146, 1999</div>
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Australian Communications and Media Authority (Consequential and Transitional Provisions) Act 2005 (No. 45, 2005)_
+
+The following amendments commence on 1 July 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 124  Section 3 (definition of _ABA_)
+
+Repeal the definition.
+
+## 125  Section 3
+
+Insert:
+
+                    <a name="acma"></a>**_ACMA_** means the Australian Communications and Media Authority.
+
+## 126  Paragraph 10(1)(j)
+
+Omit “Australian Broadcasting Authority”, substitute “ACMA”.
+
+The following amendments commence immediately after 1 July 2005 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1  Amendment of Acts—changing references to the ABA and the ACA into references to the ACMA
+
+The Acts listed in this Schedule are amended as follows:
+
+                     (a)  by omitting “ABA” (wherever occurring) and substituting “ACMA”;
+
+                     (b)  by omitting “**ABA**” (wherever occurring) and substituting “**ACMA**”;
+
+                     (c)  by omitting “**_ABA_**” (wherever occurring) and substituting “**_ACMA_**”;
+
+                     (d)  by omitting “ABA’s” (wherever occurring) and substituting “ACMA’s”;
+
+                     (e)  by omitting “**ABA****’s**” (wherever occurring) and substituting “**ACMA’s**”;
+
+                      (f)  by omitting “**_ABA_****_’s_**” (wherever occurring) and substituting “**_ACMA’s_**”;
+
+                     (g)  by omitting “ACA” (wherever occurring) and substituting “ACMA”;
+
+                     (h)  by omitting “**ACA**” (wherever occurring) and substituting “**ACMA**”;
+
+                      (i)  by omitting “**_ACA_**” (wherever occurring) and substituting “**_ACMA_**”;
+
+                      (j)  by omitting “ACA’s” (wherever occurring) and substituting “ACMA’s”;
+
+                     (k)  by omitting “**ACA’s**” (wherever occurring) and substituting “**ACMA’s**”;
+
+                      (l)  by omitting “**_ACA’s_**” (wherever occurring) and substituting “**_ACMA’s_**”.
+
+_Note 1:    This Schedule commences immediately after the commencement of Schedule 1, and so this item amends the Acts listed in this Schedule, as already amended by Schedule 1._
+
+_Note 2:    The headings to sections, subsections, clauses and subclauses of the Acts listed in this Schedule are altered as follows:_
+
+(a)              by omitting “**ABA**” (wherever occurring) and substituting “**ACMA**”;
+
+(b)              by omitting “_ABA_” (wherever occurring) and substituting “_ACMA_”;
+
+(c)              by omitting “**ABA****’s**” (wherever occurring) and substituting “**ACMA’s**”;
+
+(d)              by omitting “_ABA__’s_” (wherever occurring) and substituting “_ACMA’s_”;
+
+(e)              by omitting “**ACA**” (wherever occurring) and substituting “**ACMA**”;
+
+(f)               by omitting “_ACA_” (wherever occurring) and substituting “_ACMA_”;
+
+(g)              by omitting “**ACA’s**” (wherever occurring) and substituting “**ACMA’s**”;
+
+(h)              by omitting “_ACA’s_” (wherever occurring) and substituting “_ACMA’s_”.
+
+Special Broadcasting Service Act 1991
+
+As at 15 April 2005 the amendments are not incorporated in this compilation.
 
 
 ## Table A
@@ -2403,7 +2451,7 @@ _(h)_ Subsection 2(1) (items 2, 3 and 10) of the _Australian Communications an
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
-## Schedule 2
+## Schedule 2
 
 ## 174  Saving provision—provisions that formerly referred to the Treasurer
 
