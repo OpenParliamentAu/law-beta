@@ -1,514 +1,265 @@
+**<b>
 
-Public Order (Protection of Persons and Property) Act 1971 
-Act No. 26 of 1971 as amended
-This compilation was prepared on 27 July 2000  taking into account amendments up to Act No. 43 of 1996
-The text of any of those amendments not in force on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
-  
-  
-Contents
-Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-4	Interpretation	1
-5	When assembly is in relation to protected premises or a protected person	4
-Part II—Provisions applying in Commonwealth Territories and on Commonwealth premises	5
-6	Assemblies involving violence or apprehension of violence	5
-7	Causing actual bodily harm or damage to property	5
-8	Dispersal of certain assemblies	5
-9	Unreasonable obstruction	7
-10	Weapons, missiles etc.	7
-11	Additional offences on premises in a Territory	7
-12	Additional offences on Commonwealth premises	8
-13	Evidence	9
-Part IIA—Provisions relating to premises of certain federal courts and tribunals	10
-13A	Interpretation	10
-13B	Application of Part	11
-13C	Power of authorised officer to require information	11
-13D	Power of authorised officer to search a person or require a person to deposit personal effects	11
-13E	Removal from court premises	13
-13F	Person not to carry firearm, explosive substance or offensive weapon on court premises	13
-13G	Saving	14
-13H	Regulations	14
-Part III—Provisions relating to diplomatic and consular premises and personnel, designated overseas missions and international organizations	15
-14	Relation of Part to international law	15
-15	Assemblies involving violence or apprehension of violence	15
-16	Causing actual bodily harm or damage to property	16
-17	Dispersal of certain assemblies	16
-18	Obstruction, assault etc.	17
-19	Weapons, missiles etc.	18
-20	Additional offences in relation to protected premises	18
-21	Evidence	19
-Part IV—General	20
-22	Arrest	20
-23	Prosecutions	20
-24	Particulars to be furnished in respect of certain offences	21
-25	Exclusion of certain other laws	21
-The Schedule	23
-Part I—Imperial Enactments	23
-Part II—Other enactments in force in Australia	24
-Notes to the Public Order (Protection of Persons and Property) Act 1971	25
-An Act relating to the Preservation of Public Order in Certain Territories and in respect of Commonwealth Premises, the Premises of certain Federal Courts and Tribunals and the Premises and Personnel of Diplomatic and Special Missions, Consular Posts, Designated Overseas Missions and International Organizations
-Part I—Preliminary
-  
-1  Short title [see Note 1]
-		This Act may be cited as the Public Order (Protection of Persons and Property) Act 1971.
-2  Commencement [see Note 1]
-		This Act shall come into operation on the day on which it receives the Royal Assent.
-4  Interpretation
-	(1)	In this Act, unless the contrary intention appears:
-assembly means an assembly of not less than three persons who are assembled for a common purpose, whether or not other persons are assembled with them and whether the assembly is at a particular place or moving, and includes the conduct in connexion with that common purpose of all or any of the persons in the assembly.
-Commonwealth premises means premises, whether in a State or in a Territory, occupied by the Commonwealth or by a public authority under the Commonwealth.
-constable means a member of the Australian Federal Police or of the Police Force of a State or Territory.
-consular post means a consulate‑general, consulate, vice‑consulate or consular agency established in Australia by another country with the consent of the Government of Australia.
-designated overseas mission has the same meaning as in the Overseas Missions (Privileges and Immunities) Act 1995.
-diplomatic mission means a permanent diplomatic mission accredited to Australia by another country.
-frisk search means a search of a person conducted by quickly running the hands over the person’s outer clothing.
-international organization means an international governmental organization of which Australia is a member, and includes an agency of such an organization.
-Police Force means the Australian Federal Police or the Police Force of a State or Territory.
-premises means any land, building or part of a building.
-prescribed staff member, in relation to a designated overseas mission, means a member of the staff (including the head) of the designated overseas mission who is specified in regulations made for the purposes of this definition.
-Note:	A person may be prescribed by name, by reference to the holding of a specified office or position or by reference to membership of a specified class.
-protected person means a person who is:
-	(a)	a member of the diplomatic staff (including the head) of a diplomatic mission or special mission;
-	(b)	a member of the staff (including the head) of a consular post who is entrusted with the exercise of consular functions;
-	(ba)	a prescribed staff member of a designated overseas mission;
-	(c)	a high officer of an international organization; or
-	(d)	a representative of a member of an international organization at a meeting of, or under the auspices of, the organization;
-but does not include a person who is an Australian citizen or is permanently resident in Australia.
-protected premises means premises, whether in a State or in a Territory:
-	(a)	occupied for the purposes of:
-	(i)	a diplomatic mission;
-	(ii)	a special mission; or
-	(iii)	a consular post;
-	(b)	formerly occupied for purposes referred to in paragraph (a), being premises to which Article 45 of the Vienna Convention on Diplomatic Relations or Article 27 of the Vienna Convention on Consular Relations applies;
-	(ba)	occupied for the purposes of a designated overseas mission;
-	(c)	occupied by an international organization, or used for the purposes of a meeting of, or under the auspices of, an international organization;
-	(d)	used as the residence of, or otherwise for the private accommodation of, a protected person; or
-	(e)	formerly used as the residence of, or otherwise for the private accommodation of, the head of a diplomatic mission, being premises to which Article 45 of the Vienna Convention on Diplomatic Relations applies.
-protective service officer has the same meaning as in the Australian Protective Service Act 1987.
-public authority under the Commonwealth means an authority or body (not being an incorporated company or association) constituted by or under a law of the Commonwealth or of a Territory.
-screening search means a search of a person conducted by equipment designed to carry out such a search without touching the person.
-special mission means a temporary mission which is sent to Australia by the government of another country with the consent of the government of Australia.
-State includes the Northern Territory.
-Territory, except in subsection 25(2), means:
-	(a)	the Australian Capital Territory; or
-	(b)	the Jervis Bay Territory; or
-	(c)	the Territory of Christmas Island; or
-	(d)	the Territory of Cocos (Keeling) Islands.
-unreasonable obstruction means an act or thing done by a person that constitutes, or contributes to, an obstruction of, or interference with, the exercise or enjoyment by other persons of their lawful rights or privileges (including rights of passage along the public streets) where, having regard to all the circumstances of the obstruction or interference, including its place, time, duration and nature, it constitutes an unreasonable obstruction or interference, and unreasonably obstructs has a corresponding meaning.
-	(2)	References in this Act to a member of the Australian Federal Police shall be read as including references to a special member of the Australian Federal Police.
-	(3)	The Governor‑General may make regulations for the purposes of the definition of prescribed staff member in subsection (1).
-5  When assembly is in relation to protected premises or a protected person
-		For the purposes of this Act, but without limiting the operation of this Act:
-	(a)	an assembly is in relation to protected premises if persons in the assembly are on protected premises, or are at a place in the vicinity of protected premises by reason of the fact that that place is in the vicinity of those protected premises; and
-	(b)	an assembly is in relation to a protected person if persons in the assembly are at a place by reason of the fact that a protected person is present at or in the vicinity of that place.
-
-Part II—Provisions applying in Commonwealth Territories and on Commonwealth premises
-6  Assemblies involving violence or apprehension of violence
-	(1)	Where persons taking part in an assembly that is in a Territory or is wholly or partly on Commonwealth premises conduct themselves, in the Territory or on the Commonwealth premises, in a way that gives rise to a reasonable apprehension that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property, each of those persons is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(2)	A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, wilfully and without lawful excuse, does an act or thing by way of physical violence to another person or damage to property is guilty of an offence, punishable on conviction by imprisonment for not more than 12 months.
-7  Causing actual bodily harm or damage to property
-		A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, wilfully and without lawful excuse causes:
-	(a)	actual bodily harm to another person; or
-	(b)	damage, to an extent exceeding $1,500, to property;
-is guilty of an indictable offence, punishable on conviction by imprisonment, in the case of causing actual bodily harm, for a term not exceeding five years or, in the case of causing damage to property, for a term not exceeding three years.
-8  Dispersal of certain assemblies
-	(1)	Where there is an assembly consisting of not less than twelve persons in a Territory and:
-	(a)	persons taking part in the assembly have conducted themselves in a way that has caused a member of a Police Force of the rank of Sergeant or above reasonably to apprehend that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property; or
-	(b)	the assembly is being carried on in a manner involving such unlawful violence or damage;
-a member of a Police Force of the rank of Sergeant or above may give a direction under this section.
-	(2)	A direction under this section shall be given orally and in such a manner as to be likely to be audible to the persons constituting the assembly, or to as many of them as practicable, and shall be in accordance with the following form or to the like effect: 
-		In pursuance of the Public Order (Protection of Persons and Property) Act of the Commonwealth of Australia, I [name of police officer], being a Sergeant [or higher rank, as the case may be] in the [name of Police Force], direct all persons taking part in this assembly to disperse forthwith. Persons who fail to disperse may render themselves liable to the penalties provided by the Act.
-	(3)	Where:
-	(a)	a direction is given under this section; and
-	(b)	the assembly, to the number of not less than twelve persons, continues after the expiration of fifteen minutes from the time of the direction;
-each of those persons who has, without reasonable excuse, failed to comply with the direction is guilty of an offence, punishable on conviction by imprisonment for not more than 6 months.
-	(4)	For the purpose of:
-	(a)	dispersing an assembly in respect of which a direction has been given under this section; or
-	(b)	dispersing or suppressing an assembly to which paragraph (1)(b) applies (whether or not a direction has been given under this section in respect of the assembly);
-it is lawful for a person to use such force as he or she believes, on reasonable grounds, to be necessary for that purpose and is reasonably proportioned to the danger which he or she believes, on reasonable grounds, is to be apprehended from the continuance of the assembly.
-9  Unreasonable obstruction
-		A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, engages in unreasonable obstruction is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-10  Weapons, missiles etc.
-	(1)	A person who, in a Territory or on Commonwealth premises, while taking part in an assembly and without lawful excuse:
-	(a)	has in his or her possession a weapon, a missile or a destructive, noxious or repulsive object or substance;
-	(b)	discharges or uses a weapon or throws a missile;
-	(c)	throws, releases or deposits a destructive, noxious or repulsive object or substance; or
-	(d)	throws, releases, deposits or deals with an object or substance in a manner likely to cause injury to persons or damage to property;
-is guilty of an offence.
-	(2)	An offence against subsection (1) is punishable on conviction:
-	(a)	in respect of an offence arising under paragraph (1)(a)—by a fine of not more than 20 penalty units; or
-	(b)	in any other case—by imprisonment for not more than 6 months.
-11  Additional offences on premises in a Territory
-	(1)	A person who, without reasonable excuse, trespasses on premises in a Territory is guilty of an offence, punishable on conviction by a fine of not more than 10 penalty units.
-	(2)	A person who:
-	(a)	engages in unreasonable obstruction in relation to the passage of persons or vehicles into, out of, or on premises in a Territory, or otherwise in relation to the use of premises in a Territory;
-	(b)	while trespassing on premises in a Territory, behaves in an offensive or disorderly manner; or
-	(c)	being in or on premises in a Territory, refuses or neglects, without reasonable excuse, to leave those premises on being directed to do so by the occupier or a person acting with the authority of the occupier;
-is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(3)	Notwithstanding section 23, the consent of the Director of Public Prosecutions, or of a person, or of a person included in a class of persons, authorized by the Director of Public Prosecutions for the purposes of subsection (2) of that section, is not required for the institution of proceedings for the prosecution of an offence against this section.
-	(3A)	This section is not intended to exclude or limit the concurrent operation of any law of the Australian Capital Territory.
-	(4)	In this section, premises does not include Commonwealth premises.
-12  Additional offences on Commonwealth premises
-	(1)	A person who, without reasonable excuse, trespasses on Commonwealth premises is guilty of an offence, punishable on conviction by a fine of not more than 10 penalty units.
-	(2)	A person who:
-	(a)	engages in unreasonable obstruction in relation to the passage of persons or vehicles into, out of, or on Commonwealth premises, or otherwise in relation to the use of Commonwealth premises;
-	(b)	being in or on Commonwealth premises, behaves in an offensive or disorderly manner; or
-	(c)	being in or on Commonwealth premises, refuses or neglects, without reasonable excuse, to leave those premises on being directed to do so by a constable, by a protective service officer, or by a person authorized in writing by a Minister or the public authority under the Commonwealth occupying the premises to give directions for the purposes of this section;
-is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-13  Evidence
-	(1)	In proceedings arising out of this Part:
-	(a)	a certificate in writing given by an authorized person certifying as to any matter relevant to establishing that particular premises are, or were at a particular time, Commonwealth premises is evidence of the matter so certified; and
-	(b)	a writing purporting to be such a certificate shall, unless the contrary is proved, be deemed to be such a certificate and to have been duly given.
-	(2)	In this section, authorized person means a person in respect of whom there is in force for the time being a delegation of any power under section 139 of the Lands Acquisition Act 1989.
-
-Part IIA—Provisions relating to premises of certain federal courts and tribunals
-13A  Interpretation
-		In this Part, unless the contrary intention appears:
-authorised officer, in relation to a court, means:
-	(a)	a constable; or
-	(b)	a person authorised to exercise powers under this Part in relation to the court by:
-	(i)	the Attorney‑General; or
-	(ii)	if the court has power to administer its own affairs—a person exercising that power on behalf of the court.
-court means a federal court and includes a tribunal, authority or person having power under a law of the Commonwealth to require the production of documents or the answering of questions.
-court premises, in relation to a court, means any premises occupied in connection with the operations of the court.
-explosive substance includes:
-	(a)	any material for making an explosive substance; and
-	(b)	any apparatus, machine, implement or material used, or intended to be used, or adapted, for causing, or aiding in causing, an explosion in or with an explosive substance; and
-	(c)	a part of such an apparatus, machine or implement.
-firearm means a weapon designed or adapted to discharge shot, a bullet, or any other missile, as a result of the expansion of gases produced in the weapon by the ignition of strongly combustible materials, or by compressed air or other gases, whether stored in the weapon in pressurised containers or produced in the weapon by mechanical means, and includes a part of such a weapon and ammunition for use in such a weapon.
-offensive weapon means any article:
-	(a)	made or adapted for use for causing injury to, or incapacitating, a person; or
-	(b)	intended by the person having it with him or her, for such use;
-and includes a part of such an article.
-13B  Application of Part
-		This Part applies only to a court (as defined by section 13A) that is prescribed by the regulations for the purposes of this Part.
-13C  Power of authorised officer to require information
-	(1)	Subject to any limitations and restrictions provided by the regulations, if an authorised officer in relation to a court believes on reasonable grounds that it is necessary in the interests of security to do so, the officer may require a person who is on the court premises to tell the officer:
-	(a)	the person’s name; and
-	(b)	the address of the person’s place of residence; and
-	(c)	the person’s reason for being on the premises; and
-	(d)	evidence of the person’s identity.
-	(2)	A person of whom such a requirement is made must not, without reasonable excuse:
-	(a)	refuse or fail to comply with the requirement; or
-	(b)	give false information, or false evidence of identity, in response to the requirement.
-Penalty:	20 penalty units.
-13D  Power of authorised officer to search a person or require a person to deposit personal effects
-	(1)	Subject to any limitations and restrictions provided by the regulations, if an authorised officer in relation to a court believes on reasonable grounds that it is necessary in the interests of security to do so, the officer may:
-	(a)	require a person who is on the court premises to submit to either or both of the following:
-	(i)	a screening search and/or a frisk search of the person;
-	(ii)	a search of any of the person’s personal effects that are reasonably capable of concealing a firearm, explosive substance or offensive weapon;
-		for the purposes of finding out whether a firearm, explosive substance or offensive weapon is hidden in the person’s clothing or personal effects; and
-	(b)	require a person who is on the court premises to deposit with the authorised officer any personal effects that are reasonably capable of:
-	(i)	concealing a firearm, explosive substance or offensive weapon; or
-	(ii)	being used to cause injury to, or incapacitate, a person.
-	(2)	A person of whom a requirement is made under subsection (1) must not refuse or fail, without reasonable excuse, to comply with the requirement.
-Penalty:	20 penalty units.
-	(3)	If, in the course of a search under paragraph (1)(a), a firearm, explosive substance or offensive weapon is found, an authorised officer in relation to the court:
-	(a)	may take possession of the firearm, substance or weapon; and
-	(b)	may retain it for any period that he or she thinks necessary for the purposes of this Part.
-	(4)	This section does not authorise anyone conducting a frisk search of a person to remove, or to require the person to remove, any of the person’s clothing.
-	(5)	A frisk search of a person under this section is to be conducted by:
-	(a)	an authorised officer of the same sex as the person; or
-	(b)	if an authorised officer of the same sex as the person is not available to conduct the search—any other person who is of the same sex and:
-	(i)	is requested by an authorised officer; and
-	(ii)	agrees;
-		to conduct the search.
-	(6)	An action or proceeding, whether civil or criminal, does not lie against a person who, at the request of an authorised officer, conducts a search under this section if the person acts in good faith and does not contravene subsection (7).
-	(7)	An authorised officer or other person who conducts a search under this section must not use more force, or subject a person to greater indignity, than is reasonably necessary in order to conduct the search.
-13E  Removal from court premises
-	(1)	An authorised officer in relation to a court may direct a person to leave the court premises if the person:
-	(a)	refuses or fails to comply with a requirement made under subsection 13C(1) or 13D(1); or
-	(b)	does not satisfy the authorised officer that the person has a proper reason for being on the court premises.
-	(2)	For the purposes of paragraph (1)(b), without limiting what constitutes a proper reason for being on court premises, a person has such a reason if he or she wishes to attend the hearing of the proceedings in the court.
-	(3)	If a person refuses or fails to comply with a direction given to the person under subsection (1):
-	(a)	the person is guilty of an offence punishable on conviction by a fine of not more than 20 penalty units; and
-	(b)	a constable may refuse the person entry to, or remove the person from, the court premises, as the case requires.
-	(4)	Except as provided in subsection (1), a person is entitled to enter and remain on court premises if there is room for the person on the premises.
-13F  Person not to carry firearm, explosive substance or offensive weapon on court premises
-		A person must not, without lawful excuse, while on any court premises, carry or otherwise have in his or her possession a firearm, an explosive substance or an offensive weapon.
-Penalty:	Imprisonment for 12 months.
-13G  Saving
-	(1)	The powers conferred by this Part are in addition to, and do not derogate from, any other powers conferred on or possessed by any court, judge or person in relation to the conduct of proceedings in a court or the regulation of the conduct of people on court premises.
-	(2)	This Part does not affect any other power of a court in relation to contempt of the court or any other similar power.
-13H  Regulations
-		The Governor‑General may make regulations prescribing matters:
-	(a)	required or permitted to be prescribed for the purposes of this Part; or
-	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Part;
-and, in particular, providing for the dealing with information given by a person in response to a requirement made under this Part.
-
-Part III—Provisions relating to diplomatic and consular premises and personnel, designated overseas missions and international organizations
-14  Relation of Part to international law
-		The provisions of this Part, except in so far as they apply in relation to designated overseas missions, are intended to assist in giving effect, on the part of Australia, to the special duty imposed by international law on a state that receives a diplomatic or special mission, or consents to the establishment of a consular post, to take appropriate steps to protect the premises of the mission or post against intrusion or damage, to prevent any attack on the persons, freedom or dignity of the personnel of the mission or post and to prevent disturbance of the peace, or impairment of the dignity, of the mission or post.
-15  Assemblies involving violence or apprehension of violence
-	(1)	Where persons taking part in an assembly that is in relation to protected premises or a protected person conduct themselves in a way that gives rise to a reasonable apprehension that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property, each of those persons is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-	(2)	A person who, while taking part in an assembly that is in relation to protected premises or a protected person and without lawful excuse, does an act or thing by way of physical violence to another person or damage to property is guilty of an offence, punishable on conviction by imprisonment for not more than 12 months.
-16  Causing actual bodily harm or damage to property
-		A person who, while taking part in an assembly that is in relation to protected premises or to a protected person, wilfully and without lawful excuse causes:
-	(a)	actual bodily harm to another person; or
-	(b)	damage, to an extent exceeding $1,500, to property;
-is guilty of an indictable offence, punishable on conviction by imprisonment, in the case of causing actual bodily harm, for a term not exceeding five years or, in the case of causing damage to property, for a term not exceeding three years.
-17  Dispersal of certain assemblies
-	(1)	Where an assembly consisting of not less than twelve persons is taking place in relation to protected premises or to a protected person and:
-	(a)	persons taking part in the assembly have conducted themselves in a way that has caused a member of a Police Force of the rank of Sergeant or above reasonably to apprehend that the assembly will be carried on in a manner involving:
-	(i)	unlawful physical violence to persons or unlawful damage to property; or
-	(ii)	offences against section 18 or 20; or
-	(b)	the assembly is being carried on in a manner involving such unlawful violence or damage, or such offences;
-a member of a Police Force of the rank of Sergeant or above may give a direction under this section.
-	(2)	A direction under this section shall be given orally and in such a manner as to be likely to be audible to the persons constituting the assembly, or to as many of them as practicable, and shall be in accordance with the following form or to the like effect: 
-		In pursuance of the Public Order (Protection of Persons and Property) Act of the Commonwealth of Australia, I [name of police officer], being a Sergeant [or higher rank, as the case may be] in the [name of Police Force], direct all persons taking part in this assembly to disperse forthwith. Persons who fail to disperse may render themselves liable to the penalties provided by the Act.
-	(3)	Where:
-	(a)	a direction is given under this section; and
-	(b)	the assembly, to the number of not less than twelve persons, continues after the expiration of fifteen minutes from the time of the direction;
-each of those persons who has, without reasonable excuse, failed to comply with the direction is guilty of an offence, punishable on conviction by imprisonment for not more than 6 months.
-	(4)	For the purpose of:
-	(a)	dispersing an assembly in respect of which a direction has been given under this section; or
-	(b)	dispersing or suppressing an assembly to which paragraph (1)(b) applies by reason of its being carried on in a manner involving unlawful violence or damage (whether or not a direction has been given under this section in respect of the assembly);
-it is lawful for a person to use such force as he or she believes, on reasonable grounds, to be necessary for that purpose and is reasonably proportioned to the danger which he or she believes, on reasonable grounds, is to be apprehended from the continuance of the assembly.
-18  Obstruction, assault etc.
-		A person who:
-	(a)	assaults a protected person;
-	(b)	harasses a protected person or otherwise unreasonably interferes with the free and safe discharge of the duties of a protected person;
-	(c)	behaves in an offensive, threatening or insulting manner towards a protected person; or
-	(d)	unreasonably obstructs a protected person;
-is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-19  Weapons, missiles etc.
-	(1)	A person who, while taking part in an assembly that is in relation to protected premises or to a protected person, without lawful excuse:
-	(a)	has in his or her possession a weapon, a missile or a destructive, noxious or repulsive object or substance;
-	(b)	discharges or uses a weapon or throws a missile;
-	(c)	throws, releases or deposits a destructive, noxious or repulsive object or substance; or
-	(d)	throws, releases, deposits or deals with an object or substance in a manner likely to cause injury to persons or damage to property;
-is guilty of an offence.
-	(2)	An offence against subsection (1) is punishable on conviction:
-	(a)	in respect of an offence arising under paragraph (1)(a)—by a fine of not more than 20 penalty units; or
-	(b)	in any other case—by imprisonment for not more than 6 months.
-20  Additional offences in relation to protected premises
-	(1)	A person who, without reasonable excuse, trespasses on protected premises is guilty of an offence, punishable on conviction by a fine of not more than 10 penalty units.
-	(2)	A person who:
-	(a)	engages in unreasonable obstruction in relation to the passage of persons or vehicles into, out of or on protected premises, or otherwise in relation to the use of protected premises;
-	(b)	while trespassing on protected premises, behaves in an offensive or disorderly manner; or
-	(c)	being in or on protected premises, refuses or neglects, without reasonable excuse, to leave those premises on being directed to do so by a constable, by a protective service officer, by a protected person residing or performing duties on the premises, or by a person acting in accordance with authority conferred on him or her by such a protected person;
-is guilty of an offence, punishable on conviction by a fine of not more than 20 penalty units.
-21  Evidence
-	(1)	In proceedings arising out of this Part, evidence that persons taking part in an assembly were at a place in the vicinity of protected premises, or were at a place at which, or in the vicinity of which, a protected person was present, is evidence that those persons were at that place by reason of the fact that it was in the vicinity of the protected premises, or by reason of the fact that the protected person was present at or in the vicinity of that place, as the case may be.
-	(2)	In proceedings arising out of this Part:
-	(a)	a certificate in writing given by the Secretary to the Department of Foreign Affairs, or by an officer of that Department authorized in writing by the Secretary to give such certificates, certifying as to any matter relevant to establishing that:
-	(i)	particular premises are, or were at a particular time, protected premises; or
-	(ii)	a particular person is, or was at a particular time, a protected person;
-		is evidence of the matter so certified; and
-	(b)	a writing purporting to be such a certificate shall, unless the contrary is proved, be taken to be such a certificate and to have been duly given.
-
-Part IV—General
-22  Arrest
-		A constable may, without warrant, arrest a person for an offence against this Act if the constable has reasonable ground to believe that the person has committed that offence and that:
-	(a)	proceedings against the person by summons would not be effective; or
-	(b)	the arrest is necessary in order to prevent persistence by the person in, or repetition by the person of, conduct of the kind constituting the offence, or the commission by the person of other offences against this Act.
-23  Prosecutions
-	(1)	Offences against this Act, other than an offence against section 7 or section 16, are punishable on summary conviction.
-	(2)	Proceedings for:
-	(a)	the commitment of a person for trial on indictment for an offence against this Act; or
-	(b)	the summary prosecution of an offence against this Act;
-shall be instituted only with the consent in writing of the Director of Public Prosecutions, or of a person, or of a person included in a class of persons, authorized by the Director of Public Prosecutions, by writing, to give such consents.
-	(3)	Notwithstanding that a consent has not been given in relation to an offence in accordance with subsection (2):
-	(a)	a person may be charged with an offence against this Act;
-	(b)	a warrant for the arrest of a person for such an offence may be issued;
-	(c)	a person may be arrested for such an offence; and
-	(d)	a person charged with such an offence may be remanded in custody or on bail;
-but no further step in proceedings of a kind referred to in that subsection shall be taken in relation to the offence until such a consent has been obtained.
-	(4)	Nothing in subsection (2) prevents the discharge of the accused if proceedings are not continued within a reasonable time.
-24  Particulars to be furnished in respect of certain offences
-	(1)	Where a person charged with an offence against this Act punishable on summary conviction has requested the informant to furnish to that person further particulars of the conduct the subject of the charge, the court shall not proceed with the hearing of the charge until reasonable particulars of that conduct have been furnished to the person charged, and may accordingly adjourn the proceedings from time to time.
-	(2)	If reasonable particulars of the conduct the subject of the charge are not furnished within a reasonable time, the court may dismiss the charge.
-	(3)	Where, at the hearing of a charge for an offence to which this section applies, evidence is given for the prosecution of conduct that would constitute such an offence but that conduct is different from the conduct of which particulars have been given to the person charged upon a request under this section, the court may, on the application of the person charged and if it is of opinion that that person was misled by those particulars, adjourn the hearing upon such terms as it thinks fit.
-25  Exclusion of certain other laws
-	(1)	After the commencement of this Act, the common law with respect to the offences of taking part in an unlawful assembly, a rout or a riot:
-	(a)	does not have effect in a Territory; and
-	(b)	does not have effect in a place that is a Commonwealth place within the meaning of the Commonwealth Places (Application of Laws) Act 1970 (including a place that becomes such a place after the commencement of this Act), whether by virtue of that Act or otherwise.
-	(2)	An enactment specified in the Schedule to this Act, to the extent that it was, immediately before the commencement of this Act, in force in a Territory or, whether by virtue of the Commonwealth Places (Application of Laws) Act 1970 or otherwise, in a place that is a Commonwealth place within the meaning of that Act, is repealed, and none of those enactments is, by virtue of that Act or otherwise, in force in a place that becomes a Commonwealth place, within the meaning of that Act, after that commencement.
-	(2A)	In subsection (2), Territory means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory.
-	(3)	It is the intention of this Act that the provisions of this Act that apply in relation to assemblies in a State that are:
-	(a)	on Commonwealth premises that are not a Commonwealth place within the meaning of the Commonwealth Places (Application of Laws) Act 1970; or
-	(b)	in relation to protected premises or to a protected person;
-shall so apply to the exclusion of the common law with respect to the offences of taking part in an unlawful assembly, a rout or a riot and to the exclusion of the enactments specified in the Schedule to this Act.
-	(4)	Except as provided by this section, nothing in this Act is intended to exclude the operation of a law of a State or Territory, whether made before or after the commencement of this Act, to the extent that that law is capable of operating concurrently with the express provisions of this Act.
-	(5)	A reference in the Schedule to a particular enactment shall be read as including a reference to that enactment as amended at any time and to any enactment in substitution for that enactment.
-The Schedule  
-Section 25
-Part I—Imperial Enactments 
+### <center><name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - Updated as at 16 November 1995 (HISTACT2 CHAP 695 #DATE 16:11:1995) </name></center>
+</b>** *1* The Public Order (Protection of Persons and Property) Act 1971 as shown in this reprint comprises Act No. 26, 1971 amended as indicated in the Tables below.<lf>                                 Table of Acts<lf>     Act             Date           Date of                   Application<lf>     Number and      of assent      commencement              saving or<lf>     year                                                     transitional<lf>                                                              provisions<lf>     Public Order (Protection of Persons and Property) Act 1971<lf>     26, 1971        13 May 1971    13 May 1971<lf>     Statute Law Revision Act 1973<lf>     216, 1973       19 Dec 1973    31 Dec 1973               S. 9 (1)<lf>     Australian Federal Police (Consequential Amendments) Act 1979<lf>     155, 1979       28 Nov 1979    19 Oct 1979 (see s. 2     -<lf>                                    and Gazette 1979,<lf>                                    No. S206)<lf>     Australian Federal Police (Consequential Amendments) Act 1980<lf>     70, 1980        28 May 1980    28 May 1980               -<lf>     Director of Public Prosecutions (Consequential Amendments) Act 1983<lf>     114, 1983       14 Dec 1983    Part XII (ss. 25-27):     S. 27 (2)<lf>                                    5 Mar 1984 (see Gazette<lf>                                    1984, No. S55) (a)<lf>     Statute Law (Miscellaneous Provisions) Act (No. 2) 1984<lf>     165, 1984       25 Oct 1984    S. 3: 22 Nov 1984 (b)     S. 6 (1)<lf>     Statute Law (Miscellaneous Provisions) Act (No. 2) 1985<lf>     193, 1985       16 Dec 1985    S. 3: Royal Assent (c)    S. 16<lf>     Statute Law (Miscellaneous Provisions) Act (No. 2) 1986<lf>     168, 1986       18 Dec 1986    S. 3: Royal Assent (d)    S. 5 (1)<lf>     Statute Law (Miscellaneous Provisions) Act 1987<lf>     141, 1987       18 Dec 1987    S. 3: Royal Assent (e)    S. 5 (1)<lf>     Lands Acquisition (Repeal and Consequential Provisions) Act 1989<lf>     21, 1989        20 Apr 1989    9 June 1989 (see s. 2     -<lf>                                    and Gazette 1989,<lf>                                    No. S185)<lf>     Territories Law Reform Act 1992<lf>     104, 1992       30 June 1992   S. 24: 1 July 1992 (f)    -<lf>     Crimes Legislation Amendment Act 1992<lf>     164, 1992       11 Dec 1992    Part 1 (ss. 1, 2) and     -<lf>                                    Parts 3-11 (ss. 18-53):<lf>                                    8 Jan 1993<lf>                                    Remainder: 1 Feb 1993<lf>                                    (see Gazette 1993, No. GN1)<lf>     Overseas Missions (Privileges and Immunities) (Consequential Amendments)<lf>     Act 1995<lf>     58, 1995        28 June 1995   28 June 1995              -<lf>     Public Order (Protection of Persons and Property) Amendment Act 1995<lf>     116, 1995       17 Oct 1995    (see Note 2)              -<lf> (a) The Public Order (Protection of Persons and Property) Act 1971 was amended by Part XII (sections 25-27) only of the Director of Public Prosecutions (Consequential Amendments) Act 1983, subsection 2 (1) of which provides as follows:<lf>   "(1) Subject to this section, this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which the Director of Public Prosecutions Act 1983 comes into operation."<lf> (b) The Public Order (Protection of Persons and Property) Act 1971 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1984, subsection 2 (1) of which provides as follows:<lf>   "(1) Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent."<lf> (c) The Public Order (Protection of Persons and Property) Act 1971 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1985, subsection 2 (1) of which provides as follows:<lf>   "(1) Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent."<lf> (d) The Public Order (Protection of Persons and Property) Act 1971 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986, subsection 2 (1) of which provides as follows:<lf>   "(1) Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent."<lf> (e) The Public Order (Protection of Persons and Property) Act 1971 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2 (1) of which provides as follows:<lf>   "(1) Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent."<lf> (f) The Public Order (Protection of Persons and Property) Act 1971 was amended by section 24 only of the Territories Law Reform Act 1992, section 2 (3) of which provides as follows:<lf>   "(3) The remaining provisions of this Act commence on 1 July 1992."<lf>                             Table of Amendments<lf>     ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected   How affected<lf>     Title                am. No. 216, 1973; No. 58, 1995<lf>     S. 3                 rep. No. 216, 1973<lf>     S. 4                 am. No. 155, 1979; No. 70, 1980; No. 193, 1985;<lf>                          No. 168, 1986; No. 141, 1987; No. 104, 1992;<lf>                          No. 58, 1995<lf>     S. 11                am. No. 114, 1983; No. 165, 1984; No. 164, 1992<lf>     S. 12                am. No. 141, 1987<lf>     S. 13                am. No. 21, 1989<lf>     Heading to Part III  am. No. 58, 1995<lf>     S. 14                am. No. 58, 1995<lf>     S. 20                am. No. 141, 1987<lf>     S. 23                am. No. 114, 1983; No. 165, 1984<lf>     S. 25                am. No. 168, 1986<lf>     The Schedule         am. No. 168, 1986<lf> #ADD 27:11:1995 </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
-Enactment
-Short title or subject
-17 Richard 2, c. 8 	
-Riots and Tumults Suppression 
-13 Henry 4, c. 7 	
-The Riot Act, 1411
-2 Henry 5, Stat. 1, c. 8 	
-The Riot Act, 1414 
-13 Charles 2, Stat. 1, c. 5	
-The Tumultuous Petitioning Act, 1661 
-1 George 1, Stat. 2, c. 5 	
-The Riot Act 
-33 George 3, c. 67 	
-The Shipping Offences Act, 1793 
-
-Part II—Other enactments in force in Australia 
-New South Wales—
-Sections 205, 206, 207 and 545C of the Crimes Act, 1900.
-Victoria—
-Section 206 of the Crimes Act, 1958.
-Unlawful Assemblies and Processions Act 1958. 
-Queensland—
-Sections 62, 63, 64, 65, 66 and 77 of The Criminal Code.
-South Australia—
-Sections 95, 244 and 245 of the Criminal Law Consolidation Act 1935‑1966.
-Western Australia—
-Sections 63, 64, 65, 66 and 67 of the Criminal Code Act 1913. Tasmania—
-Sections 74, 75 and 77 of the Criminal Code.
-Northern Territory—
-Sections 91, 92, 300, 301 and 302 of the Criminal Law Consolidation Act and Ordinance 1876 to 1969, as in force in the Territory.
-Sections 64, 65, 66, 67 and 68 of the Criminal Code Act 1983.
-Australian Capital Territory and Jervis Bay Territory—
-Party Processions Prevention Act, 1901 of the State of New South Wales, in its application to the Territory.
-Sections 205, 206 and 207 of the Crimes Act, 1900 of the State of New South Wales, in its application to the Territory.
-Notes to the Public Order (Protection of Persons and Property) Act 1971
-Note 1
-The Public Order (Protection of Persons and Property) Act 1971 as shown in this compilation comprises Act No. 26, 1971 amended as indicated in the Tables below.
-Table of Acts
-Act
-Number  and year
-Date  of Assent
-Date of commencement
-Application, saving or transitional provisions
-Public Order (Protection of Persons and Property) Act 1971
-26, 1971
-13 May 1971
-13 May 1971
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - TABLE OF PROVISIONS </name>
+</b>** 
 
-Statute Law Revision Act 1973
-216, 1973
-19 Dec 1973
-31 Dec 1973
-S. 9(1)
-Australian Federal Police (Consequential Amendments) Act 1979
-155, 1979
-28 Nov 1979
-19 Oct 1979 (see s. 2 and Gazette 1979, No.S206)
-—
-Australian Federal Police (Consequential Amendments) Act 1980
-70, 1980
-28 May 1980
-28 May 1980
-—
-Director of Public Prosecutions (Consequential Amendments) Act 1983
-114, 1983
-14 Dec 1983
-Part XII (ss. 25‑27): 5 Mar 1984 (see Gazette 1984, No. S55) (a)
-S. 27(2)
-Statute Law (Miscellaneous Provisions) Act (No. 2) 1984
-165, 1984
-25 Oct 1984
-S. 3: 22 Nov 1984 (b)
-S. 6(1)
-Statute Law (Miscellaneous Provisions) Act (No. 2) 1985
-193, 1985
-16 Dec 1985
-S. 3: Royal Assent (c)
-S. 16
-Statute Law (Miscellaneous Provisions) Act (No. 2) 1986
-168, 1986
-18 Dec 1986
-S. 3: Royal Assent (d)
-S. 5(1)
-Statute Law (Miscellaneous Provisions) Act 1987
-141, 1987
-18 Dec 1987
-S. 3: Royal Assent (e)
-S. 5(1)
-Lands Acquisition (Repeal and Consequential Provisions) Act 1989
-21, 1989
-20 Apr 1989
-9 June 1989 (see s. 2 and Gazette 1989, No.S185)
-—
-Territories Law Reform Act 1992
-104, 1992
-30 June 1992
-S. 24: 1 July 1992 (f)
-—
-Crimes Legislation Amendment Act 1992
-164, 1992
-11 Dec 1992
-Part 1 (ss. 1, 2) and Parts 3‑11 (ss. 18‑53): 8 Jan 1993 Remainder: 1 Feb 1993 (see Gazette 1993, No. GN1)
-—
-Overseas Missions (Privileges and Immunities) (Consequential Amendments) Act 1995
-58, 1995
-28 June 1995
-28 June 1995
-—
-Public Order (Protection of Persons and Property) Amendment Act 1995
-116, 1995
-17 Oct 1995
-17 Apr 1996
-—
-Statute Law Revision Act 1996
-43, 1996
-25 Oct 1996
-Schedule 5 (item 125): Royal Assent (g)
-— 
+## TABLE
+<tables> <tt>                          TABLE OF PROVISIONS<lf> Section<lf>                           PART I - PRELIMINARY<lf>     1\. Short title<lf>     2\. Commencement<lf>     4\. Interpretation<lf>     5\. When assembly is "in relation to" protected premises or a<lf>        protected person<lf>        PART II - PROVISIONS APPLYING IN COMMONWEALTH TERRITORIES AND ON<lf>                           COMMONWEALTH PREMISES<lf>     6\. Assemblies involving violence or apprehension of violence<lf>     7\. Causing actual bodily harm or damage to property<lf>     8\. Dispersal of certain assemblies<lf>     9\. Unreasonable obstruction<lf>    10\. Weapons, missiles etc.<lf>    11\. Additional offences on premises in a Territory<lf>    12\. Additional offences on Commonwealth premises<lf>    13\. Evidence<lf>                       PART IIA - (sections 13A-13H)<lf>                      (Not in operation - see Note 2)<lf>          PART III - PROVISIONS RELATING TO DIPLOMATIC AND CONSULAR<lf>          PREMISES AND PERSONNEL, DESIGNATED OVERSEAS MISSIONS AND<lf>                       INTERNATIONAL ORGANIZATIONS<lf>    14\. Relation of Part to international law<lf>    15\. Assemblies involving violence or apprehension of violence<lf>    16\. Causing actual bodily harm or damage to property<lf>    17\. Dispersal of certain assemblies<lf>    18\. Obstruction, assault etc.<lf>    19\. Weapons, missiles etc.<lf>    20\. Additional offences in relation to protected premises<lf>    21\. Evidence<lf>                            PART IV - GENERAL<lf>    22\. Arrest<lf>    23\. Prosecutions<lf>    24\. Particulars to be furnished in respect of certain offences<lf>    25\. Exclusion of certain other laws<lf>                              THE SCHEDULE<lf>                      PART I - IMPERIAL ENACTMENTS<lf>             PART II - OTHER ENACTMENTS IN FORCE IN AUSTRALIA<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-(a)	The Public Order (Protection of Persons and Property) Act 1971 was amended by Part XII (sections 25‑27) only of the Director of Public Prosecutions (Consequential Amendments) Act 1983, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which the Director of Public Prosecutions Act 1983 comes into operation.
-(b)	The Public Order (Protection of Persons and Property) Act 1971 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1984, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
-(c)	The Public Order (Protection of Persons and Property) Act 1971 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1985, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
-(d)	The Public Order (Protection of Persons and Property) Act 1971 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
-(e)	The Public Order (Protection of Persons and Property) Act 1971 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
-(f)	The Public Order (Protection of Persons and Property) Act 1971 was amended by section 24 only of the Territories Law Reform Act 1992, section 2(3) of which provides as follows:
-	(3)	The remaining provisions of this Act commence on 1 July 1992.
-(g)	The Public Order (Protection of Persons and Property) Act 1971 was amended by Schedule 5 (item 125) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows:
-	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-Table of Amendments
-ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
-Provision affected
-How affected
-Title	
-am. No. 216, 1973; Nos. 58 and 116, 1995
-S. 3	
-rep. No. 216, 1973
-S. 4	
-am. No. 155, 1979; No. 70, 1980; No. 193, 1985; No. 168,1986; No. 141, 1987; No. 104, 1992; Nos. 58 and 116, 1995
-Ss. 6, 7	
-am. No. 116, 1995
-S. 8	
-am. No. 116, 1995; No. 43, 1996
-Ss. 9, 10	
-am. No. 116, 1995
-S. 11	
-am. No. 114, 1983; No. 165, 1984; No. 164, 1992; No. 116, 1995
-S. 12	
-am. No. 141, 1987; No. 116, 1995
-S. 13	
-am. No. 21, 1989
-Part IIA 	 (ss. 13A‑13H)
-ad. No. 116, 1995
-Ss. 13A‑13H	
-ad. No. 116, 1996
-Heading to Part III	
-am. No. 58, 1995
-S. 14	
-am. No. 58, 1995
-Ss. 15‑19	
-am. No. 116, 1995
-S. 20	
-am. No. 141, 1987; No. 116, 1995
-S. 23	
-am. No. 114, 1983; No. 165, 1984; No. 116, 1995
-S. 25	
-am. No. 168, 1986
-The Schedule	
-am. No. 168, 1986 
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - LONG TITLE </name>
+</b>** 
 
+## SECT
+<sect>     An Act relating to the Preservation of Public Order in Certain<lf>      Territories and in respect of Commonwealth Premises and the<lf>       Premises and Personnel of Diplomatic and Special Missions,<lf>           Consular Posts, Designated Overseas Missions and<lf>                   International Organizations*2*<lf> *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - PART I  PART I - PRELIMINARY </name>
+</b>** 
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 1 Short title </name>
+</b>** 
+
+## SECT
+<sect>   1\. This Act may be cited as the Public Order (Protection of Persons and Property) Act 1971.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 2 Commencement </name>
+</b>** 
+
+## SECT
+<sect>   2\. This Act shall come into operation on the day on which it receives the Royal Assent.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 4 Interpretation </name>
+</b>** 
+
+## SECT
+<sect>   4.*2* (1) In this Act, unless the contrary intention appears:<lf>   "assembly" means an assembly of not less than three persons who are assembled for a common purpose, whether or not other persons are assembled with them and whether the assembly is at a particular place or moving, and includes the conduct in connexion with that common purpose of all or any ofthe persons in the assembly;<lf>   "Commonwealth premises" means premises, whether in a State or in a Territory, occupied by the Commonwealth or by a public authority under the Commonwealth;<lf>   "constable" means a member of the Australian Federal Police or of the Police Force of a State or Territory;<lf>   "consular post" means a consulate-general, consulate, vice-consulate or consular agency established in Australia by another country with the consent of the Government of Australia;<lf>   "designated overseas mission" has the same meaning as in the Overseas Missions (Privileges and Immunities) Act 1995;<lf>   "diplomatic mission" means a permanent diplomatic mission accredited to Australia by another country;<lf>   "international organization" means an international governmental organization of which Australia is a member, and includes an agency of such an organization;<lf>   "Police Force" means the Australian Federal Police or the Police Force of a State or Territory;<lf>   "premises" means any land, building or part of a building;<lf>   "prescribed staff member", in relation to a designated overseas mission, means a member of the staff (including the head) of the designated overseas mission who is specified in regulations made for the purposes of this definition;<lf> Note: A person may be prescribed by name, by reference to the holding of a specified office or position or by reference to membership of a specified class.<lf>   "protected person" means a person who is:<lf>   (a) a member of the diplomatic staff (including the head) of a diplomatic mission or special mission;<lf>   (b) a member of the staff (including the head) of a consular post who is entrusted with the exercise of consular functions;<lf>   (ba) a prescribed staff member of a designated overseas mission;<lf>   (c) a high officer of an international organization; or<lf>   (d) a representative of a member of an international organization at a meeting of, or under the auspices of, the organization;<lf> but does not include a person who is an Australian citizen or is permanently resident in Australia;<lf>   "protected premises" means premises, whether in a State or in a Territory:<lf>   (a) occupied for the purposes of:<lf>     (i) a diplomatic mission;<lf>     (ii) a special mission; or<lf>     (iii) a consular post;<lf>   (b) formerly occupied for purposes referred to in paragraph (a), being premises to which Article 45 of the Vienna Convention on Diplomatic Relations or Article 27 of the Vienna Convention on Consular Relations applies;<lf>   (ba) occupied for the purposes of a designated overseas mission;<lf>   (c) occupied by an international organization, or used for the purposes of a meeting of, or under the auspices of, an international organization;<lf>   (d) used as the residence of, or otherwise for the private accommodation of, a protected person; or<lf>   (e) formerly used as the residence of, or otherwise for the private accommodation of, the head of a diplomatic mission, being premises to which Article 45 of the Vienna Convention on Diplomatic Relations applies;<lf>   "protective service officer" has the same meaning as in the Australian Protective Service Act 1987;<lf>   "public authority under the Commonwealth" means an authority or body (not being an incorporated company or association) constituted by or under a law of the Commonwealth or of a Territory;<lf>   "special mission" means a temporary mission which is sent to Australia by the government of another country with the consent of the government of Australia;<lf>   "State" includes the Northern Territory;<lf>   "Territory", except in subsection 25 (2), means:<lf>   (a) the Australian Capital Territory; or<lf>   (b) the Jervis Bay Territory; or<lf>   (c) the Territory of Christmas Island; or<lf>   (d) the Territory of Cocos (Keeling) Islands;<lf>   "unreasonable obstruction" means an act or thing done by a person that constitutes, or contributes to, an obstruction of, or interference with, the exercise or enjoyment by other persons of their lawful rights or privileges (including rights of passage along the public streets) where, having regard to all the circumstances of the obstruction or interference, including its place, time, duration and nature, it constitutes an unreasonable obstruction or interference, and "unreasonably obstructs" has a corresponding meaning. 
+
+<lf>   (2) References in this Act to a member of the Australian Federal Police shall be read as including references to a special member of the Australian Federal Police. <p><lf>   (3) The Governor-General may make regulations for the purposes of the definition of "prescribed staff member"in subsection (1). *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></p></lf>
+</lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 5 When assembly is "in relation to" protected premises or a protected person </name>
+</b>** 
+
+## SECT
+<sect>   5\. For the purposes of this Act, but without limiting the operation of this Act:<lf>   (a) an assembly is in relation to protected premises if persons in the assembly are on protected premises, or are at a place in the vicinity of protected premises by reason of the fact that that place is in the vicinity of those protected premises; and<lf>   (b) an assembly is in relation to a protected person if persons in the assembly are at a place by reason of the fact that a protected person is present at or in the vicinity of that place. </lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - PART II  PART II - PROVISIONS APPLYING IN COMMONWEALTH TERRITORIES  AND ON COMMONWEALTH PREMISES </name>
+</b>** 
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 6 Assemblies involving violence or apprehension of violence </name>
+</b>** 
+
+## SECT
+<sect>   6.*2* (1) Where persons taking part in an assembly that is in a Territory or is wholly or partly on Commonwealth premises conduct themselves, in the Territory or on the Commonwealth premises, in a way that gives rise to a reasonable apprehension that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property, each of those persons is guilty of an offence, punishable on conviction by a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both. 
+
+<lf>   (2) A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, wilfully and without lawful excuse, does an act or thing by way of physical violence to another person or damage to property is guilty of an offence, punishable on conviction by a fine not exceeding One thousand dollars or imprisonment for a term not exceeding twelve months, or both. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf>
+</sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 7 Causing actual bodily harm or damage to property </name>
+</b>** 
+
+## SECT
+<sect>   7.*2* A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, wilfully and without lawful excuse causes:<lf>   (a) actual bodily harm to another person; or<lf>   (b) damage, to an extent exceeding Two hundred dollars, to property;<lf> is guilty of an indictable offence, punishable on conviction by imprisonment, in the case of causing actual bodily harm, for a term not exceeding five years or, in the case of causing damage to property, for a term not exceeding three years. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 8 Dispersal of certain assemblies </name>
+</b>** 
+
+## SECT
+<sect>   8.*2* (1) Where there is an assembly consisting of not less than twelve persons in a Territory and:<lf>   (a) persons taking part in the assembly have conducted themselves in a way that has caused a member of a Police Force of the rank of Sergeant or above reasonably to apprehend that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property; or<lf>   (b) the assembly is being carried on in a manner involving such unlawful violence or damage;<lf> a member of a Police Force of the rank of Sergeant or above may give a direction under this section. 
+
+<lf>   (2) A direction under this section shall be given orally and in such a manner as to be likely to be audible to the persons constituting the assembly, or to as many of them as practicable, and shall be in accordance with the following form or to the like effect:<lf>   In pursuance of the Public Order (Protection of Persons and Property) Act of the Commonwealth of Australia, I (name of police officer), being a Sergeant (or higher rank, as the case may be) in the (name of Police Force), direct all persons taking part in this assembly to disperse forthwith. Persons who fail to disperse may render themselves liable to the penalties provided by the Act. <p><lf>   (3) Where:<lf>   (a) a direction is given under this section; and<lf>   (b) the assembly, to the number of not less than twelve persons, continues after the expiration of fifteen minutes from the time of the direction;<lf> each of those persons who has, without reasonable excuse, failed to comply with the direction is guilty of an offence, punishable on conviction by a fine not exceeding Five hundred dollars or imprisonment for a term not exceeding six months, or both. <p><lf>   (4) For the purpose of:<lf>   (a) dispersing an assembly in respect of which a direction has been given under this section; or<lf>   (b) dispersing or suppressing an assembly to which paragraph (b) of subsection (1) of this section applies (whether or not a direction has been given under this section in respect of the assembly);<lf> it is lawful for a person to use such force as he believes, on reasonable grounds, to be necessary for that purpose and is reasonably proportioned to the danger which he believes, on reasonable grounds, is to be apprehended from the continuance of the assembly. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf>
+</lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 9 Unreasonable obstruction </name>
+</b>** 
+
+## SECT
+<sect>   9.*2* A person who, in a Territory or on Commonwealth premises, while taking part in an assembly, engages in unreasonable obstruction is guilty of an offence, punishable on conviction by a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 10 Weapons, missiles etc. </name>
+</b>** 
+
+## SECT
+<sect>   10.*2* (1) A person who, in a Territory or on Commonwealth premises, while taking part in an assembly and without lawful excuse:<lf>   (a) has in his possession a weapon, a missile or a destructive, noxious or repulsive object or substance;<lf>   (b) discharges or uses a weapon or throws a missile;<lf>   (c) throws, releases or deposits a destructive, noxious or repulsive object or substance; or<lf>   (d) throws, releases, deposits or deals with an object or substance in a manner likely to cause injury to persons or damage to property;<lf> is guilty of an offence. 
+
+<lf>   (2) An offence against the last preceding subsection is punishable on conviction:<lf>   (a) in the case of an offence arising under paragraph (a) of that subsection - by a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both; or<lf>   (b) in any other case - by a fine not exceeding Five hundred dollars or imprisonment for a term not exceeding six months, or both. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 11 Additional offences on premises in a Territory </name>
+</b>** 
+
+## SECT
+<sect>   11.*2* (1) A person who, without reasonable excuse, trespasses on premises in a Territory is guilty of an offence, punishable on conviction by a fine not exceeding One hundred dollars or imprisonment for a term not exceeding one month, or both. 
+
+<lf>   (2) A person who:<lf>   (a) engages in unreasonable obstruction in relation to the passage of persons or vehicles into, out of, or on premises in a Territory, or otherwise in relation to the use of premises in a Territory;<lf>   (b) while trespassing on premises in a Territory, behaves in an offensive or disorderly manner; or<lf>   (c) being in or on premises in a Territory, refuses or neglects, without reasonable excuse, to leave those premises on being directed to do so by the occupier or a person acting with the authority of the occupier;<lf> is guilty of an offence, punishable on conviction by a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both. <p><lf>   (3) Notwithstanding section 23, the consent of the Director of Public Prosecutions, or of a person, or of a person included in a class of persons, authorized by the Director of Public Prosecutions for the purposes of subsection (2) of that section, is not required for the institution of proceedings for the prosecution of an offence against this section. <p><lf>   (3A) This section is not intended to exclude or limit the concurrent operation of any law of the Australian Capital Territory. <p><lf>   (4) In this section, "premises" does not include Commonwealth premises. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></p></lf></p></lf></p></lf></lf></lf></lf></lf>
+</sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 12 Additional offences on Commonwealth premises </name>
+</b>** 
+
+## SECT
+<sect>   12.*2* (1) A person who, without reasonable excuse, trespasses on Commonwealth premises is guilty of an offence, punishable on conviction by a fine not exceeding One hundred dollars or imprisonment for a term not exceeding one month, or both. 
+
+<lf>   (2) A person who:<lf>   (a) engages in unreasonable obstruction in relation to the passage of persons or vehicles into, out of, or on Commonwealth premises, or otherwise in relation to the use of Commonwealth premises;<lf>   (b) being in or on Commonwealth premises, behaves in an offensive or disorderly manner; or<lf>   (c) being in or on Commonwealth premises, refuses or neglects, without reasonable excuse, to leave those premises on being directed to do so by a constable, by a protective service officer, or by a person authorized in writing by a Minister or the public authority under the Commonwealth occupying the premises to give directions for the purposes of this section;<lf> is guilty of an offence, punishable on conviction by a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf></lf></lf>
+</sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 13 Evidence </name>
+</b>** 
+
+## SECT
+<sect>   13\. (1) In proceedings arising out of this Part:<lf>   (a) a certificate in writing given by an authorized person certifying as to any matter relevant to establishing that particular premises are, or were at a particular time, Commonwealth premises is evidence of the matter so certified; and<lf>   (b) a writing purporting to be such a certificate shall, unless the contrary is proved, be deemed to be such a certificate and to have been duly given. 
+
+<lf>   (2) In this section, "authorized person" means a person in respect of whom there is in force for the time being a delegation of any power under section 139 of the Lands Acquisition Act 1989\. </lf>
+</lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - PART IIA  Part IIA - (sections 13A-13H)*2* </name>
+</b>** *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - PART III  PART III - PROVISIONS RELATING TO DIPLOMATIC AND CONSULAR PREMISES AND  PERSONNEL, DESIGNATED OVERSEAS MISSIONS AND INTERNATIONAL ORGANIZATIONS </name>
+</b>** 
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 14 Relation of Part to international law </name>
+</b>** 
+
+## SECT
+<sect>   14\. The provisions of this Part, except in so far as they apply in relation to designated overseas missions, are intended to assist in giving effect, on the part of Australia, to the special duty imposed by international law on a state that receives a diplomatic or special mission, or consents to the establishment of a consular post, to take appropriate steps to protect the premises of the mission or post against intrusion or damage, to prevent any attack on the persons, freedom or dignity of the personnel of the mission or post and to prevent disturbance of the peace, or impairment of the dignity, of the mission or post. </sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 15 Assemblies involving violence or apprehension of violence </name>
+</b>** 
+
+## SECT
+<sect>   15.*2* (1) Where persons taking part in an assembly that is in relation to protected premises or a protected person conduct themselves in a way that gives rise to a reasonable apprehension that the assembly will be carried on in a manner involving unlawful physical violence to persons or unlawful damage to property, each of those persons is guilty of an offence, punishable on conviction by a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both. 
+
+<lf>   (2) A person who, while taking part in an assembly that is in relation to protected premises or a protected person and without lawful excuse, does an act or thing by way of physical violence to another person or damage to property is guilty of an offence, punishable on conviction by a fine not exceeding One thousand dollars or imprisonment for a term not exceeding twelve months, or both. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf>
+</sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 16 Causing actual bodily harm or damage to property </name>
+</b>** 
+
+## SECT
+<sect>   16.*2* A person who, while taking part in an assembly that is in relation to protected premises or to a protected person, wilfully and without lawful excuse causes:<lf>   (a) actual bodily harm to another person; or<lf>   (b) damage, to an extent exceeding Two hundred dollars, to property;<lf> is guilty of an indictable offence, punishable on conviction by imprisonment, in the case of causing actual bodily harm, for a term not exceeding five years or, in the case of causing damage to property, for a term not exceeding three years. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 17 Dispersal of certain assemblies </name>
+</b>** 
+
+## SECT
+<sect>   17.*2* (1) Where an assembly consisting of not less than twelve persons is taking place in relation to protected premises or to a protected person and:<lf>   (a) persons taking part in the assembly have conducted themselves in a way that has caused a member of a Police Force of the rank of Sergeant or above reasonably to apprehend that the assembly will be carried on in a manner involving:<lf>     (i) unlawful physical violence to persons or unlawful damage to<lf> property; or<lf>     (ii) offences against section 18 or 20 of this Act; or<lf>   (b) the assembly is being carried on in a manner involving such unlawful violence or damage, or such offences;<lf> a member of a Police Force of the rank of Sergeant or above may give a direction under this section. 
+
+<lf>   (2) A direction under this section shall be given orally and in such a manner as to be likely to be audible to the persons constituting the assembly, or to as many of them as practicable, and shall be in accordance with the following form or to the like effect:<lf>   In pursuance of the Public Order (Protection of Persons and Property) Act of the Commonwealth of Australia, I (name of police officer), being a Sergeant (or higher rank, as the case may be) in the (name of Police Force), direct all persons taking part in this assembly to disperse forthwith. Persons who fail to disperse may render themselves liable to the penalties provided by the Act. <p><lf>   (3) Where:<lf>   (a) a direction is given under this section; and<lf>   (b) the assembly, to the number of not less than twelve persons, continues after the expiration of fifteen minutes from the time of the direction;<lf> each of those persons who has, without reasonable excuse, failed to comply with the direction is guilty of an offence, punishable on conviction by a fine not exceeding Five hundred dollars or imprisonment for a term not exceeding six months, or both. <p><lf>   (4) For the purpose of:<lf>   (a) dispersing an assembly in respect of which a direction has been given under this section; or<lf>   (b) dispersing or suppressing an assembly to which paragraph (b) of subsection (1) of this section applies by reason of its being carried on in a manner involving unlawful violence or damage (whether or not a direction has been given under this section in respect of the assembly);<lf> it is lawful for a person to use such force as he believes, on reasonable grounds, to be necessary for that purpose and is reasonably proportioned to the danger which he believes, on reasonable grounds, is to be apprehended from the continuance of the assembly. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf></p></lf></lf>
+</lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 18 Obstruction, assault etc. </name>
+</b>** 
+
+## SECT
+<sect>   18.*2* A person who:<lf>   (a) assaults a protected person;<lf>   (b) harasses a protected person or otherwise unreasonably interferes with the free and safe discharge of the duties of a protected person;<lf>   (c) behaves in an offensive, threatening or insulting manner towards a protected person; or<lf>   (d) unreasonably obstructs a protected person;<lf> is guilty of an offence, punishable on conviction by a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 19 Weapons, missiles etc. </name>
+</b>** 
+
+## SECT
+<sect>   19.*2* (1) A person who, while taking part in an assembly that is in relation to protected premises or to a protected person, without lawful excuse:<lf>   (a) has in his possession a weapon, a missile or a destructive, noxious or repulsive object or substance;<lf>   (b) discharges or uses a weapon or throws a missile;<lf>   (c) throws, releases or deposits a destructive, noxious or repulsive object or substance; or<lf>   (d) throws, releases, deposits or deals with an object or substance in a manner likely to cause injury to persons or damage to property;<lf> is guilty of an offence. 
+
+<lf>   (2) An offence against the last preceding subsection is punishable on conviction:<lf>   (a) in the case of an offence arising under paragraph (a) of that subsection - by a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both; or<lf>   (b) in any other case - by a fine not exceeding Five hundred dollars or imprisonment for a term not exceeding six months, or both. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf>
+</lf></lf></lf></lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 20 Additional offences in relation to protected premises </name>
+</b>** 
+
+## SECT
+<sect>   20.*2* (1) A person who, without reasonable excuse, trespasses on protected premises is guilty of an offence, punishable on conviction by a fine not exceeding One hundred dollars or imprisonment for a term not exceeding one month, or both. 
+
+<lf>   (2) A person who:<lf>   (a) engages in unreasonable obstruction in relation to the passage of persons or vehicles into, out of or on protected premises, or otherwise in relation to the use of protected premises;<lf>   (b) while trespassing on protected premises, behaves in an offensive or disorderly manner; or<lf>   (c) being in or on protected premises, refuses or neglects, without reasonable excuse, to leave those premises on being directed to do so by a constable, by a protective service officer, by a protected person residing or performing duties on the premises, or by a person acting in accordance with authority conferred on him by such a protected person;<lf> is guilty of an offence, punishable on conviction by a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></lf></lf></lf></lf>
+</sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 21 Evidence </name>
+</b>** 
+
+## SECT
+<sect>   21\. (1) In proceedings arising out of this Part, evidence that persons taking part in an assembly were at a place in the vicinity of protected premises, or were at a place at which, or in the vicinity of which, a protected person was present, is evidence that those persons were at that place by reason of the fact that it was in the vicinity of the protected premises, or by reason of the fact that the protected person was present at or in the vicinity of that place, as the case may be. 
+
+<lf>   (2) In proceedings arising out of this Part:<lf>   (a) a certificate in writing given by the Secretary to the Department of Foreign Affairs, or by an officer of that Department authorized in writing by the Secretary to give such certificates, certifying as to any matter relevant to establishing that:<lf>     (i) particular premises are, or were at a particular time, protected<lf> premises; or<lf>     (ii) a particular person is, or was at a particular time, a<lf> protected person;<lf> is evidence of the matter so certified; and<lf>   (b) a writing purporting to be such a certificate shall, unless the contrary is proved, be taken to be such a certificate and to have been duly given. </lf></lf></lf></lf></lf></lf></lf></lf>
+</sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - PART IV  PART IV - GENERAL </name>
+</b>** 
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 22 Arrest </name>
+</b>** 
+
+## SECT
+<sect>   22\. A constable may, without warrant, arrest a person for an offence against this Act if the constable has reasonable ground to believe that the person has committed that offence and that:<lf>   (a) proceedings against the person by summons would not be effective; or<lf>   (b) the arrest is necessary in order to prevent persistence by the person in, or repetition by the person of, conduct of the kind constituting the offence, or the commission by the person of other offences against this Act. </lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 23 Prosecutions </name>
+</b>** 
+
+## SECT
+<sect>   23.*2* (1) Offences against this Act, other than an offence against section 7 or section 16, are punishable on summary conviction. 
+
+<lf>   (2) Proceedings for:<lf>   (a) the commitment of a person for trial on indictment for an offence against this Act; or<lf>   (b) the summary prosecution of an offence against this Act;<lf> shall be instituted only with the consent in writing of the Director of Public Prosecutions, or of a person, or of a person included in a class of persons, authorized by the Director of Public Prosecutions, by writing, to give such consents. <p><lf>   (3) Notwithstanding that a consent has not been given in relation to an offence in accordance with the last preceding subsection:<lf>   (a) a person may be charged with an offence against this Act;<lf>   (b) a warrant for the arrest of a person for such an offence may be issued;<lf>   (c) a person may be arrested for such an offence; and<lf>   (d) a person charged with such an offence may be remanded in custody or on bail;<lf> but no further step in proceedings of a kind referred to in that subsection shall be taken in relation to the offence until such a consent has been obtained. <p><lf>   (4) Nothing in the last preceding subsection prevents the discharge of the accused if proceedings are not continued within a reasonable time. *2* The Public Order (Protection of Persons and Property) Act 1971 was amended by the Public Order (Protection of Persons and Property) Amendment Act 1995, section 2 of which provides as follows:<lf>   "(1) Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.<lf>   "(2) If this Act does not commence under subsection (1) within 6 months beginning on the day on which it receives the Royal Assent, it commences on the first day after the end of that period."<lf>   As at 16 November 1995 no date had been fixed and the amendments are not incorporated in this reprint. They are set out below under the heading "EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) AMENDMENT ACT 1995". </lf></lf></lf></lf></p></lf></lf></lf></lf></lf></lf></p></lf></lf></lf></lf>
+</sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 24 Particulars to be furnished in respect of certain offences </name>
+</b>** 
+
+## SECT
+<sect>   24\. (1) Where a person charged with an offence against this Act punishable on summary conviction has requested the informant to furnish to that person further particulars of the conduct the subject of the charge, the court shall not proceed with the hearing of the charge until reasonable particulars of that conduct have been furnished to the person charged, and may accordingly adjourn the proceedings from time to time. 
+
+<lf>   (2) If reasonable particulars of the conduct the subject of the charge are not furnished within a reasonable time, the court may dismiss the charge. <p><lf>   (3) Where, at the hearing of a charge for an offence to which this section applies, evidence is given for the prosecution of conduct that would constitute such an offence but that conduct is different from the conduct of which particulars have been given to the person charged upon a request under this section, the court may, on the application of the person charged and if it is of opinion that that person was misled by those particulars, adjourn the hearing upon such terms as it thinks fit. </lf></p></lf>
+</sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SECT 25 Exclusion of certain other laws </name>
+</b>** 
+
+## SECT
+<sect>   25\. (1) After the commencement of this Act, the common law with respect to the offences of taking part in an unlawful assembly, a rout or a riot:<lf>   (a) does not have effect in a Territory; and<lf>   (b) does not have effect in a place that is a Commonwealth place within the meaning of the Commonwealth Places (Application of Laws) Act 1970 (including a place that becomes such a place after the commencement of this Act), whether by virtue of that Act or otherwise. 
+
+<lf>   (2) An enactment specified in the Schedule to this Act, to the extent that it was, immediately before the commencement of this Act, in force in a Territory or, whether by virtue of the Commonwealth Places (Application of Laws) Act 1970 or otherwise, in a place that is a Commonwealth place within the meaning of that Act, is repealed, and none of those enactments is, by virtue of that Act or otherwise, in force in a place that becomes a Commonwealth place, within the meaning of that Act, after that commencement. <p><lf>   (2A) In subsection (2), "Territory" means the Australian Capital Territory, the Jervis Bay Territory or the Northern Territory. <p><lf>   (3) It is the intention of this Act that the provisions of this Act that apply in relation to assemblies in a State that are:<lf>   (a) on Commonwealth premises that are not a Commonwealth place within the meaning of the Commonwealth Places (Application of Laws) Act 1970; or<lf>   (b) in relation to protected premises or to a protected person;<lf> shall so apply to the exclusion of the common law with respect to the offences of taking part in an unlawful assembly, a rout or a riot and to the exclusion of the enactments specified in the Schedule to this Act. <p><lf>   (4) Except as provided by this section, nothing in this Act is intended to exclude the operation of a law of a State or Territory, whether made before or after the commencement of this Act, to the extent that that law is capable of operating concurrently with the express provisions of this Act. <p><lf>   (5) A reference in the Schedule to a particular enactment shall be read as including a reference to that enactment as amended at any time and to any enactment in substitution for that enactment. </lf></p></lf></p></lf></lf></lf></lf></p></lf></p></lf>
+</lf></lf></sect>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - SCHEDULE </name>
+</b>** 
+
+## SCH
+<sch>                               THE SCHEDULE                   Section 25<lf>                      PART I - IMPERIAL ENACTMENTS<lf> Enactment                           Short title or subject<lf> 17 Richard 2, c. 8                  Riots and Tumults Suppression<lf> 13 Henry 4, c. 7                    The Riot Act, 1411<lf> 2 Henry 5, Stat. 1, c. 8            The Riot Act, 1414<lf> 13 Charles 2, Stat. 1, c. 5         The Tumultuous Petitioning Act, 1661<lf> 1 George 1, Stat. 2, c. 5           The Riot Act<lf> 33 George 3, c. 67                  The Shipping Offences Act, 1793<lf>               PART II - OTHER ENACTMENTS IN FORCE IN AUSTRALIA<lf> New South Wales -<lf>   Sections 205, 206, 207 and 545C of the Crimes Act, 1900.<lf> Victoria -<lf>   Section 206 of the Crimes Act, 1958.<lf>   Unlawful Assemblies and Processions Act 1958.<lf> Queensland -<lf>   Sections 62, 63, 64, 65, 66 and 77 of The Criminal Code.<lf> South Australia -<lf>   Sections 95, 244 and 245 of the Criminal Law Consolidation Act<lf> 1935-1966.<lf> Western Australia -<lf>   Sections 63, 64, 65, 66 and 67 of the Criminal Code Act 1913.<lf> Tasmania -<lf>   Sections 74, 75 and 77 of the Criminal Code.<lf> Northern Territory -<lf>   Sections 91, 92, 300, 301 and 302 of the Criminal Law Consolidation<lf> Act and Ordinance 1876 to 1969, as in force in the Territory.<lf>   Sections 64, 65, 66, 67 and 68 of the Criminal Code Act 1983.<lf> Australian Capital Territory and Jervis Bay Territory -<lf>   Party Processions Prevention Act, 1901 of the State of New South<lf> Wales, in its application to the Territory.<lf>   Sections 205, 206 and 207 of the Crimes Act, 1900 of the State of New<lf> South Wales, in its application to the Territory.<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sch>
+**<b>
+
+### <name>PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY) ACT 1971 - EXTRACT </name>
+</b>** 
+
+## SECT
+<sect>       EXTRACT FROM PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY)<lf>                             AMENDMENT ACT 1995<lf>                                  SCHEDULE                      Section 3<lf>   AMENDMENTS OF THE PUBLIC ORDER (PROTECTION OF PERSONS AND PROPERTY)<lf>                                  ACT 1971<lf>   1\. Title:<lf>   After "Commonwealth Premises" insert ", the Premises of certain Federal Courts and Tribunals".<lf>   2\. Subsection 4(1):<lf>   Insert:<lf>   "frisk search means a search of a person conducted by quickly running the hands over the person's outer clothing.<lf>   screening search means a search of a person conducted by equipment designed to carry out such a search without touching the person.<lf>   3\. Subsection 6(1):<lf>   Omit "a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both", substitute "a fine of not more than 20 penalty units".<lf>   4\. Subsection 6(2):<lf>   Omit "a fine not exceeding One thousand dollars or imprisonment for a term not exceeding twelve months, or both", substitute "imprisonment for not more than 12 months".<lf>   5\. Paragraph 7(b):<lf>   Omit "Two hundred dollars", substitute "$1,500".<lf>   6\. Subsection 8(3):<lf>   Omit "a fine not exceeding Five hundred dollars or imprisonment for a term not exceeding six months, or both", substitute "imprisonment for not more than 6 months".<lf>   7\. Paragraph 8(4)(b):<lf>   Omit "paragraph (b) of subsection (1) of this section", substitute "paragraph (1)(b)".<lf>   8\. Section 9:<lf>   Omit "a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both", substitute "a fine of not more than 20 penalty units".<lf>   9\. Paragraph 10(1)(a):<lf>   After "his" insert "or her".<lf>   10\. Subsection 10(2):<lf>   Omit the subsection, substitute:<lf>   "(2) An offence against subsection (1) is punishable on conviction:<lf>   (a) in respect of an offence arising under paragraph (1)(a) - by a fine of not more than 20 penalty units; or<lf>   (b) in any other case - by imprisonment for not more than 6 months.".<lf>   11\. Subsection 11(1):<lf>   Omit "a fine not exceeding One hundred dollars or imprisonment for a term not exceeding one month, or both", substitute "a fine of not more than 10 penalty units".<lf>   12\. Subsection 11(2):<lf>   Omit "a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both", substitute "a fine of not more than 20 penalty units".<lf>   13\. Subsection 12(1):<lf>   Omit "a fine not exceeding One hundred dollars or imprisonment for a term not exceeding one month, or both", substitute "a fine of not more than 10 penalty units".<lf>   14\. Subsection 12(2):<lf>   Omit "a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both", substitute "a fine of not more than 20 penalty units".<lf>   15\. After Part II:<lf>   Insert:<lf>    PART IIA - PROVISIONS RELATING TO PREMISES OF CERTAIN FEDERAL COURTS<lf>                              AND TRIBUNALS<lf> Interpretation<lf>   "13A. In this Part, unless the contrary intention appears:<lf>   authorised officer, in relation to a court, means:<lf>   (a) a constable; or<lf>   (b) a person authorised to exercise powers under this Part in relation to the court by:<lf>     (i) the Attorney-General; or<lf>     (ii) if the court has power to administer its own affairs - a person<lf> exercising that power on behalf of the court.<lf>   court means a federal court and includes a tribunal, authority or person having power under a law of the Commonwealth to require the production of documents or the answering of questions.<lf>   court premises, in relation to a court, means any premises occupied in connection with the operations of the court.<lf>   explosive substance includes:<lf>   (a) any material for making an explosive substance; and<lf>   (b) any apparatus, machine, implement or material used, or intended to be used, or adapted, for causing, or aiding in causing, an explosion in or with an explosive substance; and<lf>   (c) a part of such an apparatus, machine or implement.<lf>   firearm means a weapon designed or adapted to discharge shot, a bullet, or any other missile, as a result of the expansion of gases produced in the weapon by the ignition of strongly combustible materials, or by compressed air or other gases, whether stored in the weapon in pressurised containers or produced in the weapon by mechanical means, and includes a part of such a weapon and ammunition for use in such a weapon.<lf>   offensive weapon means any article:<lf>   (a) made or adapted for use for causing injury to, or incapacitating, a person; or<lf>   (b) intended by the person having it with him or her, for such use;<lf> and includes a part of such an article.<lf> Application of Part<lf>   "13B. This Part applies only to a court (as defined by section 13A) that is prescribed by the regulations for the purposes of this Part.<lf> Power of authorised officer to require information<lf>   "13C. (1) Subject to any limitations and restrictions provided by the regulations, if an authorised officer in relation to a court believes on reasonable grounds that it is necessary in the interests of security to do so, the officer may require a person who is on the court premises to tell the officer:<lf>   (a) the person's name; and<lf>   (b) the address of the person's place of residence; and<lf>   (c) the person's reason for being on the premises; and<lf>   (d) evidence of the person's identity.<lf>   "(2) A person of whom such a requirement is made must not, without reasonable excuse:<lf>   (a) refuse or fail to comply with the requirement; or<lf>   (b) give false information, or false evidence of identity, in response to the requirement.<lf> Penalty: 20 penalty units.<lf> Power of authorised officer to search a person or require a person to deposit personal effects<lf>   "13D. (1) Subject to any limitations and restrictions provided by the regulations, if an authorised officer in relation to a court believes on reasonable grounds that it is necessary in the interests of security to do so, the officer may:<lf>   (a) require a person who is on the court premises to submit to either or both of the following:<lf>     (i) a screening search and/or a frisk search of the person;<lf>     (ii) a search of any of the person's personal effects that are<lf> reasonably capable of concealing a firearm, explosive substance or offensive weapon;<lf> for the purposes of finding out whether a firearm, explosive substance or offensive weapon is hidden in the person's clothing or personal effects; and<lf>   (b) require a person who is on the court premises to deposit with the authorised officer any personal effects that are reasonably capable of:<lf>     (i) concealing a firearm, explosive substance or offensive weapon;<lf> or<lf>     (ii) being used to cause injury to, or incapacitate, a person.<lf>   "(2) A person of whom a requirement is made under subsection (1) must not refuse or fail, without reasonable excuse, to comply with the requirement.<lf> Penalty: 20 penalty units.<lf>   "(3) If, in the course of a search under paragraph (1)(a), a firearm, explosive substance or offensive weapon is found, an authorised officer in relation to the court:<lf>   (a) may take possession of the firearm, substance or weapon; and<lf>   (b) may retain it for any period that he or she thinks necessary for the purposes of this Part.<lf>   "(4) This section does not authorise anyone conducting a frisk search of a person to remove, or to require the person to remove, any of the person's clothing.<lf>   "(5) A frisk search of a person under this section is to be conducted by:<lf>   (a) an authorised officer of the same sex as the person; or<lf>   (b) if an authorised officer of the same sex as the person is not available to conduct the search - any other person who is of the same sex and:<lf>     (i) is requested by an authorised officer; and<lf>     (ii) agrees;<lf> to conduct the search.<lf>   "(6) An action or proceeding, whether civil or criminal, does not lie against a person who, at the request of an authorised officer, conducts a search under this section if the person acts in good faith and does not contravene subsection (7).<lf>   "(7) An authorised officer or other person who conducts a search under this section must not use more force, or subject a person to greater indignity, than is reasonably necessary in order to conduct the search.<lf> Removal from court premises<lf>   "13E. (1) An authorised officer in relation to a court may direct a person to leave the court premises if the person:<lf>   (a) refuses or fails to comply with a requirement made under subsection 13C(1) or 13D(1); or<lf>   (b) does not satisfy the authorised officer that the person has a proper reason for being on the court premises.<lf>   "(2) For the purposes of paragraph (1)(b), without limiting what constitutes a proper reason for being on court premises, a person has such a reason if he or she wishes to attend the hearing of the proceedings in the court.<lf>   "(3) If a person refuses or fails to comply with a direction given to the person under subsection (1):<lf>   (a) the person is guilty of an offence punishable on conviction by a fine of not more than 20 penalty units; and<lf>   (b) a constable may refuse the person entry to, or remove the person from, the court premises, as the case requires.<lf>   "(4) Except as provided in subsection (1), a person is entitled to enter and remain on court premises if there is room for the person on the premises.<lf> Person not to carry firearm, explosive substance or offensive weapon on court premises<lf>   "13F. A person must not, without lawful excuse, while on any court premises, carry or otherwise have in his or her possession a firearm, an explosive substance or an offensive weapon.<lf> Penalty: Imprisonment for 12 months.<lf> Saving<lf>   "13G. (1) The powers conferred by this Part are in addition to, and do not derogate from, any other powers conferred on or possessed by any court, judge or person in relation to the conduct of proceedings in a court or the regulation of the conduct of people on court premises.<lf>   "(2) This Part does not affect any other power of a court in relation to contempt of the court or any other similar power.<lf> Regulations<lf>   "13H. The Governor-General may make regulations prescribing matters:<lf>   (a) required or permitted to be prescribed for the purposes of this Part; or<lf>   (b) necessary or convenient to be prescribed for carrying out or giving effect to this Part;<lf> and, in particular, providing for the dealing with information given by a person in response to a requirement made under this Part.".<lf>   16\. Subsection 15(1):<lf>   Omit "a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both", substitute "a fine of not more than 20 penalty units".<lf>   17\. Subsection 15(2):<lf>   Omit "a fine not exceeding One thousand dollars or imprisonment for a term not exceeding twelve months, or both", substitute "imprisonment for not more than 12 months".<lf>   18\. Paragraph 16(b):<lf>   Omit "Two hundred dollars", substitute "$1,500".<lf>   19\. Subparagraph 17(1)(a)(ii):<lf>   Omit "of this Act".<lf>   20\. Subsection 17(3):<lf>   Omit "a fine not exceeding Five hundred dollars or imprisonment for a term not exceeding six months, or both", substitute "imprisonment for not more than 6 months".<lf>   21\. Paragraph 17(4)(b):<lf>   Omit "paragraph (b) of subsection (1) of this section", substitute "paragraph (1)(b)".<lf>   22\. Subsection 17(4):<lf>   After "he" (wherever occurring) insert "or she".<lf>   23\. Section 18:<lf>   Omit "a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both", substitute "a fine of not more than 20 penalty units".<lf>   24\. Paragraph 19(1)(a):<lf>   After "his" insert "or her".<lf>   25\. Subsection 19(2):<lf>   Omit "the last preceding subsection", substitute "subsection (1)".<lf>   26\. Paragraph 19(2)(a):<lf>   Omit the paragraph, substitute:<lf>   "(a) in respect of an offence arising under paragraph (1)(a) - by a fine of not more than 20 penalty units; or<lf>   27\. Paragraph 19(2)(b):<lf>   Omit "a fine not exceeding Five hundred dollars or imprisonment for a term not exceeding six months, or both", substitute "imprisonment for not more than 6 months".<lf>   28\. Subsection 20(1):<lf>   Omit "a fine not exceeding One hundred dollars or imprisonment for a term not exceeding one month, or both", substitute "a fine of not more than 10 penalty units".<lf>   29\. Paragraph 20(2)(c):<lf>   After "him" insert "or her".<lf>   30\. Subsection 20(2):<lf>   Omit "a fine not exceeding Two hundred and fifty dollars or imprisonment for a term not exceeding three months, or both", substitute "a fine of not more than 20 penalty units".<lf>   31\. Subsections 23(3) and (4):<lf>   Omit "the last preceding subsection", substitute "subsection (2)". </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></sect>
