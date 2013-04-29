@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00835/Html/acf7a7c0-b295-44fc-b8a1-122293dcffc7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00482/Html/e779e423-dac1-4f64-87c1-1e1c4d718bb2_files/image001.gif)
 
 # Copyright Act 1968
 
 **Act No. 63 of 1968 as amended**
 
-This compilation was prepared on 20 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 31 May 2012
+ taking into account amendments up to Act No. 35 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -79,7 +80,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [23](#23).          Sound recordings and records
 
-[24](#24).          References to sounds and visual images embodied in an article
+[24](#24).          References to sounds and visual images embodied in an 
+ article
 
 [25](#25).          Provisions relating to broadcasting
 
@@ -427,7 +429,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [116](#116).        Rights of owner of copyright in respect of infringing copies
 
-116AAA Compensation for acquisition of property
+116AAA  Compensation for acquisition of property
 
     **Division 2AA—Limitation on remedies available against carriage service providers** 
 
@@ -615,7 +617,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [132A](#132A).     Presumptions in relation to subsistence and ownership of copyright
 
-132AAA Presumptions relating to computer programs
+132AAA  Presumptions relating to computer programs
 
 [132B](#132B).     Presumptions relating to sound recordings
 
@@ -679,17 +681,17 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision A—Actions relating to unauthorised decoders** 
 
-135AOA Making or dealing with unauthorised decoder
+135AOA  Making or dealing with unauthorised decoder
 
         **Subdivision B—Actions relating to decoders for subscription broadcasts** 
 
-135AOB Making decoder available online
+135AOB  Making decoder available online
 
         **Subdivision C—Actions for unauthorised access to encoded broadcasts** 
 
-135AOC Causing unauthorised access
+135AOC  Causing unauthorised access
 
-135AOD Unauthorised commercial use of subscription broadcast
+135AOD  Unauthorised commercial use of subscription broadcast
 
         **Subdivision D—Court orders** 
 
@@ -839,21 +841,17 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [135ZM](#135ZM).  Application of Division to certain illustrations that are in hardcopy form
 
-    **Division 2A—Reproduction and communication of works that are in electronic form**
+    **Division 2A—Reproduction and communication of works that are in electronic form** 
 
-135ZMA Application of Division
+135ZMA  Application of Division
 
-135ZMB Multiple reproduction and communication of insubstantial 
- parts of works that are in electronic form
+135ZMB  Multiple reproduction and communication of insubstantial parts of works that are in electronic form
 
-135ZMC Multiple reproduction and communication of periodical 
- articles that are in electronic form by education institutions
+135ZMC  Multiple reproduction and communication of periodical articles that are in electronic form by education institutions
 
-135ZMD Multiple reproduction and communication of works that are 
- in electronic form by educational institutions
+135ZMD  Multiple reproduction and communication of works that are in electronic form by educational institutions
 
-135ZMDA Reproduction and communication of works from electronic 
- anthologies by educational institutions
+135ZMDA  Reproduction and communication of works from electronic anthologies by educational institutions
 
 135ZME Application of Division to certain illustrations in electronic form
 
@@ -881,10 +879,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [135ZW](#135ZW).  Sampling notices
 
-135ZWAA Determination of questions relating to this Part or a 
- collecting society’s rules
+135ZWAA  Determination of questions relating to this Part or a collecting society’s rules
 
-135ZWA Electronic use notices
+135ZWA  Electronic use notices
 
 [135ZX](#135ZX).   Records notices and sampling notices: marking and record‑keeping requirements
 
@@ -906,7 +903,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [135ZZE](#135ZZE). Amendment of rules
 
-135ZZEA Applying to Tribunal for review of distribution arrangement
+135ZZEA  Applying to Tribunal for review of distribution arrangement
 
     **Division 7—Miscellaneous**
 
@@ -924,7 +921,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [135ZZJ](#135ZZJ).  Operation of collecting society rules
 
-135ZZJA Application of Part
+135ZZJA  Application of Part
 
     **Division 2—Retransmission of free‑to‑air broadcasts**
 
@@ -954,8 +951,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 135ZZW Amendment of rules
 
-135ZZWA Applying to Tribunal for review of distribution 
- arrangement
+135ZZWA  Applying to Tribunal for review of distribution arrangement
 
     **Division 4—Interim retransmissions**
 
@@ -965,75 +961,73 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [135ZZZ](#135ZZZ). Notices by retransmitters
 
-135ZZZA Record keeping requirements
+135ZZZA  Record keeping requirements
 
-135ZZZB Effect of declaration of collecting society
+135ZZZB  Effect of declaration of collecting society
 
-    **Division 5—Miscellaneous**
+    **Division 5—Miscellaneous** 
 
-135ZZZC Relevant copyright owner may authorise retransmitting
+135ZZZC  Relevant copyright owner may authorise retransmitting
 
-135ZZZD Copyright not to vest under this Part
+135ZZZD  Copyright not to vest under this Part
 
-135ZZZE Licence to retransmit does not authorise copyright 
- infringements
+135ZZZE  Licence to retransmit does not authorise copyright infringements
 
 **Part VD—Re‑broadcasts by satellite BSA licensees** 
 
     **Division 1—Preliminary** 
 
-135ZZZF Definitions
+135ZZZF  Definitions
 
-135ZZZG Eligible program and original broadcaster
+135ZZZG  Eligible program and original broadcaster
 
-135ZZZH Operation of collecting society rules
+135ZZZH  Operation of collecting society rules
 
     **Division 2—Re‑broadcasts by satellite BSA licensees** 
 
 135ZZZI Re‑broadcasts by satellite BSA licensees
 
-135ZZZJ Remuneration notices
+135ZZZJ  Remuneration notices
 
-135ZZZK Amount of equitable remuneration
+135ZZZK  Amount of equitable remuneration
 
-135ZZZL Record system
+135ZZZL  Record system
 
-135ZZZM Revocation of remuneration notice
+135ZZZM  Revocation of remuneration notice
 
-135ZZZN Request for payment of equitable remuneration
+135ZZZN  Request for payment of equitable remuneration
 
     **Division 3—Collecting societies** 
 
-135ZZZO Collecting societies
+135ZZZO  Collecting societies
 
-135ZZZP Revocation of declaration
+135ZZZP  Revocation of declaration
 
-135ZZZQ Annual report and accounts
+135ZZZQ  Annual report and accounts
 
-135ZZZR Amendment of rules
+135ZZZR  Amendment of rules
 
-135ZZZS Applying to Tribunal for review of distribution arrangement
+135ZZZS  Applying to Tribunal for review of distribution arrangement
 
     **Division 4—Interim re‑broadcasts** 
 
-135ZZZT Appointment of notice holder
+135ZZZT  Appointment of notice holder
 
-135ZZZU Re‑broadcast before declaration of collecting society
+135ZZZU  Re‑broadcast before declaration of collecting society
 
-135ZZZV Notices by satellite BSA licensees
+135ZZZV  Notices by satellite BSA licensees
 
-135ZZZW Record keeping requirements
+135ZZZW  Record keeping requirements
 
-135ZZZX Effect of declaration of collecting society
+135ZZZX  Effect of declaration of collecting society
 
-    **Division 5—Miscellaneous**
+    **Division 5—Miscellaneous** 
 
-135ZZZY Relevant copyright owner may authorise re‑broadcast
+135ZZZY  Relevant copyright owner may authorise re‑broadcast
 
-135ZZZZ Copyright not to vest under this Part
+135ZZZZ  Copyright not to vest under this Part
 
-135ZZZZA Licence to re‑broadcast does not authorise copyright 
- infringements
+135ZZZZA  Licence to re‑broadcast does not authorise copyright infringements
 
 **Part VI—Copyright Tribunal of Australia** 
 
@@ -1101,17 +1095,17 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [153B](#153B).     Applications to Tribunal under subsection 135J(3)
 
-153BAAA Application to the Tribunal under subsection 135JAA(2)
+153BAAA  Application to the Tribunal under subsection 135JAA(2)
 
-[153BA](#153BA).  Application to the Tribunal under subsection 135JA(3)
+153BA  Application to the Tribunal under subsection 135JA(3)
 
-153BAA Application to the Tribunal under subsection 135K(2A)
+153BAA  Application to the Tribunal under subsection 135K(2A)
 
 153BAB References relating to declaration of collecting society
 
 153BAC References relating to revocation of declaration of collecting society
 
-153BAD Review of collecting society’s distribution arrangement
+153BAD  Review of collecting society’s distribution arrangement
 
         **Subdivision D—Applications and references relating to Part VB**
 
@@ -1121,7 +1115,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [153D](#153D).     Applications to Tribunal under subsection 135ZW(3)
 
-153DAA Application to the Tribunal under subsection 135ZWAA(2)
+153DAA  Application to the Tribunal under subsection 135ZWAA(2)
 
 [153DA](#153DA).  Applications to the Tribunal under subsection 135ZWA(2)
 
@@ -1335,16 +1329,15 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [195AB](#195AB).  What is a reasonably prominent identification
 
-    **Division 2A—Right of attribution of performership**
+    **Division 2A—Right of attribution of performership** 
 
-195ABA Performer’s right of attribution of performership
+195ABA  Performer’s right of attribution of performership
 
 195ABB Acts giving rise to right of attribution of performership
 
 195ABC Nature of the identification of performer
 
-195ABD Identification of performer to be clear and reasonably 
- prominent or audible
+195ABD  Identification of performer to be clear and reasonably prominent or audible
 
 195ABE What is a reasonably prominent identification
 
@@ -1364,12 +1357,12 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 3A—Right not to have performership falsely attributed**
 
-195AHA Performer’s right not to have performership falsely attributed
+195AHA  Performer’s right not to have performership falsely 
+ attributed
 
-195AHB Acts of false attribution of performership
+195AHB  Acts of false attribution of performership
 
-195AHC Act of false attribution of performership of altered recorded 
- performance
+195AHC  Act of false attribution of performership of altered recorded performance
 
     **Division 4—Right of integrity of authorship of a work**
 
@@ -1395,12 +1388,11 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [195AN](#195AN).  Exercise of author’s moral rights
 
-        **Subdivision B—Duration and exercise of moral rights of performers**
+        **Subdivision B—Duration and exercise of moral rights of performers** 
 
-195ANA Duration of performer’s moral rights for recorded 
- performances
+195ANA  Duration of performer’s moral rights for recorded performances
 
-195ANB Exercise of performer’s moral rights
+195ANB  Exercise of performer’s moral rights
 
     **Division 6—Infringement of moral rights** 
 
@@ -1422,46 +1414,41 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [195AV](#195AV).  Infringement by sale and other dealings
 
-195AVA Matters to be taken into account
+195AVA  Matters to be taken into account
 
-195AVB Communication by use of certain facilities
+195AVB  Communication by use of certain facilities
 
 [195AW](#195AW). Author’s consent to act or omission—films or works in films
 
-195AWA Author’s consent to act or omission—work that is not a film 
- or included in a film
+195AWA  Author’s consent to act or omission—work that is not a film or included in a film
 
-195AWB Consent invalidated by duress or false or misleading 
- statements
+195AWB  Consent invalidated by duress or false or misleading statements
 
 [195AX](#195AX).  Acts or omissions outside Australia
 
         **Subdivision B—Infringement of moral rights of performers**
 
-195AXA Infringement of right of attribution of performership
+195AXA  Infringement of right of attribution of performership
 
-195AXB Infringement of right not to have performership falsely 
- attributed
+195AXB  Infringement of right not to have performership falsely attributed
 
-195AXC Infringement of right of integrity of performership
+195AXC  Infringement of right of integrity of performership
 
-195AXD No infringement of right of attribution of performership if it 
- was reasonable not to identify the performer
+195AXD  No infringement of right of attribution of performership if it was reasonable not to identify the performer
 
 195AXE No infringement of right of integrity of performership if derogatory treatment or other action was reasonable
 
 195AXF Infringement by importation for sale or other dealing
 
-195AXG Infringement by sale and other dealings
+195AXG  Infringement by sale and other dealings
 
-195AXH Matters to be taken into account
+195AXH  Matters to be taken into account
 
 [195AXI](#195AXI). Communication by use of certain facilities
 
 195AXJ Performer’s consent to act or omission
 
-195AXK Consent invalidated by duress or false or misleading 
- statements
+195AXK  Consent invalidated by duress or false or misleading statements
 
 195AXL Acts or omissions outside Australia
 
@@ -1485,23 +1472,23 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
         **Subdivision B—Remedies for infringement of moral rights of performers**
 
-[195AZGA Definition etc](#195AZGA Definition etc).
+[195AZGA  Definition etc](#195AZGA  Definition etc).
 
-195AZGB Actions for infringement of performer’s moral rights
+195AZGB  Actions for infringement of performer’s moral rights
 
-195AZGC Remedies for infringements of performer’s moral rights
+195AZGC  Remedies for infringements of performer’s moral rights
 
-195AZGD Presumption as to subsistence of copyright
+195AZGD  Presumption as to subsistence of copyright
 
-195AZGE Presumption as to subsistence of performer’s moral rights
+195AZGE  Presumption as to subsistence of performer’s moral rights
 
-195AZGF Presumptions in relation to performership
+195AZGF  Presumptions in relation to performership
 
         **Subdivision C—Miscellaneous** 
 
-195AZGG Saving of other rights and remedies
+195AZGG  Saving of other rights and remedies
 
-195AZGH Jurisdiction of courts
+195AZGH  Jurisdiction of courts
 
     **Division 8—Miscellaneous** 
 
@@ -1517,7 +1504,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 195AZL Cinematograph films that have more than one principal screenwriter
 
-195AZM Application—right of attribution of authorship
+195AZM  Application—right of attribution of authorship
 
 195AZN Application—right not to have authorship falsely attributed
 
@@ -1549,7 +1536,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [200](#200).        Use of works and broadcasts for educational purposes
 
-200AAA Proxy web caching by educational institutions
+200AAA  Proxy web caching by educational institutions
 
 [200AA](#200AA).  Use of broadcasts by institutions assisting persons with an intellectual disability
 
@@ -1787,7 +1774,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Copyright Act 1968_.
 
@@ -5679,7 +5666,7 @@ Note:          Section 130C deals with the burden of proof a
 
 ### Division 7—Miscellaneous
 
-##### <a id="113"></a>113  Copyrights to subsist independently
+##### <a id="113"></a>113  Copyrights to subsist independently
 
              (1)  Subject to subsection 110(2), where copyright subsists in any subject‑matter by virtue of this Part, nothing in this Part shall be taken to affect the operation of Part III in relation to any literary, dramatic, musical or artistic work from which that subject‑matter is wholly or partly derived, and any copyright subsisting by virtue of this Part is in addition to, and independent of, any copyright subsisting by virtue of Part III.
 
@@ -8727,9 +8714,9 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For the purposes of this Division, section 132AA defines **_profit_** as not including any advantage, benefit, or gain, that:
 
-(a)    is received by a person; and
+(a)           is received by a person; and
 
-(b)    results from, or is associated with, the person’s private or domestic use of any copyright material.
+(b)           results from, or is associated with, the person’s private or domestic use of any copyright material.
 
 ##### <a id="132A"></a>132A  Presumptions in relation to subsistence and ownership of copyright
 
@@ -9404,9 +9391,9 @@ Note:          A defendant in proceedings for an offence again
 
 Note:          Paragraph (a)—examples of causing a person to gain access to the broadcast or sounds or images from the broadcast include:
 
-(a)    using, or authorising the use of, a decoder so the person gains access to the broadcast, sounds or images; and
+(a)           using, or authorising the use of, a decoder so the person gains access to the broadcast, sounds or images; and
 
-(b)    distributing, or authorising the distribution of, the sounds or images to the person after they are obtained from the broadcast using a decoder.
+(b)           distributing, or authorising the distribution of, the sounds or images to the person after they are obtained from the broadcast using a decoder.
 
              (2)  The action may be brought by any of the affected parties but only within 6 years of the act.
 
@@ -10024,7 +10011,7 @@ sections 135E and 135F do not apply to any copy of a broadcast, or communicati
 
                     <a name="prescrib-period"></a>**_prescribed period_** means the period of 12 months, or if another period is agreed between the relevant administering body and collecting society for the purposes of subsection (1B), that other period.
 
-##### <a id="135JAA"></a>135JAA  Determination of questions relating to this Division or the collecting society’s rules
+##### <a id="135JAA"></a>135JAA  Determination of questions relating to this Division or the collecting society’s rules
 
              (1)  This section applies if:
 
@@ -12087,7 +12074,11 @@ that case shall be deemed not to be a case to which the scheme applies.
 
                      (b)  in any other case—he or she shall cause the interest of the member to be disclosed to the parties to the proceeding.
 
-             (3)  In this section, a reference to a proceeding includes a reference to a proceeding by way of an application or reference to the Tribunal under this Act.
+             (3)  In this section:
+
+                     (a)  a reference to a proceeding shall be read as a reference to a proceeding by way of an inquiry by, or an application or reference to, the Tribunal under this Act; and
+
+                     (b)  a reference to a party to a proceeding, being an inquiry conducted by the Tribunal in pursuance of section 148, shall be read as a reference to a person or organization recognized by the Tribunal as a party to the inquiry.
 
 ##### <a id="144B"></a>144B  Removal from office for failure to disclose interest
 
@@ -13125,7 +13116,7 @@ may apply to the Tribunal for an order determining the amount payable by the sat
 
 #### Subdivision H—References and applications relating to licences and licence schemes
 
-##### <a id="154"></a>154  Reference of proposed licence schemes to Tribunal
+##### <a id="154"></a>154  Reference of proposed licence schemes to Tribunal
 
              (1)  Where a licensor proposes to bring a licence scheme into operation, he or she may refer the scheme to the Tribunal.
 
@@ -13866,7 +13857,7 @@ Definition of **engage in conduct**
 
              (2)  The Commonwealth or a State is, subject to this Part and to Part X, the owner of the copyright in a sound recording or cinematograph film made by, or under the direction or control of, the Commonwealth or the State, as the case may be.
 
-##### <a id="179"></a>179  Provisions relating to ownership of copyright may be modified by agreement
+##### <a id="179"></a>179  Provisions relating to ownership of copyright may be modified by agreement
 
                    The last three preceding sections have effect subject to any agreement made by, or on behalf of, the Commonwealth or a State with the author of the work or with the maker of the sound recording or cinematograph film, as the case may be, by which it is agreed that the copyright in the work, recording or film is to vest in the author or maker, or in another person specified in the agreement.
 
@@ -14024,7 +14015,7 @@ shall, for the purposes of the last preceding subsection, be each deemed to be f
 
              (6)  The government must take reasonable steps to ensure that the person who attends at the premises is given all reasonable and necessary facilities and assistance for carrying out the sampling.
 
-##### <a id="183D"></a>183D  Annual report and accounts of collecting society
+##### <a id="183D"></a>183D  Annual report and accounts of collecting society
 
              (1)  As soon as practicable after the end of each financial year, a company that was a collecting society during any part of the year must prepare a report of its operations as a collecting society during the year and send a copy of the report to the Attorney‑General.
 
@@ -16346,7 +16337,7 @@ before that date, subsection (1) applies as if the author had died on the date
 
                    Section 115 does not apply to an infringement of copyright under the Copyright Act, 1911 and does not affect any proceedings under that Act, whether instituted before or after the commencement of this Act.
 
-##### <a id="227"></a>227  Infringing copies
+##### <a id="227"></a>227  Infringing copies
 
                    Section 116 of this Act does not apply in relation to an article made, or imported into Australia, before the commencement of this Act, but, notwithstanding subsection 5(1) of this Act, proceedings may, subject to the Copyright Act, 1911, be brought or continued by virtue of section 7 of that Act in relation to such an article and may be so brought or continued although the proceedings relate to the conversion or detention of the article after the commencement of this Act.
 
@@ -16914,9 +16905,9 @@ Indictable offence
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
@@ -16950,9 +16941,9 @@ Indictable offence
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
@@ -17082,9 +17073,9 @@ Indictable offence
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
@@ -17144,9 +17135,9 @@ Indictable offence
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
@@ -17200,9 +17191,9 @@ Indictable offence
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
@@ -17324,9 +17315,9 @@ Indictable offence
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
@@ -17388,9 +17379,9 @@ Indictable offences
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  A person commits an offence if:
 
@@ -17470,9 +17461,9 @@ Indictable offence
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
@@ -17538,9 +17529,9 @@ Indictable offence
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
@@ -17590,9 +17581,9 @@ Indictable offence
 
 Note:          Under section 248CA, the protection period of a performance is:
 
-(a)    a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
+(a)           a 20‑year protection period so far as this section relates to a cinematograph film of the performance; and
 
-(b)    a 50‑year protection period so far as this section relates to a sound recording of the performance.
+(b)           a 50‑year protection period so far as this section relates to a sound recording of the performance.
 
              (2)  An offence against subsection (1) is punishable on conviction by a fine of not more than 550 penalty units or imprisonment for not more than 5 years, or both.
 
@@ -18155,7 +18146,7 @@ For application, saving or transitional provisions made by the _Australian Commu
 
 All relevant information pertaining to application, saving or transitional provisions prior to 30 July 1998 is not incorporated in this compilation. For subsequent information _see_ Table A.
 
-The _Copyright Act 1968_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
+The _Copyright Act 1968_ was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (1989 No. 3 as amended) _see_ Table B.
 
 ### Table of Acts
 
@@ -18644,8 +18635,8 @@ S. 26(b)–(f): 2 July 1990 ( <i>see Gazette</i>1990, No. S164)
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>S. 2 (rep. by 107, 1993, s. 13) 
-Ss. 25 and 29 (am. by 107, 1993, ss. 8 and 10)</div>
+    <div>S. 2 (rep. by 107, 1993, s.13) 
+Ss. 25 and 29 (am. by 107, 1993, ss. 8 and 10)</div>
   </td>
 </tr>
 <tr>
@@ -18888,7 +18879,10 @@ Remainder: 1 Jan 1996</div>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 4), Sch. 3 (item 4), Sch. 4 (item 6), Sch. 9 (item 8) and Sch. 10 (item 51) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 4), 
+Sch. 3 (item 4), 
+Sch. 4 (item 6), 
+Sch. 9 (item 8) and Sch. 10 (item 51) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -18905,7 +18899,8 @@ Remainder: Royal Assent</div>
     <div><i>(o)</i></div>
   </td>
   <td>
-    <div>Sch. 1 (item 9) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 9) 
+\[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -19045,7 +19040,7 @@ Schedule 4: 13 May 2003
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 20), Sch. 3 (item 9) and Sch. 4 (items 14, 15) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 20), Sch. 3 (item 9) and Sch. 4 (items 14, 15) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -19088,13 +19083,13 @@ Schedule 9 (items 120, 122): <i>(u)</i></div>
   </td>
   <td>
     <div>Sch. 9 (items 15, 84, 106, 117, 131, 145, 160, 185, 190) 
-Sch. 9 \[item 118] (am. by 154, 2004, Sch. 1 \[items 
+Sch. 9 \[item 118] (am. by 154, 2004, Sch. 1 \[items 
 42–48]) 
-Sch. 9 \[item 119] (am. by 154, 2004, Sch. 1 \[items 
+Sch. 9 \[item 119] (am. by 154, 2004, Sch. 1 \[items 
 49–51]), 
-Sch. 9 \[item 132] (am. by 154, 2004, Sch. 1 \[items 
+Sch. 9 \[item 132] (am. by 154, 2004, Sch. 1 \[items 
 52–58]) 
-Sch. 9 \[item 133] (am. by 154, 2004, Sch. 1 \[items 
+Sch. 9 \[item 133] (am. by 154, 2004, Sch. 1 \[items 
 59–61]) 
 \[ <i>see</i>Table A]</div>
   </td>
@@ -19166,7 +19161,7 @@ Sch. 9 \[item 133] (am. by 154, 2004, Sch. 1 \[items
   </td>
   <td>
     <div>Sch. 4 
-\[ <i>see</i>Note 1]</div>
+\[ <i>see</i>Note 1]</div>
   </td>
 </tr>
 <tr>
@@ -19221,7 +19216,7 @@ Schedule 11: <i>(x)</i>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (items 9, 12, 14, 16, 18, 22, 24, 26), Sch. 2 (item 15), Sch. 3 (item 20), Sch. 4 (item 2), Sch. 5 (items 2, 6) Sch. 6 (item 9AA), Sch. 9 (item 2) Sch. 10 (items 5, 20, 30, 55, 58, 61, 63), Sch. 11 (items 3, 37, 40, 42, 57) and Sch. 12 (item 16) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 9, 12, 14, 16, 18, 22, 24, 26), Sch. 2 (item 15), Sch. 3 (item 20), Sch. 4 (item 2), Sch. 5 (items 2, 6) Sch. 6 (item 9AA), Sch. 9 (item 2) Sch. 10 (items 5, 20, 30, 55, 58, 61, 63), Sch. 11 (items 3, 37, 40, 42, 57) and Sch. 12 (item 16) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -19375,7 +19370,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 445, 446) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -19389,24 +19384,7 @@ Remainder: Royal Assent</div>
     <div>15 Apr 2012</div>
   </td>
   <td>
-    <div>Schedule 5 (items 1–16): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 37): Royal Assent</div>
+    <div>Schedule 5 (items 1–16): \[ <i>see</i> Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -20023,8 +20001,7 @@ _(v)_     Subsection 2(1) (item 2) of the _Copyright Legislation Amend
   <td>
     <div>
       1 January 2005
-    </div>
-    <div>
+
       (paragraph (b) applies)
     </div>
   </td>
@@ -25957,7 +25934,7 @@ rep. No. 158, 2006</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 141, 1994; No. 136, 2012</div>
+    <div>am. No. 141, 1994</div>
   </td>
 </tr>
 <tr>
@@ -29079,7 +29056,7 @@ Repeal the paragraph, substitute:
 
 Omit “paragraph (1)(ba), (c) or (d)”, substitute “paragraphs (1)(ba) to (d)”.
 
-As at 20 November 2012 the amendments are not incorporated in this compilation.
+As at 31 May 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -29087,7 +29064,7 @@ As at 20 November 2012 the amendments are not incorporated in this compilation.
 
 _Copyright Amendment Act (No. 1) 1998 (No. 104, 1998)_
 
-## Schedule 1
+## Schedule 1  
 
 ## 4  Application
 
@@ -29095,13 +29072,13 @@ The amendments made by this Schedule apply only in relation to works made after 
 
 Note:          Subsection 22(1) of the _Copyright Act 1968_ specifies when a work is made.
 
-## Schedule 3
+## Schedule 3  
 
 ## 4  Application
 
 The amendments made by items 1, 2 and 3 do not apply to an action for conversion or detention brought before the commencement of this Schedule.
 
-## Schedule 4
+## Schedule 4  
 
 ## 6  Application
 
@@ -29123,13 +29100,13 @@ section 183A has effect as if:
 
 (2)       Section 183A has effect in accordance with subsection (1) whether or not the company referred to in paragraph (1)(e) was the agent of the owner of the copyright involved.
 
-## Schedule 9
+## Schedule 9  
 
 ## 8  Saving
 
 If, immediately before the commencement of this Schedule, a declaration under paragraph 10A(1)(b) of the _Copyright Act 1968_ was in force, that Act has effect, in relation to the declaration and the institution to which the declaration relates, as if this Act had not been enacted.
 
-## Schedule 10
+## Schedule 10  
 
 ## 51  Saving
 
@@ -29139,7 +29116,7 @@ Copyright that subsisted in a television broadcast or a sound broadcast made bef
 
 _Copyright Amendment Act (No. 2) 1998 (No. 105, 1998)_
 
-## Schedule 1
+## Schedule 1  
 
 ## 9  Application
 
@@ -29535,18 +29512,4 @@ _Copyright Amendment (Film Directors’ Rights) Act 2005 (No. 130, 2005)_
 
 ##### <a id="4"></a>4  Application of amendment
 
-             (1)  The amendment made by Schedule 1 applies to films that commence to be made after the commencement of that Schedule.
-
-             (2)  However, the amendment has no effect to the extent to which the rights created by the amendment would be inconsistent with the rights arising under a contract entered into before the commencement of the amendment.
-
-* * *
-
-_Statute Law Revision Act 2006 (No. 9, 2006)_
-
-## Schedule 1
-
-## 9  Saving provision for item 8
-
-The amendment made by item 8 of this Schedule does not affect the validity of any requirements that:
-
-                     (a)  were prescribed for the purposes of paragraph (a)(i) (first‑occurring) of the definition of **_industry code_** in section�
+   
