@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00564/Html/cd7792c1-667f-4cef-a5c5-9b169d52d30c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00722/Html/Archives1983_WD02_image001.gif)
 
 # Archives Act 1983
 
 **Act No. 79 of 1983 as amended**
 
-This compilation was prepared on 25 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 November 2010
+ taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -30,9 +30,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3A](#3A).         A company no longer established for a public purpose
 
-[3B](#3B).         Commonwealth‑controlled companies or associations that are not authorities of the Commonwealth
+[3B](#3B).         Commonwealth-controlled companies or associations that are not authorities of the Commonwealth
 
-[3C](#3C).         Director‑General may determine archival resources of the Commonwealth
+[3C](#3C).         Director-General may determine archival resources of the Commonwealth
 
 [4](#4).            Extension to Territories
 
@@ -46,11 +46,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6A](#6A).         Records that are not part of the archival resources of the Commonwealth
 
-**Part III—The Director‑General and staff of the Archives**
+**Part III—The Director-General and staff of the Archives**
 
-[7](#7).            Director‑General
+[7](#7).            Director-General
 
-[8](#8).            Delegation by Director‑General
+[8](#8).            Delegation by Director-General
 
 [9](#9).            Staff
 
@@ -90,7 +90,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22B](#22B).       Census information
 
-[23](#23).          Records of inter‑governmental authorities
+[23](#23).          Records of inter-governmental authorities
 
     **Division 2—Dealings with Commonwealth records**
 
@@ -110,7 +110,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30](#30).          Commonwealth records to be available to Commonwealth institutions
 
-[30A](#30A).       Non‑disclosure of Census information
+[30A](#30A).       Non-disclosure of Census information
 
     **Division 3—Access to Commonwealth records**
 
@@ -146,11 +146,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [50](#50).          Parties
 
-[50A](#50A).       Inspector‑General of Intelligence and Security must be requested to give evidence in certain proceedings
+[50A](#50A).       Inspector-General of Intelligence and Security must be requested to give evidence in certain proceedings
 
 [51](#51).          Onus
 
-[52](#52).          Tribunal to ensure non‑disclosure of certain matters
+[52](#52).          Tribunal to ensure non-disclosure of certain matters
 
 [53](#53).          Production of exempt records
 
@@ -224,9 +224,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                              (ii)  preserving and making publicly available the archival resources of the Commonwealth; and
 
-                            (iii)  overseeing Commonwealth record‑keeping, by determining standards and providing advice to Commonwealth institutions; and
+                            (iii)  overseeing Commonwealth record-keeping, by determining standards and providing advice to Commonwealth institutions; and
 
-                     (b)  to impose record‑keeping obligations in respect of Commonwealth records.
+                     (b)  to impose record-keeping obligations in respect of Commonwealth records.
 
 ##### <a id="3"></a>3  Interpretation 
 
@@ -240,13 +240,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  by, or in accordance with the provisions of, an Act, regulations made under an Act or a law of a Territory other than the Northern Territory or Norfolk Island;
 
-                             (ii)  by the Governor‑General; or
+                             (ii)  by the Governor-General; or
 
                             (iii)  by, or with the approval of, a Minister;
 
                      (b)  the holder of a prescribed office under the Commonwealth; or
 
-                     (c)  a Commonwealth‑controlled company or a Commonwealth‑controlled association;
+                     (c)  a Commonwealth-controlled company or a Commonwealth-controlled association;
 
 but does not include:
 
@@ -254,7 +254,7 @@ but does not include:
 
                      (e)  the Australian Capital Territory;
 
-                      (f)  a body established by or under an enactment within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_;
+                      (f)  a body established by or under an enactment within the meaning of the _Australian Capital Territory__(Self-Government) Act 1988_;
 
                      (g)  the Northern Territory; or
 
@@ -280,13 +280,13 @@ but does not include:
 
                      (b)  a Commission of inquiry within the meaning of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
 
-                    <a name="commonwealth-control-associ"></a>**_Commonwealth‑controlled association_** means an association over which the Commonwealth is in a position to exercise control, but does not include an association that is declared by the regulations not to be a Commonwealth‑controlled association.
+                    <a name="commonwealth-control-associ"></a>**_Commonwealth-controlled association_** means an association over which the Commonwealth is in a position to exercise control, but does not include an association that is declared by the regulations not to be a Commonwealth-controlled association.
 
-                    <a name="commonwealth-control-compani"></a>**_Commonwealth‑controlled company_** means an incorporated company over which the Commonwealth is in a position to exercise control, but does not include a company that is declared by the regulations not to be a Commonwealth‑controlled company.
+                    <a name="commonwealth-control-compani"></a>**_Commonwealth-controlled company_** means an incorporated company over which the Commonwealth is in a position to exercise control, but does not include a company that is declared by the regulations not to be a Commonwealth-controlled company.
 
                     <a name="commonwealth-institut"></a>**_Commonwealth institution_** means:
 
-                     (a)  the official establishment of the Governor‑General;
+                     (a)  the official establishment of the Governor-General;
 
                      (b)  the Executive Council;
 
@@ -322,7 +322,7 @@ but does not include a record that is exempt material or is a register or guide 
 
                     <a name="deputi-chairman"></a>**_Deputy Chairman_** means the Deputy Chairman of the Council.
 
-                    <a name="director-gener"></a>**_Director‑General_** means the person for the time being occupying the office, or performing the duties of the office, of Director‑General of the National Archives of Australia under the _Public Service Act 1999_.
+                    <a name="director-gener"></a>**_Director-General_** means the person for the time being occupying the office, or performing the duties of the office, of Director-General of the National Archives of Australia under the _Public Service Act 1999_.
 
                     <a name="engag-conduct"></a>**_engage in conduct_** means:
 
@@ -374,7 +374,7 @@ Note:          For the definition of **_document_**, see secti
 
                     <a name="respons-minist"></a>**_responsible Minister_**, in relation to a Commonwealth record, means the Minister to whose ministerial responsibilities the record is most closely related.
 
-                    <a name="royal-commiss"></a>**_Royal Commission_** means a Commissioner or Commissioners appointed by the Governor‑General in the name of the Queen to make inquiry and report upon any matter.
+                    <a name="royal-commiss"></a>**_Royal Commission_** means a Commissioner or Commissioners appointed by the Governor-General in the name of the Queen to make inquiry and report upon any matter.
 
                     <a name="tribun"></a>**_Tribunal_** means the Administrative Appeals Tribunal.
 
@@ -394,7 +394,7 @@ but do not include:
 
                       (f)  material that, in the opinion of the Minister, ought to be in the archives of another country or in the archives of an international organization;
 
-                     (g)  material that relates only or principally to the history or government of a State, the Northern Territory or Norfolk Island or of a Colony that became part of the Commonwealth, not being:
+                     (g)  material that relates only or principally to the history or government of a State, the Northern Territory or Norfolk  Island or of a Colony that became part of the Commonwealth, not being:
 
                               (i)  Commonwealth records;
 
@@ -636,17 +636,17 @@ except with the consent of the State, Territory or authority by which the materi
 
 expressly provide that, for the purposes of this Act, the authority, body, tribunal or organisation is to be taken never to have been so established.
 
-##### <a id="3B"></a>3B  Commonwealth‑controlled companies or associations that are not authorities of the Commonwealth
+##### <a id="3B"></a>3B  Commonwealth-controlled companies or associations that are not authorities of the Commonwealth
 
                    If a company or association was, immediately before the commencement of this section:
 
-                     (a)  a Commonwealth‑controlled company or a Commonwealth‑controlled association that was:
+                     (a)  a Commonwealth-controlled company or a Commonwealth-controlled association that was:
 
                               (i)  not established for a public purpose; and
 
                              (ii)  not prescribed under paragraph (c) of the definition of **_authority of the Commonwealth_** as then in force; or
 
-                     (b)  a Commonwealth‑controlled company or a Commonwealth‑controlled association that was:
+                     (b)  a Commonwealth-controlled company or a Commonwealth-controlled association that was:
 
                               (i)  established for a public purpose; but
 
@@ -654,13 +654,13 @@ expressly provide that, for the purposes of this Act, the authority, body, tribu
 
 then, despite paragraph (c) of the definition of **_authority of the Commonwealth_**, the company or association is to be taken not to be an authority of the Commonwealth.
 
-##### <a id="3C"></a>3C  Director‑General may determine archival resources of the Commonwealth
+##### <a id="3C"></a>3C  Director-General may determine archival resources of the Commonwealth
 
-             (1)  The Director‑General may, in writing, determine that a specified Commonwealth record or other material is part of the archival resources of the Commonwealth.
+             (1)  The Director-General may, in writing, determine that a specified Commonwealth record or other material is part of the archival resources of the Commonwealth.
 
-Note:          The Director‑General may specify a record by reference to a class of records (see subsection 46(3) of the _Acts Interpretation Act 1901_).
+Note:          The Director-General may specify a record by reference to a class of records (see subsection 46(3) of the _Acts Interpretation Act 1901_).
 
-             (2)  The Director‑General must not make a determination under this section unless he or she is satisfied that the specified Commonwealth record or other material is part of the archival resources of the Commonwealth (within the meaning of subsection 3(2)).
+             (2)  The Director-General must not make a determination under this section unless he or she is satisfied that the specified Commonwealth record or other material is part of the archival resources of the Commonwealth (within the meaning of subsection 3(2)).
 
              (3)  A determination under this section may be set out in the same document as a permission or approval given under paragraph 24(2)(b) or a notice of disapproval given under paragraph 24(2)(c).
 
@@ -700,7 +700,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                             (iii)  are required to be preserved (other than permanently preserved); and
 
-                      (f)  to seek to obtain, and to have the care and management of, material (including Commonwealth records) not in the custody of a Commonwealth institution, that forms part of the archival resources of the Commonwealth and, in the opinion of the Director‑General, ought to be in the care of the Archives; and
+                      (f)  to seek to obtain, and to have the care and management of, material (including Commonwealth records) not in the custody of a Commonwealth institution, that forms part of the archival resources of the Commonwealth and, in the opinion of the Director-General, ought to be in the care of the Archives; and
 
                      (g)  with the approval of the Minister, to accept and have the care and management of material that, though not part of the archival resources of the Commonwealth, forms part of archival resources relating to Australia and, in the opinion of the Minister, ought to be in the care of the Archives in order to ensure its preservation or for any other reason; and
 
@@ -710,7 +710,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (k)  to conduct research, and provide advice, in relation to the management and preservation of records and other archival material; and
 
-                      (l)  to develop and foster the co‑ordination of activities relating to the preservation and use of the archival resources of the Commonwealth and other archival resources relating to Australia; and
+                      (l)  to develop and foster the co-ordination of activities relating to the preservation and use of the archival resources of the Commonwealth and other archival resources relating to Australia; and
 
                     (m)  with the approval of the Minister, and in accordance with arrangements made with a person responsible for exempt material, to perform any of the foregoing functions in relation to that material as if that material formed part of the archival resources of the Commonwealth.
 
@@ -764,23 +764,23 @@ the Archives may:
 
                      (d)  otherwise—cause the record to be transferred to the custody of the institution, but only in accordance with arrangements agreed to by the institution.
 
-## Part III—The Director‑General and staff of the Archives
+## Part III—The Director-General and staff of the Archives
 
-##### <a id="7"></a>7  Director‑General
+##### <a id="7"></a>7  Director-General
 
-             (1)  There shall be a Director‑General of the National Archives of Australia, who shall be a person appointed or engaged under the _Public Service Act 1999_.
+             (1)  There shall be a Director-General of the National Archives of Australia, who shall be a person appointed or engaged under the _Public Service Act 1999_.
 
-             (2)  The Director‑General, in addition to exercising powers or performing duties expressly conferred or imposed on him or her by this Act, may, in the name of the Archives, exercise any powers and perform any duties that are by this Act expressed to be conferred or imposed on the Archives.
+             (2)  The Director-General, in addition to exercising powers or performing duties expressly conferred or imposed on him or her by this Act, may, in the name of the Archives, exercise any powers and perform any duties that are by this Act expressed to be conferred or imposed on the Archives.
 
-             (3)  The Minister may give directions, not inconsistent with this Act, to the Director‑General in relation to the exercise of his or her powers, and the performance of his or her duties, under this Act.
+             (3)  The Minister may give directions, not inconsistent with this Act, to the Director-General in relation to the exercise of his or her powers, and the performance of his or her duties, under this Act.
 
-##### <a id="8"></a>8  Delegation by Director‑General
+##### <a id="8"></a>8  Delegation by Director-General
 
-             (1)  The Director‑General may, either generally or as otherwise provided by the instrument of delegation, by writing under his or her hand, delegate to a person all or any of his or her powers under this Act, other than this power of delegation.
+             (1)  The Director-General may, either generally or as otherwise provided by the instrument of delegation, by writing under his or her hand, delegate to a person all or any of his or her powers under this Act, other than this power of delegation.
 
-             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Director‑General.
+             (2)  A power so delegated, when exercised by the delegate, shall, for the purposes of this Act, be deemed to have been exercised by the Director-General.
 
-             (3)  A delegation under this section does not prevent the exercise of a power by the Director‑General.
+             (3)  A delegation under this section does not prevent the exercise of a power by the Director-General.
 
 ##### <a id="9"></a>9  Staff
 
@@ -804,15 +804,15 @@ the Archives may:
 
              (4)  A member appointed by the Minister holds office, subject to this Act, for such period, not exceeding 3 years, as the Minister specifies in the instrument of his or her appointment.
 
-             (5)  A member chosen by either House of the Parliament or appointed by the Minister is eligible for further choice or re‑appointment.
+             (5)  A member chosen by either House of the Parliament or appointed by the Minister is eligible for further choice or re-appointment.
 
              (6)  The performance of the functions of the Council is not affected by reason of there being a vacancy or vacancies in the membership of the Council.
 
 ##### <a id="11"></a>11  Functions of Council
 
-             (1)  The Council shall furnish advice to the Minister and the Director‑General with respect to matters to which the functions of the Archives relate.
+             (1)  The Council shall furnish advice to the Minister and the Director-General with respect to matters to which the functions of the Archives relate.
 
-             (2)  The Minister or the Director‑General may refer any matter of the kind referred to in subsection (1) to the Council for advice and the Council may, if it thinks fit, consider and advise the Minister or the Director‑General on a matter of that kind of its own motion.
+             (2)  The Minister or the Director-General may refer any matter of the kind referred to in subsection (1) to the Council for advice and the Council may, if it thinks fit, consider and advise the Minister or the Director-General on a matter of that kind of its own motion.
 
 ##### <a id="12"></a>12  Chairman and Deputy Chairman of Council
 
@@ -866,7 +866,7 @@ the Archives may:
 
              (4)  At a meeting of the Council a majority of the members of the Council constitute a quorum.
 
-             (5)  The Director‑General is entitled to receive notice of meetings of the Council, and the Director‑General, or a member of the staff of the Archives nominated by him or her, may attend any meeting of the Council and take such part in the proceedings, not including voting, as the Council approves.
+             (5)  The Director-General is entitled to receive notice of meetings of the Council, and the Director-General, or a member of the staff of the Archives nominated by him or her, may attend any meeting of the Council and take such part in the proceedings, not including voting, as the Council approves.
 
              (6)  The Chairman shall preside at all meetings of the Council at which he or she is present.
 
@@ -938,7 +938,7 @@ concerning the application of those provisions to those records.
 
                      (c)  the Minister administering the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_ is taken to be the responsible Minister in relation to the records of a Commission of inquiry within the meaning of that Act.
 
-             (6)  Where a Royal Commission has conducted an inquiry by virtue of a commission issued by the Governor of a State in conjunction with its inquiry under a commission issued by the Governor‑General, subsections (2) and (3) apply only to such of the records of the Royal Commission as are determined by agreement between the Commonwealth and the State.
+             (6)  Where a Royal Commission has conducted an inquiry by virtue of a commission issued by the Governor of a State in conjunction with its inquiry under a commission issued by the Governor-General, subsections (2) and (3) apply only to such of the records of the Royal Commission as are determined by agreement between the Commonwealth and the State.
 
 ##### <a id="22A"></a>22A  Cabinet notebooks
 
@@ -1145,7 +1145,7 @@ Note:          Records that are not Cabinet notebooks have dif
 
                     <a name=""></a><a name="censu-dai"></a>**_Census day_**, for a Census, means the day appointed, under subsection 8(2) of the _Census and Statistics Act 1905_, as the Census day for that Census.
 
-##### <a id="23"></a>23  Records of inter‑governmental authorities
+##### <a id="23"></a>23  Records of inter-governmental authorities
 
                    The regulations may provide for restricting or excluding the operation of all or any of the provisions of this Act in relation to all or any records of or relating to an authority or body established:
 
@@ -1183,7 +1183,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (d)  for the purpose of placing Commonwealth records that are not in the custody of the Commonwealth or of a Commonwealth institution in the custody of the Commonwealth or of a Commonwealth institution that is entitled to custody of the records.
 
-             (3)  Subsection (1) does not apply to the destruction of a Commonwealth record, being a record to which subsection 47(1), 70(1) or 107(1) of the _Copyright Act 1968_ applies, where the Director‑General has declined to consent to the delivery of the record to the Archives.
+             (3)  Subsection (1) does not apply to the destruction of a Commonwealth record, being a record to which subsection 47(1), 70(1) or 107(1) of the _Copyright Act 1968_ applies, where the Director-General has declined to consent to the delivery of the record to the Archives.
 
              (4)  This section does not authorize the Archives to permit the destruction or other disposal of a Commonwealth record that is in the possession of, or has been transferred to the care of the Archives by, a Commonwealth institution, without the consent of that institution or of a Commonwealth institution that has succeeded to the relevant functions of that institution.
 
@@ -1257,7 +1257,7 @@ Note:          In certain circumstances a Commonwealth institu
 
 ##### <a id="29"></a>29  Exemption of certain records
 
-             (1)  A Commonwealth institution, or a person having authority to act on behalf of a Commonwealth institution, may, with the concurrence of the Director‑General, determine that a Commonwealth record, or each record in a class of Commonwealth records, being a record or class of records in the possession of the Commonwealth institution or relating to the functions of the Commonwealth institution, is:
+             (1)  A Commonwealth institution, or a person having authority to act on behalf of a Commonwealth institution, may, with the concurrence of the Director-General, determine that a Commonwealth record, or each record in a class of Commonwealth records, being a record or class of records in the possession of the Commonwealth institution or relating to the functions of the Commonwealth institution, is:
 
                      (a)  a record that is not required to be transferred to the care of the Archives under section 27; or
 
@@ -1299,13 +1299,13 @@ the person so responsible may forthwith notify the Archives that he or she so co
 
                      (b)  a security classification applies to the record such that access by the Archives would not be appropriate.
 
-             (8)  The concurrence of the Director‑General is not required for the making of a determination under subsection (1) by, or by a person having authority to act on behalf of, any of the following Commonwealth institutions, namely:
+             (8)  The concurrence of the Director-General is not required for the making of a determination under subsection (1) by, or by a person having authority to act on behalf of, any of the following Commonwealth institutions, namely:
 
                      (a)  the Australian Security Intelligence Organisation;
 
                      (b)  the Australian Secret Intelligence Service;
 
-                   (ba)  the Defence Imagery and Geospatial Organisation;
+                    (ba)  the Defence Imagery and Geospatial Organisation;
 
                      (c)  the Defence Signals Directorate;
 
@@ -1313,9 +1313,9 @@ the person so responsible may forthwith notify the Archives that he or she so co
 
                      (e)  the Office of National Assessments; and
 
-                      (f)  the Inspector‑General of Intelligence and Security.
+                      (f)  the Inspector-General of Intelligence and Security.
 
-             (9)  The concurrence of the Director‑General is not required for the making of a determination under subsection (1) by the Commissioner of the Australian Federal Police in relation to any record that contains information the release of which would endanger the safety of a person:
+             (9)  The concurrence of the Director-General is not required for the making of a determination under subsection (1) by the Commissioner of the Australian Federal Police in relation to any record that contains information the release of which would endanger the safety of a person:
 
                      (a)  who is, or has been, assessed for inclusion in the National Witness Protection Program; or
 
@@ -1333,15 +1333,15 @@ Note:          Arrangements under section 64 for a person (o
 
              (2)  A record that has been in existence for more than 15 years must not be made available to a Commonwealth institution under subsection (1) in a manner that involves its leaving the custody of the person who has the custody of the record, except as necessary for the proper conduct of the business of the Commonwealth institution.
 
-##### <a id="30A"></a>30A  Non‑disclosure of Census information
+##### <a id="30A"></a>30A  Non-disclosure of Census information
 
-Non‑disclosure to another person
+Non-disclosure to another person
 
              (1)  An Archives officer must not, at any time before a record containing Census information from a Census is in the open access period for that Census, divulge or communicate any of that information to another person (except to another Archives officer for the purposes of, or in connection with, the performance of that other officer’s duties under this Act).
 
 Note:          Section 70 of the _Crimes Act 1914_ creates an offence in relation to the disclosure of information by Commonwealth officers.
 
-Non‑disclosure to a court or tribunal
+Non-disclosure to a court or tribunal
 
              (2)  A person who is or has been an Archives officer must not, at any time before a record containing Census information from a Census is in the open access period for that Census:
 
@@ -1357,7 +1357,7 @@ Definition
 
              (4)  In this section:
 
-                    <a name="archiv-offic"></a>**_Archives officer_** means the Director‑General or a member of the staff of the Archives.
+                    <a name="archiv-offic"></a>**_Archives officer_** means the Director-General or a member of the staff of the Archives.
 
 ### Division 3—Access to Commonwealth records
 
@@ -1391,7 +1391,7 @@ Note:          If the record is material of the Archives, the 
 
              (1)  Where it appears to the Minister that the Government of a State, of the Australian Capital Territory or of the Northern Territory, as the case may be, might reasonably wish to contend that the making available of a record under section 31 could adversely affect the interests of that State, of the Australian Capital Territory or of the Northern Territory, as the case may be, the record shall not be made available unless there has been consultation between the Commonwealth and that State, the Australian Capital Territory or the Northern Territory.
 
-             (2)  For the purpose of facilitating consultation under subsection (1), the Commonwealth may enter into such arrangements with a State, with the Australian Capital Territory or with the Northern Territory as it thinks appropriate.
+             (2)  For the purpose of facilitating consultation under subsection (1), the Commonwealth may enter into such arrangements with a State, with the Australian Capital Territory or with the Northern   Territory as it thinks appropriate.
 
 ##### <a id="33"></a>33  Exempt records
 
@@ -1439,7 +1439,7 @@ Note:          If the record is material of the Archives, the 
 
                      (b)  a person who is providing, or has provided, confidential information to the Australian Federal Police in relation to such a matter; or
 
-                   (ba)  a person who is providing, or has provided, confidential information to:
+                    (ba)  a person who is providing, or has provided, confidential information to:
 
                               (i)  the Integrity Commissioner (within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_); or
 
@@ -1473,13 +1473,13 @@ Note:          If the record is material of the Archives, the 
 
 ##### <a id="35"></a>35  Identification of exempt records
 
-             (1)  The Director‑General, in consultation with the responsible Minister or a person authorized by the responsible Minister, shall make arrangements for determining the Commonwealth records in the open access period that are to be treated by the Archives as being exempt records and may make arrangements for determining the extent to which access in part to Commonwealth records identified as exempt records may be given without disclosing the information or matter by reason of which the records are exempt records.
+             (1)  The Director-General, in consultation with the responsible Minister or a person authorized by the responsible Minister, shall make arrangements for determining the Commonwealth records in the open access period that are to be treated by the Archives as being exempt records and may make arrangements for determining the extent to which access in part to Commonwealth records identified as exempt records may be given without disclosing the information or matter by reason of which the records are exempt records.
 
              (2)  Except in the case of records exempted from transfer to the care of the Archives by virtue of a determination under section 29, an examination of records for the purposes of subsection (1) shall be conducted on premises of the Archives.
 
-             (3)  The identification of records as exempt records in accordance with this section shall be conducted in accordance with programs approved by the Director‑General and may take place before the records concerned become records in the open access period.
+             (3)  The identification of records as exempt records in accordance with this section shall be conducted in accordance with programs approved by the Director-General and may take place before the records concerned become records in the open access period.
 
-             (4)  Determinations under subsection (1) in respect of records identified as exempt records shall be reviewed, in accordance with arrangements made as referred to in that subsection, at such intervals as the Director‑General thinks appropriate having regard to the nature of the records concerned and any other relevant circumstances and whenever necessary for the purposes of reconsideration of a decision in accordance with section 42.
+             (4)  Determinations under subsection (1) in respect of records identified as exempt records shall be reviewed, in accordance with arrangements made as referred to in that subsection, at such intervals as the Director-General thinks appropriate having regard to the nature of the records concerned and any other relevant circumstances and whenever necessary for the purposes of reconsideration of a decision in accordance with section 42.
 
              (5)  The functions of the Archives with respect to public access to Commonwealth records in the open access period shall be performed in conformity with the determinations made from time to time under this section, except to the extent that any such determination is inconsistent with a decision of the Tribunal on a review under this Act.
 
@@ -1515,9 +1515,9 @@ access in that form may be refused and access given in another form.
 
 ##### <a id="37"></a>37  Conditions in respect of proper care of records
 
-             (1)  The Director‑General may, for the purpose of ensuring the safe custody and proper preservation of any record, determine reasonable conditions to which access to the record is to be subject, or determine that the record is to be withheld from public access.
+             (1)  The Director-General may, for the purpose of ensuring the safe custody and proper preservation of any record, determine reasonable conditions to which access to the record is to be subject, or determine that the record is to be withheld from public access.
 
-             (2)  Where a record is withheld in accordance with subsection (1), a copy shall be provided where, in the opinion of the Director‑General, it is practicable to do so without detriment to the proper preservation or safe custody of the record.
+             (2)  Where a record is withheld in accordance with subsection (1), a copy shall be provided where, in the opinion of the Director-General, it is practicable to do so without detriment to the proper preservation or safe custody of the record.
 
 ##### <a id="38"></a>38  Access to part of exempt record
 
@@ -1525,7 +1525,7 @@ access in that form may be refused and access given in another form.
 
 ##### <a id="39"></a>39  Information as to existence of certain documents
 
-             (1)  Nothing in this Act shall be taken to require the Archives to give information as to the existence or non‑existence of a record where information as to the existence or non‑existence of that record, if included in a Commonwealth record, would cause that last‑mentioned record to be an exempt record by virtue of paragraph 33(1)(a), (b) or (e).
+             (1)  Nothing in this Act shall be taken to require the Archives to give information as to the existence or non-existence of a record where information as to the existence or non-existence of that record, if included in a Commonwealth record, would cause that last-mentioned record to be an exempt record by virtue of paragraph 33(1)(a), (b) or (e).
 
              (2)  Where an application to the Archives for access to a record relates to a record that is, or if it existed would be, of a kind referred to in subsection (1), the Archives may give notice in writing to the applicant that the Archives neither confirms nor denies the existence, as a Commonwealth record, of such a record but that, assuming the existence of such a record, it would be an exempt record, and, where such a notice is given:
 
@@ -1551,7 +1551,7 @@ access in that form may be refused and access given in another form.
 
              (4)  The regulations may make provision that subsection (3) is to have effect as if a specified shorter period were substituted for the period of 90 days specified in that subsection.
 
-             (5)  Where, in relation to an application, a decision is made relating to a refusal to grant access to a record in accordance with the application, the decision‑maker shall cause the applicant to be given notice in writing of the decision and the notice shall:
+             (5)  Where, in relation to an application, a decision is made relating to a refusal to grant access to a record in accordance with the application, the decision-maker shall cause the applicant to be given notice in writing of the decision and the notice shall:
 
                      (a)  state the findings on any material questions of fact, referring to the material on which those findings were based, and state the reasons for the decision;
 
@@ -1587,7 +1587,7 @@ the Archives shall, for the purpose of enabling an application to be made to the
 
            (11)  Where, after an application has been made to the Tribunal by virtue of subsection (8) but before the Tribunal has finally dealt with the application, a decision in the matter to which the application relates is given by the Archives, being a decision that is not satisfactory to the applicant, the Tribunal may, at the request of the applicant, treat the proceedings as extending to a review of that decision in accordance with this Part.
 
-           (12)  Before dealing further with an application made to it by virtue of subsection (8), the Tribunal may, on the application of the Director‑General, allow further time to the Archives to deal with the application for access.
+           (12)  Before dealing further with an application made to it by virtue of subsection (8), the Tribunal may, on the application of the Director-General, allow further time to the Archives to deal with the application for access.
 
 ### Division 4—Review of decisions
 
@@ -1601,7 +1601,7 @@ the Archives shall, for the purpose of enabling an application to be made to the
 
                      (b)  as expeditiously as practicable, give notice to the applicant of the decision reached on the reconsideration (whether or not that decision confirms the previous decision).
 
-             (3)  A decision by the Archives on an application in accordance with this section for reconsideration of a decision shall be made after consideration of the application by the Director‑General or a person authorized by him or her to deal with such applications.
+             (3)  A decision by the Archives on an application in accordance with this section for reconsideration of a decision shall be made after consideration of the application by the Director-General or a person authorized by him or her to deal with such applications.
 
              (4)  The provisions of section 40 extend to a decision made under this section upon a review of a decision in relation to the provision of access to a record that is the subject of an application under that section.
 
@@ -1651,7 +1651,7 @@ and such an application to the Tribunal may be treated by the Tribunal as having
 
              (1)  Subject to this section, in proceedings under this Division, the Tribunal has, in addition to any other power, the power to review any decision of the Archives upon an application for access to a record and to decide any matter in relation to that application that, under this Act, could have been or could be decided by the Archives, and any decision of the Tribunal under this section has the same effect as a decision of the Archives.
 
-             (2)  Where an applicant makes an application under section 43 in respect of a decision of the kind referred to in paragraph (1)(d) of that section, the Tribunal has power to grant access to the record to which the application relates, or to grant access to that record on particular conditions, notwithstanding any determination made by the Director‑General under section 37 in relation to that record.
+             (2)  Where an applicant makes an application under section 43 in respect of a decision of the kind referred to in paragraph (1)(d) of that section, the Tribunal has power to grant access to the record to which the application relates, or to grant access to that record on particular conditions, notwithstanding any determination made by the Director-General under section 37 in relation to that record.
 
              (3)  Where, in proceedings before the Tribunal in pursuance of an application under section 43, it is established that a record is an exempt record, the Tribunal does not, except as provided by subsection (7), have power to decide that access is to be granted to the record.
 
@@ -1695,7 +1695,7 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                    In its application to a proceeding referred to in subsection 46(1) of this Act, section 42 of the _Administrative Appeals Tribunal Act 1975_ applies as if subsection (3) of that section were omitted and the following subsection substituted:
 
-                   “(3)  A question of law arising in a proceeding before the Tribunal constituted in accordance with subsection 46(2) of the _Archives Act 1983_ by 3 presidential members shall:
+                    “(3)  A question of law arising in a proceeding before the Tribunal constituted in accordance with subsection 46(2) of the _Archives Act 1983_ by 3 presidential members shall:
 
                              (a)  in a case where one only of those members is a Judge—be decided according to the opinion of that member; and
 
@@ -1703,13 +1703,13 @@ Note:          Section 21AB of the _Administrative Appeals T
 
 ##### <a id="50"></a>50  Parties
 
-                   For the purposes of this Part and of the application of the _Administrative Appeals Tribunal Act 1975_ in respect of proceedings under this Part, a decision given by the Archives is taken to have been given by the Director‑General.
+                   For the purposes of this Part and of the application of the _Administrative Appeals Tribunal Act 1975_ in respect of proceedings under this Part, a decision given by the Archives is taken to have been given by the Director-General.
 
-##### <a id="50A"></a>50A  Inspector‑General of Intelligence and Security must be requested to give evidence in certain proceedings
+##### <a id="50A"></a>50A  Inspector-General of Intelligence and Security must be requested to give evidence in certain proceedings
 
              (1)  This section applies in any proceedings before the Tribunal under this Act in relation to a record that is claimed to be an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b).
 
-             (2)  Before determining that the record is not an exempt record, the Tribunal must request the Inspector‑General of Intelligence and Security to appear personally and give evidence on:
+             (2)  Before determining that the record is not an exempt record, the Tribunal must request the Inspector-General of Intelligence and Security to appear personally and give evidence on:
 
                      (a)  the damage that could reasonably be expected to be caused to the security, defence or international relations of the Commonwealth if the record were made available for public access; or
 
@@ -1719,7 +1719,7 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                              (ii)  the foreign entity advises the Commonwealth entity that the information or matter is still confidential.
 
-             (3)  Before determining that part of, or a copy of part of, the record is to be made available for public access under section 38, the Tribunal must request the Inspector‑General to appear personally and give evidence on:
+             (3)  Before determining that part of, or a copy of part of, the record is to be made available for public access under section 38, the Tribunal must request the Inspector-General to appear personally and give evidence on:
 
                      (a)  whether making that part, or a copy of that part, of the record available for public access could reasonably be expected to cause damage to the security, defence or international relations of the Commonwealth; or
 
@@ -1729,39 +1729,39 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                              (ii)  the foreign entity advises the Commonwealth entity that the information or matter is still confidential.
 
-             (4)  Before hearing the evidence of the Inspector‑General, the Tribunal must hear any evidence to be given or submissions to be made by or on behalf of:
+             (4)  Before hearing the evidence of the Inspector-General, the Tribunal must hear any evidence to be given or submissions to be made by or on behalf of:
 
                      (a)  the Archives; or
 
                      (b)  the Commonwealth institution of which the record is property.
 
-             (5)  The Inspector‑General must comply with a request under subsection (2) or (3) unless, in the opinion of the Inspector‑General, the Inspector‑General is not appropriately qualified to give evidence on the matters in relation to which the Inspector‑General has been requested to give evidence.
+             (5)  The Inspector-General must comply with a request under subsection (2) or (3) unless, in the opinion of the Inspector-General, the Inspector-General is not appropriately qualified to give evidence on the matters in relation to which the Inspector-General has been requested to give evidence.
 
-             (6)  For the purposes of enabling the Inspector‑General to comply with a request under subsection (2) or (3):
+             (6)  For the purposes of enabling the Inspector-General to comply with a request under subsection (2) or (3):
 
-                     (a)  the Tribunal must allow the Inspector‑General to take possession of, and make copies of or take extracts from, any record given to the Tribunal for the purposes of the proceeding; and
+                     (a)  the Tribunal must allow the Inspector-General to take possession of, and make copies of or take extracts from, any record given to the Tribunal for the purposes of the proceeding; and
 
-                     (b)  the Inspector‑General may require the production of the record that is claimed to be an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b); and
+                     (b)  the Inspector-General may require the production of the record that is claimed to be an exempt record for the reason that it contains information or matter of a kind referred to in paragraph 33(1)(a) or (b); and
 
-                     (c)  the Inspector‑General may require the production of any Commonwealth record that relates to the record mentioned in paragraph (b); and
+                     (c)  the Inspector-General may require the production of any Commonwealth record that relates to the record mentioned in paragraph (b); and
 
-                     (d)  the Inspector‑General may make copies of, or take extracts, from the records mentioned in paragraphs (b) and (c); and
+                     (d)  the Inspector-General may make copies of, or take extracts, from the records mentioned in paragraphs (b) and (c); and
 
-                     (e)  after such period as is reasonably necessary for the purposes of giving evidence to the Tribunal, the Inspector‑General must:
+                     (e)  after such period as is reasonably necessary for the purposes of giving evidence to the Tribunal, the Inspector-General must:
 
                               (i)  return the original of any record to the Tribunal or to the entity that produced the record; and
 
                              (ii)  destroy any copies of or extracts taken from any record.
 
-             (7)  The Inspector‑General must permit a person who would be entitled to inspect a record mentioned in paragraphs (6)(a) to (d) if it were not in the possession of the Inspector‑General to inspect the record at all reasonable times as the person would be so entitled.
+             (7)  The Inspector-General must permit a person who would be entitled to inspect a record mentioned in paragraphs (6)(a) to (d) if it were not in the possession of the Inspector-General to inspect the record at all reasonable times as the person would be so entitled.
 
-             (8)  The Tribunal is not bound by any opinion of the Inspector‑General expressed while giving evidence under this section.
+             (8)  The Tribunal is not bound by any opinion of the Inspector-General expressed while giving evidence under this section.
 
-             (9)  The Tribunal must allow the Inspector‑General a period within which to consider the records mentioned in paragraphs (6)(a) to (d) that is reasonable having regard to:
+             (9)  The Tribunal must allow the Inspector-General a period within which to consider the records mentioned in paragraphs (6)(a) to (d) that is reasonable having regard to:
 
-                     (a)  the nature of the evidence that the Inspector‑General has been requested to give; and
+                     (a)  the nature of the evidence that the Inspector-General has been requested to give; and
 
-                     (b)  the time required by the Inspector‑General to perform the Inspector‑General’s other functions.
+                     (b)  the time required by the Inspector-General to perform the Inspector-General’s other functions.
 
            (10)  The fact that a person is obliged to produce a document under subsection (6) does not otherwise affect a claim of legal professional privilege that anyone may make in relation to that document.
 
@@ -1773,7 +1773,7 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                      (b)  the Tribunal is not restricted by any determination made at any time under section 35.
 
-##### <a id="52"></a>52  Tribunal to ensure non‑disclosure of certain matters
+##### <a id="52"></a>52  Tribunal to ensure non-disclosure of certain matters
 
              (1)  In determining whether the Tribunal is satisfied that it is desirable to make an order or orders under subsection 35(2) of the _Administrative Appeals Tribunal Act 1975_ for the purposes of proceedings in relation to an application under section 43, the Tribunal must:
 
@@ -1801,7 +1801,7 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                      (b)  a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff; or
 
-                     (c)  in the circumstances permitted under paragraph 50A(6)(a)—the Inspector‑General of Intelligence and Security.
+                     (c)  in the circumstances permitted under paragraph 50A(6)(a)—the Inspector-General of Intelligence and Security.
 
              (2)  The Tribunal may require the production, for inspection by members of the Tribunal only, of an exempt record for the purpose of determining whether, and to what extent, it is practicable for arrangements to be made in accordance with section 38 and, where an exempt record is produced by reason of such a requirement, the Tribunal shall, after inspection of the record by the members of the Tribunal as constituted for the purposes of the proceeding, return the record to the person by whom it was produced without permitting a person to have access to the record or disclosing the contents of the record to a person, unless the person is:
 
@@ -1809,7 +1809,7 @@ Note:          Section 21AB of the _Administrative Appeals T
 
                      (b)  a member of the staff of the Tribunal in the course of the performance of his or her duties as a member of that staff; or
 
-                     (c)  in the circumstances permitted under paragraph 50A(6)(a)—the Inspector‑General of Intelligence and Security.
+                     (c)  in the circumstances permitted under paragraph 50A(6)(a)—the Inspector-General of Intelligence and Security.
 
              (5)  Subsection (1) or (2) does not operate so as to prevent the Tribunal from causing a document produced in accordance with that subsection to be sent to the Federal Court of Australia in accordance with section 46 of the _Administrative Appeals Tribunal Act 1975_, but, where such a document is so sent to the Court, the Court shall do all things necessary to ensure that the contents of the document are not disclosed (otherwise than in accordance with this Act) to any person other than a member of the Court as constituted for the purpose of the proceeding before the Court or a member of the staff of the Court in the course of the performance of his or her duties as a member of that staff.
 
@@ -1943,9 +1943,9 @@ the access given to the record shall be taken, for the purposes of subsection 
 
 ##### <a id="63"></a>63  Location of material of the Archives
 
-             (1)  Subject to this Part, material of the Archives shall be kept at such places as the Director‑General considers appropriate.
+             (1)  Subject to this Part, material of the Archives shall be kept at such places as the Director-General considers appropriate.
 
-             (2)  In considering the places at which material of the Archives should be kept, the Director‑General shall take into account:
+             (2)  In considering the places at which material of the Archives should be kept, the Director-General shall take into account:
 
                      (a)  the convenience of persons who are likely to require access to the material;
 
@@ -1953,11 +1953,11 @@ the access given to the record shall be taken, for the purposes of subsection 
 
                      (c)  the appropriateness of keeping in a State or Territory material that relates in particular to that State or Territory or to places in that State or Territory.
 
-             (3)  Copies of records forming part of the material of the Archives may be kept in such places as the Director‑General considers appropriate.
+             (3)  Copies of records forming part of the material of the Archives may be kept in such places as the Director-General considers appropriate.
 
 ##### <a id="64"></a>64  Custody of material of the Archives other than by Archives
 
-             (1)  Subject to any other law of the Commonwealth and to the rights of Commonwealth institutions, the Archives may, if the Director‑General considers it appropriate to do so, make arrangements with a person for records required to be transferred to the care of the Archives, or for material of the Archives, to be kept in the custody of the person.
+             (1)  Subject to any other law of the Commonwealth and to the rights of Commonwealth institutions, the Archives may, if the Director-General considers it appropriate to do so, make arrangements with a person for records required to be transferred to the care of the Archives, or for material of the Archives, to be kept in the custody of the person.
 
              (2)  Such arrangements must:
 
@@ -1967,11 +1967,11 @@ the access given to the record shall be taken, for the purposes of subsection 
 
                      (c)  enable the Archives to meet its obligations under subsections 29(3), 30(1) and 31(1) in respect of that material; and
 
-                     (d)  require the person with the custody of the records to transfer the custody of the records to the Archives if the Director‑General so directs.
+                     (d)  require the person with the custody of the records to transfer the custody of the records to the Archives if the Director-General so directs.
 
 Note:          Subsections 29(3), 30(1) and 31(1) deal with the availability of records.
 
-             (3)  All material of the Archives that has been delivered to the Archives in accordance with the _Copyright Act 1968_, other than Commonwealth records, shall, subject to the consent of the Director‑General of the National Library of Australia, be deposited by the Archives with the National Library of Australia.
+             (3)  All material of the Archives that has been delivered to the Archives in accordance with the _Copyright Act 1968_, other than Commonwealth records, shall, subject to the consent of the Director-General of the National Library of Australia, be deposited by the Archives with the National Library of Australia.
 
 ## Part VIII—Registers and guide relating to Archives
 
@@ -1979,9 +1979,9 @@ Note:          Subsections 29(3), 30(1) and 31(1) deal with th
 
              (1)  The Archives shall maintain a register to be known as the Australian National Register of Records.
 
-             (2)  The Register shall contain such particulars of the material of the Archives as the Director‑General considers appropriate.
+             (2)  The Register shall contain such particulars of the material of the Archives as the Director-General considers appropriate.
 
-             (3)  The Register may also contain such particulars as the Director‑General considers appropriate of:
+             (3)  The Register may also contain such particulars as the Director-General considers appropriate of:
 
                      (a)  current Commonwealth records;
 
@@ -1991,13 +1991,13 @@ Note:          Subsections 29(3), 30(1) and 31(1) deal with th
 
                      (d)  other archival resources relating to Australia.
 
-             (4)  For the purposes of this section, the Archives shall seek the co‑operation of the owners and custodians of material in State archives and other archives.
+             (4)  For the purposes of this section, the Archives shall seek the co-operation of the owners and custodians of material in State archives and other archives.
 
 ##### <a id="66"></a>66  Australian National Guide to Archival Material
 
              (1)  The Archives shall maintain a guide to be known as the Australian National Guide to Archival Material.
 
-             (2)  Subject to subsection (4), the Guide shall contain particulars, in such form as the Director‑General considers appropriate, of all Commonwealth records in the open access period that have been examined in accordance with subsection 35(1).
+             (2)  Subject to subsection (4), the Guide shall contain particulars, in such form as the Director-General considers appropriate, of all Commonwealth records in the open access period that have been examined in accordance with subsection 35(1).
 
              (3)  Subject to subsection (4), the Guide may also contain copies of particulars contained in the Australian National Register of Records.
 
@@ -2007,7 +2007,7 @@ Note:          Subsections 29(3), 30(1) and 31(1) deal with th
 
                      (b)  particulars the disclosure of which would be contrary to any arrangements entered into by the Archives in accordance with this Act.
 
-             (5)  A copy of the Guide shall be kept at the principal office of the Archives in each State and Territory in which the Archives maintains an office and may be kept at such other offices of the Archives as the Director‑General considers appropriate.
+             (5)  A copy of the Guide shall be kept at the principal office of the Archives in each State and Territory in which the Archives maintains an office and may be kept at such other offices of the Archives as the Director-General considers appropriate.
 
              (6)  A person may inspect the Guide and is entitled, on the payment of the appropriate charge determined under the regulations, to receive a copy of the Guide or any part of the Guide.
 
@@ -2015,9 +2015,9 @@ Note:          Subsections 29(3), 30(1) and 31(1) deal with th
 
              (1)  The Archives shall establish and maintain a register to be known as the Australian National Register of Research Involving Archives in which the Archives shall endeavour to list all research that is being, or has been, conducted in or in relation to Australia and has involved, or will involve, the use of archival material.
 
-             (2)  For the purposes of subsection (1), the Archives shall seek the co‑operation of all persons and organizations interested in research of the kind referred to in that subsection, including the authorities of the States responsible for State archives and the universities.
+             (2)  For the purposes of subsection (1), the Archives shall seek the co-operation of all persons and organizations interested in research of the kind referred to in that subsection, including the authorities of the States responsible for State archives and the universities.
 
-             (3)  A copy of the Register shall be kept at the principal office of the Archives in each State and Territory in which the Archives maintains an office and may be kept at such other offices of the Archives as the Director‑General considers appropriate.
+             (3)  A copy of the Register shall be kept at the principal office of the Archives in each State and Territory in which the Archives maintains an office and may be kept at such other offices of the Archives as the Director-General considers appropriate.
 
              (4)  A person may inspect the Register and is entitled, on the payment of the prescribed charge (if any), to receive a copy of an entry in the Register.
 
@@ -2035,7 +2035,7 @@ Note:          Subsections 29(3), 30(1) and 31(1) deal with th
 
 ##### <a id="69"></a>69  Certified copies of records
 
-             (1)  The Director‑General may give a certificate that a record referred to in the certificate is a true copy of a record that is in the care of the Archives and such a certificate is _prima facie_ evidence in all courts of the matters stated in the certificate.
+             (1)  The Director-General may give a certificate that a record referred to in the certificate is a true copy of a record that is in the care of the Archives and such a certificate is _prima facie_ evidence in all courts of the matters stated in the certificate.
 
              (2)  A writing purporting to be a certificate given under this section shall, unless the contrary is proved, be deemed to be such a certificate and to have been duly given.
 
@@ -2047,19 +2047,19 @@ Note:          Subsections 29(3), 30(1) and 31(1) deal with th
 
                      (b)  this Act does not otherwise provide for a charge for the service;
 
-the Archives may make a charge for the service of an amount, or at a rate, determined in writing by the Director‑General.
+the Archives may make a charge for the service of an amount, or at a rate, determined in writing by the Director-General.
 
 ##### <a id="70"></a>70  Transitional
 
              (1)  A reference in any law of the Commonwealth or of a Territory, or in any agreement or arrangement, made before the commencement of Part II, to the Commonwealth Archives Office, to the Archival Authority or to the authority concerned with the preservation of the archives shall, in respect of any time after the commencement of Part II, be read as a reference to the Archives.
 
-             (2)  Notwithstanding Part II, arrangements in operation immediately before the commencement of Part II relating to the disposal or custody of Commonwealth records may continue in operation until the Director‑General otherwise directs.
+             (2)  Notwithstanding Part II, arrangements in operation immediately before the commencement of Part II relating to the disposal or custody of Commonwealth records may continue in operation until the Director-General otherwise directs.
 
              (3)  Where, immediately before the commencement of Part II, any records were in the custody of the establishment known as the Australian Archives, as existing at that time, under arrangements by which the custody of the records was accepted from a person other than a Commonwealth institution by the Commonwealth, or by an authority or person acting on behalf of the Commonwealth, those arrangements (including any provision of those arrangements concerning access to or disposal of those records) have effect from that commencement as if they were made, after that commencement, by that person with the Archives, and subsection 6(2) applies accordingly.
 
 ##### <a id="71"></a>71  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -2204,7 +2204,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>A.C.T. Self‑Government (Consequential Provisions) Act 1988</div>
+    <div>A.C.T. Self-Government (Consequential Provisions) Act 1988</div>
   </td>
   <td>
     <div>109, 1988</div>
@@ -2662,7 +2662,7 @@ Remainder: Royal Assent</div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (item 2): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (item 2): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -2755,32 +2755,15 @@ Remainder: Royal Assent</div>
     <div>Sch. 3 (item 40) \[ <i>see</i>Table A] 
 Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 75, 76) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Archives Act 1983_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1984_, subsections 2(1) and (5) of which provide as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
                  (5)   The amendment of subsection 44(3) of the _Archives Act 1983_ made by this Act shall be deemed to have come into operation on 6 June 1984.
 
-_(b)_     The _Archives Act 1983_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+_(b)_    The _Archives Act 1983_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -2788,7 +2771,7 @@ _(c)_     The _Archives Act 1983_ was amended by section 3 only of the
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(d)_     The _Archives Act 1983_ was amended by section 32 only of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988,_ subsection 2(3) of which provides as follows:
+_(d)_     The _Archives Act 1983_ was amended by section 32 only of the _A.C.T. Self-Government (Consequential Provisions) Act 1988,_ subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act (including the amendments made by Schedule 5) commence on a day or days to be fixed by Proclamation.
 
@@ -3774,24 +3757,6 @@ _(r)_ Subsection 2(1) (items 4, 6 and 7) of the _Freedom of Information Amendm
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 75  Subsection 3(1) (note at the end of the definition of _record_)
-
-Omit “section 25”, substitute “section 2B”.
-
-## 76  Subsection 3C(1) (note)
-
-Omit “subsection 46(3)”, substitute “subsection 33(3AB)”.
-
-As at 25 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3824,9 +3789,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -3856,19 +3821,19 @@ _Archives Amendment Act 2008 (No. 113, 2008)_
 
 ## 6  Transitional—section 3C of the _Archives Act 1983_
 
-(1)       This item applies to a Commonwealth record if:
+(1)        This item applies to a Commonwealth record if:
 
-                     (a)  an arrangement by the Director‑General relating to the disposal or custody of Commonwealth records is in operation immediately before the commencement of this item; and
+                     (a)  an arrangement by the Director-General relating to the disposal or custody of Commonwealth records is in operation immediately before the commencement of this item; and
 
                      (b)  the arrangement classified the record as “Retain as National Archives”; and
 
                      (c)  the record is not covered by a determination made under subitem (3).
 
-(2)       The record is, at the commencement of this item, taken to be determined to be part of the archival resources of the Commonwealth under section 3C of the _Archives Act 1983_.
+(2)        The record is, at the commencement of this item, taken to be determined to be part of the archival resources of the Commonwealth under section 3C of the _Archives Act 1983_.
 
-(3)       The Director‑General may, by writing, determine that this item does not apply to a record.
+(3)        The Director-General may, by writing, determine that this item does not apply to a record.
 
-(4)       A determination made under subitem (3) is not a legislative instrument.
+(4)        A determination made under subitem (3) is not a legislative instrument.
 
 ## 24  Application—subsection 6A(2) of the _Archives Act 1983_
 
@@ -3894,11 +3859,11 @@ Note:          A certificate ceases to be in force if it is re
 
 ## 20  Application provision—items 2 to 16
 
-(1)       The amendments made by items 2 to 16 of this Schedule apply for the purposes of determining whether access, or an extension of partial access, to a record referred to in section 31 of the _Archives Act 1983_ will be given in accordance with an application made under section 40 of that Act and received by the Archives on or after the commencement of this Schedule.
+(1)        The amendments made by items 2 to 16 of this Schedule apply for the purposes of determining whether access, or an extension of partial access, to a record referred to in section 31 of the _Archives Act 1983_ will be given in accordance with an application made under section 40 of that Act and received by the Archives on or after the commencement of this Schedule.
 
-(2)       A certificate issued in relation to a Commonwealth record under section 34 of the _Archives Act 1983_ (as in force immediately before the commencement of this Schedule) is, by force of this subitem, revoked in relation to the record on and from the time at which the first application for access to the record under the _Archives Act 1983_ is made, on or after the commencement of this Schedule.
+(2)        A certificate issued in relation to a Commonwealth record under section 34 of the _Archives Act 1983_ (as in force immediately before the commencement of this Schedule) is, by force of this subitem, revoked in relation to the record on and from the time at which the first application for access to the record under the _Archives Act 1983_ is made, on or after the commencement of this Schedule.
 
-(3)       To avoid doubt:
+(3)        To avoid doubt:
 
                      (a)  subitem (2) does not affect anything done in relation to, or in reliance on, a certificate mentioned in subitem (2) before the commencement of this Schedule; and
 
@@ -3935,22 +3900,6 @@ _Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
 ## 40  Application—items 35, 36 and 37
 
 The amendments made by items 35, 36 and 37 apply for the purposes of determining whether access, or an extension of partial access, to a record referred to in section 31 of the _Archives Act 1983_ will be given in accordance with an application made under section 40 of that Act that is received by the Archives at or after the commencement of those items.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
 ## Table B
 
@@ -3992,7 +3941,7 @@ Schedule           Modifications of the Act
 
                          (ii)    that is in the possession of the committee, the Senate or the House of Representatives; and
 
-                        (iii)    that the committee, the Senate or the House of Representatives respectively has not authorised to be published; or
+                         (iii)    that the committee, the Senate or the House of Representatives respectively has not authorised to be published; or
 
                 (e)    a record prepared by:
 
@@ -4002,7 +3951,7 @@ Schedule           Modifications of the Act
 
                         that relates to a record presented to a committee and is in the possession of:
 
-                        (iii)    the committee; or
+                         (iii)    the committee; or
 
                         (iv)    the Senate; or
 
@@ -4042,7 +3991,7 @@ Schedule           Modifications of the Act
 
                          (ii)    a Sessional Order of either House; or
 
-                        (iii)    a Resolution adopted by either House; or
+                         (iii)    a Resolution adopted by either House; or
 
                         (iv)    a ruling of the President or the Speaker; or
 
@@ -4066,7 +4015,7 @@ Schedule           Modifications of the Act
 
                          (ii)    a committee of the Senate; or
 
-                        (iii)    the Department of the Senate;
+                         (iii)    the Department of the Senate;
 
                         the President; and
 
@@ -4076,7 +4025,7 @@ Schedule           Modifications of the Act
 
                          (ii)    a committee of the House of Representatives; or
 
-                        (iii)    the Department of the House of Representatives;
+                         (iii)    the Department of the House of Representatives;
 
                         the Speaker; and
 
@@ -4086,7 +4035,7 @@ Schedule           Modifications of the Act
 
                          (ii)    the Joint House Department; or
 
-                        (iii)    the Department of the Parliamentary Library; or
+                         (iii)    the Department of the Parliamentary Library; or
 
                         (iv)    the Department of the Parliamentary Reporting Staff;
 
@@ -4200,7 +4149,7 @@ After ‘done’, insert ‘in relation to a Class B record’.
 
 27            Transfer of Class A and Class B records to the Archives
 
-         (1)   The Presiding Officer may make an agreement, in writing, with the Director‑General:
+         (1)   The Presiding Officer may make an agreement, in writing, with the Director-General:
 
                 (a)    to allow Class A records to be transferred to the custody of the Archives; and
 
@@ -4246,9 +4195,9 @@ Omit the subsection, substitute:
 
                          (ii)    a record to which the Archives is not entitled to have access; or 
 
-                        (iii)    a record to which the Archives is not entitled to have access unless the conditions that are specified in the resolution or determination are complied with; or 
+                         (iii)    a record to which the Archives is not entitled to have access unless the conditions that are specified in the resolution or determination are complied with; or 
 
-               (b)    the Presiding Officer makes a similar determination in writing, with the agreement of the Director‑General, in relation to a Class B record;
+               (b)    the Presiding Officer makes a similar determination in writing, with the agreement of the Director-General, in relation to a Class B record;
 
 the Archives must comply with the resolution or determination.
 
@@ -4268,7 +4217,7 @@ the Archives must comply with the resolution or determination.
 
 Omit the subsection, substitute:
 
-         (3)   The Director‑General may make an agreement, in writing, with the Presiding Officer to allow Class A and Class B records that are transferred to the custody of the Archives to be held by the Archives on the conditions specified in the agreement, being conditions consistent with this Part.
+         (3)   The Director-General may make an agreement, in writing, with the Presiding Officer to allow Class A and Class B records that are transferred to the custody of the Archives to be held by the Archives on the conditions specified in the agreement, being conditions consistent with this Part.
 
 8              Section 30 (Commonwealth records to be available to Commonwealth institutions)
 
