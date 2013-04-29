@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00043/Html/8f1fd1ba-e975-430b-a431-9873318e9a07_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00712/Html/2a2f7fb4-dc3b-4fec-aa0b-ade5fdb954ad_files/image001.gif)
 
 # Australian War Memorial Act 1980
 
 **Act No. 104 of 1980 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 2 September 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -492,13 +492,31 @@ the Governor‑General shall terminate the appointment of the Director.
 
 ##### <a id="26"></a>26  Acting Director
 
-                   The Minister may appoint a person to act in the place of the Director:
+             (1)  The Minister may appoint a person to act in the place of the Director:
 
                      (a)  during a vacancy in the office of the Director, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office.
+                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia, or is, for any other reason, unable to perform the functions of his or her office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (3)  The Minister may:
+
+                     (a)  subject to this Act, determine the terms and conditions of appointment, including remuneration and allowances, of a person acting as Director; and
+
+                     (b)  terminate such an appointment at any time.
+
+             (4)  Where a person is acting as Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, that person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (5)  The appointment of a person to act as Director ceases to have effect if he or she resigns his or her appointment by writing signed by him or her and delivered to the Minister.
+
+             (6)  While a person is acting as Director, he or she has and may exercise all the powers, and shall perform all the functions, of the Director under this Act.
+
+             (7)  The appointment of a person under subsection (1) is not invalidated, and shall not be called in question, by reason of a defect or irregularity in or in connection with his or her appointment.
+
+             (8)  The validity of anything done by a person purporting to act under subsection (1) shall not be called in question on the ground that the occasion for his or her appointment had not arisen, that there is a defect or irregularity in or in connection with his or her appointment, that the appointment had ceased to have effect or that the occasion for him or her to act had not arisen or had ceased.
 
 ## Part V—Staff and consultants
 
@@ -731,7 +749,7 @@ of Assent</div>
     <div>6 June 1980</div>
   </td>
   <td>
-    <div>1 July 1980 ( <i>see Gazette</i>1980, No. S148)</div>
+    <div>1 July 1980 ( <i>see Gazette</i>1980, No. S148)</div>
   </td>
   <td>
     <div></div>
@@ -890,7 +908,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 542–553): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(g)</i></div>
+    <div>Schedule 2 (items 542–553): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -907,7 +925,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 273–276): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
+    <div>Schedule 1 (items 273–276): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -975,7 +993,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 280–284) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 280–284) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1215,26 +1233,10 @@ _(i)_      The _Australian War Memorial Act 1980_ was amended by Sched
 </tr>
 <tr>
   <td>
-    <div>S. 25</div>
+    <div>Ss. 25, 26</div>
   </td>
   <td>
     <div>am. No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 43, 1996; No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 26</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1382,6 +1384,38 @@ _(i)_      The _Australian War Memorial Act 1980_ was amended by Sched
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 280  Subsection 26(1)
+
+Omit “(1)”.
+
+## 281  Paragraph 26(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 282  Subsection 26(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 283  At the end of subsection 26(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 284  Subsections 26(2) to (8)
+
+Repeal the subsections.
+
+As at 2 September 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1397,6 +1431,8 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
