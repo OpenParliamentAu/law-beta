@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image001.gif)
 
 # Excise Tariff Act 1921
 
 **Act No. 26 of 1921 as amended**
 
-This compilation was prepared on 30 November 2011
- taking into account amendments up to Act No. 134 of 2011
+This compilation was prepared on 29 July 2011
+ taking into account amendments up to Act No. 67 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -51,8 +51,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [6E](#6E).          Delayed‑entry oil rate
 
 [6G](#6G).         Duty payable on blended goods
-
-[7](#7).            Regulations
 
 **The Schedule [_see_ Note 2]** 
 
@@ -434,7 +432,7 @@ Note:          A mixture of, or obtained from, stabilized oil 
 
                      (b)  the part of that quantity of stabilized oil that is to be taken to have been obtained from prescribed petroleum produced from such a production area is so much of that quantity of stabilized oil as bears to that quantity the same proportion as the quantity of prescribed petroleum produced from that production area bears to the total quantity of prescribed petroleum produced from all the production areas from which that quantity of stabilized oil was so obtained.
 
-##### <a id="6A"></a>6A  Indexation of rates of duty<span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
+##### <a id="6A"></a>6A  Indexation of rates of duty <span style="font-size:9.0pt;font-weight:normal"> [_see_ Note 2]</span>
 
              (1)  In this section, unless the contrary intention appears:
 
@@ -460,7 +458,7 @@ Note:          A mixture of, or obtained from, stabilized oil 
 
              (4)  If the factor worked out in relation to an indexation period in accordance with subsection (5) is more than 1, this Act has effect as if, on the first day of the period, there were substituted for each relevant rate a rate of duty worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image002.gif)
 
 where:
 
@@ -508,7 +506,7 @@ where:
 
 ##### <a id="6AB"></a>6AB  Applicable petroleum prices
 
-                   For the purposes of section 6B, 6C, 6CA or 6D, at any particular time the applicable petroleum price for a month occurring after 30 June 1997 in respect of stabilized crude petroleum oil or condensate, obtained from a production area, that is a prescribed production area, a prescribed new production area, a prescribed condensate production area or a prescribed intermediate production area, as the case requires, for the purposes of that section, is:
+                   For the purposes of section 6B, 6C, 6CA or 6D, at any particular time the applicable petroleum price for a month occurring after 30 June 1997 in respect of stabilized crude petroleum oil or condensate, obtained from a production area, that is, under by‑laws, a prescribed production area, a prescribed new production area, a prescribed condensate production area or a prescribed intermediate production area, as the case requires, for the purposes of that section, is:
 
                      (a)  if at that time the final VOLWARE price for stabilized crude petroleum oil or condensate (as the case requires) for the month and an oil producing region that constitutes or includes that production area has been determined under section 7 of the _Petroleum Excise (Prices) Act 1987_—that final VOLWARE price; or
 
@@ -554,7 +552,7 @@ The amount of duty
 
                    Subject to subsection (3A), the amount of duty in respect of old oil produced from a prescribed production area and entered for home consumption during a month of a financial year commencing on or after 1 July 2001 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image003.gif)
 
 where:
 
@@ -633,7 +631,7 @@ The amount of notional duty for a quantity of oil—more than one petroleum pric
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image004.gif)
 
 where:
 
@@ -671,7 +669,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  Where no old oil produced from a particular prescribed production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of old oil produced from that production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the old oil as if each reference in a paragraph of subsection (4) to **_B_** were a reference to the product of **_B_** and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image005.gif)
 
 where:
 
@@ -703,7 +701,7 @@ The amount of duty
 
              (3)  Subject to subsection (3A), the amount of duty in respect of new oil produced from a prescribed new production area and entered for home consumption during a month of a financial year commencing on or after 1 July 2001 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image006.gif)
 
 where:
 
@@ -727,13 +725,13 @@ The total amount of notional duty
 
              (4)  The amount of notional duty in respect of new oil produced from a particular prescribed new production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 12**B**;
+                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B**;
 
-                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 14**B**;
+                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 14**B**;
 
-                     (c)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 16**B**; and
+                     (c)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 16**B**; and
 
-                     (d)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 16**B**;
+                     (d)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 16**B**;
 
 where:
 
@@ -779,7 +777,7 @@ The amount of notional duty for a quantity of oil—more than one petroleum pric
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed new production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image008.gif)
 
 where:
 
@@ -815,7 +813,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  When no new oil produced from a particular prescribed new production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of new oil produced from the production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the new oil as if each reference in a paragraph of subsection (4) to B were a reference to the product of B and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image009.gif)
 
 where:
 
@@ -837,43 +835,9 @@ Definitions
 
                     <a name="non-adjusted-previou-year-duti"></a>**_non‑adjusted previous year’s duty_**, in relation to a prescribed condensate production area in relation to a month of a financial year, means the amount of duty that, at the end of the financial year immediately preceding the financial year in which that month occurs, would have been payable in respect of condensate produced from that area and entered for home consumption during that preceding year if, for the prices that were, at the end of that preceding year, the applicable petroleum prices for all of the months of that preceding year, there had been substituted the prices that were, immediately before the commencement of that first‑mentioned month, the respective applicable petroleum prices for all of those months.
 
-                    <a name="prescrib-condens-product-area"></a>**_prescribed condensate production area_** has the meaning given by subsection (1A).
-
-          (1A)  **_Prescribed condensate production area_** means any of the following:
-
-                     (a)  a condensate production area prescribed by by‑laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field);
-
-                     (b)  the Rankin Trend (see subsection (1B)).
+                    <a name="prescrib-condens-product-area"></a>**_prescribed condensate production area_** means a condensate production area prescribed by by‑laws (which, without limiting the generality of the foregoing, may be a relevant accumulation, a well, an oilfield or a gas field).
 
 Note:          A by‑law may be expressed to take effect before the date it is registered under the _Legislative Instruments Act 2003_ (see subsection (13) of this section).
-
-          (1B)  The **_Rankin Trend_** means the area that includes the following:
-
-                     (a)  the reservoirs, or groups of reservoirs, known as:
-
-                              (i)  North Rankin; and
-
-                             (ii)  Perseus; and
-
-                            (iii)  Searipple; and
-
-                            (iv)  Goodwyn; and
-
-                             (v)  Keast/Dockrell; and
-
-                            (vi)  Echo/Yodel;
-
-                     (b)  other reservoirs, or groups of reservoirs, (if any) that are specified in the regulations made for the purposes of this paragraph.
-
-          (1C)  Before the Governor‑General makes a regulation specifying a reservoir, or a group of reservoirs, for the purposes of paragraph (1B)(b):
-
-                     (a)  the Resources Minister must be satisfied that the reservoir, or the group of reservoirs, is part of the same field as a reservoir or group of reservoirs mentioned in paragraph (1B)(a); and
-
-                     (b)  if the Resources Minister is so satisfied—the Resources Minister must consider the effect of specifying the reservoir, or the group of reservoirs, on the efficient exploitation of the resource related to the reservoir, or to the group of reservoirs.
-
-          (1D)  Despite subsection 12(2) of the _Legislative Instruments Act 2003_, regulations specifying a reservoir, or a group of reservoirs, for the purposes of paragraph (1B)(b) of this section may be expressed to take effect from a date before the regulations are registered under the _Legislative Instruments Act 2003_.
-
-          (1E)  Subsection (1D) does not apply to regulations that create, modify or otherwise affect a provision that makes a person liable to an offence or civil penalty.
 
 Introduction
 
@@ -883,7 +847,7 @@ The amount of duty
 
              (3)  Subject to subsection (4), the amount of duty in respect of condensate produced from a prescribed condensate production area and entered for home consumption during a month of a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image006.gif)
 
 where:
 
@@ -907,13 +871,13 @@ The total amount of notional duty
 
              (5)  The amount of notional duty in respect of condensate produced from a particular prescribed condensate production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 12**B**;
+                     (a)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B**;
 
-                     (b)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 14**B**;
+                     (b)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 14**B**;
 
-                     (c)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 16**B**; and
+                     (c)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 14**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 16**B**; and
 
-                     (d)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 16**B**;
+                     (d)  the quantity (if any) of the condensate that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 16**B**;
 
 where:
 
@@ -959,7 +923,7 @@ The amount of notional duty for a quantity of condensate—more than one petrole
 
              (9)  If, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a particular prescribed condensate production area are not all the same, the amount of the notional duty in respect of a quantity of condensate referred to in subsection (5) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (10)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image008.gif)
 
 where:
 
@@ -995,7 +959,7 @@ The amount of notional duty—dealing with the first year of production
 
            (12)  When no condensate produced from a particular prescribed condensate production area was ever entered for home consumption before the end of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (5), (6) and (10) or (5), (9) and (10), the notional duty in respect of condensate produced from the production area and entered for home consumption during a later month (the **_relevant month_**) of that financial year, those subsections have effect in relation to the condensate as if each reference in a paragraph of subsection (5) to **_B_** were a reference to the product of **_B_** and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image009.gif)
 
 where:
 
@@ -1031,7 +995,7 @@ The amount of duty
 
              (3)  Subject to subsection (3A), the amount of duty in respect of intermediate oil produced from a prescribed intermediate production area and entered for home consumption during a month of a financial year commencing on or after 1 July 1997 is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image010.gif)
 
 where:
 
@@ -1055,13 +1019,13 @@ The total amount of notional duty
 
              (4)  The amount of notional duty in respect of intermediate oil produced from a particular prescribed intermediate production area and entered for home consumption during a particular period is the sum of the amounts of notional duty in respect of:
 
-                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 6**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 8**B**;
+                     (a)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 6**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 8**B**;
 
-                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 8**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 10**B**;
+                     (b)  the quantity (if any) of the oil that exceeds **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 8**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 10**B**;
 
-                     (c)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif) 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif)** 12**B**; and
+                     (c)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif) 10**B** but does not exceed **A ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif)** 12**B**; and
 
-                     (d)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image007.gif) 12**B**;
+                     (d)  the quantity (if any) of the oil that exceeds **A** ![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image007.gif) 12**B**;
 
 where:
 
@@ -1107,7 +1071,7 @@ The amount of notional duty for a quantity of oil—more than one petroleum pric
 
              (6)  Where, at the end of a period in a financial year, the applicable petroleum prices for the months in which the period occurs and a prescribed intermediate production area are not all the same, the amount of the notional duty in respect of a quantity of oil referred to in subsection (4) produced from that production area and entered for home consumption during the period is an amount equal to the relevant percentage (set out in subsection (7)) of the sum of the amounts calculated in respect of each such applicable petroleum price in operation during the period in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image008.gif)
 
 where:
 
@@ -1143,7 +1107,7 @@ The amount of notional duty—dealing with the first year of production
 
              (9)  Where no intermediate oil produced from a particular prescribed intermediate production area was ever entered for home consumption before the expiration of the first month of a particular financial year, then, in ascertaining, in accordance with subsections (4), (5) and (7) or (4), (6) and (7), the notional duty in respect of intermediate oil produced from that production area and entered for home consumption during a later month (in this subsection referred to as the **_relevant month_**) of that financial year, those subsections have effect in relation to the intermediate oil as if each reference in a paragraph of subsection (4) to B were a reference to the product of B and the factor ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image011.gif)
 
 where:
 
@@ -1163,7 +1127,7 @@ Interpretation of the Schedule
 
              (2)  For the purposes of this Act, the delayed‑entry oil rate that applies to delayed‑entry oil from a particular prescribed source is the amount per kilolitre ascertained in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image012.gif)
 
 where:
 
@@ -1185,7 +1149,7 @@ where:
 
              (1)  Duty payable under this Act on goods (the **_blended goods_**) that are classified to subitem 10.7, 10.11, 10.12 or 10.30 of the Schedule is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image013.gif)
 
 where:
 
@@ -1201,11 +1165,7 @@ where:
 
                     <a name="excis-equival-rate"></a>**_excise equivalent rate_** means so much of the rate of Customs duty applicable to goods on their importation into Australia as is equivalent to the rate of excise duty that would be payable on those goods if manufactured in Australia.
 
-##### <a id="7"></a>7  Regulations
-
-                   The Governor‑General may make regulations prescribing matters required or permitted by this Act to be prescribed.
-
-# The Schedule<span style="font-size:9.0pt"> </span><span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span>
+# The Schedule <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span>
 
                     <a name="beer"></a>**_beer_** means a brewed beverage that:
 
@@ -3200,7 +3160,7 @@ Ss. 5 and 6 (rep. by 80, 1950, s. 3)</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 17 Mar 1967</div>
+Remainder: 17 Mar 1967</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -3271,7 +3231,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Ss. 1 and 2: Royal Assent 
-Remainder: 28 Mar 1969</div>
+Remainder: 28 Mar 1969</div>
   </td>
   <td>
     <div>S. 4</div>
@@ -3357,7 +3317,7 @@ Remainder: 28 Mar 1969</div>
   </td>
   <td>
     <div>S. 3: 31 Aug 1972 
-Remainder: 16 Aug 1972</div>
+Remainder: 16 Aug 1972</div>
   </td>
   <td>
     <div>S. 5</div>
@@ -3478,7 +3438,7 @@ Remainder: 23 July 1974 <i>(a)</i></div>
   </td>
   <td>
     <div>S. 4: 1 July 1977 <i>(a)</i> 
-Remainder: 16 Aug 1977 <i>(a)</i></div>
+Remainder: 16 Aug 1977 <i>(a)</i></div>
   </td>
   <td>
     <div>Ss. 4(2) and 5(2)</div>
@@ -3530,7 +3490,7 @@ Remainder: 16 Aug 1977 <i>(a)</i></div>
   </td>
   <td>
     <div>S. 4: 16 Aug 1978 <i>(a)</i> 
-Remainder: 15 Aug 1978 <i>(a)</i></div>
+Remainder: 15 Aug 1978 <i>(a)</i></div>
   </td>
   <td>
     <div>Ss. 3(2) and 4(2)</div>
@@ -3725,7 +3685,7 @@ Remainder: Royal Assent</div>
     <div>16 June 1982</div>
   </td>
   <td>
-    <div>14 July 1982 ( <i>see</i>s. 2)</div>
+    <div>14 July 1982 ( <i>see</i> s. 2)</div>
   </td>
   <td>
     <div>—</div>
@@ -4042,7 +4002,7 @@ Remainder: Royal Assent</div>
     <div>18 Dec 1986</div>
   </td>
   <td>
-    <div>( <i>see</i>160, 1986 below)</div>
+    <div>( <i>see </i>160, 1986 below)</div>
   </td>
   <td>
     <div>—</div>
@@ -4132,7 +4092,7 @@ s. 2 and <i>Gazette</i>1987, No. S351)</div>
   </td>
   <td>
     <div>Parts I–V (ss. 1–30) and Part VIII (s. 57): 15 Oct 1987 
-Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
+Remainder: 6 Nov 1987 ( <i>see </i>s. 2(2))</div>
   </td>
   <td>
     <div>—</div>
@@ -4438,8 +4398,8 @@ Remainder: Royal Assent</div>
     <div>24 Dec 1993</div>
   </td>
   <td>
-    <div>Ss. 3–5, 6(a), (b), (f)–(h) and (j): 1 Apr 1994 
-S. 6(d) and (e): 21 Jan 1994 
+    <div>Ss. 3–5, 6(a), (b), (f)–(h) and (j): 1 Apr 1994 
+S. 6(d) and (e): 21 Jan 1994 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4549,8 +4509,7 @@ Remainder: Royal Assent</div>
     <div>1 July 1995</div>
   </td>
   <td>
-    <div>Ss. 11 (items 
-74–76) and 18: Royal Assent <i>(f)</i></div>
+    <div>Ss. 11 (items 74–76) and 18: Royal Assent <i>(f)</i></div>
   </td>
   <td>
     <div>S. 18</div>
@@ -4624,7 +4583,7 @@ Remainder: Royal Assent</div>
     <div>18 June 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 64, 65): 1 Sept 1996 
+    <div>Schedule 1 (items 64, 65): 1 Sept 1996 
 Schedule 1 (items 5–18 and 20–62): 1 July 1997 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4642,7 +4601,7 @@ Schedule 1 (items 5–18 and 20–62): 1 July 1997 Remainder: Royal Assent
     <div>19 Sept 1997</div>
   </td>
   <td>
-    <div>Schedule 1: 7 Aug 1997 
+    <div>Schedule 1: 7 Aug 1997 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4714,7 +4673,7 @@ Remainder: Royal Assent</div>
     <div>27 Nov 1997</div>
   </td>
   <td>
-    <div>Schedule 1: 17 Sept 1997 
+    <div>Schedule 1: 17 Sept 1997 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4732,7 +4691,7 @@ Remainder: Royal Assent</div>
     <div>30 June 1998</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1, 2): 31 Jan 1998 ( <i>see</i>s. 2(3) and <i>Gazette</i>1998, No. GN1) 
+    <div>Schedule 1 (items 1, 2): 31 Jan 1998 ( <i>see</i> s. 2(3) and <i>Gazette</i>1998, No. GN1) 
 Schedule 1 (item 4): 3 July 1997 
 Schedule 1 (items 5, 6): <i>(i)</i> 
 Schedule 1 (items 7–14): <i>(i)</i> 
@@ -4788,8 +4747,8 @@ Remainder: Royal Assent</div>
     <div>22 June 2000</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Nov 1999 
-Schedule 2: 15 Nov 1999 
+    <div>Schedule 1: 1 Nov 1999 
+Schedule 2: 15 Nov 1999 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4807,7 +4766,7 @@ Remainder: Royal Assent</div>
     <div>6 July 2000</div>
   </td>
   <td>
-    <div>Schedule 1: 1 Jan 2001 ( <i>see</i>s. 2(2)) 
+    <div>Schedule 1: 1 Jan 2001 ( <i>see</i>s. 2(2)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -4861,9 +4820,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (item 1): 13 May 2000 
 Schedule 1 (items 2–7): 1 July 2000 
-Schedule 1 (items 8–11): 1 Jan 2001 
+Schedule 1 (items 8–11): 1 Jan 2001 
 Schedule 1 (item 12): 31 Jan 2001 
-Schedule 1 (items 13–17): 2 Mar 2001 
+Schedule 1 (items 13–17): 2 Mar 2001 
 Schedule 1 (item 18): 4 Apr 2001 
 Remainder: Royal Assent</div>
   </td>
@@ -4935,8 +4894,8 @@ Remainder: Royal Assent</div>
     <div>2 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–3): 25 Oct 2001 
-Schedule 1 (items 4–6): 15 Apr 2002 
+    <div>Schedule 1 (items 1–3): 25 Oct 2001 
+Schedule 1 (items 4–6): 15 Apr 2002 
 Schedule 1 (item 7): 1 July 2002 
 Remainder: Royal Assent</div>
   </td>
@@ -4974,8 +4933,8 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 1–14, 
 23–25): 1 July 2003 
-Schedule 1 (items 15–22): 1 Jan 2004 
-Schedule 1 (items 26–30) and Schedule 2 (items 6–9): 18 Sept 2003 
+Schedule 1 (items 15–22): 1 Jan 2004 
+Schedule 1 (items 26–30) and Schedule 2 (items 6–9): 18 Sept 2003 
 Schedule 2 (items 1–5): <i>(n)</i> 
 Remainder: Royal Assent</div>
   </td>
@@ -4994,7 +4953,7 @@ Remainder: Royal Assent</div>
     <div>29 Mar 2006</div>
   </td>
   <td>
-    <div>Schedule 2 (items 22–24): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
+    <div>Schedule 2 (items 22–24): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
   </td>
   <td>
     <div>—</div>
@@ -5162,34 +5121,17 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (item 12) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Excise Tariff Amendment (Condensate) Act 2011</div>
-  </td>
-  <td>
-    <div>134, 2011</div>
-  </td>
-  <td>
-    <div>24 Nov 2011</div>
-  </td>
-  <td>
-    <div>24 Nov 2011</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 5) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The Acts marked _(a)_ in the table contain provisions that relate to the time of commencement of those Acts. To ascertain those provisions, reference should be made to the amending Acts.
 
          The application of amendments made by many of the Acts referred to above is affected by provisions in those Acts with respect to the time of imposition of excise duty imposed by those Acts and their application to specified goods. To ascertain those provisions, reference should be made to the amending Acts.
 
-_(b)_     The _Excise Tariff Act 1921_ was amended by Part XXXIII (sections 101 and 102) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
+_(b)_     The _Excise  Tariff Act 1921_ was amended by Part XXXIII (sections 101 and 102) only of the _Statute Law (Miscellaneous Amendments) Act (No. 2) 1982_, subsection 2(16) of which provides as follows:
 
                (16)   The remaining provisions of this Act shall come into operation on the twenty‑eighth day after the day on which this Act receives the Royal Assent.
 
-_(c)_     The _Excise Tariff Act 1921_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
+_(c)_     The _Excise  Tariff Act 1921_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1984_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
 
@@ -5709,14 +5651,6 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
     <div>S. 6AC</div>
   </td>
   <td>
@@ -5849,14 +5783,6 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
   </td>
   <td>
     <div>ad. No. 109, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 134, 2011</div>
   </td>
 </tr>
 <tr>
@@ -6013,14 +5939,6 @@ _(n)_     Subsection 2(1) (items 2 and 7) of the _Excise Tariff Amendm
 </tr>
 <tr>
   <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 134, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td colspan="2">
     <div>Ss. 8, 9</div>
   </td>
   <td>
@@ -6061,7 +5979,7 @@ Omit “Australian Standard AS/NZS 1960.1:1995”, substitute “Australian Stan
 
 Repeal the definition.
 
-As at 30 November 2011 the amendments are not incorporated in this compilation.
+As at 29 July 2011 the amendments are not incorporated in this compilation.
 
 ### Note 4
 
@@ -6480,7 +6398,7 @@ Repeal the subitems, substitute:
   </td>
 </tr></table>
 
-As at 30 November 2011 the amendments are not incorporated in this compilation.
+As at 29 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -6642,7 +6560,7 @@ Application of Schedule (other than items 2, 3, 4, 10, 11 and 12)
 
                      (b)  the formula in subsection 6CA(3) were replaced with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00919/Html/4be769aa-d5c2-479b-aa56-381cace0b1da_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00608/Html/a0d82d9d-ece2-4249-a171-92d86ce0b81e_files/image014.gif)
 
                      (c)  subsections 6CA(7) and (8) were omitted.
 
@@ -6736,25 +6654,5 @@ _Excise Tariff Amendment (Taxation of Alternative Fuels) Act 2011
                      (c)  no duty of excise had been paid on the goods before that day.
 
 (2)       This item has effect despite subsection 5(2) of the _Excise Tariff Act 1921_.
-
-* * *
-
-_Excise Tariff Amendment (Condensate) Act 2011 (No. 134, 2011)_
-
-## Schedule 1
-
-## 5  Application and savings
-
-(1)       The amendments made by this Schedule apply in relation to condensate produced after midnight (by legal time in the Australian Capital Territory) on 13 May 2008.
-
-(2)       Subitems (3) and (4) apply to a by‑law if:
-
-                     (a)  the by‑law prescribed a condensate production area for the purposes of the definition of **_prescribed condensate production area_** in subsection 6CA(1) of the _Excise Tariff Act 1921_; and
-
-                     (b)  the by‑law was in force immediately before the commencement of this item.
-
-(3)       The by‑law has effect, on and after the commencement of this item, as if it had been made for the purposes of paragraph (a) of the definition of **_prescribed condensate production area_** in subsection 6CA(1A) of the _Excise Tariff Act 1921_ as amended by this Schedule.
-
-(4)       However, the by‑law does not have effect, and is taken never to have had effect, to the extent that it prescribed the Rankin Trend as a condensate production area for the purposes of the definition of **_prescribed condensate production area_** in subsection 6CA(1) of the _Excise Tariff Act 1921_.
 
  
