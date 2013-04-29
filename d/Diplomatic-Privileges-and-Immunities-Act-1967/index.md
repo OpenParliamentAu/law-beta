@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00402/Html/DipPriImmAct1967_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00375/Html/DipPriImmAct1967_image001.gif)
 
 # Diplomatic Privileges and Immunities Act 1967
 
 **Act No. 16 of 1967 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -188,13 +188,13 @@ that deals with a matter dealt with by this Act.
 
 indirect tax that would be payable on an importation under one of those Acts is not payable on an importation covered by the exemption from customs duties, taxes and related charges provided for by paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention and section 7 of this Act.
 
-             (2)  The exemption does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the _Customs Act 1901_, intended for the use of the mission or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other articles.
+             (2)  The exemption does not apply where any other articles of the same kind, or of a similar kind, that have been imported into Australia were, at the time when they were entered for home consumption under the _Customs Act 1901_, intended for the use of the mission or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other articles.
 
              (3)  The exemption does not apply unless:
 
-                     (a)  the person for whose use the articles are intended, or, if the articles are intended for the use of a mission, the head of the mission, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the _Customs Act 1901_, he or she will pay to the Commonwealth an amount equal to so much (if any) as the Minister for Industry, Technology and Commerce determines of the customs duties, taxes and related charges that, but for paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention, as the case may be, would have been payable in respect of the articles; and
+                     (a)  the person for whose use the articles are intended, or, if the articles are intended for the use of a mission, the head of the mission, agrees that, if the articles are sold or otherwise disposed of in Australia or in an external Territory within, in the case of articles other than motor vehicles, 2 years, and in the case of motor vehicles, 3 years, after the date of entry of the articles for home consumption under the _Customs Act 1901_, he will pay to the Commonwealth an amount equal to so much (if any) as the Minister for Industry, Technology and Commerce determines of the customs duties, taxes and related charges that, but for paragraph 1 of Article 36, or paragraph 1 or paragraph 2 of Article 37, of the Convention, as the case may be, would have been payable in respect of the articles; and
 
-                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last-mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first-mentioned agreement).
+                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other articles and has committed a breach of that last-mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he will comply with the first-mentioned agreement).
 
              (4)  In subsection (3), **_motor vehicle_** means a vehicle with a motor engine, being a vehicle ordinarily for use on land.
 
@@ -214,13 +214,13 @@ indirect tax that would be payable on an importation under one of those Acts is 
 
                      (c)  the personal use of a member of the family of a person referred to in paragraph (b), being a member of the family who forms part of the household of the person and is not an Australian citizen.
 
-             (2)  Subsection (1) does not apply in respect of goods that are intended for the use of a mission or person referred to in that subsection where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the mission or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his or her opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other goods.
+             (2)  Subsection (1) does not apply in respect of goods that are intended for the use of a mission or person referred to in that subsection where any other goods of the same kind, or of a similar kind, that have been entered for home consumption under an Act relating to duties of excise were, at the time when they were so entered, intended for the use of the mission or person and the Minister for Industry, Technology and Commerce, by instrument in writing, declares that, in his opinion, the reasonable requirements of the mission or person, as the case may be, have adequately been met by the other goods.
 
              (3)  Subsection (1) does not apply in respect of any goods unless:
 
-                     (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a mission, the head of the mission, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he or she will, unless the Minister for Industry, Technology and Commerce otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
+                     (a)  the person for whose use the goods are intended, or, if the goods are intended for the use of a mission, the head of the mission, agrees that, if the goods are sold or otherwise disposed of in Australia or in an external Territory within 2 years after the date of entry of the goods for home consumption under an Act relating to duties of excise, he will, unless the Minister for Industry, Technology and Commerce otherwise determines, pay to the Commonwealth an amount equal to the duties of excise that, but for this section, would have been payable in respect of the goods; and
 
-                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he or she will comply with the first-mentioned agreement).
+                     (b)  where the person so entering into an agreement has previously entered into a similar agreement in relation to any other goods and has committed a breach of that last-mentioned agreement—the person complies with such conditions, if any, as the Minister for Industry, Technology and Commerce, by instrument in writing, determines (which may include a condition that the person give security, satisfactory to that Minister, that he will comply with the first-mentioned agreement).
 
 ##### <a id="10B"></a>10B  Indirect tax concession scheme
 
@@ -270,7 +270,7 @@ are entitled to the immunity from jurisdiction, and inviolability, to which pers
 
 ##### <a id="12"></a>12  Withdrawal of privileges and immunities
 
-             (1)  Where the Minister is satisfied that the privileges and immunities granted in relation to a mission of Australia in an overseas country, or to persons connected with that mission, are less than the privileges and immunities granted by this Act in relation to the mission of that country, or to persons connected with that mission, he or she may, by instrument in writing, withdraw, in relation to that mission or to persons connected with that mission, all or any of the privileges and immunities granted by this Act.
+             (1)  Where the Minister is satisfied that the privileges and immunities granted in relation to a mission of Australia in an overseas country, or to persons connected with that mission, are less than the privileges and immunities granted by this Act in relation to the mission of that country, or to persons connected with that mission, he may, by instrument in writing, withdraw, in relation to that mission or to persons connected with that mission, all or any of the privileges and immunities granted by this Act.
 
              (2)  The Minister shall cause any such instrument to be published in the _Gazette_.
 
@@ -336,7 +336,7 @@ _Article_ 2
 
 The establishment of diplomatic relations between States, and of permanent diplomatic missions, takes place by mutual consent.
 
-_Article_ 3 
+_Article_ 3 -
 
 1.  The functions of a diplomatic mission consist _inter alia_ in:
 
@@ -1062,23 +1062,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 252–258): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Diplomatic Privileges and Immunities Act 1967_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(7) of which provides as follows:
@@ -1173,7 +1156,7 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; Nos. 26 and 80, 1982; No. 15, 1988; No. 177, 1999; No. 73, 2008</div>
+    <div>am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; Nos. 26 and 80, 1982; No. 15, 1988; No. 177, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1181,7 +1164,7 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
     <div>S. 9</div>
   </td>
   <td>
-    <div>am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; No. 80, 1982; No. 65, 1985; No. 15, 1988; No. 73, 2008</div>
+    <div>am. No. 69, 1972; No. 216, 1973; No. 91, 1976; No. 41, 1980; No. 80, 1982; No. 65, 1985; No. 15, 1988</div>
   </td>
 </tr>
 <tr>
@@ -1238,14 +1221,6 @@ _(ea)_   The _A New Tax System (Indirect Tax and Consequential Amendments) A
   </td>
   <td>
     <div>am. No. 69, 1972; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
