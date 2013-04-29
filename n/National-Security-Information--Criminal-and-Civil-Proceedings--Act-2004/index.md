@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00523/Html/5F789650F55A0F40CA2570500018A720/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00465/Html/AEB870920D18DD7BCA25703F0018B931/$FILE/image001.gif)
 
-# National Security Information (Criminal and Civil Proceedings) Act 2004
+# National Security Information (Criminal Proceedings) Act 2004
 
 **Act No. 150 of 2004 as amended**
 
-This compilation was prepared on 3 August 2005
+This compilation was prepared on 14 July 2005
 taking into account amendments up to Act No. 89 of 2005
 
 The text of any of those amendments not in force
@@ -31,222 +31,138 @@ Attorney-General’s Department, Canberra
 
 [5](#5).            Act binds Crown                                                                                 2
 
-[6](#6).            Application of Act to federal criminal proceedings                             2
-
-[6A](#6A).         Application of Act to civil proceedings                                              2
+[6](#6).            Application of Act                                                                              2
 
 **Part 2—Interpretation** 
 
     **Division 1—Definitions**
 
-[7](#7).            Definitions                                                                                           5
+[7](#7).            Definitions                                                                                           3
 
     **Division 2—National security and related definitions**
 
-[8](#8).            Meaning of _national security_                                                               7
+[8](#8).            Meaning of _national security_                                                               5
 
-[9](#9).            Meaning of _security_                                                                             7
+[9](#9).            Meaning of _security_                                                                             5
 
-[10](#10).          Meaning of _international relations_                                                      7
+[10](#10).          Meaning of _international relations_                                                      5
 
-[11](#11).          Meaning of _law enforcement interests_                                                 7
+[11](#11).          Meaning of _law enforcement interests_                                                 5
 
     **Division 3—Federal criminal proceeding and related definitions**
 
-[13](#13).          Meaning of _criminal proceeding_                                                          8
+[13](#13).          Meaning of _criminal proceeding_                                                          6
 
-[14](#14).          Meaning of _federal criminal proceeding_                                              8
+[14](#14).          Meaning of _federal criminal proceeding_                                              6
 
-[15](#15).          Meaning of _defendant_ in relation to a federal criminal proceeding       9
-
-    **Division 3A—Civil proceeding definition**
-
-[15A](#15A).       Meaning of _civil proceeding_                                                              10
+[15](#15).          Meaning of _defendant_                                                                          7
 
     **Division 4—Other interpretation provisions**
 
-[16](#16).          Disclosure of information in permitted circumstances                      11
+[16](#16).          Disclosure of information in permitted circumstances                        8
 
-[17](#17).          Meaning of _likely to prejudice national security_                                12
+[17](#17).          Meaning of _likely to prejudice national security_                                  8
 
-[18](#18).          Operation of other Acts etc                                                               12
+[18](#18).          Operation of other Acts etc                                                                 8
 
-[19](#19).          General powers of a court                                                                 12
+[19](#19).          General powers of a court                                                                   8
 
-[20](#20).          When an order of a court ceases to be subject to appeal                   13
+[20](#20).          When an order of a court ceases to be subject to appeal                     9
 
-**Part 3—Protection of information whose disclosure in federal criminal proceedings is likely to prejudice etc. national security** 
+**Part 3—Protection of information whose disclosure is likely to prejudice etc. national security** 
 
-    **Division 1—Management of information in federal criminal proceedings**
+    **Division 1—Management of information**
 
-[21](#21).          Pre-trial conferences                                                                          14
+[21](#21).          Pre-trial conferences                                                                          10
 
-[22](#22).          Arrangements for federal criminal proceedings about disclosures relating to or affecting national security            14
+[22](#22).          Arrangements about disclosures relating to or affecting national security               10
 
-[23](#23).          Protection of certain information disclosed in a federal criminal proceeding           15
+[23](#23).          Protection of certain information disclosed in a proceeding              10
 
-    **Division 2—Attorney-General’s certificates for protection of information in federal criminal proceedings** 
+    **Division 2—Attorney-General’s certificates for protection of information** 
 
-        **Subdivision A—Notifying Attorney-General etc. of expected disclosure in federal criminal proceedings**
+        **Subdivision A—Notifying Attorney-General etc. of expected disclosure**
 
-[24](#24).          Prosecutor and defendant must notify expected disclosure in federal criminal proceedings of information relating to or affecting national security                                                                  16
+[24](#24).          Prosecutor and defendant must notify expected disclosure of information relating to or affecting national security                                                                                                           12
 
-        **Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in federal criminal proceedings**
+        **Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question**
 
-[25](#25).          Preventing witnesses from disclosing information in federal criminal proceedings by not allowing them to answer questions                                                                                            17
+[25](#25).          Preventing witnesses from disclosing information by not allowing them to answer questions               13
 
-        **Subdivision C—Attorney-General’s federal criminal proceedings certificates**
+        **Subdivision C—Attorney-General’s certificates**
 
-[26](#26).          Attorney-General’s criminal non-disclosure certificate                     18
+[26](#26).          Attorney-General’s non-disclosure certificate                                  14
 
-[27](#27).          Consequences of Attorney-General giving criminal non-disclosure certificate        21
+[27](#27).          Consequences of Attorney-General giving non-disclosure certificate 17
 
-[28](#28).          Attorney-General’s criminal witness exclusion certificate                22
+[28](#28).          Attorney-General’s witness exclusion certificate                              18
 
-    **Division 3—Closed hearings and non-disclosure or witness exclusion orders in federal criminal proceedings**
+    **Division 3—Closed hearings and non-disclosure or witness exclusion orders**
 
-[29](#29).          Closed hearing requirements in federal criminal proceedings             25
+[29](#29).          Closed hearing requirements                                                              21
 
-[29A](#29A).       Request to delay making record available pending appeal decision   27
+[29A](#29A).       Request to delay making record available pending appeal decision   23
 
-[30](#30).          Intervention by Attorney-General in federal criminal proceedings   27
+[30](#30).          Intervention by Attorney-General                                                    23
 
-[31](#31).          Court orders in federal criminal proceedings                                     28
+[31](#31).          Court orders                                                                                       24
 
-[32](#32).          Reasons for court orders                                                                    30
+[32](#32).          Reasons for court orders                                                                    26
 
-[33](#33).          Request to delay giving section 32 statement pending appeal decision   31
+[33](#33).          Request to delay giving section 32 statement pending appeal decision   26
 
-[34](#34).          Period of operation of court orders                                                   31
+[34](#34).          Period of operation of court orders                                                   27
 
-[35](#35).          Consequence of certain court orders                                                  31
+[35](#35).          Consequence of certain court orders                                                  27
 
-[36](#36).          Adjournment after certain court orders                                             32
+[36](#36).          Adjournment after certain court orders                                             28
 
-    **Division 4—Appeals in federal criminal proceedings**
+    **Division 4—Appeals**
 
-[36A](#36A).       Appeal against court decision under section 29                                33
+[36A](#36A).       Appeal against court decision under section 29                                29
 
-[37](#37).          Appeals against court orders under section 31                                  33
+[37](#37).          Appeals against court orders under section 31                                  29
 
-[38](#38).          Appeal against court decisions under section 32                               33
+[38](#38).          Appeal against court decisions under section 32                               29
 
-**Part 3A—Protection of information whose disclosure in civil proceedings is likely to prejudice etc. national security** 
+**Part 4—Security clearances**
 
-    **Division 1—Management of information in civil proceedings**
+[39](#39).          Security clearance for defendant’s legal representative etc                30
 
-[38A](#38A).       Conferences before the substantive hearings in civil proceedings begin  34
+**Part 5—Offences**
 
-[38B](#38B).       Arrangements for civil proceedings about disclosures relating to or affecting national security             35
+[40](#40).          Offence to disclose information before Attorney-General gives non-disclosure certificate etc               32
 
-[38C](#38C).       Protection of certain information disclosed in a civil proceeding      35
+[41](#41).          Offence to disclose information before Attorney-General gives witness exclusion certificate etc          33
 
-    **Division 2—Attorney-General’s certificates for protection of information in civil proceedings** 
+[42](#42).          Offence to contravene requirement to notify Attorney-General etc  33
 
-        **Subdivision A—Notifying Attorney-General etc. of expected disclosure in civil proceedings**
+[43](#43).          Offence to disclose information contrary to Attorney-General’s non-disclosure certificate  34
 
-[38D](#38D).       Parties must notify expected disclosure in civil proceedings of information relating to or affecting national security                                                                                                           36
+[44](#44).          Offence to call witness contrary to Attorney-General’s witness exclusion certificate           34
 
-        **Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in civil proceedings**
+[45](#45).          Offence to contravene court order                                                     34
 
-[38E](#38E).        Preventing witnesses from disclosing information in civil proceedings by not allowing them to answer questions                                                                                                           38
-
-        **Subdivision C—Attorney-General’s civil proceedings certificates**
-
-[38F](#38F).        Attorney-General’s civil non-disclosure certificate                           39
-
-[38G](#38G).       Consequences of Attorney-General giving civil non-disclosure certificate              42
-
-[38H](#38H).       Attorney-General’s civil witness exclusion certificate                      43
-
-    **Division 3—Closed hearings and non-disclosure or witness exclusion orders in civil proceedings**
-
-[38I](#38I).         Closed hearing requirements in civil proceedings                              46
-
-[38J](#38J).        Request to delay making record available pending appeal decision   49
-
-[38K](#38K).       Intervention by Attorney-General in civil proceedings                     49
-
-[38L](#38L).        Court orders in civil proceedings                                                       49
-
-[38M](#38M).      Reasons for court orders                                                                    51
-
-[38N](#38N).       Request to delay giving section 38M statement pending appeal decision               52
-
-[38O](#38O).       Period of operation of court orders                                                   52
-
-[38P](#38P).        Adjournment after certain court orders                                             53
-
-    **Division 4—Appeals in civil proceedings**
-
-[38Q](#38Q).       Appeal against court decision under section 38I                               54
-
-[38R](#38R).       Appeals against court orders under section 38L                               54
-
-[38S](#38S).        Appeal against court decisions under section 38M                           54
-
-**Part 4—Security clearances** 
-
-    **Division 1—Security clearances required in federal criminal proceedings**
-
-[39](#39).          Security clearance for defendant’s legal representative etc                55
-
-    **Division 2—Security clearances required in civil proceedings**
-
-[39A](#39A).       Security clearance for parties etc  to a civil proceeding                     57
-
-**Part 5—Offences** 
-
-    **Division 1—Offences relating to federal criminal proceedings**
-
-[40](#40).          Offence to disclose information before Attorney-General gives criminal non-disclosure certificate etc  under section 26                                                                                                           60
-
-[41](#41).          Offence to disclose information before Attorney-General gives criminal witness exclusion certificate etc  under section 28                                                                                           61
-
-[42](#42).          Offence to contravene requirement to notify Attorney-General etc  under sections 24 and 25              62
-
-[43](#43).          Offence to disclose information contrary to Attorney-General’s criminal non-disclosure certificate given under section 26                                                                                           62
-
-[44](#44).          Offence to call witness contrary to Attorney-General’s criminal witness exclusion certificate given under section 28                                                                                                           62
-
-[45](#45).          Offence to contravene court order                                                     62
-
-[46](#46).          Offence to disclose information in federal criminal proceedings to certain persons without security clearance etc                                                                                                            63
-
-    **Division 2—Offences relating to civil proceedings**
-
-[46A](#46A).       Offence to disclose information before Attorney-General gives civil non-disclosure certificate etc  under section 38F                                                                                                           64
-
-[46B](#46B).       Offence to disclose information before Attorney-General gives civil witness exclusion certificate etc  under section 38H                                                                                        65
-
-[46C](#46C).       Offence to contravene requirement to notify Attorney-General etc  under sections 38D and 38E        65
-
-[46D](#46D).       Offence to disclose information contrary to Attorney-General’s civil non-disclosure certificate given under section 38F                                                                                                           66
-
-[46E](#46E).        Offence to call witness contrary to Attorney-General’s civil witness exclusion certificate given under section 38H                                                                                                           66
-
-[46F](#46F).        Offence to contravene court order                                                     66
-
-[46G](#46G).       Offence to disclose information in civil proceedings to certain persons without security clearance etc                 66
+[46](#46).          Offence to disclose information to certain persons without security clearance etc                 34
 
 **Part 6—Miscellaneous**
 
-[47](#47).          Report to Parliament on certificates given by Attorney-General etc  68
+[47](#47).          Report to Parliament on certificates given by Attorney-General etc  36
 
-[48](#48).          Rules of court                                                                                    68
+[48](#48).          Rules of court                                                                                    36
 
-[49](#49).          Regulations                                                                                        68
+[49](#49).          Regulations                                                                                        36
 
 **Notes** 
 
 
-## An Act relating to the protection of certain information from disclosure in federal criminal proceedings and civil proceedings, and for related purposes
+## An Act relating to the protection of certain information from disclosure in federal criminal proceedings, and for related purposes
 
 ## Part 1—Preliminary
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _National Security Information (Criminal and Civil Proceedings) Act 2004._
+                   This Act may be cited as the _National Security Information (Criminal Proceedings) Act 2004._
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -334,7 +250,7 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="3"></a>3  Object of this Act
 
-             (1)  The object of this Act is to prevent the disclosure of information in federal criminal proceedings and civil proceedings where the disclosure is likely to prejudice national security, except to the extent that preventing the disclosure would seriously interfere with the administration of justice.
+             (1)  The object of this Act is to prevent the disclosure of information in federal criminal proceedings where the disclosure is likely to prejudice national security, except to the extent that preventing the disclosure would seriously interfere with the administration of justice.
 
              (2)  In exercising powers or performing functions under this Act, a court must have regard to the object of this Act.
 
@@ -344,67 +260,13 @@ Note:          This table relates only to the provisions of th
 
 ##### <a id="5"></a>5  Act binds Crown
 
-             (1)  This Act binds the Crown in each of its capacities.
+                   This Act binds the Crown in each of its capacities.
 
-             (2)  This Act does not make the Crown liable to be prosecuted for an offence.
-
-##### <a id="6"></a>6  Application of Act to federal criminal proceedings
+##### <a id="6"></a>6  Application of Act
 
              (1)  Subject to subsection (2), this Act applies to a federal criminal proceeding, whether begun before, on or after the day on which this section commences, if the prosecutor gives notice in writing to the defendant and the court that this Act applies to the proceeding.
 
              (2)  If the prosecutor gives the notice after the proceeding begins, this Act only applies to the parts of the proceeding that take place after the notice is given.
-
-             (3)  A notice given under this section is not a legislative instrument.
-
-##### <a id="6A"></a>6A  Application of Act to civil proceedings
-
-Application to civil proceedings—Attorney-General not a party to proceedings
-
-             (1)  If:
-
-                     (a)  the Attorney-General is not a party to a civil proceeding, whether begun before, on or after the day on which this section commences; and
-
-                     (b)  the Attorney-General gives notice in writing to the parties to the proceeding and the court that this Act applies to the proceeding;
-
-then, subject to subsection (5), this Act applies to the proceeding.
-
-Application to civil proceedings—Attorney-General a party to proceedings
-
-             (2)  If:
-
-                     (a)  the Attorney-General is, or becomes, a party to a civil proceeding, whether begun before, on or after the day on which this section commences; and
-
-                     (b)  the Minister appointed under subsection (3) or (4) gives notice in writing to the parties to the proceeding and the court that this Act applies to the proceeding;
-
-then:
-
-                     (c)  subject to subsection (5), this Act applies to the proceeding; and
-
-                     (d)  the Minister must perform the functions and exercise the powers, in relation to the proceeding, that are conferred on the Attorney-General under Divisions 2, 3 and 4 of Part 3A; and
-
-                     (e)  references in:
-
-                              (i)  Division 4 of Part 2; and
-
-                             (ii)  Divisions 2, 3 and 4 of Part 3A; and
-
-                            (iii)  Division 2 of Part 5;
-
-                            to the Attorney-General (other than references to the Attorney-General as a party to the proceeding) are to be read as references to the Minister.
-
-Attorney-General to appoint alternative Minister
-
-             (3)  The Attorney-General must, as soon as possible after the commencement of this section, appoint in writing another Minister for the purposes of the operation of subsection (2) in relation to all civil proceedings.
-
-             (4)  If the Minister appointed under subsection (3) is, or becomes, a party to a civil proceeding to which the Attorney-General also is or becomes a party, the Attorney-General must appoint a different Minister for the purposes of the operation of subsection (2) in relation to that civil proceeding.
-
-Application to civil proceedings—notice given after a proceeding has begun
-
-             (5)  If the Attorney-General or the Minister gives the notice after the proceeding has begun, this Act only applies to the parts of the proceeding that take place after the notice is given.
-
-Notice and appointment are not legislative instruments
-
-             (6)  A notice given under subsection (1) or (2) and an appointment made by the Attorney-General under subsection (3) or (4) are not legislative instruments for the purposes of the _Legislative Instruments Act 2003_.
 
 ## Part 2—Interpretation
 
@@ -418,13 +280,11 @@ Notice and appointment are not legislative instruments
 
                     <a name="ceas-subject-appeal"></a>**_ceases to be subject to appeal_** has the meaning given by section 20.
 
-                    <a name="civil-proceing"></a>**_civil proceeding_** has the meaning given by section 15A.
-
                     <a name="crimin-proceing"></a>**_criminal proceeding_** has the meaning given by section 13.
 
-                    <a name="defend"></a>**_defendant_**, in relation to a federal criminal proceeding, has the meaning given by subsection 15(1).
+                    <a name="defend"></a>**_defendant_** has the meaning given by subsection 15(1).
 
-                    <a name="disclos"></a>**_disclose_** information in a criminal proceeding or a civil proceeding means:
+                    <a name="disclos"></a>**_disclose_** information in a criminal proceeding means:
 
                      (a)  give the information in evidence in the proceeding; or
 
@@ -516,7 +376,7 @@ whether orally or by giving, or disclosing the contents of, a document.
 
                      (b)  a court proceeding under, or in relation to a matter arising under, the _Extradition Act 1988_.
 
-##### <a id="15"></a>15  Meaning of _defendant_ in relation to a federal criminal proceeding
+##### <a id="15"></a>15  Meaning of _defendant_
 
              (1)  In this Act, unless the contrary intention appears, **_defendant_** means:
 
@@ -526,24 +386,6 @@ whether orally or by giving, or disclosing the contents of, a document.
 
              (2)  If there is more than one defendant in a federal criminal proceeding, this Act applies separately in relation to each defendant.
 
-### Division 3A—Civil proceeding definition
-
-##### <a id="15A"></a>15A  Meaning of _civil proceeding_
-
-             (1)  In this Act, **_civil proceeding_** means any proceeding in a court of the Commonwealth, a State or Territory, other than a criminal proceeding.
-
-Note:          The Act only applies to a civil proceeding in respect of which a notice has been given under section 6A.
-
-             (2)  To avoid doubt, each of the following is part of a **_civil proceeding_**:
-
-                     (a)  any proceeding on an ex parte application (including an application made before pleadings are filed in a court);
-
-                     (b)  the discovery, exchange, production, inspection or disclosure of intended evidence, documents and reports of persons intended to be called by a party to give evidence;
-
-                     (c)  an appeal proceeding;
-
-                     (d)  any interlocutory or other proceeding prescribed by regulations for the purposes of this paragraph.
-
 ### Division 4—Other interpretation provisions
 
 ##### <a id="16"></a>16  Disclosure of information in permitted circumstances
@@ -551,40 +393,6 @@ Note:          The Act only applies to a civil proceeding in r
                    A person discloses information **_in permitted circumstances_** if:
 
                      (a)  the person is the prosecutor in a federal criminal proceeding and the person discloses the information in the course of his or her duties in relation to the proceeding; or
-
-                    (aa)  the person:
-
-                              (i)  is a party to a civil proceeding; and
-
-                             (ii)  has been given a security clearance by the Department at the level considered appropriate by the Secretary;
-
-                            and discloses the information in the proceeding, or in a closed hearing in relation to the proceeding; or
-
-                    (ab)  the person:
-
-                              (i)  is a Minister; or
-
-                             (ii)  is in the employment of the Commonwealth or an authority of the Commonwealth; or
-
-                            (iii)  holds or performs any duties of any office or position under a law of the Commonwealth;
-
-                            and the person discloses the information in the course of his or her duties in relation to a civil proceeding; or
-
-                    (ac)  the person:
-
-                              (i)  is the legal representative of a party to a civil proceeding or, if section 38K applies, of the Attorney-General; and
-
-                             (ii)  has been given a security clearance by the Department at the level considered appropriate by the Secretary;
-
-                            and discloses the information in the course of his or her duties in relation to the proceeding; or
-
-                    (ad)  the person:
-
-                              (i)  is assisting a legal representative mentioned in paragraph (ac); and
-
-                             (ii)  has been given a security clearance by the Department at the level considered appropriate by the Secretary;
-
-                            and discloses the information in the course of his or her duties in relation to the proceeding; or
 
                      (b)  the person is a staff member within the meaning of the _Intelligence Services Act 2001_ and the person discloses the information in the course of his or her duties.
 
@@ -602,31 +410,11 @@ Note:          The Act only applies to a civil proceeding in r
 
 ##### <a id="19"></a>19  General powers of a court
 
-Power of a court in a federal criminal proceeding
-
              (1)  The power of a court to control the conduct of a federal criminal proceeding, in particular with respect to abuse of process, is not affected by this Act, except so far as this Act expressly or impliedly provides otherwise.
 
-Consideration of a matter in relation to closed hearings in a federal criminal proceeding not to prevent later stay order
+Consideration of a matter in relation to closed hearings not to prevent later stay order
 
              (2)  An order under section 31 does not prevent the court from later ordering that the federal criminal proceeding be stayed on a ground involving the same matter, including that an order made under section 31 would have a substantial adverse effect on a defendant’s right to receive a fair hearing.
-
-Power of a court in a civil proceeding
-
-             (3)  The power of a court to control the conduct of a civil proceeding, in particular with respect to abuse of process, is not affected by this Act, except so far as this Act expressly or impliedly provides otherwise.
-
-Consideration of a matter in relation to closed hearings in a civil proceeding not to prevent later stay order
-
-             (4)  An order under section 38L does not prevent the court from later ordering that the civil proceeding be stayed on a ground involving the same matter, including that an order made under section 38L would have a substantial adverse effect on the substantive hearing in the proceeding.
-
-Factors to be considered when deciding whether to order a stay of a civil proceeding
-
-             (5)  In deciding whether to order a stay of the civil proceeding, the court must consider:
-
-                     (a)  the extent of any financial loss that a party would suffer as a result of the proceeding being stayed; and
-
-                     (b)  whether a party has reasonable prospects of obtaining a remedy in the proceeding; and
-
-                     (c)  any other matter the court considers relevant.
 
 ##### <a id="20"></a>20  When an order of a court ceases to be subject to appeal
 
@@ -636,9 +424,9 @@ Factors to be considered when deciding whether to order a stay of a civil procee
 
                      (b)  if an appeal is made against the order—the appeal is finally determined or otherwise disposed of.
 
-## Part 3—Protection of information whose disclosure in federal criminal proceedings is likely to prejudice etc. national security
+## Part 3—Protection of information whose disclosure is likely to prejudice etc. national security
 
-### Division 1—Management of information in federal criminal proceedings
+### Division 1—Management of information
 
 ##### <a id="21"></a>21  Pre-trial conferences
 
@@ -650,13 +438,13 @@ Factors to be considered when deciding whether to order a stay of a civil procee
 
              (2)  The court must hold the conference as soon as possible after the application is made.
 
-##### <a id="22"></a>22  Arrangements for federal criminal proceedings about disclosures relating to or affecting national security
+##### <a id="22"></a>22  Arrangements about disclosures relating to or affecting national security
 
              (1)  At any time during a federal criminal proceeding, the prosecutor and the defendant may agree to an arrangement about any disclosure, in the proceeding, of information that relates to national security or any disclosure, of information in the proceeding, that may affect national security.
 
              (2)  The court may make such order (if any) as it considers appropriate to give effect to the arrangement.
 
-##### <a id="23"></a>23  Protection of certain information disclosed in a federal criminal proceeding
+##### <a id="23"></a>23  Protection of certain information disclosed in a proceeding
 
              (1)  The regulations may prescribe:
 
@@ -670,11 +458,11 @@ Factors to be considered when deciding whether to order a stay of a civil procee
 
 Note:          The court may also make orders under section 93.2 of the _Criminal Code_ and under other provisions of this Act in order to protect information from disclosure.
 
-### Division 2—Attorney-General’s certificates for protection of information in federal criminal proceedings
+### Division 2—Attorney-General’s certificates for protection of information
 
-#### Subdivision A—Notifying Attorney-General etc. of expected disclosure in federal criminal proceedings
+#### Subdivision A—Notifying Attorney-General etc. of expected disclosure
 
-##### <a id="24"></a>24  Prosecutor and defendant must notify expected disclosure in federal criminal proceedings of information relating to or affecting national security
+##### <a id="24"></a>24  Prosecutor and defendant must notify expected disclosure of information relating to or affecting national security
 
              (1)  If the prosecutor or defendant knows or believes that:
 
@@ -712,9 +500,9 @@ Adjournment to allow sufficient time for Attorney-General to act on the notice
 
              (4)  On receiving the advice, the court must order that the proceeding be adjourned until the Attorney-General gives a copy of a certificate to the court under subsection 26(4) or gives advice to the court under subsection 26(7) (which applies if a decision is made not to give a certificate).
 
-#### Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in federal criminal proceedings
+#### Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question
 
-##### <a id="25"></a>25  Preventing witnesses from disclosing information in federal criminal proceedings by not allowing them to answer questions
+##### <a id="25"></a>25  Preventing witnesses from disclosing information by not allowing them to answer questions
 
 Witness expected to disclose information in giving evidence
 
@@ -756,9 +544,9 @@ Court must adjourn proceeding
 
              (7)  If the court is advised under subsection (6), it must order that the proceeding be adjourned until the Attorney-General gives a copy of a certificate to the court under subsection 26(4) or gives advice to the court under subsection 26(7) (which applies if a decision is made not to give a certificate).
 
-#### Subdivision C—Attorney-General’s federal criminal proceedings certificates
+#### Subdivision C—Attorney-General’s certificates
 
-##### <a id="26"></a>26  Attorney-General’s criminal non-disclosure certificate
+##### <a id="26"></a>26  Attorney-General’s non-disclosure certificate
 
              (1)  This section applies if:
 
@@ -836,7 +624,7 @@ Definition of **potential discloser**
 
 and, if the defendant is a potential discloser under any of the above paragraphs, the defendant’s legal representative is also a **_potential discloser_**.
 
-##### <a id="27"></a>27  Consequences of Attorney-General giving criminal non-disclosure certificate
+##### <a id="27"></a>27  Consequences of Attorney-General giving non-disclosure certificate
 
 Consequences of certificate for pre-trial proceedings
 
@@ -860,7 +648,7 @@ Court hearing
 
              (5)  The closed hearing requirements apply to the hearing.
 
-##### <a id="28"></a>28  Attorney-General’s criminal witness exclusion certificate
+##### <a id="28"></a>28  Attorney-General’s witness exclusion certificate
 
              (1)  This section applies if:
 
@@ -904,9 +692,9 @@ Attorney-General may decide not to give a certificate
 
            (10)  If the Attorney-General decides not to do as mentioned in subsection (2), the Attorney-General must, in writing, advise the prosecutor or defendant, as the case requires, and the court of his or her decision.
 
-### Division 3—Closed hearings and non-disclosure or witness exclusion orders in federal criminal proceedings
+### Division 3—Closed hearings and non-disclosure or witness exclusion orders
 
-##### <a id="29"></a>29  Closed hearing requirements in federal criminal proceedings
+##### <a id="29"></a>29  Closed hearing requirements
 
              (1)  This section sets out the **_closed hearing requirements_** for a hearing under subsection 25(3), 27(3) or 28(5).
 
@@ -990,13 +778,13 @@ Court’s decision
 
              (2)  The court must grant the request.
 
-##### <a id="30"></a>30  Intervention by Attorney-General in federal criminal proceedings
+##### <a id="30"></a>30  Intervention by Attorney-General
 
              (1)  The Attorney-General may, on behalf of the Commonwealth, intervene in a hearing in a federal criminal proceeding in relation to which the closed hearing requirements apply.
 
              (2)  If the Attorney-General intervenes in the hearing, he or she is treated as if he or she is a party to the hearing.
 
-##### <a id="31"></a>31  Court orders in federal criminal proceedings
+##### <a id="31"></a>31  Court orders
 
 Non-disclosure certificate hearings
 
@@ -1142,7 +930,7 @@ the order does not have the effect that there are grounds for re-conducting any 
 
              (3)  The court must grant the adjournment.
 
-### Division 4—Appeals in federal criminal proceedings
+### Division 4—Appeals
 
 ##### <a id="36A"></a>36A  Appeal against court decision under section 29
 
@@ -1161,6 +949,595 @@ the order does not have the effect that there are grounds for re-conducting any 
              (1)  A statement recipient (within the meaning of section 32) may appeal against any decision of the court made under section 32.
 
              (2)  The court that has jurisdiction to hear and determine appeals from the judgment on the trial in the proceeding has jurisdiction to hear and determine any appeal under this section.
+
+## Part 4—Security clearances
+
+##### <a id="39"></a>39  Security clearance for defendant’s legal representative etc.
+
+             (1)  This section applies if, before or during a federal criminal proceeding, the Secretary of the Attorney-General’s Department gives written notice to any of the following persons:
+
+                     (a)  a legal representative of the defendant;
+
+                     (b)  a person assisting a legal representative of the defendant;
+
+that in the proceeding an issue is likely to arise relating to a disclosure, of information in the proceeding, that is likely to prejudice national security.
+
+Person may apply for security clearance
+
+             (2)  A person who receives a notice under subsection (1) may apply to the Secretary for a security clearance by the Department at the level considered appropriate by the Secretary in relation to the information.
+
+Note 1:       Security clearances are given in accordance with the Australian Government Protective Security Manual.
+
+Note 2:       If the person does not obtain the security clearance, anyone who discloses such information to the person will, except in limited circumstances, commit an offence under section 46.
+
+Adjournment to allow sufficient time for defendant’s legal representative to be given security clearance
+
+             (3)  The defendant may apply to the court for a deferral or adjournment of the proceeding until:
+
+                     (a)  the legal representative has been given a security clearance by the Department at the level considered appropriate by the Secretary in relation to the information; or
+
+                     (b)  if the legal representative is not given such a security clearance—another legal representative is given such a security clearance.
+
+             (4)  The court must defer or adjourn the proceeding accordingly.
+
+Prosecutor may advise the court that the defendant’s legal representative has not been given a security clearance etc.
+
+             (5)  If the defendant’s legal representative does not apply for the security clearance within 14 days after the day on which the notice is received, or within such further period as the Secretary allows:
+
+                     (a)  the prosecutor may advise the court of the fact; and
+
+                     (b)  the court may:
+
+                              (i)  advise the defendant of the consequences of engaging a legal representative who has not been given a security clearance by the Department at the level considered appropriate by the Secretary in relation to the information; and
+
+                             (ii)  recommend that the defendant engage a legal representative who has been given, or is prepared to apply for, such a security clearance.
+
+## Part 5—Offences
+
+##### <a id="40"></a>40  Offence to disclose information before Attorney-General gives non-disclosure certificate etc.
+
+Disclosure where notice given to Attorney-General under section 24
+
+             (1)  If:
+
+                     (a)  the prosecutor or defendant gives notice to the Attorney-General under subsection 24(1) about the disclosure of information in a federal criminal proceeding by the prosecutor or defendant or another person; and
+
+                     (b)  section 41 does not apply; and
+
+                     (c)  the following person:
+
+                              (i)  if the disclosure is by the prosecutor or defendant—the prosecutor or defendant, as the case may be; or
+
+                             (ii)  if the disclosure is by a person other than the prosecutor or defendant—the prosecutor or the defendant, as the case may be, or the other person;
+
+                            discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
+
+                     (d)  the disclosure does not take place in permitted circumstances; and
+
+                     (e)  the disclosure is likely to prejudice national security;
+
+the person who discloses the information commits an offence.
+
+                    Penalty:  Imprisonment for 2 years.
+
+Disclosure where notice given to Attorney-General under section 25
+
+             (2)  If:
+
+                     (a)  the prosecutor gives notice to the Attorney-General under subsection 25(6) that the prosecutor knows or believes that an answer by a witness in a hearing in relation to a federal criminal proceeding will disclose information; and
+
+                     (b)  section 41 does not apply; and
+
+                     (c)  the prosecutor or the witness discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the prosecutor or the witness a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
+
+                     (d)  the disclosure does not take place in permitted circumstances; and
+
+                     (e)  the disclosure is likely to prejudice national security;
+
+the prosecutor or the witness commits an offence.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="41"></a>41  Offence to disclose information before Attorney-General gives witness exclusion certificate etc.
+
+                   If:
+
+                     (a)  the prosecutor or defendant notifies the Attorney-General under section 24 that the prosecutor or defendant knows or believes that a person whom the prosecutor or defendant intends to call as a witness in a federal criminal proceeding will disclose information by his or her mere presence; and
+
+                     (b)  the prosecutor or the defendant calls the person as a witness in the federal criminal proceeding at any time before the Attorney-General gives the prosecutor or defendant a certificate under subsection 28(2) or advice under subsection 28(10) in relation to the calling of the witness; and
+
+                     (c)  the disclosure of the information by the mere presence of the person is likely to prejudice national security;
+
+the prosecutor or the defendant commits an offence.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="42"></a>42  Offence to contravene requirement to notify Attorney-General etc.
+
+                   A person commits an offence if:
+
+                     (a)  the person contravenes subsection 24(1), (2) or (3) or 25(2) or (6); and
+
+                     (b)  the disclosure of information mentioned in that subsection is likely to prejudice national security.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="43"></a>43  Offence to disclose information contrary to Attorney-General’s non-disclosure certificate
+
+                   A person commits an offence if:
+
+                     (a)  the person is given a certificate under subsection 26(2) or (3) in relation to the disclosure of information; and
+
+                     (b)  the person discloses the information in contravention of the certificate.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="44"></a>44  Offence to call witness contrary to Attorney-General’s witness exclusion certificate
+
+                   A person commits an offence if:
+
+                     (a)  the person is given a certificate under subsection 28(2) in relation to the calling of a witness; and
+
+                     (b)  the person calls the witness in contravention of the certificate.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="45"></a>45  Offence to contravene court order
+
+                   If:
+
+                     (a)  the court makes an order under this Act; and
+
+                     (b)  a person intentionally contravenes the order;
+
+the person commits an offence.
+
+                    Penalty:  Imprisonment for 2 years.
+
+##### <a id="46"></a>46  Offence to disclose information to certain persons without security clearance etc.
+
+                   A person commits an offence if:
+
+                     (a)  for the purposes of a federal criminal proceeding, the person discloses, other than in giving evidence in that proceeding or in permitted circumstances, information to:
+
+                              (i)  a legal representative of the defendant; or
+
+                             (ii)  a person assisting a legal representative of the defendant; and
+
+                     (b)  the disclosure is likely to prejudice national security; and
+
+                     (c)  none of the following subparagraphs apply:
+
+                              (i)  the Attorney-General’s Department has given the legal representative or person mentioned in subparagraph (a)(ii) a security clearance at the level considered appropriate by the Secretary in relation to the information;
+
+                             (ii)  the disclosure has been approved by the Secretary;
+
+                            (iii)  the disclosure takes place in compliance with conditions approved by the Secretary.
+
+                    Penalty:  Imprisonment for 2 years.
+
+## Part 6—Miscellaneous
+
+##### <a id="47"></a>47  Report to Parliament on certificates given by Attorney-General etc.
+
+                   As soon as practicable after 30 June in each year, the Attorney-General must cause to be laid before each House of the Parliament a report that:
+
+                     (a)  states the number of certificates given by the Attorney-General under sections 26 and 28 during the year; and
+
+                     (b)  identifies the criminal proceedings to which the certificates relate.
+
+##### <a id="48"></a>48  Rules of court
+
+                   The power to make rules of court extends to making rules, not inconsistent with this Act or the regulations, prescribing matters:
+
+                     (a)  required or permitted by this Act to be prescribed; or
+
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+##### <a id="49"></a>49  Regulations
+
+                   The Governor-General may make regulations prescribing matters:
+
+                     (a)  required or permitted by this Act to be prescribed; or
+
+                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+
+# Notes to the _National Security Information (Criminal Proceedings) Act 2004_
+
+### Note 1
+
+The _National Security Information (Criminal Proceedings) Act 2004_ as shown in this compilation comprises Act No. 150, 2004 amended as indicated in the Tables below.
+
+### Table of Acts
+
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="18%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
+and year 
+ </div>
+    </td>
+    <td>
+      <div>Date 
+of Assent 
+ </div>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>National Security Information (Criminal Proceedings) Act 2004</div>
+    </td>
+    <td>
+      <div>150, 2004</div>
+    </td>
+    <td>
+      <div>14 Dec 2004</div>
+    </td>
+    <td>
+      <div>Ss. 3–49: 11 Jan 2005 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Security Information (Criminal Proceedings) Amendment (Application) Act 2005</div>
+    </td>
+    <td>
+      <div>27, 2005</div>
+    </td>
+    <td>
+      <div>21 Mar 2005</div>
+    </td>
+    <td>
+      <div>21 Mar 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Security Information Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>89, 2005</div>
+    </td>
+    <td>
+      <div>6 July 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–28): \[ <i>see</i>Note 2]</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+## Table of Amendments
+
+<table>
+<colgroup>
+  <col width="32%">
+  <col width="68%">
+</colgroup>
+
+<thead>
+  <tr>
+    <td colspan="2">
+      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Provision affected</div>
+    </td>
+    <td>
+      <div>How affected</div>
+    </td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>rs. No. 27, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_National Security Information Legislation Amendment Act 2005 (No. 89, 2005)_
+
+The following amendments commence on 3 August 2005:
+
+## Schedule 1
+
+## 1  Title
+
+After “**federal criminal proceedings**”, insert “**and civil proceedings**”.
+
+## 2  Section 1
+
+Omit “_(Criminal Proceedings)_”, substitute “_(Criminal and Civil Proceedings)_”.
+
+## 3  Subsection 3(1)
+
+After “federal criminal proceedings”, insert “and civil proceedings”.
+
+## 4  Section 5
+
+Before “This”, insert “(1)”.
+
+## 5  At the end of section 5
+
+Add:
+
+             (2)  This Act does not make the Crown liable to be prosecuted for an offence.
+
+## 6  At the end of section 6
+
+Add:
+
+             (3)  A notice given under this section is not a legislative instrument.
+
+_Note:       The heading to section 6 is altered by adding at the end “to federal criminal proceedings”._
+
+## 7  After section 6
+
+Insert:
+
+##### <a id="6A"></a>6A  Application of Act to civil proceedings
+
+Application to civil proceedings—Attorney-General not a party to proceedings
+
+             (1)  If:
+
+                     (a)  the Attorney-General is not a party to a civil proceeding, whether begun before, on or after the day on which this section commences; and
+
+                     (b)  the Attorney-General gives notice in writing to the parties to the proceeding and the court that this Act applies to the proceeding;
+
+then, subject to subsection (5), this Act applies to the proceeding.
+
+Application to civil proceedings—Attorney-General a party to proceedings
+
+             (2)  If:
+
+                     (a)  the Attorney-General is, or becomes, a party to a civil proceeding, whether begun before, on or after the day on which this section commences; and
+
+                     (b)  the Minister appointed under subsection (3) or (4) gives notice in writing to the parties to the proceeding and the court that this Act applies to the proceeding;
+
+then:
+
+                     (c)  subject to subsection (5), this Act applies to the proceeding; and
+
+                     (d)  the Minister must perform the functions and exercise the powers, in relation to the proceeding, that are conferred on the Attorney-General under Divisions 2, 3 and 4 of Part 3A; and
+
+                     (e)  references in:
+
+                              (i)  Division 4 of Part 2; and
+
+                             (ii)  Divisions 2, 3 and 4 of Part 3A; and
+
+                            (iii)  Division 2 of Part 5;
+
+                            to the Attorney-General (other than references to the Attorney-General as a party to the proceeding) are to be read as references to the Minister.
+
+Attorney-General to appoint alternative Minister
+
+             (3)  The Attorney-General must, as soon as possible after the commencement of this section, appoint in writing another Minister for the purposes of the operation of subsection (2) in relation to all civil proceedings.
+
+             (4)  If the Minister appointed under subsection (3) is, or becomes, a party to a civil proceeding to which the Attorney-General also is or becomes a party, the Attorney-General must appoint a different Minister for the purposes of the operation of subsection (2) in relation to that civil proceeding.
+
+Application to civil proceedings—notice given after a proceeding has begun
+
+             (5)  If the Attorney-General or the Minister gives the notice after the proceeding has begun, this Act only applies to the parts of the proceeding that take place after the notice is given.
+
+Notice and appointment are not legislative instruments
+
+             (6)  A notice given under subsection (1) or (2) and an appointment made by the Attorney-General under subsection (3) or (4) are not legislative instruments for the purposes of the _Legislative Instruments Act 2003_.
+
+## 8  Section 7
+
+Insert:
+
+                    <a name="civil-proceing"></a>**_civil proceeding_** has the meaning given by section 15A.
+
+## 9  Section 7 (definition of _defendant_)
+
+After “**_defendant_**”, insert “, in relation to a federal criminal proceeding,”.
+
+## 10  Section 7 (definition of _disclose_)
+
+After “criminal proceeding”, insert “or a civil proceeding”.
+
+_Note:       The heading to section 15 is altered by adding at the end “in relation to a federal criminal proceeding”._
+
+## 11  After Division 3 of Part 2
+
+Insert:
+
+### Division 3A—Civil proceeding definition
+
+##### <a id="15A"></a>15A  Meaning of _civil proceeding_
+
+             (1)  In this Act, **_civil proceeding_** means any proceeding in a court of the Commonwealth, a State or Territory, other than a criminal proceeding.
+
+Note:          The Act only applies to a civil proceeding in respect of which a notice has been given under section 6A.
+
+             (2)  To avoid doubt, each of the following is part of a **_civil proceeding_**:
+
+                     (a)  any proceeding on an ex parte application (including an application made before pleadings are filed in a court);
+
+                     (b)  the discovery, exchange, production, inspection or disclosure of intended evidence, documents and reports of persons intended to be called by a party to give evidence;
+
+                     (c)  an appeal proceeding;
+
+                     (d)  any interlocutory or other proceeding prescribed by regulations for the purposes of this paragraph.
+
+## 12  After paragraph 16(a)
+
+Insert:
+
+                    (aa)  the person:
+
+                              (i)  is a party to a civil proceeding; and
+
+                             (ii)  has been given a security clearance by the Department at the level considered appropriate by the Secretary;
+
+                            and discloses the information in the proceeding, or in a closed hearing in relation to the proceeding; or
+
+                    (ab)  the person:
+
+                              (i)  is a Minister; or
+
+                             (ii)  is in the employment of the Commonwealth or an authority of the Commonwealth; or
+
+                            (iii)  holds or performs any duties of any office or position under a law of the Commonwealth;
+
+                            and the person discloses the information in the course of his or her duties in relation to a civil proceeding; or
+
+                    (ac)  the person:
+
+                              (i)  is the legal representative of a party to a civil proceeding or, if section 38K applies, of the Attorney-General; and
+
+                             (ii)  has been given a security clearance by the Department at the level considered appropriate by the Secretary;
+
+                            and discloses the information in the course of his or her duties in relation to the proceeding; or
+
+                    (ad)  the person:
+
+                              (i)  is assisting a legal representative mentioned in paragraph (ac); and
+
+                             (ii)  has been given a security clearance by the Department at the level considered appropriate by the Secretary;
+
+                            and discloses the information in the course of his or her duties in relation to the proceeding; or
+
+## 13  At the end of section 19
+
+Add:
+
+Power of a court in a civil proceeding
+
+             (3)  The power of a court to control the conduct of a civil proceeding, in particular with respect to abuse of process, is not affected by this Act, except so far as this Act expressly or impliedly provides otherwise.
+
+Consideration of a matter in relation to closed hearings in a civil proceeding not to prevent later stay order
+
+             (4)  An order under section 38L does not prevent the court from later ordering that the civil proceeding be stayed on a ground involving the same matter, including that an order made under section 38L would have a substantial adverse effect on the substantive hearing in the proceeding.
+
+Factors to be considered when deciding whether to order a stay of a civil proceeding
+
+             (5)  In deciding whether to order a stay of the civil proceeding, the court must consider:
+
+                     (a)  the extent of any financial loss that a party would suffer as a result of the proceeding being stayed; and
+
+                     (b)  whether a party has reasonable prospects of obtaining a remedy in the proceeding; and
+
+                     (c)  any other matter the court considers relevant.
+
+_Note 1:    The following heading to subsection 19(1) is inserted “Power of a court in a federal criminal proceeding”._
+
+_Note 2:    The heading to subsection 19(2) is altered by inserting “in a federal criminal proceeding” after “closed hearings”._
+
+## 14  Part 3 (heading)
+
+Repeal the heading, substitute:
+
+## Part 3—Protection of information whose disclosure in federal criminal proceedings is likely to prejudice etc. national security
+
+## 15  Division 1 of Part 3 (heading)
+
+Repeal the heading, substitute:
+
+### Division 1—Management of information in federal criminal proceedings
+
+_Note 1:    The heading to section 22 is altered by inserting “for federal criminal proceedings” after “Arrangements”._
+
+_Note 2:    The heading to section 23 is altered by inserting “federal criminal” after “disclosed in a”._
+
+## 16  Division 2 of Part 3 (heading)
+
+Repeal the heading, substitute:
+
+### Division 2—Attorney-General’s certificates for protection of information in federal criminal proceedings
+
+## 17  Subdivision A of Division 2 of Part 3 (heading)
+
+Repeal the heading, substitute:
+
+#### Subdivision A—Notifying Attorney-General etc. of expected disclosure in federal criminal proceedings
+
+_Note:       The heading to section 24 is altered by inserting “in federal criminal proceedings” after “disclosure”._
+
+## 18  Subdivision B of Division 2 of Part 3 (heading)
+
+Repeal the heading, substitute:
+
+#### Subdivision B—Notifying Attorney-General etc. where disclosure expected by witness answering question in federal criminal proceedings
+
+_Note:       The heading to section 25 is altered by inserting “in federal criminal proceedings” after “information”._
+
+## 19  Subdivision C of Division 2 of Part 3 (heading)
+
+Repeal the heading, substitute:
+
+#### Subdivision C—Attorney-General’s federal criminal proceedings certificates
+
+_Note 1:    The heading to section 26 is altered by inserting “criminal” after “Attorney-General’s”._
+
+_Note 2:    The heading to section 27 is altered by inserting “criminal” after “giving”._
+
+_Note 3:    The heading to section 28 is altered by inserting “criminal” after “Attorney-General’s”._
+
+## 20  Division 3 of Part 3 (heading)
+
+Repeal the heading, substitute:
+
+### Division 3—Closed hearings and non-disclosure or witness exclusion orders in federal criminal proceedings
+
+_Note 1:    The heading to section 29 is altered by adding at the end “in federal criminal proceedings”._
+
+_Note 2:    The headings to sections 30 and 31 are altered by adding at the end “in federal criminal proceedings”._
+
+## 21  Division 4 of Part 3 (heading)
+
+Repeal the heading, substitute:
+
+### Division 4—Appeals in federal criminal proceedings
+
+## 22  After Part 3
+
+Insert:
 
 ## Part 3A—Protection of information whose disclosure in civil proceedings is likely to prejudice etc. national security
 
@@ -1766,49 +2143,15 @@ Court’s decision
 
              (2)  The court that has jurisdiction to hear and determine appeals from the judgment in the proceeding has jurisdiction to hear and determine any appeal under this section.
 
-## Part 4—Security clearances
+## 23  Before section 39
+
+Insert:
 
 ### Division 1—Security clearances required in federal criminal proceedings
 
-##### <a id="39"></a>39  Security clearance for defendant’s legal representative etc.
+## 24  At the end of Part 4
 
-             (1)  This section applies if, before or during a federal criminal proceeding, the Secretary of the Attorney-General’s Department gives written notice to any of the following persons:
-
-                     (a)  a legal representative of the defendant;
-
-                     (b)  a person assisting a legal representative of the defendant;
-
-that in the proceeding an issue is likely to arise relating to a disclosure, of information in the proceeding, that is likely to prejudice national security.
-
-Person may apply for security clearance
-
-             (2)  A person who receives a notice under subsection (1) may apply to the Secretary for a security clearance by the Department at the level considered appropriate by the Secretary in relation to the information.
-
-Note 1:       Security clearances are given in accordance with the Australian Government Protective Security Manual.
-
-Note 2:       If the person does not obtain the security clearance, anyone who discloses such information to the person will, except in limited circumstances, commit an offence under section 46.
-
-Adjournment to allow sufficient time for defendant’s legal representative to be given security clearance
-
-             (3)  The defendant may apply to the court for a deferral or adjournment of the proceeding until:
-
-                     (a)  the legal representative has been given a security clearance by the Department at the level considered appropriate by the Secretary in relation to the information; or
-
-                     (b)  if the legal representative is not given such a security clearance—another legal representative is given such a security clearance.
-
-             (4)  The court must defer or adjourn the proceeding accordingly.
-
-Prosecutor may advise the court that the defendant’s legal representative has not been given a security clearance etc.
-
-             (5)  If the defendant’s legal representative does not apply for the security clearance within 14 days after the day on which the notice is received, or within such further period as the Secretary allows:
-
-                     (a)  the prosecutor may advise the court of the fact; and
-
-                     (b)  the court may:
-
-                              (i)  advise the defendant of the consequences of engaging a legal representative who has not been given a security clearance by the Department at the level considered appropriate by the Secretary in relation to the information; and
-
-                             (ii)  recommend that the defendant engage a legal representative who has been given, or is prepared to apply for, such a security clearance.
+Add:
 
 ### Division 2—Security clearances required in civil proceedings
 
@@ -1882,131 +2225,31 @@ Notice given by Secretary not a legislative instrument
 
              (7)  A notice given under subsection (1) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
 
-## Part 5—Offences
+## 25  Before section 40
+
+Insert:
 
 ### Division 1—Offences relating to federal criminal proceedings
 
-##### <a id="40"></a>40  Offence to disclose information before Attorney-General gives criminal non-disclosure certificate etc. under section 26
+_Note 1:    The heading to section 40 is altered by omitting “non-disclosure certificate etc.” and substituting “criminal non-disclosure certificate etc. under section 26”._
 
-Disclosure where notice given to Attorney-General under section 24
+_Note 2:    The heading to section 41 is altered by omitting “witness exclusion certificate etc.” and substituting “criminal witness exclusion certificate etc. under section 28”._
 
-             (1)  If:
+_Note 3:    The heading to section 42 is altered by adding at the end “under sections 24 and 25”._
 
-                     (a)  the prosecutor or defendant gives notice to the Attorney-General under subsection 24(1) about the disclosure of information in a federal criminal proceeding by the prosecutor or defendant or another person; and
+_Note 4:    The heading to section 43 is altered by omitting “non-disclosure certificate” and substituting “criminal non-disclosure certificate given under section 26”._
 
-                     (b)  section 41 does not apply; and
+_Note 5:    The heading to section 44 is altered by omitting “witness exclusion certificate” and substituting “criminal witness exclusion certificate given under section 28”._
 
-                     (c)  the following person:
+## 26  Paragraph 45(a)
 
-                              (i)  if the disclosure is by the prosecutor or defendant—the prosecutor or defendant, as the case may be; or
+After “this Act”, insert “in relation to a federal criminal proceeding”.
 
-                             (ii)  if the disclosure is by a person other than the prosecutor or defendant—the prosecutor or the defendant, as the case may be, or the other person;
+_Note:       The heading to section 46 is altered by inserting “in federal criminal proceedings” after “disclose information”._
 
-                            discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the person a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
+## 27  At the end of Part 5
 
-                     (d)  the disclosure does not take place in permitted circumstances; and
-
-                     (e)  the disclosure is likely to prejudice national security;
-
-the person who discloses the information commits an offence.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Disclosure where notice given to Attorney-General under section 25
-
-             (2)  If:
-
-                     (a)  the prosecutor gives notice to the Attorney-General under subsection 25(6) that the prosecutor knows or believes that an answer by a witness in a hearing in relation to a federal criminal proceeding will disclose information; and
-
-                     (b)  section 41 does not apply; and
-
-                     (c)  the prosecutor or the witness discloses the information (whether in the proceeding or otherwise) at any time before the Attorney-General gives the prosecutor or the witness a certificate under subsection 26(2) or (3) or advice under subsection 26(7) in relation to the disclosure of the information; and
-
-                     (d)  the disclosure does not take place in permitted circumstances; and
-
-                     (e)  the disclosure is likely to prejudice national security;
-
-the prosecutor or the witness commits an offence.
-
-                    Penalty:  Imprisonment for 2 years.
-
-##### <a id="41"></a>41  Offence to disclose information before Attorney-General gives criminal witness exclusion certificate etc. under section 28
-
-                   If:
-
-                     (a)  the prosecutor or defendant notifies the Attorney-General under section 24 that the prosecutor or defendant knows or believes that a person whom the prosecutor or defendant intends to call as a witness in a federal criminal proceeding will disclose information by his or her mere presence; and
-
-                     (b)  the prosecutor or the defendant calls the person as a witness in the federal criminal proceeding at any time before the Attorney-General gives the prosecutor or defendant a certificate under subsection 28(2) or advice under subsection 28(10) in relation to the calling of the witness; and
-
-                     (c)  the disclosure of the information by the mere presence of the person is likely to prejudice national security;
-
-the prosecutor or the defendant commits an offence.
-
-                    Penalty:  Imprisonment for 2 years.
-
-##### <a id="42"></a>42  Offence to contravene requirement to notify Attorney-General etc. under sections 24 and 25
-
-                   A person commits an offence if:
-
-                     (a)  the person contravenes subsection 24(1), (2) or (3) or 25(2) or (6); and
-
-                     (b)  the disclosure of information mentioned in that subsection is likely to prejudice national security.
-
-                    Penalty:  Imprisonment for 2 years.
-
-##### <a id="43"></a>43  Offence to disclose information contrary to Attorney-General’s criminal non-disclosure certificate given under section 26
-
-                   A person commits an offence if:
-
-                     (a)  the person is given a certificate under subsection 26(2) or (3) in relation to the disclosure of information; and
-
-                     (b)  the person discloses the information in contravention of the certificate.
-
-                    Penalty:  Imprisonment for 2 years.
-
-##### <a id="44"></a>44  Offence to call witness contrary to Attorney-General’s criminal witness exclusion certificate given under section 28
-
-                   A person commits an offence if:
-
-                     (a)  the person is given a certificate under subsection 28(2) in relation to the calling of a witness; and
-
-                     (b)  the person calls the witness in contravention of the certificate.
-
-                    Penalty:  Imprisonment for 2 years.
-
-##### <a id="45"></a>45  Offence to contravene court order
-
-                   If:
-
-                     (a)  the court makes an order under this Act in relation to a federal criminal proceeding; and
-
-                     (b)  a person intentionally contravenes the order;
-
-the person commits an offence.
-
-                    Penalty:  Imprisonment for 2 years.
-
-##### <a id="46"></a>46  Offence to disclose information in federal criminal proceedings to certain persons without security clearance etc.
-
-                   A person commits an offence if:
-
-                     (a)  for the purposes of a federal criminal proceeding, the person discloses, other than in giving evidence in that proceeding or in permitted circumstances, information to:
-
-                              (i)  a legal representative of the defendant; or
-
-                             (ii)  a person assisting a legal representative of the defendant; and
-
-                     (b)  the disclosure is likely to prejudice national security; and
-
-                     (c)  none of the following subparagraphs apply:
-
-                              (i)  the Attorney-General’s Department has given the legal representative or person mentioned in subparagraph (a)(ii) a security clearance at the level considered appropriate by the Secretary in relation to the information;
-
-                             (ii)  the disclosure has been approved by the Secretary;
-
-                            (iii)  the disclosure takes place in compliance with conditions approved by the Secretary.
-
-                    Penalty:  Imprisonment for 2 years.
+Add:
 
 ### Division 2—Offences relating to civil proceedings
 
@@ -2134,7 +2377,9 @@ the person commits an offence.
 
                     Penalty:  Imprisonment for 2 years.
 
-## Part 6—Miscellaneous
+## 28  Section 47
+
+Repeal the section, substitute:
 
 ##### <a id="47"></a>47  Report to Parliament on certificates given by Attorney-General etc.
 
@@ -2148,825 +2393,7 @@ the person commits an offence.
 
                      (b)  identifies the criminal proceedings and civil proceedings to which the certificates relate.
 
-##### <a id="48"></a>48  Rules of court
-
-                   The power to make rules of court extends to making rules, not inconsistent with this Act or the regulations, prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-##### <a id="49"></a>49  Regulations
-
-                   The Governor-General may make regulations prescribing matters:
-
-                     (a)  required or permitted by this Act to be prescribed; or
-
-                     (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-
-# Notes to the _National Security Information (Criminal and Civil Proceedings) Act 2004_
-
-### Note 1
-
-The _National Security Information (Criminal and Civil Proceedings) Act 2004_ as shown in this compilation comprises Act No. 150, 2004 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year 
- </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
- </div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>National Security Information (Criminal Proceedings) Act 2004</div>
-    </td>
-    <td>
-      <div>150, 2004</div>
-    </td>
-    <td>
-      <div>14 Dec 2004</div>
-    </td>
-    <td>
-      <div>Ss. 3–49: 11 Jan 2005 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>National Security Information (Criminal Proceedings) Amendment (Application) Act 2005</div>
-    </td>
-    <td>
-      <div>27, 2005</div>
-    </td>
-    <td>
-      <div>21 Mar 2005</div>
-    </td>
-    <td>
-      <div>21 Mar 2005</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>National Security Information Legislation Amendment Act 2005</div>
-    </td>
-    <td>
-      <div>89, 2005</div>
-    </td>
-    <td>
-      <div>6 July 2005</div>
-    </td>
-    <td>
-      <div>Schedule 1: 3 Aug 2005 
-Remainder: Royal Assent 
-</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>Title</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 1</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 6</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6</div>
-    </td>
-    <td>
-      <div>rs. No. 27, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 6A</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 7</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 15</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3A</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 3A of Part 2</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 15A</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 4</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 16</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Subhead to s. 19(1)</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Subhead to s. 19(2)</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 19</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Part 3</div>
-    </td>
-    <td>
-      <div>rs. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 1 of Part 3.</div>
-    </td>
-    <td>
-      <div>rs. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 22</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 23</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 2 of Part 3.</div>
-    </td>
-    <td>
-      <div>rs. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision A</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Subdiv. A of 
-Div. 2 of Part 3 
-</div>
-    </td>
-    <td>
-      <div>rs. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 24</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision B</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Subdiv. B of 
-Div. 2 of Part 3 
-</div>
-    </td>
-    <td>
-      <div>rs. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 25</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision C</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Subdiv. C of 
-Div. 2 of Part 3 
-</div>
-    </td>
-    <td>
-      <div>rs. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 26</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 27</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 28</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 3 of Part 3.</div>
-    </td>
-    <td>
-      <div>rs. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 29</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 30</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 31</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 4</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 4 of Part 3.</div>
-    </td>
-    <td>
-      <div>rs. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 3A</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Part 3A</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 38A–38C</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision A</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 38D</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision B</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 38E</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Subdivision C</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 38F–38H</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 3</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 38I–38P</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 4</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 38Q–38S</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 4</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 1 of Part 4.</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 2 of Part 4</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 39A</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 5</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to Div. 1 of Part 5.</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 40</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 41</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 42</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 43</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 44</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 45</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Heading to s. 46</div>
-    </td>
-    <td>
-      <div>am. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Division 2</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Div. 2 of Part 5</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 46A–46G</div>
-    </td>
-    <td>
-      <div>ad. No. 89, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 6</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 47</div>
-    </td>
-    <td>
-      <div>rs. No. 89, 2005</div>
-    </td>
-  </tr>
-</tbody></table>
+As at 14 July 2005 the amendments are not incorporated in this compilation.
 
 
  
