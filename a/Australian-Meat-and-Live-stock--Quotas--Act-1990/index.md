@@ -1,365 +1,104 @@
-# ![](http://www.comlaw.gov.au/Details/C2004C02180/Html/AusMeatLSQuota90_image001.gif)
+**<b>
 
-# Australian Meat and Live-stock (Quotas) Act 1990 
+### <center><name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - Updated as at 18 July 1995 (#DATE 18:07:1995) </name></center>
+</b>** *1* The Australian Meat and Live-stock (Quotas) Act 1990as shown in this reprint comprises Act No. 117, 1990 amended as indicated in the Tables below.<lf>                                 Table of Acts<lf>     Act             Date           Date of                   Application<lf>     Number and      of assent      commencement              saving or<lf>     year                                                     transitional<lf>                                                              provisions<lf>     Australian Meat and Live-stock (Quotas) Act 1990<lf>     117, 1990       28 Dec 1990    28 Dec 1990 (a)<lf>     Australian Meat and Live-stock (Quotas) Amendment Act 1993<lf>     75, 1993        25 Nov 1993    25 Nov 1993               -<lf>     Australian Meat and Live-stock (Quotas) Amendment Act 1995<lf>     68, 1995        30 June 1995   1 July 1995               S. 13<lf> (a) Section 9 of the Australian Meat and Live-stock (Quotas) Act 1990 provides as follows:<lf>   "9\. This Act, unless sooner repealed, shall cease to be in force at the end of 30 June 1998."<lf>                             Table of Amendments<lf>     ad=added or inserted am=amended rep=repealed rs=repealed and substituted<lf>     Provision affected   How affected<lf>     Ss. 3-6              am. No. 68, 1995<lf>     S. 6A                ad. No. 68, 1995<lf>     Heading to s. 7      am. No. 68, 1995<lf>     S. 7                 am. No. 68, 1995<lf>     S. 8                 rs. No. 68, 1995<lf>     S. 8A                ad. No. 68, 1995<lf>     S. 9                 am. No. 75, 1993; No. 68, 1995<lf> #ADD 2:7:1995 </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf>
+**<b>
 
-**Act No. 117 of 1990 as amended**
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - TABLE OF PROVISIONS </name>
+</b>** 
 
-Consolidated as in force on 23 February 1999
+## TABLE
+<tables> <tt>                          TABLE OF PROVISIONS<lf> Section<lf>     1\. Short title<lf>     2\. Commencement<lf>     3\. Definitions<lf>     4\. Object of this Act<lf>     5\. Limitation on exports<lf>     6\. Quotas<lf>    6A. AMLC to comply with policy developed by Meat Industry Council<lf>     7\. AMLC not obliged to grant quota<lf>     8\. Act to have effect subject to Subdivision C of Division 2 of<lf>        Part 3 of the Meat and Live-stock Industry Act 1995<lf>    8A. Delegation<lf>     9\. Sunset clause<lf> </lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></lf></tt></tables>
+**<b>
 
-(includes amendments up to Act No. 207 of 1997)
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - LONG TITLE </name>
+</b>** 
 
-Prepared by the Office of Legislative Drafting,
- Attorney-General’s Department, Canberra
+## SECT
+<sect> An Act relating to the establishment of systems of quotas to protect the<lf>            orderly export of Australian meat and live-stock<lf> </lf></lf></sect>
+**<b>
 
- 
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 1 Short title </name>
+</b>** 
 
-# Contents
+## SECT
+<sect>   1\. This Act may be cited as the Australian Meat and Live-stock (Quotas) Act 1990.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
-1             Short title [_see_ Note1]                                                                         
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 2 Commencement </name>
+</b>** 
 
-2             Commencement [_see_ Note1]                                                               
+## SECT
+<sect>   2\. This Act commences on the day on which it receives the Royal Assent.*1* SEE NOTES TO FIRST ARTICLE OF THIS CHAPTER . </sect>
+**<b>
 
-3             Definitions                                                                                           
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 3 Definitions </name>
+</b>** 
 
-4             Object of this Act                                                                                
+## SECT
+<sect>   3\. (1) In this Act, unless the contrary intention appears:<lf>   "class" has a meaning affected by subsection (3);<lf>   "country" includes a part of a country;<lf>   "export" means export from Australia;<lf>   "goods" means meat or live-stock, as the case requires;<lf>   "quota" means a quota referred to in section 6;<lf>   "restriction" includes an economic disincentive, such as a tariff. 
 
-5             Limitation on exports                                                                          
+<lf>   (2) Unless the contrary intention appears, expressions used in this Act have the same meanings as in Part 3 of the Meat and Live-stock Industry Act 1995\. <p><lf>   (3) For the purposes of this Act, the factors by reference to which a class of goods may be determined include, but are not limited to, the following:<lf>   (a) the quality, standard or grade of goods;<lf>   (b) the period during which the goods are to be exported;<lf>   (c) the way in which a restriction on export is to apply to goods (for example, the rate of tariff or other similar charge that is to apply to goods). </lf></lf></lf></lf></p></lf>
+</lf></lf></lf></lf></lf></lf></sect>
+**<b>
 
-6             Quotas                                                                                                 
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 4 Object of this Act </name>
+</b>** 
 
-7             Secretary not obliged to grant quota                                                    
+## SECT
+<sect>   4\. The object of this Act is to enable AMLC to establish systems of quotas to protect the orderly export of goods:<lf>   (a) where restrictions on exports of meat or particular classes of meat to particular countries are imposed, or in the opinion of AMLC will be imposed, either by Australia or the countries concerned; or<lf>   (b) where, in relation to live sheep and lambs, AMLC otherwise considers it in the best interests of the industry to do so. </lf></lf></sect>
+**<b>
 
-8             Act to have effect subject to Division 3 of Part 2 of the _Australian Meat and Live-stock Industry Act 1997_            
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 5 Limitation on exports </name>
+</b>** 
 
-8A          Delegation                                                                                            
+## SECT
+<sect>   5\. (1) AMLC may, by notices in writing given to licensees, impose a limitation on the total quantity of goods, or a specified class of goods, that may be exported to a specified country. 
 
-9             Regulations                                                                                          
+<lf>   (2) A licensee who has been given a notice under subsection (1) must not export goods, or goods of the class specified in the notice, as the case may be, to the country referred to in the notice, except in accordance with a quota held by the licensee. </lf>
+</sect>
+**<b>
 
-#  
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 6 Quotas </name>
+</b>** 
 
-## An Act relating to the establishment of systems of quotas to protect the orderly export of Australian meat and live-stock
+## SECT
+<sect>   6\. (1) Where a limitation has been, or is to be, imposed under section 5 in relation to particular exports, AMLC may grant:<lf>   (a) a single quota authorising the holder to make all those exports; or<lf>   (b) 2 or more quotas authorising each of the holders to make a specified proportion of those exports. 
 
-**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+<lf>   (2) AMLC may grant a quota:<lf>   (a) by allocation free of charge; or<lf>   (b) by auction, sale by tender or private sale. <p><lf>   (3) A quota has effect for the period, not exceeding 2 years, specified in the quota document, but this subsection does not prevent the grant of other quotas. <p><lf>   (4) A quota is subject to the conditions, if any, specified in the quota document. </lf></p></lf></p></lf></lf></lf>
+</lf></lf></sect>
+**<b>
 
-## <span style="font-size:11.0pt;display:none">Do not delete</span> : <span class="CharPartText">Part placeholder</span>
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 6A AMLC to comply with policy developed by Meat Industry Council </name>
+</b>** 
 
-**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+## SECT
+<sect>   6A. In the performance of its functions and the exercise of its powers under this Act, AMLC must comply with any policies formulated by the Meat Industry Council. </sect>
+**<b>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 7 AMLC not obliged to grant quota </name>
+</b>** 
 
-                   This Act may be cited as the _Australian Meat and Live-stock (Quotas) Act 1990_.
+## SECT
+<sect>   7\. AMLC is not obliged:<lf>   (a) to sell or allocate a quota of a particular amount or kind; or<lf>   (b) to sell or allocate a quota to a particular person;<lf> if AMLC is satisfied that it is not in the best interests of the industry to do so. </lf></lf></lf></sect>
+**<b>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 8 Act to have effect subject to Subdivision C of Division 2 of Part 3 of the Meat and Live-stock Industry Act 1995 </name>
+</b>** 
 
-                   This Act commences on the day on which it receives the Royal Assent.
+## SECT
+<sect>   8\. This Act has effect subject to Subdivision C of Division 2 of Part 3 of the Meat and Live-stock Industry Act 1995\. </sect>
+**<b>
 
-##### <a id="3"></a>3  Definitions
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 8A Delegation </name>
+</b>** 
 
-             (1)  In this Act, unless the contrary intention appears:
+## SECT
+<sect>   8A. AMLC may, by writing under its common seal, delegate all or any of its powers under this Act to a member.<lf> Note: See sections 34AA, 34AB and 34A of the Acts Interpretation Act 1901 on delegation. </lf></sect>
+**<b>
 
-                    <a name="class"></a>**_class_** has a meaning affected by subsection (3).
+### <name>AUSTRALIAN MEAT AND LIVE-STOCK (QUOTAS) ACT 1990 - SECT 9 Sunset clause </name>
+</b>** 
 
-                    <a name="countri"></a>**_country_** includes a part of a country.
-
-                    <a name="export"></a>**_export_** means export from Australia.
-
-                    <a name="good"></a>**_goods_** means meat or live-stock, as the case requires.
-
-                    <a name="quota"></a>**_quota_** means a quota referred to in section 6.
-
-                    <a name="restrict"></a>**_restriction_** includes an economic disincentive, such as a tariff.
-
-             (2)  Unless the contrary intention appears, expressions used in this Act have the same meanings as in Part 2 of the _Australian Meat and Live-stock Industry Act 1997_.
-
-             (3)  For the purposes of this Act, the factors by reference to which a class of goods may be determined include, but are not limited to, the following:
-
-                     (a)  the quality, standard or grade of goods;
-
-                     (b)  the period during which the goods are to be exported;
-
-                     (c)  the way in which a restriction on export is to apply to goods (for example, the rate of tariff or other similar charge that is to apply to goods).
-
-##### <a id="4"></a>4  Object of this Act
-
-                   The object of this Act is to enable the Secretary to establish systems of quotas to protect the orderly export of goods:
-
-                     (a)  where restrictions on exports of meat or particular classes of meat to particular countries are imposed, or in the opinion of the Secretary will be imposed, either by Australia or the countries concerned; or
-
-                     (b)  where, in relation to live sheep and lambs, the Secretary otherwise considers it in the best interests of the industry to do so.
-
-##### <a id="5"></a>5  Limitation on exports
-
-             (1)  The Secretary may, by notices in writing given to licensees, impose a limitation on the total quantity of goods, or a specified class of goods, that may be exported to a specified country.
-
-             (2)  A licensee who has been given a notice under subsection (1) must not export goods, or goods of the class specified in the notice, as the case may be, to the country referred to in the notice, except in accordance with a quota held by the licensee.
-
-##### <a id="6"></a>6  Quotas
-
-             (1)  Where a limitation has been, or is to be, imposed under section 5 in relation to particular exports, the Secretary may grant:
-
-                     (a)  a single quota authorising the holder to make all those exports; or
-
-                     (b)  2 or more quotas authorising each of the holders to make a specified proportion of those exports.
-
-<a id="             (2)  The Secretary may grant a quota:"></a>             (2)  The Secretary may grant a quota:
-
-<a id="                     (a)  by allocating it to a licensee on application by the licensee and on payment of the prescribed fee; or"></a>                     (a)  by allocating it to a licensee on application by the licensee and on payment of the prescribed fee; or
-
-<a id="                     (b)  by selling it to a licensee by auction, sale by tender or private sale."></a>                     (b)  by selling it to a licensee by auction, sale by tender or private sale.
-
-             (3)  A quota has effect for the period, not exceeding 2 years, specified in the quota document, but this subsection does not prevent the grant of other quotas.
-
-             (4)  A quota is subject to the conditions, if any, specified in the quota document.
-
-##### <a id="7"></a>7  Secretary not obliged to grant quota
-
-                   The Secretary is not obliged:
-
-                     (a)  to sell or allocate a quota of a particular amount or kind; or
-
-                     (b)  to sell or allocate a quota to a particular person;
-
-if the Secretary is satisfied that it is not in the best interests of the industry to do so.
-
-##### <a id="8  Act to have effect subject to Division 3 of Part 2 of the Australian Meat and Live-stock Industry Act 1997"></a>8  Act to have effect subject to Division 3 of Part 2 of the Australian Meat and Live-stock Industry Act 1997
-
-                   This Act has effect subject to Division 3 of Part 2 of the _Australian Meat and Live-stock Industry Act 1997_.
-
-##### <a id="8A"></a>8A  Delegation
-
-                   The Secretary may, in writing, delegate all or any of the Secretary’s powers under this Act to an officer, within the meaning of the _Public Service Act 1922_, or to an APS employee, within the meaning of the _Public Service Act 1997_, who is employed in the Department.
-
-##### <a id="9"></a>9  Regulations
-
-                   The Governor-General may make regulations prescribing all matters:
-
-                     (a)  that are required or permitted by this Act to be prescribed; or
-
-                     (b)  that are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
- 
-
-# NOTE
-
-1\.   The _Australian Meat and Live-stock (Quotas) Act 1990_ as shown in this reprint comprises Act No. 117, 1990 amended as indicated in the Tables below.
-
-### Table of Acts
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
-and year</div>
-    </td>
-    <td>
-      <div>Date 
-of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Australian Meat and Live-stock (Quotas) Act 1990</div>
-  </td>
-  <td>
-    <div>117, 1990</div>
-  </td>
-  <td>
-    <div>28 Dec 1990</div>
-  </td>
-  <td>
-    <div>28 Dec 1990 <i>(a)</i></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Meat and Live-stock (Quotas) Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>75, 1993</div>
-  </td>
-  <td>
-    <div>25 Nov 1993</div>
-  </td>
-  <td>
-    <div>25 Nov 1993</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Meat and Livestock (Quotas) Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>68, 1995</div>
-  </td>
-  <td>
-    <div>30 June 1995</div>
-  </td>
-  <td>
-    <div>1 July 1995</div>
-  </td>
-  <td>
-    <div>S. 13</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997</div>
-  </td>
-  <td>
-    <div>207, 1997</div>
-  </td>
-  <td>
-    <div>17 Dec 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 11): Royal Assent Schedule 1 (items 1-10): 1 July 1998 ( <i>see (a)</i>and <i>Gazette</i>1998, No. GN 22)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
-
- 
-
-_(a)_ The _Australian Meat and Live-stock (Quotas) Act 1990_ was amended by Schedule 1 only of the _Australian Meat and Live-stock Industry (Repeals and Consequential Provisions) Act 1997_, subsections 2(2) and 2(3) of which provide as follows:
-
-                 “(2)   Item 11 of Schedule 1, item 20 of Schedule 2, Part 1 of Schedule 5, Divisions 1, 4 and 8 of Part 4 of Schedule 5 and Part 6 of Schedule 5 commence on the day on which this Act receives the Royal Assent.
-
-                 “(3)   Subject to subsection (5), Schedule 1 (other than item 11), Schedule 2 (other than item 20), and Part 2 of Schedule 5, commence on the same day as Part 2 of the _Australian Meat and Live-stock Industry Act 1997_.”.
-
- 
-
-## Table of Amendments
-
-##  
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Provision affected</div>
-  </td>
-  <td>
-    <div>How affected</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3-6</div>
-  </td>
-  <td>
-    <div>am. No. 68, 1995; No. 207, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 207, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 7</div>
-  </td>
-  <td>
-    <div>am. No. 68, 1995; No. 207, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 68, 1995; No. 207, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>rs. No. 68, 1995; No. 207, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8A</div>
-  </td>
-  <td>
-    <div>ad. No. 68, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 207, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 75, 1993; No. 68, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 207, 1997</div>
-  </td>
-</tr></table>
-
- 
-
- 
+## SECT
+<sect>   9\. This Act, unless sooner repealed, shall cease to be in force at the end of 30 June 1998\. </sect>
