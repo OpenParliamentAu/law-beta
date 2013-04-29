@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00522/Html/DDF3A6A53965A316CA2570500017C4B1/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00439/Html/186CBA6D9593ABD0CA25703B001D0CA9/$FILE/image001.gif)
 
 # Ozone Protection and Synthetic Greenhouse Gas Management Act 1989
 
 **Act No. 7 of 1989 as amended**
 
-This compilation was prepared on 3 August 2005
+This compilation was prepared on 11 July 2005
 taking into account amendments up to Act No. 97 of 2005
 
 The text of any of those amendments not in force 
@@ -44,13 +44,13 @@ Canberra
 
 [8A](#8A).         Licence periods                                                                                    7
 
-[8B](#8B).         HCFC quotas and reserve HCFC quotas                                            7
+[8B](#8B).         HCFC quotas and reserve HCFC quotas                                            8
 
 [9](#9).            Scheduled substances in manufactured products                                 8
 
 [10](#10).          Quantities expressed in ODP tonnes                                                   8
 
-[12](#12).          Recycling of scheduled substances                                                      8
+[12](#12).          Recycling of scheduled substances                                                      9
 
 [12A](#12A).       Feedstocks                                                                                           9
 
@@ -62,13 +62,13 @@ Canberra
 
 [13A](#13A).       Licences and what they allow                                                            11
 
-[14](#14).          Application for licence                                                                      13
+[14](#14).          Application for licence                                                                      12
 
 [15](#15).          Request for further information                                                         13
 
 [16](#16).          Grant of licence                                                                                  13
 
-[17](#17).          Deemed refusal of licence                                                                  15
+[17](#17).          Deemed refusal of licence                                                                  14
 
 [18](#18).          Conditions of licences                                                                        15
 
@@ -82,7 +82,7 @@ Canberra
 
 [20](#20).          Cancellation of licence                                                                       19
 
-[21](#21).          Surrender of licence                                                                            20
+[21](#21).          Surrender of licence                                                                            19
 
 [22](#22).          Publication of information regarding licences etc                               20
 
@@ -116,31 +116,31 @@ Canberra
 
 **Part V—Control of manufacture etc. of products containing or using scheduled substances**
 
-[37](#37).          Persons to whom this Part applies, activities to which this Part applies               27
+[37](#37).          Persons to whom this Part applies, activities to which this Part applies               28
 
-[38](#38).          Manufacture and import of products in contravention of Schedule 4 27
+[38](#38).          Manufacture and import of products in contravention of Schedule 4 28
 
-[39](#39).          Regulations concerning manufacture etc  of scheduled substances    28
+[39](#39).          Regulations concerning manufacture etc  of scheduled substances    29
 
-[40](#40).          Exemptions                                                                                        29
+[40](#40).          Exemptions                                                                                        30
 
 **Part VI—Control of imports and exports**
 
-[41](#41).          Montreal Protocol countries                                                              31
+[41](#41).          Montreal Protocol countries                                                              32
 
-[44](#44).          Import of products containing scheduled substances from non-Montreal Protocol countries                32
+[44](#44).          Import of products containing scheduled substances from non-Montreal Protocol countries                33
 
-[45](#45).          Import of products manufactured using scheduled substances from non-Montreal Protocol countries 33
+[45](#45).          Import of products manufactured using scheduled substances from non-Montreal Protocol countries 34
 
 **Part VIA—Controls on disposal, use etc. of scheduled substances**
 
-[45A](#45A).       Regulation of disposal, use etc  of scheduled substances                  35
+[45A](#45A).       Regulation of disposal, use etc  of scheduled substances                  36
 
-[45B](#45B).       Discharge of scheduled substances                                                    35
+[45B](#45B).       Discharge of scheduled substances                                                    36
 
 **Part VII—Reports and records**
 
-[46](#46).          Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre-charged equipment                                                                                                           37
+[46](#46).          Quarterly reports by manufacturers, importers and exporters of scheduled substances and pre-charged equipment                                                                                                           38
 
 [48](#48).          Records to be kept by licensees                                                        39
 
@@ -148,75 +148,75 @@ Canberra
 
     **Division 1—Inspectors**
 
-[48A](#48A).       Meaning of _inspector_                                                                         40
+[48A](#48A).       Meaning of _inspector_                                                                         41
 
-[49](#49).          Appointment of inspectors                                                               40
+[49](#49).          Appointment of inspectors                                                               41
 
-[50](#50).          Identity cards                                                                                     40
+[50](#50).          Identity cards                                                                                     41
 
-[51](#51).          Searches to monitor compliance with Act etc                                   41
+[51](#51).          Searches to monitor compliance with Act etc                                   42
 
-[52](#52).          Offence-related searches and seizures                                               42
+[52](#52).          Offence-related searches and seizures                                               43
 
-[53](#53).          Warrants may be granted by telephone                                             43
+[53](#53).          Warrants may be granted by telephone                                             44
 
-[54](#54).          Power to require information etc                                                       45
+[54](#54).          Power to require information etc                                                       46
 
-[55](#55).          Retention of books, records and documents                                      45
+[55](#55).          Retention of books, records and documents                                      46
 
     **Division 2—Injunctions**
 
-[56](#56).          Injunctions                                                                                         47
+[56](#56).          Injunctions                                                                                         48
 
     **Division 3—Forfeiture of goods**
 
-[57](#57).          Forfeitable goods                                                                               49
+[57](#57).          Forfeitable goods                                                                               50
 
-[58](#58).          Goods forfeited to Commonwealth                                                   49
+[58](#58).          Goods forfeited to Commonwealth                                                   50
 
-[59](#59).          Power to seize forfeited goods                                                          50
+[59](#59).          Power to seize forfeited goods                                                          51
 
-[60](#60).          Persons not to move etc  seized goods                                              50
+[60](#60).          Persons not to move etc  seized goods                                              51
 
-[61](#61).          Disposal of forfeited goods                                                               51
+[61](#61).          Disposal of forfeited goods                                                               52
 
     **Division 4—Offences**
 
-[62](#62).          False statements                                                                                52
+[62](#62).          False statements                                                                                53
 
-[63](#63).          Obstruction of inspectors etc                                                            53
+[63](#63).          Obstruction of inspectors etc                                                            54
 
-[64](#64).          Failure to answer questions etc                                                         53
+[64](#64).          Failure to answer questions etc                                                         54
 
-[65](#65).          Conduct by directors, servants and agents                                        56
+[65](#65).          Conduct by directors, servants and agents                                        57
 
 **Part VIIIA—Ozone Protection and SGG Account**
 
-[65A](#65A).       Definitions                                                                                         58
+[65A](#65A).       Definitions                                                                                         60
 
-[65B](#65B).       Ozone Protection and SGG Account                                                58
+[65B](#65B).       Ozone Protection and SGG Account                                                60
 
-[65C](#65C).       Amounts to be credited to the Account                                            58
+[65C](#65C).       Amounts to be credited to the Account                                            60
 
-[65D](#65D).       Purposes of the Account                                                                   59
+[65D](#65D).       Purposes of the Account                                                                   61
 
 **Part IX—Miscellaneous**
 
-[66](#66).          Review of decisions                                                                           60
+[66](#66).          Review of decisions                                                                           62
 
-[67](#67).          Statements to accompany notification of decisions                          60
+[67](#67).          Statements to accompany notification of decisions                          62
 
-[67A](#67A).       Delegation                                                                                          61
+[67A](#67A).       Delegation                                                                                          63
 
-[68](#68).          Annual report                                                                                    61
+[68](#68).          Annual report                                                                                    63
 
-[69](#69).          Collection of licence levies                                                                 61
+[69](#69).          Collection of licence levies                                                                 63
 
-[69A](#69A).       Implementation of Montreal Protocol—supplementary regulations 62
+[69A](#69A).       Implementation of Montreal Protocol—supplementary regulations 64
 
-[69B](#69B).       Severability                                                                                        62
+[69B](#69B).       Severability                                                                                        64
 
-[70](#70).          Regulations                                                                                        63
+[70](#70).          Regulations                                                                                        65
 
 **Schedule 1—Scheduled substances** 
 
@@ -260,23 +260,23 @@ Canberra
 
 **Schedule 4—Control of manufacture etc. of products containing or using scheduled substances**
 
-[1](#1).            Dry cleaning machinery                                                                   178
+[1](#1).            Dry cleaning machinery                                                                   181
 
-[2](#2).            Automotive air conditioning maintenance kits                                178
+[2](#2).            Automotive air conditioning maintenance kits                                181
 
-[4](#4).            Extruded polystyrene packaging and insulation                              179
+[4](#4).            Extruded polystyrene packaging and insulation                              182
 
-[5](#5).            Aerosol products                                                                             179
+[5](#5).            Aerosol products                                                                             182
 
-[6](#6).            Products containing halon                                                                180
+[6](#6).            Products containing halon                                                                183
 
-[7](#7).            Rigid polyurethane foam product                                                    180
+[7](#7).            Rigid polyurethane foam product                                                    183
 
-[8](#8).            Moulded flexible polyurethane foam                                               180
+[8](#8).            Moulded flexible polyurethane foam                                               183
 
-[9](#9).            Disposable containers of refrigerants                                              180
+[9](#9).            Disposable containers of refrigerants                                              183
 
-[10](#10).          Refrigeration and air conditioning equipment                                  180
+[10](#10).          Refrigeration and air conditioning equipment                                  183
 
 **Notes** 
 
@@ -553,11 +553,7 @@ Note:          For example, paragraph (1)(a) would apply to 
 
 ##### <a id="13"></a>13  Unlicensed manufacture, import or export
 
-             (1)  A person must not manufacture an HCFC or methyl bromide unless the person holds a controlled substances licence that allows the person to do so.
-
-       (1AA)  A person must not import or export an HCFC (other than a recycled or used HCFC) or methyl bromide (other than recycled or used methyl bromide) unless the person holds a controlled substances licence that allows the person to do so.
-
-        (1AB)  A person must not import or export a recycled or used HCFC or recycled or used methyl bromide unless the person holds a used substances licence that allows the person to do so.
+             (1)  A person must not manufacture, import or export an HCFC or methyl bromide unless the person holds a controlled substances licence that allows the person to do so.
 
           (1A)  A person must not manufacture, import or export an SGG unless:
 
@@ -909,25 +905,19 @@ Note:          Section 18 deals with variation of the condit
       <div>
         <b>Column 1</b>
       </div>
-      <div>
-        <b>Item No.</b>
-      </div>
+      <div>Item No.</div>
     </td>
     <td>
       <div>
         <b>Column 2</b>
       </div>
-      <div>
-        <b>Calendar year</b>
-      </div>
+      <div>Calendar year</div>
     </td>
     <td>
       <div>
         <b>Column 3</b>
       </div>
-      <div>
-        <b>HCFC industry limit Quantity of HCFCs in ODP tonnes per year</b>
-      </div>
+      <div>HCFC industry limit Quantity of HCFCs in ODP tonnes per year</div>
     </td>
   </tr>
   <tr>
@@ -1078,25 +1068,19 @@ Note:          Section 18 deals with variation of the condit
       <div>
         <b>Column 1</b>
       </div>
-      <div>
-        <b>Item No.</b>
-      </div>
+      <div>Item No.</div>
     </td>
     <td>
       <div>
         <b>Column 2</b>
       </div>
-      <div>
-        <b>Calendar year</b>
-      </div>
+      <div>Calendar year</div>
     </td>
     <td>
       <div>
         <b>Column 3</b>
       </div>
-      <div>
-        <b>HCFC quota limit Quantity of HCFCs in ODP tonnes per year</b>
-      </div>
+      <div>HCFC quota limit Quantity of HCFCs in ODP tonnes per year</div>
     </td>
   </tr>
   <tr>
@@ -1288,7 +1272,7 @@ Note:          Section 18 deals with variation of the condit
 
              (1)  The size of an HCFC quota allocated to a licensee for a quota period is to be worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2005C00522/Html/DDF3A6A53965A316CA2570500017C4B1/$FILE/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00439/Html/186CBA6D9593ABD0CA25703B001D0CA9/$FILE/image002.gif)
 
 where:
 
@@ -1324,7 +1308,7 @@ where:
 
 ##### <a id="34"></a>34  Quotas cease when licences cease
 
-                   A quota allocated to a licensee stops being in force when the licensee’s licence is cancelled, or stops being in force for any other reason.
+                   A quota allocated to a licensee stops being in force when the licensee’s licence is cancelled, or stops being in force for any other reason.
 
 ##### <a id="35"></a>35  Transfer of quotas
 
@@ -1628,8 +1612,6 @@ Note:          A defendant bears an evidential burden in relat
 
           (1B)  If a person imports or exports an SGG in a quarter commencing more than 3 months after the commencement of this subsection, the person must, within 15 days after the end of the quarter, give the Minister a report in accordance with the regulations.
 
-        (1BA)  A person who manufactures an SGG in a quarter commencing more than 3 months after the commencement of this subsection must, within 15 days after the end of the quarter, give the Minister a report in accordance with the regulations.
-
           (1C)  If:
 
                      (a)  a person imports pre-charged equipment in a quarter commencing more than 3 months after the commencement of this subsection; and
@@ -1644,7 +1626,7 @@ Note:          Paragraph 68(1)(d) of the _Customs Act 1901_ co
 
                     Penalty:  100 penalty units.
 
-       (2AA)  A person must not contravene subsection (1B), (1BA) or (1C).
+       (2AA)  A person must not contravene subsection (1B) or (1C).
 
                     Penalty:  10 penalty units.
 
@@ -2716,26 +2698,18 @@ _Section 7_
 <thead>
   <tr>
     <td>
-      <div>
-        <b>Column 1</b>
-      </div>
+      <div>Column 1</div>
     </td>
     <td>
-      <div>
-        <b>Column 2</b>
-      </div>
+      <div>Column 2</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Substance</b>
-      </div>
+      <div>Substance</div>
     </td>
     <td>
-      <div>
-        <b>Ozone depleting potential</b>
-      </div>
+      <div>Ozone depleting potential</div>
     </td>
   </tr>
 </thead>
@@ -5327,7 +5301,7 @@ CONTROLLED SUBSTANCES
       <div>Group I</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div> </div>
@@ -5408,7 +5382,7 @@ CONTROLLED SUBSTANCES
       <div>Group II</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div> </div>
@@ -5487,7 +5461,7 @@ CONTROLLED SUBSTANCES
       <div>Group I</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div> </div>
@@ -5641,7 +5615,7 @@ CONTROLLED SUBSTANCES
       <div>Group II</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div> </div>
@@ -5665,7 +5639,7 @@ CONTROLLED SUBSTANCES
       <div>Group III</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div> </div>
@@ -5727,10 +5701,10 @@ CONTROLLED SUBSTANCES
       <div>Group I</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div> </div>
@@ -6446,10 +6420,10 @@ CONTROLLED SUBSTANCES
       <div>Group II</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div> </div>
@@ -6462,7 +6436,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>1</div>
@@ -6492,7 +6466,7 @@ CONTROLLED SUBSTANCES
         2FBr</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>1</div>
@@ -6509,7 +6483,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>2</div>
@@ -6527,7 +6501,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>3</div>
@@ -6545,7 +6519,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>3</div>
@@ -6561,7 +6535,7 @@ CONTROLLED SUBSTANCES
         4Br</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>2</div>
@@ -6579,7 +6553,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>3</div>
@@ -6598,7 +6572,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>4</div>
@@ -6615,7 +6589,7 @@ CONTROLLED SUBSTANCES
         3Br</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>3</div>
@@ -6633,7 +6607,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>3</div>
@@ -6650,7 +6624,7 @@ CONTROLLED SUBSTANCES
         2Br</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>3</div>
@@ -6666,7 +6640,7 @@ CONTROLLED SUBSTANCES
         4FBr</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>2</div>
@@ -6683,7 +6657,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>5</div>
@@ -6701,7 +6675,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>9</div>
@@ -6719,7 +6693,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>12</div>
@@ -6737,7 +6711,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>12</div>
@@ -6755,7 +6729,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>9</div>
@@ -6771,7 +6745,7 @@ CONTROLLED SUBSTANCES
         6Br</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>5</div>
@@ -6789,7 +6763,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>9</div>
@@ -6808,7 +6782,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>16</div>
@@ -6827,7 +6801,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>18</div>
@@ -6846,7 +6820,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>16</div>
@@ -6863,7 +6837,7 @@ CONTROLLED SUBSTANCES
         5Br</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>8</div>
@@ -6881,7 +6855,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>12</div>
@@ -6900,7 +6874,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>18</div>
@@ -6919,7 +6893,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>18</div>
@@ -6938,7 +6912,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>12</div>
@@ -6956,7 +6930,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>12</div>
@@ -6973,7 +6947,7 @@ CONTROLLED SUBSTANCES
         2Br</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>16</div>
@@ -6990,7 +6964,7 @@ CONTROLLED SUBSTANCES
         3Br</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>12</div>
@@ -7008,7 +6982,7 @@ CONTROLLED SUBSTANCES
       </div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>9</div>
@@ -7025,7 +6999,7 @@ CONTROLLED SUBSTANCES
         2Br</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>9</div>
@@ -7041,7 +7015,7 @@ CONTROLLED SUBSTANCES
         6FBr</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>5</div>
@@ -7072,7 +7046,7 @@ ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
 <tbody>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>PRODUCTS</div>
@@ -7108,7 +7082,7 @@ ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
   </tr>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>e.g. Refrigerators</div>
@@ -7119,7 +7093,7 @@ ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
   </tr>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>Freezers</div>
@@ -7130,7 +7104,7 @@ ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
   </tr>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>Dehumidifiers</div>
@@ -7141,7 +7115,7 @@ ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
   </tr>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>Water coolers</div>
@@ -7152,7 +7126,7 @@ ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
   </tr>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>Ice machines</div>
@@ -7163,7 +7137,7 @@ ACCORDANCE WITH ARTICLE 4, PARAGRAPH 3)
   </tr>
   <tr>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div>Air conditioning and heat pump units</div>
@@ -7252,7 +7226,7 @@ CONTROLLED SUBSTANCE
       <div>Group I</div>
     </td>
     <td>
-      <div> </div>
+      <div></div>
     </td>
     <td>
       <div> </div>
@@ -7375,7 +7349,7 @@ Decision IX/2.  Further adjustments with regard to Annex B substances
 
 To adopt, in accordance with the procedure laid down in paragraph 9 of Article 2 of the Montreal Protocol and on the basis of the assessments made pursuant to Article 6 of the Protocol, the adjustments with regard to production of the controlled substances listed in Annex B to the Protocol, as set out in Annex II to the report of the Ninth Meeting of the Parties;
 
-Decision IX/3.  Further adjustments and reductions with regard to the Annex E substance
+Decision IX/3\.  Further adjustments and reductions with regard to the Annex E substance
 
 To adopt, in accordance with the procedure laid down in paragraph 9 of Article 2 of the Montreal Protocol and on the basis of the assessments made pursuant to Article 6 of the Protocol, the adjustments and reductions of production and consumption of the controlled substance listed in Annex E to the Protocol, as set out in Annex III to the report of the Ninth Meeting of the Parties.
 
@@ -7585,7 +7559,7 @@ there shall be substituted:
 
 Articles 2, 2A to 2I
 
-**_F. Article 4, paragraph_****_s 1_****_quin. and 1 sex._**
+**_F. Article 4, paragraphs 1 quin. and 1 sex._**
 
 The following paragraphs shall be added to Article 4 of the Protocol after paragraph 1 _qua_:
 
@@ -8756,7 +8730,7 @@ of Assent
       <div>6 July 2005</div>
     </td>
     <td>
-      <div>Schedule 1: 3 Aug 2005 
+      <div>Schedule 1: \[ <i>see</i>Note 2] 
 Remainder: Royal Assent 
 </div>
     </td>
@@ -9037,7 +9011,7 @@ _(e)_     The _Ozone Protection and Synthetic Greenhouse Gas Management 
       <div></div>
     </td>
     <td>
-      <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005</div>
+      <div>am. No. 15, 2001; No. 126, 2003</div>
     </td>
   </tr>
   <tr>
@@ -9485,7 +9459,7 @@ _(e)_     The _Ozone Protection and Synthetic Greenhouse Gas Management 
       <div></div>
     </td>
     <td>
-      <div>am. No. 15, 2001; No. 126, 2003; No. 97, 2005</div>
+      <div>am. No. 15, 2001; No. 126, 2003</div>
     </td>
   </tr>
   <tr>
@@ -9985,6 +9959,37 @@ Schedule 3C
 </tbody></table>
 
 
+### Note 2
+
+_Environment and Heritage Legislation Amendment Act 2005 (No. 97, 2005)_
+
+The following amendments commence on 3 August 2005:
+
+## Schedule 1
+
+## 1  Subsection 13(1)
+
+Repeal the subsection, substitute:
+
+             (1)  A person must not manufacture an HCFC or methyl bromide unless the person holds a controlled substances licence that allows the person to do so.
+
+       (1AA)  A person must not import or export an HCFC (other than a recycled or used HCFC) or methyl bromide (other than recycled or used methyl bromide) unless the person holds a controlled substances licence that allows the person to do so.
+
+        (1AB)  A person must not import or export a recycled or used HCFC or recycled or used methyl bromide unless the person holds a used substances licence that allows the person to do so.
+
+## 2  After subsection 46(1B)
+
+Insert:
+
+        (1BA)  A person who manufactures an SGG in a quarter commencing more than 3 months after the commencement of this subsection must, within 15 days after the end of the quarter, give the Minister a report in accordance with the regulations.
+
+## 3  Subsection 46(2AA)
+
+After “(1B)”, insert “, (1BA)”.
+
+As at 11 July 2005 the amendments are not incorporated in this compilation.
+
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -10025,5 +10030,7 @@ _Ozone Protection and Synthetic Greenhouse Gas Legislation Amendment Act 2003 (N
 
                     <a name="princip-act"></a>**_Principal Act_** means the _Ozone Protection Act 1989_, as amended by this Act.
 
+
+ 
 
  
