@@ -1,9 +1,9 @@
 
 National Library Act 1960 
 Act No. 69 of 1960 as amended
-This compilation was prepared on 30 March 2000  taking into account amendments up to Act No. 156 of 1999
-The text of any of those amendments not in force on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
+Consolidated as in force on 10 January 2000
+(includes amendments up to Act No. 146 of 1999)
+Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra 
   
   
   
@@ -144,7 +144,7 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 	(c)	in the case of a member elected by either House of the Parliament—ceases to be a member of that House;
 	(d)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council; or
-	(e)	fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the Commonwealth Authorities and Companies Act 1997;
+	(e)	fails, without reasonable excuse, to comply with his or her obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
 the Governor‑General shall terminate the appointment of the member.
 	(2)	For the purposes of paragraph (1)(c), a member of either House of the Parliament shall be deemed not to have ceased to be a member of that House while he or she continues to be entitled to the Parliamentary allowance that became payable to him or her as such a member.
 15A  Resignation
@@ -186,7 +186,7 @@ the Governor‑General shall terminate the appointment of the member.
 17E  Vacation of office
 	(1)	If the Director‑General:
 	(a)	engages in paid employment outside the duties of his or her office without the approval of the Minister; or
-	(aa)	fails, without reasonable excuse, to comply with section 27F or 27J of the Commonwealth Authorities and Companies Act 1997 or subsection (3) of this section; or
+	(aa)	fails, without reasonable excuse, to comply with section 21 of the Commonwealth Authorities and Companies Act 1997 or subsection (3) of this section; or
 	(b)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 the Governor‑General shall terminate the appointment of the Director‑General.
 	(2)	The Minister shall not give an approval for the purposes of paragraph (1)(a) unless he or she is satisfied that the paid employment is of a minor nature and will not interfere with the performance of the duties of the Director‑General under this Act.
@@ -323,11 +323,6 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (items 647-654): 5 Dec 1999 (see Gazette 1999, No. S584) (f)
 —
-Corporate Law Economic Reform Program Act 1999
-156, 1999
-24 Nov 1999
-Schedule 10 (items 99, 100): 13 Mar 2000 (see Gazette 2000, No. S114) (g)
-—
 
 (a)	The National Library Act 1960 was amended by subsection 151(1) only of the Public Service Reform Act 1984, subsection 2(4) of which provides as follows:
 	(4)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
@@ -342,9 +337,6 @@ Schedule 10 (items 99, 100): 13 Mar 2000 (see Gazette 2000, No. S114) (g)
 (f)	The National Library Act 1960 was amended by Schedule 1 (items 647-654) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(g)	The National Library Act 1960 was amended by Schedule 10 (items 99 and 100) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2)(c) of which provides as follows:
-	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
-	(c)	the items in Schedules 10, 11 and 12. 
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -379,7 +371,7 @@ rs. No. 165, 1984
 
 am. No. 43, 1996
 S. 15	
-am. No. 217, 1973; No. 33, 1991; No. 43, 1996; No. 152, 1997; No. 156, 1999
+am. No. 217, 1973; No. 33, 1991; No. 43, 1996; No. 152, 1997
 S. 15A	
 ad. No. 33, 1991
 S. 15B	
@@ -413,7 +405,7 @@ am. No. 217, 1973; No. 43, 1996
 S. 17E	
 ad. No. 28, 1967
 
-am. No. 217, 1973; No. 33, 1991; No. 43, 1996; No. 152, 1997; No. 156, 1999
+am. No. 217, 1973; No. 33, 1991; No. 43, 1996; No. 152, 1997
 S. 17F	
 ad. No. 28, 1967
 
