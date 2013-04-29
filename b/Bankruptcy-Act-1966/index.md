@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00789/Html/Bankruptcy1966_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00553/Html/Bankruptcy1966_WD02_image001.gif)
 
 # Bankruptcy Act 1966
 
 **Act No. 33 of 1966 as amended**
 
-This compilation was prepared on 1 December 2010
+This compilation was prepared on 11 August 2010
  taking into account amendments up to Act No. 106 of 2010
 
 The text of any of those amendments not in force
@@ -367,8 +367,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [77A](#77A).       Access by trustee to books of associated entity
 
 [77C](#77C).       Power of Official Receiver to obtain information and evidence
-
-[77CA](#77CA).    Power of Official Receiver to obtain statement of affairs
 
 [77D](#77D).       Allowances and expenses in respect of attendance
 
@@ -860,7 +858,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 2—Remuneration and costs**
 
-[161B](#161B).     Trustee’s remuneration—minimum entitlement [_see_ Table B]
+[161B](#161B).     Trustee’s remuneration—minimum entitlement [_see_ Table B]
 
 [162](#162).        Trustee’s remuneration—general [_see_ Table B]
 
@@ -872,9 +870,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [165](#165).        Trustee not to accept extra benefit etc 
 
-[166](#166).        Payment to third parties
-
-[167](#167).        Review of remuneration etc 
+[167](#167).        Taxation of costs
 
     **Division 3—Accounts and audits**
 
@@ -883,8 +879,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [169](#169).        Trustee to pay moneys into bank account
 
 [170](#170).        Trustee to give Official Receiver and bankrupt information etc  [_see_ Table B]
-
-[170A](#170A).     Annual return
 
 [171](#171).        Trustee to give and obtain receipts
 
@@ -965,8 +959,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [185LD](#185LD).   Administrator to maintain separate bank account
 
 [185LE](#185LE).   Administrator to keep accounts etc 
-
-185LEA Annual return
 
 [185LF](#185LF).   Succession of administrator
 
@@ -1110,12 +1102,12 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [189](#189).        Control of property of a debtor who has given authority under section 188
 
-189AAAStay of proceedings relating to creditor’s petition until meeting 
- of debtor’s creditors
+189AAA Stay of proceedings relating to creditor’s petition until meeting of debtor’s creditors
 
 [189AA](#189AA).  Court orders with effect during period of control of debtor’s property
 
-[189AB](#189AB).  Charge over debtor’s property that is subject to control [_see_ Table B]
+[189AB](#189AB).  Charge over debtor’s property that is subject to control
+ [_see_ Table B]
 
 [189AC](#189AC).  Right of indemnity for controlling trustee
 
@@ -1309,7 +1301,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [268](#268).        Offences in relation to personal insolvency agreements
 
-[269](#269).        Bankrupt or debtor who is a party to a debt agreement obtaining credit etc  without disclosing bankruptcy or debt agreement
+[269](#269).        Bankrupt obtaining credit etc  without disclosing bankruptcy
 
 [270](#270).        Failure to keep proper books of account
 
@@ -1326,8 +1318,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [277](#277).        Punishment of contempt of court
 
 [277A](#277A).     Keeping of books in respect of period of bankruptcy
-
-[277B](#277B).     Infringement notices for offences
 
 **Part XV—Provisions relating to the Bankruptcy (Estate Charges) Act 1997**
 
@@ -1869,7 +1859,7 @@ Note:          **_Parent_** and **_child_** are defined by thi
 
                     <a name="stai-period"></a>**_stay period_**, in relation to a declaration of intention presented by a debtor, means the period beginning on the day on which the declaration was accepted under section 54C and ending when:
 
-                     (a)  the period of 21 days beginning on that day ends;
+                     (a)  the period of 7 days beginning on that day ends;
 
                      (b)  a creditor’s petition or a debtor’s petition is presented against the debtor;
 
@@ -2185,7 +2175,7 @@ done or made at that time, in relation to that matter, by or on behalf of the en
 
 ##### <a id="6A"></a>6A  Statement of affairs for purposes other than Part XI
 
-             (1)  This section has effect for the purposes of the following provisions of this Act, namely, subsections 54(1) and (2) and subsection 54A(2), paragraphs 55(2)(b), 56B(3)(a) and (b), 56F(1)(a) and (b), 57(2)(a) and (b) and sections 77CA and 185D and Part X.
+             (1)  This section has effect for the purposes of the following provisions of this Act, namely, subsections 54(1) and (2), paragraphs 55(2)(b), 56B(3)(a) and (b), 56F(1)(a) and (b), 57(2)(a) and (b) and sections 185D and Part X.
 
              (2)  A reference in a provision of this Act referred to in subsection (1) to a statement of affairs is a reference to a statement that:
 
@@ -2357,17 +2347,15 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     (bb)  may make such inquiries and investigations as the Inspector-General thinks fit with respect to any conduct of an administrator that relates to a debt agreement; and
 
-                    (bc)  may make such inquiries and investigations as the Inspector-General thinks fit with respect to whether a person has committed an offence against this Act; and
-
                      (c)  shall from time to time obtain from Official Receivers and other officers and from registered trustees reports as to the operation of this Act; and
 
                      (d)  must give the Minister, after the end of each financial year, a report on the operation of this Act during that financial year for presentation by the Minister to the Parliament.
 
           (1A)  Where the Inspector-General requests a registered trustee or the administrator of a debt agreement, for the purposes of subsection (1), to provide a report as to the operation of this Act, the registered trustee or administrator, as the case may be, shall forthwith provide the report requested.
 
-        (1BA)  The Inspector-General may make an inquiry or investigation under paragraph (1)(b), (ba), (bb) or (bc) at any time, whether before or after the end of the bankruptcy, composition, scheme or agreement or administration concerned.
+        (1BA)  The Inspector-General may make an inquiry or investigation under paragraph (1)(b), (ba) or (bb) at any time, whether before or after the end of the bankruptcy, composition, scheme or agreement or administration concerned.
 
-          (1B)  Where the Inspector-General makes an inquiry or investigation referred to in paragraph (1)(b), (ba), (bb) or (bc), the Inspector-General may give a copy of the report of the results of the inquiry or investigation to any person the Inspector-General thinks fit.
+          (1B)  Where the Inspector-General makes an inquiry or investigation referred to in paragraph (1)(b), (ba) or (bb), the Inspector-General may give a copy of the report of the results of the inquiry or investigation to any person the Inspector-General thinks fit.
 
           (1C)  Without limiting the generality of paragraphs (1)(a) and (b), the Inspector-General may make inquiries and investigations under those paragraphs at the request of:
 
@@ -2414,26 +2402,6 @@ the giving of the notification, or the breach, as the case may be, is taken to b
                      (e)  require the administrator, or former administrator, of a debt agreement to answer an inquiry made of the administrator or former administrator, as the case may be, in relation to the administration of the debt agreement; and
 
                       (f)  at any time investigate the books of the administrator, or former administrator, of a debt agreement.
-
-          (2A)  If the Inspector-General believes on reasonable grounds that a person has information that is relevant to an inquiry or investigation under paragraph (1)(bc), the Inspector-General may, by written notice given to the person, require the person to give to the Inspector-General, within the period and in the manner specified in the notice, any such information.
-
-          (2B)  The period specified in a notice given under subsection (2A) must be at least 14 days after the notice is given.
-
-          (2C)  A person commits an offence if:
-
-                     (a)  the person has been given a notice under subsection (2A); and
-
-                     (b)  the person fails to comply with the notice.
-
-                    Penalty:  Imprisonment for 12 months.
-
-          (2D)  A notice under subsection (2A) must set out the effect of the following provisions:
-
-                     (a)  subsection (2C);
-
-                     (b)  section 137.1 of the _Criminal Code_(about giving false or misleading information).
-
-           (2E)  Subsection (2A) does not limit the application of subsection (2) in relation to an inquiry or investigation under paragraph (1)(bc).
 
              (4)  The Inspector-General:
 
@@ -3446,15 +3414,7 @@ to be examined on oath under this section about the debtor and the debtor’s ex
 
 and, if it is satisfied with the proof of those matters, may make a sequestration order against the estate of the debtor.
 
-          (1A)  If the Court makes a sequestration order, the creditor who obtained the order must give a copy of it to the Official Receiver before the end of the period of 2 days beginning on the day the order was made.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-          (1B)  Subsection (1A) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+          (1A)  If the Court makes a sequestration order, the creditor who obtained the order must give a copy of it to the Official Receiver.
 
              (2)  If the Court is not satisfied with the proof of any of those matters, or is satisfied by the debtor:
 
@@ -3500,7 +3460,7 @@ and, if the Court does so, those estates shall be administered accordingly.
 
                      (b)  furnish a copy of the statement to the trustee.
 
-                    Penalty:  25 penalty units.
+                    Penalty:  5 penalty units.
 
              (2)  Where a sequestration order is made against 2 or more joint debtors (whether partners or not), each of those persons shall (in addition to complying with subsection (1) in relation to his or her affairs), within 14 days from the day on which he or she is notified of the bankruptcy, and either on his or her own account or jointly with another or others of those debtors:
 
@@ -3530,9 +3490,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="54A"></a>54A  Presentation of declaration
 
-             (1)  Subject to section 54B, a debtor may present to the Official Receiver a declaration, in the approved form, of the debtor’s intention to present a debtor’s petition.
-
-             (2)  A declaration presented by a debtor under this section must be accompanied by a statement of the debtor’s affairs and a copy of that statement.
+                   Subject to section 54B, a debtor may present to the Official Receiver a declaration, in the approved form, of the debtor’s intention to present a debtor’s petition.
 
 ##### <a id="54B"></a>54B  When debtor disqualified from presenting declaration
 
@@ -3558,7 +3516,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="54C"></a>54C  Acceptance or rejection of declaration
 
-             (1)  Subject to section 54D, where a debtor presents a declaration under section 54A, the Official Receiver shall:
+                   Subject to section 54D, where a debtor presents a declaration under section 54A, the Official Receiver shall:
 
                      (a)  if it appears to the Official Receiver that the debtor is entitled to present a declaration under section 54A and that the declaration presented is in accordance with the approved form:
 
@@ -3567,8 +3525,6 @@ Note:          For **_strict liability_**, see section 6.1 o
                              (ii)  forthwith sign a copy of the declaration; or
 
                      (b)  in any other case—reject the declaration.
-
-             (2)  If the Official Receiver accepts the declaration, the Official Receiver must give written notice of the acceptance of the declaration to each of the creditors disclosed in the debtor’s statement of affairs.
 
 ##### <a id="54D"></a>54D  Official Receiver to give information to debtor
 
@@ -3858,7 +3814,7 @@ the Court must not give a direction in relation to the petition until the person
 
 within 14 days after the day that the member was notified of his or her bankruptcy.
 
-                    Penalty:  25 penalty units.
+                    Penalty:  5 penalty units.
 
           (1A)  Subsection (1) is an offence of strict liability.
 
@@ -4512,7 +4468,13 @@ Note:          A meeting requires at least 2 persons. Therefor
 
              (1)  If the meeting is the first meeting of the bankrupt’s creditors and the trustee is a registered trustee, the President must then ask the trustee to state the basis on which the trustee wishes to be remunerated.
 
-             (5)  The trustee must then state the basis on which the trustee wishes to be remunerated. The statement must:
+             (2)  If the trustee states that he or she wishes to be remunerated as prescribed by the regulations, the minutes secretary is to record that statement in the minutes of the meeting.
+
+             (3)  If the trustee states a different basis for the fixing of his or her remuneration, the following provisions of this section have effect.
+
+             (4)  The President must invite the creditors and their representatives to propose a motion that the trustee be remunerated in accordance with the statement and, if no such motion is proposed, the trustee may propose such a motion.
+
+             (5)  A statement to be made by the trustee as mentioned in subsection (3) must:
 
                      (a)  if the trustee proposes to charge on a time-cost basis:
 
@@ -4524,7 +4486,7 @@ Note:          A meeting requires at least 2 persons. Therefor
 
 and must also state the periods at which the trustee proposes to withdraw funds from the bankrupt’s estate in respect of the trustee’s remuneration.
 
-          (5A)  The statement under subsection (5) must also include:
+          (5A)  The statement under subsection (3) must also include:
 
                      (a)  an estimate of the total amount of the trustee’s remuneration; and
 
@@ -4532,23 +4494,7 @@ and must also state the periods at which the trustee proposes to withdraw funds 
 
              (6)  Any of the creditors and their representatives may ask the trustee questions about the proposed remuneration of the trustee and, if such a question is asked, the trustee must answer it.
 
-          (6A)  The President must invite the creditors and their representatives to propose a motion that the trustee be remunerated in accordance with the statement and, if no such motion is proposed, the trustee may propose such a motion.
-
-             (7)  Any of the creditors and their representatives may move an amendment to a motion proposed in accordance with subsection (6A) so as to change in any way the basis on which the trustee is to charge or the periods at which the trustee may withdraw funds in respect of his or her remuneration or to refer the fixing of the trustee’s remuneration to a committee of inspection.
-
-          (7A)  If:
-
-                     (a)  the meeting is the first meeting of the bankrupt’s creditors and the trustee is a registered trustee; and
-
-                     (b)  the following apply:
-
-                              (i)  before the meeting the trustee had given a notice under section 64ZBA that contained a proposal relating to how the trustee was to be remunerated;
-
-                             (ii)  the notice satisfied subsections 64ZBA(2) and (2A);
-
-                            (iii)  the proposal was taken to have been passed under subsection 64ZBA(3);
-
-then subsections (1) to (7) of this section do not apply in relation to the meeting.
+             (7)  Any of the creditors and their representatives may move an amendment to a motion proposed in accordance with subsection (4) so as to change in any way the basis on which the trustee is to charge or the periods at which the trustee may withdraw funds in respect of his or her remuneration or to refer the fixing of the trustee’s remuneration to a committee of inspection.
 
              (8)  If the meeting is not the first meeting of the bankrupt’s creditors and the trustee is a registered trustee, the President must request the trustee to lay before the meeting a statement of the amount of remuneration drawn by the trustee from the funds of the bankrupt’s estate before the meeting was held and the trustee must comply with the request.
 
@@ -4724,20 +4670,6 @@ is to be worked out by taking the value of the assigned debt to be equal to the 
 
                      (e)  specify a time by which replies must be received by the trustee (in order to be taken into account).
 
-          (2A)  If the proposal relates to how the trustee is to be remunerated, the notice must also:
-
-                     (a)  if the trustee proposes to charge on a time-cost basis:
-
-                              (i)  if there is only one rate at which the remuneration is to be calculated—state that rate; or
-
-                             (ii)  otherwise—state the respective rates at which the remuneration of the trustee and the other persons who will be assisting, or will be likely to assist, the trustee in the performance of his or her duties are to be calculated; and
-
-                     (b)  if the trustee proposes to charge on the basis of a commission upon money received by the trustee—state the rate of that commission; and
-
-                     (c)  state the periods at which the trustee proposes to withdraw funds from the bankrupt’s estate in respect of the trustee’s remuneration; and
-
-                     (d)  include an estimate of the total amount of the trustee’s remuneration and an explanation of the likely impact of that remuneration on the dividends (if any) to creditors.
-
              (3)  If, within the time specified in the notice:
 
                      (a)  at least 1 creditor votes in writing; and
@@ -4778,7 +4710,7 @@ then the following provisions have effect:
 
 ##### <a id="64ZD"></a>64ZD  Provisions relating to motions and amendments of motions
 
-             (1)  Subject to the right of the trustee to propose a motion relating to the trustee’s remuneration under subsection 64U(6A), the only persons who may propose motions, or amendments of motions, at a meeting are the creditors and their representatives.
+             (1)  Subject to the right of the trustee to propose a motion relating to the trustee’s remuneration under subsection 64U(4), the only persons who may propose motions, or amendments of motions, at a meeting are the creditors and their representatives.
 
              (2)  A motion or amendment does not need to be seconded.
 
@@ -4876,15 +4808,7 @@ he or she may lodge with the trustee a proposal in writing signed by him or her 
 
           (1A)  The trustee must, within 2 working days after receiving the proposal, give a copy of the proposal to the Official Receiver.
 
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
           (1B)  For the purposes of subsection (1A), a **_working day_** is a day that is not a Saturday, Sunday or public holiday in the place in which the bankrupt resides.
-
-          (1C)  Subsection (1A) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
              (2)  The trustee shall call a meeting of creditors and shall send to each creditor before the meeting a copy of the proposal accompanied by a report on it.
 
@@ -4974,15 +4898,7 @@ the proposed trustee must table at the meeting a written statement identifying t
 
              (5)  Upon the passing of a special resolution at a meeting of creditors of a bankrupt under subsection 73(4), the bankruptcy is annulled, by force of this subsection, on the date on which the special resolution was passed.
 
-          (5A)  The trustee must, before the end of the period of 2 days beginning on that date, give the Official Receiver a written notice setting out the name and the bankruptcy number of the former bankrupt and the date of the annulment.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-          (5B)  Subsection (5A) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+          (5A)  The trustee must, as soon as practicable after that date, give the Official Receiver a written notice setting out the name and the bankruptcy number of the former bankrupt and the date of the annulment.
 
              (6)  Where a bankruptcy is annulled under this section, all sales and dispositions of property and payments duly made, and all acts done, by the trustee or any person acting under the authority of the trustee or the Court before the annulment shall be deemed to have been validly made or done but, subject to subsection (7), the property of the bankrupt still vested in the trustee vests in such person as the Court appoints or, in default of such an appointment, reverts to the bankrupt for all his or her estate or interest in it, on such terms and subject to such conditions (if any) as the Court orders.
 
@@ -5185,14 +5101,6 @@ It does not matter whether or not the person is a bankrupt or is employed in or 
                              (ii)  if the notes and evidence relate to matters concerning the bankruptcy of the person or of another person—by the trustee and a person who states in writing that he or she is a creditor, without fee; and
 
                             (iii)  by any other person on payment of the fee determined by the Minister by legislative instrument.
-
-##### <a id="77CA"></a>77CA  Power of Official Receiver to obtain statement of affairs
-
-                   The Official Receiver may, by written notice given to a bankrupt, require the bankrupt to give the Official Receiver a statement of the bankrupt’s affairs within 14 days after receiving the notice.
-
-Note 1:       Section 6A sets out requirements for statements of affairs.
-
-Note 2:       A failure to comply with the notice is an offence: see section 267B.
 
 ##### <a id="77D"></a>77D  Allowances and expenses in respect of attendance
 
@@ -8061,7 +7969,7 @@ Note:          Subdivision HA deals with the supervised accoun
 
                    The contribution that a bankrupt is liable to pay in respect of a contribution assessment period is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00789/Html/Bankruptcy1966_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00553/Html/Bankruptcy1966_WD02_image002.gif)
 
                     where:
 
@@ -9487,7 +9395,7 @@ whichever is the later.
 
                      (a)  the prescribed number of years is:
 
-                              (i)  if the objection was made on a ground, or on grounds that included a ground, referred to in paragraph 149D(1)(ab), (ac), (ad), (d), (da), (e), (f), (g), (h), (ha), (ia), (k) or (ma)—8 years; or
+                              (i)  if the objection was made on a ground, or on grounds that included a ground, referred to in paragraph 149D(1)(ab), (ac), (ad), (d), (da), (e), (f), (g), (h), (ha), (k) or (ma)—8 years; or
 
                              (ii)  in any other case—5 years; and
 
@@ -9531,7 +9439,7 @@ whichever is the later.
 
                      (c)  state the reasons of the trustee for objecting to the discharge on that ground or those grounds.
 
-          (1A)  Paragraph (1)(c) does not apply to a ground specified in paragraph 149D(1)(ab), (d), (da), (e), (f), (g), (h), (ha), (ia), (k) or (ma).
+          (1A)  Paragraph (1)(c) does not apply to a ground specified in paragraph 149D(1)(ab), (d), (da), (e), (f), (g), (h), (ha), (k) or (ma).
 
              (2)  A notice of objection is not invalid merely because it does not state the ground or grounds of objection precisely as set out in subsection 149D(1) provided that the ground or grounds can reasonably be identified from the terms of the notice.
 
@@ -9572,8 +9480,6 @@ whichever is the later.
                     (ha)  the bankrupt intentionally failed to disclose to the trustee a liability of the bankrupt that existed at the date of the bankruptcy;
 
                       (i)  the bankrupt has failed, whether intentionally or not, to disclose to the trustee a liability of the bankrupt that existed at the date of the bankruptcy;
-
-                     (ia)  the bankrupt failed to comply with subparagraph 77(1)(a)(ii);
 
                       (j)  the bankrupt failed to comply with paragraph 77(1)(bb) or (bc) or subsection 80(1);
 
@@ -9677,7 +9583,7 @@ the Inspector-General must cancel the objection.
 
                      (c)  the bankrupt fails to establish that the bankrupt had a reasonable excuse for the conduct or failure that constituted the special ground.
 
-For this purpose, **_special ground_** means a ground specified in paragraph 149D(1)(ab), (d), (da), (e), (f), (g), (h), (ha), (ia), (k) or (ma).
+For this purpose, **_special ground_** means a ground specified in paragraph 149D(1)(ab), (d), (da), (e), (f), (g), (h), (ha), (k) or (ma).
 
           (1B)  In applying subsection (1A), no notice is to be taken of any conduct of the bankrupt after the time when the ground concerned first commenced to exist.
 
@@ -9779,15 +9685,7 @@ and, for the purposes of enabling the secured creditor or a person claiming thro
 
           (1A)  In determining whether there has been full payment of a debt that bears interest, the interest must be reckoned up to and including the date on which the debt (including interest) is paid.
 
-             (2)  The trustee must, before the end of the period of 2 days beginning on that date, give to the Official Receiver a written certificate setting out the former bankrupt’s name and bankruptcy number and the date of the annulment.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-             (3)  Subsection (2) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+             (2)  The trustee must, as soon as practicable after that date, give to the Official Receiver a written certificate setting out the former bankrupt’s name and bankruptcy number and the date of the annulment.
 
              (4)  For the purposes of this section, if a debt has been proved by a creditor but the creditor cannot be found or cannot be identified, the debt may be paid to the Official Receiver and, if so paid, is taken for the purposes of this section to have been paid in full to the creditor.
 
@@ -9804,16 +9702,6 @@ Note:          For strict liability, see section 6.1 of the 
              (1)  If the Court is satisfied that a sequestration order ought not to have been made or, in the case of a debtor’s petition, that the petition ought not to have been presented or ought not to have been accepted by the Official Receiver, the Court may make an order annulling the bankruptcy.
 
              (2)  In the case of a debtor’s petition, the order may be made whether or not the bankrupt was insolvent when the petition was presented.
-
-             (3)  The trustee must, before the end of the period of 2 days beginning on the day the trustee becomes aware of the order, give to the Official Receiver a written certificate setting out the former bankrupt’s name and bankruptcy number and the date of the annulment.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-             (4)  Subsection (3) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="154"></a>154  Effect of annulment
 
@@ -10127,11 +10015,9 @@ Note:          Sections 176 and 182 specify other circumstan
 
 ##### <a id="155J"></a>155J  After termination of registration
 
-             (1)  If a person ceases to be registered as a trustee for any reason, the person must give his or her certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day the person ceased to be registered.
+             (1)  If a person ceases to be registered as a trustee for any reason, the person must give his or her certificate of registration to the Inspector-General.
 
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+                    Penalty:  1 penalty unit.
 
           (1A)  Subsection (1) is an offence of strict liability.
 
@@ -10255,15 +10141,13 @@ the second trustee is, by force of this subsection, substituted for the first tr
 
 ##### <a id="161B"></a>161B  Trustee’s remuneration—minimum entitlement [_see_ Table B]
 
-             (1)  If the total remuneration payable to the trustee under section 162 would be less than the following amount (the **_statutory minimum_**):
+             (1)  If the total remuneration payable to the trustee under section 162 would be less than $1,109 (the **_statutory minimum_**), the trustee is entitled to be paid additional remuneration equal to the shortfall.
 
-                     (a)  $5,000;
+          (1A)  The statutory minimum (as affected by section 304A) is increased by 8.4% if the trustee’s remuneration is consideration for a taxable supply (within the meaning of the _A New Tax System (Goods and Services Tax) Act 1999_).
 
-                     (b)  if another amount is prescribed by the regulations for the purposes of this paragraph—that other amount;
+             (2)  If there are insufficient funds in the bankrupt’s estate to pay the trustee the amount (if any) payable under subsection (1), the trustee may recover that amount from the person who is or was the bankrupt as a debt due to the trustee by action in a court of competent jurisdiction.
 
-the trustee is entitled to be paid, from the funds in the bankrupt’s estate, additional remuneration equal to the shortfall.
-
-          (1A)  The statutory minimum is increased by 8.4% if the trustee’s remuneration is consideration for a taxable supply (within the meaning of the _A New Tax System (Goods and Services Tax) Act 1999_).
+             (3)  This section has effect subject to section 304A.
 
 ##### <a id="162"></a>162  Trustee’s remuneration—general [_see_ Table B]
 
@@ -10273,11 +10157,7 @@ the trustee is entitled to be paid, from the funds in the bankrupt’s estate, a
 
              (3)  Where the trustee carries on a business of the bankrupt, or a business is carried on by the bankrupt under the supervision of the trustee, the trustee may be paid additional remuneration in the form either of a periodical payment based on, or a commission at the rate prescribed by the regulations for the purposes of this subsection on, the amount by which the estate is increased by reason of the carrying on of that business by him or her or under his or her supervision.
 
-             (4)  If the remuneration of the trustee is not fixed by the creditors or the committee of inspection, the trustee may, in the circumstances prescribed by the regulations, make an application, in accordance with the regulations, to the Inspector-General for the Inspector-General to decide the trustee’s remuneration.
-
-          (4A)  If an application is made to the Inspector-General under subsection (4), the Inspector-General must, by writing, decide the trustee’s remuneration, having regard to the matters prescribed by the regulations.
-
-          (4B)  The Inspector-General must give written notice of his or her decision under subsection (4A) to the trustee and to the bankrupt and creditors.
+             (4)  Where the remuneration of the trustee is not fixed by the creditors or the committee of inspection, the trustee is to be remunerated as prescribed by the regulations.
 
           (5A)  The trustee must not withdraw funds from the bankrupt’s estate in respect of his or her remuneration at intervals of less than one week.
 
@@ -10339,53 +10219,25 @@ Note:          The remuneration may be in respect of work the 
 
              (3)  This section has effect subject to section 161B.
 
-##### <a id="166"></a>166  Payment to third parties
+##### <a id="167"></a>167  Taxation of costs
 
-                   The trustee must, in relation to the payment for services provided by another person in relation to the administration of a bankrupt’s estate, give such notices to the bankrupt and creditors of the bankrupt as are required by the regulations.
+             (1)  The trustee of a bankrupt’s estate may require a bill of costs for services provided by a person in relation to the administration of the estate to be taxed by a taxing officer. The trustee may make the requirement on the trustee’s own initiative, or at the request of the bankrupt or a creditor.
 
-##### <a id="167"></a>167  Review of remuneration etc.
+             (3)  A person whose bill of costs is required to be taxed may deliver for taxation a bill containing detailed items or a bill for a gross sum.
 
-Trustee’s remuneration
+             (4)  Where a bill of costs for a gross sum is delivered for taxation, the person by whom the bill is delivered shall furnish the taxing officer with such details of the costs covered by the bill as the taxing officer requires.
 
-             (1)  The regulations may make provision for and in relation to:
+             (5)  The taxing officer shall satisfy himself or herself before passing a bill that the employment of the person in respect of the particular matters out of which the costs arise was duly authorized and was reasonable and necessary.
 
-                     (a)  the Inspector-General reviewing decisions of the trustee of the estate of a bankrupt to withdraw, or to propose to withdraw, funds from the estate for payment of the trustee’s remuneration; and
+             (6)  Where the trustee proposes to distribute a final dividend, the trustee shall, not later than 28 days before the date on which the trustee proposes to do so, request each person whose bill of costs is required to be taxed to give the person’s bill to a taxing officer.
 
-                     (b)  the bankrupt or a creditor of the bankrupt applying for the review.
+             (7)  If a person so requested to deliver his or her bill fails to do so within 28 days after receipt of the request, the trustee shall declare and distribute the dividend without regard to any claim of that person in respect of the matters as to which the bill was requested and in that case neither the trustee nor the estate of the bankrupt is under any further liability in respect of the claim.
 
-Payment to third parties
+             (8)  A person interested may appeal to the Court from a decision of the taxing officer in allowing or disallowing a bill of costs or bill of charges or an item in such a bill.
 
-             (2)  The regulations may make provision for and in relation to:
+             (9)  In this section:
 
-                     (a)  the Inspector-General reviewing a bill of costs for services provided by a person (the **_third party_**) in relation to the administration of a bankrupt’s estate; and
-
-                     (b)  the trustee of the estate applying for the review.
-
-Content of regulations
-
-             (3)  The regulations may provide for:
-
-                     (a)  the powers available to the Inspector-General in relation to the review; and
-
-                     (b)  the trustee or the third party to provide information or documents to the Inspector-General; and
-
-                     (c)  the decisions that may be made by the Inspector-General in relation to the review; and
-
-                     (d)  the notification of decisions made by the Inspector-General.
-
-Repayment—trustee
-
-             (4)  The regulations may provide that, if the Inspector-General is satisfied that a withdrawal by the trustee of funds from the estate of the bankrupt for payment of the trustee’s remuneration exceeds the amount of remuneration the trustee is entitled to under this Division, the Inspector-General may require the trustee to repay the excess to that estate.
-
-             (5)  The amount of the excess is recoverable by the Inspector-General, as a debt due to the estate of the bankrupt, by action against the trustee in a court of competent jurisdiction.
-
-Appeal to the Court
-
-             (6)  The trustee, the bankrupt or a creditor of the bankrupt may appeal to the Court from a decision of the Inspector-General in relation to the review. In addition, if the review is of the kind mentioned in subsection (2), the third party may also appeal to the Court from a decision of the Inspector-General in relation to the review.
-
-Interpretation
-
-             (7)  Subsections (3) and (4) do not limit subsections (1) and (2).
+                    <a name="tax-offic"></a>**_taxing officer_** means a person appointed by the Inspector-General for the purposes of this section.
 
 ### Division 3—Accounts and audits
 
@@ -10393,9 +10245,7 @@ Interpretation
 
              (1)  A trustee of the estate of a bankrupt shall not pay into a private account any moneys received by him or her as trustee.
 
-                    Penalty:  10 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+                    Penalty:  $500.
 
              (2)  Subsection (1) is an offence of strict liability.
 
@@ -10438,20 +10288,6 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  The trustee shall, at the request of the bankrupt, furnish to the bankrupt information reasonably required by the bankrupt concerning his or her property or affairs.
 
-##### <a id="170A"></a>170A  Annual return
-
-             (1)  If, during a financial year, the trustee of the estate of a bankrupt administered the estate, the trustee must, within the period of 35 days after the end of that year, give the Inspector-General a return, in the approved form, in relation to the administration of that estate during that year.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-             (2)  Subsection (1) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (3)  This section does not apply in relation to the Official Trustee.
-
 ##### <a id="171"></a>171  Trustee to give and obtain receipts
 
              (1)  The trustee of the estate of a bankrupt must issue a receipt in respect of a payment into the estate if asked to do so by the person making the payment.
@@ -10463,8 +10299,6 @@ Note:          For strict liability, see section 6.1 of the 
              (1)  The trustee of the estate of a bankrupt shall keep such accounts and records as are necessary to exhibit a full and correct account of the administration of the estate and shall permit a creditor of the bankrupt to inspect, at all reasonable times, either personally or by an agent, the accounts and records relating to that estate.
 
                     Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
 
              (2)  Subsection (1) is an offence of strict liability.
 
@@ -10481,8 +10315,6 @@ Note:          For **_strict liability_**, see section 6.1 o
              (5)  For the purposes of an audit under this section, the trustee shall produce to the person carrying out the audit as and when required such books and information as that person requires.
 
                     Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
 
           (5A)  Subsection (5) is an offence of strict liability.
 
@@ -10556,11 +10388,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  If a registered trustee becomes bankrupt, becomes a party (as debtor) to a debt agreement or signs an authority under section 188, the trustee’s registration is cancelled.
 
-             (4)  Where a person registered as a trustee dies, the person (the **_affected person_**) administering the estate of the deceased person must, before the end of the period of 28 days beginning on the day the affected person started to administer the estate, give written notice of that death to the Official Receiver.
+             (4)  Where a person registered as a trustee dies, the person administering the estate of the deceased person shall forthwith notify, in writing, the Official Receiver of that fact.
 
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+                    Penalty:  $100.
 
              (5)  Subsection (4) is an offence of strict liability.
 
@@ -11236,18 +11066,6 @@ must pay all money received by the person from debtors under those debt agreemen
 
                      (b)  if the administrator maintains an account under subsection 185LD(1)—at least once every 45 days, reconcile the balance held in the subsection 185LD(1) account with the corresponding record maintained under paragraph (a).
 
-##### <a id="185LEA"></a>185LEA  Annual return
-
-             (1)  If, during a financial year, an administrator of a debt agreement administered the agreement, the administrator must, within the period of 35 days after the end of that year, give the Inspector-General a return, in the approved form, in relation to the administration of that agreement during that year.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-             (2)  Subsection (1) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
 ##### <a id="185LF"></a>185LF  Succession of administrator
 
 Scope
@@ -11732,11 +11550,9 @@ Note:          For the remuneration payable to the Official Tr
 
 ##### <a id="185ZA"></a>185ZA  Notification of death of administrator
 
-             (1)  If the administrator in relation to a debt agreement dies, the person (the **_affected person_**) administering the estate of the deceased person must, before the end of the period of 28 days beginning on the day the affected person started to administer the estate, give written notice of that death to the Official Receiver.
+             (1)  If the administrator in relation to a debt agreement dies, the person administering the estate of the deceased person must, as soon as practicable, give written notice of that fact to the Official Receiver.
 
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+                    Penalty:  1 penalty unit.
 
              (2)  Subsection (1) is an offence of strict liability.
 
@@ -12360,11 +12176,9 @@ Surrender of registration as a debt agreement administrator
 
                      (b)  the person gives a notice under subsection 186J(2) surrendering the person’s registration as a debt agreement administrator; and
 
-                     (c)  the person does not return the certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day the Inspector-General accepts the notice.
+                     (c)  the person does not return the certificate of registration to the Inspector-General as soon as practicable after the Inspector-General accepts the notice.
 
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+                    Penalty:  1 penalty unit.
 
              (2)  Subsection (1) does not apply if the person has a reasonable excuse.
 
@@ -12378,11 +12192,9 @@ Cancellation of an individual’s registration as a debt agreement administrator
 
                      (b)  the individual’s registration as a debt agreement administrator is cancelled under section 186K; and
 
-                     (c)  the individual does not return the certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day the individual is given a notice under subsection 186K(5) in relation to the cancellation.
+                     (c)  the individual does not return the certificate of registration to the Inspector-General as soon as practicable after the individual is given a notice under subsection 186K(5) in relation to the cancellation.
 
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+                    Penalty:  1 penalty unit.
 
              (4)  Subsection (3) does not apply if the individual has a reasonable excuse.
 
@@ -12396,11 +12208,9 @@ Cancellation of a company’s registration as a debt agreement administrator
 
                      (b)  the company’s registration as a debt agreement administrator is cancelled under section 186L; and
 
-                     (c)  the company does not return the certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day the company is given a notice under subsection 186L(5) in relation to the cancellation.
+                     (c)  the company does not return the certificate of registration to the Inspector-General as soon as practicable after the company is given a notice under subsection 186L(5) in relation to the cancellation.
 
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+                    Penalty:  1 penalty unit.
 
              (6)  Subsection (5) does not apply if the company has a reasonable excuse.
 
@@ -12414,11 +12224,9 @@ Cancellation by court order of registration as a debt agreement administrator
 
                      (b)  the person’s registration as a debt agreement administrator is cancelled as a result of an order under section 185ZCA; and
 
-                     (c)  the person does not return the certificate of registration to the Inspector-General before the end of the period of 7 days beginning on the day of the cancellation.
+                     (c)  the person does not return the certificate of registration to the Inspector-General as soon as practicable after the cancellation.
 
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+                    Penalty:  1 penalty unit.
 
           (6B)  Subsection (6A) does not apply if the person has a reasonable excuse.
 
@@ -13305,17 +13113,7 @@ is void unless the person or each of the persons gave written consent before the
 
                      (a)  notify each creditor of the debtor as soon as practicable after the debtor and the trustee have executed the agreement; and
 
-                     (b)  within 2 days after the execution of the agreement by the debtor and the trustee—file a copy of the agreement in the office of the Official Receiver.
-
-             (2)  The trustee commits an offence if the trustee fails to comply with a requirement under paragraph (1)(b).
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-          (2A)  Subsection (2) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+                     (b)  within 21 days after the execution of the agreement by the debtor and the trustee—file a copy of the agreement in the office of the Official Receiver.
 
              (3)  A trustee must notify creditors under paragraph (1)(a) in the way prescribed by the regulations.
 
@@ -13495,7 +13293,7 @@ Court may dispense with service on debtor of notice of application
 
            (12)  The Court may, if it thinks fit, dispense with service on the debtor of notice of an application by the Inspector-General, the trustee or a creditor under this section, either unconditionally or subject to conditions.
 
-##### <a id="222A"></a>222A  Termination of personal insolvency agreement by trustee
+##### <a id="222A"></a>222A  Termination of personal insolvency agreement by trustee
 
              (1)  The trustee of a personal insolvency agreement may, in writing, propose the termination of the agreement if the trustee is satisfied that the debtor is in default.
 
@@ -13647,23 +13445,11 @@ before he or she had notice of the order of the Court or of the termination of t
 
 ##### <a id="224A"></a>224A  Notice that a personal insolvency agreement has been set aside, varied or terminated
 
-             (1)  If a personal insolvency agreement is terminated or varied by a resolution or special resolution at a meeting of creditors called for the purpose, the trustee of the agreement must, before the end of the period of 2 days beginning on the day of the termination or variation, file a copy of the resolution or special resolution in the office of the Official Receiver.
+             (1)  If a personal insolvency agreement is terminated or varied by a resolution or special resolution at a meeting of creditors called for the purpose, the trustee of the agreement must immediately file a copy of the resolution or special resolution in the office of the Official Receiver.
 
-                    Penalty:  5 penalty units.
+             (2)  If a personal insolvency agreement is varied in accordance with subsection 221A(5), the trustee of the agreement must immediately file a copy of the variation in the office of the Official Receiver.
 
-Note:          See also section 277B (about infringement notices).
-
-             (2)  If a personal insolvency agreement is varied in accordance with subsection 221A(5), the trustee of the agreement must, before the end of the period of 2 days beginning on the day of the variation, file a copy of the variation in the office of the Official Receiver.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-             (3)  If a personal insolvency agreement is terminated by the occurrence of any circumstance or event on the occurrence of which the deed provides that it is to terminate, the trustee of the agreement must, before the end of the period of 2 days beginning on the day of the termination, give written notice of that fact to the Official Receiver.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+             (3)  If a personal insolvency agreement is terminated by the occurrence of any circumstance or event on the occurrence of which the deed provides that it is to terminate, the trustee of the agreement must immediately give written notice of that fact to the Official Receiver.
 
              (4)  If:
 
@@ -13671,11 +13457,7 @@ Note:          See also section 277B (about infringement not
 
                      (b)  a registered trustee was the trustee of the personal insolvency agreement;
 
-the registered trustee must, before the end of the period of 2 days beginning on the day the trustee becomes aware of the order, give written notice of the order to the Official Receiver.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+the registered trustee must give written notice of the order to the Official Receiver.
 
              (5)  If:
 
@@ -13684,10 +13466,6 @@ Note:          See also section 277B (about infringement not
                      (b)  a personal insolvency agreement is terminated otherwise than because of an order of the Court;
 
 the trustee of the personal insolvency agreement must give written notice of the order or termination to each of the creditors within 2 working days of the making of the order or of the termination, as the case may be.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
 
              (6)  For the purposes of subsection (5), a **_working day_** is a day that is not a Saturday, Sunday or public holiday in:
 
@@ -13698,10 +13476,6 @@ Note:          See also section 277B (about infringement not
                               (i)  if the trustee of the personal insolvency agreement has only one office—the place where that office is located; or
 
                              (ii)  if the trustee of the personal insolvency agreement has 2 or more offices—the place where the principal office is located.
-
-             (7)  Subsections (1), (2), (3), (4) and (5) are offences of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="225"></a>225  Evidence of personal insolvency agreement, resolution etc.
 
@@ -13915,15 +13689,7 @@ and if it is satisfied with the proof of those matters, may make an order that t
 
            (13)  Where proceedings have been commenced in a court for the administration of a deceased person’s estate under a law of a State or Territory, a petition for an order under this section in relation to the estate shall not be presented by a creditor except by leave of the Court and on such terms and conditions (if any) as the Court thinks fit.
 
-           (14)  If the Court makes an order that the estate be administered under this Part, the creditor who obtained the order must, before the end of the period of 2 days beginning on the day the order was made, give a copy of the order to the Official Receiver.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-           (15)  Subsection (14) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+           (14)  If the Court makes an order that the estate be administered under this Part, the creditor who obtained the order must give a copy of the order to the Official Receiver.
 
 ##### <a id="245"></a>245  Debtor dying after presentation of creditor’s petition
 
@@ -13931,15 +13697,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (2)  The matters of which the Court is to require proof before making such an order in a case to which subsection (1) applies are those of which the Court would have required proof before making a sequestration order on the petition if the deceased person had not died.
 
-             (3)  If the Court makes an order that the estate be administered under this Part, the creditor who obtained the order must, before the end of the period of 2 days beginning on the day the order was made, give a copy of the order to the Official Receiver.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-             (4)  Subsection (3) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+             (3)  If the Court makes an order that the estate be administered under this Part, the creditor who obtained the order must give a copy of the order to the Official Receiver.
 
 ##### <a id="246"></a>246  Statement of deceased debtor’s affairs etc. by legal personal representative
 
@@ -13949,9 +13707,7 @@ Note:          For strict liability, see section 6.1 of the 
 
                      (b)  give a copy of the statement to the Official Receiver.
 
-                    Penalty:  25 penalty units.
-
-Note:          See also section 277B (about infringement notices).
+                    Penalty:  5 penalty units. 
 
           (1A)  Subsection (1) is an offence of strict liability.
 
@@ -13978,16 +13734,6 @@ Note:          For **_strict liability_**, see section 6.1 o
                      (c)  was carrying on business in Australia, either personally or by means of an agent or manager; or
 
                      (d)  was a member of a firm or partnership carrying on business in Australia by means of a partner or partners, or of an agent or manager.
-
-             (3)  If the Court makes an order upon hearing the petition, the person administering the estate of the deceased person must, before the end of the period of 2 days beginning on the day the order was made, give a copy of the order to the Official Receiver.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-             (4)  Subsection (3) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
 ##### <a id="247A"></a>247A  Commencement of administration under Part
 
@@ -14295,15 +14041,7 @@ does not, if an order for the administration of the estate of that person is mad
 
              (1)  If the trustee of the estate of a deceased person is satisfied that all the debts of the estate of a deceased person have been paid in full, the order for the administration of the estate under this Part is annulled, by force of this subsection, on the date on which the last such payment was made.
 
-             (2)  The trustee must, before the end of the period of 2 days beginning on that date, give to the Official Receiver a written certificate setting out the name and the administration number of the estate and the date of the annulment.
-
-                    Penalty:  5 penalty units.
-
-Note:          See also section 277B (about infringement notices).
-
-             (3)  Subsection (2) is an offence of strict liability.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+             (2)  The trustee must, as soon as practicable after that date, give to the Official Receiver a written certificate setting out the name and the administration number of the estate and the date of the annulment.
 
              (4)  For the purposes of this section, if a debt has been proved by a creditor but the creditor cannot be found or cannot be identified, the debt may be paid to the Official Receiver and, if so paid, is taken for the purposes of this section to have been paid in full to the creditor.
 
@@ -14525,7 +14263,7 @@ the Official Trustee, Official Receiver or registered trustee, as the case may b
 
                             make a false claim or a declaration or statement of account that is untrue in any particular or lodge a proof of debt that is untrue in any particular.
 
-                    Penalty:  Imprisonment for 5 years.
+                    Penalty:  Imprisonment for 3 years.
 
              (2)  A person is guilty of an offence if:
 
@@ -14725,7 +14463,7 @@ Note:          See also subsection 5(6).
 
              (3)  A bankrupt shall not, with the intention of obtaining the consent of his or her creditors or any of them to any matter relating to any of the bankrupt’s examinable affairs, make a false representation or commit any fraud.
 
-                    Penalty:  Imprisonment for 5 years.
+                    Penalty:  Imprisonment for 3 years.
 
              (4)  A person who, after the presentation of a petition on which, or by virtue of the presentation of which, he or she becomes a bankrupt:
 
@@ -14743,13 +14481,13 @@ Note:          See also subsection 5(6).
 
 is guilty of an offence and is punishable, upon conviction, by imprisonment for a period not exceeding 1 year.
 
-             (5)  A person who, after the presentation of a petition on which, or by virtue of the presentation of which, he or she becomes a bankrupt, either alone or jointly with another person:
+             (5)  A person who, after the presentation of a petition on which, or by virtue of the presentation of which, he or she becomes a bankrupt:
 
                      (a)  obtains property by fraud; or
 
-                     (b)  incurs any debt or liability by fraud;
+                     (b)  in incurring any debt or liability, obtains credit by fraud;
 
-is guilty of an offence and is punishable, upon conviction, by imprisonment for a period not exceeding 5 years.
+is guilty of an offence and is punishable, upon conviction, by imprisonment for a period not exceeding 3 years.
 
              (6)  Subsections (4) and (5) extend to an act or omission done or made after the commencement of this Act where the petition was presented before the commencement of this Act but do not apply to an act or omission done or made after the person by whom it was done or made has been discharged from the bankruptcy or after his or her bankruptcy has been annulled.
 
@@ -14785,11 +14523,11 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="266"></a>266  Disposing or charging of property by person who becomes, or has become, a bankrupt
 
-             (1)  A person who, after the presentation of a petition on which, or by virtue of the presentation of which, he or she becomes a bankrupt disposes of, or creates a charge on, any property with intent to defraud his or her creditors is guilty of an offence and is punishable, upon conviction, by imprisonment for a period not exceeding 5 years.
+             (1)  A person who, after the presentation of a petition on which, or by virtue of the presentation of which, he or she becomes a bankrupt disposes of, or creates a charge on, any property with intent to defraud his or her creditors is guilty of an offence and is punishable, upon conviction, by imprisonment for a period not exceeding 3 years.
 
              (2)  Subsection (1) does not apply to the disposal of, or the creation of a charge on, property after the person by whom the disposal is effected or the charge is created is discharged from bankruptcy or after his or her bankruptcy has been annulled.
 
-             (3)  A person who has become a bankrupt after the commencement of this Act and, within 12 months before the presentation of the petition on which, or by virtue of the presentation of which, he or she became a bankrupt and after the commencement of this Act, has disposed of, or created a charge on, any property with intent to defraud his or her creditors is guilty of an offence and is punishable, upon conviction, by imprisonment for a period not exceeding 5 years.
+             (3)  A person who has become a bankrupt after the commencement of this Act and, within 12 months before the presentation of the petition on which, or by virtue of the presentation of which, he or she became a bankrupt and after the commencement of this Act, has disposed of, or created a charge on, any property with intent to defraud his or her creditors is guilty of an offence and is punishable, upon conviction, by imprisonment for a period not exceeding 3 years.
 
 ##### <a id="267"></a>267  False declaration by debtor or bankrupt
 
@@ -14797,15 +14535,11 @@ Note:          A defendant bears an evidential burden in relat
 
                      (a)  is filed under paragraph 54(1)(a) or (2)(a); or
 
-                    (aa)  accompanies a declaration presented under section 54A; or
-
                      (b)  accompanies a petition presented under paragraph 55(2)(b) or subsection 56B(1); or
 
                      (c)  is filed under paragraph 56F(1)(a) or (b); or
 
                      (d)  accompanies a petition presented under subsection 57(1); or
-
-                    (da)  is given to the Official Receiver under section 77CA; or
 
                      (e)  is given to the Official Receiver under:
 
@@ -14819,13 +14553,13 @@ Note:          A defendant bears an evidential burden in relat
 
                       (f)  is given under subsection 188(2C) or (2D).
 
-             (2)  A person must not make a declaration to which this section applies that the person knows to be false.
+             (2)  A person must not sign a declaration to which this section applies that the person knows to be false.
 
                     Penalty:  Imprisonment for 12 months.
 
 ##### <a id="267B"></a>267B  Failure of person to provide information
 
-             (1)  A person must not refuse or fail to comply with a notice given to the person under subsection 6A(3), subsection 77C(1) or section 77CA or 139V.
+             (1)  A person must not refuse or fail to comply with a notice given to the person under subsection 6A(3), subsection 77C(1) or section 139V.
 
                     Penalty:  Imprisonment for 12 months.
 
@@ -14931,7 +14665,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  A debtor who has executed a personal insolvency agreement under Part X shall not make a false representation or commit any fraud with the intention of obtaining the consent of his or her creditors or any of them to any matter relating to any of the debtor’s examinable affairs.
 
-                    Penalty:  Imprisonment for 5 years.
+                    Penalty:  Imprisonment for 3 years.
 
              (4)  Subsections (2) and (3) do not apply to an act or omission that is done or made after:
 
@@ -14959,15 +14693,15 @@ Note:          See also subsection 5(6).
 
                      (b)  disposed of, or created a charge on, any property with intent to defraud his or her creditors;
 
-is guilty of an offence and is punishable, upon conviction, if the offence relates to the doing of a thing specified in paragraph 265(5)(a) or (b) or a thing specified in paragraph (b) of this subsection, by imprisonment for a period not exceeding 5 years or, in any other case, by imprisonment for a period not exceeding 1 year.
+is guilty of an offence and is punishable, upon conviction, if the offence relates to the doing of a thing specified in paragraph 265(5)(a) or (b) or a thing specified in paragraph (b) of this subsection, by imprisonment for a period not exceeding 3 years or, in any other case, by imprisonment for a period not exceeding 1 year.
 
              (8)  It is a defence to a charge under this section (not being a charge under paragraph (2)(b) or (c) or subsection (3) of this section or a charge relating to the doing of a thing specified in paragraph 265(5)(a) or (b) or paragraph (7)(b) of this section) if the defendant proves that the act or omission to which the charge relates was done or made without intent to defraud any of his or her creditors.
 
-##### <a id="269"></a>269  Bankrupt or debtor who is a party to a debt agreement obtaining credit etc. without disclosing bankruptcy or debt agreement
+##### <a id="269"></a>269  Bankrupt obtaining credit etc. without disclosing bankruptcy
 
-             (1)  An undischarged bankrupt or a debtor who is a party to a debt agreement shall not:
+             (1)  An undischarged bankrupt shall not:
 
-                     (a)  either alone or jointly with another person, obtain credit to the extent of $3,000 or more from a person without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires);
+                     (a)  either alone or jointly with another person, obtain credit to the extent of $3,000 or more from a person without informing that person that he or she is an undischarged bankrupt;
 
                     (aa)  either alone or jointly with another person, obtain goods or services from a person:
 
@@ -14975,15 +14709,15 @@ is guilty of an offence and is punishable, upon conviction, if the offence relat
 
                              (ii)  by giving 2 or more such instruments under which the sums payable amount in the aggregate to $3,000 or more;
 
-                            without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires);
+                            without informing that person that he or she is an undischarged bankrupt;
 
-                    (ab)  either alone or jointly with another person, enter into a hire-purchase agreement with a person, or enter into a contract or agreement for the leasing or hiring of any goods from a person, being a hire-purchase agreement, contract or agreement under which the amounts payable to that person amount in the aggregate to $3,000 or more, without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires);
+                    (ab)  either alone or jointly with another person, enter into a hire-purchase agreement with a person, or enter into a contract or agreement for the leasing or hiring of any goods from a person, being a hire-purchase agreement, contract or agreement under which the amounts payable to that person amount in the aggregate to $3,000 or more, without informing that person that he or she is an undischarged bankrupt;
 
-                    (ac)  either alone or jointly with another person, obtain goods or services from a person by promising to pay that person or another person an amount of, or amounts aggregating, $3,000 or more without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires);
+                    (ac)  either alone or jointly with another person, obtain goods or services from a person by promising to pay that person or another person an amount of, or amounts aggregating, $3,000 or more without informing that person that he or she is an undischarged bankrupt;
 
-                    (ad)  either alone or jointly with another person, obtain an amount of, or amounts aggregating, $3,000 or more from a person by promising to supply goods to, or render services for, that person or another person without informing that person that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires); or
+                    (ad)  either alone or jointly with another person, obtain an amount of, or amounts aggregating, $3,000 or more from a person by promising to supply goods to, or render services for, that person or another person without informing that person that he or she is an undischarged bankrupt; or
 
-                     (b)  carry on business under an assumed name, in the name of another person or, either alone or in partnership, under a firm name without disclosing to every person with whom he or she or, if he or she is carrying on business in partnership under a firm name, the partnership deals, his or her true name and the fact that he or she is an undischarged bankrupt or a party to a debt agreement (as the case requires).
+                     (b)  carry on business under an assumed name, in the name of another person or, either alone or in partnership, under a firm name without disclosing to every person with whom he or she or, if he or she is carrying on business in partnership under a firm name, the partnership deals, his or her true name and the fact that he or she is an undischarged bankrupt.
 
              (2)  This section has effect subject to section 304A.
 
@@ -15025,7 +14759,7 @@ by gambling or by speculations that, having regard to his or her financial posit
 
                      (c)  after he or she has become a bankrupt and before he or she is discharged from the bankruptcy, without the consent in writing of the trustee of his or her estate, leaves Australia, or does an act preparatory to leaving Australia;
 
-is guilty of an offence and is punishable, on conviction, if the offence relates to the doing of a thing specified in paragraph (a) or (b), by imprisonment for a period not exceeding 5 years or, in any other case, by imprisonment for a period not exceeding 3 years.
+is guilty of an offence and is punishable, on conviction, by imprisonment for a period not exceeding 3 years.
 
              (2)  The trustee may impose written conditions on a consent given for the purposes of paragraph (1)(c). If the bankrupt is liable to make a contribution to the trustee under section 139P or 139Q, the conditions may include conditions regarding the payment of that contribution.
 
@@ -15088,353 +14822,6 @@ Note:          State and Territory courts are conferred jurisd
              (4)  A person is not required to retain books if the trustee or the Official Receiver, by written notice given to the person, has told the person that the retention of those books is not necessary.
 
                     Penalty:  Imprisonment for 6 months.
-
-##### <a id="277B"></a>277B  Infringement notices for offences
-
-             (1)  The regulations may make provision in relation to enabling a person who is alleged to have committed an offence of a kind referred to in the table in subsection (2) to pay to the Commonwealth, as an alternative to prosecution, a penalty of an amount worked out in accordance with subsection (2).
-
-             (2)  The amount of penalty payable to the Commonwealth under regulations made for the purposes of subsection (1) in respect of an offence is determined using the following table:
-
-<table><thead>
-  <tr>
-    <td colspan="2">
-      <div>
-        <b>Penalties payable</b>
-      </div>
-    </td>
-    <td>
-      <div> </div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>Alleged offence</b>
-      </div>
-    </td>
-    <td colspan="2">
-      <div>
-        <b>Penalty payable</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>subsection 52(1A)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>subsection 73(1A)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>subsection 74(5A)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>subsection 153A(2)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>subsection 153B(3)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>subsection 155J(1)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>7</div>
-  </td>
-  <td>
-    <div>subsection 168(1)</div>
-  </td>
-  <td colspan="2">
-    <div>2 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>8</div>
-  </td>
-  <td>
-    <div>subsection 170A(1)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>9</div>
-  </td>
-  <td>
-    <div>subsection 173(1)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>10</div>
-  </td>
-  <td>
-    <div>subsection 175(5)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>11</div>
-  </td>
-  <td>
-    <div>subsection 182(4)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>12</div>
-  </td>
-  <td>
-    <div>subsection 185LEA(1)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>13</div>
-  </td>
-  <td>
-    <div>subsection 185ZA(1)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>subsection 186N(1)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>15</div>
-  </td>
-  <td>
-    <div>subsection 186N(3)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>16</div>
-  </td>
-  <td>
-    <div>subsection 186N(5)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>17</div>
-  </td>
-  <td>
-    <div>subsection 186N(6A)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>18</div>
-  </td>
-  <td>
-    <div>subsection 218(2)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>19</div>
-  </td>
-  <td>
-    <div>subsection 224A(1)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>20</div>
-  </td>
-  <td>
-    <div>subsection 224A(2)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>21</div>
-  </td>
-  <td>
-    <div>subsection 224A(3)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>22</div>
-  </td>
-  <td>
-    <div>subsection 224A(4)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>23</div>
-  </td>
-  <td>
-    <div>subsection 224A(5)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>24</div>
-  </td>
-  <td>
-    <div>subsection 244(14)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>25</div>
-  </td>
-  <td>
-    <div>subsection 245(3)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>26</div>
-  </td>
-  <td>
-    <div>subsection 246(1)</div>
-  </td>
-  <td colspan="2">
-    <div>5 penalty units</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>27</div>
-  </td>
-  <td>
-    <div>subsection 247(3)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>28</div>
-  </td>
-  <td>
-    <div>subsection 252A(2)</div>
-  </td>
-  <td colspan="2">
-    <div>1 penalty unit</div>
-  </td>
-</tr></table>
 
 ## Part XV—Provisions relating to the Bankruptcy (Estate Charges) Act 1997
 
@@ -15750,6 +15137,8 @@ and does not specify the person by whom the application may be made or the perso
 
                      (g)  the amount of $3,000 referred to in paragraph 149D(1)(c); or
 
+                      (i)  the amount of $1,109 referred to in subsection 161B(1); or
+
                       (j)  each amount of $3,000 referred to in section 269;
 
 or, if any such amount has previously been altered under this section, the amount as so altered or last altered.
@@ -15758,11 +15147,13 @@ or, if any such amount has previously been altered under this section, the amoun
 
              (3)  Section 149D applies in relation to an act, omission or transaction by a bankrupt that constituted misleading conduct that took place or was entered into on a day during a quarter that begins after the date of commencement of the section concerned as if the indexable amount in that section were replaced by the amount worked out using the formula in subsection (6).
 
+             (4)  Section 161B applies in relation to a trustee who was appointed on a day during a quarter that begins after the date of commencement of that section as if the indexable amount in that section were replaced by the amount worked out using the formula in subsection (6).
+
              (5)  Section 269 applies in relation to an act, omission or transaction referred to in that section that took place or was entered into on a day during a quarter that begins after the date of commencement of section 41 of the _Bankruptcy Amendment Act 1991_ as if each indexable amount in section 269 were replaced by the amount worked out using the formula in subsection (6).
 
-             (6)  The formula for the purposes of subsections (2), (3) and (5) is: 
+             (6)  The formula for the purposes of subsections (2), (3), (4) and (5) is: 
 
-![](http://www.comlaw.gov.au/Details/C2010C00789/Html/Bankruptcy1966_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00553/Html/Bankruptcy1966_WD02_image003.gif)
 
 where:
 
@@ -15980,9 +15371,7 @@ and is also satisfied that the moneys in the estate of the bankrupt, the debtor 
 
                              (v)  the making of other requests or applications under this Act or the presentation or lodgment of other documents under this Act; and
 
-                     (k)  prescribe penalties not exceeding 10 penalty units for offences against the regulations; and
-
-                      (l)  provide for a person who is alleged to have committed an offence against the regulations to pay a penalty to the Commonwealth as an alternative to prosecution (being a penalty not exceeding one-fifth of the maximum fine that a court could impose on the person for that offence).
+                     (k)  prescribe penalties not exceeding 10 penalty units for offences against the regulations.
 
 ##### <a id="316"></a>316  Legislative instruments determining fees
 
@@ -16048,7 +15437,7 @@ For application, saving or transitional provisions made by the _Corporations (Re
 
 All relevant information pertaining to application, saving or transitional provisions prior to 25 October 1996 is not included in this compilation. For subsequent information _see_ Table A _._
 
-The _Bankruptcy Act 1966_ was modified by the _Bankruptcy Regulation__s 1__996_ (1996 No. 263 as amended 2003 No.76; 2004 No. 256; 2006 Nos. 4 and 137; 2010 No. 287) _see_ Table B.
+The _Bankruptcy Act 1966_ was modified by the _Bankruptcy Regulation__s 1__996_ (1996 No. 263 as amended 2003 No.76; 2004 No. 256; 2006 Nos. 4 and 137) _see_ Table B.
 
 ### Table of Acts
 
@@ -17909,13 +17298,13 @@ Schedule 2 (items 24, 26, 28): <i>(zp)</i></div>
     <div>14 July 2010</div>
   </td>
   <td>
-    <div>Schedule 1, Schedule 2 and Schedule 4 (items 5–10, 12, 13): 1 Dec 2010 ( <i>see</i>F2010L03074) 
+    <div>Schedule 1, Schedule 2 and Schedule 4 (items 5–10, 12, 13): \[ <i>see</i>Note 3 and Table A] 
 Schedule 3: 15 July 2010 
-Schedule 4 (items 1–4): 11 Aug 2010 
+Schedule 4 (items 1–4): 11 Aug 2010 
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 1 (item 17), Sch. 2 (item 84), Sch. 3 (item 17) and Sch. 4 (items 4, 13) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (item 17), Sch. 2 (item 84), Sch. 3 (item 17) and Sch. 4 (items 4, 13) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -18066,8 +17455,6 @@ _(zb)_  The _Bankruptcy Act 1966_ was amended by Schedule 1 (item 280) onl
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
                  (2)   Subject to this section, this Act commences at the commencing time.
-
- The proposed amendment to section 31A of the _Bankruptcy Act 1966_ made by Schedule 1 (item 280) of the _Public Employment (Consequential and Transitional) Amendment Act 1999_ had no effect as section 31A of the _Bankruptcy Act 1966_ was repealed by Schedule 1 (item 96) of the _Bankruptcy Legislation Amendment Act 1996_ before the amendment commenced.
 
 _(zc)_   The _Bankruptcy Act 1966_ was amended by Schedule 11 (item 3) only of the _A New Tax System (Tax Administration) Act 1999_, subsection 2(9)(b) of which provides as follows:
 
@@ -18929,7 +18316,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div></div>
   </td>
   <td>
-    <div>am. No. 44, 1996; No. 80, 2004; No. 34, 2006; No. 106, 2010</div>
+    <div>am. No. 44, 1996; No. 80, 2004; No. 34, 2006</div>
   </td>
 </tr>
 <tr>
@@ -19073,7 +18460,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 91, 1976; No. 12, 1980; No. 21, 1985; No. 168, 1986; Nos. 73 and 119, 1987; No. 9, 1992; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 44, 2007; No. 106, 2010</div>
+    <div>am. No. 91, 1976; No. 12, 1980; No. 21, 1985; No. 168, 1986; Nos. 73 and 119, 1987; No. 9, 1992; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 44, 2007</div>
   </td>
 </tr>
 <tr>
@@ -20081,7 +19468,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div></div>
   </td>
   <td>
-    <div>am. No. 44, 1996; No. 106, 2010</div>
+    <div>am. No. 44, 1996</div>
   </td>
 </tr>
 <tr>
@@ -20105,7 +19492,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div></div>
   </td>
   <td>
-    <div>am. No. 44, 1996; No. 106, 2010</div>
+    <div>am. No. 44, 1996</div>
   </td>
 </tr>
 <tr>
@@ -20241,7 +19628,7 @@ _(zq)_ Subsection 2(1) (item 11) of the _Fair Work (State Referral and Consequ
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 131, 2002; No. 106, 2010</div>
+    <div>am. No. 24, 2001; No. 131, 2002</div>
   </td>
 </tr>
 <tr>
@@ -20692,7 +20079,7 @@ of Div. 5 of Part IV</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 44, 1996; No. 131, 2002; No. 106, 2010</div>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
   </td>
 </tr>
 <tr>
@@ -20777,39 +20164,7 @@ of Div. 5 of Part IV</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64ZC</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64ZD</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 64ZE, 64ZF</div>
+    <div>Ss. 64ZC–64ZF</div>
   </td>
   <td>
     <div>ad. No. 9, 1992</div>
@@ -20981,7 +20336,7 @@ of Part IV</div>
     <div>S. 74</div>
   </td>
   <td>
-    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 106, 2010</div>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
   </td>
 </tr>
 <tr>
@@ -21134,14 +20489,6 @@ of Part IV</div>
   </td>
   <td>
     <div>am. Nos. 33 and 34, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77CA</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2010</div>
   </td>
 </tr>
 <tr>
@@ -23004,7 +22351,7 @@ of Part VI</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 131, 2002; No. 57, 2007; No. 106, 2010</div>
+    <div>am. No. 131, 2002; No. 57, 2007</div>
   </td>
 </tr>
 <tr>
@@ -23044,7 +22391,7 @@ of Part VI</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 131, 2002; No. 106, 2010</div>
+    <div>am. No. 131, 2002</div>
   </td>
 </tr>
 <tr>
@@ -23060,7 +22407,7 @@ of Part VI</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 131, 2002; No. 57, 2007; No. 106, 2010</div>
+    <div>am. No. 55, 2001; No. 131, 2002; No. 57, 2007</div>
   </td>
 </tr>
 <tr>
@@ -23193,7 +22540,7 @@ of Part VI</div>
 </tr>
 <tr>
   <td>
-    <div>S. 149M</div>
+    <div>Ss. 149M, 149N</div>
   </td>
   <td>
     <div>ad. No. 9, 1992</div>
@@ -23205,22 +22552,6 @@ of Part VI</div>
   </td>
   <td>
     <div>am. No. 131, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 149N</div>
-  </td>
-  <td>
-    <div>ad. No. 9, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 131, 2002; No. 106, 2010</div>
   </td>
 </tr>
 <tr>
@@ -23557,7 +22888,7 @@ of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 44, 1996; No. 131, 2002; No. 8, 2005; No. 106, 2010</div>
+    <div>am. No. 44, 1996; No. 131, 2002; No. 8, 2005</div>
   </td>
 </tr>
 <tr>
@@ -23573,7 +22904,7 @@ of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 44, 1996; No. 131, 2002; No. 106, 2010</div>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
   </td>
 </tr>
 <tr>
@@ -23781,7 +23112,7 @@ of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 24, 2001; No. 106, 2010</div>
+    <div>am. No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -23917,7 +23248,7 @@ of Part VII</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 44, 1996; No. 131, 2002; No. 106, 2010</div>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
   </td>
 </tr>
 <tr>
@@ -23933,7 +23264,7 @@ of Part VII</div>
     <div>S. 162</div>
   </td>
   <td>
-    <div>am. No. 12, 1980; No. 9, 1992; No. 44, 1996; No. 131, 2002; No. 106, 2010</div>
+    <div>am. No. 12, 1980; No. 9, 1992; No. 44, 1996; No. 131, 2002</div>
   </td>
 </tr>
 <tr>
@@ -24026,26 +23357,10 @@ of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 167</div>
   </td>
   <td>
     <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 106, 2010</div>
   </td>
 </tr>
 <tr>
@@ -24061,7 +23376,7 @@ of Part VII</div>
     <div>S. 168</div>
   </td>
   <td>
-    <div>am. No. 12, 1980; No. 44, 1996; No. 48, 1998; No. 24, 2001; No. 106, 2010</div>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 48, 1998; No. 24, 2001</div>
   </td>
 </tr>
 <tr>
@@ -24078,14 +23393,6 @@ of Part VII</div>
   </td>
   <td>
     <div>am. No. 12, 1980; No. 44, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 170A</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2010</div>
   </td>
 </tr>
 <tr>
@@ -24130,14 +23437,6 @@ of Part VII</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 173(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 174</div>
   </td>
   <td>
@@ -24159,14 +23458,6 @@ of Part VII</div>
   <td>
     <div>am. No. 12, 1980; No. 74, 1981; No. 115, 1990; 
 No. 44, 1996 (as am. by No. 11, 1997); No. 11, 1997; No. 24, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 175(5)</div>
-  </td>
-  <td>
-    <div>ad. No. 106, 2010</div>
   </td>
 </tr>
 <tr>
@@ -24452,4 +23743,4180 @@ of Part IX</div>
 </tr>
 <tr>
   <td>
-    <div><
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185EA–185ED</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185F</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185G</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185H</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185I</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185J</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185K</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185L</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 3A of Part IX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185LA–185LG</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 4</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part IX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185M</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185M(2)</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185M(3)</div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185MA–185MD</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 5</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185N</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. Nos. 86 and 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185NA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185P</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185P(2)</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185P(3)</div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185PA–185PD</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185Q</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185QA</div>
+  </td>
+  <td>
+    <div>ad. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185R</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185S</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185S</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 6</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185T</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185U</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185V</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185V</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 7</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 7 of Part IX.</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 185W</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185W</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185W(2)</div>
+  </td>
+  <td>
+    <div>rs. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185X</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185XA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185Y</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 185Y</div>
+  </td>
+  <td>
+    <div>rep. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185Z</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZA</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZB</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZC</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 185ZCA, 185ZCB</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 185ZD</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 8</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 8 of Part IX</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision A</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186A</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision B</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186B–186D</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186E</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186F–186H</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision C</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186J–186L</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186LA–186LE</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision D</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186M</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Subdivision E</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 186N</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 186P, 186Q</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part X</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part X</div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 187</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 187A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 2</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 188</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188A</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 188B</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 189</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AAA</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AA</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AB</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189AC</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 189A</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 189B</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 190</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 190</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 74, 1981; No. 119, 1987; No. 44, 1996; No. 86, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 190A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 191</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 192</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 193</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 194</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 194A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 195</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 196</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 197</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 198</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 199</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 200</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 201–203</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 204</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 204</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 205</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 205A</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 205A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 206</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 206</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 207</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 208</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 209</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 209</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 210</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 211</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 212</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 212A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 212B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 212C–212F</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Division 3</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 213</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 214</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215</div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 215A</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 215B</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 216</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 216</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 217</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 217</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 218</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 218</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 219</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 220</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 220</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 221</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 221</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 221A</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 222</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 222A–222D</div>
+  </td>
+  <td>
+    <div>ad. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 223</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 223A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 224</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 224A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 225</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 225</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 226</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 226</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 227</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 227</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 4 of Part X</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 228</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 229</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 230</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 231</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 231A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 232</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 5 of Part X</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 233</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 234</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 234A, 234B</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 235</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 236</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237AA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 237A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 6 
+of Part X</div>
+  </td>
+  <td>
+    <div>rs. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Div. 6 of Part X</div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 238</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 239</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 240</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 240A, 240B</div>
+  </td>
+  <td>
+    <div>ad. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 241</div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 242</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 193, 1985; No. 119, 1987; No. 9, 1992; No. 44, 1996; No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243AA</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 86, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 243A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 244</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 21, 1985; No. 44, 1996; No. 106, 2010</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 245</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 246</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 246</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 247</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 247A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 248</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 248A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 249</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 9, 1992; No. 82, 1993; No. 44, 1996; No. 62, 1997; No. 38, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 249A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 250</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 251, 252</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 252A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 252B, 252C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253</div>
+  </td>
+  <td>
+    <div>rep. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIA</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XIA</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253B</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 168, 1986; No. 115, 1990; No. 73, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253C</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253D</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253E</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 253F</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 254</div>
+  </td>
+  <td>
+    <div>am. No. 8, 2005</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 254</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980; No. 74, 1981; No. 44, 1996; No. 80, 2004; No. 8, 2005; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 255</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 256</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 257</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 258</div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 152, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 259</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 260</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 261</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 262</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 62, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XIV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263</div>
+  </td>
+  <td>
+    <div>am. No. 122, 1970; No. 12, 1980; No. 44, 1996; No. 137, 2000; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263A</div>
+  </td>
+  <td>
+    <div>ad. No. 122, 1970</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 263C</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 115, 1990; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264C</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264D</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 264E</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 265</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 265(2)</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 265A</div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 265A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1992; No. 24, 2001; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 266</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267B</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267C</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267D</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267E</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267F</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 267G</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 268</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 268</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 44, 1996; No. 24, 2001; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 268(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 24, 2001</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 268(6)</div>
+  </td>
+  <td>
+    <div>ad. No. 144, 2008</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 268A</div>
+  </td>
+  <td>
+    <div>ad. No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 137, 2000</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 269</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987; No. 9, 1992; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 270</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 271</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 272</div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 9, 1992; No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 273</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 106, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Note to s. 273(4)</div>
+  </td>
+  <td>
+    <div>ad. No. 106, 2009</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 274</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 275</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 276</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 276</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 277</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 277A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XV</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part XV</div>
+  </td>
+  <td>
+    <div>rs. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Part XV</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 278</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 119, 1987</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 279</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 280</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 281</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 282</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 283</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 284</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 285</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 48, 1998; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 286</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>ad. No. 11, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 287, 288</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 289</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 290–293</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 294</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 295</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 296–298</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 299, 300</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Part XVI</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Ss. 301, 302</div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 302A</div>
+  </td>
+  <td>
+    <div>ad. No. 82, 1993</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 302AB</div>
+  </td>
+  <td>
+    <div>ad. No. 62, 1997</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 302B</div>
+  </td>
+  <td>
+    <div>ad. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004; No. 57, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 303</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 303</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 304A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 131, 2002</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 305</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 9, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996; No. 131, 2002; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306A</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 119, 1987; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306B</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 74, 1981; No. 21, 1985; No. 119, 1987; No. 115, 1990; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 306C</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 74, 1981</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 308</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 309</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 310</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 143, 1992</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 311</div>
+  </td>
+  <td>
+    <div>am. No. 121, 1968; No. 44, 1996; No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 312</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 80, 2004</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to s. 313</div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 313</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976; No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 314</div>
+  </td>
+  <td>
+    <div>am. No. 91, 1976</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 315</div>
+  </td>
+  <td>
+    <div>am. No. 12, 1980; No. 99, 1988; No. 115, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rs. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 11, 1997; No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 316</div>
+  </td>
+  <td>
+    <div>ad. No. 34, 2006</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 34, 2006; No. 44, 2007</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to The Schedules .</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to First Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Schedule 1</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 1</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Second 
+Schedule</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Schedule 2</div>
+  </td>
+  <td>
+    <div>ad. No. 12, 1980</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Schedule 2</div>
+  </td>
+  <td>
+    <div>rep. No. 44, 1996</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Third, Fourth Schedules</div>
+  </td>
+  <td>
+    <div>rep. No. 12, 1980</div>
+  </td>
+</tr></table>
+
+### Note 2
+
+_Personal Property Securities (Consequential Amendments) Act 2009
+ (No. 131, 2009)_
+
+The following amendments commence on 1 February 2012 or an earlier time determined by the Minister (_see_ section 306 of the _Personal Property Securities Act 2009_):
+
+## Schedule 5
+
+## 5  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-grantor-debtor"></a>**_PPSA grantor or debtor_** (short for Personal Property Securities Act grantor or debtor), in relation to a PPSA security interest, means a grantor or debtor within the meaning of the _Personal Property Securities Act 2009_.
+
+## 6  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-parti"></a>**_PPSA secured party_**(short for Personal Property Securities Act secured party), in relation to a PPSA security interest, means a secured party within the meaning of the _Personal Property Securities Act 2009_.
+
+## 7  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-agreem"></a>**_PPSA security agreement_** (short for Personal Property Securities Act security agreement), in relation to a PPSA security interest, means a security agreement within the meaning of the _Personal Property Securities Act 2009_.
+
+## 8  Subsection 5(1)
+
+Insert:
+
+                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
+
+Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
+
+(a)    section 8 (interests to which the Act does not apply);
+
+(b)    section 12 (meaning of **_security interest_**);
+
+(c)    Chapter 9 (transitional provisions).
+
+Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
+
+## 9  Subsection 5(1) (definition of _secured creditor_)
+
+Repeal the definition, substitute:
+
+                    <a name="secur-critor"></a>**_secured creditor_**, in relation to a debtor, means:
+
+                     (a)  in the case of a debt secured by a PPSA security interest—the PPSA secured party in relation to the interest, if the interest:
+
+                              (i)  arose as security for the debt; and
+
+                             (ii)  is perfected (within the meaning of the _Personal Property Securities Act 2009_); or
+
+                     (b)  in the case of any other debt—a person holding a mortgage, charge or lien on property of the debtor as a security for a debt due to him or her from the debtor.
+
+## 10  Subsection 301(1)
+
+Omit “or in a licence”, substitute “, in a licence or in a PPSA security agreement”.
+
+## 11  Paragraphs 301(1)(a), (b) and (c)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  the contract, agreement, lease, hire-purchase agreement, licence or PPSA security agreement is to terminate, or may be terminated by the vendor, lessor, owner, licensor or PPSA secured party; or
+
+                     (b)  the operation of the contract, agreement, lease, hire-purchase agreement, licence or PPSA security agreement is to be modified; or
+
+                     (c)  property to which the contract, agreement, lease, hire-purchase agreement, licence or PPSA security agreement relates may be repossessed by or on behalf of the vendor, lessor, owner, licensor or PPSA secured party;
+
+## 12  Subsection 301(1)
+
+Omit “or licensee”, substitute “, licensee or PPSA grantor or debtor”.
+
+## 13  After subsection 301(2)
+
+Insert:
+
+          (2A)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
+
+Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
+
+## 14  Subsection 302(1)
+
+Omit “or charge” (first occurring), substitute “, charge or PPSA security agreement”.
+
+## 15  Paragraphs 302(1)(a) and (b)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  enabling the grantee, mortgagee, person entitled to the benefit of the lien or charge or PPSA secured party to exercise any power or remedy; or
+
+                     (b)  to the effect that the operation of the bill of sale, mortgage, lien, charge or PPSA security agreement is to be modified;
+
+## 16  Subsection 302(1)
+
+Omit “or person whose property is subject to the lien or charge”, substitute “, the person whose property is subject to the lien or charge or the PPSA grantor or debtor”.
+
+## 17  At the end of section 302
+
+Add:
+
+             (3)  This section extends to a PPSA security agreement entered into at or after the time this subsection commences.
+
+Note:          This subsection commenced at the registration commencement time within the meaning of section 306 of the _Personal Property Securities Act 2009_.
+
+As at 11 August 2010 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Bankruptcy Legislation Amendment Act 2010 (No. 106, 2010)_
+
+The following amendments commence on 14 January 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsections 64U(2) to (4)
+
+Repeal the subsections.
+
+## 2  Subsection 64U(5)
+
+Omit “A statement to be made by the trustee as mentioned in subsection (3)”, substitute “The trustee must then state the basis on which the trustee wishes to be remunerated. The statement”.
+
+## 3  Subsection 64U(5A)
+
+Omit “subsection (3)”, substitute “subsection (5)”.
+
+## 4  After subsection 64U(6)
+
+Insert:
+
+          (6A)  The President must invite the creditors and their representatives to propose a motion that the trustee be remunerated in accordance with the statement and, if no such motion is proposed, the trustee may propose such a motion.
+
+## 5  Subsection 64U(7)
+
+Omit “subsection (4)”, substitute “subsection (6A)”.
+
+## 6  After subsection 64U(7)
+
+Insert:
+
+          (7A)  If:
+
+                     (a)  the meeting is the first meeting of the bankrupt’s creditors and the trustee is a registered trustee; and
+
+                     (b)  the following apply:
+
+                              (i)  before the meeting the trustee had given a notice under section 64ZBA that contained a proposal relating to how the trustee was to be remunerated;
+
+                             (ii)  the notice satisfied subsections 64ZBA(2) and (2A);
+
+                            (iii)  the proposal was taken to have been passed under subsection 64ZBA(3);
+
+then subsections (1) to (7) of this section do not apply in relation to the meeting.
+
+## 7  After subsection 64ZBA(2)
+
+Insert:
+
+          (2A)  If the proposal relates to how the trustee is to be remunerated, the notice must also:
+
+                     (a)  if the trustee proposes to charge on a time-cost basis:
+
+                              (i)  if there is only one rate at which the remuneration is to be calculated—state that rate; or
+
+                             (ii)  otherwise—state the respective rates at which the remuneration of the trustee and the other persons who will be assisting, or will be likely to assist, the trustee in the performance of his or her duties are to be calculated; and
+
+                     (b)  if the trustee proposes to charge on the basis of a commission upon money received by the trustee—state the rate of that commission; and
+
+                     (c)  state the periods at which the trustee proposes to withdraw funds from the bankrupt’s estate in respect of the trustee’s remuneration; and
+
+                     (d)  include an estimate of the total amount of the trustee’s remuneration and an explanation of the likely impact of that remuneration on the dividends (if any) to creditors.
+
+## 8  Subsection 64ZD(1)
+
+Omit “subsection 64U(4)”, substitute “subsection 64U(6A)”.
+
+## 9  Subsection 161B(1)
+
+Repeal the subsection, substitute:
+
+             (1)  If the total remuneration payable to the trustee under section 162 would be less than the following amount (the **_statutory minimum_**):
+
+                     (a)  $5,000;
+
+                     (b)  if another amount is prescribed by the regulations for the purposes of this paragraph—that other amount;
+
+the trustee is entitled to be paid, from the funds in the bankrupt’s estate, additional remuneration equal to the shortfall.
+
+## 10  Subsection 161B(1A)
+
+Omit “(as affected by section 304A)”.
+
+## 11  Subsections 161B(2) and (3)
+
+Repeal the subsections.
+
+## 12  Subsection 162(4)
+
+Repeal the subsection, substitute:
+
+             (4)  If the remuneration of the trustee is not fixed by the creditors or the committee of inspection, the trustee may, in the circumstances prescribed by the regulations, make an application, in accordance with the regulations, to the Inspector-General for the Inspector-General to decide the trustee’s remuneration.
+
+          (4A)  If an application is made to the Inspector-General under subsection (4), the Inspector-General must, by writing, decide the trustee’s remuneration, having regard to the matters prescribed by the regulations.
+
+          (4B)  The Inspector-General must give written notice of his or her decision under subsection (4A) to the trustee and to the bankrupt and creditors.
+
+## 13  Section 167
+
+Repeal the section, substitute:
+
+##### <a id="166"></a>166  Payment to third parties
+
+                   The trustee must, in relation to the payment for services provided by another person in relation to the administration of a bankrupt’s estate, give such notices to the bankrupt and creditors of the bankrupt as are required by the regulations.
+
+##### <a id="167"></a>167  Review of remuneration etc.
+
+Trustee’s remuneration
+
+             (1)  The regulations may make provision for and in relation to:
+
+                     (a)  the Inspector-General reviewing decisions of the trustee of the estate of a bankrupt to withdraw, or to propose to withdraw, funds from the estate for payment of the trustee’s remuneration; and
+
+                     (b)  the bankrupt or a creditor of the bankrupt applying for the review.
+
+Payment to third parties
+
+             (2)  The regulations may make provision for and in relation to:
+
+                     (a)  the Inspector-General reviewing a bill of costs for services provided by a person (the **_third party_**) in relation to the administration of a bankrupt’s estate; and
+
+                     (b)  the trustee of the estate applying for the review.
+
+Content of regulations
+
+             (3)  The regulations may provide for:
+
+                     (a)  the powers available to the Inspector-General in relation to the review; and
+
+                     (b)  the trustee or the third party to provide information or documents to the Inspector-General; and
+
+                     (c)  the decisions that may be made by the Inspector-General in relation to the review; and
+
+                     (d)  the notification of decisions made by the Inspector-General.
+
+Repayment—trustee
+
+             (4)  The regulations may provide that, if the Inspector-General is satisfied that a withdrawal by the trustee of funds from the estate of the bankrupt for payment of the trustee’s remuneration exceeds the amount of remuneration the trustee is entitled to under this Division, the Inspector-General may require the trustee to repay the excess to that estate.
+
+             (5)  The amount of the excess is recoverable by the Inspector-General, as a debt due to the estate of the bankrupt, by action against the trustee in a court of competent jurisdiction.
+
+Appeal to the Court
+
+             (6)  The trustee, the ba
