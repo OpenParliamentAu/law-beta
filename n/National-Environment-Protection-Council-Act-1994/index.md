@@ -1,7 +1,7 @@
 
 National Environment Protection Council Act 1994
 Act No. 126 of 1994 as amended
-This compilation was prepared on 19 December 2003 taking into account amendments up to Act No. 82 of 2003
+This compilation was prepared on 15 September 2003 taking into account amendments up to Act No. 82 of 2003
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -36,72 +36,69 @@ Division 2—Making of national environment protection measures	9
 20	Variation or revocation of measures	12
 21	National environment protection measures to be disallowable instruments	13
 22	Failure to comply with procedural requirements	14
-Division 2A—Minor variation of national environment protection measures	15
-22A	Minor variation of measures	15
-22B	Public consultation for minor variation	15
-22C	Council to have regard to submissions etc.	16
-Division 3—Assessment and reporting on implementation and effectiveness of measures	17
-23	Report by Minister on implementation and effectiveness of measures	17
-24	Annual report of Council	17
-Part 4—Meetings of the Council and establishment and meetings of its Committees	18
-Division 1—Meetings of Council	18
-25	Convening of meetings	18
-26	Procedure at meetings	18
-27	Quorum	18
-28	Voting at meetings	18
-Division 2—Committees of Council	19
-29	NEPC Committee	19
-30	Chairperson of NEPC Committee	19
-31	Procedures of NEPC Committee	19
-32	Functions of NEPC Committee	19
-33	Other committees	20
-34	Withdrawal from Agreement	20
-Part 5—NEPC Service Corporation, NEPC Executive Officer and staff	21
-Division 1—The NEPC Service Corporation	21
-35	NEPC Service Corporation	21
-36	Functions of the Service Corporation	21
-37	Powers of the Service Corporation	22
-38	Contracts and leases	22
-Division 2—The NEPC Executive Officer	23
-39	NEPC Executive Officer	23
-40	NEPC Executive Officer to control Service Corporation	23
-41	NEPC Executive Officer to act in accordance with Council directions	23
-42	Remuneration and allowances	23
-43	Leave of absence	24
-44	Resignation	24
-45	Termination of office	24
-46	Terms and conditions not provided for by Act	25
-47	Acting NEPC Executive Officer	25
-48	Powers and functions of acting NEPC Executive Officer	25
-Division 3—Staff of the Service Corporation and consultants	26
-49	Public Service staff of Service Corporation	26
-50	Non‑Public Service staff of Service Corporation	26
-51	Staff seconded to Service Corporation	26
-52	Consultants	27
-Part 6—Finance	28
-53	Payments to Service Corporation by Commonwealth	28
-54	Payments to Service Corporation by States and Territories	28
-55	Money of Service Corporation	28
-56	Application of money of Service Corporation	28
-57	Estimates	29
-59	Application of the Commonwealth Authorities and Companies Act 1997	29
-Part 7—Miscellaneous	31
-60	Powers and functions conferred under corresponding legislation	31
-61	Delegation by Council	31
-62	Acts done by Council	31
-63	Regulations	32
-64	Review of operation of Act	32
-Schedule—Intergovernmental Agreement on the Environment	33
-Schedule 1—Data Collection and Handling	49
-Schedule 2—Resource Assessment, Land Use Decisions and Approval Processes	50
-Schedule 3—Environmental Impact Assessment	52
-Schedule 4—National Environment Protection Measures	54
-Schedule 5—Climate Change	59
-Schedule 6—Biological Diversity	61
-Schedule 7—National Estate	63
-Schedule 8—World Heritage	65
-Schedule 9—Nature Conservation	66
-Notes	71
+Division 3—Assessment and reporting on implementation and effectiveness of measures	15
+23	Report by Minister on implementation and effectiveness of measures	15
+24	Annual report of Council	15
+Part 4—Meetings of the Council and establishment and meetings of its Committees	16
+Division 1—Meetings of Council	16
+25	Convening of meetings	16
+26	Procedure at meetings	16
+27	Quorum	16
+28	Voting at meetings	16
+Division 2—Committees of Council	17
+29	NEPC Committee	17
+30	Chairperson of NEPC Committee	17
+31	Procedures of NEPC Committee	17
+32	Functions of NEPC Committee	17
+33	Other committees	18
+34	Withdrawal from Agreement	18
+Part 5—NEPC Service Corporation, NEPC Executive Officer and staff	19
+Division 1—The NEPC Service Corporation	19
+35	NEPC Service Corporation	19
+36	Functions of the Service Corporation	19
+37	Powers of the Service Corporation	20
+38	Contracts and leases	20
+Division 2—The NEPC Executive Officer	21
+39	NEPC Executive Officer	21
+40	NEPC Executive Officer to control Service Corporation	21
+41	NEPC Executive Officer to act in accordance with Council directions	21
+42	Remuneration and allowances	21
+43	Leave of absence	22
+44	Resignation	22
+45	Termination of office	22
+46	Terms and conditions not provided for by Act	23
+47	Acting NEPC Executive Officer	23
+48	Powers and functions of acting NEPC Executive Officer	23
+Division 3—Staff of the Service Corporation and consultants	24
+49	Public Service staff of Service Corporation	24
+50	Non‑Public Service staff of Service Corporation	24
+51	Staff seconded to Service Corporation	24
+52	Consultants	25
+Part 6—Finance	26
+53	Payments to Service Corporation by Commonwealth	26
+54	Payments to Service Corporation by States and Territories	26
+55	Money of Service Corporation	26
+56	Application of money of Service Corporation	26
+57	Estimates	27
+59	Application of the Commonwealth Authorities and Companies Act 1997	27
+Part 7—Miscellaneous	29
+60	Powers and functions conferred under corresponding legislation	29
+61	Delegation by Council	29
+62	Acts done by Council	29
+63	Regulations	30
+64	Review of operation of Act	30
+Schedule—Intergovernmental Agreement on the Environment	31
+Schedule 1—Data Collection and Handling	47
+Schedule 2—Resource Assessment, Land Use Decisions and Approval Processes	48
+Schedule 3—Environmental Impact Assessment	50
+Schedule 4—National Environment Protection Measures	52
+Schedule 5—Climate Change	57
+Schedule 6—Biological Diversity	59
+Schedule 7—National Estate	61
+Schedule 8—World Heritage	63
+Schedule 9—Nature Conservation	64
+Annexure AReservation by the Northern Territory	68
+Notes	69
 An Act to provide for the establishment of a National Environment Protection Council, and for related purposes
   
   
@@ -132,8 +129,6 @@ Agreement means the agreement made on 1 May 1992 between the Commonwealth, the 
 Australian Local Government Association means the Australian Local Government Association Limited.
 Council means the National Environment Protection Council established by section 8.
 member means a member of the Council.
-Ministerial Council means a council, comprising one or more Ministers of the Commonwealth and Ministers of one or more of the States or Territories, that includes environmental protection in its functions.
-minor variation, in relation to a national environment measure, means a decision made under subsection 22A(1) to vary a national environment measure.
 national environment protection goal means a goal:
 	(a)	that relates to desired environmental outcomes; and
 	(b)	that guides the formulation of strategies for the management of human activities that may affect the environment.
@@ -202,8 +197,7 @@ Division 1—Functions and powers
 	(d)	publish reports relating to the functions and powers of the Council; and
 	(e)	provide information to the public (including industry); and
 	(f)	consult with relevant Commonwealth, State and Territory bodies; and
-	(g)	consult with the Australian Local Government Association; and
-	(h)	direct the Service Corporation to provide assistance and support to other Ministerial Councils.
+	(g)	consult with the Australian Local Government Association.
 
 Division 2—Making of national environment protection measures
 14  Council may make national environment protection measures
@@ -275,7 +269,6 @@ Division 2—Making of national environment protection measures
 	(b)	a reference to a national environment protection measure were a reference to the variation or revocation of such a measure, as the case may be; and
 	(c)	a reference to a proposed national environment protection measure were a reference to a proposed variation or proposed revocation of such a measure, as the case may be; and
 	(d)	the reference in section 17 to the day on which paragraph 16(2)(b) has been fully complied with in all participating jurisdictions were a reference to the day on which paragraph (3)(b) of this section has been fully complied with in all participating jurisdictions.
-	(5)	Subsections (2) to (4) do not apply to a minor variation of a national environment protection measure under Division 2A.
 21  National environment protection measures to be disallowable instruments
 	(1)	A national environment protection measure is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901 .
 	(2)	A national environment protection measure laid before a House of Parliament in accordance with section 46A of the Acts Interpretation Act 1901 must be accompanied by:
@@ -289,33 +282,6 @@ national environment protection measure includes a variation or revocation of su
 	(a)	the Council fails to comply with a particular procedural requirement of this Act in making a national environment protection measure; but
 	(b)	despite that failure the Council has substantially complied with the procedural requirements of this Act for making that measure;
 the failure does not invalidate the measure so made.
-
-Division 2A—Minor variation of national environment protection measures
-22A  Minor variation of measures
-	(1)	The Council may vary any national environment protection measure if:
-	(a)	the variation is supported by a unanimous resolution of all of the members; and
-	(b)	the resolution states that the variation does not involve a significant change in the effect of the national environment protection measure.
-A variation under this section is a minor variation.
-	(2)	If the Council decides that a variation does not involve a significant change in the effect of the national environment protection measure, the Council must prepare:
-	(a)	a draft of the proposed variation; and
-	(b)	a statement relating to the variation that explains:
-	(i)	the reasons for the proposed variation; and
-	(ii)	the nature and effect of the proposed variation; and
-	(iii)	the reasons why the Council is satisfied that the variation is a minor variation.
-22B  Public consultation for minor variation
-	(1)	Before making a minor variation to a national environment protection measure, the Council must publish a notice:
-	(a)	stating how the draft of the proposed variation and the explanatory statement may be obtained; and
-	(b)	inviting submissions to the Council on the proposed variation, or on the explanatory statement, within a specified period.
-	(2)	A notice must:
-	(a)	be published in the Gazette; and
-	(b)	in each participating State or Territory concerned—also be published, on at least 1 day during the month when the Gazette notice is published, in a newspaper circulating in that State or Territory.
-	(3)	The period specified in each notice under subsection (1) must end not less than 1 month after the day on which paragraph (2)(b) has been fully complied with in all participating jurisdictions.
-22C  Council to have regard to submissions etc.
-		In making a minor variation to a national environment protection measure, the Council must have regard to:
-	(a)	any submissions it receives that relate to the proposed variation or the explanatory statement; and
-	(b)	whether the measure is consistent with section 3 of the Agreement; and
-	(c)	relevant international agreements to which Australia is a party; and
-	(d)	any regional environmental differences in Australia.
 
 Division 3—Assessment and reporting on implementation and effectiveness of measures
 23  Report by Minister on implementation and effectiveness of measures
@@ -385,8 +351,7 @@ Division 1—The NEPC Service Corporation
 36  Functions of the Service Corporation
 		The functions of the Service Corporation are:
 	(a)	to provide assistance and support to the Council, the NEPC Committee and any other committee established under section 33; and
-	(aa)	to provide assistance and support to other Ministerial Councils as directed by the Council; and
-	(b)	to do anything incidental or conducive to the performance of the function referred to in paragraph (a) or (aa).
+	(b)	to do anything incidental or conducive to the performance of the function referred to in paragraph (a).
 37  Powers of the Service Corporation
 	(1)	The Service Corporation has power to do all things that are necessary or convenient to be done for or in connection with the performance of the functions of the Corporation and, in particular, has power:
 	(a)	to enter into contracts; and
@@ -508,15 +473,11 @@ is, on mere production, receivable as prima facie evidence that the Council has 
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 64  Review of operation of Act
-Initial review after fifth anniversary of commencement of Act
 	(1)	The Council must cause a review of:
 	(a)	the operation of this Act and the Act of each other participating jurisdiction that corresponds to this Act; and
 	(b)	the extent to which the object set out in section 3 of each such Act has been achieved;
 to be undertaken as soon as possible after the fifth anniversary of the commencement of this Act.
 	(2)	The report of the review is to be tabled in each House of the Parliament within 12 months after the fifth anniversary of the commencement of this Act. 
-Subsequent 5 yearly reviews
-	(3)	As soon as possible after the end of every 5 year period following the review under subsection (1), the Council must cause a further review of the kind set out in subsection (1) to be undertaken.
-	(4)	The report of each further review is to be tabled in each House of the Parliament within 12 months after the end of the period to which it relates.
 Schedule—Intergovernmental Agreement on the Environment
   
   
@@ -928,19 +889,19 @@ Schedule 1 (items 623–626): 5 Dec 1999 (see Gazette 1999, No. S584) (b)
 National Environment Protection Council Amendment Act 2002
 142, 2002
 19 Dec 2002
-Schedule 1: 19 Dec 2003 Remainder: Royal Assent
+Schedule 1: [see (c) and Note 2] Remainder: Royal Assent
 —
 National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003
 82, 2003
 6 Sept 2003
-Schedule 1 (items 1, 2) and Schedule 2: [see (c), Note 2 and Table A]
+Schedule 1 (items 1, 2) and Schedule 2: [see (d), Note 3 and Table A]
 Sch. 2
 (a)	The National Environment Protection Council Act 1994 was amended by Schedule 2 (items 949 and 950) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
 (b)	The National Environment Protection Council Act 1994 was amended by Schedule 1 (items 623–626) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(c)	Subsection 2(1) (items 2 and 5) of the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 provides as follows:
+(c)	Subsection 2(1) (item 2) of the National Environment Protection Council Amendment Act 2002, provide as follows:
 	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
 Commencement information
@@ -950,9 +911,19 @@ Column 3
 Provision(s)
 Commencement
 Date/Details
+2.  Schedule 1
+A single day to be fixed by Proclamation, subject to subsection (3)
+[see Note 2]
+	(3)	If a provision covered by item 2 of the table does not commence within the period of 12 months beginning on the day on which this Act receives the Royal Assent, it commences on the first day after the end of that period.
+(d)	Subsection 2(1) (items 2 and 5) of the National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 provides as follows:
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+Provision(s)
+Commencement
+Date/Details
 2.  Schedule 1, items 1 and 2
 At the same time as section 3 of the National Transport Commission Act 2003 commences
-[see Note 2]
+[see Note 3]
 5.  Schedule 2
 At the same time as section 3 of the National Transport Commission Act 2003 commences
 [see Table A]
@@ -960,57 +931,75 @@ Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-Part 1
-
-S. 6	
-am. No. 142, 2002
-Part 3
-
-Division 1
-
-S. 13	
-am. No. 142, 2002
-Division 2
-
-S. 20	
-am. No. 142, 2002
-Division 2A
-
-Div. 2A of Part 3	
-ad. No. 142, 2002
-Ss. 22A–22C	
-ad. No. 142, 2002
-Part 5
-
-Division 1
-
-S. 36	
-am. No. 142, 2002
-Division 2
-
 S. 43	
 am. No. 146, 1999
-Division 3
-
 S. 49	
 am. No. 146, 1999
 S. 51	
 am. No. 146, 1999
-Part 6
-
 S. 56	
 am. No. 152, 1997
 S. 58	
 rep. No. 152, 1997
 S. 59	
 rs. No. 152, 1997
-Part 7
-
-Heading to s. 64(1)	
-ad. No. 142, 2002
-S. 64	
-am. No. 142, 2002
 Note 2
+National Environment Protection Council Amendment Act 2002  (No. 142, 2002)
+The following amendments commence on 19 December 2003 unless proclaimed earlier:
+Schedule 1
+1  Subsection 6(1)
+Insert:
+Ministerial Council means a council, comprising one or more Ministers of the Commonwealth and Ministers of one or more of the States or Territories, that includes environmental protection in its functions.
+2  Subsection 6(1)
+Insert:
+minor variation, in relation to a national environment measure, means a decision made under subsection 22A(1) to vary a national environment measure.
+3  At the end of section 13
+Add:
+	; and (h)	direct the Service Corporation to provide assistance and support to other Ministerial Councils.
+4  At the end of section 20
+Add:
+	(5)	Subsections (2) to (4) do not apply to a minor variation of a national environment protection measure under Division 2A.
+5  After Division 2 of Part 3
+Insert:
+Division 2A—Minor variation of national environment protection measures
+22A  Minor variation of measures
+	(1)	The Council may vary any national environment protection measure if:
+	(a)	the variation is supported by a unanimous resolution of all of the members; and
+	(b)	the resolution states that the variation does not involve a significant change in the effect of the national environment protection measure.
+A variation under this section is a minor variation.
+	(2)	If the Council decides that a variation does not involve a significant change in the effect of the national environment protection measure, the Council must prepare:
+	(a)	a draft of the proposed variation; and
+	(b)	a statement relating to the variation that explains:
+	(i)	the reasons for the proposed variation; and
+	(ii)	the nature and effect of the proposed variation; and
+	(iii)	the reasons why the Council is satisfied that the variation is a minor variation.
+22B  Public consultation for minor variation
+	(1)	Before making a minor variation to a national environment protection measure, the Council must publish a notice:
+	(a)	stating how the draft of the proposed variation and the explanatory statement may be obtained; and
+	(b)	inviting submissions to the Council on the proposed variation, or on the explanatory statement, within a specified period.
+	(2)	A notice must:
+	(a)	be published in the Gazette; and
+	(b)	in each participating State or Territory concerned—also be published, on at least 1 day during the month when the Gazette notice is published, in a newspaper circulating in that State or Territory.
+	(3)	The period specified in each notice under subsection (1) must end not less than 1 month after the day on which paragraph (2)(b) has been fully complied with in all participating jurisdictions.
+22C  Council to have regard to submissions etc.
+		In making a minor variation to a national environment protection measure, the Council must have regard to:
+	(a)	any submissions it receives that relate to the proposed variation or the explanatory statement; and
+	(b)	whether the measure is consistent with section 3 of the Agreement; and
+	(c)	relevant international agreements to which Australia is a party; and
+	(d)	any regional environmental differences in Australia.
+6  After paragraph 36(a)
+Insert:
+	(aa)	to provide assistance and support to other Ministerial Councils as directed by the Council; and
+7  At the end of paragraph 36(b)
+Add “or (aa)”.
+8  At the end of section 64
+Add:
+Subsequent 5 yearly reviews
+	(3)	As soon as possible after the end of every 5 year period following the review under subsection (1), the Council must cause a further review of the kind set out in subsection (1) to be undertaken.
+	(4)	The report of each further review is to be tabled in each House of the Parliament within 12 months after the end of the period to which it relates.
+Note:	The following heading to subsection 64(1) is inserted “Initial review after fifth anniversary of commencement of Act”.
+As at 15 September 2003 the amendments are not incorporated in this compilation.
+Note 3
 National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (No. 82, 2003)
 The following amendments commence on 6 June 2004 unless proclaimed earlier:
 Schedule 1
@@ -1018,7 +1007,7 @@ Schedule 1
 Omit “Road”.
 2  Paragraph 14(2)(b)
 Omit “National Road Transport Commission Act 1991”, substitute “National Transport Commission Act 2003”.
-As at 19 December 2003 the amendments are not incorporated in this compilation.
+As at 15 September 2003 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 National Transport Commission (Consequential Amendments and Transitional Provisions) Act 2003 (No. 82, 2003)
