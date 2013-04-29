@@ -1,25 +1,161 @@
-![](http://www.comlaw.gov.au/Details/C2004C02484/Html/BiologicalControl84_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02483/Html/BioControl84_image001.gif)
 
-# Biological Control Act 1984
+# Biological Control Act 1984 
 
 **Act No. 139 of 1984 as amended**
 
-This compilation was prepared on 17 July 2000
- taking into account amendments up to Act No. 92 of 1999
+Consolidated as in force on 19 March 1999
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+(includes amendments up to Act No. 15 of 1998)
 
 Prepared by the Office of Legislative Drafting,
  Attorney-General’s Department, Canberra
 
-# Contents
+ 
 
  
 
+Contents
+
+**Part I—Preliminary**
+
+1             Short title [_see_ Note 1]                                                                        
+
+2             Interpretation                                                                                      
+
+3             Biological control                                                                                 
+
+4             Extension of Act to external Territories                                              
+
+5             Saving of other laws                                                                            
+
+6             Act to bind Crown                                                                              
+
+7             Act not limited to agricultural pests                                                    
+
+8             Commonwealth Biological Control Authority                                    
+
+9             Relevant State laws                                                                             
+
+10           Delegation                                                                                            
+
+**Part II—Target organisms** 
+
+12           Target organisms                                                                                 
+
+13           Target application                                                                               
+
+14           Withdrawal of target application                                                         
+
+15           Referral of target application to Council                                             
+
+16           Notice of rejection of target application                                              
+
+17           Notice of proposed target organisms                                                  
+
+18           Consideration of submissions relating to target organisms               
+
+19           Inquiries relating to target organisms                                                 
+
+20           Declaration of target organisms                                                         
+
+**Part III—Agent organisms** 
+
+21           Agent organisms                                                                                
+
+22           Agent application                                                                              
+
+23           Withdrawal of agent application                                                       
+
+24           Referral of agent application to Council                                            
+
+25           Notice of rejection of agent application                                            
+
+26           Notice of proposed agent organisms                                                 
+
+27           Consideration of submissions relating to agent organisms                
+
+28           Inquiries relating to agent organisms                                                 
+
+29           Declaration of agent organisms                                                          
+
+**Part IV—Special declarations of target organisms and agent organisms** 
+
+30           Emergency declarations                                                                     
+
+31           Declarations of existing released organisms                                       
+
+32           Notice of proposed declaration under section 31                              
+
+33           Inquiries relating to declarations under section 31                            
+
+34           Declaration of organisms declared under relevant State law              
+
+**Part V—Release of agent organisms** 
+
+35           Release of agent organisms                                                                
+
+36           No legal proceedings to be instituted in respect of release of agent organisms         
+
+**Part VI—Biological control under State laws** 
+
+37           Legal proceedings not to be instituted                                               
+
+**Part VII—Inquiries** 
+
+38           Commissions of inquiry                                                                    
+
+39           Remuneration of Commissioners                                                      
+
+40           Notice of inquiries                                                                             
+
+41           Procedure at inquiries                                                                        
+
+42           Power to summon witnesses                                                             
+
+43           Failure of witness to attend                                                               
+
+44           Power to administer oath or affirmation                                           
+
+45           Refusal to be sworn or to answer questions                                     
+
+46           Protection of Commissioners and witnesses                                     
+
+47           False or misleading evidence                                                              
+
+48           Contempt of Commission                                                                 
+
+49           Powers of Commission in relation to documents produced              
+
+50           Allowances to witnesses                                                                   
+
+51           Witness not to be prejudiced                                                             
+
+**Part VIII—Miscellaneous** 
+
+52           Act not to render other controls illegal                                              
+
+53           Revocation of declarations                                                                
+
+54           Declarations continue in operation                                                    
+
+55           Service of documents on Authority                                                  
+
+56           Application for review                                                                      
+
+57           Regulations                                                                                        
+
+ 
+
+##  
+
 ## An Act to make provision for the biological control of pests in the Australian Capital Territory, and for related purposes
 
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
+
 ## Part I—Preliminary
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
@@ -31,7 +167,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="agent-applic"></a>**_agent application_** means an application under section 22.
 
-                    <a name="agent-organ"></a>**_agent organisms_** means organisms in respect of which there is in force a declaration by the Authority, under section 29, 30, 31 or 34, that the organisms are agent organisms for the purposes of this Act.
+                    <a name="agent-organ"></a>**_agent organisms_** means organisms in respect of which there is in force a declaration by the Authority, under section 29, 30, 31 or 34, that the organisms are agent organisms for the purposes of this Act.
 
                     <a name="agent-recommend"></a>**_agent recommendation_** means a recommendation to the Authority by the Council that organisms of a particular kind should be declared to be agent organisms for the purposes of this Act.
 
@@ -81,7 +217,7 @@ Prepared by the Office of Legislative Drafting,
 
                     <a name="target-applic"></a>**_target application_** means an application under section 13.
 
-                    <a name="target-organ"></a>**_target organisms_** means organisms in respect of which there is in force a declaration by the Authority, under section 20, 30, 31 or 34, that the organisms are target organisms for the purposes of this Act.
+                    <a name="target-organ"></a>**_target organisms_** means organisms in respect of which there is in force a declaration by the Authority, under section 20, 30, 31 or 34, that the organisms are target organisms for the purposes of this Act.
 
                     <a name="target-recommend"></a>**_target recommendation_** means a recommendation to the Authority by the Council that organisms of a particular kind should be declared to be target organisms for the purposes of this Act.
 
@@ -187,6 +323,8 @@ the Authority may, by notice published in the _Gazette_, declare that law to be 
 
 ## Part II—Target organisms
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="12"></a>12  Target organisms
 
              (1)  Subject to and in accordance with this Part, organisms of a particular kind may be declared to be target organisms for the purposes of this Act.
@@ -265,7 +403,7 @@ the Authority may, by notice published in the _Gazette_, declare that law to be 
 
                      (e)  where the recommendation of the Council followed a target application in relation to the organisms—inform the public that copies of the target application can be perused at a place specified in the notice; and
 
-                      (f)  invite any persons who object to, or support, the organisms being declared to be target organisms to submit written particulars of the grounds for that objection or support, as the case may be, to the Authority within the period of 6 weeks after the date of the publication of the notice in the _Gazette_, or within such further period as the Authority (either before or after the expiration of that period) allows.
+                      (f)  invite any persons who object to, or support, the organisms being declared to be target organisms to submit written particulars of the grounds for that objection or support, as the case may be, to the Authority within the period of 6 weeks after the date of the publication of the notice in the _Gazette_, or within such further period as the Authority (either before or after the expiration of that period) allows.
 
              (4)  Where the Authority publishes a notice under subsection (1) in relation to a target application, the Authority shall cause copies of the application to be available for perusal at the place specified in the notice in accordance with paragraph (3)(e).
 
@@ -287,13 +425,15 @@ the Authority may, by notice published in the _Gazette_, declare that law to be 
 
 considers that there is evidence that a person or the environment would be adversely affected by the control of organisms of the kind to which the recommendation relates but an adequate investigation or inquiry into the effect of such control has not been held, the Authority may:
 
-                     (e)  direct that an inquiry under Part VII be conducted in respect of the recommendation; or
+                     (e)  direct that an inquiry under Part VII be conducted in respect of the recommendation;
 
-                      (f)  arrange for the Minister who administers the _Productivity Commission Act 1998_ to refer the recommendation to the Productivity Commission for inquiry and report.
+                      (f)  arrange for the Minister who administers the _Productivity Commission Act 1998_ to refer the recommendation to the Productivity Commission for inquiry and report;
 
-          (1A)  Action shall not be taken under paragraph (1)(e) or (f) in respect of a target recommendation unless the Council, upon being consulted in accordance with paragraph (1)(b), has unanimously recommended that the action be taken.
+                     (g)  arrange for the Minister who administers the _Environment Protection (Impact of Proposals) Act 1974_ to direct that an inquiry be conducted under that Act in respect of the recommendation.
 
-             (2)  Where the Authority takes action under paragraph (1)(e) or (f) for an inquiry in relation to a target recommendation, the Authority shall not take any further action under this Act in relation to that recommendation unless and until the Authority has considered the report made as the result of that inquiry.
+          (1A)  Action shall not be taken under paragraph (1)(e), (f) or (g) in respect of a target recommendation unless the Council, upon being consulted in accordance with paragraph (1)(b), has unanimously recommended that the action be taken.
+
+             (2)  Where the Authority takes action under paragraph (1)(e), (f) or (g) for an inquiry in relation to a target recommendation, the Authority shall not take any further action under this Act in relation to that recommendation unless and until the Authority has considered the report made as the result of that inquiry.
 
 ##### <a id="20"></a>20  Declaration of target organisms
 
@@ -322,6 +462,8 @@ the Authority, subject to subsection (2), shall, by notice published in the _Gaz
              (2)  The Authority shall not make a declaration under subsection (1) in respect of a target recommendation unless the Council, upon being consulted in accordance with paragraph (1)(ba), has unanimously recommended that the declaration be made.
 
 ## Part III—Agent organisms
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="21"></a>21  Agent organisms
 
@@ -421,21 +563,23 @@ the Authority, subject to subsection (2), shall, by notice published in the _Gaz
 
                      (b)  consulting the Council regarding the appropriateness of action under this section in respect of that recommendation;
 
-                     (c)  considering the nature of, the proceedings in, and the findings of, any inquiry that the Authority considers relevant to the recommendation (which may be an inquiry under Part VII in respect of a target recommendation or an inquiry conducted on behalf of a State); and
+                     (c)  considering the nature of, the proceedings in, and the findings of, any inquiry that the Authority considers relevant to the recommendation (which may be an inquiry under Part VII in respect of a target recommendation or an inquiry conducted on behalf of a State); and
 
                      (d)  considering any reports relating to the recommendation made by any person or authority competent to do so that the Authority considers relevant;
 
 considers that there is evidence that a person or the environment would be adversely affected by the release of organisms of the kind to which the recommendation relates but an adequate investigation or inquiry into the effect of such a release has not been held, the Authority may:
 
-                     (e)  direct that an inquiry under Part VII be conducted in respect of the recommendation; or
+                     (e)  direct that an inquiry under Part VII be conducted in respect of the recommendation;
 
-                      (f)  arrange for the Minister who administers the _Industries Assistance Commission Act 1973_ to refer the recommendation to the Industries Assistance Commission for inquiry and report.
+                      (f)  arrange for the Minister who administers the _Industries Assistance Commission Act 1973_ to refer the recommendation to the Industries Assistance Commission for inquiry and report; or
 
-          (1A)  Action shall not be taken under paragraph (1)(e) or (f) in respect of an agent recommendation unless the Council, upon being consulted in accordance with paragraph (1)(b), has unanimously recommended that the action be taken.
+                     (g)  arrange for the Minister who administers the _Environment Protection (Impact of Proposals) Act 1974_ to direct that an inquiry be conducted under that Act in respect of the recommendation.
 
-             (2)  An inquiry by virtue of paragraph (1)(e) or (f) in respect of an agent recommendation that recommends that organisms of a particular kind should be declared to be agent organisms if organisms to which a target recommendation applies are declared to be target organisms and an inquiry by virtue of paragraph 19(1)(e) or (f), as the case may be, in respect of that target recommendation may be conducted as if they were one inquiry.
+          (1A)  Action shall not be taken under paragraph (1)(e), (f) or (g) in respect of an agent recommendation unless the Council, upon being consulted in accordance with paragraph (1)(b), has unanimously recommended that the action be taken.
 
-             (3)  Where the Authority takes action under paragraph (1)(e) or (f) for an inquiry in relation to an agent recommendation, the Authority shall not take any further action under this Act in relation to that recommendation unless and until the Authority has considered the report made as the result of that inquiry.
+             (2)  An inquiry by virtue of paragraph (1)(e), (f) or (g) in respect of an agent recommendation that recommends that organisms of a particular kind should be declared to be agent organisms if organisms to which a target recommendation applies are declared to be target organisms and an inquiry by virtue of paragraph 19(1)(e), (f) or (g), as the case may be, in respect of that target recommendation may be conducted as if they were one inquiry.
+
+             (3)  Where the Authority takes action under paragraph (1)(e), (f) or (g) for an inquiry in relation to an agent recommendation, the Authority shall not take any further action under this Act in relation to that recommendation unless and until the Authority has considered the report made as the result of that inquiry.
 
 ##### <a id="29"></a>29  Declaration of agent organisms
 
@@ -463,7 +607,7 @@ is satisfied:
 
 the Authority, subject to subsection (1A), shall, by notice published in the _Gazette_, declare the relevant organisms to be agent organisms for the purposes of this Act.
 
-          (1A)  The Authority shall not make a declaration under subsection (1) in respect of an agent recommendation unless the Council, upon being consulted in accordance with paragraph (1)(ba), has unanimously recommended that the declaration be made.
+          (1A)  The Authority shall not make a declaration under subsection (1) in respect of an agent recommendation unless the Council, upon being consulted in accordance with paragraph (1)(ba), has unanimously recommended that the declaration be made.
 
              (2)  A notice under subsection (1) declaring organisms of a particular kind to be agent organisms may set out conditions under which those organisms may be released, which conditions may be or include:
 
@@ -472,6 +616,8 @@ the Authority, subject to subsection (1A), shall, by notice published in the _Ga
                      (b)  conditions specifying the circumstances in which those organisms may be released.
 
 ## Part IV—Special declarations of target organisms and agent organisms
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="30"></a>30  Emergency declarations
 
@@ -495,7 +641,7 @@ the Authority, subject to subsection (1A), shall, by notice published in the _Ga
 
                      (e)  organisms of the second-mentioned kind to be agent organisms for the purposes of this Act.
 
-          (1A)  The Authority shall not make a declaration under subsection (1) in respect of an organism unless:
+          (1A)  The Authority shall not make a declaration under subsection (1) in respect of an organism unless:
 
                      (a)  the Authority has first consulted the Council regarding the appropriateness of action under this section in respect of that organism; and
 
@@ -521,7 +667,7 @@ the Authority, subject to subsection (1A), may, by notice published in the _Gaze
 
                      (d)  organisms of the first-mentioned kind to be agent organisms for the purposes of this Act.
 
-          (1A)  The Authority shall not make a declaration under subsection (1) in respect of an organism unless:
+          (1A)  The Authority shall not make a declaration under subsection (1) in respect of an organism unless:
 
                      (a)  the Authority has first consulted the Council regarding the appropriateness of action under this section in respect of that organism; and
 
@@ -537,7 +683,7 @@ the Authority, subject to subsection (1A), may, by notice published in the _Gaze
 
              (1)  Where the Authority is contemplating making a declaration under section 31, the Authority, subject to subsection (1A), may publish in the _Gazette_ and in such newspapers or journals as the Authority considers appropriate a notice that the Authority is contemplating making that declaration.
 
-          (1A)  The Authority shall not publish a notice under subsection (1) in respect of an organism unless:
+          (1A)  The Authority shall not publish a notice under subsection (1) in respect of an organism unless:
 
                      (a)  the Authority has first consulted the Council regarding the appropriateness of action under this section in respect of that organism; and
 
@@ -553,7 +699,7 @@ the Authority, subject to subsection (1A), may, by notice published in the _Gaze
 
                      (d)  invite any persons who object to, or support, the declaration being made to submit written particulars of the grounds for that objection or support, as the case may be, to the Authority within 6 weeks after the date of the publication of the notice in the _Gazette_, or within such further period as the Authority (either before or after the expiration of that period) allows.
 
-             (3)  Where the Authority publishes a notice under subsection (1) in relation to a contemplated declaration, the Authority shall not make that declaration unless and until the Authority has considered any submissions in response to an invitation referred to in paragraph (2)(d) in relation to the declaration.
+             (3)  Where the Authority publishes a notice under subsection (1) in relation to a contemplated declaration, the Authority shall not make that declaration unless and until the Authority has considered any submissions in response to an invitation referred to in paragraph (2)(d) in relation to the declaration.
 
 ##### <a id="33"></a>33  Inquiries relating to declarations under section 31
 
@@ -573,13 +719,15 @@ the Authority, subject to subsection (1A), may, by notice published in the _Gaze
 
 the Authority may:
 
-                     (c)  direct that an inquiry under Part VII be conducted in respect of the contemplated declaration; or
+                     (c)  direct that an inquiry under Part VII be conducted in respect of the contemplated declaration;
 
-                     (d)  arrange for the Minister who administers the _Industries Assistance Commission Act 1973_ to refer the contemplated declaration to the Industries Assistance Commission for inquiry and report.
+                     (d)  arrange for the Minister who administers the _Industries Assistance Commission Act 1973_ to refer the contemplated declaration to the Industries Assistance Commission for inquiry and report; or
 
-          (1A)  Action shall not be taken under paragraph (1)(c) or (d) in respect of a contemplated declaration unless the Council, upon being consulted in accordance with subparagraph (1)(b)(i), has unanimously recommended that the action be taken.
+                     (e)  arrange for the Minister who administers the _Environment Protection (Impact of Proposals) Act 1974_ to direct that an inquiry be conducted under that Act in respect of the contemplated declaration.
 
-             (2)  Where the Authority takes action under paragraph (1)(c) or (d) for an inquiry in relation to a contemplated declaration, the Authority shall not make that declaration unless and until the Authority has considered the report made as the result of the inquiry.
+          (1A)  Action shall not be taken under paragraph (1)(c), (d) or (e) in respect of a contemplated declaration unless the Council, upon being consulted in accordance with subparagraph (1)(b)(i), has unanimously recommended that the action be taken.
+
+             (2)  Where the Authority takes action under paragraph (1)(c), (d) or (e) for an inquiry in relation to a contemplated declaration, the Authority shall not make that declaration unless and until the Authority has considered the report made as the result of the inquiry.
 
 ##### <a id="34"></a>34  Declaration of organisms declared under relevant State law
 
@@ -600,6 +748,8 @@ the Authority shall, by notice published in the _Gazette_, declare those first-m
                      (b)  conditions specifying the circumstances in which those organisms may be released.
 
 ## Part V—Release of agent organisms
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="35"></a>35  Release of agent organisms
 
@@ -633,6 +783,8 @@ the Authority shall, by notice published in the _Gazette_, declare those first-m
 
 ## Part VI—Biological control under State laws
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="37"></a>37  Legal proceedings not to be instituted
 
              (1)  Subject to subsection (4), no action or other proceeding shall be instituted or continued in any court to recover damages in respect of any loss incurred, or any damage suffered, in a Territory by reason of the release of organisms in accordance with a relevant State law.
@@ -659,9 +811,11 @@ the Authority shall, by notice published in the _Gazette_, declare those first-m
 
 ## Part VII—Inquiries
 
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
+
 ##### <a id="38"></a>38  Commissions of inquiry
 
-             (1)  Where, in accordance with paragraph 19(1)(e), 28(1)(e) or 33(1)(c), the Authority directs that an inquiry be conducted under this Part, the Authority shall, after consulting the Council and having regard to any unanimous recommendation made by the Council, appoint a Commissioner or Commissioners to be a Commission to conduct that inquiry and may appoint a person or persons to advise the Commission.
+             (1)  Where, in accordance with paragraph 19(1)(e), 28(1)(e) or 33(1)(c), the Authority directs that an inquiry be conducted under this Part, the Authority shall, after consulting the Council and having regard to any unanimous recommendation made by the Council, appoint a Commissioner or Commissioners to be a Commission to conduct that inquiry and may appoint a person or persons to advise the Commission.
 
              (2)  Where there is more than one Commissioner, the Authority shall appoint one of the Commissioners to preside at the inquiry.
 
@@ -673,11 +827,11 @@ the Authority shall, by notice published in the _Gazette_, declare those first-m
 
                      (c)  any other relevant matters that the Commission considers it should inquire into.
 
-             (4)  The Commission shall report its findings and recommendations to the Authority and shall, after so reporting but subject to subsection (6), make public those findings and recommendations.
+             (4)  The Commission shall report its findings and recommendations to the Authority and shall, after so reporting but subject to subsection (6), make public those findings and recommendations.
 
              (5)  When the Authority appoints a Commissioner or Commissioners to be a Commission, the Authority may nominate a day as the day on which the Commission is to report its findings and recommendations to the Authority, and, where the Authority nominates a day, the Commission shall report its findings and recommendations to the Authority on or before that day or such later day as the Authority (before the nominated day) allows.
 
-             (6)  The Commission shall not make public any evidence or matters in respect of which directions have been given under paragraph 41(2)(b) or matters the publication of which is excepted from subsection 41(5).
+             (6)  The Commission shall not make public any evidence or matters in respect of which directions have been given under paragraph 41(2)(b) or matters the publication of which is excepted from subsection 41(5).
 
              (7)  Subject to this Act, a Commission is not subject to directions by the Authority, or otherwise by or on behalf of the Government of the Commonwealth, in or in relation to the conduct of an inquiry.
 
@@ -687,7 +841,7 @@ the Authority shall, by notice published in the _Gazette_, declare those first-m
 
              (2)  A Commissioner shall be paid such allowances as are prescribed.
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
 ##### <a id="40"></a>40  Notice of inquiries
 
@@ -727,7 +881,7 @@ the Authority shall, by notice published in the _Gazette_, declare those first-m
 
                      (b)  fail to appear and report himself or herself from day to day unless excused or released from further attendance by or on behalf of the Commission.
 
-                    Penalty:  $1,000 or imprisonment for 6 months, or both.
+                    Penalty: $1,000 or imprisonment for 6 months, or both.
 
 ##### <a id="44"></a>44  Power to administer oath or affirmation
 
@@ -743,7 +897,7 @@ the Authority shall, by notice published in the _Gazette_, declare those first-m
 
                      (c)  refuse or fail to produce a document that the person was required to produce by a summons under this Act served on him.
 
-                    Penalty:  $1,000 or imprisonment for 6 months, or both.
+                    Penalty: $1,000 or imprisonment for 6 months, or both.
 
 ##### <a id="46"></a>46  Protection of Commissioners and witnesses
 
@@ -769,7 +923,7 @@ the Authority shall, by notice published in the _Gazette_, declare those first-m
 
                      (b)  disrupt a hearing before a Commission.
 
-                    Penalty:  $2,000 or imprisonment for one year, or both.
+                    Penalty: $2,000 or imprisonment for one year, or both.
 
              (2)  An offence against subsection (1) is punishable on summary conviction.
 
@@ -795,7 +949,7 @@ the Authority shall, by notice published in the _Gazette_, declare those first-m
 
 a person for or on account of the last-mentioned person having appeared, or being about to appear, as a witness at an inquiry by a Commission or for or on account of any evidence given by the last-mentioned person before a Commission.
 
-                    Penalty:  $2,000 or imprisonment for one year, or both.
+                    Penalty: $2,000 or imprisonment for one year, or both.
 
              (2)  Without limiting the generality of subsection (1), an employer shall not:
 
@@ -816,6 +970,8 @@ a person for or on account of the last-mentioned person having appeared, or bein
                      (b)  if it is established that the employee was dismissed, or threatened with dismissal, from his or her employment, or was prejudiced, or threatened with prejudice, in his or her employment and that, before he or she was so dismissed, threatened with dismissal, prejudiced or threatened with prejudice, he or she proposed to appear as a witness, or to give evidence, at an inquiry by a Commission—the burden lies on the employer of proving that the employee was not so dismissed, threatened with dismissal, prejudiced or threatened with prejudice by reason that he or she proposed so to appear as a witness or to give evidence.
 
 ## Part VIII—Miscellaneous
+
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
 ##### <a id="52"></a>52  Act not to render other controls illegal
 
@@ -845,21 +1001,21 @@ the Authority shall revoke the declaration declaring those last-mentioned organi
 
              (1)  Application may be made to the Administrative Appeals Tribunal for review of:
 
-                     (a)  a decision of the Authority for the purposes of section 19 not to hold an inquiry; or
+                     (a)  a decision of the Authority for the purposes of section 19 not to hold an inquiry;
 
-                     (b)  a decision of the Authority for the purposes of section 20, being a decision that is inconsistent with a finding or recommendation of a Commission referred to in Part VII or the Industries Assistance Commission; or
+                     (b)  a decision of the Authority for the purposes of section 20, being a decision that is inconsistent with a finding or recommendation of a Commission referred to in Part VII, the Industries Assistance Commission, or a commission referred to in the _Environment Protection (Impact of Proposals) Act 1974_;
 
-                     (c)  a decision of the Authority under section 26 not to publish a notice in any newspaper or journal; or
+                     (c)  a decision of the Authority under section 26 not to publish a notice in any newspaper or journal;
 
-                     (d)  a decision of the Authority for the purposes of section 28 not to hold an inquiry; or
+                     (d)  a decision of the Authority for the purposes of section 28 not to hold an inquiry;
 
-                     (e)  a decision of the Authority for the purposes of section 29, being a decision that is inconsistent with a finding or recommendation of a Commission referred to in Part VII or the Productivity Commission; or
+                     (e)  a decision of the Authority for the purposes of section 29, being a decision that is inconsistent with a finding or recommendation of a Commission referred to in Part VII, the Productivity Commission, or a commission referred to in the _Environment Protection (Impact of Proposals) Act 1974_;
 
-                      (f)  a decision of the Authority for the purposes of section 30; or
+                      (f)  a decision of the Authority for the purposes of section 30;
 
-                     (g)  a decision of the Authority for the purposes of section 31, being a decision that is inconsistent with a finding or recommendation of a Commission referred to in Part VII or the Industries Assistance Commission; or
+                     (g)  a decision of the Authority for the purposes of section 31, being a decision that is inconsistent with a finding or recommendation of a Commission referred to in Part VII, the Industries Assistance Commission, or a commission referred to in the _Environment Protection (Impact of Proposals) Act 1974_;
 
-                     (h)  a decision of the Authority for the purposes of section 33 not to hold an inquiry; or
+                     (h)  a decision of the Authority for the purposes of section 33 not to hold an inquiry; or
 
                       (j)  a decision of the Authority under section 53 to revoke a declaration.
 
@@ -873,13 +1029,15 @@ the Authority shall revoke the declaration declaring those last-mentioned organi
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
-# Notes to the _Biological Control Act 1984_
+ 
 
-### Note 1
+# NOTE
 
-The _Biological Control Act 1984_ as shown in this compilation comprises Act No. 139, 1984 amended as indicated in the Tables below.
+1.   The _Biological Control Act 1984_ as shown in this consolidation comprises Act No. 139, 1984 amended as indicated in the Tables below.
 
 ### Table of Acts
+
+* * *
 
 <table>
 <colgroup>
@@ -890,25 +1048,27 @@ The _Biological Control Act 1984_ as shown in this compilation comprises Act No.
   <col width="14%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act</div>
-  </td>
-  <td>
-    <div>Number 
+<thead>
+  <tr>
+    <td>
+      <div>Act</div>
+    </td>
+    <td>
+      <div>Number 
 and year</div>
-  </td>
-  <td>
-    <div>Date 
+    </td>
+    <td>
+      <div>Date 
 of Assent</div>
-  </td>
-  <td>
-    <div>Date of commencement</div>
-  </td>
-  <td>
-    <div>Application, saving or transitional provisions</div>
-  </td>
-</tr>
+    </td>
+    <td>
+      <div>Date of commencement</div>
+    </td>
+    <td>
+      <div>Application, saving or transitional provisions</div>
+    </td>
+  </tr>
+</thead>
 <tr>
   <td>
     <div>Biological Control Act 1984</div>
@@ -1010,46 +1170,27 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Environmental Reform (Consequential Provisions) Act 1999</div>
-  </td>
-  <td>
-    <div>92, 1999</div>
-  </td>
-  <td>
-    <div>16 July 1999</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 19-37): 16 July 2000 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
  
 
 _(a)_     The _Biological Control Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.”
 
 _(b)_    The _Biological Control Act 1984_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 2) 1986_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.”
 
 _(c)_     The _Biological Control Act 1984_ was amended by section 3 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.”
 
 _(d)_     The _Biological Control Act 1984_ was amended by Schedule 4 (item 50) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
+                 “(1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.”
 
-_(e)_     The _Biological Control Act 1984_ was amended by Schedule 3 (items 19-37) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
-
-                 (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences. 
+ 
 
 ## Table of Amendments
 
@@ -1127,7 +1268,7 @@ _(e)_     The _Biological Control Act 1984_ was amended by Schedule 3 (i
     <div>S. 19</div>
   </td>
   <td>
-    <div>am. No. 168, 1986; No. 15, 1998; No. 92, 1999</div>
+    <div>am. No. 168, 1986; No. 15, 1998</div>
   </td>
 </tr>
 <tr>
@@ -1156,26 +1297,10 @@ _(e)_     The _Biological Control Act 1984_ was amended by Schedule 3 (i
 </tr>
 <tr>
   <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1986; No. 92, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29-32</div>
+    <div>Ss. 28-33</div>
   </td>
   <td>
     <div>am. No. 168, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 168, 1986; No. 92, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1207,8 +1332,10 @@ _(e)_     The _Biological Control Act 1984_ was amended by Schedule 3 (i
     <div>S. 56</div>
   </td>
   <td>
-    <div>am. No. 15, 1998; No. 92, 1999</div>
+    <div>am. No. 15, 1998</div>
   </td>
 </tr></table>
+
+ 
 
  
