@@ -1,9 +1,8 @@
 
 Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997
 Act No. 185 of 1997 as amended
-This compilation was prepared on 28 December 2002  taking into account amendments up to Act No. 51 of 2002
+This compilation was prepared on 26 July 2002  taking into account amendments up to Act No. 51 of 2002
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
   
@@ -26,13 +25,13 @@ Part 3—Assessment and collection of surcharge	11
 12	Superannuation providers to give statements	11
 13	Giving of information in certain form	14
 14	Assessment of liability to pay surcharge	15
-15	When surcharge will become payable	17
-15A	Periods within which assessments may be amended	20
-16	Amendment of assessment if tax file number quoted or found out after assessment	24
+15	When surcharge will become payable	16
+15A	Periods within which assessments may be amended	19
+16	Amendment of assessment if tax file number quoted or found out after assessment	23
 17	Amendment of assessments	24
-18	Liability to pay the general interest charge if liability increased by an amendment of an assessment	26
-19	Tax file numbers	27
-20	Objections against assessments	27
+18	Liability to pay the general interest charge if liability increased by an amendment of an assessment	25
+19	Tax file numbers	26
+20	Objections against assessments	26
 Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty	28
 21	Penalty for non‑payment of surcharge	28
 Part 5—Administration	29
@@ -50,7 +49,7 @@ Part 6—Miscellaneous	33
 37	Regulations	37
 Part 7—Interpretation	38
 38	Definitions	38
-Notes	45
+Notes		45
 An Act relating to the assessment and collection of superannuation contributions tax on members of constitutionally protected superannuation funds, and for related purposes
 Part 1—Preliminary
   
@@ -168,15 +167,12 @@ Superannuation provider to give statement to Commissioner at end of financial ye
 	(a)	the member’s name, the address of the member’s place of residence or place of business or employment, the date of the member’s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member’s tax file number; and
 	(b)	the particulars referred to in subsection (5); and
 	(c)	any other matters required by the regulations.
-Superannuation provider that pays out contributed amounts
-	(3)	If, after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996, any of the contributed amounts in relation to the member were or are paid by a superannuation provider:
-	(a)	to the member; or
-	(b)	to the member, or to a person other than a member, under a payment split;
-then the provider must, not later than the notification date for the financial year in which the payment was or is made or such later date (if any) as the Commissioner allows, give the Commissioner a statement setting out:
-	(c)	the member’s name, the address of the member’s place of residence or place of business or employment, the date of the member’s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member’s tax file number; and
-	(d)	the particulars referred to in subsection (5); and
-	(e)	the date of the payment; and
-	(f)	any other information required by the regulations.
+Superannuation provider that pays out contributed amounts to the member
+	(3)	If, after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996, any of the contributed amounts in relation to the member were or are paid by a superannuation provider to the member, the provider must, not later than the notification date for the financial year in which the payment was or is made or such later date (if any) as the Commissioner allows, give the Commissioner a statement setting out:
+	(a)	the member’s name, the address of the member’s place of residence or place of business or employment, the date of the member’s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member’s tax file number; and
+	(b)	the particulars referred to in subsection (5); and
+	(c)	the date of the payment; and
+	(d)	any other information required by the regulations.
 Information to be given to member 
 	(4)	A superannuation provider who is required to give a statement to the Commissioner under subsection (2) or (3) for a financial year earlier than the 1998‑99 financial year must, not later than 12 months after the statement is given, give to the member the particulars referred to in subsection (5) that are required to be included in the statement.
 Member may request provider to give particulars
@@ -191,14 +187,12 @@ Particulars to be included in statements
 	(i)	if any of those amounts are amounts referred to in subparagraph (a)(i) of the definition of contributed amounts in section 38—the total of so much of those amounts as are taxable contributions referred to in subparagraph 9(2)(c)(i); and
 	(ii)	the total of any of those amounts that are amounts referred to in subparagraph (a)(ii) or (iii) of that definition; and
 	(b)	if the statement is given by a superannuation (defined benefits) provider—the amount of the surchargeable contributions of the member for the financial year.
-	(6)	If:
-	(a)	a lump sum, or a pension, becomes payable by a superannuation provider for the benefit of a member; or
-	(b)	a payment split applies to a splittable payment in respect of an interest that a person has as a member;
-then the provider must give the Commissioner a statement setting out:
-	(c)	the member’s name, the address of the member’s place of residence or place of business or employment, the date of the member’s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member’s tax file number; and
-	(d)	the date on which the lump sum or pension became payable; and
-	(e)	the particulars in relation to the benefits referred to in paragraph 15(6)(b) or (6AA)(d) (as the case requires); and
-	(f)	any other information required by the regulations.
+Superannuation provider to give statement to Commissioner when benefit becomes payable
+	(6)	If a lump sum, or a pension, becomes payable by a superannuation provider for the benefit of a member, the provider must give the Commissioner a statement setting out:
+	(a)	the member’s name, the address of the member’s place of residence or place of business or employment, the date of the member’s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member’s tax file number; and
+	(b)	the date on which the lump sum or pension became payable; and
+	(c)	the particulars in relation to the benefits referred to in paragraph 15(6)(b); and
+	(d)	any other information required by the regulations.
 Particulars to be included in statement under subsection (6)
 	(7)	The statement required to be given by a superannuation provider to the Commissioner under subsection (6) is to be given before:
 	(a)	if the provider is informed by the member, on or before the tenth day of the month after the month (the payment month) in which the lump sum was paid or the pension began to be paid, that:
@@ -207,10 +201,6 @@ Particulars to be included in statement under subsection (6)
 		the end of the 14th day of the second month after the payment month; or
 	(b)	otherwise—the end of the 14th day of the month after the payment month;
 or before the end of such further period as the Commissioner allows.
-Definitions
-	(8)	In this section:
-payment split means a payment split under Part VIIIB of the Family Law Act 1975.
-splittable payment has the same meaning as in Part VIIIB of the Family Law Act 1975.
 13  Giving of information in certain form
 Notice stating how information to be given
 	(1)	The Commissioner may, by notice published in the Gazette, set out the way in which information to be contained in a statement under section 12 is to be given.
@@ -265,25 +255,19 @@ Rate of interest
 	(a)	if any Treasury bonds with that term were issued on that day—the annual yield on those bonds; or
 	(b)	otherwise—the annual yield on Treasury bonds with that term, as published by the Reserve Bank of Australia for that day.
 Payment to be made when benefit becomes payable
-	(6)	Subject to subsection (6AA), when a lump sum, or a pension, becomes payable by a superannuation provider for the benefit of a member whose surcharge debt account is in debit, the member is liable to pay to the Commissioner the lesser of:
+	(6)	When a lump sum, or a pension, becomes payable by a superannuation provider for the benefit of a member whose surcharge debt account is in debit, the member is liable to pay to the Commissioner the lesser of:
 	(a)	the amount by which the account is in debit; or
 	(b)	15% of the employer‑financed component of that part of the benefits payable to the member that accrued after 20 August 1996.
-	(6AA)	If:
-	(a)	a payment split applies to a splittable payment in respect of an interest that a person has as a member; and
-	(b)	the splittable payment becomes payable in circumstances where the member’s surcharge account is in debit;
-then the member is liable to pay to the Commissioner the lesser of:
-	(c)	the amount by which the account is in debit; and
-	(d)	15% of the employer‑financed component of that part of the benefits that would have been payable to the member but for the payment split and that accrued after 20 August 1996.
 Payment to be made if fund ceases to be a constitutionally protected superannuation fund
 	(6A)	If a superannuation fund ceases to be a constitutionally protected superannuation fund at a time when a member’s surcharge debt account is in debit, the member is liable to pay to the Commissioner the lesser of:
 	(a)	the amount by which the account is in debit; or
 	(b)	15% of the employer‑financed component of that part of the value of the age retirement benefits of the member at the time when the fund ceased to be a constitutionally protected superannuation fund that accrued after 20 August 1996.
-	(7)	If a member becomes liable to pay an amount to the Commissioner under subsection (6), (6AA) or (6A), the Commissioner must give the member a notice stating that the member is liable to pay the amount. The notice must contain the date on which it is issued.
+	(7)	If a member becomes liable to pay an amount to the Commissioner under subsection (6) or (6A), the Commissioner must give the member a notice stating that the member is liable to pay the amount. The notice must contain the date on which it is issued.
 	(8)	The amount is payable within 3 months after the date of issue of the notice and the notice is to state that the amount is so payable. Payment of the amount results in a nil balance in the account.
 Note:	For provisions about collection and recovery of superannuation contributions surcharge and other related amounts, see Part 4‑15 in Schedule 1 to the Taxation Administration Act 1953.
 Person may direct superannuation provider to pay amount to Commissioner
 	(8A)	If:
-	(a)	a person is liable to pay an amount to the Commissioner under subsection (6) or (6AA); and
+	(a)	a person is liable to pay an amount to the Commissioner under subsection (6); and
 	(b)	neither a lump sum nor a pension is payable by the superannuation provider for the benefit of the person because the person has become:
 	(i)	a member of another superannuation fund; or
 	(ii)	a member of an approved deposit fund; or
@@ -301,10 +285,6 @@ What happens if debt reduced
 	(a)	acknowledge receipt of the payment to the member; and
 	(b)	credit the payment to the surcharge debt account; and
 	(c)	notify the member of the revised balance of the surcharge debt account.
-Definitions
-	(11)	In this section:
-payment split means a payment split under Part VIIIB of the Family Law Act 1975.
-splittable payment has the same meaning as in Part VIIIB of the Family Law Act 1975.
 15A  Periods within which assessments may be amended
 General provision
 	(1)	The Commissioner may, subject to this section, at any time amend an assessment of surcharge on a member’s surchargeable contributions by making such alterations or additions as the Commissioner thinks necessary, even though surcharge has been paid in respect of the assessment. Such an amendment may be made on the Commissioner’s own initiative or at the request of the member.
@@ -692,7 +672,7 @@ Sch. 2 (item 8)
 Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001
 114, 2001
 18 Sept 2001
-(j)
+[see (j) and Note 2]
 —
 as amended by
 
@@ -702,7 +682,7 @@ as amended by
 Taxation Laws Amendment (Superannuation) Act (No. 2) 2002
 51, 2002
 29 June 2002
-Schedule 6 (items 3‑7): Royal Assent 
+Schedule 6 (items 3‑7): Royal Assent [see Note 2]
 —
 Taxation Laws Amendment Act (No. 5) 2001
 168, 2001
@@ -741,11 +721,10 @@ Schedule 6 (item 8): Royal Assent
 (i)	The Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997 was amended by Schedule 2 only of the Superannuation Contributions Taxes and Termination Payments Tax Legislation Amendment Act 2001, subsection 2(3) of which provides as follows:
 	(3)	Schedule 2 is taken to have commenced on 7 December 1997, immediately after the commencement of the Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997.
 (j)	Section 2 of the Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001 provides as follows:
-	2	This Act commences immediately after the commencement of the Family Law Legislation Amendment (Superannuation) Act 2001.
-	The Family Law Legislation Amendment (Superannuation) Act 2001 came into operation on 28 December 2002.
+	2	This Act commences immediately after the commencement of the Family Law Legislation Amendment (Superannuation) Act 2001. [see Note 2]
 
 Table of Amendments
-ad. = added or inserted    am. = amended     rep. = repealed     rs. = repealed and substituted
+ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
 S. 6	
@@ -757,13 +736,13 @@ am. No. 131, 1999; Nos. 96 and 168, 2001
 S. 11	
 am. No. 131, 1999
 S. 12	
-am. No. 131, 1999; No. 96, 2001; No. 114, 2001 (as am. by No. 51, 2002)
+am. No. 131, 1999; No. 96, 2001
 S. 14	
 rs. No. 131, 1999
 
 am. No. 168, 2001
 S. 15	
-am. No. 131, 1999; No. 44, 2000; No. 168, 2001; No. 51, 2002; No. 114, 2001 (as am. by No. 51, 2002)
+am. No. 131, 1999; No. 44, 2000; No. 168, 2001; No. 51, 2002
 Note to s. 15(8)	
 ad. No. 44, 2000
 S. 15A	
@@ -808,6 +787,72 @@ am. No. 44, 1999
 rep. No. 179, 1999
 S. 38	
 am. Nos. 11, 131 and 146, 1999; No. 96, 2001
+Note 2
+Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001 (No. 114, 2001)
+The following amendments commence on 28 December 2002 unless proclaimed earlier:
+Schedule 1
+33  Subsection 12(3)
+Repeal the subsection, substitute:
+Superannuation provider that pays out contributed amounts
+	(3)	If, after 7.30 pm by legal time in the Australian Capital Territory on 20 August 1996, any of the contributed amounts in relation to the member were or are paid by a superannuation provider:
+	(a)	to the member; or
+	(b)	to the member, or to a person other than a member, under a payment split;
+then the provider must, not later than the notification date for the financial year in which the payment was or is made or such later date (if any) as the Commissioner allows, give the Commissioner a statement setting out:
+	(c)	the member’s name, the address of the member’s place of residence or place of business or employment, the date of the member’s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member’s tax file number; and
+	(d)	the particulars referred to in subsection (5); and
+	(e)	the date of the payment; and
+	(f)	any other information required by the regulations.
+[NOTE] 34  Subsection 12(6)
+Repeal the subsection, substitute:
+	(6)	If:
+	(a)	a lump sum, or a pension, becomes payable by a superannuation provider for the benefit of a member; or
+	(b)	a payment split applies to a splittable payment in respect of an interest that a person has as a member;
+then the provider must give the Commissioner a statement setting out:
+	(c)	the member’s name, the address of the member’s place of residence or place of business or employment, the date of the member’s birth and, if given to the provider in connection with the operation or the possible future operation of this Act, the member’s tax file number; and
+	(d)	the date on which the lump sum or pension became payable; and
+	(e)	the particulars in relation to the benefits referred to in paragraph 15(6)(b) or (6A)(d) (as the case requires); and
+	(f)	any other information required by the regulations.
+35  At the end of section 12
+Add:
+Definitions
+	(8)	In this section:
+payment split means a payment split under Part VIIIB of the Family Law Act 1975.
+splittable payment has the same meaning as in Part VIIIB of the Family Law Act 1975.
+[NOTE] 36  Subsection 15(6)
+Omit “When”, substitute “Subject to subsection (6A), when”.
+[NOTE] 37  After subsection 15(6)
+Insert:
+	(6A)	If:
+	(a)	a payment split applies to a splittable payment in respect of an interest that a person has as a member; and
+	(b)	the splittable payment becomes payable in circumstances where the member’s surcharge account is in debit;
+then the member is liable to pay to the Commissioner the lesser of:
+	(c)	the amount by which the account is in debit; and
+	(d)	15% of the employer‑financed component of that part of the benefits that would have been payable to the member but for the payment split and that accrued after 20 August 1996.
+[NOTE] 38  Subsection 15(7)
+After “subsection (6)”, insert “or (6A)”.
+[NOTE] 39  Paragraph 15(8A)(a)
+After “subsection (6)”, insert “or (6A)”.
+40  At the end of section 15
+Add:
+Definitions
+	(11)	In this section:
+payment split means a payment split under Part VIIIB of the Family Law Act 1975.
+splittable payment has the same meaning as in Part VIIIB of the Family Law Act 1975.
+NOTE:
+Taxation Laws Amendment (Superannuation) Act (No. 2) 2002  (No. 51, 2002)
+The following amendments commenced on 29 June 2002 and amend Schedule 1 (items 34 and 36‑39) of the Family Law Legislation Amendment (Superannuation) (Consequential Provisions) Act 2001 (No. 114, 2001) as follows:
+Schedule 6
+3  Item 34 of Schedule 1
+Omit “(6A)(d)”, substitute “(6AA)(d)”.
+4  Item 36 of Schedule 1
+Omit “(6A)”, substitute “(6AA)”.
+5  Item 37 of Schedule 1 (subsection (6A))
+Renumber as subsection (6AA).
+6  Item 38 of Schedule 1
+Omit “or (6A)”, substitute “, (6AA)”.
+7  Item 39 of Schedule 1
+Omit “(6A)”, substitute “(6AA)”.
+As at 26 July 2002 the amendments are not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Taxation Laws Amendment Act (No. 3) 1999 (No. 11, 1999)
