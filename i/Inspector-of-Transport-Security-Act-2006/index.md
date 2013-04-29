@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00256/Html/InspecTranspSec2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00181/Html/InspecTranspSec2006_image001.gif)
 
 # Inspector of Transport Security Act 2006
 
 **Act No. 149 of 2006 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 7 April 2009
  taking into account amendments up to Act No. 20 of 2009
 
 The text of any of those amendments not in force 
@@ -18,235 +18,235 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           2
 
-[4](#4).            Act binds the Crown
+[4](#4).            Act binds the Crown                                                                           6
 
-[5](#5).            Application to external territories
+[5](#5).            Application to external territories                                                       6
 
-[6](#6).            Application outside Australia
+[6](#6).            Application outside Australia                                                             6
 
-[7](#7).            Relationship with other laws
+[7](#7).            Relationship with other laws                                                               6
 
-[8](#8).            Geographical jurisdiction
+[8](#8).            Geographical jurisdiction                                                                     7
 
 **Part 2—Objects and overview of Act** 
 
     **Division 1—Objects**
 
-[9](#9).            Objects
+[9](#9).            Objects                                                                                                 8
 
     **Division 2—Overview**
 
-[10](#10).          General overview of Act
+[10](#10).          General overview of Act                                                                      9
 
 **Part 3—Inquiries**
 
-[11](#11).          Minister may initiate inquiry
+[11](#11).          Minister may initiate inquiry                                                            10
 
-[12](#12).          What is a _transport security matter_?
+[12](#12).          What is a _transport security matter_?                                                  10
 
-[13](#13).          What is an _offshore security matter_?
+[13](#13).          What is an _offshore security matter_?                                                  11
 
-[14](#14).          Constitutional limitations—air transport
+[14](#14).          Constitutional limitations—air transport                                          11
 
-[15](#15).          Constitutional limitations—maritime transport
+[15](#15).          Constitutional limitations—maritime transport                                12
 
-[16](#16).          Constitutional limitations—rail transport
+[16](#16).          Constitutional limitations—rail transport                                         13
 
-[17](#17).          Constitutional limitations—road transport
+[17](#17).          Constitutional limitations—road transport                                       13
 
-[18](#18).          Constitutional limitations—security regulated offshore facilities
+[18](#18).          Constitutional limitations—security regulated offshore facilities     14
 
-[19](#19).          Meaning of _outside Australia_ in sections 14 to 18
+[19](#19).          Meaning of _outside Australia_ in sections 14 to 18                            15
 
-[20](#20).          Consultation with other Ministers before direction made
+[20](#20).          Consultation with other Ministers before direction made                 15
 
-[21](#21).          Defence aspects of a matter
+[21](#21).          Defence aspects of a matter                                                               16
 
-[22](#22).          Surface transport aspects of a transport security matter
+[22](#22).          Surface transport aspects of a transport security matter                  16
 
-[23](#23).          Geographical reach of inquiry
+[23](#23).          Geographical reach of inquiry                                                            17
 
-[24](#24).          Preservation of certain privileges and immunities
+[24](#24).          Preservation of certain privileges and immunities                             18
 
 **Part 4—Inspector of Transport Security** 
 
     **Division 1—Appointment**
 
-[25](#25).          Inspector of Transport Security
+[25](#25).          Inspector of Transport Security                                                        19
 
-[26](#26).          Conduct of Inspector
+[26](#26).          Conduct of Inspector                                                                         19
 
-[27](#27).          Terms and conditions of employment
+[27](#27).          Terms and conditions of employment                                               19
 
-[28](#28).          Remuneration
+[28](#28).          Remuneration                                                                                     20
 
-[29](#29).          Acting appointments
+[29](#29).          Acting appointments                                                                         20
 
-[30](#30).          Resignation
+[30](#30).          Resignation                                                                                        20
 
-[31](#31).          Termination
+[31](#31).          Termination                                                                                       20
 
     **Division 2—Functions**
 
-[32](#32).          Functions of the Inspector
+[32](#32).          Functions of the Inspector                                                                22
 
     **Division 3—Powers**
 
-[33](#33).          Powers of Inspector to be used for inquiries
+[33](#33).          Powers of Inspector to be used for inquiries                                     23
 
 **Part 5—Gathering information** 
 
     **Division 1—Powers relating to information and documents**
 
-[34](#34).          Simplified outline
+[34](#34).          Simplified outline                                                                               24
 
-[35](#35).          Power to request information from persons generally
+[35](#35).          Power to request information from persons generally                      25
 
-[36](#36).          Power to request information from government agencies
+[36](#36).          Power to request information from government agencies                  27
 
-[37](#37).          Requesting OBR information and restricted information from the ATSB
+[37](#37).          Requesting OBR information and restricted information from the Executive Director           28
 
-[38](#38).          Protection from liability
+[38](#38).          Protection from liability                                                                    31
 
     **Division 2—Search powers**
 
-[39](#39).          Simplified outline
+[39](#39).          Simplified outline                                                                               32
 
-[40](#40).          Identity cards
+[40](#40).          Identity cards                                                                                     32
 
-[41](#41).          Obligations before entering premises or boarding transport vehicle
+[41](#41).          Obligations before entering premises or boarding transport vehicle  33
 
-[42](#42).          Security regulated offshore facilities—occupational health and safety requirements
+[42](#42).          Security regulated offshore facilities—occupational health and safety requirements              33
 
-[43](#43).          Power to enter any premises with consent
+[43](#43).          Power to enter any premises with consent                                       34
 
-[44](#44).          Power to board any transport vehicle with consent
+[44](#44).          Power to board any transport vehicle with consent                          34
 
-[45](#45).          Powers that may be exercised in relation to premises
+[45](#45).          Powers that may be exercised in relation to premises                       35
 
-[46](#46).          Powers that may be exercised in relation to a transport vehicle
+[46](#46).          Powers that may be exercised in relation to a transport vehicle        36
 
-[47](#47).          Compensation for damage to electronic equipment
+[47](#47).          Compensation for damage to electronic equipment                           36
 
     **Division 3—Where information or documents are volunteered**
 
-[48](#48).          Protection from liability
+[48](#48).          Protection from liability                                                                    38
 
     **Division 4—Information generated in the course of conducting an inquiry**
 
-[49](#49).          Copying, making a record of, using or disclosing information generated in the course of an inquiry
+[49](#49).          Copying, making a record of, using or disclosing information generated in the course of an inquiry      39
 
 **Part 6—Reports** 
 
     **Division 1—Simplified outline**
 
-[50](#50).          Simplified outline
+[50](#50).          Simplified outline                                                                               40
 
     **Division 2—Interim reports**
 
-[51](#51).          Interim report—no security issue found
+[51](#51).          Interim report—no security issue found                                           42
 
-[52](#52).          Disclosure of interim reports
+[52](#52).          Disclosure of interim reports                                                             42
 
-[53](#53).          Admissibility of interim reports
+[53](#53).          Admissibility of interim reports                                                        44
 
     **Division 3—Draft reports**
 
-[54](#54).          Information that may be included in draft reports
+[54](#54).          Information that may be included in draft reports                            45
 
-[55](#55).          Disclosure of draft reports
+[55](#55).          Disclosure of draft reports                                                                45
 
-[56](#56).          Copying, recording, disclosing and using draft report
+[56](#56).          Copying, recording, disclosing and using draft report                       47
 
-[57](#57).          Submissions on a draft report
+[57](#57).          Submissions on a draft report                                                            47
 
-[58](#58).          Admissibility of draft reports
+[58](#58).          Admissibility of draft reports                                                           48
 
     **Division 4—Final reports**
 
-[59](#59).          Final report
+[59](#59).          Final report                                                                                        49
 
-[60](#60).          Disclosure by the Minister to another person
+[60](#60).          Disclosure by the Minister to another person                                  49
 
-[61](#61).          Final reports containing protected information
+[61](#61).          Final reports containing protected information                                 50
 
-[62](#62).          Final reports relating to surface transport aspects of a matter
+[62](#62).          Final reports relating to surface transport aspects of a matter          51
 
-[63](#63).          Final reports containing OBR information, CVR information, and restricted information given to the Inspector by the ATSB
+[63](#63).          Final reports containing OBR information, CVR information, and restricted information given to the Inspector by the Executive Director                                                                             51
 
-[64](#64).          Tabling report in the Parliament etc 
+[64](#64).          Tabling report in the Parliament etc                                                  52
 
-[65](#65).          Admissibility of final reports
+[65](#65).          Admissibility of final reports                                                            53
 
 **Part 7—Protected information**
 
-[66](#66).          What is _protected information_?
+[66](#66).          What is _protected information_?                                                          54
 
-[67](#67).          Offence—copying, recording, using or disclosing protected information
+[67](#67).          Offence—copying, recording, using or disclosing protected information                54
 
-[68](#68).          Disclosing information where serious offence imminent
+[68](#68).          Disclosing information where serious offence imminent                   56
 
-[69](#69).          Disclosing information where not directly relevant to an inquiry
+[69](#69).          Disclosing information where not directly relevant to an inquiry     57
 
-[70](#70).          Disclosing information to the Executive Director
+[70](#70).          Disclosing information to the Executive Director                              57
 
-[71](#71).          Immunity where copying, recording, using or disclosing protected information permitted under this Act
+[71](#71).          Immunity where copying, recording, using or disclosing protected information permitted under this Act            58
 
-**Part 8—OBR information, CVR information, and restricted information given to the Inspector by the ATSB**
+**Part 8—OBR information, CVR information, and restricted information given to the Inspector by the Executive Director**
 
-[72](#72).          Simplified outline
+[72](#72).          Simplified outline                                                                               59
 
-[73](#73).          Application of other laws to copying, recording, use and disclosure of OBR information
+[73](#73).          Application of other laws to copying, recording, use and disclosure of OBR information     60
 
-[74](#74).          Application of other laws to copying, recording, use and disclosure of CVR information
+[74](#74).          Application of other laws to copying, recording, use and disclosure of CVR information     60
 
-[75](#75).          Application of other laws to copying, recording, use and disclosure of restricted information given to the Inspector by the ATSB
+[75](#75).          Application of other laws to copying, recording, use and disclosure of restricted information given to the Inspector by the Executive Director                                                                       60
 
-[76](#76).          Immunity where copying, recording, using or disclosing OBR information, CVR information, or restricted information given by the ATSB, permitted under this Act
+[76](#76).          Immunity where copying, recording, using or disclosing OBR information, CVR information, or restricted information given by the Executive Director, permitted under this Act               63
 
-[77](#77).          Disclosing OBR information, CVR information, and restricted information given by the ATSB, where serious offence imminent
+[77](#77).          Disclosing OBR information, CVR information, and restricted information given by the Executive Director, where serious offence imminent                                                                   64
 
-[78](#78).          Eligible Judge
+[78](#78).          Eligible Judge                                                                                     66
 
-[79](#79).          Nominated AAT member
+[79](#79).          Nominated AAT member                                                                  67
 
 **Part 9—Miscellaneous**
 
-[80](#80).          Inspector to minimise disruption to transport
+[80](#80).          Inspector to minimise disruption to transport                                  69
 
-[81](#81).          Inspector to act consistently with Australia’s international obligations
+[81](#81).          Inspector to act consistently with Australia’s international obligations 69
 
-[82](#82).          Delegation
+[82](#82).          Delegation                                                                                          69
 
-[83](#83).          States and Territories may confer powers and functions on Inspector
+[83](#83).          States and Territories may confer powers and functions on Inspector 70
 
-[84](#84).          Immunity for actions under this Act
+[84](#84).          Immunity for actions under this Act                                                 70
 
-[85](#85).          Immunity for failure to act
+[85](#85).          Immunity for failure to act                                                                71
 
-[86](#86).          Certification by Inspector of a person’s involvement in an inquiry
+[86](#86).          Certification by Inspector of a person’s involvement in an inquiry 72
 
-[87](#87).          Compellability as a witness
+[87](#87).          Compellability as a witness                                                               72
 
-[88](#88).          Fees for attendance at coronial inquiries
+[88](#88).          Fees for attendance at coronial inquiries                                            73
 
-[89](#89).          Legal representation at coronial inquiry
+[89](#89).          Legal representation at coronial inquiry                                            74
 
-[90](#90).          Operation of section 503A of the _Migration Act 1958_ not affected
+[90](#90).          Operation of section 503A of the _Migration Act 1958_ not affected  74
 
-[91](#91).          Powers of Parliament and Royal Commissions not affected
+[91](#91).          Powers of Parliament and Royal Commissions not affected             74
 
-[92](#92).          Compensation for acquisition of property
+[92](#92).          Compensation for acquisition of property                                        74
 
-[93](#93).          Regulations
+[93](#93).          Regulations                                                                                        75
 
 **Notes** 
 
@@ -349,8 +349,6 @@ Note:          This table relates only to the provisions of th
 
                     <a name="aircraft"></a>**_aircraft_** means any machine or craft used in air navigation, however propelled or moved.
 
-                    <a name="atsb"></a>**_ATSB_** means the Australian Transport Safety Bureau established under section 12 of the _Transport Safety Investigation Act 2003_.
-
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
 
                     <a name="australian-aircraft"></a>**_Australian aircraft_** means:
@@ -420,6 +418,8 @@ Note:          **_CVR_** is short for cockpit voice recording.
                     <a name="defenc-minist"></a>**_Defence Minister_** means the Minister administering section 1 of the _Defence Act 1903_.
 
                     <a name="elig-judg"></a>**_eligible Judge_** has the meaning given by section 78.
+
+                    <a name="execut-director"></a>**_Executive Director_** means the person for the time being occupying the position of Executive Director of Transport Safety Investigation referred to in section 12 of the _Transport Safety Investigation Act 2003_.
 
                     <a name="final-report"></a>**_final report_** means a final report given to the Minister under section 59.
 
@@ -803,7 +803,7 @@ Note:          A reference to Australia in any other provision
 
                      (c)  ships operating within the State or Territory waters of a particular State or Territory, other than security regulated ships or ships owned or operated by a Commonwealth agency.
 
-##### <a id="23"></a>23  Geographical reach of inquiry
+##### <a id="23"></a>23  Geographical reach of inquiry
 
 Transport security matters
 
@@ -973,9 +973,9 @@ This Division gives the Inspector the power to request information that he or sh
 
 Under this Division:
 
-               (a)     a request for OBR information can be made to the ATSB;
+               (a)     a request for OBR information can be made to the Executive Director;
 
-               (b)     a request for restricted information can be made to the ATSB, or a government agency or person who holds the information independently of the ATSB, such as the original source;
+               (b)     a request for restricted information can be made to the Executive Director, or a government agency or person who holds the information independently of the Executive Director, such as the original source;
 
                (c)     a request for other information or documents that have been obtained or generated by a government agency can be made to the agency or a person who holds the information independently of the agency, such as the original source;
 
@@ -985,7 +985,7 @@ The flow of information and documents to the Inspector is encouraged by:
 
                (a)     enabling government agencies and others to give information and documents to the Inspector despite any other law;
 
-               (b)     providing that offences under the _Transport Safety Investigation Act 2003_ that would otherwise apply to prevent the ATSB from giving information to the Inspector do not apply;
+               (b)     providing that offences under the _Transport Safety Investigation Act 2003_ that would otherwise apply to prevent the Executive Director from giving information to the Inspector do not apply;
 
                (c)     providing immunities for people who give information and documents to the Inspector.
 
@@ -1107,31 +1107,35 @@ Note:          This section constitutes authorisation for the 
 
 Note:          A defendant bears an evidential burden in relation to a matter in subsection (8): see subsection 13.3(3) of the _Criminal Code_.
 
-##### <a id="37"></a>37  Requesting OBR information and restricted information from the ATSB
+##### <a id="37"></a>37  Requesting OBR information and restricted information from the Executive Director
 
-             (1)  If the Inspector believes that the ATSB has OBR information or restricted information that is relevant to an inquiry conducted in accordance with a direction of the Minister under section 11, the Inspector may request the ATSB to disclose the information to the Inspector.
+             (1)  If the Inspector believes that the Executive Director has OBR information or restricted information that is relevant to an inquiry conducted in accordance with a direction of the Minister under section 11, the Inspector may request the Executive Director to disclose the information to the Inspector.
 
-             (2)  The ATSB may comply with the request, if the Chief Commissioner of the ATSB believes that any adverse effect that the disclosure may have on current or future investigations under the _Transport Safety Investigation Act 2003_ is outweighed by the public interest served by disclosing the information to the Inspector.
+             (2)  The Executive Director may comply with the request, if the Executive Director believes that any adverse effect that the disclosure may have on current or future investigations under the _Transport Safety Investigation Act 2003_ is outweighed by the public interest served by disclosing the information to the Inspector.
 
 Application of section 53 of the Transport Safety Investigation Act 2003
 
              (3)  Subsections 53(1) and (2) of the _Transport Safety Investigation Act 2003_ do not apply to:
 
-                     (a)  anything done by the ATSB under subsection (2) of this section; or
+                     (a)  anything done by the Executive Director under subsection (2) of this section; or
 
-                     (b)  anything done by another person for the purpose of assisting the ATSB in the exercise of his or her power under subsection (2) of this section.
+                     (b)  anything done by another person for the purpose of assisting the Executive Director in the exercise of his or her power under subsection (2) of this section.
 
 Note:          A defendant bears an evidential burden in relation to a matter in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
 
 Application of section 60 of the Transport Safety Investigation Act 2003
 
-             (4)  Subsections 60(1) and (2) of the _Transport Safety Investigation Act 2003_ do not apply to anything done by a person for the purpose of assisting the ATSB in the exercise of its power under subsection (2) of this section.
+             (4)  Subsections 60(1) and (2) of the _Transport Safety Investigation Act 2003_ do not apply to:
+
+                     (a)  anything done by the Executive Director under subsection (2) of this section; or
+
+                     (b)  anything done by another person for the purpose of assisting the Executive Director in the exercise of his or her power under subsection (2) of this section.
 
 Note:          A defendant bears an evidential burden in relation to a matter in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
 
-Application of other laws to disclosure by the ATSB under subsection 37(2)
+Application of other laws to disclosure by Executive Director under subsection 37(2)
 
-             (5)  The ATSB may exercise its power under subsection (2) despite any other law.
+             (5)  The Executive Director may exercise his or her power under subsection (2) despite any other law.
 
 Note:          This subsection constitutes authorisation for the purposes of other laws, such as paragraph (1)(d) of Information Privacy Principle 11 in section 14 of the _Privacy Act 1988_.
 
@@ -1139,19 +1143,19 @@ Note:          This subsection constitutes authorisation for t
 
                      (a)  copy, make a record of or use OBR information; and
 
-                     (b)  copy, make a record of or use restricted information given to the Inspector by the ATSB; and
+                     (b)  copy, make a record of or use restricted information given to the Inspector by the Executive Director; and
 
-                     (c)  subject to subsection (7), disclose OBR information, and restricted information given to the Inspector by the ATSB.
+                     (c)  subject to subsection (7), disclose OBR information, and restricted information given to the Inspector by the Executive Director.
 
-             (7)  Neither the Inspector nor an assistant may, for the purposes of an inquiry conducted in accordance with a direction of the Minister under section 11, disclose OBR information, or restricted information given to the Inspector by the ATSB, without the prior agreement of the Chief Commissioner of the ATSB, if, after consultation with the ATSB, the Chief Commissioner of the ATSB is of the opinion that the disclosure may:
+             (7)  Neither the Inspector nor an assistant may, for the purposes of an inquiry conducted in accordance with a direction of the Minister under section 11, disclose OBR information, or restricted information given to the Inspector by the Executive Director, without the prior agreement of the Executive Director, if, after consultation with the Executive Director, the Executive Director is of the opinion that the disclosure may:
 
-                     (a)  compromise an investigation that is being conducted by the ATSB; or
+                     (a)  compromise an investigation that is being conducted by the Executive Director; or
 
-                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the ATSB.
+                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the Executive Director.
 
              (8)  A person commits an offence if:
 
-                     (a)  restricted information that was given to the Inspector by the ATSB is disclosed to the person; and
+                     (a)  restricted information that was given to the Inspector by the Executive Director is disclosed to the person; and
 
                      (b)  the information is disclosed in circumstances permitted under paragraph (6)(c); and
 
@@ -1469,7 +1473,7 @@ Reports are not admissible in proceedings.
 
              (3)  Nothing in this section affects the power of the Minister to revoke or amend a direction under section 11 for any other reason.
 
-             (4)  The Inspector may include protected information, OBR information, CVR information, and restricted information given to the Inspector by the ATSB, in the interim report.
+             (4)  The Inspector may include protected information, OBR information, CVR information, and restricted information given to the Inspector by the Executive Director, in the interim report.
 
 ##### <a id="52"></a>52  Disclosure of interim reports
 
@@ -1497,13 +1501,13 @@ Interim reports containing OBR information or CVR information
 
              (4)  The Minister must not give a person or government agency a copy of, or table in the Parliament, any part of an interim report that contains OBR information or CVR information, unless the information is already publicly available.
 
-Interim reports containing restricted information given to the Inspector by the ATSB
+Interim reports containing restricted information given to the Inspector by the Executive Director
 
-             (5)  The Minister must not give to a person or government agency, or table in the Parliament, any part of an interim report that contains restricted information given to the Inspector by the ATSB, without the prior agreement of the Chief Commissioner of the ATSB, if the disclosure of the information may:
+             (5)  The Minister must not give to a person or government agency, or table in the Parliament, any part of an interim report that contains restricted information given to the Inspector by the Executive Director, without the prior agreement of the Executive Director, if the disclosure of the information may:
 
-                     (a)  compromise an investigation that is being conducted by the ATSB; or
+                     (a)  compromise an investigation that is being conducted by the Executive Director; or
 
-                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the ATSB.
+                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the Executive Director.
 
 Interim reports relating to surface transport aspects of a matter
 
@@ -1517,9 +1521,9 @@ Interim reports relating to surface transport aspects of a matter
 
 ##### <a id="54"></a>54  Information that may be included in draft reports
 
-                   The Inspector may include protected information, OBR information, CVR information, and restricted information given to the Inspector by the ATSB, in a draft report.
+                   The Inspector may include protected information, OBR information, CVR information, and restricted information given to the Inspector by the Executive Director, in a draft report.
 
-##### <a id="55"></a>55  Disclosure of draft reports
+##### <a id="55"></a>55  Disclosure of draft reports
 
 Disclosure to persons who may be adversely affected by a report
 
@@ -1555,13 +1559,13 @@ Draft reports containing OBR information or CVR information
 
              (6)  The Inspector may only give a part of a draft report that contains OBR information or CVR information to a person or government agency under paragraph (1)(b) or (3)(b) if the information is already publicly available.
 
-Draft reports containing restricted information given to the Inspector by the ATSB
+Draft reports containing restricted information given to the Inspector by the Executive Director
 
-             (7)  The Inspector must not, without the prior agreement of the Chief Commissioner of the ATSB, give any part of a draft report that contains restricted information given to the Inspector by the ATSB to a person or government agency, if the disclosure may:
+             (7)  The Inspector must not, without the prior agreement of the Executive Director, give any part of a draft report that contains restricted information given to the Inspector by the Executive Director to a person or government agency, if the disclosure may:
 
-                     (a)  compromise an investigation that is being conducted by the ATSB; or
+                     (a)  compromise an investigation that is being conducted by the Executive Director; or
 
-                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the ATSB.
+                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the Executive Director.
 
 Draft reports relating to surface transport aspects of a matter
 
@@ -1623,7 +1627,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  The final report must set out the Inspector’s conclusions and recommendations as a result of the inquiry.
 
-             (4)  The Inspector may include protected information, OBR information, CVR information, and restricted information given to the Inspector by the ATSB, in the final report.
+             (4)  The Inspector may include protected information, OBR information, CVR information, and restricted information given to the Inspector by the Executive Director, in the final report.
 
              (5)  If the Inspector has provided a draft report to a person or government agency under section 55, the Inspector must take into account, in preparing the final report, any submissions made by the person or government agency in response to that draft report.
 
@@ -1667,7 +1671,7 @@ Minister may impose conditions on further disclosure
 
                    The Minister must not give any part of a final report that relates to a surface transport aspect of a transport security matter to a person or government agency without the agreement of the Transport Minister of the State or Territory in which that aspect of the matter occurred.
 
-##### <a id="63"></a>63  Final reports containing OBR information, CVR information, and restricted information given to the Inspector by the ATSB
+##### <a id="63"></a>63  Final reports containing OBR information, CVR information, and restricted information given to the Inspector by the Executive Director
 
              (1)  The Minister must not give a copy of a part of a final report that contains OBR information or CVR information to a person or government agency unless:
 
@@ -1679,7 +1683,7 @@ Minister may impose conditions on further disclosure
 
                              (ii)  the responsible Minister would not be able to implement those recommendations without being given the report.
 
-             (2)  The Minister must not give a copy of a part of a final report that contains restricted information given to the Inspector by the ATSB to a person or government agency unless:
+             (2)  The Minister must not give a copy of a part of a final report that contains restricted information given to the Inspector by the Executive Director to a person or government agency unless:
 
                      (a)  the information is already publicly available; or
 
@@ -1711,7 +1715,7 @@ Minister may impose conditions on further disclosure
 
              (5)  A person commits an offence if:
 
-                     (a)  the person receives, either under subsection (2) or as a result of a disclosure permitted under subsection (6), a part of a final report that contains restricted information given to the Inspector by the ATSB; and
+                     (a)  the person receives, either under subsection (2) or as a result of a disclosure permitted under subsection (6), a part of a final report that contains restricted information given to the Inspector by the Executive Director; and
 
                      (b)  the person does any of the following:
 
@@ -1741,11 +1745,11 @@ Note:          A defendant bears an evidential burden in relat
 
              (4)  The Minister must not table in the Parliament any part of a final report that contains OBR information or CVR information, unless the information is already publicly available.
 
-             (5)  The Minister must not, without the prior agreement of the Chief Commissioner of the ATSB, table in the Parliament any part of a final report that contains restricted information given to the Inspector by the ATSB, if the disclosure may:
+             (5)  The Minister must not, without the prior agreement of the Executive Director, table in the Parliament any part of a final report that contains restricted information given to the Inspector by the Executive Director, if the disclosure may:
 
-                     (a)  compromise an investigation that is being conducted by the ATSB; or
+                     (a)  compromise an investigation that is being conducted by the Executive Director; or
 
-                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the ATSB.
+                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the Executive Director.
 
 ##### <a id="65"></a>65  Admissibility of final reports
 
@@ -1767,9 +1771,9 @@ Note:          A defendant bears an evidential burden in relat
 
                      (e)  CVR information; or
 
-                      (f)  restricted information that is given to the Inspector by the ATSB.
+                      (f)  restricted information that is given to the Inspector by the Executive Director.
 
-Note 1:       The copying, recording and disclosure of OBR information and restricted information given to the Inspector by the ATSB continues to be dealt with under the _Transport Safety Investigation Act 2003_, subject to provisions of this Act that modify the operation of that Act.
+Note 1:       The copying, recording and disclosure of OBR information and restricted information given to the Inspector by the Executive Director continues to be dealt with under the _Transport Safety Investigation Act 2003_, subject to provisions of this Act that modify the operation of that Act.
 
 Note 2:       The copying and disclosure of CVR information continues to be dealt with under the _Civil Aviation Act 1988_, subject to provisions of this Act that modify the operation of that Act.
 
@@ -1865,13 +1869,13 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="70"></a>70  Disclosing information to the Executive Director
 
-             (1)  The Inspector may disclose protected information to the ATSB if:
+             (1)  The Inspector may disclose protected information to the Executive Director if:
 
-                     (a)  the ATSB requests the Inspector to do so under subsection (2); and
+                     (a)  the Executive Director requests the Inspector to do so under subsection (2); and
 
-                     (b)  the Inspector believes that any adverse effect that the disclosure may have on a current or future inquiry under this Act is outweighed by the public interest served by disclosing the information to the ATSB.
+                     (b)  the Inspector believes that any adverse effect that the disclosure may have on a current or future inquiry under this Act is outweighed by the public interest served by disclosing the information to the Executive Director.
 
-             (2)  The ATSB may request the Inspector to disclose protected information to the ATSB if it considers that the Inspector has the information and that the information is relevant to an investigation that is being conducted by the ATSB.
+             (2)  The Executive Director may request the Inspector to disclose protected information to the Executive Director if he or she believes that the Inspector has the information and that the information is relevant to an investigation that is being conducted by the Executive Director.
 
 ##### <a id="71"></a>71  Immunity where copying, recording, using or disclosing protected information permitted under this Act
 
@@ -1893,7 +1897,7 @@ Note:          This section constitutes authorisation for the 
 
                      (c)  to disciplinary action, or to a disciplinary sanction, of any kind because of that conduct.
 
-## Part 8—OBR information, CVR information, and restricted information given to the Inspector by the ATSB
+## Part 8—OBR information, CVR information, and restricted information given to the Inspector by the Executive Director
 
 ##### <a id="72"></a>72  Simplified outline
 
@@ -1911,7 +1915,7 @@ It remains an offence under section 53 of the _Transport Safety Investigation 
 
 It remains an offence under section 32AP of the _Civil Aviation Act 1988_ to copy or disclose CVR information except in circumstances in which a defence is available under that Act or this Act.
 
-There is no offence under the _Transport Safety Investigation Act 2003_ dealing with the copying, recording, use or disclosure by the Inspector of restricted information given to the Inspector by the ATSB under subsection 37(2) of this Act. This Part includes an offence to protect the confidentiality of that information.
+There is no offence under the _Transport Safety Investigation Act 2003_ dealing with the copying, recording, use or disclosure by the Inspector of restricted information given to the Inspector by the Executive Director under subsection 37(2) of this Act. This Part includes an offence to protect the confidentiality of that information.
 
 * * *
 
@@ -1939,9 +1943,9 @@ Note 2:       A defendant bears an evidential burden in relation to 
 
 Note:          Section 32AR of the _Civil Aviation Act 1988_ deals with the admissibility of CVR information in criminal proceedings.
 
-##### <a id="75"></a>75  Application of other laws to copying, recording, use and disclosure of restricted information given to the Inspector by the ATSB
+##### <a id="75"></a>75  Application of other laws to copying, recording, use and disclosure of restricted information given to the Inspector by the Executive Director
 
-             (1)  Subsections 60(1), (2) and (3) of the _Transport Safety Investigation Act 2003_ do not apply to making a record of or disclosing restricted information given to the Inspector by the ATSB, if that conduct is permitted, either expressly or by implication, under this Act.
+             (1)  Subsections 60(1), (2) and (3) of the _Transport Safety Investigation Act 2003_ do not apply to making a record of or disclosing restricted information given to the Inspector by the Executive Director, if that conduct is permitted, either expressly or by implication, under this Act.
 
 Note 1:       Section 60 of the _Transport Safety Investigation Act 2003_ creates offences relating to the making of a record of, or the disclosure of, restricted information by a person who is a staff member for the purposes of that Act, or who has received restricted information under section 62 of that Act.
 
@@ -1957,7 +1961,7 @@ Note 2:       A defendant bears an evidential burden in relation to 
 
                             (iii)  discloses information; and
 
-                     (b)  the information is restricted information given to the Inspector by the ATSB under subsection 37(2); and
+                     (b)  the information is restricted information given to the Inspector by the Executive Director under subsection 37(2); and
 
                      (c)  the person has obtained the information in the course of exercising a power or performing a function under this Act, or assisting another person in the exercise of powers or performance of functions under this Act.
 
@@ -1987,9 +1991,9 @@ Note 2:       A defendant bears an evidential burden in relation to 
 
 Note:          A defendant bears an evidential burden in relation to a matter in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
 
-             (4)  The Minister may issue a certificate in relation to the disclosure of restricted information given to the Inspector by the ATSB under subsection 37(2), stating that the disclosure of the information in a civil proceeding or a coronial inquiry is not likely to interfere with an inquiry conducted in accordance with a direction of the Minister under section 11 or with an investigation under the _Transport Safety Investigation Act 2003_.
+             (4)  The Minister may issue a certificate in relation to the disclosure of restricted information given to the Inspector by the Executive Director under subsection 37(2), stating that the disclosure of the information in a civil proceeding or a coronial inquiry is not likely to interfere with an inquiry conducted in accordance with a direction of the Minister under section 11 or with an investigation under the _Transport Safety Investigation Act 2003_.
 
-             (5)  The Minister may issue a certificate in relation to the disclosure of restricted information given to the Inspector by the ATSB under subsection 37(2), stating that the disclosure of the information in a criminal proceeding is not likely to interfere with an inquiry conducted in accordance with a direction of the Minister under section 11, or with an investigation under the _Transport Safety Investigation Act 2003_, if:
+             (5)  The Minister may issue a certificate in relation to the disclosure of restricted information given to the Inspector by the Executive Director under subsection 37(2), stating that the disclosure of the information in a criminal proceeding is not likely to interfere with an inquiry conducted in accordance with a direction of the Minister under section 11, or with an investigation under the _Transport Safety Investigation Act 2003_, if:
 
                      (a)  the criminal proceeding is in relation to an alleged offence against a law of the Commonwealth, or of a State or Territory, punishable by a maximum penalty of imprisonment for more than 2 years; and
 
@@ -2009,13 +2013,13 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  any information disclosed by the person in contravention of this section is not admissible in any proceedings (other than proceedings against the person under this section).
 
-##### <a id="76"></a>76  Immunity where copying, recording, using or disclosing OBR information, CVR information, or restricted information given by the ATSB, permitted under this Act
+##### <a id="76"></a>76  Immunity where copying, recording, using or disclosing OBR information, CVR information, or restricted information given by the Executive Director, permitted under this Act
 
              (1)  This section applies where:
 
-                     (a)  a person copies, makes a record of, uses or discloses OBR information, CVR information, or restricted information given to the Inspector by the ATSB, in circumstances in which the person is permitted to do so either expressly or by implication under this Act; or
+                     (a)  a person copies, makes a record of, uses or discloses OBR information, CVR information, or restricted information given to the Inspector by the Executive Director, in circumstances in which the person is permitted to do so either expressly or by implication under this Act; or
 
-                     (b)  a person copies, makes a record of, uses or discloses OBR information, CVR information, or restricted information given to the Inspector by the ATSB, in circumstances in which the person honestly and reasonably believes he or she is permitted to do so, either expressly or by implication under this Act.
+                     (b)  a person copies, makes a record of, uses or discloses OBR information, CVR information, or restricted information given to the Inspector by the Executive Director, in circumstances in which the person honestly and reasonably believes he or she is permitted to do so, either expressly or by implication under this Act.
 
              (2)  The person may copy, make a record of, use or disclose the information, despite any other law.
 
@@ -2029,9 +2033,9 @@ Note:          This section constitutes authorisation for the 
 
                      (c)  to disciplinary action, or to a disciplinary sanction, of any kind because of that conduct.
 
-##### <a id="77"></a>77  Disclosing OBR information, CVR information, and restricted information given by the ATSB, where serious offence imminent
+##### <a id="77"></a>77  Disclosing OBR information, CVR information, and restricted information given by the Executive Director, where serious offence imminent
 
-             (1)  The Inspector may apply to an eligible Judge or nominated AAT member for an order under subsection (6) allowing the Inspector to disclose OBR information, CVR information, or restricted information given to the Inspector by the ATSB, to another government agency, if the Inspector suspects on reasonable grounds that:
+             (1)  The Inspector may apply to an eligible Judge or nominated AAT member for an order under subsection (6) allowing the Inspector to disclose OBR information, CVR information, or restricted information given to the Inspector by the Executive Director, to another government agency, if the Inspector suspects on reasonable grounds that:
 
                      (a)  the commission of an offence is imminent; and
 
@@ -2047,7 +2051,7 @@ Note:          This section constitutes authorisation for the 
 
                      (b)  a statement by the Inspector, or a delegate of the Inspector, explaining why the information may be relevant to the prevention of the offence; and
 
-                     (c)  a statement by the Chief Commissioner of the ATSB, or a delegate of the Chief Commissioner, that, in his or her opinion, the effect that the disclosure may have on current or future investigations under the _Transport Safety Investigation Act 2003_ is outweighed by the public interest served by disclosing the information to the agency or court; and
+                     (c)  a statement by the Executive Director, or a delegate of the Executive Director, that, in his or her opinion, the effect that the disclosure may have on current or future investigations under the _Transport Safety Investigation Act 2003_ is outweighed by the public interest served by disclosing the information to the agency or court; and
 
                      (d)  the proposed terms of the order.
 
@@ -2065,7 +2069,7 @@ Note:          This section constitutes authorisation for the 
 
                      (c)  the Inspector must inform the Judge or AAT member to whom the application is made of the urgent circumstances on the basis of which the Inspector believes a telephone application is necessary.
 
-             (6)  An eligible Judge or nominated AAT member may order that OBR information, CVR information, or restricted information given to the Inspector by the ATSB, be disclosed to a government agency if:
+             (6)  An eligible Judge or nominated AAT member may order that OBR information, CVR information, or restricted information given to the Inspector by the Executive Director, be disclosed to a government agency if:
 
                      (a)  the Judge or AAT member is satisfied that:
 
@@ -2173,13 +2177,7 @@ Note:          This section constitutes authorisation for the 
 
                              (ii)  satisfies the criteria prescribed by the regulations.
 
-             (2)  The ATSB may, by writing, delegate all or any of the ATSB’s powers and functions under this Act to:
-
-                     (a)  an SES employee; or
-
-                     (b)  a person who holds or performs the duties of an APS Executive Level 1 or 2 position or an equivalent position.
-
-             (3)  The Chief Commissioner of the ATSB may, by writing, delegate all or any of his or her powers and functions under this Act to:
+             (2)  The Executive Director may, by writing, delegate all or any of the Executive Director’s powers and functions under this Act to:
 
                      (a)  an SES employee; or
 
@@ -2443,7 +2441,7 @@ Remainder: Royal Assent</div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 71–103): 1 July 2009</div>
+    <div>Schedule 1 (items 71–103): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2580,174 +2578,6 @@ _(a)_ Subsection 2(1) (items 21 and 22) of the _Statute Law Revision Act 2008_
 </thead>
 <tr>
   <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 37</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 37(5)</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 51, 52</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 54, 55</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 63</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 63, 64</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 66</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 8</b></div>
   </td>
   <td>
@@ -2756,66 +2586,10 @@ _(a)_ Subsection 2(1) (items 21 and 22) of the _Statute Law Revision Act 2008_
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 8</div>
-  </td>
-  <td>
-    <div>rs. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 72</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 75</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 76</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 77</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 77</div>
   </td>
   <td>
-    <div>am. No. 73, 2008; No. 20, 2009</div>
+    <div>am. No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2825,22 +2599,206 @@ _(a)_ Subsection 2(1) (items 21 and 22) of the _Statute Law Revision Act 2008_
   <td>
     <div>am. No. 73, 2008</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 82</div>
-  </td>
-  <td>
-    <div>am. No. 20, 2009</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Transport Safety Investigation Amendment Act 2009 (No. 20, 2009)_
+
+The following amendments commence on 1 July 2009:
+
+## Schedule 1
+
+## 71  Section 3
+
+Insert:
+
+                    <a name="atsb"></a>**_ATSB_** means the Australian Transport Safety Bureau established under section 12 of the _Transport Safety Investigation Act 2003_.
+
+## 72  Section 3 (definition of _Executive Director_)
+
+Repeal the definition.
+
+## 73  Section 34
+
+Omit “Executive Director” (wherever occurring), substitute “ATSB”.
+
+## 74  Subsection 37(1)
+
+Omit “Executive Director” (wherever occurring), substitute “ATSB”.
+
+_Note:       The heading to section 37 is altered by omitting “Executive Director” and substituting “ATSB”._
+
+## 75  Subsection 37(2)
+
+Omit “Executive Director” (first occurring), substitute “ATSB”.
+
+## 76  Subsection 37(2)
+
+Omit “Executive Director” (second occurring), substitute “Chief Commissioner of the ATSB”.
+
+## 77  Paragraphs 37(3)(a) and (b)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 78  Subsection 37(4)
+
+Repeal the subsection, substitute:
+
+Application of section 60 of the Transport Safety Investigation Act 2003
+
+             (4)  Subsections 60(1) and (2) of the _Transport Safety Investigation Act 2003_ do not apply to anything done by a person for the purpose of assisting the ATSB in the exercise of its power under subsection (2) of this section.
+
+Note:          A defendant bears an evidential burden in relation to a matter in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
+
+## 79  Subsection 37(5)
+
+Omit “Executive Director may exercise his or her”, substitute “ATSB may exercise its”.
+
+_Note:       The heading to subsection 37(5) is altered by omitting “Executive Director” and substituting “the ATSB”._
+
+## 80  Paragraphs 37(6)(b) and (c)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 81  Subsection 37(7)
+
+Repeal the subsection, substitute:
+
+             (7)  Neither the Inspector nor an assistant may, for the purposes of an inquiry conducted in accordance with a direction of the Minister under section 11, disclose OBR information, or restricted information given to the Inspector by the ATSB, without the prior agreement of the Chief Commissioner of the ATSB, if, after consultation with the ATSB, the Chief Commissioner of the ATSB is of the opinion that the disclosure may:
+
+                     (a)  compromise an investigation that is being conducted by the ATSB; or
+
+                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the ATSB.
+
+## 82  Paragraph 37(8)(a)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 83  Subsection 51(4)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 84  Subsection 52(5)
+
+Repeal the subsection, substitute:
+
+Interim reports containing restricted information given to the Inspector by the ATSB
+
+             (5)  The Minister must not give to a person or government agency, or table in the Parliament, any part of an interim report that contains restricted information given to the Inspector by the ATSB, without the prior agreement of the Chief Commissioner of the ATSB, if the disclosure of the information may:
+
+                     (a)  compromise an investigation that is being conducted by the ATSB; or
+
+                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the ATSB.
+
+## 85  Section 54
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 86  Subsection 55(7)
+
+Repeal the subsection, substitute:
+
+Draft reports containing restricted information given to the Inspector by the ATSB
+
+             (7)  The Inspector must not, without the prior agreement of the Chief Commissioner of the ATSB, give any part of a draft report that contains restricted information given to the Inspector by the ATSB to a person or government agency, if the disclosure may:
+
+                     (a)  compromise an investigation that is being conducted by the ATSB; or
+
+                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the ATSB.
+
+## 87  Subsection 59(4)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 88  Section 63
+
+Omit “Executive Director” (wherever occurring), substitute “ATSB”.
+
+_Note:       The heading to section 63 is altered by omitting “Executive Director” and substituting “ATSB”._
+
+## 89  Subsection 64(5)
+
+Repeal the subsection, substitute:
+
+             (5)  The Minister must not, without the prior agreement of the Chief Commissioner of the ATSB, table in the Parliament any part of a final report that contains restricted information given to the Inspector by the ATSB, if the disclosure may:
+
+                     (a)  compromise an investigation that is being conducted by the ATSB; or
+
+                     (b)  have a substantial adverse effect on the proper and efficient conduct of the operations of the ATSB.
+
+## 90  Paragraph 66(f)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 91  Section 66 (note 1)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 92  Subsection 70(1)
+
+Omit “Executive Director” (wherever occurring), substitute “ATSB”.
+
+## 93  Subsection 70(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The ATSB may request the Inspector to disclose protected information to the ATSB if it considers that the Inspector has the information and that the information is relevant to an investigation that is being conducted by the ATSB.
+
+## 94  Part 8 (heading)
+
+Repeal the heading, substitute:
+
+## Part 8—OBR information, CVR information, and restricted information given to the Inspector by the ATSB
+
+## 95  Section 72
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 96  Section 75
+
+Omit “Executive Director” (wherever occurring), substitute “ATSB”.
+
+_Note:       The heading to section 75 is altered by omitting “Executive Director” and substituting “ATSB”._
+
+## 97  Paragraphs 76(1)(a) and (b)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+_Note:       The heading to section 76 is altered by omitting “Executive Director” and substituting “ATSB”._
+
+## 98  Subsection 77(1)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+_Note:       The heading to section 77 is altered by omitting “Executive Director” and substituting “ATSB”._
+
+## 99  Paragraph 77(3)(c)
+
+Omit “Executive Director, or a delegate of the Executive Director”, substitute “Chief Commissioner of the ATSB, or a delegate of the Chief Commissioner”.
+
+## 100  Subsection 77(6)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 101  Subsection 82(2)
+
+Omit “Executive Director”, substitute “ATSB”.
+
+## 102  Subsection 82(2)
+
+Omit “Executive Director’s”, substitute “ATSB’s”.
+
+## 103  At the end of section 82
+
+Add:
+
+             (3)  The Chief Commissioner of the ATSB may, by writing, delegate all or any of his or her powers and functions under this Act to:
+
+                     (a)  an SES employee; or
+
+                     (b)  a person who holds or performs the duties of an APS Executive Level 1 or 2 position or an equivalent position.
+
+As at 7 April 2009 the amendments are not incorporated in this compilation.
 
  
