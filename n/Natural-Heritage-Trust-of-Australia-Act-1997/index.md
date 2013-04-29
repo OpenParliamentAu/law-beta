@@ -1,76 +1,76 @@
 
+
+
 Natural Heritage Trust of Australia Act 1997
-Act No. 76 of 1997 as amended 
-Consolidated as in force on 27 July 1999
-(includes amendments up to Act No. 53 of 1999)
+Act No. 76 of 1997 as amended
+Consolidated as in force on 2 December 1998
+(includes amendments up to Act No. 152 of 1997)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
-3	Simplified outline	1
-Part 2—The Natural Heritage Trust of Australia Reserve	2
-4	Establishment of the Natural Heritage Trust of Australia Reserve	2
-5	Nature of the Reserve	2
-6	Investments and income of the Reserve	2
-7	Money and investments not held on trust	4
-Part 3—Purposes of the Reserve	5
-8	Purposes of the Reserve	5
-9	Debits of proceeds from the partial privatisation of Telstra and interest earned from the Trust	5
-10	Primary objective of the National Vegetation Initiative	6
-11	Primary objective of the Murray-Darling 2001 Project	6
-12	Primary objectives of the National Land and Water Resources Audit	7
-13	Primary objective of the National Reserve System	7
-14	Primary objectives of the Coasts and Clean Seas Initiative	7
-15	Meaning of environmental protection	7
-16	Meaning of sustainable agriculture	8
-17	Meaning of natural resources management	8
-18	Meaning of accounting transfer purpose	8
-19	Grant of financial assistance to a State	9
-20	Grant of financial assistance to a person, or a body, other than a State	10
-21	Principles of ecologically sustainable development	11
-Part 4—Crediting of amounts to the Reserve	13
-22	$1.1 billion derived from the initial partial sale of Telstra	13
-22A	$250 million derived from the subsequent partial sale of Telstra	13
-23	Budget appropriations	13
-24	Gifts and bequests	13
-25	Repayments of grants	14
-26	Commonwealth receipts under funding agreements	14
-27	Income from assets acquired using Reserve money	14
-28	Proceeds of disposal of assets acquired using Reserve money	14
-29	Income from projects and related activities funded with Reserve money	15
-Part 5—Natural Heritage Trust Advisory Committee	16
-30	Establishment of Committee	16
-31	Functions of Committee	16
-32	Appointment of Committee members	17
-33	Procedures	17
-34	Disclosure of interests	17
-35	Remuneration and allowances	18
-36	Leave of absence	18
-37	Resignation	18
-38	Termination of appointment	18
-39	Other terms and conditions	19
-Part 6—Miscellaneous	20
-40	Natural Heritage Ministerial Board	20
-41	Estimates	21
-42	Minimum balance in the Reserve after 30 June 2001	21
-43	Annual report about the Reserve	22
-44	Audit of annual financial statements of the Reserve	23
-45	Delegation by Minister	24
-46	Delegation by Minister for Primary Industries and Energy	24
-47	Acceptance of gifts etc.	25
-48	Appropriations	25
-49	Appropriations for the purposes of the Natural Resources Management (Financial Assistance) Act 1992 and the Rural Adjustment Act 1992	26
-50	Regulations	26
-51	Transitional—transfers from the Consolidated Revenue Fund	27
-52	Transitional—expenses of investment	27
-53	External Territories	27
-54	Interpretation	27
-Notes 		1
+Part 1—Introduction	
+1	Short title [see Note 1]	
+2	Commencement [see Note 1]	
+3	Simplified outline	
+Part 2—The Natural Heritage Trust of Australia Reserve	
+4	Establishment of the Natural Heritage Trust of Australia Reserve	
+5	Nature of the Reserve	
+6	Investments and income of the Reserve	
+7	Money and investments not held on trust	
+Part 3—Purposes of the Reserve	
+8	Purposes of the Reserve	
+9	Debits of proceeds from the partial privatisation of Telstra and interest earned from the Trust	
+10	Primary objective of the National Vegetation Initiative	
+11	Primary objective of the Murray-Darling 2001 Project	
+12	Primary objectives of the National Land and Water Resources Audit	
+13	Primary objective of the National Reserve System	
+14	Primary objectives of the Coasts and Clean Seas Initiative	
+15	Meaning of environmental protection	
+16	Meaning of sustainable agriculture	
+17	Meaning of natural resources management	
+18	Meaning of accounting transfer purpose	
+19	Grant of financial assistance to a State	
+20	Grant of financial assistance to a person, or a body, other than a State	
+21	Principles of ecologically sustainable development	
+Part 4—Crediting of amounts to the Reserve	
+22	$1.1 billion derived from the partial privatisation of Telstra	
+23	Budget appropriations	
+24	Gifts and bequests	
+25	Repayments of grants	
+26	Commonwealth receipts under funding agreements	
+27	Income from assets acquired using Reserve money	
+28	Proceeds of disposal of assets acquired using Reserve money	
+29	Income from projects and related activities funded with Reserve money	
+30	Establishment of Committee	
+31	Functions of Committee	
+32	Appointment of Committee members	
+33	Procedures	
+34	Disclosure of interests	
+35	Remuneration and allowances	
+36	Leave of absence	
+37	Resignation	
+38	Termination of appointment	
+39	Other terms and conditions	
+Part 6—Miscellaneous	
+40	Natural Heritage Ministerial Board	
+41	Estimates	
+42	Minimum balance in the Reserve after 30 June 2001	
+43	Annual report about the Reserve	
+44	Audit of annual financial statements of the Reserve	
+45	Delegation by Minister	
+46	Delegation by Minister for Primary Industries and Energy	
+47	Acceptance of gifts etc.	
+48	Appropriations	
+49	Appropriations for the purposes of the Natural Resources Management (Financial Assistance) Act 1992 and the Rural Adjustment Act 1992	
+50	Regulations	
+51	Transitional—transfers from the Consolidated Revenue Fund	
+52	Transitional—expenses of investment	
+53	External Territories	
+54	Interpretation	
 
-An Act to establish the Natural Heritage Trust of Australia Reserve, and for related purposes
 Do not delete : Chapter placeholder
 Do not delete : Part placeholder
 Do not delete : Division placeholder
+An Act to establish the Natural Heritage Trust of Australia Reserve, and for related purposes
 Preamble
 		The Parliament of Australia recognises the need for urgent action to redress the current decline, and to prevent further decline, in the quality of Australia’s natural environment.
 		There is a national crisis in land and water degradation and in the loss of biodiversity.
@@ -83,17 +83,16 @@ Preamble
 		Australia’s natural environment is central to Australia’s and Australians’ health and non-material well-being and to Australia’s present and future economic prosperity. Accordingly, present and future generations of Australians will benefit from the ecologically sustainable management of the natural environment.
 		A comprehensive, integrated response to these matters is necessary. 
 		The above considerations are taken into account by the Parliament of Australia in enacting the law that follows.
-Do not delete : Chapter placeholder
-Do not delete : Part placeholder
+Part 1—Introduction
 Do not delete : Division placeholder
-1  Short title [see Note 1]
+1  	Short title [see Note 1]
 		This Act may be cited as the Natural Heritage Trust of Australia Act 1997.
-2  Commencement [see Note 1]
+2  	Commencement [see Note 1]
 		This Act commences on the day on which it receives the Royal Assent.
 3  Simplified outline
 		The following is a simplified outline of this Act:
 •	This Act establishes the Natural Heritage Trust of Australia Reserve.
-•	The main source of money for the Reserve is $1.35 billion from the partial sale of Telstra.
+•	The main source of money for the Reserve will be $1.1 billion from the partial privatisation of Telstra.
 •	The main objective of the establishment of the Reserve is to conserve, repair and replenish Australia’s natural capital infrastructure.
 •	Money in the Reserve will be spent on the environment, sustainable agriculture and natural resources management.
 The Natural Heritage Trust Advisory Committee is established.
@@ -134,7 +133,6 @@ there is to be transferred to the Consolidated Revenue Fund from the Reserve an 
 		Money and investments of the Reserve are not held on trust (within the ordinary meaning of that expression).
 
 Part 3—Purposes of the Reserve
-Do not delete : Division placeholder
 8  Purposes of the Reserve
 		The purposes of the Reserve are as follows:
 	(a)	the National Vegetation Initiative;
@@ -265,13 +263,9 @@ Note:	State is given an extended meaning by section 54.
 Note:	The principles of ecologically sustainable development that are set out in this subsection are based on the core objectives and guiding principles that were endorsed by the Council of Australian Governments in December 1992.
 
 Part 4—Crediting of amounts to the Reserve
-Do not delete : Division placeholder
-22  $1.1 billion derived from the initial partial sale of Telstra 
-	(1)	For each $1 that is received by the Commonwealth, in a particular month beginning before the date of commencement of section 22A, by way of proceeds of the sale of shares in Telstra, $1 is to be transferred to the Reserve from the Consolidated Revenue Fund before the end of the next following month.
+22  $1.1 billion derived from the partial privatisation of Telstra 
+	(1)	For each $1 that is received by the Commonwealth in a particular month by way of proceeds of the sale of shares in Telstra, $1 is to be transferred to the Reserve from the Consolidated Revenue Fund before the end of the next following month.
 	(2)	The total amount transferred to the Reserve under this section is not to exceed $1.1 billion.
-22A  $250 million derived from the subsequent partial sale of Telstra
-	(1)	For each $1 that is received by the Commonwealth, in a particular month beginning on or after the date of commencement of this section, by way of proceeds of the sale of shares in Telstra, $1 is to be transferred to the Reserve from the Consolidated Revenue Fund before the end of the next following month.
-	(2)	The total amount transferred to the Reserve under this section is not to exceed $250 million.
 23  Budget appropriations 
 	(1)	This section applies if another Act appropriates an amount from the Consolidated Revenue Fund for credit to the Reserve.
 	(2)	The amount is to be credited to the Reserve.
@@ -304,10 +298,9 @@ Do not delete : Division placeholder
 	(a)	money in the Reserve is spent in carrying out a project; and
 	(b)	income is received by the Commonwealth from the project or from activities carried out in relation to the project.
 	(2)	An amount equal to the receipt is to be transferred to the Reserve from the Consolidated Revenue Fund.
-
+
 Part 5—Natural Heritage Trust Advisory Committee
-Do not delete : Division placeholder
-30  Establishment of Committee
+30  	Establishment of Committee
 	(1)	There is to be a Natural Heritage Trust Advisory Committee, which is to consist of the following members:
 	(a)	a Chairman;
 	(b)	not more than 9, but not fewer than 5, other members.
@@ -327,7 +320,7 @@ The functions of the Committee are as follows:
 	(2)	A Committee member is to be appointed for the period specified in the instrument of appointment. The period must not exceed 3 years.
 	(3)	A Committee member holds office on a part-time basis.
 	(4)	The performance of the functions of the Committee is not affected only because of there being a vacancy or vacancies in the membership of the Committee.
-33  Procedures
+	33  Procedures
 The Natural Heritage Ministerial Board may give the Committee written directions as to:
 	(a)	the way in which the Committee is to carry out its functions; and
 	(b)	procedures to be followed in relation to meetings.
@@ -359,7 +352,6 @@ A Committee member holds office on such terms and conditions (if any) in respect
 
 
 Part 6—Miscellaneous
-Do not delete : Division placeholder
 40  Natural Heritage Ministerial Board
 	(1)	There is to be a Natural Heritage Ministerial Board, which is to consist of:
 	(a)	the Minister; and
@@ -503,10 +495,11 @@ State includes the Australian Capital Territory and the Northern Territory.
 sustainable agriculture has the meaning given by section 16.
 Telstra has the same meaning as in the Telstra Corporation Act 1991.
 waste minimisation includes reduction of use, re-use and recycling.
-Notes to the Natural Heritage Trust of Australia Act 1997
+NOTE
 Note 1
-The Natural Heritage Trust of Australia Act 1997 as shown in this consolidation comprises Act No. 76, 1997 amended as indicated in the Tables below.
+	The Natural Heritage Trust of Australia Act 1997 as shown in this reprint comprises Act No. 76, 1997 amended as indicated in the Tables below.
 Table of Acts
+
 Act
 Number  and year
 Date  of Assent
@@ -522,25 +515,13 @@ Audit (Transitional and Miscellaneous) Amendment Act 1997
 24 Oct 1997
 Schedule 2 (item 1055): 1 Jan 1998 (see Gazette 1997, No. GN49) (a)
 —
-Telstra (Further Dilution of Public Ownership) Act 1999
-53, 1999
-5 July 1999
-5 July 1999
-—
 (a) 	The Natural Heritage Trust of Australia Act 1997 was amended by Schedule 2 (item 1055) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997, subsection 2(2) of which provides as follows:
-	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
+	“(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.”
 Table of Amendments
+
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 3	
-am. No. 53, 1999
-Heading to s. 22	
-am. No. 53, 1999
-S. 22	
-am. No. 53, 1999
-S. 22A	
-ad. No. 53, 1999
 Note to s. 52	
 am. No. 152, 1997
 
