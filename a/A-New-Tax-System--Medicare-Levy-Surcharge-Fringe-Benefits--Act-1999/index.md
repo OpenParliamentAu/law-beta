@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image001.gif)
 
 # A New Tax System (Medicare Levy Surcharge—Fringe Benefits) Act 1999
 
 **Act No. 18 of 1999 as amended**
 
-This compilation was prepared on 28 June 2012
- taking into account amendments up to Act No. 86 of 2012
+This compilation was prepared on 23 May 2012
+ taking into account amendments up to Act No. 28 of 2012
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -158,7 +158,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -174,11 +174,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008‑09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image004.gif)
 
 ##### <a id="7"></a>7  When are people _married_?
 
@@ -264,7 +264,7 @@ General rule
 
              (3)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image005.gif)
 
 ### Division 3—Amount of surcharge for single person with dependants
 
@@ -316,7 +316,7 @@ Amount of surcharge payable for part of year
 
              (4)  If this Division applies to the person for only some of the days of the year of income, the amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image006.gif)
 
 ### Division 4—Amount of surcharge for married person
 
@@ -364,7 +364,7 @@ When this section applies
 
                      (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family surcharge threshold for the year of income; and
 
-                     (c)  the person’s income for surcharge purposes for the year of income exceeds $19,404.
+                     (c)  the person’s income for surcharge purposes for the year of income exceeds $18,839.
 
 Special rule if person’s spouse is a presently entitled beneficiary in a trust estate
 
@@ -392,7 +392,7 @@ Person married for whole year of income
 
                      (b)  the sum of the person’s income for surcharge purposes, and the person’s spouse’s income for surcharge purposes, for the year of income exceeds the person’s family surcharge threshold for the year of income; and
 
-                     (c)  the person’s income for surcharge purposes for the year of income exceeds $19,404.
+                     (c)  the person’s income for surcharge purposes for the year of income exceeds $18,839.
 
 Person married for part of the year of income
 
@@ -406,7 +406,7 @@ Amount of surcharge
 
              (4)  The amount of surcharge payable on the person’s reportable fringe benefits total for the year of income includes the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00633/Html/994b42db-1fd2-497f-a0da-4ae3490b9ea3_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00462/Html/edc14197-de11-4285-9d3f-2aec58b18bce_files/image007.gif)
 
 where:
 
@@ -941,40 +941,6 @@ S. 4 (rep. by 75, 2010, Sch. 6 \[item 117])</div>
 </tr>
 <tr>
   <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2012</div>
-  </td>
-  <td>
-    <div>86, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 14): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Tax Laws Amendment (2011 Measures No. 9) Act 2012</div>
   </td>
   <td>
@@ -1006,23 +972,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 17)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2012</div>
-  </td>
-  <td>
-    <div>86, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 13): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 13)</div>
   </td>
 </tr></table>
 
@@ -1314,26 +1263,16 @@ _(a)_     Subsection 2(1) (item 2) of the _Superannuation Legislation 
 </tr>
 <tr>
   <td>
-    <div>S. 15</div>
+    <div>Ss. 15, 16</div>
   </td>
   <td>
-    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011; No. 86, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011; No. 86, 2012</div>
+    <div>am. Nos. 53 and 54, 2000; No. 12, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; No. 59, 2006; No. 75, 2007; No. 50, 2008; Nos. 27 and 41, 2009; No. 78, 2010; No. 44, 2011</div>
   </td>
 </tr></table>
 
 ### Note 2
 
-_Clean Energy (Tax Laws Amendments) Act 2011 (No. 159, 2011) (as amended by the Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2012 (No. 86, 2012))_
-
-The amendment made by the _Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2012_ (No. 86, 2012) commenced on 28 June 2012 and has been incorporated into this Note.
+_Clean Energy (Tax Laws Amendments) Act 2011 (No. 159, 2011)_
 
 The following amendment commences on 1 July 2012:
 
@@ -1341,9 +1280,9 @@ The following amendment commences on 1 July 2012:
 
 ## 1  Paragraphs 15(1)(c) and 16(2)(c)
 
-Omit “$19,404”, substitute “20,542”.
+Omit “$18,839”, substitute “20,542”.
 
-As at 28 June 2012 the amendment is not incorporated in this compilation.
+As at 23 May 2012 the amendment is not incorporated in this compilation.
 
 ### Note 3
 
@@ -1455,7 +1394,7 @@ Insert:
 
           (4B)  Increase the amount of the percentage mentioned in subsection (4) by 0.5 of a percentage point if the person is a tier 3 earner for the year of income.
 
-As at 28 June 2012 the amendments are not incorporated in this compilation.
+As at 23 May 2012 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1712,15 +1651,5 @@ The following provision commences on 1 July 2012:
 ## 17  Application
 
 The amendments made by this Schedule apply to the 2012‑13 year of income and later years of income.
-
-* * *
-
-_Tax Laws Amendment (Medicare Levy and Medicare Levy Surcharge) Act 2012 (No. 86, 2012)_
-
-## Schedule 1
-
-## 13  Application of amendments
-
-The amendments made by this Part apply to assessments for the 2011‑2012 year of income.
 
  
