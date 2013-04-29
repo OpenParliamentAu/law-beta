@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image001.gif)
 
 # ACIS Administration Act 1999
 
 **Act No. 139 of 1999 as amended**
 
-This compilation was prepared on 30 June 2004
- incorporating amendments up to Act No. 80 of 2004
+This compilation was prepared on 14 April 2004
+ incorporating amendments up to Act No. 96 of 2003
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1820,7 +1820,7 @@ Note:          Unmodulated type J investment credit is worked 
 
              (1)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated uncapped production credit to be issued to the MVP for that quarter in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image002.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image002.gif)</sub>
 
 where:
 
@@ -1832,7 +1832,7 @@ Note:          The definition of **_production value_** refers
 
              (2)  The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated capped production credit for the MVP for that quarter in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image003.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image003.gif)</sub>
 
 where:
 
@@ -1848,7 +1848,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type A investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image004.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image004.gif)</sub>
 
 where:
 
@@ -1864,7 +1864,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type B investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image005.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image005.gif)</sub>
 
 where:
 
@@ -1880,7 +1880,7 @@ where:
 
                    The Secretary must, as soon as practicable after an MVP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the MVP for that quarter in relation to type C investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image006.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image006.gif)</sub>
 
 where:
 
@@ -1898,7 +1898,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type D investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image007.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image007.gif)</sub>
 
 where:
 
@@ -1914,7 +1914,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ACP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ACP for that quarter in relation to type E investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image008.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image008.gif)</sub>
 
 where:
 
@@ -1932,7 +1932,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type F investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image009.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image009.gif)</sub>
 
 where:
 
@@ -1948,7 +1948,7 @@ where:
 
                    The Secretary must, as soon as practicable after an AMTP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the AMTP for that quarter in relation to type G investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image010.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image010.gif)</sub>
 
 where:
 
@@ -1966,7 +1966,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type H investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image011.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image011.gif)</sub>
 
 where:
 
@@ -1982,7 +1982,7 @@ where:
 
                    The Secretary must, as soon as practicable after an ASP provides a return to the Secretary in respect of a quarter, work out the unmodulated investment credit for the ASP for that quarter in relation to type I investment in accordance with the formula:
 
-<sub>![](http://www.comlaw.gov.au/Details/C2004C01585/Html/ACISA1999_image012.gif)</sub>
+<sub>![](http://www.comlaw.gov.au/Details/C2004C01584/Html/ACISA1999_image012.gif)</sub>
 
 where:
 
@@ -3243,7 +3243,7 @@ the AAT’s decision can only be given effect to if:
 
 ##### <a id="115A"></a>115A  Minister may publish information relating to participants
 
-                   The Minister may cause to be published the following information about a participant or a person who was a participant:
+                   The Minister may cause to be published the following information about a participant or a person who was a participant:
 
                      (a)  that the person is or was a participant and the period of the person’s participation in ACIS;
 
@@ -3452,23 +3452,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 
 88–91)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Bankruptcy Legislation Amendment Act 2004</div>
-  </td>
-  <td>
-    <div>80, 2004</div>
-  </td>
-  <td>
-    <div>23 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 190, 212, 213, 215): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 212, 213, 215)</div>
   </td>
 </tr></table>
 
@@ -4342,33 +4325,13 @@ _(c)_ The _ACIS Administration Act 1999_ was amended by Schedule 3 (items 6�
   </td>
 </tr></table>
 
-### Note 2
-
-_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
-
-The following amendment commences on 23 December 2004 unless proclaimed earlier:
-
-## Schedule 1
-
-190  Subsection 6(1) (paragraphs (d) and (e) of the definition of _insolvent under administration_)
-
-Repeal the paragraphs, substitute:
-
-                     (d)  a person who has, at any time during the preceding 3 years, executed a personal insolvency agreement under:
-
-                              (i)  Part X of the _Bankruptcy Act 1966_; or
-
-                             (ii)  the corresponding provisions of the law of an external Territory or the law of a foreign country.
-
-As at 30 June 2004 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _ACIS Administration Amendment Act 2002 (No. 83, 2002)_
 
-Schedule 1
+## Schedule 1
 
 5  Transitional provisions
 
@@ -4411,95 +4374,5 @@ The amendment made by item 87 applies as follows:
                      (a)  in relation to a participant who was a participant immediately before item 87 commences, the Minister may publish the information referred to in that item in respect of an ACIS year in ACIS Stage 2 or ACIS Stage 3;
 
                      (b)  in relation to a person who becomes a participant on or after the commencement of item 87, the Minister may publish the information referred to in that item from the day that the person becomes a participant in ACIS.
-
-* * *
-
-_Bankruptcy Legislation Amendment Act 2004 (No. 80, 2004)_
-
-The following provisions commence on 23 December 2004 unless proclaimed earlier:
-
-Schedule 1
-
-212  Transitional—pre-commencement deeds and compositions
-
-(1)        For the purposes of this item, if a deed of assignment or a deed of arrangement was executed by a debtor and a trustee under Part X of the _Bankruptcy Act 1966_ before the commencement of this item, the deed is a **_pre-commencement deed_**.
-
-(2)        For the purposes of this item, if a composition was accepted before the commencement of this item by a special resolution of a meeting of creditors under section 204 of the _Bankruptcy Act 1966_, the composition is a **_pre-commencement composition_**.
-
-(3)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
-
-                     (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
-
-                     (b)  the Acts amended by Part 2 of this Schedule;
-
-continue to apply, in relation to:
-
-                     (c)  a pre-commencement deed; and
-
-                     (d)  a pre-commencement composition; and
-
-                     (e)  any matter connected with, or arising out of:
-
-                              (i)  a pre-commencement deed; or
-
-                             (ii)  a pre-commencement composition;
-
-as if those repeals had not happened and those amendments had not been made.
-
-213  Transitional—pre-commencement authorities
-
-(1)        For the purposes of this item, if:
-
-                     (a)  an authority given by a debtor under section 188 of the _Bankruptcy Act 1966_ became effective before the commencement of this item; and
-
-                     (b)  as at the commencement of this item, none of the following had happened:
-
-                              (i)  the execution by the debtor and the trustee of a deed of assignment under Part X of the _Bankruptcy Act 1966_;
-
-                             (ii)  the execution by the debtor and the trustee of a deed of arrangement under Part X of the _Bankruptcy Act 1966_;
-
-                            (iii)  the acceptance of a composition by a special resolution of a meeting of the debtor’s creditors under section 204 of the _Bankruptcy Act 1966_;
-
-the authority is a **_pre-commencement authority_**.
-
-(2)        Despite the repeals and amendments made by Parts 1 and 2 of this Schedule:
-
-                     (a)  the _Bankruptcy Act 1966_ and regulations under that Act; and
-
-                     (b)  the Acts amended by Part 2 of this Schedule;
-
-continue to apply, in relation to:
-
-                     (c)  a pre-commencement authority; and
-
-                     (d)  the control of the debtor’s property following a pre-commencement authority becoming effective; and
-
-                     (e)  a meeting of the debtor’s creditors called under a pre-commencement authority; and
-
-                      (f)  whichever of the following is applicable:
-
-                              (i)  a deed of assignment executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
-
-                             (ii)  a deed of arrangement executed after the commencement of this item by the debtor and the trustee under Part X of the _Bankruptcy Act 1966_ in accordance with a special resolution of such a meeting;
-
-                            (iii)  a composition accepted after the commencement of this item by a special resolution of such a meeting; and
-
-                     (g)  any other matter connected with, or arising out of:
-
-                              (i)  a pre-commencement authority; or
-
-                             (ii)  a deed of assignment mentioned in subparagraph (f)(i); or
-
-                            (iii)  a deed of arrangement mentioned in subparagraph (f)(ii); or
-
-                            (iv)  a composition mentioned in subparagraph (f)(iii);
-
-as if those repeals had not happened and those amendments had not been made.
-
-215  Transitional—regulations
-
-(1)        The regulations may make provision for matters of a transitional nature arising from the amendments made by Parts 1 and 2 of this Schedule.
-
-(2)        The Governor-General may make regulations for the purposes of subitem (1).
 
  
