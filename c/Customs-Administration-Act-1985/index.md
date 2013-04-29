@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00827/Html/CustomsAdmin1985_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00126/Html/CustomsAdmin1985_WD02_image001.gif)
 
 # Customs Administration Act 1985
 
 **Act No. 38 of 1985 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 25 February 2010
+ taking into account amendments up to Act No. 4 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -57,6 +57,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [16](#16).          Prohibition of disclosure of certain information
 
 [16AA](#16AA).    Conduct by directors, employees and agents
+
+[16A](#16A).       Information communicated to the CEO by the Commissioner of Taxation
 
 [17](#17).          Annual report
 
@@ -551,6 +553,18 @@ means the member, or any of the members, constituting the body.
                      (a)  the person’s knowledge, intention, opinion, belief or purpose; and
 
                      (b)  the person’s reasons for the intention, opinion, belief or purpose.
+
+##### <a id="16A"></a>16A  Information communicated to the CEO by the Commissioner of Taxation
+
+             (1)  The CEO may disclose information disclosed to the CEO under section 3F of the _Taxation Administration Act 1953_ only:
+
+                     (a)  to a person or body having a responsibility in connection with the administration of a law of customs for a purpose connected with the exercise of that responsibility; or
+
+                     (b)  to a court or tribunal for a purpose of a proceeding relating to the determination of a matter under a law of customs.
+
+             (2)  Nothing in subsection (1) permits a person to disclose information in any circumstances where that disclosure would be contrary to section 16 or any other provision of a law of customs that prohibits the disclosure of information.
+
+             (3)  In this section, a reference to the disclosure of information includes a reference to the production of, or the granting of access to, a document.
 
 ##### <a id="17"></a>17  Annual report
 
@@ -1071,27 +1085,7 @@ Remainder: Royal Assent</div>
     <div>19 Feb 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 10 (item 17): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (item 9): 17 Dec 2010</div>
+    <div>Schedule 10 (item 17): 20 Feb 2010</div>
   </td>
   <td>
     <div>—</div>
@@ -1110,7 +1104,7 @@ Remainder: Royal Assent</div>
   <td></td>
 </tr></table>
 
-_(a)_     The _Customs Administration Act 1985_ was amended by the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
+_(a)_    The _Customs Administration Act 1985_ was amended by the _Customs, Excise and Bounty Legislation Amendment Act 1995_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2), (3), (4), (5) and (6), this Act commences on the day on which it receives the Royal Assent.
 
@@ -1485,14 +1479,6 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 16A</div>
   </td>
   <td>
@@ -1505,14 +1491,6 @@ _(ga)_ The _Customs Legislation Amendment and Repeal (International Trade Modern
   </td>
   <td>
     <div>am. No. 85, 1995; No. 25, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
