@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00506/Html/b00b3dc5-a46d-464c-b4d7-cbb9862ac068_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00035/Html/AgriculturalVetsChemAct94_WD02_image001.gif)
 
 # Agricultural and Veterinary Chemicals Act 1994
 
 **Act No. 36 of 1994 as amended**
 
-This compilation was prepared on 6 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -72,7 +72,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [20](#20).          Jurisdiction of Federal Court and courts of Territories
 
-[21](#21).          Exercise of jurisdiction under cross‑vesting provisions
+[21](#21).          Exercise of jurisdiction under cross-vesting provisions
 
 **Part 7—Miscellaneous**
 
@@ -94,17 +94,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 Recognising:
 
-             (a)  that the protection of the health and safety of human beings, animals and the environment is essential to the well‑being of society and can be enhanced by putting in place a system to regulate agricultural chemical products and veterinary chemical products; and
+             (a)  that the protection of the health and safety of human beings, animals and the environment is essential to the well-being of society and can be enhanced by putting in place a system to regulate agricultural chemical products and veterinary chemical products; and
 
              (b)  that the principle of ecologically sustainable development requires a regulatory system that is designed to ensure that the use of such products today will not impair the prospects of future generations; and
 
-             (c)  that the furthering of trade and commerce between Australia and places outside Australia, and the present and future economic viability and competitiveness of primary industry and of a domestic industry for manufacturing and formulating such products, are essential for the well‑being of the economy and require a system for regulating such products that is cost‑effective, efficient, predictable, adaptive and responsive; and
+             (c)  that the furthering of trade and commerce between Australia and places outside Australia, and the present and future economic viability and competitiveness of primary industry and of a domestic industry for manufacturing and formulating such products, are essential for the well-being of the economy and require a system for regulating such products that is cost-effective, efficient, predictable, adaptive and responsive; and
 
              (d)  that it is desirable to establish a regulatory system that is open and accountable and gives opportunity for public input with respect to the regulation of such products; and
 
              (e)  that the system should, so far as practicable, be uniform throughout Australia; and
 
-             (f)  that uniformity could best be achieved by the enactment of legislation by the Parliament of the Commonwealth as a law for the government of the Australian Capital Territory and the adoption of that legislation by the Parliaments and legislatures of the States and the Northern Territory:
+             (f)  that uniformity could best be achieved by the enactment of legislation by the Parliament of the Commonwealth as a law for the government of the Australian   Capital Territory and the adoption of that legislation by the Parliaments and legislatures of the States and the Northern Territory:
 
                    The Parliament of Australia enacts:
 
@@ -212,7 +212,7 @@ Recognising:
 
                              (ii)  an appointment made under an Act; or
 
-                            (iii)  an appointment made by the Governor‑General or a Minister but not under an Act; and
+                            (iii)  an appointment made by the Governor-General or a Minister but not under an Act; and
 
                      (c)  a person who is a member or officer of an authority of the Commonwealth; and
 
@@ -228,11 +228,11 @@ Recognising:
 
                     <a name="state"></a>**_State_** includes the Northern Territory.
 
-                    <a name="territori"></a>**_Territory_** does not include the Northern Territory, Norfolk Island, the Territory of Christmas Island or the Territory of Cocos (Keeling) Islands.
+                    <a name="territori"></a>**_Territory_** does not include the Northern   Territory, Norfolk Island, the Territory of Christmas Island or the Territory  of Cocos (Keeling) Islands.
 
-##### <a id="5"></a>5  Jervis Bay Territory
+##### <a id="5"></a>5  Jervis  Bay Territory
 
-                   For the purposes of this Act, the Jervis Bay Territory is taken to be part of the Australian Capital Territory.
+                   For the purposes of this Act, the Jervis  Bay Territory is taken to be part of the Australian Capital Territory.
 
 ##### <a id="6"></a>6  Extension to external Territories
 
@@ -306,7 +306,7 @@ Recognising:
 
 ##### <a id="14"></a>14  Agvet Code of other jurisdictions
 
-                   The Agvet Code of each State binds the Crown in right of the Commonwealth, of the Australian Capital Territory and of Norfolk Island.
+                   The Agvet Code of each State binds the Crown in right of the Commonwealth, of the Australian Capital Territory and of Norfolk  Island.
 
 ##### <a id="15"></a>15  Crown not liable to prosecution
 
@@ -370,9 +370,9 @@ if the conferral or authorisation would contravene a constitutional doctrine res
 
              (4)  The Federal Court of Australia may exercise jurisdiction (whether original or appellate) conferred on that Court by a law of the Northern Territory corresponding to this Part with respect to matters arising under the Agvet Code or the Agvet Regulations of the Northern Territory.
 
-##### <a id="21"></a>21  Exercise of jurisdiction under cross‑vesting provisions
+##### <a id="21"></a>21  Exercise of jurisdiction under cross-vesting provisions
 
-                   This Act does not affect the operation of a provision of any other law of the Commonwealth, or any law of a State or of a participating Territory, relating to cross‑vesting of jurisdiction.
+                   This Act does not affect the operation of a provision of any other law of the Commonwealth, or any law of a State or of a participating Territory, relating to cross-vesting of jurisdiction.
 
 ## Part 7—Miscellaneous
 
@@ -412,7 +412,7 @@ and may include codes of good manufacturing practice.
 
 ##### <a id="25"></a>25  Regulations
 
-                   The Governor‑General may make regulations prescribing matters required or permitted by this Act to be prescribed.
+                   The Governor-General may make regulations prescribing matters required or permitted by this Act to be prescribed.
 
 ## Part 8—Imposition of fees and taxes
 
@@ -488,7 +488,8 @@ of Assent</div>
     <div>16 Dec 1995</div>
   </td>
   <td>
-    <div>Schedule 2 (item 1): 1 July 1996 ( <i>see Gazette</i>1996, No. S230)</div>
+    <div>Ss. 1 and 2: Royal Assent 
+Remainder: 1 July 1996 ( <i>see Gazette</i>1996, No. S230)</div>
   </td>
   <td>
     <div>—</div>
@@ -580,30 +581,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 45) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amended by Schedule 1 (items 28–30) only of the _Jurisdiction of Courts Legislation Amendment Act 2000_, subsection 2(2) of which provides as follows:
+_(a)_    The _Agricultural and Veterinary Chemicals Act 1994_ was amended by Schedule 1 (items 28–30) only of the _Jurisdiction of Courts Legislation Amendment Act 2000_, subsection 2(2) of which provides as follows:
 
                  (2)   The items in Schedule 1, other than items 77 to 90, commence on a day or days to be fixed by Proclamation. 
 
-_(b)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amended by Schedule 3 (item 1) only of the _Australia New Zealand Food Authority Amendment Act 2001_, subsections 2(1)(a), (2) and (5) of which provide as follows:
+_(b)_    The _Agricultural and Veterinary Chemicals Act 1994_ was amended by Schedule 3 (item 1) only of the _Australia New Zealand Food Authority Amendment Act 2001_, subsections 2(1)(a), (2) and (5) of which provide as follows:
 
                  (1)   The following provisions commence on the day on which this Act receives the Royal Assent:
 
@@ -747,26 +731,11 @@ _(c)_     The _Agricultural and Veterinary Chemicals Act 1994_ was amend
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 45  Subsection 3(3)
-
-Omit “subsection 22(3)”, substitute “section 2H”.
-
-As at 6 July 2011 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Australia New Zealand Food Authority Amendment Act 2001 
- (No. 81, 2001)_
+_Australia New Zealand Food Authority Amendment Act 2001 (No. 81, 2001)_
 
            2(6)  In this section:
 
@@ -782,21 +751,5 @@ _Agricultural and Veterinary Chemicals Legislation Amendment Act 2001
 ## 4  Application of amendment
 
 The amendment made by item 2 of this Schedule applies in relation to matters arising before, on or after the commencement of that item.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
