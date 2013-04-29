@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00015/Html/AusSportsComm89WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00542/Html/AusSportsComm89WD02_image001.gif)
 
 # Australian Sports Commission Act 1989
 
 **Act No. 12 of 1989 as amended**
 
-This compilation was prepared on 1 January 2010
+This compilation was prepared on 25 November 2009
  taking into account amendments up to Act No. 113 of 2009
 
 The text of any of those amendments not in force
@@ -20,129 +20,129 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Extension to external Territories
+[4](#4).            Extension to external Territories                                                          2
 
 **Part II—Establishment, objects, functions and powers of the Commission**
 
-[5](#5).            Establishment
+[5](#5).            Establishment                                                                                      3
 
-[6](#6).            Objects
+[6](#6).            Objects                                                                                                 3
 
-[7](#7).            Functions
+[7](#7).            Functions                                                                                             4
 
-[8](#8).            Powers
+[8](#8).            Powers                                                                                                 6
 
-[9](#9).            Commission to operate under the name Australian Institute of Sport when performing certain functions
+[9](#9).            Commission to operate under the name Australian Institute of Sport when performing certain functions            7
 
-[10](#10).          Australian Sports Foundation
+[10](#10).          Australian Sports Foundation                                                             7
 
-[11](#11).          Minister may give directions
+[11](#11).          Minister may give directions                                                               7
 
-[12](#12).          Access to facilities by individuals and community groups
+[12](#12).          Access to facilities by individuals and community groups                 8
 
 **Part III—Constitution and meetings of the Commission**
 
-[13](#13).          Membership of Commission
+[13](#13).          Membership of Commission                                                               9
 
-[14](#14).          Leave of absence
+[14](#14).          Leave of absence                                                                                10
 
-[15](#15).          Resignation
+[15](#15).          Resignation                                                                                        10
 
-[16](#16).          Outside employment
+[16](#16).          Outside employment                                                                         10
 
-[17](#17).          Remuneration and allowances
+[17](#17).          Remuneration and allowances                                                            11
 
-[19](#19).          Termination of appointment
+[19](#19).          Termination of appointment                                                             11
 
-[20](#20).          Acting appointments
+[20](#20).          Acting appointments                                                                         12
 
-[21](#21).          Meetings of Commission
+[21](#21).          Meetings of Commission                                                                   13
 
-[22](#22).          Committees
+[22](#22).          Committees                                                                                        14
 
 **Part IV—Strategic plans and annual operational plans**
 
-[23](#23).          Strategic plans
+[23](#23).          Strategic plans                                                                                    16
 
-[24](#24).          Approval and commencement of strategic plans
+[24](#24).          Approval and commencement of strategic plans                               16
 
-[25](#25).          Variation of strategic plans
+[25](#25).          Variation of strategic plans                                                                16
 
-[26](#26).          Annual operational plan
+[26](#26).          Annual operational plan                                                                    17
 
-[27](#27).          Compliance with plans
+[27](#27).          Compliance with plans                                                                      18
 
 **Part V—Executive Director and Director of Institute**
 
-[28](#28).          Executive Director
+[28](#28).          Executive Director                                                                             19
 
-[29](#29).          Duties of Executive Director
+[29](#29).          Duties of Executive Director                                                             19
 
-[30](#30).          Director
+[30](#30).          Director                                                                                              19
 
-[31](#31).          Duties of Director
+[31](#31).          Duties of Director                                                                              19
 
-[32](#32).          Tenure of Executive Director
+[32](#32).          Tenure of Executive Director                                                             20
 
-[33](#33).          Remuneration and allowances
+[33](#33).          Remuneration and allowances                                                            20
 
-[34](#34).          Outside employment
+[34](#34).          Outside employment                                                                         20
 
-[35](#35).          Leave of absence
+[35](#35).          Leave of absence                                                                                20
 
-[36](#36).          Resignation
+[36](#36).          Resignation                                                                                        21
 
-[37](#37).          Disclosure of interests
+[37](#37).          Disclosure of interests                                                                       21
 
-[38](#38).          Terms and conditions of appointment not provided for by Act
+[38](#38).          Terms and conditions of appointment not provided for by Act       21
 
-[39](#39).          Acting Executive Director
+[39](#39).          Acting Executive Director                                                                  21
 
-[40](#40).          Application of sections 32 to 39 to Director
+[40](#40).          Application of sections 32 to 39 to Director                                    22
 
 **Part VI—Staff and consultants**
 
-[41](#41).          Employees
+[41](#41).          Employees                                                                                         23
 
-[42](#42).          Consultants
+[42](#42).          Consultants                                                                                        23
 
 **Part VII—Finance**
 
-[43](#43).          Appropriation of money
+[43](#43).          Appropriation of money                                                                   24
 
-[45](#45).          Application of money
+[45](#45).          Application of money                                                                       24
 
-[46](#46).          Borrowing from the Commonwealth
+[46](#46).          Borrowing from the Commonwealth                                                 24
 
-[47](#47).          Contracts
+[47](#47).          Contracts                                                                                           25
 
-[48](#48).          Extra matters to be included in annual report
+[48](#48).          Extra matters to be included in annual report                                    25
 
-[50](#50).          Commission exempt from taxation
+[50](#50).          Commission exempt from taxation                                                    26
 
-[51](#51).          Foundation exempt from taxation
+[51](#51).          Foundation exempt from taxation                                                      26
 
 **Part VIII—Miscellaneous**
 
-[52](#52).          Trust money
+[52](#52).          Trust money                                                                                      27
 
-[54](#54).          Delegation by Commission
+[54](#54).          Delegation by Commission                                                                27
 
-[55](#55).          Delegation by Executive Director
+[55](#55).          Delegation by Executive Director                                                      28
 
-[56](#56).          Delegation by Minister
+[56](#56).          Delegation by Minister                                                                      28
 
-[57](#57).          Protection from civil actions
+[57](#57).          Protection from civil actions                                                              28
 
-[57A](#57A).       Disclosure of information to the Australian Sports Anti-Doping Authority or the Anti-Doping Rule Violation Panel
+[57A](#57A).       Disclosure of information to the Australian Sports Anti-Doping Authority          28
 
-[58](#58).          Regulations
+[58](#58).          Regulations                                                                                        29
 
 **Notes** 
 
@@ -266,7 +266,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (4)  Subject to section 11, the function of the Commission under paragraph (1)(q) may be performed at the discretion of the Commission.
 
-          (4A)  The function of the Commission under paragraph (1)(r) may only be performed to the extent that it does not overlap any of the functions of the Chief Executive Officer of the Australian Sports Anti-Doping Authority.
+          (4A)  The function of the Commission under paragraph (1)(r) may only be performed to the extent that it does not overlap any of the functions of the Australian Sports Anti-Doping Authority.
 
              (5)  The Commission may perform its functions to the extent only that they are not in excess of the functions that may be conferred on it by virtue of any of the legislative powers of the Parliament, and, in particular, may perform its functions:
 
@@ -840,15 +840,13 @@ all or any of the Minister’s powers under this Act, other than the Minister’
 
                    A member, the Executive Director or the Director is not liable to an action or other proceeding for damages for or in relation to an act done or omitted to be done in good faith in the performance or purported performance of any function, or in the exercise or purported exercise of any power, of the Commission.
 
-##### <a id="57A"></a>57A  Disclosure of information to the Australian Sports Anti-Doping Authority or the Anti-Doping Rule Violation Panel
+##### <a id="57A"></a>57A  Disclosure of information to the Australian Sports Anti-Doping Authority
 
-             (1)  The Commission may disclose information to the Chief Executive Officer of the Australian Sports Anti-Doping Authority if the information:
+             (1)  The Commission may disclose information to the Australian Sports Anti-Doping Authority if the information:
 
-                     (a)  relates to a sports doping and safety matter (within the meaning of the _Australian Sports Anti-Doping Authority Act 2006_); or
+                     (a)  relates to a sports drug and safety matter (within the meaning of the _Australian Sports Anti-Doping Authority_ _Act 2006_); or
 
-                     (b)  is otherwise relevant to the performance of the functions of the Chief Executive Officer of the Australian Sports Anti-Doping Authority; or
-
-                     (c)  is otherwise relevant to the performance of the functions of the Anti-Doping Rule Violation Panel.
+                     (b)  is otherwise relevant to the performance of the functions of the Australian Sports Anti-Doping Authority.
 
              (2)  If information disclosed under subsection (1) is personal information (within the meaning of the _Privacy Act 1988_), the information is taken to be NAD scheme personal information for the purposes of the _Australian Sports Anti-Doping Authority_ _Act 2006_.
 
@@ -1194,7 +1192,7 @@ Royal Assent</div>
     <div>16 Nov 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 124, 125): 1 Jan 2010</div>
+    <div>Schedule 1 (items 124, 125): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1295,7 +1293,7 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 106, 1999; No. 7, 2006; No. 113, 2009</div>
+    <div>am. No. 106, 1999; No. 7, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1724,26 +1722,10 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 57A</div>
-  </td>
-  <td>
-    <div>am. No. 113, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 57A</div>
   </td>
   <td>
     <div>ad. No. 7, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 113, 2009</div>
   </td>
 </tr>
 <tr>
@@ -1762,6 +1744,35 @@ _(f)_      The _Australian Sports Commission Act 1989_ was amended by 
     <div>rep. No. 25, 1995</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Australian Sports Anti-Doping Authority Amendment Act 2009 
+ (No. 113, 2009)_
+
+The following amendments commence on 1 January 2010:
+
+## Schedule 1
+
+## 124  Subsection 7(4A)
+
+Before “Australian”, insert “Chief Executive Officer of the”.
+
+## 125  Subsection 57A(1)
+
+Repeal the subsection, substitute:
+
+             (1)  The Commission may disclose information to the Chief Executive Officer of the Australian Sports Anti-Doping Authority if the information:
+
+                     (a)  relates to a sports doping and safety matter (within the meaning of the _Australian Sports Anti-Doping Authority Act 2006_); or
+
+                     (b)  is otherwise relevant to the performance of the functions of the Chief Executive Officer of the Australian Sports Anti-Doping Authority; or
+
+                     (c)  is otherwise relevant to the performance of the functions of the Anti-Doping Rule Violation Panel.
+
+_Note:       The heading to section 57A is altered by adding at the end “or the Anti-Doping Rule Violation Panel”._
+
+As at 25 November 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
