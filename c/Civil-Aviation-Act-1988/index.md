@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00743/Html/c27cb673-0a7d-48d0-b4d1-84cefaa61cb8_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00401/Html/CivilAviat1988_WD02_image001.gif)
 
 # Civil Aviation Act 1988
 
 **Act No. 63 of 1988 as amended**
 
-This compilation was prepared on 1 November 2010
+This compilation was prepared on 8 June 2010
  taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
@@ -248,7 +248,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30DS](#30DS).     Definitions
 
-[30DT](#30DT).     Regulations may prescribe offences that the demerit points scheme applies to
+[30DT](#30DT).    Regulations may prescribe offences that the demerit points scheme applies to
 
 [30DU](#30DU).    Classes of civil aviation authorisations
 
@@ -264,7 +264,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [30DY](#30DY).    First-time demerit suspension notice
 
-[30DZ](#30DZ).     Second-time demerit suspension notice
+[30DZ](#30DZ).    Second-time demerit suspension notice
 
 [30EA](#30EA).     Details in a demerit suspension notice
 
@@ -376,9 +376,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 32AMA Making false statements in warrants
 
-[32AMB](#32AMB). Offence for stating incorrect names in telephone warrants
+32AMB Offence for stating incorrect names in telephone warrants
 
-[32AMC](#32AMC). Offence for unauthorised form of warrant
+32AMC Offence for unauthorised form of warrant
 
 [32AMD Offence for executing etc](#32AMD Offence for executing etc). an unauthorised form of warrant
 
@@ -404,7 +404,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [32AS](#32AS).     Admissibility of CVR information in civil proceedings
 
-[32AT](#32AT).     Examination by a court of CVR information under subsection 32AS(3)
+[32AT](#32AT).    Examination by a court of CVR information under subsection 32AS(3)
 
 [32AU](#32AU).    Where a court makes an order under subsection 32AS(3)
 
@@ -662,7 +662,7 @@ Note:          Some references to Australian aircraft may be a
 
                             (iii)  services of the kind referred to in paragraph 6(1)(b) of the _Australian Maritime Safety Authority Act 1990_ to the extent that those services use aircraft;
 
-                            and any construction associated with those facilities or services;
+                            and any construction associated with those facilities or services;
 
                       (f)  the personnel engaged in:
 
@@ -748,7 +748,7 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name="director"></a>**_Director_** means the Director of Aviation Safety appointed under section 74.
 
-                    <a name="director"></a><a name="director-caa-new-zealand"></a>**_Director of CAA New Zealand_** has the same meaning as **_Director_** has in the Civil Aviation Act 1990 of New Zealand.
+                    <a name="director"></a><a name="director-caa-new-zealand"></a>**_Director of CAA New Zealand_** has the same meaning as **_Director_** has in the Civil Aviation Act 1990 of New   Zealand.
 
                     <a name="evidenti-materi"></a>**_evidential material_** means a thing that may be relevant to a civil aviation offence.
 
@@ -800,9 +800,9 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name=""></a><a name="new-zealand"></a>**_New Zealand_** has the same meaning as in the Interpretation Act 1999  of New Zealand.
 
-                    <a name="aoc-anza-privileg"></a><a name="new-zealand"></a>**_New Zealand_****_AOC with ANZA privileges_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New Zealand.
+                    <a name="aoc-anza-privileg"></a><a name="new-zealand"></a>**_New Zealand_****_AOC with ANZA privileges_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New   Zealand.
 
-                    <a name="temporari-stop-notic"></a><a name="new-zealand"></a>**_New Zealand_****_temporary stop notice_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New Zealand.
+                    <a name="temporari-stop-notic"></a><a name="new-zealand"></a>**_New Zealand_****_temporary stop notice_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New   Zealand.
 
                     <a name="non-schuled-flight"></a>**_non-scheduled flight_** means a flight over or into Australian territory otherwise than under the authority of an international airline licence issued under the _Air Navigation Act 1920_.
 
@@ -858,15 +858,15 @@ and includes a part of any such premises.
 
                              (ii)  it is in a wrecked or damaged condition.
 
-##### <a id="3AA"></a>3AA  When a New Zealand AOC with ANZA privileges is _in force for Australia_
+##### <a id="3AA"></a>3AA  When a New Zealand AOC with ANZA privileges is _in force for__Australia_
 
-             (1)  For the purposes of this Act, a New Zealand AOC with ANZA privileges is **_in force for Australia_** if the AOC:
+             (1)  For the purposes of this Act, a New Zealand AOC with ANZA privileges is **_in force for_****_Australia_** if the AOC:
 
                      (a)  is current under the Civil Aviation Act 1990 of New Zealand; and
 
                      (b)  has come into force for Australia under subsection 28C(1) of this Act.
 
-             (2)  However, while an Australian temporary stop notice is in force in relation to particular activities authorised by a New Zealand AOC with ANZA privileges, the AOC is not **_in force for Australia_** in relation to those activities.
+             (2)  However, while an Australian temporary stop notice is in force in relation to particular activities authorised by a New Zealand AOC with ANZA privileges, the AOC is not **_in force for_****_Australia_** in relation to those activities.
 
 ##### <a id="3A"></a>3A  Main object of this Act
 
@@ -932,7 +932,7 @@ CASA must, as soon as practicable, publish a _Gazette_ notice setting out partic
 
                      (b)  any other person employed by the Crown.
 
-##### <a id="6"></a>6  Extension to external Territories
+##### <a id="6"></a>6  Extension to external Territories
 
                    This Act extends to all the external Territories.
 
@@ -944,7 +944,7 @@ CASA must, as soon as practicable, publish a _Gazette_ notice setting out partic
 
                     (aa)  foreign registered aircraft specified in any 83 bis agreement that has the effect of transferring functions or duties; and
 
-                   (ab)  the provision of services referred to in subsection 9(4); and
+                    (ab)  the provision of services referred to in subsection 9(4); and
 
                      (b)  subject to any 83 bis agreement, Australian aircraft operating outside Australian territory; and
 
@@ -982,7 +982,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  the operation of Australian aircraft outside Australian territory;
 
-                   (ba)  ANZA activities in New Zealand authorised by Australian AOCs with ANZA privileges;
+                    (ba)  ANZA activities in New Zealand authorised by Australian AOCs with ANZA privileges;
 
 by means that include the following:
 
@@ -990,7 +990,7 @@ by means that include the following:
 
                      (d)  developing effective enforcement strategies to secure compliance with aviation safety standards;
 
-                   (da)  administering Part IV (about drug and alcohol management plans and testing);
+                    (da)  administering Part IV (about drug and alcohol management plans and testing);
 
                      (e)  issuing certificates, licences, registrations and permits;
 
@@ -1020,13 +1020,13 @@ by means that include the following:
 
                      (b)  any functions conferred on CASA under the _Civil Aviation (Carriers’ Liability) Act 1959_, or under a corresponding law of a State or Territory;
 
-                   (ba)  enforcing the requirements of this Act and the regulations in relation to insurance and financial arrangements required under Part IVA of the _Civil Aviation (Carriers’ Liability) Act 1959_;
+                    (ba)  enforcing the requirements of this Act and the regulations in relation to insurance and financial arrangements required under Part IVA of the _Civil Aviation (Carriers’ Liability) Act 1959_;
 
                      (c)  any functions conferred on CASA under the _Air Navigation Act 1920_;
 
                     (ca)  entering into 83 bis agreements on behalf of Australia;
 
-                   (cb)  any functions conferred on CASA under the _Aviation Transport Security Act 2004_;
+                    (cb)  any functions conferred on CASA under the _Aviation Transport Security Act 2004_;
 
                     (cc)  any functions conferred on CASA under the _Airspace Act 2007_ or under regulations under that Act;
 
@@ -1342,7 +1342,7 @@ the pilot in command of the aircraft shall comply with any direction given by an
 
                      (a)  in accordance with the regulations, including any conditions subject to which the regulations permit the carriage of those goods; or
 
-                   (ab)  in accordance with the _Aviation Transport Security Regulations 2005_, including any conditions subject to which those regulations permit the carriage of those goods; or
+                    (ab)  in accordance with the _Aviation Transport Security Regulations 2005_, including any conditions subject to which those regulations permit the carriage of those goods; or
 
                      (b)  with the written permission of CASA and in accordance with any conditions specified in the permission.
 
@@ -1350,7 +1350,7 @@ the pilot in command of the aircraft shall comply with any direction given by an
 
                      (a)  in accordance with the regulations, including any conditions subject to which the regulations permit the carriage or consignment of those goods; or
 
-                   (ab)  in accordance with the _Aviation Transport Security Regulations 2005_, including any conditions subject to which those regulations permit the carriage or consignment of those goods; or
+                    (ab)  in accordance with the _Aviation Transport Security Regulations 2005_, including any conditions subject to which those regulations permit the carriage or consignment of those goods; or
 
                      (b)  with the written permission of CASA and in accordance with any conditions specified in the permission.
 
@@ -1370,7 +1370,7 @@ the pilot in command of the aircraft shall comply with any direction given by an
 
                      (a)  in accordance with the regulations, including any conditions subject to which the regulations permit the carriage or consignment of those goods; or
 
-                   (ab)  in accordance with the _Aviation Transport Security Regulations 2005_, including any conditions subject to which those regulations permit the carriage or consignment of those goods; or
+                    (ab)  in accordance with the _Aviation Transport Security Regulations 2005_, including any conditions subject to which those regulations permit the carriage or consignment of those goods; or
 
                      (b)  with the written permission of CASA and in accordance with any conditions specified in the permission.
 
@@ -1562,7 +1562,7 @@ Permissions—suspension and cancellation
 
 ### Division 1A—General provisions about mutual recognition under the ANZA mutual recognition agreements
 
-##### <a id="26A"></a>26A  Guide to how this Act deals with mutual recognition between Australia and New Zealand
+##### <a id="26A"></a>26A  Guide to how this Act deals with mutual recognition between Australia and New   Zealand
 
              (1)  This Division contains various general provisions relating to mutual recognition under the ANZA mutual recognition agreements.
 
@@ -1606,7 +1606,7 @@ Permissions—suspension and cancellation
     <div>1</div>
   </td>
   <td>
-    <div>New Zealand AOCs that will be recognised in Australia (k nown as
+    <div>New Zealand AOCs that will be recognised in Australia (known as
       <b>
         <i>New Zealand</i>
       </b>
@@ -1679,7 +1679,7 @@ Permissions—suspension and cancellation
 
 ##### <a id="26C"></a>26C  Obligation to consult Director of CAA New Zealand before taking certain actions
 
-                   Before taking any action under this Act or the regulations that would or might affect the ANZA activities in New Zealand that an Australian AOC with ANZA privileges authorises, CASA must:
+                   Before taking any action under this Act or the regulations that would or might affect the ANZA activities in New   Zealand that an Australian AOC with ANZA privileges authorises, CASA must:
 
                      (a)  if required by the ANZA mutual recognition agreements, consult the Director of CAA New Zealand; and
 
@@ -1719,9 +1719,9 @@ Note:          For when a New Zealand AOC with ANZA privileges
 
 Note:          The kind of operations authorised by the AOC in New Zealand need not be the same kind of operations as are authorised by the AOC in Australian territory.
 
-       (2AB)  Subsection (2AA) is not intended to limit the circumstances in which CASA may, otherwise than for the purpose of the ANZA mutual recognition agreements, issue an AOC that covers matters referred to in that subsection.
+        (2AB)  Subsection (2AA) is not intended to limit the circumstances in which CASA may, otherwise than for the purpose of the ANZA mutual recognition agreements, issue an AOC that covers matters referred to in that subsection.
 
-       (2AC)  An AOC that is, to an extent (whether wholly or partly), issued for the purpose of the ANZA mutual recognition agreements, must be expressed to be issued for that purpose to that extent.
+        (2AC)  An AOC that is, to an extent (whether wholly or partly), issued for the purpose of the ANZA mutual recognition agreements, must be expressed to be issued for that purpose to that extent.
 
           (2A)  An AOC may authorise the flying or operation of an aircraft, other than the operation of a foreign registered aircraft on regulated domestic flights, by authorising the flying or operation of aircraft included in a class of aircraft described in the AOC.
 
@@ -2099,7 +2099,7 @@ CASA may have regard to the matters set out in section 28AA.
 
                     (aa)  the conditions subject to which the AOC has effect because of section 28BAA;
 
-                   (ab)  the condition that section 28BI is complied with in relation to each operation, covered by the AOC, to which that section applies;
+                    (ab)  the condition that section 28BI is complied with in relation to each operation, covered by the AOC, to which that section applies;
 
                      (b)  any conditions specified in the regulations or Civil Aviation Orders;
 
@@ -2135,7 +2135,7 @@ whether or not the breach is continuing.
 
                      (b)  the Secretary of the Department does not advise CASA that, having regard to the ANZA mutual recognition agreements, the holder of the AOC is no longer eligible to hold an Australian AOC with ANZA privileges.
 
-##### <a id="28BB"></a>28BB  CASA may impose and vary AOC conditions
+##### <a id="28BB"></a>28BB  CASA may impose and vary AOC conditions
 
              (1)  CASA may:
 
@@ -2279,7 +2279,7 @@ Note:          The provisions referred to in paragraphs (1)(
 
 #### Subdivision F—Other provisions relating to Australian and New Zealand AOCs with ANZA privileges
 
-##### <a id="28C"></a>28C  Certain documents and information to be given to CASA by holder of New Zealand AOC with ANZA privileges
+##### <a id="28C"></a>28C  Certain documents and information to be given to CASA by holder of New   Zealand AOC with ANZA privileges
 
              (1)  A New Zealand AOC with ANZA privileges comes into force for Australia when the holder gives CASA:
 
@@ -2323,7 +2323,7 @@ Note 2:       The obligation to notify CASA of a change is a continu
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="28D"></a>28D  Director’s power to give an Australian temporary stop notice to holder of New Zealand AOC with ANZA privileges
+##### <a id="28D"></a>28D  Director’s power to give an Australian temporary stop notice to holder of New   Zealand AOC with ANZA privileges
 
              (1)  The Director may give the holder of a New Zealand AOC with ANZA privileges a notice (an **_Australian temporary stop notice_**) that requires the holder to cease conducting all or any of the ANZA activities in Australian territory that the AOC authorises for the period (which must not be more than 7 days) specified in the notice.
 
@@ -2359,7 +2359,7 @@ Note:          Section 11J of the Civil Aviation Act 1990 of
 
 Note:          CASA must consult the Director of CAA New Zealand if CASA proposes to take action that would or might affect ANZA activities in New Zealand (see section 26C).
 
-##### <a id="28G"></a>28G  Disapplying regulations that would otherwise apply to the holder of a New Zealand AOC with ANZA privileges
+##### <a id="28G"></a>28G  Disapplying regulations that would otherwise apply to the holder of a New   Zealand AOC with ANZA privileges
 
              (1)  The regulations may provide that specified regulations made under this Act do not apply in relation to all or specified ANZA activities in Australian territory authorised by a New Zealand AOC with ANZA privileges.
 
@@ -3625,7 +3625,7 @@ the investigator or the person assisting him or her must, if requested to do so 
 
                      (b)  possession of the document, film, computer file, thing or information by the occupier could constitute an offence.
 
-##### <a id="32AHM"></a>32AHM  Receipts of things seized under warrant
+##### <a id="32AHM"></a>32AHM  Receipts of things seized under warrant
 
              (1)  If a thing is seized, as allowed by section 32AH, the investigator executing the warrant or person assisting him or her must provide a receipt for the thing.
 
@@ -4807,9 +4807,9 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (b)  the manner of applying for AOCs, including the information that may be required, and the conditions to be satisfied, for the issue of AOCs;
 
-                   (ba)  the manner of applying for permissions under Part III, including the information that may be required, and the conditions to be satisfied, for the granting of permissions;
+                    (ba)  the manner of applying for permissions under Part III, including the information that may be required, and the conditions to be satisfied, for the granting of permissions;
 
-                   (bb)  requiring specified persons to provide CASA with, or to ensure that CASA is provided with, specified information relating to the entering into, modification, cancellation, non-renewal or expiry of acceptable contracts of insurance or adequate financial arrangements in relation to specified passenger-carrying operations (within the meaning of Part IVA of the _Civil Aviation (Carriers’ Liability) Act 1959_), to the extent that the insurance or arrangements are required under this Act;
+                    (bb)  requiring specified persons to provide CASA with, or to ensure that CASA is provided with, specified information relating to the entering into, modification, cancellation, non-renewal or expiry of acceptable contracts of insurance or adequate financial arrangements in relation to specified passenger-carrying operations (within the meaning of Part IVA of the _Civil Aviation (Carriers’ Liability) Act 1959_), to the extent that the insurance or arrangements are required under this Act;
 
                      (c)  requiring persons performing specified functions in relation to the operation or maintenance of aircraft and aerodromes to be the holders of licences, permits or certificates of specified kinds, and providing for the grant, issue, cancellation, suspension or variation of such licences, permits and certificates;
 
@@ -4827,13 +4827,13 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (k)  the powers (including powers of arrest) that may be exercised by members of the crew of an aircraft, in relation to persons on board the aircraft, for the purpose of ensuring the safety of the aircraft or of its passengers, crew or cargo or otherwise for the purposes of this Act or the regulations;
 
-                   (ka)  requiring specified persons to prepare or alter flight manuals, operations manuals, procedures manuals, maintenance manuals, systems of maintenance and other specified manuals and documents relating to the safe operation of aircraft;
+                    (ka)  requiring specified persons to prepare or alter flight manuals, operations manuals, procedures manuals, maintenance manuals, systems of maintenance and other specified manuals and documents relating to the safe operation of aircraft;
 
-                   (kb)  the approval by CASA of such manuals, systems and documents and of alterations of them;
+                    (kb)  the approval by CASA of such manuals, systems and documents and of alterations of them;
 
-                   (kc)  empowering CASA to prepare and alter such manuals, systems and documents;
+                    (kc)  empowering CASA to prepare and alter such manuals, systems and documents;
 
-                   (kd)  requiring specified persons to comply with such manuals, systems and documents as in force at a particular time or from time to time;
+                    (kd)  requiring specified persons to comply with such manuals, systems and documents as in force at a particular time or from time to time;
 
                     (m)  the review of decisions made under the regulations;
 
@@ -4865,7 +4865,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (b)  an aviation document, within the meaning of the Civil Aviation Act 1990 of New Zealand.
 
-       (3AB)  Subsection (3AA) does not prevent the making of regulations for purposes connected with the _Trans-Tasman Mutual Recognition Act 1997_.
+        (3AB)  Subsection (3AA) does not prevent the making of regulations for purposes connected with the _Trans-Tasman Mutual Recognition Act 1997_.
 
           (3A)  The regulations may make provision for or in relation to a matter by applying, adopting or incorporating, with or without modification, any matter contained in a written instrument or other document, as in force at a particular time or from time to time, even if the written instrument or other document does not yet exist when the regulation is made.
 
@@ -4887,7 +4887,7 @@ to a person who is not an officer.
 
              (5)  The regulations may provide that CASA may issue a Civil Aviation Order containing a direction, instruction, notification, permission, approval or authority.
 
-    (5AAA)  A Civil Aviation Order issued under a regulation made under subsection (5) is a legislative instrument, but Part 6 of the _Legislative Instruments Act 2003_ does not apply to the Order.
+     (5AAA)  A Civil Aviation Order issued under a regulation made under subsection (5) is a legislative instrument, but Part 6 of the _Legislative Instruments Act 2003_ does not apply to the Order.
 
           (5A)  The regulations may empower CASA to issue instruments in relation to the following:
 
@@ -4907,7 +4907,7 @@ An instrument must not prescribe a penalty.
 
 but Part 6 of the _Legislative Instruments Act 2003_ does not apply to the instrument.
 
-       (5AB)  An instrument issued under paragraph (5A)(a) is not a legislative instrument if the instrument is expressed to apply in relation to:
+        (5AB)  An instrument issued under paragraph (5A)(a) is not a legislative instrument if the instrument is expressed to apply in relation to:
 
                      (a)  a particular person; or
 
@@ -4925,7 +4925,7 @@ but Part 6 of the _Legislative Instruments Act 2003_ does not apply to the ins
 
 but Part 6 of the _Legislative Instruments Act 2003_ does not apply to the instrument.
 
-       (5BA)  However, an instrument issued under a regulation made under paragraph (5A)(b) is not a legislative instrument if the instrument is expressed to apply in relation to:
+        (5BA)  However, an instrument issued under a regulation made under paragraph (5A)(b) is not a legislative instrument if the instrument is expressed to apply in relation to:
 
                      (a)  a particular person; or
 
@@ -5955,7 +5955,7 @@ Schedule 1 (items 10, 11): 1 July 2009</div>
   </td>
   <td>
     <div>Sch. 1 (item 26) 
-S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
+S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -5986,7 +5986,7 @@ S. 4 (am. by 51, 2010, Sch. 5 \[items 9, 10]) \[ <i>see</i>Table A]</div>
     <div>31 May 2010</div>
   </td>
   <td>
-    <div>Schedule 5 (items 9, 10): <i>(xa)</i></div>
+    <div>Schedule 5 (items 9, 10):\[ <i>see (xa)</i>and Table A]</div>
   </td>
   <td>
     <div>—</div>
@@ -6049,7 +6049,7 @@ _(a)_     The _Civil Aviation Act 1988_ was amended by section 8 only 
 
                  (3)   The amendments of the _Civil Aviation Act 1988_ made by this Act shall be taken to have commenced on 15 June 1988.
 
-_(b)_     The _Civil Aviation Amendment Act 1990_ was amended by section 45 only of the _Transport and Communications Legislation Amendment Act 1990_, paragraph 2(13)(b) of which provides as follows:
+_(b)_    The _Civil Aviation Amendment Act 1990_ was amended by section 45 only of the _Transport and Communications Legislation Amendment Act 1990_, paragraph 2(13)(b) of which provides as follows:
 
                  (b)   the amendment of the _Civil Aviation Amendment Act 1990_ is taken to have commenced immediately after the commencement of section 42 of that Act.
 
@@ -6394,7 +6394,8 @@ _(t)_ Subsection 2(1) (items 3, 5, 7, 9 and 11) of the _Civil Aviation Amendme
   </td>
   <td>
     <div>
-      At the end of 20 February 2004
+      At the end of
+      20 February 2004
     </div>
   </td>
 </tr>
@@ -6412,7 +6413,8 @@ _(t)_ Subsection 2(1) (items 3, 5, 7, 9 and 11) of the _Civil Aviation Amendme
   </td>
   <td>
     <div>
-      At the end of 20 February 2004
+      At the end of
+      20 February 2004
     </div>
   </td>
 </tr>
@@ -6430,7 +6432,8 @@ _(t)_ Subsection 2(1) (items 3, 5, 7, 9 and 11) of the _Civil Aviation Amendme
   </td>
   <td>
     <div>
-      At the end of 20 February 2004
+      At the end of
+      20 February 2004
     </div>
   </td>
 </tr>
@@ -6448,7 +6451,8 @@ _(t)_ Subsection 2(1) (items 3, 5, 7, 9 and 11) of the _Civil Aviation Amendme
   </td>
   <td>
     <div>
-      At the end of 20 February 2004
+      At the end of
+      20 February 2004
     </div>
   </td>
 </tr>
@@ -6466,7 +6470,8 @@ _(t)_ Subsection 2(1) (items 3, 5, 7, 9 and 11) of the _Civil Aviation Amendme
   </td>
   <td>
     <div>
-      At the end of 20 February 2004
+      At the end of
+      20 February 2004
     </div>
   </td>
 </tr></table>
@@ -6532,14 +6537,14 @@ _(u)_ Subsection 2(1) (item 2) of the _Aviation Security Amendment Act 2004_ p
     <div>
       10 March 2005
 
-      (paragraph (b) applies)
+(paragraph (b) applies)
     </div>
   </td>
 </tr></table>
 
 </div>
 
-_(v)_ Subsection 2(1) (items 2, 3 and 5) of the _Civil Aviation Legislation Amendment (Mutual Recognition with New Zealand) Act 2006_ provides as follows:
+_(v)_ Subsection 2(1) (items 2, 3 and 5) of the _Civil Aviation Legislation Amendment (Mutual Recognition with__New   Zealand__) Act 2006_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -6734,8 +6739,15 @@ _(w)_ Subsection 2(1) (items 3 and 4) of the _Aviation Legislation Amendment (In
     </div>
     <div>
       (b) the commencement of Schedule 1 to the
-        <i>Civil Aviation Legislation Amendment (1999 Montreal Convention and Other
-          Measures) Act 2008</i>.
+        <i>Civil Aviation Legislation Amendment (1999</i>
+
+      <i>
+        Montreal
+      </i>
+      <i>
+        Convention and Other Measures) Act 2008
+      </i>
+      .
     </div>
     <div>
       However, the provision(s) covered by this table item do not commence at
@@ -6879,7 +6891,8 @@ _(xa)_   Subsection 2(1) (item 7) of the _Freedom of Information Amendment
   </td>
   <td>
     <div>
-      1 November 2010
+      \[
+        <i>see</i>Table A]
     </div>
   </td>
 </tr></table>
@@ -7565,7 +7578,7 @@ Part III</div>
 </tr>
 <tr>
   <td>
-    <div>Subheads. to s. 25(1), (2).</div>
+    <div>Subheads. to s. 25(1), (2)</div>
   </td>
   <td>
     <div>ad. No. 87, 2008</div>
@@ -8891,7 +8904,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Renumbered s. 32AHO.</div>
+    <div>Renumbered s. 32AHO...</div>
   </td>
   <td>
     <div>No. 19, 2009</div>
@@ -10339,7 +10352,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 84(4)..................</div>
+    <div>Note to s. 84(4)...................</div>
   </td>
   <td>
     <div>ad. No. 105, 2003</div>
@@ -10355,7 +10368,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 84A .............</div>
+    <div>Heading to s. 84A ...............</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
@@ -10395,7 +10408,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>S. 84B.................................</div>
+    <div>S. 84B..................................</div>
   </td>
   <td>
     <div>ad. No. 105, 2003</div>
@@ -10411,7 +10424,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>S. 84C.................................</div>
+    <div>S. 84C..................................</div>
   </td>
   <td>
     <div>ad. No. 105, 2003</div>
@@ -10427,7 +10440,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 85 ...............</div>
+    <div>Heading to s. 85 .................</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
@@ -10475,7 +10488,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 86.......................</div>
+    <div>Note to s. 86........................</div>
   </td>
   <td>
     <div>ad. No. 105, 2003</div>
@@ -10507,7 +10520,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 89 ...............</div>
+    <div>Heading to s. 89 .................</div>
   </td>
   <td>
     <div>am. No. 82, 1995; No. 105, 2003</div>
@@ -10547,7 +10560,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 90 ...............</div>
+    <div>Heading to s. 90 .................</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
@@ -10579,7 +10592,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 91 ...............</div>
+    <div>Heading to s. 91 .................</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
@@ -10659,7 +10672,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 94 ...............</div>
+    <div>Heading to s. 94 .................</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
@@ -10747,7 +10760,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 96................</div>
+    <div>Heading to s. 96..................</div>
   </td>
   <td>
     <div>am. No. 105, 2003</div>
@@ -10835,7 +10848,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Part IX ................................</div>
+    <div>Part IX .................................</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
@@ -10851,7 +10864,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Part X .................................</div>
+    <div>Part X ..................................</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
@@ -10867,7 +10880,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>Schedule ...........................</div>
+    <div>Schedule ............................</div>
   </td>
   <td>
     <div>am. No. 6, 1989</div>
@@ -10924,7 +10937,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -10934,7 +10947,7 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
 ## 419  Transitional—pre-commencement notices
 
@@ -11018,7 +11031,7 @@ _Note:       The Civil Aviation Regulations 1998 were renamed as the
 
 ## 5  Effect of the Civil Aviation Regulations and the Civil Aviation Safety Regulations before the commencement of this Schedule
 
-(1)       Subject to subitem (3), the rights and liabilities of all persons are, by force of this item, declared to be, and always to have been, the same as if:
+(1)        Subject to subitem (3), the rights and liabilities of all persons are, by force of this item, declared to be, and always to have been, the same as if:
 
                      (a)  the amendment made by item 1 of this Schedule had  been in force during the period:
 
@@ -11028,7 +11041,7 @@ _Note:       The Civil Aviation Regulations 1998 were renamed as the
 
                      (b)  regulations had been in force during that period that were in the same terms as the original Civil Aviation Regulations, as purportedly amended from time to time during that period.
 
-(2)       Subject to subitem (3), the rights and liabilities of all persons are, by force of this item, declared to be, and always to have been, the same as if:
+(2)        Subject to subitem (3), the rights and liabilities of all persons are, by force of this item, declared to be, and always to have been, the same as if:
 
                      (a)  the amendment made by item 1 of this Schedule had  been in force during the period:
 
@@ -11038,7 +11051,7 @@ _Note:       The Civil Aviation Regulations 1998 were renamed as the
 
                      (b)  regulations had been in force during that period that were in the same terms as the original Civil Aviation Safety Regulations, as purportedly amended from time to time during that period.
 
-(3)       This item does not affect the rights and liabilities arising between parties to a proceeding heard and finally determined by a court before the commencement of this Schedule, to the extent that those rights and liabilities arose from, or were affected by:
+(3)        This item does not affect the rights and liabilities arising between parties to a proceeding heard and finally determined by a court before the commencement of this Schedule, to the extent that those rights and liabilities arose from, or were affected by:
 
                      (a)  the original Civil Aviation Regulations (as purportedly amended as mentioned in paragraph (1)(b)); or
 
@@ -11046,19 +11059,19 @@ _Note:       The Civil Aviation Regulations 1998 were renamed as the
 
 ## 6  Effect of the Civil Aviation Regulations and the Civil Aviation Safety Regulations on and after the commencement of this Schedule
 
-(1)       The original Civil Aviation Regulations, as purportedly amended up to the commencement of this Schedule, have effect on and after the commencement of this Schedule as if the amendment made by item 1 of this Schedule had been in force during the period:
+(1)        The original Civil Aviation Regulations, as purportedly amended up to the commencement of this Schedule, have effect on and after the commencement of this Schedule as if the amendment made by item 1 of this Schedule had been in force during the period:
 
                      (a)  starting immediately before the time when the original Civil Aviation Regulations purported to commence; and
 
                      (b)  ending on the commencement of this Schedule.
 
-(2)       The original Civil Aviation Safety Regulations, as purportedly amended up to the commencement of this Schedule, have effect on and after the commencement of this Schedule as if the amendment made by item 1 of this Schedule had been in force during the period:
+(2)        The original Civil Aviation Safety Regulations, as purportedly amended up to the commencement of this Schedule, have effect on and after the commencement of this Schedule as if the amendment made by item 1 of this Schedule had been in force during the period:
 
                      (a)  starting immediately before the time when the original Civil Aviation Safety Regulations purported to commence; and
 
                      (b)  ending on the commencement of this Schedule.
 
-(3)       Regulations under section 98 of the _Civil Aviation Act 1988_ may deal with matters of a transitional, application or saving nature relating to the fact that the original Civil Aviation Regulations (as purportedly amended as mentioned in subitem (1)), and the original Civil Aviation Safety Regulations (as purportedly amended as mentioned in subitem (2)) are taken to have effect as provided in subitems (1) and (2).
+(3)        Regulations under section 98 of the _Civil Aviation Act 1988_ may deal with matters of a transitional, application or saving nature relating to the fact that the original Civil Aviation Regulations (as purportedly amended as mentioned in subitem (1)), and the original Civil Aviation Safety Regulations (as purportedly amended as mentioned in subitem (2)) are taken to have effect as provided in subitems (1) and (2).
 
 * * *
 
@@ -11074,43 +11087,43 @@ In this Division:
 
 ## 49  Application provisions
 
-(1)       The amendments made by items 1, 3, 5, 6, 7, 8, 9, 10, 14, 15, 16 and 17 of this Schedule apply in relation to anything:
+(1)        The amendments made by items 1, 3, 5, 6, 7, 8, 9, 10, 14, 15, 16 and 17 of this Schedule apply in relation to anything:
 
                      (a)  done at or after the commencement time; and
 
                      (b)  covered by a permission given or granted under section 25, 26 or 27A of the _Civil Aviation Act 1988_ before, at or after the commencement time.
 
-(2)       The amendment made by item 5 of this Schedule also applies in relation to anything:
+(2)        The amendment made by item 5 of this Schedule also applies in relation to anything:
 
                      (a)  done at or after the commencement time; and
 
                      (b)  covered by a permission given under section 23 of the _Civil Aviation Act 1988_ at or after the commencement time.
 
-(3)       The amendments made by items 11, 12 and 13 of this Schedule apply in relation to an application for an AOC made before, at or after the commencement time.
+(3)        The amendments made by items 11, 12 and 13 of this Schedule apply in relation to an application for an AOC made before, at or after the commencement time.
 
-(4)       The amendments made by items 19, 20, 21, 22, 24, 26 and 29 of this Schedule apply in relation to a flight or operation:
+(4)        The amendments made by items 19, 20, 21, 22, 24, 26 and 29 of this Schedule apply in relation to a flight or operation:
 
                      (a)  conducted or carried out at or after the commencement time; and
 
                      (b)  covered by an AOC issued before, at or after the commencement time.
 
-(5)       Regulations referred to in paragraph 98(3)(ba) of the _Civil Aviation Act 1988_, inserted by item 28 of this Schedule, may be expressed to apply in relation to an application for a permission made before, at or after the commencement time.
+(5)        Regulations referred to in paragraph 98(3)(ba) of the _Civil Aviation Act 1988_, inserted by item 28 of this Schedule, may be expressed to apply in relation to an application for a permission made before, at or after the commencement time.
 
-(6)       Regulations referred to in paragraph 98(3)(bb) of the _Civil Aviation Act 1988_, inserted by item 28 of this Schedule, may be expressed to apply in relation to insurance and arrangements required under that Act before, at or after the commencement time.
+(6)        Regulations referred to in paragraph 98(3)(bb) of the _Civil Aviation Act 1988_, inserted by item 28 of this Schedule, may be expressed to apply in relation to insurance and arrangements required under that Act before, at or after the commencement time.
 
 ## 50  Saving provisions
 
-(1)       If, immediately before the commencement time, a condition specified in a permission under section 25, 26 or 27A of the _Civil Aviation Act 1988_ was in force, the condition has effect, from the commencement time, as if it had been imposed under that section as amended by this Part.
+(1)        If, immediately before the commencement time, a condition specified in a permission under section 25, 26 or 27A of the _Civil Aviation Act 1988_ was in force, the condition has effect, from the commencement time, as if it had been imposed under that section as amended by this Part.
 
 ## 53  Saving provision
 
-(1)       In this item:
+(1)        In this item:
 
 **_Part 1 commencement time_** means the time at which Part 1 of this Schedule commences.
 
 **_Part IA notice_** means a notice given under subsection 41C(1) or 41CA(1) of the _Civil Aviation (Carriers’ Liability) Act 1959_, as in force before the Part 1 commencement time, in relation to carriage to which Part IA of that Act applies.
 
-(2)       If, immediately before the Part 1 commencement time, a Part IA notice was in force, the notice has effect, from the commencement of this item, as if it had been given under section 41JA of that Act as in force at the commencement of this item.
+(2)        If, immediately before the Part 1 commencement time, a Part IA notice was in force, the notice has effect, from the commencement of this item, as if it had been given under section 41JA of that Act as in force at the commencement of this item.
 
 * * *
 
@@ -11120,13 +11133,13 @@ _Civil Aviation Amendment Act 2009 (No. 19, 2009)_
 
 ## 25  Transitional provision relating to the Director
 
-(1)       The person holding office as the Director under section 84 of the old law immediately before 1 July 2009 is taken to have been duly appointed as the Director by the Board under section 74 of the new law:
+(1)        The person holding office as the Director under section 84 of the old law immediately before 1 July 2009 is taken to have been duly appointed as the Director by the Board under section 74 of the new law:
 
                      (a)  for the balance of the person’s term of appointment that remained immediately before 1 July 2009; and
 
                      (b)  on the terms and conditions provided for in Division 1 of Part VIIA of the new law.
 
-(2)       In this item:
+(2)        In this item:
 
 **_new law_** means the _Civil Aviation Act 1988_ as in force immediately after the commencement of this item.
 
@@ -11136,9 +11149,9 @@ _Civil Aviation Amendment Act 2009 (No. 19, 2009)_
 
 ## 28  Application
 
-(1)       The amendment made by item 8 of this Schedule applies to an undertaking given to CASA on or after the day on which this item commences.
+(1)        The amendment made by item 8 of this Schedule applies to an undertaking given to CASA on or after the day on which this item commences.
 
-(2)       The amendments made by this Schedule (other than items 7 to 10 and 27) apply in relation to:
+(2)        The amendments made by this Schedule (other than items 7 to 10 and 27) apply in relation to:
 
                      (a)  if a power is exercised under a warrant issued under Part IIIA of the _Civil Aviation Act 1988_—a warrant issued on or after the day on which this item commences; and
 
@@ -11148,7 +11161,7 @@ _Civil Aviation Amendment Act 2009 (No. 19, 2009)_
 
 ## 28  Application
 
-(1)       The amendments made by items 1 to 6 of this Schedule apply in relation to:
+(1)        The amendments made by items 1 to 6 of this Schedule apply in relation to:
 
                      (a)  an application for a permission or an AOC (within the meaning of the _Civil Aviation Act 1988_), whether made before, on or after 1 July 2009; and
 
@@ -11156,9 +11169,9 @@ _Civil Aviation Amendment Act 2009 (No. 19, 2009)_
 
                      (c)  an AOC issued before, on or after 1 July 2009.
 
-(2)       The amendment made by item 8 of this Schedule applies in relation to an offence that is committed on or after 1 July 2009.
+(2)        The amendment made by item 8 of this Schedule applies in relation to an offence that is committed on or after 1 July 2009.
 
-(3)       The amendments made by items 16 to 19 of this Schedule apply in relation to a decision for which a show cause notice is given by CASA on or after 1 July 2009.
+(3)        The amendments made by items 16 to 19 of this Schedule apply in relation to a decision for which a show cause notice is given by CASA on or after 1 July 2009.
 
 ## 29  Saving provision
 
@@ -11169,17 +11182,17 @@ The amendment made by item 23 of this Schedule does not affect the continuity 
 _Aviation Legislation Amendment (2008 Measures No. 2) Act 2009 
  (No. 26, 2009)_
 
-##### 4  Report of the Information Commissioner
+##### \[NOTE]  4  Report of the Privacy Commissioner
 
-             (1)  The Information Commissioner must examine the following matter:
+             (1)  The Privacy Commissioner must examine the following matter:
 
                             The privacy implications for flight crew members of the provisions of the _Civil Aviation Act 1988_ relating to copying or disclosure of CVR information, as amended by Part 2 of Schedule 1 of this Act.
 
-             (2)  In examining the matter the Information Commissioner must consult representatives of associations affected by the provisions.
+             (2)  In examining the matter the Privacy Commissioner must consult representatives of associations affected by the provisions.
 
              (3)  The Commissioner must produce a written report to the Minister within 15 months of the commencement of this Act about the operation of the provisions referred to in paragraph (1) over its first 12 months, and may include in the report any recommendations the Commissioner wishes to make for amendment of the provisions to address any privacy concerns. 
 
-             (4)  In examining and reporting on this matter the Information Commissioner may exercise any of the powers conferred upon him or her by the _Privacy Act 1988_.
+             (4)  In examining and reporting on this matter the Privacy Commissioner may exercise any of the powers conferred upon him or her by the _Privacy Act 1988_, and may delegate any matter to a member of his or her staff as provided for by section 99 of that Act.
 
              (5)  The Minister shall cause a copy of a report given to the Minister under subsection (3) to be laid before each House of the Parliament within 15 sitting days of that House after the report is received by the Minister.
 
@@ -11188,5 +11201,24 @@ _Aviation Legislation Amendment (2008 Measures No. 2) Act 2009
 ## 26  Application of Part 2 of this Schedule
 
 The amendments made by Part 2 of this Schedule apply to copying or disclosure that occurs on or after the commencement of that Part.
+
+_\[NOTE]:  Freedom of Information Amendment (Reform) Act 2010 
+ (No. 51, 2010)_
+
+The following amendments commence immediately after 1 November 2010 and amend section 4 of the _Aviation Legislation Amendment (2008 Measures No. 2) Act 2009_(No. 26, 2009) as follows:
+
+## Schedule 5
+
+## 9  Subsections 4(1), (2) and (4)
+
+Omit “Privacy Commissioner”, substitute “Information Commissioner”.
+
+_Note:       The heading to section 4 is altered by omitting “Privacy Commissioner” and substituting “Information Commissioner”._
+
+## 10  Subsection 4(4)
+
+Omit “, and may delegate any matter to a member of his or her staff as provided for by section 99 of that Act”.
+
+As at 8 June 2010 the amendments are not incorporated in this compilation.
 
  
