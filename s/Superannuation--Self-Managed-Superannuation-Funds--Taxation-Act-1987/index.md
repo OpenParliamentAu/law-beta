@@ -1,10 +1,12 @@
 
 Superannuation (Excluded Funds) Taxation Act 1987
 Act No. 97 of 1987 as amended 
-Consolidated as in force on 1 July 1999
+Consolidated as in force on 31 May 1999
 (includes amendments up to Act No. 11 of 1999)
+This Act has uncommenced amendments For uncommenced amendments, see the endnotes
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
+
 Part I—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
@@ -20,13 +22,12 @@ Part IIIAA—Collection of Superannuation (Excluded Funds) Supervisory Levy	4
 15DD	Recovery of levy etc.	6
 15DE	Payment of levy and late payment penalty	6
 15DF	Remission of levy and penalties	6
-15DH	Exempting laws ineffective	6
-Part IV—Miscellaneous	7
-16	Review of certain decisions	7
-17	Statements to accompany notification of decisions	8
-22	Regulations	9
-Notes 		11
-
+15DG	Application of payments [see Note 2]	6
+15DH	Exempting laws ineffective	7
+Part IV—Miscellaneous	8
+16	Review of certain decisions	8
+17	Statements to accompany notification of decisions	9
+22	Regulations	10
 An Act relating to taxation in respect of certain superannuation funds, and for related purposes
 Do not delete : Chapter placeholder
 Part I—Preliminary
@@ -91,6 +92,14 @@ Note: 	Calendar month is defined by section 22 of the Acts Interpretation Act 19
 		APRA may remit the whole or a part of the following:
 	(a)	an amount of levy;
 	(b)	an amount of late payment penalty.
+15DG  Application of payments [see Note 2]
+		Where:
+	(a)	2 or more amounts payable to APRA by a person under this Part would, apart from this section, be debts due to the Commonwealth under this Part; and
+	(b)	an amount (in this section called the debt payment) is paid to APRA in respect of one or more of those amounts; and
+	(c)	the sum of the amounts payable exceeds the debt payment;
+the following provisions have effect:
+	(d)	in spite of any direction to the contrary by or on behalf of the person by whom the amounts are payable or the person making the debt payment, APRA may apply the debt payment in partial discharge of the sum of the amounts payable; and
+	(e)	the Commonwealth may recover as a debt due to the Commonwealth the amount by which the sum of the amounts payable exceeds the debt payment.
 15DH  Exempting laws ineffective
 	(1)	Nothing in a law passed before the commencement of this section exempts a person from liability to levy.
 	(2)	A law, or a provision of a law, passed after the commencement of this section that purports to exempt a person from liability to pay taxes under laws of the Commonwealth or to pay certain taxes under those laws that include levy, other than a law or a provision that expressly exempts a person from liability to pay levy, is not to be construed as exempting the person from liability to pay levy.
@@ -260,7 +269,7 @@ Schedule 18 (items 5–35): 1 July 1998 (see Gazette 1998, No. S316) (m)
 Taxation Laws Amendment Act (No. 3) 1999
 11, 1999
 31 Mar 1999
-Schedule 1 (items 342, 343): 1 July 1999 (n)
+Schedule 1 (items 342, 343): 1 July 1999 [see (n) and Note 2]
 
 
 (a)	Subsection 2(2) of the Taxation Laws Amendment Act (No. 4) 1987 provides as follows:
@@ -303,7 +312,7 @@ Schedule 1 (items 342, 343): 1 July 1999 (n)
 	(2)	The following provisions of this Act commence on the commencement of the Australian Prudential Regulation Authority Act 1998:
 	(p)	Schedule 18, other than the items amending the Australian Prudential Regulation Authority Act 1998.
 (n)	The Superannuation (Excluded Funds) Taxation Act 1987 was amended by Schedule 1 (items 342, 343) only of the Taxation Laws Amendment Act (No. 3) 1999, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) and (5), Schedule 1 commences on 1 July 1999. 
+	(3)	Subject to subsections (4) and (5), Schedule 1 commences on 1 July 1999. [see Note 2]
 
 Table of Amendments
 
@@ -474,10 +483,7 @@ ad. No. 55, 1991
 am. No. 169, 1995; No. 54, 1998
 S. 15DG	
 ad. No. 55, 1991
-
 am. No. 54, 1998
-
-rep. No. 11, 1999
 S. 15DH	
 ad. No. 55, 1991
 Part IIIAB 	 (ss. 15DI-15DS)
@@ -584,4 +590,14 @@ rep. No. 54, 1998
 S. 22	
 am. No. 61, 1990; No. 55, 1991; No. 208, 1992; No. 84, 1993; No. 53, 1995; No. 62, 1997; No. 54, 1998
 
+Note 2
+	The Superannuation (Excluded Funds) Taxation Act 1987 was amended by Schedule 1 (items 342, 343) only of the Taxation Laws Amendment Act (No. 3) 1999. The applicable provisions provide as follows:
+	Schedule 1
+	342  Section 15A
+Repeal the section.
+	343  Section 15DG
+Repeal the section.
+	Subsection 2(3) of the Taxation Laws Amendment Act (No. 3) 1999 provides as follows:
+(3)	Subject to subsections (4) and (5), Schedule 1 commences on 1 July 1999.
+	As at 31 May 1999 the amendments are not incorporated in this consolidation.
 
