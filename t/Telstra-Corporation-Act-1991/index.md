@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00848/Html/TelstraCorpn1991WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00200/Html/TelstraCorpn1991WD02_image001.gif)
 
 # Telstra Corporation Act 1991
 
 **Act No. 79 of 1991 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 148 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -56,9 +56,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [8AKA](#8AKA).   Authorisation of borrowing—issue of sale-scheme hybrid securities
 
+[8AL](#8AL).       Appropriation—costs incurred in connection with a Telstra sale scheme
+
 [8AQ](#8AQ).      Assistance given by Telstra or the Board in connection with a Telstra sale scheme
 
 [8AR](#8AR).      Giving of assistance—ancillary provisions
+
+[8AS](#8AS).       Reimbursement of expenses incurred in giving assistance
 
 [8AT](#8AT).      Commonwealth to be bound by Chapters 6CA, 6D and 7 of the Corporations Act
 
@@ -966,6 +970,30 @@ Part sets out rules about how that sale is to be carried out.</li>
 
 Note:          Section 37 of the _Financial Management and Accountability Act 1997_ provides that an agreement for the borrowing of money by the Commonwealth is of no effect unless the borrowing is authorised by an Act.
 
+##### <a id="8AL"></a>8AL  Appropriation—costs incurred in connection with a Telstra sale scheme
+
+             (1)  The Consolidated Revenue Fund is appropriated to the extent necessary for the purposes of the payment or discharge of the costs, expenses and other obligations incurred by the Commonwealth in connection with the formulation, entering into, or carrying out, of a Telstra sale scheme. 
+
+             (2)  The costs, expenses and obligations covered by subsection (1) include (but are not limited to) the following:
+
+                     (a)  legal and accounting fees;
+
+                     (b)  costs of undertaking due diligence inquiries;
+
+                     (c)  underwriting fees;
+
+                     (d)  costs associated with an offer document;
+
+                     (e)  marketing expenses;
+
+                      (f)  other administrative and logistical expenses;
+
+                     (g)  calls on indemnities granted by the Commonwealth;
+
+                     (h)  calls on guarantees given by the Commonwealth;
+
+                      (i)  obligations to make payments of amounts in relation to sale-scheme hybrid securities issued by the Commonwealth (for example, payments of interest).
+
 ##### <a id="8AQ"></a>8AQ  Assistance given by Telstra or the Board in connection with a Telstra sale scheme
 
              (1)  Telstra may, on its own initiative, assist the Commonwealth in connection with the formulation, entering into, or carrying out, of a Telstra sale scheme.
@@ -1029,6 +1057,20 @@ Note:          Section 37 of the _Financial Management and A
 Note:          This ensures, for example, that the Commonwealth can enter into a co-operation agreement with Telstra or with a member of the Board.
 
              (8)  Section 8AQ extends to the giving of assistance outside Australia, whether or not in a foreign country.
+
+##### <a id="8AS"></a>8AS  Reimbursement of expenses incurred in giving assistance
+
+             (1)  This section applies if:
+
+                     (a)  assistance is given under section 8AQ; and
+
+                     (b)  Telstra or a member of the Board incurs expenses in relation to the giving of that assistance.
+
+             (2)  The Minister for Finance may authorise the payment by the Commonwealth to Telstra, or to the member, as the case may be, of an amount equal to so much of those expenses as the Minister for Finance considers reasonable.
+
+             (3)  The Consolidated Revenue Fund is appropriated for the purposes of making payments under subsection (2).
+
+             (4)  This section does not, by implication, limit the executive power of the Commonwealth to make a payment to Telstra or to a member of the Board.
 
 ##### <a id="8AT"></a>8AT  Commonwealth to be bound by Chapters 6CA, 6D and 7 of the Corporations Act
 
@@ -1680,7 +1722,7 @@ all or any of the powers conferred on the Minister for Finance by this Part.
 
 ## Part 2AA—Anti-avoidance
 
-##### <a id="8CCA"></a>8CCA  Anti-avoidance
+##### <a id="8CCA"></a>8CCA  Anti-avoidance
 
              (1)  Telstra must not, either alone or together with one or more other persons, enter into, begin to carry out or carry out a scheme if it would be concluded that Telstra did so for the sole or dominant purpose of avoiding the application of any provision of this Act in relation to Telstra.
 
@@ -2138,7 +2180,7 @@ then, despite paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Act 19
 
 Comcare must pay Telstra the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00848/Html/TelstraCorpn1991WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00200/Html/TelstraCorpn1991WD02_image002.gif)
 
 where:
 
@@ -3058,7 +3100,7 @@ Note:   For specification by class, see subsection 13(3) of the _Legislative
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00848/Html/TelstraCorpn1991WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00200/Html/TelstraCorpn1991WD02_image003.gif)
 
 where:
 
@@ -3700,26 +3742,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 5 (item 138)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>Financial Framework Legislation Amendment Act 2010</div>
-  </td>
-  <td colspan="2">
-    <div>148, 2010</div>
-  </td>
-  <td>
-    <div>17 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 23): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr>
 <tr height="0">
@@ -4538,14 +4560,6 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 8AM–8AP</div>
   </td>
   <td>
@@ -4606,14 +4620,6 @@ _(n)_     Subsection 2(1) (items 31 and 38) of the _Statute Law Revision
   </td>
   <td>
     <div>am. No. 53, 1999; Nos. 117 and 118, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
