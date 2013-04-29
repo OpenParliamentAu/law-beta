@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00406/Html/728db3f7-97c8-4082-91a0-97ae16b120e6_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00312/Html/ef73135b-0a6c-404f-bea2-41c2cb63a7c5_files/image001.gif)
 
 # Ombudsman Act 1976
 
 **Act No. 181 of 1976 as amended**
 
-This compilation was prepared on 12 April 2012
- taking into account amendments up to Act No. 9 of 2012
+This compilation was prepared on 20 March 2012
+ taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -18,7 +18,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part I—Preliminary**
+**Part I—Preliminary**
 
 [1](#1).            Short title [_see_ Note 1]
 
@@ -36,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3D](#3D).         Application of the _Criminal Code_
 
-**Part II—Establishment, functions, powers and duties of the Ombudsman** 
+**Part II—Establishment, functions, powers and duties of the Ombudsman** 
 
     **Division 1—Establishment and functions**
 
@@ -94,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19](#19).          Annual report and additional reports to Parliament
 
-**Part IIA—Establishment, functions, powers and duties of the Defence Force Ombudsman**
+**Part IIA—Establishment, functions, powers and duties of the Defence Force Ombudsman**
 
 [19B](#19B).       Establishment of office of Defence Force Ombudsman
 
@@ -106,7 +106,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19F](#19F).        Application of provisions of Act to Defence Force Ombudsman
 
-**Part IIB—Establishment, functions, powers and duties of the Postal Industry Ombudsman** 
+**Part IIB—Establishment, functions, powers and duties of the Postal Industry Ombudsman** 
 
     **Division 1—Preliminary**
 
@@ -116,7 +116,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19J](#19J).        Continued application of this Act to deregistered PPOs
 
-[19K](#19K).       Part IIB not to affect operation of other provisions of this Act
+[19K](#19K).       Part IIB not to affect operation of other provisions of this Act
 
     **Division 2—Establishment and functions of the Postal Industry Ombudsman**
 
@@ -126,7 +126,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19N](#19N).       Discretion to investigate complaints as Commonwealth Ombudsman or as Postal Industry Ombudsman
 
-[19P](#19P).        Discretion to refer complaint to another statutory office‑holder
+[19P](#19P).        Discretion to refer complaint to another statutory 
+ office‑holder
 
 [19Q](#19Q).       Discretion not to investigate certain complaints
 
@@ -204,7 +205,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [19ZU](#19ZU).     Limitation on liability where information or documents provided in good faith or when required to do so
 
-**Part III—Conditions of service, and staff, of the Ombudsman** 
+**Part III—Conditions of service, and staff, of the Ombudsman** 
 
     **Division 1—Ombudsman**
 
@@ -236,7 +237,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [31](#31).          Staff
 
-**Part IV—Miscellaneous**
+**Part IV—Miscellaneous**
 
 [33](#33).          Ombudsman not to be sued
 
@@ -262,7 +263,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ## An Act to provide for the appointment of a Commonwealth Ombudsman, a Defence Force Ombudsman, a Postal Industry Ombudsman and an Overseas Students Ombudsman, and to define their respective functions and powers
 
-## Part I—Preliminary
+## Part I—Preliminary
 
 ##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
@@ -380,7 +381,7 @@ but does not include the _Norfolk Island__Act 1979_, the _Northern Territory__(S
 
                             (iv)  a person authorized by the authority to exercise any powers or perform any functions of the authority on behalf of the authority.
 
-Note:          For the meaning of **_officer_** for the purposes of Part IIB, see section 19G.
+Note:          For the meaning of **_officer_** for the purposes of Part IIB, see section 19G.
 
                     <a name="ombudsman"></a>**_Ombudsman_** means the Commonwealth Ombudsman.
 
@@ -436,11 +437,11 @@ Note:          For the meaning of **_officer_** for the purpos
 
                              (ii)  in any other case—the person who constitutes, or is acting as the person who constitutes, that authority or, if the authority is constituted by 2 or more persons, the person who is entitled to preside at any meeting of the authority at which he or she is present.
 
-Note:          For the meaning of **_principal officer_** for the purposes of Part IIB, see section 19G.
+Note:          For the meaning of **_principal officer_** for the purposes of Part IIB, see section 19G.
 
-                    <a name="regist-ppo"></a>**_registered PPO_** means a PPO that is registered for the purposes of Part IIB (see section 19ZA).
+                    <a name="regist-ppo"></a>**_registered PPO_** means a PPO that is registered for the purposes of Part IIB (see section 19ZA).
 
-Note:          In certain circumstances, a PPO that is no longer registered for the purposes of Part IIB may still be treated as a registered PPO (see section 19J).
+Note:          In certain circumstances, a PPO that is no longer registered for the purposes of Part IIB may still be treated as a registered PPO (see section 19J).
 
                     <a name="respons-minist"></a>**_responsible Minister_**, in relation to a matter, or to action taken in or in relation to a matter, means:
 
@@ -658,7 +659,7 @@ a reference to which this subsection applies has effect in accordance with subse
 
              (2)  The _Australian Capital Territory__(Self‑Government) Act 1988_ and the _Canberra__Water Supply (Googong Dam) Act 1974_ are not enactments.
 
-             (3)  Part IV, sections 29 and 30, subsection 63(2), section 66 and Division 5 of Part X of the _Australian Capital Territory__Planning and Land Management Act 1988_ are not enactments.
+             (3)  Part IV, sections 29 and 30, subsection 63(2), section 66 and Division 5 of Part X of the _Australian Capital Territory__Planning and Land Management Act 1988_ are not enactments.
 
              (4)  Where the whole of an Act or Ordinance is not an enactment, an instrument made under it is not an enactment.
 
@@ -690,7 +691,7 @@ a reference to which this subsection applies has effect in accordance with subse
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-## Part II—Establishment, functions, powers and duties of the Ombudsman
+## Part II—Establishment, functions, powers and duties of the Ombudsman
 
 ### Division 1—Establishment and functions
 
@@ -938,7 +939,7 @@ the Ombudsman must:
 
                      (a)  that a complaint includes information about an AFP conduct issue or an AFP practices issue; and
 
-                     (b)  that the information could have been given under section 40SA of the _Australian Federal Police Act 1979_ and the issue could be more conveniently or effectively dealt with under Part V of that Act;
+                     (b)  that the information could have been given under section 40SA of the _Australian Federal Police Act 1979_ and the issue could be more conveniently or effectively dealt with under Part V of that Act;
 
 the Ombudsman may decide not to investigate the complaint, or not to investigate the complaint further, as the case may be, and to give the information to the AFP Commissioner under that section of that Act.
 
@@ -1700,7 +1701,7 @@ then:
 
              (8)  Where the Ombudsman refers in a report referred to in subsection (1) or (2) to an investigation made by him or her under this Act, the Ombudsman shall not, in referring to the investigation, set out opinions that are, either expressly or impliedly, critical of a Department, prescribed authority or person unless the Ombudsman has complied with subsection 8(5) in relation to the investigation.
 
-## Part IIA—Establishment, functions, powers and duties of the Defence Force Ombudsman
+## Part IIA—Establishment, functions, powers and duties of the Defence Force Ombudsman
 
 ##### <a id="19B"></a>19B  Establishment of office of Defence Force Ombudsman
 
@@ -1780,7 +1781,7 @@ then:
 
 ##### <a id="19F"></a>19F  Application of provisions of Act to Defence Force Ombudsman
 
-             (1)  The provisions of Part I, Part II (other than sections 4, 5, 8A and 19), Division 2 of Part III (other than subsection 31(2)) and Part IV (other than subsections 35(7) and (7A)) apply to and in relation to the Defence Force Ombudsman and so apply as if:
+             (1)  The provisions of Part I, Part II (other than sections 4, 5, 8A and 19), Division 2 of Part III (other than subsection 31(2)) and Part IV (other than subsections 35(7) and (7A)) apply to and in relation to the Defence Force Ombudsman and so apply as if:
 
                      (a)  a reference in any of those provisions (other than section 34) to the Ombudsman were a reference to the Defence Force Ombudsman; and
 
@@ -1794,7 +1795,7 @@ then:
 
              (5)  A report relating to the operations of the Defence Force Ombudsman during a year may be included in a report under section 19 relating to the operations of the Ombudsman during that year.
 
-## Part IIB—Establishment, functions, powers and duties of the Postal Industry Ombudsman
+## Part IIB—Establishment, functions, powers and duties of the Postal Industry Ombudsman
 
 ### Division 1—Preliminary
 
@@ -1886,7 +1887,7 @@ Contractors and postal services contracts
 
              (2)  This Act applies as if the PPO were a registered PPO in relation to that complaint.
 
-##### <a id="19K"></a>19K  Part IIB not to affect operation of other provisions of this Act
+##### <a id="19K"></a>19K  Part IIB not to affect operation of other provisions of this Act
 
                    This Part does not, by implication, affect the operation of other provisions in this Act.
 
@@ -2052,7 +2053,7 @@ Notice of transferral to be given to complainant
 
              (3)  The provisions covered by this subsection are:
 
-                     (a)  Part I, other than the following provisions:
+                     (a)  Part I, other than the following provisions:
 
                               (i)  subsections 3(2) to (5A);
 
@@ -2064,7 +2065,7 @@ Notice of transferral to be given to complainant
 
                              (v)  section 3A; and
 
-                     (b)  Part II, other than the following provisions:
+                     (b)  Part II, other than the following provisions:
 
                               (i)  sections 4 and 5;
 
@@ -2096,7 +2097,7 @@ Notice of transferral to be given to complainant
 
                      (c)  subsection 31(1); and
 
-                     (d)  Part IV, other than the following provisions:
+                     (d)  Part IV, other than the following provisions:
 
                               (i)  section 34;
 
@@ -2237,7 +2238,7 @@ Notice of transferral to be given to complainant
       </b>)</div>
   </td>
   <td>
-    <div>Division 2 of Part II</div>
+    <div>Division 2 of Part II</div>
   </td>
   <td>
     <div>section 19V, 19W or 19X</div>
@@ -2285,9 +2286,9 @@ Example 1: If the Postal Industry Ombudsman sets out a critical opinion of a per
 
 Example 2: The Postal Industry Ombudsman must accord procedural fairness to a person if he or she sets out a critical opinion of the person:
 
-(a)    in disclosing information, or making a statement, under subsection 35A(1); or
+(a)           in disclosing information, or making a statement, under subsection 35A(1); or
 
-(b)    in referring to an investigation in a report under section 19X.
+(b)           in referring to an investigation in a report under section 19X.
 
 ##### <a id="19U"></a>19U  Disclosure of identifying information
 
@@ -2429,7 +2430,7 @@ Note:          For information, documents or other records giv
 
              (4)  A PPO is taken to be registered for the purposes of this Part from the time when the Postal Industry Ombudsman includes that PPO on the Register.
 
-##### <a id="19ZB"></a>19ZB  Information to be included in Register
+##### <a id="19ZB"></a>19ZB  Information to be included in Register
 
              (1)  The Postal Industry Ombudsman must include the following information in the register:
 
@@ -3058,7 +3059,7 @@ Note:          For information, documents or other records giv
 
              (3)  This section does not limit section 37.
 
-## Part III—Conditions of service, and staff, of the Ombudsman
+## Part III—Conditions of service, and staff, of the Ombudsman
 
 ### Division 1—Ombudsman
 
@@ -3126,7 +3127,7 @@ Note:          For information, documents or other records giv
 
 ##### <a id="28A"></a>28A  Removal taken to be retirement on ground of invalidity
 
-             (1)  If an Ombudsman is removed from office under section 28 of this Act following his or her suspension from office on the ground of physical or mental incapacity, then, for the purposes of the _Superannuation Act 1976_, he or she is taken to have been retired on the ground of invalidity within the meaning of Part IVA of that Act.
+             (1)  If an Ombudsman is removed from office under section 28 of this Act following his or her suspension from office on the ground of physical or mental incapacity, then, for the purposes of the _Superannuation Act 1976_, he or she is taken to have been retired on the ground of invalidity within the meaning of Part IVA of that Act.
 
              (2)  In spite of subsection (1), section 54C of the _Superannuation Act 1976_ applies in relation to the Ombudsman.
 
@@ -3146,7 +3147,7 @@ Note:          For information, documents or other records giv
 
                      (b)  has not reached his or her maximum retiring age (within the meaning of that Act);
 
-is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
+is not capable of being retired from office on the ground of invalidity (within the meaning of Part IVA of that Act) unless CSC has given a certificate under section 54C of that Act.
 
              (2)  In spite of anything contained in sections 27 and 28, an Ombudsman who:
 
@@ -3198,11 +3199,11 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  the Ombudsman is the Head of that Statutory Agency.
 
-## Part IV—Miscellaneous
+## Part IV—Miscellaneous
 
 ##### <a id="33"></a>33  Ombudsman not to be sued
 
-             (1)  Subject to section 35, neither the Ombudsman nor a person acting under his or her direction or authority is liable to an action, suit or proceeding for or in relation to an act done or omitted to be done in good faith in exercise or purported exercise of any power or authority conferred by this Act or Division 7 of Part V of the _Australian Federal Police Act 1979_.
+             (1)  Subject to section 35, neither the Ombudsman nor a person acting under his or her direction or authority is liable to an action, suit or proceeding for or in relation to an act done or omitted to be done in good faith in exercise or purported exercise of any power or authority conferred by this Act or Division 7 of Part V of the _Australian Federal Police Act 1979_.
 
              (2)  A reference in this section to the Ombudsman includes a reference to a Deputy Ombudsman or a delegate of the Ombudsman.
 
@@ -3214,7 +3215,7 @@ Note:          For rules that apply to acting appointments, se
 
                      (b)  any power exercisable by him or her by virtue of an instrument of delegation referred to in subsection (7) the sub‑delegation of which is permitted by the relevant law of the State or by the instrument of delegation; and
 
-                     (c)  all or any of his or her powers under Division 7 of Part V of the _Australian Federal Police Act 1979_.
+                     (c)  all or any of his or her powers under Division 7 of Part V of the _Australian Federal Police Act 1979_.
 
              (2)  The Defence Force Ombudsman may, either generally or as otherwise provided by the instrument of delegation, by instrument in writing, delegate to a person all or any of his or her powers under this Act, other than his or her powers under sections 15, 16 and 17 and his or her powers referred to in subsection 19F(3).
 
@@ -3246,7 +3247,7 @@ the Ombudsman is authorized to exercise that power accordingly.
 
                      (e)  a person who is made available to the Ombudsman as mentioned in subsection 8(12).
 
-             (2)  Subject to this section, an officer shall not, either directly or indirectly, and either while he or she is, or after he or she ceases to be, an officer, make a record of, or divulge or communicate to any person, any information acquired by him or her by reason of his or her being an officer, being information that was disclosed or obtained under the provisions of this Act or under Division 7 of Part V of the _Australian Federal Police Act 1979_, including information furnished by the Ombudsman of a State or information disclosed to or obtained by the Commonwealth Ombudsman in the exercise of a power of the Ombudsman of a State delegated to him or her as provided by subsection 34(7).
+             (2)  Subject to this section, an officer shall not, either directly or indirectly, and either while he or she is, or after he or she ceases to be, an officer, make a record of, or divulge or communicate to any person, any information acquired by him or her by reason of his or her being an officer, being information that was disclosed or obtained under the provisions of this Act or under Division 7 of Part V of the _Australian Federal Police Act 1979_, including information furnished by the Ombudsman of a State or information disclosed to or obtained by the Commonwealth Ombudsman in the exercise of a power of the Ombudsman of a State delegated to him or her as provided by subsection 34(7).
 
                     Penalty:  $500.
 
@@ -3294,7 +3295,7 @@ would, for a reason specified in the certificate, being a reason referred to in 
 
           (7A)  Subsection (7) does not apply in relation to any information or document obtained by the Ombudsman in the exercise of a power of the Ombudsman of the State that the Ombudsman was authorized to exercise in pursuance of subsection 34(7).
 
-             (8)  A person who is or has been an officer is not compellable, in any proceedings before a court (whether exercising federal jurisdiction or not) or before a person authorized by a law of the Commonwealth or of a State or Territory, or by consent of parties, to hear, receive and examine evidence, to disclose any information acquired by him or her by reason of his or her being or having been an officer, being information that was disclosed or obtained under the provisions of this Act or under Division 7 of Part V of the _Australian Federal Police Act 1979_.
+             (8)  A person who is or has been an officer is not compellable, in any proceedings before a court (whether exercising federal jurisdiction or not) or before a person authorized by a law of the Commonwealth or of a State or Territory, or by consent of parties, to hear, receive and examine evidence, to disclose any information acquired by him or her by reason of his or her being or having been an officer, being information that was disclosed or obtained under the provisions of this Act or under Division 7 of Part V of the _Australian Federal Police Act 1979_.
 
 ##### <a id="35AA"></a>35AA  Disclosure of information and documents to Integrity Commissioner
 
@@ -3354,7 +3355,7 @@ the Ombudsman must not so disclose the ACC information.
 
                     <a name="list-disclosur-method"></a>**_listed disclosure method_**, in relation to information, a document or a record, means:
 
-                     (a)  including the information or the contents of the document or record in any report under Division 2 of Part II; or
+                     (a)  including the information or the contents of the document or record in any report under Division 2 of Part II; or
 
                      (b)  giving the information, document or record to another person or authority under section 6 or 6A; or
 
@@ -3488,7 +3489,7 @@ of Assent</div>
     <div>13 Dec 1976</div>
   </td>
   <td>
-    <div>1 July 1977 ( <i>see Gazette</i>1977, No. S115)</div>
+    <div>1 July 1977 ( <i>see Gazette</i>1977, No. S115)</div>
   </td>
   <td>
     <div></div>
@@ -3539,7 +3540,7 @@ of Assent</div>
     <div>28 Nov 1979</div>
   </td>
   <td>
-    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
+    <div>19 Oct 1979 ( <i>see</i>s. 2 and <i>Gazette</i>1979, No. S206)</div>
   </td>
   <td>
     <div>—</div>
@@ -3730,7 +3731,7 @@ Remainder: 1 July 1989 ( <i>see Gazette</i>1989, No. S230)</div>
   </td>
   <td>
     <div>Part 1 (ss. 1, 2): Royal Assent 
-S. 24 and Part 5 (s. 26): 1 Feb 1992 ( <i>see</i>s. 2(3) and <i>Gazette</i>1992, No. S32) Remainder: 1 July 1991</div>
+S. 24 and Part 5 (s. 26): 1 Feb 1992 ( <i>see</i>s. 2(3) and <i>Gazette</i>1992, No. S32) Remainder: 1 July 1991</div>
   </td>
   <td>
     <div>—</div>
@@ -3801,11 +3802,11 @@ Remainder: Royal Assent</div>
     <div>21 Dec 1992</div>
   </td>
   <td>
-    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(g)</i> 
+    <div>Schedule (Part 1): 10 Mar 1993 ( <i>see Gazette</i>1993, No. GN17) <i>(g)</i> 
 Schedule (Part 5): 30 Aug 1995 ( <i>see Gazette</i>1995, No. S324) <i>(g)</i></div>
   </td>
   <td>
-    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, Sch. \[item 17])</div>
+    <div>S. 2(6) (am. by 60, 1993, s. 4; 168, 1994, Sch. \[item 17])</div>
   </td>
 </tr>
 <tr>
@@ -3907,7 +3908,7 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472)</div
   </td>
   <td>
     <div>Schedule 1 (item 58): 23 Nov 1994 ( <i>see</i>s. 2(2)) 
-Schedule 2 (items 8–13): 1 July 1994 
+Schedule 2 (items 8–13): 1 July 1994 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3926,7 +3927,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 2 (item 78): <i>(j)</i> 
-Schedule 4 (item 117) and Schedule 5 (items 109–111): Royal Assent <i>(j)</i></div>
+Schedule 4 (item 117) and Schedule 5 (items 109–111): Royal Assent <i>(j)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3943,7 +3944,7 @@ Schedule 4 (item 117) and Schedule 5 (items 109–111): Royal Assent <i>
     <div>19 Feb 1997</div>
   </td>
   <td>
-    <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
+    <div>Schedules 1 and 3: 30 Apr 1997 ( <i>see Gazette</i>1997, No. S91) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -3961,7 +3962,7 @@ Remainder: Royal Assent</div>
     <div>3 May 1997</div>
   </td>
   <td>
-    <div>Schedule 1 (items 40–42): 1 July 1997 <i>(k)</i></div>
+    <div>Schedule 1 (items 40–42): 1 July 1997 <i>(k)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -3978,7 +3979,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 711–717): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
+    <div>Schedule 1 (items 711–717): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(l)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4012,7 +4013,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -4100,7 +4101,7 @@ Remainder: Royal Assent</div>
     <div>10 Dec 2002</div>
   </td>
   <td>
-    <div>Schedule 2 (items 84–98, 226): 1 Jan 2003</div>
+    <div>Schedule 2 (items 84–98, 226): 1 Jan 2003</div>
   </td>
   <td>
     <div>Sch. 2 (item 226) \[ <i>see</i>Table A]</div>
@@ -4117,15 +4118,14 @@ Remainder: Royal Assent</div>
     <div>1 Apr 2005</div>
   </td>
   <td>
-    <div>Schedule 3 (items 3, 4): <i>(o)</i> 
-Schedule 3 (items 5, 6, 8) and Schedule 4: 1 July 2005 <i>(see</i>s. 2(1)) 
+    <div>Schedule 3 (items 3, 4): <i>(o)</i> 
+Schedule 3 (items 5, 6, 8) and Schedule 4: 1 July 2005 <i>(see</i>s. 2(1)) 
 Schedule 3 (item 7): <i>(o)</i> 
-Schedule 3 (items 9–11): <i>(o)</i></div>
+Schedule 3 (items 9–11): <i>(o)</i></div>
   </td>
   <td>
     <div>Sch. 4 \[ <i>see</i>Note 1] 
-S. 2(1) (items 5, 7, 9) (am. by 8, 2007, Sch. 1 \[items 
-2–4])</div>
+S. 2(1) (items 5, 7, 9) (am. by 8, 2007, Sch. 1 \[items 2–4])</div>
   </td>
 </tr>
 <tr>
@@ -4156,7 +4156,7 @@ S. 2(1) (items 5, 7, 9) (am. by 8, 2007, Sch. 1 \[items
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2–4): <i>(oa)</i></div>
+    <div>Schedule 2 (items 2–4): <i>(oa)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4173,8 +4173,8 @@ S. 2(1) (items 5, 7, 9) (am. by 8, 2007, Sch. 1 \[items
     <div>12 Dec 2005</div>
   </td>
   <td>
-    <div>Schedule 2 (items 2–25): Royal Assent 
-Schedule 2 (items 28–31): <i>(p)</i></div>
+    <div>Schedule 2 (items 2–25): Royal Assent 
+Schedule 2 (items 28–31): <i>(p)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4191,7 +4191,7 @@ Schedule 2 (items 28–31): <i>(p)</i></div>
     <div>6 Apr 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–14, 20(1), 21): 6 Oct 2006 
+    <div>Schedule 1 (items 1–14, 20(1), 21): 6 Oct 2006 
 Schedule 2 (item 1): <i>(q)</i> 
 Schedule 2 (item 2): <i>(q)</i> 
 Schedule 2 (item 3): <i>(q)</i> 
@@ -4213,7 +4213,7 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 3 (items 46–64): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 3 (items 46–64): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -4230,7 +4230,7 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>30 June 2006</div>
   </td>
   <td>
-    <div>Schedule 1 (items 41–47): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 41–47): 30 Dec 2006 ( <i>see</i>s. 2(1))</div>
   </td>
   <td>
     <div>—</div>
@@ -4247,7 +4247,7 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>23 June 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (items 98–101): Royal Assent</div>
+    <div>Schedule 1 (items 98–101): Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -4278,13 +4278,13 @@ Schedule 2 (item 5): <i>(q)</i></div>
     <div>51, 2010</div>
   </td>
   <td colspan="2">
-    <div>31 May 2010</div>
+    <div>31 May 2010</div>
   </td>
   <td>
     <div>Schedule 4 (items 59–64, 66, 67) and Schedule 7: <i>(s)</i></div>
   </td>
   <td>
-    <div>Sch. 4 (items 66, 67) \[ <i>see</i>Table A] 
+    <div>Sch. 4 (items 66, 67) \[ <i>see</i>Table A] 
 Sch. 7 \[ <i>see</i>Note 1]</div>
   </td>
 </tr>
@@ -4299,7 +4299,7 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
     <div>10 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 241, 242): 10 June 2011</div>
+    <div>Schedule 1 (items 241, 242): 10 June 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -4316,8 +4316,8 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (items 70–86): Royal Assent 
-Schedule 6 (item 130): 19 Apr 2011</div>
+    <div>Schedule 1 (items 70–86): Royal Assent 
+Schedule 6 (item 130): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -4334,10 +4334,10 @@ Schedule 6 (item 130): 19 Apr 2011</div>
     <div>8 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1–4, 8, 9): 9 Apr 2011</div>
+    <div>Schedule 2 (items 1–4, 8, 9): 9 Apr 2011</div>
   </td>
   <td>
-    <div>Sch. 2 (items 8, 9) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (items 8, 9) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -4348,13 +4348,13 @@ Schedule 6 (item 130): 19 Apr 2011</div>
     <div>46, 2011</div>
   </td>
   <td colspan="2">
-    <div>27 June 2011</div>
+    <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 894–900) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 894–900) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -4365,30 +4365,13 @@ Schedule 6 (item 130): 19 Apr 2011</div>
     <div>58, 2011</div>
   </td>
   <td colspan="2">
-    <div>28 June 2011</div>
+    <div>28 June 2011</div>
   </td>
   <td>
     <div>Schedule 1 (items 123, 124): <i>(t)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>9, 2012</div>
-  </td>
-  <td colspan="2">
-    <div>20 Mar 2012</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 6, 7, 8(2)): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 8(2)) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -4803,9 +4786,8 @@ _(p)_     Subsection 2(1) (item 6) of the _Migration and Ombudsman Leg
   <td>
     <div>
       6 October 2006
-    </div>
-    <div>
-      (paragraph (b) applies)
+
+(paragraph (b) applies)
     </div>
   </td>
 </tr></table>
@@ -5065,12 +5047,12 @@ _(s)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
   </td>
   <td>
     <div>
-      1 November 2010
+      1 November 2010
     </div>
   </td>
 </tr></table>
 
-_(t)_      Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
+_(t)_      Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
 
@@ -5120,7 +5102,7 @@ _(t)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
   </td>
   <td>
     <div>
-      1 July 2011
+      1 July 2011
     </div>
   </td>
 </tr></table>
@@ -5166,7 +5148,7 @@ _(t)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
 </tr>
 <tr>
   <td>
-    <div><b>Part I</b></div>
+    <div><b>Part I</b></div>
   </td>
   <td>
     <div></div>
@@ -5177,7 +5159,7 @@ _(t)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 63, 1978; Nos. 107 and 155, 1979; No. 61, 1983; No. 63, 1984 (as am. by No. 193, 1985); No. 168, 1986; No. 109, 1988; No. 199, 1991; No. 196, 1992; Nos. 33 and 177, 1994; No. 43, 1996; No. 1, 1997; Nos. 146 and 194, 1999; No. 135, 2001; Nos. 63 and 125, 2002; Nos. 45 and 141, 2005; Nos. 25 and 84, 2006; Nos. 5 and 58, 2011</div>
+    <div>am. No. 63, 1978; Nos. 107 and 155, 1979; No. 61, 1983; No. 63, 1984 (as am. by No. 193, 1985); No. 168, 1986; No. 109, 1988; No. 199, 1991; No. 196, 1992; Nos. 33 and 177, 1994; No. 43, 1996; No. 1, 1997; Nos. 146 and 194, 1999; No. 135, 2001; Nos. 63 and 125, 2002; Nos. 45 and 141, 2005; Nos. 25 and 84, 2006; Nos. 5 and 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -5228,7 +5210,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part II</b></div>
+    <div><b>Part II</b></div>
   </td>
   <td>
     <div></div>
@@ -5612,7 +5594,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part IIA</b></div>
+    <div><b>Part IIA</b></div>
   </td>
   <td>
     <div></div>
@@ -5620,7 +5602,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Part IIA</div>
+    <div>Part IIA</div>
   </td>
   <td>
     <div>ad. No. 61, 1983</div>
@@ -5716,7 +5698,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part IIB</b></div>
+    <div><b>Part IIB</b></div>
   </td>
   <td>
     <div></div>
@@ -5724,7 +5706,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Part IIB</div>
+    <div>Part IIB</div>
   </td>
   <td>
     <div>ad. No. 25, 2006</div>
@@ -5892,7 +5874,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part IIC</b></div>
+    <div><b>Part IIC</b></div>
   </td>
   <td>
     <div></div>
@@ -5900,7 +5882,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Part IIC</div>
+    <div>Part IIC</div>
   </td>
   <td>
     <div>ad. No. 11, 2011</div>
@@ -5956,7 +5938,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part III</b></div>
+    <div><b>Part III</b></div>
   </td>
   <td>
     <div></div>
@@ -6132,7 +6114,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to Div. 3 of Part III</div>
+    <div>Heading to Div. 3 of Part III</div>
   </td>
   <td>
     <div>rep. No. 43, 1996</div>
@@ -6140,7 +6122,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part IV</b></div>
+    <div><b>Part IV</b></div>
   </td>
   <td>
     <div></div>
@@ -6260,7 +6242,7 @@ No. 49, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>Part V</div>
+    <div>Part V</div>
   </td>
   <td>
     <div>ad. Statutory Rules 1978 No. 104</div>
@@ -6284,29 +6266,11 @@ No. 49, 2001</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 (No. 9, 2012)_
-
-The following amendments commence on 1 July 2012:
-
-## Schedule 5
-
-## 6  Subsection 19ZJ(3)
-
-Omit “or an accepted student,”, substitute “an accepted student, or a former accepted student,”.
-
-## 7  Subsection 19ZK(5) (definition of _statutory complaint handler_)
-
-Omit “or an accepted student, “, substitute “an accepted student, or a former accepted student,”.
-
-As at 12 April 2012 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
 
 ## Schedule 2
 
@@ -6348,7 +6312,7 @@ _Prime Minister and Cabinet Legislation Amendment (Application of Criminal Code)
 
 * * *
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001 (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
 
 ## Schedule 1
 
@@ -6437,17 +6401,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Education Services for Overseas Students Legislation Amendment (Tuition Protection Service and Other Measures) Act 2012 (No. 9, 2012)_
-
-The following provision commences on 1 July 2012:
-
-## Schedule 5
-
-## 8  Application
-
-(2)       The amendments to the _Ombudsman Act 1976_ that are made by this Schedule apply in relation to any complaint made, or investigation commenced, after commencement.
 
  
