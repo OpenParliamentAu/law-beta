@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00314/Html/be761047-88c4-4b4d-944d-df5e7c3455ea_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00138/Html/b0cc0573-c5c5-4615-bea7-2adcc1ecd7aa_files/image001.gif)
 
 # Freedom of Information Act 1982
 
 **Act No. 3 of 1982 as amended**
 
-This compilation was prepared on 1 May 2011
- taking into account amendments up to Act No. 23 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -44,43 +44,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7](#7).            Exemption of certain persons and bodies
 
-**Part II—Information publication scheme** 
+**Part II—Publication of certain documents and information**
 
-    **Division 1—Guide to this Part**
+[8](#8).            Publication of information concerning functions and documents of agencies
 
-[7A](#7A).         Information publication scheme—guide
+[9](#9).            Certain documents to be available for inspection and purchase
 
-    **Division 2—Information to be published**
-
-[8](#8).            Information to be published—what information?
-
-[8A](#8A).         Information to be published—what is _operational information_?
-
-[8B](#8B).         Information to be published—accuracy etc 
-
-[8C](#8C).         Information to be published—restrictions
-
-[8D](#8D).         Information to be published—how (and to whom) information is to be published
-
-[8E](#8E).          Information to be published—Information Commissioner to assist agencies
-
-    **Division 3—Review of information publication scheme**
-
-[8F](#8F).          Review of scheme—Information Commissioner functions
-
-[9](#9).            Review of scheme—by agencies
-
-    **Division 4—Guidelines**
-
-[9A](#9A).         Functions and powers under this Part
-
-    **Division 5—Miscellaneous**
-
-[10](#10).          Unpublished operational information
-
-[10A](#10A).       Who performs functions etc  given to agencies
-
-[10B](#10B).       Transitional—Norfolk Island authorities
+[10](#10).          Unpublished documents not to prejudice public
 
 **Part III—Access to documents**
 
@@ -89,8 +59,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [11A](#11A).       Access to documents on request
 
 [11B](#11B).       Public interest exemptions—factors
-
-[11C](#11C).       Publication of information in accessed documents
 
 [12](#12).          Part not to apply to certain documents
 
@@ -150,7 +118,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [31B](#31B).       Exempt documents for the purposes of this Part
 
-[32](#32).          Interpretation [_see_ Note 2]
+[32](#32).          Interpretation [_see_ Note 4]
 
     **Division 2—Exemptions**
 
@@ -220,7 +188,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [53A](#53A).       What is an _access refusal decision_?
 
-[53B](#53B).       What is an _access grant decision_? [_see_ Note 3]
+[53B](#53B).       What is an _access grant decision_? [_see_ Note 5]
 
 [53C](#53C).       Internal review—who is an _affected third party_?
 
@@ -842,8 +810,6 @@ and includes a Norfolk Island enactment as amended by another Norfolk Island ena
 
                     <a name="ombudsman"></a>**_Ombudsman_** means the Commonwealth Ombudsman.
 
-                    <a name="oper-inform"></a>**_operational information_** has the meaning given by section 8A.
-
                     <a name="ordin"></a>**_Ordinance_**, in relation to the Australian Capital Territory, includes a law of a State that applies, or the provisions of a law of a State that apply, in the Territory by virtue of an enactment (other than a law that is, or provisions that are an ACT enactment).
 
                     <a name="person-inform"></a>**_personal information_** means information or an opinion (including information forming part of a database), whether true or not, and whether recorded in a material form or not, about an individual whose identity is apparent, or can reasonably be ascertained, from the information or opinion.
@@ -1040,7 +1006,7 @@ Note:          The time for applying for a review of a decisio
 
              (7)  If the agency to which a request is so deemed to have been made, or by which a decision upon a request is so deemed to have been made, was not itself in existence at the time when the request or decision was deemed so to have been made, then, for the purposes only of dealing with that request or decision under this Act, that agency shall be deemed to have been in existence at that time.
 
-             (9)  For the purposes of the application of the definition of **_responsible Minister_** in subsection (1), the reference in that definition to the Minister administering a Department is a reference to the Minister to whom the Department is responsible in respect of the matter in respect of which this Act is being applied.
+             (9)  For the purposes of the application of the definition of **_responsible Minister_** in subsection (1) of this Act (other than sections 8 and 93), the reference in that definition to the Minister administering a Department is a reference to the Minister to whom the Department is responsible in respect of the matter in respect of which this Act is being applied.
 
            (10)  To avoid doubt, information or matter communicated in the way mentioned in paragraph 33(b) includes information or matter so communicated pursuant to any treaty or formal instrument on the reciprocal protection of classified information between the Government of the Commonwealth, or an authority of the Commonwealth, and:
 
@@ -1098,7 +1064,7 @@ but this Act does not apply to any request for access to a document of the court
 
 ##### <a id="6"></a>6  Act to apply to certain tribunals in respect of administrative matters
 
-                   For the purposes of this Act:
+                   For the purposes of this Act:
 
                      (a)  each tribunal, authority or body specified in Schedule 1 is deemed to be a prescribed authority;
 
@@ -1194,255 +1160,115 @@ but this Act does not apply to any request for access to a document of a tribuna
 
              (4)  In subsection (2AA) and Part II of Schedule 2, a reference to documents in respect of particular activities shall be read as a reference to documents received or brought into existence in the course of, or for the purposes of, the carrying on of those activities.
 
-## Part II—Information publication scheme
+## Part II—Publication of certain documents and information
 
-### Division 1—Guide to this Part
+##### <a id="8"></a>8  Publication of information concerning functions and documents of agencies
 
-##### <a id="7A"></a>7A  Information publication scheme—guide
+             (1)  The responsible Minister of an agency shall:
 
-* * *
+                     (a)  cause to be published, as soon as practicable after the commencement of this Part but not later than 12 months after that commencement, in a form approved by the Minister administering this Act:
 
-This Part establishes an information publication scheme for agencies.
+                              (i)  a statement setting out particulars of the organization and functions of the agency, indicating, as far as practicable, the decision‑making powers and other powers affecting members of the public that are involved in those functions;
 
-Each agency must publish a plan showing how it proposes to implement this Part.
+                             (ii)  a statement setting out particulars of any arrangements that exist for bodies or persons outside the Commonwealth administration to participate, either through consultative procedures, the making of representations or otherwise, in the formulation of policy by the agency, or in the administration by the agency, of any enactment or scheme;
 
-An agency must publish a range of information including information about what the agency does and the way it does it, as well as information dealt with or used in the course of its operations, some of which is called operational information.
+                            (iii)  a statement of the categories of documents that are maintained in the possession of the agency, being categories that comply with subsection (6);
 
-In addition, an agency may publish other information held by the agency.
+                            (iv)  a statement of particulars of the facilities, if any, provided by the agency for enabling members of the public to obtain physical access to the documents of the agency; and
 
-Information published by an agency must be kept accurate, up‑to‑date and complete.
+                             (v)  a statement of any information that needs to be available to the public concerning particular procedures of the agency in relation to Part III, and particulars of the officer or officers to whom, and the place or places at which, initial inquiries concerning access to documents may be directed; and
 
-An agency is not required to publish exempt matter. An agency is also not required to publish information if prohibited by another enactment.
+                     (b)  during the year commencing on 1 January next following the publication, in respect of the agency, of the statement under subparagraph (a)(i), (ii), (iii), (iv) or (v) that is the first statement published under that subparagraph, and during each succeeding year, cause to be published statements bringing up to date the information contained in the previous statement or statements published under that subparagraph.
 
-The information (or details of how to access the information) must be published on a website. If there is a charge for accessing the information, the agency must publish details of the charge.
+             (2)  In approving a form under subsection (1), the Minister shall have regard, amongst other things, to the need to assist members of the public to exercise effectively their rights under this Act.
 
-An agency must, in conjunction with the Information Commissioner, review the operation of the scheme in the agency every 5 years (if not earlier).
+             (3)  The information to be published in accordance with this section shall be published by including it:
 
-An agency must have regard to the objects of this Act, and guidelines issued by the Information Commissioner, in doing anything for the purposes of this Part.
+                     (a)  in the annual report of the agency to the responsible Minister of the agency relating to the activities, operations, business or affairs of the agency; or
 
-If operational information is not published in accordance with this Part, a person must not be subjected to any prejudice as a result of not having access to the information.
+                     (b)  if there is no such report—in the annual report of the Department, or a Department, administered by the responsible Minister of the agency relating to the activities, operations, business or affairs of the Department.
 
-* * *
+             (4)  Nothing in this section requires the publication of information that is of such a nature that its inclusion in a document of an agency would cause that document to be an exempt document.
 
-### Division 2—Information to be published
+             (5)  Subsection (1) applies in relation to an agency that comes into existence after the commencement of this Part as if the references in that subsection to the commencement of this Part were references to the day on which the agency comes into existence.
 
-##### <a id="8"></a>8  Information to be published—what information?
+             (6)  The categories referred to in subparagraph (1)(a)(iii) include, but are not limited to, the following categories:
 
-Agency plans
+                     (a)  any documents referred to in paragraph 12(1)(b);
 
-             (1)  An agency must prepare a plan showing the following:
+                     (b)  any documents referred to in paragraph 12(1)(c);
 
-                     (a)  what information the agency proposes to publish for the purposes of this Part;
+                     (c)  any other documents, if the documents are customarily made available to the public:
 
-                     (b)  how, and to whom, the agency proposes to publish information for the purposes of this Part;
+                              (i)  otherwise than under this Act; and
 
-                     (c)  how the agency otherwise proposes to comply with this Part.
+                             (ii)  free of charge upon request.
 
-Information that must be published
+##### <a id="9"></a>9  Certain documents to be available for inspection and purchase
 
-             (2)  The agency must publish the following information:
+             (1)  This section applies, in respect of an agency, to documents that are provided by the agency for the use of, or are used by, the agency or its officers in making decisions or recommendations, under or for the purposes of an enactment or scheme administered by the agency, with respect to rights, privileges or benefits, or to obligations, penalties or other detriments, to which persons are or may be entitled or subject, being:
 
-                     (a)  the plan prepared under subsection (1);
+                     (a)  manuals or other documents containing interpretations, rules, guidelines, practices or precedents including, but without limiting the generality of the foregoing, precedents in the nature of letters of advice providing information to bodies or persons outside the Commonwealth administration;
 
-                     (b)  details of the structure of the agency’s organisation (for example, in the form of an organisation chart);
+                     (b)  documents containing particulars of such a scheme, not being particulars contained in an enactment as published apart from this Act;
 
-                     (c)  as far as practicable, details of the functions of the agency, including its decision‑making powers and other powers affecting members of the public (or any particular person or entity, or class of persons or entities);
+                     (c)  documents containing statements of the manner, or intended manner, of administration or enforcement of such an enactment or scheme; or
 
-                     (d)  details of the following appointments:
+                     (d)  documents describing the procedures to be followed in investigating breaches or evasions or possible breaches or evasions of such an enactment or of the law relating to such a scheme;
 
-                              (i)  appointments of officers of the agency that are made under Acts (other than APS employees within the meaning of the _Public Service Act 1999_);
+but not including documents that are available to the public as published otherwise than by an agency or as published by another agency.
 
-                             (ii)  appointments of officers of the agency that are made under Norfolk Island enactments (other than officers appointed or employed under the _Public Sector Management Act 2000_ of Norfolk Island);
+             (2)  The principal officer of an agency shall:
 
-                     (e)  the information in annual reports prepared by the agency that are laid before the Parliament or the Legislative Assembly of Norfolk Island;
+                     (a)  cause copies of all documents to which this section applies in respect of the agency that are in use from time to time to be made available for inspection and for purchase by members of the public;
 
-                      (f)  details of arrangements for members of the public to comment on specific policy proposals for which the agency is responsible, including how (and to whom) those comments may be made;
+                     (b)  cause to be prepared by a day not later than the relevant day in relation to the agency, and as soon as practicable after preparation to be made available, for inspection and for purchase by members of the public, at each Information Access Office, a statement (which may take the form of an index) specifying the documents of which copies are, at the time of preparation of the statement, available in accordance with paragraph (a) and the place or places where copies may be inspected and may be purchased; and
 
-                     (g)  information in documents to which the agency routinely gives access in response to requests under Part III (access to documents), except information of the following kinds:
+                     (c)  cause to be prepared within 3 months, if practicable, and in any case not later than 12 months, after the preparation of the last preceding statement prepared in accordance with paragraph (b) or this paragraph, and as soon as practicable after preparation to be made available, for inspection and for purchase by members of the public, at each Information Access Office, a statement bringing up to date the information contained in that last preceding statement.
 
-                              (i)  personal information about any individual, if it would be unreasonable to publish the information;
+          (2A)  For the purposes of subsection (2):
 
-                             (ii)  information about the business, commercial, financial or professional affairs of any person, if it would be unreasonable to publish the information;
+                     (a)  the relevant day in relation to an agency is:
 
-                            (iii)  other information of a kind determined by the Information Commissioner under subsection (3), if it would be unreasonable to publish the information;
+                              (i)  in the case of an agency that was in existence before the commencement of the _Freedom of Information Laws Amendment Act 1986_—the first day after the commencement of that Act by which the agency, if the amendments made by that Act to subsection (2) of this section had not been made, would have been required under that subsection to publish a statement in the _Gazette_; and
 
-                     (h)  information held by the agency that is routinely provided to the Parliament or the Legislative Assembly of Norfolk Island in response to requests and orders from the Parliament or the Legislative Assembly of Norfolk Island, as the case may be;
+                             (ii)  in the case of an agency that comes into existence on or after the commencement of the _Freedom of Information Laws Amendment Act 1986_—the day that occurs 12 months after the day on which the agency comes into existence; and
 
-                      (i)  contact details for an officer (or officers) who can be contacted about access to the agency’s information or documents under this Act;
+                     (b)  **_Information Access Office_** means a place that is an Information Access Office for the purposes of section 28.
 
-                      (j)  the agency’s operational information (see section 8A).
+             (3)  The principal officer is not required to comply fully with paragraph (2)(a) before the expiration of 12 months after the commencement of this Part, but shall, before that time, comply with that paragraph so far as is practicable.
 
-Note:          If operational information is not published in accordance with this section, a person must not be subjected to any prejudice as a result (see section 10).
+             (4)  This section does not require a document of the kind referred to in subsection (1) containing exempt matter to be made available in accordance with subsection (2), but, if such a document is not so made available, the principal officer of the agency, or an officer of the agency acting within the scope of authority exercisable by him or her in accordance with arrangements approved by the responsible Minister or principal officer of the agency, shall, if practicable, cause to be prepared a corresponding document, altered only to the extent necessary to exclude the exempt matter, and cause the document so prepared to be dealt with in accordance with subsection (2).
 
-             (3)  The Information Commissioner may, by legislative instrument, make a determination for the purposes of subparagraph (2)(g)(iii).
+             (5)  The Minister may, by writing under his or her hand, extend, in respect of the Commissioner of Taxation, the time specified in paragraph (2)(b) or subsection (3) where he or she is satisfied, after consulting the Minister who is the responsible Minister in relation to the Commissioner of Taxation, that it is reasonable to extend the time by reason of special circumstances applicable to the Commissioner of Taxation.
 
-Other information
+             (6)  Where the Minister is satisfied, after consulting the Minister who is the responsible Minister in relation to the Commissioner of Taxation, that the form or nature of the documents to which this section applies in respect of the Commissioner of Taxation that are in existence at the commencement of this Part, or of some of those documents, is such that complete compliance with this section in respect of those documents would impose on the Commissioner of Taxation such a workload as would unreasonably divert his or her resources from his or her other operations, the first‑mentioned Minister may, by writing under his or her hand, direct that the application of this section in respect of the Commissioner of Taxation is to be subject to such modifications as he or she specifies, being modifications that, in his or her opinion, are reasonably required by reason of the circumstances referred to in this subsection.
 
-             (4)  The agency may publish other information held by the agency.
+             (7)  The report of the Minister under section 93 in respect of a year shall include:
 
-Functions and powers
+                     (a)  particulars of any extensions of time made, or directions given, under this section by the Minister during that year; and
 
-             (5)  This section applies to a function or power of an agency whether or not the agency has the function or power under an enactment.
+                     (b)  a statement concerning compliance by agencies with the requirements of this section during that year.
 
-Definition
+             (8)  Where a person makes a request to inspect or to purchase a document of an agency concerning a particular enactment or scheme, being a document of a kind to which this section applies, the principal officer of the agency shall take all reasonable steps to ensure that the attention of that person is drawn to any document of the agency concerning that enactment or scheme that is relevant to the request and has become a document to which this section applies since the last occasion on which a statement in respect of documents of the agency was prepared and made available in accordance with subsection (2).
 
-             (6)  In this section:
+             (9)  Subsection (3) applies in relation to an agency that comes into existence after the commencement of this Part as if the reference in that subsection to the commencement of this Part were a reference to the day on which the agency comes into existence.
 
-                    <a name="enact"></a>**_enactment_** includes a Norfolk Island enactment.
+##### <a id="10"></a>10  Unpublished documents not to prejudice public
 
-Note 1:       See section 8C for restrictions on the requirement to publish this information.
+             (1)  If a document required to be made available in accordance with section 9, being a document containing a rule, guideline or practice relating to a function of an agency, was not made available, or was not included in a statement made available at each Information Access Office, as referred to in that section, before the time at which a person did, or omitted to do, any act or thing relevant to the performance of that function in relation to him or her (whether or not the time allowed for publication of a statement in respect of the document had expired before that time), that person, if he or she was not aware of that rule, guideline or practice at that time, shall not be subjected to any prejudice by reason only of the application of that rule, guideline or practice in relation to the thing done or omitted to be done by him or her if he or she could lawfully have avoided that prejudice had he or she been aware of that rule, guideline or practice.
 
-Note 2:       The agency must have regard to the objects of this Act and guidelines issued by the Information Commissioner in performing functions, and exercising powers, under this section (see section 9A).
+             (2)  The reference in subsection (1) to the time at which a person did, or omitted to do, any act or thing relevant to the performance in relation to him or her of a function of an agency does not include a reference to a time earlier than:
 
-##### <a id="8A"></a>8A  Information to be published—what is _operational information_?
+                     (a)  the expiration of the period of 12 months referred to in paragraph 9(2)(b) or, if the agency is the Commissioner of Taxation and that period has been extended in respect of the agency under subsection 9(5), the expiration of the period as extended; or
 
-             (1)  An agency’s **_operational information_** is information held by the agency to assist the agency to perform or exercise the agency’s functions or powers in making decisions or recommendations affecting members of the public (or any particular person or entity, or class of persons or entities).
+                     (b)  the expiration of the period of 12 months after the day on which the agency came into existence;
 
-Example:    The agency’s rules, guidelines, practices and precedents relating to those decisions and recommendations.
+whichever is the later.
 
-             (2)  An agency’s **_operational information_** does not include information that is available to members of the public otherwise than by being published by (or on behalf of) the agency.
+             (3)  In subsection (1):
 
-##### <a id="8B"></a>8B  Information to be published—accuracy etc.
-
-                   An agency must ensure that information published by the agency as required or permitted by this Part is accurate, up‑to‑date and complete.
-
-##### <a id="8C"></a>8C  Information to be published—restrictions
-
-Exempt documents
-
-             (1)  An agency is not required under this Part to publish exempt matter.
-
-Publication prohibited or restricted by other legislation
-
-             (2)  If an enactment restricts or prohibits the publication of particular information, an agency is not required under this Part to publish the information otherwise than as permitted or required by the enactment.
-
-Operation of restrictions
-
-             (3)  This section applies despite section 8.
-
-Definition
-
-             (4)  In this section:
-
-                    <a name="enact"></a>**_enactment_** includes a Norfolk Island enactment.
-
-##### <a id="8D"></a>8D  Information to be published—how (and to whom) information is to be published
-
-Scope
-
-             (1)  An agency must publish information that is required or permitted to be published under this Part in accordance with this section.
-
-How (and to whom) information is to be published
-
-             (2)  The agency must publish the information:
-
-                     (a)  to members of the public generally; and
-
-                     (b)  if the agency considers that it is appropriate to do so—to particular classes of persons or entities.
-
-             (3)  The agency must publish the information on a website by:
-
-                     (a)  making the information available for downloading from the website; or
-
-                     (b)  publishing on the website a link to another website, from which the information can be downloaded; or
-
-                     (c)  publishing on the website other details of how the information may be obtained.
-
-Charges
-
-             (4)  The agency may impose a charge on a person for accessing the information only if:
-
-                     (a)  the person does not directly access the information by downloading it from the website (or another website); and
-
-                     (b)  the charge is to reimburse the agency for specific reproduction costs, or other specific incidental costs, incurred in giving the person access to that particular information.
-
-             (5)  If there is a charge for accessing the information, the agency must publish details of the charge in the same way as the information is published under this section.
-
-Note 1:       The agency must have regard to the objects of this Act and guidelines issued by the Information Commissioner in performing functions, and exercising powers, under this section (see section 9A).
-
-Note 2:       After access is given to a document under Part III (access to documents) in accordance with a request, the agency must publish the accessed document to members of the public generally in the same way as described in this section (although certain exceptions apply) (see section 11C).
-
-##### <a id="8E"></a>8E  Information to be published—Information Commissioner to assist agencies
-
-                   The Information Commissioner may provide appropriate assistance to an agency in:
-
-                     (a)  identifying and preparing information which is required or permitted to be published under this Part; and
-
-                     (b)  determining how (and to whom) the information is required or permitted to be published under section 8D.
-
-### Division 3—Review of information publication scheme
-
-##### <a id="8F"></a>8F  Review of scheme—Information Commissioner functions
-
-                   The Information Commissioner has the following functions (as conferred by this Act and the _Australian Information Commissioner Act 2010_, but without limiting any provision of either Act):
-
-                     (a)  reviewing the operation in each agency of the information publication scheme established by this Part, in conjunction with the agency;
-
-                     (b)  investigating an agency’s compliance with this Part under Division 2 of Part VIIB (Information Commissioner investigations);
-
-                     (c)  otherwise monitoring, investigating and reporting on the operation of the scheme.
-
-##### <a id="9"></a>9  Review of scheme—by agencies
-
-             (1)  An agency must, in conjunction with the Information Commissioner, complete a review of the operation, in the agency, of the information publication scheme established by this Part:
-
-                     (a)  as appropriate from time to time; and
-
-                     (b)  in any case—within 5 years after the last time a review under this section was completed.
-
-             (2)  The first review under subsection (1) must be completed within 5 years after the day this section commences.
-
-Note 1:       This section  commences on the day after the end of the period of 6 months beginning on the day on which the _Australian Information Commissioner Act 2010_ commences.
-
-Note 2:       The agency must have regard to the objects of this Act and guidelines issued by the Information Commissioner in performing functions, and exercising powers, under this section (see section 9A).
-
-### Division 4—Guidelines
-
-##### <a id="9A"></a>9A  Functions and powers under this Part
-
-                   In performing a function, or exercising a power, under this Part, an agency must have regard to:
-
-                     (a)  the objects of this Act (including all the matters set out in sections 3 and 3A); and
-
-                     (b)  guidelines issued by the Information Commissioner for the purposes of this paragraph under section 93A.
-
-### Division 5—Miscellaneous
-
-##### <a id="10"></a>10  Unpublished operational information
-
-Scope
-
-             (1)  This section applies if:
-
-                     (a)  part (or all) of an agency’s operational information (the **_unpublished information_**), in relation to a function or power of the agency, is not published by the agency in accordance with this Part; and
-
-                     (b)  a person engages in conduct relevant to the performance of the function or the exercise of the power; and
-
-                     (c)  at the time of engaging in that conduct:
-
-                              (i)  the person was not aware of the unpublished information; and
-
-                             (ii)  the agency had been in existence for more than 12 months.
-
-Note:          An agency’s operational information is required to be published by the agency (see sections 8 and 8A).
-
-No prejudice from lack of awareness of unpublished information
-
-             (2)  The person must not be subjected to any prejudice only because of the application to that conduct of any rule, guideline or practice in the unpublished information, if the person could lawfully have avoided that prejudice had he or she been aware of the unpublished information.
-
-##### <a id="10A"></a>10A  Who performs functions etc. given to agencies
-
-             (1)  A function or power given to an agency under this Part may be performed or exercised, on behalf of the agency, by:
-
-                     (a)  the principal officer of the agency; or
-
-                     (b)  an officer of the agency acting within the scope of his or her authority in accordance with arrangements approved by the principal officer of the agency.
-
-             (2)  The performance or exercise of a function or power under paragraph (1)(b) is subject to the regulations.
-
-##### <a id="10B"></a>10B  Transitional—Norfolk Island authorities
-
-                   This Part does not apply to a Norfolk Island authority at any time during the 2‑year period beginning at the commencement of this section.
+                    <a name="inform-access-offic"></a>**_Information Access Office_** means a place that is an Information Access Office for the purposes of section 28.
 
 ## Part III—Access to documents
 
@@ -1494,8 +1320,7 @@ Exemptions and conditional exemptions
 
              (4)  The agency or Minister is not required by this Act to give the person access to the document at a particular time if, at that time, the document is an exempt document.
 
-Note:          Access may be given to an exempt document apart from under this Act, whether or not in response to a request (see section 3A 
- (objects—information or documents otherwise accessible)).
+Note:          Access may be given to an exempt document apart from under this Act, whether or not in response to a request (see section 3A (objects—information or documents otherwise accessible)).
 
              (5)  The agency or Minister must give the person access to the document if it is conditionally exempt at a particular time unless (in the circumstances) access to the document at that time would, on balance, be contrary to the public interest.
 
@@ -1553,54 +1378,6 @@ Guidelines
 
              (5)  In working out whether access to the document would, on balance, be contrary to the public interest, an agency or Minister must have regard to any guidelines issued by the Information Commissioner for the purposes of this subsection under section 93A.
 
-##### <a id="11C"></a>11C  Publication of information in accessed documents
-
-Scope
-
-             (1)  This section applies to information if an agency or Minister gives a person access to a document under section 11A containing the information, except in the case of any of the following:
-
-                     (a)  personal information about any person, if it would be unreasonable to publish the information;
-
-                     (b)  information about the business, commercial, financial or professional affairs of any person, if it would be unreasonable to publish the information;
-
-                     (c)  other information of a kind determined by the Information Commissioner under subsection (2), if it would be unreasonable to publish the information;
-
-                     (d)  any information, if it is not reasonably practicable to publish the information under this section because of the extent of any modifications to a document (or documents) necessary to delete information mentioned in paragraphs (a) to (c).
-
-             (2)  The Information Commissioner may, by legislative instrument, make a determination for the purposes of paragraph (1)(c).
-
-Publication
-
-             (3)  The agency, or the Minister, must publish the information to members of the public generally on a website by:
-
-                     (a)  making the information available for downloading from the website; or
-
-                     (b)  publishing on the website a link to another website, from which the information can be downloaded; or
-
-                     (c)  publishing on the website other details of how the information may be obtained.
-
-             (4)  The agency may impose a charge on a person for accessing the information only if:
-
-                     (a)  the person does not directly access the information by downloading it from the website (or another website); and
-
-                     (b)  the charge is to reimburse the agency for a specific reproduction cost, or other specific incidental costs, incurred in giving the person access to that particular information.
-
-             (5)  If there is a charge for accessing the information, the agency or Minister must publish details of the charge in the same way as the information is published under this section.
-
-Time limit for publication
-
-             (6)  The agency or Minister must comply with this section within 10 working days after the day the person is given access to the document.
-
-             (7)  In this section:
-
-                    <a name="work-dai"></a>**_working day_** means a day that is not:
-
-                     (a)  a Saturday; or
-
-                     (b)  a Sunday; or
-
-                     (c)  a public holiday in the place where the function of publishing the information under this section is to be performed.
-
 ##### <a id="12"></a>12  Part not to apply to certain documents
 
              (1)  A person is not entitled to obtain access under this Part to:
@@ -1633,7 +1410,7 @@ more than 5 years before the commencement of this subsection unless:
 
                              (ii)  an official document of a Norfolk Island Minister;
 
-                            to which that person has lawfully had access.
+                            to which that person has lawfully had access.
 
              (3)  In this section:
 
@@ -2685,7 +2462,7 @@ Note 1:       A document is an **_exempt document_** for the purpose
 
 Note 2:       Access must generally be given to a conditionally exempt document unless it would be contrary to the public interest (see section 11A).
 
-##### <a id="32"></a>32  Interpretation [_see_ Note 2]
+##### <a id="32"></a>32  Interpretation [_see_ Note 4]
 
                    A provision of this Part by virtue of which documents referred to in the provision are exempt documents:
 
@@ -2747,7 +2524,7 @@ Note:          However, the attachment itself may be an exempt
 
                      (b)  the existence of the deliberation or decision has not been officially disclosed.
 
-##### <a id="37"></a>37  Documents affecting enforcement of law and protection of public safety
+##### <a id="37"></a>37  Documents affecting enforcement of law and protection of public safety
 
              (1)  A document is an exempt document if its disclosure under this Act would, or could reasonably be expected to:
 
@@ -3371,7 +3148,7 @@ Sections 53A, 53B and 53C define the terms **_access refusal decision_**, **_a
 
 Note:          If a decision is not made on a request under section 15 within the time required by that section, a decision is taken to have been made to refuse to give access to a document in accordance with the request (see section 15AC).
 
-##### <a id="53B"></a>53B  What is an _access grant decision_? [_see_ Note 3]
+##### <a id="53B"></a>53B  What is an _access grant decision_? [_see_ Note 5]
 
              (1)  An **_access grant decision_** is a decision covered by the following table:
 
@@ -4388,7 +4165,7 @@ Offence for failure to comply
 
                      (c)  the person’s conduct breaches the requirement.
 
-                    Penalty for a contravention of this subsection: Imprisonment for 6 months.
+                    Penalty for a contravention of this subsection: Imprisonment for 6 months.
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -6160,6 +5937,11 @@ _Section 7_
 </tr>
 <tr>
   <td>
+    <div>Australian Industry Development Corporation</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Australian Secret Intelligence Service</div>
   </td>
 </tr>
@@ -7239,7 +7021,7 @@ Remainder: 19 Dec 1994 ( <i>see</i>s. 2(3))</div>
     <div>19 Dec 1994</div>
   </td>
   <td>
-    <div>Schedule 1 (items 22–85): 13 Oct 1994 
+    <div>Schedule 1 (items 22–85): 13 Oct 1994 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -7309,7 +7091,7 @@ Remainder: Royal Assent</div>
     <div>5 June 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (item 5): 22 Apr 2011 ( <i>see</i>F2011L00637) <i>(c)</i></div>
+    <div>Schedule 2 (item 5): \[ <i>see</i> <i>(c)</i>and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -8102,7 +7884,7 @@ Schedule 5 (item 137(a), (c)): <i>(k)</i></div>
   <td>
     <div>Schedule 1, Schedule 3 (items 7–14, 
 16–34, 39), Schedule 4 (items 1–57, 65), Schedule 6 (items 1–41) and Schedule 7: <i>(l)</i> 
-Schedule 2 and Schedule 3 (item 15): 1 May 2011</div>
+Schedule 2 and Schedule 3 (item 15): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 4), Sch. 3 (item 39), Sch. 4 (item 65) and Sch. 6 (items 40, 41) \[ <i>see</i>Table A] 
@@ -8122,7 +7904,7 @@ Sch. 7 \[ <i>see</i>Note 1]</div>
   <td>
     <div>Schedule 1 (item 66): 11 Dec 2010 
 Schedule 1 (items 155–175, 183–239): 1 Jan 2011 
-Schedule 1 (items 176–182): <i>(m)</i></div>
+Schedule 1 (items 176–182): \[ <i>see (m)</i>and Note 6]</div>
   </td>
   <td>
     <div>—</div>
@@ -8161,40 +7943,6 @@ Schedule 1 (items 176–182): <i>(m)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Screen Australia (Transfer of Assets) Act 2011</div>
-  </td>
-  <td>
-    <div>20, 2011</div>
-  </td>
-  <td>
-    <div>12 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1, 2): \[ <i>see</i>Note 4]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telecommunications Legislation Amendment (National Broadband Network Measures—Access Arrangements) Act 2011</div>
-  </td>
-  <td>
-    <div>23, 2011</div>
-  </td>
-  <td>
-    <div>12 Apr 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 115–122): \[ <i>see</i>Note 5]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Freedom of Information Act 1982_ was amended by section 62 only of the _Commonwealth Banks Restructuring Act 1990_, subsection 2(3) of which provides as follows:
@@ -8211,7 +7959,7 @@ _(b)_     The _Freedom of Information Act 1982_ was amended by the Sched
 
 _(c)_     The _Freedom of Information Act 1982_ was amended by Schedule 2 (item 5) only of the _AIDC Sale Act 1997_, subsection 2(2) of which provides as follows:
 
-                 (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor‑General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities.
+                 (2)   Schedule 2 commences on a day to be fixed by Proclamation. The day must not be earlier than the day on which the Minister gives the Governor‑General a written certificate stating that the Minister is satisfied that the Australian Industry Development Corporation has no assets and no liabilities. [_see_ Note 2]
 
 _(d)_     The _Freedom of Information Act 1982_ was amended by Schedule 5 (item 3) only of the _Aged Care (Consequential Provisions) Act 1997_, subsection 2(1) of which provides as follows:
 
@@ -8642,7 +8390,8 @@ _(m)_    Subsection 2(1) (item 7) of the _Territories Law Reform Act 201
   </td>
   <td>
     <div>
-      1 May 2011
+      \[
+        <i>see</i>Note 6]
     </div>
   </td>
 </tr></table>
@@ -8808,106 +8557,10 @@ _(m)_    Subsection 2(1) (item 7) of the _Territories Law Reform Act 201
 </tr>
 <tr>
   <td>
-    <div>Part II</div>
-  </td>
-  <td>
-    <div>rs. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 8</div>
   </td>
   <td>
     <div>am. No. 111, 1986; No. 84, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8A, 8B</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8C</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 8D, 8E</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8F</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -8920,66 +8573,10 @@ _(m)_    Subsection 2(1) (item 7) of the _Territories Law Reform Act 201
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9A</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 10</div>
   </td>
   <td>
     <div>am. No. 81, 1983; No. 137, 1991; No. 43, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10A</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10B</div>
-  </td>
-  <td>
-    <div>ad. No. 139, 2010</div>
   </td>
 </tr>
 <tr>
@@ -9020,14 +8617,6 @@ _(m)_    Subsection 2(1) (item 7) of the _Territories Law Reform Act 201
   </td>
   <td>
     <div>am. No. 139, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11C</div>
-  </td>
-  <td>
-    <div>ad. No. 51, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11517,7 +11106,7 @@ Part VIII</div>
     <div>Schedule 2</div>
   </td>
   <td>
-    <div>am. No. 7, 1983; No. 187, 1985; Nos. 102 and 111, 1986; Nos. 6, 121, 126, 127 and 129, 1988; Nos. 66 and 150, 1989; Nos. 26, 75 and 118, 1990; Nos. 99, 137, 149 and 180, 1991; No. 165, 1992; Nos. 64 and 84, 1994; No. 161, 1995; Nos. 67 and 96, 1997; Nos. 7, 146 and 161, 1999; Nos. 108 and 163, 2000; No. 30, 2001; No. 127, 2002; No. 114, 2003; No. 62, 2004; Nos. 45, 111, 118, 128 and 129, 2005; Nos. 50 and 170, 2006; Nos. 27 and 124, 2007; No. 66, 2008; Nos. 8, 51 and 148, 2010</div>
+    <div>am. No. 7, 1983; No. 187, 1985; Nos. 102 and 111, 1986; Nos. 6, 121, 126, 127 and 129, 1988; Nos. 66 and 150, 1989; Nos. 26, 75 and 118, 1990; Nos. 99, 137, 149 and 180, 1991; No. 165, 1992; Nos. 64 and 84, 1994; No. 161, 1995; No. 96, 1997; Nos. 7, 146 and 161, 1999; Nos. 108 and 163, 2000; No. 30, 2001; No. 127, 2002; No. 114, 2003; No. 62, 2004; Nos. 45, 111, 118, 128 and 129, 2005; Nos. 50 and 170, 2006; Nos. 27 and 124, 2007; No. 66, 2008; Nos. 8, 51 and 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -11571,6 +11160,328 @@ Part VIII</div>
 
 ### Note 2
 
+_AIDC   Sale Act 1997 (No. 67, 1997)_
+
+The following amendment commences by proclamation:
+
+## Schedule 2
+
+## 5  Part I of Schedule 2
+
+Omit “Australian Industry Development Corporation”.
+
+As at 1 January 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
+_Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
+
+The following amendments commence on 1 May 2011:
+
+## Schedule 2
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="oper-inform"></a>**_operational information_** has the meaning given by section 8A.
+
+## 2  Subsection 4(9)
+
+Omit “of this Act (other than sections 8 and 93)”.
+
+## 3  Part II
+
+Repeal the Part, substitute:
+
+## Part II—Information publication scheme
+
+### Division 1—Guide to this Part
+
+##### <a id="7A"></a>7A  Information publication scheme—guide
+
+* * *
+
+This Part establishes an information publication scheme for agencies.
+
+Each agency must publish a plan showing how it proposes to implement this Part.
+
+An agency must publish a range of information including information about what the agency does and the way it does it, as well as information dealt with or used in the course of its operations, some of which is called operational information.
+
+In addition, an agency may publish other information held by the agency.
+
+Information published by an agency must be kept accurate, up‑to‑date and complete.
+
+An agency is not required to publish exempt matter. An agency is also not required to publish information if prohibited by another enactment.
+
+The information (or details of how to access the information) must be published on a website. If there is a charge for accessing the information, the agency must publish details of the charge.
+
+An agency must, in conjunction with the Information Commissioner, review the operation of the scheme in the agency every 5 years (if not earlier).
+
+An agency must have regard to the objects of this Act, and guidelines issued by the Information Commissioner, in doing anything for the purposes of this Part.
+
+If operational information is not published in accordance with this Part, a person must not be subjected to any prejudice as a result of not having access to the information.
+
+* * *
+
+### Division 2—Information to be published
+
+##### <a id="8"></a>8  Information to be published—what information?
+
+Agency plans
+
+             (1)  An agency must prepare a plan showing the following:
+
+                     (a)  what information the agency proposes to publish for the purposes of this Part;
+
+                     (b)  how, and to whom, the agency proposes to publish information for the purposes of this Part;
+
+                     (c)  how the agency otherwise proposes to comply with this Part.
+
+Information that must be published
+
+             (2)  The agency must publish the following information:
+
+                     (a)  the plan prepared under subsection (1);
+
+                     (b)  details of the structure of the agency’s organisation (for example, in the form of an organisation chart);
+
+                     (c)  as far as practicable, details of the functions of the agency, including its decision‑making powers and other powers affecting members of the public (or any particular person or entity, or class of persons or entities);
+
+                     (d)  details of appointments of officers of the agency that are made under Acts (other than APS employees within the meaning of the _Public Service Act 1999_);
+
+                     (e)  the information in annual reports prepared by the agency that are laid before the Parliament;
+
+                      (f)  details of arrangements for members of the public to comment on specific policy proposals for which the agency is responsible, including how (and to whom) those comments may be made;
+
+                     (g)  information in documents to which the agency routinely gives access in response to requests under Part III (access to documents), except information of the following kinds:
+
+                              (i)  personal information about any individual, if it would be unreasonable to publish the information;
+
+                             (ii)  information about the business, commercial, financial or professional affairs of any person, if it would be unreasonable to publish the information;
+
+                            (iii)  other information of a kind determined by the Information Commissioner under subsection (3), if it would be unreasonable to publish the information;
+
+                     (h)  information held by the agency that is routinely provided to the Parliament in response to requests and orders from the Parliament;
+
+                      (i)  contact details for an officer (or officers) who can be contacted about access to the agency’s information or documents under this Act;
+
+                      (j)  the agency’s operational information (see section 8A).
+
+Note:          If operational information is not published in accordance with this section, a person must not be subjected to any prejudice as a result (see section 10).
+
+             (3)  The Information Commissioner may, by legislative instrument, make a determination for the purposes of subparagraph (2)(g)(iii).
+
+Other information
+
+             (4)  The agency may publish other information held by the agency.
+
+Functions and powers
+
+             (5)  This section applies to a function or power of an agency whether or not the agency has the function or power under an enactment.
+
+Note 1:       See section 8C for restrictions on the requirement to publish this information.
+
+Note 2:       The agency must have regard to the objects of this Act and guidelines issued by the Information Commissioner in performing functions, and exercising powers, under this section (see section 9A).
+
+##### <a id="8A"></a>8A  Information to be published—what is _operational information_?
+
+             (1)  An agency’s **_operational information_** is information held by the agency to assist the agency to perform or exercise the agency’s functions or powers in making decisions or recommendations affecting members of the public (or any particular person or entity, or class of persons or entities).
+
+Example:    The agency’s rules, guidelines, practices and precedents relating to those decisions and recommendations.
+
+             (2)  An agency’s **_operational information_** does not include information that is available to members of the public otherwise than by being published by (or on behalf of) the agency.
+
+##### <a id="8B"></a>8B  Information to be published—accuracy etc.
+
+                   An agency must ensure that information published by the agency as required or permitted by this Part is accurate, up‑to‑date and complete.
+
+##### <a id="8C"></a>8C  Information to be published—restrictions
+
+Exempt documents
+
+             (1)  An agency is not required under this Part to publish exempt matter.
+
+Publication prohibited or restricted by other legislation
+
+             (2)  If an enactment restricts or prohibits the publication of particular information, an agency is not required under this Part to publish the information otherwise than as permitted or required by the enactment.
+
+Operation of restrictions
+
+             (3)  This section applies despite section 8.
+
+##### <a id="8D"></a>8D  Information to be published—how (and to whom) information is to be published
+
+Scope
+
+             (1)  An agency must publish information that is required or permitted to be published under this Part in accordance with this section.
+
+How (and to whom) information is to be published
+
+             (2)  The agency must publish the information:
+
+                     (a)  to members of the public generally; and
+
+                     (b)  if the agency considers that it is appropriate to do so—to particular classes of persons or entities.
+
+             (3)  The agency must publish the information on a website by:
+
+                     (a)  making the information available for downloading from the website; or
+
+                     (b)  publishing on the website a link to another website, from which the information can be downloaded; or
+
+                     (c)  publishing on the website other details of how the information may be obtained.
+
+Charges
+
+             (4)  The agency may impose a charge on a person for accessing the information only if:
+
+                     (a)  the person does not directly access the information by downloading it from the website (or another website); and
+
+                     (b)  the charge is to reimburse the agency for specific reproduction costs, or other specific incidental costs, incurred in giving the person access to that particular information.
+
+             (5)  If there is a charge for accessing the information, the agency must publish details of the charge in the same way as the information is published under this section.
+
+Note 1:       The agency must have regard to the objects of this Act and guidelines issued by the Information Commissioner in performing functions, and exercising powers, under this section (see section 9A).
+
+Note 2:       After access is given to a document under Part III (access to documents) in accordance with a request, the agency must publish the accessed document to members of the public generally in the same way as described in this section (although certain exceptions apply) (see section 11C).
+
+##### <a id="8E"></a>8E  Information to be published—Information Commissioner to assist agencies
+
+                   The Information Commissioner may provide appropriate assistance to an agency in:
+
+                     (a)  identifying and preparing information which is required or permitted to be published under this Part; and
+
+                     (b)  determining how (and to whom) the information is required or permitted to be published under section 8D.
+
+### Division 3—Review of information publication scheme
+
+##### <a id="8F"></a>8F  Review of scheme—Information Commissioner functions
+
+                   The Information Commissioner has the following functions (as conferred by this Act and the _Australian Information Commissioner Act 2010_, but without limiting any provision of either Act):
+
+                     (a)  reviewing the operation in each agency of the information publication scheme established by this Part, in conjunction with the agency;
+
+                     (b)  investigating an agency’s compliance with this Part under Division 2 of Part VIIB (Information Commissioner investigations);
+
+                     (c)  otherwise monitoring, investigating and reporting on the operation of the scheme.
+
+##### <a id="9"></a>9  Review of scheme—by agencies
+
+             (1)  An agency must, in conjunction with the Information Commissioner, complete a review of the operation, in the agency, of the information publication scheme established by this Part:
+
+                     (a)  as appropriate from time to time; and
+
+                     (b)  in any case—within 5 years after the last time a review under this section was completed.
+
+             (2)  The first review under subsection (1) must be completed within 5 years after the day this section commences.
+
+Note 1:       This section  commences on the day after the end of the period of 6 months beginning on the day on which the _Australian Information Commissioner Act 2010_ commences.
+
+Note 2:       The agency must have regard to the objects of this Act and guidelines issued by the Information Commissioner in performing functions, and exercising powers, under this section (see section 9A).
+
+### Division 4—Guidelines
+
+##### <a id="9A"></a>9A  Functions and powers under this Part
+
+                   In performing a function, or exercising a power, under this Part, an agency must have regard to:
+
+                     (a)  the objects of this Act (including all the matters set out in sections 3 and 3A); and
+
+                     (b)  guidelines issued by the Information Commissioner for the purposes of this paragraph under section 93A.
+
+### Division 5—Miscellaneous
+
+##### <a id="10"></a>10  Unpublished operational information
+
+Scope
+
+             (1)  This section applies if:
+
+                     (a)  part (or all) of an agency’s operational information (the **_unpublished information_**), in relation to a function or power of the agency, is not published by the agency in accordance with this Part; and
+
+                     (b)  a person engages in conduct relevant to the performance of the function or the exercise of the power; and
+
+                     (c)  at the time of engaging in that conduct:
+
+                              (i)  the person was not aware of the unpublished information; and
+
+                             (ii)  the agency had been in existence for more than 12 months.
+
+Note:          An agency’s operational information is required to be published by the agency (see sections 8 and 8A).
+
+No prejudice from lack of awareness of unpublished information
+
+             (2)  The person must not be subjected to any prejudice only because of the application to that conduct of any rule, guideline or practice in the unpublished information, if the person could lawfully have avoided that prejudice had he or she been aware of the unpublished information.
+
+##### <a id="10A"></a>10A  Who performs functions etc. given to agencies
+
+             (1)  A function or power given to an agency under this Part may be performed or exercised, on behalf of the agency, by:
+
+                     (a)  the principal officer of the agency; or
+
+                     (b)  an officer of the agency acting within the scope of his or her authority in accordance with arrangements approved by the principal officer of the agency.
+
+             (2)  The performance or exercise of a function or power under paragraph (1)(b) is subject to the regulations.
+
+## Schedule 3
+
+## 15  Before section 12
+
+Insert:
+
+##### <a id="11C"></a>11C  Publication of information in accessed documents
+
+Scope
+
+             (1)  This section applies to information if an agency or Minister gives a person access to a document under section 11A containing the information, except in the case of any of the following:
+
+                     (a)  personal information about any person, if it would be unreasonable to publish the information;
+
+                     (b)  information about the business, commercial, financial or professional affairs of any person, if it would be unreasonable to publish the information;
+
+                     (c)  other information of a kind determined by the Information Commissioner under subsection (2), if it would be unreasonable to publish the information;
+
+                     (d)  any information, if it is not reasonably practicable to publish the information under this section because of the extent of any modifications to a document (or documents) necessary to delete information mentioned in paragraphs (a) to (c).
+
+             (2)  The Information Commissioner may, by legislative instrument, make a determination for the purposes of paragraph (1)(c).
+
+Publication
+
+             (3)  The agency, or the Minister, must publish the information to members of the public generally on a website by:
+
+                     (a)  making the information available for downloading from the website; or
+
+                     (b)  publishing on the website a link to another website, from which the information can be downloaded; or
+
+                     (c)  publishing on the website other details of how the information may be obtained.
+
+             (4)  The agency may impose a charge on a person for accessing the information only if:
+
+                     (a)  the person does not directly access the information by downloading it from the website (or another website); and
+
+                     (b)  the charge is to reimburse the agency for a specific reproduction cost, or other specific incidental costs, incurred in giving the person access to that particular information.
+
+             (5)  If there is a charge for accessing the information, the agency or Minister must publish details of the charge in the same way as the information is published under this section.
+
+Time limit for publication
+
+             (6)  The agency or Minister must comply with this section within 10 working days after the day the person is given access to the document.
+
+             (7)  In this section:
+
+                    <a name="work-dai"></a>**_working day_** means a day that is not:
+
+                     (a)  a Saturday; or
+
+                     (b)  a Sunday; or
+
+                     (c)  a public holiday in the place where the function of publishing the information under this section is to be performed.
+
+As at 1 January 2011 the amendments are not incorporated in this compilation.
+
+### Note 4
+
 Section 32—Schedule 3 (item 23) of the _Freedom of Information Amendment (Reform) Act 2010_ (No. 51, 2010) provides as follows:
 
 ## Schedule 3
@@ -11581,7 +11492,7 @@ After “exempt documents,” (wherever occurring), insert “, or are condition
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
-### Note 3
+### Note 5
 
 Section 53B (table item 1)—Schedule 1 (item 210) of the _Territories Law Reform Act 2010_ (No. 139, 2010) provides as follows:
 
@@ -11593,88 +11504,65 @@ After “relations”, insert “etc.”.
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
-### Note 4
+### Note 6
 
-_Screen Australia (Transfer of Assets) Act 2011 (No. 20, 2011)_
+_Territories Law Reform Act 2010 (No. 139, 2010)_
 
-The following amendments commence on 1 July 2011:
-
-## Schedule 1
-
-## 1  Paragraph 13(1)(e)
-
-Omit “_National Film and Sound Archive Act 2008_”, substitute “_National Film and Sound Archive of Australia Act 2008_”.
-
-## 2  Paragraph 13(1)(e)
-
-Omit “National Film and Sound Archive”, substitute “National Film and Sound Archive of Australia”.
-
-As at 1 May 2011 the amendments are not incorporated in this compilation.
-
-### Note 5
-
-_Telecommunications Legislation Amendment (National Broadband Network Measures—Access Arrangements) Act 2011 (No. 23, 2011)_
-
-The following amendments commence on 11 June 2011:
+The following amendments commence immediately after 1 May 2011:
 
 ## Schedule 1
 
-## 115  Subsection 4(1)
+## 176  Paragraph 8(2)(d)
 
-Insert:
+Repeal the paragraph, substitute:
 
-                    <a name="nbn-co"></a>**_NBN Co_** means NBN Co Limited (ACN 136 533 741), as the company exists from time to time (even if its name is later changed).
+                     (d)  details of the following appointments:
 
-## 116  Subsection 4(1) (at the end of paragraph (a) of the definition of _prescribed authority_)
+                              (i)  appointments of officers of the agency that are made under Acts (other than APS employees within the meaning of the _Public Service Act 1999_);
 
-Add “or”.
+                             (ii)  appointments of officers of the agency that are made under Norfolk Island enactments (other than officers appointed or employed under the _Public Sector Management Act 2000_ of Norfolk Island);
 
-## 117  Subsection 4(1) (after paragraph (a) of the definition of _prescribed authority_)
+## 177  At the end of paragraph 8(2)(e)
 
-Insert:
+Add “or the Legislative Assembly of Norfolk Island”.
 
-                    (aa)  NBN Co; or
+## 178  Paragraph 8(2)(h)
 
-## 118  Subsection 4(1) (at the end of paragraph (b) of the definition of _prescribed authority_)
+After “provided to the Parliament”, insert “or the Legislative Assembly of Norfolk Island”.
 
-Add “or”.
+## 179  At the end of paragraph 8(2)(h)
 
-## 119  Subsection 4(1) (after paragraph (b) of the definition of _responsible Minister_)
+Add “or the Legislative Assembly of Norfolk Island, as the case may be”.
 
-Insert:
+## 180  At the end of section 8 (before the notes)
 
-                   (ba)  in relation to the prescribed authority referred to in paragraph (aa) of that definition—the Minister administering the _National Broadband Network Companies Act 2011_; or
+Add:
 
-## 120  Subsection 7(3)
+Definition
 
-Before “means”, insert “(except when used in relation to NBN Co)”.
+             (6)  In this section:
 
-## 121  After subsection 7(3)
+                    <a name="enact"></a>**_enactment_** includes a Norfolk Island enactment.
 
-Insert:
+## 181  At the end of section 8C
 
-          (3A)  In Part II of Schedule 2, **_commercial activities_**, when used in relation to NBN Co, means:
+Add:
 
-                     (a)  activities carried on by NBN Co on a commercial basis; or
+Definition
 
-                     (b)  activities, carried on by NBN Co, that may reasonably be expected in the foreseeable future to be carried on by NBN Co on a commercial basis.
+             (4)  In this section:
 
-## 122  Division 1 of Part II of Schedule 2 (after the item relating to the National Health and Medical Research Council)
+                    <a name="enact"></a>**_enactment_** includes a Norfolk Island enactment.
 
-Insert:
+## 182  At the end of Part II
 
-<table>
-<colgroup>
-  <col width="100%">
-</colgroup>
+Add:
 
-<tr>
-  <td>
-    <div>NBN Co, in relation to documents in respect of its commercial activities</div>
-  </td>
-</tr></table>
+##### <a id="10B"></a>10B  Transitional—Norfolk Island authorities
 
-As at 1 May 2011 the amendments are not incorporated in this compilation.
+                   This Part does not apply to a Norfolk Island authority at any time during the 2‑year period beginning at the commencement of this section.
+
+As at 1 January 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -11869,18 +11757,6 @@ The amendment made by item 33 of this Schedule applies to a decision of the Tr
 
 _Freedom of Information Amendment (Reform) Act 2010 (No. 51, 2010)_
 
-## Schedule 2
-
-## 4  Saving—unpublished information
-
-Section 10 of the _Freedom of Information Act 1982_, as in force immediately before the commencement of item 3 (the **_commencement time_**), continues in force at and after the commencement time in relation to:
-
-                     (a)  a document relating to a function of an agency, required to be made available in accordance with section 9 of that Act before the commencement time; and
-
-                     (b)  conduct engaged in by a person before the commencement time that is relevant to the performance of that function.
-
-Note:          Item 3  commences on the day after the end of the period of 6 months beginning on the day on which the _Australian Information Commissioner Act 2010_ commences.
-
 ## Schedule 3
 
 ## 39  Application—Part 2
@@ -11928,6 +11804,20 @@ The amendments made by items 4, 6, 8, 10 to 13, 17, 20 to 32 and 34 to 39 appl
                      (a)  requests for access made under section 15 of the _Freedom of Information 1982_ that are received at or after the commencement of those items;
 
                      (b)  applications under section 48 of that Act that are received at or after the commencement of those items.
+
+The following provision commences on 1 May 2011:
+
+## Schedule 2
+
+## 4  Saving—unpublished information
+
+Section 10 of the _Freedom of Information Act 1982_, as in force immediately before the commencement of item 3 (the **_commencement time_**), continues in force at and after the commencement time in relation to:
+
+                     (a)  a document relating to a function of an agency, required to be made available in accordance with section 9 of that Act before the commencement time; and
+
+                     (b)  conduct engaged in by a person before the commencement time that is relevant to the performance of that function.
+
+Note:          Item 3  commences on the day after the end of the period of 6 months beginning on the day on which the _Australian Information Commissioner Act 2010_ commences.
 
 * * *
 
