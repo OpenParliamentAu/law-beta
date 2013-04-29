@@ -1,12 +1,9 @@
 
 Tobacco Advertising Prohibition Act 1992
 Act No. 218 of 1992 as amended
-This compilation was prepared on 11 August 2000 taking into account amendments up to Act No. 108 of 2000
-The text of any of those amendments not in force  on that date is appended in the Notes section
+Consolidated as in force on 19 January 1999
+(includes amendments up to Act No. 17 of 1995)
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
-  
-  
-  
 Contents
 Part 1—Preliminary	
 1	Short title [see Note 1]	
@@ -34,7 +31,7 @@ Division 2—Publication of tobacco advertisements
 18	Australian sporting and cultural events of international significance—acts of publication permitted	
 19	Accidental or incidental publication permitted	
 20	Publication by individual not receiving any benefit permitted	
-21	Defence—advertising pursuant to pre‑1 April 1992 contracts or arrangements	
+21	Defence—advertising pursuant to pre-1 April 1992 contracts or arrangements	
 22	Defence—display of signs before 31 December 1995	
 Division 3—Other regulated conduct	
 Part 4—Miscellaneous	
@@ -51,11 +48,13 @@ Part 4—Miscellaneous
 Part 5—Repeal and amendment of other Acts	
 Division 1—Repeal of the Smoking and Tobacco Products Advertisements (Prohibition) Act 1989	
 35	Repeal	
-Division 2—Amendment of the Broadcasting Services Act 1992 
-Notes
+Division 2—Amendment of the Broadcasting Services Act 1992 (sections 36 and 37)	
+4.	Saving of notices	
 
 An Act to limit the exposure of the public to advertisements for smoking and tobacco products, and for related purposes
+Do not delete : Chapter placeholder
 Part 1—Preliminary
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Tobacco Advertising Prohibition Act 1992.
 2  Commencement [see Note 1]
@@ -105,8 +104,8 @@ this Act does not exclude or limit the application of that law to that conduct.
 tobacco advertising law means a law that prohibits or regulates the advertising of tobacco products.
 7  Permission provisions only have effect for the purposes of this Act
 		Sections 14, 16, 17, 18, 19 and 20 only have effect for the purposes of this Act.
-
 Part 2—Interpretation
+Do not delete : Division placeholder
 8  Defined terms
 		In this Act, unless the contrary intention appears:
 Australia includes all the external Territories except Norfolk Island.
@@ -126,7 +125,7 @@ government or political matters means government or political matters relating t
 	(d)	the actions or policies, or proposed actions or policies, of any government in Australia or any Australian political party.
 holding company has the meaning given by section 11.
 manufacturer of tobacco products has a meaning affected by section 12.
-non‑tobacco product means a product other than a tobacco product.
+non-tobacco product means a product other than a tobacco product.
 periodical means an issue (however described) of a newspaper, magazine, journal, newsletter, or other similar publication, issues of which are published at regular or irregular intervals.
 person includes a partnership or an unincorporated body referred to in paragraph (e) or (f) of the definition of regulated corporation.
 public place means a place to which the public, or a section of the public, ordinarily has access, whether or not by payment or by invitation (including, for example, a shop, restaurant, hotel, cinema or club).
@@ -201,16 +200,16 @@ Exceptions—management advertisements and certain advertisements as to availabi
 	(iii)	to disclose circumstances in which the use of a product is or may be dangerous; or
 	(iv)	to disclose procedures for disposing of a product; or
 	(v)	to tell people who have bought a product that the product will be repaired or replaced, or that the price of the product will be refunded.
-Exception—non‑tobacco product having the same name as a tobacco product
+Exception—non-tobacco product having the same name as a tobacco product
 	(3B)	If:
-	(a)	apart from this subsection, something (the advertisement) that relates to a non‑tobacco product would, technically, be a tobacco advertisement because the name, or part of the name, of the non‑tobacco product is the same as, or substantially similar to, the name, or part of the name, of:
+	(a)	apart from this subsection, something (the advertisement) that relates to a non-tobacco product would, technically, be a tobacco advertisement because the name, or part of the name, of the non-tobacco product is the same as, or substantially similar to, the name, or part of the name, of:
 	(i)	a tobacco product; or
 	(ii)	the manufacturer, distributor or retailer of a tobacco product; and
-	(b)	the manufacturer of the non‑tobacco product is not associated in any way with the manufacturer of the tobacco product;
+	(b)	the manufacturer of the non-tobacco product is not associated in any way with the manufacturer of the tobacco product;
 then, despite subsection (1), the advertisement is not a tobacco advertisement for the purposes of this Act.
 Related bodies corporate taken to be associated with each other
 	(3C)	Without limiting the circumstances in which 2 persons would, apart from this subsection, be taken to be associated with each other for the purposes of subsection (3B), 2 bodies corporate that are related to each other are taken to be associated with each other for the purposes of that subsection.
-Exception—certain advertisements for non‑tobacco products
+Exception—certain advertisements for non-tobacco products
 	(4)	If:
 	(a)	apart from this subsection, something (the advertisement) would, technically, be a tobacco advertisement because it gives publicity to, or otherwise promotes:
 	(i)	the purchase or use of a tobacco product or a range of tobacco products referred to in paragraph (1)(b); or
@@ -239,7 +238,7 @@ When a notice under subsection (5) comes into force
 	(6)	A notice under subsection (5) comes into force:
 	(a)	on the day when it is published in the Gazette; or
 	(b)	if a later day is specified in the notice as the day when it is to come into force—on that later day.
-Exception—anti‑smoking advertisements
+Exception—anti-smoking advertisements
 	(7)	If:
 	(a)	apart from this subsection, something (the advertisement) would, technically, be a tobacco advertisement; and
 	(b)	it is clear from the advertisement that its sole or principal purpose is to discourage smoking or the use of tobacco products;
@@ -272,11 +271,10 @@ Exception—acknowledgments of assistance or support
 	(5)	For the purposes of this Act, the publication of an acknowledgment of assistance or support does not amount to the publication of a tobacco advertisement if it complies with regulations made for the purposes of this subsection that permit the publication of such acknowledgments.
 11  Meaning of holding company and related body corporate 
 For the purposes of this Act:
-	(a)	a body corporate is a holding company of another body corporate if, for the purposes of the Corporations Law, the first‑mentioned body corporate is a holding company of the other body corporate; and
+	(a)	a body corporate is a holding company of another body corporate if, for the purposes of the Corporations Law, the first-mentioned body corporate is a holding company of the other body corporate; and
 	(b)	the question whether 2 bodies corporate are related to each other is to be determined in the same way as the question would be determined under the Corporations Law.
 12  Meaning of manufacturer, distributor and retailer 
 In this Act, a reference to a manufacturer, distributor or retailer of tobacco products includes a reference to a person who manufactures, distributes or sells a range of products, only some of which are tobacco products.
-
 Part 3—Prohibition of tobacco advertisements
 Division 1—Broadcasting of tobacco advertisements
 13  Tobacco advertisements not to be broadcast
@@ -287,7 +285,6 @@ Penalty:	120 penalty units.
 A person may broadcast a tobacco advertisement if:
 	(a)	the person broadcasts the advertisement as an accidental or incidental accompaniment to the broadcasting of other matter; and
 	(b)	the person does not receive any direct or indirect benefit (whether financial or not) for broadcasting the advertisement (in addition to any direct or indirect benefit that the person receives for broadcasting the other matter).
-
 Division 2—Publication of tobacco advertisements
 15  Tobacco advertisements not to be published
 	(1)	A regulated corporation must not, knowingly or recklessly:
@@ -345,7 +342,7 @@ An individual may publish a tobacco advertisement if:
 	(a)	the publication is not in the course of the manufacture, distribution or sale of tobacco products; and
 	(b)	the individual publishes the advertisement on his or her own initiative; and
 	(c)	the individual does not receive any direct or indirect benefit (whether financial or not) for publishing the advertisement.
-21  Defence—advertising pursuant to pre‑1 April 1992 contracts or arrangements
+21  Defence—advertising pursuant to pre-1 April 1992 contracts or arrangements
 	(1)	It is a defence to a prosecution of a person for an offence against subsection 15(1), (2) or (3) in respect of the publication of a tobacco advertisement if the person proves that:
 	(a)	the publication was under a contract or arrangement entered into before 1 April 1992 for the sponsorship of an event, activity or service; and
 	(b)	if the terms of the contract or arrangement, in so far as they relate to things other than the period to which it applies, were varied on or after 1 April 1992 and before the publication—if the contract or arrangement had not been so varied, the publication could still be said to have been under the contract or arrangement; and
@@ -368,11 +365,10 @@ the other person is taken to have published the advertisement under the contract
 	(3)	In this section:
 sign includes an electronic installation used to display advertisements.
 tobacco advertising sign means a sign that is or contains a tobacco advertisement.
-
-Division 3—Other regulated conduct [Note in operation‑see Note 2]
-(sections 23‑25)
-
+Division 3—Other regulated conduct
+	(sections 23-25) [see Note 2]
 Part 4—Miscellaneous
+Do not delete : Division placeholder
 26  Failure to broadcast or publish advertisement not actionable if Act would be contravened
 No action of any kind lies in any court against a person for refusing or failing to broadcast or publish a tobacco advertisement if the broadcast or publication is prohibited by this Act.
 26A  Broadcast or publication of advertisements during flights of aircraft
@@ -446,25 +442,18 @@ The Minister may, by signed instrument, delegate to an officer of the Department
 	(a)	under subsections 9(5) and 17(2); and
 	(b)	under section 29, in so far as that section relates to applications under paragraph 29(1)(a).
 34  Regulations
-The Governor‑General may make regulations prescribing matters:
+The Governor-General may make regulations prescribing matters:
 	(a)	required or permitted by this Act to be prescribed; or
 	(b)	necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
 Part 5—Repeal and amendment of other Acts
 Division 1—Repeal of the Smoking and Tobacco Products Advertisements (Prohibition) Act 1989
 35  Repeal
 The Smoking and Tobacco Products Advertisements (Prohibition) Act 1989 is repealed.
-
-Division 2—Amendment of the Broadcasting Services Act 1992
-Sections 36 and 37
-
-Note:
-The amendments made by this Division are incorporated in the compilation on SCALEplus of the Broadcasting Services Act 1992.
-For access to the wording of the amendments made by this Part, click here [Tobacco Advertising Prohibition Act 1992 No. 218 of 1992].
-Notes to the Tobacco Advertising Prohibition Act 1992
-Note 1
-The Tobacco Advertising Prohibition Act 1992 as shown in this compilation comprises Act No. 218, 1992 amended as indicated in the Tables below.
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
+Division 2—Amendment of the Broadcasting Services Act 1992 (sections 36 and 37)
+[published separately]
+NOTES
+1. 	The Tobacco Advertising Prohibition Act 1992 as shown in this reprint comprises Act No. 218, 1992 amended as indicated in the Tables below.
+	For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 
 Act
@@ -475,21 +464,13 @@ Application, saving or transitional provisions
 Tobacco Advertising Prohibition Act 1992
 218, 1992
 24 Dec 1992
-Ss. 17(2)‑(5) and Div. 3 of Part 3 (ss. 23‑25): (see Note 2) Part 5 (ss. 35‑37): 1 July 1993 Remainder: Royal Assent
+Ss. 17(2)-(5) and Div. 3 of Part 3 (ss. 23-25): (see Note 2) Part 5 (ss. 35-37): 1 July 1993 Remainder: Royal Assent
 
 Tobacco Advertising Prohibition Amendment Act 1995
 17, 1995
 29 Mar 1995
 29 Mar 1995
-S. 4 
-Broadcasting Services Amendment (Digital Television and Datacasting) Act 2000
-108, 2000
-3 Aug 2000
-Schedule 3 (item 7): [see (a) and Note 3]
-—
-(a)	The Tobacco Advertising Prohibition Act 1992 was amended by Schedule 3 (item 7) only of the Broadcasting Services Amendment (Digital Television and Datacasting) Act 2000, subsections 2(2) and (3) of which provide as follows:
-	(2)	Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation. [see Note 3]
-	(3)	If the remaining provisions of this Act do not commence under subsection (2) within the period of 6 months beginning on the day on which this Act receives the Royal Assent, those provisions commence on the first day after the end of that period. [see Note 3]
+S. 4 [see Table A]
 Table of Amendments
 
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -497,7 +478,7 @@ Provision affected
 How affected
 S. 4A	
 ad. No. 17, 1995
-Ss. 8‑10	
+Ss. 8-10	
 am. No. 17, 1995
 S. 11	
 rs. No. 17, 1995
@@ -510,7 +491,7 @@ ad. No. 17, 1995
 S. 29	
 am. No. 17, 1995
 Note 2
-[Note] Subsections 17(2)‑(5) and Division 3 of Part 3 (sections 23‑25) provide as follows:
+	Subsections 17(2)-(5) and Division 3 (sections 23-25) provide as follows:
 17  Periodicals printed outside Australia—acts of publication permitted
 	(2)	The Minister may, by notice in writing published in the Gazette, exclude the application of subsection (1) to:
 	(a)	a specified periodical; or
@@ -522,34 +503,26 @@ if, and only if, the Minister is satisfied, having regard to the guidelines in f
 	(4)	The Minister may, by writing, determine guidelines for the purposes of subsection (2).
 	(5)	An instrument under subsection (4) determining guidelines is a disallowable instrument for the purposes of section 46A of the Acts Interpretation Act 1901.
 Division 3—Other regulated conduct
-23  Periodicals specified under subsection 17(2) that contain tobacco advertisements not to be imported
-		A person must not, on or after 1 July 1993, knowingly or recklessly, import into Australia a periodical:
+23  Periodicals specified under subsection 17(2) that contain tobacco advertisements not to be imported [NOTE]
+	A person must not, on or after 1 July 1993, knowingly or recklessly, import into Australia a periodical:
 	(a)	that contains a tobacco advertisement (other than a tobacco advertisement that appears as an incidental accompaniment to other matter); and
 	(b)	that is covered by a notice in force under subsection 17(2).
-	Penalty: $12,000.
+	Penalty:	$12,000.
 24  Defence—importing for private use
-		It is a defence to a prosecution of a person for an offence against section 23 in respect of the importation of a periodical if the person proves that the periodical was imported for the person’s private use.
+	It is a defence to a prosecution of a person for an offence against section 23 in respect of the importation of a periodical if the person proves that the periodical was imported for the person’s private use.
 25  Defence—importing for exempt libraries
-		It is a defence to a prosecution of a person for an offence against section 23 in respect of the importation of a periodical if the person proves that the periodical was imported for the purpose of its inclusion in the collection of an exempt library.
-Subsection 2(2) of the Tobacco Advertising Prohibition Act 1992 provides as follows:
-	(2)	Subsections 17(2) to (5) (inclusive) and Division 3 of Part 3 commence on a day to be fixed by Proclamation.
-As at 11 August 2000 no date had been fixed for the commencement of subsections 17(2)‑(5) and Division 3 of Part 3.
-[NOTE] The Tobacco Advertising Prohibition Act 1992 was amended by Schedule 1 (item 11) of the Tobacco Advertising Prohibition Amendment Act 1995. The applicable provision provides as follows:
-11  Section 23
-		Omit the penalty, substitute:
-	Penalty: 120 penalty units.
-Schedule 1 (item 11) of the Tobacco Advertising Prohibition Amendment Act 1995 commenced on 29 March 1995.
-Note 3
-Broadcasting Services Amendment (Digital Television and Datacasting) Act 2000 (No. 108, 2000)
-The following amendment commences on 3 February 2001 unless proclaimed earlier:
-Schedule 3
-7  Section 8 (at the end of the definition of broadcast)
-Add:
-	; or (c)	a datacasting service within the meaning of the Broadcasting Services Act 1992.
-As at 11 August 2000 the amendment is not incorporated in this compilation.Table A
-Application, saving or transitional provisions
+	It is a defence to a prosecution of a person for an offence against section 23 in respect of the importation of a periodical if the person proves that the periodical was imported for the purpose of its inclusion in the collection of an exempt library.
+	Subsection 2(2) of the Tobacco Advertising Prohibition Act 1992 provides as follows:
+“(2)	Subsections 17(2) to (5) (inclusive) and Division 3 of Part 3 commence on a day to be fixed by Proclamation.”
+	As at 19 January 1999 no date had been fixed for the commencement of subsections 17(2)-(5) and Division 3 of Part 3.
+[NOTE]—The Tobacco Advertising Prohibition Act 1992 was amended by the Tobacco Advertising Prohibition Amendment Act 1995. The applicable provision provides as follows:
+11	Section 23
+Omit the penalty, substitute:
+	Penalty:	120 penalty units.
+Table A
+Application, Saving or Transitional Provisions
 Tobacco Advertising Prohibition Amendment Act 1995 (No. 17, 1995)
-4  Saving of notices
+4.  Saving of notices
 A notice published under subsection 9(5) of the Principal Act that was in force after that commencement as if it had been published under subsection 9(5) of the Principal Act as amended by this Act.
 
 
