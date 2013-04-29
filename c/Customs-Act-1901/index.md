@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00834/Html/d1ffad2c-553f-433f-b2ad-52bacbc7f304_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00822/Html/6f46d32e-dc32-4c29-9d20-f0d5c89d2279_files/image001.gif)
 
 # Customs Act 1901
 
 **Act No. 6 of 1901 as amended**
 
-This compilation was prepared on 15 November 2012
- taking into account amendments up to Act No. 152 of 2012
+This compilation was prepared on 12 November 2012
+ taking into account amendments up to Act No. 146 of 2012
 
 **Volume 1** includes:     Table of Contents
                                      Sections 1 – 183U
@@ -601,14 +601,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [112A](#112A).     Certain controlled substances taken to be prohibited exports
 
 [112B](#112B).     Invalidation of licence, permission etc  for false or misleading information
-
-    **Division 1AA—Export of goods for a military end‑use**
-
-[112BA](#112BA).  Notice prohibiting export
-
-[112BB](#112BB).   How notices are to be given
-
-[112BC](#112BC).   Statement to Parliament
 
     **Division 1A—Directions in relation to goods for export etc. that are subject to Customs control**
 
@@ -2440,7 +2432,7 @@ shall, subject to subsections (2) and (3), be deemed to be part of Australia.
 
                    The ships and aircraft employed in the service of the Customs shall be distinguished from other ships and aircraft by such flag or in such other manner as shall be prescribed.
 
-##### <a id="15"></a>15  Appointment of ports etc.
+##### <a id="15"></a>15  Appointment of ports etc.
 
              (1)  The CEO may, by notice published in the _Gazette_:
 
@@ -5126,7 +5118,7 @@ the Collector must, by notice in writing:
 
            (15)  Subsections (12) to (14) do not, by implication, limit the application of subsections 33(3) and (3AA) of the _Acts Interpretation Act 1901_.
 
-##### <a id="70"></a>70  Special clearance goods
+##### <a id="70"></a>70  Special clearance goods
 
              (1)  In this section, **_special clearance goods_** means goods to which section 68 applies comprising:
 
@@ -7056,7 +7048,7 @@ the former holder is entitled to a refund of an amount worked out using the form
 
           (1A)  For the purposes of subsection (1), the formula is:
 
-![](http://www.comlaw.gov.au/Details/C2012C00834/Html/d1ffad2c-553f-433f-b2ad-52bacbc7f304_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00822/Html/6f46d32e-dc32-4c29-9d20-f0d5c89d2279_files/image002.gif)
 
 where:
 
@@ -8466,82 +8458,6 @@ makes the exportation of such goods from Australia contrary to the national inte
 
                              (ii)  omitted any matter or thing without which the information or document is misleading in a material particular.
 
-### Division 1AA—Export of goods for a military end‑use
-
-##### <a id="112BA"></a>112BA  Notice prohibiting export
-
-             (1)  If:
-
-                     (a)  the Defence Minister suspects that, if a person (the **_first person_**) were to export particular goods to a particular place or to a particular person, the goods would or may be for a military end‑use that would prejudice the security, defence or international relations of Australia; and
-
-                     (b)  the goods are not prohibited exports under section 112;
-
-the Defence Minister may give the first person a notice prohibiting the first person from exporting the goods to the particular place or particular person.
-
-Note:          Section 112BB deals with giving notices under this section.
-
-Reasons for notice
-
-             (2)  A notice given to a person under subsection (1) must set out the Defence Minister’s reasons for giving the notice.
-
-             (3)  The notice must not disclose any reasons whose disclosure the Defence Minister believes would prejudice the security, defence or international relations of Australia.
-
-             (4)  If reasons are not disclosed in a notice under subsection (1) because of subsection (3), that fact must be stated in the notice.
-
-Period notice in force
-
-             (5)  A notice given to a person under subsection (1) comes into force at the time the person receives the notice. This subsection is subject to subsection (7).
-
-             (6)  A notice given to a person under subsection (1) remains in force for the period specified in, or worked out in accordance with, the notice (which must not be more than 12 months), unless revoked earlier.
-
-Later notices
-
-             (7)  A notice may be given to a person under subsection (1) while an earlier notice given to the person under subsection (1) is in force. The later notice may be expressed to come into force at the time the earlier notice ceases to be in force.
-
-             (8)  Subsection (7) does not prevent a notice being given to a person under subsection (1) after an earlier notice given to the person under subsection (1) ceases to be in force.
-
-Notice not a legislative instrument
-
-             (9)  A notice under subsection (1) is not a legislative instrument.
-
-Revoking a notice
-
-           (10)  The Defence Minister may, by writing, revoke a notice given to a person under subsection (1).
-
-           (11)  The Defence Minister must give the person notice of the revocation. The revocation takes effect at the time the person receives the notice.
-
-Note:          Section 112BB deals with giving notices under this section.
-
-Offence
-
-           (12)  A person commits an offence if:
-
-                     (a)  the person exports goods to a particular place or particular person; and
-
-                     (b)  the export contravenes a notice that is in force under subsection (1); and
-
-                     (c)  the person knows of the contravention.
-
-                    Penalty:  Imprisonment for 10 years or 2,500 penalty units, or both.
-
-Definition
-
-           (13)  In this section:
-
-                    <a name="militari-end-us"></a><a name="militari-end-us"></a>**_military end‑use_**: goods are or may be for a **_military end‑use_** if the goods are or may be for use in operations, exercises or other activities conducted by an armed force or an armed group, whether or not the armed force or armed group forms part of the armed forces of the government of a foreign country.
-
-##### <a id="112BB"></a>112BB  How notices are to be given
-
-             (1)  A notice given to a person under section 112BA must be given by one of the methods prescribed by the regulations.
-
-             (2)  If a notice is given to a person under section 112BA by one of those methods, then, for the purposes of this Act, the person is taken to have received the notice at the time prescribed by, or worked out in accordance with, the regulations.
-
-             (3)  This section has effect despite any provision in the _Electronic Transactions Act 1999_.
-
-##### <a id="112BC"></a>112BC  Statement to Parliament
-
-                   As soon as practicable after the end of each financial year, the Defence Minister must cause a statement to be tabled in each House of the Parliament about the exercise of the Defence Minister’s powers under this Division during that year (whether or not the statement is part of an annual report).
-
 ### Division 1A—Directions in relation to goods for export etc. that are subject to Customs control
 
 ##### <a id="112C"></a>112C  Collector may give directions in relation to goods for export etc. that are subject to Customs control
@@ -8880,7 +8796,7 @@ Note:          The CEO may make business rules that a person w
 
              (5)  The existence of an export information contract does not affect the exercise by the CEO of any powers conferred on him or her by or under this Act.
 
-##### <a id="114BC"></a>114BC  Declarations by persons who use ACEANS
+##### <a id="114BC"></a>114BC  Declarations by persons who use ACEANS
 
                    If a person, during a particular month, enters goods for export by using one or more ACEANS, the person:
 
@@ -9728,7 +9644,7 @@ Disclosing records to New Zealand customs official
 
              (2)  An authorised officer may, for the purpose of verifying a claim for a preferential tariff in New Zealand _,_ disclose any records so produced to a New Zealand customs official.
 
-##### <a id="126AJD"></a>126AJD  Power to ask questions
+##### <a id="126AJD"></a>126AJD  Power to ask questions
 
 Power to ask questions
 
@@ -10842,7 +10758,7 @@ Definition of **similar goods**
 
 ##### <a id="153N"></a>153N  Manufactured goods originating in a Developing Country but not in any particular Developing Country
 
-                   Goods claimed to be the manufacture of a Developing Country, but not of any particular Developing Country, are the manufacture of a Developing Country, but not a particular Developing Country, if:
+                   Goods claimed to be the manufacture of a Developing Country, but not of any particular Developing Country, are the manufacture of a Developing Country, but not a particular Developing Country, if:
 
                      (a)  the last process in their manufacture was performed in Papua New Guinea or a Forum Island Country; and
 
@@ -11412,9 +11328,9 @@ materials and originating materials, are US originating goods.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision F sets out when
 
-accessories, spare parts or tools (imported with other goods) are US originating
+accessories, spare parts or tools (imported with other goods) are US
 
-goods.</li>
+originating goods.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•      Subdivision G deals with
 
@@ -12740,7 +12656,7 @@ Note:          The value of the packaging material or containe
 
 #### Subdivision E—Goods that are accessories, spare parts, tools or instructional or other information resources
 
-##### <a id="153ZJG"></a>153ZJG  Goods that are accessories, spare parts, tools or instructional or other information resources
+##### <a id="153ZJG"></a>153ZJG  Goods that are accessories, spare parts, tools or instructional or other information resources
 
                    Goods are **_Chilean originating goods_** if:
 
@@ -14110,7 +14026,7 @@ This number is not exceeded by 8 units of comparable goods sold in contemporary 
 
 Therefore, reference sales are the sales at the unit price of $20.
 
-##### <a id="161D"></a>161D  Deductive (later sales) value
+##### <a id="161D"></a>161D  Deductive (later sales) value
 
              (1)  The deductive (later sales) value of imported goods is their value calculated as if the value of each of the units were the unit price of comparable goods sold in the reference sale or sales. 
 
@@ -15408,7 +15324,7 @@ he or she may, by notice to the customs broker:
 
              (6)  The appointment of a member is not invalidated, and shall not be called in question, by reason of a deficiency or irregularity in, or in connection with, his or her nomination or appointment.
 
-##### <a id="183DB"></a>183DB  Remuneration and allowances
+##### <a id="183DB"></a>183DB  Remuneration and allowances
 
              (1)  A member referred to in paragraph 183DA(1)(a) or (b) shall be paid such remuneration as is determined by the Remuneration Tribunal, but if no determination of that remuneration by the Tribunal is in operation, he or she shall be paid such remuneration as is prescribed.
 
