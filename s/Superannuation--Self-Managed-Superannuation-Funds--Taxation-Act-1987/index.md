@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00866/Html/65c2a779-e906-4391-881c-25d398e84e46_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00603/Html/SuperSelfManagSuperFundsTaxAct1987_WD02_image001.gif)
 
 # Superannuation (Self Managed Superannuation Funds) Taxation Act 1987
 
 **Act No. 97 of 1987 as amended**
 
-This compilation was prepared on 21 December 2010
- taking into account amendments up to Act No. 145 of 2010
+This compilation was prepared on 28 September 2007
+ taking into account amendments up to Act No. 154 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -92,8 +92,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    Subject to any directions of the Minister, the Commissioner of Taxation shall have the general administration of this Act.
 
-Note:          An effect of this provision is that people who acquire information under this Act are subject to the confidentiality obligations and exceptions in Division 355 in Schedule 1 to the _Taxation Administration Act 1953_.
-
 ## Part IIIAA—Collection of superannuation (self managed funds) levy
 
 ##### <a id="15DAA"></a>15DAA  Definitions
@@ -158,7 +156,7 @@ Note:          The general interest charge is worked out under
 
              (6)  Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Commissioner of Taxation that have been confirmed or varied under subsection (3).
 
-             (7)  Where a decision is deemed, by reason of the operation of subsection (4), to be confirmed, section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making application for review of the decision were the period commencing on the day on which the decision is deemed to be confirmed and ending on the twenty‑eighth day after that day.
+             (7)  Where a decision is deemed, by reason of the operation of subsection (4), to be confirmed, section 29 of the _Administrative Appeals Tribunal Act 1975_ applies as if the prescribed time for making application for review of the decision were the period commencing on the day on which the decision is deemed to be confirmed and ending on the twenty-eighth day after that day.
 
              (8)  Where a request is made under subsection (1) in respect of a reviewable decision, section 41 of the _Administrative Appeals Tribunal Act 1975_ applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.
 
@@ -174,7 +172,7 @@ Note:          The general interest charge is worked out under
 
                      (a)  the trustees may, if dissatisfied with the decision, seek a reconsideration of the decision by the Commissioner of Taxation in accordance with subsection 16(1); and
 
-                     (b)  the trustees may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Commissioner of Taxation upon that reconsideration confirming or varying the first‑mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
+                     (b)  the trustees may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Commissioner of Taxation upon that reconsideration confirming or varying the first-mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
 
              (2)  Where the Commissioner of Taxation confirms or varies a reviewable decision under subsection 16(3) and gives to the trustees of a fund or unit trust notice in writing of the confirmation or variation of the decision, that notice shall include a statement to the effect that the trustees or the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision so confirmed or varied, make application to the Administrative Appeals Tribunal for review of the decision.
 
@@ -182,7 +180,7 @@ Note:          The general interest charge is worked out under
 
 ##### <a id="22"></a>22  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -202,9 +200,9 @@ and, in particular:
 
 The _Superannuation (Self Managed Superannuation Funds) Taxation Act 1987_ as shown in this compilation comprises Act No. 97, 1987 amended as indicated in the Tables below.
 
-The _Superannuation (Self Managed Superannuation Funds) Taxation Act 1987_ was modified by the _Superannuation Industry (Supervision) (Transitional Provisions) Regulations_ (1993 No. 352 as amended). The modifications made by the Regulations are not incorporated in this compilation.
+The _Superannuation (Self Managed Superannuation Funds) Taxation Act 1987_ was modified by the Superannuation Industry (Supervision) (Transitional Provisions) Regulations (1993 No. 352 as amended). The modifications made by the Regulations are not incorporated in this compilation.
 
-The _Superannuation (Self Managed Superannuation Funds) Taxation Act 1987_ was modified by the _Superannuation Industry (Supervision) Regulations_ (1994 No. 57 as amended). The modifications made by the Regulations are not incorporated in this compilation.
+The _Superannuation (Self Managed Superannuation Funds) Taxation Act 1987_ was modified by the Superannuation Industry (Supervision) Regulations (1994 No. 57 as amended). The modifications made by the Regulations are not incorporated in this compilation.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 8 October 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -814,23 +812,6 @@ Ss. 47 and 48: 30 July 1993 ( <i>see Gazette</i>1993, No. S230) <i>(f)</i></di
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Confidentiality of Taxpayer Information) Act 2010</div>
-  </td>
-  <td>
-    <div>145, 2010</div>
-  </td>
-  <td>
-    <div>16 Dec 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 86): 17 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     Subsection 2(2) of the _Taxation Laws Amendment Act (No. 4) 1987_ provides as follows:
@@ -839,7 +820,7 @@ _(a)_     Subsection 2(2) of the _Taxation Laws Amendment Act (No. 4) 
 
          The _Superannuation (Self Managed Superannuation Funds) Taxation Act 1987_ came into operation on 21 December 1987 (_see Gazette_ 1987, No. S347).
 
-_(b)_     Subsection 2(1) of the _Taxation Laws Amendment (Superannuation) Act 1989_ provides as follows:
+_(b)_    Subsection 2(1) of the _Taxation Laws Amendment (Superannuation) Act 1989_ provides as follows:
 
                  (1)   Subject to this section, this Act commences, or shall be taken to have commenced, as the case requires, immediately after the commencement of the _Taxation Laws Amendment Act (No. 2) 1989._
 
@@ -1115,7 +1096,7 @@ _(q)_ Subsection 2(1) (item 27) of the _Taxation Laws Amendment Act (No. 3) 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 138, 1987; Nos. 97 and 105, 1989; No. 61, 1990; No. 55, 1991; Nos. 92 and 208, 1992; Nos. 7, 84 and 118, 1993; No. 53, 1995; No. 62, 1997; No. 54, 1998; No. 121, 1999</div>
+    <div>am. No. 138, 1987; Nos. 97 and 105, 1989; No. 61, 1990; No.55, 1991; Nos. 92 and 208, 1992; Nos. 7, 84 and 118, 1993; No. 53, 1995; No. 62, 1997; No. 54, 1998; No. 121, 1999</div>
   </td>
 </tr>
 <tr>
@@ -1284,14 +1265,6 @@ _(q)_ Subsection 2(1) (item 27) of the _Taxation Laws Amendment Act (No. 3) 
   </td>
   <td>
     <div>am. No. 54, 1998; No. 121, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2327,18 +2300,6 @@ _(q)_ Subsection 2(1) (item 27) of the _Taxation Laws Amendment Act (No. 3) 
   </td>
 </tr></table>
 
-### Note 2
-
-Subsection 3(1)—Schedule 19 (item 37) of the _Workplace Relations and Other Legislation Amendment Act 1996_ (No. 60, 1996) provides as follows:
-
-## Schedule 19
-
-## 37  Subsection 3(1) (paragraph(c) of the definition of registered organisation)
-
-Omit &quot;Industrial Relations Act 1988&quot;, substitute &quot;Workplace Relations Act 1996&quot;.
-
-The proposed amendment was misdescribed and is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provision
@@ -2349,7 +2310,7 @@ _Superannuation Legislation Amendment Act (No. 3) 1999 (No. 121, 1999)_
 
 ## 42  Application provisions
 
-(1)       The _Superannuation (Excluded Funds) Taxation Act 1987_ continues to apply to the lodgment of a return in respect of the 1998‑99 year of income as if the repeals and amendments of provisions of that Act made by this Schedule had not happened.
+(1)        The _Superannuation (Excluded Funds) Taxation Act 1987_ continues to apply to the lodgment of a return in respect of the 1998-99 year of income as if the repeals and amendments of provisions of that Act made by this Schedule had not happened.
 
 * * *
 
@@ -2360,6 +2321,6 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
 
 ## 57  Application
 
-The amendments made by the previous 2 items of this Schedule apply to the 2007‑2008 income year and later years.
+The amendments made by the previous 2 items of this Schedule apply to the 2007-2008 income year and later years.
 
  
