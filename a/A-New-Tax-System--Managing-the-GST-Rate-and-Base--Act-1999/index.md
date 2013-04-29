@@ -1,2679 +1,2399 @@
-<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 113.25pt; HEIGHT: 83.25pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image001.png"></v:imagedata></v:shape><o:p></o:p>
+**
 
-# A New Tax System (Commonwealth-State Financial Arrangements) Act 1999<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999 
+**
 
-**Act No. 110 of 1999 as amended<o:p></o:p>**
 
-This compilation was prepared on 28 February 2005
-taking into account amendments up to Act No.
- 10 of 2005<o:p></o:p>
+**
 
-The text of any of those amendments not in force 
-on that date is appended in the Notes section<o:p></o:p>
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
-affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-<?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
 
 
-# Contents<o:p></o:p>
 
-**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Outline of Act<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[4](#4).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
+**
 
-[5](#5).            GST revenue<span style="mso-tab-count: 1 dotted">                                                                                        </span>
+###  Long Title 
+**
+**
 
-[6](#6).            Hospital grants<span style="mso-tab-count: 1 dotted">                                                                                    </span>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999<part>Part&#160;1&#151;Preliminary </part>
+**
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 1  Short title [_see_ Note 1] 
+<dl compact="">
 
-[7](#7).            Determination of population of a State<span style="mso-tab-count: 1 dotted">                                               </span>
+		This Act may be cited as the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.
 
-[8](#8).            Index factor<span style="mso-tab-count: 1 dotted">                                                                                          </span>
+ </dl>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 2  Commencement [_see_ Note 1] 
+<dl compact="">
 
-[9](#9).            Relativities factor<span style="mso-tab-count: 1 dotted">                                                                                 </span>
+<dt>(1)</dt><dd>This Act commences at the later of:
 
-**Part 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations<span style="mso-tab-count: 1">      </span>**
+</dd> </dl>
 
-[10](#10).          Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations<span style="mso-tab-count: 1">   </span>
 
-**Part 3—Changing the rate and base of GST<span style="mso-tab-count: 1">                                                         </span>**
 
-[11](#11).          Changing the rate and base of GST<span style="mso-tab-count: 1 dotted">                                                    </span>
 
-[12](#12).          Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
+A New Tax System (Goods and Services Tax Administration) Act 1999
+<dl compact="">
 
-**Part 4—Grants to the States<span style="mso-tab-count: 1">                                                                                          </span>** 
+<dt>(2)</dt><dd>To avoid doubt, this Act does not commence unless all of the Acts
 
-    **Division 1—GST revenue grants<span style="mso-tab-count: 1">                                                                         </span>**
+mentioned in subsection&#160;(1) have received the Royal Assent
 
-[13](#13).          GST revenue grants<span style="mso-tab-count: 1 dotted">                                                                           </span>
+</dd> </dl>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 3  Outline of Act 
 
-    **Division 2—Other grants<span style="mso-tab-count: 1">                                                                                         </span>**
 
-[14](#14).          Franchise fees windfall tax reimbursement payments<span style="mso-tab-count: 1 dotted">                       </span>
 
-[15](#15).          Competition Agreement payments<span style="mso-tab-count: 1 dotted">                                                   </span>
 
-[16](#16).          Revenue replacement payments—2000-01<span style="mso-tab-count: 1 dotted">                                       </span>
 
-    **Division 3—Payment of grants<span style="mso-tab-count: 1">                                                                              </span>**
 
-[17](#17).          Overpayment or underpayment of grant<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[18](#18).          Advance payments for GST year<span style="mso-tab-count: 1 dotted">                                                      </span>
 
-[19](#19).          Treasurer may fix amounts, and times of payments, of financial assistance<span style="mso-tab-count: 1">           </span>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 4  Definitions 
+<dl compact="">
 
-**Part 5—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
+		In this Act, unless the contrary intention appears:
 
-[20](#20).          Appropriation<span style="mso-tab-count: 1 dotted">                                                                                   </span>
+ </dl>
 
-[21](#21).          Delegation by Treasurer<span style="mso-tab-count: 1 dotted">                                                                    </span>
+Back to Top
 
-[22](#22).          Determinations<span style="mso-tab-count: 1 dotted">                                                                                  </span>
+<dl compact=""><dl compact="">
 
-[23](#23).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
+_estimated population_ has the meaning given by section&#160;7\. _general interest charge_ means the charge worked out under Division&#160;1 of Part&#160;IIA of the _Taxation Administration Act 1953_. _GST_ has the same meaning as in the GST Act. _GST Act_ means the _A New Tax System (Goods and Services Tax) Act 1999_. _GST Imposition Acts_ mean:  </dl></dl>
 
-**Schedule 1—Transitional arrangements<span style="mso-tab-count: 1">                                                                  </span>**
+	(a)	the _A New Tax System (Goods and Services Tax ImpositionCustoms) Act 1999_;
+ 	(b)	the _A New Tax System (Goods and Services Tax ImpositionExcise) Act 1999_;
+ 	(c)	the _A New Tax System (Goods and Services Tax ImpositionGeneral) Act 1999_.
 
-[1](#1).            Overview<span style="mso-tab-count: 1 dotted">                                                                                           </span>
+<def><dl compact=""><dl compact="">
 
-[2](#2).            Guaranteed minimum amount<span style="mso-tab-count: 1 dotted">                                                            </span>
+_GST law_ has the same meaning as in the GST Act. _GST revenue_ has the meaning given by section&#160;5\. _GST year_ means:  </dl></dl>
 
-[3](#3).            First GST year—GST revenue does not exceed guaranteed minimum amounts<span style="mso-tab-count: 1">     </span>
+	(a)	the financial year commencing on 1&#160;July 2000; and
+ 	(b)	each succeeding financial year.
 
-[4](#4).            Second GST year—GST revenue does not exceed guaranteed minimum amounts<span style="mso-tab-count: 1">  </span>
+These are described by a figure referring to 2 years (for example, the 2000-01 GST year is the GST year commencing on 1&#160;July 2000).
 
-[5](#5).            First 2 transitional GST years—GST revenue exceeds guaranteed minimum amounts<span style="mso-tab-count: 1">           </span>
+<def><dl compact=""><dl compact="">
 
-[6](#6).            Third or prescribed transitional GST years—guaranteed minimum amount<span style="mso-tab-count: 1">           </span>
+_guaranteed minimum amount_ for a State for a GST year has the
 
-[7](#7).            Residual adjustment amounts for grants under clause 6<span style="mso-tab-count: 1 dotted">                    </span>
+meaning given by clause&#160;2 of Schedule&#160;1\. _Health Minister_ means the Minister administering the _National Health Act 1953_. _hospital grant_ has the meaning given by section&#160;6\. _index factor_ for a GST year means the factor worked out under section&#160;8\. _index number_, for a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter. _luxury car tax law_ has the meaning given by section&#160;27-1 of the _A New Tax System (Luxury Car Tax) Act 1999_. _relativities factor_ for a State for a GST year has the meaning given by section&#160;9\. _State_ includes the Australian Capital Territory and the Northern Territory. _Torres Strait Treaty_ means the Treaty between Australia and the Independent State of Papua New Guinea concerning Sovereignty and Maritime Boundaries in the area between the 2 countries, including the area known as Torres Strait, and Related Matters, signed at Sydney, Australia on 18&#160;December 1978\.  </dl></dl>
 
-**Schedule 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations<span style="mso-tab-count: 1">                                                                                                                                      </span>** 
+<dl compact=""><dl compact="">
 
-**Notes <span style="mso-tab-count: 1">                                                                                                        </span>**
+Note:	The text of the Treaty is set out in the Australian Treaty
 
-<o:p> </o:p>
+Series 1985 No.&#160;4.
 
+ </dl></dl>
 
-## An Act to provide financial assistance to the States, the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> and the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>, and for related purposes<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-## Part 1—Preliminary<o:p></o:p>
+_transitional GST year_ means:
 
-##### <a id="1"></a>1  Short title <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span><o:p></o:p>
+ </dl></dl>
 
-                   This Act may be cited as the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.<o:p></o:p>
+	(a)	a GST year commencing on or before 1&#160;July 2002; or
+ 	(b)	a later prescribed GST year.
 
-##### <a id="2"></a>2  Commencement <span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt">[_see_ Note 1]</span><o:p></o:p>
+These are described by a figure referring to 2 years (for example, the 2000-01 transitional GST year is the transitional GST year commencing on 1&#160;July 2000).
 
-             (1)  This Act commences at the later of:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (a)  the start of the day on which this Act receives the Royal Assent; and<o:p></o:p>
+_wine equalisation tax_ _law_ has the meaning given by
 
-                     (b)  the start of the day after the last day on which any of the following receive the Royal Assent:<o:p></o:p>
+section&#160;33-1 of the _A New Tax System (Wine Equalisation Tax) Act 1999_.
 
-                              (i)  the GST Act; and<o:p></o:p>
+ </dl></dl>
 
-                             (ii)  the GST Imposition Acts; and<o:p></o:p>
+**
 
-                            (iii)  the _A New Tax System (Goods and Services Tax Administration) Act 1999_.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 5  GST revenue 
+**
 
-             (2)  To avoid doubt, this Act does not commence unless all of the Acts mentioned in subsection (1) have received the Royal Assent<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-##### <a id="3"></a>3  Outline of Act<o:p></o:p>
+<dt>(1)</dt><dd>The Commissioner must make a determination for each of the matters covered
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
+by subsections&#160;(3) and (4) stating:
 
-This Act provides for GST revenue to be distributed to the States. This revenue can be used by the States for any purpose. In addition, some other amounts are payable to the States.<o:p></o:p>
+</dd> </dl></dl>
 
-It also deals with circumstances in which the rate of the GST and the GST base can be altered.<o:p></o:p>
+	(a)	the actual amount for the period from 1&#160;July to 31&#160;May in the GST year; and
 
-Part 1 of the Act deals with preliminary matters and contains the definitions of terms used throughout the Act.<o:p></o:p>
+<center>Back to Top</center>
+ 	(b)	the estimated amount for June in the GST year; and
+ 	(c)	except for the first GST year&#151;the actual amount for June in the previous GST year.
 
-Part 2 deals with the Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-Part 3 contains the provisions related to changing the rate and base of the GST.<o:p></o:p>
+<dt>(2)</dt><dd>The _GST revenue_ for a GST year is the amount determined by
 
-Part 4 provides for grants to the States. Division 1 of that Part provides for the GST revenue to be paid to the States, Division 2 provides for the payment of other amounts and Division 3 contains general provisions about the timing and payments of grants.<o:p></o:p>
+the Commissioner as the amount worked out in the following way:
 
-Part 5 contains miscellaneous provisions.<o:p></o:p>
+</dd> </dl></dl>
 
-Schedule 1 contains provisions that apply for the transitional GST years. These ensure that no State can receive less than a guaranteed minimum amount and allow the Commonwealth to make grants totalling more than the GST revenue in certain circumstances.<o:p></o:p>
+_Step 1._ Add together all of the actual amounts determined for matters covered by subsection&#160;(3) for the period from 1&#160;July to 31&#160;May in the GST year.
+ _Step 2._ Add together all of the estimates for June in the GST year for matters covered by subsection&#160;(3).
+ _Step 3._ Add the result of Step 1 to the result of Step 2.
+ _Step 4._ Add together all of the actual amounts determined for matters covered by subsection&#160;(4) for the period from 1&#160;July to 31&#160;May in the GST year.
+ _Step 5._ Add together all of the estimates for June in the GST year for matters covered by subsection&#160;(4).
+ _Step 6._ Add the result of Step 4 to the result of Step 5.
+ _Step 7._ Subtract the result of Step 6 from the result of Step 3.
+ _Step 8._ Adjust the result worked out in Step 7 for the GST year by the amount necessary to take account of the difference between the estimates made in relation to June in the previous GST year and the actual amounts determined for that month.
 
-Schedule 2 contains a copy of the Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations.<o:p></o:p></div>
+<dl compact=""><dl compact="">
 
-##### <a id="4"></a>4  Definitions<o:p></o:p>
+<dt>(3)</dt><dd>The matters are:
 
-                   In this Act, unless the contrary intention appears:<o:p></o:p>
+</dd> </dl></dl>
 
-                    <a name="estimated-popul"></a>**_estimated population_** has the meaning given by section 7.<o:p></o:p>
+	(a)	the amount of GST that was collected; and
+ 	(aa)	the amount of general interest charge that was collected to the extent that it is attributable to:
+ 	(i)	unpaid GST; or
+ 	(ii)	unpaid general interest charge, being general interest charge payable in respect of unpaid GST; and
+ 	(b)	the amount of payments made to the Commissioner of Taxation where the payment represents an amount of GST that would have been payable if the Constitution did not prevent tax from being imposed on property of any kind belonging to a State and if section&#160;5 of the GST Imposition Acts had not been enacted; and
+ 	(c)	the amount of additional amounts of GST that would have been collected if the Commonwealth and Commonwealth entities could be made subject to taxation by a Commonwealth law and if section&#160;177-1 of the GST Act made those entities actually liable rather than notionally liable; and
+ 	(d)	the amount, determined in a manner agreed by the Commonwealth and all of the States, that represents amounts of voluntary GST payments that should have, but have not, been paid by local government bodies.
 
-                    <a name="gener-interest-charg"></a>**_general interest charge_** means the charge worked out under Division 1 of Part IIA of the _Taxation Administration Act 1953_.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                    <a name="gst"></a>**_GST_** has the same meaning as in the GST Act.<o:p></o:p>
+<dt>(4)</dt><dd>The matters are:
 
-                    <a name="gst-act"></a>**_GST Act_** means the _A New Tax System (Goods and Services Tax) Act 1999_.<o:p></o:p>
+</dd> </dl></dl>
 
-                    <a name="gst-imposit-act"></a>**_GST Imposition Acts_** mean:<o:p></o:p>
+	(a)	the amount that was paid under the GST refund provisions; and
+ 	(b)	the amount that was payable under the GST refund provisions and that (rather than being paid directly under those provisions) was allocated, applied or refunded in accordance with Part&#160;IIB of the _Taxation Administration Act 1953_;
 
-                     (a)  the _A New Tax System (Goods and Services Tax Imposition—Customs) Act 1999_;<o:p></o:p>
+to the extent that the amounts are attributable to GST.
 
-                     (b)  the _A New Tax System (Goods and Services Tax Imposition—Excise) Act 1999_;<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                     (c)  the _A New Tax System (Goods and Services Tax Imposition—General) Act 1999_.<o:p></o:p>
+<dt>(4A)</dt><dd>In making determinations and estimates for the purposes of
 
-                    <a name="gst-law"></a>**_GST law_** has the same meaning as in the GST Act.<o:p></o:p>
+subsection&#160;(2), the Commissioner must make such adjustments as are
 
-                    <a name="gst-revenu"></a>**_GST revenue_** has the meaning given by section 5.<o:p></o:p>
+necessary to ensure that any effect that the luxury car tax law or wine
 
-                    <a name="gst-year"></a>**_GST year_** means:<o:p></o:p>
+equalisation tax law would otherwise have on the amounts of GST, and the
 
-                     (a)  the financial year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; and<o:p></o:p>
+amounts attributable to GST, is removed.</dd> <dt>(5)</dt><dd>The Commissioner of Taxation must make determinations under this section for a GST year before 20&#160;June in the GST year.</dd> <dt>(6)</dt><dd>In this section: </dd> </dl></dl>
 
-                     (b)  each succeeding financial year.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-These are described by a figure referring to 2 years (for example, the 2000-01 GST year is the GST year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>).<o:p></o:p>
+_Commonwealth entity_ has the same meaning as in section&#160;177-1
 
-                    <a name="guarante-minimum-amount"></a>**_guaranteed minimum amount_** for a State for a GST year has the meaning given by clause 2 of Schedule 1.<o:p></o:p>
+of the GST Act. _GST refund provision_ means a provision of a Commonwealth law the effect of which is to require the Commonwealth to refund some or all of an amount of GST that has been paid, whether or not the provision also applies in relation to other kinds of tax.  </dl></dl>
 
-                    <a name="health-minist"></a>**_Health Minister_** means the Minister administering the _National Health Act 1953_.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                    <a name="hospit-grant"></a>**_hospital grant_** has the meaning given by section 6.<o:p></o:p>
+Note:	The capacity for new GST refund provisions to be created is
 
-                    <a name="index-factor"></a>**_index factor_** for a GST year means the factor worked out under section 8.<o:p></o:p>
+limited by section&#160;11, which requires each State's agreement for changes
 
-                    <a name="index-number"></a>**_index number_**, for a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter.<o:p></o:p>
+to the GST base.
 
-                    <a name="luxuri-car-tax-law"></a>**_luxury car tax law_** has the meaning given by section 27-1 of the _A New Tax System (Luxury Car Tax) Act 1999_.<o:p></o:p>
+ </dl></dl>
 
-                    <a name="rel-factor"></a>**_relativities factor_** for a State for a GST year has the meaning given by section 9.<o:p></o:p>
+<center>Back to Top</center>
 
-                    <a name="state"></a>**_State_** includes the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place></st1:state> and the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state>.<o:p></o:p>
+**
 
-                    <a name="torr-strait-treati"></a>**_Torres Strait Treaty_** means the Treaty between <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> and the Independent State of Papua New Guinea concerning Sovereignty and Maritime Boundaries in the area between the 2 countries, including the area known as <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Torres Strait</st1:place>, and Related Matters, signed at <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Sydney</st1:city>, <st1:country-region>Australia</st1:country-region></st1:place> on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1978" day="18" month="12">18 December 1978</st1:date>.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 6  Hospital grants 
+**
 
-Note:          The text of the Treaty is set out in the Australian Treaty Series 1985 No. 4.<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-                    <a name="transition-gst-year"></a>**_transitional GST year_** means:<o:p></o:p>
+<dt>(1)</dt><dd>A _hospital grant_ for a State for a GST year is the amount
 
-                     (a)  a GST year commencing on or before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="1" month="7">1 July 2002</st1:date>; or<o:p></o:p>
+worked out using the formula: 
 
-                     (b)  a later prescribed GST year.<o:p></o:p>
+</dd> </dl></dl>
 
-These are described by a figure referring to 2 years (for example, the 2000-01 transitional GST year is the transitional GST year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>).<o:p></o:p>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1202.gif)</sub>
 
-                    <a name="law"></a><a name="wine-equalis-tax"></a>**_wine equalisation tax_** **_law_** has the meaning given by section 33-1 of the _A New Tax System (Wine Equalisation Tax) Act 1999_.<o:p></o:p>
+where:
 
-##### <a id="5"></a>5  GST revenue<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-             (1)  The Commissioner must make a determination for each of the matters covered by subsections (3) and (4) stating:<o:p></o:p>
+_applicable reduction_ means the amount determined by the Health
 
-                     (a)  the actual amount for the period from 1 July to 31 May in the GST year; and<o:p></o:p>
+Minister before 6&#160;June in the GST year to be the estimate of the reduction
 
-                     (b)  the estimated amount for June in the GST year; and<o:p></o:p>
+in the amount otherwise payable to the State during the GST year under a health
 
-                     (c)  except for the first GST year—the actual amount for June in the previous GST year.<o:p></o:p>
+care grant (being a reduction required by the conditions of the grant). _sum of deductible amounts_ means the amount determined by the Health Minister before 6&#160;June in the GST year to be the estimate of such part of the total amount payable as is the sum of the following amounts:  </dl></dl>
 
-             (2)  The **_GST revenue_** for a GST year is the amount determined by the Commissioner as the amount worked out in the following way:<o:p></o:p>
+	(a)	the sum of the deductible amounts  payable to the State during the GST year;
+ 	(b)	the sum of the deductible amounts  payable to a hospital, or to another person, durin _g_ the GST year, being amounts that would have been payable to the State had the Health Minister been satisfied that the State was adhering to the principles set out in subsection 6(2) of the _Health Care (Appropriation) Act 1998_.
 
-<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .75pt">
+<def><dl compact=""><dl compact="">
 
-_Step 1._ Add together all of the actual amounts determined for matters covered by subsection (3) for the period from 1 July to 31 May in the GST year.<o:p></o:p>
+_total amount payable_ means the amount determined by the Health
 
-_Step 2._ Add together all of the estimates for June in the GST year for matters covered by subsection (3).<o:p></o:p>
+Minister before 6&#160;June in the GST year to be the estimate of the sum of
 
-_Step 3._ Add the result of Step 1 to the result of Step 2.<o:p></o:p>
+the following amounts:
 
-_Step 4._ Add together all of the actual amounts determined for matters covered by subsection (4) for the period from 1 July to 31 May in the GST year.<o:p></o:p>
+ </dl></dl>
 
-_Step 5._ Add together all of the estimates for June in the GST year for matters covered by subsection (4).<o:p></o:p>
+	(a)	the amount payable to the State during the GST year under a health care grant;
+ (b)	the amount payable to a hospital, or to another person, during the GST year under a health care grant, being an amount that would have been payable to the State had the Health Minister been satisfied that the State was adhering to the principles set out in subsection 6(2) of the _Health Care (Appropriation) Act 1998._
 
-_Step 6._ Add the result of Step 4 to the result of Step 5.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-_Step 7._ Subtract the result of Step 6 from the result of Step 3.<o:p></o:p>
+<dt>(2)</dt><dd>In this section:
 
-_Step 8._ Adjust the result worked out in Step 7 for the GST year by the amount necessary to take account of the difference between the estimates made in relation to June in the previous GST year and the actual amounts determined for that month.<o:p></o:p></div>
+</dd> </dl></dl>
 
-             (3)  The matters are:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (a)  the amount of GST that was collected; and<o:p></o:p>
+_deductible amounts_ are amounts that relate to the following:
 
-                    (aa)  the amount of general interest charge that was collected to the extent that it is attributable to:<o:p></o:p>
+ </dl></dl>
 
-                              (i)  unpaid GST; or<o:p></o:p>
+	(a)	mental health services;
+ 	(b)	projects or programs of a kind referred to in paragraph 4(1)(b) of the _Health Care (Appropriation) Act 1998_;
+ 	(c)	the critical and urgent treatment incentive program;
+ 	(d)	the recognition of special demands arising from the Torres Strait Treaty;
+ 	(e)	the transition from a 1993-98 Medicare Agreement to another agreement or arrangement between the Commonwealth and a State, being an agreement or arrangement that specifies conditions applying to health care grants;
+ 	(f)	a service, project or program, or a component of a health care grant, that is determined by the Health Minister to be a service, project, program or component in relation to which an amount payable is to be treated as a deductible amount.
 
-                             (ii)  unpaid general interest charge, being general interest charge payable in respect of unpaid GST; and<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (b)  the amount of payments made to the Commissioner of Taxation where the payment represents an amount of GST that would have been payable if the Constitution did not prevent tax from being imposed on property of any kind belonging to a State and if section 5 of the GST Imposition Acts had not been enacted; and<o:p></o:p>
+_health care grant_ means a grant of financial assistance under
 
-                     (c)  the amount of additional amounts of GST that would have been collected if the Commonwealth and Commonwealth entities could be made subject to taxation by a Commonwealth law and if section 177-1 of the GST Act made those entities actually liable rather than notionally liable; and<o:p></o:p>
+section&#160;4 of the _Health Care (Appropriation) Act 1998_.
 
-                     (d)  the amount, determined in a manner agreed by the Commonwealth and all of the States, that represents amounts of voluntary GST payments that should have, but have not, been paid by local government bodies.<o:p></o:p>
+ </dl></dl>
 
-             (4)  The matters are:<o:p></o:p>
+**
 
-                     (a)  the amount that was paid under the GST refund provisions; and<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 7  Determination of population of a State 
+**
 
-                     (b)  the amount that was payable under the GST refund provisions and that (rather than being paid directly under those provisions) was allocated, applied or refunded in accordance with Part IIB of the _Taxation Administration Act 1953_;<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-to the extent that the amounts are attributable to GST.<o:p></o:p>
+<dt>(1)</dt><dd>The _estimated population_ of a State on 31&#160;December in a
 
-          (4A)  In making determinations and estimates for the purposes of subsection (2), the Commissioner must make such adjustments as are necessary to ensure that any effect that the luxury car tax law or wine equalisation tax law would otherwise have on the amounts of GST, and the amounts attributable to GST, is removed.<o:p></o:p>
+GST year is the population of the State on that date as determined by the
 
-             (5)  The Commissioner of Taxation must make determinations under this section for a GST year before 20 June in the GST year.<o:p></o:p>
+Australian Statistician after that date and before 6&#160;June in the GST
 
-             (6)  In this section:<o:p></o:p>
+year.</dd> <dt>(2)</dt><dd>In making a determination under this section, the Australian Statistician must: </dd> </dl></dl>
 
-                    <a name="commonwealth-entiti"></a>**_Commonwealth entity_** has the same meaning as in section 177-1 of the GST Act.<o:p></o:p>
+	(a)	if practicable, consult with the official Statistician of each State concerned; and
+ 	(b)	have regard to the latest statistics in relation to population available 
+<center>Back to Top</center>
+ to the Australian Statistician on the day on which the determination is made. 
 
-                    <a name="gst-refund-provision"></a>**_GST refund provision_** means a provision of a Commonwealth law the effect of which is to require the Commonwealth to refund some or all of an amount of GST that has been paid, whether or not the provision also applies in relation to other kinds of tax.<o:p></o:p>
+**
 
-Note:          The capacity for new GST refund provisions to be created is limited by section 11, which requires each State’s agreement for changes to the GST base.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 8  Index factor 
+**
 
-##### <a id="6"></a>6  Hospital grants<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-             (1)  A **_hospital grant_** for a State for a GST year is the amount worked out using the formula: <o:p></o:p>
+<dt>(1)</dt><dd>The index factor for a GST year is the factor worked out using the formula:
 
-<v:shape id="_x0000_i1026" style="WIDTH: 293.25pt; HEIGHT: 39pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image003.wmz"></v:imagedata></v:shape><o:p></o:p>
+</dd> </dl></dl>
 
-where:<o:p></o:p>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1203.gif)</sub>
 
-                    <a name="applic-ruction"></a>**_applicable reduction_** means the amount determined by the Health Minister before 6 June in the GST year to be the estimate of the reduction in the amount otherwise payable to the State during the GST year under a health care grant (being a reduction required by the conditions of the grant).<o:p></o:p>
+where:
 
-                    <a name="sum-ductibl-amount"></a>**_sum of deductible amounts_** means the amount determined by the Health Minister before 6 June in the GST year to be the estimate of such part of the total amount payable as is the sum of the following amounts:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (a)  the sum of the deductible amounts  payable to the State during the GST year;<o:p></o:p>
+_GST year index number_ means the sum of the index numbers for each
 
-                     (b)  the sum of the deductible amounts  payable to a hospital, or to another person, durin _g_ the GST year, being amounts that would have been payable to the State had the Health Minister been satisfied that the State was adhering to the principles set out in subsection 6(2) of the _Health Care (Appropriation) Act 1998_.<o:p></o:p>
+of the first 3 quarters in the GST year and the final quarter for the previous
 
-                    <a name="total-amount-payabl"></a>**_total amount payable_** means the amount determined by the Health Minister before 6 June in the GST year to be the estimate of the sum of the following amounts:<o:p></o:p>
+GST year. _previous GST year index number_ means the GST year index number for the previous GST year.  </dl></dl>
 
-                     (a)  the amount payable to the State during the GST year under a health care grant;<o:p></o:p>
+<dl compact=""><dl compact="">
 
-(b)  the amount payable to a hospital, or to another person, during the GST year under a health care grant, being an amount that would have been payable to the State had the Health Minister been satisfied that the State was adhering to the principles set out in subsection 6(2) of the _Health Care (Appropriation) Act 1998._<o:p></o:p>
+<dt>(2)</dt><dd>For the purposes of subsection&#160;(1), all financial years are taken to
 
-             (2)  In this section:<o:p></o:p>
+be GST years.
 
-                    <a name="ductibl-amount"></a>**_deductible amounts_** are amounts that relate to the following:<o:p></o:p>
+</dd> </dl></dl>
 
-                     (a)  mental health services;<o:p></o:p>
+**
 
-                     (b)  projects or programs of a kind referred to in paragraph 4(1)(b) of the _Health Care (Appropriation) Act 1998_;<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 9  Relativities factor 
+**
 
-                     (c)  the critical and urgent treatment incentive program;<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-                     (d)  the recognition of special demands arising from the Torres Strait Treaty;<o:p></o:p>
+<dt>(1)</dt><dd>The _relativities factor_ for a State for a GST year is the
 
-                     (e)  the transition from a 1993-98 Medicare Agreement to another agreement or arrangement between the Commonwealth and a State, being an agreement or arrangement that specifies conditions applying to health care grants;
+factor determined in writing by the Treasurer. The Treasurer must determine the
 
-                      (f)  a service, project or program, or a component of a health care grant, that is determined by the Health Minister to be a service, project, program or component in relation to which an amount payable is to be treated as a deductible amount.<o:p></o:p>
+factor before 10&#160;June in the GST year.</dd> <dt>(2)</dt><dd>Before making the determination, the Treasurer must consult each of the States. </dd> </dl></dl>
 
-                    <a name="health-care-grant"></a>**_health care grant_** means a grant of financial assistance under section 4 of the _Health Care (Appropriation) Act 1998_.<o:p></o:p>
+<center>**
 
-##### <a id="7"></a>7  Determination of population of a State<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999<part>Part&#160;2&#151;Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations </part>
+**</center>
 
-             (1)  The **_estimated population_** of a State on 31 December in a GST year is the population of the State on that date as determined by the Australian Statistician after that date and before 6 June in the GST year.<o:p></o:p>
+**
 
-             (2)  In making a determination under this section, the Australian Statistician must:<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 10  Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations 
+**
 
-                     (a)  if practicable, consult with the official Statistician of each State concerned; and<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                     (b)  have regard to the latest statistics in relation to population available to the Australian Statistician on the day on which the determination is made.<o:p></o:p>
+<dt>(1)</dt><dd>A copy of the Intergovernmental Agreement on the Reform of
 
-##### <a id="8"></a>8  Index factor<o:p></o:p>
+Commonwealth-State Financial Relations is set out in Schedule&#160;2.</dd> <dt>(2)</dt><dd>It is the intention of the Commonwealth to comply with, and give effect to, the agreement. </dd> </dl></dl>
 
-             (1)  The index factor for a GST year is the factor worked out using the formula:<o:p></o:p>
+<center>**
 
-<v:shape id="_x0000_i1027" style="WIDTH: 138.75pt; HEIGHT: 39.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image005.wmz"></v:imagedata></v:shape><o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999<part>Part&#160;3&#151;Changing the rate and base of GST </part>
+**</center>
 
-where:<o:p></o:p>
+**
 
-                    <a name="gst-year-index-number"></a>**_GST year index number_** means the sum of the index numbers for each of the first 3 quarters in the GST year and the final quarter for the previous GST year.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 11  Changing the rate and base of GST 
+**
 
-                    <a name="previou-gst-year-index-number"></a>**_previous GST year index number_** means the GST year index number for the previous GST year.<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-             (2)  For the purposes of subsection (1), all financial years are taken to be GST years.<o:p></o:p>
+<dt>(1)</dt><dd>The rate of the GST, and the GST base, are not to be changed unless each
 
-##### <a id="9"></a>9  Relativities factor<o:p></o:p>
+State agrees to the change. Such changes to the GST base should be consistent
 
-             (1)  The **_relativities factor_** for a State for a GST year is the factor determined in writing by the Treasurer. The Treasurer must determine the factor before 10 June in the GST year.<o:p></o:p>
+with:
 
-             (2)  Before making the determination, the Treasurer must consult each of the States.<o:p></o:p>
+</dd> </dl></dl>
 
-<o:p> </o:p>
+	(a)	maintaining the integrity of the GST base; and
+ 	(b)	administrative simplicity; and
+ 	(c)	minimising compliance costs for taxpayers.
 
-## Part 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations<o:p></o:p>
+<dl compact=""><dl compact="">
 
-##### <a id="10"></a>10  Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations<o:p></o:p>
+<dt>(2)</dt><dd>In particular, but without limiting subsection&#160;(1), a Minister may
 
-             (1)  A copy of the Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations is set out in Schedule 2.<o:p></o:p>
+only make a determination under the GST Act, or the _A New Tax System (Goods and Services Tax Transition) Act 1999_, that affects the GST base if the
 
-             (2)  It is the intention of the Commonwealth to comply with, and give effect to, the agreement.<o:p></o:p>
+determination is made in accordance with a procedure to which all of the States
 
-## Part 3—Changing the rate and base of GST<o:p></o:p>
+have agreed.</dd> <dt>(3)</dt><dd>This section does not apply to the changes to the GST base that are contained in legislation introduced, or regulations or other instruments made, before 1&#160;July 2001 if the changes are: </dd> </dl></dl>
 
-##### <a id="11"></a>11  Changing the rate and base of GST<o:p></o:p>
+	(a)	of an administrative nature; and
+ 	(b)	necessary to facilitate minor adjustments to the GST; and
+ 	(c)	made having regard to the need to protect the revenue of the States.
 
-             (1)  The rate of the GST, and the GST base, are not to be changed unless each State agrees to the change. Such changes to the GST base should be consistent with:<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                     (a)  maintaining the integrity of the GST base; and<o:p></o:p>
+<dt>(4)</dt><dd>Also, this section does not apply to later changes to the GST base if the
 
-                     (b)  administrative simplicity; and<o:p></o:p>
+changes are of an administrative nature and are approved by a majority of the
 
-                     (c)  minimising compliance costs for taxpayers.<o:p></o:p>
+Commonwealth and the States.
 
-             (2)  In particular, but without limiting subsection (1), a Minister may only make a determination under the GST Act, or the _A New Tax System (Goods and Services Tax Transition) Act 1999_, that affects the GST base if the determination is made in accordance with a procedure to which all of the States have agreed.<o:p></o:p>
+</dd> </dl></dl>
 
-             (3)  This section does not apply to the changes to the GST base that are contained in legislation introduced, or regulations or other instruments made, before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="7">1 July 2001</st1:date> if the changes are:<o:p></o:p>
+<center>Back to Top</center>
 
-                     (a)  of an administrative nature; and<o:p></o:p>
+**
 
-                     (b)  necessary to facilitate minor adjustments to the GST; and<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 12  Definitions 
+**
 
-                     (c)  made having regard to the need to protect the revenue of the States.<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-             (4)  Also, this section does not apply to later changes to the GST base if the changes are of an administrative nature and are approved by a majority of the Commonwealth and the States.<o:p></o:p>
+<dt>(1)</dt><dd>In this Part:
 
-##### <a id="12"></a>12  Definitions<o:p></o:p>
+</dd> </dl></dl>
 
-             (1)  In this Part:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                    <a name="rate-gst"></a>**_rate of the GST_** is the rate of tax specified in the GST Imposition Acts.<o:p></o:p>
+_rate of the GST_ is the rate of tax specified in the GST
 
-             (2)  A change is **_of an administrative nature_** only if the change is necessary to:<o:p></o:p>
+Imposition Acts.
 
-                     (a)  maintain the integrity of the GST base; or<o:p></o:p>
+ </dl></dl>
 
-                     (b)  prevent tax avoidance.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                    <o:p> </o:p>
+<dt>(2)</dt><dd>A change is _of an administrative nature_ only if the change
 
-<o:p> </o:p>
+is necessary to:
 
-## Part 4—Grants to the States<o:p></o:p>
+</dd> </dl></dl>
 
-### Division 1—GST revenue grants<o:p></o:p>
+	(a)	maintain the integrity of the GST base; or
+ 	(b)	prevent tax avoidance.
 
-##### <a id="13"></a>13  GST revenue grants<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                   Subject to this Act, each State is entitled to the payment, by way of financial assistance, for a GST year, of a grant worked out using the formula: <o:p></o:p>
+ </dl></dl>
 
-<v:shape id="_x0000_i1028" style="WIDTH: 260.25pt; HEIGHT: 57.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image007.wmz"></v:imagedata></v:shape><o:p></o:p>
+<center>**
 
-where:<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999<part>Part&#160;4&#151;Grants to the States </part>
+**</center>
 
-                    <a name="adjusted-state-popul"></a>**_adjusted State population_** means the estimated population of the State on 31 December in the GST year (see subsection 7(1)) multiplied by the relativities factor (see section 9) for the State for that year.<o:p></o:p>
+<center>**
 
-                    <a name="adjusted-total-popul"></a>**_adjusted total population_** means the sum of the adjusted populations of all of the States for the GST year.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999<division>Division&#160;1&#151;GST revenue grants </division> 
+**</center>
 
-                    <a name="gst-revenu"></a>**_GST revenue_** means the GST revenue for the GST year (see section 5).<o:p></o:p>
+**
 
-                    <a name="state-hospit-grant"></a>**_State hospital grant_** means the hospital grant for the State for the GST year (see section 6).<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 13  GST revenue grants 
+**
 
-                    <a name="total-hospit-grant"></a>**_total hospital grants_** means the sum of the hospital grants for all of the States for the GST year.<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-Note:          See also Schedule 1 which deals with transitional GST years.<o:p></o:p>
+		Subject to this Act, each State is entitled to the payment, by way of
 
-<o:p> </o:p>
+financial assistance, for a GST year, of a grant worked out using the formula: 
 
-### Division 2—Other grants<o:p></o:p>
+ </dl></dl>
 
-##### <a id="14"></a>14  Franchise fees windfall tax reimbursement payments<o:p></o:p>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1204.gif)</sub>
 
-                   Each State is to be paid by way of financial assistance, for a GST year, a franchise fees windfall tax reimbursement payment equal to the sum of the amounts determined by the Commissioner of Taxation, before 22 June in the GST year, to be:<o:p></o:p>
+where:
 
-                     (a)  the total of the amounts of tax collected by the State under the _Franchise Fees Windfall Tax (Collection) Act 1997_ that are remitted to the Commissioner of Taxation before 1 June in the GST year; and<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (b)  the total of the amounts of tax to be collected by the State under that Act that is likely to be remitted to the Commissioner of Taxation during the month of June in the GST year.<o:p></o:p>
+_adjusted State population_ means the estimated population of the
 
-##### <a id="15"></a>15  Competition Agreement payments<o:p></o:p>
+State on 31&#160;December in the GST year (see subsection 7(1)) multiplied by
 
-             (1)  The Treasurer may pay, by way of financial assistance to a State, for a GST year:<o:p></o:p>
+the relativities factor (see section&#160;9) for the State for that year. _adjusted total population_ means the sum of the adjusted populations of all of the States for the GST year. _GST revenue_ means the GST revenue for the GST year (see section&#160;5). _State hospital grant_ means the hospital grant for the State for the GST year (see section&#160;6). _total hospital grants_ means the sum of the hospital grants for all of the States for the GST year.  </dl></dl>
 
-                     (a)  an amount that does not exceed; or<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                     (b)  amounts that in total do not exceed;<o:p></o:p>
+Note:	See also Schedule&#160;1 which deals with transitional GST
 
-the maximum competition payment amount worked out under whichever of subsection (2), (3) or (4) applies.<o:p></o:p>
+years.
 
-             (2)  The **_maximum competition payment amount_** for a State for the 2000-01 GST year is:<o:p></o:p>
+ </dl></dl>
 
-<v:shape id="_x0000_i1029" style="WIDTH: 201.75pt; HEIGHT: 39.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image009.wmz"></v:imagedata></v:shape><o:p></o:p>
+<center>**
 
-where:<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999<division>Division&#160;2&#151;Other grants </division> 
+**</center>
 
-                    <a name="base-amount"></a>**_base amount_** means the sum of the maximum amounts referred to in section 12A of the _States Grants (General Purposes) Act 1994_ (as in force immediately before its repeal) for the financial year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date>.<o:p></o:p>
+**
 
-                    <a name="index-factor"></a>**_index factor_** means the index factor for the GST year (see section 8).<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 14  Franchise fees windfall tax reimbursement payments 
+**
 
-                    <a name="state-popul"></a>**_State population_** means the estimated population of the State on 31 December in the GST year (see subsection 7(1)).<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-                    <a name="total-popul"></a>**_total population_** means the sum of the estimated populations of all of the States on 31 December in the GST year.<o:p></o:p>
+		Each State is to be paid by way of financial assistance, for a GST year, a
 
-             (3)  The **_maximum competition payment amount_** for a State for the 2001-02 GST year is:<o:p></o:p>
+franchise fees windfall tax reimbursement payment equal to the sum of the
 
-<v:shape id="_x0000_i1030" style="WIDTH: 228pt; HEIGHT: 39.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image011.wmz"></v:imagedata></v:shape><o:p></o:p>
+amounts determined by the Commissioner of Taxation, before 22&#160;June in the
 
-where:<o:p></o:p>
+GST year, to be:
 
-                    <a name="base-amount"></a>**_base amount_** means the total of the maximum competition payment amounts for the year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> for each of the States.<o:p></o:p>
+ </dl></dl>
 
-                    <a name="index-factor"></a>**_index factor_** means the index factor for the GST year (see section 8).<o:p></o:p>
+	(a)	the total of the amounts of tax collected by the State under the _Franchise Fees Windfall Tax (Collection) Act 1997_ that are remitted to the Commissioner of Taxation before 1&#160;June in the GST year; and
+ 	(b)	the total of the amounts of tax to be collected by the State under that Act that is likely to be remitted to the Commissioner of Taxation during the month of June in the GST year. 
 
-                    <a name="state-popul"></a>**_State population_** means the estimated population of the State on 31 December in the GST year (see subsection 7(1)).<o:p></o:p>
+**
 
-                    <a name="total-popul"></a>**_total population_** means the sum of the estimated populations of all the States on 31 December in the GST year.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 15  Competition Agreement payments 
+**
 
-             (4)  The **_maximum competition payment amount_** for a State for a later GST year is:<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-<v:shape id="_x0000_i1031" style="WIDTH: 201.75pt; HEIGHT: 39.75pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image013.wmz"></v:imagedata></v:shape><o:p></o:p>
+<dt>(1)</dt><dd>The Treasurer may pay, by way of financial assistance to a State, for a
 
-where:<o:p></o:p>
+GST year:
 
-                    <a name="base-amount"></a>**_base amount_** means the total of the maximum competition payment amounts for the previous GST year for each of the States.<o:p></o:p>
+</dd> </dl></dl>
 
-                    <a name="index-factor"></a>**_index factor_** means the index factor for the GST year (see section 8).<o:p></o:p>
+<center>Back to Top</center>
 
-                    <a name="state-popul"></a>**_State population_** means the estimated population of the State on 31 December in the GST year (see subsection 7(1)).<o:p></o:p>
+	(a)	an amount that does not exceed; or
+ 	(b)	amounts that in total do not exceed;
 
-                    <a name="total-popul"></a>**_total population_** means the sum of the estimated populations of all of the States on 31 December in the GST year.<o:p></o:p>
+the maximum competition payment amount worked out under whichever of subsection&#160;(2), (3) or (4) applies.
 
-##### <a id="16"></a>16  Revenue replacement payments—2000-01<o:p></o:p>
+<dl compact=""><dl compact="">
 
-             (1)  Each State is to be paid by way of financial assistance, for the 2000-01 GST year, a revenue replacement payment.<o:p></o:p>
+<dt>(2)</dt><dd>The _maximum competition payment amount_ for a State for the
 
-             (2)  The **_revenue replacement payment_** for a State for the 2000-01 GST year is:<o:p></o:p>
+2000-01 GST year is:
 
-<span style="POSITION: relative; TOP: 17pt; mso-text-raise: -17.0pt"><v:shape id="_x0000_i1032" style="WIDTH: 389.25pt; HEIGHT: 39pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image014.wmz"></v:imagedata></v:shape></span><o:p></o:p>
+</dd> </dl></dl>
 
-where:<o:p></o:p>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1205.gif)</sub>
 
-                    <a name="alcohol-base-amount"></a>**_alcohol base amount_** means the sum of:<o:p></o:p>
+where:
 
-                     (a)  the amounts determined by the Commissioner of Taxation, before 15 June 2001, to be the additional amount of sales tax on taxable dealings that occurred before 1 July 2000 to which the Sales Tax (Surcharge) Acts relate that was, or is likely to be, collected in the GST year because of a Commonwealth surcharge; and<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (b)  if the June 2000 alcohol base amount exceeds the June 2000 alcohol base amount estimate—the amount of the excess;<o:p></o:p>
+_base amount_ means the sum of the maximum amounts referred to in
 
-less the sum of:<o:p></o:p>
+section&#160;12A of the _States Grants (General Purposes) Act 1994_ (as in
 
-                     (c)  if the June 2000 alcohol base amount estimate exceeds the June 2000 alcohol base amount—the amount of the excess; and<o:p></o:p>
+force immediately before its repeal) for the financial year commencing on
 
-                     (d)  the amount determined by the Commissioner of Taxation to be the additional administrative costs incurred by the Commonwealth in the GST year because of that surcharge or those surcharges, to the extent that the administrative costs relate to taxable dealings that occurred before 1 July 2000.<o:p></o:p>
+1&#160;July 1999\. _index factor_ means the index factor for the GST year (see section&#160;8). _State population_ means the estimated population of the State on 31&#160;December in the GST year (see subsection 7(1)). _total population_ means the sum of the estimated populations of all of the States on 31&#160;December in the GST year.  </dl></dl>
 
-                    <a name="alcohol-share"></a>**_alcohol share_** for a State means:<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                     (a)  if paragraph (b) does not apply—the number set out opposite the name of the State in the table at the end of this definition; or<o:p></o:p>
+<dt>(3)</dt><dd>The _maximum competition payment amount_ for a State for the
 
-                     (b)  if the regulations prescribe a number as the alcohol share for each State for the purposes of this definition—the number so prescribed for the State.<o:p></o:p>
+2001-02 GST year is:
 
-<o:p> </o:p>
+</dd> </dl></dl>
 
-<table>
-<colgroup>
-  <col width="13%">
-  <col width="51%">
-  <col width="36%">
-</colgroup>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1206.gif)</sub>
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div><b style="mso-bidi-font-weight: normal">Revenue replacement payments—alcohol share <o:p></o:p> </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Item <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">State <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Alcohol share <o:p></o:p> </b></div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.33796 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Victoria</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.22332 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Queensland</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.19314 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Western Australia</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.11147 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>5 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">South Australia</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.07857 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>6 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Tasmania</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.02415 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>7 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.01569 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>8 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.01569 <o:p></o:p></div>
-    </td>
-  </tr>
-</tbody></table>
+where:
 
-                    <a name="petroleum-base-amount"></a>**_petroleum base amount_** means the sum of:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (a)  the amount determined by the Chief Executive Officer of Customs, before 15 June 2001, to be the additional amount of customs duty on goods, imported before 1 July 2000, falling to subheadings of Chapter 27 of Schedule 3 to the _Customs Tariff Act 1995_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and<o:p></o:p>
+_base amount_ means the total of the maximum competition payment
 
-Note:       Chapter 27 of Schedule 3 to the _Customs Tariff Act 1995_ deals with petroleum products.<o:p></o:p>
+amounts for the year commencing on 1&#160;July 2000 for each of the States. _index factor_ means the index factor for the GST year (see section&#160;8). _State population_ means the estimated population of the State on 31&#160;December in the GST year (see subsection 7(1)). _total population_ means the sum of the estimated populations of all the States on 31&#160;December in the GST year.  </dl></dl>
 
-                     (b)  the amount determined by the Commissioner of Taxation to be the additional amount of excise duty on goods, manufactured or produced before 1 July 2000, falling to items 11 and 12 of the Schedule to the _Excise Tariff Act 1921_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and<o:p></o:p>
+<dl compact=""><dl compact="">
 
-Note:       Items 11 and 12 of the Schedule to the _Excise Tariff Act 1921_ deal with petroleum products.<o:p></o:p>
+<dt>(4)</dt><dd>The _maximum competition payment amount_ for a State for a
 
-                     (c)  if the June 2000 petroleum base amount exceeds the June 2000 petroleum base amount estimate—the amount of the excess;<o:p></o:p>
+later GST year is:
 
-less the sum of:<o:p></o:p>
+</dd> </dl></dl>
 
-                     (d)  if the June 2000 petroleum base amount estimate exceeds the June 2000 petroleum base amount—the amount of the excess; and<o:p></o:p>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1207.gif)</sub>
 
-                     (e)  the amount determined by the Chief Executive Officer of Customs to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph (a), to the extent that the administrative costs relate to goods that were imported before 1 July 2000; and<o:p></o:p>
+where:
 
-                      (f)  the amount determined by the Commissioner of Taxation to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph (b), to the extent that the administrative costs relate to goods that were manufactured or produced before 1 July 2000.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                    <a name="petroleum-share"></a>**_petroleum share_** for a State means:<o:p></o:p>
+_base amount_ means the total of the maximum competition payment
 
-                     (a)  if paragraph (b) does not apply—the number set out opposite the name of the State in the table at the end of this definition; or<o:p></o:p>
+amounts for the previous GST year for each of the States. _index factor_ means the index factor for the GST year (see section&#160;8). _State population_ means the estimated population of the State on 31&#160;December in the GST year (see subsection 7(1)). _total population_ means the sum of the estimated populations of all of the States on 31&#160;December in the GST year.  </dl></dl>
 
-                     (b)  if the regulations prescribe a number as the petroleum share for each State for the purposes of this definition—the number so prescribed for the State.<o:p></o:p>
+**
 
-<o:p> </o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 16  Revenue replacement payments&#151;2000-01 
+**
 
-<table>
-<colgroup>
-  <col width="13%">
-  <col width="51%">
-  <col width="36%">
-</colgroup>
+ <dl compact=""><dl compact="">
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div><b style="mso-bidi-font-weight: normal">Revenue replacement payments—petroleum share <o:p></o:p> </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Item <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">State <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Petroleum share <o:p></o:p> </b></div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.30039 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Victoria</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.20153 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Queensland</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.19593 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Western Australia</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.17118 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>5 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">South Australia</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.07549 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>6 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Tasmania</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.02453 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>7 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.01291 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>8 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.01804 <o:p></o:p></div>
-    </td>
-  </tr>
-</tbody></table>
+<dt>(1)</dt><dd>Each State is to be paid by way of financial assistance, for the 2000-01
 
-                    <a name="tobacco-base-amount"></a>**_tobacco base amount_** means the sum of:<o:p></o:p>
+GST year, a revenue replacement payment.</dd> <dt>(2)</dt><dd>The _revenue replacement payment_ for a State for the 2000-01 GST year is: </dd> </dl></dl>
 
-                     (a)  the amount determined by the Chief Executive Officer of Customs, before 15 June 2001, to be the additional amount of customs duty on goods, imported before 1 July 2000, falling to subheadings of Chapter 24 of Schedule 3 to the _Customs Tariff Act 1995_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and<o:p></o:p>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1208.gif)</sub>
 
-Note:       Chapter 24 of Schedule 3 to the _Customs Tariff Act 1995_ deals with tobacco and manufactured tobacco substitutes.<o:p></o:p>
+where:
 
-                     (b)  the amount determined by the Commissioner of Taxation to be the additional amount of excise duty on goods, manufactured or produced before 1 July 2000, falling to items 6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-Note:       Items 6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_ deal with tobacco, cigars and cigarettes.<o:p></o:p>
+_alcohol base amount_ means the sum of:
 
-                     (c)  if the June 2000 tobacco base amount exceeds the June 2000 tobacco base amount estimate—the amount of the excess;<o:p></o:p>
+ </dl></dl>
 
-less the sum of:<o:p></o:p>
+	(a)	the amounts determined by the Commissioner of Taxation, before 
+<center>Back to Top</center>
+ 15&#160;June 2001, to be the additional amount of sales tax on taxable dealings that occurred before 1&#160;July 2000 to which the Sales Tax (Surcharge) Acts relate that was, or is likely to be, collected in the GST year because of a Commonwealth surcharge; and
+ 	(b)	if the June 2000 alcohol base amount exceeds the June 2000 alcohol base amount estimate&#151;the amount of the excess;
 
-                     (d)  if the June 2000 tobacco base amount estimate exceeds the June 2000 tobacco base amount—the amount of the excess; and<o:p></o:p>
+less the sum of:
 
-                     (e)  the amount determined by the Chief Executive Officer of Customs to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph (a), to the extent that the administrative costs relate to goods that were imported before 1 July 2000; and<o:p></o:p>
+	(c)	if the June 2000 alcohol base amount estimate exceeds the June 2000 alcohol base amount&#151;the amount of the excess; and
+ 	(d)	the amount determined by the Commissioner of Taxation to be the additional administrative costs incurred by the Commonwealth in the GST year because of that surcharge or those surcharges, to the extent that the administrative costs relate to taxable dealings that occurred before 1&#160;July 2000.
 
-                      (f)  the amount determined by the Commissioner of Taxation to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph (b), to the extent that the administrative costs relate to goods that were manufactured or produced before 1 July 2000.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                    <a name="tobacco-share"></a>**_tobacco share_** for a State means:<o:p></o:p>
+_alcohol share_ for a State means:
 
-                     (a)  if paragraph (b) does not apply—the number set out opposite the name of the State in the table at the end of this definition; or<o:p></o:p>
+ </dl></dl>
 
-                     (b)  if the regulations prescribe a number as the tobacco share for each State for the purposes of this definition—the number so prescribed for the State.<o:p></o:p>
+	(a)	if paragraph&#160;(b) does not apply&#151;the number set out opposite the name of the State in the table at the end of this definition; or
+ 	(b)	if the regulations prescribe a number as the alcohol share for each State for the purposes of this definition&#151;the number so prescribed for the State.
 
-<o:p> </o:p>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Revenue replacement payments&#151;alcohol share</div>
 
-<table>
-<colgroup>
-  <col width="13%">
-  <col width="51%">
-  <col width="36%">
-</colgroup>
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Item</div>
 
-<thead>
-  <tr>
-    <td colspan="3">
-      <div><b style="mso-bidi-font-weight: normal">Revenue replacement payments—tobacco share <o:p></o:p> </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Item <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">State <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Tobacco share <o:p></o:p> </b></div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">New South Wales</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.32492 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Victoria</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.21803 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Queensland</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.19065 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Western Australia</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.11100 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>5 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">South Australia</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.08988 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>6 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Tasmania</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.03226 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>7 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australian Capital Territory</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.01456 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>8 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:state> <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place> </st1:state> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>0.01870 <o:p></o:p></div>
-    </td>
-  </tr>
-</tbody></table>
+  </th>
+  <th colspan="1" align="left">
+    <div>State</div>
 
-             (3)  In determining, for the purposes of subsection (2), the additional amount of customs duty or excise duty that was collected, or is likely to be collected, during a particular period because of a Commonwealth surcharge:<o:p></o:p>
+  </th>
+  <th colspan="1" align="center">
+    <div>Alcohol share</div>
 
-                     (a)  the Chief Executive Officer of Customs is to take into account the impact of the operation of section 19 of the _Customs Tariff Act 1995_; and<o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>1</div>
 
-                     (b)  the Commissioner of Taxation is to take into account the impact of the operation of section 6A of the _Excise Tariff Act 1921_.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
 
-Note:          Section 19 of the _Customs Tariff Act 1995_ and section 6A of the _Excise Tariff Act 1921_ provide for the automatic indexation of certain rates of duty which include rates payable on tobacco etc. and petroleum products.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.33796</div>
 
-             (4)  If, after the commencement of this Act, the _Customs Tariff Act 1995_ or the _Excise Tariff Act 1921_ is amended to vary the method of calculating duty on goods falling to:<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>2</div>
 
-                     (a)  subheadings of Chapter 24 of Schedule 3 to the _Customs Tariff Act 1995_; or<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Victoria</div>
 
-                     (b)  items 6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_;<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.22332</div>
 
-then, for the purposes of subsection (2), the additional amount of customs duty or excise duty that was collected, or is likely to be collected, during a particular period is to be determined on the basis that the amendment had not been made.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>3</div>
 
-             (5)  For the purpose of subsection (4):<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Queensland</div>
 
-                     (a)  a Customs Tariff or Customs Tariff alteration proposed in the Parliament is taken to be an amendment of the _Customs Tariff Act 1995_; and<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.19314</div>
 
-                     (b)  an excise tariff alteration proposed in the Parliament is taken to be an amendment of the _Excise Tariff Act 1921_.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>4</div>
 
-             (6)  In this section:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Western Australia</div>
 
-                    <a name="commonwealth-surcharg"></a>**_Commonwealth surcharge_** means the variation effected by a Surcharge Act in the rate of duty of customs or excise payable on specified goods or in the rate of sales tax applicable to specified taxable dealings (as the case may be).<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.11147</div>
 
-                    <a name="june-2000-alcohol-base-amount"></a>**_June 2000 alcohol base amount_** means the amount determined by the Commissioner of Taxation, before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="15" month="6">15 June 2001</st1:date>, to be the additional amount of sales tax on taxable dealings to which the Sales Tax (Surcharge) Acts relate that was collected during the month of June 2000 because of a Commonwealth surcharge.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>5</div>
 
-                    <a name="june-2000-alcohol-base-amount-estim"></a>**_June 2000 alcohol base amount estimate_** means the amount determined by the Commissioner of Taxation to be the June 2000 alcohol base amount estimate for the purposes of Schedule 6 to the _States Grants (General Purposes) Act 1994_ (as in force immediately before its repeal).<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>South Australia</div>
 
-                    <a name="june-2000-petroleum-base-amount"></a>**_June 2000 petroleum base amount_** means the sum of the amounts determined by the Chief Executive Officer of Customs, before <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="15" month="6">15 June 2001</st1:date>, to be:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.07857</div>
 
-                     (a)  the additional amount of customs duty falling to subheadings of Chapter 27 of Schedule 3 to the _Customs Tariff Act 1995_ that was collected during the month of June 2000 because of a Commonwealth surcharge; and<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>6</div>
 
-                     (b)  the additional amount of excise duty falling to items 11 and 12 of the Schedule to the _Excise Tariff Act 1921_ that was collected during the month of June 2000 because of a Commonwealth surcharge.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Tasmania</div>
 
-                    <a name="june-2000-petroleum-base-amount-estim"></a>**_June 2000 petroleum base amount estimate_** has the same meaning as in Schedule 6 to the _States Grants (General Purposes) Act 1994_ (as in force immediately before its repeal).<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.02415</div>
 
-                    <a name="june-2000-tobacco-base-amount"></a>**_June 2000 tobacco base amount_** means the sum of:<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>7</div>
 
-                     (a)  the amount determined by the Chief Executive Officer of Customs, before 15 June 2001, to be the additional amount of customs duty falling to subheadings of Chapter 24 of Schedule 3 to the _Customs Tariff Act 1995_ that was collected during the month of June 2000 because of a Commonwealth surcharge; and<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Australian Capital Territory</div>
 
-                     (b)  the amount determined by the Commissioner of Taxation, before 15 June 2001, to be the additional amount of excise duty falling to items 6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_ that was collected during the month of June 2000 because of a Commonwealth surcharge.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.01569</div>
 
-                    <a name="june-2000-tobacco-base-amount-estim"></a>**_June 2000 tobacco base amount estimate_** has the same meaning as in Schedule 6 to the _States Grants (General Purposes) Act 1994_ (as in force immediately before its repeal).<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>8</div>
 
-                    <a name="sale-tax-surcharg-act"></a>**_Sales Tax (Surcharge) Acts_** means the following Acts:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Northern Territory</div>
 
-                     (a)  the _Sales Tax (Customs) (Alcoholic Beverages) Act 1997_;<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.01569</div>
 
-                     (b)  the _Sales Tax (Excise) (Alcoholic Beverages) Act 1997_;<o:p></o:p>
+  </td>
+</tr></table><def><dl compact=""><dl compact="">
 
-                     (c)  the _Sales Tax (General) (Alcoholic Beverages) Act 1997_.<o:p></o:p>
+_petroleum base amount_ means the sum of:
 
-Note:          These Acts increase the rates of tax that apply to taxable dealings with the following goods:<o:p></o:p>
+ </dl></dl>
 
-(a)           goods covered by Item 1 of Schedule 7 to the _Sales Tax (Exemptions and Classifications) Act 1992_;<o:p></o:p>
+<center>Back to Top</center>
 
-(b)           beer, spirits, liqueurs or spirituous liquors;<o:p></o:p>
+	(a)	the amount determined by the Chief Executive Officer of Customs, before 15&#160;June 2001, to be the additional amount of customs duty on goods, imported before 1&#160;July 2000, falling to subheadings of Chapter&#160;27 of Schedule&#160;3 to the _Customs Tariff Act 1995_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and
+ Note:	Chapter&#160;27 of Schedule&#160;3 to the _Customs Tariff Act 1995_ deals with petroleum products.
+ 	(b)	the amount determined by the Commissioner of Taxation to be the additional amount of excise duty on goods, manufactured or produced before 1&#160;July 2000, falling to items&#160;11 and 12 of the Schedule to the _Excise Tariff Act 1921_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and
+ Note:	Items&#160;11 and 12 of the Schedule to the _Excise Tariff Act 1921_ deal with petroleum products.
+ 	(c)	if the June 2000 petroleum base amount exceeds the June 2000 petroleum base amount estimate&#151;the amount of the excess;
 
-(c)           beverages that contain beer, spirits (other than spirits for fortifying wine or other beverages), liqueurs or spirituous liquors.<o:p></o:p>
+less the sum of:
 
-                    <a name="surcharg-act"></a>**_Surcharge Acts_** means the following Acts:<o:p></o:p>
+	(d)	if the June 2000 petroleum base amount estimate exceeds the June 2000 petroleum base amount&#151;the amount of the excess; and
+ 	(e)	the amount determined by the Chief Executive Officer of Customs to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph&#160;(a), to the extent that the administrative costs relate to goods that were imported before 1&#160;July 2000; and
+ 	(f)	the amount determined by the Commissioner of Taxation to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph&#160;(b), to the extent that the administrative costs relate to goods that were manufactured or produced before 1&#160;July 2000.
 
-                     (a)  the _Customs Tariff Amendment Act (No. 3) 1997_;<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                     (b)  the _Excise Tariff Amendment Act (No. 3) 1997_;<o:p></o:p>
+_petroleum share_ for a State means:
 
-                     (c)  the Sales Tax (Surcharge) Acts;<o:p></o:p>
+ </dl></dl>
 
-                     (d)  any Act that varies:<o:p></o:p>
+	(a)	if paragraph&#160;(b) does not apply&#151;the number set out opposite the name of the State in the table at the end of this definition; or
+ 	(b)	if the regulations prescribe a number as the petroleum share for each State for the purposes of this definition&#151;the number so prescribed for the State.
 
-                              (i)  the rate of the duty of customs payable on goods falling to subheadings of Chapter 24 or 27 of the _Customs Tariff Act 1995_; or<o:p></o:p>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Revenue replacement payments&#151;petroleum share</div>
 
-                             (ii)  the rate of the duty of excise payable on goods falling to item 6, 7, 8 or 11 of the Schedule to the _Excise Tariff Act 1921_; or<o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Item</div>
 
-                            (iii)  the rate of sales tax applicable to any of the taxable dealings to which the Sales Tax (Surcharge) Acts relate;<o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div>State</div>
 
-                            and is prescribed for the purposes of this definition.<o:p></o:p>
+  </th>
+  <th colspan="1" align="center">
+    <div>Petroleum share</div>
 
-Note 1:       The _Customs Tariff Amendment Act (No. 3) 1997_ increases the rate of the duty of customs payable on goods falling to certain subheadings of Chapters 24 and 27 of Schedule 3 to the _Customs Tariff Act 1995_. The relevant subheadings of Chapter 24 deal with tobacco and manufactured tobacco substitutes. The relevant subheadings of Chapter 27 deal with petroleum products.<o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>1</div>
 
-Note 2:       The _Excise Tariff Amendment Act (No. 3) 1997_ increases the rate of the duty of excise payable on goods falling to items 6, 7, 8 and 11 in the Schedule to the _Excise Tariff Act 1921_. Items 6, 7 and 8 in that Schedule deal with tobacco, cigars and cigarettes. Item 11 deals with petroleum products.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
 
-<o:p> </o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.30039</div>
 
-<o:p> </o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>2</div>
 
-### Division 3—Payment of grants<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Victoria</div>
 
-##### <a id="17"></a>17  Overpayment or underpayment of grant<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.20153</div>
 
-             (1)  If a State has been paid an amount in excess of the amount that, under a provision of this Act, it was entitled to receive by way of financial assistance for a GST year, the Treasurer must deduct an amount equal to the excess from any amount that the State is entitled to receive by way of financial assistance under this Act for the year immediately following the GST year.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>3</div>
 
-             (2)  If a State has been paid less than the amount that, under a provision of this Act, it was entitled to receive by way of financial assistance for a GST year, the Treasurer must add an amount equal to the shortfall to any amount that the State is entitled to receive by way of financial assistance under this Act for the year immediately following the GST year.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Queensland</div>
 
-##### <a id="18"></a>18  Advance payments for GST year<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.19593</div>
 
-                   The Treasurer may make advances to a State of portions of the amount or amounts to which, it appears to the Treasurer, the State will be entitled under this Act for a GST year.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>4</div>
 
-##### <a id="19"></a>19  Treasurer may fix amounts, and times of payments, of financial assistance <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Western Australia</div>
 
-                   Financial assistance payable to a State under this Act is to be paid in such amounts, and at such times, as the Treasurer determines in writing.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.17118</div>
 
-<o:p> </o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>5</div>
 
-## Part 5—Miscellaneous<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>South Australia</div>
 
-##### <a id="20"></a>20  Appropriation<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.07549</div>
 
-                   Payments under this Act are to be made out of the Consolidated Revenue Fund, which is appropriated accordingly.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>6</div>
 
-##### <a id="21"></a>21  Delegation by Treasurer<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Tasmania</div>
 
-             (1)  The Treasurer may, by signed writing, delegate to an SES employee in the Department all or any of the Treasurer’s powers under sections 18 and 19.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.02453</div>
 
-             (2)  A delegate is, in the exercise of a power so delegated, subject to the Treasurer’s directions.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>7</div>
 
-##### <a id="22"></a>22  Determinations<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Australian Capital Territory</div>
 
-                   A determination made under this Act by:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.01291</div>
 
-                     (a)  the Treasurer; or<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>8</div>
 
-                     (b)  the Health Minister; or<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Northern Territory</div>
 
-                     (c)  the Commissioner of Taxation; or<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.01804</div>
 
-                     (d)  the Australian Statistician;<o:p></o:p>
+  </td>
+</tr></table><def><dl compact=""><dl compact="">
 
-is, for the purposes of this Act, conclusively presumed to be correct.<o:p></o:p>
+_tobacco base amount_ means the sum of:
 
-##### <a id="23"></a>23  Regulations<o:p></o:p>
+ </dl></dl>
 
-                   The Governor-General may make regulations:<o:p></o:p>
+<center>Back to Top</center>
 
-                     (a)  prescribing matters required or permitted by this Act to be prescribed; or<o:p></o:p>
+	(a)	the amount determined by the Chief Executive Officer of Customs, before 15&#160;June 2001, to be the additional amount of customs duty on goods, imported before 1&#160;July 2000, falling to subheadings of Chapter&#160;24 of Schedule&#160;3 to the _Customs Tariff Act 1995_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and
+ Note:	Chapter&#160;24 of Schedule&#160;3 to the _Customs Tariff Act 1995_ deals with tobacco and manufactured tobacco substitutes.
+ 	(b)	the amount determined by the Commissioner of Taxation to be the additional amount of excise duty on goods, manufactured or produced before 1&#160;July 2000, falling to items&#160;6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_ that was, or is likely to be, collected during the GST year because of a Commonwealth surcharge; and
+ Note:	Items&#160;6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_ deal with tobacco, cigars and cigarettes.
+ 	(c)	if the June 2000 tobacco base amount exceeds the June 2000 tobacco base amount estimate&#151;the amount of the excess;
 
-                     (b)  prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act.<o:p></o:p>
+less the sum of:
 
+	(d)	if the June 2000 tobacco base amount estimate exceeds the June 2000 tobacco base amount&#151;the amount of the excess; and
+ 	(e)	the amount determined by the Chief Executive Officer of Customs to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph&#160;(a), to the extent that the administrative costs relate to goods that were imported before 1&#160;July 2000; and
+ 	(f)	the amount determined by the Commissioner of Taxation to be the additional administrative costs incurred by the Commonwealth in the GST year because of surcharges mentioned in paragraph&#160;(b), to the extent that the administrative costs relate to goods that were manufactured or produced before 1&#160;July 2000.
 
-# Schedule 1—Transitional arrangements<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-_Note:       See section 13_
+_tobacco share_ for a State means:
 
-##### <a id="1"></a>1  Overview<o:p></o:p>
+ </dl></dl>
 
-                   This Schedule contains provisions that apply for the first 3 GST years and other GST years that are prescribed. Clause 2 requires the Treasurer to specify the guaranteed minimum amount for each State. Clauses 3, 4, 5, 6 and 7 adjust the amount of grants, and provide for loans, in certain circumstances.<o:p></o:p>
+	(a)	if paragraph&#160;(b) does not apply&#151;the number set out opposite the name of the State in the table at the end of this definition; or
+ 	(b)	if the regulations prescribe a number as the tobacco share for each State for the purposes of this definition&#151;the number so prescribed for the State.
 
-##### <a id="2"></a>2  Guaranteed minimum amount<o:p></o:p>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Revenue replacement payments&#151;tobacco share</div>
 
-             (1)  The Treasurer must, before 20 June in a transitional GST year, determine the **_guaranteed minimum amount_** for each State for the GST year. The determination must be made in writing.<o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Item</div>
 
-             (2)  Before making the determination, the Treasurer must consult each of the States.<o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div>State</div>
 
-##### <a id="3"></a>3  First GST year—GST revenue does not exceed guaranteed minimum amounts<o:p></o:p>
+  </th>
+  <th colspan="1" align="center">
+    <div>Tobacco share</div>
 
-             (1)  This clause applies if the GST revenue for the 2000-01 transitional GST year is less than, or equal to, the sum of the guaranteed minimum amounts for all of the States.<o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>1</div>
 
-             (2)  If this clause applies, a State is not entitled to the payment of so much of a grant under section 13 for the GST year as exceeds the guaranteed minimum amount for the State for the GST year.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>New South Wales</div>
 
-             (3)  If, apart from this subclause, a State would have been entitled to the payment of a grant under section 13 for the GST year of an amount that is less than its guaranteed minimum amount for that year:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.32492</div>
 
-                     (a)  the amount to which the State is entitled under section 13 is to be increased by the amount worked out under subclause (4); and<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>2</div>
 
-                     (b)  the State is entitled to the payment, by way of financial assistance, of an amount worked out under subclause (5).<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Victoria</div>
 
-             (4)  The amount of the increase for the GST year is:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.21803</div>
 
-<v:shape id="_x0000_i1033" style="WIDTH: 167.25pt; HEIGHT: 38.25pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image016.wmz"></v:imagedata></v:shape><o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>3</div>
 
-where:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Queensland</div>
 
-                    <a name="ristribut-amount"></a>**_redistribution amount_** means the sum of amounts to which States are not entitled in the GST year because of subclause (2).<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.19065</div>
 
-                    <a name="state-shortfal"></a>**_State shortfall_** means the amount by which the State’s guaranteed minimum amount exceeds the amount to which, apart from subclause (2), the State would be entitled under section 13 for the GST year.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>4</div>
 
-                    <a name="total-shortfal"></a>**_total shortfall_** means the sum of the State shortfalls for the GST year.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Western Australia</div>
 
-             (5)  The amount to which a State is entitled under this subclause is the amount by which the State’s guaranteed minimum amount exceeds the amount to which the State is entitled under section 13 (as increased by paragraph (3)(a) of this clause) for the GST year.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.11100</div>
 
-             (6)  The Treasurer may determine, in writing, that the whole or a part of the amount to which a State is entitled under subclause (5) is a grant. If the Treasurer makes such a determination, the remainder of the amount (if any) is a loan. If the Treasurer does not make a determination, the whole of the amount is a loan.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>5</div>
 
-             (7)  The Treasurer may deduct an amount equal to the amount of a loan to a State under subclause (5) from any amount that the State is entitled to receive by way of financial assistance under this Act for the 2001-02 transitional GST year.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>South Australia</div>
 
-##### <a id="4"></a>4  Second GST year—GST revenue does not exceed guaranteed minimum amounts<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.08988</div>
 
-             (1)  This clause applies if the GST revenue for the 2001-02 transitional GST year is less than, or equal to, the sum of the guaranteed minimum amounts for all of the States.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>6</div>
 
-             (2)  If this clause applies, a State is not entitled to so much of a grant under section 13 for the GST year as exceeds the guaranteed minimum amount for the State for the GST year.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Tasmania</div>
 
-             (3)  If, apart from this subclause, a State would have been entitled to the payment of a grant under section 13 for the GST year of an amount that is less than its guaranteed minimum amount for that year:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.03226</div>
 
-                     (a)  the amount to which the State is entitled under section 13 is to be increased by the amount worked out under subclause (4); and<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>7</div>
 
-                     (b)  the State is entitled to the payment, by way of financial assistance, of a grant worked out under subclause (5).<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Australian Capital Territory</div>
 
-             (4)  The amount of the increase for the GST year is:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.01456</div>
 
-<v:shape id="_x0000_i1034" style="WIDTH: 167.25pt; HEIGHT: 38.25pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image018.wmz"></v:imagedata></v:shape><o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>8</div>
 
-where:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Northern Territory</div>
 
-                    <a name="ristribut-amount"></a>**_redistribution amount_** means the sum of amounts to which States are not entitled in the GST year because of subclause (2).<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>0.01870</div>
 
-                    <a name="state-shortfal"></a>**_State shortfall_** means the amount by which the State’s guaranteed minimum amount exceeds the amount to which, apart from subclause (2), the State would be entitled under section 13 for the GST year.<o:p></o:p>
+  </td>
+</tr></table><dl compact=""><dl compact="">
 
-                    <a name="total-shortfal"></a>**_total shortfall_** means the sum of the State shortfalls for the GST year.<o:p></o:p>
+<dt>(3)</dt><dd>In determining, for the purposes of subsection&#160;(2), the additional
 
-             (5)  The amount of the grant to which a State is entitled under this subclause is the amount by which the State’s guaranteed minimum amount exceeds the amount to which the State is entitled under section 13 (as increased by paragraph (3)(a) of this clause) for the GST year.<o:p></o:p>
+amount of customs duty or excise duty that was collected, or is likely to be
 
-##### <a id="5"></a>5  First 2 transitional GST years—GST revenue exceeds guaranteed minimum amounts<o:p></o:p>
+collected, during a particular period because of a Commonwealth surcharge:
 
-             (1)  This clause applies if the GST revenue for the 2000-01 or 2001-02 transitional GST year is more than the sum of the guaranteed minimum amounts for all of the States but the amount of the grant to which at least one State is entitled under section 13 is less than the guaranteed minimum amount for the State.<o:p></o:p>
+</dd> </dl></dl>
 
-             (2)  If, apart from this subclause, the amount to which a State would be entitled under section 13 is more than the guaranteed minimum amount for that State for the GST year, the amount to which the State is entitled under that section is instead worked out using the formula:<o:p></o:p>
+<center>Back to Top</center>
 
-<v:shape id="_x0000_i1035" style="WIDTH: 3in; HEIGHT: 41.25pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="5F745D6150E7D68BCA256FB60026B4FB/$FILE/image019.wmz"></v:imagedata></v:shape><o:p></o:p>
+	(a)	the Chief Executive Officer of Customs is to take into account the impact of the operation of section&#160;19 of the _Customs Tariff Act 1995_; and
+ 	(b)	the Commissioner of Taxation is to take into account the impact of the operation of section&#160;6A of the _Excise Tariff Act 1921_.
 
-where:<o:p></o:p>
+<dl compact=""><dl compact="">
 
-                    <a name="excess-gst-amount"></a>**_excess GST amount_** is the amount by which the GST revenue for the GST year exceeds the sum of the guaranteed minimum amounts for all of the States for the GST year.<o:p></o:p>
+Note:	Section&#160;19 of the _Customs Tariff Act 1995_ and
 
-                    <a name="guarante-minimum-amount"></a>**_guaranteed minimum amount_** means the guaranteed minimum amount for the State for the GST year.<o:p></o:p>
+section&#160;6A of the _Excise Tariff Act 1921_ provide for the automatic
 
-                    <a name="state-excess"></a>**_State excess_** is the amount by which the amount to which, apart from this subclause, the State would be entitled under section 13 exceeds the guaranteed minimum amount for the State for the GST year.<o:p></o:p>
+indexation of certain rates of duty which include rates payable on tobacco etc.
 
-                    <a name="total-excess"></a>**_total excess_** is the total of the State excesses for each State to which this subclause applies for the GST year.<o:p></o:p>
+and petroleum products.
 
-             (3)  If, apart from this subclause, the amount to which a State would be entitled under section 13 is less than the guaranteed minimum amount for that State for the GST year, the amount to which the State is entitled under that section is instead the guaranteed minimum amount for the State for the GST year.<o:p></o:p>
+ </dl></dl>
 
-##### <a id="6"></a>6  Third or prescribed transitional GST years—guaranteed minimum amount<o:p></o:p>
+<dl compact=""><dl compact="">
 
-             (1)  This clause applies for:<o:p></o:p>
+<dt>(4)</dt><dd>If, after the commencement of this Act, the _Customs Tariff Act 1995_
 
-                     (a)  the 2002-03 GST year; and<o:p></o:p>
+or the _Excise Tariff Act 1921_ is amended to vary the method of
 
-                     (b)  any GST year that is prescribed to be a transitional GST year for the purpose of paragraph (b) of the definition of **_transitional GST year_** in section 4.<o:p></o:p>
+calculating duty on goods falling to:
 
-             (2)  If the amount to which a State would be entitled under section 13 is less than the guaranteed minimum amount for that State for the GST year, the State is entitled to a grant equal to the shortfall.<o:p></o:p>
+</dd> </dl></dl>
 
-##### <a id="7"></a>7  Residual adjustment amounts for grants under clause 6<o:p></o:p>
+	(a)	subheadings of Chapter&#160;24 of Schedule&#160;3 to the _Customs Tariff Act 1995_; or
+ 	(b)	items&#160;6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_;
 
-             (1)  The Treasurer must, in relation to each GST year to which clause 6 applies (including any such year that has ended before the commencement of this clause), determine whether there is a residual adjustment amount for a State for the GST year. A residual adjustment amount may be either an amount that is recoverable from, or an amount that is payable to, the State.<o:p></o:p>
+then, for the purposes of subsection&#160;(2), the additional amount of customs duty or excise duty that was collected, or is likely to be collected, during a particular period is to be determined on the basis that the amendment had not been made.
 
-             (2)  A determination under subclause (1) must be made in a manner agreed by the Commonwealth and all of the States.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-             (3)  If a residual adjustment amount for a State for a GST year is an amount that is recoverable from the State, the Treasurer must deduct an amount or amounts equal in total to the residual adjustment amount from an amount or amounts the State is entitled to receive by way of financial assistance under this Act for the GST year in which the determination of the amount is made or the next GST year.<o:p></o:p>
+<dt>(5)</dt><dd>For the purpose of subsection&#160;(4):
 
-             (4)  If a residual adjustment amount for a State for a GST year is an amount that is payable to the State, the Treasurer must add an amount or amounts equal in total to the residual adjustment amount to an amount or amounts the State is entitled to receive by way of financial assistance under this Act for the GST year in which the determination of the amount is made or the next GST year.<o:p></o:p>
+</dd> </dl></dl>
 
-             (5)  The Treasurer may, by signed writing, delegate to an SES employee in the Department all or any of the Treasurer’s functions under subclauses (1), (3) and (4). The delegate must perform a delegated function subject to any directions of the Treasurer.<o:p></o:p>
+	(a)	a Customs Tariff or Customs Tariff alteration proposed in the Parliament is taken to be an amendment of the _Customs Tariff Act 1995_; and
+ 	(b)	an excise tariff alteration proposed in the Parliament is taken to be an amendment of the _Excise Tariff Act 1921_.
 
+<dl compact=""><dl compact="">
 
-# Schedule 2—Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations<o:p></o:p>
+<dt>(6)</dt><dd>In this section:
 
-_Note:       See section 10._
+</dd> </dl></dl>
 
-THE COMMONWEALTH OF <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">AUSTRALIA</st1:place></st1:country-region><o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-THE STATE OF NEW <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">SOUTH WALES</st1:place><o:p></o:p>
+_Commonwealth surcharge_ means the variation effected by a
 
-THE STATE OF <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">VICTORIA</st1:place></st1:state><o:p></o:p>
+Surcharge Act in the rate of duty of customs or excise payable on specified
 
-THE STATE OF <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">QUEENSLAND</st1:place></st1:state><o:p></o:p>
+goods or in the rate of sales tax applicable to specified taxable dealings (as
 
-THE STATE OF <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">WESTERN AUSTRALIA</st1:place></st1:state><o:p></o:p>
+the case may be). _June 2000 alcohol base amount_ means the amount determined by the Commissioner of Taxation, before 15&#160;June 2001, to be the additional amount of sales tax on taxable dealings to which the Sales Tax (Surcharge) Acts relate that was collected during the month of June 2000 because of a Commonwealth surcharge. _June 2000 alcohol base amount estimate_ means the amount determined by the Commissioner of Taxation to be the June 2000 alcohol base amount estimate for the purposes of Schedule&#160;6 to the _States Grants (General Purposes) Act 1994_ (as in force immediately before its repeal). _June 2000 petroleum base amount_ means the sum of the amounts determined by the Chief Executive Officer of Customs, before 15&#160;June 2001, to be:  </dl></dl>
 
-THE STATE OF <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">SOUTH AUSTRALIA</st1:place></st1:state><o:p></o:p>
+	(a)	the additional amount of customs duty falling to subheadings of Chapter&#160;27 of Schedule&#160;3 to the _Customs Tariff Act 1995_ that was collected during the month of June 2000 because of a Commonwealth surcharge; and
+ 	(b)	the additional amount of excise duty falling to items&#160;11 and 12 of the Schedule to the _Excise Tariff Act 1921_ that was collected during the month of June 2000 because of a Commonwealth surcharge.
 
-THE STATE OF <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">TASMANIA</st1:place></st1:state><o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-THE <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">AUSTRALIAN CAPITAL TERRITORY</st1:place></st1:state>, AND<o:p></o:p>
+_June 2000 petroleum base amount estimate_ has the same meaning as
 
-THE <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">NORTHERN TERRITORY</st1:place></st1:state> OF <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">AUSTRALIA</st1:place></st1:country-region><o:p></o:p>
+in Schedule&#160;6 to the _States Grants (General Purposes) Act 1994_ (as
 
-WHEREAS <o:p></o:p>
+in force immediately before its repeal). _June 2000 tobacco base amount_ means the sum of:  </dl></dl>
 
-(1)<span style="mso-tab-count: 1">     </span>the Special Premiers’ Conference on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="13" month="11">13 November 1998</st1:date> developed principles for the reform of Commonwealth-State financial relations;<o:p></o:p>
+	(a)	the amount determined by the Chief Executive Officer of Customs, before 15&#160;June 2001, to be the additional amount of customs duty falling to subheadings of Chapter&#160;24 of Schedule&#160;3 to the _Customs Tariff Act 1995_ that was collected during the month of June 2000 because of a Commonwealth surcharge; and
+ 	(b)	the amount determined by the Commissioner of Taxation, before 15&#160;June 2001, to be the additional amount of excise duty falling to items&#160;6, 7 and 8 of the Schedule to the _Excise Tariff Act 1921_ that was collected 
+<center>Back to Top</center>
+ during the month of June 2000 because of a Commonwealth surcharge.
 
-(2)<span style="mso-tab-count: 1">     </span>the Commonwealth, States and Territories are in agreement that the current financial relationship between levels of government must be reformed to facilitate a stronger and more productive federal system for the new millennium;<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-(3)<span style="mso-tab-count: 1">     </span>while a majority of the States and Territories support the introduction of the Goods and Services Tax (GST), the agreement of New South Wales, Queensland and Tasmania to the reform of Commonwealth-State financial relations does not imply their in-principle endorsement of the GST;<o:p></o:p>
+_June 2000 tobacco base amount estimate_ has the same meaning as in
 
-(4)<span style="mso-tab-count: 1">     </span>an Agreement was reached between the Commonwealth and the States and Territories on the reform of Commonwealth-State financial relations on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="9" month="4">9 April 1999</st1:date>;<o:p></o:p>
+Schedule&#160;6 to the _States Grants (General Purposes) Act 1994_ (as in
 
-(5)<span style="mso-tab-count: 1">     </span>this revised Agreement was made necessary by the changes to the Commonwealth Government’s A New Tax System (ANTS) package announced by the Prime Minister on 28 May 1999; and<o:p></o:p>
+force immediately before its repeal). _Sales Tax (Surcharge) Acts_ means the following Acts:  </dl></dl>
 
-(6)<span style="mso-tab-count: 1">     </span>this revised Agreement supersedes the previous Agreement of <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="9" month="4">9 April 1999</st1:date>: <o:p></o:p>
+	(a)	the _Sales Tax (Customs) (Alcoholic Beverages) Act 1997_;
+ 	(b)	the _Sales Tax (Excise) (Alcoholic Beverages) Act 1997_;
+ 	(c)	the _Sales Tax (General) (Alcoholic Beverages) Act 1997_.
 
-IT IS HEREBY AGREED:<o:p></o:p>
+<dl compact=""><dl compact="">
 
-PART 1—PRELIMINARY<o:p></o:p>
+Note:	These Acts increase the rates of tax that apply to taxable
 
-**Commencement Clause<o:p></o:p>**
+dealings with the following goods:
 
-1.   This Agreement will commence between the Commonwealth, the States and the Territories on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date> unless otherwise agreed by the Parties.<o:p></o:p>
+ </dl></dl>
 
-**Objectives<o:p></o:p>**
+(a)	goods covered by Item&#160;1 of Schedule&#160;7 to the _Sales Tax (Exemptions and Classifications) Act 1992_;
+ (b)	beer, spirits, liqueurs or spirituous liquors;
+ (c)	beverages that contain beer, spirits (other than spirits for fortifying wine or other beverages), liqueurs or spirituous liquors.
 
-2.   The objectives of the reforms set down in this agreement include:<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-      (i)          the achievement of a new national tax system, including the elimination of a number of existing inefficient taxes which are impeding economic activity;<o:p></o:p>
+_Surcharge Acts_ means the following Acts:
 
-      (ii)          the provision to State and Territory Governments of revenue from a more robust tax base that can be expected to grow over time; and<o:p></o:p>
+ </dl></dl>
 
-     (iii)          an improvement in the financial position of all State and Territory Governments, once the transitional changes have been completed, relative to that which would have existed had the current arrangements continued.<o:p></o:p>
+	(a)	the _Customs Tariff Amendment Act (No. 3) 1997_;
+ 	(b)	the _Excise Tariff Amendment Act (No. 3) 1997_;
+ 	(c)	the Sales Tax (Surcharge) Acts;
+ 	(d)	any Act that varies:
+ 	(i)	the rate of the duty of customs payable on goods falling to subheadings of Chapter&#160;24 or 27 of the _Customs Tariff Act 1995_; or
+ 	(ii)	the rate of the duty of excise payable on goods falling to item&#160;6, 7, 8 or 11 of the Schedule to the _Excise Tariff Act 1921_; or
+ 	(iii)	the rate of sales tax applicable to any of the taxable dealings to which the Sales Tax (Surcharge) Acts relate;
+ 		and is prescribed for the purposes of this definition.
 
-3.   All Parties to the Agreement acknowledge the need to pursue on-going reform of Commonwealth-State financial relations.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-**Acknowledgement of Agreement <o:p></o:p>**
+Note 1:	The _Customs Tariff Amendment Act (No. 3) 1997_
 
-4.   The Commonwealth will attach the Agreement as a schedule to the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_. The Commonwealth will use its best endeavours to ensure the Act will require compliance with the Agreement. The States and Territories will attach the Agreement as a schedule to relevant State and Territory legislation. The States and Territories will use their best endeavours to ensure their legislation will require compliance with the Agreement. <o:p></o:p>
+increases the rate of the duty of customs payable on goods falling to certain
 
-PART 2—Commonwealth-State Financial reform<o:p></o:p>
+subheadings of Chapters&#160;24 and 27 of Schedule&#160;3 to the _Customs Tariff Act 1995_. The relevant subheadings of Chapter&#160;24 deal with
 
-**Reform Measures<o:p></o:p>**
+tobacco and manufactured tobacco substitutes. The relevant subheadings of
 
-5.   The Parties will undertake all necessary steps to have appropriate legislation enacted to give effect to the following reform measures.<o:p></o:p>
+Chapter&#160;27 deal with petroleum products. Note 2:	The _Excise Tariff Amendment Act (No. 3) 1997_ increases the rate of the duty of excise payable on goods falling to items&#160;6, 7, 8 and 11 in the Schedule to the _Excise Tariff Act 1921_. Items&#160;6, 7 and 8 in that Schedule deal with tobacco, cigars and cigarettes. Item&#160;11 deals with petroleum products.  </dl></dl>
 
-      (i)          The Commonwealth will legislate to provide all of the revenue from the GST to the States and Territories and will legislate to maintain the rate and base of the GST in accordance with this Agreement. <o:p></o:p>
+<center>**
 
-      (ii)          The Commonwealth will cease to apply the Wholesale Sales Tax from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> and will not reintroduce it or a similar tax in the future.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999<division>Division&#160;3&#151;Payment of grants </division> 
+**</center>
 
-     (iii)          The temporary arrangements for the taxation of petrol, liquor and tobacco under the safety net arrangements announced by the Commonwealth on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="6" month="8">6 August 1997</st1:date> will cease on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.<o:p></o:p>
+**
 
-     (iv)          The payment of Financial Assistance Grants will cease on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 17  Overpayment or underpayment of grant 
+**
 
-     (v)          The Commonwealth will continue to provide Specific Purpose Payments (SPPs) to the States and Territories and has no intention of cutting aggregate SPPs as part of the reform process set out in this Agreement, consistent with the objective of the State and Territory Governments being financially better off under the new arrangements.<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-     (vi)          The States and Territories will cease to apply the taxes referred to in <u>Appendix A</u> from the dates outlined below and will not reintroduce them or similar taxes in the future.<o:p></o:p>
+<dt>(1)</dt><dd>If a State has been paid an amount in excess of the amount that, under a
 
-•<span style="mso-tab-count: 1">        </span>Bed taxes, from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>; <o:p></o:p>
+provision of this Act, it was entitled to receive by way of financial
 
-•<span style="mso-tab-count: 1">        </span>Financial Institutions Duty, from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="7">1 July 2001</st1:date>;<o:p></o:p>
+assistance for a GST year, the Treasurer must deduct an amount equal to the
 
-•<span style="mso-tab-count: 1">        </span>Stamp duties on quoted marketable securities from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="7">1 July 2001</st1:date>;<o:p></o:p>
+excess from any amount that the State is entitled to receive by way of
 
-•<span style="mso-tab-count: 1">        </span>Debits tax by <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>, subject to review by the Ministerial Council;<o:p></o:p>
+financial assistance under this Act for the year immediately following the GST
 
-<span style="mso-tab-count: 1">   </span>(vii)<span style="mso-tab-count: 2">           </span>The Ministerial Council will by 2005 review the need for retention of stamp duty on non-residential conveyances; leases; mortgages, debentures, bonds and other loan securities; credit arrangements, installment purchase arrangements and rental arrangements; and on cheques, bills of exchange, promissory notes; and unquoted marketable securities.<o:p></o:p>
+year.</dd> <dt>(2)</dt><dd>If a State has been paid less than the amount that, under a provision of this Act, it was entitled to receive by way of financial assistance for a GST year, the Treasurer must add an amount equal to the shortfall to any amount that the State is entitled to receive by way of financial assistance under this Act for the year immediately following the GST year. </dd> </dl></dl>
 
-   (viii)          The States and Territories will adjust their gambling tax arrangements to take account of the impact of the GST on gambling operators.<o:p></o:p>
+**
 
-     (ix)          Following negotiations under the CSHA, the States and Territories will ensure that increases in pensions and allowances specified in the tax reform package will not flow through to increased public housing rents where these rents are linked to the level of pensions.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 18  Advance payments for GST year 
+**
 
-     (x)          Nothing in this clause will prevent any Party from introducing anti-avoidance measures that are reasonably necessary to protect its remaining tax base or liabilities accrued prior to the date the tax ceases to apply. <o:p></o:p>
+ <dl compact=""><dl compact="">
 
-**GST Legislation<o:p></o:p>**
+		The Treasurer may make advances to a State of portions of the amount or
 
-6.<span style="FONT: 7pt 'Times New Roman'">       </span>All Parties agree to reconsider this Agreement should the Commonwealth Parliament pass the GST legislation in a way that significantly affects this Agreement.<o:p></o:p>
+amounts to which, it appears to the Treasurer, the State will be entitled under
 
-**Distribution of GST Revenue<o:p></o:p>**
+this Act for a GST year.
 
-7.   The Commonwealth will make GST revenue grants to the States and Territories equivalent to the revenue from the GST subject to the arrangements in this Agreement. GST revenue grants will be freely available for use by the States and Territories for any purpose.<o:p></o:p>
+ </dl></dl>
 
-8.   The Commonwealth will distribute GST revenue grants among the States and Territories in accordance with horizontal fiscal equalisation (HFE) principles subject to the transitional arrangements set out below and other relevant provisions of this Agreement. <o:p></o:p>
+<center>Back to Top</center>
 
-9.   Details of the payment arrangements are contained in <u>Appendix B</u> to this Agreement.<o:p></o:p>
+**
 
-**Transitional Arrangements<o:p></o:p>**
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 19  Treasurer may fix amounts, and times of payments, of financial assistance  
+**
 
-10.  In each of the  transitional years  following the introduction of the GST, the Commonwealth guarantees that the budgetary position of each individual State and Territory will be no worse off than it would have been had the reforms set out in this Agreement not been implemented.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-11.  The Commonwealth will extend the transitional period by Regulation (as provided for in the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_) to give effect to the commitments in clause 10 in the event that transitional assistance is required by any State or Territory after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2003" day="30" month="6">30 June 2003</st1:date>.<o:p></o:p>
+		Financial assistance payable to a State under this Act is to be paid in such
 
-12.  To meet this guarantee, the Commonwealth will make transitional assistance payments to each State and Territory, as necessary, over this period. These payments will take the form of interest free loans and grants in July 2000-01 and grants paid quarterly in subsequent years and will be freely available for use by the States and Territories for any purpose. Any payments or repayments made by way of loans or grants under the Commonwealth’s guarantee will be excluded from assessments of per capita relativities recommended by the Commonwealth Grants Commission (CGC).<o:p></o:p>
+amounts, and at such times, as the Treasurer determines in writing.
 
-13.  The amounts of any additional assistance under the guarantee will be determined in accordance with the processes set out in <u>Appendix C</u> to this Agreement. <o:p></o:p>
+ </dl></dl>
 
-14.  After the second year following the introduction of the GST, GST revenue grants will be determined on the basis of HFE principles. That is, after the first two years, any State or Territory which is receiving more than would have been received under the current arrangements will retain that excess.
+<center>**
 
-**First Home Owners Scheme<o:p></o:p>**
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999<part>Part&#160;5&#151;Miscellaneous </part>
+**</center>
 
-15.  To offset the impact of the introduction of a GST, the States and Territories will assist first homebuyers through the funding and administration of a new uniform First Home Owners Scheme.<o:p></o:p>
+**
 
-16.  This assistance will be provided to first home owners consistent with <u>Appendix D</u> to this Agreement. <o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 20  Appropriation 
+**
 
-**Application of the GST to Government<o:p></o:p>**
+ <dl compact=""><dl compact="">
 
-17.<span style="FONT: 7pt 'Times New Roman'">   </span>The Parties intend that the Commonwealth, States, Territories and local government and their statutory corporations and authorities will operate as if they were subject to the GST legislation. They will be entitled to register, will pay GST or make voluntary or notional payments where necessary and will be entitled to claim input tax credits in the same way as non-Government organisations. All such payments will be included in GST revenue.<o:p></o:p>
+		Payments under this Act are to be made out of the Consolidated Revenue Fund,
 
-<span style="mso-list: Ignore">18.<span style="FONT: 7pt 'Times New Roman'">   </span></span>The Commonwealth will legislate to require the States and the <st1:state><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Northern Territory</st1:place></st1:state> to withhold from any local government authority being in breach of clause 17 a sum representing the amount of unpaid voluntary or notional GST payments. Amounts withheld will form part of the GST revenue pool. Detailed arrangements will be agreed by the Ministerial Council on advice from Heads of Treasuries.<o:p></o:p>
+which is appropriated accordingly.
 
-**Government Taxes and Charges<o:p></o:p>**
+ </dl></dl>
 
-19.  The Commonwealth, States and Territories agree that the GST does not apply to the payment of some taxes and compulsory charges. <o:p></o:p>
+**
 
-20.  The Parties will agree a list of taxes and compulsory charges that are outside the scope of the GST. This list will be promulgated by a determination by the Commonwealth Treasurer as set out in Division 81-5 of the _A New Tax System (Goods and Services Tax) Act 1999_ (the GST Act).<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 21  Delegation by Treasurer 
+**
 
-21.  In agreeing the list, the Commonwealth, States and Territories will have regard to the following principles:<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-      (i)          taxes that are in the nature of a compulsory impost for general purposes and compulsory charges by the way of fines or penalties should not be subject to GST as these will not relate to any specific supply of goods or services;<o:p></o:p>
+<dt>(1)</dt><dd>The Treasurer may, by signed writing, delegate to an SES employee in the
 
-      (ii)          similarly, those regulatory charges that do not relate to particular goods or services should be outside the scope of the GST; and<o:p></o:p>
+Department all or any of the Treasurer's powers under sections&#160;18 and
 
-     (iii)          the inclusion of any other charge in the Commonwealth Treasurer’s determination notwithstanding that it may relate to the supply of a particular good or service will require the unanimous agreement of the Commonwealth, States and Territories.<o:p></o:p>
+19.</dd> <dt>(2)</dt><dd>A delegate is, in the exercise of a power so delegated, subject to the Treasurer's directions. </dd> </dl></dl>
 
-22.  The agreed list of taxes and other compulsory charges that are outside the scope of the GST will be subject to on-going review and adjustment as necessary in consultation with the Ministerial Council. The Parties will notify any objections to changes to the list within a period to be specified by the Ministerial Council.<o:p></o:p>
+**
 
-**Reciprocal Taxation<o:p></o:p>**
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 22  Determinations 
+**
 
-23.  Reciprocal taxation will be progressed on a revenue neutral basis, through the negotiation of a Reciprocal Taxation Agreement with the objectives of:<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-      (i)          improving the transparency of tax arrangements between all levels of government;<o:p></o:p>
+		A determination made under this Act by:
 
-      (ii)          ensuring tax neutrality; and <o:p></o:p>
+ </dl></dl>
 
-     (iii)          replacing the Statement of Policy Intent (SOPI) for the taxation treatment of Government Business Enterprises with tax arrangements which are broader in scope. <o:p></o:p>
+	(a)	the Treasurer; or
+ 	(b)	the Health Minister; or
+ 	(c)	the Commissioner of Taxation; or
+ 	(d)	the Australian Statistician;
 
-24.  It is the intention of the Parties to this Agreement that a National Tax Equivalent Regime (NTER) for income tax will be operational for State and Territory government business enterprises from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>. It is also intended that the reciprocal application of other Commonwealth, State and Territory taxes will be subsequently implemented as soon as practicable. <o:p></o:p>
+is, for the purposes of this Act, conclusively presumed to be correct. 
 
-25.  Local government organisations will be consulted with a view to making the NTER for income tax operational for wholly owned local government business enterprises from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> and including local government in the Reciprocal Tax Agreement at a later date.<o:p></o:p>
+**
 
-26.  Where the application of full indirect reciprocal tax arrangements is prevented by the Constitution, jurisdictions have agreed to work cooperatively to introduce voluntary payment arrangements in these circumstances.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999- SECT 23  Regulations 
+**
 
-27.  All governments have agreed that no further compensation payments will be payable by any jurisdiction under the SOPI.<o:p></o:p>
+ <dl compact=""><dl compact="">
 
-**Monitoring of Prices<o:p></o:p>**
+		The Governor-General may make regulations:
 
-28.  In accordance with the _Trade Practices Act 1974_, as amended, the Australian Competition and Consumer Commission will formally monitor prices and take action against businesses that take pricing decisions in a manner inconsistent with tax reform. <o:p></o:p>
+ </dl></dl>
 
-29.  In order to ensure that these measures apply to the whole economy, the States and Territories will adopt the Schedule version of Part VB of the _Trade Practices Act 1974_ (Part XIAA of _The_ _New Tax System Price Exploitation Code_) to extend the measures in Part VB to cover those areas outside the Commonwealth’s constitutional power. All Parties will work towards having any necessary legislation in place by <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date>.<o:p></o:p>
+	(a)	prescribing matters required or permitted by this Act to be prescribed; or
+ 	(b)	prescribing matters necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
-30.  The monitoring and prohibition on unreasonable pricing decisions will commence on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date> and continue until <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="30" month="6">30 June 2002</st1:date>.<o:p></o:p>
+<center>**
 
-part 3—administration of the GST<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999Schedule&#160;1&#151;Transitional arrangements 
+**</center>
 
-**Management of the GST Rate<o:p></o:p>**
+ Note:	See section&#160;13 1  Overview
+ <dl compact=""><dl compact=""> 		This Schedule contains provisions that apply for the first 3 GST years and other GST years that are prescribed. Clause&#160;2 requires the Treasurer to specify the guaranteed minimum amount for each State. Clauses&#160;3, 4, 5, 6 and 7 adjust the amount of grants, and provide for loans, in certain circumstances. 
 
-31.  After the introduction of the GST, a proposal to vary the 10 per cent rate of the GST will require:<o:p></o:p>
+</dl></dl> 2  Guaranteed minimum amount
 
-      (i)          the unanimous support of the State and Territory Governments;<o:p></o:p>
+<dl compact=""><dl compact="">
 
-      (ii)          the endorsement by the Commonwealth Government of the day; and<o:p></o:p>
+<dt>(1)</dt><dd>The Treasurer must, before 20&#160;June in a transitional GST year,
 
-     (iii)          the passage of relevant legislation by both Houses of the Commonwealth Parliament. <o:p></o:p>
+determine the _guaranteed minimum amount_ for each State for the
 
-**Management of the GST Base<o:p></o:p>**
+GST year. The determination must be made in writing.</dd> <dt>(2)</dt><dd>Before making the determination, the Treasurer must consult each of the States. </dd> </dl></dl>
 
-32.  Subject to clauses 34, 35 and 36 of this Agreement, after the introduction of the GST, any proposal to vary the GST base will require:<o:p></o:p>
+3  First GST year&#151;GST revenue does not exceed guaranteed minimum amounts
 
-      (i)          the unanimous support of the State and Territory Governments;<o:p></o:p>
+<dl compact=""><dl compact="">
 
-      (ii)          the endorsement by the Commonwealth Government of the day; and<o:p></o:p>
+<dt>(1)</dt><dd>This clause applies if the GST revenue for the 2000-01 transitional GST
 
-     (iii)          the passage of relevant legislation by both Houses of the Commonwealth Parliament. <o:p></o:p>
+year is less than, or equal to, the sum of the guaranteed minimum amounts for
 
-33.  All future changes to the GST base should be consistent with:<o:p></o:p>
+all of the States.</dd> <dt>(2)</dt><dd>If this clause applies, a State is not entitled to the payment of so much of a grant under section&#160;13 for the GST year as exceeds the guaranteed minimum amount for the State for the GST year.</dd> <dt>(3)</dt><dd>If, apart from this subclause, a State would have been entitled to the payment of a grant under section&#160;13 for the GST year of an amount that is less than its guaranteed minimum amount for that year: </dd> </dl></dl>
 
-      (i)          the maintenance of the integrity of the tax base;<o:p></o:p>
+<center>Back to Top</center>
 
-      (ii)          simplicity of administration; and<o:p></o:p>
+	(a)	the amount to which the State is entitled under section&#160;13 is to be increased by the amount worked out under subclause&#160;(4); and
+ 	(b)	the State is entitled to the payment, by way of financial assistance, of an amount worked out under subclause&#160;(5).
 
-     (iii)          minimising compliance costs for taxpayers.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-34.  A proposal to vary the GST base by way of a Ministerial determination under the GST Act and the GST Transition Act will require the unanimous agreement of the Ministerial Council established under clause 40\. The Ministerial Council will develop practical arrangements to ensure timely consideration of proposed Ministerial determinations.<o:p></o:p>
+<dt>(4)</dt><dd>The amount of the increase for the GST year is:
 
-35.  During the first 12 months following the implementation of the GST, the Commonwealth Government will retain the discretion to make changes unilaterally to the GST base where such changes:<o:p></o:p>
+</dd> </dl></dl>
 
-      (i)          are of an administrative nature (as defined in <u>Appendix E</u> to this Agreement);<o:p></o:p>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1209.gif)</sub>
 
-      (ii)          are necessary to facilitate the implementation of the new tax; and <o:p></o:p>
+where:
 
-     (iii)          have regard to the need to protect the revenue of the States and Territories.<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-36.  From July 2001, changes to the GST base of an administrative nature (as defined in <u>Appendix E</u>) would require the majority support of the Commonwealth, the States and the Territories.
+_redistribution amount_ means the sum of amounts to which States
 
-**Australian Taxation Office <o:p></o:p>**
+are not entitled in the GST year because of subclause&#160;(2). _State shortfall_ means the amount by which the State's guaranteed minimum amount exceeds the amount to which, apart from subclause&#160;(2), the State would be entitled under section&#160;13 for the GST year. _total shortfall_ means the sum of the State shortfalls for the GST year.  </dl></dl>
 
-37.  The States and Territories will compensate the Commonwealth for the  agreed costs incurred by the Australian Taxation Office (ATO) in administering the GST. <o:p></o:p>
+<dl compact=""><dl compact="">
 
-38.  Accountability and performance arrangements will be established between the ATO and the State and Territory Governments consistent with <u>Appendix F</u> to this Agreement. These arrangements will include maximising compliance, cost efficiency, simplicity for taxpayers and administrative transparency. <o:p></o:p>
+<dt>(5)</dt><dd>The amount to which a State is entitled under this subclause is the amount
 
-39.  The ATO and State and Territory Governments will collaborate to explore options for the States and Territories to benefit from the use of the Australian Business Number system.<o:p></o:p>
+by which the State's guaranteed minimum amount exceeds the amount to which the
 
-Part 4—institutional arrangements <o:p></o:p>
+State is entitled under section&#160;13 (as increased by paragraph&#160;(3)(a)
 
-**Establishment of Ministerial Council<o:p></o:p>**
+of this clause) for the GST year.</dd> <dt>(6)</dt><dd>The Treasurer may determine, in writing, that the whole or a part of the amount to which a State is entitled under subclause&#160;(5) is a grant. If the Treasurer makes such a determination, the remainder of the amount (if any) is a loan. If the Treasurer does not make a determination, the whole of the amount is a loan.</dd> <dt>(7)</dt><dd>The Treasurer may deduct an amount equal to the amount of a loan to a State under subclause&#160;(5) from any amount that the State is entitled to receive by way of financial assistance under this Act for the 2001-02 transitional GST year. </dd> </dl></dl>
 
-40.  A Ministerial Council comprising the Commonwealth, the States and the Territories will be established from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date> to oversee the operation of this Agreement.<o:p></o:p>
+4  Second GST year&#151;GST revenue does not exceed guaranteed minimum amounts
 
-41.  The membership of the Ministerial Council will comprise the Treasurer of the Commonwealth and the Treasurers of the States and Territories (or designated representatives). <o:p></o:p>
+<dl compact=""><dl compact="">
 
-42.  The functions of the Ministerial Council will include:<o:p></o:p>
+<dt>(1)</dt><dd>This clause applies if the GST revenue for the 2001-02 transitional GST
 
-      (i)          the oversight of the operation of the GST; <o:p></o:p>
+year is less than, or equal to, the sum of the guaranteed minimum amounts for
 
-      (ii)          the oversight and coordination of the implementation of this Agreement;<o:p></o:p>
+all of the States.</dd> <dt>(2)</dt><dd>If this clause applies, a State is not entitled to so much of a grant under section&#160;13 for the GST year as exceeds the guaranteed minimum amount for the State for the GST year.</dd> <dt>(3)</dt><dd>If, apart from this subclause, a State would have been entitled to the payment of a grant under section&#160;13 for the GST year of an amount that is less than its guaranteed minimum amount for that year: </dd> </dl></dl>
 
-     (iii)          the review of matters of operational significance raised through the GST Administration Sub-Committee;<o:p></o:p>
+	(a)	the amount to which the State is entitled under section&#160;13 is to be increased by the amount worked out under subclause&#160;(4); and
+ 	(b)	the State is entitled to the payment, by way of financial assistance, of a grant worked out under subclause&#160;(5).
 
-     (iv)          discussion of CGC recommendations regarding relativities prior to the Commonwealth Treasurer making a determination;<o:p></o:p>
+<dl compact=""><dl compact="">
 
-     (v)          monitoring compliance with the conditions governing the provision of assistance to first home owners set out in <u>Appendix D</u> to this Agreement; <o:p></o:p>
+<dt>(4)</dt><dd>The amount of the increase for the GST year is:
 
-     (vi)          monitoring compliance with the Commonwealth’s undertaking with respect to SPPs;<o:p></o:p>
+</dd> </dl></dl>
 
-    (vii)          considering reports of the GST Administration Sub-Committee on the performance of the ATO in GST administration;<o:p></o:p>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1210.gif)</sub>
 
-   (viii)          reviewing the operation of the Agreement over time and considering any amendments which may be proposed as a consequence of such review;<o:p></o:p>
+where:
 
-     (ix)          making recommendations to the Commonwealth Treasurer on the Guaranteed Minimum Amount applying to each State and Territory under the Transitional Arrangements;<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-     (x)          approving changes to the GST base which require the support of a majority of Commonwealth, State and Territory Governments; <o:p></o:p>
+_redistribution amount_ means the sum of amounts to which States
 
-     (xi)          considering on-going reform of Commonwealth-State financial relations; and<o:p></o:p>
+are not entitled in the GST year because of subclause&#160;(2). _State shortfall_ means the amount by which the State's guaranteed minimum amount exceeds the amount to which, apart from subclause&#160;(2), the State would be entitled under section&#160;13 for the GST year. _total shortfall_ means the sum of the State shortfalls for the GST year.  </dl></dl>
 
-    (xii)          considering other matters covered in this Agreement.<o:p></o:p>
+<dl compact=""><dl compact="">
 
-43.  The Treasurer of the Commonwealth will convene the Ministerial Council in consultation with the other members of the Council not less than once each financial year. If the Commonwealth Treasurer receives a request from a member of the Council, he will consult with the other members concerning convening a meeting. The Treasurer of the Commonwealth will be the chair of the Council. The Council may also conduct its business by correspondence. <o:p></o:p>
+<dt>(5)</dt><dd>The amount of the grant to which a State is entitled under this subclause
 
-44.  All questions arising in the Ministerial Council will be determined by unanimous agreement unless otherwise specified in this Agreement.<o:p></o:p>
+is the amount by which the State's guaranteed minimum amount exceeds the amount
 
-45.  While it is envisaged that the Ministerial Council will take decisions on most business arising from the operation of this Agreement, major issues will be referred by the Ministerial Council to Heads of Government for consideration, including under the auspices of the Council of Australian Governments. <o:p></o:p>
+to which the State is entitled under section&#160;13 (as increased by
 
-46.  The Ministerial Council will establish a GST Administration Sub-Committee comprised of Commonwealth, State and Territory officials to monitor the operation of the GST, make recommendations regarding possible changes to the GST base and rate and to monitor the ATO’s performance in GST administration. The GST Administration Sub-Committee will function in accordance with the arrangements set out in <u>Appendix E</u> to this Agreement.<o:p></o:p>
+paragraph&#160;(3)(a) of this clause) for the GST year.
 
-<o:p> </o:p>
+</dd> </dl></dl>
 
-<u>SIGNED</u> for and on behalf of the Parties by:<o:p></o:p>
+5  First 2 transitional GST years&#151;GST revenue exceeds guaranteed minimum 
+<center>Back to Top</center>
+ amounts
 
-<table>
-<colgroup>
-  <col width="55%">
-  <col width="45%">
-</colgroup>
+<dl compact=""><dl compact="">
 
-<tbody>
-  <tr>
-    <td>
+<dt>(1)</dt><dd>This clause applies if the GST revenue for the 2000-01 or 2001-02
 
-      <div>
-        The Honourable John Winston Howard,
-          <o:p></o:p>
+transitional GST year is more than the sum of the guaranteed minimum amounts
 
-      </div>
-      <div>
-        Prime Minister of the Commonwealth of
-        <st1:country-region>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            Australia
-          </st1:place>
-        </st1:country-region>
-        ,
-          <o:p></o:p>
+for all of the States but the amount of the grant to which at least one State
 
-      </div>
-      <div>
-        on the 20th day of June 1999
-          <o:p></o:p>
+is entitled under section&#160;13 is less than the guaranteed minimum amount
 
-      </div>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+for the State.</dd> <dt>(2)</dt><dd>If, apart from this subclause, the amount to which a State would be entitled under section&#160;13 is more than the guaranteed minimum amount for that State for the GST year, the amount to which the State is entitled under that section is instead worked out using the formula: </dd> </dl></dl>
 
-          <o:p> </o:p>
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C01060/Html/4655FA0E0DCBD6ECCA256F71005364D1/$FILE/1211.gif)</sub>
 
-      </div>
-    </td>
-  </tr>
-</tbody></table>
+where:
 
-<o:p> </o:p>
+<def><dl compact=""><dl compact="">
 
-<table>
-<colgroup>
-  <col width="55%">
-  <col width="45%">
-</colgroup>
+_excess GST amount_ is the amount by which the GST revenue for the
 
-<tbody>
-  <tr>
-    <td>
-      <div>
-        The Honourable Robert John Carr,
-          <o:p></o:p>
+GST year exceeds the sum of the guaranteed minimum amounts for all of the
 
-      </div>
-      <div>
-        Premier of the State of
-        <st1:state>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            New South Wales
-          </st1:place>
-        </st1:state>
-        ,
-          <o:p></o:p>
+States for the GST year. _guaranteed minimum amount_ means the guaranteed minimum amount for the State for the GST year. _State excess_ is the amount by which the amount to which, apart from this subclause, the State would be entitled under section&#160;13 exceeds the guaranteed minimum amount for the State for the GST year. _total excess_ is the total of the State excesses for each State to which this subclause applies for the GST year.  </dl></dl>
 
-      </div>
-      <div>
-        on the 24th day of June 1999
-          <o:p></o:p>
+<dl compact=""><dl compact="">
 
-      </div>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+<dt>(3)</dt><dd>If, apart from this subclause, the amount to which a State would be
 
-          <o:p> </o:p>
+entitled under section&#160;13 is less than the guaranteed minimum amount for
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+that State for the GST year, the amount to which the State is entitled under
 
-          <o:p> </o:p>
+that section is instead the guaranteed minimum amount for the State for the GST
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        The Honourable Jeffrey Gibb Kennett,
-          <o:p></o:p>
+year.
 
-      </div>
-      <div>
-        Premier of the State of
-        <st1:state>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            Victoria
-          </st1:place>
-        </st1:state>
-        ,
-          <o:p></o:p>
+</dd> </dl></dl>
 
-      </div>
-      <div>
-        on the 26th day of June 1999
-          <o:p></o:p>
+6  Third or prescribed transitional GST years&#151;guaranteed minimum amount
 
-      </div>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+<dl compact=""><dl compact="">
 
-          <o:p> </o:p>
+<dt>(1)</dt><dd>This clause applies for:
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+</dd> </dl></dl>
 
-          <o:p> </o:p>
+	(a)	the 2002-03 GST year; and
+ 	(b)	any GST year that is prescribed to be a transitional GST year for the purpose of paragraph&#160;(b) of the definition of _transitional GST year_ in section&#160;4.
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        The Honourable Peter Douglas Beattie,
-          <o:p></o:p>
+<dl compact=""><dl compact="">
 
-      </div>
-      <div>
-        Premier of the State of
-        <st1:state>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            Queensland
-          </st1:place>
-        </st1:state>
-        ,
-          <o:p></o:p>
+<dt>(2)</dt><dd>If the amount to which a State would be entitled under section&#160;13 is
 
-      </div>
-      <div>
-        on the 25th day of June 1999
-          <o:p></o:p>
+less than the guaranteed minimum amount for that State for the GST year, the
 
-      </div>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+State is entitled to a grant equal to the shortfall.
 
-          <o:p> </o:p>
+</dd> </dl></dl>
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+7  Residual adjustment amounts for grants under clause&#160;6
 
-          <o:p> </o:p>
+<dl compact=""><dl compact="">
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        The Honourable
-        <st1:street>
-          <st1:address style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            Richard Fairfax Court
-          </st1:address>
-        </st1:street>
-        ,
-          <o:p></o:p>
+<dt>(1)</dt><dd>The Treasurer must, in relation to each GST year to which clause&#160;6
 
-      </div>
-      <div>
-        Premier of the State of
-        <st1:state>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            Western Australia
-          </st1:place>
-        </st1:state>
-        ,
-          <o:p></o:p>
+applies (including any such year that has ended before the commencement of this
 
-      </div>
-      <div>
-        on the 29th day of June 1999
-          <o:p></o:p>
+clause), determine whether there is a residual adjustment amount for a State
 
-      </div>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+for the GST year. A residual adjustment amount may be either an amount that is
 
-          <o:p> </o:p>
+recoverable from, or an amount that is payable to, the State.</dd> <dt>(2)</dt><dd>A determination under subclause&#160;(1) must be made in a manner agreed by the Commonwealth and all of the States.</dd> <dt>(3)</dt><dd>If a residual adjustment amount for a State for a GST year is an amount that is recoverable from the State, the Treasurer must deduct an amount or amounts equal in total to the residual adjustment amount from an amount or amounts the State is entitled to receive by way of financial assistance under this Act for the GST year in which the determination of the amount is made or the next GST year.</dd> <dt>(4)</dt><dd>If a residual adjustment amount for a State for a GST year is an amount that is payable to the State, the Treasurer must add an amount or amounts equal in total to the residual adjustment amount to an amount or amounts the State is entitled to receive by way of financial assistance under this Act for the GST year in which the determination of the amount is made or the next GST year.</dd> <dt>(5)</dt><dd>The Treasurer may, by signed writing, delegate to an SES employee in the Department all or any of the Treasurer's functions under subclauses&#160;(1), <dt>(3)</dt><dd>and (4). The delegate must perform a delegated function subject to any directions of the Treasurer. </dd></dd> </dl></dl>
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+<center>Back to Top</center>
 
-          <o:p> </o:p>
+<center>**
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        The Honourable John Wayne Olsen,
-          <o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999Schedule&#160;2&#151;Intergovernmental Agreement on the Reform of Commonwealth-State Financial Relations 
+**</center>
 
-      </div>
-      <div>
-        Premier of the State of
-        <st1:state>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            South Australia
-          </st1:place>
-        </st1:state>
-        ,
-          <o:p></o:p>
+ Note:	See section&#160;10.
 
-      </div>
-      <div>
-        on the 25th day of June 1999
-          <o:p></o:p>
+THE COMMONWEALTH OF AUSTRALIA
+ THE STATE OF NEW SOUTH WALES
+ THE STATE OF VICTORIA
+ THE STATE OF QUEENSLAND
+ THE STATE OF WESTERN AUSTRALIA
+ THE STATE OF SOUTH AUSTRALIA
+ THE STATE OF TASMANIA
+ THE AUSTRALIAN CAPITAL TERRITORY, AND
+ THE NORTHERN TERRITORY OF AUSTRALIA
+ <u>WHEREAS </u>
+ (1)	the Special Premiers' Conference on 13&#160;November 1998 developed principles for the reform of Commonwealth-State financial relations;
+ (2)	the Commonwealth, States and Territories are in agreement that the current financial relationship between levels of government must be reformed to facilitate a stronger and more productive federal system for the new millennium;
+ (3)	while a majority of the States and Territories support the introduction of the Goods and Services Tax (GST), the agreement of New South Wales, Queensland and Tasmania to the reform of Commonwealth-State financial relations does not imply their in-principle endorsement of the GST;
+ (4)	an Agreement was reached between the Commonwealth and the States and Territories on the reform of Commonwealth-State financial relations on 9&#160;April 1999;
+ (5)	this revised Agreement was made necessary by the changes to the Commonwealth Government's A New Tax System (ANTS) package announced by the Prime Minister on 28&#160;May 1999; and
+ (6)	this revised Agreement supersedes the previous Agreement of 9&#160;April 1999: 
+ <u>IT IS HEREBY AGREED:</u>
+ PART&#160;1&#151;PRELIMINARY
+ Commencement Clause
+ 1.	This Agreement will commence between the Commonwealth, the States and the Territories on 1&#160;July 1999 unless otherwise agreed by the Parties.
+ Objectives
+ 2.	The objectives of the reforms set down in this agreement include:
+ 	(i)	the achievement of a new national tax system, including the elimination of a number of existing inefficient taxes which are impeding economic activity;
+ 	(ii)	the provision to State and Territory Governments of revenue from a more robust tax base that can be expected to grow over time; and
+ 	(iii)	an improvement in the financial position of all State and Territory Governments, once the transitional changes have been completed, relative to that which would have existed had the current arrangements continued.
+ 3.	All Parties to the Agreement acknowledge the need to pursue on-going reform of Commonwealth-State financial relations.
+ Acknowledgement of Agreement 
+ 4.	The Commonwealth will attach the Agreement as a schedule to the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_. The Commonwealth will use its best endeavours to ensure the Act will require compliance with the Agreement. The States and Territories will attach the Agreement as a schedule to relevant State and Territory legislation. The States and Territories will use their best endeavours to ensure their legislation will require compliance with the Agreement. 
+ PART&#160;2&#151;COMMONWEALTH-STATE FINANCIAL REFORM
+ Reform Measures
+ 5.	The Parties will undertake all necessary steps to have appropriate legislation enacted to give effect to the following reform measures.
+ 	(i)	The Commonwealth will legislate to provide all of the revenue from the GST to the States and Territories and will legislate to maintain the rate and base of the GST in accordance with this Agreement. 
+ 	(ii)	The Commonwealth will cease to apply the Wholesale Sales Tax from 1&#160;July 2000 and will not reintroduce it or a similar tax in the future.
+ 	(iii)	The temporary arrangements for the taxation of petrol, liquor and tobacco under the safety net arrangements announced by the Commonwealth on 6&#160;August 1997 will cease on 1&#160;July 2000.
+ 	(iv)	The payment of Financial Assistance Grants will cease on 1&#160;July 2000.
+ 	(v)	The Commonwealth will continue to provide Specific Purpose Payments (SPPs) to the States and Territories and has no intention of cutting aggregate SPPs as part of the reform process set out in this Agreement, consistent with the objective of the State and Territory Governments being financially better off under the new arrangements.
+ 	(vi)	The States and Territories will cease to apply the taxes referred to in <u>Appendix A</u> from the dates outlined below and will not reintroduce them or similar taxes in the future.
 
-      </div>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+*	Bed taxes, from 1&#160;July 2000; 
 
-          <o:p> </o:p>
+<center>Back to Top</center>
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+*	Financial Institutions Duty, from 1&#160;July 2001;
 
-          <o:p> </o:p>
+*	Stamp duties on quoted marketable securities from 1&#160;July 2001;
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        The Honourable James Alexander Bacon,
-          <o:p></o:p>
+*	Debits tax by 1&#160;July 2005, subject to review by the Ministerial Council;
+ 	(vii)		The Ministerial Council will by 2005 review the need for retention of stamp duty on non-residential conveyances; leases; mortgages, debentures, bonds and other loan securities; credit arrangements, installment purchase arrangements and rental arrangements; and on cheques, bills of exchange, promissory notes; and unquoted marketable securities.
+ 	(viii)	The States and Territories will adjust their gambling tax arrangements to take account of the impact of the GST on gambling operators.
+ 	(ix)	Following negotiations under the CSHA, the States and Territories will ensure that increases in pensions and allowances specified in the tax reform package will not flow through to increased public housing rents where these rents are linked to the level of pensions.
+ 	(x)	Nothing in this clause will prevent any Party from introducing anti-avoidance measures that are reasonably necessary to protect its remaining tax base or liabilities accrued prior to the date the tax ceases to apply. 
+ GST Legislation
+ 6.	All Parties agree to reconsider this Agreement should the Commonwealth Parliament pass the GST legislation in a way that significantly affects this Agreement.
+ Distribution of GST Revenue
+ 7.	The Commonwealth will make GST revenue grants to the States and Territories equivalent to the revenue from the GST subject to the arrangements in this Agreement. GST revenue grants will be freely available for use by the States and Territories for any purpose.
+ 8.	The Commonwealth will distribute GST revenue grants among the States and Territories in accordance with horizontal fiscal equalisation (HFE) principles subject to the transitional arrangements set out below and other relevant provisions of this Agreement. 
+ 9.	Details of the payment arrangements are contained in <u>Appendix B</u> to this Agreement.
+ Transitional Arrangements
+ 10.	In each of the  transitional years  following the introduction of the GST, the Commonwealth guarantees that the budgetary position of each individual State and Territory will be no worse off than it would have been had the reforms set out in this Agreement not been implemented.
+ 11.	The Commonwealth will extend the transitional period by Regulation (as provided for in the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_) to give effect to the commitments in clause&#160;10 in the event that transitional assistance is required by any State or Territory after 30&#160;June 2003.
+ 12.	To meet this guarantee, the Commonwealth will make transitional assistance payments to each State and Territory, as necessary, over this period. These payments will take the form of interest free loans and grants in July 2000-01 and grants paid quarterly in subsequent years and will be freely available for use by the States and Territories for any purpose. Any payments or repayments made by way of loans or grants under the Commonwealth's guarantee will be excluded from assessments of per capita relativities recommended by the Commonwealth Grants Commission (CGC).
+ 13.	The amounts of any additional assistance under the guarantee will be determined in accordance with the processes set out in <u>Appendix C</u> to this Agreement. 
+ 14.	After the second year following the introduction of the GST, GST revenue grants will be determined on the basis of HFE principles. That is, after the first two years, any State or Territory which is receiving more than would have been received under the current arrangements will retain that excess.
+ First Home Owners Scheme
+ 15.	To offset the impact of the introduction of a GST, the States and Territories will assist first homebuyers through the funding and administration of a new uniform First Home Owners Scheme.
+ 16.	This assistance will be provided to first home owners consistent with <u>Appendix D</u> to this Agreement. 
+ Application of the GST to Government
+ 17.	The Parties intend that the Commonwealth, States, Territories and local government and their statutory corporations and authorities will operate as if they were subject to the GST legislation. They will be entitled to register, will pay GST or make voluntary or notional payments where necessary and will be entitled to claim input tax credits in the same way as non-Government organisations. All such payments will be included in GST revenue.
+ 18.	The Commonwealth will legislate to require the States and the Northern Territory to withhold from any local government authority being in breach of clause&#160;17 a sum representing the amount of unpaid voluntary or notional GST payments. Amounts withheld will form part of the GST revenue pool. Detailed arrangements will be agreed by the Ministerial Council on advice from Heads of Treasuries.
+ Government Taxes and Charges
+ 19.	The Commonwealth, States and Territories agree that the GST does not apply to the payment of some taxes and compulsory charges. 
 
-      </div>
-      <div>
-        Premier of the State of
-        <st1:state>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            Tasmania
-          </st1:place>
-        </st1:state>
-        ,
-          <o:p></o:p>
+<center>Back to Top</center>
+ 20.	The Parties will agree a list of taxes and compulsory charges that are outside the scope of the GST. This list will be promulgated by a determination by the Commonwealth Treasurer as set out in Division&#160;81-5 of the _A New Tax System (Goods and Services Tax) Act 1999_ (the GST Act).
+ 21.	In agreeing the list, the Commonwealth, States and Territories will have regard to the following principles:
+ 	(i)	taxes that are in the nature of a compulsory impost for general purposes and compulsory charges by the way of fines or penalties should not be subject to GST as these will not relate to any specific supply of goods or services;
+ 	(ii)	similarly, those regulatory charges that do not relate to particular goods or services should be outside the scope of the GST; and
+ 	(iii)	the inclusion of any other charge in the Commonwealth Treasurer's determination notwithstanding that it may relate to the supply of a particular good or service will require the unanimous agreement of the Commonwealth, States and Territories.
+ 22.	The agreed list of taxes and other compulsory charges that are outside the scope of the GST will be subject to on-going review and adjustment as necessary in consultation with the Ministerial Council. The Parties will notify any objections to changes to the list within a period to be specified by the Ministerial Council.
+ Reciprocal Taxation
+ 23.	Reciprocal taxation will be progressed on a revenue neutral basis, through the negotiation of a Reciprocal Taxation Agreement with the objectives of:
+ 	(i)	improving the transparency of tax arrangements between all levels of government;
+ 	(ii)	ensuring tax neutrality; and 
+ 	(iii)	replacing the Statement of Policy Intent (SOPI) for the taxation treatment of Government Business Enterprises with tax arrangements which are broader in scope. 
+ 24.	It is the intention of the Parties to this Agreement that a National Tax Equivalent Regime (NTER) for income tax will be operational for State and Territory government business enterprises from 1&#160;July 2000\. It is also intended that the reciprocal application of other Commonwealth, State and Territory taxes will be subsequently implemented as soon as practicable. 
+ 25.	Local government organisations will be consulted with a view to making the NTER for income tax operational for wholly owned local government business enterprises from 1&#160;July 2000 and including local government in the Reciprocal Tax Agreement at a later date.
+ 26.	Where the application of full indirect reciprocal tax arrangements is prevented by the Constitution, jurisdictions have agreed to work cooperatively to introduce voluntary payment arrangements in these circumstances.
+ 27.	All governments have agreed that no further compensation payments will be payable by any jurisdiction under the SOPI.
+ Monitoring of Prices
+ 28.	In accordance with the _Trade Practices Act 1974_, as amended, the Australian Competition and Consumer Commission will formally monitor prices and take action against businesses that take pricing decisions in a manner inconsistent with tax reform. 
+ 29.	In order to ensure that these measures apply to the whole economy, the States and Territories will adopt the Schedule version of Part&#160;VB of the _Trade Practices Act 1974_ (Part&#160;XIAA of _The_ _New Tax System Price Exploitation Code_) to extend the measures in Part&#160;VB to cover those areas outside the Commonwealth's constitutional power. All Parties will work towards having any necessary legislation in place by 1&#160;July 1999.
+ 30.	The monitoring and prohibition on unreasonable pricing decisions will commence on 1&#160;July 1999 and continue until 30&#160;June 2002.
+ PART&#160;3&#151;ADMINISTRATION OF THE GST
+ Management of the GST Rate
+ 31.	After the introduction of the GST, a proposal to vary the 10 per cent rate of the GST will require:
+ 	(i)	the unanimous support of the State and Territory Governments;
+ 	(ii)	the endorsement by the Commonwealth Government of the day; and
+ 	(iii)	the passage of relevant legislation by both Houses of the Commonwealth Parliament. 
+ Management of the GST Base
+ 32.	Subject to clauses&#160;34, 35 and 36 of this Agreement, after the introduction of the GST, any proposal to vary the GST base will require:
+ 	(i)	the unanimous support of the State and Territory Governments;
+ 	(ii)	the endorsement by the Commonwealth Government of the day; and
+ 	(iii)	the passage of relevant legislation by both Houses of the Commonwealth Parliament. 
+ 33.	All future changes to the GST base should be consistent with:
+ 	(i)	the maintenance of the integrity of the tax base;
+ 	(ii)	simplicity of administration; and
+ 	(iii)	minimising compliance costs for taxpayers.
+ 34.	A proposal to vary the GST base by way of a Ministerial determination under the GST Act and the GST Transition Act will require the unanimous agreement of the Ministerial Council established under clause&#160;40\. The Ministerial Council will develop practical arrangements to ensure timely consideration of proposed Ministerial determinations.
 
-      </div>
-      <div>
-        on the 25th day of June 1999
-          <o:p></o:p>
+<center>Back to Top</center>
+ 35.	During the first 12 months following the implementation of the GST, the Commonwealth Government will retain the discretion to make changes unilaterally to the GST base where such changes:
+ 	(i)	are of an administrative nature (as defined in <u>Appendix E</u> to this Agreement);
+ 	(ii)	are necessary to facilitate the implementation of the new tax; and 
+ 	(iii)	have regard to the need to protect the revenue of the States and Territories.
+ 36.	From July 2001, changes to the GST base of an administrative nature (as defined in <u>Appendix E</u>) would require the majority support of the Commonwealth, the States and the Territories.
+ Australian Taxation Office 
+ 37.	The States and Territories will compensate the Commonwealth for the  agreed costs incurred by the Australian Taxation Office (ATO) in administering the GST. 
+ 38.	Accountability and performance arrangements will be established between the ATO and the State and Territory Governments consistent with <u>Appendix F</u> to this Agreement. These arrangements will include maximising compliance, cost efficiency, simplicity for taxpayers and administrative transparency. 
+ 39.	The ATO and State and Territory Governments will collaborate to explore options for the States and Territories to benefit from the use of the Australian Business Number system.
+ PART&#160;4&#151;INSTITUTIONAL ARRANGEMENTS 
+ Establishment of Ministerial Council
+ 40.	A Ministerial Council comprising the Commonwealth, the States and the Territories will be established from 1&#160;July 1999 to oversee the operation of this Agreement.
+ 41.	The membership of the Ministerial Council will comprise the Treasurer of the Commonwealth and the Treasurers of the States and Territories (or designated representatives). 
+ 42.	The functions of the Ministerial Council will include:
+ 	(i)	the oversight of the operation of the GST; 
+ 	(ii)	the oversight and coordination of the implementation of this Agreement;
+ 	(iii)	the review of matters of operational significance raised through the GST Administration Sub-Committee;
+ 	(iv)	discussion of CGC recommendations regarding relativities prior to the Commonwealth Treasurer making a determination;
+ 	(v)	monitoring compliance with the conditions governing the provision of assistance to first home owners set out in <u>Appendix D</u> to this Agreement; 
+ 	(vi)	monitoring compliance with the Commonwealth's undertaking with respect to SPPs;
+ 	(vii)	considering reports of the GST Administration Sub-Committee on the performance of the ATO in GST administration;
+ 	(viii)	reviewing the operation of the Agreement over time and considering any amendments which may be proposed as a consequence of such review;
+ 	(ix)	making recommendations to the Commonwealth Treasurer on the Guaranteed Minimum Amount applying to each State and Territory under the Transitional Arrangements;
+ 	(x)	approving changes to the GST base which require the support of a majority of Commonwealth, State and Territory Governments; 
+ 	(xi)	considering on-going reform of Commonwealth-State financial relations; and
+ 	(xii)	considering other matters covered in this Agreement.
+ 43.	The Treasurer of the Commonwealth will convene the Ministerial Council in consultation with the other members of the Council not less than once each financial year. If the Commonwealth Treasurer receives a request from a member of the Council, he will consult with the other members concerning convening a meeting. The Treasurer of the Commonwealth will be the chair of the Council. The Council may also conduct its business by correspondence. 
+ 44.	All questions arising in the Ministerial Council will be determined by unanimous agreement unless otherwise specified in this Agreement.
+ 45.	While it is envisaged that the Ministerial Council will take decisions on most business arising from the operation of this Agreement, major issues will be referred by the Ministerial Council to Heads of Government for consideration, including under the auspices of the Council of Australian Governments. 
+ 46.	The Ministerial Council will establish a GST Administration Sub-Committee comprised of Commonwealth, State and Territory officials to monitor the operation of the GST, make recommendations regarding possible changes to the GST base and rate and to monitor the ATO's performance in GST administration. The GST Administration Sub-Committee will function in accordance with the arrangements set out in <u>Appendix E</u> to this Agreement.
+ <u>SIGNED</u> for and on behalf of the Parties by:
 
-      </div>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>The Honourable John Winston Howard, 
+Prime Minister of the Commonwealth of Australia, 
+on the 20th day of June 1999</div>
 
-          <o:p> </o:p>
+  </td>
+  <td colspan="1" align="left">
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+  </td>
+</tr></table>
 
-          <o:p> </o:p>
+<center>Back to Top</center>
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        Kate Carnell,
-          <o:p></o:p>
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>The Honourable Robert John Carr, 
+Premier of the State of New South Wales, 
+on the 24th day of June 1999</div>
 
-      </div>
-      <div>
-        Chief Minister of the
-        <st1:state>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            Australian Capital Territory
-          </st1:place>
-        </st1:state>
-        ,
-          <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-      </div>
-      <div>
-        on the 22nd day of June 1999
-          <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
 
-      </div>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+  </td>
+  <td colspan="1" align="left">
 
-          <o:p> </o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>The Honourable Jeffrey Gibb Kennett, 
+Premier of the State of Victoria, 
+on the 26th day of June 1999</div>
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+  </td>
+  <td colspan="1" align="left">
 
-          <o:p> </o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
 
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        The Honourable Denis Gabriel Burke,
-          <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-      </div>
-      <div>
-        Chief Minister of the
-        <st1:state>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            Northern Territory
-          </st1:place>
-        </st1:state>
-        of
-        <st1:country-region>
-          <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">
-            Australia
-          </st1:place>
-        </st1:country-region>
-        ,
-          <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>The Honourable Peter Douglas Beattie, 
+Premier of the State of Queensland, 
+on the 25th day of June 1999</div>
 
-      </div>
-      <div>
-        on the 22nd day of June 1999
-          <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-      </div>
-      <div>
-        <o:p> </o:p>
-      </div>
-    </td>
-    <td>
-      <div>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
 
-          <o:p> </o:p>
+  </td>
+  <td colspan="1" align="left">
 
-      </div>
-    </td>
-  </tr>
-</tbody></table>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>The Honourable Richard Fairfax Court, 
+Premier of the State of Western Australia, 
+on the 29th day of June 1999</div>
 
-<o:p> </o:p>
+  </td>
+  <td colspan="1" align="left">
 
-<o:p> </o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
 
-APPENDICES<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-A:   Taxes Subject to Reform<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>The Honourable John Wayne Olsen, 
+Premier of the State of South Australia, 
+on the 25th day of June 1999</div>
 
-B:   Payment of GST Revenues to the States and Territories<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-C:   Transitional Arrangements <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
 
-D:   First Home Owners Scheme<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-E:   GST Administration <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>The Honourable James Alexander Bacon, 
+Premier of the State of Tasmania, 
+on the 25th day of June 1999</div>
 
-F:   GST Administration Performance Agreement—Guiding Principles<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-**APPENDIX A<o:p></o:p>**
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
 
-TAXES SUBJECT TO REFORM <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-The taxes which will cease to apply in accordance with paragraph 5 of this Agreement are set out below and in the relevant Commonwealth, State and Territory statutes as at <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="13" month="11">13 November 1998</st1:date>.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Kate Carnell, 
+Chief Minister of the Australian Capital Territory, 
+on the 22nd day of June 1999</div>
 
-A1.<span style="mso-tab-count: 1">    </span>The following taxes will cease to apply from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>:<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-<span style="mso-tab-count: 1">           </span>(i)<span style="mso-tab-count: 1">       </span>Wholesale Sales Tax <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
 
-Sales tax levied on the value of the last wholesale sale of goods sold or otherwise dealt with as imposed by the Commonwealth’s _Sales Tax (Imposition) Acts_.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-<span style="mso-tab-count: 1">          </span>(ii)<span style="mso-tab-count: 1">       </span>Bed Taxes <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>The Honourable Denis Gabriel Burke, 
+Chief Minister of the Northern Territory of Australia, 
+on the 22nd day of June 1999</div>
 
-Accommodation taxes levied on the cost of temporary residential accommodation.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-A2.<span style="mso-tab-count: 1">    </span>The following State and Territory taxes will cease to apply from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="7">1 July 2001</st1:date>:<o:p></o:p>
+  </td>
+</tr></table>
+ APPENDICES
+ A:	Taxes Subject to Reform
+ B:	Payment of GST Revenues to the States and Territories
+ C:	Transitional Arrangements 
+ D:	First Home Owners Scheme
+ E:	GST Administration 
+ F:	GST Administration Performance Agreement&#151;Guiding Principles
+ APPENDIX A
 
-<span style="mso-tab-count: 1">           </span>(i)<span style="mso-tab-count: 1">       </span>Financial Institutions Duty
+<center>Back to Top</center>
+ TAXES SUBJECT TO REFORM 
+ The taxes which will cease to apply in accordance with paragraph 5 of this Agreement are set out below and in the relevant Commonwealth, State and Territory statutes as at 13&#160;November 1998.
+ A1.	The following taxes will cease to apply from 1&#160;July 2000:
+ _(i)	Wholesale Sales Tax_
+ Sales tax levied on the value of the last wholesale sale of goods sold or otherwise dealt with as imposed by the Commonwealth's _Sales Tax (Imposition) Acts_.
+ _(ii)	Bed Taxes_
+ Accommodation taxes levied on the cost of temporary residential accommodation.
+ A2.	The following State and Territory taxes will cease to apply from 1&#160;July 2001:
+ _(i)	Financial Institutions Duty_ 
+ Financial Institutions Duty levied on the value of receipts (credits) at financial institutions and on the average daily liabilities and/or investments of short term money market dealers.
+ _(ii)	Stamp Duty on Marketable Securities_
+ Stamp duty levied on turnover (ie sale price times quantity traded) on the transfer of marketable securities quoted on the ASX or another recognised stock exchange.
+ This excludes transfers of marketable securities in private companies and trusts, and in public companies and trusts where the securities are not quoted on the ASX or another recognised stock exchange.
+ A3.	The following State and Territory tax will cease to apply by 1&#160;July 2005, subject to review by the Ministerial Council:
+ _(i)	Debits Tax_ 
+ Debits tax levied on the value of withdrawals (debits) from accounts with financial institutions with cheque drawing facilities. 
+ Debits duty levied on transactions, including credit card transactions. This does not include stamp duty on electronic debits (refer A4 (v) below).
+ A4.	The Ministerial Council will by 2005 review the need for retention of stamp duties on the following:
+ 	(i)	Stamp Duty on Non-residential Conveyances
+ Stamp duty levied on the value of conveyances other than residential property conveyances.
+ _(ii)	Stamp Duty on Non-quotable Marketable Securities_
+ Stamp duty levied on transfers of marketable securities in private companies and trusts, and in public companies and trusts where the securities are not quoted on the ASX or another recognised stock exchange.
+ _(iii)	Stamp Duty on Leases_
+ Stamp duty levied on the rental payable under tenancy agreements.
+ _(vi)	Stamp Duty on Mortgages, Bonds, Debentures and Other Loan Securities_
+ Stamp duty levied on the value of a secured loan property. 
+ _(v)	Stamp Duty on Credit Arrangements, Installment Purchase Arrangements and Rental Arrangements_
+ Stamp duty levied on the value of the loan under credit arrangements.
+ Stamp duty levied on credit business in respect of loans made, discount transactions and credit arrangements.
+ Stamp duty levied on the price of goods purchased under installment purchase arrangements.
+ Stamp duty levied on the rent paid in respect of the hire of goods, including consumer and producer goods.
+ _(vi)	Stamp Duty on Cheques, Bills of Exchange and Promissory Notes_
+ Stamp duty levied on cheques, bills of exchange, promissory notes, or other types of payment orders, promises to pay or acknowledgment of debts, including duty on electronic debits.
+ APPENDIX B
+ PAYMENT OF GST REVENUES TO THE STATES AND TERRITORIES
+ B1.	Subject to the transitional arrangements and other relevant provisions in this Agreement, the Commonwealth will distribute GST revenue grants among the States and Territories in accordance with horizontal fiscal equalisation (HFE) principles. 
+ B2.	The pool of funding to be distributed according to HFE principles in a financial year will comprise GST revenue grants and health care grants as defined under an Australian Health Care Agreement between the Commonwealth and the States and Territories. A State or Territory's share of the pool will be based on its population share, adjusted by a relativity factor which embodies per capita financial needs based on recommendations of the Commonwealth Grants Commission. The relativity factor for a State or Territory will be determined by the Commonwealth Treasurer after he has consulted with each State and Territory. 
+ B3.	The total amount of GST revenue to be provided to the States and Territories in a financial year will be defined as: 
+ (i)	the sum of GST collections, voluntary and notional payments made by government bodies, and amounts withheld pursuant to clause&#160;18; reduced by 
+ (ii)	the amounts paid or applied under Division&#160;35 of the GST Act and 
+<center>Back to Top</center>
+ under section&#160;39 of the _Taxation Administration Act 1953._
+ B4.	The total amount of GST revenue in a financial year will be determined by the Commissioner of Taxation in the following way:
+ (i)	actual outcomes for the items listed in paragraph B3 for the period 1&#160;July to 31&#160;May; plus
+ (ii)	estimated outcomes for the items listed in paragraph B3 for the month of June; plus
+ (iii)	an adjustment amount (which may be positive or negative) to account for any difference between the estimated and actual outcome for the items listed in paragraph B3 for the month of June in the previous year.
+ B5.	GST revenue grants will be paid by the Commonwealth on the twenty-seventh day of each month. Where the scheduled payment day is a Saturday, Sunday or public holiday in Canberra, the payment will be made on the next business day of the Reserve Bank of Australia in Canberra.
+ B6.	The States and Territories shall be informed of the quantum of each monthly payment by close of business Canberra time on the twenty sixth day of each month. Where the day is a Saturday, Sunday or public holiday in Canberra, the States and Territories shall be informed of the quantum of the payment on the last business day of the Reserve Bank of Australia in Canberra prior to payment day.
+ B7.	The distribution between the States and Territories of the payments of GST revenue grants up to 15&#160;June in each year will be based on: 
+ (i)	the Treasurer's determination of per capita relativities;
+ (ii)	the latest available Australian Bureau of Statistics' projections, or estimates, of State and Territory populations as at 31&#160;December;
+ (iii)	the latest available Department of Health and Aged Care estimates of health care grants to be provided to a State or Territory; and
+ (iv)	the latest available estimates of the guaranteed minimum amount for each State and Territory to be calculated under <u>Appendix C</u> of this Agreement.
+ 	The Commonwealth will inform the States and Territories of any changes to the estimates as part of the advice to be provided to the States and Territories under paragraph B6.
+ B8.	The payments of GST revenue grants after 15&#160;June in each year will take into account the determinations of:
+ (i)	per capita relativities and Guaranteed Minimum Amounts by the Treasurer;
+ (ii)	populations by the Statistician;
+ (iii)	health care grants by the Minister administering the _National Health Act 1953_; and 
+ (iv)	GST revenues by the Commissioner of Taxation.
+ 	For this purpose, the final payment will be made no later than the seventeenth day of June in each year. Where the seventeenth day of June is a Saturday, Sunday or public holiday in Canberra, the payment will be made on the next business day of the Reserve Bank of Australia in Canberra.
+ B9.	States shall be informed of the quantum of the final monthly payment of GST revenues grants by close of business Canberra time on the sixteenth day of June. Where the sixteenth day of June is a Saturday, Sunday or public holiday in Canberra, the Commonwealth shall inform the States of the quantum of the final payment on the last business day of the Reserve Bank of Australia in Canberra prior to the thirteenth.
+ B10.	The timing of payments of GST revenue grants may be varied by agreement between the Parties to this Agreement.
+ APPENDIX C
+ TRANSITIONAL ARRANGEMENTS
+ _Guarantee in Legislation_
+ C1.	Commonwealth legislation will provide a State or Territory with an entitlement to an additional amount of funding from the Commonwealth to offset any shortfall between its entitlement to GST revenue grants and the total amount of funding which would ensure that the budgetary position of a State or Territory is not worse off during the transition period.
+ (i)	In 2000-01, transitional assistance will be provided to a State or Territory as a grant or an interest free loan to be repaid to the Commonwealth in full in 2001-02.
+ (ii)	In subsequent transitional years, transitional assistance will be provided to a State or Territory as a grant.
+ _Guaranteed Minimum Amount_
+ C2.	The amount of a State or Territory's entitlement to transitional assistance in a financial year will be calculated by subtracting its entitlement to GST revenue grants from a "Guaranteed Minimum Amount" constructed in the following way:
+ 	<u>State revenues forgone</u>: financial assistance grants, revenue replacement payments and State and Territory taxes as defined in <u>Appendix A</u> of this Agreement with the exception of stamp duties on marketable securities which will be the amount as if fully abolished.
+ plus
+ 	<u>Reduced revenues</u>: the amount by which States and Territories adjust gambling taxation arrangements to take account of the impact of the GST on gambling operators.
+ plus
+ 	<u>Interest costs on cash flow shortfalls</u>: the interest cost incurred by 
+<center>Back to Top</center>
+ States and Territories as a result of the change to cash flows arising from the replacement of weekly financial assistance grants, revenue replacements and State and Territory taxes with monthly GST revenue grants.
+ plus
+ 	<u>Loan Repayments</u>: in 2001-02 only, the repayment of a guarantee loan by a State or Territory.
+ plus
+ 	<u>Additional expenditures</u>: payments to first home owners in accordance with <u>Appendix D</u> of this Agreement and the amount of the agreed GST administration costs payable to the ATO by a State or Territory.
+ plus
+ 	<u>Other items</u>: $338 million spread evenly over three years starting in 2000-01 in respect of the claim by States and Territories in relation to revenue forgone from the abolition of the Wholesale Sales Tax (WST) Tax Equivalent Regimes (with the distribution to be agreed among the States and Territories).
+ minus
+ 	<u>Reduced expenditures</u>: off-road diesel subsidies and reduced costs from the removal of embedded WST and excises on purchases by a State or Territory government.
+ minus
+ 	<u>Growth dividend</u>: the increase in revenue to a State or Territory (not including GST revenue payments) that is attributable to the impact of the Commonwealth's taxation reform measures on economic growth. 
+ plus
+ 	<u>Adjustments:</u> from 2001-02, the net difference between preliminary estimates and outcomes or final estimates for items that were taken into account in the previous year's Guaranteed Minimum Amount.
+ In addition, $269 million in total, spread evenly over three years, will be included in the new Commonwealth State Housing Agreement starting in 2000-01 in respect of the net increased public housing costs as a result of tax reform (with the distribution to be agreed among the States and Territories).
+ _Heads of Treasuries&apos; Advice to Ministerial Council_
+ C3.	The Guaranteed Minimum Amount for a State or Territory will be determined by the Commonwealth Treasurer by 10&#160;June of each year of the transition period. The Ministerial Council will make recommendations to the Treasurer on the Guaranteed Minimum Amount for each State and Territory.
+ C4.	The Heads of Treasuries will provide written advice to the Ministerial Council on the following issues by the indicated dates. 
+ (i)	By 1&#160;March 2000, advice on the estimated loans and grants to be provided to each State and Territory in 2000-01 and the amounts which the Commonwealth should provide to each State and Territory on Tuesday 4&#160;July 2000.
+ (ii)	By 1&#160;November 2000 advice on the most recent estimates of transitional assistance for the year and any adjustment that may need to be made to the amount of the loans and grants made to each State and Territory. 
+ (iii)	By 1&#160;September of each subsequent year of the transition period, advice on the most recent estimates of the transitional assistance to be provided to each State and Territory in the financial year and the installment amounts which the Commonwealth should provide to each State and Territory on the first Tuesday of the following October and January. This advice should identify the adjustments for the net difference between preliminary estimates and outcomes or final estimates for items that were taken into account in the previous year's Guaranteed Minimum Amount for a State or Territory.
+ (iv)	By 1&#160;March of each subsequent year of the transition period, advice on the most recent estimates of the transitional assistance to be provided to each State and Territory in both the current financial year and the next financial year, and the installment amounts which the Commonwealth should provide to each State and Territory on the first Tuesday of the following April and July.
+ (v)	By 1&#160;June of each year of the transition period, advice on the Guaranteed Minimum Amount for each State and Territory in the current financial year.
+ _Frequency and Amounts of Payments and Repayments_
+ C5.	In each year of the transitional period after 2000-01, the Commonwealth will provide an installment of the guarantee payment to a State or Territory on the first Tuesday (or the first business day thereafter) of January, April, July and October. The installment amounts will reflect the advice to be provided to the Ministerial Council by the Heads of Treasuries under paragraph C4.
+ C6.	Adjustments to the total amount of additional assistance to a State or Territory in light of actual GST collections and the Treasurer's determination of the Guaranteed Minimum Amount will be made in conjunction with the payments of GST revenue grants after 10&#160;June in each year.
+ C7.	A State or Territory will repay a loan which it receives from the Commonwealth in 2000-01 in quarterly installments in 2001-02\. These installments will be paid to the Commonwealth on the same day on which a State or Territory receives an amount of GST revenue grants in the months of July, October, January and April.
 
-Financial Institutions Duty levied on the value of receipts (credits) at financial institutions and on the average daily liabilities and/or investments of short term money market dealers.<o:p></o:p>
+<center>Back to Top</center>
+ C8.	The methodology for calculating the amounts of particular components of the Guaranteed Minimum Amount for a State or Territory has been agreed by the Heads of Treasuries and is set out in the document titled _Methodology for Estimation of Components of the Guaranteed Minimum Amount_. 
+ APPENDIX D
+ FIRST HOME OWNERS SCHEME
+ Principles
+ D1.	The States and Territories will make legislative provision for the First Home Owners Scheme (FHOS) from 1&#160;July 2000 which will incorporate programme criteria consistent with the following principles:
+ (i)	Eligible applicants will be entitled to $7,000 assistance (per application) on eligible homes under the FHOS.
+ (ii)	Assistance will be available directly as a one off payment. If the recipient expressly consents, it may be available as an offset against statutory levies and charges or some combination of these.
+ (iii)	Eligible applicants must be natural persons who are Australian citizens or permanent residents who are buying or building their first home in Australia. An applicant's spouse (or de facto) must be included on the application.
+ (iv)	To qualify for assistance, neither the applicant or the applicant's spouse (or de facto) must have previously owned a home, either jointly, separately or with some other person.
+ (v)	Entering into a binding contract or commencement of building in the case of owner builders, must have occurred on or after 1&#160;July 2000.
+ (vi)	An eligible home will be a new or established house, home unit, flat or other type of self contained fixed dwelling that meets local planning standards. Fixed dwellings will include demountable dwellings where these meet local planning standards. 
+ (vii)	An eligible home must be intended to be a principal place of residence and occupied within a reasonable period. The home must be located in the State or Territory in which the application is made. Applicants who have entered into a financing mechanism which involves a shared equity arrangement will be eligible.
+ (viii)	Assistance will not be means tested.
+ (ix)	The relevant State and Territory legislation will contain adequate administrative review and appeal mechanisms, along with provision to prevent abuse of the FHOS. The States and Territories will cooperate in the exchange of information to identify eligible first home owners.
+ Other matters
+ D2.	Funding of grants under the FHOS may not be drawn from Home Purchase Assistance (HPA) funds provided through the Commonwealth State Housing Agreement, including the pool of existing HPA revenues.
+ D3.	Further details concerning eligibility criteria consistent with the above principles are to be agreed between the Commonwealth and each State and Territory.
+ D4.	The States and Territories will not introduce or vary any taxes or charges associated with home purchase with the intention of offsetting the benefits of the FHOS for recipients.
+ APPENDIX E
+ GST ADMINISTRATION
+ E1.	The Commissioner of Taxation has the general administration of the GST law.
+ E2.	The ATO will arrange for the Australian Customs Service to assist with the collection of the GST on imports. 
+ E3.	During the first 12 months following the implementation of the GST, the Commonwealth will retain the discretion to make changes to the GST base of an administrative nature. For this purpose, changes of an administrative nature involves legislation necessary to:
+ (i)	protect the integrity of the GST base; or
+ (ii)	prevent tax avoidance.
+ E4.	The Commonwealth will include the definition of change of an administrative nature in the _A New Tax System (Commonwealth-State Financial Arrangements) Bill 1999_.
+ E5.	From July 2001, changes of an administrative nature as defined in E3 will require the majority support of the Commonwealth, States and Territories. 
+ E6.	The GST Administration Sub-Committee, which will commence operation from 1&#160;July 1999, will monitor the operation and administration of the GST and make recommendations regarding modifications to the GST and the administration of the GST. 
+ E7.	The GST Administration Sub-Committee will comprise officials from each Party to the Agreement including representatives from the ATO as required. The Commonwealth Treasury will chair the GST Administration Sub-Committee.
+ E8.	The Chair will convene the GST Administration Sub-Committee in consultation with other members of the Sub-Committee as often as may be necessary to conduct its business. If the Chair receives a request from a member of the Sub-Committee, the Chair will consult with the other members concerning convening a meeting. 
+ E9.	The functions of the Sub-Committee will include:
+ (i)	monitoring the performance of the ATO in the administration of the GST (<u>Appendix F</u> of this Agreement);
 
-<span style="mso-tab-count: 1">          </span>(ii)<span style="mso-tab-count: 1">       </span>Stamp Duty on Marketable Securities
+<center>Back to Top</center>
+ (ii)	the assessment of policy proposals for the modification of the GST rate and base;
+ (iii)	making recommendations to the Ministerial Council on the need for legislation which might significantly affect the GST base; and
+ (iv)	requesting the ATO to produce draft Public Rulings in specified areas.
+ E10.	The States and Territories will be consulted on draft Public Rulings prior to consideration by the ATO Rulings Panel and before public consultation. There will be a representative from the States and Territories on the ATO Rulings Panel in relation to GST matters. 
+ E11.	Public rulings will not be referred to the Ministerial Council. However, the GST Administration Sub-Committee will refer a proposed GST change to the Ministerial Council for consideration if the Sub-Committee is of the view that the change could have a significant impact on GST revenues and so warrants Ministerial review.
+ E12.	Draft legislation which might significantly affect the GST base will be forwarded through the GST Administrative Sub-Committee to the Ministerial Council for consideration.
+ APPENDIX F
+ GST ADMINISTRATION PERFORMANCE AGREEMENT&#151;GUIDING PRINCIPLES
+ Preamble
+ F1.	This Appendix outlines the principles that will guide the subsequent development of a GST Administration Performance Agreement (the Performance Agreement) between the ATO and its agents, and the States and Territories (the Parties).
+ Objectives and Context of the Performance Agreement
+ F2.	The purpose of the Performance Agreement is to provide accountability between the ATO and the States and Territories on behalf of whom the GST revenue is being collected. It also provides an agreed basis for the GST Administration Sub-Committee to monitor the administration of the GST by the ATO and its agents in return for the agreed GST administration costs being paid by the States and Territories.
+ F3.	The Performance Agreement will reflect the commitment by the Parties to:
+ (i)	achieving world's best practice for GST administration in Australia;
+ (ii)	a cost-effective and transparent GST administration; and
+ (iii)	a cooperative relationship between the Parties.
+ F4.	The Performance Agreement will recognise that achievement of world's best practice GST administration, including cost-effectiveness, is dependent on the GST policy framework and integrated administrative design. 
+ F5.	The Performance Agreement will be consistent with the arrangements set out in this Intergovernmental Agreement _._
+ Components of Agreement
+ F6.	The Performance Agreement will include outcomes to be achieved, budgeting arrangements and monitoring and review arrangements for the purposes of maintaining accountability and transparency of operations. The Performance Agreement will also include the process for raising matters of operational significance with the Ministerial Council.
+ Outcomes
+ F7.	The Performance Agreement will stipulate performance outcomes and appropriate benchmarks to be achieved by the ATO. These outcomes may include, but are not limited to: revenue, taxpayer registration, compliance, reporting, education and legislative review. Consistent with the objectives of the Agreement, the benchmarks are to reflect world best practice in GST administration. 
+ Cost of Administration
+ F8.	The Performance Agreement will outline the Commonwealth administration activities that are GST related for the purposes of agreeing the GST administration costs.
+ F9.	The Performance Agreement will stipulate arrangements for an audit of GST costs and the systems for the control of GST costs. 
+ F10.	The Performance Agreement will outline the process and timing of consultation for developing/modifying budgets and business plans for GST administration. These budgets and business plans will be developed, and/or revised, in an appropriate and timely manner so as to broadly accord with Commonwealth arrangements for funding agency operations.
+ F11.	The Performance Agreement will recognise that the States and Territories will fully compensate the Commonwealth for the agreed costs of administering the GST. 
+ Monitoring and Review
+ F12.	The Performance Agreement will stipulate the:
+ (i)	number and timing of formal reports by the ATO to the Sub-Committee;
+ (ii)	number and timing of progress reports by the ATO to the Sub-Committee; and
+ (iii)	arrangements for special briefings on particular issues.
+ F13.	The Parties to the Performance Agreement will ensure appropriate alignment of ATO Parliamentary reporting responsibilities and reporting responsibilities under the Performance Agreement. 
+ F14.	The Performance Agreement will stipulate that ATO reports to the Sub-Committee on outcomes will include:
+ (i)	updates on relevant internal governance arrangements, including appropriate strategic plans and annual and other relevant reports that scrutinise aspects 
+<center>Back to Top</center>
+ of GST operations (including annual and other relevant reports from the Australian National Audit Office);
+ (ii)	accrual-based financial reports;
+ (iii)	key outcome performance indicators (including, registrations, revenue, refunds, costs, key processing workloads, Taxpayer Charter standards and international benchmark comparisons); 
+ (iv)	litigation and public ruling information;
+ (v)	updates on relevant compliance and cost-of-compliance research; 
+ (vi)	administrative base issues; and
+ (vii)	commentary on administrative performance and any key emerging GST compliance issues and related initiatives.
+ F15.	The Performance Agreement will ensure that the States and Territories will have access to GST data held by the ATO subject to statutory limitations.
+ Matters of Operational Significance
+ F16.	The Performance Agreement will outline arrangements for raising matters of operational significance with the Ministerial Council. Matters of operational significance may include disputes over the interpretation of the Performance Agreement and non-performance by the ATO against agreed targets. The Performance Agreement will ensure that the ATO will have the opportunity to provide direct advice to the Ministerial Council on any matters submitted to the Council.
+ Development of Agreement
+ F17.	The Performance Agreement will be developed by the GST Administration Sub-Committee and representatives of the ATO. The Performance Agreement is to be developed with reference to both:
+ (i)	the guiding principles outlined in this Appendix; and
+ (ii)	actual GST performance data (including revenue) in the Australian context, gathered during the transitional years.
+ F18.	The Performance Agreement is to be finalised by the end of the GST transitional year ending June 2002\. The Performance Agreement is to be endorsed by the Ministerial Council prior to being signed.
+ F19.	The Performance Agreement will stipulate the process for its amendment. 
+ Transitional Arrangements
+ F20.	The ATO and the GST Administration Sub-Committee will discuss key operational issues and costs commencing in October 1999 and on a semiannual basis throughout the GST transitional year ending 30&#160;June 2002.
+ F21.	The ATO will arrange for an audit of the systems for the control of GST costs and the GST costs incurred during the period from 1&#160;July 1999 to the date of the signing of the Performance Agreement by the Parties. 
+ F22.	The ATO will undertake to establish, by the end of the Transitional year ending 30&#160;June 2002, final GST benchmarking arrangements with relevant overseas administrations, subject to their agreement. The ATO will discuss benchmarking plans with the GST Administration Sub-Committee. 
 
-Stamp duty levied on turnover (ie sale price times quantity traded) on the transfer of marketable securities quoted on the ASX or another recognised stock exchange.<o:p></o:p>
+<center>**
 
-This excludes transfers of marketable securities in private companies and trusts, and in public companies and trusts where the securities are not quoted on the ASX or another recognised stock exchange.<o:p></o:p>
+###  A NEW TAX SYSTEM (COMMONWEALTH-STATE FINANCIAL ARRANGEMENTS) ACT 1999<centreit>Notes to the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ </centreit>
+**</center>
 
-A3.<span style="mso-tab-count: 1">    </span>The following State and Territory tax will cease to apply by <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>, subject to review by the Ministerial Council:<o:p></o:p>
+**Note 1**
 
-<span style="mso-tab-count: 1">           </span>(i)<span style="mso-tab-count: 1">       </span>Debits Tax
+The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ as shown in this compilation comprises Act No.&#160;110, 1999 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
-Debits tax levied on the value of withdrawals (debits) from accounts with financial institutions with cheque drawing facilities. <o:p></o:p>
+**Table of Acts**
 
-Debits duty levied on transactions, including credit card transactions. This does not include stamp duty on electronic debits (refer A4 (v) below).
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
 
-A4.<span style="mso-tab-count: 1">    </span>The Ministerial Council will by 2005 review the need for retention of stamp duties on the following:<o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
+and year</div>
 
-<o:p> </o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
+of Assent</div>
 
-<span style="mso-tab-count: 1">           </span>(i)<span style="mso-tab-count: 1">       </span>Stamp Duty on Non-residential Conveyances<o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
 
-Stamp duty levied on the value of conveyances other than residential property conveyances.<o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
 
-<span style="mso-tab-count: 1">          </span>(ii)<span style="mso-tab-count: 1">       </span>Stamp Duty on Non-quotable Marketable Securities <o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>A New Tax System (Commonwealth-State Financial Arrangements) Act 1999</i></div>
 
-Stamp duty levied on transfers of marketable securities in private companies and trusts, and in public companies and trusts where the securities are not quoted on the ASX or another recognised stock exchange.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>110, 1999</div>
 
-<span style="mso-tab-count: 1">         </span>(iii)<span style="mso-tab-count: 1">       </span>Stamp Duty on Leases<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>10 Sept 1999</div>
 
-Stamp duty levied on the rental payable under tenancy agreements.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>10 Sept 1999</div>
 
-<span style="mso-tab-count: 1">         </span>(vi)<span style="mso-tab-count: 1">       </span>Stamp Duty on Mortgages, Bonds, Debentures and Other Loan Securities
+  </td>
+  <td colspan="1" align="left">
 
-Stamp duty levied on the value of a secured loan property. <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Public Employment (Consequential and Transitional) Amendment Act 1999</i></div>
 
-<span style="mso-tab-count: 1">          </span>(v)<span style="mso-tab-count: 1">       </span>Stamp Duty on Credit Arrangements, Installment Purchase Arrangements and Rental Arrangements<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>146, 1999</div>
 
-Stamp duty levied on the value of the loan under credit arrangements.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>11 Nov 1999</div>
 
-Stamp duty levied on credit business in respect of loans made, discount transactions and credit arrangements.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;1 (item&#160;95): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(a)</i></div>
 
-Stamp duty levied on the price of goods purchased under installment purchase arrangements.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-Stamp duty levied on the rent paid in respect of the hire of goods, including consumer and producer goods.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
 
-<span style="mso-tab-count: 1">         </span>(vi)<span style="mso-tab-count: 1">       </span>Stamp Duty on Cheques, Bills of Exchange and Promissory Notes<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-Stamp duty levied on cheques, bills of exchange, promissory notes, or other types of payment orders, promises to pay or acknowledgment of debts, including duty on electronic debits.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-**APPENDIX B<o:p></o:p>**
+  </td>
+  <td colspan="1" align="left">
 
-PAYMENT OF GST REVENUES TO THE STATES AND TERRITORIES<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-B1.<span style="mso-tab-count: 1">    </span>Subject to the transitional arrangements and other relevant provisions in this Agreement, the Commonwealth will distribute GST revenue grants among the States and Territories in accordance with horizontal fiscal equalisation (HFE) principles. <o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Statute Law Revision Act 2002</i></div>
 
-B2.<span style="mso-tab-count: 1">    </span>The pool of funding to be distributed according to HFE principles in a financial year will comprise GST revenue grants and health care grants as defined under an Australian Health Care Agreement between the Commonwealth and the States and Territories. A State or Territory’s share of the pool will be based on its population share, adjusted by a relativity factor which embodies per capita financial needs based on recommendations of the Commonwealth Grants Commission. The relativity factor for a State or Territory will be determined by the Commonwealth Treasurer after he has consulted with each State and Territory. <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>63, 2002</div>
 
-B3.<span style="mso-tab-count: 1">    </span>The total amount of GST revenue to be provided to the States and Territories in a financial year will be defined as: <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>3&#160;July 2002</div>
 
-(i)<span style="mso-tab-count: 1">       </span>the sum of GST collections, voluntary and notional payments made by government bodies, and amounts withheld pursuant to clause 18; reduced by <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;2 (item&#160;17): <i>(aa)</i></div>
 
-(ii)<span style="mso-tab-count: 1">      </span>the amounts paid or applied under Division 35 of the GST Act and under section 39 of the _Taxation Administration Act 1953._<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-B4.<span style="mso-tab-count: 1">    </span>The total amount of GST revenue in a financial year will be determined by the Commissioner of Taxation in the following way:<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>A New Tax System (Indirect Tax and Consequential Amendments) Act (No.&#160;2) 1999</i></div>
 
-(i)<span style="mso-tab-count: 1">       </span>actual outcomes for the items listed in paragraph B3 for the period 1 July to 31 May; plus<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>177, 1999</div>
 
-(ii)<span style="mso-tab-count: 1">      </span>estimated outcomes for the items listed in paragraph B3 for the month of June; plus<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>22 Dec 1999</div>
 
-(iii)<span style="mso-tab-count: 1">     </span>an adjustment amount (which may be positive or negative) to account for any difference between the estimated and actual outcome for the items listed in paragraph B3 for the month of June in the previous year.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Schedule&#160;3: <i>(b)</i></div>
 
-B5.<span style="mso-tab-count: 1">    </span>GST revenue grants will be paid by the Commonwealth on the twenty-seventh day of each month. Where the scheduled payment day is a Saturday, Sunday or public holiday in <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>, the payment will be made on the next business day of the Reserve Bank of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> in <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
 
-B6.<span style="mso-tab-count: 1">    </span>The States and Territories shall be informed of the quantum of each monthly payment by close of business <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city> time on the twenty sixth day of each month. Where the day is a Saturday, Sunday or public holiday in <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>, the States and Territories shall be informed of the quantum of the payment on the last business day of the Reserve Bank of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> in <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city> prior to payment day.<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>A New Tax System (Commonwealth-State Financial Arrangements) Amendment Act 2004</i></div>
 
-B7.<span style="mso-tab-count: 1">    </span>The distribution between the States and Territories of the payments of GST revenue grants up to 15 June in each year will be based on: <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>21, 2004</div>
 
-(i)<span style="mso-tab-count: 1">       </span>the Treasurer’s determination of per capita relativities;<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>23 Mar 2004</div>
 
-(ii)<span style="mso-tab-count: 1">      </span>the latest available Australian Bureau of Statistics’ projections, or estimates, of State and Territory populations as at 31 December;<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>23 Mar 2004</div>
 
-(iii)<span style="mso-tab-count: 1">     </span>the latest available Department of Health and Aged Care estimates of health care grants to be provided to a State or Territory; and<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Sch. 1 (items&#160;3, 10)</div>
 
-(iv)<span style="mso-tab-count: 1">     </span>the latest available estimates of the guaranteed minimum amount for each State and Territory to be calculated under <u>Appendix C</u> of this Agreement.<o:p></o:p>
+  </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ was amended by Schedule&#160;1 (item&#160;95) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
-<span style="mso-tab-count: 1">          </span>The Commonwealth will inform the States and Territories of any changes to the estimates as part of the advice to be provided to the States and Territories under paragraph B6.<o:p></o:p>
+	(1)	In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
+ 	(2)	Subject to this section, this Act commences at the commencing time. 
 
-B8.<span style="mso-tab-count: 1">    </span>The payments of GST revenue grants after 15 June in each year will take into account the determinations of:<o:p></o:p>
+_(aa)_	The _Public Employment (Consequential and Transitional) Amendment Act 1999_ was amended by Schedule&#160;2 (item&#160;17) only of the _Statute Law Revision Act 2002_, subsection 2(1) (item&#160;46) of which provides as follows:
 
-(i)<span style="mso-tab-count: 1">       </span>per capita relativities and Guaranteed Minimum Amounts by the Treasurer;<o:p></o:p>
+	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
-(ii)<span style="mso-tab-count: 1">      </span>populations by the Statistician;<o:p></o:p>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Commencement information</b></div>
 
-(iii)<span style="mso-tab-count: 1">     </span>health care grants by the Minister administering the _National Health Act 1953_; and <o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Column 1</b></div>
 
-(iv)<span style="mso-tab-count: 1">     </span>GST revenues by the Commissioner of Taxation.<o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 2</b></div>
 
-<span style="mso-tab-count: 1">          </span>For this purpose, the final payment will be made no later than the seventeenth day of June in each year. Where the seventeenth day of June is a Saturday, Sunday or public holiday in <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>, the payment will be made on the next business day of the Reserve Bank of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> in <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>.<o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Column 3</b></div>
 
-B9.<span style="mso-tab-count: 1">    </span>States shall be informed of the quantum of the final monthly payment of GST revenues grants by close of business <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city> time on the sixteenth day of June. Where the sixteenth day of June is a Saturday, Sunday or public holiday in <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>, the Commonwealth shall inform the States of the quantum of the final payment on the last business day of the Reserve Bank of <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> in <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city> prior to the thirteenth.<o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><b>Provision(s)</b></div>
 
-B10.<span style="mso-tab-count: 1">   </span>The timing of payments of GST revenue grants may be varied by agreement between the Parties to this Agreement.<o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Commencement</b></div>
 
-<o:p> </o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div><b>Date/Details</b></div>
 
-**APPENDIX C<o:p></o:p>**
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>46\. Schedule&#160;2, item&#160;17</div>
 
-TRANSITIONAL ARRANGEMENTS<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>Immediately after the time specified in the <i>Public Employment (Consequential and Transitional) Amendment Act 1999</i>for the commencement of item&#160;95 of Schedule&#160;1 to that Act</div>
 
-_Guarantee in Legislation_
+  </td>
+  <td colspan="1" align="left">
+    <div>5&#160;December 1999</div>
 
-C1.<span style="mso-tab-count: 1">    </span>Commonwealth legislation will provide a State or Territory with an entitlement to an additional amount of funding from the Commonwealth to offset any shortfall between its entitlement to GST revenue grants and the total amount of funding which would ensure that the budgetary position of a State or Territory is not worse off during the transition period.<o:p></o:p>
+  </td>
+</tr></table>_(b)_ The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ was amended by Schedule&#160;3 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(6) of which provides as follows:
 
-(i)<span style="mso-tab-count: 1">       </span>In 2000-01, transitional assistance will be provided to a State or Territory as a grant or an interest free loan to be repaid to the Commonwealth in full in 2001-02.<o:p></o:p>
+_Schedule 3Commonwealth-State financial arrangements_
+ 	(6)	Schedule&#160;3 is taken to have commenced immediately after the commencement of the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.
 
-(ii)<span style="mso-tab-count: 1">      </span>In subsequent transitional years, transitional assistance will be provided to a State or Territory as a grant.<o:p></o:p>
+	The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ commenced on 10&#160;September 1999.
 
-_Guaranteed Minimum Amount_
+**Table of Amendments**  <table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-C2.<span style="mso-tab-count: 1">    </span>The amount of a State or Territory’s entitlement to transitional assistance in a financial year will be calculated by subtracting its entitlement to GST revenue grants from a “Guaranteed Minimum Amount” constructed in the following way:<o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
 
-<span style="mso-tab-count: 1">          </span><u>State revenues forgone</u>: financial assistance grants, revenue replacement payments and State and Territory taxes as defined in <u>Appendix A</u> of this Agreement with the exception of stamp duties on marketable securities which will be the amount as if fully abolished.<o:p></o:p>
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
 
-plus<o:p></o:p>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part&#160;1</b></div>
 
-<span style="mso-tab-count: 1">          </span><u>Reduced revenues</u>: the amount by which States and Territories adjust gambling taxation arrangements to take account of the impact of the GST on gambling operators.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-plus<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 4</div>
 
-<span style="mso-tab-count: 1">          </span><u>Interest costs on cash flow shortfalls</u>: the interest cost incurred by States and Territories as a result of the change to cash flows arising from the replacement of weekly financial assistance grants, revenue replacements and State and Territory taxes with monthly GST revenue grants.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;177, 1999</div>
 
-plus<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 5</div>
 
-<span style="mso-tab-count: 1">          </span><u>Loan Repayments</u>: in 2001-02 only, the repayment of a guarantee loan by a State or Territory.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;177, 1999; No.&#160;21, 2004</div>
 
-plus<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 6, 7</div>
 
-<span style="mso-tab-count: 1">          </span><u>Additional expenditures</u>: payments to first home owners in accordance with <u>Appendix D</u> of this Agreement and the amount of the agreed GST administration costs payable to the ATO by a State or Territory.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;21, 2004</div>
 
-plus<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Part&#160;5</b></div>
 
-<span style="mso-tab-count: 1">          </span><u>Other items</u>: $338 million spread evenly over three years starting in 2000-01 in respect of the claim by States and Territories in relation to revenue forgone from the abolition of the Wholesale Sales Tax (WST) Tax Equivalent Regimes (with the distribution to be agreed among the States and Territories).<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-minus<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 21</div>
 
-<span style="mso-tab-count: 1">          </span><u>Reduced expenditures</u>: off-road diesel subsidies and reduced costs from the removal of embedded WST and excises on purchases by a State or Territory government.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;146, 1999 (as am. by No.&#160;63, 2002)</div>
 
-minus<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>Schedule&#160;1</b></div>
 
-<span style="mso-tab-count: 1">          </span><u>Growth dividend</u>: the increase in revenue to a State or Territory (not including GST revenue payments) that is attributable to the impact of the Commonwealth’s taxation reform measures on economic growth. <o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
 
-plus<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Cc. 1, 2</div>
 
-<span style="mso-tab-count: 1">          </span><u>Adjustments:</u> from 2001-02, the net difference between preliminary estimates and outcomes or final estimates for items that were taken into account in the previous year’s Guaranteed Minimum Amount.<o:p></o:p>
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;21, 2004</div>
 
-In addition, $269 million in total, spread evenly over three years, will be included in the new Commonwealth State Housing Agreement starting in 2000-01 in respect of the net increased public housing costs as a result of tax reform (with the distribution to be agreed among the States and Territories).<o:p></o:p>
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>C. 7</div>
 
-_Heads of Treasuries’ Advice to Ministerial Council_
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;21, 2004</div>
 
-C3.<span style="mso-tab-count: 1">    </span>The Guaranteed Minimum Amount for a State or Territory will be determined by the Commonwealth Treasurer by 10 June of each year of the transition period. The Ministerial Council will make recommendations to the Treasurer on the Guaranteed Minimum Amount for each State and Territory.<o:p></o:p>
+  </td>
+</tr></table>  <center>**
 
-C4.<span style="mso-tab-count: 1">    </span>The Heads of Treasuries will provide written advice to the Ministerial Council on the following issues by the indicated dates. <o:p></o:p>
+###  Table A 
+**</center>  **Table A**
 
-(i)<span style="mso-tab-count: 1">       </span>By 1 March 2000, advice on the estimated loans and grants to be provided to each State and Territory in 2000-01 and the amounts which the Commonwealth should provide to each State and Territory on Tuesday 4 July 2000.<o:p></o:p>
+**Application, saving or transitional provisions**
 
-(ii)<span style="mso-tab-count: 1">      </span>By <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="11">1 November 2000</st1:date> advice on the most recent estimates of transitional assistance for the year and any adjustment that may need to be made to the amount of the loans and grants made to each State and Territory. <o:p></o:p>
+_A New Tax System (Commonwealth-State Financial Arrangements) Amendment Act 2004_ (No.&#160;21, 2004)
 
-(iii)<span style="mso-tab-count: 1">     </span>By 1 September of each subsequent year of the transition period, advice on the most recent estimates of the transitional assistance to be provided to each State and Territory in the financial year and the installment amounts which the Commonwealth should provide to each State and Territory on the first Tuesday of the following October and January. This advice should identify the adjustments for the net difference between preliminary estimates and outcomes or final estimates for items that were taken into account in the previous year’s Guaranteed Minimum Amount for a State or Territory.<o:p></o:p>
+**Schedule&#160;1**
 
-(iv)<span style="mso-tab-count: 1">     </span>By 1 March of each subsequent year of the transition period, advice on the most recent estimates of the transitional assistance to be provided to each State and Territory in both the current financial year and the next financial year, and the installment amounts which the Commonwealth should provide to each State and Territory on the first Tuesday of the following April and July.<o:p></o:p>
+**3  Application of amendments**
 
-(v)<span style="mso-tab-count: 1">      </span>By 1 June of each year of the transition period, advice on the Guaranteed Minimum Amount for each State and Territory in the current financial year.<o:p></o:p>
+(1)	If this Part commences before 1&#160;June in a GST year, the amendments made by this Part apply in relation to that GST year and later GST years.
+ (2)	If this Part commences on or after 1&#160;June in a GST year, the amendments made by this Part apply in relation to the next GST year and later GST years.
+ (3)	However, the amendments do not apply for the purpose of making a determination that relates to an actual amount for June in a GST year if the amendments did not apply for the purpose of making a determination that related to the estimated amount for June in that GST year.
+ (4)	In this item:
 
-_Frequency and Amounts of Payments and Repayments_
+**_GST year_**has the same meaning as it has in the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.
 
-C5.<span style="mso-tab-count: 1">    </span>In each year of the transitional period after 2000-01, the Commonwealth will provide an installment of the guarantee payment to a State or Territory on the first Tuesday (or the first business day thereafter) of January, April, July and October. The installment amounts will reflect the advice to be provided to the Ministerial Council by the Heads of Treasuries under paragraph C4.<o:p></o:p>
+**10  Application of amendments**
 
-C6.<span style="mso-tab-count: 1">    </span>Adjustments to the total amount of additional assistance to a State or Territory in light of actual GST collections and the Treasurer’s determination of the Guaranteed Minimum Amount will be made in conjunction with the payments of GST revenue grants after 10 June in each year.<o:p></o:p>
+(1)	If this Part commences before 1&#160;June in a GST year, the amendments made by this Part apply in relation to that GST year and later GST years.
+ (2)	If this Part commences on or after 1&#160;June in a GST year, the amendments made by this Part apply in relation to the next GST year and later GST years.
+ (3)	In this item:
 
-C7.<span style="mso-tab-count: 1">    </span>A State or Territory will repay a loan which it receives from the Commonwealth in 2000-01 in quarterly installments in 2001-02\. These installments will be paid to the Commonwealth on the same day on which a State or Territory receives an amount of GST revenue grants in the months of July, October, January and April.<o:p></o:p>
+**_GST year_**has the same meaning as it has in the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.
 
-C8.<span style="mso-tab-count: 1">    </span>The methodology for calculating the amounts of particular components of the Guaranteed Minimum Amount for a State or Territory has been agreed by the Heads of Treasuries and is set out in the document titled _Methodology for Estimation of Components of the Guaranteed Minimum Amount_. <o:p></o:p>
+</def></def></def>
 
-**APPENDIX D<o:p></o:p>**
+</def></def></def></def>
 
-FIRST HOME OWNERS SCHEME<o:p></o:p>
+</def>
 
-**Principles<o:p></o:p>**
+</def></def>
 
-D1.<span style="mso-tab-count: 1">    </span>The States and Territories will make legislative provision for the First Home Owners Scheme (FHOS) from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> which will incorporate programme criteria consistent with the following principles:<o:p></o:p>
+</def></def></def></def></def></def>
 
-(i)<span style="mso-tab-count: 1">       </span>Eligible applicants will be entitled to $7,000 assistance (per application) on eligible homes under the FHOS.<o:p></o:p>
+</def></def></def>
 
-(ii)<span style="mso-tab-count: 1">      </span>Assistance will be available directly as a one off payment. If the recipient expressly consents, it may be available as an offset against statutory levies and charges or some combination of these.<o:p></o:p>
+</def></def></def></def></def>
 
-(iii)<span style="mso-tab-count: 1">     </span>Eligible applicants must be natural persons who are Australian citizens or permanent residents who are buying or building their first home in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>. An applicant’s spouse (or de facto) must be included on the application.<o:p></o:p>
+</def></def></def></def></def>
 
-(iv)<span style="mso-tab-count: 1">     </span>To qualify for assistance, neither the applicant or the applicant’s spouse (or de facto) must have previously owned a home, either jointly, separately or with some other person.<o:p></o:p>
 
-(v)<span style="mso-tab-count: 1">      </span>Entering into a binding contract or commencement of building in the case of owner builders, must have occurred on or after <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date>.<o:p></o:p>
 
-(vi)<span style="mso-tab-count: 1">     </span>An eligible home will be a new or established house, home unit, flat or other type of self contained fixed dwelling that meets local planning standards. Fixed dwellings will include demountable dwellings where these meet local planning standards. <o:p></o:p>
 
-(vii)<span style="mso-tab-count: 1">    </span>An eligible home must be intended to be a principal place of residence and occupied within a reasonable period. The home must be located in the State or Territory in which the application is made. Applicants who have entered into a financing mechanism which involves a shared equity arrangement will be eligible.<o:p></o:p>
-
-(viii)<span style="mso-tab-count: 1">   </span>Assistance will not be means tested.<o:p></o:p>
-
-(ix)<span style="mso-tab-count: 1">     </span>The relevant State and Territory legislation will contain adequate administrative review and appeal mechanisms, along with provision to prevent abuse of the FHOS. The States and Territories will cooperate in the exchange of information to identify eligible first home owners.<o:p></o:p>
-
-**Other matters<o:p></o:p>**
-
-D2.<span style="mso-tab-count: 1">    </span>Funding of grants under the FHOS may not be drawn from Home Purchase Assistance (HPA) funds provided through the Commonwealth State Housing Agreement, including the pool of existing HPA revenues.<o:p></o:p>
-
-D3.<span style="mso-tab-count: 1">    </span>Further details concerning eligibility criteria consistent with the above principles are to be agreed between the Commonwealth and each State and Territory.<o:p></o:p>
-
-D4.<span style="mso-tab-count: 1">    </span>The States and Territories will not introduce or vary any taxes or charges associated with home purchase with the intention of offsetting the benefits of the FHOS for recipients.<o:p></o:p>
-
-**APPENDIX E<o:p></o:p>**
-
-GST ADMINISTRATION<o:p></o:p>
-
-E1.<span style="mso-tab-count: 1">     </span>The Commissioner of Taxation has the general administration of the GST law.<o:p></o:p>
-
-E2.<span style="mso-tab-count: 1">     </span>The ATO will arrange for the Australian Customs Service to assist with the collection of the GST on imports. <o:p></o:p>
-
-E3.<span style="mso-tab-count: 1">     </span>During the first 12 months following the implementation of the GST, the Commonwealth will retain the discretion to make changes to the GST base of an administrative nature. For this purpose, changes of an administrative nature involves legislation necessary to:<o:p></o:p>
-
-(i)<span style="mso-tab-count: 1">       </span>protect the integrity of the GST base; or<o:p></o:p>
-
-(ii)<span style="mso-tab-count: 1">      </span>prevent tax avoidance.<o:p></o:p>
-
-E4.<span style="mso-tab-count: 1">     </span>The Commonwealth will include the definition of change of an administrative nature in the _A New Tax System (Commonwealth-State Financial Arrangements) Bill 1999_.<o:p></o:p>
-
-E5.<span style="mso-tab-count: 1">     </span>From July 2001, changes of an administrative nature as defined in E3 will require the majority support of the Commonwealth, States and Territories. <o:p></o:p>
-
-E6.<span style="mso-tab-count: 1">     </span>The GST Administration Sub-Committee, which will commence operation from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date>, will monitor the operation and administration of the GST and make recommendations regarding modifications to the GST and the administration of the GST. <o:p></o:p>
-
-E7.<span style="mso-tab-count: 1">     </span>The GST Administration Sub-Committee will comprise officials from each Party to the Agreement including representatives from the ATO as required. The Commonwealth Treasury will chair the GST Administration Sub-Committee.<o:p></o:p>
-
-E8.     The Chair will convene the GST Administration Sub-Committee in consultation with other members of the Sub-Committee as often as may be necessary to conduct its business. If the Chair receives a request from a member of the Sub-Committee, the Chair will consult with the other members concerning convening a meeting. <o:p></o:p>
-
-E9.<span style="mso-tab-count: 1">     </span>The functions of the Sub-Committee will include:<o:p></o:p>
-
-(i)<span style="mso-tab-count: 1">       </span>monitoring the performance of the ATO in the administration of the GST (<u>Appendix F</u> of this Agreement);<o:p></o:p>
-
-(ii)<span style="mso-tab-count: 1">      </span>the assessment of policy proposals for the modification of the GST rate and base;<o:p></o:p>
-
-(iii)<span style="mso-tab-count: 1">     </span>making recommendations to the Ministerial Council on the need for legislation which might significantly affect the GST base; and<o:p></o:p>
-
-(iv)<span style="mso-tab-count: 1">     </span>requesting the ATO to produce draft Public Rulings in specified areas.<o:p></o:p>
-
-E10.<span style="mso-tab-count: 1">   </span>The States and Territories will be consulted on draft Public Rulings prior to consideration by the ATO Rulings Panel and before public consultation. There will be a representative from the States and Territories on the ATO Rulings Panel in relation to GST matters. <o:p></o:p>
-
-E11.   Public rulings will not be referred to the Ministerial Council. However, the GST Administration Sub-Committee will refer a proposed GST change to the Ministerial Council for consideration if the Sub-Committee is of the view that the change could have a significant impact on GST revenues and so warrants Ministerial review.<o:p></o:p>
-
-E12.<span style="mso-tab-count: 1">   </span>Draft legislation which might significantly affect the GST base will be forwarded through the GST Administrative Sub-Committee to the Ministerial Council for consideration.<o:p></o:p>
-
-**APPENDIX F<o:p></o:p>**
-
-GST ADMINISTRATION PERFORMANCE AGREEMENT—GUIDING PRINCIPLES<o:p></o:p>
-
-**Preamble<o:p></o:p>**
-
-F1.<span style="mso-tab-count: 1">     </span>This Appendix outlines the principles that will guide the subsequent development of a GST Administration Performance Agreement (the Performance Agreement) between the ATO and its agents, and the States and Territories (the Parties).<o:p></o:p>
-
-**Objectives and Context of the Performance Agreement<o:p></o:p>**
-
-F2.<span style="mso-tab-count: 1">     </span>The purpose of the Performance Agreement is to provide accountability between the ATO and the States and Territories on behalf of whom the GST revenue is being collected. It also provides an agreed basis for the GST Administration Sub-Committee to monitor the administration of the GST by the ATO and its agents in return for the agreed GST administration costs being paid by the States and Territories.<o:p></o:p>
-
-F3.<span style="mso-tab-count: 1">     </span>The Performance Agreement will reflect the commitment by the Parties to:<o:p></o:p>
-
-(i)<span style="mso-tab-count: 1">       </span>achieving world’s best practice for GST administration in <st1:country-region><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>;<o:p></o:p>
-
-(ii)<span style="mso-tab-count: 1">      </span>a cost-effective and transparent GST administration; and<o:p></o:p>
-
-(iii)<span style="mso-tab-count: 1">     </span>a cooperative relationship between the Parties.<o:p></o:p>
-
-F4.<span style="mso-tab-count: 1">     </span>The Performance Agreement will recognise that achievement of world’s best practice GST administration, including cost-effectiveness, is dependent on the GST policy framework and integrated administrative design. <o:p></o:p>
-
-F5.<span style="mso-tab-count: 1">     </span>The Performance Agreement will be consistent with the arrangements set out in this Intergovernmental Agreement _._<o:p></o:p>
-
-**Components of Agreement<o:p></o:p>**
-
-F6.<span style="mso-tab-count: 1">     </span>The Performance Agreement will include outcomes to be achieved, budgeting arrangements and monitoring and review arrangements for the purposes of maintaining accountability and transparency of operations. The Performance Agreement will also include the process for raising matters of operational significance with the Ministerial Council.<o:p></o:p>
-
-**Outcomes<o:p></o:p>**
-
-F7.<span style="mso-tab-count: 1">     </span>The Performance Agreement will stipulate performance outcomes and appropriate benchmarks to be achieved by the ATO. These outcomes may include, but are not limited to: revenue, taxpayer registration, compliance, reporting, education and legislative review. Consistent with the objectives of the Agreement, the benchmarks are to reflect world best practice in GST administration. <o:p></o:p>
-
-**Cost of Administration<o:p></o:p>**
-
-F8.<span style="mso-tab-count: 1">     </span>The Performance Agreement will outline the Commonwealth administration activities that are GST related for the purposes of agreeing the GST administration costs.<o:p></o:p>
-
-F9.<span style="mso-tab-count: 1">     </span>The Performance Agreement will stipulate arrangements for an audit of GST costs and the systems for the control of GST costs. <o:p></o:p>
-
-F10.<span style="mso-tab-count: 1">   </span>The Performance Agreement will outline the process and timing of consultation for developing/modifying budgets and business plans for GST administration. These budgets and business plans will be developed, and/or revised, in an appropriate and timely manner so as to broadly accord with Commonwealth arrangements for funding agency operations.<o:p></o:p>
-
-F11.<span style="mso-tab-count: 1">   </span>The Performance Agreement will recognise that the States and Territories will fully compensate the Commonwealth for the agreed costs of administering the GST. <o:p></o:p>
-
-**Monitoring and Review<o:p></o:p>**
-
-F12.<span style="mso-tab-count: 1">   </span>The Performance Agreement will stipulate the:<o:p></o:p>
-
-(i)<span style="mso-tab-count: 1">       </span>number and timing of formal reports by the ATO to the Sub-Committee;<o:p></o:p>
-
-(ii)<span style="mso-tab-count: 1">      </span>number and timing of progress reports by the ATO to the Sub-Committee; and<o:p></o:p>
-
-(iii)<span style="mso-tab-count: 1">     </span>arrangements for special briefings on particular issues.<o:p></o:p>
-
-F13.<span style="mso-tab-count: 1">   </span>The Parties to the Performance Agreement will ensure appropriate alignment of ATO Parliamentary reporting responsibilities and reporting responsibilities under the Performance Agreement. <o:p></o:p>
-
-F14.<span style="mso-tab-count: 1">   </span>The Performance Agreement will stipulate that ATO reports to the Sub-Committee on outcomes will include:<o:p></o:p>
-
-(i)<span style="mso-tab-count: 1">       </span>updates on relevant internal governance arrangements, including appropriate strategic plans and annual and other relevant reports that scrutinise aspects of GST operations (including annual and other relevant reports from the Australian National Audit Office);<o:p></o:p>
-
-(ii)<span style="mso-tab-count: 1">      </span>accrual-based financial reports;<o:p></o:p>
-
-(iii)<span style="mso-tab-count: 1">     </span>key outcome performance indicators (including, registrations, revenue, refunds, costs, key processing workloads, Taxpayer Charter standards and international benchmark comparisons); <o:p></o:p>
-
-(iv)<span style="mso-tab-count: 1">     </span>litigation and public ruling information;<o:p></o:p>
-
-(v)<span style="mso-tab-count: 1">      </span>updates on relevant compliance and cost-of-compliance research; <o:p></o:p>
-
-(vi)<span style="mso-tab-count: 1">     </span>administrative base issues; and<o:p></o:p>
-
-(vii)<span style="mso-tab-count: 1">    </span>commentary on administrative performance and any key emerging GST compliance issues and related initiatives.<o:p></o:p>
-
-F15.<span style="mso-tab-count: 1">   </span>The Performance Agreement will ensure that the States and Territories will have access to GST data held by the ATO subject to statutory limitations.<o:p></o:p>
-
-**Matters of Operational Significance<o:p></o:p>**
-
-F16.<span style="mso-tab-count: 1">   </span>The Performance Agreement will outline arrangements for raising matters of operational significance with the Ministerial Council. Matters of operational significance may include disputes over the interpretation of the Performance Agreement and non-performance by the ATO against agreed targets. The Performance Agreement will ensure that the ATO will have the opportunity to provide direct advice to the Ministerial Council on any matters submitted to the Council.<o:p></o:p>
-
-**Development of Agreement<o:p></o:p>**
-
-F17.<span style="mso-tab-count: 1">   </span>The Performance Agreement will be developed by the GST Administration Sub-Committee and representatives of the ATO. The Performance Agreement is to be developed with reference to both:<o:p></o:p>
-
-(i)<span style="mso-tab-count: 1">       </span>the guiding principles outlined in this Appendix; and<o:p></o:p>
-
-(ii)<span style="mso-tab-count: 1">      </span>actual GST performance data (including revenue) in the Australian context, gathered during the transitional years.<o:p></o:p>
-
-F18.<span style="mso-tab-count: 1">   </span>The Performance Agreement is to be finalised by the end of the GST transitional year ending June 2002\. The Performance Agreement is to be endorsed by the Ministerial Council prior to being signed.<o:p></o:p>
-
-F19.<span style="mso-tab-count: 1">   </span>The Performance Agreement will stipulate the process for its amendment. <o:p></o:p>
-
-**Transitional Arrangements<o:p></o:p>**
-
-F20.<span style="mso-tab-count: 1">   </span>The ATO and the GST Administration Sub-Committee will discuss key operational issues and costs commencing in October 1999 and on a semiannual basis throughout the GST transitional year ending <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="30" month="6">30 June 2002</st1:date>.<o:p></o:p>
-
-F21.<span style="mso-tab-count: 1">   </span>The ATO will arrange for an audit of the systems for the control of GST costs and the GST costs incurred during the period from <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="1" month="7">1 July 1999</st1:date> to the date of the signing of the Performance Agreement by the Parties. <o:p></o:p>
-
-F22.<span style="mso-tab-count: 1">   </span>The ATO will undertake to establish, by the end of the Transitional year ending <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="30" month="6">30 June 2002</st1:date>, final GST benchmarking arrangements with relevant overseas administrations, subject to their agreement. The ATO will discuss benchmarking plans with the GST Administration Sub-Committee.<o:p></o:p>
-
-
-# Notes to the _<span style="mso-no-proof: yes">A New Tax System (Commonwealth-State Financial Arrangements) Act 1999</span>_<o:p></o:p>
-
-### Note 1<o:p></o:p>
-
-The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ as shown in this compilation comprises Act No. 110, 1999 amended as indicated in the Tables below.<o:p></o:p>
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.<o:p></o:p>
-
-### Table of Acts<o:p></o:p>
-
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>Act  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Number 
-and year 
-   <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent 
-   <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Date of commencement  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>A New Tax System (Commonwealth-State Financial Arrangements) Act 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>110, 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="10" month="9">10 Sept 1999</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="10" month="9">10 Sept 1999</st1:date></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Public Employment (Consequential and Transitional) Amendment Act 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>146, 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (item 95): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(a)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>as amended by <o:p></o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Statute Law Revision Act 2002 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>63, 2002 <o:p></o:p> </div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="3" month="7">3 July 2002</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 2 (item 17): <i style="mso-bidi-font-style: normal">(aa)</i> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>177, 1999 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="22" month="12">22 Dec 1999</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 3: <i style="mso-bidi-font-style: normal">(b) <o:p></o:p> </i></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>A New Tax System (Commonwealth-State Financial Arrangements) Amendment Act 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>21, 2004 <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="23" month="3">23 Mar 2004</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2004" day="23" month="3">23 Mar 2004</st1:date> <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Sch. 1 (items 3, 10) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>10, 2005 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>22 Feb 2005 <o:p></o:p></div>
-    </td>
-    <td>
-      <div>Schedule 1 (items 1, 2): \[ <i style="mso-bidi-font-style: normal">see</i>Note 2] <o:p></o:p></div>
-    </td>
-    <td>
-      <div>— <o:p></o:p></div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-_(a)_     The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ was amended by Schedule 1 (item 95) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:<o:p></o:p>
-
-                 (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.<o:p></o:p>
-
-                 (2)   Subject to this section, this Act commences at the commencing time. <o:p></o:p>
-
-_(aa)_   The _Public Employment (Consequential and Transitional) Amendment Act 1999_ was amended by Schedule 2 (item 17) only of the _Statute Law Revision Act 2002_, subsection 2(1) (item 46) of which provides as follows:<o:p></o:p>
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.<o:p></o:p>
-
-<o:p> </o:p>
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div><b style="mso-bidi-font-weight: normal"> Commencement information </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal"> Column 1 </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal"> Column 2 </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal"> Column 3 </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal"> Provision(s) </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal"> Commencement </b></div>
-    </td>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal"> Date/Details </b></div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div>46\. <span style="mso-spacerun: yes"> </span>Schedule 2, item 17  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Immediately after the time specified in the <i style="mso-bidi-font-style: normal">Public Employment (Consequential and Transitional) Amendment Act 1999</i>for the commencement of item 95 of Schedule 1 to that Act  <o:p></o:p> </div>
-    </td>
-    <td>
-      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12"> 5 December 1999 </st1:date>  <o:p></o:p> </div>
-    </td>
-  </tr>
-</tbody></table>
-
-_(b)_    The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ was amended by Schedule 3 only of the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_, subsection 2(6) of which provides as follows:<o:p></o:p>
-
-_Schedule 3—Commonwealth-State financial arrangements_
-
-                 (6)   Schedule 3 is taken to have commenced immediately after the commencement of the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.<o:p></o:p>
-
-         The _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_ commenced on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="10" month="9">10 September 1999</st1:date>.<o:p></o:p>
-
-
-## Table of Amendments<o:p></o:p>
-
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected <o:p></o:p></div>
-    </td>
-    <td>
-      <div>How affected <o:p></o:p></div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 4  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 177, 1999 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 5  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 177, 1999; No. 21, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Ss. 6, 7  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 21, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Part 5 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 21  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 146, 1999 (as am. by No. 63, 2002) <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b style="mso-bidi-font-weight: normal">Schedule 1 <o:p></o:p> </b></div>
-    </td>
-    <td>
-      <div><o:p> </o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Cc. 1, 2  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>am. No. 21, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>C. 7  <o:p></o:p></div>
-    </td>
-    <td>
-      <div>ad. No. 21, 2004 <o:p></o:p></div>
-    </td>
-  </tr>
-</tbody></table>
-
-
-### Note 2<o:p></o:p>
-
-_Tax Laws Amendment (Long-term Non-reviewable Contracts) Act 2005 
-
-(No. 10, 2005)<o:p></o:p>_
-
-The following amendments commence on 1 July 2005:<o:p></o:p>
-
-## Schedule 1<o:p></o:p>
-
-## 1  Subparagraph 2(1)(b)(ii)
-
-Repeal the subparagraph.
-
-## 2  Section 4 (at the end of the definition of _GST Imposition Acts_)
-
-Add:
-
-                   ; (d)  the _A New Tax System (Goods and Services Tax Imposition (Recipients)—Customs) Act 2005_;
-
-                     (e)  the _A New Tax System (Goods and Services Tax Imposition (Recipients)—Excise) Act 2005_;
-
-                      (f)  the _A New Tax System (Goods and Services Tax Imposition (Recipients)—General) Act 2005_.
-
-As at 28 February 2005 the amendments are not incorporated in this compilation.<o:p></o:p>
-
-
-## Table A<o:p></o:p>
-
-### Application, saving or transitional provisions<o:p></o:p>
-
-_A New Tax System (Commonwealth-State Financial Arrangements) Amendment Act 2004 (No. 21, 2004)<o:p></o:p>_
-
-## Schedule 1<o:p></o:p>
-
-## 3  Application of amendments<o:p></o:p>
-
-(1)        If this Part commences before 1 June in a GST year, the amendments made by this Part apply in relation to that GST year and later GST years.<o:p></o:p>
-
-(2)        If this Part commences on or after 1 June in a GST year, the amendments made by this Part apply in relation to the next GST year and later GST years.<o:p></o:p>
-
-(3)        However, the amendments do not apply for the purpose of making a determination that relates to an actual amount for June in a GST year if the amendments did not apply for the purpose of making a determination that related to the estimated amount for June in that GST year.<o:p></o:p>
-
-(4)        In this item:<o:p></o:p>
-
-**_GST year_**has the same meaning as it has in the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.<o:p></o:p>
-
-## 10  Application of amendments<o:p></o:p>
-
-(1)        If this Part commences before 1 June in a GST year, the amendments made by this Part apply in relation to that GST year and later GST years.<o:p></o:p>
-
-(2)        If this Part commences on or after 1 June in a GST year, the amendments made by this Part apply in relation to the next GST year and later GST years.<o:p></o:p>
-
-(3)        In this item:<o:p></o:p>
-
-**_GST year_**has the same meaning as it has in the _A New Tax System (Commonwealth-State Financial Arrangements) Act 1999_.<o:p></o:p>
-
-
-<o:p> </o:p>
