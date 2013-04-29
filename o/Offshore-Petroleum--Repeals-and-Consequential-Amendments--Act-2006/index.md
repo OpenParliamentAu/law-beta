@@ -1,18 +1,18 @@
-![](http://www.comlaw.gov.au/Details/C2008C00336/Html/OffshorePetrRepConAmend2006_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00263/Html/OffshorePetrRepConAmend2006_image001.gif)
 
 # Offshore Petroleum (Repeals and Consequential Amendments) Act 2006
 
 **Act No. 17 of 2006 as amended**
 
-This compilation was prepared on 1 July 2008
+This compilation was prepared on 13 April 2007
 
-**\[This Act was amended by Act No. 45 of 2007]**
+**\[This Act is to be amended by Act No. 45 of 2007]**
 
 **Amendment from Act No. 45 of 2007**
 
-\[Schedule 2 (item 9) repealed Note 3 of item 4 of Schedule 2
+\[Schedule 2 (item 9) amends Note 3 of item 4 of Schedule 2
 
-Schedule 2 (item 9) commenced immediately after 1 July 2008]
+Schedule 2 (item 9) commences immediately after the commencement of Chapter 2 of the _Offshore Petroleum Act 2006_. However, the amendment may not commence at all, _see_ s. 2(1) (item 4). The amendment has not been incorporated]
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney-General’s Department, Canberra
@@ -184,8 +184,7 @@ The Parliament of Australia enacts:
       <i>Offshore Petroleum Act 2006</i>commences.</div>
   </td>
   <td>
-    <div>1 July 2008 (
-      <i>see</i>F2008L02273)</div>
+    <div> </div>
   </td>
 </tr></table>
 
@@ -258,6 +257,8 @@ Omit “adjacent area”, substitute “offshore area”.
 _Note 1:    The heading to section 6 is altered by omitting “adjacent areas” and substituting “offshore areas”._
 
 _Note 2:    The heading to section 7 is altered by omitting “adjacent areas” and substituting “offshore areas”._
+
+_Note 3:    The heading to section 8 is altered by omitting “adjacent areas” and substituting “offshore areas”._
 
 ## 5  Paragraph 12(a)
 
@@ -527,7 +528,7 @@ Omit “_Petroleum (Submerged Lands) Act 1967_”, substitute “_Offshore Petro
 
 <h9 class="ActHead9">Offshore Minerals Act 1994</h9>
 
-## 55  Readers guide (first asterisk-point under the heading “Basic concepts”)
+## 55  Readers guide (first asterisk-point under the heading “Basic concepts”)
 
 Omit “(an **_adjacent area_** if you are already familiar with the _Petroleum (Submerged Lands) Act 1967_)”, substitute “(an **_offshore area_** if you are already familiar with the _Offshore Petroleum Act 2006_)”.
 
