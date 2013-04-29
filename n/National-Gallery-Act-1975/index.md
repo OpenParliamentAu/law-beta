@@ -1,9 +1,10 @@
 
-National Gallery Act 1975
+National Gallery Act 1975 
 Act No. 61 of 1975 as amended
-This compilation was prepared on 30 March 2000 taking into account amendments up to Act No. 156 of 1999
-The text of any of those amendments not in force  on that date is appended in the Notes section
-Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
+Consolidated as in force on 16 December 1999
+(includes amendments up to Act No. 146 of 1999)
+Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
+
   
   
   
@@ -12,48 +13,47 @@ Part I—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Interpretation	1
-Part II—The National Gallery of Australia	2
-4	Establishment of National Gallery of Australia	2
-5	National collection to be housed in Australian Capital Territory	2
-6	Functions of Gallery	2
-7	Powers of Gallery	3
-8	Land and works of art for Gallery	4
-9	Disposal of works of art from national collection	5
-10	Exchange of works of art	5
-11	Disposal of property left with Gallery	5
-Part III—The Council	9
-12	Council	9
-13	Membership of Council	9
-14	Deputy Chair	9
-15	Deputies of members	10
-16	Remuneration and allowances of members etc.	10
+Part II—The National Gallery of Australia	3
+4	Establishment of National Gallery of Australia	3
+5	National collection to be housed in Australian Capital Territory	3
+6	Functions of Gallery	3
+7	Powers of Gallery	4
+8	Land and works of art for Gallery	5
+9	Disposal of works of art from national collection	6
+10	Exchange of works of art	6
+11	Disposal of property left with Gallery	6
+Part III—The Council	10
+12	Council	10
+13	Membership of Council	10
+14	Deputy Chair	10
+15	Deputies of members	11
+16	Remuneration and allowances of members etc.	11
 17	Termination of appointment	11
-18	Resignation	11
-20	Meetings of Council	11
-21	Committees of Council	12
-22	Delegation	12
-Part IV—The Director	14
-24	Director	14
-26	Terms and conditions of appointment etc.	14
-27	Remuneration and allowances	14
-28	Leave of absence	14
-29	Termination of appointment	15
-30	Resignation	15
-31	Acting Director	15
-Part V—Staff	17
-33	Staff	17
-Part VI—Finance	18
-34	Moneys payable to Gallery	18
-36	National Gallery of Australia Fund	18
-37	Application of moneys	18
-38	Power to purchase and dispose of assets	19
-40	Extra matters to be included in annual report	19
-41	Exemption from taxation	20
-Part VII—Miscellaneous	21
-45	Supply of liquor on premises of Gallery	21
-46	Regulations	21
-Notes		23
-
+18	Resignation	12
+20	Meetings of Council	12
+21	Committees of Council	13
+22	Delegation	13
+Part IV—The Director	15
+24	Director	15
+26	Terms and conditions of appointment etc.	15
+27	Remuneration and allowances	15
+28	Leave of absence	15
+29	Termination of appointment	16
+30	Resignation	16
+31	Acting Director	16
+Part V—Staff	18
+33	Staff	18
+Part VI—Finance	19
+34	Moneys payable to Gallery	19
+36	National Gallery of Australia Fund	19
+37	Application of moneys	19
+38	Power to purchase and dispose of assets	20
+40	Extra matters to be included in annual report	20
+41	Exemption from taxation	21
+Part VII—Miscellaneous	22
+45	Supply of liquor on premises of Gallery	22
+46	Regulations	22
+Notes 		23
 An Act relating to the National Gallery of Australia
 Part I—Preliminary
   
@@ -201,7 +201,7 @@ Part III—The Council
 	(2)	If a part‑time member:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
 	(b)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council; or
-	(c)	fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the Commonwealth Authorities and Companies Act 1997;
+	(c)	fails, without reasonable excuse, to comply with his or her obligations under section 21 of the Commonwealth Authorities and Companies Act 1997;
 the Governor‑General shall terminate his or her appointment.
 18  Resignation
 		A part‑time member may resign his or her office by writing under his or her hand delivered to the Governor‑General.
@@ -250,7 +250,7 @@ Part IV—The Director
 	(1)	The Governor‑General may terminate the appointment of the Director by reason of misbehaviour or physical or mental incapacity.
 	(2)	If the Director:
 	(a)	becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with his or her creditors or makes an assignment of his or her remuneration for their benefit;
-	(aa)	fails, without reasonable excuse, to comply with section 27F or 27J of the Commonwealth Authorities and Companies Act 1997 or subsection (3) of this section;
+	(aa)	fails, without reasonable excuse, to comply with section 21 of the Commonwealth Authorities and Companies Act 1997 or subsection (3) of this section;
 	(ab)	is absent, except on leave granted by the Council, from 3 consecutive meetings of the Council;
 	(b)	is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 	(c)	engages in paid employment outside the duties of his or her office without the approval of the Minister;
@@ -405,11 +405,11 @@ Public Employment (Consequential and Transitional) Amendment Act 1999
 11 Nov 1999
 Schedule 1 (item 627): 5 Dec 1999 (see Gazette 1999, No. S584) (g)
 
-Corporate Law Economic Reform Program Act 1999
-156, 1999
-24 Nov 1999
-Schedule 10 (items 94, 95): 13 Mar 2000 (see Gazette 2000, No. S114) (h)
-—
+
+
+
+
+
 (a)	The National Gallery Act 1975 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 1) 1985, subsection 2(29) of which provides as follows:
 	(29)	The amendments of the National Gallery Act 1975 made by this Act shall come into operation on the day on which this Act receives the Royal Assent.
 (b)	The Statute Law (Miscellaneous Provisions) Act (No. 1) 1985 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1985, paragraph 2(15)(a) of which provides as follows:
@@ -429,9 +429,7 @@ Schedule 10 (items 94, 95): 13 Mar 2000 (see Gazette 2000, No. S114) (h)
 (g)	The National Gallery Act 1975 was amended by Schedule 1 (item 627) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(h)	The National Gallery Act 1975 was amended by Schedule 10 (items 94 and 95) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2)(c) of which provides as follows:
-	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
-	(c)	the items in Schedules 10, 11 and 12.
+
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -467,7 +465,7 @@ am. No. 43, 1996
 S. 16	
 am. No. 65, 1985; No. 43, 1996
 S. 17	
-am. No. 65, 1985; No. 43, 1996; No. 152, 1997; No. 156, 1999
+am. No. 65, 1985; No. 43, 1996; No. 152, 1997
 S. 18	
 am. No. 43, 1996
 S. 19	
@@ -497,7 +495,7 @@ rs. No. 179, 1991
 
 am. No. 146, 1999
 S. 29	
-am. No. 65, 1985; No. 179, 1991; No. 43, 1996; No. 152, 1997; No. 156, 1999
+am. No. 65, 1985; No. 179, 1991; No. 43, 1996; No. 152, 1997
 S. 30	
 am. No. 65, 1985; No. 43, 1996
 S. 31	
