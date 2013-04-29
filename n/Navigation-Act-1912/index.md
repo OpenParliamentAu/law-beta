@@ -1,13 +1,13 @@
-![](http://www.comlaw.gov.au/Details/C2011C00829/Html/c66a07e9-2d31-4dfb-af6e-fb5fa56e2d3a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00550/Html/Navigationvol1_WD02_image001.gif)
 
 # Navigation Act 1912
 
 **Act No. 4 of 1913 as amended**
 
-This compilation was prepared on 17 October 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 5 August 2010
+ taking into account amendments up to Act No. 96 of 2010
 
-**Volume 1** includes:      Table of Contents
+**Volume 1** includes:        Table of Contents
  Sections 1–427
 
 The text of any of those amendments not in force
@@ -16,21 +16,21 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-**Volume 2** includes:       Table of Contents
+**Volume 2** includes:         Table of Contents
  Schedule 1
 
-**Volume 3** includes:       Table of Contents
+**Volume 3** includes:         Table of Contents
  Schedules 2–9
 
-**Volume 4** includes:       Note 1
+**Volume 4** includes:         Note 1
  Table of Acts
  Act Notes
  Table of Amendments
- Notes 2–4
+ Notes 2 and 3
  Table A
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -44,7 +44,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [3](#3).            Act does not apply to naval ships etc 
 
-[4](#4).            Application of provisions relating to steam‑ships
+[4](#4).            Application of provisions relating to steam-ships
 
 [5](#5).            Application of the _Criminal Code_
 
@@ -66,13 +66,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [7A](#7A).         Ships registered in Australia
 
-[8](#8).            Off‑shore industry fixed structures, mobile units and vessels
+[8](#8).            Off-shore industry fixed structures, mobile units and vessels
 
-[8A](#8A).         Off‑shore industry vessels to which Act applies
+[8A](#8A).         Off-shore industry vessels to which Act applies
 
-[8AA](#8AA).      Declaration that Act applies in relation to trading ships engaging in intra‑state trade
+[8AA](#8AA).      Declaration that Act applies in relation to trading ships engaging in intra-state trade
 
-[8AB](#8AB).      Declarations that Act applies in relation to fishing fleet support vessels on inter‑state or intra‑state voyages
+[8AB](#8AB).      Declarations that Act applies in relation to fishing fleet support vessels on inter-state or intra-state voyages
 
 [8AC](#8AC).      Expiration or revocation of declarations
 
@@ -196,7 +196,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [104](#104).        Stowaways and distressed seamen
 
-[110](#110).        Return of foreign‑going seaman to ship
+[110](#110).        Return of foreign-going seaman to ship
 
 [113](#113).        Questions as to deductions
 
@@ -244,7 +244,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [136](#136).        Regulations relating to accommodation
 
-[137](#137).        Provision of ventilation and wheel‑houses
+[137](#137).        Provision of ventilation and wheel-houses
 
 [138](#138).        Crew accommodation
 
@@ -322,15 +322,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 21—The log**
 
-[171](#171).        Official log‑book
+[171](#171).        Official log-book
 
-[172](#172).        Offences in relation to official log‑book
+[172](#172).        Offences in relation to official log-book
 
-[172A](#172A).     Report of matters recorded in official log‑book
+[172A](#172A).     Report of matters recorded in official log-book
 
-[173](#173).        Delivery of official log‑book
+[173](#173).        Delivery of official log-book
 
-[174](#174).        Transmission of log‑book to superintendent
+[174](#174).        Transmission of log-book to superintendent
 
 **Part III—Foreign seamen**
 
@@ -442,7 +442,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [204](#204).        Inspection of ships exempt from survey
 
-[204A](#204A).     Non‑application to certain ships
+[204A](#204A).     Non-application to certain ships
 
 [206](#206).        Operation of watertight doors etc 
 
@@ -488,11 +488,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [206S](#206S).      Certificates required for Australian passenger steamships
 
-[206T](#206T).      Certificates required for Australian cargo steamships
+[206T](#206T).     Certificates required for Australian cargo steamships
 
 [206U](#206U).     Certificates required for Australian nuclear ships
 
-[206V](#206V).     Documentary evidence of seaworthiness required for non‑Safety Convention ships not registered in Australia
+[206V](#206V).     Documentary evidence of seaworthiness required for non-Safety Convention ships not registered in Australia
 
 [206W](#206W).    Production of certificates or other documentary evidence
 
@@ -518,11 +518,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [214](#214).        Circumstances where complainant liable for costs of detention
 
-    **Division 4—Life‑saving appliances and fire protection**
+    **Division 4—Life-saving appliances and fire protection**
 
-[215](#215).        Regulations may make provision in relation to life‑saving and fire prevention
+[215](#215).        Regulations may make provision in relation to life-saving and fire prevention
 
-[216A](#216A).     Modification of certificates in respect of life‑saving appliances
+[216A](#216A).     Modification of certificates in respect of life-saving appliances
 
 [217](#217).        Offences as to appliances
 
@@ -542,7 +542,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [224](#224).        Duration, extension and cancellation of certificates
 
-[225](#225).        Particulars in certificate to be entered in log‑book
+[225](#225).        Particulars in certificate to be entered in log-book
 
 [226](#226).        Authority may issue certificate at request of Load Line Convention country
 
@@ -556,7 +556,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [227D](#227D).     Offences with respect to marks
 
-[227E](#227E).      Inspection of non‑Australian Load Line Convention ships
+[227E](#227E).      Inspection of non-Australian Load Line Convention ships
 
     **Division 6—Signals of distress**
 
@@ -578,7 +578,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [231D](#231D).     Deficiency in number of operators on Safety Convention ships
 
-[231E](#231E).      Log‑books
+[231E](#231E).      Log-books
 
 [231F](#231F).      Regulations providing for radio installations etc 
 
@@ -694,7 +694,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [267S](#267S).      Alteration etc  of construction of ships and cancellation of certificates
 
-[267T](#267T).      Ships to be surveyed periodically
+[267T](#267T).     Ships to be surveyed periodically
 
 [267U](#267U).     Cancellation of certificate if ship ceases to be an Australian ship
 
@@ -708,7 +708,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 12B—Ships carrying packaged harmful substances**
 
-[267ZA](#267ZA).   Interpretation
+[267ZA](#267ZA).  Interpretation
 
 [267ZB](#267ZB).   Application of Division
 
@@ -716,29 +716,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 12C—Sewage**
 
-[267ZD](#267ZD).   Interpretation
+[267ZD](#267ZD).  Interpretation
 
 [267ZE](#267ZE).   Application of Division
 
 [267ZF](#267ZF).   Regulations to give effect to Regulations 4, 9 and 10 of Annex IV
 
-[267ZG](#267ZG).   International Sewage Pollution Prevention Certificates for Australian ships
+[267ZG](#267ZG).  International Sewage Pollution Prevention Certificates for Australian ships
 
-[267ZH](#267ZH).   International Sewage Pollution Prevention Certificates for foreign ships
+[267ZH](#267ZH).  International Sewage Pollution Prevention Certificates for foreign ships
 
 [267ZJ](#267ZJ).    Alteration etc  of construction of ships and cancellation of certificates
 
-[267ZK](#267ZK).   Ships to be surveyed periodically
+[267ZK](#267ZK).  Ships to be surveyed periodically
 
 [267ZL](#267ZL).   Cancellation of sewage certificate if ship ceases to be an Australian ship
 
-[267ZM](#267ZM).  Certificates required for Australian ships
+[267ZM](#267ZM). Certificates required for Australian ships
 
-[267ZN](#267ZN).   Certificates to be carried on board Australian ships
+[267ZN](#267ZN).  Certificates to be carried on board Australian ships
 
 [267ZP](#267ZP).   Production of certificates
 
-[267ZQ](#267ZQ).   Directions in relation to foreign ships
+[267ZQ](#267ZQ).  Directions in relation to foreign ships
 
 [267ZS](#267ZS).   Operation of Division
 
@@ -746,13 +746,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [267ZT](#267ZT).   Definitions
 
-[267ZU](#267ZU).   Application of Division
+[267ZU](#267ZU).  Application of Division
 
 [267ZV](#267ZV).   Regulations to give effect to Regulations 5, 6, 8, 9, 13 and 16 of Annex VI
 
 [267ZW](#267ZW).  Air pollution prevention certificates for Australian ships
 
-[267ZX](#267ZX).   International Air Pollution Prevention Certificates for foreign ships
+[267ZX](#267ZX).  International Air Pollution Prevention Certificates for foreign ships
 
 [267ZY](#267ZY).   Obligation to report damage etc  to ship
 
@@ -760,15 +760,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 267ZZA Ships to be surveyed periodically
 
-[267ZZB](#267ZZB). Certificate lapses if ship ceases to be Australian ship
+267ZZB Certificate lapses if ship ceases to be Australian ship
 
-[267ZZC](#267ZZC). Certificates required for Australian ships
+267ZZC Certificates required for Australian ships
 
 267ZZD Certificates to be carried on board Australian ships
 
-[267ZZE](#267ZZE). Production of certificate
+267ZZE Production of certificate
 
-[267ZZF](#267ZZF). Directions in relation to foreign ships
+267ZZF Directions in relation to foreign ships
 
     **Division 13—Report of accidents and of dangers to navigation**
 
@@ -818,19 +818,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [283B](#283B).     Special personnel not passengers
 
-**Part VB—Off‑shore industry vessels and off‑shore industry mobile units**
+**Part VB—Off-shore industry vessels and off-shore industry mobile units**
 
 [283C](#283C).     Extension to prescribed Territories
 
-[283D](#283D).     Regulations with respect to off‑shore industry vessels
+[283D](#283D).     Regulations with respect to off-shore industry vessels
 
-[283E](#283E).      Regulations with respect to off‑shore industry mobile units
+[283E](#283E).      Regulations with respect to off-shore industry mobile units
 
-[283F](#283F).      Directions with respect to off‑shore industry mobile units
+[283F](#283F).      Directions with respect to off-shore industry mobile units
 
-[283G](#283G).     Off‑shore industry vessels and mobile units not registered in Australia deemed to be registered in Australia
+[283G](#283G).     Off-shore industry vessels and mobile units not registered in Australia deemed to be registered in Australia
 
-[283H](#283H).     Personnel of off‑shore industry vessels and mobile units not passengers
+[283H](#283H).     Personnel of off-shore industry vessels and mobile units not passengers
 
 [283J](#283J).      Notices by Minister as to International Maritime Organization resolutions
 
@@ -888,7 +888,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [303](#303).        Penalty for retaining possession of wreck
 
-[304](#304).        Notice to be posted in Customs‑house
+[304](#304).        Notice to be posted in Customs-house
 
 [305](#305).        Claim of owner to wreck
 
@@ -1058,11 +1058,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [405K](#405K).     Power of inspection of surveyors
 
-[405M](#405M).    Register tonnage of non‑Convention ships
+[405M](#405M).    Register tonnage of non-Convention ships
 
-[405N](#405N).     Tonnage of non‑Convention ships to be measured in certain cases
+[405N](#405N).     Tonnage of non-Convention ships to be measured in certain cases
 
-[405P](#405P).      Assignment of other tonnages to non‑Convention ships
+[405P](#405P).      Assignment of other tonnages to non-Convention ships
 
 **Part XI—Miscellaneous**
 
@@ -1114,11 +1114,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  Except in so far as the application of this section is expressly excluded by a provision of this Act, this Act does not apply in relation to:
 
-                     (a)  a trading ship proceeding on a voyage other than an overseas voyage or an inter‑State voyage;
+                     (a)  a trading ship proceeding on a voyage other than an overseas voyage or an inter-State voyage;
 
                      (b)  an Australian fishing vessel proceeding on a voyage other than an overseas voyage;
 
-                   (ba)  a fishing fleet support vessel proceeding on a voyage other than an overseas voyage;
+                    (ba)  a fishing fleet support vessel proceeding on a voyage other than an overseas voyage;
 
                      (c)  an inland waterways vessel; or
 
@@ -1148,9 +1148,9 @@ or in relation to its owner, master or crew.
 
                      (b)  the naval, military or air forces of a country other than Australia.
 
-##### <a id="4"></a>4  Application of provisions relating to steam‑ships
+##### <a id="4"></a>4  Application of provisions relating to steam-ships
 
-                   The provisions of this Act relating to steam‑ships shall apply, with such modifications as are prescribed, to ships propelled by electricity or other mechanical power.
+                   The provisions of this Act relating to steam-ships shall apply, with such modifications as are prescribed, to ships propelled by electricity or other mechanical power.
 
 ##### <a id="5"></a>5  Application of the _Criminal Code_
 
@@ -1178,7 +1178,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="author"></a>**_Authority_** means the Australian Maritime Safety Authority established by the _Australian Maritime Safety Authority Act 1990_.
 
-                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit‑taking institution) for the purposes of the _Banking Act 1959_.
+                    <a name="bank"></a>**_bank_** includes, but is not limited to, a body corporate that is an ADI (authorised deposit-taking institution) for the purposes of the _Banking Act 1959_.
 
                     <a name="child"></a><a name="child"></a>**_child_**: without limiting who is a child of a person for the purposes of this Act, someone is the **_child_** of a person if he or she is a child of the person within the meaning of the _Family Law Act 1975_.
 
@@ -1192,7 +1192,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                      (b)  the beneficial interest in which is vested in the Commonwealth or in a Commonwealth authority; or
 
-                     (c)  that is for the time being demised or sub‑demised to, or in the exclusive possession of, the Commonwealth or a Commonwealth authority;
+                     (c)  that is for the time being demised or sub-demised to, or in the exclusive possession of, the Commonwealth or a Commonwealth authority;
 
 but does not include a ship:
 
@@ -1200,7 +1200,7 @@ but does not include a ship:
 
                      (e)  the beneficial interest in which is vested in ANL Limited; or
 
-                      (f)  that is for the time being demised or sub‑demised to, or in the exclusive possession of, ANL Limited.
+                      (f)  that is for the time being demised or sub-demised to, or in the exclusive possession of, ANL Limited.
 
                     <a name="consul"></a>**_consul_** includes:
 
@@ -1212,11 +1212,11 @@ but does not include a ship:
 
                      (d)  counsellor, secretary or attaché of an embassy or other mission.
 
-                    <a name="co-ordinated-univers-time"></a>**_Co‑ordinated Universal Time_** means Co‑ordinated Universal Time as determined by the International Bureau of Weights and Measures.
+                    <a name="co-ordinated-univers-time"></a>**_Co-ordinated Universal Time_** means Co-ordinated Universal Time as determined by the International Bureau of Weights and Measures.
 
                     <a name="de-facto-partner"></a>**_de facto partner_** of a person has the meaning given by the _Acts Interpretation Act 1901_.
 
-                    <a name="diplomat-consular-repres-australia"></a>**_diplomatic or consular representative of Australia_** means a person appointed to hold, or to act in, any of the following offices (being an office of the Commonwealth) in a country or place outside Australia:
+                    <a name="australia"></a><a name="diplomat-consular-repres"></a>**_diplomatic or consular representative of_****_Australia_** means a person appointed to hold, or to act in, any of the following offices (being an office of the Commonwealth) in a country or place outside Australia:
 
                      (a)  ambassador;
 
@@ -1240,7 +1240,7 @@ but does not include a ship:
 
                      (b)  omit to perform an act.
 
-                    <a name="equip"></a>**_equipment_**, in relation to a ship, includes every thing or article belonging to or to be used in connexion with, or necessary for the navigation and safety of, the ship and, in particular, includes boats, tackle, pumps, apparel, furniture, life‑saving appliances, spars, masts, rigging, sails, fog signals, lights, signals of distress, signalling lamps, pilot ladders, radio equipment, medicines, medical and surgical stores and appliances, fire prevention, detecting and extinguishing appliances, inert gas systems, echo‑sounding devices, mechanical pilot hoists, buckets, compasses, charts, axes, lanterns and gear and apparatus for loading or unloading, or otherwise handling, cargo.
+                    <a name="equip"></a>**_equipment_**, in relation to a ship, includes every thing or article belonging to or to be used in connexion with, or necessary for the navigation and safety of, the ship and, in particular, includes boats, tackle, pumps, apparel, furniture, life-saving appliances, spars, masts, rigging, sails, fog signals, lights, signals of distress, signalling lamps, pilot ladders, radio equipment, medicines, medical and surgical stores and appliances, fire prevention, detecting and extinguishing appliances, inert gas systems, echo-sounding devices, mechanical pilot hoists, buckets, compasses, charts, axes, lanterns and gear and apparatus for loading or unloading, or otherwise handling, cargo.
 
                     <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
@@ -1300,7 +1300,7 @@ but does not include:
 
                      (b)  the beneficial interest in which is vested in the Commonwealth or a State or Territory; or
 
-                     (c)  that is for the time being demised or sub‑demised to, or in the exclusive possession of, the Commonwealth or a State or Territory;
+                     (c)  that is for the time being demised or sub-demised to, or in the exclusive possession of, the Commonwealth or a State or Territory;
 
 and includes a ship that belongs to, or that is operated by, the Australian Defence Force, but does not include a ship:
 
@@ -1308,15 +1308,15 @@ and includes a ship that belongs to, or that is operated by, the Australian Defe
 
                      (e)  the beneficial interest in which is vested in such a trading corporation; or
 
-                      (f)  that is for the time being demised or sub‑demised to, or in the exclusive possession of, such a trading corporation.
+                      (f)  that is for the time being demised or sub-demised to, or in the exclusive possession of, such a trading corporation.
 
-                    <a name="great-barrier-reef-region"></a>**_Great Barrier Reef Region_** has the same meaning as in the _Great Barrier Reef__Marine Park__Act 1975_.
+                    <a name="great-barrier-reef-region"></a>**_Great Barrier Reef Region_** has the same meaning as in the _Great Barrier Reef__Marine__Park__Act 1975_.
 
                     <a name="harbour"></a>**_harbour_** means a harbour properly so called, whether natural or artificial, and includes an estuary, navigable river, creek, channel, haven, roadstead, dock, pier, jetty or other work in or at which ships can obtain shelter or ship and unship goods or passengers.
 
                     <a name="inland-waterwai-vessel"></a>**_inland waterways vessel_** means a ship that is used, or, being a ship in the course of construction, is intended to be used, wholly in waters other than waters of the sea, but does not include a Commonwealth ship.
 
-                    <a name="inter-state-voyag"></a>**_inter‑State voyage_**, in relation to a ship, means a voyage (other than an overseas voyage) in the course of which the ship travels between:
+                    <a name="inter-state-voyag"></a>**_inter-State voyage_**, in relation to a ship, means a voyage (other than an overseas voyage) in the course of which the ship travels between:
 
                      (a)  a port in a State and a port in another State;
 
@@ -1342,7 +1342,7 @@ whether or not the ship travels between 2 or more ports in any one State or Terr
 
                     <a name="offici"></a>**_official_** means a superintendent, a surveyor, a Medical Inspector of Seamen or any other person, including a Collector or other officer of Customs, required to perform functions or discharge duties for the purposes of this Act.
 
-                    <a name="offici-log-book"></a>**_official log‑book_**, in relation to a ship, means the official log‑book kept by the master of the ship in pursuance of section 171 or in pursuance of the law of a country other than Australia.
+                    <a name="offici-log-book"></a>**_official log-book_**, in relation to a ship, means the official log-book kept by the master of the ship in pursuance of section 171 or in pursuance of the law of a country other than Australia.
 
                     <a name="order"></a>**_order_** means an order made under this Act.
 
@@ -1408,11 +1408,11 @@ whether or not the ship travels between 2 or more ports in   Australia in the co
 
                      (a)  a barge, lighter or other floating vessel;
 
-                     (b)  an air‑cushion vehicle, or other similar craft, used wholly or primarily in navigation by water;
+                     (b)  an air-cushion vehicle, or other similar craft, used wholly or primarily in navigation by water;
 
-                     (c)  an off‑shore industry mobile unit;
+                     (c)  an off-shore industry mobile unit;
 
-but (except in Part IIIA, in section 192B, in Division 1, 3, 4, 5, 6, 10, 11 or 13 of Part IV, in Part VII or IX, in Division 1, 3 or 4 of Part X or in Part XI) does not include an off‑shore industry mobile unit that is not self‑propelled.
+but (except in Part IIIA, in section 192B, in Division 1, 3, 4, 5, 6, 10, 11 or 13 of Part IV, in Part VII or IX, in Division 1, 3 or 4 of Part X or in Part XI) does not include an off-shore industry mobile unit that is not self-propelled.
 
                     <a name="stepchild"></a><a name="stepchild"></a>**_stepchild_**: without limiting who is a stepchild of a person for the purposes of this Act, someone who is a child of a de facto partner of the person is the **_stepchild_** of the person, if he or she would be the person’s stepchild except that the person is not legally married to the partner.
 
@@ -1438,7 +1438,7 @@ but (except in Part IIIA, in section 192B, in Division 1, 3, 4, 5, 6, 10, 
 
                      (b)  the provision of services to ships or shipping, whether for reward or otherwise;
 
-but does not include a Commonwealth ship, a fishing vessel, a fishing fleet support vessel, an off‑shore industry mobile unit, an off‑shore industry vessel to which this Act applies, an inland waterways vessel or a pleasure craft.
+but does not include a Commonwealth ship, a fishing vessel, a fishing fleet support vessel, an off-shore industry mobile unit, an off-shore industry vessel to which this Act applies, an inland waterways vessel or a pleasure craft.
 
                     <a name="wage"></a>**_wages_** includes emoluments.
 
@@ -1556,7 +1556,7 @@ Provided that a ship shall not be deemed to be engaged in the coasting trade by 
 
                              (ii)  a pilot who is proceeding from his or her home station for the purpose of meeting a ship requiring the pilot’s services or is returning to his or her home station after piloting a ship:
 
-Provided further that the Governor‑General may by order declare that the carrying of passengers or cargo between ports in any Territory, or between ports in any such Territory and any other Australian ports, or ports in any other such Territory shall not be deemed engaging in the coasting trade.
+Provided further that the Governor-General may by order declare that the carrying of passengers or cargo between ports in any Territory, or between ports in any such Territory and any other Australian ports, or ports in any other such Territory shall not be deemed engaging in the coasting trade.
 
 Note:          In relation to subparagraph (1)(d)(i), see also subsection 6(8).
 
@@ -1566,15 +1566,15 @@ Note:          In relation to subparagraph (1)(d)(i), see al
 
                    A reference in this Act to a ship registered in Australia shall be read as a reference to a ship registered under the _Shipping Registration Act 1981_ and as including a reference to a ship that is required to be registered under that Act but is not so registered.
 
-##### <a id="8"></a>8  Off‑shore industry fixed structures, mobile units and vessels
+##### <a id="8"></a>8  Off-shore industry fixed structures, mobile units and vessels
 
              (1)  In this section:
 
                     <a name="australia"></a>**_Australia_** includes such of the external Territories as are prescribed for the purposes of this section.
 
-                    <a name="natur-resourc"></a>**_natural resources_** means the mineral and other non‑living resources of the seabed and its subsoil.
+                    <a name="natur-resourc"></a>**_natural resources_** means the mineral and other non-living resources of the seabed and its subsoil.
 
-             (2)  A reference in this Act to an off‑shore industry fixed structure shall be read as a reference to a structure (including a pipeline) that:
+             (2)  A reference in this Act to an off-shore industry fixed structure shall be read as a reference to a structure (including a pipeline) that:
 
                      (a)  is fixed to the seabed and is not able to move or be moved as an entity from one place to another; and
 
@@ -1586,7 +1586,7 @@ Note:          In relation to subparagraph (1)(d)(i), see al
 
                             (iii)  the subsoil of that seabed.
 
-             (3)  A reference in this Act to an off‑shore industry mobile unit shall be read as a reference to:
+             (3)  A reference in this Act to an off-shore industry mobile unit shall be read as a reference to:
 
                      (a)  a vessel that is used or intended for use wholly or primarily in, or in any operations or activities associated with or incidental to, exploring or exploiting the natural resources of any or all of the following, namely:
 
@@ -1596,7 +1596,7 @@ Note:          In relation to subparagraph (1)(d)(i), see al
 
                             (iii)  the subsoil of that seabed;
 
-                            by drilling the seabed or its sub‑soil, or by obtaining substantial quantities of material from the seabed or its sub‑soil, with equipment that is on or forms part of the vessel;
+                            by drilling the seabed or its sub-soil, or by obtaining substantial quantities of material from the seabed or its sub-soil, with equipment that is on or forms part of the vessel;
 
                      (b)  a structure (not being a vessel) that:
 
@@ -1612,13 +1612,13 @@ Note:          In relation to subparagraph (1)(d)(i), see al
 
                                         (C)  the subsoil of that seabed;
 
-                                   by drilling the seabed or its sub‑soil, or by obtaining substantial quantities of material from the seabed or its sub‑soil, with equipment that is on or forms part of the structure; or
+                                   by drilling the seabed or its sub-soil, or by obtaining substantial quantities of material from the seabed or its sub-soil, with equipment that is on or forms part of the structure; or
 
-                     (c)  a barge or like vessel fitted with living quarters for more than 12 persons and used or intended for use wholly or primarily in connection with the construction, maintenance or repair of off‑shore industry fixed structures.
+                     (c)  a barge or like vessel fitted with living quarters for more than 12 persons and used or intended for use wholly or primarily in connection with the construction, maintenance or repair of off-shore industry fixed structures.
 
-             (4)  A reference in this Act to an off‑shore industry vessel shall be read as a reference to:
+             (4)  A reference in this Act to an off-shore industry vessel shall be read as a reference to:
 
-                     (a)  a ship (not being an off‑shore industry mobile unit) that is used or intended for use wholly or primarily in, or in any operations or activities associated with or incidental to, exploring or exploiting the natural resources of any or all of the following, namely:
+                     (a)  a ship (not being an off-shore industry mobile unit) that is used or intended for use wholly or primarily in, or in any operations or activities associated with or incidental to, exploring or exploiting the natural resources of any or all of the following, namely:
 
                               (i)  the continental shelf of Australia;
 
@@ -1626,29 +1626,29 @@ Note:          In relation to subparagraph (1)(d)(i), see al
 
                             (iii)  the subsoil of that seabed; or
 
-                     (b)  any other ship (not being an off‑shore industry mobile unit, or a ship, or a ship included in a class of ships, declared by the Minister, by instrument in writing, to be a ship or a class of ships, as the case requires, to which this paragraph does not apply) at any time when it is being so used.
+                     (b)  any other ship (not being an off-shore industry mobile unit, or a ship, or a ship included in a class of ships, declared by the Minister, by instrument in writing, to be a ship or a class of ships, as the case requires, to which this paragraph does not apply) at any time when it is being so used.
 
-             (5)  A vessel or other structure that is used or intended for use in, or in any operations or activities associated with or incidental to, exploring or exploiting natural resources referred to in paragraph (3)(a) or subparagraph (3)(b)(iii) shall not be taken not to be an off‑shore industry mobile unit by reason only that the vessel or other structure is also used or intended for use in, or in operations or activities associated with or incidental to, exploring or exploiting other natural resources.
+             (5)  A vessel or other structure that is used or intended for use in, or in any operations or activities associated with or incidental to, exploring or exploiting natural resources referred to in paragraph (3)(a) or subparagraph (3)(b)(iii) shall not be taken not to be an off-shore industry mobile unit by reason only that the vessel or other structure is also used or intended for use in, or in operations or activities associated with or incidental to, exploring or exploiting other natural resources.
 
-             (6)  A barge or like vessel that is used or intended for use in connection with the construction, maintenance or repair of off‑shore industry fixed structures shall not be taken not to be an off‑shore industry mobile unit by reason only that the vessel is also used or intended for use in connection with the construction, maintenance or repair of other structures.
+             (6)  A barge or like vessel that is used or intended for use in connection with the construction, maintenance or repair of off-shore industry fixed structures shall not be taken not to be an off-shore industry mobile unit by reason only that the vessel is also used or intended for use in connection with the construction, maintenance or repair of other structures.
 
-             (7)  A ship that is used or intended for use in, or in any operations or activities associated with or incidental to, exploring or exploiting natural resources referred to in paragraph (4)(a) shall not be taken not to be an off‑shore industry vessel by reason only that the ship is also used or intended for use in, or in operations or activities associated with or incidental to, exploring or exploiting other natural resources.
+             (7)  A ship that is used or intended for use in, or in any operations or activities associated with or incidental to, exploring or exploiting natural resources referred to in paragraph (4)(a) shall not be taken not to be an off-shore industry vessel by reason only that the ship is also used or intended for use in, or in operations or activities associated with or incidental to, exploring or exploiting other natural resources.
 
-##### <a id="8A"></a>8A  Off‑shore industry vessels to which Act applies
+##### <a id="8A"></a>8A  Off-shore industry vessels to which Act applies
 
-             (1)  The owner of an off‑shore industry vessel may apply to the Authority for a declaration under subsection (2) in relation to the off‑shore industry vessel.
+             (1)  The owner of an off-shore industry vessel may apply to the Authority for a declaration under subsection (2) in relation to the off-shore industry vessel.
 
-             (2)  The Authority may, in writing, declare the off‑shore industry vessel to be an off‑shore industry vessel to which this Act applies.
+             (2)  The Authority may, in writing, declare the off-shore industry vessel to be an off-shore industry vessel to which this Act applies.
 
           (2A)  A declaration under subsection (2) is not a legislative instrument for the purposes of the _Legislative Instruments Act 2003._
 
-             (3)  A reference in this Act to an off‑shore industry vessel to which this Act applies is a reference to an off‑shore industry vessel in relation to which a declaration under subsection (2) is in force.
+             (3)  A reference in this Act to an off-shore industry vessel to which this Act applies is a reference to an off-shore industry vessel in relation to which a declaration under subsection (2) is in force.
 
-##### <a id="8AA"></a>8AA  Declaration that Act applies in relation to trading ships engaging in intra‑state trade
+##### <a id="8AA"></a>8AA  Declaration that Act applies in relation to trading ships engaging in intra-state trade
 
              (1)  The owner of a trading ship may apply to the Authority for a declaration under subsection (2) in relation to the ship.
 
-             (2)  The Authority may, in writing, declare that this Act applies in relation to the ship even when the ship is proceeding on a voyage other than an overseas voyage or an inter‑state voyage.
+             (2)  The Authority may, in writing, declare that this Act applies in relation to the ship even when the ship is proceeding on a voyage other than an overseas voyage or an inter-state voyage.
 
              (3)  The declaration has effect despite section 2.
 
@@ -1656,7 +1656,7 @@ Note:          In relation to subparagraph (1)(d)(i), see al
 
              (5)  If a declaration under subsection (2) is in force in relation to a trading ship, then, for the purposes of this Act, the ship is to be taken not to be a ship referred to in subsection 2(1).
 
-##### <a id="8AB"></a>8AB  Declarations that Act applies in relation to fishing fleet support vessels on inter‑state or intra‑state voyages
+##### <a id="8AB"></a>8AB  Declarations that Act applies in relation to fishing fleet support vessels on inter-state or intra-state voyages
 
              (1)  The owner of a fishing fleet support vessel may apply to the Authority for a declaration under subsection (1A) in relation to the vessel.
 
@@ -1682,7 +1682,7 @@ Note:          In relation to subparagraph (1)(d)(i), see al
 
 ##### <a id="8B"></a>8B  Ships imported into Australia deemed to be registered in Australia
 
-             (1)  Subject to subsection (2) and except where the contrary intention appears, the provisions of this Act apply in relation to a ship (other than an off‑shore industry vessel or an off‑shore industry mobile unit) not registered in Australia that has been imported into Australia within the meaning of the _Customs Act 1901_ as if it were registered in Australia and were not registered in any other country.
+             (1)  Subject to subsection (2) and except where the contrary intention appears, the provisions of this Act apply in relation to a ship (other than an off-shore industry vessel or an off-shore industry mobile unit) not registered in Australia that has been imported into Australia within the meaning of the _Customs Act 1901_ as if it were registered in Australia and were not registered in any other country.
 
              (2)  The Minister or the Authority may, by instrument in writing, direct that, in relation to a ship, or ships included in a class of ships, specified in the direction, subsection (1) does not have effect or does not have effect in respect of a provision or provisions of this Act specified in the direction.
 
@@ -1714,7 +1714,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    In this Part, unless the contrary intention appears:
 
-                    <a name="ship"></a>**_ship_** does not include a barge, lighter or other floating vessel that is not self‑propelled.
+                    <a name="ship"></a>**_ship_** does not include a barge, lighter or other floating vessel that is not self-propelled.
 
                     <a name="stcw-convent"></a>**_STCW Convention_** means the International Convention on Standards of Training, Certification and Watchkeeping for Seafarers, 1978 adopted at London by the International Maritime Organization on 7 July 1978 as affected by any amendments made under Article XII of the Convention that have entered into force for Australia.
 
@@ -1880,11 +1880,11 @@ Provided that the regulations shall not allow the employment of the crew of such
 
           (1A)  The rates of wages to be paid in any port in Australia to shore labourers employed in handling cargo or ballast in connexion with the loading or unloading of any such ship shall be not less than the rates in any scale prescribed, under an award or agreement (if any) made or agreed to under any law of the Commonwealth or of a State or the Northern Territory, for the payment of such labour at that port.
 
-                    Penalty (on master, owner, agent or charterer) for any offence against subsection (1) or (1A):    $2,000.
+                    Penalty (on master, owner, agent or charterer) for any offence against subsection (1) or (1A):            $2,000.
 
           (1B)  If a sufficiency of shore labour cannot be obtained at such rates of wages it shall, for the purposes of this section, be deemed to be not available, and, in that case, the crew may be employed to the extent of the insufficiency.
 
-             (2)  The regulations may forbid the employment, except as prescribed, of members of the crew of a ship that is engaged in making inter‑State voyages in handling cargo or ballast in connexion with the loading or unloading of ships.
+             (2)  The regulations may forbid the employment, except as prescribed, of members of the crew of a ship that is engaged in making inter-State voyages in handling cargo or ballast in connexion with the loading or unloading of ships.
 
 ### Division 8—Engagement of seamen
 
@@ -1936,11 +1936,11 @@ Provided that the regulations shall not allow the employment of the crew of such
 
              (6)  Where the Marine Council makes a decision refusing to revoke a determination, the Marine Council shall give notice in writing of the decision to the person to whom the determination relates.
 
-             (7)  A person who knows that a determination under subsection (1) is in force in relation to him or her shall not engage as a master or seaman or join or re‑join the crew of a ship.
+             (7)  A person who knows that a determination under subsection (1) is in force in relation to him or her shall not engage as a master or seaman or join or re-join the crew of a ship.
 
                     Penalty:  $2,000.
 
-             (8)  A master, owner or agent who knows that a determination under subsection (1) is in force in relation to a person shall not take the person into employment as a master or seaman or permit the person to join or re‑join the crew of a ship.
+             (8)  A master, owner or agent who knows that a determination under subsection (1) is in force in relation to a person shall not take the person into employment as a master or seaman or permit the person to join or re-join the crew of a ship.
 
                     Penalty:  $2,000.
 
@@ -1984,7 +1984,7 @@ Provided that if his or her return to the proper return port is delayed by any a
 
              (1)  The owner or master of a ship to which this Part applies shall, at such times as are required by the Authority, furnish to a prescribed person such details of, and such details of changes in, the crew of the ship as are prescribed.
 
-                    Penalty (on owner and master): $1,000.
+                    Penalty (on owner and master):   $1,000.
 
              (2)  An offence under subsection (1) is an offence of strict liability.
 
@@ -2102,7 +2102,7 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
              (4)  Subsection 50(5) applies to and in relation to a seaman discharged in pursuance of subsection (3) of this section as if that seaman had been discharged in pursuance of subsection 50(3).
 
-##### <a id="63"></a>63  False discharges
+##### <a id="63"></a>63  False discharges
 
                    No person shall give to any seaman a discharge which falsely indicates the capacity in which the seaman actually served or the time during which the seaman served in that capacity.
 
@@ -2118,7 +2118,7 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
                      (c)  fraudulently use, or fraudulently produce to a proper authority, a certificate of discharge that is forged, is altered or does not relate to the person; or
 
-                     (d)  allow a person to use fraudulently a certificate of discharge that does not relate to the last‑mentioned person.
+                     (d)  allow a person to use fraudulently a certificate of discharge that does not relate to the last-mentioned person.
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
@@ -2140,7 +2140,7 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
                      (b)  a bank.
 
-             (2)  Except by agreement with the master of the ship on which he or she engages to serve, a seaman is not entitled to make stipulations under this section for the allotment of a portion of his or her wages which, or of portions of his or her wages the total of which, is greater than three‑fourths of the wages.
+             (2)  Except by agreement with the master of the ship on which he or she engages to serve, a seaman is not entitled to make stipulations under this section for the allotment of a portion of his or her wages which, or of portions of his or her wages the total of which, is greater than three-fourths of the wages.
 
              (3)  A stipulation under this section is of no force unless:
 
@@ -2158,7 +2158,7 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
              (2)  In any such proceeding, it shall be sufficient for the claimant to prove that he or she is the person mentioned in the note, and that the note was given by the owner or master, or some authorized agent; and the seaman shall be presumed to be duly earning his or her wages unless the contrary is shown to the satisfaction of the Court by:
 
-                     (b)  a certified copy of some entry in the official log‑book to the effect that he or she has left the ship; or
+                     (b)  a certified copy of some entry in the official log-book to the effect that he or she has left the ship; or
 
                      (c)  such other evidence as the Court, in its absolute discretion, considers sufficient to show satisfactorily that the seaman has ceased to be entitled to the wages out of which the allotment is to be paid.
 
@@ -2174,11 +2174,11 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
                    An allotment to a bank shall be in favour of such persons, and carried into effect in such manner, as is prescribed.
 
-##### <a id="75"></a>75  Payment of wages on discharge
+##### <a id="75"></a>75  Payment of wages on discharge
 
              (1)  Where a seaman is discharged, the seaman shall, before or at the time of discharge, be paid the amount of wages due up to that time, less any deductions specified in the account required to be delivered under subsection 76(1).
 
-                    Penalty (on the owner and master):           $1,000.
+                    Penalty (on the owner and master):   $1,000.
 
              (3)  It is a defence to a prosecution for an offence against subsection (1) if the person charged proves that the failure to pay to the seaman the amount of his or her wages in accordance with that subsection was due to the seaman’s act or default, to a reasonable dispute as to liability for those wages or to any other cause not attributable to the wrongful act or default of the person charged or of any person acting on his or her behalf.
 
@@ -2188,9 +2188,9 @@ there shall be implied, notwithstanding any agreement to the contrary, an obliga
 
                      (a)  the period from and including a day in one calendar month to and including the day before the numerically corresponding day in the next succeeding month; or
 
-                     (b)  where there is not in the next succeeding month a day numerically corresponding to the day in the first‑mentioned month, the period from and including the first‑mentioned day to and including the last day of that next succeeding month.
+                     (b)  where there is not in the next succeeding month a day numerically corresponding to the day in the first-mentioned month, the period from and including the first-mentioned day to and including the last day of that next succeeding month.
 
-             (2)  In the calculation of the wages of a seaman for a period of less than a month, being wages payable at a rate per month, each day in that period shall, for the purposes of this Act, be deemed to be one‑thirtieth part of a month.
+             (2)  In the calculation of the wages of a seaman for a period of less than a month, being wages payable at a rate per month, each day in that period shall, for the purposes of this Act, be deemed to be one-thirtieth part of a month.
 
 ##### <a id="76"></a>76  Account of wages on discharge
 
@@ -2330,7 +2330,7 @@ the seaman is entitled to wages, at the rate payable on the day of the terminati
 
 ##### <a id="93"></a>93  Wages not recoverable abroad in certain cases
 
-             (1)  Where a seaman is engaged in Australia for a voyage or engagement which is to terminate in Australia the seaman shall not be entitled to sue in any Court abroad for wages, unless the seaman is discharged with such sanction as is required by law and with the written consent of the master or proves such ill‑usage on the part or by the authority of the master as to warrant reasonable apprehension of danger to his or her life or health if the seaman were to remain on board.
+             (1)  Where a seaman is engaged in Australia for a voyage or engagement which is to terminate in Australia the seaman shall not be entitled to sue in any Court abroad for wages, unless the seaman is discharged with such sanction as is required by law and with the written consent of the master or proves such ill-usage on the part or by the authority of the master as to warrant reasonable apprehension of danger to his or her life or health if the seaman were to remain on board.
 
              (2)  If a seaman, on his or her return to Australia, proves that the master or owner has been guilty of any conduct or default which, but for this section, would have entitled the seaman to sue for wages before the termination of the voyage or engagement, the seaman shall be entitled to recover, in addition to his or her wages, such compensation as the Court hearing the case thinks reasonable.
 
@@ -2340,7 +2340,7 @@ the seaman is entitled to wages, at the rate payable on the day of the terminati
 
              (2)  The master of a ship shall, so far as the case permits, have the same rights, liens, and remedies for the recovery of disbursements or liabilities properly made or incurred by the master on account of the ship as a master has for the recovery of his or her wages.
 
-             (3)  If in any proceeding in any Court touching the claim of a master in respect of wages, or of such disbursements or liabilities as aforesaid, any right of set‑off or counter‑claim is set up, the Courts may enter into and adjudicate upon all questions and settle all accounts then arising or outstanding and unsettled between the parties to the proceeding, and may direct payment of any balance found to be due.
+             (3)  If in any proceeding in any Court touching the claim of a master in respect of wages, or of such disbursements or liabilities as aforesaid, any right of set-off or counter-claim is set up, the Courts may enter into and adjudicate upon all questions and settle all accounts then arising or outstanding and unsettled between the parties to the proceeding, and may direct payment of any balance found to be due.
 
 ### Division 12—Discipline
 
@@ -2358,7 +2358,7 @@ the seaman is entitled to wages, at the rate payable on the day of the terminati
 
              (2)  Every person whom the master of a ship is legally compelled to convey, and every person who goes to sea in a ship without such consent as aforesaid, shall, so long as he or she remains in the ship, be subject to the same laws and regulations for preserving discipline as if he or she were a member of the crew, and had signed the agreement.
 
-##### <a id="110"></a>110  Return of foreign‑going seaman to ship
+##### <a id="110"></a>110  Return of foreign-going seaman to ship
 
              (1)  When a seaman belonging to a ship that is about to proceed on an overseas voyage from an Australian port is imprisoned on summary conviction for any term, and his or her ship will leave Australia before the expiration of the seaman’s sentence, the Authority may, with the consent of the seaman, cause the seaman to be delivered to the master of the ship at any time within 24 hours before sailing, and the master shall keep the seaman on board under custody till the ship has left port.
 
@@ -2376,9 +2376,9 @@ the seaman is entitled to wages, at the rate payable on the day of the terminati
 
              (2)  If the Authority is satisfied, from the report of the superintendent or other official making the examination, that the provisions or water are of bad quality or deficient in quantity, it shall, by writing, require the master to provide provisions and water of good quality, or sufficient in quantity, as the case may be, and to cease to use or supply to the crew any provisions or water found to be of bad quality, and the master shall comply with the requisition.
 
-                    Penalty (on master):  $2,000.
+                    Penalty (on master):   $2,000.
 
-             (3)  The superintendent or person making the examination shall enter the result thereof in the official log‑book.
+             (3)  The superintendent or person making the examination shall enter the result thereof in the official log-book.
 
              (4)  If the Authority certifies that there was no reasonable ground for the complaint, each of the complainants shall be liable to forfeit out of his or her wages a sum not exceeding one week’s wages.
 
@@ -2448,7 +2448,7 @@ having regard to the nature and duration of the voyage and the size of the crew.
 
              (1)  The master of a ship shall not take the ship to sea, and the owner or agent of the ship shall not permit the ship to be taken to sea, unless the ship is provided, in accordance with the regulations, with:
 
-                     (a)  medicines, medical and surgical stores and appliances and anti‑scorbutics; and
+                     (a)  medicines, medical and surgical stores and appliances and anti-scorbutics; and
 
                      (b)  instructions for dispensing and using medicines, medical and surgical stores and appliances.
 
@@ -2458,7 +2458,7 @@ having regard to the nature and duration of the voyage and the size of the crew.
 
 ##### <a id="126"></a>126  Inspection of medicines
 
-             (1)  The Authority may nominate any duly qualified person to inspect the medicines, medical and surgical stores, and anti‑scorbutics, required by this Part to be carried.
+             (1)  The Authority may nominate any duly qualified person to inspect the medicines, medical and surgical stores, and anti-scorbutics, required by this Part to be carried.
 
              (2)  The master, on being required by that person, shall make good any deficiency in quantity or quality of such articles.
 
@@ -2670,11 +2670,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  is entitled to receive wages under section 132; and
 
-                     (c)  is not an in‑patient in a hospital;
+                     (c)  is not an in-patient in a hospital;
 
 direct the seaman to submit himself or herself for medical examination to a duly qualified medical practitioner specified in the notice at or before such time as is so specified and, if the seaman, without reasonable excuse, fails to submit himself or herself for medical examination to the medical practitioner at or before that time, the seaman is not entitled to receive wages under that section in respect of any period after that time and before he or she submits himself or herself for medical examination to that medical practitioner or to such other duly qualified medical practitioner as the owner, agent or master directs.
 
-             (4)  Nothing in this section affects the entitlement of a seaman to wages under section 132 in respect of a period during which the seaman is an in‑patient in a hospital.
+             (4)  Nothing in this section affects the entitlement of a seaman to wages under section 132 in respect of a period during which the seaman is an in-patient in a hospital.
 
              (5)  In this section, **_seaman_** includes master.
 
@@ -2720,7 +2720,7 @@ having more than 10 and less than 100 persons on board, and not carrying a duly 
 
 ##### <a id="136"></a>136  Regulations relating to accommodation
 
-             (1)  The Governor‑General may make regulations prescribing the accommodation to be provided for the master, officers and crew of a ship and, without limiting the generality of the foregoing, prescribing matters for or in relation to:
+             (1)  The Governor-General may make regulations prescribing the accommodation to be provided for the master, officers and crew of a ship and, without limiting the generality of the foregoing, prescribing matters for or in relation to:
 
                      (a)  the minimum amount of space to be provided for each person;
 
@@ -2756,13 +2756,13 @@ having more than 10 and less than 100 persons on board, and not carrying a duly 
 
              (5)  Regulations and orders giving effect to the Conventions do not apply in relation to a ship referred to in paragraph 2(1)(a), (b), (c) or (d) to the extent that a law of a State or of the Northern Territory gives effect to the Conventions in relation to that ship.
 
-##### <a id="137"></a>137  Provision of ventilation and wheel‑houses
+##### <a id="137"></a>137  Provision of ventilation and wheel-houses
 
                    The Authority may require the owner of a ship to provide:
 
                      (a)  such ventilation of the machinery and boiler spaces of the ship as the Authority considers necessary; and
 
-                     (b)  a wheel‑house, or such other shelter, as the Authority considers adequate for the protection of the helmsman.
+                     (b)  a wheel-house, or such other shelter, as the Authority considers adequate for the protection of the helmsman.
 
 ##### <a id="138"></a>138  Crew accommodation
 
@@ -2796,7 +2796,7 @@ the Marine Council is to inquire into the question and make such order as it con
 
 ##### <a id="138A"></a>138A  Ships not to go to sea without required accommodation
 
-                   The owner of a ship shall not suffer the ship to go to sea unless the ship is provided with the accommodation, wheel‑house or other shelter, and ventilation, with which the ship is required, under or by virtue of this Division, to be provided.
+                   The owner of a ship shall not suffer the ship to go to sea unless the ship is provided with the accommodation, wheel-house or other shelter, and ventilation, with which the ship is required, under or by virtue of this Division, to be provided.
 
                     Penalty:  $1,000.
 
@@ -2862,9 +2862,9 @@ the master of the ship shall not refuse the seaman leave to go ashore for that p
 
              (1)  Subject to subsection (1A), if a seaman (other than a seaman discharged in accordance with this Act) is left on shore at any port, including a port outside Australia, from a ship, the master of the ship shall:
 
-                     (a)  prepare, in the prescribed form, a full and true account of the wages of the seaman, and enter in the official log‑book of the ship a statement of the wages due to the seaman;
+                     (a)  prepare, in the prescribed form, a full and true account of the wages of the seaman, and enter in the official log-book of the ship a statement of the wages due to the seaman;
 
-                     (b)  take into his or her charge any effects of the seaman left on the ship and enter in the official log‑book of the ship particulars of those effects;
+                     (b)  take into his or her charge any effects of the seaman left on the ship and enter in the official log-book of the ship particulars of those effects;
 
                      (c)  deliver the account prepared under paragraph (a) and any effects of the seaman which the master has taken into his or her charge under paragraph (b):
 
@@ -2880,7 +2880,7 @@ the master of the ship shall not refuse the seaman leave to go ashore for that p
 
           (1A)  Subsection (1) does not apply in relation to a seaman serving under articles of agreement where the seaman is left on shore at a port in accordance with the terms of the articles of agreement.
 
-             (2)  Where the master of a ship delivers an account or effects, or pays the amount of any wages, to a proper authority under subsection (1), the master shall make an entry to that effect in the official log‑book of the ship stating the reason why the account or effects were not delivered, or the amount of wages were not paid, to the seaman.
+             (2)  Where the master of a ship delivers an account or effects, or pays the amount of any wages, to a proper authority under subsection (1), the master shall make an entry to that effect in the official log-book of the ship stating the reason why the account or effects were not delivered, or the amount of wages were not paid, to the seaman.
 
              (3)  A proper authority to whom an account or effects are delivered, or an amount is paid, under subsection (1) shall transmit that account, those effects or that amount, as the case may be, to the Authority.
 
@@ -2922,7 +2922,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="150"></a>150  Master to take charge of money and effects
 
-                   If a seaman belonging to a ship dies, the master of the ship shall take into his or her charge any money or effects of the seaman which are on, or come on to, the ship and enter in the official log‑book of the ship such particulars with respect to that money and those effects as are prescribed.
+                   If a seaman belonging to a ship dies, the master of the ship shall take into his or her charge any money or effects of the seaman which are on, or come on to, the ship and enter in the official log-book of the ship such particulars with respect to that money and those effects as are prescribed.
 
 ##### <a id="151"></a>151  Death of seamen abroad
 
@@ -2940,7 +2940,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (5)  In all cases where a seaman dies during the progress of a voyage or engagement, the master shall give to the proper authority to whom payment and delivery is made as aforesaid such account in such form as he or she requires of the property of the deceased.
 
-             (6)  A deduction claimed by the master in the account shall not be allowed unless verified by an entry in the official log‑book, and also by such other vouchers (if any) as are reasonably required by the proper authority to whom the account is given.
+             (6)  A deduction claimed by the master in the account shall not be allowed unless verified by an entry in the official log-book, and also by such other vouchers (if any) as are reasonably required by the proper authority to whom the account is given.
 
 ##### <a id="152"></a>152  Penalty for not accounting for effects
 
@@ -2948,7 +2948,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  taking charge of the property of a deceased seaman, or
 
-                     (b)  making in the official log‑book the proper entries relating thereto, or
+                     (b)  making in the official log-book the proper entries relating thereto, or
 
                      (c)  procuring the proper attestation of those entries, or
 
@@ -3056,7 +3056,7 @@ a proper authority may take into his or her charge that money and those effects.
 
              (7)  Where the property has been paid and delivered by the Authority to any person who was the deceased’s spouse or de facto partner immediately before the deceased’s death, or who is the deceased’s next of kin, or legatee of the deceased or as consul of the country of which the deceased was a subject, whether before or after the demand made by the creditor, the creditor shall have the same rights and remedies against that person as if he or she had received the property as the legal personal representative of the deceased.
 
-             (8)  In determining for the purposes of subsections (6) and (7) whether a person is next‑of‑kin of another person, the following persons are also to be taken into account:
+             (8)  In determining for the purposes of subsections (6) and (7) whether a person is next-of-kin of another person, the following persons are also to be taken into account:
 
                      (a)  someone who is the child of the person, or of whom the person is the child, because of the definition of **_child_** in this Act;
 
@@ -3086,11 +3086,11 @@ a proper authority may take into his or her charge that money and those effects.
 
 ##### <a id="161"></a>161  Relief of families by public institutions
 
-             (1)  Where, during the absence of any seaman on a voyage, the wife or husband, de facto partner, or any of the children or step‑children, of the seaman becomes chargeable to or obtains relief from any public body or institution for the relief of destitute persons in Australia, that institution shall be entitled to be reimbursed, out of the wages of the seaman earned during the voyage, any sums properly expended during the seaman’s absence in the maintenance of those members of the seaman’s family or any of them, so that the sums do not exceed the following proportions of the seaman’s wages, that is to say:
+             (1)  Where, during the absence of any seaman on a voyage, the wife or husband, de facto partner, or any of the children or step-children, of the seaman becomes chargeable to or obtains relief from any public body or institution for the relief of destitute persons in Australia, that institution shall be entitled to be reimbursed, out of the wages of the seaman earned during the voyage, any sums properly expended during the seaman’s absence in the maintenance of those members of the seaman’s family or any of them, so that the sums do not exceed the following proportions of the seaman’s wages, that is to say:
 
-                     (a)  If only one of those members is chargeable or obtains relief, one‑half of the wages;
+                     (a)  If only one of those members is chargeable or obtains relief, one-half of the wages;
 
-                     (b)  If 2 or more of those members are chargeable or obtain relief, two‑thirds of the wages.
+                     (b)  If 2 or more of those members are chargeable or obtain relief, two-thirds of the wages.
 
              (2)  If, during the absence of any seaman, any sums have been paid by the owner of his or her ship to or on behalf of any such member as aforesaid, under an allotment note made by the seaman in favour of the member, any claim for reimbursement shall be limited to the excess (if any) of the proportion of the wages hereinbefore mentioned over the sums so paid.
 
@@ -3158,7 +3158,7 @@ a proper authority may take into his or her charge that money and those effects.
 
                      (a)  the articles of agreement of the ship; and
 
-                     (b)  the official log‑book of the ship.
+                     (b)  the official log-book of the ship.
 
                     Penalty:  $1,000.
 
@@ -3172,7 +3172,7 @@ a proper authority may take into his or her charge that money and those effects.
 
                     Penalty:  $1,000.
 
-             (2)  The master’s successor shall, immediately on assuming the command of the ship, enter in the official log‑book a list of the documents so delivered to him or her.
+             (2)  The master’s successor shall, immediately on assuming the command of the ship, enter in the official log-book a list of the documents so delivered to him or her.
 
                     Penalty:  $1,000.
 
@@ -3180,13 +3180,13 @@ a proper authority may take into his or her charge that money and those effects.
 
 ### Division 21—The log
 
-##### <a id="171"></a>171  Official log‑book
+##### <a id="171"></a>171  Official log-book
 
-             (1)  The master of a ship shall keep an official log‑book in the prescribed form and shall make, or cause to be made, such entries in that log‑book as are prescribed.
+             (1)  The master of a ship shall keep an official log-book in the prescribed form and shall make, or cause to be made, such entries in that log-book as are prescribed.
 
                     Penalty:  30 penalty units.
 
-             (4)  An entry required by this Act in an official log‑book shall be:
+             (4)  An entry required by this Act in an official log-book shall be:
 
                      (a)  made as soon as possible after the occurrence to which it relates;
 
@@ -3194,15 +3194,15 @@ a proper authority may take into his or her charge that money and those effects.
 
                     Penalty:  30 penalty units.
 
-             (5)  No person shall, more than 24 hours after the arrival of a ship at its final port of discharge, make in the official log‑book any entry of any occurrence which happened before its arrival.
+             (5)  No person shall, more than 24 hours after the arrival of a ship at its final port of discharge, make in the official log-book any entry of any occurrence which happened before its arrival.
 
                     Penalty:  5 penalty units.
 
-             (6)  The regulations may make provision for or in relation to the signing of entries in the official log‑book of a ship.
+             (6)  The regulations may make provision for or in relation to the signing of entries in the official log-book of a ship.
 
-             (7)  An entry in the official log‑book of a ship is, in all courts, admissible in evidence.
+             (7)  An entry in the official log-book of a ship is, in all courts, admissible in evidence.
 
-##### <a id="172"></a>172  Offences in relation to official log‑book
+##### <a id="172"></a>172  Offences in relation to official log-book
 
              (1)  A person commits an offence if:
 
@@ -3210,43 +3210,43 @@ a proper authority may take into his or her charge that money and those effects.
 
                      (b)  the act results in:
 
-                              (i)  the destruction or mutilation of an official log‑book or an entry in an official log‑book; or
+                              (i)  the destruction or mutilation of an official log-book or an entry in an official log-book; or
 
-                             (ii)  an entry in an official log‑book being rendered illegible.
+                             (ii)  an entry in an official log-book being rendered illegible.
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
              (2)  A person commits an offence if:
 
-                     (a)  the person makes or signs an entry in an official log‑book, knowing that the entry is false or fraudulent; or
+                     (a)  the person makes or signs an entry in an official log-book, knowing that the entry is false or fraudulent; or
 
-                     (b)  omits to make an entry in an official log‑book, knowing that the omission will result in the log‑book being false or fraudulent.
+                     (b)  omits to make an entry in an official log-book, knowing that the omission will result in the log-book being false or fraudulent.
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
-##### <a id="172A"></a>172A  Report of matters recorded in official log‑book
+##### <a id="172A"></a>172A  Report of matters recorded in official log-book
 
-             (1)  The master of a ship who is required by section 171 to keep an official log‑book must, as soon as practicable after making an entry in relation to an occurrence under the code of conduct referred to in subsection 46(4A), report the recording of that occurrence to the Authority in accordance with regulations made under subsection (2).
+             (1)  The master of a ship who is required by section 171 to keep an official log-book must, as soon as practicable after making an entry in relation to an occurrence under the code of conduct referred to in subsection 46(4A), report the recording of that occurrence to the Authority in accordance with regulations made under subsection (2).
 
-             (2)  The regulations may provide for the manner and time of reporting the making of an entry in the official log‑book in relation to an occurrence referred to in subsection (1).
+             (2)  The regulations may provide for the manner and time of reporting the making of an entry in the official log-book in relation to an occurrence referred to in subsection (1).
 
                     Penalty:  10 penalty units.
 
-##### <a id="173"></a>173  Delivery of official log‑book
+##### <a id="173"></a>173  Delivery of official log-book
 
-             (1)  The master of a ship who is required by section 171 to keep an official log‑book shall, on the termination of the articles of agreement of the ship, deliver the official log‑book to a proper authority.
+             (1)  The master of a ship who is required by section 171 to keep an official log-book shall, on the termination of the articles of agreement of the ship, deliver the official log-book to a proper authority.
 
                     Penalty:  $1,000.
 
-             (2)  A proper authority, not being a superintendent, to whom an official log‑book is delivered in pursuance of subsection (1) shall deal with that log‑book in accordance with the directions, if any, of the Authority.
+             (2)  A proper authority, not being a superintendent, to whom an official log-book is delivered in pursuance of subsection (1) shall deal with that log-book in accordance with the directions, if any, of the Authority.
 
-##### <a id="174"></a>174  Transmission of log‑book to superintendent
+##### <a id="174"></a>174  Transmission of log-book to superintendent
 
-             (1)  Where for any reason the official log‑book ceases to be required in respect of a ship, the master or owner of the ship shall, if the ship is then in Australia within one month, and if it is elsewhere within 6 months, after the cessation transmit to a superintendent the official log‑book made up to the time of the cessation.
+             (1)  Where for any reason the official log-book ceases to be required in respect of a ship, the master or owner of the ship shall, if the ship is then in Australia within one month, and if it is elsewhere within 6 months, after the cessation transmit to a superintendent the official log-book made up to the time of the cessation.
 
-             (2)  If a ship is lost or abandoned, the master or owner thereof shall, if practicable, and as soon as possible, transmit to a superintendent the official log‑book (if any) duly made out to the time of the loss or abandonment.
+             (2)  If a ship is lost or abandoned, the master or owner thereof shall, if practicable, and as soon as possible, transmit to a superintendent the official log-book (if any) duly made out to the time of the loss or abandonment.
 
-                    Penalty (on master or owner):       $1,000.
+                    Penalty (on master or owner):         $1,000.
 
 ## Part III—Foreign seamen
 
@@ -3382,7 +3382,7 @@ the Commonwealth may recover the amount of those expenses from the owner, agent 
 
                            (vii)  training of pilots, and monitoring of their performance, by a pilotage provider; and
 
-                          (viii)  the professional liability of a pilotage provider and the limitation of that liability; and
+                           (viii)  the professional liability of a pilotage provider and the limitation of that liability; and
 
                      (a)  the duties of a licensed pilot and the manner in which a licensed pilot is to discharge his or her duties; and
 
@@ -3476,7 +3476,7 @@ the person is guilty of an offence.
 
                             (iii)  liquefied gas carrier.
 
-             (2)  Subject to subsection (3), the length overall of a ship is 110% of the length as shown on the ship’s load‑line certification.
+             (2)  Subject to subsection (3), the length overall of a ship is 110% of the length as shown on the ship’s load-line certification.
 
              (3)  If the length overall of a ship cannot be worked out under subsection (2), the length is taken to be the distance between:
 
@@ -3500,9 +3500,9 @@ the ship under tow is to be treated as if it were navigating with a licensed pil
 
              (2)  The waters that may be specified for the purposes of subsection (1) must be waters included within the waters referred to in subsection 186A(1).
 
-             (3)  This Division operates in addition to, and not in derogation from, any requirement for compulsory pilotage under the _Great Barrier Reef__Marine Park__Act 1975_ within the compulsory pilotage area under that Act.
+             (3)  This Division operates in addition to, and not in derogation from, any requirement for compulsory pilotage under the _Great   Barrier Reef__Marine__Park__Act 1975_ within the compulsory pilotage area under that Act.
 
-             (4)  A person is not liable to be prosecuted under this Act and the _Great Barrier Reef__Marine Park__Act 1975_ in respect of the same act or omission.
+             (4)  A person is not liable to be prosecuted under this Act and the _Great Barrier Reef__Marine__Park__Act 1975_ in respect of the same act or omission.
 
 ##### <a id="186I"></a>186I  Offence to navigate without a licensed pilot
 
@@ -3716,19 +3716,19 @@ Note:          The defendant bears a legal burden in relation 
 
                     <a name="subdivis-load-line"></a>**_subdivision load line_** means a load line indicating the depth to which a passenger steamship may be loaded having regard to the extent to which it is subdivided and to the space for the time being allotted to passengers.
 
-                    <a name="contain-convent"></a>**_the Container Convention_** means the International Convention for Safe Containers as corrected by the Procès‑Verbal of Rectification dated 25 June 1976 (a copy of the English text of the articles of which, and of the annexes to which, as so corrected, is set forth in Schedule 5), as affected by:
+                    <a name="contain-convent"></a>**_the Container Convention_** means the International Convention for Safe Containers as corrected by the Procès-Verbal of Rectification dated 25 June 1976 (a copy of the English text of the articles of which, and of the annexes to which, as so corrected, is set forth in Schedule 5), as affected by:
 
                      (a)  any amendment of the Convention, other than an amendment not accepted by Australia, made under Article IX of the Convention; and
 
                      (b)  the amendments to Annex 1 dated 2 April 1981 (a copy of the English text of which is set forth in Schedule 5A) and any other amendment of the annexes to the Convention, other than an amendment objected to by Australia, made under Article X of the Convention.
 
-**_the Load Line Convention_** means the International Convention on Load Lines, 1966, as corrected by the Procès‑Verbal of Rectification dated 30 January 1969 and the Procès‑Verbal of Rectification dated 5 May 1969 (a copy of the English text of the articles of which, and of the annexes to which, as so corrected, other than the chart attached to Annex II, is set forth in Schedule 4):
+**_the Load Line Convention_** means the International Convention on Load Lines, 1966, as corrected by the Procès-Verbal of Rectification dated 30 January 1969 and the Procès-Verbal of Rectification dated 5 May 1969 (a copy of the English text of the articles of which, and of the annexes to which, as so corrected, other than the chart attached to Annex II, is set forth in Schedule 4):
 
                      (a)  as affected, after the date on which the Protocol of 1988 relating to the Load Line Convention enters into force for Australia, by that Protocol; and
 
                      (b)  as also affected by any amendment, other than an amendment not accepted by Australia, made under section 29 of the Convention.
 
-                    <a name="prevent-collision-convent"></a>**_the Prevention of Collisions Convention_** means the Convention on the International Regulations for Preventing Collisions at Sea, 1972 (a copy of the English text of the articles of which is set forth in Schedule 3), together with the International Regulations for Preventing Collisions at Sea, 1972, constituted by the rules and other annexes attached to that Convention, as corrected by the Procès‑Verbal of Rectification dated 1 December 1973 (a copy of the English text of which rules and other annexes, as so corrected, is also set forth in Schedule 3), as affected by any amendment, other than an amendment objected to by Australia, made under Article VI of that Convention.
+                    <a name="prevent-collision-convent"></a>**_the Prevention of Collisions Convention_** means the Convention on the International Regulations for Preventing Collisions at Sea, 1972 (a copy of the English text of the articles of which is set forth in Schedule 3), together with the International Regulations for Preventing Collisions at Sea, 1972, constituted by the rules and other annexes attached to that Convention, as corrected by the Procès-Verbal of Rectification dated 1 December 1973 (a copy of the English text of which rules and other annexes, as so corrected, is also set forth in Schedule 3), as affected by any amendment, other than an amendment objected to by Australia, made under Article VI of that Convention.
 
                     <a name="convent"></a><a name="prevent-pollution-ship-convent"></a>**_the Prevention of Pollution from Ships Convention_** has the same meaning as **_the Convention_** has in the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_.
 
@@ -3780,7 +3780,7 @@ the Authority may, by instrument in writing, direct that, subject to such condit
 
                      (a)  a ship is at any time engaged on, or is about to engage on, a voyage during which, in the ordinary course, a load line marked on either side of the ship (not being a load line that is the appropriate load line at that time) would, at some later time during the voyage, become the appropriate load line; and
 
-                     (b)  the ship is so loaded at that first‑mentioned time that, if the ship were floating without a list in still salt water of a specific gravity of 1.025 and there were unloaded from the ship the fuel and other material that would, in the ordinary course, be consumed or discharged before that later time, that load line would be submerged;
+                     (b)  the ship is so loaded at that first-mentioned time that, if the ship were floating without a list in still salt water of a specific gravity of 1.025 and there were unloaded from the ship the fuel and other material that would, in the ordinary course, be consumed or discharged before that later time, that load line would be submerged;
 
 the ship shall, for the purposes of this Part, be deemed to be overloaded and, subject to subsection (4), to be overloaded to the extent to which that load line would be so submerged.
 
@@ -3808,7 +3808,7 @@ the ship shall, for the purposes of this Part, be deemed to be overloaded to the
 
              (1)  Where a ship (other than a nuclear ship) that is not ordinarily engaged on international voyages undertakes, in exceptional circumstances, a single international voyage, the Authority may, if it is satisfied that the ship complies with safety requirements that, in its opinion, are adequate for the voyage, exempt the ship or any person, in respect of that voyage, from compliance with any provision of this Act or the regulations or orders that gives effect to the Safety Convention.
 
-             (2)  The Authority may, in relation to a Safety Convention ship that is registered in Australia, exercise the right conferred on the Government of the Commonwealth by paragraph (b) of Regulation 4 of Chapter I contained in the Annex to the Safety Convention to exempt the ship from a provision of Chapter II‑1, II‑2, III or IV of the Regulations contained in that Annex, and a ship so exempted, and the master and owner of the ship, are exempt from compliance with any provision of this Act that gives effect to that provision.
+             (2)  The Authority may, in relation to a Safety Convention ship that is registered in Australia, exercise the right conferred on the Government of the Commonwealth by paragraph (b) of Regulation 4 of Chapter I contained in the Annex to the Safety Convention to exempt the ship from a provision of Chapter II-1, II-2, III or IV of the Regulations contained in that Annex, and a ship so exempted, and the master and owner of the ship, are exempt from compliance with any provision of this Act that gives effect to that provision.
 
              (3)  An exemption under subsection (2) is subject to such safety requirements (if any) as are specified in the exemption.
 
@@ -3962,7 +3962,7 @@ it may cancel any certificate issued in respect of the ship under Division 2 o
 
 ##### <a id="191A"></a>191A  Discretions relating to regulations giving effect to Conventions
 
-             (1)  Where, under this Act, the Governor‑General is empowered to make regulations for the purpose of implementing or giving effect to any of the provisions of the Container Convention, the Safety Convention, the Prevention of Collisions Convention, the Prevention of Pollution from Ships Convention or the Load Line Convention, the requirement shall, in the case of a provision the terms of which are such as to vest in the several Governments who are parties to the Convention a discretion as to whether any, and if so what, action should be taken thereunder, be construed as an authority to the Governor‑General to make by regulation such provision (if any) with respect to the matter in question as the Governor‑General in the exercise of that discretion thinks proper.
+             (1)  Where, under this Act, the Governor-General is empowered to make regulations for the purpose of implementing or giving effect to any of the provisions of the Container Convention, the Safety Convention, the Prevention of Collisions Convention, the Prevention of Pollution from Ships Convention or the Load Line Convention, the requirement shall, in the case of a provision the terms of which are such as to vest in the several Governments who are parties to the Convention a discretion as to whether any, and if so what, action should be taken thereunder, be construed as an authority to the Governor-General to make by regulation such provision (if any) with respect to the matter in question as the Governor-General in the exercise of that discretion thinks proper.
 
              (2)  Notwithstanding any regulation made under any provision of this Act for the purpose of giving effect to, or implementing, any provision of the Safety Convention, the Prevention of Collisions Convention, the Prevention of Pollution from Ships Convention or the Load Line Convention which requires a particular fitting, material, appliance or apparatus, or type thereof, to be fitted or carried in a ship, or any particular provision to be made in a ship, the Authority may allow any other fitting, material, appliance or apparatus, or type thereof, to be fitted or carried, or any other provision to be made if it is satisfied that that other fitting, material, appliance or apparatus, or type thereof, or provision, is at least as effective as that required by the Convention.
 
@@ -4114,7 +4114,7 @@ the Authority may determine, in writing:
 
 ##### <a id="203"></a>203  Alteration of certificates with respect to number of passengers
 
-             (1)  The owner of any steam‑ship may at any time apply for an alteration of the certificate of survey or passenger certificate of the ship in regard to the number of passengers it may carry.
+             (1)  The owner of any steam-ship may at any time apply for an alteration of the certificate of survey or passenger certificate of the ship in regard to the number of passengers it may carry.
 
              (2)  The Authority may, on receipt of the application, and after further survey, permit the certificate of survey or passenger certificate to be amended.
 
@@ -4130,7 +4130,7 @@ the Authority may determine, in writing:
 
                      (b)  that the ship cannot proceed to sea without danger to its crew or passengers.
 
-##### <a id="204A"></a>204A  Non‑application to certain ships
+##### <a id="204A"></a>204A  Non-application to certain ships
 
                    Notwithstanding anything contained in this Act, any ship, not being bound to a port in Australia, which has been compelled, by stress of weather or _force majeure_, to take refuge in such a port, shall not be subject to any requirements of this Division, or of Division 6A, or of the regulations under section 215, or of the orders made under subsection 425(1AA) if, in the ordinary course of its voyage, the ship would have been exempt from that requirement.
 
@@ -4346,7 +4346,7 @@ and any exemption certificate in force in respect of the ship applies to the voy
 
                     (aa)  is registered in Australia; and
 
-                   (ab)  is of 500 tons or more gross tonnage; and
+                    (ab)  is of 500 tons or more gross tonnage; and
 
                     (ac)  is not a fishing vessel;
 
@@ -4368,7 +4368,7 @@ must not take the ship to sea, or permit the ship to be taken to sea, on an inte
 
                     (aa)  is registered in Australia; and
 
-                   (ab)  either:
+                    (ab)  either:
 
                               (i)  is of less than 500 tons gross tonnage; or
 
@@ -4406,7 +4406,7 @@ must not take the ship to sea, or permit the ship to be taken to sea, on an inte
 
                     Penalty:  $10,000 or imprisonment for 4 years, or both.
 
-##### <a id="206V"></a>206V  Documentary evidence of seaworthiness required for non‑Safety Convention ships not registered in Australia
+##### <a id="206V"></a>206V  Documentary evidence of seaworthiness required for non-Safety Convention ships not registered in Australia
 
                    The master or owner of a ship that is not registered in Australia and that is not a Safety Convention ship must not take the ship to sea, or permit the ship to be taken to sea, on a voyage from a port in Australia unless there is in force, in respect of the ship, a certificate or certificates, or other documentary evidence issued by or on behalf of the country in which the ship is registered, attesting to the seaworthiness of the ship.
 
@@ -4448,7 +4448,7 @@ then, until the certificate or certificates, or other documentary evidence is so
 
                      (a)  has been issued by or under the authority of the government of the country in which the ship is registered; and
 
-                     (b)  modifies, for the purpose of a particular voyage, by reason of the number of persons carried on that voyage, the particulars stated in the certificate with respect to life‑saving appliances;
+                     (b)  modifies, for the purpose of a particular voyage, by reason of the number of persons carried on that voyage, the particulars stated in the certificate with respect to life-saving appliances;
 
 the certificate has effect for the purpose of that voyage as if it were modified in accordance with the memorandum.
 
@@ -4530,7 +4530,7 @@ Note:          The defendant bears a legal burden in relation 
 
 the owner of the ship is liable to pay to the Authority the costs of and incidental to the detention and survey of the ship and those costs are recoverable by the Authority in a Court of summary jurisdiction.
 
-##### <a id="212"></a>212  Taking detained ship to sea
+##### <a id="212"></a>212  Taking detained ship to sea
 
                    If the master of any ship legally detained under this Division takes the ship to sea before it is duly released, the master shall be guilty of an offence punishable on conviction by a fine not exceeding $20,000 or imprisonment for a period not exceeding 10 years, or both.
 
@@ -4544,9 +4544,9 @@ the owner of the ship is liable to pay to the Authority the costs of and inciden
 
                    Where a ship is detained in consequence of any complaint, and the circumstances are such that the Authority or the Commonwealth would be liable to pay compensation or costs to the owner of the ship, the complainant shall pay to the Authority all costs incurred and compensation paid by it on account of the detention and survey of the ship.
 
-### Division 4—Life‑saving appliances and fire protection
+### Division 4—Life-saving appliances and fire protection
 
-##### <a id="215"></a>215  Regulations may make provision in relation to life‑saving and fire prevention
+##### <a id="215"></a>215  Regulations may make provision in relation to life-saving and fire prevention
 
              (1)  The regulations may make provision for or in relation to:
 
@@ -4560,29 +4560,29 @@ the owner of the ship is liable to pay to the Authority the costs of and inciden
 
                      (b)  the exemption of ships from any requirement of this Act that relates to the saving of life at sea or the prevention, detection or extinction of fire on ships.
 
-##### <a id="216A"></a>216A  Modification of certificates in respect of life‑saving appliances
+##### <a id="216A"></a>216A  Modification of certificates in respect of life-saving appliances
 
-             (1)  If, on any international voyage, a passenger steamship, registered in Australia, in respect of which a passenger ship safety certificate or a passenger ship short voyage safety certificate is in force, has on board a total number of persons less than the number stated in that certificate to be the number for which the life‑saving appliances on the steamship provide, the Authority or any person authorized by it for the purpose, may, at the request of the master of the steamship, issue a memorandum stating the total number of persons carried on the steamship on that voyage, and the consequent modifications which may be made for the purpose of that voyage in the particulars with respect to life‑saving appliances stated in the certificate, and that memorandum shall be annexed to the certificate.
+             (1)  If, on any international voyage, a passenger steamship, registered in Australia, in respect of which a passenger ship safety certificate or a passenger ship short voyage safety certificate is in force, has on board a total number of persons less than the number stated in that certificate to be the number for which the life-saving appliances on the steamship provide, the Authority or any person authorized by it for the purpose, may, at the request of the master of the steamship, issue a memorandum stating the total number of persons carried on the steamship on that voyage, and the consequent modifications which may be made for the purpose of that voyage in the particulars with respect to life-saving appliances stated in the certificate, and that memorandum shall be annexed to the certificate.
 
              (2)  Every such memorandum shall be returned to the Authority at the end of the voyage to which it relates.
 
 ##### <a id="217"></a>217  Offences as to appliances
 
-             (1)  If a ship that does not carry every prescribed life‑saving appliance and every prescribed fire appliance goes to sea, the owner of the ship and the master of the ship are each guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
+             (1)  If a ship that does not carry every prescribed life-saving appliance and every prescribed fire appliance goes to sea, the owner of the ship and the master of the ship are each guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
 
           (1A)  An offence under subsection (1) is an offence of strict liability.
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-             (2)  If the owner of a ship or the master of a ship permits, through neglect, the loss of, or damage to, a life‑saving appliance or a fire appliance carried by the ship, the owner or the master, as the case may be, is guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
+             (2)  If the owner of a ship or the master of a ship permits, through neglect, the loss of, or damage to, a life-saving appliance or a fire appliance carried by the ship, the owner or the master, as the case may be, is guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
 
              (3)  If:
 
-                     (a)  a life‑saving appliance, or a fire appliance, that is carried by a ship is lost and is not replaced at the first opportunity;
+                     (a)  a life-saving appliance, or a fire appliance, that is carried by a ship is lost and is not replaced at the first opportunity;
 
-                     (b)  a life‑saving appliance, or a fire appliance, carried by a ship suffers damage and is not repaired at the first opportunity; or
+                     (b)  a life-saving appliance, or a fire appliance, carried by a ship suffers damage and is not repaired at the first opportunity; or
 
-                     (c)  at any time a life‑saving appliance, or a fire appliance, that is carried by a ship is not fit and ready for use;
+                     (c)  at any time a life-saving appliance, or a fire appliance, that is carried by a ship is not fit and ready for use;
 
 the owner of the ship and the master of the ship are each guilty of an offence punishable on conviction by a fine not exceeding $10,000 or imprisonment for a period not exceeding 4 years, or both.
 
@@ -4606,7 +4606,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     <a name="load-line-convent-countri"></a>**_Load Line Convention country_** means a country or territory specified in a notice under section 219.
 
-                    <a name="non-australian-load-line-convent-ship"></a>**_non‑Australian Load Line Convention ship_** means a ship that is registered in a Load Line Convention country and is a ship to which the Load Line Convention applies.
+                    <a name="non-australian-load-line-convent-ship"></a>**_non-Australian Load Line Convention ship_** means a ship that is registered in a Load Line Convention country and is a ship to which the Load Line Convention applies.
 
                     <a name="ship-load-line-convent-appli"></a>**_ship to which the Load Line Convention applies_** means a ship to which, in accordance with Articles 4 and 5 of the Load Line Convention, that Convention applies.
 
@@ -4614,13 +4614,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     <a name="valid-load-line-convent-certif"></a>**_valid Load Line Convention certificate_** means a certificate in the form of the International Load Line Certificate set out in Annex III to the Load Line Convention, being a certificate that:
 
-                     (a)  is issued in respect of a non‑Australian Load Line Convention ship by or with the authority of the government of the country in which the ship is registered; and
+                     (a)  is issued in respect of a non-Australian Load Line Convention ship by or with the authority of the government of the country in which the ship is registered; and
 
                      (b)  complies with such requirements as are prescribed.
 
                     <a name="valid-load-line-convent-exempt-certif"></a>**_valid Load Line Convention exemption certificate_** means a certificate in the form of the International Load Line Exemption Certificate set out in Annex III to the Load Line Convention, being a certificate that:
 
-                     (a)  is issued in respect of a non‑Australian Load Line Convention ship by or with the authority of the government of the country in which the ship is registered; and
+                     (a)  is issued in respect of a non-Australian Load Line Convention ship by or with the authority of the government of the country in which the ship is registered; and
 
                      (b)  complies with such requirements as are prescribed.
 
@@ -4672,7 +4672,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="222"></a>222  Issue of load line certificates
 
-                   Where a ship, other than a non‑Australian Load Line Convention ship, except to the extent of any exemption granted by the Authority under section 221, has been surveyed and marked in accordance with the regulations and orders and complies with the conditions of assignment applicable to the ship, the Authority, or a survey authority authorized in writing by the Authority to issue certificates under this section, may issue in respect of the ship:
+                   Where a ship, other than a non-Australian Load Line Convention ship, except to the extent of any exemption granted by the Authority under section 221, has been surveyed and marked in accordance with the regulations and orders and complies with the conditions of assignment applicable to the ship, the Authority, or a survey authority authorized in writing by the Authority to issue certificates under this section, may issue in respect of the ship:
 
                      (a)  if the ship is registered in Australia and is a ship to which the Load Line Convention applies or would be such a ship if it were engaged on international voyages—a certificate in the form of the International Load Line Certificate set out in Annex III to the Load Line Convention; or
 
@@ -4702,9 +4702,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (6)  Where an international load line certificate, an international load line exemption certificate or an Australian load line certificate has expired or has been cancelled, the Authority may require the owner or master of the ship in respect of which the certificate was issued to deliver up the certificate to the Authority or to such other person as the Authority directs, and the ship may be detained until the requirement is complied with.
 
-##### <a id="225"></a>225  Particulars in certificate to be entered in log‑book
+##### <a id="225"></a>225  Particulars in certificate to be entered in log-book
 
-             (2)  The master of a ship in respect of which an international load line certificate or an Australian load line certificate has been issued shall enter in the official log‑book of the ship particulars of the position of the deck line and load lines specified in the certificate.
+             (2)  The master of a ship in respect of which an international load line certificate or an Australian load line certificate has been issued shall enter in the official log-book of the ship particulars of the position of the deck line and load lines specified in the certificate.
 
                     Penalty:  10 penalty units.
 
@@ -4732,7 +4732,7 @@ it may issue or authorise the issue of, or to endorse or authorise the endorseme
 
 ##### <a id="227A"></a>227A  Ships not to proceed to sea without load line certificates
 
-             (1)  The master or owner of a ship registered in Australia shall not take the ship to sea, or permit the ship to be taken to sea, on any voyage, and the master or owner of a ship not registered in Australia, other than a non‑Australian Load Line Convention ship, shall not take the ship to sea, or permit the ship to be taken to sea, on a voyage from a port in Australia unless:
+             (1)  The master or owner of a ship registered in Australia shall not take the ship to sea, or permit the ship to be taken to sea, on any voyage, and the master or owner of a ship not registered in Australia, other than a non-Australian Load Line Convention ship, shall not take the ship to sea, or permit the ship to be taken to sea, on a voyage from a port in Australia unless:
 
                      (a)  where the ship is registered in Australia and is a ship to which the Load Line Convention applies or would be such a ship if it were engaged on international voyages—there is in force in respect of the ship an international load line certificate, and any international load line exemption certificate that is in force in respect of the ship applies to the voyage; or
 
@@ -4750,11 +4750,11 @@ it may issue or authorise the issue of, or to endorse or authorise the endorseme
 
                      (b)  that, if specified conditions are satisfied in relation to the ship in respect of which the certificate was issued, the certificate is so recognised.
 
-             (2)  Where the Authority, after having regard to any certificate relating to load lines that is in force in respect of a ship that is not registered in Australia and is not a non‑Australian Load Line Convention ship, is satisfied that it can do so without danger to the ship or its passengers or crew, it may, subject to such conditions, if any, as are specified in the exemption, exempt the master and the owner of the ship from compliance with subsection (1) in respect of a voyage specified in the exemption.
+             (2)  Where the Authority, after having regard to any certificate relating to load lines that is in force in respect of a ship that is not registered in Australia and is not a non-Australian Load Line Convention ship, is satisfied that it can do so without danger to the ship or its passengers or crew, it may, subject to such conditions, if any, as are specified in the exemption, exempt the master and the owner of the ship from compliance with subsection (1) in respect of a voyage specified in the exemption.
 
-             (3)  Where application is made to an officer of Customs in respect of a ship, not being a non‑Australian Load Line Convention ship, for a clearance under the Customs Act for a voyage from a port in Australia, the master of the ship shall, if so required by the officer of Customs, produce to the officer of Customs the certificate required by subsection (1) to be in force in respect of the ship and any international load line exemption certificate in force in respect of the ship, and the officer of Customs may refuse to grant the clearance, and the ship may be detained, until the certificate is, or the certificates are, produced to that officer.
+             (3)  Where application is made to an officer of Customs in respect of a ship, not being a non-Australian Load Line Convention ship, for a clearance under the Customs Act for a voyage from a port in Australia, the master of the ship shall, if so required by the officer of Customs, produce to the officer of Customs the certificate required by subsection (1) to be in force in respect of the ship and any international load line exemption certificate in force in respect of the ship, and the officer of Customs may refuse to grant the clearance, and the ship may be detained, until the certificate is, or the certificates are, produced to that officer.
 
-             (4)  Where application is made to an officer of Customs in respect of a non‑Australian Load Line Convention ship for a clearance under the Customs Act for a voyage from a port in Australia, the master of the ship shall, if so required by the officer of Customs, produce to the officer of Customs a valid Load Line Convention certificate in respect of the ship and any valid Load Line Convention exemption certificate in force in respect of the ship, and the officer of Customs may refuse to grant the clearance, and the ship may be detained, until the certificate is, or the certificates are, produced to that officer.
+             (4)  Where application is made to an officer of Customs in respect of a non-Australian Load Line Convention ship for a clearance under the Customs Act for a voyage from a port in Australia, the master of the ship shall, if so required by the officer of Customs, produce to the officer of Customs a valid Load Line Convention certificate in respect of the ship and any valid Load Line Convention exemption certificate in force in respect of the ship, and the officer of Customs may refuse to grant the clearance, and the ship may be detained, until the certificate is, or the certificates are, produced to that officer.
 
 ##### <a id="227B"></a>227B  Ships not to be overloaded
 
@@ -4798,7 +4798,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Not exceeding 1,000 tons...............................................................</div>
+    <div>Not exceeding 1,000 tons................................................................</div>
   </td>
   <td>
     <div>500</div>
@@ -4806,7 +4806,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 1,000 tons but not exceeding 5,000 tons.................</div>
+    <div>Exceeding 1,000 tons but not exceeding 5,000 tons....................</div>
   </td>
   <td>
     <div>1,000</div>
@@ -4814,7 +4814,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 5,000 tons but not exceeding 10,000 tons...............</div>
+    <div>Exceeding 5,000 tons but not exceeding 10,000 tons..................</div>
   </td>
   <td>
     <div>2,000</div>
@@ -4822,7 +4822,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 10,000 tons but not exceeding 20,000 tons............</div>
+    <div>Exceeding 10,000 tons but not exceeding 20,000 tons................</div>
   </td>
   <td>
     <div>4,000</div>
@@ -4830,7 +4830,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 20,000 tons but not exceeding 40,000 tons............</div>
+    <div>Exceeding 20,000 tons but not exceeding 40,000 tons................</div>
   </td>
   <td>
     <div>6,000</div>
@@ -4838,7 +4838,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 40,000 tons....................................................................</div>
+    <div>Exceeding 40,000 tons......................................................................</div>
   </td>
   <td>
     <div>8,000</div>
@@ -4860,7 +4860,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Not exceeding 1,000 tonnes ..........................................................</div>
+    <div>Not exceeding 1,000 tonnes ...........................................................</div>
   </td>
   <td>
     <div>500</div>
@@ -4868,7 +4868,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 1,000 tonnes but not exceeding 5,000 tonnes........</div>
+    <div>Exceeding 1,000 tonnes but not exceeding 5,000 tonnes...........</div>
   </td>
   <td>
     <div>1,000</div>
@@ -4876,7 +4876,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 5,000 tonnes but not exceeding 10,000 tonnes......</div>
+    <div>Exceeding 5,000 tonnes but not exceeding 10,000 tonnes.........</div>
   </td>
   <td>
     <div>2,000</div>
@@ -4884,7 +4884,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 10,000 tonnes but not exceeding 20,000 tonnes....</div>
+    <div>Exceeding 10,000 tonnes but not exceeding 20,000 tonnes.......</div>
   </td>
   <td>
     <div>4,000</div>
@@ -4892,7 +4892,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 20,000 tonnes but not exceeding 40,000 tonnes....</div>
+    <div>Exceeding 20,000 tonnes but not exceeding 40,000 tonnes.......</div>
   </td>
   <td>
     <div>6,000</div>
@@ -4900,7 +4900,7 @@ the master and owner of the ship are each guilty of an indictable offence punish
 </tr>
 <tr>
   <td>
-    <div>Exceeding 40,000 tonnes...............................................................</div>
+    <div>Exceeding 40,000 tonnes.................................................................</div>
   </td>
   <td>
     <div>8,000</div>
@@ -4935,7 +4935,7 @@ the ship may be detained until the surveyor is satisfied that the line is in tha
 
 ##### <a id="227D"></a>227D  Offences with respect to marks
 
-             (1)  If a ship, not being a non‑Australian Load Line Convention ship, has been marked in accordance with the regulations or orders with deck lines and load lines and it is not kept so marked, the owner and master of the ship are, in respect of each day during which the ship is not so marked (including the day of a conviction under this subsection or any subsequent day), each guilty of an offence punishable on conviction by a fine not exceeding $1,000.
+             (1)  If a ship, not being a non-Australian Load Line Convention ship, has been marked in accordance with the regulations or orders with deck lines and load lines and it is not kept so marked, the owner and master of the ship are, in respect of each day during which the ship is not so marked (including the day of a conviction under this subsection or any subsequent day), each guilty of an offence punishable on conviction by a fine not exceeding $1,000.
 
              (2)  Subsection (1) does not apply if the owner or master has reasonable cause.
 
@@ -4947,7 +4947,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 (4)  A person commits an offence if:
 
-                     (a)  a ship, other than a non‑Australian Load Line Convention ship, has been marked with deck lines and load lines; and
+                     (a)  a ship, other than a non-Australian Load Line Convention ship, has been marked with deck lines and load lines; and
 
                      (b)  the person engages in conduct; and
 
@@ -4955,9 +4955,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                     Penalty:  $5,000 or imprisonment for 2 years, or both.
 
-##### <a id="227E"></a>227E  Inspection of non‑Australian Load Line Convention ships
+##### <a id="227E"></a>227E  Inspection of non-Australian Load Line Convention ships
 
-             (1)  If a valid Load Line Convention certificate is produced to a surveyor in respect of a non‑Australian Load Line Convention ship, his or her powers of inspecting the ship under section 190AA in respect of the matters referred to in subsection (2) of that section are limited to ascertaining:
+             (1)  If a valid Load Line Convention certificate is produced to a surveyor in respect of a non-Australian Load Line Convention ship, his or her powers of inspecting the ship under section 190AA in respect of the matters referred to in subsection (2) of that section are limited to ascertaining:
 
                      (a)  whether the ship is overloaded;
 
@@ -4971,7 +4971,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (2)  If:
 
-                     (a)  on inspection by a surveyor of a non‑Australian Load Line Convention ship in respect of which a valid Load Line Convention certificate is produced, it is found that:
+                     (a)  on inspection by a surveyor of a non-Australian Load Line Convention ship in respect of which a valid Load Line Convention certificate is produced, it is found that:
 
                               (i)  a material alteration that would require the assignment of increased freeboard to the ship has, since the certificate was issued, taken place in the hull or superstructures of the ship;
 
@@ -5051,13 +5051,13 @@ the Authority may declare the ship to be unseaworthy and thereupon the ship shal
 
 the Authority may detain the ship until it is satisfied that the ship can proceed to sea without danger to its crew or passengers.
 
-##### <a id="231E"></a>231E  Log‑books
+##### <a id="231E"></a>231E  Log-books
 
                    The master of a ship equipped with a radio installation:
 
-                     (a)  shall keep, or cause to be kept, a radio log‑book in such form as is prescribed and shall make, or cause to be made, such entries in that log‑book as are prescribed; and
+                     (a)  shall keep, or cause to be kept, a radio log-book in such form as is prescribed and shall make, or cause to be made, such entries in that log-book as are prescribed; and
 
-                     (b)  shall make, or cause to be made, in accordance with the regulations and orders, entries in the official log‑book of the ship with respect to the operation of the radio installation and the maintenance of a radio service on the ship.
+                     (b)  shall make, or cause to be made, in accordance with the regulations and orders, entries in the official log-book of the ship with respect to the operation of the radio installation and the maintenance of a radio service on the ship.
 
                     Penalty:  $2,000.
 
@@ -5119,7 +5119,7 @@ the Authority may detain the ship until it is satisfied that the ship can procee
 
                      (a)  shall ensure that musters, and boat drills, fire drills, collision drills and other prescribed drills, are held in accordance with the regulations and orders; and
 
-                     (b)  shall, in accordance with the regulations and orders, make, or cause to be made, in the official log‑book of the ship entries relating to the holding of such musters and drills and any failure to hold such a muster or drill.
+                     (b)  shall, in accordance with the regulations and orders, make, or cause to be made, in the official log-book of the ship entries relating to the holding of such musters and drills and any failure to hold such a muster or drill.
 
                     Penalty:  $2,000.
 
@@ -5135,7 +5135,7 @@ the Authority may detain the ship until it is satisfied that the ship can procee
 
                      (a)  shall ensure that checks and tests of the machinery and equipment of the ship are conducted as required by the regulations; and
 
-                     (b)  shall, in accordance with the regulations, make, or cause to be made, in the official log‑book of the ship entries relating to the conducting of such checks and tests and any failure to conduct such a check or test.
+                     (b)  shall, in accordance with the regulations, make, or cause to be made, in the official log-book of the ship entries relating to the conducting of such checks and tests and any failure to conduct such a check or test.
 
                     Penalty:  $2,000.
 
@@ -5225,7 +5225,7 @@ Provided that this section shall not apply where the carriage of the dangerous g
 
 ##### <a id="253A"></a>253A  Carriage of dangerous goods
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters necessary or convenient to be prescribed in regard to the carriage of dangerous goods in ships, and in particular in relation to:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters necessary or convenient to be prescribed in regard to the carriage of dangerous goods in ships, and in particular in relation to:
 
                      (a)  the classes of ships in which dangerous goods may be carried;
 
@@ -5237,7 +5237,7 @@ Provided that this section shall not apply where the carriage of the dangerous g
 
              (2)  A person shall not send by, or carry in, a ship any dangerous goods which do not, or the packing, stowing or carriage of which does not, comply with such requirements as are prescribed or are determined by the Authority in accordance with the regulations.
 
-                    Penalty for contravention of subsection (2):         $10,000 or imprisonment for 4 years, or both.
+                    Penalty for contravention of subsection (2):  $10,000 or imprisonment for 4 years, or both.
 
 ##### <a id="254"></a>254  Prohibition on carriage of cargo
 
@@ -5289,7 +5289,7 @@ as provided by subsections (2B) to (2E) (inclusive).
 
           (2D)  The regulations mentioned in subsection (2A) apply in relation to a ship of a kind referred to in subsection 2(1) while the ship is in the area mentioned in paragraph (2A)(a).
 
-          (2E)  Subsection (2D) is not intended to exclude the operation of a State or Territory law, being a law that gives effect to the Prevention of Collisions Convention, in relation to a ship while it is in the area mentioned in paragraph (2A)(a).
+           (2E)  Subsection (2D) is not intended to exclude the operation of a State or Territory law, being a law that gives effect to the Prevention of Collisions Convention, in relation to a ship while it is in the area mentioned in paragraph (2A)(a).
 
            (2F)  Where proceedings are instituted against a person for an offence, in relation to a particular matter, against:
 
@@ -5397,7 +5397,7 @@ Note:          A defendant bears an evidential burden in relat
 
              (3)  When the master of a ship which has not been requisitioned is informed of the requisition of another ship and that the requisition is being complied with by that other ship, the master is released from the obligation imposed on him or her by subsection (1).
 
-             (4)  If the master of a ship is informed by persons in distress, or by the master of another ship which has reached those persons, that assistance is no longer necessary, the first‑mentioned master is released from any obligation imposed on him or her by subsection (1) or (2) in relation to those persons.
+             (4)  If the master of a ship is informed by persons in distress, or by the master of another ship which has reached those persons, that assistance is no longer necessary, the first-mentioned master is released from any obligation imposed on him or her by subsection (1) or (2) in relation to those persons.
 
              (6)  The master of a ship to which Part II applies shall make a record, or cause a record to be made:
 
@@ -5407,7 +5407,7 @@ Note:          A defendant bears an evidential burden in relat
 
                     Penalty:  50 penalty units.
 
-             (7)  A record required to be made under subsection (6) shall be made in the official log‑book of the ship.
+             (7)  A record required to be made under subsection (6) shall be made in the official log-book of the ship.
 
              (8)  This section does not affect the operation of section 317A.
 
@@ -5553,11 +5553,11 @@ the master of the ship shall, if so required by the officer of Customs, produce 
 
                      (a)  that the ship shall not enter any port, or a specified port or specified ports, in Australia;
 
-                     (b)  that the ship shall not use any off‑shore terminal, or a specified off‑shore terminal or specified off‑shore terminals, in Australia;
+                     (b)  that the ship shall not use any off-shore terminal, or a specified off-shore terminal or specified off-shore terminals, in Australia;
 
                      (c)  that the ship comply with specified requirements while it is entering, is in or is leaving any port, or a specified port or specified ports, in Australia; or
 
-                     (d)  that the ship comply with specified requirements while it is approaching, is using or is leaving any off‑shore terminal, or a specified off‑shore terminal or specified off‑shore terminals, in Australia.
+                     (d)  that the ship comply with specified requirements while it is approaching, is using or is leaving any off-shore terminal, or a specified off-shore terminal or specified off-shore terminals, in Australia.
 
              (2)  The Authority shall not exercise its powers under subsection (1) except to the extent that it appears to it necessary or expedient to do so for the protection of the environment.
 
@@ -5719,11 +5719,11 @@ the master of the ship shall, if so required by the officer of Customs, produce 
 
                      (a)  that the ship shall not enter any port, or a specified port or specified ports, in Australia;
 
-                     (b)  that the ship shall not use any off‑shore terminal, or a specified off‑shore terminal or specified off‑shore terminals, in Australia;
+                     (b)  that the ship shall not use any off-shore terminal, or a specified off-shore terminal or specified off-shore terminals, in Australia;
 
                      (c)  that the ship comply with specified requirements while it is entering, is in or is leaving any port, or a specified port or specified ports, in Australia; or
 
-                     (d)  that the ship comply with specified requirements while it is approaching, is using or is leaving any off‑shore terminal, or a specified off‑shore terminal or specified off‑shore terminals, in Australia.
+                     (d)  that the ship comply with specified requirements while it is approaching, is using or is leaving any off-shore terminal, or a specified off-shore terminal or specified off-shore terminals, in Australia.
 
              (2)  The Authority shall not exercise its powers under subsection (1) except to the extent that it appears to it necessary or expedient to do so for the protection of the environment.
 
@@ -5825,7 +5825,7 @@ the master and the owner each commit an offence punishable on conviction by a fi
 
 ##### <a id="267ZF"></a>267ZF  Regulations to give effect to Regulations 4, 9 and 10 of Annex IV
 
-                   The regulations may make provision for, and in relation to, giving effect to Regulations 4, 9 and 10 of Annex IV.
+                   The regulations may make provision for, and in relation to, giving effect to Regulations 4, 9 and 10 of Annex IV.
 
 ##### <a id="267ZG"></a>267ZG  International Sewage Pollution Prevention Certificates for Australian ships
 
@@ -5937,11 +5937,11 @@ the master of the ship shall, if so required by the officer of Customs, produce 
 
                      (a)  that the ship shall not enter any port, or a specified port or specified ports, in Australia; or
 
-                     (b)  that the ship shall not use any off‑shore terminal, or a specified off‑shore terminal or specified off‑shore terminals, in Australia; or
+                     (b)  that the ship shall not use any off-shore terminal, or a specified off-shore terminal or specified off-shore terminals, in Australia; or
 
                      (c)  that the ship comply with specified requirements while it is entering, is in or is leaving any port, or a specified port or specified ports, in Australia; or
 
-                     (d)  that the ship comply with specified requirements while it is approaching, is using or is leaving any off‑shore terminal, or a specified off‑shore terminal or specified off‑shore terminals, in Australia.
+                     (d)  that the ship comply with specified requirements while it is approaching, is using or is leaving any off-shore terminal, or a specified off-shore terminal or specified off-shore terminals, in Australia.
 
              (2)  The Authority shall not exercise its powers under subsection (1) except to the extent that it appears to the Authority necessary or expedient to do so for the protection of the environment.
 
@@ -6107,7 +6107,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (6)  A notice under paragraph (5)(a) is not a legislative instrument.
 
-##### <a id="267ZZA"></a>267ZZA  Ships to be surveyed periodically
+##### <a id="267ZZA"></a>267ZZA  Ships to be surveyed periodically
 
              (1)  A person commits an offence if:
 
@@ -6155,7 +6155,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (3)  If the ship was constructed before the commencement of this section, subsections (1) and (2) apply to the ship from the earlier of the following:
 
-                     (a)  the first scheduled dry‑docking of the ship after that commencement;
+                     (a)  the first scheduled dry-docking of the ship after that commencement;
 
                      (b)  19 May 2008.
 
@@ -6193,11 +6193,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (a)  that the ship not enter any port, or one or more specified ports, in Australia;
 
-                     (b)  that the ship not use any off‑shore terminal, or one or more specified off‑shore terminals, in Australia;
+                     (b)  that the ship not use any off-shore terminal, or one or more specified off-shore terminals, in Australia;
 
                      (c)  that the ship comply with specified requirements while it is entering, is in or is leaving any port, or is in one or more specified ports, in Australia;
 
-                     (d)  that the ship comply with specified requirements while it is approaching, using or leaving any off‑shore terminal, or one or more specified off‑shore terminals, in Australia.
+                     (d)  that the ship comply with specified requirements while it is approaching, using or leaving any off-shore terminal, or one or more specified off-shore terminals, in Australia.
 
              (2)  A direction must:
 
@@ -6273,7 +6273,7 @@ Note:          A defendant bears a legal burden in relation to
 
                              (ii)  the efficient operation or the safety of the boilers, machinery or fixed equipment of the ship; or
 
-                            (iii)  the efficiency or completeness of the life‑saving appliances or other safety equipment of the ship;
+                            (iii)  the efficiency or completeness of the life-saving appliances or other safety equipment of the ship;
 
 the master of the ship must:
 
@@ -6313,7 +6313,7 @@ the master of the ship must:
 
                     Penalty:  20 penalty units.
 
-          (1E)  A written report relating to an accident referred to in subsection (1A), an accident, damage or defect referred to in subsection (1B) or an event referred to in subsection (1C) or (1D) is in a form required by this subsection if it includes:
+           (1E)  A written report relating to an accident referred to in subsection (1A), an accident, damage or defect referred to in subsection (1B) or an event referred to in subsection (1C) or (1D) is in a form required by this subsection if it includes:
 
                      (a)  such particulars of the accident, damage, defect or event and of the time, place and circumstances of its occurrence as are prescribed; and
 
@@ -6361,7 +6361,7 @@ the owner or agent shall forthwith give notice in writing to the Authority that 
 
                      (c)  a tropical storm;
 
-                     (d)  sub‑freezing air temperature associated with gale force winds causing severe ice accretion on superstructures;
+                     (d)  sub-freezing air temperature associated with gale force winds causing severe ice accretion on superstructures;
 
                      (e)  winds of force 10 on the Beaufort scale for which no storm warning has been received.
 
@@ -6511,7 +6511,7 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="276"></a>276  Right of action by passenger
 
-                   Nothing in this Part shall take away or abridge any right of action which may accrue to a passenger in any ship, or to any other person, in respect of the breach or non‑performance of any contract made between or on behalf of the passenger or other person and the master, charterer, or owner of the ship, or his or her agent.
+                   Nothing in this Part shall take away or abridge any right of action which may accrue to a passenger in any ship, or to any other person, in respect of the breach or non-performance of any contract made between or on behalf of the passenger or other person and the master, charterer, or owner of the ship, or his or her agent.
 
 ##### <a id="278"></a>278  Obstructing ship or machinery
 
@@ -6613,7 +6613,7 @@ Note:          A defendant bears an evidential burden in relat
 
                    For the purposes of this Act, persons who are special personnel carried on board a special purpose ship shall, except where the contrary intention appears, be deemed not to be passengers on that ship.
 
-## Part VB—Off‑shore industry vessels and off‑shore industry mobile units
+## Part VB—Off-shore industry vessels and off-shore industry mobile units
 
 ##### <a id="283C"></a>283C  Extension to prescribed Territories
 
@@ -6621,73 +6621,73 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  In subsection (1), **_this Part_** includes the regulations made by virtue of this Part and the orders made in pursuance of those regulations.
 
-##### <a id="283D"></a>283D  Regulations with respect to off‑shore industry vessels
+##### <a id="283D"></a>283D  Regulations with respect to off-shore industry vessels
 
              (1)  The regulations may make provision:
 
-                     (a)  for or in relation to giving effect to resolutions of the International Maritime Organization with respect to off‑shore industry vessels or classes of off‑shore industry vessels; and
+                     (a)  for or in relation to giving effect to resolutions of the International Maritime Organization with respect to off-shore industry vessels or classes of off-shore industry vessels; and
 
-                     (b)  in relation to off‑shore industry vessels with respect to any matter with respect to which provision is made by this Act or may be made by regulations made otherwise than by virtue of this section.
+                     (b)  in relation to off-shore industry vessels with respect to any matter with respect to which provision is made by this Act or may be made by regulations made otherwise than by virtue of this section.
 
-             (2)  The regulations may provide that a specified provision of this Act does not apply, or applies with prescribed modifications, in relation to off‑shore industry vessels or a class of off‑shore industry vessels.
+             (2)  The regulations may provide that a specified provision of this Act does not apply, or applies with prescribed modifications, in relation to off-shore industry vessels or a class of off-shore industry vessels.
 
              (5)  Nothing in this section shall be taken to authorize the making of regulations affecting the operation of section 2, 8 or 8A.
 
-##### <a id="283E"></a>283E  Regulations with respect to off‑shore industry mobile units
+##### <a id="283E"></a>283E  Regulations with respect to off-shore industry mobile units
 
              (1)  The regulations may make provision:
 
-                     (a)  for or in relation to giving effect to resolutions of the International Maritime Organization with respect to off‑shore industry mobile units or classes of off‑shore industry mobile units;
+                     (a)  for or in relation to giving effect to resolutions of the International Maritime Organization with respect to off-shore industry mobile units or classes of off-shore industry mobile units;
 
-                     (b)  in relation to off‑shore industry mobile units with respect to any matter with respect to which provision is made by this Act or may be made by regulations made otherwise than by virtue of this section; and
+                     (b)  in relation to off-shore industry mobile units with respect to any matter with respect to which provision is made by this Act or may be made by regulations made otherwise than by virtue of this section; and
 
                      (c)  for or in relation to any of the following matters, namely:
 
-                              (i)  the inspection and survey of off‑shore industry mobile units, and the issue of survey certificates in respect of such units;
+                              (i)  the inspection and survey of off-shore industry mobile units, and the issue of survey certificates in respect of such units;
 
-                             (ii)  the construction, hull, equipment and machinery of off‑shore industry mobile units;
+                             (ii)  the construction, hull, equipment and machinery of off-shore industry mobile units;
 
-                            (iii)  the stability of off‑shore industry mobile units;
+                            (iii)  the stability of off-shore industry mobile units;
 
-                            (iv)  accommodation on off‑shore industry mobile units;
+                            (iv)  accommodation on off-shore industry mobile units;
 
-                             (v)  safety in relation to off‑shore industry mobile units, including life‑saving equipment and appliances to be carried on such units;
+                             (v)  safety in relation to off-shore industry mobile units, including life-saving equipment and appliances to be carried on such units;
 
-                            (vi)  the prevention, detection and extinction of fire on off‑shore industry mobile units;
+                            (vi)  the prevention, detection and extinction of fire on off-shore industry mobile units;
 
-                           (vii)  the prevention of collisions involving off‑shore industry mobile units;
+                           (vii)  the prevention of collisions involving off-shore industry mobile units;
 
-                          (viii)  the navigation (including towing) of off‑shore industry mobile units;
+                           (viii)  the navigation (including towing) of off-shore industry mobile units;
 
-                            (ix)  the equipping of off‑shore industry mobile units with radio installations and operation, maintenance and use on off‑shore industry mobile units of radio installations;
+                            (ix)  the equipping of off-shore industry mobile units with radio installations and operation, maintenance and use on off-shore industry mobile units of radio installations;
 
-                             (x)  the manning of off‑shore industry mobile units;
+                             (x)  the manning of off-shore industry mobile units;
 
-                            (xi)  the securing to the seabed of off‑shore industry mobile units engaged in drilling, laying pipelines or other operations;
+                            (xi)  the securing to the seabed of off-shore industry mobile units engaged in drilling, laying pipelines or other operations;
 
-                           (xii)  the providing of off‑shore industry vessels for use in association with off‑shore industry mobile units;
+                           (xii)  the providing of off-shore industry vessels for use in association with off-shore industry mobile units;
 
-                          (xiii)  the transfer of persons and goods to or from off‑shore industry mobile units, including the provision, maintenance and use of cranes and other lifting devices and equipment and helicopter landing facilities;
+                           (xiii)  the transfer of persons and goods to or from off-shore industry mobile units, including the provision, maintenance and use of cranes and other lifting devices and equipment and helicopter landing facilities;
 
-                          (xiv)  the prevention of pollution, or other damage to the environment, by off‑shore industry mobile units;
+                          (xiv)  the prevention of pollution, or other damage to the environment, by off-shore industry mobile units;
 
-                           (xv)  the carrying of an operating manual by off‑shore industry mobile units;
+                           (xv)  the carrying of an operating manual by off-shore industry mobile units;
 
-                          (xvi)  the carriage of dangerous goods on off‑shore industry mobile units; and
+                          (xvi)  the carriage of dangerous goods on off-shore industry mobile units; and
 
-                         (xvii)  the granting of exemptions, whether conditionally or unconditionally, to off‑shore industry mobile units from any requirement of this Act.
+                          (xvii)  the granting of exemptions, whether conditionally or unconditionally, to off-shore industry mobile units from any requirement of this Act.
 
-             (2)  The regulations may provide that a specified provision of this Act does not apply, or applies with prescribed modifications, in relation to off‑shore industry mobile units or a class of off‑shore industry mobile units.
+             (2)  The regulations may provide that a specified provision of this Act does not apply, or applies with prescribed modifications, in relation to off-shore industry mobile units or a class of off-shore industry mobile units.
 
-             (5)  Section 2 does not have effect in relation to regulations made by virtue of this section, or in relation to orders made by virtue of such regulations, that make provision for or in relation to the providing of off‑shore industry vessels for use in association with off‑shore industry mobile units.
+             (5)  Section 2 does not have effect in relation to regulations made by virtue of this section, or in relation to orders made by virtue of such regulations, that make provision for or in relation to the providing of off-shore industry vessels for use in association with off-shore industry mobile units.
 
-##### <a id="283F"></a>283F  Directions with respect to off‑shore industry mobile units
+##### <a id="283F"></a>283F  Directions with respect to off-shore industry mobile units
 
-             (1)  The Authority may, by notice in writing served on the master or owner of an off‑shore industry mobile unit, give directions with respect to any matter for or in relation to which provision may be made by the regulations by virtue of section 283E.
+             (1)  The Authority may, by notice in writing served on the master or owner of an off-shore industry mobile unit, give directions with respect to any matter for or in relation to which provision may be made by the regulations by virtue of section 283E.
 
              (2)  Directions given under subsection (1) do not have effect to the extent that they are inconsistent with regulations made by virtue of section 283E or orders made under subsection 425(1AA).
 
-             (3)  The master and owner of an off‑shore industry mobile unit each commit an offence if:
+             (3)  The master and owner of an off-shore industry mobile unit each commit an offence if:
 
                      (a)  the Authority gives a direction to the master or owner under subsection (1); and
 
@@ -6699,11 +6699,11 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="283G"></a>283G  Off‑shore industry vessels and mobile units not registered in Australia deemed to be registered in Australia
+##### <a id="283G"></a>283G  Off-shore industry vessels and mobile units not registered in Australia deemed to be registered in Australia
 
-             (1)  Subject to subsection (2) and except where the contrary intention appears, the provisions of this Act apply in relation to an off‑shore industry vessel, or an off‑shore industry mobile unit, that is not registered in Australia as if it were registered in Australia and were not registered in any other country.
+             (1)  Subject to subsection (2) and except where the contrary intention appears, the provisions of this Act apply in relation to an off-shore industry vessel, or an off-shore industry mobile unit, that is not registered in Australia as if it were registered in Australia and were not registered in any other country.
 
-             (2)  The Authority may, by instrument in writing, direct that, in relation to an off‑shore industry vessel, an off‑shore industry mobile unit, a class of off‑shore industry vessels or a class of off‑shore industry mobile units specified in the direction, subsection (1) does not have effect or does not have effect in respect of a provision or provisions of this Act specified in the direction.
+             (2)  The Authority may, by instrument in writing, direct that, in relation to an off-shore industry vessel, an off-shore industry mobile unit, a class of off-shore industry vessels or a class of off-shore industry mobile units specified in the direction, subsection (1) does not have effect or does not have effect in respect of a provision or provisions of this Act specified in the direction.
 
              (3)  A direction under subsection (2):
 
@@ -6711,13 +6711,13 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (b)  may be confined to a particular period or to one or more particular voyages or operations.
 
-             (4)  The master and owner of an off‑shore industry vessel or an off‑shore industry mobile unit that is not registered in Australia each commit an offence if:
+             (4)  The master and owner of an off-shore industry vessel or an off-shore industry mobile unit that is not registered in Australia each commit an offence if:
 
-                     (a)  the Authority gives a direction to the master or owner of the off‑shore industry vessel or off‑shore industry mobile unit, under subsection (2), in respect of:
+                     (a)  the Authority gives a direction to the master or owner of the off-shore industry vessel or off-shore industry mobile unit, under subsection (2), in respect of:
 
-                              (i)  the off‑shore industry vessel or off‑shore industry mobile unit; or
+                              (i)  the off-shore industry vessel or off-shore industry mobile unit; or
 
-                             (ii)  a class of off‑shore industry vessels or off‑shore industry mobile units that includes the off‑shore industry vessel or off‑shore industry mobile unit; and
+                             (ii)  a class of off-shore industry vessels or off-shore industry mobile units that includes the off-shore industry vessel or off-shore industry mobile unit; and
 
                      (b)  the direction is expressed to be subject to a condition; and
 
@@ -6729,11 +6729,11 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="283H"></a>283H  Personnel of off‑shore industry vessels and mobile units not passengers
+##### <a id="283H"></a>283H  Personnel of off-shore industry vessels and mobile units not passengers
 
-             (1)  For the purposes of this Act, personnel carried on board an off‑shore industry vessel or off‑shore industry mobile unit shall, except where the contrary intention appears, be deemed not to be passengers on that ship.
+             (1)  For the purposes of this Act, personnel carried on board an off-shore industry vessel or off-shore industry mobile unit shall, except where the contrary intention appears, be deemed not to be passengers on that ship.
 
-             (2)  In subsection (1), **_personnel_** means persons carried on board an off‑shore industry vessel or off‑shore industry mobile unit with the knowledge or consent of the owner, agent or master of the ship, other than:
+             (2)  In subsection (1), **_personnel_** means persons carried on board an off-shore industry vessel or off-shore industry mobile unit with the knowledge or consent of the owner, agent or master of the ship, other than:
 
                      (a)  the master or any other member of the crew of the ship;
 
@@ -6747,9 +6747,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
              (1)  The Minister may, by notice published in the _Gazette_, set out the terms of a resolution of the International Maritime Organization with respect to:
 
-                     (a)  off‑shore industry vessels or a class or classes of off‑shore industry vessels; or
+                     (a)  off-shore industry vessels or a class or classes of off-shore industry vessels; or
 
-                     (b)  off‑shore industry mobile units or a class or classes of off‑shore industry mobile units.
+                     (b)  off-shore industry mobile units or a class or classes of off-shore industry mobile units.
 
              (2)  A notice in the _Gazette_ purporting to be published under subsection (1) is, for all purposes, _prima facie_ evidence of the matters declared in the notice.
 
@@ -6903,7 +6903,7 @@ Note:          For an instrument referred to in paragraph (b
 
 ##### <a id="293A"></a>293A  Power to suspend provisions as to coasting trade
 
-             (1)  The Governor‑General may, if at any time he or she considers it expedient in the public interest to do so, by Proclamation suspend, for such time as is specified in the Proclamation, the operation of any of the foregoing provisions of this Part, as regards any ship or class of ships, and either unconditionally or subject to such conditions (if any) as he or she thinks fit to impose.
+             (1)  The Governor-General may, if at any time he or she considers it expedient in the public interest to do so, by Proclamation suspend, for such time as is specified in the Proclamation, the operation of any of the foregoing provisions of this Part, as regards any ship or class of ships, and either unconditionally or subject to such conditions (if any) as he or she thinks fit to impose.
 
              (2)  A Proclamation issued in pursuance of subsection (1) may provide for suspension for the period specified in the Proclamation, or may provide for suspension until the issue of a Proclamation revoking the prior Proclamation.
 
@@ -6915,7 +6915,7 @@ Note:          For an instrument referred to in paragraph (b
 
              (1)  In this Part, unless the context otherwise requires:
 
-                    <a name="common-understanding-concern-articl-13-14-salvag-convent"></a>**_common understanding concerning Articles 13 and 14 of the Salvage Convention_** means the common understanding:
+                    <a name="14-salvag-convent"></a><a name=""></a><a name="common-understanding-concern-articl"></a>**_common understanding concerning Article_****_s  1_****_3 and 14 of the Salvage Convention_** means the common understanding:
 
                      (a)  that is referred to in section 315; and
 
@@ -6929,7 +6929,7 @@ Note:          For an instrument referred to in paragraph (b
 
                      (b)  a historic relic within the meaning of that Act.
 
-                    <a name="natur-resourc"></a>**_natural resources_** means the mineral and non‑living resources of the seabed and its subsoil.
+                    <a name="natur-resourc"></a>**_natural resources_** means the mineral and non-living resources of the seabed and its subsoil.
 
                     <a name="organ"></a>**_Organization_** means the International Maritime Organization.
 
@@ -6943,7 +6943,7 @@ Note:          For an instrument referred to in paragraph (b
 
                     <a name="salvag-oper"></a>**_salvage operation_** means any act or activity undertaken to assist a vessel or any other property in danger in navigable waters or in any other waters whatsoever.
 
-                    <a name="secretari-gener"></a>**_Secretary‑General_** means the Secretary‑General of the Organization.
+                    <a name="secretari-gener"></a>**_Secretary-General_** means the Secretary-General of the Organization.
 
                     <a name="tidal-water"></a>**_tidal water_** means a part of the sea, or a part of a river within the ebb and flow of the tide at ordinary spring tides, but does not include a harbour.
 
@@ -6967,7 +6967,7 @@ Note:          For an instrument referred to in paragraph (b
 
              (1)  The provisions of sections 302 to 312 (inclusive), section 314 and Division 3 do not apply in relation to a wreck:
 
-                     (a)  that is a historic shipwreck or historic relic within the meaning of a law of a State or of the Northern Territory that relates to shipwrecks or relics of historic significance; and
+                     (a)  that is a historic shipwreck or historic relic within the meaning of a law of a State or of the Northern   Territory that relates to shipwrecks or relics of historic significance; and
 
                      (b)  in relation to which the provisions of that law apply.
 
@@ -6983,7 +6983,7 @@ Provided that the receiver shall not interfere between the master and the crew o
 
              (2)  No person shall disobey the directions of the receiver.
 
-                    Penalty for a contravention of this subsection:     $500.
+                    Penalty for a contravention of this subsection:    $500.
 
 ##### <a id="297"></a>297  Powers of receiver to require assistance
 
@@ -7075,9 +7075,9 @@ that person shall give notice to the receiver, stating that he or she has found 
 
              (2)  The receiver, or any person authorized by the receiver, may take any such wreck by force from any person refusing to deliver it.
 
-##### <a id="304"></a>304  Notice to be posted in Customs‑house
+##### <a id="304"></a>304  Notice to be posted in Customs-house
 
-                   Where a receiver takes possession of any wreck, he or she shall within 48 hours cause to be posted in the nearest Customs‑house a description thereof, and of any distinguishing marks.
+                   Where a receiver takes possession of any wreck, he or she shall within 48 hours cause to be posted in the nearest Customs-house a description thereof, and of any distinguishing marks.
 
 ##### <a id="305"></a>305  Claim of owner to wreck
 
@@ -7129,7 +7129,7 @@ that person shall give notice to the receiver, stating that he or she has found 
 
                    Every person who takes into any place out of Australia any ship stranded, derelict, or otherwise in distress, or any wreck found on or near the coasts of Australia, and there sells it, shall be guilty of an offence punishable on conviction by a fine not exceeding $5,000 or imprisonment for a period not exceeding 2 years, or both.
 
-##### <a id="313"></a>313  Boarding ship in distress without authority
+##### <a id="313"></a>313  Boarding ship in distress without authority
 
              (1)  No person shall board any ship which is wrecked, stranded, or in distress.
 
@@ -7203,9 +7203,9 @@ Note:          A defendant bears an evidential burden in relat
 
              (2)  The Division does not apply to:
 
-                     (a)  off‑shore industry fixed structures; or
+                     (a)  off-shore industry fixed structures; or
 
-                     (b)  off‑shore industry mobile units;
+                     (b)  off-shore industry mobile units;
 
 that are on location engaged in the exploration for, or the exploitation or production, of natural resources.
 
@@ -7479,7 +7479,7 @@ in the same manner as if the ship, wreck, cargo or equipment belonged to a priva
 
              (2)  Any such action must be commenced within 3 months from the date of the act forming the subject of such action.
 
-             (3)  If the plaintiff in any such action discontinues, or is non‑suited, or if judgment is given for the defendant, the latter shall have treble costs.
+             (3)  If the plaintiff in any such action discontinues, or is non-suited, or if judgment is given for the defendant, the latter shall have treble costs.
 
 ### Division 2—Offences
 
@@ -7697,7 +7697,7 @@ Note:          A defendant bears an evidential burden in relat
 
                      (b)  knows or ought reasonably to know the other person’s capacity to perform those duties is impaired by the influence of alcohol or any other drug;
 
-the first‑mentioned person is guilty of an offence.
+the first-mentioned person is guilty of an offence.
 
                     Penalty:  Imprisonment for 6 months.
 
@@ -7809,7 +7809,7 @@ shall be deemed, for the purposes of a provision of this Act that creates an off
 
              (1)  No action shall be maintainable to enforce any claim or lien against a ship or its owners in respect of any damage or loss to another ship, its cargo or freight, or any property on board the ship, or damage for loss of life or personal injuries suffered by any person on board the ship, caused by the fault of the former ship, whether such ship be wholly or partly in fault, or in respect of any salvage services, unless proceedings therein are commenced within 2 years from the date when the damage or loss or injury was caused or the salvage services rendered were terminated.
 
-             (2)  No action shall be maintainable under this Act to enforce any contribution in respect of an over‑paid proportion of any damages for loss of life or personal injuries unless proceedings therein are commenced within one year from the date of payment.
+             (2)  No action shall be maintainable under this Act to enforce any contribution in respect of an over-paid proportion of any damages for loss of life or personal injuries unless proceedings therein are commenced within one year from the date of payment.
 
              (3)  Any Court having jurisdiction to deal with an action to which this section relates may, in accordance with the rules of court, extend any period mentioned in this section to such an extent and on such conditions as it thinks fit.
 
@@ -7831,7 +7831,7 @@ shall be deemed, for the purposes of a provision of this Act that creates an off
 
 ##### <a id="400"></a>400  Production of depositions
 
-             (1)  Whenever in the course of any legal proceeding the testimony of any witness is required in relation thereto, then upon due proof that the witness cannot be found in Australia, any deposition that the witness has previously made on oath in relation to the same subject‑matter before any Judge or magistrate in a prescribed country, or before a consul of a prescribed country, shall be admissible in evidence, provided that:
+             (1)  Whenever in the course of any legal proceeding the testimony of any witness is required in relation thereto, then upon due proof that the witness cannot be found in Australia, any deposition that the witness has previously made on oath in relation to the same subject-matter before any Judge or magistrate in a prescribed country, or before a consul of a prescribed country, shall be admissible in evidence, provided that:
 
                      (a)  if the deposition was made in Australia, it shall not be admissible in any proceeding instituted in Australia;
 
@@ -7965,7 +7965,7 @@ and that officer shall, upon payment of the prescribed fee, furnish a copy or ex
 
              (2)  Any regulations or orders that make provisions for or in relation to giving effect to the Tonnage Measurement Convention may be expressed to apply to a ship, or a class of ships, that is not engaged on international voyages or to which the Convention otherwise does not apply, and may be expressed so as to apply with or without modifications specified in or to be determined under the regulations or orders, as the case may be.
 
-             (3)  The Governor‑General may, with respect to a provision of the Tonnage Measurement Convention the terms of which are such as to vest in the several governments who are parties to the Convention a discretion as to whether any, and, if any, as to what, action should be taken thereunder, make, by regulation, such provision (if any) as the Governor‑General in the exercise of that discretion thinks appropriate.
+             (3)  The Governor-General may, with respect to a provision of the Tonnage Measurement Convention the terms of which are such as to vest in the several governments who are parties to the Convention a discretion as to whether any, and, if any, as to what, action should be taken thereunder, make, by regulation, such provision (if any) as the Governor-General in the exercise of that discretion thinks appropriate.
 
 ##### <a id="405F"></a>405F  Issue of tonnage measurement certificates
 
@@ -8037,13 +8037,13 @@ Note:          A defendant bears an evidential burden in relat
 
 Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
 
-##### <a id="405M"></a>405M  Register tonnage of non‑Convention ships
+##### <a id="405M"></a>405M  Register tonnage of non-Convention ships
 
              (1)  The amount of the register tonnage specified in the certificate of registry of a ship registered in a prescribed country, other than a ship to which the Tonnage Measurement Convention applies, shall be the register tonnage of the ship for the purpose of this Act.
 
              (2)  The amount of the register tonnage of a ship, other than a ship registered in a prescribed country or a ship to which the Tonnage Measurement Convention applies, shall, for the purposes of this Act, be the register tonnage of the ship as determined in accordance with directions given in writing by the Authority in relation to the ship or the class of ships in which the ship is included.
 
-##### <a id="405N"></a>405N  Tonnage of non‑Convention ships to be measured in certain cases
+##### <a id="405N"></a>405N  Tonnage of non-Convention ships to be measured in certain cases
 
                    Where:
 
@@ -8053,7 +8053,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 the tonnage of the ship shall be measured under the regulations or orders.
 
-##### <a id="405P"></a>405P  Assignment of other tonnages to non‑Convention ships
+##### <a id="405P"></a>405P  Assignment of other tonnages to non-Convention ships
 
              (1)  Where, under the regulations or orders, there is assigned to a ship a gross tonnage and a register tonnage, instead of the gross tonnage and register tonnage ascertained in relation to the ship in accordance with the other provisions of those regulations, this Act applies in relation to the ship as if references in this Act to gross tonnage were references to the gross tonnage so assigned and references in this Act to register tonnage were references to the register tonnage so assigned.
 
@@ -8085,11 +8085,11 @@ the tonnage of the ship shall be measured under the regulations or orders.
 
              (1)  The master of a ship shall not take the ship to sea, and the owner of the ship shall not permit the ship to go to sea, unless it is supplied with charts, of a suitable scale and properly corrected down to the time of sailing, necessary for use on the particular voyage about to be undertaken.
 
-                    Penalty (on master or owner):       $2,000 or imprisonment for 12 months, or both.
+                    Penalty (on master or owner):         $2,000 or imprisonment for 12 months, or both.
 
              (2)  Every officer employed in connexion with the navigation of a ship to which this section applies shall have free access to the charts belonging to the ship in use during the voyage.
 
-                    Penalty, on master: $2,000 or imprisonment for 12 months, or both.
+                    Penalty, on master:   $2,000 or imprisonment for 12 months, or both.
 
              (3)  In this section:
 
@@ -8195,7 +8195,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 the master shall:
 
-                     (c)  record the occurrence in the official log‑book of the ship together with such particulars with respect to the occurrence as are prescribed; and
+                     (c)  record the occurrence in the official log-book of the ship together with such particulars with respect to the occurrence as are prescribed; and
 
                      (d)  as soon as practicable, furnish to a proper authority a report in writing of the occurrence in accordance with the prescribed form.
 
@@ -8205,7 +8205,7 @@ the master shall:
 
              (4)  A person who inquires into an occurrence under subsection (3) shall:
 
-                     (a)  enter in the official log‑book of the ship concerned a statement to the effect that, in that person’s opinion, the record of the occurrence in the official log‑book of the ship is correct or is not correct, as the case requires; and
+                     (a)  enter in the official log-book of the ship concerned a statement to the effect that, in that person’s opinion, the record of the occurrence in the official log-book of the ship is correct or is not correct, as the case requires; and
 
                      (b)  furnish a copy of the entry to the Authority or to such other person as is prescribed.
 
@@ -8273,7 +8273,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (c)  a member representing deck officers;
 
-                     (d)  a member representing engine‑room officers;
+                     (d)  a member representing engine-room officers;
 
                      (e)  2 members representing seamen other than officers; and
 
@@ -8321,7 +8321,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="425"></a>425  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act or for the conduct of any business under this Act, and in particular prescribing matters providing for and in relation to:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act or for the conduct of any business under this Act, and in particular prescribing matters providing for and in relation to:
 
                      (a)  the inspection and testing of machinery and appliances for the loading and unloading of ships;
 
@@ -8331,9 +8331,9 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                      (d)  matters affecting the stability of ships;
 
-                   (da)  the regulation of the use of lights or fire in the holds of ships;
+                    (da)  the regulation of the use of lights or fire in the holds of ships;
 
-                   (db)  the safe navigation and operation of ships;
+                    (db)  the safe navigation and operation of ships;
 
                      (e)  the safety of persons, including pilots, going on or coming from, or on board, ships;
 
@@ -8347,7 +8347,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                             (iii)  a notice, order, direction or instruction given, issued or made under, or in force by virtue of, the regulations;
 
-                   (ha)  the manner in which notices, orders, directions, instructions or other documents under this Act may be given, served or notified; and
+                    (ha)  the manner in which notices, orders, directions, instructions or other documents under this Act may be given, served or notified; and
 
                       (i)  the fixing of the fees to be paid in respect of any matters under this Act.
 
@@ -8389,7 +8389,7 @@ Note:          Part 6 of the _Legislative Instruments Act 20
 
                     <a name="code"></a>**_Code_** means the code known as the Uniform Shipping Laws Code adopted by the Council.
 
-                    <a name="council"></a>**_Council_** means the conference of Commonwealth , New Zealand, State, Australian Capital Territory and Northern Territory Ministers known as the Australian Transport Council.
+                    <a name="council"></a>**_Council_** means the conference of Commonwealth,  New Zealand, State, Australian Capital Territory and Northern Territory Ministers known as the Australian Transport Council.
 
                     <a name="nscv"></a>**_NSCV_** means the National Standard for Commercial Vessels adopted by the Council.
 
