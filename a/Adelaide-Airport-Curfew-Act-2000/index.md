@@ -1,12 +1,12 @@
  
 
-![](http://www.comlaw.gov.au/Details/C2009C00132/Html/AdelaideAirportCurfew2000_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00511/Html/AdelaideAirportCurfew2000_image001.gif)
 
 # Adelaide Airport Curfew Act 2000
 
 **Act No. 29 of 2000 as amended**
 
-This compilation was prepared on 20 March 2009
+This compilation was prepared on 2 October 2008
 
 taking into account amendments up to Act No. 87 of 2008
 
@@ -175,7 +175,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  one of the following applies:
 
-(i)  the operator of the aircraft has an international airline licence granted under regulations made under the _Air Navigation Act 1920_;
+(i)  the operator of the aircraft has an international airline licence granted under section 12 of the _Air Navigation Act 1920_;
 
                              (ii)  the operator of the aircraft has a permission granted under section 15D of that Act;
 
@@ -209,7 +209,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  The diagram below shows the runways at Adelaide  Airport.
 
-![](http://www.comlaw.gov.au/Details/C2009C00132/Html/AdelaideAirportCurfew2000_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00511/Html/AdelaideAirportCurfew2000_image002.gif)
 
              (2)  The following runway names have the meanings indicated where they are used in this Act:
 
@@ -668,10 +668,10 @@ of Assent</div>
     <div>20 Sept 2008</div>
   </td>
   <td>
-    <div>Schedule 1 (item 23): 20 Mar 2009</div>
+    <div>Schedule 1 (items 23, 26, 27): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>—</div>
+    <div>Sch. 1 (items 26, 27)</div>
   </td>
 </tr></table>
 
@@ -699,34 +699,10 @@ of Assent</div>
   </tr>
   <tr>
     <td>
-      <div><b>Part 1</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>S. 3</div>
-    </td>
-    <td>
-      <div>am. No. 87, 2008</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 5A</div>
     </td>
     <td>
       <div>ad. No. 143, 2001</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part 2</b></div>
-    </td>
-    <td>
-      <div></div>
     </td>
   </tr>
 </thead>
@@ -738,16 +714,6 @@ of Assent</div>
     <div>rs. No. 143, 2001</div>
   </td>
 </tr>
-<thead>
-  <tr>
-    <td>
-      <div><b>Part 4</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</thead>
 <tr>
   <td>
     <div>S. 19</div>
@@ -764,16 +730,6 @@ of Assent</div>
     <div>rs. No. 143, 2001</div>
   </td>
 </tr>
-<thead>
-  <tr>
-    <td>
-      <div><b>Part 5</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-</thead>
 <tr>
   <td>
     <div>S. 23</div>
@@ -782,6 +738,20 @@ of Assent</div>
     <div>am. No. 143, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008 (No. 87, 2008)_
+
+The following amendment commences on 20 March 2009 unless proclaimed earlier:
+
+## Schedule 1
+
+## 23  Subparagraph 3(2)(b)(i)
+
+Omit “section 12 of”, substitute “regulations made under”.
+
+As at 2 October 2008 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -794,5 +764,57 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+
+* * *
+
+_Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008 (No. 87, 2008)_
+
+The following provisions commence on 20 March 2009 unless proclaimed earlier:
+
+## Schedule 1
+
+## 26  Pre-commencement licences
+
+(1)        Despite the amendments made by this Schedule, the old law continues to apply in relation to the operation of a scheduled international air service in respect of which an international airline licence was in force immediately before the commencement time.
+
+(2)        Subitem (1) has effect in relation to the operation of the service until whichever of the following first occurs:
+
+                     (a)  the international airline licence is surrendered or cancelled in accordance with the old law as it continues to apply under subitem (1);
+
+                     (b)  an international airline licence is granted, in respect of the operation of the service, under regulations made under the _Air Navigation Act 1920_ as in force at or after the commencement time;
+
+                     (c)  the international airline licence is cancelled under subitem (3).
+
+(3)        If the international airline licence is not surrendered or cancelled as mentioned in paragraph (2)(a) of this item, it is cancelled, by force of this subitem, when whichever of the following first occurs:
+
+                     (a)  an international airline licence is granted in respect of the operation of the service as mentioned in paragraph (2)(b) of this item;
+
+                     (b)  the period of 6 months beginning at the commencement time ends.
+
+(4)        The Minister may, by legislative instrument, determine that the period mentioned in paragraph (3)(b) of this item is extended for a specified licence by the period, not exceeding 2 months, specified in the determination. The Minister cannot extend the period for a particular licence more than once.
+
+(5)        A determination under subitem (4) has effect accordingly.
+
+(6)        In this item:
+
+**_commencement time_** means the time when this Schedule commences.
+
+**_old law_** means:
+
+                     (a)  an Act amended by this Schedule, as in force immediately before the commencement time; and
+
+                     (b)  regulations, as in force from time to time, made under such an Act, as in force immediately before the commencement time.
+
+## 27  Constitutional safety net—acquisition of property
+
+(1)        If the operation of this Part would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
+
+(2)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
+
+(3)        In this item:
+
+**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
+
+**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
  
