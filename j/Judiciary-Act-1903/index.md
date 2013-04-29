@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00784/Html/d3e98826-cfb1-4d2d-8c7c-04b2f719c232_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00345/Html/a6cc9ae6-69c1-452f-b663-68f5ec533f03_files/image001.gif)
 
 # Judiciary Act 1903
 
 **Act No. 6 of 1903 as amended**
 
-This compilation was prepared on 26 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 4 May 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -494,7 +494,7 @@ But on the application of either party the Justice may order the application to 
 
 ##### <a id="19"></a>19  Quorum of a Full Court
 
-                   Except as hereinafter provided, a Full Court may be constituted by any two or more Justices of the High Court sitting together.
+                   Except as hereinafter provided, a Full Court may be constituted by any two or more Justices of the High Court sitting together.
 
 ##### <a id="20"></a>20  Appeals from Judges of federal jurisdiction
 
@@ -924,7 +924,7 @@ the High Court may, upon application of a party or upon application by or on beh
 
 ##### <a id="47"></a>47  Application
 
-                   This Part applies to and in relation to:
+                   This Part applies to and in relation to:
 
                      (a)  all natural persons, whether resident in Australia or not and whether Australian citizens or not; and
 
@@ -1324,7 +1324,7 @@ whether or not he or she is so entitled apart from this subsection.
 
              (2)  The CEO is the director of the AGS for the purposes of the _Commonwealth Authorities and Companies Act 1997_, and has the function of managing the AGS.
 
-##### <a id="55T"></a>55T  Appointment of CEO
+##### <a id="55T"></a>55T  Appointment of CEO
 
              (1)  The CEO is to be appointed by instrument in writing signed by the Attorney‑General and the Finance Minister.
 
@@ -2440,11 +2440,11 @@ All relevant information pertaining to application, saving or transitional provi
 
 <table>
 <colgroup>
-  <col width="30%">
+  <col width="29%">
   <col width="15%">
-  <col width="18%">
-  <col width="20%">
   <col width="17%">
+  <col width="20%">
+  <col width="20%">
 </colgroup>
 
 <thead>
@@ -3148,7 +3148,7 @@ No. S187)</div>
     <div>21 Apr 1980 ( <i>see</i>s. 2 and <i>Gazette</i>1980, No. S82)</div>
   </td>
   <td>
-    <div>S. 18 (am. by 61, 1981, s. 115)</div>
+    <div>S. 18 (am. by 61, 1981, s. 115)</div>
   </td>
 </tr>
 <tr>
@@ -4081,23 +4081,6 @@ Schedule 5 (items 38, 85): <i>(za)</i></div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 744–746) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     _The_ _Judiciary Amendment Act (No. 2) 1979_ was amended by section 115 only of the _Statute Law Revision Act 1981_, subsection 2(1) of which provides as follows:
@@ -4480,7 +4463,8 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr>
@@ -4498,7 +4482,8 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -7032,30 +7017,6 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 744  Subsection 55Z(1)
-
-Omit “(1)”.
-
-## 745  At the end of subsection 55Z(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 746  Subsection 55Z(2)
-
-Repeal the subsection.
-
-As at 26 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7441,21 +7402,5 @@ _Fair Work (State Referral and Consequential and Other Amendments) Act 2009 (N
 (1)       The amendment made by item 38 of this Schedule applies in relation to any matter in which a writ of mandamus or prohibition or an injunction is sought, on or after the WR Act repeal day, against an officer or officers of the Commonwealth in relation to a decision made (whether before or after that day) by the officer or officers in the capacity of a person who holds office under the _Fair Work Act 2009_.
 
 (2)       Despite the amendment made by item 38 of this Schedule, subsection 39B(2) of the _Judiciary Act 1903_, as in force immediately before the WR Act repeal day, continues to apply in relation to any matter in which a writ of mandamus or prohibition or an injunction is sought, on or after that day, against an officer or officers of the Commonwealth in relation to a decision made (whether before or after that day) by the officer or officers in the capacity of a person who holds office under the _Workplace Relations Act 1996_.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
