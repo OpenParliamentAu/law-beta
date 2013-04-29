@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00551/Html/TransferofPrisoners1983WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00508/Html/TransferofPrisoners1983WD02_image001.gif)
 
 # Transfer of Prisoners Act 1983
 
 **Act No. 95 of 1983 as amended**
 
-This compilation was prepared on 4 December 2009
+This compilation was prepared on 11 November 2009
  taking into account amendments up to Act No. 106 of 2009
 
 The text of any of those amendments not in force
@@ -596,7 +596,7 @@ the Attorney-General shall make the order for the transfer of the prisoner that 
 
 ##### <a id="16"></a>16  Return of prisoner for appeal purposes
 
-             (1)  Where it appears to a court, or to the Judge of a court, sitting in a State or Territory that the attendance before the court of a person who is undergoing a sentence or sentences of imprisonment in any other State or Territory and who has been transferred to that other State or Territory in pursuance of a transfer order or a State order of transfer or both is necessary for the purposes of a proceeding before the court by way of appeal or review of or in relation to any conviction, judgment, sentence or minimum term of imprisonment or of a proceeding incidental to such a proceeding, the court or Judge may issue an order directed to the Superintendent or other officer in charge of the gaol where the person is undergoing imprisonment requiring him or her to produce the person at the time and place specified in the order.
+             (1)  Where it appears to any court of a State or Territory or to any Judge of such a court that the attendance before the court of a person who is undergoing a sentence or sentences of imprisonment in any other State or Territory and who has been transferred to that other State or Territory in pursuance of a transfer order or a State order of transfer or both is necessary for the purposes of a proceeding before the court by way of appeal or review of or in relation to any conviction, judgment, sentence or minimum term of imprisonment or of a proceeding incidental to such a proceeding, the court or Judge may issue an order directed to the Superintendent or other officer in charge of the gaol where the person is undergoing imprisonment requiring him or her to produce the person at the time and place specified in the order.
 
           (1A)  However, subsection (1) does not apply if the transfer order in pursuance of which the person is in that other State or Territory is an order under Part IV.
 
@@ -1294,7 +1294,7 @@ Schedule 4 (items 492–494): 4 July 2008</div>
     <div>6 Nov 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 112): 4 Dec 2009</div>
+    <div>Schedule 1 (item 112): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1473,7 +1473,7 @@ _(f)_      The _Transfer of Prisoners Act 1983_ was amended by Schedul
     <div>S. 16</div>
   </td>
   <td>
-    <div>am. No. 164, 1984; No. 124, 2004; No. 73, 2008; No. 106, 2009</div>
+    <div>am. No. 164, 1984; No. 124, 2004; No. 73, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1628,6 +1628,20 @@ _(f)_      The _Transfer of Prisoners Act 1983_ was amended by Schedul
     <div>am. No. 73, 2008</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Federal Court of Australia Amendment (Criminal Jurisdiction) Act 2009 (No. 106, 2009)_
+
+The following amendment commences on 4 December 2009:
+
+## Schedule 1
+
+## 112  Subsection 16(1)
+
+Omit “any court of a State or Territory or to any Judge of such a court”, substitute “a court, or to the Judge of a court, sitting in a State or Territory”.
+
+As at 11 November 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
