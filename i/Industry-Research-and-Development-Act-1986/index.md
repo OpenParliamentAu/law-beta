@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00231/Html/3feeabb7-7693-4e76-a895-ad74e4e1d7bb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00168/Html/IndResDevel1986_WD02_image001.gif)
 
 # Industry Research and Development Act 1986
 
 **Act No. 89 of 1986 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -154,10 +154,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39L](#39L).        Certificate as to research and development activities
 
-39LAAACertificate as to Australian‑centred research and development 
+39LAAACertificate as to Australian-centred research and development 
  activities
 
-39LAABCertificate as to activities that would be Australian‑centred 
+39LAABCertificate as to activities that would be Australian-centred 
  research and development activities apart from need for plan
 
 [39LAA](#39LAA).  Certificate as to overseas research and development activities
@@ -168,7 +168,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39MA](#39MA).   Certificate about ineligible finance schemes
 
-[39N](#39N).       Certificate of non‑compliance
+[39N](#39N).       Certificate of non-compliance
 
 [39P](#39P).        Joint registration
 
@@ -182,7 +182,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39S](#39S).        Internal review of decisions
 
-[39T](#39T).        Review of decisions by Administrative Appeals Tribunal
+[39T](#39T).       Review of decisions by Administrative Appeals Tribunal
 
 [39U](#39U).       Statements to accompany notification of decisions
 
@@ -203,8 +203,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [48A](#48A).       Fees for making applications etc  under Part IIIA
 
 **Part VI—Amendments of Industrial Research and Development Incentives Act 1976** 
-
-Sections 49–53
 
 **Notes** 
 
@@ -358,9 +356,9 @@ shall be taken to be part of Australia.
 
                      (c)  not less than 4, or more than 13, other members.
 
-             (2)  The appointed members shall be appointed by the Governor‑General in writing.
+             (2)  The appointed members shall be appointed by the Governor-General in writing.
 
-             (3)  The appointed members shall be appointed as part‑time members.
+             (3)  The appointed members shall be appointed as part-time members.
 
              (4)  A member holds office on such terms and conditions (in respect of matters not provided for by this Act) as are determined by the Minister in writing.
 
@@ -368,11 +366,11 @@ shall be taken to be part of Australia.
 
 ##### <a id="10"></a>10  Period of appointment of members
 
-             (1)  Subject to this Act, an appointed member holds office for such period, not exceeding 3 years, as is specified in the instrument of the member’s appointment, but he or she is eligible for re‑appointment.
+             (1)  Subject to this Act, an appointed member holds office for such period, not exceeding 3 years, as is specified in the instrument of the member’s appointment, but he or she is eligible for re-appointment.
 
              (2)  A person must not be appointed as an appointed member if the person has, at any time before that appointment, served 2 consecutive terms as a member of the Board (whether or not either or both of those terms commenced or ended before the commencement of this subsection).
 
-             (3)  Before the Governor‑General appoints a person as an appointed member for a particular period, the Minister must be satisfied that appointing the member for that period would be appropriate, having regard to the desirability of ensuring, if practicable, that the periods for which the appointed members are appointed do not all end at the same time.
+             (3)  Before the Governor-General appoints a person as an appointed member for a particular period, the Minister must be satisfied that appointing the member for that period would be appropriate, having regard to the desirability of ensuring, if practicable, that the periods for which the appointed members are appointed do not all end at the same time.
 
 ##### <a id="11"></a>11  Duties of Chairperson
 
@@ -410,11 +408,11 @@ shall be taken to be part of Australia.
 
 ##### <a id="14"></a>14  Resignation
 
-                   The Chairperson or another appointed member may resign the office of Chairperson or member, as the case may be, by writing signed by him or her and delivered to the Governor‑General.
+                   The Chairperson or another appointed member may resign the office of Chairperson or member, as the case may be, by writing signed by him or her and delivered to the Governor-General.
 
 ##### <a id="15"></a>15  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of an appointed member:
+             (1)  The Governor-General may terminate the appointment of an appointed member:
 
                      (a)  for misbehaviour; or
 
@@ -432,7 +430,7 @@ shall be taken to be part of Australia.
 
                              (ii)  on leave of absence granted under section 13;
 
-the Governor‑General shall remove the member from office.
+the Governor-General shall remove the member from office.
 
 ##### <a id="16"></a>16  Disclosure of interests by members of Board
 
@@ -618,7 +616,7 @@ but a person so appointed shall not continue so to act for more than 12 months.
 
           (2B)  A person must not be appointed as a member of a committee if the person has, at any time before that appointment, served 2 consecutive terms as a member of the committee (whether or not either or both of those terms commenced or ended before the commencement of this subsection).
 
-       (2BA)  Despite subsection (2B), a person may be appointed as a member of a committee for no more than 2 further consecutive terms if:
+        (2BA)  Despite subsection (2B), a person may be appointed as a member of a committee for no more than 2 further consecutive terms if:
 
                      (a)  during the previous 2 consecutive terms the person was not the Chairperson of the committee; and
 
@@ -804,7 +802,7 @@ The benefits of the tax incentive are targeted by being limited to particular ex
 
                      (b)  the extent to which particular activities are to be carried out in Australia;
 
-                     (c)  the extent to which particular activities are to be carried out by non‑residents, whether the activities are to be carried out in Australia or not;
+                     (c)  the extent to which particular activities are to be carried out by non-residents, whether the activities are to be carried out in Australia or not;
 
                      (d)  the extent to which particular activities will involve the use of imported plant or of knowhow or technology acquired outside Australia.
 
@@ -902,9 +900,9 @@ The benefits of the tax incentive are targeted by being limited to particular ex
 
              (2)  If the Board has not made a decision under subsection (1) before whichever time (the **_eligible time_**) is the later of the following times:
 
-                     (a)  the end of the period (the **_original 90‑day period_**) of 90 days after the day on which the application was received by the Board;
+                     (a)  the end of the period (the **_original 90-day period_**) of 90 days after the day on which the application was received by the Board;
 
-                     (b)  if the Board, by written notice given to the applicant within the original 90‑day period, requests the applicant to give further information about the application—the end of the period of 90 days after the Board receives the further information;
+                     (b)  if the Board, by written notice given to the applicant within the original 90-day period, requests the applicant to give further information about the application—the end of the period of 90 days after the Board receives the further information;
 
 then, at the eligible time, the Board is taken (except for the purpose of subsection (3)) to have made a decision under subsection (1) to refuse the application.
 
@@ -1126,9 +1124,9 @@ Note:          The registration of a research agency may also 
 
 (2)  If the Board has not made a decision under subsection (1) before whichever time (**_eligible time_**) is the later of the following times:
 
-(a)  the end of the period (**_original 90‑day period_**) of 90 days after the day on which the application was received by the Board;
+(a)  the end of the period (**_original 90-day period_**) of 90 days after the day on which the application was received by the Board;
 
-(b)  if the Board, by written notice given to the applicant within the original 90‑day period, requests the applicant to give further information about the application—the end of the period of 90 days after the Board receives the further information;
+(b)  if the Board, by written notice given to the applicant within the original 90-day period, requests the applicant to give further information about the application—the end of the period of 90 days after the Board receives the further information;
 
 then, at the eligible time, the Board is taken to have made a decision under subsection (1) to refuse the application.
 
@@ -1152,7 +1150,7 @@ then, at the eligible time, the Board is taken to have made a decision under sub
 
 _(_ 6)  The Board may specify a date under paragraph (5)(b) that is earlier than the commencement of this section.
 
-\[Back‑dated entries—Register taken to have been in existence]
+\[Back-dated entries—Register taken to have been in existence]
 
              (7)  If the Board specifies such an earlier date, this Part and section 73CB of the _Income Tax Assessment Act 1936_ have effect as if the Register of Commercial Government Bodies had been in existence on that date.
 
@@ -1196,7 +1194,7 @@ _(_ 6)  The Board may specify a date under paragraph (5)(b) that is earlier 
 
              (1)  An eligible company may, during a year of income, apply to the Board for advance registration, in relation to proposed research and development activities, in respect of all or any of the following years of income:
 
-                     (a)  the first‑mentioned year of income;
+                     (a)  the first-mentioned year of income;
 
                      (b)  the next 2 years of income.
 
@@ -1264,11 +1262,11 @@ the Board shall register the company, in relation to those research and developm
 
           (1A)  Subject to sections 39JA, 39JB, 39JC, 39JE and 39JF, the Board cannot register a company under this section, in relation to activities, in respect of a year of income:
 
-                     (a)  if the year is the 1992‑93 year of income or an earlier year of income—after 2.30 pm Australian Eastern Standard Time on 6 December 1995; or
+                     (a)  if the year is the 1992-93 year of income or an earlier year of income—after 2.30 pm Australian Eastern Standard Time on 6 December 1995; or
 
-                     (b)  if the year is the 1993‑94 or 1994‑95 year of income—unless the application for registration is made before 7 June 1996; or
+                     (b)  if the year is the 1993-94 or 1994-95 year of income—unless the application for registration is made before 7 June 1996; or
 
-                     (c)  if the year is the 1995‑96 year of income or a later year of income that ends before the commencement of paragraph (d)—unless the application for registration is made after the end of the year of income but within 6 months after the end of that year; or
+                     (c)  if the year is the 1995-96 year of income or a later year of income that ends before the commencement of paragraph (d)—unless the application for registration is made after the end of the year of income but within 6 months after the end of that year; or
 
                      (d)  if the year of income ends on or after the commencement of this paragraph—unless the application for registration is made after the end of the year of income but within 10 months after the end of that year.
 
@@ -1296,19 +1294,19 @@ the Board shall register the company, in relation to those research and developm
 
              (1)  For the purposes of this section, an eligible company is taken to have a registration history only if:
 
-                     (a)  the company has been registered under section 39J in respect of at least 2 years of income during the period starting at the beginning of the 1985‑86 year of income and ending at the end of the 1992‑93 year of income; and
+                     (a)  the company has been registered under section 39J in respect of at least 2 years of income during the period starting at the beginning of the 1985-86 year of income and ending at the end of the 1992-93 year of income; and
 
-                     (b)  the company was so registered before the end of 12 months after the end of the 1992‑93 year of income.
+                     (b)  the company was so registered before the end of 12 months after the end of the 1992-93 year of income.
 
-             (2)  If an eligible company has a registration history, paragraph 39J(1A)(a) does not apply in relation to the company in respect of a year of income that occurred after the second year of income during the period mentioned in paragraph (1)(a), in respect of which the company was registered before the beginning of the 1993‑94 year of income.
+             (2)  If an eligible company has a registration history, paragraph 39J(1A)(a) does not apply in relation to the company in respect of a year of income that occurred after the second year of income during the period mentioned in paragraph (1)(a), in respect of which the company was registered before the beginning of the 1993-94 year of income.
 
-             (3)  The Board cannot register under section 39J an eligible company that has a registration history in respect of a year of income that occurred after the second year of income during the period mentioned in paragraph (1)(a), in respect of which the company was registered before the beginning of the 1993‑94 year of income, unless the application for registration is made before 1 July 1997.
+             (3)  The Board cannot register under section 39J an eligible company that has a registration history in respect of a year of income that occurred after the second year of income during the period mentioned in paragraph (1)(a), in respect of which the company was registered before the beginning of the 1993-94 year of income, unless the application for registration is made before 1 July 1997.
 
 ##### <a id="39JB"></a>39JB  Registration: eligible companies with a claim history
 
              (1)  For the purposes of this section, an eligible company is taken to have a claim history only if:
 
-                     (a)  the company has claimed a deduction under section 73B of the _Income Tax Assessment Act 1936_ (otherwise than by way of an application for an amendment of its assessment) in respect of the 1992‑93 year of income, or an earlier year of income; and
+                     (a)  the company has claimed a deduction under section 73B of the _Income Tax Assessment Act 1936_ (otherwise than by way of an application for an amendment of its assessment) in respect of the 1992-93 year of income, or an earlier year of income; and
 
                      (b)  the company was not registered under section 39J in respect of that year of income; and
 
@@ -1322,7 +1320,7 @@ the Board shall register the company, in relation to those research and developm
 
              (1)  For the purposes of this section, an eligible company is taken to have a tax loss history only if:
 
-                     (a)  the company makes an application for registration under section 39J in respect of the 1992‑93 year of income, or an earlier year of income; and
+                     (a)  the company makes an application for registration under section 39J in respect of the 1992-93 year of income, or an earlier year of income; and
 
                      (b)  the company had no taxable income in that year of income, nor in every subsequent year of income that ended before 7 December 1995.
 
@@ -1338,9 +1336,9 @@ the Board shall register the company, in relation to those research and developm
 
                      (b)  contain the information required by the application form in respect of the activities in relation to which registration is sought; and
 
-                   (ba)  contain a declaration, by an officer of the company who is authorised by the company to make the declaration, stating that the company has, while the activities were carried on, maintained records that substantiate the carrying on of the activities; and
+                    (ba)  contain a declaration, by an officer of the company who is authorised by the company to make the declaration, stating that the company has, while the activities were carried on, maintained records that substantiate the carrying on of the activities; and
 
-                   (bb)  specify each company on behalf of which each of the activities was undertaken; and
+                    (bb)  specify each company on behalf of which each of the activities was undertaken; and
 
                      (c)  specify the expenditure incurred by the company in relation to the activities during the year of income; and
 
@@ -1368,13 +1366,13 @@ Note 2:       A company on behalf of which an activity was undertake
 
           (1A)  This section applies to a year of income of an eligible company that is:
 
-                     (a)  the 1995‑96 year of income of the company; or
+                     (a)  the 1995-96 year of income of the company; or
 
                      (b)  a later year of income of the company that ends before the commencement of paragraph 39J(1A)(d).
 
              (1)  The Board may, on a request made under this section by an eligible company, extend the period for making an application for registration under section 39J in respect of a year of income of the company to which this section applies.
 
-             (2)  The Board must not grant a request made in respect of a year of income that occurs after the 1995‑96 year of income if it has granted a request under this section in respect of the immediately preceding year of income.
+             (2)  The Board must not grant a request made in respect of a year of income that occurs after the 1995-96 year of income if it has granted a request under this section in respect of the immediately preceding year of income.
 
              (3)  A request must:
 
@@ -1418,7 +1416,7 @@ If the applicant lodges a statement in accordance with this subsection, the appl
 
           (1A)  If advance registration has been granted to an eligible company, in relation to particular research and development activities in respect of a year of income, the Board must not refuse to register the company in relation to those activities in respect of that year on the ground that they are not research and development activities.
 
-          (1B)  The Board is entitled to refuse to register an eligible company, in relation to activities described in paragraph 73B(14C)(g) of the _Income Tax Assessment Act 1936_ in relation to the company in respect of a year of income, on the ground that the activities are not activities that would be Australian‑centred research and development activities if subsection 73B(2BA) of that Act had not been enacted.
+          (1B)  The Board is entitled to refuse to register an eligible company, in relation to activities described in paragraph 73B(14C)(g) of the _Income Tax Assessment Act 1936_ in relation to the company in respect of a year of income, on the ground that the activities are not activities that would be Australian-centred research and development activities if subsection 73B(2BA) of that Act had not been enacted.
 
              (2)  Subject to subsection (3), the regulations may specify other grounds on which the Board is entitled to refuse to register a company in respect of any year of income or in respect of a particular year of income or years of income.
 
@@ -1464,9 +1462,9 @@ If the applicant lodges a statement in accordance with this subsection, the appl
 
              (3)  If the activities were or are carried on on behalf of a foreign company grouped under section 73L of the _Income Tax Assessment Act 1936_ with an eligible company that was or is incurring expenditure in relation to the carrying on of the activities, the Board must give a copy of the notice to the eligible company.
 
-##### <a id="39LAAA"></a>39LAAA  Certificate as to Australian‑centred research and development activities
+##### <a id="39LAAA"></a>39LAAA  Certificate as to Australian-centred research and development activities
 
-             (1)  The Board may give to the Commissioner a certificate stating whether particular activities were Australian‑centred research and development activities.
+             (1)  The Board may give to the Commissioner a certificate stating whether particular activities were Australian-centred research and development activities.
 
              (2)  The Board must give to the Commissioner a certificate described in subsection (1) if the Commissioner gives the Board a written request to do so.
 
@@ -1474,17 +1472,17 @@ If the applicant lodges a statement in accordance with this subsection, the appl
 
                      (a)  the activities covered by a certificate given under this section were or are carried on on behalf of a foreign company grouped under section 73L of the _Income Tax Assessment Act 1936_ with an eligible company that incurred expenditure in relation to the carrying on of the activities; and
 
-                     (b)  the certificate states that the activities were not Australian‑centred research and development activities;
+                     (b)  the certificate states that the activities were not Australian-centred research and development activities;
 
 the Board must give notice in writing to the eligible company, stating the reasons for giving the certificate.
 
-##### <a id="39LAAB"></a>39LAAB  Certificate as to activities that would be Australian‑centred research and development activities apart from need for plan
+##### <a id="39LAAB"></a>39LAAB  Certificate as to activities that would be Australian-centred research and development activities apart from need for plan
 
-             (1)  The Board may give to the Commissioner a certificate stating whether particular activities were activities that would have been Australian‑centred research and development activities if subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ had not been enacted.
+             (1)  The Board may give to the Commissioner a certificate stating whether particular activities were activities that would have been Australian-centred research and development activities if subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ had not been enacted.
 
 Note 1:       Subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ says activities are not research and development activities unless they are carried on in accordance with a plan that complies with any guidelines formulated by the Board under section 39KA of this Act that are in force at the time.
 
-Note 2:       Activities may be ones that would have been Australian‑centred research and development activities if subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ had not been enacted, whether or not the activities were carried on in accordance with such a plan.
+Note 2:       Activities may be ones that would have been Australian-centred research and development activities if subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ had not been enacted, whether or not the activities were carried on in accordance with such a plan.
 
              (2)  The Board must give to the Commissioner a certificate described in subsection (1) if the Commissioner gives the Board a written request to do so.
 
@@ -1492,7 +1490,7 @@ Note 2:       Activities may be ones that would have been Australian
 
                      (a)  the activities covered by a certificate given under this section were or are carried on on behalf of a foreign company grouped under section 73L of the _Income Tax Assessment Act 1936_ with an eligible company that incurred expenditure in relation to the carrying on of the activities; and
 
-                     (b)  the certificate states that the activities were activities that would have been Australian‑centred research and development activities if subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ had not been enacted;
+                     (b)  the certificate states that the activities were activities that would have been Australian-centred research and development activities if subsection 73B(2BA) of the _Income Tax Assessment Act 1936_ had not been enacted;
 
 the Board must give notice in writing to the eligible company, stating the reasons for giving the certificate.
 
@@ -1578,7 +1576,7 @@ the Board may give a written certificate to the Commissioner:
 
                      (c)  if such a submission is made within that period—had regard to the matters raised in the submission.
 
-##### <a id="39N"></a>39N  Certificate of non‑compliance
+##### <a id="39N"></a>39N  Certificate of non-compliance
 
              (1)  Where:
 
@@ -1710,7 +1708,7 @@ subsection (1) does not prohibit the Board, in respect of the application, fro
 
                      (b)  contain such particulars of the extension as are necessary to enable the Board to make a decision.
 
-             (3)  Subject to subsection (4), if the Board is satisfied that an extension of the registration is necessary to enable the companies to complete the project, the Board may grant the extension for a year of income or years of income not later than the 2004‑05 year of income.
+             (3)  Subject to subsection (4), if the Board is satisfied that an extension of the registration is necessary to enable the companies to complete the project, the Board may grant the extension for a year of income or years of income not later than the 2004-05 year of income.
 
              (4)  The Board must not grant the extension unless the Board is satisfied that, if the extension were granted:
 
@@ -1802,7 +1800,7 @@ request the Board to reconsider the decision.
 
                      (a)  the person may, if dissatisfied with the decision, seek a reconsideration of the decision by the Board in accordance with subsection 39S(2); and
 
-                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Board upon that reconsideration confirming or varying the first‑mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
+                     (b)  the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with a decision made by the Board upon that reconsideration confirming or varying the first-mentioned decision, make application to the Administrative Appeals Tribunal for review of the decision so confirmed or varied.
 
              (2)  Where the Board confirms or varies a decision under subsection 39S(4) and gives to a person notice in writing of the confirmation or variation of the decision, that notice must include a statement to the effect that the person may, subject to the _Administrative Appeals Tribunal Act 1975_, if dissatisfied with the decision so confirmed or varied, make application to the Administrative Appeals Tribunal for review of the decision.
 
@@ -1916,9 +1914,9 @@ request the Board to reconsider the decision.
 
                     (aa)  a person employed as a member of staff of the Minister under section 13 or 20 of the _Members of Parliament (Staff) Act 1984_; or
 
-                     (b)  the Secretary of the Department; or
+                     (b)  the Secretary to the Department; or
 
-                     (c)  an officer of the Department designated in writing by the Secretary of the Department as being an officer who is to receive information under this Act.
+                     (c)  an officer of the Department designated in writing by the Secretary to the Department as being an officer who is to receive information under this Act.
 
              (3)  In this section:
 
@@ -1948,7 +1946,7 @@ request the Board to reconsider the decision.
 
 ##### <a id="48"></a>48  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1962,7 +1960,7 @@ request the Board to reconsider the decision.
 
 ## Part VI—Amendments of Industrial Research and Development Incentives Act 1976
 
-##### Sections 49–53
+**Sections 49–53**
 
 * * *
 
@@ -2504,30 +2502,13 @@ Schedule 12 (items 1–52,
   <td colspan="2">
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 75): 19 Apr 2011</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Industry Research and Development Act 1986_ was amended by sections 91–112 only of the _Taxation Laws Amendment Act (No. 5) 1992_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Industry Research and Development Act 1986_ was amended by Schedule 4 (item 94) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
+_(b)_    The _Industry Research and Development Act 1986_ was amended by Schedule 4 (item 94) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows: 
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -2570,7 +2551,7 @@ _(i)_ The _Industry Research and Development Act 1986_ was amended by Schedule�
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-                 (2)   Division 1 of Part 3 of Schedule 2 is taken to have commenced at 12 pm, by legal time in the Australian Capital Territory, on 29 January 2001.
+                 (2)   Division 1 of Part 3 of Schedule 2 is taken to have commenced at 12 pm, by legal time in the Australian   Capital Territory, on 29 January 2001.
 
                  (3)   Division 2 of Part 3 of Schedule 2 commences, or is taken to have commenced, immediately after the commencement of Schedule 1 to the _New Business Tax System (Capital Allowances) Act 2001_.
 
@@ -3795,7 +3776,7 @@ No. 164, 2007</div>
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 59, 1988; No. 15, 1999; No. 164, 2007; No. 8, 2010; No. 5, 2011</div>
+    <div>am. No. 59, 1988; No. 15, 1999; No. 164, 2007; No. 8, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3819,9 +3800,9 @@ _Taxation Laws Amendment Act (No. 3) 1996 (No. 78, 1996)_
 
 ## 69  Transitional
 
-(1)       Subject to subitem (2), if, at or after 5 pm, by legal time in the Australian Capital Territory, on 23 July 1996 and before the commencement of section 39PA of the _Industry Research and Development Act 1986_, the Industry Research and Development Board registered companies jointly, the registration is taken not to have been effected.
+(1)        Subject to subitem (2), if, at or after 5 pm, by legal time in the Australian Capital Territory, on 23 July 1996 and before the commencement of section 39PA of the _Industry Research and Development Act 1986_, the Industry Research and Development Board registered companies jointly, the registration is taken not to have been effected.
 
-(2)       Subitem (1) does not apply to a registration if the Board would not, because of subsection 39PA(2), (3) or (4) of the _Industry Research and Development Act 1986_, be prohibited from effecting the registration after the commencement of section 39PA of that Act.
+(2)        Subitem (1) does not apply to a registration if the Board would not, because of subsection 39PA(2), (3) or (4) of the _Industry Research and Development Act 1986_, be prohibited from effecting the registration after the commencement of section 39PA of that Act.
 
 * * *
 
@@ -3841,7 +3822,7 @@ _Industry Research and Development Amendment Act 1999 (No. 15, 1999)_
 
 ## 4  Treatment of certain applications lodged with the Australian Taxation Office
 
-(1)       This section applies only to applications made under section 39J of the _Industry Research and Development Act 1986_ by the following companies:
+(1)        This section applies only to applications made under section 39J of the _Industry Research and Development Act 1986_ by the following companies:
 
                      (a)  Aussie Diamond Products Pty. Limited (ACN 051 488 656);
 
@@ -3855,7 +3836,7 @@ _Industry Research and Development Amendment Act 1999 (No. 15, 1999)_
 
                       (f)  NSJA Investments Pty Limited (ACN 007 288 637) (previously known as Strategos Pty. Ltd.).
 
-(2)       If, before the commencement of this section:
+(2)        If, before the commencement of this section:
 
                      (a)  an application was lodged with the Australian Taxation Office before the end of the period for making the application; and
 
@@ -3865,7 +3846,7 @@ _Industry Research and Development Amendment Act 1999 (No. 15, 1999)_
 
 the Board must take the application to have been made within the period for making the application and reconsider the application for registration under section 39J as soon as possible after the commencement of this section.
 
-(3)       If, before the commencement of this section:
+(3)        If, before the commencement of this section:
 
                      (a)  an application was lodged with the Australian Taxation Office before the end of the period for making the application; and
 
@@ -3875,7 +3856,7 @@ the Board must take the application to have been made within the period for maki
 
 the validity of the registration is not affected, and is taken never to have been affected, by the fact that the application was not made within the period for making the application.
 
-(4)       If, before the commencement of this section:
+(4)        If, before the commencement of this section:
 
                      (a)  an application was lodged with the Australian Taxation Office before the end of the period for making the application; and
 
@@ -3885,7 +3866,7 @@ the validity of the registration is not affected, and is taken never to have bee
 
 the Board must take the application to have been made within the period for making the application and consider the application for registration under section 39J as soon as possible after the commencement of this section.
 
-(5)       In this section:
+(5)        In this section:
 
                     <a name="applic"></a>**_application_** includes a copy of an application.
 
@@ -3901,9 +3882,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -3913,9 +3894,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -3923,9 +3904,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -3956,19 +3937,19 @@ as if the subsection had not been repealed.
 
 ## 28  Transitional provisions
 
-(1)       Despite the amendments of the _Industry Research and Development Act 1986_ made by this Act:
+(1)        Despite the amendments of the _Industry Research and Development Act 1986_ made by this Act:
 
                      (a)  Ministerial directions in force immediately before the commencing day under section 19 of that Act in relation to a program of funding for research and development are taken to continue in force on and after that day for the purpose of facilitating the transitional arrangements set out in subitems (3) to (6); but
 
                      (b)  a person or body may not make an application after that day in respect of a research and development proposal under such a program.
 
-(2)       Nothing in subitem (1) implies that:
+(2)        Nothing in subitem (1) implies that:
 
                      (a)  the Minister may not give directions, on or after the commencing day, under section 18A of the _Industry Research and Development Act 1986_, in relation to a program of funding for research and development that is substantially similar to the program for which directions had been given under section 19 of that Act; or
 
                      (b)  a person or body may not make an application after that day in respect of a research and development proposal under such a substantially similar program.
 
-(3)       If:
+(3)        If:
 
                      (a)  before the commencing day, a person or body has made an application under the _Industry Research and Development Act 1986_ for the expenditure of Commonwealth money in respect of a research and development proposal; and
 
@@ -3982,7 +3963,7 @@ then:
 
 as if the amendments made by this Schedule had not been made.
 
-(4)       If:
+(4)        If:
 
                      (a)  before the commencing day, the Board had entered into:
 
@@ -3994,9 +3975,9 @@ as if the amendments made by this Schedule had not been made.
 
 that agreement continues in force, according to its terms, on and after that day, as if the amendments made by this Schedule had not been made.
 
-(5)       The Industry Research and Development Board may from time to time, on or after the commencing day, for the purpose of determining whether obligations required to be met under an agreement referred to in subitem (3) or (4) are in fact being met, exercise any powers that had been conferred on the Board by or under the _Industry Research and Development Act 1986_ or by the agreement as if the amendments made by this Schedule had not been made.
+(5)        The Industry Research and Development Board may from time to time, on or after the commencing day, for the purpose of determining whether obligations required to be met under an agreement referred to in subitem (3) or (4) are in fact being met, exercise any powers that had been conferred on the Board by or under the _Industry Research and Development Act 1986_ or by the agreement as if the amendments made by this Schedule had not been made.
 
-(6)       Despite the amendments of the _Industry Research and Development Act 1986_ made by this Schedule, a prosecution may be instituted, on or after the commencing day, in respect of an offence concerning:
+(6)        Despite the amendments of the _Industry Research and Development Act 1986_ made by this Schedule, a prosecution may be instituted, on or after the commencing day, in respect of an offence concerning:
 
                      (a)  an application made before that day for:
 
@@ -4008,7 +3989,7 @@ that agreement continues in force, according to its terms, on and after that day
 
 as if those amendments had not been made.
 
-(7)       In this item:
+(7)        In this item:
 
 **_commencing day_** means the date of commencement of Schedule 1 to this Act.
 
@@ -4020,13 +4001,13 @@ _Tax Laws Amendment (2007 Measures No. 5) Act 2007 (No. 164, 2007)_
 
 ## 78  Application
 
-(1)       The amendments made by this Schedule apply in relation to:
+(1)        The amendments made by this Schedule apply in relation to:
 
                      (a)  assessments for years of income starting after 30 June 2007; and
 
                      (b)  registrations under section 39J of the _Industry Research and Development Act 1986_ for those years of income.
 
-(2)       A term that is used in this item and has a meaning given by the _Income Tax Assessment Act 1936_ has the same meaning in this item.
+(2)        A term that is used in this item and has a meaning given by the _Income Tax Assessment Act 1936_ has the same meaning in this item.
 
 ## Schedule 12
 
@@ -4044,9 +4025,9 @@ In this Part:
 
 ## 280  Things done to a former Board before commencement
 
-(1)       Any thing done to a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the new Board.
+(1)        Any thing done to a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the new Board.
 
-(2)       Without limiting subitem (1), examples of things done to a former Board include, but are not limited to, the following:
+(2)        Without limiting subitem (1), examples of things done to a former Board include, but are not limited to, the following:
 
                      (a)  the making of applications or requests to the former Board;
 
@@ -4058,15 +4039,15 @@ In this Part:
 
 ## 281  Things done to the Chairperson or acting Chairperson of a former Board before commencement
 
-(1)       Any thing done to the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the Chairperson of the new Board.
+(1)        Any thing done to the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done to the Chairperson of the new Board.
 
-(2)       Without limiting subitem (1), examples of things done to the Chairperson of a former Board include, but are not limited to, the giving of notices or advice to the Chairperson.
+(2)        Without limiting subitem (1), examples of things done to the Chairperson of a former Board include, but are not limited to, the giving of notices or advice to the Chairperson.
 
 ## 282  Things done by a former Board before commencement
 
-(1)       Any thing done by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the new Board.
+(1)        Any thing done by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the new Board.
 
-(2)       Without limiting subitem (1), examples of things done by a former Board include, but are not limited to, the following:
+(2)        Without limiting subitem (1), examples of things done by a former Board include, but are not limited to, the following:
 
                      (a)  the making of determinations or decisions by the former Board;
 
@@ -4088,19 +4069,19 @@ In this Part:
 
                       (j)  the giving of notices, documents or other things by the former Board.
 
-(3)       Without limiting subitem (1), if, after the commencement of this item, the new Board is required under section 46 of the _Industry Research and Development Act 1986_ (as amended by this Schedule) to give a report in relation to a financial year that commenced before the commencement of this item, then the new Board must include in the report any matter that, had the amendments made by this Schedule not been made, a former Board would have been required to include in a report for that year under:
+(3)        Without limiting subitem (1), if, after the commencement of this item, the new Board is required under section 46 of the _Industry Research and Development Act 1986_ (as amended by this Schedule) to give a report in relation to a financial year that commenced before the commencement of this item, then the new Board must include in the report any matter that, had the amendments made by this Schedule not been made, a former Board would have been required to include in a report for that year under:
 
                      (a)  section 46 of the _Industry Research and Development Act 1986_ (as in force before the commencement of this item); or
 
                      (b)  section 75 of the _Pooled Development Funds Act 1992_ (as in force before the commencement of this item); or
 
-                     (c)  section 33‑1 of the _Venture Capital Act 2002_(as in force before the commencement of this item).
+                     (c)  section 33-1 of the _Venture Capital Act 2002_(as in force before the commencement of this item).
 
 ## 283  Things done by the Chairperson or acting Chairperson of a former Board before commencement
 
-(1)       Any thing done by the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the Chairperson of the new Board.
+(1)        Any thing done by the Chairperson, or acting Chairperson, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by the Chairperson of the new Board.
 
-(2)       Without limiting subitem (1), examples of things done by the Chairperson of a former Board include, but are not limited to, the following:
+(2)        Without limiting subitem (1), examples of things done by the Chairperson of a former Board include, but are not limited to, the following:
 
                      (a)  the making of inquiries or reports by the Chairperson;
 
@@ -4110,15 +4091,15 @@ In this Part:
 
 ## 284  Things done by a member or acting member of a former Board before commencement
 
-(1)       Any thing done by a member, or acting member, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a member of the new Board.
+(1)        Any thing done by a member, or acting member, of a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a member of the new Board.
 
-(2)       Without limiting subitem (1), examples of things done by a member of a former Board include, but are not limited to, the signing of a certificate by the member.
+(2)        Without limiting subitem (1), examples of things done by a member of a former Board include, but are not limited to, the signing of a certificate by the member.
 
 ## 285  Things done by a person authorised by a former Board before commencement
 
-(1)       Any thing done by a person authorised by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a person authorised by the new Board.
+(1)        Any thing done by a person authorised by a former Board before the commencement of this item is taken, on and after that commencement, to have been done by a person authorised by the new Board.
 
-(2)       Without limiting subitem (1), examples of things done by a person authorised by a former Board include, but are not limited to, the signing of a certificate by the person.
+(2)        Without limiting subitem (1), examples of things done by a person authorised by a former Board include, but are not limited to, the signing of a certificate by the person.
 
 ## 286  References to a former Board in instruments etc.
 
@@ -4141,5 +4122,7 @@ is taken, after the commencement of this item, to be a reference to the new Boar
 ## 287  Committees
 
 An appointment of a member of a committee under section 22 of the _Industry Research and Development Act 1986_ that is in force immediately before the commencement of this item is taken, on that commencement, to be revoked.
+
+ 
 
  
