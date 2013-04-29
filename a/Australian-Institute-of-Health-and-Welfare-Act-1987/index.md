@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00033/Html/740b9a5b-b5a7-46ee-8e4f-789e360b402a_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00671/Html/f1e8185b-8e4a-4aa5-9728-2d0ce311d57d_files/image001.gif)
 
 # Australian Institute of Health and Welfare Act 1987
 
 **Act No. 41 of 1987 as amended**
 
-This compilation was prepared on 27 December 2011
+This compilation was prepared on 24 August 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -152,7 +152,7 @@ who is responsible, or principally responsible, for the administration of matter
 
                      (b)  the Minister of the Australian Capital Territory; or
 
-                     (c)  the Minister of the Northern Ter  ritory;
+                     (c)  the Minister of the Northern Territory;
 
 who is responsible, or principally responsible, for the administration of matters relating to housing in the State or Territory, as the case may be.
 
@@ -206,7 +206,7 @@ Note:          For the manner in which the Chairperson may be 
 
                      (c)  may sue and be sued in its corporate name.
 
-Note:          The _Commonwealth Authorities and Companies Act 1997_ applies to the Institute. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
+Note:          The Commonwealth Authorities and Companies Act 1997 applies to the Institute. That Act deals with matters relating to Commonwealth authorities, including reporting and accountability, banking and investment, and conduct of officers.
 
              (3)  All courts, judges and persons acting judicially shall take judicial notice of the imprint of the common seal of the Institute affixed to a document and shall presume that it was duly affixed.
 
@@ -394,13 +394,37 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="9"></a>9  Acting members
 
-                   The Minister may appoint a person to act in the office of Chairperson, of Director, or of member (other than the Chairperson or Director):
+             (1)  The Minister may appoint a person to act in the office of Chairperson, of Director, or of member (other than the Chairperson or Director):
 
                      (a)  during a vacancy in the office, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the holder of the office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office.
+                     (b)  during any period, or during all periods, when the holder of the office is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office;
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
+
+             (2)  A person may resign appointment under this section by instrument in writing delivered to the Minister.
+
+             (3)  An appointment may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
+
+             (4)  The Minister may:
+
+                     (a)  determine the terms and conditions of appointment, including remuneration and allowances, if any, of a person acting under subsection (1); and
+
+                     (b)  terminate such an appointment at any time.
+
+             (5)  Where a person is acting in an office and the office becomes vacant while that person is so acting, then, subject to subsection (3), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the date on which the vacancy occurred expires, whichever first happens.
+
+             (6)  While a person is acting in an office, the person has and may exercise all the powers, and shall perform all the functions and duties, of the holder of the office.
+
+             (7)  Anything done by or in relation to a person purporting to act under this section is not invalid by reason only that:
+
+                     (a)  the occasion for the appointment of the person had not arisen;
+
+                     (b)  there was a defect or irregularity in or in connection with the appointment;
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
 ##### <a id="10"></a>10  Remuneration and allowances
 
@@ -432,7 +456,7 @@ Note:          For rules that apply to acting appointments, se
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or assigns remuneration for their benefit;
 
-                     (b)  without reasonable excuse, contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+                     (b)  without reasonable excuse, contravenes section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
                      (c)  being a full‑time member who is paid remuneration under this Part:
 
@@ -600,7 +624,7 @@ The member must make the disclosure as soon as practicable after he or she knows
 
                      (c)  in making any other payments required or permitted to be made by the Institute.
 
-             (3)  Subsection (2) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+                     (3)  Subsection (2) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
 ##### <a id="23"></a>23  Contracts
 
@@ -856,7 +880,7 @@ of Assent</div>
     <div>5 June 1987</div>
   </td>
   <td>
-    <div>1 July 1987 ( <i>see Gazette</i>1987, No. S144)</div>
+    <div>1 July 1987 ( <i>see Gazette</i>1987, No. S144)</div>
   </td>
   <td>
     <div></div>
@@ -960,7 +984,7 @@ Remainder: Royal Assent</div>
     <div>24 Oct 1997</div>
   </td>
   <td>
-    <div>Schedule 2 (items 324–337): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
+    <div>Schedule 2 (items 324–337): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(c)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -977,7 +1001,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 195–197): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
+    <div>Schedule 1 (items 195–197): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(d)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -994,7 +1018,7 @@ Remainder: Royal Assent</div>
     <div>24 Nov 1999</div>
   </td>
   <td>
-    <div>Schedule 10 (items 35–37): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
+    <div>Schedule 10 (items 35–37): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(e)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1011,7 +1035,7 @@ Remainder: Royal Assent</div>
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Schedule 3 (items 7–10): 15 Dec 1998 ( <i>see</i> s. 2(2)) 
+    <div>Schedule 3 (items 7–10): 15 Dec 1998 ( <i>see</i>s. 2(2)) 
 Schedule 3 (item 12): 1 Jan 1999 
 Remainder: Royal Assent</div>
   </td>
@@ -1033,7 +1057,7 @@ Remainder: Royal Assent</div>
     <div>29 Oct 2001</div>
   </td>
   <td>
-    <div>Sch. 1 (item 97) \[ <i>see</i>Table A]</div>
+    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -1100,7 +1124,7 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 174–178) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 174–178) and Schedule 3 (items 10, 11): \[ <i>see </i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
@@ -1135,7 +1159,7 @@ _(d)_     The _Australian Institute of Health and Welfare Act 1987_ was 
 
                  (2)   Subject to this section, this Act commences at the commencing time.
 
-_(e)_     The _Australian Institute of Health and Welfare Act 1987_ was amended by Schedule 10 (items 35–37) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
+_(e)_     The _Australian Institute of Health and Welfare Act 1987_ was amended by Schedule 10 (items 35‑37) only of the _Corporate Law Economic Reform Program Act 1999_, subsection 2(2)(c) of which provides as follows:
 
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
@@ -1233,15 +1257,7 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 16, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
+    <div>am. No. 16, 1992; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -1274,22 +1290,6 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
   </td>
   <td>
     <div>am. No. 16, 1992; Nos. 59 and 159, 2001; No. 5, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 9</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1485,6 +1485,38 @@ _(e)_     The _Australian Institute of Health and Welfare Act 1987_ was 
   </td>
 </tr></table>
 
+### Note 2
+
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 174  Subsection 9(1)
+
+Omit “(1)”.
+
+## 175  Paragraph 9(1)(b)
+
+Omit “office;”, substitute “office.”.
+
+## 176  Subsection 9(1)
+
+Omit “but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.”.
+
+## 177  At the end of subsection 9(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 178  Subsections 9(2) to (7)
+
+Repeal the subsections.
+
+As at 24 August 2011 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1596,6 +1628,8 @@ This Schedule does not limit the operation of section 8 of the _Acts Interpret
 * * *
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
