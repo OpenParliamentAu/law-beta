@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00248/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00564/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
 
 # Financial Institutions Supervisory Levies Collection Act 1998
 
 **Act No. 53 of 1998 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 27 October 2008
  taking into account amendments up to Act No. 105 of 2008
 
 The text of any of those amendments not in force
@@ -171,11 +171,7 @@ Note:          NOHC is short for non-operating holding company
 
                      (e)  an RSA provider;
 
-                      (f)  a superannuation entity;
-
-                     (g)  a leviable FHSA entity.
-
-                    <a name="leviabl-fhsa-entiti"></a>**_leviable FHSA entity_** has the same meaning as in the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_.
+                      (f)  a superannuation entity.
 
                     <a name="levi"></a>**_levy_** means:
 
@@ -189,9 +185,7 @@ Note:          NOHC is short for non-operating holding company
 
                      (e)  in respect of a leviable body that is an RSA provider—levy imposed by the _Retirement Savings Account Providers Supervisory Levy Imposition Act 1998_; or
 
-                      (f)  in respect of a leviable body that is a superannuation entity—levy imposed by the _Superannuation Supervisory Levy Imposition Act 1998_; or
-
-                     (g)  in respect of a leviable body that is a leviable FHSA entity—levy imposed by the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_.
+                      (f)  in respect of a leviable body that is a superannuation entity—levy imposed by the _Superannuation Supervisory Levy Imposition Act 1998_.
 
                     <a name="levi-imposit-dai"></a>**_levy imposition day_**, in relation to the imposition of a levy in respect of a leviable body of a particular type for a financial year, means:
 
@@ -242,10 +236,6 @@ RSA providers
 Superannuation entities
 
              (6)  A trustee of a superannuation entity that is a superannuation entity at any time during a financial year that ends after the commencement of the _Superannuation Supervisory Levy Imposition Act 1998_ is liable to pay a levy in respect of that financial year.
-
-Leviable FHSA entities
-
-             (7)  A body corporate or trustee that is a leviable FHSA entity at any time during a financial year that ends after the commencement of the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_ is liable to pay a levy imposed in respect of that financial year.
 
 ##### <a id="9"></a>9  When levy due for payment
 
@@ -389,7 +379,7 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
 the trustee is liable to pay to the Commonwealth, in respect of that levy month, by way of penalty, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00248/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00564/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -469,7 +459,7 @@ Note:          The notice may affect whether and when the ADI 
 
              (1)  If any levy payable by an ADI or general insurer remains unpaid at the start of a levy month after the levy became due for payment, the ADI or general insurer is liable to pay the Commonwealth, for that levy month, a penalty worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00248/Html/FinanInstSuperLeviesCollect98WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00564/Html/FinanInstSuperLeviesCollect98WD02_image003.gif)
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -648,7 +638,7 @@ of Assent</div>
     <div>29 June 1998</div>
   </td>
   <td>
-    <div>1 July 1998 ( <i>see Gazette</i>1998, No. S316)</div>
+    <div>1 July 1998 ( <i>see Gazette</i>1998, No. S316)</div>
   </td>
   <td>
     <div></div>
@@ -665,7 +655,7 @@ of Assent</div>
     <div>8 Oct 1999</div>
   </td>
   <td>
-    <div>Schedule 2 (items 3, 4, 42(2)): Royal Assent <i>(a)</i></div>
+    <div>Schedule 2 (items 3, 4, 42(2)): Royal Assent <i>(a)</i></div>
   </td>
   <td>
     <div>Sch. 2 (item 42(2))</div>
@@ -683,7 +673,7 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 9 (item 1) and Schedule 12 (item 10): Royal Assent <i>(b) 
- </i>Schedule 12 (items 1–3): 3 Apr 2000 <i>(b)</i></div>
+ </i>Schedule 12 (items 1–3): 3 Apr 2000 <i>(b)</i></div>
   </td>
   <td>
     <div>Sch. 12 (items 
@@ -839,7 +829,7 @@ Remainder: Royal Assent</div>
     <div>30 Sept 2008</div>
   </td>
   <td>
-    <div>Schedule 3 (items 2–5): 1 July 2009</div>
+    <div>Schedule 3 (items 2–5): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1085,15 +1075,7 @@ _(d)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. No. 121, 1999; No. 14, 2005; No. 92, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 92, 2008</div>
+    <div>am. No. 121, 1999; No. 14, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1192,6 +1174,43 @@ _(d)_ Subsection 2(1) (items 2 and 3) of the _Financial System Legislation Ame
     <div>ad. No. 105, 2008</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_First Home Saver Accounts (Further Provisions) Amendment Act 2008
+ (No. 92, 2008)_
+
+The following amendments commence on 1 July 2009:
+
+## Schedule 3
+
+## 2  Section 7 (at the end of the definition of _leviable body_)
+
+Add:
+
+                   ; (g)  a leviable FHSA entity.
+
+## 3  Section 7
+
+Insert:
+
+                    <a name="leviabl-fhsa-entiti"></a>**_leviable FHSA entity_** has the same meaning as in the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_.
+
+## 4  Section 7 (at the end of the definition of _levy_)
+
+Add:
+
+               ; or (g)  in respect of a leviable body that is a leviable FHSA entity—levy imposed by the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_.
+
+## 5  At the end of section 8
+
+Add:
+
+Leviable FHSA entities
+
+             (7)  A body corporate or trustee that is a leviable FHSA entity at any time during a financial year that ends after the commencement of the _First Home Saver Account Providers Supervisory Levy Imposition Act 2008_ is liable to pay a levy imposed in respect of that financial year.
+
+As at 27 October 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
