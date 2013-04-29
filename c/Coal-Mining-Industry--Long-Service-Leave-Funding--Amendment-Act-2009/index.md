@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00021/Html/9e04ebea-60a5-452a-af7e-8c86f0458a49_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00933/Html/161398f0-3ab1-4b1e-a47c-47fb70f82f12_files/image001.gif)
 
 # Coal Mining Industry (Long Service Leave Funding) Amendment Act 2009
 
 **Act No. 127 of 2009 as amended**
 
-This compilation was prepared on 1 January 2012
+This compilation was prepared on 5 December 2011
  taking into account amendments up to Act No. 142 of 2011
 
 The text of any of those amendments not in force
@@ -25,6 +25,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [3](#3).            Schedule(s)
 
 **Schedule 1—Coal Mining Industry (Long Service Leave Funding) Act 1992** 
+
+**Schedule 2—Long service leave entitlement** 
 
 **Notes** 
 
@@ -102,6 +104,26 @@ Note:          Schedule 2 to the _Coal Mining Industry (Long
 
 The amendments made by this Schedule apply in relation to industry and employment occurring on or after the commencement of this Schedule.
 
+###### Schedule 2—Long service leave entitlement
+
+## 1  Extended operation of section 113 of the _Fair Work Act 2009_
+
+(1)       This item applies to an eligible employee if there are no applicable award‑derived long service leave terms in relation to the employee (apart from this item).
+
+(2)       Section 113 of the _Fair Work Act 2009_ applies to the eligible employee, and his or her employment as an eligible employee, as if The Coal Mining Industry (Production and Engineering) Consolidated Award 1997 would have applied to the employee immediately before the commencement of Part 2‑2 of that Act if the employee had at that time been in that employment.
+
+_Note:       This ensures there are applicable award‑derived long service leave terms in relation to the eligible employee based on that award. Therefore subsection 113(1) of the Fair Work Act 2009 entitles the employee to long service leave in accordance with those terms, subject to subsection 113(2) of that Act._
+
+(3)       This item does not affect the operation of section 113 of the _Fair Work Act 2009_ apart from this item.
+
+(4)       In this item:
+
+**_applicable award‑derived long service leave terms_** has the meaning given by subsection 113(3) of the _Fair Work Act 2009_.
+
+**_eligible employee_** has the same meaning as in the _Coal Mining Industry (Long Service Leave Funding) Act 1992_.
+
+**_employment as an eligible employee_** means any period, or periods, of service completed by an eligible employee between 1 January 2000 and 31 December 2011 (both dates inclusive).
+
 # Notes to the _Coal Mining Industry (Long Service Leave Funding) Amendment Act 2009_
 
 ### Note 1
@@ -169,7 +191,7 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 4 (item 1): 1 Jan 2010 
-Schedule 4 (item 2): 1 Jan 2012</div>
+Schedule 4 (item 2): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -201,10 +223,10 @@ Schedule 4 (item 2): 1 Jan 2012</div>
 </thead>
 <tr>
   <td>
-    <div>Schedule 2</div>
+    <div><b>Schedule 2</b></div>
   </td>
   <td>
-    <div>rep. No. 142, 2011</div>
+    <div></div>
   </td>
 </tr>
 <tr>
@@ -214,14 +236,20 @@ Schedule 4 (item 2): 1 Jan 2012</div>
   <td>
     <div>am. No. 142, 2011</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 142, 2011</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Coal Mining Industry (Long Service Leave) Legislation Amendment Act 2011 (No. 142, 2011)_
+
+The following amendment commences on 1 January 2012:
+
+## Schedule 4
+
+## 2  Schedule 2
+
+Repeal the Schedule.
+
+As at 5 December 2011 the amendment is not incorporated in this compilation.
 
  
