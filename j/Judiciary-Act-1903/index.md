@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00068/Html/d68ffc4f-8167-438c-afa2-28a9f61cdabd_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00690/Html/bea9478d-aafd-4a77-8f26-30f7423b3f0a_files/image001.gif)
 
 # Judiciary Act 1903
 
 **Act No. 6 of 1903 as amended**
 
-This compilation was prepared on 25 January 2013
- taking into account amendments up to Act No. 186 of 2012
+This compilation was prepared on 1 October 2012
+ taking into account amendments up to Act No. 107 of 2012
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -221,7 +221,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [55ZH](#55ZH).     Legal Services Directions and legal professional privilege
 
-[55ZI](#55ZI).      Anything done under Legal Services Directions not actionable
+[55ZI](#55ZI).      Anything done under Legal Services Directions not 
+ actionable
 
 **Part IX—Suits by and against the Commonwealth and the States**
 
@@ -348,34 +349,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
     **Division 6—Receivers and managers**
 
 [77R](#77R).       Receivers and managers
-
-**Part XAA—Suppression and non‑publication orders** 
-
-    **Division 1—Preliminary**
-
-[77RA](#77RA).    Definitions
-
-[77RB](#77RB).     Powers of High Court not affected
-
-[77RC](#77RC).     Other laws not affected
-
-    **Division 2—Suppression and non‑publication orders**
-
-[77RD](#77RD).    Safeguarding public interest in open justice
-
-[77RE](#77RE).     Power to make orders
-
-[77RF](#77RF).     Grounds for making an order
-
-[77RG](#77RG).    Procedure for making an order
-
-[77RH](#77RH).    Interim orders
-
-[77RI](#77RI).      Duration of orders
-
-[77RJ](#77RJ).      Exception for court officials
-
-[77RK](#77RK).     Contravention of order
 
 **Part XB—Appeals to the High Court** 
 
@@ -549,7 +522,7 @@ Quorum of Justices on appeals from State Supreme Courts
 
 ##### <a id="22"></a>22  Quorum for granting leave to appeal to the Queen in Council or to High Court
 
-                   Applications to the High Court for a certificate that a question as to the limits _inter se_ of the Constitutional powers of the Commonwealth and those of any State or States, or as to the limits _inter se_ of the Constitutional powers of any two or more States, which has been decided by the High Court, is one which ought to be determined by the Queen in Council, shall be heard and determined by a Full Court consisting of not less than three Justices.
+                   Applications to the High Court for a certificate that a question as to the limits _inter se_ of the Constitutional powers of the Commonwealth and those of any State or States, or as to the limits _inter se_ of the Constitutional powers of any two or more States, which has been decided by the High Court, is one which ought to be determined by the Queen in Council, shall be heard and determined by a Full Court consisting of not less than three Justices.
 
 ##### <a id="23"></a>23  Decision in case of difference of opinion
 
@@ -619,7 +592,7 @@ for it to have no reasonable prospect of success.
 
 ## Part IV—Original jurisdiction of the High Court
 
-##### <a id="30"></a>30  Original jurisdiction conferred
+##### <a id="30"></a>30  Original jurisdiction conferred
 
                    In addition to the matters in which original jurisdiction is conferred on the High Court by the Constitution, the High Court shall have original jurisdiction:
 
@@ -627,13 +600,13 @@ for it to have no reasonable prospect of success.
 
                      (c)  in trials of indictable offences against the laws of the Commonwealth.
 
-##### <a id="31"></a>31  Judgment and execution
+##### <a id="31"></a>31  Judgment and execution
 
                    The High Court in the exercise of its original jurisdiction may make and pronounce all such judgments as are necessary for doing complete justice in any cause or matter pending before it, and may for the execution of any such judgment in any part of the Commonwealth direct the issue of such process, whether in use in the Commonwealth before the commencement of this Act or not, as is permitted or prescribed by this or any Act or by Rules of Court.
 
 ##### <a id="32"></a>32  Complete relief to be granted
 
-                   The High Court in the exercise of its original jurisdiction in any cause or matter pending before it, whether originated in the High Court or removed into it from another Court, shall have power to grant, and shall grant, either absolutely or on such terms and conditions as are just, all such remedies whatsoever as any of the parties thereto are entitled to in respect of any legal or equitable claim properly brought forward by them respectively in the cause or matter; so that as far as possible all matters in controversy between the parties regarding the cause of action, or arising out of or connected with the cause of action, may be completely and finally determined, and all multiplicity of legal proceedings concerning any of such matters may be avoided.
+                   The High Court in the exercise of its original jurisdiction in any cause or matter pending before it, whether originated in the High Court or removed into it from another Court, shall have power to grant, and shall grant, either absolutely or on such terms and conditions as are just, all such remedies whatsoever as any of the parties thereto are entitled to in respect of any legal or equitable claim properly brought forward by them respectively in the cause or matter; so that as far as possible all matters in controversy between the parties regarding the cause of action, or arising out of or connected with the cause of action, may be completely and finally determined, and all multiplicity of legal proceedings concerning any of such matters may be avoided.
 
 ##### <a id="33"></a>33  Mandamus Prohibition Ouster of office
 
@@ -2242,146 +2215,6 @@ interest, or a sum in lieu of interest, shall not be given under subsection (1
              (2)  A receiver or manager appointed under subsection (1) may, without the previous leave of the High Court, be sued in respect of any act or transaction done or entered into by him or her in carrying on the business connected with the property of which he or she is receiver or manager.
 
              (3)  When in any cause pending in the High Court a receiver or manager appointed by the Court is in possession of any property, the receiver or manager shall manage and deal with the property according to the requirements of the laws of the State or Territory in which the property is situated in the same manner as that in which the owner or possessor of the property would be bound to do if in possession of the property.
-
-## Part XAA—Suppression and non‑publication orders
-
-### Division 1—Preliminary
-
-##### <a id="77RA"></a>77RA  Definitions
-
-                   In this Part:
-
-                    <a name="inform"></a>**_information_** includes any document.
-
-                    <a name="new-publish"></a>**_news publisher_** means a person engaged in the business of publishing news or a public or community broadcasting service engaged in the publishing of news through a public news medium.
-
-                    <a name="non-public-order"></a>**_non‑publication order_** means an order that prohibits or restricts the publication of information (but that does not otherwise prohibit or restrict the disclosure of information).
-
-                    <a name="parti"></a>**_party_** to a proceeding includes the complainant or victim (or alleged victim) in a criminal proceeding and any person named in evidence given in a proceeding and, in relation to a proceeding that has concluded, means a person who was a party to the proceeding before the proceeding concluded.
-
-                    <a name="proceing"></a>**_proceeding_** means a proceeding in a court, whether between parties or not, and includes an incidental proceeding in the course of, or in connection with, a proceeding, and also includes an appeal.
-
-                    <a name="publish"></a>**_publish_** means disseminate or provide access to the public or a section of the public by any means, including by:
-
-                     (a)  publication in a book, newspaper, magazine or other written publication; or
-
-                     (b)  broadcast by radio or television; or
-
-                     (c)  public exhibition; or
-
-                     (d)  broadcast or publication by means of the internet.
-
-                    <a name="suppress-order"></a>**_suppression order_** means an order that prohibits or restricts the disclosure of information (by publication or otherwise).
-
-##### <a id="77RB"></a>77RB  Powers of High Court not affected
-
-                   This Part does not limit or otherwise affect any powers that the High Court has apart from this Part to regulate its proceedings or to deal with a contempt of the Court.
-
-##### <a id="77RC"></a>77RC  Other laws not affected
-
-                   This Part does not limit or otherwise affect the operation of a provision made by or under any Act (other than this Act) that prohibits or restricts, or authorises a court to prohibit or restrict, the publication or other disclosure of information in connection with proceedings.
-
-### Division 2—Suppression and non‑publication orders
-
-##### <a id="77RD"></a>77RD  Safeguarding public interest in open justice
-
-                   In deciding whether to make a suppression order or non‑publication order, the High Court must take into account that a primary objective of the administration of justice is to safeguard the public interest in open justice.
-
-##### <a id="77RE"></a>77RE  Power to make orders
-
-             (1)  The High Court may, by making a suppression order or non‑publication order on grounds permitted by this Part, prohibit or restrict the publication or other disclosure of:
-
-                     (a)  information tending to reveal the identity of or otherwise concerning any party to or witness in a proceeding before the Court or any person who is related to or otherwise associated with any party to or witness in a proceeding before the Court; or
-
-                     (b)  information that relates to a proceeding before the Court and is:
-
-                              (i)  information that comprises evidence or information about evidence; or
-
-                             (ii)  information obtained by the process of discovery; or
-
-                            (iii)  information produced under a subpoena; or
-
-                            (iv)  information lodged with or filed in the Court.
-
-             (2)  The High Court may make such orders as it thinks appropriate to give effect to an order under subsection (1).
-
-##### <a id="77RF"></a>77RF  Grounds for making an order
-
-             (1)  The High Court may make a suppression order or non‑publication order on one or more of the following grounds:
-
-                     (a)  the order is necessary to prevent prejudice to the proper administration of justice;
-
-                     (b)  the order is necessary to prevent prejudice to the interests of the Commonwealth or a State or Territory in relation to national or international security;
-
-                     (c)  the order is necessary to protect the safety of any person;
-
-                     (d)  the order is necessary to avoid causing undue distress or embarrassment to a party to or witness in a criminal proceeding involving an offence of a sexual nature (including an act of indecency).
-
-             (2)  A suppression order or non‑publication order must specify the ground or grounds on which the order is made.
-
-##### <a id="77RG"></a>77RG  Procedure for making an order
-
-             (1)  The High Court may make a suppression order or non‑publication order on its own initiative or on the application of:
-
-                     (a)  a party to the proceeding concerned; or
-
-                     (b)  any other person considered by the Court to have a sufficient interest in the making of the order.
-
-             (2)  Each of the following persons is entitled to appear and be heard by the High Court on an application for a suppression order or non‑publication order:
-
-                     (a)  the applicant for the order;
-
-                     (b)  a party to the proceeding concerned;
-
-                     (c)  the Government (or an agency of the Government) of the Commonwealth or a State or Territory;
-
-                     (d)  a news publisher;
-
-                     (e)  any other person who, in the Court’s opinion, has a sufficient interest in the question of whether a suppression order or non‑publication order should be made.
-
-             (3)  A suppression order or non‑publication order may be made at any time during a proceeding or after a proceeding has concluded.
-
-             (4)  A suppression order or non‑publication order may be made subject to such exceptions and conditions as the High Court thinks fit and specifies in the order.
-
-             (5)  A suppression order or non‑publication order must specify the information to which the order applies with sufficient particularity to ensure that the court order is limited to achieving the purpose for which the order is made.
-
-##### <a id="77RH"></a>77RH  Interim orders
-
-             (1)  If an application is made to the High Court for a suppression order or non‑publication order, the Court may, without determining the merits of the application, make the order as an interim order to have effect, subject to revocation by the Court, until the application is determined.
-
-             (2)  If an order is made as an interim order, the High Court must determine the application as a matter of urgency.
-
-##### <a id="77RI"></a>77RI  Duration of orders
-
-             (1)  A suppression order or non‑publication order operates for the period decided by the High Court and specified in the order.
-
-             (2)  In deciding the period for which an order is to operate, the High Court is to ensure that the order operates for no longer than is reasonably necessary to achieve the purpose for which it is made.
-
-             (3)  The period for which an order operates may be specified by reference to a fixed or ascertainable period or by reference to the occurrence of a specified future event.
-
-##### <a id="77RJ"></a>77RJ  Exception for court officials
-
-                   A suppression order does not prevent a person from disclosing information if the disclosure is not by publication and is in the course of performing functions or duties or exercising powers in a public official capacity:
-
-                     (a)  in connection with the conduct of a proceeding or the recovery or enforcement of any penalty imposed in a proceeding; or
-
-                     (b)  in compliance with any procedure adopted by the High Court for informing a news publisher of the existence and content of a suppression order or non‑publication order made by the Court.
-
-##### <a id="77RK"></a>77RK  Contravention of order
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person does an act or omits to do an act; and
-
-                     (b)  the act or omission contravenes an order made by the High Court under section 77RE.
-
-                    Penalty:  Imprisonment for 12 months, 60 penalty units or both.
-
-             (2)  An act or omission that constitutes an offence under this section may be punished as a contempt of court even though it could be punished as an offence.
-
-             (3)  An act or omission that constitutes an offence under this section may be punished as an offence even though it could be punished as a contempt of court.
-
-             (4)  If an act or omission constitutes both an offence under this section and a contempt of court, the offender is not liable to be punished twice.
 
 ## Part XB—Appeals to the High Court
 
@@ -4273,24 +4106,6 @@ Schedule 5 (items 38, 85): <i>(za)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Access to Justice (Federal Jurisdiction) Amendment Act 2012</div>
-  </td>
-  <td>
-    <div>186, 2012</div>
-  </td>
-  <td>
-    <div>11 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 8, 11): 12 Dec 2012 
-Schedule 3 (items 10, 11, 12(3), (4)): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 11) and Sch. 3 (items 11, 12(3), (4)) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -6827,126 +6642,6 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
 </tr>
 <tr>
   <td>
-    <div><b>Part XAA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part XAA</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RA</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RB</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RC</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RD</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RE</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RF</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RG</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RH</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RI</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RJ</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77RK</div>
-  </td>
-  <td>
-    <div>ad. No. 186, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part XB</b></div>
   </td>
   <td>
@@ -7370,207 +7065,6 @@ _(za)_ Subsection 2(1) (items 13 and 21) of the _Fair Work (State Referral and
   </td>
 </tr></table>
 
-### Note 2
-
-_Access to Justice (Federal Jurisdiction) Amendment Act 2012 
- (No. 186, 2012)_
-
-The following amendment commences on 11 June 2013 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Before Part XB
-
-Insert:
-
-## Part XAB—Vexatious proceedings
-
-### Division 1—Preliminary
-
-##### <a id="77RL"></a>77RL  Definitions
-
-             (1)  In this Part:
-
-                    <a name="australian-court-tribun"></a>**_Australian court or tribunal_** means a court or tribunal of the Commonwealth, a State or a Territory.
-
-                    <a name="chief-execut-princip-registrar"></a>**_Chief Executive and Principal Registrar_** means the Chief Executive and Principal Registrar of the High Court appointed under section 18 of the _High Court of Australia Act 1979_.
-
-                    <a name="institut"></a>**_institute_**, in relation to proceedings, includes:
-
-                     (a)  for civil proceedings—the taking of a step or the making of an application that may be necessary before proceedings can be started against a party; and
-
-                     (b)  for proceedings before a tribunal—the taking of a step or the making of an application that may be necessary before proceedings can be started before the tribunal; and
-
-                     (c)  for criminal proceedings—the making of a complaint or the obtaining of a warrant for the arrest of an alleged offender; and
-
-                     (d)  for civil or criminal proceedings or proceedings before a tribunal—the taking of a step or the making of an application that may be necessary to start an appeal in relation to the proceedings or to a decision made in the course of the proceedings.
-
-                    <a name="proceing"></a>**_proceeding_**:
-
-                     (a)  in relation to a court—means a proceeding in the court, whether between parties or not, and includes an incidental proceeding in the course of, or in connection with, a proceeding, and also includes an appeal; and
-
-                     (b)  in relation to a tribunal—means a proceeding in the tribunal, whether between parties or not, and includes an incidental proceeding in the course of, or in connection with, a proceeding.
-
-                    <a name="proceing-particular-type"></a>**_proceedings of a particular type_** includes:
-
-                     (a)  proceedings in relation to a particular matter; and
-
-                     (b)  proceedings against a particular person.
-
-                    <a name="vexati-proceing"></a>**_vexatious proceeding_** includes:
-
-                     (a)  a proceeding that is an abuse of the process of a court or tribunal; and
-
-                     (b)  a proceeding instituted in a court or tribunal to harass or annoy, to cause delay or detriment, or for another wrongful purpose; and
-
-                     (c)  a proceeding instituted or pursued in a court or tribunal without reasonable ground; and
-
-                     (d)  a proceeding conducted in a court or tribunal in a way so as to harass or annoy, cause delay or detriment, or achieve another wrongful purpose.
-
-                    <a name="vexati-proceing-order"></a>**_vexatious proceedings order_** means an order made under subsection 77RN(2).
-
-             (2)  A reference in this Part to a person acting in concert with another person in instituting or conducting proceedings does not include a reference to a person who is so acting as a legal practitioner or representative of the other person.
-
-##### <a id="77RM"></a>77RM  Powers of the High Court not affected
-
-                   This Part does not limit or otherwise affect any powers that the High Court has apart from this Part to deal with vexatious proceedings.
-
-### Division 2—Vexatious proceedings orders
-
-##### <a id="77RN"></a>77RN  Making vexatious proceedings orders
-
-             (1)  This section applies if the High Court is satisfied:
-
-                     (a)  a person has frequently instituted or conducted vexatious proceedings in Australian courts or tribunals; or
-
-                     (b)  a person, acting in concert with another person who is subject to a vexatious proceedings order or who is covered by paragraph (a), has instituted or conducted a vexatious proceeding in an Australian court or tribunal.
-
-             (2)  The High Court may make any or all of the following orders:
-
-                     (a)  an order staying or dismissing all or part of any proceedings in the High Court already instituted by the person;
-
-                     (b)  an order prohibiting the person from instituting proceedings, or proceedings of a particular type, in the High Court;
-
-                     (c)  any other order the High Court considers appropriate in relation to the person.
-
-Note:          Examples of an order under paragraph (c) are an order directing that the person may only file documents by mail, an order to give security for costs and an order for costs.
-
-             (3)  The High Court may make a vexatious proceedings order on its own initiative or on the application of any of the following:
-
-                     (a)  the Attorney‑General of the Commonwealth or of a State or Territory;
-
-                     (b)  the Chief Executive and Principal Registrar;
-
-                     (c)  a person against whom another person has instituted or conducted a vexatious proceeding;
-
-                     (d)  a person who has a sufficient interest in the matter.
-
-             (4)  The High Court must not make a vexatious proceedings order in relation to a person without hearing the person or giving the person an opportunity of being heard.
-
-             (5)  An order made under paragraph (2)(a) or (b) is a final order.
-
-             (6)  For the purposes of subsection (1), the High Court may have regard to:
-
-                     (a)  proceedings instituted (or attempted to be instituted) or conducted in any Australian court or tribunal; and
-
-                     (b)  orders made by any Australian court or tribunal; and
-
-                     (c)  the person’s overall conduct in proceedings conducted in any Australian court or tribunal (including the person’s compliance with orders made by that court or tribunal);
-
-including proceedings instituted (or attempted to be instituted) or conducted, and orders made, before the commencement of this section.
-
-##### <a id="77RO"></a>77RO  Notification of vexatious proceedings orders
-
-             (1)  A person may request the Chief Executive and Principal Registrar for a certificate stating whether a person named in the request is or has been the subject of a vexatious proceedings order.
-
-             (2)  If a person makes a request under subsection (1) and the person named in the request is or has been the subject of a vexatious proceedings order, the Chief Executive and Principal Registrar must issue to the person making the request a certificate:
-
-                     (a)  specifying the date of the order; and
-
-                     (b)  specifying any other information prescribed by Rules of Court.
-
-             (3)  This section is subject to any law of the Commonwealth, or order of the High Court, restricting the publication or disclosure of the name of a party to proceedings in the High Court.
-
-Note:          Section 155 of the _Evidence Act 1995_ deals with adducing evidence of Commonwealth records.
-
-### Division 3—Particular consequences of vexatious proceedings orders
-
-##### <a id="77RP"></a>77RP  Proceedings in contravention of vexatious proceedings order
-
-             (1)  If the High Court makes a vexatious proceedings order prohibiting a person from instituting proceedings, or proceedings of a particular type, in the High Court:
-
-                     (a)  the person must not institute proceedings, or proceedings of that type, in the High Court without the leave of the High Court under section 77RS; and
-
-                     (b)  another person must not, acting in concert with the person, institute proceedings, or proceedings of that type, in the High Court without the leave of the High Court under section 77RS.
-
-             (2)  If a proceeding is instituted in contravention of subsection (1), the proceeding is stayed.
-
-             (3)  Without limiting subsection (2), the High Court may make:
-
-                     (a)  an order declaring a proceeding is a proceeding to which subsection (2) applies; and
-
-                     (b)  any other order in relation to the stayed proceeding it considers appropriate, including an order for costs.
-
-             (4)  The High Court may make an order under subsection (3) on its own initiative or on the application of any of the following:
-
-                     (a)  the Attorney‑General of the Commonwealth or of a State or Territory;
-
-                     (b)  the Chief Executive and Principal Registrar;
-
-                     (c)  a person against whom another person has instituted or conducted a vexatious proceeding;
-
-                     (d)  a person who has a sufficient interest in the matter.
-
-##### <a id="77RQ"></a>77RQ  Application for leave to institute proceedings
-
-             (1)  This section applies to a person (the **_applicant_**) who is:
-
-                     (a)  subject to a vexatious proceedings order prohibiting the person from instituting proceedings, or proceedings of a particular type, in the High Court; or
-
-                     (b)  acting in concert with another person who is subject to an order mentioned in paragraph (a).
-
-             (2)  The applicant may apply to the High Court for leave to institute a proceeding that is subject to the order.
-
-             (3)  The applicant must file an affidavit with the application that:
-
-                     (a)  lists all the occasions on which the applicant has applied for leave under this section; and
-
-                     (b)  lists all other proceedings the applicant has instituted in any Australian court or tribunal, including proceedings instituted before the commencement of this section; and
-
-                     (c)  discloses all relevant facts about the application, whether supporting or adverse to the application, that are known to the applicant.
-
-             (4)  The applicant must not serve a copy of the application or affidavit on a person unless an order is made under paragraph 77RS(1)(a). If the order is made, the applicant must serve the copy in accordance with the order.
-
-##### <a id="77RR"></a>77RR  Dismissing application for leave
-
-             (1)  The High Court, or a Justice sitting in Chambers, may make an order dismissing an application under section 77RQ for leave to institute a proceeding if the High Court or Justice considers the affidavit does not substantially comply with subsection 77RQ(3).
-
-             (2)  The High Court, or a Justice sitting in Chambers, must make an order dismissing an application under section 77RQ for leave to institute a proceeding if the High Court or Justice considers the proceeding is a vexatious proceeding.
-
-             (3)  The High Court, or a Justice sitting in Chambers, may dismiss the application without an oral hearing (either with or without the consent of the applicant).
-
-##### <a id="77RS"></a>77RS  Granting application for leave
-
-             (1)  Before the High Court makes an order granting an application under section 77RQ for leave to institute a proceeding, it must:
-
-                     (a)  order that the applicant serve:
-
-                              (i)  the person against whom the applicant proposes to institute the proceeding; and
-
-                             (ii)  any other person specified in the order;
-
-                            with a copy of the application and affidavit and a notice that the person is entitled to be heard on the application; and
-
-                     (b)  give the applicant and each person described in subparagraph (a)(i) or (ii), on appearance, an opportunity to be heard at the hearing of the application.
-
-             (2)  At the hearing of the application, the High Court may receive as evidence any record of evidence given, or affidavit filed, in any proceeding in any Australian court or tribunal in which the applicant is, or at any time was, involved either as a party or as a person acting in concert with a party.
-
-             (3)  The High Court may make an order granting the application. The order may be made subject to the conditions the High Court considers appropriate.
-
-             (4)  The High Court may grant leave only if it is satisfied the proceeding is not a vexatious proceeding.
-
-As at 25 January 2013 the amendment is not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -7831,7 +7325,7 @@ Note:          Just before the commencement of this Schedule, 
 
 (3)       If a court, or a non‑judicial officer of a court of summary jurisdiction of a State, has purported to affirm, vary, revoke, set aside, reverse, revive or suspend an ineffective order, a reference in this Part to the ineffective order is a reference to the order in the form in which, and to the extent to which, it purports or purported to have effect from time to time.
 
-## 9  Rights and liabilities declared in certain cases
+## 9  Rights and liabilities declared in certain cases
 
 The rights and liabilities of all persons are, by force of this item, declared to be, and always to have been, the same as if each ineffective order of a court of summary jurisdiction had been an order made by that court, in the exercise of its federal jurisdiction, in or in relation to the proceedings for the order.
 
@@ -7967,37 +7461,8 @@ _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
 
-## 11  Transitional regulations
+## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Access to Justice (Federal Jurisdiction) Amendment Act 2012 
- (No. 186, 2012)_
-
-## Schedule 2
-
-## 11  Application of amendments
-
-The amendments made by Part 1 apply in relation to proceedings (including interlocutory proceedings):
-
-                     (a)  that are instituted in, or transferred to, a court on or after the commencement of that Part; or
-
-                     (b)  that are pending in a court immediately before that commencement.
-
-The following provisions commence on 11 June 2013 unless proclaimed earlier:
-
-## Schedule 3
-
-## 11  Application of amendments
-
-The power of a court to make a vexatious proceedings order under the _Family Law Act 1975_, the _Federal Court of Australia Act 1976_, the _Federal Magistrates Act 1999_ or the _Judiciary Act 1903_, as amended by this Schedule, applies in relation to proceedings instituted in, or transferred to, that court on or after the commencement of this item.
-
-## 12  Saving—pending proceedings etc.
-
-(3)       Despite the amendments made by this Schedule, rules of court, in relation to a court, that were in force immediately before the commencement of this item under the _Family Law Act 1975_, the _Federal Court of Australia Act 1976_, the _Federal Magistrates Act 1999_ or the _Judiciary Act 1903_ (to the extent the rules relate to vexatious proceedings) continue to apply on and after that commencement in relation to proceedings that were pending in the court immediately before that commencement.
-
-(4)       The amendments made by this Schedule do not affect the validity of any orders that were made before the commencement of this item under rules of court made under the _Family Law Act 1975_, the _Federal Court of Australia Act 1976_, the _Federal Magistrates Act 1999_ or the _Judiciary Act 1903_(to the extent the rules relate to vexatious proceedings).
 
  
