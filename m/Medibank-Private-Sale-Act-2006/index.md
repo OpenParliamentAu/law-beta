@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00572/Html/MedibankPrivSale_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00441/Html/MedibankPrivSale_WD02_image001.gif)
 
 # Medibank Private Sale Act 2006
 
 **Act No. 160 of 2006 as amended**
 
-This compilation was prepared on 16 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 5 July 2010
+ taking into account amendments up to Act No. 66 of 2010
 
 [**Note:** Schedule 3 of this Act is not in force, _see_ s. 2]
 
@@ -1453,7 +1453,7 @@ this item has effect as if the members or policy holders of the company were sha
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00572/Html/MedibankPrivSale_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00441/Html/MedibankPrivSale_WD02_image002.gif)
 
 where:
 
@@ -1851,23 +1851,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 75): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -1997,25 +1980,6 @@ Remainder: Royal Assent</div>
     <div>am. No. 32, 2007</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendment commences on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Medibank Private Sale Act 2006</h9>
-
-## 75  Subparagraphs 20(11)(b)(i) and (12)(c)(i) of Schedule 2
-
-As at 16 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
