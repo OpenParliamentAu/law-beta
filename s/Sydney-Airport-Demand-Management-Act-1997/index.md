@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00045/Html/SydAirDemdMgmt1997WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00451/Html/SydAirDemdMgmt1997WD02_image001.gif)
 
 # Sydney Airport Demand Management Act 1997
 
 **Act No. 173 of 1997 as amended**
 
-This compilation was prepared on 12 January 2009
+This compilation was prepared on 30 July 2008
  taking into account amendments up to Act No. 83 of 2008
 
 The text of any of those amendments not in force 
@@ -42,11 +42,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Airservices Australia to monitor compliance with maximum movement limit and to report to Minister
 
-**Part 3—Penalties for unauthorised gate movements** 
+**Part 3—Penalties for unauthorised aircraft movements** 
 
     **Division 1—Situations in which penalties apply**
 
-[10](#10).          Gate movements to which this Part applies
+[10](#10).          Aircraft movements to which this Part applies
 
 [11](#11).          Meaning of _no-slot movement_ and _off-slot movement_
 
@@ -92,7 +92,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
     **Division 5—Exemptions**
 
-[29](#29).          Aircraft may make gate movements in emergencies or if Slot Manager grants dispensation
+[29](#29).          Aircraft may take off or land in emergencies or if Slot Manager grants dispensation
 
 [30](#30).          Emergencies
 
@@ -175,10 +175,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [58](#58).          Approval of amendments
 
 [59](#59).          When an amendment comes into force
-
-    **Division 3—Modification of Scheme in exceptional circumstances**
-
-[59A](#59A).       Minister’s power to determine modifications
 
 **Part 6—The Slot Manager**
 
@@ -319,15 +315,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Overview
 
-             (1)  This Act sets the * maximum movement limit for * aircraft movements at Sydney Airport (otherwise than during * curfew periods). It also provides for the * Slot Management Scheme, under which slots for * gate movements at Sydney Airport are allocated. The Scheme is required to be consistent with the maximum movement limit.
+             (1)  This Act provides for the limitation of * aircraft movements at Sydney Airport (otherwise than during * curfew periods).
 
-             (2)  Part 2 sets the * maximum movement limit for * aircraft movements at Sydney Airport, and provides for monitoring of compliance with that limit.
+             (2)  Part 2 sets the * maximum movement limit, and provides for monitoring of compliance with that limit. The * Slot Management Scheme, which provides for the allocation of slots permitting aircraft movements, is required to be consistent with this limit.
 
-             (3)  Part 3 prohibits, and sets out penalties for, unauthorised * gate movements. These are movements that are not authorised by a slot allocated under the * Slot Management Scheme and are not otherwise exempt.
+             (3)  Part 3 prohibits, and sets out penalties for, unauthorised * aircraft movements. These are movements that are not authorised by a slot allocated under the * Slot Management Scheme and are not otherwise exempt.
 
              (4)  Part 4 deals with the contents, development and amendment of the * Slot Management Scheme. It also deals with the powers of the Minister and the * Compliance Committee to give directions or make recommendations in relation to slot allocations.
 
-             (5)  Part 5 deals with the contents, development and amendment of the * Compliance Scheme. It also deals with the power of the Minister to determine modifications of the Scheme in exceptional circumstances.
+             (5)  Part 5 deals with the contents, development and amendment of the * Compliance Scheme.
 
              (6)  Parts 6 and 7 deal, respectively, with the appointment etc. of the * Slot Manager and the * Compliance Committee.
 
@@ -365,9 +361,9 @@ Note:          The Minister may determine a lower limit—see 
 
 Note:          * Aircraft movements during * curfew periods are regulated under the _Sydney__Airport__Curfew Act 1995_.
 
-             (4)  In applying the limit imposed by this section, * aircraft movements * associated with * gate movements that are permitted by Division 5 of Part 3 are not to be counted.
+             (4)  In applying the limit imposed by this section, * aircraft movements that are permitted by Division 5 of Part 3 are not to be counted.
 
-             (5)  The purpose of this section is to set the maximum movement limit for the purposes of subsection 35(2) (which requires the * Slot Management Scheme to be consistent with the limit) and other provisions of this Act. It does not operate to create rights or obligations except as provided in other provisions of this Act.
+             (5)  The purpose of this section is to set the maximum movement limit for the purposes of the * Slot Management Scheme and other provisions of this Act. It does not operate to create rights or obligations except as provided in other provisions of this Act.
 
 ##### <a id="7"></a>7  Minister’s power to determine a lower maximum movement limit
 
@@ -405,7 +401,7 @@ If the determination is disallowed, it does not come into force.
 
              (3)  Subsection (2) does not, by implication, limit the matters to which the Minister may have regard.
 
-             (4)  This section does not apply to a determination that the Minister proposes to make if the consultation requirements in Part 3 of the _Legislative Instruments Act 2003_ apply to the making of the determination.
+             (4)  This section does not apply to a determination that the Minister proposes to make if the consultation requirements in Part 3 of the _Legislative Instruments Act 1997_ apply to the making of the determination.
 
 ##### <a id="9"></a>9  Airservices Australia to monitor compliance with maximum movement limit and to report to Minister
 
@@ -441,73 +437,61 @@ What happens if Airservices Australia ceases to provide air traffic services at 
 
              (7)  The Minister may enter into an arrangement with another person who does, or is to, provide air traffic services at Sydney Airport under which the person will perform a monitoring role similar to the role that * Airservices Australia performed under this section. Reports received by the Minister under the arrangement are to be tabled in accordance with the requirements of subsection (3).
 
-## Part 3—Penalties for unauthorised gate movements
+## Part 3—Penalties for unauthorised aircraft movements
 
 ### Division 1—Situations in which penalties apply
 
-##### <a id="10"></a>10  Gate movements to which this Part applies
+##### <a id="10"></a>10  Aircraft movements to which this Part applies
 
-                   This Part applies to all * gate movements at Sydney  Airport, other than:
+                   This Part applies to all * aircraft movements at Sydney Airport, other than:
 
-                     (a)  any gate movement that is permitted by Division 5; and
+                     (a)  aircraft movements that are permitted by Division 5; and
 
-                     (b)  any gate movement that is * associated with an * aircraft movement that occurs during a * curfew period, unless a slot has been allocated for the gate movement under the * Slot Management Scheme; and
+                     (b)  aircraft movements during * curfew periods.
 
-                     (c)  any gate movement in relation to which the following conditions are satisfied:
-
-                              (i)  the associated aircraft movement was scheduled to occur at a time during a curfew period;
-
-                             (ii)  the aircraft movement actually occurs at a time that is not during a curfew period;
-
-                            (iii)  if the aircraft movement had occurred at its scheduled time, the aircraft movement would have been permitted by section 12 or 13 of the _Sydney__Airport__Curfew Act 1995_;
-
-                            (iv)  no slot has been allocated for the gate movement under the Slot Management Scheme.
-
-Note 1:       Regarding paragraph (b), a slot may have been allocated for the * gate movement because the * aircraft movement was scheduled to occur before or after the * curfew period. In that case, this Part applies to the gate movement even if the aircraft movement actually occurs during the curfew period.
-
-Note 2:       * Aircraft movements during * curfew periods are regulated under the _Sydney__Airport__Curfew Act 1995_. Slots cannot be allocated under this Act for times during curfew periods (see subsection 35(1B)).
+Note:          * Aircraft movements during * curfew periods are regulated under the _Sydney__Airport__Curfew Act 1995_.
 
 ##### <a id="11"></a>11  Meaning of _no-slot movement_ and _off-slot movement_
 
 Meaning of **no-slot movement**
 
-             (1)  A * gate movement is a **_no-slot movement_** if no slot permitting the movement on the day on which it occurs has been allocated under the * Slot Management Scheme.
+             (1)  An * aircraft movement is a **_no-slot movement_** if no slot permitting the movement on the day on which it occurs has been allocated under the * Slot Management Scheme.
 
 Meaning of **off-slot movement**
 
-             (2)  A * gate movement is an **_off-slot movement_** (subject to subsection (6)) if:
+             (2)  An * aircraft movement is an **_off-slot movement_** (subject to subsection (6)) if:
 
                      (a)  a slot permitting the movement on the day on which it occurs has been allocated under the * Slot Management Scheme; and
 
-                     (b)  the circumstances are such that, according to the provisions of the * Compliance Scheme referred to in subsection 49(1), the movement is an off-slot movement.
+                     (b)  the circumstances in which the movement occurs are such that, according to the provisions of the * Compliance Scheme referred to in subsection 49(1), the movement is an off-slot movement.
 
 Clarification of definitions
 
-             (3)  If a slot permitting a * gate movement at a specified time on a specified day has been allocated under the * Slot Management Scheme, but the movement occurs at another time on that day:
+             (3)  If a slot permitting an * aircraft movement at a specified time on a specified day has been allocated under the * Slot Management Scheme, but the movement occurs at another time on that day:
 
                      (a)  the movement is not a no-slot movement; but
 
-                     (b)  depending on the circumstances, the movement may be an off-slot movement.
+                     (b)  depending on the circumstances in which the movement occurs, the movement may be an off-slot movement.
 
-Slot Manager’s power to declare that gate movements do not have to be in accordance with allocated slots
+Slot Manager’s power to declare that aircraft movements do not have to be in accordance with allocated slots
 
-             (4)  The * Slot Manager may, in writing, declare, in relation to the whole or a part of a day, that * gate movements that occur during the period to which the declaration relates are not required to take place in accordance with their allocated slots.
+             (4)  The * Slot Manager may, in writing, declare, in relation to the whole or a part of a day, that * aircraft movements that occur during the period to which the declaration relates are not required to take place in accordance with their allocated slots.
 
              (5)  In making a declaration, the * Slot Manager must have regard to the provisions of the * Slot Management Scheme referred to in subsection 35(4).
 
-             (6)  During the period to which a declaration relates, a * gate movement that would otherwise be an off-slot movement is taken not to be an off-slot movement.
+             (6)  During the period to which a declaration relates, an * aircraft movement that would otherwise be an off-slot movement is taken not to be an off-slot movement.
 
-Note:          The declaration has no effect on the question whether a * gate movement is a no-slot movement.
+Note:          The declaration has no effect on the question whether an * aircraft movement is a no-slot movement.
 
 ##### <a id="12"></a>12  Prohibition on no-slot movements
 
-                   The * operator of an aircraft must not, knowingly or recklessly, allow the aircraft to engage in a * gate movement to which this Part applies that is a no-slot movement.
+                   The * operator of an aircraft must not, knowingly or recklessly, allow the aircraft to engage in an * aircraft movement to which this Part applies that is a no-slot movement.
 
 Note:          This is a civil penalty provision—see Divisions 2 and 3 for the consequences of a contravention.
 
 ##### <a id="13"></a>13  Prohibition on off-slot movements
 
-                   The * operator of an aircraft must not, knowingly or recklessly, allow the aircraft to engage in a * gate movement to which this Part applies that is an off-slot movement.
+                   The * operator of an aircraft must not, knowingly or recklessly, allow the aircraft to engage in an * aircraft movement to which this Part applies that is an off-slot movement.
 
 Note:          This is a civil penalty provision—see Divisions 2 and 3 for the consequences of a contravention.
 
@@ -755,13 +739,13 @@ must be paid to the Commonwealth.
 
 ### Division 5—Exemptions
 
-##### <a id="29"></a>29  Aircraft may make gate movements in emergencies or if Slot Manager grants dispensation
+##### <a id="29"></a>29  Aircraft may take off or land in emergencies or if Slot Manager grants dispensation
 
-                   An aircraft may make a * gate movement at Sydney  Airport in circumstances that would otherwise result in the * operator contravening a * civil penalty provision if:
+                   An aircraft may * take off from, or * land at, Sydney Airport in circumstances that would otherwise result in the * operator contravening a * civil penalty provision if:
 
                      (a)  the aircraft is involved in an emergency as described in section 30; or
 
-                     (b)  a dispensation granted by the Slot Manager under section 31 authorises the gate movement, and the gate movement is in accordance with any conditions of the dispensation; or
+                     (b)  a dispensation granted by the Slot Manager under section 31 authorises the take-off or landing, and the take-off or landing is in accordance with any conditions of the dispensation; or
 
                      (c)  the aircraft is a state aircraft as described in section 32.
 
@@ -769,7 +753,7 @@ must be paid to the Commonwealth.
 
                    An aircraft is **_involved in an emergency_** if:
 
-                     (a)  the aircraft is being used, or is returning after use, for or in connection with:
+                     (a)  the aircraft is being used for or in connection with:
 
                               (i)  a search and rescue operation; or
 
@@ -781,9 +765,9 @@ must be paid to the Commonwealth.
 
 ##### <a id="31"></a>31  Dispensations in exceptional circumstances
 
-             (1)  The * Slot Manager may grant a dispensation authorising an aircraft to make a * gate movement at Sydney Airport in circumstances that would otherwise result in the * operator contravening a * civil penalty provision if the Slot Manager is satisfied that there are exceptional circumstances.
+             (1)  The * Slot Manager may grant a dispensation authorising an aircraft to * take off from, or * land at, Sydney Airport in circumstances that would otherwise result in the * operator contravening a * civil penalty provision if the Slot Manager is satisfied that there are exceptional circumstances justifying the take-off or landing.
 
-             (2)  A dispensation may be granted subject to conditions including, for example, conditions relating to when the * gate movement must occur.
+             (2)  A dispensation may be granted subject to conditions including, for example, conditions relating to when the * take-off or * landing must occur and the runway to be used.
 
              (3)  In granting a dispensation, the * Slot Manager must have regard to the provisions of the * Slot Management Scheme referred to in subsection 35(5).
 
@@ -811,29 +795,27 @@ must be paid to the Commonwealth.
 
              (1)  There is to be a scheme, known as the Slot Management Scheme, for Sydney Airport.
 
-             (2)  The basic purpose of the Scheme is to provide a system for the allocation of permissions for * gate movements at Sydney Airport. The system must be consistent with the * maximum movement limit for * aircraft movements.
+             (2)  The basic purpose of the Scheme is to provide a system for the allocation of permissions for * aircraft movements at Sydney Airport, within the * maximum movement limit.
 
 ##### <a id="34"></a>34  The concept of a slot
 
-             (1)  A permission for a * gate movement is known as a **_slot_**. A slot allocated under the Slot Management Scheme will permit a specified gate movement at a specified time on a specified day.
+             (1)  A permission for an * aircraft movement is known as a **_slot_**. A slot allocated under the Slot Management Scheme will permit a specified aircraft movement at a specified time on a specified day.
 
              (2)  A slot allocated under the Scheme is not transferable (except in accordance with provisions in the Scheme about swapping slots) and does not create rights or obligations that are enforceable against any person.
 
-             (3)  Other laws may impose requirements or restrictions on or in relation to * aircraft movements or * gate movements. The allocation of a slot for a gate movement under the Scheme in no way affects the application of such other requirements or restrictions to, or in relation to, the gate movement and any * associated aircraft movement.
+             (3)  Other laws may impose requirements or restrictions on or in relation to * aircraft movements. The allocation of a slot for an aircraft movement under the Scheme in no way affects the application of such other requirements or restrictions to, or in relation to, the aircraft movement.
 
 ##### <a id="35"></a>35  Contents of Scheme
 
-             (1)  The Slot Management Scheme must provide a system for the allocation of slots for * gate movements at Sydney Airport. In addition to allocation, the Scheme may deal with associated matters such as the variation, suspension, cancellation, surrender or swapping of allocated slots, and the conditions that may be imposed on slots.
+             (1)  The Slot Management Scheme must provide a system for the allocation of slots for aircraft movements at Sydney Airport (other than movements during * curfew periods). In addition to allocation, the Scheme may deal with associated matters such as the variation, suspension, cancellation, surrender or swapping of allocated slots, and the conditions that may be imposed on slots.
 
-          (1A)  The Scheme may deal with the allocation of slots for specified categories of * gate movements.
+          (1A)  The Scheme may deal with the allocation of slots for specified categories of aircraft movements.
 
-          (1B)  The Scheme must not allow slots to be allocated for times during * curfew periods.
-
-             (2)  The Scheme must be consistent with the * maximum movement limit for * aircraft movements.
+             (2)  The Scheme must be consistent with the * maximum movement limit.
 
              (3)  The Scheme may provide for the authorisation of other persons to exercise powers of the * Slot Manager relating to the allocation of slots, or to slots that have been allocated.
 
-             (4)  The Scheme must set out guidelines relating to the exercise of the * Slot Manager’s power under subsection 11(4) to make declarations that * gate movements are not required to take place in accordance with their allocated slots.
+             (4)  The Scheme must set out guidelines relating to the exercise of the * Slot Manager’s power under subsection 11(4) to make declarations that * aircraft movements are not required to take place in accordance with their allocated slots.
 
              (5)  The Scheme must set out guidelines relating to the exercise of the * Slot Manager’s power under section 31 to grant dispensations including, in particular:
 
@@ -845,7 +827,7 @@ must be paid to the Commonwealth.
 
              (7)  The Scheme may contain other provisions relating to the performance of the * Slot Manager’s functions.
 
-             (8)  The Scheme must be consistent with the additional requirements (if any) specified in the regulations. Any such requirements must be consistent with the * maximum movement limit for * aircraft movements.
+             (8)  The Scheme must be consistent with the additional requirements (if any) specified in the regulations. Any such requirements must be consistent with the * maximum movement limit.
 
              (9)  The Scheme must be consistent with the additional requirements (if any) specified in determinations in force under section 36.
 
@@ -853,7 +835,7 @@ must be paid to the Commonwealth.
 
 ##### <a id="36"></a>36  Minister’s power to determine additional requirements
 
-             (1)  The Minister may, by legislative instrument, determine additional requirements with which the Slot Management Scheme must be consistent. Any such requirements must be consistent with the * maximum movement limit for * aircraft movements.
+             (1)  The Minister may, by legislative instrument, determine additional requirements with which the Slot Management Scheme must be consistent. Any such requirements must be consistent with the * maximum movement limit.
 
              (2)  Before making a determination under subsection (1), the Minister must consult the * Slot Manager about the proposed determination. This requirement does not apply to the Minister making a determination before the Slot Manager has been appointed.
 
@@ -941,7 +923,7 @@ The direction does not have to be consistent with the Slot Management Scheme.
 
              (2)  The * Slot Manager, and each person authorised under provisions of the Scheme referred to in subsection 35(3), must comply with a direction by the Minister, and has such power as is necessary to comply with the direction, despite the provisions of the * Slot Management Scheme.
 
-             (3)  A direction by the Minister must be consistent with the * maximum movement limit for * aircraft movements.
+             (3)  A direction by the Minister must be consistent with the * maximum movement limit.
 
              (4)  The Minister is not to be taken, for the purposes of the _Corporations Act 2001_, to be a director of a company that is the * Slot Manager because of the powers in relation to the Slot Manager that are conferred on the Minister by this section.
 
@@ -951,7 +933,7 @@ The direction does not have to be consistent with the Slot Management Scheme.
 
                      (b)  cause a copy of the direction to be tabled in each House of the Parliament not later than 6 sitting days of that House after the day on which the direction is given
 
-             (6)  A direction is not to be taken to be a legislative instrument for the purposes of the _Legislative Instruments Act 2003_.
+             (6)  A direction is not to be taken to be a legislative instrument for the purposes of the _Legislative Instruments Act 1997_.
 
 ##### <a id="47"></a>47  Compliance Committee’s powers
 
@@ -971,7 +953,7 @@ The direction does not have to be consistent with the Slot Management Scheme.
 
 ##### <a id="49"></a>49  Contents of Scheme
 
-             (1)  The Compliance Scheme must identify the circumstances in which * gate movements are taken to be off-slot movements for the purposes of this Act.
+             (1)  The Compliance Scheme must identify the circumstances in which aircraft movements are taken to be off-slot movements for the purposes of this Act.
 
              (2)  The Scheme must identify:
 
@@ -988,6 +970,8 @@ The direction does not have to be consistent with the Slot Management Scheme.
              (4)  The Scheme may contain a mechanism for the reconsideration of decisions made under the Scheme, or of decisions made by the * Compliance Committee for the purposes of this Act.
 
              (5)  The Scheme may contain other provisions relating to the performance of the * Compliance Committee’s functions under this Act.
+
+             (6)  The Scheme must, for the purposes of this Act, define when an aircraft takes off or lands.
 
              (7)  The Scheme must be consistent with the additional requirements (if any) specified in the regulations.
 
@@ -1068,30 +1052,6 @@ Note:          For example, the Minister may request or develo
 ##### <a id="59"></a>59  When an amendment comes into force
 
                    The amendment set out in a determination under subsection 58(2) comes into force on the day specified in accordance with paragraph 58(2)(b).
-
-### Division 3—Modification of Scheme in exceptional circumstances
-
-##### <a id="59A"></a>59A  Minister’s power to determine modifications
-
-             (1)  The Minister may, in writing, determine that the * Compliance Scheme has effect subject to specified modifications during a specified period if the Minister considers that there are exceptional circumstances justifying the making of the determination.
-
-             (2)  During the period specified in a determination under subsection (1), the * Compliance Scheme has effect subject to the modifications specified in the determination.
-
-             (3)  The Minister must, in relation to each determination under subsection (1):
-
-                     (a)  include in the determination a statement of the reasons for making the determination; and
-
-                     (b)  cause a copy of the determination to be given to the * Compliance Committee as soon as practicable after the day on which the determination is made.
-
-Note:          A copy of the determination will also have to be laid before each House of the Parliament (see section 38 of the _Legislative Instruments Act 2003_).
-
-             (4)  Modifications specified in a determination under subsection (1) do not have to be consistent with section 49.
-
-             (5)  A determination under subsection (1) is a legislative instrument, but section 42 (disallowance) of the _Legislative Instruments Act 2003_ does not apply to the determination.
-
-             (6)  In this section:
-
-                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
 
 ## Part 6—The Slot Manager
 
@@ -1249,7 +1209,7 @@ Interpretation
 
              (1)  A certificate by the body corporate that is, when the certificate is made, the * Slot Manager and that states:
 
-                     (a)  that a specified * gate movement occurred; and
+                     (a)  that a specified * aircraft movement occurred; and
 
                      (b)  that the movement was a no-slot movement or an off-slot movement; and
 
@@ -1275,13 +1235,7 @@ is, for the purposes of proceedings under this Act, prima facie evidence of the 
 
                      (b)  an SES employee in the Department;
 
-all or any of the following powers:
-
-                     (c)  the power under section 44 to give approvals and make determinations in relation to amendments of the * Slot Management Scheme;
-
-                     (d)  the power under section 58 to give approvals and make determinations in relation to amendments of the * Compliance Scheme;
-
-                     (e)  the power under subsection 66(3) to make appointments to the * Compliance Committee.
+the Minister’s powers to give approvals and make determinations under sections 44 and 58 in relation to amendments of the * Slot Management Scheme and the * Compliance Scheme.
 
 ##### <a id="72"></a>72  Crown to be bound
 
@@ -1313,7 +1267,7 @@ all or any of the following powers:
 
                              (ii)  to the Slot Manager or the Compliance Committee by * Airservices Australia or by other persons; and
 
-                     (d)  prescribe penalties, not exceeding 50 penalty units, for offences against the regulations.
+                     (d)  prescribe penalties, not exceeding 10 penalty units, for offences against the regulations.
 
 # Schedule 1—Definitions
 
@@ -1327,39 +1281,29 @@ _Note:       Section 3 describes how asterisks are used to identif
 
                     <a name="aircraft-movem"></a>**_aircraft movement_** means:
 
-                     (a)  the landing of an aircraft on a runway; or
+                     (a)  the * landing of an aircraft on a runway; or
 
-                     (b)  the taking off of an aircraft from a runway.
+                     (b)  the * taking off of an aircraft from a runway.
 
                     <a name="airservic-australia"></a>**_Airservices Australia_** means the body called Airservices Australia that is established by the _Air Services Act 1995_.
-
-                    <a name="associated"></a><a name="associated"></a>**_associated_**: an * aircraft movement and a * gate movement are **_associated_** if:
-
-                     (a)  for an aircraft movement that is a take-off—the gate movement is the last gate movement of the aircraft before the take-off; or
-
-                     (b)  for an aircraft movement that is a landing—the gate movement is the first gate movement of the aircraft after the landing.
 
                     <a name="civil-penalti-provision"></a>**_civil penalty provision_** means section 12 or 13.
 
                     <a name="complianc-committe"></a>**_Compliance Committee_** means the Committee appointed in accordance with regulations for the purposes of section 67.
 
-                    <a name="complianc-scheme"></a>**_Compliance Scheme_** means the scheme set out in a determination under subsection 54(2), as that scheme is amended from time to time and as it has effect subject to any determinations under subsection 59A(1).
+                    <a name="complianc-scheme"></a>**_Compliance Scheme_** means the scheme set out in a determination under subsection 54(2), as that scheme is amended from time to time.
 
                     <a name="curfew-period"></a>**_curfew period_** has the same meaning as in the _Sydney__Airport__Curfew Act 1995_.
 
                     <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
 
-                    <a name="gate-movem"></a>**_gate movement_** means:
-
-                     (a)  the first movement of an aircraft after its external doors have been closed in preparation for an * aircraft movement that is a take-off; or
-
-                     (b)  the last movement of an aircraft immediately before the moment when, after an aircraft movement that is a landing, it comes to a standstill and the engines are turned off.
-
                     <a name="infring-notic"></a>**_infringement notice_** means an infringement notice issued under section 19.
+
+                    <a name="land"></a>**_land_** has the meaning given by the * Compliance Scheme.
 
                     <a name="maximum-movem-limit"></a>**_maximum movement limit_** has the meaning given by subsection 6(1).
 
-                    <a name="oper"></a>**_operator_** of an aircraft means the person who, when a * gate movement using the aircraft occurs, is:
+                    <a name="oper"></a>**_operator_** of an aircraft means the person who, when an * aircraft movement using the aircraft occurs, is:
 
                      (a)  unless paragraph (b) applies—the owner of the aircraft; or
 
@@ -1372,6 +1316,8 @@ _Note:       Section 3 describes how asterisks are used to identif
                     <a name="slot-manag"></a>**_Slot Manager_** means the body corporate appointed under section 61 to hold the office of Slot Manager.
 
                     <a name="airport"></a><a name=""></a><a name="sydnei"></a>**_Sydney_****_Airport_** means the airport known as Sydney (Kingsford-Smith) Airport.
+
+                    <a name="off"></a>**_take off_** has the meaning given by the * Compliance Scheme.
 
 # Schedule 2—Amendment of the Airports Act 1996
 
@@ -1480,7 +1426,7 @@ Remainder: Royal Assent</div>
 Remainder: 24 May 2001</div>
   </td>
   <td>
-    <div>Sch. 2 (items 418, 419)</div>
+    <div>Sch. 2 (items 418, 419)</div>
   </td>
 </tr>
 <tr>
@@ -1562,7 +1508,7 @@ Remainder: 24 May 2001</div>
     <div>12 July 2008</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1: 12 Jan 2009 
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A] 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1621,14 +1567,6 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5A</div>
   </td>
   <td>
@@ -1645,14 +1583,6 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 7</div>
   </td>
   <td>
@@ -1661,74 +1591,10 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 3</b></div>
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 3</div>
-  </td>
-  <td>
-    <div>rs. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 11(4)</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11(6)</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 12, 13</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1757,46 +1623,6 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 29</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 4</b></div>
   </td>
   <td>
@@ -1813,26 +1639,10 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 35</div>
   </td>
   <td>
-    <div>am. No. 45, 2001; No. 83, 2008</div>
+    <div>am. No. 45, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1840,7 +1650,7 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 109, 2006; No. 83, 2008</div>
+    <div>am. No. 109, 2006</div>
   </td>
 </tr>
 <tr>
@@ -1880,7 +1690,7 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
     <div>S. 46</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 83, 2008</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1897,14 +1707,6 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
   </td>
   <td>
     <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1941,30 +1743,6 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part 5</div>
-  </td>
-  <td>
-    <div>ad. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59A</div>
-  </td>
-  <td>
-    <div>ad. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 6</b></div>
   </td>
   <td>
@@ -1997,44 +1775,324 @@ _(b)_ The _Sydney__Airport__Demand Management Act 1997_ was amended by Schedule�
 </tr>
 <tr>
   <td>
-    <div>S. 70</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 71</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 83, 2008</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedule 1</b></div>
+    <div></div>
   </td>
   <td>
     <div></div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule. 1</div>
-  </td>
-  <td>
-    <div>am. No. 83, 2008</div>
-  </td>
 </tr></table>
+
+### Note 2
+
+_Sydney Airport Demand Management Amendment Act 2008 (No. 83, 2008)_
+
+The following amendments commence on 12 January 2009 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Subsections 4(1) and (2)
+
+Repeal the subsections, substitute:
+
+             (1)  This Act sets the * maximum movement limit for * aircraft movements at Sydney Airport (otherwise than during * curfew periods). It also provides for the * Slot Management Scheme, under which slots for * gate movements at Sydney Airport are allocated. The Scheme is required to be consistent with the maximum movement limit.
+
+             (2)  Part 2 sets the * maximum movement limit for * aircraft movements at Sydney Airport, and provides for monitoring of compliance with that limit.
+
+## 2  Subsection 4(3)
+
+Omit “* aircraft movements”, substitute “* gate movements”.
+
+## 3  At the end of subsection 4(5)
+
+Add “It also deals with the power of the Minister to determine modifications of the Scheme in exceptional circumstances.”.
+
+## 4  Subsection 6(4)
+
+After “* aircraft movements”, insert “* associated with * gate movements”.
+
+## 5  Subsection 6(5)
+
+Omit “the * Slot Management Scheme”, substitute “subsection 35(2) (which requires the * Slot Management Scheme to be consistent with the limit)”.
+
+## 6  Subsection 8(4)
+
+Omit “_Legislative Instruments Act 1997_”, substitute “_Legislative Instruments Act 2003_”.
+
+_Note:       This item corrects a misstatement of the short title of an Act._
+
+## 7  Part 3 (heading)
+
+Repeal the heading, substitute:
+
+## Part 3—Penalties for unauthorised gate movements
+
+## 8  Section 10
+
+Repeal the section (including the note), substitute:
+
+##### <a id="10"></a>10  Gate movements to which this Part applies
+
+                   This Part applies to all * gate movements at Sydney  Airport, other than:
+
+                     (a)  any gate movement that is permitted by Division 5; and
+
+                     (b)  any gate movement that is * associated with an * aircraft movement that occurs during a * curfew period, unless a slot has been allocated for the gate movement under the * Slot Management Scheme; and
+
+                     (c)  any gate movement in relation to which the following conditions are satisfied:
+
+                              (i)  the associated aircraft movement was scheduled to occur at a time during a curfew period;
+
+                             (ii)  the aircraft movement actually occurs at a time that is not during a curfew period;
+
+                            (iii)  if the aircraft movement had occurred at its scheduled time, the aircraft movement would have been permitted by section 12 or 13 of the _Sydney__Airport__Curfew Act 1995_;
+
+                            (iv)  no slot has been allocated for the gate movement under the Slot Management Scheme.
+
+Note 1:       Regarding paragraph (b), a slot may have been allocated for the * gate movement because the * aircraft movement was scheduled to occur before or after the * curfew period. In that case, this Part applies to the gate movement even if the aircraft movement actually occurs during the curfew period.
+
+Note 2:       * Aircraft movements during * curfew periods are regulated under the _Sydney__Airport__Curfew Act 1995_. Slots cannot be allocated under this Act for times during curfew periods (see subsection 35(1B)).
+
+## 9  Subsection 11(1)
+
+Omit “An * aircraft movement”, substitute “A * gate movement”.
+
+## 10  Subsection 11(2)
+
+Omit “An * aircraft movement”, substitute “A * gate movement”.
+
+## 11  Paragraph 11(2)(b)
+
+Omit “in which the movement occurs”.
+
+## 12  Subsection 11(3)
+
+Omit “an * aircraft movement”, substitute “a * gate movement”.
+
+## 13  Paragraph 11(3)(b)
+
+Omit “in which the movement occurs”.
+
+## 14  Subsection 11(4)
+
+Omit “* aircraft movements”, substitute “* gate movements”.
+
+_Note:       The heading to subsection 11(4) is altered by omitting “aircraft movements” and substituting “gate movements”._
+
+## 15  Subsection 11(6)
+
+Omit “an * aircraft movement”, substitute “a * gate movement”.
+
+## 16  Subsection 11(6) (note)
+
+Omit “an * aircraft movement”, substitute “a * gate movement”.
+
+## 17  Section 12
+
+Omit “an * aircraft movement”, substitute “a * gate movement”.
+
+## 18  Section 13
+
+Omit “an * aircraft movement”, substitute “a * gate movement”.
+
+## 19  Section 29
+
+Omit “* take off from, or * land at,”, substitute “make a * gate movement at”.
+
+_Note:       The heading to section 29 is altered by omitting “take off or land” and substituting “make gate movements”._
+
+## 20  Paragraph 29(b)
+
+Omit “take-off or landing” (wherever occurring), substitute “gate movement”.
+
+## 21  Paragraph 30(a)
+
+After “used”, insert “, or is returning after use,”.
+
+## 22  Subsection 31(1)
+
+Omit “* take off from, or * land at,”, substitute “make a * gate movement at”.
+
+## 23  Subsection 31(1)
+
+Omit “justifying the take-off or landing”.
+
+## 24  Subsection 31(2)
+
+Omit “* take-off or * landing must occur and the runway to be used”, substitute “* gate movement must occur”.
+
+## 25  Subsection 33(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The basic purpose of the Scheme is to provide a system for the allocation of permissions for * gate movements at Sydney Airport. The system must be consistent with the * maximum movement limit for * aircraft movements.
+
+## 26  Subsection 34(1)
+
+Omit “an * aircraft movement”, substitute “a * gate movement”.
+
+## 27  Subsection 34(1)
+
+Omit “specified aircraft movement”, substitute “specified gate movement”.
+
+## 28  Subsection 34(3)
+
+Repeal the subsection, substitute:
+
+             (3)  Other laws may impose requirements or restrictions on or in relation to * aircraft movements or * gate movements. The allocation of a slot for a gate movement under the Scheme in no way affects the application of such other requirements or restrictions to, or in relation to, the gate movement and any * associated aircraft movement.
+
+## 29  Subsection 35(1)
+
+Omit “aircraft movements”, substitute “* gate movements”.
+
+## 30  Subsection 35(1)
+
+Omit “(other than movements during * curfew periods)”.
+
+## 31  Subsection 35(1A)
+
+Omit “aircraft movements”, substitute “* gate movements”.
+
+## 32  After subsection 35(1A)
+
+Insert:
+
+          (1B)  The Scheme must not allow slots to be allocated for times during * curfew periods.
+
+## 33  At the end of subsection 35(2)
+
+Add “for * aircraft movements”.
+
+## 34  Subsection 35(4)
+
+Omit “* aircraft movements”, substitute “* gate movements”.
+
+## 35  At the end of subsection 35(8)
+
+Add “for * aircraft movements”.
+
+## 36  At the end of subsection 36(1)
+
+Add “for * aircraft movements”.
+
+## 37  At the end of subsection 46(3)
+
+Add “for * aircraft movements”.
+
+## 38  Subsection 46(6)
+
+Omit “_Legislative Instruments Act 1997_”, substitute “_Legislative Instruments Act 2003_”.
+
+_Note:       This item corrects a misstatement of the short title of an Act._
+
+## 39  Subsection 49(1)
+
+Omit “aircraft movements”, substitute “* gate movements”.
+
+## 40  Subsection 49(6)
+
+Repeal the subsection.
+
+## 41  At the end of Part 5
+
+Add:
+
+### Division 3—Modification of Scheme in exceptional circumstances
+
+##### <a id="59A"></a>59A  Minister’s power to determine modifications
+
+             (1)  The Minister may, in writing, determine that the * Compliance Scheme has effect subject to specified modifications during a specified period if the Minister considers that there are exceptional circumstances justifying the making of the determination.
+
+             (2)  During the period specified in a determination under subsection (1), the * Compliance Scheme has effect subject to the modifications specified in the determination.
+
+             (3)  The Minister must, in relation to each determination under subsection (1):
+
+                     (a)  include in the determination a statement of the reasons for making the determination; and
+
+                     (b)  cause a copy of the determination to be given to the * Compliance Committee as soon as practicable after the day on which the determination is made.
+
+Note:          A copy of the determination will also have to be laid before each House of the Parliament (see section 38 of the _Legislative Instruments Act 2003_).
+
+             (4)  Modifications specified in a determination under subsection (1) do not have to be consistent with section 49.
+
+             (5)  A determination under subsection (1) is a legislative instrument, but section 42 (disallowance) of the _Legislative Instruments Act 2003_ does not apply to the determination.
+
+             (6)  In this section:
+
+                    <a name="modif"></a>**_modifications_** includes additions, omissions and substitutions.
+
+## 42  Paragraph 70(1)(a)
+
+Omit “* aircraft movement”, substitute “* gate movement”.
+
+## 44  Section 71
+
+Omit all the words after “in the Department;”, substitute:
+
+all or any of the following powers:
+
+                     (c)  the power under section 44 to give approvals and make determinations in relation to amendments of the * Slot Management Scheme;
+
+                     (d)  the power under section 58 to give approvals and make determinations in relation to amendments of the * Compliance Scheme;
+
+                     (e)  the power under subsection 66(3) to make appointments to the * Compliance Committee.
+
+## 46  Paragraph 74(2)(d)
+
+Omit “10 penalty units”, substitute “50 penalty units”.
+
+## 47  Clause 1 of Schedule 1 (paragraph (a) of the definition of _aircraft movement_)
+
+Omit “* landing”, substitute “landing”.
+
+## 48  Clause 1 of Schedule 1 (paragraph (b) of the definition of _aircraft movement_)
+
+Omit “* taking off”, substitute “taking off”.
+
+## 49  Clause 1 of Schedule 1
+
+Insert:
+
+                    <a name="associated"></a><a name="associated"></a>**_associated_**: an * aircraft movement and a * gate movement are **_associated_** if:
+
+                     (a)  for an aircraft movement that is a take-off—the gate movement is the last gate movement of the aircraft before the take-off; or
+
+                     (b)  for an aircraft movement that is a landing—the gate movement is the first gate movement of the aircraft after the landing.
+
+## 50  Clause 1 of Schedule 1 (at the end of the definition of _Compliance Scheme_)
+
+Add “and as it has effect subject to any determinations under subsection 59A(1)”.
+
+## 51  Clause 1 of Schedule 1
+
+Insert:
+
+                    <a name="gate-movem"></a>**_gate movement_** means:
+
+                     (a)  the first movement of an aircraft after its external doors have been closed in preparation for an * aircraft movement that is a take-off; or
+
+                     (b)  the last movement of an aircraft immediately before the moment when, after an aircraft movement that is a landing, it comes to a standstill and the engines are turned off.
+
+## 52  Clause 1 of Schedule 1 (definition of _land_)
+
+Repeal the definition.
+
+## 53  Clause 1 of Schedule 1 (definition of _operator_)
+
+Omit “an * aircraft movement”, substitute “a * gate movement”.
+
+## 54  Clause 1 of Schedule 1 (definition of _take off_)
+
+Repeal the definition.
+
+As at 30 July 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2097,6 +2155,8 @@ If a determination under subsection 20(1) of the _Financial Management and Accou
 * * *
 
 _Sydney Airport Demand Management Amendment Act 2008 (No. 83, 2008)_
+
+The following provisions commence on 12 January 2009 unless proclaimed earlier:
 
 ## Schedule 1
 
