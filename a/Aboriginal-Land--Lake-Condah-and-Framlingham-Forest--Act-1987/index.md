@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2006C00704/Html/AbLndLkConFramFo87WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00663/Html/AbLndLkConFramFo87WD02_image001.gif)
 
 # Aboriginal Land (Lake Condah and Framlingham  Forest) Act 1987
 
 **Act No. 34 of 1987 as amended**
 
-This compilation was prepared on 11 December 2006
- taking into account amendments up to Act No. 152 of 2006
+This compilation was prepared on 14 November 2006
+ taking into account amendments up to Act No. 125 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -884,17 +884,17 @@ _Section 6_
 
 ## Part A
 
-![](http://www.comlaw.gov.au/Details/C2006C00704/Html/AbLndLkConFramFo87WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00663/Html/AbLndLkConFramFo87WD02_image002.gif)
 
 ## Part B 
 
-![](http://www.comlaw.gov.au/Details/C2006C00704/Html/AbLndLkConFramFo87WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00663/Html/AbLndLkConFramFo87WD02_image003.gif)
 
 # Schedule 2—Land in the Parish of Purnim to be vested in the Kirrae Whurrong Aboriginal Corporation
 
 _Section 7_
 
-![](http://www.comlaw.gov.au/Details/C2006C00704/Html/AbLndLkConFramFo87WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00663/Html/AbLndLkConFramFo87WD02_image004.gif)
 
 # Notes to the _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_
 
@@ -1141,23 +1141,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Aboriginal and Torres Strait Islander Heritage Protection Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>152, 2006</div>
-  </td>
-  <td>
-    <div>7 Dec 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 14, 15): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Aboriginal__Land__(__Lake__Condah__and__Framlingham__Forest__) Act 1987_ was amended by Schedule 2 (items 94–112) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
@@ -1358,11 +1341,11 @@ _(a)_     The _Aboriginal__Land__(__Lake__Condah__and__Framlingham__Fore
 
 ### Note 2
 
-_Corporations (Aboriginal and Torres  Strait Islander) Consequential, Transitional and Other Measures Act 2006 (No. 125, 2006)_
+_Corporations (Aboriginal and Torres Strait Islander) Consequential, Transitional and Other Measures Act 2006 (No. 125, 2006)_
 
-The following amendments commence on 1 July 2007 (_see_ s. 2(1)):
+The following amendments commence on 1 July 2007 (_see_ s. 2(1)):
 
-## Schedule 2
+## Schedule 2
 
 ## 4  Subsection 3(1)
 
@@ -1510,25 +1493,7 @@ Omit “the group to which the land is transferred or granted”, substitute “
 
 Omit “or group” (wherever occurring), substitute “or Aboriginal and Torres Strait Islander corporation”.
 
-As at 11 December 2006 the amendments are not incorporated in this compilation.
-
-### Note 3
-
-_Aboriginal and Torres  Strait Islander Heritage Protection Amendment Act 2006 (No. 152, 2006)_
-
-The following amendments commence on proclamation. However if not proclaimed before 7 December 2007 they are repealed on that day, _see_ subsection 2(1) (item 3):
-
-## Schedule 2
-
-## 14  Subsection 16(2)
-
-Omit “(otherwise than for the purposes of Part IIA of the _Aboriginal and__Torres Strait__Islander Heritage Protection Act 1984_)”.
-
-## 15  Subsection 24(2)
-
-Omit “(otherwise than for the purposes of Part IIA of the _Aboriginal and__Torres Strait__Islander Heritage Protection Act 1984_)”.
-
-As at 11 December 2006 the amendments are not incorporated in this compilation.
+As at 14 November 2006 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -1576,5 +1541,7 @@ _Aboriginal and Torres  Strait Islander Commission Amendment Act 2005
 ## 6  Saving provision
 
 Despite the amendment of section 5 of the _Aboriginal Land (Lake Condah and Framlingham Forest) Act 1987_, any delegation by the Minister to an officer of the Department that was in force under that section immediately before the day Schedules 1 and 2 to this Act commence continues in force on and after that day as if it were a delegation made by the Minister under that section as amended by this Act.
+
+ 
 
  
