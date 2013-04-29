@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2012C00343/Html/de647f82-9118-4123-a16e-30f775537966_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00817/Html/b8b782f2-f4ec-4d13-ac93-82216fbead2d_files/image001.gif)
 
 # Skills Australia Act 2008
 
 **Act No. 10 of 2008 as amended**
 
-This compilation was prepared on 27 March 2012
+This compilation was prepared on 4 October 2011
  taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force 
@@ -216,7 +216,7 @@ Note:          Section 18B of the _Acts Interpretation Act 1
 
                    A member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
 
-Note:          The member may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          A member is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
 ##### <a id="11"></a>11  Acting appointments
 
@@ -226,15 +226,23 @@ Note:          The member may be reappointed: see section 33
 
                      (b)  during any period, or during all periods, when the Chair is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
              (2)  The Minister may appoint a person to act as a member:
 
                      (a)  during a vacancy in the office of a member, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when a member is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+Note:          Section 33A of the _Acts Interpretation Act 1901_ has rules that apply to acting appointments.
+
+             (3)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there was a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
 
 ##### <a id="12"></a>12  Members’ remuneration
 
@@ -386,7 +394,7 @@ those remaining members constitute a quorum for the purpose of any deliberation 
 
              (3)  A committee consists of such individuals as Skills Australia from time to time appoints, by writing, to the committee.
 
-Note:          A member of a committee may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+Note:          For reappointment, see subsection 33(4A) of the _Acts Interpretation Act 1901_.
 
              (4)  A committee may be constituted:
 
@@ -516,98 +524,58 @@ of Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 1044–1048) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
+    <div>Schedule 2 (items 1044–1048) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
-## Table of Amendments
+### Note 2
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
+_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 25(3)</div>
-  </td>
-  <td>
-    <div>rs. No. 46, 2011</div>
-  </td>
-</tr></table>
+The following amendments commence on 27 December 2011 unless proclaimed earlier:
+
+## Schedule 2
+
+## 1044  Section 10 (note)
+
+Repeal the note, substitute:
+
+Note:          The member may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+## 1045  At the end of subsection 11(1)
+
+Add:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1046  Subsection 11(2) (note)
+
+Repeal the note, substitute:
+
+Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+
+## 1047  Subsection 11(3)
+
+Repeal the subsection.
+
+## 1048  Subsection 25(3) (note)
+
+Repeal the note, substitute:
+
+Note:          A member of a committee may be reappointed: see section 33AA of the _Acts Interpretation Act 1901_.
+
+As at 4 October 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+
+The following provisions commence on 27 December 2011 unless proclaimed earlier:
 
 ## Schedule 3
 
