@@ -1,99 +1,103 @@
-![](http://www.comlaw.gov.au/Details/C2007C00351/Html/FinanInstSuperLeviesCollect98WD02_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="27C8F306DF3207D2CA256FB7001E568F/$FILE/image001.png"></v:imagedata></v:shape>
 
-# Financial Institutions Supervisory Levies Collection Act 1998
+# Financial Institutions Supervisory Levies Collection Act 1998<o:p></o:p>
 
-**Act No. 53 of 1998 as amended**
+**Act No. 53 of 1998 as amended<o:p></o:p>**
 
-This compilation was prepared on 8 June 2007
- taking into account amendments up to Act No. 74 of 2007
+This compilation was prepared on <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="25" month="2">25 February 2005</st1:date>
+taking into account amendments up to Act No. 14 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, <st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city>
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Act binds the Crown
+[3](#3).            Act binds the Crown<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[4](#4).            External Territories
+[4](#4).            External Territories<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-[5](#5).            Application of Act to Lloyd’s
+[5](#5).            Application of Act to Lloyd’s<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[6](#6).            Definitions
+[6](#6).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-**Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
+**Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993<span style="mso-tab-count: 1">                                                                                                                    </span>**
 
-[7](#7).            Definitions
+[7](#7).            Definitions<span style="mso-tab-count: 1 dotted">                                                                                           </span>
 
-[8](#8).            Liability to levy
+[8](#8).            Liability to levy<span style="mso-tab-count: 1 dotted">                                                                                   </span>
 
-[9](#9).            When levy due for payment [_see_ Note 2]
+[9](#9).            When levy due for payment [_see_ Note 2]<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[10](#10).          Late payment penalty
+[10](#10).          Late payment penalty<span style="mso-tab-count: 1 dotted">                                                                         </span>
 
-[11](#11).          Payment of levy and late payment penalty
+[11](#11).          Payment of levy and late payment penalty<span style="mso-tab-count: 1 dotted">                                        </span>
 
-[12](#12).          Waiver of levy and late payment penalty
+[12](#12).          Waiver of levy and late payment penalty<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[13](#13).          Recovery of levy and late payment penalty
+[13](#13).          Recovery of levy and late payment penalty<span style="mso-tab-count: 1 dotted">                                       </span>
 
-[14](#14).          Exempting laws ineffective
+[14](#14).          Exempting laws ineffective<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[15](#15).          Regulations may modify this Part if levy Act commences during a financial year
+[15](#15).          Regulations may modify this Part if levy Act commences during a financial year<span style="mso-tab-count: 1">  </span>
 
-**Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993**
+**Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993<span style="mso-tab-count: 1">      </span>**
 
-[16](#16).          Definitions
+[16](#16).          Definitions<span style="mso-tab-count: 1 dotted">                                                                                         </span>
 
-[17](#17).          Fund’s accounts to be prima facie evidence of value of its assets
+[17](#17).          Fund’s accounts to be prima facie evidence of value of its assets<span style="mso-tab-count: 1 dotted">     </span>
 
-[18](#18).          Liability to levy
+[18](#18).          Liability to levy<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[19](#19).          When levy due for payment
+[19](#19).          When levy due for payment<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[20](#20).          Late payment penalty
+[20](#20).          Late payment penalty<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[21](#21).          Payment of levy and late payment penalty
+[21](#21).          Payment of levy and late payment penalty<span style="mso-tab-count: 1 dotted">                                      </span>
 
-[22](#22).          Waiver of late payment penalty
+[22](#22).          Waiver of late payment penalty<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[23](#23).          Recovery of levy and late payment penalty
+[23](#23).          Recovery of levy and late payment penalty<span style="mso-tab-count: 1 dotted">                                     </span>
 
-[24](#24).          How payments of levy and late payment penalty and repayments of financial assistance are to be applied
+[24](#24).          How payments of levy and late payment penalty and repayments of financial assistance are to be applied<span style="mso-tab-count: 1">        </span>
 
-[25](#25).          Exempting laws ineffective
+[25](#25).          Exempting laws ineffective<span style="mso-tab-count: 1 dotted">                                                                </span>
 
-[26](#26).          Delegation
+[26](#26).          Delegation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-**Part 4—Miscellaneous**
+**Part 4—Miscellaneous<span style="mso-tab-count: 1">                                                                                                       </span>**
 
-[27](#27).          Review of certain decisions
+[27](#27).          Review of certain decisions<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[28](#28).          Statements to accompany notification of decisions
+[28](#28).          Statements to accompany notification of decisions<span style="mso-tab-count: 1 dotted">                          </span>
 
-[29](#29).          Regulations
+[29](#29).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>**
+
+<o:p> </o:p>
+
 
 ## An Act to make provision for the collection of levies imposed in respect of various financial institutions, and for related purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span><o:p></o:p>
 
                    This Act may be cited as the _Financial Institutions Supervisory Levies Collection Act 1998_.
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span><o:p></o:p>
 
                    This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.
 
@@ -101,7 +105,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    This Act binds the Crown in each of its capacities.
 
-##### <a id="4"></a>4  External  Territories
+##### <a id="4"></a>4  <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>External</st1:placename> <st1:placetype>Territories</st1:placetype></st1:place>
 
                    This Act extends to each external Territory.
 
@@ -116,6 +120,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
                    In this Act, unless the contrary intention appears:
 
                     <a name="apra"></a>**_APRA_** means the Australian Prudential Regulation Authority.
+
+<o:p> </o:p>
 
 ## Part 2—Collection of levies other than levy under the Superannuation (Financial Assistance Funding) Levy Act 1993
 
@@ -139,7 +145,7 @@ Note:          NOHC is short for non-operating holding company
 
                     <a name="gener-insur-compani"></a>**_general insurance company_** means a body corporate that is authorised under the _Insurance Act 1973_ to carry on insurance business within the meaning of that Act.
 
-                    <a name="late-payment-penalti"></a>**_late payment penalty_** means penalty payable under section 10.
+                    <a name=""></a><a name="late-payment-penalti"></a>**_late payment penalty_** means penalty payable under section 10.
 
                     <a name="leviabl-bodi"></a>**_leviable body_** means any of the following types of bodies:
 
@@ -219,11 +225,11 @@ Superannuation entities
 
              (6)  A trustee of a superannuation entity that is a superannuation entity at any time during a financial year that ends after the commencement of the _Superannuation Supervisory Levy Imposition Act 1998_ is liable to pay a levy in respect of that financial year.
 
-##### <a id="9"></a>9  When levy due for payment [_see_ Note 2]
+##### <a id="9"></a>9  When levy due for payment<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 2]</span>
 
              (1)  Levy payable by a leviable body (other than a superannuation entity) for a financial year under section 8 is due and payable on:
 
-                     (a)  if the levy imposition day relating to the levy payable by the leviable body is 1 July of the financial year—a business day that is:
+                     (a)  if the levy imposition day relating to the levy payable by the leviable body i<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname> July of the financial year—a business day that is:
 
                               (i)  specified in a notice given to the leviable body by APRA in relation to the financial year; and
 
@@ -309,6 +315,8 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
                    If an Act mentioned in section 8 that imposes levy in respect of a particular type of leviable body commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year and that type of leviable body subject to the modifications specified in the regulations.
 
+<o:p> </o:p>
+
 ## Part 3—Collection of levy under the Superannuation (Financial Assistance Funding) Levy Act 1993
 
 ##### <a id="16"></a>16  Definitions
@@ -367,7 +375,7 @@ the law does not operate to exempt the levy paying entity from liability to pay 
 
 the trustee is liable to pay to the Commonwealth, in respect of that levy month, by way of penalty, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2007C00351/Html/FinanInstSuperLeviesCollect98WD02_image002.gif)
+<v:shape id="_x0000_i1026" style="WIDTH: 87.75pt; HEIGHT: 27pt" o:ole="" type="#_x0000_t75" coordsize="21600,21600"><v:imagedata o:title="" src="27C8F306DF3207D2CA256FB7001E568F/$FILE/image003.wmz"></v:imagedata></v:shape>
 
              (2)  Late payment penalty for a levy month is due and payable at the end of the levy month.
 
@@ -416,6 +424,8 @@ the law does not operate to exempt the trustee from liability to pay levy unless
 ##### <a id="26"></a>26  Delegation
 
                    The Minister may, by signed writing, delegate to APRA all or any of his or her powers under this Part.
+
+<o:p> </o:p>
 
 ## Part 4—Miscellaneous
 
@@ -515,7 +525,8 @@ that notice must include words to the effect that the levy paying entity may, su
 
                      (b)  provide for the refund (or other application) of overpayments.
 
-# Notes to the _Financial Institutions Supervisory Levies Collection Act 1998_
+
+# Notes to the _<span style="mso-no-proof: yes">Financial Institutions Supervisory Levies Collection Act 1998</span>_
 
 ### Note 1
 
@@ -537,163 +548,154 @@ For all information pertaining to application, saving or transitional provisions
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td>
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td>
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Financial Institutions Supervisory Levies Collection Act 1998</div>
-  </td>
-  <td>
-    <div>53, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>1 July 1998 ( <i>see Gazette</i>1998, No. S316)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act (No. 3) 1999</div>
-  </td>
-  <td>
-    <div>121, 1999</div>
-  </td>
-  <td>
-    <div>8 Oct 1999</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 3, 4, 42(2)): Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 42(2))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>24, 2000</div>
-  </td>
-  <td>
-    <div>3 Apr 2000</div>
-  </td>
-  <td>
-    <div>Schedule 9 (item 1) and Schedule 12 (item 10): Royal Assent <i>(b) 
- </i>Schedule 12 (items 1–3): 3 Apr 2000 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Sch. 12 (items 
-1–3, 10)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001</div>
-  </td>
-  <td>
-    <div>121, 2001</div>
-  </td>
-  <td>
-    <div>24 Sept 2001</div>
-  </td>
-  <td>
-    <div>Ss. 1–3: Royal Assent 
-Remainder: 1 July 2002 ( <i>see</i>s. 2(2) and <i>Gazette</i>2002, No. GN24)</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 153)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment Act (No. 1) 2002</div>
-  </td>
-  <td>
-    <div>37, 2002</div>
-  </td>
-  <td>
-    <div>26 June 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2: 27 June 2002 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 4)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 137, 138): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Institutions Supervisory Levies Collection Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>14, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Governance Review Implementation (Treasury Portfolio Agencies) Act 2007</div>
-  </td>
-  <td>
-    <div>74, 2007</div>
-  </td>
-  <td>
-    <div>5 June 2007</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 68–70): \[ <i>see</i>Note 3]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Financial Institutions Supervisory Levies Collection Act 1998</div>
+    </td>
+    <td>
+      <div>53, 1998</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="29" month="6">29 June 1998</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="7">1 July 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1998, No. S316)</div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment Act (No. 3) 1999</div>
+    </td>
+    <td>
+      <div>121, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="8" month="10">8 Oct 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 3, 4, 42(2)): Royal Assent <i style="mso-bidi-font-style: normal">(a) <o:p></o:p> </i></div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 42(2))</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000</div>
+    </td>
+    <td>
+      <div>24, 2000</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="3" month="4">3 Apr 2000</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 9 (item 1) and Schedule 12 (item 10): Royal Assent <i style="mso-bidi-font-style: normal">(b) 
+
+ </i>Schedule 12 (item <st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>–3): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="3" month="4">3 Apr 2000</st1:date> <i style="mso-bidi-font-style: normal">(b)</i></div>
+    </td>
+    <td>
+      <div>Sch. 12 (items 
+1–3, 10) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001</div>
+    </td>
+    <td>
+      <div>121, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="24" month="9">24 Sept 2001</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 1–3: Royal Assent 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="1" month="7">1 July 2002</st1:date>( <i style="mso-bidi-font-style: normal">see</i>s. 2(2) and <i style="mso-bidi-font-style: normal">Gazette</i>2002, No. GN24) 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 153)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment Act (No. 1) 2002</div>
+    </td>
+    <td>
+      <div>37, 2002</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="26" month="6">26 June 2002</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule <st1:time minute="27" hour="2">2: 27</st1:time> June 2002 <i style="mso-bidi-font-style: normal">(c)</i></div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 4)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 137, 138): Royal Assent</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Institutions Supervisory Levies Collection Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>14, 2005</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="22" month="2">22 Feb 2005</st1:date></div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 2)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Financial Institutions Supervisory Levies Collection Act 1998_ was amended by Schedule 2 (items 3 and 4) only of the _Superannuation Legislation Amendment Act (No. 3) 1999,_ subsection 2(1) of which provides as follows _:_
 
@@ -719,6 +721,8 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
+<o:p> </o:p>
+
 <table>
 <colgroup>
   <col width="24%">
@@ -730,8 +734,10 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
   <tr>
     <td colspan="3">
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Commencement information
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -739,22 +745,28 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
   <tr>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Column 1
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Column 2
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Column 3
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
@@ -762,44 +774,63 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
   <tr>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Provision(s)
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Commencement
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
     <td>
       <div>
-        <b>
+        <b style="mso-bidi-font-weight: normal">
           Date/Details
+            <o:p></o:p>
+
         </b>
       </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 to 3
-    </div>
-  </td>
-  <td>
-    <div>
-      The day after the day on which this Act receives the Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      27 June 2002
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        2.
+          <span style="mso-spacerun: yes"></span>Schedules 1 to 3
+          <o:p></o:p>
+
+      </div>
+    </td>
+    <td>
+      <div>
+        The day after the day on which this Act receives the Royal Assent
+          <o:p></o:p>
+
+      </div>
+    </td>
+    <td>
+      <div>
+        <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="27" month="6">
+          27 June 2002
+        </st1:date>
+
+          <o:p></o:p>
+
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -812,82 +843,85 @@ _(c)_ The _Financial Institutions Supervisory Levies Collection Act 1998_ was am
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed    rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 121, 1999; No. 14, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>rs. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 11</div>
-  </td>
-  <td>
-    <div>ad. No. 121, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 24, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 7 </div>
+    </td>
+    <td>
+      <div>am. No. 121, 1999; No. 14, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9 </div>
+    </td>
+    <td>
+      <div>am. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10 </div>
+    </td>
+    <td>
+      <div>rs. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11 </div>
+    </td>
+    <td>
+      <div>am. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 11 </div>
+    </td>
+    <td>
+      <div>ad. No. 121, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13 </div>
+    </td>
+    <td>
+      <div>am. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16 </div>
+    </td>
+    <td>
+      <div>am. No. 24, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24 </div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ### Note 2
 
@@ -901,27 +935,6 @@ Omit “lodgement of a return under section 36 of the _Superannuation Industry
 
 The proposed amendment was misdescribed and is not incorporated in this compilation.
 
-### Note 3
-
-_Governance Review Implementation (Treasury Portfolio Agencies) Act 2007 (No. 74, 2007)_
-
-The following amendments commence on 1 July 2007:
-
-## Schedule 1
-
-## 68  Subsection 11(1)
-
-Omit “(1)”.
-
-## 69  Subsection 11(2)
-
-Repeal the subsection (not including the note).
-
-## 70  Subsection 13(3)
-
-Repeal the subsection.
-
-As at 8 June 2007 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -933,11 +946,11 @@ _Superannuation Legislation Amendment Act (No. 3) 1999 (No. 121, 1999)_
 
 ## 42  Application provisions
 
-(2)        The amendments of the _Financial Institutions Supervisory Levies Collection Act 1998_ made by this Schedule apply to an entity in respect of the financial year beginning on 1 July 2000 and subsequent financial years.
+(2)        The amendments of the _Financial Institutions Supervisory Levies Collection Act 1998_ made by this Schedule apply to an entity in respect of the financial year beginning on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="1" month="7">1 July 2000</st1:date> and subsequent financial years.
 
 * * *
 
-_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)_
+_Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000 (No. 24, 2000)<o:p></o:p>_
 
 ## Schedule 12
 
@@ -991,23 +1004,25 @@ _Note:       This provision affects the calculation of late payment 
 
 Nothing in this Part or the Validation Acts is taken to make a person criminally liable in respect of acts or omissions of the person before the day on which this Part commences, if the person would not have been so liable had this Part and the Validation Acts not been enacted.
 
-## 10  Application of amendments of superannuation legislation relating to financial assistance to funds
+<o:p> </o:p>
+
+## 10  Application of amendments of superannuation legislation relating to financial assistance to funds
 
 The amendments made by Schedule 9 only apply in relation to losses incurred by a fund after the commencement of that Schedule.
 
 * * *
 
-_Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001 (No. 121, 2001)_
+_Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001 (No. 121, 2001)<o:p></o:p>_
 
 ## Schedule 2
 
 ## 153  Transitional
 
-The amendment made by item 152 applies to the payment of levy (within the meaning of the _Financial Institutions Supervisory Levies Collection Act 1998_) for the financial year beginning on 1 July 2002 and for all subsequent financial years.
+The amendment made by item 152 applies to the payment of levy (within the meaning of the _Financial Institutions Supervisory Levies Collection Act 1998_) for the financial year beginning on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2002" day="1" month="7">1 July 2002</st1:date> and for all subsequent financial years.
 
 * * *
 
-_Financial Sector Legislation Amendment Act (No. 1) 2002 (No. 37, 2002)_
+_Financial Sector Legislation Amendment Act (No. 1) 2002 (No. 37, 2002)<o:p></o:p>_
 
 ## Schedule 2
 
@@ -1018,7 +1033,8 @@ The amendment made by item 3 applies only to levy that becomes due and payable
 * * *
 
 _Financial Institutions Supervisory Levies Collection Amendment Act 2005 
- (No. 14, 2005)_
+(No. 14, 2005)<o:p></o:p>
+_
 
 ## Schedule 1
 
@@ -1026,8 +1042,9 @@ _Financial Institutions Supervisory Levies Collection Amendment Act 2005
 
 The amendment made by this Schedule applies in relation to levy payable for:
 
-                     (a)  the financial year commencing on 1 July 2005; and
+                     (a)  the financial year commencing on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2005" day="1" month="7">1 July 2005</st1:date>; and
 
                      (b)  each succeeding financial year.
 
- 
+
+<o:p> </o:p>
