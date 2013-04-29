@@ -1,7 +1,7 @@
 
 Health and Other Services (Compensation) Act 1995
 Act No. 130 of 1995 as amended
-This compilation was prepared on 3 October 2003 taking into account amendments up to Act No. 84 of 2003
+This compilation was prepared on 8 September 2003 taking into account amendments up to Act No. 150 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
@@ -9,79 +9,79 @@ Prepared by the Office of Legislative Drafting, Attorney‑General’s Departm
   
   
 Contents
-Part 1—Preliminary	1
+Part 1—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Definitions	1
-4	Definition of compensation	8
+4	Definition of compensation	7
 5	Application of this Act to events occurring before the commencement of this Act	9
-6	Crown to be bound	10
-6A	Application of the Criminal Code	10
-Part 2—Consequences of compensation payments	11
-Division 1—Medicare benefit	11
-7	Reimbursement of amounts payable for professional services	11
-8	Recovering past payments of medicare benefit from judgments and settlements	12
-Division 2—Nursing home benefit and residential care subsidy	15
-9	Reimbursement of amounts payable for nursing home care or residential care	15
-10	Recovering past payments of nursing home benefit or residential care subsidy from judgments and settlements	16
-Part 3—Payments to the Commonwealth in respect of compensation payments	19
-Division 1—Notices about compensation claims etc.	19
-11	Operation of Division	19
-13	Notice of reimbursement arrangements	19
-14	Notice of intention to recover amounts	19
-17	Notice to claimant	20
-18	Statement by claimant of past benefits	21
-19	Reconsideration of decisions about extensions of the period for giving statements	23
-20	Effect of date of hearing on period for giving statement	24
-21	Notice of past benefits	24
-22	Restriction on making settlements	27
-23	Notice of judgment or settlement	28
-23A	Statement after judgment or settlement—no relevant past benefits	30
-23B	Notice of statement that is not substantially correct	32
-23C	Notice of acceptance of amended statement	33
-23D	Review of decision under section 23B by the Administrative Appeals Tribunal	33
-24	Notice of charge—claims resulting in judgments or settlements	34
-25	Notice of charge—claims resulting in reimbursement arrangements	36
-26	Offences	38
-Division 2—Payments to the Commonwealth in respect of amounts of compensation	40
-27	Limit on total amount payable in respect of amounts of compensation	40
-28	Payments to the Commonwealth	40
-29	Recovery of amounts payable to the Commonwealth	41
-30	Notice of charge suspends liability to pay compensation etc.	42
-31	Payment to the Commonwealth discharges liability	43
-32	Offence to make payment before discharging liability to the Commonwealth	43
-33	Interest not payable on amount withheld	45
-Division 2A—Advance payments to the Commonwealth	47
-33AA	Sunset provision	47
-33A	Notice of advance payment	47
-33B	Advance payments	48
-33C	Notice of past benefits	49
-33D	Time within which notice of past benefits must be given	49
-33H	Refunds from advance payments	50
-33J	Additional payments to the Commonwealth	50
-33K	Payment of the whole of the advance payment	51
-33L	Advance payments to the Commonwealth discharge liability	51
-33M	Interest not payable on advance payments	51
-Division 3—Waiver of the requirements of this Part	53
-34	Bulk payment agreements	53
-35	Waiver—bulk payment agreements	54
-36	Extended waiver—settlements during periods of bulk payment agreements	55
-37	Limits of waiver—bulk payment agreements	56
-38	Waiver—small amounts of compensation	57
-Part 4—Administration	58
-Division 1—General	58
-39	General administration of Act	58
-40	Additional functions of the Commission	58
-41	Delegation	58
-Division 2—Power to obtain information	60
-42	Managing Director etc. may obtain information etc.	60
-43	Content of notices	61
-44	Offences	61
-45	Exemption	62
-Part 5—Miscellaneous	63
-46	Form of notices etc.	63
-47	Regulations	63
-Notes	65
+6	Crown to be bound	9
+6A	Application of the Criminal Code	9
+Part 2—Consequences of compensation payments	10
+Division 1—Medicare benefit	10
+7	Reimbursement of amounts payable for professional services	10
+8	Recovering past payments of medicare benefit from judgments and settlements	11
+Division 2—Nursing home benefit and residential care subsidy	13
+9	Reimbursement of amounts payable for nursing home care or residential care	13
+10	Recovering past payments of nursing home benefit or residential care subsidy from judgments and settlements	14
+Part 3—Payments to the Commonwealth in respect of compensation payments	17
+Division 1—Notices about compensation claims etc.	17
+11	Operation of Division	17
+13	Notice of reimbursement arrangements	17
+14	Notice of intention to recover amounts	17
+17	Notice to claimant	18
+18	Statement by claimant of past benefits	19
+19	Reconsideration of decisions about extensions of the period for giving statements	21
+20	Effect of date of hearing on period for giving statement	22
+21	Notice of past benefits	22
+22	Restriction on making settlements	25
+23	Notice of judgment or settlement	25
+23A	Statement after judgment or settlement—no relevant past benefits	27
+23B	Notice of statement that is not substantially correct	29
+23C	Notice of acceptance of amended statement	30
+23D	Review of decision under section 23B by the Administrative Appeals Tribunal	30
+24	Notice of charge—claims resulting in judgments or settlements	31
+25	Notice of charge—claims resulting in reimbursement arrangements	33
+26	Offences	34
+Division 2—Payments to the Commonwealth in respect of amounts of compensation	36
+27	Limit on total amount payable in respect of amounts of compensation	36
+28	Payments to the Commonwealth	36
+29	Recovery of amounts payable to the Commonwealth	37
+30	Notice of charge suspends liability to pay compensation etc.	38
+31	Payment to the Commonwealth discharges liability	39
+32	Offence to make payment before discharging liability to the Commonwealth	39
+33	Interest not payable on amount withheld	41
+Division 2A—Advance payments to the Commonwealth	42
+33AA	Sunset provision	42
+33A	Notice of advance payment	42
+33B	Advance payments	43
+33C	Notice of past benefits	44
+33D	Time within which notice of past benefits must be given	44
+33H	Refunds from advance payments	45
+33J	Additional payments to the Commonwealth	45
+33K	Payment of the whole of the advance payment	45
+33L	Advance payments to the Commonwealth discharge liability	46
+33M	Interest not payable on advance payments	46
+Division 3—Waiver of the requirements of this Part	48
+34	Bulk payment agreements	48
+35	Waiver—bulk payment agreements	49
+36	Extended waiver—settlements during periods of bulk payment agreements	50
+37	Limits of waiver—bulk payment agreements	51
+38	Waiver—small amounts of compensation	51
+Part 4—Administration	53
+Division 1—General	53
+39	General administration of Act	53
+40	Additional functions of the Commission	53
+41	Delegation	53
+Division 2—Power to obtain information	55
+42	Managing Director etc. may obtain information etc.	55
+43	Content of notices	56
+44	Offences	56
+45	Exemption	57
+Part 5—Miscellaneous	58
+46	Form of notices etc.	58
+47	Regulations	58
+Notes	59
 An Act relating to the consequences of certain compensation payments, and for related purposes
 Part 1—Preliminary
   
@@ -157,9 +157,7 @@ Note:	Under the rules generally applicable to Acts, this Act will apply to all i
 	(3)	A reference in this Act to a person receiving a compensation payment includes a reference to another person receiving it on behalf of, or at the direction of, the first person.
 	(4)	A reference in this Act to an amount of compensation being fixed under an order or agreement is a reference to the amount being:
 	(a)	specified in the order or agreement, or in the law under which the order or agreement is made or to which the order or agreement relates; or
-	(b)	ascertainable, at the time the order or agreement is made, in accordance with the terms of the order or agreement, or in accordance with a law under which the order or agreement is made or to which the order or agreement relates; or
-	(c)	ascertainable, at some time after the order or agreement is made, in accordance with the terms of the order or agreement, or in accordance with a law under which the order or agreement is made or to which the order or agreement relates.
-	(4A)	An amount of compensation fixed under paragraph 3(4)(c) is fixed at the time at which the amount of compensation is ascertained.
+	(b)	ascertainable, at the time the order or agreement is made, in accordance with the terms of the order or agreement, or in accordance with a law under which the order or agreement is made or to which the order or agreement relates.
 	(5)	If a claimant is seeking compensation on behalf of another person:
 	(a)	references in this Act to a claimant’s name, address and date of birth are taken to be references to the name, address or date of birth of the individual who is claimed to have suffered the injury in question; and
 	(b)	references in this Act to the claimant’s injury are taken to be references to the injury in question.
@@ -219,7 +217,7 @@ the person entitled to the reimbursement is liable to pay to the Commonwealth an
 Note: 	So far as subsection (3) would be a law imposing taxation, see section 5 of the Health and Other Services (Compensation) Care Charges Act 1995.
 8  Recovering past payments of medicare benefit from judgments and settlements
 	(1)	Subject to subsections (2), (3), (6) and (9), if:
-	(a)	an amount of compensation is fixed under a judgment or settlement made in respect of an injury to a compensable person; and
+	(a)	a judgment or settlement is made in respect of an injury to a compensable person; and
 	(b)	medicare benefit has already been paid in respect of a professional service rendered to that person in the course of treatment of, or as a result of, the injury; and
 	(c)	a liability has not already arisen under section 7 in respect of that payment of medicare benefit;
 there is payable to the Commonwealth an amount equal to the medicare benefit.
@@ -237,13 +235,13 @@ Note:	So far as this section would be a law imposing taxation, see section 6 of
 	(6)	Subject to subsections (7) and (8) and section 37, this section does not apply if:
 	(a)	the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Commission; and
 	(b)	the notifiable person has complied with all the conditions of the bulk payment agreement; and
-	(c)	an amount of compensation is fixed under the judgment or settlement during the period of the bulk payment agreement; and
+	(c)	the judgment or settlement is made during the period of the bulk payment agreement; and
 	(d)	the judgment or settlement determines all the outstanding liability of the compensation payer in relation to the claim.
 	(7)	Subsection (6) does not apply in relation to a judgment or settlement of a kind referred to in that subsection if:
-	(a)	an amount of compensation is fixed under the judgment or settlement during the period of the bulk payment agreement; and
+	(a)	the judgment or settlement was made during the period of the bulk payment agreement; and
 	(b)	at the time the judgment or settlement was made, it purported to determine all the outstanding liability of the compensation payer in relation to the claim; and
 	(c)	another judgment or settlement in respect of the claim is made after the end of the period of the bulk payment agreement.
-	(8)	Subsection (6) does not affect the validity of a payment of money pursuant to a notice under section 24 if the payment occurred before the amount of compensation was fixed under the judgment or settlement referred to in that subsection.
+	(8)	Subsection (6) does not affect the validity of a payment of money pursuant to a notice under section 24 if the payment occurred before the judgment or settlement referred to in that subsection was made.
 	(9)	This section does not apply if:
 	(b)	the amount of compensation fixed by the judgment or settlement is a small amount; and
 	(c)	the amount of compensation so fixed is the entire amount of compensation for the injury to which the claim relates.
@@ -267,7 +265,7 @@ the person entitled to the reimbursement is liable to pay to the Commonwealth an
 Note:	So far as subsection (3) would be a law imposing taxation, see section 7 of the Health and Other Services (Compensation) Care Charges Act 1995.
 10  Recovering past payments of nursing home benefit or residential care subsidy from judgments and settlements
 	(1)	Subject to subsections (2), (3), (6) and (9), if:
-	(a)	an amount of compensation is fixed under a judgment or settlement made in respect of an injury to a compensable person; and
+	(a)	a judgment or settlement is made in respect of an injury to a compensable person; and
 	(b)	nursing home care or residential care has been provided to that person in the course of treatment of, or as a result of, the injury; and
 	(ba)	nursing home benefit or a residential care subsidy has already been paid in respect of that nursing home care or residential care; and
 	(c)	a liability has not already arisen under section 9 in respect of that payment of nursing home benefit or residential care subsidy;
@@ -286,13 +284,13 @@ Note:	So far as this section would be a law imposing taxation, see section 8 of
 	(6)	Subject to subsections (7) and (8) and section 37, this section does not apply if:
 	(a)	the notifiable person in relation to the claim for compensation concerned has entered into a bulk payment agreement with the Commission; and
 	(b)	the notifiable person has complied with all the conditions of the bulk payment agreement; and
-	(c)	an amount of compensation is fixed under the judgment or settlement during the period of the bulk payment agreement; and
+	(c)	the judgment or settlement is made during the period of the bulk payment agreement; and
 	(d)	the judgment or settlement determines all the outstanding liability of the compensation payer in relation to the claim.
 	(7)	Subsection (6) does not apply in relation to a judgment or settlement of a kind referred to in that subsection if:
-	(a)	an amount of compensation is fixed under the judgment or settlement during the period of the bulk payment agreement; and
+	(a)	the judgment or settlement was made during the period of the bulk payment agreement; and
 	(b)	at the time the judgment or settlement was made, it purported to determine all the outstanding liability of the compensation payer in relation to the claim; and
 	(c)	another judgment or settlement in respect of the claim is made after the end of the period of the bulk payment agreement.
-	(8)	Subsection (6) does not affect the validity of a payment of money pursuant to a notice under section 24 if the payment occurred before the amount of compensation was fixed under the judgment or settlement referred to in that subsection.
+	(8)	Subsection (6) does not affect the validity of a payment of money pursuant to a notice under section 24 if the payment occurred before the judgment or settlement referred to in that subsection was made.
 	(9)	This section does not apply if:
 	(b)	the amount of compensation fixed by the judgment or settlement is a small amount; and
 	(c)	the amount of compensation so fixed is the entire amount of compensation for the injury to which the claim relates.
@@ -335,8 +333,8 @@ Note:	A notice under this section can be given before or after judgment or settl
 	(2)	The statement must be verified by statutory declaration.
 	(3)	Subject to subsections (4) and (4A) and section 20, the Managing Director may, by notice in writing, grant the claimant one or more extensions of the period.
 	(4)	The period cannot be extended if:
-	(a)	the notice in question under subsection 17(1) was given in relation to a claim for compensation in respect of which an amount of compensation under a judgment or settlement had already been fixed; and
-	(b)	the Managing Director had not given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the day on which an amount of compensation was fixed under the judgment or settlement; and
+	(a)	the notice in question under subsection 17(1) was given in relation to a claim for compensation in respect of which a judgment or settlement had already been made; and
+	(b)	the Managing Director had not given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the judgment or settlement; and
 	(c)	an advance payment has not been made in respect of the compensation payable under the judgment or settlement.
 	(4A)	If an advance payment has been made under section 33B, the period cannot be extended:
 	(a)	if only one notice under section 17 has been given to the claimant in relation to the claim for compensation in question—beyond the period of 12 months after the claimant received that notice; or
@@ -345,8 +343,8 @@ Note:	A notice under this section can be given before or after judgment or settl
 	(6)	Subsection (5) does not operate, and is taken for the purposes of this Act and the Charges Act never to have operated, in relation to professional services specified in a notice under subsection 17(2) if the Managing Director gives the claimant a notice under subsection (7).
 	(7)	The Managing Director must give the claimant a notice for the purposes of subsection (6) if:
 	(a)	apart from subsection (6), subsection (5) would operate so that all the services specified in a notice under subsection 17(2) would be taken for the purposes of this Act and the Charges Act to have been rendered in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; and
-	(b)	an amount of compensation has been fixed under a judgment or settlement; and
-	(c)	the claimant, within the period of 2 years beginning on the day on which the amount of compensation was fixed under the judgment or settlement, satisfies the Managing Director that:
+	(b)	a judgment or settlement has been made in respect of an amount of compensation; and
+	(c)	the claimant, within the period of 2 years beginning on the day of the judgment or settlement, satisfies the Managing Director that:
 	(i)	not all of those services have been rendered in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; and
 	(ii)	the claimant’s failure to give the Commission a statement as required by this section was reasonable in the circumstances.
 	(8)	To avoid doubt, if:
@@ -384,7 +382,7 @@ the Managing Director may give to the notifiable person a notice under this sect
 	(b)	the total amount of eligible benefits paid by the Commonwealth, during that period, in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered.
 	(3)	If the claimant had given to the Commission a statement under section 18 prior to the Managing Director giving the notice, the notice must not, in relation to the period covered by the statement, take account of any eligible benefits that were paid in respect of services or care not specified in the statement.
 	(4)	Without limiting the matters that the notice may include, it may include information about amounts that may become payable to the Commonwealth under this Act or the Charges Act in respect of the amount of compensation in question.
-	(5)	Without limiting the matters that the notice may include, it may include a statement to the effect that, if an amount of compensation is fixed under a judgment or settlement made in respect of the claim within 6 months after the notice was given, the notice is taken to be a notice of charge under section 24, given by the Managing Director on the day on which the compensation is fixed.
+	(5)	Without limiting the matters that the notice may include, it may include a statement to the effect that, if a judgment or settlement is made in respect of the claim within 6 months after the notice was given, the notice is taken to be a notice of charge under section 24, given by the Managing Director on the day on which the judgment or settlement is made.
 	(6)	If a notice contains a statement of a kind referred to in subsection (5), it must also contain a statement to the effect that, subject to subsection (7), if:
 	(a)	the notice is taken to be a notice of charge under section 24; and
 	(b)	the judgment or settlement fixes the amount of compensation on the basis that liability for the injury should be apportioned between the compensable person and the compensation payer; and
@@ -412,7 +410,7 @@ the past expenses component is taken to be the amount specified in the notice as
 22  Restriction on making settlements
 	(1)	The notifiable person must not make a settlement in respect of the claim for compensation unless:
 	(a)	the notifiable person has informed the compensable person that the compensable person may be liable to pay amounts under this Act or the Charges Act as a result of the settlement being made; or
-	(b)	the Managing Director has, within the 6 months prior to the day on which an amount of compensation was fixed under the settlement, given to the notifiable person a notice under section 21 in respect of the claim.
+	(b)	the Managing Director has, within the 6 months prior to the settlement, given to the notifiable person a notice under section 21 in respect of the claim.
 	(2)	For the purposes of this section, payment of an amount into a court is taken to constitute the making of a settlement.
 	(3)	Subsection (1) is taken not to have been complied with in relation to the payment of an amount into a court unless, at the time of the payment, the notifiable person lodges with the court a copy of the notice under section 21 in respect of the claim.
 23  Notice of judgment or settlement 
@@ -423,44 +421,40 @@ the past expenses component is taken to be the amount specified in the notice as
 	(b)	the date on which the compensable person suffered the injury; and
 	(c)	the nature of the injury that the compensable person suffered; and
 	(d)	the names of all the parties to the settlement, or the names of all the parties to which the judgment relates, as the case requires; and
-	(e)	the date (if any) by which the compensation payer is required to pay an amount of compensation under the judgment or settlement; and
-	(f)	the amount of compensation to be paid under the judgment or settlement to the compensable person (but see subsection (3A)); and
+	(e)	the date by which the compensation payer is required to pay an amount of compensation under the judgment or settlement; and
+	(f)	the amount of compensation to be paid under the judgment or settlement to the compensable person; and
 	(fa)	whether the compensation payer or insurer intends to make an advance payment in respect of the compensation; and
 	(fb)	if the compensation payer or insurer intends to make an advance payment—whether the compensable person has been notified under section 33A; and
 	(g)	if the amount of compensation represents, in whole or in part, a redemption of the entitlements to compensation by periodic payments—the fact that it represents such a redemption; and
 	(h)	such other information as is prescribed by the regulations made for the purposes of this subsection.
-	(3A)	If the amount of compensation payable to a claimant is fixed as provided for in paragraph 3(4)(c) then, when that amount is ascertained, the notifiable person must give to the Commission a further notice in writing that:
-	(a)	states that the amount has been ascertained; and
-	(b)	states the amount of the compensation.
-	(3B)	The notice under subsection (3A) must be given within 28 days after the day that the amount of compensation is fixed.
 	(4)	If:
 	(a)	the judgment or settlement fixes the amount of compensation on the basis that liability for the injury should be apportioned between the compensable person and the compensation payer; and
 	(b)	as a result, the amount of compensation is less than it would have been if liability had not been so apportioned;
-a notice given to the Commission under subsection (1) or (3A) must also state by how much, expressed as a percentage, the amount of compensation has been reduced as a result of the apportionment.
+the notice given to the Commission under subsection (1) must also state by how much, expressed as a percentage, the amount of compensation has been reduced as a result of the apportionment.
 	(5)	If the amount of compensation is fixed by a judgment that specifies an amount (the past expenses component), being a portion of the amount of compensation, to be a component for either or both of the following:
 	(a)	the medical expenses already incurred relating to the injury;
 	(b)	the expenses in respect of nursing home care or residential care already incurred relating to the injury;
-the notice given to the Commission under subsection (1) or (3A) as the case may be, must state the past expenses component and (if applicable) the proportion of the past expenses component applicable to expenses of a kind referred to in paragraphs (a) and (b) respectively.
+the notice given to the Commission under subsection (1) must state the past expenses component and (if applicable) the proportion of the past expenses component applicable to expenses of a kind referred to in paragraphs (a) and (b) respectively.
 	(5A)	If:
 	(a)	the judgment or settlement was made before the commencement of Division 2A; and
 	(b)	notice of the judgment or settlement had already been given under subsection (1) before that commencement;
 the notifiable person may, within 28 days after that commencement, give to the Commission a further notice in writing that contains all of the information and other matters that a notice under subsection (1) is required to contain under this section (as in force after that commencement).
-	(6)	A notice under subsection (1) or (3A) must be signed by the notifiable person and the compensable person.
+	(6)	The notice must be signed by the notifiable person and the compensable person.
 	(7)	This section does not apply if:
 	(a)	the amount of compensation represents, in whole or in part, a redemption of an entitlement to compensation by periodic payments; and
 	(b)	redemption of the compensable person’s entitlement to compensation in respect of future medical care needs, nursing home care needs or residential care needs relating to the injury is prohibited by law; and
 	(c)	inclusion of any amount fixed by a judgment or settlement in respect of expenses for past medical care needs, nursing home care needs or residential care needs relating to the injury is prohibited by law.
 23A  Statement after judgment or settlement—no relevant past benefits
 	(1)	This section has effect if:
-	(a)	an amount of compensation has been fixed under a judgment or settlement made in respect of the claim; and
-	(b)	the Commission has received a notice under subsection 23(1) or (3A) in relation to the amount of compensation fixed under the judgment or settlement; and
-	(c)	the Managing Director has not given the notifiable person a notice under section 21 in respect of the claim during the 6 month period ending when the amount of compensation was fixed under the judgment or settlement; and
+	(a)	a judgment or settlement has been made in respect of the claim; and
+	(b)	the Commission has received a notice under subsection 23(1) in relation to the judgment or settlement; and
+	(c)	the Managing Director has not given the notifiable person a notice under section 21 in respect of the claim during the 6 month period ending when the judgment or settlement was made; and
 	(d)	either:
-	(i)	the Managing Director has not given the notifiable person a notice under section 21 in respect of the claim before the start of the 6 month period and, as at the date that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; or
-	(ii)	the Managing Director has given the notifiable person one or more such notices before the start of the 6 month period and, as at the date that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits of the kind mentioned in subparagraph (i), other than those set out in the most recent of those notices.
+	(i)	the Managing Director has not given the notifiable person a notice under section 21 in respect of the claim before the start of the 6 month period and, as at the date of the judgment or settlement, the Commonwealth has paid no eligible benefits in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; or
+	(ii)	the Managing Director has given the notifiable person one or more such notices before the start of the 6 month period and, as at the date of the judgment or settlement, the Commonwealth has paid no eligible benefits of the kind mentioned in subparagraph (i), other than those set out in the most recent of those notices.
 	(2)	The claimant may give a statement under this section to the Commission specifying that:
-	(a)	if subparagraph (1)(d)(i) applies—as at the day that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; or
-	(b)	if subparagraph (1)(d)(ii) applies—as at the day that the amount of compensation was fixed under the judgment or settlement, the Commonwealth has paid no eligible benefits in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered, other than those set out in the most recent of the notices mentioned in that subparagraph.
+	(a)	if subparagraph (1)(d)(i) applies—as at the date of the judgment or settlement, the Commonwealth has paid no eligible benefits in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered; or
+	(b)	if subparagraph (1)(d)(ii) applies—as at the date of the judgment or settlement, the Commonwealth has paid no eligible benefits in respect of services and care rendered or provided in the course of treatment of, or as a result of, the injury the claimant claims to have suffered, other than those set out in the most recent of the notices mentioned in that subparagraph.
 Note:	The Commission will take account of the information in the statement in specifying in a notice under section 24 the amount (if any) payable to the Commonwealth.
 	(3)	The statement must also contain any other information specified in a determination in writing made by the Managing Director for the purposes of this subsection.
 	(4)	The statement must be verified by statutory declaration.
@@ -498,12 +492,12 @@ written notice specifying the sum of the amounts (if any) that are payable to th
 	(2)	The notice must also specify, in relation to each kind of eligible benefit that the Commonwealth has paid in respect of any service or care rendered or provided in the course of treatment of, or as a result of, the claimant’s injury, the sum of the amounts (if any) that will be payable to the Commonwealth under this Act or the Charges Act.
 	(3)	The notice must not, in relation to any period covered by a notice under section 21 in respect of the claim, take account of any eligible benefits that were paid in respect of services or care not specified in the notice under section 21.
 	(4)	The Managing Director must give the notice to the notifiable person:
-	(a)	if the Managing Director had not given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the day on which the amount of compensation was fixed under the judgment or settlement—within 3 months after the Commission receives the notice under subsection 23(1); or
+	(a)	if the Managing Director had not given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the judgment or settlement—within 3 months after the Commission receives the notice under subsection 23(1); or
 	(b)	otherwise—within 28 days after the Commission receives the notice under subsection 23(1).
 	(5)	The Managing Director must give a copy of the notice to the compensable person.
-	(6)	A notice under section 21 is taken also to be a notice under this section given by the Managing Director to the insurer or compensation payer (as the case requires) on the day on which the amount of compensation is fixed under the judgment or settlement if:
+	(6)	A notice under section 21 is taken also to be a notice under this section given by the Managing Director to the insurer or compensation payer (as the case requires) on the day on which the judgment or settlement is made if:
 	(a)	the notice under section 21 includes statements of the kinds referred to in subsections 21(5), (6) and (7); and
-	(b)	the amount of compensation is fixed under the judgment or settlement within 6 months after the notice was given.
+	(b)	the judgment or settlement is made within 6 months after the notice was given.
 	(7)	Subject to subsections (8) and (9), if subsection (6) applies to a notice, the amount specified in the notice pursuant to paragraph 21(2)(b) is taken to be the amount set out for the purpose of subsection (2) of this section.
 	(8)	Despite subsection (7), if:
 	(a)	subsection (6) applies to a notice; and
@@ -603,7 +597,7 @@ until the amount is paid to the Commonwealth, or until the end of the 28 day per
 32  Offence to make payment before discharging liability to the Commonwealth
 	(1)	If a judgment or settlement has been made in respect of an amount of compensation, a compensation payer or insurer must not pay to the compensable person any part of the compensation before the Managing Director has issued a notice under section 24 unless:
 	(a)	the time within which the Managing Director must issue such a notice has expired; and
-	(b)	if the Managing Director had given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the the day on which an amount of compensation was fixed under the judgment or settlement—the insurer or compensation payer withholds from the compensable person an amount of compensation equal to the amount set out in the notice under paragraph 21(2)(b).
+	(b)	if the Managing Director had given a notice under section 21, in respect of the claim for compensation, during the 6 months preceding the judgment or settlement—the insurer or compensation payer withholds from the compensable person an amount of compensation equal to the amount set out in the notice under paragraph 21(2)(b).
 Penalty:	Imprisonment for 12 months.
 	(1A)	Subsection (1) does not apply if the compensation payer or insurer makes an advance payment in respect of the compensation.
 	(2)	If a compensation payer is liable under section 28 to pay an amount to the Commonwealth in respect of an amount of compensation, the compensation payer must not pay to the compensable person any part of the compensation unless:
@@ -650,7 +644,7 @@ Division 2A—Advance payments to the Commonwealth
 	(b)	if the judgment or settlement was made before that commencement—before the advance payment in question is made and, in any case, within 28 days after that commencement.
 33B  Advance payments
 	(1)	A compensation payer or insurer may make an advance payment to the Commonwealth in respect of the compensation payable under a judgment or settlement if:
-	(a)	during the 6 months preceding the day on which an amount of compensation was fixed under the judgment or settlement, a notice under section 21 had not been given; and
+	(a)	during the 6 months preceding the judgment or settlement, a notice under section 21 had not been given; and
 	(b)	a notice under section 23 has been given indicating that the compensation payer or insurer intends to make an advance payment; and
 	(c)	a notice under section 33A has been given; and
 	(d)	the amount of the compensation payable under the judgment or settlement is not less than $5,000 or such other amount as the Minister determines.
@@ -737,24 +731,24 @@ for the purposes of provisions of a kind referred to in paragraph (1)(b).
 	(1)	Subject to this section and section 37, during the period of a bulk payment agreement, Divisions 1 and 2 do not apply in relation to a claim if:
 	(a)	the notifiable person in relation to the claim has entered into the bulk payment agreement with the Commission; and
 	(b)	the notifiable person has complied with all the conditions of the bulk payment agreement.
-	(2)	This section does not affect the operation of Divisions 1 and 2 in relation to an amount of compensation fixed under a judgment or settlement, in respect of the claim, if the amount was fixed prior to the start of the period of the bulk payment agreement.
+	(2)	This section does not affect the operation of Divisions 1 and 2 in relation to a judgment or settlement that has been made, in respect of the claim, prior to the start of the period of the bulk payment agreement.
 	(3)	This section does not affect the operation of Divisions 1 and 2 in relation to a reimbursement arrangement that has been made in respect of the claim.
 36  Extended waiver—settlements during periods of bulk payment agreements
 	(1)	Subject to this section and section 37, Divisions 1 and 2 do not apply in relation to a claim for compensation if:
 	(a)	the notifiable person in relation to the claim has entered into a bulk payment agreement with the Commission; and
 	(b)	the notifiable person has complied with all the conditions of the bulk payment agreement; and
-	(c)	an amount of compensation is fixed under a judgment or settlement in respect of the claim during the period of the bulk payment agreement; and
+	(c)	a judgment or settlement is made in respect of the claim during the period of the bulk payment agreement; and
 	(d)	the judgment or settlement determines all the outstanding liability of the compensation payer in relation to the claim.
 	(2)	For the avoidance of doubt, subsection (1) applies in relation to a claim even if a reimbursement arrangement in respect of the claim has been made before, during or after the period of the bulk payment agreement.
 	(3)	For the avoidance of doubt, subsection (1) applies in relation to a judgment or settlement even if:
-	(a)	an amount of compensation was fixed under the judgment or settlement before the start of the period of the bulk payment agreement; and
+	(a)	the judgment or settlement was made before the start of the period of the bulk payment agreement; and
 	(b)	the judgment or settlement did not determine all the outstanding liability of the compensation payer in relation to the claim; and
-	(c)	during the period of the bulk payment agreement, an amount of compensation is fixed under a further judgment or settlement of a kind referred to in subsection (1).
+	(c)	during the period of the bulk payment agreement, a further judgment or settlement is made of a kind referred to in subsection (1).
 	(4)	This section does not affect the operation of Divisions 1 and 2 in relation to a judgment or settlement of a kind referred to in subsection (1) if:
-	(a)	an amount of compensation was fixed under the judgment or settlement during the period of the bulk payment agreement; and
+	(a)	the judgment or settlement was made during the period of the bulk payment agreement; and
 	(b)	at the time the judgment or settlement was made, it purported to determine all the outstanding liability of the compensation payer in relation to the claim; and
 	(c)	another judgment or settlement in respect of the claim is made after the end of the period of the bulk payment agreement.
-	(5)	This section does not affect the validity of a payment of money pursuant to a notice under section 24 or 25 if the payment occurred before the amount of compensation was fixed under the judgment or settlement referred to in subsection (1).
+	(5)	This section does not affect the validity of a payment of money pursuant to a notice under section 24 or 25 if the payment occurred before the judgment or settlement referred to in subsection (1) was made.
 37  Limits of waiver—bulk payment agreements
 	(1)	This section has effect despite:
 	(a)	subsections 8(6), 8(7), 8(8), 10(6), 10(7) and 10(8); and
@@ -815,7 +809,7 @@ authorised officer means:
 	(b)	the period within which the person is to give the information, or to produce the document; and
 	(c)	the officer of the Commission (if any) to whom the information is to be given or the document is to be produced; and
 	(d)	that the notice is given under section 42.
-	(2)	The period specified under paragraph (1)(b) must end at least 28 days after the notice is given.
+	(2)	The period specified under paragraph (1)(b) must end at least 28 days after the notice is given.
 	(3)	The notice may require the person to give the information by appearing before a specified officer of the Commission to answer questions.
 	(4)	If the notice requires the person to appear before an officer, the notice must specify a time and a place for the person to appear. The time must be at least 28 days after the notice is given.
 	(5)	A reference in this section to an officer of the Commission includes a reference to a person to whom the Commission or the Secretary has delegated powers under section 41.
@@ -850,7 +844,7 @@ Note:	For document, see section 25 of the Acts Interpretation Act 1901.
 Notes to the Health and Other Services (Compensation) Act 1995
 Note 1
 The Health and Other Services (Compensation) Act 1995 as shown in this compilation comprises Act No. 130, 1995 amended as indicated in the Tables below.
-For all relevant information pertaining to application, saving or transitional provisions see Table A. 
+For all relevant information pertaining to application, saving or transitional provisions see Table A. 
 Table of Acts
 Act
 Number  and year
@@ -860,7 +854,7 @@ Application, saving or transitional provisions
 Health and Other Services (Compensation) Act 1995
 130, 1995
 14 Nov 1995
-1 Feb 1996 (see Gazette 1996, No. GN2)
+1 Feb 1996 (see Gazette 1996, No. GN2)
 
 Health and Other Services (Compensation) Amendment Act 1996
 33, 1996
@@ -880,44 +874,39 @@ S. 4
 Health and Other Services (Compensation) Legislation Amendment Act 2001
 150, 2001
 1 Oct 2001
-Schedule 1: 1 Jan 2002 (see Gazette 2001, No. GN49) (c) Schedule 3 (items 3–7): (c)
-Sch. 1 (items 42, 43)
-Health Legislation Amendment Act (No. 1) 2003
-84, 2003
-23 Sept 2003
-Ss. 1–3 and Schedule 1: Royal Assent
-Sch. 1 (item 39)
+Schedule 1: 1 Jan 2002 (see Gazette 2001, No. GN49) (c) Schedule 3 (items 3–7): (c)
+Sch. 1 (items 42, 43)
 (a)	Subsection 2(2) of the Health and Other Services (Compensation) Amendment Act 1996 provides as follows:
 	(2)	Item 4 of Schedule 1 is taken to have commenced immediately after the commencement of the Health and Other Services (Compensation) Act 1995.
 	The Health and Other Services (Compensation) Act 1995 came into operation on 1 February 1996 (see Gazette 1996, No. GN2). 
 (b)	The Health and Other Services (Compensation) Act 1995 was amended by Schedule 5 (items 4–28) only of the Aged Care (Consequential Provisions) Act 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences immediately after the commencement of the Aged Care Act 1997 (other than Division 1 of that Act).
 	The Aged Care Act 1997 (other than Division 1 of Chapter 1) commenced on 1 October 1997 (see Gazette 1997, No. GN37).
-(c)	The Health and Other Services (Compensation) Act 1995 was amended by Schedule 1 and Schedule 3 (items 3–7) only of the Health and Other Services (Compensation) Legislation Amendment Act 2001, subsections 2(1) and (4)(a) of which provide as follows:
+(c)	The Health and Other Services (Compensation) Act 1995 was amended by Schedule 1 and Schedule 3 (items 3–7) only of the Health and Other Services (Compensation) Legislation Amendment Act 2001, subsections 2(1) and (4)(a) of which provide as follows:
 	(1)	Subject to subsections (2), (3), (4) and (5), this Act commences on a day to be fixed by Proclamation.
 	(4)	Subject to subsection (5), Schedule 3 commences at the later of:
 	(a)	the time when Parts 4 to 10 of the Administrative Review Tribunal Act 2001 commence; and
-	Schedule 1 (item 21) does not commence.
+	Schedule 1 (item 21) does not commence.
 	The Administrative Review Tribunal Bill has not been enacted. Therefore these amendments do not commence.
 Table of Amendments
 ad. = added or inserted     am. = amended     rep. = repealed     rs. = repealed and substituted
 Provision affected
 How affected
-Part 1
+Part 1
 
 S. 3	
-am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003
+am. No. 33, 1996; No. 114, 1997; No. 150, 2001
 S. 4	
-am. No. 114, 1997; No. 150, 2001
+am. No. 114, 1997; No. 150, 2001
 S. 6A	
 ad. No. 111, 2001
-Part 2
+Part 2
 
-Division 1
+Division 1
 
 S. 8	
-am. No. 150, 2001; No. 84, 2003
-Division 2
+am. No. 150, 2001
+Division 2
 
 Heading to Div. 2 of Part 2	
 rs. No. 114, 1997
@@ -928,106 +917,98 @@ am. No. 114, 1997
 Heading to s. 10	
 am. No. 114, 1997
 S. 10	
-am. No. 114, 1997; No. 150, 2001; No. 84, 2003
-Part 3
+am. No. 114, 1997; No. 150, 2001
+Part 3
 
-Division 1
+Division 1
 
 S. 11	
-rs. No. 150, 2001
+rs. No. 150, 2001
 S. 12	
 am. No. 33, 1996
 
-rep. No. 150, 2001
+rep. No. 150, 2001
 S. 13	
 am. No. 33, 1996
 
-rs. No. 150, 2001
+rs. No. 150, 2001
 Ss. 15, 16	
-rep. No. 150, 2001
+rep. No. 150, 2001
 S. 17	
-am. No. 114, 1997; No. 150, 2001
+am. No. 114, 1997; No. 150, 2001
 Note to s. 17(1)	
-ad. No. 150, 2001
+ad. No. 150, 2001
 S. 18	
-am. No. 33, 1996; No. 150, 2001; No. 84, 2003
+am. No. 33, 1996; No. 150, 2001
 S. 21	
-am. No. 114, 1997; No. 150, 2001; No. 84, 2003
+am. No. 114, 1997; No. 150, 2001
 S. 22	
-am. No. 150, 2001; No. 84, 2003
+am. No. 150, 2001
 Note to s. 22(1)	
-rep. No. 150, 2001
+rep. No. 150, 2001
 S. 23	
-am. No. 33, 1996; No. 114, 1997; No. 84, 2003
-S. 23A	
-ad. No. 150, 2001
-
-am. No. 84, 2003
-Ss. 23B–23D	
-ad. No. 150, 2001
+am. No. 33, 1996; No. 114, 1997
+Ss. 23A–23D	
+ad. No. 150, 2001
 S. 24	
-am. No. 33, 1996; No. 114, 1997; No. 150, 2001; No. 84, 2003
+am. No. 33, 1996; No. 114, 1997; No. 150, 2001
 S. 26	
-am. Nos. 111 and 150, 2001
-Division 2
+am. Nos. 111 and 150, 2001
+Division 2
 
 S. 29	
-am. No. 150, 2001
+am. No. 150, 2001
 S. 32	
-am. No. 33, 1996; No. 150, 2001; No. 84, 2003
-Division 2A
+am. No. 33, 1996; No. 150, 2001
+Division 2A
 
 Div. 2A of Part 3 	
 ad. No. 33, 1996
 S. 33AA	
-ad. No. 150, 2001
+ad. No. 150, 2001
 S. 33A	
 ad. No. 33, 1996
-S. 33B	
+Ss. 33B–33D	
 ad. No. 33, 1996
 
-am. No. 150, 2001; No. 84, 2003
-Ss. 33C, 33D	
+am. No. 150, 2001
+Ss. 33A–33D	
 ad. No. 33, 1996
-
-am. No. 150, 2001
 S. 33E	
 ad. No. 33, 1996
 
 am. No. 114, 1997
 
-rep. No. 150, 2001
+rep. No. 150, 2001
 Ss. 33F, 33G	
 ad. No. 33, 1996
 
-rep. No. 150, 2001
+rep. No. 150, 2001
 Ss. 33H–33M	
 ad. No. 33, 1996
-Division 3
+Division 3
 
 S. 35	
-am. No. 150, 2001; No. 84, 2003
-S. 36	
-am. No. 84, 2003
+am. No. 150, 2001
 S. 38	
-am. No. 150, 2001
-Part 4
+am. No. 150, 2001
+Part 4
 
-Division 2
+Division 2
 
 S. 42	
-am. No. 114, 1997; No. 150, 2001
+am. No. 114, 1997; No. 150, 2001
 S. 44	
 am. No. 111, 2001
 Table A
 Application, saving or transitional provisions
-Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001 (No. 111, 2001)
+Health and Aged Care Legislation Amendment (Application of Criminal Code) Act 2001 (No. 111, 2001)
 4  Application of amendments
 	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-Health and Other Services (Compensation) Legislation Amendment Act 2001  (No. 150, 2001)
-Schedule 1
+Health and Other Services (Compensation) Legislation Amendment Act 2001  (No. 150, 2001)
+Schedule 1
 42  Application
 The amendments made by this Schedule apply to a claim for compensation made:
 	(a)	after the commencement of this item; or
@@ -1037,9 +1018,4 @@ The amendments made by this Schedule apply to a claim for compensation made:
 (2)	In this item:
 new provisions means sections 23B, 23C and 23D of the Health and Other Services (Compensation) Act 1995 (as amended by this Schedule).
 old provisions means sections 33E, 33F and 33G of the Health and Other Services (Compensation) Act 1995 (as in force before the commencement of this item).
-
-Health Legislation Amendment Act (No. 1) 2003 (No. 84, 2003)
-Schedule 1
-39  Application
-The amendments made by this Part apply in relation to an amount of compensation fixed by a judgment or settlement if the judgment or settlement is made after the day this item commences.
 
