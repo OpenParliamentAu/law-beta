@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00336/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00567/Html/FinanSectBusTransGrpResAct99WD02_image001.gif)
 
 # Financial Sector (Business Transfer and Group Restructure) Act 1999
 
 **Act No. 45 of 1999 as amended**
 
-This compilation was prepared on 16 July 2009
- taking into account amendments up to Act No. 54 of 2009
+This compilation was prepared on 27 October 2008
+ taking into account amendments up to Act No. 105 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1546,7 +1546,7 @@ Note:          For the effect of a certificate of transfer, se
 
              (6)  Subject to subsection (9A), nothing in this Act limits the operation of any of the provisions of the _Trade Practices Act 1974_.
 
-             (7)  Nothing in this Act limits the operation of any of the provisions of the _Fair Work Act 2009_, the _Fair Work (Registered Organisations) Act 2009_, or the _Fair Work (Transitional Provisions and Consequential Amendments) Act 2009_.
+             (7)  Nothing in this Act limits the operation of any of the provisions of the _Workplace Relations Act 1996_.
 
              (8)  Nothing in this Act limits the operation of section 63 of the _Banking Act 1959_.
 
@@ -1827,23 +1827,6 @@ Royal Assent</div>
   <td>
     <div>Sch. 5 (item 19)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Fair Work (State Referral and Consequential and Other Amendments) Act 2009</div>
-  </td>
-  <td>
-    <div>54, 2009</div>
-  </td>
-  <td>
-    <div>25 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 18 (item 4): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ was amended by Schedule 3 (items 192–194) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
@@ -1932,62 +1915,6 @@ _(b)_ The _Financial Sector (Business Transfer and Group Restructure) Act 1999_ 
   <td>
     <div>
       27 June 2002
-    </div>
-  </td>
-</tr></table>
-
-_(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      41\. Schedule 18
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of Part 2-4 of the
-        <i>Fair Work Act 2009</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2009 (
-        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -2332,7 +2259,7 @@ _(c)_     Subsection 2(1) (item 41) of the _Fair Work (State Referral 
     <div>S. 43</div>
   </td>
   <td>
-    <div>am. No. 117, 2007; No. 105, 2008; No. 54, 2009</div>
+    <div>am. No. 117, 2007; No. 105, 2008</div>
   </td>
 </tr>
 <tr>
