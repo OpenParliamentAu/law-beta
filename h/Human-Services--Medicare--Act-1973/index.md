@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00293/Html/MedicareAustraliaAct1973_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00265/Html/MedicareAustraliaAct1973_WD02_image001.gif)
 
 # Medicare Australia Act 1973
 
 **Act No. 41 of 1974 as amended**
 
-This compilation was prepared on 19 April 2010
- taking into account amendments up to Act No. 29 of 2010
+This compilation was prepared on 4 July 2008
+ taking into account amendments up to Act No. 42 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -259,7 +259,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="warrant-premis"></a>**_warrant premises_** means premises in relation to which a warrant under Division 4 of Part IID is in force.
 
-##### <a id="3A"></a>3A  Definitions of relevant offence
+##### <a id="3A"></a>3A  Definitions of relevant offence
 
              (1)  For the purposes of this Act other than Divisions 2 and 3 of Part IID, a relevant offence is:
 
@@ -933,7 +933,7 @@ the court is to assume, unless the contrary is proved, that the entry, search, s
 
 ##### <a id="8ZC"></a>8ZC  Availability of assistance and use of force in executing a warrant
 
-                   In executing a warrant:
+                   In executing a warrant:
 
                      (a)  the authorised officer may obtain such assistance; and
 
@@ -1694,7 +1694,7 @@ Remainder: Royal Assent</div>
     <div>11 Nov 1992</div>
   </td>
   <td>
-    <div>Ss. 38, 39(a), 41, 43, 44(d) and 49: 12 May 1954 ( <i>see</i>s. 2(2) and <i>Gazette</i>1954, p. 1179) 
+    <div>Ss. 38, 39(a), 41, 43, 44(d) and 49: 12 May 1954 ( <i>see</i>s. 2(2) and <i>Gazette</i>1954, p. 1179) 
 S. 40: 1 July 1992 
 Ss. 46 and 47: 18 Dec 1990 
 Remainder: Royal Assent</div>
@@ -2377,23 +2377,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 1 (items 6–17): 26 June 2008 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Legislation Amendment (Midwives and Nurse Practitioners) Act 2010</div>
-  </td>
-  <td>
-    <div>29, 2010</div>
-  </td>
-  <td>
-    <div>12 Apr 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 9–18): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -5086,70 +5069,6 @@ Part IID</div>
   <td></td>
   <td></td>
 </tr></table>
-
-### Note 2
-
-_Health Legislation Amendment (Midwives and Nurse Practitioners) Act 2010 (No. 29, 2010)_
-
-The following amendments commence on 1 July 2010:
-
-## Schedule 2
-
-## 9  After paragraph 3A(1)(bc)
-
-Insert:
-
-                    (bd)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
-
-## 10  Paragraph 3A(1)(c)
-
-Omit “or (bc)”, substitute “, (bc) or (bd)”.
-
-## 11  After paragraph 3A(2)(bb)
-
-Insert:
-
-                    (bc)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
-
-## 12  Paragraph 3A(2)(c)
-
-Omit “section 6, 7 or 7A or paragraph 86(1)(a) of the _Crimes Act 1914_”, substitute “section 6 of the _Crimes Act 1914_, or section 11.1, 11.4 or 11.5 of the _Criminal Code_,”.
-
-## 13  Paragraph 3A(2)(c)
-
-Omit “or (bb)”, substitute “, (bb) or (bc)”.
-
-## 14  At the end of paragraph 3A(2)(d)
-
-Add:
-
-                      ; or (iii)  a Commonwealth contribution (within the meaning of the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_).
-
-## 15  After paragraph 3A(2A)(cb)
-
-Insert:
-
-                    (cc)  an offence against the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_; or
-
-## 16  Paragraph 3A(2A)(d)
-
-Omit “or (cb)”, substitute “, (cb) or (cc)”.
-
-## 17  At the end of paragraph 3A(2A)(e)
-
-Add:
-
-                      ; or (iii)  a Commonwealth contribution (within the meaning of the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_).
-
-## 18  At the end of subsection 42(2)
-
-Add:
-
-                     (d)  the _Midwife Professional Indemnity (Commonwealth Contribution) Scheme Act 2010_;
-
-                     (e)  the _Midwife Professional Indemnity (Run-off Cover Support Payment) Act 2010_.
-
-As at 19 April 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
