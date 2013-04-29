@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00579/Html/26b110fb-849b-4e23-8c21-4a1e6f4ba52b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00441/Html/8563e811-dc01-4662-a358-e3e4ae4f0b6c_files/image001.gif)
 
 # Australian Human Rights Commission Act 1986
 
 **Act No. 125 of 1986 as amended**
 
-This compilation was prepared on 29 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 21 June 2011
+ taking into account amendments up to Act No. 40 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -289,8 +289,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (d)  partly within a Territory, to the extent to which the act was done within a Territory.
 
                     <a name="affected-person"></a>**_affected person_**, in relation to a complaint, means a person on whose behalf the complaint was lodged.
-
-                    <a name="ag-discrimin-commission"></a>**_Age Discrimination Commissioner_** means the Age Discrimination Commissioner appointed under the _Age Discrimination Act 2004_.
 
                     <a name="alleged-unlaw-discrimin"></a>**_alleged unlawful discrimination_** means:
 
@@ -602,9 +600,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     (ca)  the Aboriginal and Torres Strait Islander Social Justice Commissioner; and
 
-                     (d)  the Sex Discrimination Commissioner; and
-
-                     (e)  the Age Discrimination Commissioner; and
+                     (d)  the Sex Discrimination Commissioner; and and
 
                       (f)  the Disability Discrimination Commissioner.
 
@@ -612,7 +608,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (6)  The functions of the Commission under paragraphs 11(1)(aa), 11(1)(ab), 11(1)(f) and 31(b) and the functions of the Commission under paragraphs 11(1)(p) and 31(k), to the extent that they relate to the performance of the first‑mentioned functions, shall be performed by the President, and a reference in this Act to the Commission or to a member of the Commission shall, in relation to the performance of any of those functions, be read as a reference to the President.
 
-             (7)  The performance of the functions or the exercise of the powers of the Commission is not affected by reason only of a vacancy in the office of President, Human Rights Commissioner, Race Discrimination Commissioner, Aboriginal and Torres Strait Islander Social Justice Commissioner, Sex Discrimination Commissioner, Age Discrimination Commissioner or Disability Discrimination Commissioner.
+             (7)  The performance of the functions or the exercise of the powers of the Commission is not affected by reason only of a vacancy in the office of President, Human Rights Commissioner, Race Discrimination Commissioner, Aboriginal and Torres Strait Islander Social Justice Commissioner, Sex Discrimination Commissioner or Disability Discrimination Commissioner.
 
 ##### <a id="8A"></a>8A  The President
 
@@ -734,7 +730,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                             (iv)  has made or proposes to make a submission;
 
-                            to the Commission or to a person acting for or on behalf of the Commission;
+                            to the Commission or to a person acting for or on behalf of the Commission;
 
 is necessary to protect the security of employment, the privacy or any human right of the person, the Commission may give directions prohibiting the disclosure of the identity of the person.
 
@@ -1482,13 +1478,13 @@ the Governor‑General shall terminate the appointment of that member.
 
                      (a)  to submit a report to the Minister, as soon as practicable after 30 June in each year, regarding the enjoyment and exercise of human rights by Aboriginal persons and Torres Strait Islanders, and including recommendations as to the action that should be taken to ensure the enjoyment and exercise of human rights by those persons;
 
+Note:          Functions are also conferred on the Commission under section 209 of the _Native Title Act 1993_.
+
                      (b)  to promote discussion and awareness of human rights in relation to Aboriginal persons and Torres Strait Islanders;
 
                      (c)  to undertake research and educational programs, and other programs, for the purpose of promoting respect for the human rights of Aboriginal persons and Torres Strait Islanders and promoting the enjoyment and exercise of human rights by Aboriginal persons and Torres Strait Islanders;
 
                      (d)  to examine enactments, and proposed enactments, for the purpose of ascertaining whether they recognise and protect the human rights of Aboriginal persons and Torres Strait Islanders, and to report to the Minister the results of any such examination.
-
-Note:          Functions are also conferred on the Commission under section 209 of the _Native Title Act 1993_.
 
              (2)  The functions of the Commission under subsection (1) are to be performed by the Commissioner on behalf of the Commission.
 
@@ -2004,9 +2000,7 @@ the Attorney‑General may authorise the provision by the Commonwealth to that p
 
                      (d)  the Race Discrimination Commissioner; and
 
-                     (e)  the Sex Discrimination Commissioner; and
-
-                      (f)  the Age Discrimination Commissioner.
+                     (e)  the Sex Discrimination Commissioner.
 
 ## Part IIC—Referral of discriminatory awards and determinations to other bodies
 
@@ -3649,7 +3643,8 @@ Schedule 2 (items 22–25): <i>(k)</i></div>
     <div>4 Nov 2005</div>
   </td>
   <td>
-    <div>Schedule 8 (items 13,14): 2 Dec 2005</div>
+    <div>Schedules 1–8: 2 Dec 2005 
+Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
@@ -3770,7 +3765,7 @@ Schedule 2 (items 22–25): <i>(k)</i></div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (items 7–9): 19 Apr 2011</div>
+    <div>Schedule 6 (items 7–9): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -3790,30 +3785,10 @@ Schedule 2 (items 22–25): <i>(k)</i></div>
     <div>20 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 7–10, 14): 29 July 2011 ( <i>see</i>F2011L01552)</div>
+    <div>Schedule 2 (items 7–10, 14): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 14) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 163–167) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr height="0">
@@ -4235,7 +4210,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 119, 1988; No. 115, 1990; Nos. 132 and 180, 1992; Nos. 133 and 194, 1999; No. 105, 2002; No. 40, 2004; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; No. 51, 2010; Nos. 5 and 40, 2011</div>
+    <div>am. No. 119, 1988; No. 115, 1990; Nos. 132 and 180, 1992; Nos. 133 and 194, 1999; No. 105, 2002; No. 40, 2004; SLI 2006 No. 50; No. 54, 2009; No. 70, 2009; No. 51, 2010; No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -4307,7 +4282,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 119, 1988; Nos. 132 and 180, 1992; No. 59, 1995; No. 133, 1999; No. 2, 2000; No. 40, 2011</div>
+    <div>am. No. 119, 1988; Nos. 132 and 180, 1992; No. 59, 1995; No. 133, 1999; No. 2, 2000</div>
   </td>
 </tr>
 <tr>
@@ -5051,7 +5026,7 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
     <div></div>
   </td>
   <td>
-    <div>am. No. 194, 1999; No. 40, 2011</div>
+    <div>am. No. 194, 1999</div>
   </td>
 </tr>
 <tr>
@@ -5209,37 +5184,38 @@ _(m)_    Subsection 2(1) (item 7) of the _Freedom of Information Amendme
 
 ### Note 2
 
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
+_Sex and Age Discrimination Legislation Amendment Act 2011
+ (No. 40, 2011)_
 
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
+The following amendments commence on 20 December 2011 unless proclaimed earlier:
 
 ## Schedule 2
 
-## 163  At the end of subsections 36(2) and (3)
+## 7  Subsection 3(1)
+
+Insert:
+
+                    <a name="ag-discrimin-commission"></a>**_Age Discrimination Commissioner_** means the Age Discrimination Commissioner appointed under the _Age Discrimination Act 2004_.
+
+## 8  Paragraph 8(1)(d)
+
+Repeal the paragraph, substitute:
+
+                     (d)  the Sex Discrimination Commissioner; and
+
+                     (e)  the Age Discrimination Commissioner; and
+
+## 9  Subsection 8(7)
+
+After “Sex Discrimination Commissioner”, insert “, Age Discrimination Commissioner”.
+
+## 10  At the end of subsection 46PV(3)
 
 Add:
 
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
+             ; and (f)  the Age Discrimination Commissioner.
 
-## 164  Subsection 36(10)
-
-Repeal the subsection.
-
-## 165  Subsection 46J(1)
-
-Omit “(1)”.
-
-## 166  At the end of subsection 46J(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 167  Subsection 46J(2)
-
-Repeal the subsection.
-
-As at 29 July 2011 the amendments are not incorporated in this compilation.
+As at 21 June 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -5451,7 +5427,7 @@ Note:          The President is required to give a notice of t
 
              (4)  The President is not required to notify any person under section 46PH of the new HREOCA.
 
-##### <a id="15"></a>15  Work done by Commissioner is taken to have been done by President
+##### <a id="15"></a>15  Work done by Commissioner is taken to have been done by President
 
                    Any thing done, or information obtained, by the appropriate Commissioner in relation to a complaint that is referred to the President under section 8 is taken to have been done or obtained by the President.
 
@@ -5600,6 +5576,8 @@ To avoid doubt, the Commission’s right to sue is not affected by the amendment
 _Sex and Age Discrimination Legislation Amendment Act 2011 
  (No. 40, 2011)_
 
+The following provision commences on 20 December 2011 unless proclaimed earlier:
+
 ## Schedule 2
 
 ## 14  Amendment made by item 10
@@ -5609,21 +5587,5 @@ The amendment made by item 10 applies in relation to proceedings:
                      (a)  that commence on or after the commencement of that item; or
 
                      (b)  that commenced before the commencement of that item, and that had not been completed by that commencement.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
