@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image001.gif)
 
 # Aboriginal and Torres Strait Islander Act 2005
 
 **Act No. 150 of 1989 as amended**
 
-This compilation was prepared on 7 July 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 30 March 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1126,7 +1126,7 @@ is a purpose for which the TSRA could, in the performance of its functions, make
 
              (3)  A guarantee is subject to such terms and conditions as the TSRA determines.
 
-##### <a id="142GA"></a>142GA  TSRA may make grants and loans to Queensland government etc.
+##### <a id="142GA"></a>142GA  TSRA may make grants and loans to Queensland government etc.
 
              (1)  The TSRA may make a grant of money to:
 
@@ -1912,7 +1912,7 @@ Statement to be laid before Parliament if Chairperson removed from office
 
                      (b)  under section 143R, he or she is taken to have resigned from the TSRA.
 
-##### <a id="144B"></a>144B  Suspension and removal from office of Deputy Chairperson
+##### <a id="144B"></a>144B  Suspension and removal from office of Deputy Chairperson
 
 Minister may suspend Deputy Chairperson
 
@@ -2960,7 +2960,7 @@ to be made available to Indigenous Business Australia.
 
 ##### <a id="179"></a>179  Capital of Indigenous Business Australia
 
-                   The capital of Indigenous Business Australia consists of:
+                   The capital of Indigenous Business Australia consists of:
 
                      (a)  amounts paid under section 208 of this Act as previously in force to the body that was previously known as the Aboriginal and Torres Strait Islander Commercial Development Corporation and is now known as Indigenous Business Australia; and
 
@@ -3064,7 +3064,7 @@ is taken to be first financial year for which Indigenous Business Australia must
 
                      (b)  money in the New Housing Fund.
 
-##### <a id="184"></a>184  Limit on Indigenous Business Australia’s powers
+##### <a id="184"></a>184  Limit on Indigenous Business Australia’s powers
 
              (1)  Indigenous Business Australia shall not borrow money except in accordance with section 183.
 
@@ -4204,7 +4204,7 @@ Note:          The Account was established by subsection 5(3) 
 
              (1)  The **_indexation factor_** for a financial year is worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image002.gif)
 
 where:
 
@@ -4234,7 +4234,7 @@ Later financial years
 
              (2)  On the first business day in October in a financial year beginning on or after 1 July 2011, there is to be paid to the Indigenous Land Corporation, out of the Land Account, the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image003.gif)
 
 where:
 
@@ -4368,7 +4368,7 @@ Borrowing limit
 
              (3)  For the purposes of this section, the **_borrowing limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image004.gif)
 
 where:
 
@@ -4418,7 +4418,7 @@ Guarantee limit
 
              (2)  For the purposes of this section, the **_guarantee limit_** for a financial year is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00510/Html/cf30d4dc-8946-4f70-b318-e5e0703aece1_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00161/Html/0bf7f68b-8487-431b-a621-8cdd8c40a287_files/image005.gif)
 
 where:
 
@@ -5071,6 +5071,8 @@ as if:
                             is lodged with the Registrar‑General, Registrar of Titles or other proper officer of the State or Territory in which the land is situated;
 
 the officer with whom the certificate is lodged may deal with and give effect to the certificate as if it were a grant, conveyance, memorandum or instrument of transfer of the estate or interest to the new Commission or Indigenous Business Australia, as the case may be, duly executed under the laws in force in that state or Territory.
+
+ 
 
 # Schedule 2—Method of counting votes and determining successful candidates at elections for 2 or more members for a TSRA ward
 
@@ -6190,23 +6192,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–25) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -13312,136 +13297,6 @@ Schedule 2A</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1  At the end of subsection 143M(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 2  Subsection 143M(5)
-
-Repeal the subsection.
-
-## 3  Subsection 144F(4)
-
-Omit “paragraphs 34AB(a)”, substitute “paragraphs 34AB(1)(a)”.
-
-## 4  Subsection 144F(5)
-
-Omit “paragraphs 34AB(c)”, substitute “paragraphs 34AB(1)(c)”.
-
-## 5  Subsection 144L(1)
-
-Omit “(1)”.
-
-## 6  At the end of subsection 144L(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 7  Subsection 144L(2)
-
-Repeal the subsection.
-
-## 8  Subsection 144ZP(1)
-
-Omit “(1)”.
-
-## 9  At the end of subsection 144ZP(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 10  Subsection 144ZP(2)
-
-Repeal the subsection.
-
-## 11  At the end of subsection 162(1)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Indigenous Business Australia Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 12  At the end of subsections 162(2) and (3)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 13  Subsection 162(5)
-
-Repeal the subsection.
-
-## 14  Subsection 172(1)
-
-Omit “(1)”.
-
-## 15  At the end of subsection 172(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 16  Subsection 172(2)
-
-Repeal the subsection.
-
-## 17  Subsection 190(3)
-
-Omit “paragraphs 34AB(a)”, substitute “paragraphs 34AB(1)(a)”.
-
-## 18  Subsection 190(4)
-
-Omit “paragraphs 34AB(c)”, substitute “paragraphs 34AB(1)(c)”.
-
-## 19  At the end of subsection 192E(1)
-
-Add:
-
-Note:          For rules that apply to persons acting as the Indigenous Land Corporation Chairperson, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 20  At the end of subsections 192E(2) and (3)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 21  Subsection 192E(5)
-
-Repeal the subsection.
-
-## 22  Subsection 192P(1)
-
-Omit “(1)”.
-
-_Note:       The heading to subsection 192P(1) is deleted._
-
-## 23  At the end of subsection 192P(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 24  Subsection 192P(2)
-
-Repeal the subsection.
-
-## 25  Subsection 200C(2) (note 1)
-
-Omit “section 17AA”, substitute “section 2B”.
-
-As at 7 July 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -15090,7 +14945,7 @@ is taken, on and after that day, to be an interest of the Indigenous Land Corpor
 
 Despite the repeal of subsection 128(12) of the ATSIC Act, the model rules formulated by the Commission under that subsection and in force immediately before ATSIC abolition day have effect, on and after that day, as if they were model rules formulated by the Registrar of Aboriginal Corporations under subsection 128(12) of the _Aboriginal and Torres Strait Islander Act 2005_.
 
-## 203  Transitional provision—Suspension of Regional Councillors before ATSIC abolition day
+## 203  Transitional provision—Suspension of Regional Councillors before ATSIC abolition day
 
 If, before ATSIC abolition day:
 
@@ -15446,21 +15301,5 @@ _Social Security and Indigenous Legislation Amendment (Budget and Other Measures
 (1)       Despite the amendments made by items 10 and 11, section 193I of the _Aboriginal and Torres Strait Islander Act 2005_, as in force immediately before the commencement of those items, continues to apply in relation to the financial year ending on 30 June 2010.
 
 (2)       For the purposes of working out the borrowing limit under section 193L, and the guarantee limit under section 193N, of the _Aboriginal and Torres Strait Islander Act 2005_ for the financial year beginning on 1 July 2010, the borrowing limit and the guarantee limit for the financial year beginning on 1 July 2009 is $294,170,517.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
