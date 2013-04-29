@@ -1,17 +1,16 @@
-![](http://www.comlaw.gov.au/Details/C2011C00899/Html/5d49d14b-2315-4215-a047-02e49a092d12_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00332/Html/94abea9e-81d3-434f-a384-87745f141410_files/image001.gif)
 
 # A New Tax System (Australian Business Number) Act 1999
 
 **Act No. 84 of 1999 as amended**
 
-This compilation was prepared on 11 November 2011
- taking into account amendments up to Act No. 127 of 2011
+This compilation was prepared on 19 April 2011
+ taking into account amendments up to Act No. 5 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
  Attorney‑General’s Department, Canberra
@@ -1249,7 +1248,7 @@ The _A New Tax System (Australian Business Number) Act 1999_ as shown in this co
 
 For application, saving or transitional provisions made by the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, _see_ Act No. 55, 2001.
 
-For all other relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1449,7 +1448,8 @@ Schedule 4C: 1 July 2000 <i>(f)</i></div>
     <div>30 June 2000</div>
   </td>
   <td>
-    <div>Schedule 7 (items 1–3) and Schedule 11 (items 1, 2, 2A, 2B): <i>(g)</i></div>
+    <div>Schedule 7 (items 1–3) and Schedule 11 (items 1, 2): <i>(g)</i> 
+Schedule 11 (items 2A, 2B) <i>(g)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1557,8 +1557,7 @@ Schedule 10 (items 1–3): 1 July 2005</div>
     <div>Schedule 1 (items 1, 2), Schedule 2 (items 5–8) and Schedule 6 (items 1, 6–11): Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 6 (items 1, 
-6–11)</div>
+    <div>Sch. 6 (items 1, 6–11)</div>
   </td>
 </tr>
 <tr>
@@ -1665,24 +1664,6 @@ Schedule 5 (items 283–287): Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Names Registration (Transitional and Consequential Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>127, 2011</div>
-  </td>
-  <td>
-    <div>3 Nov 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 1): \[ <i>see</i>s. 2(1) and Note 2] 
-Schedule 2 (item 27): \[ <i>see</i>s. 2(1) and Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 1 (items 92–94) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
@@ -1717,7 +1698,7 @@ _(d)_     The _A New Tax System (Australian Business Number) Act 1999_ w
 
                               (e)   items 16 and 20 of Schedule 18.
 
-_(e)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 3 only of the _Diesel and Alternative Fuels Grants Scheme (Administration and Compliance) Act 1999_, subsection 2(3) of which provides as follows:
+_(e)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 3 only of the _Diesel and Alternative Fuels Grants Scheme (Administration and Compliance) Act 1999,_ subsection 2(3) of which provides as follows:
 
                  (3)   The remaining provisions of this Act commence on the day after the day on which this Act receives the Royal Assent.
 
@@ -1729,7 +1710,7 @@ _(f)_      The _A New Tax System (Australian Business Number) Act 1999
 
          Section 1‑1 of the _A New Tax System (Goods and Services Tax) Act 1999_ commenced on 1 July 2000.
 
-_(g)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 7 (items 1–3) and Schedule 11 (items 1, 2, 2A and 2B) only of the _Indirect Tax Legislation Amendment Act 2000_, subsections 2(1) and (5) of which provide as follows:
+_(g)_     The _A New Tax System (Australian Business Number) Act 1999_ was amended by Schedule 7 (items 1–3) and Schedule 11 (items 1, 2, 2A and 2B) only of the _Indirect Tax Legislation Amendment Act 2000_, subsections 3(1) and (5) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences immediately after the commencement of Part 1 of Schedule 1 to the _A New Tax System (Indirect Tax and Consequential Amendments) Act (No. 2) 1999_.
 
@@ -1785,7 +1766,7 @@ _(h)_ The _A New Tax System (Australian Business Number) Act 1999_ was amended b
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 3(1)</div>
+    <div>Subhead to s. 3(1)</div>
   </td>
   <td colspan="2">
     <div>ad. No. 42, 2009</div>
@@ -1793,7 +1774,7 @@ _(h)_ The _A New Tax System (Australian Business Number) Act 1999_ was amended b
 </tr>
 <tr>
   <td>
-    <div>Subhead. to s. 3(3)</div>
+    <div>Subhead to s. 3(3)</div>
   </td>
   <td colspan="2">
     <div>ad. No. 42, 2009</div>
@@ -1836,7 +1817,7 @@ _(h)_ The _A New Tax System (Australian Business Number) Act 1999_ was amended b
     <div>S. 5</div>
   </td>
   <td colspan="2">
-    <div>am. No. 177, 1999; No. 92, 2000; No. 154, 2007</div>
+    <div>am. No 177, 1999; No. 92, 2000; No. 154, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1996,15 +1977,7 @@ _(h)_ The _A New Tax System (Australian Business Number) Act 1999_ was amended b
     <div>S. 14</div>
   </td>
   <td colspan="2">
-    <div>am. No. 42, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 14(1)</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 179, 1999</div>
+    <div>am. No. 179, 1999; No. 42, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2259,7 +2232,7 @@ No. 42, 2009</div>
 </tr>
 <tr>
   <td>
-    <div>Note to s. 25 
+    <div>Note to s. 25(2) 
 Renumbered Note 1</div>
   </td>
   <td colspan="2">
@@ -2269,7 +2242,7 @@ No. 95, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note 1 to s. 25</div>
+    <div>Note 1 to s. 25(2)</div>
   </td>
   <td colspan="2">
     <div>am. No. 88, 2009</div>
@@ -2277,7 +2250,7 @@ No. 95, 2004</div>
 </tr>
 <tr>
   <td>
-    <div>Note 2 to s. 25</div>
+    <div>Note 2 to s. 25(2)</div>
   </td>
   <td colspan="2">
     <div>ad. No. 95, 2004</div>
@@ -2448,7 +2421,7 @@ No. 95, 2004</div>
     <div>S. 40</div>
   </td>
   <td colspan="2">
-    <div>rep. No. 101, 2006</div>
+    <div>rep No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -2472,36 +2445,6 @@ No. 95, 2004</div>
   <td></td>
   <td></td>
 </tr></table>
-
-### Note 2
-
-_Business Names Registration (Transitional and Consequential Provisions) Act 2011 (No. 127, 2011)_
-
-The following amendment commences at the same time as section 3 of the _Business Names Registration Act 2011_:
-
-## Schedule 2
-
-## 1  Paragraph 26(3)(d)
-
-Repeal the paragraph, substitute:
-
-                     (d)  either:
-
-                              (i)  any business name registered to the entity on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_; or
-
-                             (ii)  if a business name is not registered to the entity—a name used for business purposes by the entity that appeared in the entry relating to the entity in the * Australian Business Register immediately before Part 2 of the _Business Names Registration Act 2011_ commences;
-
-The following amendment commences on the first anniversary of the commencement of Part 2 of the _Business Names Registration Act 2011_:
-
-## Schedule 2
-
-## 27  Paragraph 26(3)(d)
-
-Repeal the paragraph, substitute:
-
-                     (d)  any business name registered to the entity on the Business Names Register established and maintained under section 22 of the _Business Names Registration Act 2011_;
-
-As at 11 November 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
