@@ -1,394 +1,514 @@
-![](http://www.comlaw.gov.au/Details/C2008C00536/Html/ProtecSeaShipLevyColl1981_image001.gif)
+**
 
-# Protection of the Sea (Shipping Levy Collection) Act 1981
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981 
+**
 
-**Act No. 35 of 1981 as amended**
 
-This compilation was prepared on 15 October 2008
- taking into account amendments up to Act No. 94 of 2008
+**
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
 
-# Contents
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Repeal
 
-[4](#4).            Interpretation
+**
 
-[4A](#4A).         Application of the _Criminal Code_
+###  Long Title 
+**
 
-[4B](#4B).         Appointment of authorised person
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Protection of the Sea (Shipping Levy Collection) Act 1981_.
 
-[5](#5).            Exemption in respect of ship in an Australian port by reason of an emergency etc 
+ 
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on the day on which the _Protection of the Sea (Shipping Levy) Act 1981_ comes into operation.
 
-[6](#6).            Exempt periods in relation to foreign-going ships
+ 
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 3  Repeal 
+The Pollution of the _Sea by Oil (Shipping Levy Collection) Act 1972_ and the _Pollution of the Sea by Oil (Shipping Levy Collection) Amendment Act 1979_ are repealed.
 
-[7](#7).            Time for payment of levy
+ 
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 4  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-[8](#8).            Payments on account of levy
+</dd> 
+<dl compact=""><dl compact="">
 
-[9](#9).            Persons liable to pay levy and amounts on account of levy
+_Australian port_ means a place in Australia that is a port for the
 
-[10](#10).          Recovery of levy and amounts on account of levy
+purposes of the _Customs Act 1901_. _Collector_ means a person who is a Collector for the purposes of the _Lighthouses Act 1911_. _foreign-going ship_ means a ship that is engaged in making overseas voyages. _levy_ means levy imposed by the Levy Act. _Levy Act_ means the _Protection of the Sea (Shipping Levy) Act 1981_. _light dues_ means light dues payable in accordance with regulations under the _Lighthouses Act 1911_. _master_, in relation to a ship, means the person having command or charge of the ship. _oil_ means any hydrocarbon oil or hydrocarbon liquid fuel, including, but without limiting the generality of the foregoing, crude oil, fuel oil, diesel oil, lubricating oil, heating oil, petrol, aviation fuel and kerosene. _oil in bulk_ means oil in bunkers or tanks, or in bunkers and tanks. _overseas voyage_ has the same meaning as in the _Navigation Act 1912_. _quarter_ means a period of 3 months commencing on 1&#160;January, 1&#160;April, 1&#160;July or 1&#160;October in any year. _ship_ has the same meaning as in the _Navigation Act 1912_. _tonnage_, in relation to a ship, means the net tonnage of the ship. _Tonnage Measurement Convention_ has the same meaning as in Part XA of the _Navigation Act 1912_.  </dl></dl>
 
-[11](#11).          Recovery of unpaid levy by distress
+<dl compact="">
 
-[12](#12).          Detention of ship for unpaid levy
+<dt>(2)</dt><dd>Where, at any time, the net tonnage applicable to a ship has been
 
-[13](#13).          Regulations
+determined otherwise than in accordance with the Tonnage Measurement
 
-**Notes** 
+Convention, then, in the application of this Act to the ship at that time, a
 
-## An Act relating to the levy imposed in respect of certain ships in Australian ports with oil on board
+reference in this Act to the tonnage of a ship shall be taken to be a reference
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+to the net tonnage of the ship expressed in tons.
 
-                   This Act may be cited as the _Protection of the Sea (Shipping Levy Collection) Act 1981_.
+</dd> </dl>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+<center>Back to Top</center>
 
-                   This Act shall come into operation on the day on which the _Protection of the Sea (Shipping Levy) Act 1981_ comes into operation.
+**
 
-##### <a id="3"></a>3  Repeal
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 4A  Application of the _Criminal Code_ 
+**
 
-                   The _Pollution of the Sea by Oil (Shipping Levy Collection) Act 1972_ and the _Pollution of the Sea by Oil (Shipping Levy Collection) Amendment Act 1979_ are repealed.
+ <dl compact="">
 
-##### <a id="4"></a>4  Interpretation
+		Chapter&#160;2 of the _Criminal Code_ applies to all offences created by
 
-             (1)  In this Act, unless the contrary intention appears:
+this Act.
 
-                    <a name="australian-port"></a>**_Australian port_** means a place  appointed, proclaimed or prescribed as a port under the _Customs Act 1901_, or under a law of a State or the Northern Territory.
+ </dl>
 
-                    <a name="authorised-person"></a>**_authorised person_** means a person appointed under section 4B.
+<dl compact=""><dl compact="">
 
-                    <a name="collector"></a>**_Collector_** means:
+Note:	Chapter&#160;2 of the _Criminal Code_ sets out the
 
-                     (a)  a Collector within the meaning of the _Customs Act 1901_; or
+general principles of criminal responsibility.
 
-                     (b)  an authorised person.
+ </dl></dl>
 
-                    <a name="foreign-go-ship"></a>**_foreign-going ship_** means a ship that is engaged in making overseas voyages.
+**
 
-                    <a name="levi"></a>**_levy_** means levy imposed by the Levy Act.
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 5  Exemption in respect of ship in an Australian port by reason of an emergency etc. 
+**
 
-                    <a name="levi-act"></a>**_Levy Act_** means the _Protection of the Sea (Shipping Levy) Act 1981_.
+<dl compact="">
 
-                    <a name="light-due"></a>**_light dues_** means light dues payable in accordance with regulations under the _Lighthouses Act 1911_.
+		Levy is not payable in respect of a ship for a quarter if, at no time during
 
-                    <a name="master"></a>**_master_**, in relation to a ship, means the person having command or charge of the ship.
+the quarter, was the ship in an Australian port except for the purpose, in the
 
-                    <a name="oil"></a>**_oil_** means any hydrocarbon oil or hydrocarbon liquid fuel, including, but without limiting the generality of the foregoing, crude oil, fuel oil, diesel oil, lubricating oil, heating oil, petrol, aviation fuel and kerosene.
+course of a voyage:
 
-                    <a name="oil-bulk"></a>**_oil in bulk_** means oil in bunkers or tanks, or in bunkers and tanks.
+ </dl>
 
-                    <a name="oversea-voyag"></a>**_overseas voyage_** has the same meaning as in the _Navigation Act 1912_.
+<dl compact=""><dl compact=""><dl compact="">
 
-                    <a name="quarter"></a>**_quarter_** means a period of 3 months commencing on 1 January, 1 April, 1 July or 1 October in any year.
+<dt>(a)</dt><dd>of taking on board water, provisions or fuel to be used by the ship for
 
-                    <a name="ship"></a>**_ship_** has the same meaning as in the _Navigation Act 1912_.
+completing the voyage;</dd>
 
-                    <a name="tonnag"></a>**_tonnage_**, in relation to a ship, means the net tonnage of the ship.
+<dt>(b)</dt><dd>of engaging or discharging a member of the crew;</dd>
 
-                    <a name="tonnag-measur-convent"></a>**_Tonnage Measurement Convention_** has the same meaning as in Part XA of the _Navigation Act 1912_.
+<dt>(c)</dt><dd>of disembarking a passenger or a member of the crew for urgent medical
 
-             (2)  Where, at any time, the net tonnage applicable to a ship has been determined otherwise than in accordance with the Tonnage Measurement Convention, then, in the application of this Act to the ship at that time, a reference in this Act to the tonnage of a ship shall be taken to be a reference to the net tonnage of the ship expressed in tons.
+treatment; or</dd>
 
-##### <a id="4A"></a>4A  Application of the _Criminal Code_
+<dt>(d)</dt><dd>of sheltering or undergoing repairs.
 
-                   Chapter 2 of the _Criminal Code_ applies to all offences created by this Act.
+</dd>
 
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
+</dl></dl></dl>
 
-##### <a id="4B"></a>4B  Appointment of authorised person
+**
 
-             (1)  The Minister may, in writing, appoint a person to be an authorised person for the purposes of this Act.
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 6  Exempt periods in relation to foreign-going ships 
+**
 
-             (2)  The Minister may, in writing, delegate the power of appointment under subsection (1) to an officer of the Department.
+ <dl compact="">
 
-##### <a id="5"></a>5  Exemption in respect of ship in an Australian port by reason of an emergency etc.
+<dt>(1)</dt><dd>In the application of this Act and the Levy Act in relation to a
 
-                   Levy is not payable in respect of a ship for a quarter if, at no time during the quarter, was the ship in an Australian port except for the purpose, in the course of a voyage:
+foreign-going ship in respect of a quarter, regard shall not be had to a time
 
-                     (a)  of taking on board water, provisions or fuel to be used by the ship for completing the voyage;
+when the ship was in an Australian port during the period (if any) that, in
 
-                     (b)  of engaging or discharging a member of the crew;
+accordance with subsection&#160;(2), is the exempt period in relation to the
 
-                     (c)  of disembarking a passenger or a member of the crew for urgent medical treatment; or
+ship for the quarter.</dd> <dt>(2)</dt><dd>Where levy is payable in respect of a foreign-going ship for a quarter, the exempt period in relation to the ship for the next succeeding quarter is so much of that succeeding quarter as occurs before the expiration of a period of 3 months from the earliest time during the first-mentioned quarter when the ship was in an Australian port, other than a time by reference to which levy was not payable in respect of the ship for that quarter. </dd> </dl>
 
-                     (d)  of sheltering or undergoing repairs.
+**
 
-##### <a id="6"></a>6  Exempt periods in relation to foreign-going ships
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 7  Time for payment of levy 
+**
 
-             (1)  In the application of this Act and the Levy Act in relation to a foreign-going ship in respect of a quarter, regard shall not be had to a time when the ship was in an Australian port during the period (if any) that, in accordance with subsection (2), is the exempt period in relation to the ship for the quarter.
+ <dl compact="">
 
-             (2)  Where levy is payable in respect of a foreign-going ship for a quarter, the exempt period in relation to the ship for the next succeeding quarter is so much of that succeeding quarter as occurs before the expiration of a period of 3 months from the earliest time during the first-mentioned quarter when the ship was in an Australian port, other than a time by reference to which levy was not payable in respect of the ship for that quarter.
+		Levy in respect of a ship for a quarter becomes payable upon the expiration
 
-##### <a id="7"></a>7  Time for payment of levy
+of the quarter.
 
-                   Levy in respect of a ship for a quarter becomes payable upon the expiration of the quarter.
+ </dl>
 
-##### <a id="8"></a>8  Payments on account of levy
+**
 
-             (1)  Subject to subsection (5), there is payable on the first day of a quarter, on account of levy that may become payable for that quarter in respect of a ship, being a ship to which the Levy Act applies other than a foreign-going ship, an amount equal to the amount of levy that may become so payable.
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 8  Payments on account of levy 
+**
 
-             (2)  Subject to subsection (5), where:
+ <dl compact="">
 
-                     (a)  on any day in a quarter, light dues become payable in respect of a foreign-going ship, being a ship to which the Levy Act applies; and
+<dt>(1)</dt><dd>Subject to subsection&#160;(5), there is payable on the first day of a
 
-                     (b)  an amount has not previously become payable under this section on account of levy that may become payable in respect of the ship for that quarter;
+quarter, on account of levy that may become payable for that quarter in respect
+
+of a ship, being a ship to which the Levy Act applies other than a
+
+foreign-going ship, an amount equal to the amount of levy that may become so
+
+payable.</dd> <dt>(2)</dt><dd>Subject to subsection&#160;(5), where: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>on any day in a quarter, light dues become payable in respect of a
+
+foreign-going ship, being a ship to which the Levy Act applies; and</dd>
+
+<dt>(b)</dt><dd>an amount has not previously become payable under this section on account
+
+of levy that may become payable in respect of the ship for that quarter;
+
+</dd>
+
+</dl></dl></dl>
 
 there is payable on that day, on account of levy that may become so payable, an amount equal to the amount of levy that may become so payable.
 
-             (3)  Where:
+<dl compact="">
 
-                     (a)  a foreign-going ship, being a ship to which the Levy Act applies, is in an Australian port at any time during a quarter; and
+<dt>(3)</dt><dd>Where:
 
-                     (b)  an amount has not previously become payable under this section on account of levy that may become payable in respect of the ship for that quarter;
+</dd> </dl>
 
-a Collector may, by notice served on the master of the ship in such manner as is prescribed, require an amount to be paid on account of levy that may become so payable and, subject to subsection (5), there is payable, within such period as is specified in the notice, on account of levy that may become so payable, an amount equal to the amount of levy that may become so payable.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (4)  Where an amount is paid to the Commonwealth under this section on account of levy that may become payable in respect of a ship for a quarter, the amount so paid:
+<dt>(a)</dt><dd>a foreign-going ship, being a ship to which the Levy Act applies, is in an
 
-                     (a)  shall, if levy becomes payable in respect of the ship for the quarter, be deemed to be payment of the levy; or
+Australian port at any time during a quarter; and</dd>
 
-                     (b)  shall, if levy does not become so payable, be repaid to the master or owner of the ship.
+<dt>(b)</dt><dd>an amount has not previously become payable under this section on account
 
-             (5)  An amount is not payable under this section on account of levy in respect of a ship for a quarter if the owner or master of the ship satisfies a Collector that levy is not, and is not likely to become, payable in respect of the ship for that quarter.
+of levy that may become payable in respect of the ship for that quarter;
 
-##### <a id="9"></a>9  Persons liable to pay levy and amounts on account of levy
+</dd>
 
-                   The owner and master of a ship are jointly and severally liable to pay levy that is payable in respect of the ship or an amount that, under section 8, is payable on account of levy that may become payable in respect of the ship.
+</dl></dl></dl>
 
-##### <a id="10"></a>10  Recovery of levy and amounts on account of levy
+<center>Back to Top</center>
 
-             (1)  Levy that has become payable, or an amount that, under section 8, is payable on account of levy, is a debt due to the Commonwealth by the person or persons by whom the levy or the amount is payable.
+a Collector may, by notice served on the master of the ship in such manner as is prescribed, require an amount to be paid on account of levy that may become so payable and, subject to subsection&#160;(5), there is payable, within such period as is specified in the notice, on account of levy that may become so payable, an amount equal to the amount of levy that may become so payable.
 
-             (2)  In proceedings to recover levy in respect of a ship for a quarter, it shall be presumed, unless the contrary is established by the defendant:
+<dl compact="">
 
-                     (a)  that, at some time when the ship was in an Australian port during the quarter, there was on board the ship a quantity of oil in bulk weighing not less than 10 tonnes; and
+<dt>(4)</dt><dd>Where an amount is paid to the Commonwealth under this section on account
 
-                     (b)  that, at no time during the quarter, was the ship in an Australian port, in the course of a voyage, only for a purpose specified in section 5.
+of levy that may become payable in respect of a ship for a quarter, the amount
 
-##### <a id="11"></a>11  Recovery of unpaid levy by distress
+so paid:
 
-             (1)  Where levy payable in respect of a ship has not been paid, a Collector may, without prejudice to any other remedy for the recovery of the levy, enter upon the ship and distrain goods or equipment belonging to the ship, and detain them until the levy is paid.
+</dd> </dl>
 
-             (2)  If payment of the levy is not made before the expiration of the period of 3 days after the distress, the Collector may, at any time while the levy remains unpaid, sell by public auction the goods or equipment distrained and, out of the proceeds of the sale, may, to the extent that the amount of those proceeds allows, recover the levy and all reasonable expenses incurred by him under this section.
+<dl compact=""><dl compact=""><dl compact="">
 
-             (3)  For the purposes of a sale under subsection (2), the Commonwealth shall be deemed to be the absolute owner of the goods or equipment the subject of the sale.
+<dt>(a)</dt><dd>shall, if levy becomes payable in respect of the ship for the quarter, be
 
-             (4)  Where, after deducting from the proceeds of the sale the amount of the levy and the expenses of the Collector, a surplus remains, the Collector shall, on demand, pay that surplus to the owner or master of the ship.
+deemed to be payment of the levy; or</dd>
 
-             (5)  A reference in this section to levy payable in respect of a ship shall be read as including a reference to an amount that, under section 8, is payable on account of levy that may become payable in respect of the ship.
+<dt>(b)</dt><dd>shall, if levy does not become so payable, be repaid to the master or
 
-##### <a id="12"></a>12  Detention of ship for unpaid levy
+owner of the ship.
 
-             (1)  A ship in respect of which levy is payable may be detained by a Collector until the levy is paid.
+</dd>
 
-             (2)  If a ship that has been detained by a Collector under subsection (1) goes to sea without having been released by the Collector, the master of the ship is guilty of an offence punishable, upon conviction, by a fine not exceeding $500.
+</dl></dl></dl>
 
-          (2A)  An offence under subsection (2) is an offence of strict liability.
+<dl compact="">
 
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
+<dt>(5)</dt><dd>An amount is not payable under this section on account of levy in respect
 
-             (3)  A reference in this section to levy payable in respect of a ship shall be read as including a reference to an amount that, under section 8, is payable on account of levy that may become payable in respect of the ship.
+of a ship for a quarter if the owner or master of the ship satisfies a
 
-##### <a id="13"></a>13  Regulations
+Collector that levy is not, and is not likely to become, payable in respect of
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, prescribing penalties not exceeding $200 for offences against the regulations.
+the ship for that quarter.
 
-# Notes to the _Protection of the Sea (Shipping Levy Collection) Act 1981_
+</dd> </dl>
 
-### Note 1
+**
 
-The _Protection of the Sea (Shipping Levy Collection) Act 1981_ as shown in this compilation comprises Act No. 35, 1981 amended as indicated in the Tables below.
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 9  Persons liable to pay levy and amounts on account of levy 
+**
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+ <dl compact="">
 
-### Table of Acts
+		The owner and master of a ship are jointly and severally liable to pay levy
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="17%">
-  <col width="23%">
-  <col width="14%">
-</colgroup>
+that is payable in respect of the ship or an amount that, under section&#160;8,
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+is payable on account of levy that may become payable in respect of the ship.
+
+ </dl>
+
+**
+
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 10  Recovery of levy and amounts on account of levy 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Levy that has become payable, or an amount that, under section&#160;8, is
+
+payable on account of levy, is a debt due to the Commonwealth by the person or
+
+persons by whom the levy or the amount is payable.</dd> <dt>(2)</dt><dd>In proceedings to recover levy in respect of a ship for a quarter, it shall be presumed, unless the contrary is established by the defendant: </dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>that, at some time when the ship was in an Australian port during the
+
+quarter, there was on board the ship a quantity of oil in bulk weighing not
+
+less than 10 tonnes; and</dd>
+
+<dt>(b)</dt><dd>that, at no time during the quarter, was the ship in an Australian port,
+
+in the course of a voyage, only for a purpose specified in section&#160;5.
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 11  Recovery of unpaid levy by distress 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>Where levy payable in respect of a ship has not been paid, a Collector
+
+may, without prejudice to any other remedy for the recovery of the levy, enter
+
+upon the ship and distrain goods or equipment belonging to the ship, and detain
+
+them until the levy is paid.</dd> <dt>(2)</dt><dd>If payment of the levy is not made before the expiration of the period of 3 days after the distress, the Collector may, at any time while the levy remains unpaid, sell by public auction the goods or equipment distrained and, out of the proceeds of the sale, may, to the extent that the amount of those proceeds allows, recover the levy and all reasonable expenses incurred by him under this section.</dd> <dt>(3)</dt><dd>For the purposes of a sale under subsection&#160;(2), the Commonwealth shall be deemed to be the absolute owner of the goods or equipment the subject of the sale.</dd> <dt>(4)</dt><dd>Where, after deducting from the proceeds of the sale the amount of the levy and the expenses of the Collector, a surplus remains, the Collector shall, on demand, pay that surplus to the owner or master of the ship.</dd> <dt>(5)</dt><dd>A reference in this section to levy payable in respect of a ship shall be read as including a reference to an amount that, under section&#160;8, is payable on account of levy that may become payable in respect of the ship. </dd> </dl>
+
+**
+
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 12  Detention of ship for unpaid levy 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>A ship in respect of which levy is payable may be detained by a Collector
+
+until the levy is paid.</dd> <dt>(2)</dt><dd>If a ship that has been detained by a Collector under subsection&#160;(1) goes to sea without having been released by the Collector, the master of the ship is guilty of an offence punishable, upon conviction, by a fine not exceeding $500.</dd> <dt>(2A)</dt><dd>An offence under subsection&#160;(2) is an offence of strict liability. </dd> </dl>
+
+<center>Back to Top</center>
+
+<dl compact=""><dl compact="">
+
+Note:	For _strict liability_, see section&#160;6.1 of
+
+the _Criminal Code_.
+
+ </dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>A reference in this section to levy payable in respect of a ship shall be
+
+read as including a reference to an amount that, under section&#160;8, is
+
+payable on account of levy that may become payable in respect of the ship.
+
+</dd> </dl>
+
+**
+
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981- SECT 13  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing all matters required or permitted by this Act to be prescribed, or
+
+necessary or convenient to be prescribed for carrying out or giving effect to
+
+this Act, and, in particular, prescribing penalties not exceeding $200 for
+
+offences against the regulations.
+
+ </dl>
+
+<center>**
+
+###  PROTECTION OF THE SEA (SHIPPING LEVY COLLECTION) ACT 1981<centreit>Notes to the _Protection of the Sea (Shipping Levy Collection) Act 1981_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Protection of the Sea (Shipping Levy Collection) Act 1981_ as shown in this compilation comprises Act No.&#160;35, 1981 amended as indicated in the Tables below.
+ For all relevant information pertaining to application, saving or transitional provisions _see_ Table&#160;A.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Protection of the Sea (Shipping Levy Collection) Act 1981</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Protection of the Sea (Shipping Levy Collection) Act 1981</i></div>
+
+  </td>
+  <td colspan="1" align="left">
     <div>35, 1981</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>14 Apr 1981</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>1 Oct 1982 ( <i>see</i>s. 2 and <i>Gazette</i>1982, No. S197)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Protection of the Sea Legislation Amendment Act 1986</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Protection of the Sea Legislation Amendment Act 1986</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>167, 1986</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>18 Dec 1986</div>
+
   </td>
-  <td>
-    <div>Part V (ss. 41, 42): Royal Assent <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Part V (ss. 41, 42): Royal Assent <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
 </tr>
-<thead>
-  <tr>
-    <td>
-      <div>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</div>
-    </td>
-    <td>
-      <div>143, 2001</div>
-    </td>
-    <td>
-      <div>1 Oct 2001</div>
-    </td>
-    <td>
-      <div>2 Oct 2001</div>
-    </td>
-    <td>
-      <div>S. 4</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Protection of the Sea Legislation Amendment Act 2008</div>
-    </td>
-    <td>
-      <div>94, 2008</div>
-    </td>
-    <td>
-      <div>3 Oct 2008</div>
-    </td>
-    <td>
-      <div>Schedule 3 (items 3–6): Royal Assent</div>
-    </td>
-    <td>
-      <div>—</div>
-    </td>
-  </tr>
-</thead></table>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div><i>Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001</i></div>
 
-_(a)_     The _Protection of the Sea (Shipping Levy Collection) Act 1981_ was amended by Part V (sections 41 and 42) only of the _Protection of the Sea Legislation Amendment Act 1986_, subsection 2(1) of which provides as follows:
+  </th>
+  <th colspan="1" align="left">
+    <div>143, 2001</div>
 
-                 (1)   Sections 1, 2, 3, 13, 16, 30, 31 and 32 and Part V shall come into operation on the day on which this Act receives the Royal Assent.
+  </th>
+  <th colspan="1" align="left">
+    <div>1 Oct 2001</div>
 
-## Table of Amendments
+  </th>
+  <th colspan="1" align="left">
+    <div>2 Oct 2001</div>
 
-<table>
-<colgroup>
-  <col width="32%">
-  <col width="68%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
+  </th>
+  <th colspan="1" align="left">
     <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 167, 1986; No. 94, 2008</div>
+
+  </th>
+</tr></table>_(a)_ The _Protection of the Sea (Shipping Levy Collection) Act 1981_ was amended by Part V (sections&#160;41 and 42) only of the _Protection of the Sea Legislation Amendment Act 1986_, subsection 2(1) of which provides as follows:
+
+	(1)	Sections&#160;1, 2, 3, 13, 16, 30, 31 and 32 and Part V shall come into operation on the day on which this Act receives the Royal Assent.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 4</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;167, 1986</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 4A</div>
+
   </td>
-  <td>
-    <div>ad. No. 143, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 94, 2008</div>
+  <td colspan="1" align="left">
+    <div>ad. No. 143, 2001</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 12</div>
+
   </td>
-  <td>
-    <div>am. No. 143, 2001</div>
+  <td colspan="1" align="left">
+    <div>am. No. 143, 2001</div>
+
   </td>
-</tr></table>
+</tr></table>**Table A**
 
-## Table A
+**Application, saving or transitional provisions**
 
-### Application, saving or transitional provisions
+_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001_(No.&#160;143, 2001) 
 
-_Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)_
+**4  Application of Amendments**
 
-##### <a id="4"></a>4  Application of Amendments
+<dl compact="">
 
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
+<dt>(1)</dt><dd>Each amendment made by this Act applies to acts and omissions that take
 
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
+place after the amendment commences.</dd> <dt>(2)</dt><dd>For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences. </dd> </dl>
 
- 
+ 
+
+
