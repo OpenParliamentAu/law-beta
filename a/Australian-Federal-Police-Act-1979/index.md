@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00896/Html/009fd63d-89ca-4294-a614-54598964075d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00530/Html/7ceaafa7-e065-4310-ad77-bc7e4c306570_files/image001.gif)
 
 # Australian Federal Police Act 1979
 
 **Act No. 58 of 1979 as amended**
 
-This compilation was prepared on 9 November 2011
+This compilation was prepared on 13 July 2011
  taking into account amendments up to Act No. 58 of 2011
 
 The text of any of those amendments not in force
@@ -823,8 +823,6 @@ Note:          This subsection defines **_State_** to include 
                              (ii)  the _Crimes (Internationally Protected Persons) Act 1976_ or Part 2 of the _Crimes (Aviation) Act 1991_; or
 
                             (iii)  the _Defence (Special Undertakings) Act 1952_(other than subsection 31(2)); or
-
-                          (iiia)  an offence against section 71V, 71W or 72P of the _Defence Act 1903_; or
 
                             (iv)  the _Public Order (Protection of Persons and Property) Act 1971_(other than section 11); or
 
@@ -3969,7 +3967,7 @@ Direction is not a legislative instrument
 
            (10)  If a direction given by an investigator under subsection (2) is in writing, the direction is not a legislative instrument.
 
-##### <a id="40VH"></a>40VH  Offences
+##### <a id="40VH"></a>40VH  Offences
 
              (1)  An AFP appointee commits an offence if the AFP appointee:
 
@@ -4341,7 +4339,7 @@ whether present or future and whether vested or contingent.
 
                      (b)  where property of the person has been transferred to another person within that period for a consideration whose value is less than the commercial value of the property when the transfer was made—an interest in the property equal to the proportion worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00896/Html/009fd63d-89ca-4294-a614-54598964075d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00530/Html/7ceaafa7-e065-4310-ad77-bc7e4c306570_files/image002.gif)
 
 where:
 
@@ -4529,7 +4527,7 @@ the court must:
 
                      (a)  specify in the superannuation order the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00896/Html/009fd63d-89ca-4294-a614-54598964075d_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00530/Html/7ceaafa7-e065-4310-ad77-bc7e4c306570_files/image003.gif)
 
                             where:
 
@@ -4591,7 +4589,7 @@ the court must:
 
 the person is entitled, on the day on which he or she ceases to be a member of the scheme, to payment of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00896/Html/009fd63d-89ca-4294-a614-54598964075d_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00530/Html/7ceaafa7-e065-4310-ad77-bc7e4c306570_files/image004.gif)
 
 where:
 
@@ -5541,7 +5539,7 @@ that had accrued to him or her as a member of an existing Police Force or as a m
 
 ### Note 1
 
-The _Australian Federal Police Act 1979_ as shown in this compilation comprises Act No. 58, 1979 amended as indicated in the Tables below.
+The _Australian Federal Police Act 1979_ as shown in this compilation comprises Act No. 58, 1979 amended as indicated in the Tables below. 
 
 The _Australian Federal Police Act 1979_ was amended by the _Workplace Relations Amendment (Work Choices) (Consequential Amendments) Regulations 2006 (No. 1)_ (SLI 2006 No. 50 as amended by SLI 2006 No. 119). The amendments are incorporated in this compilation.
 
@@ -5962,7 +5960,7 @@ Remainder: 21 Dec 1989 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>Ss. 1, 2, 61 and 62: Royal Assent 
 S. 11: 1 July 1991 
-Ss. 38 and 71: 1 Jan 1991 
+Ss. 38 and 71: 1 Jan 1991 
 Remainder: 1 Jan 1990 ( <i>see Gazette</i>1989, No. S397)</div>
   </td>
   <td>
@@ -6140,7 +6138,7 @@ Remainder: Royal Assent</div>
     <div>11 Dec 1992</div>
   </td>
   <td>
-    <div>Part 1 (ss. 1, 2) and Parts 3–11 (ss. 18–53): 8 Jan 1993 
+    <div>Part 1 (ss. 1, 2) and Parts 3–11 (ss. 18–53): 8 Jan 1993 
 Remainder: 1 Feb 1993 ( <i>see Gazette</i>1993, No. GN1)</div>
   </td>
   <td>
@@ -6487,7 +6485,7 @@ Remainder: 24 May 2001</div>
     <div>S. 4(1), (2) and Schedule 2: <i>(u)</i></div>
   </td>
   <td>
-    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
+    <div>S. 4(1) and (2) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6578,7 +6576,7 @@ Schedule 3 (items 1A–3A): 22 Dec 2004</div>
     <div>15 Dec 2004</div>
   </td>
   <td>
-    <div>Sch. 1 (items 2, 3) \[ <i>see</i>Table A]</div>
+    <div>Sch. 1 (items 2, 3) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6595,7 +6593,7 @@ Schedule 3 (items 1A–3A): 22 Dec 2004</div>
     <div>S. 4 and Schedule 1 (items 89, 90, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
+    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6677,7 +6675,7 @@ Schedule 3 (items 1A–3A): 22 Dec 2004</div>
     <div>19 Feb 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 25 Aug 2007 
+    <div>Schedules 1–3: 25 Aug 2007 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -6729,7 +6727,7 @@ Remainder: Royal Assent</div>
     <div>20 Mar 2008</div>
   </td>
   <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
+    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -6784,7 +6782,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (items 9, 10): 10 Dec 2008</div>
   </td>
   <td>
-    <div>Sch. 2 (item 10) \[ <i>see</i>Table A]</div>
+    <div>Sch. 2 (item 10) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6852,7 +6850,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 4: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 4 (item 12) \[ <i>see</i>Table A]</div>
+    <div>Sch. 4 (item 12) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6869,7 +6867,7 @@ Remainder: Royal Assent</div>
     <div>Schedule 2 (item 21), Schedule 5 and Schedule 7 (item 1): 3 Mar 2011</div>
   </td>
   <td>
-    <div>Sch. 5 (item 21) \[ <i>see</i>Table A]</div>
+    <div>Sch. 5 (item 21) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -6883,7 +6881,7 @@ Remainder: Royal Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 5 (items 22, 23) and Schedule 7 (item 18): 19 Apr 2011</div>
+    <div>Schedule 5 (items 22, 23) and Schedule 7 (item 18): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -6900,7 +6898,7 @@ Remainder: Royal Assent</div>
     <div>12 Apr 2011</div>
   </td>
   <td>
-    <div>Schedule 1 (item 4): 12 Oct 2011</div>
+    <div>Schedule 1 (item 4): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -6917,10 +6915,10 @@ Remainder: Royal Assent</div>
     <div>27 June 2011</div>
   </td>
   <td>
-    <div>Schedule 2 (items 151–153) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
+    <div>Schedule 2 (items 151–153) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 3 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
+    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -7444,7 +7442,7 @@ _(za)_   Subsection 2(1) (item 2) of the _Superannuation Legislation (Conseq
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 155, 1979; No. 117, 1984; Nos. 71 and 153, 1989; Nos. 94 and 196, 1992; No. 9, 2000; No. 64, 2004; No. 129, 2005; SLI 2006 No. 50; No. 84, 2006; Nos. 3 and 50, 2007; No. 54, 2009; Nos. 3, 5, 19 and 58, 2011</div>
+    <div>am. No. 155, 1979; No. 117, 1984; Nos. 71 and 153, 1989; Nos. 94 and 196, 1992; No. 9, 2000; No. 64, 2004; No. 129, 2005; SLI 2006 No. 50; No. 84, 2006; Nos. 3 and 50, 2007; No. 54, 2009; Nos. 3, 5 and 58, 2011</div>
   </td>
 </tr>
 <tr>
@@ -11420,6 +11418,23 @@ rep. No. 152, 2004</div>
 
 ### Note 2
 
+_Defence Legislation Amendment (Security of Defence Premises) Act 2011
+ (No. 19, 2011)_
+
+The following amendment commences on 12 October 2011 unless proclaimed earlier:
+
+## Schedule 1
+
+## 4  Subsection 4(1) (after subparagraph (a)(iii) of the definition of _protective service offence_)
+
+Insert:
+
+                          (iiia)  an offence against section 71V, 71W or 72P of the _Defence Act 1903_; or
+
+As at 13 July 2011 the amendment is not incorporated in this compilation.
+
+### Note 3
+
 _Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
 
 The following amendments commence on 27 December 2011 unless proclaimed earlier:
@@ -11440,7 +11455,7 @@ Note:          For rules that apply to acting appointments, se
 
 Repeal the subsections.
 
-As at 9 November 2011 the amendments are not incorporated in this compilation.
+As at 13 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -11578,7 +11593,7 @@ Persons seconded to the AFP
 
 (3)       Unless it is sooner revoked, a continued determination (including any amendments made by the Commissioner under subsection 27(1) of the later Act) ceases to be in force 1 year after the commencing time.
 
-## 7  Continuation of awards or certified agreements
+## 7  Continuation of awards or certified agreements
 
 (1)       To avoid doubt, an award or a certified agreement that is in force immediately before the commencing time in relation to members or staff members of the Australian Federal Police (within the meaning of the _Australian Federal Police Act 1979_ as in force at that time) does not cease to be in force at and after the commencing time because of the amendments made by Schedule 1 to this Act.
 
