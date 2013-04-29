@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00787/Html/5d1f651e-999c-4bcc-b214-ad2ba5e2dc6c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00834/Html/CFMSale96_WD02HYP_image001.gif)
 
 # CFM Sale Act 1996
 
 **Act No. 58 of 1996 as amended**
 
-This compilation was prepared on 6 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 21 December 2010
+ taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -24,6 +25,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 [2](#2).            Commencement [_see_ Note 1]
 
 [3](#3).            Definitions
+
+[4](#4).            Schedule(s)
 
 **Part 2—Transfer of CFM subsidiaries to the Commonwealth**
 
@@ -93,7 +96,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [29](#29).          References to Long Service Leave Act
 
-[30](#30).          Division not to affect an employee’s post‑sale long service leave rights
+[30](#30).          Division not to affect an employee’s post-sale long service leave rights
 
         **Subdivision 2B—Long service leave for employees who attain at least 10 years service**
 
@@ -113,9 +116,9 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [37](#37).          Employees reaching minimum retiring age or being retrenched
 
-[38](#38).          Employee stops employment because of ill‑health
+[38](#38).          Employee stops employment because of ill-health
 
-[39](#39).          Employee may request non‑payment or reduced payment
+[39](#39).          Employee may request non-payment or reduced payment
 
 [40](#40).          Rate of salary
 
@@ -155,7 +158,7 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [53](#53).          Transitional provisions relating to Division 4A of Part VII
 
-[54](#54).          Relevant employer and co‑operation with the Commonwealth
+[54](#54).          Relevant employer and co-operation with the Commonwealth
 
 [55](#55).          Notification of amount of salary paid to employees of a CFM body
 
@@ -239,6 +242,12 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [82](#82).          Regulations
 
+**Schedule 1—Amendment of the Commonwealth Funds Management Limited Act 1990** 
+
+**Schedule 2—Amendment of other Acts** 
+
+Legislative Instruments Act 1996                                                                           46
+
 **Notes** 
 
 ## An Act relating to the sale of Commonwealth Funds Management Limited, and for related purposes
@@ -302,6 +311,10 @@ Prepared by the Office of Parliamentary Counsel, Canberra
              (2)  For the purposes of this Act, the question whether a body corporate is a subsidiary of another body corporate is to be determined in the same manner as that question is determined under the _Corporations Act 2001_.
 
              (3)  For the purposes of this Act, the question whether a body corporate is related to another body corporate is to be determined in the same manner as that question is determined under the _Corporations Act 2001_.
+
+##### <a id="4"></a>4  Schedule(s)
+
+                   Subject to section 2, each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
 ## Part 2—Transfer of CFM subsidiaries to the Commonwealth
 
@@ -391,7 +404,7 @@ This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth
 
 ##### <a id="14"></a>14  Application of section 4
 
-                   Section 4 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred body as if a reference to a protected body were a reference to the transferred body or a wholly‑owned subsidiary of the transferred body.
+                   Section 4 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred body as if a reference to a protected body were a reference to the transferred body or a wholly-owned subsidiary of the transferred body.
 
 ##### <a id="15"></a>15  Application of section 15
 
@@ -405,11 +418,11 @@ This Part is about the transfer of CFM subsidiaries from CFM to the Commonwealth
 
                    Part 4 of the _Commonwealth Funds Management Limited Act 1990_ applies in relation to a transferred body as if:
 
-                     (a)  a reference to a protected body were a reference to the transferred body or a wholly‑owned subsidiary of the transferred body; and
+                     (a)  a reference to a protected body were a reference to the transferred body or a wholly-owned subsidiary of the transferred body; and
 
-                     (b)  a reference to a protected company name were a reference to the transferred body’s name or a wholly‑owned subsidiary’s name; and
+                     (b)  a reference to a protected company name were a reference to the transferred body’s name or a wholly-owned subsidiary’s name; and
 
-                     (c)  a reference to a protected business name were a reference to the transferred body’s name or a wholly‑owned subsidiary’s name; and
+                     (c)  a reference to a protected business name were a reference to the transferred body’s name or a wholly-owned subsidiary’s name; and
 
                      (d)  a reference to the Company were a reference to the transferred body.
 
@@ -543,15 +556,15 @@ This Division (other than Subdivision 2F) is about the long service leave that
 
                      (b)  regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
 
-                    <a name="post-sale-long-servic-leav-right"></a>**_post‑sale long service leave rights_**, in relation to an employee of a CFM body, means any long service leave rights that the employee acquires under an award, determination, industrial agreement or law (other than this Act) on or after the body’s sale day.
+                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee of a CFM body, means any long service leave rights that the employee acquires under an award, determination, industrial agreement or law (other than this Act) on or after the body’s sale day.
 
 ##### <a id="29"></a>29  References to Long Service Leave Act
 
                    For the purposes of the application of this Part to a particular employee of a CFM body, a reference in this Division to the Long Service Leave Act is a reference to the _Long Service Leave (Commonwealth Employees) Act 1976_ as in force immediately before the body’s sale day.
 
-##### <a id="30"></a>30  Division not to affect an employee’s post‑sale long service leave rights
+##### <a id="30"></a>30  Division not to affect an employee’s post-sale long service leave rights
 
-                   To avoid doubt, it is declared that this Division does not affect an employee’s post‑sale long service leave rights.
+                   To avoid doubt, it is declared that this Division does not affect an employee’s post-sale long service leave rights.
 
 #### Subdivision 2B—Long service leave for employees who attain at least 10 years service
 
@@ -637,7 +650,7 @@ This Subdivision is about payments in respect of long service leave to an employ
 
                      (e)  the employee’s combined service period at the time when he or she stopped being an employee of the CFM body or a related body was at least one year.
 
-##### <a id="38"></a>38  Employee stops employment because of ill‑health
+##### <a id="38"></a>38  Employee stops employment because of ill-health
 
                    Subject to section 39, a CFM body or a related body must pay an employee an amount equal to full salary in respect of his or her long service leave credit under subsection 43(2) if:
 
@@ -649,11 +662,11 @@ This Subdivision is about payments in respect of long service leave to an employ
 
                      (d)  the employee stopped being an employee of the CFM body or a related body; and
 
-                     (e)  the CFM body or related body was satisfied that the employee left the body because of ill‑health that justified his or her so leaving; and
+                     (e)  the CFM body or related body was satisfied that the employee left the body because of ill-health that justified his or her so leaving; and
 
                       (f)  when the employee left, his or her combined service period was at least one year.
 
-##### <a id="39"></a>39  Employee may request non‑payment or reduced payment
+##### <a id="39"></a>39  Employee may request non-payment or reduced payment
 
              (1)  An employee may, by written notice given to a CFM body or a related body before the employee stops being an employee of the body:
 
@@ -867,23 +880,23 @@ if the employee was an employee of the body immediately before its sale day.
 
                      (c)  the following word and paragraph were added at the end of subsection 96H(1):
 
-               ; or (f)  in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.
+                ; or (f)  in the case of an authority—the authority is not required to pay a premium under this Division in respect of part of a financial year.
 
              (2)  If, 60 days after the sale day of a CFM body, an amount of premium payable by the body to Comcare in respect of the period before the sale day remains unpaid, the amount is a debt due to the Commonwealth by the CFM body and payable to Comcare.
 
-##### <a id="54"></a>54  Relevant employer and co‑operation with the Commonwealth
+##### <a id="54"></a>54  Relevant employer and co-operation with the Commonwealth
 
              (1)  On and after the sale day of a CFM body, the body is taken to be the relevant employer of the employee for the purposes of section 40 of the _Safety, Rehabilitation and Compensation Act 1988_.
 
-             (2)  On and after the sale day of a CFM body, the body must provide such reasonable co‑operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the _Safety, Rehabilitation and Compensation Act 1988_.
+             (2)  On and after the sale day of a CFM body, the body must provide such reasonable co-operation and assistance as the Commonwealth requires to enable the Commonwealth to fulfil its obligations under sections 36, 37, 38, 39, 41 and 41A of the _Safety, Rehabilitation and Compensation Act 1988_.
 
 ##### <a id="55"></a>55  Notification of amount of salary paid to employees of a CFM body
 
-             (1)  The Chief Executive Officer (however described) of a CFM body that was a Commonwealth authority immediately before the body’s sale day must notify Comcare, within 28 days after the sale day, of the amount of salary, wages or pay paid to employees of the CFM body in the pre‑sale day period.
+             (1)  The Chief Executive Officer (however described) of a CFM body that was a Commonwealth authority immediately before the body’s sale day must notify Comcare, within 28 days after the sale day, of the amount of salary, wages or pay paid to employees of the CFM body in the pre-sale day period.
 
              (2)  In this section:
 
-                    <a name="pre-sale-dai-period"></a>**_pre‑sale day period_** means the period starting on 1 July in the financial year in which a CFM body’s sale day occurs and ending on the day before the sale day.
+                    <a name="pre-sale-dai-period"></a>**_pre-sale day period_** means the period starting on 1 July in the financial year in which a CFM body’s sale day occurs and ending on the day before the sale day.
 
 ### Division 5—Occupational Health and Safety (Commonwealth Employment) Act 1991
 
@@ -891,7 +904,7 @@ if the employee was an employee of the body immediately before its sale day.
 
              (1)  A CFM body is entitled to be paid the amount worked out using the formula set out below if the CFM body has paid a contribution to the cost of the administration of the _Occupational Health and Safety (Commonwealth Employment) Act 1991_ under section 67H of that Act in respect of the financial year in which the body’s sale day occurs.
 
-![](http://www.comlaw.gov.au/Details/C2012C00787/Html/5d1f651e-999c-4bcc-b214-ad2ba5e2dc6c_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00834/Html/CFMSale96_WD02HYP_image002.gif)
 
                     <a name="contribut"></a>**_contribution_** means the contribution paid by the CFM body in respect of that financial year.
 
@@ -941,9 +954,9 @@ the franking credit or franking debit is to that extent taken not to have arisen
 
              (3)  If:
 
-                     (a)  a class A franking debit, class B franking debit or class C franking debit, that arises on or after CFM’s sale day, of CFM is to an extent (the amount of which is the **_pre‑sale component of the debit_**) attributable to a period, or to an event taking place, before the sale day; and
+                     (a)  a class A franking debit, class B franking debit or class C franking debit, that arises on or after CFM’s sale day, of CFM is to an extent (the amount of which is the **_pre-sale component of the debit_**) attributable to a period, or to an event taking place, before the sale day; and
 
-                     (b)  immediately before the sale day, CFM had a class A franking surplus, class B franking surplus or class C franking surplus, that was less than the corresponding pre‑sale component of the debit;
+                     (b)  immediately before the sale day, CFM had a class A franking surplus, class B franking surplus or class C franking surplus, that was less than the corresponding pre-sale component of the debit;
 
 then subsection (1) does not apply to the surplus and subsection (2) does not apply to the debit.
 
@@ -1055,7 +1068,7 @@ unless a law expressly provides otherwise.
 
                      (a)  are connected with the sale of a CFM body; and
 
-                     (b)  include a declaration that the Governor‑General is satisfied that they are connected with the sale of a CFM body; and
+                     (b)  include a declaration that the Governor-General is satisfied that they are connected with the sale of a CFM body; and
 
                      (c)  are expressed to take effect on the body’s sale day.
 
@@ -1333,11 +1346,49 @@ the Commonwealth is liable to pay compensation of a reasonable amount to the per
 
 ##### <a id="82"></a>82  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+
+# Schedule 1—Amendment of the Commonwealth Funds Management Limited Act 1990
+
+* * *
+
+**Note:**
+
+The amendments made by this Schedule are incorporated in the compilation on ComLaw.
+
+_Commonwealth Funds Management Limited Act 1990_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 58, 1996.
+
+* * *
+
+# Schedule 2—Amendment of other Acts
+
+<h9 class="ActHead9">Legislative Instruments Act 1996</h9>
+
+## 1  Schedule 3
+
+Omit “Commonwealth Funds Management Limited”.
+
+* * *
+
+**Note:**
+
+The other amendments made by this Schedule are incorporated in the compilations on ComLaw.
+
+_Military Superannuation and Benefits Act 1991_
+
+_Superannuation Act 1976_
+
+_Superannuation Act 1990_
+
+For access to the wording of the amendments made by this Schedule _see_ Act No. 58, 1996.
+
+* * *
 
 # Notes to the _CFM Sale Act 1996_
 
@@ -1393,7 +1444,7 @@ of Assent</div>
   </td>
   <td>
     <div>Ss. 1–82, Schedule 1 (item 10), Schedule 2 (items 2–6): Royal Assent 
-Schedule 1 (items 1, 2, 5–9, 11): 23 Dec 1996 ( <i>see Gazette</i>1996, No. S515) 
+Schedule 1 (items 1, 2, 5–9, 11): 23 Dec 1996 ( <i>see Gazette</i>1996, No. S515) 
 Schedule 1 (items 3, 4): <i>(a)</i> 
 Schedule 2 (item 1): <i>(a) 
  </i>Remainder: Royal Assent</div>
@@ -1413,7 +1464,7 @@ Schedule 2 (item 1): <i>(a)
     <div>28 June 2001</div>
   </td>
   <td>
-    <div>Ss. 4–14 and Schedule 3 (items 94, 95): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
+    <div>Ss. 4–14 and Schedule 3 (items 94, 95): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(b)</i></div>
   </td>
   <td>
     <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
@@ -1433,7 +1484,7 @@ Schedule 2 (item 1): <i>(a)
     <div>S. 4 and Schedule 1 (items 110, 496): Royal Assent</div>
   </td>
   <td>
-    <div>S. 4 and Sch. 1 (item 496)</div>
+    <div>S. 4 and Sch. 1 (item 496)</div>
   </td>
 </tr>
 <tr>
@@ -1447,39 +1498,18 @@ Schedule 2 (item 1): <i>(a)
     <div>17 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 11 (item 10): 18 Dec 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 17, 18): Royal Assent</div>
+    <div>Schedule 11 (item 10): 18 Dec 2010</div>
   </td>
   <td>
     <div>—</div>
   </td>
 </tr></table>
 
-_(a)_ Subsections 2(2) and (5) of the _CFM Sale Act 1996_ provide as follows:
+_(a)_ Subsection 2(2) of the _CFM Sale Act 1996_ provides as follows:
 
                  (2)   Items 3 and 4 of Schedule 1 are taken to have commenced immediately after the commencement of Part 2 of the _Commonwealth Funds Management Limited Act 1990_.
 
-                 (5)   If this Act commences before the commencement of the _Legislative Instruments Act 1996_, item 1 of Schedule 2 commences immediately after the commencement of the _Legislative Instruments Act 1996_.
-
  Part 2 commenced on 1 March 1991.
-
-         The _Legislative Instruments Act 1996_ did not commence.
 
 _(b)_ The _CFM Sale Act 1996_ was amended by Schedule 3 (items 94 and 95) only of the _Corporations (Repeals, Consequentials and Transitionals) Act 2001_, subsection 2(3) of which provides as follows:
 
@@ -1489,8 +1519,8 @@ _(b)_ The _CFM Sale Act 1996_ was amended by Schedule 3 (items 94 and 95) on
 
 <table>
 <colgroup>
-  <col width="32%">
-  <col width="68%">
+  <col width="34%">
+  <col width="66%">
 </colgroup>
 
 <thead>
@@ -1522,14 +1552,6 @@ _(b)_ The _CFM Sale Act 1996_ was amended by Schedule 3 (items 94 and 95) on
   </td>
   <td>
     <div>am. No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr>
 <tr>
@@ -1570,22 +1592,6 @@ _(b)_ The _CFM Sale Act 1996_ was amended by Schedule 3 (items 94 and 95) on
   </td>
   <td>
     <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>rep. No. 136, 2012</div>
   </td>
 </tr></table>
 
