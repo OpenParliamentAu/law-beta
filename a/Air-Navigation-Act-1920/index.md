@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00510/Html/AirNavigation1920_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00377/Html/AirNavigation1920_WD02_image001.gif)
 
 # Air Navigation Act 1920
 
 **Act No. 50 of 1920 as amended**
 
-This compilation was prepared on 2 October 2008
- taking into account amendments up to Act No. 87 of 2008
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -324,7 +324,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    The Minister may, by notice published in the _Gazette_, declare which countries are from time to time parties to the Chicago Convention, the Air Transit Agreement or any of the Protocols referred to in section 3A, and such a notice is evidence of the matter so declared.
 
-##### <a id="9"></a>9  International airports
+##### <a id="9"></a>9  International airports
 
              (1)  The Minister may, by signed writing, designate as an international airport an aerodrome at which facilities are available for the formalities incident to customs, immigration, quarantine and other requirements in connexion with arrival in or departure from Australian territory of aircraft.
 
@@ -3640,23 +3640,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008</div>
-  </td>
-  <td>
-    <div>87, 2008</div>
-  </td>
-  <td>
-    <div>20 Sept 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–22, 26, 27): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 26, 27) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     Section 2 of the _Air Navigation Act 1920_ provides as follows:
@@ -6727,146 +6710,6 @@ _(w)_ Subsection 2(1) (item 3) of the _Aviation Security Amendment Act 2004_ p
   </td>
 </tr></table>
 
-### Note 2
-
-_Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008 (No. 87, 2008)_
-
-The following amendments commence on 20 March 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 1  Subsection 3(1) (definition of _aircraft operator_ or _operator_)
-
-Repeal the definition.
-
-## 2  Subsection 3(1) (definition of _airport_)
-
-Repeal the definition.
-
-## 3  Subsection 3(1) (definition of _air service_)
-
-Repeal the definition.
-
-## 4  Subsection 3(1) (definition of _baggage_)
-
-Repeal the definition.
-
-## 5  Subsection 3(1) (definition of _charter operation_)
-
-Repeal the definition.
-
-## 6  Subsection 3(1) (definition of _international air service_)
-
-Repeal the definition.
-
-## 7  Subsection 3(1) (definition of _non-scheduled flight_)
-
-Omit “issued”, substitute “granted”.
-
-## 8  Subsection 3(1) (definition of _regular public transport operation_)
-
-Repeal the definition.
-
-## 9  Subsection 3(1) (definition of _thing_)
-
-Repeal the definition.
-
-## 10  Subsection 3(1) (definition of _threaten_)
-
-Repeal the definition.
-
-## 11  Sections 3AB and 3AC
-
-Repeal the sections.
-
-## 12  Subsection 11(1)
-
-Omit “(1)”.
-
-## 13  Subsection 11(1)
-
-Omit “conducted”, substitute “operated”.
-
-## 14  Subsection 11(2)
-
-Repeal the subsection.
-
-## 15  Subsection 12(1)
-
-Omit “Subject to subsection (1B), an international airline shall”, substitute “Subject to subsections (2) and (3), an international airline must”.
-
-_Note:       The heading to section 12 is replaced by the heading “Requirement to hold international airline licence”._
-
-## 16  Subsection 12(1)
-
-Omit “issued”, substitute “granted”.
-
-## 17  Subsection 12(1A)
-
-Omit “If an aircraft is flown in contravention of subsection (1), the operator of the aircraft is guilty of”, substitute “If an international airline contravenes subsection (1), the airline commits”.
-
-## 18  Subsection 12(1AA)
-
-Omit “operator”, substitute “international airline”.
-
-## 19  Subsections 12(1B), (2) and (3)
-
-Repeal the subsections, substitute:
-
-             (2)  Subsection (1) does not apply to a scheduled international air service if it is operated in accordance with a permission under section 15D.
-
-             (3)  The Secretary may, by legislative instrument, determine that subsection (1) does not apply in relation to a category of scheduled international air services. The determination has effect accordingly.
-
-             (4)  For the purposes of this section:
-
-                     (a)  an international airline may operate a scheduled international air service even if it does not operate the aircraft used to operate the service; and
-
-                     (b)  an international airline does not operate a scheduled international air service merely because it operates the aircraft used to operate the service.
-
-## 20  Section 13
-
-Repeal the section, substitute:
-
-##### <a id="13"></a>13  Licensing of scheduled international air services
-
-             (1)  Without limiting section 26, the regulations may provide for or in relation to the licensing of scheduled international air services operated over, into or out of Australian territory.
-
-             (2)  In particular, the regulations may provide for or in relation to the following:
-
-                     (a)  the granting of international airline licences by the Secretary;
-
-                     (b)  the imposition of conditions on international airline licences by the Secretary;
-
-                     (c)  the variation, suspension and cancellation of international airline licences by the Secretary;
-
-                     (d)  the surrender to the Secretary of international airline licences.
-
-             (3)  An international airline licence must not be granted  to an international airline of a country other than Australia unless that country and Australia are parties to:
-
-                     (a)  the Air Transit Agreement; or
-
-                     (b)  some other agreement or arrangement, whether bilateral or multilateral, under which scheduled international air services of that other country may, subject to the agreement or arrangement, be operated over or into Australian territory.
-
-             (4)  Subsection (3) does not limit subsection 12(3).
-
-## 21  Section 18
-
-Omit “subsections 15A(3) and 17(1B)”, substitute “subsection 12(3), 15A(3) or 17(1B)”.
-
-## 22  Before paragraph 23A(1)(a)
-
-Insert:
-
-                    (aa)  to do any of the following under the regulations:
-
-                              (i)  refuse to grant an international airline licence;
-
-                             (ii)  impose a condition on an international airline licence;
-
-                            (iii)  vary, refuse to vary, suspend or cancel an international airline licence; or
-
-As at 2 October 2008 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -6974,64 +6817,12 @@ _Aviation Transport Security (Consequential Amendments and Transitional Provisio
 
 **_old Act_** means the _Air Navigation Act 1920_ as in force immediately before the commencement of this item.
 
-## 2  Aviation security program continuation
+## 2  Aviation security program continuation
 
 Subsection 15(2) (which deals with the obligation for aviation industry participants to comply with the transport security programs of other participants) of the _Aviation Transport Security Act 2004_ does not apply in relation to a program continued as a transport security program under paragraph 1(2)(b) of this Schedule.
 
 ## 3  Transitional provision
 
 The exercise or purported exercise (whether before, at or after the commencement of this item) of the power under regulation 5 of the _Air Navigation (Aviation Security Status Checking) Regulations 2004_ to determine that a person has an adverse aviation security status is taken for all purposes to be, and is taken for all purposes always to have been, prescribed administrative action in respect of the person for the purposes of Part IV of the _Australian Security Intelligence Organisation Act 1979_.
-
-* * *
-
-_Aviation Legislation Amendment (International Airline Licences and Carriers’ Liability Insurance) Act 2008 (No. 87, 2008)_
-
-The following provisions commence on 20 March 2009 unless proclaimed earlier:
-
-## Schedule 1
-
-## 26  Pre-commencement licences
-
-(1)        Despite the amendments made by this Schedule, the old law continues to apply in relation to the operation of a scheduled international air service in respect of which an international airline licence was in force immediately before the commencement time.
-
-(2)        Subitem (1) has effect in relation to the operation of the service until whichever of the following first occurs:
-
-                     (a)  the international airline licence is surrendered or cancelled in accordance with the old law as it continues to apply under subitem (1);
-
-                     (b)  an international airline licence is granted, in respect of the operation of the service, under regulations made under the _Air Navigation Act 1920_ as in force at or after the commencement time;
-
-                     (c)  the international airline licence is cancelled under subitem (3).
-
-(3)        If the international airline licence is not surrendered or cancelled as mentioned in paragraph (2)(a) of this item, it is cancelled, by force of this subitem, when whichever of the following first occurs:
-
-                     (a)  an international airline licence is granted in respect of the operation of the service as mentioned in paragraph (2)(b) of this item;
-
-                     (b)  the period of 6 months beginning at the commencement time ends.
-
-(4)        The Minister may, by legislative instrument, determine that the period mentioned in paragraph (3)(b) of this item is extended for a specified licence by the period, not exceeding 2 months, specified in the determination. The Minister cannot extend the period for a particular licence more than once.
-
-(5)        A determination under subitem (4) has effect accordingly.
-
-(6)        In this item:
-
-**_commencement time_** means the time when this Schedule commences.
-
-**_old law_** means:
-
-                     (a)  an Act amended by this Schedule, as in force immediately before the commencement time; and
-
-                     (b)  regulations, as in force from time to time, made under such an Act, as in force immediately before the commencement time.
-
-## 27  Constitutional safety net—acquisition of property
-
-(1)        If the operation of this Part would result in an acquisition of property from a person otherwise than on just terms, the Commonwealth is liable to pay a reasonable amount of compensation to the person.
-
-(2)        If the Commonwealth and the person do not agree on the amount of the compensation, the person may institute proceedings in the Federal Court of Australia for the recovery from the Commonwealth of such reasonable amount of compensation as the court determines.
-
-(3)        In this item:
-
-**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
-
-**_just terms_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
  
