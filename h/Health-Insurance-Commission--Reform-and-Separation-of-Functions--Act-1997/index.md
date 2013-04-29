@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00219/Html/858bceea-54d3-400c-be1b-832e8b260ddf_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00021/Html/HealthInsurCommReformSeparFunct97_image001.gif)
 
 # Health Insurance Commission (Reform and Separation of Functions) Act 1997
 
 **Act No. 159 of 1997 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -34,17 +34,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [5](#5).            Nominated company
 
-[6](#6).            Fund‑transfer day
+[6](#6).            Fund-transfer day
 
-[7](#7).            Commission‑owned company
+[7](#7).            Commission-owned company
 
 [8](#8).            Crown to be bound
 
 [9](#9).            External Territories
 
-[10](#10).          Extra‑territorial operation
+[10](#10).          Extra-territorial operation
 
-    **Division 2—Provisions relating to the period when the nominated company is Commission‑owned**
+    **Division 2—Provisions relating to the period when the nominated company is Commission-owned**
 
 [11](#11).          Commission to hold shares in the nominated company
 
@@ -90,17 +90,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [27](#27).          Mobility rights—transferred employees
 
-[28](#28).          Re‑transfer of staff from the nominated company
+[28](#28).          Re-transfer of staff from the nominated company
 
-[29](#29).          Terms and conditions—re‑transferred employees
+[29](#29).          Terms and conditions—re-transferred employees
 
-[30](#30).          Accrued benefits—re‑transferred employees
+[30](#30).          Accrued benefits—re-transferred employees
 
-[31](#31).          Continuity of service of re‑transferred employees
+[31](#31).          Continuity of service of re-transferred employees
 
-[32](#32).          Termination payments—re‑transferred employees
+[32](#32).          Termination payments—re-transferred employees
 
-[33](#33).          Variation of terms and conditions—re‑transferred employees
+[33](#33).          Variation of terms and conditions—re-transferred employees
 
     **Division 5—Acquisition by the Commonwealth of shares in the nominated company**
 
@@ -130,7 +130,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [45](#45).          Application of certain provisions of the Corporations Act
 
-[46](#46).          Compensation—constitutional safety‑net
+[46](#46).          Compensation—constitutional safety-net
 
 [47](#47).          Delegation
 
@@ -154,7 +154,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 1—Amendments commencing on Royal Assent** 
 
-**Part 2—Amendments commencing on the fund‑transfer day** 
+**Part 2—Amendments commencing on the fund-transfer day** 
 
 **Part 3—Amendment commencing 5 years after Royal Assent** 
 
@@ -174,9 +174,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-             (2)  Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund‑transfer day.
+             (2)  Subject to subsection (3), Part 2 of Schedule 1 to this Act commences on the fund-transfer day.
 
-             (3)  If Schedule 2 to the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ does not commence before the fund‑transfer day:
+             (3)  If Schedule 2 to the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ does not commence before the fund-transfer day:
 
                      (a)  the amendments of section 9A of the _Health Insurance Commission Act 1973_; and
 
@@ -188,7 +188,7 @@ made by this Act commence immediately after the commencement of Schedule 2 to 
 
              (5)  In this section:
 
-                    <a name="fund-transfer-dai"></a>**_fund‑transfer day_** has the same meaning as in Part 2 of this Act.
+                    <a name="fund-transfer-dai"></a>**_fund-transfer day_** has the same meaning as in Part 2 of this Act.
 
 ## Part 2—Transitional provisions relating to the transfer of Medibank Private from the Health Insurance Commission to a separate organisation (the nominated company)
 
@@ -240,7 +240,7 @@ nominated company to the Commonwealth.</li>
 
                     <a name="commiss"></a>**_Commission_** means the Health Insurance Commission.
 
-                    <a name="commiss-owned"></a>**_Commission‑owned_**, in relation to a company, has the meaning given by section 7.
+                    <a name="commiss-owned"></a>**_Commission-owned_**, in relation to a company, has the meaning given by section 7.
 
                     <a name="contract"></a>**_contract_** includes:
 
@@ -254,7 +254,7 @@ nominated company to the Commonwealth.</li>
 
                     <a name="employe"></a>**_employee_** includes apprentice.
 
-                    <a name="fund-transfer-dai"></a>**_fund‑transfer day_** has the meaning given by section 6.
+                    <a name="fund-transfer-dai"></a>**_fund-transfer day_** has the meaning given by section 6.
 
                     <a name="instrum"></a>**_instrument_** includes a document.
 
@@ -262,15 +262,15 @@ nominated company to the Commonwealth.</li>
 
                     <a name="liabil"></a>**_liability_** means any liability, duty or obligation, whether actual, contingent or prospective.
 
-                    <a name="mibank-privat-function"></a>**_Medibank Private functions_**, in relation to the Commission, means the functions that were conferred on the Commission by Part IIA of the _Health Insurance Commission Act 1973_ as in force before the fund‑transfer day.
+                    <a name="mibank-privat-function"></a>**_Medibank Private functions_**, in relation to the Commission, means the functions that were conferred on the Commission by Part IIA of the _Health Insurance Commission Act 1973_ as in force before the fund-transfer day.
 
                     <a name="mibank-privat-fund"></a>**_Medibank Private fund_** means the health benefits fund conducted by the Commission.
 
                     <a name="nomin-compani"></a>**_nominated company_** has the meaning given by section 5.
 
-                    <a name="re-transfer-time"></a>**_re‑transfer time_**, in relation to an employee, has the meaning given by section 28.
+                    <a name="re-transfer-time"></a>**_re-transfer time_**, in relation to an employee, has the meaning given by section 28.
 
-                    <a name="re-transfer-employe"></a>**_re‑transferred employee_** means a person whose employment is transferred in accordance with a declaration under section 28.
+                    <a name="re-transfer-employe"></a>**_re-transferred employee_** means a person whose employment is transferred in accordance with a declaration under section 28.
 
                     <a name="transfer-time"></a>**_transfer time_**, in relation to an employee, has the meaning given by section 21.
 
@@ -288,15 +288,15 @@ nominated company to the Commonwealth.</li>
 
                      (b)  have a share capital; and
 
-                     (c)  be Commission‑owned.
+                     (c)  be Commission-owned.
 
              (3)  The declaration has effect accordingly.
 
              (4)  A copy of the declaration is to be published in the _Gazette_ within 14 days after the making of the declaration.
 
-##### <a id="6"></a>6  Fund‑transfer day 
+##### <a id="6"></a>6  Fund-transfer day 
 
-             (1)  The Minister may, by writing, determine that a specified day is the **_fund‑transfer day_** for the purposes of this Part.
+             (1)  The Minister may, by writing, determine that a specified day is the **_fund-transfer day_** for the purposes of this Part.
 
              (2)  The day must:
 
@@ -308,23 +308,23 @@ nominated company to the Commonwealth.</li>
 
              (4)  A copy of a determination under subsection (1) is to be published in the _Gazette_ within 14 days after the making of the determination.
 
-##### <a id="7"></a>7  Commission‑owned company
+##### <a id="7"></a>7  Commission-owned company
 
-                   For the purposes of this Part, a company is **_Commission‑owned_** at a particular time if, and only if, all the shares in the company are legally and beneficially owned by the Commission at that time.
+                   For the purposes of this Part, a company is **_Commission-owned_** at a particular time if, and only if, all the shares in the company are legally and beneficially owned by the Commission at that time.
 
 ##### <a id="8"></a>8  Crown to be bound
 
                    This Part binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory, of the Northern Territory and of Norfolk Island.
 
-##### <a id="9"></a>9  External Territories 
+##### <a id="9"></a>9  External  Territories 
 
                    This Part extends to all the external Territories.
 
-##### <a id="10"></a>10  Extra‑territorial operation
+##### <a id="10"></a>10  Extra-territorial operation
 
                    This Part extends to acts, omissions, matters and things outside Australia, whether or not in a foreign country.
 
-### Division 2—Provisions relating to the period when the nominated company is Commission‑owned
+### Division 2—Provisions relating to the period when the nominated company is Commission-owned
 
 ##### <a id="11"></a>11  Commission to hold shares in the nominated company
 
@@ -360,7 +360,7 @@ Note:          This subsection has effect subject to subsectio
 
 ##### <a id="12"></a>12  Nominated company must seek registration as a registered health benefits organisation
 
-             (1)  This section applies to the nominated company if the company is Commission‑owned.
+             (1)  This section applies to the nominated company if the company is Commission-owned.
 
              (2)  The nominated company must take all steps that are open to it to obtain registration as a registered health benefits organisation under the _National Health Act 1953_.
 
@@ -368,7 +368,7 @@ Note:          This subsection has effect subject to subsectio
 
 ##### <a id="13"></a>13  Activities of the nominated company
 
-             (1)  This section applies to the nominated company if the company is Commission‑owned.
+             (1)  This section applies to the nominated company if the company is Commission-owned.
 
              (2)  Section 29 of the _Commonwealth Authorities and Companies Act 1997_ does not apply to the nominated company.
 
@@ -382,11 +382,11 @@ Note:          This means that the nominated company can carry
 
              (1)  The Commission’s functions include the provision, on request, of services or facilities, where:
 
-                     (a)  the services or facilities are provided to the nominated company on a cost‑recovery basis; and
+                     (a)  the services or facilities are provided to the nominated company on a cost-recovery basis; and
 
                      (b)  the services or facilities are provided to the nominated company under an agreement or arrangement; and
 
-                     (c)  the agreement or arrangement was entered into when the nominated company was Commission‑owned; and
+                     (c)  the agreement or arrangement was entered into when the nominated company was Commission-owned; and
 
                      (d)  the provision of the services or facilities relates to an activity that can lawfully be carried on by the nominated company.
 
@@ -414,11 +414,11 @@ Note:          This means that the nominated company can carry
 
              (1)  The Minister may, by writing, formulate a scheme for the transfer of the Medibank Private fund, and the business of that fund, to the nominated company.
 
-             (2)  The scheme must provide that the transfer will occur on the fund‑transfer day.
+             (2)  The scheme must provide that the transfer will occur on the fund-transfer day.
 
              (3)  The scheme must provide that the transfer does not affect the continuity of a person’s status as a contributor to the fund.
 
-             (4)  The scheme must require the nominated company to adopt the rules in force under section 8A of the _Health Insurance Commission Act 1973_ immediately before the fund‑transfer day, subject to such modifications (if any) as are set out in the scheme. However, this subsection does not prevent the rules from being varied by the nominated company after the fund‑transfer day.
+             (4)  The scheme must require the nominated company to adopt the rules in force under section 8A of the _Health Insurance Commission Act 1973_ immediately before the fund-transfer day, subject to such modifications (if any) as are set out in the scheme. However, this subsection does not prevent the rules from being varied by the nominated company after the fund-transfer day.
 
              (5)  The scheme may contain such ancillary or incidental provisions as the Minister considers appropriate.
 
@@ -432,7 +432,7 @@ Note:          This means that the nominated company can carry
 
              (8)  A copy of the scheme is to be published in the _Gazette_ within 14 days after the formulation of the scheme.
 
-             (9)  To avoid doubt, the scheme may be varied or revoked, in accordance with subsection 33(3) of the _Acts Interpretation Act 1901_, at any time before the fund‑transfer day.
+             (9)  To avoid doubt, the scheme may be varied or revoked, in accordance with subsection 33(3) of the _Acts Interpretation Act 1901_, at any time before the fund-transfer day.
 
            (10)  This section does not limit section 17, 18 or 19.
 
@@ -460,7 +460,7 @@ Note:          An asset or instrument may be specified by name
 
              (4)  A copy of a declaration under subsection (2) is to be published in the _Gazette_ within 14 days after the making of the declaration.
 
-             (5)  If a declaration under subsection (2) relates to an asset of the Medibank Private fund, the time specified under paragraph (2)(a) must be a time that occurs during the fund‑transfer day.
+             (5)  If a declaration under subsection (2) relates to an asset of the Medibank Private fund, the time specified under paragraph (2)(a) must be a time that occurs during the fund-transfer day.
 
              (6)  Subsection (2) does not prevent the Commission from transferring an asset to the nominated company otherwise than under that subsection.
 
@@ -496,11 +496,11 @@ Note:          An asset or instrument may be specified by name
 
                      (c)  an applicable benefits arrangement (within the meaning of the _National Health Act 1953_);
 
-                     (d)  a hospital purchaser‑provider agreement (within the meaning of the _National Health Act 1953_);
+                     (d)  a hospital purchaser-provider agreement (within the meaning of the _National Health Act 1953_);
 
-                     (e)  a medical purchaser‑provider agreement (within the meaning of the _National Health Act 1953_);
+                     (e)  a medical purchaser-provider agreement (within the meaning of the _National Health Act 1953_);
 
-the time specified under subsection (2) or (3) must be a time that occurs during the fund‑transfer day.
+the time specified under subsection (2) or (3) must be a time that occurs during the fund-transfer day.
 
              (9)  This section does not, by implication, limit section 17 or 19.
 
@@ -532,7 +532,7 @@ Note:          A contract or instrument may be specified by na
 
              (4)  A copy of a declaration under subsection (2) is to be published in the _Gazette_ within 14 days after the making of the declaration.
 
-             (5)  If a declaration under subsection (2) relates to a liability of the Medibank Private fund, the time specified under subsection (2) must be a time that occurs during the fund‑transfer day.
+             (5)  If a declaration under subsection (2) relates to a liability of the Medibank Private fund, the time specified under subsection (2) must be a time that occurs during the fund-transfer day.
 
 Note:          A liability or instrument may be specified by name, by inclusion in a specified class or in any other way.
 
@@ -604,9 +604,9 @@ Note:          A liability or instrument may be specified by n
 
              (4)  A time specified under subsection (2) must be a time that occurs:
 
-                     (a)  when the nominated company is Commission‑owned; or
+                     (a)  when the nominated company is Commission-owned; or
 
-                     (b)  within 18 months after the nominated company ceases to be Commission‑owned.
+                     (b)  within 18 months after the nominated company ceases to be Commission-owned.
 
              (5)  A copy of a declaration under subsection (2) is to be published in the _Gazette_ within 14 days after the making of the declaration.
 
@@ -656,9 +656,9 @@ A transferred employee is not entitled to receive any payment or other benefit m
 
                      (c)  a transitional award or a variation or order affecting a transitional award;
 
-                     (d)  a pre‑reform AWA;
+                     (d)  a pre-reform AWA;
 
-                     (e)  a pre‑reform certified agreement;
+                     (e)  a pre-reform certified agreement;
 
                       (f)  an AWA.
 
@@ -674,29 +674,29 @@ A transferred employee is not entitled to receive any payment or other benefit m
 
                    For the purposes of the application of Part IV of the _Public Service Act 1922_ in relation to a transferred employee, the nominated company is taken to be, after the employee’s transfer time, a Commonwealth authority for the purposes of that Part.
 
-##### <a id="28"></a>28  Re‑transfer of staff from the nominated company 
+##### <a id="28"></a>28  Re-transfer of staff from the nominated company 
 
              (1)  This section applies to an employee of the nominated company if the employee was engaged by the company under section 21.
 
 (2)The Minister may, by written instrument, declare that a specified employee:
 
-                     (a)  ceases to be employed by the nominated company at a specified time (the employee’s **_re‑transfer time_**); and
+                     (a)  ceases to be employed by the nominated company at a specified time (the employee’s **_re-transfer time_**); and
 
-                     (b)  is taken to have been engaged by the Commission as an employee of the Commission at the employee’s re‑transfer time.
+                     (b)  is taken to have been engaged by the Commission as an employee of the Commission at the employee’s re-transfer time.
 
              (3)  A declaration under this section has effect accordingly.
 
              (4)  A time specified under subsection (2) must be a time that occurs:
 
-                     (a)  when the nominated company is Commission‑owned; or
+                     (a)  when the nominated company is Commission-owned; or
 
-                     (b)  within 18 months after the nominated company ceases to be Commission‑owned.
+                     (b)  within 18 months after the nominated company ceases to be Commission-owned.
 
              (5)  A copy of a declaration under subsection (2) is to be published in the _Gazette_ within 14 days after the making of the declaration.
 
-##### <a id="29"></a>29  Terms and conditions—re‑transferred employees
+##### <a id="29"></a>29  Terms and conditions—re-transferred employees
 
-             (1)  A person who is a re‑transferred employee is to be engaged by the Commission on terms and conditions that are not less favourable than those that applied to the person, immediately before the employee’s re‑transfer time, as an employee of the nominated company.
+             (1)  A person who is a re-transferred employee is to be engaged by the Commission on terms and conditions that are not less favourable than those that applied to the person, immediately before the employee’s re-transfer time, as an employee of the nominated company.
 
 (2)A reference in subsection (1) to **_terms and conditions_** is a reference to terms and conditions that are set out in:
 
@@ -710,21 +710,21 @@ A transferred employee is not entitled to receive any payment or other benefit m
 
                      (e)  an Australian Workplace Agreement (as defined by section 4 of the _Workplace Relations Act 1996_ as in force immediately before the commencement of Schedule 1 to the _Workplace Relations Amendment (Work Choices) Act 2005_).
 
-##### <a id="30"></a>30  Accrued benefits—re‑transferred employees
+##### <a id="30"></a>30  Accrued benefits—re-transferred employees
 
-                   A person who is a re‑transferred employee is taken to have accrued an entitlement to benefits, in connection with the employee’s engagement by the Commission, that is equivalent to the entitlement that the person had accrued, as an employee of the nominated company, immediately before the employee’s re‑transfer time.
+                   A person who is a re-transferred employee is taken to have accrued an entitlement to benefits, in connection with the employee’s engagement by the Commission, that is equivalent to the entitlement that the person had accrued, as an employee of the nominated company, immediately before the employee’s re-transfer time.
 
-##### <a id="31"></a>31  Continuity of service of re‑transferred employees
+##### <a id="31"></a>31  Continuity of service of re-transferred employees
 
-The service of a re‑transferred employee as an employee of the Commission is taken, for all purposes, to have been continuous with the service of the employee, immediately before the employee’s re‑transfer time, as an employee of the nominated company.
+The service of a re-transferred employee as an employee of the Commission is taken, for all purposes, to have been continuous with the service of the employee, immediately before the employee’s re-transfer time, as an employee of the nominated company.
 
-##### <a id="32"></a>32  Termination payments—re‑transferred employees
+##### <a id="32"></a>32  Termination payments—re-transferred employees
 
-A re‑transferred employee is not entitled to receive any payment or other benefit merely because he or she stopped being an employee of the nominated company as a result of this Part.
+A re-transferred employee is not entitled to receive any payment or other benefit merely because he or she stopped being an employee of the nominated company as a result of this Part.
 
-##### <a id="33"></a>33  Variation of terms and conditions—re‑transferred employees
+##### <a id="33"></a>33  Variation of terms and conditions—re-transferred employees
 
-             (1)  This Part does not prevent the terms and conditions of a re‑transferred employee’s employment after the employee’s re‑transfer time from being varied:
+             (1)  This Part does not prevent the terms and conditions of a re-transferred employee’s employment after the employee’s re-transfer time from being varied:
 
                      (a)  in accordance with those terms and conditions; or
 
@@ -740,9 +740,9 @@ A re‑transferred employee is not entitled to receive any payment or other bene
 
                      (c)  a transitional award or a variation or order affecting a transitional award;
 
-                     (d)  a pre‑reform AWA;
+                     (d)  a pre-reform AWA;
 
-                     (e)  a pre‑reform certified agreement;
+                     (e)  a pre-reform certified agreement;
 
                       (f)  an AWA.
 
@@ -910,19 +910,19 @@ Note:          A record may be specified by name, by inclusion
 
              (1)  Section 186 and paragraph 461(d) of the _Corporations Act 2001_ do not apply to the nominated company.
 
-             (2)  If the nominated company is Commission‑owned, subsection 249(7) of the _Corporations Act 2001_ applies to the nominated company as if:
+             (2)  If the nominated company is Commission-owned, subsection 249(7) of the _Corporations Act 2001_ applies to the nominated company as if:
 
                      (a)  the Commission were a holding company (within the meaning of that subsection) of the nominated company; and
 
                      (b)  the Chairperson of the Commission were a representative of the Commission authorised under subsection 249(3) of the _Corporations Act 2001_.
 
-             (3)  If the nominated company is not Commission‑owned, subsection 249(7) of the _Corporations Act 2001_ applies to the nominated company as if:
+             (3)  If the nominated company is not Commission-owned, subsection 249(7) of the _Corporations Act 2001_ applies to the nominated company as if:
 
                      (a)  the Commonwealth were a holding company (within the meaning of that subsection) of the nominated company; and
 
                      (b)  the Minister were a representative of the Commonwealth authorised under subsection 249(3) of the _Corporations Act 2001_.
 
-##### <a id="46"></a>46  Compensation—constitutional safety‑net
+##### <a id="46"></a>46  Compensation—constitutional safety-net
 
              (1)  If:
 
@@ -966,7 +966,7 @@ Note:          Subdivision C of Division 4 deals with transf
 
              (4)  The Minister may, by writing, delegate to:
 
-                     (a)  the Secretary of the Department; or
+                     (a)  the Secretary to the Department; or
 
                      (b)  a person holding or performing the duties of a Senior Executive Service office in the Department;
 
@@ -992,7 +992,7 @@ all or any of the powers conferred on the Minister by subsection 249(7) of the _
 
              (2)  A Commonwealth record (within the meaning of the _Archives Act 1983_) must not be transferred to a person under this Part unless the Australian Archives has given permission under paragraph 24(2)(b) of the _Archives Act 1983_.
 
-             (3)  If the nominated company is Commission‑owned, the _Archives Act 1983_ has effect as if the nominated company were a Commonwealth‑controlled company (within the meaning of that Act).
+             (3)  If the nominated company is Commission-owned, the _Archives Act 1983_ has effect as if the nominated company were a Commonwealth-controlled company (within the meaning of that Act).
 
 ##### <a id="49"></a>49  Complaints and investigations under the _Ombudsman Act 1976_
 
@@ -1000,23 +1000,23 @@ all or any of the powers conferred on the Minister by subsection 249(7) of the _
 
                      (a)  a complaint if:
 
-                              (i)  the complaint could have been made to the Ombudsman under the _Ombudsman Act 1976_ before the fund‑transfer day in relation to action taken by the Commission in connection with the performance of the Commission’s Medibank Private functions; and
+                              (i)  the complaint could have been made to the Ombudsman under the _Ombudsman Act 1976_ before the fund-transfer day in relation to action taken by the Commission in connection with the performance of the Commission’s Medibank Private functions; and
 
-                             (ii)  the complaint is made on or after the fund‑transfer day;
+                             (ii)  the complaint is made on or after the fund-transfer day;
 
                      (b)  a complaint if:
 
-                              (i)  before the fund‑transfer day, the complaint was made to the Ombudsman under the _Ombudsman Act 1976_ in relation to action taken by the Commission in connection with the performance of the Commission’s Medibank Private functions; and
+                              (i)  before the fund-transfer day, the complaint was made to the Ombudsman under the _Ombudsman Act 1976_ in relation to action taken by the Commission in connection with the performance of the Commission’s Medibank Private functions; and
 
-                             (ii)  immediately before the fund‑transfer day, the Ombudsman had not finally disposed of the matter in accordance with that Act; or
+                             (ii)  immediately before the fund-transfer day, the Ombudsman had not finally disposed of the matter in accordance with that Act; or
 
                      (c)  an investigation if:
 
-                              (i)  before the fund‑transfer day, the Ombudsman commenced the investigation under the _Ombudsman Act 1976_ in relation to action taken by the Commission in connection with the performance of the Commission’s Medibank Private functions; and
+                              (i)  before the fund-transfer day, the Ombudsman commenced the investigation under the _Ombudsman Act 1976_ in relation to action taken by the Commission in connection with the performance of the Commission’s Medibank Private functions; and
 
-                             (ii)  immediately before the fund‑transfer day, the Ombudsman had not finally disposed of the matter in accordance with that Act.
+                             (ii)  immediately before the fund-transfer day, the Ombudsman had not finally disposed of the matter in accordance with that Act.
 
-             (2)  The _Ombudsman Act 1976_ has effect on and after the fund‑transfer day, in relation to the complaint or investigation, as if:
+             (2)  The _Ombudsman Act 1976_ has effect on and after the fund-transfer day, in relation to the complaint or investigation, as if:
 
                      (a)  the action taken by the Commission had been taken by the nominated company; and
 
@@ -1028,29 +1028,29 @@ all or any of the powers conferred on the Minister by subsection 249(7) of the _
 
              (1)  If:
 
-                     (a)  before the fund‑transfer day, a request was made under the _Freedom of Information Act 1982_ for access to a document in the possession of the Commission; and
+                     (a)  before the fund-transfer day, a request was made under the _Freedom of Information Act 1982_ for access to a document in the possession of the Commission; and
 
                      (b)  the document has been transferred to the nominated company under this Part; and
 
-                     (c)  the request had not been finally disposed of under the _Freedom of Information Act 1982_ immediately before the fund‑transfer day;
+                     (c)  the request had not been finally disposed of under the _Freedom of Information Act 1982_ immediately before the fund-transfer day;
 
 then:
 
-                     (d)  the request is taken to have been transferred to the nominated company on the fund‑transfer day; and
+                     (d)  the request is taken to have been transferred to the nominated company on the fund-transfer day; and
 
-                     (e)  the _Freedom of Information Act 1982_ has effect on and after the fund‑transfer day, in relation to the request, as if the nominated company were an agency (within the meaning of that Act).
+                     (e)  the _Freedom of Information Act 1982_ has effect on and after the fund-transfer day, in relation to the request, as if the nominated company were an agency (within the meaning of that Act).
 
              (2)  If:
 
-                     (a)  immediately before the fund‑transfer day, a person had a right to:
+                     (a)  immediately before the fund-transfer day, a person had a right to:
 
                               (i)  apply under the _Administrative Appeals Tribunal Act 1975_ (the **_AAT Act_**) for a review of a decision of the Commission made under the _Freedom of Information Act 1982_ in relation to a particular document, where possession of the document has been transferred from the Commission to the nominated company under this Part; or
 
                              (ii)  request under the AAT Act a statement of reasons for such a decision; or
 
-                     (b)  before the fund‑transfer day, a person made such an application or request but it had not been finally disposed of under the AAT Act before the fund‑transfer day;
+                     (b)  before the fund-transfer day, a person made such an application or request but it had not been finally disposed of under the AAT Act before the fund-transfer day;
 
-the AAT Act has effect on and after the fund‑transfer day, in relation to the right, application or request as if:
+the AAT Act has effect on and after the fund-transfer day, in relation to the right, application or request as if:
 
                      (c)  the decision made by the Commission had been made by the nominated company; and
 
@@ -1064,23 +1064,23 @@ the AAT Act has effect on and after the fund‑transfer day, in relation to the 
 
                      (a)  a complaint if:
 
-                              (i)  the complaint could have been made to the Privacy Commissioner under the _Privacy Act 1988_ before the fund‑transfer day in relation to an act or practice of the Commission in connection with the performance of the Commission’s Medibank Private functions; and
+                              (i)  the complaint could have been made to the Privacy Commissioner under the _Privacy Act 1988_ before the fund-transfer day in relation to an act or practice of the Commission in connection with the performance of the Commission’s Medibank Private functions; and
 
-                             (ii)  the complaint is made on or after the fund‑transfer day; or
+                             (ii)  the complaint is made on or after the fund-transfer day; or
 
                      (b)  a complaint if:
 
-                              (i)  before the fund‑transfer day, the complaint was made to the Privacy Commissioner under the _Privacy Act 1988_ in relation to an act or practice of the Commission in connection with the performance of the Commission’s Medibank Private functions; and
+                              (i)  before the fund-transfer day, the complaint was made to the Privacy Commissioner under the _Privacy Act 1988_ in relation to an act or practice of the Commission in connection with the performance of the Commission’s Medibank Private functions; and
 
-                             (ii)  immediately before the fund‑transfer day, the Privacy Commissioner had not finally disposed of the matter in accordance with that Act; or
+                             (ii)  immediately before the fund-transfer day, the Privacy Commissioner had not finally disposed of the matter in accordance with that Act; or
 
                      (c)  an investigation if:
 
-                              (i)  before the fund‑transfer day, the Privacy Commissioner commenced the investigation under the _Privacy Act 1988_ in relation to an act or practice of the Commission in connection with the performance of the Commission’s Medibank Private functions; and
+                              (i)  before the fund-transfer day, the Privacy Commissioner commenced the investigation under the _Privacy Act 1988_ in relation to an act or practice of the Commission in connection with the performance of the Commission’s Medibank Private functions; and
 
-                             (ii)  immediately before the fund‑transfer day, the Privacy Commissioner had not finally disposed of the matter in accordance with that Act.
+                             (ii)  immediately before the fund-transfer day, the Privacy Commissioner had not finally disposed of the matter in accordance with that Act.
 
-             (2)  The _Privacy Act 1988_ has effect on and after the fund‑transfer day, in relation to the complaint or investigation, as if:
+             (2)  The _Privacy Act 1988_ has effect on and after the fund-transfer day, in relation to the complaint or investigation, as if:
 
                      (a)  the act or practice of the Commission had been an act or practice of the nominated company; and
 
@@ -1094,7 +1094,7 @@ the AAT Act has effect on and after the fund‑transfer day, in relation to the 
 
 ##### <a id="53"></a>53  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Part to be prescribed; or
 
@@ -1116,7 +1116,7 @@ the AAT Act has effect on and after the fund‑transfer day, in relation to the 
 
 The amendments made by this Part are incorporated in the compilations on ComLaw.
 
-_Health Insurance Commission Act 1973_<span style="font-size:9.0pt">\[now cited as _Medicare Australia Act 1973_]</span>
+_Health Insurance Commission Act 1973_<span style="font-size:9.0pt">\[now cited as _Medicare_</span>_Australia__Act 1973_<span style="font-size:9.0pt">]</span>
 
 _Hearing Services Administration Act 1997_
 
@@ -1124,7 +1124,7 @@ For access to the wording of the amendments made by this Part, _see_ Act No. 1
 
 * * *
 
-## Part 2—Amendments commencing on the fund‑transfer day
+## Part 2—Amendments commencing on the fund-transfer day
 
 * * *
 
@@ -1134,7 +1134,7 @@ The amendments made by this Part are incorporated in the compilations on ComLaw.
 
 _Commonwealth Borrowing Levy Act 1987_
 
-_Health Insurance Commission Act 1973_<span style="font-size:9.0pt">\[now cited as _Medicare Australia Act 1973_]</span>
+_Health Insurance Commission Act 1973_<span style="font-size:9.0pt">\[now cited as _Medicare_</span>_Australia__Act 1973_<span style="font-size:9.0pt">]</span>
 
 For access to the wording of the amendments made by this Part, _see_ Act No. 159 of 1997.
 
@@ -1148,7 +1148,7 @@ For access to the wording of the amendments made by this Part, _see_ Act No. 1
 
 The amendment made by this Part is incorporated in the compilation on ComLaw.
 
-_Health Insurance Commission Act 1973_<span style="font-size:9.0pt">\[now cited as _Medicare Australia Act 1973_]</span>
+_Health Insurance Commission Act 1973_<span style="font-size:9.0pt">\[now cited as _Medicare_</span>_Australia__Act 1973_<span style="font-size:9.0pt">]</span>
 
 For access to the wording of the amendments made by this Part, _see_ Act No. 159 of 1997.
 
@@ -1162,7 +1162,7 @@ For access to the wording of the amendments made by this Part, _see_ Act No. 1
 
 The amendments made by this Schedule are incorporated in the compilations on ComLaw.
 
-Health Insurance Commission Regulations <span style="font-size:9.0pt;font-style:normal">\[now cited as</span><span style="font-size:9.0pt"> Medicare Australia Regulations 1975</span><span style="font-size:9.0pt;font-style:normal">]</span>
+Health Insurance Commission Regulations <span style="font-size:9.0pt;font-style:normal">\[now cited as</span><span style="font-size:9.0pt"> Medicare </span><span style="font-size:9.0pt">Australia</span><span style="font-size:9.0pt"> Regulations 1975</span><span style="font-size:9.0pt;font-style:normal">]</span>
 
 For access to the wording of the amendments made by this Schedule, _see_ Act No. 159 of 1997.
 
@@ -1299,28 +1299,11 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 70): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsection 2(3) of the _Health Insurance Commission (Reform and Separation of Functions) Act 1997_ provides as follows:
 
-                 (3)   If Schedule 2 to the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ does not commence before the fund‑transfer day:
+                 (3)   If Schedule 2 to the _Audit (Transitional and Miscellaneous) Amendment Act 1997_ does not commence before the fund-transfer day:
 
                               (a)   the amendments of section 9A of the _Health Insurance Commission Act 1973_; and
 
@@ -1522,7 +1505,7 @@ _(b)_ The _Health Insurance Commission (Reform and Separation of Functions) Act 
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 55, 2001; No. 5, 2011</div>
+    <div>am. No. 55, 2001</div>
   </td>
 </tr></table>
 
@@ -1538,6 +1521,6 @@ The following amendment commences on the designated sale day declared under sect
 
 Repeal the section.
 
-As at 19 April 2011 the amendment is not incorporated in this compilation.
+As at 1 January 2011 the amendment is not incorporated in this compilation.
 
  
