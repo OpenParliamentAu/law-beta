@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00031/Html/9fbae9c5-368c-4250-b535-8646c280c745_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00890/Html/9e905f0e-31b0-44a6-9ff0-e388191a6e7e_files/image001.gif)
 
 # Crimes Act 1914
 
 **Act No. 12 of 1914 as amended**
 
-This compilation was prepared on 14 January 2013
- taking into account amendments up to Act No. 197 of 2012
+This compilation was prepared on 4 December 2012
+ taking into account amendments up to Act No. 167 of 2012
 
 **Volume 1**includes:  Table of Contents
 
@@ -74,7 +74,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [3J](#3J).          Specific powers available to constables executing warrant
 
-[3JA](#3JA).       Extension of time to re‑enter premises in emergency situations
+[3JA](#3JA).       Extension of time to re‑enter premises in emergency 
+ situations
 
 [3K](#3K).         Use of equipment to examine or process things
 
@@ -186,7 +187,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [3ZO](#3ZO).       Identification by means of photographs
 
-[3ZP](#3ZP).       Identification procedures where there is more than one suspect
+[3ZP](#3ZP).       Identification procedures where there is more than one 
+ suspect
 
 [3ZQ](#3ZQ).       Descriptions
 
@@ -484,60 +486,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [15J](#15J).        Chief Executive Officer of Customs to be notified of certain authorities
 
-**Part IABA—Integrity testing** 
-
-    **Division 1—Introduction**
-
-[15JA](#15JA).     Integrity testing—simplified outline
-
-[15JB](#15JB).      Integrity testing—concurrent operation of State and Territory laws
-
-[15JC](#15JC).      Integrity testing—definitions
-
-[15JD](#15JD).     Integrity testing—meaning of _integrity testing operation_
-
-    **Division 2—Integrity testing operations: authority**
-
-[15JE](#15JE).      Integrity testing authorities—circumstances in which applications may be made
-
-[15JF](#15JF).      Integrity testing authorities—application
-
-[15JG](#15JG).     Integrity testing authorities—grant
-
-[15JH](#15JH).     Integrity testing authorities—form
-
-[15JI](#15JI).       Integrity testing authorities—notice to Integrity Commissioner
-
-[15JJ](#15JJ).       Integrity testing authorities—duration
-
-[15JK](#15JK).      Integrity testing authorities—variation
-
-[15JL](#15JL).      Integrity testing authorities—cancellation
-
-[15JM](#15JM).     Integrity testing authorities—defects
-
-    **Division 3—Integrity testing operations: protection of participants**
-
-[15JN](#15JN).     Integrity testing operations—authorised conduct
-
-[15JO](#15JO).     Integrity testing operations—indemnity against civil liability
-
-[15JP](#15JP).      Integrity testing operations—participants unaware of variation or cancellation of authority
-
-    **Division 4—Integrity testing operations: disclosure of information**
-
-[15JQ](#15JQ).     Integrity testing operations—disclosure
-
-[15JR](#15JR).      Integrity testing operations—disclosure endangering safety etc 
-
-    **Division 5—Integrity testing operations: reporting**
-
-[15JS](#15JS).      Integrity testing operations—annual reports
-
-    **Division 6—Integrity testing operations: evidence**
-
-[15JT](#15JT).      Evidence of integrity testing authorities
-
 **Part IAC—Assumed Identities** 
 
     **Division 1—Preliminary**
@@ -574,7 +522,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [15KM](#15KM).    Return of evidence of assumed identity
 
-[15KN](#15KN).    Protection from criminal liability—officers of issuing agencies
+[15KN](#15KN).    Protection from criminal liability—officers of issuing 
+ agencies
 
 [15KO](#15KO).    Indemnity for issuing agencies and officers
 
@@ -972,7 +921,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [23C](#23C).       Period of investigation if arrested for a non‑terrorism offence
 
-[23D](#23D).       Application may be made for extension of investigation period
+[23D](#23D).       Application may be made for extension of investigation 
+ period
 
 [23DA](#23DA).    Magistrate may extend investigation period
 
@@ -984,7 +934,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
 [23DD](#23DD).    Time during which suspension or delay of questioning may be disregarded—time specified by magistrate
 
-[23DE](#23DE).     Application may be made for extension of investigation period
+[23DE](#23DE).     Application may be made for extension of investigation 
+ period
 
 [23DF](#23DF).     Magistrate may extend investigation period
 
@@ -994,7 +945,8 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
     **Division 3—Obligations of investigating officials**
 
-[23F](#23F).        Cautioning persons who are under arrest or protected suspects
+[23F](#23F).        Cautioning persons who are under arrest or protected 
+ suspects
 
 [23G](#23G).       Right to communicate with friend, relative and legal practitioner
 
@@ -2396,7 +2348,7 @@ Forfeiture of thing seized
 
 ##### <a id="3UI"></a>3UI  Applications for declarations
 
-                   A police officer may apply to the Minister for a declaration that a Commonwealth place be declared as a prescribed security zone.
+                   A police officer may apply to the Minister for a declaration that a Commonwealth place be declared as a prescribed security zone.
 
 ##### <a id="3UJ"></a>3UJ  Minister may make declarations
 
@@ -4248,9 +4200,7 @@ A law of the Commonwealth relating to criminal matters
 
              (1)  In a law of the Commonwealth or a Territory Ordinance, unless the contrary intention appears:
 
-                    <a name="penalti-unit"></a>**_penalty unit_** means $170.
-
-          (1A)  The Attorney‑General must cause a review of the amount of a penalty unit to be conducted as soon as possible after each third anniversary of the day an alteration of the amount of a penalty unit last came into force.
+                    <a name="penalti-unit"></a>**_penalty unit_** means $110.
 
              (2)  In this section:
 
@@ -4290,7 +4240,7 @@ and includes a regulation made under such an ordinance.
 
              (2)  Where a natural person is convicted of an offence against a law of the Commonwealth punishable by imprisonment only, the court may, if the contrary intention does not appear and the court thinks it appropriate in all the circumstances of the case, impose, instead of, or in addition to, a penalty of imprisonment, a pecuniary penalty not exceeding the number of penalty units calculated using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2013C00031/Html/9fbae9c5-368c-4250-b535-8646c280c745_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00890/Html/9e905f0e-31b0-44a6-9ff0-e388191a6e7e_files/image002.gif)
 
 where:
 
@@ -4804,11 +4754,11 @@ subsection (1) operates to require that law to apply and be applied in the sam
 
                    In this Part:
 
-                    <a name="acc-authorising-offic"></a>**_ACC authorising officer_** has the meaning given by subsection 15GF(3).
+                    <a name="acc-authorising-offic"></a>**_ACC authorising officer_** has the meaning given by subsection 15GF(4).
 
-                    <a name="aclei-authorising-offic"></a>**_ACLEI authorising officer_** has the meaning given by subsection 15GF(4).
+                    <a name="aclei-authorising-offic"></a>**_ACLEI authorising officer_** has the meaning given by subsection 15GF(5).
 
-                    <a name="afp-authorising-offic"></a>**_AFP authorising officer_** has the meaning given by subsection 15GF(2).
+                    <a name="afp-authorising-offic"></a>**_AFP authorising officer_** has the meaning given by subsection 15GF(3).
 
                     <a name="appropri-authorising-offic"></a>**_appropriate authorising officer_**, for a controlled operation authorised under this Part, means the following:
 
@@ -4858,20 +4808,6 @@ subsection (1) operates to require that law to apply and be applied in the sam
 
 prescribed by the regulations for the purposes of this definition.
 
-                    <a name="disciplinari-legal-action"></a>**_disciplinary or legal action_**, in relation to a staff member of a target agency, means any of the following:
-
-                     (a)  action in respect of alleged misconduct of the staff member;
-
-                     (b)  termination of the employment or appointment of the staff member;
-
-                     (c)  a disciplinary proceeding in relation to the staff member, within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_, or a report of such a proceeding;
-
-                     (d)  the investigation of an offence suspected to have been committed by the staff member;
-
-                     (e)  a legal proceeding in relation to the staff member, or a report of such a proceeding.
-
-**_Disciplinary or legal action_** also includes the consideration of whether an action or proceeding covered by this definition should be taken or brought.
-
                     <a name="exercis"></a>**_exercise_** a function includes perform a duty.
 
                     <a name="formal-applic"></a>**_formal application_** has the meaning given by paragraph 15GH(2)(a).
@@ -4891,12 +4827,6 @@ prescribed by the regulations for the purposes of this definition.
                      (b)  in relation to a variation made by a nominated Tribunal member—has the meaning given by paragraph 15GW(1)(a).
 
                     <a name="function"></a>**_function_** includes a power, authority or duty.
-
-                    <a name="integr-test-author"></a>**_integrity testing authority_** means an authority granted under Part IABA, and includes any such authority as varied.
-
-                    <a name="integr-test-control-oper-author"></a>**_integrity testing controlled operation authority_** means an authority granted under section 15GI on the basis that an integrity testing authority is in effect.
-
-Note:          See subparagraph 15GI(2)(a)(ii).
 
                     <a name="law-enforc-agenc"></a>**_law enforcement agency_** means any of the following:
 
@@ -4929,18 +4859,6 @@ Note:          See subparagraph 15GI(2)(a)(ii).
                     <a name="seriou-commonwealth-offenc"></a>**_serious Commonwealth offence_** has the meaning given by subsections 15GE(1) and (3).
 
                     <a name="seriou-state-offenc-feral-aspect"></a>**_serious State offence that has a federal aspect_** has the meaning given by subsection 15GE(4).
-
-                    <a name="staff-member"></a>**_staff member_** of a target agency has the same meaning in relation to that agency as in the _Law Enforcement Integrity Commissioner Act 2006_.
-
-Note:          The target agencies are the ACC, the Australian Federal Police and Customs. See subsections 10(1), (2) and (2A) of the _Law Enforcement Integrity Commissioner Act 2006_.
-
-                    <a name="target-agenc"></a>**_target agency_** means any of the following:
-
-                     (a)  the ACC;
-
-                     (b)  the Australian Federal Police;
-
-                     (c)  Customs.
 
                     <a name="urgent-applic"></a>**_urgent application_** has the meaning given by paragraph 15GH(2)(b).
 
@@ -5172,11 +5090,7 @@ Note:          An urgent authority can be varied, but not so a
 
              (2)  An authorising officer must not grant an authority to conduct a controlled operation unless the authorising officer is satisfied on reasonable grounds:
 
-                     (a)  that either:
-
-                              (i)  a serious Commonwealth offence or a serious State offence that has a federal aspect has been, is being or is likely to be committed; or
-
-                             (ii)  an integrity testing authority is in effect in relation to an offence that it is suspected has been, is being or is likely to be committed by a staff member of a target agency (see the notes at the foot of this subsection); and
+                     (a)  that a serious Commonwealth offence or a serious State offence that has a federal aspect has been, is being or is likely to be, committed; and
 
                      (b)  that the nature and extent of the suspected criminal activity are such as to justify the conduct of a controlled operation; and
 
@@ -5199,10 +5113,6 @@ Note:          An urgent authority can be varied, but not so a
                             (iv)  result in significant loss of, or serious damage to, property (other than illicit goods); and
 
                      (h)  that any role assigned to a civilian participant in the operation is not one that could be adequately performed by a law enforcement officer.
-
-Note 1:       Subparagraph (a)(ii) applies in relation to offences punishable on conviction by imprisonment for 12 months or more (see section 15JG).
-
-Note 2:       The target agencies mentioned in subparagraph (a)(ii) are the ACC, the Australian Federal Police and Customs (see section 15GC).
 
              (3)  To avoid doubt, an authorising officer may authorise a particular controlled operation only if he or she is an authorising officer for the controlled operation within the meaning of section 15GF.
 
@@ -5236,9 +5146,7 @@ Note:          An urgent authority can be varied, but not so a
 
                      (c)  state that the application was a formal application; and
 
-                     (d)  identify the nature of the criminal activity (including the relevant suspected offences) in respect of which the controlled conduct is to be engaged in; and
-
-                   (da)  in the case of an integrity testing controlled operation authority—identify the integrity testing authority concerned; and
+                     (d)  identify the nature of the criminal activity (including the suspected serious Commonwealth offences and serious State offences that have a federal aspect) in respect of which the controlled conduct is to be engaged in; and
 
                      (e)  state the identity of the persons authorised to engage in controlled conduct for the purposes of the controlled operation; and
 
@@ -5276,9 +5184,7 @@ Note:          An urgent authority can be varied, but not so a
 
                      (c)  state whether the application was a formal application or an urgent application; and
 
-                     (d)  identify the nature of the criminal activity (including the relevant suspected offences) in respect of which the controlled conduct is to be engaged in; and
-
-                   (da)  in the case of an integrity testing controlled operation authority—identify the integrity testing authority concerned; and
+                     (d)  identify the nature of the criminal activity (including the suspected serious Commonwealth offences and serious State offences that have a federal aspect) in respect of which the controlled conduct is to be engaged in; and
 
                      (e)  state the identity of the persons authorised to engage in controlled conduct for the purposes of the controlled operation; and
 
@@ -5330,13 +5236,7 @@ Note:          An authority is granted under subsection 15GI(1
 
                      (a)  it is cancelled before the end of the period of effect; or
 
-                     (b)  in the case of a formal authority—the period of effect is extended under Subdivision B or C; or
-
-                     (c)  in the case of an integrity testing controlled operation authority—the integrity testing authority concerned (the **_earlier ITA_**) stops being in effect under Part IABA (see section 15JJ).
-
-Note:       For integrity testing controlled operation authorities, see subparagraph 15GI(2)(a)(ii).
-
-             (4)  Paragraph (3)(c) does not apply if a further integrity testing authority is granted under Part IABA that continues the effect of the earlier ITA.
+                     (b)  in the case of a formal authority—the period of effect is extended under Subdivision B or C.
 
 #### Subdivision B—Variation of authorities by appropriate authorising officers
 
@@ -5414,11 +5314,7 @@ Note:       For integrity testing controlled operation authorities, 
 
              (2)  An appropriate authorising officer must not vary an authority, whether on application or on the authorising officer’s own initiative, unless the authorising officer is satisfied on reasonable grounds:
 
-                     (a)  that either:
-
-                              (i)  a serious Commonwealth offence or a serious State offence that has a federal aspect has been, is being or is likely to be committed; or
-
-                             (ii)  an integrity testing authority is in effect in relation to an offence that it is suspected has been, is being or is likely to be committed by a staff member of a target agency (see the notes at the foot of this subsection); and
+                     (a)  that a serious Commonwealth offence or a serious State offence that has a federal aspect has been, is being or is likely to be, committed; and
 
                      (b)  that the nature and extent of the suspected criminal activity are such as to justify the variation; and
 
@@ -5441,10 +5337,6 @@ Note:       For integrity testing controlled operation authorities, 
                             (iv)  result in significant loss of, or serious damage to, property (other than illicit goods); and
 
                      (h)  that any role assigned to a civilian participant in the operation is not one that could be adequately performed by a law enforcement officer.
-
-Note 1:       Subparagraph (a)(ii) applies in relation to offences punishable on conviction by imprisonment for 12 months or more (see section 15JG).
-
-Note 2:       The target agencies mentioned in subparagraph (a)(ii) are the ACC, the Australian Federal Police and Customs (see section 15GC).
 
 ##### <a id="15GR"></a>15GR  Manner of varying authority
 
@@ -5554,11 +5446,7 @@ Note 2:       The target agencies mentioned in subparagraph (a)(ii
 
              (2)  The nominated Tribunal member must not grant the variation unless the nominated Tribunal member is satisfied on reasonable grounds:
 
-                     (a)  that either:
-
-                              (i)  a serious Commonwealth offence or a serious State offence that has a federal aspect has been, is being or is likely to be committed; or
-
-                             (ii)  an integrity testing authority is in effect in relation to an offence that it is suspected has been, is being or is likely to be committed by a staff member of a target agency (see the notes at the foot of this subsection); and
+                     (a)  that a serious Commonwealth offence or a serious State offence that has a federal aspect has been, is being or is likely to be, committed; and
 
                      (b)  that the nature and extent of the suspected criminal activity are such as to justify the variation; and
 
@@ -5581,10 +5469,6 @@ Note 2:       The target agencies mentioned in subparagraph (a)(ii
                             (iv)  result in significant loss of, or serious damage to, property (other than illicit goods); and
 
                      (h)  that any role assigned to a civilian participant in the operation is not one that could be adequately performed by a law enforcement officer.
-
-Note 1:       Subparagraph (a)(ii) applies in relation to offences punishable on conviction by imprisonment for 12 months or more (see section 15JG).
-
-Note 2:       The target agencies mentioned in subparagraph (a)(ii) are the ACC, the Australian Federal Police and Customs (see section 15GC).
 
              (3)  A variation is not a legislative instrument.
 
@@ -5752,10 +5636,6 @@ Note 2:       The target agencies mentioned in subparagraph (a)(ii
 
                      (b)  having regard to the circumstances known to the person, it is unjustifiable to take the risk that the authority has not been varied or cancelled.
 
-             (4)  In this section, a reference to an authority that is cancelled includes, in the case of an integrity testing controlled operation authority, a reference to an authority that has stopped being in effect because the integrity testing authority concerned has stopped being in effect.
-
-Note:          See paragraph 15GN(3)(c).
-
 ##### <a id="15HE"></a>15HE  Protection from criminal responsibility for certain ancillary conduct
 
              (1)  This section applies if:
@@ -5902,8 +5782,6 @@ the principal law enforcement officer for the controlled operation must report t
 
                     Penalty:  Imprisonment for 2 years.
 
-Exceptions—general
-
              (2)  Subsection (1) does not apply if the disclosure was:
 
                      (a)  in connection with the administration or execution of this Part; or
@@ -5916,45 +5794,19 @@ Exceptions—general
 
                      (e)  in connection with the performance of functions or duties, or the exercise of powers, of a law enforcement agency.
 
-Note:          A defendant bears an evidential burden in relation to the matters in this subsection—see subsection 13.3(3) of the _Criminal Code_.
-
-Exceptions—integrity testing controlled operation authority
-
-          (2A)  Subsection (1) does not apply, in the case of a controlled operation authorised by an integrity testing controlled operation authority (granted on the basis that an integrity testing authority is in effect), if the disclosure was:
-
-                     (a)  in any of the circumstances mentioned in paragraphs (2)(a) to (e); or
-
-                     (b)  in connection with the administration or execution of Part IABA, or the _Law Enforcement Integrity Commissioner Act 2006_, in relation to the integrity testing authority; or
-
-                     (c)  for the purposes of any disciplinary or legal action in relation to a staff member of a target agency, if arising out of, or otherwise related to, the controlled operation; or
-
-                     (d)  in relation to the integrity testing authority:
-
-                              (i)  for the purposes of any disciplinary or legal action in relation to a staff member of a target agency, if arising out of, or otherwise related to, an integrity testing operation authorised by the authority; or
-
-                             (ii)  to an authority of the Commonwealth, a State or a Territory, if the disclosure relates to the misconduct of an employee or officer of the authority.
-
-Note:          A defendant bears an evidential burden in relation to the matters in this subsection—see subsection 13.3(3) of the _Criminal Code_.
-
-Exception—misconduct
-
              (3)  Subsection (1) does not apply if:
 
                      (a)  the person (the **_discloser_**) discloses the information to the Ombudsman or the Integrity Commissioner; and
 
                      (b)  the discloser informs the person to whom the disclosure is made of the discloser’s identity before making the disclosure; and
 
-                     (c)  the information concerns:
-
-                              (i)  a corruption issue within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_ (see section 7 of that Act) in relation to a controlled operation; or
-
-                             (ii)  misconduct in relation to a controlled operation; and
+                     (c)  the information concerns misconduct in relation to a controlled operation; and
 
                      (d)  the discloser considers that the information may assist a person referred to in paragraph (a) to perform the person’s functions or duties; and
 
                      (e)  the discloser makes the disclosure in good faith.
 
-Note:          A defendant bears an evidential burden in relation to the matters in this subsection—see subsection 13.3(3) of the Criminal Code.
+Note:          A defendant bears an evidential burden in relation to the matters in subsections (2) and (3)—see subsection 13.3(3) of the Criminal Code.
 
 ##### <a id="15HL"></a>15HL  Unauthorised disclosure of information—endangering safety, etc.
 
@@ -5972,8 +5824,6 @@ Note:          A defendant bears an evidential burden in relat
 
                     Penalty:  Imprisonment for 10 years.
 
-Exceptions—general
-
              (2)  Subsection (1) does not apply if the disclosure was:
 
                      (a)  in connection with the administration or execution of this Part; or
@@ -5986,45 +5836,19 @@ Exceptions—general
 
                      (e)  in connection with the performance of functions or duties, or the exercise of powers, of a law enforcement agency.
 
-Note:          A defendant bears an evidential burden in relation to the matters in this subsection—see subsection 13.3(3) of the _Criminal Code_.
-
-Exceptions—integrity testing controlled operation authority
-
-          (2A)  Subsection (1) does not apply, in the case of a controlled operation authorised by an integrity testing controlled operation authority (granted on the basis that an integrity testing authority is in effect), if the disclosure was:
-
-                     (a)  in any of the circumstances mentioned in paragraphs (2)(a) to (e); or
-
-                     (b)  in connection with the administration or execution of Part IABA, or the _Law Enforcement Integrity Commissioner Act 2006_, in relation to the integrity testing authority; or
-
-                     (c)  for the purposes of any disciplinary or legal action in relation to a staff member of a target agency, if arising out of, or otherwise related to, the controlled operation; or
-
-                     (d)  in relation to the integrity testing authority:
-
-                              (i)  for the purposes of any disciplinary or legal action in relation to a staff member of a target agency, if arising out of, or otherwise related to, an integrity testing operation authorised by the authority; or
-
-                             (ii)  to an authority of the Commonwealth, a State or a Territory, if the disclosure relates to the misconduct of an employee or officer of the authority.
-
-Note:          A defendant bears an evidential burden in relation to the matters in this subsection—see subsection 13.3(3) of the Criminal Code.
-
-Exception—misconduct
-
              (3)  Subsection (1) does not apply if:
 
                      (a)  the person (the **_discloser_**) discloses the information to the Ombudsman or the Integrity Commissioner; and
 
                      (b)  the discloser informs the person to whom the disclosure is made of the discloser’s identity before making the disclosure; and
 
-                     (c)  the information concerns:
-
-                              (i)  a corruption issue within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_ (see section 7 of that Act) in relation to a controlled operation; or
-
-                             (ii)  misconduct in relation to a controlled operation; and
+                     (c)  the information concerns misconduct in relation to a controlled operation; and
 
                      (d)  the discloser considers that the information may assist a person referred to in paragraph (a) to perform the person’s functions or duties; and
 
                      (e)  the discloser makes the disclosure in good faith.
 
-Note:          A defendant bears an evidential burden in relation to the matters in this subsection—see subsection 13.3(3) of the Criminal Code.
+Note:          A defendant bears an evidential burden in relation to the matters in subsections (2) and (3)—see subsection 13.3(3) of the Criminal Code.
 
              (4)  An offence against this section is an indictable offence.
 
@@ -6465,573 +6289,6 @@ to the State or Territory inspecting authority in relation to the agency.
                              (ii)  the time or times when, and the day or days on which, the illicit goods are expected to pass into the control of Customs.
 
              (3)  A failure to comply with this section does not affect the validity of an authority.
-
-## Part IABA—Integrity testing
-
-### Division 1—Introduction
-
-##### <a id="15JA"></a>15JA  Integrity testing—simplified outline
-
-                   The following is a simplified outline of this Part:
-
-* * *
-
-This Part provides for the authorisation of operations (called integrity testing operations) that are designed to test the integrity of staff members of the Australian Crime Commission, the Australian Federal Police and the Australian Customs and Border Protection Service, using controlled or simulated situations.
-
-Operations can be authorised only if there is a reasonable suspicion that a staff member has committed, is committing or is likely to commit an offence punishable on conviction by imprisonment for 12 months or more.
-
-Authorisations for integrity testing operations may form the basis for the authorisation of controlled operations under Part IAB.
-
-Integrity testing operations may be authorised by the agency concerned, or (if a corruption issue is involved) the Australian Commission for Law Enforcement Integrity. Law enforcement officers and others may take part.
-
-Participants in integrity testing operations are indemnified against civil liability in relation to the conduct of the operations in accordance with the authorisations concerned.
-
-Information relating to an integrity testing operation may only be disclosed for the purposes of disciplinary or legal action in relation to the staff member concerned, or a number of related purposes.
-
-* * *
-
-##### <a id="15JB"></a>15JB  Integrity testing—concurrent operation of State and Territory laws
-
-                   It is the intention of the Parliament that this Part is not to apply to the exclusion of a law of a State or Territory to the extent that the law is capable of operating concurrently with this Part.
-
-##### <a id="15JC"></a>15JC  Integrity testing—definitions
-
-                   In this Part:
-
-                    <a name="appropri-authorising-offic"></a>**_appropriate authorising officer_**, for an integrity testing operation, has the meaning given by the table in subsection 15JE(1).
-
-                    <a name="authorising-offic"></a>**_authorising officer_**means any of the appropriate authorising officers.
-
-Note:          These officers are listed in the table in subsection 15JE(1).
-
-                    <a name="civilian-particip"></a>**_civilian participant_**, in an integrity testing operation, means a participant in the operation who is not a law enforcement participant (as defined in this section).
-
-                    <a name="corrupt-issu"></a>**_corruption issue_** has the same meaning as in the _Law Enforcement Integrity Commissioner Act 2006_.
-
-Note:          See section 7 of the _Law Enforcement Integrity Commissioner Act 2006_.
-
-                    <a name="disciplinari-legal-action"></a>**_disciplinary or legal action_**, in relation to a staff member of a target agency, means any of the following:
-
-                     (a)  action in respect of alleged misconduct of the staff member;
-
-                     (b)  termination of the employment or appointment of the staff member;
-
-                     (c)  a disciplinary proceeding in relation to the staff member, within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_, or a report of such a proceeding;
-
-                     (d)  the investigation of an offence suspected to have been committed by the staff member;
-
-                     (e)  a legal proceeding in relation to the staff member, or a report of such a proceeding.
-
-**_Disciplinary or legal action_** also includes the consideration of whether an action or proceeding covered by this definition should be taken or brought.
-
-                    <a name="engag-conduct"></a>**_engage in conduct_**means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
-
-                    <a name="integr-test-agenc"></a>**_integrity testing agency_** means any of the following:
-
-                     (a)  the ACC;
-
-                     (b)  the Australian Commission for Law Enforcement Integrity;
-
-                     (c)  the Australian Federal Police;
-
-                     (d)  Customs.
-
-                    <a name="integr-test-author"></a>**_integrity testing authority_** means an authority granted under section 15JG to conduct an integrity testing operation.
-
-                    <a name="integr-test-oper"></a>**_integrity testing operation_**: see section 15JD.
-
-                    <a name="law-enforc-particip"></a>**_law enforcement participant_**, in an integrity testing operation, means a participant in the operation who is:
-
-                     (a)  a law enforcement officer; or
-
-                     (b)  an employee or officer of an integrity agency for a State or Territory, within the meaning of the _Law Enforcement Integrity Commissioner Act 2006_.
-
-Note:          Staff members of integrity testing agencies (as defined in this section) are law enforcement officers. Law enforcement officers also include members of State and Territory police forces, and police forces of foreign countries (see section 3).
-
-                    <a name="particip"></a>**_participant_**, in an integrity testing operation authorised by an integrity testing authority, means a person who is authorised under this Part to participate in the operation.
-
-                    <a name="respons-staff-member"></a>**_responsible staff member_**, for an integrity testing operation authorised by an integrity testing authority, means the staff member of an integrity testing agency identified in the authority as the staff member responsible for the conduct of the operation.
-
-                    <a name="staff-member"></a>**_staff member_** of an integrity testing agency has the same meaning in relation to that agency as in the _Law Enforcement Integrity Commissioner Act 2006_.
-
-Note:          See subsections 10(1), (2) and (2A), and section 11, of the _Law Enforcement Integrity Commissioner Act 2006_.
-
-                    <a name="target-agenc"></a>**_target agency_** means any of the following:
-
-                     (a)  the ACC;
-
-                     (b)  the Australian Federal Police;
-
-                     (c)  Customs.
-
-##### <a id="15JD"></a>15JD  Integrity testing—meaning of _integrity testing operation_
-
-             (1)  An **_integrity testing operation_** is an operation conducted in relation to a target agency using controlled or simulated situations to test the integrity of a  staff member of the agency.
-
-             (2)  An **_integrity testing operation_** includes an operation that offers the staff member an opportunity to engage in conduct, whether lawful or unlawful, so as to contravene principles of behaviour required (by law or otherwise) of persons occupying the position of such a staff member.
-
-Note 1:       The target agencies are the ACC, the Australian Federal Police and Customs (see section 15JC).
-
-Note 2:       References to a staff member include references to more than one staff member (see section 23 of the _Acts Interpretation Act 1901_).
-
-### Division 2—Integrity testing operations: authority
-
-##### <a id="15JE"></a>15JE  Integrity testing authorities—circumstances in which applications may be made
-
-             (1)  The following table has effect:
-
-<table>
-<colgroup>
-  <col width="10%">
-  <col width="30%">
-  <col width="32%">
-  <col width="28%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="4">
-      <div>
-        <b>Integrity testing—circumstances in which applications may be made</b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>Item</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>If a proposed integrity testing operation is concerned with …</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>a staff member of the following agency may apply for authority for the
-          operation …</b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>from the following officer (an
-          <i>appropriate authorising officer</i>) …</b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>the integrity of a staff member of the ACC</div>
-  </td>
-  <td>
-    <div>the ACC</div>
-  </td>
-  <td>
-    <div>(a) the Chief Executive Officer of the ACC; or</div>
-    <div>(b) an SES employee in the ACC.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>the integrity of a staff member of the Australian Federal Police</div>
-  </td>
-  <td>
-    <div>the Australian Federal Police</div>
-  </td>
-  <td>
-    <div>(a) the Commissioner; or</div>
-    <div>(b) a Deputy Commissioner; or</div>
-    <div>(c) an SES employee in the Australian Federal Police.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>the integrity of a staff member of Customs</div>
-  </td>
-  <td>
-    <div>Customs</div>
-  </td>
-  <td>
-    <div>(a) the Chief Executive Officer of Customs; or</div>
-    <div>(b) an SES employee in Customs.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>a corruption issue in relation to a staff member of a target agency</div>
-  </td>
-  <td>
-    <div>(a) the target agency; or</div>
-    <div>(b) the Australian Commission for Law Enforcement Integrity</div>
-  </td>
-  <td>
-    <div>(a) the Integrity Commissioner; or</div>
-    <div>(b) an Assistant Integrity Commissioner; or</div>
-    <div>(c) an SES employee in the Australian Commission for Law Enforcement Integrity.</div>
-  </td>
-</tr></table>
-
-Note 1:       The target agencies are the ACC, the Australian Federal Police and Customs (see section 15JC).
-
-Note 2:       References to a staff member include references to more than one staff member (see section 23 of the _Acts Interpretation Act 1901_).
-
-             (2)  The application of item 4 of the table in subsection (1) in relation to a staff member of a target agency does not prevent the application of any of the other items in the table in relation to the integrity of the staff member.
-
-             (3)  A reference in a cell in the table in subsection (1) to an **_SES employee_** of an integrity testing agency is taken to be a reference to an SES employee authorised in writing by the officer of the agency mentioned in paragraph (a) in the cell.
-
-##### <a id="15JF"></a>15JF  Integrity testing authorities—application
-
-             (1)  An application under section 15JE must:
-
-                     (a)  be in writing; and
-
-                     (b)  provide sufficient information to enable the authorising officer to decide whether or not to grant the application; and
-
-                     (c)  state whether or not the proposed integrity testing operation is related to any past, current or proposed:
-
-                              (i)  integrity testing operation; or
-
-                             (ii)  controlled operation under Part IAB; and
-
-                     (d)  state the proposed period of effect of the authority, which must not exceed 12 months.
-
-             (2)  The appropriate authorising officer may require the applicant to provide such additional information concerning the proposed integrity testing operation as is necessary for the proper consideration of the application.
-
-Note:          See the table in section 15JE for which staff members may apply to conduct an integrity testing operation, and to which authorising officers (called **_appropriate authorising officers_**) such applications may be made.
-
-##### <a id="15JG"></a>15JG  Integrity testing authorities—grant
-
-             (1)  The appropriate authorising officer may, after considering an application for an authority to conduct an integrity testing operation in relation to a target agency, and any additional information provided under subsection 15JF(2):
-
-                     (a)  authorise the operation by granting the authority, in writing, either unconditionally or subject to conditions; or
-
-                     (b)  refuse the application.
-
-             (2)  The authorising officer must not grant the authority to conduct the integrity testing operation unless the authorising officer is satisfied that:
-
-                     (a)  there are reasonable grounds to suspect that a Commonwealth offence or a State offence, punishable on conviction by imprisonment for 12 months or more, has been, is being or is likely to be committed by a staff member of the target agency (whether or not the identity of the staff member is suspected or known); and
-
-                     (b)  it is appropriate in all the circumstances to conduct the operation; and
-
-                     (c)  if the authorising officer is an officer of the Australian Commission for Law Enforcement Integrity—in addition to the matters mentioned in paragraphs (a) and (b), the purpose of the operation is to investigate a corruption issue.
-
-             (3)  The authorising officer may grant an integrity testing authority even if the operation has been authorised by a previous integrity testing authority, or has been the subject of a previous application for such an authority.
-
-Example:    The authorising officer may grant an integrity testing authority that authorises the continuation or resumption of an operation authorised by an earlier authority.
-
-             (4)  An integrity testing authority is not a legislative instrument.
-
-Note:          See the table in section 15JE for who are the appropriate authorising officers for a proposed integrity testing operation in relation to a target agency.
-
-##### <a id="15JH"></a>15JH  Integrity testing authorities—form
-
-Contents of integrity testing authority
-
-             (1)  An integrity testing authority must:
-
-                     (a)  state the name and rank or position of the appropriate authorising officer; and
-
-                     (b)  identify the responsible staff member for the integrity testing operation and, if he or she is not the applicant for the authority, state the name of the applicant; and
-
-                     (c)  identify the nature of the criminal activity (including the suspected offence mentioned in paragraph 15JG(2)(a)) in relation to which the integrity testing operation is to be conducted; and
-
-                     (d)  identify the persons authorised to participate in the integrity testing operation; and
-
-                     (e)  describe the nature of the integrity testing operation; and
-
-                      (f)  identify (to the extent known) the staff member or staff members who are the target of the operation; and
-
-                     (g)  state a period of effect of the authority of not more than 12 months after the day the authority is granted; and
-
-                     (h)  state any conditions to which the conduct of the controlled operation is subject; and
-
-                      (i)  state the day and time when the authority is granted.
-
-Note:          The period of effect may be extended (or further extended) for up to 12 months, but not so the period of effect of the authority ends more than 24 months after it is granted (see section 15JK).
-
-Identity of persons authorised to conduct the integrity testing operation
-
-             (2)  A person is sufficiently identified for the purposes of paragraph (1)(d) if the person is identified:
-
-                     (a)  by an assumed name under which the person is operating that the authorising officer can match to the person’s identity; or
-
-                     (b)  by a code name or code number that the authorising officer can match to the person’s identity.
-
-             (3)  An authority must not identify persons for the purposes of paragraph (1)(d) by identifying a class of persons.
-
-##### <a id="15JI"></a>15JI  Integrity testing authorities—notice to Integrity Commissioner
-
-                   As soon as practicable after granting an integrity testing authority for an integrity testing operation, the authorising officer must give a copy of the authority to:
-
-                     (a)  the responsible staff member for the operation; and
-
-                     (b)  the Integrity Commissioner (unless the authorising officer is an officer of the Australian Commission for Law Enforcement Integrity).
-
-##### <a id="15JJ"></a>15JJ  Integrity testing authorities—duration
-
-             (1)  An integrity testing authority comes into force when the authority is granted (see section 15JG).
-
-             (2)  The authority has effect for the period stated in the authority, as extended by any variation under section 15JK, unless earlier cancelled (see section 15JL).
-
-Note:          The maximum period of effect for an integrity testing authority (taking into account any extension) is 24 months after it is granted (see paragraph 15JH(1)(g) and subsection 15JK(2)).
-
-##### <a id="15JK"></a>15JK  Integrity testing authorities—variation
-
-             (1)  An appropriate authorising officer for an integrity testing operation that is authorised by an integrity testing authority may, in writing, vary the authority:
-
-                     (a)  at any time on the authorising officer’s own initiative; or
-
-                     (b)  on application, in writing, by the responsible staff member for the operation.
-
-             (2)  A variation may extend, or further extend, the period of effect of the authority for up to 12 months, but not so that the period of effect ends more than 24 months after the authority was granted.
-
-             (3)  As soon as practicable after varying an integrity testing authority for an integrity testing operation, the authorising officer must give a copy of the variation to:
-
-                     (a)  the responsible staff member for the operation; and
-
-                     (b)  the Integrity Commissioner (unless the authorising officer is an officer of the Australian Commission for Law Enforcement Integrity).
-
-Note:          If the variation has the effect of changing the responsible staff member, the authorising officer would be required to give a copy of the variation to the new responsible staff member.
-
-             (4)  Subsection 33(3) of the _Acts Interpretation Act 1901_ applies in relation to the variation of the authority, subject to this Act.
-
-Note:          Subsection 33(3) of the _Acts Interpretation Act 1901_ has the effect that the power to grant an instrument (such as an integrity testing authority) includes the power to vary the instrument in the like manner and subject to the like conditions.
-
-             (5)  A variation is not a legislative instrument.
-
-##### <a id="15JL"></a>15JL  Integrity testing authorities—cancellation
-
-             (1)  An appropriate authorising officer for an integrity testing operation may, by order in writing given to the responsible staff member for the operation, cancel the authority at any time and for any reason.
-
-             (2)  The reasons for cancelling an integrity testing authority under subsection (1) include (but are not limited to) cancellation at the request of the responsible staff member.
-
-             (3)  Cancellation of an integrity testing authority takes effect at the time the order is made or at a later time stated in the order.
-
-##### <a id="15JM"></a>15JM  Integrity testing authorities—defects
-
-                   An application for an integrity testing authority or for the variation of an authority, and any integrity testing authority or variation granted on the basis of such an application, is not invalidated by any defect, other than a defect that affects the application, authority or variation in a material particular.
-
-### Division 3—Integrity testing operations: protection of participants
-
-##### <a id="15JN"></a>15JN  Integrity testing operations—authorised conduct
-
-             (1)  Subject to subsection (2), an integrity testing authority for an integrity testing operation authorises each person identified in the authority as a participant to take part in the operation, subject to any conditions set out in the authority.
-
-Note:          Paragraphs 15JH(1)(d) and (e) require participants to be identified, and the nature of the operation to be described, in the authority. Subsection 15JH(2), however, allows for participants to be identified in the authority by an assumed identity, or by code.
-
-             (2)  A participant is authorised to take part in the integrity testing operation for the period of effect of the authority, unless:
-
-                     (a)  the authority states (or is varied to state) a shorter period during which the person is so authorised; or
-
-                     (b)  the authority is varied to provide that the person is no longer so authorised; or
-
-                     (c)  the authority is cancelled before the end of that period.
-
-             (3)  An integrity testing authority does not authorise a participant identified in the authority to delegate participation to another person.
-
-##### <a id="15JO"></a>15JO  Integrity testing operations—indemnity against civil liability
-
-                   The Commonwealth must indemnify a participant in an integrity testing operation that is authorised by an integrity testing authority against any civil liability (including reasonable costs) the participant incurs because of conduct the participant engages in if:
-
-                     (a)  the participant engages in the conduct in the course of, and for the purposes of, the operation in accordance with the authority; and
-
-                     (b)  the participant is identified in the authority; and
-
-                     (c)  the conduct does not involve the participant intentionally inducing a person to commit a Commonwealth offence or a State offence that the person would not otherwise have intended to commit; and
-
-                     (d)  the conduct does not involve the participant engaging in any conduct that is likely to:
-
-                              (i)  cause the death of, or serious injury to, any person; or
-
-                             (ii)  involve the commission of a sexual offence against any person; and
-
-                     (e)  if the participant is a civilian participant in the operation—he or she acts in accordance with the instructions of a law enforcement participant in the operation; and
-
-                      (f)  the requirements (if any) prescribed by regulation have been met.
-
-##### <a id="15JP"></a>15JP  Integrity testing operations—participants unaware of variation or cancellation of authority
-
-             (1)  If an integrity testing authority for an integrity testing operation is varied in a way that limits the scope of the operation, this Part continues to apply to a participant in the operation as if the authority had not been varied in that way, for so long as the participant:
-
-                     (a)  is unaware of the variation; and
-
-                     (b)  is not reckless about the existence of the variation.
-
-             (2)  If an integrity testing authority to conduct an integrity testing operation is cancelled, this Part continues to apply to a person who was a participant in the operation immediately before the cancellation as if the authority had not been cancelled in that way, for so long as the person:
-
-                     (a)  is unaware of the cancellation; and
-
-                     (b)  is not reckless about the existence of the cancellation.
-
-             (3)  For the purposes of this section, a person is reckless about the existence of the variation or cancellation of an integrity testing authority if:
-
-                     (a)  the person is aware of a substantial risk that the variation or cancellation has happened; and
-
-                     (b)  having regard to the circumstances known to the person, it is unjustifiable to take the risk that the authority has not been varied or cancelled.
-
-### Division 4—Integrity testing operations: disclosure of information
-
-##### <a id="15JQ"></a>15JQ  Integrity testing operations—disclosure
-
-Disclosure—offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person discloses information; and
-
-                     (b)  the information relates to an integrity testing operation.
-
-                    Penalty:  Imprisonment for 2 years.
-
-Exception—authorised disclosure
-
-             (2)  Subsection (1) does not apply if the disclosure was:
-
-                     (a)  in connection with the administration or execution of this Part; or
-
-                     (b)  for the purposes of obtaining legal advice in relation to the integrity testing operation; or
-
-                     (c)  for the purposes of any disciplinary or legal action in relation to a staff member of a target agency, if arising out of, or otherwise related to, the integrity testing operation; or
-
-                     (d)  in connection with the administration or execution of the _Law Enforcement Integrity Commissioner Act 2006_; or
-
-                     (e)  to an authority of the Commonwealth, a State or a Territory, if the disclosure relates to the misconduct of an employee or officer of the authority; or
-
-                      (f)  in accordance with any requirement imposed by law; or
-
-                     (g)  in connection with the performance of functions or duties, or the exercise of powers, of the target agency in relation to which the operation was conducted.
-
-Exception—corruption issue or misconduct
-
-             (3)  Subsection (1) does not apply if:
-
-                     (a)  the person (the **_discloser_**) discloses the information to the Integrity Commissioner; and
-
-                     (b)  the discloser informs the person to whom the disclosure is made of the discloser’s identity before making the disclosure; and
-
-                     (c)  the information concerns a corruption issue, or misconduct, in relation to an integrity testing operation; and
-
-                     (d)  the discloser considers that the information may assist the Integrity Commissioner to perform the Commissioner’s functions or duties; and
-
-                     (e)  the discloser makes the disclosure in good faith.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsections (2) and (3)—see subsection 13.3(3) of the _Criminal Code_.
-
-##### <a id="15JR"></a>15JR  Integrity testing operations—disclosure endangering safety etc.
-
-Offence—disclosure endangering safety etc.
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person discloses information; and
-
-                     (b)  the information relates to an integrity testing operation; and
-
-                     (c)  either:
-
-                              (i)  the person intends to endanger the health or safety of any person or prejudice the effective conduct of an integrity testing operation; or
-
-                             (ii)  the disclosure of the information will endanger the health or safety of any person or prejudice the effective conduct of an integrity testing operation.
-
-                    Penalty:  Imprisonment for 10 years.
-
-Exceptions—authorised disclosure
-
-             (2)  Subsection (1) does not apply if the disclosure was:
-
-                     (a)  in connection with the administration or execution of this Part; or
-
-                     (b)  for the purposes of obtaining legal advice in relation to the integrity testing operation; or
-
-                     (c)  for the purposes of any disciplinary or legal action in relation to a staff member of a target agency, if arising out of, or otherwise related to, the integrity testing operation; or
-
-                     (d)  in connection with the administration or execution of the _Law Enforcement Integrity Commissioner Act 2006_; or
-
-                     (e)  a disclosure to an authority of the Commonwealth, a State or a Territory; or
-
-                      (f)  in accordance with any requirement imposed by law; or
-
-                     (g)  in connection with the performance of functions or duties, or the exercise of powers, of the target agency in relation to which the operation was conducted.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (2)—see subsection 13.3(3) of the _Criminal Code_.
-
-Exception—corruption issue or misconduct
-
-             (3)  Subsection (1) does not apply if:
-
-                     (a)  the person (the **_discloser_**) discloses the information to the Integrity Commissioner; and
-
-                     (b)  the discloser informs the person to whom the disclosure is made of the discloser’s identity before making the disclosure; and
-
-                     (c)  the information concerns a corruption issue, or misconduct, in relation to an integrity testing operation; and
-
-                     (d)  the discloser considers that the information may assist the Integrity Commissioner to perform the Commissioner’s functions or duties; and
-
-                     (e)  the discloser makes the disclosure in good faith.
-
-Note:          A defendant bears an evidential burden in relation to the matters in subsection (3)—see subsection 13.3(3) of the _Criminal Code_.
-
-### Division 5—Integrity testing operations: reporting
-
-##### <a id="15JS"></a>15JS  Integrity testing operations—annual reports
-
-             (1)  As soon as practicable after 30 June in each year, the chief officer of each integrity testing agency must submit a report to the Law Enforcement Minister setting out the details required by subsection (2) in relation to integrity testing operations authorised by an authorising officer of the agency during the previous 12 months.
-
-             (2)  The details to be set out in the report are as follows:
-
-                     (a)  the number of integrity testing authorities granted by authorising officers of the agency;
-
-                     (b)  the nature of the suspected criminal activity in relation to which each authority was given;
-
-                     (c)  the period of effect of each authority (including any extension of the period granted by variation);
-
-                     (d)  if an authority was cancelled—the reasons for cancellation.
-
-             (3)  A report must not disclose any information that identifies any person involved in an integrity testing operation or that is likely to lead to such a person being identified.
-
-             (4)  Nothing in this section requires particulars of an integrity testing operation to be included in a report for a year if the operation had not been completed as at 30 June in that year, but the particulars must instead be included in the report for the year in which the operation is completed.
-
-             (5)  In this section:
-
-                    <a name="chief-offic"></a>**_chief officer_**, of an integrity testing agency, means:
-
-                     (a)  for the ACC—the Chief Executive Officer of the ACC; or
-
-                     (b)  for the Australian Federal Police—the Commissioner; or
-
-                     (c)  for Customs—the Chief Executive Officer of Customs; or
-
-                     (d)  for the Australian Commission for Law Enforcement Integrity—the Integrity Commissioner.
-
-                    <a name="law-enforc-minist"></a>**_Law Enforcement Minister_** means the Minister responsible for the administration of the _Law Enforcement Integrity Commissioner Act 2006_.
-
-### Division 6—Integrity testing operations: evidence
-
-##### <a id="15JT"></a>15JT  Evidence of integrity testing authorities
-
-                   A document purporting to be an integrity testing authority:
-
-                     (a)  is admissible in any legal proceedings; and
-
-                     (b)  in the absence of evidence to the contrary, is proof in any proceedings (not being criminal or disciplinary proceedings against a law enforcement officer) that the person granting the authority was satisfied of the facts he or she was required to be satisfied of to grant the authority.
 
 ## Part IAC—Assumed Identities
 
@@ -7755,7 +7012,7 @@ Note 2:       Section 15KW modifies the effect of this provision i
 
                     <a name="cancel"></a>**_cancel_**includes delete or alter an entry in a record of information.
 
-##### <a id="15L"></a>15L  Indemnity for issuing agencies and officers
+##### <a id="15L"></a>15L  Indemnity for issuing agencies and officers
 
              (1)  This section applies if the chief officer of either a law enforcement agency or an intelligence agency makes a request to the chief officer of an issuing agency of a participating jurisdiction under section 15KX.
 
@@ -11417,7 +10674,7 @@ the court may, without passing sentence on the person, make an order (in this se
 
              (4)  The court may, on the application of the person, of the probation officer appointed to supervise the person or of the person in charge of the hospital or other place where the treatment is being undertaken, vary the treatment that the person is to undertake.
 
-##### <a id="20BW"></a>20BW  Breach of psychiatric probation orders
+##### <a id="20BW"></a>20BW  Breach of psychiatric probation orders
 
              (1)  Where an order has been made under section 20BV and information is laid before a magistrate, whether before or after the end of the period referred to in paragraph 20BV(3)(a) or (b), alleging that the person has, without reasonable excuse, failed to comply with a condition of the order, the magistrate may:
 
