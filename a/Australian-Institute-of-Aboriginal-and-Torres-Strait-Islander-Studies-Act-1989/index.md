@@ -1,210 +1,213 @@
-![](http://www.comlaw.gov.au/Details/C2006C00521/Html/AusInstATSIStudies1989WD02_image001.gif)
+<?xml:namespace prefix = v ns = "urn:schemas-microsoft-com:vml" /><v:shapetype id="_x0000_t75" coordsize="21600,21600" o:preferrelative="t" o:spt="75" filled="f" stroked="f" path=" m@4@5 l@4@11@9@11@9@5 xe"><v:stroke joinstyle="miter"></v:stroke><v:formulas><v:f eqn="if lineDrawn pixelLineWidth 0 "></v:f><v:f eqn="sum @0 1 0 "></v:f><v:f eqn="sum 0 0 @1 "></v:f><v:f eqn="prod @2 1 2 "></v:f><v:f eqn="prod @3 21600 pixelWidth "></v:f><v:f eqn="prod @3 21600 pixelHeight "></v:f><v:f eqn="sum @0 0 1 "></v:f><v:f eqn="prod @6 1 2 "></v:f><v:f eqn="prod @7 21600 pixelWidth "></v:f><v:f eqn="sum @8 21600 0 "></v:f><v:f eqn="prod @7 21600 pixelHeight "></v:f><v:f eqn="sum @10 21600 0 "></v:f></v:formulas><v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"></v:path><o:lock aspectratio="t" v:ext="edit"></o:lock></v:shapetype><v:shape id="_x0000_i1025" style="WIDTH: 114pt; HEIGHT: 84pt" type="#_x0000_t75" coordsize="21600,21600" fillcolor="winColor(17)"><v:imagedata o:title="" src="EB8622F19693429ACA256FD5000CA350/$FILE/image001.png"></v:imagedata></v:shape>
 
-# Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989
+# Australian <?xml:namespace prefix = st1 ns = "urn:schemas-microsoft-com:office:smarttags" /><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Institute</st1:placetype> of <st1:placename>Aboriginal</st1:placename></st1:place> and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Torres Strait</st1:place> Islander Studies Act 1989<o:p></o:p>
 
-**Act No. 149 of 1989 as amended**
+**Act No. 149 of 1989 as amended<o:p></o:p>**
 
-This compilation was prepared on 22 September 2006
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 31 March 2005
+taking into account amendments up to Act No. 32 of 2005<o:p></o:p>
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section<o:p></o:p>
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+<st1:city style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Canberra</st1:place></st1:city><o:p></o:p>
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary<span style="mso-tab-count: 1">                                                                                                               </span>**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                                        </span>
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation<span style="mso-tab-count: 1 dotted">                                                                                       </span>
 
-[3A](#3A).         Application of the _Criminal Code_
+[3A](#3A).         Application of the _Criminal Code_<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-**Part 2—Australian Institute of Aboriginal and Torres Strait Islander Studies**
+**Part 2—Australian Institute of Aboriginal and Torres Strait Islander Studies<span style="mso-tab-count: 1">        </span>**
 
-[4](#4).            Australian Institute of Aboriginal and Torres Strait Islander Studies
+[4](#4).            Australian Institute of Aboriginal and Torres Strait Islander Studies<span style="mso-tab-count: 1 dotted"> </span>
 
-**Part 3—Functions of Institute**
+**Part 3—Functions of Institute<span style="mso-tab-count: 1">                                                                                          </span>**
 
-[5](#5).            Functions of Institute
+[5](#5).            Functions of Institute<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[6](#6).            Powers of Institute
+[6](#6).            Powers of Institute<span style="mso-tab-count: 1 dotted">                                                                              </span>
 
-**Part 4—Members of Institute**
+**Part 4—Members of Institute<span style="mso-tab-count: 1">                                                                                          </span>**
 
-[7](#7).            Members of Institute
+[7](#7).            Members of Institute<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[8](#8).            Period of membership
+[8](#8).            Period of membership<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[9](#9).            Resignation
+[9](#9).            Resignation<span style="mso-tab-count: 1 dotted">                                                                                          </span>
 
-[10](#10).          Register of members
+[10](#10).          Register of members<span style="mso-tab-count: 1 dotted">                                                                            </span>
 
-[11](#11).          Rights of members
+[11](#11).          Rights of members<span style="mso-tab-count: 1 dotted">                                                                               </span>
 
-**Part 5—Council of Institute** 
+**Part 5—Council of Institute<span style="mso-tab-count: 1">                                                                                               </span>** 
 
-    **Division 1—Constitution of Council**
+    **Division 1—Constitution of Council<span style="mso-tab-count: 1">                                                                     </span>**
 
-[12](#12).          Constitution of Council
+[12](#12).          Constitution of Council<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[13](#13).          Responsibilities of Council
+[13](#13).          Responsibilities of Council<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[14](#14).          Chairperson and Deputy Chairperson of Council
+[14](#14).          Chairperson and Deputy Chairperson of Council<span style="mso-tab-count: 1 dotted">                               </span>
 
-    **Division 2—Administrative provisions**
+    **Division 2—Administrative provisions<span style="mso-tab-count: 1">                                                               </span>**
 
-[15](#15).          Term of office
+[15](#15).          Term of office<span style="mso-tab-count: 1 dotted">                                                                                      </span>
 
-[16](#16).          Remuneration and allowances
+[16](#16).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[17](#17).          Leave of absence
+[17](#17).          Leave of absence<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-[18](#18).          Acting appointments
+[18](#18).          Acting appointments<span style="mso-tab-count: 1 dotted">                                                                           </span>
 
-[20](#20).          Resignation
+[20](#20).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[21](#21).          Termination of membership of Council
+[21](#21).          Termination of membership of Council<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[22](#22).          Other terms and conditions
+[22](#22).          Other terms and conditions<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-    **Division 3—Operations of Council**
+    **Division 3—Operations of Council<span style="mso-tab-count: 1">                                                                      </span>**
 
-[23](#23).          Meetings of Council
+[23](#23).          Meetings of Council<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-**Part 6—Principal**
+**Part 6—Principal<span style="mso-tab-count: 1">                                                                                                                    </span>**
 
-[24](#24).          Principal
+[24](#24).          Principal<span style="mso-tab-count: 1 dotted">                                                                                             </span>
 
-[25](#25).          Period of appointment
+[25](#25).          Period of appointment<span style="mso-tab-count: 1 dotted">                                                                       </span>
 
-[26](#26).          Remuneration and allowances
+[26](#26).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[26A](#26A).       Recreation leave
+[26A](#26A).       Recreation leave<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[27](#27).          Resignation
+[27](#27).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[28](#28).          Other terms and conditions
+[28](#28).          Other terms and conditions<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-**Part 7—Staff**
+**Part 7—Staff<span style="mso-tab-count: 1">                                                                                                                            </span>**
 
-[29](#29).          Staff
+[29](#29).          Staff<span style="mso-tab-count: 1 dotted">                                                                                                   </span>
 
-[30](#30).          Consultants
+[30](#30).          Consultants<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Part 8—Research Advisory Committee**
+**Part 8—Research Advisory Committee<span style="mso-tab-count: 1">                                                                   </span>**
 
-[31](#31).          Research Advisory Committee
+[31](#31).          Research Advisory Committee<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[32](#32).          Functions of Research Advisory Committee
+[32](#32).          Functions of Research Advisory Committee<span style="mso-tab-count: 1 dotted">                                    </span>
 
-[33](#33).          Remuneration and allowances
+[33](#33).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[34](#34).          Resignation
+[34](#34).          Resignation<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-[35](#35).          Other terms and conditions
+[35](#35).          Other terms and conditions<span style="mso-tab-count: 1 dotted">                                                               </span>
 
-**Part 9—Finance**
+**Part 9—Finance<span style="mso-tab-count: 1">                                                                                                                      </span>**
 
-[36](#36).          Money payable to the Institute
+[36](#36).          Money payable to the Institute<span style="mso-tab-count: 1 dotted">                                                        </span>
 
-[38](#38).          Application of money held by Institute
+[38](#38).          Application of money held by Institute<span style="mso-tab-count: 1 dotted">                                            </span>
 
-[39](#39).          Exemption from taxation
+[39](#39).          Exemption from taxation<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-**Part 10—Miscellaneous**
+**Part 10—Miscellaneous<span style="mso-tab-count: 1">                                                                                                    </span>**
 
-[41](#41).          Certain information not to be disclosed
+[41](#41).          Certain information not to be disclosed<span style="mso-tab-count: 1 dotted">                                             </span>
 
-[42](#42).          Informing TSRA about general conduct of Institute
+[42](#42).          Informing TSRA about general conduct of Institute<span style="mso-tab-count: 1 dotted">                         </span>
 
-[43](#43).          Minister may ask for advice
+[43](#43).          Minister may ask for advice<span style="mso-tab-count: 1 dotted">                                                              </span>
 
-[44](#44).          Delegation to Principal or staff
+[44](#44).          Delegation to Principal or staff<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[45](#45).          Remuneration and allowances
+[45](#45).          Remuneration and allowances<span style="mso-tab-count: 1 dotted">                                                            </span>
 
-[45A](#45A).       Recreation leave
+[45A](#45A).       Recreation leave<span style="mso-tab-count: 1 dotted">                                                                                 </span>
 
-[47](#47).          Conduct of directors, servants and agents
+[47](#47).          Conduct of directors, servants and agents<span style="mso-tab-count: 1 dotted">                                         </span>
 
-[48](#48).          Rules
+[48](#48).          Rules<span style="mso-tab-count: 1 dotted">                                                                                                  </span>
 
-[49](#49).          Regulations
+[49](#49).          Regulations<span style="mso-tab-count: 1 dotted">                                                                                        </span>
 
-**Part 11—Consequential and transitional provisions** 
+**Part 11—Consequential and transitional provisions<span style="mso-tab-count: 1">                                         </span>** 
 
-    **Division 1—Preliminary**
+    **Division 1—Preliminary<span style="mso-tab-count: 1">                                                                                            </span>**
 
-[50](#50).          Interpretation
+[50](#50).          Interpretation<span style="mso-tab-count: 1 dotted">                                                                                     </span>
 
-    **Division 2—Repeal**
+    **Division 2—Repeal<span style="mso-tab-count: 1">                                                                                                      </span>**
 
-[51](#51).          Repeal
+[51](#51).          Repeal<span style="mso-tab-count: 1 dotted">                                                                                                </span>
 
-    **Division 3—Transitional provisions**
+    **Division 3—Transitional provisions<span style="mso-tab-count: 1">                                                                   </span>**
 
-[52](#52).          Interim Council
+[52](#52).          Interim Council<span style="mso-tab-count: 1 dotted">                                                                                  </span>
 
-[53](#53).          First Principal of the Institute
+[53](#53).          First Principal of the Institute<span style="mso-tab-count: 1 dotted">                                                           </span>
 
-[54](#54).          Transfer of assets and liabilities of old Institute
+[54](#54).          Transfer of assets and liabilities of old Institute<span style="mso-tab-count: 1 dotted">                               </span>
 
-[55](#55).          Old Institute instruments
+[55](#55).          Old Institute instruments<span style="mso-tab-count: 1 dotted">                                                                  </span>
 
-[56](#56).          Pending proceedings
+[56](#56).          Pending proceedings<span style="mso-tab-count: 1 dotted">                                                                          </span>
 
-[57](#57).          Research Advisory Committee
+[57](#57).          Research Advisory Committee<span style="mso-tab-count: 1 dotted">                                                          </span>
 
-[59](#59).          Certificates with respect to assets, liabilities and instruments
+[59](#59).          Certificates with respect to assets, liabilities and instruments<span style="mso-tab-count: 1 dotted">          </span>
 
-[60](#60).          State or Territory officer may act on certificate
+[60](#60).          State or Territory officer may act on certificate<span style="mso-tab-count: 1 dotted">                                </span>
 
-[61](#61).          Transfer of appropriated money
+[61](#61).          Transfer of appropriated money<span style="mso-tab-count: 1 dotted">                                                       </span>
 
-[62](#62).          Contracts of employment not preserved
+[62](#62).          Contracts of employment not preserved<span style="mso-tab-count: 1 dotted">                                           </span>
 
-[63](#63).          Transfer of staff to Australian Public Service
+[63](#63).          Transfer of staff to Australian Public Service<span style="mso-tab-count: 1 dotted">                                   </span>
 
-[64](#64).          Operation of Superannuation Benefit (Interim Arrangement) Act
+[64](#64).          Operation of Superannuation Benefit (Interim Arrangement) Act<span style="mso-tab-count: 1 dotted">    </span>
 
-[65](#65).          Exemption from taxation
+[65](#65).          Exemption from taxation<span style="mso-tab-count: 1 dotted">                                                                   </span>
 
-    **Division 4—Consequential amendments of other Acts** 
+    **Division 4—Consequential amendments of other Acts<span style="mso-tab-count: 1">                           </span>**
 
-Sections 66 and 67
+[Sections 66 and 67](#Sections 66 and 67).                                                                                           
 
-**Notes** 
+**Notes<span style="mso-tab-count: 1">                                                                                                                                            </span>** 
 
-## An Act to establish an Australian Institute of Aboriginal and Torres  Strait Islander Studies, and for related purposes
 
-## Part 1—Preliminary
+## An Act to establish an Australian Institute of Aboriginal and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Torres Strait</st1:place> Islander Studies, and for related purposes
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+## Part 1<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Preliminary</span><o:p></o:p>
 
-                   This Act may be cited as the _Australian Institute of Aboriginal and__Torres Strait__Islander Studies Act 1989_.
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+                   This Act may be cited as the _Australian Institute of Aboriginal and_<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Torres Strait_</st1:place>_Islander Studies Act 1989_.
 
-                   This Act commences on the commencement of the _Aboriginal and__Torres Strait__Islander Commission Act 1989_.
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt; mso-bidi-font-size: 13.0pt"> [_see_ Note 1]</span>
 
-Note:          The _Aboriginal and Torres Strait Islander Commission Act 1989_ was renamed the _Aboriginal and__Torres Strait__Islander Act 2005_. See item 3 of Schedule 1 to the _Aboriginal and__Torres Strait__Islander Commission Amendment Act 2005_.
+                   This Act commences on the commencement of the _Aboriginal and_<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Torres Strait_</st1:place>_Islander Commission Act 1989_.
+
+Note:          The _Aboriginal and Torres Strait Islander Commission Act 1989_ was renamed the _Aboriginal and Torres Strait Islander Act 2005_. See item 3 of Schedule 1 to the _Aboriginal and Torres Strait Islander Commission Amendment Act 2005_.<o:p></o:p>
 
 ##### <a id="3"></a>3  Interpretation
 
                    In this Act, unless the contrary intention appears:
 
-                    <a name="island-studi"></a><a name="torr-strait"></a><a name="aborigin"></a>**_Aboriginal and_****_Torres Strait_****_Islander studies_** means research and study in relation to aspects of the culture, history and society of Aboriginal persons or Torres Strait Islanders.
+                    <a name="island-studi"></a><a name="torr-strait"></a><a name="aborigin"></a>**_Aboriginal and_**<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">**_Torres Strait_**</st1:place>**_Islander studies_** means research and study in relation to aspects of the culture, history and society of Aboriginal persons or Torres Strait Islanders.
 
-                    <a name="aborigin-person"></a>**_Aboriginal person_** means a person of the Aboriginal race of Australia.
+                    <a name="aborigin-person"></a>**_Aboriginal person_** means a person of the Aboriginal race of <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>.
 
                     <a name="appointed-councillor"></a>**_appointed Councillor_** means a Councillor referred to in paragraph 12(1)(b) or (c).
 
@@ -224,9 +227,9 @@ Note:          The _Aboriginal and Torres Strait Islander Comm
 
                     <a name="research-advisori-committe"></a>**_Research Advisory Committee_** means the Research Advisory Committee of the Institute referred to in section 31.
 
-                    <a name="torr-strait-island"></a>**_Torres Strait Islander_** means a descendant of an indigenous inhabitant of the Torres Strait Islands.
+                    <a name="torr-strait-island"></a>**_Torres Strait Islander_** means a descendant of an indigenous inhabitant of the <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placename>Torres Strait</st1:placename> <st1:placetype>Islands</st1:placetype></st1:place>.
 
-                    <a name="tsra"></a>**_TSRA_** means the Torres Strait Regional Authority established by Part 3A of the _Aboriginal and__Torres  Strait__Islander Act 2005_.
+                    <a name="tsra"></a>**_TSRA_** means the Torres Strait Regional Authority established by Part 3A of the _Aboriginal and Torres Strait Islander Act 2005_.
 
 ##### <a id="3A"></a>3A  Application of the _Criminal Code_
 
@@ -236,9 +239,11 @@ Note 1:       Chapter 2 of the _Criminal Code_ sets out the genera
 
 Note 2:       Part 2.5 of the _Criminal Code_ (which deals with corporate criminal responsibility) is excluded from applying to offences against this Act by subsection 47(10).
 
-## Part 2—Australian Institute of Aboriginal and Torres Strait Islander Studies
+<o:p> </o:p>
 
-##### <a id="4"></a>4  Australian Institute of Aboriginal and Torres Strait Islander Studies
+## Part 2<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Australian Institute of Aboriginal and </span><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><span class="CharPartText">Torres Strait</span></st1:place><span class="CharPartText"> Islander Studies</span><o:p></o:p>
+
+##### <a id="4"></a>4  Australian Institute of Aboriginal and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Torres Strait</st1:place> Islander Studies
 
              (1)  An Australian Institute of Aboriginal and Torres Strait Islander Studies is established.
 
@@ -258,7 +263,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (4)  All courts, judges and persons acting judicially shall take judicial notice of the imprint of the seal of the Institute appearing on a document and shall presume that it was duly affixed.
 
-## Part 3—Functions of Institute
+<o:p> </o:p>
+
+## Part 3<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Functions of Institute</span><o:p></o:p>
 
 ##### <a id="5"></a>5  Functions of Institute
 
@@ -292,13 +299,15 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (3)  In spite of anything contained in this Act, any money or other property held by the Institute on trust shall be dealt with in accordance with the powers and duties of the Institute as trustee.
 
-## Part 4—Members of Institute
+<o:p> </o:p>
+
+## Part 4<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Members of Institute</span><o:p></o:p>
 
 ##### <a id="7"></a>7  Members of Institute
 
              (1)  The following persons are, subject to this Part, members of the Institute:
 
-                     (a)  all persons who, immediately before the commencement of this section, were members of the Australian Institute  of Aboriginal Studies;
+                     (a)  all persons who, immediately before the commencement of this section, were members of the Australian <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:placetype>Institute</st1:placetype> of <st1:placename>Aboriginal Studies</st1:placename></st1:place>;
 
                      (b)  all persons who, immediately before that commencement, were listed in a register maintained by the Australian Institute of Aboriginal Studies as associate members or corresponding members of that Institute;
 
@@ -338,7 +347,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                    Membership of the Institute does not confer any rights or powers other than those expressly conferred by this Act or by the Institute rules.
 
-## Part 5—Council of Institute
+<o:p> </o:p>
+
+## Part 5<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Council of Institute</span><o:p></o:p>
 
 ### Division 1—Constitution of Council
 
@@ -364,6 +375,8 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  The Councillor who is the Chairperson or the Deputy Chairperson of the Council ceases to be the Chairperson or the Deputy Chairperson of the Council, as the case may be, if he or she ceases to be a Councillor.
 
+<o:p> </o:p>
+
 ### Division 2—Administrative provisions
 
 ##### <a id="15"></a>15  Term of office
@@ -388,13 +401,13 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  during a vacancy in the office of Council Chairperson, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the Council Chairperson is absent from duty or from Australia or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the Council Chairperson is absent from duty or from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region> or is, for any reason, unable to perform the duties of the office.
 
              (2)  The Minister may appoint a person to act in the office of an appointed Councillor:
 
                      (a)  during a vacancy in that office, whether or not an appointment has previously been made to the office; or
 
-                     (b)  during any period, or during all periods, when the appointed Councillor is absent from duty or from Australia, or is, for any reason, unable to perform the duties of the office.
+                     (b)  during any period, or during all periods, when the appointed Councillor is absent from duty or from <st1:country-region style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"><st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Australia</st1:place></st1:country-region>, or is, for any reason, unable to perform the duties of the office.
 
              (3)  A person appointed to act during a vacancy in the office of an appointed Councillor under subsection (2):
 
@@ -440,6 +453,8 @@ the Minister shall terminate the person’s membership of the Council.
 
                    A Councillor holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister by notice in writing published in the _Gazette_.
 
+<o:p> </o:p>
+
 ### Division 3—Operations of Council
 
 ##### <a id="23"></a>23  Meetings of Council
@@ -474,7 +489,9 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
            (10)  The Council may regulate the conduct of proceedings at its meetings as it thinks fit and shall cause minutes of those proceedings to be kept.
 
-## Part 6—Principal
+<o:p> </o:p>
+
+## Part 6<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Principal</span><o:p></o:p>
 
 ##### <a id="24"></a>24  Principal
 
@@ -504,7 +521,9 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
                    The Principal holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Council by notice in writing published in the _Gazette_.
 
-## Part 7—Staff
+<o:p> </o:p>
+
+## Part 7<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Staff</span><o:p></o:p>
 
 ##### <a id="29"></a>29  Staff
 
@@ -522,7 +541,9 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
              (2)  The terms and conditions on which consultants are engaged shall be as determined by the Council by notice published in the _Gazette_.
 
-## Part 8—Research Advisory Committee
+<o:p> </o:p>
+
+## Part 8<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Research Advisory Committee</span><o:p></o:p>
 
 ##### <a id="31"></a>31  Research Advisory Committee
 
@@ -550,7 +571,7 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
 ##### <a id="33"></a>33  Remuneration and allowances
 
-                   A member of the Research Advisory Committee is entitled to remuneration and allowances in accordance with section 45.
+                   A member of the Research Advisory Committee is entitled to remuneration and allowances in accordance with section 45.
 
 ##### <a id="34"></a>34  Resignation
 
@@ -560,7 +581,9 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
                    A member of the Research Advisory Committee holds office for such period, and on such terms and conditions in respect of matters not provided for by this Act, as are determined by the Council by notice published in the _Gazette_.
 
-## Part 9—Finance
+<o:p> </o:p>
+
+## Part 9<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Finance</span><o:p></o:p>
 
 ##### <a id="36"></a>36  Money payable to the Institute
 
@@ -582,9 +605,11 @@ the Councillors remaining at the meeting constitute a quorum for the purpose of 
 
 ##### <a id="39"></a>39  Exemption from taxation
 
-                   The Institute is not subject to taxation under any law of the Commonwealth or of a State or Territory.
+                   The Institute is not subject to taxation (including taxation under the _Debits Tax Act 1982_) under any law of the Commonwealth or of a State or Territory.
 
-## Part 10—Miscellaneous
+<o:p> </o:p>
+
+## Part 10<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Miscellaneous</span><o:p></o:p>
 
 ##### <a id="41"></a>41  Certain information not to be disclosed
 
@@ -718,7 +743,9 @@ Note:          Part 2.5 of the _Criminal Code_ deals with co
 
                              (ii)  in the case of a body corporate—$5,000.
 
-## Part 11—Consequential and transitional provisions
+<o:p> </o:p>
+
+## Part 11<span style="mso-font-kerning: 0pt">—</span><span class="CharPartText">Consequential and transitional provisions</span><o:p></o:p>
 
 ### Division 1—Preliminary
 
@@ -754,11 +781,15 @@ Note:          Part 2.5 of the _Criminal Code_ deals with co
 
 being an instrument subsisting immediately before the commencement.
 
+<o:p> </o:p>
+
 ### Division 2—Repeal
 
 ##### <a id="51"></a>51  Repeal
 
                    The _Australian Institute of Aboriginal Studies Act 1964_ is repealed.
+
+<o:p> </o:p>
 
 ### Division 3—Transitional provisions
 
@@ -768,7 +799,7 @@ being an instrument subsisting immediately before the commencement.
 
              (2)  The persons who, immediately before the commencement, were members of the Council of the old Institute hold office as members of the Council of the new Institute during the transitional period.
 
-             (3)  Appointments of persons to the Council made under paragraphs 12(1)(b) and (c) during the transitional period take effect at the end of the transitional period.
+             (3)  Appointments of persons to the Council made under paragraph<st1:personname style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">s 1</st1:personname>2(1)(b) and (c) during the transitional period take effect at the end of the transitional period.
 
              (4)  If, immediately after the transitional period, not all positions on the Council have been filled, then, until persons have been appointed to all positions on the Council, the quorum at a meeting of the Council is constituted by a majority of the number of members of the Council holding office on the day of the meeting.
 
@@ -902,31 +933,34 @@ as if:
 
                    An instrument is not subject to stamp duty or any other tax under a law of the Commonwealth or of a State or Territory if an authorised officer certifies, in writing, that the instrument was made or given because of, or for a purpose connected with, this Division.
 
+<o:p> </o:p>
+
 ### Division 4—Consequential amendments of other Acts
 
-##### Sections<a id=" 66 and 67"></a> 66 and 67  
+##### Sections<a id=" 66 and 67"></a> 66 and 67  <o:p></o:p>
 
-* * *
+<o:p> </o:p>
 
-**Note:**
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 4pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 4pt; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 1pt; BORDER-BOTTOM: windowtext 1pt solid; mso-border-alt: solid windowtext .5pt">
 
-The amendments made by sections 66 and 67 are incorporated in the compilations on ComLaw.
+**Note:<o:p></o:p>**
+
+The amendments made by sections 66 and 67 are incorporated in the compilations on SCALEplus and ComLaw.
 
 _Remuneration Tribunal Act 1973_
 
-_Sales Tax (Exemptions and Classifications) Act 1992_.\[repealed by Act No. 101, 2006, Sch. 5]
+_Sales Tax (Exemptions and Classifications) Act 1992_.
 
-For access to the wording of the amendments made by this Division,_see_ Act  No. 149, 1989.
+For access to the wording of the amendments made by this Division,_see_ Act  No. 149, 1989.</div>
 
-* * *
 
-# Notes to the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_
+# Notes to the _<span style="mso-no-proof: yes">Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989</span>_
 
 ### Note 1
 
-The _Australian Institute of Aboriginal and__Torres Strait__Islander Studies Act 1989_ as shown in this compilation comprises Act No. 149, 1989 amended as indicated in the Tables below.
+The _Australian Institute of Aboriginal and_<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Torres Strait_</st1:place>_Islander Studies Act 1989_ as shown in this compilation comprises Act No. 149, 1989 amended as indicated in the Tables below.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 24 November 2000 is not included in this compilation. For subsequent information _see_ Table A.
+All relevant information pertaining to application, saving or transitional provisions prior to <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="24" month="11">24 November 2000</st1:date> is not included in this compilation. For subsequent information _see_ Table A.
 
 ### Table of Acts
 
@@ -944,236 +978,226 @@ All relevant information pertaining to application, saving or transitional provi
 <thead>
   <tr>
     <td>
-      <div>Act</div>
+      <div>Act <o:p></o:p> </div>
     </td>
     <td colspan="2">
       <div>Number 
-and year</div>
+and year <o:p></o:p> 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent <o:p></o:p> 
+ </div>
     </td>
     <td>
-      <div>Date of commencement</div>
+      <div>Date of commencement <o:p></o:p> </div>
     </td>
     <td colspan="2">
-      <div>Application, saving or transitional provisions</div>
+      <div>Application, saving or transitional provisions <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989</div>
-  </td>
-  <td colspan="2">
-    <div>149, 1989</div>
-  </td>
-  <td>
-    <div>27 Nov 1989</div>
-  </td>
-  <td>
-    <div>5 Mar 1990 ( <i>see</i>s. 2 and <i>Gazette</i>1990, No. S48)</div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Industrial Relations Legislation Amendment Act 1991</div>
-  </td>
-  <td colspan="2">
-    <div>122, 1991</div>
-  </td>
-  <td>
-    <div>27 June 1991</div>
-  </td>
-  <td>
-    <div>Ss. 4(1), 10(b) and 15–20: 1 Dec 1988 
-Ss. 28(b)–(e), 30 and 31: 10 Dec 1991 ( <i>see Gazette</i>1991, No. S332) 
-Remainder: Royal Assent</div>
-  </td>
-  <td colspan="2">
-    <div>S. 31(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993</div>
-  </td>
-  <td colspan="2">
-    <div>1, 1994</div>
-  </td>
-  <td>
-    <div>14 Jan 1994</div>
-  </td>
-  <td>
-    <div>S. 80: 1 July 1994 <i>(a)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td colspan="2">
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 316–323: 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(b)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td colspan="2">
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 192–194): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(c)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporate Law Economic Reform Program Act 1999</div>
-  </td>
-  <td colspan="2">
-    <div>156, 1999</div>
-  </td>
-  <td>
-    <div>24 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 34): 13 Mar 2000 ( <i>see</i> <i>Gazette</i>2000,No. S114) <i>(d)</i></div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td colspan="2">
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td colspan="2">
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td colspan="2">
-    <div>112, 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>15 Oct 2001</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
-  </td>
-  <td>
-    <div>159, 2001</div>
-  </td>
-  <td colspan="2">
-    <div>1 Oct 2001</div>
-  </td>
-  <td colspan="2">
-    <div>29 Oct 2001</div>
-  </td>
-  <td>
-    <div>Sch 1 (item 97) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>32, 2005</div>
-  </td>
-  <td colspan="2">
-    <div>22 Mar 2005</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 4 (items 12–22): 24 Mar 2005</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 18) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td colspan="2">
-    <div>14 Sept 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 5 (item 21) and Schedule 6 (items 5–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 
-5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Australian <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x"> <st1:placetype>Institute</st1:placetype>of <st1:placename>Aboriginal</st1:placename> </st1:place>and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Torres Strait</st1:place>Islander Studies Act 1989</div>
+    </td>
+    <td colspan="2">
+      <div>149, 1989</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1989" day="27" month="11">27 Nov 1989</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1990" day="5" month="3">5 Mar 1990</st1:date>( <i style="mso-bidi-font-style: normal">see</i>s. 2 and <i style="mso-bidi-font-style: normal">Gazette</i>1990, No. S48)</div>
+    </td>
+    <td colspan="2">
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Industrial Relations Legislation Amendment Act 1991</div>
+    </td>
+    <td colspan="2">
+      <div>122, 1991</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1991" day="27" month="6">27 June 1991</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 4(1), 10(b) and 15-20: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1988" day="1" month="12">1 Dec 1988</st1:date> 
+Ss. 28(b)-(e), 30 and 31: 10 Dec 1991 ( <i style="mso-bidi-font-style: normal">see Gazette</i>1991, No. S332) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td colspan="2">
+      <div>S. 31(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aboriginal and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Torres Strait</st1:place>Islander Commission Amendment Act (No. 3) 1993</div>
+    </td>
+    <td colspan="2">
+      <div>1, 1994</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="14" month="1">14 Jan 1994</st1:date></div>
+    </td>
+    <td>
+      <div>S. 80: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="1" month="7">1 July 1994</st1:date> <i style="mso-bidi-font-style: normal">(a)</i></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td colspan="2">
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1997" day="24" month="10">24 Oct 1997</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 316-323: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1998" day="1" month="1">1 Jan 1998</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1997, No. GN49) <i style="mso-bidi-font-style: normal">(b)</i></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td colspan="2">
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="11" month="11">11 Nov 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 192-194): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="5" month="12">5 Dec 1999</st1:date>( <i style="mso-bidi-font-style: normal">see Gazette</i>1999, No. S584) <i style="mso-bidi-font-style: normal">(c) <o:p></o:p> </i></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporate Law Economic Reform Program Act 1999</div>
+    </td>
+    <td colspan="2">
+      <div>156, 1999</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1999" day="24" month="11">24 Nov 1999</st1:date></div>
+    </td>
+    <td>
+      <div>Schedule 10 (item 34): <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="13" month="3">13 Mar 2000</st1:date>( <i style="mso-bidi-font-style: normal">see</i> <i style="mso-bidi-font-style: normal">Gazette</i>2000,No. S114) <i style="mso-bidi-font-style: normal">(d)</i></div>
+    </td>
+    <td colspan="2">
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td colspan="2">
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2000" day="24" month="11">24 Nov 2000</st1:date></div>
+    </td>
+    <td>
+      <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
+Remainder: <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="24" month="5">24 May 2001</st1:date> 
+</div>
+    </td>
+    <td colspan="2">
+      <div>Sch. 2 (items 418, 419) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Reconciliation and Aboriginal and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Torres Strait</st1:place>Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td colspan="2">
+      <div>112, 2001</div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="17" month="9">17 Sept 2001</st1:date></div>
+    </td>
+    <td>
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="15" month="10">15 Oct 2001</st1:date></div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001</div>
+    </td>
+    <td>
+      <div>159, 2001</div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="1" month="10">1 Oct 2001</st1:date></div>
+    </td>
+    <td colspan="2">
+      <div><st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="2001" day="29" month="10">29 Oct 2001</st1:date></div>
+    </td>
+    <td>
+      <div>Sch 1 (item 97) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Aboriginal and Torres Strait Islander Commission Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>32, 2005</div>
+    </td>
+    <td colspan="2">
+      <div>22 Mar 2005</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 4 (items 12–22): 24 Mar 2005</div>
+    </td>
+    <td>
+      <div>Sch. 4 (item 18) \[ <i style="mso-bidi-font-style: normal">see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ was amended by section 80 only of the _Aboriginal and Torres Strait Islander Commission Amendment Act (No. 3) 1993_, paragraph 2(3)(b) of which provides as follows:
 
-                 (3)   The following provisions commence on 1 July 1994:
+                 (3)   The following provisions commence on <st1:date style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x" year="1994" day="1" month="7">1 July 1994</st1:date>:
 
                               (b)   Part 28 (other than Subdivision A of Division 2) and Schedules 2 and 3.
 
-_(b)_ The _Australian Institute of Aboriginal and__Torres  Strait__Islander Studies Act 1989_ was amended by Schedule 2 (items 316–323) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(b)_ The _Australian Institute of Aboriginal and_<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Torres Strait_</st1:place>_Islander Studies Act 1989_ was amended by Schedule 2 (items 316-323) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(c)_ The _Australian Institute of Aboriginal and__Torres Strait__Islander Studies Act 1989_ was amended by Schedule 2 (items 192–194) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(c)_ The _Australian Institute of Aboriginal and_<st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">_Torres Strait_</st1:place>_Islander Studies Act 1989_ was amended by Schedule 2 (items 192-194) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -1184,6 +1208,7 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
                  (2)   The following provisions commence on a day or days to be fixed by Proclamation:
 
                               (c)   the items in Schedules 10, 11 and 12.
+
 
 ## Table of Amendments
 
@@ -1196,296 +1221,291 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
 <thead>
   <tr>
     <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted</div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>Provision affected</div>
+      <div>Provision affected <o:p></o:p> </div>
     </td>
     <td>
-      <div>How affected</div>
+      <div>How affected <o:p></o:p> </div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 2</div>
-  </td>
-  <td>
-    <div>ad. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1994; No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 4(2)</div>
-  </td>
-  <td>
-    <div>ad. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 156, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 159, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26A</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 10</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 42</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997; No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1994; No. 152, 1997; No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 43</div>
-  </td>
-  <td>
-    <div>am. No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 1, 1994; No. 32, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45A</div>
-  </td>
-  <td>
-    <div>ad. No. 122, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2000; No. 112, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 11</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 58</div>
-  </td>
-  <td>
-    <div>rep. No. 152, 1997</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 2 </div>
+    </td>
+    <td>
+      <div>ad. No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3 </div>
+    </td>
+    <td>
+      <div>am. No. 1, 1994; No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3A </div>
+    </td>
+    <td>
+      <div>ad. No. 112, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 4(2) </div>
+    </td>
+    <td>
+      <div>ad. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 5 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 1 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12  <o:p></o:p></div>
+    </td>
+    <td>
+      <div>am. No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 2 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19 </div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 156, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 6 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25 </div>
+    </td>
+    <td>
+      <div>am. No. 159, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26A </div>
+    </td>
+    <td>
+      <div>ad. No. 122, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 7 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29 </div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 9 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37 </div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40 </div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 10</b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 42 </div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997; No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42 </div>
+    </td>
+    <td>
+      <div>am. No. 1, 1994; No. 152, 1997; No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 43 </div>
+    </td>
+    <td>
+      <div>am. No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43 </div>
+    </td>
+    <td>
+      <div>am. No. 1, 1994; No. 32, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45A </div>
+    </td>
+    <td>
+      <div>ad. No. 122, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+    <td>
+      <div>am. No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46 </div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47 </div>
+    </td>
+    <td>
+      <div>am. No. 137, 2000; No. 112, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Part 11 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b style="mso-bidi-font-weight: normal">Division 3 <o:p></o:p> </b></div>
+    </td>
+    <td>
+      <div><o:p> </o:p></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 58 </div>
+    </td>
+    <td>
+      <div>rep. No. 152, 1997</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
-_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)_
+_Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000 (No. 137, 2000)<o:p></o:p>_
 
 ## Schedule 2
 
@@ -1517,7 +1537,7 @@ the amendment of the first-mentioned provision by this Schedule does not affect 
 
 * * *
 
-_Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001 (No. 112, 2001)_
+_Reconciliation and Aboriginal and <st1:place style="BACKGROUND-POSITION: left bottom; BACKGROUND-IMAGE: url(res://ietag.dll/#34/#1001); BACKGROUND-REPEAT: repeat-x">Torres Strait</st1:place> Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001 (No. 112, 2001)<o:p></o:p>_
 
 ##### <a id="4"></a>4  Application of amendments
 
@@ -1527,7 +1547,7 @@ _Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation 
 
 * * *
 
-_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)_
+_Abolition of Compulsory Age Retirement (Statutory Officeholders) Act 2001  (No. 159, 2001)<o:p></o:p>_
 
 ## Schedule 1
 
@@ -1538,87 +1558,14 @@ The amendments made by this Schedule do not apply to an appointment if the term 
 * * *
 
 _Aboriginal and Torres Strait Islander Commission Amendment Act 2005
- (No. 32, 2005)_
+(No. 32, 2005)<o:p></o:p>
+_
 
 ## Schedule 4
 
-## 18  Saving provision
+## 18  Saving provision<o:p></o:p>
 
-A person appointed by the Minister under paragraph 12(1)(b) of the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ as in force immediately before the day Schedules 1 and 2 to this Act commence continues to hold office, on and after that day, for the balance of the term of the person’s appointment, as if the person had been appointed by the Minister under that paragraph of the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ as amended by this Act.
+A person appointed by the Minister under paragraph 12(1)(b) of the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ as in force immediately before the day Schedules 1 and 2 to this Act commence continues to hold office, on and after that day, for the balance of the term of the person’s appointment, as if the person had been appointed by the Minister under that paragraph of the _Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989_ as amended by this Act.<o:p></o:p>
 
-* * *
 
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 5  Application of Schedule 5 amendments
-
-The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
- 
+<o:p> </o:p>
