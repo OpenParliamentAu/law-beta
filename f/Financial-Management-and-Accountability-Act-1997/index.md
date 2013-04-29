@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00120/Html/87f1ef66-318c-450d-93e9-19a9854ce91c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00073/Html/9d0d60ef-4c91-4fe7-a71c-3efc42a9f5cc_files/image001.gif)
 
 # Financial Management and Accountability Act 1997
 
 **Act No. 154 of 1997 as amended**
 
-This compilation was prepared on 1 March 2011
+This compilation was prepared on 11 January 2011
  taking into account amendments up to Act No. 148 of 2010
 
 The text of any of those amendments not in force 
@@ -74,7 +74,7 @@ Related legislation
 
 [4](#4).            This Act extends to things outside Australia
 
-**Part 2—General provisions about definitions**
+**Part 2—General provisions about definitions and offences**
 
 [5](#5).            Definitions
 
@@ -128,7 +128,7 @@ Related legislation
 
 [30A](#30A).       Appropriations to take account of recoverable GST
 
-[31](#31).          Retaining prescribed receipts
+[31](#31).          Relevant Agency receipts
 
 [32](#32).          Transfer of Agency functions
 
@@ -144,15 +144,13 @@ Related legislation
 
 [36](#36).          Presiding Officers may approve expenditure
 
-**Part 5—Borrowing, investment and involvement in companies**
+**Part 5—Borrowing and investment**
 
 [37](#37).          Unauthorised borrowing agreements are invalid
 
 [38](#38).          Finance Minister may borrow for short periods
 
 [39](#39).          Investment of public money
-
-[39A](#39A).       Minister must inform Parliament of involvement in a company by the Commonwealth or a prescribed body
 
 **Part 6—Control and management of public property**
 
@@ -164,13 +162,9 @@ Related legislation
 
 [43](#43).          Gifts of public property
 
-**Part 6A—Interjurisdictional agencies**
-
-[43A](#43A).       Interjurisdictional agencies
-
 **Part 7—Special responsibilities of Chief Executives**
 
-[44](#44).          Promoting proper use etc  of Commonwealth resources
+[44](#44).          Promoting efficient, effective and ethical use etc  of Commonwealth resources
 
 [44A](#44A).       Keeping responsible Minister and Finance Minister informed
 
@@ -242,7 +236,7 @@ Related legislation
 
                    This Act extends to acts, omissions, matters and things outside Australia (unless the contrary intention appears).
 
-## Part 2—General provisions about definitions
+## Part 2—General provisions about definitions and offences
 
 ##### <a id="5"></a>5  Definitions
 
@@ -321,6 +315,8 @@ including such property that is held on trust for, or otherwise for the benefit 
                      (a)  a Special Account that is established by the Finance Minister under section 20; or
 
                      (b)  a Special Account that is established by an Act other than this Act.
+
+Note:          See also the _Financial Management Legislation Amendment Act 1999_, which converted components of previously existing funds into Special Accounts.
 
                     <a name="special-instruct"></a>**_Special Instruction_** means an instruction by the Finance Minister under section 16.
 
@@ -676,7 +672,7 @@ Note:          Under Division 177 of the GST Act, that Act a
 
                     <a name="limit-appropri"></a>**_limited appropriation_** means an appropriation that is limited as to amount.
 
-##### <a id="31"></a>31  Retaining prescribed receipts
+##### <a id="31"></a>31  Relevant Agency receipts
 
              (1)  This section applies if an Agency receives an amount of a kind prescribed by the regulations for the purposes of this section.
 
@@ -784,7 +780,7 @@ Note:          See also subparagraph 65(2)(a)(ia) (which allow
 
              (2)  A Presiding Officer may by written instrument delegate his or her powers under this section to an official. In exercising powers under the delegation, the official must comply with any directions of the Presiding Officer.
 
-## Part 5—Borrowing, investment and involvement in companies
+## Part 5—Borrowing and investment
 
 ##### <a id="37"></a>37  Unauthorised borrowing agreements are invalid
 
@@ -845,42 +841,6 @@ Note:          The proceeds of investment of the original inve
                           (ivb)  debt instruments denominated in Australian currency with an investment grade credit rating;
 
                              (v)  any other form of investment prescribed by the regulations.
-
-##### <a id="39A"></a>39A  Minister must inform Parliament of involvement in a company by the Commonwealth or a prescribed body
-
-             (1)  The Minister who has the responsibility for any of the following events must table a notice of the event in each House of the Parliament as soon as practicable after the event occurs:
-
-                     (a)  the Commonwealth or a prescribed body forms, or participates in forming, a company;
-
-                     (b)  the Commonwealth or a prescribed body acquires shares in a company (either by purchase or subscription) or disposes of shares in a company;
-
-                     (c)  the Commonwealth or a prescribed body becomes a member of a company;
-
-                     (d)  a variation occurs in the rights attaching to company shares held by the Commonwealth or a prescribed body;
-
-                     (e)  a variation occurs in rights of the Commonwealth or a prescribed body as a member of a company;
-
-                      (f)  the Commonwealth or a prescribed body ceases to be a member of a company.
-
-             (2)  The notice must be in the form, and contain the particulars, set out in the regulations.
-
-             (3)  This section does not apply to:
-
-                     (a)  an event mentioned in paragraphs (1)(a) to (f) that occurs in relation to:
-
-                              (i)  an authorised investment made under section 39; or
-
-                             (ii)  an investment made under the _Future Fund Act 2006_; or
-
-                     (b)  anything that results from the transfer to a Minister of any property that is to be dealt with as unclaimed property under Part 9.7 of the _Corporations Act 2001_; or
-
-                     (c)  a company that is conducted for the purposes of an intelligence or security agency (within the meaning given by section 85ZL of the _Crimes Act 1914_).
-
-             (4)  In this section:
-
-                    <a name="compani"></a>**_company_** includes a body of a kind prescribed by the regulations for the purposes of this section.
-
-                    <a name="prescrib-bodi"></a>**_prescribed body_** means a body corporate that is, or is included in, an Agency.
 
 ## Part 6—Control and management of public property
 
@@ -954,31 +914,9 @@ the official or Minister is liable to pay to the Commonwealth the amount of the 
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-## Part 6A—Interjurisdictional agencies
-
-##### <a id="43A"></a>43A  Interjurisdictional agencies
-
-             (1)  The regulations may prescribe:
-
-                     (a)  an Agency to be an interjurisdictional agency for the purposes of this section; and
-
-                     (b)  the persons who comprise an interjurisdictional agency (including employees of a State, for example); and
-
-                     (c)  a Minister of a State, the Australian Capital Territory, or the Northern Territory to be a State/Territory Minister for an interjurisdictional agency.
-
-             (2)  The regulations may provide for the following:
-
-                     (a)  a Chief Executive of an interjurisdictional agency to give to a State/Territory Minister the reports, documents and information in relation to the operations of an interjurisdictional agency that the State/Territory Minister requires, within the time limits set by the State/Territory Minister;
-
-                     (b)  the types of reports, documents and information that a State/Territory Minister may require under paragraph (a);
-
-                     (c)  the circumstances in which a State/Territory Minister may require a Chief Executive to give to the State/Territory Minister the reports, documents and information mentioned in paragraph (b);
-
-                     (d)  anything that is necessary or convenient to be prescribed to give effect to paragraphs (a) to (c).
-
 ## Part 7—Special responsibilities of Chief Executives
 
-##### <a id="44"></a>44  Promoting proper use etc. of Commonwealth resources
+##### <a id="44"></a>44  Promoting efficient, effective and ethical use etc. of Commonwealth resources
 
              (1)  A Chief Executive must manage the affairs of the Agency in a way that promotes proper use of the Commonwealth resources for which the Chief Executive is responsible.
 
@@ -988,7 +926,7 @@ Note:          A Chief Executive has the power to enter into c
 
              (3)  In this section:
 
-                    <a name="proper-us"></a>**_proper use_** means efficient, effective, economical and ethical use that is not inconsistent with the policies of the Commonwealth.
+                    <a name="proper-us"></a>**_proper use_** means efficient, effective and ethical use that is not inconsistent with the policies of the Commonwealth.
 
 ##### <a id="44A"></a>44A  Keeping responsible Minister and Finance Minister informed
 
@@ -1178,13 +1116,13 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
 ##### <a id="62"></a>62  Finance Minister may delegate powers
 
-             (1)  The Finance Minister may, by written instrument, delegate to an official any of the Finance Minister’s powers or functions under this Act, except the power to make Orders or a function under subsection 39A(1).
+             (1)  The Finance Minister may, by written instrument, delegate to an official any of the Finance Minister’s powers or functions under this Act, except the power to make Orders. 
 
              (2)  In exercising powers or functions under a delegation, the official must comply with any directions of the Finance Minister.
 
 ##### <a id="62A"></a>62A  Treasurer may delegate powers
 
-             (1)  The Treasurer may, by signed instrument, delegate to any of the following officials of the Department of the Treasury any of the Treasurer’s powers or functions under this Act, except a function under subsection 39A(1):
+             (1)  The Treasurer may, by signed instrument, delegate to any of the following officials of the Department of the Treasury any of the Treasurer’s powers or functions under this Act:
 
                      (a)  an official who is an SES employee;
 
@@ -1492,7 +1430,7 @@ Remainder: 7 Apr 2006</div>
     <div>17 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 8: 1 Mar 2011</div>
+    <div>Schedule 8: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -1550,18 +1488,10 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. Nos. 20 and 146, 1999; Determination No. 1 of 2000; No. 78, 2008; No. 148, 2010</div>
+    <div>am. Nos. 20 and 146, 1999; Determination No. 1 of 2000; No. 78, 2008</div>
   </td>
 </tr>
 <tr>
@@ -1854,14 +1784,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 31</div>
-  </td>
-  <td>
-    <div>rs. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 31</div>
   </td>
   <td>
@@ -1990,14 +1912,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 5</div>
-  </td>
-  <td>
-    <div>rs. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39</div>
   </td>
   <td>
@@ -2018,14 +1932,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
   </td>
   <td>
     <div>am. No. 90, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39A</div>
-  </td>
-  <td>
-    <div>ad. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2054,30 +1960,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div><b>Part 6A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43A</div>
-  </td>
-  <td>
-    <div>ad. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part 7</b></div>
   </td>
   <td>
@@ -2089,7 +1971,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>Heading to s. 44</div>
   </td>
   <td>
-    <div>am. No. 90, 2008; No. 148, 2010</div>
+    <div>am. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2097,7 +1979,7 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>S. 44</div>
   </td>
   <td>
-    <div>am. No. 90, 2008; No. 148, 2010</div>
+    <div>am. No. 90, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2230,14 +2112,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
 </tr>
 <tr>
   <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 62A</div>
   </td>
   <td>
@@ -2250,14 +2124,6 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
   </td>
   <td>
     <div>rs. No. 78, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 148, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2276,6 +2142,114 @@ _(b)_     The _Financial Management and Accountability Act 1997_ was ame
     <div>rep. No. 20, 1999</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Financial Framework Legislation Amendment Act 2010 (No. 148, 2010)_
+
+The following amendments commence on 17 December 2011 unless proclaimed earlier:
+
+## Schedule 8
+
+## 1  Part 2 (heading)
+
+Repeal the heading, substitute:
+
+## Part 2—General provisions about definitions
+
+## 2  Section 5 (definition of _Special Account_)
+
+Repeal the note.
+
+_Note:       The heading to section 31 is replaced by the heading “Retaining prescribed receipts”._
+
+## 3  Part 5 (heading)
+
+Repeal the heading, substitute:
+
+## Part 5—Borrowing, investment and involvement in companies
+
+## 4  At the end of Part 5
+
+Add:
+
+##### <a id="39A"></a>39A  Minister must inform Parliament of involvement in a company by the Commonwealth or a prescribed body
+
+             (1)  The Minister who has the responsibility for any of the following events must table a notice of the event in each House of the Parliament as soon as practicable after the event occurs:
+
+                     (a)  the Commonwealth or a prescribed body forms, or participates in forming, a company;
+
+                     (b)  the Commonwealth or a prescribed body acquires shares in a company (either by purchase or subscription) or disposes of shares in a company;
+
+                     (c)  the Commonwealth or a prescribed body becomes a member of a company;
+
+                     (d)  a variation occurs in the rights attaching to company shares held by the Commonwealth or a prescribed body;
+
+                     (e)  a variation occurs in rights of the Commonwealth or a prescribed body as a member of a company;
+
+                      (f)  the Commonwealth or a prescribed body ceases to be a member of a company.
+
+             (2)  The notice must be in the form, and contain the particulars, set out in the regulations.
+
+             (3)  This section does not apply to:
+
+                     (a)  an event mentioned in paragraphs (1)(a) to (f) that occurs in relation to:
+
+                              (i)  an authorised investment made under section 39; or
+
+                             (ii)  an investment made under the _Future Fund Act 2006_; or
+
+                     (b)  anything that results from the transfer to a Minister of any property that is to be dealt with as unclaimed property under Part 9.7 of the _Corporations Act 2001_; or
+
+                     (c)  a company that is conducted for the purposes of an intelligence or security agency (within the meaning given by section 85ZL of the _Crimes Act 1914_).
+
+             (4)  In this section:
+
+                    <a name="compani"></a>**_company_** includes a body of a kind prescribed by the regulations for the purposes of this section.
+
+                    <a name="prescrib-bodi"></a>**_prescribed body_** means a body corporate that is, or is included in, an Agency.
+
+## 5  After Part 6
+
+Insert:
+
+## Part 6A—Interjurisdictional agencies
+
+##### <a id="43A"></a>43A  Interjurisdictional agencies
+
+             (1)  The regulations may prescribe:
+
+                     (a)  an Agency to be an interjurisdictional agency for the purposes of this section; and
+
+                     (b)  the persons who comprise an interjurisdictional agency (including employees of a State, for example); and
+
+                     (c)  a Minister of a State, the Australian Capital Territory, or the Northern Territory to be a State/Territory Minister for an interjurisdictional agency.
+
+             (2)  The regulations may provide for the following:
+
+                     (a)  a Chief Executive of an interjurisdictional agency to give to a State/Territory Minister the reports, documents and information in relation to the operations of an interjurisdictional agency that the State/Territory Minister requires, within the time limits set by the State/Territory Minister;
+
+                     (b)  the types of reports, documents and information that a State/Territory Minister may require under paragraph (a);
+
+                     (c)  the circumstances in which a State/Territory Minister may require a Chief Executive to give to the State/Territory Minister the reports, documents and information mentioned in paragraph (b);
+
+                     (d)  anything that is necessary or convenient to be prescribed to give effect to paragraphs (a) to (c).
+
+## 5A  Subsection 44(3) (definition of _proper use_)
+
+After “effective”, insert “, economical”.
+
+_Note:       The heading to section 44 is altered by omitting “efficient, effective and ethical use”, and substituting “proper use”._
+
+## 6  Section 62(1)
+
+After “make Orders”, insert “or a function under subsection 39A(1)”.
+
+## 7  Section 62A(1)
+
+After “this Act”, insert “, except a function under subsection 39A(1)”.
+
+As at 11 January 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2513,7 +2487,7 @@ _Financial Framework Legislation Amendment Act 2008 (No. 90, 2008)_
 
 (2)       Subsection 12(2) of the _Financial Management and Accountability Act 1997_(as inserted by this Act) applies in relation to agreements or arrangements entered into on or after the commencement of this item.
 
-## 69  Application—drawing rights
+## 69  Application—drawing rights
 
 The amendments made by items 32 and 33 apply in relation to drawing rights issued on or after the commencement of those items.
 
