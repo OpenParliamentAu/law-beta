@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00581/Html/b7fab8e8-ff97-440c-9044-b18dbe39f0a0_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00485/Html/033d1d44-e6a3-4368-8657-db7ed809b7a5_files/image001.gif)
 
 # Age Discrimination Act 2004
 
 **Act No. 68 of 2004 as amended**
 
-This compilation was prepared on 28 July 2011
- taking into account amendments up to Act No. 79 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 40 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1212,7 +1212,7 @@ Service of documents
 
              (2)  This Part does not make unlawful anything done by a person in direct compliance with a regulation under an Act mentioned in paragraph (1)(a), (b), (c), (d), (f), (g), (h) or (i).
 
-          (2A)  This Part does not make unlawful anything done by a person in direct compliance with guidelines in force under paragraph 169(a) of the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+          (2A)  This Part does not make unlawful anything done by a person in direct compliance with a determination in force under subparagraph 169(1)(a)(i) of the _A New Tax System (Family Assistance) (Administration) Act 1999_.
 
        (2AA)  This Part does not make unlawful anything done by a person in direct compliance with any of the following:
 
@@ -1224,7 +1224,7 @@ Service of documents
 
              (3)  This Part does not make unlawful anything done by a person in direct compliance with the CDEP Scheme (within the meaning of the _Social Security Act 1991_).
 
-          (3A)  This Part does not make unlawful anything done by a person in direct compliance with guidelines in force under paragraph 209(a) of the _Social Security (Administration) Act 1999_.
+          (3A)  This Part does not make unlawful anything done by a person in direct compliance with a determination in force under subparagraph 209(1)(a)(i) of the _Social Security (Administration) Act 1999_.
 
              (4)  This Part does not make unlawful anything done by a person in direct compliance with a determination in force under paragraph 88A(1)(c) of the _Veterans’ Entitlements Act 1986_.
 
@@ -2667,7 +2667,7 @@ of Assent</div>
     <div>4 Nov 2006</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2685,7 +2685,7 @@ Remainder: Royal Assent</div>
     <div>15 Mar 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
+    <div>Schedules 1–3: 1 July 2007 ( <i>see</i>s. 2(1) and F2007L01653) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -2892,23 +2892,6 @@ Schedule 2 (item 2): 1 July 2008</div>
   </td>
   <td>
     <div>Schedule 2 (items 1–6): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>79, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 1, 2): 26 July 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -3291,7 +3274,7 @@ No. 63, 2006</div>
     <div>S. 41</div>
   </td>
   <td>
-    <div>am. No. 52, 2004; No. 63, 2006; No. 60, 2007; No. 79, 2011</div>
+    <div>am. No. 52, 2004; No. 63, 2006; No. 60, 2007</div>
   </td>
 </tr>
 <tr>
@@ -3460,7 +3443,7 @@ No. 63, 2006</div>
 _Sex and Age Discrimination Legislation Amendment Act 2011 
  (No. 40, 2011)_
 
-The following amendments commence on 29 July 2011 (_see_ F2011L01552):
+The following amendments commence on 20 December 2011 unless proclaimed earlier:
 
 ## Schedule 2
 
@@ -3598,7 +3581,7 @@ Repeal the paragraph, substitute:
 
                      (a)  the Commissioner or another member of the Commission; or
 
-As at 28 July 2011 the amendments are not incorporated in this compilation.
+As at 1 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
