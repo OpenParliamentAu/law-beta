@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02137/Html/AusInstATSIStudies89_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02136/Html/AusInstATSIStudies89_image001.gif)
 
 # Australian Institute of Aboriginal and Torres Strait Islander Studies Act 1989
 
 **Act No. 149 of 1989 as amended**
 
-This compilation was prepared on 15 October 2001
- taking into account amendments up to Act No. 112 of 2001
+This compilation was prepared on 24 May 2001
+ taking into account amendments up to Act No. 137 of 2000
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -22,8 +22,6 @@ Prepared by the Office of Legislative Drafting,
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
 [3](#3).            Interpretation                                                                                       1
-
-[3A](#3A).         Application of the _Criminal Code_                                                       2
 
 **Part 2—Australian Institute of Aboriginal and Torres Strait Islander Studies**
 
@@ -181,8 +179,6 @@ Prepared by the Office of Legislative Drafting,
 
 **Notes** 
 
- 
-
 ## An Act to establish an Australian Institute of Aboriginal and Torres Strait Islander Studies, and for related purposes
 
 ## Part 1—Preliminary
@@ -230,14 +226,6 @@ Prepared by the Office of Legislative Drafting,
                     <a name="torr-strait-island"></a>**_Torres Strait Islander_** means a descendant of an indigenous inhabitant of the Torres Strait Islands.
 
                     <a name="tsra"></a>**_TSRA_** means the Torres Strait Regional Authority established by Part 3A of the Commission Act.
-
-##### <a id="3A"></a>3A  Application of the _Criminal Code_
-
-                   Chapter 2 of the _Criminal Code_(except Part 2.5) applies to all offences against this Act.
-
-Note 1:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
-Note 2:       Part 2.5 of the _Criminal Code_ (which deals with corporate criminal responsibility) is excluded from applying to offences against this Act by subsection 47(10).
 
 ## Part 2—Australian Institute of Aboriginal and Torres Strait Islander Studies
 
@@ -357,7 +345,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  All the Councillors hold office on a part-time basis.
 
-##### <a id="13"></a>13  Responsibilities of Council
+##### <a id="13"></a>13  Responsibilities of Council
 
                    It is the responsibility of the Council to ensure the proper and efficient performance of the functions of the Institute and to determine the policy of the Institute with respect to any matter.
 
@@ -681,15 +669,7 @@ the person is not liable to be punished by imprisonment for that offence.
 
                      (a)  an offence created by the regulations; and
 
-                     (b)  an offence created by:
-
-                              (i)  section 6 of the _Crimes Act 1914_; or
-
-                             (ii)  section 11.1, 11.2, 11.4 or 11.5 of the _Criminal Code_; or
-
-                            (iii)  section 134.1, 134.2, 135.1, 135.2, 135.4 or 136.1 of the _Criminal Code_;
-
-                            being an offence that relates to this Act or the regulations.
+                     (b)  an offence created by section 5, 6, 7 or 7A, or subsection 86(1), of the _Crimes Act 1914_ or section 134.1, 134.2, 135.1, 135.2, 135.4 or 136.1 of the _Criminal Code_, being an offence that relates to this Act or the regulations.
 
            (10)  Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act.
 
@@ -787,7 +767,7 @@ being an instrument subsisting immediately before the commencement.
 
 whichever is earlier.
 
-##### <a id="53"></a>53  First Principal of the Institute
+##### <a id="53"></a>53  First Principal of the Institute
 
                    The following provisions apply in relation to the first Principal of the Institute in spite of anything to the contrary in Part 6:
 
@@ -1080,23 +1060,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>112, 2001</div>
-  </td>
-  <td>
-    <div>17 Sept 2001</div>
-  </td>
-  <td>
-    <div>15 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
  
@@ -1150,14 +1113,6 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
   </td>
   <td>
     <div>am. No. 1, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 112, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1277,7 +1232,7 @@ _(d)_ The _Australian Institute of Aboriginal and Torres Strait Islander Studies
     <div>S. 47</div>
   </td>
   <td>
-    <div>am. No. 137, 2000; No. 112, 2001</div>
+    <div>am. No. 137, 2000</div>
   </td>
 </tr>
 <tr>
@@ -1324,15 +1279,5 @@ If:
                      (c)  the first-mentioned provision is amended by this Schedule;
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
-
-* * *
-
-_Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Amendment (Application of Criminal Code) Act 2001 (No. 112, 2001)_
-
-##### <a id="4"></a>4  Application of amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
