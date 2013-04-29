@@ -1,2807 +1,2069 @@
-**
+![](http://www.comlaw.gov.au/Details/C2004C02688/Html/ChildCare72_image001.gif)
 
-###  CHILD CARE ACT 1972 
-**
+# Child Care Act 1972 
 
+Act No. 121 of 1972 as amended
 
+Consolidated as in force on 4 August 1998
 
+(includes amendments up to Act No. 13 of 1998)
 
+This Act has uncommenced amendments. For uncommenced amendments see the endnotes.
 
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
+# Contents
 
+**Part I—Preliminary**
 
+[1](#1).               Short title [_see_ Note 1]                                                                           
 
-**
+[2](#2).               Commencement [_see_ Note 1]                                                                 
 
-###  Long Title 
-**
-**
+[4](#4).               Interpretation [_see_ Note 2]                                                                    
 
-###  CHILD CARE ACT 1972<part>Part I&#151;Preliminary </part>
-**
-###  CHILD CARE ACT 1972- SECT 1  Short title [_see_ Note 1] 
-<dl compact="">
+[4A](#4A).            Child care centres                                                                                   
 
-		This Act may be cited as the _Child Care Act 1972_.
+[4B](#4B).            Eligible child care centres [_see_ Note 2]                                                   
 
- </dl>
-###  CHILD CARE ACT 1972- SECT 2  Commencement [_see_ Note 1] 
-<dl compact="">
+[4C](#4C).            Guidelines for eligible child care centres [_see_ Note 2]                            
 
-		This Act shall come into operation on the day on which it receives the Royal
+[4D](#4D).            Allocation conditions stop applying after 31 December 1999  [_see_ Note 2]              
 
-Assent.
+[4E](#4E).             Consequences of breach of conditions [_see_ Note 2]                              
 
- </dl>
-###  CHILD CARE ACT 1972- SECT 4  Interpretation 
-<dl compact="">
+[4F](#4F).             Procedure for imposing a sanction [_see_ Note 2]                                    
 
-<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
+[4G](#4G).            Review by the Administrative Appeals Tribunal [_see_ Note 2]             
 
-</dd> </dl>
-<dl compact=""><dl compact="">
+**Part II—Capital Grants** 
 
-_body_ includes an association and society. _building_ includes a part of a building and an addition to a building and, in Part VI, includes any other improvement on land. _child care_ means the care of children at a time or times when they are not being cared for in their own homes or in the homes of other persons. _child care centre_ has the meaning given by section 4A. _Child Care Standards Committee_ means the committee established under section 14\. _eligible child care centre_ has the meaning given by section 4B. _family assistance law_ means any one or more of the following:  </dl></dl>
+    **Division 1—Approved Projects**
 
-<dl compact=""><dl compact=""><dl compact="">
+[5](#5).               Interpretation of Division 1                                                                   
 
-<dt>(a)</dt><dd>the _A New Tax System (Family Assistance) Act 1999_;</dd>
+[6](#6).               Approval of projects                                                                             
 
-<dt>(b)</dt><dd>the _A New Tax System (Family Assistance) (Administration) Act 1999_;</dd>
+[7](#7).               Grants for approved projects                                                                
 
-<dt>(c)</dt><dd>regulations under the _A New Tax System (Family Assistance) (Administration)Act 1999_.
+    **Division 2—Approved Equipment**
 
-</dd>
+[8](#8).               Interpretation of Division 2                                                                   
 
-</dl></dl></dl>
+[9](#9).               Approval of equipment                                                                         
 
-<def><dl compact=""><dl compact="">
+[10](#10).             Grants for approved equipment                                                            
 
-_home_ does not include an orphanage or like institution. _information_ includes estimates. _officer_ means a person performing duties, or exercising powers or functions, under or in relation to this Act and, in relation to a provision of Part IIIA, includes:  </dl></dl>
+**Part III—Recurrent Grants** 
 
-<dl compact=""><dl compact=""><dl compact="">
+    **Division 1—Grants for new eligible child care centres and grants for fee relief**
 
-<dt>(a)</dt><dd>a person who has been such a person; and</dd>
+[12](#12).             Grants in relation to establishment of new eligible child care centres  
 
-<dt>(b)</dt><dd>a person who is or has been appointed or employed by the Commonwealth and
+[12A](#12A).          Grants for fee relief [_see_ Note 2]                                                         
 
-who, as a result of that appointment or employment, may acquire or has acquired
+    **Division 2—Provision of tax file numbers**
 
-information about a person under this Act; and</dd>
+[12B](#12B).          Provision of a persons’s tax file number [_see_ Note 2]                         
 
-<dt>(c)</dt><dd>a person who, although not appointed or employed by the Commonwealth,
+[12C](#12C).          Provision of partner’s tax file number [_see_ Note 2]                             
 
-performs or performed services for the Commonwealth and who, as a result of
+[12D](#12D).          Social Security Secretary may request person who would benefit from fee relief to give statement of person’s tax file number [_see_ Note 2]                                                                             
 
-performing those services, may acquire or has acquired information about a
+[12E](#12E).           Social Security Secretary may request person who would benefit from fee relief to give statement of partner’s tax file number [_see_ Note 2]                                                                             
 
-person under this Act.
+    **Division 3—Allocation of child care places**
 
-</dd>
+[12F](#12F).           Secretary to allocate child care places [_see_ Note 2]                             
 
-</dl></dl></dl>
+    **Division 4—The immunisation requirement**
 
-<center>Back to Top</center>
+[12G](#12G).          The immunisation requirement [_see_ Note 2]                                        
 
-<def><dl compact=""><dl compact="">
+[12H](#12H).          Minister’s directions [_see_ Note 2]                                                       
 
-_operator_, in relation to an eligible child care centre, means the
+**Part IIIA—Confidentiality**
 
-person or body operating, or proposing to operate, the centre. _place_ includes a proposed place. _protected information_ means:  </dl></dl>
+[12J](#12J).           Authorised access to and use of protected information [_see_ Note 2]  
 
-<dl compact=""><dl compact=""><dl compact="">
+[12K](#12K).          Offence—unauthorised access to protected information [_see_ Note 2] 
 
-<dt>(a)</dt><dd>information about a person or a child care service that is or was held in
+[12L](#12L).           Offence—unauthorised use of protected information [_see_ Note 2]     
 
-the records of the Department; or</dd>
+[12M](#12M).         Protection extends to court, tribunal etc  proceedings [_see_ Note 2]    
 
-<dt>(b)</dt><dd>information that there is no information about a person or a child care
+[12N](#12N).          Secretary’s certificate [_see_ Note 2]                                                      
 
-service held in such records.
+[12P](#12P).           Guidelines for exercise of Secretary’s disclosure power [_see_ Note 2] 
 
-</dd>
+[12Q](#12Q).          Offence—soliciting disclosure of protected information  [_see_ Note 2] 
 
-</dl></dl></dl>
+[12R](#12R).          Offence—untrue representations [_see_ Note 2]                                    
 
-<dl compact=""><dl compact="">
+[12S](#12S).           Offences—offering to supply protected information [_see_ Note 2]     
 
-<dt>(2)</dt><dd>For the purposes of this Act, a thing is taken to be done or required for
+[12T](#12T).          Freedom of Information Act not affected [_see_ Note 2]                       
 
-a permitted purpose if it is done or required:
+[12U](#12U).          Application of the _Criminal Code_ [_see_ Note 2]                                  
 
-</dd> </dl></dl>
+[12V](#12V).          Crown not liable to be prosecuted for offences [_see_ Note 2]              
 
-<dl compact=""><dl compact=""><dl compact="">
+**Part IV—Research Grants**
 
-<dt>(a)</dt><dd>for the purposes of this Act; or</dd>
+[13](#13).             Grants for research etc                                                                         
 
-<dt>(b)</dt><dd>for the purposes of a family assistance law;
+**Part IVA—Grants in Respect of the Development of Child Care Centres**
 
-</dd>
+[13A](#13A).          Interpretation                                                                                       
 
-</dl></dl></dl>
+[13B](#13B).          Approval of projects related to the development of child care centres 
 
-**
+[13C](#13C).          Grants for projects related to the development of child care centres  
 
-###  CHILD CARE ACT 1972- SECT 4A  Child care centres 
-**
+**Part V—Advisory Committees** 
 
- <dl compact=""><dl compact="">
+    **Division 1—Establishment of Committees**
 
-<dt>(1)</dt><dd>Subject to subsection (2), a child care centre is a place:
+[14](#14).             Child Care Standards Committee                                                         
 
-</dd> </dl></dl>
+[15](#15).             Convenor of Child Care Standards Committee                                    
 
-<dl compact=""><dl compact=""><dl compact="">
+[16](#16).             Other committees                                                                                 
 
-<dt>(a)</dt><dd>that provides, or proposes to provide, child care for children:
+    **Division 2—General**
 
-</dd>
+[17](#17).             Definition of _committee_                                                                        
 
-</dl></dl></dl>
+[18](#18).             Appointment of members of committees                                            
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+[19](#19).             Remuneration and allowances of members of committees                   
 
-<dt>(i)</dt><dd>all of whom are residing in their own homes; and</dd>
+**Part VI—Miscellaneous**
 
-<dt>(ii)</dt><dd>all or the majority of whom are of pre-school age; and</dd>
+[20](#20).             Conditions relating to grants                                                                
 
-<dt>(iii)</dt><dd>all or the majority of whom attend the place on a regular basis; and
+[20A](#20A).          Agreements may be entered into with transferees of land etc             
 
-</dd>
+[20B](#20B).          Overpayments                                                                                     
 
-</dl></dl></dl></dl>
+[21](#21).             Delegations by the Minister [_see_ Note 2]                                            
 
-<dl compact=""><dl compact=""><dl compact="">
+[21A](#21A).          Delegations by the Secretary [_see_ Note 2]                                           
 
-<dt>(b)</dt><dd>in relation to which either of the following subparagraphs applies:
+[22](#22).             Approvals and determinations to be in writing                                   
 
-</dd>
+[22A](#22A).          Exercise of powers in Minister’s discretion                                        
 
-</dl></dl></dl>
+[23](#23).             Manner of payment of grants                                                              
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+[24](#24).             Money to be appropriated                                                                  
 
-<dt>(i)</dt><dd>the place provides, or proposes to provide, that child care:
+[25](#25).             Regulations                                                                                           
 
-</dd>
+#  
 
-</dl></dl></dl></dl>
+## An Act to provide for assistance by the Commonwealth in respect of places where children all or the majority of whom are under school age may be cared for, in respect of the development of such places and in respect of research in connection with the care of children, and for related purposes 
 
-	(A)	for not less than 8 hours on each normal working day; and
- 	(B) 	on all normal working days in not less than 48 weeks in the year;
+**Do not <span class="CharChapText">delete</span> : <span class="CharChapNo">Chapter</span> placeholder**
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+## Part I—Preliminary 
 
-<dt>(ii)</dt><dd>the place is a place that the Minister determines should be treated as a
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-child care centre for the purposes of this Act.
+##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-</dd>
+This Act may be cited as the _Child Care Act 1972_. 
 
-</dl></dl></dl></dl>
+##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
 
-<dl compact=""><dl compact="">
+This Act shall come into operation on the day on which it receives the Royal Assent. 
 
-<dt>(2)</dt><dd>For the purposes of Part IVA, a place is a child care centre whether or
+##### <a id="4"></a>4  Interpretation [_see_ Note 2]
 
-not all or the majority of the children for whom child care is provided at the
+             (1)  In this Act, unless the contrary intention appears:
 
-place attend the place on a regular basis.
+                    <a name="agenc"></a>**_Agency_** means the Commonwealth Services Delivery Agency established by the Agency Act.
 
-</dd> </dl></dl>
+                    <a name="agenc-act"></a>**_Agency Act_** means the _Commonwealth Services Delivery Agency Act 1997_.
 
-**
+                    <a name=""></a><a name="approved-child-care-servic"></a>**_approved child care servic_****_e_** means:
 
-###  CHILD CARE ACT 1972- SECT 4B  Eligible child care centres  
-**
+                     (a)  an eligible child care centre; or
 
- <dl compact=""><dl compact="">
+                     (b)  any other child care service, the operator of which receives from the Commonwealth a grant of a similar kind to grants made under section 12A.
 
-<dt>(1)</dt><dd>For the purposes of this Act, a child care centre is an eligible child
+                    <a name="australian-immunis-handbook"></a>**_Australian Immunisation Handbook_** means the latest edition of the Australian Immunisation Handbook published by the Australian Government Publishing Service.
 
-care centre if:
+                    <a name="bodi"></a>**_body_** includes an association and society.
 
-</dd> </dl></dl>
+                    <a name="build"></a>**_building_** includes a part of a building and an addition to a building and, in Part VI, includes any other improvement on land.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    <a name="ceo"></a>**_CEO_**, in relation to the Agency, means the Chief Executive Officer of the Agency.
 
-<dt>(a)</dt><dd>the centre is operated, or proposed to be operated, by:
+                    <a name="child-care"></a>**_child care_** means the care of children at a time or times when they are not being cared for in their own homes or in the homes of other persons.
 
-</dd>
+                    <a name="child-care-centr"></a>**_child care centre_** has the meaning given by section 4A.
 
-</dl></dl></dl>
+                    <a name="child-care-standard-committe"></a>**_Child Care Standards Committee_** means the committee established under section 14.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                    <a name="conscienti-object"></a>**_conscientious objection_**, in relation to the immunisation of a child, has the same meaning as in the _Child Care Payments Act 1997_.
 
-<dt>(i)</dt><dd>a body corporate, other than:
+                    <a name="elig-requir"></a>**_eligibility requirements_** means the requirements referred to in paragraph 4C(1A)(a).
 
-</dd>
+                    <a name="elig-child-care-centr"></a>**_eligible child care centre_** has the meaning given by section 4B.
 
-</dl></dl></dl></dl>
+                    <a name="fee-relief-beneficiari"></a>**_fee relief beneficiary_**, in relation to a child who is receiving child care at an approved child care service, means a person who, if a grant were made to the operator of the service to enable the operator to allow fee relief for the child, would benefit from the fee relief.
 
-	(A)	a body corporate that is carried on for the purpose of profit or gain; or 
- 	(B)	a Commonwealth, State or Territory authority; or
+                    <a name="home"></a>**_home_** does not include an orphanage or like institution.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                    <a name="immunised"></a>**_immunised_** has the same meaning as in the _Child Care Payments Act 1997_.
 
-<dt>(ii)</dt><dd>the Australian Capital Territory; or</dd>
+                    <a name="inform"></a>**_information_** includes estimates.
 
-<dt>(iii)</dt><dd>a local governing body established by or under State or Territory law;
+                    <a name="offic"></a>**_officer_** means a person performing duties, or exercising powers or functions, under or in relation to this Act and, in relation to a provision of Part IIIA, includes:
 
-or</dd>
+                     (a)  a person who has been such a person; and
 
-<dt>(iv)</dt><dd>the trustees of a trust established for charitable or benevolent
+                     (b)  a person who is or has been appointed or employed by the Commonwealth and who, as a result of that appointment or employment, may acquire or has acquired information about a person under this Act; and
 
-purposes; or</dd>
+                     (c)  a person who, although not appointed or employed by the Commonwealth, performs or performed services for the Commonwealth and who, as a result of performing those services, may acquire or has acquired information about a person under this Act.
 
-<dt>(v)</dt><dd>the trustees of a trust established by a person or body mentioned in
+                    <a name="oper"></a>**_operator_**, in relation to an eligible child care centre, means the person or body operating, or proposing to operate, the centre.
 
-subparagraph (i), (ii), (iii) or (iv); or</dd>
+                    <a name="partner"></a>**_partner_** has the same meaning as in the _Social Security Act 1991_.
 
-<dt>(vi)</dt><dd>an unincorporated body (other than an unincorporated body that is carried
+                    <a name="place"></a>**_place_** includes a proposed place.
 
-on for the purpose of profit or gain) approved by the Minister for the purposes
+                    <a name="protect-inform"></a>**_protected information_** means:
 
-of this subparagraph; and
+                     (a)  information about a person or a child care service that is or was held in the records of the Department, the Health Insurance Commission or the Agency; or
 
-</dd>
+                     (b)  information that there is no information about a person or a child care service held in such records.
 
-</dl></dl></dl></dl>
+                    <a name="quarter"></a>**_quarter_** means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October in any year.
 
-<center>Back to Top</center>
+                    <a name="recognis-immunis-provid"></a>**_recognised immunisation provider_** has the same meaning as in section 46A of the _Health Insurance Act 1973_.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    <a name="servic-arrang"></a>**_service arrangements_** has the same meaning as in the Agency Act.
 
-<dt>(b)</dt><dd>the Minister determines that the centre is an eligible child care centre
+                    <a name="social-secur-secretari"></a>**_Social Security Secretary_** means the Secretary to the Department of Social Security.
 
-for the purposes of this Act.
+             (2)  For the purposes of this Act, a thing is taken to be done or required for a permitted purpose if it is done or required:
 
-</dd>
+                     (a)  for the purposes of this Act; or
 
-</dl></dl></dl>
+                     (b)  for the purposes of the _Social Security Act 1991_; or
 
-**
+                     (c)  for the purposes of making a payment to the operator of an approved child care service by way of a grant of a similar kind to grants made under section 12A.
 
-###  CHILD CARE ACT 1972- SECT 4C  Guidelines for eligible child care centres  
-**
+##### <a id="4A"></a>4A  Child care centres
 
- <dl compact=""><dl compact="">
+             (1)   Subject to subsection (2), a child care centre is a place:
 
-<dt>(1)</dt><dd>The Minister may, by determination in writing, make guidelines with
+                     (a)  that provides, or proposes to provide, child care for children:
 
-respect to the exercise of the Minister's powers under section 4B.</dd> <dt>(2)</dt><dd>A guideline is a disallowable instrument for the purposes of section&#160;46A of the _Acts Interpretation Act 1901_. </dd> </dl></dl>
+                              (i)  all of whom are residing in their own homes; and
 
-<center>**
+                             (ii)  all or the majority of whom are of pre-school age; and
 
-###  CHILD CARE ACT 1972<part>Part II&#151;Capital grants </part>
-**</center>
+                            (iii)  all or the majority of whom attend the place on a regular basis; and
 
-<center>**
+                     (b)  in relation to which either of the following subparagraphs applies:
 
-###  CHILD CARE ACT 1972<division>Division 1&#151;Approved projects </division> 
-**</center>
+                              (i)  the place provides, or proposes to provide, that child care:
 
-**
+                                        (A)  for not less than 8 hours on each normal working day; and
 
-###  CHILD CARE ACT 1972- SECT 5  Interpretation of Division 1 
-**
+                                        (B)  on all normal working days in not less than 48 weeks in the year;
 
- <dl compact=""><dl compact="">
+                             (ii)  the place is a place that the Minister determines should be treated as a child care centre for the purposes of this Act.
 
-<dt>(1)</dt><dd>In this Division, unless the contrary intention appears:
+             (2)  For the purposes of Part IVA, a place is a child care centre whether or not all or the majority of the children for whom child care is provided at the place attend the place on a regular basis.
 
-</dd> </dl></dl>
+##### <a id="4B"></a>4B  Eligible child care centres [_see_ Note 2]
 
-<def><dl compact=""><dl compact="">
+             (1)  For the purposes of this Act (other than section 12A), a child care centre is an eligible child care centre if:
 
-_alteration_, in relation to a building or other improvement on
+                     (a)  the centre is operated, or proposed to be operated, by:
 
-land, includes an addition to the building or improvement. _approved project_ means the purchase or proposed purchase of land, or the construction or alteration or proposed construction or alteration of a building or other improvement on land, approved under section 6\. _capital cost_, in relation to an approved project, means:  </dl></dl>
+                              (i)  a body corporate, other than:
 
-<dl compact=""><dl compact=""><dl compact="">
+                                        (A)  a body corporate that is carried on for the purpose of profit or gain; or 
 
-<dt>(a)</dt><dd>where the approved project is the purchase or proposed purchase of land,
+                                        (B)  a Commonwealth, State or Territory authority; or
 
-the sum of:
+                             (ii)  the Australian Capital Territory; or
 
-</dd>
+                            (iii)  a local governing body established by or under State or Territory law; or
 
-</dl></dl></dl>
+                            (iv)  the trustees of a trust established for charitable or benevolent purposes; or
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                             (v)  the trustees of a trust established by a person or body mentioned in subparagraph (i), (ii), (iii) or (iv); or
 
-<dt>(i)</dt><dd>such amount in respect of the land, not including any buildings or other
+                            (vi)  an unincorporated body (other than an unincorporated body that is carried on for the purpose of profit or gain) approved by the Minister for the purposes of this subparagraph; and
 
-improvements on the land, as the Minister determines;</dd>
+                     (b)  the Minister determines that the centre is an eligible child care centre for the purposes of this Act.
 
-<dt>(ii)</dt><dd>such amount in respect of any buildings or other improvements on the land
+             (2)  For the purposes of section 12A, a child care centre is an eligible child care centre if the Minister determines that the centre is an eligible child care centre for the purposes of that section, and the determination is not suspended or has not been cancelled.
 
-(being buildings or improvements that the Minister is satisfied are used, or
+             (3)  A determination in relation to a child care centre made under subsection (2), whether before or after the commencement of this subsection, is subject to the following conditions:
 
-are to be used, for or in connexion with an eligible child care centre) as the
+                     (a)  the child care centre must continue to satisfy the eligibility requirements;
 
-Minister considers represents that part of the cost of purchasing the land that
+                     (b)  the child care centre must hold an allocation of child care places;
 
-is attributable to those buildings or improvements; and</dd>
+                     (c)  the child care centre must not exceed its child care place limit;
 
-<dt>(iii)</dt><dd>such amount as the Minister is satisfied is the cost of making any
+                     (d)  the provision of child care by the child care centre must comply with all applicable requirements imposed by a law of the Commonwealth, or of the State or Territory where the centre is situated, relating to child care;
 
-alterations to any building or other improvements on the land that the Minister
+                     (e)  such other conditions as the Secretary may impose by written notice to the operator of the child care centre;
 
-is satisfied are necessary for or in connexion with the provision of an
+                      (f)  such other conditions as the Minister may impose by determination published in the _Gazette_ on a class of child care centres that includes the child care centre.
 
-eligible child care centre; or
+             (4)  For the purposes of paragraph (3)(c), a child care centre is taken to exceed its child care place limit if, at any particular time, the number of children receiving child care at the centre is greater than the number of places in the centre’s allocation of child care places.
 
-</dd>
+##### <a id="4C"></a>4C  Guidelines for eligible child care centres [_see_ Note 2]
 
-</dl></dl></dl></dl>
+             (1)  The Minister may, by determination in writing, make guidelines:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (a)  with respect to the exercise of the Minister’s powers under section 4B; or
 
-<dt>(b)</dt><dd>where the approved project is the construction or alteration of a building
+                     (b)  with respect to the exercise of the Secretary’s powers under section 12F.
 
-or other improvement on land, such amount as the Minister is satisfied is the
+          (1A)  The guidelines may specify:
 
-cost of constructing or altering the building or other improvement.
+                     (a)  the requirements that a child care centre or its operator, or both, must satisfy before the child care centre can be determined to be an eligible child care centre, for the purposes of section 12A; and
 
-</dd>
+                     (b)  procedures relating to the allocation (including re-allocation) of child care places; and
 
-</dl></dl></dl>
+                     (c)  matters to be taken into account in working out the number of child care places to be allocated to eligible child care centres; and
 
-<dl compact=""><dl compact="">
+                     (d)  the maximum number of places that can be allocated to eligible child care centres in a specified class; and
 
-<dt>(2)</dt><dd>For the purposes of this Division, the cost of constructing, altering or
+                     (e)  any other matters to be taken into account in making such an allocation.
 
-adding to a building includes the cost of installing such fixtures (including
+             (2)  A guideline is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-the cost of the fixtures) as the Minister approves.
+##### <a id="4D"></a>4D  Allocation conditions stop applying after 31 December 1999
+  [_see_ Note 2] 
 
-</dd> </dl></dl>
+                   After 31 December 1999, paragraphs 4B(3)(b) and (c) and 4E(1)(c) do not apply.
 
-**
+##### <a id="4E"></a>4E  Consequences of breach of conditions [_see_ Note 2] 
 
-###  CHILD CARE ACT 1972- SECT 6  Approval of projects 
-**
+             (1)  The Secretary may impose one or more of the following sanctions on an eligible child care centre if satisfied that it has breached a condition mentioned in subsection 4B(3):
 
- <dl compact=""><dl compact="">
+                     (a)  vary the conditions imposed under paragraph 4B(3)(e);
 
-<dt>(1)</dt><dd>Subject to this section, where the Minister is satisfied that:
+                     (b)  impose additional conditions under that paragraph;
 
-</dd> </dl></dl>
+                     (c)  reduce the number of places in the centre’s allocation of child care places;
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  suspend the determination made under subsection 4B(2) in relation to the child care centre;
 
-<dt>(a)</dt><dd>the operator of an eligible child care centre:
+                     (e)  cancel that determination.
 
-</dd>
+             (2)  The Minister may determine, in writing, matters to be taken into account in imposing a sanction under this section.
 
-</dl></dl></dl>
+             (3)  A determination under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+##### <a id="4F"></a>4F  Procedure for imposing a sanction [_see_ Note 2] 
 
-<dt>(i)</dt><dd>has purchased, or proposes to purchase, any land, including land on which
+             (1)  Before imposing a sanction on an eligible child care centre under section 4E, the Secretary must give the operator of the centre a written notice:
 
-buildings or other improvements are constructed; or</dd>
+                     (a)  stating that the Secretary is considering imposing the sanction; and
 
-<dt>(ii)</dt><dd>has constructed or altered, or proposes to construct or alter, a building
+                     (b)  setting out the grounds on which the Secretary is considering imposing the sanction; and
 
-or any other improvement on any land; and
+                     (c)  summarising the evidence and other material on which those grounds are based; and
 
-</dd>
+                     (d)  summarising the effect of the notice (including the review provided for by section 4G) and of the sanction that the Secretary is considering imposing; and
 
-</dl></dl></dl></dl>
+                     (e)  inviting the operator to make written submissions to the Secretary within 28 days, stating why the sanction should not be imposed.
 
-<center>Back to Top</center>
+             (2)  In deciding whether to impose the sanction, the Secretary must have regard to any submissions made by the operator as mentioned in paragraph (1)(e).
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="4G"></a>4G  Review by the Administrative Appeals Tribunal [_see_ Note 2] 
 
-<dt>(b)</dt><dd>the land purchased or proposed to be purchased, or the building or
+                   An application may be made to the Administrative Appeals Tribunal for the review of:
 
-improvement constructed or altered or proposed to be constructed or altered, is
+                     (a)  a decision to impose a condition under paragraph 4B(3)(e); and
 
-used, or is to be used, permanently by the operator in relation to the centre;
+                     (b)  a decision to impose a sanction under section 4E.
 
-</dd>
+## Part II—Capital Grants  
 
-</dl></dl></dl>
+### Division 1—Approved Projects  
 
-the Minister may approve, for the purposes of this Division, the purchase or proposed purchase or the construction or alteration or the proposed construction or alteration, as the case may be. 
+##### <a id="5"></a>5  Interpretation of Division 1
 
-**
+             (1)   In this Division, unless the contrary intention appears:
 
-###  CHILD CARE ACT 1972- SECT 7  Grants for approved projects 
-**
+                    <a name="alter"></a>**_alteration_**, in relation to a building or other improvement on land, includes an addition to the building or improvement.
 
- <dl compact=""><dl compact="">
+                    <a name="approved-project"></a>**_approved project_** means the purchase or proposed purchase of land, or the construction or alteration or proposed construction or alteration of a building or other improvement on land, approved under section 6.
 
-<dt>(1)</dt><dd>The Minister may, on behalf of the Commonwealth, approve the making of a
+                    <a name="capit-cost"></a>**_capital cost_**, in relation to an approved project, means:
 
-grant to the operator of an eligible child care centre of an amount not
+                     (a)  where the approved project is the purchase or proposed purchase of land, the sum of:
 
-exceeding the capital cost of an approved project.
+                              (i)  such amount in respect of the land, not including any buildings or other improvements on the land, as the Minister determines;
 
-</dd> </dl></dl>
+                             (ii)  such amount in respect of any buildings or other improvements on the land (being buildings or improvements that the Minister is satisfied are used, or are to be used, for or in connexion with an eligible child   care centre) as the Minister considers represents that part of the cost of purchasing the land that is attributable to those buildings or improvements; and
 
-<center>**
+                            (iii)  such amount as the Minister is satisfied is the cost of making any alterations to any building or other improvements on the land that the Minister is satisfied are necessary for or in connexion with the provision of an eligible child care centre; or
 
-###  CHILD CARE ACT 1972<division>Division 2&#151;Approved equipment </division> 
-**</center>
+                     (b)  where the approved project is the construction or alteration of a building or other improvement on land, such amount as the Minister is satisfied is the cost of constructing or altering the building or other improvement.  
 
-**
+             (2)  For the purposes of this Division, the cost of constructing, altering or adding to a building includes the cost of installing such fixtures (including the cost of the fixtures) as the Minister approves.    
 
-###  CHILD CARE ACT 1972- SECT 8  Interpretation of Division 2 
-**
+##### <a id="6"></a>6  Approval of projects
 
- <dl compact=""><dl compact="">
+             (1)  Subject to this section, where the Minister is satisfied that:
 
-		In this Division, unless the contrary intention appears:
+                     (a)   the operator of an eligible child care centre:
 
- </dl></dl>
+                              (i)  has purchased, or proposes to purchase, any land, including land on which buildings or other improvements are constructed; or
 
-<def><dl compact=""><dl compact="">
+                             (ii)  has constructed or altered, or proposes to construct or alter, a building or any other improvement on any land; and
 
-_acquisition_ includes acquisition by way of exchange or purchase
+                     (b)  the land purchased or proposed to be purchased, or the building or improvement constructed or altered or proposed to be constructed or altered, is used, or is to be used, permanently by the operator in relation to the centre;
 
-or by way of taking on lease, on hire, on hire-purchase or on lease and
+the Minister may approve, for the purposes of this Division, the purchase or proposed purchase or the construction or alteration or the proposed construction or alteration, as the case may be.  
 
-purchase. _approved equipment_ means equipment approved under section 9 or equipment included in a class of equipment approved under that section. _cost_, in relation to the acquisition by the operator of an eligible child care centre of approved equipment, means the sum of the amounts that the Minister is satisfied is the cost of acquiring the equipment and such amount (if any) in respect of altering, adding to or installing the equipment as the Minister determines.  </dl></dl>
+##### <a id="7"></a>7  Grants for approved projects
 
-**
+             (1)  The Minister may, on behalf of the Commonwealth, approve the making of a grant to the operator of an eligible child care centre of an amount not exceeding the capital cost of an approved project.    
 
-###  CHILD CARE ACT 1972- SECT 9  Approval of equipment 
-**
+### Division 2—Approved Equipment  
 
- <dl compact=""><dl compact="">
+##### <a id="8"></a>8  Interpretation of Division 2
 
-		The Minister may approve equipment or classes of equipment for the purposes
+In this Division, unless the contrary intention appears:
 
-of this Division.
+                    <a name="acquisit"></a>**_acquisition_** includes acquisition by way of exchange or purchase or by way of taking on lease, on hire, on hire-purchase or on lease and purchase.
 
- </dl></dl>
+                    <a name="approved-equip"></a>**_approved equipment_** means equipment approved under section 9 or equipment included in a class of equipment approved under that section.
 
-**
+                    <a name="cost"></a>**_cost_**, in relation to the acquisition by the operator of an eligible child care centre of approved equipment, means the sum of the amounts that the Minister is satisfied is the cost of acquiring the equipment and such amount (if any) in respect of altering, adding to or installing the equipment as the Minister determines.  
 
-###  CHILD CARE ACT 1972- SECT 10  Grants for approved equipment 
-**
+##### <a id="9"></a>9  Approval of equipment
 
- <dl compact=""><dl compact="">
+The Minister may approve equipment or classes of equipment for the purposes of this Division.  
 
-		The Minister may, on behalf of the Commonwealth, approve the making of a
+##### <a id="10"></a>10  Grants for approved equipment
 
-grant to the operator of an eligible child care centre of an amount not
+The Minister may, on behalf of the Commonwealth, approve the making of a grant to the operator of an eligible child care centre of an amount not exceeding the cost of the acquisition by the operator of approved equipment.  
 
-exceeding the cost of the acquisition by the operator of approved equipment.
+## Part III—Recurrent Grants 
 
- </dl></dl>
+### Division 1—Grants for new eligible child care centres and grants for fee relief <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span><span style="font-size:9.0pt;font-weight:normal"> </span>
 
-<center>**
+##### <a id="12"></a>12  Grants in relation to establishment of new eligible child care centres
 
-###  CHILD CARE ACT 1972<part>Part III&#151;Recurrent grants </part>
-**</center>
+             (1)  Where, at any time during the 6 weeks immediately before an eligible child care centre first begins to provide child care, a person is employed by the operator of the centre to establish it, the Minister may, on behalf of the Commonwealth, approve the making of a grant to the operator of an amount not exceeding the amount of the salary or wages paid to the person in respect of that period by the operator.  
 
-<center>**
+             (2)  The Minister may authorize the payment to the operator of an eligible child care centre of an advance or advances in respect of a grant that may become payable to the operator under subsection (1). 
 
-###  CHILD CARE ACT 1972<division>Division 1&#151;Grants for new eligible child care centres </division> 
-**</center>
+             (3)  In this section **_salary or wages_** in relation to a person referred to in subsection (1), means salary or wages at the rate fixed by an award, order, determination or agreement made, or having effect under, a law of the Commonwealth, of a State or of a Territory, or if no such rate is applicable, the rate of salary or wages determined by the Minister. 
 
-**
+##### <a id="12A"></a>12A  Grants for fee relief [_see_ Note 2]
 
-###  CHILD CARE ACT 1972- SECT 12  Grants in relation to establishment of new eligible child care centres 
-**
+             (1)  The Minister may, at any time, by writing signed by the Minister:
 
-<dl compact=""><dl compact="">
+                     (a)  specify guidelines to be observed:
 
-<dt>(1)</dt><dd>Where, at any time during the 6 weeks immediately before an eligible child
+                              (i)  in identifying children receiving child care at an eligible child care centre as children in economic need; and
 
-care centre first begins to provide child care, a person is employed by the
+                            (ia)  in verifying, for the purpose of assessing the amount of fee relief payable to the operator of an eligible child care centre, the work related circumstances of the families of children in economic need; and
 
-operator of the centre to establish it, the Minister may, on behalf of the
+                            (ib)  in identifying, for the purposes of assessing the amount of fee relief payable to the operator of an eligible child care centre, children receiving child care at an eligible child care centre as children to whom special circumstances apply; and
 
-Commonwealth, approve the making of a grant to the operator of an amount not
+                            (ic)  in identifying, for the purposes of assessing the amount of fee relief payable to the operator of an eligible child care centre, whether or not special circumstances apply to the child care centre; and
 
-exceeding the amount of the salary or wages paid to the person in respect of
+                             (ii)  in calculating the maximum amount payable under this section in relation to a particular period of time to the operator of an eligible child care centre;
 
-that period by the operator.</dd> <dt>(2)</dt><dd>The Minister may authorize the payment to the operator of an eligible child care centre of an advance or advances in respect of a grant that may become payable to the operator under subsection (1). </dd> <dt>(3)</dt><dd>In this section _salary or wages_ in relation to a person referred to in subsection (1), means salary or wages at the rate fixed by an award, order, determination or agreement made, or having effect under, a law of the Commonwealth, of a State or of a Territory, or if no such rate is applicable, the rate of salary or wages determined by the Minister. </dd> </dl></dl>
+                     (b)  vary guidelines specified by the Minister under this subsection (including guidelines varied by virtue of a previous application or previous applications of this paragraph); and
 
-<center>Back to Top</center>
+                     (c)  revoke guidelines specified by the Minister under this subsection (including guidelines varied by virtue of a previous application or previous applications of paragraph (b)). 
 
-<center>**
+          (1A)  The reference in subparagraph (1)(a)(ia) to verifying the work related circumstances of a family is a reference to deciding whether each parental member of the family is a person to whom any of the following applies:
 
-###  CHILD CARE ACT 1972<part>Part IIIA&#151;Confidentiality </part>
-**</center>
+                     (a)  the person has recognised work or work related commitments within the meaning of section 29 of the _Childcare Rebate Act 1993_;
 
-**
+                     (b)  the person has recognised training commitments within the meaning of section 30 of that Act;
 
-###  CHILD CARE ACT 1972- SECT 12J  Authorised access to and use of protected information 
-**
+                     (c)  the person has recognised study circumstances within the meaning of section 31 of that Act;
 
- <dl compact=""><dl compact="">
+                     (d)  the person is covered by a determination under subsection 28(2) of that Act.
 
-<dt>(1)</dt><dd>A person may obtain protected information if the information is obtained
+             (2)  Where the operator of an eligible child care centre provides child care for a child who is identified as a child in economic need, the Minister may, on behalf of the Commonwealth, approve the making of a grant to the operator to enable the operator to allow fee relief for the child in relation to a particular period.
 
-for a permitted purpose.
+             (3)  A guideline is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. 
 
-</dd> </dl></dl>
+             (4)  In this section:
 
-<dl compact=""><dl compact="">
+                    <a name="famili"></a>**_family_**, in relation to verification of a kind referred to in subparagraph (1)(a)(ia), has the same meaning as it would have in section 5 of the _Childcare Rebate Act 1993_ if the references in that section to the Managing Director of the Health Insurance Commission were references to the person responsible for the verification.
 
-Note:	In certain circumstances it is an offence for a person to
+                    <a name="parent-member"></a>**_parental member_**, in relation to a family, has the same meaning as in section 4 of the _Childcare Rebate Act 1993_.
 
-obtain protected information without authority (see section 12K).
+### Division 2—Provision of tax file numbers <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span>
 
- </dl></dl>
+##### <a id="12B"></a>12B  Provision of a persons’s tax file number [_see_ Note 2]
 
-<dl compact=""><dl compact="">
+             (1)  The operator of an approved child care service may not allow fee relief for a child, to a person who is a fee relief beneficiary in relation to the child, from a grant if:
 
-<dt>(2)</dt><dd>A person may:
+                     (a)  the person is requested under section 12D to:
 
-</dd> </dl></dl>
+                              (i)  give the Social Security Secretary a written statement of the  person’s tax file number; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                             (ii)  apply for a tax file number and give the Social Security Secretary a written statement of the person’s tax file number once it has been issued; and
 
-<dt>(a)</dt><dd>make a record of protected information; or</dd>
+                     (b)  the person has neither:
 
-<dt>(b)</dt><dd>disclose protected information to any person; or</dd>
+                              (i)  given the Social Security Secretary a written statement of the person’s tax file number; nor
 
-<dt>(c)</dt><dd>otherwise use protected information;
+                             (ii)  given the Social Security Secretary a declaration by the person in a form approved by the Social Security Secretary and satisfied either subsection (3) or (4).
 
-</dd>
+             (2)  If a person who is a fee relief beneficiary in relation to a child is requested under section 12D to:
 
-</dl></dl></dl>
+                     (a)  give the Social Security Secretary a written statement of the  person’s tax file number; or
+
+                     (b)  apply for a tax file number and give the Social Security Secretary a written statement of the person’s tax file number once it has been issued;
+
+the person is not to be given an assessment of entitlement to fee relief for the child if the person has neither:
+
+                     (c)  given the Social Security Secretary a written statement of the person’s tax file number; nor
+
+                     (d)  given the Social Security Secretary a declaration by the person in a form approved by the Social Security Secretary and satisfied either subsection (3) or (4).
+
+             (3)  A person satisfies this subsection if:
+
+                     (a)  the person’s declaration states that the person:
+
+                              (i)  has a tax file number but does not know what it is; and
+
+                             (ii)  has asked the Commissioner of Taxation to inform the person of the person’s tax file number; and
+
+                     (b)  the person has given the Social Security Secretary a document by the person that authorises the Commissioner of Taxation to tell the Social Security Secretary:
+
+                              (i)  whether the person has a tax file number; and
+
+                             (ii)  if the person has a tax file number—the tax file number; and
+
+                     (c)  the Commissioner of Taxation had not told the Social Security Secretary that the person has no tax file number.
+
+             (4)  A person satisfies this subsection if:
+
+                     (a)  the person’s declaration states that the person has applied for a tax file number; and
+
+                     (b)  the person has given the Social Security Secretary a document by the person that authorises the Commissioner of Taxation to tell the Social Security Secretary:
+
+                              (i)  if the tax file number is issued to the person—the tax file  number; or
+
+                             (ii)  if the application is refused—that the application has been  refused; or
+
+                            (iii)  if the application is withdrawn—that the application has  been withdrawn; and
+
+                     (c)  the Commissioner of Taxation has not told the Social Security Secretary that the person has not applied for a tax file number; and
+
+                     (d)  the Commissioner of Taxation has not told the Social Security Secretary that an application by the person for a tax file number has been refused; and
+
+                     (e)  the application for a tax file number has not been withdrawn.
+
+##### <a id="12C"></a>12C  Provision of partner’s tax file number [_see_ Note 2]
+
+             (1)  Subject to subsection (5), the operator of an approved child care service may not allow fee relief for a child, to a person who is a fee relief beneficiary in relation to the child, from a grant if:
+
+                     (a)  the person is a member of a couple; and
+
+                     (b)  the person is requested under section 12E to give the Social Security Secretary a written statement of the tax file number of the person’s partner; and
+
+                     (c)  the person has neither:
+
+                              (i)  given the Social Security Secretary a written statement of the partner’s tax file number; nor
+
+                             (ii)  given the Social Security Secretary a declaration by the partner in a form approved by the Social Security Secretary and satisfied either subsection (3) or (4).
+
+             (2)  If a person who is a fee relief beneficiary in relation to a child is requested under section 12D to give the Social Security Secretary a written  statement of the tax file number of the person’s partner, the person is not  to be given an assessment of entitlement to fee relief for the child if the  person has neither:
+
+                     (a)  given the Social Security Secretary a written statement of the partner’s tax file number; nor
+
+                     (b)  given the Social Security Secretary a declaration by the partner in a form approved by the Social Security Secretary and satisfied either subsection (3) or (4).
+
+             (3)  A person satisfies this subsection if:
+
+                     (a)  the partner’s declaration states that the partner:
+
+                              (i)  has a tax file number but does not know what it is; and
+
+                             (ii)  has asked the Commissioner of Taxation to inform the partner of the partner’s tax file number; and
+
+                     (b)  the person has given the Social Security Secretary a document by the partner that authorises the Commissioner of Taxation to tell the Social Security Secretary:
+
+                              (i)  whether the partner has a tax file number; and
+
+                             (ii)  if the partner has a tax file number—the tax file number;  and
+
+                     (c)  the Commissioner of Taxation has not told the Social Security Secretary that the partner has no tax file number.
+
+             (4)  A person satisfies this subsection if:
+
+                     (a)  the partner’s declaration states that an application by the partner for a tax file number is pending; and
+
+                     (b)  the person has given the Social Security Secretary a document by the partner that authorises the Commissioner of Taxation to tell the Social Security Secretary:
+
+                              (i)  if the tax file number is issued to the partner—the tax file number; or
+
+                             (ii)  if the application is refused—that the application has been refused; or
+
+                            (iii)  if the application is withdrawn—that the application has been withdrawn; and
+
+                     (c)  the Commissioner of Taxation has not told the Social Security  Secretary that an application by the partner for a tax file number has been refused; and
+
+                     (d)  the application for a tax file number has not been withdrawn.
+
+             (5)  The Social Security Secretary may waive the request for a statement of the partner’s tax file number if the Social Security Secretary is satisfied that:
+
+                     (a)  the person does not know the partner’s tax file number; and
+
+                     (b)  the person can obtain none of the following from the partner:
+
+                              (i)  the partner’s tax file number;
+
+                             (ii)  a statement of the partner’s tax file number;
+
+                            (iii)  a declaration by the partner under subparagraph (1)(c)(ii).
+
+##### <a id="12D"></a>12D  Social Security Secretary may request person who would benefit from fee relief to give statement of person’s tax file number [_see_ Note 2]
+
+             (1)  If a person who is a fee relief beneficiary is in Australia, the Social Security Secretary may request but not compel the person:
+
+                     (a)  if the person has a tax file number—to give the Social Security Secretary a written statement of the person’s tax file number; or
+
+                     (b)  if the person does not have a tax file number:
+
+                              (i)  to apply to the Commissioner of Taxation for a tax file number; and
+
+                             (ii)  to give the Social Security Secretary a written statement of the person’s tax file number after the Commissioner of Taxation has issued it.
+
+             (2)  A grant is not to be made to the operator of an approved child care service to enable the operator to allow fee relief for a child if:
+
+                     (a)  a person who is a fee relief beneficiary in relation to the child has failed to satisfy a request made under subsection (1); and
+
+                     (b)  the Social Security Secretary has not exempted the person from having to satisfy the request.
+
+             (3)  A person who is a fee relief beneficiary in relation to a child is not to be given an assessment of entitlement to fee relief for the child if:
+
+                     (a)  the person has failed to satisfy a request made under subsection (1); and
+
+                     (b)  the Social Security Secretary has not exempted the person from having to satisfy the request.
+
+Note:          In some cases the request can be satisfied by giving the Social Security Secretary a declaration by the person about the person’s tax file number and an authority by the person to the Commissioner of Taxation to give the Social Security Secretary certain information about the person’s tax file number (see subsections 12B(3) and (4)).
+
+##### <a id="12E"></a>12E  Social Security Secretary may request person who would benefit from fee relief to give statement of partner’s tax file number [_see_ Note 2]
+
+             (1)  If:
+
+                     (a)  a person who is a fee relief beneficiary is a member of a couple; and
+
+                     (b)  the person’s partner is in Australia;
+
+the Social Security Secretary may request but not compel the person to give the Social Security Secretary a written statement of the tax file number of the person’s partner.
+
+             (2)  A grant is not to be made to the operator of an approved child care service to enable the operator to allow fee relief for a child if:
+
+                     (a)  a person who is a fee relief beneficiary in relation to the child has failed to satisfy a request made under subsection (1); and
+
+                     (b)  the Social Security Secretary has not exempted the person from having to satisfy the request.
+
+             (3)  A person who is a fee relief beneficiary in relation to a child is not to be given an assessment of entitlement to fee relief for the child if:
+
+                     (a)  the person has failed to satisfy a request made under subsection (1); and
+
+                     (b)  the Social Security Secretary has not exempted the person from having to satisfy the request.
+
+Note 1:       In some cases the request can be satisfied by giving the Social Security Secretary a declaration by the partner about the partner’s tax file  number and an authority by the partner to the Commissioner of Taxation to give  the Social Security Secretary certain information about the partner’s tax file  number (see subsections 12C(3) and (4)).
+
+Note 2:       The Social Security Secretary may waive the request in some cases (see subsection 12C(5)).
+
+### Division 3—Allocation of child care places <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span> 
+
+##### <a id="12F"></a>12F  Secretary to allocate child care places [_see_ Note 2] 
+
+             (1)  The Secretary is to allocate child care places to child care centres determined, whether before or after the commencement of this Division, to be eligible child care centres under subsection 4B(2).
+
+             (2)  An allocation must be made in accordance with the guidelines made under section 4C.
+
+             (3)  After 31 December 1999, this section does not apply.
+
+### Division 4—The immunisation requirement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 2]</span> 
+
+##### <a id="12G"></a>12G  The immunisation requirement [_see_ Note 2] 
+
+             (1)  An amount is not payable to the operator of an eligible child care centre by way of a grant approved under section 12A in respect of a child under 7, from a date determined by the Secretary under subsection (2) in relation to the child, unless the Secretary is satisfied that:
+
+                     (a)  the child is immunised; or
+
+                     (b)  both of the following have occurred:
+
+                              (i)  a recognised immunisation provider has certified in writing that he or she has discussed with a person who is a fee relief beneficiary in relation to the child the benefits and risks of immunising the child;
+
+                             (ii)  the person has declared in writing that he or she has a conscientious objection to the child being immunised; or
+
+                     (c)  if the child is a dependent child of another person, both of the following have occurred:
+
+                              (i)  a recognised immunisation provider has certified in writing that he or she has discussed with the other person the benefits and risks of immunising the child; and
+
+                             (ii)  the other person has declared in writing that he or she has a conscientious objection to the child being immunised; or
+
+                     (d)  a recognised immunisation provider has certified in writing that the immunisation of the child would be medically contraindicated under the specifications set out in the Australian Immunisation Handbook; or
+
+                     (e)  a recognised immunisation provider has verified in writing that the vaccine for immunising the child is not, or will not be, available immediately before or during the period in respect of which the amount of grant would otherwise be payable to the operator; or
+
+                      (f)  a registered medical practitioner has certified in writing that the child has recovered from the relevant disease, has developed a natural immunity and does not require immunisation; or
+
+                     (g)  the child is in a class of children exempted from the requirement to be immunised by a direction under subsection 12H(1).
+
+             (2)  If the Secretary is not satisfied as mentioned in a paragraph of subsection (1), the Secretary must:
+
+                     (a)  determine, in accordance with the Minister’s directions, the date from which amounts of grant approved under section 12A cease to be payable for fee relief in respect of the child; and
+
+                     (b)  give notice, in accordance with the directions, that an amount of grant approved under section 12A is not payable for fee relief in respect of the child on or after that date.
+
+##### <a id="12H"></a>12H  Minister’s directions [_see_ Note 2] 
+
+             (1)  The Minister may, in writing, direct that children included in a class of children specified in the direction are exempted from the requirement to be immunised.
+
+             (2)  The Minister may, in writing, give directions about:
+
+                     (a)  the persons to whom notice under subsection 12G(2) is to be given, the matters to be included in such a notice and the procedure for giving such a notice; and
+
+                     (b)  the way in which the date referred to in paragraph 12G(2)(a) is to be determined.
+
+             (3)  A direction under this section is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
+
+## Part IIIA—Confidentiality <span style="font-size:9.0pt;font-weight:normal">[_see_ Note 2]</span> 
+
+##### <a id="12J"></a>12J  Authorised access to and use of protected information [_see_ Note 2] 
+
+             (1)  A person may obtain protected information if the information is obtained for a permitted purpose.
+
+Note:          In certain circumstances it is an offence for a person to obtain protected information without authority (see section 12K).
+
+             (2)  A person may:
+
+                     (a)  make a record of protected information; or
+
+                     (b)  disclose protected information to any person; or
+
+                     (c)  otherwise use protected information;
 
 if the record, disclosure or use made of the information by the person is made:
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (d)  for a permitted purpose; or
 
-<dt>(d)</dt><dd>for a permitted purpose; or</dd>
+                     (e)  for the purpose for which the information was disclosed to the person under section 12M or 12N.
 
-<dt>(e)</dt><dd>for the purpose for which the information was disclosed to the person
+Note:          In certain circumstances it is an offence for a person to use protected information without authority (see section 12L).
 
-under section 12M or 12N.
+##### <a id="12K"></a>12K  Offence—unauthorised access to protected information 
+ [_see_ Note 2] 
 
-</dd>
+                   A person is guilty of an offence if:
 
-</dl></dl></dl>
+                     (a)  the person obtains information; and
 
-<dl compact=""><dl compact="">
+                     (b)  the information is protected information; and
 
-Note:	In certain circumstances it is an offence for a person to
+                     (c)  the person:
 
-use protected information without authority (see section 12L).
+                              (i)  is not authorised or required by or under this Act or the _Social Security Act 1991_; and
 
- </dl></dl>
+                             (ii)  has no other lawful authority;
 
-**
+                            to obtain the information; and
 
-###  CHILD CARE ACT 1972- SECT 12K  Offence&#151;unauthorised access to protected information    
-**
+                     (d)  the person knows, or is reckless as to whether, the information is protected information.
 
-<dl compact=""><dl compact="">
+                    Penalty:  Imprisonment for 2 years.
 
-		A person is guilty of an offence if:
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
- </dl></dl>
+##### <a id="12L"></a>12L  Offence—unauthorised use of protected information [_see_ Note 2] 
 
-<dl compact=""><dl compact=""><dl compact="">
+                   A person is guilty of an offence if:
 
-<dt>(a)</dt><dd>the person obtains information; and</dd>
+                     (a)  the person:
 
-<dt>(b)</dt><dd>the information is protected information; and</dd>
+                              (i)  makes a record of; or
 
-<dt>(c)</dt><dd>the person:
+                             (ii)  discloses to any other person; or
 
-</dd>
+                            (iii)  otherwise makes use of;
 
-</dl></dl></dl>
+                            information; and
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+                     (b)  the information is protected information; and
 
-<dt>(i)</dt><dd>is not authorised or required by or under this Act or a family assistance
+                     (c)  the person:
 
-law; and</dd>
+                              (i)  is not authorised or required by or under this Act or the _Social Security Act 1991_; and
 
-<dt>(ii)</dt><dd>has no other lawful authority;
+                             (ii)  has no other lawful authority;
 
-</dd>
+                            to make the record, disclosure or use of the information that is made by the person; and
 
-</dl></dl></dl></dl>
+                     (d)  the person knows, or is reckless as to whether, the information is protected information.
 
-<dl compact=""><dl compact=""><dl compact="">
+                    Penalty:  Imprisonment for 2 years.
 
-		to obtain the information; and
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-<dt>(d)</dt><dd>the person knows, or is reckless as to whether, the information is
+##### <a id="12M"></a>12M  Protection extends to court, tribunal etc. proceedings [_see_ Note 2] 
 
-protected information.
+                   An officer must not, except for a permitted purpose, be required:
 
-</dd>
+                     (a)  to produce any document in his or her possession; or
 
-</dl></dl></dl>
+                     (b)  to disclose any matter or thing of which he or she had notice;
 
-Penalty:	Imprisonment for 2 years.
+by reason of the performance or exercise of his or her duties, functions or powers under this Act or the _Social Security Act 1991_ to:
 
-<dl compact=""><dl compact="">
+                     (c)  a court; or
 
-Note:	Chapter 2 of the _Criminal Code_ sets out the general
+                     (d)  a tribunal; or
 
-principles of criminal responsibility.
+                     (e)  an authority; or
 
- </dl></dl>
+                      (f)  a person;
 
-**
+having power to require the production of documents or the answering of questions.
 
-###  CHILD CARE ACT 1972- SECT 12L  Offence&#151;unauthorised use of protected information 
-**
+##### <a id="12N"></a>12N  Secretary’s certificate [_see_ Note 2] 
 
- <dl compact=""><dl compact="">
+             (1)  Despite sections 12L and 12M, the Secretary may:
 
-		A person is guilty of an offence if:
+                     (a)  if the Secretary certifies that it is necessary in the public interest to do so in a particular case or class of cases—disclose information acquired by an officer in the performance of his or her functions or duties or in the exercise of his or her powers under this Act or the _Social Security Act 1991_ to such persons and for such purposes as the Secretary determines; or
 
- </dl></dl>
+                     (b)  disclose any such information to the Secretary of a Department of State of the Commonwealth or to the head of an authority of the Commonwealth for the purposes of that Department or authority; or
 
-<dl compact=""><dl compact=""><dl compact="">
+                     (c)  disclose any such information to a person who is expressly or impliedly authorised by the person to whom the information relates to obtain it.
 
-<dt>(a)</dt><dd>the person:
+Note:          A person to whom information is disclosed may commit an offence if the person uses the information without authority (see section 12L).
 
-</dd>
+             (2)  In giving certificates for the purposes of paragraph (1)(a), the Secretary must act in accordance with guidelines in force under subsection 12P(1).
 
-</dl></dl></dl>
+             (3)  In disclosing information under paragraph (1)(b), the Secretary must act in accordance with guidelines in force under subsection 12P(1).
 
-<center>Back to Top</center>
+##### <a id="12P"></a>12P  Guidelines for exercise of Secretary’s disclosure power [_see_ Note 2] 
 
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
+             (1)  The Minister, by determination in writing:
 
-<dt>(i)</dt><dd>makes a record of; or</dd>
+                     (a)  may make guidelines for the exercise of the Secretary’s power to give certificates for the purposes of paragraph 12N(1)(a); and
 
-<dt>(ii)</dt><dd>discloses to any other person; or</dd>
+                     (b)  may make guidelines for the exercise of the Secretary’s power under paragraph 12N(1)(b).
 
-<dt>(iii)</dt><dd>otherwise makes use of;
+             (2)  The guidelines must not be inconsistent with the provisions of the _Privacy Act 1988_.
 
-</dd>
+             (3)  Before making a determination under subsection (1), the Minister must consult the Privacy Commissioner.
 
-</dl></dl></dl></dl>
+             (4)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-<dl compact=""><dl compact=""><dl compact="">
+##### <a id="12Q"></a>12Q  Offence—soliciting disclosure of protected information 
+ [_see_ Note 2] 
 
-		information; and
+                   A person is guilty of an offence if:
 
-<dt>(b)</dt><dd>the information is protected information; and</dd>
+                     (a)  the person solicits the disclosure of information from an officer or another person; and
 
-<dt>(c)</dt><dd>the person:
+                     (b)  the disclosure would be in contravention of this Part; and
 
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>is not authorised or required by or under this Act or a family assistance
-
-law; and</dd>
-
-<dt>(ii)</dt><dd>has no other lawful authority;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		to make the record, disclosure or use of the information that is made by the
-
-person; and
-
-<dt>(d)</dt><dd>the person knows, or is reckless as to whether, the information is
-
-protected information.
-
-</dd>
-
-</dl></dl></dl>
-
-Penalty:	Imprisonment for 2 years.
-
-<dl compact=""><dl compact="">
-
-Note:	Chapter 2 of the _Criminal Code_ sets out the general
-
-principles of criminal responsibility.
-
- </dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 12M  Protection extends to court, tribunal etc. proceedings 
-**
-
- <dl compact=""><dl compact="">
-
-		An officer must not, except for a permitted purpose, be required:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to produce any document in his or her possession; or</dd>
-
-<dt>(b)</dt><dd>to disclose any matter or thing of which he or she had notice;
-
-</dd>
-
-</dl></dl></dl>
-
-by reason of the performance or exercise of his or her duties, functions or powers under this Act or a family assistance law to:
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(c)</dt><dd>a court; or</dd>
-
-<dt>(d)</dt><dd>a tribunal; or</dd>
-
-<dt>(e)</dt><dd>an authority; or</dd>
-
-<dt>(f)</dt><dd>a person;
-
-</dd>
-
-</dl></dl></dl>
-
-having power to require the production of documents or the answering of questions. 
-
-**
-
-###  CHILD CARE ACT 1972- SECT 12N  Secretary's certificate 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>Despite sections 12L and 12M, the Secretary may:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>if the Secretary certifies that it is necessary in the public interest to
-
-do so in a particular case or class of cases&#151;disclose information acquired by
-
-an officer in the performance of his or her functions or duties or in the
-
-exercise of his or her powers under this Act or a family assistance law to such
-
-persons and for such purposes as the Secretary determines; or</dd>
-
-<dt>(b)</dt><dd>disclose any such information to the Secretary of a Department of State of
-
-the Commonwealth or to the head of an authority of the Commonwealth for the
-
-purposes of that Department or authority; or</dd>
-
-<dt>(c)</dt><dd>disclose any such information to a person who is expressly or impliedly
-
-authorised by the person to whom the information relates to obtain it.
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-Note:	A person to whom information is disclosed may commit an
-
-offence if the person uses the information without authority (see section 12L).
-
- </dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>In giving certificates for the purposes of paragraph (1)(a), the Secretary
-
-must act in accordance with guidelines in force under subsection 12P(1).</dd> <dt>(3)</dt><dd>In disclosing information under paragraph (1)(b), the Secretary must act in accordance with guidelines in force under subsection 12P(1). </dd> </dl></dl>
-
-<center>Back to Top</center>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 12P  Guidelines for exercise of Secretary's disclosure power 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>The Minister, by determination in writing:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>may make guidelines for the exercise of the Secretary's power to give
-
-certificates for the purposes of paragraph 12N(1)(a); and</dd>
-
-<dt>(b)</dt><dd>may make guidelines for the exercise of the Secretary's power under
-
-paragraph 12N(1)(b).
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>The guidelines must not be inconsistent with the provisions of the
-
-_Privacy Act 1988_.</dd> <dt>(3)</dt><dd>Before making a determination under subsection (1), the Minister must consult the Privacy Commissioner.</dd> <dt>(4)</dt><dd>A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_. </dd> </dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 12Q  Offence&#151;soliciting disclosure of protected information 
-**
-
- <dl compact=""><dl compact="">
-
-		A person is guilty of an offence if:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the person solicits the disclosure of information from an officer or
-
-another person; and</dd>
-
-<dt>(b)</dt><dd>the disclosure would be in contravention of this Part; and</dd>
-
-<dt>(c)</dt><dd>the first-mentioned person knows, or is reckless as to whether, the
-
-information is protected information.
-
-</dd>
-
-</dl></dl></dl>
+                     (c)  the first-mentioned person knows, or is reckless as to whether, the information is protected information.
 
 The offence is committed whether or not any protected information is actually disclosed.
 
-Penalty:	Imprisonment for 2 years.
+                    Penalty:  Imprisonment for 2 years.
 
-<dl compact=""><dl compact="">
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-Note:	Chapter 2 of the _Criminal Code_ sets out the general
+##### <a id="12R"></a>12R  Offence—untrue representations [_see_ Note 2] 
 
-principles of criminal responsibility.
+                   A person commits an offence if:
 
- </dl></dl>
+                     (a)  the person solicits the disclosure of protected information from an officer; and
 
-**
-
-###  CHILD CARE ACT 1972- SECT 12R  Offence&#151;untrue representations 
-**
-
- <dl compact=""><dl compact="">
-
-		A person commits an offence if:
-
- </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the person solicits the disclosure of protected information from an
-
-officer; and</dd>
-
-<dt>(b)</dt><dd>for that purpose makes representations which the person knows are untrue.
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  for that purpose makes representations which the person knows are untrue.
 
 The offence is committed whether or not any protected information is actually disclosed.
 
-Penalty:	Imprisonment for 2 years.
+                    Penalty:  Imprisonment for 2 years.
 
-<dl compact=""><dl compact="">
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-Note:	Chapter 2 of the _Criminal Code_ sets out the general
+##### <a id="12S"></a>12S  Offences—offering to supply protected information [_see_ Note 2] 
 
-principles of criminal responsibility.
+             (1)  A person is guilty of an offence if the person:
 
- </dl></dl>
+                     (a)  offers to supply (whether to a particular person or otherwise) information about another person; and
 
-**
-
-###  CHILD CARE ACT 1972- SECT 12S  Offences&#151;offering to supply protected information 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>A person is guilty of an offence if the person:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>offers to supply (whether to a particular person or otherwise) information
-
-about another person; and</dd>
-
-<dt>(b)</dt><dd>knows that the information is protected information.
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  knows that the information is protected information.
 
 The offence is committed whether or not any protected information is actually supplied.
 
-Penalty:	Imprisonment for 2 years.
+                    Penalty:  Imprisonment for 2 years.
 
-<dl compact=""><dl compact="">
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-Note:	Chapter 2 of the _Criminal Code_ sets out the general
+             (2)  A person is guilty of an offence if the person:
 
-principles of criminal responsibility.
+                     (a)  holds himself or herself out as being able to supply (whether to a particular person or otherwise) information about another person; and
 
- </dl></dl>
-
-<center>Back to Top</center>
-
-<dl compact=""><dl compact="">
-
-<dt>(2)</dt><dd>A person is guilty of an offence if the person:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>holds himself or herself out as being able to supply (whether to a
-
-particular person or otherwise) information about another person; and</dd>
-
-<dt>(b)</dt><dd>knows that the information is protected information.
-
-</dd>
-
-</dl></dl></dl>
+                     (b)  knows that the information is protected information.
 
 The offence is committed whether or not any protected information is actually supplied.
 
-Penalty:	Imprisonment for 2 years.
+                    Penalty:  Imprisonment for 2 years.
 
-<dl compact=""><dl compact="">
+Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-Note:	Chapter 2 of the _Criminal Code_ sets out the general
+             (3)  Nothing in subsection (1) or (2) renders an officer acting in the exercise or performance of his or her duties, functions or powers under this Act or the _Social Security Act 1991_ guilty of an offence.
 
-principles of criminal responsibility.
+##### <a id="12T"></a>12T  Freedom of Information Act not affected [_see_ Note 2] 
 
- </dl></dl>
+                   The provisions of this Part that relate to the disclosure of information do not affect the operation of the _Freedom of Information Act 1982_.
 
-<dl compact=""><dl compact="">
+##### <a id="12U"></a>12U  Application of the _Criminal Code_ [_see_ Note 2] 
 
-<dt>(3)</dt><dd>Nothing in subsection (1) or (2) renders an officer acting in the exercise
+                   Chapter 2 of the _Criminal Code_ applies to all offences against this Part.
 
-or performance of his or her duties, functions or powers under this Act or a
+##### <a id="12V"></a>12V  Crown not liable to be prosecuted for offences [_see_ Note 2] 
 
-family assistance law guilty of an offence.
+                   The Crown is not liable to be prosecuted for an offence against, or arising out of, this Part.
 
-</dd> </dl></dl>
+## Part IV—Research Grants  
 
-**
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-###  CHILD CARE ACT 1972- SECT 12T  Freedom of Information Act not affected 
-**
+##### <a id="13"></a>13  Grants for research etc.
 
- <dl compact=""><dl compact="">
+             (1)  The Minister may, on behalf of the Commonwealth, approve the making of a grant to any person for purposes of or relating to:
 
-		The provisions of this Part that relate to the disclosure of information do
+                     (a)   research in child care and related matters; and
 
-not affect the operation of the _Freedom of Information Act 1982_.
+                     (b)   the initiation and development of methods of child care.  
 
- </dl></dl>
+             (2)  In subsection (1), **_child care_** includes the care in any circumstances of children.  
 
-**
+## Part IVA—Grants in Respect of the Development of Child Care Centres
 
-###  CHILD CARE ACT 1972- SECT 12U  Application of the _Criminal Code_ 
-**
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
- <dl compact=""><dl compact="">
+##### <a id="13A"></a>13A  Interpretation<span style="font-size:9.0pt; font-weight:normal"> </span>
 
-		Chapter 2 of the _Criminal Code_ applies to all offences against this
+In this Part, unless the contrary intention appears:
 
-Part.
+                    <a name="approved-project"></a>**_approved project_** means a project approved by the Minister under section 13B.
 
- </dl></dl>
+##### <a id="13B"></a>13B  Approval of projects related to the development of child care centres
 
-**
+The Minister may approve, for the purposes of this Part, projects for the development of child care centres that are being carried out, or are proposed to be carried out, in a State or Territory.  
 
-###  CHILD CARE ACT 1972- SECT 12V  Crown not liable to be prosecuted for offences 
-**
+##### <a id="13C"></a>13C  Grants for projects related to the development of child care centres
 
- <dl compact=""><dl compact="">
+The Minister may, on behalf of the Commonwealth, approve the making of a grant to a State or Territory, by way of financial assistance to the State or Territory, in respect of approved projects that are, or are proposed to be, carried out in the State or Territory.  
 
-		The Crown is not liable to be prosecuted for an offence against, or arising
+## Part V—Advisory Committees  
 
-out of, this Part.
+### Division 1—Establishment of Committees  
 
- </dl></dl>
+##### <a id="14"></a>14  Child Care Standards Committee
 
-<center>**
+             (1)  The Minister may establish a committee, to be known as the Child Care Standards Committee, which shall consist of such number of members as the Minister thinks fit.  
 
-###  CHILD CARE ACT 1972<part>Part IV&#151;Research grants </part>
-**</center>
+             (2)  The functions of the Committee are:
 
-**
+                     (a)  to give advice to the Minister and to the operators of eligible child care centres in relation to standards to be maintained in the construction and equipment of those centres and in the service provided in them; and
 
-###  CHILD CARE ACT 1972- SECT 13  Grants for research etc. 
-**
+                     (b)  to give advice to the Minister on any other matter referred to the Committee by the Minister in connexion with the administration of this Act.  
 
- <dl compact=""><dl compact="">
+##### <a id="15"></a>15  Convenor of Child Care Standards Committee
 
-<dt>(1)</dt><dd>The Minister may, on behalf of the Commonwealth, approve the making of a
+The Minister shall appoint one of the members of the Child Care Standards Committee to be Convenor of the Committee.  
 
-grant to any person for purposes of or relating to:
+##### <a id="16"></a>16  Other committees
 
-</dd> </dl></dl>
+In addition to the Child Care Standards Committee, the Minister may establish such other committees as the Minister thinks fit for the purposes of this Act.  
 
-<dl compact=""><dl compact=""><dl compact="">
+### Division 2—General  
 
-<dt>(a)</dt><dd>research in child care and related matters; and</dd>
+##### <a id="17"></a>17  Definition of _committee_ 
 
-<dt>(b)</dt><dd>the initiation and development of methods of child care.
+In this Division, **_committee_** means a committee established under this Part.  
 
-</dd>
+##### <a id="18"></a>18  Appointment of members of committees
 
-</dl></dl></dl>
+A member of a committee shall be appointed by the Minister as a part-time member and holds office during the Minister’s pleasure.  
 
-<dl compact=""><dl compact="">
+##### <a id="19"></a>19  Remuneration and allowances of members of committees
 
-<dt>(2)</dt><dd>In subsection (1), _child care_ includes the care in any
+             (1)  A member of a committee shall be paid such remuneration as is determined by the Remuneration Tribunal.  
 
-circumstances of children.
+             (2)  A member of a committee shall be paid such allowances as are prescribed.  
 
-</dd> </dl></dl>
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_. 
 
-<center>**
+## Part VI—Miscellaneous  
 
-###  CHILD CARE ACT 1972<part>Part IVA&#151;Grants in respect of the development of child care centres </part>
-**</center>
+**Do not <span class="CharDivText">delet</span>e : <span class="CharDivNo">Division</span> placeholder**
 
-**
+##### <a id="20"></a>20  Conditions relating to grants<span style="font-size:9.0pt;font-weight:normal"> </span>
 
-###  CHILD CARE ACT 1972- SECT 13A  Interpretation  
-**
+             (1)  A grant under this Act may be made upon such terms and conditions, not inconsistent with this Act, as the Minister thinks fit.  
 
- <dl compact=""><dl compact="">
+             (2)  Before a grant is made under this Act, the Minister may require the grantee to enter into an agreement with respect to the terms and conditions upon which the grant is to be made.  
 
-		In this Part, unless the contrary intention appears:
+             (3)  An agreement may include provision for:
 
- </dl></dl>
+                     (a)  the repayment of the whole or a part of a grant; and
 
-<def><dl compact=""><dl compact="">
+                     (b)  the giving of security for:
 
-_approved project_ means a project approved by the Minister under
+                              (i)  the repayment of the whole or a part of a grant; or
 
-section 13B.
+                             (ii)  the payment to the Commonwealth of the amount that under the terms and conditions is taken to represent the Commonwealth’s interest in:
 
- </dl></dl>
+                                        (A)  land purchased (with or without buildings); and     
 
-<center>Back to Top</center>
+                                        (B)  buildings constructed or altered; and  
 
-**
+                                        (C)  equipment acquired, altered, added to or installed;
 
-###  CHILD CARE ACT 1972- SECT 13B  Approval of projects related to the development of child care centres 
-**
+                            as a result of the application of a grant or a grant and other money (whether or not that amount is more than the amount of the grant); and  
 
-<dl compact=""><dl compact="">
+                     (c)  the use and disposal of, and the recovery of, the amount that under the terms and conditions is taken to represent the Commonwealth’s interest in:
 
-		The Minister may approve, for the purposes of this Part, projects for the
+                              (i)  land purchased (with or without buildings); and
 
-development of child care centres that are being carried out, or are proposed
+                             (ii)  buildings constructed or altered; and
 
-to be carried out, in a State or Territory.
+                            (iii)  equipment acquired, altered, added to or installed;
 
- </dl></dl>
+                            as a result of the application of a grant or a grant and other money (whether or not that amount is more than the amount of the grant).  
 
-**
+             (5)  Where a grant under this Act has, in accordance with this section, been made on terms and conditions, the Minister, with the agreement of the grantee, may, by writing, vary those terms and conditions and, where there is an agreement under subsection (2) with respect to the terms and conditions so varied, that agreement shall be taken to be varied accordingly.  
 
-###  CHILD CARE ACT 1972- SECT 13C  Grants for projects related to the development of child care centres 
-**
+             (6)  In this section, **_grant_** includes an advance on account of grant under subsection 12(2). 
 
-<dl compact=""><dl compact="">
+##### <a id="20A"></a>20A  Agreements may be entered into with transferees of land etc.
 
-		The Minister may, on behalf of the Commonwealth, approve the making of a
+             (1)  If:
 
-grant to a State or Territory, by way of financial assistance to the State or
+                     (a)  either of the following subparagraphs applies:
 
-Territory, in respect of approved projects that are, or are proposed to be,
+                              (i)  a grant under Part II has been made to the operator of an eligible child care centre on terms and conditions with respect to any land, building or equipment;
 
-carried out in the State or Territory.
+                             (ii)  the operator of an eligible child care centre has entered into an agreement under this section under which it is required to comply with terms and conditions with respect to any land, building or equipment; and
 
- </dl></dl>
-
-<center>**
-
-###  CHILD CARE ACT 1972<part>Part V&#151;Advisory committees </part>
-**</center>
-
-<center>**
-
-###  CHILD CARE ACT 1972<division>Division 1&#151;Establishment of committees </division> 
-**</center>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 14  Child Care Standards Committee 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>The Minister may establish a committee, to be known as the Child Care
-
-Standards Committee, which shall consist of such number of members as the
-
-Minister thinks fit.</dd> <dt>(2)</dt><dd>The functions of the Committee are: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>to give advice to the Minister and to the operators of eligible child care
-
-centres in relation to standards to be maintained in the construction and
-
-equipment of those centres and in the service provided in them; and</dd>
-
-<dt>(b)</dt><dd>to give advice to the Minister on any other matter referred to the
-
-Committee by the Minister in connexion with the administration of this Act.
-
-</dd>
-
-</dl></dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 15  Convenor of Child Care Standards Committee 
-**
-
- <dl compact=""><dl compact="">
-
-		The Minister shall appoint one of the members of the Child Care Standards
-
-Committee to be Convenor of the Committee.
-
- </dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 16  Other committees 
-**
-
- <dl compact=""><dl compact="">
-
-		In addition to the Child Care Standards Committee, the Minister may establish
-
-such other committees as the Minister thinks fit for the purposes of this Act.
-
- </dl></dl>
-
-<center>**
-
-###  CHILD CARE ACT 1972<division>Division 2&#151;General </division> 
-**</center>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 17  Definition of _committee_  
-**
-
- <dl compact=""><dl compact="">
-
-		In this Division, _committee_ means a committee established under
-
-this Part.
-
- </dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 18  Appointment of members of committees 
-**
-
- <dl compact=""><dl compact="">
-
-		A member of a committee shall be appointed by the Minister as a part-time
-
-member and holds office during the Minister's pleasure.
-
- </dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 19  Remuneration and allowances of members of committees 
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>A member of a committee shall be paid such remuneration as is determined
-
-by the Remuneration Tribunal.</dd> <dt>(2)</dt><dd>A member of a committee shall be paid such allowances as are prescribed.</dd> <dt>(3)</dt><dd>This section has effect subject to the _Remuneration Tribunal Act 1973_. </dd> </dl></dl>
-
-<center>Back to Top</center>
-
-<center>**
-
-###  CHILD CARE ACT 1972<part>Part VI&#151;Miscellaneous </part>
-**</center>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 20  Conditions relating to grants  
-**
-
- <dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>A grant under this Act may be made upon such terms and conditions, not
-
-inconsistent with this Act, as the Minister thinks fit.</dd> <dt>(2)</dt><dd>Before a grant is made under this Act, the Minister may require the grantee to enter into an agreement with respect to the terms and conditions upon which the grant is to be made.</dd> <dt>(3)</dt><dd>An agreement may include provision for: </dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>the repayment of the whole or a part of a grant; and</dd>
-
-<dt>(b)</dt><dd>the giving of security for:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>the repayment of the whole or a part of a grant; or</dd>
-
-<dt>(ii)</dt><dd>the payment to the Commonwealth of the amount that under the terms and
-
-conditions is taken to represent the Commonwealth's interest in:
-
-</dd>
-
-</dl></dl></dl></dl>
-
-	(A)	land purchased (with or without buildings); and
- 	(B)	buildings constructed or altered; and
- 	(C)	equipment acquired, altered, added to or installed;
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		as a result of the application of a grant or a grant and other money (whether
-
-or not that amount is more than the amount of the grant); and
-
-<dt>(c)</dt><dd>the use and disposal of, and the recovery of, the amount that under the
-
-terms and conditions is taken to represent the Commonwealth's interest in:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>land purchased (with or without buildings); and</dd>
-
-<dt>(ii)</dt><dd>buildings constructed or altered; and</dd>
-
-<dt>(iii)</dt><dd>equipment acquired, altered, added to or installed;
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-		as a result of the application of a grant or a grant and other money (whether
-
-or not that amount is more than the amount of the grant).
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact="">
-
-<dt>(5)</dt><dd>Where a grant under this Act has, in accordance with this section, been
-
-made on terms and conditions, the Minister, with the agreement of the grantee,
-
-may, by writing, vary those terms and conditions and, where there is an
-
-agreement under subsection (2) with respect to the terms and conditions so
-
-varied, that agreement shall be taken to be varied accordingly.</dd> <dt>(6)</dt><dd>In this section, _grant_ includes an advance on account of grant under subsection 12(2). </dd> </dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 20A  Agreements may be entered into with transferees of land etc. 
-**
-
-<dl compact=""><dl compact="">
-
-<dt>(1)</dt><dd>If:
-
-</dd> </dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(a)</dt><dd>either of the following subparagraphs applies:
-
-</dd>
-
-</dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact=""><dl compact="">
-
-<dt>(i)</dt><dd>a grant under Part II has been made to the operator of an eligible child
-
-care centre on terms and conditions with respect to any land, building or
-
-equipment;</dd>
-
-<dt>(ii)</dt><dd>the operator of an eligible child care centre has entered into an
-
-agreement under this section under which it is required to comply with terms
-
-and conditions with respect to any land, building or equipment; and
-
-</dd>
-
-</dl></dl></dl></dl>
-
-<dl compact=""><dl compact=""><dl compact="">
-
-<dt>(b)</dt><dd>the operator has transferred, or proposes to transfer, the whole or a part
-
-of its interest in the land, building or equipment to another person or body;
-
-</dd>
-
-</dl></dl></dl>
-
-<center>Back to Top</center>
+                     (b)  the operator has transferred, or proposes to transfer, the whole or a part of its interest in the land, building or equipment to another person or body;
 
 the Minister may enter into an agreement with the other person or body under which the other person or body is required to comply, or will, on the transfer being effected, be required to comply, with terms and conditions (whether with respect to the land, building, equipment or otherwise).
 
-<dl compact=""><dl compact="">
+             (2)  Where an agreement under subsection (1) between the Minister and a person or body is in force, the Minister may vary the agreement with the consent of the person or body. 
 
-<dt>(2)</dt><dd>Where an agreement under subsection (1) between the Minister and a person
+##### <a id="20B"></a>20B  Overpayments
 
-or body is in force, the Minister may vary the agreement with the consent of
+             (1)  The payment of an amount to the operator of an eligible child care centre under this Act is, in addition to any conditions imposed under section 20, subject to the condition that if, for any reason, an amount (in this subsection referred to as the **_recoverable amount_**)  has been paid to the operator by way of grant or advance on account of grant under this Act that should not have been paid, the operator will, on demand by the Minister by written notice given to the operator, repay to the Commonwealth the recoverable amount or that part of the recoverable amount specified in the notice. 
 
-the person or body.
+             (2)  The Minister may deduct an amount repayable by the operator of an eligible child care centre under subsection (1) or part of such an amount from an amount (including an advance) payable to the operator under this Act. 
 
-</dd> </dl></dl>
+##### <a id="21"></a>21  Delegations by the Minister [_see_ Note 2] 
 
-**
+             (1)  The Minister may, by signed instrument, delegate any or all of the Minister’s powers under this Act to a person holding or performing the duties of an office in the Department. 
 
-###  CHILD CARE ACT 1972- SECT 20B  Overpayments 
-**
+             (2)  The Minister may, in accordance with service arrangements, by signed instrument, delegate to the CEO or an employee of the Agency the Minister’s powers under subsection 12A(2) and sections 20B and 23.
 
- <dl compact=""><dl compact="">
+             (5)  In subsection (1), a reference to this Act includes a reference to an agreement entered into under this Act. 
 
-<dt>(1)</dt><dd>The payment of an amount to the operator of an eligible child care centre
+##### <a id="21A"></a>21A  Delegations by the Secretary [_see_ Note 2] 
 
-under this Act is, in addition to any conditions imposed under section 20,
+             (1)  The Secretary may, by signed instrument, delegate all or any of the Secretary’s powers and functions under this Act to an officer.
 
-subject to the condition that if, for any reason, an amount (in this subsection
+             (2)  The Secretary may, in accordance with service arrangements, by signed instrument, delegate to the CEO or an employee of the Agency all or any of the Secretary’s powers and functions under this Act.
 
-referred to as the _recoverable amount_) has been paid to the
+             (3)  The Secretary may, by signed instrument, delegate to the operator of an eligible child care centre all or any of the Secretary’s powers and functions under Division 4 of Part III of this Act.
 
-operator by way of grant or advance on account of grant under this Act that
+             (4)  If the Secretary delegates to the CEO or an employee of the Agency a power under this Act to invite a person to make submissions to the Secretary, the delegate may, in exercising the power, invite the person to make the submissions to the CEO instead of the Secretary.
 
-should not have been paid, the operator will, on demand by the Minister by
+             (5)  A person who makes a submission to the CEO instead of the Secretary in response to an invitation given by a delegate referred to in subsection (4) is to be treated for all purposes as if the person had made the submission to the Secretary in response to an invitation by the Secretary.
 
-written notice given to the operator, repay to the Commonwealth the recoverable
+##### <a id="22"></a>22  Approvals and determinations to be in writing
 
-amount or that part of the recoverable amount specified in the notice. </dd> <dt>(2)</dt><dd>The Minister may deduct an amount repayable by the operator of an eligible child care centre under subsection (1) or part of such an amount from an amount (including an advance) payable to the operator under this Act. </dd> </dl></dl>
+An approval or determination under this Act must be made in writing.
 
-**
+##### <a id="22A"></a>22A  Exercise of powers in Minister’s discretion
 
-###  CHILD CARE ACT 1972- SECT 21  Delegations by the Minister 
-**
+Where a provision of this Act provides that the Minister may do a particular act or thing, and the word **_may_** is used, the act or thing may be done at the  Minister’s discretion.
 
- <dl compact=""><dl compact="">
+##### <a id="23"></a>23  Manner of payment of grants
 
-<dt>(1)</dt><dd>The Minister may, by signed instrument, delegate any or all of the
+A grant under this Act shall be made at such time as is, or by such instalments and at such times as are, determined by agreement between the Minister and the operator of the eligible child care centre concerned or, in the absence of such an agreement, by the Minister.  
 
-Minister's powers under this Act to a person holding or performing the duties
+##### <a id="24"></a>24  Money to be appropriated
 
-of an office in the Department. </dd> <dt>(5)</dt><dd>In subsection (1), a reference to this Act includes a reference to an agreement entered into under this Act. </dd> </dl></dl>
+Grants under this Act and advances on account of grants under subsection 12(2) are payable out of money appropriated by the Parliament for the purposes of this Act.  
 
-**
+##### <a id="25"></a>25  Regulations
 
-###  CHILD CARE ACT 1972- SECT 22  Approvals and determinations to be in writing 
-**
+The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
- <dl compact=""><dl compact="">
+ 
 
-		An approval or determination under this Act must be made in writing.
+# NOTES
 
- </dl></dl>
+1.   The _Child Care Act 1972_ as shown in this reprint comprises Act No. 121, 1972 amended as indicated in the Tables below. 
 
-**
+      The _Child Care Act 1972_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended). The modifications were repealed by the _Community Services and Health Legislation Amendment Act 1990_ (No. 106, 1990).
 
-###  CHILD CARE ACT 1972- SECT 22A  Exercise of powers in Minister's discretion 
-**
+### Table of Acts
 
- <dl compact=""><dl compact="">
+<table>
+<colgroup>
+  <col width="30%">
+  <col width="16%">
+  <col width="17%">
+  <col width="22%">
+  <col width="14%">
+</colgroup>
 
-		Where a provision of this Act provides that the Minister may do a particular
-
-act or thing, and the word _may_ is used, the act or thing may be
-
-done at the Minister's discretion.
-
- </dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 23  Manner of payment of grants 
-**
-
- <dl compact=""><dl compact="">
-
-		A grant under this Act shall be made at such time as is, or by such
-
-instalments and at such times as are, determined by agreement between the
-
-Minister and the operator of the eligible child care centre concerned or, in
-
-the absence of such an agreement, by the Minister.
-
- </dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 24  Money to be appropriated 
-**
-
- <dl compact=""><dl compact="">
-
-		Grants under this Act and advances on account of grants under subsection
-
-12(2) are payable out of money appropriated by the Parliament for the purposes
-
-of this Act.
-
- </dl></dl>
-
-**
-
-###  CHILD CARE ACT 1972- SECT 25  Regulations 
-**
-
- <dl compact=""><dl compact="">
-
-		The Governor-General may make regulations, not inconsistent with this Act,
-
-prescribing all matters that are required or permitted by this Act to be
-
-prescribed or are necessary or convenient to be prescribed for carrying out or
-
-giving effect to this Act.
-
- </dl></dl>
-
-<center>**
-
-###  CHILD CARE ACT 1972<centreit>Notes to the _Child Care Act 1972_ </centreit>
-**</center>
-
-**Note 1**
-
-<center>Back to Top</center>
-
-The _Child Care Act 1972_ as shown in this compilation comprises Act No.&#160;121, 1972 amended as indicated in the Tables below. 
- The _Child Care Act 1972_ was modified by the A.C.T. Self-Government (Consequential Provisions) Regulations (1989 No. 3 as amended). The modifications were repealed by the _Community Services and Health Legislation Amendment Act 1990_ (No. 106, 1990).
- All relevant information pertaining to application, saving or transitional provisions prior to 8 July 1999 is not included in this compilation. For subsequent information _see_ Table A.
-
-**Table of Acts**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Act</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Number 
 and year</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date 
 of Assent</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Date of commencement</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Application, saving or transitional provisions</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Child Care Act 1972</i></div>
-
+<tr>
+  <td>
+    <div>Child Care Act 1972</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>121, 1972</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>2 Nov 1972</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>2 Nov 1972</div>
-
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Statute Law Revision Act 1973</i></div>
-
+<tr>
+  <td>
+    <div>Statute Law Revision Act 1973</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>216, 1973</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>19 Dec 1973</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>31 Dec 1973</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 9(1) and 10</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Administrative Changes (Consequential Provisions) Act 1976</i></div>
-
+<tr>
+  <td>
+    <div>Administrative Changes (Consequential Provisions) Act 1976</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>91, 1976</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>20 Sept 1976</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3: <i>(a)</i></div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 4</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Public Service Reform Act 1984</i></div>
-
+<tr>
+  <td>
+    <div>Public Service Reform Act 1984</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>63, 1984</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>25 June 1984</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 151(1): 1 July 1984 ( <i>see Gazette</i>1984, No. S245) <i>(b)</i></div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S.151(9)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Social Security and Repatriation Legislation Amendment Act 1985</i></div>
-
+<tr>
+  <td>
+    <div>Social Security and Repatriation Legislation Amendment Act 1985</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>95, 1985</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>5 Sept 1985</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Ss. 13-26 and 28-30: Royal Assent <i>(c)</i> 
 S. 27: 3 Oct 1985 <i>(c)</i></div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 30</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Child Care Amendment Act 1985</i></div>
-
+<tr>
+  <td>
+    <div>Child Care Amendment Act 1985</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>158, 1985</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>11 Dec 1985</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>1 Apr 1986</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 7</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Community Services and Health Legislation Amendment Act (No. 2) 1988</i></div>
-
+<tr>
+  <td>
+    <div>Community Services and Health Legislation Amendment Act (No. 2) 1988</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>155, 1988</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>26 Dec 1988</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 10: 1 Jan 1989 
-Ss. 12 and 13: 1&#160;July 1989 
+Ss. 12 and 13: 1 July 1989 
 ( <i>see Gazette</i>1989, No. S228) 
-Ss. 14 and 17: 1&#160;July 1988 
+Ss. 14 and 17: 1 July 1988 
 Ss. 19-26 and 28-34: 24 Jan 1990 
-( <i>see Gazette</i>1990, No. S13) 
-Ss. 27 and 36: 15&#160;Mar 1989 
+( <i>see Gazette</i> 1990, No. S13) 
+Ss. 27 and 36: 15 Mar 1989 
 ( <i>see Gazette</i>1989, No. S91) 
 Part V (ss. 38-40): 24 June 1988 
 S. 41(2): 16 Dec 1987 
 S. 41(3): 6 Nov 1987 
-S. 41(4): 1 Mar 1989 ( <i>see</i>s. 2(8) 
+S. 41(4): 1 Mar 1989 ( <i>see</i> s. 2(8) 
 and <i>Gazette</i>1989, No. S54) 
 Remainder: Royal Assent</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Community Services and Health Legislation Amendment Act 1990</i></div>
-
+<tr>
+  <td>
+    <div>Community Services and Health Legislation Amendment Act 1990</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>106, 1990</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>18 Dec 1990</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 3: Royal Assent <i>(d)</i> 
 Ss. 4-11: 1 Jan 1991 <i>(d)</i></div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>S. 8(2)</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995</i></div>
-
+<tr>
+  <td>
+    <div>Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>143, 1995</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>12 Dec 1995</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule 2 (Part&#160;1): 1 Jan 1996 <i>(e)</i></div>
-
+  <td>
+    <div>Schedule 2 (Part 1): 1 Jan 1996 <i>(e)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Child Care Legislation Amendment Act 1996</i></div>
-
+<tr>
+  <td>
+    <div>Child Care Legislation Amendment Act 1996</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>80, 1996</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>19 Dec 1996</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>Schedule 1: 1 July 1997 
 Remainder: Royal Assent</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997</i></div>
-
+<tr>
+  <td>
+    <div>Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>196, 1997</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>8 Dec 1997</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule 1 (items 1-7): <i>(f)</i></div>
-
+  <td>
+    <div>Schedule 1 (items 1-7): \[ <i>see</i> <i>(f)</i>and Note 2]</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>as amended by</b></div>
-
+<tr>
+  <td>
+    <div>as amended by</div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Child Care Legislation Amendment Act 1998</i></div>
-
+<tr>
+  <td>
+    <div>Child Care Legislation Amendment Act 1998</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>13, 1998</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 Apr 1998</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule 1 (items 19-24): 27 Apr 1998 ( <i>see Gazette</i>1998, No. S167) <i>(fa)</i></div>
-
+  <td>
+    <div>Schedule 1 (items 19-24): 27 Apr 1998 ( <i>see Gazette</i>1998, No. S167) \[ <i>see</i> <i>(g)</i>and Note 2]</div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999</i></div>
-
+<tr>
+  <td>
+    <div>Child Care Legislation Amendment Act 1998</div>
   </td>
-  <td colspan="1" align="left">
-    <div>82, 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>8 July 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedule 2 (item 2): <i>(fb)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Child Care Legislation Amendment Act 1998</i></div>
-
-  </td>
-  <td colspan="1" align="left">
+  <td>
     <div>13, 1998</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>16 Apr 1998</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>Schedule 1 (items 1-15): 27 Apr 1998 ( <i>see Gazette</i>1998, No. S167) <i>(g)</i></div>
-
+  <td>
+    <div>Schedule 1 (items 1-15): 27 Apr 1998 ( <i>see Gazette</i>1998, No. S167) <i>(h)</i></div>
   </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>82, 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>8 July 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 4: Royal Assent <i>(h)</i> 
-Schedule 2 (items&#160;4, 5): <i>(h)</i> 
-Schedule 3: <i>(h)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 4 (am. by 83, 1999, Sch. 11 (item 1)) 
-S. 5 (ad. by 83, 1999, Sch. 11 (item 2)) \[ <i>see</i>Table A]</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><b>as amended by</b></div>
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>83, 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>8 July 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedule 11 (item&#160;1): <i>(i)</i> 
-Schedule 11 (item&#160;2): <i>(i)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>S. 2(9) (rs. by 172, 1999, Sch. 2 (item 3))</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>Family and Community Services Legislation Amendment (1999 Budget and Other Measures) Act 1999</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>172, 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>10 Dec 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedule 2 (item 3): <i>(j)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div><i>A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>83, 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>8 July 1999</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>Schedule 3 <i>(k)</i></div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>&#151;</div>
-
+  <td>
+    <div>—</div>
   </td>
 </tr></table>
 
-<center>Back to Top</center>
+ 
 
-_(a)_	The _Child Care Act 1972_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(3) of which provides as follows: 
+_(a)_     The _Child Care Act 1972_ was amended by section 3 only of the _Administrative Changes (Consequential Provisions) Act 1976_, subsection 2(3) of which provides as follows: 
 
-	(3)	The amendments of the _Child Care Act 1972_ made by this Act shall be deemed to have come into operation on 23 June 1976.
+                 “(3)   The amendments of the _Child Care Act 1972_ made by this Act shall be deemed to have come into operation on 23 June 1976.” 
 
-_(b)_	The _Child Care Act 1972_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
+_(b)_    The _Child Care Act 1972_ was amended by subsection 151(1) only of the _Public Service Reform Act 1984_, subsection 2(4) of which provides as follows: 
 
-	(4)	The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.
+                 “(4)   The remaining provisions of this Act shall come into operation on such day as is, or on such respective days as are, fixed by Proclamation.”
 
-_(c)_	The _Child Care Act 1972_ was amended by sections 13-30 only of the _Social Security and Repatriation Legislation Amendment Act 1985_, subsections 2(1) and (2) of which provide as follows: 
+_(c)_     The _Child Care Act 1972_ was amended by sections 13-30 only of the _Social Security and Repatriation Legislation Amendment Act 1985_, subsections 2(1) and (2) of which provide as follows: 
 
-	(1)	Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent. 
- 	(2)	Section 27 shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.
+                 “(1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent. 
 
-_(d)_	The _Child Care Act 1972_ was amended by sections 3-11 only of the _Community Services and Health Legislation Amendment Act 1990_, section 2 of which provides as follows: 
+                 “(2)   Section 27 shall come into operation on the twenty-eighth day after the day on which this Act receives the Royal Assent.” 
 
-	2.	Each provision of this Act commences, or is taken to have commenced, on the day, or at the time, shown by the note in italics at the foot of that provision.
+_(d)_     The _Child Care Act 1972_ was amended by sections 3-11 only of the _Community Services and Health Legislation Amendment Act 1990_, section 2 of which provides as follows: 
 
-_(e)_	The _Child Care Act 1972_ was amended by Schedule 2 (Part 1) only of the _Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995_, subsection 2(3)(a) of which provides as follows: 
+                  “2.   Each provision of this Act commences, or is taken to have commenced, on the day, or at the time, shown by the note in italics at the foot of that provision.” 
 
-	(3)	The following provisions commence on 1 January 1996: 
+_(e)_     The _Child Care Act 1972_ was amended by Schedule 2 (Part 1) only of the _Social Security Legislation Amendment (Carer Pension and Other Measures) Act 1995_, subsection 2(3)(a) of which provides as follows: 
 
-	(a)	Parts 1 and 3 of Schedule 2;
+                 “(3)   The following provisions commence on 1 January 1996: 
 
-_(f)_ The _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_ (as amended by the _Child Care Legislation Amendment Act 1998_) was repealed by Schedule 2 (item 2) of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_ before the amendments commenced.
- -_(fa)_	The _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_ was amended by Schedule 1 (items 19-24) only of the _Child Care Legislation Amendment Act 1998_, subsection 2(2) of which provides as follows:
+                  (a)   Parts 1 and 3 of Schedule 2;” 
 
-	(2)	Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.
+_(f)_ The _Child Care Act 1972_ was amended by Schedule 1 (items 1-7) only of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_, subsection 2(2) of which provides as follows:
 
-_(fb)_ The _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_ was amended by Schedule 2 (item 2) only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_, subsection 2(3) of which provides as follows:
+                 “(2)   Subject to subsections (3) to (5), Schedule 1 commences on the day that is the payment commencement day for the purposes of the _Child Care Payments Act 1997_.” [_see_ Note 2]
 
-	(3)	Items 1, 2, 4 and 5 of Schedule 2 commence immediately before the day that is the payment commencement day for the purposes of the _Child Care Payments Act 1997_.
+_(g)_     The _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_ was amended by Schedule 1 (items 19-24) only of the _Child Care Legislation Amendmernt Act 1998_, subsection 2(2) of which provides as follows:
 
-	The payment commencement day was 19 June 2000.
- _(g)_	The _Child Care Act 1972_ was amended by Schedule 2 (items 1-15) only of the _Child Care Legislation Amendment Act 1998_, subsection 2(2) of which provides as follows:
+                 “(2)   Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.” [_see_ Note 2] 
 
-	(2)	Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.
+_(h)_     The _Child Care Act 1972_ was amended by Schedule 1 (items 1-15) only of the _Child Care Legislation Amendment Act 1998_, subsection 2(2) of which provides as follows:
 
-_(h)_	The _Child Care Act 1972_ was amended by Schedule 2 (items 4, 5) and Schedule 3 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_, subsections 2(1)-(3) of which provide as follows:
+                 “(2)   Subject to subsection (3), the remaining provisions of this Act commence on a day to be fixed by Proclamation.”
 
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
- 	(2)	Schedule 1, item 3 of Schedule 2 and Schedules 3 to 8 commence, or are taken to have commenced, immediately after the commencement of:
+ 
 
-	(a)	the _A New Tax System (Family Assistance) Act 1999_; and
- 	(b)	Schedules 1, 2 and 3 of the _A New Tax System (Compensation Measures Legislation Amendment) Act 1999_. 
+## Table of Amendments
 
-	(3)	Items 1, 2, 4 and 5 of Schedule 2 commence immediately before the day that is the payment commencement day for the purposes of the _Child Care Payments Act 1997_. 
+<table>
+<colgroup>
+  <col width="34%">
+  <col width="66%">
+</colgroup>
 
-	The payment commencement day was 19 June 2000.
- 	The _A New Tax System (Family Assistance) Act 1999_ and the _A New Tax System (Compensation Measures Legislation Amendment) Act 1999_ commenced on 1 July 2000.
- _(i)_ The _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No 1) 1999_ was amended by Schedule 11 (items 1, 2) only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsections 2(8) and (9) of which provide as follows:
-
-	(8)	Item 1 of Schedule 11 commences, or is taken to have commenced, immediately after the commencement of section 4 of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_.
-
-<center>Back to Top</center>
- 	(9)	Item 2 of Schedule 11 commences on the earlier of:
-
-	(a)	immediately after the commencement of section 2 of the _Family and Community Services Legislation Amendment (1999 Budget and Other Measures) Act 1999_; or
- 	(b)	1 January 2000.
-
-	Section 4 of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_ commenced on 8 July 1999.
- _(j)_	The _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_ was amended by Schedule 2 (item 3) only of the _Family and Community Services Legislation Amendment (1999 Budget and Other Measures) Act 1999_, subsection 2(4) of which provides as follows:
-
-	(4)	Schedule 2 commences, or is taken to have commenced, immediately after the commencement of section 2 of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_.
-
- Section 2 commenced on 8 July 1999
- _(k)_	The _Child Care Act 1972_ was amended by Schedule 3 only of the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_, subsection 2(2) of which provides as follows:
-
-	(2)	Schedule 1 (Parts 1 to 5), Schedules 3 to 6, Schedule 7 (other than item 14), Schedules 8 and 9, Schedule 10 (other than items 22, 63, 66 and 67) and Schedule 11 (items 3 and 4 only) commence, or are taken to have commenced, on the commencement of Schedule 1 to the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_. 
-
-	The _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_ commenced on 1 July 2000.
-
-**Table of Amendments**
-
-<table><tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td colspan="2">
     <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Provision affected</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>How affected</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Title</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 3</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rep. No. 216, 1973</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 4</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No. 216, 1973; No. 95, 1985; No. 106, 1990; No. 143, 1995; No. 13, 1998; Nos. 82 and 83, 1999</div>
-
+  <td>
+    <div>am. No. 216, 1973; No. 95, 1985; No. 106, 1990; No. 143, 1995; No. 13, 1998</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 4A</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 4B</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No. 13, 1998; No. 82, 1999</div>
-
+  <td>
+    <div>am. No. 13, 1998</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 4C</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No. 13, 1998; No. 82, 1999</div>
-
+  <td>
+    <div>am. No. 13, 1998</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 4D-4G</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 13, 1998</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 82, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 4H</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 82, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 82, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 5-7</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1985; No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 8, 9</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 10</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1985; No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 11</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 158, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-    <div>am. No. 106, 1990 
-rep. No. 80, 1996</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to Div. 1 of Part III</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 13, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 82, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 12</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rs. No. 95, 1985</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 106, 1990</div>
-
+    <div>rep. No. 80, 1996</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 12A</div>
-
+<tr>
+  <td>
+    <div>Heading to Div. 1 of Part III</div>
   </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 95, 1985</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 106, 1990; No. 13, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 82, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Heading to Div. 2 of Part III</div>
-
-  </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 13, 1998</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Division 2 of Part III 
-(ss. 12B-12E)</div>
-
+<tr>
+  <td>
+    <div>S. 12</div>
   </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 82, 1999</div>
-
+  <td>
+    <div>rs. No. 95, 1985</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 106, 1990</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 12A</div>
+  </td>
+  <td>
+    <div>ad. No. 95, 1985</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>am. No. 106, 1990; No. 13, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Div. 2 of Part III</div>
+  </td>
+  <td>
+    <div>ad. No. 13, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>Ss. 12B-12E</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 143, 1995</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 82, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Division 3 of Part III 
 (s. 12F)</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 13, 1998</div>
-    <div>rep. No. 82, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 12F</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 13, 1998</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 82, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Division 4 of Part III 
 (ss. 12G, 12H)</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 13, 1998</div>
-    <div>rep. No. 82, 1999</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 12G, 12H</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 13, 1998</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 82, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Part IIIA 
 (ss. 12J-12V)</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 13, 1998</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 12J</div>
-
+<tr>
+  <td>
+    <div>Ss. 12J-12V</div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 13, 1998</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 12K-12N</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 13, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 83, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 12O-12R</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 13, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>S. 12S</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 13, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>am. No. 83, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
-    <div>Ss. 12T-12V</div>
-
-  </td>
-  <td colspan="1" align="left">
-    <div>ad. No. 13, 1998</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 13</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1985; No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Part IVA 
 (ss. 13A-13C)</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 13A-13C</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 14</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1985; No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 15</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 16</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 18</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 19</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 20</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. Nos. 95 and 158, 1985; No. 106, 1990; No. 80, 1996</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 20A</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 20B</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 158, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 21</div>
-
   </td>
-  <td colspan="1" align="left">
-    <div>am. No. 216, 1973; No. 91, 1976; No. 63, 1984; No. 95, 1985; No.&#160;155, 1988; No. 106, 1990; No. 13, 1998; No. 82, 1999</div>
-
+  <td>
+    <div>am. No. 216, 1973; No. 91, 1976; No. 63, 1984; No. 95, 1985; No. 155, 1988; No. 106, 1990; No. 13, 1998</div>
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 21A</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>ad. No. 13, 1998</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
-  </td>
-  <td colspan="1" align="left">
-    <div>rep. No. 82, 1999</div>
-
-  </td>
-</tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>Ss. 22-22A</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 23</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 106, 1990</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
+<tr>
+  <td>
     <div>S. 24</div>
-
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>rs. No. 95, 1985</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
+  <td>
     <div>am. No. 158, 1985; No. 80, 1996</div>
-
   </td>
 </tr>
-<tr align="left">
-  <td colspan="1" align="left">
-
+<tr>
+  <td>
+    <div></div>
   </td>
-  <td colspan="1" align="left">
-
+  <td>
+    <div></div>
   </td>
-</tr></table>**Table A**
+</tr></table>
 
-**Application, saving or transitional provisions**
+ 
 
-_A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 1) 1999_ (No. 82, 1999) 
+2.   The _Child Care Act 1972_ was amended by Schedule 1 (items 1-7) only of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_. The applicable provisions provide as follows:
 
-**4  Regulations**
+Schedule 1—Consequential amendments of other legislation
 
-<dl compact=""><dl compact="">
+_Child Care Act 1972_ _\[see NOTE below]_
 
-		The Governor-General may make regulations providing for matters of a
+1  Subsection 4(1) (definition of _approved child care service_)
 
-transitional nature in respect of the following:
+Repeal the definition.
 
- </dl></dl>
+2  Subsection 4(1) (definition of _fee relief beneficiary_)
 
-<dl compact=""><dl compact=""><dl compact="">
+Repeal the definition.
 
-<dt>(a)</dt><dd>the amendments made by this Act and the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_;</dd>
+3  Subsection 4(1) (definition of _partner_)
 
-<dt>(b)</dt><dd>the enactment of the _A New Tax System (Family Assistance) Act 1999_
+Repeal the definition
 
-and the _A New Tax System (Family Assistance) (Administration) Act 1999_;</dd>
+4  Subsection 4(1) (definition of _Social Security Secretary_)
 
-<dt>(c)</dt><dd>the making of regulations under the _A New Tax System (Family Assistance) (Administration) Act 1999._
+Repeal the definition.
 
-</dd>
+5  Subsection 4B(1)
 
-</dl></dl></dl>
+Omit “(other than section 12A)” (wherever occurring).
 
-**5  Transitional provision&#151;disclosure of personal information**
+6  Subsection 4B(2)
 
-<dl compact=""><dl compact="">
+Repeal the subsection.
 
-<dt>(1)</dt><dd>Without limiting section 4, a record keeper who has possession or control
+7  Sections 12A, 12B, 12C, 12D and 12E
 
-of a record that contains personal information may use the information, or
+Repeal the sections.
 
-disclose the information to a person, body or agency, for transitional purposes
+      Subsection 2(2) of the _Child Care Payments (Consequential Amendments and Transitional Provisions) Act 1997_ provides as follows:
 
-in respect of the following:
+“(2)   Subject to subsections (3) to (5), Schedule 1 commences on the day that is the payment commencement day for the purposes of the _Child Care Payments Act 1997_.”
 
-</dd> </dl></dl>
+      As at 4 August 1998 no date had been set and the amendments are not incorporated in this reprint.
 
-<dl compact=""><dl compact=""><dl compact="">
+      _NOTE:_        Schedule 1 (items 19-24) of the _Child Care Legislation Amendment Act 1998_   amended Schedule 1 (items 1-4, 6, 7) of the _Child Care Payments (Consequential  Amendments and Transitional Provisions) Act 1997_. The applicable provisions                         provide as follows:
 
-<dt>(a)</dt><dd>the amendments made by the _A New Tax System (Family Assistance) (Consequential and Related Measures) Act (No. 2) 1999_ and this Act;</dd>
+Schedule 1
 
-<dt>(b)</dt><dd>the enactment of the _A New Tax System (Family Assistance) Act 1999_
+**_Child Care Payments (Consequential Amendments and_**_Transitional Provisions) Act 199_**_7_**
 
-and the _A New Tax System (Family Assistance) (Administration) Act 1999_.
+19  Item 1 of Schedule 1
 
-</dd>
+Repeal the item, substitute:
 
-</dl></dl></dl>
+1  Subsection 4(1) (definition of _Agency_)
 
-<dl compact=""><dl compact="">
+Repeal the definition.
 
-<dt>(2)</dt><dd>To avoid doubt, if information is used or disclosed in accordance with
+1A  Subsection 4(1) (definition of _Agency Act_)
 
-subsection (1), the use or disclosure is taken, for the purposes of the
+Repeal the definition.
 
-Information Privacy Principles set out in section 14 of the _Privacy Act 1988_, to be authorised by law.</dd> <dt>(3)</dt><dd>Unless the contrary intention appears, an expression used in this section has the same meaning as in the _Privacy Act 1988_. </dd> </dl></dl>
+1B  Subsection 4(1) (definition of _approved child care service_)
 
-</def>
+Repeal the definition.
 
-</def>
+1C  Subsection 4(1) (definition of _Australian Immunisation Handbook_)
 
-</def>
+Repeal the definition.
 
-</def>
+1D  Subsection 4(1) (definition of _CEO_)
 
-</def>
+Repeal the definition.
 
+1E  Subsection 4(1) (definition of _conscientious objection_)
 
+Repeal the definition.
+
+1F  Subsection 4(1) (definition of _eligibility requirements_)
+
+Repeal the definition.
+
+20  After item 2 of Schedule 1
+
+Insert:
+
+2A  Subsection 4(1) (definition of _immunised_)
+
+Repeal the definition.
+
+2B  Subsection 4(1) (definition of _information_)
+
+Repeal the definition.
+
+2C  Subsection 4(1) (definition of _officer_)
+
+Repeal the definition.
+
+21  After item 3 of Schedule 1
+
+Insert:
+
+3A  Subsection 4(1) (definition of _protected information_)
+
+Repeal the definition.
+
+3B  Subsection 4(1) (definition of _recognised immunisation provider_)
+
+Repeal the definition.
+
+3C  Subsection 4(1) (definition of _service arrangements_)
+
+Repeal the definition.
+
+22  After item 4 of Schedule 1
+
+Insert:
+
+4A  Subsection 4(2)
+
+Repeal the subsection.
+
+23  Item 6 of Schedule 1
+
+Repeal the item, substitute:
+
+6  Subsections 4B(2) to (4)
+
+Repeal the subsections.
+
+6A  Paragraph 4C(1)(b)
+
+Repeal the paragraph.
+
+6B  Subsection 4C(1A)
+
+Repeal the subsection.
+
+6C  Sections 4D to 4G
+
+Repeal the sections.
+
+6D  Division 1 of Part III (heading)
+
+Repeal the heading, substitute:
+
+Division 1—Grants for new eligible child care centres
+
+24  Item 7 of Schedule 1
+
+Repeal the item, substitute:
+
+7  Section 12A
+
+Repeal the section.
+
+7A  Divisions 2, 3 and 4 of Part III
+
+Repeal the Divisions.
+
+7B  Part IIIA
+
+Repeal the Part.
+
+7C  Subsection 21(2)
+
+Repeal the subsection.
+
+7D  Section 21A
+
+Repeal the section.
+
+      Schedule 1 (items 19-24) of the _Child Care Legislation Amendment Act 1998_ commenced on 27  April 1998 (_see Gazette_ 1998, No. S167).
+
+ 
