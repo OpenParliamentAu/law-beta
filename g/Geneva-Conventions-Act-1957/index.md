@@ -1,7 +1,7 @@
 
 Geneva Conventions Act 1957
 Act No. 103 of 1957 as amended
-This compilation was prepared on 29 July 2002  taking into account amendments up to Act No. 42 of 2002
+This compilation was prepared on 24 May 2001  taking into account amendments up to Act No. 24 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -9,8 +9,8 @@ Prepared by the Office of Legislative Drafting, Attorney‑General’s Departm
   
 Contents
 Part I—Preliminary	1
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
+1	Short title [See Note 1]	1
+2	Commencement [See Note 1]	1
 5	Interpretation	1
 6	Application of Act	3
 6A	Application of the Criminal Code	3
@@ -38,9 +38,9 @@ Notes		263
 
 An Act to enable effect to be given to certain Conventions done at Geneva on 12 August 1949 and to a Protocol additional to those Conventions done at Geneva on 10 June 1977, and for related purposes
 Part I—Preliminary
-1  Short title [see Note 1]
+1  Short title [See Note 1]
 		This Act may be cited as the Geneva Conventions Act 1957.
-2  Commencement [see Note 1]
+2  Commencement [See Note 1]
 		This Act shall come into operation on a date to be fixed by Proclamation, not being earlier than 6 months after the deposit on behalf of Australia of instruments of ratification of the Conventions referred to in this Act.
 5  Interpretation
 	(1)	In this Act:
@@ -2842,11 +2842,6 @@ Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001
 6 Apr 2001
 S. 4(1), (2) and Schedule 30: (c)
 S. 4(1), (2) [see Table A]
-International Criminal Court (Consequential Amendments) Act 2002
-42, 2002
-27 June 2002
-Schedules 1-7: [see (d) and Note 2] Remainder: 28 June 2002
-—
 
 (a)	The Geneva Conventions Act 1957 was amended by Part IX (sections 18 and 19) only of the Director of Public Prosecutions (Consequential Amendments) Act 1983, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act shall come into operation, or shall be deemed to have come into operation, as the case requires, on the day on which the Director of Public Prosecutions Act 1983 comes into operation.
@@ -2856,19 +2851,6 @@ Schedules 1-7: [see (d) and Note 2] Remainder: 28 June 2002
 	(1)	Subject to this section, this Act commences at the later of the following times:
 	(a)	immediately after the commencement of item 15 of Schedule 1 to the Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000;
 	Item 15 commenced on 24 May 2001.
-(d)	The Geneva Conventions Act 1957 was amended by Schedule 3 only of the International Criminal Court (Consequential Amendments) Act 2002, subsection 2(1) (item 2) of which provides as follows:
-	(1)	Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
-
-Commencement information
-Column 1
-Column 2
-Column 3
-Provision(s)
-Commencement
-Date/Details
-2.  Schedules 1 to 7
-The day fixed under column 2 of item 2 of the table in subsection 2(1) of the International Criminal Court Act 2002
-[see Note 2]
 
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
@@ -2932,14 +2914,6 @@ Heading to Schedule 4
 ad. No. 27, 1991
 Schedule 5	
 ad. No. 27, 1991  
-Note 2
-International Criminal Court (Consequential Amendments) Act 2002 (No. 42 2002)
-The following amendment commence on proclamation:
-Schedule 3
-1  Part II
-Repeal the Part.
-At at 29 July 2002 the amendment is not incorporated in this compilaiton.
-
 Table A
 Application, saving or transitional provisions
 Law and Justice Legislation Amendment (Application of Criminal Code) Act 2001 (No. 24, 2001)
