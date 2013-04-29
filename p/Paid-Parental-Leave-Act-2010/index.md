@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00487/Html/62b25c35-77e7-4e71-962d-62cdec18f98d_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00464/Html/d2e91241-6e82-4637-b152-986e3c3750db_files/image001.gif)
 
 # Paid Parental Leave Act 2010
 
 **Act No. 104 of 2010 as amended**
 
-This compilation was prepared on 4 July 2011
- taking into account amendments up to Act No. 52 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -1962,7 +1962,7 @@ There are other eligibility criteria that apply for more unusual cases—see sub
 
 Division 3 has the work test. To satisfy the work test, a person must have performed enough paid work or taken enough paid leave in a particular period before the day the child was born (for a primary claimant) or the day the person became the child’s primary carer (for a secondary claimant).
 
-Division 4 has the income test. To satisfy the income test, the person’s income for a particular income year must not be more than the PPL income limit (which is $150,000 until 30 June 2014 and then indexed).
+Division 4 has the income test. To satisfy the income test, the person’s income for a particular income year must not be more than the PPL income limit (which is $150,000 until 30 June 2012 and then indexed).
 
 Division 5 has the Australian residency test. To satisfy this test, the person must be an Australian resident or be in a special class of visa holder.
 
@@ -2188,7 +2188,7 @@ Note:          Schedule 3 to the Family Assistance Act sets 
 
                    The **_PPL income limit_** that applies on a day is:
 
-                     (a)  if the day is on or after 1 October 2010 but before 1 July 2014—$150,000; and
+                     (a)  if the day is on or after 1 October 2010 but before 1 July 2012—$150,000; and
 
                      (b)  if the day is on or after an indexation day (the **_relevant indexation day_**) but before the next indexation day—the indexed amount on the relevant indexation day worked out under Subdivision B.
 
@@ -2196,7 +2196,7 @@ Note:          Schedule 3 to the Family Assistance Act sets 
 
 ##### <a id="42"></a>42  Indexation of the PPL income limit
 
-             (1)  The amount of the PPL income limit in section 41 is to be indexed under this Subdivision on 1 July each year (the **_indexation day_**) starting on 1 July 2014.
+             (1)  The amount of the PPL income limit in section 41 is to be indexed under this Subdivision on 1 July each year (the **_indexation day_**) starting on 1 July 2012.
 
 Working out the indexed amount for the PPL income limit
 
@@ -2220,7 +2220,7 @@ Step 4.   Use section 44 to round off the provisional indexed amount: the 
 
              (1)  The **_indexation factor_** is worked out using the following formula and applying subsections (2) and (3):
 
-![](http://www.comlaw.gov.au/Details/C2011C00487/Html/62b25c35-77e7-4e71-962d-62cdec18f98d_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00464/Html/d2e91241-6e82-4637-b152-986e3c3750db_files/image002.gif)
 
 where:
 
@@ -5405,7 +5405,7 @@ Working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00487/Html/62b25c35-77e7-4e71-962d-62cdec18f98d_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00464/Html/d2e91241-6e82-4637-b152-986e3c3750db_files/image003.gif)
 
 where:
 
@@ -7469,8 +7469,6 @@ Note:          Notice of decisions can also be given electroni
 
 The _Paid Parental Leave Act 2010_ as shown in this compilation comprises Act No. 104, 2010 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
-
 ### Table of Acts
 
 <table>
@@ -7531,7 +7529,7 @@ of Assent</div>
     <div>22 Mar 2011</div>
   </td>
   <td>
-    <div>Schedule 6 (item 131): 19 Apr 2011</div>
+    <div>Schedule 6 (item 131): 19 Apr 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -7549,40 +7547,6 @@ of Assent</div>
   </td>
   <td>
     <div>Schedule 4 (items 468–505): 1 July 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 901) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance and Other Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>52, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 3–5): 30 June 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -7642,78 +7606,6 @@ of Assent</div>
   </td>
   <td>
     <div>am. Nos. 5 and 32, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Chapter 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2‑3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 52, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 52, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 52, 2011</div>
   </td>
 </tr>
 <tr>
@@ -8062,37 +7954,5 @@ Part 5-3</div>
     <div>am. No. 32, 2011</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 901  Section 6 (subparagraph (a)(i) of the definition of _insolvent_)
-
-Omit “(within the meaning of the _Corporations Act 2001_)”.
-
-As at 4 July 2011 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
