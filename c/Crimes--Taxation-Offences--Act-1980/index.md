@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2006C00536/Html/CrimesTaxationOffences1980WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00417/Html/4D7B6A341EEEE3C1CA2571A80012C79B/$FILE/image001.gif)
 
 # Crimes (Taxation Offences) Act 1980
 
 **Act No. 156 of 1980 as amended**
 
-This compilation was prepared on 25 September 2006
- taking into account amendments up to Act No. 101 of 2006
+This compilation was prepared on 7 July 2006
+taking into account amendments up to Act No. 73 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -30,7 +31,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4](#4).            Secrecy
 
-**Part II—Offences relating to income tax**
+**Part II—Offences relating to old sales tax**
 
 [5](#5).            Arrangements to avoid payment of old sales tax
 
@@ -48,6 +49,14 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12](#12).          Additional penalty
 
+**Part IIA—Offences relating to sales tax payable under the Sales Tax Assessment Act 1992**
+
+[12A](#12A).       Application of Parts I and II in relation to sales tax payable under the _Sales Tax Assessment Act 1992_
+
+**Part III—Offences relating to income tax**
+
+[13](#13).          Application of Part I and Part II in relation to income tax
+
 **Part IV—Offences relating to fringe benefits tax**
 
 [14](#14).          Application of Part I and Part II in relation to fringe benefits tax
@@ -55,6 +64,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Part V—Offences relating to petroleum resource rent tax**
 
 [15](#15).          Application of Part I and Part II in relation to petroleum resource rent tax
+
+**Part VI—Offences relating to training guarantee charge**
+
+[16](#16).          Application of Parts I and II in relation to training guarantee charge
 
 **Part VII—Offences relating to superannuation guarantee charge**
 
@@ -74,6 +87,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to certain offences in relation to taxation
 
 ## Part I—Preliminary
@@ -90,7 +104,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="australian-instal"></a>**_Australian installation_** means an installation (within the meaning of the _Customs Act 1901_) that is deemed by section 5C of the _Customs Act 1901_ to be part of Australia.
+                    <a name="australian-instal"></a>**_Australian installation_** means an installation within the meaning of the _Sales Tax Assessment Act (No. 1) 1930_ that is deemed by virtue of section 3C of that Act to be part of Australia.
 
                     <a name="commission"></a>**_Commissioner_** means the Commissioner of Taxation.
 
@@ -118,19 +132,21 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  income tax, imposed as such by any Act, as assessed under the Income Tax Assessment Act; and
 
-                    (aa)  any amount payable to the Commissioner under former Part IIIAA of the Income Tax Assessment Act; and
+                    (aa)  any amount payable to the Commissioner under Part IIIAA of the Income Tax Assessment Act; and
 
-                     (b)  additional income tax payable under section 163AA, section 170AA, subsection 204(3), former subsection 221AZMAA(1), former subsection 221AZP(1), former subsection 221YD(3), former section 221YDB or former Part VII of the Income Tax Assessment Act; and
+                     (b)  additional income tax payable under section 163AA, section 170AA, subsection 204(3), subsection 221AZMAA(1), subsection 221AZP(1), subsection 221YD(3), section 221YDB or Part VII of the Income Tax Assessment Act; and
 
-                     (c)  an instalment of income tax payable under former Division 1A of Part VI of the Income Tax Assessment Act; and
+                     (c)  an instalment of income tax payable under Division 1A of Part VI of the Income Tax Assessment Act; and
 
-                    (ca)  any initial payment of income tax that is required to be made under former Division 1B of Part VI of the Income Tax Assessment Act; and
+                    (ca)  any initial payment of income tax that is required to be made under Division 1B of Part VI of the Income Tax Assessment Act; and
 
-                    (cb)  any amount payable to the Commissioner under former Division 1C of Part VI of the Income Tax Assessment Act;
+                    (cb)  any amount payable to the Commissioner under Division 1C of Part VI of the Income Tax Assessment Act;
 
-                      (f)  any amount of provisional tax payable under former Division 3 of Part VI of the Income Tax Assessment Act; and
+                     (d)  any amount payable to the Commissioner under subsection 21EAA(1) or section 220AAE, 220AAM or 220AAR of the Income Tax Assessment Act; and
 
-                     (g)  any amount payable to the Commissioner under former subsection 220AS(1) or 221YHH(1), former subsection 221YHZC(3) or 221YHZD(1), (1A) or (1B), former subparagraph 221YHZD(2)(b)(ii), former subsection 221YN(1) or (4), 221YQ(1), 221ZC(1) or (4), 221ZD(1), 221ZN(1) or 221ZO(1) or former section 221ZP of the Income Tax Assessment Act; and
+                      (f)  any amount of provisional tax payable under Division 3 of Part VI of the Income Tax Assessment Act; and
+
+                     (g)  any amount payable to the Commissioner under subsection 220AS(1) or 221YHH(1), subsection 221YHZC(3) or 221YHZD(1), (1A) or (1B), subparagraph 221YHZD(2)(b)(ii), subsection 221YN(1) or (4), 221YQ(1), 221ZC(1) or (4), 221ZD(1), 221ZN(1) or 221ZO(1) or section 221ZP of the Income Tax Assessment Act; and
 
                     (ga)  any amount payable to the Commissioner under Subdivision 16-A or 16-B in Schedule 1 to the _Taxation Administration Act 1953_; and
 
@@ -146,6 +162,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="law"></a><a name="luxuri-car-tax"></a>**_luxury car tax_** **_law_** has the meaning given by section 27-1 of the Luxury Car Tax Act.
 
+                    <a name="old-sale-tax"></a>**_old sales tax_** means tax imposed under the name of sales tax by any Act, but does not include tax payable under the _Sales Tax Assessment Act 1992_.
+
                     <a name="petroleum-resourc-rent-tax"></a>**_petroleum resource rent tax_** means:
 
                      (a)  tax imposed by the _Petroleum Resource Rent Tax Act 1987_, as assessed under the Petroleum Resource Rent Tax Assessment Act;
@@ -156,6 +174,12 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="petroleum-resourc-rent-tax-assess-act"></a>**_Petroleum Resource Rent Tax Assessment Act_** means the _Petroleum Resource Rent Tax Assessment Act 1987_.
 
+                    <a name="sale-tax-assess-act"></a>**_Sales Tax Assessment Acts_** means:
+
+                     (a)  the Acts providing for the assessment of old sales tax; and
+
+                     (b)  the _Sales Tax Procedure Act 1934_.
+
                     <a name="second-commission"></a>**_Second Commissioner_** means a Second Commissioner of Taxation.
 
                     <a name="secur"></a>**_secure_** includes achieve the result.
@@ -163,6 +187,10 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="superannu-guarante-administr-act"></a>**_Superannuation Guarantee (Administration) Act_** means the _Superannuation Guarantee (Administration) Act 1992_.
 
                     <a name="superannu-guarante-charg"></a>**_superannuation guarantee charge_** means charge imposed by the _Superannuation Guarantee Charge Act 1992_, as assessed under the Superannuation Guarantee (Administration) Act, and includes additional superannuation guarantee charge payable under section 49 or Part 7 of the Superannuation Guarantee (Administration) Act.
+
+                    <a name="train-guarante-administr-act"></a>**_Training Guarantee (Administration) Act_** means the _Training Guarantee (Administration) Act 1990_.
+
+                    <a name="train-guarante-charg"></a>**_training guarantee charge_** means charge imposed by the _Training Guarantee Act 1990_, as assessed under the Training Guarantee (Administration) Act, and includes additional training guarantee charge payable under section 75 or Part 9 of the Training Guarantee (Administration) Act.
 
                     <a name="truste"></a>**_trustee_**, in addition to every person (including a company) appointed or constituted trustee by act of parties, by order or declaration of a court or by operation of law, includes:
 
@@ -178,31 +206,31 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  In this Act:
 
-                     (a)  a reference to income tax payable by a company or trustee, in relation to the intention of a person in entering into, or the knowledge or belief of a person concerning, an arrangement or transaction, shall be read as a reference to some or all of the income tax due and payable by the company or trustee at the time when the arrangement or transaction is entered into;
+                     (a)  a reference to old sales tax payable by a company or trustee, in relation to the intention of a person in entering into, or the knowledge or belief of a person concerning, an arrangement or transaction, shall be read as a reference to some or all of the old sales tax due and payable by the company or trustee at the time when the arrangement or transaction is entered into;
 
-                     (b)  a reference to future income tax payable by a company or trustee, in relation to the intention of a person in entering into, or the knowledge or belief of a person concerning, an arrangement or transaction, shall be read as a reference to some or all of:
+                     (b)  a reference to future old sales tax payable by a company or trustee, in relation to the intention of a person in entering into, or the knowledge or belief of a person concerning, an arrangement or transaction, shall be read as a reference to some or all of:
 
-                              (i)  the income tax (if any) that will become payable by the company or trustee, after the arrangement or transaction is entered into, in relation to transactions entered into, operations carried out and acts done by the company or trustee before the arrangement or transaction is entered into; and
+                              (i)  the old sales tax (if any) that will become payable by the company or trustee, after the arrangement or transaction is entered into, in relation to transactions entered into, operations carried out and acts done by the company or trustee before the arrangement or transaction is entered into; and
 
-                             (ii)  the income tax that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into:
+                             (ii)  the old sales tax that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into:
 
                                         (A)  in relation to likely transactions, operations and acts of the company or trustee; or
 
-                                        (B)  by reason of the Commissioner altering the sale value of goods in pursuance of a power to do so conferred on him or her by the Income Tax Assessment Act; and
+                                        (B)  by reason of the Commissioner altering the sale value of goods in pursuance of a power to do so conferred on him or her by some one or other of the Sales Tax Assessment Acts; and
 
-                     (c)  a reference to income tax moneys, in relation to a company or trustee, shall be read as a reference to:
+                     (c)  a reference to old sales tax moneys, in relation to a company or trustee, shall be read as a reference to:
 
-                              (i)  the income tax payable by the company or trustee;
+                              (i)  the old sales tax payable by the company or trustee;
 
-                             (ii)  further income tax payable by the company or trustee under the Income Tax Assessment Act;
+                             (ii)  further sales tax payable by the company or trustee under any of the Sales Tax Assessment Acts;
 
-                            (iii)  additional tax payable by the company or trustee under the Income Tax Assessment Act;
+                            (iii)  additional tax payable by the company or trustee under any of the Sales Tax Assessment Acts;
 
-                            (iv)  costs awarded by a court against the company or trustee in a proceeding by the Crown for the recovery of a penalty under the Income Tax Assessment Act; and
+                            (iv)  costs awarded by a court against the company or trustee in a proceeding by the Crown for the recovery of a penalty under any of the Sales Tax Assessment Acts; and
 
-                             (v)  costs awarded by a court against the company or trustee in a proceeding for the recovery of income tax, further income tax referred to in subparagraph (ii) or additional tax referred to in subparagraph (iii) payable by the company or trustee.
+                             (v)  costs awarded by a court against the company or trustee in a proceeding for the recovery of old sales tax, further sales tax referred to in subparagraph (ii) or additional tax referred to in subparagraph (iii) payable by the company or trustee.
 
-             (3)  In this Act, a reference to securing the inability or likely inability of a company or trustee to pay income tax payable by the company or trustee or future income tax payable by the company or trustee shall be read as including a reference to securing the continuation of an inability or likely inability of a company or trustee to pay income tax payable by the company or trustee or future income tax payable by the company or trustee, as the case may be.
+             (3)  In this Act, a reference to securing the inability or likely inability of a company or trustee to pay old sales tax payable by the company or trustee or future old sales tax payable by the company or trustee shall be read as including a reference to securing the continuation of an inability or likely inability of a company or trustee to pay old sales tax payable by the company or trustee or future old sales tax payable by the company or trustee, as the case may be.
 
              (4)  In this Act:
 
@@ -220,9 +248,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                             (iii)  whether or not enforceable, or intended to be enforceable, by legal proceedings; and
 
-                     (e)  a reference to income tax, income tax moneys or future income tax payable by a trustee shall be read as a reference to income tax, income tax moneys or future income tax payable by a person (including a company) in the capacity of a trustee, whether or not the person is personally liable for the income tax or income tax moneys or will be personally liable for the future income tax, as the case may be.
+                     (e)  a reference to old sales tax, old sales tax moneys or future old sales tax payable by a trustee shall be read as a reference to old sales tax, old sales tax moneys or future old sales tax payable by a person (including a company) in the capacity of a trustee, whether or not the person is personally liable for the old sales tax or old sales tax moneys or will be personally liable for the future old sales tax, as the case may be.
 
-             (5)  For the purposes of subsection 10(2), section 11 and section 12, the liability of a company or trustee to pay income tax moneys in respect of a particular act or transaction shall not be taken not to be finally determined by reason only of the possibility of the Commissioner determining that further income tax is payable in relation to that act or transaction.
+             (5)  For the purposes of subsection 10(2), section 11 and section 12, the liability of a company or trustee to pay old sales tax moneys in respect of a particular act or transaction shall not be taken not to be finally determined by reason only of the possibility of the Commissioner determining that further old sales tax is payable in relation to that act or transaction.
 
 ##### <a id="3A"></a>3A  Extension to external Territories and Australian installations
 
@@ -236,17 +264,29 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (1)  Section 16 of the _Income Tax Assessment Act 1936_ has effect as if this Act were part of that Act.
 
+             (2)  Section 10 of the _Sales Tax Assessment Act (No. 1) 1930_(including that section as having effect for the purposes of any of the other Sales Tax Assessment Acts) has effect as if this Act were part of Part II of the _Sales Tax Assessment Act (No. 1) 1930_.
+
+          (2A)  Section 110 of the _Sales Tax Assessment Act 1992_ has effect as if this Act were part of that Act.
+
+             (3)  Section 39 of the Training Guarantee (Administration) Act has effect as if this Act were part of that Act.
+
              (4)  Section 45 of the Superannuation Guarantee (Administration) Act has effect as if this Act were part of that Act.
 
              (5)  Section 355-5 in Schedule 1 to the _Taxation Administration Act 1953_ has effect as if this Act were part of that Act.
 
-## Part II—Offences relating to income tax
+## Part II—Offences relating to old sales tax
 
 _Note:       The offences in this Part are applied to other taxes by the later Parts of this Act. These taxes are:_
+
+(a)              sales tax payable under the _Sales Tax Assessment Act 1992_ (see Part IIA);
+
+(b)              income tax (see Part III);
 
 (c)              fringe benefits tax (see Part IV);
 
 (d)              petroleum resource rent tax (see Part V);
+
+(e)              training guarantee charge (see Part VI);
 
 (f)               superannuation guarantee charge (see Part VII);
 
@@ -258,13 +298,13 @@ _Note:       The offences in this Part are applied to other taxes by
 
 ##### <a id="5"></a>5  Arrangements to avoid payment of old sales tax
 
-             (1)  Where a person enters into an arrangement or transaction with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay income tax payable by the company or trustee, the person is guilty of an offence.
+             (1)  Where a person enters into an arrangement or transaction with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay old sales tax payable by the company or trustee, the person is guilty of an offence.
 
              (2)  Where:
 
-                     (a)  a person enters into an arrangement or transaction with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay future income tax payable by the company or trustee; and
+                     (a)  a person enters into an arrangement or transaction with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay future old sales tax payable by the company or trustee; and
 
-                     (b)  income tax becomes due and payable by the company or trustee;
+                     (b)  old sales tax becomes due and payable by the company or trustee;
 
 the person is guilty of an offence.
 
@@ -278,7 +318,7 @@ the person is guilty of an offence.
 
                      (b)  is, in any way, by act or omission, directly or indirectly concerned in, or party to, the entry by another person (including a company) into an arrangement or transaction;
 
-knowing or believing that the arrangement or transaction is being entered into by the other person with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay income tax payable by the company or trustee, the first-mentioned person is guilty of an offence.
+knowing or believing that the arrangement or transaction is being entered into by the other person with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay old sales tax payable by the company or trustee, the first-mentioned person is guilty of an offence.
 
              (2)  Where:
 
@@ -288,9 +328,9 @@ knowing or believing that the arrangement or transaction is being entered into b
 
                              (ii)  is, in any way, by act or omission, directly or indirectly concerned in, or party to, the entry by another person (including a company) into an arrangement or transaction;
 
-                            knowing or believing that the arrangement or transaction is being entered into by the other person with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay future income tax payable by the company or trustee; and
+                            knowing or believing that the arrangement or transaction is being entered into by the other person with the intention of securing, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay future old sales tax payable by the company or trustee; and
 
-                     (b)  income tax becomes due and payable by the company or trustee;
+                     (b)  old sales tax becomes due and payable by the company or trustee;
 
 the first-mentioned person is guilty of an offence.
 
@@ -306,7 +346,7 @@ the first-mentioned person is guilty of an offence.
 
                      (c)  is, in any way, by act or omission, directly or indirectly concerned in, or party to, the entry by another person (including a company) into an arrangement or transaction;
 
-knowing or believing that the arrangement or transaction will secure, or will be likely to secure, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay income tax payable by the company or trustee, the first-mentioned person is guilty of an offence.
+knowing or believing that the arrangement or transaction will secure, or will be likely to secure, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay old sales tax payable by the company or trustee, the first-mentioned person is guilty of an offence.
 
                     Penalty:  Imprisonment for 10 years or 1,000 penalty units, or both.
 
@@ -320,9 +360,9 @@ knowing or believing that the arrangement or transaction will secure, or will be
 
                             (iii)  is, in any way, by act or omission, directly or indirectly concerned in, or party to, the entry by another person (including a company) into an arrangement or transaction;
 
-                            knowing or believing that the arrangement or transaction will secure, or will be likely to secure, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay future income tax payable by the company or trustee; and
+                            knowing or believing that the arrangement or transaction will secure, or will be likely to secure, either generally or for a limited period, that a company or trustee (whether or not a party to the arrangement or transaction) will be unable, or will be likely to be unable, having regard to other debts of the company or trustee, to pay future old sales tax payable by the company or trustee; and
 
-                     (b)  income tax becomes due and payable by the company or trustee;
+                     (b)  old sales tax becomes due and payable by the company or trustee;
 
 the first-mentioned person is guilty of an offence.
 
@@ -350,27 +390,27 @@ neither subsection (1) nor subsection (2) applies to or in relation to that 
 
                    Where:
 
-                     (a)  a company or trustee enters into a transaction by way of selling or leasing goods to a person (including another company) in such circumstances that income tax will become payable by the company or trustee in relation to the transaction;
+                     (a)  a company or trustee enters into a transaction by way of selling or leasing goods to a person (including another company) in such circumstances that old sales tax will become payable by the company or trustee in relation to the transaction;
 
                      (b)  a person is, in any way, by act or omission, directly or indirectly, concerned in, or party to, the entry by the company or trustee into that transaction knowing, or having reasonable grounds for believing:
 
                               (i)  that, or that it is likely that:
 
-                                        (A)  the sale value of the goods, for the purposes of the Income Tax Assessment Act, will be altered by the Commissioner in pursuance of a power to do so conferred on him or her by some one or other of those Acts; or
+                                        (A)  the sale value of the goods, for the purposes of some one or other of the Sales Tax Assessment Acts, will be altered by the Commissioner in pursuance of a power to do so conferred on him or her by some one or other of those Acts; or
 
                                         (B)  in a case to which clause (A) does not apply—the whole, or a substantial part, of the price payable for selling or leasing the goods has been, or is to be, paid to a person (including a company) other than the first-mentioned company or trustee otherwise than on account of the first-mentioned company or trustee, whether or not as agent for the first-mentioned company or trustee;
 
-                             (ii)  that income tax will become payable in relation to the transaction; and
+                             (ii)  that old sales tax will become payable in relation to the transaction; and
 
-                            (iii)  that, if income tax becomes due and payable in relation to the transaction, the company or trustee will be unable, or will be likely to be unable, at the time when the income tax becomes due and payable, to pay some or all of the aggregate of:
+                            (iii)  that, if old sales tax becomes due and payable in relation to the transaction, the company or trustee will be unable, or will be likely to be unable, at the time when the old sales tax becomes due and payable, to pay some or all of the aggregate of:
 
-                                        (A)  the income tax that will then be payable by the company or trustee in relation to the transaction;
+                                        (A)  the old sales tax that will then be payable by the company or trustee in relation to the transaction;
 
-                                        (B)  the income tax (if any) that will then be payable by the company or trustee in relation to the previous transactions, operations and acts of the company or trustee (if any); and
+                                        (B)  the old sales tax (if any) that will then be payable by the company or trustee in relation to the previous transactions, operations and acts of the company or trustee (if any); and
 
-                                        (C)  the income tax that may reasonably be expected by the person first mentioned in this paragraph to be then payable by the company or trustee by reason of the Commissioner altering the sale value of any goods in pursuance of a power to do so conferred on him or her by the Income Tax Assessment Act; and
+                                        (C)  the old sales tax that may reasonably be expected by the person first mentioned in this paragraph to be then payable by the company or trustee by reason of the Commissioner altering the sale value of any goods in pursuance of a power to do so conferred on him or her by some one or other of the Sales Tax Assessment Acts; and
 
-                     (c)  income tax becomes due and payable by the company or trustee in relation to the transaction;
+                     (c)  old sales tax becomes due and payable by the company or trustee in relation to the transaction;
 
 the person first mentioned in paragraph (b) is guilty of an offence.
 
@@ -384,31 +424,31 @@ the person first mentioned in paragraph (b) is guilty of an offence.
 
 ##### <a id="10"></a>10  Evidence
 
-             (1)  In proceedings under this Act (including proceedings for the purpose of obtaining an order under section 12), a certificate purporting to be signed by the Commissioner, a Second Commissioner or a Deputy Commissioner and stating that an amount of income tax moneys is or was, or became, due and payable by a company, or by a trustee, on a date specified in the certificate is, subject to subsection (2), conclusive evidence of the matters stated in the certificate.
+             (1)  In proceedings under this Act (including proceedings for the purpose of obtaining an order under section 12), a certificate purporting to be signed by the Commissioner, a Second Commissioner or a Deputy Commissioner and stating that an amount of old sales tax moneys is or was, or became, due and payable by a company, or by a trustee, on a date specified in the certificate is, subject to subsection (2), conclusive evidence of the matters stated in the certificate.
 
              (2)  Where:
 
-                     (a)  a certificate is given by the Commissioner, a Second Commissioner or a Deputy Commissioner under subsection (1) stating that an amount of income tax moneys is or was, or became, due and payable by a company or by a trustee; and
+                     (a)  a certificate is given by the Commissioner, a Second Commissioner or a Deputy Commissioner under subsection (1) stating that an amount of old sales tax moneys is or was, or became, due and payable by a company or by a trustee; and
 
-                     (b)  before the certificate was given, it was finally determined, or after the certificate was given it is finally determined, for the purposes of the Income Tax Assessment Act, that the income tax moneys, or part of the income tax moneys, to which the certificate relates did not become payable by the company or trustee;
+                     (b)  before the certificate was given, it was finally determined, or after the certificate was given it is finally determined, for the purposes of some one or other of the Sales Tax Assessment Acts, that the old sales tax moneys, or part of the old sales tax moneys, to which the certificate relates did not become payable by the company or trustee;
 
-the certificate is of no effect, or ceases to have effect, as the case requires, in so far as it would, apart from this subsection, be conclusive evidence that the income tax moneys or the part of the income tax moneys, as the case may be, referred to in paragraph (b) were or was, or became, due and payable by the company or trustee on the date specified in the certificate.
+the certificate is of no effect, or ceases to have effect, as the case requires, in so far as it would, apart from this subsection, be conclusive evidence that the old sales tax moneys or the part of the old sales tax moneys, as the case may be, referred to in paragraph (b) were or was, or became, due and payable by the company or trustee on the date specified in the certificate.
 
-             (3)  A reference in subsections (1) and (2), in relation to a company or trustee, to income tax moneys shall be read as a reference to income tax moneys in respect of which a notification (however described) has been given to the company or trustee under the Income Tax Assessment Act.
+             (3)  A reference in subsections (1) and (2), in relation to a company or trustee, to old sales tax moneys shall be read as a reference to old sales tax moneys in respect of which a notification (however described) has been given to the company or trustee under some one or other of the Sales Tax Assessment Acts.
 
 ##### <a id="11"></a>11  Stay of proceedings
 
              (1)  Where, in any proceedings under this Act (including proceedings for the purpose of obtaining an order under section 12), it appears to the court or magistrate that:
 
-                     (a)  the liability of a company or trustee in respect of some income tax moneys has not been finally determined for the purposes of the Income Tax Assessment Act; and
+                     (a)  the liability of a company or trustee in respect of some old sales tax moneys has not been finally determined for the purposes of some one or other of the Sales Tax Assessment Acts; and
 
-                     (b)  the final determination of the liability of the company or trustee in respect of those income tax moneys is relevant to the determination of the question whether a person is guilty of an offence against this Act;
+                     (b)  the final determination of the liability of the company or trustee in respect of those old sales tax moneys is relevant to the determination of the question whether a person is guilty of an offence against this Act;
 
 the court or magistrate shall stay the proceedings under this Act until:
 
-                     (c)  the liability of the company or trustee in respect of those income tax moneys is finally determined; or
+                     (c)  the liability of the company or trustee in respect of those old sales tax moneys is finally determined; or
 
-                     (d)  it is finally determined that the company or trustee became liable to pay some of those income tax moneys;
+                     (d)  it is finally determined that the company or trustee became liable to pay some of those old sales tax moneys;
 
 whichever first occurs.
 
@@ -416,13 +456,49 @@ whichever first occurs.
 
 ##### <a id="12"></a>12  Additional penalty
 
-             (1)  Where a person is convicted of an offence against this Act in relation to a company or trustee, the court may, in addition to imposing a penalty in respect of the offence, order the person to pay to the Commonwealth such amount as the court thinks fit but not exceeding the amount of the income tax moneys due and payable by the company or trustee on the date of the conviction, other than income tax moneys the liability of the company or trustee to pay which is not finally determined for the purposes of the Income Tax Assessment Act.
+             (1)  Where a person is convicted of an offence against this Act in relation to a company or trustee, the court may, in addition to imposing a penalty in respect of the offence, order the person to pay to the Commonwealth such amount as the court thinks fit but not exceeding the amount of the old sales tax moneys due and payable by the company or trustee on the date of the conviction, other than old sales tax moneys the liability of the company or trustee to pay which is not finally determined for the purposes of some one or other of the Sales Tax Assessment Acts.
 
-             (2)  Upon payment of an amount in satisfaction or part satisfaction of an order made under subsection (1) in relation to the income tax moneys payable by a company or trustee:
+             (2)  Upon payment of an amount in satisfaction or part satisfaction of an order made under subsection (1) in relation to the old sales tax moneys payable by a company or trustee:
 
-                     (a)  if the income tax moneys payable by the company or trustee at the time the payment is made exceeds the amount of the payment—the income tax moneys so payable shall be deemed to be reduced, in such manner as the Commissioner determines, by an amount equal to the amount of the payment; or
+                     (a)  if the old sales tax moneys payable by the company or trustee at the time the payment is made exceeds the amount of the payment—the old sales tax moneys so payable shall be deemed to be reduced, in such manner as the Commissioner determines, by an amount equal to the amount of the payment; or
 
-                     (b)  in any other case—the liability of the company or trustee in respect of the income tax moneys at the time the payment is made shall be deemed to be discharged.
+                     (b)  in any other case—the liability of the company or trustee in respect of the old sales tax moneys at the time the payment is made shall be deemed to be discharged.
+
+## Part IIA—Offences relating to sales tax payable under the Sales Tax Assessment Act 1992
+
+##### <a id="12A"></a>12A  Application of Parts I and II in relation to sales tax payable under the _Sales Tax Assessment Act 1992_
+
+                   Parts I and II have effect (with appropriate alterations) in relation to the _Sales Tax Assessment Act 1992_ in the same way as they have effect in relation to the Sales Tax Assessment Acts.
+
+## Part III—Offences relating to income tax
+
+##### <a id="13"></a>13  Application of Part I and Part II in relation to income tax
+
+             (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
+
+                     (a)  a reference in any of those provisions to old sales tax were a reference to income tax;
+
+                     (b)  a reference in any of those provisions to future old sales tax were a reference to future income tax;
+
+                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the Income Tax Assessment Act; and
+
+                     (d)  a reference in any of those provisions, in relation to a company or trustee, to old sales tax moneys were a reference to income tax moneys.
+
+             (2)  For the purposes of the application of the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1) of this section:
+
+                     (a)  a reference in any of those provisions to the income tax payable by a company or trustee, in relation to the intention of a person entering into, or the knowledge or belief of a person concerning, an arrangement or transaction shall be read as a reference to some or all of the income tax due and payable by the company or the trustee at the time when the arrangement or transaction was entered into;
+
+                     (b)  a reference in any of those provisions to future income tax payable by a company or trustee, in relation to the intention of a person entering into, or the knowledge or belief of a person concerning, an arrangement or transaction shall be read as a reference to some or all of the income tax that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into;
+
+                     (c)  a reference in any of those provisions, other than subsections 10(1) and (2), in relation to a company or trustee, to income tax moneys shall be read as a reference to:
+
+                              (i)  income tax payable by the company or trustee; and
+
+                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of income tax; and
+
+                     (d)  a reference in subsections 10(1) and (2) to income tax moneys shall be read as a reference to income tax that has been assessed under the Income Tax Assessment Act.
+
+             (3)  For the purposes of the application of subsection 10(2), section 11 and section 12 in accordance with the preceding provisions of this section, the liability of a company or trustee in respect of income tax moneys that have been assessed shall not be taken not to be finally determined by reason only of the possibility of the Commissioner amending the assessment (otherwise than as a result of an objection being allowed or to give effect to a decision of the Administrative Appeals Tribunal or a court).
 
 ## Part IV—Offences relating to fringe benefits tax
 
@@ -430,13 +506,13 @@ whichever first occurs.
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
 
-                     (a)  a reference in any of those provisions to income tax were a reference to fringe benefits tax;
+                     (a)  a reference in any of those provisions to old sales tax were a reference to fringe benefits tax;
 
-                     (b)  a reference in any of those provisions to future income tax were a reference to future fringe benefits tax;
+                     (b)  a reference in any of those provisions to future old sales tax were a reference to future fringe benefits tax;
 
-                     (c)  a reference in any of those provisions to the Income Tax Assessment Act were a reference to the Fringe Benefits Tax Assessment Act; and
+                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the Fringe Benefits Tax Assessment Act; and
 
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to income tax moneys were a reference to fringe benefits tax moneys.
+                     (d)  a reference in any of those provisions, in relation to a company or trustee, to old sales tax moneys were a reference to fringe benefits tax moneys.
 
              (2)  For the purposes of the application of the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1) of this section:
 
@@ -460,13 +536,13 @@ whichever first occurs.
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
 
-                     (a)  a reference in any of those provisions to income tax were a reference to petroleum resource rent tax;
+                     (a)  a reference in any of those provisions to old sales tax were a reference to petroleum resource rent tax;
 
-                     (b)  a reference in any of those provisions to future income tax were a reference to future petroleum resource rent tax;
+                     (b)  a reference in any of those provisions to future old sales tax were a reference to future petroleum resource rent tax;
 
-                     (c)  a reference in any of those provisions to the Income Tax Assessment Act were a reference to the Petroleum Resource Rent Tax Assessment Act; and
+                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the Petroleum Resource Rent Tax Assessment Act; and
 
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to income tax moneys were a reference to petroleum resource rent tax moneys.
+                     (d)  a reference in any of those provisions, in relation to a company or trustee, to old sales tax moneys were a reference to petroleum resource rent tax moneys.
 
              (2)  For the purposes of the application of the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1) of this section:
 
@@ -484,19 +560,49 @@ whichever first occurs.
 
              (3)  For the purposes of the application of subsection 10(2), section 11 and section 12 in accordance with the preceding provisions of this section, the liability of a company or trustee in respect of petroleum resource rent tax moneys that have been assessed shall not be taken not to be finally determined by reason only of the possibility of the Commissioner amending the assessment (otherwise than as a result of an objection being allowed or to give effect to a decision of the Administrative Appeals Tribunal or a court).
 
+## Part VI—Offences relating to training guarantee charge
+
+##### <a id="16"></a>16  Application of Parts I and II in relation to training guarantee charge
+
+             (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
+
+                     (a)  a reference in any of those provisions to old sales tax were a reference to training guarantee charge; and
+
+                     (b)  a reference in any of those provisions to future old sales tax were a reference to future training guarantee charge; and
+
+                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the Training Guarantee (Administration) Act; and
+
+                     (d)  a reference in any of those provisions, in relation to a company or trustee, to old sales tax moneys, were a reference to training guarantee charge moneys.
+
+             (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1):
+
+                     (a)  a reference in any of those provisions to the training guarantee charge payable by a company or trustee, in relation to the intention of a person’s entering into, or a person’s knowledge or belief concerning, an arrangement or transaction is to be read as a reference to some or all of the training guarantee charge due and payable by the company or the trustee at the time when the arrangement or transaction was entered into; and
+
+                     (b)  a reference in any of those provisions to future training guarantee charge payable by a company or trustee, in relation to the intention of a person’s entering into, or a person’s knowledge or belief concerning, an arrangement or transaction is to be read as a reference to some or all of the training guarantee charge that may reasonably be expected by that person to become payable by the company or trustee after the arrangement or transaction is entered into; and
+
+                     (c)  a reference in any of those provisions (other than subsections 10(1) and (2)), in relation to a company or trustee, to training guarantee charge moneys is to be read as a reference to:
+
+                              (i)  training guarantee charge payable by the company or trustee; and
+
+                             (ii)  costs ordered by a court against a company or trustee in a proceeding for the recovery of training guarantee charge; and
+
+                     (d)  a reference in subsections 10(1) and (2) to training guarantee charge moneys is to be read as a reference to training guarantee charge assessed under the Training Guarantee (Administration) Act.
+
+             (3)  In applying subsection 10(2) and sections 11 and 12 in accordance with subsections (1) and (2), the liability of a company or trustee in respect of training guarantee charge moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner’s amending the assessment (otherwise than as a result of allowing an objection or to give effect to a decision of the Administrative Appeals Tribunal or a court).
+
 ## Part VII—Offences relating to superannuation guarantee charge
 
 ##### <a id="17"></a>17  Application of Parts I and II in relation to superannuation guarantee charge
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
 
-                     (a)  a reference in any of those provisions to income tax were a reference to superannuation guarantee charge; and
+                     (a)  a reference in any of those provisions to old sales tax were a reference to superannuation guarantee charge; and
 
-                     (b)  a reference in any of those provisions to future income tax were a reference to future superannuation guarantee charge; and
+                     (b)  a reference in any of those provisions to future old sales tax were a reference to future superannuation guarantee charge; and
 
-                     (c)  a reference in any of those provisions to the Income Tax Assessment Act were a reference to the Superannuation Guarantee (Administration) Act; and
+                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the Superannuation Guarantee (Administration) Act; and
 
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to income tax moneys, were a reference to superannuation guarantee charge moneys.
+                     (d)  a reference in any of those provisions, in relation to a company or trustee, to old sales tax moneys, were a reference to superannuation guarantee charge moneys.
 
              (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1):
 
@@ -520,13 +626,13 @@ whichever first occurs.
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
 
-                     (a)  a reference in any of those provisions to income tax were a reference to GST; and
+                     (a)  a reference in any of those provisions to old sales tax were a reference to GST; and
 
-                     (b)  a reference in any of those provisions to future income tax were a reference to future GST; and
+                     (b)  a reference in any of those provisions to future old sales tax were a reference to future GST; and
 
-                     (c)  a reference in any of those provisions to the Income Tax Assessment Act were a reference to the GST law; and
+                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the GST law; and
 
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to income tax moneys, were a reference to GST moneys.
+                     (d)  a reference in any of those provisions, in relation to a company or trustee, to old sales tax moneys, were a reference to GST moneys.
 
              (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1):
 
@@ -550,13 +656,13 @@ whichever first occurs.
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
 
-                     (a)  a reference in any of those provisions to income tax were a reference to wine tax; and
+                     (a)  a reference in any of those provisions to old sales tax were a reference to wine tax; and
 
-                     (b)  a reference in any of those provisions to future income tax were a reference to future wine tax; and
+                     (b)  a reference in any of those provisions to future old sales tax were a reference to future wine tax; and
 
-                     (c)  a reference in any of those provisions to the Income Tax Assessment Act were a reference to the wine tax law; and
+                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the wine tax law; and
 
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to income tax moneys, were a reference to wine tax moneys.
+                     (d)  a reference in any of those provisions, in relation to a company or trustee, to old sales tax moneys, were a reference to wine tax moneys.
 
              (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1):
 
@@ -580,13 +686,13 @@ whichever first occurs.
 
              (1)  Without prejudice to their effect apart from this section, subsection 3(3), paragraph 3(4)(e) and the provisions of Part II (other than section 8 and subsection 10(3)) also have the effect they would have if:
 
-                     (a)  a reference in any of those provisions to income tax were a reference to luxury car tax; and
+                     (a)  a reference in any of those provisions to old sales tax were a reference to luxury car tax; and
 
-                     (b)  a reference in any of those provisions to future income tax were a reference to future luxury car tax; and
+                     (b)  a reference in any of those provisions to future old sales tax were a reference to future luxury car tax; and
 
-                     (c)  a reference in any of those provisions to the Income Tax Assessment Act were a reference to the luxury car tax law; and
+                     (c)  a reference in any of those provisions to some one or other of the Sales Tax Assessment Acts were a reference to the luxury car tax law; and
 
-                     (d)  a reference in any of those provisions, in relation to a company or trustee, to income tax moneys, were a reference to luxury car tax moneys.
+                     (d)  a reference in any of those provisions, in relation to a company or trustee, to old sales tax moneys, were a reference to luxury car tax moneys.
 
              (2)  In applying the provisions of Part II (other than section 8 and subsection 10(3)) in accordance with subsection (1):
 
@@ -603,6 +709,7 @@ whichever first occurs.
                      (d)  a reference in subsections 10(1) and (2) to luxury car tax moneys is to be read as a reference to luxury car tax payable under the Luxury Car Tax Act.
 
              (3)  In applying subsection 10(2) and sections 11 and 12 in accordance with subsections (1) and (2), the liability of a company or trustee in respect of luxury car tax moneys that have been assessed is not to be taken not to be finally determined merely because of the possibility of the Commissioner’s amending the assessment (otherwise than as a result of allowing an objection or to give effect to a decision of the Administrative Appeals Tribunal or a court).
+
 
 # Notes to the _Crimes (Taxation Offences) Act 1980_
 
@@ -630,11 +737,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -644,661 +753,665 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Crimes (Taxation Offences) Act 1980</div>
-  </td>
-  <td>
-    <div>156, 1980</div>
-  </td>
-  <td>
-    <div>4 Dec 1980</div>
-  </td>
-  <td>
-    <div>4 Dec 1980</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act 1984</div>
-  </td>
-  <td>
-    <div>123, 1984</div>
-  </td>
-  <td>
-    <div>19 Oct 1984</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
+<tbody>
+  <tr>
+    <td>
+      <div>Crimes (Taxation Offences) Act 1980</div>
+    </td>
+    <td>
+      <div>156, 1980</div>
+    </td>
+    <td>
+      <div>4 Dec 1980</div>
+    </td>
+    <td>
+      <div>4 Dec 1980</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act 1984</div>
+    </td>
+    <td>
+      <div>123, 1984</div>
+    </td>
+    <td>
+      <div>19 Oct 1984</div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
 S. 319(1): 14 Feb 1983 ( <i>see</i>s. 2(2)) 
-Remainder: 14 Dec 1984</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sales Tax Laws Amendment Act 1985</div>
-  </td>
-  <td>
-    <div>47, 1985</div>
-  </td>
-  <td>
-    <div>30 May 1985</div>
-  </td>
-  <td>
-    <div>Ss. 3, 4(2), 11, 12 and Part XI 
+Remainder: 14 Dec 1984 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sales Tax Laws Amendment Act 1985</div>
+    </td>
+    <td>
+      <div>47, 1985</div>
+    </td>
+    <td>
+      <div>30 May 1985</div>
+    </td>
+    <td>
+      <div>Ss. 3, 4(2), 11, 12 and Part XI 
 (ss. 54–56): 21 Aug 1981 
 Ss. 5, 18, 20, 22, 24, 28(2), 39, 40, 45, 48, 50, 51 and 53: 10 May 1985 ( <i>see</i>s. 2(3)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 2(4) and (5)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fringe Benefits Tax (Miscellaneous Provisions) Act 1986</div>
-  </td>
-  <td>
-    <div>41, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>S. 2(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Boards of Review (Transfer of Jurisdiction) Act 1986</div>
-  </td>
-  <td>
-    <div>48, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>S. 31, Parts VII and VIII 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 2(4) and (5)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fringe Benefits Tax (Miscellaneous Provisions) Act 1986</div>
+    </td>
+    <td>
+      <div>41, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986 ( <i>see</i>s. 2(1))</div>
+    </td>
+    <td>
+      <div>S. 2(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Boards of Review (Transfer of Jurisdiction) Act 1986</div>
+    </td>
+    <td>
+      <div>48, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td>
+      <div>S. 31, Parts VII and VIII 
 (ss. 45–56): 24 June 1986 ( <i>see</i>s. 2(2)) 
-Remainder: 1 July 1986</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
-  </td>
-  <td>
-    <div>76, 1986</div>
-  </td>
-  <td>
-    <div>24 June 1986</div>
-  </td>
-  <td>
-    <div>S. 3: Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 9</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 4) 1986</div>
-  </td>
-  <td>
-    <div>154, 1986</div>
-  </td>
-  <td>
-    <div>18 Dec 1986</div>
-  </td>
-  <td>
-    <div>Ss. 3–6, 8(a) and 9–11: 1 Jan 1987 
+Remainder: 1 July 1986 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1986</div>
+    </td>
+    <td>
+      <div>76, 1986</div>
+    </td>
+    <td>
+      <div>24 June 1986</div>
+    </td>
+    <td>
+      <div>S. 3: Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 9</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 4) 1986</div>
+    </td>
+    <td>
+      <div>154, 1986</div>
+    </td>
+    <td>
+      <div>18 Dec 1986</div>
+    </td>
+    <td>
+      <div>Ss. 3–6, 8(a) and 9–11: 1 Jan 1987 
 S. 8(c): 10 June 1986 
 Ss. 26(b), (c), 28, 40, 49(3) and (7): 1 Jan 1987 ( <i>see</i>s. 2(4) and <i>Gazette</i>1986, No. S650) 
 S. 55: 1 Mar 1987 ( <i>see Gazette</i>1987, No. S32) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment (Company Distributions) Act 1987</div>
-  </td>
-  <td>
-    <div>58, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>61, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sales Tax (Off-shore Installations) Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>140, 1987</div>
-  </td>
-  <td>
-    <div>18 Dec 1987</div>
-  </td>
-  <td>
-    <div>Parts II–IV 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment (Company Distributions) Act 1987</div>
+    </td>
+    <td>
+      <div>58, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>61, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sales Tax (Off-shore Installations) Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>140, 1987</div>
+    </td>
+    <td>
+      <div>18 Dec 1987</div>
+    </td>
+    <td>
+      <div>Parts II–IV 
 (ss. 3–8): 21 Jan 1987 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 2(3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Petroleum Resource Rent Tax (Miscellaneous Provisions) Act 1987</div>
-  </td>
-  <td>
-    <div>145, 1987</div>
-  </td>
-  <td>
-    <div>18 Dec 1987</div>
-  </td>
-  <td>
-    <div>15 Jan 1988 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment (Tax File Numbers) Act 1988</div>
-  </td>
-  <td>
-    <div>97, 1988</div>
-  </td>
-  <td>
-    <div>25 Nov 1988</div>
-  </td>
-  <td>
-    <div>Part II (ss. 3, 4): 1 Jan 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1988, No. S399) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 5) 1989</div>
-  </td>
-  <td>
-    <div>20, 1990</div>
-  </td>
-  <td>
-    <div>17 Jan 1990</div>
-  </td>
-  <td>
-    <div>S. 9 (in part): 10 Nov 1989 ( <i>see</i>s. 2(2)) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1990</div>
-  </td>
-  <td>
-    <div>58, 1990</div>
-  </td>
-  <td>
-    <div>16 June 1990</div>
-  </td>
-  <td>
-    <div>S. 11: 16 June 1990 ( <i>see</i>s. 2(2)) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 2(3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Petroleum Resource Rent Tax (Miscellaneous Provisions) Act 1987</div>
+    </td>
+    <td>
+      <div>145, 1987</div>
+    </td>
+    <td>
+      <div>18 Dec 1987</div>
+    </td>
+    <td>
+      <div>15 Jan 1988 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>S. 4</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment (Tax File Numbers) Act 1988</div>
+    </td>
+    <td>
+      <div>97, 1988</div>
+    </td>
+    <td>
+      <div>25 Nov 1988</div>
+    </td>
+    <td>
+      <div>Part II (ss. 3 and 4): 1 Jan 1989 ( <i>see</i>s. 2 and <i>Gazette</i>1988, No. S399) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 5) 1989</div>
+    </td>
+    <td>
+      <div>20, 1990</div>
+    </td>
+    <td>
+      <div>17 Jan 1990</div>
+    </td>
+    <td>
+      <div>S. 9 (in part): 10 Nov 1989 ( <i>see</i>s. 2(2)) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1990</div>
+    </td>
+    <td>
+      <div>58, 1990</div>
+    </td>
+    <td>
+      <div>16 June 1990</div>
+    </td>
+    <td>
+      <div>S. 11: 16 June 1990 ( <i>see</i>s. 2(2)) 
 S. 23: 4 Dec 1989 
 Part 5 (ss. 
 36–38): 11 May 1989 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Training Guarantee (Administration) Act 1990</div>
-  </td>
-  <td>
-    <div>60, 1990</div>
-  </td>
-  <td>
-    <div>16 June 1990</div>
-  </td>
-  <td>
-    <div>S. 43 and Part 10 (ss. 88–95): 31 Oct 1990 ( <i>see Gazette</i>1990, No. S272) 
-Remainder: 1 July 1990</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Guarantee (Consequential Amendments) Act 1992</div>
-  </td>
-  <td>
-    <div>92, 1992</div>
-  </td>
-  <td>
-    <div>30 June 1992</div>
-  </td>
-  <td>
-    <div>1 July 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Sales Tax Amendment (Transitional) Act 1992</div>
-  </td>
-  <td>
-    <div>118, 1992</div>
-  </td>
-  <td>
-    <div>30 Sept 1992</div>
-  </td>
-  <td>
-    <div>28 Oct 1992</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>17, 1993</div>
-  </td>
-  <td>
-    <div>9 June 1993</div>
-  </td>
-  <td>
-    <div>S. 61(2): <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 2) 1993</div>
-  </td>
-  <td>
-    <div>18, 1993</div>
-  </td>
-  <td>
-    <div>9 June 1993</div>
-  </td>
-  <td>
-    <div>S. 58: Royal Assent <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Insolvency (Tax Priorities) Legislation Amendment Act 1993</div>
-  </td>
-  <td>
-    <div>32, 1993</div>
-  </td>
-  <td>
-    <div>16 June 1993</div>
-  </td>
-  <td>
-    <div>Ss. 6, 7, 9, 11, 13, 15 and Part 5 (ss. 29, 30): 1 June 1993 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Training Guarantee (Administration) Act 1990</div>
+    </td>
+    <td>
+      <div>60, 1990</div>
+    </td>
+    <td>
+      <div>16 June 1990</div>
+    </td>
+    <td>
+      <div>S. 43 and Part 10 (ss. 88–95): 31 Oct 1990 ( <i>see Gazette</i>1990, No. S272) 
+Remainder: 1 July 1990 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Guarantee (Consequential Amendments) Act 1992</div>
+    </td>
+    <td>
+      <div>92, 1992</div>
+    </td>
+    <td>
+      <div>30 June 1992</div>
+    </td>
+    <td>
+      <div>1 July 1992</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Sales Tax Amendment (Transitional) Act 1992</div>
+    </td>
+    <td>
+      <div>118, 1992</div>
+    </td>
+    <td>
+      <div>30 Sept 1992</div>
+    </td>
+    <td>
+      <div>28 Oct 1992</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>17, 1993</div>
+    </td>
+    <td>
+      <div>9 June 1993</div>
+    </td>
+    <td>
+      <div>S. 61(2): <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 2) 1993</div>
+    </td>
+    <td>
+      <div>18, 1993</div>
+    </td>
+    <td>
+      <div>9 June 1993</div>
+    </td>
+    <td>
+      <div>S. 58: Royal Assent <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Insolvency (Tax Priorities) Legislation Amendment Act 1993</div>
+    </td>
+    <td>
+      <div>32, 1993</div>
+    </td>
+    <td>
+      <div>16 June 1993</div>
+    </td>
+    <td>
+      <div>Ss. 6, 7, 9, 11, 13, 15 and Part 5 (ss. 29, 30): 1 June 1993 
 Part 4 (ss. 
 20–28): 1 July 1993 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1993</div>
-  </td>
-  <td>
-    <div>118, 1993</div>
-  </td>
-  <td>
-    <div>24 Dec 1993</div>
-  </td>
-  <td>
-    <div>Part 2 (ss. 3–6): Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4 and 6</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1994</div>
-  </td>
-  <td>
-    <div>138, 1994</div>
-  </td>
-  <td>
-    <div>28 Nov 1994</div>
-  </td>
-  <td>
-    <div>S. 7(1): Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1995</div>
-  </td>
-  <td>
-    <div>170, 1995</div>
-  </td>
-  <td>
-    <div>16 Dec 1995</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 59, 60, 64): Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 64)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 44–46): Royal Assent <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes and Other Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>20, 1997</div>
-  </td>
-  <td>
-    <div>7 Apr 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 3): Royal Assent <i>(I)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Income Tax (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>39, 1997</div>
-  </td>
-  <td>
-    <div>17 Apr 1997</div>
-  </td>
-  <td>
-    <div>1 July 1997</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 3) 1998</div>
-  </td>
-  <td>
-    <div>47, 1998</div>
-  </td>
-  <td>
-    <div>23 Jun 1998</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 4 and 5): Royal Assent <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Indirect Tax and Consequential Amendments) Act 1999</div>
-  </td>
-  <td>
-    <div>176, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 8 (items 3–14): <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Pay As You Go) Act 1999</div>
-  </td>
-  <td>
-    <div>178, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 6, 8, 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1993</div>
+    </td>
+    <td>
+      <div>118, 1993</div>
+    </td>
+    <td>
+      <div>24 Dec 1993</div>
+    </td>
+    <td>
+      <div>Part 2 (ss. 3–6): Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4 and 6</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1994</div>
+    </td>
+    <td>
+      <div>138, 1994</div>
+    </td>
+    <td>
+      <div>28 Nov 1994</div>
+    </td>
+    <td>
+      <div>S. 7(1): Royal Assent <i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1995</div>
+    </td>
+    <td>
+      <div>170, 1995</div>
+    </td>
+    <td>
+      <div>16 Dec 1995</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 59, 60, 64): Royal Assent <i>(g)</i></div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 64)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 5 (items 44–46): Royal Assent <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Crimes and Other Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>20, 1997</div>
+    </td>
+    <td>
+      <div>7 Apr 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 3): Royal Assent <i>(I)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Income Tax (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>39, 1997</div>
+    </td>
+    <td>
+      <div>17 Apr 1997</div>
+    </td>
+    <td>
+      <div>1 July 1997</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 3) 1998</div>
+    </td>
+    <td>
+      <div>47, 1998</div>
+    </td>
+    <td>
+      <div>23 Jun 1998</div>
+    </td>
+    <td>
+      <div>Schedule 4 (items 4 and 5): Royal Assent <i>(j)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Indirect Tax and Consequential Amendments) Act 1999</div>
+    </td>
+    <td>
+      <div>176, 1999</div>
+    </td>
+    <td>
+      <div>22 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 8 (items 3–14): <i>(k)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Pay As You Go) Act 1999</div>
+    </td>
+    <td>
+      <div>178, 1999</div>
+    </td>
+    <td>
+      <div>22 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 6, 8, 
 70–78): 1 July 2000 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 2(1A) (ad. by 179, 1999, Sch. 10 (item 19))</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act 1999</div>
-  </td>
-  <td>
-    <div>179, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 10 (item 19): 22 Dec 1999 <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>A New Tax System (Tax Administration) Act 1999</div>
-  </td>
-  <td>
-    <div>179, 1999</div>
-  </td>
-  <td>
-    <div>22 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 10): 1 July 2000 <i>(m)</i> 
-Schedule 16 (item 1): <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 2) 2002</div>
-  </td>
-  <td>
-    <div>57, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 12 (item 1): <i>(n)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Taxation Laws Amendment Act (No. 1) 2004</div>
-  </td>
-  <td>
-    <div>101, 2004</div>
-  </td>
-  <td>
-    <div>30 June 2004</div>
-  </td>
-  <td>
-    <div>Schedule 4: 1 July 2004</div>
-  </td>
-  <td>
-    <div>Sch. 4 (items 10, 23) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Fuel Tax (Consequential and Transitional Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>73, 2006</div>
-  </td>
-  <td>
-    <div>26 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 152): 1 July 2006 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006</div>
-  </td>
-  <td>
-    <div>101, 2006</div>
-  </td>
-  <td>
-    <div>14 Sept 2006</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 36–43), Schedule 5 (items 45–111) and Schedule 6 (items 1, 5–11): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 6 (items 1, 
-5–11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 2(1A) (ad. by 179, 1999, Sch. 10 (item 19))</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Tax Administration) Act 1999</div>
+    </td>
+    <td>
+      <div>179, 1999</div>
+    </td>
+    <td>
+      <div>22 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 10 (item 19): 22 Dec 1999 <i>(l)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>A New Tax System (Tax Administration) Act 1999</div>
+    </td>
+    <td>
+      <div>179, 1999</div>
+    </td>
+    <td>
+      <div>22 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 11 (item 10): 1 July 2000 <i>(m)</i> 
+Schedule 16 (item 1): <i>(m)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 2) 2002</div>
+    </td>
+    <td>
+      <div>57, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td>
+      <div>Schedule 12 (item 1): <i>(n)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Taxation Laws Amendment Act (No. 1) 2004</div>
+    </td>
+    <td>
+      <div>101, 2004</div>
+    </td>
+    <td>
+      <div>30 June 2004</div>
+    </td>
+    <td>
+      <div>Schedule 4: 1 July 2004</div>
+    </td>
+    <td>
+      <div>Sch. 4 (items 10, 23) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Fuel Tax (Consequential and Transitional Provisions) Act 2006</div>
+    </td>
+    <td>
+      <div>73, 2006</div>
+    </td>
+    <td>
+      <div>26 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 5 (item 152): 1 July 2006 ( <i>see</i>s. 2(1))</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Crimes (Taxation Offences) Act 1980_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No.1) 1986_, subsection 2(1) of which provides as follows:
 
@@ -1432,25 +1545,28 @@ _(n)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      19\. Schedule 12, item 1
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Crimes and Other Legislation Amendment Act 1997</i>for the commencement
-        of item 3 of Schedule 2 to that Act
-    </div>
-  </td>
-  <td>
-    <div>
-      7 April 1997
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        19\. Schedule 12, item 1
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the time specified in the
+          <i>Crimes and Other Legislation Amendment Act 1997</i>for the commencement
+          of item 3 of Schedule 2 to that Act
+      </div>
+    </td>
+    <td>
+      <div>
+        7 April 1997
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1475,406 +1591,369 @@ _(n)_ Subsection 2(1) (item 19) of the _Taxation Laws Amendment Act (No. 2) 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 123, 1984; No. 47, 1985; Nos. 41 and 154, 1986; Nos. 58, 61, 140 and 145, 1987; No. 97, 1988; Nos. 20, 58 and 60, 1990; No. 92, 1992; No. 118, 1992 (as am. by No. 17, 1993); Nos. 18, 32 and 118, 1993; No. 138, 1994; No. 170, 1995; No. 43, 1996; No. 39, 1997; No. 47, 1998; Nos. 176, 178 and 179, 1999; No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3A</div>
-  </td>
-  <td>
-    <div>ad. No. 123, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 41, 1986; No. 145, 1987; No. 60, 1990; Nos. 92 and 118, 1992; No. 176, 1999; No. 73, 2006; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part II</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to Heading to Part II</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5–7</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992; No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992; No. 43, 1996; No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 9</div>
-  </td>
-  <td>
-    <div>rs. No. 101, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 123, 1984; No. 76, 1986; No. 43, 1996; No. 20, 1997; No. 57, 2002; No. 101, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10–12</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1992; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIA</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12A</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III</div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 48, 1986; No. 101, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 41, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>ad. No. 41, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 48, 1986; No. 176, 1999; No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>ad. No. 145, 1987</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 60, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VII</div>
-  </td>
-  <td>
-    <div>ad. No. 92, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>ad. No. 92, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part X</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part X</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>ad. No. 176, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 101, 2004; No. 101, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 123, 1984; No. 47, 1985; Nos. 41 and 154, 1986; Nos. 58, 61, 140 and 145, 1987; No. 97, 1988; Nos. 20, 58 and 60, 1990; No. 92, 1992; No. 118, 1992 (as am. by No. 17, 1993); Nos. 18, 32 and 118, 1993; No. 138, 1994; No. 170, 1995; No. 43, 1996; No. 39, 1997; No. 47, 1998; Nos. 176, 178 and 179, 1999; No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3A</div>
+    </td>
+    <td>
+      <div>ad. No. 123, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 41, 1986; No. 145, 1987; No. 60, 1990; Nos. 92 and 118, 1992; No. 176, 1999; No. 73, 2006</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part II</div>
+    </td>
+    <td>
+      <div>am. No. 118, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to Heading to Part II</div>
+    </td>
+    <td>
+      <div>ad. No. 176, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 5–7</div>
+    </td>
+    <td>
+      <div>am. No. 118, 1992; No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 118, 1992; No. 43, 1996; No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 9</div>
+    </td>
+    <td>
+      <div>rs. No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 123, 1984; No. 76, 1986; No. 43, 1996; No. 20, 1997; No. 57, 2002; No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 10–12</div>
+    </td>
+    <td>
+      <div>am. No. 118, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IIA</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IIA</div>
+    </td>
+    <td>
+      <div>ad. No. 118, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12A</div>
+    </td>
+    <td>
+      <div>ad. No. 118, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 48, 1986; No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IV</div>
+    </td>
+    <td>
+      <div>ad. No. 41, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>ad. No. 41, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 48, 1986; No. 176, 1999; No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part V</div>
+    </td>
+    <td>
+      <div>ad. No. 145, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>ad. No. 145, 1987</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VI</div>
+    </td>
+    <td>
+      <div>ad. No. 60, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>ad. No. 60, 1990</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VII</div>
+    </td>
+    <td>
+      <div>ad. No. 92, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>ad. No. 92, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VIII</div>
+    </td>
+    <td>
+      <div>ad. No. 176, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>ad. No. 176, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IX</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IX</div>
+    </td>
+    <td>
+      <div>ad. No. 176, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>ad. No. 176, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 101, 2004</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part X</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part X</div>
+    </td>
+    <td>
+      <div>ad. No. 176, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>ad. No. 176, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 101, 2004</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -1892,88 +1971,6 @@ Each amendment made by this Part applies in relation to acts and omissions happe
 
 Each amendment made by this Part applies in relation to acts and omissions happening after this Part commences.
 
-* * *
-
-_Tax Laws Amendment (Repeal of Inoperative Provisions) Act 2006 
- (No. 101, 2006)_
-
-## Schedule 6
-
-## 1  Application of Schedule 1 and 2 amendments
-
-Except as mentioned in items 2 and 3, the repeals and amendments made by Schedules 1 and 2 apply:
-
-                     (a)  so far as they affect assessments—to assessments for the 2006-07 income year and all later income years; and
-
-                     (b)  otherwise—to acts done or omitted to be done, or states of affairs existing, after the commencement of the repeals and amendments.
-
-## 5  Application of Schedule 5 amendments
-
-The repeals and amendments made by Schedule 5 apply to acts done or omitted to be done, or states of affairs existing, after the commencement of the amendments.
-
-## 6  Object
-
-The object of this Part is to ensure that, despite the repeals and amendments made by this Act, the full legal and administrative consequences of:
-
-                     (a)  any act done or omitted to be done; or
-
-                     (b)  any state of affairs existing; or
-
-                     (c)  any period ending;
-
-before such a repeal or amendment applies, can continue to arise and be carried out, directly or indirectly through an indefinite number of steps, even if some or all of those steps are taken after the repeal or amendment applies.
-
-## 7  Making and amending assessments, and doing other things, in relation to past matters
-
-Even though an Act is repealed or amended by this Act, the repeal or amendment is disregarded for the purpose of doing any of the following under any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_):
-
-                     (a)  making or amending an assessment (including under a provision that is itself repealed or amended);
-
-                     (b)  exercising any right or power, performing any obligation or duty or doing any other thing (including under a provision that is itself repealed or amended);
-
-in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-Example 1: On 31 July 1999, Greg Ltd lodged its annual return under former section 160ARE of the _Income Tax Assessment Act 1936_. The return stated that the company had a credit on its franking account and that no franking deficit tax was payable for the 1998-99 franking year. Under former section 160ARH of that Act, the Commissioner was taken to have made an assessment consistent with the return.
-
-                   Following an audit undertaken after the repeal of Part IIIAA of that Act, the Commissioner concludes that Greg Ltd fraudulently overfranked dividends it paid during the 1998-99 franking year, and had a franking account deficit for that franking year. As a result, the Commissioner considers that franking deficit tax and a penalty by way of additional tax are payable.
-
-                   The Commissioner can amend the assessment under former section 160ARN of that Act, because item 7 of this Schedule disregards the repeal of that section for the purposes of making an assessment in relation to the 1998-99 franking year. Item 7 will also disregard the repeal of Division 11 of former Part IIIAA to the extent necessary for the Commissioner to assess Greg Ltd’s liability to a penalty by way of additional tax.
-
-                   Despite the repeal of sections 160ARU and 160ARV, item 9 will ensure that the general interest charge will accrue on the unpaid franking deficit tax and penalty until they are paid.
-
-                   Item 7 will also preserve Greg Ltd’s right, under former section 160ART of that Act, to object against the Commissioner’s amended assessment (including the penalty), since the objection is the exercise of a right in relation to a franking year that ended before the repeal of Part IIIAA.
-
-Example 2: During the 1997-98 income year, Duffy Property Ltd withheld amounts from its employees’ wages as required by former Divisions 1AAA and 2 of Part VI of the _Income Tax Assessment Act 1936_. The company failed to notify the Commissioner of those amounts, and failed to remit them to the Commissioner.
-
-                   Following an audit undertaken after the repeal of those Divisions, the Commissioner discovers that the withheld amounts have not been remitted. The company’s records are incomplete and the Commissioner is unable to completely ascertain the extent of its liability for the withheld amounts. Under section 222AGA of that Act, the Commissioner makes an estimate of the liability.
-
-                   Item 7 will disregard the repeal of section 220AAZA of that Act (which empowered the Commissioner to recover the amount of the estimate). Even though the estimate is made after the repeal, it relates to amounts withheld before the repeal.
-
-## 8  Saving of provisions about effect of assessments
-
-If a provision or part of a provision that is repealed or amended by this Act deals with the effect of an assessment, the repeal or amendment is disregarded in relation to assessments made, before or after the repeal or amendment applies, in relation to any act done or omitted to be done, any state of affairs existing, or any period ending, before the repeal or amendment applies.
-
-## 9  Saving of provisions about general interest charge, failure to notify penalty or late reconciliation statement penalty
-
-If:
-
-                     (a)  a provision or part of a provision that is repealed or amended by this Act provides for the payment of:
-
-                              (i)  general interest charge, failure to notify penalty or late reconciliation statement penalty (all within the meaning of the _Income Tax Assessment Act 1936_); or
-
-                             (ii)  interest under the _Taxation (Interest on Overpayments and Early Payments) Act 1983_; and
-
-                     (b)  in a particular case, the period in respect of which the charge, penalty or interest is payable (whether under the provision or under the _Taxation Administration Act 1953_) has not begun, or has begun but not ended, when the provision is repealed or amended;
-
-then, despite the repeal or amendment, the provision or part continues to apply in the particular case until the end of the period.
-
-## 10  Repeals disregarded for the purposes of dependent provisions
-
-If the operation of a provision (the **_subject provision_**) of any Act or legislative instrument (within the meaning of the _Legislative Instruments Act 2003_) made under any Act depends to any extent on an Act, or a provision of an Act, that is repealed by this Act, the repeal is disregarded so far as it affects the operation of the subject provision.
-
-## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
-
-This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
  
 
