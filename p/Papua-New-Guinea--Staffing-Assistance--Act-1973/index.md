@@ -1,1171 +1,1148 @@
-![](http://www.comlaw.gov.au/Details/C2011C00536/Html/4382766d-b50d-4ebf-8c5d-84b145a35e6b_files/image001.gif)
+**
 
-# Papua New Guinea (Staffing Assistance) Act 1973
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973 
+**
 
-**Act No. 70 of 1973 as amended**
 
-This compilation was prepared on 11 July 2011
- taking into account amendments up to Act No. 58 of 2011
+**
 
-The text of any of those amendments not in force 
- on that date is appended in the Notes section
+###  Compilation Information 
+**
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
 
-# Contents
 
-**Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation
+**
 
-**Part III—Compensation on termination of employment**
+###  Long Title 
+**
+**
 
-[19](#19).          Benefits under Part III
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;I&#151;Preliminary </part>
+**
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Papua New Guinea (Staffing Assistance) Act 1973_.
 
-**Part V—Superannuation**
+ 
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 2  Commencement [_see_ Note 1] 
+This Act shall come into operation on a date to be fixed by Proclamation.
 
-[38](#38).          Regulations relating to superannuation
+ 
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 3  Interpretation 
+<dt>(1)</dt><dd>In this Act, unless the contrary intention appears:
 
-**Part IX—Miscellaneous** 
+</dd> 
+<dl compact=""><dl compact="">
 
-    **Division 1—Review of decisions by CSC**
+_Board_ means the Superannuation Board. _Commissioner_ has the same meaning as in the _Superannuation Act 1976_. _prescribed date_ means the date of commencement of this Act. _Provident Account_ means the Papua New Guinea Provident Account that was continued in existence by section&#160;36\. _Reserve Units of Pension Account_ means the Reserve Units of Pension Account that was continued in existence by section&#160;37\. _Superannuation Board_ means the Papua New Guinea Superannuation Board that was continued in existence by section&#160;20\. _Superannuation Fund_ means the Papua New Guinea Superannuation Fund that was continued in existence by section&#160;34\.  </dl></dl>
 
-[54](#54).          Review of decisions of CSC
+<dl compact="">
 
-    **Division 2—Reconsideration Advisory Committees**
+<dt>(2)</dt><dd>In this Act, unless the contrary intention appears:
 
-[55](#55).          Establishment of Committee
+</dd> </dl>
 
-[55A](#55A).       Member of Committee
+<dl compact=""><dl compact=""><dl compact="">
 
-[55B](#55B).       Functions of Committee
+<dt>(b)</dt><dd>where an expression is given a particular meaning, other parts of speech
 
-[55C](#55C).       Proceedings of Committee
+and grammatical forms of the same expression have corresponding meanings.
 
-[55D](#55D).       Indemnification of members of a Committee
+</dd>
 
-[55E](#55E).        Remuneration and allowances
+</dl></dl></dl>
 
-[55F](#55F).        Recommendations by Committee to CSC
+<dl compact="">
 
-    **Division 3—Review of decisions by the Administrative Appeals Tribunal**
+<dt>(3)</dt><dd>In this Act, a reference to Papua New Guinea, in relation to a time after
 
-[55G](#55G).       Review by the Administrative Appeals Tribunal
+Papua New Guinea becomes an independent sovereign state, is a reference to the
 
-    **Division 4—Miscellaneous**
+Independent State of Papua New Guinea.
 
-[55H](#55H).       Minister may request the supply of information relating to superannuation
+</dd> </dl>
 
-[56](#56).          Desertion by pensioner of wife or children
+<center>**
 
-[58](#58).          Arrangements for reimbursement of Commonwealth by certain authorities
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;III&#151;Compensation on termination of employment </part>
+**</center>
 
-[60](#60).          No assignment of benefits
+**
 
-[61](#61).          Attachment of benefits
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 19  Benefits under Part&#160;III 
+**
 
-[62A](#62A).       Payments may be made by Papua New Guinea
+<center>Back to Top</center>
 
-[64](#64).          Delegations
+ <dl compact="">
 
-[65](#65).          Regulations
+<dt>(1)</dt><dd>Where a person has made an election under section&#160;13 of this Act as
 
-**Notes** 
+in force before 1&#160;July 1976 or the employment of a person has been
 
-## An Act relating to the Provision by Australia of Staffing Assistance for Papua New Guinea and Preservation of Rights of certain Persons presently employed in Papua New Guinea
+terminated under section&#160;14 of this Act as so in force, the person is
 
-## Part I—Preliminary
+entitled to the prescribed benefits.</dd> <dt>(2)</dt><dd>Regulations under subsection&#160;(1) shall be made with a view to giving effect to such recommendations of the Simpson Report as have been accepted by the Commonwealth and the Government of Papua New Guinea, but nothing in this subsection prevents the regulations from providing for greater benefits than those recommended in that Report.</dd> <dt>(2A)</dt><dd>Regulations under subsection&#160;(1) may include provision for deferred benefits in specified circumstances.</dd> <dt>(3)</dt><dd>The regulations may make different provision in relation to elections made, and employment terminated, under different provisions of this Part.</dd> <dt>(4)</dt><dd>In this section, _the Simpson Report_ means the report relating to employment security for overseas officers of the Public Service of Papua New Guinea made by Mr. A. M. Simpson, C.M.G., to the Minister for External Territories and the Chief Minister of Papua New Guinea and dated 23rd October, 1972\. </dd> </dl>
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+<center>**
 
-                   This Act may be cited as the _Papua New Guinea__(Staffing Assistance) Act 1973_.
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;IV&#151;Administration of superannuation and other benefits </part>
+**</center>
 
-##### <a id="2"></a>2  Commencement [_see_ Note 1]
+**
 
-                   This Act shall come into operation on a date to be fixed by Proclamation.
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 20  Commissioner to administer Part&#160;V 
+**
 
-##### <a id="3"></a>3  Interpretation
+ <dl compact="">
 
-             (1)  In this Act, unless the contrary intention appears:
+		The responsibility for the general administration of Part&#160;V is vested in
 
-                    <a name="board"></a>**_Board_** means the Superannuation Board.
+the Commissioner.
 
-                    <a name="csc"></a>**_CSC_** (short for Commonwealth Superannuation Corporation) has the same meaning as in the _Governance of Australian Government Superannuation Schemes Act 2011_.
+ </dl>
 
-                    <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
+**
 
-                    <a name="decision-csc"></a>**_decision of CSC_** means a decision of CSC, or a delegate of CSC, under this Act or the regulations.
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 21  Annual reports 
+**
 
-                    <a name="prescrib-date"></a>**_prescribed date_** means the date of commencement of this Act.
+ <dl compact="">
 
-                    <a name="provid-account"></a>**_Provident Account_** means the Papua New Guinea Provident Account that was continued in existence by section 36.
+<dt>(1)</dt><dd>The Commissioner shall, as soon as practicable after each 30&#160;June,
 
-                    <a name="reconsider-advisori-committe"></a>**_Reconsideration Advisory Committee_** means a Committee established under section 55.
+prepare a report on the general administration and operation of Parts V and IX
 
-                    <a name="reserv-unit-pension-account"></a>**_Reserve Units of Pension Account_** means the Reserve Units of Pension Account that was continued in existence by section 37.
+during the year ended on that date, and furnish the report to the Minister for
 
-                    <a name="superannu-board"></a>**_Superannuation Board_** means the Papua New Guinea Superannuation Board that was continued in existence by section 20.
+Finance.</dd> <dt>(2)</dt><dd>The Minister for Finance shall cause a copy of the Commissioner's report to be laid before each House of the Parliament within 15 sitting days of that House after its receipt by the Minister for Finance. </dd> </dl>
 
-                    <a name="superannu-fund"></a>**_Superannuation Fund_** means the Papua New Guinea Superannuation Fund that was continued in existence by section 34.
+<center>**
 
-             (2)  In this Act, unless the contrary intention appears:
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;V&#151;Superannuation </part>
+**</center>
 
-                     (b)  where an expression is given a particular meaning, other parts of speech and grammatical forms of the same expression have corresponding meanings.
+**
 
-             (3)  In this Act, a reference to Papua New Guinea, in relation to a time after Papua New Guinea becomes an independent sovereign state, is a reference to the Independent State of Papua New Guinea.
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 38  Regulations relating to superannuation 
+**
 
-## Part III—Compensation on termination of employment
+ <dl compact="">
 
-##### <a id="19"></a>19  Benefits under Part III
+<dt>(1)</dt><dd>The regulations may make provision for and in relation to:
 
-             (1)  Where a person has made an election under section 13 of this Act as in force before 1 July 1976 or the employment of a person has been terminated under section 14 of this Act as so in force, the person is entitled to the prescribed benefits.
+</dd> </dl>
 
-             (2)  Regulations under subsection (1) shall be made with a view to giving effect to such recommendations of the Simpson Report as have been accepted by the Commonwealth and the Government of Papua New Guinea, but nothing in this subsection prevents the regulations from providing for greater benefits than those recommended in that Report.
+<dl compact=""><dl compact=""><dl compact="">
 
-          (2A)  Regulations under subsection (1) may include provision for deferred benefits in specified circumstances.
+<dt>(a)</dt><dd>contributions to be paid to the Commonwealth by persons (including persons
 
-             (3)  The regulations may make different provision in relation to elections made, and employment terminated, under different provisions of this Part.
+who have ceased to be employed under Part&#160;II in specified circumstances)
 
-             (4)  In this section, **_the Simpson Report_** means the report relating to employment security for overseas officers of the Public Service of Papua New Guinea made by Mr. A. M. Simpson, C.M.G., to the Minister for External Territories and the Chief Minister of Papua New Guinea and dated 23rd October, 1972.
+who, immediately before the prescribed date, were required or permitted to
 
-## Part V—Superannuation
+contribute to the Papua New Guinea Superannuation Fund or the Papua New Guinea
 
-##### <a id="38"></a>38  Regulations relating to superannuation
+Provident Account under the Superannuation Ordinance;</dd>
 
-             (1)  The regulations may make provision for and in relation to:
+<dt>(b)</dt><dd>payments to be made by the Commonwealth to and in relation to:
 
-                     (a)  contributions to be paid to the Commonwealth by persons (including persons who have ceased to be employed under Part II in specified circumstances) who, immediately before the prescribed date, were required or permitted to contribute to the Papua New Guinea Superannuation Fund or the Papua New Guinea Provident Account under the Superannuation Ordinance;
+</dd>
 
-                     (b)  payments to be made by the Commonwealth to and in relation to:
+</dl></dl></dl>
 
-                              (i)  persons referred to in paragraph (a); and
+<dl compact=""><dl compact=""><dl compact=""><dl compact="">
 
-                             (ii)  persons who, immediately before the prescribed date, were entitled to pension in accordance with the Superannuation Ordinance or in accordance with the _Superannuation Ordinance 1917‑1955_ of the Territory of Papua or the _Superannuation Ordinance 1928‑1955_ of the Territory of New Guinea, as the case may be; and
+<dt>(i)</dt><dd>persons referred to in paragraph&#160;(a); and</dd>
 
-                     (c)  matters incidental to or connected with matters referred to in paragraphs (a) and (b).
+<dt>(ii)</dt><dd>persons who, immediately before the prescribed date, were entitled to
 
-## Part IX—Miscellaneous
+pension in accordance with the Superannuation Ordinance or in accordance with
 
-### Division 1—Review of decisions by CSC
+the _Superannuation Ordinance 1917-1955_ of the Territory of Papua or the
 
-##### <a id="54"></a>54  Review of decisions of CSC
+_Superannuation Ordinance 1928-1955_ of the Territory of New Guinea, as
 
-             (2)  A person who is affected by a decision of CSC and is dissatisfied with the decision may, by notice in writing given to CSC within a period of 30 days after the date on which the decision first comes to the notice of the person, or within such further period as CSC allows, request CSC to reconsider the decision.
+the case may be; and
 
-             (3)  There shall be set out in the request the ground on which the request is made.
+</dd>
 
-             (4)  After receiving a request for reconsideration of a decision, CSC must:
+</dl></dl></dl></dl>
 
-                     (a)  refer the decision to a Reconsideration Advisory Committee for the Committee to make recommendations to CSC in relation to the decision; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  refer the decision to a Reconsideration Advisory Committee for the Committee to reconsider the decision; or
+<dt>(c)</dt><dd>matters incidental to or connected with matters referred to in
 
-                     (c)  reconsider the decision itself.
+paragraphs&#160;(a) and (b).
 
-          (4A)  If CSC reconsiders a decision, it may:
+</dd>
 
-                     (a)  confirm the decision; or
+</dl></dl></dl>
 
-                     (b)  vary the decision; or
+<center>Back to Top</center>
 
-                     (c)  set aside the decision and substitute a new decision.
+<center>**
 
-             (5)  CSC shall, by notice in writing sent or delivered to the person who made the request, inform the person of the result of its reconsideration of the decision.
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<part>Part&#160;IX&#151;Miscellaneous </part>
+**</center>
 
-### Division 2—Reconsideration Advisory Committees
+**
 
-##### <a id="55"></a>55  Establishment of Committee
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 54  Review of decisions of Commissioner 
+**
 
-                   CSC may establish such Reconsideration Advisory Committees as CSC considers necessary.
+ <dl compact="">
 
-##### <a id="55A"></a>55A  Member of Committee
+<dt>(1)</dt><dd>In this section:
 
-                   A Committee comprises such persons as CSC determines.
+</dd> </dl>
 
-##### <a id="55B"></a>55B  Functions of Committee
+<def><dl compact=""><dl compact="">
 
-             (1)  The functions of a Committee are to review any decision referred to it under this Act and:
+_decision_ has the same meaning as in the _Administrative Appeals Tribunal Act 1975_. _decision of the Commissioner_ means a decision of the Commissioner, or a delegate of the Commissioner, under this Act.  </dl></dl>
 
-                     (a)  if CSC has delegated its powers to reconsider the decision to the Committee—to confirm, vary, substitute or set aside the decision; or
+<dl compact="">
 
-                     (b)  if CSC has delegated to the Committee any of CSC’s powers in relation to the decision (other than the power to reconsider the decision)—to exercise those powers; or
+<dt>(2)</dt><dd>A person who is affected by a decision of the Commissioner and is
 
-                     (c)  in any other case—to make recommendations to CSC in relation to the decision.
+dissatisfied with the decision may, by notice in writing given to the
 
-Note:       Paragraph (c)—see section 55F.
+Commissioner within a period of 30 days after the date on which the decision
 
-             (2)  When reviewing a decision, a Committee:
+first comes to the notice of the person, or within such further period as the
 
-                     (a)  must take into account any evidence relevant to the decision that is submitted to it; and
+Commissioner allows, request the Commissioner to reconsider the decision.</dd> <dt>(3)</dt><dd>There shall be set out in the request the ground on which the request is made.</dd> <dt>(4)</dt><dd>Upon receipt of the request, the Commissioner shall reconsider the decision, and may either confirm the decision or vary the decision in such manner as he thinks fit.</dd> <dt>(5)</dt><dd>The Commissioner shall, by notice in writing sent or delivered to the person who made the request, inform the person of the result of his reconsideration of the decision.</dd> <dt>(6)</dt><dd>Applications may be made to the Administrative Appeals Tribunal for review of decisions of the Commissioner that have been confirmed or varied under subsection&#160;(4). </dd> </dl>
 
-                     (b)  may also take steps to obtain any other evidence that it considers necessary for a proper review of the decision.
+**
 
-##### <a id="55C"></a>55C  Proceedings of Committee
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 56  Desertion by pensioner of wife or children 
+**
 
-             (1)  Subject to any directions given by CSC, the Committee may regulate its proceedings as the Committee thinks fit.
+ <dl compact="">
 
-             (2)  If a direction is given in writing, the direction is not a legislative instrument.
+<dt>(1)</dt><dd>Where a pensioner deserts his wife or leaves her without means of support,
 
-##### <a id="55D"></a>55D  Indemnification of members of a Committee
+the wife may, from time to time, apply to a court of summary jurisdiction and,
 
-                   Any matter or thing done, or omitted to be done, in good faith by a member of a Committee in the performance of functions under this Act does not subject him or her to any action, liability, claim or demand.
+on proof that the wife has been deserted or left without means of support, the
 
-Note:          See also section 35 of the _Governance of Australian Government Superannuation Schemes Act 2011._
+court may order the payment to the wife, during such period as it thinks fit,
 
-##### <a id="55E"></a>55E  Remuneration and allowances
+of the whole or part of the pension which otherwise would be payable to the
 
-             (1)  A member of a Committee is to be paid such remuneration as is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the member is to be paid such remuneration as is prescribed.
+pensioner.</dd> <dt>(2)</dt><dd>Where a pensioner whose wife is dead or divorced deserts any of his children who are dependent on him, or leaves them without means of support, the guardian of the children, or the Commissioner, may, from time to time, apply to a court of summary jurisdiction and, on proof that any child of the pensioner who is dependent on him has been deserted or left without means of support, the court may order the payment to the guardian of the child, during such period as it thinks fit, of the whole or part of the pension which otherwise would be payable to the pensioner.</dd> <dt>(3)</dt><dd>The Commissioner shall comply with any order made under this section and the amount of the pension payable to the pensioner shall be reduced by the amount payable in pursuance of the order.</dd> <dt>(4)</dt><dd>In this section, _pension_ means a pension payable under this Act. </dd> </dl>
 
-             (2)  A member of a Committee is to be paid such allowances (if any) as are prescribed.
+**
 
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 57  Recovery of contributions etc. 
+**
 
-##### <a id="55F"></a>55F  Recommendations by Committee to CSC
+ <dl compact="">
 
-             (1)  If a Committee makes recommendations to CSC in relation to a decision referred to it, then, after CSC takes into account:
+		The Commissioner may recover any arrears of contributions, and any interest
 
-                     (a)  the recommendations of the Committee; and
+on arrears of contributions, under this Act in a court of competent
 
-                     (b)  any other matter that CSC considers relevant;
+jurisdiction as a debt.
 
-CSC must make a decision in writing:
+ </dl>
 
-                     (c)  confirming the decision under review; or
+**
 
-                     (d)  varying the decision under review; or
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 58  Arrangements for reimbursement of Commonwealth by certain authorities 
+**
 
-                     (e)  setting aside the decision under review and substituting a new decision.
+<dl compact="">
 
-             (2)  CSC’s written decision must include the reasons for its decision.
+		Where benefits have been, are or may become payable under Part&#160;V to or
 
-             (3)  CSC must make a copy of its written decision available to the applicant.
+in relation to a person who was or is required or permitted to contribute to
 
-### Division 3—Review of decisions by the Administrative Appeals Tribunal
+the Superannuation Fund or the Provident Account or to the Commonwealth and,
 
-##### <a id="55G"></a>55G  Review by the Administrative Appeals Tribunal
+while being so required or permitted, was or is receiving a salary from an
 
-                   Applications may be made to the Administrative Appeals Tribunal for:
+authority of Papua New Guinea, the Minister may enter into an arrangement with
 
-                     (a)  review of a decision of CSC that has been confirmed or varied by CSC under paragraph 54(4A)(a) or (b); and
+that authority providing for the reimbursement of the Commonwealth in respect
 
-                     (b)  review of a decision of CSC that has been confirmed or varied by a Reconsideration Advisory Committee under paragraph 55B(1)(a); and
+of payments made by the Commonwealth in respect of those benefits.
 
-                     (c)  review of a decision of CSC that has been confirmed or varied by CSC under paragraph 55F(1)(c) or (d).
+ </dl>
 
-### Division 4—Miscellaneous
+<center>Back to Top</center>
 
-##### <a id="55H"></a>55H  Minister may request the supply of information relating to superannuation
+**
 
-                   CSC must give the Minister such information relating to the general administration and operation of this Act to the extent that it deals with superannuation, as the Minister may from time to time require.
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 60  No assignment of benefits 
+**
 
-##### <a id="56"></a>56  Desertion by pensioner of wife or children
+ <dl compact="">
 
-             (1)  Where a pensioner deserts his wife or leaves her without means of support, the wife may, from time to time, apply to a court of summary jurisdiction and, on proof that the wife has been deserted or left without means of support, the court may order the payment to the wife, during such period as it thinks fit, of the whole or part of the pension which otherwise would be payable to the pensioner.
+		Subject to section&#160;61, a benefit under Part&#160;V is not capable of
 
-             (2)  Where a pensioner whose wife is dead or divorced deserts any of his children who are dependent on him, or leaves them without means of support, the guardian of the children, or CSC, may, from time to time, apply to a court of summary jurisdiction and, on proof that any child of the pensioner who is dependent on him has been deserted or left without means of support, the court may order the payment to the guardian of the child, during such period as it thinks fit, of the whole or part of the pension which otherwise would be payable to the pensioner.
+being assigned or charged or of passing by operation of law, and any moneys
 
-             (3)  CSC shall comply with any order made under this section and the amount of the pension payable to the pensioner shall be reduced by the amount payable in pursuance of the order.
+paid or payable out of the Superannuation Fund, the Provident Account or the
 
-             (4)  In this section, **_pension_** means a pension payable under this Act.
+Reserve Units of Pension Account or by the Commonwealth on the death of a
 
-##### <a id="58"></a>58  Arrangements for reimbursement of Commonwealth by certain authorities
+person are not liable to be applied or made available in payment of his debts
 
-                   Where benefits have been, are or may become payable under Part V to or in relation to a person who was or is required or permitted to contribute to the Superannuation Fund or the Provident Account or to the Commonwealth and, while being so required or permitted, was or is receiving a salary from an authority of Papua New Guinea, the Minister may enter into an arrangement with that authority providing for the reimbursement of the Commonwealth in respect of payments made by the Commonwealth in respect of those benefits.
+or liabilities.
 
-##### <a id="60"></a>60  No assignment of benefits
+ </dl>
 
-                   Subject to section 61, a benefit under Part V is not capable of being assigned or charged or of passing by operation of law, and any moneys paid or payable out of the Superannuation Fund, the Provident Account or the Reserve Units of Pension Account or by the Commonwealth on the death of a person are not liable to be applied or made available in payment of his debts or liabilities.
+**
 
-##### <a id="61"></a>61  Attachment of benefits
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 61  Attachment of benefits 
+**
 
-             (1)  Where a judgment given by a court for the payment of a sum of money has not been fully satisfied by the judgment debtor and the judgment debtor is entitled to benefit under Part V, the judgment creditor may serve on CSC, in the manner prescribed, a copy of the judgment, certified under the hand of the registrar or other proper officer of the court by which the judgment was given, and a statutory declaration by the judgment creditor stating that the judgment has not been fully satisfied by the judgment debtor and specifying the amount due by the judgment debtor under the judgment.
+ <dl compact="">
 
-             (2)  Where a copy of a judgment and a statutory declaration are served on CSC in accordance with subsection (1), CSC shall, as soon as practicable, by notice in writing given to the judgment debtor, inform him of the service of those documents and require him to notify CSC within the period, and in the manner, specified in the notice, whether the amount specified in the declaration is still due under the judgment and, if no amount or a lesser amount is due under the judgment, to furnish to CSC, in the manner specified in the notice, evidence in support of that fact.
+<dt>(1)</dt><dd>Where a judgment given by a court for the payment of a sum of money has
 
-             (3)  A person to whom a notice is given under subsection (2) shall comply with the requirements contained in the notice.
+not been fully satisfied by the judgment debtor and the judgment debtor is
 
-                    Penalty:  Forty dollars.
+entitled to benefit under Part&#160;V, the judgment creditor may serve on the
 
-             (4)  If, at the expiration of the period specified in the notice, CSC is satisfied that an amount is due under the judgment, CSC may, in his discretion, deduct from the benefit, and pay to the judgment creditor, such sums as do not exceed that amount.
+Commissioner, in the manner prescribed, a copy of the judgment, certified under
 
-             (5)  A deduction shall not be made from:
+the hand of the registrar or other proper officer of the court by which the
 
-                     (a)  an instalment of pension payable in respect of a child; or
+judgment was given, and a statutory declaration by the judgment creditor
 
-                     (b)  an instalment of any other pension if the deduction will reduce the amount of the instalment payable to less than one‑half of the amount that would, but for this section, be payable.
+stating that the judgment has not been fully satisfied by the judgment debtor
 
-             (6)  If, after a copy of a judgment given against a beneficiary, being a judgment in respect of which CSC is satisfied that an amount is due, has been served in accordance with subsection (1), a copy of another judgment given (whether before or after the first‑mentioned judgment) against the same beneficiary in favour of the person in whose favour the first‑mentioned judgment was given or in favour of another person is served under that subsection, CSC shall not make a payment in accordance with this section to the judgment creditor under the other judgment in respect of the amount due under that judgment until the amount due under the first‑mentioned judgment has been paid.
+and specifying the amount due by the judgment debtor under the judgment.</dd> <dt>(2)</dt><dd>Where a copy of a judgment and a statutory declaration are served on the Commissioner in accordance with subsection&#160;(1), the Commissioner shall, as soon as practicable, by notice in writing given to the judgment debtor, inform him of the service of those documents and require him to notify the Commissioner within the period, and in the manner, specified in the notice, whether the amount specified in the declaration is still due under the judgment and, if no amount or a lesser amount is due under the judgment, to furnish to the Commissioner, in the manner specified in the notice, evidence in support of that fact.</dd> <dt>(3)</dt><dd>A person to whom a notice is given under subsection&#160;(2) shall comply with the requirements contained in the notice. </dd> </dl>
 
-             (7)  A payment made to a judgment creditor in accordance with this section shall, as between CSC and the beneficiary, be deemed to be a payment under Part V to the beneficiary.
+Penalty:	Forty dollars.
 
-             (8)  A judgment creditor who serves a copy of a judgment on CSC under subsection (1) shall notify CSC, in the manner prescribed, immediately the judgment debt is satisfied.
+<dl compact="">
 
-                    Penalty:  One hundred dollars or imprisonment for three months.
+<dt>(4)</dt><dd>If, at the expiration of the period specified in the notice, the
 
-             (9)  If the amounts paid in accordance with this section to a judgment creditor in respect of a judgment exceed, in the aggregate, the amount due under the judgment, the excess is repayable by the judgment creditor to the judgment debtor and, in default of payment, may be recovered by the judgment debtor from the judgment creditor in a court of competent jurisdiction.
+Commissioner is satisfied that an amount is due under the judgment, the
 
-##### <a id="62A"></a>62A  Payments may be made by Papua New Guinea
+Commissioner may, in his discretion, deduct from the benefit, and pay to the
 
-                   Where the whole or part of any benefit payable to a person under this Act is paid to that person by the Government of Papua New Guinea out of the moneys of that Government, the amount of that benefit that would, but for this section, be payable under this Act by Australia to that person shall be reduced by the amount so paid.
+judgment creditor, such sums as do not exceed that amount.</dd> <dt>(5)</dt><dd>A deduction shall not be made from: </dd> </dl>
 
-##### <a id="64"></a>64  Delegations
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  The Minister may, by instrument in writing, delegate to a person, either generally or otherwise as provided by the instrument of delegation, all or any of his powers and functions under this Act (except this power of delegation).
+<dt>(a)</dt><dd>an instalment of pension payable in respect of a child; or</dd>
 
-             (2)  A power or function so delegated may be exercised or performed by the delegate in accordance with the instrument of delegation and, when so exercised or performed, shall, for the purposes of this Act, be deemed to have been exercised or performed by the Minister.
+<dt>(b)</dt><dd>an instalment of any other pension if the deduction will reduce the amount
 
-             (3)  A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Minister.
+of the instalment payable to less than one-half of the amount that would, but
 
-##### <a id="65"></a>65  Regulations
+for this section, be payable.
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that by this Act are required or permitted to be prescribed or to be provided for by regulation, or that are necessary or convenient to be prescribed for giving effect to this Act, and, in particular:
+</dd>
 
-                     (a)  for enabling a specified officer of the Public Service of the Commonwealth to delegate his powers and functions under regulations made for the purposes of Part II; and
+</dl></dl></dl>
 
-                     (b)  for prescribing penalties not exceeding a fine of One hundred dollars for offences against the regulations.
+<dl compact="">
 
-             (2)  The power to make regulations conferred by this Act shall not be taken, by implication, not to include the power to make provision for or in relation to a matter by reason only of the fact that:
+<dt>(6)</dt><dd>If, after a copy of a judgment given against a beneficiary, being a
 
-                     (a)  provision is made by this Act in relation to that matter or another matter; or
+judgment in respect of which the Commissioner is satisfied that an amount is
 
-                     (b)  power is expressly conferred by this Act to make provision by regulation for or in relation to another matter.
+due, has been served in accordance with subsection&#160;(1), a copy of another
 
-             (3)  The power to make regulations conferred by this Act may be exercised:
+judgment given (whether before or after the first-mentioned judgment) against
 
-                     (a)  in relation to all cases to which the power extends, or in relation to all those cases subject to specified exceptions, or in relation to any specified cases or classes of case; and
+the same beneficiary in favour of the person in whose favour the
 
-                     (b)  so as to make, as respects the cases in relation to which it is exercised, the same provision for all those cases or a different provision for different cases or classes of case.
+first-mentioned judgment was given or in favour of another person is served
 
-             (4)  The power conferred by this Act to make modifications by regulation includes the power to omit any matter or add any new matter.
+under that subsection, the Commissioner shall not make a payment in accordance
 
-             (5)  The limitation imposed by subsection (1) on the penalties that may be prescribed by regulation does not prevent the regulations from requiring a person to make a statutory declaration. 
+with this section to the judgment creditor under the other judgment in respect
 
-# Notes to the _Papua New Guinea (Staffing Assistance) Act 1973_
+of the amount due under that judgment until the amount due under the
 
-### Note 1
+first-mentioned judgment has been paid.</dd> <dt>(7)</dt><dd>A payment made to a judgment creditor in accordance with this section shall, as between the Commissioner and the beneficiary, be deemed to be a payment under Part&#160;V to the beneficiary.</dd> <dt>(8)</dt><dd>A judgment creditor who serves a copy of a judgment on the Commissioner under subsection&#160;(1) shall notify the Commissioner, in the manner prescribed, immediately the judgment debt is satisfied. </dd> </dl>
 
-The _Papua New Guinea (Staffing Assistance) Act 1973_ as shown in this compilation comprises Act No. 70, 1973 amended as indicated in the Tables below.
+Penalty:	One hundred dollars or imprisonment for three months.
 
-### Table of Acts
+<dl compact="">
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+<dt>(9)</dt><dd>If the amounts paid in accordance with this section to a judgment creditor
 
-<thead>
-  <tr>
-    <td>
-      <div>Act</div>
-    </td>
-    <td>
-      <div>Number 
+in respect of a judgment exceed, in the aggregate, the amount due under the
+
+judgment, the excess is repayable by the judgment creditor to the judgment
+
+debtor and, in default of payment, may be recovered by the judgment debtor from
+
+the judgment creditor in a court of competent jurisdiction.
+
+</dd> </dl>
+
+<center>Back to Top</center>
+
+**
+
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 62A  Payments may be made by Papua New Guinea 
+**
+
+ <dl compact="">
+
+		Where the whole or part of any benefit payable to a person under this Act is
+
+paid to that person by the Government of Papua New Guinea out of the moneys of
+
+that Government, the amount of that benefit that would, but for this section,
+
+be payable under this Act by Australia to that person shall be reduced by the
+
+amount so paid.
+
+ </dl>
+
+**
+
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 64  Delegations 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Minister or the Commissioner may, by instrument in writing, delegate
+
+to a person, either generally or otherwise as provided by the instrument of
+
+delegation, all or any of his powers and functions under this Act (except this
+
+power of delegation).</dd> <dt>(2)</dt><dd>A power or function so delegated may be exercised or performed by the delegate in accordance with the instrument of delegation and, when so exercised or performed, shall, for the purposes of this Act, be deemed to have been exercised or performed by the Minister or by the Commissioner, as the case may be.</dd> <dt>(3)</dt><dd>A delegation under this section is revocable at will and does not prevent the exercise of a power or the performance of a function by the Minister or by the Commissioner, as the case may be. </dd> </dl>
+
+**
+
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973- SECT 65  Regulations 
+**
+
+ <dl compact="">
+
+<dt>(1)</dt><dd>The Governor-General may make regulations, not inconsistent with this Act,
+
+prescribing all matters that by this Act are required or permitted to be
+
+prescribed or to be provided for by regulation, or that are necessary or
+
+convenient to be prescribed for giving effect to this Act, and, in particular:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>for enabling a specified officer of the Public Service of the Commonwealth
+
+to delegate his powers and functions under regulations made for the purposes of
+
+Part&#160;II; and</dd>
+
+<dt>(b)</dt><dd>for prescribing penalties not exceeding a fine of One hundred dollars for
+
+offences against the regulations.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(2)</dt><dd>The power to make regulations conferred by this Act shall not be taken, by
+
+implication, not to include the power to make provision for or in relation to a
+
+matter by reason only of the fact that:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>provision is made by this Act in relation to that matter or another
+
+matter; or</dd>
+
+<dt>(b)</dt><dd>power is expressly conferred by this Act to make provision by regulation
+
+for or in relation to another matter.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(3)</dt><dd>The power to make regulations conferred by this Act may be exercised:
+
+</dd> </dl>
+
+<dl compact=""><dl compact=""><dl compact="">
+
+<dt>(a)</dt><dd>in relation to all cases to which the power extends, or in relation to all
+
+those cases subject to specified exceptions, or in relation to any specified
+
+cases or classes of case; and</dd>
+
+<dt>(b)</dt><dd>so as to make, as respects the cases in relation to which it is exercised,
+
+the same provision for all those cases or a different provision for different
+
+cases or classes of case.
+
+</dd>
+
+</dl></dl></dl>
+
+<dl compact="">
+
+<dt>(4)</dt><dd>The power conferred by this Act to make modifications by regulation
+
+includes the power to omit any matter or add any new matter.</dd> <dt>(5)</dt><dd>The limitation imposed by subsection&#160;(1) on the penalties that may be prescribed by regulation does not prevent the regulations from requiring a person to make a statutory declaration. </dd> </dl>
+
+<center>**
+
+###  PAPUA NEW GUINEA (STAFFING ASSISTANCE) ACT 1973<centreit>Notes to the _Papua New Guinea (Staffing Assistance) Act 1973_ </centreit>
+**</center>
+
+<center>Back to Top</center>
+
+**Note 1**
+
+The _Papua New Guinea (Staffing Assistance) Act 1973_ as shown in this compilation comprises Act No.&#160;70, 1973 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>Act</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Number 
 and year</div>
-    </td>
-    <td>
-      <div>Date 
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date 
 of Assent</div>
-    </td>
-    <td>
-      <div>Date of commencement</div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Papua New Guinea (Staffing Assistance) Act 1973</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Date of commencement</div>
+
+  </th>
+  <th colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
+  </th>
+</tr></table>
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Papua New Guinea (Staffing Assistance) Act 1973</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>70, 1973</div>
+
   </td>
-  <td>
-    <div>18 June 1973</div>
+  <td colspan="1" align="left">
+    <div>18&#160;June 1973</div>
+
   </td>
-  <td>
-    <div>1 Dec 1973 ( <i>see Gazette</i>1973, No. 178A)</div>
+  <td colspan="1" align="left">
+    <div>1 Dec 1973 ( <i>see Gazette</i>1973, No.&#160;178A)</div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Papua New Guinea (Staffing Assistance) Act 1975</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Papua New Guinea (Staffing Assistance) Act 1975</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>100, 1975</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>9 Sept 1975</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>9 Sept 1975</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>Ss. 11 and 12</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Papua New Guinea (Staffing Assistance) Termination Act 1976</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Papua New Guinea (Staffing Assistance) Termination Act 1976</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>69, 1976</div>
+
   </td>
-  <td>
-    <div>9 June 1976</div>
+  <td colspan="1" align="left">
+    <div>9&#160;June 1976</div>
+
   </td>
-  <td>
-    <div>Ss. 3(a), (c), (f), 
-4–7, 13–16, 20, 22, 24, 25 and 31–33: 1 July 1976 
+  <td colspan="1" align="left">
+    <div>Ss. 3(a), (c), (f), 4-7, 13-16, 20, 22, 24, 25 and 31-33: 1&#160;July 1976 
 Remainder: Royal Assent</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 23 (am. by 36, 1978, s. 3) 
-Ss. 24–34</div>
+Ss. 24-34</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>as amended by</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><b>as amended by</b></div>
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Administrative Changes (Consequential Provisions) Act 1978</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>36, 1978</div>
+
   </td>
-  <td>
-    <div>12 June 1978</div>
+  <td colspan="1" align="left">
+    <div>12&#160;June 1978</div>
+
   </td>
-  <td>
-    <div>12 June 1978</div>
+  <td colspan="1" align="left">
+    <div>12&#160;June 1978</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Administrative Changes (Consequential Provisions) Act 1978</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>36, 1978</div>
+
   </td>
-  <td>
-    <div>12 June 1978</div>
+  <td colspan="1" align="left">
+    <div>12&#160;June 1978</div>
+
   </td>
-  <td>
-    <div>12 June 1978</div>
+  <td colspan="1" align="left">
+    <div>12&#160;June 1978</div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>S. 8</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act 1990</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Superannuation Legislation Amendment Act 1990</i></div>
+
   </td>
-  <td>
+  <td colspan="1" align="left">
     <div>40, 1990</div>
+
   </td>
-  <td>
-    <div>7 June 1990</div>
+  <td colspan="1" align="left">
+    <div>7&#160;June 1990</div>
+
   </td>
-  <td>
-    <div>Part 5 (ss. 
-107–113): Royal Assent <i>(a)</i></div>
+  <td colspan="1" align="left">
+    <div>Part&#160;5 (ss. 107-113): Royal Assent <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>—</div>
+  <td colspan="1" align="left">
+    <div>&#151;</div>
+
   </td>
+</tr></table>_(a)_ 
+<center>Back to Top</center>
+ The _Papua New Guinea (Staffing Assistance) Act 1973_ was amended by Part&#160;5 (sections&#160;107-113) only of the _Superannuation Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
+
+	(1)	The following provisions:
+
+	(a)	Parts&#160;1 and 2, sections&#160;6, 69, 70, 71, 94 and 98 and Part&#160;5, of this Act; 
+
+		commence on the day on which this Act receives the Royal Assent.
+
+**Table of Amendments**
+
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
+
+  </th>
 </tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011</div>
-  </td>
-  <td>
-    <div>58, 2011</div>
-  </td>
-  <td>
-    <div>28 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 125–147): <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tr align="left">
+  <th colspan="1" align="left">
+    <div>Provision affected</div>
 
-_(a)_     The _Papua New Guinea (Staffing Assistance) Act 1973_ was amended by Part 5 (sections 107–113) only of the _Superannuation Legislation Amendment Act 1990_, subsection 2(1) of which provides as follows:
+  </th>
+  <th colspan="1" align="left">
+    <div>How affected</div>
 
-                 (1)   The following provisions:
-
-                              (a)   Parts 1 and 2, sections 6, 69, 70, 71, 94 and 98 and Part 5, of this Act; 
-
-                         commence on the day on which this Act receives the Royal Assent.
-
-_(b)_     Subsection 2(1) (item 2) of the _Superannuation Legislation (Consequential Amendments and Transitional Provisions) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      2\. Schedules 1 and 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Governance of Australian Government Superannuation Schemes Act 2011</i>.
-    </div>
-  </td>
-  <td>
-    <div>
-      1 July 2011
-    </div>
-  </td>
-</tr></table>
-
-## Table of Amendments
-
-<table>
-<colgroup>
-  <col width="29%">
-  <col width="71%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected</div>
-    </td>
-    <td>
-      <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
+  </th>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 3</div>
+
   </td>
-  <td>
-    <div>am. No. 100, 1975; No. 69, 1976; No. 40, 1990; No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part II</div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;100, 1975; No.&#160;69, 1976; No.&#160;40, 1990</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 4–11</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part&#160;II 
+(ss. 4-11)</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 4-11</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 12, 13</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 14</div>
+
   </td>
-  <td>
-    <div>am. No. 100, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;100, 1975</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 15–18</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 15-18</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 19</div>
+
   </td>
-  <td>
-    <div>am. No. 100, 1975; No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
-  </td>
-  <td>
-    <div>rs. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;100, 1975; No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part&#160;IV 
+(ss. 20-33)</div>
+
   </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part&#160;IV 
+(ss. 20, 21)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;69, 1976</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 20</div>
+
   </td>
-  <td>
-    <div>rs. No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 40, 1990</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;40, 1990</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 21</div>
+
   </td>
-  <td>
-    <div>am. No. 100, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;100, 1975</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>am. No. 36, 1978; No. 40, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;36, 1978; No.&#160;40, 1990</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>Ss. 22, 23</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 24</div>
+
   </td>
-  <td>
-    <div>am. No. 100, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;100, 1975</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 25–28</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 25-28</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 28A</div>
+
   </td>
-  <td>
-    <div>ad. No. 100, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;100, 1975</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 29–33</div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 34–37</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 29-33</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 34-37</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 38</div>
+
   </td>
-  <td>
-    <div>am. No. 100, 1975; No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI</div>
-  </td>
-  <td>
-    <div>rep. No. 40, 1990</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;100, 1975; No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 39</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part&#160;VI (s. 40)</div>
+
+  </td>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;40, 1990</div>
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 40</div>
+
   </td>
-  <td>
-    <div>rs. No.69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 40, 1990</div>
+  <td colspan="1" align="left">
+    <div>rs. No.69, 1976 
+rep. No.&#160;40, 1990</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Part VII</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part VII 
+(ss. 41-47)</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 41–47</div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Part VIII</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 41-47</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 48–53</div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Part VIII 
+(ss. 48-53)</div>
+
   </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of 
-Part IX</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 48-53</div>
+
   </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 54</div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 54</div>
+
   </td>
-  <td>
-    <div>rs. No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 58, 2011</div>
+  <td colspan="1" align="left">
+    <div>rs. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 2 of Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 55</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Ss. 55A–55F</div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Ss. 56, 57</div>
+
   </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Div. 3 of Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55G</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of 
-Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55H</div>
-  </td>
-  <td>
-    <div>ad. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 69, 1976; No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 57</div>
-  </td>
-  <td>
-    <div>am. No. 69, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 58, 2011</div>
-  </td>
-</tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 58</div>
+
   </td>
-  <td>
-    <div>am No. 69, 1976; No. 40, 1990</div>
+  <td colspan="1" align="left">
+    <div>am No.&#160;69, 1976; No.&#160;40, 1990</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 59</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 60</div>
+
   </td>
-  <td>
-    <div>am. No. 69, 1976; No. 40, 1990</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;69, 1976; No.&#160;40, 1990</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 61</div>
+
   </td>
-  <td>
-    <div>am. No. 69, 1976; No. 58, 2011</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 62</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 62A</div>
+
   </td>
-  <td>
-    <div>ad. No. 100, 1975</div>
+  <td colspan="1" align="left">
+    <div>ad. No.&#160;100, 1975</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 63</div>
+
   </td>
-  <td>
-    <div>rep. No. 69, 1976</div>
+  <td colspan="1" align="left">
+    <div>rep. No.&#160;69, 1976</div>
+
   </td>
 </tr>
-<tr>
-  <td>
+<tr align="left">
+  <td colspan="1" align="left">
     <div>S. 64</div>
+
   </td>
-  <td>
-    <div>am. No. 69, 1976; No. 58, 2011</div>
+  <td colspan="1" align="left">
+    <div>am. No.&#160;69, 1976</div>
+
   </td>
 </tr></table>
 
- 
+</def>
+
+
