@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00336/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00553/Html/PrimIndEnResDvptA1989_WD02_image001.gif)
 
 # Primary Industries and Energy Research and Development Act 1989
 
 **Act No. 17 of 1990 as amended**
 
-This compilation was prepared on 30 May 2007
- taking into account amendments up to Act No. 71 of 2007
+This compilation was prepared on 28 September 2006
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,375 +18,377 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Objects
+[3](#3).            Objects                                                                                                 1
 
-[4](#4).            Definitions
+[4](#4).            Definitions                                                                                           2
 
-[5](#5).            Levies attached to R&amp;D Corporations or R&amp;D Funds
+[5](#5).            Levies attached to R&amp;D Corporations or R&amp;D Funds                       7
 
-[6](#6).            Redirecting levies
+[6](#6).            Redirecting levies                                                                                 8
 
-[7](#7).            Representative organisations
+[7](#7).            Representative organisations                                                               9
 
 **Part 2—Research and Development Corporations** 
 
     **Division 1—Establishment, functions and powers of Research and Development Corporations**
 
-[8](#8).            Establishment of Research and Development Corporations
+[8](#8).            Establishment of Research and Development Corporations             10
 
-[9](#9).            Establishment of the Rural Industries Research and Development Corporation
+[9](#9).            Establishment of the Rural Industries Research and Development Corporation    10
 
-[10](#10).          R&amp;D Corporation is body corporate etc 
+[10](#10).          R&amp;D Corporation is body corporate etc                                           10
 
-[11](#11).          Functions
+[11](#11).          Functions                                                                                           11
 
-[12](#12).          Powers
+[12](#12).          Powers                                                                                               12
 
-[13](#13).          Agreements for carrying out R&amp;D activities by other persons
+[13](#13).          Agreements for carrying out R&amp;D activities by other persons         12
 
-[14](#14).          Agreements for carrying out R&amp;D activities with other persons
+[14](#14).          Agreements for carrying out R&amp;D activities with other persons      13
 
-[15](#15).          Consultations with persons and organisations
+[15](#15).          Consultations with persons and organisations                                  14
 
     **Division 2—Constitution of Research and Development Corporations**
 
-[16](#16).          Constitution
+[16](#16).          Constitution                                                                                       15
 
-[17](#17).          Appointment of directors
+[17](#17).          Appointment of directors                                                                  15
 
-[18](#18).          Members of executive of representative organisation not eligible for appointment etc 
+[18](#18).          Members of executive of representative organisation not eligible for appointment etc          15
 
     **Division 3—R&amp;D plans and annual operational plans**
 
-[19](#19).          R&amp;D plans
+[19](#19).          R&amp;D plans                                                                                         17
 
-[20](#20).          Approval of R&amp;D plans
+[20](#20).          Approval of R&amp;D plans                                                                    17
 
-[21](#21).          Variation of R&amp;D plans
+[21](#21).          Variation of R&amp;D plans                                                                     18
 
-[22](#22).          Approval for varied R&amp;D plans to run for 4 years from next 1 July
+[22](#22).          Approval for varied R&amp;D plans to run for 4 years from next 1 July 19
 
-[23](#23).          When variations of R&amp;D plans take effect
+[23](#23).          When variations of R&amp;D plans take effect                                        20
 
-[24](#24).          Consultation
+[24](#24).          Consultation                                                                                      20
 
-[25](#25).          Annual operational plans
+[25](#25).          Annual operational plans                                                                   20
 
-[26](#26).          Approval of annual operational plans
+[26](#26).          Approval of annual operational plans                                               22
 
-[27](#27).          Compliance with R&amp;D plans and annual operational plans
+[27](#27).          Compliance with R&amp;D plans and annual operational plans              24
 
     **Division 4—Accountability**
 
-[28](#28).          Annual report
+[28](#28).          Annual report                                                                                    25
 
-[29](#29).          Accountability to representative organisations
+[29](#29).          Accountability to representative organisations                                 26
 
     **Division 5—Finance**
 
-[30](#30).          Payments to R&amp;D Corporation—general
+[30](#30).          Payments to R&amp;D Corporation—general                                         28
 
-[30A](#30A).       Payments to an R&amp;D Corporation established in respect of the fishing industry
+[30A](#30A).       Payments to an R&amp;D Corporation established in respect of the fishing industry  29
 
-[31](#31).          Government matching payments not to exceed levy and certain other payments
+[31](#31).          Government matching payments not to exceed levy and certain other payments  31
 
-[32](#32).          Commonwealth’s matching payments not to exceed certain proportion of production
+[32](#32).          Commonwealth’s matching payments not to exceed certain proportion of production         31
 
-[33](#33).          Expenditure of money of R&amp;D Corporations
+[33](#33).          Expenditure of money of R&amp;D Corporations                                   32
 
-[33A](#33A).       Expenditure of money by an R&amp;D Corporation established in respect of forest industries
+[33A](#33A).       Expenditure of money by an R&amp;D Corporation established in respect of forest industries   33
 
-[34](#34).          Commonwealth to be paid levy expenses from R&amp;D Corporations
+[34](#34).          Commonwealth to be paid levy expenses from R&amp;D Corporations 33
 
-[35](#35).          Commonwealth to be reimbursed for refunds of levy [_see_ Note 2]
+[35](#35).          Commonwealth to be reimbursed for refunds of levy [_see_ Note 2]  33
 
-[36](#36).          Transfers of money where levies redirected
+[36](#36).          Transfers of money where levies redirected                                      34
 
-[37](#37).          Payment of amounts of levy where levies redirected
+[37](#37).          Payment of amounts of levy where levies redirected                        35
 
-[38](#38).          Payment of matching contributions where levies redirected
+[38](#38).          Payment of matching contributions where levies redirected             35
 
-[39](#39).          Treatment of amounts received, after levies redirected, as a result of earlier expenditure
+[39](#39).          Treatment of amounts received, after levies redirected, as a result of earlier expenditure       36
 
-[40](#40).          Separate accounting records
+[40](#40).          Separate accounting records                                                               37
 
-[41](#41).          Borrowing from Commonwealth
+[41](#41).          Borrowing from Commonwealth                                                       37
 
-[42](#42).          Borrowing from persons other than the Commonwealth
+[42](#42).          Borrowing from persons other than the Commonwealth                  38
 
-[43](#43).          Guarantee of borrowing
+[43](#43).          Guarantee of borrowing                                                                     38
 
-[44](#44).          Borrowing not otherwise permitted
+[44](#44).          Borrowing not otherwise permitted                                                  38
 
-[45](#45).          R&amp;D Corporations may give security
+[45](#45).          R&amp;D Corporations may give security                                               38
 
-[46](#46).          Liability to taxation
+[46](#46).          Liability to taxation                                                                           39
 
-[46A](#46A).       Delegation by Finance Minister
+[46A](#46A).       Delegation by Finance Minister                                                        39
 
     **Division 6—Meetings of Research and Development Corporations**
 
-[47](#47).          Times and places of meetings
+[47](#47).          Times and places of meetings                                                            40
 
-[48](#48).          Presiding at meetings
+[48](#48).          Presiding at meetings                                                                         40
 
-[49](#49).          Quorum
+[49](#49).          Quorum                                                                                              40
 
-[50](#50).          Voting at meetings
+[50](#50).          Voting at meetings                                                                             40
 
-[51](#51).          Conduct of meetings
+[51](#51).          Conduct of meetings                                                                          41
 
-[52](#52).          Resolutions without meetings
+[52](#52).          Resolutions without meetings                                                           41
 
-[53](#53).          Minutes
+[53](#53).          Minutes                                                                                             41
 
-[55](#55).          Persons may be invited to attend meetings
+[55](#55).          Persons may be invited to attend meetings                                       41
 
     **Division 7—Annual general meetings**
 
-[56](#56).          Application of Division
+[56](#56).          Application of Division                                                                     42
 
-[57](#57).          List of levy payers
+[57](#57).          List of levy payers                                                                            42
 
-[58](#58).          R&amp;D Corporation to convene annual general meetings
+[58](#58).          R&amp;D Corporation to convene annual general meetings                     43
 
-[59](#59).          Notice of the convening of an annual general meeting
+[59](#59).          Notice of the convening of an annual general meeting                       43
 
-[60](#60).          Purpose of annual general meeting
+[60](#60).          Purpose of annual general meeting                                                     43
 
-[61](#61).          Regulations may provide for certain matters
+[61](#61).          Regulations may provide for certain matters                                     44
 
-[62](#62).          Conduct of annual general meetings
+[62](#62).          Conduct of annual general meetings                                                   45
 
-[63](#63).          Motions of no confidence
+[63](#63).          Motions of no confidence                                                                  45
 
-[64](#64).          Notification of motions passed
+[64](#64).          Notification of motions passed                                                         46
 
     **Division 8—Provisions relating to directors other than Executive Directors**
 
-[65](#65).          Definition
+[65](#65).          Definition                                                                                           47
 
-[66](#66).          Term of office
+[66](#66).          Term of office                                                                                    47
 
-[67](#67).          Directors hold office on part-time basis
+[67](#67).          Directors hold office on part-time basis                                            47
 
-[68](#68).          Remuneration and allowances of directors
+[68](#68).          Remuneration and allowances of directors                                        47
 
-[69](#69).          Terms and conditions of appointment not provided for by Act
+[69](#69).          Terms and conditions of appointment not provided for by Act       48
 
-[70](#70).          Outside employment
+[70](#70).          Outside employment                                                                         48
 
-[71](#71).          Leave of absence
+[71](#71).          Leave of absence                                                                                48
 
-[72](#72).          Resignation
+[72](#72).          Resignation                                                                                        48
 
-[73](#73).          Termination of appointment
+[73](#73).          Termination of appointment                                                             48
 
-[74](#74).          Deputy Chairperson
+[74](#74).          Deputy Chairperson                                                                          49
 
     **Division 9—Executive Director**
 
-[75](#75).          Executive Director
+[75](#75).          Executive Director                                                                             51
 
-[76](#76).          Duties
+[76](#76).          Duties                                                                                                51
 
-[77](#77).          Appointment
+[77](#77).          Appointment                                                                                     51
 
-[78](#78).          Term of appointment etc 
+[78](#78).          Term of appointment etc                                                                   51
 
-[79](#79).          Executive Director holds office on full-time or part-time basis
+[79](#79).          Executive Director holds office on full-time or part-time basis         52
 
-[80](#80).          Executive Director not to engage in other paid employment
+[80](#80).          Executive Director not to engage in other paid employment             52
 
-[81](#81).          Terms and conditions of appointment
+[81](#81).          Terms and conditions of appointment                                              52
 
-[82](#82).          Leave of absence
+[82](#82).          Leave of absence                                                                                52
 
-[83](#83).          Resignation
+[83](#83).          Resignation                                                                                        52
 
-[85](#85).          Acting Executive Director
+[84](#84).          Disclosure of interests                                                                       53
 
-[86](#86).          Exclusion of Executive Director etc  from certain deliberations
+[85](#85).          Acting Executive Director                                                                  53
+
+[86](#86).          Exclusion of Executive Director etc  from certain deliberations        53
 
     **Division 10—Employees and consultants**
 
-[87](#87).          Employees
+[87](#87).          Employees                                                                                         55
 
-[88](#88).          Consultants
+[88](#88).          Consultants                                                                                        55
 
     **Division 11—Miscellaneous**
 
-[89](#89).          Committees
+[89](#89).          Committees                                                                                        56
 
-[90](#90).          Delegation by R&amp;D Corporation
+[90](#90).          Delegation by R&amp;D Corporation                                                      56
 
-[91](#91).          Delegation by Executive Director
+[91](#91).          Delegation by Executive Director                                                      57
 
 **Part 3—Research and Development Councils and Research and Development Funds** 
 
     **Division 1—Establishment, functions and powers of Research and Development Councils**
 
-[92](#92).          Establishment
+[92](#92).          Establishment                                                                                    58
 
-[93](#93).          Functions
+[93](#93).          Functions                                                                                           58
 
-[94](#94).          Powers
+[94](#94).          Powers                                                                                               59
 
-[95](#95).          Consultations with persons and organisations
+[95](#95).          Consultations with persons and organisations                                  59
 
-[96](#96).          Additional functions of the RIR&amp;D Corporation
+[96](#96).          Additional functions of the RIR&amp;D Corporation                             59
 
     **Division 2—Constitution and meetings of R&amp;D Councils**
 
-[97](#97).          Constitution of R&amp;D Councils
+[97](#97).          Constitution of R&amp;D Councils                                                          61
 
-[98](#98).          Appointment of members
+[98](#98).          Appointment of members                                                                 61
 
-[99](#99).          Members of executive of representative organisation not eligible for appointment etc 
+[99](#99).          Members of executive of representative organisation not eligible for appointment etc          61
 
-[100](#100).        Applied provisions
+[100](#100).        Applied provisions                                                                            62
 
     **Division 3—R&amp;D plans and annual operational plans**
 
-[101](#101).        R&amp;D plans
+[101](#101).        R&amp;D plans                                                                                         63
 
-[102](#102).        Annual operational plans
+[102](#102).        Annual operational plans                                                                   63
 
-[103](#103).        Approval etc  of annual operational plans
+[103](#103).        Approval etc  of annual operational plans                                        64
 
-[104](#104).        Compliance with R&amp;D plans and annual operational plans
+[104](#104).        Compliance with R&amp;D plans and annual operational plans              65
 
     **Division 4—Accountability**
 
-[105](#105).        Annual report
+[105](#105).        Annual report                                                                                    66
 
-[106](#106).        Accountability to representative organisations
+[106](#106).        Accountability to representative organisations                                 67
 
     **Division 5—Research and Development Funds**
 
-[107](#107).        Establishment of Research and Development Funds
+[107](#107).        Establishment of Research and Development Funds                        69
 
-[108](#108).        Money to be paid into R&amp;D Funds
+[108](#108).        Money to be paid into R&amp;D Funds                                                  69
 
-[109](#109).        Government matching payments not to exceed levy payments
+[109](#109).        Government matching payments not to exceed levy payments        70
 
-[110](#110).        Commonwealth’s matching payments not to exceed certain proportion of production
+[110](#110).        Commonwealth’s matching payments not to exceed certain proportion of production         70
 
-[111](#111).        Additional money payable into R&amp;D Funds
+[111](#111).        Additional money payable into R&amp;D Funds                                    70
 
-[112](#112).        Expenditure of money in R&amp;D Funds
+[112](#112).        Expenditure of money in R&amp;D Funds                                               71
 
-[113](#113).        Commonwealth to be paid levy expenses from R&amp;D Funds
+[113](#113).        Commonwealth to be paid levy expenses from R&amp;D Funds            72
 
-[114](#114).        Commonwealth to be reimbursed for refunds of levy
+[114](#114).        Commonwealth to be reimbursed for refunds of levy                       72
 
-[115](#115).        Transfers of money where levies redirected
+[115](#115).        Transfers of money where levies redirected                                      73
 
-[116](#116).        Payment of amounts of levy where levies redirected
+[116](#116).        Payment of amounts of levy where levies redirected                        74
 
-[117](#117).        Payment of matching contributions where levies redirected
+[117](#117).        Payment of matching contributions where levies redirected             74
 
-[118](#118).        Treatment of amounts received, after levies redirected, as a result of earlier expenditure
+[118](#118).        Treatment of amounts received, after levies redirected, as a result of earlier expenditure       75
 
     **Division 6—Employees, consultants and administrative agreements**
 
-[119](#119).        Employees
+[119](#119).        Employees                                                                                         77
 
-[120](#120).        Consultants
+[120](#120).        Consultants                                                                                        77
 
-[121](#121).        Administrative agreements
+[121](#121).        Administrative agreements                                                                77
 
 **Part 4—Selection Committees** 
 
     **Division 1—Establishment etc. of Selection Committees**
 
-[122](#122).        Presiding Members of Selection Committees
+[122](#122).        Presiding Members of Selection Committees                                    78
 
-[123](#123).        Minister may request the establishment of a Selection Committee
+[123](#123).        Minister may request the establishment of a Selection Committee  78
 
-[124](#124).        Establishment of Selection Committees—R&amp;D Corporations
+[124](#124).        Establishment of Selection Committees—R&amp;D Corporations         79
 
-[125](#125).        Establishment of Selection Committees—predominantly Commonwealth funded R&amp;D Corporations
+[125](#125).        Establishment of Selection Committees—predominantly Commonwealth funded R&amp;D Corporations 80
 
-[126](#126).        Establishment of Selection Committees—R&amp;D Councils
+[126](#126).        Establishment of Selection Committees—R&amp;D Councils                 82
 
-[127](#127).        Function of Selection Committees
+[127](#127).        Function of Selection Committees                                                     83
 
-[128](#128).        Powers of Selection Committees
+[128](#128).        Powers of Selection Committees                                                       83
 
-[129](#129).        Presiding Member to abolish Selection Committee
+[129](#129).        Presiding Member to abolish Selection Committee                           83
 
     **Division 2—The selection process**
 
-[130](#130).        Nominations to be made by Selection Committees
+[130](#130).        Nominations to be made by Selection Committees                           85
 
-[131](#131).        Selecting persons for nomination
+[131](#131).        Selecting persons for nomination                                                       85
 
-[132](#132).        Selection Committee to make only one nomination
+[132](#132).        Selection Committee to make only one nomination                          86
 
-[133](#133).        Minister may request further information
+[133](#133).        Minister may request further information                                         87
 
-[134](#134).        Minister may reject nomination
+[134](#134).        Minister may reject nomination                                                        87
 
     **Division 3—Preliminary selection arrangements**
 
-[135](#135).        Selection arrangements for proposed R&amp;D Corporations
+[135](#135).        Selection arrangements for proposed R&amp;D Corporations                 88
 
-[136](#136).        Selection arrangements for the RIR&amp;D Corporation before its establishment
+[136](#136).        Selection arrangements for the RIR&amp;D Corporation before its establishment        89
 
-[137](#137).        Selection arrangements for proposed R&amp;D Councils
+[137](#137).        Selection arrangements for proposed R&amp;D Councils                        90
 
     **Division 4—Other provisions relating to Selection Committees**
 
-[138](#138).        Applied provisions and disclosure of interest provisions
+[138](#138).        Applied provisions and disclosure of interest provisions                 92
 
-[139](#139).        Employees
+[139](#139).        Employees                                                                                         93
 
-[140](#140).        Consultants
+[140](#140).        Consultants                                                                                        93
 
-[141](#141).        Annual reports of Selection Committees
+[141](#141).        Annual reports of Selection Committees                                           94
 
 **Part 5—Miscellaneous**
 
-[142](#142).        Co-ordination meetings
+[142](#142).        Co-ordination meetings                                                                      95
 
-[143](#143).        Minister may give directions
+[143](#143).        Minister may give directions                                                             95
 
-[144](#144).        Transfer of assets etc  on the establishment of an R&amp;D Corporation or R&amp;D Council
+[144](#144).        Transfer of assets etc  on the establishment of an R&amp;D Corporation or R&amp;D Council         96
 
-[145](#145).        Transfer of assets etc  on cessation of an R&amp;D Corporation or R&amp;D Council
+[145](#145).        Transfer of assets etc  on cessation of an R&amp;D Corporation or R&amp;D Council       96
 
-[146](#146).        Alteration of agreements and instruments on establishment of an R&amp;D Corporation or R&amp;D Council
+[146](#146).        Alteration of agreements and instruments on establishment of an R&amp;D Corporation or R&amp;D Council 97
 
-[147](#147).        Alteration of agreements and instruments on cessation of an R&amp;D Corporation or R&amp;D Council
+[147](#147).        Alteration of agreements and instruments on cessation of an R&amp;D Corporation or R&amp;D Council        98
 
-[148](#148).        Renaming of R&amp;D Corporations and R&amp;D Councils
+[148](#148).        Renaming of R&amp;D Corporations and R&amp;D Councils                        99
 
-[149](#149).        Regulations
+[149](#149).        Regulations                                                                                        99
 
-[150](#150).        Orders
+[150](#150).        Orders                                                                                              100
 
 **Part 6—Transitional provisions and consequential amendments**
 
-[151](#151).        Transitional—Research Funds under the _Rural Industries Research Act 1985_
+[151](#151).        Transitional—Research Funds under the _Rural Industries Research Act 1985_       101
 
-[152](#152).        Transitional—Research Councils and State Research Committees under the _Rural Industries Research Act 1985_
+[152](#152).        Transitional—Research Councils and State Research Committees under the _Rural Industries Research Act 1985_                                                                                                         104
 
-[153](#153).        Transitional—Coal Research Trust Account
+[153](#153).        Transitional—Coal Research Trust Account                                  105
 
-[154](#154).        Other Trust Accounts
+[154](#154).        Other Trust Accounts                                                                     106
 
-[155](#155).        Closure of Trust Accounts etc 
+[155](#155).        Closure of Trust Accounts etc                                                        107
 
-[156](#156).        Abolition of Special Research Council and Special Research Fund
+[156](#156).        Abolition of Special Research Council and Special Research Fund 107
 
-[157](#157).        Amendments of other Acts
+[157](#157).        Amendments of other Acts                                                             108
 
 **Schedule 1—Abolition of Special Research Council and Special Research Fund** 
 
@@ -456,6 +458,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  the Chairperson; and
 
+                     (b)  the government director; and
+
                      (c)  the Executive Director;
 
 of the Corporation.
@@ -465,6 +469,10 @@ of the Corporation.
                     <a name="execut-director"></a>**_Executive Director_**, in relation to an R&amp;D Corporation, means the Executive Director of the Corporation appointed under Division 9 of Part 2.
 
                     <a name="financ-minist"></a>**_Finance Minister_** means the Minister who administers the _Financial Management and Accountability Act 1997_.
+
+                    <a name="govern-director"></a>**_government director_** means the government director of an R&amp;D Corporation.
+
+                    <a name="govern-member"></a>**_government member_** means the government member of an R&amp;D Council.
 
                     <a name="levi"></a>**_levy_** includes:
 
@@ -478,13 +486,19 @@ of the Corporation.
 
                     <a name="member"></a>**_member_** means:
 
-                     (a)  in relation to an R&amp;D Council—a member of the Council including the Chairperson; and
+                     (a)  in relation to an R&amp;D Council—a member of the Council, and includes:
+
+                              (i)  the Chairperson; and
+
+                             (ii)  the government member;
+
+                            of the Council; and
 
                      (b)  in relation to a Selection Committee—a member of the Selection Committee, and includes the Presiding Member of the Selection Committee.
 
-                    <a name="nomin-director"></a>**_nominated director_** means a director of an R&amp;D Corporation, other than the Chairperson or the Executive Director of the Corporation.
+                    <a name="nomin-director"></a>**_nominated director_** means a director of an R&amp;D Corporation, other than the Chairperson, a government director or the Executive Director of the Corporation.
 
-                    <a name="nomin-member"></a>**_nominated member_** means a member of an R&amp;D Council other than the Chairperson of the Council.
+                    <a name="nomin-member"></a>**_nominated member_** means a member of an R&amp;D Council other than the Chairperson or government member of the Council.
 
                     <a name="order"></a>**_order_** means an order made under section 150.
 
@@ -726,14 +740,6 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                             R&amp;D activities that are co-ordinated or funded, wholly or partly, by the Corporation; and
 
-                    (da)  to:
-
-                              (i)  assess; and
-
-                             (ii)  report to the Parliament, the Minister and its representative organisations on;
-
-                            the impact, on the primary industry or class of primary industries in respect of which the Corporation was established, of R&amp;D activities that are co-ordinated or funded, wholly or partly, by the Corporation; and
-
                      (e)  to facilitate the dissemination, adoption and commercialisation of the results of research and development in relation to the primary industry or class of primary industries in respect of which the Corporation was established; and
 
                       (f)  such other functions as are conferred on the Corporation by this Act or any other Act.
@@ -824,15 +830,19 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  a Chairperson; and
 
+                     (b)  a government director; and
+
                      (c)  an Executive Director; and
 
-                     (d)  such number of other directors, not fewer than 5 nor more than 7, as the Minister determines, in writing, to be appropriate for that Corporation.
+                     (d)  such number of other directors, not fewer than 4 nor more than 6, as the Minister determines, in writing, to be appropriate for that Corporation.
 
              (2)  The performance of the functions and the exercise of the powers of an R&amp;D Corporation are not affected merely because of vacancies in the Corporation’s directorship.
 
 ##### <a id="17"></a>17  Appointment of directors
 
              (1)  The directors of an R&amp;D Corporation (other than the Executive Director) are to be appointed by the Minister.
+
+             (2)  The Minister must not appoint a person as the government director of an R&amp;D Corporation unless the Minister is satisfied that the person has experience in, and knowledge of, government policy processes and public administration.
 
              (3)  The nominated directors of an R&amp;D Corporation are to be appointed from persons nominated by a Selection Committee under Part 4.
 
@@ -966,8 +976,6 @@ the Minister may, by notice in writing given to the Corporation, give his or her
 
                    Before preparing or varying an R&amp;D plan, or making a request under subsection 22(1), an R&amp;D Corporation must consult, and have regard to the views expressed by:
 
-                    (aa)  the Minister; and
-
                      (a)  each of its representative organisations; and
 
                      (b)  such other persons or organisations as it considers appropriate.
@@ -1083,8 +1091,6 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
                              (ii)  the amount that it spent during the period in relation to each of those activities; and
 
                            (iia)  which (if any) of those activities related to ecologically sustainable development; and
-
-                           (iib)  the impact of those activities on the primary industry or class of primary industries in respect of which the Corporation was established; and
 
                             (iii)  revisions of its R&amp;D plan or annual operational plan approved by the Minister during the period; and
 
@@ -1652,7 +1658,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                               (i)  within one month after the meeting, by notice published in the _Gazette_, terminate the appointment of each of the directors (other than the Executive Director) with effect from a day specified in the notice; and
 
-                             (ii)  under section 17, appoint a different Chairperson; and
+                             (ii)  under section 17, appoint a different Chairperson and a different government director; and
 
                             (iii)  under section 17, appoint persons, in accordance with Part 4, in the place of the nominated directors whose appointments have been so terminated.
 
@@ -1682,9 +1688,13 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (a)  is to be appointed with effect from the day specified in the instrument of appointment; and
 
-                     (b)  holds office, subject to this Act, for such term (not exceeding 3 years) as is specified in the instrument of appointment, but is eligible for re-appointment in accordance with this Act.
+                     (b)  holds office, subject to this Act:
 
-             (2)  If a director ceases to hold office before the end of the term of appointment, another person may, in accordance with this Act, be appointed in the director’s place until the end of the term.
+                              (i)  in the case of a director other than the government director—for such term (not exceeding 3 years) as is specified in the instrument of appointment, but is eligible for re-appointment in accordance with this Act; or
+
+                             (ii)  in the case of the government director—during the Minister’s pleasure.
+
+             (2)  If a director (other than the government director) ceases to hold office before the end of the term of appointment, another person may, in accordance with this Act, be appointed in the director’s place until the end of the term.
 
 ##### <a id="67"></a>67  Directors hold office on part-time basis
 
@@ -1710,7 +1720,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (1)  The Minister may grant leave of absence to the Chairperson on such terms and conditions as the Minister considers appropriate.
 
-             (2)  The Chairperson may grant leave of absence to a nominated director on such terms and conditions as the Chairperson considers appropriate.
+             (2)  The Chairperson may grant leave of absence to a nominated director, or the government director, on such terms and conditions as the Chairperson considers appropriate.
 
 ##### <a id="72"></a>72  Resignation
 
@@ -1722,7 +1732,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (b)  in any other case—on the day on which the notice is given.
 
-##### <a id="73"></a>73  Termination of appointment
+##### <a id="73"></a>73  Termination of appointment
 
              (1)  The Minister may terminate the appointment of the Chairperson or a nominated director:
 
@@ -1790,7 +1800,7 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
              (1)  The Executive Director is to be appointed by the Corporation.
 
-             (2)  The Chairperson or a nominated director must not be appointed as the Executive Director.
+             (2)  The Chairperson, the government director or a nominated director must not be appointed as the Executive Director.
 
              (3)  A person who is a member of the executive of a representative organisation of the Corporation must not be appointed as the Executive Director.
 
@@ -1835,6 +1845,10 @@ the amount (if any) that is required to be paid is an amount determined by the M
                      (a)  if a date of effect is stated in the notice of resignation—at the end of that day; or
 
                      (b)  in any other case—on the day on which the notice is given.
+
+##### <a id="84"></a>84  Disclosure of interests
+
+                   The Executive Director must give written notice to the Chairperson of all direct or indirect pecuniary interests that the Executive Director has or acquires in any business or in any body corporate carrying on any business.
 
 ##### <a id="85"></a>85  Acting Executive Director
 
@@ -1974,21 +1988,13 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                             R&amp;D activities that are funded, wholly or partly, by money from the Council’s R&amp;D Fund; and
 
-                    (da)  to:
-
-                              (i)  assess; and
-
-                             (ii)  report to the Parliament, the Minister and its representative organisations on;
-
-                            the impact, on the primary industry or class of primary industries in respect of which the Council was established, of R&amp;D activities that are funded, wholly or partly, by money from the Council’s R&amp;D Fund; and
-
                      (e)  to facilitate the dissemination, adoption and commercialisation of the results of research and development in relation to the primary industry or class of primary industries in respect of which the Council was established; and
 
                       (f)  such other functions as are conferred on the Council by this Act or any other Act.
 
 ##### <a id="94"></a>94  Powers
 
-                   An R&amp;D Council has power to do all things that are necessary or convenient to be done for, or in connection with, the performance of its functions.
+                   An R&amp;D Council has power to do all things that are necessary or convenient to be done for, or in connection with, the performance of its functions.
 
 ##### <a id="95"></a>95  Consultations with persons and organisations
 
@@ -2022,6 +2028,8 @@ the amount (if any) that is required to be paid is an amount determined by the M
 
                      (a)  a Chairperson; and
 
+                     (b)  a government member; and
+
                      (c)  such number of other members, not fewer than 3 nor more than 7, as the Minister determines, in writing, to be appropriate for that Council.
 
              (2)  The performance of the functions and the exercise of the powers of an R&amp;D Council are not affected merely because of vacancies in the Council’s membership.
@@ -2029,6 +2037,8 @@ the amount (if any) that is required to be paid is an amount determined by the M
 ##### <a id="98"></a>98  Appointment of members
 
              (1)  The members of an R&amp;D Council are to be appointed by the Minister.
+
+             (2)  The Minister must not appoint a person as the government member of an R&amp;D Council unless the Minister is satisfied that the person has experience in, and knowledge of, government policy processes and public administration.
 
              (3)  The nominated members of an R&amp;D Council are to be appointed from persons nominated by a Selection Committee under Part 4.
 
@@ -2051,6 +2061,8 @@ the amount (if any) that is required to be paid is an amount determined by the M
                      (c)  references in those Divisions to a director of an R&amp;D Corporation were references to a member of the R&amp;D Council; and
 
                      (d)  references in those Divisions to the Deputy Chairperson of an R&amp;D Corporation were references to the Deputy Chairperson of the R&amp;D Council; and
+
+                     (e)  references in Division 8 to the government director of an R&amp;D Corporation were references to the government member of the R&amp;D Council; and
 
                       (f)  references in Division 8 to a nominated member of an R&amp;D Corporation were references to a nominated member of the R&amp;D Council.
 
@@ -2145,8 +2157,6 @@ are consistent with, and designed to give effect to, any R&amp;D plan, and any a
                               (i)  the R&amp;D activities that it proposed should be funded, wholly or partly, from its R&amp;D Fund, during the period; and
 
                              (ii)  the amount that was spent from the Fund during the period in relation to each of those activities; and
-
-                           (iia)  the impact of those activities on the primary industry or class of primary industries in respect of which the Council was established; and
 
                             (iii)  revisions of its R&amp;D plan or annual operational plan approved by the Minister during the period; and
 
@@ -2468,8 +2478,6 @@ give a written notice to the Presiding Member of Selection Committees for that R
 
                      (c)  requesting the Presiding Member to establish a Selection Committee; and
 
-                    (ca)  requesting the Presiding Member to ask each of the Corporation’s representative organisations to have regard to the desirability of reflecting a diversity of expertise, experience and gender among the persons nominated for appointment to the Selection Committee; and
-
                      (d)  specifying the period within which the Selection Committee must nominate persons, or a person, for appointment.
 
              (2)  The Minister must, for the purpose of:
@@ -2484,8 +2492,6 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                      (d)  specifying the R&amp;D Council in respect of which the Selection Committee is to be established; and
 
-                    (da)  requesting the Presiding Member to ask each of the Council’s representative organisations to have regard to the desirability of reflecting a diversity of expertise, experience and gender among the persons nominated for appointment to the Selection Committee; and
-
                      (e)  specifying the period within which the Selection Committee must nominate persons, or a person, for appointment.
 
              (3)  If the Minister believes on reasonable grounds that a vacancy of a kind referred to in subsection (1) or (2) is about to arise, the Minister may give a notice under subsection (1) or (2), as the case may be, before the vacancy arises.
@@ -2496,13 +2502,11 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                      (a)  establish a Selection Committee for the Corporation for the purpose of nominating a person or persons for appointment to the Corporation; and
 
-                     (b)  give to each of the Corporation’s representative organisations written notice requesting:
+                     (b)  give to each of the Corporation’s representative organisations written notice requesting the organisation:
 
-                              (i)  the organisation; or
+                              (i)  where there is only one such organisation—to nominate to the Minister persons for appointment to the Selection Committee; or
 
-                             (ii)  if there is more than one such organisation—the organisation acting jointly with all the other representative organisations;
-
-                            to nominate to the Minister persons for appointment to the Selection Committee, having regard to the desirability of reflecting a diversity of expertise, experience and gender among the nominees.
+                             (ii)  where there is more than one such organisation—acting jointly with all the other representative organisations of the Corporation, to nominate to the Minister persons for appointment to the Selection Committee.
 
              (2)  The Selection Committee so established consists of the following members:
 
@@ -2538,13 +2542,11 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                      (a)  informing the organisation of any appointments made under paragraph (2)(b); and
 
-                     (b)  give to each of the Corporation’s representative organisations written notice requesting:
+                     (b)  requesting the organisation:
 
-                              (i)  the organisation; or
+                              (i)  where there is only one such organisation—to nominate to the Minister persons for appointment to the Selection Committee; or
 
-                             (ii)  if there is more than one such organisation—the organisation acting jointly with all the other representative organisations;
-
-                            to nominate to the Minister persons for appointment to the Selection Committee, having regard to the desirability of reflecting a diversity of expertise, experience and gender among the nominees.
+                             (ii)  where there is more than one such organisation—acting jointly with all the other representative organisations of the Corporation, to nominate to the Minister persons for appointment to the Selection Committee.
 
              (4)  The Selection Committee so established consists of the following members:
 
@@ -2574,13 +2576,11 @@ give a written notice to the Presiding Member of the Selection Committee for the
 
                      (a)  establish a Selection Committee for the R&amp;D Council specified in the request for the purpose of nominating a person or persons for appointment to the Council; and
 
-                     (b)  give to each of the Council’s representative organisations written notice requesting:
+                     (b)  give to each of the Council’s representative organisations written notice requesting the organisation:
 
-                              (i)  the organisation; or
+                              (i)  where there is only one such organisation—to nominate to the Minister persons for appointment to the Selection Committee; or
 
-                             (ii)  if there is more than one such organisation—the organisation acting jointly with all the other representative organisations;
-
-                            to nominate to the Minister persons for appointment to the Selection Committee, having regard to the desirability of reflecting a diversity of expertise, experience and gender among the nominees.
+                             (ii)  where there is more than one such organisation—acting jointly with all the other representative organisations of the Council, to nominate to the Minister persons for appointment to the Selection Committee.
 
              (2)  The Selection Committee so established consists of the following members:
 
@@ -2638,7 +2638,7 @@ the Presiding Member of the Selection Committee must abolish the Selection Commi
 
              (2)  For the purpose of enabling it to make a nomination, the Selection Committee:
 
-                     (a)  must invite nomination of persons for appointment by advertisements placed in a newspaper that circulates throughout Australia; and
+                     (a)  must invite nomination of persons for appointment by advertisements placed in a newspaper that circulates throughout   Australia; and
 
                      (b)  must invite nomination of persons for appointment from the representative organisation or representative organisations of the R&amp;D Corporation or R&amp;D Council; and
 
@@ -2652,11 +2652,7 @@ the Presiding Member of the Selection Committee must abolish the Selection Commi
 
                              (ii)  any other information, relating to the nominee, that the Selection Committee considers will assist the Minister in deciding whether or not to appoint the nominee; and
 
-                     (b)  specifying how, in the Selection Committee’s opinion, the nomination or nominations will best ensure that the directors of the R&amp;D Corporation concerned, or the members of the R&amp;D Council concerned, collectively possess:
-
-                              (i)  an appropriate balance of expertise in accordance with subsection 131(2); and
-
-                             (ii)  experience in board affairs.
+                     (b)  specifying how, in the Selection Committee’s opinion, the nomination or nominations will best ensure that the directors of the R&amp;D Corporation concerned, or the members of the R&amp;D Council concerned, collectively possess an appropriate balance of expertise in accordance with subsection 131(2).
 
 ##### <a id="131"></a>131  Selecting persons for nomination
 
@@ -2686,19 +2682,9 @@ the Presiding Member of the Selection Committee must abolish the Selection Commi
 
                      (n)  business management;
 
-                     (o)  sociology;
+                     (o)  sociology.
 
-                     (p)  public administration.
-
-          (1A)  Before making a nomination for appointment to an R&amp;D Corporation, the Selection Committee must consult the Chairperson (if any) of the Corporation, on the appropriate balance of expertise and experience of directors of the Corporation that, in the Chairperson’s opinion, would best ensure the effective performance of the Corporation’s functions.
-
-          (1B)  Before making a nomination for appointment to an R&amp;D Council, the Selection Committee must consult the Chairperson (if any) of the Council, on the appropriate balance of expertise and experience of members of the Council that, in the Chairperson’s opinion, would best ensure the effective performance of the Council’s functions.
-
-             (2)  In making a nomination, the Selection Committee must choose from the available candidates the person who will best ensure that the directors of the R&amp;D Corporation concerned, or the members of the R&amp;D Council concerned, collectively possess:
-
-                     (a)  an appropriate balance of expertise in as many as possible of the fields referred to in subsection (1), having regard to the particular primary industry or class of primary industries in respect of which the R&amp;D Corporation or R&amp;D Council is established; and
-
-                     (b)  experience in board affairs.
+             (2)  In making a nomination, the Selection Committee must choose from the available candidates the person who will best ensure that the directors of the R&amp;D Corporation concerned, or the members of the R&amp;D Council concerned, collectively possess an appropriate balance of expertise in as many as possible of the fields referred to in subsection (1), having regard to the particular primary industry or class of primary industries in respect of which the R&amp;D Corporation or R&amp;D Council is established.
 
              (3)  A person may be nominated by a Selection Committee even if, on one or more previous occasions:
 
@@ -2873,8 +2859,6 @@ the member must disclose the nature of the interest at a meeting of the Committe
 ##### <a id="141"></a>141  Annual reports of Selection Committees
 
              (1)  The Presiding Member of Selection Committees for an R&amp;D Corporation must, as soon as practicable after 30 June in each year, prepare and give to the Minister a report of the operations, during the immediately preceding financial year, of Selection Committees (if any) established by the Presiding Member or another person who was the Presiding Member of Selection Committees for the R&amp;D Corporation.
-
-       (1AA)  Without limiting subsection (1), a report for a financial year must include an assessment of the processes undertaken by each Selection Committee (if any) for the R&amp;D Corporation to identify the widest possible field of available candidates for nomination for appointment to the Corporation.
 
           (1A)  A report for a financial year may, subject to agreement between the Presiding Member and the Chairperson of the R&amp;D Corporation concerned, be included, as a discrete part, in the Corporation’s annual report for that financial year.
 
@@ -3080,7 +3064,7 @@ then:
 
                              (ii)  as a result of the Research Fund being a Research Fund established in respect of goods of the kind in respect of which the levy is imposed;
 
-                            are payable to the RIR&amp;D Corporation for the purposes of the R&amp;D Fund; and
+                            are payable to the RIR&amp;D Corporation for the purposes of the R&amp;D Fund; and
 
                      (d)  so much of any investments that were held for the purposes of the Research Fund, immediately before the levy became attached to the R&amp;D Fund, as are attributable to that money become, when the levy becomes so attached, investments held by the RIR&amp;D Corporation for the purposes of the R&amp;D Fund; and
 
@@ -3144,7 +3128,7 @@ the State Research Committee is abolished and that Act and the regulations made 
 
                      (d)  section 30 of the _Rural Industries Research Act 1985_ has effect as if things done by the R&amp;D Corporation or R&amp;D Council, as the case requires, in meeting those obligations were done by the Research Council or State Research Committee concerned.
 
-##### <a id="153"></a>153  Transitional—Coal Research Trust Account
+##### <a id="153"></a>153  Transitional—Coal Research Trust Account
 
                    If the levy on the production of coal imposed by the _Excise Tariff Act 1921_ becomes attached to an R&amp;D Corporation, at the time it becomes so attached:
 
@@ -3341,7 +3325,7 @@ _Triticale Levy Collection Act 1988_ \[repealed by Act No. 26, 1991, Sch. 2]
 _Wheat Industry Fund Levy Collection Act 1988_
  \[repealed by Act No. 26, 1991, Sch. 2] \[see Note 2]
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 17, 1990
+For access to the wording of the amendments made by this Schedule, see Act No. 17, 1990
 
 * * *
 
@@ -3805,23 +3789,6 @@ Remainder: 1 Jan 2003</div>
     <div>Sch. 6 (items 
 5–11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Primary Industries and Energy Research and Development Amendment Act 2007</div>
-  </td>
-  <td>
-    <div>71, 2007</div>
-  </td>
-  <td>
-    <div>28 May 2007</div>
-  </td>
-  <td>
-    <div>28 May 2007</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 33, 35) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Primary Industries and Energy Research and Development Act 1989_ was amended by Part 5 (sections 10–12) only of the _Primary Industries Legislation Amendment Act (No. 2) 1991_, subsection 2(1) of which provides as follows:
@@ -3918,7 +3885,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 134, 1990; Nos. 109 and 163, 1991; No. 59, 1992; Nos. 65 and 94, 1993; No. 194, 1997; No. 32, 1999; No. 8, 2005; No. 101, 2006; No. 71, 2007</div>
+    <div>am. No. 134, 1990; Nos. 109 and 163, 1991; No. 59, 1992; Nos. 65 and 94, 1993; No. 194, 1997; No. 32, 1999; No. 8, 2005; No. 101, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3955,14 +3922,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S.12</div>
   </td>
   <td>
@@ -3982,7 +3941,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>Ss. 16, 17</div>
   </td>
   <td>
-    <div>am. No. 109, 1991; No. 65, 1993; No. 71, 2007</div>
+    <div>am. No. 109, 1991; No. 65, 1993</div>
   </td>
 </tr>
 <tr>
@@ -3999,14 +3958,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
   </td>
   <td>
     <div>am. No. 31, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4038,7 +3989,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 28</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 152, 1997; No. 71, 2007</div>
+    <div>am. No. 94, 1993; No. 152, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4259,14 +4210,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 64</div>
   </td>
   <td>
@@ -4286,15 +4229,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 66</div>
   </td>
   <td>
-    <div>am. No. 109, 1991; No. 71, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 71</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
+    <div>am. No. 109, 1991</div>
   </td>
 </tr>
 <tr>
@@ -4331,14 +4266,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 81</div>
   </td>
   <td>
@@ -4351,14 +4278,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
   </td>
   <td>
     <div>am. No. 109, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 84</div>
-  </td>
-  <td>
-    <div>rep. No. 71, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4443,22 +4362,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -4467,18 +4370,10 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div>S. 97</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 98</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 71, 2007</div>
+    <div>am. No. 94, 1993</div>
   </td>
 </tr>
 <tr>
@@ -4486,7 +4381,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 100</div>
   </td>
   <td>
-    <div>am. No. 152, 1997; No. 156, 1999; No. 71, 2007</div>
+    <div>am. No. 152, 1997; No. 156, 1999</div>
   </td>
 </tr>
 <tr>
@@ -4511,14 +4406,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
   </td>
   <td>
     <div>am. No. 31, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 105</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4563,22 +4450,6 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 123–126</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Division 2</b></div>
   </td>
   <td>
@@ -4587,18 +4458,10 @@ _(i)_      The _Primary Industries and Energy Research and Development
 </tr>
 <tr>
   <td>
-    <div>S. 130</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 131</div>
   </td>
   <td>
-    <div>am. No. 94, 1993; No. 71, 2007</div>
+    <div>am. No. 94, 1993</div>
   </td>
 </tr>
 <tr>
@@ -4630,7 +4493,7 @@ _(i)_      The _Primary Industries and Energy Research and Development
     <div>S. 141</div>
   </td>
   <td>
-    <div>am. No. 31, 1991; No. 71, 2007</div>
+    <div>am. No. 31, 1991</div>
   </td>
 </tr>
 <tr>
@@ -4835,20 +4698,6 @@ If the operation of a provision (the **_subject provision_**) of any Act or legi
 ## 11  Schedule does not limit operation of section 8 of the _Acts Interpretation Act 1901_
 
 This Schedule does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
-
-* * *
-
-_Primary Industries and Energy Research and Development Amendment Act 2007 (No. 71, 2007)_
-
-## Schedule 1
-
-## 33  Transitional—items 24 to 32
-
-Despite the amendments of Part 4 of the _Primary Industries and Energy Research and Development Act 1989_ made by this Act, that Act, as in force immediately before the commencement of this item, continues to apply in relation to a written notice given by the Minister before that commencement under subsection 123(1) or (2) of that Act as if those amendments had not been made.
-
-## 35  Application—item 34
-
-The amendment made by item 34 applies in relation to financial years starting on or after the commencement of this item.
 
  
 
