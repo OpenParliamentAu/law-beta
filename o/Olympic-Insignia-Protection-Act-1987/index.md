@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00025/Html/OlymipicInsigProtect198756_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00568/Html/OlymipicInsigProtect198756_image001.gif)
 
 # Olympic Insignia Protection Act 1987
 
 **Act No. 27 of 1987 as amended**
 
-This compilation was prepared on 1 January 2011
+This compilation was prepared on 16 August 2010
  taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
@@ -52,7 +52,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [9](#9).            Remedies for infringement of monopoly in protected design
 
-[9A](#9A).         Australian Consumer Law  provides further remedies
+[9A](#9A).         _Trade Practices Act 1974_ provides further remedies
 
 [10](#10).          Registration of designs
 
@@ -274,8 +274,6 @@ holds a licence granted by the AOC.</li>
 
                     <a name="australia"></a>**_Australia_**, when used in a geographical sense, includes the external Territories.
 
-                    <a name="australian-consum-law"></a>**_Australian Consumer Law_** means Schedule 2 to the _Competition and Consumer Act 2010_ as applied under Subdivision A of Division 2 of Part XI of that Act.
-
                     <a name="charg"></a>**_charge_** means a charge created in any way and includes a mortgage and an agreement to give or execute a charge or mortgage, whether upon demand or otherwise.
 
                     <a name="correspond-design"></a>**_corresponding design_**, in relation to an artistic work, means a design that, when applied to an article, results in a reproduction of that work.
@@ -456,15 +454,15 @@ the AOC shall, at the end of that period, be deemed to have granted that consent
 
                    The relief that the Federal Court may grant in an action or proceeding for the infringement of the monopoly in a protected design includes an injunction (subject to such terms, if any, as the Court thinks fit) and, at the option of the plaintiff, either damages or an account of profits.
 
-##### <a id="9A"></a>9A  Australian Consumer Law  provides further remedies
+##### <a id="9A"></a>9A  _Trade Practices Act 1974_ provides further remedies
 
-             (1)  The remedies provided under this Chapter in relation to protected designs are in addition to the remedies provided by the Australian Consumer Law  in relation to engaging in conduct that is misleading or deceptive (see section 18 of the Australian Consumer Law) and, in particular, in relation to representations:
+             (1)  The remedies provided under this Chapter in relation to protected designs are in addition to the remedies provided by the _Trade Practices Act 1974_ in relation to engaging in conduct that is misleading or deceptive (see section 52 of that Act) and, in particular, in relation to representations:
 
-                     (a)  that goods or services have sponsorship or approval that they do not have (see paragraph 29(1)(g) of the Australian Consumer Law); or
+                     (a)  that goods or services have sponsorship or approval that they do not have (see paragraph 53(c) of that Act); or
 
-                     (b)  that a corporation as defined in that Act has a sponsorship, approval or affiliation that it does not have (see paragraph 29(1)(h) of the Australian Consumer Law).
+                     (b)  that a corporation as defined in that Act has a sponsorship, approval or affiliation that it does not have (see paragraph 53(d) of that Act).
 
-             (2)  The references in subsection (1) to particular provisions of the Australian Consumer Law  do not imply that other provisions of the Australian Consumer Law do not apply in relation to conduct that is also covered by this Chapter.
+             (2)  The references in subsection (1) to particular provisions of the _Trade Practices Act 1974_ do not imply that other provisions of that Act do not apply in relation to conduct that is also covered by this Chapter.
 
 ##### <a id="10"></a>10  Registration of designs
 
@@ -1448,15 +1446,15 @@ the AOC is taken to have given the consent.
 
              (1)  The remedies provided under this Division are in addition to remedies provided by any law (whether a law of the Commonwealth or a law of a State or Territory) that confers any rights or powers on the AOC or a licensed user in relation to conduct of a kind that constitutes a contravention of section 36.
 
-             (2)  The remedies provided under this Division are in addition to the remedies provided by the Australian Consumer Law in relation to engaging in conduct that is misleading or deceptive (see section 18 of the Australian Consumer Law) and, in particular, in relation to representations:
+             (2)  The remedies provided under this Division are in addition to the remedies provided by the _Trade Practices Act 1974_ in relation to engaging in conduct that is misleading or deceptive (see section 52 of that Act) and, in particular, in relation to representations:
 
-                     (a)  that goods or services have sponsorship or approval that they do not have (see paragraph 29(1)(g) of the Australian Consumer Law); or
+                     (a)  that goods or services have sponsorship or approval that they do not have (see paragraph 53(c) of that Act); or
 
-                     (b)  that a corporation (as defined in that Act) has a sponsorship, approval or affiliation that it does not have (see paragraph 29(1)(h) of the Australian Consumer Law).
+                     (b)  that a corporation (as defined in that Act) has a sponsorship, approval or affiliation that it does not have (see paragraph 53(d) of that Act).
 
              (3)  Subsection (2) does not limit subsection (1).
 
-             (4)  The references in subsection (2) to particular provisions of the Australian Consumer Law do not imply that other provisions of the Australian Consumer Law do not apply in relation to conduct of a kind that constitutes a contravention of section 36 of this Act.
+             (4)  The references in subsection (2) to particular provisions of the _Trade Practices Act 1974_ do not imply that other provisions of that Act do not apply in relation to conduct of a kind that constitutes a contravention of section 36 of this Act.
 
 ### Division 2—Importation of goods
 
@@ -1850,7 +1848,7 @@ Company names
 
 Subsection 2(1)
 
-![](http://www.comlaw.gov.au/Details/C2011C00025/Html/OlymipicInsigProtect198756_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00568/Html/OlymipicInsigProtect198756_image002.gif)
 
 # Notes to the _Olympic Insignia Protection Act 1987_
 
@@ -2004,7 +2002,7 @@ Schedule 5 (item 137(a)): <i>(a)</i></div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 176–188): 1 Jan 2011</div>
+    <div>Schedule 6 (items 176–188): \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2239,7 +2237,7 @@ of Chapt. 2</div>
     <div>S. 2</div>
   </td>
   <td>
-    <div>am. No. 44, 1994; No. 156, 2001; No. 103, 2010</div>
+    <div>am. No. 44, 1994; No. 156, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2342,14 +2340,6 @@ of Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 9A</div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 9A</div>
   </td>
   <td>
@@ -2361,7 +2351,7 @@ of Chapt. 2</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 156, 2001; No. 103, 2010</div>
+    <div>am. No. 156, 2001</div>
   </td>
 </tr>
 <tr>
@@ -2695,26 +2685,10 @@ of Chapt. 2</div>
 </tr>
 <tr>
   <td>
-    <div>Ss. 44–47</div>
+    <div>Ss. 44–48</div>
   </td>
   <td>
     <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>ad. No. 156, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2824,5 +2798,72 @@ Renumbered s. 76</div>
 No. 156, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
+ (No. 103, 2010)_
+
+The following amendments commence on the start of 1 January 2011:
+
+## Schedule 6
+
+## 176  Subsection 2(1)
+
+Insert:
+
+                    <a name="australian-consum-law"></a>**_Australian Consumer Law_** means Schedule 2 to the _Competition and Consumer Act 2010_ as applied under Subdivision A of Division 2 of Part XI of that Act.
+
+## 177  Subsection 9A(1)
+
+Omit “_Trade Practices Act 1974_”, substitute “Australian Consumer Law”.
+
+_Note:       The heading to section 9A is altered by omitting “Trade Practices Act 1974” and substituting “Australian Consumer Law”._
+
+## 178  Subsection 9A(1)
+
+Omit “section 52 of that Act”, substitute “section 18 of the Australian Consumer Law”.
+
+## 179  Paragraph 9A(1)(a)
+
+Omit “paragraph 53(c) of that Act”, substitute “paragraph 29(1)(g) of the Australian Consumer Law”.
+
+## 180  Paragraph 9A(1)(b)
+
+Omit “paragraph 53(d) of that Act”, substitute “paragraph 29(1)(h) of the Australian Consumer Law”.
+
+## 181  Subsection 9A(2)
+
+Omit “_Trade Practices Act 1974_”, substitute “Australian Consumer Law”.
+
+## 182  Subsection 9A(2)
+
+Omit “that Act”, substitute “the Australian Consumer Law”.
+
+## 183  Subsection 48(2)
+
+Omit “_Trade Practices Act 1974_”, substitute “Australian Consumer Law”.
+
+## 184  Subsection 48(2)
+
+Omit “section 52 of that Act”, substitute “section 18 of the Australian Consumer Law”.
+
+## 185  Paragraph 48(2)(a)
+
+Omit “paragraph 53(c) of that Act”, substitute “paragraph 29(1)(g) of the Australian Consumer Law”.
+
+## 186  Paragraph 48(2)(b)
+
+Omit “paragraph 53(d) of that Act”, substitute “paragraph 29(1)(h) of the Australian Consumer Law”.
+
+## 187  Subsection 48(4)
+
+Omit “_Trade Practices Act 1974_”, substitute “Australian Consumer Law”.
+
+## 188  Subsection 48(4)
+
+Omit “that Act”, substitute “the Australian Consumer Law”.
+
+As at 16 August 2010 the amendments are not incorporated in this compilation.
 
  
