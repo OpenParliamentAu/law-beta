@@ -1,122 +1,125 @@
-![](http://www.comlaw.gov.au/Details/C2010C00596/Html/PaymSystReg1998_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00406/Html/D44DFBE429E48BBACA25703100005BC8/$FILE/image001.gif)
 
 # Payment Systems (Regulation) Act 1998
 
 **Act No. 58 of 1998 as amended**
 
-This compilation was prepared on 16 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 1 July 2005
+taking into account amendments up to Act No. 65 of 2005
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title _see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Crown is bound by this Act
+[3](#3).            Crown is bound by this Act                                                                1
 
-[4](#4).            Application of this Act to external Territories
+[4](#4).            Application of this Act to external Territories                                    1
 
-[5](#5).            Application of _Criminal Code_
+[5](#5).            Application of _Criminal Code_                                                             1
 
-[6](#6).            Overview of Act
+[6](#6).            Overview of Act                                                                                  1
 
 **Part 2—Interpretation**
 
-[7](#7).            Definitions
+[7](#7).            Definitions                                                                                           3
 
-[8](#8).            Meaning of _public interest_
+[8](#8).            Meaning of _public interest_                                                                   4
 
-[9](#9).            Meaning of _purchased payment facility_ and _holder of the stored value_
+[9](#9).            Meaning of _purchased payment facility_ and _holder of the stored value_ 4
 
 **Part 3—Regulation of payment systems** 
 
     **Division 1—Overview**
 
-[10](#10).          Overview of main regulatory provisions
+[10](#10).          Overview of main regulatory provisions                                             6
 
     **Division 2—Designation of payment systems**
 
-[11](#11).          Reserve Bank may designate payment systems
+[11](#11).          Reserve Bank may designate payment systems                                  7
 
     **Division 3—Access to designated systems** 
 
         **Subdivision A—Access regimes**
 
-[12](#12).          Imposition of access regime
+[12](#12).          Imposition of access regime                                                                 8
 
-[13](#13).          When access regimes are in force
+[13](#13).          When access regimes are in force                                                         8
 
-[14](#14).          Variation of access regime
+[14](#14).          Variation of access regime                                                                    9
 
-[15](#15).          When access regimes cease to be in force
+[15](#15).          When access regimes cease to be in force                                            9
 
         **Subdivision B—Enforcement of access regimes**
 
-[16](#16).          Right to ask Reserve Bank to give a direction
+[16](#16).          Right to ask Reserve Bank to give a direction                                   10
 
-[17](#17).          Right to apply to the Federal Court
+[17](#17).          Right to apply to the Federal Court                                                  11
 
     **Division 4—Standards for designated systems**
 
-[18](#18).          Reserve Bank may make standards for designated systems
+[18](#18).          Reserve Bank may make standards for designated systems              12
 
-[18A](#18A).       Authorisation of conduct under certain standards for the purposes of the _Trade Practices Act 1974_
+[18A](#18A).       Authorisation of conduct under certain standards for the purposes of the _Trade Practices Act 1974_    13
 
     **Division 5—Arbitration of disputes relating to designated systems**
 
-[19](#19).          Disputes to which Division applies
+[19](#19).          Disputes to which Division applies                                                  14
 
-[20](#20).          Arbitration of disputes
+[20](#20).          Arbitration of disputes                                                                      14
 
     **Division 6—Directions to participants in designated systems**
 
-[21](#21).          Directions
+[21](#21).          Directions                                                                                          16
 
 **Part 4—Regulation of purchased payment facilities**
 
-[22](#22).          Holder of stored value must be an ADI or be authorised or exempted under this Part
+[22](#22).          Holder of stored value must be an ADI or be authorised or exempted under this Part           18
 
-[23](#23).          Authority to be the holder of the stored value
+[23](#23).          Authority to be the holder of the stored value                                  18
 
-[24](#24).          Directions on failure to comply with conditions
+[24](#24).          Directions on failure to comply with conditions                               20
 
-[25](#25).          Exemptions
+[25](#25).          Exemptions                                                                                        21
 
 **Part 5—Miscellaneous**
 
-[26](#26).          Persons to give Reserve Bank information
+[26](#26).          Persons to give Reserve Bank information                                        23
 
-[27](#27).          Power to determine requirements for applications
+[27](#27).          Power to determine requirements for applications                            24
 
-[28](#28).          Consultation obligations
+[28](#28).          Consultation obligations                                                                    24
 
-[29](#29).          Notification obligations
+[29](#29).          Notification obligations                                                                     24
 
-[30](#30).          Power to publish by other means
+[30](#30).          Power to publish by other means                                                      25
 
-[31](#31).          Delegation
+[31](#31).          Delegation                                                                                          25
 
-[32](#32).          Regulations
+[32](#32).          Regulations                                                                                        26
 
 **Notes** 
+
 
 ## An Act to provide for the regulation of payment systems and purchased payment facilities, and for related purposes
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title [_see_ Note 1]
+##### <a id="1"></a>1  Short title [_see_ Note 1]
 
                    This Act may be cited as the _Payment Systems (Regulation) Act 1998_.
 
@@ -338,7 +341,7 @@ The Reserve Bank may have regard to other matters that it considers are relevant
 
                      (b)  if that decision specifies a later day as the day on which the variation comes into force—on the day so specified.
 
-##### <a id="15"></a>15  When access regimes cease to be in force
+##### <a id="15"></a>15  When access regimes cease to be in force
 
              (1)  An access regime ceases to be in force if:
 
@@ -836,6 +839,7 @@ Note:          For further information about delegations, see 
 
                      (b)  necessary or convenient for carrying out or giving effect to this Act.
 
+
 # Notes to the _Payment Systems (Regulation) Act 1998_
 
 ### Note 1
@@ -862,11 +866,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -876,57 +882,43 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Payment Systems (Regulation) Act 1998</div>
-  </td>
-  <td>
-    <div>58, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>1 July 1998 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Payment Systems (Regulation) Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>65, 2005</div>
-  </td>
-  <td>
-    <div>26 June 2005</div>
-  </td>
-  <td>
-    <div>1 July 2005</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 83): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Payment Systems (Regulation) Act 1998</div>
+    </td>
+    <td>
+      <div>58, 1998</div>
+    </td>
+    <td>
+      <div>29 June 1998</div>
+    </td>
+    <td>
+      <div>1 July 1998 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Payment Systems (Regulation) Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>65, 2005</div>
+    </td>
+    <td>
+      <div>26 June 2005</div>
+    </td>
+    <td>
+      <div>1 July 2005</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 2)</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -951,51 +943,33 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 2005</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18A</div>
+    </td>
+    <td>
+      <div>ad. No. 65, 2005</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendment commences on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Payment Systems (Regulation) Act 1998</h9>
-
-## 83  Subsection 18A(1)
-
-_Note:       The heading to section 18A is altered by omitting “Trade Practices Act 1974” and substituting “Competition and Consumer Act 2010”._
-
-As at 16 August 2010 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -1008,5 +982,6 @@ _Payment Systems (Regulation) Amendment Act 2005 (No. 65, 2005)_
 ## 2  Application of amendment made by item 1
 
 The amendment made by item 1 applies to things done on or after the commencement of the amendment.
+
 
  
