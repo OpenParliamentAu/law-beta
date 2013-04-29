@@ -1,20 +1,19 @@
-![](http://www.comlaw.gov.au/Details/C2011C00242/Html/2de5e0f9-8890-4115-ac30-d8aef79ff374_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00673/Html/AbLandGrJervisBay86WD02_image001.gif)
 
 # Aboriginal Land Grant (Jervis Bay Territory) Act 1986
 
 **Act No. 164 of 1986 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 18 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+The operation of amendments that have been incorporated may be affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -156,7 +155,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [52](#52).          Annual report to be laid before meeting of Council
 
-[52A](#52A).       By‑laws
+[52A](#52A).       By-laws
 
 [53](#53).          Regulations
 
@@ -176,7 +175,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Aboriginal__Land__Grant (Jervis Bay Territory) Act 1986_.
+                   This Act may be cited as the _Aboriginal__Land__Grant (__Jervis__Bay__Territory__) Act 1986_.
 
 ##### <a id="2"></a>2  Interpretation
 
@@ -184,7 +183,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="aborigin"></a>**_Aboriginal_** means a person who is a member of the Aboriginal race of Australia.
 
-                    <a name="land"></a><a name="aborigin"></a>**_Aboriginal_****_Land_** means land that is Aboriginal Land because of a declaration under Part III.
+                    <a name="land"></a><a name=""></a><a name="aborigin"></a>**_Aboriginal_****_Land_** means land that is Aboriginal Land because of a declaration under Part III.
 
                     <a name="agenc"></a>**_Agency_** has the meaning given by section 7 of the _Public Service Act 1999_.
 
@@ -202,7 +201,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="boodere-botan-garden"></a>**_Booderee Botanic Gardens_** means the part of the Australian National Botanic Gardens in the Jervis Bay Territory.
 
-                    <a name="nation-park"></a><a name="boodere"></a>**_Booderee_****_National Park_** means the Commonwealth reserve of that name within the Jervis Bay Territory under Division 4 of Part 15 of the _Environment Protection and Biodiversity Conservation Act 1999_.
+                    <a name="nation-park"></a><a name=""></a><a name="boodere"></a>**_Booderee_****_National Park_** means the Commonwealth reserve of that name within the Jervis Bay Territory under Division 4 of Part 15 of the _Environment Protection and Biodiversity Conservation Act 1999_.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Council.
 
@@ -248,7 +247,7 @@ whether suspended in water or not, but does not include water.
 
                     <a name="registrar"></a>**_Registrar_** means the Registrar of the Wreck Bay Aboriginal Community Council.
 
-                    <a name="land"></a><a name="schule"></a>**_Schedule_****_Land_** means the land described in the Schedule.
+                    <a name="land"></a><a name=""></a><a name="schule"></a>**_Schedule_****_Land_** means the land described in the Schedule.
 
                     <a name="secretari"></a>**_Secretary_** means the Secretary of the Council.
 
@@ -304,15 +303,15 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (b)  to exercise, for the benefit of the members of the Community, the Council’s powers as owner of Aboriginal Land and of any other land owned by the Council;
 
-                     (c)  to make representations to the Minister in relation to land that the Council considers should become Aboriginal Land and in relation to other matters relevant to this Act;
+                     (c)  to make representations to the Minister in relation to land that the Council considers should become Aboriginal  Land and in relation to other matters relevant to this Act;
 
                     (ca)  in consultation with the Minister, to consider and, where practicable, take action for the benefit of the Community in relation to the housing, social welfare, education, training or health needs of the members of the Community;
 
-                   (cb)  to provide community services to members of the Community;
+                    (cb)  to provide community services to members of the Community;
 
                     (cc)  to protect and conserve natural and cultural sites on Aboriginal Land;
 
-                   (cd)  to engage in land use planning in relation to Aboriginal Land;
+                    (cd)  to engage in land use planning in relation to Aboriginal Land;
 
                     (ce)  to manage and maintain Aboriginal Land; and
 
@@ -338,7 +337,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ## Part III—Grant of land to Council
 
-##### <a id="8"></a>8  Initial grant of land
+##### <a id="8"></a>8  Initial grant of land
 
              (1)  As soon as practicable after the first annual general meeting, the Minister:
 
@@ -348,7 +347,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (2)  At the time at which the instrument referred to in subsection (1) is given to the Chairperson in accordance with paragraph (1)(b), the Schedule Land becomes Aboriginal Land.
 
-             (3)  As soon as practicable after the Minister has complied with subsection (1), the Minister shall cause to be published in the _Gazette_ a notice stating that the Schedule Land has become Aboriginal Land.
+             (3)  As soon as practicable after the Minister has complied with subsection (1), the Minister shall cause to be published in the _Gazette_ a notice stating that the Schedule Land has become Aboriginal  Land.
 
              (4)  Any failure to comply with the requirements of subsection (3) does not affect the operation of subsection (1).
 
@@ -358,9 +357,9 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (a)  vacant Crown land in the Territory that adjoins Aboriginal Land is of significance to the Aboriginals who are members of the Community; and
 
-                     (b)  it would be appropriate to grant the first‑mentioned land to the Council;
+                     (b)  it would be appropriate to grant the first-mentioned land to the Council;
 
-the Minister may, by instrument in writing specifying the first‑mentioned land, declare that the first‑mentioned land is Aboriginal Land.
+the Minister may, by instrument in writing specifying the first-mentioned land, declare that the first-mentioned land is Aboriginal  Land.
 
              (2)  The Minister shall, as soon as practicable after making an instrument under subsection (1):
 
@@ -394,9 +393,9 @@ the instrument takes effect, and the land specified in the instrument becomes Ab
 
                      (a)  the House of Representatives is dissolved or expires, or the Parliament is prorogued; and
 
-                     (b)  a resolution for the disallowance of the instrument has not been passed by the first‑mentioned House;
+                     (b)  a resolution for the disallowance of the instrument has not been passed by the first-mentioned House;
 
-the copy of the instrument shall, for the purposes of this section, be deemed to have been laid before that first‑mentioned House on the first sitting day of that first‑mentioned House after the dissolution, expiry or prorogation, as the case may be.
+the copy of the instrument shall, for the purposes of this section, be deemed to have been laid before that first-mentioned House on the first sitting day of that first-mentioned House after the dissolution, expiry or prorogation, as the case may be.
 
              (7)  Where an instrument made under subsection (1) takes effect, the Minister shall cause a notice to that effect to be published in the _Gazette._
 
@@ -426,7 +425,7 @@ the copy of the instrument shall, for the purposes of this section, be deemed to
 
 ##### <a id="11"></a>11  Registration of vesting
 
-                   Where the Secretary of the Department that deals with the administration of the Territory becomes aware that land (including any right, title or interest in land) has vested in the Council because of section 10, the Secretary of that Department shall cause such action to be taken as he or she considers necessary to register the vesting under the laws in force in the Territory.
+                   Where the Secretary to the Department that deals with the administration of the Territory becomes aware that land (including any right, title or interest in land) has vested in the Council because of section 10, the Secretary to that Department shall cause such action to be taken as he or she considers necessary to register the vesting under the laws in force in the Territory.
 
 ##### <a id="12"></a>12  Buildings etc. vest automatically
 
@@ -578,7 +577,7 @@ the Secretary shall enter on the Register, next to the name of that person, part
 
              (1)  Subject to subsection (2) and section 26A, motions moved at a general meeting shall be determined by a majority of the votes of the registered members present at the meeting and voting.
 
-             (2)  A motion referred to in subsection 18(1) or (3) moved at a general meeting shall be taken to be passed only if it is supported by not less than two‑thirds of the registered members present at the meeting and voting.
+             (2)  A motion referred to in subsection 18(1) or (3) moved at a general meeting shall be taken to be passed only if it is supported by not less than two-thirds of the registered members present at the meeting and voting.
 
              (3)  A motion referred to in subsection 18(3) shall not be moved at a general meeting unless notice of the motion was given with, and in the same manner as, the notice of the day, time and place of the meeting given in accordance with this Act.
 
@@ -646,7 +645,7 @@ the Secretary shall enter on the Register, next to the name of that person, part
 
              (4)  Subject to this Act, an executive member holds his or her office from the time at which he or she is declared to have been elected to the office at an annual general meeting until the time, at the first or second annual general meeting, as the case may be, after that meeting, at which a person is declared to have been elected to that office.
 
-             (5)  An executive member is eligible for re‑election.
+             (5)  An executive member is eligible for re-election.
 
              (6)  The functions of the Secretary are:
 
@@ -782,17 +781,17 @@ the Secretary shall enter on the Register, next to the name of that person, part
 
                     <a name="spous"></a>**_spouse_** of a person includes a de facto partner of the person within the meaning of the _Acts Interpretation Act 1901_.
 
-             (2)  For the purposes of this Part, Aboriginal Land in respect of which a lease has been granted shall be taken to be used for domestic purposes if, and only if:
+             (2)  For the purposes of this Part, Aboriginal  Land in respect of which a lease has been granted shall be taken to be used for domestic purposes if, and only if:
 
-                     (a)  in a case where a sub‑lease of the land has not been granted, the person or persons who have the benefit of the lease usually reside on the land or intend to begin to usually reside on the land as soon as practicable; or
+                     (a)  in a case where a sub-lease of the land has not been granted, the person or persons who have the benefit of the lease usually reside on the land or intend to begin to usually reside on the land as soon as practicable; or
 
-                     (b)  in a case where a sub‑lease of the land has been granted, the person or persons who have the benefit of the sub‑lease usually reside on the land or intend to begin to usually reside on the land as soon as practicable.
+                     (b)  in a case where a sub-lease of the land has been granted, the person or persons who have the benefit of the sub-lease usually reside on the land or intend to begin to usually reside on the land as soon as practicable.
 
-             (3)  For the purposes of this Part, Aboriginal Land in respect of which a lease has been granted shall be taken to be used for business purposes if, and only if:
+             (3)  For the purposes of this Part, Aboriginal  Land in respect of which a lease has been granted shall be taken to be used for business purposes if, and only if:
 
-                     (a)  in a case where a sub‑lease of the land has not been granted, the person or persons who have the benefit of the lease conduct a business on the land or intend to begin to conduct a business on the land as soon as practicable; or
+                     (a)  in a case where a sub-lease of the land has not been granted, the person or persons who have the benefit of the lease conduct a business on the land or intend to begin to conduct a business on the land as soon as practicable; or
 
-                     (b)  in a case where a sub‑lease of the land has been granted, the person or persons who have the benefit of the sub‑lease conduct a business on the land or intend to begin to conduct a business on the land as soon as practicable.
+                     (b)  in a case where a sub-lease of the land has been granted, the person or persons who have the benefit of the sub-lease conduct a business on the land or intend to begin to conduct a business on the land as soon as practicable.
 
              (4)  Any relationship referred to in the definition of **_relative_** in subsection (1) includes a relationship traced through, or to, a person who is or was an adopted child, and, for that purpose, the relationship between an adopted child and his or her adoptive parent, or each of his or her adoptive parents, shall be deemed to be or to have been the natural relationship of child and parent.
 
@@ -802,7 +801,7 @@ the Secretary shall enter on the Register, next to the name of that person, part
 
              (1)  Except as provided by this Part, the Council shall not deal with or dispose of, or agree to deal with or dispose of, any estate or interest in Aboriginal Land.
 
-             (2)  Subject to this section, the Council may grant a lease of Aboriginal Land (other than land within the Booderee National Park or the Booderee Botanic Gardens):
+             (2)  Subject to this section, the Council may grant a lease of Aboriginal Land (other than land within the Booderee National   Park or the Booderee Botanic Gardens):
 
                      (a)  to a registered member or registered members for use for domestic purposes;
 
@@ -852,7 +851,7 @@ the Secretary shall enter on the Register, next to the name of that person, part
 
 ##### <a id="40"></a>40  Rights of existing occupiers
 
-                   Where, immediately before land became Aboriginal Land, a registered member was in occupation of the land with the consent, express or implied, of the Commonwealth or of an Authority, the Council shall, in accordance with section 38, grant that person a lease of that land, being a lease:
+                   Where, immediately before land became Aboriginal  Land, a registered member was in occupation of the land with the consent, express or implied, of the Commonwealth or of an Authority, the Council shall, in accordance with section 38, grant that person a lease of that land, being a lease:
 
                      (a)  the term of which:
 
@@ -866,17 +865,17 @@ the Secretary shall enter on the Register, next to the name of that person, part
 
 ##### <a id="41"></a>41  Dealings in land leased from Council
 
-             (1)  Subject to this section, where the Council has granted a lease of Aboriginal Land to a person, that person, or a person who has been granted a sub‑lease of the land under this section, may grant a sub‑lease of the whole of the land.
+             (1)  Subject to this section, where the Council has granted a lease of Aboriginal Land to a person, that person, or a person who has been granted a sub-lease of the land under this section, may grant a sub-lease of the whole of the land.
 
-             (2)  Except with the consent in writing of the Minister, a person shall not grant a sub‑lease of Aboriginal Land to a person other than a registered member, the Commonwealth or an Authority.
+             (2)  Except with the consent in writing of the Minister, a person shall not grant a sub-lease of Aboriginal Land to a person other than a registered member, the Commonwealth or an Authority.
 
-             (3)  Except with the consent in writing of the Minister, a person shall not grant a sub‑lease of Aboriginal Land for use for purposes other than the purposes for which the land is required to be used by the lease in respect of the land.
+             (3)  Except with the consent in writing of the Minister, a person shall not grant a sub-lease of Aboriginal Land for use for purposes other than the purposes for which the land is required to be used by the lease in respect of the land.
 
 ##### <a id="42"></a>42  Devise of interests in Aboriginal Land etc.
 
-             (1)  Where a registered member has the benefit, or a share in the benefit, of a lease or sub‑lease of Aboriginal Land for use for domestic purposes, that benefit or share is capable of transmission, by will or under a law relating to intestacy in force in the Territory, to a relative of the member.
+             (1)  Where a registered member has the benefit, or a share in the benefit, of a lease or sub-lease of Aboriginal Land for use for domestic purposes, that benefit or share is capable of transmission, by will or under a law relating to intestacy in force in the Territory, to a relative of the member.
 
-             (2)  Where the benefit, or a share in the benefit, of a lease or sub‑lease of Aboriginal Land is transmitted because of subsection (1), the purposes for which the land is required to be used by the lease or sub‑lease, as the case may be, shall not be taken to be altered.
+             (2)  Where the benefit, or a share in the benefit, of a lease or sub-lease of Aboriginal Land is transmitted because of subsection (1), the purposes for which the land is required to be used by the lease or sub-lease, as the case may be, shall not be taken to be altered.
 
 ## Part VI—Miscellaneous
 
@@ -994,11 +993,11 @@ the Minister may, by notice in writing published in the _Gazette_ specifying tha
 
                    The executive committee must table a copy of the annual report on the Council at the next general meeting of the Council held after the deadline for the financial year to which the report relates. The report is prepared under section 9 of the _Commonwealth Authorities and Companies Act 1997_ and the deadline is as specified in that section.
 
-##### <a id="52A"></a>52A  By‑laws
+##### <a id="52A"></a>52A  By-laws
 
              (1)  In this section **_Aboriginal_****_Land_** does not include land declared under section 9A.
 
-             (2)  The Council may make by‑laws for or with respect to:
+             (2)  The Council may make by-laws for or with respect to:
 
                      (a)  economic enterprise on Aboriginal Land;
 
@@ -1006,37 +1005,37 @@ the Minister may, by notice in writing published in the _Gazette_ specifying tha
 
                      (c)  the management, access, conservation, fire protection, development and use of Aboriginal Land;
 
-                     (d)  the declaration of sacred or significant sites or other areas of significance to Aboriginal people on Aboriginal Land;
+                     (d)  the declaration of sacred or significant sites or other areas of significance to Aboriginal people on Aboriginal  Land;
 
-                     (e)  the activities to be permitted on Aboriginal Land or any part of it;
+                     (e)  the activities to be permitted on Aboriginal  Land or any part of it;
 
                       (f)  protection and conservation of flora or fauna found on Aboriginal Land;
 
                      (g)  in relation to Aboriginal Land, the cutting, removal and sale of timber, the granting of revocable licences and the payment of royalties for timber to the Council;
 
-                     (h)  hunting, shooting and fishing on Aboriginal Land;
+                     (h)  hunting, shooting and fishing on Aboriginal  Land;
 
                       (i)  control of visitors in, and charging fees (to be paid to the Council) for entrance to, Aboriginal Land;
 
                       (j)  the regulation and control of motor traffic and parking on Aboriginal Land;
 
-                     (k)  the appointment of persons to enforce the by‑laws, and the powers and duties of those persons.
+                     (k)  the appointment of persons to enforce the by-laws, and the powers and duties of those persons.
 
-             (3)  The by‑laws may apply any regulation made under the _Environment Protection and Biodiversity Conservation Act 1999_ to   Aboriginal Land, with whatever changes are needed for that purpose.
+             (3)  The by-laws may apply any regulation made under the _Environment Protection and Biodiversity Conservation Act 1999_ to Aboriginal Land, with whatever changes are needed for that purpose.
 
-             (4)  A by‑law, in applying a regulation referred to in subsection (3) relating to an offence, must not change the penalty for that offence.
+             (4)  A by-law, in applying a regulation referred to in subsection (3) relating to an offence, must not change the penalty for that offence.
 
-             (5)  A by‑law must not be inconsistent with a law of the Commonwealth or a law in force in the Territory, but a regulation referred to in subsection (3) may, in its application to Aboriginal Land, be inconsistent with a law in force in the Territory.
+             (5)  A by-law must not be inconsistent with a law of the Commonwealth or a law in force in the Territory, but a regulation referred to in subsection (3) may, in its application to Aboriginal  Land, be inconsistent with a law in force in the Territory.
 
-             (6)  The by‑laws may provide that a contravention of a by‑law is an offence.
+             (6)  The by-laws may provide that a contravention of a by-law is an offence.
 
-             (7)  The regulations may provide, in respect of an offence against the by‑laws, for the imposition of:
+             (7)  The regulations may provide, in respect of an offence against the by-laws, for the imposition of:
 
                      (a)  if the offender is a natural person—a fine not exceeding 5 penalty units; or
 
                      (b)  if the offender is a corporation—a fine not exceeding 25 penalty units.
 
-             (8)  The regulations may make provision for and in relation to enabling a person who is alleged to have committed an offence against the by‑laws to pay to the Commonwealth, as an alternative to prosecution, a penalty not exceeding:
+             (8)  The regulations may make provision for and in relation to enabling a person who is alleged to have committed an offence against the by-laws to pay to the Commonwealth, as an alternative to prosecution, a penalty not exceeding:
 
                      (a)  in the case of a natural person—1 penalty unit; or
 
@@ -1044,39 +1043,41 @@ the Minister may, by notice in writing published in the _Gazette_ specifying tha
 
              (9)  Subsections (7) and (8) do not apply in relation to an offence against a regulation referred to in subsection (3) in its application to Aboriginal Land.
 
-           (10)  If the Council makes a by‑law, it shall, within 21 days after making it, give a copy of the by‑law to the Minister.
+           (10)  If the Council makes a by-law, it shall, within 21 days after making it, give a copy of the by-law to the Minister.
 
-           (11)  Where the Minister receives a copy of any by‑laws, the Minister shall:
+           (11)  Where the Minister receives a copy of any by-laws, the Minister shall:
 
-                     (a)  cause the by‑laws to be notified in the _Gazette_; and
+                     (a)  cause the by-laws to be notified in the _Gazette_; and
 
-                     (b)  cause a copy of the by‑laws to be laid before each House of the Parliament within 15 sitting days of that House after receipt by the Minister.
+                     (b)  cause a copy of the by-laws to be laid before each House of the Parliament within 15 sitting days of that House after receipt by the Minister.
 
-           (12)  By‑laws take effect from the day on which they are notified in the _Gazette_, or, where a later date is specified in the by‑laws, from that later date.
+           (12)  By-laws take effect from the day on which they are notified in the _Gazette_, or, where a later date is specified in the by-laws, from that later date.
 
-           (13)  If a copy of any by‑laws is not laid before a House of the Parliament within 15 sitting days of that House after receipt by the Minister, the by‑laws cease to have effect at the end of that period.
+           (13)  If a copy of any by-laws is not laid before a House of the Parliament within 15 sitting days of that House after receipt by the Minister, the by-laws cease to have effect at the end of that period.
 
-           (14)  Where a copy of a by‑law has been laid before a House of the Parliament under this section, the provisions of section 48 (other than subsections (1), (2) and (3)) and sections 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to the by‑laws as if, in those provisions, references to regulations were references to by‑laws and references to repeal were references to revocation.
+           (14)  Where a copy of a by-law has been laid before a House of the Parliament under this section, the provisions of section 48 (other than subsections (1), (2) and (3)) and sections 48A, 48B, 49 and 50 of the _Acts Interpretation Act 1901_ apply in relation to the by-laws as if, in those provisions, references to regulations were references to by-laws and references to repeal were references to revocation.
 
 ##### <a id="53"></a>53  Regulations
 
-             (1)  The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters:
+             (1)  The Governor-General may make regulations, not inconsistent with this Act, prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  Before the Governor‑General makes regulations for the purposes of section 49 in relation to a place that forms part of Aboriginal Land, the Minister must consider any representations made to the Minister by the Council or the executive committee in relation to public access to the place.
+             (2)  Before the Governor-General makes regulations for the purposes of section 49 in relation to a place that forms part of Aboriginal Land, the Minister must consider any representations made to the Minister by the Council or the executive committee in relation to public access to the place.
 
 ## Part VII—Amendment of Jervis Bay Territory Acceptance Act 1915
 
 ##### <a id="54"></a>54  Principal Act
 
-                   The _Jervis__Bay Territory__Acceptance Act 1915_ is in this Part referred to as the Principal Act.
+                   The _Jervis__Bay__Territory__Acceptance Act 1915_ is in this Part referred to as the Principal Act.
 
-##### <a id="55"></a>55  Amendment of the _Jervis__Bay Territory__Acceptance Act 1915_
+##### <a id="55"></a>55  Amendment of the _Jervis__Bay__Territory__Acceptance Act 1915_
 
                    \[published separately]
+
+ 
 
 # Schedule—Definition of Schedule Land
 
@@ -1084,11 +1085,13 @@ _Subsection 2(1) (definition of Schedule Land)_
 
                    All that piece of land in the Territory _commencing_ at the south eastern most corner of Block 61 Jervis Bay Territory as shown in the plan catalogued in the Office of the Registrar of Titles Canberra as Deposited Plan 4480 and being a point at high water mark of the South Pacific Ocean and bounded _thence_ on the south west by that high water mark generally in a north westerly direction being the south western boundary of Block 61 and of Block 60 as shown in the said Deposited Plan 4480 to the most westerly point of Block 60 and bounded thence by that high water mark generally in a westerly direction to a point at a bearing of 283 degrees 44 minutes 30 seconds distant 918.5 metres from that most westerly point of Block 60 and bounded _thence_ on the north west by a line bearing north easterly 32 degrees 51 minutes 40 seconds distant 2142 metres to a corner post of a south west boundary fence of the Royal Australian Navy Airfield _thence_ on the north east by that boundary fence bearing south easterly 138 degrees 20 minutes distant 683.2 metres and 138 degrees 11 minutes 10 seconds distant 451 metres and by that boundary fence and its prolongation bearing 136 degrees 37 minutes 30 seconds distant 1245.1 metres and _thence_ on the south east by lines bearing 215 degrees 41 minutes 50 seconds distant 1114.1 metres and 215 degrees 59 minutes 40 seconds distant 769.6 metres to the point of commencement and containing an area of 403 hectares more or less, excluding the reserves of width 20 metres for the public roads known variously as Wreck Bay Road and Summercloud Bay Road and that part of Boorarla Road leading from Wreck Bay Road south easterly and south westerly to the boat ramp at Summercloud Bay.
 
+ 
+
 # Notes to the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_
 
 ### Note 1
 
-The _Aboriginal__Land__Grant (Jervis Bay Territory) Act 1986_ as shown in this compilation comprises Act No. 164, 1986 amended as indicated in the Tables below. 
+The _Aboriginal__Land__Grant (__Jervis__Bay__Territory__) Act 1986_ as shown in this compilation comprises Act No. 164, 1986 amended as indicated in the Tables below. 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 16 July 1999 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1262,7 +1265,7 @@ of Assent</div>
 </tr>
 <tr>
   <td>
-    <div>Same‑Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
   </td>
   <td>
     <div>144, 2008</div>
@@ -1276,30 +1279,13 @@ of Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 7 (item 1): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Aboriginal__Land__Grant (Jervis Bay Territory) Act 1986_ was amended by Schedule 2 (items 87–93) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
+_(a)_     The _Aboriginal__Land__Grant (__Jervis__Bay__Territory__) Act 1986_ was amended by Schedule 2 (items 87–93) only of the _Audit (Transitional and Miscellaneous) Amendment Act 1997_, subsection 2(2) of which provides as follows:
 
                  (2)   Schedules 1, 2 and 4 commence on the same day as the _Financial Management and Accountability Act 1997_.
 
-_(b)_     The _Aboriginal__Land__Grant (Jervis Bay Territory) Act 1986_ was amended by Schedule 4 (items 12–15, 17, 18, 20 and 21) and Schedule 7 (items 1–3) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
+_(b)_    The _Aboriginal__Land__Grant (__Jervis__Bay__Territory__) Act 1986_ was amended by Schedule 4 (items 12–15, 17, 18, 20 and 21) and Schedule 7 (items 1–3) only of the _Environmental Reform (Consequential Provisions) Act 1999_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences when the _Environment Protection and Biodiversity Conservation Act 1999_ commences.
 
@@ -1428,14 +1414,6 @@ _(b)_     The _Aboriginal__Land__Grant (Jervis Bay Territory) Act 1986_ 
   </td>
   <td>
     <div>am. No. 103, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -1673,7 +1651,7 @@ _Environmental Reform (Consequential Provision) Act 1999 (No. 92, 1999)_
 
 ## 16  Saving
 
-To avoid doubt, the amendments of section 9A of the _Aboriginal__Land__Grant (Jervis Bay Territory) Act 1986_ by this Schedule do not affect the validity of a declaration made under that section before the amendments.
+To avoid doubt, the amendments of section 9A of the _Aboriginal__Land__Grant (__Jervis__Bay__Territory__) Act 1986_ by this Schedule do not affect the validity of a declaration made under that section before the amendments.
 
 ## 19  Application
 
@@ -1681,23 +1659,23 @@ The amendments of section 38A of the _Aboriginal Land Grant (Jervis Bay Territ
 
 _Note:       Part 2 of this Schedule converts an agreement between the Council and the Director into an agreement between the Council and the Commonwealth._
 
-## 22  Saving of by‑laws applying regulations
+## 22  Saving of by-laws applying regulations
 
-A by‑law that:
+A by-law that:
 
-                     (a)  was made under section 52A of the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_; and
+                     (a)  was made under section 52A of the _Aboriginal Land Grant (__Jervis__Bay__Territory__) Act 1986_ before the commencement of the _Environment Protection and Biodiversity Conservation Act 1999_; and
 
                      (b)  applied a regulation made under the _National Parks and Wildlife Conservation Act 1975_;
 
-continues in force despite the amendment of subsection 52A(3) of the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ by this Schedule.
+continues in force despite the amendment of subsection 52A(3) of the _Aboriginal Land Grant (__Jervis__Bay__Territory__) Act 1986_ by this Schedule.
 
 ## Schedule 7
 
 ## 4  Transitional—regulations
 
-(1)       Regulations described in subsection 53(2) of the _Aboriginal__Land__Grant (Jervis Bay Territory) Act 1986_ made under that Act and in force immediately before the commencement of this item have effect after that commencement as if they had been made under that section as amended by this Act.
+(1)        Regulations described in subsection 53(2) of the _Aboriginal__Land__Grant (__Jervis__Bay__Territory__) Act 1986_ made under that Act and in force immediately before the commencement of this item have effect after that commencement as if they had been made under that section as amended by this Act.
 
-(2)       Subitem (1) does not prevent the amendment of regulations described in that subitem.
+(2)        Subitem (1) does not prevent the amendment of regulations described in that subitem.
 
 * * *
 
@@ -1712,16 +1690,16 @@ _Reconciliation and Aboriginal and Torres Strait Islander Affairs Legislation Am
 
 * * *
 
-_Aboriginal Land Grant (Jervis Bay Territory) Amendment Act 2003 
+_Aboriginal Land Grant (Jervis  Bay Territory) Amendment Act 2003 
  (No. 146, 2003)_
 
 ## Schedule 1
 
 ## 13  Application
 
-(1)       The amendments made by items 7 to 11 apply to meetings (including reconvened meetings) held after the commencement of this item.
+(1)        The amendments made by items 7 to 11 apply to meetings (including reconvened meetings) held after the commencement of this item.
 
-(2)       The amendment made by item 12 applies to by‑laws made:
+(2)        The amendment made by item 12 applies to by-laws made:
 
                      (a)  after the commencement of this item; or
 
@@ -1733,8 +1711,10 @@ To avoid doubt, if:
 
                      (a)  disregarding the amendments made by items 1 to 6 of this Schedule, an appointment under section 15, or a delegation under section 16, of the _Aboriginal Land Grant (Jervis Bay Territory) Act 1986_ is in force when this Act commences; and
 
-                     (b)  such an appointment or delegation could validly have been made when this Act commences under the _Aboriginal__Land__Grant (Jervis Bay Territory) Act 1986_ as amended by those items;
+                     (b)  such an appointment or delegation could validly have been made when this Act commences under the _Aboriginal__Land__Grant (__Jervis__Bay__Territory__) Act 1986_ as amended by those items;
 
 the amendments made by those items do not affect the validity of the appointment or delegation.
+
+ 
 
  
