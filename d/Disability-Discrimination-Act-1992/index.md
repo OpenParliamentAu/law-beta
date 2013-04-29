@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00747/Html/4749b1f6-2186-4d95-a17c-cfddd11dbd50_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00023/Html/DisabilityDiscrimination1992_WD02_image001.gif)
 
 # Disability Discrimination Act 1992
 
 **Act No. 135 of 1992 as amended**
 
-This compilation was prepared on 15 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 8 January 2010
+ taking into account amendments up to Act No. 124 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -208,7 +208,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [126](#126).        Protection from civil actions
 
-[127](#127).        Non‑disclosure of private information
+[127](#127).        Non-disclosure of private information
 
 [128](#128).        Information stored otherwise than in written form
 
@@ -266,15 +266,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (b)  an office established by, or an appointment made under, a law of a Territory; and
 
-                     (c)  an appointment made by the Governor‑General or a Minister otherwise than under a law of the Commonwealth or of a Territory; and
+                     (c)  an appointment made by the Governor-General or a Minister otherwise than under a law of the Commonwealth or of a Territory; and
 
                      (d)  an appointment as a director of an incorporated company that is a public authority of the Commonwealth;
 
 but does not include:
 
-                     (e)  an office of member of the Assembly, member of the Executive, or Minister within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_; or
+                     (e)  an office of member of the Assembly, member of the Executive, or Minister within the meaning of the _Australian   Capital Territory__(Self-Government) Act 1988_; or
 
-                      (f)  an office of member of the Legislative Assembly, member of the Council or Minister of the Territory, within the meaning of the _Northern Territory (Self‑Government) Act 1978_; or
+                      (f)  an office of member of the Legislative Assembly, member of the Council or Minister of the Territory, within the meaning of the _Northern Territory (Self-Government) Act 1978_; or
 
                      (g)  an office of member of the Legislative Assembly within the meaning of the _Norfolk Island__Act 1979_; or
 
@@ -326,15 +326,15 @@ but does not include:
 
                     <a name="commonwealth-law"></a>**_Commonwealth law_** means:
 
-                     (a)  an Act, or a regulation, rule, by‑law or determination made under an Act; or
+                     (a)  an Act, or a regulation, rule, by-law or determination made under an Act; or
 
-                     (b)  an ordinance of a Territory, or a regulation, rule, by‑law or determination made under an ordinance of a Territory; or
+                     (b)  an ordinance of a Territory, or a regulation, rule, by-law or determination made under an ordinance of a Territory; or
 
                      (c)  an order or award made under a law referred to in paragraph (a) or (b).
 
                     <a name="commonwealth-program"></a>**_Commonwealth program_** means a program conducted by or on behalf of the Commonwealth Government.
 
-                    <a name="contract-worker"></a>**_contract worker_** means a person who does work for another person under a contract between the employer of the first‑mentioned person and that other person.
+                    <a name="contract-worker"></a>**_contract worker_** means a person who does work for another person under a contract between the employer of the first-mentioned person and that other person.
 
                     <a name="convent"></a>**_Convention_** means the Discrimination (Employment and Occupation) Convention, 1958 adopted by the General Conference of the International Labour Organization on 25 June 1958, a copy of the English text of which is set out in Schedule 1 of the _Australian Human Rights Commission Act 1986_.
 
@@ -398,7 +398,7 @@ Note:          Section 7 (associates) and section 8 (carer
 
                     <a name="employ"></a>**_employment_** includes:
 
-                     (a)  part‑time and temporary employment; and
+                     (a)  part-time and temporary employment; and
 
                      (b)  work under a contract for services; and
 
@@ -450,7 +450,7 @@ Note:          Section 7 (associates) and section 8 (carer
 
                     <a name="regist-organis"></a>**_registered organisation_** means an organisation registered, or an association recognised, under the _Fair Work (Registered Organisations) Act 2009_.
 
-                    <a name="rel"></a>**_relative_**, in relation to a person, means a person who is related to the first‑mentioned person by blood, marriage, affinity or adoption.
+                    <a name="rel"></a>**_relative_**, in relation to a person, means a person who is related to the first-mentioned person by blood, marriage, affinity or adoption.
 
                     <a name="servic"></a>**_services_** includes:
 
@@ -714,7 +714,7 @@ in the exercise of a power conferred by a law of the Commonwealth or a law of a 
 
                      (b)  give effect to the Covenant on Civil and Political Rights; or
 
-                   (ba)  give effect to the Disabilities Convention; or
+                    (ba)  give effect to the Disabilities Convention; or
 
                      (c)  give effect to the International Covenant on Economic, Social and Cultural Rights; or
 
@@ -808,7 +808,7 @@ the person may be prosecuted and convicted either under that law of the State or
 
                      (d)  by subjecting the employee to any other detriment.
 
-             (3)  Neither paragraph (1)(a) nor (b) renders it unlawful for a person to discriminate against another person, on the ground of the other person’s disability, in connection with employment to perform domestic duties on the premises on which the first‑mentioned person resides.
+             (3)  Neither paragraph (1)(a) nor (b) renders it unlawful for a person to discriminate against another person, on the ground of the other person’s disability, in connection with employment to perform domestic duties on the premises on which the first-mentioned person resides.
 
 ##### <a id="16"></a>16  Discrimination against commission agents
 
@@ -982,13 +982,13 @@ Opportunities for promotion, transfer and training and registered organisations
 
                      (a)  by refusing to allow the other person access to, or the use of, any premises that the public or a section of the public is entitled or allowed to enter or use (whether for payment or not); or
 
-                     (b)  in the terms or conditions on which the first‑mentioned person is prepared to allow the other person access to, or the use of, any such premises; or
+                     (b)  in the terms or conditions on which the first-mentioned person is prepared to allow the other person access to, or the use of, any such premises; or
 
                      (c)  in relation to the provision of means of access to such premises; or
 
                      (d)  by refusing to allow the other person the use of any facilities in such premises that the public or a section of the public is entitled or allowed to use (whether for payment or not); or
 
-                     (e)  in the terms or conditions on which the first‑mentioned person is prepared to allow the other person the use of any such facilities; or
+                     (e)  in the terms or conditions on which the first-mentioned person is prepared to allow the other person the use of any such facilities; or
 
                       (f)  by requiring the other person to leave such premises or cease to use such facilities.
 
@@ -998,9 +998,9 @@ Opportunities for promotion, transfer and training and registered organisations
 
                      (a)  by refusing to provide the other person with those goods or services or to make those facilities available to the other person; or
 
-                     (b)  in the terms or conditions on which the first‑mentioned person provides the other person with those goods or services or makes those facilities available to the other person; or
+                     (b)  in the terms or conditions on which the first-mentioned person provides the other person with those goods or services or makes those facilities available to the other person; or
 
-                     (c)  in the manner in which the first‑mentioned person provides the other person with those goods or services or makes those facilities available to the other person.
+                     (c)  in the manner in which the first-mentioned person provides the other person with those goods or services or makes those facilities available to the other person.
 
 ##### <a id="25"></a>25  Accommodation
 
@@ -1046,7 +1046,7 @@ Opportunities for promotion, transfer and training and registered organisations
 
                              (ii)  the person discriminated against does not have that particular disability.
 
-##### <a id="26"></a>26  Land
+##### <a id="26"></a>26  Land
 
              (1)  It is unlawful for a person, whether as principal or agent, to discriminate against another person on the ground of the other person’s disability:
 
@@ -1076,7 +1076,7 @@ Opportunities for promotion, transfer and training and registered organisations
 
                      (e)  by subjecting the member to any other detriment.
 
-             (4)  Neither subsection (1) nor (2) renders it unlawful to discriminate against a person on the ground of the person’s disability if membership (however described) of the club or incorporated association is restricted only to persons who have a particular disability and the first‑mentioned person does not have that disability.
+             (4)  Neither subsection (1) nor (2) renders it unlawful to discriminate against a person on the ground of the person’s disability if membership (however described) of the club or incorporated association is restricted only to persons who have a particular disability and the first-mentioned person does not have that disability.
 
 ##### <a id="28"></a>28  Sport
 
@@ -1090,7 +1090,7 @@ Opportunities for promotion, transfer and training and registered organisations
 
                      (b)  if the persons who participate or are to participate in the sporting activities are selected by a method which is reasonable on the basis of their skills and abilities relevant to the sporting activity and relative to each other; or
 
-                     (c)  if a sporting activity is conducted only for persons who have a particular disability and the first‑mentioned person does not have that disability.
+                     (c)  if a sporting activity is conducted only for persons who have a particular disability and the first-mentioned person does not have that disability.
 
 ##### <a id="29"></a>29  Administration of Commonwealth laws and programs
 
@@ -1176,7 +1176,7 @@ in relation to the disability.
 
              (2)  It is unlawful for a person to harass another person who:
 
-                     (a)  is an employee of a person by whom the first‑mentioned person is employed; and
+                     (a)  is an employee of a person by whom the first-mentioned person is employed; and
 
                      (b)  has a disability;
 
@@ -1184,7 +1184,7 @@ in relation to the disability.
 
              (3)  It is unlawful for a person to harass another person who:
 
-                     (a)  is seeking employment by the first‑mentioned person or by an employer of the first‑mentioned person; and
+                     (a)  is seeking employment by the first-mentioned person or by an employer of the first-mentioned person; and
 
                      (b)  has a disability;
 
@@ -1200,7 +1200,7 @@ in relation to the disability.
 
              (5)  It is unlawful for a person to harass another person who:
 
-                     (a)  is a commission agent or contract worker of a person of whom the first‑mentioned person is a commission agent or contract worker; and
+                     (a)  is a commission agent or contract worker of a person of whom the first-mentioned person is a commission agent or contract worker; and
 
                      (b)  has a disability;
 
@@ -1208,7 +1208,7 @@ in relation to the disability.
 
              (6)  It is unlawful for a person to harass another person who:
 
-                     (a)  is seeking to become a commission agent or contract worker of the first‑mentioned person or of a person of whom the first‑mentioned person is a commission agent or contract worker; and
+                     (a)  is seeking to become a commission agent or contract worker of the first-mentioned person or of a person of whom the first-mentioned person is a commission agent or contract worker; and
 
                      (b)  has a disability;
 
@@ -1246,7 +1246,7 @@ in relation to the disability.
 
                     Penalty:  Imprisonment for 6 months.
 
-             (2)  For the purposes of subsection (1), a person is taken to commit an act of victimisation against another person if the first‑mentioned person subjects, or threatens to subject, the other person to any detriment on the ground that the other person:
+             (2)  For the purposes of subsection (1), a person is taken to commit an act of victimisation against another person if the first-mentioned person subjects, or threatens to subject, the other person to any detriment on the ground that the other person:
 
                      (a)  has made, or proposes to make, a complaint under this Act or the _Australian Human Rights Commission Act 1986_; or
 
@@ -1262,7 +1262,7 @@ in relation to the disability.
 
                      (g)  has made an allegation that a person has done an act that is unlawful by reason of a provision of this Part;
 
-or on the ground that the first‑mentioned person believes that the other person has done, or proposes to do, an act or thing referred to in any of paragraphs (a) to (g) (inclusive).
+or on the ground that the first-mentioned person believes that the other person has done, or proposes to do, an act or thing referred to in any of paragraphs (a) to (g) (inclusive).
 
 ##### <a id="43"></a>43  Offence to incite doing of unlawful acts or offences
 
@@ -1340,7 +1340,7 @@ if:
 
                       (f)  the discrimination:
 
-                              (i)  is based upon actuarial or statistical data on which it is reasonable for the first‑mentioned person to rely; and
+                              (i)  is based upon actuarial or statistical data on which it is reasonable for the first-mentioned person to rely; and
 
                              (ii)  is reasonable having regard to the matter of the data and other relevant factors; or
 
@@ -1362,7 +1362,7 @@ is offered to, or may be obtained by, the other person, if:
 
                       (f)  the discrimination:
 
-                              (i)  is based upon actuarial or statistical data on which it is reasonable for the first‑mentioned person to rely; and
+                              (i)  is based upon actuarial or statistical data on which it is reasonable for the first-mentioned person to rely; and
 
                              (ii)  is reasonable having regard to the matter of the data and other relevant factors; or
 
@@ -1456,7 +1456,7 @@ Note:          For discrimination in relation to an assistance
 
                       (i)  the _Military Rehabilitation and Compensation (Consequential and Transitional Provisions) Act 2004_; or
 
-                      (j)  the _Safety, Rehabilitation and Compensation Act 1988_ so far as that Act applies to defence‑related claims mentioned in Part XI of that Act.
+                      (j)  the _Safety, Rehabilitation and Compensation Act 1988_ so far as that Act applies to defence-related claims mentioned in Part XI of that Act.
 
              (2)  This Part does not render unlawful anything done by a person in direct compliance with a provision referred to in subsection (1).
 
@@ -1476,17 +1476,17 @@ Note:          For discrimination in relation to an assistance
 
              (1)  This Part does not render it unlawful for a person to discriminate against another person on the ground of the other person’s disability in connection with employment, engagement or appointment in the Defence Force:
 
-                     (a)  in a position involving the performance of combat duties, combat‑related duties or peacekeeping service; or
+                     (a)  in a position involving the performance of combat duties, combat-related duties or peacekeeping service; or
 
-                     (b)  in prescribed circumstances in relation to combat duties, combat‑related duties or peacekeeping service; or
+                     (b)  in prescribed circumstances in relation to combat duties, combat-related duties or peacekeeping service; or
 
-                     (c)  in a position involving the performance of duties as a chaplain or a medical support person in support of forces engaged or likely to be engaged in combat duties, combat‑related duties or peacekeeping service.
+                     (c)  in a position involving the performance of duties as a chaplain or a medical support person in support of forces engaged or likely to be engaged in combat duties, combat-related duties or peacekeeping service.
 
              (2)  In this section:
 
                     <a name="combat-duti"></a>**_combat duties_** means such duties as are declared by the regulations to be combat duties for the purposes of this section.
 
-                    <a name="combat-relat-duti"></a>**_combat‑related duties_** means such duties as are declared by the regulations to be combat‑related duties for the purposes of this section.
+                    <a name="combat-relat-duti"></a>**_combat-related duties_** means such duties as are declared by the regulations to be combat-related duties for the purposes of this section.
 
                     <a name="mical-support-person"></a>**_medical support person_** means:
 
@@ -1694,15 +1694,15 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="113"></a>113  Disability Discrimination Commissioner
 
-             (1)  There is to be a Disability Discrimination Commissioner, who is to be appointed by the Governor‑General.
+             (1)  There is to be a Disability Discrimination Commissioner, who is to be appointed by the Governor-General.
 
              (2)  A person is not qualified to be appointed as the Disability Discrimination Commissioner unless the Minister is satisfied that the person has appropriate qualifications, knowledge or experience.
 
 ##### <a id="114"></a>114  Terms and conditions of appointment
 
-             (1)  Subject to this section, the Commissioner holds office for such period, not exceeding 7 years, as is specified in the instrument of the person’s appointment, but is eligible for re‑appointment.
+             (1)  Subject to this section, the Commissioner holds office for such period, not exceeding 7 years, as is specified in the instrument of the person’s appointment, but is eligible for re-appointment.
 
-             (2)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (2)  The Commissioner holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="115"></a>115  Remuneration of Commissioner
 
@@ -1724,17 +1724,17 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="118"></a>118  Resignation
 
-                   The Commissioner may resign from the office of Commissioner by writing given to the Governor‑General.
+                   The Commissioner may resign from the office of Commissioner by writing given to the Governor-General.
 
 ##### <a id="119"></a>119  Termination of appointment
 
-             (1)  The Governor‑General may terminate the appointment of the Commissioner because of:
+             (1)  The Governor-General may terminate the appointment of the Commissioner because of:
 
                      (a)  misbehaviour; or
 
                      (b)  a disability which renders the Commissioner incapable of performing the inherent requirements of the office.
 
-             (2)  The Governor‑General must terminate the appointment of the Commissioner if the Commissioner:
+             (2)  The Governor-General must terminate the appointment of the Commissioner if the Commissioner:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
 
@@ -1804,7 +1804,7 @@ approved by the Commission, all or any of the powers exercisable by the Commissi
 
                      (b)  that the servant or agent had the state of mind.
 
-             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is taken, for the purposes of this Act, to have been engaged in also by the first‑mentioned person unless the first‑mentioned person establishes that the first‑mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+             (4)  Any conduct engaged in on behalf of a person other than a body corporate by a servant or agent of the person within the scope of his or her actual or apparent authority is taken, for the purposes of this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
              (5)  If:
 
@@ -1854,11 +1854,11 @@ the person is not liable to be punished by imprisonment for that offence.
 
              (2)  If a submission has been made, a document or information has been given, or evidence has been given, to the Commission or the Commissioner, a person is not liable to an action, suit or other proceeding in respect of loss, damage or injury of any kind suffered by another person because only that submission was made, the document or information was given or the evidence was given.
 
-##### <a id="127"></a>127  Non‑disclosure of private information
+##### <a id="127"></a>127  Non-disclosure of private information
 
              (1)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, must not, either directly or indirectly: 
 
-                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first‑mentioned person because of that person’s office of employment under or for the purposes of this Act or because of that person being or having been so authorised; or
+                     (a)  make a record of, or divulge or communicate to any person, any information relating to the affairs of another person acquired by the first-mentioned person because of that person’s office of employment under or for the purposes of this Act or because of that person being or having been so authorised; or
 
                      (b)  make use of any such information as is mentioned in paragraph (a); or
 
@@ -1868,9 +1868,9 @@ the person is not liable to be punished by imprisonment for that offence.
 
              (2)  A person who is, or has at any time been, the Commissioner, a member of the Commission or a member of the staff assisting the Commission or is, or has at any time been, authorised to perform or exercise any function or power of the Commission or the Commissioner or any function or power on behalf of the Commission or the Commissioner, being a function or power conferred on the Commission or on the Commissioner under this Act, must not be required:
 
-                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first‑mentioned person because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised; or
+                     (a)  to divulge or communicate to a court any information relating to the affairs of another person acquired by the first-mentioned person because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised; or
 
-                     (b)  to produce in a court a document relating to the affairs of another person of which the first‑mentioned person has custody, or to which that person has access, because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised;
+                     (b)  to produce in a court a document relating to the affairs of another person of which the first-mentioned person has custody, or to which that person has access, because of that person’s office or employment under or for the purposes of this Act or because of that person being or having been so authorised;
 
 except where it is necessary to do so for the purposes of this Act.
 
@@ -1916,15 +1916,15 @@ Note:          A defendant bears an evidential burden in relat
 
 ##### <a id="132"></a>132  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing matters:
+             (1)  The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-          (1A)  Without limiting the generality of subsection (1), the Governor‑General may make regulations for the purposes of subsection 55(1C) prescribing a body as a body that the Commission must consult in relation to all or specified kinds of public transportation services or facilities.
+          (1A)  Without limiting the generality of subsection (1), the Governor-General may make regulations for the purposes of subsection 55(1C) prescribing a body as a body that the Commission must consult in relation to all or specified kinds of public transportation services or facilities.
 
-             (2)  Before making any regulations for the purposes of section 47, the Governor‑General is to take into consideration any comments made to the Minister by a Minister of a State or Territory who is responsible for matters relating to disability discrimination.
+             (2)  Before making any regulations for the purposes of section 47, the Governor-General is to take into consideration any comments made to the Minister by a Minister of a State or Territory who is responsible for matters relating to disability discrimination.
 
 # Notes to the _Disability Discrimination Act 1992_
 
@@ -2024,7 +2024,7 @@ Remainder: 1 Mar 1993 ( <i>see Gazette</i>1992, No. S346)</div>
 </tr>
 <tr>
   <td>
-    <div>Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
+    <div>Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994</div>
   </td>
   <td>
     <div>164, 1994</div>
@@ -2425,23 +2425,6 @@ Schedule 2 (items 103–105): 8 Jan 2010</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 543–546) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Disability Discrimination Act 1992_ was amended by the _Sex Discrimination and other Legislation Amendment Act 1992_, subsection 2(2) of which provides as follows:
@@ -2456,11 +2439,11 @@ _(a)_     The _Disability Discrimination Act 1992_ was amended by the _S
 
          Section 4 commenced on 26 November 1992 (_see Gazette_ 1992, No. S346). The remaining amended provisions commenced on 1 March 1993 (_see Gazette_ 1992, No. S346).
 
-_(b)_     The _Disability Discrimination Act 1992_ was amended by Part 2 (sections 3–5) only of the _Law and Justice Legislation Amendment Act 1993_, subsection 2(1) of which provides as follows:
+_(b)_    The _Disability Discrimination Act 1992_ was amended by Part 2 (sections 3–5) only of the _Law and Justice Legislation Amendment Act 1993_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(c)_     The _Disability Discrimination Act 1992_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994‑95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
+_(c)_     The _Disability Discrimination Act 1992_ was amended by Part 4 (section 60) only of the _Veterans’ Affairs (1994-95 Budget Measures) Legislation Amendment Act (No. 2) 1994_, subsection 2(1) of which provides as follows:
 
                  (1)   Part 1, Divisions 1 and 11 of Part 2 and Parts 3 and 4 commence on the day on which this Act receives the Royal Assent.
 
@@ -2697,13 +2680,14 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr>
@@ -2718,7 +2702,7 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
       The later of:
     </div>
     <div>
-      (a) immediately after the commencement of Part 2‑4 of the
+      (a) immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>; and
     </div>
     <div>
@@ -2751,7 +2735,7 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
       The later of:
     </div>
     <div>
-      (a) immediately after the commencement of Part 2‑4 of the
+      (a) immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>; and
     </div>
     <div>
@@ -2769,6 +2753,10 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
       1 July 2009
     </div>
     <div>
+      (
+        <i>see</i>F2009L02563)
+    </div>
+    <div>
       (paragraph (a) applies)
     </div>
   </td>
@@ -2781,13 +2769,14 @@ _(l)_ Subsection 2(1) (items 11, 12, 14 and 21) of the _Fair Work (State Refer
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
   <td>
     <div>
-      1 July 2009
+      1 July 2009 (
+        <i>see</i>F2009L02563)
     </div>
   </td>
 </tr></table>
@@ -3769,34 +3758,6 @@ of Part 2</div>
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 543  Subsection 4(1) (definition of _document_)
-
-Repeal the definition.
-
-## 544  Subsection 120(1)
-
-Omit “(1)”.
-
-## 545  At the end of subsection 120(1)
-
-Add:
-
-Note:          For rules that apply to acting appointments, see section 33A of the _Acts Interpretation Act 1901_.
-
-## 546  Subsection 120(2)
-
-Repeal the subsection.
-
-As at 15 September 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4041,7 +4002,7 @@ if the proceedings started on or after the starting day under:
 
 ##### <a id="21"></a>21  Regulations 
 
-             (1)  The Governor‑General may make regulations prescribing matters: 
+             (1)  The Governor-General may make regulations prescribing matters: 
 
                      (a)  required or permitted by this Act to be prescribed; or 
 
@@ -4091,9 +4052,9 @@ Note:          A person who is a member or staff member of the
 
 ## 35  Regulations dealing with matters of a transitional or saving nature
 
-(1)       The Governor‑General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
+(1)        The Governor-General may make regulations, not inconsistent with any other provision of this Schedule, prescribing matters of a transitional or saving nature in relation to the amendments made by Schedule 1 or 2.
 
-(2)       Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
+(2)        Regulations made under this item within one year after the commencement of this item may commence on a day earlier than the day on which they are made, but not earlier than the commencement of this item.
 
 * * *
 
@@ -4101,9 +4062,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000�
 
 ## Schedule 2
 
-## 418  Transitional—pre‑commencement offences
+## 418  Transitional—pre-commencement offences
 
-(1)       Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
+(1)        Despite the amendment or repeal of a provision by this Schedule, that provision continues to apply, after the commencement of this item, in relation to:
 
                      (a)  an offence committed before the commencement of this item; or
 
@@ -4113,9 +4074,9 @@ _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000�
 
 as if the amendment or repeal had not been made.
 
-(2)       Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
+(2)        Subitem (1) does not limit the operation of section 8 of the _Acts Interpretation Act 1901_.
 
-## 419  Transitional—pre‑commencement notices
+## 419  Transitional—pre-commencement notices
 
 If:
 
@@ -4123,9 +4084,9 @@ If:
 
                      (b)  any or all of those other provisions are repealed by this Schedule; and
 
-                     (c)  the first‑mentioned provision is amended by this Schedule;
+                     (c)  the first-mentioned provision is amended by this Schedule;
 
-the amendment of the first‑mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
+the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
 * * *
 
@@ -4161,38 +4122,22 @@ _Disability Discrimination and Other Human Rights Legislation Amendment Act 2009
 
 ## 63  Saving—disability standards
 
-(1)       This item applies in relation to a disability standard:
+(1)        This item applies in relation to a disability standard:
 
                      (a)  made under section 31 of the _Disability Discrimination Act 1992_; and
 
                      (b)  in force immediately before the commencement of this Part.
 
-(2)       The disability standard has effect, from the commencement of this Part, as if it had been made under that section as amended by this Part.
+(2)        The disability standard has effect, from the commencement of this Part, as if it had been made under that section as amended by this Part.
 
 ## 86  Saving—action plans
 
-(1)       This item applies in relation to an action plan:
+(1)        This item applies in relation to an action plan:
 
                      (a)  given to the Commission under section 64 of the _Disability Discrimination Act 1992_; and
 
                      (b)  in force immediately before the commencement of this Part.
 
-(2)       The action plan has effect, from the commencement of this Part, as if it had been given to the Commission under that section as amended by this Part.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
+(2)        The action plan has effect, from the commencement of this Part, as if it had been given to the Commission under that section as amended by this Part.
 
  
