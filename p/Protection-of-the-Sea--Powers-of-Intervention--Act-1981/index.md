@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00888/Html/a06fea22-9169-4d83-9836-f3d9b6645716_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00077/Html/ProtSeaPowersIntervention1981_image001.gif)
 
 # Protection of the Sea (Powers of Intervention) Act 1981
 
 **Act No. 33 of 1981 as amended**
 
-This compilation was prepared on 3 November 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 14 January 2011
+ taking into account amendments up to Act No. 103 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,59 +14,59 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       1
 
-[4](#4).            Act to bind Crown
+[4](#4).            Act to bind Crown                                                                               4
 
-[5](#5).            Relationship to other laws
+[5](#5).            Relationship to other laws                                                                   4
 
-[6](#6).            Operation of Act
+[6](#6).            Operation of Act                                                                                 5
 
-[7](#7).            Delegation
+[7](#7).            Delegation                                                                                            5
 
-[8](#8).            Taking of measures to prevent pollution of sea by oil—maritime casualty on the high seas
+[8](#8).            Taking of measures to prevent pollution of sea by oil—maritime casualty on the high seas  5
 
-[9](#9).            Taking of measures to prevent pollution of sea by substances other than oil—maritime casualty on the high seas
+[9](#9).            Taking of measures to prevent pollution of sea by substances other than oil—maritime casualty on the high seas                                                                                                             7
 
-[10](#10).          Taking of measures to prevent pollution of sea by oil or noxious substances—general powers
+[10](#10).          Taking of measures to prevent pollution of sea by oil or noxious substances—general powers            10
 
-[11](#11).          Directions under Act may require taking of action etc 
+[11](#11).          Directions under Act may require taking of action etc                      14
 
-[12](#12).          Addressing of directions under Act etc 
+[12](#12).          Addressing of directions under Act etc                                             17
 
-[13](#13).          Issuing of more than one direction in relation to a ship
+[13](#13).          Issuing of more than one direction in relation to a ship                     17
 
-[14](#14).          Directions under Act to ship or tangible asset with more than one owner etc 
+[14](#14).          Directions under Act to ship or tangible asset with more than one owner etc        18
 
-[15](#15).          Revocation and variation of directions under Act
+[15](#15).          Revocation and variation of directions under Act                             18
 
-[16](#16).          Directions under Act to be in writing
+[16](#16).          Directions under Act to be in writing                                                18
 
-[17](#17).          Service of directions under Act
+[17](#17).          Service of directions under Act                                                          18
 
-[17A](#17A).       Liability for acts and omissions
+[17A](#17A).       Liability for acts and omissions                                                         21
 
-[17B](#17B).       Expenses of compliance with certain directions under Act may be recovered from owner of ship
+[17B](#17B).       Expenses of compliance with certain directions under Act may be recovered from owner of ship        22
 
-[18](#18).          Change in ownership or master of ship, or change in ownership of tangible asset
+[18](#18).          Change in ownership or master of ship, or change in ownership of tangible asset  23
 
-[19](#19).          Contravention of direction under Act etc 
+[19](#19).          Contravention of direction under Act etc                                          24
 
-[20](#20).          No time limit for prosecution
+[20](#20).          No time limit for prosecution                                                            25
 
-[21](#21).          Evidence
+[21](#21).          Evidence                                                                                             25
 
-[22](#22).          Compensation for acquisition of property
+[22](#22).          Compensation for acquisition of property                                        26
 
-[23](#23).          Regulations
+[23](#23).          Regulations                                                                                        26
 
 **Schedule 1—International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties** 
 
@@ -102,7 +102,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                      (a)  the territorial sea of Australia; and
 
-                     (b)  the sea on the landward side of the territorial sea of Australia and not within the limits of a State or the Northern Territory.
+                     (b)  the sea on the landward side of the territorial sea of Australia and not within the limits of a State or the Northern   Territory.
 
                     <a name="australian-ship"></a>**_Australian ship_** means:
 
@@ -202,7 +202,7 @@ Note:          The text of the Convention is set out in Austra
 
 ##### <a id="4"></a>4  Act to bind Crown
 
-             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island.
+             (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
              (2)  Nothing in this Act renders the Commonwealth, the Authority or a State or Territory liable to be prosecuted for an offence.
 
@@ -302,7 +302,7 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                      (d)  an Australian ship.
 
-             (3)  This section does not authorize the taking of measures against a warship or other ship owned or operated by a foreign State and used, for the time being, only on government non‑commercial service.
+             (3)  This section does not authorize the taking of measures against a warship or other ship owned or operated by a foreign State and used, for the time being, only on government non-commercial service.
 
              (4)  The Minister and the Authority shall, in and in relation to the exercise of powers under this section, act in accordance with Articles III and V of the Convention. For this purpose, those Articles are taken to extend to the taking of measures under this section elsewhere than on the high seas.
 
@@ -372,7 +372,7 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                      (d)  an Australian ship.
 
-             (3)  This section does not authorize the taking of measures against a warship or other ship owned or operated by a foreign State and used, for the time being, only on government non‑commercial service.
+             (3)  This section does not authorize the taking of measures against a warship or other ship owned or operated by a foreign State and used, for the time being, only on government non-commercial service.
 
              (4)  The Minister and the Authority shall, in and in relation to the exercise of powers under this section, act in accordance with Articles III and V of the Convention as applying by virtue of Article II of the Protocol or, if the Protocol has not entered into force, in accordance with those Articles of the Convention as they would apply by virtue of that Article of the Protocol if the Protocol had entered into force. For this purpose, those Articles of the Convention as applying by virtue of Article II of the Protocol are taken to extend to the taking of measures under this section elsewhere than on the high seas.
 
@@ -406,13 +406,13 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                            (vii)  the ship is owned, operated, managed or controlled by a constitutional corporation; or
 
-                          (viii)  the ship is demised or sub‑demised to, or in the exclusive possession of, a constitutional corporation; or
+                           (viii)  the ship is demised or sub-demised to, or in the exclusive possession of, a constitutional corporation; or
 
                             (ix)  the beneficial interest in the ship is vested in a constitutional corporation; and
 
                      (b)  any ship in the Australian coastal sea; and
 
-                   (ba)  any ship in the exclusive economic zone of Australia; and
+                    (ba)  any ship in the exclusive economic zone of Australia; and
 
                      (c)  any Australian ship on the high seas.
 
@@ -532,7 +532,7 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                      (b)  the tourist attractions of any part of Australia; and
 
-                     (c)  the health of the coastal population of, and the well‑being of, any area of Australia, including the conservation of living marine resources and of wildlife in or connected with any area of Australia.
+                     (c)  the health of the coastal population of, and the well-being of, any area of Australia, including the conservation of living marine resources and of wildlife in or connected with any area of Australia.
 
                     <a name="sea"></a>**_sea_** includes any waters within the ebb and flow of the tide.
 
@@ -544,7 +544,7 @@ Note:          See sections 34AA, 34AB and 34A of the _Acts 
 
                     (aa)  a ship involved in a maritime casualty referred to in subsection 8(1) or 9(1);
 
-                   (ab)  a ship referred to in subsection 10(2);
+                    (ab)  a ship referred to in subsection 10(2);
 
 may require the doing of any act or thing with respect to the first ship or the first ship’s cargo, or prohibit the doing of any such act or thing and, without limiting the generality of the foregoing, may:
 
@@ -578,7 +578,7 @@ may require the doing of any act or thing with respect to the first ship or the 
 
                              (ii)  the removal of another ship from a place or area;
 
-                            where the movement or removal facilitates repairing, piloting, towing, berthing or securing the first ship; or
+                            where the movement or removal facilitates repairing, piloting, towing, berthing or securing the first ship; or
 
                      (k)  prohibit:
 
@@ -762,7 +762,7 @@ may, in a case where the person is an individual or a body corporate, be effecte
 
 may, in a case where the person is a body politic, be effected:
 
-                     (d)  by leaving it at, or sending it by pre‑paid post to, an office of a department or agency of the body politic; or
+                     (d)  by leaving it at, or sending it by pre-paid post to, an office of a department or agency of the body politic; or
 
                      (e)  by sending the contents of the direction to the person, or to a representative of the person, by means of an electronic communication.
 
@@ -952,7 +952,7 @@ for the recovery from the Commonwealth of such reasonable amount of compensation
 
 ##### <a id="23"></a>23  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, exempting, either absolutely or subject to conditions, a prescribed ship, or ships included in a prescribed class of ships, from all or any of the provisions of this Act.
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act and, in particular, exempting, either absolutely or subject to conditions, a prescribed ship, or ships included in a prescribed class of ships, from all or any of the provisions of this Act.
 
 # Schedule 1—International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties 
 
@@ -970,7 +970,7 @@ ARTICLE I
 
 1.    Parties to the present Convention may take such measures on the high seas as may be necessary to prevent, mitigate or eliminate grave and imminent danger to their coastline or related interests from pollution or threat of pollution of the sea by oil, following upon a maritime casualty or acts related to such a casualty, which may reasonably be expected to result in major harmful consequences.
 
-2.    However, no measures shall be taken under the present Convention against any warship or other ship owned or operated by a State and used, for the time being, only on government non‑commercial service.
+2.    However, no measures shall be taken under the present Convention against any warship or other ship owned or operated by a State and used, for the time being, only on government non-commercial service.
 
 ARTICLE II 
 
@@ -980,9 +980,9 @@ For the purposes of the present Convention:
 
 2.    “ship” means: 
 
-(a)   any sea‑going vessel of any type whatsoever, and 
+(a)   any sea-going vessel of any type whatsoever, and 
 
-(b)   any floating craft, with the exception of an installation or device engaged in the exploration and exploitation of the resources of the sea‑bed and the ocean floor and the subsoil thereof; 
+(b)   any floating craft, with the exception of an installation or device engaged in the exploration and exploitation of the resources of the sea-bed and the ocean floor and the subsoil thereof; 
 
 3.    “oil” means crude oil, fuel oil, diesel oil and lubricating oil; 
 
@@ -992,9 +992,9 @@ For the purposes of the present Convention:
 
 (b)   tourist attractions of the area concerned; 
 
-(c)   the health of the coastal population and the well‑being of the area concerned, including conservation of living marine resources and of wildlife; 
+(c)   the health of the coastal population and the well-being of the area concerned, including conservation of living marine resources and of wildlife; 
 
-5.    “Organization” means the Inter‑Governmental Maritime Consultative Organization.
+5.    “Organization” means the Inter-Governmental Maritime Consultative Organization.
 
 ARTICLE III 
 
@@ -1010,7 +1010,7 @@ When a coastal State is exercising the right to take measures in accordance with
 
 (e)   a coastal State shall, before taking such measures and during their course, use its best endeavours to avoid any risk to human life, and to afford persons in distress any assistance of which they may stand in need, and in appropriate cases to facilitate the repatriation of ships’ crews, and to raise no obstacle thereto; 
 
-(f)    measures which have been taken in application of Article I shall be notified without delay to the States and to the known physical or corporate persons concerned, as well as to the Secretary‑General of the Organization. 
+(f)    measures which have been taken in application of Article I shall be notified without delay to the States and to the known physical or corporate persons concerned, as well as to the Secretary-General of the Organization. 
 
 ARTICLE IV 
 
@@ -1060,13 +1060,13 @@ ARTICLE IX
 
 ARTICLE X 
 
-1.    Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary‑General of the Organization. 
+1.    Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary-General of the Organization. 
 
 2.    Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to the present Convention with respect to all existing Parties or after the completion of all measures required for the entry into force of the amendment with respect to those Parties shall be deemed to apply to the Convention as modified by the amendment. 
 
 ARTICLE XI 
 
-1.    The present Convention shall enter into force on the ninetieth day following the date on which Governments of fifteen States have either signed it without reservation as to ratification, acceptance or approval or have deposited instruments of ratification, acceptance, approval or accession with the Secretary‑General of the Organization. 
+1.    The present Convention shall enter into force on the ninetieth day following the date on which Governments of fifteen States have either signed it without reservation as to ratification, acceptance or approval or have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization. 
 
 2.    For each State which subsequently ratifies, accepts, approves or accedes to it the present Convention shall come into force on the ninetieth day after deposit by such State of the appropriate instrument. 
 
@@ -1074,45 +1074,45 @@ ARTICLE XII
 
 1.    The present Convention may be denounced by any Party at any time after the date on which the Convention comes into force for that State. 
 
-2.    Denunciation shall be effected by the deposit of an instrument with the Secretary‑General of the Organization. 
+2.    Denunciation shall be effected by the deposit of an instrument with the Secretary-General of the Organization. 
 
-3.    A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary‑General of the Organization. 
+3.    A denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary-General of the Organization. 
 
 ARTICLE XIII 
 
-1.    The United Nations where it is the administering authority for a territory, or any State Party to the present Convention responsible for the international relations of a territory, shall as soon as possible consult with the appropriate authorities of such territories or take such other measures as may be appropriate, in order to extend the present Convention to that territory and may at any time by notification in writing to the Secretary‑General of the Organization declare that the present Convention shall extend to such territory. 
+1.    The United Nations where it is the administering authority for a territory, or any State Party to the present Convention responsible for the international relations of a territory, shall as soon as possible consult with the appropriate authorities of such territories or take such other measures as may be appropriate, in order to extend the present Convention to that territory and may at any time by notification in writing to the Secretary-General of the Organization declare that the present Convention shall extend to such territory. 
 
 2.    The present Convention shall, from the date of receipt of the notification or from such other date as may be specified in the notification, extend to the territory named therein. 
 
-3.    The United Nations, or any Party which has made a declaration under paragraph 1 of this Article may at any time after the date on which the Convention has been so extended to any territory declare by notification in writing to the Secretary‑General of the Organization that the present Convention shall cease to extend to any such territory named in the notification.
+3.    The United Nations, or any Party which has made a declaration under paragraph 1 of this Article may at any time after the date on which the Convention has been so extended to any territory declare by notification in writing to the Secretary-General of the Organization that the present Convention shall cease to extend to any such territory named in the notification.
 
-4.    The present Convention shall cease to extend to any territory mentioned in such notification one year, or such longer period as may be specified therein, after the date of receipt of the notification by the Secretary‑General of the Organization. 
+4.    The present Convention shall cease to extend to any territory mentioned in such notification one year, or such longer period as may be specified therein, after the date of receipt of the notification by the Secretary-General of the Organization. 
 
 ARTICLE XIV 
 
 1.    A Conference for the purpose of revising or amending the present Convention may be convened by the Organization. 
 
-2.    The Organization shall convene a Conference of the States Parties to the present Convention for revising or amending the present Convention at the request of not less than one‑third of the Parties. 
+2.    The Organization shall convene a Conference of the States Parties to the present Convention for revising or amending the present Convention at the request of not less than one-third of the Parties. 
 
 ARTICLE XV 
 
-1.    The present Convention shall be deposited with the Secretary‑General of the Organization. 
+1.    The present Convention shall be deposited with the Secretary-General of the Organization. 
 
-2.    The Secretary‑General of the Organization shall: 
+2.    The Secretary-General of the Organization shall: 
 
 (a)   inform all States which have signed or acceded to the Convention of: 
 
                       (i)  each new signature or deposit of instrument together with the date thereof; 
 
-                     (ii)  the deposit of any instrument of denunciation of this Convention together with the date of the deposit; 
+                      (ii)  the deposit of any instrument of denunciation of this Convention together with the date of the deposit; 
 
-                    (iii)  the extension of the present Convention to any territory under paragraph 1 of Article XIII and of the termination of any such extension under the provisions of paragraph 4 of that Article stating in each case the date on which the present Convention has been or will cease to be so extended; 
+                     (iii)  the extension of the present Convention to any territory under paragraph 1 of Article XIII and of the termination of any such extension under the provisions of paragraph 4 of that Article stating in each case the date on which the present Convention has been or will cease to be so extended; 
 
 (b)   transmit certified true copies of the present Convention to all Signatory States and to all States which accede to the present Convention. 
 
 ARTICLE XVI 
 
-As soon as the present Convention comes into force, the text shall be transmitted by the Secretary‑General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations. 
+As soon as the present Convention comes into force, the text shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations. 
 
 ARTICLE XVII 
 
@@ -1120,7 +1120,7 @@ The present Convention is established in a single copy in the English and French
 
 IN WITNESS WHEREOF the undersigned being duly authorized by their respective Governments for that purpose have signed the present Convention. 
 
-DONE at Brussels this twenty‑ninth day of November 1969\. 
+DONE at Brussels this twenty-ninth day of November 1969\. 
 
 ANNEX 
 
@@ -1146,7 +1146,7 @@ ARTICLE 3
 
 2.    The Conciliators shall be selected from a list previously drawn up in accordance with the procedure set out in Article 4 below. 
 
-3.    If within a period of 60 days from the date of receipt of the request for conciliation, the Party to which such request is made has not given notice to the other Party to the controversy of the nomination of the Conciliator for whose selection it is responsible, or if, within a period of 30 days from the date of nomination of the second of the members of the Commission to be designated by the Parties, the first two Conciliators have not been able to designate by common agreement the Chairmen of the Commission, the Secretary‑General of the Organization shall upon request of either Party and within a period of 30 days, proceed to the required nomination. The members of the Commission thus nominated shall be selected from the list prescribed in the preceding paragraph. 
+3.    If within a period of 60 days from the date of receipt of the request for conciliation, the Party to which such request is made has not given notice to the other Party to the controversy of the nomination of the Conciliator for whose selection it is responsible, or if, within a period of 30 days from the date of nomination of the second of the members of the Commission to be designated by the Parties, the first two Conciliators have not been able to designate by common agreement the Chairmen of the Commission, the Secretary-General of the Organization shall upon request of either Party and within a period of 30 days, proceed to the required nomination. The members of the Commission thus nominated shall be selected from the list prescribed in the preceding paragraph. 
 
 4.    In no case shall the Chairman of the Commission be or have been a national of one of the original Parties to the procedure, whatever the method of his nomination. 
 
@@ -1210,15 +1210,15 @@ ARTICLE 13
 
 ARTICLE 14 
 
-The Arbitration Tribunal shall consist of three members: one Arbitrator nominated by the coastal State which took the measures, one Arbitrator nominated by the State the nationals or property of which have been affected by those measures, and another Arbitrator who shall be nominated by agreement between the two first‑named, and shall act as its Chairman. 
+The Arbitration Tribunal shall consist of three members: one Arbitrator nominated by the coastal State which took the measures, one Arbitrator nominated by the State the nationals or property of which have been affected by those measures, and another Arbitrator who shall be nominated by agreement between the two first-named, and shall act as its Chairman. 
 
 ARTICLE 15 
 
-1.    If, at the end of a period of 60 days from the nomination of the second Arbitrator, the Chairman of the Tribunal shall not have been nominated, the Secretary‑General of the Organization upon request of either Party shall within a further period of 60 days proceed to such nomination, selecting from a list of qualified persons previously drawn up in accordance with the provisions of Article 4 above. This list shall be separate from the list of experts prescribed in Article IV of the Convention and from the list of Conciliators prescribed in Article 4 of the present Annex; the name of the same person may, however, appear both on the list of Conciliators and on the list of Arbitrators. A person who has acted as Conciliator in a dispute may not, however, be chosen to act as Arbitrator in the same matter.
+1.    If, at the end of a period of 60 days from the nomination of the second Arbitrator, the Chairman of the Tribunal shall not have been nominated, the Secretary-General of the Organization upon request of either Party shall within a further period of 60 days proceed to such nomination, selecting from a list of qualified persons previously drawn up in accordance with the provisions of Article 4 above. This list shall be separate from the list of experts prescribed in Article IV of the Convention and from the list of Conciliators prescribed in Article 4 of the present Annex; the name of the same person may, however, appear both on the list of Conciliators and on the list of Arbitrators. A person who has acted as Conciliator in a dispute may not, however, be chosen to act as Arbitrator in the same matter.
 
-2.    If, within a period of 60 days from the date of the receipt of the request, one of the Parties shall not have nominated the member of the Tribunal for whose designation it is responsible, the other Party may directly inform the Secretary‑General of the Organization who shall nominate the Chairman of the Tribunal within a period of 60 days, selecting him from the list prescribed in paragraph 1 of the present Article. 
+2.    If, within a period of 60 days from the date of the receipt of the request, one of the Parties shall not have nominated the member of the Tribunal for whose designation it is responsible, the other Party may directly inform the Secretary-General of the Organization who shall nominate the Chairman of the Tribunal within a period of 60 days, selecting him from the list prescribed in paragraph 1 of the present Article. 
 
-3.    The Chairman of the Tribunal shall, upon nomination, request the Party which has not provided an Arbitrator, to do so in the same manner and under the same conditions. If the Party does not make the required nomination, the Chairman of the Tribunal shall request the Secretary‑General of the Organization to make the nomination in the form and conditions prescribed in the preceding paragraph. 
+3.    The Chairman of the Tribunal shall, upon nomination, request the Party which has not provided an Arbitrator, to do so in the same manner and under the same conditions. If the Party does not make the required nomination, the Chairman of the Tribunal shall request the Secretary-General of the Organization to make the nomination in the form and conditions prescribed in the preceding paragraph. 
 
 4.    The Chairman of the Tribunal, if nominated under the provisions of the present Article, shall not be or have been a national of one of the Parties concerned, except with the consent of the other Party or Parties. 
 
@@ -1258,9 +1258,9 @@ THE PARTIES TO THE PRESENT PROTOCOL,
 
 BEING PARTIES to the International Convention relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, done at Brussels on 29 November 1969, 
 
-TAKING INTO ACCOUNT the Resolution on International Co‑operation Concerning Pollutants other than Oil adopted by the International Legal Conference on Marine Pollution Damage, 1969, 
+TAKING INTO ACCOUNT the Resolution on International Co-operation Concerning Pollutants other than Oil adopted by the International Legal Conference on Marine Pollution Damage, 1969, 
 
-FURTHER TAKING INTO ACCOUNT that pursuant to the Resolution, the Inter‑Governmental Maritime Consultative Organization has intensified its work, in collaboration with all interested international organizations, on all aspects of pollution by substances other than oil, 
+FURTHER TAKING INTO ACCOUNT that pursuant to the Resolution, the Inter-Governmental Maritime Consultative Organization has intensified its work, in collaboration with all interested international organizations, on all aspects of pollution by substances other than oil, 
 
 HAVE AGREED as follows: 
 
@@ -1290,13 +1290,13 @@ ARTICLE III
 
 3.    Parties to the present Protocol whether or not Members of the Organization shall be entitled to participate in the proceedings of the appropriate body. 
 
-4.    Amendments shall be adopted by a two‑thirds majority of only the Parties to the present Protocol present and voting. 
+4.    Amendments shall be adopted by a two-thirds majority of only the Parties to the present Protocol present and voting. 
 
 5.    If adopted in accordance with paragraph 4 above, the amendment shall be communicated by the Organization to all Parties to the present Protocol for acceptance.
 
-6.    The amendment shall be deemed to have been accepted at the end of a period of six months after it has been communicated, unless within that period an objection to the amendment has been communicated to the Organization by not less than one‑third of the Parties to the present Protocol. 
+6.    The amendment shall be deemed to have been accepted at the end of a period of six months after it has been communicated, unless within that period an objection to the amendment has been communicated to the Organization by not less than one-third of the Parties to the present Protocol. 
 
-7.    An amendment deemed to have been accepted in accordance with paragraph 6 above shall enter into force three months after its acceptance for all Parties to the present Protocol, with the exception of those which before that date have made a declaration of non‑acceptance of the said amendment. 
+7.    An amendment deemed to have been accepted in accordance with paragraph 6 above shall enter into force three months after its acceptance for all Parties to the present Protocol, with the exception of those which before that date have made a declaration of non-acceptance of the said amendment. 
 
 ARTICLE IV 
 
@@ -1310,13 +1310,13 @@ ARTICLE IV
 
 ARTICLE V 
 
-1.    Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary‑General of the Organization. 
+1.    Ratification, acceptance, approval or accession shall be effected by the deposit of a formal instrument to that effect with the Secretary-General of the Organization. 
 
 2.    Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to the present Protocol with respect to all existing Parties or after the completion of all measures required for the entry into force of the amendment with respect to all existing Parties shall be deemed to apply to the Protocol as modified by the amendment. 
 
 ARTICLE VI 
 
-1.    The present Protocol shall enter into force on the ninetieth day following the date on which fifteen States have deposited instruments of ratification, acceptance, approval or accession with the Secretary‑General of the Organization, provided however that the present Protocol shall not enter into force before the Convention referred to in Article II has entered into force. 
+1.    The present Protocol shall enter into force on the ninetieth day following the date on which fifteen States have deposited instruments of ratification, acceptance, approval or accession with the Secretary-General of the Organization, provided however that the present Protocol shall not enter into force before the Convention referred to in Article II has entered into force. 
 
 2.    For each State which subsequently ratifies, accepts, approves or accedes to it, the present Protocol shall enter into force on the ninetieth day after the deposit by such State of the appropriate instrument. 
 
@@ -1324,9 +1324,9 @@ ARTICLE VII
 
 1.    The present Protocol may be denounced by any Party at any time after the date on which the Protocol enters into force for that Party. 
 
-2.    Denunciation shall be effected by the deposit of an instrument to that effect with the Secretary‑General of the Organization. 
+2.    Denunciation shall be effected by the deposit of an instrument to that effect with the Secretary-General of the Organization. 
 
-3.    Denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary‑General of the Organization. 
+3.    Denunciation shall take effect one year, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary-General of the Organization. 
 
 4.    Denunciation of the Convention referred to in Article II by a Party shall be deemed to be a denunciation of the present Protocol by that Party. Such denunciation shall take effect on the same day as the denunciation of the Convention takes effect in accordance with paragraph 3 of Article XII of that Convention. 
 
@@ -1334,29 +1334,29 @@ ARTICLE VIII
 
 1.    A conference for the purpose of revising or amending the present Protocol may be convened by the Organization. 
 
-2.    The Organization shall convene a conference of Parties to the present Protocol for the purpose of revising or amending it at the request of not less than one‑third of the Parties.
+2.    The Organization shall convene a conference of Parties to the present Protocol for the purpose of revising or amending it at the request of not less than one-third of the Parties.
 
 ARTICLE IX 
 
-1.    The present Protocol shall be deposited with the Secretary‑General of the Organization. 
+1.    The present Protocol shall be deposited with the Secretary-General of the Organization. 
 
-2.    The Secretary‑General of the Organization shall: 
+2.    The Secretary-General of the Organization shall: 
 
 (a)   inform all States which have signed the present Protocol or acceded thereto of: 
 
                       (i)  each new signature or deposit of an instrument together with the date thereof; 
 
-                     (ii)  the date of entry into force of the present Protocol; 
+                      (ii)  the date of entry into force of the present Protocol; 
 
-                    (iii)  the deposit of any instrument of denunciation of the present Protocol together with the date on which the denunciation takes effect; 
+                     (iii)  the deposit of any instrument of denunciation of the present Protocol together with the date on which the denunciation takes effect; 
 
-                    (iv)  any amendments to the present Protocol or its Annex and any objection or declaration of non‑acceptance of the said amendment; 
+                     (iv)  any amendments to the present Protocol or its Annex and any objection or declaration of non-acceptance of the said amendment; 
 
 (b)   transmit certified true copies of the present Protocol to all States which have signed the present Protocol or acceded thereto. 
 
 ARTICLE X 
 
-As soon as the present Protocol enters into force, a certified true copy thereof shall be transmitted by the Secretary‑General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations. 
+As soon as the present Protocol enters into force, a certified true copy thereof shall be transmitted by the Secretary-General of the Organization to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations. 
 
 ARTICLE XI 
 
@@ -1364,7 +1364,7 @@ The present Protocol is established in a single original in the English, French,
 
 IN WITNESS WHEREOF the undersigned being duly authorized for that purpose have signed the present Protocol. 
 
-DONE AT LONDON this second day of November one thousand nine hundred and seventy‑three. 
+DONE AT LONDON this second day of November one thousand nine hundred and seventy-three. 
 
 ANNEX 
 
@@ -1430,13 +1430,13 @@ Straight Run
 
 <u>Jet Fuels</u>
 
-JP‑1 (Kerosene) 
+JP-1 (Kerosene) 
 
-JP‑3 
+JP-3 
 
-JP‑4 
+JP-4 
 
-JP‑5 (Kerosene, heavy) 
+JP-5 (Kerosene, heavy) 
 
 Turbo Fuel 
 
@@ -1504,7 +1504,7 @@ Bromine
 
 Bromobenzyl cyanide 
 
-n‑Butyl acrylate 
+n-Butyl acrylate 
 
 Butyric acid 
 
@@ -1562,7 +1562,7 @@ Dimethyl amine (40% aqueous)
 
 Dinitroanilines 
 
-4, 6‑Dinitroorthocresol 
+4, 6-Dinitroorthocresol 
 
 Dinitrophenols 
 
@@ -1574,7 +1574,7 @@ Epichlorohydrin
 
 Ethyl bromoacetate 
 
-Ethylene chlorohydrin (2‑Chloro‑ethanol) 
+Ethylene chlorohydrin (2-Chloro-ethanol) 
 
 Ethylene dichloride 
 
@@ -1642,7 +1642,7 @@ Toxaphene
 
 Tritolyl phosphate (Tricresyl phosphate) 
 
-2, 4, 5‑T
+2, 4, 5-T
 
 3.       <u>Liquefied Gases </u>(when carried in bulk)
 
@@ -1694,7 +1694,7 @@ Sulphur Dioxide
 
 Radioactive substances, including, but not limited to, elements and compounds the isotopes of which are subject to the requirements of Section 835 of the Regulations for the Safe Transport of Radioactive Materials, 1973 Revised Edition, published by the International Atomic Energy Agency, and which may be found to be stored or transported as substances and/or materials in Type A packages, Type B packages, as fissile materials or materials transported under special arrangements, such as
 
-60<sub>Co,</sub>         137<sub>Cs,</sub>              226<sub>Ra,</sub>              239<sub>Pu,</sub>              235<sub>U.</sub>
+60<sub>Co,</sub>         137<sub>Cs,</sub>               226<sub>Ra,</sub>               239<sub>Pu,</sub>               235<sub>U.</sub>
 
 # Schedule 3—Resolution MEPC.49(31)
 
@@ -1708,7 +1708,7 @@ THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
 
 NOTING Resolution 26 of the International Conference on Marine Pollution, 1973 which requested the appropriate body designated by the Organization to establish, not later than 30 November 1974, the list of substances to be annexed to the Protocol relating to Intervention on the High Seas in Cases of Marine Pollution by Substances Other than Oil, 1973, (the 1973 Protocol), 
 
-NOTING FURTHER Resolution A.296 (VIII) by which the Assembly designated the Committee as the appropriate body referred to in articles I and III of the above‑mentioned Protocol, 
+NOTING FURTHER Resolution A.296 (VIII) by which the Assembly designated the Committee as the appropriate body referred to in articles I and III of the above-mentioned Protocol, 
 
 RECALLING Resolution MEPC.1 (II) by which the Committee established on 21 November 1974 a list of substances to be annexed to the Protocol relating to Intervention on the High Seas in Cases of Marine Pollution by Substances Other than Oil, in accordance with Resolution 26 of the International Conference on Marine Pollution, 1973, and Resolution A.296 (VIII), 
 
@@ -1716,15 +1716,15 @@ HAVING CONSIDERED proposals by governments for revising the list,
 
 HAVING taken account of scientific advice provided by the Joint Group of Experts on the Scientific Aspects of Marine Pollution (GESAMP) with regard to evaluation of the hazards of harmful substances in the marine environment and by the International Atomic Energy Agency in respect of radioactive materials, 
 
-HAVING taken account of technical advice provided by the Sub‑Committee on Bulk Chemicals and by the Sub‑Committee on the Carriage of Dangerous Goods, 
+HAVING taken account of technical advice provided by the Sub-Committee on Bulk Chemicals and by the Sub-Committee on the Carriage of Dangerous Goods, 
 
-1.    ADOPTS by the required two‑thirds majority of the Parties to the 1973 Protocol present and voting in the Committee the amended list which appears in the Annex to this Resolution; 
+1.    ADOPTS by the required two-thirds majority of the Parties to the 1973 Protocol present and voting in the Committee the amended list which appears in the Annex to this Resolution; 
 
-2.    REQUESTS the Secretary‑General to communicate the amended list to all Parties to the 1973 Protocol in accordance with article III, paragraph 5, for acceptance, and to inform them that the amended list shall be deemed to have been accepted at the end of the period of six months after it has been communicated, unless within that period an objection to these amendments has been communicated to the Organization by not less than one third of the Parties, and that the amended list shall enter into force three months after it has been deemed to have been accepted; 
+2.    REQUESTS the Secretary-General to communicate the amended list to all Parties to the 1973 Protocol in accordance with article III, paragraph 5, for acceptance, and to inform them that the amended list shall be deemed to have been accepted at the end of the period of six months after it has been communicated, unless within that period an objection to these amendments has been communicated to the Organization by not less than one third of the Parties, and that the amended list shall enter into force three months after it has been deemed to have been accepted; 
 
-3.    REQUESTS FURTHER the Secretary‑General to annex copies thereof to the authentic text of the Protocol in accordance with article I, paragraph 2 (a), once the amended list has been accepted in accordance with article III, paragraph 6, to replace the existing list; 
+3.    REQUESTS FURTHER the Secretary-General to annex copies thereof to the authentic text of the Protocol in accordance with article I, paragraph 2 (a), once the amended list has been accepted in accordance with article III, paragraph 6, to replace the existing list; 
 
-4.    DECIDES that the list should be kept under review, in consultation and co‑operation with competent international organizations, in particular the International Atomic Energy Agency in respect of radioactive materials.
+4.    DECIDES that the list should be kept under review, in consultation and co-operation with competent international organizations, in particular the International Atomic Energy Agency in respect of radioactive materials.
 
 ANNEX
 
@@ -1827,7 +1827,7 @@ Appendix 1
     <div>Motor oil</div>
   </td>
   <td>
-    <div>Fuel oil No. 1‑D</div>
+    <div>Fuel oil No. 1-D</div>
   </td>
 </tr>
 <tr>
@@ -1843,7 +1843,7 @@ Appendix 1
     <div>Spindle oil</div>
   </td>
   <td>
-    <div>Fuel oil No. 2‑D</div>
+    <div>Fuel oil No. 2-D</div>
   </td>
 </tr>
 <tr>
@@ -1859,7 +1859,7 @@ Appendix 1
     <div><u>Distillates</u></div>
   </td>
   <td>
-    <div>JP‑1 (Kerosene)</div>
+    <div>JP-1 (Kerosene)</div>
   </td>
 </tr>
 <tr>
@@ -1867,7 +1867,7 @@ Appendix 1
     <div>Straight run</div>
   </td>
   <td>
-    <div>JP‑3</div>
+    <div>JP-3</div>
   </td>
 </tr>
 <tr>
@@ -1875,7 +1875,7 @@ Appendix 1
     <div>Flashed feed stocks</div>
   </td>
   <td>
-    <div>JP‑5 (Kerosene, heavy)</div>
+    <div>JP-5 (Kerosene, heavy)</div>
   </td>
 </tr>
 <tr>
@@ -1937,13 +1937,13 @@ Acetic anhydride
 
 Acrylonitrile 
 
-Alcohol (C12‑C15) poly (1‑3) ethoxylates 
+Alcohol (C12-C15) poly (1-3) ethoxylates 
 
-Alcohol (C12‑C15) poly (3‑11) ethoxylates 
+Alcohol (C12-C15) poly (3-11) ethoxylates 
 
-Alcohol (C6‑C17) (secondary) poly (3‑6) ethoxylates 
+Alcohol (C6-C17) (secondary) poly (3-6) ethoxylates 
 
-Alcohol (C6‑C17) (secondary) poly (7‑12) ethoxylates 
+Alcohol (C6-C17) (secondary) poly (7-12) ethoxylates 
 
 Allyl alcohol 
 
@@ -1959,13 +1959,13 @@ Benzyl chloride
 
 Butene oligomer 
 
-n‑Butyl acrylate 
+n-Butyl acrylate 
 
 Butylbenzenes (all isomers) 
 
 Butyl benzyl phthalate 
 
-n‑Butyraldehyde 
+n-Butyraldehyde 
 
 Calcium hypochlorite solution (more than 15%) 
 
@@ -1979,19 +1979,19 @@ Carbon disulphide
 
 Carbon tetrachloride 
 
-Chlorinated paraffins (C10‑C13) 
+Chlorinated paraffins (C10-C13) 
 
 Chlorobenzene 
 
 Chloroform 
 
-o‑Chloronitrobenzene 
+o-Chloronitrobenzene 
 
-m‑Chlorotoluene 
+m-Chlorotoluene 
 
-o‑Chlorotoluene 
+o-Chlorotoluene 
 
-p‑Chlorotoluene 
+p-Chlorotoluene 
 
 Chlorotoluenes (mixed isomers) 
 
@@ -2013,7 +2013,7 @@ Crotonaldehyde
 
 Cyclohexyl acetate 
 
-1,3‑Cyclopentadiene dimer (molten) 
+1,3-Cyclopentadiene dimer (molten) 
 
 Cyclopentene 
 
@@ -2027,27 +2027,27 @@ Dibutyl phthalate
 
 Dichlorobenzenes (all isomers) 
 
-1,1‑Dichloroethane 
+1,1-Dichloroethane 
 
 Dichloroethyl ether 
 
-1,6‑Dichlorohexene 
+1,6-Dichlorohexene 
 
-2,4‑Dichlorophenol 
+2,4-Dichlorophenol 
 
-2,4‑Dichlorophenoxyacetic acid, diethanolamine salt solution 
+2,4-Dichlorophenoxyacetic acid, diethanolamine salt solution 
 
-2,4‑Dichlorophenoxyacetic acid, dimethylamine salt solution (70% or less) 
+2,4-Dichlorophenoxyacetic acid, dimethylamine salt solution (70% or less) 
 
-2,4‑Dichlorophenoxyacetic acid, triisopropanolamine salt solution 
+2,4-Dichlorophenoxyacetic acid, triisopropanolamine salt solution 
 
-1,1‑Dichloropropane 
+1,1-Dichloropropane 
 
-1,2‑Dichloropropane 
+1,2-Dichloropropane 
 
-1,3‑Dichloropropane 
+1,3-Dichloropropane 
 
-1,3‑Dichloropropene 
+1,3-Dichloropropene 
 
 Dichloropropene/Dichloropropane mixtures 
 
@@ -2057,7 +2057,7 @@ Diglycidyl ether of bisphenol A
 
 Diglycidyl ether of bisphenol F 
 
-Di‑n‑hexyl adipate 
+Di-n-hexyl adipate 
 
 Diisobutylene 
 
@@ -2085,7 +2085,7 @@ Diphenyl ether/Diphenyl phenyl ether mixture
 
 Diphenylmethane diisocyanate 
 
-Diphenylol propane‑epichlorohydrin resins 
+Diphenylol propane-epichlorohydrin resins 
 
 Dodecene (all isomers) 
 
@@ -2107,15 +2107,15 @@ Ethylene dibromide
 
 Ethylene dichloride 
 
-2‑Ethylhexyl acrylate 
+2-Ethylhexyl acrylate 
 
-2‑Ethylhexylamine 
+2-Ethylhexylamine 
 
 Ethylidene norbornene 
 
-o‑Ethylphenol 
+o-Ethylphenol 
 
-2‑Ethyl‑3‑propylacrolein 
+2-Ethyl-3-propylacrolein 
 
 Ethyltoluene 
 
@@ -2129,7 +2129,7 @@ Heptyl acetate
 
 Hexyl acetate 
 
-2‑Hydroxyethyl acrylate 
+2-Hydroxyethyl acrylate 
 
 Isobutyl acrylate 
 
@@ -2145,7 +2145,7 @@ Mercaptobenzothiazol, sodium salt solution
 
 Metam sodium solution 
 
-Methacrylic resin in 1,2‑Dichloroethane solution 
+Methacrylic resin in 1,2-Dichloroethane solution 
 
 Methacrylonitrile 
 
@@ -2153,23 +2153,23 @@ Methyl acrylate
 
 Methylcyclopentadiene dimer 
 
-2‑Methyl‑5‑ethyl pyridine 
+2-Methyl-5-ethyl pyridine 
 
 Methyl heptyl ketone 
 
 Methylnaphthalene 
 
-2‑Methylpyridine 
+2-Methylpyridine 
 
-4‑Methylpyridine 
+4-Methylpyridine 
 
-N‑Methyl‑2‑pyrrolidone 
+N-Methyl-2-pyrrolidone 
 
 Methyl salicylate 
 
-alpha‑Methylstyrene 
+alpha-Methylstyrene 
 
-Motor fuel anti‑knock compounds 
+Motor fuel anti-knock compounds 
 
 Naphthalene (molten) 
 
@@ -2177,13 +2177,13 @@ Naphthenic acids
 
 Nitrobenzene 
 
-o‑Nitrophenol (molten) 
+o-Nitrophenol (molten) 
 
 Nonene 
 
 Nonylphenol 
 
-Nonylphenol poly (4‑12) ethoxylates 
+Nonylphenol poly (4-12) ethoxylates 
 
 Octane (all isomers) 
 
@@ -2193,11 +2193,11 @@ Octyl aldehydes
 
 Octyl nitrates (all isomers)
 
-Olefin mixtures (C5‑C15) 
+Olefin mixtures (C5-C15) 
 
 Oleum 
 
-alpha‑Olefins (C6‑C18) mixtures 
+alpha-Olefins (C6-C18) mixtures 
 
 Pentachloroethane 
 
@@ -2209,7 +2209,7 @@ Phosphorus, yellow or white
 
 Pinene 
 
-n‑Propyl chloride 
+n-Propyl chloride 
 
 Propylene tetramer 
 
@@ -2243,31 +2243,31 @@ Toluene diisocyanate
 
 Tributyl phosphate 
 
-1,2,4‑Trichlorobenzene 
+1,2,4-Trichlorobenzene 
 
-1,1,1‑Trichloroethane 
+1,1,1-Trichloroethane 
 
-1,1,2‑Trichloroethane 
+1,1,2-Trichloroethane 
 
 Trichloroethylene 
 
-1,2,3‑Trichloropropane 
+1,2,3-Trichloropropane 
 
-Tricresyl phosphate (containing less than 1% ortho‑isomer) 
+Tricresyl phosphate (containing less than 1% ortho-isomer) 
 
-Tricresyl phosphate (containing 1% or more ortho‑isomer) 
+Tricresyl phosphate (containing 1% or more ortho-isomer) 
 
 Triethylbenzene 
 
 Trimethyl benzenes (all isomers) 
 
-Trimethylhexamethylene diisocyanate (2,2,4‑and 2,4,4‑isomers) 
+Trimethylhexamethylene diisocyanate (2,2,4-and 2,4,4-isomers) 
 
 Trixylyl phosphate 
 
 Turpentine 
 
-1‑Undecene 
+1-Undecene 
 
 Undecyl alcohol 
 
@@ -2277,7 +2277,7 @@ Vinyl neodecanoate
 
 Vinyltoluene 
 
-White spirit, low (15‑20%) aromatic 
+White spirit, low (15-20%) aromatic 
 
 Xylenol
 
@@ -2291,7 +2291,7 @@ Binapacryl
 
 Cadmium compounds, except Cadmium selenide and Cadmium sulphide 
 
-Chlorined paraffins (C10‑C13) 
+Chlorined paraffins (C10-C13) 
 
 Chlorophenates 
 
@@ -2383,15 +2383,15 @@ Endrin
 
 Heptachlor 
 
-Lindane (gamma‑BCH) 
+Lindane (gamma-BCH) 
 
 Organophosphorus pesticides as follows: 
 
-Azinphos‑methyl 
+Azinphos-methyl 
 
-Azinphos‑ethyl 
+Azinphos-ethyl 
 
-Bromophos‑ethyl 
+Bromophos-ethyl 
 
 Carbophenothion 
 
@@ -2423,7 +2423,7 @@ Mevinphos
 
 Parathion 
 
-Parathion‑methyl 
+Parathion-methyl 
 
 Pirimiphos ethyl 
 
@@ -2471,7 +2471,7 @@ Sodium pentachlorophenate
 
 Triaryl phosphates 
 
-Tricresyl phosphates, more than 1% ortho‑isomer 
+Tricresyl phosphates, more than 1% ortho-isomer 
 
 Zinc cyanide 
 
@@ -2521,21 +2521,21 @@ THE MARINE ENVIRONMENT PROTECTION COMMITTEE,
 
             NOTING Resolution 26 of the International Conference on Marine Pollution, 1973 which requested the appropriate body designated by the Organization to establish, not later than 30 November 1974, the list of substances to be annexed to the Protocol relating to Intervention on the High Seas in Cases of Pollution by Substances Other than Oil, 1973 (the 1973 Intervention Protocol),
 
-            NOTING FURTHER Resolution A.296(VIII) by which the Assembly designated the Committee as the appropriate body referred to in Articles I and III of the above‑mentioned Protocol,
+            NOTING FURTHER Resolution A.296(VIII) by which the Assembly designated the Committee as the appropriate body referred to in Articles I and III of the above-mentioned Protocol,
 
             RECALLING Resolution MEPC.49(31) by which the Committee adopted on 4 July 1991 an amended list to replace the original list annexed to the Protocol,
 
-            RECALLING FURTHER that it had approved, at its thirty‑fifth session, the Criteria for the Selection of Substances for Inclusion in the Annex to the 1973 Intervention Protocol,
+            RECALLING FURTHER that it had approved, at its thirty-fifth session, the Criteria for the Selection of Substances for Inclusion in the Annex to the 1973 Intervention Protocol,
 
             NOTING ALSO that the 1992 amendments to the IBC Code and Amendment 27 of the IMDG Code had entered into force,
 
-            HAVING CONSIDERED the proposed amendments to Appendix 2, noxious liquid substances carried in bulk, and Appendix 3, harmful substances carried in packaged form, prepared by the Secretariat in accordance with the above‑mentioned criteria and taking into account the recent amendments to the IBC and IMDG Codes,
+            HAVING CONSIDERED the proposed amendments to Appendix 2, noxious liquid substances carried in bulk, and Appendix 3, harmful substances carried in packaged form, prepared by the Secretariat in accordance with the above-mentioned criteria and taking into account the recent amendments to the IBC and IMDG Codes,
 
-1.         ADOPTS, by the required two‑thirds majority of the Parties to the 1973 Intervention Protocol present and voting in the Committee, the amended list which appears in the Annex to this Resolution;
+1.         ADOPTS, by the required two-thirds majority of the Parties to the 1973 Intervention Protocol present and voting in the Committee, the amended list which appears in the Annex to this Resolution;
 
-2.         REQUESTS the Secretary‑General to communicate the amended list to all Parties to the 1973 Intervention Protocol in accordance with Article III, paragraph 5, for acceptance, and to inform them that the amended list shall be deemed to have been accepted at the end of the period of six months after it has been communicated, unless within that period an objection to these amendments has been communicated to the Organization by not less than one third of the Parties, and that the amended list shall enter into force three months after it has been deemed to have been accepted; and
+2.         REQUESTS the Secretary-General to communicate the amended list to all Parties to the 1973 Intervention Protocol in accordance with Article III, paragraph 5, for acceptance, and to inform them that the amended list shall be deemed to have been accepted at the end of the period of six months after it has been communicated, unless within that period an objection to these amendments has been communicated to the Organization by not less than one third of the Parties, and that the amended list shall enter into force three months after it has been deemed to have been accepted; and
 
-3.         REQUESTS FURTHER the Secretary‑General to annex copies thereof to the authentic text of the Protocol in accordance with Article I, paragraph 2(a), once the amended list has been accepted in accordance with Article III, paragraph 6, to replace the existing list.
+3.         REQUESTS FURTHER the Secretary-General to annex copies thereof to the authentic text of the Protocol in accordance with Article I, paragraph 2(a), once the amended list has been accepted in accordance with Article III, paragraph 6, to replace the existing list.
 
 ANNEX
 
@@ -2593,11 +2593,11 @@ Heartcut distillate oil
 
 **Gasoline blending stocks**
 
-Alkylates ‑ fuel
+Alkylates - fuel
 
 Reformates
 
-Polymer ‑ fuel
+Polymer - fuel
 
 **Gasolines**
 
@@ -2611,19 +2611,19 @@ Straight run
 
 Fuel oil No. 1 (Kerosene)
 
-Fuel oil No. 1‑D
+Fuel oil No. 1-D
 
 Fuel oil No. 2
 
-Fuel oil No. 2‑D
+Fuel oil No. 2-D
 
 **Jet fuels**
 
-JP‑1 (Kerosene)
+JP-1 (Kerosene)
 
-JP‑3
+JP-3
 
-JP‑5 (Kerosene, heavy)
+JP-5 (Kerosene, heavy)
 
 Turbo fuel
 
@@ -2641,25 +2641,25 @@ Acylonitrile
 
 Alachlor technical (90% or more)
 
-Alcohol (C6‑C17) (secondary) poly(3‑6) ethoxylates
+Alcohol (C6-C17) (secondary) poly(3-6) ethoxylates
 
-Alcohol (C12‑C15) poly(1‑6) ethoxylates
+Alcohol (C12-C15) poly(1-6) ethoxylates
 
-Alcohol (C6‑C17) (secondary) poly(7‑12) ethoxylates
+Alcohol (C6-C17) (secondary) poly(7-12) ethoxylates
 
-Alcohol (C12‑C15) poly(7‑19) ethoxylates
+Alcohol (C12-C15) poly(7-19) ethoxylates
 
-Alkaryl polyethers (C9‑C20)
+Alkaryl polyethers (C9-C20)
 
-Alkyl (C3‑C4) benzenes
+Alkyl (C3-C4) benzenes
 
-Alkyl (C5‑C8) benzenes
+Alkyl (C5-C8) benzenes
 
-Alkyl (C7‑C9) nitrates
+Alkyl (C7-C9) nitrates
 
-Alkyl acrylate‑vinyl pyridine copolymer in toluene
+Alkyl acrylate-vinyl pyridine copolymer in toluene
 
-Alkylbenzene, alkylindane, alkylindene mixture (each C12‑C17)
+Alkylbenzene, alkylindane, alkylindene mixture (each C12-C17)
 
 Allyl alcohol
 
@@ -2691,7 +2691,7 @@ Calcium alkyl (C9) phenol sulphide/Polyolefin phosphorosulphide mixture
 
 Calcium hypochlorite solution (more than 15%)
 
-Calcium long‑chain alkyl phenate sulphide (C8‑C40)
+Calcium long-chain alkyl phenate sulphide (C8-C40)
 
 Camphor oil
 
@@ -2701,25 +2701,25 @@ Carbon disulphide
 
 Carbon tetrachloride
 
-Chlorinated paraffins (C10‑C13)
+Chlorinated paraffins (C10-C13)
 
 Chloroacetic acid (80% or less)
 
 Chlorobenzene
 
-o‑Chloronitrobenzene
+o-Chloronitrobenzene
 
 Chloroform
 
 Chlorohydrins (crude)
 
-2‑ or 3‑Chloropropionic acid
+2- or 3-Chloropropionic acid
 
-m‑Chlorotoluene
+m-Chlorotoluene
 
-o‑Chlorotoluene
+o-Chlorotoluene
 
-p‑Chlorotoluene
+p-Chlorotoluene
 
 Chlorotoluenes (mixed isomers)
 
@@ -2743,13 +2743,13 @@ Cresylic acid, sodium salt solution
 
 Crotonaldehyde
 
-1,5,9‑Cyclododecatriene
+1,5,9-Cyclododecatriene
 
 Cyclohexyl acetate
 
 Cyclohexylamine
 
-1,3‑Cyclopentadiene dimer (molten)
+1,3-Cyclopentadiene dimer (molten)
 
 Cyclopentene
 
@@ -2763,11 +2763,11 @@ Decyl alcohol (all isomers)
 
 Decyl acrylate
 
-Decyloxytetrahydro‑thiophene dioxide
+Decyloxytetrahydro-thiophene dioxide
 
-Di‑n‑hexyl adipate
+Di-n-hexyl adipate
 
-Di‑n‑propylamine
+Di-n-propylamine
 
 Dibutyl phthalate
 
@@ -2779,21 +2779,21 @@ Dichlorobenzene (all isomers)
 
 Dichloroethyl ether
 
-1,6‑Dichlorohexane
+1,6-Dichlorohexane
 
-2,4‑Dichlorophenol
+2,4-Dichlorophenol
 
-2,4‑Dichlorophenoxyacetic acid, diethanolamine salt solution
+2,4-Dichlorophenoxyacetic acid, diethanolamine salt solution
 
-2,4‑Dichlorophenoxyacetic acid, dimethylamine salt solution (70% or less)
+2,4-Dichlorophenoxyacetic acid, dimethylamine salt solution (70% or less)
 
-2,4‑Dichlorophenoxyacetic acid, triisopropanolamine salt solution
+2,4-Dichlorophenoxyacetic acid, triisopropanolamine salt solution
 
-1,2‑Dichloropropane
+1,2-Dichloropropane
 
-1,3‑Dichloropropene
+1,3-Dichloropropene
 
-Dichloropropene/Dichloro‑ propane mixtures
+Dichloropropene/Dichloro- propane mixtures
 
 Diethyl sulphate
 
@@ -2829,11 +2829,11 @@ Dimethylamine solution (greater than 45% but not greater than 55%)
 
 Dimethylamine solution (45% or less)
 
-N,N‑Dimethylcyclohexylamine
+N,N-Dimethylcyclohexylamine
 
 Dinitrotoluene (molten)
 
-1,4‑Dioxane
+1,4-Dioxane
 
 Diphenyl
 
@@ -2843,7 +2843,7 @@ Diphenyl ether/Diphenyl phenyl ether mixture
 
 Diphenyl/Diphenyl ether mixtures
 
-Diphenylamine, reaction product with 2,2,4‑Trimethylpentene
+Diphenylamine, reaction product with 2,2,4-Trimethylpentene
 
 Diphenylamines, alkylated
 
@@ -2851,7 +2851,7 @@ Diphenylmethane diisocyanate
 
 Diphenylol propane
 
-Diphenylol propane‑ epichlorohydrin resins
+Diphenylol propane- epichlorohydrin resins
 
 Dodocene (all isomers)
 
@@ -2877,7 +2877,7 @@ Ethylamine
 
 Ethylbenzene
 
-N‑Ethylbutylamine
+N-Ethylbutylamine
 
 Ethylene dichloride
 
@@ -2891,19 +2891,19 @@ Ethylene glycol methyl ether acetate
 
 Ethylenediamine
 
-2‑Ethylhexyl acrylate
+2-Ethylhexyl acrylate
 
-2‑Ethylhexylamine
+2-Ethylhexylamine
 
 Ethylidene norbornene
 
-o‑Ethylphenol
+o-Ethylphenol
 
-2‑Ethyl‑3‑propylacrolein
+2-Ethyl-3-propylacrolein
 
 Ethyltoluene
 
-Fluorosilicic acid (20‑30%) in water solution
+Fluorosilicic acid (20-30%) in water solution
 
 Formaldehyde solutions (45% or less)
 
@@ -2919,9 +2919,9 @@ Hexamethylenediamine solution
 
 Hexyl acetate
 
-2‑Hydroxyethyl acrylate
+2-Hydroxyethyl acrylate
 
-2‑Hydroxy‑4‑(methylthio) butanoic acid
+2-Hydroxy-4-(methylthio) butanoic acid
 
 Isophorone diisocyanate
 
@@ -2933,11 +2933,11 @@ Lauric acid
 
 Liquid chemical wastes
 
-Long chain polyetheramine in alkyl (C2‑C4) benzenes
+Long chain polyetheramine in alkyl (C2-C4) benzenes
 
 Long chain polyetheramine in aromatic solvent
 
-Long chain alkaryl polyether (C11‑C20)
+Long chain alkaryl polyether (C11-C20)
 
 Magnesium long chain alkyl salicylate (C11+)
 
@@ -2951,7 +2951,7 @@ Methyl acrylate
 
 Methyl butyl ketone
 
-2‑Methyl‑6‑ethyl aniline
+2-Methyl-6-ethyl aniline
 
 Methyl heptyl ketone
 
@@ -2961,13 +2961,13 @@ Methylcyclopentadiene dimer
 
 Methyl naphthalene (molten)
 
-3‑Methylpyridine
+3-Methylpyridine
 
 Methyl salicylate
 
-alpha‑Methylstyrene
+alpha-Methylstyrene
 
-Motor fuel anti‑knock compounds (containing lead alkyls)
+Motor fuel anti-knock compounds (containing lead alkyls)
 
 Naphthalene (molten)
 
@@ -2979,15 +2979,15 @@ Nitrating acid (mixture of sulphuric and nitric acids)
 
 Nitrobenzene
 
-o‑Nitrophenol (molten)
+o-Nitrophenol (molten)
 
-o‑ or p‑Nitrotoluenes
+o- or p-Nitrotoluenes
 
 Nonene (all isomers)
 
 Nonyl phenol
 
-Nonyl phenol poly(4‑12) ethoxylates
+Nonyl phenol poly(4-12) ethoxylates
 
 Noxious liquid, N.F, (1) n.o.s. (trade name ..., contains ... ) S.T.1, Cat.A* 
 
@@ -3021,9 +3021,9 @@ Octene (all isomers)
 
 Octyl aldehydes
 
-Olefin mixtures (C5‑C15)
+Olefin mixtures (C5-C15)
 
-alpha‑Olefins (C6‑C18) mixtures
+alpha-Olefins (C6-C18) mixtures
 
 Oleum
 
@@ -3039,9 +3039,9 @@ Phosphorus, yellow or white
 
 Phthalic anhydride (molten)
 
-alpha‑Pinene
+alpha-Pinene
 
-beta‑Pinene
+beta-Pinene
 
 Poly(2+)cyclic aromatics
 
@@ -3049,21 +3049,21 @@ Polyethylene polyamines
 
 Polyolefin amide alkeneamine (C28+)
 
-Polyolefin amide alkeneamine borate (C28‑C250)
+Polyolefin amide alkeneamine borate (C28-C250)
 
 Polyolefin amide alkeneamine polyol
 
 Polyolefinamine in aromatic solvent
 
-Polyolefinamine in alkyl (C2‑C4) benzenes
+Polyolefinamine in alkyl (C2-C4) benzenes
 
-Polyolefin ester (C28‑C250)
+Polyolefin ester (C28-C250)
 
-beta‑Propiolactone
+beta-Propiolactone
 
 Propionitrile
 
-n‑Propylamine
+n-Propylamine
 
 Propylbenzene (all isomers)
 
@@ -3119,17 +3119,17 @@ Toluene diisocyanate
 
 Toluenediamine
 
-o‑Toluidine
+o-Toluidine
 
 Tributyl phosphate
 
-1,2,4‑Trichlorobenzene
+1,2,4-Trichlorobenzene
 
 Trichloroethylene
 
-Tricresyl phosphate (containing 1% or more ortho‑isomer)
+Tricresyl phosphate (containing 1% or more ortho-isomer)
 
-Tricresyl phosphate (containing less than 1% ortho‑isomer)
+Tricresyl phosphate (containing less than 1% ortho-isomer)
 
 Triethylamine
 
@@ -3145,7 +3145,7 @@ Trimethylamine solution (30% or less)
 
 Trimethylbenzene (all isomers)
 
-Trimethylhexamethylene diisocyanate (2,2,4‑ and 2,4,4‑isomers)
+Trimethylhexamethylene diisocyanate (2,2,4- and 2,4,4-isomers)
 
 Trixylyl phosphate
 
@@ -3153,7 +3153,7 @@ Turpentine
 
 Undecanoic acid
 
-1‑Undecene
+1-Undecene
 
 Undecyl alcohol
 
@@ -3163,15 +3163,15 @@ Vinylidene chloride
 
 Vinyltoluene
 
-White spirit, low (15‑20%) aromatic
+White spirit, low (15-20%) aromatic
 
 Xylenes
 
 Xylenol
 
-Zinc alkaryl dithiophosphate (C7‑C16)
+Zinc alkaryl dithiophosphate (C7-C16)
 
-Zinc alkyl dithiophosphate (C3‑C14)
+Zinc alkyl dithiophosphate (C3-C14)
 
 APPENDIX 3
 
@@ -3179,17 +3179,17 @@ HARMFUL SUBSTANCES IN PACKAGED FORM
 
 Aldrin
 
-Azinphos‑ethyl
+Azinphos-ethyl
 
-Azinphos‑methyl
+Azinphos-methyl
 
-gamma‑BHC
+gamma-BHC
 
 Binapacryl
 
 Brodifacoum
 
-Bromophos‑ethyl
+Bromophos-ethyl
 
 Cadmium compound
 
@@ -3199,7 +3199,7 @@ Carbophenothion
 
 Chlordane
 
-Chlorinated paraffin (C10‑C13)
+Chlorinated paraffin (C10-C13)
 
 Chlorophenolates, liquid
 
@@ -3221,11 +3221,11 @@ Cupric cyanide
 
 Cupric sulphate
 
-1,5,9‑Cyclododecatriene
+1,5,9-Cyclododecatriene
 
 Cyhexatin
 
-Cymenes (ortho‑; meta‑; para‑)
+Cymenes (ortho-; meta-; para-)
 
 Cymol
 
@@ -3281,9 +3281,9 @@ Heptachlor
 
 Hexachlorobutadiene
 
-Hexachloro‑1,3‑butadiene
+Hexachloro-1,3-butadiene
 
-1,3‑Hexachlorobutadiene
+1,3-Hexachlorobutadiene
 
 Isopropyltoluene
 
@@ -3345,13 +3345,13 @@ Mercury acetate
 
 Mercury ammonium chloride
 
-Mercury‑based pesticide, liquid, flammable, toxic, flashpoint less than 23deg.C c.c.
+Mercury-based pesticide, liquid, flammable, toxic, flashpoint less than 23deg.C c.c.
 
-Mercury‑based pesticide, liquid, toxic
+Mercury-based pesticide, liquid, toxic
 
-Mercury‑based pesticide, liquid, toxic, flammable, flashpoint between 23deg.C and 61deg.C c.c.
+Mercury-based pesticide, liquid, toxic, flammable, flashpoint between 23deg.C and 61deg.C c.c.
 
-Mercury‑based pesticide, solid, toxic
+Mercury-based pesticide, solid, toxic
 
 Mercury benzoate
 
@@ -3419,7 +3419,7 @@ Osmium tetroxide
 
 Parathion
 
-Parathion‑methyl
+Parathion-methyl
 
 PCB’s
 
@@ -3461,9 +3461,9 @@ Polyhalogenated biphenyls, liquid
 
 Polyhalogenated biphenyls, solid
 
-Polyhalogenated ter‑phenyls, liquid
+Polyhalogenated ter-phenyls, liquid
 
-Polyhalogenated ter‑phenyls, solid
+Polyhalogenated ter-phenyls, solid
 
 Potassium cuprocyanide
 
@@ -3477,7 +3477,7 @@ Pyrazophos
 
 Quizalofop
 
-Quizalofop‑p‑ethyl
+Quizalofop-p-ethyl
 
 Sodium copper cyanide, solid
 
@@ -3541,7 +3541,7 @@ Vinyl chloride monomer
 
 ### Note 1
 
-The _Protection of the Sea (Powers of Intervention) Act 1981_ as shown in this compilation comprises Act No. 33, 1981 amended as indicated in the Tables below.
+The _Protection of the Sea (Powers of Intervention) Act 1981_ as shown in this compilation comprises Act No. 33, 1981 amended as indicated in the Tables below. 
 
 All relevant information pertaining to application, saving or transitional provisions prior to 1 October 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -3759,27 +3759,10 @@ Remainder: Royal Assent</div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 1, 87–89): 1 Jan 2011</div>
+    <div>Schedule 6 (items 1, 87–89): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 941–943) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -3787,7 +3770,7 @@ _(a)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(b)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Schedule 5 (items 121 and 122) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
+_(b)_    The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Schedule 5 (items 121 and 122) only of the _Statute Law Revision Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
@@ -4091,28 +4074,6 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
   </td>
 </tr></table>
 
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 941  Subsection 3(1) (definition of _exclusive economic zone_)
-
-Repeal the definition.
-
-## 942  Subsection 3(1) (definition of _territorial sea_)
-
-Repeal the definition.
-
-## 943  Subsection 10(8) (definition of _continental shelf_)
-
-Repeal the definition.
-
-As at 3 November 2011 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -4124,21 +4085,5 @@ _Transport and Regional Services Legislation Amendment (Application of Criminal 
              (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
