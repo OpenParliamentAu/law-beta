@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00162/Html/ProtSeaPowersIntervention1981_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00274/Html/ProtSeaPowersIntervention1981_image001.gif)
 
 # Protection of the Sea (Powers of Intervention) Act 1981
 
 **Act No. 33 of 1981 as amended**
 
-This compilation was prepared on 3 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 30 June 2009
+ taking into account amendments up to Act No. 77 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -90,7 +90,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (2)  The date fixed under subsection (1) shall not be a date earlier than the date on which the International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties comes into force for Australia.
 
-##### <a id="3"></a>3  Interpretation
+##### <a id="3"></a>3  Interpretation
 
              (1)  In this Act, unless the contrary intention appears:
 
@@ -196,7 +196,7 @@ and as amended from time to time.
 
                     <a name="un-convent-law-sea"></a>**_UN Convention on the Law of the Sea_** means the United Nations Convention on the Law of the Sea done at Montego Bay on 10 December 1982.
 
-Note:          The text of the Convention is set out in Australian Treaty Series 1994 No. 31\. In 2006, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note:          The text of the Convention is set out in Australian Treaty Series 1994 No. 31\. In 2006, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
 
              (2)  It is hereby declared to be the intention of the Parliament that the provisions of this Act that relate to the Protocol shall have full force and effect whether or not the Protocol has entered into force.
 
@@ -3730,23 +3730,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 83): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Part 8 (sections 26–28) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1992_, subsection 2(1) of which provides as follows:
@@ -3789,7 +3772,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001; No. 44, 2006; No. 8, 2010</div>
+    <div>am. No. 78, 1990; No. 71, 1992; No. 149, 2001; No. 44, 2006</div>
   </td>
 </tr>
 <tr>
@@ -3949,7 +3932,7 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
     <div></div>
   </td>
   <td>
-    <div>am. No. 77, 2008</div>
+    <div>am. No. 77, 2009</div>
   </td>
 </tr>
 <tr>
