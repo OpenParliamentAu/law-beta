@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00095/Html/CwealthInscribStock11_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00429/Html/CwealthInscribStock11_image001.gif)
 
 # Commonwealth Inscribed Stock Act 1911
 
 **Act No. 20 of 1911 as amended**
 
-This compilation was prepared on 23 February 2009
- taking into account amendments up to Act No. 3 of 2009
+This compilation was prepared on 24 July 2008
+ taking into account amendments up to Act No. 78 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -32,8 +32,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [4](#4).            Power to create stock
 
 [5](#5).            Limit on stock and securities on issue
-
-[5A](#5A).         Increase in limit on stock and securities on issue—special circumstances
 
 [6](#6).            Stock and interest a charge on revenue
 
@@ -236,28 +234,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                      (a)  the **_face value_** of a Treasury Indexed Bond is taken to be its face value at the time it was issued; and
 
                      (b)  the **_loan_** of stock or a security is taken to include an arrangement under which it is sold and repurchased.
-
-##### <a id="5A"></a>5A  Increase in limit on stock and securities on issue—special circumstances
-
-             (1)  If the Treasurer is satisfied that there are special circumstances that would justify increasing the limit imposed by section 5 on the total face value of stock and securities that may be on issue under this Act and the _Loans Securities Act 1919_ at any time, he or she may make a written declaration to that effect.
-
-             (2)  A declaration under subsection (1) must:
-
-                     (a)  be published in the _Gazette_; and
-
-                     (b)  be tabled in each House of the Parliament within 15 sitting days after it is published.
-
-The declaration comes into force on the day on which it is published in the _Gazette_.
-
-             (3)  If a declaration under subsection (1) is in force, the limit imposed by section 5 on the total face value of stock and securities that may be on issue under this Act and the _Loans Securities Act 1919_ at any time is taken to be increased by $125 billion.
-
-             (4)  The Treasurer must not make a declaration under subsection (1) if a declaration made under that subsection is still in force.
-
-             (5)  An increase as a result of subsection (3) in the limit imposed by section 5 on the total face value of stock and securities that may be on issue under this Act and the _Loans Securities Act 1919_ at any time, applies on and after the day on which the declaration comes into force, regardless of whether the stock and securities were issued before, on or after that day.
-
-             (6)  A declaration under subsection (1) is not a legislative instrument.
-
-             (7)  The _Administrative Decisions (Judicial Review) Act 1977_ does not apply to a decision to make a declaration under subsection (1).
 
 ##### <a id="6"></a>6  Stock and interest a charge on revenue
 
@@ -549,7 +525,7 @@ shall be guilty of an indictable offence.
 
 ##### <a id="51B"></a>51B  Sale of Treasury Bonds
 
-                   The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which Treasury Bonds, Debentures and other prescribed securities may be issued and sold shall be as directed by the Governor-General.
+                   The manner in which, the prices at which and the terms and conditions (including terms and conditions as to redemption and interest) on which Treasury Bonds, Debentures and other prescribed securities may be issued and sold shall be as directed by the Governor-General.
 
 ##### <a id="51BA"></a>51BA  Breach of terms or conditions of issue of Treasury Bonds
 
@@ -1070,7 +1046,7 @@ Remainder: 28 May 1918</div>
     <div>28 Mar 1979</div>
   </td>
   <td>
-    <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+    <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
 Remainder: Royal Assent</div>
   </td>
   <td>
@@ -1346,7 +1322,7 @@ Remainder: 18 Jan 2001</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9-11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -1404,23 +1380,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 1 (items 
 12–14) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Inscribed Stock Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>3, 2009</div>
-  </td>
-  <td>
-    <div>18 Feb 2009</div>
-  </td>
-  <td>
-    <div>18 Feb 2009</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -1583,14 +1542,6 @@ _(h)_     The _Commonwealth Inscribed Stock Act 1911_ was amended by Sch
   </td>
   <td>
     <div>ad. No. 78, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 3, 2009</div>
   </td>
 </tr>
 <tr>
