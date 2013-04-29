@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00481/Html/FishMangmtAct1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00394/Html/FishMangmtAct1991_WD02_image001.gif)
 
 # Fisheries Management Act 1991
 
 **Act No. 162 of 1991 as amended**
 
-This compilation was prepared on 7 July 2010
- taking into account amendments up to Act No. 96 of 2010
+This compilation was prepared on 7 June 2010
+ taking into account amendments up to Act No. 51 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -2171,7 +2171,7 @@ the following provisions of this section apply.
 
              (2)  If a person holds a statutory fishing rights option in respect of statutory fishing rights under the new plan, the option entitles the person, subject to subsections (3) and (4), to be granted under the new plan, to the extent to which the person exercises the option in accordance with subsection 31D(1), the number of statutory fishing rights of the relevant class worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00481/Html/FishMangmtAct1991_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00394/Html/FishMangmtAct1991_WD02_image002.gif)
 
 where:
 
@@ -13826,42 +13826,7 @@ Schedule 3 (items 1–66): 24 June 2009</div>
     <div>Schedule 1 (items 1–18): \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
-    <div>Sch. 1 (item 18) 
-Sch. 1 (item 17) (rep. by 96, 2010, Sch. 3 \[item 17])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Corporations and Other Amendments) Act 2010</div>
-  </td>
-  <td>
-    <div>96, 2010</div>
-  </td>
-  <td>
-    <div>6 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 17): ( <i>see</i>96, 2010 below)</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 1 (items 17, 18)</div>
   </td>
 </tr>
 <tr>
@@ -13897,24 +13862,6 @@ Schedule 7: <i>(n)</i></div>
   </td>
   <td>
     <div>Sch. 7 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Personal Property Securities (Corporations and Other Amendments) Act 2010</div>
-  </td>
-  <td>
-    <div>96, 2010</div>
-  </td>
-  <td>
-    <div>6 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 2): \[ <i>see (o)</i>and Note 4] 
-Schedule 3 (item 17): \[ <i>see</i> <i>(o)</i>and Table A]</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -14431,83 +14378,6 @@ _(n)_ Subsection 2(1) (item 7) of the _Freedom of Information Amendment (Refor
     <div>
       \[
         <i>see</i>Note 3]
-    </div>
-  </td>
-</tr></table>
-
-_(o)_ Subsection 2(1) (items 9 and 14) of the _Personal Property Securities (Corporations and Other Amendments) Act 2010_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      9\. Schedule 3, item 2
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 1 of Schedule 1 to the
-        <i>Personal Property Securities (Consequential Amendments) Act 2009.</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Note 4]
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      14\. Schedule 3, item 17
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of item 17 of Schedule 1 to the
-        <i>Personal Property Securities (Consequential Amendments) Act 2009.</i>
-
-    </div>
-  </td>
-  <td>
-    <div>
-      \[
-        <i>see</i>Table A]
     </div>
   </td>
 </tr></table>
@@ -17996,7 +17866,7 @@ Repeal the Subdivision, substitute:
 
              (2)  Subsection (1) has effect regardless of whether the seizure, detention or forfeiture, or the event that was the basis for the seizure, detention or forfeiture, occurred before or after the admiralty event or the PPSA event.
 
-As at 7 July 2010 the amendments are not incorporated in this compilation.
+As at 7 June 2010 the amendments are not incorporated in this compilation.
 
 ### Note 3
 
@@ -18014,35 +17884,7 @@ Omit “Privacy Commissioner”, substitute “Information Commissioner under th
 
 Omit “Privacy Commissioner”, substitute “Information Commissioner”.
 
-As at 7 July 2010 the amendments are not incorporated in this compilation.
-
-### Note 4
-
-_Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
-
-The following amendment commences immediately after the commencement of item 1 of Schedule 1 to the _Personal Property Securities (Consequential Amendments) Act 2009_:
-
-## Schedule 3
-
-## 2  Subsection 4(1) (definition of _PPSA security interest_)
-
-Repeal the definition, substitute:
-
-                    <a name="ppsa-secur-interest"></a>**_PPSA security interest_** (short for Personal Property Securities Act security interest) means a security interest within the meaning of the _Personal Property Securities Act 2009_ and to which that Act applies, other than a transitional security interest within the meaning of that Act.
-
-Note 1:       The _Personal Property Securities Act 2009_ applies to certain security interests in personal property. See the following provisions of that Act:
-
-(a)    section 8 (interests to which the Act does not apply);
-
-(b)    section 12 (meaning of **_security interest_**);
-
-(c)    Chapter 9 (transitional provisions).
-
-Note 2:       For the meaning of **_transitional security interest_**, see section 308 of the _Personal Property Securities Act 2009_.
-
-_Note:       This amendment replaces the definition inserted by item 1 of Schedule 1 to the Personal Property Securities (Consequential Amendments) Act 2009._
-
-As at 7 July 2010 the amendment is not incorporated in this compilation.
+As at 7 June 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -18254,7 +18096,7 @@ The following provisions commence on 1 February 2012 or an earlier time determin
 
 ## Schedule 1
 
-## \[NOTE]  17  Application of amendments of the _Fisheries Management Act 1991_
+## 17  Application of amendments of the _Fisheries Management Act 1991_
 
 The requirements in sections 31F and 46 of the _Fisheries Management Act 1991_ in relation to the registration of dealings in respect of interests that are PPSA security interests stop applying at the time item 5 of this Schedule commences.
 
@@ -18271,19 +18113,5 @@ _Note:       Item 5 commences at the registration commencement tim
 _Note:       Item 15 commences at the registration commencement time within the meaning of section 306 of the Personal Property Securities Act 2009._
 
 (2)        The Australian Fisheries Management Authority must comply with the requirement as if the repeal of subsection 50(3) of the _Fisheries Management Act 1991_ by item 15 of this Schedule had not happened.
-
-_\[NOTE]:  Personal Property Securities (Corporations and Other Amendments) Act 2010 (No. 96, 2010)_
-
-The following amendment commences immediately after the commencement of item 17 of Schedule 1 to the _Personal Property Securities (Consequential Amendments) Act 2009_(No. 131, 2009) and amends the _Personal Property Securities (Consequential Amendments) Act 2009_(No. 131, 2009) as follows:
-
-## Schedule 3
-
-## 17  Item 17 of Schedule 1
-
-Repeal the item.
-
-_Note:       The repealed item is redundant because of the amendment in item 2 of this Schedule._
-
-As at 7 July 2010 the amendment is not incorporated in this compilation.
 
  
