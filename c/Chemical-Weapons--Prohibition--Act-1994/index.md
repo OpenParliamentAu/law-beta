@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2004C02672/Html/ChemWeapP94_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C02671/Html/ChemicalWeaponsPro94_image001.gif)
 
 # Chemical Weapons (Prohibition) Act 1994
 
 **Act No. 26 of 1994 as amended**
 
-This compilation was prepared on 26 May 2001
- taking into account amendments up to Act No. 35 of 2001
+This compilation was prepared on 18 August 2000
+ taking into account amendments up to Act No. 146 of 1999
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -42,8 +42,6 @@ Prepared by the Office of Legislative Drafting,
 [10](#10).          Determining aggregate amounts of chemicals                                       9
 
 [11](#11).          Application of Act                                                                            11
-
-[11A](#11A).       Application of the _Criminal Code_                                                     12
 
 **Part 2—Offences relating to chemical weapons**
 
@@ -95,193 +93,195 @@ Prepared by the Office of Legislative Drafting,
 
 **Part 4—Record keeping and information gathering**
 
-[30](#30).          Record keeping obligations in relation to certain facilities                 29
+[30](#30).          Record keeping obligations in relation to certain facilities                 28
 
-[31](#31).          Director may seek information for declarations and consultation purposes               30
+[31](#31).          Director may seek information for declarations and consultation purposes               29
 
 **Part 5—Verification procedures**
 
-[32](#32).          Outline of this Part                                                                            32
+[32](#32).          Outline of this Part                                                                            30
 
     **Division 1—Compliance inspections by national inspectors**
 
-[33](#33).          Compliance purpose                                                                          33
+[33](#33).          Compliance purpose                                                                          31
 
-[34](#34).          Inspection powers                                                                             33
+[34](#34).          Inspection powers                                                                             31
 
-[35](#35).          Compliance inspections by national inspectors                                34
+[35](#35).          Compliance inspections by national inspectors                                32
 
-[36](#36).          Period within which compliance inspection may be carried out       34
+[36](#36).          Period within which compliance inspection may be carried out       32
 
     **Division 2—International compliance inspections**
 
-[37](#37).          International compliance purpose                                                     35
+[37](#37).          International compliance purpose                                                     33
 
-[38](#38).          International inspection powers                                                        35
+[38](#38).          International inspection powers                                                        33
 
-[39](#39).          Routine international compliance inspections of Schedule 1 facilities 36
+[39](#39).          Routine international compliance inspections of Schedule 1 facilities 34
 
-[40](#40).          Routine international compliance inspections of facilities dealing with Schedule 2 chemicals   37
+[40](#40).          Routine international compliance inspections of facilities dealing with Schedule 2 chemicals   35
 
-[41](#41).          Routine international compliance inspections of facilities dealing with Schedule 3 chemicals   38
+[41](#41).          Routine international compliance inspections of facilities dealing with Schedule 3 chemicals   36
 
-[42](#42).          Routine international compliance inspections of OCP facilities       38
+[42](#42).          Routine international compliance inspections of OCP facilities       36
 
-[43](#43).          Inspectors not entitled to exercise powers under this Division in certain circumstances           39
+[43](#43).          Inspectors not entitled to exercise powers under this Division in certain circumstances           37
 
-[44](#44).          Incidence of routine international compliance inspections                39
+[44](#44).          Incidence of routine international compliance inspections                37
 
     **Division 3—Challenge inspections**
 
-[45](#45).          Challenge inspection purposes                                                          40
+[45](#45).          Challenge inspection purposes                                                          38
 
-[46](#46).          Challenge inspection powers                                                             40
+[46](#46).          Challenge inspection powers                                                             38
 
-[47](#47).          Challenge inspections                                                                        41
+[47](#47).          Challenge inspections                                                                        39
 
-[48](#48).          Observers                                                                                           42
+[48](#48).          Observers                                                                                           40
 
-[49](#49).          Clarification procedures                                                                     43
+[49](#49).          Clarification procedures                                                                     41
 
     **Division 4—Warrants relating to compliance and challenge inspections**
 
-[50](#50).          Compliance inspection warrants                                                       45
+[50](#50).          Compliance inspection warrants                                                       43
 
-[51](#51).          International compliance inspection warrants                                   45
+[51](#51).          International compliance inspection warrants                                   43
 
-[52](#52).          Challenge inspection warrants                                                           46
+[52](#52).          Challenge inspection warrants                                                           44
 
-[53](#53).          Duration of inspection period                                                           47
+[53](#53).          Duration of inspection period                                                           45
 
-[54](#54).          Ministerial extension of inspection periods                                      47
+[54](#54).          Ministerial extension of inspection periods                                      45
 
-[55](#55).          Challenge inspection warrant to authorise presence of an observer  48
+[55](#55).          Challenge inspection warrant to authorise presence of an observer  46
 
     **Division 5—Offence-related searches and seizures**
 
-[56](#56).          Definition                                                                                           49
+[56](#56).          Definition                                                                                           47
 
-[57](#57).          Offence-related searches and seizures                                               49
+[57](#57).          Offence-related searches and seizures                                               47
 
-[58](#58).          Offence-related warrants                                                                   49
+[58](#58).          Offence-related warrants                                                                   47
 
-[59](#59).          The things that are authorised by search warrant                              51
+[59](#59).          The things that are authorised by search warrant                              49
 
-[60](#60).          Specific powers available to national inspectors executing warrants 52
+[60](#60).          Specific powers available to national inspectors executing warrants 50
 
-[61](#61).          Use of equipment to examine or process things                                52
+[61](#61).          Use of equipment to examine or process things                                50
 
-[62](#62).          Use of electronic equipment at premises                                           53
+[62](#62).          Use of electronic equipment at premises                                           51
 
-[63](#63).          Warrants by telephone or other electronic means                             55
+[63](#63).          Warrants by telephone or other electronic means                             53
 
-[64](#64).          Retention of things which are seized                                                 56
+[64](#64).          Retention of things which are seized                                                 54
 
-[65](#65).          Court of summary jurisdiction may permit a thing to be retained    57
+[65](#65).          Court of summary jurisdiction may permit a thing to be retained    55
 
     **Division 6—Miscellaneous provisions relating to warrants**
 
-[66](#66).          Announcement before entry                                                              58
+[66](#66).          Announcement before entry                                                              56
 
-[67](#67).          Availability of assistance and use of force in executing warrant       58
+[67](#67).          Availability of assistance and use of force in executing warrant       56
 
-[68](#68).          Details of warrant to be given to occupier etc                                   58
+[68](#68).          Details of warrant to be given to occupier etc                                   56
 
-[69](#69).          Copies of seized things to be provided                                             59
+[69](#69).          Copies of seized things to be provided                                             57
 
-[70](#70).          Compensation for damage to electronic equipment                           59
+[70](#70).          Compensation for damage to electronic equipment                           57
 
-[71](#71).          Offence of making false statements in applications for warrant       60
+[71](#71).          Offence of making false statements in applications for warrant       58
 
-[72](#72).          Offences relating to telephone warrants                                            60
+[72](#72).          Offences relating to telephone warrants                                            58
 
     **Division 7—Manner of conducting international compliance and challenge inspections—facility agreements and managed access**
 
-[73](#73).          Initial inspection plan                                                                        61
+[73](#73).          Initial inspection plan                                                                        59
 
-[74](#74).          Initial inspection plan and conduct of inspection to be consistent with facility agreement       61
+[74](#74).          Initial inspection plan and conduct of inspection to be consistent with facility agreement       59
 
-[75](#75).          Managed access                                                                                 61
+[75](#75).          Managed access                                                                                 59
 
     **Division 8—Facility agreements**
 
-[76](#76).          Facility agreements                                                                            62
+[76](#76).          Facility agreements                                                                            60
 
 **Part 6—Offences**
 
-[77](#77).          Production etc  of Scheduled chemicals otherwise than in accordance with permit    63
+[77](#77).          Production etc  of Scheduled chemicals otherwise than in accordance with permit    61
 
-[78](#78).          Breach of condition of permit                                                            64
+[78](#78).          Breach of condition of permit                                                            62
 
-[79](#79).          Interference with monitoring equipment                                           65
+[79](#79).          Interference with monitoring equipment                                           62
 
-[80](#80).          False or misleading statements and documents                                 65
+[80](#80).          False or misleading statements and documents                                 62
 
-[81](#81).          Forfeiture                                                                                           66
+[81](#81).          Forfeiture                                                                                           63
 
-[82](#82).          Hearing to be in private in certain circumstances                              66
+[82](#82).          Hearing to be in private in certain circumstances                              63
 
-[83](#83).          Register of Permits and Notifications                                                67
+[83](#83).          Register of Permits and Notifications                                                65
 
-[84](#84).          Evidence of analyst                                                                            68
+[84](#84).          Evidence of analyst                                                                            65
 
-[85](#85).          Equipment or material approved by Organization                            69
+[85](#85).          Equipment or material approved by Organization                            67
 
 **Part 7—Administration** 
 
     **Division 1—Director of Chemical Weapons Convention Office**
 
-[86](#86).          Director of the Chemical Weapons Convention Office                     71
+[86](#86).          Director of the Chemical Weapons Convention Office                     68
 
-[87](#87).          Functions of Director                                                                        71
+[87](#87).          Functions of Director                                                                        68
 
-[88](#88).          The Chemical Weapons Convention Office                                      71
+[88](#88).          The Chemical Weapons Convention Office                                      68
 
-[89](#89).          Delegation by Director                                                                      72
+[89](#89).          Delegation by Director                                                                      69
 
     **Division 2—Controller of Permits and Notifications**
 
-[90](#90).          Controller of Permits and Notifications                                            73
+[90](#90).          Controller of Permits and Notifications                                            70
 
-[91](#91).          Function of the Controller                                                                 73
+[91](#91).          Function of the Controller                                                                 70
 
     **Division 3—National inspectors and consultants**
 
-[92](#92).          National inspectors                                                                            74
+[92](#92).          National inspectors                                                                            71
 
-[93](#93).          Identity cards                                                                                     74
+[93](#93).          Identity cards                                                                                     71
 
-[94](#94).          Engagement of consultants etc                                                           74
+[94](#94).          Engagement of consultants etc                                                           71
 
 **Part 8—Miscellaneous**
 
-[95](#95).          Powers to be exercised in accordance with Convention                    75
+[95](#95).          Powers to be exercised in accordance with Convention                    72
 
-[96](#96).          Annual report by Director                                                                 75
+[96](#96).          Annual report by Director                                                                 72
 
-[97](#97).          Additional reports                                                                             75
+[97](#97).          Additional reports                                                                             72
 
-[98](#98).          Register of Permits and Notifications                                                76
+[98](#98).          Register of Permits and Notifications                                                73
 
-[99](#99).          Delegation by Minister                                                                      76
+[99](#99).          Delegation by Minister                                                                      73
 
-[100](#100).        Organization inspectors                                                                     77
+[100](#100).        Organization inspectors                                                                     74
 
-[101](#101).        Privileges and immunities of Organization inspectors and foreign country inspectors              77
+[101](#101).        Privileges and immunities of Organization inspectors and foreign country inspectors              74
 
-[101A](#101A).     Privileges and immunities of observers                                              77
+[101A](#101A).     Privileges and immunities of observers                                              74
 
-[101B](#101B).     Privileges and immunities of other persons                                       77
+[101B](#101B).     Privileges and immunities of other persons                                       74
 
-[102](#102).        Secrecy                                                                                               78
+[102](#102).        Secrecy                                                                                               75
 
-[103](#103).        Australia not liable for acts or omissions of Organization etc           81
+[103](#103).        Australia not liable for acts or omissions of Organization etc           78
 
-[104](#104).        Regulations                                                                                        81
+[104](#104).        Regulations                                                                                        78
 
 **Schedule—The Convention on the Prohibition of the Development, Production, Stockpiling and Use of Chemical Weapons and on their Destruction** 
 
 **Notes** 
+
+ 
 
 ## An Act relating to the prohibition of the development, production, stockpiling or use of chemical weapons and the control of certain chemicals capable of being used as chemical weapons, and related provisions
 
@@ -605,17 +605,11 @@ Note:          For specification by class, see section 46 of t
 
                     <a name="trade-corpor"></a>**_trading corporation_** means a trading corporation, within the meaning of paragraph 51(xx) of the Constitution, formed within the limits of the Commonwealth.
 
-##### <a id="11A"></a>11A  Application of the _Criminal Code_
-
- Chapter 2 (other than Part 2.5) of the _Criminal Code_ applies to all offences against this Act.
-
-Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
-
 ## Part 2—Offences relating to chemical weapons
 
 ##### <a id="12"></a>12  Offences relating to chemical weapons
 
-                   A person must not intentionally:
+                   A person must not, intentionally or recklessly:
 
                      (a)  develop, produce, otherwise acquire, stockpile or retain chemical weapons; or
 
@@ -1013,17 +1007,9 @@ the permit holder in relation to a facility will no longer be the operator of th
 
              (2)  A notification must be given by such day as is prescribed.
 
-             (3)  A person is guilty of an offence if:
-
-                     (a)  the person refuses or fails to do an act; and
-
-                     (b)  the refusal or failure causes a contravention of subsection (1) or (2).
+             (3)  The operator of a facility must not, without reasonable excuse, refuse or fail to notify the facility to the Minister in accordance with the requirements of this section.
 
                     Penalty:  Imprisonment for 1 year.
-
-          (3A)  Subsection (3) does not apply if the person has a reasonable excuse.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (3A). See subsection 13.3(3) of the _Criminal Code_.
 
 ## Part 4—Record keeping and information gathering
 
@@ -1051,17 +1037,9 @@ Note:          The defendant bears an evidential burden in rel
 
                      (d)  prepare and give to the Director from those records, in such circumstances, and by such day, as is prescribed, a special report in the approved form containing such information as is required by the form.
 
-             (3)  A person is guilty of an offence if:
-
-                     (a)  the person refuses or fails to do an act; and
-
-                     (b)  the refusal or failure causes a contravention of subsection (2).
+             (3)  A person must not, without reasonable excuse, refuse or fail to comply with subsection (2).
 
                     Penalty:  Imprisonment for 2 years.
-
-          (3A)  Subsection (3) does not apply if the person has a reasonable excuse.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (3A). See subsection 13.3(3) of the _Criminal Code_.
 
              (4)  The regulations relating to the keeping of records referred to in paragraph (2)(b) may include, but are not limited to, regulations relating to:
 
@@ -1083,23 +1061,9 @@ within such reasonable period and in such manner as is specified in the notice.
 
              (3)  The Director may, by written notice given to a person, require the person to give to the Director particular documents, or documents of a particular kind, specified in the notice, within such reasonable period as is specified in the notice.
 
-             (4)  A person must comply with a notice given to the person under this section.
-
-          (4A)  A person is guilty of an offence if:
-
-                     (a)  the person refuses or fails to do an act; and
-
-                     (b)  the refusal or failure causes a contravention of subsection (4).
+             (4)  A person must not, without reasonable excuse, intentionally or recklessly refuse or fail to comply with a notice under this section to the extent that the person is capable of complying with it.
 
                     Penalty:  Imprisonment for 1 year.
-
-          (4B)  Subsection (4A) does not apply if the person has a reasonable excuse.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (4B). See subsection 13.3(3) of the _Criminal Code_.
-
-          (4C)  Subsection (4A) does not apply to the extent that the person is not capable of complying with the notice.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (4C). See subsection 13.3(3) of the _Criminal Code_.
 
              (5)  The power of the Director under this section to require a person to give information or documents to the Director is in addition to:
 
@@ -1913,73 +1877,45 @@ the inspection team must, in consultation with the Director, modify their initia
 
 ##### <a id="77"></a>77  Production etc. of Scheduled chemicals otherwise than in accordance with permit
 
-             (1)  A person is guilty of an offence if:
+             (1)  A person who:
 
-                     (a)  the person is required under section 16 to have a permit to operate a facility so far as concerns the production, acquisition, retention or use of Schedule 1 chemicals at that facility, or the transfer of Schedule 1 chemicals from that facility; and
+                     (a)  is required under section 16 to have a permit to operate a facility so far as concerns the production, acquisition, retention or use of Schedule 1 chemicals at that facility, or the transfer of Schedule 1 chemicals from that facility; and
 
-                     (b)  the person produces, acquires, retains or uses Schedule 1 chemicals at that facility, or transfers Schedule 1 chemicals from that facility; and
+                     (b)  intentionally or recklessly produces, acquires, retains or uses Schedule 1 chemicals at that facility, or transfers Schedule 1 chemicals from that facility without, or, otherwise than in accordance with, such a permit;
 
-                     (c)  that conduct is engaged in without, or otherwise than in accordance with, such a permit.
+is guilty of an offence against this subsection.
 
                     Penalty:  Imprisonment for 5 years or 500 penalty units, or both.
 
-             (2)  A person is guilty of an offence if:
+             (2)  A person who:
 
-                     (a)  the person is required under section 16 to have a permit to operate a facility so far as concerns the production, processing or consumption of Schedule 2 chemicals at that facility; and
+                     (a)  is required under section 16 to have a permit to operate a facility so far as concerns the production, processing or consumption of Schedule 2 chemicals at that facility; and
 
-                     (b)  the person produces, processes or consumes Schedule 2 chemicals at that facility; and
+                     (b)  intentionally or recklessly produces, processes or consumes Schedule 2 chemicals at that facility without, or otherwise than in accordance with, such a permit;
 
-                     (c)  that conduct is engaged in without, or otherwise than in accordance with, such a permit.
+is guilty of an offence against this subsection.
 
                     Penalty:  Imprisonment for 2 years or 250 penalty units, or both.
 
-             (3)  A person is guilty of an offence if:
+             (3)  A person who:
 
-                     (a)  the person is required under section 16 to have a permit to operate a facility so far as concerns the production of particular Schedule 3 chemicals at that facility; and
+                     (a)  is required under section 16 to have a permit to operate a facility so far as concerns the production of particular Schedule 3 chemicals at that facility; and
 
-                     (b)  the person produces that chemical at that facility; and
+                     (b)  intentionally or recklessly produces that chemical at that facility without, or otherwise than in accordance with, such a permit;
 
-                     (c)  that conduct is engaged in without, or otherwise than in accordance with, such a permit.
+is guilty of an offence against this subsection.
 
                     Penalty:  250 penalty units.
 
-             (4)  A person is guilty of an offence if:
-
-                     (a)  the person fails to do an act; and
-
-                     (b)  the failure to do the act causes a contravention of section 28.
+             (4)  A person who is required to notify a facility to the Minister under section 28 must not, without reasonable excuse, intentionally or recklessly fail to do so.
 
                     Penalty:  100 penalty units.
-
-             (5)  Subsection (4) does not apply if the person has a reasonable excuse.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (4A). See subsection 13.3(3) of the _Criminal Code_.
 
 ##### <a id="78"></a>78  Breach of condition of permit
 
-             (1)  A person is guilty of an offence if:
+A permit holder who, without reasonable excuse, contravenes a condition subject to which a permit is granted is guilty of an offence against this section.
 
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct contravenes a condition subject to which a permit is granted.
-
-                    Penalty:  100 penalty units.
-
-             (2)  Subsection (1) does not apply if the person has a reasonable excuse.
-
-Note:          The defendant bears an evidential burden in relation to the matter in subsection (4A). See subsection 13.3(3) of the _Criminal Code_.
-
-             (3)  An offence under subsection (1) is an offence of strict liability.
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
-             (4)  In this section:
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
+                    Penalty: 100 penalty units.
 
 ##### <a id="79"></a>79  Interference with monitoring equipment
 
@@ -1995,7 +1931,7 @@ with the intention of adversely affecting the operation of the equipment is guil
 
 ##### <a id="80"></a>80  False or misleading statements and documents
 
-             (1)  A person who intentionally makes a statement, either orally or in writing, to the Minister, the Director, the Controller, a national inspector, an Organization inspector, a foreign country inspector or another person exercising a power or performing a function or duty in relation to this Act that is false or misleading in a material particular, is guilty of an offence against this subsection.
+             (1)  A person who intentionally or recklessly makes a statement, either orally or in writing, to the Minister, the Director, the Controller, a national inspector, an Organization inspector, a foreign country inspector or another person exercising a power or performing a function or duty in relation to this Act that is false or misleading in a material particular, is guilty of an offence against this subsection.
 
                     Penalty:  Imprisonment for 2 years.
 
@@ -2191,10 +2127,6 @@ as the office whose occupant is the Director of the Chemical Weapons Convention 
 
                     Penalty for a contravention of this subsection:    1 penalty unit.
 
-             (4)  An offence under subsection (3) is an offence of strict liability.
-
-Note:          For **_strict liability_**, see section 6.1 of the _Criminal Code_.
-
 ##### <a id="94"></a>94  Engagement of consultants etc.
 
              (1)  The Director may, on behalf of the Commonwealth and with the approval of the Minister or of another person authorised in writing by the Minister for the purpose, engage, under agreements in writing, persons having suitable qualifications and experience as consultants to the Director.
@@ -2363,31 +2295,9 @@ the recipient must not be required to produce the document to a court, unless it
 
                      (d)  for the purposes of a prosecution for an offence against this Act.
 
-           (3E)  A person is guilty of an offence if:
+           (3E)  A person who intentionally or recklessly contravenes subsection (2), (3A) or (3C) is guilty of an offence punishable on conviction by imprisonment for a term not exceeding 2 years.
 
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct contravenes subsection (2), (3A) or (3C).
-
-                    Penalty:  Imprisonment for 2 years.
-
-           (3F)  In subsection (3E):
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** means:
-
-                     (a)  do an act; or
-
-                     (b)  omit to perform an act.
-
-             (4)  In this section:
-
-                    <a name="offenc-against-act"></a>**_offence against this Act_** includes an offence created by:
-
-                     (a)  section 6 of the _Crimes Act 1914_; or
-
-                     (b)  section 11.1, 11.4 or 11.5 of the _Criminal Code_;
-
-that relates to this Act.
+             (4)  A reference in this section to an offence against this Act includes a reference to an offence created by section 5, 6, 7 or 7A, or subsection 86 (1), of the _Crimes Act 1914_, being an offence that relates to this Act.
 
           (4A)  For the purposes of this section, if in the course of an inspection under Part 5 an eligible person acquires information concerning the affairs of another person, the information is taken to be **_confidential information_** unless, at the time the information was acquired:
 
@@ -7310,7 +7220,7 @@ _Declarations of plant site producing, processing or consuming Schedule 2 chemic
 
 5.  Declarations pursuant to paragraph 3 are generally not required for mixtures containing a low concentration of a Schedule 2 chemical. They are only required, in accordance with guidelines, in cases where the ease of recovery from the mixture of the Schedule 2 chemical and its total weight are deemed to pose a risk to the object and purpose of this Convention. These guidelines shall be considered and approved by the Conference pursuant to Article VIII, paragraph 21(i).
 
-6.  Declarations of a plant site pursuant to paragraph 3 shall include:
+6\.  Declarations of a plant site pursuant to paragraph 3 shall include:
 
 (a)   the name of the plant site and the name of the owner, company, or enterprise operating it;
 
@@ -7948,7 +7858,7 @@ _Observer_
 
 _Duration of inspection_
 
-57\.  The period of inspection shall not exceed 84 hours, unless extended by agreement with the inspected State Party.
+57.  The period of inspection shall not exceed 84 hours, unless extended by agreement with the inspected State Party.
 
 D.     POST-INSPECTION ACTIVITIES
 
@@ -8205,7 +8115,7 @@ B.     EMPLOYMENT AND CONDUCT OF PERSONNEL IN THE TECHNICAL SECRETARIAT
 
 12.  In evaluating the performance of inspectors and any other employees of the Technical Secretariat, specific attention shall be given to the employee’s record regarding protection of confidential information.
 
-C.     MEASURES TO PROTECT SENSITIVE INSTALLATIONS AND PREVENT DISCLOSURE OF CONFIDENTIAL DATA IN THE COURSE OF ON-SITE VERIFICATION ACTIVITIES
+C.     MEASURES TO PROTECT SENSITIVE INSTALLATIONS AND PREVENT DISCLOSURE OF CONFIDENTIAL DATA IN THE COURSE OF ON-SITE VERIFICATION ACTIVITIES
 
 13.  States Parties may take such measures as they deem necessary to protect confidentiality, provided that they fulfil their obligations to demonstrate compliance in accordance with the relevant Articles and the Verification Annex. When receiving an inspection, the State Party may indicate to the inspection team the equipment, documentation or areas that it considers sensitive and not related to the purpose of the inspection.
 
@@ -8237,7 +8147,7 @@ D.     PROCEDURES IN CASE OF BREACHES OR ALLEGED BREACHES OF CONFIDENTIA
 
 The _Chemical Weapons (Prohibition) Act 1994_ as shown in this consolidation comprises Act No. 26, 1994 amended as indicated in the Tables below.
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+For relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -8341,23 +8251,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>35, 2001</div>
-  </td>
-  <td>
-    <div>28 Apr 2001</div>
-  </td>
-  <td>
-    <div>26 May 2001</div>
-  </td>
-  <td>
-    <div>S. 4</div>
-  </td>
 </tr></table>
 
 _(a)_ Subsections 2(2)-(4) of the _Chemical Weapons (Prohibition) Act 1994_ provide as follows:
@@ -8419,7 +8312,15 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
 </tr>
 <tr>
   <td>
-    <div>Ss. 8A, 8B</div>
+    <div>S. 8A</div>
+  </td>
+  <td>
+    <div>ad. No. 9, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 8B</div>
   </td>
   <td>
     <div>ad. No. 9, 1998</div>
@@ -8435,22 +8336,6 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
 </tr>
 <tr>
   <td>
-    <div>S. 11A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 35, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 15</div>
   </td>
   <td>
@@ -8459,10 +8344,18 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
 </tr>
 <tr>
   <td>
-    <div>Ss. 17, 18</div>
+    <div>S. 17</div>
   </td>
   <td>
     <div>am. No. 9, 1988</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 18</div>
+  </td>
+  <td>
+    <div>am. No. 9, 1998</div>
   </td>
 </tr>
 <tr>
@@ -8515,18 +8408,18 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
 </tr>
 <tr>
   <td>
-    <div>Ss. 29, 30</div>
+    <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 9, 1998; No. 35, 2001</div>
+    <div>am. No. 9, 1998</div>
   </td>
 </tr>
 <tr>
   <td>
-    <div>S. 31</div>
+    <div>S. 30</div>
   </td>
   <td>
-    <div>am. No. 35, 2001</div>
+    <div>am. No. 9, 1998</div>
   </td>
 </tr>
 <tr>
@@ -8619,7 +8512,15 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
 </tr>
 <tr>
   <td>
-    <div>Ss. 48, 49</div>
+    <div>S. 48</div>
+  </td>
+  <td>
+    <div>am. No. 9, 1998</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 49</div>
   </td>
   <td>
     <div>am. No. 9, 1998</div>
@@ -8651,26 +8552,10 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
 </tr>
 <tr>
   <td>
-    <div>Ss. 77, 78</div>
-  </td>
-  <td>
-    <div>rs. No. 35, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 80</div>
   </td>
   <td>
-    <div>am. No. 9, 1998; No. 35, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 93</div>
-  </td>
-  <td>
-    <div>am. No. 35, 2001</div>
+    <div>am. No. 9, 1998</div>
   </td>
 </tr>
 <tr>
@@ -8718,7 +8603,7 @@ _(c)_     The _Chemical Weapons (Prohibition) Act 1994_ was amended by S
     <div>S. 102</div>
   </td>
   <td>
-    <div>am. No. 9, 1998; No. 35, 2001</div>
+    <div>am. No. 9, 1998</div>
   </td>
 </tr></table>
 
@@ -8728,32 +8613,20 @@ Table A
 
 _Chemical Weapons (Prohibition) Amendment Act 1998 (No. 9, 1998)_
 
-Schedule 1
-
-72  Application of amendments—sections 17 and 96 of the Chemical Weapons (Prohibition) Act 1994
+## 72  Application of amendments—sections 17 and 96 of the _Chemical Weapons (Prohibition) Act 1994_
 
 The amendments of sections 17 and 96 of the _Chemical Weapons (Prohibition) Act 1994_ made by this Schedule apply to applications made after the commencement of this item.
 
-73  Application of amendments—section 18 of the Chemical Weapons (Prohibition) Act 1994
+## 73  Application of amendments—section 18 of the _Chemical Weapons (Prohibition) Act 1994_
 
 The amendment of section 18 of the _Chemical Weapons (Prohibition) Act 1994_ made by this Schedule applies to permits granted after the commencement of this item.
 
-74  Transitional—amendments of section 53 of the Chemical Weapons (Prohibition) Act 1994
+## 74  Transitional—amendments of section 53 of the _Chemical Weapons (Prohibition) Act 1994_
 
 Despite the repeal of subsection 53(3) of the Chemical Weapons (Prohibition) Act 1994 made by this Schedule, that subsection continues to apply, in relation to an inspection that began before the commencement of this item, as if the repeal had not happened.
 
-75  Application of amendments—section 102 of the Chemical Weapons (Prohibition) Act 1994
+## 75  Application of amendments—section 102 of the _Chemical Weapons (Prohibition) Act 1994_
 
 The amendments of subsections 102(2) and (3) of the _Chemical Weapons (Prohibition) Act 1994_ made by this Schedule, to the extent that they relate to an eligible person covered by paragraph 102(1)(f) of that Act, apply to information acquired, and documents given, after the commencement of this item.
-
-* * *
-
-_Foreign Affairs and Trade Legislation Amendment (Application of Criminal Code) Act 2001 (No. 35, 2001)_
-
-4  Application of amendments
-
-             (1)  Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-
-             (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
  
