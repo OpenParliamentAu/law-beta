@@ -1,297 +1,329 @@
-![](http://www.comlaw.gov.au/Details/C2005C00074/Html/AuthNonoperHoldComSupLevyImp98_WD02_files/image002.gif)<o:p></o:p>
+**
 
-# Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998<o:p></o:p>
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998 
+**
 
-**Act No. 52 of 1998 as amended<o:p></o:p>**
 
-This compilation was prepared on <st1:date month="2" day="24" year="2005">24 February 2005</st1:date>
- taking into account amendments up to Act No. 13 of 2005<o:p></o:p>
 
-The text of any of those amendments not in force
- on that date is appended in the Notes section<o:p></o:p>
 
-The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section<o:p></o:p>
 
-Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, <st1:city><st1:place>Canberra</st1:place></st1:city><o:p></o:p>
 
-# Contents<o:p></o:p>
+**
 
-[1](#1).            Short title [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                                        </span>
+###  Long Title 
+**
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 1  Short title [_see_ Note 1] 
+This Act may be cited as the _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_.
 
-[2](#2).            Commencement [_see_ Note 1]<span style="mso-tab-count:1 dotted">                                                               </span>
+ 
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 2  Commencement [_see_ Note 1] 
+<dt>(1)</dt><dd>This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.</dd> <dt>(2)</dt><dd>If this Act commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year subject to the modifications specified in the regulations. </dd> 
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 3  Act binds the Crown 
+This Act binds the Crown in each of its capacities.
 
-[3](#3).            Act binds the Crown<span style="mso-tab-count:1 dotted">                                                                           </span>
+ 
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 4  External Territories 
+This Act extends to each external Territory.
 
-[4](#4).            External Territories<span style="mso-tab-count:1 dotted">                                                                              </span>
+ 
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 5  Definitions 
+In this Act, unless the contrary intention appears:
 
-[5](#5).            Definitions<span style="mso-tab-count:1 dotted">                                                                                           </span>
+ 
+<dl compact=""><dl compact="">
 
-[6](#6).            Imposition of authorised non-operating holding companies supervisory levy<span style="mso-tab-count:1">       </span>
+_authorised NOHC_ has the same meaning as in the _Banking Act 1959_.
 
-[7](#7).            Amount of levy<span style="mso-tab-count:1 dotted">                                                                                   </span>
+ </dl></dl>
 
-[8](#8).            Calculation of indexation factor<span style="mso-tab-count:1 dotted">                                                           </span>
+<dl compact=""><dl compact="">
 
-[9](#9).            Regulations<span style="mso-tab-count:1 dotted">                                                                                          </span>
+Note:	NOHC is short for non-operating holding company.
 
-**Notes<span style="mso-tab-count: 1">                                                                                                                                              </span>** 
+ </dl></dl>
 
-## An Act to impose a levy on authorised non-operating holding companies<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt;mso-bidi-font-size:13.0pt; font-weight:normal">[_see_ Note 1]</span><o:p></o:p>
+_indexation factor_ means the indexation factor calculated under
 
-                   This Act may be cited as the _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_.<o:p></o:p>
+section 8\. _index number_, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter. _levy imposition day_, in relation to an authorised NOHC for a financial year, means:  </dl></dl>
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt;mso-bidi-font-size:13.0pt; font-weight:normal">[_see_ Note 1]</span><o:p></o:p>
+<dl compact=""><dl compact=""><dl compact="">
 
-             (1)  This Act commences on the commencement of the _Australian Prudential Regulation Authority Act 1998_.<o:p></o:p>
+<dt>(a)</dt><dd>if the authorised NOHC is an authorised NOHC on 1 July of the financial
 
-             (2)  If this Act commences during a financial year (but not on 1 July of that financial year), this Act has effect in relation to that financial year subject to the modifications specified in the regulations.<o:p></o:p>
+year&#151;that day; or</dd>
 
-##### <a id="3"></a>3  Act binds the Crown<o:p></o:p>
+<dt>(b)</dt><dd>in any other case&#151;the day, during the financial year, on which the
 
-                   This Act binds the Crown in each of its capacities.<o:p></o:p>
+authorised NOHC becomes an authorised NOHC.
 
-##### <a id="4"></a>4  <st1:place><st1:placename>External</st1:placename> <st1:placetype>Territories</st1:placetype></st1:place><o:p></o:p>
+</dd>
 
-                   This Act extends to each external Territory.<o:p></o:p>
+</dl></dl></dl>
 
-##### <a id="5"></a>5  Definitions<o:p></o:p>
+<def><dl compact=""><dl compact="">
 
-                   In this Act, unless the contrary intention appears:<o:p></o:p>
+_statutory upper limit_ means:
 
-                    <a name="authorised-nohc"></a>**_authorised NOHC_** means an authorised NOHC within the meaning of either:
+ </dl></dl>
 
-                     (a)  the _Banking Act 1959_; or
+<dl compact=""><dl compact=""><dl compact="">
 
-                     (b)  the _Insurance Act 1973_.
+<dt>(a)</dt><dd>in relation to the first financial year that ends after this Act
 
-Note:          NOHC is short for non-operating holding company.
+commences&#151;$500,000; or</dd>
 
-                    <a name="index-factor"></a>**_indexation factor_** means the indexation factor calculated under section 8.<o:p></o:p>
+<dt>(b)</dt><dd>in relation to a later financial year&#151;the amount calculated by
 
-                    <a name="index-number"></a>**_index number_**, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter.<o:p></o:p>
+multiplying the statutory upper limit for the previous financial year by the
 
-                    <a name="levi-imposit-dai"></a>**_levy imposition day_**, in relation to an authorised NOHC for a financial year, means:<o:p></o:p>
+indexation factor for the later financial year.
 
-                     (a)  if the authorised NOHC is an authorised NOHC on 1 July of the financial year—that day; or<o:p></o:p>
+</dd>
 
-                     (b)  in any other case—the day, during the financial year, on which the authorised NOHC becomes an authorised NOHC.<o:p></o:p>
+</dl></dl></dl>
 
-                    <a name="statutori-upper-limit"></a>**_statutory upper limit_** means:<o:p></o:p>
+<center>Back to Top</center>
 
-                     (a)  in relation to the financial year commencing on <st1:date month="7" day="1" year="2005">1 July 2005</st1:date>—$1,500,000; or
+**
 
-                     (b)  in relation to a later financial year—the amount calculated by multiplying the statutory upper limit for the previous financial year by the indexation factor for the later financial year.<o:p></o:p>
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 6  Imposition of authorised non-operating holding companies supervisory levy 
+**
 
-##### <a id="6"></a>6  Imposition of authorised non-operating holding companies supervisory levy<o:p></o:p>
+<dl compact="">
 
-                   Levy payable in accordance with subsection 8(2) of the _Financial Institutions Supervisory Levies Collection Act 1998_ is imposed.<o:p></o:p>
+		Levy payable in accordance with subsection 8(2) of the _Financial Institutions Supervisory Levies Collection Act 1998_ is imposed.
 
-##### <a id="7"></a>7  Amount of levy<o:p></o:p>
+ </dl>
 
-             (1)  Subject to subsection (2), the amount of levy payable by an authorised NOHC for a financial year is:
+**
 
-                     (a)  if the authorised NOHC is an authorised NOHC within the meaning of the _Banking Act 1959_—the amount determined in writing by the Treasurer for the purpose of this paragraph in relation to the financial year; or
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 7  Amount of levy 
+**
 
-                     (b)  if the authorised NOHC is an authorised NOHC within the meaning of the _Insurance Act 1973_—the amount determined in writing by the Treasurer for the purpose of this paragraph in relation to the financial year.
+ <dl compact="">
 
-The amount determined under paragraph (a) or (b) must not exceed the statutory upper limit as at the time when the determination is made.
+<dt>(1)</dt><dd>Subject to subsection (2), the amount of levy payable by an authorised
 
-             (2)  If the levy imposition day for the authorised NOHC for the financial year is later than 1 July in the financial year, the amount of levy payable by the authorised NOHC for the financial year is the amount worked out using the following formula:<o:p></o:p>
+NOHC for a financial year is the amount determined in writing by the Treasurer
 
-![](http://www.comlaw.gov.au/Details/C2005C00074/Html/AuthNonoperHoldComSupLevyImp98_WD02_files/image004.gif)<o:p></o:p>
+for the purpose of this section in relation to the financial year. The amount
 
-             (3)  A determination under subsection (1) is a disallowable instrument for the purposes of section 46A of the _Acts Interpretation Act 1901_.<o:p></o:p>
+determined must not exceed the statutory upper limit as at the time when the
 
-##### <a id="8"></a>8  Calculation of indexation factor<o:p></o:p>
+determination is made.</dd> <dt>(2)</dt><dd>If the levy imposition day for the authorised NOHC for the financial year is later than 1 July in the financial year, the amount of levy payable by the authorised NOHC for the financial year is the amount worked out using the following formula: </dd> </dl>
 
-             (1)  The indexation factor for a financial year is the number worked out by:
+<sub> ![A graphic exists here.](http://www.comlaw.gov.au/Details/C2004C00961/Html/A89A0A9FFD892CE0CA256F710052186E/$FILE/1202.gif)</sub>
 
-                     (a)  dividing the index number for the March quarter immediately preceding that financial year by the index number for the March quarter immediately preceding that first-mentioned March quarter; and
+<dl compact="">
 
-                     (b)  adding 0.030 to the number worked out under paragraph (a).
+<dt>(3)</dt><dd>A determination under subsection (1) is a disallowable instrument for the
 
-             (2)  The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the 4th decimal place is more than 4.<o:p></o:p>
+purposes of section 46A of the _Acts Interpretation Act 1901_.
 
-             (3)  Calculations under paragraph (1)(a):<o:p></o:p>
+</dd> </dl>
 
-                     (a)  are to be made using only the index numbers published in terms of the most recently published reference base for the Consumer Price Index; and<o:p></o:p>
+**
 
-                     (b)  are to be made disregarding index numbers that are published in substitution for previously published index numbers (except where the substituted numbers are published to take account of changes in the reference base).<o:p></o:p>
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 8  Calculation of indexation factor 
+**
 
-##### <a id="9"></a>9  Regulations<o:p></o:p>
+ <dl compact="">
 
-                   The Governor-General may make regulations for the purposes of subsection 2(2).<o:p></o:p>
+<dt>(1)</dt><dd>The indexation factor for a financial year is the number worked out by
 
-# Notes to the _<span style="mso-no-proof:yes">Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998</span>_<o:p></o:p>
+dividing the index number for the March quarter immediately preceding that
 
-### Note 1<o:p></o:p>
+financial year by the index number for the March quarter immediately preceding
 
-The _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_ as shown in this compilation comprises Act No. 52, 1998 amended as indicated in the Tables below.<o:p></o:p>
+that first-mentioned March quarter.</dd> <dt>(2)</dt><dd>The indexation factor is to be calculated to 3 decimal places, but increased by .001 if the 4th decimal place is more than 4.</dd> <dt>(3)</dt><dd>Calculations under subsection (1): </dd> </dl>
 
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
+<dl compact=""><dl compact=""><dl compact="">
 
-### Table of Acts<o:p></o:p>
+<dt>(a)</dt><dd>are to be made using only the index numbers published in terms of the most
 
-<table>
-<colgroup>
-  <col width="30%">
-  <col width="16%">
-  <col width="18%">
-  <col width="22%">
-  <col width="14%">
-</colgroup>
+recently published reference base for the Consumer Price Index; and</dd>
 
-<thead>
-  <tr>
-    <td>
-      <div>Act <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Number 
-and year <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Date 
-of Assent <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Date of commencement <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>Application, saving or transitional provisions <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998 <o:p></o:p></div>
+<dt>(b)</dt><dd>are to be made disregarding index numbers that are published in
+
+substitution for previously published index numbers (except where the
+
+substituted numbers are published to take account of changes in the reference
+
+base).
+
+</dd>
+
+</dl></dl></dl>
+
+**
+
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998- SECT 9  Regulations 
+**
+
+ <dl compact="">
+
+		The Governor-General may make regulations for the purposes of subsection 2(2).
+
+ </dl>
+
+<center>**
+
+###  AUTHORISED NON-OPERATING HOLDING COMPANIES SUPERVISORY LEVY IMPOSITION ACT 1998<centreit>Notes to the _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_ </centreit>
+**</center>
+
+**Note 1**
+
+The _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_ as shown in this consolidation comprises Act No. 52, 1998 amended as indicated in the Tables below.
+
+**Table of Acts**
+
+<table><tr align="left">
+  <td colspan="1" align="left">
+    <div>Act</div>
+
   </td>
-  <td>
-    <div>52, 1998 <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>Number 
+and year</div>
+
   </td>
-  <td>
-    <div><st1:date year="1998" day="29" month="6">29 June 1998</st1:date> <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>Date 
+of Assent</div>
+
   </td>
-  <td>
-    <div><st1:date year="1998" day="1" month="7">1 July 1998</st1:date>( <i style="mso-bidi-font-style:normal">see</i>s. 2) <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>Date of commencement</div>
+
   </td>
-  <td>
-    <div><o:p> </o:p></div>
+  <td colspan="1" align="left">
+    <div>Application, saving or transitional provisions</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 <o:p></o:p></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998</i></div>
+
   </td>
-  <td>
-    <div>44, 1999 <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>52, 1998</div>
+
   </td>
-  <td>
-    <div><st1:date year="1999" day="17" month="6">17 June 1999</st1:date> <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>29 June 1998</div>
+
   </td>
-  <td>
-    <div>Schedule 6 (item 5): Royal Assent <i style="mso-bidi-font-style:normal">(a)</i> <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>1 July 1998 ( <i>see</i>s.&#160;2)</div>
+
   </td>
-  <td>
-    <div>— <o:p></o:p></div>
+  <td colspan="1" align="left">
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>Authorised Non-operating Holding Companies Supervisory Levy Imposition Amendment Act 2005 <o:p></o:p></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div><i>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999</i></div>
+
   </td>
-  <td>
-    <div>13, 2005 <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>44, 1999</div>
+
   </td>
-  <td>
-    <div><st1:date month="2" day="22" year="2005">22 Feb 2005</st1:date> <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>17 June 1999</div>
+
   </td>
-  <td>
-    <div><st1:date month="2" day="22" year="2005">22 Feb 2005</st1:date> <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>Schedule 6 (item&#160;5): Royal Assent <i>(a)</i></div>
+
   </td>
-  <td>
-    <div>Sch. 1 (item 6)</div>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
   </td>
 </tr></table>
 
-_(a)_     The _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_ was amended by Schedule 6 (item 5) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(1) of which provides as follows:<o:p></o:p>
+_(a)_	The _Authorised Non-operating Holding Companies Supervisory Levy Imposition Act 1998_ was amended by Schedule 6 (item 5) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsection 3(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.<o:p></o:p>
+	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-## Table of Amendments<o:p></o:p>
+**Table of Amendments**
 
-<table>
-<colgroup>
-  <col width="34%">
-  <col width="66%">
-</colgroup>
+<table><tr align="left">
+  <th colspan="1" align="left">
+    <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
 
-<thead>
-  <tr>
-    <td colspan="2">
-      <div>ad. = added or inserted  am. = amended  rep. = repealed  rs. = repealed and substituted <o:p></o:p></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>Provision affected <o:p></o:p> </div>
-    </td>
-    <td>
-      <div>How affected <o:p></o:p> </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>S. 5  <o:p></o:p></div>
+  </th>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>Provision affected</div>
+
   </td>
-  <td>
-    <div>am. No. 13, 2005 <o:p></o:p></div>
+  <td colspan="1" align="left">
+    <div>How affected</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div>S. 7  <o:p></o:p></div>
+<tr align="left">
+  <td colspan="1" align="left">
+    <div>S. 8</div>
+
   </td>
-  <td>
-    <div>am. No. 13, 2005 <o:p></o:p> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8 <span style="mso-tab-count:1 dotted"></span> <o:p></o:p> </div>
-  </td>
-  <td>
-    <div>am. No. 44, 1999; No. 13, 2005 <o:p></o:p> </div>
+  <td colspan="1" align="left">
+    <div>am. No. 44, 1999</div>
+
   </td>
 </tr>
-<tr>
-  <td>
-    <div> <o:p> </o:p> </div>
+<tr align="left">
+  <td colspan="1" align="left">
+
   </td>
-  <td>
-    <div> <o:p> </o:p> </div>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
+  </td>
+</tr>
+<tr align="left">
+  <td colspan="1" align="left">
+
+  </td>
+  <td colspan="1" align="left">
+
   </td>
 </tr></table>
 
-## Table A
+<dl compact="">
 
-### Application, saving or transitional provisions
+ </dl>
 
-_Authorised Non-operating Holding Companies Supervisory Levy Imposition Amendment Act 2005 (No. 13, 2005)<o:p></o:p>_
+</def></def>
 
-## Schedule 1<o:p></o:p>
 
-## 6  Application
-
-The amendments made by this Schedule apply in relation to levy payable for:
-
-                     (a)  the financial year commencing on <st1:date month="7" day="1" year="2005">1 July 2005</st1:date>; and
-
-                     (b)  each succeeding financial year.
-
-<o:p> </o:p>
