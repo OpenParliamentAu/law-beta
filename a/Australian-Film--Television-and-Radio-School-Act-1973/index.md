@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00202/Html/d033e69c-7164-4b9a-943e-05eb9d323d8c_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00175/Html/AusFilmTelRadSchool73WD02_image001.gif)
 
 # Australian Film, Television and Radio School Act 1973
 
 **Act No. 95 of 1973 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 1 July 2008
+ taking into account amendments up to Act No. 13 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -142,7 +142,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="acting-director"></a>**_Acting Director_** means a person appointed under section 31 to act as the Director.
 
-                    <a name="appoint"></a><a name="appointed"></a>**_appointed_** includes re‑appointed, and **_appointment_** has a corresponding meaning.
+                    <a name="appoint"></a><a name="appointed"></a>**_appointed_** includes re-appointed, and **_appointment_** has a corresponding meaning.
 
                     <a name="broadcast"></a><a name="broadcast"></a>**_broadcast_** means to transmit by way of television or radio, and **_broadcasting_** has a corresponding meaning.
 
@@ -150,13 +150,11 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="director"></a>**_Director_** means the Director of the School appointed under section 24.
 
-                    <a name="ex-officio-member"></a>**_ex‑officio member_** means a member, being the Director or an Acting Director.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
+                    <a name="ex-officio-member"></a>**_ex-officio member_** means a member, being the Director or an Acting Director.
 
                     <a name="member"></a>**_member_** means a member of the Council.
 
-                    <a name="member-staff-school"></a>**_member of the staff of the School_** means, except in section 21, a person who is employed on a full‑time basis under section 34, being a person who has been so employed, or whose term of employment is, for a period of 12 months or more.
+                    <a name="member-staff-school"></a>**_member of the staff of the School_** means, except in section 21, a person who is employed on a full-time basis under section 34, being a person who has been so employed, or whose term of employment is, for a period of 12 months or more.
 
                     <a name="program"></a>**_program_** means:
 
@@ -198,7 +196,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  to conduct such seminars and courses of education or training for persons engaged, or to be engaged, directly or indirectly, in connexion with the production of programs as are approved by the Council;
 
-                     (d)  to co‑operate and make arrangements with other institutions and persons for purposes in connexion with the production of programs or the provision of education or training of the kind referred to in paragraph (a);
+                     (d)  to co-operate and make arrangements with other institutions and persons for purposes in connexion with the production of programs or the provision of education or training of the kind referred to in paragraph (a);
 
                      (e)  for purposes in connexion with the production of programs or the provision of education or training of the kind referred to in paragraph (a), to provide facilities for, and to offer the services of the staff of the School to, such other institutions or persons as are approved by the Council;
 
@@ -246,7 +244,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  a student of the School elected by the students of the School in the manner prescribed;
 
-                     (d)  3 members appointed by the Governor‑General; and
+                     (d)  3 members appointed by the Governor-General; and
 
                      (e)  3 members of Convocation appointed by the Council.
 
@@ -256,7 +254,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
              (6)  The appointment or election of a member is not invalid by reason only of a defect or irregularity in connexion with the appointment or election.
 
-             (7)  The term of office of a member shall be as provided by this Act, but, subject to section 11, a member is eligible for re‑appointment or re‑election.
+             (7)  The term of office of a member shall be as provided by this Act, but, subject to section 11, a member is eligible for re-appointment or re-election.
 
              (8)  Subject to this Act:
 
@@ -268,13 +266,13 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                     <a name="staff-member"></a>**_staff member_** means a person who:
 
-                     (a)  is employed on a full‑time or part‑time basis under section 34; and
+                     (a)  is employed on a full-time or part-time basis under section 34; and
 
                      (b)  has been so employed, or whose term of employment is, for at least 12 months.
 
 ##### <a id="9"></a>9  Members elected by members of staff of School
 
-             (1)  Except as otherwise provided by this section, the member elected under paragraph 8(1)(b) holds office, subject to this Act, for a period of one year and the term of office of the member shall not commence before the expiration of the term of office of the member whose place the first‑mentioned member fills.
+             (1)  Except as otherwise provided by this section, the member elected under paragraph 8(1)(b) holds office, subject to this Act, for a period of one year and the term of office of the member shall not commence before the expiration of the term of office of the member whose place the first-mentioned member fills.
 
              (2)  If the member has ceased to hold office before the expiration of his or her term of office, a member shall, if the Minister so directs, be elected under paragraph 8(1)(b) to hold office from the date of his or her election until the expiration of that term.
 
@@ -318,27 +316,27 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="13"></a>13  Chair and Deputy Chair of Council
 
-             (1)  Subject to subsection (3), the Governor‑General shall appoint a member of the Council to be the Chair of the Council.
+             (1)  Subject to subsection (3), the Governor-General shall appoint a member of the Council to be the Chair of the Council.
 
              (2)  Subject to subsection (3), the Council shall appoint a member of the Council to be the Deputy Chair of the Council.
 
-             (3)  The Governor‑General shall not appoint as Chair, and the Council shall not appoint as Deputy Chair, an _ex‑officio_ member or a member referred to in paragraph 8(1)(b) or (c).
+             (3)  The Governor-General shall not appoint as Chair, and the Council shall not appoint as Deputy Chair, an _ex-officio_ member or a member referred to in paragraph 8(1)(b) or (c).
 
              (4)  The member appointed as Chair or Deputy Chair holds office as Chair or Deputy Chair until the expiration of the member’s term of office as a member that is current at the time of the member’s appointment, but ceases to be the Chair or Deputy Chair if he or she ceases to be a member, and may resign from office as Chair or Deputy Chair by writing signed by the member and delivered:
 
-                     (a)  in the case of the Chair—to the Governor‑General; and
+                     (a)  in the case of the Chair—to the Governor-General; and
 
                      (b)  in the case of the Deputy Chair—to the Chair.
 
-             (5)  A person is eligible to be re‑appointed as the Chair or Deputy Chair.
+             (5)  A person is eligible to be re-appointed as the Chair or Deputy Chair.
 
 ##### <a id="14"></a>14  Resignation of members
 
-                   A member, other than an _ex‑officio_ member, may resign from office by writing signed by the member and delivered to the Governor‑General.
+                   A member, other than an _ex-officio_ member, may resign from office by writing signed by the member and delivered to the Governor-General.
 
 ##### <a id="15"></a>15  Dismissal of members
 
-                   The Governor‑General may remove a member, other than an _ex‑officio_ member, from office on the ground of misbehaviour or physical or mental incapacity.
+                   The Governor-General may remove a member, other than an _ex-officio_ member, from office on the ground of misbehaviour or physical or mental incapacity.
 
 ##### <a id="16"></a>16  Fees and allowances
 
@@ -350,15 +348,15 @@ Note:          The _Commonwealth Authorities and Companies Act
 
 ##### <a id="17"></a>17  Leave of absence
 
-             (1)  A full‑time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+             (1)  A full-time member has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Council may grant a full‑time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Council determines.
+             (2)  The Council may grant a full-time member leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Council determines.
 
-             (3)  The Council may grant a part‑time member leave to be absent from a meeting or meetings of the Council.
+             (3)  The Council may grant a part-time member leave to be absent from a meeting or meetings of the Council.
 
 ##### <a id="18"></a>18  Vacation of office
 
-                   If a member, other than an _ex‑officio_ member:
+                   If a member, other than an _ex-officio_ member:
 
                      (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
@@ -366,7 +364,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                      (c)  without reasonable excuse, fails to comply with the member’s obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-the Governor‑General shall remove the member from office.
+the Governor-General shall remove the member from office.
 
 ##### <a id="20"></a>20  Meetings of Council
 
@@ -422,7 +420,7 @@ the Governor‑General shall remove the member from office.
 
              (1)  Until Convocation is constituted, the Council shall cause to be kept a roll of all persons who are entitled to become members of Convocation.
 
-             (2)  When the number of persons so enrolled amounts to 100, the Council shall report the fact to the Governor‑General.
+             (2)  When the number of persons so enrolled amounts to 100, the Council shall report the fact to the Governor-General.
 
              (3)  The report referred to in subsection (2) shall be published in the _Gazette_, and Convocation shall be deemed to be constituted on the day of that publication.
 
@@ -436,13 +434,13 @@ the Governor‑General shall remove the member from office.
 
 ##### <a id="24"></a>24  Director of School
 
-             (1)  There shall be a Director of the School, who shall be appointed by the Governor‑General on the recommendation of the Council.
+             (1)  There shall be a Director of the School, who shall be appointed by the Governor-General on the recommendation of the Council.
 
-             (2)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor‑General.
+             (2)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Governor-General.
 
 ##### <a id="25"></a>25  Tenure of office
 
-                   The Director shall be appointed for a period not exceeding 7 years, but is eligible for re‑appointment.
+                   The Director shall be appointed for a period not exceeding 7 years, but is eligible for re-appointment.
 
 ##### <a id="26"></a>26  Functions of Director
 
@@ -458,7 +456,7 @@ the Governor‑General shall remove the member from office.
 
 ##### <a id="28"></a>28  Resignation
 
-                   The Director may resign from office by writing signed by the Director and delivered to the Governor‑General.
+                   The Director may resign from office by writing signed by the Director and delivered to the Governor-General.
 
 ##### <a id="29"></a>29  Vacation of office of Director
 
@@ -470,9 +468,9 @@ the Governor‑General shall remove the member from office.
 
                      (c)  without reasonable excuse, fails to comply with the Director’s obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
 
-the Governor‑General shall remove the Director from office.
+the Governor-General shall remove the Director from office.
 
-             (2)  The Governor‑General may remove the Director from office for misbehaviour or physical or mental incapacity.
+             (2)  The Governor-General may remove the Director from office for misbehaviour or physical or mental incapacity.
 
 ##### <a id="30"></a>30  Director not to undertake any other work
 
@@ -482,21 +480,21 @@ the Governor‑General shall remove the Director from office.
 
 ##### <a id="31"></a>31  Acting Director
 
-             (1)  The Governor‑General may appoint a person to act as the Director:
+             (1)  The Governor-General may appoint a person to act as the Director:
 
                      (a)  during a vacancy in the office of Director, whether or not an appointment has previously been made to the office; or
 
                      (b)  during any period, or during all periods, when the Director is, or is about to be, absent from duty or from Australia or, for any reason, unable to perform the functions of the Director’s office.
 
-             (2)  The Governor‑General may:
+             (2)  The Governor-General may:
 
                      (a)  subject to this Act, on the recommendation of the Council, determine the terms and conditions of appointment of an Acting Director; and
 
                      (b)  at any time terminate such an appointment.
 
-             (3)  Where a person is acting as the Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, that person may continue so to act until the Governor‑General otherwise directs or the vacancy is filled.
+             (3)  Where a person is acting as the Director in accordance with paragraph (1)(b) and the office of Director becomes vacant while that person is so acting, that person may continue so to act until the Governor-General otherwise directs or the vacancy is filled.
 
-             (4)  The appointment of an Acting Director ceases to have effect if the Acting Director resigns the appointment by writing signed by the Acting Director and delivered to the Governor‑General.
+             (4)  The appointment of an Acting Director ceases to have effect if the Acting Director resigns the appointment by writing signed by the Acting Director and delivered to the Governor-General.
 
              (5)  While the appointment of an Acting Director remains in force, the Acting Director has, and may exercise, all the powers and shall perform all the functions of the Director.
 
@@ -532,7 +530,7 @@ the Governor‑General shall remove the Director from office.
 
              (1)  There are payable to the School such moneys as are appropriated by the Parliament for the purposes of the School.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the School.
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, moneys referred to in subsection (1) are to be paid to the School.
 
 ##### <a id="39"></a>39  Application of moneys
 
@@ -596,7 +594,7 @@ the Governor‑General shall remove the Director from office.
 
 ##### <a id="51"></a>51  Regulations
 
-                   The Governor‑General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters that are required or permitted by this Act to be prescribed or are necessary or convenient to be prescribed for carrying out or giving effect to this Act, and, in particular, providing for:
 
                      (a)  the manner and time of convening, holding and adjourning meetings of Convocation;
 
@@ -923,30 +921,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 24, 25): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Australian Film, Television and Radio School Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
 
-                 (1)   Subject to this section, this Act shall come into operation on the twenty‑eighth day after the day on which it receives the Royal Assent.
+                 (1)   Subject to this section, this Act shall come into operation on the twenty-eighth day after the day on which it receives the Royal Assent.
 
-_(b)_     The _Australian Film, Television and Radio School Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
+_(b)_    The _Australian Film, Television and Radio School Act 1973_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act shall come into operation on the day on which it receives the Royal Assent.
 
@@ -1026,7 +1007,7 @@ _(g)_     The _Australian Film, Television and Radio School Act 1973_ wa
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 110, 1976; No. 76, 1986; No. 5, 2011</div>
+    <div>am. No. 110, 1976; No. 76, 1986</div>
   </td>
 </tr>
 <tr>
@@ -1362,7 +1343,7 @@ _(g)_     The _Australian Film, Television and Radio School Act 1973_ wa
     <div>S. 36</div>
   </td>
   <td>
-    <div>am. No. 36, 1978; No. 5, 2011</div>
+    <div>am. No. 36, 1978</div>
   </td>
 </tr>
 <tr>
