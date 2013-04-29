@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2010C00756/Html/DefServiceHomes1918WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00460/Html/86080597F22DBC51CA257759000973F9/$FILE/DefServiceHomes1918WD02_image001.gif)
 
 # Defence Service Homes Act 1918
 
 **Act No. 43 of 1918 as amended**
 
-This compilation was prepared on 23 November 2010
- taking into account amendments up to Act No. 120 of 2010
+This compilation was prepared on 5 July 2010
+taking into account amendments up to Act No. 83 of 2010
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -188,8 +189,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [38G](#38G).       Payments for fire brigade services
 
-[38GA](#38GA).    Payments for State Emergency Services
-
 [38H](#38H).       Limitation of liability of Commonwealth
 
 **Part VII—Finance**
@@ -232,15 +231,16 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
+
 ## An Act relating to the provision of assistance to members of the Defence Force and certain other persons to acquire homes, or for other purposes
 
 ## Part I—Preliminary
 
-##### <a id="1"></a>1  Short title <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title <span style="FONT-SIZE: 9pt; FONT-WEIGHT: normal">[_see_ Note 1]</span>
 
                    This Act may be cited as the _Defence Service Homes Act 1918_.
 
-##### <a id="2"></a>2  Commencement <span style="font-size:9.0pt; font-weight:normal">[_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement <span style="FONT-SIZE: 9pt; FONT-WEIGHT: normal">[_see_ Note 1]</span>
 
                    This Act shall commence on a date to be fixed by Proclamation.
 
@@ -450,7 +450,7 @@ and includes a widow, widower or dependent parent of a person specified in any o
 
                              (ii)  a lease granted for a term of not less than 99 years; or
 
-                            (iii)  in the case of Norfolk  Island—a lease granted for a term of not less than 28 years; or
+                            (iii)  in the case of Norfolk Island—a lease granted for a term of not less than 28 years; or
 
                      (e)  a suburban holding held by him or her under the Crown Lands Consolidation Act, 1913 of New South Wales or under that Act as amended at any time or under an Act enacted in substitution for that Act, being a suburban holding an application for which has been confirmed in accordance with the law of that State; or
 
@@ -1962,7 +1962,7 @@ the following single rate of interest is instead taken to be payable on the bala
 
              (2)  This is how to work out the **_blended interest rate_** for the advance or amount:
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: windowtext 1pt solid; PADDING-BOTTOM: 5pt; PADDING-LEFT: 5pt; PADDING-RIGHT: 5pt; MARGIN-LEFT: 2cm; BORDER-TOP: windowtext 1pt solid; MARGIN-RIGHT: 0cm; BORDER-RIGHT: windowtext 1pt solid; PADDING-TOP: 5pt">
 
 _Method statement_
 
@@ -1990,9 +1990,7 @@ Step 5.    If:
 
               the **_blended interest rate_** is instead 4.5% per year.
 
-                   Note:             Steps 4 and 5 are needed because the amortisation of the limit of the advance or amount over the term of the loan or contract can cause small temporary deviations from the average of the various rates of interest over the term. Steps 4 and 5 prevent these deviations from affecting the calculation of the blended interest rate.
-
-* * *
+                   Note:             Steps 4 and 5 are needed because the amortisation of the limit of the advance or amount over the term of the loan or contract can cause small temporary deviations from the average of the various rates of interest over the term. Steps 4 and 5 prevent these deviations from affecting the calculation of the blended interest rate.</div>
 
              (3)  This is an example of how to work out the **_blended interest rate_** for an advance or amount:
 
@@ -2000,7 +1998,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                    The Step 1 calculations are:
 
-![](http://www.comlaw.gov.au/Details/C2010C00756/Html/DefServiceHomes1918WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00460/Html/86080597F22DBC51CA257759000973F9/$FILE/DefServiceHomes1918WD02_image002.gif)
 
                    Under Step 2, the $310 is divided by the total limit of $4,000, giving a result of 0.0775.
 
@@ -2142,7 +2140,7 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
                     <a name="insur-right"></a>**_Insurance rights_** means any rights, property or assets arising out of, or relating to, any Corporation insurance or insurance contract.
 
-##### <a id="38C"></a>38C  Insurance of dwelling-houses etc.
+##### <a id="38C"></a>38C  Insurance of dwelling-houses etc.
 
              (1)  The Commonwealth may undertake insurance of, or in relation to:
 
@@ -2370,12 +2368,6 @@ Example:    Assume that the limit of an advance is $4,000\. Interest is pa
 
              (2)  The amount of a payment under this section shall not be more than the amount that the Commonwealth would be liable to pay under the law of the State if the law applied to the Commonwealth.
 
-##### <a id="38GA"></a>38GA  Payments for State Emergency Services
-
-             (1)  Where under a law of a State a person carrying on in that State the business of insuring against the risk of loss of, or damage to, property is liable to make payments to the State, or to an authority of the State, to assist in meeting the cost of the State Emergency Service of the State, the Commonwealth may make payments to the State, or authority, for that purpose.
-
-             (2)  The amount of a payment under this section must not be more than the amount that the Commonwealth would be liable to pay under the law of the State if the law applied to the Commonwealth.
-
 ##### <a id="38H"></a>38H  Limitation of liability of Commonwealth
 
              (1)  The amount of the total liability of the Commonwealth to pay money to persons under this Part in relation to contracts of insurance to which it is a party, or that have effect as if the Commonwealth were a party, shall not at any time be more than the total amount of the insurance assets of the Commonwealth at that time.
@@ -2406,7 +2398,7 @@ Note:          The Account was established by subsection 5(3) 
 
                               (i)  a payment by it under a contract or arrangement referred to in section 38F; and
 
-                             (ii)  a payment by it under section 38G or 38GA; and
+                             (ii)  a payment by it under section 38G; and
 
                             (iii)  a payment by it that it is not legally required to make but that is of a kind that would be made by a person carrying on the business of insurance in accordance with sound commercial principles; and
 
@@ -2618,11 +2610,14 @@ Note:          For **_strict liability_**, see section 6.1 o
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters, which by this Act are required or permitted to be prescribed, or which are necessary or convenient to be prescribed, for giving effect to this Act and, in particular, making provision for, and in relation to, the undertaking of insurance by the Commonwealth under Part VI.
 
+
 # Schedule 1—Agreement between the Commonwealth of Australia and Westpac Banking Corporation
 
 _Subsection 4(1)_
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 5pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-LEFT: 144pt; BORDER-TOP: medium none; MARGIN-RIGHT: 144pt; BORDER-RIGHT: medium none; PADDING-TOP: 0cm">
+
+ </div>
 
 **TABLE OF CONTENTS**
 
@@ -3002,314 +2997,316 @@ In this Agreement except where the context otherwise requires:
   <col width="71%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Act:</div>
-  </td>
-  <td>
-    <div>means the Defence Service Homes Act 1918 as amended as at the date of signing of this Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Agreement:</div>
-  </td>
-  <td>
-    <div>means this Agreement between the Commonwealth and the Bank signed on the above date.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Amended Act:</div>
-  </td>
-  <td>
-    <div>means the Defence Service Homes Act 1918 as amended by the Amending Act or any subsequent amendment.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Amending Act:</div>
-  </td>
-  <td>
-    <div>means the Defence Service Homes Amendment Act 1988.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Arrears:</div>
-  </td>
-  <td>
-    <div>means any amount of principal and/or interest due and unpaid by a Borrower under a Specified Portfolio Asset or Subsidised Advance.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Balance:</div>
-  </td>
-  <td>
-    <div>means the original amount lent to a Borrower, less all actual repayments of principal and all prepayments of principal (including any moneys held pursuant to a loan interest offset arrangement) plus unpaid interest and unpaid fees.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Borrower:</div>
-  </td>
-  <td>
-    <div>means a person who is liable to pay the outstanding amount:</div>
-    <div>(a) of a Subsidised Advance in respect of which a subsidy is payable; or</div>
-    <div>(b) secured by a Specified Portfolio Asset which vests in the Bank under section 6B of the Amended Act in respect of which Subsidy is payable.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Business Day:</div>
-  </td>
-  <td>
-    <div>means a day upon which banks are open for business in Sydney.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Calendar Year:</div>
-  </td>
-  <td>
-    <div>means a period of twelve (12) months commencing on 1 January.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Certificate of Entitlement:</div>
-  </td>
-  <td>
-    <div>means a Certificate of Entitlement issued by the Commonwealth to an Entitled Applicant.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Consideration:</div>
-  </td>
-  <td>
-    <div>means the moneys payable by the Bank in accordance with Clause 3.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporation:</div>
-  </td>
-  <td>
-    <div>means the Defence Service Homes Corporation.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporation advance:</div>
-  </td>
-  <td>
-    <div>means an advance made under Section 20 of the Act as in force before the Date of Proclamation, being an advance made by the Corporation, whether before or after that day.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Date of Proclamation:</div>
-  </td>
-  <td>
-    <div>means the day on which section 10 of the Amending Act commences.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Entitled Applicant:</div>
-  </td>
-  <td>
-    <div>means a person who is determined by the Commonwealth to be entitled to a Corporation Advance, a Subsidised Advance, Instalment Relief or to a Transfer of Land and Subsidy pursuant to the Act and/or the Amended Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Establishment Fees:</div>
-  </td>
-  <td>
-    <div>means any fee charged by the Bank to a Housing Loan Customer relating to or dealing with the Bank’s services for the processing and determining of applications for owner occupied housing loans secured by first mortgage or applications for increased loan facilities in relation to housing loans, including the preparation and execution of all associated documentation and payment of such loans, including the management, repayment and discharge of the loan security, excluding all State and Commonwealth Government charges relating to stamping and registration of documents and legal costs and the Bank’s standard production and/or settlement fees.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Excess Credits:</div>
-  </td>
-  <td>
-    <div>means any amount paid by a Borrower in excess of the required monthly instalment on a Portfolio Asset and/or Subsidised Advance other than amounts which the Borrower elects to be applied as prepayment of principal pursuant to Sub-clause 9.7.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Year:</div>
-  </td>
-  <td>
-    <div>means a period of twelve (12) months commencing on 1 July.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Housing Loan Customer:</div>
-  </td>
-  <td>
-    <div>means a person who has obtained or requested a loan from the Bank to finance the purchase, construction, extension, repair, or refinance of a dwelling in which it is intended that the person reside and who qualifies in terms of the Bank’s lending criteria for owner occupied housing.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Instalment Relief:</div>
-  </td>
-  <td>
-    <div>means that relief provided to a Borrower by the Bank which is described in Sub-clause 8.4.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Limit:</div>
-  </td>
-  <td>
-    <div>means the original amount lent to a Borrower, as that amount is:</div>
-    <div>(a) reduced by any scheduled repayments of principal (whether made or not) and any prepayments of principal (excluding any moneys held pursuant to a loan interest offset arrangement), and</div>
-      <div>(b) increased by the amount of Instalment Relief granted by the Bank pursuant to a Certificate of Entitlement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Month:</div>
-  </td>
-  <td>
-    <div>means a period commencing at the beginning of a day of one of the twelve (12) months of the year and ending immediately before the beginning of the corresponding day of the next month or, if there is no such corresponding day, ending at the expiration of the next month.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Other Portfolio Agreements:</div>
-  </td>
-  <td>
-    <div>means all guarantees for the payment of moneys due to the Corporation as mortgagee under Portfolio Mortgages including all mortgage insurance contracts, deeds of postponement between the Corporation as first mortgagee and subsequent registered interest holders, other agreements and acknowledgements collateral to the Portfolio Assets.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Arrears:</div>
-  </td>
-  <td>
-    <div>means the total amount of principal and interest due and unpaid under all Specified Portfolio Assets and all Subsidised Advances.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Assets:</div>
-  </td>
-  <td>
-    <div>means all Portfolio Mortgages, Portfolio Contracts of Sale, Portfolio Supplementary Agreements, Portfolio Land and Other Portfolio Agreements.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Contracts of Sale:</div>
-  </td>
-  <td>
-    <div>means all existing contracts of sale as at the relevant Vesting Date entered into by the Corporation as vendor of the Portfolio Land.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Land:</div>
-  </td>
-  <td>
-    <div>means land which is subject to a contract of sale pursuant to Part IV, or Sections 36, 48 or 48C of the Act and which is held by the Corporation as registered proprietor, or legal owner, or as a lessee under a Crown lease as at the relevant Vesting Date.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Mortgages:</div>
-  </td>
-  <td>
-    <div>means all mortgages in which the Corporation has an interest as mortgagee as at the relevant Vesting Date, and includes all agreements and acknowledgements for further advances in accordance with the Act, all charges pursuant to Section 31 of the Act, and all mortgages to the Corporation as mortgagee pursuant to Section 36 or Section 48D of the Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Portfolio Supplementary Agreements:</div>
-  </td>
-  <td>
-    <div>means all rights and obligations of the Corporation pursuant to charges against Borrowers and acknowledgements by Borrowers pursuant to Section 18A (generally, land development costs) of the Act and agreements pursuant to Section 29AA and Section 29AB (generally, assistance to widows and others) of the Act and deeds of covenant between the Corporation as mortgagee and Borrowers or other persons.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Potential Portfolio Assets:</div>
-  </td>
-  <td>
-    <div>means those assets which have not vested but which would have been Specified Portfolio Assets had the relevant Vesting Dates fallen on 30 April 1989.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Rest Day:</div>
-  </td>
-  <td>
-    <div>means in respect of a Specified Portfolio Asset, the 1st day of each month on which day principal and interest will be due and payable in respect of the relevant Subsidised Advance Loan Account or, in respect of a Subsidised Advance, the 5th day of each month on which day principal and interest will be due and payable in respect of the relevant Subsidised Advance Loan Account.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Specified Portfolio Assets:</div>
-  </td>
-  <td>
-    <div>means all Portfolio Mortgages, Portfolio Contracts of Sale, and Portfolio Supplementary Agreements.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subsidised Advance:</div>
-  </td>
-  <td>
-    <div>means any advance made by the Bank in accordance with the Certificate of Entitlement, or an initial advance which the Bank is taken to have made pursuant to Section 37 of the Amended Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subsidised Advance Loan Account:</div>
-  </td>
-  <td>
-    <div>means an account established by the Bank for the purpose of administering a Specified Portfolio Asset or a Subsidised Advance.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subsidy:</div>
-  </td>
-  <td>
-    <div>means the interest subsidy referred to in Clause 11.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subsidy Scheme:</div>
-  </td>
-  <td>
-    <div>means the scheme for provision of Subsidy.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transfer of Land and Subsidy:</div>
-  </td>
-  <td>
-    <div>means a transfer of land or land and dwelling house subject to a Specified Portfolio Asset or a mortgage securing a Subsidised Advance.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Vesting Dates:</div>
-  </td>
-  <td>
-    <div>means the dates as determined by the Minister in accordance with the Amended Act.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Act:</div>
+    </td>
+    <td>
+      <div>means the Defence Service Homes Act 1918 as amended as at the date of signing of this Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Agreement:</div>
+    </td>
+    <td>
+      <div>means this Agreement between the Commonwealth and the Bank signed on the above date.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Amended Act:</div>
+    </td>
+    <td>
+      <div>means the Defence Service Homes Act 1918 as amended by the Amending Act or any subsequent amendment.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Amending Act:</div>
+    </td>
+    <td>
+      <div>means the Defence Service Homes Amendment Act 1988.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Arrears:</div>
+    </td>
+    <td>
+      <div>means any amount of principal and/or interest due and unpaid by a Borrower under a Specified Portfolio Asset or Subsidised Advance.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Balance:</div>
+    </td>
+    <td>
+      <div>means the original amount lent to a Borrower, less all actual repayments of principal and all prepayments of principal (including any moneys held pursuant to a loan interest offset arrangement) plus unpaid interest and unpaid fees.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Borrower:</div>
+    </td>
+    <td>
+      <div>means a person who is liable to pay the outstanding amount:</div>
+      <div>(a) of a Subsidised Advance in respect of which a subsidy is payable; or</div>
+      <div>(b) secured by a Specified Portfolio Asset which vests in the Bank under section 6B of the Amended Act in respect of which Subsidy is payable.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Business Day:</div>
+    </td>
+    <td>
+      <div>means a day upon which banks are open for business in Sydney.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Calendar Year:</div>
+    </td>
+    <td>
+      <div>means a period of twelve (12) months commencing on 1 January.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Certificate of Entitlement:</div>
+    </td>
+    <td>
+      <div>means a Certificate of Entitlement issued by the Commonwealth to an Entitled Applicant.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Consideration:</div>
+    </td>
+    <td>
+      <div>means the moneys payable by the Bank in accordance with Clause 3.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporation:</div>
+    </td>
+    <td>
+      <div>means the Defence Service Homes Corporation.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporation advance:</div>
+    </td>
+    <td>
+      <div>means an advance made under Section 20 of the Act as in force before the Date of Proclamation, being an advance made by the Corporation, whether before or after that day.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Date of Proclamation:</div>
+    </td>
+    <td>
+      <div>means the day on which section 10 of the Amending Act commences.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Entitled Applicant:</div>
+    </td>
+    <td>
+      <div>means a person who is determined by the Commonwealth to be entitled to a Corporation Advance, a Subsidised Advance, Instalment Relief or to a Transfer of Land and Subsidy pursuant to the Act and/or the Amended Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Establishment Fees:</div>
+    </td>
+    <td>
+      <div>means any fee charged by the Bank to a Housing Loan Customer relating to or dealing with the Bank’s services for the processing and determining of applications for owner occupied housing loans secured by first mortgage or applications for increased loan facilities in relation to housing loans, including the preparation and execution of all associated documentation and payment of such loans, including the management, repayment and discharge of the loan security, excluding all State and Commonwealth Government charges relating to stamping and registration of documents and legal costs and the Bank’s standard production and/or settlement fees.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Excess Credits:</div>
+    </td>
+    <td>
+      <div>means any amount paid by a Borrower in excess of the required monthly instalment on a Portfolio Asset and/or Subsidised Advance other than amounts which the Borrower elects to be applied as prepayment of principal pursuant to Sub-clause 9.7.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Year:</div>
+    </td>
+    <td>
+      <div>means a period of twelve (12) months commencing on 1 July.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Housing Loan Customer:</div>
+    </td>
+    <td>
+      <div>means a person who has obtained or requested a loan from the Bank to finance the purchase, construction, extension, repair, or refinance of a dwelling in which it is intended that the person reside and who qualifies in terms of the Bank’s lending criteria for owner occupied housing.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Instalment Relief:</div>
+    </td>
+    <td>
+      <div>means that relief provided to a Borrower by the Bank which is described in Sub-clause 8.4.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Limit:</div>
+    </td>
+    <td>
+      <div>means the original amount lent to a Borrower, as that amount is:</div>
+      <div>(a) reduced by any scheduled repayments of principal (whether made or not) and any prepayments of principal (excluding any moneys held pursuant to a loan interest offset arrangement), and</div>
+        <div>(b) increased by the amount of Instalment Relief granted by the Bank pursuant to a Certificate of Entitlement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Month:</div>
+    </td>
+    <td>
+      <div>means a period commencing at the beginning of a day of one of the twelve (12) months of the year and ending immediately before the beginning of the corresponding day of the next month or, if there is no such corresponding day, ending at the expiration of the next month.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Other Portfolio Agreements:</div>
+    </td>
+    <td>
+      <div>means all guarantees for the payment of moneys due to the Corporation as mortgagee under Portfolio Mortgages including all mortgage insurance contracts, deeds of postponement between the Corporation as first mortgagee and subsequent registered interest holders, other agreements and acknowledgements collateral to the Portfolio Assets.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Arrears:</div>
+    </td>
+    <td>
+      <div>means the total amount of principal and interest due and unpaid under all Specified Portfolio Assets and all Subsidised Advances.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Assets:</div>
+    </td>
+    <td>
+      <div>means all Portfolio Mortgages, Portfolio Contracts of Sale, Portfolio Supplementary Agreements, Portfolio Land and Other Portfolio Agreements.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Contracts of Sale:</div>
+    </td>
+    <td>
+      <div>means all existing contracts of sale as at the relevant Vesting Date entered into by the Corporation as vendor of the Portfolio Land.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Land:</div>
+    </td>
+    <td>
+      <div>means land which is subject to a contract of sale pursuant to Part IV, or Sections 36, 48 or 48C of the Act and which is held by the Corporation as registered proprietor, or legal owner, or as a lessee under a Crown lease as at the relevant Vesting Date.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Mortgages:</div>
+    </td>
+    <td>
+      <div>means all mortgages in which the Corporation has an interest as mortgagee as at the relevant Vesting Date, and includes all agreements and acknowledgements for further advances in accordance with the Act, all charges pursuant to Section 31 of the Act, and all mortgages to the Corporation as mortgagee pursuant to Section 36 or Section 48D of the Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Portfolio Supplementary Agreements:</div>
+    </td>
+    <td>
+      <div>means all rights and obligations of the Corporation pursuant to charges against Borrowers and acknowledgements by Borrowers pursuant to Section 18A (generally, land development costs) of the Act and agreements pursuant to Section 29AA and Section 29AB (generally, assistance to widows and others) of the Act and deeds of covenant between the Corporation as mortgagee and Borrowers or other persons.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Potential Portfolio Assets:</div>
+    </td>
+    <td>
+      <div>means those assets which have not vested but which would have been Specified Portfolio Assets had the relevant Vesting Dates fallen on 30 April 1989.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Rest Day:</div>
+    </td>
+    <td>
+      <div>means in respect of a Specified Portfolio Asset, the 1st day of each month on which day principal and interest will be due and payable in respect of the relevant Subsidised Advance Loan Account or, in respect of a Subsidised Advance, the 5th day of each month on which day principal and interest will be due and payable in respect of the relevant Subsidised Advance Loan Account.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Specified Portfolio Assets:</div>
+    </td>
+    <td>
+      <div>means all Portfolio Mortgages, Portfolio Contracts of Sale, and Portfolio Supplementary Agreements.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subsidised Advance:</div>
+    </td>
+    <td>
+      <div>means any advance made by the Bank in accordance with the Certificate of Entitlement, or an initial advance which the Bank is taken to have made pursuant to Section 37 of the Amended Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subsidised Advance Loan Account:</div>
+    </td>
+    <td>
+      <div>means an account established by the Bank for the purpose of administering a Specified Portfolio Asset or a Subsidised Advance.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subsidy:</div>
+    </td>
+    <td>
+      <div>means the interest subsidy referred to in Clause 11.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Subsidy Scheme:</div>
+    </td>
+    <td>
+      <div>means the scheme for provision of Subsidy.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transfer of Land and Subsidy:</div>
+    </td>
+    <td>
+      <div>means a transfer of land or land and dwelling house subject to a Specified Portfolio Asset or a mortgage securing a Subsidised Advance.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Vesting Dates:</div>
+    </td>
+    <td>
+      <div>means the dates as determined by the Minister in accordance with the Amended Act.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 1.2       _Interpretation_
 
@@ -3435,7 +3432,7 @@ The Consideration, subject always to Sub-clause 3.4, shall be payable by insta
 
   (i)  the first instalment shall be paid in the manner set out in Sub-clause 3.2.4; and
 
- (ii)  the second instalment shall be paid in the manner set out in Sub-clause 3.2.5.
+(ii)  the second instalment shall be paid in the manner set out in Sub-clause 3.2.5.
 
 3.3       _Manner of Payment_
 
@@ -3451,7 +3448,7 @@ The Commonwealth and the Bank agree that, in the event that the Date of Proclama
 
   (i)  by the payment in the sum of four hundred million ($400,000,000) seventy-five (75) days after the Date of Proclamation; and
 
- (ii)  by the payment of the balance of the Total Face Value one hundred and twenty (120) days after the Date of Proclamation or such other date as may be agreed between the parties, together with interest thereon calculated at the Interest Rate as from the Interest Commencement Date.
+(ii)  by the payment of the balance of the Total Face Value one hundred and twenty (120) days after the Date of Proclamation or such other date as may be agreed between the parties, together with interest thereon calculated at the Interest Rate as from the Interest Commencement Date.
 
 3.5       _Notice of Face Value_
 
@@ -3481,7 +3478,7 @@ The Bank and the Commonwealth agree that the Bank may audit the Face Value. Such
 
 3.7.2     Within fourteen (14) days of notice being given pursuant to Sub-clause 3.7.1 the parties shall meet with a view to agreeing on the correct sum for the Face Value.
 
-3.7.3     In the event that the parties are unable to agree within twenty-eight (28) days of first meeting, the parties will appoint an independent registered company auditor to conduct an audit of and determine the correct Face Value. In the event that the parties are unable to agree on the appointment of an independent auditor an auditor will be selected by the President of the Institute of Chartered   Accountants in Australia. The determination of Face Value by an independent auditor pursuant to this Clause shall be conclusive and binding on both parties. The fees and expenses of the auditor shall be borne equally by the parties.
+3.7.3     In the event that the parties are unable to agree within twenty-eight (28) days of first meeting, the parties will appoint an independent registered company auditor to conduct an audit of and determine the correct Face Value. In the event that the parties are unable to agree on the appointment of an independent auditor an auditor will be selected by the President of the Institute of Chartered Accountants in Australia. The determination of Face Value by an independent auditor pursuant to this Clause shall be conclusive and binding on both parties. The fees and expenses of the auditor shall be borne equally by the parties.
 
 3.7.4     If an auditor appointed pursuant to Sub-clause 3.7.3 makes a determination prior to the date for payment fixed pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the balance payable pursuant to the applicable Sub-clause shall be adjusted, if necessary, by reference to the determination. In the event that the procedures set out in Sub-clauses 3.6, 3.7.1, 3.7.2 and 3.7.3 are not completed prior to such date then the Bank shall pay to the Commonwealth the Total Face Value notified by the Corporation pursuant to Sub-clause 3.5, together with interest, in the manner set out in Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii). In the event that the auditor’s determination requires an adjustment to the sum paid pursuant to Sub-clause 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) the amount payable by either party as a result of the audit shall be paid, together with interest calculated at the Interest Rate, to the other party forthwith.
 
@@ -3517,7 +3514,7 @@ The Bank and the Commonwealth agree that the Bank may audit the Final Face Value
 
 3.10.2   Within fourteen (14) days of notice being given pursuant to Sub-clause 3.10.1 the parties shall meet with a view to agreeing on the correct sum for the Final Face Value.
 
-3.10.3   In the event that the parties are unable to agree within twenty-eight (28) days of first meeting, the parties will appoint an independent registered company auditor to conduct an audit of and determine the correct Final Face Value. In the event that the parties are unable to agree on the appointment of an independent auditor an auditor will be selected by the President of the Institute  of Chartered Accountants in Australia. The determination of Final Face Value by an independent auditor pursuant to this Clause shall be conclusive and binding on both parties. The fees and expenses of the auditor shall be borne equally by the parties.
+3.10.3   In the event that the parties are unable to agree within twenty-eight (28) days of first meeting, the parties will appoint an independent registered company auditor to conduct an audit of and determine the correct Final Face Value. In the event that the parties are unable to agree on the appointment of an independent auditor an auditor will be selected by the President of the Institute of Chartered Accountants in Australia. The determination of Final Face Value by an independent auditor pursuant to this Clause shall be conclusive and binding on both parties. The fees and expenses of the auditor shall be borne equally by the parties.
 
 3.10.4   If an auditor appointed pursuant to Sub-clause 3.10.3 makes a determination prior to the date for payment fixed pursuant to Sub-clauses 3.2.5 or, if applicable, Sub-clause 3.4 (b) (ii) then the balance payable pursuant to the applicable Sub-clause shall be adjusted, if necessary, by reference to the determination. In the event that the procedures set out in Sub-clauses 3.9, 3.10.1, 3.10.2 and 3.10.3 are not completed prior to such date then any adjustment required by Sub-clause 3.8.1 or payment required by Sub-clause 3.8.2 shall be based on the amount notified pursuant to Sub-clause 3.8\. In the event that the auditor’s determination requires a further adjustment, the amount payable by either party as a result of the audit shall be paid, together with interest calculated at the Interest Rate, to the other party forthwith.
 
@@ -3545,7 +3542,7 @@ The Bank and the Commonwealth agree that the Bank may audit the Final Face Value
 
   (i)  the date identified in Sub-clause 4.6 in respect of that State or Territory; or
 
- (ii)  if the Date of Proclamation is a date between 1 January 1989 and 30 June 1989, then such date referred to in Sub-paragraph (i) shall be extended by the number of days between 1 January 1989 and the Date of Proclamation (both dates being inclusive).
+(ii)  if the Date of Proclamation is a date between 1 January 1989 and 30 June 1989, then such date referred to in Sub-paragraph (i) shall be extended by the number of days between 1 January 1989 and the Date of Proclamation (both dates being inclusive).
 
 4.5       _Ministerial Determination of Vesting Dates_
 
@@ -3573,57 +3570,62 @@ The Bank and the Commonwealth agree that the Bank may audit the Final Face Value
   <col width="45%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>STATE</div>
-  </td>
-  <td>
-    <div>DATES</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>South Australia and the Northern Territory</div>
-  </td>
-  <td>
-    <div>
-15 January 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Western Australia</div>
-  </td>
-  <td>
-    <div>1 February 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Queensland</div>
-  </td>
-  <td>
-    <div>28 February 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Victoria and Tasmania</div>
-  </td>
-  <td>
-    <div>15 March 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>New South Wales and the Australian Capital Territory and Norfolk Island</div>
-  </td>
-  <td>
-    <div>
+<tbody>
+  <tr>
+    <td>
+      <div>STATE</div>
+    </td>
+    <td>
+      <div>DATES</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>South Australia and the Northern Territory</div>
+    </td>
+    <td>
+      <div>
+15 January 1989 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Western Australia</div>
+    </td>
+    <td>
+      <div>1 February 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Queensland</div>
+    </td>
+    <td>
+      <div>28 February 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Victoria and Tasmania</div>
+    </td>
+    <td>
+      <div>15 March 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>New South Wales and the Australian Capital Territory and Norfolk Island</div>
+    </td>
+    <td>
+      <div>
 
-15 April 1989</div>
-  </td>
-</tr></table>
+15 April 1989 
+
+</div>
+    </td>
+  </tr>
+</tbody></table>
 
 4.7       _Existing Sums Deposited by Borrowers_
 
@@ -3689,7 +3691,7 @@ This Agreement is binding on the parties but, except for this Clause, is subject
 
   (i)   are agreed in writing by the parties; or
 
- (ii)   are taken to have been agreed to by the Bank pursuant to Sub-clause 6.4.
+(ii)   are taken to have been agreed to by the Bank pursuant to Sub-clause 6.4.
 
 6.2       _Amendments to draft Bill_
 
@@ -3861,7 +3863,7 @@ The parties agree that where the Bank provides Instalment Relief, such relief wi
 
   (i)  part or all of the amount of Arrears outstanding in that Subsidised Advance Loan Account at the date of effect of the Instalment Relief; and
 
- (ii)  unpaid interest where agreed instalments are reduced as a result of the grant of Instalment Relief.
+(ii)  unpaid interest where agreed instalments are reduced as a result of the grant of Instalment Relief.
 
 8.5       _Transfer of Land and Subsidy_
 
@@ -4087,7 +4089,7 @@ The amount of Subsidy payable by the Commonwealth shall be calculated as set out
 
 (b)   in the event that the total amount of Portfolio Arrears exceeds 0.035 per cent of the aggregate of the Limits on all Subsidised Advance Loan Accounts, the total Subsidy payable pursuant to this Clause shall be reduced by an amount calculated by application of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00756/Html/DefServiceHomes1918WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00460/Html/86080597F22DBC51CA257759000973F9/$FILE/DefServiceHomes1918WD02_image003.gif)
 
 where
 
@@ -4283,64 +4285,68 @@ and such action causes the number of Entitled Applicants applying to the Bank fo
   <col width="43%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Year in which number of applications received first falls below 4,000</div>
-  </td>
-  <td>
-    <div>
+<tbody>
+  <tr>
+    <td>
+      <div>Year in which number of applications received first falls below 4,000</div>
+    </td>
+    <td>
+      <div>
 
-$m</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 1</div>
-  </td>
-  <td>
-    <div>50</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 2</div>
-  </td>
-  <td>
-    <div>40</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 3</div>
-  </td>
-  <td>
-    <div>30</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 4</div>
-  </td>
-  <td>
-    <div>20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 5</div>
-  </td>
-  <td>
-    <div>10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Year 6</div>
-  </td>
-  <td>
-    <div>Nil</div>
-  </td>
-</tr></table>
+$m 
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 1</div>
+    </td>
+    <td>
+      <div>50</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 2</div>
+    </td>
+    <td>
+      <div>40</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 3</div>
+    </td>
+    <td>
+      <div>30</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 4</div>
+    </td>
+    <td>
+      <div>20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 5</div>
+    </td>
+    <td>
+      <div>10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Year 6</div>
+    </td>
+    <td>
+      <div>Nil</div>
+    </td>
+  </tr>
+</tbody></table>
 
 If, within a period of three (3) months after first verifying the facts, agreement has not been reached with the Commonwealth on the amount, if any, to be refunded to the Bank, then the parties shall refer the matter to arbitration in accordance with Clause 26 and any amount payable as a result of the arbitration shall be paid within seven (7) days of the determination of the arbitrator.
 
@@ -4394,7 +4400,7 @@ The Bank hereby agrees that:
 
   (i)     to the best of its knowledge and understanding, as at the date of signing of this Agreement no South African or Namibian persons in aggregate have a beneficial interest in fifty (50) per cent or more of the issued shares of the Bank; and 
 
- (ii)     the Commonwealth shall be notified in writing forthwith if, during the period of operation of this Agreement, the Bank becomes aware of any actual or proposed change which will lead or is likely to lead to South African or Namibian persons in aggregate having a beneficial interest in fifty (50) per cent or more of the issued shares of the Bank. 
+(ii)     the Commonwealth shall be notified in writing forthwith if, during the period of operation of this Agreement, the Bank becomes aware of any actual or proposed change which will lead or is likely to lead to South African or Namibian persons in aggregate having a beneficial interest in fifty (50) per cent or more of the issued shares of the Bank. 
 
 For the purposes of this Clause, a South African or Namibian person is defined as a “natural person who is a citizen of or resides in South Africa or Namibia or alternatively is a company or body corporate or any body not being a body corporate which is incorporated or formed in South Africa or Namibia”.
 
@@ -4454,7 +4460,7 @@ The parties hereto shall bear their own legal and accounting costs of and incide
 
 21.       APPLICABLE LAW 
 
-This agreement shall be governed by and construed in accordance with the law for the time being in force in the Australian   Capital Territory and the parties hereto agree to submit to the non-exclusive jurisdiction of the Courts of the Australian Capital Territory.
+This agreement shall be governed by and construed in accordance with the law for the time being in force in the Australian Capital Territory and the parties hereto agree to submit to the non-exclusive jurisdiction of the Courts of the Australian Capital Territory.
 
 22\.       NOTICES 
 
@@ -4498,7 +4504,7 @@ In the case of the Bank to:
 
 Westpac Banking Corporation
 
-Address:    66   Pitt Street Sydney
+Address:    66 Pitt Street Sydney
 
 Fax: (02) 226 4905
 
@@ -4514,7 +4520,7 @@ Any notice, approval, request, consent or other communication given or made purs
 
 (i)    in the case of delivery in person when delivered to the recipient at such number or address; or 
 
-(ii)    in the case of telex, on receipt by the sender of the answerback code of the recipient at the end of transmission, 
+(ii)   in the case of telex, on receipt by the sender of the answerback code of the recipient at the end of transmission, 
 
 but if such delivery or receipt is later than 5 p.m. (local time) on a day on which business is generally carried on in the place to which such communication is delivered or sent, it shall be deemed to have been duly given at the commencement of business on the next such day in that place.
 
@@ -4574,9 +4580,9 @@ The Commonwealth undertakes to procure the due and proper performance by the Cor
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2010C00756/Html/DefServiceHomes1918WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00460/Html/86080597F22DBC51CA257759000973F9/$FILE/DefServiceHomes1918WD02_image004.gif)
 
-![](http://www.comlaw.gov.au/Details/C2010C00756/Html/DefServiceHomes1918WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00460/Html/86080597F22DBC51CA257759000973F9/$FILE/DefServiceHomes1918WD02_image005.gif)
 
 **SCHEDULE “A”**
 
@@ -4598,12 +4604,14 @@ _Description_
 
 –   Any other documents that come into the possession of the Corporation after the date of commencement of the Amending Act or 1 December 1988, whichever is the later, and which are necessary for the Bank to process the applications for Corporation or Subsidised Advances referred to in Sub-clause 5.1.
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 5pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-LEFT: 144pt; BORDER-TOP: medium none; MARGIN-RIGHT: 144pt; BORDER-RIGHT: medium none; PADDING-TOP: 0cm">
+
+ </div>
 
 **SCHEDULE “B”**
 
 DOCUMENTS TO BE PROVIDED BY THE COMMONWEALTH 
- AFTER EACH RELEVANT VESTING DATE
+AFTER EACH RELEVANT VESTING DATE
 
 A.   In relation to applications or requests referred to in Sub-Clause 5.2, each or any of the documents described below that are in the possession of the Corporation:
 
@@ -4625,19 +4633,19 @@ B.    In relation to Portfolio Assets, the documents that are in the posse
 
 –   A computer tape containing the following information:
 
-·<span style="font:7.0pt " new="">           </span>Corporation’s 7 digit account number
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Corporation’s 7 digit account number
 
-·<span style="font:7.0pt " new="">           </span>Client name (including title)
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Client name (including title)
 
-·<span style="font:7.0pt " new="">           </span>Client address
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Client address
 
-·<span style="font:7.0pt " new="">           </span>Client special address
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Client special address
 
-·<span style="font:7.0pt " new="">           </span>Overseas mail indicator
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Overseas mail indicator
 
-·<span style="font:7.0pt " new="">           </span>Second notice indicator
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Second notice indicator
 
-·<span style="font:7.0pt " new="">           </span>Telephone number
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Telephone number
 
 _Time of Supply_
 
@@ -4645,25 +4653,25 @@ _Time of Supply_
 
 –   All documents relating to Portfolio Assets held by the Corporation in its security packets, including as appropriate:
 
-·<span style="font:7.0pt " new="">           </span>Title Deeds
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Title Deeds
 
-·<span style="font:7.0pt " new="">           </span>Contracts of Sale
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Contracts of Sale
 
-·<span style="font:7.0pt " new="">           </span>Mortgage documents
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Mortgage documents
 
-·<span style="font:7.0pt " new="">           </span>Deeds of Covenant
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Deeds of Covenant
 
-·<span style="font:7.0pt " new="">           </span>Postponements of Mortgage (if not registered)
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Postponements of Mortgage (if not registered)
 
-·<span style="font:7.0pt " new="">           </span>Deeds of Priority (if not registered)
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Deeds of Priority (if not registered)
 
-·<span style="font:7.0pt " new="">           </span>Old System Searches
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Old System Searches
 
-·<span style="font:7.0pt " new="">           </span>Guarantees
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Guarantees
 
-·<span style="font:7.0pt " new="">           </span>Copy of any Mortgage Insurance Policy
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Copy of any Mortgage Insurance Policy
 
-·<span style="font:7.0pt " new="">           </span>Copy of any building Insurance Policy where the insurer is not the Corporation.
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Copy of any building Insurance Policy where the insurer is not the Corporation.
 
 _Time of Supply_
 
@@ -4677,21 +4685,21 @@ _Time of Supply_
 
 –   Computer tapes containing as at the relevant Vesting Date the following information
 
-·<span style="font:7.0pt " new="">           </span>Corporation’s 7 digit account number
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Corporation’s 7 digit account number
 
-·<span style="font:7.0pt " new="">           </span>Client name (including title)
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Client name (including title)
 
-·<span style="font:7.0pt " new="">           </span>Account balance (x tiers)
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Account balance (x tiers)
 
-·<span style="font:7.0pt " new="">           </span>Arrears/excess credits (x tiers)
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Arrears/excess credits (x tiers)
 
-·<span style="font:7.0pt " new="">           </span>Instalment Payment (x tiers)
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Instalment Payment (x tiers)
 
-·<span style="font:7.0pt " new="">           </span>Date of commencement of Advance (where available)
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Date of commencement of Advance (where available)
 
-·<span style="font:7.0pt " new="">           </span>Last payment date
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Last payment date
 
-·<span style="font:7.0pt " new="">           </span>Interest rate or rates
+·<span style="FONT: 7pt 'Times New Roman'">           </span>Interest rate or rates
 
 –   A hard copy of the information contained on the computer tapes referred to immediately above.
 
@@ -4699,7 +4707,9 @@ _Time of Supply_
 
 The computer tapes are to be supplied on the morning of the first business day immediately following the relevant Vesting Date. The hard copy of the information contained on the Computer Tapes to be supplied within 2 weeks of the day of supply of the said tapes.
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 5pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-LEFT: 144pt; BORDER-TOP: medium none; MARGIN-RIGHT: 144pt; BORDER-RIGHT: medium none; PADDING-TOP: 0cm">
+
+ </div>
 
 **SCHEDULE “C”**
 
@@ -4719,7 +4729,9 @@ Known commitments of an applicant or Entitled Applicant will be taken into consi
 
 (c)   The applicant or Entitled Applicant will be generally required to meet a reasonable deposit/equity ratio. As a general guideline 10 per cent of the total cost/value of the property may be considered a reasonable deposit.
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 5pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-LEFT: 144pt; BORDER-TOP: medium none; MARGIN-RIGHT: 144pt; BORDER-RIGHT: medium none; PADDING-TOP: 0cm">
+
+ </div>
 
 **SCHEDULE “D”**
 
@@ -4735,7 +4747,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number (includes Bank State Branch number)
 
-![](http://www.comlaw.gov.au/Details/C2010C00756/Html/DefServiceHomes1918WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00460/Html/86080597F22DBC51CA257759000973F9/$FILE/DefServiceHomes1918WD02_image006.gif)
 
 B.    MONTHLY SUBSIDY REPORT—VARIATIONS IN INTEREST ON SPECIFIED PORTFOLIO ASSETS AND BANK ADVANCES (TO BE SUPPLIED ON COMPUTER TAPE)
 
@@ -4747,7 +4759,7 @@ Account Name (full name(s) of borrowers)
 
 Account Number
 
-![](http://www.comlaw.gov.au/Details/C2010C00756/Html/DefServiceHomes1918WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00460/Html/86080597F22DBC51CA257759000973F9/$FILE/DefServiceHomes1918WD02_image007.gif)
 
 Open/Closed dates
 
@@ -4777,16 +4789,16 @@ Subsidy sub-total
 
 Loan variations since previous month
 
-·<span style="font:7.0pt " new="">     </span>Plus new loans
+·<span style="FONT: 7pt 'Times New Roman'">     </span>Plus new loans
 
-·<span style="font:7.0pt " new="">     </span>Less repaid loans
+·<span style="FONT: 7pt 'Times New Roman'">     </span>Less repaid loans
 
 Subsidy adjustments from previous month (plus/minus)
 
 Next subsidy due
 
 D.   REPORT ON RETURN COPY OF CERTIFICATE OF 
- ENTITLEMENT
+ENTITLEMENT
 
 _Particulars—Subsidised Advances and Instalment Relief_
 
@@ -4874,7 +4886,9 @@ Failure to use Advance for purpose set out in Certificate of Entitlement.
 
 Title particulars of property acquired.
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 5pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-LEFT: 144pt; BORDER-TOP: medium none; MARGIN-RIGHT: 144pt; BORDER-RIGHT: medium none; PADDING-TOP: 0cm">
+
+ </div>
 
 **SCHEDULE E**
 
@@ -4890,23 +4904,24 @@ Amounts may be withdrawn by a borrower under an excess credit arrangement referr
 
   (i)  rates, taxes or charges in respect of the secured property;
 
- (ii)  insurance under a contract of insurance entered into between the Borrower and another insurer;
+(ii)  insurance under a contract of insurance entered into between the Borrower and another insurer;
 
- (iii)  building any building or other structure on the secured property;
+(iii) building any building or other structure on the secured property;
 
- (iv)  carrying out improvements on or to the secured property, dwelling-house or any other building or structure on the secured property;
+(iv)  carrying out improvements on or to the secured property, dwelling-house or any other building or structure on the secured property;
 
- (v)  repairing, maintaining or extending the dwelling-house or any other building or structure on the secured property;
+(v)  repairing, maintaining or extending the dwelling-house or any other building or structure on the secured property;
 
- (vi)  installing fixtures on or in the, the dwelling-house or any other building or structure on the secured property; or
+(vi)  installing fixtures on or in the, the dwelling-house or any other building or structure on the secured property; or
 
- (vii) in the case of a dwelling-house shown as a unit or lot on a plan registered or deposited under a law of a State or Territory relating to strata titles, stratum titles, unit titles or building units titles—the provisions of that law relating to payments by the borrower to the body corporate incorporated under that law in consequence of the registration or deposit of that plan;
+(vii) in the case of a dwelling-house shown as a unit or lot on a plan registered or deposited under a law of a State or Territory relating to strata titles, stratum titles, unit titles or building units titles—the provisions of that law relating to payments by the borrower to the body corporate incorporated under that law in consequence of the registration or deposit of that plan;
 
 (d)   for discharging, wholly or partly, the outstanding liability of the Borrower under the relevant Corporation Advance, Subsidised Advance or Portfolio Contract of Sale;
 
 (e)   for paying any fees or charges payable by the Borrower to the Bank or to the Commonwealth in relation to any application under the Defence Service Homes Act or this Agreement;
 
 (f)    for transferring money from one form of Excess Credit arrangement to another.
+
 
 # Schedule 1A—Agreement between the Commonwealth of Australia and Westpac Banking Corporation 
 
@@ -4936,11 +4951,11 @@ Recitals
 
   9.     Applicable Law
 
- 10.     Waiver
+10.     Waiver
 
- 11.     Amendments or Variation
+11.     Amendments or Variation
 
- 12.     Assignment
+12.     Assignment
 
 Schedule of Amendments to Principal Agreement
 
@@ -4994,81 +5009,83 @@ In this Agreement except where the context otherwise requires:
   <col width="55%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Amended Agreement</b>—</div>
-  </td>
-  <td>
-    <div>means the Agreement as amended by the Supplementary Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Further Amending Act</b>—</div>
-  </td>
-  <td>
-    <div>means Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Retirement</b> <b>Village</b>—</div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Retirement</b> <b>Village</b> <b>Accommodation</b>—</div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Right of residence in a retirement village</b>—</div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Supplementary Agreement</b>—</div>
-  </td>
-  <td>
-    <div>means this Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Unit Fee</b>—</div>
-  </td>
-  <td>
-    <div>means the fee payable by the Bank to the Commonwealth for each Variation Advance granted pursuant to this Supplementary Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Unit Fee Claim Period</b>—</div>
-  </td>
-  <td>
-    <div>means the twelve month period immediately preceding the date of the invoice referred to in Sub-clause 3.3\. of this Supplementary Agreement and, for the period preceding 1 May 1991, the period between the date of execution of this Supplementary Agreement and 1 May 1991.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Variation Advance</b>—</div>
-  </td>
-  <td>
-    <div>means—</div>
-    <div>(a) (i) a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement issued under Subsection 18 (2) (g), (h), (j) and (k) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990;</div>
-    <div>(ii) a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement relating to a person’s retirement village accommodation or right of residence in a retirement village issued under Subsection 18 (3) (a) (ii), (d) (ii) and (f), Subsection 20 (2) (a) and (b) and Subsection 21 (c) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990; and</div>
-    <div>(b) a Further Advance made by the Bank in accordance with a Certificate of Entitlement issued under Section 19 of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990 to a person who is or was a purchaser or borrower in relation to a Corporation advance, a Subsidised Advance or a Contract of Sale on 9 December 1987.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Amended Agreement</b>—</div>
+    </td>
+    <td>
+      <div>means the Agreement as amended by the Supplementary Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Further Amending Act</b>—</div>
+    </td>
+    <td>
+      <div>means Part 2 of the Veterans’ Affairs Legislation Amendment Act 1990.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Retirement</b> <b>Village</b>—</div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Retirement</b> <b>Village</b> <b>Accommodation</b>—</div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Right of residence in a retirement village</b>—</div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Supplementary Agreement</b>—</div>
+    </td>
+    <td>
+      <div>means this Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Unit Fee</b>—</div>
+    </td>
+    <td>
+      <div>means the fee payable by the Bank to the Commonwealth for each Variation Advance granted pursuant to this Supplementary Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Unit Fee Claim Period</b>—</div>
+    </td>
+    <td>
+      <div>means the twelve month period immediately preceding the date of the invoice referred to in Sub-clause 3.3\. of this Supplementary Agreement and, for the period preceding 1 May 1991, the period between the date of execution of this Supplementary Agreement and 1 May 1991.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Variation Advance</b>—</div>
+    </td>
+    <td>
+      <div>means—</div>
+      <div>(a) (i) a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement issued under Subsection 18 (2) (g), (h), (j) and (k) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990;</div>
+      <div>(ii) a Subsidised Advance made by the Bank in accordance with a Certificate of Entitlement relating to a person’s retirement village accommodation or right of residence in a retirement village issued under Subsection 18 (3) (a) (ii), (d) (ii) and (f), Subsection 20 (2) (a) and (b) and Subsection 21 (c) of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990; and</div>
+      <div>(b) a Further Advance made by the Bank in accordance with a Certificate of Entitlement issued under Section 19 of the Defence Service Homes Act 1918 as amended by Part 2 of the Veterans’ Affairs Legislation Amendment Bill 1990 to a person who is or was a purchaser or borrower in relation to a Corporation advance, a Subsidised Advance or a Contract of Sale on 9 December 1987.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 1.2.1       Where this Supplementary Agreement includes a reference to a term which is defined in the Agreement the definition in the Agreement as amended by this Supplementary Agreement is to be applied except where the contrary intention is expressed.
 
@@ -5118,9 +5135,9 @@ In this Agreement except where the context otherwise requires:
 
   (i)  the minimum Unit Fee; and 
 
- (ii)  the number of Borrowers the sum total of whose first advance being an advance falling within paragraphs (a) (i) or (b) of the definition of Variation Advance and any other unsubsidised loan funds from the Bank provided to the Borrowers at the same time and for the same purpose as such Variation Advance exceeds sixty thousand dollars ($60,000.00); and
+(ii)  the number of Borrowers the sum total of whose first advance being an advance falling within paragraphs (a) (i) or (b) of the definition of Variation Advance and any other unsubsidised loan funds from the Bank provided to the Borrowers at the same time and for the same purpose as such Variation Advance exceeds sixty thousand dollars ($60,000.00); and
 
- (iii)  the fraction the numerator of which is the average amount by which each of the borrowings referred to in Sub-clause 3.1 (b) (ii) exceeds sixty thousand dollars ($60,000.00) and the denominator of which is sixty thousand dollars ($60,000.00).
+(iii)  the fraction the numerator of which is the average amount by which each of the borrowings referred to in Sub-clause 3.1 (b) (ii) exceeds sixty thousand dollars ($60,000.00) and the denominator of which is sixty thousand dollars ($60,000.00).
 
 (c)   In the event that the Commonwealth or any State or Territory legislature enacts legislation which restricts the Bank’s ability to set its Establishment Fees as the Bank determines and as a result the Bank receives less by way of Establishment Fees than would otherwise have been the case the Bank shall have the right to reduce the amount payable to the Commonwealth pursuant to Sub-clause 3.1 (b) by the difference between what it would have received in Establishment Fees and what it has in fact received and in the event of a dispute or disagreement arising between the Commonwealth and the Bank as to the amount of the reduction, the provisions of Sub-clause 3.6 shall apply.
 
@@ -5186,7 +5203,7 @@ Any stamp duty arising out of this Supplementary Agreement or its implementation
 
 **9.           APPLICABLE LAW**
 
-This Supplementary Agreement shall be governed by and construed in accordance with the law for the time being in force in the Australian Capital Territory and the parties hereto agree to submit to the non-exclusive jurisdiction of the Courts of the Australian   Capital Territory.
+This Supplementary Agreement shall be governed by and construed in accordance with the law for the time being in force in the Australian Capital Territory and the parties hereto agree to submit to the non-exclusive jurisdiction of the Courts of the Australian Capital Territory.
 
 **10.         WAIVER**
 
@@ -5202,9 +5219,9 @@ This Supplementary Agreement may not be assigned in whole or in part by either p
 
 IN WITNESS WHEREOF the parties have executed this Agreement as at the day and year first before written:
 
-![](http://www.comlaw.gov.au/Details/C2010C00756/Html/DefServiceHomes1918WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00460/Html/86080597F22DBC51CA257759000973F9/$FILE/DefServiceHomes1918WD02_image008.gif)
 
-![](http://www.comlaw.gov.au/Details/C2010C00756/Html/DefServiceHomes1918WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00460/Html/86080597F22DBC51CA257759000973F9/$FILE/DefServiceHomes1918WD02_image009.gif)
 
 **SCHEDULE OF AMENDMENTS TO AGREEMENT**
 
@@ -5218,30 +5235,32 @@ Amend the following definitions:
   <col width="59%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Establishment Fees:</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or applications for retirement village accommodation” after the words “secured by first mortgage”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Housing Loan Customer:</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or retirement village accommodation” after the words “or refinance of a dwelling”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Portfolio Arrears:</b></div>
-  </td>
-  <td>
-    <div>Insert the words “on the last day of the month immediately preceding the month in which a Subsidy payment is being calculated” after the words “and all Subsidised Advances”.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Establishment Fees:</b></div>
+    </td>
+    <td>
+      <div>Insert the words “or applications for retirement village accommodation” after the words “secured by first mortgage”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Housing Loan Customer:</b></div>
+    </td>
+    <td>
+      <div>Insert the words “or retirement village accommodation” after the words “or refinance of a dwelling”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Portfolio Arrears:</b></div>
+    </td>
+    <td>
+      <div>Insert the words “on the last day of the month immediately preceding the month in which a Subsidy payment is being calculated” after the words “and all Subsidised Advances”.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Insert the following new definitions:
 
@@ -5251,63 +5270,66 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>Amended Agreement:</b></div>
-  </td>
-  <td>
-    <div>means the Agreement between the Commonwealth and the Bank signed on 
-9 November 1988 as amended by the Supplementary Agreement between the parties signed on fifth day of November 1990.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Further Amending Act:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Supplementary Agreement.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Retirement</b> <b>Village</b> <b>:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Retirement</b> <b>Village</b> <b>Accommodation:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Right of residence in a retirement village:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Further Amending Act.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Supplementary Agreement:</b></div>
-  </td>
-  <td>
-    <div>means the Agreement signed by the Commonwealth and the Bank on the fifth day of November 1990.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Variation Advance:</b></div>
-  </td>
-  <td>
-    <div>has the same meaning as in the Supplementary Agreement.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Amended Agreement:</b></div>
+    </td>
+    <td>
+      <div>means the Agreement between the Commonwealth and the Bank signed on 
+9 November 1988 as amended by the Supplementary Agreement between the parties signed on fifth day of November 1990\. 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Further Amending Act:</b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Supplementary Agreement.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Retirement</b> <b>Village</b> <b>:</b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Retirement</b> <b>Village</b> <b>Accommodation:</b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Right of residence in a retirement village:</b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Further Amending Act.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Supplementary Agreement:</b></div>
+    </td>
+    <td>
+      <div>means the Agreement signed by the Commonwealth and the Bank on the fifth day of November 1990.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Variation Advance:</b></div>
+    </td>
+    <td>
+      <div>has the same meaning as in the Supplementary Agreement.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 **<u>Clause 5</u>**
 
@@ -5317,14 +5339,16 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>5.1.2</b></div>
-  </td>
-  <td>
-    <div>Insert “unless the Commonwealth and the Bank otherwise agree” after the words “any such application”.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>5.1.2</b></div>
+    </td>
+    <td>
+      <div>Insert “unless the Commonwealth and the Bank otherwise agree” after the words “any such application”.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 **<u>Clause 7</u>**
 
@@ -5334,14 +5358,16 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>7.3</b></div>
-  </td>
-  <td>
-    <div>Insert “or such other security” after the words “first mortgage”. Insert “(if any)” after the words “and documentation”.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>7.3</b></div>
+    </td>
+    <td>
+      <div>Insert “or such other security” after the words “first mortgage”. Insert “(if any)” after the words “and documentation”.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 **<u>Clause 8</u>**
 
@@ -5351,24 +5377,26 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>8.3</b></div>
-  </td>
-  <td>
-    <div>Insert after Sub-clause 8.3 (b) the word “or”.</div>
-    <div>Insert a new Sub-clause 8.3 (c) after Sub-clause 8.3 (b):</div>
-    <div>“(c) where the Borrower has been granted an advance falling within paragraph (a) of the definition of Variation Advance the Bank shall not be required to take any security.”</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>8.8</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or any other security, if any, which the Bank deems appropriate.” At the end of the Sub-clause.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>8.3</b></div>
+    </td>
+    <td>
+      <div>Insert after Sub-clause 8.3 (b) the word “or”.</div>
+      <div>Insert a new Sub-clause 8.3 (c) after Sub-clause 8.3 (b):</div>
+      <div>“(c) where the Borrower has been granted an advance falling within paragraph (a) of the definition of Variation Advance the Bank shall not be required to take any security.”</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>8.8</b></div>
+    </td>
+    <td>
+      <div>Insert the words “or any other security, if any, which the Bank deems appropriate.” At the end of the Sub-clause.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 **<u>Clause 9</u>**
 
@@ -5378,14 +5406,16 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>9.4.3</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or other mortgage or security documentation, if any,” after the words “by the first mortgage”.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>9.4.3</b></div>
+    </td>
+    <td>
+      <div>Insert the words “or other mortgage or security documentation, if any,” after the words “by the first mortgage”.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 **<u>Clause 10</u>**
 
@@ -5395,46 +5425,48 @@ Insert the following new definitions:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>10.1 (b)</b></div>
-  </td>
-  <td>
-    <div>Insert the words: “or retirement village accommodation” after the words “or land and dwelling house”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>10.1 (e)</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or retirement village accommodation” after the word “land and dwelling house.”</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>10.1 (f)</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or retirement village accommodation” after the words “any other dwelling house;”</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>10.1 (g)</b></div>
-  </td>
-  <td>
-    <div>Insert the words “or retirement village accommodation” after the words “occupation of dwelling house.” And delete the word “and” at the end of this paragraph.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>10.1(h)</b></div>
-  </td>
-  <td>
-    <div>Insert the word “; and” at the end of this paragraph.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>10.1 (b)</b></div>
+    </td>
+    <td>
+      <div>Insert the words: “or retirement village accommodation” after the words “or land and dwelling house”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>10.1 (e)</b></div>
+    </td>
+    <td>
+      <div>Insert the words “or retirement village accommodation” after the word “land and dwelling house.”</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>10.1 (f)</b></div>
+    </td>
+    <td>
+      <div>Insert the words “or retirement village accommodation” after the words “any other dwelling house;”</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>10.1 (g)</b></div>
+    </td>
+    <td>
+      <div>Insert the words “or retirement village accommodation” after the words “occupation of dwelling house.” And delete the word “and” at the end of this paragraph.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>10.1(h)</b></div>
+    </td>
+    <td>
+      <div>Insert the word “; and” at the end of this paragraph.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 Insert a new Sub-clause **10.1 (i)** after Sub-clause 10.1 (h) in the following terms: 
 
@@ -5450,22 +5482,24 @@ Delete Sub-clause 11.5 and insert the following:
   <col width="57%">
 </colgroup>
 
-<tr>
-  <td>
-    <div><b>11.5.1</b></div>
-  </td>
-  <td>
-    <div>Except where the provisions of Sub-clause 11.5.2 apply upon receipt by the Commonwealth of the invoice and information referred to in Sub-clause 10.5 the Commonwealth shall pay the Bank the amount of Subsidy which the Commonwealth has verified by 11:00 am. On the eighteenth day of the month to which such invoice and information refers.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>11.5.2</b></div>
-  </td>
-  <td>
-    <div>If the Bank has not complied with the requirements of Clause 11.4 in respect of its claim for Subsidy on certain Specified Portfolio Assets and Subsidised Advances, but subsequently provides the invoice and information referred to in Sub-clause 10.5, the Commonwealth shall pay to the Bank the amount of Subsidy which it has verified by 11 am on the day which is seven (7) business days after the date on which the Bank provides the said invoice and information. The Commonwealth will promptly pay to the Bank claims verified after that date.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>11.5.1</b></div>
+    </td>
+    <td>
+      <div>Except where the provisions of Sub-clause 11.5.2 apply upon receipt by the Commonwealth of the invoice and information referred to in Sub-clause 10.5 the Commonwealth shall pay the Bank the amount of Subsidy which the Commonwealth has verified by 11:00 am. On the eighteenth day of the month to which such invoice and information refers.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>11.5.2</b></div>
+    </td>
+    <td>
+      <div>If the Bank has not complied with the requirements of Clause 11.4 in respect of its claim for Subsidy on certain Specified Portfolio Assets and Subsidised Advances, but subsequently provides the invoice and information referred to in Sub-clause 10.5, the Commonwealth shall pay to the Bank the amount of Subsidy which it has verified by 11 am on the day which is seven (7) business days after the date on which the Bank provides the said invoice and information. The Commonwealth will promptly pay to the Bank claims verified after that date.</div>
+    </td>
+  </tr>
+</tbody></table>
 
 **<u>Clause 22</u>**
 
@@ -5507,6 +5541,7 @@ Sydney, N.S.W. 2001”
 
 Insert the words “or retirement village accommodation” after “dwelling house” wherever the latter appears.”.
 
+
 # Schedule 2—Provisions of Defence Service Homes Act and regulations applying as terms and conditions of vested portfolio assets
 
 _Subsection 6B (9)_
@@ -5529,730 +5564,733 @@ _Subsection 6B (9)_
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div><b>Subsection 4 A(2)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “Any such husband and wife”, substitute “A husband and wife who are joint tenants”.</div>
-    <div>(b) Omit “an eligible person”, substitute “a”.</div>
-    <div>(c) Omit “this Act”, substitute “the mortgage, contract of sale or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 18A (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “The cost so allotted”, substitute “The cost allotted to a dwelling-house by the Corporation under subsection 18A (1) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>for the making of roads or other facilities affording access to the dwelling-house or for connecting sewerage, drainage, water, gas and electric power and lighting systems to the dwelling-house”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 18A (3A)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 18A (3B)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 18A (4)</b></div>
-  </td>
-  <td>
-    <div>(a) After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>”.</div>
-    <div>(b) Omit “or advance under this Act”, substitute “, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 19</b></div>
-  </td>
-  <td>
-    <div>(a) Omit subsections (1), (1A), (2), (3) and (4).</div>
-    <div>(b) Omit from subsection (6) “to the Corporation”.</div>
-    <div>(c) Insert in subsection (6) “as those provisions apply as terms or conditions of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>” after “regulations”.</div>
-    <div>(d) Omit from subsection (6) “prescribed notice”, substitute “notice prescribed in regulation 10 as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>”.</div>
-    <div>(e) Omit from subsection (6) “prescribed form”, substitute “form prescribed in regulation 9 as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>”.</div>
-    <div>(f) Insert in subsection (6) “, together with such other documentation setting out terms of repayment as is required by the Bank,” after “contract of sale” (third occurring).</div>
-    <div>(g) Omit subsection (7), substitute the following subsection:</div>
-    <div>“(7) The mortgage and documentation executed by the person under subsection (6) must provide for:</div>
-      <div>(a) interest to be payable on the amount secured under the mortgage, being the balance of the amount payable under the contract of sale immediately before the date of the mortgage, at the same rate that was payable on that balance;</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>(b) where different rates of interest were payable on different parts of the balance referred to in paragraph (a), the amount secured by the mortgage is to be taken to be divided into equivalent parts with the rate of interest payable on each of those parts to be the same as that payable on the equivalent part of the balance;</div>
-    <div>(c) the repayment period for the amount secured by the mortgage to be the period over which the balance referred to in paragraph (a) would have been payable under the contract of sale;</div>
-    <div>(d) the amount of each monthly instalment required to repay the amount secured by the mortgage to be the same instalment required to repay the balance referred to in paragraph (a) under the contract of sale; and</div>
-    <div>(e) such other terms and conditions as are applicable to a subsidised advance within the meaning of the <i>Defence Service Homes Act 1918</i>.”.</div>
-      <div>(h) Omit from subsection (8) “this section”, substitute “subsection 19 (6) of the Act as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the Defence Service Homes Act 1918”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 27 (1)</b></div>
-  </td>
-  <td>
-    <div>Omit “this Act”, substitute “the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 27 (2)</b></div>
-  </td>
-  <td>
-    <div>Omit “this Act or the Regulations thereunder”, substitute “the mortgage, contract of sale or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29 (1)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29 (1A)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29 (1C)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29AA (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “A reduction under the last preceding subsection in the amount of the instalment”, substitute “A reduction, approved by the Minister under subsection 29AA (2) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>in the amount of the instalment required to be paid under the contract of sale, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29AA (6)</b></div>
-  </td>
-  <td>
-    <div>(a) After “work done” insert “by the Corporation to keep in good order and repair the buildings, fences, fixtures and other improvements on the land”.</div>
-    <div>(b) After “payments made” insert “by the Corporation to pay rates, taxes, charges or other outgoings in relation to the land or land and dwelling-house”.</div>
-    <div>(c) Omit “under subsection (4) or subsection (5)”, substitute “by the Minister under subsection 29AA (4) or (5) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>”.</div>
-      <div>(d) Omit “, subject to subsection (8),”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29AA (7)</b></div>
-  </td>
-  <td>
-    <div>After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 29AB (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “The reduction under subsection (2) in the amount of the instalment”, substitute “A reduction, approved by the Minister under subsection 29AB (2) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>, in the amount of the instalment required to be paid under the contract of sale, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 30</b></div>
-  </td>
-  <td>
-    <div>(a) Omit subsection (3).</div>
-    <div>(b) Insert in paragraph (4) (b) “of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>” after “20A”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (1)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (2)</b></div>
-  </td>
-  <td>
-    <div>Omit from paragraph (a) “this Act or the regulations, or”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (2A)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “this Act”, substitute “the mortgage, contract of sale or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (4)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 30A (7)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 31</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from paragraph (2) (a) “10 per centum per annum”, substitute “the rate determined by the Bank”.</div>
-    <div>(b) Insert in paragraph (2) (b) “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>” after “section 36”.</div>
-    <div>(c) Omit from paragraph (2) (b) “or advance under this Act”, substitute “mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 32</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 32A</b></div>
-  </td>
-  <td>
-    <div>Omit from subsection (2) “section 4A”, substitute “section 4A of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 34</b></div>
-  </td>
-  <td>
-    <div>Omit “or 33”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (1)</b></div>
-  </td>
-  <td>
-    <div>Omit paragraph (1) (b).</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (1A)</b></div>
-  </td>
-  <td>
-    <div>Omit “in pursuance of paragraph (b) of the last preceding subsection, to a person who is not an eligible person,”, substitute “without the consent of the Bank”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (2A)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “Corporation under paragraph (b) of the last preceding subsection in respect of”, substitute “Commonwealth or Corporation in respect of the transfer of”.</div>
-    <div>(b) Omit “Corporation may”, substitute “Bank may”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (4)</b></div>
-  </td>
-  <td>
-    <div>After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (5)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 35 (6)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (1)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “or advance under this Act”, substitute “mortgage or other security”.</div>
-    <div>(b) Omit “although no legal demand has been made for payment”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (1A)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (1B)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (1C)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from paragraph (a) “10 per centum per annum”, substitute “the rate determined by the Bank”.</div>
-    <div>(b) Omit from paragraph (b) “this Part”, substitute “this provision”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (2)</b></div>
-  </td>
-  <td>
-    <div>Omit “to the Commonwealth for payment by the Commonwealth to the persons appearing to the Minister to be entitled to receive it”, substitute “to the person legally entitled to receive it”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (3)</b></div>
-  </td>
-  <td>
-    <div>Omit “or advance under this Act”, substitute “, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36 (4)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36A (1)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “Corporation” (other than the first two times occurring), substitute “Bank”.</div>
-    <div>(b) Omit “transfer his interest in the dwelling-house or”.</div>
-    <div>(c) Omit “transfer his interest or”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 36A (3)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “to transfer his interest to the Corporation or”.</div>
-    <div>(b) After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 38 (4D)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “by reason of an advance or sale by the Corporation”.</div>
-    <div>(b) Omit from paragraph (a) “Corporation”, substitute “Defence Service Homes Insurance Scheme”.</div>
-      <div>(c) Insert in paragraph (b) “or is approved by the Bank from time to time” after “with the Corporation”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 38 (4E)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “(4D)”, substitute “38 (4D) of the <i>Defence Service Homes Act 1918</i>(as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>) as a term or condition under section 6B of that Act as in force on or after that commencement”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>(b) Omit “with the Corporation”, substitute “under the Defence Service Homes Insurance Scheme”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>(c) Omit “to the Corporation” (second time occurring), substitute “to the Commonwealth”.</div>
-    <div>(d) Omit “by the Corporation”, substitute “under the Defence Service Homes Insurance Scheme”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 43 (1)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “by this Act”, substitute “in relation to a contract of sale, mortgage or other security”.</div>
-    <div>(b) Omit from paragraph (a) “purchased from, or in respect of which an advance has been made by, the Corporation”, substitute “secured by the contract of sale, mortgage or other security”.</div>
-    <div>(c) Omit from subparagraph (b) (ii) “purchased from, or in respect of which an advance has been made by, the Corporation”, substitute “secured by the contract of sale, mortgage or other security”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subsection 43 (2)</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “this Act or the Regulations”, substitute “a contract of sale, mortgage or other security”.</div>
-    <div>(b) Omit “by the holder of an office specified by the Corporation by notice published in the <i>Gazette</i>”, substitute “by an officer of the Bank”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 44</b></div>
-  </td>
-  <td>
-    <div>Omit “Notwithstanding any other provision of this Act, where”, substitute “Where”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 45</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 46</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 48AB</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from subsection (1) “The Minister may, either generally or with respect to a particular case or a particular class of cases, give directions to the Corporation with respect to the payment by the Corporation of rates,”, substitute “The Bank may pay rates, insurance premiums,”.</div>
-    <div>(b) Omit from subsection (2) “in accordance with a direction under the last preceding subsection”.</div>
-      <div>(c) Omit from paragraph (2) (b) “at 10 per centum per annum”, substitute “at such rate as the Bank determines”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 48B</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 48C</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Section 49</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div><b> <i>Defence Service Homes Regulations</i> </b></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 9</b></div>
-  </td>
-  <td>
-    <div>(a) After “of the Act” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the D <i>efence Service Homes Act 1918</i>”.</div>
-    <div>(b) After “is situated” insert “and which is otherwise in a form acceptable to the Bank”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 10</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 13</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 14</b></div>
-  </td>
-  <td>
-    <div>Omit “Subject to section 17B of the Act, each”, substitute “Each”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 15</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “by the Corporation”, substitute “by a Manager of the Bank”.</div>
-    <div>(b) After “Corporation shall” insert “, as between the Bank and the purchaser, borrower, tenant or applicant,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 17</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from paragraph (b) “in accordance with an agreement for the erection, completion or enlargement of a dwelling-house by the Corporation under section 17A of the Act,”.</div>
-    <div>(b) Omit “the mortgage or by the Act or these Regulations”, substitute “a term or condition of the mortgage”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 18</b></div>
-  </td>
-  <td>
-    <div>(a) After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-    <div>(b) Omit from subregulation (1) “with the Act”, substitute “with that subsection”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 20</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 21</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “it is proved to the satisfaction of the Corporation that”.</div>
-    <div>(b) After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 24</b></div>
-  </td>
-  <td>
-    <div>Omit “for the purposes of section 46 of the Act”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 32 (1)</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 33</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 35</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 36</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 37</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 38</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 39</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 40</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 42</b></div>
-  </td>
-  <td>
-    <div>(a) Omit from paragraph (a) “satisfactory to”, substitute “to the reasonable satisfaction of”.</div>
-    <div>(b) Omit from paragraph (b) “approved by the Corporation”.</div>
-    <div>(c) Omit paragraph (c).</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 43</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 44</b></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 74A</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 74B</b> <b>(1)</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 74B (2)</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 74C (1)</b></div>
-  </td>
-  <td>
-    <div>(a) After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-    <div>(b) Omit “in accordance with Form B”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subregulation 74C (2)</b></div>
-  </td>
-  <td>
-    <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 74E</b></div>
-  </td>
-  <td>
-    <div>Omit “under this Part”, substitute “of determination of tenancy”.</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Regulation 74F</b></div>
-  </td>
-  <td>
-    <div>(a) Omit “under this Part”, substitute “of determination of tenancy”.</div>
-    <div>(b) Omit “, in accordance with Form CA,”.</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div><b>Subsection 4 A(2)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “Any such husband and wife”, substitute “A husband and wife who are joint tenants”.</div>
+      <div>(b) Omit “an eligible person”, substitute “a”.</div>
+      <div>(c) Omit “this Act”, substitute “the mortgage, contract of sale or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 18A (3)</b></div>
+    </td>
+    <td>
+      <div>Omit “The cost so allotted”, substitute “The cost allotted to a dwelling-house by the Corporation under subsection 18A (1) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>for the making of roads or other facilities affording access to the dwelling-house or for connecting sewerage, drainage, water, gas and electric power and lighting systems to the dwelling-house”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 18A (3A)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 18A (3B)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 18A (4)</b></div>
+    </td>
+    <td>
+      <div>(a) After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>”.</div>
+      <div>(b) Omit “or advance under this Act”, substitute “, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 19</b></div>
+    </td>
+    <td>
+      <div>(a) Omit subsections (1), (1A), (2), (3) and (4).</div>
+      <div>(b) Omit from subsection (6) “to the Corporation”.</div>
+      <div>(c) Insert in subsection (6) “as those provisions apply as terms or conditions of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>” after “regulations”.</div>
+      <div>(d) Omit from subsection (6) “prescribed notice”, substitute “notice prescribed in regulation 10 as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>”.</div>
+      <div>(e) Omit from subsection (6) “prescribed form”, substitute “form prescribed in regulation 9 as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the <i>Defence Service Homes Act 1918</i>”.</div>
+      <div>(f) Insert in subsection (6) “, together with such other documentation setting out terms of repayment as is required by the Bank,” after “contract of sale” (third occurring).</div>
+      <div>(g) Omit subsection (7), substitute the following subsection:</div>
+      <div>“(7) The mortgage and documentation executed by the person under subsection (6) must provide for:</div>
+        <div>(a) interest to be payable on the amount secured under the mortgage, being the balance of the amount payable under the contract of sale immediately before the date of the mortgage, at the same rate that was payable on that balance;</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>(b) where different rates of interest were payable on different parts of the balance referred to in paragraph (a), the amount secured by the mortgage is to be taken to be divided into equivalent parts with the rate of interest payable on each of those parts to be the same as that payable on the equivalent part of the balance;</div>
+      <div>(c) the repayment period for the amount secured by the mortgage to be the period over which the balance referred to in paragraph (a) would have been payable under the contract of sale;</div>
+      <div>(d) the amount of each monthly instalment required to repay the amount secured by the mortgage to be the same instalment required to repay the balance referred to in paragraph (a) under the contract of sale; and</div>
+      <div>(e) such other terms and conditions as are applicable to a subsidised advance within the meaning of the <i>Defence Service Homes Act 1918</i>.”.</div>
+        <div>(h) Omit from subsection (8) “this section”, substitute “subsection 19 (6) of the Act as that provision applies as a term or condition of a portfolio asset which vests in the Bank under subsection 6B (9) of the Defence Service Homes Act 1918”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 27 (1)</b></div>
+    </td>
+    <td>
+      <div>Omit “this Act”, substitute “the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 27 (2)</b></div>
+    </td>
+    <td>
+      <div>Omit “this Act or the Regulations thereunder”, substitute “the mortgage, contract of sale or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 29 (1)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 29 (1A)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 29 (1C)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 29AA (3)</b></div>
+    </td>
+    <td>
+      <div>Omit “A reduction under the last preceding subsection in the amount of the instalment”, substitute “A reduction, approved by the Minister under subsection 29AA (2) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>in the amount of the instalment required to be paid under the contract of sale, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 29AA (6)</b></div>
+    </td>
+    <td>
+      <div>(a) After “work done” insert “by the Corporation to keep in good order and repair the buildings, fences, fixtures and other improvements on the land”.</div>
+      <div>(b) After “payments made” insert “by the Corporation to pay rates, taxes, charges or other outgoings in relation to the land or land and dwelling-house”.</div>
+      <div>(c) Omit “under subsection (4) or subsection (5)”, substitute “by the Minister under subsection 29AA (4) or (5) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>”.</div>
+        <div>(d) Omit “, subject to subsection (8),”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 29AA (7)</b></div>
+    </td>
+    <td>
+      <div>After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 29AB (3)</b></div>
+    </td>
+    <td>
+      <div>Omit “The reduction under subsection (2) in the amount of the instalment”, substitute “A reduction, approved by the Minister under subsection 29AB (2) of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>, in the amount of the instalment required to be paid under the contract of sale, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 30</b></div>
+    </td>
+    <td>
+      <div>(a) Omit subsection (3).</div>
+      <div>(b) Insert in paragraph (4) (b) “of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>” after “20A”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 30A (1)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 30A (2)</b></div>
+    </td>
+    <td>
+      <div>Omit from paragraph (a) “this Act or the regulations, or”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 30A (2A)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 30A (3)</b></div>
+    </td>
+    <td>
+      <div>Omit “this Act”, substitute “the mortgage, contract of sale or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 30A (4)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 30A (7)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 31</b></div>
+    </td>
+    <td>
+      <div>(a) Omit from paragraph (2) (a) “10 per centum per annum”, substitute “the rate determined by the Bank”.</div>
+      <div>(b) Insert in paragraph (2) (b) “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>” after “section 36”.</div>
+      <div>(c) Omit from paragraph (2) (b) “or advance under this Act”, substitute “mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 32</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 32A</b></div>
+    </td>
+    <td>
+      <div>Omit from subsection (2) “section 4A”, substitute “section 4A of the <i>Defence Service Homes Act 1918</i>as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 34</b></div>
+    </td>
+    <td>
+      <div>Omit “or 33”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 35 (1)</b></div>
+    </td>
+    <td>
+      <div>Omit paragraph (1) (b).</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 35 (1A)</b></div>
+    </td>
+    <td>
+      <div>Omit “in pursuance of paragraph (b) of the last preceding subsection, to a person who is not an eligible person,”, substitute “without the consent of the Bank”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 35 (2A)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “Corporation under paragraph (b) of the last preceding subsection in respect of”, substitute “Commonwealth or Corporation in respect of the transfer of”.</div>
+      <div>(b) Omit “Corporation may”, substitute “Bank may”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 35 (4)</b></div>
+    </td>
+    <td>
+      <div>After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 35 (5)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 35 (6)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 36 (1)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “or advance under this Act”, substitute “mortgage or other security”.</div>
+      <div>(b) Omit “although no legal demand has been made for payment”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 36 (1A)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 36 (1B)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 36 (1C)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit from paragraph (a) “10 per centum per annum”, substitute “the rate determined by the Bank”.</div>
+      <div>(b) Omit from paragraph (b) “this Part”, substitute “this provision”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 36 (2)</b></div>
+    </td>
+    <td>
+      <div>Omit “to the Commonwealth for payment by the Commonwealth to the persons appearing to the Minister to be entitled to receive it”, substitute “to the person legally entitled to receive it”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 36 (3)</b></div>
+    </td>
+    <td>
+      <div>Omit “or advance under this Act”, substitute “, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 36 (4)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 36A (1)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “Corporation” (other than the first two times occurring), substitute “Bank”.</div>
+      <div>(b) Omit “transfer his interest in the dwelling-house or”.</div>
+      <div>(c) Omit “transfer his interest or”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 36A (3)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “to transfer his interest to the Corporation or”.</div>
+      <div>(b) After “section 36” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 38 (4D)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “by reason of an advance or sale by the Corporation”.</div>
+      <div>(b) Omit from paragraph (a) “Corporation”, substitute “Defence Service Homes Insurance Scheme”.</div>
+        <div>(c) Insert in paragraph (b) “or is approved by the Bank from time to time” after “with the Corporation”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 38 (4E)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “(4D)”, substitute “38 (4D) of the <i>Defence Service Homes Act 1918</i>(as in force before the commencement of section 10 of the <i>Defence Service Homes Amendment Act 1988</i>) as a term or condition under section 6B of that Act as in force on or after that commencement”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>(b) Omit “with the Corporation”, substitute “under the Defence Service Homes Insurance Scheme”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>(c) Omit “to the Corporation” (second time occurring), substitute “to the Commonwealth”.</div>
+      <div>(d) Omit “by the Corporation”, substitute “under the Defence Service Homes Insurance Scheme”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 43 (1)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “by this Act”, substitute “in relation to a contract of sale, mortgage or other security”.</div>
+      <div>(b) Omit from paragraph (a) “purchased from, or in respect of which an advance has been made by, the Corporation”, substitute “secured by the contract of sale, mortgage or other security”.</div>
+      <div>(c) Omit from subparagraph (b) (ii) “purchased from, or in respect of which an advance has been made by, the Corporation”, substitute “secured by the contract of sale, mortgage or other security”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subsection 43 (2)</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “this Act or the Regulations”, substitute “a contract of sale, mortgage or other security”.</div>
+      <div>(b) Omit “by the holder of an office specified by the Corporation by notice published in the <i>Gazette</i>”, substitute “by an officer of the Bank”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 44</b></div>
+    </td>
+    <td>
+      <div>Omit “Notwithstanding any other provision of this Act, where”, substitute “Where”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 45</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 46</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 48AB</b></div>
+    </td>
+    <td>
+      <div>(a) Omit from subsection (1) “The Minister may, either generally or with respect to a particular case or a particular class of cases, give directions to the Corporation with respect to the payment by the Corporation of rates,”, substitute “The Bank may pay rates, insurance premiums,”.</div>
+      <div>(b) Omit from subsection (2) “in accordance with a direction under the last preceding subsection”.</div>
+        <div>(c) Omit from paragraph (2) (b) “at 10 per centum per annum”, substitute “at such rate as the Bank determines”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 48B</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 48C</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Section 49</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div><b> <i>Defence Service Homes Regulations</i> </b></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 9</b></div>
+    </td>
+    <td>
+      <div>(a) After “of the Act” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the D <i>efence Service Homes Act 1918</i>”.</div>
+      <div>(b) After “is situated” insert “and which is otherwise in a form acceptable to the Bank”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 10</b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 13</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 14</b></div>
+    </td>
+    <td>
+      <div>Omit “Subject to section 17B of the Act, each”, substitute “Each”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 15</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “by the Corporation”, substitute “by a Manager of the Bank”.</div>
+      <div>(b) After “Corporation shall” insert “, as between the Bank and the purchaser, borrower, tenant or applicant,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 17</b></div>
+    </td>
+    <td>
+      <div>(a) Omit from paragraph (b) “in accordance with an agreement for the erection, completion or enlargement of a dwelling-house by the Corporation under section 17A of the Act,”.</div>
+      <div>(b) Omit “the mortgage or by the Act or these Regulations”, substitute “a term or condition of the mortgage”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 18</b></div>
+    </td>
+    <td>
+      <div>(a) After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
+      <div>(b) Omit from subregulation (1) “with the Act”, substitute “with that subsection”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 20</b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 21</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “it is proved to the satisfaction of the Corporation that”.</div>
+      <div>(b) After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 24</b></div>
+    </td>
+    <td>
+      <div>Omit “for the purposes of section 46 of the Act”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subregulation 32 (1)</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 33</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 35</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 36</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 37</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 38</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 39</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 40</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 42</b></div>
+    </td>
+    <td>
+      <div>(a) Omit from paragraph (a) “satisfactory to”, substitute “to the reasonable satisfaction of”.</div>
+      <div>(b) Omit from paragraph (b) “approved by the Corporation”.</div>
+      <div>(c) Omit paragraph (c).</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 43</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 44</b></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 74A</b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subregulation 74B</b> <b>(1)</b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subregulation 74B (2)</b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subregulation 74C (1)</b></div>
+    </td>
+    <td>
+      <div>(a) After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
+      <div>(b) Omit “in accordance with Form B”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Subregulation 74C (2)</b></div>
+    </td>
+    <td>
+      <div>After “of the Act” insert “, as that provision applies as a term or condition of a portfolio asset which vests in the Bank under section 6B of the <i>Defence Service Homes Act 1918</i>,”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 74E</b></div>
+    </td>
+    <td>
+      <div>Omit “under this Part”, substitute “of determination of tenancy”.</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Regulation 74F</b></div>
+    </td>
+    <td>
+      <div>(a) Omit “under this Part”, substitute “of determination of tenancy”.</div>
+      <div>(b) Omit “, in accordance with Form CA,”.</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 # Notes to the _Defence Service Homes Act 1918_
 
@@ -6280,11 +6318,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+</div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+</div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -6294,1435 +6334,1451 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>War Service Homes Act 1918</div>
-  </td>
-  <td>
-    <div>43, 1918</div>
-  </td>
-  <td>
-    <div>25 Dec 1918</div>
-  </td>
-  <td>
-    <div>6 Mar 1919 ( <i>see Gazette</i>1919, p. 377)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1919</div>
-  </td>
-  <td>
-    <div>28, 1919</div>
-  </td>
-  <td>
-    <div>28 Oct 1919</div>
-  </td>
-  <td>
-    <div>28 Oct 1919</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1920</div>
-  </td>
-  <td>
-    <div>35, 1920</div>
-  </td>
-  <td>
-    <div>19 Oct 1920</div>
-  </td>
-  <td>
-    <div>19 Oct 1920</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1923</div>
-  </td>
-  <td>
-    <div>18, 1923</div>
-  </td>
-  <td>
-    <div>1 Sept 1923</div>
-  </td>
-  <td>
-    <div>Ss. 7(1)(a), 8, 14, 15 and 22: 6 Mar 1919 
+<tbody>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1918</div>
+    </td>
+    <td>
+      <div>43, 1918</div>
+    </td>
+    <td>
+      <div>25 Dec 1918</div>
+    </td>
+    <td>
+      <div>6 Mar 1919 ( <i>see Gazette</i>1919, p. 377)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1919</div>
+    </td>
+    <td>
+      <div>28, 1919</div>
+    </td>
+    <td>
+      <div>28 Oct 1919</div>
+    </td>
+    <td>
+      <div>28 Oct 1919</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1920</div>
+    </td>
+    <td>
+      <div>35, 1920</div>
+    </td>
+    <td>
+      <div>19 Oct 1920</div>
+    </td>
+    <td>
+      <div>19 Oct 1920</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1923</div>
+    </td>
+    <td>
+      <div>18, 1923</div>
+    </td>
+    <td>
+      <div>1 Sept 1923</div>
+    </td>
+    <td>
+      <div>Ss. 7(1)(a), 8, 14, 15 and 22: 6 Mar 1919 
 S. 23: 1 Jan 1923 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 25</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1925</div>
-  </td>
-  <td>
-    <div>26, 1925</div>
-  </td>
-  <td>
-    <div>26 Sept 1925</div>
-  </td>
-  <td>
-    <div>12 Aug 1925</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1926</div>
-  </td>
-  <td>
-    <div>47, 1926</div>
-  </td>
-  <td>
-    <div>23 Aug 1926</div>
-  </td>
-  <td>
-    <div>23 Aug 1926</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1927</div>
-  </td>
-  <td>
-    <div>17, 1927</div>
-  </td>
-  <td>
-    <div>8 Apr 1927</div>
-  </td>
-  <td>
-    <div>8 Apr 1927</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1929</div>
-  </td>
-  <td>
-    <div>13, 1929</div>
-  </td>
-  <td>
-    <div>22 Mar 1929</div>
-  </td>
-  <td>
-    <div>Ss. 4 and 8: 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 25</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1925</div>
+    </td>
+    <td>
+      <div>26, 1925</div>
+    </td>
+    <td>
+      <div>26 Sept 1925</div>
+    </td>
+    <td>
+      <div>12 Aug 1925</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1926</div>
+    </td>
+    <td>
+      <div>47, 1926</div>
+    </td>
+    <td>
+      <div>23 Aug 1926</div>
+    </td>
+    <td>
+      <div>23 Aug 1926</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1927</div>
+    </td>
+    <td>
+      <div>17, 1927</div>
+    </td>
+    <td>
+      <div>8 Apr 1927</div>
+    </td>
+    <td>
+      <div>8 Apr 1927</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1929</div>
+    </td>
+    <td>
+      <div>13, 1929</div>
+    </td>
+    <td>
+      <div>22 Mar 1929</div>
+    </td>
+    <td>
+      <div>Ss. 4 and 8: 
 6 Mar 1919 
 S. 7: 1 July 1928 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1932</div>
-  </td>
-  <td>
-    <div>6, 1932</div>
-  </td>
-  <td>
-    <div>26 Mar 1932</div>
-  </td>
-  <td>
-    <div>26 Mar 1932 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act (No. 2) 1932</div>
-  </td>
-  <td>
-    <div>68, 1932</div>
-  </td>
-  <td>
-    <div>5 Dec 1932</div>
-  </td>
-  <td>
-    <div>1 Aug 1932</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1934</div>
-  </td>
-  <td>
-    <div>63, 1934</div>
-  </td>
-  <td>
-    <div>17 Dec 1934</div>
-  </td>
-  <td>
-    <div>17 Dec 1934</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1935</div>
-  </td>
-  <td>
-    <div>54, 1935</div>
-  </td>
-  <td>
-    <div>6 Dec 1935</div>
-  </td>
-  <td>
-    <div>S. 4: 1 Feb 1935 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1937</div>
-  </td>
-  <td>
-    <div>25, 1937</div>
-  </td>
-  <td>
-    <div>16 Sept 1937</div>
-  </td>
-  <td>
-    <div>16 Sept 1937</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1941</div>
-  </td>
-  <td>
-    <div>1, 1941</div>
-  </td>
-  <td>
-    <div>4 Apr 1941</div>
-  </td>
-  <td>
-    <div>2 May 1941</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1946</div>
-  </td>
-  <td>
-    <div>8, 1946</div>
-  </td>
-  <td>
-    <div>18 Apr 1946</div>
-  </td>
-  <td>
-    <div>18 Apr 1946</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Public Service Act 1947</div>
-  </td>
-  <td>
-    <div>1, 1947</div>
-  </td>
-  <td>
-    <div>14 Mar 1947</div>
-  </td>
-  <td>
-    <div>14 Mar 1947</div>
-  </td>
-  <td>
-    <div>S. 2(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1947</div>
-  </td>
-  <td>
-    <div>38, 1947</div>
-  </td>
-  <td>
-    <div>12 June 1947</div>
-  </td>
-  <td>
-    <div>14 July 1947 ( <i>see Gazette</i>1947, p. 1885)</div>
-  </td>
-  <td>
-    <div>S. 6(2) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act (No. 2) 1947</div>
-  </td>
-  <td>
-    <div>71, 1947</div>
-  </td>
-  <td>
-    <div>4 Dec 1947</div>
-  </td>
-  <td>
-    <div>4 Dec 1947</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1948</div>
-  </td>
-  <td>
-    <div>67, 1948</div>
-  </td>
-  <td>
-    <div>9 Dec 1948</div>
-  </td>
-  <td>
-    <div>6 Jan 1949</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1949</div>
-  </td>
-  <td>
-    <div>24, 1949</div>
-  </td>
-  <td>
-    <div>1 July 1949</div>
-  </td>
-  <td>
-    <div>1 July 1949</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1951</div>
-  </td>
-  <td>
-    <div>74, 1951</div>
-  </td>
-  <td>
-    <div>11 Dec 1951</div>
-  </td>
-  <td>
-    <div>11 Dec 1951</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1954</div>
-  </td>
-  <td>
-    <div>69, 1954</div>
-  </td>
-  <td>
-    <div>8 Nov 1954</div>
-  </td>
-  <td>
-    <div>8 Nov 1954</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Lands Acquisition Act 1955 (b)</div>
-  </td>
-  <td>
-    <div>69, 1955</div>
-  </td>
-  <td>
-    <div>4 Nov 1955</div>
-  </td>
-  <td>
-    <div>16 Feb 1956 ( <i>see Gazette</i>1956, p. 472)</div>
-  </td>
-  <td>
-    <div>S. 3(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1956</div>
-  </td>
-  <td>
-    <div>100, 1956</div>
-  </td>
-  <td>
-    <div>15 Nov 1956</div>
-  </td>
-  <td>
-    <div>S. 3 (d): 1 Sept 1952 ( <i>see</i>s. 2(2) and <i>Gazette</i>1957, p. 2631) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1932</div>
+    </td>
+    <td>
+      <div>6, 1932</div>
+    </td>
+    <td>
+      <div>26 Mar 1932</div>
+    </td>
+    <td>
+      <div>26 Mar 1932 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act (No. 2) 1932</div>
+    </td>
+    <td>
+      <div>68, 1932</div>
+    </td>
+    <td>
+      <div>5 Dec 1932</div>
+    </td>
+    <td>
+      <div>1 Aug 1932</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1934</div>
+    </td>
+    <td>
+      <div>63, 1934</div>
+    </td>
+    <td>
+      <div>17 Dec 1934</div>
+    </td>
+    <td>
+      <div>17 Dec 1934</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1935</div>
+    </td>
+    <td>
+      <div>54, 1935</div>
+    </td>
+    <td>
+      <div>6 Dec 1935</div>
+    </td>
+    <td>
+      <div>S. 4: 1 Feb 1935 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1937</div>
+    </td>
+    <td>
+      <div>25, 1937</div>
+    </td>
+    <td>
+      <div>16 Sept 1937</div>
+    </td>
+    <td>
+      <div>16 Sept 1937</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1941</div>
+    </td>
+    <td>
+      <div>1, 1941</div>
+    </td>
+    <td>
+      <div>4 Apr 1941</div>
+    </td>
+    <td>
+      <div>2 May 1941</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1946</div>
+    </td>
+    <td>
+      <div>8, 1946</div>
+    </td>
+    <td>
+      <div>18 Apr 1946</div>
+    </td>
+    <td>
+      <div>18 Apr 1946</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Public Service Act 1947</div>
+    </td>
+    <td>
+      <div>1, 1947</div>
+    </td>
+    <td>
+      <div>14 Mar 1947</div>
+    </td>
+    <td>
+      <div>14 Mar 1947</div>
+    </td>
+    <td>
+      <div>S. 2(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1947</div>
+    </td>
+    <td>
+      <div>38, 1947</div>
+    </td>
+    <td>
+      <div>12 June 1947</div>
+    </td>
+    <td>
+      <div>14 July 1947 ( <i>see Gazette</i>1947, p. 1885)</div>
+    </td>
+    <td>
+      <div>S. 6(2) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act (No. 2) 1947</div>
+    </td>
+    <td>
+      <div>71, 1947</div>
+    </td>
+    <td>
+      <div>4 Dec 1947</div>
+    </td>
+    <td>
+      <div>4 Dec 1947</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1948</div>
+    </td>
+    <td>
+      <div>67, 1948</div>
+    </td>
+    <td>
+      <div>9 Dec 1948</div>
+    </td>
+    <td>
+      <div>6 Jan 1949</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1949</div>
+    </td>
+    <td>
+      <div>24, 1949</div>
+    </td>
+    <td>
+      <div>1 July 1949</div>
+    </td>
+    <td>
+      <div>1 July 1949</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1951</div>
+    </td>
+    <td>
+      <div>74, 1951</div>
+    </td>
+    <td>
+      <div>11 Dec 1951</div>
+    </td>
+    <td>
+      <div>11 Dec 1951</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1954</div>
+    </td>
+    <td>
+      <div>69, 1954</div>
+    </td>
+    <td>
+      <div>8 Nov 1954</div>
+    </td>
+    <td>
+      <div>8 Nov 1954</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Lands Acquisition Act 1955 (b)</div>
+    </td>
+    <td>
+      <div>69, 1955</div>
+    </td>
+    <td>
+      <div>4 Nov 1955</div>
+    </td>
+    <td>
+      <div>16 Feb 1956 ( <i>see Gazette</i>1956, p. 472)</div>
+    </td>
+    <td>
+      <div>S. 3(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1956</div>
+    </td>
+    <td>
+      <div>100, 1956</div>
+    </td>
+    <td>
+      <div>15 Nov 1956</div>
+    </td>
+    <td>
+      <div>S. 3 (d): 1 Sept 1952 ( <i>see</i>s. 2(2) and <i>Gazette</i>1957, p. 2631) 
 Remainder: 
-15 Nov 1956</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1961</div>
-  </td>
-  <td>
-    <div>73, 1961</div>
-  </td>
-  <td>
-    <div>27 Oct 1961</div>
-  </td>
-  <td>
-    <div>24 Nov 1961</div>
-  </td>
-  <td>
-    <div>S. 4(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1962</div>
-  </td>
-  <td>
-    <div>2, 1962</div>
-  </td>
-  <td>
-    <div>17 Mar 1962</div>
-  </td>
-  <td>
-    <div>17 Mar 1962</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act (No. 2) 1962</div>
-  </td>
-  <td>
-    <div>93, 1962</div>
-  </td>
-  <td>
-    <div>14 Dec 1962</div>
-  </td>
-  <td>
-    <div>28 May 1963 ( <i>see</i>s. 2 and <i>Gazette</i>1963, p. 1869)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>National Debt Sinking Fund Act 1966</div>
-  </td>
-  <td>
-    <div>65, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>1 July 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision (Decimal Currency) Act 1966</div>
-  </td>
-  <td>
-    <div>93, 1966</div>
-  </td>
-  <td>
-    <div>29 Oct 1966</div>
-  </td>
-  <td>
-    <div>S. 7: 18 Mar 1971 ( <i>see</i>s. 2(2) and <i>Gazette</i>1971, p. 2003) 
-Remainder: 1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Service Act 1967</div>
-  </td>
-  <td>
-    <div>3, 1967</div>
-  </td>
-  <td>
-    <div>13 Apr 1967</div>
-  </td>
-  <td>
-    <div>1 Dec 1966</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1968</div>
-  </td>
-  <td>
-    <div>99, 1968</div>
-  </td>
-  <td>
-    <div>25 Nov 1968</div>
-  </td>
-  <td>
-    <div>Ss. 3, 14, 16 and 19: 1 July 1969 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 14(2) and 18(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>War Service Homes Act 1971</div>
-  </td>
-  <td>
-    <div>120, 1971</div>
-  </td>
-  <td>
-    <div>10 Dec 1971</div>
-  </td>
-  <td>
-    <div>10 Dec 1971</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Act 1973</div>
-  </td>
-  <td>
-    <div>31, 1973</div>
-  </td>
-  <td>
-    <div>15 May 1973</div>
-  </td>
-  <td>
-    <div>Ss. 4(c), (g) and 6: 3 Sept 1973 ( <i>see Gazette</i>1973, No. 119) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 14(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1973</div>
-  </td>
-  <td>
-    <div>216, 1973</div>
-  </td>
-  <td>
-    <div>19 Dec 1973</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>Ss. 9(1) and 10</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1974</div>
-  </td>
-  <td>
-    <div>20, 1974</div>
-  </td>
-  <td>
-    <div>25 July 1974</div>
-  </td>
-  <td>
-    <div>31 Dec 1973</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Act 1974</div>
-  </td>
-  <td>
-    <div>125, 1974</div>
-  </td>
-  <td>
-    <div>6 Dec 1974</div>
-  </td>
-  <td>
-    <div>6 Dec 1974</div>
-  </td>
-  <td>
-    <div>Ss. 13(2), 14(2), 17(2) and 18(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Housing Corporation Act 1975 (c)</div>
-  </td>
-  <td>
-    <div>25, 1975</div>
-  </td>
-  <td>
-    <div>18 Apr 1975</div>
-  </td>
-  <td>
-    <div>24 June 1975 ( <i>see Gazette</i>1975, No. S117)</div>
-  </td>
-  <td>
-    <div>S. 59(4) and (5)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1976 (c)</div>
-  </td>
-  <td>
-    <div>185, 1976</div>
-  </td>
-  <td>
-    <div>13 Dec 1976</div>
-  </td>
-  <td>
-    <div>13 Dec 1976</div>
-  </td>
-  <td>
-    <div>S. 8(2) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1977</div>
-  </td>
-  <td>
-    <div>79, 1977</div>
-  </td>
-  <td>
-    <div>16 June 1977</div>
-  </td>
-  <td>
-    <div>1 July 1977</div>
-  </td>
-  <td>
-    <div>Ss. 3(2) and 14</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Changes (Consequential Provisions) Act 1978</div>
-  </td>
-  <td>
-    <div>36, 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>12 June 1978</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1978</div>
-  </td>
-  <td>
-    <div>137, 1978</div>
-  </td>
-  <td>
-    <div>11 Nov 1978</div>
-  </td>
-  <td>
-    <div>Ss. 11 and 15: 
+15 Nov 1956 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1961</div>
+    </td>
+    <td>
+      <div>73, 1961</div>
+    </td>
+    <td>
+      <div>27 Oct 1961</div>
+    </td>
+    <td>
+      <div>24 Nov 1961</div>
+    </td>
+    <td>
+      <div>S. 4(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1962</div>
+    </td>
+    <td>
+      <div>2, 1962</div>
+    </td>
+    <td>
+      <div>17 Mar 1962</div>
+    </td>
+    <td>
+      <div>17 Mar 1962</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act (No. 2) 1962</div>
+    </td>
+    <td>
+      <div>93, 1962</div>
+    </td>
+    <td>
+      <div>14 Dec 1962</div>
+    </td>
+    <td>
+      <div>28 May 1963 ( <i>see</i>s. 2 and <i>Gazette</i>1963, p. 1869)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>National Debt Sinking Fund Act 1966</div>
+    </td>
+    <td>
+      <div>65, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>1 July 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision (Decimal Currency) Act 1966</div>
+    </td>
+    <td>
+      <div>93, 1966</div>
+    </td>
+    <td>
+      <div>29 Oct 1966</div>
+    </td>
+    <td>
+      <div>S. 7: 18 Mar 1971 ( <i>see</i>s. 2(2) and <i>Gazette</i>1971, p. 2003) 
+Remainder: 1 Dec 1966 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Service Act 1967</div>
+    </td>
+    <td>
+      <div>3, 1967</div>
+    </td>
+    <td>
+      <div>13 Apr 1967</div>
+    </td>
+    <td>
+      <div>1 Dec 1966</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1968</div>
+    </td>
+    <td>
+      <div>99, 1968</div>
+    </td>
+    <td>
+      <div>25 Nov 1968</div>
+    </td>
+    <td>
+      <div>Ss. 3, 14, 16 and 19: 1 July 1969 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>Ss. 14(2) and 18(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>War Service Homes Act 1971</div>
+    </td>
+    <td>
+      <div>120, 1971</div>
+    </td>
+    <td>
+      <div>10 Dec 1971</div>
+    </td>
+    <td>
+      <div>10 Dec 1971</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Act 1973</div>
+    </td>
+    <td>
+      <div>31, 1973</div>
+    </td>
+    <td>
+      <div>15 May 1973</div>
+    </td>
+    <td>
+      <div>Ss. 4(c), (g) and 6: 3 Sept 1973 ( <i>see Gazette</i>1973, No. 119) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 14(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1973</div>
+    </td>
+    <td>
+      <div>216, 1973</div>
+    </td>
+    <td>
+      <div>19 Dec 1973</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>Ss. 9(1) and 10</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1974</div>
+    </td>
+    <td>
+      <div>20, 1974</div>
+    </td>
+    <td>
+      <div>25 July 1974</div>
+    </td>
+    <td>
+      <div>31 Dec 1973</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Act 1974</div>
+    </td>
+    <td>
+      <div>125, 1974</div>
+    </td>
+    <td>
+      <div>6 Dec 1974</div>
+    </td>
+    <td>
+      <div>6 Dec 1974</div>
+    </td>
+    <td>
+      <div>Ss. 13(2), 14(2), 17(2) and 18(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Housing Corporation Act 1975 (c)</div>
+    </td>
+    <td>
+      <div>25, 1975</div>
+    </td>
+    <td>
+      <div>18 Apr 1975</div>
+    </td>
+    <td>
+      <div>24 June 1975 ( <i>see Gazette</i>1975, No. S117)</div>
+    </td>
+    <td>
+      <div>S. 59(4) and (5)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1976 (c)</div>
+    </td>
+    <td>
+      <div>185, 1976</div>
+    </td>
+    <td>
+      <div>13 Dec 1976</div>
+    </td>
+    <td>
+      <div>13 Dec 1976</div>
+    </td>
+    <td>
+      <div>S. 8(2) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1977</div>
+    </td>
+    <td>
+      <div>79, 1977</div>
+    </td>
+    <td>
+      <div>16 June 1977</div>
+    </td>
+    <td>
+      <div>1 July 1977</div>
+    </td>
+    <td>
+      <div>Ss. 3(2) and 14</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Changes (Consequential Provisions) Act 1978</div>
+    </td>
+    <td>
+      <div>36, 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>12 June 1978</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1978</div>
+    </td>
+    <td>
+      <div>137, 1978</div>
+    </td>
+    <td>
+      <div>11 Nov 1978</div>
+    </td>
+    <td>
+      <div>Ss. 11 and 15: 
 1 Oct 1980 ( <i>see Gazette</i>1980, No. S218) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 3(2), 7(2) and 17</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1980</div>
-  </td>
-  <td>
-    <div>4, 1980</div>
-  </td>
-  <td>
-    <div>19 Mar 1980</div>
-  </td>
-  <td>
-    <div>S. 9: 1 Oct 1980 ( <i>see</i>s. 2 and <i>Gazette</i>1980, No. S218) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act (No. 2) 1980</div>
-  </td>
-  <td>
-    <div>128, 1980</div>
-  </td>
-  <td>
-    <div>19 Sept 1980</div>
-  </td>
-  <td>
-    <div>15 Oct 1980 ( <i>see Gazette</i>1980, No. S231)</div>
-  </td>
-  <td>
-    <div>Ss. 7(2), 8(2), 9(2) and 10(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
-  </td>
-  <td>
-    <div>80, 1982</div>
-  </td>
-  <td>
-    <div>22 Sept 1982</div>
-  </td>
-  <td>
-    <div>Part XXX 
-(ss. 84–90): 20 Oct 1982 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Repatriation Legislation Amendment Act 1983</div>
-  </td>
-  <td>
-    <div>70, 1983</div>
-  </td>
-  <td>
-    <div>24 Oct 1983</div>
-  </td>
-  <td>
-    <div>S. 4: 23 Dec 1983 ( <i>see Gazette</i>1983, No. S335) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 3(2), 7(2) and 17</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1980</div>
+    </td>
+    <td>
+      <div>4, 1980</div>
+    </td>
+    <td>
+      <div>19 Mar 1980</div>
+    </td>
+    <td>
+      <div>S. 9: 1 Oct 1980 ( <i>see</i>s. 2 and <i>Gazette</i>1980, No. S218) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act (No. 2) 1980</div>
+    </td>
+    <td>
+      <div>128, 1980</div>
+    </td>
+    <td>
+      <div>19 Sept 1980</div>
+    </td>
+    <td>
+      <div>15 Oct 1980 ( <i>see Gazette</i>1980, No. S231)</div>
+    </td>
+    <td>
+      <div>Ss. 7(2), 8(2), 9(2) and 10(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Amendments) Act (No. 2) 1982</div>
+    </td>
+    <td>
+      <div>80, 1982</div>
+    </td>
+    <td>
+      <div>22 Sept 1982</div>
+    </td>
+    <td>
+      <div>Part XXX 
+(ss. 84–90): 20 Oct 1982 <i>(d)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Repatriation Legislation Amendment Act 1983</div>
+    </td>
+    <td>
+      <div>70, 1983</div>
+    </td>
+    <td>
+      <div>24 Oct 1983</div>
+    </td>
+    <td>
+      <div>S. 4: 23 Dec 1983 ( <i>see Gazette</i>1983, No. S335) 
 Ss. 5 and 14(2): 1 Nov 1983 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 36</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
-  </td>
-  <td>
-    <div>72, 1984</div>
-  </td>
-  <td>
-    <div>25 June 1984</div>
-  </td>
-  <td>
-    <div>S. 3: 23 July 1984 <i>(e)</i></div>
-  </td>
-  <td>
-    <div>S. 5(1) and (3)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986</div>
-  </td>
-  <td>
-    <div>28, 1986</div>
-  </td>
-  <td>
-    <div>19 May 1986</div>
-  </td>
-  <td>
-    <div>S. 61: Royal Assent 
-Remainder: 22 May 1986 ( <i>see Gazette</i>1986, No. S225)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986</div>
-  </td>
-  <td>
-    <div>29, 1986</div>
-  </td>
-  <td>
-    <div>19 May 1986</div>
-  </td>
-  <td>
-    <div><i>(f)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1987</div>
-  </td>
-  <td>
-    <div>78, 1987</div>
-  </td>
-  <td>
-    <div>5 June 1987</div>
-  </td>
-  <td>
-    <div>S. 62: 5 June 1987 <i>(g)</i> 
-S. 63: <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>124, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Ss. 1 and 2: Royal Assent 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>S. 36</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1984</div>
+    </td>
+    <td>
+      <div>72, 1984</div>
+    </td>
+    <td>
+      <div>25 June 1984</div>
+    </td>
+    <td>
+      <div>S. 3: 23 July 1984 <i>(e)</i></div>
+    </td>
+    <td>
+      <div>S. 5(1) and (3)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Act 1986</div>
+    </td>
+    <td>
+      <div>28, 1986</div>
+    </td>
+    <td>
+      <div>19 May 1986</div>
+    </td>
+    <td>
+      <div>S. 61: Royal Assent 
+Remainder: 22 May 1986 ( <i>see Gazette</i>1986, No. S225) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Entitlements (Transitional Provisions and Consequential Amendments) Amendment Act 1986</div>
+    </td>
+    <td>
+      <div>29, 1986</div>
+    </td>
+    <td>
+      <div>19 May 1986</div>
+    </td>
+    <td>
+      <div><i>(f)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1987</div>
+    </td>
+    <td>
+      <div>78, 1987</div>
+    </td>
+    <td>
+      <div>5 June 1987</div>
+    </td>
+    <td>
+      <div>S. 62: 5 June 1987 <i>(g)</i> 
+S. 63: <i>(g)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>124, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>Ss. 1 and 2: Royal Assent 
 S. 15: 30 June 1989 ( <i>see Gazette</i>1989, No. S190) 
-Remainder: 19 Dec 1988 ( <i>see Gazette</i>1988, No. S393)</div>
-  </td>
-  <td>
-    <div>Ss. 17–19</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>86, 1989</div>
-  </td>
-  <td>
-    <div>27 June 1989</div>
-  </td>
-  <td>
-    <div><i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>93, 1989</div>
-  </td>
-  <td>
-    <div>27 June 1989</div>
-  </td>
-  <td>
-    <div>Ss. 3(1), 9, 14 and 17: 22 Dec 1988 
+Remainder: 19 Dec 1988 ( <i>see Gazette</i>1988, No. S393) 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 17–19</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>86, 1989</div>
+    </td>
+    <td>
+      <div>27 June 1989</div>
+    </td>
+    <td>
+      <div><i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>93, 1989</div>
+    </td>
+    <td>
+      <div>27 June 1989</div>
+    </td>
+    <td>
+      <div>Ss. 3(1), 9, 14 and 17: 22 Dec 1988 
 Ss. 7, 11(a), (b) and 15: 18 Feb 1989 
 S. 11(c): 1 Jan 1990 
 S. 13: 22 May 1986 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1990</div>
-  </td>
-  <td>
-    <div>2, 1991</div>
-  </td>
-  <td>
-    <div>8 Jan 1991</div>
-  </td>
-  <td>
-    <div>Ss. 4–6, 7(a), 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1990</div>
+    </td>
+    <td>
+      <div>2, 1991</div>
+    </td>
+    <td>
+      <div>8 Jan 1991</div>
+    </td>
+    <td>
+      <div>Ss. 4–6, 7(a), 
 (e)–(h), (k), 8–21 and 93: Royal Assent <i>(i)</i> 
 S. 7(b) and (j): <i>(i)</i> 
 S. 7(c): 18 Feb 1989 <i>(i)</i> 
-S. 7(d): 2 Aug 1990 <i>(i)</i></div>
-  </td>
-  <td>
-    <div>Ss. 5, 6, 19 (2)–(4), 13(2), 21 and 93 (am. by 73, 1991, s. 21)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
-  </td>
-  <td>
-    <div>73, 1991</div>
-  </td>
-  <td>
-    <div>25 June 1991</div>
-  </td>
-  <td>
-    <div>( <i>see</i> 73, 1991 below)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1996</div>
-  </td>
-  <td>
-    <div>43, 1996</div>
-  </td>
-  <td>
-    <div>25 Oct 1996</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 129): 8 Jan 1991 <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Force (Home Loans Assistance) Act 1990</div>
-  </td>
-  <td>
-    <div>14, 1991</div>
-  </td>
-  <td>
-    <div>21 Jan 1991</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1–9) and Schedule 1: Royal Assent 
+S. 7(d): 2 Aug 1990 <i>(i)</i> 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 5, 6, 19 (2)–(4), 13(2), 21 and 93 (am. by 73, 1991, s. 21)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
+    </td>
+    <td>
+      <div>73, 1991</div>
+    </td>
+    <td>
+      <div>25 June 1991</div>
+    </td>
+    <td>
+      <div>( <i>see</i> 73, 1991 below)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1996</div>
+    </td>
+    <td>
+      <div>43, 1996</div>
+    </td>
+    <td>
+      <div>25 Oct 1996</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 129): 8 Jan 1991 <i>(j)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Force (Home Loans Assistance) Act 1990</div>
+    </td>
+    <td>
+      <div>14, 1991</div>
+    </td>
+    <td>
+      <div>21 Jan 1991</div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1–9) and Schedule 1: Royal Assent 
 Schedule 2: 1 Mar 1991 ( <i>see Gazette</i>1991, No. S24) 
-Remainder: 15 May 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
-  </td>
-  <td>
-    <div>73, 1991</div>
-  </td>
-  <td>
-    <div>25 June 1991</div>
-  </td>
-  <td>
-    <div>S. 19: <i>(k)</i> 
-Remainder: 1 July 1991</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1991</div>
-  </td>
-  <td>
-    <div>74, 1991</div>
-  </td>
-  <td>
-    <div>25 June 1991</div>
-  </td>
-  <td>
-    <div>S. 5: Royal Assent <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 2) 1991</div>
-  </td>
-  <td>
-    <div>208, 1991</div>
-  </td>
-  <td>
-    <div>24 Dec 1991</div>
-  </td>
-  <td>
-    <div>S. 21 (in part): Royal Assent <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1992</div>
-  </td>
-  <td>
-    <div>70, 1992</div>
-  </td>
-  <td>
-    <div>26 June 1992</div>
-  </td>
-  <td>
-    <div>Part 2 (ss. 3–11): Royal Assent <i>(n)</i> 
-Schedule (Part 4): 1 July 1991 <i>(n)</i></div>
-  </td>
-  <td>
-    <div>S. 10(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 2) 1992</div>
-  </td>
-  <td>
-    <div>228, 1992</div>
-  </td>
-  <td>
-    <div>24 Dec 1992</div>
-  </td>
-  <td>
-    <div>Part 2 (ss. 4, 5): 
-1 Jan 1993 <i>(o)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>78, 1994</div>
-  </td>
-  <td>
-    <div>21 June 1994</div>
-  </td>
-  <td>
-    <div>S. 37: Royal Assent <i>(p)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs (1995-96 Budget Measures) Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>128, 1995</div>
-  </td>
-  <td>
-    <div>14 Nov 1995</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–8, 10–47, 50, 52–59, 61–66): Royal Assent <i>(q)</i>Schedule 1 (items 9, 48, 49, 51, 60): 1 July 1995 <i>(q)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 66)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 1996</div>
-  </td>
-  <td>
-    <div>55, 1996</div>
-  </td>
-  <td>
-    <div>8 Nov 1996</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 1–4, 6, 7): Royal Assent <i>(r)</i> 
-Schedule 1 (item 5): 1 Nov 1996 <i>(r)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 7) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment (1996-97 Budget Measures) Act 1997</div>
-  </td>
-  <td>
-    <div>7, 1997</div>
-  </td>
-  <td>
-    <div>5 Mar 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1–4): Royal Assent <i>(s)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>152, 1997</div>
-  </td>
-  <td>
-    <div>24 Oct 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 709–715): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(t)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997</div>
-  </td>
-  <td>
-    <div>157, 1997</div>
-  </td>
-  <td>
-    <div>3 Nov 1997</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent <i>(u)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Service Homes Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>183, 1997</div>
-  </td>
-  <td>
-    <div>27 Nov 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1: Royal Assent <i>(v)</i></div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 10) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 381, 382): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(w)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 1999</div>
-  </td>
-  <td>
-    <div>171, 1999</div>
-  </td>
-  <td>
-    <div>10 Dec 1999</div>
-  </td>
-  <td>
-    <div>Schedule 5 and Schedule 6 (items 1–5): Royal Assent <i>(x)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>141, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Schedule 2: Royal Assent <i>(y)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>16, 2001</div>
-  </td>
-  <td>
-    <div>30 Mar 2001</div>
-  </td>
-  <td>
-    <div>24 May 2001 ( <i>see</i>s. 2)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>8, 2005</div>
-  </td>
-  <td>
-    <div>22 Feb 2005</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1 (items 135, 496): Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Home Ownership Assistance Scheme (Consequential Amendments) Act 2008</div>
-  </td>
-  <td>
-    <div>28, 2008</div>
-  </td>
-  <td>
-    <div>23 June 2008</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 6, 7): 1 July 2008 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
-  </td>
-  <td>
-    <div>144, 2008</div>
-  </td>
-  <td>
-    <div>9 Dec 2008</div>
-  </td>
-  <td>
-    <div>Schedule 15 (items 1–32): 1 July 2009</div>
-  </td>
-  <td>
-    <div>Sch. 15 (items 9, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment (Budget Measures) Act 2009</div>
-  </td>
-  <td>
-    <div>80, 2009</div>
-  </td>
-  <td>
-    <div>10 Sept 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 11, 12): 11 Sept 2009</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs Legislation Amendment (2010 Budget Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>83, 2010</div>
-  </td>
-  <td>
-    <div>29 June 2010</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 9, 10) and Schedule 3 (item 1): 1 July 2010</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 10) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Veterans’ Affairs and Other Legislation Amendment (Miscellaneous Measures) Act 2010</div>
-  </td>
-  <td>
-    <div>120, 2010</div>
-  </td>
-  <td>
-    <div>17 Nov 2010</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 6, 7): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+Remainder: 15 May 1991 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Entitlements (Rewrite) Transition Act 1991</div>
+    </td>
+    <td>
+      <div>73, 1991</div>
+    </td>
+    <td>
+      <div>25 June 1991</div>
+    </td>
+    <td>
+      <div>S. 19: <i>(k)</i> 
+Remainder: 1 July 1991 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1991</div>
+    </td>
+    <td>
+      <div>74, 1991</div>
+    </td>
+    <td>
+      <div>25 June 1991</div>
+    </td>
+    <td>
+      <div>S. 5: Royal Assent <i>(l)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 2) 1991</div>
+    </td>
+    <td>
+      <div>208, 1991</div>
+    </td>
+    <td>
+      <div>24 Dec 1991</div>
+    </td>
+    <td>
+      <div>S. 21 (in part): Royal Assent <i>(m)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1992</div>
+    </td>
+    <td>
+      <div>70, 1992</div>
+    </td>
+    <td>
+      <div>26 June 1992</div>
+    </td>
+    <td>
+      <div>Part 2 (ss. 3–11): Royal Assent <i>(n)</i> 
+Schedule (Part 4): 1 July 1991 <i>(n)</i> 
+</div>
+    </td>
+    <td>
+      <div>S. 10(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 2) 1992</div>
+    </td>
+    <td>
+      <div>228, 1992</div>
+    </td>
+    <td>
+      <div>24 Dec 1992</div>
+    </td>
+    <td>
+      <div>Part 2 (ss. 4, 5): 
+1 Jan 1993 <i>(o)</i> 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>78, 1994</div>
+    </td>
+    <td>
+      <div>21 June 1994</div>
+    </td>
+    <td>
+      <div>S. 37: Royal Assent <i>(p)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs (1995-96 Budget Measures) Legislation Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>128, 1995</div>
+    </td>
+    <td>
+      <div>14 Nov 1995</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–8, 10–47, 50, 52–59, 61–66): Royal Assent <i>(q)</i>Schedule 1 (items 9, 48, 49, 51, 60): 1 July 1995 <i>(q)</i></div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 66)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 1996</div>
+    </td>
+    <td>
+      <div>55, 1996</div>
+    </td>
+    <td>
+      <div>8 Nov 1996</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 1–4, 6, 7): Royal Assent <i>(r)</i> 
+Schedule 1 (item 5): 1 Nov 1996 <i>(r)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 7) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment (1996-97 Budget Measures) Act 1997</div>
+    </td>
+    <td>
+      <div>7, 1997</div>
+    </td>
+    <td>
+      <div>5 Mar 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 1–4): Royal Assent <i>(s)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Audit (Transitional and Miscellaneous) Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>152, 1997</div>
+    </td>
+    <td>
+      <div>24 Oct 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 709–715): 1 Jan 1998 ( <i>see Gazette</i>1997, No. GN49) <i>(t)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment (Budget and Compensation Measures) Act 1997</div>
+    </td>
+    <td>
+      <div>157, 1997</div>
+    </td>
+    <td>
+      <div>3 Nov 1997</div>
+    </td>
+    <td>
+      <div>Schedule 2: Royal Assent <i>(u)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Service Homes Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>183, 1997</div>
+    </td>
+    <td>
+      <div>27 Nov 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1: Royal Assent <i>(v)</i></div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 10) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 381, 382): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(w)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 1999</div>
+    </td>
+    <td>
+      <div>171, 1999</div>
+    </td>
+    <td>
+      <div>10 Dec 1999</div>
+    </td>
+    <td>
+      <div>Schedule 5 and Schedule 6 (items 1–5): Royal Assent <i>(x)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment Act (No. 1) 2000</div>
+    </td>
+    <td>
+      <div>141, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td>
+      <div>Schedule 2: Royal Assent <i>(y)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>16, 2001</div>
+    </td>
+    <td>
+      <div>30 Mar 2001</div>
+    </td>
+    <td>
+      <div>24 May 2001 ( <i>see</i>s. 2)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Framework Legislation Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>8, 2005</div>
+    </td>
+    <td>
+      <div>22 Feb 2005</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1 (items 135, 496): Royal Assent</div>
+    </td>
+    <td>
+      <div>S. 4 and Sch. 1 (item 496) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Defence Home Ownership Assistance Scheme (Consequential Amendments) Act 2008</div>
+    </td>
+    <td>
+      <div>28, 2008</div>
+    </td>
+    <td>
+      <div>23 June 2008</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 6, 7): 1 July 2008 ( <i>see</i>s. 2(1))</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008</div>
+    </td>
+    <td>
+      <div>144, 2008</div>
+    </td>
+    <td>
+      <div>9 Dec 2008</div>
+    </td>
+    <td>
+      <div>Schedule 15 (items 1–32): 1 July 2009</div>
+    </td>
+    <td>
+      <div>Sch. 15 (items 9, 11) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment (Budget Measures) Act 2009</div>
+    </td>
+    <td>
+      <div>80, 2009</div>
+    </td>
+    <td>
+      <div>10 Sept 2009</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 11, 12): 11 Sept 2009</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Veterans’ Affairs Legislation Amendment (2010 Budget Measures) Act 2010</div>
+    </td>
+    <td>
+      <div>83, 2010</div>
+    </td>
+    <td>
+      <div>29 June 2010</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 9, 10) and Schedule 3 (item 1): 1 July 2010</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 10) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     By virtue of subsection 3(2) of the _War Service Homes Act 1932_, the amendment made by subsection 3(1) of that Act is deemed to have commenced on the date of commencement of the _War Service Homes Act 1918_, viz.—6 March 1919\. 
 
@@ -7799,7 +7855,7 @@ _(n)_     The _Defence Service Homes Act 1918_ was amended by Part 2 (
 _(o)_     The _Defence Service Homes Act 1918_ was amended by Part 2 (sections 4 and 5) only of the _Veterans’ Affairs Legislation Amendment Act (No. 2) 1992_, subsection 2(4)(a) of which provides as follows: 
 
                  (4)   The following provisions commence, or are taken to have commenced, on 
-  1 January 1993: 
+1 January 1993: 
 
                               (a)   Part 2;
 
@@ -7855,6 +7911,7 @@ _(y)_ The _Defence Service Homes Act 1918_ was amended by Schedule 2 only of t
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
+
 The amendment history of the _Defence Service Homes Act 1918_ appears in the Table below. For repealed provisions up to and including Act No. 124 of 1988 see the Repeal Table.
 
 ## Table of Amendments
@@ -7880,1598 +7937,1577 @@ The amendment history of the _Defence Service Homes Act 1918_ appears in the Tab
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>rs. No. 4, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 1988; No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 1, 1941; No. 8, 1946; Nos. 38 and 71, 1947; No. 74, 1951; No. 69, 1954; No. 100, 1956; No. 93, 1962; No. 99, 1968; No. 120, 1971; Nos. 31 and 216, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 137, 1978; No. 80, 1982; No. 72, 1984; Nos. 28, 1986; No. 29, 1986 (as am. by No. 78, 1987); No. 124, 1988; Nos. 86 and 93, 1989; Nos. 2, 14, 73, 74 and 208, 1991; No. 70, 1992; No. 128, 1995; No. 55, 1996; Nos. 7 and 157, 1997; No. 171, 1999; No. 141, 2000; No. 144, 2008; No. 83, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1978; No. 124, 1988; No. 2, 1991; No. 70, 1992; No. 78, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AAB</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AA</div>
-  </td>
-  <td>
-    <div>ad. No. 69, 1954</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AB</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 4A</div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 99, 1968; No. 31, 1973; No. 25, 1975; No. 124, 1988; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4BA</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 70, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4BB</div>
-  </td>
-  <td>
-    <div>ad. No. 70, 1992</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 4B</div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 69, 1954</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4C</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4D</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4E</div>
-  </td>
-  <td>
-    <div>ad. No. 16, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part II</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 1974</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6A</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6B, 6C</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6D</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part III</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part III</div>
-  </td>
-  <td>
-    <div>rs. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 128, 1995; No. 183, 1997; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 18</div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; Nos. 70 and 228, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 86, 1989; No. 2, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 141, 2000; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991 (as am. by No. 43, 1996); No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21A</div>
-  </td>
-  <td>
-    <div>ad. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; No. 171, 1999; No. 141, 2000; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IIIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IIIA</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Renumbered s. 23AA</div>
-  </td>
-  <td>
-    <div>No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23B</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23C, 23D</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23E</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23F</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23G</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23H</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23J</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 146 and 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 23K, 23L</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IV</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24A</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; No. 70, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 27</div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27A</div>
-  </td>
-  <td>
-    <div>ad. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part V</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 74, 1991; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. Nos. 7 and 183, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 2, 1991; No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 183, 1997; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 183, 1997; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35AAA</div>
-  </td>
-  <td>
-    <div>ad. No. 171, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35AA</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 35AB–35AD</div>
-  </td>
-  <td>
-    <div>ad. No. 183, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 35A</div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35A</div>
-  </td>
-  <td>
-    <div>ad. No. 55, 1996</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VI</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38C</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 2 and 14, 1991; No. 128, 1995; No. 171, 1999; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 38CA</div>
-  </td>
-  <td>
-    <div>am. No. 80, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38CA</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38CAA</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38CB</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38D</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 128, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38E</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 14, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38EA</div>
-  </td>
-  <td>
-    <div>ad. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38EAA</div>
-  </td>
-  <td>
-    <div>ad. No. 80, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38FA</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38F</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 14, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38G</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38GA</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38H</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VII</div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 40</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 67, 1948</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975; No. 137, 1978; No. 124, 1988; No. 70, 1992; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 120, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 40A</div>
-  </td>
-  <td>
-    <div>am. No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40A</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 36, 1978; No. 4, 1980; No. 152, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>rs. No. 6, 1932</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 45</div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 70, 1992; No. 55, 1996; No. 183, 1997; No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45A</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 2, 1991; No. 141, 2000; No. 144, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45B</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 141, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45C</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 46</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975; No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 38, 1947; No. 25, 1975; No. 4, 1980; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50A</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954; No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975; No. 124, 1988; No. 16, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50B</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975; No. 79, 1977; No. 36, 1978; No. 72, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 86, 1989</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 125, 1974; No. 185, 1976; No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Schedules</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 1A</div>
-  </td>
-  <td>
-    <div>ad. No. 2, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule 2</div>
-  </td>
-  <td>
-    <div>ad. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 183, 1997</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>rs. No. 4, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 124, 1988; No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part I</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 1, 1941; No. 8, 1946; Nos. 38 and 71, 1947; No. 74, 1951; No. 69, 1954; No. 100, 1956; No. 93, 1962; No. 99, 1968; No. 120, 1971; Nos. 31 and 216, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 137, 1978; No. 80, 1982; No. 72, 1984; Nos. 28, 1986; No. 29, 1986 (as am. by No. 78, 1987); No. 124, 1988; Nos. 86 and 93, 1989; Nos. 2, 14, 73, 74 and 208, 1991; No. 70, 1992; No. 128, 1995; No. 55, 1996; Nos. 7 and 157, 1997; No. 171, 1999; No. 141, 2000; No. 144, 2008; No. 83, 2010</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AAA</div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 137, 1978; No. 124, 1988; No. 2, 1991; No. 70, 1992; No. 78, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AAB</div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AA</div>
+    </td>
+    <td>
+      <div>ad. No. 69, 1954</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AB</div>
+    </td>
+    <td>
+      <div>ad. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 4A</div>
+    </td>
+    <td>
+      <div>am. No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 99, 1968; No. 31, 1973; No. 25, 1975; No. 124, 1988; No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4BA</div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 70, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4BB</div>
+    </td>
+    <td>
+      <div>ad. No. 70, 1992</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 4B</div>
+    </td>
+    <td>
+      <div>rs. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4B</div>
+    </td>
+    <td>
+      <div>ad. No. 69, 1954</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4C</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4D</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4E</div>
+    </td>
+    <td>
+      <div>ad. No. 16, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part II</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 1974</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6A</div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6B, 6C</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6D</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part III</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part III</div>
+    </td>
+    <td>
+      <div>rs. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part III</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 128, 1995; No. 183, 1997; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17A</div>
+    </td>
+    <td>
+      <div>ad. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 18</div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; Nos. 70 and 228, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000; No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 86, 1989; No. 2, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 141, 2000; No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991 (as am. by No. 43, 1996); No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21A</div>
+    </td>
+    <td>
+      <div>ad. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; No. 171, 1999; No. 141, 2000; No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23A</div>
+    </td>
+    <td>
+      <div>ad. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IIIA</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IIIA</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23A</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Renumbered s. 23AA</div>
+    </td>
+    <td>
+      <div>No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23B</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 23C, 23D</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23E</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23F</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23G</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23H</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23J</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 146 and 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 23K, 23L</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part IV</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IV</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24A</div>
+    </td>
+    <td>
+      <div>ad. No. 28, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; No. 70, 1992; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000; No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 27</div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27A</div>
+    </td>
+    <td>
+      <div>ad. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000; No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 128, 1995; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part V</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part V</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 74, 1991; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. Nos. 7 and 183, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 2, 1991; No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 183, 1997; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 183, 1997; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35AAA</div>
+    </td>
+    <td>
+      <div>ad. No. 171, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35AA</div>
+    </td>
+    <td>
+      <div>ad. No. 183, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 35AB–35AD</div>
+    </td>
+    <td>
+      <div>ad. No. 183, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 35A</div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35A</div>
+    </td>
+    <td>
+      <div>ad. No. 55, 1996</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 74, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VI</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VI</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38A</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38B</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38C</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 2 and 14, 1991; No. 128, 1995; No. 171, 1999; No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 38CA</div>
+    </td>
+    <td>
+      <div>am. No. 80, 2009</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38CA</div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38CAA</div>
+    </td>
+    <td>
+      <div>ad. No. 80, 2009</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38CB</div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38D</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 128, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38E</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 14, 1991; No. 128, 1995; No. 171, 1999; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38EA</div>
+    </td>
+    <td>
+      <div>ad. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38EAA</div>
+    </td>
+    <td>
+      <div>ad. No. 80, 2009</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38FA</div>
+    </td>
+    <td>
+      <div>ad. No. 2, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38F</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 14, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 38G, 38H</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part VII</div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 40</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 67, 1948</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975; No. 137, 1978; No. 124, 1988; No. 70, 1992; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 40A</div>
+    </td>
+    <td>
+      <div>am. No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40A</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 36, 1978; No. 4, 1980; No. 152, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 8, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part VIII</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>rs. No. 6, 1932</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 45</div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 70, 1992; No. 55, 1996; No. 183, 1997; No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45A</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 2, 1991; No. 141, 2000; No. 144, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45B</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 141, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45C</div>
+    </td>
+    <td>
+      <div>ad. No. 28, 2008</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 46</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975; No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 38, 1947; No. 25, 1975; No. 4, 1980; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50A</div>
+    </td>
+    <td>
+      <div>ad. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954; No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975; No. 124, 1988; No. 16, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50B</div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975; No. 79, 1977; No. 36, 1978; No. 72, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 86, 1989</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 125, 1974; No. 185, 1976; No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Schedules</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 1</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 1A</div>
+    </td>
+    <td>
+      <div>ad. No. 2, 1991</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule 2</div>
+    </td>
+    <td>
+      <div>ad. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 183, 1997</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 The amendment history of the repealed provisions of the _Defence Service Homes Act 1918_ up to and including Act No. 124 of 1988 appears in the Table below.
 
@@ -9498,1874 +9534,1881 @@ The amendment history of the repealed provisions of the _Defence Service Homes A
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>rs. No. 73, 1961</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 99, 1968; No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 5A–5C</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 13, 1929</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 6</div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 54, 1935</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 25, 1937; No. 1, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 10, 11</div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 26, 1925</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>rep. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 38, 1947; No. 74, 1951; No. 93, 1966 (as am. by No. 3, 1967); No. 25, 1975; No. 185, 1976</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 25, 1937</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 1, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part III 
-(ss. 16A, 16B, 17, 17A, 17B, 18A)</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 38, 1947; No. 69, 1954; No. 69, 1955; No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16B</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17B</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 216, 1973 (as am. by No. 20, 1974); No. 25, 1975; No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 17, 1927</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 63, 1934; No. 8, 1946; No. 38, 1947; No. 24, 1949</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 74, 1951</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 17, 1927; No. 38, 1947; No. 74, 1951; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part IV 
-(ss. 19, 19A, 19B)</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 8, 1946; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 69, 1954; No. 2, 1962; No. 93, 1966 (as am. by No. 3, 1967); No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 137, 1978; Nos. 4 and 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 13, 1929; No. 38, 1947; No. 25, 1975; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19B</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part V 
-(ss. 20, 20A, 21–23, 25–27, 27A, 27B)</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 8, 1946; No. 38, 1947; No. 74, 1951; No. 31, 1973; No. 25, 1975; No. 28, 1986</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 17, 1927</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 63, 1934; No. 8, 1946; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 69, 1954; No. 2, 1962; No. 93, 1966 (as am. by No. 3, 1967); No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 125, 1974; No. 185, 1976; No. 4, 1980; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1920; No. 38, 1947; No. 31, 1973; No. 25, 1975; No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 100, 1956; No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 4, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975; No. 4, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27A</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27B</div>
-  </td>
-  <td>
-    <div>ad. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VI 
-(ss. 28, 29, 29AA, 29AB, 29A, 30, 30A, 30B, 31, 32, 32A, 33–35, 36, 36A, 37, 38, 38A, 38B)</div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 38, 1947; No. 125, 1974; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 17, 1927</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28B</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 13, 1929</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 68, 1932; No. 38, 1947; No. 69, 1954; No. 73, 1961; No. 93, 1966 (as am. by No. 3, 1967); No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 137, 1978; No. 4, 1980; No. 70, 1983; No. 73, 1984</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29AA</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 1935</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 125, 1974; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29AB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 1974</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 29A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 216, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 1974</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30A</div>
-  </td>
-  <td>
-    <div>ad. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 38, 1947; No. 73, 1961; No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30B</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 216, 1973; No. 125, 1974; No. 25, 1975; No. 79, 1977; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 13, 1929; No. 6, 1932; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 18, 1923; No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32A</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975; No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 80, 1982</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 33</div>
-  </td>
-  <td>
-    <div>rs. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 34</div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 13, 1929; No. 38, 1947; No. 73, 1961; No. 99, 1968; No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 6, 1932; No. 54, 1935; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 73, 1961; No. 99, 1968; No. 120, 1971; No. 125, 1974; No. 25, 1975; No. 79, 1977; No. 137, 1978; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36A</div>
-  </td>
-  <td>
-    <div>ad. No. 35, 1920</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 38, 1947; No. 31, 1973; No. 25, 1975; No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>rs. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 67, 1948; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 4, 1980; No. 70, 1983</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38A</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38B</div>
-  </td>
-  <td>
-    <div>ad. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>am. No. 35, 1920; No. 13, 1929; No. 54, 1935; No. 38, 1947; No. 74, 1951; No. 65, 1966</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39A</div>
-  </td>
-  <td>
-    <div>ad. No. 54, 1935</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 93, 1966 (as am. by No. 3, 1967)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39AB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 1974</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39B</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39C</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>rs. No. 28, 1919</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 54, 1935; No. 38, 1947; No. 67, 1948; No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42A</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42B</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 36, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42C</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 137, 1978</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42D</div>
-  </td>
-  <td>
-    <div>ad. No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 8, 1946; No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 69, 1954</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975; No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48A</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48AA</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48AB</div>
-  </td>
-  <td>
-    <div>ad. No. 99, 1968</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48B</div>
-  </td>
-  <td>
-    <div>ad. No. 18, 1923</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48C</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1929</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48D</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 48E</div>
-  </td>
-  <td>
-    <div>ad. No. 120, 1971</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 38, 1947; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50</div>
-  </td>
-  <td>
-    <div>am. No. 18, 1923; No. 47, 1926; No. 38, 1947; No. 99, 1968; No. 216, 1973; No. 25, 1975</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 50C</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1929</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 8, 1946</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>The Schedule</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1947</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 31, 1973; No. 216, 1973 (as am. by No. 20, 1974); No. 79, 1977</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 124, 1988</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>rs. No. 73, 1961</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 99, 1968; No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 5A–5C</div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 13, 1929</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 6</div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 54, 1935</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 25, 1937; No. 1, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 10, 11</div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 26, 1925</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>rep. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14A</div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 38, 1947; No. 74, 1951; No. 93, 1966 (as am. by No. 3, 1967); No. 25, 1975; No. 185, 1976</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 25, 1937</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 1, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part III 
+(ss. 16A, 16B, 17, 17A, 17B, 18A) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 38, 1947; No. 69, 1954; No. 69, 1955; No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16A</div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16B</div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 93, 1966 (as am. by No. 3, 1967); Nos. 31 and 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17A</div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17B</div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 216, 1973 (as am. by No. 20, 1974); No. 25, 1975; No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 17, 1927</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 63, 1934; No. 8, 1946; No. 38, 1947; No. 24, 1949</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 74, 1951</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18A</div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 17, 1927; No. 38, 1947; No. 74, 1951; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part IV 
+(ss. 19, 19A, 19B) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 8, 1946; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 69, 1954; No. 2, 1962; No. 93, 1966 (as am. by No. 3, 1967); No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 185, 1976; No. 137, 1978; Nos. 4 and 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19A</div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 13, 1929; No. 38, 1947; No. 25, 1975; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19B</div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part V 
+(ss. 20, 20A, 21–23, 25–27, 27A, 27B) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 8, 1946; No. 38, 1947; No. 74, 1951; No. 31, 1973; No. 25, 1975; No. 28, 1986</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20A</div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 17, 1927</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 63, 1934; No. 8, 1946; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 69, 1954; No. 2, 1962; No. 93, 1966 (as am. by No. 3, 1967); No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 125, 1974; No. 185, 1976; No. 4, 1980; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1920; No. 38, 1947; No. 31, 1973; No. 25, 1975; No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 100, 1956; No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 4, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975; No. 4, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27A</div>
+    </td>
+    <td>
+      <div>ad. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27B</div>
+    </td>
+    <td>
+      <div>ad. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part VI 
+(ss. 28, 29, 29AA, 29AB, 29A, 30, 30A, 30B, 31, 32, 32A, 33–35, 36, 36A, 37, 38, 38A, 38B) 
+</div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 38, 1947; No. 125, 1974; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28A</div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 17, 1927</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28B</div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 13, 1929</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 68, 1932; No. 38, 1947; No. 69, 1954; No. 73, 1961; No. 93, 1966 (as am. by No. 3, 1967); No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 137, 1978; No. 4, 1980; No. 70, 1983; No. 73, 1984</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29AA</div>
+    </td>
+    <td>
+      <div>ad. No. 54, 1935</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 125, 1974; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29AB</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 1974</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 29A</div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 216, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 125, 1974</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975; No. 185, 1976; No. 79, 1977; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30A</div>
+    </td>
+    <td>
+      <div>ad. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 38, 1947; No. 73, 1961; No. 99, 1968; No. 120, 1971; No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30B</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 216, 1973; No. 125, 1974; No. 25, 1975; No. 79, 1977; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 13, 1929; No. 6, 1932; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 18, 1923; No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32A</div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975; No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 80, 1982</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 33</div>
+    </td>
+    <td>
+      <div>rs. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 34</div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 28, 1919; No. 35, 1920; No. 18, 1923; No. 13, 1929; No. 38, 1947; No. 73, 1961; No. 99, 1968; No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 6, 1932; No. 54, 1935; No. 38, 1947; No. 24, 1949; No. 74, 1951; No. 73, 1961; No. 99, 1968; No. 120, 1971; No. 125, 1974; No. 25, 1975; No. 79, 1977; No. 137, 1978; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36A</div>
+    </td>
+    <td>
+      <div>ad. No. 35, 1920</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 38, 1947; No. 31, 1973; No. 25, 1975; No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>rs. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 67, 1948; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 4, 1980; No. 70, 1983</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38A</div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38B</div>
+    </td>
+    <td>
+      <div>ad. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>am. No. 35, 1920; No. 13, 1929; No. 54, 1935; No. 38, 1947; No. 74, 1951; No. 65, 1966</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39A</div>
+    </td>
+    <td>
+      <div>ad. No. 54, 1935</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 93, 1966 (as am. by No. 3, 1967)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39AB</div>
+    </td>
+    <td>
+      <div>ad. No. 125, 1974</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39B</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39C</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>rs. No. 28, 1919</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 54, 1935; No. 38, 1947; No. 67, 1948; No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42A</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42B</div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 36, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42C</div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 137, 1978</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42D</div>
+    </td>
+    <td>
+      <div>ad. No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 8, 1946; No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 69, 1954</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975; No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48A</div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48AA</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48AB</div>
+    </td>
+    <td>
+      <div>ad. No. 99, 1968</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 125, 1974; No. 25, 1975; No. 128, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48B</div>
+    </td>
+    <td>
+      <div>ad. No. 18, 1923</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 69, 1954; No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48C</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1929</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48D</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 48E</div>
+    </td>
+    <td>
+      <div>ad. No. 120, 1971</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 38, 1947; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50</div>
+    </td>
+    <td>
+      <div>am. No. 18, 1923; No. 47, 1926; No. 38, 1947; No. 99, 1968; No. 216, 1973; No. 25, 1975</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 50C</div>
+    </td>
+    <td>
+      <div>ad. No. 13, 1929</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 8, 1946</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>The Schedule</div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1947</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 31, 1973; No. 216, 1973 (as am. by No. 20, 1974); No. 79, 1977</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 124, 1988</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -11389,7 +11432,7 @@ _Veterans’ Affairs Legislation Amendment Act (No. 1) 1996 (No. 55, 1996)_
 
                      (a)  beginning on or after the day on which item 5 commences or is taken to have commenced; and
 
-                     (b)  ending before 1 June 1997;     
+                     (b) ending before 1 June 1997;     
 
                    the Bank calculates and charges interest in respect of subsidised advances and amounts owed under loans secured by specified portfolio agreements as permitted by subitem (2), the agreement applies, in respect of that period in relation to those subsidised advances and loans:
 
@@ -11401,7 +11444,9 @@ _Veterans’ Affairs Legislation Amendment Act (No. 1) 1996 (No. 55, 1996)_
 
              (5)  Expressions used in this section that are defined by subsection 4(1) of the _Defence Service Homes Act 1918_ have the same meanings as in that subsection.
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 5pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-LEFT: 144pt; BORDER-TOP: medium none; MARGIN-RIGHT: 144pt; BORDER-RIGHT: medium none; PADDING-TOP: 0cm">
+
+ </div>
 
 _Defence Service Homes Amendment Act 1997 (No. 183, 1997)_
 
@@ -11413,7 +11458,9 @@ _Defence Service Homes Amendment Act 1997 (No. 183, 1997)_
 
              (2)  The amendments made by items 7 and 9 apply to interest payable on subsidised advances, or on amounts owed to the Bank in relation to specified portfolio assets, if the interest is calculated for 5 January 1998 or any later day.
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 1pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-LEFT: 144pt; BORDER-TOP: medium none; MARGIN-RIGHT: 144pt; BORDER-RIGHT: medium none; PADDING-TOP: 0cm">
+
+ </div>
 
 _Financial Framework Legislation Amendment Act 2005 (No. 8, 2005)_
 
@@ -11437,7 +11484,9 @@ then the thing has the corresponding effect, for the purposes of the Part 2 Ac
 
 If a determination under subsection 20(1) of the _Financial Management and Accountability Act 1997_ is in force immediately before the commencement of this item, the determination continues in force as if it were made under subsection 20(1) of that Act as amended by this Act.
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 1pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-LEFT: 144pt; BORDER-TOP: medium none; MARGIN-RIGHT: 144pt; BORDER-RIGHT: medium none; PADDING-TOP: 0cm">
+
+ </div>
 
 _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Reform) Act 2008 (No. 144, 2008)_
 
@@ -11451,7 +11500,9 @@ The amendment of the definition of **_widow_** in subsection 4(1) of the _Defenc
 
 The amendment of the definition of **_widower_** in subsection 4(1) of the _Defence Service Homes Act 1918_ made by this Schedule  applies in relation to someone whose de facto partner dies on or after the commencement of the amendment.
 
-* * *
+<div style="BORDER-BOTTOM: windowtext 1pt solid; BORDER-LEFT: medium none; PADDING-BOTTOM: 1pt; PADDING-LEFT: 0cm; PADDING-RIGHT: 0cm; MARGIN-LEFT: 144pt; BORDER-TOP: medium none; MARGIN-RIGHT: 144pt; BORDER-RIGHT: medium none; PADDING-TOP: 0cm">
+
+ </div>
 
 _Veterans’ Affairs Legislation Amendment (2010 Budget Measures) Act 2010 (No. 83, 2010)_
 
@@ -11460,5 +11511,6 @@ _Veterans’ Affairs Legislation Amendment (2010 Budget Measures) Act 2010 (No.�
 ## 10  Application
 
 The amendment of the _Defence Service Homes Act 1918_ made by this Part applies for the purposes of determining a person’s status as an eligible person for the purposes of that Act on or after the commencement of this Part.
+
 
  
