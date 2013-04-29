@@ -1,447 +1,216 @@
-![](http://www.comlaw.gov.au/Details/C2006C00145/Html/E4AE489BCE5C6BB4CA25714F001F6161/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C01109/Html/FinSecRefATP98_image001.gif)
 
 # Financial Sector Reform (Amendments and Transitional Provisions) Act 1998
 
 **Act No. 54 of 1998 as amended**
 
-This compilation was prepared on 5 April 2006
+This compilation was prepared on 5 December 1999
 
-**\[This Act was amended by Act Nos. 44 and 146 of 1999; No. 24 of 2000; No. 9 of 2006]**
+**\[This Act was amended by Act No. 44 of 1999]**
 
-**Amendments from Act No. 44 of 1999**
+\[Schedule 6 (items 7–9) amended section 2;
+ Schedule 6 (item 10) repealed and substituted item 11 of Schedule 13
+ Schedule 6 (item 11) repealed and substituted the heading to Part 7 of Schedule 16
+ Schedule 6 (item 12) repealed and substituted the heading to Part 8 of Schedule 16
+ Schedule 6 (item 13) repealed and substituted item 236 of Schedule 16 and added item 237 of Schedule 16
+ Schedule 6 (item 14) repealed item 5 of Schedule 19
 
-\[Schedule 6 (items 7–9) amended section 2
+The amendment made by item 10 commenced on 1 July 1998
 
-Schedule 6 (item 10) repealed and substituted item 11 of Schedule 13
+The remaining amendments commence on 17 June 1999]
 
-Schedule 6 (item 11) repealed and substituted heading to Part 7 of Schedule 16
-Schedule 6 (item 12) repealed and substituted the heading to Part 8 of Schedule 16
+**\[This Act was amended by Act No. 146 of 1999]**
 
-Schedule 6 (item 13) repealed and substituted item 236 of Schedule 16 and added item 237 to Schedule 16
+\[Schedule 1 (item 486) amended section 2;
+ Schedule 1 (item 487) amended Schedule 18 (item 42)
 
-Schedule 6 (item 14) repealed item 5 of Schedule 19
+The amendments commenced on 5 December 1999]
 
-Schedule 6 (items 7, 13 and 14) commenced on 17 June 1999
+**\[This Act was amended by Act No. 24 of 2000]**
 
-Schedule 6 (items 8, 9, 11 and 12) commenced immediately after 29 June 1998
+\[Schedule 11 (items 1 and 2) amended section 2;
+ Schedule 11 (item 3) amended the heading to Part 3 of Schedule 17
 
-Schedule 6 (item 10) commenced immediately before 1 July 1998]
+The amendments commenced on 29 June 1998]
 
-**Amendments from Act No. 146 of 1999**
-
-\[Schedule 1 (item 486) amended section 2
-Schedule 1 (item 487) amended item 42 of Schedule 18
-
-Schedule 1 (items 486 and 487) commenced on 5 December 1999]
-
-**Amendments from Act No. 24 of 2000**
-
-\[Schedule 11 (items 1 and 2) amended section 2
-Schedule 11 (item 3) amended the heading to Part 3 of Schedule 17
-
-Schedule 11 (items 1–3) commenced immediately after 29 June 1998]
-
-**Amendment from Act No. 9 of 2006**
-
-\[Schedule 2 (item 18) repealed and substituted item 99 of Schedule 2
-
-Schedule 2 (item 18) commenced immediately after 1 July 1998]
-
-Prepared by the Office of Legislative Drafting and Publishing,
-Attorney-General’s Department, 
-Canberra
-
+Prepared by the Office of Legislative Drafting,
+ Attorney-General’s Department, Canberra
 
 # Contents
 
-[1](#1).            Short title
+[1](#1).            Short title                                                                                             1
 
-[2](#2).            Commencement
+[2](#2).            Commencement                                                                                   1
 
-[3](#3).            Schedule(s)
+[3](#3).            Schedule(s)                                                                                           5
 
-**Schedule 1—Amendment of the Australian Securities Commission Act 1989**
+**Schedule 1—Amendment of the Australian Securities Commission Act 1989** 
 
-[12A](#12A).       Functions and powers—non-national scheme laws
-
-[93AA](#93AA).    Enforcement of undertakings
-
-[123](#123).        Chairperson to disclose certain interests to Minister
-
-**Part 18—Transitional: from the ASC to ASIC**
-
-[268](#268).        Changes to name of ASC and the Australian Securities Commission Act 1989
-
-**Schedule 2—Amendment of the Banking Act 1959**
-
-[9A](#9A).         Revocation of authority
-
-[9B](#9B).         Bodies that cease to exist or change their names
-
-[9C](#9C).         Publication of list of ADIs
-
-    **Division 1AA—Authority to be a NOHC of an ADI**
-
-[11AA](#11AA).    Authority to be a NOHC
-
-[11AB](#11AB).    Revocation of authority
-
-[11AC](#11AC).    Bodies that cease to exist or change their names
-
-[11AD](#11AD).    Publication of list of NOHCs
-
-    **Division 1A—Prudential supervision and monitoring of ADIs and authorised NOHCs**
-
-[11AF](#11AF).     APRA may make prudential standards for ADIs and authorised NOHCs
-
-    **Division 1BA—APRA’s power to issue directions** 
-
-        **Subdivision A—Directions other than directions to enforce certified industry liquidity contracts**
-
-[11CA](#11CA).    APRA may give directions in certain circumstances
-
-        **Subdivision B—Directions to enforce certified industry liquidity contracts**
-
-[11CB](#11CB).     APRA may certify an industry liquidity contract
-
-[11CC](#11CC).     APRA may direct parties to an industry liquidity contract to comply with the contract
-
-    **Subdivision C—General provisions relating to all directions**
-
-[11CD](#11CD).    Direction not grounds for denial of obligations
-
-[11CE](#11CE).     Supply of information about issue and revocation of directions
-
-[11CF](#11CF).     Secrecy requirements
-
-[11CG](#11CG).    Non-compliance with a direction
-
-    **Division 1B—Provisions relating to certain ADIs** 
-
-        **Subdivision A—General provisions relating to depositor protection**
-
-[13](#13).          ADI to supply information to APRA
-
-[13A](#13A).       Consequences of inability or failure of ADI to meet obligations
-
-[13B](#13B).       Investigators—ADI must provide information and facilities
-
-[13C](#13C).       ADI statutory managers—termination of control
-
-        **Subdivision B—Provisions dealing with control of an ADI’s business by an ADI statutory manager**
-
-[14A](#14A).       ADI statutory manager’s powers and functions
-
-[14B](#14B).       Administrator in control—additional powers to recommend action by APRA
-
-[14C](#14C).       ADI statutory manager’s liabilities and duties
-
-[14D](#14D).       Administrator in control—additional duties
-
-[14E](#14E).        Termination of administrator’s appointment
-
-[14F](#14F).        APRA’s powers to apply for ADI to be wound up
-
-[15](#15).          Effect on directors of ADI statutory manager taking control of an ADI’s business
-
-[15A](#15A).       Effect on external administrator of ADI statutory manager taking control of an ADI’s business
-
-[15B](#15B).       Effect on legal proceedings of ADI statutory manager taking control of an ADI’s business
-
-[15C](#15C).       ADI statutory manager being in control not grounds for denial of obligations
-
-[16](#16).          Costs of statutory management
-
-[16A](#16A).       APRA must report to Treasurer and publish information about statutory management
-
-    **Division 2A—Auditors of ADIs and authorised NOHCs and their subsidiaries**
-
-[16B](#16B).       Requirements for auditors and people who have been auditors to give information to APRA
-
-[16C](#16C).       Auditor may provide information to APRA
-
-**Part IIA—ADI mergers (operation of State and Territory Laws)**
-
-[61](#61).          APRA may conduct investigations
-
-[62](#62).          Supply of information
-
-[66A](#66A).       Restriction on use of expressions _authorised deposit-taking institution_ and _ADI_
-
-[69AA](#69AA).    Powers about money of depositors who have died
-
-[69E](#69E).        Compensation for acquisition of property
-
-[69F](#69F).        Severability
-
-[70A](#70A).       Indemnity
-
-[70B](#70B).       Act has effect despite the Corporations Law
-
-**Schedule 1—State and Territory laws relating to bank mergers** 
+**Schedule 2—Amendment of the Banking Act 1959** 
 
 **Schedule 3—Repeal of the Banks (Shareholdings) Act 1972** 
 
 **Schedule 4—Amendment of the Corporations Law set out in section 82 of the Corporations Act 1989** 
 
-Part 1—Changing the administration of the Corporations Law                     16
+Part 1—Changing the administration of the Corporations Law                     78
 
-Part 2—Changing references to “ASC” to “ASIC”                                          16
+Part 2—Changing references to “ASC” to “ASIC”                                          80
 
 **Schedule 5—Amendment of the Corporations Law set out in section 82 of the Corporations Act 1989 to take account of the Company Law Review Act 1998** 
 
-Part 1—General amendments to take account of Schedule 1 to the Company Law Review Act 1998             16
+Part 1—General amendments to take account of Schedule 1 to the Company Law Review Act 1998                 82
 
-    **Division 5—Lodging reports with ASIC** 
+Part 2—Changing “ASC” to “ASIC” to take account of Schedule 1 to the Company Law Review Act 1998  86
 
-**Chapter 2N—Annual return and lodgments with ASIC** 
+Part 3—General amendments to take account of Schedules 2 to 4 to the Company Law Review Act 1998     93
 
-**Part 2N.2—Lodgments with ASIC** 
+Part 4—Changing “ASC” to “ASIC” to take account of Schedules 2 to 4 to the Company Law Review Act 1998                                                                                                                   94
 
-Part 2—Changing “ASC” to “ASIC” to take account of Schedule 1 to the Company Law Review Act 1998                                                                                                                              16
-
-Part 3—General amendments to take account of Schedules 2 to 4 to the Company Law Review Act 1998 16
-
-Part 4—Changing “ASC” to “ASIC” to take account of Schedules 2 to 4 to the Company Law Review Act 1998                                                                                                                   16
-
-Part 5—General amendments to take account of Schedule 5 to the Company Law Review Act 1998             16
+Part 5—General amendments to take account of Schedule 5 to the Company Law Review Act 1998                 96
 
 **Schedule 6—Amendment of the Corporations Law set out in section 82 of the Corporations Act 1989 to take account of the Managed Investments Act 1998** 
 
-Part 1—General amendments to take account of Schedule 1 to the Managed Investments Act 1998               16
+Part 1—General amendments to take account of Schedule 1 to the Managed Investments Act 1998                   97
 
-Part 2—Changing “ASC” to “ASIC” to take account of Schedule 1 to the Managed Investments Act 1998                                                                                                                              16
+Part 2—Changing “ASC” to “ASIC” to take account of Schedule 1 to the Managed Investments Act 1998    98
 
-Part 3—General amendments to take account of Schedule 2 to the Managed Investments Act 1998               16
+Part 3—General amendments to take account of Schedule 2 to the Managed Investments Act 1998                   101
 
-Part 4—Changing “ASC” to “ASIC” to take account of Schedule 2 to the Managed Investments Act 1998                                                                                                                              16
+Part 4—Changing “ASC” to “ASIC” to take account of Schedule 2 to the Managed Investments Act 1998    102
 
-**Schedule 7—Amendment of the Financial Corporations Act 1974**
+**Schedule 7—Amendment of the Financial Corporations Act 1974** 
 
-[22A](#22A).       Delegation by Governor
+**Schedule 8—Amendment of the Insurance Acquisitions and Takeovers Act 1991** 
 
-**Schedule 8—Amendment of the Insurance Acquisitions and Takeovers Act 1991**
+**Schedule 9—Amendment of the Insurance Act 1973** 
 
-[75](#75).          APRA Act secrecy provisions apply
+Part 1—Changing the administration of the Act (main amendments)        109
 
-**Schedule 9—Amendment of the Insurance Act 1973**
+Part 2—Changing “Commissioner” to “APRA” (main amendments)       117
 
-Part 1—Changing the administration of the Act (main amendments)          16
+Part 3—Changing the administration of the Act (amendments to take account of Schedule 2 to the Insurance Laws Amendment Act 1998)                                                                 121
 
-[8](#8).            General administration of Act
+Part 4—Changing “Commissioner” to “APRA” (amendments to take account of Schedule 2 to the Insurance Laws Amendment Act 1998)                                                                 125
 
-[125](#125).        APRA Act secrecy provisions apply
+**Schedule 10—Amendment of the Insurance (Agents and Brokers) Act 1984** 
 
-Part 2—Changing “Commissioner” to “APRA” (main amendments)         16
+Part 1—Changing the administration of the Act                                                127
 
-Part 3—Changing the administration of the Act (amendments to take account of Schedule 2 to the Insurance Laws Amendment Act 1998)                                                                   16
+Part 2—Changing “Commissioner” to “ASIC”                                                 130
 
-    **Division 3—General powers of APRA** 
+Part 3—Changing “Commissioner’s” to “ASIC’s”                                          133
 
-        **Subdivision A—Inquiries and directions by APRA** 
-
-Part 4—Changing “Commissioner” to “APRA” (amendments to take account of Schedule 2 to the Insurance Laws Amendment Act 1998)                                                                   16
-
-**Schedule 10—Amendment of the Insurance (Agents and Brokers) Act 1984**
-
-Part 1—Changing the administration of the Act                                                  16
-
-[47](#47).          Authorisation of an officer
-
-Part 2—Changing “Commissioner” to “ASIC”                                                   16
-
-Part 3—Changing “Commissioner’s” to “ASIC’s”                                            16
-
-Part 4—Amendments to take account of Schedule 1 to the Insurance Laws Amendment Act 1998 16
+Part 4—Amendments to take account of Schedule 1 to the Insurance Laws Amendment Act 1998                     134
 
 **Schedule 11—Repeal of the Insurance and Superannuation Commissioner Act 1987** 
 
-**Schedule 12—Amendment of the Insurance Contracts Act 1984**
+**Schedule 12—Amendment of the Insurance Contracts Act 1984** 
 
-Part 1—Changing the administration of the Act                                                  16
+Part 1—Changing the administration of the Act                                                136
 
-[11A](#11A).       ASIC responsible for general administration of Act
+Part 2—Changing “Commissioner” to “ASIC”                                                 137
 
-Part 2—Changing “Commissioner” to “ASIC”                                                   16
+**Schedule 13—Amendment of the Life Insurance Act 1995** 
 
-**Schedule 13—Amendment of the Life Insurance Act 1995**
+Part 1—Changing the administration of the Act                                                138
 
-Part 1—Changing the administration of the Act                                                  16
+Part 2—Changing “Commissioner” to “APRA”                                                143
 
-[7](#7).            General administration of Act
+Part 3—Changing “Commissioner’s” to “APRA’s”                                        148
 
-Part 2—Changing “Commissioner” to “APRA”                                                  16
+Part 4—Changing “Commissioner’s rules” to “Prudential Rules”               149
 
-Part 3—Changing “Commissioner’s” to “APRA’s”                                          16
+Part 5—Changing “Commissioner” to “ASIC”                                                 151
 
-Part 4—Changing “Commissioner’s rules” to “Prudential Rules”                 16
+Part 6—Changing “Commissioner” to “Regulator”                                          152
 
-Part 5—Changing “Commissioner” to “ASIC”                                                   16
-
-Part 6—Changing “Commissioner” to “Regulator”                                            16
-
-Part 7—Other amendments                                                                                         16
+Part 7—Other amendments                                                                                       154
 
 **Schedule 14—Amendment of the Reserve Bank Act 1959** 
 
-    **Division 1—Constitution of the Reserve Bank** 
+**Schedule 15—Amendment of the Retirement Savings Accounts Act 1997** 
 
-    **Division 2—Policy and management of the Reserve Bank**
+Part 1—Changing the administration of the Act                                                174
 
-[8A](#8A).         The Boards of the Bank
+Part 2—Changing “Commissioner” to “APRA”                                                181
 
-[10A](#10A).       Establishment of Payments System Board
+Part 3—Changing “Commissioner” to “ASIC”                                                 183
 
-[10B](#10B).       Functions of Payments System Board
+Part 4—Changing “Commissioner” to “Regulator”                                          184
 
-[10C](#10C).       Resolving differences between the Boards
+Part 5—Changing “Commissioner’s” to “Regulator’s”                                   187
 
-[22A](#22A).       Conduct of meetings
+**Schedule 16—Amendment of the Superannuation Industry (Supervision) Act 1993** 
 
-[22B](#22B).       Resolutions without meetings
+Part 1—Changing the administration of the Act                                                188
 
-**Part IIIA—The Payments System Board** 
+Part 2—Changing “Commissioner” to “APRA”                                                198
 
-    **Division 1—The members of the Payments System Board**
+Part 3—Changing “Commissioner’s” to “APRA’s”                                        204
 
-[25A](#25A).       Membership of Payments System Board
+Part 4—Changing “Commissioner” to “ASIC”                                                 205
 
-[25B](#25B).       Appointment of members
+Part 5—Changing “Commissioner” to “Regulator”                                          206
 
-[25C](#25C).       Chair of the Payments System Board
-
-[25D](#25D).       Deputy Chair of the Payments System Board
-
-[25E](#25E).        Declaration by members
-
-    **Division 2—Meetings**
-
-[25F](#25F).        Meetings
-
-[25G](#25G).       Conduct of meetings
-
-[25H](#25H).       Resolutions without meetings
-
-    **Division 3—Other administrative provisions**
-
-[25I](#25I).         Remuneration
-
-[25J](#25J).        Leave of absence
-
-[25K](#25K).       Resignation
-
-[25L](#25L).        Termination of appointment
-
-**Schedule 15—Amendment of the Retirement Savings Accounts Act 1997**
-
-Part 1—Changing the administration of the Act                                                  16
-
-[3](#3).            General administration of Act
-
-    **Division 3—Investigations by the Regulator**
-
-[129A](#129A).     Authorisation of members of staff
-
-Part 2—Changing “Commissioner” to “APRA”                                                  16
-
-Part 3—Changing “Commissioner” to “ASIC”                                                   16
-
-Part 4—Changing “Commissioner” to “Regulator”                                            16
-
-Part 5—Changing “Commissioner’s” to “Regulator’s”                                     16
-
-**Schedule 16—Amendment of the Superannuation Industry (Supervision) Act 1993**
-
-Part 1—Changing the administration of the Act                                                  16
-
-[6](#6).            General administration of Act
-
-**Part 4—Trustee of superannuation entity to lodge annual returns with APRA** 
-
-    **Division 2—APRA may give notices about complying fund status.** 
-
-**Part 22—Payment of unclaimed superannuation money to ASIC** 
-
-    **Division 3—APRA may require trustee of superannuation entity to appoint an individual, or a committee, to investigate the financial position of the entity** 
-
-    **Division 4—Investigations by Regulator**
-
-[298A](#298A).     Authorisation of members of staff
-
-Part 2—Changing “Commissioner” to “APRA”                                                  16
-
-Part 3—Changing “Commissioner’s” to “APRA’s”                                          16
-
-Part 4—Changing “Commissioner” to “ASIC”                                                   16
-
-Part 5—Changing “Commissioner” to “Regulator”                                            16
-
-Part 6—Changing “Commissioner’s” to “Regulator’s”                                     16
+Part 6—Changing “Commissioner’s” to “Regulator’s”                                   209
 
 **Schedule 17—Amendment of the Superannuation (Resolution of Complaints) Act 1993** 
 
-Part 1—Amendments relating to changing “Commissioner” to “ASIC”    16
+Part 1—Amendments relating to changing “Commissioner” to “ASIC”  212
 
-Part 2—Changing “Commissioner” to “ASIC”                                                   16
+Part 2—Changing “Commissioner” to “ASIC”                                                 213
 
 **Schedule 18—Amendment and repeal of other Acts** 
 
-Part 1—Amendment and repeal of levy Acts                                                       16
+Part 1—Amendment and repeal of levy Acts                                                     215
 
-General Insurance Supervisory Levy Act 1989                                                    16
+General Insurance Supervisory Levy Act 1989                                                  215
 
-Insurance Supervisory Levies Collection Act 1989                                            16
+Insurance Supervisory Levies Collection Act 1989                                          215
 
-Life Insurance Supervisory Levy Act 1989                                                            16
+Life Insurance Supervisory Levy Act 1989                                                          215
 
-Retirement Savings Accounts Supervisory Levy Act 1997                                 16
+Retirement Savings Accounts Supervisory Levy Act 1997                               215
 
-Superannuation Entities (Taxation) Act 1987                                                    16
+Superannuation Entities (Taxation) Act 1987                                                  215
 
-**Part III—Functions of APRA** 
+Part 2—Amendment of other Acts                                                                         221
 
-**Part IIIAA—Collection of Superannuation (Excluded Funds) Supervisory Levy** 
+Acts Interpretation Act 1901                                                                                 221
 
-Superannuation Supervisory Levy Act 1991                                                        16
+Australian Prudential Regulation Authority Act 1998                                    221
 
-Part 2—Amendment of other Acts                                                                           16
+Corporations Act 1989                                                                                           221
 
-Acts Interpretation Act 1901                                                                                   16
+Crimes Act 1914                                                                                                       221
 
-Australian Prudential Regulation Authority Act 1998                                      16
+Financial Corporations (Transfer of Assets and Liabilities) Act 1993        221
 
-Corporations Act 1989                                                                                             16
-
-Crimes Act 1914                                                                                                         16
-
-Financial Corporations (Transfer of Assets and Liabilities) Act 1993          16
-
-Financial Transactions Reports Act 1988                                                            16
+Financial Transactions Reports Act 1988                                                          222
 
 **Schedule 19—Transitional provisions** 
 
-Part 1—Transitional provisions relating to amendments of the Banking Act 1959      16
+Part 1—Transitional provisions relating to amendments of the Banking Act 1959       223
 
-Part 2—Transitional provisions relating to amendments of the Financial Corporations Act 1974         16
+Part 2—Transitional provisions relating to amendments of the Financial Corporations Act 1974   229
 
-Part 3—Transitional provisions relating to the establishment of APRA and the repeal of the Insurance and Superannuation Commissioner Act 1987                                            16
+Part 3—Transitional provisions relating to the establishment of APRA and the repeal of the Insurance and Superannuation Commissioner Act 1987                                          231
 
-Division 1—Interpretation                                                                                        16
+Division 1—Interpretation                                                                                      231
 
-Division 2—Transfer of staff                                                                                    16
+Division 2—Transfer of staff                                                                                  232
 
-Division 3—Transfer of assets and liabilities                                                        16
+Division 3—Transfer of assets and liabilities                                                      233
 
-Division 4—Other general transitional provisions                                               16
+Division 4—Other general transitional provisions                                             236
 
-Part 4—Transitional provisions relating to amendments of the Reserve Bank Act 1959          16
+Part 4—Transitional provisions relating to amendments of the Reserve Bank Act 1959                     239
 
-Part 5—Transitional provisions relating to the Payment Systems (Regulation) Act 1998         16
+Part 5—Transitional provisions relating to the Payment Systems (Regulation) Act 1998                    241
 
-Part 6—Transitional provisions relating to levies                                                 16
+Part 6—Transitional provisions relating to levies                                               242
 
-Part 7—Regulations dealing with transitional matters                                        16
-
+Part 7—Regulations dealing with transitional matters                                      243
 
 ## An Act to amend laws, and to deal with transitional matters, in connection with the reform of the financial sector, and for other purposes
 
@@ -530,68 +299,66 @@ Part 7—Regulations dealing with transitional matters        �
   <col width="44%">
 </colgroup>
 
-<tbody>
-  <tr>
-    <td colspan="3">
-      <div><b>Corresponding items table</b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Item</b></div>
-    </td>
-    <td>
-      <div><b>Item in Part 4 of Schedule 10 to this Act</b></div>
-    </td>
-    <td>
-      <div><b>Corresponding item of Schedule 1 to the <i>Insurance Laws Amendment Act 1998</i> </b></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>1</div>
-    </td>
-    <td>
-      <div>61</div>
-    </td>
-    <td>
-      <div>47</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2</div>
-    </td>
-    <td>
-      <div>62</div>
-    </td>
-    <td>
-      <div>52</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3</div>
-    </td>
-    <td>
-      <div>63</div>
-    </td>
-    <td>
-      <div>60</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4</div>
-    </td>
-    <td>
-      <div>64</div>
-    </td>
-    <td>
-      <div>66</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td colspan="3">
+    <div><b>Corresponding items table</b></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div><b>Item</b></div>
+  </td>
+  <td>
+    <div><b>Item in Part 4 of Schedule 10 to this Act</b></div>
+  </td>
+  <td>
+    <div><b>Corresponding item of Schedule 1 to the <i>Insurance Laws Amendment Act 1998</i> </b></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>61</div>
+  </td>
+  <td>
+    <div>47</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>62</div>
+  </td>
+  <td>
+    <div>52</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>63</div>
+  </td>
+  <td>
+    <div>60</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div>64</div>
+  </td>
+  <td>
+    <div>66</div>
+  </td>
+</tr></table>
 
            (12)  If, under subsection (2), Schedule 12 commences on the same day as provisions of the _Insurance Laws Amendment Act 1998_ commence, that Schedule commences on that day immediately after the commencement of those provisions.
 
@@ -629,8 +396,9 @@ Part 7—Regulations dealing with transitional matters        �
 
                    Subject to section 2, the Corporations Law and each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
+ 
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 1</span>—<span class="CharChapText">Amendment of the Australian Securities Commission Act 1989</span>
+# Schedule 1—Amendment of the Australian Securities Commission Act 1989
 
 ## 1  Title
 
@@ -1014,7 +782,7 @@ Add:
 
 ## Part 18—Transitional: from the ASC to ASIC
 
-##### 268  Changes to name of ASC and the Australian Securities Commission Act 1989
+##### <a id="268"></a>268  Changes to name of ASC and the _Australian Securities Commission Act 1989_
 
              (1)  After the commencement of this section, a reference in:
 
@@ -1044,7 +812,7 @@ to the ASC (or the Australian Securities Commission) is taken to be a reference 
 
 Note:          Subsection (2) is enacted in case the effect of subsections 5(3) to (5) is to exclude the application of section 25B of the _Acts Interpretation Act 1901._
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 2</span>—<span class="CharChapText">Amendment of the Banking Act 1959</span>
+# Schedule 2—Amendment of the Banking Act 1959
 
 ## 1  Section 5
 
@@ -1296,7 +1064,7 @@ APRA must cause notice of that action to be published in the _Gazette_. APRA may
 
 Insert:
 
-##### 9A  Revocation of authority
+##### <a id="9A"></a>9A  Revocation of authority
 
              (1)  APRA must revoke a body corporate’s section 9 authority if:
 
@@ -1358,7 +1126,7 @@ The procedures to be undergone before a revocation under this subsection are set
 
              (7)  A failure to comply with subsection (5) (so far as it requires a body corporate to be given written notice of a revocation) or with subsection (6) does not affect the validity of a revocation.
 
-##### 9B  Bodies that cease to exist or change their names
+##### <a id="9B"></a>9B  Bodies that cease to exist or change their names
 
              (1)  If APRA is satisfied that a body corporate that has been granted a section 9 authority:
 
@@ -1372,7 +1140,7 @@ APRA must cause notice of that fact to be published in the _Gazette_. APRA may a
 
              (3)  If the body corporate has changed its name, its section 9 authority has effect after the publication of the notice in the _Gazette_ as if it had been granted to the body under its changed name.
 
-##### 9C  Publication of list of ADIs
+##### <a id="9C"></a>9C  Publication of list of ADIs
 
                    APRA may, from time to time, publish a list of ADIs:
 
@@ -1532,7 +1300,7 @@ APRA must cause notice of that fact to be published in the _Gazette_. APRA may a
 
 ##### <a id="11AD"></a>11AD  Publication of list of NOHCs
 
-                   APRA may, from time to time, publish a list of authorised NOHCs:
+                   APRA may, from time to time, publish a list of authorised NOHCs:
 
                      (a)  in the _Gazette_; or
 
@@ -1548,7 +1316,7 @@ Repeal the heading, substitute:
 
 Insert in Division 1A of Part II:
 
-##### 11AF  APRA may make prudential standards for ADIs and authorised NOHCs
+##### <a id="11AF"></a>11AF  APRA may make prudential standards for ADIs and authorised NOHCs
 
              (1)  APRA may, in writing, determine standards in relation to prudential matters to be complied with by ADIs and authorised NOHCs.
 
@@ -1610,7 +1378,7 @@ Insert:
 
 #### Subdivision A—Directions other than directions to enforce certified industry liquidity contracts
 
-##### 11CA  APRA may give directions in certain circumstances
+##### <a id="11CA"></a>11CA  APRA may give directions in certain circumstances
 
              (1)  APRA may give a body corporate that is an ADI or an authorised NOHC a direction of a kind specified in subsection (2) if APRA considers that:
 
@@ -1672,11 +1440,11 @@ Note:          For further information about directions, see S
 
 #### Subdivision B—Directions to enforce certified industry liquidity contracts
 
-##### 11CB  APRA may certify an industry liquidity contract
+##### <a id="11CB"></a>11CB  APRA may certify an industry liquidity contract
 
                    APRA may certify an industry liquidity contract if all of the parties to the contract make a written request to APRA that the contract be certified and APRA considers it appropriate to certify the contract. The certification must be by notice in writing to the parties to the contract.
 
-##### 11CC  APRA may direct parties to an industry liquidity contract to comply with the contract
+##### <a id="11CC"></a>11CC  APRA may direct parties to an industry liquidity contract to comply with the contract
 
              (1)  APRA may direct any ADI that is a party to an industry liquidity contract that is certified under section 11CB to carry out, or cease to carry out, specified acts if APRA considers:
 
@@ -1700,9 +1468,9 @@ The direction must be by notice in writing to the ADI.
 
              (6)  APRA may revoke the certification of the industry liquidity contract if it considers that it is appropriate to do so for any reason.
 
-### <span style="FONT-SIZE: 13pt">Subdivision C—General provisions relating to all directions</span><span style="FONT-SIZE: 13pt"> </span>
+### Subdivision C—General provisions relating to all directions 
 
-##### 11CD  Direction not grounds for denial of obligations
+##### <a id="11CD"></a>11CD  Direction not grounds for denial of obligations
 
              (1)  Subject to subsections (2) and (3), the fact that an ADI or an authorised NOHC is subject to a direction by APRA under Subdivision A or B is not a ground for any other party to a contract to which the ADI or NOHC is a party to deny any obligations under that contract, accelerate any debt under that contract or close out any transaction relating to that contract.
 
@@ -1716,7 +1484,7 @@ The direction must be by notice in writing to the ADI.
 
 The order must not require a person to take action that would contravene the direction, or any other direction under Subdivision A.
 
-##### 11CE  Supply of information about issue and revocation of directions
+##### <a id="11CE"></a>11CE  Supply of information about issue and revocation of directions
 
 Power to publish notice of directions in Gazette
 
@@ -1744,11 +1512,11 @@ Requirement to inform Treasurer and Reserve Bank of revocation of direction if i
 
              (5)  If APRA provides the Treasurer or the Reserve Bank with information about a direction and then later revokes the direction, APRA must notify that person of the revocation of the direction as soon as practicable after the revocation. Failure to notify the person does not affect the validity of the revocation.
 
-##### 11CF  Secrecy requirements
+##### <a id="11CF"></a>11CF  Secrecy requirements
 
                    Information relating to directions and revocations of directions is subject to the secrecy requirements in Part 6 of the _Australian Prudential Regulation Authority Act 1998_, unless the information has been published in the _Gazette_ under section 11CE.
 
-##### 11CG  Non-compliance with a direction
+##### <a id="11CG"></a>11CG  Non-compliance with a direction
 
              (1)  An ADI or an authorised NOHC must comply with any direction given to it under Subdivision A or Subdivision B.
 
@@ -1782,7 +1550,7 @@ Repeal the definition, substitute:
 
                     <a name="foreign-adi"></a>**_foreign ADI_** does not include the Bank of China.
 
-## 56  Section 11E
+## 56  Section 11E
 
 Omit “bank” (wherever occurring), substitute “ADI”.
 
@@ -2114,7 +1882,7 @@ Insert:
 
 ### Division 2A—Auditors of ADIs and authorised NOHCs and their subsidiaries
 
-##### <a id="16B"></a>16B  Requirements for auditors and people who have been auditors to give information to APRA
+##### <a id="16B"></a>16B  Requirements for auditors and people who have been auditors to give information to APRA
 
 Duty to give information when required
 
@@ -2346,9 +2114,9 @@ Omit “bank’s” (wherever occurring), substitute “ADI’s”.
 
 Omit “bank’s”, substitute “ADI’s”.
 
-99  Subsection 33(6)
+## 99  Subsection 33(6)
 
-Omit “that bank”, substitute “that ADI”.
+Omit “a bank”, substitute “an ADI”.
 
 ## 100  Section 34
 
@@ -2747,358 +2515,356 @@ Repeal the table, substitute:
     </td>
   </tr>
 </thead>
-<tbody>
-  <tr>
-    <td>
-      <div>1</div>
-    </td>
-    <td>
-      <div>section 7</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>2</div>
-    </td>
-    <td>
-      <div>section 8</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>3</div>
-    </td>
-    <td>
-      <div>subsection 9(6)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>4</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>subsection 10(3)</div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>5</div>
-    </td>
-    <td>
-      <div>subsection 11(3)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>6</div>
-    </td>
-    <td>
-      <div>subsection 11AA(5)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>7</div>
-    </td>
-    <td>
-      <div>subsection 11CG(1)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>8</div>
-    </td>
-    <td>
-      <div>subsection 11CG(2)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>9</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>subsection 11E(2)</div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>10</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>subsection 13(3)</div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>11</div>
-    </td>
-    <td>
-      <div>subsection 13A(4)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>12</div>
-    </td>
-    <td>
-      <div>section 13B</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>13</div>
-    </td>
-    <td>
-      <div>subsection 33(4)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>14</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>subsection 36(1) or (2)</div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>15</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>section 41</div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>16</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>subsection 42(1) or (2)</div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>17</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>subsection 45(1) or (3)</div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>18</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>section 46</div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>19</div>
-    </td>
-    <td>
-      <div>subsection 61(2)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>20</div>
-    </td>
-    <td>
-      <div>subsection 62(1)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>21</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>section 63</div>
-    </td>
-    <td>
-      <div>A</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>22</div>
-    </td>
-    <td>
-      <div>section 66</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>23</div>
-    </td>
-    <td>
-      <div>subsection 66A(1)</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>24</div>
-    </td>
-    <td>
-      <div>section 67</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>25</div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-    <td>
-      <div>subsection 69(10)</div>
-    </td>
-    <td>
-      <div>B</div>
-    </td>
-  </tr>
-</tbody></table>
+<tr>
+  <td>
+    <div>1</div>
+  </td>
+  <td>
+    <div>section 7</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>2</div>
+  </td>
+  <td>
+    <div>section 8</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>3</div>
+  </td>
+  <td>
+    <div>subsection 9(6)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>4</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>subsection 10(3)</div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>5</div>
+  </td>
+  <td>
+    <div>subsection 11(3)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>6</div>
+  </td>
+  <td>
+    <div>subsection 11AA(5)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>7</div>
+  </td>
+  <td>
+    <div>subsection 11CG(1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>8</div>
+  </td>
+  <td>
+    <div>subsection 11CG(2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>9</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>subsection 11E(2)</div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>10</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>subsection 13(3)</div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>11</div>
+  </td>
+  <td>
+    <div>subsection 13A(4)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>12</div>
+  </td>
+  <td>
+    <div>section 13B</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>13</div>
+  </td>
+  <td>
+    <div>subsection 33(4)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>14</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>subsection 36(1) or (2)</div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>15</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>section 41</div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>16</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>subsection 42(1) or (2)</div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>17</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>subsection 45(1) or (3)</div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>18</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>section 46</div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>19</div>
+  </td>
+  <td>
+    <div>subsection 61(2)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>20</div>
+  </td>
+  <td>
+    <div>subsection 62(1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>21</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>section 63</div>
+  </td>
+  <td>
+    <div>A</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>22</div>
+  </td>
+  <td>
+    <div>section 66</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>23</div>
+  </td>
+  <td>
+    <div>subsection 66A(1)</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>24</div>
+  </td>
+  <td>
+    <div>section 67</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>25</div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+  <td>
+    <div>subsection 69(10)</div>
+  </td>
+  <td>
+    <div>B</div>
+  </td>
+</tr></table>
 
 ## 153  Section 69D
 
@@ -3196,15 +2962,15 @@ Repeal the heading, substitute:
 
 _Note:       See section 38A._
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 3</span>—<span class="CharChapText">Repeal of the Banks (Shareholdings) Act 1972</span>
+# Schedule 3—Repeal of the Banks (Shareholdings) Act 1972
 
 ## 1  The whole of the Act
 
 Repeal the Act.
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 4</span>—<span class="CharChapText">Amendment of the Corporations Law set out in section 82 of the Corporations Act 1989</span>
+# Schedule 4—Amendment of the Corporations Law set out in section 82 of the Corporations Act 1989
 
-<h7 class="ActHead7">Part 1—Changing the administration of the Corporations Law</h7>
+Part 1—Changing the administration of the Corporations Law
 
 ## 1  Section 9 (definition of _ASC_)
 
@@ -3248,7 +3014,7 @@ After “_Securities_”, insert “_and Investments_”.
 
 After “_Securities_”, insert “_and Investments_”.
 
-## 11  Subsections 1339(2) and (3)
+## 11  Subsections 1339(2) and (3)
 
 After “_Securities_”, insert “_and Investments_”.
 
@@ -3256,7 +3022,7 @@ After “_Securities_”, insert “_and Investments_”.
 
 After “_Securities_”, insert “_and Investments_”.
 
-<h7 class="ActHead7">Part 2—Changing references to “ASC” to “ASIC”</h7>
+Part 2—Changing references to “ASC” to “ASIC”
 
 ## 13  Amendment of the Corporations Law
 
@@ -3334,9 +3100,9 @@ _Note 2:    The headings to subsections 206D(3), 206E(3), 216E(2), 216F(6)
 
 ## 47  Subsection 317B(4)
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 5</span>—<span class="CharChapText">Amendment of the Corporations Law set out in section 82 of the Corporations Act 1989 to take account of the Company Law Review Act 1998</span>
+# Schedule 5—Amendment of the Corporations Law set out in section 82 of the Corporations Act 1989 to take account of the Company Law Review Act 1998
 
-<h7 class="ActHead7">Part 1—General amendments to take account of Schedule 1 to the Company Law Review Act 1998</h7>
+Part 1—General amendments to take account of Schedule 1 to the Company Law Review Act 1998
 
 ## 1  Small business guide in Part 1.5
 
@@ -3368,7 +3134,7 @@ Repeal the heading, substitute:
 
 Omit “The ASC’s”, substitute “ASIC’s”.
 
-<h7 class="ActHead7">Part 2—Changing “ASC” to “ASIC” to take account of Schedule 1 to the Company Law Review Act 1998</h7>
+Part 2—Changing “ASC” to “ASIC” to take account of Schedule 1 to the Company Law Review Act 1998
 
 ## 7  Amendment of the Corporations Law
 
@@ -3612,7 +3378,7 @@ _Note 3:    The headings to subsections 118(2), 172(2), 173(6), 256D(1), 2
 
 ## 123  Subsections 1440(1) to (2)
 
-<h7 class="ActHead7">Part 3—General amendments to take account of Schedules 2 to 4 to the Company Law Review Act 1998</h7>
+Part 3—General amendments to take account of Schedules 2 to 4 to the Company Law Review Act 1998
 
 ## 124  Section 9 (definition of _ASC database_)
 
@@ -3630,7 +3396,7 @@ Insert
 
 but does not include ASIC’s document imaging system.
 
-<h7 class="ActHead7">Part 4—Changing “ASC” to “ASIC” to take account of Schedules 2 to 4 to the Company Law Review Act 1998</h7>
+Part 4—Changing “ASC” to “ASIC” to take account of Schedules 2 to 4 to the Company Law Review Act 1998
 
 ## 126  Amendment of the Corporations Law
 
@@ -3692,7 +3458,7 @@ _Note 2:    The headings to subsections 509(5) to (6) are altered by omitt
 
 ## 152  Paragraph 1289(1)(c)
 
-<h7 class="ActHead7">Part 5—General amendments to take account of Schedule 5 to the Company Law Review Act 1998</h7>
+Part 5—General amendments to take account of Schedule 5 to the Company Law Review Act 1998
 
 ## 153  Amendment of the Corporations Law
 
@@ -3706,9 +3472,9 @@ _Note:       The heading to subsection 256C(5) is altered by omittin
 
 ## 156  Table item 3 in section 256E
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 6</span>—<span class="CharChapText">Amendment of the Corporations Law set out in section 82 of the Corporations Act 1989 to take account of the Managed Investments Act 1998</span>
+# Schedule 6—Amendment of the Corporations Law set out in section 82 of the Corporations Act 1989 to take account of the Managed Investments Act 1998
 
-<h7 class="ActHead7">Part 1—General amendments to take account of Schedule 1 to the Managed Investments Act 1998</h7>
+Part 1—General amendments to take account of Schedule 1 to the Managed Investments Act 1998
 
 ## 1  Subsection 601FF (note)
 
@@ -3722,7 +3488,7 @@ Omit “the ASC’s”, substitute “ASIC’s”.
 
 Omit “the ASC’s”, substitute “ASIC’s”.
 
-<h7 class="ActHead7">Part 2—Changing “ASC” to “ASIC” to take account of Schedule 1 to the Managed Investments Act 1998</h7>
+Part 2—Changing “ASC” to “ASIC” to take account of Schedule 1 to the Managed Investments Act 1998
 
 ## 4  Amendment of the Corporations Law
 
@@ -3804,11 +3570,11 @@ _Note 3:    The headings to subsections 601HE(2) and 601PC(4) are altered 
 
 ## 39  Paragraph 601ND(2)(d)
 
-## 40  Paragraph 601NF(3)(d)
+## 40  Paragraph 601NF(3)(d)
 
 ## 41  Section 601NG
 
-## 42  Subsections 601PA(1) and (3) to (4)
+## 42  Subsections 601PA(1) and (3) to (4)
 
 ## 43  Subsection 601PB(1)
 
@@ -3824,7 +3590,7 @@ _Note 3:    The headings to subsections 601HE(2) and 601PC(4) are altered 
 
 ## 49  Subsection 1455(2)
 
-## 50  Subsection 1456(1)
+## 50  Subsection 1456(1)
 
 ## 51  Paragraph 1456(2)(c)
 
@@ -3836,7 +3602,7 @@ _Note 3:    The headings to subsections 601HE(2) and 601PC(4) are altered 
 
 ## 55  Paragraphs 1460(6)(b) to (c)
 
-<h7 class="ActHead7">Part 3—General amendments to take account of Schedule 2 to the Managed Investments Act 1998</h7>
+Part 3—General amendments to take account of Schedule 2 to the Managed Investments Act 1998
 
 ## 56  Section 9 (definition of _responsible entity_)
 
@@ -3846,7 +3612,7 @@ Omit “the ASC’s”, substitute “ASIC’s”.
 
 Omit “the ASC’s”, substitute “ASIC’s”.
 
-<h7 class="ActHead7">Part 4—Changing “ASC” to “ASIC” to take account of Schedule 2 to the Managed Investments Act 1998</h7>
+Part 4—Changing “ASC” to “ASIC” to take account of Schedule 2 to the Managed Investments Act 1998
 
 ## 58  Amendment of the Corporations Law
 
@@ -3874,7 +3640,7 @@ The provisions of the Corporations Law specified in this Part are amended by omi
 
 ## 69  Section 1343A
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 7</span>—<span class="CharChapText">Amendment of the Financial Corporations Act 1974</span>
+# Schedule 7—Amendment of the Financial Corporations Act 1974
 
 ## 1  Subsection 4(1)
 
@@ -3972,7 +3738,7 @@ Repeal the section, substitute:
 
                      (b)  the Governor’s powers under section 10, other than powers under subsection 10(1).
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 8</span>—<span class="CharChapText">Amendment of the Insurance Acquisitions and Takeovers Act 1991</span>
+# Schedule 8—Amendment of the Insurance Acquisitions and Takeovers Act 1991
 
 ## 1  Title
 
@@ -4096,9 +3862,9 @@ Repeal the subsection.
 
 Omit “2,”.
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 9</span>—<span class="CharChapText">Amendment of the Insurance Act 1973</span>
+# Schedule 9—Amendment of the Insurance Act 1973
 
-<h7 class="ActHead7">Part 1—Changing the administration of the Act (main amendments)</h7>
+Part 1—Changing the administration of the Act (main amendments)
 
 ## 1  Subsection 3(1)
 
@@ -4204,7 +3970,7 @@ Omit “he or she”, substitute “APRA”.
 
 Omit “he or she” (wherever occurring), substitute “APRA”.
 
-## 23  Subsections 36(2), (3) and (4)
+## 23  Subsections 36(2), (3) and (4)
 
 Omit “he or she”, substitute “APRA”.
 
@@ -4322,7 +4088,7 @@ Omit “the Commissioner” (second and third occurring), substitute “the auth
 
 Omit “the Commissioner” (first occurring), substitute “an authorised person”.
 
-## 52  Paragraph 57(b)
+## 52  Paragraph 57(b)
 
 Omit “the Commissioner” (wherever occurring), substitute “the authorised person”.
 
@@ -4440,7 +4206,7 @@ Repeal the sections, substitute:
 
 Omit “him or her”, substitute “APRA”.
 
-<h7 class="ActHead7">Part 2—Changing “Commissioner” to “APRA” (main amendments)</h7>
+Part 2—Changing “Commissioner” to “APRA” (main amendments)
 
 ## 77  Amendment of the Act
 
@@ -4532,7 +4298,7 @@ _Note 2:    The headings to sections 56 and 60 are altered by omitting “
 
 ## 115  Section 49P
 
-## 116  Subsection 50(1) (paragraph (d) of the definition of _prescribed person_)
+## 116  Subsection 50(1) (paragraph (d) of the definition of _prescribed person_)
 
 ## 117  Subsections 51(1), (2) and (4)
 
@@ -4600,7 +4366,7 @@ _Note 2:    The headings to sections 56 and 60 are altered by omitting “
 
 ## 149  Subparagraphs 9(2) and (3) of the Schedule
 
-<h7 class="ActHead7">Part 3—Changing the administration of the Act (amendments to take account of Schedule 2 to the Insurance Laws Amendment Act 1998)</h7>
+Part 3—Changing the administration of the Act (amendments to take account of Schedule 2 to the Insurance Laws Amendment Act 1998)
 
 ## 150  Paragraph 70(3)(f)
 
@@ -4698,7 +4464,7 @@ Omit “he or she” (wherever occurring), substitute “APRA”.
 
 Omit “the Commissioner’s”, substitute “APRA’s”.
 
-<h7 class="ActHead7">Part 4—Changing “Commissioner” to “APRA” (amendments to take account of Schedule 2 to the Insurance Laws Amendment Act 1998)</h7>
+Part 4—Changing “Commissioner” to “APRA” (amendments to take account of Schedule 2 to the Insurance Laws Amendment Act 1998)
 
 ## 171  Amendment of the Act
 
@@ -4766,9 +4532,9 @@ _Note 2:    The headings to sections 81, 82 and 86 are altered by omitting
 
 ## 197  Paragraph 121(1)(d)
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 10</span>—<span class="CharChapText">Amendment of the Insurance (Agents and Brokers) Act 1984</span>
+# Schedule 10—Amendment of the Insurance (Agents and Brokers) Act 1984
 
-<h7 class="ActHead7">Part 1—Changing the administration of the Act</h7>
+Part 1—Changing the administration of the Act
 
 ## 1  Section 9
 
@@ -4850,7 +4616,7 @@ as an authorised officer for the purposes of a specified provision of this Act.
 
              (2)  The appointment may be restricted to a particular function or power under the provision.
 
-<h7 class="ActHead7">Part 2—Changing “Commissioner” to “ASIC”</h7>
+Part 2—Changing “Commissioner” to “ASIC”
 
 ## 16  Amendment of the Act
 
@@ -4920,7 +4686,7 @@ _Note:       The headings to sections 34A and 37A are altered by omi
 
 ## 47  Subsection 34A(1)-(3) and (6)
 
-## 48  Paragraphs 34A(9)(a) to (b)
+## 48  Paragraphs 34A(9)(a) to (b)
 
 ## 49  Subsection 34A(10)
 
@@ -4938,7 +4704,7 @@ _Note:       The headings to sections 34A and 37A are altered by omi
 
 ## 56  Subsection 43(1)
 
-<h7 class="ActHead7">Part 3—Changing “Commissioner’s” to “ASIC’s”</h7>
+Part 3—Changing “Commissioner’s” to “ASIC’s”
 
 ## 57  Amendment of the Act
 
@@ -4950,7 +4716,7 @@ The provisions of the Act specified in this Part are amended by omitting “the 
 
 ## 60  Subsection 37A(5)
 
-<h7 class="ActHead7">Part 4—Amendments to take account of Schedule 1 to the Insurance Laws Amendment Act 1998</h7>
+Part 4—Amendments to take account of Schedule 1 to the Insurance Laws Amendment Act 1998
 
 ## 61  Paragraph 20(3)(a)
 
@@ -4972,15 +4738,15 @@ Repeal the paragraph, substitute:
 
 Omit “the Commissioner”, substitute “ASIC”.
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 11</span>—<span class="CharChapText">Repeal of the Insurance and Superannuation Commissioner Act 1987</span>
+# Schedule 11—Repeal of the Insurance and Superannuation Commissioner Act 1987
 
 ## 1  The whole of the Act
 
 Repeal the Act.
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 12</span>—<span class="CharChapText">Amendment of the Insurance Contracts Act 1984</span>
+# Schedule 12—Amendment of the Insurance Contracts Act 1984
 
-<h7 class="ActHead7">Part 1—Changing the administration of the Act</h7>
+Part 1—Changing the administration of the Act
 
 ## 1  Subsection 11(1)
 
@@ -5016,7 +4782,7 @@ Repeal the section.
 
 Omit “insurer’s”, substitute “insured’s”.
 
-<h7 class="ActHead7">Part 2—Changing “Commissioner” to “ASIC”</h7>
+Part 2—Changing “Commissioner” to “ASIC”
 
 ## 8  Amendment of the Act
 
@@ -5034,9 +4800,9 @@ _Note:       The headings to sections 11B, 11C, 11D, 11E and 55A are
 
 ## 13  Subsections 55A(1) to (3)
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 13</span>—<span class="CharChapText">Amendment of the Life Insurance Act 1995</span>
+# Schedule 13—Amendment of the Life Insurance Act 1995
 
-<h7 class="ActHead7">Part 1—Changing the administration of the Act</h7>
+Part 1—Changing the administration of the Act
 
 ## 1  Paragraph 3(2)(c)
 
@@ -5224,7 +4990,7 @@ Insert:
 
                      (b)  ASIC if the provision in which it occurs is, or is being applied for the purposes of, a provision that is administered by ASIC.
 
-<h7 class="ActHead7">Part 2—Changing “Commissioner” to “APRA”</h7>
+Part 2—Changing “Commissioner” to “APRA”
 
 ## 35  Amendment of the Act
 
@@ -5326,7 +5092,7 @@ _Note:       The headings to sections 25, 33, 49, 88, 98, 169, 170, 
 
 ## 82  Subsections 86(1) and (3)
 
-## 83  Subsections 87(1) and (3)
+## 83  Subsections 87(1) and (3)
 
 ## 84  Subsections 88(2) to(3)
 
@@ -5430,7 +5196,7 @@ _Note:       The headings to sections 25, 33, 49, 88, 98, 169, 170, 
 
 ## 134  Section 257 (second reference only)
 
-<h7 class="ActHead7">Part 3—Changing “Commissioner’s” to “APRA’s”</h7>
+Part 3—Changing “Commissioner’s” to “APRA’s”
 
 ## 135  Amendment of the Act
 
@@ -5440,7 +5206,7 @@ _Note:       The heading to sections 51, 68, 73, 185 and 244 are alt
 
 ## 136  Subsection 170(2)
 
-<h7 class="ActHead7">Part 4—Changing “Commissioner’s rules” to “Prudential Rules”</h7>
+Part 4—Changing “Commissioner’s rules” to “Prudential Rules”
 
 ## 137  Amendment of the Act
 
@@ -5494,7 +5260,7 @@ _Note:       The heading to section 252 is altered by omitting “Co
 
 ## 160  Dictionary in the Schedule (definition of _this Act_)
 
-<h7 class="ActHead7">Part 5—Changing “Commissioner” to “ASIC”</h7>
+Part 5—Changing “Commissioner” to “ASIC”
 
 ## 161  Amendment of the Act
 
@@ -5508,7 +5274,7 @@ The provisions of the Act specified in this Part are amended by omitting “The 
 
 ## 165  Subsections 216(10) and (13)
 
-<h7 class="ActHead7">Part 6—Changing “Commissioner” to “Regulator”</h7>
+Part 6—Changing “Commissioner” to “Regulator”
 
 ## 166  Amendment of the Act
 
@@ -5560,7 +5326,7 @@ _Note 2:    The heading to section 142 is altered by omitting “Commissio
 
 ## 187  Subsections 236(2) to (3) and (5) to (8)
 
-<h7 class="ActHead7">Part 7—Other amendments</h7>
+Part 7—Other amendments
 
 ## 188  After paragraph 21(3)(c)
 
@@ -5636,7 +5402,7 @@ Section 23 of the _Life Insurance Act 1995_, as amended by this Part, applies:
 
                      (c)  to all other life companies on and after the commencement of this Part.
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 14</span>—<span class="CharChapText">Amendment of the Reserve Bank Act 1959</span>
+# Schedule 14—Amendment of the Reserve Bank Act 1959
 
 ## 1  Subsection 5(1)
 
@@ -6212,9 +5978,9 @@ _Note:       The heading to section 85 is replaced by the heading �
 
 Omit “$100”, substitute “10 penalty units”.
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 15</span>—<span class="CharChapText">Amendment of the Retirement Savings Accounts Act 1997</span>
+# Schedule 15—Amendment of the Retirement Savings Accounts Act 1997
 
-<h7 class="ActHead7">Part 1—Changing the administration of the Act</h7>
+Part 1—Changing the administration of the Act
 
 ## 1  Section 3
 
@@ -6434,7 +6200,7 @@ Repeal the section.
 
 Repeal the section.
 
-<h7 class="ActHead7">Part 2—Changing “Commissioner” to “APRA”</h7>
+Part 2—Changing “Commissioner” to “APRA”
 
 ## 34  Amendment of the Act
 
@@ -6502,7 +6268,7 @@ _Note 2:    The headings to subsections 66(6) and (8) are altered by omitt
 
 ## 63  Subsections 194(1) to (3)
 
-<h7 class="ActHead7">Part 3—Changing “Commissioner” to “ASIC”</h7>
+Part 3—Changing “Commissioner” to “ASIC”
 
 ## 64  Amendment of the Act
 
@@ -6518,7 +6284,7 @@ The provisions of the Act specified in this Part are amended by omitting “The 
 
 ## 69  Section 59
 
-<h7 class="ActHead7">Part 4—Changing “Commissioner” to “Regulator”</h7>
+Part 4—Changing “Commissioner” to “Regulator”
 
 ## 70  Amendment of the Act
 
@@ -6552,7 +6318,7 @@ _Note 2:    The headings to subsections 104(8) and 189(4) are altered by o
 
 ## 82  Paragraph 101(a)
 
-## 83  Subsection 104(8)
+## 83  Subsection 104(8)
 
 ## 84  Subsection 107(3)
 
@@ -6610,7 +6376,7 @@ _Note 2:    The headings to subsections 104(8) and 189(4) are altered by o
 
 ## 111  Subsection 200(2)
 
-<h7 class="ActHead7">Part 5—Changing “Commissioner’s” to “Regulator’s”</h7>
+Part 5—Changing “Commissioner’s” to “Regulator’s”
 
 ## 112  Amendment of the Act
 
@@ -6626,9 +6392,9 @@ _Note 2:    The heading to subsections 189(6) and (7) are altered by omitt
 
 ## 115  Subsection 162(1)
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 16</span>—<span class="CharChapText">Amendment of the Superannuation Industry (Supervision) Act 1993</span>
+# Schedule 16—Amendment of the Superannuation Industry (Supervision) Act 1993
 
-<h7 class="ActHead7">Part 1—Changing the administration of the Act</h7>
+Part 1—Changing the administration of the Act
 
 ## 1  Subsection 3(1)
 
@@ -6788,7 +6554,7 @@ Repeal the heading, substitute:
 
 ## Part 22—Payment of unclaimed superannuation money to ASIC
 
-## 18  Division 3 of Part 25 (heading)
+## 18  Division 3 of Part 25 (heading)
 
 Repeal the heading, substitute:
 
@@ -6854,7 +6620,7 @@ Repeal the section.
 
 Repeal the section.
 
-<h7 class="ActHead7">Part 2—Changing “Commissioner” to “APRA”</h7>
+Part 2—Changing “Commissioner” to “APRA”
 
 ## 31  Amendment of the Act
 
@@ -7100,7 +6866,7 @@ _Note 2:    The headings to subsections 18(11), 117(6), 129(4) and (6) and
 
 ## 149  Paragraph 372(3)(b)
 
-<h7 class="ActHead7">Part 3—Changing “Commissioner’s” to “APRA’s”</h7>
+Part 3—Changing “Commissioner’s” to “APRA’s”
 
 ## 150  Amendment of the Act
 
@@ -7120,7 +6886,7 @@ _Note 2:    The heading to subsection 71(4) is altered by omitting “Comm
 
 ## 155  Subsections 261(1) to (2)
 
-<h7 class="ActHead7">Part 4—Changing “Commissioner” to “ASIC”</h7>
+Part 4—Changing “Commissioner” to “ASIC”
 
 ## 156  Amendment of the Act
 
@@ -7154,7 +6920,7 @@ _Note 2:    The heading to subsection 225(5) is altered by omitting “Com
 
 ## 168  Subsection 377(2)
 
-<h7 class="ActHead7">Part 5—Changing “Commissioner” to “Regulator”</h7>
+Part 5—Changing “Commissioner” to “Regulator”
 
 ## 169  Amendment of the Act
 
@@ -7262,7 +7028,7 @@ _Note 2:    The headings to subsections 264(1), 273(8) and 344(4) are alte
 
 ## 218  Subsection 353(2)
 
-<h7 class="ActHead7">Part 6—Changing “Commissioner’s” to “Regulator’s”</h7>
+Part 6—Changing “Commissioner’s” to “Regulator’s”
 
 ## 219  Amendment of the Act
 
@@ -7278,7 +7044,7 @@ _Note 2:    The heading to subsections 344(6) and (8) are altered by omitt
 
 ## 222  Subsection 314(1)
 
-<h7 class="ActHead7">Part 7—Amendments to take account of Part 1 of Schedule 2 to the Superannuation Legislation Amendment Act 1999</h7>
+**Part 7—Amendments to take account of Part 1 of Schedule 2 to the Superannuation Legislation Amendment Act 1999**
 
 ## 223  Subsection 28(3)
 
@@ -7318,7 +7084,7 @@ Omit “Commissioner”, substitute “Regulator”.
 
 Omit “Commissioner” (wherever occurring), substitute “Regulator”.
 
-<h7 class="ActHead7">Part 8—Amendments to take account of Schedule 1 to the Superannuation Legislation Amendment (Choice of Superannuation Funds) Act 1999</h7>
+**Part 8—Amendments to take account of Schedule 1 to the Superannuation Legislation Amendment (Choice of Superannuation Funds) Act 1999**
 
 ## 232  Subparagraph 6(1)(a)(vii)
 
@@ -7352,11 +7118,11 @@ Omit “The Commissioner”, substitute “APRA”.
 
 Omit “the Commissioner”, substitute “APRA”.
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 17</span>—<span class="CharChapText">Amendment of the Superannuation (Resolution of Complaints) Act 1993</span>
+# Schedule 17—Amendment of the Superannuation (Resolution of Complaints) Act 1993
 
-<h7 class="ActHead7">Part 1—Amendments relating to changing “Commissioner” to “ASIC”</h7>
+Part 1—Amendments relating to changing “Commissioner” to “ASIC”
 
-## 1  Subsection 3(2) (note 2)
+## 1  Subsection 3(2) (note 2)
 
 Repeal the note, substitute:
 
@@ -7374,7 +7140,7 @@ Omit “Commissioner” (wherever occurring), substitute “Regulator”.
 
 Omit “Commissioner’s” (wherever occurring), substitute “ASIC’s”.
 
-<h7 class="ActHead7">Part 2—Changing “Commissioner” to “ASIC”</h7>
+Part 2—Changing “Commissioner” to “ASIC”
 
 ## 5  Amendment of the Act
 
@@ -7394,41 +7160,41 @@ _Note:       The headings to sections 64 and 64A are altered by omit
 
 ## 11  Paragraph 65(1)(b)
 
-<h7 class="ActHead7">Part 3—Amendment to take account of Schedule 3 to the Superannuation Legislation Amendment Act 1999</h7>
+**Part 3—Amendment to take account of Schedule 3 to the Superannuation Legislation Amendment Act 1999**
 
 ## 12  Subsection 63(3B)
 
 Omit “the Commissioner’s”, substitute “ASIC’s”.
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 18</span>—<span class="CharChapText">Amendment and repeal of other Acts</span>
+# Schedule 18—Amendment and repeal of other Acts
 
-<h7 class="ActHead7">Part 1—Amendment and repeal of levy Acts</h7>
+Part 1—Amendment and repeal of levy Acts
 
-<h9 class="ActHead9">General Insurance Supervisory Levy Act 1989</h9>
+General Insurance Supervisory Levy Act 1989
 
 ## 1  The whole of the Act
 
 Repeal the Act.
 
-<h9 class="ActHead9">Insurance Supervisory Levies Collection Act 1989</h9>
+Insurance Supervisory Levies Collection Act 1989
 
 ## 2  The whole of the Act
 
 Repeal the Act.
 
-<h9 class="ActHead9">Life Insurance Supervisory Levy Act 1989</h9>
+Life Insurance Supervisory Levy Act 1989
 
 ## 3  The whole of the Act
 
 Repeal the Act.
 
-<h9 class="ActHead9">Retirement Savings Accounts Supervisory Levy Act 1997</h9>
+Retirement Savings Accounts Supervisory Levy Act 1997
 
 ## 4  The whole of the Act
 
 Repeal the Act.
 
-<h9 class="ActHead9">Superannuation Entities (Taxation) Act 1987</h9>
+Superannuation Entities (Taxation) Act 1987
 
 ## 5  Title
 
@@ -7536,7 +7302,7 @@ Omit “, or the RSA provider,”.
 
 Omit “, or an RSA provider affected by such a decision,”.
 
-## 29  Subsections 17(1) and (2)
+## 29  Subsections 17(1) and (2)
 
 Omit “, or the RSA provider,” (wherever occurring).
 
@@ -7566,7 +7332,7 @@ Repeal the definition, substitute:
 
                     <a name="levi"></a>**_levy_** means levy imposed by the _Superannuation (Excluded Funds) Supervisory Levy Imposition Act 1991_.
 
-<h9 class="ActHead9">Superannuation Supervisory Levy Act 1991</h9>
+Superannuation Supervisory Levy Act 1991
 
 ## 36  Section 1
 
@@ -7586,15 +7352,15 @@ Omit “_Superannuation Entities (Taxation) Act 1987_”, substitute “_Superan
 
 Omit “the Commissioner” (wherever occurring), substitute “APRA”.
 
-<h7 class="ActHead7">Part 2—Amendment of other Acts</h7>
+Part 2—Amendment of other Acts
 
-<h9 class="ActHead9">Acts Interpretation Act 1901</h9>
+Acts Interpretation Act 1901
 
 ## 40  Section 40A
 
 After “_Securities_”, insert “_and Investments_”.
 
-<h9 class="ActHead9">Australian Prudential Regulation Authority Act 1998</h9>
+Australian Prudential Regulation Authority Act 1998
 
 ## 41  Subsection 38(3)
 
@@ -7604,7 +7370,7 @@ Repeal the subsection.
 
 Omit “officers and employees of Departments of the Australian Public Service”, substitute “persons appointed or engaged under the _Public Service Act 1999_”.
 
-<h9 class="ActHead9">Corporations Act 1989</h9>
+Corporations Act 1989
 
 ## 43  Subsection 4(1) (definition of _ASC Law_)
 
@@ -7614,13 +7380,13 @@ After “_Securities_”, insert “_and Investments_”.
 
 After “_Securities_”, insert “_and Investments_”.
 
-<h9 class="ActHead9">Crimes Act 1914</h9>
+Crimes Act 1914
 
 ## 45  Paragraph 4AB(3)(b)
 
 After “_Securities_”, insert “_and Investments_”.
 
-<h9 class="ActHead9">Financial Corporations (Transfer of Assets and Liabilities) Act 1993</h9>
+Financial Corporations (Transfer of Assets and Liabilities) Act 1993
 
 ## 46  Paragraphs 12(a) and (b)
 
@@ -7630,15 +7396,15 @@ Repeal the paragraphs, substitute:
 
                      (b)  an APRA staff member, within the meaning of the _Australian Prudential Regulation Authority Act 1998_.
 
-<h9 class="ActHead9">Financial Transactions Reports Act 1988</h9>
+Financial Transactions Reports Act 1988
 
 ## 47  Paragraph 27(9)(b)
 
 After “_Securities_”, insert “_and Investments_”.
 
-# <span style="FONT-SIZE: 16pt; FONT-FAMILY: Arial">Schedule 19</span>—<span class="CharChapText">Transitional provisions</span>
+# Schedule 19—Transitional provisions
 
-<h7 class="ActHead7">Part 1—Transitional provisions relating to amendments of the Banking Act 1959</h7>
+Part 1—Transitional provisions relating to amendments of the Banking Act 1959
 
 ## 1  Interpretation
 
@@ -7762,7 +7528,7 @@ Regulations in force immediately before the APRA commencement under section 71 o
 
                      (b)  references in them to the Reserve Bank were instead references to APRA.
 
-<h7 class="ActHead7">Part 2—Transitional provisions relating to amendments of the Financial Corporations Act 1974</h7>
+Part 2—Transitional provisions relating to amendments of the Financial Corporations Act 1974
 
 ## 20  Interpretation
 
@@ -7794,9 +7560,9 @@ The following provisions apply in relation to matters under section 10 of the ol
 
 An exemption in force immediately before the APRA commencement under subsection 11(14) of the old Act continues to have effect after that commencement as if it were an exemption under subsection 11(14) of the amended Act.
 
-<h7 class="ActHead7">Part 3—Transitional provisions relating to the establishment of APRA and the repeal of the Insurance and Superannuation Commissioner Act 1987</h7>
+Part 3—Transitional provisions relating to the establishment of APRA and the repeal of the Insurance and Superannuation Commissioner Act 1987
 
-<h8 class="ActHead8">Division 1—Interpretation</h8>
+Division 1—Interpretation
 
 ## 24  Interpretation
 
@@ -7822,7 +7588,7 @@ An exemption in force immediately before the APRA commencement under subsection 
 
 (2)        A reference in this Part to the Commonwealth includes a reference to the Insurance and Superannuation Commissioner.
 
-<h8 class="ActHead8" style="PAGE-BREAK-BEFORE: always">Division 2—Transfer of staff</h8>
+Division 2—Transfer of staff
 
 ## 25  Transfer of staff from the Reserve Bank and the ISC
 
@@ -7860,7 +7626,7 @@ An exemption in force immediately before the APRA commencement under subsection 
 
 (3)        Item 25 has effect in relation to the person even if the Reserve Bank or the Insurance and Superannuation Commissioner fails to give the required statement.
 
-<h8 class="ActHead8">Division 3—Transfer of assets and liabilities</h8>
+Division 3—Transfer of assets and liabilities
 
 ## 28  Transfer of assets
 
@@ -7934,7 +7700,7 @@ Stamp duty or other tax is not payable under a law of a State or Territory in re
 
 The Treasurer may, by instrument in writing, delegate all or any of the Treasurer’s powers under this Division to an officer of the Department.
 
-<h8 class="ActHead8">Division 4—Other general transitional provisions</h8>
+Division 4—Other general transitional provisions
 
 ## 34  Definitions
 
@@ -8018,7 +7784,7 @@ has effect after the APRA commencement as if it had been done in relation to ASI
 
 Item 27 of Schedule 2 to the _Insurance Laws Amendment Act 1998_ has effect as if the reference to the Commissioner were instead a reference to the Commissioner or to APRA.
 
-<h7 class="ActHead7">Part 4—Transitional provisions relating to amendments of the Reserve Bank Act 1959</h7>
+Part 4—Transitional provisions relating to amendments of the Reserve Bank Act 1959
 
 ## 40  Interpretation
 
@@ -8048,7 +7814,7 @@ The period of appointment of a member of the Reserve Bank Board to whom subsecti
 
 Section 81 of the old Act continues to have effect (despite its repeal) after the APRA commencement in relation to investigations, to the extent they were completed or in progress before that commencement.
 
-<h7 class="ActHead7">Part 5—Transitional provisions relating to the Payment Systems (Regulation) Act 1998</h7>
+Part 5—Transitional provisions relating to the Payment Systems (Regulation) Act 1998
 
 ## 44  Certain corporations are taken to have been granted authorities under section 23
 
@@ -8060,7 +7826,7 @@ A corporation that, on the commencement of the _Payment Systems (Regulation) Act
 
 is taken, on that commencement, to have been granted an authority under section 23 of the _Payment Systems (Regulation) Act 1998_ in relation to that class of purchased payment facilities.
 
-<h7 class="ActHead7">Part 6—Transitional provisions relating to levies</h7>
+Part 6—Transitional provisions relating to levies
 
 ## 45  Regulations may deal with transitional matters arising out of changes to levy legislation
 
@@ -8106,7 +7872,7 @@ is taken, on that commencement, to have been granted an authority under section 
 
                      (c)  the refund of an amount of levy that has been paid.
 
-<h7 class="ActHead7">Part 7—Regulations dealing with transitional matters</h7>
+Part 7—Regulations dealing with transitional matters
 
 ## 46  Regulations may deal with other transitional matters
 
@@ -8115,8 +7881,5 @@ The regulations may deal with other transitional matters relating to the amendme
 ## 47  Power to make regulations
 
 The Governor-General may make regulations, not inconsistent with this Schedule, prescribing matters required or permitted by this Schedule to be prescribed.
-
-
- 
 
  
