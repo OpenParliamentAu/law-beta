@@ -1,19 +1,22 @@
-![](http://www.comlaw.gov.au/Details/C2010C00030/Html/AB15004B87C7E2B2CA2576AB001CDB77/$FILE/ACISAdminAmend2003_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00468/Html/2452ECDA2DCC5ED7CA257649001FE83A/$FILE/ACISAdminAmend2003_WD02_image001.gif)
 
 # ACIS Administration Amendment Act 2003
 
 **Act No. 96 of 2003 as amended**
 
-This compilation was prepared on 4 January 2010
+This compilation was prepared on 8 October 2009
 
-**\[This Act was amended by Act No. 94 of 2009 (as amended by Act No. 136 of 2009]**
+**\[This Act is to be amended by Act No. 94 of 2009]**
 
-**Amendments from Act No. 94 of 2009 (as amended by Act No. 136 of 2009)**
+**Amendments from Act No. 94 of 2009**
 
 \[Schedule 1 (item 20) amends item 88 of Schedule 1
+
 Schedule 1 (item 21) amends item 91 of Schedule 1
 
-Schedule 1 (items 20 and 21) commenced on 1 January 2010]
+Schedule 1 (items 20 and 21) commence on 1 July 2010
+
+The amendments made by Schedule 1 (items 20 and 21) have not been incorporated]
 
 Prepared by the Office of Legislative Drafting and Publishing,
 Attorney-General’s Department, Canberra
@@ -288,7 +291,7 @@ Note 1:       See regulations made under subsection (5) for when p
 
 Note 2:       See section 6C for when investment undertaken by a person can be treated as investment undertaken by another person who is an MVP.
 
-## 19  Subsection 6(1)
+## 19  Subsection 6(1)
 
 Insert:
 
@@ -779,7 +782,7 @@ Note 2:       The purpose of applying duty credit as provided for in
 
                      (c)  contain such information as the form requires; and
 
-                     (d)  be signed in the manner indicated in the form; and 
+                     (d)  be signed in the manner indicated in the form; and
 
                      (e)  comply with any other applicable requirements specified in regulations made for the purposes of this paragraph.
 
@@ -909,7 +912,7 @@ Part 2—Transitional provisions
 
 ## 88  Participants in ACIS
 
-A person who was a participant in ACIS immediately before the commencement of this item continues to be a participant during ACIS Stage 2 unless:
+A person who was a participant in ACIS immediately before the commencement of this item continues to be a participant during ACIS Stage 2 and ACIS Stage 3 unless:
 
                      (a)  the participant is deregistered under Part 11 of the _ACIS Administration Act 1999_; or
 
@@ -927,6 +930,9 @@ Items 79 to 86 apply to an application for review of an original decision unde
 
 The amendment made by item 87 applies as follows:
 
-                     (a)  in relation to a participant who was a participant immediately before item 87 commences, the Minister may publish the information referred to in that item in respect of an ACIS year in ACIS Stage 2;
+                     (a)  in relation to a participant who was a participant immediately before item 87 commences, the Minister may publish the information referred to in that item in respect of an ACIS year in ACIS Stage 2 or ACIS Stage 3;
 
                      (b)  in relation to a person who becomes a participant on or after the commencement of item 87, the Minister may publish the information referred to in that item from the day that the person becomes a participant in ACIS.
+
+
+ 
