@@ -1,8 +1,8 @@
 
 Termination Payments Tax (Assessment and Collection) Act 1997
 Act No. 73 of 1997 as amended 
-This compilation was prepared on 1 May 2000  taking into account amendments up to Act No. 179 of 1999
-The text of any of those amendments not in force on that date is appended in the Notes section
+Consolidated as in force on 15 December 1999
+(includes amendments up to Act No. 146 of 1999)
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -30,6 +30,8 @@ Part 3—Assessment and collection of surcharge	8
 Part 4—Recovery of unpaid surcharge, general interest charge or late payment penalty	15
 16	Penalty for non‑payment of surcharge	15
 16A	Additional liability to pay general interest charge	15
+17	Recovery of unpaid amounts	16
+18	Payment of surcharge, general interest charge or late payment penalty	16
 Part 5—Administration	17
 21	General administration of Act	17
 22	Annual report	17
@@ -40,11 +42,13 @@ Part 6—Miscellaneous	21
 26	Access to premises etc.	22
 27	Obtaining information and evidence	23
 28	Records to be kept and retained by employer	23
-29	Application of the Criminal Code	24
-30	Regulations	25
-Part 7—Interpretation	26
-31	Definitions	26
-Notes		29
+28A	Commissioner may collect money from person who owes money to a surcharge payer	24
+29	Application of the Criminal Code	27
+30	Regulations	27
+Part 7—Interpretation	28
+31	Definitions	28
+Notes		31
+
 An Act relating to the assesment and collection of termination payments tax, and for related purposes
 Part 1—Preliminary
   
@@ -259,6 +263,13 @@ General interest charge period
 	(b)	finishes at the end of the last day on which, at the end of the day, any of the following remains unpaid:
 	(i)	primary general interest charge;
 	(ii)	general interest charge on primary general interest charge.
+17  Recovery of unpaid amounts
+		The following may be recovered by the Commonwealth as debts due to the Commonwealth:
+	(a)	surcharge that is due and payable;
+	(b)	general interest charge that is due and payable;
+	(c)	late payment penalty that is due and payable.
+18  Payment of surcharge, general interest charge or late payment penalty 
+		Surcharge, general interest charge and late payment penalty are payable to the Commissioner.
 
 Part 5—Administration
   
@@ -366,6 +377,39 @@ Offences
 Note 1:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 Note 2:	The amount of a penalty unit is stated in section 4AA of the Crimes Act 1914. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
 Note 3:	In a prosecution for an offence against subsection (5), the defendant bears an evidential burden in relation to the matter in subsection (4) (see subsection 13.3(3) of the Criminal Code).
+28A  Commissioner may collect money from person who owes money to a surcharge payer
+	(1)	This section allows the Commissioner to collect money from a person who owes money to a surcharge payer who has a surcharge debt.
+	(2)	The Commissioner may direct a person (the third party) who owes, or may later owe, money (the available money) to the surcharge payer to pay some or all of the available money to the Commissioner in accordance with the direction. The Commissioner must send a copy of the direction to the surcharge payer to the last place of address known to the Commissioner.
+	(3)	The direction cannot require an amount to be paid to the Commissioner at a time before it becomes owing by the third party to the surcharge payer.
+	(4)	The third party must comply with the direction, so far as the third party is able to do so.
+Penalty:	20 penalty units.
+Note 1:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
+Note 2:	The amount of a penalty unit is stated in section 4AA of the Crimes Act 1914. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine that is not greater than 5 times the maximum fine that could be imposed by the court on an individual convicted of the same offence.
+	(5)	If a person is convicted of an offence in relation to a refusal or failure of the third party to comply with subsection (4), the court may (in addition to imposing a penalty on the convicted person) order the convicted person to pay to the Commissioner an amount up to the amount involved in the refusal or failure of the third party.
+	(6)	Any payment made by the third party under this section is taken to have been made with the authority of the surcharge payer and of all other persons concerned, and the third party is indemnified for the payment.
+	(7)	If the whole of the surcharge debt of the surcharge payer is discharged before any payment is made by the third party, the Commissioner must immediately give notice to the third party of that fact.
+	(8)	The third party is taken to owe money to the surcharge payer if:
+	(a)	money is due or accruing by the third party to the surcharge payer; or
+	(b)	the third party holds money for or on account of the surcharge payer; or
+	(c)	the third party holds money on account of some other person for payment to the surcharge payer; or
+	(d)	the third party has authority from some other person to pay money to the surcharge payer;
+whether or not the payment of the money to the surcharge payer is dependent on a pre‑condition that has not been fulfilled.
+	(9)	For the purposes of this section, money that has been paid by a person to a co‑operative housing society for the issue of withdrawable shares in the capital of the society, but has not been repaid, is taken to be:
+	(a)	if the money is repayable on demand—money due by the co‑operative housing society to the person; or
+	(b)	if the money is not repayable on demand—money that may become due by the co‑operative housing society to the person.
+	(10)	In this section:
+co‑operative housing society means a society registered or incorporated as a co‑operative housing society or similar society under a law of a State or Territory.
+person includes:
+	(a)	the Commonwealth, a State or a Territory; and
+	(b)	a public authority of the Commonwealth or of a State or Territory, whether or not the authority is incorporated.
+surcharge debt means any of the following amounts payable by a person (whether or not the amount has become due for payment):
+	(a)	termination payments surcharge;
+	(b)	general interest charge under section 13;
+	(c)	late payment penalty;
+	(d)	a judgment debt, or costs, for surcharge, general interest charge under section 13 or late payment penalty;
+	(e)	a fine, or costs, that a court has imposed for an offence against this Act;
+	(f)	an amount that a court has ordered the person to pay to the Commissioner, following conviction of the person for an offence against this Act.
+surcharge payer means a person who is liable to pay termination payments surcharge.
 29  Application of the Criminal Code
 		Chapter 2 of the Criminal Code applies to all offences against this Act.
 30  Regulations
@@ -395,7 +439,7 @@ termination payments surcharge or surcharge means the tax imposed by the Termina
 the 1996‑97 financial year means the financial year that started on 1 July 1996.
 Notes to the Termination Payments Tax (Assessment and Collection) Act 1997
 Note 1
-The Termination Payments Tax (Assessment and Collection) Act 1997 as shown in this compilation comprises Act No. 73, 1997 amended as indicated in the Tables below.
+The Termination Payments Tax (Assessment and Collection) Act 1997 as shown in this consolidation comprises Act No. 73, 1997 amended as indicated in the Tables below.
 For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 Act
@@ -442,17 +486,12 @@ Superannuation Contributions and Termination Payments Taxes Legislation Amendmen
 131, 1999
 13 Oct 1999
 Schedule 3: Royal Assent (e)
-Sch. 3 (item 7)
+Sch. 3 (item 7) 
 Public Employment (Consequential and Transitional) Amendment Act 1999
 146, 1999
 11 Nov 1999
 Schedule 1 (items 932‑934): (see Gazette 1999, No. S584) (f)
 —
-A New Tax System (Tax Administration) Act 1999
-179, 1999
-22 Dec 1999
-Schedule 2 (items 108‑110, 130, 132): (g)
-Sch. 2 (items 130, 132)
 (a)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 1 (Item 44) only of the Taxation Laws Amendment Act (No. 3) 1997, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (aa)	The Taxation Laws Amendment Act (No. 3) 1997 was amended by Schedule 6 only of the Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1999, subsection 2(4) of which provides as follows:
@@ -469,11 +508,7 @@ Sch. 2 (items 130, 132)
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (f)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 1 (items 932‑934) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
-	(2)	Subject to this section, this Act commences at the commencing time.
-(g)	The Termination Payments Tax (Assessment and Collection) Act 1997 was amended by Schedule 2 (items 108‑110) only of the A New Tax System (Tax Administration) Act 1999, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the A New Tax System (Pay As You Go) Act 1999.
-	Section 1 of the A New Tax System (Pay As You Go) Act 1999 commenced on 22 December 1999.
-Table of Amendments
+	(2)	Subject to this section, this Act commences at the commencing time.Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
@@ -497,16 +532,10 @@ S. 16A
 ad. No. 11, 1999
 S. 17	
 am. No. 11, 1999
-
-rep. No. 179, 1999
 Heading to s. 18	
 am. No. 11, 1999
-
-rep. No. 179, 1999
 S. 18	
 am. No. 11, 1999
-
-rep. No. 179, 1999
 S. 19	
 rep. No. 11, 1999
 S. 20	
@@ -527,8 +556,6 @@ S. 28A
 ad. No. 191, 1997
 
 am. Nos. 11 and 44, 1999
-
-rep. No. 179, 1999
 S. 31	
 am. No. 191, 1997; Nos. 11, 131 and 146, 1999
 Table A
@@ -537,79 +564,5 @@ Superannuation Contributions and Termination Payments Taxes Legislation Amendmen
 Schedule 3  
 7  Application of amendments
 The amendments made by items 2 to 6 apply to assessments of surcharge payable for the financial year beginning on 1 July 1999 and later financial years.
-
-A New Tax System (Tax Administration) Act 1999 (No. 179, 1999)
-Schedule 2  
-130  Recovery of a tax‑related liability that is due and payable
-Despite its repeal, a provision listed in the table continues to have effect in relation to an amount that became due and payable before 1 July 2000.
-
-Tax‑related liability that became due and payable before 1 July 2000
-Item
-Act
-Provision
-
-Fringe Benefits Tax Assessment Act 1986
-section 94
-
-Petroleum Resource Rent Tax Assessment Act 1987
-section 86
-
-Sales Tax Assessment Act 1992
-section 69
-
-Superannuation Contributions Tax (Assessment and Collection) Act 1997
-section 26 or 27
-
-Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997
-section 22 or 23
-
-Superannuation Guarantee (Administration) Act 1992
-section 50
-
-Termination Payments Tax (Assessment and Collection) Act 1997
-section 17 or 18
-
-Taxation Administration Act 1953
-subsection 8AAV(1) or (2)
-
-Tobacco Charges Assessment Act 1955
-section 21
-
-Wool Tax (Administration) Act 1964
-section 44
-132  Collecting amounts from third parties
-Despite the repeal of a provision listed in the table:
-	(a)	anything done under that provision before 1 July 2000 continues to have effect on and after that day as if the provision had not been repealed; and
-	(b)	anything done on or after that day, under that provision as it continues to have effect because of this item, has effect as if the provision had not been repealed.
-
-Collecting amounts from third parties
-Item
-Act
-Provision
-
-Fringe Benefits Tax Assessment Act 1986
-section 99
-
-Petroleum Resource Rent Tax Assessment Act 1987
-section 91
-
-Sales Tax Assessment Act 1992
-section 74
-
-Superannuation Contributions Tax (Assessment and Collection) Act 1997
-section 40A
-
-Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997
-section 35
-
-Superannuation Guarantee (Administration) Act 1992
-section 56
-
-Termination Payments Tax (Assessment and Collection) Act 1997
-section 28A
-
-Wool Tax (Administration) Act 1964
-section 54
-
       
 
