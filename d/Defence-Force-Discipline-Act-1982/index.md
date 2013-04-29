@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00464/Html/DefenceForceDiscipline1982_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00325/Html/DefenceForceDiscipline1982_image001.gif)
 
 # Defence Force Discipline Act 1982
 
 **Act No. 152 of 1982 as amended**
 
-This compilation was prepared on 7 July 2010
- taking into account amendments up to Act No. 95 of 2010
+This compilation was prepared on 19 April 2010
+ taking into account amendments up to Act No. 36 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -626,7 +626,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [169B](#169B).     Appointment of discipline officers
 
-[169BA](#169BA).  Service chief may exempt certain defence members
+[169BA](#169BA).  Service chief may exempt certain warrant officers
 
 [169BB](#169BB).   Relevant discipline officers
 
@@ -4276,7 +4276,7 @@ then, unless the contrary intention appears, the provisions of this Part have ef
 
 ### Division 2—Duties of investigating officers when interviewing suspects
 
-##### <a id="101A"></a>101A  Interpretation
+##### <a id="101A"></a>101A  Interpretation
 
                    Where the investigating officer in charge of investigating a service offence has grounds for believing that a person who is in custody in respect of the service offence has committed another service offence, the person shall, for the purposes of this Division, be deemed to be in custody in respect of both of the service offences.
 
@@ -6890,9 +6890,9 @@ the reviewing authority may order a new trial of the person for that offence.
 
                      (a)  in the Navy—an officer who holds a rank of or below the rank of lieutenant (other than a person who holds the rank of midshipman); or
 
-                     (b)  in the Army—an officer who holds a rank of or below the rank of captain (other than a person who holds the rank of officer cadet); or
+                     (b)  in the Army—an officer who holds a rank of or below the rank of captain; or
 
-                     (c)  in the Air Force—an officer who holds a rank of or below the rank of flight lieutenant (other than a person who holds the rank of officer cadet).
+                     (c)  in the Air Force—an officer who holds a rank of or below the rank of flight lieutenant.
 
                     <a name="offic-cadet"></a>**_officer cadet_** means a defence member who holds:
 
@@ -6908,7 +6908,7 @@ the reviewing authority may order a new trial of the person for that offence.
 
                      (c)  in the Air Force—a member of the Defence Force who holds a rank of or below the rank of flight lieutenant;
 
-but does not include a defence member covered by a determination in force under section 169BA.
+but does not include a warrant officer covered by a determination in force under section 169BA.
 
                     <a name="relev-disciplin-offic"></a>**_relevant discipline officer_**, in relation to a prescribed defence member, has the meaning given by section 169BB.
 
@@ -6916,33 +6916,13 @@ but does not include a defence member covered by a determination in force under 
 
 ##### <a id="169B"></a>169B  Appointment of discipline officers
 
-                   A commanding officer may, in writing, appoint any of the following to be discipline officers:
+                   A commanding officer may, in writing, appoint officers or warrant officers to be discipline officers.
 
-                     (a)  officers;
-
-                     (b)  warrant officers;
-
-                     (c)  sailors holding the rank of chief petty officer;
-
-                     (d)  airmen holding the rank of flight sergeant.
-
-##### <a id="169BA"></a>169BA  Service chief may exempt certain defence members
+##### <a id="169BA"></a>169BA  Service chief may exempt certain warrant officers
 
              (1)  A service chief may determine, in writing, that a specified warrant officer, or a warrant officer included in a specified class of warrant officers, is not a **_prescribed defence member_** for the purposes of this Part.
 
              (2)  A determination under subsection (1) is not a legislative instrument.
-
-             (3)  A service chief may determine, in writing, that any of the following is not a **_prescribed defence member_** for the purposes of this Part:
-
-                     (a)  a specified sailor holding the rank of chief petty officer;
-
-                     (b)  a sailor included in a specified class of sailors holding the rank of chief petty officer;
-
-                     (c)  a specified airman holding the rank of flight sergeant;
-
-                     (d)  an airman included in a specified class of airmen holding the rank of flight sergeant.
-
-             (4)  A determination under subsection (3) is not a legislative instrument.
 
 ##### <a id="169BB"></a>169BB  Relevant discipline officers
 
@@ -6994,8 +6974,7 @@ but does not include a defence member covered by a determination in force under 
     <div>Officer cadet</div>
   </td>
   <td>
-    <div>Discipline officer who is at least 2 ranks senior to the prescribed defence
-      member</div>
+    <div>Any discipline officer</div>
   </td>
 </tr>
 <tr>
@@ -7007,8 +6986,8 @@ but does not include a defence member covered by a determination in force under 
     <div>Non-commissioned officer</div>
   </td>
   <td>
-    <div>Discipline officer who is at least 2 ranks senior to the prescribed defence
-      member</div>
+    <div>Discipline officer who holds a rank not lower than lieutenant commander,
+      major or squadron leader</div>
   </td>
 </tr>
 <tr>
@@ -7019,8 +6998,7 @@ but does not include a defence member covered by a determination in force under 
     <div>Member below non-commissioned rank</div>
   </td>
   <td>
-    <div>Discipline officer who is at least 2 ranks senior to the prescribed defence
-      member</div>
+    <div>Any discipline officer</div>
   </td>
 </tr></table>
 
@@ -7032,7 +7010,9 @@ but does not include a defence member covered by a determination in force under 
 
                      (b)  the member has elected to be dealt with by a discipline officer; and
 
-                     (c)  the member has not withdrawn the election.
+                     (c)  the member has not withdrawn the election; and
+
+                     (d)  the discipline officer holds his or her appointment from the commanding officer of the member.
 
 ##### <a id="169D"></a>169D  Issue of infringement notice
 
@@ -7054,7 +7034,7 @@ but does not include a defence member covered by a determination in force under 
 
              (3)  An infringement notice must be in accordance with a form approved by the Chief of the Defence Force.
 
-             (4)  A relevant officer does not have authority to give an infringement notice to a prescribed defence member unless the relevant officer is authorised in writing by a commanding officer to give such notices.
+             (4)  A relevant officer does not have authority to give an infringement notice to a prescribed defence member unless the relevant officer is authorised in writing by the commanding officer of the member to give such notices.
 
              (5)  A relevant officer does not have authority to give an infringement notice to a prescribed defence member in relation to a disciplinary infringement unless the notice is given as soon as is reasonably practicable after the relevant officer first has reasonable grounds for believing that the member has committed the infringement.
 
@@ -7132,11 +7112,6 @@ Punishments that may be imposed in respect of disciplinary infringements
   </td>
   <td>
     <div>Fine not exceeding the amount of the defence member’s pay for one day</div>
-    <div>Restriction of privileges for a period not exceeding 2 days</div>
-    <div>Stoppage of leave for a period not exceeding 3 days</div>
-    <div>Extra duties for a period not exceeding 3 days</div>
-    <div>Extra drill for no more than 2 sessions of 30 minutes each per day for
-      a period not exceeding 3 days</div>
     <div>Reprimand</div>
   </td>
 </tr>
@@ -7447,7 +7422,7 @@ the reviewing authority may order that the execution of the punishment shall be 
 
                     <a name="minist"></a>**_Minister_**, in relation to the Northern   Territory, means a person holding an office referred to in section 34 of the _Northern Territory__(Self-Government) Act 1978_.
 
-##### <a id="183"></a>183  Terms and conditions of appointment etc.
+##### <a id="183"></a>183  Terms and conditions of appointment etc.
 
              (1)  The Judge Advocate General or a Deputy Judge Advocate General holds office for such period, not exceeding 7 years, as is specified in the instrument of the Judge Advocate General’s appointment.
 
@@ -9421,7 +9396,7 @@ The _Defence Force Discipline Act 1982_ as shown in this compilation comprises A
 
 For application, saving or transitional provisions made by Schedules 2–4 of the _Military Justice (Interim Measures) Act (No. 1) 2009_, _see_ Act No. 91, 2009.
 
-All relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information _see_ Table A.
+All other relevant information pertaining to application, saving or transitional provisions prior to 22 March 2001 is not included in this compilation. For subsequent information _see_ Table A.
 
 Schedule 3 of the _Defence Force Discipline Act 1982_ was modified by the _Defence Force Discipline Regulation__s 1__985_ (1985 No. 125). Schedule 3 was repealed and substituted by the _Defence Legislation Amendment Act 2008_(No. 6 of 2008). These modifications no longer apply.
 
@@ -10114,23 +10089,6 @@ Schedule 7 (item 39): <i>(p)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Defence Legislation Amendment Act (No. 1) 2010</div>
-  </td>
-  <td>
-    <div>95, 2010</div>
-  </td>
-  <td>
-    <div>5 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5: Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 5 (item 13) \[ <i>see</i>Table A]</div>
   </td>
 </tr></table>
 
@@ -16608,7 +16566,7 @@ ad. No. 159, 2006</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 135, 2003; No. 6, 2008; No. 95, 2010</div>
+    <div>am. No. 135, 2003; No. 6, 2008</div>
   </td>
   <td>
     <div></div>
@@ -16627,65 +16585,10 @@ ad. No. 159, 2006</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 95, 2010</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 169BA</div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 95, 2010</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169BA</div>
+    <div>Ss. 169BA, 169BB</div>
   </td>
   <td colspan="2">
     <div>ad. No. 6, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 95, 2010</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 169BB</div>
-  </td>
-  <td colspan="2">
-    <div>ad. No. 6, 2008</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div>am. No. 95, 2010</div>
   </td>
   <td>
     <div></div>
@@ -16707,7 +16610,7 @@ ad. No. 159, 2006</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 135, 2003; No. 6, 2008; No. 95, 2010</div>
+    <div>am. No. 135, 2003; No. 6, 2008</div>
   </td>
   <td>
     <div></div>
@@ -16762,7 +16665,7 @@ ad. No. 159, 2006</div>
     <div></div>
   </td>
   <td colspan="2">
-    <div>am. No. 135, 2003; No. 6, 2008; No. 95, 2010</div>
+    <div>am. No. 135, 2003; No. 6, 2008</div>
   </td>
   <td>
     <div></div>
@@ -18449,7 +18352,7 @@ ad. No. 159, 2006</div>
 
 ### Note 2
 
-_Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act 2010 (No. 36, 2010)_
+_Trans-Tasman Proceedings (Transitional and Consequential Provisions) Act  2010 (No. 36, 2010)_
 
 The following amendments commence at the same time as section 3 of the _Trans-Tasman Proceedings Act 2010_:
 
@@ -18471,7 +18374,7 @@ Note:          See Part 6 of the _Trans-Tasman Proceedings A
 
 Omit “the _Evidence and Procedure (New Zealand) Act 1994_”, substitute “the _Trans-Tasman Proceedings Act 2010_”.
 
-As at 7 July 2010 the amendments are not incorporated in this compilation.
+As at 19 April 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -18628,7 +18531,7 @@ Trial by court martial
 
                               (i)  is taken to have withdrawn the request; and
 
-                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military Court for trial; and
+                             (ii)  is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial; and
 
                      (c)  on and after the commencement day, the new law applies in relation to the service offence as if the offence had been committed after the commencement day.
 
@@ -18818,7 +18721,7 @@ Elections made for trial by court martial or Defence Force magistrate
 
                      (a)  after the commencement day, a person makes an election under subsection 131(1) of the old DFDA to have a charge against him or her tried by a court martial or Defence Force magistrate; and
 
-                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian   Military Court for trial;
+                     (b)  because of subitem (2) or (4), the Director of Military Prosecutions is taken to have requested the Registrar of the Australian Military Court to refer the charge to the Australian Military   Court for trial;
 
 the person may withdraw the election by written notice to the Registrar of the Australian Military Court at any time before a date is fixed for hearing by the Court.
 
@@ -19063,17 +18966,5 @@ An appointment made under section 150 of the old DFDA that was in force immedi
 ## 8  Regulations may deal with transitional, saving or application matters
 
 The Governor-General may make regulations dealing with matters of a transitional, saving or application nature relating to amendments and repeals made by this Act.
-
-* * *
-
-_Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
-
-## Schedule 5
-
-## 13  Application of amendments
-
-(1)        The amendments made by this Schedule apply in relation to acts and omissions that take place on or after the commencement of this item.
-
-(2)        For the purposes of this item, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the commencement of this item, the act or omission is alleged to have taken place before the commencement of this item.
 
  
