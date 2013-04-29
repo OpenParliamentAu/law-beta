@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2005C00348/Html/FB5E43E4DA765BFACA25700000151182/$FILE/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00325/Html/0C3E6002FB9B1ED9CA256FE8002B3C25/$FILE/image001.gif)
 
 # Narcotic Drugs Act 1967
 
 **Act No. 53 of 1967 as amended**
 
-This compilation was prepared on 16 May 2005
+This compilation was prepared on 15 April 2005
 taking into account amendments up to Act No. 38 of 2005
 
 The text of any of those amendments not in force
@@ -205,7 +205,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
              (2)  In this section, **_Minister_** means the Minister for Health.
 
-##### <a id="11"></a>11  Permits to manufacture
+##### <a id="11"></a>11  Permits to manufacture
 
              (1)  The Secretary may from time to time grant to the holder of a manufacturer’s licence a permit to manufacture the drug to which the licence relates during such period as is specified in the permit.
 
@@ -272,6 +272,8 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
                      (d)  a direction given by the CEO under section 12; or
 
                      (e)  a direction given by the Secretary under section 13.
+
+             (2)  For the purposes of a review upon an application under subsection (1), the Tribunal may be constituted by a presidential member alone.
 
 ## Part III—Offences in relation to drugs
 
@@ -395,7 +397,7 @@ Note:          For strict liability, see section 6.1 of the 
 
              (4)  In this section, **_drug_** includes narcotic preparation.
 
-##### <a id="25"></a>25  Delegation
+##### <a id="25"></a>25  Delegation
 
              (1)  The Minister for Health, the Minister for Industry, Technology and Commerce, or the Secretary may, either generally or as otherwise provided by the instrument of delegation, by writing signed by him, delegate to a person any of his powers and functions under this Act, other than this power of delegation.
 
@@ -1300,8 +1302,6 @@ DONE at New York, this thirtieth day of March one thousand nine hundred and sixt
 
 (_Here follow the signatures on behalf of the parties to the Convention, including__Australia__._)
 
-SCHEDULES
-
 _List of drugs included in Schedule I_
 
 ACETYLMETHADOL (3-acetoxy-6-dimethylamino-4,4-diphenylheptane) 
@@ -1814,7 +1814,7 @@ of Assent
       <div>1July 1995</div>
     </td>
     <td>
-      <div>S. 18 and Schedule 9 (items 81–84): Royal Assent <i>(d)</i></div>
+      <div>S. 18 and Schedule 9 (items 81-84): Royal Assent <i>(d)</i></div>
     </td>
     <td>
       <div>S. 18</div>
@@ -1848,7 +1848,7 @@ of Assent
       <div>1 Apr 2005</div>
     </td>
     <td>
-      <div>Schedule 1 (item 228): 16 May 2005</div>
+      <div>Schedule 1 (item 228): \[ <i>see</i>Note 2]</div>
     </td>
     <td>
       <div>—</div>
@@ -1880,7 +1880,7 @@ _(d)_     The _Narcotic Drugs Act 1967_ was amended by the _Customs, Exc
   <col width="66%">
 </colgroup>
 
-<thead>
+<tbody>
   <tr>
     <td colspan="2">
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
@@ -1892,16 +1892,6 @@ _(d)_     The _Narcotic Drugs Act 1967_ was amended by the _Customs, Exc
     </td>
     <td>
       <div>How affected</div>
-    </td>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>
-      <div><b>Part I</b></div>
-    </td>
-    <td>
-      <div></div>
     </td>
   </tr>
   <tr>
@@ -1970,14 +1960,6 @@ _(d)_     The _Narcotic Drugs Act 1967_ was amended by the _Customs, Exc
   </tr>
   <tr>
     <td>
-      <div><b>Part II</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>Ss. 9, 10</div>
     </td>
     <td>
@@ -2029,15 +2011,7 @@ _(d)_     The _Narcotic Drugs Act 1967_ was amended by the _Customs, Exc
       <div></div>
     </td>
     <td>
-      <div>am. No. 165, 1984; No. 85, 1995; No. 38, 2005</div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div><b>Part III</b></div>
-    </td>
-    <td>
-      <div></div>
+      <div>am. No. 165, 1984; No. 85, 1995</div>
     </td>
   </tr>
   <tr>
@@ -2082,14 +2056,6 @@ _(d)_     The _Narcotic Drugs Act 1967_ was amended by the _Customs, Exc
   </tr>
   <tr>
     <td>
-      <div><b>Part IV</b></div>
-    </td>
-    <td>
-      <div></div>
-    </td>
-  </tr>
-  <tr>
-    <td>
       <div>S. 22</div>
     </td>
     <td>
@@ -2129,6 +2095,21 @@ _(d)_     The _Narcotic Drugs Act 1967_ was amended by the _Customs, Exc
     </td>
   </tr>
 </tbody></table>
+
+
+### Note 2
+
+_Administrative Appeals Tribunal Amendment Act 2005 (No. 38, 2005)_
+
+The following amendment commences on 1 October 2005 unless proclaimed earlier:
+
+## Schedule 1
+
+## 228  Subsection 14A(2)
+
+Repeal the subsection.
+
+As at 15 April 2005 the amendment is not incorporated in this compilation.
 
 
 ## Table A
