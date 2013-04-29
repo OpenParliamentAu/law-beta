@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00243/Html/7c9ef1f0-8442-45c2-9c1a-e755bce1aac2_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00344/Html/MoombaSydneyPlineSysSale94WD02_image001.gif)
 
-# Moomba‑Sydney Pipeline System Sale Act 1994
+# Moomba-Sydney Pipeline System Sale Act 1994
 
 **Act No. 70 of 1994 as amended**
 
-This compilation was prepared on 19 April 2011
- taking into account amendments up to Act No. 5 of 2011
+This compilation was prepared on 16 July 2009
+ taking into account amendments up to Act No. 54 of 2009
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -36,7 +36,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Part 2—Transfers etc. of assets etc  to Newco and the Commonwealth** 
 
-    **Division 1—Transfer of certain assets etc. relating to the Moomba‑Sydney pipeline system from the Authority and Pacenco to Newco** 
+    **Division 1—Transfer of certain assets etc. relating to the Moomba-Sydney pipeline system from the Authority and Pacenco to Newco** 
 
         **Subdivision A—Nomination of Newco**
 
@@ -52,9 +52,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Variation of terms and conditions of employment
 
-[11](#11).          Transferring staff member not to be eligible for re‑appointment under the _Public Service Act 1922_
+[11](#11).          Transferring staff member not to be eligible for re-appointment under the _Public Service Act 1922_
 
-        **Subdivision C—Transfer of certain assets etc. relating to the Moomba‑Sydney pipeline system business from the Authority and Pacenco to Newco**
+        **Subdivision C—Transfer of certain assets etc. relating to the Moomba-Sydney pipeline system business from the Authority and Pacenco to Newco**
 
 [12](#12).          Certain assets and liabilities of the Authority and Pacenco to become assets and liabilities of Newco
 
@@ -74,13 +74,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Instruments relating to the easements of the Authority or Pacenco that are not specified in the easement agreement
 
-[19](#19).          Commonwealth‑guaranteed debts of the Authority become debts of the Commonwealth
+[19](#19).          Commonwealth-guaranteed debts of the Authority become debts of the Commonwealth
 
-[20](#20).          Instruments relating to Commonwealth‑guaranteed debts
+[20](#20).          Instruments relating to Commonwealth-guaranteed debts
 
-[21](#21).          Commonwealth and Authority liable to pay certain amounts in relation to Commonwealth‑guaranteed debts
+[21](#21).          Commonwealth and Authority liable to pay certain amounts in relation to Commonwealth-guaranteed debts
 
-[22](#22).          Commonwealth liable to pay an amount to the Authority equal to Authority’s debts to the Commonwealth and set‑off of debts
+[22](#22).          Commonwealth liable to pay an amount to the Authority equal to Authority’s debts to the Commonwealth and set-off of debts
 
 [23](#23).          Cancellation of debts owed by Pacenco to the Authority
 
@@ -94,7 +94,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [26](#26).          Certificates in relation to other assets
 
-[27](#27).          Ending of certain rights that restrict the transfer of the Moomba‑Sydney pipeline system
+[27](#27).          Ending of certain rights that restrict the transfer of the Moomba-Sydney pipeline system
 
 [28](#28).          Authority, Pacenco and Commonwealth to take steps necessary to carry out transfers
 
@@ -122,7 +122,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [37](#37).          Employee’s long service leave credit for the purposes of sections 34 and 35
 
-[38](#38).          Division not to affect an employee’s post‑sale long service leave rights
+[38](#38).          Division not to affect an employee’s post-sale long service leave rights
 
 [39](#39).          Saving—Long Service Leave Act
 
@@ -152,7 +152,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [49](#49).          Cessation of mobility rights
 
-**Part 4—Other provisions relating to the sale of shares in Newco by the Commonwealth**
+    **Part 4—Other provisions relating to the sale of shares in Newco by the Commonwealth**
 
 [50](#50).          Transitional provision relating to the _Crimes (Superannuation Benefits) Act 1989_
 
@@ -166,7 +166,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [55](#55).          Ending the Authority’s liability under the _Commonwealth Guarantees (Charges) Act 1987_
 
-**Part 5—Post‑sale day staff provisions**
+**Part 5—Post-sale day staff provisions**
 
 [56](#56).          Transfer time
 
@@ -182,7 +182,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [62](#62).          Variation of terms and conditions of employment
 
-[63](#63).          Post‑sale transferee not to be eligible for re‑appointment under the _Public Service Act 1922_
+[63](#63).          Post-sale transferee not to be eligible for re-appointment under the _Public Service Act 1922_
 
 [64](#64).          Certain staff members of the Authority taken to have resigned
 
@@ -200,7 +200,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [151](#151).        Chief Executive Officer
 
-[152](#152).        Acting appointments—part‑time directors
+[152](#152).        Acting appointments—part-time directors
 
 [153](#153).        Meetings of Authority
 
@@ -266,7 +266,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Notes** 
 
-## An Act relating to the sale of the Moomba‑Sydney pipeline system, and for related purposes
+## An Act relating to the sale of the Moomba-Sydney pipeline system, and for related purposes
 
 ## Part 1—Preliminary
 
@@ -274,7 +274,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Moomba‑Sydney Pipeline System Sale Act 1994_.
+                   This Act may be cited as the _Moomba-Sydney Pipeline System__Sale__Act 1994_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -284,7 +284,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
              (3)  If:
 
-                     (a)  the Commonwealth and Newco do not enter into an agreement on the sale day for the sale of the Moomba‑Sydney pipeline system by the Commonwealth; or
+                     (a)  the Commonwealth and Newco do not enter into an agreement on the sale day for the sale of the Moomba-Sydney pipeline system by the Commonwealth; or
 
                      (b)  if the agreement is entered into but Newco does not pay the Commonwealth the amount it is required to pay the Commonwealth on the sale day under the agreement;
 
@@ -306,7 +306,7 @@ the remaining provisions of this Act are taken never to have commenced.
 
 but does not include a Commonwealth record under the _Archives Act 1983_.
 
-                    <a name="asset-purchas-agreem"></a>**_asset purchase agreement_** means the agreement made between the Commonwealth and Newco on the sale day for the sale of the Moomba‑Sydney pipeline system.
+                    <a name="asset-purchas-agreem"></a>**_asset purchase agreement_** means the agreement made between the Commonwealth and Newco on the sale day for the sale of the Moomba-Sydney pipeline system.
 
                     <a name="authorised-person"></a>**_authorised person_** means:
 
@@ -318,9 +318,9 @@ but does not include a Commonwealth record under the _Archives Act 1983_.
 
                     <a name="author-instrum"></a>**_Authority instrument_** means an instrument that is specified in Schedule 3 to the asset purchase agreement.
 
-                    <a name="commonwealth-agl-agreem"></a>**_Commonwealth‑AGL agreement_** means the agreement made between the Commonwealth and AGL on 18 November 1993 in relation to the sale of the Moomba‑Sydney pipeline system.
+                    <a name="commonwealth-agl-agreem"></a>**_Commonwealth-AGL agreement_** means the agreement made between the Commonwealth and AGL on 18 November 1993 in relation to the sale of the Moomba-Sydney pipeline system.
 
-                    <a name="commonwealth-guarante-debt"></a>**_Commonwealth‑guaranteed debt_** means a debt and any other related obligations whose performance is guaranteed by the Commonwealth.
+                    <a name="commonwealth-guarante-debt"></a>**_Commonwealth-guaranteed debt_** means a debt and any other related obligations whose performance is guaranteed by the Commonwealth.
 
                     <a name="dfrdb-act"></a>**_DFRDB Act_** means the _Defence Force Retirement and Death Benefits Act 1973_.
 
@@ -329,8 +329,6 @@ but does not include a Commonwealth record under the _Archives Act 1983_.
                     <a name="dual-destin-interest"></a>**_dual destination interest_** means an easement or other right in relation to land, that is specified in the easement agreement.
 
                     <a name="easem-agreem"></a>**_easement agreement_** means the agreement made between the Commonwealth and Newco on the sale day in relation to their ownership as tenants in common of all dual destination interests.
-
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997_.
 
                     <a name="instrum"></a>**_instrument_** includes a document but does not include a Commonwealth legislative instrument other than an instrument under the _Lands Acquisition Act 1955_, the _Lands Acquisition Act 1989_ or the _Industrial Relations Act 1988_.
 
@@ -374,7 +372,7 @@ but does not include a Commonwealth record under the _Archives Act 1983_.
 
                      (e)  any mixture of a hydrocarbon or hydrocarbons so produced with another substance or other substances.
 
-                    <a name="post-sale-transfere"></a>**_post‑sale transferee_** means a staff member of the Authority who becomes employed by Newco under subsection 57(2) or 60(2).
+                    <a name="post-sale-transfere"></a>**_post-sale transferee_** means a staff member of the Authority who becomes employed by Newco under subsection 57(2) or 60(2).
 
                     <a name="sale-dai"></a>**_sale day_** has the meaning given by subsection 4(1).
 
@@ -398,19 +396,19 @@ but does not include a Commonwealth record under the _Archives Act 1983_.
 
 ##### <a id="4"></a>4  The sale day
 
-             (1)  The sale day is 30 June 1994 or such other day as the Commonwealth and AGL agree to in writing for the purposes of the Commonwealth‑AGL agreement.
+             (1)  The sale day is 30 June 1994 or such other day as the Commonwealth and AGL agree to in writing for the purposes of the Commonwealth-AGL agreement.
 
              (2)  The Minister must, by notice in the _Gazette_, notify the sale day within 14 days after the sale day.
 
 ##### <a id="5"></a>5  Act binds the Crown
 
-             (1)  This Act binds the Crown in right of the Commonwealth, each of the States, the Australian Capital Territory and the Northern Territory.
+             (1)  This Act binds the Crown in right of the Commonwealth, each of the States, the Australian Capital Territory and the Northern   Territory.
 
              (2)  This Act does not make the Crown liable to be prosecuted for an offence.
 
 ## Part 2—Transfers etc. of assets etc. to Newco and the Commonwealth
 
-### Division 1—Transfer of certain assets etc. relating to the Moomba‑Sydney pipeline system from the Authority and Pacenco to Newco
+### Division 1—Transfer of certain assets etc. relating to the Moomba-Sydney pipeline system from the Authority and Pacenco to Newco
 
 #### Subdivision A—Nomination of Newco
 
@@ -480,11 +478,11 @@ that is equivalent to the entitlement that the person had as an officer or emplo
 
                      (c)  substituting new terms or conditions for any of those terms and conditions.
 
-##### <a id="11"></a>11  Transferring staff member not to be eligible for re‑appointment under the _Public Service Act 1922_
+##### <a id="11"></a>11  Transferring staff member not to be eligible for re-appointment under the _Public Service Act 1922_
 
                    Paragraph 87N(2)(c) of the _Public Service Act 1922_ does not apply to a transferring staff member.
 
-#### Subdivision C—Transfer of certain assets etc. relating to the Moomba‑Sydney pipeline system business from the Authority and Pacenco to Newco
+#### Subdivision C—Transfer of certain assets etc. relating to the Moomba-Sydney pipeline system business from the Authority and Pacenco to Newco
 
 ##### <a id="12"></a>12  Certain assets and liabilities of the Authority and Pacenco to become assets and liabilities of Newco
 
@@ -564,35 +562,35 @@ that are to be used, or are used, for the carriage of petroleum, in trade or com
 
              (4)  This section is not intended to affect the operation of any law of a State or Territory with respect to the construction or operation of pipelines or parts of pipelines that is capable of operating concurrently with this section.
 
-##### <a id="19"></a>19  Commonwealth‑guaranteed debts of the Authority become debts of the Commonwealth
+##### <a id="19"></a>19  Commonwealth-guaranteed debts of the Authority become debts of the Commonwealth
 
-             (1)  By force of this section, all Commonwealth‑guaranteed debts of the Authority cease to be obligations of the Authority and become obligations of the Commonwealth on the sale day.
+             (1)  By force of this section, all Commonwealth-guaranteed debts of the Authority cease to be obligations of the Authority and become obligations of the Commonwealth on the sale day.
 
-             (2)  The Treasurer may authorise the payment of money to discharge the Commonwealth‑guaranteed debts that become obligations of the Commonwealth, whether by ending those obligations or otherwise.
+             (2)  The Treasurer may authorise the payment of money to discharge the Commonwealth-guaranteed debts that become obligations of the Commonwealth, whether by ending those obligations or otherwise.
 
              (3)  The Consolidated Revenue Fund is appropriated for payments under this section.
 
-##### <a id="20"></a>20  Instruments relating to Commonwealth‑guaranteed debts
+##### <a id="20"></a>20  Instruments relating to Commonwealth-guaranteed debts
 
-                   An instrument relating to a Commonwealth‑guaranteed debt of the Authority continues to have effect, on and after the sale day, as if a reference in the instrument to the Authority were a reference to the Commonwealth.
+                   An instrument relating to a Commonwealth-guaranteed debt of the Authority continues to have effect, on and after the sale day, as if a reference in the instrument to the Authority were a reference to the Commonwealth.
 
-##### <a id="21"></a>21  Commonwealth and Authority liable to pay certain amounts in relation to Commonwealth‑guaranteed debts
+##### <a id="21"></a>21  Commonwealth and Authority liable to pay certain amounts in relation to Commonwealth-guaranteed debts
 
              (1)  On the sale day:
 
-                     (a)  the Commonwealth becomes liable to pay to the Authority an amount equal to the Commonwealth‑guaranteed debts of the Authority on the sale day; and
+                     (a)  the Commonwealth becomes liable to pay to the Authority an amount equal to the Commonwealth-guaranteed debts of the Authority on the sale day; and
 
-                     (b)  the Authority becomes liable to pay to the Commonwealth an amount equal to the Commonwealth‑guaranteed debts of the Authority on that day.
+                     (b)  the Authority becomes liable to pay to the Commonwealth an amount equal to the Commonwealth-guaranteed debts of the Authority on that day.
 
-             (2)  The amount payable under paragraph (1)(a) is to be set‑off against the amount payable under paragraph (1)(b).
+             (2)  The amount payable under paragraph (1)(a) is to be set-off against the amount payable under paragraph (1)(b).
 
              (3)  The Consolidated Revenue Fund is appropriated for payments under paragraph (1)(a).
 
-##### <a id="22"></a>22  Commonwealth liable to pay an amount to the Authority equal to Authority’s debts to the Commonwealth and set‑off of debts
+##### <a id="22"></a>22  Commonwealth liable to pay an amount to the Authority equal to Authority’s debts to the Commonwealth and set-off of debts
 
              (1)  On the sale day the Commonwealth becomes liable to pay to the Authority an amount equal to the Authority’s debt to the Commonwealth on that day.
 
-             (2)  The amount payable under subsection (1) is to be set‑off against the Authority’s debt to the Commonwealth.
+             (2)  The amount payable under subsection (1) is to be set-off against the Authority’s debt to the Commonwealth.
 
              (3)  The Consolidated Revenue Fund is appropriated for payments under this section.
 
@@ -624,7 +622,7 @@ that are to be used, or are used, for the carriage of petroleum, in trade or com
 
                      (b)  dual destination interests ceasing to be assets of the Authority and Pacenco under section 14 and becoming assets of the Commonwealth and Newco under that section; or
 
-                     (c)  Commonwealth‑guaranteed debts ceasing to be obligations of the Authority under section 19 and becoming obligations of the Commonwealth under that section; or
+                     (c)  Commonwealth-guaranteed debts ceasing to be obligations of the Authority under section 19 and becoming obligations of the Commonwealth under that section; or
 
                      (d)  the operation of this Part in any other respect.
 
@@ -682,7 +680,7 @@ that are to be used, or are used, for the carriage of petroleum, in trade or com
 
                     <a name="asset-offici"></a>**_assets official_** means a person or authority who, under the law of the Commonwealth or of a State or Territory, has responsibility for keeping a register in relation to assets of the kind concerned.
 
-##### <a id="27"></a>27  Ending of certain rights that restrict the transfer of the Moomba‑Sydney pipeline system
+##### <a id="27"></a>27  Ending of certain rights that restrict the transfer of the Moomba-Sydney pipeline system
 
              (1)  All veto rights are terminated on the sale day by force of this section.
 
@@ -694,9 +692,9 @@ that are to be used, or are used, for the carriage of petroleum, in trade or com
 
                      (b)  was in operation immediately before the sale day.
 
-                    <a name="moomba-sydnei-pipelin"></a>**_Moomba‑Sydney pipeline_** means any pipeline transferred to Newco under section 12.
+                    <a name="moomba-sydnei-pipelin"></a>**_Moomba-Sydney pipeline_** means any pipeline transferred to Newco under section 12.
 
-                    <a name="contractor"></a><a name="veto-right"></a>**_veto rights_** means any rights that a person (**_the contractor_**) has under an Authority agreement that, apart from this section, would have the effect of preventing the transfer of the ownership or control of a Moomba‑Sydney pipeline from the Authority or any other person who owns or controls such a pipeline to another person without the consent of the contractor.
+                    <a name="contractor"></a><a name="veto-right"></a>**_veto rights_** means any rights that a person (**_the contractor_**) has under an Authority agreement that, apart from this section, would have the effect of preventing the transfer of the ownership or control of a Moomba-Sydney pipeline from the Authority or any other person who owns or controls such a pipeline to another person without the consent of the contractor.
 
 ##### <a id="28"></a>28  Authority, Pacenco and Commonwealth to take steps necessary to carry out transfers
 
@@ -804,7 +802,7 @@ Newco must make a second offer of employment with Newco under subsection 59(1) t
 
                      (b)  the period, beginning on the sale day, during which the employee continues to be an employee of a Newco body.
 
-                    <a name="employe"></a>**_employee_** includes a person employed in a full‑time or a part‑time capacity.
+                    <a name="employe"></a>**_employee_** includes a person employed in a full-time or a part-time capacity.
 
                     <a name="law"></a>**_law_** means:
 
@@ -812,7 +810,7 @@ Newco must make a second offer of employment with Newco under subsection 59(1) t
 
                      (b)  regulations or any other instrument (other than an award, determination or industrial agreement) made under such a law.
 
-                    <a name="post-sale-long-servic-leav-right"></a>**_post‑sale long service leave rights_**, in relation to an employee, means any long service leave rights an employee acquires, on or after the sale day, under an award, determination, industrial agreement or law (other than this Act).
+                    <a name="post-sale-long-servic-leav-right"></a>**_post-sale long service leave rights_**, in relation to an employee, means any long service leave rights an employee acquires, on or after the sale day, under an award, determination, industrial agreement or law (other than this Act).
 
 ##### <a id="34"></a>34  Long service leave for employees with less than 10 years service
 
@@ -838,7 +836,7 @@ Note:          Section 36 covers employees who die.
 
 the Newco body may grant the employee long service leave on full salary for a period up to the employee’s long service leave credit under subsection 37(1).
 
-             (5)  If a period of long service leave may be granted to an employee under subsection (3) or (4), the Newco body may, if the employee asks in writing, grant the employee long service leave on half salary for a period not exceeding twice the first‑mentioned period.
+             (5)  If a period of long service leave may be granted to an employee under subsection (3) or (4), the Newco body may, if the employee asks in writing, grant the employee long service leave on half salary for a period not exceeding twice the first-mentioned period.
 
              (6)  Long service leave granted in the circumstances set out in subsection (4) is to be taken so as to end immediately before the employee stops being an employee.
 
@@ -846,7 +844,7 @@ the Newco body may grant the employee long service leave on full salary for a pe
 
                      (a)  that section applied to the employee; and
 
-                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 34 of the _Moomba‑Sydney Pipeline System Sale Act 1994_”.
+                     (b)  for the expression “section 16 or 17” in that section there were substituted the expression “section 34 of the _Moomba-Sydney Pipeline System__Sale__Act 1994_”.
 
 ##### <a id="35"></a>35  Payments in lieu of long service leave for employees with less than 10 years service
 
@@ -876,7 +874,7 @@ the Newco body must pay him or her an amount equal to full salary in respect of 
 
                      (a)  the employee stops being an employee of a Newco body; and
 
-                     (b)  the Newco body is satisfied that the employee left the Newco body because of ill‑health that justified his or her so leaving; and
+                     (b)  the Newco body is satisfied that the employee left the Newco body because of ill-health that justified his or her so leaving; and
 
                      (c)  when the employee left, his or her combined service period was at least one year;
 
@@ -894,7 +892,7 @@ the Newco body must pay him or her an amount equal to full salary in respect of 
 
                      (a)  that section applied to the employee; and
 
-                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 35 of the _Moomba‑Sydney Pipeline System Sale Act 1994_”.
+                     (b)  for the expression “sections 16 and 17” in that section there were substituted the expression “section 35 of the _Moomba-Sydney Pipeline System__Sale__Act 1994_”.
 
 ##### <a id="36"></a>36  Payments on the death of an employee
 
@@ -918,9 +916,9 @@ the Newco body must make a payment to a dependant or to 2 or more dependants of 
 
                      (b)  a reference in that section to the approving authority were a reference to the Newco body; and
 
-                     (c)  for the expression “this Act” in that section there were substituted the expression section 36 of the _Moomba‑Sydney Pipeline System Sale Act 1994_”; and
+                     (c)  for the expression “this Act” in that section there were substituted the expression section 36 of the _Moomba-Sydney Pipeline System Sale Act 1994_”; and
 
-                     (d)  for the expression “subsection 16(7) or 17(5)” there were substituted the expression “section 36 of the _Moomba‑Sydney Pipeline System Sale Act 1994_”.
+                     (d)  for the expression “subsection 16(7) or 17(5)” there were substituted the expression “section 36 of the _Moomba-Sydney Pipeline System__Sale__Act 1994_”.
 
 ##### <a id="37"></a>37  Employee’s long service leave credit for the purposes of sections 34 and 35
 
@@ -934,9 +932,9 @@ if the employee had been retrenched on the sale day.
 
              (2)  For the purposes of section 35, an employee’s long service leave credit is the employee’s long service leave credit worked out under subsection (1) reduced by any long service leave credit used under section 34.
 
-##### <a id="38"></a>38  Division not to affect an employee’s post‑sale long service leave rights
+##### <a id="38"></a>38  Division not to affect an employee’s post-sale long service leave rights
 
-                   To avoid doubt, it is declared that this Division does not affect an employee’s post‑sale long service leave rights in relation to service on and after the sale day.
+                   To avoid doubt, it is declared that this Division does not affect an employee’s post-sale long service leave rights in relation to service on and after the sale day.
 
 ##### <a id="39"></a>39  Saving—Long Service Leave Act
 
@@ -1064,7 +1062,7 @@ then:
 
                      (d)  the transferring staff member or the staff member stops being an officer of the Australian Public Service.
 
-## Part 4—Other provisions relating to the sale of shares in Newco by the Commonwealth
+### Part 4—Other provisions relating to the sale of shares in Newco by the Commonwealth
 
 ##### <a id="50"></a>50  Transitional provision relating to the _Crimes (Superannuation Benefits) Act 1989_
 
@@ -1094,7 +1092,7 @@ then, in spite of paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Ac
 
 ##### <a id="51"></a>51  Commonwealth payment to Newco
 
-             (1)  The Finance Minister may, on the Commonwealth’s behalf, make payments to Newco in accordance with the asset purchase agreement.
+             (1)  The Minister for Finance may, on the Commonwealth’s behalf, make payments to Newco in accordance with the asset purchase agreement.
 
              (2)  The Consolidated Revenue Fund is appropriated for payments under subsection (1).
 
@@ -1146,7 +1144,7 @@ then, in spite of paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Ac
 
              (2)  Subsection (1) does not apply in relation to an amount of charge that was paid or payable before the sale day.
 
-## Part 5—Post‑sale day staff provisions
+## Part 5—Post-sale day staff provisions
 
 ##### <a id="56"></a>56  Transfer time
 
@@ -1156,7 +1154,7 @@ then, in spite of paragraph 19(4)(b) of the _Crimes (Superannuation Benefits) Ac
 
 ##### <a id="57"></a>57  Staff members who receive a Newco employment offer after sale day
 
-             (1)  This section applies to each staff member of the Authority who receives a post‑sale Newco employment offer. For this purpose, **_post‑sale Newco employment offer_** means an initial offer of employment with Newco beginning at the transfer time that is made by Newco after the sale day but before 15 October 1994.
+             (1)  This section applies to each staff member of the Authority who receives a post-sale Newco employment offer. For this purpose, **_post-sale Newco employment offer_** means an initial offer of employment with Newco beginning at the transfer time that is made by Newco after the sale day but before 15 October 1994.
 
              (2)  The staff member may consent to being employed by Newco by notice in writing given to the Chief Executive Officer of the Authority within 2 weeks after the staff member receives the offer of employment.
 
@@ -1238,11 +1236,11 @@ Newco must make a second offer of employment with Newco under subsection 59(1) t
 
 ##### <a id="61"></a>61  Part not to affect certain matters relating to transferring staff members
 
-             (1)  On and after a staff member’s transfer time, this section has effect for the purposes of applying a law or award to Newco’s employment of a post‑sale transferee.
+             (1)  On and after a staff member’s transfer time, this section has effect for the purposes of applying a law or award to Newco’s employment of a post-sale transferee.
 
-             (2)  The service of the post‑sale transferee as an employee of Newco is to be regarded for all purposes as having been continuous with his or her service, immediately before the sale day, as an officer or employee of the Authority.
+             (2)  The service of the post-sale transferee as an employee of Newco is to be regarded for all purposes as having been continuous with his or her service, immediately before the sale day, as an officer or employee of the Authority.
 
-             (3)  The post‑sale transferee is to be regarded, immediately after his or her transfer time, as having:
+             (3)  The post-sale transferee is to be regarded, immediately after his or her transfer time, as having:
 
                      (a)  accrued an entitlement to Long Service Leave Act benefits, recreation leave benefits and sickness leave benefits; and
 
@@ -1250,11 +1248,11 @@ Newco must make a second offer of employment with Newco under subsection 59(1) t
 
 that is equivalent to the entitlement that the person had as an officer or employee of the Authority, immediately before his or her transfer time.
 
-             (4)  The post‑sale transferee is not entitled to receive any payment or other benefit by reason only of having ceased to be an officer or employee of the Authority because of this Act.
+             (4)  The post-sale transferee is not entitled to receive any payment or other benefit by reason only of having ceased to be an officer or employee of the Authority because of this Act.
 
 ##### <a id="62"></a>62  Variation of terms and conditions of employment
 
-             (1)  Neither section 60 nor 61 prevents the terms and conditions of a post‑sale transferee’s employment after his or her transfer time from being varied:
+             (1)  Neither section 60 nor 61 prevents the terms and conditions of a post-sale transferee’s employment after his or her transfer time from being varied:
 
                      (a)  in accordance with those terms and conditions; or
 
@@ -1270,9 +1268,9 @@ that is equivalent to the entitlement that the person had as an officer or emplo
 
                      (c)  substituting new terms or conditions for any of those terms and conditions.
 
-##### <a id="63"></a>63  Post‑sale transferee not to be eligible for re‑appointment under the _Public Service Act 1922_
+##### <a id="63"></a>63  Post-sale transferee not to be eligible for re-appointment under the _Public Service Act 1922_
 
-                   Paragraph 87N(2)(c) of the _Public Service Act 1922_ does not apply to a post‑sale transferee.
+                   Paragraph 87N(2)(c) of the _Public Service Act 1922_ does not apply to a post-sale transferee.
 
 ##### <a id="64"></a>64  Certain staff members of the Authority taken to have resigned
 
@@ -1290,11 +1288,11 @@ Note:          A person does not come within paragraph 87N(2)(
 
 ##### <a id="65"></a>65  Application of other transitional and saving provisions
 
-             (1)  A specified provision applies to a post‑sale transferee as if:
+             (1)  A specified provision applies to a post-sale transferee as if:
 
                      (a)  for the expression “sale day” (wherever occurring) in the specified provision there were substituted the expression “staff member’s transfer time”; and
 
-                     (b)  for the expression “transferring staff member” (wherever occurring) in the specified provision there were substituted the expression “post‑sale transferee”; and
+                     (b)  for the expression “transferring staff member” (wherever occurring) in the specified provision there were substituted the expression “post-sale transferee”; and
 
                      (c)  for the expression “staff member” (wherever occurring) in the specified provision (other than where the specified provision is section 43, 44, 46, 47, 48 or 49) there were substituted the expression “transferee”; and
 
@@ -1324,9 +1322,9 @@ Note:          A person does not come within paragraph 87N(2)(
 
                      (d)  by omitting “petroleum” from the definition of **_valve station_** in subsection (1) and substituting “gas”;
 
-                     (e)  by omitting the definition of **_part‑time director_** from subsection (1) and substituting the following definition: 
+                     (e)  by omitting the definition of **_part-time director_** from subsection (1) and substituting the following definition: 
 
-                    <a name="part-time-director"></a>**_part‑time director_** means a director of the Authority appointed to be a part‑time director under subsection 6(2).
+                    <a name="part-time-director"></a>**_part-time director_** means a director of the Authority appointed to be a part-time director under subsection 6(2).
 
                       (f)  by omitting from subsection (1) the definitions of **_petroleum_** and **_petroleum pool_**;
 
@@ -1348,17 +1346,17 @@ Note:          A person does not come within paragraph 87N(2)(
 
 ##### <a id="150"></a>150  Leave of absence
 
-                   Section 8 of the Principal Act is amended by omitting from subsection (1) “a full‑time director” and substituting “the Chief Executive Officer”.
+                   Section 8 of the Principal Act is amended by omitting from subsection (1) “a full-time director” and substituting “the Chief Executive Officer”.
 
 ##### <a id="151"></a>151  Chief Executive Officer
 
                    Section 10 of the Principal Act is amended:
 
-                     (a)  by adding at the end of subsection (1) “on a full‑time or part‑time basis”;
+                     (a)  by adding at the end of subsection (1) “on a full-time or part-time basis”;
 
                      (b)  by omitting subsection (3).
 
-##### <a id="152"></a>152  Acting appointments—part‑time directors
+##### <a id="152"></a>152  Acting appointments—part-time directors
 
                    Section 11 of the Principal Act is amended by omitting subsection (2).
 
@@ -1366,7 +1364,7 @@ Note:          A person does not come within paragraph 87N(2)(
 
                    Section 12 of the Principal Act is amended by omitting subsection (3) and substituting the following subsection: 
 
-                   “(3)  At a meeting of the Authority, a majority of the directors constitute a quorum.”.
+                    “(3)  At a meeting of the Authority, a majority of the directors constitute a quorum.”.
 
 ##### <a id="154"></a>154  Repeal of section and substitution of new section
 
@@ -1496,7 +1494,7 @@ the Authority must pursue a policy of acting in accordance with sound commercial
 
            “(4)  In this section:
 
-                    <a name="sale-act"></a>**_Sale Act_** means the _Moomba‑Sydney Pipeline System Sale Act 1994_.
+                    <a name="sale-act"></a>**_Sale Act_** means the _Moomba-Sydney Pipeline System__Sale__Act 1994_.
 
                     <a name="sale-dai"></a>**_sale day_** has the same meaning as in the Sale Act.
 
@@ -1554,7 +1552,7 @@ of the Authority immediately before the repeal day.
 
            “(2)  In this section:
 
-                    <a name="repeal-dai"></a>**_repeal day_** has the same meaning as in Part 8 of the _Moomba‑Sydney Pipeline System Sale Act 1994_.”.
+                    <a name="repeal-dai"></a>**_repeal day_** has the same meaning as in Part 8 of the _Moomba-Sydney Pipeline System__Sale__Act 1994_.”.
 
 ##### <a id="165"></a>165  Repeal of Parts II, III, IV and VI
 
@@ -1798,7 +1796,7 @@ Multiple easements in same Gazette notice
 
 ##### <a id="174"></a>174  Regulations
 
-             (1)  The Governor‑General may make regulations prescribing all matters:
+             (1)  The Governor-General may make regulations prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -1818,7 +1816,7 @@ Multiple easements in same Gazette notice
 
 ### Note 1
 
-The _Moomba‑Sydney Pipeline System Sale Act 1994_ as shown in this compilation comprises Act No. 70, 1994 amended as indicated in the Tables below.
+The _Moomba-Sydney Pipeline System __Sale__ Act 1994_ as shown in this compilation comprises Act No. 70, 1994 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 30 July 1998 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -1856,7 +1854,7 @@ of Assent</div>
 </thead>
 <tr>
   <td>
-    <div>Moomba‑Sydney Pipeline System Sale Act 1994</div>
+    <div>Moomba-Sydney Pipeline System Sale Act 1994</div>
   </td>
   <td>
     <div>70, 1994</div>
@@ -2025,30 +2023,13 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2011</div>
-  </td>
-  <td>
-    <div>5, 2011</div>
-  </td>
-  <td>
-    <div>22 Mar 2011</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 125, 126): 19 Apr 2011</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Moomba‑Sydney Pipeline System Sale Act 1994_ was amended by Schedule 3 (in part) of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
+_(a)_     The _Moomba-Sydney Pipeline System__Sale__Act 1994_ was amended by Schedule 3 (in part) of the _Competition Policy Reform Act 1995_, subsection 2(2) of which provides as follows:
 
                  (2)   Part 3 commences on a day to be fixed by Proclamation. However, if Part 3 does not commence by Proclamation within the period of 6 months beginning on the day on which this Act receives the Royal Assent, then it commences on the first day after the end of that period.
 
-_(b)_     The _Moomba‑Sydney Pipeline System Sale Act 1994_ was amended by Schedule 19 (item 30) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
+_(b)_    The _Moomba-Sydney Pipeline System__Sale__Act 1994_ was amended by Schedule 19 (item 30) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -2056,11 +2037,11 @@ _(c)_     The _Workplace Relations and Other Legislation Amendment Act 1
 
                  (4)   The items of Schedule 3 are taken to have commenced immediately after the _Workplace Relations and Other Legislation Amendment Act 1996_ received the Royal Assent.
 
-_(d)_     The _Moomba‑Sydney Pipeline System Sale Act 1994_ was amended by Schedule 5 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1997_, subsection 2(1) of which provides as follows:
+_(d)_     The _Moomba-Sydney Pipeline System__Sale__Act 1994_ was amended by Schedule 5 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1997_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
-_(e)_ The _Moomba‑Sydney Pipeline System Sale Act 1994_ was amended by Schedule 1 (items 
+_(e)_ The _Moomba-Sydney Pipeline System__Sale__Act 1994_ was amended by Schedule 1 (items 
  2–4) only of the _Gas Pipelines Access (Commonwealth) Act 1998,_ subsection 2(2) of which provides as follows:
 
                  (2)   Items 2 to 4 of Schedule 1 commence at the commencement of the later of:
@@ -2069,7 +2050,7 @@ _(e)_ The _Moomba‑Sydney Pipeline System Sale Act 1994_ was amended by Schedul
 
                               (b)   the provisions that correspond to those sections and that are contained in a law of New South Wales that substantially corresponds to Parts 1, 2, 4 and 5 of the South Australian Act.
 
-         The _Gas Pipelines Access (South Australia) Act 1997_ of South Australia commenced on 30 July 1998 (_see SA Government Gazette_ 2 April 1998, p. 1606). The _Gas Pipelines Access (New South Wales)_ _Act 1998_ of New South Wales (except Schedule 1.1) commenced on 14 August 1998 (_see NSW Government Gazette_  No. 120, 14 August 1998, p. 6026). 
+         The _Gas Pipelines Access (__South Australia__) Act 1997_ of South Australia commenced on 30 July 1998 (_see SA Government Gazette_ 2 April 1998, p. 1606). The _Gas Pipelines Access (__New   South Wales__)_ _Act 1998_ of New South Wales (except Schedule 1.1) commenced on 14 August 1998 (_see NSW Government Gazette_  No. 120, 14 August 1998, p. 6026). 
 
 _(f)_      Subsection 2(1) (item 40) of the _Fair Work (State Referral and Consequential and Other Amendments) Act 2009_ provides as follows:
 
@@ -2147,7 +2128,7 @@ _(f)_      Subsection 2(1) (item 40) of the _Fair Work (State Referr
   </td>
   <td>
     <div>
-      Immediately after the commencement of Part 2‑4 of the
+      Immediately after the commencement of Part 2-4 of the
         <i>Fair Work Act 2009</i>.
     </div>
   </td>
@@ -2202,7 +2183,7 @@ _(f)_      Subsection 2(1) (item 40) of the _Fair Work (State Referr
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 60, 1996; No. 54, 2009; No. 5, 2011</div>
+    <div>am. No. 60, 1996; No. 54, 2009</div>
   </td>
 </tr>
 <tr>
@@ -2259,14 +2240,6 @@ _(f)_      Subsection 2(1) (item 40) of the _Fair Work (State Referr
   </td>
   <td>
     <div>am. No. 8, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 5, 2011</div>
   </td>
 </tr>
 <tr>
@@ -3394,15 +3367,15 @@ _Gas Pipelines Access (Commonwealth) Act 1998 (No. 101, 1998)_
 
             (1)        If:
 
-                    (a)    but for this item, the repeal of Part 6 of the _Moomba_‑_Sydney pipeline system sale Act 1994_ would result in the acquisition of property from a person; and
+                    (a)    but for this item, the repeal of Part 6 of the _Moomba_-_Sydney pipeline system__s__ale__Act 1994_ would result in the acquisition of property from a person; and
 
-                   (b)    the acquisition would be invalid because of paragraph 51(xxxi) of the Constitution;
+                    (b)    the acquisition would be invalid because of paragraph 51(xxxi) of the Constitution;
 
 there is payable to the person by the Commonwealth such reasonable amount of compensation as is agreed upon between the person and the Commonwealth or, failing agreement, as is determined by the Federal Court.
 
              (2)  Any damages or compensation recovered or other remedy given in proceedings which are instituted otherwise than under this item must be taken into account in assessing compensation payable in proceedings that are instituted under this item and that arise out of the same event or transaction.
 
-(3)       In this item:
+(3)        In this item:
 
                     <a name="acquisit-properti"></a>**_acquisition of property_** has the same meaning as in paragraph 51(xxxi) of the Constitution.
 
@@ -3412,7 +3385,7 @@ there is payable to the person by the Commonwealth such reasonable amount of com
 
                     (a)    a Moomba operator or another person has notified the ACCC of an access dispute under Part 6 of the MSP Act; and
 
-                   (b)    the notification of that dispute has not been withdrawn or taken to have been withdrawn, and the dispute has not been resolved either through arbitration or proceedings in the Federal Court of Australia;
+                    (b)    the notification of that dispute has not been withdrawn or taken to have been withdrawn, and the dispute has not been resolved either through arbitration or proceedings in the Federal Court of Australia;
 
 the provisions of Part 6 of that Act are taken to continue in force, in relation to that access dispute, until the notification of the dispute is withdrawn or taken to have been withdrawn, or until the dispute is resolved.
 
@@ -3424,7 +3397,7 @@ the provisions of Part 6 of that Act are taken to continue in force, in relation
 
                     (a)    permitting the review by the Australian Competition Tribunal of a determination continued in force under subitem (2) or (3); and
 
-                   (b)    facilitating the enforcement of a determination so continued in force; and
+                    (b)    facilitating the enforcement of a determination so continued in force; and
 
                     (c)    permitting appeals to the Federal Court of Australia from determinations so continued in force;
 
@@ -3438,7 +3411,7 @@ Part 6 of the MSP Act is taken to continue in force as if it had not been repeal
 
                     <a name="moomba-oper"></a>**_Moomba operator_** has the same meaning as in Part 6 of the MSP  Act _._
 
-                    <a name="msp-act"></a>**_MSP Act_** means the _Moomba‑Sydney Pipeline System Sale Act 1994_.
+                    <a name="msp-act"></a>**_MSP Act_** means the _Moomba-Sydney Pipeline System__Sale__Act 1994_.
 
 * * *
 
