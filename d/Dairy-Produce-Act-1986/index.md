@@ -1,9 +1,8 @@
 
 Dairy Produce Act 1986
 Act No. 54 of 1986 as amended
-This compilation was prepared on 16 October 2002  taking into account amendments up to Act No. 84 of 2002
+This compilation was prepared on 16 October 2001  taking into account amendments up to Act No. 115 of 2001
 The text of any of those amendments not in force on that date is appended in the Notes section
-The operation of amendments that have been incorporated may be  affected by application provisions that are set out in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
   
@@ -21,15 +20,15 @@ Division 1—Constitution, objective and functions of Corporation	7
 6	Objective	7
 7	Functions of the Corporation	7
 8	Directions to Corporation	8
-Division 2—Powers and duties of Corporation	11
-9	Powers of the Corporation	11
-10	Dealing in dairy produce	11
+Division 2—Powers and duties of Corporation	10
+9	Powers of the Corporation	10
+10	Dealing in dairy produce	10
 11	Subsidiary companies etc.	12
-12	Asia Dairy Industries	14
-13	Power of Corporation to lend money	16
+12	Asia Dairy Industries	13
+13	Power of Corporation to lend money	15
 14	Corporation may consult industry representatives	16
-15	Committees	17
-16	Report to Council	17
+15	Committees	16
+16	Report to Council	16
 Division 3—Corporate plans and annual operational plans	18
 17	Corporation to prepare corporate plans	18
 18	Agreement to corporate plans	19
@@ -160,7 +159,7 @@ Part 1—Introduction	107
 1	Simplified outline	107
 2	Definitions	108
 3	DSAP payment start day	111
-4	DSAP claim period	112
+4	DSAP claim period	111
 5	Entity	112
 6	Dairy farm enterprise	112
 7	Eligible interest in a dairy farm enterprise	113
@@ -188,13 +187,13 @@ Division 1—DSAP scheme	115
 27	Fees	134
 28	Statutory declarations	134
 29	Methods by which DSAP payments may be made	134
-30	Adjustment of eligibility for payment rights—transfer of milk delivery rights	134
+30	Adjustment of eligibility for payment rights—transfer of milk delivery rights	135
 31	Adjustment of eligibility for payment rights—abnormal market milk pool distributions	135
 32	Adjustment of eligibility for payment rights—death	136
 33	Ancillary or incidental provisions	136
 34	Scheme‑making power not limited	136
 35	Variation of scheme	136
-36	Scheme to be a disallowable instrument	136
+36	Scheme to be a disallowable instrument	137
 37	Application to things happening before commencement	137
 Division 1A—Supplementary Dairy Assistance (SDA) scheme	138
 37A	Simplified outline	138
@@ -209,21 +208,21 @@ Division 1A—Supplementary Dairy Assistance (SDA) scheme	138
 37J	Discretionary payment rights—entity suffered a fall in lease income etc.	143
 37K	Units in payment rights	145
 37L	Cancellation of units	145
-37M	Duration of scheme	145
+37M	Duration of scheme	146
 37N	Register of units etc.	146
 37P	Making of SDA payments	147
-37Q	Conferral of administrative powers etc.	147
+37Q	Conferral of administrative powers etc.	148
 37R	Review of decisions	148
 37S	Fees	148
 37T	Statutory declarations	148
 37U	Methods by which SDA payments may be made	148
-37V	Adjustment of eligibility for payment rights etc.—death	148
+37V	Adjustment of eligibility for payment rights etc.—death	149
 37W	Ancillary or incidental provisions	149
 37X	Scheme‑making power not limited	149
 37Y	Variation of scheme	149
 37Z	Scheme to be a disallowable instrument	149
-37ZA	Application to things happening before commencement	149
-37ZB	Use and disclosure of information obtained under the DSAP scheme	149
+37ZA	Application to things happening before commencement	150
+37ZB	Use and disclosure of information obtained under the DSAP scheme	150
 Division 2—Information‑gathering powers	151
 38	DAA may obtain information and documents	151
 39	Copying documents—reasonable compensation	152
@@ -323,23 +322,23 @@ Division 9—Access to premises	209
 117	Persons to assist authorised persons acting under a warrant	210
 118	Warrant to enter premises	210
 119	Identity cards	211
-Division 10—Evidentiary certificates	212
-120	Evidentiary certificates	212
-121	Evidentiary effect of certificate	212
-Division 11—Miscellaneous	214
-122	Designated small remitters	214
-123	Designated small levy‑payers	214
-124	Refund of overpayments	215
-125	Refund of levy	215
-126	Methods by which levy may be paid or remitted	215
-127	Authorised persons	215
-128	Publication of information about levy	216
-129	Delegation by Secretary	216
-130	Reconsideration and review of decisions	217
-131	Commonwealth not liable to levy	218
-Part 5—Offences	220
-133	False or misleading evidence	220
-Notes		221
+Division 10—Evidentiary certificates	213
+120	Evidentiary certificates	213
+121	Evidentiary effect of certificate	213
+Division 11—Miscellaneous	215
+122	Designated small remitters	215
+123	Designated small levy‑payers	215
+124	Refund of overpayments	216
+125	Refund of levy	216
+126	Methods by which levy may be paid or remitted	216
+127	Authorised persons	216
+128	Publication of information about levy	217
+129	Delegation by Secretary	217
+130	Reconsideration and review of decisions	218
+131	Commonwealth not liable to levy	219
+Part 5—Offences	221
+133	False or misleading evidence	221
+Notes		223
 
 An Act relating to the Australian Dairy Corporation, the marketing and export of dairy produce and the collection of certain levies imposed in connection with the dairy industry, and for other purposes
 Part I—Preliminary
@@ -394,7 +393,7 @@ old first Levy Act means the repealed Dairy Produce Levy (No. 1) Act 1986.
 old market support levy means market support levy imposed by the old first Levy Act, and includes amounts of penalty (if any) payable under the Levies and Charges Collection Act in relation to that levy.
 old promotion levy means promotion levy imposed by the old first Levy Act, and includes amounts of penalty (if any) payable under the Levies and Charges Collection Act in relation to that levy.
 old research levy means research levy imposed by the old first Levy Act, and includes amounts of penalty (if any) payable under the Levies and Charges Collection Act in relation to that levy.
-old second Levy Act means the repealed Dairy Produce Levy (No. 2) Act 1986.
+old second Levy Act means the repealed Dairy Produce Levy (No 2) Act 1986.
 Promotion Fund means the Dairy Produce Promotion Fund established by section 89.
 promotion levy means promotion levy imposed by Schedule 6 to the Primary Industries (Excise) Levies Act 1999, and includes amounts of penalty (if any) payable under the Levies and Charges Collection Act in relation to that levy.
 R&D Corporation has the same meaning as in the Primary Industries and Energy Research and Development Act 1989.
@@ -444,7 +443,7 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the Corpora
 6  Objective
 		The objective of the Corporation is to enhance the profitable production and marketing of Australian dairy produce.
 7  Functions of the Corporation
-	(1)	The functions of the Corporation are:
+		The functions of the Corporation are:
 	(a)	to improve the marketability of Australian dairy produce;
 	(b)	to promote the consumption of Australian dairy produce, both in Australia and in foreign countries;
 	(c) 	to assist in the marketing of Australian dairy produce for export and for trade and commerce among the States, between States and Territories and within the Territories;
@@ -454,23 +453,6 @@ Note:	The Commonwealth Authorities and Companies Act 1997 applies to the Corpora
 	(g)	to provide assistance by way of loans to manufacturers of dairy produce in Australia;
 	(h)	to deal in dairy produce; and
 	(j)	such other functions as are conferred on the Corporation by or under an Act.
-	(2)	The Corporation also has the function of planning, facilitating and participating in one or more of the following:
-	(a)	the reform, privatisation or abolition of the Corporation;
-	(b)	the reform, privatisation or abolition of the Dairy Research and Development Corporation;
-	(c)	the establishment of a new body or bodies to perform any of the following:
-	(i)	the Corporation’s other functions;
-	(ii)	the Dairy Research and Development Corporation’s functions;
-	(d)	the conferral of any of the functions mentioned in paragraph (c) on an existing body or bodies.
-	(3)	In subsection (2):
-Dairy Research and Development Corporation means the Dairy Research and Development Corporation established by section 8 of the Primary Industries and Energy Research and Development Act 1989.
-	(4)	The Corporation also has the function of providing funds to another person or body (including the Commonwealth) for expenses or liabilities incurred by that person or body, or by another person or body, in participating in processes of the kind mentioned in subsection (2).
-	(5)	The Minister may give the Corporation written directions about the performance of its functions under subsections (2) and (4). Section 8 does not apply to a direction given under this subsection.
-	(6)	The Corporation must comply with any such directions.
-	(7)	A direction given under subsection (5) may:
-	(a)	deal with specific matters; or
-	(b)	set out general policies and require the Corporation to perform the relevant functions consistently with those policies;
-or both.
-	(8)	The Minister may, by writing, delegate the power to give directions under subsection (5) to an Agency Head (within the meaning of the Public Service Act 1999).
 8  Directions to Corporation
 	(1)	Subject to this section, where the Minister is satisfied that, because of the existence of exceptional circumstances, it is necessary to give a direction to the Corporation in order to ensure that the performance of the functions, or the exercise of the powers, of the Corporation does not conflict with major government policies, the Minister may, by notice in writing, give the direction to the Corporation.
 	(2)	The Minister shall not give a direction under subsection (1) unless and until the Minister has given the Chairperson an adequate opportunity to discuss with the Minister the need for the proposed direction.
@@ -1091,7 +1073,7 @@ Division 2—Industry Fund
 	(ii)	in entering into a partnership, or in making a loan or a grant to a partnership; or
 	(iii)	relating to a body corporate in which the Corporation has an interest or a partnership of which the Corporation is a member, including, in the case of a body corporate, the payment of calls on shares in the capital of the body corporate;
 		where the formation of that body corporate, the acquisition of that interest, the making of that loan or the entry into that partnership is likely to be of direct benefit to the Australian dairy industry;
-	(ab)	in meeting the expenses of the Corporation in performing its functions under paragraphs 7(1)(a), (b) and (c);
+	(ab)	in meeting the expenses of the Corporation in performing its functions under paragraphs 7(a), (b) and (c);
 	(ac)	in payments to the Council to enable the Council to acquire real property;
 	(b)	in meeting expenses incurred in the provision of services to the Conference in connection with the operation of this Act;
 	(ba)	in meeting expenses incurred in connection with the 1994 International Dairy Federation World Congress;
@@ -1136,7 +1118,7 @@ Division 3—Promotion Fund
 91  Application of the Promotion Fund
 		Money standing to the credit of the Promotion Fund may be expended:
 	(a)	in meeting the expenses of the Corporation in promoting the consumption of Australian dairy produce; and
-	(aaa)	in meeting the expenses of the Corporation in performing its functions under paragraphs 7(1)(a), (b) and (c); and
+	(aaa)	in meeting the expenses of the Corporation in performing its functions under paragraphs 7(a), (b) and (c); and
 	(aa)	in payment to the Commonwealth of amounts equal to the expenses incurred by the Commonwealth in relation to:
 	(i)	the collection or recovery of amounts referred to in paragraph 90(1)(a), (b) or (c); or
 	(ii)	the administration of subsection 90(1); and
@@ -1178,7 +1160,7 @@ relevant year means the financial year that began on 1 July 1991 or any later fi
 	(2)	If:
 	(a)	a market support payment was paid or is payable to the manufacturer of dairy produce of a particular kind that was exported from Australia during a relevant year; and
 	(b)	at a time (the relevant time) during that year the manufacturer or a body corporate that was related to the manufacturer imported into Australia a number of units of dairy produce of the same kind as, or of a similar kind to, the first‑mentioned dairy produce;
-the market support payments that would otherwise be payable to the manufacturer under section 94 are, despite any other provision of this Division, reduced by an amount equal to the amount of the market support payment that would have been payable to the manufacturer if at the relevant time the manufacturer had exported from Australia in accordance with paragraph 94(1)(b) the same number of units of the first‑mentioned dairy produce.
+		the market support payments that would otherwise be payable to the manufacturer under section 94 are, despite any other provision of this Division, reduced by an amount equal to the amount of the market support payment that would have been payable to the manufacturer if at the relevant time the manufacturer had exported from Australia in accordance with paragraph 94(1)(b) the same number of units of the first‑mentioned dairy produce.
 	(3)	The Corporation is to determine whether the market support payments that would otherwise be payable to a manufacturer of dairy produce under section 94 are reduced under subsection (2) of this section and, if so, the amount of the reduction.
 	(4)	The Corporation must give written notice to the manufacturer of its determination.
 	(5)	For the purposes of this section:
@@ -1197,6 +1179,7 @@ B is the estimated average export price in force at the time when that dairy pro
 	(a)	if no determination under subsection (6) is in force in relation to dairy produce of that kind at that time—the percentage that under subsection (4A) is the percentage applicable in relation to prescribed dairy produce exported at that time; or
 	(b)	if a determination under subsection (6) is in force in relation to dairy produce of that kind at that time—the percentage that is specified in that determination to be the relevant percentage in relation to dairy produce of that kind.
 	(4A)	For the purposes of paragraph (4)(a), the percentage applicable in relation to prescribed dairy produce exported at any time during the financial year specified in Column 2 of an item in the following Table is the percentage specified in Column 3 of that item.
+
 Table
 Column 1 Item No.
 Column 2 Financial year
@@ -1544,7 +1527,7 @@ this Act does not include Schedule 2.
 	(1)	If:
 	(a)	it is necessary to determine the milk fat content of dairy produce for the purposes of a provision of:
 	(i)	this Act; or
-	(ii)	Schedule 6 to the Primary Industries (Excise) Levies Act 1999; or
+	(ii)	Schedule 6 to the Primary Industries (Excise) Levies Act 1999; or
 	(iii)	Schedule 4 to the Primary Industries (Customs) Charges Act 1999; or
 	(iv)	the old first Levy Act; or
 	(v)	the old second Levy Act; and
@@ -1553,7 +1536,7 @@ the dairy produce is to be taken to have the prescribed milk fat content for dai
 	(2)	If:
 	(a)	it is necessary to determine the protein content of dairy produce for the purposes of a provision of:
 	(i)	this Act; or
-	(ii)	Schedule 6 to the Primary Industries (Excise) Levies Act 1999; or
+	(ii)	Schedule 6 to the Primary Industries (Excise) Levies Act 1999; or
 	(iii)	Schedule 4 to the Primary Industries (Customs) Charges Act 1999; or
 	(iv)	the old first Levy Act; or
 	(v)	the old second Levy Act; and
@@ -1713,7 +1696,7 @@ and, in particular:
 	(f)	requiring producers, manufacturers or purchasers of dairy produce to keep records relating to the production of dairy produce by them and to the storage, sale, purchase, import or export of such dairy produce; and
 	(g)	requiring exporters of dairy produce to keep records relating to the export of dairy produce by them from Australia and to the storage, sale, production, import or export of such dairy produce.
 
-Schedule 1—Definitions related to sections 50A and 50B [see Note 2]
+Schedule 1—Definitions related to sections 50A and 50B
 Subsection 3(1A)
   
   
@@ -1759,7 +1742,7 @@ woman means a member of the female sex irrespective of age.
 	(2)	A reference in the definition of equal employment opportunity program to discrimination in relation to employment matters does not include a reference to discrimination that:
 	(a)	is essential for the effective performance of the duties to which the employment matters relate; and
 	(b)	is not unlawful under the Racial Discrimination Act 1975 or the Sex Discrimination Act 1984.
-Schedule 2—Dairy Industry Adjustment Program
+Schedule 2—Dairy industry adjustment program
 Note:	See section 125A.
 Part 1—Introduction
   
@@ -1793,7 +1776,6 @@ dairy cattle means cattle held for use for the production of milk, or for purpos
 	(d)	bulls used, or held for use, for the purpose of fertilising dairy cows or dairy heifers.
 dairy exit payment has the same meaning as in the Farm Household Support Act 1992.
 dairy farm enterprise has the meaning given by clause 6.
-dairy‑type grant has the same meaning as in the Farm Household Support Act 1992.
 deliver means:
 	(a)	in relation to market milk—supply as mentioned in whichever of the following is applicable:
 	(i)	paragraph 5(1)(a) of the repealed Dairy Produce Levy (No. 1) Act 1986; 
@@ -1827,7 +1809,7 @@ payment right means a payment right under the DSAP scheme or the SDA scheme.
 premium component, in relation to the overall enterprise amount of a dairy farm enterprise, means so much of the overall enterprise amount as is attributable to 37.27 cents per litre of market milk delivered by the enterprise in the 1998‑1999 financial year.
 Note 1:	See also clause 30 (which deals with the transfer of the whole or part of market milk delivery rights).
 Note 2:	See also clause 31 (which deals with abnormal market milk pool distributions).
-quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October of any year.
+quarter means a period of 3 months beginning on 1 January, 1 April, 1 July or 1 October of any year.
 SDA payment means a payment under the SDA scheme.
 SDA scheme means the scheme referred to in clause 37B.
 Secretary means the Secretary of the Department.
@@ -1940,12 +1922,12 @@ Calculation of face value
 	(iii)	the first‑mentioned entity is an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
 		the face value of the first‑mentioned entity’s standard payment right is the sum of:
 	(iv)	the premium component of the overall enterprise amount; and
-	(v)	that entity’s share of the non‑premium component of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
+	(v)	that entity’s share of the non‑premium component of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
 	(d)	if:
 	(i)	there are 2 entities who had an eligible interest in the dairy farm enterprise at 6.30 pm on 28 September 1999; and
 	(ii)	under the scheme, the enterprise is taken to be subject to an eligible dairy sharefarming arrangement and those entities are taken to be parties to that arrangement; and
 	(iii)	the first‑mentioned entity is not an entity who, under the scheme, is taken to have provided the essential capital contribution required to achieve access to the market milk premium;
-		the face value of the first‑mentioned entity’s standard payment right is that entity’s share of the non‑premium component of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
+		the face value of the first‑mentioned entity’s standard payment right is that entity’s share of the non‑premium component of the overall enterprise amount, worked out on a basis that corresponds to the basis on which milk revenues were shared between the entities as at 6.30 pm on 28 September 1999;
 	(e)	if:
 	(i)	there are 2 entities who had an eligible interest in the dairy farm enterprise at 6.30 pm on 28 September 1999; and
 	(ii)	under the scheme, the enterprise is taken to be subject to an eligible dairy leasing arrangement and those entities are taken to be parties to that arrangement; and
@@ -2078,7 +2060,7 @@ Note:	Section 136.1 of the Criminal Code deals with false or misleading stateme
 Note 1:	Clause 50 deals with cancellation of units because of the making of a false statement.
 Note 2:	Clause 51 deals with cancellation of units because of an error made by the DAA.
 Note 3:	Clause 52 deals with cancellation of units because of a breach of an undertaking to dispose of the units. 
-Note 4:	Clause 53 deals with cancellation of units when a dairy exit payment or dairy‑type grant becomes payable.
+Note 4:	Clause 53 deals with cancellation of units when a dairy exit payment becomes payable.
 20  Duration of scheme
 	(1)	This clause sets out policy objectives for the DSAP scheme.
 	(2)	The first objective is that a payment right relating to a particular dairy farm enterprise must not be granted to an entity unless the entity, or a person acting on behalf of the entity, makes a claim for the payment right:
@@ -2179,7 +2161,7 @@ Death of recipient of DSAP payment
 	(c)	applications may be made to the Administrative Appeals Tribunal for review of decisions of the DAA that have been confirmed or varied as mentioned in paragraph (b).
 	(2)	The period mentioned in paragraph (1)(a) must be 28 days after the day on which the decision first comes to the attention of the entity concerned.
 	(3)	The DSAP scheme must provide that the reasons for making a request mentioned in paragraph (1)(a) must be set out in the request.
-	(4)	If a request is made as mentioned in paragraph (1)(a) in respect of a decision, section 41 of the Administrative Appeals Tribunal Act 1975 applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.
+	(4)	If a request is made as mentioned in paragraph (1)(a) in respect of a decision, section 41 of the Administrative Appeals Tribunal Act 1975 applies as if the making of the request were the making of an application to the Administrative Appeals Tribunal for a review of that decision.
 	(5)	The DSAP scheme must provide that, if the DAA does not confirm, revoke or vary a decision before the end of the period of 60 days after the day on which the DAA received the request to reconsider the decision, the DAA is taken, at the end of that period, to have confirmed the decision.
 	(6)	The DSAP scheme must provide that, if the DAA confirms, revokes or varies the decision before the end of the period referred to in subclause (5), the DAA must, by notice given to the applicant, inform the applicant of the result of the reconsideration of the decision and the reasons for confirming, revoking or varying the decision, as the case may be.
 	(7)	If, because of the operation of a provision covered by subclause (5), a decision is taken to be confirmed, section 29 of the Administrative Appeals Tribunal Act 1975 applies as if the prescribed time for making application for review of the decision were the period:
@@ -2358,7 +2340,7 @@ Interpretation
 Note 1:	Clause 50 deals with cancellation of units because of the making of a false statement.
 Note 2:	Clause 51 deals with cancellation of units because of an error made by the DAA.
 Note 3:	Clause 52 deals with cancellation of units because of a breach of an undertaking to dispose of the units.
-Note 4:	Clause 53 deals with cancellation of units when a dairy exit payment or dairy‑type grant becomes payable.
+Note 4:	Clause 53 deals with cancellation of units when a dairy exit payment becomes payable.
 37M  Duration of scheme
 		It is a policy objective that SDA payments are not to be made in respect of a quarter that is later than the quarter ending on 30 June 2008.
 37N  Register of units etc.
@@ -2440,7 +2422,7 @@ Division 2—Information‑gathering powers
 	(d)	if the person is an individual—to appear before the DAA at a time and place specified in the notice to give any such evidence, either orally or in writing, and produce any such documents; or
 	(e)	if the person is a body corporate—to cause a competent officer of the body to appear before the DAA at a time and place specified in the notice to give any such evidence, either orally or in writing, and produce any such documents.
 	(3)	A period specified under paragraph (2)(a), (b) or (c) must not be shorter than 14 days after the notice is given.
-	(4)	A time specified under paragraph (2)(d) or (e) must be at least 14 days after the notice is given.
+	(4)	A time specified under paragraph (2)(d) or (e) must be at least 14 days after the notice is given.
 	(5)	A person is guilty of an offence if:
 	(a)	the person has been given a notice under subclause (2); and
 	(b)	the person engages in conduct; and
@@ -2490,9 +2472,8 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal
 	(ii)	the information relates to that enterprise;
 	(e)	the recording or disclosure is in connection with the administration of:
 	(i)	the DEP scheme; or
-	(ii)	a provision of the Farm Household Support Act 1992 in so far as that provision relates to the DEP scheme;
-	(f)	the recording or disclosure is in connection with the administration of dairy‑type grants.
-Note:	A defendant bears an evidential burden in relation to a matter in paragraph (3)(a), (b), (e) or (f)—see subsection 13.3(3) of the Criminal Code.
+	(ii)	a provision of the Farm Household Support Act 1992 in so far as that provision relates to the DEP scheme.
+Note:	A defendant bears an evidential burden in relation to a matter in paragraph (3)(a), (b) or (e)—see subsection 13.3(3) of the Criminal Code.
 	(4) 	Despite subsection 13.3(3) of the Criminal Code, the defendant does not bear an evidential burden in relation to a matter in paragraph (3)(c) or (d) of this clause.
 	(5) 	Unless it is necessary for the purposes of this Part, the DSAP scheme or the SDA scheme, the entrusted person is not to be required:
 	(a)	to produce any protected document to a court; or
@@ -2619,12 +2600,10 @@ When cancellation takes effect
 53  Cancellation of units when a dairy exit payment becomes payable
 	(1)	If:
 	(a)	an entity has been granted a payment right in relation to a dairy farm enterprise; and
-	(b)	either:
-	(i)	a decision is made under the DEP scheme that the entity is qualified for a dairy exit payment in relation to the enterprise; or
-	(ii)	a decision is made under the farm help re‑establishment grant scheme (within the meaning of the Farm Household Support Act 1992) that the entity is qualified for a dairy‑type grant; and
+	(b)	a decision is made under the DEP scheme that the entity is qualified for a dairy exit payment in relation to the enterprise; and
 	(c)	immediately before the decision is made, the entity is the registered owner of one or more unencumbered units in the payment right;
 the DSAP scheme or the SDA scheme (as the case may be) must authorise the DAA to cancel those units.
-	(2)	The cancellation of a unit as authorised under this clause takes effect from the time when the decision mentioned in the relevant subparagraph of paragraph (1)(b) is made.
+	(2)	The cancellation of a unit as authorised under this clause takes effect from the time when the decision is made under the DEP scheme.
 	(3)	A reference in this clause to an unencumbered unit is a reference to a unit in respect of which no charge is registered.
 54  Limit on cancellation or variation
 		A payment right or a unit must not be cancelled or varied otherwise than as authorised under this Part.
@@ -2747,7 +2726,7 @@ Application
 	(1)	An ordinary DAA member is to be paid such remuneration as is determined by the Remuneration Tribunal.
 	(2)	If no determination of that remuneration is in operation, a DAA member is to be paid such remuneration as is prescribed.
 	(3)	An ordinary DAA member is to be paid such allowances as are prescribed.
-	(4)	This clause has effect subject to the Remuneration Tribunal Act 1973.
+	(4)	This clause has effect subject to the Remuneration Tribunal Act 1973.
 66  Leave of absence
 	(1)	The Minister or the DAA Chair may grant leave to an ordinary DAA member to be absent from a meeting or meetings of the DAA.
 	(2)	This clause does not apply after the second DAA phase‑down time.
@@ -2828,7 +2807,6 @@ Part 3—Dairy Structural Adjustment Fund
 	(d)	money paid to the Corporation by way of the recovery of a scheme debt (within the meaning of clause 44);
 	(e)	money paid to the Corporation under clause 48 (which deals with the collection of money from a person who owes money to an entity that has a scheme debt);
 	(f)	money paid to the Corporation under subsection 56(3) of the Farm Household Support Act 1992 (which deals with the recovery of overpaid dairy exit payments);
-	(fa)	money paid to the Corporation under subsection 56(2A) of the Farm Household Support Act 1992 (which deals with the recovery of overpaid dairy‑type grants);
 	(g)	money received by the Corporation as interest from the investment of money standing to the credit of the Dairy Structural Adjustment Fund;
 	(h)	money borrowed by the Corporation under section 75 for the purpose of making payments for which money of the Dairy Structural Adjustment Fund may be expended;
 	(i)	money paid to the Corporation for the purposes of the Dairy Structural Adjustment Fund.
@@ -2837,7 +2815,6 @@ Part 3—Dairy Structural Adjustment Fund
 	(a)	in making DSAP payments; and
 	(aa)	in making SDA payments; and
 	(b)	in making dairy exit payments; and
-	(ba)	in making dairy‑type grants; and
 	(c)	in reimbursing or meeting the expenses of the Commonwealth or the Corporation incurred (whether before or after the commencement of this clause) in relation to the development and implementation of the measures that from time to time form part of the Dairy Industry Adjustment Package; and
 	(d)	in reimbursing an expense incurred by the Council (whether before or after the commencement of this clause) in relation to consultation connected with the development and implementation of the measures known as the Dairy Industry Adjustment Package, where the Minister consents to the reimbursement; and
 	(e)	in meeting the expenses of the Commonwealth incurred in relation to:
@@ -2852,7 +2829,6 @@ Part 3—Dairy Structural Adjustment Fund
 	(j)	in meeting the expenses incurred by the Commonwealth in relation to:
 	(i)	the administration of the DEP scheme; or
 	(ii)	the administration of the provisions of the Farm Household Support Act 1992 in so far as those provisions relate to the DEP scheme; and
-	(ja)	in meeting the expenses incurred by the Commonwealth in relation to the administration of dairy‑type grants; and
 	(k)	in paying $500,000 to the Commonwealth in respect of compliance by the Australian Competition and Consumer Commission with a direction that:
 	(i)	is given under section 27A of the Prices Surveillance Act 1983 before 8 July 2000; and
 	(ii)	deals with the monitoring of prices, costs and profits in relation to the sale of leviable milk products (within the meaning of Part 4); and
@@ -2866,7 +2842,7 @@ Part 3—Dairy Structural Adjustment Fund
 Note:	For the Dairy Regional Assistance Programme, see clause 86.
 80  Solvency of the Dairy Structural Adjustment Fund
 		The Corporation and the Minister must take all reasonable steps to ensure that there is sufficient money in the Dairy Structural Adjustment Fund to:
-	(a)	make DSAP payments, SDA payments, dairy exit payments and dairy‑type grants as they fall due; and
+	(a)	make DSAP payments, SDA payments and dairy exit payments as those payments fall due; and
 	(b)	meet any other calls on that Fund as those calls fall due.
 81  Borrowing for the purposes of the Dairy Structural Adjustment Fund
 	(1)	To avoid doubt, the Corporation may borrow money under section 75 for the purpose of making payments for which money of the Dairy Structural Adjustment Fund may be expended.
@@ -2981,12 +2957,11 @@ Division 2—Liability for levy
 	(a)	making DSAP payments;
 	(aa)	making SDA payments;
 	(b)	making dairy exit payments;
-	(ba)	making dairy‑type grants;
 	(c)	repaying money borrowed by the Corporation for the purpose of making payments for which money in the Dairy Structural Adjustment Fund may be expanded;
 	(d)	meeting the expenses of the Corporation incurred in borrowing money for the purposes of making payments for which money in the Dairy Structural Adjustment Fund may be expanded.
 	(3)	Levy is not payable under paragraph 89(1)(a), (b) or (c) on the sale of a leviable milk product if the sale occurs after the levy termination day.
 	(4)	Levy is not payable under paragraph 89(1)(d) on the relevant application to a person’s own use of a leviable milk product if the relevant application occurs after the levy termination day.
-95  Termination of levy if DSAP payment start day does not occur within 6 months after the Dairy Industry Adjustment Act 2000 receives Royal Assent
+95  Termination of levy if DSAP payment start day does not occur within 6 months after the Dairy Industry Adjustment Act 2000 receives Royal Assent
 	(1)	This clause applies if the DSAP payment start day is not fixed by a Proclamation published in the Gazette within the period of 6 months beginning on the day on which the Dairy Industry Adjustment Act 2000 receives the Royal Assent.
 	(2)	Levy is not payable under paragraph 89(1)(a), (b) or (c) on the sale of a leviable milk product if the sale occurs after the end of that period.
 	(3)	Levy is not payable under paragraph 89(1)(d) on the relevant application to a person’s own use of a leviable milk product if the relevant application occurs after the end of that period.
@@ -3136,7 +3111,7 @@ the collection agent or collection sub‑agent must, within 28 days after the en
 Penalty for contravention of this subclause:	50 penalty units.
 Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 102  Collection agents and collection sub‑agents to issue receipts for levy
-	(1)	If a collection agent receives an amount of levy from another person under paragraph 97(2)(b) or subclause 98(4) or 99(7), the agent must give the other person a receipt for the levy within 14 days after receiving the levy.
+	(1)	If a collection agent receives an amount of levy from another person under paragraph 97(2)(b) or subclause 98(4) or 99(7), the agent must give the other person a receipt for the levy within 14 days after receiving the levy.
 	(2)	If a collection sub‑agent receives an amount of levy from another person under paragraph 98(2)(b) or 99(3)(b) or subclause 99(5) or (6), the sub‑agent must give the other person a receipt for the levy within 14 days after receiving the levy.
 	(3)	The regulations may make provision for exemptions from subclause (1) or (2).
 	(4)	A receipt given under this clause must contain such information as is specified in the regulations.
@@ -3172,7 +3147,7 @@ but does not include a verbal acknowledgment.
 	(9)	The Commonwealth must not, in exercising its powers under this clause:
 	(a)	discriminate between States or parts of States within the meaning of subparagraph 51(ii) of the Constitution; or
 	(b)	give preference to one State or any part thereof within the meaning of section 99 of the Constitution.
-104  Application of the Financial Management and Accountability Act 1997
+104  Application of the Financial Management and Accountability Act 1997
 	(1)	The Financial Management and Accountability Act 1997 does not apply in relation to levy collected by a collection agent, a collection sub‑agent or a collecting organisation.
 	(2)	The operation of the Financial Management and Accountability Act 1997 in relation to money remitted by a collection agent or a collecting organisation to the Commonwealth is not affected by subclause (1).
 
@@ -3232,7 +3207,7 @@ Late remission by collection agent or collection sub‑agent
 	(a)	during the month in which the levy was required to be remitted, the amount of penalty accrues at the rate of 2% per month on the unremitted levy;
 	(b)	during the next and each subsequent month, the amount of penalty consists of the sum of:
 	(i)	each amount that accrued during a previous month; and
-	(ii)	the amount accruing during that month at the rate of 2% per month on the sum of the levy then unremitted and penalty payable at the end of the previous month.
+	(ii)	the amount accruing during that month at the rate of 2% per month on the sum of the levy then unremitted and penalty payable at the end of the previous month.
 	(3)	The Secretary may extinguish a person’s liability for the whole or a part of an amount of penalty payable under this clause.
 
 Division 7—Recovery of levy debts
@@ -3308,7 +3283,7 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal
 	(b)	collection agents;
 	(c)	collection sub‑agents;
 	(d)	such other persons as are prescribed.
-	(2)	The regulations may prescribe penalties, not exceeding a fine of 50 penalty units, for offences against regulations made for the purposes of subclause (1).
+	(2)	The regulations may prescribe penalties, not exceeding a fine of 50 penalty units, for offences against regulations made for the purposes of subclause (1).
 	(3)	If a person is convicted of an offence against regulations made for the purposes of this clause:
 	(a)	the court may direct the person to give the return or information that he or she is required to give; and
 	(b)	on being so directed, the person must give the return or information to an authorised person within the time specified in the direction.
@@ -3328,7 +3303,7 @@ is not admissible in evidence against the individual in criminal proceedings oth
 	(d)	proceedings for an offence against regulations made for the purposes of clause 113; or
 	(e)	proceedings for an offence against section 137.1 or 137.2 of the Criminal Code that relates to this Division.
 	(3)	In this clause:
-this Division includes regulations made for the purposes of clause 113.
+this Division includes regulations made for the purposes of clause 113.
 
 Division 9—Access to premises
 115  Powers of authorised person in relation to premises
@@ -3481,7 +3456,7 @@ by written notice given to the Secretary, request the Secretary to reconsider th
 	(5)	An application may be made to the Administrative Appeals Tribunal for review of a decision of the Secretary under subclause (3).
 	(6)	A person who makes a relevant decision must give to a person affected by the decision a written statement to the effect that a person affected by the decision:
 	(a)	may, if the person is dissatisfied with the decision, seek a reconsideration of the decision in accordance with this clause; and
-	(b)	may, subject to the Administrative Appeals Tribunal Act 1975, if the person is dissatisfied with a decision made on that reconsideration, make application to the Administrative Appeals Tribunal for review of that decision.
+	(b)	may, subject to the Administrative Appeals Tribunal Act 1975, if the person is dissatisfied with a decision made on that reconsideration, make application to the Administrative Appeals Tribunal for review of that decision.
 	(7)	If the Secretary makes a decision under subclause (3) and gives to a person affected by the decision notice in writing of the making of the decision, that notice must include a statement to the effect that, subject to the Administrative Appeals Tribunal Act 1975, application may be made to the Administrative Appeals Tribunal for review of the decision to which the notice relates by or on behalf of a person affected by the decision.
 	(8)	A failure to comply with subclause (6) or (7) in relation to a decision does not affect the validity of the decision.
 	(9)	In this clause:
@@ -3510,8 +3485,8 @@ Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal
 
 Notes to the Dairy Produce Act 1986
 Note 1
-The Dairy Produce Act 1986 as shown in this compilation comprises Act No. 54, 1986 amended as indicated in the Tables below. 
-The Dairy Produce Act 1986 was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations (Statutory Rules 1989 No. 3 as amended).
+The Dairy Produce Act 1986 as shown in this compilation comprises Act No. 54, 1986 amended as indicated in the Tables below. 
+The Dairy Produce Act 1986 was modified by the A.C.T. Self‑Government (Consequential Provisions) Regulations 1989 No. 3 (as amended).
 For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
 All relevant information pertaining to application, saving or transitional provisions prior to 3 April 2000 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
@@ -3523,7 +3498,7 @@ Application, saving or transitional provisions
 Dairy Produce Act 1986
 54, 1986
 24 June 1986
-Ss. 1–4, 28–32, 41‑46 and 92–108: Royal Assent Ss. 10(3)–(8) and 53(3): 1 Oct 1986 Remainder: 1 July 1986
+Ss. 1‑4, 28‑32, 41‑46 and 92‑108: Royal Assent Ss. 10(3)‑(8) and 53(3): 1 Oct 1986 Remainder: 1 July 1986
 
 Statute Law (Miscellaneous Provisions) Act (No. 2) 1986
 168, 1986
@@ -3558,7 +3533,7 @@ S. 53: Royal Assent (e)
 Banking Legislation Amendment Act 1989
 129, 1989
 7 Nov 1989
-Ss. 1–3, 26,  29–33, 35, 38 and 40: Royal Assent S. 23(1): 4 May 1989 S. 39: 23 Jan 1988 Remainder: 28 Dec 1989 (see Gazette 1989, No. S383)
+Ss. 1‑3, 26, 29‑33, 35, 38 and 40: Royal Assent S. 23(1): 4 May 1989 S. 39: 23 Jan 1988 Remainder: 28 Dec 1989 (see Gazette 1989, No. S383)
 —
 Exotic Animal Disease Control Act 1989
 130, 1989
@@ -3573,7 +3548,7 @@ S. 3: Royal Assent: (f)
 Primary Industries and Energy Research and Development Act 1989
 17, 1990
 17 Jan 1990
-Ss. 9, 26(2), 31(2), 36(2), 39(2), Part 3 (ss. 92–121) and s. 156: 1 July 1990 Remainder: Royal Assent
+Ss. 9, 26(2), 31(2), 36(2), 39(2), Part 3 (ss. 92‑121) and s. 156: 1 July 1990 Remainder: Royal Assent
 —
 Primary Industries Levies and Charges Collection (Consequential Provisions) Act 1991
 26, 1991
@@ -3598,7 +3573,7 @@ Dairy Produce Amendment Act 1993
 Primary Industries and Energy Legislation Amendment Act 1993
 94, 1993
 16 Dec 1993
-Parts 11 and 12 (ss. 47–65): 1 Jan 1994 S. 69(1)(b): 1 July 1989 Remainder: Royal Assent
+Parts 11 and 12 (ss. 47‑65): 1 Jan 1994 S. 69(1)(b): 1 July 1989 Remainder: Royal Assent
 —
 Dairy Produce (World Trade Organization Amendments) Act 1994
 153, 1994
@@ -3623,7 +3598,7 @@ Schedule 4 (item 57): Royal Assent (h)
 Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
-Schedule 2 (items 662–695): 1 Jan 1998 (see Gazette 1997, No. GN49) (i)
+Schedule 2 (items 662‑695): 1 Jan 1998 (see Gazette 1997, No. GN49) (i)
 —
 Primary Industries and Energy Legislation Amendment Act (No. 1) 1998
 102, 1998
@@ -3648,7 +3623,7 @@ Schedule 1 (items 359, 360): 5 Dec 1999 (see Gazette 1999, No. S584) (k)
 Corporate Law Economic Reform Program Act 1999
 156, 1999
 24 Nov 1999
-Schedule 10 (items 71–75): 13 Mar 2000 (see Gazette 2000, No. S114) (l)
+Schedule 10 (items 71‑75): 13 Mar 2000 (see Gazette 2000, No. S114) (l)
 —
 Dairy Industry Adjustment Act 2000
 22, 2000
@@ -3658,12 +3633,12 @@ Sch. 1 (item 18) [see Table A]
 Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000
 137, 2000
 24 Nov 2000
-Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent Remainder: 24 May 2001
+Ss. 1‑3 and Schedule 1 (items 1, 4, 6, 7, 9‑11, 32): Royal Assent Remainder: 24 May 2001
 Sch. 2 (items 418, 419) [see Table A]
 Corporations (Repeals, Consequentials and Transitionals) Act 2001
 55, 2001
 28 June 2001
-Ss. 4–14 and Schedule 3 (item 166): 15 July 2001 (see Gazette 2001, No. S285) (m)
+Ss. 4‑14 and Schedule 3 (item 166): 15 July 2001 (see Gazette 2001, No. S285) (m)
 Ss. 4‑14
 Dairy Produce Legislation Amendment (Supplementary Assistance) Act 2001
 94, 2001
@@ -3675,11 +3650,6 @@ Agriculture, Fisheries and Forestry Legislation Amendment (Application of Crimin
 18 Sept 2001
 16 Oct 2001
 S. 4 [see Table A]
-Dairy Industry Legislation Amendment Act 2002
-84, 2002
-10 Oct 2002
-10 Oct 2002
-—
 (a)	The Dairy Produce Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act (No. 2) 1986, subsection 2(4) of which provides as follows:
 	(4)	The amendment of paragraph 36(3)(d) of the Dairy Produce Act 1986 made by this Act shall be deemed to have come into operation on 1 July 1986.
 (b)	The Dairy Produce Act 1986 was amended by section 3 only of the Statute Law (Miscellaneous Provisions) Act 1987, subsection 2(1) of which provides as follows:
@@ -3693,17 +3663,17 @@ Dairy Industry Legislation Amendment Act 2002
 (f)	The Dairy Produce Act 1986 was amended by section 3 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1989, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 (g)	Section 2 of the Dairy Produce Amendment Act 1996 provides as follows:
-	2	This Act is taken to have commenced on 1 July 1995, immediately after the commencement of the Dairy Produce Amendment Act 1995.
+	2.	This Act is taken to have commenced on 1 July 1995, immediately after the commencement of the Dairy Produce Amendment Act 1995.
 (h)	The Dairy Produce Act 1986 was amended by Schedule 4 (item 57) only of the Statute Law Revision Act 1996, subsection 2(1) of which provides as follows:
 	(1)	Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
-(i)	The Dairy Produce Act 1986 was amended by Schedule 2 (items 662–695) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997 subsection 2(2) of which provides as follows:
+(i)	The Dairy Produce Act 1986 was amended by Schedule 2 (items 662‑695) only of the Audit (Transitional and Miscellaneous) Amendment Act 1997 subsection 2(2) of which provides as follows:
 	(2)	Schedules 1, 2 and 4 commence on the same day as the Financial Management and Accountability Act 1997.
 (j)	The Dairy Produce Act 1986 was amended by Schedule 11 only of the Primary Industries Levies and Charges (Consequential Amendments) Act 1999, subsection 2(1) of which provides as follows:
 	(1)	Subject to this section, this Act commences on the commencement of section 1 of the Primary Industries (Excise) Levies Act 1999.
 (k)	The Dairy Produce Act 1986 was amended by Schedule 1 (items 359 and 360) only of the Public Employment (Consequential and Transitional) Amendment Act 1999, subsections 2(1) and (2) of which provide as follows:
 	(1)	In this Act, commencing time means the time when the Public Service Act 1999 commences.
 	(2)	Subject to this section, this Act commences at the commencing time.
-(l)	The Dairy Produce Act 1986 was amended by Schedule 10 (items 71–75) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2)(c) of which provides as follows:
+(l)	The Dairy Produce Act 1986 was amended by Schedule 10 (items 71‑75) only of the Corporate Law Economic Reform Program Act 1999, subsection 2(2)(c) of which provides as follows:
 	(2)	The following provisions commence on a day or days to be fixed by Proclamation:
 	(c)	the items in Schedules 10, 11 and 12. 
 (m)	The Dairy Produce Act 1986 was amended by Schedule 3 (item 166) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
@@ -3717,14 +3687,10 @@ Title
 am. No. 22, 2000
 S. 3	
 am. No. 141, 1987; Nos. 129 and 130, 1989; No. 17, 1990; Nos. 26 and 39, 1991; No. 16, 1993; No. 153, 1994; No. 45, 1995; No. 152, 1997; No. 32, 1999; No. 22, 2000
-Note to s. 3	
-ad. No. 157, 1997
 S. 4A	
 ad. No. 115, 2001
 Note to s.5(2)	
 ad. No. 152, 1997
-S. 7	
-am. No. 84, 2002
 S. 10	
 am. No. 39, 1991
 S. 12	
@@ -3775,7 +3741,7 @@ S. 59
 am. No. 162, 1987
 Heading to Part VI	
 rs. No. 26, 1991
-Div. 1 of Part VI 	 (ss. 61–65)
+Div. 1 of Part VI 	 (ss. 61‑65)
 rep. No. 26, 1991
 S. 61	
 rep. No. 26, 1991
@@ -3826,13 +3792,13 @@ rs. No. 152, 1997
 Ss. 86, 87	
 am. No. 152, 1997
 S. 88	
-am. No. 141, 1987; No. 17, 1990; No. 39, 1991; No. 67, 1992; No. 94, 1993; No. 45, 1995; No. 152, 1997; No. 32, 1999; No. 84, 2002
+am. No. 141, 1987; No. 17, 1990; No. 39, 1991; No. 67,1992; No. 94, 1993; No. 45, 1995; No. 152, 1997; No. 32, 1999
 S. 89	
 am. No. 152, 1997
 S. 90	
 am. No. 51, 1988; No. 26, 1991; No. 152, 1997; No. 32, 1999
 S. 91	
-am. No. 51, 1988; No. 67, 1992; No. 45, 1995; No. 152, 1997; No. 32, 1999; No. 84, 2002
+am. No. 51, 1988; No. 67, 1992; No. 45, 1995; No. 152, 1997; No. 32, 1999
 S. 92	
 am. No. 152, 1997
 Note to s. 92	
@@ -3857,9 +3823,9 @@ S. 102
 am. No. 39, 1991; No. 67, 1992; No. 153, 1994
 
 rs. No. 45, 1995
-Div. 5 of Part VII 	 (ss. 103–108)
+Div. 5 of Part VII 	 (ss. 103‑108)
 rep. No. 67, 1992
-Div. 5 of Part VII 	 (ss. 103–108, 108A–108G)
+Div. 5 of Part VII 	 (ss. 103‑108, 108A‑108G)
 ad. No. 45, 1995 
 S. 103	
 rep. No. 67, 1992
@@ -3899,9 +3865,9 @@ rep. No. 67, 1992
 ad. No. 45, 1995
 
 am. No. 3, 1996; No. 152, 1997
-Ss. 108A–108C	
+Ss. 108A‑108C	
 ad. No. 45, 1995
-Ss. 108D–108E	
+Ss. 108D‑108E	
 ad. No. 45, 1995
 
 am. No. 32, 1999
@@ -3909,11 +3875,11 @@ Ss. 108EA, 108EB
 ad. No. 4, 1999
 S. 108F	
 ad. No. 45, 1995
-S. 108G	
+S. 108G
 ad. No. 45, 1995
 
 am. No. 152, 1997
-Ss. 109A–109B	
+Ss. 109A‑109B	
 ad. No. 45, 1995
 
 am. No. 32, 1999
@@ -3977,14 +3943,10 @@ Schedule 2
 ad. No. 22, 2000
 Part 1
 
-C. 1	
+Cc. 1, 2	
 ad. No. 22, 2000
 
 am. No. 94, 2001
-C. 2	
-ad. No. 22, 2000
-
-am. No. 94, 2001; No. 84, 2002
 Cc. 3-8	
 ad. No. 22, 2000
 Part 2
@@ -3993,7 +3955,7 @@ Heading to Part 2
 rs. No. 94, 2001
 Division 1
 
-Cc. 9–15	
+Cc. 9-15	
 ad. No. 22, 2000
 C. 16	
 ad. No. 22, 2000
@@ -4007,25 +3969,17 @@ ad. No. 22, 2000
 am. No. 115, 2001
 Note to c. 17(5)	
 am. No. 115, 2001
-Cs. 18, 19	
-ad. No. 22, 2000
-Note 4 to c. 19	
-am. No. 84, 2002
-Cc. 20–37	
+Cc. 18-37	
 ad. No. 22, 2000
 Division 1A
 
-Div. 1A of Part 2	 (cc. 37A–37D, 37DA,  37E–37Z, 37ZA, 37ZB)
+Div. 1A of Part 2	 (cc. 37A‑37D, 37DA, 37E‑37Z, 37ZA, 37ZB)
 ad. No. 94, 2001
-Cc. 37A–37D	
+Cc. 37A‑37D	
 ad. No. 94, 2001
 C. 37DA	
 ad. No. 94, 2001
-Cc. 37E–37L	
-ad. No. 94, 2001
-Note 4 to c. 37L	
-am. No. 84, 2002
-Cc. 37M–37Z	
+Cc. 37E‑37Z	
 ad. No. 94, 2001
 Cc. 37ZA, 37ZB	
 ad. No. 94, 2001
@@ -4048,9 +4002,7 @@ Division 3
 C. 43	
 ad. No. 22, 2000
 
-am. No. 94, 2001; No. 84, 2002
-Note to c. 43(3)	
-am. No. 84, 2002
+am. No. 94, 2001
 Division 4
 
 C. 44	
@@ -4077,14 +4029,10 @@ ad. No. 22, 2000
 am. No. 94, 2001
 Subhead to c. 52(1)	
 ad. No. 94, 2001
-C. 52	
+Cc. 52, 53	
 ad. No. 22, 2000
 
 am. No. 94, 2001
-C. 53	
-ad. No. 22, 2000
-
-am. No. 94, 2001; No. 84, 2002
 C. 54	
 ad. No. 22, 2000
 Division 6
@@ -4095,7 +4043,7 @@ C. 56
 ad. No. 22, 2000
 
 am. No. 94, 2001
-Cc. 57–74	
+Cc. 57-74	
 ad. No. 22, 2000
 Division 7
 
@@ -4112,8 +4060,8 @@ ad. No. 22, 2000
 Cc. 78‑80	
 ad. No. 22, 2000
 
-am. No. 94, 2001; No. 84, 2002
-Cc. 81–83	
+am. No. 94, 2001
+Cc. 81-83	
 ad. No. 22, 2000
 Heading to c. 84	
 am. No. 94, 2001
@@ -4142,7 +4090,7 @@ ad. No. 22, 2000
 C. 94	
 ad. No. 22, 2000
 
-am. No. 94, 2001; No. 84, 2002
+am. No. 94, 2001
 C. 95	
 ad. No. 22, 2000
 Division 3
@@ -4151,7 +4099,7 @@ C. 96
 ad. No. 22, 2000
 Division 4
 
-Cc. 97–104	
+Cc. 97-104	
 ad. No. 22, 2000
 Division 5
 
@@ -4163,7 +4111,7 @@ C. 107
 ad. No. 22, 2000
 Division 7
 
-Cc. 108–111	
+Cc. 108-111	
 ad. No. 22, 2000
 Division 8
 
@@ -4189,7 +4137,7 @@ Cc. 120, 121
 ad. No. 22, 2000
 Division 11
 
-Cc. 122–131	
+Cc. 122-131	
 ad. No.22, 2000
 Part 5
 
@@ -4209,13 +4157,6 @@ ad. No. 22, 2000
 am. No. 94, 2001
 
 rep. No. 115, 2001
-Note 2
-Schedule 1 (item 119(2B))—Schedule 1 (item 4) of the Dairy Industry Legislation Amendment Act 2002 (No. 84, 2002) provides as follows:
-Schedule 1
-4  At the end of subclause 119(2B) of Schedule 1
-Add:
-	; or (e)	dairy‑type grants (within the meaning of the Farm Household Support Act 1992).
-The proposed amendment was misdescribed and is not incorporated in this compilation.
 Table A
 Application, saving or transitional provisions
 Dairy Industry Adjustment Act 2000 (No. 22, 2000)
