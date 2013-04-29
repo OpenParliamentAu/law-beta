@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00807/Html/0e559799-2bee-426a-bde0-10712e716bdb_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00311/Html/39efaf8d-5c75-4dcc-a694-4c0dfcd5046b_files/image001.gif)
 
 # Food Standards Australia New Zealand Act 1991
 
 **Act No. 118 of 1991 as amended**
 
-This compilation was prepared on 12 November 2012
- taking into account amendments up to Act No. 136 of 2012
+This compilation was prepared on 20 March 2012
+ taking into account amendments up to Act No. 46 of 2011
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -491,8 +492,6 @@ Prepared by the Office of Parliamentary Counsel, Canberra
 
                     <a name="exclus-captur-commerci-benefit"></a>**_exclusive capturable commercial benefit_** has the meaning given by section 8.
 
-                    <a name="financ-minist"></a>**_Finance Minister_** means the Minister administering the _Financial Management and Accountability Act 1997._
-
                     <a name="food"></a>**_food_** has the meaning given by section 5.
 
                     <a name="food-regul-agreem"></a>**_Food Regulation Agreement_** means the Food Regulation Agreement, as amended from time to time:
@@ -719,7 +718,7 @@ Note:          The _Commonwealth Authorities and Companies Act
 
                     (ia)  to provide information, on request by a member of the public, about the Australia New Zealand Food Standards Code; and
 
-                      (j)  in co‑operation with the Department administered by the Minister administering Part 3‑3 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth, to co‑ordinate the recall of food under that Part; and
+                      (j)  in co‑operation with the Department administering Part 3‑3 of Schedule 2 to the _Competition and Consumer Act 2010_, as that Part applies as a law of the Commonwealth, to co‑ordinate the recall of food under that Part; and
 
                      (k)  at the request of the States and Territories, to co‑ordinate action by the States and Territories to recall food under State and Territory laws; and
 
@@ -801,7 +800,7 @@ to be laid before each House of the Parliament within 15 sitting days of that Ho
 
 ### Division 2—Food regulatory measures
 
-##### <a id="16"></a>16  Matters that may be included in standards and variations of standards
+##### <a id="16"></a>16  Matters that may be included in standards and variations of standards
 
              (1)  Standards, and variations of standards, developed by the Authority may relate to any of the following:
 
@@ -1153,7 +1152,7 @@ Fee to expedite consideration paid after early payment period
 
              (5)  If an applicant pays a charge, or the first instalment of a charge, mentioned in paragraph 27(d) after the end of the early payment period, the Authority must, within 5 business days after that payment, again give public notice of the matters mentioned in subsection (2), including an update on when the Authority now proposes to undertake the key steps in the procedure.
 
-##### <a id="29"></a>29  Assessing the application
+##### <a id="29"></a>29  Assessing the application
 
              (1)  If the Authority accepts an application, the Authority must assess the application.
 
@@ -1835,7 +1834,7 @@ Note 2:       The draft does not take effect except in accordance wi
 
                       (i)  a Regulation Impact Statement.
 
-##### <a id="64"></a>64  Notifying the Council
+##### <a id="64"></a>64  Notifying the Council
 
              (1)  If the Authority approves a draft standard or a draft variation of a standard, the Authority must, within 10 business days after the approval:
 
@@ -2191,7 +2190,7 @@ When variation takes effect
 
              (8)  A variation made under subsection (1) takes effect on the day a copy of the variation is published as mentioned in subsection (7), despite subsections 12(1) and (2) of the _Legislative Instruments Act 2003_.
 
-##### <a id="83"></a>83  No limit on the Authority’s power to vary the Maximum Residue Limits Standard
+##### <a id="83"></a>83  No limit on the Authority’s power to vary the Maximum Residue Limits Standard
 
                    This Division does not limit the Authority’s power to vary the Maximum Residue Limits Standard.
 
@@ -2739,7 +2738,7 @@ the Authority must not suspend its consideration of the application unless the a
 
            (11)  The period during which the consideration of the application is suspended is not to be included in the consideration period.
 
-##### <a id="110"></a>110  Rejecting an application or abandoning a proposal
+##### <a id="110"></a>110  Rejecting an application or abandoning a proposal
 
 Notice of rejection
 
@@ -3403,7 +3402,7 @@ for:
 
              (1)  There is payable to the Authority such money as is from time to time appropriated by the Parliament for the purposes of the Authority.
 
-             (2)  The Finance Minister may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Authority.
+             (2)  The Minister for Finance may give directions as to the amounts in which, and the times at which, money referred to in subsection (1) is to be paid to the Authority.
 
 ##### <a id="139"></a>139  Money of Authority
 
@@ -3758,10 +3757,10 @@ The _Food Standards Australia New Zealand Act 1991_ was modified by the _Nationa
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="22%">
-  <col width="16%">
+  <col width="14%">
 </colgroup>
 
 <thead>
@@ -3874,7 +3873,7 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 48, 49) 
-S. 2(4) (am. by 81, 2001, Sch. 2) 
+S. 2(4) (am. by 81, 2001, Sch. 2) 
 
 </div>
   </td>
@@ -4123,8 +4122,8 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Schedule 5 (items 49–51, 53, 54): Royal Assent 
-Schedule 5 (item 52): <i>(h)</i> 
-Schedule 5 (item 137(a)): <i>(h)</i></div>
+Schedule 5 (item 52): <i>(h)</i> 
+Schedule 5 (item 137(a)): <i>(h)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -4141,7 +4140,7 @@ Schedule 5 (item 137(a)): <i>(h)</i></div>
     <div>13 July 2010</div>
   </td>
   <td>
-    <div>Schedule 6 (items 162, 163): 1 Jan 2011</div>
+    <div>Schedule 6 (items 162, 163): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
@@ -4178,24 +4177,7 @@ Schedule 5 (item 137(a)): <i>(h)</i></div>
     <div>Schedule 2 (items 628–633) and Schedule 3 (items 10, 11): 27 Dec 2011</div>
   </td>
   <td>
-    <div>Sch. 3 (items 10, 11)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2012</div>
-  </td>
-  <td>
-    <div>136, 2012</div>
-  </td>
-  <td>
-    <div>22 Sept 2012</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 1–3): 20 Oct 2012</div>
-  </td>
-  <td>
-    <div>—</div>
+    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr></table>
 
@@ -4712,7 +4694,7 @@ The amendment history of the _Food Standards Australia New Zealand Act 1991_ app
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 152, 1995; No. 201, 1997; No. 200, 1999; No. 170, 2000; No. 81, 2001; No. 50, 2006; No. 98, 2007; No. 136, 2012</div>
+    <div>am. No. 152, 1995; No. 201, 1997; No. 200, 1999; No. 170, 2000; No. 81, 2001; No. 50, 2006; No. 98, 2007</div>
   </td>
 </tr>
 <tr>
@@ -4816,7 +4798,7 @@ The amendment history of the _Food Standards Australia New Zealand Act 1991_ app
     <div>S. 13</div>
   </td>
   <td>
-    <div>am. No. 152, 1995; No. 201, 1997; No. 200, 1999; No. 81, 2001; No. 98, 2007; No. 103, 2010; No. 136, 2012</div>
+    <div>am. No. 152, 1995; No. 201, 1997; No. 200, 1999; No. 81, 2001; No. 98, 2007; No. 103, 2010</div>
   </td>
 </tr>
 <tr>
@@ -6462,14 +6444,6 @@ No. 81, 2001</div>
 </tr>
 <tr>
   <td>
-    <div>S. 138</div>
-  </td>
-  <td>
-    <div>am. No. 136, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 139</div>
   </td>
   <td>
@@ -7720,7 +7694,7 @@ The amendment made by item 35 applies to the members of the Authority (includi
 
 _Australia New Zealand Food Authority Amendment Act 1999 (No. 200, 1999)_
 
-## Schedule 1
+## Schedule 1  
 
 ## 67  Saving—regulations under paragraph 9(f)
 
@@ -8114,7 +8088,7 @@ _Food Standards Australia New Zealand Amendment Act 2007 (No. 98, 2007)_
 
 ## Schedule 1
 
-## 77  Application
+## 77  Application
 
 The amendments made by Parts 1 and 4 of this Schedule apply in relation to:
 
