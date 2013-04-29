@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00163/Html/EnvProtSeaDumping81_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00193/Html/EnvProtSeaDumping81_image001.gif)
 
 # Environment Protection (Sea Dumping) Act 1981
 
 **Act No. 101 of 1981 as amended**
 
-This compilation was prepared on 5 March 2010
- taking into account amendments up to Act No. 8 of 2010
+This compilation was prepared on 26 May 2009
+ taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -258,7 +258,7 @@ Note:          Section 4A can affect the scope of the defini
 
                     <a name="protocol"></a>**_Protocol_** means the 1996 Protocol to the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972, done at London on 7 July 1996, as amended and in force for Australia from time to time.
 
-Note:          The English text of the Protocol is set out in Australian Treaty Series 2006 No. 11\. In 2006, the text of a Protocol in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII website (www.austlii.edu.au).
+Note:          The English text of the Protocol is set out in Australian Treaty Series 2006 No. 11\. In 2006, the text of a Protocol in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
 
                     <a name="radioact-materi"></a>**_radioactive material_** means material that has an activity of more than 35 becquerels per gram.
 
@@ -276,7 +276,7 @@ Note:          Subsection 41(3) places limitations on the maki
 
 Note:          The text of the Treaty is set out in Australian Treaty Series 1985 No. 4.
 
-             (2)  A reference in this Act to an offence shall be read as including a reference to an offence against section 6 of the _Crimes Act 1914_, or against section 11.1 or 11.4 of the _Criminal Code_, in relation to this Act.
+             (2)  A reference in this Act to an offence shall be read as including a reference to an offence created by section 6, 7 or 7A of the _Crimes Act 1914_ in relation to this Act.
 
              (3)  A reference in this Act to a member of the Australian Federal Police or to a member of a police force shall be read as including a reference to a special member of the Australian Federal Police.
 
@@ -1425,43 +1425,9 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Crimes Legislation Amendment (Serious and Organised Crime) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>4, 2010</div>
-  </td>
-  <td>
-    <div>19 Feb 2010</div>
-  </td>
-  <td>
-    <div>Schedule 11 (item 8): 20 Feb 2010</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2010</div>
-  </td>
-  <td>
-    <div>8, 2010</div>
-  </td>
-  <td>
-    <div>1 Mar 2010</div>
-  </td>
-  <td>
-    <div>Schedule 5 (item 48): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
-_(a)_     The _Arts, Territories and Environment Legislation Amendment Act 1989_ was amended by Schedule 3 (item 3) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
+_(a)_    The _Arts, Territories and Environment Legislation Amendment Act 1989_ was amended by Schedule 3 (item 3) only of the _Statute Law Revision Act 1996_, subsection 2(3) of which provides as follows:
 
                  (3)   Each item in Schedule 3 is taken to have commenced when the Act containing the provision amended by the item received the Royal Assent.
 
@@ -1521,7 +1487,7 @@ _(d)_     The _Environment Protection (Sea Dumping) Act 1981_ was amende
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 141, 1986; No. 16, 1994; No. 118, 1997; No. 107, 2000; No. 165, 2006; No. 33, 2009; Nos. 4 and 8, 2010</div>
+    <div>am. No. 141, 1986; No. 16, 1994; No. 118, 1997; No. 107, 2000; No. 165, 2006; No. 33, 2009</div>
   </td>
 </tr>
 <tr>
