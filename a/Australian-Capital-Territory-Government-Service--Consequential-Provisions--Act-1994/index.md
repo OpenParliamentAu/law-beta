@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00730/Html/9f95b9e3-a3f4-4f4e-9bf0-70df908e77ca_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00075/Html/AusCapTerrGovSerConsProvAct1994_WD02_image001.gif)
 
 # Australian Capital Territory Government Service (Consequential Provisions) Act 1994
 
 **Act No. 92 of 1994 as amended**
 
-This compilation was prepared on 8 September 2011
- taking into account amendments up to Act No. 46 of 2011
+This compilation was prepared on 1 January 2011
+ taking into account amendments up to Act No. 139 of 2010
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -38,7 +38,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [10](#10).          Arrangements relating to staffing
 
-**Part 4—Provisions affecting the A.C T  Self‑Government (Consequential Provisions) Act 1988**
+**Part 4—Provisions affecting the A.C T  Self-Government (Consequential Provisions) Act 1988**
 
 [12](#12).          Principal Act
 
@@ -72,19 +72,19 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [27](#27).          Regulations
 
-**Schedule 1—New items for Schedule 5 to the A.C T  Self‑Government (Consequential Provisions) Act 1988** 
+**Schedule 1—New items for Schedule 5 to the A.C T  Self-Government (Consequential Provisions) Act 1988** 
 
 Part 1                                                                                                                                    12
 
 Part 2                                                                                                                                    13
 
-Part 3                                                                                                                                   14
+Part 3                                                                                                                                    14
 
-Part 4                                                                                                                                   15
+Part 4                                                                                                                                    15
 
 Occupational Health and Safety (Commonwealth Employment) Act 1991   15
 
-Part 5                                                                                                                                   16
+Part 5                                                                                                                                    16
 
 Remuneration Tribunal Act 1973                                                                           16
 
@@ -92,7 +92,7 @@ Safety, Rehabilitation and Compensation Act 1988          �
 
 **Schedule 2—Further amendments** 
 
-Australian Capital Territory (Self‑Government) Act 1988                                21
+Australian Capital Territory (Self-Government) Act 1988                               21
 
 Privacy Act 1988                                                                                                       21
 
@@ -110,7 +110,7 @@ Superannuation Act 1976                   
 
 ##### <a id="1"></a>1  Short title [_see_ Note 1]
 
-                   This Act may be cited as the _Australian Capital Territory__Government Service (Consequential Provisions) Act 1994_.
+                   This Act may be cited as the _Australian   Capital Territory__Government Service (Consequential Provisions) Act 1994_.
 
 ##### <a id="2"></a>2  Commencement [_see_ Note 1]
 
@@ -122,9 +122,9 @@ Superannuation Act 1976                   
 
              (1)  In this Act, unless the contrary intention appears:
 
-                    <a name="act-branch"></a>**_ACT Branch_** means the branch of the Australian Public Service referred to in subsection 21(2) of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.
+                    <a name="act-branch"></a>**_ACT Branch_** means the branch of the Australian Public Service referred to in subsection 21(2) of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.
 
-                    <a name="act-offic"></a>**_ACT officer_** means a person who is an officer within the meaning of the _Public Sector Management Act 1994_ of the Australian Capital Territory.
+                    <a name="act-offic"></a>**_ACT officer_** means a person who is an officer within the meaning of the _Public Sector Management Act 1994_ of the Australian   Capital Territory.
 
                     <a name="public-servic-act"></a>**_Public Service Act_** means the _Public Service Act 1922_.
 
@@ -220,15 +220,15 @@ the person ceases, on the transfer day, to be a person to whom Division 3 of P
 
                      (b)  for the services of officers or employees of the Australian Capital Territory Government Service to be made available to the Agency Head.
 
-## Part 4—Provisions affecting the A.C.T. Self‑Government (Consequential Provisions) Act 1988
+## Part 4—Provisions affecting the A.C.T. Self-Government (Consequential Provisions) Act 1988
 
 ##### <a id="12"></a>12  Principal Act
 
-                   In this Part, **_Principal Act_** means the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.
+                   In this Part, **_Principal Act_** means the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.
 
 ##### <a id="13"></a>13  Staff from Australian Public Service
 
-                   Section 21 of the Principal Act is amended by omitting subsection (5).
+                   Section 21 of the Principal Act is amended by omitting subsection (5).
 
 ##### <a id="14"></a>14  Repeal of Schedule 1
 
@@ -270,13 +270,13 @@ cease to have effect on the transfer day.
 
                             Insert the following paragraph:
 
-                         “(aa)  a person who holds an office defined by section 73 of the _Australian Capital Territory (Self‑Government) Act 1988_ or an office established by or under an enactment as defined by section 3 of that Act;”.
+                          “(aa)  a person who holds an office defined by section 73 of the _Australian Capital Territory (Self-Government) Act 1988_ or an office established by or under an enactment as defined by section 3 of that Act;”.
 
 ##### <a id="18"></a>18  Amendments of Schedule 5: _Merit Protection (Australian Government Employees) Act_
 
                    Schedule 5 to the Principal Act is amended:
 
-                     (a)  by omitting the item that inserts definitions of **_ACT enactment_**, **_Self‑Government Act_** and **_Territory authority_** in subsection 3(1) of the _Merit Protection (Australian Government Employees) Act 1984_ and substituting the item set out in Part 3 of Schedule 1;
+                     (a)  by omitting the item that inserts definitions of **_ACT enactment_**, **_Self-Government Act_** and **_Territory authority_** in subsection 3(1) of the _Merit Protection (Australian Government Employees) Act 1984_ and substituting the item set out in Part 3 of Schedule 1;
 
                      (b)  by omitting the item that inserts section 6A in the _Merit Protection (Australian Government Employees) Act 1984_.
 
@@ -310,7 +310,7 @@ cease to have effect on the transfer day.
 
              (2)  On and after the day fixed for the purposes of subsection (1), section 8 of the _Acts Interpretation Act 1901_ has effect as if subsection (1) and Schedule 3 had been repealed on that day by an Act.
 
-             (3)  In this section, **_ACT enactment_** has the same meaning as **_enactment_** has in the _Australian   Capital Territory__(Self‑Government) Act 1988_.
+             (3)  In this section, **_ACT enactment_** has the same meaning as **_enactment_** has in the _Australian   Capital Territory__(Self-Government) Act 1988_.
 
 ##### <a id="25"></a>25  Leave entitlements
 
@@ -360,7 +360,7 @@ the amount does not become due on the person’s resignation from the Australian
 
 ##### <a id="27"></a>27  Regulations
 
-             (1)  The Governor‑General may make regulations providing for modifications of an Act in its application in relation to:
+             (1)  The Governor-General may make regulations providing for modifications of an Act in its application in relation to:
 
                      (a)  any matter arising from, connected with, or consequential on the establishment of the Australian Capital Territory Government Service; or
 
@@ -368,7 +368,7 @@ the amount does not become due on the person’s resignation from the Australian
 
              (2)  Regulations may not be made under subsection (1) after the end of a period of 2 years beginning on the transfer day.
 
-             (3)  The Governor‑General may make regulations providing for modifications of this Act or any other Act in its application in relation to any matter arising from or connected with, or consequential on, an ACT officer becoming an employee by or under a law of the Territory of a body corporate controlled by the Territory before, on or after the commencement of this subsection.
+             (3)  The Governor-General may make regulations providing for modifications of this Act or any other Act in its application in relation to any matter arising from or connected with, or consequential on, an ACT officer becoming an employee by or under a law of the Territory of a body corporate controlled by the Territory before, on or after the commencement of this subsection.
 
              (4)  Regulations may not be made under subsection (3) after 30 June 1998.
 
@@ -376,7 +376,7 @@ the amount does not become due on the person’s resignation from the Australian
 
                     <a name="territori"></a>**_Territory_** means the Australian Capital   Territory.
 
-###### Schedule 1—New items for Schedule 5 to the A.C.T. Self‑Government (Consequential Provisions) Act 1988
+###### Schedule 1—New items for Schedule 5 to the A.C.T. Self-Government (Consequential Provisions) Act 1988
 
 _Sections 16, 18, 19 and 20_
 
@@ -388,7 +388,7 @@ After paragraph (b) insert the following paragraphs:
 
                   “(ba)  under a law of the Australian Capital Territory relating to employment by that Territory, including a law relating to the Australian Capital Territory Government Service; 
 
-                   (bb)  by or in the service of:
+                    (bb)  by or in the service of:
 
                               (i)  an enactment authority as defined by section 3 of the A.C.T. Consequential Provisions Act; or
 
@@ -400,9 +400,9 @@ After paragraph (b) insert the following paragraphs:
 
 Insert the following definitions:
 
-                    <a name="consequenti-provision-act"></a>**_A.C.T. Consequential Provisions Act_**means the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.
+                    <a name="consequenti-provision-act"></a>**_A.C.T. Consequential Provisions Act_**means the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.
 
-                    <a name="australian-capit-territori-govern-servic"></a>**_Australian Capital Territory Government Service_** means the service established by the _Public Sector Management Act 1994_ of the Australian Capital Territory.
+                    <a name="australian-capit-territori-govern-servic"></a>**_Australian Capital Territory Government Service_** means the service established by the _Public Sector Management Act 1994_ of the Australian   Capital Territory.
 
 <h7 class="ActHead7">Part 2</h7>
 
@@ -414,7 +414,7 @@ Omit “_Commonwealth Employees’ Rehabilitation and Compensation Act 1988_”,
 
 Insert the following subsection:
 
-        “(1A)  For the purposes of subsection (1), the Australian Capital Territory Government Service is taken to be the successor to the business of the Australian Capital Territory in relation to the transitional staff within the meaning of the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_.”.
+         “(1A)  For the purposes of subsection (1), the Australian Capital Territory Government Service is taken to be the successor to the business of the Australian Capital Territory in relation to the transitional staff within the meaning of the _A.C.T. Self-Government (Consequential Provisions) Act 1988_.”.
 
 <h7 class="ActHead7">Part 3</h7>
 
@@ -452,15 +452,15 @@ Insert the following definition:
 
                     <a name="act-offic"></a>“**_ACT office_** means:
 
-                     (a)  an office or appointment specified in any of paragraphs (fc) to (fh) of subsection 3(4), as modified by regulations in force under the _A.C.T. Self‑Government (Consequential Provisions) Act 1988_; or
+                     (a)  an office or appointment specified in any of paragraphs (fc) to (fh) of subsection 3(4), as modified by regulations in force under the _A.C.T. Self-Government (Consequential Provisions) Act 1988_; or
 
-                     (b)  an office or appointment specified in subsection 73(1) of the _Australian Capital Territory__(Self‑Government) Act 1988_,”.
+                     (b)  an office or appointment specified in subsection 73(1) of the _Australian Capital Territory__(Self-Government) Act 1988_,”.
 
 ## Subsection 3(3):
 
 Omit the subsection, substitute:
 
-           “(3)  A reference in this Part to an office includes a reference to an office that, within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_, is an office of member of the Assembly or Minister and any office in or in connection with that Assembly that can be held only by a member of that Assembly.”.
+           “(3)  A reference in this Part to an office includes a reference to an office that, within the meaning of the _Australian   Capital Territory__(Self-Government) Act 1988_, is an office of member of the Assembly or Minister and any office in or in connection with that Assembly that can be held only by a member of that Assembly.”.
 
 ## Subsection 7(6):
 
@@ -478,7 +478,7 @@ After “determination” (first occurring), insert “, other than a determinat
 
 Insert:
 
-        “(8A)  If the Legislative Assembly of the Australian Capital Territory, within 30 sitting days of the Assembly after a copy of a determination that relates to an ACT office is given to the Chief Minister, passes a resolution disapproving of the determination, then:
+         “(8A)  If the Legislative Assembly of the Australian Capital Territory, within 30 sitting days of the Assembly after a copy of a determination that relates to an ACT office is given to the Chief Minister, passes a resolution disapproving of the determination, then:
 
                      (a)  if the determination has not come into operation—the determination does not come into operation; or
 
@@ -504,15 +504,15 @@ Add at the end the following word and paragraph:
 
 Insert the following definitions:
 
-                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the ACT Self‑Government Act.
+                    <a name="act-enact"></a>**_ACT enactment_** means an enactment as defined by section 3 of the ACT Self-Government Act.
 
-                    <a name="act-self-govern-act"></a>**_ACT Self‑Government Act_**means the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                    <a name="act-self-govern-act"></a>**_ACT Self-Government Act_**means the _Australian   Capital Territory__(Self-Government) Act 1988_.
 
 ## Section 4:
 
 Add at the end the following subsection:
 
-         “(14)  In spite of the definition of principal officer in subsection (1), if the Australian Capital Territory is a Commonwealth authority for the purposes of this Act, the following rules have effect:
+          “(14)  In spite of the definition of principal officer in subsection (1), if the Australian Capital Territory is a Commonwealth authority for the purposes of this Act, the following rules have effect:
 
                      (a)  if there is in force a written declaration by the Minister, made at the written request of the Chief Minister for the Territory, that a specified person is to be taken to be the principal officer of the Territory, this Act has effect accordingly;
 
@@ -554,13 +554,13 @@ After “other than” insert “an ACT enactment or a law of”.
 
 Add at the end the following subsections:
 
-         “(11)  For the purposes of this Act, the following are taken to be employed by the Australian Capital Territory:
+          “(11)  For the purposes of this Act, the following are taken to be employed by the Australian Capital Territory:
 
                      (a)  a person who is an officer or employee of an authority or body established by an ACT enactment, other than an authority or body in respect of which a declaration is in force under subsection (12);
 
                      (b)  a person who is an officer or employee of a body corporate incorporated under a law of the Commonwealth or a law in force in a State or Territory, being a body:
 
-                              (i)  in which the Australian Capital Territory or an authority or body established by an ACT enactment has a controlling interest; and
+                              (i)  in which the Australian   Capital Territory or an authority or body established by an ACT enactment has a controlling interest; and
 
                              (ii)  in respect of which a declaration under subsection (13) is in force;
 
@@ -584,11 +584,11 @@ Add at the end the following subsections:
 
            (13)  If the Chief Minister so requests in writing, the Minister may make a written declaration that a body corporate is a body to which subsection (11) applies.
 
-           (14)  Subsection (11) does not apply to the following offices established by the _Australian Capital Territory__(Self‑Government) Act 1988_:
+           (14)  Subsection (11) does not apply to the following offices established by the _Australian Capital Territory__(Self-Government) Act 1988_:
 
-                     (a)  Chief Minister for the Australian Capital Territory;
+                     (a)  Chief Minister for the Australian   Capital Territory;
 
-                     (b)  Deputy Chief Minister for the Australian Capital Territory;
+                     (b)  Deputy Chief Minister for the Australian   Capital Territory;
 
                      (c)  Minister;
 
@@ -612,7 +612,7 @@ Add at the end the following subsections:
 
 _Section 22_
 
-<h9 class="ActHead9">Australian Capital Territory (Self‑Government) Act 1988</h9>
+<h9 class="ActHead9">Australian Capital Territory (Self-Government) Act 1988</h9>
 
 ## Section 3:
 
@@ -660,7 +660,7 @@ After “State,” insert “of the Australian Capital Territory,”.
 
 After subparagraph (a)(ii) insert the following word and subparagraph:
 
-                            “or  (iii)        the _Australian Capital Territory__(Self‑Government) Act 1988_;”.
+                             “or  (iii)        the _Australian   Capital Territory__(Self-Government) Act 1988_;”.
 
 ## Subsection 6 (1) (definition of _Commonwealth officer_):
 
@@ -674,13 +674,13 @@ After “includes” insert “the Australian Capital Territory and”.
 
 Insert the following definition:
 
-                    <a name="enact"></a><a name="act-enact"></a>“**_ACT enactment_**has the same meaning as **_enactment_**has in the _Australian Capital Territory__(Self‑Government) Act 1988_.
+                    <a name="enact"></a><a name="act-enact"></a>“**_ACT enactment_**has the same meaning as **_enactment_**has in the _Australian Capital Territory__(Self-Government) Act 1988_.
 
 ## After subsection 6(1):
 
 Insert the following subsection:
 
-        “(1A)  In order to avoid doubt, it is declared that an ACT enactment is not a Commonwealth enactment for the purposes of this Act.”.
+         “(1A)  In order to avoid doubt, it is declared that an ACT enactment is not a Commonwealth enactment for the purposes of this Act.”.
 
 ## Subparagraph 7(1)(a)(ii):
 
@@ -704,7 +704,7 @@ Omit from Column 1 of Item 4 in the table “or a court of the   Australian Ca
 
 ## Subsection 7(1) (definition of _Commonwealth authority_):
 
-                    “(a)  Omit from paragraph (a) “an enactment within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_ or a law of the”, substitute “a law of the Australian Capital Territory or the”.
+                    “(a)  Omit from paragraph (a) “an enactment within the meaning of the _Australian Capital Territory__(Self-Government) Act 1988_ or a law of the”, substitute “a law of the   Australian Capital Territory or the”.
 
                      (b)  In paragraph (b), after “other than” insert “the Australian Capital Territory or”.
 
@@ -718,21 +718,21 @@ Omit the paragraph.
 
 ## Subsection 87(1) (definition of _Commonwealth authority_):
 
-In paragraph (a), after “not being” insert “the Australian Capital Territory or”. 
+In paragraph (a), after “not being” insert “the Australian   Capital Territory or”. 
 
 ## Subsection 87(1) (definition of _Commonwealth office_):
 
-In paragraph (a), after “other than” insert “the Australian Capital Territory or”. 
+In paragraph (a), after “other than” insert “the Australian   Capital Territory or”. 
 
 ## Subsection 87(1) (definition of _public authority_):
 
-In paragraph (c), after “a State,” insert “of the Australian Capital Territory,”.
+In paragraph (c), after “a State,” insert “of the Australian   Capital Territory,”.
 
 ## Subsection 87 (1) (definition of _public office_):
 
                      (a)  After subparagraph (b)(i) insert the following subparagraph: 
 
-                          “(ia)  by the Australian   Capital Territory Executive or by the Chief Minister or a Minister for the Australian Capital Territory; or”. 
+                           “(ia)  by the Australian   Capital Territory Executive or by the Chief Minister or a Minister for the Australian   Capital Territory; or”. 
 
                      (b)  After “in the public service of a State” insert “,of the Australian Capital Territory”. 
 
@@ -768,7 +768,7 @@ After “office or appointment in” insert “the Australian Capital Territory 
 
 Insert the following subparagraph:
 
-                          “(ia)  by the Australian   Capital Territory Executive or by the Chief Minister or a Minister for the Australian Capital Territory; or”.
+                           “(ia)  by the Australian   Capital Territory Executive or by the Chief Minister or a Minister for the Australian   Capital Territory; or”.
 
 ## Subsection 87J(1) (definition of Territory): 
 
@@ -792,15 +792,15 @@ After “including” insert “a Minister for the Australian Capital   Territor
 
 ## Paragraph 87J(2A)(d): 
 
-After “including” insert “the Chief Minister for the Australian Capital Territory and”. 
+After “including” insert “the Chief Minister for the Australian   Capital Territory and”. 
 
 ## Subparagraph 87ZE(4)(a)(i): 
 
-After “State” insert “or of the Legislative Assembly for the Australian Capital Territory”. 
+After “State” insert “or of the Legislative Assembly for the Australian   Capital Territory”. 
 
 ## Subparagraph 87ZE(5)(a)(i): 
 
-After “State” insert :or of the Legislative Assembly for the Australian Capital Territory”. 
+After “State” insert :or of the Legislative Assembly for the Australian   Capital Territory”. 
 
 <h9 class="ActHead9">Superannuation Act 1976</h9>
 
@@ -808,7 +808,7 @@ After “State” insert :or of the Legislative Assembly for the Australian Capi
 
 Insert the following subsection: 
 
-        “(3B)  The termination, under the Public Sector Management Act 1994 of the Australian Capital Territory, of an appointment made under that Act is not to be taken to be the termination of the appointment for the purposes of paragraph (3)(b) of this section if: 
+         “(3B)  The termination, under the Public Sector Management Act 1994 of the Australian Capital Territory, of an appointment made under that Act is not to be taken to be the termination of the appointment for the purposes of paragraph (3)(b) of this section if: 
 
                      (a)  the appointment was made on probation; and 
 
@@ -822,7 +822,7 @@ _Section 23_
 
                      (a)  after paragraph (b) insert the following paragraph:
 
-                         “(ba)  an ACT agency; or”.
+                          “(ba)  an ACT agency; or”.
 
                      (b)  Omit paragraph (g) and substitute the following paragraph:
 
@@ -838,13 +838,13 @@ Insert the following definitions:
 
                      (b)  a body corporate constituted under subsection 4(1) of the Legal Practitioners Act 1970 of the Australian Capital   Territory;
 
-                    <a name="act-minist"></a>“**_ACT Minister_**means a Minister within the meaning of the _Australian Capital Territory__(Self‑Government) Act 1988_;”.
+                    <a name="act-minist"></a>“**_ACT Minister_**means a Minister within the meaning of the _Australian Capital Territory__(Self-Government) Act 1988_;”.
 
 ## After subsection 6(1A):
 
 Insert the following subsection: 
 
-        “(1B)  The definition o _f ACT agency_ in subsection (1) has the same effect as if the _Freedom of Information Act 1989_ of the Australian Capital Territory made the same provision in relation to an agency as subsection 4(2) of that Act makes in relation to a prescribed authority.
+         “(1B)  The definition o _f ACT agency_ in subsection (1) has the same effect as if the _Freedom of Information Act 1989_ of the Australian Capital Territory made the same provision in relation to an agency as subsection 4(2) of that Act makes in relation to a prescribed authority.
 
 ## Subparagraph 7(1)(a)(ii): 
 
@@ -856,7 +856,7 @@ Omit the subparagraph, substitute:
 
 Insert the following subparagraph: 
 
-                        “(iiia)  an ACT agency;”.
+                         “(iiia)  an ACT agency;”.
 
 ## Paragraph 7(1)(b):
 
@@ -888,11 +888,11 @@ Insert the following section:
 
 ##### <a id="15A."></a>15A.  Special provision relating to the application of the Information Privacy Principles in relation to the ACT 
 
-             (1)  In relation to a record‑keeper that is an ACT agency or a court of the Australian Capital Territory, a reference in Information Privacy Principle 5 or 6 to any law of the Commonwealth that provides for access by persons to documents is to be read as a reference to any law of the Australian Capital Territory that provides for access by persons to documents.
+             (1)  In relation to a record-keeper that is an ACT agency or a court of the Australian Capital Territory, a reference in Information Privacy Principle 5 or 6 to any law of the Commonwealth that provides for access by persons to documents is to be read as a reference to any law of the Australian Capital Territory that provides for access by persons to documents.
 
-             (2)   In relation to a record‑keeper that is an ACT agency or a court of the Australian Capital Territory, the reference in Information Privacy Principle 7 to a law of the Commonwealth that provides a right to require the correction or amendment of documents is to be read as a reference to a law of the Australian Capital Territory that provides such a right. 
+             (2)   In relation to a record-keeper that is an ACT agency or a court of the Australian Capital Territory, the reference in Information Privacy Principle 7 to a law of the Commonwealth that provides a right to require the correction or amendment of documents is to be read as a reference to a law of the Australian Capital Territory that provides such a right. 
 
-             (3)  For the purposes of the application of Information Privacy Principle 7 in relation to a record‑keeper that is an ACT agency or a court of the Australian Capital Territory, the reference in that Principle to the applicable provisions of a law of the Commonwealth is to be read as a reference to the applicable provisions of a law of the Australian Capital Territory.”. 
+             (3)  For the purposes of the application of Information Privacy Principle 7 in relation to a record-keeper that is an ACT agency or a court of the Australian Capital Territory, the reference in that Principle to the applicable provisions of a law of the Commonwealth is to be read as a reference to the applicable provisions of a law of the Australian Capital Territory.”. 
 
 ## Paragraph 27(1)(b): 
 
@@ -918,7 +918,7 @@ Omit “the Minister (if any)”, substitute any Minister or ACT Minister”.
 
 Insert the following section in Division 3 of Part IV: 
 
-##### <a id="33A"></a>33A  Copies of certain reports to be given to ACT Attorney‑General 
+##### <a id="33A"></a>33A  Copies of certain reports to be given to ACT Attorney-General 
 
              (1)  If: 
 
@@ -926,7 +926,7 @@ Insert the following section in Division 3 of Part IV:
 
                      (b)  the report relates to an ACT matter; 
 
-the Commissioner must, at the same time, give a copy of the report to the Attorney‑General of the Australian Capital Territory. 
+the Commissioner must, at the same time, give a copy of the report to the Attorney-General of the Australian Capital Territory. 
 
              (2)  A report relates to an ACT matter if: 
 
@@ -958,7 +958,7 @@ Insert the following section in Division 4 of Part IV:
 
 ## Section 37:
 
-(a)   Insert after “federal” court in Column 1 of Item 4 in the table “or a court of the Australian Capital Territory”. 
+(a)   Insert after “federal” court in Column 1 of Item 4 in the table “or a court of the Australian   Capital Territory”. 
 
 (b)        Add at the end the following subsection:
 
@@ -1008,27 +1008,27 @@ After “Minister” insert “or ACT Minister”.
 
 Add at the end the following subsection: 
 
-           “(2)  A reference in subsection (1) to the Auditor‑General is a reference to:
+           “(2)  A reference in subsection (1) to the Auditor-General is a reference to:
 
-                     (a)  the Auditor‑General of the Commonwealth; or 
+                     (a)  the Auditor-General of the Commonwealth; or 
 
-                     (b)  the Auditor‑General within the meaning of the _Audit Act 1989_ of the Australian Capital Territory.”. 
+                     (b)  the Auditor-General within the meaning of the _Audit Act 1989_ of the Australian Capital Territory.”. 
 
 ## After subsection 60(2): 
 
 Insert the following subsection: 
 
-        “(2A)   If a determination relates to an ACT agency or a court of the Australian Capital Territory, the reference in subsection (2) to the Commonwealth is to be read as a reference to the Australian Capital Territory.”.
+         “(2A)   If a determination relates to an ACT agency or a court of the Australian Capital Territory, the reference in subsection (2) to the Commonwealth is to be read as a reference to the Australian Capital Territory.”.
 
 ## Subsection 68(1): 
 
-Omit “the Attorney‑General has furnished a certificate under subsection 70(1) or (2)”, substitute “a certificate has been furnished under subsection 70(1), (2) or (3)”. 
+Omit “the Attorney-General has furnished a certificate under subsection 70(1) or (2)”, substitute “a certificate has been furnished under subsection 70(1), (2) or (3)”. 
 
 ## Section 70: 
 
 Add at the end the following subsection: 
 
-           “(3)  If the Attorney‑General of the Australian Capital Territory furnishes to the Commissioner a certificate certifying that the giving to the Commissioner of information concerning a specified matter (including the giving of information in answer to a question), or the production to the Commissioner of a specified document or other record, would be contrary to the public interest because it would:
+           “(3)  If the Attorney-General of the Australian Capital Territory furnishes to the Commissioner a certificate certifying that the giving to the Commissioner of information concerning a specified matter (including the giving of information in answer to a question), or the production to the Commissioner of a specified document or other record, would be contrary to the public interest because it would:
 
                      (a)  involve the disclosure of communications between an ACT Minister and a Minister of the Commonwealth or of a State, being a disclosure that would prejudice relations between the Government of the Australian Capital Territory and the Government of the Commonwealth or of a State; or 
 
@@ -1059,8 +1059,6 @@ Add at the end the following subsection:
 The _Australian Capital Territory__Government Service (Consequential Provisions) Act 1994_ as shown in this compilation comprises Act No. 92, 1994 amended as indicated in the Tables below.
 
 The _Australian Capital Territory__Government Service (Consequential Provisions) Act 1994_ was amended by the _Public Employment (Consequential and Transitional) Regulations 1999_ (Statutory Rules 1999 No. 301 as amended by Statutory Rules 2000 No. 332). The amendments are incorporated in this compilation.
-
-For all relevant information pertaining to application, saving or transitional provisions _see_ Table A.
 
 ### Table of Acts
 
@@ -1106,7 +1104,7 @@ of Assent</div>
     <div>29 June 1994</div>
   </td>
   <td colspan="2">
-    <div>1 July 1994 ( <i>see Gazette</i>1994 No. S256)</div>
+    <div>1 July 1994 ( <i>see Gazette</i>1994 No. S256)</div>
   </td>
   <td>
     <div></div>
@@ -1123,10 +1121,9 @@ of Assent</div>
     <div>19 Dec 1994</div>
   </td>
   <td colspan="2">
-    <div>Ss. 1, 2(1), (3) and Part 2 (ss. 3–8): 19 Dec 1994 ( <i>see</i>s. 2(1)) 
-Ss. 2(2) and 
-32–39: Royal Assent 
-Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472)</div>
+    <div>Ss. 1, 2(1), (3) and Part 2 (ss. 3–8): 19 Dec 1994 ( <i>see</i>s. 2(1)) 
+Ss. 2(2) and 32–39: Royal Assent 
+Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472)</div>
   </td>
   <td>
     <div>—</div>
@@ -1160,7 +1157,7 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472
     <div>11 Nov 1999</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (items 117–140): 5 Dec 1999 (s <i>ee Gazette</i>1999, No. S584) <i>(a)</i></div>
+    <div>Schedule 1 (items 117–140): 5 Dec 1999 (s <i>ee Gazette</i>1999, No. S584) <i>(a)</i></div>
   </td>
   <td>
     <div>—</div>
@@ -1177,27 +1174,10 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472
     <div>10 Dec 2010</div>
   </td>
   <td colspan="2">
-    <div>Schedule 1 (item 243): 1 Jan 2011</div>
+    <div>Schedule 1 (item 243): 1 Jan 2011</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (item 119) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11)</div>
   </td>
 </tr>
 <tr height="0">
@@ -1209,7 +1189,7 @@ Remainder: 1 Jan 1995 ( <i>see</i>s. 2(3) and <i>Gazette</i>1994, No. S472
   <td></td>
 </tr></table>
 
-_(a)_     The _Australian Capital Territory Government Service (Consequential Provisions) Act 1994_ was amended by Schedule 1 (items 117–140) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
+_(a)_     The _Australian Capital Territory Government Service (Consequential Provisions) Act 1994_ was amended by Schedule 1 (items 117-140) only of the _Public Employment (Consequential and Transitional) Amendment Act 1999_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   In this Act, **_commencing time_** means the time when the _Public Service Act 1999_ commences.
 
@@ -1374,37 +1354,5 @@ _(a)_     The _Australian Capital Territory Government Service (Conseque
     <div>am. No. 177, 1994</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendment commences on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 119  Subsection 23(2)
-
-Omit “section 8”, substitute “section 7”.
-
-As at 8 September 2011 the amendment is not incorporated in this compilation.
-
-## Table A
-
-### Application, saving or transitional provisions
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
 
  
