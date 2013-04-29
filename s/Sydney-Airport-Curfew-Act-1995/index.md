@@ -1,7 +1,7 @@
 
 Sydney Airport Curfew Act 1995
 Act No. 134 of 1995 as amended
-This compilation was prepared on 25 October 2001 taking into account amendments up to Act No. 143 of 2001
+This compilation was prepared on 1 June 2000  taking into account amendments up to Act No. 48 of 2000
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -12,49 +12,47 @@ Part 1—Preliminary	1
 1	Short title [see Note 1]	1
 2	Commencement [see Note 1]	1
 3	Definitions	1
-3A	Application of the Criminal Code	2
 4	Explanation of runway names	2
-5	Time is legal time in New South Wales	3
-Part 2—The curfew and related restrictions	4
-Division 1—The curfew	4
-6	Curfew periods	4
-7	Prohibition on taking off or landing during curfew periods	4
-8	Use of reverse thrust during curfew periods	4
-9	Missed approaches during curfew periods	5
-Division 2—Related restrictions	7
-10	Runways to be used for take‑offs between 10.45 pm and 11 pm	7
-11	Runways to be used for take‑offs and landings on weekends between 6 am and 7 am and 10 pm and 11 pm	7
-Part 3—Permitted aircraft movements	9
-Division 1—Movements permitted during curfew periods	9
-12	International passenger aircraft movements during curfew shoulder periods	9
-13	BAe‑146 and DC9 aircraft used for freight	11
-14	Propeller‑driven aircraft under 34,000 kilograms that comply with noise standards	13
-15	Jet aircraft under 34,000 kilograms that comply with noise standards and that are specified by the Minister	13
-16	Take‑off from runway 16R when taxi clearance received before start of curfew period	15
-17	Sections 13, 14 and 15 do not apply after airport at Badgerys Creek is available for night use	15
-Division 2—Emergencies and dispensations	16
-18	Aircraft may take off or land in emergencies or if Minister grants dispensation	16
-19	Emergencies	16
-20 Dispensations in exceptional circumstances	16
-Part 4—Provision of information	18
-21	Authorised person may require the provision of information	18
-22	Provision of false information	18
-Part 5—Consultation before Act is amended	19
-23	Minister to consult	19
-Part 6—Miscellaneous	20
-24	Delegation	20
-25	Conduct by directors, servants and agents	20
-26	Regulations	21
-Schedule—Consultation procedures	22
-1	Schedule sets out consultation procedures	22
-2	Minister may determine that a body or organisation represents those likely to be affected	22
-3	Minister must prepare a written proposal	22
-4	Public to be invited to make submissions	23
-5	Body or organisations specified under clause 2 to be consulted	23
-6	Minister to consider submissions	23
-7	Failure to comply does not invalidate	23
-Notes		25
-
+5	Time is legal time in New South Wales	2
+Part 2—The curfew and related restrictions	3
+Division 1—The curfew	3
+6	Curfew periods	3
+7	Prohibition on taking off or landing during curfew periods	3
+8	Use of reverse thrust during curfew periods	3
+9	Missed approaches during curfew periods	4
+Division 2—Related restrictions	6
+10	Runways to be used for take‑offs between 10.45 pm and 11 pm	6
+11	Runways to be used for take‑offs and landings on weekends between 6 am and 7 am and 10 pm and 11 pm	6
+Part 3—Permitted aircraft movements	8
+Division 1—Movements permitted during curfew periods	8
+12	International passenger aircraft movements during curfew shoulder periods	8
+13	BAe‑146 and DC9 aircraft used for freight	10
+14	Propeller‑driven aircraft under 34,000 kilograms that comply with noise standards	12
+15	Jet aircraft under 34,000 kilograms that comply with noise standards and that are specified by the Minister	12
+16	Take‑off from runway 16R when taxi clearance received before start of curfew period	14
+17	Sections 13, 14 and 15 do not apply after airport at Badgerys Creek is available for night use	14
+Division 2—Emergencies and dispensations	15
+18	Aircraft may take off or land in emergencies or if Minister grants dispensation	15
+19	Emergencies	15
+20 Dispensations in exceptional circumstances	15
+Part 4—Provision of information	17
+21	Authorised person may require the provision of information	17
+22	Provision of false information	17
+Part 5—Consultation before Act is amended	18
+23	Minister to consult	18
+Part 6—Miscellaneous	19
+24	Delegation	19
+25	Conduct by directors, servants and agents	19
+26	Regulations	20
+Schedule—Consultation procedures	21
+1	Schedule sets out consultation procedures	21
+2	Minister may determine that a body or organisation represents those likely to be affected	21
+3	Minister must prepare a written proposal	21
+4	Public to be invited to make submissions	22
+5	Body or organisations specified under clause 2 to be consulted	22
+6	Minister to consider submissions	22
+7	Failure to comply does not invalidate	22
+Notes		23
 An Act to impose a curfew and related restrictions on aircraft movements at Sydney Airport, and for related purposes
 Part 1—Preliminary
 1  Short title [see Note 1]
@@ -74,9 +72,6 @@ authorised person means:
 	(b)	a person appointed in writing by the Secretary to be an authorised person for the purposes of this Act; or
 	(c)	a person included in a class of persons appointed in writing by the Secretary to be authorised persons for the purposes of this Act.
 curfew period has the meaning given by section 6.
-engage in conduct means:
-	(a)	do an act; or
-	(b)	omit to perform an act.
 land—an aircraft lands when it touches the ground.
 maximum take‑off weight of an aircraft means the weight set out in the aircraft’s flight manual as the aircraft’s maximum take‑off weight.
 operator of an aircraft means a person who conducts an aircraft operation using the aircraft.
@@ -84,9 +79,6 @@ Sydney Airport means the airport known as Sydney (Kingsford‑Smith) Airport.
 take off—an aircraft takes off when it leaves the ground.
 the Annex means Volume 1 of Annex 16 to the Convention on International Civil Aviation concluded at Chicago on 7 December 1944, as amended and in force from time to time.
 week means a period of 7 days starting at 11 pm on a Sunday.
-3A  Application of the Criminal Code
-		Chapter 2 (other than Part 2.5) of the Criminal Code applies to all offences created by this Act.
-Note:	Chapter 2 of the Criminal Code sets out the general principles of criminal responsibility.
 4  Explanation of runway names
 	(1)	The diagram below shows the runways at Sydney Airport.
 [Diagram omitted]
@@ -103,20 +95,15 @@ Division 1—The curfew
 		A curfew period starts at 11 pm on a day and ends at 6 am on the next day.
 7  Prohibition on taking off or landing during curfew periods
 	(1)	An aircraft must not take off from, or land at, Sydney Airport during a curfew period, unless the take off or landing is permitted under Part 3.
-	(2)	The operator of an aircraft commits an offence if:
-	(a)	the operator engages in conduct; and
-	(b)	the operator’s conduct results in a contravention of subsection (1).
-Penalty:	1,000 penalty units.
-	(3)	Strict liability applies to paragraph (2)(b).
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+	(2)	If the operator of an aircraft knowingly or recklessly allows the aircraft to take off or land in contravention of subsection (1), the operator is guilty of an offence punishable, on conviction, by a fine not exceeding 1,000 penalty units.
+Note 1:	If the operator is a body corporate, the maximum fine that may be imposed is 5,000 penalty units (see subsection 4B(3) of the Crimes Act 1914).
+Note 2:	For the value of a penalty unit, see subsection 4AA(1) of the Crimes Act 1914.
 8  Use of reverse thrust during curfew periods
 	(1)	If an aircraft lands at Sydney Airport during a curfew period using reverse thrust greater than idle reverse thrust, the operator of the aircraft must lodge a return in accordance with subsection (3) within 7 days after the landing.
-	(2)	The operator of an aircraft commits an offence if:
-	(a)	the operator engages in conduct; and
-	(b)	the operator’s conduct results in a contravention of subsection (1).
+	(2)	The operator must not intentionally or recklessly fail to comply with subsection (1).
 Penalty:	50 penalty units.
-	(2A)	Strict liability applies to paragraph (2)(b).
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+Note 1:	If the operator is a body corporate, the maximum fine that may be imposed is 250 penalty units (see subsection 4B(3) of the Crimes Act 1914).
+Note 2:	For the value of a penalty unit, see subsection 4AA(1) of the Crimes Act 1914.
 	(3)	The return must:
 	(a)	state the date and time of the landing; and
 	(b)	state the aircraft’s registration mark, its operator, and its type; and
@@ -126,12 +113,10 @@ Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(5)	The pilot of an aircraft landing at Sydney Airport during a curfew period should use only the minimum reverse thrust necessary for a safe landing.
 9  Missed approaches during curfew periods
 	(1)	If an aircraft attempts to land at Sydney Airport during a curfew period but misses the approach, the operator of the aircraft must lodge a return in accordance with subsection (3) within 7 days after the attempted landing.
-	(2)	The operator of an aircraft commits an offence if:
-	(a)	the operator engages in conduct; and
-	(b)	the operator’s conduct results in a contravention of subsection (1).
+	(2)	The operator must not intentionally or recklessly fail to comply with subsection (1).
 Penalty:	50 penalty units.
-	(2A)	Strict liability applies to paragraph (2)(b).
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+Note 1:	If the operator is a body corporate, the maximum fine that may be imposed is 250 penalty units (see subsection 4B(3) of the Crimes Act 1914).
+Note 2:	For the value of a penalty unit, see subsection 4AA(1) of the Crimes Act 1914.
 	(3)	The return must:
 	(a)	state the date and time of the attempted landing; and
 	(b)	state the aircraft’s registration mark, its operator, and its type; and
@@ -142,12 +127,9 @@ Note:	For strict liability, see section 6.1 of the Criminal Code.
 Division 2—Related restrictions
 10  Runways to be used for take‑offs between 10.45 pm and 11 pm
 	(1)	An aircraft taking off from Sydney Airport between 10.45 pm and 11 pm must take off from runway 16L or runway 16R unless the take‑off is permitted under Division 2 of Part 3.
-	(2)	The operator of an aircraft commits an offence if:
-	(a)	the operator engages in conduct; and
-	(b)	the operator’s conduct results in a contravention of subsection (1).
-Penalty:	500 penalty units.
-	(3)	Strict liability applies to paragraph (2)(b).
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+	(2)	If the operator of an aircraft knowingly or recklessly allows the aircraft to take off in contravention of subsection (1), the operator is guilty of an offence punishable, on conviction, by a fine not exceeding 500 penalty units.
+Note 1:	If the operator is a body corporate, the maximum fine that may be imposed is 2,500 penalty units (see subsection 4B(3) of the Crimes Act 1914).
+Note 2:	For the value of a penalty unit, see subsection 4AA(1) of the Crimes Act 1914.
 11  Runways to be used for take‑offs and landings on weekends between 6 am and 7 am and 10 pm and 11 pm
 	(1)	An aircraft taking off from Sydney Airport between 6 am and 7 am, or between 10 pm and 11 pm, on a Saturday or Sunday must take off from runway 16L or 16R unless:
 	(a)	it takes off from another runway that has been nominated by an air traffic controller (provided the take‑off does not contravene subsection 10(1)); or
@@ -155,12 +137,9 @@ Note:	For strict liability, see section 6.1 of the Criminal Code.
 	(2)	An aircraft landing at Sydney Airport between 6 am and 7 am, or between 10 pm and 11 pm, on a Saturday or Sunday must land on runway 34L unless:
 	(a)	it lands on another runway that has been nominated by an air traffic controller; or
 	(b)	the landing is permitted under Division 2 of Part 3.
-	(3)	The operator of an aircraft commits an offence if:
-	(a)	the operator engages in conduct; and
-	(b)	the operator’s conduct results in a contravention of subsection (1) or (2).
-Penalty:	100 penalty units.
-	(3A)	Strict liability applies to paragraph (3)(b).
-Note:	For strict liability, see section 6.1 of the Criminal Code.
+	(3)	If the operator of an aircraft knowingly or recklessly allows the aircraft to take off or land in contravention of subsection (1) or (2), the operator is guilty of an offence punishable, on conviction, by a fine not exceeding 100 penalty units.
+Note 1:	If the operator is a body corporate, the maximum fine that may be imposed is 500 penalty units (see subsection 4B(3) of the Crimes Act 1914).
+Note 2:	For the value of a penalty unit, see subsection 4AA(1) of the Crimes Act 1914.
 	(4)	At the end of each month, Airservices Australia must give the Secretary a written report setting out:
 	(a)	the number of times (if any) during the month that air traffic controllers nominated runways as mentioned in paragraphs (1)(a) and (2)(a); and
 	(b)	the reasons for nominating those runways.
@@ -282,13 +261,13 @@ Part 4—Provision of information
 	(1)	An authorised person may, by notice in writing given to the operator of an aircraft, require the operator to give the authorised person, within 30 days of receiving the notice:
 	(a)	information relating to the noise level of the aircraft; or
 	(b)	information relevant to determining whether a take‑off or landing of the aircraft was permitted by paragraph 18(a) (emergencies).
-	(2)	The operator must not fail to comply with the notice.
+	(2)	The operator must not knowingly or recklessly fail to comply with the notice.
 Penalty:	50 penalty units.
 Note 1:	If the operator is a body corporate, the maximum penalty that may be imposed is 250 penalty units (see subsection 4B(3) of the Crimes Act 1914).
 Note 2:	For the value of a penalty unit, see subsection 4AA(1) of the Crimes Act 1914.
 	(3)	This section does not affect a person’s right to refuse to give information on the ground that the information, or giving the information, might tend to incriminate the person or expose the person to a penalty.
 22  Provision of false information
-		The operator of an aircraft must not, for a purpose connected with this Act, give information to an authorised person that is false or misleading in a material particular.
+		The operator of an aircraft must not, for a purpose connected with this Act, knowingly or recklessly give information to an authorised person that is false or misleading in a material particular.
 Penalty:	50 penalty units.
 Note 1:	If the operator is a body corporate, the maximum penalty that may be imposed is 250 penalty units (see subsection 4B(3) of the Crimes Act 1914).
 Note 2:	For the value of a penalty unit, see subsection 4AA(1) of the Crimes Act 1914.
@@ -321,8 +300,8 @@ director, in relation to a body that:
 means the member, or any of the members, constituting the body.
 engage in conduct includes fail or refuse to engage in conduct.
 offence against this Act includes the following:
-	(a)	an offence against section 6 of the Crimes Act 1914 that relates to an offence against this Act;
-	(b)	an offence against section 11.1, 11.4 or 11.5 of the Criminal Code.
+	(a)	an offence against section 6, 7 or 7A of the Crimes Act 1914 that relates to an offence against this Act;
+	(b)	an offence against subsection 86(1) of the Crimes Act 1914, because of paragraph (a) of that subsection, that relates to an offence against this Act.
 state of mind, in relation to a person, includes:
 	(a)	the person’s knowledge, intention, opinion, belief or purpose; and
 	(b)	the person’s reasons for the intention, opinion, belief or purpose.
@@ -363,7 +342,6 @@ Section 15, 20 and 23
 Notes to the Sydney Airport Curfew Act 1995
 Note 1
 The Sydney Airport Curfew Act 1995 as shown in this compilation comprises Act No. 134, 1995 amended as indicated in the Tables below.
-For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 Act
 Number  and year
@@ -373,44 +351,24 @@ Application, saving or transitional provisions
 Sydney Airport Curfew Act 1995
 134, 1995
 22 Nov 1995
-24 Dec 1995 (see s. 2)
+[see s. 2]
 
 Aviation Legislation Amendment Act (No. 1) 2000
 48, 2000
 3 May 2000
-Schedule 2: 31 May 2000 Remainder: Royal Assent
+Schedule 2: 31 May 2000 Remainder: Royal Assent
+
 —
-Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001
-143, 2001
-1 Oct 2001
-2 Oct 2001
-S. 4
 Table Of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 3	
-am. No. 143, 2001
-S. 3A	
-ad. No. 143, 2001
 S. 7	
-am. No. 48, 2000; No. 143, 2001
+am. No. 48, 2000
 Note 1 to s. 7(2)	
 am. No. 48, 2000
-Ss. 8‑11	
-am. No. 143, 2001
 S. 10	
 am. No. 48, 2000
 Note 1 to s. 10(2)	
 am. No. 48, 2000
-Ss. 21, 22	
-am. No. 143, 2001
-S. 25	
-am. No. 143, 2001
-Table A
-Application, saving or transitional provisions
-Transport and Regional Services Legislation Amendment (Application of Criminal Code) Act 2001 (No. 143, 2001)
-4  Application of Amendments
-	(1)	Each amendment made by this Act applies to acts and omissions that take place after the amendment commences.
-	(2)	For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
