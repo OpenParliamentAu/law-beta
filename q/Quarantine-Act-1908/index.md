@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00607/Html/Quarantine1908_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00431/Html/Quarantine1908_WD02_image001.gif)
 
 # Quarantine Act 1908
 
 **Act No. 3 of 1908 as amended**
 
-This compilation was prepared on 26 November 2008
- taking into account amendments up to Act No. 117 of 2008
+This compilation was prepared on 29 July 2008
+ taking into account amendments up to Act No. 68 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -703,7 +703,7 @@ in respect of which the authorisation was given.
 
                      (a)  within the area comprising:
 
-                              (i)  the areas described in Schedule 1 to the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_; and
+                              (i)  the areas described in Schedule 1 to the _Offshore Petroleum Act 2006_; and
 
                              (ii)  the Coral Sea area; and
 
@@ -769,7 +769,7 @@ in respect of which the authorisation was given.
 
                     <a name="contravent"></a>**_contravention_** of this Act has the meaning given by subsection 5(1A).
 
-                    <a name="area"></a><a name="coral-sea"></a>**_Coral Sea_****_area_** has the same meaning as in section 7 of the _Offshore Petroleum and Greenhouse Gas Storage Act 2006_.
+                    <a name="area"></a><a name="coral-sea"></a>**_Coral Sea_****_area_** has the same meaning as in section 7 of the _Offshore Petroleum Act 2006_.
 
                     <a name="declar-place"></a>**_declared place_** has the meaning given by section 12.
 
@@ -797,8 +797,6 @@ in respect of which the authorisation was given.
 
                     <a name="environ"></a>**_environment_** includes all aspects of the surroundings of human beings, whether natural surroundings or surroundings created by human beings themselves, and whether affecting them as individuals or in social groupings.
 
-                    <a name="environ-relat-activ"></a>**_Environment related activity_** has the same meaning as in the Sea Installations Act.
-
                     <a name="evidenti-materi"></a>**_evidential material_** means any of the following things, including such a thing in electronic form:
 
                      (a)  a thing with respect to which an offence against this Act has been committed or is suspected, on reasonable grounds, to have been committed; 
@@ -806,6 +804,8 @@ in respect of which the authorisation was given.
                      (b)  a thing that there are reasonable grounds for suspecting will afford evidence as to the commission of an offence against this Act;
 
                      (c)  a thing that there are reasonable grounds for suspecting is intended to be used for the purpose of committing an offence against this Act.
+
+                    <a name="environ-relat-activ"></a>**_Environment related activity_** has the same meaning as in the Sea Installations Act.
 
                     <a name="examin"></a>**_Examine_** includes:
 
@@ -2591,7 +2591,7 @@ Quarantine officer may require master or medical officer to answer questions
 
              (1)  A quarantine officer may require any of the following:
 
-                     (a)  the master of an overseas vessel that has arrived, or is expected to arrive, at a port in Australia, the Cocos  Islands or Christmas Island;
+                     (a)  the master of an overseas vessel that has arrived, or is expected to arrive, at a port in Australia, the Cocos Islands or Christmas Island;
 
                      (b)  the master of a vessel that has arrived or is expected to arrive:
 
@@ -6183,7 +6183,7 @@ Note:          This section is subject to the privilege agains
 
                     Maximum penalty:    One penalty unit.
 
-##### <a id="74BC"></a>74BC  Power to require information after entering premises with consent or under warrant
+##### <a id="74BC"></a>74BC  Power to require information after entering premises with consent or under warrant
 
              (1)  Subject to subsection (2), a quarantine officer who has entered premises under subparagraph 66AB(1)(a)(iv) or paragraph 66AE(2)(b) or under a warrant under section 66AC, 66AF or 66AH may, to the extent that it is reasonably necessary for the purpose of deciding whether to exercise any power under this Act or finding out whether this Act has been complied with:
 
@@ -6527,7 +6527,7 @@ Note:          The pilot will not be guilty of an offence if t
 
 Note:          The master will not be guilty of an offence if the entry of the vessel to the port was due to circumstances of sudden or extraordinary emergency (see section 10.3 of the _Criminal Code_).
 
-##### <a id="78A"></a>78A  Treatment of vessels and installations that are believed to be in an insanitary condition or to be likely to be carrying diseases or pests
+##### <a id="78A"></a>78A  Treatment of vessels and installations that are believed to be in an insanitary condition or to be likely to be carrying diseases or pests
 
              (1)  In this section:
 
@@ -7165,8 +7165,7 @@ the Commonwealth must pay the person the amount of compensation (if any) that is
 
 ### Note 1
 
-The _Quarantine Act 1908_ as shown in this compilation comprises Act No. 
- 3, 1908 amended as indicated in the Tables below.
+The _Quarantine Act 1908_ as shown in this compilation comprises Act No. 3, 1908 amended as indicated in the Tables below.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 30 June 1997 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -7175,11 +7174,10 @@ All relevant information pertaining to application, saving or transitional provi
 <table>
 <colgroup>
   <col width="30%">
-  <col width="15%">
+  <col width="16%">
   <col width="18%">
   <col width="21%">
-  <col width="15%">
-  <col width="0%">
+  <col width="16%">
 </colgroup>
 
 <thead>
@@ -7201,9 +7199,6 @@ of Assent</div>
     <td>
       <div>Application, saving or transitional provisions</div>
     </td>
-    <td>
-      <div></div>
-    </td>
   </tr>
 </thead>
 <tr>
@@ -7219,9 +7214,6 @@ of Assent</div>
   <td>
     <div>1 July 1909 ( <i>see Gazette</i>1909, 
 p. 1175)</div>
-  </td>
-  <td>
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -7243,9 +7235,6 @@ p. 1175)</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7262,9 +7251,6 @@ p. 1175)</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7283,9 +7269,6 @@ p. 1175)</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7302,9 +7285,6 @@ p. 1175)</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7323,9 +7303,6 @@ p. 1175)</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7342,9 +7319,6 @@ p. 1175)</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7363,9 +7337,6 @@ p. 1175)</div>
   <td>
     <div>S. 16</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7382,9 +7353,6 @@ p. 1175)</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7404,9 +7372,6 @@ p. 4213)</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7423,9 +7388,6 @@ p. 4213)</div>
   </td>
   <td>
     <div>S. 7(2)</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7444,16 +7406,10 @@ p. 4213)</div>
   <td>
     <div>Ss. 9(1) and 10</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -7484,9 +7440,6 @@ p. 4213)</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7503,9 +7456,6 @@ p. 4213)</div>
   </td>
   <td>
     <div>S. 7</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7524,9 +7474,6 @@ p. 4213)</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7543,9 +7490,6 @@ p. 4213)</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7564,9 +7508,6 @@ p. 4213)</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7583,9 +7524,6 @@ p. 4213)</div>
   </td>
   <td>
     <div>Ss. 7(2), 11(2) and 16(2)</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7605,9 +7543,6 @@ p. 4213)</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7624,9 +7559,6 @@ p. 4213)</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7647,16 +7579,10 @@ Remainder: 24 May 1984</div>
   <td>
     <div>Ss. 4(2), 5(2), 6(2) and 26(2)</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -7687,9 +7613,6 @@ Remainder: 24 May 1984</div>
   <td>
     <div>Ss. 2(32) and 6(1)</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7707,9 +7630,6 @@ Remainder: 24 May 1984</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7726,9 +7646,6 @@ Remainder: 24 May 1984</div>
   </td>
   <td>
     <div>Ss. 5(2)–(4), 25 and 26</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7749,16 +7666,10 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -7789,9 +7700,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7808,9 +7716,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   </td>
   <td>
     <div>S. 5(1)</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7829,9 +7734,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7848,9 +7750,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7869,9 +7768,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>Ss. 4 and 6</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7888,9 +7784,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7909,9 +7802,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7928,9 +7818,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   </td>
   <td>
     <div>Ss. 4, 5(2), 6 and 8</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7949,9 +7836,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -7968,9 +7852,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7989,9 +7870,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8004,13 +7882,10 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
     <div>30 June 1997</div>
   </td>
   <td>
-    <div>Schedule 7: 22 Oct 1997 ( <i>see Gazette</i>1997, No. S418) <i>(j)</i></div>
+    <div>Schedule 7: 22 Oct 1997 ( <i>see Gazette</i>1997, No. S418) <i>(j)</i></div>
   </td>
   <td>
     <div>Sch. 7 (items 5, 24) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -8029,9 +7904,6 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8044,16 +7916,12 @@ Remainder: 6 Nov 1987 ( <i>see</i>s. 2(2))</div>
     <div>23 Dec 1999</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–85, 
-87–327): 23 June 2000 
+    <div>Schedule 1 (items 1-85, 87-327): 23 June 2000 
 Schedule 1 (item 86): 16 July 2000 ( <i>see</i>s. 2(2)) 
 Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (items 43, 50, 65, 68, 73, 76, 81, 83, 85, 91, 93, 96, 98, 112, 114, 119, 143, 160, 165, 174, 180, 193, 201, 226, 265, 271, 290, 317, 320, 323) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -8067,13 +7935,12 @@ Remainder: Royal Assent</div>
     <div>3 Apr 2000</div>
   </td>
   <td>
-    <div>Schedule 2 (item 41): <i>(l)</i></div>
+    <div>Ss. 4–6 and Schedule 2 
+(item 41): <i>(l)</i></div>
   </td>
   <td>
-    <div>—</div>
-  </td>
-  <td>
-    <div></div>
+    <div>Ss. 4–6 
+\[ <i>see</i>Table A]</div>
   </td>
 </tr>
 <tr>
@@ -8093,9 +7960,6 @@ Remainder: 5 Dec 2000 ( <i>see Gazette</i>2000, No. S612)</div>
   <td>
     <div>Ss. 4–7 \[ <i>see</i>Table A]</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8114,9 +7978,6 @@ Remainder: 24 May 2001</div>
   <td>
     <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8129,15 +7990,12 @@ Remainder: 24 May 2001</div>
     <div>4 Apr 2002</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–17A): 4 Oct 2002 
+    <div>Schedule 1 (items 1–17A): 4 Oct 2002 
 Schedule 1 (item 18): 2 May 2002 
 Remainder: Royal Assent</div>
   </td>
   <td>
     <div>Sch. 1 (item 17A) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -8157,9 +8015,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -8181,16 +8036,10 @@ Schedule 4 (items 3–5, 23): <i>(m)</i></div>
     <div>S. 2(1) (am. by 139, 2004, Sch. 3 \[items 1–3]) 
 S. 2(3) (am. by 139, 2004, Sch. 3 \[item 4])</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -8221,9 +8070,6 @@ S. 2(3) (am. by 139, 2004, Sch. 3 \[item 4])</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8242,9 +8088,6 @@ Schedule 3 (item 42): Royal Assent</div>
   <td>
     <div>Sch. 3 (item 42) \[ <i>see</i>Table A]</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8257,7 +8100,7 @@ Schedule 3 (item 42): Royal Assent</div>
     <div>26 Sept 2003</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–43): 26 Mar 2004 
+    <div>Schedule 1 (items 1–43): 26 Mar 2004 
 Schedule 1 (items 44, 45): <i>(o)</i> 
 Remainder: Royal Assent</div>
   </td>
@@ -8265,16 +8108,10 @@ Remainder: Royal Assent</div>
     <div>Sch. 1 (items 7, 11, 13, 33, 38, 40) \[ <i>see</i>Table A] 
 S. 2(1) (am. by 54, 2004, Sch. 4 \[item 1])</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -8305,9 +8142,6 @@ S. 2(1) (am. by 54, 2004, Sch. 4 \[item 1])</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8320,26 +8154,20 @@ S. 2(1) (am. by 54, 2004, Sch. 4 \[item 1])</div>
     <div>27 Apr 2004</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–143): 27 Oct 2004 
+    <div>Schedule 1 (items 1–143): 27 Oct 2004 
 Schedule 1 (item 157): <i>(p)</i> 
-Schedule 3: 27 Apr 2004 
+Schedule 3: 27 Apr 2004 
 Schedule 4: <i>(p)</i> 
-Remainder: 28 Apr 2004</div>
+Remainder: 28 Apr 2004</div>
   </td>
   <td>
     <div>Sch. 1 (items 9, 14, 19, 24, 33, 35, 37, 40, 70, 86, 91, 95, 167) \[ <i>see</i>Table A] 
 S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
     <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
   </td>
   <td>
     <div></div>
@@ -8370,9 +8198,6 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8389,9 +8214,6 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   </td>
   <td>
     <div>—</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -8410,9 +8232,6 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8429,9 +8248,6 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   </td>
   <td>
     <div>Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -8450,9 +8266,6 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   <td>
     <div>—</div>
   </td>
-  <td>
-    <div></div>
-  </td>
 </tr>
 <tr>
   <td>
@@ -8467,25 +8280,8 @@ S. 2(1) (am. by 139, 2004, Sch. 3 \[item 7])</div>
   <td>
     <div>Schedules 1 and 2: 29 July 2008 Remainder: Royal Assent</div>
   </td>
-  <td colspan="2">
+  <td>
     <div>Sch. 2 (item 21) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum Amendment (Greenhouse Gas Storage) Act 2008</div>
-  </td>
-  <td>
-    <div>117, 2008</div>
-  </td>
-  <td>
-    <div>21 Nov 2008</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 55, 56): 22 Nov 2008</div>
-  </td>
-  <td colspan="2">
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -8521,7 +8317,7 @@ _(h)_     The _Quarantine Act 1908_ was amended by Schedule 5 (items�
 
                  (1)   Subject to subsections (2) and (3), this Act commences on the day on which it receives the Royal Assent.
 
-_(i)_      The _Quarantine Act 1908_ was amended by Schedule 7 only of the _Primary Industries and Energy Legislation Amendment Act (No. 2) 1996_, subsection 2(1) of which provides as follows:
+_(i)_      The _Quarantine Act 1908_ was amended by Schedule 7 only of the _Primary Industries and Energy Legislation Act (No. 2) 1996_, subsection 2(1) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -8928,7 +8724,7 @@ _(p)_     Subsection 2(1) (items 5B and 8) of the _Agriculture, Fisher
   </td>
 </tr></table>
 
-_(q)_     Subsections 2(1) (item 8) and (3) of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003_ provide as follows:
+_(q)_     Subsections 2(1) \[item 8] and (3) of the _Agriculture, Fisheries and Forestry Legislation Amendment Act (No. 1) 2003_ provide as follows:
 
                  (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
 
@@ -9160,7 +8956,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div>S. 5</div>
   </td>
   <td>
-    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007; Nos. 68 and 117, 2008</div>
+    <div>am. No. 15, 1912; No. 47, 1920; No. 30, 1924; Nos. 19 and 92, 1947; No. 1, 1969; No. 54, 1981; No. 51, 1982; Nos. 19 and 22, 1984; No. 2, 1985; No. 104, 1987 (as am. by No. 155, 1988); No. 37, 1990; No. 20, 1994; No. 94, 1997; No. 196, 1999; No. 25, 2000; No. 17, 2002; Nos. 10, 38 and 91, 2003; No. 54, 2004; No. 17, 2006; No. 158, 2007; No. 68, 2008</div>
   </td>
 </tr>
 <tr>
@@ -11509,7 +11305,15 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
 </tr>
 <tr>
   <td>
-    <div>Ss. 66AF, 66AG</div>
+    <div>S. 66AF</div>
+  </td>
+  <td>
+    <div>ad. No. 196, 1999</div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>S. 66AG</div>
   </td>
   <td>
     <div>ad. No. 196, 1999</div>
@@ -12360,7 +12164,7 @@ _(r)_     Subsection 2(1) (item 4) of the _Agriculture, Fisheries and 
     <div>Heading to s. 78A</div>
   </td>
   <td>
-    <div>rs. No. 196, 1999</div>
+    <div>rs. No. 196, 2000</div>
   </td>
 </tr>
 <tr>
@@ -12802,7 +12606,7 @@ then, on and after that day:
 
                      (d)  any permit granted under that Proclamation and not revoked before that day has effect as if it were a permit granted under the Proclamation as so continued in force.
 
-## 24  Saving of regulations
+## 24  Saving of regulations
 
 Any regulation made, or purportedly made, for the purposes of a paragraph of subsection 87(1) of the _Quarantine Act 1908_, before the day on which items 15 to 23 of this Schedule commence that has not been revoked, or purportedly revoked, immediately before that day continues in force, on and after that day, as if it had been made under that paragraph of that subsection of the _Quarantine Act 1908_ as amended by this Act.
 
@@ -12975,6 +12779,38 @@ Any regulations made under paragraph 87(1)(lb) of the _Quarantine Act 1908_ that
 ## 323  Saving of regulations
 
 Any regulations made under paragraph 87(1)(ra) or (rb)) of the _Quarantine Act 1908_ that were in force immediately before the commencement of this Schedule continue in force as if they had been made under paragraph 87(1)(ra) or (rb), as the case may be, substituted by item 322.
+
+* * *
+
+_Timor Gap Treaty (Transitional Arrangements) Act 2000 (No. 25, 2000)_
+
+##### <a id="4"></a>4  The transition time
+
+                   In this Act:
+
+                    <a name="transition-time"></a>**_transition time_** means 1.23 am Australian Central Standard Time on 26 October 1999.
+
+Note:          This time corresponds to the time in New York when the United Nations Security Council adopted Resolution 1272 (1999), which established UNTAET and gave it responsibility for the administration of East  Timor. In 2000 the text of the Resolution was available in the Library of the Department of Foreign Affairs and Trade and accessible on the Internet through the Department’s or the United Nations’ world-wide web site.
+
+##### <a id="5"></a>5  Validity of things done by the Ministerial Council and the Joint Authority
+
+             (1)  Any thing done by the Ministerial Council or the Joint Authority, during the period commencing on the transition time and ending on 5.55 pm Australian Central Standard Time on 10 February 2000, is not invalid:
+
+                     (a)  merely because the Republic of Indonesia ceased to be a party to the Treaty, and UNTAET became a party to the Treaty, at the transition time; or
+
+                     (b)  merely because of an invalidity in the membership of the Ministerial Council or the Joint Authority.
+
+             (2)  In this section:
+
+                    <a name="ministeri-council"></a><a name="joint-author"></a>**_Joint Authority_** and **_Ministerial Council_** have the meanings given them by subsection 5(1) of the _Petroleum (Timor Gap Zone of Cooperation) Act 1990_.
+
+                    <a name="treati"></a>**_Treaty_** has the meaning given by subsection 5(1) of the _Petroleum (Australia-Indonesia Zone of Cooperation) Act 1990_ (as in force immediately before the transition time).
+
+                    <a name="untaet"></a>**_UNTAET_** means the United Nations Transitional Administration in East Timor.
+
+##### <a id="6"></a>6  Protection against retrospective criminal liability
+
+                   A person does not commit an offence if the person would not have committed the offence had the amendments made by the items in Schedules 1 and 2 (other than items 18 to 25 of Schedule 2) commenced on the day on which this Act received the Royal Assent (rather than commencing at the transition time).
 
 * * *
 
