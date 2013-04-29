@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00545/Html/AusInstMariScience72_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00432/Html/AusInstMariScience72_WD02_image001.gif)
 
 # Australian Institute of Marine Science Act 1972
 
 **Act No. 55 of 1972 as amended**
 
-This compilation was prepared on 10 September 2007
+This compilation was prepared on 3 July 2007
  taking into account amendments up to Act No. 84 of 2007
 
 The text of any of those amendments not in force 
@@ -78,6 +78,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [27](#27).          Termination of appointment
 
+[28](#28).          Vacation of office of Chief Executive Officer
+
 [29](#29).          Chief Executive Officer not to undertake any other work
 
 [30](#30).          Acting Chief Executive Officer
@@ -95,6 +97,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [36](#36).          Moneys payable to Institute
 
 [38](#38).          Application of moneys
+
+[42](#42).          Limit on contracts
 
 [42A](#42A).       Borrowing from Commonwealth
 
@@ -140,7 +144,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 ##### <a id="4"></a>4  Repeal
 
-                   The _Australian Institute of Marine Science Act 1970_ is repealed.
+                   The Australian Institute of Marine Science Act 1970 is repealed.
 
 ##### <a id="5"></a>5  Interpretation
 
@@ -426,7 +430,7 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
                    The Chief Executive Officer:
 
-                     (a)  shall not take part in any deliberation or decision of the Council with respect to him or her; and
+                     (a)  shall not take part in any deliberation or decision of the Council with respect to the grant of leave to him or her by the Council; and
 
                      (b)  shall be disregarded for the purpose of constituting a quorum of the Council for any such deliberation or decision.
 
@@ -434,11 +438,11 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
 ##### <a id="21"></a>21  Chief Executive Officer of Institute
 
-                   There shall be a Chief Executive Officer of the Institute, who shall be appointed by the Council.
+                   There shall be a Chief Executive Officer of the Institute, who shall be appointed by the Governor-General on the recommendation of the Council.
 
 ##### <a id="22"></a>22  Tenure of office
 
-                   Subject to this Act, the Chief Executive Officer holds office for such period, not exceeding 5 years, as is specified in the instrument of his or her appointment and on such terms and conditions as the Council determines, but is eligible for re-appointment.
+             (1)  Subject to this Act, the Chief Executive Officer holds office for such period, not exceeding 7 years, as is specified in the instrument of his or her appointment and on such terms and conditions as the Governor-General determines, but is eligible for re-appointment.
 
 ##### <a id="23"></a>23  Functions of Chief Executive Officer
 
@@ -456,37 +460,39 @@ the Governor-General shall, by notice published in the _Gazette_, declare that t
 
              (1)  The Chief Executive Officer has such recreation leave entitlements as are determined by the Remuneration Tribunal.
 
-             (2)  The Council may grant the Chief Executive Officer leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Council determines.
+             (2)  The Council may grant the Chief Executive Officer leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Minister determines.
 
 ##### <a id="26"></a>26  Resignation
 
-                   The Chief Executive Officer may resign from office by writing signed by the Chief Executive Officer and delivered to the Council.
+                   The Chief Executive Officer may resign from office by writing signed by the Chief Executive Officer and delivered to the Governor-General.
 
 ##### <a id="27"></a>27  Termination of appointment
 
-             (1)  The Council may terminate the appointment of the Chief Executive Officer for misbehaviour or physical or mental incapacity.
+                   The Governor-General may retire the Chief Executive Officer on the ground of invalidity.
 
-             (2)  The Council may terminate the appointment of the Chief Executive Officer if:
+##### <a id="28"></a>28  Vacation of office of Chief Executive Officer
 
-                     (a)  the Chief Executive Officer becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
+                   If the Chief Executive Officer:
 
-                     (b)  the Chief Executive Officer is absent, except on leave of absence granted by the Council, from 3 consecutive meetings of the Council; or
+                     (a)  becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit;
 
-                     (c)  the Chief Executive Officer is absent from duty, except on leave of absence granted by the Council, for 14 consecutive days or for 28 days in any 12 months; or
+                     (b)  is guilty of misbehaviour;
 
-                     (d)  the Chief Executive Officer fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_; or
+                     (c)  is absent from duty, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
 
-                     (e)  the Council is satisfied that the performance of the Chief Executive Officer has been unsatisfactory for a significant period.
+                     (d)  fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_;
+
+the Governor-General shall remove the Chief Executive Officer from office.
 
 ##### <a id="29"></a>29  Chief Executive Officer not to undertake any other work
 
-             (1)  The Chief Executive Officer shall not engage in paid employment outside the duties of his or her office except with the approval of the Council.
+             (1)  The Chief Executive Officer shall not engage in paid employment outside the duties of his or her office except with the approval of the Minister.
 
-             (2)  The Council shall not give an approval for the purposes of subsection (1) unless satisfied that the paid employment will not interfere with the performance of the duties of the Chief Executive Officer under this Act.
+             (2)  The Minister shall not give an approval for the purposes of subsection (1) unless satisfied that the paid employment will not interfere with the performance of the duties of the Chief Executive Officer under this Act.
 
 ##### <a id="30"></a>30  Acting Chief Executive Officer
 
-             (1)  The Council may appoint a person to act in the office of Chief Executive Officer:
+             (1)  The Minister may appoint a person to act in the office of Chief Executive Officer:
 
                      (a)  during a vacancy in the office; or
 
@@ -496,15 +502,15 @@ but a person appointed to act during a vacancy shall not continue so to act for 
 
              (2)  An appointment of a person under subsection (1) may be expressed to have effect only in such circumstances as are specified in the instrument of appointment.
 
-             (3)  Where a person is acting in the office of Chief Executive Officer in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Council otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever first happens.
+             (3)  Where a person is acting in the office of Chief Executive Officer in accordance with paragraph (1)(b) and the office becomes vacant while the person is so acting, then, subject to subsection (2), the person may continue so to act until the Minister otherwise directs, the vacancy is filled or a period of 12 months from the day on which the vacancy occurred expires, whichever first happens.
 
-             (4)  The Council may:
+             (4)  The Minister may:
 
                      (a)  determine the terms and conditions of appointment, including remuneration and allowances, of a person acting in the office of Chief Executive Officer; and
 
                      (b)  terminate such an appointment at any time.
 
-             (5)  An appointment of a person under subsection (1) ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Council.
+             (5)  An appointment of a person under subsection (1) ceases to have effect if the person resigns the appointment by writing signed by the person and delivered to the Minister.
 
              (6)  While a person is acting in the office of Chief Executive Officer, the person has and may exercise all the powers, and shall perform all the functions, of the Chief Executive Officer.
 
@@ -545,6 +551,14 @@ but a person appointed to act during a vacancy shall not continue so to act for 
                      (c)  in making any other payments which the Institute is authorised or required to make under this Act or any other law.
 
              (2)  Subsection (1) does not prevent investment of surplus money of the Institute under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
+
+##### <a id="42"></a>42  Limit on contracts
+
+                   The Institute shall not, except with the approval of the Minister, enter into a contract involving the payment by the Institute of an amount  exceeding:
+
+                     (a)  $1 million; or
+
+                     (b)  if a higher amount is specified in the regulations—that higher amount.
 
 ##### <a id="42A"></a>42A  Borrowing from Commonwealth
 
@@ -1037,8 +1051,7 @@ Remainder: Royal Assent</div>
     <div>21 June 2007</div>
   </td>
   <td>
-    <div>Schedules 1–3: 10 Sept 2007 ( <i>see</i>F2007L03555) 
-Remainder: Royal Assent</div>
+    <div>Schedule 1: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 1 (item 12) \[ <i>see</i>Table A]</div>
@@ -1327,7 +1340,7 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 54, 2005; No. 84, 2007</div>
+    <div>am. No. 54, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1359,7 +1372,7 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
     <div>S. 21</div>
   </td>
   <td>
-    <div>am. No. 54, 2005; No. 84, 2007</div>
+    <div>am. No. 54, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1367,7 +1380,7 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
     <div>S. 22</div>
   </td>
   <td>
-    <div>am. No. 76, 1986; No. 159, 2001; No. 54, 2005; No. 84, 2007</div>
+    <div>am. No. 76, 1986; No. 159, 2001; No. 54, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1423,7 +1436,7 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 54, 2005; No. 84, 2007</div>
+    <div>am. No. 146, 1999; No. 54, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1439,7 +1452,7 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 54, 2005; No. 84, 2007</div>
+    <div>am. No. 54, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1452,14 +1465,6 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 84, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 28</div>
   </td>
   <td>
@@ -1468,26 +1473,10 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 84, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 28</div>
   </td>
   <td>
     <div>am. Nos. 76 and 168, 1986; No. 122, 1991; No. 152, 1997; No. 156, 1999; No. 54, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 84, 2007</div>
   </td>
 </tr>
 <tr>
@@ -1503,7 +1492,7 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
     <div>S. 29</div>
   </td>
   <td>
-    <div>am. No. 76, 1986; No. 54, 2005; No. 84, 2007</div>
+    <div>am. No. 76, 1986; No. 54, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1527,7 +1516,7 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
     <div></div>
   </td>
   <td>
-    <div>am. No. 159, 2001; No. 54, 2005; No. 84, 2007</div>
+    <div>am. No. 159, 2001; No. 54, 2005</div>
   </td>
 </tr>
 <tr>
@@ -1668,14 +1657,6 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 84, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 42A–42E</div>
   </td>
   <td>
@@ -1787,6 +1768,76 @@ _(h)_     The _Australian__Institute__of__Marine   Science Act__1972_ wa
   </td>
 </tr></table>
 
+### Note 2
+
+_Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 2007)_
+
+The following amendments commence on 21 December 2007 unless proclaimed earlier:
+
+## Schedule 1
+
+## 1  Paragraph 20A(a)
+
+Omit “the grant of leave to him or her by the Council”, substitute “him or her”.
+
+## 2  Section 21
+
+Omit “the Governor-General on the recommendation of”.
+
+## 3  Subsection 22(1)
+
+Omit “(1)”.
+
+## 4  Subsection 22(1)
+
+Omit “7”, substitute “5”.
+
+## 5  Subsection 22(1)
+
+Omit “Governor-General”, substitute “Council”.
+
+## 6  Subsection 25(2)
+
+Omit “Minister”, substitute “Council”.
+
+## 7  Section 26
+
+Omit “Governor-General”, substitute “Council”.
+
+## 8  Sections 27 and 28
+
+Repeal the sections, substitute:
+
+##### <a id="27"></a>27  Termination of appointment
+
+             (1)  The Council may terminate the appointment of the Chief Executive Officer for misbehaviour or physical or mental incapacity.
+
+             (2)  The Council may terminate the appointment of the Chief Executive Officer if:
+
+                     (a)  the Chief Executive Officer becomes bankrupt, applies to take the benefit of any law for the relief of bankrupt or insolvent debtors, compounds with creditors or makes an assignment of remuneration for their benefit; or
+
+                     (b)  the Chief Executive Officer is absent, except on leave of absence granted by the Council, from 3 consecutive meetings of the Council; or
+
+                     (c)  the Chief Executive Officer is absent from duty, except on leave of absence granted by the Council, for 14 consecutive days or for 28 days in any 12 months; or
+
+                     (d)  the Chief Executive Officer fails, without reasonable excuse, to comply with his or her obligations under section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_; or
+
+                     (e)  the Council is satisfied that the performance of the Chief Executive Officer has been unsatisfactory for a significant period.
+
+## 9  Section 29
+
+Omit “Minister” (wherever occurring), substitute “Council”.
+
+## 10  Subsections 30(1), (3), (4) and (5)
+
+Omit “Minister”, substitute “Council”.
+
+## 11  Section 42
+
+Repeal the section.
+
+As at 3 July 2007 the amendments are not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -1812,6 +1863,8 @@ In determining the functions and powers that the Institute had before the commen
 * * *
 
 _Governance Review Implementation (Science Research Agencies) Act 2007 (No. 84, 2007)_
+
+The following provision commences on 21 December 2007 unless proclaimed earlier:
 
 ## Schedule 1
 
