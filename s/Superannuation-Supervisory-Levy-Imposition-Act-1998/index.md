@@ -1,15 +1,12 @@
 
 Superannuation Supervisory Levy Imposition Act 1998
 Act No. 60 of 1998 as amended 
-Consolidated as in force on 21 October 1999
-(includes amendments up to Act No. 121 of 1999)
-Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
-  
-  
-  
+Consolidated as in force on 19 July 1999
+(includes amendments up to Act No. 44 of 1999)
+Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
 Contents
-1	Short title [see Note 1]	1
-2	Commencement [see Note 1]	1
+1	Short title	1
+2	Commencement	1
 3	Act binds the Crown	1
 4	External Territories	1
 5	Definitions	1
@@ -17,11 +14,12 @@ Contents
 7	Amount of levy	2
 8	Calculation of indexation factor	3
 9	Regulations	4
-Notes		5
+Notes 		5
 
 An Act to impose a levy on trustees of certain superannuation entities
-  
-  
+Do not delete : Chapter placeholder
+Do not delete : Part placeholder
+Do not delete : Division placeholder
 1  Short title [see Note 1]
 		This Act may be cited as the Superannuation Supervisory Levy Imposition Act 1998.
 2  Commencement [see Note 1]
@@ -43,7 +41,7 @@ statutory upper limit means:
 	(b)	in relation to a later financial year—the amount calculated by multiplying the statutory upper limit for the previous financial year by the indexation factor for the later financial year.
 superannuation entity means an entity that:
 	(a)	is a superannuation entity within the meaning of the Superannuation Industry (Supervision) Act 1993; and
-	(b)	is not a self managed superannuation fund within the meaning of that Act.
+	(b)	is not an excluded superannuation fund within the meaning of that Act.
 trustee, in relation to a superannuation entity, means the person who is the trustee of the entity for the purposes of the Superannuation Industry (Supervision) Act 1993.
 6  Imposition of superannuation industry supervisory levy
 		Levy payable in accordance with subsection 8(6) of the Financial Institutions Supervisory Levies Collection Act 1998 is imposed.
@@ -83,26 +81,24 @@ Application, saving or transitional provisions
 Superannuation Supervisory Levy Imposition Act 1998
 60, 1998
 29 June 1998
-1 July 1998 (see s. 2 and Gazette 1998, No. S316)
+1 July 1998 (see Gazette 1998, No. S316) (a)
 
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999
-44, 1999
-17 June 1999
+44, 1998
+17 June 1998
 Schedule 6 (item 28), Schedule 8 (items 22, 23): Royal Assent
-Sch. 8 (items 22, 23)
-Superannuation Legislation Amendment Act (No. 3) 1999
-121, 1999
-8 Oct 1999
-Schedule 2 (items 41, 42): Royal Assent (a)
-Sch. 2 (item 42) 
-(a)	The Superannuation Supervisory Levy Imposition Act 1998 was amended by Schedule 2 (item 41) only of the Superannuation Legislation Amendment Act (No. 3) 1999, subsection 2(1) of which provides as follows:
-	(1)	Subject to this section, this Act commences on the day on which it receives the Royal Assent.
+Sch. 8 (items 22, 23) [see Table A]
+
+
+
+
+
+(a)	Section 2(1) of the Superannuation Supervisory Levy Imposition Act 1998 provides as follows:
+	(1)	This Act commences on the commencement of the Australian Prudential Regulation Authority Act 1998.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-S. 5	
-am. No. 121, 1999
 S. 8	
 am. No. 44, 1999
 
@@ -112,6 +108,7 @@ am. No. 44, 1999
 Table A
 Application, saving or transitional provisions
 Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999 (No. 44, 1999)
+
 Schedule 8
 22  Regulations may deal with transitional, saving or application matters
 (1)	The regulations may deal with matters of a transitional, saving or application nature relating to:
@@ -147,13 +144,4 @@ replaced legislation means:
 23  Power to make regulations
 The Governor‑General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
-Superannuation Legislation Amendment Act (No. 3) 1999 (No. 121, 1999)
-Schedule 2
-42  Application provisions
-(1)	The Superannuation (Excluded Funds) Taxation Act 1987 continues to apply to the lodgment of a return in respect of the 1998‑99 year of income as if the repeals and amendments of provisions of that Act made by this Schedule had not happened.
-(2)	The amendments of the Financial Institutions Supervisory Levies Collection Act 1998 made by this Schedule apply to an entity in respect of the financial year beginning on 1 July 2000 and subsequent financial years.
-(3)	Until 1 April 2000, the Superannuation (Resolution of Complaints) Act 1993 continues to apply to a fund that was an excluded fund immediately before the later of:
-	(a)	1 July 1999; and
-	(b)	the day on which this Act received the Royal Assent;
-as if the amendments of that Act made by this Schedule had not happened.
 
