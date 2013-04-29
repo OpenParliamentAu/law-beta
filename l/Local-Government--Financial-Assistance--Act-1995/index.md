@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00552/Html/c64b5382-739b-44f2-be08-03cbca254552_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image001.gif)
 
 # Local Government (Financial Assistance) Act 1995
 
 **Act No. 86 of 1995 as amended**
 
-This compilation was prepared on 19 July 2012
- taking into account amendments up to Act No. 82 of 2012
+This compilation was prepared on 1 June 2009
+ taking into account amendments up to Act No. 36 of 2009
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -14,7 +14,7 @@ The operation of amendments that have been incorporated may be
  affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney‑General’s Department, Canberra
+ Attorney-General’s Department, Canberra
 
 # Contents
 
@@ -62,10 +62,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [18](#18).          Regulations
 
-[18A](#18A).       Recoverable payments
-
-[18B](#18B).       Reports about recoverable payments
-
 [19](#19).          Appropriation
 
 **Part 4—Repeal And Transitional**
@@ -78,17 +74,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [23](#23).          Estimate of factor by Treasurer
 
-[24](#24).          Modification of State principles applicable to 1995‑1996
+[24](#24).          Modification of State principles applicable to 1995-1996
 
-[25](#25).          Modification of principles applicable to 1995‑1996 in respect of section 12 payments
+[25](#25).          Modification of principles applicable to 1995-1996 in respect of section 12 payments
 
 [26](#26).          Transitional modification of national principles
 
 [27](#27).          Avoidance of double payments to Australian Capital Territory
 
-[28](#28).          Overpayments and underpayments of general grants in respect of 1994‑1995
+[28](#28).          Overpayments and underpayments of general grants in respect of 1994-1995
 
-[29](#29).          Overpayments and underpayments of other grants in respect of 1994‑1995
+[29](#29).          Overpayments and underpayments of other grants in respect of 1994-1995
 
 [30](#30).          Estimates of population by Statistician
 
@@ -168,7 +164,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                               (i)  in relation to a State other than the Australian Capital Territory—the amount that would have been payable to the State under section 10A of the repealed Act for the year immediately preceding the current year if the amount had been calculated using the final factor within the meaning of that Act for that preceding year instead of the estimated factor for that preceding year; or
 
-                             (ii)   in relation to the Australian Capital Territory—an amount determined by the Treasurer in writing; or
+                             (ii)   in relation to the Australian   Capital Territory—an amount determined by the Treasurer in writing; or
 
                      (b)  if the current year is a later year—the amount that would have been payable to the State under section 12 of this Act for the year immediately preceding the current year if the amount had been calculated using the final factor for that preceding year instead of the estimated factor for that preceding year.
 
@@ -210,7 +206,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="statistician"></a>**_Statistician_** means the Australian Statistician.
 
-                    <a name="year"></a>**_year_** means the financial year beginning on 1 July 1995 or a       later financial year.
+                    <a name="year"></a>**_year_** means the financial year beginning on 1 July 1995 or a  later financial year.
 
              (3)  The Treasurer has power to make written determinations for the purposes of this Act.
 
@@ -228,7 +224,7 @@ the following apply:
 
                      (c)  the expression **_population of the State_** means the population of the State on 31 December in the year immediately before the current year as set out in an estimate of that population on that date made by the Statistician for the purposes of this section;
 
-                     (d)  the expression **_population of   Australia_** means the total population of all of the States on 31 December in the year immediately before the current year as set out in an estimate of that population on that date made by the Statistician for the purposes of this section.
+                     (d)  the expression **_population of_****_Australia_** means the total population of all of the States on 31 December in the year immediately before the current year as set out in an estimate of that population on that date made by the Statistician for the purposes of this section.
 
              (2)  The Statistician, in making an estimate for the purposes of this section of the population of a State, must have regard to the latest statistics in relation to the population available to the Statistician on the day on which the estimate is made.
 
@@ -238,7 +234,7 @@ the following apply:
 
              (1)  In this section:
 
-                    <a name="state"></a>**_State_** does not include the Australian Capital Territory.
+                    <a name="state"></a>**_State_** does not include the Australian   Capital Territory.
 
              (2)  If:
 
@@ -314,17 +310,17 @@ the following apply:
 
                      (a)  calculating, to 4 decimal places, the factor using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00552/Html/c64b5382-739b-44f2-be08-03cbca254552_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image004.gif)
 
                             where:
 
                             **_index number_** means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Statistician in respect of the March quarter in the current year.
 
-                            **_population of Australia_** has the meaning given by paragraph 4A(1)(d).
+                            **_population of_****_Australia_** has the meaning given by paragraph 4A(1)(d).
 
                             **_previous index number_** means the index number in respect of the March quarter in the year immediately before the current year.
 
-                            **_previous population of Australia_** means the population of Australia that was used in working out the factor under this section in relation to the year immediately before the current year; and
+                            **_previous population of_****_Australia_** means the population of Australia that was used in working out the factor under this section in relation to the year immediately before the current year; and
 
                      (b)  if the factor calculated under paragraph (a) would, if it were calculated to 5 decimal places, end in a number greater than 4—increasing that factor by 0.0001; and
 
@@ -352,11 +348,11 @@ the following apply:
 
                      (a)  if the current year is the year beginning on 1 July 1995, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00552/Html/c64b5382-739b-44f2-be08-03cbca254552_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image005.gif)
 
                      (b)  if the current year is a later year, the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00552/Html/c64b5382-739b-44f2-be08-03cbca254552_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image006.gif)
 
                             where:
 
@@ -388,7 +384,7 @@ Note:     For **_estimated initial amount_** and **_estimated factor_** se
 
                      (a)  if the current year is the year beginning on 1 July 1995, the amount (the **_final grant amount_**) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2012C00552/Html/c64b5382-739b-44f2-be08-03cbca254552_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00214/Html/LocalGovtFinanAssis1995WD02_image007.gif)
 
                      (b)  if the current year is a later year, the amount (the **_final grant amount_**) worked out using the formula:
 
@@ -418,7 +414,7 @@ Example:    The Minister may decide that an amount payable to a State in r
 
           (6B)  If the Minister makes a decision under subsection (6A) in relation to a State, the Minister must, as soon as practicable, notify the Treasurer of the State in writing of the decision.
 
-             (7)  If a State is liable to pay an amount to the Commonwealth under subsection (5) in respect of a year, one‑quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 9 in respect of the following year.
+             (7)  If a State is liable to pay an amount to the Commonwealth under subsection (5) in respect of a year, one-quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 9 in respect of the following year.
 
 ##### <a id="11"></a>11  Allocation among local governing bodies—section 9 payments
 
@@ -498,7 +494,7 @@ Example:    The Minister may decide that an amount payable to a State in r
 
           (4B)  If the Minister makes a decision under subsection (4A) in relation to a State, the Minister must, as soon as practicable, notify the Treasurer of the State in writing of the decision.
 
-             (5)  If a State is liable to pay an amount to the Commonwealth under subsection (3), one‑quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 12 in respect of the following year.
+             (5)  If a State is liable to pay an amount to the Commonwealth under subsection (3), one-quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 12 in respect of the following year.
 
 ##### <a id="14"></a>14  Allocation among local governing bodies—section 12 payments
 
@@ -546,7 +542,7 @@ Example:    The Minister may decide that an amount payable to a State in r
 
                               (i)  a statement, in a form approved by the Minister, setting out the payments made by the State during the year ending on that date in accordance with this Act, and the dates of the payments; and
 
-                             (ii)  a certificate by the Auditor‑General of the State certifying that, in his or her opinion, the contents of the statement are correct; and
+                             (ii)  a certificate by the Auditor-General of the State certifying that, in his or her opinion, the contents of the statement are correct; and
 
                      (c)  a condition that, if the Minister tells the Treasurer of the State that the Minister is satisfied that the State has, with respect to the whole or a part of the amount, failed to fulfil any of the conditions applicable under paragraphs (a), (aa) and (b) to the payment of the amount, the State will repay to the Commonwealth any amount determined by the Minister that is not more than the amount in respect of which the Minister is so satisfied.
 
@@ -592,91 +588,11 @@ Note:          The first report under this subsection will relat
 
 ##### <a id="18"></a>18  Regulations
 
-                   The Governor‑General may make regulations prescribing matters:
+                   The Governor-General may make regulations prescribing matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act.
-
-##### <a id="18A"></a>18A  Recoverable payments
-
-             (1)  If, apart from this subsection, the Commonwealth does not have power under this Act to pay an amount (the **_relevant amount_**) to a State purportedly as an amount under this Act, then the Commonwealth may pay the relevant amount to the State.
-
-Recovery
-
-             (2)  If:
-
-                     (a)  a payment is made under subsection (1) to a State; and
-
-                     (b)  the State is entitled to receive an amount under this Act;
-
-then:
-
-                     (c)  the relevant amount; or
-
-                     (d)  such part of the relevant amount as the Minister determines;
-
-may, if the Minister so directs, be recovered by deduction from the amount mentioned in paragraph (b).
-
-##### <a id="18B"></a>18B  Reports about recoverable payments
-
-             (1)  During the applicable publication period for a reporting period, the Secretary of the Department must cause to be published, in such manner as the Secretary thinks fit, a report that sets out:
-
-                     (a)  the number of payments made under subsection 18A(1) during the reporting period; and
-
-                     (b)  the total amount of those payments.
-
-             (2)  However, a report is not required if the number mentioned in paragraph (1)(a) is zero.
-
-Deferred reporting
-
-             (3)  Subsection (1) of this section does not require a report to deal with a payment unless, before the preparation of the report, a Departmental official was aware the payment was made under subsection 18A(1).
-
-             (4)  For the purposes of this section, if:
-
-                     (a)  a payment was made under subsection 18A(1) in a reporting period; and
-
-                     (b)  because of subsection (3) of this section, subsection (1) of this section did not require a report to deal with the payment; and
-
-                     (c)  during a later reporting period, a Departmental official becomes aware that the payment was made under subsection 18A(1);
-
-the payment is subject to a **_deferred reporting obligation_** in relation to the later reporting period.
-
-             (5)  If one or more payments made under subsection 18A(1) during a reporting period are subject to a deferred reporting obligation in relation to a later reporting period, the Secretary of the Department must, during the applicable publication period for the later reporting period:
-
-                     (a)  prepare a report that sets out:
-
-                              (i)  the number of those payments; and
-
-                             (ii)  the total amount of those payments; and
-
-                            (iii)  the reporting period during which the payments were made; and
-
-                     (b)  if a report is required under subsection (1) in relation to the later reporting period—include the paragraph (a) report in the subsection (1) report; and
-
-                     (c)  if paragraph (b) does not apply—publish, in such manner as the Secretary thinks fit, the paragraph (a) report.
-
-Reporting period
-
-             (6)  For the purposes of this section, a **_reporting period_** is:
-
-                     (a)  a financial year; or
-
-                     (b)  if a shorter recurring period is specified in a legislative instrument made by the Minister—that period.
-
-Applicable publication period
-
-             (7)  For the purposes of this section, the **_applicable publication period_** for a reporting period is the period of:
-
-                     (a)  4 months; or
-
-                     (b)  if a lesser number of months is specified, in relation to the reporting period, in a legislative instrument made by the Minister—that number of months;
-
-beginning immediately after the end of the reporting period.
-
-Departmental official
-
-             (8)  For the purposes of this section, **_Departmental official_** means an official (within the meaning of the _Financial Management and Accountability Act 1997_) who is in the Department or is part of the Department.
 
 ##### <a id="19"></a>19  Appropriation
 
@@ -702,11 +618,11 @@ Departmental official
 
                    If the Treasurer made an estimate before the commencement of this Act under section 5 of the repealed Act in relation to the year beginning on 1 July 1995, the estimate is taken to have been made under subsection 7(3) of this Act.
 
-##### <a id="24"></a>24  Modification of State principles applicable to 1995‑1996
+##### <a id="24"></a>24  Modification of State principles applicable to 1995-1996
 
                    A State may, with the Minister's written approval, modify any of the principles referred to in subparagraph 11(2)(d)(i).
 
-##### <a id="25"></a>25  Modification of principles applicable to 1995‑1996 in respect of section 12 payments
+##### <a id="25"></a>25  Modification of principles applicable to 1995-1996 in respect of section 12 payments
 
                    The Minister may modify any of the principles referred to in subparagraph 14(2)(c)(i).
 
@@ -716,19 +632,19 @@ Departmental official
 
 ##### <a id="27"></a>27  Avoidance of double payments to Australian Capital Territory
 
-                   The total of the amounts that, apart from this section, would be payable under this Act to the Australian Capital Territory in respect of the year beginning on 1 July 1995 is reduced by any amount or amounts paid to that Territory for local government purposes in respect of that year under the _Appropriation Act (No. 2) 1995‑96_.
+                   The total of the amounts that, apart from this section, would be payable under this Act to the Australian Capital Territory in respect of the year beginning on 1 July 1995 is reduced by any amount or amounts paid to that Territory for local government purposes in respect of that year under the _Appropriation Act (No. 2) 1995-96_.
 
-##### <a id="28"></a>28  Overpayments and underpayments of general grants in respect of 1994‑1995
+##### <a id="28"></a>28  Overpayments and underpayments of general grants in respect of 1994-1995
 
-             (1)  If an amount is payable to a State under subsection 8(1) of the repealed Act as it continues to apply under subsection 20(2) of this Act in relation to the year that began on 1 July 1994, the amount is to be paid to the State in the year beginning on 1 July 1995 by equal quarterly instalments at the times when instalments to which the State is entitled under section 9 of this Act in respect of that last‑mentioned year are paid.
+             (1)  If an amount is payable to a State under subsection 8(1) of the repealed Act as it continues to apply under subsection 20(2) of this Act in relation to the year that began on 1 July 1994, the amount is to be paid to the State in the year beginning on 1 July 1995 by equal quarterly instalments at the times when instalments to which the State is entitled under section 9 of this Act in respect of that last-mentioned year are paid.
 
-             (2)  If a State is liable to pay an amount to the Commonwealth under subsection 8(2) of the repealed Act as it continues to apply under subsection 20(2) in this Act in relation to the year that began on 1 July 1994, one‑quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 9 of this Act in respect of the year beginning on 1 July 1995 and, if an amount is so deducted, then, despite the deduction, an amount equal to the deduction is taken, for the purposes of this Act, to have been paid to the State.
+             (2)  If a State is liable to pay an amount to the Commonwealth under subsection 8(2) of the repealed Act as it continues to apply under subsection 20(2) in this Act in relation to the year that began on 1 July 1994, one-quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 9 of this Act in respect of the year beginning on 1 July 1995 and, if an amount is so deducted, then, despite the deduction, an amount equal to the deduction is taken, for the purposes of this Act, to have been paid to the State.
 
-##### <a id="29"></a>29  Overpayments and underpayments of other grants in respect of 1994‑1995
+##### <a id="29"></a>29  Overpayments and underpayments of other grants in respect of 1994-1995
 
-             (1)  If an amount is payable to a State under subsection 10B(1) of the repealed Act as it continues to apply under subsection 20(2) of this Act in relation to the year that began on 1 July 1994, the amount is to be paid to the State in the year beginning on 1 July 1995 by equal quarterly instalments at the times when instalments to which the State is entitled under section 12 of this Act in respect of that last‑mentioned year are paid.
+             (1)  If an amount is payable to a State under subsection 10B(1) of the repealed Act as it continues to apply under subsection 20(2) of this Act in relation to the year that began on 1 July 1994, the amount is to be paid to the State in the year beginning on 1 July 1995 by equal quarterly instalments at the times when instalments to which the State is entitled under section 12 of this Act in respect of that last-mentioned year are paid.
 
-             (2)  If a State is liable to pay an amount to the Commonwealth under subsection 10B(2) of the repealed Act as it continues to apply under subsection 20(2) in this Act in relation to the year that began on 1 July 1994, one‑quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 12 of this Act in respect of the year beginning on 1 July 1995 and, if an amount is so deducted, then, despite the deduction, an amount equal to the deduction is taken, for the purposes of this Act, to have been paid to the State.
+             (2)  If a State is liable to pay an amount to the Commonwealth under subsection 10B(2) of the repealed Act as it continues to apply under subsection 20(2) in this Act in relation to the year that began on 1 July 1994, one-quarter of the amount is to be deducted from each quarterly instalment that, apart from this subsection, would be payable to the State under section 12 of this Act in respect of the year beginning on 1 July 1995 and, if an amount is so deducted, then, despite the deduction, an amount equal to the deduction is taken, for the purposes of this Act, to have been paid to the State.
 
 ##### <a id="30"></a>30  Estimates of population by Statistician
 
@@ -842,23 +758,6 @@ Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Framework Legislation Amendment Act (No. 2) 2012</div>
-  </td>
-  <td>
-    <div>82, 2012</div>
-  </td>
-  <td>
-    <div>28 June 2012</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 72): 29 June 2012</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 ## Table of Amendments
@@ -918,23 +817,7 @@ Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
+    <div>Ss. 7–9</div>
   </td>
   <td>
     <div>am. No. 71, 2000</div>
@@ -966,42 +849,10 @@ Royal Assent</div>
 </tr>
 <tr>
   <td>
-    <div>S. 14</div>
+    <div>Ss. 14, 15</div>
   </td>
   <td>
     <div>am. No. 71, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 71, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18A</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18B</div>
-  </td>
-  <td>
-    <div>ad. No. 82, 2012</div>
   </td>
 </tr></table>
 
@@ -1015,16 +866,16 @@ _Local Government (Financial Assistance) Amendment Act 2000 (No. 71, 2000)_
 
 ## 19  Application
 
-(1)       The amendments made by items 1 and 4 to 13 apply where the current year mentioned in section 8, 9 or 10 of the _Local Government (Financial Assistance) Act 1995_ as amended by this Schedule is the year beginning on 1 July 2000 or any later year.
+(1)        The amendments made by items 1 and 4 to 13 apply where the current year mentioned in section 8, 9 or 10 of the _Local Government (Financial Assistance) Act 1995_ as amended by this Schedule is the year beginning on 1 July 2000 or any later year.
 
-(2)       The amendment made by item 3 applies where the estimate mentioned in subsection 7(3A) of the _Local Government (Financial Assistance) Act 1995_, as inserted by that item, relates to the year beginning on 1 July 2000 or any later year.
+(2)        The amendment made by item 3 applies where the estimate mentioned in subsection 7(3A) of the _Local Government (Financial Assistance) Act 1995_, as inserted by that item, relates to the year beginning on 1 July 2000 or any later year.
 
-(3)       The amendments made by items 16 to 18 apply where the payment mentioned in paragraph 15(1)(aa) of the _Local Government (Financial Assistance) Act 1995_ as amended by this Schedule is made in the year beginning on 1 July 2001 or any later year.
+(3)        The amendments made by items 16 to 18 apply where the payment mentioned in paragraph 15(1)(aa) of the _Local Government (Financial Assistance) Act 1995_ as amended by this Schedule is made in the year beginning on 1 July 2001 or any later year.
 
 ## 20  Transitional
 
-For the purpose of causing a factor to be worked out under subsection 8(1) of the _Local Government (Financial Assistance) Act 1995_ as amended by this Schedule in relation to the year beginning on 1 July 2000, the definition of **_previous population of Australia_** in the formula in that subsection is replaced by the following definition:
+For the purpose of causing a factor to be worked out under subsection 8(1) of the _Local Government (Financial Assistance) Act 1995_ as amended by this Schedule in relation to the year beginning on 1 July 2000, the definition of **_previous population of_****_Australia_** in the formula in that subsection is replaced by the following definition:
 
-**_previous population of Australia_** means the population of Australia used in applying section 10 of this Act, as in force immediately before its amendment by the _Local Government (Financial Assistance) Amendment Act 2000_, in respect of the year beginning on 1 July 1999.
+**_previous population of_****_Australia_** means the population of Australia used in applying section 10 of this Act, as in force immediately before its amendment by the _Local Government (Financial Assistance) Amendment Act 2000_, in respect of the year beginning on 1 July 1999.
 
  
