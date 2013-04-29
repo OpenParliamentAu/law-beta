@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image001.gif)
 
 # Seafarers Rehabilitation and Compensation Act 1992
 
 **Act No. 234 of 1992 as amended**
 
-This compilation was prepared on 5 June 2009
- taking into account amendments up to Act No. 37 of 2009
+This compilation was prepared on 17 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -74,9 +74,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [22](#22).          Amounts of compensation
 
-[23](#23).          Indexation—Consumer Price Index
-
-[23A](#23A).       Indexation—Wage Price Index
+[23](#23).          Indexation
 
 [24](#24).          Liability to pay compensation
 
@@ -992,7 +990,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                    An amount of compensation payable under a provision of this Act in respect of an injury is, unless the contrary intention appears, in addition to an amount of compensation paid or payable under any other provision of this Act in respect of that injury.
 
-##### <a id="23"></a>23  Indexation—Consumer Price Index
+##### <a id="23"></a>23  Indexation
 
              (1)  In this section:
 
@@ -1000,7 +998,7 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
 
                     <a name="index-number"></a>**_index number_**, in relation to a quarter, means the All Groups Consumer Price Index number, being the weighted average of the 8 capital cities, published by the Australian Statistician in respect of that quarter.
 
-                    <a name="relev-amount"></a>**_relevant amount_** means the amount specified in subsection 30(2), 31(9), (10) or (11), 39(9), 41(2), 43(2) or (4) or 44(1).
+                    <a name="relev-amount"></a>**_relevant amount_** means the amount specified in subsection 29(3), (4) or (5), 30(2), 31(9), (10) or (11), 39(9), 41(2), 43(2) or (4) or 44(1).
 
                     <a name="relev-year"></a>**_relevant year_** means the period of 12 months starting on 1 July 1992, and each later period of 12 months.
 
@@ -1017,68 +1015,6 @@ Note:          Chapter 2 of the _Criminal Code_ sets out the
              (5)  The factor worked out in relation to a relevant year is the number (calculated to 3 decimal places) worked out by dividing the index number of the December quarter immediately before the relevant year by the index number for the December quarter immediately before that first-mentioned December quarter.
 
              (6)  If the factor worked out in relation to a relevant year would, if it were calculated to 4 decimal places, end with a number greater than 4, the factor in relation to that relevant year is taken to be the factor calculated to 3 decimal places in accordance with subsection (5) and increased by 0.001.
-
-##### <a id="23A"></a>23A  Indexation—Wage Price Index
-
-Definitions
-
-             (1)  In this section:
-
-                    <a name="index-number"></a>**_index number_**, in relation to a quarter, means:
-
-                     (a)  the Wage Price Index (total hourly rates of pay excluding bonuses/all sectors/all Australia/original) number published by the Australian Statistician in respect of that quarter; or
-
-                     (b)  if:
-
-                              (i)  a series of index numbers is prescribed for the purposes of this paragraph; and
-
-                             (ii)  the Australian Statistician publishes an index number in respect of the quarter; and
-
-                            (iii)  that index number belongs to the series;
-
-                            that index number.
-
-                    <a name="relev-amount"></a>**_relevant amount_** means the amount specified in subsection 29(3), (4) or (5).
-
-                    <a name="relev-year"></a>**_relevant year_** means:
-
-                     (a)  the financial year starting on 1 July 2009; or
-
-                     (b)  a later financial year.
-
-Indexation
-
-             (2)  If the indexation factor for a relevant year is greater than one, this Act has effect as if for each relevant amount there were substituted, on the first day of that relevant year, an amount calculated by multiplying by that factor:
-
-                     (a)  if, because of one or more other applications of this section, this Act has effect as if another amount or amounts were substituted for the relevant amount—the substituted amount or the last substituted amount; or
-
-                     (b)  in any other case—the relevant amount.
-
-Indexation factor
-
-             (3)  For the purposes of this section, the **_indexation factor_** for a relevant year is the number calculated, to 3 decimal places, using the formula:
-
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image002.gif)
-
-where:
-
-                    <a name="base-decemb-quarter"></a>**_base December quarter_** means the last December quarter before the reference December quarter.
-
-                    <a name="refer-decemb-quarter"></a>**_reference December quarter_** means the last December quarter before the relevant year.
-
-             (4)  If the number calculated under subsection (3) for a relevant year would, if it were calculated to 4 decimal places, end with a number greater than 4, the number so calculated is increased by 0.001.
-
-Other provisions
-
-             (5)  Subject to subsection (6), if at any time, whether before or after the commencement of this section, the Australian Statistician has published or publishes an index number for a quarter in substitution for an index number previously published for that quarter, the publication of the later index number is to be disregarded for the purposes of this section.
-
-             (6)  If at any time, whether before or after the commencement of this section, the Australian Statistician has changed or changes the reference base for:
-
-                     (a)  the Wage Price Index; or
-
-                     (b)  another index;
-
-then, for the purposes of the application of this section after the change took place or takes place, regard is to be had only to the index number published in terms of the new reference base.
 
 ##### <a id="24"></a>24  Liability to pay compensation
 
@@ -1150,7 +1086,7 @@ compensation is payable for the cost of the medical treatment, of such amount as
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -1198,13 +1134,13 @@ compensation of an amount equal to that expenditure is payable to the person who
 
              (3)  If the employee dies leaving dependants some or all of whom were, at the date of the employee’s death, wholly dependent on the employee:
 
-                     (a)  subject to this section and to sections 28 and 30, compensation of $412,000 is payable for the injury; and
+                     (a)  subject to this section and to sections 28 and 30, compensation of $151,167.84 is payable for the injury; and
 
                      (b)  that compensation is payable for the benefit of those dependants.
 
              (4)  If the employee dies without leaving dependants who were wholly dependent on the employee at the date of the employee’s death, but leaving dependants who were partly dependent on the employee at that date:
 
-                     (a)  subject to this section and to sections 28 and 30, compensation is payable for the injury of such amount, not exceeding $412,000, as is appropriate, having regard to any losses suffered by those dependants as a result of the cessation of the employee’s earnings; and
+                     (a)  subject to this section and to sections 28 and 30, compensation is payable for the injury of such amount, not exceeding $151,167.84, as is appropriate, having regard to any losses suffered by those dependants as a result of the cessation of the employee’s earnings; and
 
                      (b)  that compensation is payable for the benefit of those dependants.
 
@@ -1216,7 +1152,7 @@ compensation of an amount equal to that expenditure is payable to the person who
 
                      (c)  a prescribed child would, if the employee had not died, have been wholly or mainly dependent on the employee;
 
-compensation is payable at the rate of $113.30 per week and that compensation is payable to, or in accordance with the directions of:
+compensation is payable at the rate of $50.38 per week and that compensation is payable to, or in accordance with the directions of:
 
                      (d)  if the prescribed child is 18 or over—the child; or
 
@@ -1264,7 +1200,7 @@ from the date of the employee’s death or the date of the birth of the child, w
 
              (2)  Subject to subsection (3) and this Part (other than this section), compensation for the injury is payable to the employee, for each of the first 45 weeks (whether consecutive or otherwise) during which the employee is incapacitated, of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image003.gif)
 
 where:
 
@@ -1372,9 +1308,9 @@ subsection (10) applies to one of those children and subsection (11) applies
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image004.gif)
 
-where:
+here:
 
                     <a name="unadjusted-amount-compens"></a>**_Unadjusted amount of compensation_** means the amount of compensation that would have been payable to the employee for a week if:
 
@@ -1402,7 +1338,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image005.gif)
 
 where:
 
@@ -1440,7 +1376,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image006.gif)
 
 where:
 
@@ -1480,7 +1416,7 @@ where:
 
              (3)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image007.gif)
 
 where:
 
@@ -1586,7 +1522,7 @@ the employer must, on the written request of the employee made at any time befor
 
              (2)  The amount of compensation is an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image008.gif)
 
 where:
 
@@ -1698,7 +1634,7 @@ the employer must make a determination that any liability to make further paymen
 
              (2)  The amount of the lump sum is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image009.gif)
 
 where:
 
@@ -1786,7 +1722,7 @@ compensation is payable to the employee under this section during the period of 
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -1838,7 +1774,7 @@ make arrangements with an approved program provider for the provision of an appr
 
                      (b)  in relation to a journey by means of private motor vehicle—an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -2282,7 +2218,7 @@ the employer to whom the notice of claim is given may require the employee to un
 
           (4B)  If the journey referred to in paragraph (4)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -2600,7 +2536,7 @@ the employer may, by written notice given to the claimant, ask the claimant to g
 
              (5)  If the journey referred to in paragraph (3)(a) is made by means of a private motor vehicle, the expenditure referred to in that paragraph is taken to be the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image002.gif)
 
 where:
 
@@ -3228,7 +3164,7 @@ Subdelegation by CEO of Comcare
 
 ## Part 9—Miscellaneous
 
-##### <a id="126"></a>126  Employee to give information about prior employers
+##### <a id="126"></a>126  Employee to give information about prior employers
 
              (1)  An employer who has been given a claim under section 63 may, by written notice given to the claimant, ask the claimant to give the employer:
 
@@ -3396,7 +3332,7 @@ the recoverable amount may be deducted from the amount so payable.
 
 the compensation payable under this Act to, or for the benefit of, that person for the injury, loss or damage is the amount (if any) worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00225/Html/SeafarRehabComp92_WD02_image011.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00660/Html/SeafarRehabComp92_WD02_image010.gif)
 
 where:
 
@@ -3500,7 +3436,7 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 ##### <a id="143"></a>143  Regulations
 
-                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
+                   The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters:
 
                      (a)  required or permitted by this Act to be prescribed; or
 
@@ -3936,26 +3872,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 5 (item 39) \[ <i>see</i>Table A]</div>
   </td>
 </tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>Employment and Workplace Relations Amendment Act 2009</div>
-  </td>
-  <td>
-    <div>37, 2009</div>
-  </td>
-  <td>
-    <div>3 June 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 8–13): 4 June 2009</div>
-  </td>
-  <td>
-    <div>Sch. 1 (items 12, 13) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
 <tr height="0">
   <td></td>
   <td></td>
@@ -4253,26 +4169,10 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
 </tr>
 <tr>
   <td>
-    <div>Heading to s. 23</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 23</div>
   </td>
   <td>
-    <div>am. No. 10, 1997; No. 37, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23A</div>
-  </td>
-  <td>
-    <div>ad. No. 37, 2009</div>
+    <div>am. No. 10, 1997</div>
   </td>
 </tr>
 <tr>
@@ -4309,15 +4209,7 @@ _(j)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
 </tr>
 <tr>
   <td>
-    <div>S. 29</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1994; No. 37, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
+    <div>Ss. 29, 30</div>
   </td>
   <td>
     <div>am. No. 5, 1994</div>
@@ -5091,22 +4983,6 @@ _Same-Sex Relationships (Equal Treatment in Commonwealth Laws—General Law Refo
 
 (2)        The amendments of the _Seafarers Rehabilitation and Compensation Act 1992_ made by this Schedule apply in relation to a lump sum benefit payable in respect of the death of a person if the death occurs on or after the commencement of the amendments.
 
-* * *
-
-_Employment and Workplace Relations Amendment Act 2009 (No. 37, 2009)_
-
-## Schedule 1
-
-## 12  Application—compensation for the benefit of dependants
-
-(1)        The amendments made by items 8 and 9, to the extent that they relate to subsections 29(3) and (4) of the _Seafarers Rehabilitation and Compensation Act 1992_, apply in relation to the death of an employee that occurs on or after 1 July 2009.
-
-(2)        The amendment made by item 10 applies in relation to the death of an employee that occurs at or after the commencement of this item.
-
-## 13  Application—compensation for the benefit of children
-
-(1)        The amendments made by items 8 and 9, to the extent that they relate to subsection 29(5) of the _Seafarers Rehabilitation and Compensation Act 1992_, apply in relation to a payment for a week that begins on or after 1 July 2009.
-
-(2)        The amendment made by item 11 applies in relation to a payment for a week that begins at or after the commencement of this item.
+ 
 
  
