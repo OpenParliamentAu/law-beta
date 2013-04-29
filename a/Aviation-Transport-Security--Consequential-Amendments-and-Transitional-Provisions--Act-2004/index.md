@@ -1,52 +1,53 @@
-![](http://www.comlaw.gov.au/Details/C2005C00207/Html/AviationTransSecurityConseqAmendsTransProvAct2004_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00014/Html/AviatTransSecConsAmTransProv2004_files/image002.gif)
 
 # Aviation Transport Security (Consequential Amendments and Transitional Provisions) Act 2004
 
-**Act No. 9 of 2004 as amended** 
+**Act No. 9 of 2004 as amended<o:p></o:p>**
 
-This compilation was prepared on 10 March 2005
+This compilation was prepared on 17 December 2004<o:p></o:p>
 
 **\[This Act was amended by Act No. 149 of 2004]** 
 
-**Amendments from Act No. 149 of 2004**
+**Amendments from Act No. 149 of 2004<o:p></o:p>**
 
 \[Schedule 2 (item 2) amended Schedule 3 (item 1)
- Schedule 2 (item 2) commenced on 10 March 2005]
+ Schedule 2 (item 2) will commence on 10 March 2005 
+ unless proclaimed earlier]
 
-**Transitional Provision from Act No. 149 of 2004**
+**Transitional Provision from Act No. 149 of 2004<o:p></o:p>**
 
-[_see_ Schedule 2 (item 3) of Act No. 149 of 2004]
+[_see_ Schedule 2 (item 3) of Act No. 149 of 2004]<o:p></o:p>
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+ Attorney-General’s Department, Canberra<o:p></o:p>
 
 # Contents
 
-[1](#1).            Short title                                                                                             1
+[1](#1).            Short title                                                                                             
 
-[2](#2).            Commencement                                                                                   1
+[2](#2).            Commencement                                                                                   
 
-[3](#3).            Schedule(s)                                                                                           2
+[3](#3).            Schedule(s)                                                                                           
 
-**Schedule 1—Air Navigation Act 1920** 
+**Schedule 1—Air Navigation Act 1920<span style="mso-tab-count:1">                                                                         </span>** 
 
-**Schedule 2—Amendment of other Acts** 
+**Schedule 2—Amendment of other Acts<span style="mso-tab-count:1">                                                                      </span>**
 
-Air Services Act 1995                                                                                                  4
+Air Services Act 1995<span style="mso-tab-count:1">                                                                                                  </span>4<o:p></o:p>
 
-Australian Protective Service Act 1987                                                                  4
+Australian Protective Service Act 1987<span style="mso-tab-count:1">                                                                  </span>4<o:p></o:p>
 
-Crimes (Aviation) Act 1991                                                                                       4
+Crimes (Aviation) Act 1991<span style="mso-tab-count:1">                                                                                       </span>4<o:p></o:p>
 
-Sea Installations Act 1987                                                                                         4
+Sea Installations Act 1987<span style="mso-tab-count:1">                                                                                         </span>4<o:p></o:p>
 
-**Schedule 3—Transitional provisions** 
+**Schedule 3—Transitional provisions<span style="mso-tab-count:1">                                                                            </span>** 
 
 ## An Act to deal with consequential and transitional matters arising from the enactment of the _Aviation Transport Security Act 2004_, and for other purposes
 
-[_Assented to__10  March 2004_]
+[_Assented to 10 March 2004_]<o:p></o:p>
 
-The Parliament of Australia enacts:
+The Parliament of Australia enacts:<o:p></o:p>
 
 ##### <a id="1"></a>1  Short title
 
@@ -55,6 +56,8 @@ The Parliament of Australia enacts:
 ##### <a id="2"></a>2  Commencement
 
              (1)  Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, on the day or at the time specified in column 2 of the table.
+
+<o:p> </o:p>
 
 <table>
 <colgroup>
@@ -108,8 +111,9 @@ The Parliament of Australia enacts:
 </thead>
 <tr>
   <td>
-    <div>1\. Sections 1 to 3 and anything in this Act not elsewhere covered by this
-      table</div>
+    <div>1.
+      Sections 1 to 3 and anything in this Act not elsewhere covered
+      by this table</div>
   </td>
   <td>
     <div>The day on which this Act receives the Royal Assent</div>
@@ -120,7 +124,8 @@ The Parliament of Australia enacts:
 </tr>
 <tr>
   <td>
-    <div>2\. Schedules 1, 2 and 3</div>
+    <div>2.
+      Schedules 1, 2 and 3</div>
   </td>
   <td>
     <div>At the same time as section 3 of the
@@ -128,7 +133,9 @@ The Parliament of Australia enacts:
     </div>
   </td>
   <td>
-    <div>10 March 2005</div>
+    <div>
+      <o:p> </o:p>
+    </div>
   </td>
 </tr></table>
 
@@ -140,7 +147,7 @@ Note:          This table relates only to the provisions of th
 
                    Each Act that is specified in a Schedule to this Act is amended or repealed as set out in the applicable items in the Schedule concerned, and any other item in a Schedule to this Act has effect according to its terms.
 
- 
+<o:p> </o:p>
 
 ###### Schedule 1—Air Navigation Act 1920
 
@@ -284,15 +291,17 @@ Repeal the paragraph.
 
 Repeal the section.
 
+<o:p> </o:p>
+
 ###### Schedule 2—Amendment of other Acts
 
-<h9 class="ActHead9">Air Services Act 1995</h9>
+Air Services Act 1995
 
 ## 1  Paragraph 8(1)(f)
 
 After “the _Air Navigation Act 1920_”, insert “or the _Aviation Transport Security Act 2004_”.
 
-<h9 class="ActHead9">Australian Protective Service Act 1987</h9>
+Australian Protective Service Act 1987
 
 ## 2  After subparagraph 13(2)(a)(v)
 
@@ -300,13 +309,13 @@ Insert:
 
                            (va)  the _Aviation Transport Security Act 2004_ or regulations made under that Act; or
 
-<h9 class="ActHead9">Crimes (Aviation) Act 1991</h9>
+Crimes (Aviation) Act 1991
 
 ## 3  Paragraph 23(2)(b)
 
 After “_Air Navigation Act 1920_ or regulations made under that Act,”, insert “, the _Aviation Transport Security Act 2004_ or regulations made under that Act, or”.
 
-<h9 class="ActHead9">Sea Installations Act 1987</h9>
+Sea Installations Act 1987
 
 ## 4  The Schedule
 
@@ -324,6 +333,8 @@ Insert in its appropriate alphabetical position, determined on a letter-by-lette
     </div>
   </td>
 </tr></table>
+
+<o:p> </o:p>
 
 ###### Schedule 3—Transitional provisions
 
@@ -357,14 +368,24 @@ Insert in its appropriate alphabetical position, determined on a letter-by-lette
 
 Subsection 15(2) (which deals with the obligation for aviation industry participants to comply with the transport security programs of other participants) of the _Aviation Transport Security Act 2004_ does not apply in relation to a program continued as a transport security program under paragraph 1(2)(b) of this Schedule.
 
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
+<o:p> </o:p>
+
 [_Minister’s second reading speech made in—_
 
-_House of Representatives on__27 March 2003_
+_House of Representatives on 27 March 2003_
 
-_Senate on__10 February 2004_]
+_Senate on 10 February 2004_]
 
 (48/03)
 
- 
-
- 
+<o:p> </o:p>
