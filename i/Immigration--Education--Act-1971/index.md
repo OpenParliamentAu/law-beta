@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00382/Html/ImmigrationEdu1971_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00372/Html/ImmigrationEdu1971_image001.gif)
 
 # Immigration (Education) Act 1971
 
 **Act No. 3 of 1971 as amended**
 
-This compilation was prepared on 10 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -148,7 +148,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
           (3A)  The **applicable fee limit** in relation to a course that a person enrols in during a financial year starting on or after 1 July 1995 is, subject to subsection (3B), the amount worked out under the formula:
 
-![](http://www.comlaw.gov.au/Details/C2008C00382/Html/ImmigrationEdu1971_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00372/Html/ImmigrationEdu1971_image002.gif)
 
 where:
 
@@ -296,7 +296,7 @@ the Secretary may, in writing, determine that the obligation is not to cease, or
 
 ##### <a id="10"></a>10  Delegation
 
-             (1)  The Minister may, by instrument in writing, delegate to a person appointed or engaged under the _Public Service Act 1999_, either generally or otherwise as provided in the instrument of delegation, all or any of his or her powers or functions under this Act, except this power of delegation.
+             (1)  The Minister may, by instrument in writing, delegate to a person appointed or engaged under the _Public Service Act 1999_, either generally or otherwise as provided in the instrument of delegation, all or any of his powers or functions under this Act, except this power of delegation.
 
              (2)  A power or function so delegated may be exercised or performed by the delegate in accordance with the instrument of delegation.
 
@@ -568,23 +568,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 3 (items 14, 21) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 333): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Immigration (Education) Act 1971_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1986_, subsection 2(1) of which provides as follows:
@@ -795,7 +778,7 @@ _(d)_     The _Immigration (Education) Act 1971_ was amended by Schedule
     <div>S. 10</div>
   </td>
   <td>
-    <div>am. No. 146, 1999; No. 73, 2008</div>
+    <div>am. No. 146, 1999</div>
   </td>
 </tr>
 <tr>
