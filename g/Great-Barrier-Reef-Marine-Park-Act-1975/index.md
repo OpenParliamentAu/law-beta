@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00539/Html/GrtBarrierRfMarPk1975WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00633/Html/GrtBarrierRfMarPk1975WD02_image001.gif)
 
 # Great Barrier Reef Marine Park Act 1975
 
 **Act No. 85 of 1975 as amended**
 
-This compilation was prepared on 25 November 2009
+This compilation was prepared on 3 December 2008
  taking into account amendments up to Act No. 125 of 2008
 
 The text of any of those amendments not in force
@@ -124,91 +124,49 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [37A](#37A).       Amendment of zoning plan—typographical errors
 
-    **Division 3—Duty to prevent or minimise harm to environment in Marine Park**
+    **Division 3—Offences etc.**
 
-[37AA](#37AA).    Duty to prevent or minimise harm to environment in Marine Park
+[38](#38).          No drilling or mining in Marine Park
 
-    **Division 4—Relationship with the Environment Protection and Biodiversity Conservation Act 1999**
+[38A](#38A).       Zones to be used only for permitted purposes
 
-[37AB](#37AB).    Actions affected by the _Environment Protection and Biodiversity Conservation Act 1999_
+[38B](#38B).       Permission requirements to be observed—zoned area
 
-[37AC](#37AC).    Great Barrier Reef Region not to be reserved under the _Environment Protection and Biodiversity Conservation Act 1999_
+[38C](#38C).       Contravening conditions of permit or authority—zoned area
 
-**Part VAA—Offences and penalties in relation to Great Barrier Reef Marine Park and Region** 
+[38CA](#38CA).    Zones to be used only for permitted fishing
 
-    **Division 1—Conduct in Great Barrier Reef Region**
+[38CB](#38CB).     Permission requirements to be observed for fishing—zoned area
 
-[38AA](#38AA).    Mining or geological storage operations in Great Barrier Reef Region: offence
+[38CC](#38CC).     Contravening conditions of permit or authority in relation to fishing—zoned area
 
-[38AB](#38AB).    Mining or geological storage operations in Great Barrier Reef Region: civil penalty provision
+[38D](#38D).       Notification requirements to be observed—zoned area
 
-    **Division 2—Conduct in Marine Park zones**
+[38E](#38E).        Contravening directions—zoned area
 
-[38BA](#38BA).    Conduct in zone: offence
+[38F](#38F).        Certain activities prohibited in the unzoned area
 
-[38BB](#38BB).     Conduct in zone: civil penalty provision
+[38G](#38G).       Contravening conditions of permit or authority—unzoned area
 
-[38BC](#38BC).     Conduct in zone without required notice: offence
+[38H](#38H).       Removal of property
 
-[38BD](#38BD).    Operation of fishing vessel in zone: offence
+[38J](#38J).        Offence relating to the discharge of waste
 
-    **Division 3—Conduct in unzoned area of Marine Park**
+[38K](#38K).       Offences involving the use of vessels or aircraft
 
-[38CA](#38CA).    Conduct in unzoned area: offence
+[38L](#38L).        Offences involving the discharge of waste from a vessel, aircraft or platform
 
-[38CB](#38CB).     Conduct in unzoned area: civil penalty provision
+[38M](#38M).      Zones to be used only by permitted ships
 
-    **Division 3A—Convictions under former section 38CA**
+[38MA](#38MA).   Permission requirements to be observed for ships—zoned area
 
-[38CC](#38CC).     Convictions under former section 38CA
+[38MB](#38MB).   Contravening conditions of permit or authority in relation to ships—zoned area
 
-    **Division 4—Conduct in Marine Park generally**
+[38MC](#38MC).   Vessels causing damage in the Marine Park
 
-[38DA](#38DA).    Vessel causing damage in Marine Park: offence
+[38N](#38N).       Injunctions
 
-[38DB](#38DB).    Vessel causing damage in Marine Park: civil penalty provision
-
-[38DC](#38DC).    Contravening order or direction: offence
-
-[38DD](#38DD).    Discharging waste: offence
-
-[38DE](#38DE).     Pollution-related approval
-
-    **Division 5—Conduct contravening conditions**
-
-[38EA](#38EA).     Conduct contravening condition of permission or authority: offence
-
-[38EB](#38EB).     Conduct contravening condition of permission or authority: civil penalty provision
-
-    **Division 6—Collective and vicarious liability**
-
-[38FA](#38FA).     Liability for vessel, aircraft or platform used in committing offence: offence
-
-[38FB](#38FB).     Liability for ship used in committing offence: offence
-
-[38FC](#38FC).     Liability for vessel causing damage in Marine Park: offence
-
-[38FD](#38FD).     Liability of permission holder for conduct contravening permission: offence
-
-    **Division 7—Aggravated offences and contraventions**
-
-[38GA](#38GA).    Aggravated offences
-
-[38GB](#38GB).    Aggravated contraventions
-
-    **Division 8—Miscellaneous**
-
-[38HA](#38HA).    Commencement of certain prosecutions: time limit
-
-[38HB](#38HB).    Commencement of certain prosecutions: Attorney-General’s consent
-
-[38HC](#38HC).    Conduct in the exclusive economic zone: offences other than Division 6 offences
-
-[38HD](#38HD).    Conduct in the exclusive economic zone: Division 6 offences
-
-[38HE](#38HE).     Conduct in the territorial sea: offences other than Division 6 offences
-
-[38HF](#38HF).     Conduct in the territorial sea: Division 6 offences
+[39](#39).          Great Barrier Reef not to be reserved under the _Environment Protection and Biodiversity Conservation Act 1999_
 
 **Part VA—Collection of environmental management charge** 
 
@@ -246,13 +204,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [39FE](#39FE).     When collected amount is due for payment
 
-[39FF](#39FF).     False or misleading representation in relation to tourism services: offence
-
     **Division 3—Recovery of charge etc.**
 
 [39G](#39G).       Late payment penalty
 
 [39H](#39H).       Payment of late payment penalty
+
+[39I](#39I).         Appropriation of amounts for the purposes of the Authority
 
 [39J](#39J).        Recovery of charge and late payment penalty
 
@@ -320,21 +278,39 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [41](#41).          Performance of service by other persons
 
-[43](#43).          Appointment of inspectors
+[42](#42).          Officers and employees of Queensland and government authorities
 
-[43A](#43A).       Arrangements for certain persons to be inspectors
+[43](#43).          Appointment of inspectors
 
 [44](#44).          Inspectors _ex officio_
 
 [45](#45).          Identity cards
 
-[46](#46).          Delegation by Minister
+[45A](#45A).       Power of inspector to give directions
 
-[47](#47).          Delegation by Authority
+[46](#46).          Arrest without warrant
 
-[48](#48).          Delegation by Chairperson
+[46A](#46A).       Power to conduct a frisk search of an arrested person
 
-[48A](#48A).       Arrangements for certain delegations
+[46B](#46B).       Power to conduct an ordinary search
+
+[46C](#46C).       Conduct of ordinary searches and frisk searches
+
+[46D](#46D).       Retention of things that are seized
+
+[47](#47).          Confiscation and forfeiture
+
+[47A](#47A).       Release subject to a condition
+
+[47B](#47B).       Notice requiring vessel, aircraft or article etc  to be delivered to inspector or other person
+
+[48](#48).          General powers of inspectors
+
+[48AA](#48AA).    Power of inspector to copy, or take extracts from, documents
+
+[48AB](#48AB).    Power of inspector to seize weapons
+
+[48A](#48A).       Limitation on exercise of powers—location
 
 **Part VII—Finance and reporting requirements** 
 
@@ -386,135 +362,9 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [59M](#59M).      Limitation on exercise of powers—location
 
-**Part VIII—Enforcement** 
+**Part VIII—Miscellaneous**
 
-    **Division 1—Enforcement powers** 
-
-        **Subdivision A—Vessel monitoring directions**
-
-[61AAA](#61AAA). Making vessel monitoring directions
-
-[61AAB](#61AAB). Use and disclosure of vessel monitoring information
-
-[61AAC](#61AAC). Failure to comply with vessel monitoring direction: offence
-
-[61AAD](#61AAD). Failure to comply with vessel monitoring direction: civil penalty provision
-
-        **Subdivision B—Enforceable undertakings**
-
-[61ABA](#61ABA). Acceptance of undertaking
-
-[61ABB](#61ABB).  Enforcement of undertaking
-
-        **Subdivision C—Emergency directions**
-
-[61ACA](#61ACA). Making emergency directions
-
-[61ACB](#61ACB).  Failure to comply with emergency direction: offence
-
-        **Subdivision D—Enforceable directions**
-
-[61ADA](#61ADA). Making enforceable directions
-
-[61ADB](#61ADB). Content of enforceable direction
-
-[61ADC](#61ADC). Notifying owners and occupiers of land
-
-[61ADD](#61ADD). When enforceable directions have effect
-
-[61ADE](#61ADE).  Ministerial reconsideration of enforceable direction
-
-[61ADF](#61ADF).  Application to Federal Court
-
-[61ADG](#61ADG). Enforcement of direction by Federal Court
-
-[61ADH](#61ADH). Failure to comply with enforceable direction: civil penalty provision
-
-        **Subdivision E—Directions limiting access to Marine Park**
-
-[61AEA](#61AEA).  Directions limiting access to Marine Park
-
-[61AEB](#61AEB).  Failure to comply with direction: offence
-
-        **Subdivision F—Publicising offences and contraventions**
-
-[61AFA](#61AFA).  Publicising offences and contraventions
-
-        **Subdivision G—Injunctions**
-
-[61AGA](#61AGA). Injunctions
-
-        **Subdivision H—Remediation orders**
-
-[61AHA](#61AHA). Remediation orders
-
-[61AHB](#61AHB). Variation and discharge of remediation order
-
-        **Subdivision I—Civil penalty provisions**
-
-[61AIA](#61AIA).   Declarations of contravention
-
-[61AIB](#61AIB).   Declaration of contravention is conclusive evidence
-
-[61AIC](#61AIC).   Pecuniary penalty for contravening civil penalty provision
-
-[61AID](#61AID).   Definition of _civil penalty provision_
-
-[61AIE](#61AIE).   Contravening a civil penalty provision is not an offence
-
-[61AIF](#61AIF).   Persons involved in contravening civil penalty provision
-
-[61AIG](#61AIG).   Recovery of a pecuniary penalty
-
-[61AIH](#61AIH).   Civil evidence and procedure rules for declarations of contravention and civil penalty orders
-
-[61AII](#61AII).    Civil proceedings after criminal proceedings
-
-[61AIJ](#61AIJ).    Criminal proceedings during civil proceedings
-
-[61AIK](#61AIK).   Criminal proceedings after civil proceedings
-
-[61AIL](#61AIL).   Evidence given in proceedings for penalty not admissible in criminal proceedings
-
-        **Subdivision J—Court order to pay amount equivalent to avoided charge**
-
-[61AJA](#61AJA).  Order to pay amount equivalent to avoided charge
-
-        **Subdivision K—Publicity orders**
-
-[61AKA](#61AKA). Publicity orders
-
-    **Division 2—Other enforcement-related matters** 
-
-        **Subdivision A—Infringement notices**
-
-[61ALA](#61ALA).  Infringement notices
-
-        **Subdivision B—Evidentiary matters** 
-
-61AMA Content of evidentiary certificate
-
-61AMB Evidentiary effect of certificate
-
-61AMC Varying or revoking certificate
-
-61AMD Offences and contraventions in relation to fishing
-
-        **Subdivision C—Conduct of directors, employees and agents**
-
-[61ANA](#61ANA). Conduct of directors, employees and agents
-
-        **Subdivision D—Liability of executive officers for bodies corporate**
-
-[61AOA](#61AOA). Criminal liability of executive officers of bodies corporate
-
-[61AOB](#61AOB). Civil penalties for executive officers of bodies corporate
-
-[61AOC](#61AOC). Reasonable steps to prevent offence or contravention
-
-        **Subdivision E—Miscellaneous**
-
-[61APA](#61APA).  Powers of Federal Court
+[61](#61).          Delegation
 
 [61A](#61A).       Restoration of environment etc 
 
@@ -522,17 +372,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [61C](#61C).       Enforcement of orders for payment
 
+[62](#62).          Averment in relation to Marine Park
+
 [63](#63).          Jurisdiction of courts
 
-**Part IX—Miscellaneous**
-
-[64](#64).          Reconsideration of decisions
-
-[64A](#64A).       Review of decisions by AAT
+[64](#64).          Conduct of directors, servants and agents
 
 [65](#65).          Act to apply subject to international obligations
-
-[65A](#65A).       Appropriation of Consolidated Revenue Fund
 
 [66](#66).          Regulations
 
@@ -592,10 +438,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="aat"></a>**_AAT_** means the Administrative Appeals Tribunal.
 
-                    <a name="aggravated-contravent"></a>**_aggravated contravention_** has the meaning given by section 38GB.
-
-                    <a name="aggravated-offenc"></a>**_aggravated offence_** has the meaning given by section 38GA.
-
                     <a name="agreem"></a>**_agreement_** includes a treaty or convention.
 
                     <a name="aircraft"></a>**_aircraft_** means a machine or apparatus that can derive support in the atmosphere from the reactions of the air or from buoyancy, but does not include a hovercraft.
@@ -610,14 +452,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="australian-jurisdict"></a>**_Australian jurisdiction_** has the meaning given by subsection 5(4).
 
-                    <a name="australian-resid"></a>**_Australian resident_** means:
-
-                     (a)  a person who holds a permanent visa (as defined in the _Migration Act 1958_) that is in effect; or
-
-                     (b)  a New Zealand citizen who is usually resident in Australia or a Territory and who holds a special category visa (as defined in the _Migration Act 1958_) that is in effect; or
-
-                     (c)  any other person who is usually resident in Australia or a Territory and whose continued presence in Australia or a Territory is not subject to a limitation as to time imposed by law.
-
                     <a name="author"></a>**_Authority_** means the Great Barrier Reef Marine Park Authority established by this Act.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Authority.
@@ -630,41 +464,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="chargeabl-permiss"></a>**_chargeable permission_** means a permission granted under the regulations, where the permission is of a kind declared by the regulations to be a chargeable permission for the purposes of this Act.
 
-                    <a name="civil-penalti-provision"></a>**_civil penalty provision_** has the meaning given by section 61AID.
-
-                    <a name="class-vessel-monitor-direct"></a>**_class vessel monitoring direction_** has the meaning given by subsection 61AAA(7).
-
                     <a name="commun-group-have-special-interest"></a>**_community group having a special interest_** has a meaning affected by section 39V.
 
                     <a name="compulsori-pilotag-area"></a>**_compulsory pilotage area_** means any part of the Great Barrier Reef Region that is prescribed by the regulations.
 
-                    <a name="conduct"></a>**_conduct_** has the same meaning as in the _Criminal Code_.
-
                     <a name="continent-shelf"></a>**_continental shelf_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
-
-                    <a name="declar-contravent"></a>**_declaration of contravention_** means a declaration made under section 61AIA.
-
-                    <a name="discharg"></a>**_discharge_**, in relation to waste, means release the waste, however the release is caused, and includes any escape, disposal, depositing, spilling, leaking, pumping, emitting or emptying of the waste.
-
-                    <a name="dori"></a>**_dory_** means:
-
-                     (a)  a vessel in relation to which a licence or other permission (however described and whether or not in force) has been granted under a law of the Commonwealth, a State or a Territory authorising the vessel to be used in association with a primary commercial fishing vessel; or
-
-                     (b)  a vessel that is used in association with a primary commercial fishing vessel.
-
-Note:          A dory might also be known as a tender commercial fishing vessel.
 
                     <a name="ecolog-sustain-us"></a>**_ecologically sustainable use_** has the meaning given by section 3AA.
 
                     <a name="ecosystem-base-manag"></a>**_ecosystem-based management_** means an integrated approach to managing an ecosystem and matters affecting that ecosystem, with the main object being to maintain ecological processes, biodiversity and functioning biological communities.
 
-                    <a name="emerg-direct"></a>**_emergency direction_** has the meaning given by subsection 61ACA(2).
-
-                    <a name="enforc-direct"></a>**_enforceable direction_** has the meaning given by subsection 61ADA(2).
-
                     <a name="enforc-provision"></a>**_enforcement provision_**, in relation to a plan of management or an amendment of a plan of management, has the meaning given by subsection 39ZD(5) or by that subsection as it has effect because of subsection 39ZG(2), as the case may be.
-
-                    <a name="engag-conduct"></a>**_engage in conduct_** has the same meaning as in the _Criminal Code_.
 
                     <a name="environment-manag"></a>**_environmental management_** means:
 
@@ -676,29 +486,17 @@ Note:          A dory might also be known as a tender commerci
 
                      (d)  any similar matter.
 
-                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+                    <a name="evidenti-materi"></a>**_evidential material_** means a thing relevant to an indictable offence or a thing relevant to a summary offence, including such a thing in electronic form.
 
-                    <a name="execut-offic"></a>**_executive officer_**, of a body corporate, means a person, by whatever name called and whether or not a director of the body, who is concerned in, or takes part in, the management of the body.
+                    <a name="exclus-econom-zone"></a>**_exclusive economic zone_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
 
                     <a name="farm-facil"></a>**_farming facility_** means a facility for the farming of marine resources.
 
-                    <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
+                    <a name="frisk-search"></a>**_frisk search_** means:
 
-                    <a name="fish"></a>**_fish_** includes all species of bony fish, sharks, rays, crustaceans, molluscs and other marine organisms, but does not include marine mammals or marine reptiles.
+                     (a)  a search of a person conducted by quickly running the hands over the person’s outer clothing; and
 
-                    <a name="fish"></a>**_fishing_** means any of the following:
-
-                     (a)  taking fish;
-
-                     (b)  attempting to take fish;
-
-                     (c)  engaging in any activity (including searching for fish, using fishing apparatus and using fish aggregating devices) in connection with taking, or attempting to take, fish.
-
-                    <a name="geolog-storag-oper"></a>**_geological storage operations_** means:
-
-                     (a)  operations to inject and store a gas substance in part of a geological formation; or
-
-                     (b)  operations preparing for or incidental to operations mentioned in paragraph (a).
+                     (b)  an examination of anything worn or carried by the person that is conveniently and voluntarily removed by the person.
 
                     <a name="great-barrier-reef-region"></a>**_Great Barrier Reef Region_** means:
 
@@ -718,11 +516,9 @@ other than any part of such an area that is referred to in section 14 of the _
 
                      (b)  a descendant of an Indigenous inhabitant of the Torres Strait Islands.
 
-                    <a name="individu-vessel-monitor-direct"></a>**_individual vessel monitoring direction_** has the meaning given by subsection 61AAA(2).
-
                     <a name="inspector"></a>**_inspector_** means:
 
-                     (a)  a person appointed as an inspector under subsection 43(1); or
+                     (a)  a person appointed as an inspector under section 43; or
 
                      (b)  a person referred to in section 44.
 
@@ -736,14 +532,6 @@ other than any part of such an area that is referred to in section 14 of the _
 
                     <a name="member"></a>**_member_** means a member of the Authority.
 
-                    <a name="miner"></a>**_minerals_**means minerals in any form, whether solid, liquid or gaseous and whether organic or inorganic.
-
-                    <a name="mine-oper"></a>**_mining operations_**:
-
-                     (a)  means operations or activities connected with, or incidental to, the mining or recovery of minerals; and
-
-                     (b)  includes prospecting for or exploring for minerals.
-
                     <a name="mitig"></a>**_mitigate_**, in relation to damage, includes prevent further damage.
 
                     <a name="navig-without-pilot"></a>**_navigate without a pilot_** has the meaning given by subsections (5) and (6).
@@ -754,15 +542,19 @@ other than any part of such an area that is referred to in section 14 of the _
 
                     <a name="oil-tanker"></a>**_oil tanker_** means a vessel fitted with cargo spaces that are constructed and used to carry oil in bulk of a total capacity of at least 200 cubic metres.
 
+                    <a name="oper-recoveri-miner"></a>**_operations for the recovery of minerals_** includes prospecting or exploration for minerals.
+
+                    <a name="ordinari-search"></a>**_ordinary search_** means a search of a person or of articles in a person’s possession that may include:
+
+                     (a)  requiring the person to remove his or her overcoat, coat or jacket and any gloves, shoes and hat; and
+
+                     (b)  an examination of those items.
+
                     <a name="overal-length"></a>**_overall length_** has the meaning given by subsection (7) or (8).
 
-                    <a name="owner"></a>**_owner_**, in relation to a vessel, has the meaning given by subsection (9) or (10).
+                    <a name="owner"></a>**_owner_** has the meaning given by subsection (9) or (10).
 
                     <a name="part-time-member"></a>**_part-time member_** means a member appointed as a part-time member.
-
-                    <a name="pecuniari-penalti-order"></a>**_pecuniary penalty order_** means an order referred to in subsection 61AIC(2).
-
-                    <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
 
                     <a name="pilot"></a>**_pilot_** means a person:
 
@@ -780,31 +572,7 @@ other than any part of such an area that is referred to in section 14 of the _
 
                     <a name="precautari-principl"></a>**_precautionary principle_** means the principle that lack of full scientific certainty should not be used as a reason for postponing a measure to prevent degradation of the environment where there are threats of serious or irreversible environmental damage.
 
-                    <a name="primari-commerci-fish-vessel"></a>**_primary commercial fishing vessel_** means:
-
-                     (a)  a vessel in relation to which a licence or other permission (however described and whether or not in force) has been granted under a law of the Commonwealth, a State or a Territory authorising the vessel to be used to take fish for commercial purposes; or
-
-                     (b)  a vessel that is used to take fish for commercial purposes.
-
                     <a name="principl-ecolog-sustain-us"></a>**_principles of ecologically sustainable use_** has the meaning given by section 3AB.
-
-                    <a name=""></a><a name=""></a><a name="prohibit"></a>**_prohibited_**: conduct in a zone is prohibited  if the conduct is neither:
-
-                     (a)  for a purpose for which, under the zoning plan for the zone, the zone may be used or entered without permission; nor
-
-                     (b)  for a purpose that, under the zoning plan for the zone, requires permission.
-
-                    <a name="protect-speci"></a>**_protected species_** means any of the following:
-
-                     (a)  a cetacean;
-
-                     (b)  a listed marine species, a listed migratory species, a listed threatened ecological community, or a listed threatened species;
-
-                     (c)  a species of marine mammal, bird or reptile that is prescribed as endangered wildlife, vulnerable wildlife or rare wildlife under the _Nature Conservation Act 1992_ of Queensland;
-
-                     (d)  a species declared by the regulations to be a protected species for the purposes of this definition;
-
-                     (e)  a species declared by the regulations to be a strictly protected species for the purposes of this definition.
 
                     <a name="public-notic"></a>**_public notice_** means a notice published:
 
@@ -815,8 +583,6 @@ other than any part of such an area that is referred to in section 14 of the _
                      (c)  on the website of the Authority; and
 
                      (d)  in such other manner (if any) as the Authority considers appropriate.
-
-                    <a name="reef"></a>**_reef_** includes bommie fields, reef slopes, moats and ramparts.
 
                     <a name="regul-ship"></a>**_regulated ship_** means any kind of vessel:
 
@@ -836,13 +602,7 @@ other than:
 
                      (d)  a vessel in respect of which an exemption under section 59F is in force.
 
-                    <a name="remiat-order"></a>**_remediation order_** has the meaning given by subsection 61AHA(1).
-
-                    <a name="review-decision"></a>**_reviewable decision_** has the meaning given by subsection 64(3).
-
-                    <a name=""></a>**_take_**, in relation to an animal or plant, includes remove, gather, catch, capture, kill, destroy, dredge for, raise, carry away, bring ashore, interfere with and obtain.
-
-                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+                    <a name="seizabl-item"></a>**_seizable item_** means anything that would present a danger to a person or could be used to help a person to escape from lawful custody.
 
                     <a name="act"></a>**_this Act_** includes the regulations.
 
@@ -859,26 +619,6 @@ other than:
                     <a name="unzoned-area"></a>**_unzoned area_** means that part (if any) of the Marine  Park in respect of which no zoning plan is in force.
 
                     <a name="vessel"></a>**_vessel_** means a ship, boat, raft or pontoon or any other thing capable of carrying persons or goods through or on water, and includes a hovercraft.
-
-                    <a name="vessel-monitor-direct"></a>**_vessel monitoring direction_** means an individual vessel monitoring direction or a class vessel monitoring direction.
-
-                    <a name="vessel-monitor-system"></a>**_vessel monitoring system_** means a system in which vessels are fitted with an electronic device that can provide information about the vessels’ course or position, or other such information.
-
-                    <a name="wast"></a>**_waste_** means any of the following:
-
-                     (a)  oil within the meaning of Part II of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_;
-
-                     (b)  noxious liquid substances within the meaning of Part III of that Act;
-
-                     (c)  packaged harmful substances within the meaning of Part IIIA of that Act;
-
-                     (d)  sewage within the meaning of Part IIIB of that Act;
-
-                     (e)  garbage within the meaning of Part IIIC of that Act;
-
-                      (f)  mixtures where the oil content is greater than 15 parts in 1,000,000 parts;
-
-                     (g)  any other matter that is declared by the regulations to be waste for the purposes of this definition.
 
                     <a name="zone"></a>**_zone_** means a zone created by a zoning plan (whether designated in the plan as a zone, area or some other designation).
 
@@ -962,15 +702,13 @@ the vessel under tow is to be treated as if it were navigating with a pilot.
 
                      (b)  a vertical line passing through a point that is the aftermost part of the stern.
 
-             (9)  Subject to subsection (10), **_owner_**, in relation to a vessel, means the person or each of the persons who are registered as owner of the vessel on the registration certificate granted:
+             (9)  Subject to subsection (10), **_owner_**, in relation to a vessel, means the person or each of the persons who are registered as owner of the vessel on the registration certificate granted either:
 
                      (a)  by the Registrar of Ships under section 19 of the _Shipping Registration Act 1981_; or
 
-                    (aa)  under a law of a State or Territory; or
-
                      (b)  by a foreign registrar of ships.
 
-           (10)  If the owner of a vessel does not operate the vessel, a reference in this Act to the owner of the vessel includes a reference to a person who is a party to an agreement with the owner under which the person, or the person and the owner, may determine the activities for which the vessel is used.
+           (10)  In the case of a vessel that is operated by a person who is not an owner of the vessel, a reference in this Act to the owner includes a reference to the operator.
 
 ##### <a id="3AA"></a>3AA  Ecologically sustainable use
 
@@ -1032,7 +770,7 @@ the first provision prevails over the second provision.
 
                     <a name="tourist"></a>**_tourist_** means a person who is in the Marine Park principally for the purpose of recreation (which may include fishing or collecting).
 
-           (10)  For the purposes of subsection 38BA(5) and regulations made for the purposes of that subsection, this section is not to be regarded as amending a zoning plan.
+           (10)  For the purposes of subsection 38B(2), this section is not to be regarded as amending a zoning plan.
 
 ##### <a id="3B"></a>3B  Interpretation of geographic co-ordinates
 
@@ -1062,13 +800,13 @@ the first provision prevails over the second provision.
 
              (1)  This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island.
 
-          (1A)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the Northern Territory or of Norfolk  Island liable to be prosecuted for an offence or to be subject to civil proceedings for a contravention of a civil penalty provision.
+          (1A)  Nothing in this Act renders the Crown in right of the Commonwealth, of a State, of the Northern Territory or of Norfolk  Island liable to be prosecuted for an offence.
 
 ##### <a id="4A"></a>4A  Application of the _Criminal Code_
 
  Chapter 2 of the _Criminal Code_ applies to all offences against this Act.
 
-Note 1:       However, Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act: see subsection 61ANA(8) of this Act.
+Note 1:       However, Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act: see subsection 64(8) of this Act.
 
 Note 2:       Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
@@ -1170,17 +908,15 @@ Note:          A reference to Australia or to an external Terr
 
                      (d)  such functions relating to the Marine  Park as are:
 
-                              (i)  conferred on the Authority under this or any other Act; or
+                              (i)  conferred on the Authority by this Act; or
 
                              (ii)  provided for by the regulations;
-
-                  (daa)  to exercise any powers, and perform any functions, relating to the Marine Park that have been delegated to the Authority under this or any other Act;
 
                     (da)  to provide assistance to other institutions and persons in accordance with section 7A; and
 
                      (e)  to do anything incidental or conducive to the performance of any of the foregoing functions.
 
-          (1A)  For the purposes of this section but without limiting the generality of paragraph (1)(ca), (cb), (cd), (d) or (daa), a matter shall be taken to relate to the Marine Park if it relates to:
+          (1A)  For the purposes of this section but without limiting the generality of paragraph (1)(ca), (cb) or (cd), a matter shall be taken to relate to the Marine Park if it relates to:
 
                      (a)  the use or management of an area (which may be a Queensland national park or a Queensland marine park) the use or management of which would or might affect the Marine Park; or
 
@@ -1872,1083 +1608,681 @@ Additional obligation for amendment or revocation of zoning plan
 
              (3)  An amendment of a zoning plan, prepared by the Authority and approved by the Minister, is a legislative instrument made by the Minister on the day on which the amendment is approved, but neither section 42 (disallowance) nor Part 6 (sunsetting) of the _Legislative Instruments Act 2003_ applies to the amendment.
 
-### Division 3—Duty to prevent or minimise harm to environment in Marine Park
+### Division 3—Offences etc.
 
-##### <a id="37AA"></a>37AA  Duty to prevent or minimise harm to environment in Marine Park
+##### <a id="38"></a>38  No drilling or mining in Marine Park
 
-             (1)  A person who uses or enters the Marine Park must take all reasonable steps to prevent or minimise harm to the environment in the Marine Park that might or will be caused by the person’s use or entry.
+             (1)  This section has effect notwithstanding any law of the Commonwealth or of a State or Territory.
 
-Note:          The Minister may accept an enforceable undertaking under section 61ABA, or make an enforceable direction under section 61ADA, in relation to a contravention of this duty.
+             (2)  Subject to subsection (3), no operations for the recovery of minerals shall be carried on in the Marine Park.
 
-             (2)  For the purposes of subsection (1), **_harm_** includes the following:
+             (3)  Operations referred to in subsection (2) may be carried on in the Marine Park by, or with the approval of, the Authority for the purpose of research and investigations relevant to the establishment, care and development of the Marine Park or for scientific research.
 
-                     (a)  any adverse effect;
+             (4)  A person must not intentionally or negligently:
 
-                     (b)  direct or indirect harm;
+                     (a)  contravene subsection (2); or
 
-                     (c)  harm to which the person’s use or entry has contributed, to any extent (whether or not other matters have contributed to the harm).
+                     (b)  having obtained the Authority’s approval under subsection (3) for the carrying on of operations for the recovery of minerals, carry on any such operations except in accordance with the approval.
 
-             (3)  In determining whether all reasonable steps have been taken, have regard to the following:
+                    Penalty:  500 penalty units.
 
-                     (a)  the nature of the harm to the environment that might or will result from the person’s use or entry;
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
-                     (b)  the risk of harm from the person’s use or entry;
+             (5)  An offence against subsection (4) is an indictable offence.
 
-                     (c)  the sensitivity of the environment that might or will be affected by the person’s use or entry;
+             (6)  Notwithstanding that an offence against subsection (4) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of such an offence if the court is satisfied that it is proper to do so and the defendant and the prosecutor consent.
 
-                     (d)  if the person is using or entering a zone—any objectives specified for the zone in its zoning plan;
+             (7)  Where, in accordance with subsection (6), a court of summary jurisdiction convicts a person of an offence against subsection (4), the penalty that the court may impose is a fine of not more than 100 penalty units.
 
-                     (e)  the practicalities, including cost, of steps that will prevent or minimise the harm;
+##### <a id="38A"></a>38A  Zones to be used only for permitted purposes
 
-                      (f)  whether or not the person’s use or entry complies with the laws applying in the Marine Park in relation to the environment or natural resources;
-
-                     (g)  whether or not the person’s use or entry complies with any relevant code of practice, standard or guideline;
-
-                     (h)  whether or not the person’s use or entry is in accordance with any conditions of a permission granted under the regulations for the purposes of a zoning plan or a provision of this Act.
-
-### Division 4—Relationship with the Environment Protection and Biodiversity Conservation Act 1999
-
-##### <a id="37AB"></a>37AB  Actions affected by the _Environment Protection and Biodiversity Conservation Act 1999_
-
-             (1)  If:
-
-                     (a)  a proposal to take an action is referred to the Minister under Division 1 of Part 7 of the _Environment Protection and Biodiversity Conservation Act 1999_; and
-
-                     (b)  the action, or a component of the action, involves doing a thing that would be an offence against this Act if done without a permission under the regulations;
-
-the referral is taken to be an application made in accordance with the regulations for that permission.
-
-Note:          A subsequent decision under the _Environment Protection and Biodiversity Conservation Act 1999_ that the action is not a controlled action does not affect an application that is taken to have been made because of subsection (1).
-
-             (2)  The Authority, or an agency that has responsibility under a zoning plan for granting permissions, must not grant a person permission under the regulations to do a thing if:
-
-                     (a)  the thing is, or is part of, an action that is a controlled action for the purposes of the _Environment Protection and Biodiversity Conservation Act 1999_; and
-
-                     (b)  the Minister has not decided under Part 9 of the _Environment Protection and Biodiversity Conservation Act 1999_ to approve the taking of the action by the person for the purposes of each provision that is, for the purposes of that Act, a controlling provision for the action.
-
-##### <a id="37AC"></a>37AC  Great  Barrier Reef Region not to be reserved under the _Environment Protection and Biodiversity Conservation Act 1999_
-
-                   The Governor-General must not make a Proclamation under section 344 of the _Environment Protection and Biodiversity Conservation Act 1999_ declaring an area in the Great Barrier Reef Region to be a Commonwealth reserve under that Act.
-
-## Part VAA—Offences and penalties in relation to Great Barrier Reef Marine Park and Region
-
-### Division 1—Conduct in Great Barrier  Reef Region
-
-##### <a id="38AA"></a>38AA  Mining or geological storage operations in Great Barrier Reef Region: offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct is mining operations or geological storageoperations; and
-
-                     (c)  the conduct is engaged in in the Great Barrier Reef Region; and
-
-                     (d)  the person is not authorised to engage in the conduct by:
-
-                              (i)  a permission granted under the regulations for the purposes of this section; or
-
-                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
-
-                    Penalty:
-
-                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
-
-                     (b)  in any other case—1,000 penalty units.
-
-Note:          See also Division 8.
-
-             (2)  Strict liability applies to paragraphs (1)(c) and (d).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (3)  The Authority must not grant a person permission to engage in conduct for the purposes of this section unless the Authority is satisfied that the conduct is for the purpose of research or investigations relevant to the conservation of the Marine Park.
-
-             (4)  Subsection (1) does not apply if:
-
-                     (a)  the person is the Authority; and
-
-                     (b)  the Authority is engaging in the conduct for the purpose of research or investigations relevant to the conservation of the Marine Park.
-
-             (5)  This section applies despite any other law of the Commonwealth, a State or a Territory.
-
-##### <a id="38AB"></a>38AB  Mining or geological storage operations in Great Barrier Reef Region: civil penalty provision
-
-             (1)  A person must not engage in mining operations or geological storageoperations in the Great Barrier Reef Region unless the person is authorised to engage in the operations by:
-
-                     (a)  a permission granted under the regulations for the purposes of section 38AA; or
-
-                     (b)  an authority given in accordance with a condition of a permission referred to in paragraph (a).
-
-                    Civil penalty:
-
-                     (a)  for an aggravated contravention by an individual—5,000 penalty units; or
-
-                     (b)  for an individual in any other case—2,000 penalty units; or
-
-                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
-
-                     (d)  for a body corporate in any other case—20,000 penalty units.
-
-             (2)  Subsection (1) does not apply if:
-
-                     (a)  the person is the Authority; and
-
-                     (b)  the Authority is engaging in the operations for the purpose of research or investigations relevant to the conservation of the Marine Park.
-
-### Division 2—Conduct in Marine Park zones
-
-##### <a id="38BA"></a>38BA  Conduct in zone: offence
-
-Conduct prohibited or done without required permission
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct is engaged in in a zone; and
-
-                     (c)  under the zoning plan for the zone, the conduct:
-
-                              (i)  is prohibited; or
-
-                             (ii)  requires permission; and
-
-Note:       **_Prohibited_** is defined in subsection 3(1).
-
-                     (d)  if the conduct requires permission—the person is not authorised to engage in the conduct by:
-
-                              (i)  a permission granted under the regulations for the purposes of the zoning plan; or
-
-                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
-
-                    Penalty:
-
-                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
-
-                     (b)  in any other case—1,000 penalty units.
-
-Note:          See also Division 8.
-
-             (2)  Strict liability applies to paragraphs (1)(b), (c) and (d).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Conduct prohibited or done without required permission: strict liability
-
-             (3)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct is engaged in in a zone; and
-
-                     (c)  under the zoning plan for the zone, the conduct:
-
-                              (i)  is prohibited; or
-
-                             (ii)  requires permission; and
-
-Note:       **_Prohibited_** is defined in subsection 3(1).
-
-                     (d)  if the conduct requires permission—the person is not authorised to engage in the conduct by:
-
-                              (i)  a permission granted under the regulations for the purposes of the zoning plan; or
-
-                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
-
-                    Penalty:  60 penalty units.
-
-             (4)  Strict liability applies to subsection (3).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Defence—prescribed circumstances
-
-             (5)  Subsections (1) and (3) do not apply if circumstances prescribed by the regulations for the purposes of this subsection exist in relation to the conduct. Any circumstances prescribed must relate to:
-
-                     (a)  conduct engaged in during the period of 120 days after the day on which the zoning plan, or an amendment of the zoning plan, commenced; or
-
-                     (b)  conduct engaged in after the end of that period if the person had applied for a permission for the purposes of the zoning plan during that period.
-
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
-
-##### <a id="38BB"></a>38BB  Conduct in zone: civil penalty provision
-
-             (1)  A person must not engage in conduct in a zone that is prohibited under the zoning plan for the zone.
-
-Note:          **_Prohibited_** is defined in subsection 3(1).
-
-                    Civil penalty:
-
-                     (a)  for an aggravated contravention by an individual—5,000 penalty units; or
-
-                     (b)  for an individual in any other case—2,000 penalty units; or
-
-                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
-
-                     (d)  for a body corporate in any other case—20,000 penalty units.
-
-             (2)  A person must not engage in conduct in a zone if:
-
-                     (a)  under the zoning plan for the zone, the conduct requires permission; and
-
-                     (b)  the person is not authorised to engage in the conduct by:
-
-                              (i)  a permission granted under the regulations for the purposes of the zoning plan; or
-
-                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
-
-                    Civil penalty:
-
-                     (a)  for an aggravated contravention by an individual—5,000 penalty units; or
-
-                     (b)  for an individual in any other case—2,000 penalty units; or
-
-                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
-
-                     (d)  for a body corporate in any other case—20,000 penalty units.
-
-             (3)  Subsections (1) and (2) do not apply if circumstances prescribed for the purposes of subsection 38BA(5) exist in relation to the conduct.
-
-##### <a id="38BC"></a>38BC  Conduct in zone without required notice: offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person engages in conduct; and
-
-                     (b)  the conduct is engaged in in a zone; and
-
-                     (c)  the zoning plan for the zone requires that notice must be given to a specified body before the conduct is engaged in; and
-
-                     (d)  the person failed to give the specified body notice in accordance with the zoning plan before engaging in the conduct.
+             (1)  A person must not intentionally or negligently use or enter a zone for a purpose other than a purpose that is permitted under the zoning plan that relates to the zone.
 
                     Penalty:  200 penalty units.
 
-             (2)  Strict liability applies to paragraphs (1)(b) and (c).
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (3)  The fault element for paragraph (1)(d) is negligence.
-
-Note:          For negligence, see section 5.5 of the _Criminal Code_.
-
-##### <a id="38BD"></a>38BD  Operation of fishing vessel in zone: offence
-
-Operation of a fishing vessel prohibited or done without permission
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person operates a vessel; and
-
-                     (b)  the person does so in a zone; and
-
-                     (c)  the vessel is a primary commercial fishing vessel; and
-
-                     (d)  the vessel is an Australian vessel; and
-
-                     (e)  the vessel is authorised, under a law of the Commonwealth or of a State (including by a licence granted under such a law), to fish using a particular fishing method or particular fishing apparatus; and
-
-                      (f)  under the zoning plan for the zone, fishing using that method or apparatus:
-
-                              (i)  is prohibited; or
-
-                             (ii)  requires permission; and
-
-Note:       **_Prohibited_** is defined in subsection 3(1).
-
-                     (g)  if it requires permission—the person is not authorised to fish using that method or apparatus by:
-
-                              (i)  a permission granted under the regulations for the purposes of the zoning plan; or
-
-                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
-
-                    Penalty:  500 penalty units.
-
-             (2)  Strict liability applies to paragraphs (1)(b), (c), (f) and (g).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (3)  Absolute liability applies to paragraphs (1)(d) and (e).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-Defence—vessel is transiting or anchoring
-
-             (4)  Subsection (1) does not apply if:
-
-                     (a)  the vessel is transiting through the zone; or
-
-                     (b)  the vessel is anchored in the zone; or
-
-                     (c)  the vessel is transiting to a place where the vessel is to anchor or transiting from a place where the vessel has been anchored.
-
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
-
-             (5)  For the purposes of subsection (4), a vessel is only **_transiting_** if:
-
-                     (a)  the vessel is taking the most direct practicable route:
-
-                              (i)  through the zone to a destination outside the zone; or
-
-                             (ii)  to or from a place of anchor; and
-
-                     (b)  the vessel is maintaining a speed of at least 5 knots.
-
-Defence—emergency or unavoidable accident
-
-             (6)  Subsection (1) does not apply if:
-
-                     (a)  the operation of the vessel in the zone:
-
-                              (i)  is reasonably necessary to deal with an emergency involving a serious threat to human life or property; or
-
-                             (ii)  is a result of an unavoidable accident, other than an accident caused by reckless or negligent behaviour; and
-
-                     (b)  the Authority is notified of the operation, and the emergency or accident, no more than 48 hours after the vessel was first operated in the zone.
-
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
-
-### Division 3—Conduct in unzoned area of Marine Park
-
-##### <a id="38CA"></a>38CA  Conduct in unzoned area: offence
-
-             (1)  A person commits an offence if the person engages in any of the following conduct in the unzoned area:
-
-                     (a)  building, assembling or fixing in position:
-
-                              (i)  a building or similar structure; or
-
-                             (ii)  a pontoon or other floating structure; or
-
-                            (iii)  a walkway, mooring facility or similar structure; or
-
-                            (iv)  a device for catching marine animals;
-
-                     (b)  operating a vessel (see subsection (3)) with provision for more than 8 sleeping berths in the one vicinity for more than:
-
-                              (i)  14 consecutive days; or
-
-                             (ii)  30 days in any period of 60 days;
-
-                     (c)  carrying out reclamation work, beach protection work, road building work or any other work;
-
-                     (d)  constructing a landing area;
-
-                     (e)  constructing a farming facility;
-
-                      (f)  conducting operations in or on, or maintaining:
-
-                              (i)  a building or similar structure; or
-
-                             (ii)  a pontoon or other floating structure; or
-
-                            (iii)  a walkway, mooring facility or similar structure;
-
-                     (g)  maintaining a device for catching marine animals;
-
-                     (h)  demolishing or removing:
-
-                              (i)  a building or similar structure; or
-
-                             (ii)  a pontoon or other floating structure; or
-
-                            (iii)  a walkway, mooring facility or similar structure;
-
-and the person is not authorised to engage in the conduct by:
-
-                      (i)  a permission granted under the regulations for the purposes of this section; or
-
-                      (j)  an authority given in accordance with a condition of a permission referred to in paragraph (i).
-
-                    Penalty:
-
-                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
-
-                     (b)  in any other case—1,000 penalty units.
-
-Note:          See also Division 8.
-
-             (2)  Strict liability applies to the physical element of circumstance in subsection (1), that the person engages in the conduct in the unzoned area.
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (3)  The references in subsection (1) and section 38CB to operating a vessel include references to the following:
-
-                     (a)  conducting operations in or on the vessel;
-
-                     (b)  using the vessel as a base for carrying on other activities;
-
-                     (c)  carrying out maintenance of the vessel.
-
-##### <a id="38CB"></a>38CB  Conduct in unzoned area: civil penalty provision
-
-                   A person must not engage in any of the following conduct in the unzoned area:
-
-                     (a)  building, assembling or fixing in position:
-
-                              (i)  a building or similar structure; or
-
-                             (ii)  a pontoon or other floating structure; or
-
-                            (iii)  a walkway, mooring facility or similar structure; or
-
-                            (iv)  a device for catching marine animals;
-
-                     (b)  operating a vessel (see subsection 38CA(3)) with provision for more than 8 sleeping berths in the one vicinity for more than:
-
-                              (i)  14 consecutive days; or
-
-                             (ii)  30 days in any period of 60 days;
-
-                     (c)  carrying out reclamation work, beach protection work, road building work or any other work;
-
-                     (d)  constructing a landing area;
-
-                     (e)  constructing a farming facility;
-
-                      (f)  conducting operations in or on, or maintaining:
-
-                              (i)  a building or similar structure; or
-
-                             (ii)  a pontoon or other floating structure; or
-
-                            (iii)  a walkway, mooring facility or similar structure;
-
-                     (g)  maintaining a device for catching marine animals;
-
-                     (h)  demolishing or removing:
-
-                              (i)  a building or similar structure; or
-
-                             (ii)  a pontoon or other floating structure; or
-
-                            (iii)  a walkway, mooring facility or similar structure;
-
-unless the person is authorised to engage in the conduct by:
-
-                      (i)  a permission granted under the regulations for the purposes of section 38CA; or
-
-                      (j)  an authority given in accordance with a condition of a permission referred to in paragraph (i).
-
-                    Civil penalty:
-
-                     (a)  for an aggravated contravention by an individual—20,000 penalty units; or
-
-                     (b)  for an individual in any other case—2,000 penalty units; or
-
-                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
-
-                     (d)  for a body corporate in any other case—5,000 penalty units.
-
-### Division 3A—Convictions under former section 38CA
-
-##### <a id="38CC"></a>38CC  Convictions under former section 38CA
-
-             (1)  Despite any other Commonwealth law or any State law or Territory law, if a person was convicted for an offence under section 38CA of the _Great Barrier Reef__Marine__Park__Act 1975_:
-
-                     (a)  that occurred during the period 1 July 2004 to 14 December 2006; and
-
-                     (b)  that did not attract a monetary penalty exceeding $5,000;
-
-that conviction is for all purposes to be treated as a spent conviction under Part VIIC of the _Crimes Act 1914_.
-
-             (2)  For the avoidance of doubt, a conviction referred to in subsection (1) is to be treated as a spent conviction whether or not the waiting period for the offence under Part VIIC of the _Crimes Act 1914_ has ended.
-
-             (3)  Despite Division 3 of Part VIIC of the _Crimes Act 1914_, the exclusions provided by Division 6 of Part VIIC of the _Crimes Act 1914_ do not apply in relation to a conviction referred to in subsection (1).
-
-### Division 4—Conduct in Marine Park generally
-
-##### <a id="38DA"></a>38DA  Vessel causing damage in Marine Park: offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is in charge of a vessel; and
-
-                     (b)  the vessel is in the Marine Park; and
-
-                     (c)  the person’s charge of the vessel results in, or is likely to result in, the vessel causing damage to the environment in the Marine Park.
-
-                    Penalty:
-
-                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
-
-                     (b)  in any other case—1,000 penalty units.
-
-Note:          See also Division 8.
-
-             (2)  Strict liability applies to paragraph (1)(b).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (3)  The fault element for paragraph (1)(c) is negligence.
-
-Note:          For negligence, see section 5.5 of the _Criminal Code_.
-
-##### <a id="38DB"></a>38DB  Vessel causing damage in Marine Park: civil penalty provision
-
-                   A person who is in charge of a vessel that is in the Marine Park must ensure that the person’s charge of the vessel does not result in, and is not likely to result in, the vessel causing damage to the environment in the Marine Park.
-
-                    Civil penalty:
-
-                     (a)  for an aggravated contravention by an individual—20,000 penalty units; or
-
-                     (b)  for an individual in any other case—2,000 penalty units; or
-
-                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
-
-                     (d)  for a body corporate in any other case—5,000 penalty units.
-
-##### <a id="38DC"></a>38DC  Contravening order or direction: offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  the Authority or another body gives the person an order or direction under the regulations; and
-
-                     (b)  the order or direction is of a kind declared by the regulations to be an order or direction to which this section applies; and
-
-                     (c)  the person engages in conduct; and
-
-                     (d)  the conduct contravenes the order or direction.
-
-                    Penalty:  500 penalty units.
-
-             (2)  Absolute liability applies to paragraphs (1)(a) and (b).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-             (3)  The fault element for paragraph (1)(d) is negligence.
-
-Note:          For negligence, see section 5.5 of the _Criminal Code_.
-
-##### <a id="38DD"></a>38DD  Discharging waste: offence
-
-Discharging waste
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person discharges waste; and
-
-                     (b)  the waste is discharged in the Marine  Park; and
-
-                     (c)  the person is not authorised to discharge the waste by:
-
-                              (i)  a permission granted under the regulations for the purposes of this section; or
-
-                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
-
-                    Penalty:
-
-                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
-
-                     (b)  in any other case—1,000 penalty units.
-
-Note:          See also Division 8.
-
-             (2)  The fault element for paragraph (1)(a) is negligence.
-
-Note:          For negligence, see section 5.5 of the _Criminal Code_.
-
-             (3)  Strict liability applies to paragraphs (1)(b) and (c).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Discharging waste: strict liability
-
-             (4)  A person commits an offence if:
-
-                     (a)  the person discharges waste; and
-
-                     (b)  the waste is discharged from a vessel; and
-
-                     (c)  the waste is discharged in the Marine  Park; and
-
-                     (d)  the person is not authorised to discharge the waste by:
-
-                              (i)  a permission granted under the regulations for the purposes of this section; or
-
-                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
-
-                    Penalty:  500 penalty units.
-
-             (5)  Strict liability applies to subsection (4).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-Defence—prescribed circumstances
-
-             (6)  Subsections (1) and (4) do not apply if circumstances prescribed by the regulations for the purposes of this subsection exist in relation to the discharge. Any circumstances prescribed must be circumstances that relate to the discharge of sewage from vessels.
-
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
-
-Defence—certain discharges of fish from vessels and aircraft
-
-             (7)  Subsections (1) and (4) do not apply to the discharge of waste from a vessel or aircraft if:
-
-                     (a)  the waste is fresh fish, or parts of fresh fish, caught in the Marine Park; and
-
-                     (b)  the waste is not discharged in a part of the Marine Park specified in the regulations for the purposes of this paragraph.
-
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
-
-Defence—certain discharges from vessels, aircraft and platforms
-
-             (8)  Subsections (1) and (4) do not apply to the discharge of waste from a vessel, aircraft or platform if any of the following apply in relation to the discharge:
-
-                     (a)  it was for the purpose of securing the safety of the vessel, aircraft or platform;
-
-                     (b)  it was for the purpose of saving life at sea;
-
-                     (c)  it was for the purpose of combating a specific incident of pollution in order to minimise the damage from pollution and had been approved by:
-
-                              (i)  a prescribed officer within the meaning of subsection 3(2) of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_; or
-
-                             (ii)  the Authority under section 38DE.
-
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
-
-Defence—discharge in zone where discharges do not require permission
-
-             (9)  Subsections (1) and (4) do not apply in relation to the discharge of waste in a zone if the discharge of waste is for a purpose for which, under the zoning plan for the zone, the zone may be used or entered without permission.
-
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
-
-##### <a id="38DE"></a>38DE  Pollution-related approval
-
-                   For the purposes of subparagraphs 38DD(8)(c)(ii), 38EA(7)(c)(ii) and 38EB(3)(c)(ii), the Authority may approve a proposed discharge of waste from a vessel, aircraft or platform if the Authority is satisfied that the discharge is for the purpose of combating a specific incident of pollution in order to minimise the damage from pollution.
-
-### Division 5—Conduct contravening conditions
-
-##### <a id="38EA"></a>38EA  Conduct contravening condition of permission or authority: offence
-
-Contravening condition of permission or authority
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is authorised to do something by:
-
-                              (i)  a permission granted under the regulations for the purposes of a provision of this Act or of a zoning plan; or
-
-                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i); and
-
-                     (b)  the permission is subject to a condition; and
-
-                     (c)  the person engages in conduct; and
-
-                     (d)  the conduct contravenes the condition.
-
-                    Penalty:
-
-                     (a)  for an aggravated offence—1,000 penalty units; or
-
-                     (b)  in any other case—500 penalty units.
-
-             (2)  Absolute liability applies to paragraphs (1)(a) and (b).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-             (3)  The fault element for paragraph (1)(d) is negligence.
-
-Note:          For negligence, see section 5.5 of the _Criminal Code_.
-
-Contravening condition of permission or authority: strict liability
-
-             (4)  A person commits an offence if:
-
-                     (a)  the person is authorised to do something by:
-
-                              (i)  a permission granted under the regulations for the purposes of a provision of this Act or of a zoning plan; or
-
-                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i); and
-
-                     (b)  the permission is subject to a condition; and
-
-                     (c)  the person engages in conduct; and
-
-                     (d)  the conduct contravenes the condition.
+             (2)  A person is guilty of an offence if the person uses or enters a zone for a purpose other than a purpose that is permitted under the zoning plan that relates to the zone.
 
                     Penalty:  60 penalty units.
 
-             (5)  Strict liability applies to subsection (4).
+             (3)  An offence under subsection (2) is an offence of strict liability.
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-Defence—certain discharges of fish from vessels and aircraft
+##### <a id="38B"></a>38B  Permission requirements to be observed—zoned area
 
-             (6)  Subsections (1) and (4) do not apply to the discharge of waste from a vessel or aircraft if:
+             (1)  Where, under a zoning plan, a zone may not be used or entered for a particular purpose except with the permission of:
 
-                     (a)  the waste is fresh fish, or parts of fresh fish, caught in the Marine Park; and
+                     (a)  the responsible agency within the meaning of the plan; or
 
-                     (b)  the waste is not discharged in a part of the Marine Park specified in the regulations for the purposes of this paragraph.
+                     (b)  the Authority;
 
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+a person must not intentionally or negligently use or enter the zone for that purpose unless:
 
-Defence—certain discharges from vessels, aircraft and platforms
+                     (c)  the use or entry is authorised by a permission granted or transferred to the person under the regulations, being a permission of a kind declared by the regulations to be a permission to which this section applies; or
 
-             (7)  Subsections (1) and (4) do not apply to the discharge of waste from a vessel, aircraft or platform if any of the following apply in relation to the discharge:
+                     (d)  the use or entry is authorised by an authority given to the person in accordance with a condition to which such a permission is subject.
 
-                     (a)  it was for the purpose of securing the safety of the vessel, aircraft or platform;
+                    Penalty:  200 penalty units.
 
-                     (b)  it was for the purpose of saving life at sea;
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
 
-                     (c)  it was for the purpose of combating a specific incident of pollution in order to minimise the damage from pollution and had been approved by:
+             (2)  Subsection (1) does not apply in such circumstances as are prescribed, being circumstances relating to:
 
-                              (i)  a prescribed officer within the meaning of subsection 3(2) of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_; or
+                     (a)  conduct engaged in during:
 
-                             (ii)  the Authority under section 38DE.
+                              (i)  the period of 120 days after the day on which the zoning plan concerned comes into operation; or
 
-Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+                             (ii)  the period of 120 days after the day on which an amendment of the zoning plan concerned comes into operation; or
 
-##### <a id="38EB"></a>38EB  Conduct contravening condition of permission or authority: civil penalty provision
+                     (b)  conduct engaged in by a person after the end of that period where the person applied for permission of a kind referred to in subsection (1) during that period.
 
-             (1)  A person who is authorised to do something by:
+##### <a id="38C"></a>38C  Contravening conditions of permit or authority—zoned area
 
-                     (a)  a permission granted under the regulations for the purposes of a provision of this Act or of a zoning plan; or
+             (1)  A person is guilty of an offence if:
 
-                     (b)  an authority given in accordance with a condition of a permission referred to in paragraph (a);
+                     (a)  a permission or authority referred to in section 38B is subject to a condition; and
 
-must not engage in conduct that contravenes a condition of the permission.
+                     (b)  the condition applies to the person; and
 
-                    Civil penalty:
+                     (c)  the person engages in conduct; and
 
-                     (a)  for an aggravated contravention by an individual—2,000 penalty units; or
+                     (d)  the conduct contravenes the condition.
 
-                     (b)  for an individual in any other case—1,000 penalty units; or
+                    Penalty:  200 penalty units.
 
-                     (c)  for an aggravated contravention by a body corporate—20,000 penalty units; or
+             (2)  The fault element for paragraph (1)(d) is negligence.
 
-                     (d)  for a body corporate in any other case—10,000 penalty units.
+Note:          Section 5.5 of the _Criminal Code_ defines **_negligence_**.
 
-             (2)  Subsection (1) does not apply to the discharge of waste from a vessel or aircraft if:
+             (3)  In this section:
 
-                     (a)  the waste is fresh fish, or parts of fresh fish, caught in the Marine Park; and
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
 
-                     (b)  the waste is not discharged in a part of the Marine Park specified in the regulations for the purposes of this paragraph.
+                     (a)  do an act; or
 
-             (3)  Subsection (1) does not apply to the discharge of waste from a vessel, aircraft or platform if any of the following apply:
+                     (b)  omit to perform an act.
 
-                     (a)  it was for the purpose of securing the safety of the vessel, aircraft or platform;
+##### <a id="38CA"></a>38CA  Zones to be used only for permitted fishing
 
-                     (b)  it was for the purpose of saving life at sea;
+             (1)  A person is guilty of an offence if:
 
-                     (c)  it was for the purpose of combating a specific incident of pollution in order to minimise the damage from pollution and had been approved by:
+                     (a)  the person intentionally or negligently uses or enters a zone for the purpose of fishing; and
 
-                              (i)  a prescribed officer within the meaning of subsection 3(2) of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_; or
+                     (b)  that fishing is not permitted under the zoning plan that relates to the zone.
 
-                             (ii)  the Authority under section 38DE.
+                    Penalty:  2,000 penalty units.
 
-### Division 6—Collective and vicarious liability
+             (2)  In this section:
 
-##### <a id="38FA"></a>38FA  Liability for vessel, aircraft or platform used in committing offence: offence
+                    <a name="boat"></a>**_boat_** means launch, vessel or floating craft of any description.
 
-             (1)  A person commits an offence if:
+                    <a name="fish"></a>**_fish_** includes all species of bony fish, sharks, rays, crustaceans, molluscs and other marine organisms, but does not include marine mammals or marine reptiles.
 
-                     (a)  a person is responsible (see subsection (4)) for a vessel, aircraft or platform; and
+                    <a name="fish"></a>**_fishing_** means any of the following:
 
-                     (b)  the vessel, aircraft or platform is used in committing an offence against a provision of another Division of this Part; and
+                     (a)  searching for, or taking, fish;
 
-                     (c)  the person failed to take all reasonable steps and to exercise due diligence to prevent the vessel, aircraft or platform being used in committing the offence.
+                     (b)  attempting to search for, or take, fish;
 
-                    Penalty:  The penalty for which the person would have been liable had the person committed the offence referred to in paragraph (1)(b).
+                     (c)  engaging in any other activities that can reasonably be expected to result in the locating, or taking, of fish;
 
-Note:          See also Division 8.
+                     (d)  placing, searching for or recovering fish aggregating devices or associated electronic equipment such as radio beacons;
 
-             (2)  Strict liability applies to paragraphs (1)(a) and (b).
+                     (e)  any operations at sea directly in support of, or in preparation for, any activity described in this definition;
+
+                      (f)  aircraft use relating to any activity described in this definition except flights in emergencies involving the health or safety of crew members or the safety of a boat;
+
+                     (g)  the processing, carrying or transhipping of fish that have been taken.
+
+                    <a name="process"></a>**_processing_**, in relation to fish, includes the work of cutting up, dismembering, cleaning, sorting, packing or freezing.
+
+                    <a name=""></a>**_take_**, in relation to fish, means catch, capture, take or harvest.
+
+##### <a id="38CB"></a>38CB  Permission requirements to be observed for fishing—zoned area
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  under a zoning plan, a zone may be used or entered for the purpose of fishing only with the permission of:
+
+                              (i)  the responsible agency within the meaning of the plan; or
+
+                             (ii)  the Authority; and
+
+                     (b)  the person intentionally or negligently uses or enters that zone for the purpose of such fishing; and
+
+                     (c)  the use or entry is not authorised by a permission granted or transferred to the person under the regulations, being a permission of a kind declared by the regulations to be a permission to which this section applies; and
+
+                     (d)  the use or entry is not authorised by an authority given to the person in accordance with a condition to which such a permission is subject.
+
+                    Penalty:  2,000 penalty units.
+
+             (2)  Strict liability applies to paragraph (1)(a).
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-             (3)  In determining whether the person took all reasonable steps and exercised due diligence for the purposes of paragraph (1)(c), have regard to:
+             (3)  In this section:
 
-                     (a)  any steps the person took to become satisfied that this Act would be complied with; and
+                    <a name="fish"></a>**_fishing_** has the same meaning as in section 38CA.
 
-                     (b)  if the person was, or should have been, aware that there was a risk that the vessel, aircraft or platform would be used in committing an offence—any steps the person took to reduce or remove that risk.
+##### <a id="38CC"></a>38CC  Contravening conditions of permit or authority in relation to fishing—zoned area
 
-             (4)  For the purposes of paragraph (1)(a), each of the following persons is **_responsible_** for the vessel, aircraft or platform:
+             (1)  A person is guilty of an offence if:
 
-                     (a)  the master of the vessel or the person in charge of the aircraft or platform;
+                     (a)  a permission or authority referred to in section 38CB is subject to a condition; and
 
-                     (b)  the owner or a co-owner, or an owner of any part of or share in, the vessel, aircraft or platform;
+                     (b)  the condition applies to the person; and
 
-                     (c)  a party to an agreement with a person referred to in paragraph (a) or (b) under which the party, or the party and the other person, may determine the activities for which the vessel, aircraft or platform is used;
+                     (c)  the person engages in conduct; and
 
-                     (d)  in relation to a primary commercial fishing vessel used in committing an offence constituted by conduct that is fishing:
+                     (d)  the conduct contravenes the condition.
 
-                              (i)  a person who, under a law of the Commonwealth, a State or Territory, holds a licence or other permission (however described and including one that is suspended) permitting the vessel to be used to take fish for commercial purposes; and
+                    Penalty:  2,000 penalty units.
 
-                             (ii)  a person who, under a law of the Commonwealth, a State or Territory, holds a licence or other permission (however described and including one that is suspended) permitting the person to be in charge of the vessel’s fishing operations;
+             (2)  The fault element for paragraph (1)(d) is negligence.
 
-                     (e)  in relation to a dory used in committing an offence constituted by conduct that is fishing:
+Note:          Section 5.5 of the _Criminal Code_ defines **_negligence_**.
 
-                              (i)  the master of the primary commercial fishing vessel in association with which the dory is used; and
+             (3)  In this section:
 
-                             (ii)  a person who, under a law of the Commonwealth, a State or a Territory, holds a licence or other permission (however described and including one that is suspended) permitting the dory to be used in association with a primary commercial fishing vessel; and
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
 
-                            (iii)  a person who, under a law of the Commonwealth, a State or a Territory, holds a licence or other permission (however described and including one that is suspended) permitting the primary commercial fishing vessel in association with which the dory is used to be used to take fish for commercial purposes; and
+                     (a)  do an act; or
 
-                            (iv)  a person who, under a law of the Commonwealth, a State or a Territory, holds a licence or other permission (however described and including one that is suspended) permitting the person to be in charge of the fishing operations of the primary commercial fishing vessel in association with which the dory is used.
+                     (b)  omit to perform an act.
 
-##### <a id="38FB"></a>38FB  Liability for ship used in committing offence: offence
+##### <a id="38D"></a>38D  Notification requirements to be observed—zoned area
 
-             (1)  A person commits an offence if:
+                   Where, under a zoning plan, a zone may not be used or entered for a particular purpose except after notification to:
 
-                     (a)  the person is an owner of or the master of a vessel; and
+                     (a)  the responsible agency within the meaning of the plan; or
 
-                     (b)  the vessel is used in committing an offence against a provision of another Division of this Part; and
+                     (b)  the Authority;
 
-                     (c)  the conduct constituting the offence is engaged in in a zone; and
+a person must not intentionally or negligently use or enter the zone for that purpose unless the person has notified the Authority that the person proposes to use or enter the zone for that purpose.
 
-                     (d)  the vessel is a ship within the meaning of the zoning plan for the zone.
+                    Penalty:  200 penalty units.
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+##### <a id="38E"></a>38E  Contravening directions—zoned area
+
+                   A person must not intentionally or negligently contravene a direction given to the person by the Authority under the regulations, being a direction:
+
+                     (a)  that is declared by the regulations to be a direction to which this section applies;
+
+                     (b)  that is in respect of the person’s use of, or entry to, a zone;
+
+                     (c)  that is reasonably necessary for the protection or preservation of the Marine Park or property or things in the Marine  Park; and
+
+                     (d)  that does not require the person to remove a structure, landing area, farming facility, vessel, aircraft or other thing that is in the Marine Park.
+
+                    Penalty:  200 penalty units.
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+##### <a id="38F"></a>38F  Certain activities prohibited in the unzoned area
+
+             (1)  A person must not intentionally carry on any of the following activities in the unzoned area:
+
+                     (a)  the building, assembling or fixing in position of:
+
+                              (i)  buildings or similar structures;
+
+                             (ii)  pontoons or other floating structures;
+
+                            (iii)  walkways, mooring facilities or similar structures; or
+
+                            (iv)  devices for catching marine animals;
+
+                     (b)  the operating in the one vicinity for more than:
+
+                              (i)  14 consecutive days; or
+
+                             (ii)  30 days in any period of 60 days;
+
+                            of vessels with provision for more than 8 sleeping berths;
+
+                     (c)  the carrying out of reclamation works, beach protection works, road building works or any other works;
+
+                     (d)  the construction of landing areas;
+
+                     (e)  the construction of farming facilities;
+
+                      (f)  the conduct of operations in or upon, or the maintenance of:
+
+                              (i)  buildings or similar structures;
+
+                             (ii)  pontoons or other floating structures; or
+
+                            (iii)  walkways, mooring facilities or similar structures;
+
+                     (g)  the maintenance of any device for catching marine animals;
+
+                     (h)  the demolition or removal of any:
+
+                              (i)  buildings or similar structures;
+
+                             (ii)  pontoons or other floating structures; or
+
+                            (iii)  walkways, mooring facilities or similar structures;
+
+unless:
+
+                      (j)  the carrying on of the activity is authorised by a permission granted to the person under the regulations, being a permission of a kind declared by the regulations to be a permission to which this section applies; or
+
+                     (k)  the carrying on of the activity is authorised by an authority given to the person in accordance with a condition to which such a permission is subject.
+
+                    Penalty:  200 penalty units.
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+             (2)  The reference in subsection (1) to the operating of a vessel includes a reference to:
+
+                     (a)  the conduct of operations in or upon the vessel;
+
+                     (b)  the use of the vessel as a base for carrying on other activities; and
+
+                     (c)  the carrying out of maintenance of the vessel.
+
+##### <a id="38G"></a>38G  Contravening conditions of permit or authority—unzoned area
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  a permission or authority referred to in section 38F is subject to a condition; and
+
+                     (b)  the condition applies to the person; and
+
+                     (c)  the person engages in conduct; and
+
+                     (d)  the conduct contravenes the condition.
+
+                    Penalty:  200 penalty units.
+
+             (2)  The fault element for paragraph (1)(d) is negligence.
+
+Note:          Section 5.5 of the _Criminal Code_ defines **_negligence_**.
+
+             (3)  In this section:
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+
+                     (a)  do an act; or
+
+                     (b)  omit to perform an act.
+
+##### <a id="38H"></a>38H  Removal of property
+
+                   A person must not intentionally or negligently contravene an order under the regulations, being an order:
+
+                     (a)  that is declared by the regulations to be an order to which this section applies; and
+
+                     (b)  that requires the person to remove a structure, landing area, farming facility, vessel, aircraft or other thing that is in the Marine Park.
+
+                    Penalty:  200 penalty units.
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+##### <a id="38J"></a>38J  Offence relating to the discharge of waste
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person intentionally or negligently discharges waste in the Marine Park; and
+
+                     (b)  the discharge is not authorised by a permission that:
+
+                              (i)  is granted or transferred to the person under the regulations; and
+
+                             (ii)  is of a kind declared by the regulations to be a permission to which this section applies.
+
+                    Penalty:  2,000 penalty units.
+
+          (1A)  Subsection (1) does not apply if the discharge is sewage.
+
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (1A) (see subsection 13.3(3) of the _Criminal Code_).
+
+          (1B)  A person is guilty of an offence if:
+
+                     (a)  the person discharges waste in the   Marine Park; and
+
+                     (b)  the discharge is not authorised by a permission that:
+
+                              (i)  is granted or transferred to the person under the regulations; and
+
+                             (ii)  is of a kind declared by the regulations to be a permission to which this section applies.
 
                     Penalty:  500 penalty units.
 
-             (2)  Strict liability applies to subsection (1).
+          (1C)  An offence under subsection (1B) is an offence of strict liability.
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="38FC"></a>38FC  Liability for vessel causing damage in Marine Park: offence
+          (1D)  Subsection (1B) does not apply if the discharge is sewage.
 
-             (1)  A person commits an offence if:
+Note:          A defendant bears an evidential burden in relation to the matter in subsection (1D) (see subsection 13.3(3) of the _Criminal Code_).
 
-                     (a)  the person is an owner of or the master of a vessel; and
+             (2)  A person is guilty of an offence if:
 
-                     (b)  the vessel is used in committing an offence against section 38DA (vessel causing damage in Marine Park) or 38DD (discharging waste).
+                     (a)  a permission referred to in subsection (1) is subject to a condition; and
 
-                    Penalty:  500 penalty units.
+                     (b)  the condition applies to the person; and
 
-             (2)  Strict liability applies to subsection (1).
+                     (c)  the person engages in conduct; and
+
+                     (d)  the conduct contravenes the condition.
+
+                    Penalty:  200 penalty units.
+
+          (2A)  The fault element for paragraph (2)(d) is negligence.
+
+Note:          Section 5.5 of the _Criminal Code_ defines **_negligence_**.
+
+          (2B)  In subsection (2):
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
+
+                     (a)  do an act; or
+
+                     (b)  omit to perform an act.
+
+             (3)  This section does not apply to the discharging of waste in a zone where the relevant zoning plan makes provision for the zone to be used or entered for that purpose.
+
+             (4)  This section does not apply to the discharge from a vessel or aircraft of:
+
+                     (a)  sewage, if:
+
+                              (i)  the vessel or aircraft, as the case may be, does not contain a storage tank of a kind designed for storage of sewage; or
+
+                             (ii)  the vessel or aircraft, as the case may be, contains a storage tank of a kind designed for the storage of sewage and the vessel or aircraft is more than 500 metres seawards from the seaward edge of the nearest reef; or
+
+                     (b)  fresh fish, or parts of fresh fish, if the fish were caught within the Marine Park.
+
+             (5)  This section does not apply to the discharge of waste from a vessel, aircraft or platform by a person if:
+
+                     (a)  the discharge was for the purpose of securing the safety of the vessel, aircraft or platform, as the case may be, or for the purpose of saving life at sea; or
+
+                     (b)  the discharge:
+
+                              (i)  was for the purpose of combating specific incidents of pollution in order to minimise the damage from pollution; and
+
+                             (ii)  was approved by a prescribed officer; or
+
+             (7)  In this section:
+
+                    <a name="discharg"></a>**_discharge_** means release, however the release is caused, and includes any escape, disposal, depositing, spilling, leaking, pumping, emitting or emptying.
+
+                    <a name="prescrib-offic"></a>**_prescribed officer_** has the same meaning as in subsection 3(2) of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_ but includes a person declared by the regulations to be a prescribed officer for the purposes of this section.
+
+                    <a name="reef"></a>**_reef_** includes bommie fields, reef slopes, moats and ramparts.
+
+                    <a name="wast"></a>**_waste_** means:
+
+                     (a)  oil within the meaning of Part II of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_; and
+
+                     (b)  oil mixtures if the oil content of the discharge is greater than 15 parts in 1,000,000 parts; and
+
+                     (c)  noxious liquid substances within the meaning of Part III of that Act; and
+
+                     (d)  packaged harmful substances within the meaning of Part IIIA of that Act; and
+
+                     (e)  sewage within the meaning of Part IIIB of that Act; and
+
+                      (f)  garbage within the meaning of Part IIIC of that Act; and
+
+                     (g)  any other matter that is declared by the regulations to be waste for the purposes of this section.
+
+##### <a id="38K"></a>38K  Offences involving the use of vessels or aircraft
+
+             (1)  Where:
+
+                     (a)  by use of a vessel or aircraft, an offence is committed against any of sections 38A to 38H (inclusive); and
+
+                     (b)  a responsible person in relation to the vessel or aircraft:
+
+                              (i)  knew, or had reasonable grounds to suspect, that the vessel or aircraft would be used in committing the offence; and
+
+                             (ii)  did not take reasonable steps to prevent the use of the vessel or aircraft in committing the offence;
+
+the person is guilty of an offence punishable on conviction by a fine of not more than 200 penalty units.
+
+             (2)  In subsection (1):
+
+                    <a name="respons-person"></a>**_responsible person_**, in relation to a vessel or aircraft, means:
+
+                     (a)  a person who, at the time the offence was committed, was the master of the vessel or was in charge of the aircraft; or
+
+                     (b)  a person who, at the time the offence was committed, was the owner, a co-owner, or an owner of any part of or share in, the vessel or aircraft; or
+
+                     (c)  a person (the **_operator_**) who, at the time the offence was committed, was a party to an agreement with a person referred to in paragraph (a) or (b) under which the operator, or the operator and the other party to the agreement, may determine the activities for which the vessel or aircraft is used.
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+##### <a id="38L"></a>38L  Offences involving the discharge of waste from a vessel, aircraft or platform
+
+             (1)  If:
+
+                     (a)  by use of a vessel, aircraft or platform, an offence is committed against section 38J; and
+
+                     (b)  a responsible person in relation to the vessel, aircraft or platform:
+
+                              (i)  knew, or had reasonable grounds to suspect, that the vessel, aircraft or platform would be used in committing the offence; and
+
+                             (ii)  did not take reasonable steps to prevent the use of the vessel, aircraft or platform in committing the offence;
+
+the responsible person is guilty of an indictable offence punishable on conviction by a fine of not more than 2,000 penalty units.
+
+             (2)  Even though an offence against subsection (1) is an indictable offence, a court of summary jurisdiction may hear and determine proceedings in respect of the offence if:
+
+                     (a)  the court is satisfied that it is proper to do so; and
+
+                     (b)  the defendant and the prosecutor consent.
+
+             (3)  If, under subsection (2), a court of summary jurisdiction convicts a person of an offence against subsection (1), the maximum fine that the court may impose is one-tenth of the maximum fine that could have been imposed had the offence been tried on indictment.
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+          (3A)  The regulations may prescribe measures for the management of the discharge of sewage from vessels in the Marine Park and may create offences, not inconsistent with this Act, relating to the discharge of sewage from vessels. 
+
+          (3B)  Regulations made for the purposes of subsection (3A) may provide a maximum penalty for an offence against the regulations not exceeding the maximum penalty for an offence against subsection (1), but nothing in this subsection enables the regulations to provide penalties of imprisonment.
+
+             (4)  In this section:
+
+                    <a name="respons-person"></a>**_responsible person_**, in relation to a vessel, aircraft or platform, means:
+
+                     (a)  a person who, at the time the offence was committed, was the master of the vessel or was in charge of the aircraft or platform; or
+
+                     (b)  a person who, at the time the offence was committed, was the owner, a co-owner, or an owner of any part of or share in, the vessel, aircraft or platform; or
+
+                     (c)  a person (the **_operator_**) who, at the time the offence was committed, was a party to an agreement with a person referred to in paragraph (a) or (b) under which the operator, or the operator and the other party to the agreement, may determine the activities for which the vessel, aircraft or platform is used.
+
+##### <a id="38M"></a>38M  Zones to be used only by permitted ships
+
+Operators
+
+             (1)  A person is guilty of an offence if:
+
+                     (a)  the person operates a ship; and
+
+                     (b)  the ship is in a zone that it is not permitted to be in under the zoning plan that relates to the zone and the person is negligent as to that fact.
+
+                    Penalty:  2,000 penalty units.
+
+Owners and operators
+
+             (2)  If:
+
+                     (a)  a ship is operated in a zone; and
+
+                     (b)  under the zoning plan that relates to the zone, that ship is not permitted in the zone;
+
+the operator and the owner of the ship are each guilty of an offence punishable on conviction by a fine of not more than 500 penalty units.
+
+             (3)  An offence under subsection (2) is an offence of strict liability.
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-##### <a id="38FD"></a>38FD  Liability of permission holder for conduct contravening permission: offence
+Interpretation
 
-             (1)  A person commits an offence if:
+             (4)  In this section:
 
-                     (a)  the person gives another person authority to engage in conduct; and
+                    <a name="ship"></a>**_ship_** has the same meaning as in the zoning plan concerned.
 
-                     (b)  the authority is given in accordance with a permission granted under the regulations for the purposes of a provision of this Act or of a zoning plan; and
+##### <a id="38MA"></a>38MA  Permission requirements to be observed for ships—zoned area
 
-                     (c)  the permission is subject to a condition; and
+Operators
 
-                     (d)  the other person commits an offence against section 38EA involving a contravention of the condition; and
+             (1)  A person is guilty of an offence if:
 
-                     (e)  the person failed to take all reasonable steps and to exercise due diligence to prevent the other person contravening the condition.
+                     (a)  under a zoning plan, a ship is permitted to be in a zone only with the permission of:
 
-                    Penalty:  The penalty for which the person would have been liable had the person committed the offence referred to in paragraph (1)(d).
+                              (i)  the responsible agency within the meaning of the plan; or
 
-             (2)  Strict liability applies to paragraphs (1)(a), (b), (c) and (d).
+                             (ii)  the Authority; and
 
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+                     (b)  the person operates such a ship; and
 
-             (3)  In determining whether the person took all reasonable steps and exercised due diligence for the purposes of paragraph (1)(e), have regard to:
+                     (c)  the ship is in that zone and the person is negligent as to that fact; and
 
-                     (a)  any steps the person took to become satisfied that the conditions of the permission would be complied with; and
+                     (d)  the ship being in that zone is not authorised by a permission granted or transferred to the person under the regulations, being a permission of a kind declared by the regulations to be a permission to which this section applies; and
 
-                     (b)  if the person was, or should have been, aware that there was a risk that the other person would contravene a condition of the permission—any steps the person took to reduce or remove that risk.
+                     (e)  the ship being in that zone is not authorised by an authority given to the person in accordance with a condition to which such a permission is subject.
 
-### Division 7—Aggravated offences and contraventions
+                    Penalty:  2,000 penalty units.
 
-##### <a id="38GA"></a>38GA  Aggravated offences
-
-             (1)  A person commits an **_aggravated offence_** against a provision of this Part if the conduct the person engaged in that constituted the offence:
-
-                     (a)  was fishing that involved a primary commercial fishing vessel or a dory; or
-
-                     (b)  was navigating a vessel that is a ship within the meaning of the zoning plan for the zone in which the vessel was being navigated; or
-
-                     (c)  resulted in:
-
-                              (i)  the taking of or injury to an animal or plant that is a member of a protected species; or
-
-                             (ii)  serious harm to the environment in the Marine Park (see subsection (7)); or
-
-                     (d)  had the potential to result in serious harm to the environment in the Marine Park (see subsection (8)); or
-
-                     (e)  was done for a commercial purpose.
-
-             (2)  If the prosecution intends to prove an aggravated offence, the charge must allege the relevant aggravated offence.
-
-             (3)  In order to prove an aggravated offence, the prosecution must prove the following:
-
-                     (a)  if paragraph (1)(a) applies—that the defendant was reckless as to whether the conduct he or she engaged in was fishing;
-
-                     (b)  if paragraph (1)(b) applies—that the defendant was reckless as to whether the conduct he or she engaged in was navigating a vessel;
-
-                     (c)  if paragraph (1)(c) applies—that the defendant was reckless as to whether the conduct he or she engaged in had the result referred to in paragraph (1)(c);
-
-                     (d)  if paragraph (1)(d) applies—that the defendant was reckless as to whether the conduct he or she engaged in had the potential to result in serious harm to the environment in the Marine Park;
-
-                     (e)  if paragraph (1)(e) applies—that the defendant intended  to engage in the conduct for a commercial purpose.
-
-             (4)  Strict liability applies to:
-
-                     (a)  if paragraph (1)(a) applies—the physical element of circumstance, that the fishing involved a primary commercial fishing vessel or a dory; and
-
-                     (b)  if paragraph (1)(b) applies—the physical element of circumstance, that the vessel is a ship within the meaning of the zoning plan for the zone in which it was being navigated; and
-
-                     (c)  if subparagraph (1)(c)(i) applies—the physical element of circumstance, that the animal or plant is a member of a protected species.
+             (2)  Strict liability applies to paragraph (1)(a).
 
 Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-             (5)  If, in a prosecution for an aggravated offence against a provision of this Part, the trier of fact:
+Owners and operators
 
-                     (a)  is not satisfied that the defendant has committed an aggravated offence against that provision; and
+             (3)  If:
 
-                     (b)  is satisfied beyond reasonable doubt that the defendant has committed an offence against that provision;
+                     (a)  under a zoning plan, a ship is permitted to be in a zone only with the permission of:
 
-the trier of fact may find the defendant not guilty of the aggravated offence but guilty of an offence against that provision.
+                              (i)  the responsible agency within the meaning of the plan; or
 
-             (6)  For the purposes of paragraph (1)(b), **_navigate_** includes moor, or anchor, in the course of navigation.
+                             (ii)  the Authority; and
 
-             (7)  In determining for the purposes of subparagraph (1)(c)(ii) whether conduct has resulted in serious harm to the environment in the Marine Park, have regard to the following:
+                     (b)  such a ship is operated in that zone; and
 
-                     (a)  the harm;
+                     (c)  the ship being in that zone is not authorised by a permission granted or transferred to any person under the regulations, being a permission of a kind declared by the regulations to be a permission to which this section applies; and
 
-                     (b)  the size of the affected environment;
+                     (d)  the ship being in that zone is not authorised by an authority given to any person in accordance with a condition to which such a permission is subject;
 
-                     (c)  the sensitivity of the affected environment;
+the operator and the owner of the ship are each guilty of an offence punishable on conviction by a fine of not more than 500 penalty units.
 
-                     (d)  the significance of the affected environment;
+             (4)  An offence under subsection (3) is an offence of strict liability.
 
-                     (e)  the management objectives contained in the zoning plan for the zone in which the person engaged in the conduct;
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-                      (f)  whether the harm is irreversible;
+Interpretation
 
-                     (g)  the measures required to remedy the harm.
+             (5)  In this section:
 
-             (8)  In determining for the purposes of paragraph (1)(d) whether conduct had the potential to result in serious harm to the environment in the Marine Park, have regard to the potential for the conduct to result in serious harm for the purposes of subparagraph (1)(c)(ii).
+                    <a name="ship"></a>**_ship_** has the same meaning as in the zoning plan concerned.
 
-##### <a id="38GB"></a>38GB  Aggravated contraventions
+##### <a id="38MB"></a>38MB  Contravening conditions of permit or authority in relation to ships—zoned area
 
-             (1)  A contravention of a civil penalty provision by a person is an **_aggravated contravention_** if the conduct the person engaged in that constituted the contravention:
+             (1)  A person is guilty of an offence if:
 
-                     (a)  was fishing that involved a primary commercial fishing vessel or a dory; or
+                     (a)  a permission or authority referred to in section 38MA is subject to a condition; and
 
-                     (b)  was navigating a vessel that is a ship within the meaning of the zoning plan for the zone in which the vessel is being navigated; or
+                     (b)  the condition applies to the person; and
 
-                     (c)  resulted in:
+                     (c)  the person engages in conduct; and
 
-                              (i)  the taking of or injury to an animal or plant that is a member of a protected species; or
+                     (d)  the conduct contravenes the condition.
 
-                             (ii)  serious harm to the environment in the Marine Park; or
+                    Penalty:  2,000 penalty units.
 
-                     (d)  had the potential to result in serious harm to the environment in the Marine Park; or
+             (2)  The fault element for paragraph (1)(d) is negligence.
 
-                     (e)  was done for a commercial purpose.
+Note:          Section 5.5 of the _Criminal Code_ defines **_negligence_**.
 
-             (2)  If the Authority, on behalf of the Commonwealth, intends to prove that the person has committed an aggravated contravention, the Authority’s application to the Federal Court under section 61AIA in relation to the contravention must specify the relevant aggravated contravention.
+             (3)  In this section:
 
-             (3)  If, in proceedings for a declaration of contravention in relation to an aggravated contravention of a provision of this Part, the Federal Court:
+                    <a name="engag-conduct"></a>**_engage in conduct_** means:
 
-                     (a)  is not satisfied that the person has committed an aggravated contravention against that provision; and
+                     (a)  do an act; or
 
-                     (b)  is satisfied beyond reasonable doubt that the person has contravened that provision;
+                     (b)  omit to perform an act.
 
-the Federal Court may make a pecuniary penalty order against the person not for the aggravated contravention but for the contravention of that provision.
+##### <a id="38MC"></a>38MC  Vessels causing damage in the Marine Park
 
-             (4)  Subsection 38GA(6) (about navigation) also applies for the purposes of paragraph (1)(b).
+Operators
 
-             (5)  Subsections 38GA(7) and (8) (about serious harm) also apply for the purposes of subparagraph (1)(c)(ii) and paragraph (1)(d).
+             (1)  A person is guilty of an offence if:
 
-### Division 8—Miscellaneous
+                     (a)  the person operates a vessel; and
 
-##### <a id="38HA"></a>38HA  Commencement of certain prosecutions: time limit
+                     (b)  the vessel is in the Marine Park and the person is negligent as to that fact; and
 
-             (1)  A prosecution of an individual for an offence against a provision of this Part, the maximum penalty for which:
+                     (c)  that operation results in, or is likely to result in, damage to the Marine Park and the person is negligent as to that fact.
 
-                     (a)  does not include a term of imprisonment (otherwise than because of section 38HC, 38HD, 38HE or 38HF); or
+                    Penalty:  2,000 penalty units.
 
-                     (b)  includes a term of imprisonment of 6 months or less;
+Owners and operators
 
-may be commenced at any time within 2 years of the commission of the offence.
+             (2)  If a vessel is operated in the Marine Park and that operation results in, or is likely to result in, damage to the Marine Park, the operator and the owner of the vessel are each guilty of an offence punishable on conviction by a fine of not more than 500 penalty units.
 
-Note:          Subsection (1) extends by a year the deadline that would otherwise apply to these offences under section 15B of the _Crimes Act 1914_. For offences with a maximum penalty of more than 6 months’ imprisonment, section 15B of that Act means that there is no deadline.
+             (3)  An offence under subsection (2) is an offence of strict liability.
 
-             (2)  A prosecution of a body corporate for an offence against a provision of this Part, the maximum penalty for which is a fine of 150 penalty units or less, may be commenced at any time within 2 years of commission of the offence.
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
 
-Note:          Subsection (2) extends by a year the deadline that would otherwise apply to these offences under section 15B of the _Crimes Act 1914_. For offences with a maximum penalty of more than 150 penalty units, section 15B of that Act means that there is no deadline.
+##### <a id="38N"></a>38N  Injunctions
 
-             (3)  In applying subsection 15B(1) of the _Crimes Act 1914_ to an offence against a provision of this Part, disregard the effect of sections 38HC, 38HD, 38HE and 38HF.
+             (1)  Where a person has engaged, is engaging or is proposing to engage in conduct that constitutes or would constitute a contravention of any of sections 38 to 38MC (inclusive), the Supreme Court of a State or Territory may, on the application of:
 
-##### <a id="38HB"></a>38HB  Commencement of certain prosecutions: Attorney-General’s consent
+                     (a)  the Authority; or
 
-             (1)  Proceedings for an offence committed by a person against a provision of Division 6 of this Part must not be commenced without the Attorney-General’s written consent if the person is not an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory.
+                     (b)  any person whose interests have been, are or would be affected by the conduct;
 
-             (2)  In deciding whether to consent for the purposes of this section, the Attorney-General must have regard to the obligations of Australia under international law, including obligations under any agreement or arrangement between Australia and another country or countries.
+grant an injunction in such terms as the court determines to be appropriate.
 
-##### <a id="38HC"></a>38HC  Conduct in the exclusive economic zone: offences other than Division 6 offences
+             (2)  Where a person has refused or failed, is refusing or failing, or is proposing to refuse or fail, to do an act or thing that the person is required to do by any of sections 38 to 38MC (inclusive), the Supreme Court of a State or Territory may, on the application of:
 
-             (1)  This section applies in relation to an offence committed by a person against a provision of this Part (other than a provision of Division 6) if:
+                     (a)  the Authority; or
 
-                     (a)  the conduct constituting the offence occurs in the exclusive economic zone of Australia; and
+                     (b)  any person whose interests have been, are or would be affected by the refusal or failure to do that act or thing;
 
-                     (b)  none of the following apply:
+grant an injunction in such terms as the court determines to be appropriate.
 
-                              (i)  the person is an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory;
+             (3)  Where in the opinion of the court it is desirable to do so, the court may grant an interim injunction pending determination of an application under subsection (1) or (2).
 
-                             (ii)  an Australian vessel is used in committing the offence;
+             (4)  The court may rescind or vary an injunction granted under this section.
 
-                            (iii)  an Australian aircraft is used in committing the offence;
+             (5)  The power of the court to grant an injunction restraining a person from engaging in conduct may be exercised:
 
-                            (iv)  a platform located in the Great Barrier Reef Region is used in committing the offence; and
+                     (a)  whether or not it appears to the court that the person intends to engage again, or to continue to engage, in conduct of that kind;
 
-                     (c)  the penalty set out at the foot of the provision for an offence against the provision includes imprisonment.
+                     (b)  whether or not the person has previously engaged in conduct of that kind; and
 
-             (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person does not include imprisonment.
+                     (c)  whether or not there is an imminent danger of substantial damage if the person engages in conduct of that kind.
 
-##### <a id="38HD"></a>38HD  Conduct in the exclusive economic zone: Division 6 offences
+             (6)  The power of the court to grant an injunction requiring a person to do an act or thing may be exercised:
 
-             (1)  This section applies in relation to an offence (a **_vicarious liability offence_**) committed by a person against a provision of Division 6 of this Part if:
+                     (a)  whether or not it appears to the court that the person intends to refuse or fail again, or to continue to refuse or fail, to do that act or thing;
 
-                     (a)  the conduct constituting the offence (the **_underlying offence_**) to which the vicarious liability offence relates occurs in the exclusive economic zone of Australia; and
+                     (b)  whether or not the person has previously refused or failed to do that act or thing; and
 
-                     (b)  the person is not an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory; and
+                     (c)  whether or not there is an imminent danger of substantial damage if the person refuses or fails to do that act or thing.
 
-                     (c)  the penalty set out at the foot of the provision for an offence against the provision includes imprisonment.
+             (7)  A reference in this section to conduct that constitutes a contravention of any of sections 38 to 38MC (inclusive) includes a reference to conduct that constitutes:
 
-             (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person does not include imprisonment.
+                     (a)  attempting to contravene such a provision;
 
-##### <a id="38HE"></a>38HE  Conduct in the territorial sea: offences other than Division 6 offences
+                     (b)  aiding, abetting, counselling or procuring a person to contravene such a provision;
 
-             (1)  This section applies in relation to an offence committed by a person against a provision of this Part (other than a provision of Division 6) if:
+                     (c)  inducing, or attempting to induce, whether by threats, promises or otherwise, a person to contravene such a provision;
 
-                     (a)  the result of the conduct constituting the offence is pollution of the marine environment (however described); and
+                     (d)  being in any way, directly or indirectly, knowingly concerned in, or party to, the contravention by a person of such a provision; or
 
-                     (b)  the conduct occurs in the territorial sea of Australia; and
+                     (e)  conspiring with others to contravene such a provision.
 
-                     (c)  none of the following apply:
+##### <a id="39"></a>39  Great  Barrier Reef not to be reserved under the _Environment Protection and Biodiversity Conservation Act 1999_
 
-                              (i)  the person is an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory;
-
-                             (ii)  an Australian vessel is used in committing the offence;
-
-                            (iii)  an Australian aircraft is used in committing the offence;
-
-                            (iv)  a platform located in the Great Barrier Reef Region is used in committing the offence; and
-
-                     (d)  the penalty set out at the foot of the provision for an offence against that provision includes imprisonment.
-
-             (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person only includes imprisonment if the prosecution proves that:
-
-                     (a)  the person intended to engage in the conduct that constituted the offence; and
-
-                     (b)  the pollution is serious.
-
-##### <a id="38HF"></a>38HF  Conduct in the territorial sea: Division 6 offences
-
-             (1)  This section applies in relation to an offence (a **_vicarious liability offence_**) committed by a person against a provision of Division 6 of this Part if:
-
-                     (a)  the result of the conduct constituting the offence (the **_underlying offence_**) to which the vicarious liability offence relates is pollution of the marine environment (however described); and
-
-                     (b)  the conduct constituting the underlying offence occurs in the territorial sea of Australia; and
-
-                     (c)  the person is not an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory; and
-
-                     (d)  the penalty set out at the foot of the provision for an offence against that provision includes imprisonment.
-
-             (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person only includes imprisonment if the prosecution proves that:
-
-                     (a)  the person who engaged in the conduct that constituted the underlying offence intended to engage in that conduct; and
-
-                     (b)  the pollution is serious.
+                   The Governor-General must not make a Proclamation under section 344 of the _Environment Protection and Biodiversity Conservation Act 1999_ declaring an area in the Great Barrier Reef Region to be a Commonwealth reserve under that Act.
 
 ## Part VA—Collection of environmental management charge
 
@@ -3046,41 +2380,25 @@ then the holder must collect the charge from the visitor.
 
                     Penalty:  50 penalty units.
 
-Civil penalty for failing to collect charge
-
-          (1A)  A holder of a chargeable permission must not fail to collect charge from a visitor if:
-
-                     (a)  the holder provides a service to the visitor under the permission; and
-
-                     (b)  charge is due and payable by the visitor in relation to the permission.
-
-                    Civil penalty:
-
-                     (a)  for an individual—100 penalty units; or
-
-                     (b)  for a body corporate—500 penalty units.
-
 Penalty for failing to collect charge
 
-             (2)  A holder of a chargeable permission who does not collect charge as required by subsections (1) and (1A) must pay to the Authority, on behalf of the Commonwealth, a penalty (the **_penalty amount_**) equal to the amount of the charge.
+             (2)  A holder of a chargeable permission who does not collect charge as required by subsection (1) must pay to the Authority, on behalf of the Commonwealth, a penalty (the **_penalty amount_**) equal to the amount of the charge.
 
              (3)  The penalty amount is due and payable at the time when, if the charge had become a collected amount, the holder would have had to pay the collected amount to the Authority.
 
              (4)  If 2 or more persons (the **_holders_**) are liable to pay the same penalty amount because a chargeable permission is held by them jointly, the holders are jointly and severally liable to pay the penalty amount.
 
-             (5)  The penalty amount is in addition to any penalty imposed by a court for an offence against subsection (1) or for a contravention of subsection (1A).
+             (5)  The penalty amount is in addition to any penalty imposed by a court for an offence against subsection (1).
 
-             (6)  If a person is convicted before a court of an offence against subsection (1) or a court makes a declaration of contravention against a person for a contravention of subsection (1A), the court may order the person to pay to the Authority, on behalf of the Commonwealth, an amount equal to the sum of:
+             (6)  If a person is convicted before a court of an offence against subsection (1), the court may order the person to pay to the Authority, on behalf of the Commonwealth, an amount equal to the sum of:
 
                      (a)  a penalty amount that the person is liable to pay; and
 
                      (b)  a late payment penalty that is payable by the person on the penalty amount.
 
-             (7)  An amount a person is ordered to pay under subsection (6) is in addition to the penalty imposed on the person for an offence against subsection (1) or the amount of any pecuniary penalty order made against the person for the contravention of subsection (1A).
+             (7)  An amount a person is ordered to pay under subsection (6) is in addition to the penalty imposed on the person for an offence against subsection (1).
 
 ##### <a id="39FB"></a>39FB  Chargeable permission holders must pay collected amounts to the Authority on time
-
-Offence for failing to pay collected amount on time
 
              (1)  A holder of a chargeable permission must pay a collected amount to the Authority before or on the day it is due and payable.
 
@@ -3092,25 +2410,13 @@ Note:          If the holder does not pay the collected amount
 
 Note:          Because of this subsection, 200 penalty units is the maximum penalty that can be imposed for offences against subsection (1).
 
-Civil penalty for failing to pay collected amount on time
-
-          (2A)  A holder of a chargeable permission must not fail to pay a collected amount to the Authority before or on the day it is due and payable.
-
-                    Civil penalty:
-
-                     (a)  for an individual—20 penalty units; or
-
-                     (b)  for a body corporate—100 penalty units.
-
-Penalty for failing to pay collected amount on time
-
-             (3)  If a person is convicted before a court of an offence against subsection (1) or a court makes a declaration of contravention against a person for a contravention of subsection (2A), the court may order the person to pay to the Authority, on behalf of the Commonwealth, an amount equal to the sum of:
+             (3)  If a person is convicted before a court of an offence against subsection (1), the court may order the person to pay to the Authority, on behalf of the Commonwealth, an amount equal to the sum of:
 
                      (a)  a collected amount that the person is liable to pay; and
 
                      (b)  a late payment penalty that is payable by the person on the collected amount.
 
-             (4)  An amount a person is ordered to pay under subsection (3) is in addition to the penalty imposed on the person for an offence against subsection (1) or the amount of any pecuniary penalty order made against the person for the contravention of subsection (2A).
+             (4)  An amount a person is ordered to pay under subsection (3) is in addition to the penalty imposed on the person for an offence against subsection (1).
 
 ##### <a id="39FC"></a>39FC  Chargeable permission held jointly—joint and several liability of holders
 
@@ -3124,53 +2430,15 @@ Penalty for failing to pay collected amount on time
 
                    A collected amount is due and payable at such time as is ascertained in accordance with the regulations.
 
-##### <a id="39FF"></a>39FF  False or misleading representation in relation to tourism services: offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person makes a false or misleading representation; and
-
-                     (b)  the person is reckless as to whether  the representation is false or misleading; and
-
-                     (c)  the representation relates to:
-
-                              (i)  a person’s liability to pay a tax, charge or fee (however described) imposed by the Commonwealth for purposes connected with use of or entry to the Marine Park; or
-
-                             (ii)  the amount of any such tax, charge or fee; and
-
-                     (d)  the representation is made in the course of providing a tourism-related service (see subsection (3)).
-
-                    Penalty:  1,000 penalty units.
-
-             (2)  In a prosecution for an offence against subsection (1), it is not necessary to prove that the representation expressly refers to the Marine Park or to an imposition by the Commonwealth.
-
-             (3)  For the purposes of subsection (1), a **_tourism-related service_** means:
-
-                     (a)  a service provided on a commercial basis to or for the benefit of tourists, or in relation to tourism, in Australia; and
-
-                     (b)  any action incidental to such a service (for example, advertising a service).
-
 ### Division 3—Recovery of charge etc.
 
 ##### <a id="39G"></a>39G  Late payment penalty
 
-             (1)  If any charge payable by a person (other than a visitor) remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount (the **_late payment penalty_**) equal to:
+             (1)  If any charge payable by a person (other than a visitor) remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount (the **_late payment penalty_**) calculated at the rate of 20% per annum on the amount unpaid, computed from that time.
 
-                     (a)  the amount worked out at the rate of 20% per annum of the amount unpaid, as at the time the amount unpaid became due for payment; or
+          (1A)  If a collected amount payable by a person remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount (the **_late payment penalty_**) calculated at the rate of 20% per annum on the amount unpaid, computed from that time.
 
-                     (b)  if the amount worked out under paragraph (a) is less than $250—$250.
-
-          (1A)  If a collected amount payable by a person remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount (the **_late payment penalty_**) equal to:
-
-                     (a)  the amount worked out at the rate of 20% per annum of the amount unpaid, as at the time the amount unpaid became due for payment; or
-
-                     (b)  if the amount worked out under paragraph (a) is less than $250—$250.
-
-          (1B)  If a penalty amount payable by a person remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount (the **_late payment penalty_**) equal to:
-
-                     (a)  the amount worked out at the rate of 20% per annum of the amount unpaid, as at the time the amount unpaid became due for payment; or
-
-                     (b)  if the amount worked out under paragraph (a) is less than $250—$250.
+          (1B)  If a penalty amount payable by a person remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount (the **_late payment penalty_**) calculated at the rate of 20% per annum on the amount unpaid, computed from that time.
 
              (2)  The Authority may, on behalf of the Commonwealth, remit the whole or a part of an amount of late payment penalty.
 
@@ -3195,6 +2463,14 @@ the notice of the decision must also set out the reasons for the decision.
 ##### <a id="39H"></a>39H  Payment of late payment penalty
 
                    Late payment penalty is payable to the Authority on behalf of the Commonwealth.
+
+##### <a id="39I"></a>39I  Appropriation of amounts for the purposes of the Authority
+
+             (1)  If an amount (the **_Commonwealth amount_**) is received under section 39DA, subsection 39FA(2) or section 39FD or 39H, an amount equal to the Commonwealth amount is appropriated out of the Consolidated Revenue Fund for the purpose of the performance of the functions of the Authority.
+
+             (2)  If the Commonwealth refunds the whole or a part of a Commonwealth amount, the amount appropriated under subsection (1) is reduced by the amount of the refund.
+
+Note:          Subsection 28(2) of the _Financial Management and Accountability Act 1997_ is a standing appropriation for repayments of amounts received by the Commonwealth.
 
 ##### <a id="39J"></a>39J  Recovery of charge and late payment penalty
 
@@ -3235,6 +2511,8 @@ the notice of the decision must also set out the reasons for the decision.
                      (d)  debit cards.
 
              (3)  Without limiting paragraph (1)(d), regulations made for the purposes of that paragraph may make provision for and in relation to the crediting of amounts by the Authority as agent of the Commonwealth.
+
+             (4)  A refund of an amount in accordance with regulations made for the purposes of paragraph (1)(c) is to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
 
 ### Division 4—Review of decisions relating to remission of late payment penalty
 
@@ -3334,6 +2612,8 @@ is not admissible in evidence against the person in:
 
              (2)  Without limiting paragraph (1)(d), regulations made for the purpose of that paragraph may prescribe that interest, or other amounts, derived from the custody or banking of collected amounts be paid to the holder of a chargeable permission who was required to collect those collected amounts.
 
+             (3)  The payment of interest, or other amounts, derived from the custody or banking of collected amounts to a holder of a chargeable permission in accordance with regulations made for the purposes of paragraph (1)(d) is to be paid out of the Consolidated Revenue Fund, which is appropriated accordingly.
+
 ##### <a id="39Q"></a>39Q  Failure to give information or returns
 
                    A holder of a chargeable permission must not refuse, or fail, when and as required under regulations made for the purposes of this Division to do so, to give any information or return to the Authority.
@@ -3374,35 +2654,13 @@ any documents in or on the aircraft or vessel that are relevant to ascertaining 
 
                     Penalty:  10 penalty units.
 
-             (4)  If an inspector (other than a member of a police force who is in uniform) stops or detains an aircraft or vessel under subsection (1), the inspector must produce for inspection by the person in charge of the aircraft or vessel:
-
-                     (a)  if the inspector is a member of a police force—written evidence of the fact that the inspector is a member of that police force; or
-
-                     (b)  in any other case—the inspector’s identity card.
-
-             (5)  An inspector who does not comply with subsection (4) is not authorised to search or detain the aircraft or vessel.
+             (4)  Subsection 48(3) imposes obligations on inspectors in relation to identity cards.
 
 ##### <a id="39T"></a>39T  Powers of inspector in relation to premises
 
              (1)  An inspector may, with the consent of the occupier of premises, enter the premises for the purpose of ascertaining a person’s liability to charge or to pay a collected amount.
 
-          (1A)  An inspector is not entitled to enter premises under subsection (1), or exercise any powers referred to in subsection (3) in relation to an entry under subsection (1), if:
-
-                     (a)  the occupier of the premises has required the inspector to produce written identification for inspection by the occupier; and
-
-                     (b)  the inspector fails to produce:
-
-                              (i)  if the inspector is a member of a police force—written evidence of the fact that the inspector is a member of that police force; or
-
-                             (ii)  in any other case—the inspector’s identity card for inspection by the occupier.
-
              (2)  An inspector may, in accordance with a warrant issued under section 39U, enter premises for the purpose of ascertaining a person’s liability to charge or to pay a collected amount.
-
-          (2A)  If an inspector is executing a warrant under subsection (2) and the occupier of the premises, or another person who apparently represents the occupier, is present, the inspector must:
-
-                     (a)  identify himself or herself to that person; and
-
-                     (b)  make available to that person a copy of the warrant (which need not be signed).
 
              (3)  If an inspector enters premises under subsection (1) or (2), the inspector may:
 
@@ -3421,8 +2679,6 @@ any documents that are relevant to ascertaining a person’s liability to charge
                     Penalty:  10 penalty units.
 
              (5)  In this section:
-
-                    <a name="occupi"></a>**_occupier_** of premises means the person apparently in charge of the premises.
 
                     <a name="premis"></a>**_premises_** includes:
 
@@ -3452,7 +2708,7 @@ any documents that are relevant to ascertaining a person’s liability to charge
 
 ## Part VB—Plans of management
 
-##### <a id="39V"></a>39V  Interpretation
+##### <a id="39V"></a>39V  Interpretation
 
                    A reference in this Act to a community group having a special interest in an area of the Marine Park includes a reference to the people in the group who have some form of native title to the area or its resources or have some other special identification with the area or its resources.
 
@@ -3540,7 +2796,7 @@ whichever first occurs.
 
              (2)  A direction given under subsection (1) has effect according to its terms.
 
-##### <a id="39ZD"></a>39ZD  Preparation of plan of management
+##### <a id="39ZD"></a>39ZD  Preparation of plan of management
 
              (1)  After taking into account all comments made to it in accordance with section 39ZB, the Authority may prepare the plan of management.
 
@@ -3666,77 +2922,25 @@ Note:          A revocation of a plan of management is not sub
 
                    Notwithstanding section 40, the Authority may, with the consent of the Minister and on terms and conditions determined by the Authority, engage persons, not being persons referred to in that section, to provide services for the Authority.
 
+##### <a id="42"></a>42  Officers and employees of Queensland and government authorities
+
+             (1)  The Australian Government may make arrangements with the Queensland Government for the performance of functions and the exercise of powers under this Act by officers or employees of Queensland or of an authority of that State or of a local governing body in that State, or by members of the Police Force of that State.
+
+             (2)  The Authority may make arrangements with an Agency Head (within the meaning of the _Public Service Act 1999_), or with an authority of the Commonwealth, including the Director, for the performance of functions and the exercise of powers under this Act by officers or employees of the Agency or of the authority, as the case may be.
+
+             (3)  For the purposes of this section, the Australian Maritime Safety Authority is an authority of the Commonwealth.
+
 ##### <a id="43"></a>43  Appointment of inspectors
 
-             (1)  The Authority may, by instrument in writing:
+                   The Authority may, by instrument in writing:
 
                      (a)  appoint any person to be an inspector; and
 
-                     (b)  specify the powers that the person may exercise as an inspector under this Act; and
-
-                     (c)  specify the powers that the person may exercise as an inspector under the _Environment Protection and Biodiversity Conservation Act 1999_.
-
-Note:          Inspectors have powers under the _Environment Protection and Biodiversity Conservation Act 1999_ to enforce this Act.
-
-             (2)  Despite paragraph (1)(a), the Authority must not appoint an officer or employee of an Agency (within the meaning of the _Public Service Act 1999_) that is not the Department or the Authority to be an inspector unless:
-
-                     (a)  an arrangement in respect of the officer or employee is in force under subsection 43A(1); and
-
-                     (b)  the powers specified for the officer or employee for the purposes of paragraphs (1)(b) and (c) are limited in a way that is consistent with any limitation set out in the arrangement.
-
-             (3)  Despite paragraph (1)(a), the Authority must not appoint an officer or employee of a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) to be an inspector unless:
-
-                     (a)  an arrangement in respect of the officer or employee is in force under subsection 43A(2); and
-
-                     (b)  the powers specified for the officer or employee for the purposes of paragraphs (1)(b) and (c) are limited in a way that is consistent with any limitation set out in the arrangement.
-
-             (4)  Despite paragraph (1)(a), the Authority must not appoint:
-
-                     (a)  an officer or employee of Queensland or of an authority of Queensland (including a local government body); or
-
-                     (b)  a member of the police force of Queensland;
-
-to be an inspector unless:
-
-                     (c)  an arrangement in respect of the officer, employee or member is in force under subsection 43A(3); and
-
-                     (d)  the powers specified for the officer, employee or member for the purposes of paragraphs (1)(b) and (c) are limited in a way that is consistent with any limitation set out in the arrangement.
-
-##### <a id="43A"></a>43A  Arrangements for certain persons to be inspectors
-
-Arrangements with Agency Heads
-
-             (1)  The Authority may enter into an arrangement with an Agency Head (within the meaning of the _Public Service Act 1999_) for officers or employees of the Agency Head’s Agency (within the meaning of the _Public Service Act 1999_) to be appointed as inspectors under subsection 43(1) of this Act.
-
-Note:          An arrangement must be in force before an officer or employee can be appointed as an inspector (except for employees of the Department and the Authority) (see subsection 43(2)).
-
-Arrangements with Commonwealth authorities
-
-             (2)  The Authority may enter into an arrangement with a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) for officers or employees of the authority to be appointed as inspectors under subsection 43(1) of this Act.
-
-Note:          An arrangement must be in force before an officer or employee can be appointed as an inspector (see subsection 43(3)).
-
-Arrangements with Queensland
-
-             (3)  The Minister may enter into an arrangement with the appropriate Minister of Queensland for:
-
-                     (a)  officers or employees of Queensland or of an authority of Queensland (including a local government body); or
-
-                     (b)  members of the police force of Queensland;
-
-to be appointed as inspectors under subsection 43(1) of this Act.
-
-Note:          An arrangement must be in force before an officer, employee or member can be appointed as an inspector (see subsection 43(4)).
-
-Limits on powers
-
-             (4)  An arrangement under this section for persons to be appointed as inspectors may specify that the persons’ powers as inspectors are to be limited in the way set out in the arrangement.
+                     (b)  specify the powers that the person may exercise as an inspector under this Act.
 
 ##### <a id="44"></a>44  Inspectors _ex officio_
 
                    By force of this section, every member or special member of the Australian Federal Police is an inspector.
-
-Note:          Inspectors have powers under the _Environment Protection and Biodiversity Conservation Act 1999_ to enforce this Act.
 
 ##### <a id="45"></a>45  Identity cards
 
@@ -3754,99 +2958,253 @@ Note:          For **_strict liability_**, see section 6.1 o
 
 Note:          The defendant bears an evidential burden in relation to the matter in subsection (2B). See subsection 13.3(3) of the _Criminal Code_.
 
-##### <a id="46"></a>46  Delegation by Minister
+##### <a id="45A"></a>45A  Power of inspector to give directions
 
-             (1)  The Minister may, by signed writing, delegate to the Authority any or all of the Minister’s powers or functions under this Act, other than a power or function under:
+             (1)  For the purpose of ensuring that this Act is complied with, an inspector may, subject to this section, give reasonable directions to any person who is within the Marine Park.
 
-                     (a)  subsection 31(4) or (5); or
+             (2)  A direction may be given orally, in writing, by radio or by any other appropriate means of communication.
 
-                     (b)  subsection 34(4), (7) or (8); or
+             (3)  The inspector by whom a direction is given must identify himself or herself when giving the direction and must produce his or her identity card at the first practicable opportunity to the person to whom the direction is given.
 
-                     (c)  subsection 35C(2), (5) or (6); or
+             (4)  A person must not refuse or fail to comply with a direction given to the person.
 
-                     (d)  subsection 37(2) or (4); or
+                    Penalty for a contravention of this subsection: 10 penalty units.
 
-                     (e)  subsection 37A(1); or
+             (5)  Subsection (4) does not apply if the person has a reasonable excuse.
 
-                      (f)  subsection 54(4); or
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (4). See subsection 13.3(3) of the _Criminal Code_.
 
-                     (g)  paragraph 61ACA(4)(a); or
+##### <a id="46"></a>46  Arrest without warrant
 
-                     (h)  section 61ADE.
+             (1)  An inspector may, without warrant, arrest a person for an offence against this Act if the inspector believes on reasonable grounds that:
 
-             (2)  In exercising a power or performing a function under the delegation, the Authority must comply with any directions of the Minister.
+                     (a)  the person has committed or is committing the offence; and
 
-##### <a id="47"></a>47  Delegation by Authority
+                     (b)  proceedings by summons against the person would not achieve one or more of the following purposes:
 
-             (1)  The Authority may, by writing under its common seal, delegate any or all of its powers or functions under this Act to any of the following:
+                              (i)  ensuring the appearance of the person before a court in respect of the offence;
 
-                     (a)  the Chairperson;
+                             (ii)  preventing a repetition of a continuation of the offence or the commission of another offence against this Act;
 
-                     (b)  an employee of the Department or of the Authority;
+                            (iii)  preventing the concealment, loss or destruction of evidence relating to the offence;
 
-                     (c)  an officer or employee of an Agency (within the meaning of the _Public Service Act 1999_) in respect of whom an arrangement is in force under subsection 48A(1);
+                            (iv)  preventing harassment of, or interference with, a person who may be required to give evidence in proceedings in respect of the offence;
 
-                     (d)  an officer or employee of a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) in respect of whom an arrangement is in force under subsection 48A(2);
+                             (v)  preventing the fabrication of evidence in respect of the offence;
 
-                     (e)  an officer or employee of Queensland, or of an authority of Queensland (including a local government body), in respect of whom an arrangement is in force under subsection 48A(3).
+                            (vi)  preserving the safety or welfare of the person.
 
-             (2)  The Authority may, by writing under its common seal, sub-delegate to a person mentioned in subsection (1) a power or function delegated to the Authority under this or any other Act.
+          (1A)  If:
 
-             (3)  Despite subsection (1) or (2), the Authority must not delegate or sub-delegate under that subsection a power or function under Part VAA (Offences and penalties) or Part VIII (Enforcement) of this Act or under Part 17 (Enforcement) of the _Environment Protection and Biodiversity Conservation Act 1999_ to a person mentioned in paragraph (1)(b), (c), (d) or (e) unless the person:
+                     (a)  a person has been arrested under subsection (1) for an offence against this Act; and
 
-                     (a)  is an SES employee or an acting SES employee; or
+                     (b)  before the person is charged with the offence, the inspector ceases to believe on reasonable grounds:
 
-                     (b)  holds, or is acting in, an Executive Level 1 or 2, or equivalent, position; or
+                              (i)  that the person committed the offence; or
 
-                     (c)  is of equivalent rank to an APS employee who:
+                             (ii)  that holding the person in custody is necessary to achieve a purpose referred to in paragraph (1)(b);
 
-                              (i)  is an SES employee or acting SES employee; or
+the person must be released.
 
-                             (ii)  holds, or is acting in, an Executive Level 1 or 2, or equivalent, position.
+             (2)  Where an inspector (other than a member of a police force who is in uniform) arrests a person under subsection (1), he or she shall:
 
-             (4)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply to a sub-delegation under subsection (2) in the same way as they apply to a delegation.
+                     (a)  in the case of a member of a police force—produce, for inspection by that person, written evidence of the fact that he or she is a member of a police force; or
 
-             (5)  In exercising powers or performing functions under a delegation, the delegate must comply with any directions of the Authority.
+                     (b)  in any other case—produce his or her identity card for inspection by that person.
 
-             (6)  In exercising powers or performing functions under a sub-delegation, the sub-delegate must comply with any directions of the Authority.
+             (3)  Where a person is arrested under subsection (1) and has not been released under subsection (1A), an inspector shall forthwith bring the person, or cause him or her to be brought, before a Justice of the Peace or other proper authority to be dealt with in accordance with law.
 
-             (7)  If the Authority is subject to a direction in relation to the exercise of a power or the performance of a function sub-delegated under this section, the Authority must give a corresponding direction to the sub-delegate.
+             (4)  Nothing in this section prevents the arrest of a person in accordance with any other law.
 
-##### <a id="48"></a>48  Delegation by Chairperson
+             (5)  A reference in this section to an offence against this Act does not include an offence against Part VIIA.
 
-             (1)  The Chairperson may, by signed writing, sub-delegate a power or function delegated to the Chairperson under this or any other Act to a member of the staff of the Authority. However, this subsection does not allow the Chairperson to sub-delegate a power or function that has been sub-delegated to the Chairperson.
+##### <a id="46A"></a>46A  Power to conduct a frisk search of an arrested person
 
-             (2)  Despite subsection (1), the Chairperson must not sub-delegate under that subsection a power or function under Part VAA (Offences and penalties) or Part VIII (Enforcement) of this Act or under Part 17 (Enforcement) of the _Environment Protection and Biodiversity Conservation Act 1999_ unless the member of staff:
+                   An inspector who arrests a person for an offence against this Act, or is present at such an arrest, may, if the inspector suspects on reasonable grounds that it is prudent to do so in order to find out whether the person is carrying any seizable items:
 
-                              (i)  is an SES employee or an acting SES employee; or
+                     (a)  conduct a frisk search of the person at or soon after the time of arrest; and
 
-                             (ii)  holds, or is acting in, an Executive Level 1 or 2, or equivalent, position.6666
+                     (b)  seize any seizable items found as a result of the search.
 
-             (3)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply to a sub-delegation under subsection (1) in the same way as they apply to a delegation.
+##### <a id="46B"></a>46B  Power to conduct an ordinary search
 
-             (4)  In exercising powers or performing functions under a sub-delegation, the sub-delegate must comply with any directions of the Chairperson.
+                   An inspector who arrests a person for an offence against this Act, or is present at such an arrest, may, if the inspector suspects on reasonable grounds that the person is carrying:
 
-             (5)  If the Chairperson is subject to a direction in relation to the exercise of a power or the performance of a function sub-delegated under this section, the Chairperson must give a corresponding direction to the sub-delegate.
+                     (a)  evidential material in relation to that or another offence against this Act; or
 
-##### <a id="48A"></a>48A  Arrangements for certain delegations
+                     (b)  a seizable item;
 
-Arrangements with Agency Heads
+conduct an ordinary search of the person at or soon after the time of arrest, and seize any such material or item found as a result of the search.
 
-             (1)  The Authority may enter into an arrangement with an Agency Head (within the meaning of the _Public Service Act 1999_) in relation to officers or employees of the Agency Head’s Agency (within the meaning of the _Public Service Act 1999_) for the purposes of allowing powers or functions to be delegated or sub-delegated under section 47 to the officers or employees.
+##### <a id="46C"></a>46C  Conduct of ordinary searches and frisk searches
 
-Note:          An arrangement must be in force before a power or function can be delegated to an officer or employee, except for employees of the Department and the Authority (see paragraphs 47(1)(b) and (c)).
+             (1)  An ordinary search or a frisk search of a person under this Part shall be conducted by:
 
-Arrangements with Commonwealth authorities
+                     (a)  an inspector of the same sex as the person; or
 
-             (2)  The Authority may enter into an arrangement with a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) in relation to officers or employees of the authority for the purposes of allowing powers or functions to be delegated or sub-delegated under section 47 to the officers or employees.
+                     (b)  in a case where an inspector of the same sex as the person is not available to conduct this search—any other person who is of the same sex and is requested by an inspector to conduct the search.
 
-Note:          An arrangement must be in force before a power or function can be delegated to an officer or employee (see paragraph 47(1)(d)).
+             (2)  An inspector who conducts an ordinary search or a frisk search under this section must not use more force, or subject a person to greater indignity, than is reasonable or necessary in order to conduct the search.
 
-Arrangements with Queensland
+##### <a id="46D"></a>46D  Retention of things that are seized
 
-             (3)  The Minister may enter into an arrangement with an appropriate Minister of Queensland in relation to officers or employees of Queensland or of an authority of Queensland (including a local government body) for the purposes of allowing powers or functions to be delegated or sub-delegated under section 47 to the officers or employees.
+                   Subject to any contrary order of a court, if an inspector seizes a thing under section 46A or 46B, the inspector must return it if the reason for its seizure no longer exists or it is decided that it is not to be used in evidence, unless the thing is forfeited or forfeitable to the Commonwealth or is the subject of a dispute as to ownership.
 
-Note:          An arrangement must be in force before a power or function can be delegated to an officer or employee (see paragraph 47(1)(e)).
+##### <a id="47"></a>47  Confiscation and forfeiture
+
+             (1)  Where a court convicts a person of an offence against this Act, the court may order the forfeiture to the Commonwealth of any vessel, aircraft or article used or otherwise involved in the commission of the offence.
+
+             (2)  An inspector may seize any vessel, aircraft or article that he or she reasonably believes to have been used or otherwise involved in the commission of an offence against this Act and may retain it until the expiration of a period of 60 days after the seizure or, if a prosecution of an offence against this Act in the commission of which it may have been used or otherwise involved is instituted within that period, until the prosecution is terminated.
+
+             (3)  Where a vessel, aircraft or article seized under subsection (2) and retained for a period exceeding 7 days was not used or otherwise involved in the commission of an offence, any person who has suffered loss or damage by reason of the seizure is entitled to reasonable compensation.
+
+             (4)  The Authority may authorize a vessel, aircraft or article seized under subsection (2) to be released to its owner, or to the person from whose possession it was seized, either unconditionally or on such conditions as it thinks fit, including conditions as to the giving of security for payment of its value if it is forfeited.
+
+          (4A)  Subsections (3) and (4) do not apply to an article seized under section 46A.
+
+             (5)  A vessel, aircraft or article forfeited under this section may be sold or otherwise disposed of as the Authority thinks fit.
+
+             (6)  An inspector may seize any animal or plant that he or she reasonably believes to have been killed or taken in contravention of this Act.
+
+             (7)  Where an animal or plant has been seized under subsection (6), the Authority may cause it to be:
+
+                     (a)  retained; or
+
+                     (b)  sold or otherwise disposed of.
+
+             (8)  Where an animal or plant seized under subsection (6) was not killed or taken in contravention of this Act, any person who has suffered loss or damage by reason of the seizure is entitled to reasonable compensation.
+
+             (9)  Compensation under this section is payable by the Commonwealth and may be awarded:
+
+                     (a)  by a court dealing with an alleged offence against this Act in relation to which the vessel, aircraft, article, animal or plant was seized; or
+
+                     (b)  by any federal court or court of a State or Territory having jurisdiction in actions for the recovery of debts up to an amount not less than the amount of compensation claimed.
+
+           (10)  A reference in subsection (1) to a conviction of a person of an offence against this Act includes a reference to the making of an order under section 19B of the _Crimes Act 1914_ in relation to the person in respect of an offence against this Act.
+
+           (11)  A reference in this section to an offence against this Act does not include an offence against Part VIIA.
+
+##### <a id="47A"></a>47A  Release subject to a condition
+
+             (1)  If a vessel, aircraft or article that has been seized under this Act is released to a person subject to a condition, the person must not fail to comply with the condition.
+
+                    Penalty:  Imprisonment for 12 months.
+
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+             (2)  Subsection (1) does not apply if the person has a reasonable excuse.
+
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (1). See subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="47B"></a>47B  Notice requiring vessel, aircraft or article etc. to be delivered to inspector or other person
+
+             (1)  An inspector may:
+
+                     (a)  by written notice to the master of a vessel, or the person in charge of an aircraft, that the inspector is authorised to seize under this Act, require the person to deliver the vessel or aircraft to the inspector, or to another person referred to in the notice, at a place, and within a period, stated in the notice; and
+
+                     (b)  by written notice to a person found by the inspector to be in possession of any article, animal or plant that the inspector is authorised to seize under this Act, require the person to deliver the article, animal or plant to the inspector, or to another person referred to in the notice, at a place, and within a period, stated in the notice.
+
+             (2)  A person must not refuse or fail to comply with a requirement made of the person under subsection (1).
+
+                    Penalty:  Imprisonment for 12 months.
+
+Note:          Subsection 4B(2) of the _Crimes Act 1914_ allows a court to impose an appropriate fine instead of, or in addition to, a term of imprisonment. If a body corporate is convicted of an offence, subsection 4B(3) of that Act allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+          (2A)  Subsection (2) does not apply if the person has a reasonable excuse.
+
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (2A). See subsection 13.3(3) of the _Criminal Code_.
+
+             (3)  When a vessel, aircraft, article, animal or plant is delivered to an inspector or another person under a requirement made under subsection (1), section 47 applies in relation to the vessel, aircraft, article, animal or plant as if it had been seized under that section.
+
+##### <a id="48"></a>48  General powers of inspectors
+
+             (1)  An inspector may search an aircraft or vessel for the purpose of ascertaining whether there is in or on that aircraft or vessel:
+
+                     (a)  any animal, plant or article in respect of which an offence against this Act has been committed;
+
+                     (b)  anything that will afford evidence as to the commission of an offence against this Act; or
+
+                     (c)  anything that was used, or intended to be used, for the purpose of committing an offence against this Act;
+
+and for that purpose stop or detain an aircraft or vessel.
+
+             (2)  An inspector may:
+
+                     (a)  require any person whom he or she finds committing, or whom he or she reasonably suspects of having committed, an offence against this Act to state his or her full name and usual place of residence;
+
+                     (b)  require any person in the Marine Park whom the inspector finds committing, or reasonably suspects of having committed, an offence against this Act to leave the Marine Park or the zone or location within the Marine Park where the person is found; and
+
+                     (c)  require any person whom he or she reasonably suspects of having done an act in respect of which the person is required to hold a licence, permission, permit or other authority under this Act to produce such a licence, permission or permit or evidence of such an authority.
+
+             (3)  Where an inspector (other than a member of a police force who is in uniform) stops, or proposes to search or detain an aircraft or vessel, he or she shall:
+
+                     (a)  in the case of a member of a police force—produce, for inspection by the person in charge of the aircraft or vessel, written evidence of the fact that he or she is a member of a police force; or
+
+                     (b)  in any other case—produce his or her identity card for inspection by that person;
+
+and, if he or she fails to do so, he or she is not authorized to search or detain that aircraft or vessel.
+
+             (4)  Where an inspector (other than a member of a police force who is in uniform) makes a requirement of a person in pursuance of subsection (2), he or she shall:
+
+                     (a)  in the case of a member of a police force—produce, for inspection by that person, written evidence of the fact that he or she is a member of a police force; or
+
+                     (b)  in any other case—produce his or her identity card for inspection by that person;
+
+and, if he or she fails to do so, that person is not obliged to comply with the requirement.
+
+             (5)  A person must not intentionally or negligently fail to comply with a requirement made of the person by an inspector under subsection (2).
+
+                    Penalty:  10 penalty units.
+
+Note:          If a body corporate is convicted of an offence, subsection 4B(3) of the _Crimes Act 1914_ allows a court to impose a fine of an amount that is not greater than 5 times the maximum fine that could be imposed by a court on an individual convicted of the same offence.
+
+          (5A)  Subsection (5) does not apply if the person has a reasonable excuse.
+
+Note:          The defendant bears an evidential burden in relation to the matter in subsection (5A). See subsection 13.3(3) of the _Criminal Code_.
+
+             (6)  A reference in this section to an offence against this Act does not include an offence against Part VIIA.
+
+##### <a id="48AA"></a>48AA  Power of inspector to copy, or take extracts from, documents
+
+                   If, in the course of searching a vessel or aircraft under section 48, an inspector, or a person helping an inspector, finds a document that the inspector or person reasonably believes:
+
+                     (a)  may have been used, or have otherwise been involved, in the commission of an offence against this Act; or
+
+                     (b)  may provide evidence of the commission of an offence against this Act;
+
+then, whether or not the inspector seizes the document, the inspector, or a person helping the inspector, may make a copy of, or take an extract from, the document.
+
+##### <a id="48AB"></a>48AB  Power of inspector to seize weapons
+
+                   If:
+
+                     (a)  an inspector stops or detains a vessel or aircraft under section 48; and
+
+                     (b)  the inspector, or a person helping the inspector, finds on, or in the possession of a person who is on, the vessel or aircraft a weapon or other thing capable of being used to inflict death or bodily injury; and
+
+                     (c)  the inspector believes on reasonable grounds that the weapon or other thing may be used to cause the death of, or bodily injury to, the inspector, a person helping the inspector, or anyone else who is near the inspector or such a person;
+
+the inspector may seize the weapon or other thing and retain it:
+
+                     (d)  until the end of 60 days after the seizure; or
+
+                     (e)  if a prosecution is brought within that period for an offence against this Act:
+
+                              (i)  in the commission of which the weapon or other thing may have been used or otherwise been involved; or
+
+                             (ii)  of which the weapon or other thing may provide evidence;
+
+                            until the prosecution is terminated.
+
+##### <a id="48A"></a>48A  Limitation on exercise of powers—location
+
+             (1)  Subject to this section, a power conferred on an inspector under subsection 46(1) or 48(1) or (2) may only be exercised within the Marine Park.
+
+             (2)  An inspector may exercise, with respect to a person, an aircraft or a vessel, at a place that is outside the Marine Park, a power conferred on the inspector under subsection 46(1) or 48(1) or (2) if:
+
+                     (a)  the inspector is a member of a police force; or
+
+                     (b)  the inspector believes on reasonable grounds that it is not reasonably practicable for an inspector who is a member of a police force to exercise the power.
 
 ## Part VII—Finance and reporting requirements
 
@@ -3902,7 +3260,7 @@ Contents of annual report
 
              (2)  The Chairperson must include in the report the following:
 
-                     (a)  particulars of all directions given during the year by the Minister under subsection 7(2) or 46(2);
+                     (a)  particulars of all directions given during the year by the Minister under subsection 7(2) or 61A(4);
 
                      (b)  the financial statements required by section 49 of the _Financial Management and Accountability Act 1997_;
 
@@ -4208,1099 +3566,19 @@ Note:          The defendant bears an evidential burden in rel
 
              (4)  A reference in subsection (3) to losing sight of a vessel includes a reference to losing output from a radar or other sensing device.
 
-## Part VIII—Enforcement
+## Part VIII—Miscellaneous
 
-### Division 1—Enforcement powers
+##### <a id="61"></a>61  Delegation
 
-#### Subdivision A—Vessel monitoring directions
+             (1)  The Authority may, either generally or as otherwise provided by the instrument of delegation, by writing under its common seal, delegate to a person any of its powers under this Act, other than this power of delegation.
 
-##### <a id="61AAA"></a>61AAA  Making vessel monitoring directions
+             (2)  A power so delegated, when exercised by the delegate, shall for the purposes of this Act, be deemed to have been exercised by the Authority.
 
-Application of this section
+             (3)  A delegation under this section does not prevent the exercise of a power by the Authority.
 
-             (1)  This section applies in relation to a vessel that is required by a law of the Commonwealth, a State or a Territory to be equipped with a vessel monitoring system.
+##### <a id="61A"></a>61A  Restoration of environment etc.
 
-Directions for individual vessels
-
-             (2)  The Authority may, in writing, make a direction (an **_individual_** **_vessel monitoring direction_**) requiring one of the persons responsible, or one of the kinds of persons responsible, for a particular vessel to provide the Authority, or cause the Authority to be provided, with the information specified for the vessel in the direction (which must be information of a kind provided by the vessel monitoring system in relation to the operation of the vessel in the Marine Park).
-
-Note:          For **_responsible_**, see subsection (10).
-
-             (3)  A copy of an individual vessel monitoring direction must be given to the person, or each of the persons, to whom it applies.
-
-             (4)  An individual vessel monitoring direction:
-
-                     (a)  takes effect:
-
-                              (i)  on the day (if any) specified in the direction (which must not be earlier than the day on which a copy of the direction is first given to a person to whom it applies); or
-
-                             (ii)  if no day is specified—on the day on which a copy of the direction is first given to a person to whom it applies; and
-
-                     (b)  continues in effect for the period specified in the direction.
-
-             (5)  The Authority may vary or revoke an individual vessel monitoring direction:
-
-                     (a)  in the same manner as an individual vessel monitoring direction may be made; and
-
-                     (b)  subject to the same conditions as apply to the making of an individual vessel monitoring direction.
-
-             (6)  An individual vessel monitoring direction is not a legislative instrument.
-
-Directions for classes of vessels
-
-             (7)  The Authority may, by legislative instrument, make a direction (a **_class vessel monitoring direction_**) requiring one of the kinds of persons responsible for a vessel belonging to a particular class of vessels to provide the Authority, or cause the Authority to be provided, with the information specified for the vessel in the direction (which must be information of a kind provided by the vessel monitoring system in relation to the operation of the vessel in the Marine Park).
-
-Note:          For **_responsible_**, see subsection (10).
-
-             (8)  The Authority may vary or revoke a class vessel monitoring direction:
-
-                     (a)  in the same manner as a class vessel monitoring direction may be made; and
-
-                     (b)  subject to the same conditions as apply to the making of a class vessel monitoring direction.
-
-Content of individual and class vessel monitoring directions
-
-             (9)  A vessel monitoring direction may require the specified information to be provided:
-
-                     (a)  before the end of a specified period; or
-
-                     (b)  at specified intervals, either during a specified period or indefinitely; or
-
-                     (c)  continuously, either during a specified period or indefinitely; or
-
-                     (d)  in any other way the Authority considers appropriate.
-
-Persons responsible for a vessel
-
-           (10)  For the purposes of subsections (2) and (7), each of the following persons is **_responsible_** for a vessel:
-
-                     (a)  an owner of the vessel;
-
-                     (b)  a person who, under a law of the Commonwealth, a State or a Territory, holds a licence or other permission (however described and including one that is suspended) in relation to the vessel that requires the vessel to be fitted with a vessel monitoring system;
-
-                     (c)  a person specified in the regulations for the purposes of this paragraph.
-
-##### <a id="61AAB"></a>61AAB  Use and disclosure of vessel monitoring information
-
-             (1)  This section applies in relation to information that was obtained by the Authority under a vessel monitoring direction and was not publicly available at the time the Authority obtained it.
-
-             (2)  The Authority must not disclose the information unless the disclosure is for one or more of the following purposes:
-
-                     (a)  administering this Act, including performing duties or functions, or exercising powers, under this Act;
-
-                     (b)  managing the Marine Park;
-
-                     (c)  proceedings in relation to enforcement of this Act, including proceedings:
-
-                              (i)  for an injunction; or
-
-                             (ii)  by way of prosecution for an offence; or
-
-                            (iii)  for the making of a declaration of contravention of a civil penalty provision; or
-
-                            (iv)  for the making of a pecuniary penalty order; or
-
-                             (v)  for the making of any other court order in relation to an instrument made under this Act;
-
-                     (d)  other law enforcement purposes;
-
-                     (e)  matters relating to reconsideration or review of a decision made under this Act;
-
-                      (f)  a purpose for which the information is required by law to be disclosed.
-
-##### <a id="61AAC"></a>61AAC  Failure to comply with vessel monitoring direction: offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  the person is a kind of person responsible (within the meaning of subsection 61AAA(10)) for a vessel; and
-
-                     (b)  a vessel monitoring direction applies for the vessel; and
-
-                     (c)  the direction applies to the person, or to that kind of person; and
-
-                     (d)  if the direction is an individual vessel monitoring direction—a copy of the direction has been given to the person; and
-
-                     (e)  the direction is not complied with.
-
-                    Penalty:  500 penalty units.
-
-             (2)  Strict liability applies to paragraphs (1)(a) and (d).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (3)  Absolute liability applies to paragraphs (1)(b) and (c).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-##### <a id="61AAD"></a>61AAD  Failure to comply with vessel monitoring direction: civil penalty provision
-
-                   If:
-
-                     (a)  a person is a kind of person responsible (within the meaning of subsection 61AAA(10)) for a vessel; and
-
-                     (b)  a vessel monitoring direction applies for the vessel; and
-
-                     (c)  the direction applies to the person, or to that kind of person; and
-
-                     (d)  if the direction is an individual vessel monitoring direction—a copy of the direction has been given to the person;
-
-the person contravenes this section if the direction is not complied with.
-
-                    Civil penalty:
-
-                     (a)  for an individual—250 penalty units; or
-
-                     (b)  for a body corporate—2,500 penalty units.
-
-#### Subdivision B—Enforceable undertakings
-
-##### <a id="61ABA"></a>61ABA  Acceptance of undertaking
-
-             (1)  This section applies if the Minister considers that a person has contravened:
-
-                     (a)  the duty in section 37AA to prevent or minimise harm to the environment in the Marine Park; or
-
-                     (b)  a civil penalty provision.
-
-             (2)  The Minister may accept a written undertaking given by the person in relation to the contravention, in which the person undertakes to do any or all of the following:
-
-                     (a)  take specified actions to prevent, repair or mitigate harm of a specified kind in the Great Barrier Reef Region;
-
-                     (b)  take specified actions to ensure that the person does not engage, or is unlikely to engage, in conduct that contravenes the duty in section 37AA or a civil penalty provision;
-
-                     (c)  pay a specified amount to the Commonwealth, to be used for the purpose of taking actions referred to in paragraph (a) or (b).
-
-             (3)  The undertaking must be expressed to be an undertaking under this section.
-
-             (4)  The person may withdraw or vary the undertaking at any time, but only with the consent of the Minister.
-
-             (5)  The Minister may, by notice in writing given to the person, cancel the undertaking.
-
-             (6)  The undertaking may be published on either or both of the following:
-
-                     (a)  the website of the Authority;
-
-                     (b)  the website of the Department.
-
-##### <a id="61ABB"></a>61ABB  Enforcement of undertaking
-
-             (1)  If:
-
-                     (a)  a person has given an undertaking under section 61ABA; and
-
-                     (b)  the undertaking has not been withdrawn or cancelled; and
-
-                     (c)  the Minister considers that the person has breached the undertaking;
-
-the Minister may apply to the Federal Court for an order under subsection (2).
-
-             (2)  If the Federal Court is satisfied that the person has breached the undertaking, the Court may make one or more of the following orders:
-
-                     (a)  an order directing the person to comply with the undertaking;
-
-                     (b)  any other order that the Court considers appropriate.
-
-#### Subdivision C—Emergency directions
-
-##### <a id="61ACA"></a>61ACA  Making emergency directions
-
-Application of this section
-
-             (1)  This section applies if the Authority is satisfied that circumstances exist amounting to an emergency that poses a serious risk to the environment in the Marine Park.
-
-Emergency directions
-
-             (2)  The Authority may make a direction (an **_emergency direction_**) requiring a particular person, persons of a particular class, or persons generally, to take, or not to take, specified action for the purposes of avoiding, mitigating or eliminating the risk.
-
-             (3)  An emergency direction that applies to a particular person does not have to be in writing, but must be communicated to the person to whom it applies. An emergency direction other than a direction that applies to a particular person must be in writing and a copy of the direction must be published on the website of the Authority as soon as practicable after the direction is made.
-
-Relevant matters
-
-             (4)  The Authority must not make an emergency direction unless:
-
-                     (a)  the Minister has consented to the making of the direction; and
-
-                     (b)  the Authority is satisfied that the direction is necessary and appropriate for the purposes of avoiding, mitigating or eliminating the risk; and
-
-                     (c)  if the circumstances include an incident involving a vessel—the Authority is satisfied that the direction is not inconsistent with Articles III and V of the International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, done at Brussels on 29 November 1969 \[1984] ATS 4.
-
-Note:       The text of the Convention is set out in Australian Treaty Series 1984 No. 4\. In 2008, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
-
-Examples of emergency directions
-
-             (5)  The following are examples of emergency directions the Authority may make:
-
-                     (a)  a direction regulating or prohibiting the entry or use of a vessel, vehicle or aircraft in the Marine Park or a part of the Marine Park;
-
-                     (b)  a direction that a person remove a vessel, vehicle or aircraft from the Marine Park or a part of the Marine Park;
-
-                     (c)  a direction that a person responsible for abandoned, stranded, sunk or wrecked property take any action reasonably necessary to avoid, mitigate or eliminate risk arising from the presence of the property in the Marine Park.
-
-When emergency directions have effect
-
-             (6)  An emergency direction:
-
-                     (a)  takes effect on the day the direction is made; and
-
-                     (b)  continues in effect until the earlier of:
-
-                              (i)  the end of the period (if any) specified in the direction (which must end no later than 2 months after the day the direction is made); or
-
-                             (ii)  the day that is 2 months after the day the direction is made.
-
-Variation and revocation
-
-             (7)  The Authority may vary or revoke an emergency direction:
-
-                     (a)  in the same manner as an emergency direction may be made; and
-
-                     (b)  subject to the conditions that apply to the making of an emergency direction (for this purpose, subsection (1) and paragraph (4)(b) are not conditions); and
-
-                     (c)  subject to the Authority being satisfied that the variation or revocation would not be inconsistent with the purposes of avoiding, mitigating or eliminating the risk in relation to which the direction was made.
-
-Emergency directions are not legislative instruments
-
-             (8)  If a direction under subsection (2) is made in writing, the direction is not a legislative instrument.
-
-##### <a id="61ACB"></a>61ACB  Failure to comply with emergency direction: offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  an emergency direction applies to the person; and
-
-                     (b)  if the direction applies to a particular person—the direction was communicated to the person; and
-
-                     (c)  if the direction applies to a class of persons or to persons generally—the direction has been published on the website of the Authority; and
-
-                     (d)  the person fails to comply with the direction.
-
-                    Penalty:  500 penalty units.
-
-             (2)  Absolute liability applies to paragraph (1)(a).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-             (3)  Strict liability applies to paragraphs (1)(b) and (c).
-
-Note:          For strict liability, see section 6.1 of the _Criminal Code_.
-
-             (4)  It is a defence to a prosecution for an offence against subsection (1) if it is proved:
-
-                     (a)  that the contravention of the direction resulted from the need to save life at sea; or
-
-                     (b)  that compliance with the direction was not possible; or
-
-                     (c)  if the direction requires a thing to be done before a particular time—that compliance with the direction was not possible before that time and the direction was complied with as soon as possible after that time.
-
-Note:          The defendant bears a legal burden in relation to the matters in this subsection. See section 13.4 of the _Criminal Code_.
-
-#### Subdivision D—Enforceable directions
-
-##### <a id="61ADA"></a>61ADA  Making enforceable directions
-
-Application of this section
-
-             (1)  This section applies if the Minister is satisfied:
-
-                     (a)  that a person has engaged, is engaging, or is likely to engage, in conduct that:
-
-                              (i)  constitutes or would constitute an offence against this Act; or
-
-                             (ii)  contravenes or would contravene a civil penalty provision; or
-
-                            (iii)  contravenes or would contravene the duty in section 37AA to prevent or minimise harm to the environment in the Marine Park; and
-
-                     (b)  that it would be in the public interest to make a direction under this section for either or both of the following purposes:
-
-                              (i)  ensuring the person’s future compliance with this Act;
-
-                             (ii)  preventing, repairing or mitigating harm to the environment in the Marine Park that has been, might be or will be caused by the person’s conduct.
-
-Enforceable directions
-
-             (2)  The Minister may, in writing, make a direction (an **_enforceable direction_**) requiring the person to take or not to take specified action for either or both of the purposes referred to in subparagraphs (1)(b)(i) and (ii).
-
-             (3)  A copy of the direction must be given to the person.
-
-Examples of enforceable directions
-
-             (4)  The following are examples of enforceable directions the Minister may make:
-
-                     (a)  a direction that the person stop, or not start, a specified activity (whether indefinitely or for a specified period);
-
-                     (b)  a direction that a person undertake a specified activity;
-
-                     (c)  a direction that a person undertake a specified activity in a specified way;
-
-                     (d)  a direction that a person prepare and comply with a plan of action, for compliance with this Act or for preventing, repairing or mitigating harm to the environment, that is satisfactory to the Minister;
-
-                     (e)  a direction that a person arrange for monitoring or auditing of either or both of the following:
-
-                              (i)  the person’s compliance with this Act;
-
-                             (ii)  the effects on the environment in the Marine Park of the person’s activities;
-
-                            and provide the results to the Minister.
-
-Variation and revocation
-
-             (5)  The Minister may vary or revoke an enforceable direction:
-
-                     (a)  in the same manner as an enforceable direction may be made; and
-
-                     (b)  subject to the conditions that apply to the making of an enforceable direction (for this purpose, subsection (1) is not a condition); and
-
-                     (c)  subject to the Minister being satisfied that it would be in the public interest to vary or revoke the direction; and
-
-                     (d)  subject to the Minister being satisfied that the variation or revocation would not be inconsistent with the following purposes:
-
-                              (i)  ensuring the person’s future compliance with this Act;
-
-                             (ii)  preventing, repairing or mitigating harm to the environment in the Marine Park that has been, might be or will be caused by the conduct the person engaged in referred to in subsection (1).
-
-Enforceable directions are not legislative instruments
-
-             (6)  An enforceable direction is not a legislative instrument.
-
-##### <a id="61ADB"></a>61ADB  Content of enforceable direction
-
-                   An enforceable direction must:
-
-                     (a)  state the name of the person to whom it applies; and
-
-                     (b)  set out brief details of the conduct to which it applies; and
-
-                     (c)  specify whichever of the following apply:
-
-                              (i)  the offence referred to in subparagraph 61ADA(1)(a)(i);
-
-                             (ii)  the provision referred to in subparagraph 61ADA(1)(a)(ii);
-
-                            (iii)  the duty in section 37AA to prevent or minimise harm to the environment in the Marine Park; and
-
-                     (d)  specify the action that the person is to take or not take; and
-
-                     (e)  set out the effect of section 61ADE (Ministerial reconsideration of enforceable direction); and
-
-                      (f)  set out the effect of section 61ADH (failure to comply with enforceable direction); and
-
-                     (g)  if the direction relates to conduct that a person has engaged in that constitutes an offence or contravention—be given less than 6 years after the offence or contravention occurs.
-
-##### <a id="61ADC"></a>61ADC  Notifying owners and occupiers of land
-
-             (1)  Before the Minister makes an enforceable direction that requires an action to be taken on land that is not owned or occupied by the person the Minister proposes the direction will apply to, the Minister must:
-
-                     (a)  take all practicable steps to identify each person who is an owner or occupier of the land or any part of it; and
-
-                     (b)  take all practicable steps to advise each person identified of the enforceable direction the Minister proposes to make; and
-
-                     (c)  give persons advised at least 28 days to comment in writing to the Minister on the proposed enforceable direction.
-
-             (2)  The Minister must take any comments into account in deciding whether to make the proposed enforceable direction.
-
-             (3)  If the Minister decides to make the proposed enforceable direction, the Minister must take all practicable steps to advise each person identified for the purposes of paragraph (1)(a) that the direction has been made.
-
-##### <a id="61ADD"></a>61ADD  When enforceable directions have effect
-
-             (1)  An enforceable direction takes effect:
-
-                     (a)  on the day (if any) specified in the direction (which must not be earlier than the day on which a copy of the direction is given to the person to whom it applies); or
-
-                     (b)  if no day is specified—on the day on which a copy of the direction is given to the person to whom it applies.
-
-             (2)  An enforceable direction continues in effect:
-
-                     (a)  for the period (if any) specified in the direction; or
-
-                     (b)  until set aside by the Federal Court under section 61ADF or revoked by the Minister under subsection 61ADA(5).
-
-##### <a id="61ADE"></a>61ADE  Ministerial reconsideration of enforceable direction
-
-             (1)  A person to whom an enforceable direction is given may, no later than 20 days after:
-
-                     (a)  the day on which the person is given a copy of the direction; or
-
-                     (b)  the day on which the Minister varies the direction under subsection 61ADA(5);
-
-apply in writing to the Minister for reconsideration of the decision to make or vary the direction.
-
-             (2)  On receipt of the application, the Minister must:
-
-                     (a)  reconsider the decision; and
-
-                     (b)  affirm or vary it, or set it aside and substitute a new decision.
-
-             (3)  The Minister may take into account information and comments from any source the Minister considers appropriate in deciding what action to take in relation to the application.
-
-             (4)  The Minister must:
-
-                     (a)  advise the person of the Minister’s decision in relation to the application; and
-
-                     (b)  take all practicable steps to advise the persons identified for the purposes of paragraph 61ADC(1)(a) of the Minister’s decision in relation to the application.
-
-##### <a id="61ADF"></a>61ADF  Application to Federal Court
-
-             (1)  A person to whom an enforceable direction applies may apply to the Federal Court to have the direction set aside, as long as the application is made within 28 days after any of the following:
-
-                     (a)  the day on which the person is given a copy of the direction;
-
-                     (b)  the day on which the Minister affirms or varies the direction under section 61ADE;
-
-                     (c)  the day on which the Minister varies the direction under subsection 61ADA(5).
-
-             (2)  On application under subsection (1), the Federal Court must set aside the enforceable direction if the Court is satisfied that:
-
-                     (a)  the person did not engage in, or was not likely to engage in, the conduct referred to in subsection 61ADA(1); or
-
-                     (b)  the conduct did not or would not constitute the offence specified in the direction; or
-
-                     (c)  the conduct did not or would not contravene the civil penalty provision specified in the direction; or
-
-                     (d)  the conduct did not or would not contravene the duty in section 37AA; or
-
-                     (e)  taking or not taking the action specified in the direction is not a reasonable measure for the purposes of:
-
-                              (i)  ensuring the person’s future compliance with this Act; or
-
-                             (ii)  preventing, repairing or mitigating harm to the environment in the Marine Park that has been, might be or will be caused by the person’s conduct.
-
-             (3)  In considering whether taking or not taking an action is a reasonable measure for the purposes referred to in paragraph (2)(e), the Federal Court must have regard to the following:
-
-                     (a)  the nature and extent of the conduct referred to in subsection 61ADA(1);
-
-                     (b)  the nature and extent of the harm to the environment that has been, might be or will be caused by the conduct;
-
-                     (c)  the circumstances in which the person engaged in the conduct;
-
-                     (d)  whether the person has previously been found by a court in proceedings under this Act or under any other law of the Commonwealth or a State or Territory to have engaged in any similar conduct;
-
-                     (e)  the cost to the person of taking or not taking the action;
-
-                      (f)  any benefit (whether or not financial) that the person has obtained or might obtain as a result of engaging in the conduct.
-
-The Federal Court may also have regard to any other matters it considers relevant.
-
-             (4)  The Federal Court must not set aside the enforceable direction unless it is satisfied as mentioned in subsection (2).
-
-##### <a id="61ADG"></a>61ADG  Enforcement of direction by Federal Court
-
-             (1)  If the Minister considers that the person to whom an enforceable direction applies has failed to comply with the direction, the Minister may apply to the Federal Court for an order under subsection (2).
-
-             (2)  If the Federal Court is satisfied that the person has failed to comply with the direction, the Court may make any one or more of the following orders:
-
-                     (a)  an order directing the person to comply with the direction;
-
-                     (b)  any other order the Court considers appropriate.
-
-##### <a id="61ADH"></a>61ADH  Failure to comply with enforceable direction: civil penalty provision
-
-                   A person to whom an enforceable direction applies must comply with the direction.
-
-                    Civil penalty:
-
-                     (a)  for an individual—600 penalty units; or
-
-                     (b)  for a body corporate—6,000 penalty units.
-
-#### Subdivision E—Directions limiting access to Marine Park
-
-##### <a id="61AEA"></a>61AEA  Directions limiting access to Marine Park
-
-Application of this section
-
-             (1)  This section applies in relation to a person if at least 3 strikes against the person have occurred within the last 10 years. For this purpose:
-
-                     (a)  there is a **_strike_** against a person if the person has been convicted of an offence against this Act or a declaration of contravention of a civil penalty provision has been made against the person; and
-
-                     (b)  the strike **_occurs_** on the date the person is convicted of the offence or the date of the declaration of contravention.
-
-Directions limiting access to Marine Park
-
-             (2)  The Minister may, in writing, make a direction:
-
-                     (a)  prohibiting the person from entering and using the Marine Park; or
-
-                     (b)  imposing conditions on the person’s entry to and use of the Marine Park.
-
-             (3)  A copy of the direction must be given to the person.
-
-Relevant matters
-
-             (4)  In deciding whether to make a direction under subsection (2), the Minister must have regard to:
-
-                     (a)  the nature of the conduct involved in the strikes to which the direction relates; and
-
-                     (b)  the objects of ensuring the person’s future compliance with this Act and preventing harm to the environment in the Marine Park.
-
-             (5)  The Minister must not make a direction under subsection (2) that is inconsistent with the obligations of Australia under international law, including obligations under any agreement or arrangement between Australia and another country or countries.
-
-When directions have effect
-
-             (6)  A direction made under subsection (2):
-
-                     (a)  takes effect:
-
-                              (i)  on the day (if any) specified in the direction (which must not be earlier than the day on which a copy of the direction is given to the person); or
-
-                             (ii)  if no day is specified—on the day a copy of the direction is given to the person; and
-
-                     (b)  continues in effect for the period specified in the direction (which must be no longer than 10 years after the strike that occurred most recently before the direction takes effect).
-
-Variation and revocation
-
-             (7)  The Minister may vary or revoke a direction under subsection (2):
-
-                     (a)  in the same manner as a direction under that subsection may be made; and
-
-                     (b)  subject to the same conditions as apply to the making of a direction under subsection (2) (for this purpose, subsection (1) is not a condition).
-
-Directions are not legislative instruments
-
-             (8)  A direction made under subsection (2) is not a legislative instrument.
-
-##### <a id="61AEB"></a>61AEB  Failure to comply with direction: offence
-
-             (1)  A person commits an offence if:
-
-                     (a)  a direction under subsection 61AEA(2) applies to the person; and
-
-                     (b)  the person fails to comply with the direction.
-
-                    Penalty:  500 penalty units.
-
-             (2)  Absolute liability applies to paragraph (1)(a).
-
-Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
-
-             (3)  The fault element for paragraph (1)(b) is negligence.
-
-Note:          For negligence, see section 5.5 of the _Criminal Code_.
-
-#### Subdivision F—Publicising offences and contraventions
-
-##### <a id="61AFA"></a>61AFA  Publicising offences and contraventions
-
-             (1)  The Minister or the Authority may publicise, in any way the Minister or Authority thinks appropriate, any or all of the following:
-
-                     (a)  an offence against this Act of which a person has been convicted;
-
-                     (b)  a contravention of a civil penalty provision in respect of which a declaration of contravention has been made against a person or for which a person has been required to pay a pecuniary penalty;
-
-                     (c)  a penalty imposed on a person for an offence or contravention of a civil penalty provision.
-
-             (2)  This section does not:
-
-                     (a)  limit the Minister’s or Authority’s powers to publicise an offence against or contravention of this Act; or
-
-                     (b)  prevent anyone else from publicising an offence against or contravention of this Act; or
-
-                     (c)  affect any obligation (however imposed) on anyone to publicise an offence against or contravention of this Act.
-
-#### Subdivision G—Injunctions
-
-##### <a id="61AGA"></a>61AGA  Injunctions
-
-             (1)  If a person has done, is doing or is proposing to do an act that:
-
-                     (a)  constitutes or would constitute an offence against this Act; or
-
-                     (b)  contravenes or would contravene a civil penalty provision;
-
-the Federal Court or the Supreme Court of Queensland may, on application by the Minister, the Authority or by a person whose interests have been, are or would be affected by the action, grant an injunction, on terms the Court considers appropriate:
-
-                     (c)  restraining the person from doing the act; and
-
-                     (d)  if, in the Court’s opinion, it is desirable to do so—requiring the person to do an act (including prevent, repair or mitigate harm to the environment in the Marine Park).
-
-             (2)  If a person:
-
-                     (a)  has refused or failed, is refusing or failing or is proposing to refuse or fail to do an act; and
-
-                     (b)  that refusal or failure constitutes or would constitute:
-
-                              (i)  an offence against this Act; or
-
-                             (ii)  a contravention of a civil penalty provision;
-
-the Federal Court or the Supreme Court of Queensland may, on application by the Minister, the Authority or by a person whose interests have been, are or would be affected by the refusal or failure, grant an injunction, on terms the Court considers appropriate, requiring the person to do the act.
-
-             (3)  Before deciding to grant an injunction under this section, the Court may grant an interim injunction:
-
-                     (a)  restraining a person from doing an act; or
-
-                     (b)  requiring a person to do an act.
-
-             (4)  The Court may discharge or vary an injunction granted under this section.
-
-             (5)  The Court may grant an injunction under subsection (1) restraining a person from doing an act:
-
-                     (a)  whether or not it appears to the Court that the person intends to do again, or to continue to do, an act of that kind; and
-
-                     (b)  whether or not the person has previously done an act of that kind; and
-
-                     (c)  whether or not there is an imminent danger of substantial harm to a person or to the environment in the Marine  Park  if the person does an act of that kind.
-
-             (6)  The Court may grant an injunction under subsection (2) requiring a person to do an act:
-
-                     (a)  whether or not it appears to the Court that the person intends to refuse or fail, or to continue to refuse or fail, to do the act; and
-
-                     (b)  whether or not the person has previously refused or failed to do the act; and
-
-                     (c)  whether or not there is an imminent danger of substantial harm to a person or to the environment in the Marine  Park if the person refuses or fails to do the act.
-
-#### Subdivision H—Remediation orders
-
-##### <a id="61AHA"></a>61AHA  Remediation orders
-
-             (1)  If a person has engaged or is engaging in conduct that constitutes:
-
-                     (a)  an offence against this Act; or
-
-                     (b)  a contravention of a civil penalty provision;
-
-the Federal Court may, on application by the Minister, make an order (a **_remediation order_**) requiring the person to take action to prevent, repair or mitigate harm to the environment in the Marine Park that has been, might be or will be caused by the conduct.
-
-             (2)  In considering whether to grant a remediation order, the Federal Court must have regard to the following:
-
-                     (a)  the nature and extent of the conduct referred to in subsection (1);
-
-                     (b)  the nature and extent of the harm to the environment in the Marine Park that has been, might be or will be caused by the conduct;
-
-                     (c)  the circumstances in which the person engaged in the conduct;
-
-                     (d)  if the harm was, might be or will be caused in a zone—any objectives specified for the zone in its zoning plan;
-
-                     (e)  whether the person has previously been found by a court in proceedings under this Act or under any other law of the Commonwealth or a State or Territory to have engaged in any similar conduct;
-
-                      (f)  the cost to the person of taking the action;
-
-                     (g)  any benefit (whether or not financial) that the person has obtained or might obtain as a result of engaging in the conduct.
-
-             (3)  A remediation order may specify the action that a person is to take in general terms (for example, requiring the person to take whatever action is necessary to prevent, repair or mitigate the harm) or in particular terms.
-
-             (4)  If the Federal Court makes a remediation order, it may also make an order requiring the person to provide security for the due taking of the required action.
-
-##### <a id="61AHB"></a>61AHB  Variation and discharge of remediation order
-
-                   The Federal Court may vary or discharge a remediation order on application by the Minister.
-
-#### Subdivision I—Civil penalty provisions
-
-##### <a id="61AIA"></a>61AIA  Declarations of contravention
-
-             (1)  The Authority may, on behalf of the Commonwealth, apply for a declaration of contravention under this section in relation to a contravention of a civil penalty provision by a person.
-
-             (2)  If the Federal Court is satisfied that the person has contravened the civil penalty provision, the Court must make a declaration of contravention.
-
-Note:          Once a declaration is made, the Authority can seek a pecuniary penalty order (see section 61AIC).
-
-             (3)  The declaration of contravention must specify the following:
-
-                     (a)  that the Federal Court made the declaration;
-
-                     (b)  the civil penalty provision that was contravened;
-
-                     (c)  if the contravention was an aggravated contravention—the applicable aggravating circumstance under section 38GB;
-
-                     (d)  the person who contravened the civil penalty provision;
-
-                     (e)  the conduct that constituted the contravention.
-
-             (4)  Proceedings for a declaration of contravention may be started no later than 6 years after the contravention.
-
-##### <a id="61AIB"></a>61AIB  Declaration of contravention is conclusive evidence
-
-                   A declaration of contravention is conclusive evidence of the matters referred to in subsection 61AIA(3).
-
-##### <a id="61AIC"></a>61AIC  Pecuniary penalty for contravening civil penalty provision
-
-Application for order
-
-             (1)  No later than 6 years after a contravention of a civil penalty provision by a person, the Authority  may, on behalf of the Commonwealth, apply to the Federal Court for an order that the person pay the Commonwealth a pecuniary penalty for the contravention.
-
-Court may order person to pay pecuniary penalty
-
-             (2)  If the Federal Court has made a declaration of contravention against the person under section 61AIA, the Court may order the person to pay to the Commonwealth for the contravention the pecuniary penalty that the Court determines is appropriate (but not more than the relevant amount specified for the provision).
-
-Determining amount of pecuniary penalty
-
-             (3)  In determining the pecuniary penalty, the Federal Court must have regard to all relevant matters, including:
-
-                     (a)  the nature and extent of the contravention; and
-
-                     (b)  the nature and extent of any loss or damage suffered as a result of the contravention; and
-
-                     (c)  the nature and extent of any harm to the environment that has been, might be or will be caused by the contravention; and
-
-                     (d)  if any harm caused by the contravention was, might be or will be caused in a zone—any objectives specified for the zone in its zoning plan; and
-
-                     (e)  the circumstances in which the contravention took place; and
-
-                      (f)  whether the person has previously been found by a court in proceedings under this Act or under any other law of the Commonwealth or a State or Territory to have engaged in any similar conduct; and
-
-                     (g)  any benefit (whether or not financial) obtained by the person directly or indirectly as a result of the contravention.
-
-Conduct contravening more than one civil penalty provision
-
-             (4)  If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Act against a person in relation to the contravention of any one or more of those provisions. However, the person is not liable to more than one pecuniary penalty under this section in respect of the same conduct.
-
-##### <a id="61AID"></a>61AID  Definition of _civil penalty provision_
-
-                   For the purposes of this Act, a subsection of this Act (or a section of this Act that is not divided into subsections) is a **_civil penalty provision_** if:
-
-                     (a)  the words “civil penalty” and one or more amounts in penalty units are set out at the foot of the subsection (or section) (whether or not any other amount is set out); or
-
-                     (b)  another provision of this Act specifies that the subsection (or section) is a civil penalty provision.
-
-##### <a id="61AIE"></a>61AIE  Contravening a civil penalty provision is not an offence
-
-                   A contravention of a civil penalty provision is not an offence.
-
-##### <a id="61AIF"></a>61AIF  Persons involved in contravening civil penalty provision
-
-             (1)  A person must not:
-
-                     (a)  aid, abet, counsel or procure a contravention of a civil penalty provision; or
-
-                     (b)  induce (by threats, promises or otherwise) a contravention of a civil penalty provision; or
-
-                     (c)  be in any way directly or indirectly knowingly concerned in, or party to, a contravention of a civil penalty provision; or
-
-                     (d)  conspire to contravene a civil penalty provision.
-
-             (2)  A person who contravenes subsection (1) in relation to a civil penalty provision is, for the purposes of:
-
-                     (a)  this Act; and
-
-                     (b)  Part 17 of the _Environment Protection and Biodiversity Conservation Act 1999_, so far as that Part applies in relation to contraventions of civil penalty provisions of this Act;
-
-taken to have contravened the civil penalty provision.
-
-##### <a id="61AIG"></a>61AIG  Recovery of a pecuniary penalty
-
-                   If the Federal Court orders a person to pay a pecuniary penalty:
-
-                     (a)  the penalty is payable to the Commonwealth; and
-
-                     (b)  the Commonwealth may enforce the order as if it were a judgment of the Court.
-
-##### <a id="61AIH"></a>61AIH  Civil evidence and procedure rules for declarations of contravention and civil penalty orders
-
-                   The Federal Court must apply the rules of evidence and procedure for civil matters when hearing proceedings for:
-
-                     (a)  a declaration of contravention; or
-
-                     (b)  a pecuniary penalty order.
-
-##### <a id="61AII"></a>61AII  Civil proceedings after criminal proceedings
-
-                   The Federal Court must not make a declaration of contravention or a pecuniary penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the contravention.
-
-##### <a id="61AIJ"></a>61AIJ  Criminal proceedings during civil proceedings
-
-             (1)  Proceedings for a declaration of contravention or a pecuniary penalty order against a person for a contravention of a civil penalty provision are stayed if:
-
-                     (a)  criminal proceedings are started or have already been started against the person for an offence; and
-
-                     (b)  the offence is constituted by conduct that is substantially the same as the conduct alleged to constitute the contravention.
-
-             (2)  The proceedings for the declaration or order may be resumed if the person is not convicted of the offence. Otherwise, the proceedings for the order are dismissed.
-
-##### <a id="61AIK"></a>61AIK  Criminal proceedings after civil proceedings
-
-                   Criminal proceedings may be started against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether:
-
-                     (a)  a declaration of contravention has been made against the person; or
-
-                     (b)  a pecuniary penalty order has been made against the person.
-
-##### <a id="61AIL"></a>61AIL  Evidence given in proceedings for penalty not admissible in criminal proceedings
-
-                   Evidence of information given or evidence of production of documents by an individual is not admissible in criminal proceedings against the individual if:
-
-                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a pecuniary penalty order against the individual for a contravention of a civil penalty provision (whether or not the order was made); and
-
-                     (b)  the conduct alleged to constitute the offence is substantially the same as the conduct that was claimed to constitute the contravention.
-
-However, this does not apply to a criminal proceeding in respect of the falsity of the evidence given by the individual in the proceedings for the pecuniary penalty order.
-
-#### Subdivision J—Court order to pay amount equivalent to avoided charge
-
-##### <a id="61AJA"></a>61AJA  Order to pay amount equivalent to avoided charge
-
-             (1)  This section applies if:
-
-                     (a)  a court convicts a person of an offence against this Act or orders a person to pay a pecuniary penalty for a contravention of a civil penalty provision; and
-
-                     (b)  the person would not have committed the offence or contravention if the conduct constituting the offence or contravention had been authorised by a permission granted under the regulations for the purposes of a zoning plan or a provision of this Act; and
-
-                     (c)  the permission would have been a chargeable permission.
-
-             (2)  In addition to any fine or sentence of imprisonment imposed on the person for the offence or contravention, the court may, on application by the Authority, order the person to pay to the Authority, on behalf of the Commonwealth, a penalty of an amount determined by the court under subsection (3).
-
-             (3)  In determining the penalty, the court must have regard to the amount of charge that would have been payable if the person had been the holder of the chargeable permission referred to in paragraph (1)(c) at all times when the person engaged in conduct constituting the offence or contravention (whether or not the person was convicted, or ordered to pay a pecuniary penalty, in respect of each particular instance of the conduct).
-
-             (4)  To avoid doubt, the total of the penalties that may be payable by a person in relation to an offence or contravention of a civil penalty provision may, because of this section, exceed the maximum penalty set out at the foot of the offence or civil penalty provision.
-
-#### Subdivision K—Publicity orders
-
-##### <a id="61AKA"></a>61AKA  Publicity orders
-
-                   A court that:
-
-                     (a)  convicts a person of an offence against this Act; or
-
-                     (b)  makes a declaration of contravention against a person, or imposes a pecuniary penalty on a person, for a contravention of a civil penalty provision;
-
-may make an order that the person take action specified in the order to publicise either or both of the following:
-
-                     (c)  the offence or contravention;
-
-                     (d)  any penalty imposed.
-
-### Division 2—Other enforcement-related matters
-
-#### Subdivision A—Infringement notices
-
-##### <a id="61ALA"></a>61ALA  Infringement notices
-
-             (1)  The regulations may make provision enabling a person who is alleged to have committed:
-
-                     (a)  an offence against:
-
-                              (i)  subsection 38BA(3); or
-
-                             (ii)  subsection 38EA(4); or
-
-                     (b)  an offence against the regulations;
-
-to pay a specified penalty to the Commonwealth as an alternative to prosecution.
-
-             (2)  The penalty must not exceed an amount equal to one-fifth of the maximum fine that a court could impose on the person for that offence.
-
-#### Subdivision B—Evidentiary matters
-
-##### <a id="61AMA"></a>61AMA  Content of evidentiary certificate
-
-                   If the Chairperson has reason to believe that any of the following is the case, the Chairperson may issue a written certificate to that effect:
-
-                     (a)  that a specified document is a copy of a permission, authority or notice under this Act;
-
-                     (b)  that on a specified day, or during a specified period, a specified person was or was not authorised to engage in conduct by a specified permission granted under the regulations or specified authority given in accordance with such a permission;
-
-                     (c)  that on a specified day, a specified person was given a specified notice, order or direction under this Act;
-
-                     (d)  that a specified fee or charge under this Act is payable by a specified person;
-
-                     (e)  that a specified fee or charge under this Act payable by a specified person has not been paid by a specified day;
-
-                      (f)  that a specified location at which, or specified area of waters in which, a person, animal, plant, aircraft, vessel or platform is alleged to have been at a specified time is in the Great Barrier Reef Region, the Marine Park or in a specified zone;
-
-                     (g)  that specified information obtained from the vessel monitoring system of a vessel shows that the vessel was, at a specified time, at a specified location or in a specified area of waters;
-
-                     (h)  that specified information obtained from the vessel monitoring system of a vessel shows that the vessel was, at a specified time, travelling at a specified speed.
-
-##### <a id="61AMB"></a>61AMB  Evidentiary effect of certificate
-
-             (1)  In any proceedings:
-
-                     (a)  in relation to an offence against this Act; or
-
-                     (b)  in relation to a contravention of a civil penalty provision; or
-
-                     (c)  for an injunction under section 61AGA; or
-
-                     (d)  to set aside an enforceable direction under section 61ADF;
-
-a certificate under section 61AMA is prima facie evidence of the matters in the certificate.
-
-             (2)  A document purporting to be a certificate under section 61AMA must, unless the contrary is proved, be taken to be such a certificate and to have been properly issued.
-
-             (3)  A certificate must not be admitted in evidence under subsection (1) in proceedings in relation to an offence unless the person charged, or a solicitor who has appeared for the person in those proceedings, has, at least 14 days before the certificate is sought to be admitted, been given a copy of the certificate together with reasonable evidence of the intention to produce the certificate as evidence in the proceedings.
-
-             (4)  Subject to subsection (5), if a certificate is admitted in evidence under subsection (1) in proceedings in relation to an offence, the person charged with the offence may require the Chairperson to be called as a witness for the prosecution and cross-examined as if he or she had given evidence of the matters stated in the certificate.
-
-             (5)  Subsection (4) does not entitle the person charged to require the Chairperson to be called as a witness for the prosecution unless the court, by order, allows the person charged to require the Chairperson to be so called.
-
-             (6)  The Authority may certify that a document is a copy of a certificate under section 61AMA.
-
-             (7)  This section applies to the certified copy as if it were the original.
-
-##### <a id="61AMC"></a>61AMC  Varying or revoking certificate
-
-             (1)  The Chairperson may vary a certificate under section 61AMA as long as the variation is of a minor nature.
-
-             (2)  If a certificate is varied, the Chairperson must give the person concerned a written notice setting out the terms of the variation.
-
-             (3)  The Chairperson may revoke a certificate under section 61AMA.
-
-             (4)  If a certificate is revoked, the Chairperson must give the person concerned a written notice stating that the certificate has been revoked.
-
-##### <a id="61AMD"></a>61AMD  Offences and contraventions in relation to fishing
-
-             (1)  This section applies in relation to an offence against this Act, or a contravention of a civil penalty provision, constituted by conduct that is fishing, if the fishing involved a primary commercial fishing vessel or a dory.
-
-             (2)  In determining, in the case of an offence or contravention involving a primary commercial fishing vessel:
-
-                     (a)  the penalty, or the amount of a penalty, to be imposed on a person for the offence or contravention; or
-
-                     (b)  whether the forfeiture of a thing used in the offence should be ordered under Division 10 of Part 17 of the _Environment Protection and Biodiversity Conservation Act 1999_;
-
-all fish on board the primary commercial fishing vessel at the time the vessel was apprehended in relation to the offence or contravention are taken to be fish in relation to which the offence or contravention was committed.
-
-             (3)  In determining, in the case of an offence or contravention involving a dory:
-
-                     (a)  the penalty, or the amount of a penalty, to be imposed on a person for the offence or contravention; or
-
-                     (b)  whether the forfeiture of a thing used in the offence should be ordered;
-
-all fish:
-
-                     (c)  on board the dory at the time the dory was apprehended in relation to the offence or contravention; and
-
-                     (d)  on board the primary commercial fishing vessel, in association with which the dory is used, at the time the vessel was apprehended in relation to the offence or contravention;
-
-are taken to be fish in relation to which the offence or contravention was committed.
-
-#### Subdivision C—Conduct of directors, employees and agents
-
-##### <a id="61ANA"></a>61ANA  Conduct of directors, employees and agents
-
-Bodies corporate—conduct
-
-             (1)  Any conduct engaged in on behalf of a body corporate:
-
-                     (a)  by a director, employee or agent of the body corporate within the scope of his or her actual or apparent authority; or
-
-                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a director, employee or agent of the body corporate, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the director, employee or agent;
-
-is taken, for the purposes of this Act, to have been engaged in also by the body corporate unless the body corporate establishes that the body corporate took reasonable precautions and exercised due diligence to avoid the conduct.
-
-Bodies corporate—state of mind
-
-             (2)  If, for the purposes of this Act, it is necessary to establish the state of mind of a body corporate in relation to particular conduct, it is sufficient to show:
-
-                     (a)  that the conduct was engaged in by a director, employee, agent or other person as mentioned in paragraph (1)(a) or (b); and
-
-                     (b)  that the director, employee, agent or other person had that state of mind.
-
-Persons other than bodies corporate—conduct
-
-             (3)  Any conduct engaged in on behalf of a person other than a body corporate:
-
-                     (a)  by an employee or agent of the person within the scope of his or her actual or apparent authority; or
-
-                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of an employee or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the employee or agent;
-
-is taken, for the purposes of this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
-
-Persons other than bodies corporate—state of mind
-
-             (4)  If, for the purposes of this Act, it is necessary to establish the state of mind of a person other than a body corporate in relation to particular conduct, it is sufficient to show:
-
-                     (a)  that the conduct was engaged in by an employee, agent or other person as mentioned in paragraph (3)(a) or (b); and
-
-                     (b)  that the employee, agent or other person had that state of mind.
-
-Reasonable precautions
-
-             (5)  For the purposes of subsection (1) or (3), in determining whether a body corporate or other person took reasonable precautions and exercised due diligence to avoid particular conduct, a court must have regard to what steps (if any) the body or person took directed towards ensuring the following (to the extent that the steps are relevant to the conduct):
-
-                     (a)  that the body or person regularly assesses, or arranges for regular assessments of, the body’s or person’s compliance with this Act;
-
-                     (b)  that the body or person implements any appropriate recommendations arising from such an assessment;
-
-                     (c)  that the directors of the body, or the employees or agents of the body or person, have a reasonable knowledge and understanding of the requirements to comply with this Act, in so far as those requirements affect the directors, employees or agents concerned;
-
-                     (d)  that the body or person regularly assesses, or arranges for regular assessments of, the effects of the body’s or person’s activities on the environment in the Marine Park;
-
-                     (e)  that the body or person has an appropriate system established for managing those effects.
-
-Meaning of **state of mind**
-
-             (6)  A reference in subsection (2) or (4) to the **_state of mind_** of a person includes a reference to:
-
-                     (a)  the knowledge, intention, opinion, belief or purpose of the person; and
-
-                     (b)  the person’s reasons for the intention, opinion, belief or purpose.
-
-Meaning of **director**
-
-             (7)  A reference in this section to a **_director_** of a body corporate includes a reference to a constituent member of a body corporate incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.
-
-Disapplying Part 2.5 of Criminal Code
-
-             (8)  Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act.
-
-Note:          Part 2.5 of the _Criminal Code_ deals with corporate criminal responsibility.
-
-#### Subdivision D—Liability of executive officers for bodies corporate
-
-##### <a id="61AOA"></a>61AOA  Criminal liability of executive officers of bodies corporate
-
-             (1)  If:
-
-                     (a)  a body corporate commits an offence against Part VAA (other than Division 6); and
-
-                     (b)  an executive officer of the body was reckless as to whether the offence would be committed; and
-
-                     (c)  the officer was in a position to influence the conduct of the body in relation to the offence; and
-
-                     (d)  the officer failed to take all reasonable steps to prevent the offence being committed;
-
-the officer commits an offence.
-
-             (2)  An offence against subsection (1) is punishable on conviction by:
-
-                     (a)  imprisonment for a term not exceeding the term specified for the offence committed by the body corporate; or
-
-                     (b)  if no term of imprisonment is specified for the offence committed by the body corporate—a pecuniary penalty not exceeding the pecuniary penalty specified for the offence committed by the body corporate.
-
-##### <a id="61AOB"></a>61AOB  Civil penalties for executive officers of bodies corporate
-
-             (1)  If:
-
-                     (a)  a body corporate contravenes a civil penalty provision; and
-
-                     (b)  an executive officer of the body knew that, or was reckless or negligent as to whether, the contravention would occur; and
-
-                     (c)  the officer was in a position to influence the conduct of the body in relation to the contravention; and
-
-                     (d)  the officer failed to take all reasonable steps to prevent the contravention;
-
-the officer contravenes this subsection.
-
-             (2)  Subsection (1) is a civil penalty provision. Under section 61AIC, the Federal Court may order a person contravening subsection (1) to pay a pecuniary penalty not more than the pecuniary penalty the Court could order an individual to pay for contravening the civil penalty provision contravened by the body corporate.
-
-##### <a id="61AOC"></a>61AOC  Reasonable steps to prevent offence or contravention
-
-             (1)  For the purposes of sections 61AOA and 61AOB, in determining whether an executive officer of a body corporate failed to take all reasonable steps to prevent the offence or contravention, a court must have regard to:
-
-                     (a)  what action (if any) the officer took directed towards ensuring the following (to the extent that the action is relevant to the offence or contravention):
-
-                              (i)  that the body regularly assesses, or arranges for regular assessments of, the body’s compliance with this Act;
-
-                             (ii)  that the body implements any appropriate recommendations arising from such an assessment;
-
-                            (iii)  that the body’s employees, agents and contractors have a reasonable knowledge and understanding of the requirements to comply with this Act, in so far as those requirements affect the employees, agents or contractors concerned;
-
-                            (iv)  that the body regularly assesses, or arranges for regular assessments of, the effects of the body’s activities on the environment in the Marine Park;
-
-                             (v)  that the body has an appropriate system established for managing those effects; and
-
-                     (b)  what action (if any) the officer took when he or she became aware that the body was committing an offence against, or contravening, this Act.
-
-             (2)  This section does not, by implication, limit the generality of sections 61AOA and 61AOB.
-
-#### Subdivision E—Miscellaneous
-
-##### <a id="61APA"></a>61APA  Powers of Federal Court
-
-                   The powers conferred on the Federal Court by this Part are in addition to (and do not limit) any other powers of the Court.
-
-##### <a id="61A"></a>61A  Restoration of environment etc.
-
-             (1)  Where the Minister believes on reasonable grounds that an act or omission constitutes an offence against this Act or a contravention of a civil penalty provision, the Minister may cause to be taken such steps as the Minister thinks proper:
+             (1)  Where the Minister believes on reasonable grounds that an act or omission constitutes an offence against this Act, the Minister may cause to be taken such steps as the Minister thinks proper:
 
                      (a)  to repair or remedy any condition arising from that act or omission;
 
@@ -5308,7 +3586,7 @@ the officer contravenes this subsection.
 
                      (c)  to prevent any damage likely to arise from that act or omission.
 
-             (2)  Where the Minister believes on reasonable grounds that an act or omission constitutes an offence against section 38DC in relation to an order or direction relating to the removal of a structure, landing area, farming facility, vessel, aircraft or other thing, the Minister may cause to be taken such steps as the Minister thinks proper:
+             (2)  Where the Minister believes on reasonable grounds that an act or omission constitutes an offence against section 38H in relation to an order relating to the removal of a structure, landing area, farming facility, vessel, aircraft or other thing, the Minister may cause to be taken such steps as the Minister thinks proper:
 
                      (a)  to remove that structure, landing area, farming facility, vessel, aircraft or other thing;
 
@@ -5317,6 +3595,10 @@ the officer contravenes this subsection.
                      (c)  to mitigate any damage arising from that removal; or
 
                      (d)  to prevent any damage likely to arise from that removal.
+
+             (3)  The Minister may, by writing, delegate to the Authority or to the Chairperson all or any of his or her powers under this section.
+
+             (4)  The Authority and the Chairperson are, in the exercise of a power delegated under subsection (3), subject to the directions of the Minister.
 
              (6)  This section does not authorise the doing of an act or thing outside the Marine Park unless the doing of the act or thing affects the Marine Park.
 
@@ -5336,19 +3618,7 @@ the officer contravenes this subsection.
 
 the person convicted is liable to pay to the Commonwealth or to the Authority, as the case requires, an amount equal to the total amount of those expenses and liabilities of the Commonwealth or the Authority.
 
-          (1A)  Subject to this section, if:
-
-                     (a)  a declaration of contravention has been made against a person in relation to a contravention of a civil penalty provision; and
-
-                     (b)  the Commonwealth or the Authority has incurred expenses or other liabilities in relation to:
-
-                              (i)  if the contravention is a contravention of subsection 61AIF(1)—rectifying the act or omission constituting the contravention of the civil penalty provision to which that contravention relates; or
-
-                             (ii)  in any other case—rectifying the act or omission constituting the contravention;
-
-the person against whom the declaration is made is liable to pay to the Commonwealth or to the Authority, as the case requires, an amount equal to the total amount of those expenses and liabilities of the Commonwealth or the Authority.
-
-             (2)  Where, apart from this subsection, 2 or more persons would be liable to pay an amount under subsection (1) or (1A) in respect of the same expenses and liabilities, those persons are jointly and severally liable to pay to the Commonwealth or to the Authority, as the case requires, an amount equal to the total amount of those expenses and liabilities.
+             (2)  Where, apart from this subsection, 2 or more persons would be liable to pay an amount under subsection (1) in respect of the same expenses and liabilities, those persons are jointly and severally liable to pay to the Commonwealth or to the Authority, as the case requires, an amount equal to the total amount of those expenses and liabilities.
 
              (3)  Where:
 
@@ -5362,15 +3632,13 @@ the person is not liable to pay the amount of the excess.
 
              (5)  Where a person is convicted before a court of an offence against this Act, the court may (whether or not it has imposed a penalty on the person) order the person to pay an amount that the person is liable to pay under this section.
 
-          (5A)  If the Federal Court makes a declaration of contravention against a person for a contravention of a civil penalty provision, the Court may (whether or not the Court makes a pecuniary penalty order against the person in respect of the contravention) order the person to pay an amount that the person is liable to pay under this section.
-
-             (6)  A recovery under subsection (4), or the making of an order under subsection (5) or (5A), in respect of an expense or liability incurred in relation to rectifying an act or omission does not prevent a recovery under subsection (4), or the making of an order under subsection (5) or (5A), in respect of another expense or liability incurred in relation to rectifying that act or omission.
+             (6)  A recovery under subsection (4), or the making of an order under subsection (5), in respect of an expense or liability incurred in relation to rectifying an act or omission does not prevent a recovery under subsection (4), or the making of an order under subsection (5), in respect of another expense or liability incurred in relation to rectifying that act or omission.
 
              (7)  For the purposes of this section, where a person is convicted of:
 
                      (a)  an offence against section 6 of the _Crimes Act 1914_ or section 11.4 or 11.5 of the _Criminal Code_; or
 
-                     (b)  an offence against section 38FA or 38FD;
+                     (b)  an offence against section 38K or 38L;
 
 the following provisions have effect:
 
@@ -5384,9 +3652,9 @@ the following provisions have effect:
 
                      (b)  the offence the commission of which the person aided, abetted, counselled or procured shall be taken to be the primary offence to which the ancillary offence relates.
 
-             (9)  A reference in this section to rectifying an act or omission constituting an offence against this Act or a contravention of a civil penalty provision is a reference:
+             (9)  A reference in this section to rectifying an act or omission constituting an offence against this Act is a reference:
 
-                     (a)  in the case of an offence against section 38DC in relation to an order or direction relating to the removal of a structure, landing area, farming facility, aircraft, vessel or other thing—to the taking of steps (whether in the exercise of powers conferred by section 61A, by another provision of this Act or by another law):
+                     (a)  in the case of an offence against section 38H in relation to an order relating to the removal of a structure, landing area, farming facility, aircraft, vessel or other thing—to the taking of steps (whether in the exercise of powers conferred by section 61A, by another provision of this Act or by another law):
 
                               (i)  to remove that structure, landing area, farming facility, vessel, aircraft or other thing;
 
@@ -5410,7 +3678,7 @@ the following provisions have effect:
 
              (1)  Where:
 
-                     (a)  under subsection 39FA(6), 39FB(3), section 61AJA or subsection 61B(5) or (5A), a court orders a person to pay an amount; and
+                     (a)  under subsection 39FA(6), 39FB(3) or 61B(5), a court orders a person to pay an amount; and
 
                      (b)  the court has civil jurisdiction to the extent of the amount;
 
@@ -5418,7 +3686,7 @@ the order is enforceable in all respects as a final judgment of the court in fav
 
              (2)  Where:
 
-                     (a)  under subsection 39FA(6), 39FB(3), section 61AJA or subsection 61B(5) or (5A), a court orders a person to pay an amount; and
+                     (a)  under subsection 39FA(6), 39FB(3) or 61B(5), a court orders a person to pay an amount; and
 
                      (b)  the court:
 
@@ -5434,6 +3702,18 @@ a proper officer of the court shall issue to the Minister or the Authority, as t
 
              (5)  The cost of registration of the certificate and other proceedings under this section shall, subject to the prescribed conditions (if any), be deemed to be payable under the certificate.
 
+##### <a id="62"></a>62  Averment in relation to Marine Park
+
+                   In any proceedings for an offence against this Act, an averment of the prosecutor, contained in the information or complaint, that:
+
+                     (a)  the place where the defendant is alleged to have been at the time of the alleged offence was in the Marine Park or in a specified zone; or
+
+                     (b)  the place where an animal, plant, aircraft, vessel or article referred to in the information or complaint is alleged to have been at the time of the alleged offence was in the Marine Park or in a specified zone;
+
+is _prima facie_ evidence of the matter averred.
+
+Note:          However, the prosecutor cannot make an averment in prosecuting for an offence that is directly punishable by imprisonment. See section 13.6 of the _Criminal Code_.
+
 ##### <a id="63"></a>63  Jurisdiction of courts
 
              (1)  A provision of the _Judiciary Act 1903_ by which a court of a State is invested with jurisdiction with respect to offences against the laws of the Commonwealth has effect, in relation to offences against this Act, as if that jurisdiction were so invested without limitation as to locality.
@@ -5442,73 +3722,47 @@ a proper officer of the court shall issue to the Minister or the Authority, as t
 
              (3)  The trial on indictment of an offence against this Act not committed within a State may be held by a court of competent jurisdiction at any place where the court may sit.
 
-## Part IX—Miscellaneous
+##### <a id="64"></a>64  Conduct of directors, servants and agents
 
-##### <a id="64"></a>64  Reconsideration of decisions
+             (1)  Where it is necessary, for the purposes of this Act, to establish the state of mind of a body corporate in respect of conduct engaged in, or deemed by subsection (2) to have been engaged in, by the body corporate, it is sufficient to show that a director, servant or agent of the body corporate, being a director, servant or agent by whom the conduct was engaged in within the scope of his or her actual or apparent authority, had that state of mind.
 
-             (1)  A person who is affected by a reviewable decision made by the Minister may request the Minister, in writing, to reconsider the decision.
+             (2)  Any conduct engaged in on behalf of a body corporate:
 
-             (2)  A person who is affected by a reviewable decision made by the Authority may request the Authority, in writing, to reconsider the decision.
+                     (a)  by a director, servant or agent of the body corporate within the scope of his or her actual or apparent authority; or
 
-             (3)  For the purposes of this Act, each of the following decisions is a **_reviewable decision_**:
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a director, servant or agent of the body corporate, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the director, servant or agent;
 
-                     (a)  a decision by the Authority to make an emergency direction under subsection 61ACA(2) or to vary such a direction;
+shall be deemed, for the purposes of this Act, to have been engaged in by the body corporate unless the body corporate establishes that the body corporate took reasonable precautions and exercised due diligence to avoid the conduct.
 
-                     (b)  a decision by the Minister to make a direction under subsection 61AEA(2) (directions limiting access to the Marine  Park), or to vary such a direction;
+             (3)  Where it is necessary, for the purposes of this Act, to establish the state of mind of a person in relation to conduct deemed by subsection (4) to have been engaged in by the person, it is sufficient to show that a servant or agent of the person, being a servant or agent by whom the conduct was engaged in within the scope of his or her actual or apparent authority, had that state of mind.
 
-                     (c)  a decision by the Minister prescribed by the regulations for the purposes of this paragraph;
+             (4)  Conduct engaged in on behalf of a person other than a body corporate:
 
-                     (d)  a decision by the Authority prescribed by the regulations for the purposes of this paragraph.
+                     (a)  by a servant or agent of the person within the scope of his or her actual or apparent authority; or
 
-             (4)  After receiving a request, the Minister or Authority must:
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a servant or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the servant or agent;
 
-                     (a)  reconsider the decision; and
+shall be deemed, for the purposes of this Act, to have been engaged in by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
 
-                     (b)  affirm or vary it, or set it aside and substitute a new decision.
+             (5)  A reference in this section to the state of mind of person includes a reference to the knowledge, intention, opinion, belief or purpose of the person and the reasons for the intention, opinion, belief or purpose.
 
-             (5)  The regulations may prescribe any or all of the following:
+             (6)  A reference in this section to a director of a body corporate includes a reference to a constituent member of a body corporate incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.
 
-                     (a)  time limits for making requests under this section;
+             (7)  A reference in this section to engaging in conduct includes a reference to failing or refusing to engage in conduct.
 
-                     (b)  matters to be included in requests under this section;
+             (8)  Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act.
 
-                     (c)  time limits for reconsidering decisions under this section;
-
-                     (d)  when a decision on reconsideration takes effect.
-
-             (6)  In this section:
-
-                    <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
-
-##### <a id="64A"></a>64A  Review of decisions by AAT
-
-                   If a reviewable decision made by the Minister or the Authority has been reconsidered under subsection 64(4), application may be made to the AAT for review of the decision as affirmed, varied or substituted on reconsideration.
-
-Note:          Sections 39M and 59G provide for review of certain other decisions by the AAT.
+Note:          Part 2.5 of the _Criminal Code_ deals with corporate criminal responsibility.
 
 ##### <a id="65"></a>65  Act to apply subject to international obligations
 
                    This Act has effect subject to the obligations of Australia under international law, including obligations under any agreement between Australia and another country or countries.
 
-##### <a id="65A"></a>65A  Appropriation of Consolidated Revenue Fund
-
-             (1)  The Consolidated Revenue Fund is appropriated for the following purposes:
-
-                     (a)  making refunds of amounts in accordance with regulations made for the purposes of paragraph 39K(1)(c);
-
-                     (b)  making payments of interest, or other amounts, derived from the custody or banking of collected amounts in accordance with regulations made for the purposes of paragraph 39PA(1)(d).
-
-             (2)  If an amount (the **_Commonwealth amount_**) is received by the Commonwealth under section 39DA, subsection 39FA(2), section 39FD or 39H or subsection 61AJA(2), an amount equal to the Commonwealth amount is appropriated out of the Consolidated Revenue Fund for the purpose of the performance of the functions of the Authority.
-
-             (3)  If the Commonwealth refunds the whole or part of a Commonwealth amount, the amount appropriated under subsection (2) is reduced by the amount of the refund.
-
-Note:          Subsection 28(2) of the _Financial Management and Accountability Act 1997_ is a standing appropriation for repayments of amounts received by the Commonwealth.
-
 ##### <a id="66"></a>66  Regulations
 
              (1)  The Governor-General may make regulations, not inconsistent with this Act or with a zoning plan, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-             (2)  Without limiting the generality of subsection (1), regulations to do any or all of the following may be made:
+             (2)  Without limiting the generality of subsection (1), regulations may be made:
 
                      (a)  conferring functions on the Authority for the purposes of the regulations;
 
@@ -5546,6 +3800,8 @@ Note:          Subsection 28(2) of the _Financial Management a
 
                     (m)  providing for the removal of vessels from places in the Marine Park where they have been left in contravention of this Act or have been abandoned and for the impounding of such vessels;
 
+                     (n)  enabling a person who is alleged to have contravened a provision of the regulations to pay to the Authority, as an alternative to prosecution, a stated penalty that is not more than one-fifth of the maximum penalty by which a contravention of that provision is otherwise punishable;
+
                      (o)  regulating the use of vessels in, and the passage of vessels through, the Marine Park and the landing and use of aircraft in, and the flying of aircraft over, the Marine Park;
 
                      (p)  regulating or prohibiting the taking of animals or plants into, or out of, the Marine Park;
@@ -5560,19 +3816,9 @@ Note:          Subsection 28(2) of the _Financial Management a
 
                      (u)  providing for the grant or issue of licences, permissions, permits and authorities, the conditions subject to which they are granted or issued (which may include a requirement to enter into an agreement with the Commonwealth) and the charging of fees by the Authority in respect of such licences, permissions, permits and authorities;
 
-                    (ua)  providing for the issue of exemptions by the Minister under section 59F and the conditions subject to which they are issued;
-
-                    (ub)  providing for the use of a vessel monitoring system on vessels in the Marine Park and for the use and disclosure of information provided by the vessel monitoring system;
-
-                    (uc)  regulating fishing (of any kind, including commercial fishing) in the Marine Park;
-
-                    (ud)  regulating camping and other activities on islands in the Marine Park;
-
-                    (ue)  providing for the protection and conservation of protected species in the Marine Park;
+                    (ua)  providing for the issue of exemptions by the Minister under section 59F and the conditions subject to which they are issued; and
 
                      (v)  providing for any matter incidental to or connected with any of the foregoing.
-
-          (2A)  Without limiting subsection (1), the regulations may prescribe measures for the management of the discharge of sewage from vessels in the Marine Park.
 
              (3)  Without limiting the generality of subsection (1) or (2), the regulations may be expressed to apply to or in relation to:
 
@@ -6233,7 +4479,7 @@ Remainder: Royal Assent</div>
   <td>
     <div>Schedule 1 (items 1–25), Schedule 2 and Schedule 3 (items 3–47, 
 49–52): 26 Nov 2008 
-Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: 25 Nov 2009</div>
+Schedule 4 (items 38–44), Schedule 5 (items 88–157) and Schedule 6: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 3 (items 
@@ -6292,7 +4538,7 @@ _(k)_     The _Great   Barrier Reef__Marine__Park__Act 1975_ was amended
 
                               (c)   the items in Schedules 10, 11 and 12.
 
-_(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amended by Schedule 1 (items 46–72) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
+_(l)_      The _Great   Barrier Reef__Marine__Park__Act 1975_ was amended by Schedule 1 (items 46–72) only of the _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001_, subsection 2(1)(c) of which provides as follows:
 
                  (1)   Subject to this section, this Act commences on the latest of the following days:
 
@@ -6363,14 +4609,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 3B</div>
   </td>
   <td>
@@ -6399,14 +4637,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
   </td>
   <td>
     <div>ad. No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 1 to s. 4A</div>
-  </td>
-  <td>
-    <div>am. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7059,82 +5289,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37AA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 4 of Part V</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 37AB, 37AC</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 38</div>
   </td>
   <td>
     <div>am. No. 140, 1978; No. 65, 1985; No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part</b> <b>VAA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VAA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7163,30 +5321,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38AA, 38AB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 38B</div>
   </td>
   <td>
@@ -7199,30 +5333,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
   </td>
   <td>
     <div>am. No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38BA–38BD</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7243,15 +5353,7 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38CA, 38CB</div>
+    <div>Ss. 38CA–38CC</div>
   </td>
   <td>
     <div>ad. No. 48, 2001</div>
@@ -7259,47 +5361,7 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38CC</div>
-  </td>
-  <td>
-    <div>ad. No. 48, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38D</div>
+    <div>Ss. 38D–38F</div>
   </td>
   <td>
     <div>ad. No. 105, 1988</div>
@@ -7311,110 +5373,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
   </td>
   <td>
     <div>am. No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38DA–38DE</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38E</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38EA, 38EB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38F</div>
-  </td>
-  <td>
-    <div>ad. No. 105, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38FA–38FD</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 7</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
@@ -7435,30 +5393,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38GA, 38GB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 38H</div>
   </td>
   <td>
@@ -7471,22 +5405,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
   </td>
   <td>
     <div>am. No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 38HA–38HF</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7507,14 +5425,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 38K</div>
   </td>
   <td>
@@ -7531,14 +5441,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 38L</div>
   </td>
   <td>
@@ -7551,14 +5453,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
   </td>
   <td>
     <div>am. No. 48, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7587,26 +5481,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 38MA–38MC</div>
   </td>
   <td>
     <div>ad. No. 48, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7627,26 +5505,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39</div>
   </td>
   <td>
     <div>rs. No. 92, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7771,66 +5633,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div>S. 39FA</div>
+    <div>Ss. 39FA–39FE</div>
   </td>
   <td>
     <div>ad. No. 22, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 39FB(1)</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Subhead. to s. 39FB(3)</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39FB</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 39FC–39FE</div>
-  </td>
-  <td>
-    <div>ad. No. 22, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39FF</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7854,7 +5660,7 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
     <div></div>
   </td>
   <td>
-    <div>am. No. 22, 2004; No. 125, 2008</div>
+    <div>am. No. 22, 2004</div>
   </td>
 </tr>
 <tr>
@@ -7907,15 +5713,7 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39J</div>
+    <div>Ss. 39J, 39K</div>
   </td>
   <td>
     <div>ad. No. 13, 1993</div>
@@ -7927,22 +5725,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
   </td>
   <td>
     <div>am. No. 22, 2004</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39K</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 22, 2004; No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8011,14 +5793,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 39Q</div>
   </td>
   <td>
@@ -8083,23 +5857,7 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div>Ss. 39S, 39T</div>
-  </td>
-  <td>
-    <div>ad. No. 13, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 22, 2004; No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39U</div>
+    <div>Ss. 39S–39U</div>
   </td>
   <td>
     <div>ad. No. 13, 1993</div>
@@ -8331,14 +6089,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 43</div>
   </td>
   <td>
@@ -8350,15 +6100,7 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
     <div></div>
   </td>
   <td>
-    <div>am. No. 25, 1995; No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43A</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
+    <div>am. No. 25, 1995</div>
   </td>
 </tr>
 <tr>
@@ -8367,14 +6109,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
   </td>
   <td>
     <div>am. No. 155, 1979; No. 70, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 44</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8403,26 +6137,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 46</div>
   </td>
   <td>
     <div>am. No. 105, 1988; No. 121, 1991; No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8443,14 +6161,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 46B–46D</div>
   </td>
   <td>
@@ -8459,26 +6169,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 47</div>
   </td>
   <td>
     <div>am. No. 140, 1978; No. 65, 1985; No. 105, 1988; No. 121, 1991; No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8499,14 +6193,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 48</div>
   </td>
   <td>
@@ -8515,26 +6201,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 48AA, 48AB</div>
   </td>
   <td>
     <div>ad. No. 25, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8551,14 +6221,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
   </td>
   <td>
     <div>am. No. 25, 1995; No. 118, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8687,14 +6349,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
   </td>
   <td>
     <div>rs. No. 106, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -8995,14 +6649,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div>S. 59M</div>
-  </td>
-  <td>
-    <div>ad. No. 121, 1991</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div><b>Part VIII</b></div>
   </td>
   <td>
@@ -9011,26 +6657,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div>Heading to Part VIII</div>
+    <div>S. 59M</div>
   </td>
   <td>
-    <div>rs. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Div. 1 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
+    <div>ad. No. 121, 1991</div>
   </td>
 </tr>
 <tr>
@@ -9051,286 +6681,6 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61AAA–61AAD</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61ABA, 61ABB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61ACA, 61ACB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61ADA–61ADH</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61AEA, 61AEB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision F</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AFA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision G</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AGA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision H</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61AHA, 61AHB</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision I</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61AIA–61AIL</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision J</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AJA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision K</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61AKA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part VIII</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61ALA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61AMA–61AMD</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision C</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61ANA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision D</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 61AOA–61AOC</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision E</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61APA</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 61A</div>
   </td>
   <td>
@@ -9342,7 +6692,7 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
     <div></div>
   </td>
   <td>
-    <div>am. No. 25, 1995; No. 152, 1997; No. 106, 2007; No. 125, 2008</div>
+    <div>am. No. 25, 1995; No. 152, 1997; No. 106, 2007</div>
   </td>
 </tr>
 <tr>
@@ -9358,7 +6708,7 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
     <div></div>
   </td>
   <td>
-    <div>am. No. 25, 1995; No. 15, 2001; No. 125, 2008</div>
+    <div>am. No. 25, 1995; No. 15, 2001</div>
   </td>
 </tr>
 <tr>
@@ -9374,15 +6724,7 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
     <div></div>
   </td>
   <td>
-    <div>am. No. 22, 2004; No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
+    <div>am. No. 22, 2004</div>
   </td>
 </tr>
 <tr>
@@ -9395,34 +6737,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 63</div>
   </td>
   <td>
     <div>am. No. 140, 1978; No. 105, 1988</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part IX</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part IX</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -9443,34 +6761,10 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64A</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 65</div>
   </td>
   <td>
     <div>am. No. 125, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65A</div>
-  </td>
-  <td>
-    <div>ad. No. 125, 2008</div>
   </td>
 </tr>
 <tr>
@@ -9521,6 +6815,3044 @@ _(l)_      The _Great Barrier   Reef__Marine__Park__Act 1975_ was amen
     <div>rep. No. 48, 2001</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008 (No. 125, 2008)_
+
+The following amendments commence on 25 November 2009 unless proclaimed earlier:
+
+## Schedule 4
+
+## 38  Subparagraph 7(1)(d)(i)
+
+Omit “by this Act”, substitute “under this or any other Act”.
+
+## 39  After paragraph 7(1)(d)
+
+Insert:
+
+                  (daa)  to exercise any powers, and perform any functions, relating to the Marine Park that have been delegated to the Authority under this or any other Act;
+
+## 40  Subsection 7(1A)
+
+Omit “or (cd)”, substitute “, (cd), (d) or (daa)”.
+
+## 41  Section 38
+
+Repeal the section, substitute:
+
+### Division 4—Relationship with the Environment Protection and Biodiversity Conservation Act 1999
+
+##### <a id="37AB"></a>37AB  Actions affected by the _Environment Protection and Biodiversity Conservation Act 1999_
+
+             (1)  If:
+
+                     (a)  a proposal to take an action is referred to the Minister under Division 1 of Part 7 of the _Environment Protection and Biodiversity Conservation Act 1999_; and
+
+                     (b)  the action, or a component of the action, involves doing a thing that would be an offence against this Act if done without a permission under the regulations;
+
+the referral is taken to be an application made in accordance with the regulations for that permission.
+
+Note:          A subsequent decision under the _Environment Protection and Biodiversity Conservation Act 1999_ that the action is not a controlled action does not affect an application that is taken to have been made because of subsection (1).
+
+             (2)  The Authority, or an agency that has responsibility under a zoning plan for granting permissions, must not grant a person permission under the regulations to do a thing if:
+
+                     (a)  the thing is, or is part of, an action that is a controlled action for the purposes of the _Environment Protection and Biodiversity Conservation Act 1999_; and
+
+                     (b)  the Minister has not decided under Part 9 of the _Environment Protection and Biodiversity Conservation Act 1999_ to approve the taking of the action by the person for the purposes of each provision that is, for the purposes of that Act, a controlling provision for the action.
+
+##### <a id="37AC"></a>37AC  Great  Barrier Reef Region not to be reserved under the _Environment Protection and Biodiversity Conservation Act 1999_
+
+                   The Governor-General must not make a Proclamation under section 344 of the _Environment Protection and Biodiversity Conservation Act 1999_ declaring an area in the Great Barrier Reef Region to be a Commonwealth reserve under that Act.
+
+## Schedule 5
+
+## 88  Subsection 3(1)
+
+Insert:
+
+                    <a name="civil-penalti-provision"></a>**_civil penalty provision_** has the meaning given by section 61AID.
+
+## 89  Subsection 3(1)
+
+Insert:
+
+                    <a name="class-vessel-monitor-direct"></a>**_class vessel monitoring direction_** has the meaning given by subsection 61AAA(7).
+
+## 90  Subsection 3(1)
+
+Insert:
+
+                    <a name="declar-contravent"></a>**_declaration of contravention_** means a declaration made under section 61AIA.
+
+## 91  Subsection 3(1)
+
+Insert:
+
+                    <a name="emerg-direct"></a>**_emergency direction_** has the meaning given by subsection 61ACA(2).
+
+## 92  Subsection 3(1)
+
+Insert:
+
+                    <a name="enforc-direct"></a>**_enforceable direction_** has the meaning given by subsection 61ADA(2).
+
+## 93  Subsection 3(1) (definition of _evidential material_)
+
+Repeal the definition.
+
+## 94  Subsection 3(1)
+
+Insert:
+
+                    <a name="execut-offic"></a>**_executive officer_**, of a body corporate, means a person, by whatever name called and whether or not a director of the body, who is concerned in, or takes part in, the management of the body.
+
+## 95  Subsection 3(1)
+
+Insert:
+
+                    <a name="feral-court"></a>**_Federal Court_** means the Federal Court of Australia.
+
+## 96  Subsection 3(1) (definition of _frisk search_)
+
+Repeal the definition.
+
+## 97  Subsection 3(1)
+
+Insert:
+
+                    <a name="individu-vessel-monitor-direct"></a>**_individual vessel monitoring direction_** has the meaning given by subsection 61AAA(2).
+
+## 98  Subsection 3(1) (paragraph (a) of the definition of _inspector_)
+
+Omit “section 43”, substitute “subsection 43(1)”.
+
+## 99  Subsection 3(1) (definition of _ordinary search_)
+
+Repeal the definition.
+
+## 100  Subsection 3(1)
+
+Insert:
+
+                    <a name="pecuniari-penalti-order"></a>**_pecuniary penalty order_** means an order referred to in subsection 61AIC(2).
+
+## 101  Subsection 3(1)
+
+Insert:
+
+                    <a name="penalti-unit"></a>**_penalty unit_** has the meaning given by section 4AA of the _Crimes Act 1914_.
+
+## 102  Subsection 3(1)
+
+Insert:
+
+                    <a name="remiat-order"></a>**_remediation order_** has the meaning given by subsection 61AHA(1).
+
+## 103  Subsection 3(1)
+
+Insert:
+
+                    <a name="review-decision"></a>**_reviewable decision_** has the meaning given by subsection 64(3).
+
+## 104  Subsection 3(1) (definition of _seizable item_)
+
+Repeal the definition.
+
+## 105  Subsection 3(1)
+
+Insert:
+
+                    <a name="vessel-monitor-direct"></a>**_vessel monitoring direction_** means an individual vessel monitoring direction or a class vessel monitoring direction.
+
+## 106  Subsection 3(1)
+
+Insert:
+
+                    <a name="vessel-monitor-system"></a>**_vessel monitoring system_** means a system in which vessels are fitted with an electronic device that can provide information about the vessels’ course or position, or other such information.
+
+## 107  Subsection 3(10)
+
+Repeal the subsection, substitute:
+
+           (10)  If the owner of a vessel does not operate the vessel, a reference in this Act to the owner of the vessel includes a reference to a person who is a party to an agreement with the owner under which the person, or the person and the owner, may determine the activities for which the vessel is used.
+
+## 108  At the end of subsection 4(1A)
+
+Add “or to be subject to civil proceedings for a contravention of a civil penalty provision”.
+
+## 109  Section 4A (note 1)
+
+Omit “subsection 64(8)”, substitute “subsection 61ANA(8)”.
+
+## 110  Division 3 of Part V (heading)
+
+Repeal the heading, substitute:
+
+### Division 3—Duty to prevent or minimise harm to environment in Marine Park
+
+##### <a id="37AA"></a>37AA  Duty to prevent or minimise harm to environment in Marine Park
+
+             (1)  A person who uses or enters the Marine Park must take all reasonable steps to prevent or minimise harm to the environment in the Marine Park that might or will be caused by the person’s use or entry.
+
+Note:          The Minister may accept an enforceable undertaking under section 61ABA, or make an enforceable direction under section 61ADA, in relation to a contravention of this duty.
+
+             (2)  For the purposes of subsection (1), **_harm_** includes the following:
+
+                     (a)  any adverse effect;
+
+                     (b)  direct or indirect harm;
+
+                     (c)  harm to which the person’s use or entry has contributed, to any extent (whether or not other matters have contributed to the harm).
+
+             (3)  In determining whether all reasonable steps have been taken, have regard to the following:
+
+                     (a)  the nature of the harm to the environment that might or will result from the person’s use or entry;
+
+                     (b)  the risk of harm from the person’s use or entry;
+
+                     (c)  the sensitivity of the environment that might or will be affected by the person’s use or entry;
+
+                     (d)  if the person is using or entering a zone—any objectives specified for the zone in its zoning plan;
+
+                     (e)  the practicalities, including cost, of steps that will prevent or minimise the harm;
+
+                      (f)  whether or not the person’s use or entry complies with the laws applying in the Marine Park in relation to the environment or natural resources;
+
+                     (g)  whether or not the person’s use or entry complies with any relevant code of practice, standard or guideline;
+
+                     (h)  whether or not the person’s use or entry is in accordance with any conditions of a permission granted under the regulations for the purposes of a zoning plan or a provision of this Act.
+
+## 111  Section 39I
+
+Repeal the section.
+
+## 112  Subsections 39K(4) and 39PA(3)
+
+Repeal the subsections.
+
+## 113  Subsection 39S(4)
+
+Repeal the subsection, substitute:
+
+             (4)  If an inspector (other than a member of a police force who is in uniform) stops or detains an aircraft or vessel under subsection (1), the inspector must produce for inspection by the person in charge of the aircraft or vessel:
+
+                     (a)  if the inspector is a member of a police force—written evidence of the fact that the inspector is a member of that police force; or
+
+                     (b)  in any other case—the inspector’s identity card.
+
+             (5)  An inspector who does not comply with subsection (4) is not authorised to search or detain the aircraft or vessel.
+
+## 114   After subsection 39T(1)
+
+Insert:
+
+          (1A)  An inspector is not entitled to enter premises under subsection (1), or exercise any powers referred to in subsection (3) in relation to an entry under subsection (1), if:
+
+                     (a)  the occupier of the premises has required the inspector to produce written identification for inspection by the occupier; and
+
+                     (b)  the inspector fails to produce:
+
+                              (i)  if the inspector is a member of a police force—written evidence of the fact that the inspector is a member of that police force; or
+
+                             (ii)  in any other case—the inspector’s identity card for inspection by the occupier.
+
+## 115  After subsection 39T(2)
+
+Insert:
+
+          (2A)  If an inspector is executing a warrant under subsection (2) and the occupier of the premises, or another person who apparently represents the occupier, is present, the inspector must:
+
+                     (a)  identify himself or herself to that person; and
+
+                     (b)  make available to that person a copy of the warrant (which need not be signed).
+
+## 116  Subsection 39T(5)
+
+Insert:
+
+                    <a name="occupi"></a>**_occupier_** of premises means the person apparently in charge of the premises.
+
+## 117  Section 42
+
+Repeal the section.
+
+## 118  Section 43
+
+Before “The”, insert “(1)”.
+
+## 119  At the end of section 43
+
+Add:
+
+             ; and (c)  specify the powers that the person may exercise as an inspector under the _Environment Protection and Biodiversity Conservation Act 1999_.
+
+Note:          Inspectors have powers under the _Environment Protection and Biodiversity Conservation Act 1999_ to enforce this Act.
+
+             (2)  Despite paragraph (1)(a), the Authority must not appoint an officer or employee of an Agency (within the meaning of the _Public Service Act 1999_) that is not the Department or the Authority to be an inspector unless:
+
+                     (a)  an arrangement in respect of the officer or employee is in force under subsection 43A(1); and
+
+                     (b)  the powers specified for the officer or employee for the purposes of paragraphs (1)(b) and (c) are limited in a way that is consistent with any limitation set out in the arrangement.
+
+             (3)  Despite paragraph (1)(a), the Authority must not appoint an officer or employee of a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) to be an inspector unless:
+
+                     (a)  an arrangement in respect of the officer or employee is in force under subsection 43A(2); and
+
+                     (b)  the powers specified for the officer or employee for the purposes of paragraphs (1)(b) and (c) are limited in a way that is consistent with any limitation set out in the arrangement.
+
+             (4)  Despite paragraph (1)(a), the Authority must not appoint:
+
+                     (a)  an officer or employee of Queensland or of an authority of Queensland (including a local government body); or
+
+                     (b)  a member of the police force of Queensland;
+
+to be an inspector unless:
+
+                     (c)  an arrangement in respect of the officer, employee or member is in force under subsection 43A(3); and
+
+                     (d)  the powers specified for the officer, employee or member for the purposes of paragraphs (1)(b) and (c) are limited in a way that is consistent with any limitation set out in the arrangement.
+
+## 120  After section 43
+
+Insert:
+
+##### <a id="43A"></a>43A  Arrangements for certain persons to be inspectors
+
+Arrangements with Agency Heads
+
+             (1)  The Authority may enter into an arrangement with an Agency Head (within the meaning of the _Public Service Act 1999_) for officers or employees of the Agency Head’s Agency (within the meaning of the _Public Service Act 1999_) to be appointed as inspectors under subsection 43(1) of this Act.
+
+Note:          An arrangement must be in force before an officer or employee can be appointed as an inspector (except for employees of the Department and the Authority) (see subsection 43(2)).
+
+Arrangements with Commonwealth authorities
+
+             (2)  The Authority may enter into an arrangement with a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) for officers or employees of the authority to be appointed as inspectors under subsection 43(1) of this Act.
+
+Note:          An arrangement must be in force before an officer or employee can be appointed as an inspector (see subsection 43(3)).
+
+Arrangements with Queensland
+
+             (3)  The Minister may enter into an arrangement with the appropriate Minister of Queensland for:
+
+                     (a)  officers or employees of Queensland or of an authority of Queensland (including a local government body); or
+
+                     (b)  members of the police force of Queensland;
+
+to be appointed as inspectors under subsection 43(1) of this Act.
+
+Note:          An arrangement must be in force before an officer, employee or member can be appointed as an inspector (see subsection 43(4)).
+
+Limits on powers
+
+             (4)  An arrangement under this section for persons to be appointed as inspectors may specify that the persons’ powers as inspectors are to be limited in the way set out in the arrangement.
+
+## 121  At the end of section 44
+
+Add:
+
+Note:          Inspectors have powers under the _Environment Protection and Biodiversity Conservation Act 1999_ to enforce this Act.
+
+## 122  Sections 45A to 48A
+
+Repeal the sections, substitute:
+
+##### <a id="46"></a>46  Delegation by Minister
+
+             (1)  The Minister may, by signed writing, delegate to the Authority any or all of the Minister’s powers or functions under this Act, other than a power or function under:
+
+                     (a)  subsection 31(4) or (5); or
+
+                     (b)  subsection 34(4), (7) or (8); or
+
+                     (c)  subsection 35C(2), (5) or (6); or
+
+                     (d)  subsection 37(2) or (4); or
+
+                     (e)  subsection 37A(1); or
+
+                      (f)  subsection 54(4); or
+
+                     (g)  paragraph 61ACA(4)(a); or
+
+                     (h)  section 61ADE.
+
+             (2)  In exercising a power or performing a function under the delegation, the Authority must comply with any directions of the Minister.
+
+##### <a id="47"></a>47  Delegation by Authority
+
+             (1)  The Authority may, by writing under its common seal, delegate any or all of its powers or functions under this Act to any of the following:
+
+                     (a)  the Chairperson;
+
+                     (b)  an employee of the Department or of the Authority;
+
+                     (c)  an officer or employee of an Agency (within the meaning of the _Public Service Act 1999_) in respect of whom an arrangement is in force under subsection 48A(1);
+
+                     (d)  an officer or employee of a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) in respect of whom an arrangement is in force under subsection 48A(2);
+
+                     (e)  an officer or employee of Queensland, or of an authority of Queensland (including a local government body), in respect of whom an arrangement is in force under subsection 48A(3).
+
+             (2)  The Authority may, by writing under its common seal, sub-delegate to a person mentioned in subsection (1) a power or function delegated to the Authority under this or any other Act.
+
+             (3)  Despite subsection (1) or (2), the Authority must not delegate or sub-delegate under that subsection a power or function under Part VAA (Offences and penalties) or Part VIII (Enforcement) of this Act or under Part 17 (Enforcement) of the _Environment Protection and Biodiversity Conservation Act 1999_ to a person mentioned in paragraph (1)(b), (c), (d) or (e) unless the person:
+
+                     (a)  is an SES employee or an acting SES employee; or
+
+                     (b)  holds, or is acting in, an Executive Level 1 or 2, or equivalent, position; or
+
+                     (c)  is of equivalent rank to an APS employee who:
+
+                              (i)  is an SES employee or acting SES employee; or
+
+                             (ii)  holds, or is acting in, an Executive Level 1 or 2, or equivalent, position.
+
+             (4)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply to a sub-delegation under subsection (2) in the same way as they apply to a delegation.
+
+             (5)  In exercising powers or performing functions under a delegation, the delegate must comply with any directions of the Authority.
+
+             (6)  In exercising powers or performing functions under a sub-delegation, the sub-delegate must comply with any directions of the Authority.
+
+             (7)  If the Authority is subject to a direction in relation to the exercise of a power or the performance of a function sub-delegated under this section, the Authority must give a corresponding direction to the sub-delegate.
+
+##### <a id="48"></a>48  Delegation by Chairperson
+
+             (1)  The Chairperson may, by signed writing, sub-delegate a power or function delegated to the Chairperson under this or any other Act to a member of the staff of the Authority. However, this subsection does not allow the Chairperson to sub-delegate a power or function that has been sub-delegated to the Chairperson.
+
+             (2)  Despite subsection (1), the Chairperson must not sub-delegate under that subsection a power or function under Part VAA (Offences and penalties) or Part VIII (Enforcement) of this Act or under Part 17 (Enforcement) of the _Environment Protection and Biodiversity Conservation Act 1999_ unless the member of staff:
+
+                              (i)  is an SES employee or an acting SES employee; or
+
+                             (ii)  holds, or is acting in, an Executive Level 1 or 2, or equivalent, position.6666
+
+             (3)  Sections 34AA, 34AB and 34A of the _Acts Interpretation Act 1901_ apply to a sub-delegation under subsection (1) in the same way as they apply to a delegation.
+
+             (4)  In exercising powers or performing functions under a sub-delegation, the sub-delegate must comply with any directions of the Chairperson.
+
+             (5)  If the Chairperson is subject to a direction in relation to the exercise of a power or the performance of a function sub-delegated under this section, the Chairperson must give a corresponding direction to the sub-delegate.
+
+##### <a id="48A"></a>48A  Arrangements for certain delegations
+
+Arrangements with Agency Heads
+
+             (1)  The Authority may enter into an arrangement with an Agency Head (within the meaning of the _Public Service Act 1999_) in relation to officers or employees of the Agency Head’s Agency (within the meaning of the _Public Service Act 1999_) for the purposes of allowing powers or functions to be delegated or sub-delegated under section 47 to the officers or employees.
+
+Note:          An arrangement must be in force before a power or function can be delegated to an officer or employee, except for employees of the Department and the Authority (see paragraphs 47(1)(b) and (c)).
+
+Arrangements with Commonwealth authorities
+
+             (2)  The Authority may enter into an arrangement with a Commonwealth authority (within the meaning of the _Commonwealth Authorities and Companies Act 1997_) in relation to officers or employees of the authority for the purposes of allowing powers or functions to be delegated or sub-delegated under section 47 to the officers or employees.
+
+Note:          An arrangement must be in force before a power or function can be delegated to an officer or employee (see paragraph 47(1)(d)).
+
+Arrangements with Queensland
+
+             (3)  The Minister may enter into an arrangement with an appropriate Minister of Queensland in relation to officers or employees of Queensland or of an authority of Queensland (including a local government body) for the purposes of allowing powers or functions to be delegated or sub-delegated under section 47 to the officers or employees.
+
+Note:          An arrangement must be in force before a power or function can be delegated to an officer or employee (see paragraph 47(1)(e)).
+
+## 123  Paragraph 53(2)(a)
+
+Omit “61A(4)”, substitute “46(2)”.
+
+## 124  Part VIII (heading)
+
+Repeal the heading, substitute:
+
+## Part VIII—Enforcement
+
+## 125  Section 61
+
+Repeal the section, substitute:
+
+### Division 1—Enforcement powers
+
+#### Subdivision A—Vessel monitoring directions
+
+##### <a id="61AAA"></a>61AAA  Making vessel monitoring directions
+
+Application of this section
+
+             (1)  This section applies in relation to a vessel that is required by a law of the Commonwealth, a State or a Territory to be equipped with a vessel monitoring system.
+
+Directions for individual vessels
+
+             (2)  The Authority may, in writing, make a direction (an **_individual_** **_vessel monitoring direction_**) requiring one of the persons responsible, or one of the kinds of persons responsible, for a particular vessel to provide the Authority, or cause the Authority to be provided, with the information specified for the vessel in the direction (which must be information of a kind provided by the vessel monitoring system in relation to the operation of the vessel in the Marine Park).
+
+Note:          For **_responsible_**, see subsection (10).
+
+             (3)  A copy of an individual vessel monitoring direction must be given to the person, or each of the persons, to whom it applies.
+
+             (4)  An individual vessel monitoring direction:
+
+                     (a)  takes effect:
+
+                              (i)  on the day (if any) specified in the direction (which must not be earlier than the day on which a copy of the direction is first given to a person to whom it applies); or
+
+                             (ii)  if no day is specified—on the day on which a copy of the direction is first given to a person to whom it applies; and
+
+                     (b)  continues in effect for the period specified in the direction.
+
+             (5)  The Authority may vary or revoke an individual vessel monitoring direction:
+
+                     (a)  in the same manner as an individual vessel monitoring direction may be made; and
+
+                     (b)  subject to the same conditions as apply to the making of an individual vessel monitoring direction.
+
+             (6)  An individual vessel monitoring direction is not a legislative instrument.
+
+Directions for classes of vessels
+
+             (7)  The Authority may, by legislative instrument, make a direction (a **_class vessel monitoring direction_**) requiring one of the kinds of persons responsible for a vessel belonging to a particular class of vessels to provide the Authority, or cause the Authority to be provided, with the information specified for the vessel in the direction (which must be information of a kind provided by the vessel monitoring system in relation to the operation of the vessel in the Marine Park).
+
+Note:          For **_responsible_**, see subsection (10).
+
+             (8)  The Authority may vary or revoke a class vessel monitoring direction:
+
+                     (a)  in the same manner as a class vessel monitoring direction may be made; and
+
+                     (b)  subject to the same conditions as apply to the making of a class vessel monitoring direction.
+
+Content of individual and class vessel monitoring directions
+
+             (9)  A vessel monitoring direction may require the specified information to be provided:
+
+                     (a)  before the end of a specified period; or
+
+                     (b)  at specified intervals, either during a specified period or indefinitely; or
+
+                     (c)  continuously, either during a specified period or indefinitely; or
+
+                     (d)  in any other way the Authority considers appropriate.
+
+Persons responsible for a vessel
+
+           (10)  For the purposes of subsections (2) and (7), each of the following persons is **_responsible_** for a vessel:
+
+                     (a)  an owner of the vessel;
+
+                     (b)  a person who, under a law of the Commonwealth, a State or a Territory, holds a licence or other permission (however described and including one that is suspended) in relation to the vessel that requires the vessel to be fitted with a vessel monitoring system;
+
+                     (c)  a person specified in the regulations for the purposes of this paragraph.
+
+##### <a id="61AAB"></a>61AAB  Use and disclosure of vessel monitoring information
+
+             (1)  This section applies in relation to information that was obtained by the Authority under a vessel monitoring direction and was not publicly available at the time the Authority obtained it.
+
+             (2)  The Authority must not disclose the information unless the disclosure is for one or more of the following purposes:
+
+                     (a)  administering this Act, including performing duties or functions, or exercising powers, under this Act;
+
+                     (b)  managing the Marine Park;
+
+                     (c)  proceedings in relation to enforcement of this Act, including proceedings:
+
+                              (i)  for an injunction; or
+
+                             (ii)  by way of prosecution for an offence; or
+
+                            (iii)  for the making of a declaration of contravention of a civil penalty provision; or
+
+                            (iv)  for the making of a pecuniary penalty order; or
+
+                             (v)  for the making of any other court order in relation to an instrument made under this Act;
+
+                     (d)  other law enforcement purposes;
+
+                     (e)  matters relating to reconsideration or review of a decision made under this Act;
+
+                      (f)  a purpose for which the information is required by law to be disclosed.
+
+##### <a id="61AAC"></a>61AAC  Failure to comply with vessel monitoring direction: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is a kind of person responsible (within the meaning of subsection 61AAA(10)) for a vessel; and
+
+                     (b)  a vessel monitoring direction applies for the vessel; and
+
+                     (c)  the direction applies to the person, or to that kind of person; and
+
+                     (d)  if the direction is an individual vessel monitoring direction—a copy of the direction has been given to the person; and
+
+                     (e)  the direction is not complied with.
+
+                    Penalty:  500 penalty units.
+
+             (2)  Strict liability applies to paragraphs (1)(a) and (d).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  Absolute liability applies to paragraphs (1)(b) and (c).
+
+Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
+
+##### <a id="61AAD"></a>61AAD  Failure to comply with vessel monitoring direction: civil penalty provision
+
+                   If:
+
+                     (a)  a person is a kind of person responsible (within the meaning of subsection 61AAA(10)) for a vessel; and
+
+                     (b)  a vessel monitoring direction applies for the vessel; and
+
+                     (c)  the direction applies to the person, or to that kind of person; and
+
+                     (d)  if the direction is an individual vessel monitoring direction—a copy of the direction has been given to the person;
+
+the person contravenes this section if the direction is not complied with.
+
+                    Civil penalty:
+
+                     (a)  for an individual—250 penalty units; or
+
+                     (b)  for a body corporate—2,500 penalty units.
+
+#### Subdivision B—Enforceable undertakings
+
+##### <a id="61ABA"></a>61ABA  Acceptance of undertaking
+
+             (1)  This section applies if the Minister considers that a person has contravened:
+
+                     (a)  the duty in section 37AA to prevent or minimise harm to the environment in the Marine Park; or
+
+                     (b)  a civil penalty provision.
+
+             (2)  The Minister may accept a written undertaking given by the person in relation to the contravention, in which the person undertakes to do any or all of the following:
+
+                     (a)  take specified actions to prevent, repair or mitigate harm of a specified kind in the Great Barrier Reef Region;
+
+                     (b)  take specified actions to ensure that the person does not engage, or is unlikely to engage, in conduct that contravenes the duty in section 37AA or a civil penalty provision;
+
+                     (c)  pay a specified amount to the Commonwealth, to be used for the purpose of taking actions referred to in paragraph (a) or (b).
+
+             (3)  The undertaking must be expressed to be an undertaking under this section.
+
+             (4)  The person may withdraw or vary the undertaking at any time, but only with the consent of the Minister.
+
+             (5)  The Minister may, by notice in writing given to the person, cancel the undertaking.
+
+             (6)  The undertaking may be published on either or both of the following:
+
+                     (a)  the website of the Authority;
+
+                     (b)  the website of the Department.
+
+##### <a id="61ABB"></a>61ABB  Enforcement of undertaking
+
+             (1)  If:
+
+                     (a)  a person has given an undertaking under section 61ABA; and
+
+                     (b)  the undertaking has not been withdrawn or cancelled; and
+
+                     (c)  the Minister considers that the person has breached the undertaking;
+
+the Minister may apply to the Federal Court for an order under subsection (2).
+
+             (2)  If the Federal Court is satisfied that the person has breached the undertaking, the Court may make one or more of the following orders:
+
+                     (a)  an order directing the person to comply with the undertaking;
+
+                     (b)  any other order that the Court considers appropriate.
+
+#### Subdivision C—Emergency directions
+
+##### <a id="61ACA"></a>61ACA  Making emergency directions
+
+Application of this section
+
+             (1)  This section applies if the Authority is satisfied that circumstances exist amounting to an emergency that poses a serious risk to the environment in the Marine Park.
+
+Emergency directions
+
+             (2)  The Authority may make a direction (an **_emergency direction_**) requiring a particular person, persons of a particular class, or persons generally, to take, or not to take, specified action for the purposes of avoiding, mitigating or eliminating the risk.
+
+             (3)  An emergency direction that applies to a particular person does not have to be in writing, but must be communicated to the person to whom it applies. An emergency direction other than a direction that applies to a particular person must be in writing and a copy of the direction must be published on the website of the Authority as soon as practicable after the direction is made.
+
+Relevant matters
+
+             (4)  The Authority must not make an emergency direction unless:
+
+                     (a)  the Minister has consented to the making of the direction; and
+
+                     (b)  the Authority is satisfied that the direction is necessary and appropriate for the purposes of avoiding, mitigating or eliminating the risk; and
+
+                     (c)  if the circumstances include an incident involving a vessel—the Authority is satisfied that the direction is not inconsistent with Articles III and V of the International Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties, done at Brussels on 29 November 1969 \[1984] ATS 4.
+
+Note:       The text of the Convention is set out in Australian Treaty Series 1984 No. 4\. In 2008, the text of a Convention in the Australian Treaty Series was accessible through the Australian Treaties Library on the AustLII Internet site (www.austlii.edu.au).
+
+Examples of emergency directions
+
+             (5)  The following are examples of emergency directions the Authority may make:
+
+                     (a)  a direction regulating or prohibiting the entry or use of a vessel, vehicle or aircraft in the Marine Park or a part of the Marine Park;
+
+                     (b)  a direction that a person remove a vessel, vehicle or aircraft from the Marine Park or a part of the Marine Park;
+
+                     (c)  a direction that a person responsible for abandoned, stranded, sunk or wrecked property take any action reasonably necessary to avoid, mitigate or eliminate risk arising from the presence of the property in the Marine Park.
+
+When emergency directions have effect
+
+             (6)  An emergency direction:
+
+                     (a)  takes effect on the day the direction is made; and
+
+                     (b)  continues in effect until the earlier of:
+
+                              (i)  the end of the period (if any) specified in the direction (which must end no later than 2 months after the day the direction is made); or
+
+                             (ii)  the day that is 2 months after the day the direction is made.
+
+Variation and revocation
+
+             (7)  The Authority may vary or revoke an emergency direction:
+
+                     (a)  in the same manner as an emergency direction may be made; and
+
+                     (b)  subject to the conditions that apply to the making of an emergency direction (for this purpose, subsection (1) and paragraph (4)(b) are not conditions); and
+
+                     (c)  subject to the Authority being satisfied that the variation or revocation would not be inconsistent with the purposes of avoiding, mitigating or eliminating the risk in relation to which the direction was made.
+
+Emergency directions are not legislative instruments
+
+             (8)  If a direction under subsection (2) is made in writing, the direction is not a legislative instrument.
+
+##### <a id="61ACB"></a>61ACB  Failure to comply with emergency direction: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  an emergency direction applies to the person; and
+
+                     (b)  if the direction applies to a particular person—the direction was communicated to the person; and
+
+                     (c)  if the direction applies to a class of persons or to persons generally—the direction has been published on the website of the Authority; and
+
+                     (d)  the person fails to comply with the direction.
+
+                    Penalty:  500 penalty units.
+
+             (2)  Absolute liability applies to paragraph (1)(a).
+
+Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
+
+             (3)  Strict liability applies to paragraphs (1)(b) and (c).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (4)  It is a defence to a prosecution for an offence against subsection (1) if it is proved:
+
+                     (a)  that the contravention of the direction resulted from the need to save life at sea; or
+
+                     (b)  that compliance with the direction was not possible; or
+
+                     (c)  if the direction requires a thing to be done before a particular time—that compliance with the direction was not possible before that time and the direction was complied with as soon as possible after that time.
+
+Note:          The defendant bears a legal burden in relation to the matters in this subsection. See section 13.4 of the _Criminal Code_.
+
+#### Subdivision D—Enforceable directions
+
+##### <a id="61ADA"></a>61ADA  Making enforceable directions
+
+Application of this section
+
+             (1)  This section applies if the Minister is satisfied:
+
+                     (a)  that a person has engaged, is engaging, or is likely to engage, in conduct that:
+
+                              (i)  constitutes or would constitute an offence against this Act; or
+
+                             (ii)  contravenes or would contravene a civil penalty provision; or
+
+                            (iii)  contravenes or would contravene the duty in section 37AA to prevent or minimise harm to the environment in the Marine Park; and
+
+                     (b)  that it would be in the public interest to make a direction under this section for either or both of the following purposes:
+
+                              (i)  ensuring the person’s future compliance with this Act;
+
+                             (ii)  preventing, repairing or mitigating harm to the environment in the Marine Park that has been, might be or will be caused by the person’s conduct.
+
+Enforceable directions
+
+             (2)  The Minister may, in writing, make a direction (an **_enforceable direction_**) requiring the person to take or not to take specified action for either or both of the purposes referred to in subparagraphs (1)(b)(i) and (ii).
+
+             (3)  A copy of the direction must be given to the person.
+
+Examples of enforceable directions
+
+             (4)  The following are examples of enforceable directions the Minister may make:
+
+                     (a)  a direction that the person stop, or not start, a specified activity (whether indefinitely or for a specified period);
+
+                     (b)  a direction that a person undertake a specified activity;
+
+                     (c)  a direction that a person undertake a specified activity in a specified way;
+
+                     (d)  a direction that a person prepare and comply with a plan of action, for compliance with this Act or for preventing, repairing or mitigating harm to the environment, that is satisfactory to the Minister;
+
+                     (e)  a direction that a person arrange for monitoring or auditing of either or both of the following:
+
+                              (i)  the person’s compliance with this Act;
+
+                             (ii)  the effects on the environment in the Marine Park of the person’s activities;
+
+                            and provide the results to the Minister.
+
+Variation and revocation
+
+             (5)  The Minister may vary or revoke an enforceable direction:
+
+                     (a)  in the same manner as an enforceable direction may be made; and
+
+                     (b)  subject to the conditions that apply to the making of an enforceable direction (for this purpose, subsection (1) is not a condition); and
+
+                     (c)  subject to the Minister being satisfied that it would be in the public interest to vary or revoke the direction; and
+
+                     (d)  subject to the Minister being satisfied that the variation or revocation would not be inconsistent with the following purposes:
+
+                              (i)  ensuring the person’s future compliance with this Act;
+
+                             (ii)  preventing, repairing or mitigating harm to the environment in the Marine Park that has been, might be or will be caused by the conduct the person engaged in referred to in subsection (1).
+
+Enforceable directions are not legislative instruments
+
+             (6)  An enforceable direction is not a legislative instrument.
+
+##### <a id="61ADB"></a>61ADB  Content of enforceable direction
+
+                   An enforceable direction must:
+
+                     (a)  state the name of the person to whom it applies; and
+
+                     (b)  set out brief details of the conduct to which it applies; and
+
+                     (c)  specify whichever of the following apply:
+
+                              (i)  the offence referred to in subparagraph 61ADA(1)(a)(i);
+
+                             (ii)  the provision referred to in subparagraph 61ADA(1)(a)(ii);
+
+                            (iii)  the duty in section 37AA to prevent or minimise harm to the environment in the Marine Park; and
+
+                     (d)  specify the action that the person is to take or not take; and
+
+                     (e)  set out the effect of section 61ADE (Ministerial reconsideration of enforceable direction); and
+
+                      (f)  set out the effect of section 61ADH (failure to comply with enforceable direction); and
+
+                     (g)  if the direction relates to conduct that a person has engaged in that constitutes an offence or contravention—be given less than 6 years after the offence or contravention occurs.
+
+##### <a id="61ADC"></a>61ADC  Notifying owners and occupiers of land
+
+             (1)  Before the Minister makes an enforceable direction that requires an action to be taken on land that is not owned or occupied by the person the Minister proposes the direction will apply to, the Minister must:
+
+                     (a)  take all practicable steps to identify each person who is an owner or occupier of the land or any part of it; and
+
+                     (b)  take all practicable steps to advise each person identified of the enforceable direction the Minister proposes to make; and
+
+                     (c)  give persons advised at least 28 days to comment in writing to the Minister on the proposed enforceable direction.
+
+             (2)  The Minister must take any comments into account in deciding whether to make the proposed enforceable direction.
+
+             (3)  If the Minister decides to make the proposed enforceable direction, the Minister must take all practicable steps to advise each person identified for the purposes of paragraph (1)(a) that the direction has been made.
+
+##### <a id="61ADD"></a>61ADD  When enforceable directions have effect
+
+             (1)  An enforceable direction takes effect:
+
+                     (a)  on the day (if any) specified in the direction (which must not be earlier than the day on which a copy of the direction is given to the person to whom it applies); or
+
+                     (b)  if no day is specified—on the day on which a copy of the direction is given to the person to whom it applies.
+
+             (2)  An enforceable direction continues in effect:
+
+                     (a)  for the period (if any) specified in the direction; or
+
+                     (b)  until set aside by the Federal Court under section 61ADF or revoked by the Minister under subsection 61ADA(5).
+
+##### <a id="61ADE"></a>61ADE  Ministerial reconsideration of enforceable direction
+
+             (1)  A person to whom an enforceable direction is given may, no later than 20 days after:
+
+                     (a)  the day on which the person is given a copy of the direction; or
+
+                     (b)  the day on which the Minister varies the direction under subsection 61ADA(5);
+
+apply in writing to the Minister for reconsideration of the decision to make or vary the direction.
+
+             (2)  On receipt of the application, the Minister must:
+
+                     (a)  reconsider the decision; and
+
+                     (b)  affirm or vary it, or set it aside and substitute a new decision.
+
+             (3)  The Minister may take into account information and comments from any source the Minister considers appropriate in deciding what action to take in relation to the application.
+
+             (4)  The Minister must:
+
+                     (a)  advise the person of the Minister’s decision in relation to the application; and
+
+                     (b)  take all practicable steps to advise the persons identified for the purposes of paragraph 61ADC(1)(a) of the Minister’s decision in relation to the application.
+
+##### <a id="61ADF"></a>61ADF  Application to Federal Court
+
+             (1)  A person to whom an enforceable direction applies may apply to the Federal Court to have the direction set aside, as long as the application is made within 28 days after any of the following:
+
+                     (a)  the day on which the person is given a copy of the direction;
+
+                     (b)  the day on which the Minister affirms or varies the direction under section 61ADE;
+
+                     (c)  the day on which the Minister varies the direction under subsection 61ADA(5).
+
+             (2)  On application under subsection (1), the Federal Court must set aside the enforceable direction if the Court is satisfied that:
+
+                     (a)  the person did not engage in, or was not likely to engage in, the conduct referred to in subsection 61ADA(1); or
+
+                     (b)  the conduct did not or would not constitute the offence specified in the direction; or
+
+                     (c)  the conduct did not or would not contravene the civil penalty provision specified in the direction; or
+
+                     (d)  the conduct did not or would not contravene the duty in section 37AA; or
+
+                     (e)  taking or not taking the action specified in the direction is not a reasonable measure for the purposes of:
+
+                              (i)  ensuring the person’s future compliance with this Act; or
+
+                             (ii)  preventing, repairing or mitigating harm to the environment in the Marine Park that has been, might be or will be caused by the person’s conduct.
+
+             (3)  In considering whether taking or not taking an action is a reasonable measure for the purposes referred to in paragraph (2)(e), the Federal Court must have regard to the following:
+
+                     (a)  the nature and extent of the conduct referred to in subsection 61ADA(1);
+
+                     (b)  the nature and extent of the harm to the environment that has been, might be or will be caused by the conduct;
+
+                     (c)  the circumstances in which the person engaged in the conduct;
+
+                     (d)  whether the person has previously been found by a court in proceedings under this Act or under any other law of the Commonwealth or a State or Territory to have engaged in any similar conduct;
+
+                     (e)  the cost to the person of taking or not taking the action;
+
+                      (f)  any benefit (whether or not financial) that the person has obtained or might obtain as a result of engaging in the conduct.
+
+The Federal Court may also have regard to any other matters it considers relevant.
+
+             (4)  The Federal Court must not set aside the enforceable direction unless it is satisfied as mentioned in subsection (2).
+
+##### <a id="61ADG"></a>61ADG  Enforcement of direction by Federal Court
+
+             (1)  If the Minister considers that the person to whom an enforceable direction applies has failed to comply with the direction, the Minister may apply to the Federal Court for an order under subsection (2).
+
+             (2)  If the Federal Court is satisfied that the person has failed to comply with the direction, the Court may make any one or more of the following orders:
+
+                     (a)  an order directing the person to comply with the direction;
+
+                     (b)  any other order the Court considers appropriate.
+
+##### <a id="61ADH"></a>61ADH  Failure to comply with enforceable direction: civil penalty provision
+
+                   A person to whom an enforceable direction applies must comply with the direction.
+
+                    Civil penalty:
+
+                     (a)  for an individual—600 penalty units; or
+
+                     (b)  for a body corporate—6,000 penalty units.
+
+#### Subdivision E—Directions limiting access to Marine Park
+
+##### <a id="61AEA"></a>61AEA  Directions limiting access to Marine Park
+
+Application of this section
+
+             (1)  This section applies in relation to a person if at least 3 strikes against the person have occurred within the last 10 years. For this purpose:
+
+                     (a)  there is a **_strike_** against a person if the person has been convicted of an offence against this Act or a declaration of contravention of a civil penalty provision has been made against the person; and
+
+                     (b)  the strike **_occurs_** on the date the person is convicted of the offence or the date of the declaration of contravention.
+
+Directions limiting access to Marine Park
+
+             (2)  The Minister may, in writing, make a direction:
+
+                     (a)  prohibiting the person from entering and using the Marine Park; or
+
+                     (b)  imposing conditions on the person’s entry to and use of the Marine Park.
+
+             (3)  A copy of the direction must be given to the person.
+
+Relevant matters
+
+             (4)  In deciding whether to make a direction under subsection (2), the Minister must have regard to:
+
+                     (a)  the nature of the conduct involved in the strikes to which the direction relates; and
+
+                     (b)  the objects of ensuring the person’s future compliance with this Act and preventing harm to the environment in the Marine Park.
+
+             (5)  The Minister must not make a direction under subsection (2) that is inconsistent with the obligations of Australia under international law, including obligations under any agreement or arrangement between Australia and another country or countries.
+
+When directions have effect
+
+             (6)  A direction made under subsection (2):
+
+                     (a)  takes effect:
+
+                              (i)  on the day (if any) specified in the direction (which must not be earlier than the day on which a copy of the direction is given to the person); or
+
+                             (ii)  if no day is specified—on the day a copy of the direction is given to the person; and
+
+                     (b)  continues in effect for the period specified in the direction (which must be no longer than 10 years after the strike that occurred most recently before the direction takes effect).
+
+Variation and revocation
+
+             (7)  The Minister may vary or revoke a direction under subsection (2):
+
+                     (a)  in the same manner as a direction under that subsection may be made; and
+
+                     (b)  subject to the same conditions as apply to the making of a direction under subsection (2) (for this purpose, subsection (1) is not a condition).
+
+Directions are not legislative instruments
+
+             (8)  A direction made under subsection (2) is not a legislative instrument.
+
+##### <a id="61AEB"></a>61AEB  Failure to comply with direction: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  a direction under subsection 61AEA(2) applies to the person; and
+
+                     (b)  the person fails to comply with the direction.
+
+                    Penalty:  500 penalty units.
+
+             (2)  Absolute liability applies to paragraph (1)(a).
+
+Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
+
+             (3)  The fault element for paragraph (1)(b) is negligence.
+
+Note:          For negligence, see section 5.5 of the _Criminal Code_.
+
+#### Subdivision F—Publicising offences and contraventions
+
+##### <a id="61AFA"></a>61AFA  Publicising offences and contraventions
+
+             (1)  The Minister or the Authority may publicise, in any way the Minister or Authority thinks appropriate, any or all of the following:
+
+                     (a)  an offence against this Act of which a person has been convicted;
+
+                     (b)  a contravention of a civil penalty provision in respect of which a declaration of contravention has been made against a person or for which a person has been required to pay a pecuniary penalty;
+
+                     (c)  a penalty imposed on a person for an offence or contravention of a civil penalty provision.
+
+             (2)  This section does not:
+
+                     (a)  limit the Minister’s or Authority’s powers to publicise an offence against or contravention of this Act; or
+
+                     (b)  prevent anyone else from publicising an offence against or contravention of this Act; or
+
+                     (c)  affect any obligation (however imposed) on anyone to publicise an offence against or contravention of this Act.
+
+#### Subdivision G—Injunctions
+
+##### <a id="61AGA"></a>61AGA  Injunctions
+
+             (1)  If a person has done, is doing or is proposing to do an act that:
+
+                     (a)  constitutes or would constitute an offence against this Act; or
+
+                     (b)  contravenes or would contravene a civil penalty provision;
+
+the Federal Court or the Supreme Court of Queensland may, on application by the Minister, the Authority or by a person whose interests have been, are or would be affected by the action, grant an injunction, on terms the Court considers appropriate:
+
+                     (c)  restraining the person from doing the act; and
+
+                     (d)  if, in the Court’s opinion, it is desirable to do so—requiring the person to do an act (including prevent, repair or mitigate harm to the environment in the Marine Park).
+
+             (2)  If a person:
+
+                     (a)  has refused or failed, is refusing or failing or is proposing to refuse or fail to do an act; and
+
+                     (b)  that refusal or failure constitutes or would constitute:
+
+                              (i)  an offence against this Act; or
+
+                             (ii)  a contravention of a civil penalty provision;
+
+the Federal Court or the Supreme Court of Queensland may, on application by the Minister, the Authority or by a person whose interests have been, are or would be affected by the refusal or failure, grant an injunction, on terms the Court considers appropriate, requiring the person to do the act.
+
+             (3)  Before deciding to grant an injunction under this section, the Court may grant an interim injunction:
+
+                     (a)  restraining a person from doing an act; or
+
+                     (b)  requiring a person to do an act.
+
+             (4)  The Court may discharge or vary an injunction granted under this section.
+
+             (5)  The Court may grant an injunction under subsection (1) restraining a person from doing an act:
+
+                     (a)  whether or not it appears to the Court that the person intends to do again, or to continue to do, an act of that kind; and
+
+                     (b)  whether or not the person has previously done an act of that kind; and
+
+                     (c)  whether or not there is an imminent danger of substantial harm to a person or to the environment in the Marine  Park  if the person does an act of that kind.
+
+             (6)  The Court may grant an injunction under subsection (2) requiring a person to do an act:
+
+                     (a)  whether or not it appears to the Court that the person intends to refuse or fail, or to continue to refuse or fail, to do the act; and
+
+                     (b)  whether or not the person has previously refused or failed to do the act; and
+
+                     (c)  whether or not there is an imminent danger of substantial harm to a person or to the environment in the Marine  Park if the person refuses or fails to do the act.
+
+#### Subdivision H—Remediation orders
+
+##### <a id="61AHA"></a>61AHA  Remediation orders
+
+             (1)  If a person has engaged or is engaging in conduct that constitutes:
+
+                     (a)  an offence against this Act; or
+
+                     (b)  a contravention of a civil penalty provision;
+
+the Federal Court may, on application by the Minister, make an order (a **_remediation order_**) requiring the person to take action to prevent, repair or mitigate harm to the environment in the Marine Park that has been, might be or will be caused by the conduct.
+
+             (2)  In considering whether to grant a remediation order, the Federal Court must have regard to the following:
+
+                     (a)  the nature and extent of the conduct referred to in subsection (1);
+
+                     (b)  the nature and extent of the harm to the environment in the Marine Park that has been, might be or will be caused by the conduct;
+
+                     (c)  the circumstances in which the person engaged in the conduct;
+
+                     (d)  if the harm was, might be or will be caused in a zone—any objectives specified for the zone in its zoning plan;
+
+                     (e)  whether the person has previously been found by a court in proceedings under this Act or under any other law of the Commonwealth or a State or Territory to have engaged in any similar conduct;
+
+                      (f)  the cost to the person of taking the action;
+
+                     (g)  any benefit (whether or not financial) that the person has obtained or might obtain as a result of engaging in the conduct.
+
+             (3)  A remediation order may specify the action that a person is to take in general terms (for example, requiring the person to take whatever action is necessary to prevent, repair or mitigate the harm) or in particular terms.
+
+             (4)  If the Federal Court makes a remediation order, it may also make an order requiring the person to provide security for the due taking of the required action.
+
+##### <a id="61AHB"></a>61AHB  Variation and discharge of remediation order
+
+                   The Federal Court may vary or discharge a remediation order on application by the Minister.
+
+#### Subdivision I—Civil penalty provisions
+
+##### <a id="61AIA"></a>61AIA  Declarations of contravention
+
+             (1)  The Authority may, on behalf of the Commonwealth, apply for a declaration of contravention under this section in relation to a contravention of a civil penalty provision by a person.
+
+             (2)  If the Federal Court is satisfied that the person has contravened the civil penalty provision, the Court must make a declaration of contravention.
+
+Note:          Once a declaration is made, the Authority can seek a pecuniary penalty order (see section 61AIC).
+
+             (3)  The declaration of contravention must specify the following:
+
+                     (a)  that the Federal Court made the declaration;
+
+                     (b)  the civil penalty provision that was contravened;
+
+                     (c)  if the contravention was an aggravated contravention—the applicable aggravating circumstance under section 38GB;
+
+                     (d)  the person who contravened the civil penalty provision;
+
+                     (e)  the conduct that constituted the contravention.
+
+             (4)  Proceedings for a declaration of contravention may be started no later than 6 years after the contravention.
+
+##### <a id="61AIB"></a>61AIB  Declaration of contravention is conclusive evidence
+
+                   A declaration of contravention is conclusive evidence of the matters referred to in subsection 61AIA(3).
+
+##### <a id="61AIC"></a>61AIC  Pecuniary penalty for contravening civil penalty provision
+
+Application for order
+
+             (1)  No later than 6 years after a contravention of a civil penalty provision by a person, the Authority  may, on behalf of the Commonwealth, apply to the Federal Court for an order that the person pay the Commonwealth a pecuniary penalty for the contravention.
+
+Court may order person to pay pecuniary penalty
+
+             (2)  If the Federal Court has made a declaration of contravention against the person under section 61AIA, the Court may order the person to pay to the Commonwealth for the contravention the pecuniary penalty that the Court determines is appropriate (but not more than the relevant amount specified for the provision).
+
+Determining amount of pecuniary penalty
+
+             (3)  In determining the pecuniary penalty, the Federal Court must have regard to all relevant matters, including:
+
+                     (a)  the nature and extent of the contravention; and
+
+                     (b)  the nature and extent of any loss or damage suffered as a result of the contravention; and
+
+                     (c)  the nature and extent of any harm to the environment that has been, might be or will be caused by the contravention; and
+
+                     (d)  if any harm caused by the contravention was, might be or will be caused in a zone—any objectives specified for the zone in its zoning plan; and
+
+                     (e)  the circumstances in which the contravention took place; and
+
+                      (f)  whether the person has previously been found by a court in proceedings under this Act or under any other law of the Commonwealth or a State or Territory to have engaged in any similar conduct; and
+
+                     (g)  any benefit (whether or not financial) obtained by the person directly or indirectly as a result of the contravention.
+
+Conduct contravening more than one civil penalty provision
+
+             (4)  If conduct constitutes a contravention of 2 or more civil penalty provisions, proceedings may be instituted under this Act against a person in relation to the contravention of any one or more of those provisions. However, the person is not liable to more than one pecuniary penalty under this section in respect of the same conduct.
+
+##### <a id="61AID"></a>61AID  Definition of _civil penalty provision_
+
+                   For the purposes of this Act, a subsection of this Act (or a section of this Act that is not divided into subsections) is a **_civil penalty provision_** if:
+
+                     (a)  the words “civil penalty” and one or more amounts in penalty units are set out at the foot of the subsection (or section) (whether or not any other amount is set out); or
+
+                     (b)  another provision of this Act specifies that the subsection (or section) is a civil penalty provision.
+
+##### <a id="61AIE"></a>61AIE  Contravening a civil penalty provision is not an offence
+
+                   A contravention of a civil penalty provision is not an offence.
+
+##### <a id="61AIF"></a>61AIF  Persons involved in contravening civil penalty provision
+
+             (1)  A person must not:
+
+                     (a)  aid, abet, counsel or procure a contravention of a civil penalty provision; or
+
+                     (b)  induce (by threats, promises or otherwise) a contravention of a civil penalty provision; or
+
+                     (c)  be in any way directly or indirectly knowingly concerned in, or party to, a contravention of a civil penalty provision; or
+
+                     (d)  conspire to contravene a civil penalty provision.
+
+             (2)  A person who contravenes subsection (1) in relation to a civil penalty provision is, for the purposes of:
+
+                     (a)  this Act; and
+
+                     (b)  Part 17 of the _Environment Protection and Biodiversity Conservation Act 1999_, so far as that Part applies in relation to contraventions of civil penalty provisions of this Act;
+
+taken to have contravened the civil penalty provision.
+
+##### <a id="61AIG"></a>61AIG  Recovery of a pecuniary penalty
+
+                   If the Federal Court orders a person to pay a pecuniary penalty:
+
+                     (a)  the penalty is payable to the Commonwealth; and
+
+                     (b)  the Commonwealth may enforce the order as if it were a judgment of the Court.
+
+##### <a id="61AIH"></a>61AIH  Civil evidence and procedure rules for declarations of contravention and civil penalty orders
+
+                   The Federal Court must apply the rules of evidence and procedure for civil matters when hearing proceedings for:
+
+                     (a)  a declaration of contravention; or
+
+                     (b)  a pecuniary penalty order.
+
+##### <a id="61AII"></a>61AII  Civil proceedings after criminal proceedings
+
+                   The Federal Court must not make a declaration of contravention or a pecuniary penalty order against a person for a contravention of a civil penalty provision if the person has been convicted of an offence constituted by conduct that is substantially the same as the conduct constituting the contravention.
+
+##### <a id="61AIJ"></a>61AIJ  Criminal proceedings during civil proceedings
+
+             (1)  Proceedings for a declaration of contravention or a pecuniary penalty order against a person for a contravention of a civil penalty provision are stayed if:
+
+                     (a)  criminal proceedings are started or have already been started against the person for an offence; and
+
+                     (b)  the offence is constituted by conduct that is substantially the same as the conduct alleged to constitute the contravention.
+
+             (2)  The proceedings for the declaration or order may be resumed if the person is not convicted of the offence. Otherwise, the proceedings for the order are dismissed.
+
+##### <a id="61AIK"></a>61AIK  Criminal proceedings after civil proceedings
+
+                   Criminal proceedings may be started against a person for conduct that is substantially the same as conduct constituting a contravention of a civil penalty provision regardless of whether:
+
+                     (a)  a declaration of contravention has been made against the person; or
+
+                     (b)  a pecuniary penalty order has been made against the person.
+
+##### <a id="61AIL"></a>61AIL  Evidence given in proceedings for penalty not admissible in criminal proceedings
+
+                   Evidence of information given or evidence of production of documents by an individual is not admissible in criminal proceedings against the individual if:
+
+                     (a)  the individual previously gave the evidence or produced the documents in proceedings for a pecuniary penalty order against the individual for a contravention of a civil penalty provision (whether or not the order was made); and
+
+                     (b)  the conduct alleged to constitute the offence is substantially the same as the conduct that was claimed to constitute the contravention.
+
+However, this does not apply to a criminal proceeding in respect of the falsity of the evidence given by the individual in the proceedings for the pecuniary penalty order.
+
+#### Subdivision J—Court order to pay amount equivalent to avoided charge
+
+##### <a id="61AJA"></a>61AJA  Order to pay amount equivalent to avoided charge
+
+             (1)  This section applies if:
+
+                     (a)  a court convicts a person of an offence against this Act or orders a person to pay a pecuniary penalty for a contravention of a civil penalty provision; and
+
+                     (b)  the person would not have committed the offence or contravention if the conduct constituting the offence or contravention had been authorised by a permission granted under the regulations for the purposes of a zoning plan or a provision of this Act; and
+
+                     (c)  the permission would have been a chargeable permission.
+
+             (2)  In addition to any fine or sentence of imprisonment imposed on the person for the offence or contravention, the court may, on application by the Authority, order the person to pay to the Authority, on behalf of the Commonwealth, a penalty of an amount determined by the court under subsection (3).
+
+             (3)  In determining the penalty, the court must have regard to the amount of charge that would have been payable if the person had been the holder of the chargeable permission referred to in paragraph (1)(c) at all times when the person engaged in conduct constituting the offence or contravention (whether or not the person was convicted, or ordered to pay a pecuniary penalty, in respect of each particular instance of the conduct).
+
+             (4)  To avoid doubt, the total of the penalties that may be payable by a person in relation to an offence or contravention of a civil penalty provision may, because of this section, exceed the maximum penalty set out at the foot of the offence or civil penalty provision.
+
+#### Subdivision K—Publicity orders
+
+##### <a id="61AKA"></a>61AKA  Publicity orders
+
+                   A court that:
+
+                     (a)  convicts a person of an offence against this Act; or
+
+                     (b)  makes a declaration of contravention against a person, or imposes a pecuniary penalty on a person, for a contravention of a civil penalty provision;
+
+may make an order that the person take action specified in the order to publicise either or both of the following:
+
+                     (c)  the offence or contravention;
+
+                     (d)  any penalty imposed.
+
+### Division 2—Other enforcement-related matters
+
+#### Subdivision A—Infringement notices
+
+##### <a id="61ALA"></a>61ALA  Infringement notices
+
+             (1)  The regulations may make provision enabling a person who is alleged to have committed:
+
+                     (a)  an offence against:
+
+                              (i)  subsection 38BA(3); or
+
+                             (ii)  subsection 38EA(4); or
+
+                     (b)  an offence against the regulations;
+
+to pay a specified penalty to the Commonwealth as an alternative to prosecution.
+
+             (2)  The penalty must not exceed an amount equal to one-fifth of the maximum fine that a court could impose on the person for that offence.
+
+#### Subdivision B—Evidentiary matters
+
+##### <a id="61AMA"></a>61AMA  Content of evidentiary certificate
+
+                   If the Chairperson has reason to believe that any of the following is the case, the Chairperson may issue a written certificate to that effect:
+
+                     (a)  that a specified document is a copy of a permission, authority or notice under this Act;
+
+                     (b)  that on a specified day, or during a specified period, a specified person was or was not authorised to engage in conduct by a specified permission granted under the regulations or specified authority given in accordance with such a permission;
+
+                     (c)  that on a specified day, a specified person was given a specified notice, order or direction under this Act;
+
+                     (d)  that a specified fee or charge under this Act is payable by a specified person;
+
+                     (e)  that a specified fee or charge under this Act payable by a specified person has not been paid by a specified day;
+
+                      (f)  that a specified location at which, or specified area of waters in which, a person, animal, plant, aircraft, vessel or platform is alleged to have been at a specified time is in the Great Barrier Reef Region, the Marine Park or in a specified zone;
+
+                     (g)  that specified information obtained from the vessel monitoring system of a vessel shows that the vessel was, at a specified time, at a specified location or in a specified area of waters;
+
+                     (h)  that specified information obtained from the vessel monitoring system of a vessel shows that the vessel was, at a specified time, travelling at a specified speed.
+
+##### <a id="61AMB"></a>61AMB  Evidentiary effect of certificate
+
+             (1)  In any proceedings:
+
+                     (a)  in relation to an offence against this Act; or
+
+                     (b)  in relation to a contravention of a civil penalty provision; or
+
+                     (c)  for an injunction under section 61AGA; or
+
+                     (d)  to set aside an enforceable direction under section 61ADF;
+
+a certificate under section 61AMA is prima facie evidence of the matters in the certificate.
+
+             (2)  A document purporting to be a certificate under section 61AMA must, unless the contrary is proved, be taken to be such a certificate and to have been properly issued.
+
+             (3)  A certificate must not be admitted in evidence under subsection (1) in proceedings in relation to an offence unless the person charged, or a solicitor who has appeared for the person in those proceedings, has, at least 14 days before the certificate is sought to be admitted, been given a copy of the certificate together with reasonable evidence of the intention to produce the certificate as evidence in the proceedings.
+
+             (4)  Subject to subsection (5), if a certificate is admitted in evidence under subsection (1) in proceedings in relation to an offence, the person charged with the offence may require the Chairperson to be called as a witness for the prosecution and cross-examined as if he or she had given evidence of the matters stated in the certificate.
+
+             (5)  Subsection (4) does not entitle the person charged to require the Chairperson to be called as a witness for the prosecution unless the court, by order, allows the person charged to require the Chairperson to be so called.
+
+             (6)  The Authority may certify that a document is a copy of a certificate under section 61AMA.
+
+             (7)  This section applies to the certified copy as if it were the original.
+
+##### <a id="61AMC"></a>61AMC  Varying or revoking certificate
+
+             (1)  The Chairperson may vary a certificate under section 61AMA as long as the variation is of a minor nature.
+
+             (2)  If a certificate is varied, the Chairperson must give the person concerned a written notice setting out the terms of the variation.
+
+             (3)  The Chairperson may revoke a certificate under section 61AMA.
+
+             (4)  If a certificate is revoked, the Chairperson must give the person concerned a written notice stating that the certificate has been revoked.
+
+##### <a id="61AMD"></a>61AMD  Offences and contraventions in relation to fishing
+
+             (1)  This section applies in relation to an offence against this Act, or a contravention of a civil penalty provision, constituted by conduct that is fishing, if the fishing involved a primary commercial fishing vessel or a dory.
+
+             (2)  In determining, in the case of an offence or contravention involving a primary commercial fishing vessel:
+
+                     (a)  the penalty, or the amount of a penalty, to be imposed on a person for the offence or contravention; or
+
+                     (b)  whether the forfeiture of a thing used in the offence should be ordered under Division 10 of Part 17 of the _Environment Protection and Biodiversity Conservation Act 1999_;
+
+all fish on board the primary commercial fishing vessel at the time the vessel was apprehended in relation to the offence or contravention are taken to be fish in relation to which the offence or contravention was committed.
+
+             (3)  In determining, in the case of an offence or contravention involving a dory:
+
+                     (a)  the penalty, or the amount of a penalty, to be imposed on a person for the offence or contravention; or
+
+                     (b)  whether the forfeiture of a thing used in the offence should be ordered;
+
+all fish:
+
+                     (c)  on board the dory at the time the dory was apprehended in relation to the offence or contravention; and
+
+                     (d)  on board the primary commercial fishing vessel, in association with which the dory is used, at the time the vessel was apprehended in relation to the offence or contravention;
+
+are taken to be fish in relation to which the offence or contravention was committed.
+
+#### Subdivision C—Conduct of directors, employees and agents
+
+##### <a id="61ANA"></a>61ANA  Conduct of directors, employees and agents
+
+Bodies corporate—conduct
+
+             (1)  Any conduct engaged in on behalf of a body corporate:
+
+                     (a)  by a director, employee or agent of the body corporate within the scope of his or her actual or apparent authority; or
+
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of a director, employee or agent of the body corporate, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the director, employee or agent;
+
+is taken, for the purposes of this Act, to have been engaged in also by the body corporate unless the body corporate establishes that the body corporate took reasonable precautions and exercised due diligence to avoid the conduct.
+
+Bodies corporate—state of mind
+
+             (2)  If, for the purposes of this Act, it is necessary to establish the state of mind of a body corporate in relation to particular conduct, it is sufficient to show:
+
+                     (a)  that the conduct was engaged in by a director, employee, agent or other person as mentioned in paragraph (1)(a) or (b); and
+
+                     (b)  that the director, employee, agent or other person had that state of mind.
+
+Persons other than bodies corporate—conduct
+
+             (3)  Any conduct engaged in on behalf of a person other than a body corporate:
+
+                     (a)  by an employee or agent of the person within the scope of his or her actual or apparent authority; or
+
+                     (b)  by any other person at the direction or with the consent or agreement (whether express or implied) of an employee or agent of the first-mentioned person, where the giving of the direction, consent or agreement is within the scope of the actual or apparent authority of the employee or agent;
+
+is taken, for the purposes of this Act, to have been engaged in also by the first-mentioned person unless the first-mentioned person establishes that the first-mentioned person took reasonable precautions and exercised due diligence to avoid the conduct.
+
+Persons other than bodies corporate—state of mind
+
+             (4)  If, for the purposes of this Act, it is necessary to establish the state of mind of a person other than a body corporate in relation to particular conduct, it is sufficient to show:
+
+                     (a)  that the conduct was engaged in by an employee, agent or other person as mentioned in paragraph (3)(a) or (b); and
+
+                     (b)  that the employee, agent or other person had that state of mind.
+
+Reasonable precautions
+
+             (5)  For the purposes of subsection (1) or (3), in determining whether a body corporate or other person took reasonable precautions and exercised due diligence to avoid particular conduct, a court must have regard to what steps (if any) the body or person took directed towards ensuring the following (to the extent that the steps are relevant to the conduct):
+
+                     (a)  that the body or person regularly assesses, or arranges for regular assessments of, the body’s or person’s compliance with this Act;
+
+                     (b)  that the body or person implements any appropriate recommendations arising from such an assessment;
+
+                     (c)  that the directors of the body, or the employees or agents of the body or person, have a reasonable knowledge and understanding of the requirements to comply with this Act, in so far as those requirements affect the directors, employees or agents concerned;
+
+                     (d)  that the body or person regularly assesses, or arranges for regular assessments of, the effects of the body’s or person’s activities on the environment in the Marine Park;
+
+                     (e)  that the body or person has an appropriate system established for managing those effects.
+
+Meaning of **state of mind**
+
+             (6)  A reference in subsection (2) or (4) to the **_state of mind_** of a person includes a reference to:
+
+                     (a)  the knowledge, intention, opinion, belief or purpose of the person; and
+
+                     (b)  the person’s reasons for the intention, opinion, belief or purpose.
+
+Meaning of **director**
+
+             (7)  A reference in this section to a **_director_** of a body corporate includes a reference to a constituent member of a body corporate incorporated for a public purpose by a law of the Commonwealth, of a State or of a Territory.
+
+Disapplying Part 2.5 of Criminal Code
+
+             (8)  Part 2.5 of the _Criminal Code_ does not apply to an offence against this Act.
+
+Note:          Part 2.5 of the _Criminal Code_ deals with corporate criminal responsibility.
+
+#### Subdivision D—Liability of executive officers for bodies corporate
+
+##### <a id="61AOA"></a>61AOA  Criminal liability of executive officers of bodies corporate
+
+             (1)  If:
+
+                     (a)  a body corporate commits an offence against Part VAA (other than Division 6); and
+
+                     (b)  an executive officer of the body was reckless as to whether the offence would be committed; and
+
+                     (c)  the officer was in a position to influence the conduct of the body in relation to the offence; and
+
+                     (d)  the officer failed to take all reasonable steps to prevent the offence being committed;
+
+the officer commits an offence.
+
+             (2)  An offence against subsection (1) is punishable on conviction by:
+
+                     (a)  imprisonment for a term not exceeding the term specified for the offence committed by the body corporate; or
+
+                     (b)  if no term of imprisonment is specified for the offence committed by the body corporate—a pecuniary penalty not exceeding the pecuniary penalty specified for the offence committed by the body corporate.
+
+##### <a id="61AOB"></a>61AOB  Civil penalties for executive officers of bodies corporate
+
+             (1)  If:
+
+                     (a)  a body corporate contravenes a civil penalty provision; and
+
+                     (b)  an executive officer of the body knew that, or was reckless or negligent as to whether, the contravention would occur; and
+
+                     (c)  the officer was in a position to influence the conduct of the body in relation to the contravention; and
+
+                     (d)  the officer failed to take all reasonable steps to prevent the contravention;
+
+the officer contravenes this subsection.
+
+             (2)  Subsection (1) is a civil penalty provision. Under section 61AIC, the Federal Court may order a person contravening subsection (1) to pay a pecuniary penalty not more than the pecuniary penalty the Court could order an individual to pay for contravening the civil penalty provision contravened by the body corporate.
+
+##### <a id="61AOC"></a>61AOC  Reasonable steps to prevent offence or contravention
+
+             (1)  For the purposes of sections 61AOA and 61AOB, in determining whether an executive officer of a body corporate failed to take all reasonable steps to prevent the offence or contravention, a court must have regard to:
+
+                     (a)  what action (if any) the officer took directed towards ensuring the following (to the extent that the action is relevant to the offence or contravention):
+
+                              (i)  that the body regularly assesses, or arranges for regular assessments of, the body’s compliance with this Act;
+
+                             (ii)  that the body implements any appropriate recommendations arising from such an assessment;
+
+                            (iii)  that the body’s employees, agents and contractors have a reasonable knowledge and understanding of the requirements to comply with this Act, in so far as those requirements affect the employees, agents or contractors concerned;
+
+                            (iv)  that the body regularly assesses, or arranges for regular assessments of, the effects of the body’s activities on the environment in the Marine Park;
+
+                             (v)  that the body has an appropriate system established for managing those effects; and
+
+                     (b)  what action (if any) the officer took when he or she became aware that the body was committing an offence against, or contravening, this Act.
+
+             (2)  This section does not, by implication, limit the generality of sections 61AOA and 61AOB.
+
+#### Subdivision E—Miscellaneous
+
+##### <a id="61APA"></a>61APA  Powers of Federal Court
+
+                   The powers conferred on the Federal Court by this Part are in addition to (and do not limit) any other powers of the Court.
+
+## 126  Subsection 61A(1)
+
+After “against this Act”, insert “or a contravention of a civil penalty provision”.
+
+## 127  Subsection 61A(2)
+
+Omit “section 38H”, substitute “section 38DC”.
+
+## 128  Subsection 61A(2)
+
+After “an order”, insert “or direction”.
+
+## 129  Subsections 61A(3) and (4)
+
+Repeal the subsections.
+
+## 130  After subsection 61B(1)
+
+Insert:
+
+          (1A)  Subject to this section, if:
+
+                     (a)  a declaration of contravention has been made against a person in relation to a contravention of a civil penalty provision; and
+
+                     (b)  the Commonwealth or the Authority has incurred expenses or other liabilities in relation to:
+
+                              (i)  if the contravention is a contravention of subsection 61AIF(1)—rectifying the act or omission constituting the contravention of the civil penalty provision to which that contravention relates; or
+
+                             (ii)  in any other case—rectifying the act or omission constituting the contravention;
+
+the person against whom the declaration is made is liable to pay to the Commonwealth or to the Authority, as the case requires, an amount equal to the total amount of those expenses and liabilities of the Commonwealth or the Authority.
+
+## 131  Subsection 61B(2)
+
+After “subsection (1)”, insert “or (1A)”.
+
+## 132  After subsection 61B(5)
+
+Insert:
+
+          (5A)  If the Federal Court makes a declaration of contravention against a person for a contravention of a civil penalty provision, the Court may (whether or not the Court makes a pecuniary penalty order against the person in respect of the contravention) order the person to pay an amount that the person is liable to pay under this section.
+
+## 133  Subsection 61B(6)
+
+After “subsection (5)” (wherever occurring), insert “or (5A)”.
+
+## 134  Paragraph 61B(7)(b)
+
+Omit “38K or 38L”, substitute “38FA or 38FD”.
+
+## 135  Subsection 61B(9)
+
+After “offence against this Act”, insert “or a contravention of a civil penalty provision”.
+
+## 136  Paragraph 61B(9)(a)
+
+Omit “section 38H”, substitute “section 38DC”.
+
+## 137  Paragraph 61B(9)(a)
+
+After “an order”, insert “or direction”.
+
+## 138  Paragraphs 61C(1)(a) and (2)(a)
+
+Omit “or 61B(5)”, substitute “, section 61AJA or subsection 61B(5) or (5A)”.
+
+## 139  Section 62
+
+Repeal the section.
+
+## 140  Section 64
+
+Repeal the section, substitute:
+
+## Part IX—Miscellaneous
+
+##### <a id="64"></a>64  Reconsideration of decisions
+
+             (1)  A person who is affected by a reviewable decision made by the Minister may request the Minister, in writing, to reconsider the decision.
+
+             (2)  A person who is affected by a reviewable decision made by the Authority may request the Authority, in writing, to reconsider the decision.
+
+             (3)  For the purposes of this Act, each of the following decisions is a **_reviewable decision_**:
+
+                     (a)  a decision by the Authority to make an emergency direction under subsection 61ACA(2) or to vary such a direction;
+
+                     (b)  a decision by the Minister to make a direction under subsection 61AEA(2) (directions limiting access to the Marine  Park), or to vary such a direction;
+
+                     (c)  a decision by the Minister prescribed by the regulations for the purposes of this paragraph;
+
+                     (d)  a decision by the Authority prescribed by the regulations for the purposes of this paragraph.
+
+             (4)  After receiving a request, the Minister or Authority must:
+
+                     (a)  reconsider the decision; and
+
+                     (b)  affirm or vary it, or set it aside and substitute a new decision.
+
+             (5)  The regulations may prescribe any or all of the following:
+
+                     (a)  time limits for making requests under this section;
+
+                     (b)  matters to be included in requests under this section;
+
+                     (c)  time limits for reconsidering decisions under this section;
+
+                     (d)  when a decision on reconsideration takes effect.
+
+             (6)  In this section:
+
+                    <a name="decision"></a>**_decision_** has the same meaning as in the _Administrative Appeals Tribunal Act 1975_.
+
+##### <a id="64A"></a>64A  Review of decisions by AAT
+
+                   If a reviewable decision made by the Minister or the Authority has been reconsidered under subsection 64(4), application may be made to the AAT for review of the decision as affirmed, varied or substituted on reconsideration.
+
+Note:          Sections 39M and 59G provide for review of certain other decisions by the AAT.
+
+## 141  After section 65
+
+Insert:
+
+##### <a id="65A"></a>65A  Appropriation of Consolidated Revenue Fund
+
+             (1)  The Consolidated Revenue Fund is appropriated for the following purposes:
+
+                     (a)  making refunds of amounts in accordance with regulations made for the purposes of paragraph 39K(1)(c);
+
+                     (b)  making payments of interest, or other amounts, derived from the custody or banking of collected amounts in accordance with regulations made for the purposes of paragraph 39PA(1)(d).
+
+             (2)  If an amount (the **_Commonwealth amount_**) is received by the Commonwealth under section 39DA, subsection 39FA(2), section 39FD or 39H or subsection 61AJA(2), an amount equal to the Commonwealth amount is appropriated out of the Consolidated Revenue Fund for the purpose of the performance of the functions of the Authority.
+
+             (3)  If the Commonwealth refunds the whole or part of a Commonwealth amount, the amount appropriated under subsection (2) is reduced by the amount of the refund.
+
+Note:          Subsection 28(2) of the _Financial Management and Accountability Act 1997_ is a standing appropriation for repayments of amounts received by the Commonwealth.
+
+## 142  Subsection 66(2)
+
+After “subsection (1), regulations”, insert “to do any or all of the following”.
+
+## 143  Paragraph 66(2)(n)
+
+Repeal the paragraph.
+
+## 144  Paragraph 66(2)(ua)
+
+Omit “issued; and”, substitute “issued;”.
+
+## 145  After paragraph 66(2)(ua)
+
+Insert:
+
+                    (ub)  providing for the use of a vessel monitoring system on vessels in the Marine Park and for the use and disclosure of information provided by the vessel monitoring system;
+
+                    (uc)  regulating fishing (of any kind, including commercial fishing) in the Marine Park;
+
+                    (ud)  regulating camping and other activities on islands in the Marine Park;
+
+                    (ue)  providing for the protection and conservation of protected species in the Marine Park;
+
+## 146  After subsection 66(2)
+
+Insert:
+
+          (2A)  Without limiting subsection (1), the regulations may prescribe measures for the management of the discharge of sewage from vessels in the Marine Park.
+
+## Schedule 6
+
+## 1  Subsection 3(1)
+
+Insert:
+
+                    <a name="aggravated-contravent"></a>**_aggravated contravention_** has the meaning given by section 38GB.
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="aggravated-offenc"></a>**_aggravated offence_** has the meaning given by section 38GA.
+
+## 3  Subsection 3(1)
+
+Insert:
+
+                    <a name="australian-resid"></a>**_Australian resident_** means:
+
+                     (a)  a person who holds a permanent visa (as defined in the _Migration Act 1958_) that is in effect; or
+
+                     (b)  a New Zealand citizen who is usually resident in Australia or a Territory and who holds a special category visa (as defined in the _Migration Act 1958_) that is in effect; or
+
+                     (c)  any other person who is usually resident in Australia or a Territory and whose continued presence in Australia or a Territory is not subject to a limitation as to time imposed by law.
+
+## 4  Subsection 3(1)
+
+Insert:
+
+                    <a name="conduct"></a>**_conduct_** has the same meaning as in the _Criminal Code_.
+
+## 5  Subsection 3(1)
+
+Insert:
+
+                    <a name="discharg"></a>**_discharge_**, in relation to waste, means release the waste, however the release is caused, and includes any escape, disposal, depositing, spilling, leaking, pumping, emitting or emptying of the waste.
+
+## 6  Subsection 3(1)
+
+Insert:
+
+                    <a name="dori"></a>**_dory_** means:
+
+                     (a)  a vessel in relation to which a licence or other permission (however described and whether or not in force) has been granted under a law of the Commonwealth, a State or a Territory authorising the vessel to be used in association with a primary commercial fishing vessel; or
+
+                     (b)  a vessel that is used in association with a primary commercial fishing vessel.
+
+Note:          A dory might also be known as a tender commercial fishing vessel.
+
+## 7  Subsection 3(1)
+
+Insert:
+
+                    <a name="engag-conduct"></a>**_engage in conduct_** has the same meaning as in the _Criminal Code_.
+
+## 8  Subsection 3(1)
+
+Insert:
+
+                    <a name="fish"></a>**_fish_** includes all species of bony fish, sharks, rays, crustaceans, molluscs and other marine organisms, but does not include marine mammals or marine reptiles.
+
+## 9  Subsection 3(1)
+
+Insert:
+
+                    <a name="fish"></a>**_fishing_** means any of the following:
+
+                     (a)  taking fish;
+
+                     (b)  attempting to take fish;
+
+                     (c)  engaging in any activity (including searching for fish, using fishing apparatus and using fish aggregating devices) in connection with taking, or attempting to take, fish.
+
+## 9A  Subsection 3(1)
+
+Insert:
+
+                    <a name="geolog-storag-oper"></a>**_geological storage operations_** means:
+
+                     (a)  operations to inject and store a gas substance in part of a geological formation; or
+
+                     (b)  operations preparing for or incidental to operations mentioned in paragraph (a).
+
+## 10  Subsection 3(1)
+
+Insert:
+
+                    <a name="miner"></a>**_minerals_**means minerals in any form, whether solid, liquid or gaseous and whether organic or inorganic.
+
+## 11  Subsection 3(1)
+
+Insert:
+
+                    <a name="mine-oper"></a>**_mining operations_**:
+
+                     (a)  means operations or activities connected with, or incidental to, the mining or recovery of minerals; and
+
+                     (b)  includes prospecting for or exploring for minerals.
+
+## 12  Subsection 3(1) (definition of _operations for the recovery of minerals_)
+
+Repeal the definition.
+
+## 13  Subsection 3(1) (definition of _owner_)
+
+After “**_owner_**”, insert “, in relation to a vessel,”.
+
+## 14  Subsection 3(1)
+
+Insert:
+
+                    <a name="primari-commerci-fish-vessel"></a>**_primary commercial fishing vessel_** means:
+
+                     (a)  a vessel in relation to which a licence or other permission (however described and whether or not in force) has been granted under a law of the Commonwealth, a State or a Territory authorising the vessel to be used to take fish for commercial purposes; or
+
+                     (b)  a vessel that is used to take fish for commercial purposes.
+
+## 15  Subsection 3(1)
+
+Insert:
+
+                    <a name=""></a><a name=""></a><a name="prohibit"></a>**_prohibited_**: conduct in a zone is prohibited  if the conduct is neither:
+
+                     (a)  for a purpose for which, under the zoning plan for the zone, the zone may be used or entered without permission; nor
+
+                     (b)  for a purpose that, under the zoning plan for the zone, requires permission.
+
+## 16  Subsection 3(1)
+
+Insert:
+
+                    <a name="protect-speci"></a>**_protected species_** means any of the following:
+
+                     (a)  a cetacean;
+
+                     (b)  a listed marine species, a listed migratory species, a listed threatened ecological community, or a listed threatened species;
+
+                     (c)  a species of marine mammal, bird or reptile that is prescribed as endangered wildlife, vulnerable wildlife or rare wildlife under the _Nature Conservation Act 1992_ of Queensland;
+
+                     (d)  a species declared by the regulations to be a protected species for the purposes of this definition;
+
+                     (e)  a species declared by the regulations to be a strictly protected species for the purposes of this definition.
+
+## 17  Subsection 3(1)
+
+Insert:
+
+                    <a name="reef"></a>**_reef_** includes bommie fields, reef slopes, moats and ramparts.
+
+## 18  Subsection 3(1)
+
+Insert:
+
+                    <a name=""></a>**_take_**, in relation to an animal or plant, includes remove, gather, catch, capture, kill, destroy, dredge for, raise, carry away, bring ashore, interfere with and obtain.
+
+## 19  Subsection 3(1)
+
+Insert:
+
+                    <a name="territori-sea"></a>**_territorial sea_** has the same meaning as in the _Seas and Submerged Lands Act 1973_.
+
+## 20  Subsection 3(1)
+
+Insert:
+
+                    <a name="wast"></a>**_waste_** means any of the following:
+
+                     (a)  oil within the meaning of Part II of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_;
+
+                     (b)  noxious liquid substances within the meaning of Part III of that Act;
+
+                     (c)  packaged harmful substances within the meaning of Part IIIA of that Act;
+
+                     (d)  sewage within the meaning of Part IIIB of that Act;
+
+                     (e)  garbage within the meaning of Part IIIC of that Act;
+
+                      (f)  mixtures where the oil content is greater than 15 parts in 1,000,000 parts;
+
+                     (g)  any other matter that is declared by the regulations to be waste for the purposes of this definition.
+
+## 21  Subsection 3(9)
+
+Omit “either”.
+
+## 22  After paragraph 3(9)(a)
+
+Insert:
+
+                    (aa)  under a law of a State or Territory; or
+
+## 23  Subsection 3A(10)
+
+Omit “38B(2)”, substitute “38BA(5) and regulations made for the purposes of that subsection”.
+
+## 24  Sections 38A to 39
+
+Repeal the sections, substitute:
+
+## Part VAA—Offences and penalties in relation to Great Barrier Reef Marine Park and Region
+
+### Division 1—Conduct in Great Barrier  Reef Region
+
+##### <a id="38AA"></a>38AA  Mining or geological storage operations in Great Barrier Reef Region: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct is mining operations or geological storageoperations; and
+
+                     (c)  the conduct is engaged in in the Great Barrier Reef Region; and
+
+                     (d)  the person is not authorised to engage in the conduct by:
+
+                              (i)  a permission granted under the regulations for the purposes of this section; or
+
+                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
+
+                    Penalty:
+
+                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
+
+                     (b)  in any other case—1,000 penalty units.
+
+Note:          See also Division 8.
+
+             (2)  Strict liability applies to paragraphs (1)(c) and (d).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  The Authority must not grant a person permission to engage in conduct for the purposes of this section unless the Authority is satisfied that the conduct is for the purpose of research or investigations relevant to the conservation of the Marine Park.
+
+             (4)  Subsection (1) does not apply if:
+
+                     (a)  the person is the Authority; and
+
+                     (b)  the Authority is engaging in the conduct for the purpose of research or investigations relevant to the conservation of the Marine Park.
+
+             (5)  This section applies despite any other law of the Commonwealth, a State or a Territory.
+
+##### <a id="38AB"></a>38AB  Mining or geological storage operations in Great Barrier Reef Region: civil penalty provision
+
+             (1)  A person must not engage in mining operations or geological storageoperations in the Great Barrier Reef Region unless the person is authorised to engage in the operations by:
+
+                     (a)  a permission granted under the regulations for the purposes of section 38AA; or
+
+                     (b)  an authority given in accordance with a condition of a permission referred to in paragraph (a).
+
+                    Civil penalty:
+
+                     (a)  for an aggravated contravention by an individual—5,000 penalty units; or
+
+                     (b)  for an individual in any other case—2,000 penalty units; or
+
+                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
+
+                     (d)  for a body corporate in any other case—20,000 penalty units.
+
+             (2)  Subsection (1) does not apply if:
+
+                     (a)  the person is the Authority; and
+
+                     (b)  the Authority is engaging in the operations for the purpose of research or investigations relevant to the conservation of the Marine Park.
+
+### Division 2—Conduct in Marine Park zones
+
+##### <a id="38BA"></a>38BA  Conduct in zone: offence
+
+Conduct prohibited or done without required permission
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct is engaged in in a zone; and
+
+                     (c)  under the zoning plan for the zone, the conduct:
+
+                              (i)  is prohibited; or
+
+                             (ii)  requires permission; and
+
+Note:       **_Prohibited_** is defined in subsection 3(1).
+
+                     (d)  if the conduct requires permission—the person is not authorised to engage in the conduct by:
+
+                              (i)  a permission granted under the regulations for the purposes of the zoning plan; or
+
+                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
+
+                    Penalty:
+
+                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
+
+                     (b)  in any other case—1,000 penalty units.
+
+Note:          See also Division 8.
+
+             (2)  Strict liability applies to paragraphs (1)(b), (c) and (d).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Conduct prohibited or done without required permission: strict liability
+
+             (3)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct is engaged in in a zone; and
+
+                     (c)  under the zoning plan for the zone, the conduct:
+
+                              (i)  is prohibited; or
+
+                             (ii)  requires permission; and
+
+Note:       **_Prohibited_** is defined in subsection 3(1).
+
+                     (d)  if the conduct requires permission—the person is not authorised to engage in the conduct by:
+
+                              (i)  a permission granted under the regulations for the purposes of the zoning plan; or
+
+                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
+
+                    Penalty:  60 penalty units.
+
+             (4)  Strict liability applies to subsection (3).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Defence—prescribed circumstances
+
+             (5)  Subsections (1) and (3) do not apply if circumstances prescribed by the regulations for the purposes of this subsection exist in relation to the conduct. Any circumstances prescribed must relate to:
+
+                     (a)  conduct engaged in during the period of 120 days after the day on which the zoning plan, or an amendment of the zoning plan, commenced; or
+
+                     (b)  conduct engaged in after the end of that period if the person had applied for a permission for the purposes of the zoning plan during that period.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="38BB"></a>38BB  Conduct in zone: civil penalty provision
+
+             (1)  A person must not engage in conduct in a zone that is prohibited under the zoning plan for the zone.
+
+Note:          **_Prohibited_** is defined in subsection 3(1).
+
+                    Civil penalty:
+
+                     (a)  for an aggravated contravention by an individual—5,000 penalty units; or
+
+                     (b)  for an individual in any other case—2,000 penalty units; or
+
+                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
+
+                     (d)  for a body corporate in any other case—20,000 penalty units.
+
+             (2)  A person must not engage in conduct in a zone if:
+
+                     (a)  under the zoning plan for the zone, the conduct requires permission; and
+
+                     (b)  the person is not authorised to engage in the conduct by:
+
+                              (i)  a permission granted under the regulations for the purposes of the zoning plan; or
+
+                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
+
+                    Civil penalty:
+
+                     (a)  for an aggravated contravention by an individual—5,000 penalty units; or
+
+                     (b)  for an individual in any other case—2,000 penalty units; or
+
+                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
+
+                     (d)  for a body corporate in any other case—20,000 penalty units.
+
+             (3)  Subsections (1) and (2) do not apply if circumstances prescribed for the purposes of subsection 38BA(5) exist in relation to the conduct.
+
+##### <a id="38BC"></a>38BC  Conduct in zone without required notice: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person engages in conduct; and
+
+                     (b)  the conduct is engaged in in a zone; and
+
+                     (c)  the zoning plan for the zone requires that notice must be given to a specified body before the conduct is engaged in; and
+
+                     (d)  the person failed to give the specified body notice in accordance with the zoning plan before engaging in the conduct.
+
+                    Penalty:  200 penalty units.
+
+             (2)  Strict liability applies to paragraphs (1)(b) and (c).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  The fault element for paragraph (1)(d) is negligence.
+
+Note:          For negligence, see section 5.5 of the _Criminal Code_.
+
+##### <a id="38BD"></a>38BD  Operation of fishing vessel in zone: offence
+
+Operation of a fishing vessel prohibited or done without permission
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person operates a vessel; and
+
+                     (b)  the person does so in a zone; and
+
+                     (c)  the vessel is a primary commercial fishing vessel; and
+
+                     (d)  the vessel is an Australian vessel; and
+
+                     (e)  the vessel is authorised, under a law of the Commonwealth or of a State (including by a licence granted under such a law), to fish using a particular fishing method or particular fishing apparatus; and
+
+                      (f)  under the zoning plan for the zone, fishing using that method or apparatus:
+
+                              (i)  is prohibited; or
+
+                             (ii)  requires permission; and
+
+Note:       **_Prohibited_** is defined in subsection 3(1).
+
+                     (g)  if it requires permission—the person is not authorised to fish using that method or apparatus by:
+
+                              (i)  a permission granted under the regulations for the purposes of the zoning plan; or
+
+                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
+
+                    Penalty:  500 penalty units.
+
+             (2)  Strict liability applies to paragraphs (1)(b), (c), (f) and (g).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  Absolute liability applies to paragraphs (1)(d) and (e).
+
+Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
+
+Defence—vessel is transiting or anchoring
+
+             (4)  Subsection (1) does not apply if:
+
+                     (a)  the vessel is transiting through the zone; or
+
+                     (b)  the vessel is anchored in the zone; or
+
+                     (c)  the vessel is transiting to a place where the vessel is to anchor or transiting from a place where the vessel has been anchored.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+
+             (5)  For the purposes of subsection (4), a vessel is only **_transiting_** if:
+
+                     (a)  the vessel is taking the most direct practicable route:
+
+                              (i)  through the zone to a destination outside the zone; or
+
+                             (ii)  to or from a place of anchor; and
+
+                     (b)  the vessel is maintaining a speed of at least 5 knots.
+
+Defence—emergency or unavoidable accident
+
+             (6)  Subsection (1) does not apply if:
+
+                     (a)  the operation of the vessel in the zone:
+
+                              (i)  is reasonably necessary to deal with an emergency involving a serious threat to human life or property; or
+
+                             (ii)  is a result of an unavoidable accident, other than an accident caused by reckless or negligent behaviour; and
+
+                     (b)  the Authority is notified of the operation, and the emergency or accident, no more than 48 hours after the vessel was first operated in the zone.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+
+### Division 3—Conduct in unzoned area of Marine Park
+
+##### <a id="38CA"></a>38CA  Conduct in unzoned area: offence
+
+             (1)  A person commits an offence if the person engages in any of the following conduct in the unzoned area:
+
+                     (a)  building, assembling or fixing in position:
+
+                              (i)  a building or similar structure; or
+
+                             (ii)  a pontoon or other floating structure; or
+
+                            (iii)  a walkway, mooring facility or similar structure; or
+
+                            (iv)  a device for catching marine animals;
+
+                     (b)  operating a vessel (see subsection (3)) with provision for more than 8 sleeping berths in the one vicinity for more than:
+
+                              (i)  14 consecutive days; or
+
+                             (ii)  30 days in any period of 60 days;
+
+                     (c)  carrying out reclamation work, beach protection work, road building work or any other work;
+
+                     (d)  constructing a landing area;
+
+                     (e)  constructing a farming facility;
+
+                      (f)  conducting operations in or on, or maintaining:
+
+                              (i)  a building or similar structure; or
+
+                             (ii)  a pontoon or other floating structure; or
+
+                            (iii)  a walkway, mooring facility or similar structure;
+
+                     (g)  maintaining a device for catching marine animals;
+
+                     (h)  demolishing or removing:
+
+                              (i)  a building or similar structure; or
+
+                             (ii)  a pontoon or other floating structure; or
+
+                            (iii)  a walkway, mooring facility or similar structure;
+
+and the person is not authorised to engage in the conduct by:
+
+                      (i)  a permission granted under the regulations for the purposes of this section; or
+
+                      (j)  an authority given in accordance with a condition of a permission referred to in paragraph (i).
+
+                    Penalty:
+
+                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
+
+                     (b)  in any other case—1,000 penalty units.
+
+Note:          See also Division 8.
+
+             (2)  Strict liability applies to the physical element of circumstance in subsection (1), that the person engages in the conduct in the unzoned area.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  The references in subsection (1) and section 38CB to operating a vessel include references to the following:
+
+                     (a)  conducting operations in or on the vessel;
+
+                     (b)  using the vessel as a base for carrying on other activities;
+
+                     (c)  carrying out maintenance of the vessel.
+
+##### <a id="38CB"></a>38CB  Conduct in unzoned area: civil penalty provision
+
+                   A person must not engage in any of the following conduct in the unzoned area:
+
+                     (a)  building, assembling or fixing in position:
+
+                              (i)  a building or similar structure; or
+
+                             (ii)  a pontoon or other floating structure; or
+
+                            (iii)  a walkway, mooring facility or similar structure; or
+
+                            (iv)  a device for catching marine animals;
+
+                     (b)  operating a vessel (see subsection 38CA(3)) with provision for more than 8 sleeping berths in the one vicinity for more than:
+
+                              (i)  14 consecutive days; or
+
+                             (ii)  30 days in any period of 60 days;
+
+                     (c)  carrying out reclamation work, beach protection work, road building work or any other work;
+
+                     (d)  constructing a landing area;
+
+                     (e)  constructing a farming facility;
+
+                      (f)  conducting operations in or on, or maintaining:
+
+                              (i)  a building or similar structure; or
+
+                             (ii)  a pontoon or other floating structure; or
+
+                            (iii)  a walkway, mooring facility or similar structure;
+
+                     (g)  maintaining a device for catching marine animals;
+
+                     (h)  demolishing or removing:
+
+                              (i)  a building or similar structure; or
+
+                             (ii)  a pontoon or other floating structure; or
+
+                            (iii)  a walkway, mooring facility or similar structure;
+
+unless the person is authorised to engage in the conduct by:
+
+                      (i)  a permission granted under the regulations for the purposes of section 38CA; or
+
+                      (j)  an authority given in accordance with a condition of a permission referred to in paragraph (i).
+
+                    Civil penalty:
+
+                     (a)  for an aggravated contravention by an individual—20,000 penalty units; or
+
+                     (b)  for an individual in any other case—2,000 penalty units; or
+
+                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
+
+                     (d)  for a body corporate in any other case—5,000 penalty units.
+
+### Division 3A—Convictions under former section 38CA
+
+##### 38CC  Convictions under former section 38CA
+
+             (1)  Despite any other Commonwealth law or any State law or Territory law, if a person was convicted for an offence under section 38CA of the _Great Barrier Reef__Marine__Park__Act 1975_:
+
+                     (a)  that occurred during the period 1 July 2004 to 14 December 2006; and
+
+                     (b)  that did not attract a monetary penalty exceeding $5,000;
+
+that conviction is for all purposes to be treated as a spent conviction under Part VIIC of the _Crimes Act 1914_.
+
+             (2)  For the avoidance of doubt, a conviction referred to in subsection (1) is to be treated as a spent conviction whether or not the waiting period for the offence under Part VIIC of the _Crimes Act 1914_ has ended.
+
+             (3)  Despite Division 3 of Part VIIC of the _Crimes Act 1914_, the exclusions provided by Division 6 of Part VIIC of the _Crimes Act 1914_ do not apply in relation to a conviction referred to in subsection (1).
+
+### Division 4—Conduct in Marine Park generally
+
+##### <a id="38DA"></a>38DA  Vessel causing damage in Marine Park: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is in charge of a vessel; and
+
+                     (b)  the vessel is in the Marine Park; and
+
+                     (c)  the person’s charge of the vessel results in, or is likely to result in, the vessel causing damage to the environment in the Marine Park.
+
+                    Penalty:
+
+                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
+
+                     (b)  in any other case—1,000 penalty units.
+
+Note:          See also Division 8.
+
+             (2)  Strict liability applies to paragraph (1)(b).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  The fault element for paragraph (1)(c) is negligence.
+
+Note:          For negligence, see section 5.5 of the _Criminal Code_.
+
+##### <a id="38DB"></a>38DB  Vessel causing damage in Marine Park: civil penalty provision
+
+                   A person who is in charge of a vessel that is in the Marine Park must ensure that the person’s charge of the vessel does not result in, and is not likely to result in, the vessel causing damage to the environment in the Marine Park.
+
+                    Civil penalty:
+
+                     (a)  for an aggravated contravention by an individual—20,000 penalty units; or
+
+                     (b)  for an individual in any other case—2,000 penalty units; or
+
+                     (c)  for an aggravated contravention by a body corporate—50,000 penalty units; or
+
+                     (d)  for a body corporate in any other case—5,000 penalty units.
+
+##### <a id="38DC"></a>38DC  Contravening order or direction: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the Authority or another body gives the person an order or direction under the regulations; and
+
+                     (b)  the order or direction is of a kind declared by the regulations to be an order or direction to which this section applies; and
+
+                     (c)  the person engages in conduct; and
+
+                     (d)  the conduct contravenes the order or direction.
+
+                    Penalty:  500 penalty units.
+
+             (2)  Absolute liability applies to paragraphs (1)(a) and (b).
+
+Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
+
+             (3)  The fault element for paragraph (1)(d) is negligence.
+
+Note:          For negligence, see section 5.5 of the _Criminal Code_.
+
+##### <a id="38DD"></a>38DD  Discharging waste: offence
+
+Discharging waste
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person discharges waste; and
+
+                     (b)  the waste is discharged in the Marine  Park; and
+
+                     (c)  the person is not authorised to discharge the waste by:
+
+                              (i)  a permission granted under the regulations for the purposes of this section; or
+
+                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
+
+                    Penalty:
+
+                     (a)  for an aggravated offence—imprisonment for 3 years or 2,000 penalty units, or both; or
+
+                     (b)  in any other case—1,000 penalty units.
+
+Note:          See also Division 8.
+
+             (2)  The fault element for paragraph (1)(a) is negligence.
+
+Note:          For negligence, see section 5.5 of the _Criminal Code_.
+
+             (3)  Strict liability applies to paragraphs (1)(b) and (c).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Discharging waste: strict liability
+
+             (4)  A person commits an offence if:
+
+                     (a)  the person discharges waste; and
+
+                     (b)  the waste is discharged from a vessel; and
+
+                     (c)  the waste is discharged in the Marine  Park; and
+
+                     (d)  the person is not authorised to discharge the waste by:
+
+                              (i)  a permission granted under the regulations for the purposes of this section; or
+
+                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i).
+
+                    Penalty:  500 penalty units.
+
+             (5)  Strict liability applies to subsection (4).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Defence—prescribed circumstances
+
+             (6)  Subsections (1) and (4) do not apply if circumstances prescribed by the regulations for the purposes of this subsection exist in relation to the discharge. Any circumstances prescribed must be circumstances that relate to the discharge of sewage from vessels.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+
+Defence—certain discharges of fish from vessels and aircraft
+
+             (7)  Subsections (1) and (4) do not apply to the discharge of waste from a vessel or aircraft if:
+
+                     (a)  the waste is fresh fish, or parts of fresh fish, caught in the Marine Park; and
+
+                     (b)  the waste is not discharged in a part of the Marine Park specified in the regulations for the purposes of this paragraph.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+
+Defence—certain discharges from vessels, aircraft and platforms
+
+             (8)  Subsections (1) and (4) do not apply to the discharge of waste from a vessel, aircraft or platform if any of the following apply in relation to the discharge:
+
+                     (a)  it was for the purpose of securing the safety of the vessel, aircraft or platform;
+
+                     (b)  it was for the purpose of saving life at sea;
+
+                     (c)  it was for the purpose of combating a specific incident of pollution in order to minimise the damage from pollution and had been approved by:
+
+                              (i)  a prescribed officer within the meaning of subsection 3(2) of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_; or
+
+                             (ii)  the Authority under section 38DE.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+
+Defence—discharge in zone where discharges do not require permission
+
+             (9)  Subsections (1) and (4) do not apply in relation to the discharge of waste in a zone if the discharge of waste is for a purpose for which, under the zoning plan for the zone, the zone may be used or entered without permission.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="38DE"></a>38DE  Pollution-related approval
+
+                   For the purposes of subparagraphs 38DD(8)(c)(ii), 38EA(7)(c)(ii) and 38EB(3)(c)(ii), the Authority may approve a proposed discharge of waste from a vessel, aircraft or platform if the Authority is satisfied that the discharge is for the purpose of combating a specific incident of pollution in order to minimise the damage from pollution.
+
+### Division 5—Conduct contravening conditions
+
+##### <a id="38EA"></a>38EA  Conduct contravening condition of permission or authority: offence
+
+Contravening condition of permission or authority
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is authorised to do something by:
+
+                              (i)  a permission granted under the regulations for the purposes of a provision of this Act or of a zoning plan; or
+
+                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i); and
+
+                     (b)  the permission is subject to a condition; and
+
+                     (c)  the person engages in conduct; and
+
+                     (d)  the conduct contravenes the condition.
+
+                    Penalty:
+
+                     (a)  for an aggravated offence—1,000 penalty units; or
+
+                     (b)  in any other case—500 penalty units.
+
+             (2)  Absolute liability applies to paragraphs (1)(a) and (b).
+
+Note:          For absolute liability, see section 6.2 of the _Criminal Code_.
+
+             (3)  The fault element for paragraph (1)(d) is negligence.
+
+Note:          For negligence, see section 5.5 of the _Criminal Code_.
+
+Contravening condition of permission or authority: strict liability
+
+             (4)  A person commits an offence if:
+
+                     (a)  the person is authorised to do something by:
+
+                              (i)  a permission granted under the regulations for the purposes of a provision of this Act or of a zoning plan; or
+
+                             (ii)  an authority given in accordance with a condition of a permission referred to in subparagraph (i); and
+
+                     (b)  the permission is subject to a condition; and
+
+                     (c)  the person engages in conduct; and
+
+                     (d)  the conduct contravenes the condition.
+
+                    Penalty:  60 penalty units.
+
+             (5)  Strict liability applies to subsection (4).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+Defence—certain discharges of fish from vessels and aircraft
+
+             (6)  Subsections (1) and (4) do not apply to the discharge of waste from a vessel or aircraft if:
+
+                     (a)  the waste is fresh fish, or parts of fresh fish, caught in the Marine Park; and
+
+                     (b)  the waste is not discharged in a part of the Marine Park specified in the regulations for the purposes of this paragraph.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+
+Defence—certain discharges from vessels, aircraft and platforms
+
+             (7)  Subsections (1) and (4) do not apply to the discharge of waste from a vessel, aircraft or platform if any of the following apply in relation to the discharge:
+
+                     (a)  it was for the purpose of securing the safety of the vessel, aircraft or platform;
+
+                     (b)  it was for the purpose of saving life at sea;
+
+                     (c)  it was for the purpose of combating a specific incident of pollution in order to minimise the damage from pollution and had been approved by:
+
+                              (i)  a prescribed officer within the meaning of subsection 3(2) of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_; or
+
+                             (ii)  the Authority under section 38DE.
+
+Note:          The defendant bears an evidential burden in relation to the matters in this subsection. See subsection 13.3(3) of the _Criminal Code_.
+
+##### <a id="38EB"></a>38EB  Conduct contravening condition of permission or authority: civil penalty provision
+
+             (1)  A person who is authorised to do something by:
+
+                     (a)  a permission granted under the regulations for the purposes of a provision of this Act or of a zoning plan; or
+
+                     (b)  an authority given in accordance with a condition of a permission referred to in paragraph (a);
+
+must not engage in conduct that contravenes a condition of the permission.
+
+                    Civil penalty:
+
+                     (a)  for an aggravated contravention by an individual—2,000 penalty units; or
+
+                     (b)  for an individual in any other case—1,000 penalty units; or
+
+                     (c)  for an aggravated contravention by a body corporate—20,000 penalty units; or
+
+                     (d)  for a body corporate in any other case—10,000 penalty units.
+
+             (2)  Subsection (1) does not apply to the discharge of waste from a vessel or aircraft if:
+
+                     (a)  the waste is fresh fish, or parts of fresh fish, caught in the Marine Park; and
+
+                     (b)  the waste is not discharged in a part of the Marine Park specified in the regulations for the purposes of this paragraph.
+
+             (3)  Subsection (1) does not apply to the discharge of waste from a vessel, aircraft or platform if any of the following apply:
+
+                     (a)  it was for the purpose of securing the safety of the vessel, aircraft or platform;
+
+                     (b)  it was for the purpose of saving life at sea;
+
+                     (c)  it was for the purpose of combating a specific incident of pollution in order to minimise the damage from pollution and had been approved by:
+
+                              (i)  a prescribed officer within the meaning of subsection 3(2) of the _Protection of the Sea (Prevention of Pollution from Ships) Act 1983_; or
+
+                             (ii)  the Authority under section 38DE.
+
+### Division 6—Collective and vicarious liability
+
+##### <a id="38FA"></a>38FA  Liability for vessel, aircraft or platform used in committing offence: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  a person is responsible (see subsection (4)) for a vessel, aircraft or platform; and
+
+                     (b)  the vessel, aircraft or platform is used in committing an offence against a provision of another Division of this Part; and
+
+                     (c)  the person failed to take all reasonable steps and to exercise due diligence to prevent the vessel, aircraft or platform being used in committing the offence.
+
+                    Penalty:  The penalty for which the person would have been liable had the person committed the offence referred to in paragraph (1)(b).
+
+Note:          See also Division 8.
+
+             (2)  Strict liability applies to paragraphs (1)(a) and (b).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  In determining whether the person took all reasonable steps and exercised due diligence for the purposes of paragraph (1)(c), have regard to:
+
+                     (a)  any steps the person took to become satisfied that this Act would be complied with; and
+
+                     (b)  if the person was, or should have been, aware that there was a risk that the vessel, aircraft or platform would be used in committing an offence—any steps the person took to reduce or remove that risk.
+
+             (4)  For the purposes of paragraph (1)(a), each of the following persons is **_responsible_** for the vessel, aircraft or platform:
+
+                     (a)  the master of the vessel or the person in charge of the aircraft or platform;
+
+                     (b)  the owner or a co-owner, or an owner of any part of or share in, the vessel, aircraft or platform;
+
+                     (c)  a party to an agreement with a person referred to in paragraph (a) or (b) under which the party, or the party and the other person, may determine the activities for which the vessel, aircraft or platform is used;
+
+                     (d)  in relation to a primary commercial fishing vessel used in committing an offence constituted by conduct that is fishing:
+
+                              (i)  a person who, under a law of the Commonwealth, a State or Territory, holds a licence or other permission (however described and including one that is suspended) permitting the vessel to be used to take fish for commercial purposes; and
+
+                             (ii)  a person who, under a law of the Commonwealth, a State or Territory, holds a licence or other permission (however described and including one that is suspended) permitting the person to be in charge of the vessel’s fishing operations;
+
+                     (e)  in relation to a dory used in committing an offence constituted by conduct that is fishing:
+
+                              (i)  the master of the primary commercial fishing vessel in association with which the dory is used; and
+
+                             (ii)  a person who, under a law of the Commonwealth, a State or a Territory, holds a licence or other permission (however described and including one that is suspended) permitting the dory to be used in association with a primary commercial fishing vessel; and
+
+                            (iii)  a person who, under a law of the Commonwealth, a State or a Territory, holds a licence or other permission (however described and including one that is suspended) permitting the primary commercial fishing vessel in association with which the dory is used to be used to take fish for commercial purposes; and
+
+                            (iv)  a person who, under a law of the Commonwealth, a State or a Territory, holds a licence or other permission (however described and including one that is suspended) permitting the person to be in charge of the fishing operations of the primary commercial fishing vessel in association with which the dory is used.
+
+##### <a id="38FB"></a>38FB  Liability for ship used in committing offence: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is an owner of or the master of a vessel; and
+
+                     (b)  the vessel is used in committing an offence against a provision of another Division of this Part; and
+
+                     (c)  the conduct constituting the offence is engaged in in a zone; and
+
+                     (d)  the vessel is a ship within the meaning of the zoning plan for the zone.
+
+                    Penalty:  500 penalty units.
+
+             (2)  Strict liability applies to subsection (1).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="38FC"></a>38FC  Liability for vessel causing damage in Marine Park: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person is an owner of or the master of a vessel; and
+
+                     (b)  the vessel is used in committing an offence against section 38DA (vessel causing damage in Marine Park) or 38DD (discharging waste).
+
+                    Penalty:  500 penalty units.
+
+             (2)  Strict liability applies to subsection (1).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+##### <a id="38FD"></a>38FD  Liability of permission holder for conduct contravening permission: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person gives another person authority to engage in conduct; and
+
+                     (b)  the authority is given in accordance with a permission granted under the regulations for the purposes of a provision of this Act or of a zoning plan; and
+
+                     (c)  the permission is subject to a condition; and
+
+                     (d)  the other person commits an offence against section 38EA involving a contravention of the condition; and
+
+                     (e)  the person failed to take all reasonable steps and to exercise due diligence to prevent the other person contravening the condition.
+
+                    Penalty:  The penalty for which the person would have been liable had the person committed the offence referred to in paragraph (1)(d).
+
+             (2)  Strict liability applies to paragraphs (1)(a), (b), (c) and (d).
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (3)  In determining whether the person took all reasonable steps and exercised due diligence for the purposes of paragraph (1)(e), have regard to:
+
+                     (a)  any steps the person took to become satisfied that the conditions of the permission would be complied with; and
+
+                     (b)  if the person was, or should have been, aware that there was a risk that the other person would contravene a condition of the permission—any steps the person took to reduce or remove that risk.
+
+### Division 7—Aggravated offences and contraventions
+
+##### <a id="38GA"></a>38GA  Aggravated offences
+
+             (1)  A person commits an **_aggravated offence_** against a provision of this Part if the conduct the person engaged in that constituted the offence:
+
+                     (a)  was fishing that involved a primary commercial fishing vessel or a dory; or
+
+                     (b)  was navigating a vessel that is a ship within the meaning of the zoning plan for the zone in which the vessel was being navigated; or
+
+                     (c)  resulted in:
+
+                              (i)  the taking of or injury to an animal or plant that is a member of a protected species; or
+
+                             (ii)  serious harm to the environment in the Marine Park (see subsection (7)); or
+
+                     (d)  had the potential to result in serious harm to the environment in the Marine Park (see subsection (8)); or
+
+                     (e)  was done for a commercial purpose.
+
+             (2)  If the prosecution intends to prove an aggravated offence, the charge must allege the relevant aggravated offence.
+
+             (3)  In order to prove an aggravated offence, the prosecution must prove the following:
+
+                     (a)  if paragraph (1)(a) applies—that the defendant was reckless as to whether the conduct he or she engaged in was fishing;
+
+                     (b)  if paragraph (1)(b) applies—that the defendant was reckless as to whether the conduct he or she engaged in was navigating a vessel;
+
+                     (c)  if paragraph (1)(c) applies—that the defendant was reckless as to whether the conduct he or she engaged in had the result referred to in paragraph (1)(c);
+
+                     (d)  if paragraph (1)(d) applies—that the defendant was reckless as to whether the conduct he or she engaged in had the potential to result in serious harm to the environment in the Marine Park;
+
+                     (e)  if paragraph (1)(e) applies—that the defendant intended  to engage in the conduct for a commercial purpose.
+
+             (4)  Strict liability applies to:
+
+                     (a)  if paragraph (1)(a) applies—the physical element of circumstance, that the fishing involved a primary commercial fishing vessel or a dory; and
+
+                     (b)  if paragraph (1)(b) applies—the physical element of circumstance, that the vessel is a ship within the meaning of the zoning plan for the zone in which it was being navigated; and
+
+                     (c)  if subparagraph (1)(c)(i) applies—the physical element of circumstance, that the animal or plant is a member of a protected species.
+
+Note:          For strict liability, see section 6.1 of the _Criminal Code_.
+
+             (5)  If, in a prosecution for an aggravated offence against a provision of this Part, the trier of fact:
+
+                     (a)  is not satisfied that the defendant has committed an aggravated offence against that provision; and
+
+                     (b)  is satisfied beyond reasonable doubt that the defendant has committed an offence against that provision;
+
+the trier of fact may find the defendant not guilty of the aggravated offence but guilty of an offence against that provision.
+
+             (6)  For the purposes of paragraph (1)(b), **_navigate_** includes moor, or anchor, in the course of navigation.
+
+             (7)  In determining for the purposes of subparagraph (1)(c)(ii) whether conduct has resulted in serious harm to the environment in the Marine Park, have regard to the following:
+
+                     (a)  the harm;
+
+                     (b)  the size of the affected environment;
+
+                     (c)  the sensitivity of the affected environment;
+
+                     (d)  the significance of the affected environment;
+
+                     (e)  the management objectives contained in the zoning plan for the zone in which the person engaged in the conduct;
+
+                      (f)  whether the harm is irreversible;
+
+                     (g)  the measures required to remedy the harm.
+
+             (8)  In determining for the purposes of paragraph (1)(d) whether conduct had the potential to result in serious harm to the environment in the Marine Park, have regard to the potential for the conduct to result in serious harm for the purposes of subparagraph (1)(c)(ii).
+
+##### <a id="38GB"></a>38GB  Aggravated contraventions
+
+             (1)  A contravention of a civil penalty provision by a person is an **_aggravated contravention_** if the conduct the person engaged in that constituted the contravention:
+
+                     (a)  was fishing that involved a primary commercial fishing vessel or a dory; or
+
+                     (b)  was navigating a vessel that is a ship within the meaning of the zoning plan for the zone in which the vessel is being navigated; or
+
+                     (c)  resulted in:
+
+                              (i)  the taking of or injury to an animal or plant that is a member of a protected species; or
+
+                             (ii)  serious harm to the environment in the Marine Park; or
+
+                     (d)  had the potential to result in serious harm to the environment in the Marine Park; or
+
+                     (e)  was done for a commercial purpose.
+
+             (2)  If the Authority, on behalf of the Commonwealth, intends to prove that the person has committed an aggravated contravention, the Authority’s application to the Federal Court under section 61AIA in relation to the contravention must specify the relevant aggravated contravention.
+
+             (3)  If, in proceedings for a declaration of contravention in relation to an aggravated contravention of a provision of this Part, the Federal Court:
+
+                     (a)  is not satisfied that the person has committed an aggravated contravention against that provision; and
+
+                     (b)  is satisfied beyond reasonable doubt that the person has contravened that provision;
+
+the Federal Court may make a pecuniary penalty order against the person not for the aggravated contravention but for the contravention of that provision.
+
+             (4)  Subsection 38GA(6) (about navigation) also applies for the purposes of paragraph (1)(b).
+
+             (5)  Subsections 38GA(7) and (8) (about serious harm) also apply for the purposes of subparagraph (1)(c)(ii) and paragraph (1)(d).
+
+### Division 8—Miscellaneous
+
+##### <a id="38HA"></a>38HA  Commencement of certain prosecutions: time limit
+
+             (1)  A prosecution of an individual for an offence against a provision of this Part, the maximum penalty for which:
+
+                     (a)  does not include a term of imprisonment (otherwise than because of section 38HC, 38HD, 38HE or 38HF); or
+
+                     (b)  includes a term of imprisonment of 6 months or less;
+
+may be commenced at any time within 2 years of the commission of the offence.
+
+Note:          Subsection (1) extends by a year the deadline that would otherwise apply to these offences under section 15B of the _Crimes Act 1914_. For offences with a maximum penalty of more than 6 months’ imprisonment, section 15B of that Act means that there is no deadline.
+
+             (2)  A prosecution of a body corporate for an offence against a provision of this Part, the maximum penalty for which is a fine of 150 penalty units or less, may be commenced at any time within 2 years of commission of the offence.
+
+Note:          Subsection (2) extends by a year the deadline that would otherwise apply to these offences under section 15B of the _Crimes Act 1914_. For offences with a maximum penalty of more than 150 penalty units, section 15B of that Act means that there is no deadline.
+
+             (3)  In applying subsection 15B(1) of the _Crimes Act 1914_ to an offence against a provision of this Part, disregard the effect of sections 38HC, 38HD, 38HE and 38HF.
+
+##### <a id="38HB"></a>38HB  Commencement of certain prosecutions: Attorney-General’s consent
+
+             (1)  Proceedings for an offence committed by a person against a provision of Division 6 of this Part must not be commenced without the Attorney-General’s written consent if the person is not an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory.
+
+             (2)  In deciding whether to consent for the purposes of this section, the Attorney-General must have regard to the obligations of Australia under international law, including obligations under any agreement or arrangement between Australia and another country or countries.
+
+##### <a id="38HC"></a>38HC  Conduct in the exclusive economic zone: offences other than Division 6 offences
+
+             (1)  This section applies in relation to an offence committed by a person against a provision of this Part (other than a provision of Division 6) if:
+
+                     (a)  the conduct constituting the offence occurs in the exclusive economic zone of Australia; and
+
+                     (b)  none of the following apply:
+
+                              (i)  the person is an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory;
+
+                             (ii)  an Australian vessel is used in committing the offence;
+
+                            (iii)  an Australian aircraft is used in committing the offence;
+
+                            (iv)  a platform located in the Great Barrier Reef Region is used in committing the offence; and
+
+                     (c)  the penalty set out at the foot of the provision for an offence against the provision includes imprisonment.
+
+             (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person does not include imprisonment.
+
+##### <a id="38HD"></a>38HD  Conduct in the exclusive economic zone: Division 6 offences
+
+             (1)  This section applies in relation to an offence (a **_vicarious liability offence_**) committed by a person against a provision of Division 6 of this Part if:
+
+                     (a)  the conduct constituting the offence (the **_underlying offence_**) to which the vicarious liability offence relates occurs in the exclusive economic zone of Australia; and
+
+                     (b)  the person is not an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory; and
+
+                     (c)  the penalty set out at the foot of the provision for an offence against the provision includes imprisonment.
+
+             (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person does not include imprisonment.
+
+##### <a id="38HE"></a>38HE  Conduct in the territorial sea: offences other than Division 6 offences
+
+             (1)  This section applies in relation to an offence committed by a person against a provision of this Part (other than a provision of Division 6) if:
+
+                     (a)  the result of the conduct constituting the offence is pollution of the marine environment (however described); and
+
+                     (b)  the conduct occurs in the territorial sea of Australia; and
+
+                     (c)  none of the following apply:
+
+                              (i)  the person is an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory;
+
+                             (ii)  an Australian vessel is used in committing the offence;
+
+                            (iii)  an Australian aircraft is used in committing the offence;
+
+                            (iv)  a platform located in the Great Barrier Reef Region is used in committing the offence; and
+
+                     (d)  the penalty set out at the foot of the provision for an offence against that provision includes imprisonment.
+
+             (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person only includes imprisonment if the prosecution proves that:
+
+                     (a)  the person intended to engage in the conduct that constituted the offence; and
+
+                     (b)  the pollution is serious.
+
+##### <a id="38HF"></a>38HF  Conduct in the territorial sea: Division 6 offences
+
+             (1)  This section applies in relation to an offence (a **_vicarious liability offence_**) committed by a person against a provision of Division 6 of this Part if:
+
+                     (a)  the result of the conduct constituting the offence (the **_underlying offence_**) to which the vicarious liability offence relates is pollution of the marine environment (however described); and
+
+                     (b)  the conduct constituting the underlying offence occurs in the territorial sea of Australia; and
+
+                     (c)  the person is not an Australian citizen, an Australian resident or a body corporate incorporated by or under a law of the Commonwealth or of a State or Territory; and
+
+                     (d)  the penalty set out at the foot of the provision for an offence against that provision includes imprisonment.
+
+             (2)  Despite the penalty set out at the foot of the provision, the penalty for the offence committed by the person only includes imprisonment if the prosecution proves that:
+
+                     (a)  the person who engaged in the conduct that constituted the underlying offence intended to engage in that conduct; and
+
+                     (b)  the pollution is serious.
+
+## 25  After subsection 39FA(1)
+
+Insert:
+
+Civil penalty for failing to collect charge
+
+          (1A)  A holder of a chargeable permission must not fail to collect charge from a visitor if:
+
+                     (a)  the holder provides a service to the visitor under the permission; and
+
+                     (b)  charge is due and payable by the visitor in relation to the permission.
+
+                    Civil penalty:
+
+                     (a)  for an individual—100 penalty units; or
+
+                     (b)  for a body corporate—500 penalty units.
+
+## 26  Subsection 39FA(2)
+
+Omit “subsection (1)”, substitute “subsections (1) and (1A)”.
+
+## 27  At the end of subsection 39FA(5)
+
+Add “or for a contravention of subsection (1A)”.
+
+## 28  Subsection 39FA(6)
+
+After “subsection (1)”, insert “or a court makes a declaration of contravention against a person for a contravention of subsection (1A)”.
+
+## 29  At the end of subsection 39FA(7)
+
+Add “or the amount of any pecuniary penalty order made against the person for the contravention of subsection (1A)”.
+
+## 30  After subsection 39FB(2)
+
+Insert:
+
+Civil penalty for failing to pay collected amount on time
+
+          (2A)  A holder of a chargeable permission must not fail to pay a collected amount to the Authority before or on the day it is due and payable.
+
+                    Civil penalty:
+
+                     (a)  for an individual—20 penalty units; or
+
+                     (b)  for a body corporate—100 penalty units.
+
+_Note:       The following heading to subsection 39FB(1) is inserted “Offence for failing to pay collected amount on time”._
+
+## 31  Subsection 39FB(3)
+
+After “subsection (1)”, insert “or a court makes a declaration of contravention against a person for a contravention of subsection (2A)”.
+
+_Note:       The following heading to subsection 39FB(3) is inserted “Penalty for failing to pay collected amount on time”._
+
+## 32  At the end of subsection 39FB(4)
+
+Add “or the amount of any pecuniary penalty order made against the person for the contravention of subsection (2A)”.
+
+## 33  At the end of Division 2A of Part VA
+
+Add:
+
+##### <a id="39FF"></a>39FF  False or misleading representation in relation to tourism services: offence
+
+             (1)  A person commits an offence if:
+
+                     (a)  the person makes a false or misleading representation; and
+
+                     (b)  the person is reckless as to whether  the representation is false or misleading; and
+
+                     (c)  the representation relates to:
+
+                              (i)  a person’s liability to pay a tax, charge or fee (however described) imposed by the Commonwealth for purposes connected with use of or entry to the Marine Park; or
+
+                             (ii)  the amount of any such tax, charge or fee; and
+
+                     (d)  the representation is made in the course of providing a tourism-related service (see subsection (3)).
+
+                    Penalty:  1,000 penalty units.
+
+             (2)  In a prosecution for an offence against subsection (1), it is not necessary to prove that the representation expressly refers to the Marine Park or to an imposition by the Commonwealth.
+
+             (3)  For the purposes of subsection (1), a **_tourism-related service_** means:
+
+                     (a)  a service provided on a commercial basis to or for the benefit of tourists, or in relation to tourism, in Australia; and
+
+                     (b)  any action incidental to such a service (for example, advertising a service).
+
+## 34  Subsections 39G(1), (1A) and (1B)
+
+Repeal the subsections, substitute:
+
+             (1)  If any charge payable by a person (other than a visitor) remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount (the **_late payment penalty_**) equal to:
+
+                     (a)  the amount worked out at the rate of 20% per annum of the amount unpaid, as at the time the amount unpaid became due for payment; or
+
+                     (b)  if the amount worked out under paragraph (a) is less than $250—$250.
+
+          (1A)  If a collected amount payable by a person remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount (the **_late payment penalty_**) equal to:
+
+                     (a)  the amount worked out at the rate of 20% per annum of the amount unpaid, as at the time the amount unpaid became due for payment; or
+
+                     (b)  if the amount worked out under paragraph (a) is less than $250—$250.
+
+          (1B)  If a penalty amount payable by a person remains unpaid after the time when it became due for payment, the person is liable to pay, by way of penalty, an amount (the **_late payment penalty_**) equal to:
+
+                     (a)  the amount worked out at the rate of 20% per annum of the amount unpaid, as at the time the amount unpaid became due for payment; or
+
+                     (b)  if the amount worked out under paragraph (a) is less than $250—$250.
+
+As at 3 December 2008 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -9666,7 +9998,7 @@ _Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008 (No. 
 
 ## 50  Plans of management in force under Part VB of the _Great   Barrier Reef__Marine__Park__Act 1975_
 
-(1)        This item applies if, immediately before the commencement of this Schedule, a plan of management was in force under Part VB of the _Great   Barrier Reef__Marine__Park__Act 1975_.
+(1)        This item applies if, immediately before the commencement of this Schedule, a plan of management was in force under Part VB of the _Great Barrier Reef__Marine__Park__Act 1975_.
 
 (2)        Despite the amendments made by this Schedule, the plan of management continues in force after the commencement of this Schedule as if the plan had been prepared in accordance with Part VB of the _Great   Barrier Reef__Marine__Park__Act 1975_, as that Part is in force immediately after the commencement of this Schedule.
 
@@ -9697,6 +10029,8 @@ _Great Barrier Reef Marine Park and Other Legislation Amendment Act 2008 (No. 
 the amendments made by this Schedule apply in relation to the plan or amendment.
 
 (2)        This item does not limit the application that the amendments made by this Schedule have apart from this item.
+
+The following provisions commence on 25 November 2009 unless proclaimed earlier:
 
 ## Schedule 4
 
