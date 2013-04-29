@@ -1,264 +1,266 @@
-![](http://www.comlaw.gov.au/Details/C2007C00167/Html/SupernResComplnts1993_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2004C00799/Html/950BDC41B93A1D6FCA2571CE001CD1F2/$FILE/SupernResComplnts1993_WD02_image001.gif)
 
 # Superannuation (Resolution of Complaints) Act 1993
 
 **Act No. 80 of 1993 as amended**
 
-This compilation was prepared on 29 March 2007
- taking into account amendments up to Act No. 9 of 2007
+This compilation was prepared on 2 December 2003
+taking into account amendments up to Act No. 116 of 2003
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]                                                                        1
+[1](#1).            Short title [_see_ Note 1]
 
-[2](#2).            Commencement [_see_ Note 1]                                                               1
+[2](#2).            Commencement [_see_ Note 1]
 
-[3](#3).            Interpretation                                                                                       1
+[3](#3).            Interpretation
 
-[4](#4).            Definition of decision made by a trustee, insurer, RSA provider or another decision-maker  7
+[4](#4).            Definition of decision made by a trustee, insurer, RSA provider or another decision-maker
 
-[4AA](#4AA).      Application of the _Criminal Code_                                                       7
+[4AA](#4AA).      Application of the _Criminal Code_
 
-[4A](#4A).         Act applies to certain exempt public sector superannuation schemes 7
+[4A](#4A).         Act applies to certain exempt public sector superannuation schemes
 
-[4B](#4B).         Modified meanings of _beneficiary_, _member_ etc                                   8
+[4B](#4B).         Modified meanings of _beneficiary_, _member_ etc 
 
-[5](#5).            Act does not apply to an excluded fund                                              8
+[5](#5).            Act does not apply to an excluded fund
 
-[5A](#5A).         Severable operation of Act so far as complaints concerning death benefits are concerned      8
+[5A](#5A).         Severable operation of Act so far as complaints concerning death benefits are concerned
 
 **Part 2—Establishment and constitution of the Superannuation Complaints Tribunal**
 
-[6](#6).            Establishment                                                                                    10
+[6](#6).            Establishment
 
-[7](#7).            Membership                                                                                      10
+[7](#7).            Membership
 
-[7A](#7A).         Tribunal Chairperson                                                                         10
+[7A](#7A).         Tribunal Chairperson
 
-[8](#8).            Eligibility for appointment                                                                11
+[8](#8).            Eligibility for appointment
 
-[9](#9).            Constitution of Tribunal                                                                    11
+[9](#9).            Constitution of Tribunal
 
-[10](#10).          Disclosure of interests                                                                       12
+[10](#10).          Disclosure of interests
 
 **Part 3—Objectives and functions of the Tribunal**
 
-[11](#11).          Tribunal objectives                                                                            14
+[11](#11).          Tribunal objectives
 
-[12](#12).          Functions                                                                                           14
+[12](#12).          Functions
 
-[13](#13).          Tribunal to issue a memorandum explaining how complaints are to be dealt with  14
+[13](#13).          Tribunal to issue a memorandum explaining how complaints are to be dealt with
 
 **Part 4—Complaints, procedural matters relating to complaints and complaints the Tribunal cannot deal with**
 
-[14AA](#14AA).    Complaints may be made about discretionary or non-discretionary decisions       16
+[14AA](#14AA).    Complaints may be made about discretionary or non-discretionary decisions
 
-[14](#14).          Complaints about decisions of trustees other than decisions to admit persons to life policy funds      16
+[14](#14).          Complaints about decisions of trustees other than decisions to admit persons to life policy funds
 
-[14A](#14A).       Complaints about decisions of trustees to admit persons to life policy funds       18
+[14A](#14A).       Complaints about decisions of trustees to admit persons to life policy funds
 
-[15](#15).          Who may make a complaint under section 14                                   19
+[15](#15).          Who may make a complaint under section 14
 
-[15A](#15A).       Complaints about conduct of insurers concerning sale of annuity policies             20
+[15A](#15A).       Complaints about conduct of insurers concerning sale of annuity policies
 
-[15B](#15B).       Complaints about decisions of insurers under annuity policies        21
+[15B](#15B).       Complaints about decisions of insurers under annuity policies
 
-[15C](#15C).       Who may make a complaint under section 15B                                22
+[15C](#15C).       Who may make a complaint under section 15B
 
-[15CA](#15CA).    Complaints about statements given to Commissioner of Taxation by superannuation provider            23
+[15CA](#15CA).    Complaints about statements given to Commissioner of Taxation by superannuation provider
 
-[15D](#15D).       Tribunal cannot deal with certain complaints                                    24
+[15D](#15D).       Tribunal cannot deal with certain complaints
 
-[15E](#15E).        Complaints about conduct of RSA providers concerning opening of RSAs           25
+[15E](#15E).        Complaints about conduct of RSA providers concerning opening of RSAs
 
-[15F](#15F).        Complaints about decisions of RSA providers                                 26
+[15F](#15F).        Complaints about decisions of RSA providers
 
-[15G](#15G).       Who may make a complaint under section 15F                                 28
+[15G](#15G).       Who may make a complaint under section 15F
 
-[15H](#15H).       Complaints about conduct of insurers concerning sale of insurance benefits          29
+[15H](#15H).       Complaints about conduct of insurers concerning sale of insurance benefits
 
-[15J](#15J).        Complaints about decisions of insurers                                             30
+[15J](#15J).        Complaints about decisions of insurers
 
-[15K](#15K).       Who may make a complaint under section 15J                                 32
+[15K](#15K).       Who may make a complaint under section 15J
 
-[16](#16).          Tribunal to help complainants to make complaints                          33
+[16](#16).          Tribunal to help complainants to make complaints
 
-[17](#17).          Notification procedures on receipt of a complaint                            33
+[17](#17).          Notification procedures on receipt of a complaint
 
-[17A](#17A).       Notification procedures relating to other persons joined or seeking to be joined as parties    35
+[17A](#17A).       Notification procedures relating to other persons joined or seeking to be joined as parties
 
-[18](#18).          Parties to a complaint                                                                        36
+[18](#18).          Parties to a complaint
 
-[19](#19).          Tribunal not to deal with complaint unless the complainant has attempted to have the matter resolved               39
+[19](#19).          Tribunal not to deal with complaint unless the complainant has attempted to have the matter resolved
 
-[20](#20).          Tribunal not to deal with complaint if subject matter of complaint is subject of court proceedings      40
+[20](#20).          Tribunal not to deal with complaint if subject matter of complaint is subject of court proceedings
 
-[21](#21).          Withdrawal of complaint                                                                   40
+[21](#21).          Withdrawal of complaint
 
-[22](#22).          Power to treat a complaint as having been withdrawn                      40
+[22](#22).          Power to treat a complaint as having been withdrawn
 
-[22A](#22A).       Tribunal may refer complaint or part complaint to other complaint-handling body               41
+[22A](#22A).       Tribunal may refer complaint or part complaint to other complaint-handling body
 
-[23](#23).          Right to representation in relation to a complaint                             42
+[23](#23).          Right to representation in relation to a complaint
 
-[24](#24).          Giving material documents to the Tribunal                                       42
+[24](#24).          Giving material documents to the Tribunal
 
-[24AA](#24AA).    Complaint against superannuation provider: giving material documents to the Tribunal        44
+[24AA](#24AA).    Complaint against superannuation provider: giving material documents to the Tribunal
 
-[24A](#24A).       Other parties may join a complaint                                                   45
+[24A](#24A).       Other parties may join a complaint
 
-[25](#25).          Power to obtain information and documents                                     47
+[25](#25).          Power to obtain information and documents
 
-[26](#26).          Operation and implementation of a decision that is subject to a complaint            49
+[26](#26).          Operation and implementation of a decision that is subject to a complaint
 
 **Part 5—Conciliation of complaints**
 
-[27](#27).          Inquiries by Tribunal                                                                         53
+[27](#27).          Inquiries by Tribunal
 
-[28](#28).          Tribunal may require attendance at conciliation conferences            53
+[28](#28).          Tribunal may require attendance at conciliation conferences
 
-[29](#29).          Conferences may be conducted by telephone or other means of communication   54
+[29](#29).          Conferences may be conducted by telephone or other means of communication
 
-[30](#30).          Statements at conference to be privileged                                          54
+[30](#30).          Statements at conference to be privileged
 
-[31](#31).          Tribunal to implement settlements                                                    54
+[31](#31).          Tribunal to implement settlements
 
 **Part 6—Review of decisions or conduct complained of** 
 
     **Division 1—Preliminary procedures**
 
-[32](#32).          Arrangements for review meetings                                                    56
+[32](#32).          Arrangements for review meetings
 
     **Division 2—How the Tribunal informs itself about the decision or conduct under review**
 
-[33](#33).          Submissions to Tribunal                                                                    57
+[33](#33).          Submissions to Tribunal
 
-[34](#34).          Tribunal meetings                                                                              57
+[34](#34).          Tribunal meetings
 
-[35](#35).          Tribunal may allow telephone and other submissions                      57
+[35](#35).          Tribunal may allow telephone and other submissions
 
     **Division 3—The review meeting**
 
-[36](#36).          Meeting procedure                                                                             58
+[36](#36).          Meeting procedure
 
-[37](#37).          Tribunal powers—complaints under section 14                               58
+[37](#37).          Tribunal powers—complaints under section 14
 
-[37A](#37A).       Tribunal powers—complaints under section 14A                            59
+[37A](#37A).       Tribunal powers—complaints under section 14A
 
-[37B](#37B).       Tribunal powers—complaints under section 15A                            61
+[37B](#37B).       Tribunal powers—complaints under section 15A
 
-[37C](#37C).       Tribunal powers—complaints under section 15B                             62
+[37C](#37C).       Tribunal powers—complaints under section 15B
 
-[37CA](#37CA).    Tribunal powers: complaint under section 15CA                             63
+[37CA](#37CA).    Tribunal powers: complaint under section 15CA
 
-[37D](#37D).       Tribunal powers—complaints under section 15E                             64
+[37D](#37D).       Tribunal powers—complaints under section 15E
 
-[37E](#37E).        Tribunal powers—complaints under section 15F                             66
+[37E](#37E).        Tribunal powers—complaints under section 15F
 
-[37F](#37F).        Tribunal powers—complaints under section 15H                            67
+[37F](#37F).        Tribunal powers—complaints under section 15H
 
-[37G](#37G).       Tribunal powers—complaints under section 15J                              69
+[37G](#37G).       Tribunal powers—complaints under section 15J
 
-[38](#38).          Meeting to be private                                                                        70
+[38](#38).          Meeting to be private
 
-[39](#39).          Reference of questions of law to Federal Court                                71
+[39](#39).          Reference of questions of law to Federal Court
 
-[40](#40).          Tribunal to give reasons                                                                     71
+[40](#40).          Tribunal to give reasons
 
-[41](#41).          Operation of determination                                                               71
+[41](#41).          Operation of determination
 
     **Division 4—Other procedural matters**
 
-[42](#42).          Adjournment of review meetings                                                       72
+[42](#42).          Adjournment of review meetings
 
-[43](#43).          Evidence of determination                                                                 72
+[43](#43).          Evidence of determination
 
     **Division 5—Notification of determination and appeal rights**
 
-[44](#44).          Notification of determination                                                            73
+[44](#44).          Notification of determination
 
-[45](#45).          Notification of appeal rights                                                              74
+[45](#45).          Notification of appeal rights
 
 **Part 7—Appeals**
 
-[46](#46).          Appeals to Federal Court of Australia from determinations of the Tribunal          75
+[46](#46).          Appeals to Federal Court of Australia from determinations of the Tribunal
 
-[47](#47).          Operation and implementation of a determination that is subject to appeal           75
+[47](#47).          Operation and implementation of a determination that is subject to appeal
 
-[48](#48).          Sending of documents to, and disclosure of documents by, the Federal Court       77
+[48](#48).          Sending of documents to, and disclosure of documents by, the Federal Court
 
 **Part 8—Administrative provisions** 
 
     **Division 1—Administrative provisions relating to Tribunal Chairperson and Deputy Chairperson**
 
-[49](#49).          Terms and conditions of appointment                                              78
+[49](#49).          Terms and conditions of appointment
 
-[50](#50).          Remuneration and allowances                                                            78
+[50](#50).          Remuneration and allowances
 
-[51](#51).          Leave of absence                                                                                78
+[51](#51).          Leave of absence
 
-[52](#52).          Resignation                                                                                        79
+[52](#52).          Resignation
 
-[53](#53).          Termination of appointment                                                             79
+[53](#53).          Termination of appointment
 
-[54](#54).          Acting Tribunal Chairperson or Deputy Chairperson                      79
+[54](#54).          Acting Tribunal Chairperson or Deputy Chairperson
 
     **Division 2—Administrative provisions relating to other Tribunal members**
 
-[55](#55).          Terms and conditions of appointment                                              81
+[55](#55).          Terms and conditions of appointment
 
-[56](#56).          Remuneration and allowances                                                            81
+[56](#56).          Remuneration and allowances
 
-[57](#57).          Resignation                                                                                        81
+[57](#57).          Resignation
 
-[58](#58).          Termination of appointment                                                             81
+[58](#58).          Termination of appointment
 
 **Part 9—Miscellaneous**
 
-[59](#59).          Certain powers of the Tribunal to be exercised by Tribunal Chairperson or staff member    83
+[59](#59).          Certain powers of the Tribunal to be exercised by Tribunal Chairperson or staff member
 
-[60](#60).          Legal professional privilege                                                               83
+[60](#60).          Legal professional privilege
 
-[61](#61).          Liability for damages                                                                         84
+[61](#61).          Liability for damages
 
-[62](#62).          Staff and facilities                                                                              84
+[62](#62).          Staff and facilities
 
-[63](#63).          Secrecy                                                                                               85
+[63](#63).          Secrecy
 
-[64](#64).          Reference by Tribunal Chairperson of contraventions of the law or of the governing rules of a fund to APRA or ASIC or both                                                                                               86
+[64](#64).          Reference by Tribunal Chairperson of contraventions of the law or of the governing rules of a fund to APRA or ASIC or both
 
-[64A](#64A).       Reference by Tribunal Chairperson of breaches of terms and conditions to APRA or ASIC or both    87
+[64A](#64A).       Reference by Tribunal Chairperson of breaches of terms and conditions to APRA or ASIC or both
 
-[65](#65).          Failure of a party to a complaint to comply with a determination or direction by the Tribunal            87
+[65](#65).          Failure of a party to a complaint to comply with a determination or direction by the Tribunal
 
-[66](#66).          Conduct by directors, servants and agents                                        88
+[66](#66).          Conduct by directors, servants and agents
 
-[67](#67).          Annual report                                                                                    89
+[67](#67).          Annual report
 
-[68](#68).          Regulations                                                                                        89
+[68](#68).          Regulations
 
 **Notes** 
+
 
 ## An Act relating to the resolution of complaints about decisions and conduct of trustees of superannuation funds and approved deposit funds and of RSA providers and insurers
 
 ## Part 1—Preliminary
 
-##### <a id="1"></a>1  Short title<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="1"></a>1  Short title<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
                    This Act may be cited as the _Superannuation (Resolution of Complaints) Act 1993_.
 
-##### <a id="2"></a>2  Commencement<span style="font-size:9.0pt; font-weight:normal"> [_see_ Note 1]</span>
+##### <a id="2"></a>2  Commencement<span style="FONT-WEIGHT: normal; FONT-SIZE: 9pt"> [_see_ Note 1]</span>
 
              (1)  Subject to subsection (2), this Act commences on a day to be fixed by Proclamation.
 
@@ -894,7 +896,7 @@ Note:          See section 3 for the definition of **_annuit
 
                      (b)  section 12 of the _Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997_; or
 
-                     (c)  section 390-5 in Schedule 1 to the _Taxation Administration Act 1953_;
+                     (c)  section 26 of the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_;
 
 setting out an amount or amounts in respect of a person, the person may make a complaint (other than an excluded complaint) to the Tribunal that the decision to set out the amount or amounts in the statement was unfair or unreasonable.
 
@@ -904,7 +906,7 @@ setting out an amount or amounts in respect of a person, the person may make a c
 
                      (b)  section 12 of the _Superannuation Contributions Tax (Members of Constitutionally Protected Superannuation Funds) Assessment and Collection Act 1997_; or
 
-                     (c)  section 390-5 in Schedule 1 to the _Taxation Administration Act 1953_;
+                     (c)  section 26 of the _Superannuation (Government Co-contribution for Low Income Earners) Act 2003_;
 
 is also given by the provider a notice setting out the prescribed period within which the person must complain to the Tribunal about the decision, the person may only make a complaint to the Tribunal under this section within that period.
 
@@ -1476,95 +1478,89 @@ the party may be represented by an agent.
 <thead>
   <tr>
     <td colspan="3">
-      <div>
-        <b>Relevant persons for the purposes of subsection (2)</b>
-      </div>
+      <div><b>Relevant persons for the purposes of subsection (2)</b></div>
     </td>
   </tr>
   <tr>
     <td>
-      <div>
-        <b>Item</b>
-      </div>
+      <div><b>Item</b></div>
     </td>
     <td>
-      <div>
-        <b>Section under which complaint is made</b>
-      </div>
+      <div><b>Section under which complaint is made</b></div>
     </td>
     <td>
-      <div>
-        <b>Relevant persons</b>
-      </div>
+      <div><b>Relevant persons</b></div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>1</div>
-  </td>
-  <td>
-    <div>14</div>
-  </td>
-  <td>
-    <div>insurer or other decision-maker</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>2</div>
-  </td>
-  <td>
-    <div>14A</div>
-  </td>
-  <td>
-    <div>insurer</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>3</div>
-  </td>
-  <td>
-    <div>15E</div>
-  </td>
-  <td>
-    <div>insurer</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>4</div>
-  </td>
-  <td>
-    <div>15F</div>
-  </td>
-  <td>
-    <div>insurer or other decision-maker</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>5</div>
-  </td>
-  <td>
-    <div>15H</div>
-  </td>
-  <td>
-    <div>RSA provider</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>6</div>
-  </td>
-  <td>
-    <div>15J</div>
-  </td>
-  <td>
-    <div>RSA provider or other decision-maker</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>1</div>
+    </td>
+    <td>
+      <div>14</div>
+    </td>
+    <td>
+      <div>insurer or other decision-maker</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>2</div>
+    </td>
+    <td>
+      <div>14A</div>
+    </td>
+    <td>
+      <div>insurer</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>3</div>
+    </td>
+    <td>
+      <div>15E</div>
+    </td>
+    <td>
+      <div>insurer</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>4</div>
+    </td>
+    <td>
+      <div>15F</div>
+    </td>
+    <td>
+      <div>insurer or other decision-maker</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>5</div>
+    </td>
+    <td>
+      <div>15H</div>
+    </td>
+    <td>
+      <div>RSA provider</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>6</div>
+    </td>
+    <td>
+      <div>15J</div>
+    </td>
+    <td>
+      <div>RSA provider or other decision-maker</div>
+    </td>
+  </tr>
+</tbody></table>
 
              (4)  The Tribunal may, on a request being made by the trustee, an insurer, the RSA provider or another decision-maker, allow the trustee, insurer, RSA provider or other decision-maker to give a summary of all documents or relevant parts of documents referred to in subsection (1), (2) or (3), as the case requires, within the period allowed by the Tribunal for the purpose.
 
@@ -2556,7 +2552,7 @@ as the Court thinks appropriate to secure the effectiveness of the hearing and d
 
              (2)  The lawyer is entitled to refuse to comply with the requirement unless:
 
-                     (a)  if the person to whom, or by or on behalf of whom, the communication was made is a body corporate that is under administration or is being wound up—the administrator or liquidator of the body; or
+                     (a)  if the person to whom, or by or on behalf of whom, the communication was made is a body corporate that is under official management or administration or is being wound up—the official manager or administrator, or the liquidator, of the body; or
 
                      (b)  otherwise—the person to whom, or by or on behalf of whom, the communication was made;
 
@@ -2732,13 +2728,14 @@ that reveals personal information relating to an individual unless the individua
 
                      (b)  necessary or convenient to be prescribed for carrying out or giving effect to this Act. 
 
+
 # Notes to the _Superannuation (Resolution of Complaints) Act 1993_
 
 ### Note 1
 
 The _Superannuation (Resolution of Complaints) Act 1993_ as shown in this compilation comprises Act No. 80, 1993 amended as indicated in the Tables below.
 
-Part 7A ceased to have effect on  13 September 1999 (_see_ s. 48F and _Gazette_ 1999, No. S423) and was repealed by Act No. 116, 2003 on 28 November 2003.
+Part 7A ceased to have effect on 13 September 1999 (_see_ s. 48F and _Gazette_ 1999, No. S423) and was repealed by Act No. 116, 2003 on 28 November 2003.
 
 All relevant information pertaining to application, saving or transitional provisions prior to 29 June 1998 is not included in this compilation. For subsequent information _see_ Table A.
 
@@ -2760,11 +2757,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -2774,460 +2773,439 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Superannuation (Resolution of Complaints) Act 1993</div>
-  </td>
-  <td>
-    <div>80, 1993</div>
-  </td>
-  <td>
-    <div>30 Nov 1993</div>
-  </td>
-  <td>
-    <div>1 July 1994</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Industry (Supervision) Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>140, 1994</div>
-  </td>
-  <td>
-    <div>28 Nov 1994</div>
-  </td>
-  <td>
-    <div>Div. 1 (s. 49) and Div. 2 (ss. 50, 51) of Part 3 (ss. 
+<tbody>
+  <tr>
+    <td>
+      <div>Superannuation (Resolution of Complaints) Act 1993</div>
+    </td>
+    <td>
+      <div>80, 1993</div>
+    </td>
+    <td>
+      <div>30 Nov 1993</div>
+    </td>
+    <td>
+      <div>1 July 1994</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Industry (Supervision) Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>140, 1994</div>
+    </td>
+    <td>
+      <div>28 Nov 1994</div>
+    </td>
+    <td>
+      <div>Div. 1 (s. 49) and Div. 2 (ss. 50, 51) of Part 3 (ss. 
 49–51): <i>(a)</i> 
 Div. 5 (ss. 12, 13), Div. 12 (ss. 28–31) and Div. 15 (ss. 36–39) of Part 2: 1 Dec 1993 
 Div. 7 (ss. 17, 18), Div. 8 (ss. 19, 20), Div. 11 (ss. 26, 27) and Div. 17 (ss. 42, 43) of Part 2: 26 Dec 1994 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>Ss. 50 and 52</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Industry (Supervision) Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>144, 1995</div>
-  </td>
-  <td>
-    <div>12 Dec 1995</div>
-  </td>
-  <td>
-    <div>Schedule 5 (items 1–7, 10–12, 25–71, 73–78, 95(a)–(c), 96(a), (b), 97–102): Royal Assent <i>(b)</i> 
-Schedule 5 (items 8, 9, 13–24, 72, 79–94, 95(d), 96(c)): 19 Apr 1996 ( <i>see Gazette</i>1996, No. GN15) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>Sch. 5 (items 70, 76)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-  <td>
-    <div> </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 30): <i>(ba)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Retirement Savings Accounts (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>62, 1997</div>
-  </td>
-  <td>
-    <div>28 May 1997</div>
-  </td>
-  <td>
-    <div>2 June 1997 ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. S202)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Contributions Tax (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>71, 1997</div>
-  </td>
-  <td>
-    <div>5 June 1997</div>
-  </td>
-  <td>
-    <div>5 June 1997</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>191, 1997</div>
-  </td>
-  <td>
-    <div>7 Dec 1997</div>
-  </td>
-  <td>
-    <div>Schedule 7: Royal Assent <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act 1998</div>
-  </td>
-  <td>
-    <div>54, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>Schedule 17: (Parts 1, 2): 1 July 1998 <i>(d) 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>Ss. 50 and 52</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Industry (Supervision) Legislation Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>144, 1995</div>
+    </td>
+    <td>
+      <div>12 Dec 1995</div>
+    </td>
+    <td>
+      <div>Schedule 5 (items 1–7, 10–12, 25–71, 73–78, 95(a)–(c), 96(a), (b), 97–102): Royal Assent <i>(b)</i> 
+Schedule 5 (items 8, 9, 13–24, 72, 79–94, 95(d), 96(c)): 19 Apr 1996 ( <i>see Gazette</i>1996, No. GN15) <i>(b)</i> 
+</div>
+    </td>
+    <td>
+      <div>Sch. 5 (items 70, 76)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+    <td>
+      <div> </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2002</div>
+    </td>
+    <td>
+      <div>63, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td>
+      <div>Schedule 2 (item 30): <i>(ba)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Retirement Savings Accounts (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>62, 1997</div>
+    </td>
+    <td>
+      <div>28 May 1997</div>
+    </td>
+    <td>
+      <div>2 June 1997 ( <i>see</i>s. 2 and <i>Gazette</i>1997, No. S202)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Contributions Tax (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>71, 1997</div>
+    </td>
+    <td>
+      <div>5 June 1997</div>
+    </td>
+    <td>
+      <div>5 June 1997</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>191, 1997</div>
+    </td>
+    <td>
+      <div>7 Dec 1997</div>
+    </td>
+    <td>
+      <div>Schedule 7: Royal Assent <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act 1998</div>
+    </td>
+    <td>
+      <div>54, 1998</div>
+    </td>
+    <td>
+      <div>29 June 1998</div>
+    </td>
+    <td>
+      <div>Schedule 17: (Parts 1, 2): 1 July 1998 <i>(d) 
+
  </i>Schedule 17 (Part 3): <i>(d)</i></div>
-  </td>
-  <td>
-    <div>Sch. 19 (item 36) \[ <i>see</i>Table A] 
-S. 2(17) (am. by 24, 2000, Sch. 11 \[item 2])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>24, 2000</div>
-  </td>
-  <td>
-    <div>3 Apr 2000</div>
-  </td>
-  <td>
-    <div>Schedule 11 (items 2, 3): <i>(da)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment (Resolution of Complaints) Act 1998</div>
-  </td>
-  <td>
-    <div>118, 1998</div>
-  </td>
-  <td>
-    <div>11 Dec 1998</div>
-  </td>
-  <td>
-    <div>11 Dec 1998</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>38, 1999</div>
-  </td>
-  <td>
-    <div>31 May 1999</div>
-  </td>
-  <td>
-    <div>Schedule 3: Royal Assent <i>(e)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation Legislation Amendment Act (No. 3) 1999</div>
-  </td>
-  <td>
-    <div>121, 1999</div>
-  </td>
-  <td>
-    <div>8 Oct 1999</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 38–40, 42(3)): Royal Assent <i>(f)</i></div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 
-42(3)) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
-  </td>
-  <td>
-    <div>146, 1999</div>
-  </td>
-  <td>
-    <div>11 Nov 1999</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 908, 909): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
-  </td>
-  <td>
-    <div>160, 2000</div>
-  </td>
-  <td>
-    <div>21 Dec 2000</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 21): Royal Assent 
-Remainder: 18 Jan 2001</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Law Legislation Amendment (Superannuation) Act 2001</div>
-  </td>
-  <td>
-    <div>61, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>28 Dec 2002</div>
-  </td>
-  <td>
-    <div>S. 4 
+    </td>
+    <td>
+      <div>Sch. 19 (item 36) \[ <i>see</i>Table A] 
+S. 2(17) (am. by 24, 2000, Sch. 11 \[item 2]) 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 2000</div>
+    </td>
+    <td>
+      <div>24, 2000</div>
+    </td>
+    <td>
+      <div>3 Apr 2000</div>
+    </td>
+    <td>
+      <div>Schedule 11 (items 2, 3): <i>(da)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment (Resolution of Complaints) Act 1998</div>
+    </td>
+    <td>
+      <div>118, 1998</div>
+    </td>
+    <td>
+      <div>11 Dec 1998</div>
+    </td>
+    <td>
+      <div>11 Dec 1998</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>38, 1999</div>
+    </td>
+    <td>
+      <div>31 May 1999</div>
+    </td>
+    <td>
+      <div>Schedule 3: Royal Assent <i>(e)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation Legislation Amendment Act (No. 3) 1999</div>
+    </td>
+    <td>
+      <div>121, 1999</div>
+    </td>
+    <td>
+      <div>8 Oct 1999</div>
+    </td>
+    <td>
+      <div>Schedule 2 (items 38–40, 42(3)): Royal Assent <i>(f)</i></div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 
+42(3)) \[ <i>see</i>Table A] 
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Public Employment (Consequential and Transitional) Amendment Act 1999</div>
+    </td>
+    <td>
+      <div>146, 1999</div>
+    </td>
+    <td>
+      <div>11 Nov 1999</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 908, 909): 5 Dec 1999 ( <i>see Gazette</i>1999, No. S584) <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment Act (No. 1) 2000</div>
+    </td>
+    <td>
+      <div>160, 2000</div>
+    </td>
+    <td>
+      <div>21 Dec 2000</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 21): Royal Assent 
+Remainder: 18 Jan 2001 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Family Law Legislation Amendment (Superannuation) Act 2001</div>
+    </td>
+    <td>
+      <div>61, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>28 Dec 2002</div>
+    </td>
+    <td>
+      <div>S. 4 
 S. 5 (as am. by 86, 2002, 
-Sch. 5 \[item 10]) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002</div>
-  </td>
-  <td>
-    <div>86, 2002</div>
-  </td>
-  <td>
-    <div>11 Oct 2002</div>
-  </td>
-  <td>
-    <div>Ss. 1–3: Royal Assent 
-Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Services Reform (Consequential Provisions) Act 2001</div>
-  </td>
-  <td>
-    <div>123, 2001</div>
-  </td>
-  <td>
-    <div>27 Sept 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 346): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) <i>(h)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001</div>
-  </td>
-  <td>
-    <div>146, 2001</div>
-  </td>
-  <td>
-    <div>1 Oct 2001</div>
-  </td>
-  <td>
-    <div>S. 4 and Schedule 1: 15 Dec 2001 <i>(i)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2002</div>
-  </td>
-  <td>
-    <div>63, 2002</div>
-  </td>
-  <td>
-    <div>3 July 2002</div>
-  </td>
-  <td>
-    <div>Schedule 1 (items 31, 32): <i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
-  </td>
-  <td>
-    <div>111, 2003</div>
-  </td>
-  <td>
-    <div>12 Nov 2003</div>
-  </td>
-  <td>
-    <div>12 Nov 2003</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 25) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment Act (No. 1) 2003</div>
-  </td>
-  <td>
-    <div>116, 2003</div>
-  </td>
-  <td>
-    <div>27 Nov 2003</div>
-  </td>
-  <td>
-    <div>Schedule 7: 28 Nov 2003</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2007</div>
-  </td>
-  <td>
-    <div>8, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 31): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (Simplified Superannuation) Act 2007</div>
-  </td>
-  <td>
-    <div>9, 2007</div>
-  </td>
-  <td>
-    <div>15 Mar 2007</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 9, 10, 16): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 16) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+Sch. 5 \[item 10]) \[ <i>see</i>Table A] 
+
+</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Proceeds of Crime (Consequential Amendments and Transitional Provisions) Act 2002</div>
+    </td>
+    <td>
+      <div>86, 2002</div>
+    </td>
+    <td>
+      <div>11 Oct 2002</div>
+    </td>
+    <td>
+      <div>Ss. 1–3: Royal Assent 
+Remainder: 1 Jan 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2002, No. GN44) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Services Reform (Consequential Provisions) Act 2001</div>
+    </td>
+    <td>
+      <div>123, 2001</div>
+    </td>
+    <td>
+      <div>27 Sept 2001</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 346): 11 Mar 2002 ( <i>see Gazette</i>2001, No. GN42) <i>(h)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001</div>
+    </td>
+    <td>
+      <div>146, 2001</div>
+    </td>
+    <td>
+      <div>1 Oct 2001</div>
+    </td>
+    <td>
+      <div>S. 4 and Schedule 1: 15 Dec 2001 <i>(i)</i></div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 2002</div>
+    </td>
+    <td>
+      <div>63, 2002</div>
+    </td>
+    <td>
+      <div>3 July 2002</div>
+    </td>
+    <td>
+      <div>Schedule 1 (items 31, 32): <i>(j)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003</div>
+    </td>
+    <td>
+      <div>111, 2003</div>
+    </td>
+    <td>
+      <div>12 Nov 2003</div>
+    </td>
+    <td>
+      <div>12 Nov 2003</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 25) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment Act (No. 1) 2003</div>
+    </td>
+    <td>
+      <div>116, 2003</div>
+    </td>
+    <td>
+      <div>27 Nov 2003</div>
+    </td>
+    <td>
+      <div>Schedule 7: 28 Nov 2003</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     Subsection 2(4) of the _Superannuation Industry (Supervision) Legislation Amendment Act 1994_ provides as follows:
 
@@ -3307,25 +3285,27 @@ _(ba)_  Subsection 2(1) (item 59) of the _Statute Law Revision Act 2002_ pro
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      59\. Schedule 2, item 30
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the time specified in the
-        <i>Superannuation Industry (Supervision) Legislation Amendment Act 1995</i>for
-        the commencement of paragraph 102(b) of Schedule 5 to that Act
-    </div>
-  </td>
-  <td>
-    <div>
-      12 December 1995
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        59\. Schedule 2, item 30
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after the time specified in the
+          <i>Superannuation Industry (Supervision) Legislation Amendment Act 1995</i>for
+          the commencement of paragraph 102(b) of Schedule 5 to that Act
+      </div>
+    </td>
+    <td>
+      <div>
+        12 December 1995
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
 _(c)_ The _Superannuation (Resolution of Complaints) Act 1993_ was amended by Schedule 7 only of the _Superannuation Contributions and Termination Payments Taxes Legislation Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
@@ -3384,6 +3364,38 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
 
 <thead>
   <tr>
+    <td colspan="3">
+      <div>
+        <b>
+          Commencement information
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        <b>
+          Column 1
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 2
+        </b>
+      </div>
+    </td>
+    <td>
+      <div>
+        <b>
+          Column 3
+        </b>
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td>
       <div>
         <b>
@@ -3407,44 +3419,47 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      25\. Schedule 1, item 31
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after subitem 95(b) of Schedule 5 to the
-        <i>Superannuation Industry (Supervision) Legislation Amendment Act 1995</i>commenced
-    </div>
-  </td>
-  <td>
-    <div>
-      12 December 1995
-    </div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>
-      26\. Schedule 1, item 32
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after subitem 95(c) of Schedule 5 to the
-        <i>Superannuation Industry (Supervision) Legislation Amendment Act 1995</i>commenced
-    </div>
-  </td>
-  <td>
-    <div>
-      12 December 1995
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        25\. Schedule 1, item 31
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after subitem 95(b) of Schedule 5 to the
+          <i>Superannuation Industry (Supervision) Legislation Amendment Act 1995</i>commenced
+      </div>
+    </td>
+    <td>
+      <div>
+        12 December 1995
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>
+        26\. Schedule 1, item 32
+      </div>
+    </td>
+    <td>
+      <div>
+        Immediately after subitem 95(c) of Schedule 5 to the
+          <i>Superannuation Industry (Supervision) Legislation Amendment Act 1995</i>commenced
+      </div>
+    </td>
+    <td>
+      <div>
+        12 December 1995
+      </div>
+    </td>
+  </tr>
+</tbody></table>
 
  
+
 
 ## Table of Amendments
 
@@ -3469,934 +3484,937 @@ _(j)_      Subsection 2(1) (items 25 and 26)  of the _Statute Law 
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 140, 1994; No. 144, 1995; Nos. 62, 71 and 191, 1997; Nos. 54 and 118, 1998; Nos. 61 and 123, 2001; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note 2 to s. 3(2)</div>
-  </td>
-  <td>
-    <div>rs. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 121, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 4</div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>rs. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AA</div>
-  </td>
-  <td>
-    <div>ad. No. 146, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 140, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4B</div>
-  </td>
-  <td>
-    <div>ad. No. 61, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 121, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 5</div>
-  </td>
-  <td>
-    <div>am. No. 121, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5A</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 160, 2000; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 38, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 8</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 9</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 62, 1997; No. 38, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 11</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 118, 1998; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 140, 1994; No. 144, 1995; No. 118, 1998; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997; No. 118, 1998; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14AA</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 14</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 38, 1999; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 14A</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 15</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15A–15C</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15CA</div>
-  </td>
-  <td>
-    <div>ad. No. 71, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 191, 1997; No. 111, 2003; No. 9, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15D</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15E–15H</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 15J, 15K</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>rs. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 62 and 71, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17A</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 62 and 71, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; Nos. 62 and 71, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 19</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; Nos. 62 and 71, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22A</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>rs. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>rs. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24AA</div>
-  </td>
-  <td>
-    <div>ad. No. 71, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 146, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24A</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. Nos. 62 and 71, 1997; No. 38, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 71, 1997; No. 146, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; Nos. 62 and 71, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28</div>
-  </td>
-  <td>
-    <div>rs. No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 30</div>
-  </td>
-  <td>
-    <div>am. No. 118, 1998; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part 6</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32</div>
-  </td>
-  <td>
-    <div>am. No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 6</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37</div>
-  </td>
-  <td>
-    <div>rs. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37A</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 38, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37B</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37C</div>
-  </td>
-  <td>
-    <div>ad. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 37CA</div>
-  </td>
-  <td>
-    <div>ad. No. 71, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 37D–37G</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 146, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 43</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 44</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 47</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; Nos. 62 and 71, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 7A</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 48A–48F</div>
-  </td>
-  <td>
-    <div>ad. No. 118, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 1 of Part 8</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 49, 50</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 51</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 54</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 55–58</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; Nos. 62 and 71, 1997; No. 118, 1998; No. 63, 2002; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 60</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; No. 8, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 61</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 62</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998; No. 146, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995; Nos. 54 and 118, 1998; No. 38, 1999; No. 146, 2001; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 64</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 64A</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64A</div>
-  </td>
-  <td>
-    <div>ad. No. 62, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 65</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 144, 1995 (as am. by No. 63, 2002); No. 54, 1998; No. 116, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 66</div>
-  </td>
-  <td>
-    <div>am. No. 146, 2001</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 140, 1994; No. 144, 1995; Nos. 62, 71 and 191, 1997; Nos. 54 and 118, 1998; Nos. 61 and 123, 2001; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note 2 to s. 3(2)</div>
+    </td>
+    <td>
+      <div>rs. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 121, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 4</div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>rs. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AA</div>
+    </td>
+    <td>
+      <div>ad. No. 146, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 140, 1994</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4B</div>
+    </td>
+    <td>
+      <div>ad. No. 61, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 121, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 5</div>
+    </td>
+    <td>
+      <div>am. No. 121, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5A</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 160, 2000; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 38, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 8</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 9</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 62, 1997; No. 38, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 11</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 118, 1998; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 12</div>
+    </td>
+    <td>
+      <div>am. No. 140, 1994; No. 144, 1995; No. 118, 1998; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997; No. 118, 1998; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14AA</div>
+    </td>
+    <td>
+      <div>ad. No. 118, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 14</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 38, 1999; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 14A</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 15</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15A–15C</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15CA</div>
+    </td>
+    <td>
+      <div>ad. No. 71, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 191, 1997; No. 111, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15D</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15E–15H</div>
+    </td>
+    <td>
+      <div>ad. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 15J, 15K</div>
+    </td>
+    <td>
+      <div>ad. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>rs. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 62 and 71, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17A</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 62 and 71, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; Nos. 62 and 71, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 19</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; Nos. 62 and 71, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22A</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>rs. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>rs. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24AA</div>
+    </td>
+    <td>
+      <div>ad. No. 71, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 146, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24A</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. Nos. 62 and 71, 1997; No. 38, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 71, 1997; No. 146, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; Nos. 62 and 71, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 28</div>
+    </td>
+    <td>
+      <div>rs. No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 30</div>
+    </td>
+    <td>
+      <div>am. No. 118, 1998; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Part 6</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 32</div>
+    </td>
+    <td>
+      <div>am. No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 2 of Part 6</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37</div>
+    </td>
+    <td>
+      <div>rs. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37A</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 38, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37B</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37C</div>
+    </td>
+    <td>
+      <div>ad. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 37CA</div>
+    </td>
+    <td>
+      <div>ad. No. 71, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 37D–37G</div>
+    </td>
+    <td>
+      <div>ad. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 146, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 43</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 44</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 47</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; Nos. 62 and 71, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 7A</div>
+    </td>
+    <td>
+      <div>ad. No. 118, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 48A–48F</div>
+    </td>
+    <td>
+      <div>ad. No. 118, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 1 of Part 8</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 49, 50</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 51</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 54</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 55–58</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 59</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; Nos. 62 and 71, 1997; No. 118, 1998; No. 63, 2002; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 60</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 61</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 62</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998; No. 146, 1999</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 63</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995; Nos. 54 and 118, 1998; No. 38, 1999; No. 146, 2001; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 64</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 64A</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64A</div>
+    </td>
+    <td>
+      <div>ad. No. 62, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 65</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 65</div>
+    </td>
+    <td>
+      <div>am. No. 144, 1995 (as am. by No. 63, 2002); No. 54, 1998; No. 116, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 66</div>
+    </td>
+    <td>
+      <div>am. No. 146, 2001</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -4430,7 +4448,9 @@ and in force immediately before the APRA commencement, continues to have effect 
 
 has effect after the APRA commencement as if it had been done in relation to ASIC.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation Legislation Amendment Act (No. 3) 1999 (No. 121, 1999)_
 
@@ -4446,7 +4466,9 @@ _Superannuation Legislation Amendment Act (No. 3) 1999 (No. 121, 1999)_
 
 as if the amendments of that Act made by this Schedule had not happened.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Family Law Legislation Amendment (Superannuation) Act 2001 (No. 61, 2001)_
 
@@ -4478,7 +4500,9 @@ _Family Law Legislation Amendment (Superannuation) Act 2001 (No. 61, 2001)_
 
              (5)  Part VIIIB of the Family Law Act does not apply in relation to a financial agreement that was made before the startup time.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 2001 (No. 146, 2001)_
 
@@ -4488,7 +4512,9 @@ _Treasury Legislation Amendment (Application of Criminal Code) Act (No. 2) 200
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 1pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Superannuation (Government Co-contribution for Low Income Earners) (Consequential Amendments) Act 2003 (No. 111, 2003)_
 
@@ -4498,17 +4524,6 @@ _Superannuation (Government Co-contribution for Low Income Earners) (Consequenti
 
 The amendments made by Part 1 of this Schedule apply in relation to contributions made to complying superannuation funds and RSAs on or after 1 July 2003.
 
-* * *
-
-_Tax Laws Amendment (Simplified Superannuation) Act 2007 (No. 9, 2007)_
-
-## Schedule 4
-
-## 16  Application
-
-            The amendments made by this Schedule apply in relation to things that are done and events that occur on or after 1 July 2007.
-
-_Note:       For transitional rules about provisions related to the application of Division 292 of the Income Tax Assessment Act 1997 in the period from 10 May 2006 to 30 June 2007, see section 292-80 of the Income Tax (Transitional Provisions) Act 1997._
 
  
 
