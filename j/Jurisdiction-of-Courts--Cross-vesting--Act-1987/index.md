@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2007C00087/Html/JurisCourtCrosVest1987WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00640/Html/JurisCourtCrosVest1987WD02_image001.gif)
 
 # Jurisdiction of Courts (Cross-vesting) Act 1987
 
 **Act No. 24 of 1987 as amended**
 
-This compilation was prepared on 1 March 2007
+This compilation was prepared on 27 October 2006
  taking into account amendments up to Act No. 113 of 2006
 
 The text of any of those amendments not in force 
@@ -22,7 +22,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Interpretation and application                                                             2
+[3](#3).            Interpretation and application                                                             1
 
 [4](#4).            Additional jurisdiction of certain courts                                              3
 
@@ -30,7 +30,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [6](#6).            Special federal matters: general rules                                                   9
 
-[6A](#6A).         Special federal matters: Commonwealth authorities or officers acting under the laws of States             12
+[6A](#6A).         Special federal matters: Commonwealth authorities or officers acting under the laws of States             11
 
 [7](#7).            Institution and hearing of appeals                                                     13
 
@@ -55,6 +55,8 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Schedule** 
 
 **Notes** 
+
+ 
 
 ## An Act relating to the cross-vesting of certain jurisdiction
 
@@ -94,7 +96,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and the House of Representa
 
                     <a name="special-feral-matter"></a>**_special federal matter_** means:
 
-                     (a)  a matter arising under Part IV of the _Trade Practices Act 1974_(other than under section 45D, 45DA, 45DB, 45E or 45EA); or
+                     (a)  a matter arising under Part IV of the _Trade Practices Act 1974_(other than under section 45D, 45DA, 45DB, 45E or 45EA); or
 
                     (aa)  a matter arising under the Competition Code (as defined in section 150A of the _Trade Practices Act 1974_) of the Australian Capital Territory or the Northern Territory; or
 
@@ -522,7 +524,7 @@ the reference in that provision to the Federal Court, the Family Court or the Su
 
                    This Act shall be read and construed subject to the Constitution, and so as not to exceed the legislative power of the Commonwealth, to the intent that if this Act would, but for this section, have been construed as being in excess of that power, it shall nevertheless be valid to the extent to which it is not in excess of that power.
 
-##### <a id="16"></a>16  Suspension or cessation of operation of Act
+##### <a id="16"></a>16  Suspension or cessation of operation of Act
 
              (1)  Subject to subsection (2), the Governor-General may, if a Proclamation has not been made under subsection (4), by Proclamation, declare that the operation of this Act is suspended from a day (being a day not earlier than 3 years after the commencement of this Act) specified in the Proclamation and, where such a Proclamation is made, this Act ceases to be in force from that day until a Proclamation is made under subsection (3) revoking the first-mentioned Proclamation.
 
@@ -563,6 +565,8 @@ _Health Insurance Act 1973_
 _Liquid Fuel Emergency Act 1984_
 
 _Patents Act 1990_
+
+_Petroleum Retail Marketing Franchise Act 1980_
 
 _Referendum (Machinery Provisions) Act 1984_
 
@@ -931,8 +935,7 @@ Remainder: Royal Assent</div>
     <div>23 Oct 2006</div>
   </td>
   <td>
-    <div>Schedules 1 and 2: 1 Mar 2007 
-Remainder: Royal Assent</div>
+    <div>Schedule 2: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 2 (item 2) \[ <i>see</i>Table A]</div>
@@ -961,7 +964,7 @@ _(e)_     The _Jurisdiction of Courts(Cross-vesting) Act 1987_ was amend
 
                  (2)   The amendments made in Parts 1, 2, 3, 4, 5, 6, 7, 8, 9 and 10 of Schedule 1 commence on the commencement of section 31 of the _Family Law Reform Act 1995_.
 
-_(f)_      The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by Schedule 17 (items 12 and 13) and Schedule 19 (item 24) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsections 2(1) and (2) of which provide as follows:
+_(f)_      The _Jurisdiction of Courts (Cross-vesting) Act 1987_ was amended by Schedule 17 (items 12 and 13) and Schedule 19 (item 24) only of the _Workplace Relations and Other Legislation Amendment Act 1996_, subsections 2(1) and (2) of which provide as follows:
 
                  (1)   Subject to this section, this Act commences on the day on which it receives the Royal Assent.
 
@@ -1067,7 +1070,7 @@ _(j)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
     <div>S. 3</div>
   </td>
   <td>
-    <div>am. No. 165, 1992; No. 98, 1993; Nos. 88 and 140, 1995; No. 60, 1996; No. 34, 1997; No. 57, 2000; No. 135, 2001</div>
+    <div>am. No. 165, 1992; No. 98, 1993; Nos. 88 and 140, 1995; No. 60, 1996; No. 34, 1997; No. 57, 2000; No. 135, 2001</div>
   </td>
 </tr>
 <tr>
@@ -1147,15 +1150,31 @@ _(j)_      Subsection 2(1) (item 2) of the _Designs (Consequential A
     <div>Schedule</div>
   </td>
   <td>
-    <div>am. No. 83, 1990; No. 148, 2003; No. 113, 2006</div>
+    <div>am. No. 83, 1990; No. 148, 2003</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Petroleum Retail Legislation Repeal Act 2006 (No. 113, 2006)_
+
+The following amendment commences on 1 March 2007:
+
+## Schedule 2
+
+## 1  Schedule
+
+Omit “_Petroleum Retail Marketing Franchise Act 1980_”.
+
+As at 27 October 2006 the amendment is not incorporated in this compilation.
 
 ## Table A
 
 ### Application, saving or transitional provisions
 
 _Petroleum Retail Legislation Repeal Act 2006 (No. 113, 2006)_
+
+The following provision commences on 1 March 2007:
 
 ## Schedule 2
 
