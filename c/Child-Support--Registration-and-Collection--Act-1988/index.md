@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2012C00888/Html/5625c77f-a754-448d-a78b-c46391d21d11_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00613/Html/27b7eace-e01a-4060-a21e-4169b4725af2_files/image001.gif)
 
 # Child Support (Registration and Collection) Act 1988
 
 **Act No. 3 of 1988 as amended**
 
-This compilation was prepared on 30 November 2012
- taking into account amendments up to Act No. 154 of 2012
+This compilation was prepared on 10 August 2012
+ taking into account amendments up to Act No. 98 of 2012
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -2063,8 +2064,6 @@ Particulars of the child support assessment, court order or maintenance agreemen
 
                       (i)  particulars of any terms and conditions of the court order or agreement that the Registrar considers necessary or desirable to include in the entry to ensure that all the terms and conditions of the order or agreement relating to the liability are fully given effect to under this Act.
 
-          (1A)  To avoid doubt, the reference to 2 or more persons in paragraph (1)(g) does not include a reference to 2 or more children in relation to whom a single administrative assessment applies (see section 67 of the Assessment Act).
-
 Particulars as to the payment period and payment rate
 
              (2)  The entry in the Register must also include particulars relating to the payment rate and payment period in respect of the liability. Those particulars are as follows:
@@ -3530,7 +3529,7 @@ without allocating the amount, or the sum of the amounts, towards the discharge 
 
 ##### <a id="65AA"></a>65AA  Application of this Part to those engaged under a contract for services
 
-                   This Part applies to a person (the **_independent contractor_**) engaged under a contract for services as if:
+                   This Part applies to a person (the **_independent contractor_**) engaged under a contract for services as if:
 
                      (a)  a reference to an employee includes a reference to the independent contractor; and
 
@@ -3712,7 +3711,7 @@ then:
 
              (5)  The remaining lump sum payment, for 1 July in a year of income, is indexed as follows:
 
-![](http://www.comlaw.gov.au/Details/C2012C00888/Html/5625c77f-a754-448d-a78b-c46391d21d11_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00613/Html/27b7eace-e01a-4060-a21e-4169b4725af2_files/image002.gif)
 
 where:
 
@@ -3720,7 +3719,7 @@ where:
 
                     <a name="index-factor"></a>**_indexation factor_** means:
 
-![](http://www.comlaw.gov.au/Details/C2012C00888/Html/5625c77f-a754-448d-a78b-c46391d21d11_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00613/Html/27b7eace-e01a-4060-a21e-4169b4725af2_files/image003.gif)
 
                     <a name="index-number"></a>**_index number_** for a quarter is the All Groups Consumer Price Index number that is the weighted average of the 8 capital cities and is published by the Australian Statistician in respect of that quarter.
 
@@ -4664,7 +4663,7 @@ Note:          The Account was established by subsection 5(3) 
 
 ### Division 2—Payments to payees
 
-##### <a id="76"></a>76  Entitlement of payees to be paid collected amounts
+##### <a id="76"></a>76  Entitlement of payees to be paid collected amounts
 
              (1)  Subject to subsection (2) of this section, subsection 79(2) and sections 79A and 79B, every payee of a registered maintenance liability is entitled to be paid, on or before the first Wednesday following the end of each calendar month (in this section called the **_current month_**), an amount equal to the aggregate of:
 
@@ -7831,7 +7830,7 @@ within a specified time or at a specified place and time.
 
 ##### <a id="121B"></a>121B  Giving information to overseas authorities
 
-                   If:
+                   If:
 
                      (a)  the Registrar receives a request from an overseas authority for information about a person; and
 
@@ -8239,7 +8238,7 @@ Schedule 12 (items 6–9): 1 July 1999 <i>(j)
  </i>Schedule 22 (item 9): Royal Assent <i>(j)</i></div>
   </td>
   <td>
-    <div>S. 4(2), Sch. 4 (item 8) and Sch. 19 (item 20)</div>
+    <div>S. 4(2), Sch. 4 (item 8) and Sch. 19 (item 20)</div>
   </td>
 </tr>
 <tr>
@@ -8553,7 +8552,7 @@ Schedule 5 (items 9–17): Royal Assent</div>
   <td>
     <div>S. 4, Sch. 4 (item 2) and Sch. 5 (items 
 18, 19, 21) 
-Sch. 5 (item 20) (am. by 100, 2011, Sch. 1 \[item 4])</div>
+Sch. 5 (item 20) (am. by 100, 2011, Sch. 1 \[item 4])</div>
   </td>
 </tr>
 <tr>
@@ -8628,12 +8627,12 @@ Schedule 5 (items 30–72): <i>(s)</i>
 Remainder: Royal Assent</div>
   </td>
   <td>
-    <div>Sch. 3 (items 77(1)–(6), 78(2), (3), 79, 80), Sch. 4 (items 44–46), Sch. 5 (items 74(1), 
+    <div>Sch. 3 (items 77(1)–(6), 78(2), (3), 79, 80), Sch. 4 (items 44–46), Sch. 5 (items 74(1), 
 74(3)–(5) 
 75(1)–(5), 76, 77) and Sch. 7 (items 
 13–15) 
 Sch. 2 (item 115) (am. by 82, 2007, Sch. 1 \[item 99]) 
-Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
+Sch. 5 (item 73) (rs. by 63, 2008, Sch. 6 \[item 16]) 
 Sch. 5 (item 73A) (ad. by 63, 2008, Sch. 6 \[item 16]) 
 Sch. 5 (item 74(2)) (am. by 63, 2008, Sch. 6 \[item 17])</div>
   </td>
@@ -8797,9 +8796,9 @@ Schedule 1 (item 212): <i>(t)</i>
 Schedule 2 (items 45–100): 19 July 2007</div>
   </td>
   <td>
-    <div>S. 4, Sch. 1 (items 
-80–91) and Sch. 4 (item 46) 
-S. 2(1) (am. by 73, 2008, Sch. 2 \[item 16])</div>
+    <div>S. 4, Sch. 1 (items 
+80–91) and Sch. 4 (item 46) 
+S. 2(1) (am. by 73, 2008, Sch. 2 \[item 16])</div>
   </td>
 </tr>
 <tr>
@@ -9061,24 +9060,6 @@ Schedule 4 (items 2, 3): <i>(v)</i></div>
   </td>
   <td>
     <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012</div>
-  </td>
-  <td>
-    <div>154, 2012</div>
-  </td>
-  <td colspan="2">
-    <div>17 Nov 2012</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 29–86, 163–169): \[ <i>see</i>Note 2 and Table A] 
-Schedule 4 (item 3): Royal Assent</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 163–169)</div>
   </td>
 </tr>
 <tr height="0">
@@ -10099,7 +10080,7 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
     <div></div>
   </td>
   <td>
-    <div>am. No. 82, 2007; No. 154, 2012</div>
+    <div>am. No. 82, 2007</div>
   </td>
 </tr>
 <tr>
@@ -13360,388 +13341,6 @@ _(v)_     Subsection 2(1) (items 2 and 6) of the _Child Support and Fami
   </td>
 </tr></table>
 
-### Note 2
-
-_Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012 (No. 154, 2012)_
-
-The following amendments commence on 15 December 2012:
-
-## Schedule 3
-
-## 29  Subsection 4(1)
-
-Insert:
-
-                    <a name="human-servic-depart"></a>**_Human Services Department_** means the Department administered by the Minister administering the _Human Services (Centrelink) Act 1997_.
-
-## 30  Subsection 4(1) (at the end of the definition of _SSAT_)
-
-Add:
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
-
-## 31  Subsection 4(1)
-
-Insert:
-
-                    <a name="ssat-member"></a>**_SSAT member_** means a member of the SSAT (and includes the SSAT Principal Member).
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
-
-## 32  Subsection 4(1) (at the end of the definition of _SSAT Principal Member_)
-
-Add:
-
-Note:          Schedule 3 to the _Social Security (Administration) Act 1999_ deals with the constitution and membership of the SSAT.
-
-## 33  Paragraph 16(2AB)(a)
-
-Omit “proceedings”, substitute “review”.
-
-## 34  Paragraph 16(2AB)(b)
-
-Omit “proceedings concerned or is, or is alleged to be, in any other way concerned in the matter to which the proceedings concerned relate”, substitute “review concerned or is, or is alleged to be, in any other way concerned in the matter to which the review concerned relates”.
-
-## 35  Paragraph 16(2AB)(c)
-
-Omit “proceedings”, substitute “review”.
-
-## 36  After subsection 16(3)
-
-Insert:
-
-          (3A)  Subsection (2) does not prevent an SSAT member from communicating any protected information to a person, if the information concerns a threat to the life, health or welfare of a person and either of the following applies:
-
-                     (a)  the member believes on reasonable grounds that the communication is necessary to prevent or lessen the threat;
-
-                     (b)  there is reason to suspect that the threat may afford evidence that an offence may be, or has been, committed against a person and the member communicates the information for the purpose of preventing, investigating or prosecuting such an offence.
-
-## 37  Section 88
-
-Before “In”, insert “(1)”.
-
-## 38  At the end of section 88
-
-Add:
-
-             (2)  That objective must also be pursued by the SSAT Principal Member in performing or exercising his or her functions and powers under this Act.
-
-## 39  Subparagraph 94(1)(a)(ii)
-
-Omit “Department”, substitute “Human Services Department”.
-
-## 40  Subsection 95(1)
-
-Omit “Department” (wherever occurring), substitute “Human Services Department”.
-
-## 41  Subsection 96(1)
-
-Omit “(1)”.
-
-## 42  Subsections 96(2) and (3)
-
-Repeal the subsections.
-
-## 43  Subsection 97(1A)
-
-Omit “subsection 96(1)”, substitute “section 96”.
-
-## 44  Subsection 97(2)
-
-Omit “or subsection 95(5) or 96(1)”, substitute “, subsection 95(5) or section 96”.
-
-## 45  Subsection 98(1)
-
-Omit “subsection 96(1)”, substitute “section 96”.
-
-## 46  After paragraph 100(1)(c)
-
-Insert:
-
-                    (ca)  the applicant has been removed from the review under subsection 101(5) and all of the remaining parties consent to the dismissal; or
-
-## 47  Paragraph 100(1)(f)
-
-Omit “proceeding”, substitute “review”.
-
-## 48  At the end of section 100
-
-Add:
-
-             (3)  If the SSAT Principal Member dismisses an application under subsection (1) (other than under paragraph (1)(b) or (f)), a party to the review may:
-
-                     (a)  within 28 days after receiving notification that the application has been dismissed; or
-
-                     (b)  within such longer period as the SSAT Principal Member, in special circumstances, allows;
-
-request that the SSAT Principal Member reinstate the application.
-
-             (4)  If the SSAT Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
-
-             (5)  If it appears to the SSAT Principal Member that an application has been dismissed under subsection (1) in error, he or she may, on the request of a party to the review or on his or her own initiative, reinstate the application and give such directions as he or she considers appropriate in the circumstances.
-
-## 49  Subsection 100A(2)
-
-Omit “SSAT is taken to have dismissed the application without proceeding to review the decision”, substitute “SSAT Principal Member is taken to have dismissed the application”.
-
-## 50  Subsections 100A(3), (4) and (5)
-
-Repeal the subsections, substitute:
-
-             (3)  If the SSAT Principal Member dismisses an application under subsection (2), a party to the review may:
-
-                     (a)  within 28 days after receiving notification that the application has been dismissed; or
-
-                     (b)  within such longer period as the SSAT Principal Member, in special circumstances, allows;
-
-request that the SSAT Principal Member reinstate the application.
-
-             (4)  If the SSAT Principal Member considers it appropriate to do so, he or she may reinstate the application and give such directions as he or she considers appropriate in the circumstances.
-
-## 51  Division 3A of Part VIIA (heading)
-
-Repeal the heading, substitute:
-
-### Division 3A—Directions hearings
-
-## 52  Section 103 (heading)
-
-Repeal the heading, substitute:
-
-##### <a id="103"></a>103  Directions hearings
-
-## 53  Subsection 103(1)
-
-Omit “conferences”, substitute “directions hearings”.
-
-## 54  Subsection 103(2)
-
-Omit “conference”, substitute “directions hearing”.
-
-## 55  At the end of subsection 103(2) (before the note)
-
-Add:
-
-            ; and (d)  give directions about what information is to be given to the SSAT.
-
-## 56  Subsection 103(2) (note)
-
-Omit “pre‑hearing conference”, substitute “directions hearing”.
-
-## 57  Paragraph 103A(1)(c)
-
-Omit “pre‑hearing conference”, substitute “directions hearing”.
-
-## 58  Subsection 103C(2)
-
-Repeal the subsection, substitute:
-
-             (2)  A party to a review may, with the permission of the SSAT Principal Member, have another person make submissions to the SSAT on the party’s behalf.
-
-          (2A)  In deciding whether to grant permission under subsection (2), the SSAT Principal Member must have regard to:
-
-                     (a)  the wishes of the parties; and
-
-                     (b)  the need to protect their privacy.
-
-## 59  Subsection 103F(3)
-
-Omit “having regard to the objective laid down by section 88”.
-
-## 60  Subsection 103F(4) (heading)
-
-Repeal the heading, substitute:
-
-SSAT may order Registrar to make oral submissions etc.
-
-## 61  After paragraph 103F(4)(a)
-
-Insert:
-
-                    (aa)  written submissions to the SSAT; or
-
-## 62  Subsection 103F(4)
-
-Omit “having regard to the objective laid down by section 88”.
-
-## 63  Paragraph 103N(1)(b)
-
-Omit “allows; and”, substitute “allows.”.
-
-## 64  Paragraph 103N(1)(c)
-
-Repeal the paragraph.
-
-## 65  Section 103Q
-
-Repeal the section.
-
-## 66  Subsection 103R(2)
-
-Repeal the subsection, substitute:
-
-             (2)  Without limiting subsection (1), the SSAT may refuse to adjourn the hearing of a review if the hearing has already been adjourned on 2 or more occasions.
-
-## 67  Subsection 103W(1)
-
-Omit “a proceeding for a review (including at a pre‑hearing conference”, substitute “a review (including at a directions hearing”.
-
-## 68  Subparagraphs 103W(1)(a)(i) and (ii)
-
-Omit “proceeding” (wherever occurring), substitute “review”.
-
-## 69  Subsection 103W(2)
-
-Omit “in the proceeding”, substitute “on the review”.
-
-## 70  Paragraph 103W(2)(a)
-
-Omit “proceeding”, substitute “review”.
-
-## 71  Subsection 103W(3)
-
-Omit “part of the proceeding, or a matter arising out of the proceeding, the SSAT may in its decision in the proceeding give effect to the terms of the agreement without dealing at the hearing of the proceeding”, substitute “part of the review, or a matter arising out of the review, the SSAT may in its decision on the review give effect to the terms of the agreement without dealing at the hearing of the review”.
-
-## 72  At the end of section 103X
-
-Add:
-
-Copies to removed party
-
-             (6)  The SSAT must, in relation to any person who was removed as a party to the review under subsection 101(5):
-
-                     (a)  give the person a copy of the notice under paragraph (1)(a), within 14 days after making the decision; and
-
-                     (b)  if a notice under paragraph (3)(b) was not part of the notice under paragraph (1)(a)—do at least one of the following:
-
-                              (i)  give reasons for the decision orally to the person, within 14 days after making the decision;
-
-                             (ii)  give the person a copy of any notice under paragraph (3)(b), at the same time as giving it to the parties to the review.
-
-## 73  Subsection 103ZA(7)
-
-Repeal the subsection.
-
-## 74  At the end of Division 6 of Part VIIA
-
-Add:
-
-##### <a id="103ZAA"></a>103ZAA  Orders restricting disclosure of information
-
-             (1)  The SSAT Principal Member may make an order directing a person:
-
-                     (a)  not to disclose information specified in the order; or
-
-                     (b)  not to disclose information specified in the order except in the circumstances, or for the purposes, specified in the order; or
-
-                     (c)  not to disclose information specified in the order, except to a specified person or class of persons.
-
-             (2)  An order may only specify information that has been disclosed to the person for purposes relating to a review under this Part.
-
-             (3)  A person commits an offence if:
-
-                     (a)  the SSAT Principal Member makes an order under subsection (1) in relation to the person; and
-
-                     (b)  the person contravenes the order.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (4)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure referred to in subsection (2) was made.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (4): see subsection 13.3(3) of the _Criminal Code_.
-
-##### <a id="103ZAB"></a>103ZAB  Varying an order to permit certain disclosures
-
-             (1)  A person in relation to whom an order has been made under subsection 103ZAA(1) may request the SSAT Principal Member to vary the order to allow the person to disclose particular information specified in the order:
-
-                     (a)  in particular circumstances or for particular purposes; or
-
-                     (b)  to a particular person or class of persons.
-
-             (2)  The SSAT Principal Member may vary the order in accordance with the request.
-
-             (3)  This section does not limit the SSAT Principal Member’s power to vary or revoke an order.
-
-Note:          For variation and revocation apart from under this section, see subsection 33(3) of the _Acts Interpretation Act 1901_.
-
-##### <a id="103ZAC"></a>103ZAC  Orders restricting secondary disclosures of information
-
-             (1)  If an order (the **_primary order_**) under subsection 103ZAA(1) directs a person not to disclose information specified in the order, except to any of the following (an **_authorised recipient_**):
-
-                     (a)  a specified person;
-
-                     (b)  a member of a specified class of persons;
-
-the SSAT Principal Member may make another order, directing an authorised recipient not to disclose the information specified in the primary order.
-
-             (2)  A person commits an offence if:
-
-                     (a)  the SSAT Principal Member makes an order under subsection (1) in relation to the person; and
-
-                     (b)  the person contravenes the order.
-
-                    Penalty:  Imprisonment for 2 years.
-
-             (3)  An order made under subsection (1) in relation to a person does not apply to information which the person knew before the disclosure of the information in accordance with the primary order was made.
-
-Note:          A defendant bears an evidential burden in relation to the matter in subsection (3): see subsection 13.3(3) of the _Criminal Code_.
-
-## 75  Section 103ZB
-
-Omit “proceeding”, substitute “review”.
-
-## 76  Section 110A
-
-Omit “proceeding”, substitute “review”.
-
-## 77  Section 110B
-
-Repeal the section, substitute:
-
-##### <a id="110B"></a>110B  Appeals from decisions of SSAT
-
-                   A party to a review by the SSAT under Part VIIA may appeal to a court having jurisdiction under this Act, on a question of law, from a decision of the SSAT on that review under section 103S.
-
-## 78  Section 110D
-
-Omit “the people who were”.
-
-## 79  Section 110D
-
-Omit “proceeding” (second occurring), substitute “review”.
-
-## 80  At the end of section 110D
-
-Add:
-
-Note:          A person may be added or removed as a party to a review under subsection 101(4) or (5).
-
-## 81  Paragraph 110F(3)(b)
-
-Omit “proceeding” (wherever occurring), substitute “review”.
-
-## 82  Subsections 110G(1) and (2)
-
-Omit “proceeding before” (wherever occurring), substitute “review by”.
-
-## 83  Subsection 110H(1)
-
-Omit “proceeding before”, substitute “review by”.
-
-## 84  Subsection 110H(3)
-
-Omit “any proceeding”, substitute “any review”.
-
-## 85  Subsection 110H(3)
-
-Omit “in that proceeding”, substitute “on that review”.
-
-## 86  Paragraph 110K(a)
-
-Omit “proceeding”, substitute “review”.
-
-As at 30 November 2012 the amendments are not incorporated in this compilation.
-
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -14907,59 +14506,5 @@ The amendments made by Schedule 2 do not affect the validity of an appointment
 ## 11  Transitional regulations
 
 The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Social Security and Other Legislation Amendment (Further 2012 Budget and Other Measures) Act 2012 (No. 154, 2012)_
-
-The following provisions commence on 15 December 2012:
-
-## Schedule 3
-
-## 163  Application of amendments relating to non‑disclosure directions and orders under the _Child Support (Registration and Collection) Act 1988_
-
-(1)       A direction given to a person under subsection 96(2) of the _Child Support (Registration and Collection) Act 1988_ before the day on which this item commences continues to have effect on and after that day:
-
-                     (a)  as if subsections 96(2) and (3) of that Act had not been repealed by this Act; and
-
-                     (b)  as if, on and after that day, the defence in subitem (3) existed in relation to an offence under subsection 96(3) of that Act.
-
-(2)       An order made under subsection 103Q(1) of the _Child Support (Registration and Collection) Act 1988_ before the day on which this item commences continues to have effect on and after that day:
-
-                     (a)  as if section 103Q of that Act had not been repealed by this Act; and
-
-                     (b)  as if, on and after that day, the defence in subitem (3) existed in relation to an offence under subsection 103Q(2) of that Act.
-
-(3)       A direction or order referred to in this item does not apply to information which the person to whom the direction was given, or in relation to whom the order was made, knew before the disclosure of the information was made to the person.
-
-_Note:       A defendant bears an evidential burden in relation to the matter in subitem (3): see subsection 13.3(3) of the Criminal Code._
-
-## 164  Application of subsection 16(3A) of the _Child Support (Registration and Collection) Act 1988_
-
-Subsection 16(3A) of the _Child Support (Registration and Collection) Act 1988_, as inserted by this Act, applies in relation to the communication of protected information after the commencement of this item (whether the information was obtained before or after that commencement).
-
-## 165  Application of subsections 100(3), (4) and (5) of the _Child Support (Registration and Collection) Act 1988_
-
-Subsections 100(3), (4) and (5) of the _Child Support (Registration and Collection) Act 1988_, as inserted by this Act, apply in relation to applications dismissed on or after the commencement of this item (whether the application was made before or after that commencement).
-
-## 166  Application of amendments of subsections 100A(3) and (4) of the _Child Support (Registration and Collection) Act 1988_
-
-Subsections 100A(3) and (4) of the _Child Support (Registration and Collection) Act 1988_, as amended by this Act, apply in relation to notifications given under subsection 100A(1) of that Act after the commencement of this item.
-
-## 167  Application of amendment of section 103C of the _Child Support (Registration and Collection) Act 1988_
-
-The amendment of section 103C of the _Child Support (Registration and Collection) Act 1988_ made by this Act applies in relation to applications for review made after the commencement of this item.
-
-## 168  Application of paragraph 103F(4)(aa) of the _Child Support (Registration and Collection) Act 1988_
-
-Paragraph 103F(4)(aa) of the _Child Support (Registration and Collection) Act 1988_, as inserted by this Act, applies in relation to:
-
-                     (a)  hearings pending immediately before the commencement of this item; and
-
-                     (b)  hearings commencing after the commencement of this item.
-
-## 169  Application of subsection 103X(6) of the _Child Support (Registration and Collection) Act 1988_
-
-Subsection 103X(6) of the _Child Support (Registration and Collection) Act 1988_, as inserted by this Act, applies in relation to a decision made after the commencement of this item (whether the application to which the decision relates was made before or after that commencement).
 
  
