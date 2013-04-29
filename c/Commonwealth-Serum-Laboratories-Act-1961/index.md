@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00086/Html/CommSerumlabor1961_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00356/Html/CommSerumlabor1961_image001.gif)
 
 # Commonwealth Serum Laboratories Act 1961
 
 **Act No. 38 of 1961 as amended**
 
-This compilation was prepared on 28 March 2008
- taking into account amendments up to Act No. 8 of 2008
+This compilation was prepared on 1 July 2007
+ taking into account amendments up to Act No. 21 of 2007
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -838,9 +838,7 @@ CSL shall treat the whole of the first-mentioned period as a period during which
 
                      (d)  a pre-reform AWA;
 
-                     (e)  a pre-reform certified agreement;
-
-                      (f)  an AWA.
+                     (e)  a pre-reform certified agreement.
 
 ##### <a id="28"></a>28  Effect of sections 26 and 27
 
@@ -868,9 +866,7 @@ CSL shall treat the whole of the first-mentioned period as a period during which
 
                      (d)  a pre-reform AWA;
 
-                     (e)  a pre-reform certified agreement;
-
-                      (f)  an AWA.
+                     (e)  a pre-reform certified agreement.
 
                     <a name="term-condition"></a>**_terms and conditions_** includes a term or condition existing because of subsection (1).
 
@@ -1459,24 +1455,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Workplace Relations Amendment (Transition to Forward with Fairness) Act 2008</div>
-  </td>
-  <td>
-    <div>8, 2008</div>
-  </td>
-  <td>
-    <div>20 Mar 2008</div>
-  </td>
-  <td>
-    <div>Schedules 1–7: 28 Mar 2008 ( <i>see</i>F2008L00959) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Commonwealth Serum Laboratories Act 1961_ was amended by section 3 only of the _Statute Law (Miscellaneous Provisions) Act (No. 1) 1985_, subsection 2(1) of which provides as follows:
@@ -1833,15 +1811,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
 </tr>
 <tr>
   <td>
-    <div>Ss. 19E–19H</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 19J–19M</div>
+    <div>Ss. 19E–19H, 19J–19M</div>
   </td>
   <td>
     <div>ad. No. 88, 1993</div>
@@ -1857,15 +1827,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
 </tr>
 <tr>
   <td>
-    <div>S. 19N</div>
-  </td>
-  <td>
-    <div>ad. No. 88, 1993</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19P</div>
+    <div>Ss. 19N, 19P</div>
   </td>
   <td>
     <div>ad. No. 88, 1993</div>
@@ -2020,7 +1982,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
     <div></div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
@@ -2044,7 +2006,7 @@ The amendment history of the _Commonwealth Serum Laboratories Act 1961_ after re
     <div></div>
   </td>
   <td>
-    <div>am. SLI 2006 No. 50; No. 8, 2008</div>
+    <div>am. SLI 2006 No. 50</div>
   </td>
 </tr>
 <tr>
