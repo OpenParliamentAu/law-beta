@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2009C00264/Html/CivilAviat1988_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2009C00220/Html/CivilAviat1988_WD02_image001.gif)
 
 # Civil Aviation Act 1988
 
 **Act No. 63 of 1988 as amended**
 
-This compilation was prepared on 1 July 2009
+This compilation was prepared on 3 June 2009
  taking into account amendments up to Act No. 33 of 2009
 
 The text of any of those amendments not in force 
@@ -56,9 +56,13 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [12](#12).          Directions
 
-[12A](#12A).       Minister may give the Board notices about its strategic direction etc 
+[12A](#12A).       Minister may give CASA notices about its strategic direction etc 
 
 [12B](#12B).       Minister may direct CASA to give documents and information to nominee
+
+[12C](#12C).       Director and Minister may enter into agreements about the performance of CASA’s functions etc 
+
+[12D](#12D).       CASA must report to the Minister as required
 
 [13](#13).          CASA’s powers
 
@@ -137,8 +141,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
 [28](#28).          CASA must issue AOC if satisfied about certain matters
 
 [28A](#28A).       Additional conditions for issue of AOC in relation to certain foreign registered aircraft
-
-[28AA](#28AA).    Matters that CASA may have regard to in issuing an AOC in relation to certain flights by foreign registered aircraft
 
 [28B](#28B).       Additional conditions for issue of an Australian AOC with ANZA privileges
 
@@ -444,97 +446,37 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [50](#50).          Taxation
 
-**Part VII—Board of CASA** 
+**Part VII—Director, staff and consultants**
 
-    **Division 1—Establishment and functions**
+[84](#84).          Appointment of Director
 
-[51](#51).          Establishment
+[84A](#84A).       Duties of Director
 
-[52](#52).          Membership
+[84B](#84B).       Functions of Director
 
-[53](#53).          Functions
+[84C](#84C).       Application of the _Commonwealth Authorities and Companies Act 1997_
 
-    **Division 2—Appointment etc. of Board members**
+[85](#85).          Director not to engage in other work
 
-[54](#54).          Appointment
+[86](#86).          Remuneration and allowances of Director
 
-[55](#55).          Term of appointment
+[87](#87).          Leave of absence
 
-[56](#56).          Remuneration and allowances
+[88](#88).          Resignation
 
-[57](#57).          Leave of absence
+[89](#89).          Director holds office during Minister’s pleasure
 
-[58](#58).          Outside employment
+[90](#90).          Acting Director
 
-[59](#59).          Resignation
+[91](#91).          Staff of CASA
 
-[60](#60).          Termination of appointment
-
-[61](#61).          Other terms and conditions
-
-[62](#62).          Acting Chair
-
-[63](#63).          Acting Board members
-
-    **Division 3—Board procedures** 
-
-        **Subdivision A—Meetings**
-
-[64](#64).          Times and places of meetings
-
-[65](#65).          Presiding at meetings
-
-[66](#66).          Quorum
-
-[67](#67).          Voting at meetings etc 
-
-[68](#68).          Conduct of meetings
-
-[69](#69).          Minutes
-
-        **Subdivision B—Decisions without meetings**
-
-[70](#70).          Decisions without meetings
-
-[71](#71).          Record of decisions
-
-**Part VIIA—The Director and staff of CASA** 
-
-    **Division 1—Appointing the Director**
-
-[72](#72).          Director
-
-[73](#73).          Duties
-
-[74](#74).          Appointment
-
-[75](#75).          Term of appointment
-
-[76](#76).          Remuneration and allowances
-
-[77](#77).          Leave of absence
-
-[78](#78).          Outside employment
-
-[79](#79).          Other terms and conditions
-
-[80](#80).          Resignation
-
-[81](#81).          Termination of appointment
-
-[82](#82).          Acting Director
-
-    **Division 2—Staff of CASA**
-
-[83](#83).          Staff of CASA
-
-[84](#84).          Consultants
+[92](#92).          Consultants
 
 **Part VIII—Miscellaneous**
 
 [94](#94).          Delegation by the Director
 
-[95](#95).          Delegation by Board
+[94A](#94A).       Delegation by Minister
 
 [95A](#95A).       Delegation by Secretary of the Department
 
@@ -672,10 +614,6 @@ Note:          Some references to Australian aircraft may be a
 
                     <a name="aviat-secur"></a>**_aviation security_** means a combination of measures and human and material resources intended to safeguard civil aviation against acts of unlawful interference.
 
-                    <a name="board"></a>**_Board_** means the Board of CASA.
-
-                    <a name="board-member"></a>**_Board member_** means a member of the Board appointed in accordance with section 54.
-
                     <a name="busi-dai"></a>**_business day_** means a day that is not a Saturday, a Sunday or a public holiday in the Australian Capital Territory.
 
                     <a name="caa-new-zealand"></a>**_CAA New Zealand_** means the Civil Aviation Authority established by the Civil Aviation Act 1990  of New Zealand, or any successor to that Authority.
@@ -683,8 +621,6 @@ Note:          Some references to Australian aircraft may be a
                     <a name="casa"></a>**_CASA_** means the Civil Aviation Safety Authority established by this Act.
 
                     <a name="certif"></a>**_certificate_** includes an AOC.
-
-                    <a name="chair"></a>**_Chair_** means the Chair of the Board.
 
                     <a name="chicago-convent"></a>**_Chicago Convention_** means:
 
@@ -732,7 +668,7 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name="contract-state"></a>**_Contracting State_** means a foreign country that is a party to the Chicago Convention.
 
-                    <a name="corpor-plan"></a>**_corporate plan_** means a corporate plan prepared by the Board under subsection 44(1).
+                    <a name="corpor-plan"></a>**_corporate plan_** means a corporate plan prepared by the Director under subsection 44(1).
 
                     <a name="council"></a>**_Council_** means the Council of the International Civil Aviation Organization.
 
@@ -744,9 +680,7 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name="data-storag-devic"></a>**_data storage device_** has the same meaning as in Part IAA of the _Crimes Act 1914_.
 
-                    <a name="deputi-chair"></a>**_Deputy Chair_** means the Deputy Chair of the Board.
-
-                    <a name="director"></a>**_Director_** means the Director of Aviation Safety appointed under section 74.
+                    <a name="director"></a>**_Director_** means the Director of Aviation Safety appointed under section 84.
 
                     <a name="director"></a><a name="director-caa-new-zealand"></a>**_Director of CAA New Zealand_** has the same meaning as **_Director_** has in the Civil Aviation Act 1990 of New   Zealand.
 
@@ -800,7 +734,7 @@ Example:    A person can have a **_commercial presence_** through the crea
 
                     <a name=""></a><a name="new-zealand"></a>**_New Zealand_** has the same meaning as in the Interpretation Act 1999  of New Zealand.
 
-                    <a name="aoc-anza-privileg"></a><a name="new-zealand"></a>**_New Zealand_****_AOC with ANZA privileges_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New Zealand.
+                    <a name="aoc-anza-privileg"></a><a name="new-zealand"></a>**_New Zealand_****_AOC with ANZA privileges_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New   Zealand.
 
                     <a name="temporari-stop-notic"></a><a name="new-zealand"></a>**_New Zealand_****_temporary stop notice_** has the same meaning as in section 2 of the Civil Aviation Act 1990 of New   Zealand.
 
@@ -932,7 +866,7 @@ CASA must, as soon as practicable, publish a _Gazette_ notice setting out partic
 
                      (b)  any other person employed by the Crown.
 
-##### <a id="6"></a>6  Extension to external Territories
+##### <a id="6"></a>6  Extension to external Territories
 
                    This Act extends to all the external Territories.
 
@@ -1016,7 +950,7 @@ by means that include the following:
 
                     (aa)  implementing the ANZA mutual recognition agreements;
 
-                     (a)  cooperating with the Australian Transport Safety Bureau in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft;
+                     (a)  co-operating with the Executive Director of Transport Safety Investigation in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft;
 
                      (b)  any functions conferred on CASA under the _Civil Aviation (Carriers’ Liability) Act 1959_, or under a corresponding law of a State or Territory;
 
@@ -1066,9 +1000,9 @@ by means that include the following:
 
 ##### <a id="12"></a>12  Directions 
 
-             (1)  The Minister may give the Board written directions as to the performance of its functions or the exercise of its powers.
+             (1)  The Minister may give CASA written directions as to the performance of its functions or the exercise of its powers.
 
-          (1A)  Without limiting subsection (1), a direction under that subsection may require the Board to consult:
+          (1A)  Without limiting subsection (1), a direction under that subsection may require CASA to consult:
 
                      (a)  in the manner specified by the Minister; and
 
@@ -1078,15 +1012,15 @@ by means that include the following:
 
              (2)  Directions as to the performance of its regulatory function shall be only of a general nature.
 
-             (4)  The Board must comply with a direction given under subsection (1).
+             (4)  CASA must comply with a direction given under subsection (1).
 
              (5)  This section does not affect the application of section 28 of the _Commonwealth Authorities and Companies Act 1997_ in relation to CASA.
 
-Note:          Section 28 of the _Commonwealth Authorities and Companies Act 1997_ requires the Board to comply with General Policy Orders of the Australian Government to the extent that they apply to CASA.
+Note:          Section 28 of the _Commonwealth Authorities and Companies Act 1995_ provides for notification of general policies of the Commonwealth Government that are to apply to CASA.
 
-##### <a id="12A"></a>12A  Minister may give the Board notices about its strategic direction etc.
+##### <a id="12A"></a>12A  Minister may give CASA notices about its strategic direction etc.
 
-             (1)  The Minister may notify the Board in writing of the Minister’s views on the following matters:
+             (1)  The Minister may notify CASA in writing of the Minister’s views on the following matters:
 
                      (a)  the appropriate strategic direction for CASA;
 
@@ -1094,7 +1028,7 @@ Note:          Section 28 of the _Commonwealth Authorities a
 
           (1A)  Subsection (1) does not permit the Minister to notify views in relation to a particular case or a particular holder of a civil aviation authorisation.
 
-             (2)  In performing its functions, the Board must act in accordance with notices given under subsection (1).
+             (2)  In performing its functions, CASA must act in accordance with notices given under subsection (1).
 
 ##### <a id="12B"></a>12B  Minister may direct CASA to give documents and information to nominee
 
@@ -1105,6 +1039,22 @@ Note:          Section 28 of the _Commonwealth Authorities a
              (3)  In this section:
 
                     <a name="ministeri-nomine"></a>**_ministerial nominee_** means a person whose responsibilities or duties include advising the Minister about CASA’s performance and strategies.
+
+##### <a id="12C"></a>12C  Director and Minister may enter into agreements about the performance of CASA’s functions etc.
+
+             (1)  The Minister may enter into an agreement with the Director about the performance of CASA’s functions and the exercise of CASA’s powers.
+
+             (2)  The Director must take all reasonable steps to comply with the terms of an agreement.
+
+             (3)  The Director must notify the Minister of any matters that may significantly affect the Director’s ability to comply with a term of an agreement.
+
+             (4)  Subsection (1) does not permit an agreement to the extent that a term of the agreement would have the effect of requiring CASA to perform a function or exercise a power in relation to a particular case or a particular holder of a civil aviation authorisation.
+
+##### <a id="12D"></a>12D  CASA must report to the Minister as required
+
+             (1)  The Minister may direct CASA to report to the Minister or to the Secretary of the Department in accordance with arrangements specified by the Minister and about matters specified by the Minister.
+
+             (2)  CASA must comply with a direction under subsection (1).
 
 ##### <a id="13"></a>13  CASA’s powers
 
@@ -1228,7 +1178,7 @@ if the person is not permitted by or under the regulations to carry out that mai
 
              (4)  In this section, **_flight time_** has the same meaning as in the regulations.
 
-##### <a id="20AC"></a>20AC  Purported issue of authorisation
+##### <a id="20AC"></a>20AC  Purported issue of authorisation
 
              (1)  A person must not purport to give a civil aviation authorisation for the purposes of the regulations unless the person is authorised under those regulations to give the authorisation.
 
@@ -1526,12 +1476,6 @@ Note:          For when a New Zealand AOC with ANZA privileges
 
                      (b)  in any case—the safety rules.
 
-          (3A)  For the purposes of being satisfied that the person has complied with, or is capable of complying with, the safety rules, CASA may have regard to the matters set out in section 28AA as if:
-
-                     (a)  the reference in that section to subsection 28(1A) were a reference to paragraph (3)(b) of this section; and
-
-                     (b)  the reference in subparagraph (1)(c)(ii) and paragraph (5)(a) of that section to an AOC were to a permission.
-
 Permissions—conditions
 
              (4)  A permission granted under this section is subject to:
@@ -1539,12 +1483,6 @@ Permissions—conditions
                      (a)  the condition that section 41E of the _Civil Aviation (Carriers’ Liability) Act 1959_ (which deals with personal injury liability insurance) is complied with (if applicable); and
 
                      (b)  any conditions specified in the permission.
-
-          (4A)  For the purposes of deciding whether to specify a condition in the permission, CASA may have regard to the matters set out in section 28AA as if:
-
-                     (a)  the reference in that section to subsection 28(1A) were a reference to paragraph (4)(b) of this section; and
-
-                     (b)  the reference in subparagraph (1)(c)(ii) and paragraph (5)(a) of that section to an AOC were to a permission.
 
              (5)  CASA must not do either of the following, except to ensure compliance with the safety rules:
 
@@ -1821,9 +1759,7 @@ to assess whether the applicant can safely conduct the operations covered by the
 
                      (c)  copies of any operational authorisations or requirements, however described, issued by the authority in relation to the operations of the applicant, unless those authorisations or requirements are specified in a certificate or document specified in paragraph (a) or (b);
 
-                     (d)  written particulars of all licences held by flight crew members intended to be engaged in carrying out operations under the foreign aircraft AOC;
-
-                     (e)  evidence of the matters listed in paragraphs 28AA(1)(a), (b), (c) and (d) (including, as applicable, by giving examples of the things mentioned in subsections 28AA(2) to (5)).
+                     (d)  written particulars of all licences held by flight crew members intended to be engaged in carrying out operations under the foreign aircraft AOC.
 
              (2)  CASA must state in the notice whether the applicant is to comply with the notice:
 
@@ -1860,8 +1796,6 @@ Granting permission
                      (b)  CASA has not entered into an agreement of a kind referred to in paragraph 28A(1)(a) that is necessary to permit the issue of an AOC authorising that operation;
 
 the person may apply for a permission for the aircraft to be so operated.
-
-          (1A)  CASA may, by written notice given to the applicant, require the applicant to give CASA evidence of the matters listed in paragraphs 28AA(1)(a), (b), (c) and (d) (including, as applicable, by giving examples of the things mentioned in subsections 28AA(2) to (5)).
 
              (2)  CASA may only grant the permission if it is satisfied:
 
@@ -1928,14 +1862,6 @@ Cancellation
                      (d)  CASA is satisfied that the person does not hold a New Zealand AOC with ANZA privileges that covers all or any of the AOC operations; and
 
                      (e)  if the AOC sought is an Australian AOC with ANZA privileges—the additional conditions in section 28B are satisfied.
-
-          (1A)  For the purposes of paragraph (1)(a), if the AOC sought is an AOC authorising the operation of foreign registered aircraft into Australia, out of Australia, or both, or on regulated domestic flights, other than:
-
-                     (a)  an Australian AOC with ANZA privileges; or
-
-                     (b)  an Australian AOC with ANZA privileges authorising operations of an aircraft registered in New Zealand on regulated domestic flights;
-
-CASA may have regard to the matters set out in section 28AA.
 
              (2)  The financial position of the applicant is one of the matters that CASA may take into account in forming a view for the purposes of paragraph (1)(a).
 
@@ -2008,62 +1934,6 @@ CASA may have regard to the matters set out in section 28AA.
              (2)  In this section:
 
                     <a name="line-mainten"></a>**_line maintenance_**, in relation to an aircraft, means routine checks, inspections and malfunction rectifications performed en route and at base stations on the aircraft during transit, turn-around or night stops.
-
-##### <a id="28AA"></a>28AA  Matters that CASA may have regard to in issuing an AOC in relation to certain flights by foreign registered aircraft
-
-             (1)  For the purposes of subsection 28(1A), the matters which CASA may have regard to are:
-
-                     (a)  evidence of any serious safety deficiencies in relation to the applicant’s operations in another country; and
-
-                     (b)  evidence of the applicant’s ability and willingness to address those safety deficiencies; and
-
-                     (c)  evidence relating to the authority or authorities responsible for:
-
-                              (i)  the safety oversight of the applicant’s operations; and
-
-                             (ii)  the registration, certification and airworthiness of aircraft used by the applicant in its operations or to be used under the AOC sought; and
-
-                     (d)  evidence relating to the management and control of the applicant’s operations.
-
-             (2)  For the purposes of paragraph (1)(a), examples of the kinds of evidence of serious safety deficiencies include all or any of the following:
-
-                     (a)  a report that identifies serious safety deficiencies;
-
-                     (b)  the applicant’s failure to address deficiencies identified during ramp inspections, or similar inspections, carried out by the aviation authority of another country or group of countries;
-
-                     (c)  the fact that another country or group of countries has imposed an operating ban on the applicant because of deficiencies relating to international aviation safety standards;
-
-                     (d)  information relating to an accident or serious incident that indicates systemic safety deficiencies in relation to the applicant’s operations.
-
-             (3)  For the purposes of paragraph (1)(b), examples of the kinds of evidence of the applicant’s ability and willingness to address safety deficiencies include either or both of the following:
-
-                     (a)  how the applicant responds to requests from CASA for information about the safety aspects of the applicant’s operations;
-
-                     (b)  if the applicant has presented a plan for corrective action to CASA, the aviation authority of another country or group of countries, ICAO or another relevant body or organisation—whether the corrective action proposed is appropriate and sufficient.
-
-             (4)  For the purposes of paragraph (1)(c), examples of the kinds of evidence mentioned in that paragraph include all or any of the following:
-
-                     (a)  how a relevant authority responds to concerns or issues raised by CASA about:
-
-                              (i)  the safety of the applicant’s operations; or
-
-                             (ii)  the safety of aircraft used by the applicant or another carrier licensed or certified by that authority;
-
-                     (b)  a relevant authority’s reputation for implementing and enforcing relevant aviation safety standards, including:
-
-                              (i)  audits and related corrective action plans established under ICAO’s Universal Safety Oversight Audit Programme or any other similar program; and
-
-                             (ii)  whether the applicant’s authorisation (however described) by the authority is not, or is no longer, recognised by another country or group of countries; and
-
-                            (iii)  if the applicant’s authorisation was not issued by the authority of the country in which the applicant has its principal place of business—that fact;
-
-                     (c)  in relation to aircraft used by the applicant in the country in which the aircraft is registered—whether the aviation authority of that country administers its obligations in accordance with the Chicago Convention.
-
-             (5)  For the purposes of paragraph (1)(d), examples of the kinds of evidence relating to the management and control of the applicant’s operations include either or both of the following:
-
-                     (a)  whether a person who is participating in, or is likely to participate in, managing the applicant’s operations is not a fit and proper person to participate in the management of the operations of a holder of an AOC;
-
-                     (b)  whether a person who has, or is likely to have, effective control over the applicant’s operations is not a fit and proper person to have effective control over the applicant’s operations.
 
 ##### <a id="28B"></a>28B  Additional conditions for issue of an Australian AOC with ANZA privileges
 
@@ -2911,7 +2781,7 @@ the holder produces a receipt from the prescribed person that identifies:
 
 ##### <a id="30DS"></a>30DS  Definitions
 
-                   In this Division:
+                   In this Division:
 
                     <a name="demerit-cancel-notic"></a>**_demerit cancellation notice_** means a notice under section 30EC.
 
@@ -2947,7 +2817,7 @@ the regulations may provide that the subsequent suspension or cancellation under
 
 #### Subdivision B—Incurring demerit points
 
-##### <a id="30DW"></a>30DW  When demerit points are incurred
+##### <a id="30DW"></a>30DW  When demerit points are incurred
 
                    The holder of a civil aviation authorisation incurs demerit points for a prescribed offence if:
 
@@ -3625,7 +3495,7 @@ the investigator or the person assisting him or her must, if requested to do so 
 
                      (b)  possession of the document, film, computer file, thing or information by the occupier could constitute an offence.
 
-##### <a id="32AHM"></a>32AHM  Receipts of things seized under warrant
+##### <a id="32AHM"></a>32AHM  Receipts of things seized under warrant
 
              (1)  If a thing is seized, as allowed by section 32AH, the investigator executing the warrant or person assisting him or her must provide a receipt for the thing.
 
@@ -3921,8 +3791,6 @@ CASA is liable to pay compensation of a reasonable amount to the person in respe
 
              (3)  Subsection (1) or (2) does not apply to:
 
-                    (aa)  copying or disclosure that is necessary  for the purposes of checking whether equipment used to make a cockpit voice recording is functioning and reliable, provided the conditions set out in subsection (3A) are met; or
-
                      (a)  copying or disclosure for the purposes of an investigation under the _Transport Safety Investigation Act 2003_; or
 
                      (b)  copying or disclosure for the purposes of the investigation of any offence against a law of the Commonwealth, a State or a Territory; or
@@ -3938,18 +3806,6 @@ CASA is liable to pay compensation of a reasonable amount to the person in respe
                      (e)  disclosure to a court in damages proceedings where the court makes a public interest order under subsection (4) in relation to the CVR information.
 
 Note:          A defendant bears an evidential burden in relation to a matter in subsection (3). See subsection 13.3(3) of the _Criminal Code_.
-
-          (3A)  The conditions that must be met for the purposes of paragraph (3)(aa) are:
-
-                     (a)  the person who copies or discloses the CVR information for the purposes of checking the equipment is authorised to do so under the regulations; and
-
-                     (b)  that person honestly and reasonably believes on the information available to him or her that:
-
-                              (i)  the cockpit voice recording does not relate to a reportable matter (as defined for the purposes of the _Transport Safety Investigation Act 2003_); and
-
-                             (ii)  the cockpit voice recording does not relate to an offence under the law of the Commonwealth, or of a State or Territory; and
-
-                            (iii)  the crew members in relation to the CVR information were notified in writing, before the cockpit voice recording was made, of the intention to copy or disclose the CVR information for the purposes of checking whether the equipment used to make the recording is functioning and reliable.
 
              (4)  If the court is satisfied that, in the circumstances of the case, the public interest in the proper determination of a material question of fact outweighs:
 
@@ -4199,11 +4055,11 @@ Note 3:       Subsection 98(3A) allows regulations to apply, adopt o
 
 ##### <a id="44"></a>44  Corporate plan
 
-             (1)  The Board must prepare a corporate plan at least once a year and give it to the Minister for the Minister’s approval.
+             (1)  The Director must prepare a corporate plan at least once a year and give it to the Minister for the Minister’s approval.
 
              (2)  The plan must cover a period of at least 3 years.
 
-             (3)  The Board must keep the Minister informed about:
+             (3)  The Director must keep the Minister informed about:
 
                      (a)  significant changes to the plan; and
 
@@ -4225,13 +4081,13 @@ Note 3:       Subsection 98(3A) allows regulations to apply, adopt o
 
              (5)  The plan must also cover any other matters required by the Minister, which may include further details about the matters in subsection (4).
 
-             (6)  In preparing the plan, the Board must take account of notices given under section 12A.
+             (6)  In preparing the plan, the Director must take account of notices given under section 12A.
 
 ##### <a id="45"></a>45  Minister’s response to corporate plan
 
              (1)  The Minister must respond to a corporate plan within 60 days of being given the plan.
 
-             (2)  The Minister’s response may include a direction to the Board to vary the plan.
+             (2)  The Minister’s response may include a direction to the Director to vary the plan.
 
              (3)  A direction under subsection (2) must be in writing and must set out its reasons.
 
@@ -4243,7 +4099,7 @@ Note 3:       Subsection 98(3A) allows regulations to apply, adopt o
 
                      (c)  any other considerations the Minister thinks appropriate.
 
-             (5)  If the Minister’s response includes a direction to vary the corporate plan, the Board must prepare a revised plan and give it to the Minister for the Minister’s approval within 28 days of being given the response.
+             (5)  If the Minister’s response includes a direction to vary the corporate plan, the Director must prepare a revised plan and give it to the Minister for the Minister’s approval within 28 days of being given the response.
 
              (6)  The Minister must cause a copy of the corporate plan to be laid before each House of Parliament:
 
@@ -4269,17 +4125,19 @@ Note 3:       Subsection 98(3A) allows regulations to apply, adopt o
 
              (2)  Subsection (1) does not prevent investment of any surplus money of CASA under section 18 of the _Commonwealth Authorities and Companies Act 1997_.
 
-##### <a id="49"></a>49  Extra matters to be included in annual report 
+##### <a id="49"></a>49  Extra matters to be included in annual report 
 
              (2)  CASA must include the following particulars in each annual report prepared and submitted under section 9 of the _Commonwealth Authorities and Companies Act 1997_:
 
-                     (a)  particulars of each direction given to the Board by the Minister under section 12, during the financial year covered by the report;
+                     (a)  particulars of each direction given to CASA by the Minister under section 12 or 12D, during the financial year covered by the report;
 
-                     (b)  in relation to notices given to the Board by the Minister under section 12A:
+                    (aa)  particulars of each notification given to the Director by the Minister under section 28 of the _Commonwealth Authorities and Companies Act 1997_, during the financial year covered by the report;
+
+                     (b)  in relation to notices given to CASA by the Minister under section 12A:
 
                               (i)  particulars of each notice, given during the financial year covered by the report; and
 
-                             (ii)  a summary of action taken in the financial year by CASA, or by the Board, because of notice given to the Board in any financial year;
+                             (ii)  a summary of action taken in the financial year by CASA, or by the Director, because of notices given to CASA in any financial year;
 
                      (c)  particulars of each direction given to CASA by the Minister under section 12B, during the financial year covered by the report.
 
@@ -4287,401 +4145,125 @@ Note 3:       Subsection 98(3A) allows regulations to apply, adopt o
 
                    CASA is not subject to taxation under any law of a State or Territory.
 
-## Part VII—Board of CASA
+## Part VII—Director, staff and consultants
 
-### Division 1—Establishment and functions
+##### <a id="84"></a>84  Appointment of Director
 
-##### <a id="51"></a>51  Establishment
+             (1)  CASA is to have a Director of Aviation Safety, who is to be appointed by the Minister after receiving a report from the Secretary of the Department.
 
-                   The Board of CASA is established by this section.
+             (2)  Subject to this Part, a person appointed as Director holds office for the period of not more than 5 years that is specified in the instrument of appointment.
 
-##### <a id="52"></a>52  Membership
+          (2A)  The Director holds office on a full-time basis.
 
-             (1)  The Board consists of:
+             (3)  A person appointed as Director is eligible for re-appointment.
 
-                     (a)  the Director; and
+          (3A)  The Minister is the employing body for the Director for the purposes of the _Remuneration Tribunal Act 1973_.
 
-                     (b)  up to 4 Board members (including the Chair and Deputy Chair).
+Note:          The office of Director is a principal executive office for the purposes of the _Remuneration Tribunal Act 1973_—see paragraph (e) of the definition of **_principal executive office_** in subsection 3(1) of that Act.
 
-Note:          As a member of the governing body, the Director is a director of a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_: see the definition of **_director_** in section 5 of that Act.
+             (4)  The Director holds office on such terms and conditions (if any) in respect of matters not provided for by this Act as are determined by the Minister in writing.
 
-             (2)  The performance of a function or the exercise of a power of the Board is not affected by a vacancy in the membership of the Board.
+Note:          This subsection has no effect at any time when a determination is in force under section 12C of the _Remuneration Tribunal Act 1973_—see subsection 12C(3) of that Act.
 
-##### <a id="53"></a>53  Functions
+##### <a id="84A"></a>84A  Duties of Director
 
-             (1)  The functions of the Board are to:
+             (1)  The Director is, under the Minister, to manage CASA.
 
-                     (a)  decide the objectives, strategies and policies to be followed by CASA; and
+             (2)  Anything done in the name of, or on behalf of, CASA by the Director is to be taken to have been done by CASA.
 
-                     (b)  ensure that CASA performs its functions in a proper, efficient and effective manner; and
+             (3)  The Director is the chief executive officer of CASA.
 
-                     (c)  ensure that CASA complies with directions given by the Minister under section 12B.
+##### <a id="84B"></a>84B  Functions of Director
 
-             (2)  The Board has the power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
+                   The Director’s functions include the following:
 
-             (3)  All acts and things done in the name of, or on behalf of, CASA by the Board are taken to have been done by CASA.
+                     (a)  deciding the objectives, strategies and policies to be followed by CASA;
 
-### Division 2—Appointment etc. of Board members
+                     (b)  ensuring that CASA performs its functions in a proper, efficient and effective manner;
 
-##### <a id="54"></a>54  Appointment
+                     (c)  ensuring that CASA complies with directions given by the Minister under sections 12, 12B and 12D;
 
-             (1)  A Board member is to be appointed by the Minister by written instrument, on a part-time basis.
+                     (d)  ensuring that CASA acts in accordance with the views of the Minister notified to CASA under section 12A.
 
-             (2)  The Minister must appoint one Board member to be the Chair and another Board member to be the Deputy Chair.
+##### <a id="84C"></a>84C  Application of the _Commonwealth Authorities and Companies Act 1997_
 
-             (3)  When appointing Board members, the Minister must ensure an appropriate balance of professional expertise, but need not ensure that particular sectors of the civil aviation industry are represented.
+             (1)  The Director is the director of CASA for the purposes of the _Commonwealth Authorities and Companies Act 1997_.
 
-             (4)  A person’s appointment as a Board member is not invalid because of a defect or irregularity in connection with the person’s appointment.
+             (2)  Matters that must be disclosed by the Director under sections 27F and 27G of the _Commonwealth Authorities and Companies Act 1997_ must be disclosed to the Minister.
 
-##### <a id="55"></a>55  Term of appointment
+             (3)  Sections 27J and 27K of the _Commonwealth Authorities and Companies Act 1997_ do not apply in relation to the Director.
 
-                   A Board member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
+##### <a id="85"></a>85  Director not to engage in other work
 
-Note:          A Board member is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+                   The Director shall not engage in paid employment outside the duties of his or her office except with the Minister’s approval.
 
-##### <a id="56"></a>56  Remuneration and allowances
+##### <a id="86"></a>86  Remuneration and allowances of Director
 
-             (1)  A Board member is to be paid such remuneration as is determined by the Remuneration Tribunal. If no determination of that remuneration is in operation, the Board member is to be paid such remuneration as is prescribed.
+             (1)  The Director is to be paid the remuneration that is determined by the Remuneration Tribunal. However, if no determination of that remuneration by the Tribunal is in operation, the Director is to be paid the remuneration that is prescribed by the regulations.
 
-             (2)  A Board member is to be paid the allowances that are prescribed.
+             (2)  The Director is to be paid the allowances that are prescribed by the regulations.
 
              (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
 
-##### <a id="57"></a>57  Leave of absence
+Note:          This section has no effect at any time when a determination is in force under section 12C of the _Remuneration Tribunal Act 1973_—see subsection 12C(3) of that Act.
 
-             (1)  The Minister may grant leave of absence to the Chair on the terms and conditions that the Minister determines.
+##### <a id="87"></a>87  Leave of absence
 
-             (2)  The Chair may grant leave of absence to another Board member on the terms and conditions that the Chair determines.
+                   The Minister may grant leave of absence to the Director on such terms and conditions as to remuneration or otherwise as the Minister determines in writing.
 
-##### <a id="58"></a>58  Outside employment
+##### <a id="88"></a>88  Resignation
 
-                   A Board member must not engage in any paid employment that, in the Minister’s opinion, conflicts or may conflict with the proper performance of his or her duties.
+                   The Director may resign by instrument in writing delivered to the Minister.
 
-##### <a id="59"></a>59  Resignation
+##### <a id="89"></a>89  Director holds office during Minister’s pleasure
 
-             (1)  A Board member may resign by giving to the Minister a signed notice of resignation.
+             (1)  The Director holds office during the Minister’s pleasure.
 
-             (2)  The Chair may resign his or her appointment as the Chair without resigning his or her appointment as a Board member.
+             (2)  Before terminating the Director’s appointment, the Minister must have received a report about the proposed termination from the Secretary of the Department.
 
-             (3)  The Deputy Chair may resign his or her appointment as the Deputy Chair without resigning his or her appointment as a Board member.
+##### <a id="90"></a>90  Acting Director
 
-             (4)  The resignation takes effect on the day on which it is received by the Minister or, if a later day is specified in the resignation, on that later day.
+             (1)  The Minister may appoint a person to act as Director:
 
-##### <a id="60"></a>60  Termination of appointment
+                     (a)  during a vacancy in the office of Director, whether or not an appointment has previously been made to the office; or
 
-             (1)  The Minister may terminate the appointment of a Board member for misbehaviour or physical or mental incapacity.
+                     (b)  during any period, or during all periods, when the Director is absent from duty or from Australia or is, for any other reason, unable to perform the functions of the office;
 
-             (2)  The Minister may terminate the appointment of a Board member if:
+but a person appointed to act during a vacancy shall not continue so to act for more than 12 months.
 
-                     (a)  the Board member:
+             (2)  A person acting as the Director is to be paid such remuneration and allowances as the Minister determines.
 
-                              (i)  becomes bankrupt; or
+             (4)  Anything done by a person purporting to act under an appointment under this section is not invalid merely because:
 
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+                     (a)  the occasion for the appointment had not arisen;
 
-                            (iii)  compounds with his or her creditors; or
-
-                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
-
-                     (b)  the Board member:
-
-                              (i)  engages in paid employment that the Minister thinks is in conflict with the proper performance of the member’s duties; or
-
-                             (ii)  is absent, except on leave of absence granted under section 57, from 3 consecutive meetings of the Board; or
-
-                     (c)  the Minister thinks that the performance of the Board member has been unsatisfactory for a significant period of time; or
-
-                     (d)  the Board member fails, without reasonable excuse, to comply with an obligation imposed on him or her by section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_.
-
-             (3)  If the Minister is of the opinion that the performance of Board members or the performance of CASA has been unsatisfactory for a significant period of time, the Minister may terminate the appointment of all Board members or particular Board members.
-
-             (4)  If the Minister is of the opinion that:
-
-                     (a)  CASA has failed to comply with section 12B; or
-
-                     (b)  the Board members have failed to comply with:
-
-                              (i)  subsection 13(2) or 15(1) of the _Commonwealth Authorities and Companies Act 1997_; or
-
-                             (ii)  paragraph 16(1)(a) or (b) of the _Commonwealth Authorities and Companies Act 1997_;
-
-the Minister may terminate the appointment of all Board members or particular Board members.
-
-##### <a id="61"></a>61  Other terms and conditions
-
-                   A Board member holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined, in writing, by the Minister.
-
-##### <a id="62"></a>62  Acting Chair
-
-             (1)  The Minister may appoint a person to act as the Chair if the Deputy Chair is unable to act as the Chair:
-
-                     (a)  during a vacancy in the office of the Chair, whether or not an appointment has previously been made to the office; or
-
-                     (b)  during any period, or during all periods, when the Chair:
-
-                              (i)  is absent from duty or from Australia; or
-
-                             (ii)  is, for any reason, unable to perform the duties of the office.
-
-             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
-
-                     (a)  the occasion for the appointment had not arisen; or
-
-                     (b)  there is a defect or irregularity in connection with the appointment; or
+                     (b)  there was a defect or irregularity in or in connection with the appointment;
 
                      (c)  the appointment had ceased to have effect; or
 
-                     (d)  the occasion to act had not arisen or had ceased.
+                     (d)  the occasion for the person to act had not arisen or had ceased.
 
-Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
+##### <a id="91"></a>91  Staff of CASA
 
-##### <a id="63"></a>63  Acting Board members
+                   The staff of CASA are to be persons appointed or employed by CASA on such terms and conditions as are determined by the Director in writing.
 
-             (1)  The Minister may appoint a person to act as a Board member (other than the Chair):
+##### <a id="92"></a>92  Consultants
 
-                     (a)  during a vacancy in the office of a Board member (other than the Chair), whether or not an appointment has previously been made to the office; or
-
-                     (b)  during any period, or during all periods, when a Board member (other than the Chair):
-
-                              (i)  is absent from duty or from Australia; or
-
-                             (ii)  is, for any reason, unable to perform the duties of the office.
-
-             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
-
-                     (a)  the occasion for the appointment had not arisen; or
-
-                     (b)  there is a defect or irregularity in connection with the appointment; or
-
-                     (c)  the appointment had ceased to have effect; or
-
-                     (d)  the occasion to act had not arisen or had ceased.
-
-Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
-
-### Division 3—Board procedures
-
-#### Subdivision A—Meetings
-
-##### <a id="64"></a>64  Times and places of meetings
-
-             (1)  The Board must hold such meetings as are necessary for the efficient performance of its functions.
-
-             (2)  Subject to subsections (3) and (4), meetings are to be held at such times and places as the Board decides.
-
-             (3)  The Chair may call a meeting at any time.
-
-             (4)  The Chair must call a meeting if requested to do so in writing by at least 2 other Board members.
-
-             (5)  For the purpose of subsection (4), **_Board member_** includes the Director.
-
-##### <a id="65"></a>65  Presiding at meetings
-
-             (1)  The Chair presides at all meetings at which he or she is present.
-
-             (2)  If the Chair is not present at a meeting, the Deputy Chair presides.
-
-             (3)  If neither the Chair nor the Deputy Chair is present at a meeting, the members present must appoint one of themselves to preside.
-
-##### <a id="66"></a>66  Quorum
-
-             (1)  At a meeting of the Board, a quorum is constituted by 3 Board members.
-
-             (2)  However, if:
-
-                     (a)  a Board member is required by section 27J of the _Commonwealth Authorities and Companies Act 1997_ not to be present during the deliberations, or to take part in any decision, of the Board with respect to a particular matter; and
-
-                     (b)  when the Board member leaves the meeting concerned there is no longer a quorum present;
-
-the remaining Board members at the meeting constitute a quorum for the purpose of any deliberation or decision at that meeting with respect to that matter.
-
-             (3)  For the purpose of this section, **_Board member_** includes the Director.
-
-##### <a id="67"></a>67  Voting at meetings etc.
-
-             (1)  At a meeting of the Board, a question is decided by a majority of the votes of the Board members present and voting.
-
-             (2)  The person presiding at a meeting has a deliberative vote and, if necessary, also a casting vote.
-
-             (3)  For the purpose of subsection (1), **_Board member_** includes the Director.
-
-##### <a id="68"></a>68  Conduct of meetings
-
-                   The Board may, subject to this Subdivision, regulate proceedings at its meetings as it considers appropriate.
-
-Note:          Section 33B of the _Acts Interpretation Act 1901_ provides for participation in meetings by telephone etc.
-
-##### <a id="69"></a>69  Minutes
-
-                   The Board must keep minutes of its meetings.
-
-#### Subdivision B—Decisions without meetings
-
-##### <a id="70"></a>70  Decisions without meetings
-
-             (1)  A decision is taken to have been made at a meeting of the Board if:
-
-                     (a)  without meeting, a majority of Board members indicate agreement with the proposed decision in accordance with the method determined by the Board under subsection (2); and
-
-                     (b)  all Board members were informed of the proposed decision, or reasonable efforts were made to inform all Board members of the proposed decision.
-
-             (2)  Subsection (1) applies only if the Board:
-
-                     (a)  has determined that it applies; and
-
-                     (b)  has determined the method by which Board members are to indicate agreement with proposed decisions.
-
-             (3)  Paragraph (1)(a) does not apply to a Board member who is prevented by section 27J of the _Commonwealth Authorities and Companies Act 1997_ from deliberating on the proposed decision.
-
-             (4)  For the purpose of this section, **_Board member_** includes the Director.
-
-##### <a id="71"></a>71  Record of decisions
-
-                   The Board must keep a record of decisions made in accordance with section 70.
-
-## Part VIIA—The Director and staff of CASA
-
-### Division 1—Appointing the Director
-
-##### <a id="72"></a>72  Director
-
-                   There is to be a Director of Aviation Safety.
-
-##### <a id="73"></a>73  Duties
-
-             (1)  The Director is to manage CASA subject to the directions of, and in accordance with policies determined by, the Board.
-
-             (2)  All acts and things done in the name of, or on behalf of, CASA by the Director are taken to have been done by CASA.
-
-##### <a id="74"></a>74  Appointment
-
-             (1)  The Director is to be appointed by the Board by written instrument, on a full-time basis.
-
-Note:          The Director can be re-appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
-
-             (2)  Before appointing the Director, the Board must consult the Minister.
-
-             (3)  A Board member is not eligible for appointment as the Director.
-
-             (4)  The appointment of a person as Director is not invalid because of a defect or irregularity in connection with the person’s appointment.
-
-##### <a id="75"></a>75  Term of appointment
-
-                   The Director holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
-
-##### <a id="76"></a>76  Remuneration and allowances
-
-             (1)  The Director is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Director is to be paid the remuneration that is determined by the Board in writing.
-
-             (2)  The Director is to be paid the allowances that are determined by the Board in writing.
-
-             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
-
-##### <a id="77"></a>77  Leave of absence
-
-             (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
-
-             (2)  The Board may grant to the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Board determines in writing.
-
-##### <a id="78"></a>78  Outside employment
-
-                   The Director must not engage in paid employment outside the duties of his or her office except with the approval of the Board.
-
-##### <a id="79"></a>79  Other terms and conditions
-
-                   The Director holds office on such terms and conditions in relation to matters not provided for by this Act as are determined by the Board in writing.
-
-##### <a id="80"></a>80  Resignation
-
-             (1)  The Director may resign by giving to the Board a signed notice of resignation.
-
-             (2)  The resignation takes effect on the day on which it is received by the Board or, if a later day is specified in the resignation, on that later day.
-
-##### <a id="81"></a>81  Termination of appointment
-
-                   The Board may, after consulting the Minister, terminate the appointment of the Director:
-
-                     (a)  for misbehaviour or physical or mental incapacity; or
-
-                     (b)  if the Director:
-
-                              (i)  becomes bankrupt; or
-
-                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
-
-                            (iii)  compounds with his or her creditors; or
-
-                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
-
-                     (c)  if the Director is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
-
-                     (d)  if the Director engages, except with the Board’s approval, in paid employment outside the duties of his or her office; or
-
-                     (e)  if the Board is satisfied that the Director’s performance has been unsatisfactory; or
-
-                      (f)  if the Director fails, without reasonable excuse, to comply with an obligation imposed on him or her by section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_.
-
-##### <a id="82"></a>82  Acting Director
-
-             (1)  The Board may appoint a person to act as Director:
-
-                     (a)  during a vacancy in the office of Director, (whether or not an appointment has previously been made to the office); or
-
-                     (b)  during any period, or during all periods, when the Director:
-
-                              (i)  is absent from duty or from Australia; or
-
-                             (ii)  is, for any reason, unable to perform the duties of the office.
-
-             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
-
-                     (a)  the occasion for the appointment had not arisen; or
-
-                     (b)  there is a defect or irregularity in connection with the appointment; or
-
-                     (c)  the appointment had ceased to have effect; or
-
-                     (d)  the occasion to act had not arisen or had ceased.
-
-Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
-
-### Division 2—Staff of CASA
-
-##### <a id="83"></a>83  Staff of CASA
-
-             (1)  CASA may employ such persons as it considers necessary for the performance of its functions and the exercise of its powers.
-
-             (2)  An employee is to be employed on the terms and conditions that the Director determines in writing.
-
-##### <a id="84"></a>84  Consultants
-
-                   CASA may engage consultants to assist in the performance of its functions.
+                   CASA may engage such consultants as it thinks necessary.
 
 ## Part VIII—Miscellaneous
 
 ##### <a id="94"></a>94  Delegation by the Director
 
-             (1)  The Director may, in writing, delegate all or any of CASA’s powers under this Act, the regulations, or an instrument made under this Act or the regulations, to an officer.
+             (1)  The Director may, in writing, delegate all or any of CASA’s powers under this Act to an officer.
 
-             (2)  The Director may, in writing, delegate to an officer, if the officer holds, or performs the duties of, an office that is equivalent to a position occupied by an SES employee or acting SES employee, all or any of the following powers:
+             (2)  The Director may, in writing, delegate the Director’s powers under sections 44, 45 and 91 of this Act to an officer.
 
-                     (a)  the Director’s power under subsection 83(2);
+##### <a id="94A"></a>94A  Delegation by Minister
 
-                     (b)  the Director’s powers under the regulations;
+             (1)  The Minister may delegate the Minister’s powers under sections 85, 87 and 90 to the Secretary of the Department.
 
-                     (c)  the Director’s powers under an instrument made under this Act or the regulations.
-
-##### <a id="95"></a>95  Delegation by Board
-
-             (1)  The Board may delegate, in writing, all or any of its powers under this Act to:
-
-                     (a)  a Board member; or
-
-                     (b)  the Director; or
-
-                     (c)  an officer.
-
-             (2)  In exercising any powers under the delegation, the Board member, Director or officer, as the case may be, must comply with any directions of the Board.
+             (2)  In exercising any powers under the delegation, the Secretary must comply with any directions of the Minister.
 
 ##### <a id="95A"></a>95A  Delegation by Secretary of the Department
 
@@ -4691,7 +4273,9 @@ Note:          See sections 20 and 33A of the _Acts Interpre
 
 ##### <a id="96"></a>96  Tabling of directions, notices etc. of the Minister
 
-                   Where the Minister gives a direction under section 12, 12B or 45 or a notice under section 12A, the Minister shall cause a copy of the direction or notice to be laid before each House of the Parliament within 15 sitting days of that House after the giving of the direction or the notice.
+             (1)  Where the Minister gives a direction under section 12, 12B, 12D or 45 or a notice under section 12A, the Minister shall cause a copy of the direction or notice to be laid before each House of the Parliament within 15 sitting days of that House after the giving of the direction or the notice.
+
+             (2)  If the Director and the Minister enter into an agreement under section 12C, the Minister must cause a copy of the agreement to be laid before each House of the Parliament within 15 sitting days of that House after the agreement is entered into.
 
 ##### <a id="97"></a>97  Payment of prescribed fees
 
@@ -5913,7 +5497,7 @@ Schedule 2 (items 51, 53): <i>(w)</i></div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (items 1–25) and Schedule 3 (items 1–6): 1 July 2009 
+    <div>Schedule 1 (items 1–25) and Schedule 3 (items 1–6): \[ <i>see</i>Note 2 and Table A] 
 Schedule 2 (items 1–21, 23–28) and Schedule 3 (items 7–29): 27 Mar 2009 
 Schedule 2 (item 22): <i>(x)</i></div>
   </td>
@@ -5932,7 +5516,7 @@ Schedule 2 (item 22): <i>(x)</i></div>
     <div>26 Mar 2009</div>
   </td>
   <td>
-    <div>Schedule 1 (item 70): 1 July 2009</div>
+    <div>Schedule 1 (item 70): \[ <i>see</i>Note 3]</div>
   </td>
   <td>
     <div>—</div>
@@ -5950,7 +5534,7 @@ Schedule 2 (item 22): <i>(x)</i></div>
   </td>
   <td>
     <div>S. 4 and Schedule 1 (item 26): Royal Assent 
-Schedule 1 (items 10, 11): 1 July 2009</div>
+Schedule 1 (items 10, 11): \[ <i>see</i>Note 4]</div>
   </td>
   <td>
     <div>S. 4 and Sch. 1 (item 26) \[ <i>see</i>Table A]</div>
@@ -6937,7 +6521,7 @@ _(x)_ Subsection 2(1) (items 3 and 4) of the _Civil Aviation Amendment Act 2009_
     <div></div>
   </td>
   <td>
-    <div>am. Nos. 19 and 83, 2003; No. 149, 2004; No. 86, 2005; No. 102, 2006; Nos. 39 and 131, 2007; No. 87, 2008; No. 20, 2009</div>
+    <div>am. Nos. 19 and 83, 2003; No. 149, 2004; No. 86, 2005; No. 102, 2006; Nos. 39 and 131, 2007; No. 87, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7041,23 +6625,7 @@ _(x)_ Subsection 2(1) (items 3 and 4) of the _Civil Aviation Amendment Act 2009_
     <div>S. 12</div>
   </td>
   <td>
-    <div>am. No. 11, 1991; No. 82, 1995 (as am. by No. 152, 1997); No. 105, 2003; No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 12(5)</div>
-  </td>
-  <td>
-    <div>rs. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 12A</div>
-  </td>
-  <td>
-    <div>am. No. 19, 2009</div>
+    <div>am. No. 11, 1991; No. 82, 1995 (as am. by No. 152, 1997); No. 105, 2003</div>
   </td>
 </tr>
 <tr>
@@ -7073,7 +6641,7 @@ _(x)_ Subsection 2(1) (items 3 and 4) of the _Civil Aviation Amendment Act 2009_
     <div></div>
   </td>
   <td>
-    <div>am. No. 105, 2003; No. 19, 2009</div>
+    <div>am. No. 105, 2003</div>
   </td>
 </tr>
 <tr>
@@ -7090,14 +6658,6 @@ _(x)_ Subsection 2(1) (items 3 and 4) of the _Civil Aviation Amendment Act 2009_
   </td>
   <td>
     <div>ad. No. 105, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -7401,7 +6961,7 @@ _(x)_ Subsection 2(1) (items 3 and 4) of the _Civil Aviation Amendment Act 2009_
     <div>S. 26</div>
   </td>
   <td>
-    <div>am. No. 82, 1995; No. 102, 2006; No. 87, 2008; No. 19, 2009</div>
+    <div>am. No. 82, 1995; No. 102, 2006; No. 87, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7579,7 +7139,7 @@ Part III</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 8, 2000; No. 102, 2006; No. 19, 2009</div>
+    <div>am. No. 8, 2000; No. 102, 2006</div>
   </td>
 </tr>
 <tr>
@@ -7645,7 +7205,7 @@ rs. No. 86, 2005</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 82, 1995; No. 8, 2000; No. 87, 2008; No. 19, 2009</div>
+    <div>am. No. 82, 1995; No. 8, 2000; No. 87, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7678,7 +7238,7 @@ of Div. 2 of Part III</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 1, 1998; No. 8, 2000; No. 83, 2003; No. 102, 2006; No. 87, 2008; No. 19, 2009</div>
+    <div>am. No. 1, 1998; No. 8, 2000; No. 83, 2003; No. 102, 2006; No. 87, 2008</div>
   </td>
 </tr>
 <tr>
@@ -7703,14 +7263,6 @@ of Div. 2 of Part III</div>
   </td>
   <td>
     <div>am. No. 82, 1995; No. 83, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 28AA...............................</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -8862,31 +8414,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>S. 32AO</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 32AP</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 26, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32AQ–32AU</div>
+    <div>Ss. 32AO–32AU</div>
   </td>
   <td>
     <div>ad. No. 19, 2003</div>
@@ -9289,7 +8817,7 @@ of Div. 2 of Part IIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 105, 2003; No. 19, 2009</div>
+    <div>am. No. 105, 2003</div>
   </td>
 </tr>
 <tr>
@@ -9313,7 +8841,7 @@ of Div. 2 of Part IIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 43, 1996; No. 105, 2003; No. 19, 2009</div>
+    <div>am. No. 43, 1996; No. 105, 2003</div>
   </td>
 </tr>
 <tr>
@@ -9433,7 +8961,7 @@ of Div. 2 of Part IIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 82, 1995 (as am. by No. 152, 1997); No. 105, 2003; No. 19, 2009</div>
+    <div>am. No. 82, 1995 (as am. by No. 152, 1997); No. 105, 2003</div>
   </td>
 </tr>
 <tr>
@@ -9446,82 +8974,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part VII</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Part VII</div>
-  </td>
-  <td>
-    <div>am. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VII</div>
-  </td>
-  <td>
-    <div>rs. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 51–53</div>
+    <div>Ss. 51–54</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9558,14 +9014,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 56</div>
   </td>
   <td>
@@ -9582,26 +9030,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 57</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9622,14 +9054,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 59, 60</div>
   </td>
   <td>
@@ -9638,26 +9062,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 61</div>
   </td>
   <td>
     <div>rep. No. 25, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9678,14 +9086,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 62A</div>
   </td>
   <td>
@@ -9702,7 +9102,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div>S. 63</div>
+    <div>Ss. 63, 64</div>
   </td>
   <td>
     <div>am. No. 25, 1990</div>
@@ -9714,54 +9114,6 @@ of Div. 2 of Part IIIA</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision A</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 25, 1990</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9782,14 +9134,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 66</div>
   </td>
   <td>
@@ -9806,26 +9150,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 67, 68</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9846,74 +9174,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Subdivision B</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 70, 71</div>
+    <div>Ss. 70–74</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part VIIA</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part VIIA..............................</div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 72–74</div>
-  </td>
-  <td>
-    <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9934,26 +9198,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 76, 77</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -9970,14 +9218,6 @@ of Div. 2 of Part IIIA</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10006,14 +9246,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 80</div>
   </td>
   <td>
@@ -10030,50 +9262,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 81, 82</div>
+    <div>Ss. 81–83</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 83</div>
-  </td>
-  <td>
-    <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10110,6 +9302,22 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
+    <div><b>Part VII</b></div>
+  </td>
+  <td>
+    <div></div>
+  </td>
+</tr>
+<tr>
+  <td>
+    <div>Heading to Part VII</div>
+  </td>
+  <td>
+    <div>am. No. 82, 1995</div>
+  </td>
+</tr>
+<tr>
+  <td>
     <div>S. 84</div>
   </td>
   <td>
@@ -10134,14 +9342,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Note to s. 84(4)...................</div>
   </td>
   <td>
@@ -10150,26 +9350,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 84A ...............</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10190,26 +9374,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 84B..................................</div>
   </td>
   <td>
     <div>ad. No. 105, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10222,26 +9390,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 85 .................</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10254,26 +9406,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 86 ...................................</div>
   </td>
   <td>
     <div>rs. No. 25, 1990; No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10286,14 +9422,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Ss. 87, 88 ...........................</div>
   </td>
   <td>
@@ -10302,26 +9430,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 89 .................</div>
   </td>
   <td>
     <div>am. No. 82, 1995; No. 105, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10342,26 +9454,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 90 .................</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10374,26 +9470,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>Heading to s. 91 .................</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10414,26 +9494,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 92 ...................................</div>
   </td>
   <td>
     <div>am. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10454,7 +9518,7 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div><b>Part VIII</b></div>
+    <div>Part VIII</div>
   </td>
   <td>
     <div></div>
@@ -10494,14 +9558,6 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 94A ................................</div>
   </td>
   <td>
@@ -10518,26 +9574,10 @@ of Div. 2 of Part IIIA</div>
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 19, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 95 ...................................</div>
   </td>
   <td>
     <div>rep. No. 82, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 19, 2009</div>
   </td>
 </tr>
 <tr>
@@ -10569,7 +9609,7 @@ of Div. 2 of Part IIIA</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 105, 2003; No. 19, 2009</div>
+    <div>am. No. 105, 2003</div>
   </td>
 </tr>
 <tr>
@@ -10684,6 +9724,673 @@ of Div. 2 of Part IIIA</div>
     <div>rep. No. 82, 1995</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Civil Aviation Amendment Act 2009 (No. 19, 2009)_
+
+The following amendments commence on 1 July 2009:
+
+## Schedule 1
+
+## 1  Subsection 3(1)
+
+Insert:
+
+                    <a name="board"></a>**_Board_** means the Board of CASA.
+
+## 2  Subsection 3(1)
+
+Insert:
+
+                    <a name="board-member"></a>**_Board member_** means a member of the Board appointed in accordance with section 54.
+
+## 3  Subsection 3(1)
+
+Insert:
+
+                    <a name="chair"></a>**_Chair_** means the Chair of the Board.
+
+## 4  Subsection 3(1) (definition of _corporate plan_)
+
+Omit “Director”, substitute “Board”.
+
+## 5  Subsection 3(1)
+
+Insert:
+
+                    <a name="deputi-chair"></a>**_Deputy Chair_** means the Deputy Chair of the Board.
+
+## 6  Subsection 3(1) (definition of _Director_)
+
+Omit “section 84”, substitute “section 74”.
+
+## 7  Subsections 12(1) and (1A)
+
+Omit “CASA”, substitute “the Board”.
+
+## 8  Subsection 12(4)
+
+Omit “CASA”, substitute “The Board”.
+
+## 9  Subsection 12(5) (note)
+
+Repeal the note, substitute:
+
+Note:          Section 28 of the _Commonwealth Authorities and Companies Act 1997_ requires the Board to comply with General Policy Orders of the Australian Government to the extent that they apply to CASA.
+
+## 10  Subsection 12A(1)
+
+Omit “CASA” (first occurring), substitute “the Board”.
+
+_Note:       The heading to section 12A is altered by omitting “CASA” and substituting “the Board”._
+
+## 11  Subsection 12A(2)
+
+Omit “CASA”, substitute “the Board”.
+
+## 12  Sections 12C and 12D
+
+Repeal the sections.
+
+## 13  Subsections 44(1), (3) and (6)
+
+Omit “Director”, substitute “Board”.
+
+## 14  Subsections 45(2) and (5)
+
+Omit “Director”, substitute “Board”.
+
+## 15  Paragraphs 49(2)(a) and (aa)
+
+Repeal the paragraphs, substitute:
+
+                     (a)  particulars of each direction given to the Board by the Minister under section 12, during the financial year covered by the report;
+
+## 16  Paragraph 49(2)(b)
+
+Omit “CASA” (first occurring), substitute “the Board”.
+
+## 17  Subparagraph 49(2)(b)(ii)
+
+Repeal the subparagraph, substitute:
+
+                             (ii)  a summary of action taken in the financial year by CASA, or by the Board, because of notice given to the Board in any financial year;
+
+## 18  Part VII
+
+Repeal the Part, substitute:
+
+## Part VII—Board of CASA
+
+### Division 1—Establishment and functions
+
+##### <a id="51"></a>51  Establishment
+
+                   The Board of CASA is established by this section.
+
+##### <a id="52"></a>52  Membership
+
+             (1)  The Board consists of:
+
+                     (a)  the Director; and
+
+                     (b)  up to 4 Board members (including the Chair and Deputy Chair).
+
+Note:          As a member of the governing body, the Director is a director of a Commonwealth authority for the purposes of the _Commonwealth Authorities and Companies Act 1997_: see the definition of **_director_** in section 5 of that Act.
+
+             (2)  The performance of a function or the exercise of a power of the Board is not affected by a vacancy in the membership of the Board.
+
+##### <a id="53"></a>53  Functions
+
+             (1)  The functions of the Board are to:
+
+                     (a)  decide the objectives, strategies and policies to be followed by CASA; and
+
+                     (b)  ensure that CASA performs its functions in a proper, efficient and effective manner; and
+
+                     (c)  ensure that CASA complies with directions given by the Minister under section 12B.
+
+             (2)  The Board has the power to do all things necessary or convenient to be done for or in connection with the performance of its functions.
+
+             (3)  All acts and things done in the name of, or on behalf of, CASA by the Board are taken to have been done by CASA.
+
+### Division 2—Appointment etc. of Board members
+
+##### <a id="54"></a>54  Appointment
+
+             (1)  A Board member is to be appointed by the Minister by written instrument, on a part-time basis.
+
+             (2)  The Minister must appoint one Board member to be the Chair and another Board member to be the Deputy Chair.
+
+             (3)  When appointing Board members, the Minister must ensure an appropriate balance of professional expertise, but need not ensure that particular sectors of the civil aviation industry are represented.
+
+             (4)  A person’s appointment as a Board member is not invalid because of a defect or irregularity in connection with the person’s appointment.
+
+##### <a id="55"></a>55  Term of appointment
+
+                   A Board member holds office for the period specified in the instrument of appointment. The period must not exceed 3 years.
+
+Note:          A Board member is eligible for reappointment: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+
+##### <a id="56"></a>56  Remuneration and allowances
+
+             (1)  A Board member is to be paid such remuneration as is determined by the Remuneration Tribunal. If no determination of that remuneration is in operation, the Board member is to be paid such remuneration as is prescribed.
+
+             (2)  A Board member is to be paid the allowances that are prescribed.
+
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+
+##### <a id="57"></a>57  Leave of absence
+
+             (1)  The Minister may grant leave of absence to the Chair on the terms and conditions that the Minister determines.
+
+             (2)  The Chair may grant leave of absence to another Board member on the terms and conditions that the Chair determines.
+
+##### <a id="58"></a>58  Outside employment
+
+                   A Board member must not engage in any paid employment that, in the Minister’s opinion, conflicts or may conflict with the proper performance of his or her duties.
+
+##### <a id="59"></a>59  Resignation
+
+             (1)  A Board member may resign by giving to the Minister a signed notice of resignation.
+
+             (2)  The Chair may resign his or her appointment as the Chair without resigning his or her appointment as a Board member.
+
+             (3)  The Deputy Chair may resign his or her appointment as the Deputy Chair without resigning his or her appointment as a Board member.
+
+             (4)  The resignation takes effect on the day on which it is received by the Minister or, if a later day is specified in the resignation, on that later day.
+
+##### <a id="60"></a>60  Termination of appointment
+
+             (1)  The Minister may terminate the appointment of a Board member for misbehaviour or physical or mental incapacity.
+
+             (2)  The Minister may terminate the appointment of a Board member if:
+
+                     (a)  the Board member:
+
+                              (i)  becomes bankrupt; or
+
+                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+
+                            (iii)  compounds with his or her creditors; or
+
+                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
+
+                     (b)  the Board member:
+
+                              (i)  engages in paid employment that the Minister thinks is in conflict with the proper performance of the member’s duties; or
+
+                             (ii)  is absent, except on leave of absence granted under section 57, from 3 consecutive meetings of the Board; or
+
+                     (c)  the Minister thinks that the performance of the Board member has been unsatisfactory for a significant period of time; or
+
+                     (d)  the Board member fails, without reasonable excuse, to comply with an obligation imposed on him or her by section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_.
+
+             (3)  If the Minister is of the opinion that the performance of Board members or the performance of CASA has been unsatisfactory for a significant period of time, the Minister may terminate the appointment of all Board members or particular Board members.
+
+             (4)  If the Minister is of the opinion that:
+
+                     (a)  CASA has failed to comply with section 12B; or
+
+                     (b)  the Board members have failed to comply with:
+
+                              (i)  subsection 13(2) or 15(1) of the _Commonwealth Authorities and Companies Act 1997_; or
+
+                             (ii)  paragraph 16(1)(a) or (b) of the _Commonwealth Authorities and Companies Act 1997_;
+
+the Minister may terminate the appointment of all Board members or particular Board members.
+
+##### <a id="61"></a>61  Other terms and conditions
+
+                   A Board member holds office on such terms and conditions (if any) in relation to matters not provided for by this Act as are determined, in writing, by the Minister.
+
+##### <a id="62"></a>62  Acting Chair
+
+             (1)  The Minister may appoint a person to act as the Chair if the Deputy Chair is unable to act as the Chair:
+
+                     (a)  during a vacancy in the office of the Chair, whether or not an appointment has previously been made to the office; or
+
+                     (b)  during any period, or during all periods, when the Chair:
+
+                              (i)  is absent from duty or from Australia; or
+
+                             (ii)  is, for any reason, unable to perform the duties of the office.
+
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
+
+##### <a id="63"></a>63  Acting Board members
+
+             (1)  The Minister may appoint a person to act as a Board member (other than the Chair):
+
+                     (a)  during a vacancy in the office of a Board member (other than the Chair), whether or not an appointment has previously been made to the office; or
+
+                     (b)  during any period, or during all periods, when a Board member (other than the Chair):
+
+                              (i)  is absent from duty or from Australia; or
+
+                             (ii)  is, for any reason, unable to perform the duties of the office.
+
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
+
+### Division 3—Board procedures
+
+#### Subdivision A—Meetings
+
+##### <a id="64"></a>64  Times and places of meetings
+
+             (1)  The Board must hold such meetings as are necessary for the efficient performance of its functions.
+
+             (2)  Subject to subsections (3) and (4), meetings are to be held at such times and places as the Board decides.
+
+             (3)  The Chair may call a meeting at any time.
+
+             (4)  The Chair must call a meeting if requested to do so in writing by at least 2 other Board members.
+
+             (5)  For the purpose of subsection (4), **_Board member_** includes the Director.
+
+##### <a id="65"></a>65  Presiding at meetings
+
+             (1)  The Chair presides at all meetings at which he or she is present.
+
+             (2)  If the Chair is not present at a meeting, the Deputy Chair presides.
+
+             (3)  If neither the Chair nor the Deputy Chair is present at a meeting, the members present must appoint one of themselves to preside.
+
+##### <a id="66"></a>66  Quorum
+
+             (1)  At a meeting of the Board, a quorum is constituted by 3 Board members.
+
+             (2)  However, if:
+
+                     (a)  a Board member is required by section 27J of the _Commonwealth Authorities and Companies Act 1997_ not to be present during the deliberations, or to take part in any decision, of the Board with respect to a particular matter; and
+
+                     (b)  when the Board member leaves the meeting concerned there is no longer a quorum present;
+
+the remaining Board members at the meeting constitute a quorum for the purpose of any deliberation or decision at that meeting with respect to that matter.
+
+             (3)  For the purpose of this section, **_Board member_** includes the Director.
+
+##### <a id="67"></a>67  Voting at meetings etc.
+
+             (1)  At a meeting of the Board, a question is decided by a majority of the votes of the Board members present and voting.
+
+             (2)  The person presiding at a meeting has a deliberative vote and, if necessary, also a casting vote.
+
+             (3)  For the purpose of subsection (1), **_Board member_** includes the Director.
+
+##### <a id="68"></a>68  Conduct of meetings
+
+                   The Board may, subject to this Subdivision, regulate proceedings at its meetings as it considers appropriate.
+
+Note:          Section 33B of the _Acts Interpretation Act 1901_ provides for participation in meetings by telephone etc.
+
+##### <a id="69"></a>69  Minutes
+
+                   The Board must keep minutes of its meetings.
+
+#### Subdivision B—Decisions without meetings
+
+##### <a id="70"></a>70  Decisions without meetings
+
+             (1)  A decision is taken to have been made at a meeting of the Board if:
+
+                     (a)  without meeting, a majority of Board members indicate agreement with the proposed decision in accordance with the method determined by the Board under subsection (2); and
+
+                     (b)  all Board members were informed of the proposed decision, or reasonable efforts were made to inform all Board members of the proposed decision.
+
+             (2)  Subsection (1) applies only if the Board:
+
+                     (a)  has determined that it applies; and
+
+                     (b)  has determined the method by which Board members are to indicate agreement with proposed decisions.
+
+             (3)  Paragraph (1)(a) does not apply to a Board member who is prevented by section 27J of the _Commonwealth Authorities and Companies Act 1997_ from deliberating on the proposed decision.
+
+             (4)  For the purpose of this section, **_Board member_** includes the Director.
+
+##### <a id="71"></a>71  Record of decisions
+
+                   The Board must keep a record of decisions made in accordance with section 70.
+
+## Part VIIA—The Director and staff of CASA
+
+### Division 1—Appointing the Director
+
+##### <a id="72"></a>72  Director
+
+                   There is to be a Director of Aviation Safety.
+
+##### <a id="73"></a>73  Duties
+
+             (1)  The Director is to manage CASA subject to the directions of, and in accordance with policies determined by, the Board.
+
+             (2)  All acts and things done in the name of, or on behalf of, CASA by the Director are taken to have been done by CASA.
+
+##### <a id="74"></a>74  Appointment
+
+             (1)  The Director is to be appointed by the Board by written instrument, on a full-time basis.
+
+Note:          The Director can be re-appointed under this section: see subsection 33(4A) of the _Acts Interpretation Act 1901_.
+
+             (2)  Before appointing the Director, the Board must consult the Minister.
+
+             (3)  A Board member is not eligible for appointment as the Director.
+
+             (4)  The appointment of a person as Director is not invalid because of a defect or irregularity in connection with the person’s appointment.
+
+##### <a id="75"></a>75  Term of appointment
+
+                   The Director holds office for the period specified in the instrument of appointment. The period must not exceed 5 years.
+
+##### <a id="76"></a>76  Remuneration and allowances
+
+             (1)  The Director is to be paid the remuneration that is determined by the Remuneration Tribunal. If no determination of that remuneration by the Tribunal is in operation, the Director is to be paid the remuneration that is determined by the Board in writing.
+
+             (2)  The Director is to be paid the allowances that are determined by the Board in writing.
+
+             (3)  This section has effect subject to the _Remuneration Tribunal Act 1973_.
+
+##### <a id="77"></a>77  Leave of absence
+
+             (1)  The Director has such recreation leave entitlements as are determined by the Remuneration Tribunal.
+
+             (2)  The Board may grant to the Director leave of absence, other than recreation leave, on such terms and conditions as to remuneration or otherwise as the Board determines in writing.
+
+##### <a id="78"></a>78  Outside employment
+
+                   The Director must not engage in paid employment outside the duties of his or her office except with the approval of the Board.
+
+##### <a id="79"></a>79  Other terms and conditions
+
+                   The Director holds office on such terms and conditions in relation to matters not provided for by this Act as are determined by the Board in writing.
+
+##### <a id="80"></a>80  Resignation
+
+             (1)  The Director may resign by giving to the Board a signed notice of resignation.
+
+             (2)  The resignation takes effect on the day on which it is received by the Board or, if a later day is specified in the resignation, on that later day.
+
+##### <a id="81"></a>81  Termination of appointment
+
+                   The Board may, after consulting the Minister, terminate the appointment of the Director:
+
+                     (a)  for misbehaviour or physical or mental incapacity; or
+
+                     (b)  if the Director:
+
+                              (i)  becomes bankrupt; or
+
+                             (ii)  applies to take the benefit of any law for the relief of bankrupt or insolvent debtors; or
+
+                            (iii)  compounds with his or her creditors; or
+
+                            (iv)  makes an assignment of his or her remuneration for the benefit of his or her creditors; or
+
+                     (c)  if the Director is absent, except on leave of absence, for 14 consecutive days or for 28 days in any 12 months; or
+
+                     (d)  if the Director engages, except with the Board’s approval, in paid employment outside the duties of his or her office; or
+
+                     (e)  if the Board is satisfied that the Director’s performance has been unsatisfactory; or
+
+                      (f)  if the Director fails, without reasonable excuse, to comply with an obligation imposed on him or her by section 27F or 27J of the _Commonwealth Authorities and Companies Act 1997_.
+
+##### <a id="82"></a>82  Acting Director
+
+             (1)  The Board may appoint a person to act as Director:
+
+                     (a)  during a vacancy in the office of Director, (whether or not an appointment has previously been made to the office); or
+
+                     (b)  during any period, or during all periods, when the Director:
+
+                              (i)  is absent from duty or from Australia; or
+
+                             (ii)  is, for any reason, unable to perform the duties of the office.
+
+             (2)  Anything done by or in relation to a person purporting to act under an appointment is not invalid merely because:
+
+                     (a)  the occasion for the appointment had not arisen; or
+
+                     (b)  there is a defect or irregularity in connection with the appointment; or
+
+                     (c)  the appointment had ceased to have effect; or
+
+                     (d)  the occasion to act had not arisen or had ceased.
+
+Note:          See sections 20 and 33A of the _Acts Interpretation Act 1901_.
+
+### Division 2—Staff of CASA
+
+##### <a id="83"></a>83  Staff of CASA
+
+             (1)  CASA may employ such persons as it considers necessary for the performance of its functions and the exercise of its powers.
+
+             (2)  An employee is to be employed on the terms and conditions that the Director determines in writing.
+
+##### <a id="84"></a>84  Consultants
+
+                   CASA may engage consultants to assist in the performance of its functions.
+
+## 19  Subsection 94(1)
+
+After “this Act”, insert “, the regulations, or an instrument made under this Act or the regulations,”.
+
+## 20  Subsection 94(2)
+
+Repeal the subsection, substitute:
+
+             (2)  The Director may, in writing, delegate to an officer, if the officer holds, or performs the duties of, an office that is equivalent to a position occupied by an SES employee or acting SES employee, all or any of the following powers:
+
+                     (a)  the Director’s power under subsection 83(2);
+
+                     (b)  the Director’s powers under the regulations;
+
+                     (c)  the Director’s powers under an instrument made under this Act or the regulations.
+
+## 21  Section 94A
+
+Repeal the section, substitute:
+
+##### <a id="95"></a>95  Delegation by Board
+
+             (1)  The Board may delegate, in writing, all or any of its powers under this Act to:
+
+                     (a)  a Board member; or
+
+                     (b)  the Director; or
+
+                     (c)  an officer.
+
+             (2)  In exercising any powers under the delegation, the Board member, Director or officer, as the case may be, must comply with any directions of the Board.
+
+## 22  Subsection 96(1)
+
+Before “Where”, omit “(1)”.
+
+## 23  Subsection 96(1)
+
+Omit “, 12D”.
+
+## 24  Subsection 96(2)
+
+Repeal the subsection.
+
+## Schedule 3
+
+## 1  After subsection 26(3)
+
+Insert:
+
+          (3A)  For the purposes of being satisfied that the person has complied with, or is capable of complying with, the safety rules, CASA may have regard to the matters set out in section 28AA as if:
+
+                     (a)  the reference in that section to subsection 28(1A) were a reference to paragraph (3)(b) of this section; and
+
+                     (b)  the reference in subparagraph (1)(c)(ii) and paragraph (5)(a) of that section to an AOC were to a permission.
+
+## 2  After subsection 26(4)
+
+Insert:
+
+          (4A)  For the purposes of deciding whether to specify a condition in the permission, CASA may have regard to the matters set out in section 28AA as if:
+
+                     (a)  the reference in that section to subsection 28(1A) were a reference to paragraph (4)(b) of this section; and
+
+                     (b)  the reference in subparagraph (1)(c)(ii) and paragraph (5)(a) of that section to an AOC were to a permission.
+
+## 3  At the end of subsection 27AE(1)
+
+Add:
+
+                   ; (e)  evidence of the matters listed in paragraphs 28AA(1)(a), (b), (c) and (d) (including, as applicable, by giving examples of the things mentioned in subsections 28AA(2) to (5)).
+
+## 4  After subsection 27A(1)
+
+Insert:
+
+          (1A)  CASA may, by written notice given to the applicant, require the applicant to give CASA evidence of the matters listed in paragraphs 28AA(1)(a), (b), (c) and (d) (including, as applicable, by giving examples of the things mentioned in subsections 28AA(2) to (5)).
+
+## 5  After subsection 28(1)
+
+Insert:
+
+          (1A)  For the purposes of paragraph (1)(a), if the AOC sought is an AOC authorising the operation of foreign registered aircraft into Australia, out of Australia, or both, or on regulated domestic flights, other than:
+
+                     (a)  an Australian AOC with ANZA privileges; or
+
+                     (b)  an Australian AOC with ANZA privileges authorising operations of an aircraft registered in New Zealand on regulated domestic flights;
+
+CASA may have regard to the matters set out in section 28AA.
+
+## 6  After section 28A
+
+Insert:
+
+##### <a id="28AA"></a>28AA  Matters that CASA may have regard to in issuing an AOC in relation to certain flights by foreign registered aircraft
+
+             (1)  For the purposes of subsection 28(1A), the matters which CASA may have regard to are:
+
+                     (a)  evidence of any serious safety deficiencies in relation to the applicant’s operations in another country; and
+
+                     (b)  evidence of the applicant’s ability and willingness to address those safety deficiencies; and
+
+                     (c)  evidence relating to the authority or authorities responsible for:
+
+                              (i)  the safety oversight of the applicant’s operations; and
+
+                             (ii)  the registration, certification and airworthiness of aircraft used by the applicant in its operations or to be used under the AOC sought; and
+
+                     (d)  evidence relating to the management and control of the applicant’s operations.
+
+             (2)  For the purposes of paragraph (1)(a), examples of the kinds of evidence of serious safety deficiencies include all or any of the following:
+
+                     (a)  a report that identifies serious safety deficiencies;
+
+                     (b)  the applicant’s failure to address deficiencies identified during ramp inspections, or similar inspections, carried out by the aviation authority of another country or group of countries;
+
+                     (c)  the fact that another country or group of countries has imposed an operating ban on the applicant because of deficiencies relating to international aviation safety standards;
+
+                     (d)  information relating to an accident or serious incident that indicates systemic safety deficiencies in relation to the applicant’s operations.
+
+             (3)  For the purposes of paragraph (1)(b), examples of the kinds of evidence of the applicant’s ability and willingness to address safety deficiencies include either or both of the following:
+
+                     (a)  how the applicant responds to requests from CASA for information about the safety aspects of the applicant’s operations;
+
+                     (b)  if the applicant has presented a plan for corrective action to CASA, the aviation authority of another country or group of countries, ICAO or another relevant body or organisation—whether the corrective action proposed is appropriate and sufficient.
+
+             (4)  For the purposes of paragraph (1)(c), examples of the kinds of evidence mentioned in that paragraph include all or any of the following:
+
+                     (a)  how a relevant authority responds to concerns or issues raised by CASA about:
+
+                              (i)  the safety of the applicant’s operations; or
+
+                             (ii)  the safety of aircraft used by the applicant or another carrier licensed or certified by that authority;
+
+                     (b)  a relevant authority’s reputation for implementing and enforcing relevant aviation safety standards, including:
+
+                              (i)  audits and related corrective action plans established under ICAO’s Universal Safety Oversight Audit Programme or any other similar program; and
+
+                             (ii)  whether the applicant’s authorisation (however described) by the authority is not, or is no longer, recognised by another country or group of countries; and
+
+                            (iii)  if the applicant’s authorisation was not issued by the authority of the country in which the applicant has its principal place of business—that fact;
+
+                     (c)  in relation to aircraft used by the applicant in the country in which the aircraft is registered—whether the aviation authority of that country administers its obligations in accordance with the Chicago Convention.
+
+             (5)  For the purposes of paragraph (1)(d), examples of the kinds of evidence relating to the management and control of the applicant’s operations include either or both of the following:
+
+                     (a)  whether a person who is participating in, or is likely to participate in, managing the applicant’s operations is not a fit and proper person to participate in the management of the operations of a holder of an AOC;
+
+                     (b)  whether a person who has, or is likely to have, effective control over the applicant’s operations is not a fit and proper person to have effective control over the applicant’s operations.
+
+As at 3 June 2009 the amendments are not incorporated in this compilation.
+
+### Note 3
+
+_Transport Safety Investigation Amendment Act 2009 (No. 20, 2009)_
+
+The following amendment commences on 1 July 2009:
+
+## Schedule 1
+
+## 70  Paragraph 9(3)(a)
+
+Repeal the paragraph, substitute:
+
+                     (a)  cooperating with the Australian Transport Safety Bureau in relation to investigations under the _Transport Safety Investigation Act 2003_ that relate to aircraft;
+
+As at 3 June 2009 the amendment is not incorporated in this compilation.
+
+### Note 4
+
+_Aviation Legislation Amendment (2008 Measures No. 2) Act 2009 
+ (No. 26, 2009)_
+
+The following amendments commence on 1 July 2009:
+
+## Schedule 1
+
+## 10  Before paragraph 32AP(3)(a)
+
+Insert:
+
+                    (aa)  copying or disclosure that is necessary  for the purposes of checking whether equipment used to make a cockpit voice recording is functioning and reliable, provided the conditions set out in subsection (3A) are met; or
+
+## 11  After subsection 32AP(3)
+
+Insert:
+
+          (3A)  The conditions that must be met for the purposes of paragraph (3)(aa) are:
+
+                     (a)  the person who copies or discloses the CVR information for the purposes of checking the equipment is authorised to do so under the regulations; and
+
+                     (b)  that person honestly and reasonably believes on the information available to him or her that:
+
+                              (i)  the cockpit voice recording does not relate to a reportable matter (as defined for the purposes of the _Transport Safety Investigation Act 2003_); and
+
+                             (ii)  the cockpit voice recording does not relate to an offence under the law of the Commonwealth, or of a State or Territory; and
+
+                            (iii)  the crew members in relation to the CVR information were notified in writing, before the cockpit voice recording was made, of the intention to copy or disclose the CVR information for the purposes of checking whether the equipment used to make the recording is functioning and reliable.
+
+As at 3 June 2009 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -10919,22 +10626,6 @@ In this Division:
 
 _Civil Aviation Amendment Act 2009 (No. 19, 2009)_
 
-## Schedule 1
-
-## 25  Transitional provision relating to the Director
-
-(1)        The person holding office as the Director under section 84 of the old law immediately before 1 July 2009 is taken to have been duly appointed as the Director by the Board under section 74 of the new law:
-
-                     (a)  for the balance of the person’s term of appointment that remained immediately before 1 July 2009; and
-
-                     (b)  on the terms and conditions provided for in Division 1 of Part VIIA of the new law.
-
-(2)        In this item:
-
-**_new law_** means the _Civil Aviation Act 1988_ as in force immediately after the commencement of this item.
-
-**_old law_** means the _Civil Aviation Act 1988_ as in force immediately before the commencement of this item.
-
 ## Schedule 2
 
 ## 28  Application
@@ -10966,6 +10657,24 @@ _Civil Aviation Amendment Act 2009 (No. 19, 2009)_
 ## 29  Saving provision
 
 The amendment made by item 23 of this Schedule does not affect the continuity of any Civil Aviation Orders given or issued under subsection 98(5) of the _Civil Aviation Act 1988_ and in force immediately before this item commences.
+
+The following provision commences on 1 July 2009:
+
+## Schedule 1
+
+## 25  Transitional provision relating to the Director
+
+(1)        The person holding office as the Director under section 84 of the old law immediately before 1 July 2009 is taken to have been duly appointed as the Director by the Board under section 74 of the new law:
+
+                     (a)  for the balance of the person’s term of appointment that remained immediately before 1 July 2009; and
+
+                     (b)  on the terms and conditions provided for in Division 1 of Part VIIA of the new law.
+
+(2)        In this item:
+
+**_new law_** means the _Civil Aviation Act 1988_ as in force immediately after the commencement of this item.
+
+**_old law_** means the _Civil Aviation Act 1988_ as in force immediately before the commencement of this item.
 
 * * *
 
