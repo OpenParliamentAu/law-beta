@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00050/Html/CwlthBorrowingLevy87_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00348/Html/E28869681246B94ECA25719C00839166/$FILE/image001.gif)
 
 # Commonwealth Borrowing Levy Act 1987
 
 **Act No. 114 of 1987 as amended**
 
-This compilation was prepared on 3 January 2007
- taking into account amendments up to Act No. 160 of 2006
+This compilation was prepared on 1 July 2006
+taking into account amendments up to Act No. 56 of 2006
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -37,6 +38,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Schedule—Bodies liable to pay levy** 
 
 **Notes** 
+
 
 ## An Act to impose a levy in respect of borrowings of money by certain bodies
 
@@ -82,6 +84,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed. 
 
+
 # Schedule—Bodies liable to pay levy
 
 _Section 3_
@@ -105,6 +108,7 @@ _Section 3_
 18.           Pipeline Authority 
 
 19.           Qantas Airways Limited 
+
 
 # Notes to the _Commonwealth Borrowing Levy Act 1987_
 
@@ -136,11 +140,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -150,444 +156,446 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Commonwealth Borrowing Levy Act 1987</div>
-  </td>
-  <td>
-    <div>114, 1987</div>
-  </td>
-  <td>
-    <div>2 Dec 1987</div>
-  </td>
-  <td>
-    <div>2 Dec 1987</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Borrowing Levy Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>22, 1988</div>
-  </td>
-  <td>
-    <div>11 May 1988</div>
-  </td>
-  <td>
-    <div>30 Apr 1988 ( <i>see</i>s. 2 and <i>Gazette</i>1988, No. S117 )</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telecommunications Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>121, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Ss. 5, 6, 10, 12, 13, 23(2) and 26(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
+<tbody>
+  <tr>
+    <td>
+      <div>Commonwealth Borrowing Levy Act 1987</div>
+    </td>
+    <td>
+      <div>114, 1987</div>
+    </td>
+    <td>
+      <div>2 Dec 1987</div>
+    </td>
+    <td>
+      <div>2 Dec 1987</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Borrowing Levy Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>22, 1988</div>
+    </td>
+    <td>
+      <div>11 May 1988</div>
+    </td>
+    <td>
+      <div>30 Apr 1988 ( <i>see</i>s. 2 and <i>Gazette</i>1988, No. S117 )</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Telecommunications Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>121, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>Ss. 5, 6, 10, 12, 13, 23(2) and 26(1): 1 Jan 1989 ( <i>see Gazette</i>1988, No. S402) 
 Ss. 14, 23(3) and 26(2): 30 June 1989 ( <i>see Gazette</i>1989, No. S216) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Postal Services Amendment Act 1988</div>
-  </td>
-  <td>
-    <div>126, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Postal Services Amendment Act 1988</div>
+    </td>
+    <td>
+      <div>126, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>Ss. 4, 5, 9–11, 21(2) and 22(1): 
 1 Jan 1989 ( <i>see Gazette</i>1988, 
 No. S402) 
 Ss. 12, 21(3) and 22(2): 30 June 1989 ( <i>see Gazette</i>1989, No. S216) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>ANL (Conversion into Public Company) Act 1988</div>
-  </td>
-  <td>
-    <div>127, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>S. 11: 1 July 1989 ( <i>see Gazette</i>1989, No. S210) <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>OTC (Conversion into Public Company) Act 1988</div>
-  </td>
-  <td>
-    <div>129, 1988</div>
-  </td>
-  <td>
-    <div>14 Dec 1988</div>
-  </td>
-  <td>
-    <div>Ss. 7(2), 8(2), 9, 11–22 and 25: 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>ANL (Conversion into Public Company) Act 1988</div>
+    </td>
+    <td>
+      <div>127, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>S. 11: 1 July 1989 ( <i>see Gazette</i>1989, No. S210) <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>OTC (Conversion into Public Company) Act 1988</div>
+    </td>
+    <td>
+      <div>129, 1988</div>
+    </td>
+    <td>
+      <div>14 Dec 1988</div>
+    </td>
+    <td>
+      <div>Ss. 7(2), 8(2), 9, 11–22 and 25: 
 1 Apr 1989 ( <i>see Gazette</i>1989, 
 No. S92) 
 S. 8(1): 16 Mar 1989 ( <i>see Gazette</i>1989, No. S92) 
 S. 8(3): <i>(b)</i> 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989</div>
-  </td>
-  <td>
-    <div>66, 1989</div>
-  </td>
-  <td>
-    <div>19 June 1989</div>
-  </td>
-  <td>
-    <div>Ss. 4, 6(1), 7(1), 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Snowy Mountains Engineering Corporation (Conversion into Public Company) Act 1989</div>
+    </td>
+    <td>
+      <div>66, 1989</div>
+    </td>
+    <td>
+      <div>19 June 1989</div>
+    </td>
+    <td>
+      <div>Ss. 4, 6(1), 7(1), 
 8–10, 12, 14(2), 15 and 16: 1 July 1989 ( <i>see Gazette</i>1989, No. S223) 
 S. 7(2): <i>(c)</i> 
 S. 14(1): 30 June 1989 ( <i>see Gazette</i>1989, No. S223) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Borrowing Levy Amendment Act 1989</div>
-  </td>
-  <td>
-    <div>128, 1989</div>
-  </td>
-  <td>
-    <div>7 Nov 1989</div>
-  </td>
-  <td>
-    <div>S. 4(a) and (d): 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Borrowing Levy Amendment Act 1989</div>
+    </td>
+    <td>
+      <div>128, 1989</div>
+    </td>
+    <td>
+      <div>7 Nov 1989</div>
+    </td>
+    <td>
+      <div>S. 4(a) and (d): 
 1 July 1989 
 S. 4(c): 11 May 1989 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990</div>
-  </td>
-  <td>
-    <div>77, 1990</div>
-  </td>
-  <td>
-    <div>22 Oct 1990</div>
-  </td>
-  <td>
-    <div>S. 17: 1 Apr 1991 ( <i>see Gazette</i>1991, No. S75) <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>AUSSAT Repeal Act 1991</div>
-  </td>
-  <td>
-    <div>145, 1991</div>
-  </td>
-  <td>
-    <div>21 Oct 1991</div>
-  </td>
-  <td>
-    <div>Part 3 (ss. 8–12): 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Commonwealth Serum Laboratories (Conversion into Public Company) Act 1990</div>
+    </td>
+    <td>
+      <div>77, 1990</div>
+    </td>
+    <td>
+      <div>22 Oct 1990</div>
+    </td>
+    <td>
+      <div>S. 17: 1 Apr 1991 ( <i>see Gazette</i>1991, No. S75) <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>AUSSAT Repeal Act 1991</div>
+    </td>
+    <td>
+      <div>145, 1991</div>
+    </td>
+    <td>
+      <div>21 Oct 1991</div>
+    </td>
+    <td>
+      <div>Part 3 (ss. 8–12): 
 1 Feb 1992 ( <i>see Gazette</i>1992, 
 No. S46) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Snowy Mountains Engineering Corporation Limited Sale Act 1993</div>
-  </td>
-  <td>
-    <div>54, 1993</div>
-  </td>
-  <td>
-    <div>27 Oct 1993</div>
-  </td>
-  <td>
-    <div>S. 44: <i>(e)</i></div>
-  </td>
-  <td>
-    <div>S. 42</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>CSL Sale Act 1993</div>
-  </td>
-  <td>
-    <div>88, 1993</div>
-  </td>
-  <td>
-    <div>30 Nov 1993</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1–4), 
+Remainder: Royal Assent 
+
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Snowy Mountains Engineering Corporation Limited Sale Act 1993</div>
+    </td>
+    <td>
+      <div>54, 1993</div>
+    </td>
+    <td>
+      <div>27 Oct 1993</div>
+    </td>
+    <td>
+      <div>S. 44: <i>(e)</i></div>
+    </td>
+    <td>
+      <div>S. 42</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>CSL Sale Act 1993</div>
+    </td>
+    <td>
+      <div>88, 1993</div>
+    </td>
+    <td>
+      <div>30 Nov 1993</div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1–4), 
 ss. 7 and 47: 
 Royal Assent 
 Ss. 5 and 6: 
 22 Feb 1991 
-Remainder: <i>(f)</i></div>
-  </td>
-  <td>
-    <div>S. 52</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Transport and Communications Legislation Amendment Act 1994</div>
-  </td>
-  <td>
-    <div>64, 1994</div>
-  </td>
-  <td>
-    <div>30 May 1994</div>
-  </td>
-  <td>
-    <div>S. 3(3): Royal Assent <i>(g)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>AeroSpace Technologies of Australia Limited Sale Act 1994</div>
-  </td>
-  <td>
-    <div>144, 1994</div>
-  </td>
-  <td>
-    <div>8 Dec 1994</div>
-  </td>
-  <td>
-    <div>Part 1 (ss. 1–6), 
+Remainder: <i>(f)</i> 
+
+</div>
+    </td>
+    <td>
+      <div>S. 52</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Transport and Communications Legislation Amendment Act 1994</div>
+    </td>
+    <td>
+      <div>64, 1994</div>
+    </td>
+    <td>
+      <div>30 May 1994</div>
+    </td>
+    <td>
+      <div>S. 3(3): Royal Assent <i>(g)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>AeroSpace Technologies of Australia Limited Sale Act 1994</div>
+    </td>
+    <td>
+      <div>144, 1994</div>
+    </td>
+    <td>
+      <div>8 Dec 1994</div>
+    </td>
+    <td>
+      <div>Part 1 (ss. 1–6), 
 ss. 7–11, Divs. 2 and 3 of Part 2 
 (ss. 14, 15) and Part 3 (s. 16): 
 12 Oct 1994 
-Remainder: <i>(h)</i></div>
-  </td>
-  <td>
-    <div>S. 20</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Civil Aviation Legislation Amendment Act 1995</div>
-  </td>
-  <td>
-    <div>82, 1995</div>
-  </td>
-  <td>
-    <div>30 June 1995</div>
-  </td>
-  <td>
-    <div>S. 5: 6 July 1995 ( <i>see Gazette</i>1995, No. S270) <i>(i)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>ANL Sale Act 1995</div>
-  </td>
-  <td>
-    <div>136, 1995</div>
-  </td>
-  <td>
-    <div>5 Dec 1995</div>
-  </td>
-  <td>
-    <div><i>(j)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996</div>
-  </td>
-  <td>
-    <div>14, 1996</div>
-  </td>
-  <td>
-    <div>24 June 1996</div>
-  </td>
-  <td>
-    <div>S. 36: Royal Assent <i>(k)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian National Railways Commission Sale Act 1997</div>
-  </td>
-  <td>
-    <div>96, 1997</div>
-  </td>
-  <td>
-    <div>30 June 1997</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 2): Royal Assent <i>(l)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Health Insurance Commission (Reform and Separation of Functions) Act 1997</div>
-  </td>
-  <td>
-    <div>159, 1997</div>
-  </td>
-  <td>
-    <div>11 Nov 1997</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 38): 1 Mar 1998 ( <i>see Gazette</i>1998, No. GN9) <i>(m)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Snowy Hydro Corporatisation (Consequential Amendments) Act 1997</div>
-  </td>
-  <td>
-    <div>177, 1997</div>
-  </td>
-  <td>
-    <div>21 Nov 1997</div>
-  </td>
-  <td>
-    <div>28 June 2002 ( <i>see</i>s. 2 and <i>Gazette</i>2002, No. 216)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Telstra (Further Dilution of Public Ownership) Act 1999</div>
-  </td>
-  <td>
-    <div>53, 1999</div>
-  </td>
-  <td>
-    <div>5 July 1999</div>
-  </td>
-  <td>
-    <div>5 July 1999</div>
-  </td>
-  <td>
-    <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
-  </td>
-  <td>
-    <div>55, 2001</div>
-  </td>
-  <td>
-    <div>28 June 2001</div>
-  </td>
-  <td>
-    <div>Ss. 4–14 and Schedule 3 (item 124): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(n)</i></div>
-  </td>
-  <td>
-    <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Trade Commission Legislation Amendment Act 2006</div>
-  </td>
-  <td>
-    <div>56, 2006</div>
-  </td>
-  <td>
-    <div>21 June 2006</div>
-  </td>
-  <td>
-    <div>Schedule 3 (item 1): 1 July 2006</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Medibank Private Sale Act 2006</div>
-  </td>
-  <td>
-    <div>160, 2006</div>
-  </td>
-  <td>
-    <div>11 Dec 2006</div>
-  </td>
-  <td>
-    <div>Schedule 3 (items 1, 2): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (item 2) \[ <i>see</i>Table A]</div>
-  </td>
-</tr></table>
+Remainder: <i>(h)</i> 
+
+</div>
+    </td>
+    <td>
+      <div>S. 20</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Civil Aviation Legislation Amendment Act 1995</div>
+    </td>
+    <td>
+      <div>82, 1995</div>
+    </td>
+    <td>
+      <div>30 June 1995</div>
+    </td>
+    <td>
+      <div>S. 5: 6 July 1995 ( <i>see Gazette</i>1995, No. S270) <i>(i)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>ANL Sale Act 1995</div>
+    </td>
+    <td>
+      <div>136, 1995</div>
+    </td>
+    <td>
+      <div>5 Dec 1995</div>
+    </td>
+    <td>
+      <div><i>(j)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Housing Loans Insurance Corporation (Transfer of Assets and Abolition) Act 1996</div>
+    </td>
+    <td>
+      <div>14, 1996</div>
+    </td>
+    <td>
+      <div>24 June 1996</div>
+    </td>
+    <td>
+      <div>S. 36: Royal Assent <i>(k)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian National Railways Commission Sale Act 1997</div>
+    </td>
+    <td>
+      <div>96, 1997</div>
+    </td>
+    <td>
+      <div>30 June 1997</div>
+    </td>
+    <td>
+      <div>Schedule 4 (item 2): Royal Assent <i>(l)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Health Insurance Commission (Reform and Separation of Functions) Act 1997</div>
+    </td>
+    <td>
+      <div>159, 1997</div>
+    </td>
+    <td>
+      <div>11 Nov 1997</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 38): 1 Mar 1998 ( <i>see Gazette</i>1998, No. GN9) <i>(m)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Snowy Hydro Corporatisation (Consequential Amendments) Act 1997</div>
+    </td>
+    <td>
+      <div>177, 1997</div>
+    </td>
+    <td>
+      <div>21 Nov 1997</div>
+    </td>
+    <td>
+      <div>28 June 2002 ( <i>see</i>s. 2 and <i>Gazette</i>2002, No. 216)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Telstra (Further Dilution of Public Ownership) Act 1999</div>
+    </td>
+    <td>
+      <div>53, 1999</div>
+    </td>
+    <td>
+      <div>5 July 1999</div>
+    </td>
+    <td>
+      <div>5 July 1999</div>
+    </td>
+    <td>
+      <div>Sch. 1 (item 2) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Corporations (Repeals, Consequentials and Transitionals) Act 2001</div>
+    </td>
+    <td>
+      <div>55, 2001</div>
+    </td>
+    <td>
+      <div>28 June 2001</div>
+    </td>
+    <td>
+      <div>Ss. 4–14 and Schedule 3 (item 124): 15 July 2001 ( <i>see Gazette</i>2001, No. S285) <i>(n)</i></div>
+    </td>
+    <td>
+      <div>Ss. 4–14 \[ <i>see</i>Note 1]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Trade Commission Legislation Amendment Act 2006</div>
+    </td>
+    <td>
+      <div>56, 2006</div>
+    </td>
+    <td>
+      <div>21 June 2006</div>
+    </td>
+    <td>
+      <div>Schedule 3 (item 1): 1 July 2006</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Commonwealth Borrowing Levy Act 1987_ was amended by section 11 only of the _ANL (Conversion into Public Company) Act 1988_, subsection 2(3) of which provides as follows:
 
@@ -663,6 +671,7 @@ _(n)_ The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 3 (it
 
                  (3)   Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the _Corporations Act 2001_.
 
+
 ## Table of Amendments
 
 <table>
@@ -686,36 +695,25 @@ _(n)_ The _Commonwealth Borrowing Levy Act 1987_ was amended by Schedule 3 (it
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 128, 1989; No. 55, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Schedule</div>
-  </td>
-  <td>
-    <div>am. Nos. 22, 121, 126, 127 and 129, 1988; Nos. 66 and 128, 1989; No. 77, 1990; No. 145, 1991; Nos. 54 and 88, 1993; Nos. 64 and 144, 1994; No. 82, 1995; No. 14, 1996; Nos. 96, 159 and 177, 1997; No. 53, 1999; No. 56, 2006</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 128, 1989; No. 55, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Schedule</div>
+    </td>
+    <td>
+      <div>am. Nos. 22, 121, 126, 127 and 129, 1988; Nos. 66 and 128, 1989; No. 77, 1990; No. 145, 1991; Nos. 54 and 88, 1993; Nos. 64 and 144, 1994; No. 82, 1995; No. 14, 1996; Nos. 96, 159 and 177, 1997; No. 53, 1999; No. 56, 2006</div>
+    </td>
+  </tr>
+</tbody></table>
 
-### Note 2
-
-_Medibank Private Sale Act 2006 (No. 160, 2006)_
-
-The following amendment commences on the designated sale day declared under section 3:
-
-## Schedule 3
-
-## 1  Item 15 of the Schedule
-
-Repeal the item.
-
-As at 3 January 2007 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -731,18 +729,5 @@ _Telstra (Further Dilution of Public Ownership) Act 1999 (No. 53, 1999)_
 
 (2)        Subitem (1) does not apply in relation to an amount of levy that was paid or payable before the commencement of this item.
 
-* * *
-
-_Medibank Private Sale Act 2006 (No. 160, 2006)_
-
-The following provision commences on the designated sale day declared under section 3:
-
-## Schedule 3
-
-## 2  Transitional—levy imposed by the _Commonwealth Borrowing Levy Act 1987_
-
-(1)        Subject to subitem (2), Medibank Private Limited is not liable after the commencement of this item to pay an amount of levy imposed by the _Commonwealth Borrowing Levy Act 1987_ on a borrowing undertaken before that commencement.
-
-(2)        Subitem (1) does not apply in relation to an amount of levy that was paid or payable before the commencement of this item.
 
  
