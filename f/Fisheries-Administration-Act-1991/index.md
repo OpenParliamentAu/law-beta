@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2011C00046/Html/51c8f0d5-2878-4182-a883-7855ff6a696b_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00804/Html/3bc19306-ec47-4486-8182-f02adaa0578c_files/image001.gif)
 
 # Fisheries Administration Act 1991
 
 **Act No. 161 of 1991 as amended**
 
-This compilation was prepared on 4 January 2011
+This compilation was prepared on 14 December 2010
  taking into account amendments up to Act No. 137 of 2010
 
 The text of any of those amendments not in force
@@ -18,219 +18,217 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                         1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Objects of Act
+[3](#3).            Objects of Act                                                                                      1
 
-[4](#4).            Interpretation
+[4](#4).            Interpretation                                                                                        1
 
 **Part 2—Australian Fisheries Management Authority** 
 
     **Division 1—Establishment, functions and powers of Authority**
 
-[5](#5).            Establishment
+[5](#5).            Establishment                                                                                       5
 
-[6](#6).            Objectives
+[6](#6).            Objectives                                                                                            5
 
-[6A](#6A).         Principles of ecologically sustainable development
+[6A](#6A).         Principles of ecologically sustainable development                              6
 
-[7](#7).            Functions
+[7](#7).            Functions                                                                                             6
 
-[8](#8).            Powers
+[8](#8).            Powers                                                                                                 9
 
-[9](#9).            Consultation
+[9](#9).            Consultation                                                                                       10
 
-[10](#10).          Authority is a body corporate
+[10](#10).          Authority is a body corporate                                                             10
 
-[10A](#10A).       Financial liabilities
+[10A](#10A).       Financial liabilities                                                                              11
 
-[10B](#10B).       The Commission and CEO
+[10B](#10B).       The Commission and CEO                                                                11
 
-[10C](#10C).       Minister may give directions to CEO about foreign compliance
+[10C](#10C).       Minister may give directions to CEO about foreign compliance        12
 
     **Division 2—Constitution of Commission**
 
-[11](#11).          Constitution of Commission
+[11](#11).          Constitution of Commission                                                              13
 
     **Division 3—Appointment of commissioners**
 
-[12](#12).          Appointment of commissioners
+[12](#12).          Appointment of commissioners                                                         14
 
-[13](#13).          Deputy Chairperson
+[13](#13).          Deputy Chairperson                                                                           15
 
-[14](#14).          Acting CEO
+[14](#14).          Acting CEO                                                                                       16
 
-[15](#15).          Other employment
+[15](#15).          Other employment                                                                              17
 
-[17](#17).          Remuneration and allowances
+[17](#17).          Remuneration and allowances                                                            17
 
-[18](#18).          Leave of absence
+[18](#18).          Leave of absence                                                                                18
 
-[19](#19).          Resignation
+[19](#19).          Resignation                                                                                        19
 
-[20](#20).          Disclosure of interests to Minister
+[20](#20).          Disclosure of interests to Minister                                                     19
 
-[21](#21).          Termination of appointment
+[21](#21).          Termination of appointment                                                               19
 
-[22](#22).          Terms and conditions of appointment not provided for by Act
+[22](#22).          Terms and conditions of appointment not provided for by Act          21
 
     **Division 4—Operation of Commission**
 
-[23](#23).          Meetings
+[23](#23).          Meetings                                                                                            22
 
-[24](#24).          Disclosure of interests to Commission
+[24](#24).          Disclosure of interests to Commission                                               23
 
-[25](#25).          Decisions without meetings
+[25](#25).          Decisions without meetings                                                               23
 
     **Division 5—Committees**
 
-[54](#54).          Committees
+[54](#54).          Committees                                                                                        25
 
-[55](#55).          Committees other than management advisory committees
+[55](#55).          Committees other than management advisory committees                  25
 
-[56](#56).          Management advisory committees
+[56](#56).          Management advisory committees                                                     26
 
-[57](#57).          Functions of management advisory committees
+[57](#57).          Functions of management advisory committees                                 26
 
-[58](#58).          Powers of management advisory committee etc 
+[58](#58).          Powers of management advisory committee etc                                 26
 
-[59](#59).          Management advisory committee to act in accordance with policies etc  of Authority
+[59](#59).          Management advisory committee to act in accordance with policies etc  of Authority              27
 
-[60](#60).          Constitution of management advisory committees
+[60](#60).          Constitution of management advisory committees                             27
 
-[61](#61).          Acting Chairperson
+[61](#61).          Acting Chairperson                                                                            28
 
-[62](#62).          Appointment of members
+[62](#62).          Appointment of members                                                                   29
 
-[63](#63).          Term of office
+[63](#63).          Term of office                                                                                    29
 
-[64](#64).          Leave of absence
+[64](#64).          Leave of absence                                                                                29
 
-[64A](#64A).       Resignation
+[64A](#64A).       Resignation                                                                                        30
 
-[64B](#64B).       Termination of appointment
+[64B](#64B).       Termination of appointment                                                               30
 
-[64C](#64C).       Disclosure of interests to management advisory committee
+[64C](#64C).       Disclosure of interests to management advisory committee               30
 
-[64D](#64D).       Disclosure of interests to Authority
+[64D](#64D).       Disclosure of interests to Authority                                                   31
 
-[65](#65).          Meetings
+[65](#65).          Meetings                                                                                            31
 
-[65A](#65A).       Decisions without meetings
+[65A](#65A).       Decisions without meetings                                                               32
 
-[66](#66).          Arrangements relating to staff etc 
+[66](#66).          Arrangements relating to staff etc                                                       32
 
-[67](#67).          Remuneration and allowances
+[67](#67).          Remuneration and allowances                                                            32
 
     **Division 6—Staff and consultants**
 
-[68](#68).          Staff
+[68](#68).          Staff                                                                                                   34
 
-[69](#69).          Consultants
+[69](#69).          Consultants                                                                                        34
 
     **Division 7—Corporate and annual operational plans**
 
-[72](#72).          Development of corporate plan
+[72](#72).          Development of corporate plan                                                          35
 
-[73](#73).          Approval of corporate plan
+[73](#73).          Approval of corporate plan                                                                35
 
-[74](#74).          Variation of corporate plan by Authority
+[74](#74).          Variation of corporate plan by Authority                                           36
 
-[75](#75).          Variation at request of Minister
+[75](#75).          Variation at request of Minister                                                          36
 
-[76](#76).          Date of effect of variations
+[76](#76).          Date of effect of variations                                                                 37
 
-[77](#77).          Development of annual operational plan
+[77](#77).          Development of annual operational plan                                            37
 
-[78](#78).          Approval of annual operational plan
+[78](#78).          Approval of annual operational plan                                                  38
 
-[79](#79).          Variation of annual operational plan
+[79](#79).          Variation of annual operational plan                                                   38
 
     **Division 9—Miscellaneous**
 
-[87](#87).          Annual report
+[87](#87).          Annual report                                                                                     39
 
-[88](#88).          Co-management arrangements
+[89](#89).          Peak industry body to be given copy of report etc                             39
 
-[89](#89).          Peak industry body to be given copy of report etc 
+[90](#90).          Public meetings                                                                                  40
 
-[90](#90).          Public meetings
+[91](#91).          Minister may give directions in exceptional circumstances                40
 
-[91](#91).          Minister may give directions in exceptional circumstances
+[92](#92).          Delegation of functions and powers for which Commission is responsible             42
 
-[92](#92).          Delegation of functions and powers for which Commission is responsible
+[93](#93).          Delegation of functions and powers for which CEO is responsible   42
 
-[93](#93).          Delegation of functions and powers for which CEO is responsible
+[94](#94).          Fees                                                                                                    43
 
-[94](#94).          Fees
+[94A](#94A).       Exemption from tax                                                                            43
 
-[94A](#94A).       Exemption from tax
+[94B](#94B).       The AFMA Special Account                                                             43
 
-[94B](#94B).       The AFMA Special Account
+[94C](#94C).       Credits to the AFMA Special Account                                              43
 
-[94C](#94C).       Credits to the AFMA Special Account
+[94D](#94D).       Purposes of the AFMA Special Account                                           44
 
-[94D](#94D).       Purposes of the AFMA Special Account
-
-[94E](#94E).        Adjusted levy amounts
+[94E](#94E).        Adjusted levy amounts                                                                       44
 
 **Part 3—The Fishing Industry Policy Council** 
 
     **Division 1—Preliminary**
 
-[95](#95).          Interpretation
+[95](#95).          Interpretation                                                                                      46
 
     **Division 2—Establishment, functions and powers of Council**
 
-[96](#96).          Establishment of Council
+[96](#96).          Establishment of Council                                                                   47
 
-[97](#97).          Objectives
+[97](#97).          Objectives                                                                                          47
 
-[98](#98).          Functions of Council
+[98](#98).          Functions of Council                                                                          47
 
-[99](#99).          Powers of Council
+[99](#99).          Powers of Council                                                                             48
 
-[100](#100).        Industry conferences
+[100](#100).        Industry conferences                                                                          48
 
-[101](#101).        Publication of Council reports
+[101](#101).        Publication of Council reports                                                            48
 
     **Division 3—Constitution and meetings of Council**
 
-[102](#102).        Constitution of Council
+[102](#102).        Constitution of Council                                                                      50
 
-[103](#103).        Acting Chairperson
+[103](#103).        Acting Chairperson                                                                            51
 
-[104](#104).        Deputies of members
+[104](#104).        Deputies of members                                                                         51
 
-[105](#105).        Resignation of members
+[105](#105).        Resignation of members                                                                     52
 
-[106](#106).        Termination of appointments etc 
+[106](#106).        Termination of appointments etc                                                        52
 
-[107](#107).        Disclosure of interests
+[107](#107).        Disclosure of interests                                                                        53
 
-[108](#108).        Meetings
+[108](#108).        Meetings                                                                                            53
 
     **Division 4—Working groups of Council**
 
-[109](#109).        Working groups of Council
+[109](#109).        Working groups of Council                                                               55
 
-[110](#110).        Disclosure of interests of members of working groups
+[110](#110).        Disclosure of interests of members of working groups                     56
 
     **Division 5—Miscellaneous**
 
-[111](#111).        Remuneration and allowances
+[111](#111).        Remuneration and allowances                                                            57
 
-[112](#112).        Arrangements relating to staff etc 
+[112](#112).        Arrangements relating to staff etc                                                       57
 
-[113](#113).        Annual report
+[113](#113).        Annual report                                                                                     58
 
 **Part 4—Miscellaneous**
 
-[114](#114).        Regulations
+[114](#114).        Regulations                                                                                        59
 
 **Notes** 
 
@@ -271,8 +269,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="author"></a>**_Authority_** means the Australian Fisheries Management Authority established by section 5.
 
                     <a name="ceo"></a>**_CEO_** means the Chief Executive Officer (see subsection 10B(1)).
-
-                    <a name="co-manag-arrang"></a>**_co-management arrangement_** has the meaning given in section 88.
 
                     <a name="commiss"></a>**_Commission_** means the Commission established by subsection 10B(1).
 
@@ -329,14 +325,6 @@ Note:          The functions and powers of the Authority are s
                     <a name="port-permit"></a>**_port permit_** has the same meaning as in the _Fisheries Management Act 1991_.
 
                     <a name="precautari-principl"></a>**_precautionary principle_** has the same meaning as in clause 3.5.1 of the Intergovernmental Agreement on the Environment, a copy of which is set out in the Schedule to the _National Environment Protection Council Act 1994_.
-
-                    <a name="primari-stakehold"></a>**_primary stakeholder_** in relation to a fishery means:
-
-                     (a)  the holder of a fishing concession in the fishery; or
-
-                     (b)  an incorporated body that represents those holders (including a peak body, for example); or
-
-                     (c)  a person prescribed by the regulations.
 
                     <a name="principl-ecolog-sustain-develop"></a>**_principles of ecologically sustainable development_** has the meaning given by section 6A.
 
@@ -444,13 +432,7 @@ Note:          Definitions relating only to Part 3 are in se
 
                       (f)  to consult, and negotiate, with foreign governments and foreign business interests in relation to access by foreign fishing vessels to Australian fisheries and Australian ports;
 
-                    (fa)  to consult and exchange information with an entity in a State, Territory or foreign country that has similar functions to the Authority’s functions;
-
-                     (g)  to make its expertise in fisheries management available to the following entities (including by providing information technology, services or technical experts, for example):
-
-                              (i)  an entity in the Commonwealth, a State, a Territory or a foreign country;
-
-                             (ii)  another person;
+                     (g)  to consult and exchange information with, and make its expertise in fisheries management available to, State, Territory or overseas bodies having functions similar to the Authority’s functions;
 
                     (ga)  to liaise and co-operate with and, where obliged under this Act or any associated law or under international law or international agreements to do so, to give information to, overseas and international bodies on matters relating to global, regional or subregional fisheries management organisations or arrangements;
 
@@ -966,7 +948,7 @@ the remaining commissioners at the meeting constitute a quorum for the purpose o
 
 ##### <a id="54"></a>54  Committees
 
-                   The Authority may establish committees to assist it in the performance of its functions and the exercise of its powers, and may abolish any such committee.
+                   The Authority may establish committees to assist it in the performance of its functions and the exercise of its powers, and, subject to subsection 56(4), may abolish any such committee.
 
 ##### <a id="55"></a>55  Committees other than management advisory committees
 
@@ -1003,6 +985,8 @@ the member must, as soon as practicable after the relevant facts have come to th
              (2)  Where a plan of management makes provision for the performance of functions, or the exercise of powers, by a management advisory committee, the Authority is to establish such a committee for the purposes of that plan.
 
              (3)  The Authority may, after consultation with the members of a management advisory committee, vary the committee’s functions and powers.
+
+             (4)  The Authority must not abolish a management advisory committee referred to in subsection (2) while the plan of management makes provision as mentioned in that subsection.
 
 ##### <a id="57"></a>57  Functions of management advisory committees
 
@@ -1378,10 +1362,6 @@ Note:          See also section 34C of the _Acts Interpretat
 
                      (c)  an evaluation of its overall performance against the performance indicators set out in the corporate plan applicable to the period and the annual operational plan that came into force at the beginning of that year.
 
-##### <a id="88"></a>88  Co-management arrangements
-
-                   The Authority may enter into an arrangement (a **_co-management arrangement_**) with stakeholders in a fishery under which the stakeholders assist the Authority to perform the Authority’s functions and powers for the sustainable management of the fishery.
-
 ##### <a id="89"></a>89  Peak industry body to be given copy of report etc.
 
              (1)  Where a report of the Authority’s operations during a year has been laid before each House of the Parliament, the Chairperson of the Commission is to:
@@ -1482,9 +1462,7 @@ any of the functions or powers of the Authority that have been delegated to the 
 
                      (d)  a person engaged under contract to assist the Authority; or
 
-                     (e)  an officer within the meaning of the _Fisheries Management Act 1991_ or the _Torres Strait__Fisheries Act 1984_; or
-
-                      (f)  a primary stakeholder under a co-management arrangement;
+                     (e)  an officer within the meaning of the _Fisheries Management Act 1991_ or the _Torres Strait__Fisheries Act 1984_;
 
 any of the functions or powers of the Authority for which the CEO is responsible.
 
@@ -1540,7 +1518,7 @@ Note:          An Appropriation Act may contain a provision to
 
              (1)  The **_adjusted levy amounts_** to be credited to the AFMA Special Account under paragraph 94C(a) are the amounts worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00046/Html/51c8f0d5-2878-4182-a883-7855ff6a696b_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00804/Html/3bc19306-ec47-4486-8182-f02adaa0578c_files/image002.gif)
 
                    where:
 
@@ -2232,7 +2210,7 @@ Remainder: Royal Assent</div>
     <div>7 Dec 2010</div>
   </td>
   <td>
-    <div>Schedule 1: 4 Jan 2011</div>
+    <div>Schedule 1: \[ <i>see</i>Note 2]</div>
   </td>
   <td>
     <div>—</div>
@@ -2285,7 +2263,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005; No. 8, 2006; No. 36, 2008; No. 137, 2010</div>
+    <div>am. No. 129, 1994; No. 120, 1997; No. 29, 2004; No. 8, 2005; No. 8, 2006; No. 36, 2008</div>
   </td>
 </tr>
 <tr>
@@ -2325,7 +2303,7 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>S. 7</div>
   </td>
   <td>
-    <div>am. Nos. 120 and 152, 1997; No. 143, 1999; No. 50, 2000; No. 29, 2004; No. 99, 2005; No. 104, 2007; No. 137, 2010</div>
+    <div>am. Nos. 120 and 152, 1997; No. 143, 1999; No. 50, 2000; No. 29, 2004; No. 99, 2005; No. 104, 2007</div>
   </td>
 </tr>
 <tr>
@@ -2690,26 +2668,10 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 55</div>
   </td>
   <td>
     <div>am. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>am. No. 137, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2962,14 +2924,6 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 88</div>
   </td>
   <td>
@@ -2982,14 +2936,6 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
   </td>
   <td>
     <div>rep. No. 36, 2008</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>ad. No. 137, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3066,14 +3012,6 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
 </tr>
 <tr>
   <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 2010</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 93A</div>
   </td>
   <td>
@@ -3144,6 +3082,68 @@ _(b)_     The _Fisheries Administration Act 1991_ was amended by Schedul
     <div>am. No. 36, 2008</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Fisheries Legislation Amendment Act (No. 2) 2010 (No. 137, 2010)_
+
+The following amendments commence on 4 January 2011:
+
+## Schedule 1
+
+## 1  Subsection 4(1)
+
+Insert:
+
+                    <a name="co-manag-arrang"></a>**_co-management arrangement_** has the meaning given in section 88.
+
+## 2  Subsection 4(1)
+
+Insert:
+
+                    <a name="primari-stakehold"></a>**_primary stakeholder_** in relation to a fishery means:
+
+                     (a)  the holder of a fishing concession in the fishery; or
+
+                     (b)  an incorporated body that represents those holders (including a peak body, for example); or
+
+                     (c)  a person prescribed by the regulations.
+
+## 3  Paragraph 7(1)(g)
+
+Repeal the paragraph, substitute:
+
+                    (fa)  to consult and exchange information with an entity in a State, Territory or foreign country that has similar functions to the Authority’s functions;
+
+                     (g)  to make its expertise in fisheries management available to the following entities (including by providing information technology, services or technical experts, for example):
+
+                              (i)  an entity in the Commonwealth, a State, a Territory or a foreign country;
+
+                             (ii)  another person;
+
+## 4  Section 54
+
+Omit “, subject to subsection 56(4),”.
+
+## 5  Subsection 56(4)
+
+Repeal the subsection.
+
+## 6  After section 87
+
+Insert:
+
+##### <a id="88"></a>88  Co-management arrangements
+
+                   The Authority may enter into an arrangement (a **_co-management arrangement_**) with stakeholders in a fishery under which the stakeholders assist the Authority to perform the Authority’s functions and powers for the sustainable management of the fishery.
+
+## 7  After paragraph 93(1)(e)
+
+Insert:
+
+                 or (f)  a primary stakeholder under a co-management arrangement;
+
+As at 14 December 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
