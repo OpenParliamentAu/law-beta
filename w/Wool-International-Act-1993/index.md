@@ -1,8 +1,7 @@
 
 Wool International Act 1993
 Act No. 64 of 1993 as amended
-This compilation was prepared on 20 July 2001 taking into account amendments up to Act No. 55 of 2001
-The text of any of those amendments not in force on that date is appended in the Notes section
+This compilation was prepared on 16 February 2000 taking into account amendments up to Act No. 40 of 1999
 Prepared by the Office of Legislative Drafting, Attorney-General’s Department, Canberra
   
   
@@ -155,11 +154,11 @@ is not taken to be a charge on any of the units of equity in WoolStock Australia
 	(a)	an individual is the registered holder of a unit of equity in WoolStock Australia Limited; and
 	(b)	a charge is registered under section 22J on that unit of equity;
 that charge (first charge) has priority over any other charge on that unit of equity that is registered under that section after the registration of the first charge.
-Note:	If a unit of equity in WoolStock Australia Limited held by a company is the subject of more than one charge, the order of priority for those charges is to be decided in accordance with the Corporations Act 2001.
+Note:	If a unit of equity in WoolStock Australia Limited held by a company is the subject of more than one charge, the order of priority for those charges is to be decided in accordance with the Corporations Law.
 22KA  Registered equity holders—status as members of WoolStock Australia Limited
-		For the purposes of the Corporations Act 2001, a person is not to be treated as being a member of WoolStock Australia Limited merely because the person is a registered equity holder.
+		For the purposes of the Corporations Law, a person is not to be treated as being a member of WoolStock Australia Limited merely because the person is a registered equity holder.
 22KB  Nature of claims of registered equity holders
-		For the purposes of the Corporations Act 2001:
+		For the purposes of the Corporations Law:
 	(a)	for each distribution under Part 4B of this Act, WoolStock Australia Limited incurs a debt at the end of the operative day for the distribution; and
 	(b)	in a winding up of WoolStock Australia Limited:
 	(i)	the claims of registered equity holders are admissible to proof against WoolStock Australia Limited; and
@@ -176,7 +175,7 @@ requests WoolStock Australia Limited to do so, WoolStock Australia Limited must:
 	(1)	WoolStock Australia Limited must give to a registered equity holder who so requests a certificate stating the number of units of equity held by the equity holder on the day on which the certificate is given.
 	(2)	The certificate is prima facie evidence of the matters stated in it.
 22MA  Unclaimed units of equity
-		Section 1343 of the Corporations Act 2001 has effect in relation to units of equity shown in the register of equity holders in the same way as that section applies in relation to securities shown in an appropriate register of a company.
+		Section 1343 of the Corporations Law has effect in relation to units of equity shown in the register of equity holders in the same way as that section applies in relation to securities shown in an appropriate register of a company.
 
 Part 4B—Distribution of surplus money of WoolStock Australia Limited among registered equity holders
   
@@ -295,7 +294,6 @@ Part 9—Miscellaneous
 Notes to the Wool International Act 1993
 Note 1
 The Wool International Act 1993 as shown in this compilation comprises Act No. 64, 1993 amended as indicated in the Tables below. 
-For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
 All relevant information pertaining to application, saving or transitional provisions prior to 30 June 1997 is not included in this compilation. For subsequent information see Table A.
 Table of Acts
 Act
@@ -337,7 +335,7 @@ Audit (Transitional and Miscellaneous) Amendment Act 1997
 152, 1997
 24 Oct 1997
 Schedule 2 (items 1295‑1306): 1 Jan 1998 (see Gazette 1997, No. GN49) (d) Schedule 2 (items 1307‑1310): (d)
-—
+
 Financial Sector Reform (Consequential Amendments) Act 1998
 48, 1998
 29 June 1998
@@ -351,14 +349,8 @@ Wool International Amendment Act 1998
 Wool International Privatisation Act 1999
 40, 1999
 3 June 1999
-Schedule 2: 1 July 1999 (see Gazette 1999, No. S250) Remainder: Royal Assent
+Schedule 1: Royal Assent Remainder: 1 July 1999 (see Gazette 1999, No. S250) (f) 
 —
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-55, 2001
-28 June 2001
-Ss. 4‑14 and Schedule 3 (items 563-566): 15 July 2001 (see Gazette 2001, No. S285) (f)
-Ss. 4‑14
-
 (a)	Parts 10-12 (ss. 73-87) of the Wool International Act 1993 were repealed by Schedule 1 (item 26) of the Wool International Amendment Act 1997 before a date was fixed for the commencement.
 (b)	The Wool International Act 1993 was amended by Schedule 2 only of the Primary Industries and Energy Legislation Amendment Act (No. 2) 1995, subsection 2(1) of which provides as follows: 
 	(1)	Subject to subsection (2), this Act commences on the day on which it receives the Royal Assent.
@@ -369,10 +361,6 @@ Ss. 4‑14
 	Schedule 1 (items 1307-1310) amend sections of the Wool International Act 1993 which were repealed see (a) above.
 (e)	The Wool International Act 1993 was amended by Schedule 1 (item 197) only of the Financial Sector Reform (Consequential Amendments) Act 1998, subsection 2(2) of which provides as follows:
 	(2)	Subject to subsections (3) to (14), Schedules 1, 2 and 3 commence on the commencement of the Australian Prudential Regulation Authority Act 1998.
-(f)	The Wool International Act 1993 was amended by Schedule 3 (items 563‑566) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
-
-
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
@@ -423,7 +411,7 @@ Part 3 	 (ss. 12‑17)
 rep. No. 40, 1999
 Ss. 12‑17	
 rep. No. 40, 1999
-Part 4 	 (ss. 18, 20, 20A, 21, 22)
+Part 3 	 (ss. 18, 20, 20A, 21, 22)
 rep. No. 40, 1999
 S. 18	
 am. No. 62, 1996; No. 124, 1998; No. 40, 1999
@@ -467,34 +455,24 @@ ad. No. 108, 1997
 rep. No. 40, 1999
 Heading to s. 22F	
 am. No. 40, 1999
-S. 22F	
+Ss. 22F‑22J	
 ad. No. 108, 1997
 
-am. No. 40, 1999
-S. 22G	
-ad. No. 108, 1997
-rs. No. 40, 1999
-Ss. 22H-22J	
-ad. No. 108, 1997
 am. No. 40, 1999
 S. 22K	
 ad. No. 108, 1997
 
 am. No. 40, 1999
 Note to s. 22K	
-am. No. 40, 1999; No. 55, 2001
+am. No. 40, 1999
 Ss. 22KA, 22KB	
 ad. No. 40, 1999
-
-am. No. 55, 2001
 Ss. 22L, 22M	
 ad. No. 108, 1997
 
 am. No. 40, 1999
 S. 22MA	
 ad. No. 40, 1999
-
-am. No. 55, 2001
 Heading to Part 4B	
 rs. No. 40, 1999
 Part 4B 	 (ss. 22N-22S)
@@ -539,8 +517,9 @@ Ss. 22Z, 22ZA
 ad. No. 108, 1997
 
 rs. No. 40, 1999
-Part 4E 	 (ss. 22ZB-22ZF)
+Part 4E  (ss. 22ZB-22ZF)	
 ad. No. 108, 1997
+
 rep. No. 40, 1999
 Ss. 22ZB–22ZF	
 ad. No. 108, 1997
@@ -552,7 +531,7 @@ ad. No. 124, 1998
 am. No. 40, 1999
 
 rep. No. 40, 1999
-Part 5 	 (ss. 23-35)
+Part 5 	 (ss. 23‑35)
 rep. No. 40, 1999
 S. 23	
 am. No. 108, 1997
@@ -664,9 +643,9 @@ Ss. 73, 74
 ad. No. 108, 1997
 
 rep. No. 40, 1999
-Part 10 	 (ss. 73-76)
+Part 10 	 (ss. 73‑76)
 rep. No. 108, 1997
-Ss. 73-76	
+Ss. 73‑76	
 rep. No. 108, 1997
 Part 11 	 (ss. 77, 78)
 rep. No.108, 1997
@@ -681,10 +660,10 @@ Application, saving or transitional provisions
 Wool International Amendment Act 1997 (No. 108, 1997)
 Schedule 1
 19  Transitional
-	(1)	A person who, immediately before the commencement of this Part, was a member of Wool International referred to in paragraph 23(1)(d) of the Wool International Act 1993 as then in force:
+(1)	A person who, immediately before the commencement of this Part, was a member of Wool International referred to in paragraph 23(1)(d) of the Wool International Act 1993 as then in force:
 	(a)	ceases, on the commencement of this Part, to be a member of Wool International; but
 	(b)	is eligible for re-appointment.
-	(2)	Despite subsection 23(4) of the Wool International Act 1993, the 2 members referred to in paragraph 23(1)(d) of that Act who are first appointed after the commencement of this Part are not to be persons nominated by a selection committee constituted under that Act. In appointing them, the Minister must, however, consult with the members of Wool International referred to in paragraphs 23(1)(a), (b) and (c) of that Act.
+(2)	Despite subsection 23(4) of the Wool International Act 1993, the 2 members referred to in paragraph 23(1)(d) of that Act who are first appointed after the commencement of this Part are not to be persons nominated by a selection committee constituted under that Act. In appointing them, the Minister must, however, consult with the members of Wool International referred to in paragraphs 23(1)(a), (b) and (c) of that Act.
 
       
 
