@@ -1,7 +1,7 @@
 
 National Residue Survey (Excise) Levy Act 1998
 Act No. 33 of 1998 as amended
-This compilation was prepared on 30 July 2001 taking into account amendments up to Act No. 55 of 2001
+This compilation was prepared on 19 December 2000  taking into account amendments up to Act No. 29 of 1999
 The text of any of those amendments not in force on that date is appended in the Notes section
 Prepared by the Office of Legislative Drafting, Attorney‑General’s Department, Canberra
   
@@ -112,7 +112,7 @@ Schedule 14—Ratite slaughter	43
 Schedule 15—Sheep, lambs and goats transactions	44
 1	Definitions	44
 2	Imposition of levy	44
-3	Rate of levy	46
+3	Rate of levy	45
 4	Who pays the levy	46
 Schedule 16—Wheat	47
 1	Definitions	47
@@ -156,7 +156,7 @@ Schedule 1—Cattle transactions
 	(1)	In this Schedule:
 cattle, dairy cattle, licensed dairy farmer and lot-fed cattle have the same respective meanings as in Schedule 3 to the Primary Industries (Excise) Levies Act 1999.
 	(2)	For the purposes of this Schedule, in determining the weight of a carcase immediately after it has been dressed, no adjustment of that weight is to be made on account of shrinkage.
-	(3)	For the purposes of this Schedule, the question whether companies were or are related to each other is to be determined in the same manner as the question whether 2 corporations are related to each other is determined under the Corporations Act 2001.
+	(3)	For the purposes of this Schedule, the question whether companies were or are related to each other is to be determined in the same manner as the question whether 2 corporations are related to each other is determined under the Corporations Law.
 2  Imposition of levy
 	(1)	National Residue Survey Levy is imposed on:
 	(a)	each transaction entered into after the commencement of this Schedule by which the ownership of cattle is transferred from one person to another; or
@@ -688,7 +688,7 @@ Schedule 15—Sheep, lambs and goats transactions
 1  Definitions
 	(1)	In this Schedule:
 lamb, sheep and slaughter have the same respective meanings as in Schedule 18 to the Primary Industries (Excise) Levies Act 1999.
-	(2)	For the purposes of this Schedule, the question whether companies were or are related to each other is to be determined in the same manner as the question whether 2 corporations are related to each other is determined under the Corporations Act 2001.
+	(2)	For the purposes of this Schedule, the question whether companies were or are related to each other is to be determined in the same manner as the question whether 2 corporations are related to each other is determined under the Corporations Law.
 2  Imposition of levy
 	(1)	National Residue Survey Levy is imposed on:
 	(a)	each transaction entered into after the commencement of this Schedule by which the ownership of sheep, lambs or goats is transferred from one person to another; or
@@ -756,8 +756,7 @@ is less than the prescribed minimum amount for that levy year, National Residue 
 Notes to the National Residue Survey (Excise) Levy Act 1998
 Note 1
 The National Residue Survey (Excise) Levy Act 1998 as shown in this compilation comprises Act No. 33, 1998 amended as indicated in the Tables below.
-For application, saving or transitional provisions made by the Corporations (Repeals, Consequentials and Transitionals) Act 2001, see Act No. 55, 2001.
-For all other relevant information pertaining to application, saving or transitional provisions see Table A.
+For all relevant information pertaining to application, saving or transitional provisions see Table A.
 Table of Acts
 Act
 Number  and year
@@ -774,20 +773,11 @@ National Residue Survey (Excise) Levy Amendment Act 1999
 14 May 1999
 1 July 1999 (see s. 2)
 Sch. 1 (item 17)
-Corporations (Repeals, Consequentials and Transitionals) Act 2001
-55, 2001
-28 June 2001
-Ss. 4‑14 and Schedule 3 (items 397, 398): 15 July 2001 (see Gazette 2001, No. S285) (a)
-Ss. 4‑14
-(a)	The National Residue Survey (Excise) Levy Act 1998 was amended by Schedule 3 (items 397 and 398) only of the Corporations (Repeals, Consequentials and Transitionals) Act 2001, subsection 2(3) of which provides as follows:
-	(3)	Subject to subsections (4) to (10), Schedule 3 commences, or is taken to have commenced, at the same time as the Corporations Act 2001.
 Table of Amendments
 ad. = added or inserted      am. = amended      rep. = repealed      rs. = repealed and substituted
 Provision affected
 How affected
-Schedule 1 	
-am. No. 29, 1999; No. 55, 2001
-Schedules 2-4 	
+Schedules 1-4 	
 am. No. 29, 1999
 Schedules 6, 7	
 am. No. 29, 1999
@@ -796,7 +786,7 @@ am. No. 29, 1999
 Schedules 12, 13	
 am. No. 29, 1999
 Schedule 15 	
-am. No. 29, 1999; No. 55, 2001
+am. No. 29, 1999
 Table A
 Application, Saving or Transitional Provisions
 National Residue Survey (Excise) Levy Amendment Act 1999 (No. 29, 1999)
