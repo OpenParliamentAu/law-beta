@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image001.gif)
 
 # Defence Home Ownership Assistance Scheme Act 2008
 
 **Act No. 27 of 2008 as amended**
 
-This compilation was prepared on 2 August 2010
+This compilation was prepared on 7 July 2010
  taking into account amendments up to Act No. 95 of 2010
 
 The text of any of those amendments not in force 
@@ -512,7 +512,7 @@ Note:          For the definition of **_partner_**, see sectio
 
 Membership of the Reserves
 
-             (1)  For the purposes of this Act, a person who has been engaged (by enlistment, appointment or transfer) as a member of the Reserves  at a particular time (the **_engagement time_**) is to be treated as a member of the Reserves until:
+             (1)  For the purposes of this Act, a person who has been engaged (by enlistment or appointment) as a member of the Reserves  at a particular time (the **_engagement time_**) is to be treated as a member of the Reserves until:
 
                      (a)  the engagement ends; or
 
@@ -624,7 +624,7 @@ Note:          For the definition of **_effective service_**, 
 
 ##### <a id="11"></a>11  Eligibility—rejoining members
 
-                   A person is eligible as a rejoining member at a particular time (the **_eligibility time_**) if the person:
+                   A person is eligible as a rejoining member at a particular time (the **_eligibility time_**) if the person:
 
                      (a)  before, on or after the commencing day, stopped being a member of the Defence Force; and
 
@@ -1808,7 +1808,7 @@ Note:          Part 5 provides for the administrative review
 
                    If subsidy is payable to a subsidised borrower in relation to a subsidised loan during an entitlement period, the amount of subsidy (the subsidised borrower’s **_monthly subsidy_**) for each month during the period is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image002.gif)
 
 Note:          The average monthly interest is worked out under section 50.
 
@@ -1816,13 +1816,13 @@ Note:          The average monthly interest is worked out unde
 
              (1)  **_Average monthly interest_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image003.gif)
 
 Note:          The loan capital is worked out under section 51.
 
              (2)  The **_monthly repayment_**, for the formula in subsection (1), is the amount worked out in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image004.gif)
 
 Note 1:       The loan capital is worked out under section 51.
 
@@ -2196,7 +2196,7 @@ Note 2:       If the subsidised borrower and another person (other t
 
              (1)  If a subsidy lump sum is payable to a subsidised borrower in relation to a subsidised loan, the amount of the subsidy lump sum is worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00524/Html/DefHomeOwnerAssistScheme2008_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00452/Html/DefHomeOwnerAssistScheme2008_image005.gif)
 
              (2)  The **_notional monthly subsidy_**, for the formula in subsection (1), is the amount of monthly subsidy that would have been payable to the subsidised borrower in relation to the loan under section 49 on the following assumptions:
 
@@ -3174,7 +3174,7 @@ Remainder: Royal Assent</div>
     <div>5 July 2010</div>
   </td>
   <td>
-    <div>Schedule 4: 2 Aug 2010</div>
+    <div>Schedule 4: \[ <i>see</i>Note 2 and Table A]</div>
   </td>
   <td>
     <div>Sch. 4 (item 2)</div>
@@ -3218,14 +3218,6 @@ Remainder: Royal Assent</div>
   </td>
   <td>
     <div>am. No. 46, 2009</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 95, 2010</div>
   </td>
 </tr>
 <tr>
@@ -3413,6 +3405,20 @@ Remainder: Royal Assent</div>
   </td>
 </tr></table>
 
+### Note 2
+
+_Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
+
+The following amendment commences on 2 August 2010:
+
+## Schedule 4
+
+## 1  Subsection 5(1)
+
+Omit “or appointment”, substitute “, appointment or transfer”.
+
+As at 7 July 2010 the amendment is not incorporated in this compilation.
+
 ## Table A
 
 ### Application, saving or transitional provisions
@@ -3476,6 +3482,8 @@ _Note:       The amendment commences 28 days after the day this Act 
 * * *
 
 _Defence Legislation Amendment Act (No. 1) 2010 (No. 95, 2010)_
+
+The following provision commences on 2 August 2010:
 
 ## Schedule 4
 
