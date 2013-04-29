@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2009C00418/Html/FinancialSectorS1998WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00709/Html/FinancialSectorS1998WD02_image001.gif)
 
 # Financial Sector (Shareholdings) Act 1998
 
 **Act No. 55 of 1998 as amended**
 
-This compilation was prepared on 4 September 2009
- taking into account amendments up to Act No. 75 of 2009
+This compilation was prepared on 22 December 2008
+ taking into account amendments up to Act No. 144 of 2008
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -18,151 +18,151 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 # Contents
 
-**Part 1—Preliminary**
+**Part 1—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement [_see_ Note 1]
+[2](#2).            Commencement [_see_ Note 1]                                                               1
 
-[3](#3).            Definitions
+[3](#3).            Definitions                                                                                           1
 
-[4](#4).            Holding companies
+[4](#4).            Holding companies                                                                              2
 
-[5](#5).            Crown to be bound
+[5](#5).            Crown to be bound                                                                              2
 
-[6](#6).            External Territories
+[6](#6).            External Territories                                                                              2
 
-[7](#7).            Extra-territorial operation
+[7](#7).            Extra-territorial operation                                                                    2
 
 **Part 2—Restrictions on shareholdings in financial sector companies** 
 
     **Division 1—Introduction**
 
-[8](#8).            Simplified outline
+[8](#8).            Simplified outline                                                                                 3
 
-[9](#9).            Definitions in Schedule 1
+[9](#9).            Definitions in Schedule 1                                                                     3
 
     **Division 2—15% shareholding limit**
 
-[10](#10).          Meaning of _unacceptable shareholding situation_
+[10](#10).          Meaning of _unacceptable shareholding situation_                                4
 
-[11](#11).          Acquisitions of shares
+[11](#11).          Acquisitions of shares                                                                         4
 
-[12](#12).          Remedial orders
+[12](#12).          Remedial orders                                                                                   5
 
     **Division 3—Approval to exceed 15% shareholding limit**
 
-[13](#13).          Application for approval to exceed 15% shareholding limit
+[13](#13).          Application for approval to exceed 15% shareholding limit               6
 
-[14](#14).          Approval of application
+[14](#14).          Approval of application                                                                      6
 
-[15](#15).          Duration of approval
+[15](#15).          Duration of approval                                                                           7
 
-[16](#16).          Conditions of approval
+[16](#16).          Conditions of approval                                                                        8
 
-[17](#17).          Varying percentage stake approved
+[17](#17).          Varying percentage stake approved                                                     9
 
-[18](#18).          Revoking an approval
+[18](#18).          Revoking an approval                                                                        10
 
-[19](#19).          Flow-on approvals
+[19](#19).          Flow-on approvals                                                                            11
 
-[20](#20).          Further information about applications
+[20](#20).          Further information about applications                                             11
 
-[21](#21).          Electronic lodgment of applications
+[21](#21).          Electronic lodgment of applications                                                  12
 
     **Division 4—Practical control where 15% shareholding limit not exceeded**
 
-[22](#22).          Meaning of _control_
+[22](#22).          Meaning of _control_                                                                            13
 
-[23](#23).          Treasurer may declare person to have practical control of a financial sector company
+[23](#23).          Treasurer may declare person to have practical control of a financial sector company          13
 
-[24](#24).          Requirement to relinquish practical control or reduce stake
+[24](#24).          Requirement to relinquish practical control or reduce stake              14
 
-[25](#25).          Remedial orders
+[25](#25).          Remedial orders                                                                                 15
 
     **Division 5—Record-keeping and giving of information**
 
-[26](#26).          Record-keeping and giving of information
+[26](#26).          Record-keeping and giving of information                                         17
 
     **Division 6—Ancillary matters**
 
-[27](#27).          Provision to attract the corporations power, the banking power and the insurance power
+[27](#27).          Provision to attract the corporations power, the banking power and the insurance power    19
 
-[28](#28).          Concurrent operation of State/Territory laws
+[28](#28).          Concurrent operation of State/Territory laws                                   20
 
-[29](#29).          Validity of acts done in contravention of this Part
+[29](#29).          Validity of acts done in contravention of this Part                            20
 
-[30](#30).          Acquisition of property
+[30](#30).          Acquisition of property                                                                    20
 
 **Part 3—Anti-avoidance**
 
-[31](#31).          Anti-avoidance
+[31](#31).          Anti-avoidance                                                                                   21
 
 **Part 4—Injunctions**
 
-[32](#32).          Injunctions
+[32](#32).          Injunctions                                                                                         22
 
-[33](#33).          Interim injunctions
+[33](#33).          Interim injunctions                                                                             23
 
-[34](#34).          Discharge etc  of injunctions
+[34](#34).          Discharge etc  of injunctions                                                              23
 
-[35](#35).          Certain limits on granting injunctions not to apply
+[35](#35).          Certain limits on granting injunctions not to apply                           24
 
-[36](#36).          Other powers of the court unaffected
+[36](#36).          Other powers of the court unaffected                                               24
 
 **Part 5—Offences**
 
-[38](#38).          Incorrect records
+[38](#38).          Incorrect records                                                                                25
 
-[39](#39).          Indictable offences
+[39](#39).          Indictable offences                                                                             25
 
-[40](#40).          Application of _Criminal Code_
+[40](#40).          Application of _Criminal Code_                                                           25
 
-[41](#41).          Service of summons or process on foreign corporations—criminal proceedings
+[41](#41).          Service of summons or process on foreign corporations—criminal proceedings     25
 
 **Part 6—Civil liability**
 
-[42](#42).          Civil liability of corporations
+[42](#42).          Civil liability of corporations                                                            27
 
-[43](#43).          Civil liability of persons other than corporations
+[43](#43).          Civil liability of persons other than corporations                             28
 
 **Part 7—Miscellaneous**
 
-[44](#44).          Delegation by Treasurer
+[44](#44).          Delegation by Treasurer                                                                    30
 
-[45](#45).          _Foreign Acquisitions and Takeovers Act 1975_ and this Act to operate independently of each other
+[45](#45).          _Foreign Acquisitions and Takeovers Act 1975_ and this Act to operate independently of each other     30
 
-[46](#46).          Regulations
+[46](#46).          Regulations                                                                                        30
 
-[47](#47).          Transitional—pre-commencement stakes in financial sector companies
+[47](#47).          Transitional—pre-commencement stakes in financial sector companies 30
 
-[48](#48).          Transitional—pre-transfer stakes held in bodies transferring to regulation by the Commonwealth
+[48](#48).          Transitional—pre-transfer stakes held in bodies transferring to regulation by the Commonwealth       31
 
-[49](#49).          Transitional—stakes held as a result of completion of transfers of engagements or mergers under certain State or Territory laws
+[49](#49).          Transitional—stakes held as a result of completion of transfers of engagements or mergers under certain State or Territory laws                                                                                    32
 
 **Schedule 1—Ownership definitions**
 
-[1](#1).            Object
+[1](#1).            Object                                                                                                34
 
-[2](#2).            Definitions
+[2](#2).            Definitions                                                                                         34
 
-[3](#3).            Entering into an agreement or arrangement
+[3](#3).            Entering into an agreement or arrangement                                        36
 
-[4](#4).            Associates
+[4](#4).            Associates                                                                                          37
 
-[5](#5).            Power to appoint director
+[5](#5).            Power to appoint director                                                                 38
 
-[6](#6).            Meaning of _entitled to acquire_
+[6](#6).            Meaning of _entitled to acquire_                                                           39
 
-[7](#7).            Meaning of _interest in a share_
+[7](#7).            Meaning of _interest in a share_                                                           39
 
-[8](#8).            Certain interests in shares to be disregarded
+[8](#8).            Certain interests in shares to be disregarded                                      40
 
-[9](#9).            Voting power
+[9](#9).            Voting power                                                                                     40
 
-[10](#10).          Stake in a company
+[10](#10).          Stake in a company                                                                            41
 
-[11](#11).          Direct control interests in a company
+[11](#11).          Direct control interests in a company                                               42
 
 **Notes** 
 
@@ -1430,7 +1430,7 @@ this clause has effect as if the members or policy holders of the company were s
 
 the person is taken to hold a direct control interest in the second level company equal to the percentage worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2009C00418/Html/FinancialSectorS1998WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2008C00709/Html/FinancialSectorS1998WD02_image002.gif)
 
 where:
 
@@ -1561,8 +1561,7 @@ Remainder: 18 Jan 2001</div>
     <div>24 Nov 2000</div>
   </td>
   <td>
-    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 
-9–11, 32): Royal Assent 
+    <div>Ss. 1–3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
 Remainder: 24 May 2001</div>
   </td>
   <td>
@@ -1637,23 +1636,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>Sch. 14 (item 104)</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009</div>
-  </td>
-  <td>
-    <div>75, 2009</div>
-  </td>
-  <td>
-    <div>27 Aug 2009</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 204): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_ The _Financial Sector (Shareholdings) Act 1998_ was amended by Schedule 7 (item 45) only of the _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 1999_, subsections 3(1), (2)(e) and (16) of which provide as follows:
@@ -1674,17 +1656,20 @@ _(c)_ The _Financial Sector (Shareholdings) Act 1998_ was amended by Schedule 
 
                  (5)   Part 1 of Schedule 3 commences on the day after the day on which this Act receives the Royal Assent.
 
+ 
+
 ## Table of Amendments
 
 <table>
 <colgroup>
   <col width="34%">
+  <col width="1%">
   <col width="66%">
 </colgroup>
 
 <thead>
   <tr>
-    <td colspan="2">
+    <td colspan="3">
       <div>ad. = added or inserted am. = amended rep. = repealed rs. = repealed and substituted</div>
     </td>
   </tr>
@@ -1692,80 +1677,40 @@ _(c)_ The _Financial Sector (Shareholdings) Act 1998_ was amended by Schedule 
     <td>
       <div>Provision affected</div>
     </td>
-    <td>
+    <td colspan="2">
       <div>How affected</div>
     </td>
   </tr>
 </thead>
 <tr>
   <td>
-    <div><b>Part 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 24</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. Nos. 31 and 117, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 5</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 26</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. Nos. 31 and 117, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 37</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
   </td>
 </tr>
 <tr>
   <td>
     <div>S. 44</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>am. No. 42, 2003</div>
   </td>
 </tr>
@@ -1773,12 +1718,12 @@ _(c)_ The _Financial Sector (Shareholdings) Act 1998_ was amended by Schedule 
   <td>
     <div>Ss. 48, 49</div>
   </td>
-  <td>
+  <td colspan="2">
     <div>ad. No. 44, 1999</div>
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div><b>Schedule 1</b></div>
   </td>
   <td>
@@ -1786,27 +1731,18 @@ _(c)_ The _Financial Sector (Shareholdings) Act 1998_ was amended by Schedule 
   </td>
 </tr>
 <tr>
-  <td>
+  <td colspan="2">
     <div>C. 2</div>
   </td>
   <td>
     <div>am. No. 144, 2008</div>
   </td>
+</tr>
+<tr height="0">
+  <td></td>
+  <td></td>
+  <td></td>
 </tr></table>
-
-### Note 2
-
-_Financial Sector Legislation Amendment (Enhancing Supervision and Enforcement) Act 2009 (No. 75, 2009)_
-
-The following amendment commences on 27 February 2010 unless proclaimed earlier:
-
-## Schedule 1
-
-## 204  Section 3 (paragraph (b) of the definition of _authorised insurance company_)
-
-After “under”, insert “section 21 of”.
-
-As at 4 September 2009 the amendment is not incorporated in this compilation.
 
 ## Table A
 
@@ -1878,7 +1814,7 @@ _Financial Sector Reform (Amendments and Transitional Provisions) Act (No. 1) 
 
                      (h)  any other law of a State or Territory prescribed by the regulations for the purposes of this definition.
 
-## 23  Power to make regulations
+## 23  Power to make regulations
 
             The Governor-General may make regulations, not inconsistent with this Act, prescribing matters required or permitted by this Act to be prescribed.
 
