@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2007C00412/Html/PooledDevelFund1992_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2007C00113/Html/PooledDevelFund1992_WD02_image001.gif)
 
 # Pooled Development Funds Act 1992
 
 **Act No. 100 of 1992 as amended**
 
-This compilation was prepared on 29 June 2007
- taking into account amendments up to Act No. 78 of 2007
+This compilation was prepared on 21 March 2007
+ taking into account amendments up to Act No. 15 of 2007
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -32,7 +32,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [4B](#4B).         Application of the _Criminal Code_
 
-**Part 2—Establishment, functions and powers of the Venture Capital Registration Board**
+**Part 2—Establishment, functions and powers of the PDF Registration Board**
 
 [5](#5).            Establishment
 
@@ -262,7 +262,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="approved-invest-plan"></a>**_approved investment plan_**, in relation to a PDF, has the meaning given by subsection 17(2).
 
-                    <a name="board"></a>**_Board_** means the Venture Capital Registration Board continued in existence by section 5.
+                    <a name="board"></a>**_Board_** means the PDF Registration Board established by section 5.
 
                     <a name="chairperson"></a>**_Chairperson_** means the Chairperson of the Board.
 
@@ -275,8 +275,6 @@ Prepared by the Office of Legislative Drafting and Publishing,
                     <a name="elig-busi"></a>**_eligible business_** means a business that does not consist, or consist primarily, of an excluded activity.
 
                     <a name="elig-corpor"></a>**_eligible corporation_** means a body corporate that is, for the purposes of paragraph 51(20) of the Constitution, a trading corporation, or a financial corporation, formed within the limits of the Commonwealth.
-
-                    <a name="esvclp"></a>**_ESVCLP_** means an early stage venture capital limited partnership within the meaning of subsection 118-407(4) of the _Income Tax Assessment Act 1997_.
 
                     <a name="excluded-activ"></a>**_excluded activity_** means a prescribed activity.
 
@@ -338,7 +336,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                     <a name="produc-docum-board"></a>**_produce a document to the Board_** has the meaning given by subsection (5).
 
-                    <a name="registr-applic"></a>**_registration application_** means an application under section 11 that was made before the day on which Part 4 of Schedule 8 to the _Tax Laws Amendment (2007 Measures No. 2) Act 2007_ commenced.
+                    <a name="registr-applic"></a>**_registration application_** means an application under section 11.
 
                     <a name="registr-declar"></a>**_registration declaration_** means a declaration under section 14 that a company is registered as a PDF.
 
@@ -448,13 +446,11 @@ Non-resident funds
 
 Note:          Chapter 2 of the _Criminal Code_ sets out the general principles of criminal responsibility.
 
-## Part 2—Establishment, functions and powers of the Venture Capital Registration Board
+## Part 2—Establishment, functions and powers of the PDF Registration Board
 
 ##### <a id="5"></a>5  Establishment
 
-                   The PDF Registration Board that existed under this Act immediately before the commencement of this section continues in existence as the Venture Capital Registration Board.
-
-Note:          Section 25B of the _Acts Interpretation Act 1901_ deals with the consequences of the change of name.
+                   A PDF Registration Board is established.
 
 ##### <a id="6"></a>6  Functions
 
@@ -474,9 +470,7 @@ Note:          Section 25B of the _Acts Interpretation Act 1
 
              (3)  The Board also has the functions of:
 
-                     (a)  registering limited partnerships as VCLPs, ESVCLPs or AFOFs under Part 2 of the _Venture Capital Act 2002_; and
-
-                    (ab)  approving ESVCLPs’ investment plans, and their replacement plans, under Part 2 of that Act; and
+                     (a)  registering limited partnerships as VCLPs or AFOFs under Part 2 of the _Venture Capital Act 2002_; and
 
                      (b)  registering entities as eligible venture capital investors under Part 3 of that Act; and
 
@@ -569,8 +563,6 @@ to be laid before each House of the Parliament within 15 sitting days of that Ho
              (3)  An application may also include any other information that the applicant thinks is relevant.
 
              (4)  An application must be accompanied by a copy of the applicant’s constitution.
-
-          (4A)  An application must not be made on or after the day on which Part 4 of Schedule 8 to the _Tax Laws Amendment (2007 Measures No. 2) Act 2007_ commenced.
 
              (5)  The Board may, for the purposes of paragraph (2)(h), determine, by writing signed by the Chairperson pursuant to a resolution of the Board, that specified information is to be included in registration applications.
 
@@ -1240,7 +1232,7 @@ the Board may, by notice in writing to the PDF, direct the PDF to take such acti
 
              (2)  The Board may, at such other times as it considers appropriate, consider whether a PDF has been complying with this Act.
 
-##### <a id="40"></a>40  Board to consider compliance on receipt of annual return
+##### <a id="40"></a>40  Board to consider compliance on receipt of annual return
 
              (1)  As soon as practicable after the Board receives a return under section 41 from a PDF, the Board must consider whether the PDF has been complying with this Act since:
 
@@ -2016,9 +2008,7 @@ except when it is necessary to do so for the purpose of carrying into effect the
 
                      (b)  the Board’s powers to register entities or revoke registration under Part 7A; and 
 
-                     (c)  the Board’s powers to register limited partnerships as VCLPs, ESVCLPs or AFOFs or revoke registration under Part 2 of the _Venture Capital Act 2002_; and
-
-                    (ca)  the Board’s powers to approve ESVCLPs’ investment plans, and their replacement plans, under Part 2 of the _Venture Capital Act 2002_; and
+                     (c)  the Board’s powers to register limited partnerships as VCLPs or AFOFs or revoke registration under Part 2 of the _Venture Capital Act 2002_; and
 
                      (d)  the Board’s powers to register entities as eligible venture capital investors or revoke registration under Part 3 of the _Venture Capital Act 2002_; and
 
@@ -2036,9 +2026,7 @@ except when it is necessary to do so for the purpose of carrying into effect the
 
                      (b)  the Board’s powers to register entities or revoke registration under Part 7A; and 
 
-                     (c)  the Board’s powers to register limited partnerships as VCLPs, ESVCLPs or AFOFs or revoke registration under Part 2 of the _Venture Capital Act 2002_; and
-
-                    (ca)  the Board’s powers to approve ESVCLPs’ investment plans, and their replacement plans, under Part 2 of the _Venture Capital Act 2002_; and
+                     (c)  the Board’s powers to register limited partnerships as VCLPs or AFOFs or revoke registration under Part 2 of the _Venture Capital Act 2002_; and
 
                      (d)  the Board’s powers to register entities as eligible venture capital investors or revoke registration under Part 3 of the _Venture Capital Act 2002_; and
 
@@ -2058,9 +2046,7 @@ except when it is necessary to do so for the purpose of carrying into effect the
 
                      (b)  registering an entity or revoking registration under Part 7A; or 
 
-                     (c)  registering limited partnerships as VCLPs, ESVCLPs or AFOFs or revoking registration under Part 2 of the _Venture Capital Act 2002_; or
-
-                    (ca)  approving ESVCLPs’ investment plans, and their replacement plans, under Part 2 of the _Venture Capital Act 2002_; or
+                     (c)  registering limited partnerships as VCLPs or AFOFs or revoking registration under Part 2 of the _Venture Capital Act 2002_; or
 
                      (d)  registering entities as eligible venture capital investors or revoking registration under Part 3 of the _Venture Capital Act 2002_; or
 
@@ -2484,24 +2470,9 @@ Remainder: 24 May 2001</div>
   <td>
     <div>Sch. 1 (item 406(1)–(3)) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Tax Laws Amendment (2007 Measures No. 2) Act 2007</div>
-  </td>
-  <td>
-    <div>78, 2007</div>
-  </td>
-  <td>
-    <div>21 June 2007</div>
-  </td>
-  <td>
-    <div>Schedule 8 (items 157–165, 215–217, 348, 349): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
+
+ 
 
 _(a)_     The _Pooled Development Funds Act 1992_ was amended by Part 4 (sections 20–22) only of the _Industry, Science and Technology Legislation Amendment Act 1994_, subsection 2(1) of which provides as follows:
 
@@ -2679,7 +2650,7 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 4</div>
   </td>
   <td>
-    <div>am. No. 102, 1994; No. 5, 1995; Nos. 48 and 61, 1998; No. 165, 1999; No. 64, 2000; No. 55, 2001; No. 136, 2002; No. 78, 2007</div>
+    <div>am. No. 102, 1994; No. 5, 1995; Nos. 48 and 61, 1998; No. 165, 1999; No. 64, 2000; No. 55, 2001; No. 136, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2716,26 +2687,10 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
 </tr>
 <tr>
   <td>
-    <div>Heading to Part 2</div>
-  </td>
-  <td>
-    <div>rs. No. 78, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>rs. No. 78, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
     <div>S. 6</div>
   </td>
   <td>
-    <div>am. No. 165, 1999; No. 136, 2002; No. 78, 2007</div>
+    <div>am. No. 165, 1999; No. 136, 2002</div>
   </td>
 </tr>
 <tr>
@@ -2751,7 +2706,7 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>S. 11</div>
   </td>
   <td>
-    <div>am. No. 61, 1998; No. 78, 2007</div>
+    <div>am. No. 61, 1998</div>
   </td>
 </tr>
 <tr>
@@ -3087,7 +3042,7 @@ _(i)_      Subsection 2(1) (item 2) of the _Superannuation Legislati
     <div>Ss. 72–74</div>
   </td>
   <td>
-    <div>am. No. 165, 1999; No. 136, 2002; No. 78, 2007</div>
+    <div>am. No. 165, 1999; No. 136, 2002</div>
   </td>
 </tr>
 <tr>
@@ -3242,5 +3197,7 @@ _Superannuation Legislation Amendment (Simplification) Act 2007
                      (a)  Divisions 82 and 83 of the _Income Tax Assessment Act 1997_;
 
                      (b)  Divisions 301 to 307 of that Act.
+
+ 
 
  
