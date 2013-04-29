@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2013C00044/Html/aa1a4827-ecf1-4d61-a221-eea7dfa532f1_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00625/Html/978203f2-75aa-43f8-ab36-646406b886dc_files/image001.gif)
 
 # Telecommunications (Consumer Protection and Service Standards) Act 1999
 
 **Act No. 50 of 1999 as amended**
 
-This compilation was prepared on 17 January 2013
- taking into account amendments up to Act No. 169 of 2012
+This compilation was prepared on 20 August 2012
+ taking into account amendments up to Act No. 44 of 2012
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -13,7 +13,8 @@ The text of any of those amendments not in force
 The operation of amendments that have been incorporated may be 
  affected by application provisions that are set out in the Notes section
 
-Prepared by the Office of Parliamentary Counsel, Canberra
+Prepared by the Office of Legislative Drafting and Publishing,
+ Attorney‑General’s Department, Canberra
 
 # Contents
 
@@ -2437,7 +2438,7 @@ and the provider gives the ACMA a draft variation of the current statement or cu
 
                      (c)  in the case of a draft variation of an approved ATS marketing plan—if the provider were to give the ACMA a draft ATS marketing plan in the same terms as the current plan as varied, the ACMA would approve that draft.
 
-##### <a id="12X"></a>12X  Notice of decision
+##### <a id="12X"></a>12X  Notice of decision
 
              (1)  After deciding whether to approve a variation under section 12W, the ACMA must give a written notice setting out the decision to the provider concerned.
 
@@ -3181,7 +3182,7 @@ Note:          The levy contribution factor is used to work ou
 
              (2)  The **_levy contribution factor_** for an eligible revenue period is the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00044/Html/aa1a4827-ecf1-4d61-a221-eea7dfa532f1_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00625/Html/978203f2-75aa-43f8-ab36-646406b886dc_files/image002.gif)
 
 where:
 
@@ -3287,7 +3288,7 @@ Note:          The assessment may be included in the same docu
 
              (2)  The **_levy debit_** is the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2013C00044/Html/aa1a4827-ecf1-4d61-a221-eea7dfa532f1_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00625/Html/978203f2-75aa-43f8-ab36-646406b886dc_files/image003.gif)
 
 where:
 
@@ -3867,7 +3868,7 @@ Note:          The **_most recent eligible revenue assessment_
 
              (2)  Each taxpayer’s NRS contribution amount for the current quarter is calculated as follows:
 
-![](http://www.comlaw.gov.au/Details/C2013C00044/Html/aa1a4827-ecf1-4d61-a221-eea7dfa532f1_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2012C00625/Html/978203f2-75aa-43f8-ab36-646406b886dc_files/image004.gif)
 
 Note:          Levy is imposed on the NRS contribution amount by the _NRS Levy Imposition Act 1998_.
 
@@ -4083,7 +4084,11 @@ Note 4:**_Untimed basis_** is defined by subsection (3).
 
                      (a)  a residential customer; or
 
-                     (b)  a customer that is a registered charity.
+                     (b)  a customer that is:
+
+                              (i)  a charitable body or organisation; or
+
+                             (ii)  a welfare body or organisation.
 
                     <a name="satellit-servic"></a>**_satellite service_** means a carriage service, where customer equipment used in connection with the supply of the service communicates directly with a satellite‑based facility.
 
@@ -4239,11 +4244,9 @@ providers in relation to customer service.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     If
 
-a carriage service provider contravenes a performance standard, the carriage
+a carriage service provider contravenes a performance standard, the carriage service
 
-service provider is liable to pay damages to the customer for the
-
-contravention.</li>
+provider is liable to pay damages to the customer for the contravention.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
@@ -5453,9 +5456,9 @@ Part regulates the prefixes of numbers used by telephone sex services.</li>
 
 <li class="BoxList" style="margin-left:21.25pt">•     The
 
-supply of other goods and services must not be tied to the supply of a telephone
+supply of other goods and services must not be tied to the supply of a
 
-sex service.</li>
+telephone sex service.</li>
 
 * * *
 
@@ -6411,23 +6414,6 @@ Schedule 1 (items 227–240): 15 June 2011</div>
   </td>
   <td>
     <div>Sch. 1 (items 122, 123)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Charities and Not‑for‑profits Commission (Consequential and Transitional) Act 2012</div>
-  </td>
-  <td>
-    <div>169, 2012</div>
-  </td>
-  <td>
-    <div>3 Dec 2012</div>
-  </td>
-  <td>
-    <div>Schedule 2 (item 215): 3 Dec 2012 ( <i>see</i>s. 2(1))</div>
-  </td>
-  <td>
-    <div>—</div>
   </td>
 </tr></table>
 
@@ -9652,7 +9638,7 @@ Part 2</div>
     <div>S. 106</div>
   </td>
   <td>
-    <div>am. Nos. 44 and 169, 2012</div>
+    <div>am. No. 44, 2012</div>
   </td>
 </tr>
 <tr>
