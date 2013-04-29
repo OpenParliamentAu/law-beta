@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2010C00569/Html/ProtSeaPowersIntervention1981_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00162/Html/ProtSeaPowersIntervention1981_image001.gif)
 
 # Protection of the Sea (Powers of Intervention) Act 1981
 
 **Act No. 33 of 1981 as amended**
 
-This compilation was prepared on 16 August 2010
- taking into account amendments up to Act No. 103 of 2010
+This compilation was prepared on 3 March 2010
+ taking into account amendments up to Act No. 8 of 2010
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -1694,7 +1694,7 @@ Sulphur Dioxide
 
 Radioactive substances, including, but not limited to, elements and compounds the isotopes of which are subject to the requirements of Section 835 of the Regulations for the Safe Transport of Radioactive Materials, 1973 Revised Edition, published by the International Atomic Energy Agency, and which may be found to be stored or transported as substances and/or materials in Type A packages, Type B packages, as fissile materials or materials transported under special arrangements, such as
 
-60<sub>Co,</sub>         137<sub>Cs,</sub>              226<sub>Ra,</sub>              239<sub>Pu,</sub>              235<sub>U.</sub>
+60<sub>Co,</sub>         137<sub>Cs,</sub>               226<sub>Ra,</sub>               239<sub>Pu,</sub>               235<sub>U.</sub>
 
 # Schedule 3—Resolution MEPC.49(31)
 
@@ -3747,23 +3747,6 @@ Remainder: Royal Assent</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010</div>
-  </td>
-  <td>
-    <div>103, 2010</div>
-  </td>
-  <td>
-    <div>13 July 2010</div>
-  </td>
-  <td>
-    <div>Schedule 6 (items 1, 87–89): \[ <i>see</i>Note 2]</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ was amended by Part 8 (sections 26–28) only of the _Transport and Communications Legislation Amendment Act (No. 2) 1992_, subsection 2(1) of which provides as follows:
@@ -4073,29 +4056,6 @@ _(c)_     The _Protection of the Sea (Powers of Intervention) Act 1981_ 
     <div>ad. No. 149, 2001</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Trade Practices Amendment (Australian Consumer Law) Act (No. 2) 2010
- (No. 103, 2010)_
-
-The following amendments commence on the start of 1 January 2011:
-
-## Schedule 6
-
-## 1  Amendment of Acts
-
-The specified provisions of the Acts listed in this Part are amended by omitting “_Trade Practices Act 1974_” and substituting “_Competition and Consumer Act 2010_”.
-
-<h9 class="ActHead9">Protection of the Sea (Powers of Intervention) Act 1981</h9>
-
-## 87  Subsection 3(1) (definition of _goods_)
-
-## 88  Subsection 3(1) (definition of _services_)
-
-## 89  Subsection 3(1) (definition of _supply_)
-
-As at 16 August 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
