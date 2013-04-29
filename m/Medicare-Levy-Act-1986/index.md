@@ -1,10 +1,10 @@
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image001.gif)
 
 # Medicare Levy Act 1986
 
 **Act No. 110 of 1986 as amended**
 
-This compilation was prepared on 1 October 2010
+This compilation was prepared on 16 August 2010
  taking into account amendments up to Act No. 105 of 2010
 
 The text of any of those amendments not in force
@@ -160,7 +160,7 @@ Indexation of singles surcharge threshold
 
              (4)  The **_indexation factor_** is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image002.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image002.gif)
 
              (5)  The indexation factor mentioned in subsection (4) is calculated to 3 decimal places (rounding up if the fourth decimal place is 5 or more).
 
@@ -176,11 +176,11 @@ Indexation of singles surcharge threshold
 
                      (b)  the result of the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image003.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image003.gif)
 
 Example:    If a person has 3 dependants who are children, the family surcharge threshold for the 2008-09 year of income is:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image004.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image004.gif)
 
 ##### <a id="4"></a>4  Incorporation
 
@@ -216,11 +216,11 @@ Note:          Subdivision 61-L (tax offset for Medicare lev
 
                      (a)  is a married person on the last day of the year of income; or
 
-                     (b)  is entitled to a rebate under section 159J of the Assessment Act in respect of a person included in class 2 of the table in subsection 159J(2) of that Act, or would be so entitled apart from subsection 159J(1AB) or 159JA(1) of that Act; or
+                     (b)  is entitled to a rebate under section 159J of the Assessment Act in respect of a person included in class 2 of the table in subsection 159J(2) of that Act, or would be so entitled apart from subsection 159J(1AA) or (1AB) of that Act; or
 
                      (c)  would be entitled to a rebate under section 159K of that Act in respect of the year of income, apart from subsection 159K(1A) of that Act; or
 
-                     (d)  is entitled to a rebate under section 159L of that Act, or would be so entitled apart from subsection 159L(3B) or 159LA(1) of that Act;
+                     (d)  is entitled to a rebate under section 159L of that Act, or would be so entitled apart from subsection 159L(3A) or (3B) of that Act;
 
 and the family income in relation to the person does not exceed the family income threshold in relation to the person, no levy is payable by the person upon the taxable income of the person.
 
@@ -228,15 +228,15 @@ and the family income in relation to the person does not exceed the family incom
 
                      (a)  was a married person on the last day of the year of income; or
 
-                     (b)  is entitled to a rebate under section 159J of the Assessment Act in respect of a person included in class 2 of the table in subsection 159J(2) of that Act, or would be so entitled apart from subsection 159J(1AB) or 159JA(1) of that Act; or
+                     (b)  is entitled to a rebate under section 159J of the Assessment Act in respect of a person included in class 2 of the table in subsection 159J(2) of that Act, or would be so entitled apart from subsection 159J(1AA) or (1AB) of that Act; or
 
                      (c)  would be entitled to a rebate under section 159K of that Act in respect of the year of income, apart from subsection 159K(1A) of that Act; or
 
-                     (d)  is entitled to a rebate under section 159L of that Act, or would be so entitled apart from subsection 159L(3B) or 159LA(1) of that Act;
+                     (d)  is entitled to a rebate under section 159L of that Act, or would be so entitled apart from subsection 159L(3A) or (3B) of that Act;
 
 and the family income in relation to the relevant person exceeds the family income threshold in relation to the relevant person, the amount of the levy payable by the relevant person upon the taxable income of the relevant person but for this section and section 9 shall be reduced by the amount (if any) calculated in accordance with the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image005.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image005.gif)
 
 where:
 
@@ -308,7 +308,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image006.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image006.gif)
 
 ##### <a id="8C"></a>8C  Levy surcharge—person with dependants who is not married during whole or part of a financial year
 
@@ -336,7 +336,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
                      (b)  if this section applies to the person for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image007.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image007.gif)
 
 ##### <a id="8D"></a>8D  Levy surcharge—person who is married during whole or part of a financial year
 
@@ -366,7 +366,7 @@ Note 3:       For **_prescribed person_** see section 251U of the 
 
              (4)  The amount of the levy that, apart from this section, would have been payable by a person under this Act for the year of income, being a person to whom this section applies for only some of the days in the year of income, is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image008.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image008.gif)
 
 if:
 
@@ -400,7 +400,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image009.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image009.gif)
 
 ##### <a id="8F"></a>8F  Levy surcharge for certain trustees—beneficiary a person to whom section 8C applies 
 
@@ -416,7 +416,7 @@ if:
 
                      (b)  if this section applies to the beneficiary for only some of the days in the year of income—by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image010.gif)
 
 ##### <a id="8G"></a>8G  Levy surcharge for certain trustees—beneficiary a person to whom section 8D applies 
 
@@ -436,7 +436,7 @@ if:
 
              (3)  If this section applies to the beneficiary for only some of the days in the year of income, the amount of the levy that, apart from this section, would have been payable under this Act by the trustee in the capacity of trustee of the trust estate in relation to the beneficiary for the year of income is to be increased by the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2010C00704/Html/MedicareLevy1986_WD02_image010.gif)
+![](http://www.comlaw.gov.au/Details/C2010C00597/Html/MedicareLevy1986_WD02_image010.gif)
 
 if:
 
@@ -1501,7 +1501,7 @@ Schedule 1 (items 12–16): 1 July 2008</div>
     <div>14 July 2010</div>
   </td>
   <td>
-    <div>Schedule 1 (items 54–57) and Schedule 2 (items 1, 2): 1 Oct 2010 ( <i>see</i>s. 2(1))</div>
+    <div>Schedule 1 (items 54–57) and Schedule 2 (items 1, 2): \[ <i>see</i>s. 2(1) and Note 2]</div>
   </td>
   <td>
     <div>Sch. 2 (items 1, 2) \[ <i>see</i>Table A]</div>
@@ -1786,7 +1786,7 @@ _(j)_ Subsection 2(1) (item 7) of the _Taxation Laws Amendment Act (No. 2) 2
     <div>S. 8</div>
   </td>
   <td>
-    <div>am. No. 110, 1987; No. 93, 1988; No. 137, 1989; Nos. 86 and 135, 1990; Nos. 100 and 212, 1991; Nos. 155 and 157, 1992; No. 57, 1993; No. 56, 1995; No. 16, 1996; No. 64, 1997; Nos. 29 and 93, 1998; Nos. 82 and 83, 1999; No. 54, 2000; Nos. 12 and 44, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; Nos. 55 and 59, 2006; Nos. 75 and 76, 2007; Nos. 29, 50 and 63, 2008; No. 41, 2009; Nos. 78 and 105, 2010</div>
+    <div>am. No. 110, 1987; No. 93, 1988; No. 137, 1989; Nos. 86 and 135, 1990; Nos. 100 and 212, 1991; Nos. 155 and 157, 1992; No. 57, 1993; No. 56, 1995; No. 16, 1996; No. 64, 1997; Nos. 29 and 93, 1998; Nos. 82 and 83, 1999; No. 54, 2000; Nos. 12 and 44, 2001; No. 39, 2002; No. 67, 2003; No. 84, 2004; No. 62, 2005; Nos. 55 and 59, 2006; Nos. 75 and 76, 2007; Nos. 29, 50 and 63, 2008; No. 41, 2009; No. 78, 2010</div>
   </td>
 </tr>
 <tr>
@@ -2005,6 +2005,32 @@ _(j)_ Subsection 2(1) (item 7) of the _Taxation Laws Amendment Act (No. 2) 2
     <div>rs. No. 86, 1990</div>
   </td>
 </tr></table>
+
+### Note 2
+
+_Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
+
+The following amendments commence on 1 October 2010:
+
+## Schedule 1
+
+## 54  Paragraph 8(1)(b)
+
+Omit “subsection 159J(1AA) or (1AB)”, substitute “subsection 159J(1AB) or 159JA(1)”.
+
+## 55  Paragraph 8(1)(d)
+
+Omit “subsection 159L(3A) or (3B)”, substitute “subsection 159L(3B) or 159LA(1)”.
+
+## 56  Paragraph 8(2)(b)
+
+Omit “subsection 159J(1AA) or (1AB)”, substitute “subsection 159J(1AB) or 159JA(1)”.
+
+## 57  Paragraph 8(2)(d)
+
+Omit “subsection 159L(3A) or (3B)”, substitute “subsection 159L(3B) or 159LA(1)”.
+
+As at 16 August 2010 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -2296,7 +2322,7 @@ The amendments made by this Schedule apply to assessments for the 2007-08 year o
 
 _Families, Housing, Community Services and Indigenous Affairs and Other Legislation Amendment (2008 Budget and Other Measures) Act 2008 (No. 63, 2008)_
 
-##### 4  Review of operation of amendments
+##### 4  Review of operation of amendments
 
              (1)  The Minister must cause an independent review of the operation of the amendments made by this Act to be undertaken and completed by 30 June 2010.
 
@@ -2388,6 +2414,8 @@ The amendments made by this Schedule apply to assessments for the 2009-10 year o
 * * *
 
 _Paid Parental Leave (Consequential Amendments) Act 2010 (No. 105, 2010)_
+
+The following provisions commence on 1 October 2010:
 
 ## Schedule 2
 
