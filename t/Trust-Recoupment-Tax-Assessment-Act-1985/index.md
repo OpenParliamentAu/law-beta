@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2008C00361/Html/TrustRecTaxAssAct85_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00555/Html/TrustRecTaxAssAct85_WD02_image001.gif)
 
-# Trust Recoupment Tax Assessment Act 1985
+# Trust Recoupment Tax Assessment Act 1985 
 
 **Act No. 9 of 1985 as amended**
 
-This compilation was prepared on 11 July 2008
- taking into account amendments up to Act No. 73 of 2008
+This compilation was prepared on 29 September 2006 
+ taking into account amendments up to Act No. 101 of 2006
 
 The text of any of those amendments not in force
  on that date is appended in the Notes section
@@ -256,7 +256,7 @@ the vested and indefeasible interest of the beneficiary in so much of the increa
 
                      (a)  where the benefit was derived before the end of the year of income in which the relevant trust income was derived—the amount or value of the benefit at the time at which it was derived; or
 
-                     (b)  in any other case—an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00361/Html/TrustRecTaxAssAct85_WD02_image002.gif) where:
+                     (b)  in any other case—an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2006C00555/Html/TrustRecTaxAssAct85_WD02_image002.gif) where:
 
                             **_A_**     is the amount or value of the benefit at the time at which it was, will be, or may reasonably be expected to be, derived; and
 
@@ -568,7 +568,7 @@ the person referred to in paragraph (b) may, in a court of competent jurisdict
 
                      (d)  the index number in relation to the quarter immediately preceding the assessment quarter exceeds the index number in relation to the March quarter of the year of income that immediately succeeded the year of income to which the taxable amount relates;
 
-the person is liable or, in the case of persons included in an eligible beneficiaries class, the persons are jointly and severally liable, to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00361/Html/TrustRecTaxAssAct85_WD02_image003.gif) where:
+the person is liable or, in the case of persons included in an eligible beneficiaries class, the persons are jointly and severally liable, to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2006C00555/Html/TrustRecTaxAssAct85_WD02_image003.gif) where:
 
                     <a name=""></a>**_A_**   is the amount of the trust recoupment tax referred to in    paragraph (a);
 
@@ -592,7 +592,7 @@ the person is liable or, in the case of persons included in an eligible benefici
 
                      (e)  the index number in relation to the quarter immediately preceding the assessment quarter exceeds the index number in relation to the March quarter of the year of income that immediately succeeded the relevant year of income;
 
-the person is liable to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2008C00361/Html/TrustRecTaxAssAct85_WD02_image003.gif)
+the person is liable to pay, by way of penalty, additional tax equal to an amount ascertained in accordance with the formula ![](http://www.comlaw.gov.au/Details/C2006C00555/Html/TrustRecTaxAssAct85_WD02_image003.gif)
  where:
 
                     <a name=""></a>**_A_**   is:
@@ -631,7 +631,7 @@ the person is liable to pay, by way of penalty, additional tax equal to:
 
                      (e)  in a case to which subparagraph (c)(ii) applies—double the amount by which the amount of the income tax referred to in paragraph (a) exceeds the amount of claimed tax.
 
-             (5)  Subject to subsection (6), if at any time, whether before or after the commencement of this section, the Australian Statistician has published or publishes an index number in respect of a quarter in substitution for an index number previously published by him or her in respect of that quarter, the publication of the later index number shall be disregarded for the purposes of this section.
+             (5)  Subject to subsection (6), if at any time, whether before or after the commencement of this section, the Australian Statistician has published or publishes an index number in respect of a quarter in substitution for an index number previously published by him in respect of that quarter, the publication of the later index number shall be disregarded for the purposes of this section.
 
              (6)  If at any time, whether before or after the commencement of this section, the Australian Statistician has changed or changes the reference base for the Consumer Price Index, then, for the purposes of the application of this section after the change took place or takes place, regard shall be had only to the index numbers published in terms of the new reference base.
 
@@ -922,23 +922,6 @@ Remainder: Royal Assent</div>
     <div>Sch. 6 (items 1, 
 6–11) \[ <i>see</i>Table A]</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 2008</div>
-  </td>
-  <td>
-    <div>73, 2008</div>
-  </td>
-  <td>
-    <div>3 July 2008</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 495): 4 July 2008</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Trust Recoupment Tax Assessment Act 1985_ was amended by section 113 only of the _Taxation Laws Amendment Act (No. 3) 1991_, subsection 2(10) of which provides as follows:
@@ -1034,14 +1017,6 @@ _(c)_ The _Trust Recoupment Tax Assessment Act 1985_ was amended by Schedule 3
   </td>
   <td>
     <div>rep. No. 11, 1999</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 12</div>
-  </td>
-  <td>
-    <div>am. No. 73, 2008</div>
   </td>
 </tr></table>
 
