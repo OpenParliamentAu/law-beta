@@ -1,20 +1,21 @@
-![](http://www.comlaw.gov.au/Details/C2007C00566/Html/AcqisTakeovers1991_WD02_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2005C00340/Html/799CF5B26E5A5CC5CA257000000B241C/$FILE/image001.gif)
 
 # Insurance Acquisitions and Takeovers Act 1991
 
 **Act No. 6 of 1992 as amended**
 
-This compilation was prepared on 27 September 2007
- taking into account amendments up to Act No. 154 of 2007
+This compilation was prepared on 16 May 2005
+taking into account amendments up to Act No. 38 of 2005
 
 The text of any of those amendments not in force
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, Canberra
+
 
 # Contents
 
@@ -184,6 +185,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
  
 
+
 ## An Act relating to the control of Australian-registered insurance companies, and for other purposes
 
 ## Part 1—Preliminary
@@ -202,17 +204,17 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
                    The following is a statement setting out the objects of this Act and a simplified outline of this Act: 
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Objects of Act**
 
-·<span style="font:7.0pt " new="">         </span>To set out rules about the **control** of, and the **compulsory notification** of proposals relating to:
+·<span style="FONT: 7pt 'Times New Roman'">         </span>To set out rules about the **control** of, and the **compulsory notification** of proposals relating to:
 
                (a)     the **acquisition** or **leasing** of **assets** of Australian-registered insurance companies (Part 3); or
 
                (b)     the entering into of **agreements** relating to **directors** of Australian-registered insurance companies (Part 4).
 
-·<span style="font:7.0pt " new="">         </span>To protect the **public interest** in a number of ways, including: 
+·<span style="FONT: 7pt 'Times New Roman'">         </span>To protect the **public interest** in a number of ways, including: 
 
                (a)     ensuring that the affairs of Australian-registered insurance companies are carried out in a **prudential manner**; and 
 
@@ -222,21 +224,15 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 **Simplified outline of Act**
 
-·<span style="font:7.0pt " new="">         </span>A proposal must be **notified** to the Minister.
+·<span style="FONT: 7pt 'Times New Roman'">         </span>A proposal must be **notified** to the Minister.
 
-<li class="BoxList" style="margin-left:18.0pt;text-indent:-18.0pt">·<span style="font:7.0pt " new="">        
+<li class="BoxList" style="MARGIN-LEFT: 18pt; TEXT-INDENT: -18pt">·<span style="FONT: 7pt 'Times New Roman'">         </span>A proposal can be **stopped** if the Minister makes a **permanent restraining order**.</li>
 
-</span>A proposal can be **stopped** if the Minister makes a **permanent restraining order**.</li>
+<li class="BoxList" style="MARGIN-LEFT: 18pt; TEXT-INDENT: -18pt">·<span style="FONT: 7pt 'Times New Roman'">         </span>A proposal can be **carried out** if the Minister makes a **go-ahead decision**.</li>
 
-<li class="BoxList" style="margin-left:18.0pt;text-indent:-18.0pt">·<span style="font:7.0pt " new="">        
+·<span style="FONT: 7pt 'Times New Roman'">         </span>If an unauthorised proposal is carried out, the Minister can make a **divestment order**.
 
-</span>A proposal can be **carried out** if the Minister makes a **go-ahead decision**.</li>
-
-·<span style="font:7.0pt " new="">         </span>If an unauthorised proposal is carried out, the Minister can make a **divestment order**.
-
-·<span style="font:7.0pt " new="">         </span>This Act is enforced by **criminal sanctions** and **court orders**. 
-
-* * *
+·<span style="FONT: 7pt 'Times New Roman'">         </span>This Act is enforced by **criminal sanctions** and **court orders**. </div>
 
 ##### <a id="4"></a>4  Interpretation
 
@@ -534,7 +530,7 @@ then, the second person is taken to be an associate of the first person for the 
 
                      (c)  the fact that the exercise of a right conferred by the interest is, or is capable of being made, subject to restraint or restriction.
 
-##### <a id="11"></a>11  Meaning of _interest in a share_ 
+##### <a id="11"></a>11  Meaning of _interest in a share_ 
 
              (1)  Subject to this section, a person holds an interest in a share if the person has any legal or equitable interest in the share.
 
@@ -564,7 +560,7 @@ then, the second person is taken to be an associate of the first person for the 
 
 ##### <a id="12"></a>12  Certain interests in shares to be disregarded
 
-                   For the purposes of this Act, the following interests must be disregarded:
+                   For the purposes of this Act, the following interests must be disregarded:
 
                      (a)  an interest in a share of a person whose ordinary business includes the lending of money if the person holds the interest solely by way of security for the purposes of a moneylending agreement;
 
@@ -626,7 +622,7 @@ this section has effect as if the members or policy holders of the company were 
 
 the person is taken to hold that type of direct control interest in the second level company equal to the percentage calculated using the formula: 
 
-First level percentage ![](http://www.comlaw.gov.au/Details/C2007C00566/Html/AcqisTakeovers1991_WD02_image002.gif) Second level percentage
+First level percentage ![](http://www.comlaw.gov.au/Details/C2005C00340/Html/799CF5B26E5A5CC5CA257000000B241C/$FILE/image002.gif) Second level percentage
 
 where:
 
@@ -1144,9 +1140,11 @@ the Minister may make any order under a provision of Part 3 or 4 that the Mini
 
 ##### <a id="65"></a>65  Decision-making principles
 
-             (1)  The Minister may, by legislative instrument, formulate principles (in this section called **_decision-making principles_**) to be complied with by him or her in making decisions under Part 3 or 4 (other than section 42 or 56).
+             (1)  The Minister may, by signed instrument, formulate principles (in this section called **_decision-making principles_**) to be complied with by him or her in making decisions under Part 3 or 4 (other than section 42 or 56).
 
              (2)  In making a decision under Part 3 or 4 (other than section 42 or 56), the Minister must comply with any relevant decision-making principles.
+
+             (3)  Decision-making principles are disallowable instruments for the purposes of section 46A of the _Acts Interpretation Act 1901_.
 
 ## Part 8—Review of decisions
 
@@ -1400,21 +1398,21 @@ the person is not liable to be punished by imprisonment for that offence.
 
                    The Act specified in the Schedule is amended as set out in the Schedule.
 
+
 # Schedule—Consequential amendments
 
 _Section 83_
 
-* * *
+<div style="BORDER-RIGHT: windowtext 1pt solid; PADDING-RIGHT: 5pt; BORDER-TOP: windowtext 1pt solid; PADDING-LEFT: 5pt; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 2cm; BORDER-LEFT: windowtext 1pt solid; MARGIN-RIGHT: 0cm; PADDING-TOP: 5pt; BORDER-BOTTOM: windowtext 1pt solid">
 
 **Note:**
 
-The amendments made by this Schedule are incorporated in the compilations on ComLaw.
+The amendments made by this Schedule are incorporated in the compilations on SCALEplus and ComLaw.
 
 _Insurance Act 1973_
 
-For access to the wording of the amendments made by this Schedule, _see_ Act No. 6, 1992.
+For access to the wording of the amendments made by this Schedule, _see_ Act No. 6, 1992.</div>
 
-* * *
 
 # Notes to the _Insurance Acquisitions and Takeovers Act 1991_
 
@@ -1442,11 +1440,13 @@ For all relevant information pertaining to application, saving or transitional p
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1456,214 +1456,204 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Insurance Acquisitions and Takeovers Act 1991</div>
-  </td>
-  <td>
-    <div>6, 1992</div>
-  </td>
-  <td>
-    <div>6 Jan 1992</div>
-  </td>
-  <td>
-    <div>15 Mar 1992 ( <i>see Gazette</i>1992, No. S72)</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Life Insurance (Consequential Amendments and Repeals) Act 1995</div>
-  </td>
-  <td>
-    <div>5, 1995</div>
-  </td>
-  <td>
-    <div>23 Feb 1995</div>
-  </td>
-  <td>
-    <div>1 July 1995 ( <i>see</i>s. 2 and <i>Gazette</i>1995, No. GN24)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Laws Amendment Act 1997</div>
-  </td>
-  <td>
-    <div>107, 1997</div>
-  </td>
-  <td>
-    <div>30 June 1997</div>
-  </td>
-  <td>
-    <div>Schedule 6: Royal Assent <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Reform (Amendments and Transitional Provisions) Act 1998</div>
-  </td>
-  <td>
-    <div>54, 1998</div>
-  </td>
-  <td>
-    <div>29 June 1998</div>
-  </td>
-  <td>
-    <div>Schedule 8: 1 July 1998 ( <i>see</i> <i>Gazette</i>1998, No. S316) <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td>
-    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001</div>
-  </td>
-  <td>
-    <div>31, 2001</div>
-  </td>
-  <td>
-    <div>28 Apr 2001</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 29): 15 Dec 2001 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>General Insurance Reform Act 2001</div>
-  </td>
-  <td>
-    <div>119, 2001</div>
-  </td>
-  <td>
-    <div>19 Sept 2001</div>
-  </td>
-  <td>
-    <div>Schedules 1 and 3: 1 July 2002 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001</div>
-  </td>
-  <td>
-    <div>121, 2001</div>
-  </td>
-  <td>
-    <div>24 Sept 2001</div>
-  </td>
-  <td>
-    <div>Ss. 1–3: Royal Assent 
-Remainder: 1 July 2002 ( <i>see</i>s. 2(2)and <i>Gazette</i>2002, No. GN24)</div>
-  </td>
-  <td>
-    <div>Sch. 2 (item 160)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment Act (No. 1) 2002</div>
-  </td>
-  <td>
-    <div>37, 2002</div>
-  </td>
-  <td>
-    <div>26 June 2002</div>
-  </td>
-  <td>
-    <div>Schedule 5: 27 June 2002 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Australian Prudential Regulation Authority Amendment Act 2003</div>
-  </td>
-  <td>
-    <div>42, 2003</div>
-  </td>
-  <td>
-    <div>24 June 2003</div>
-  </td>
-  <td>
-    <div>Ss. 1–3: Royal Assent 
-Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230)</div>
-  </td>
-  <td>
-    <div>Sch. 3</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Administrative Appeals Tribunal Amendment Act 2005</div>
-  </td>
-  <td>
-    <div>38, 2005</div>
-  </td>
-  <td>
-    <div>1 Apr 2005</div>
-  </td>
-  <td>
-    <div>Schedule 1 (item 218): 16 May 2005</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Financial Sector Legislation Amendment (Simplifying Regulation and Review) Act 2007</div>
-  </td>
-  <td>
-    <div>154, 2007</div>
-  </td>
-  <td>
-    <div>24 Sept 2007</div>
-  </td>
-  <td>
-    <div>Schedule 4 (items 41, 42): Royal Assent</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Insurance Acquisitions and Takeovers Act 1991</div>
+    </td>
+    <td>
+      <div>6, 1992</div>
+    </td>
+    <td>
+      <div>6 Jan 1992</div>
+    </td>
+    <td>
+      <div>15 Mar 1992 ( <i>see Gazette</i>1992, No. S72)</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Life Insurance (Consequential Amendments and Repeals) Act 1995</div>
+    </td>
+    <td>
+      <div>5, 1995</div>
+    </td>
+    <td>
+      <div>23 Feb 1995</div>
+    </td>
+    <td>
+      <div>1 July 1995 ( <i>see</i>s. 2 and <i>Gazette</i>1995, No. GN24)</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Laws Amendment Act 1997</div>
+    </td>
+    <td>
+      <div>107, 1997</div>
+    </td>
+    <td>
+      <div>30 June 1997</div>
+    </td>
+    <td>
+      <div>Schedule 6: Royal Assent <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Reform (Amendments and Transitional Provisions) Act 1998</div>
+    </td>
+    <td>
+      <div>54, 1998</div>
+    </td>
+    <td>
+      <div>29 June 1998</div>
+    </td>
+    <td>
+      <div>Schedule 8: 1 July 1998 ( <i>see</i> <i>Gazette</i>1998, No. S316) <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td>
+      <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Treasury Legislation Amendment (Application of Criminal Code) Act (No. 1) 2001</div>
+    </td>
+    <td>
+      <div>31, 2001</div>
+    </td>
+    <td>
+      <div>28 Apr 2001</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 29): 15 Dec 2001 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>General Insurance Reform Act 2001</div>
+    </td>
+    <td>
+      <div>119, 2001</div>
+    </td>
+    <td>
+      <div>19 Sept 2001</div>
+    </td>
+    <td>
+      <div>Schedules 1 and 3: 1 July 2002 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act 2001</div>
+    </td>
+    <td>
+      <div>121, 2001</div>
+    </td>
+    <td>
+      <div>24 Sept 2001</div>
+    </td>
+    <td>
+      <div>Ss. 1–3: Royal Assent 
+Remainder: 1 July 2002 ( <i>see</i>s. 2(2)and <i>Gazette</i>2002, No. GN24) 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (item 160)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Financial Sector Legislation Amendment Act (No. 1) 2002</div>
+    </td>
+    <td>
+      <div>37, 2002</div>
+    </td>
+    <td>
+      <div>26 June 2002</div>
+    </td>
+    <td>
+      <div>Schedule 5: 27 June 2002 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Australian Prudential Regulation Authority Amendment Act 2003</div>
+    </td>
+    <td>
+      <div>42, 2003</div>
+    </td>
+    <td>
+      <div>24 June 2003</div>
+    </td>
+    <td>
+      <div>Ss. 1–3: Royal Assent 
+Remainder: 1 July 2003 ( <i>see</i>s. 2(1) and <i>Gazette</i>2003, No. S230) 
+</div>
+    </td>
+    <td>
+      <div>Sch. 3</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Administrative Appeals Tribunal Amendment Act 2005</div>
+    </td>
+    <td>
+      <div>38, 2005</div>
+    </td>
+    <td>
+      <div>1 Apr 2005</div>
+    </td>
+    <td>
+      <div>Schedule 1 (item 218): 16 May 2005</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedule 6 only of the _Financial Laws Amendment Act 1997_, subsection 2(1) of which provides as follows:
 
@@ -1747,24 +1737,27 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>
-      5\. Schedules 
-      5 to 9
-    </div>
-  </td>
-  <td>
-    <div>
-      The day after the day on which this Act receives the Royal Assent
-    </div>
-  </td>
-  <td>
-    <div>
-      27 June 2002
-    </div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>
+        5\. Schedules 
+        5 to 9
+      </div>
+    </td>
+    <td>
+      <div>
+        The day after the day on which this Act receives the Royal Assent
+      </div>
+    </td>
+    <td>
+      <div>
+        27 June 2002
+      </div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table of Amendments
 
@@ -1789,814 +1782,817 @@ _(d)_ The _Insurance Acquisitions and Takeovers Act 1991_ was amended by Schedul
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Title</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998; No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1995; No. 54, 1998; Nos. 119 and 121, 2001; No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Part 2</div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 20–23</div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 24</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 24</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 25</div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 26</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 27</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 27</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 28–30</div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 31</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 31</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 32–34</div>
-  </td>
-  <td>
-    <div>rep. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 35</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 36</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 3 .</div>
-  </td>
-  <td>
-    <div>rs. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 38</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 38</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 39</div>
-  </td>
-  <td>
-    <div>rep. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 40</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 40</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 41</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997; No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 41</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of Part 3 .</div>
-  </td>
-  <td>
-    <div>rs. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 42</div>
-  </td>
-  <td>
-    <div>rep. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 45</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 45</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997; No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 45</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 46–48</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 1</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 49</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 2</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 2 of Part 4 .</div>
-  </td>
-  <td>
-    <div>rs. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 52</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 52</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 53</div>
-  </td>
-  <td>
-    <div>rep. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 54</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 54</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 3</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 55</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997; No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 55</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Division 4</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to Div. 4 of Part 4 .</div>
-  </td>
-  <td>
-    <div>rs. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 56</div>
-  </td>
-  <td>
-    <div>rep. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 59</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 59</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997; No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 59</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 60–62</div>
-  </td>
-  <td>
-    <div>am. No. 37, 2002</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 5</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 63</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 6</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 64</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 7</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 65</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998; No. 154, 2007</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 8</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 67</div>
-  </td>
-  <td>
-    <div>am. No. 38, 2005</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div><b>Part 9</b></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 69</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998; No. 42, 2003</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 73</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997; No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 73</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 74</div>
-  </td>
-  <td>
-    <div>am. No. 107, 1997; No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Note to s. 74</div>
-  </td>
-  <td>
-    <div>ad. No. 107, 1997</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rep. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 75</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 107, 1997; No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 76</div>
-  </td>
-  <td>
-    <div>am. No. 31, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 77</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 77</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1995; No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 121, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Heading to s. 78</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1995</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 121, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 78</div>
-  </td>
-  <td>
-    <div>am. No. 5, 1995; No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 121, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 79</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 121, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 81, 82</div>
-  </td>
-  <td>
-    <div>am. No. 54, 1998</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Title</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998; No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1995; No. 54, 1998; Nos. 119 and 121, 2001; No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Part 2</div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 20–23</div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 24</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 24</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 25</div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 26</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 27</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 27</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 28–30</div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 31</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 31</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 32–34</div>
+    </td>
+    <td>
+      <div>rep. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 35</div>
+    </td>
+    <td>
+      <div>am. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 36</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 2 of Part 3 .</div>
+    </td>
+    <td>
+      <div>rs. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 38</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 38</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 39</div>
+    </td>
+    <td>
+      <div>rep. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 40</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 40</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 41</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997; No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 41</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 4 of Part 3 .</div>
+    </td>
+    <td>
+      <div>rs. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 42</div>
+    </td>
+    <td>
+      <div>rep. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 45</div>
+    </td>
+    <td>
+      <div>am. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 45</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997; No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 45</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 46–48</div>
+    </td>
+    <td>
+      <div>am. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 1</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 49</div>
+    </td>
+    <td>
+      <div>am. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 2</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 2 of Part 4 .</div>
+    </td>
+    <td>
+      <div>rs. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 52</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 52</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 53</div>
+    </td>
+    <td>
+      <div>rep. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 54</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 54</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 3</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 55</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997; No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 55</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Division 4</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to Div. 4 of Part 4 .</div>
+    </td>
+    <td>
+      <div>rs. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 56</div>
+    </td>
+    <td>
+      <div>rep. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 59</div>
+    </td>
+    <td>
+      <div>am. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 59</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997; No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 59</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 60–62</div>
+    </td>
+    <td>
+      <div>am. No. 37, 2002</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 5</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 63</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 6</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 64</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 7</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 65</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 8</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 67</div>
+    </td>
+    <td>
+      <div>am. No. 38, 2005</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div><b>Part 9</b></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 69</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998; No. 42, 2003</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 73</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997; No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 73</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 74</div>
+    </td>
+    <td>
+      <div>am. No. 107, 1997; No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Note to s. 74</div>
+    </td>
+    <td>
+      <div>ad. No. 107, 1997</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rep. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 75</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 107, 1997; No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 76</div>
+    </td>
+    <td>
+      <div>am. No. 31, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 77</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 77</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1995; No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 121, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Heading to s. 78</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1995</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 121, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 78</div>
+    </td>
+    <td>
+      <div>am. No. 5, 1995; No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 121, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 79</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>rs. No. 121, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 81, 82</div>
+    </td>
+    <td>
+      <div>am. No. 54, 1998</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 ## Table A
 
@@ -2632,7 +2628,9 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Financial Sector (Collection of Data—Consequential and Transitional Provisions) Act  2001 (No. 121, 2001)_
 
@@ -2642,10 +2640,13 @@ _Financial Sector (Collection of Data—Consequential and Transitional Provision
 
 The amendments made by items 158 and 159 apply to financial sector entities (within the meaning of the _Financial Sector (Collection of Data) Act 2001_) that are companies authorised under the _Insurance Act 1973_ to carry on insurance business, or companies registered under the _Life Insurance Act 1995_, only on and after the day on which the reporting standards determined under section 13 of the _Financial Sector (Collection of Data) Act 2001_ begin to apply under section 15 of that Act to the financial sector entities concerned.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Australian Prudential Regulation Authority Amendment Act 2003 
- (No. 42, 2003)_
+(No. 42, 2003)
+_
 
 ## Schedule 3
 
@@ -2704,5 +2705,6 @@ An approval in force, immediately before the commencement of the amendments, und
 (1)        Subsection 102(2A) of the _Australian Securities and Investments Commission Act 2001_ has effect after the commencement of the amendments as if the reference in that subsection to the Chief Executive Officer of APRA were instead a reference to APRA.
 
 (2)        For the purposes of that subsection as it continues to have effect, an agreement to a delegation, in force under that subsection immediately before the commencement of the amendments, continues to have effect after that commencement as if it were given by APRA.
+
 
  
