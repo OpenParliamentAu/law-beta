@@ -1,11 +1,11 @@
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image001.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image001.gif)
 
 # Student Assistance Act 1973
 
 **Act No. 155 of 1973 as amended**
 
-This compilation was prepared on 29 July 2011
- taking into account amendments up to Act No. 79 of 2011
+This compilation was prepared on 1 July 2011
+ taking into account amendments up to Act No. 32 of 2011
 
 The text of any of those amendments not in force 
  on that date is appended in the Notes section
@@ -354,7 +354,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 
 [355](#355).        Secretary’s certificate
 
-[356](#356).        Guidelines for exercise of Secretary’s disclosure powers
+[356](#356).        Guidelines for exercise of Secretary’s certificate power
 
 [356A](#356A).     Disclosure of information—education expenses tax offset
 
@@ -888,7 +888,7 @@ the payment is taken not to be a payment of financial supplement if an amount eq
 
 ##### <a id="12P"></a>12P  Explanation of Division
 
-                   This Division provides for payments in respect of financial supplement to stop if the person in receipt of the financial supplement:
+                   This Division provides for payments in respect of financial supplement to stop if the person in receipt of the financial supplement:
 
                      (a)  so requests; or
 
@@ -1072,13 +1072,13 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (b)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image002.gif)
 
                             and
 
                      (c)  no amount is taken to be outstanding under the contract after the notice is given but the student is liable to pay to the Commonwealth the amount worked out in relation to the contract, as at the end of that period of 4 weeks, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image003.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image003.gif)
 
              (3)  In the formula in paragraph (2)(c):
 
@@ -1098,7 +1098,7 @@ the Secretary must give written notice to the student and to the corporation sta
 
                      (c)  the Commonwealth is liable to pay to the corporation in respect of those rights the amount worked out in relation to the contract as at the time when the corporation ceased to make payments under the contract or at the end of 4 weeks after the time the notice was given, whichever is the earlier, using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image004.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image004.gif)
 
                      (d)  the indebtedness of the student to the Commonwealth under the contract as a result of the assignment is discharged by force of this paragraph.
 
@@ -1122,7 +1122,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
              (1)  Subject to this section, **_the amount outstanding_** under the contract at any time after the contract was entered into and before 1 June in the year next following the year in respect of which the contract was entered into is the amount worked out in relation to the contract, as at that time, using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image005.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image005.gif)
 
              (2)  In subsection (1):
 
@@ -1136,7 +1136,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="amount-outstanding"></a>**_the amount outstanding_** under the contract is taken to be the amount worked out in relation to the period concerned using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image006.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image006.gif)
 
              (4)  For the purposes of the application of the formula in subsection (3) in relation to a time (**_the relevant time_**) within a period of 12 months beginning on 1 June (**_the relevant 12 months_**):
 
@@ -1148,7 +1148,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                     <a name="index-factor"></a>**_indexation factor_** means the number worked out to 3 decimal places in relation to the relevant 12 months using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image007.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image007.gif)
 
                     <a name="later-refer-period"></a>**_later reference period_**means the period of 12 months immediately before the relevant 12 months.
 
@@ -1172,7 +1172,7 @@ Note:          Sections 28A and 29 of the _Acts Interpretati
 
                      (b)  the amount outstanding under the contract at the relevant time exceeds the amount worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image002.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image002.gif)
 
 and the amount of the excess constitutes the indexation amount in relation to the contract at the relevant time.
 
@@ -1200,11 +1200,11 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (7)  If the student makes a repayment in respect of the amount outstanding under the contract that is less than the amount outstanding under the contract, the student is entitled for the purposes of this Part, in respect of the amount outstanding under the contract, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image008.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image008.gif)
 
           (7A)  If the student makes a repayment in respect of the amount outstanding under the contract that equals that amount, the student is entitled, for the purposes of this Act, to a discount of an amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image009.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image009.gif)
 
              (8)  If, apart from this subsection, an amount worked out under subsection (7) or (7A) would be an amount of dollars and cents, the amount is to be rounded to the nearest dollar (rounding 50 cents upwards).
 
@@ -1278,7 +1278,7 @@ and the amount of the excess constitutes the indexation amount in relation to th
 
              (1)  If, at the end of the contract period in relation to a financial supplement contract between a participating corporation and another person, there was an amount outstanding under the contract, the person incurs on 1 June immediately following the end of that period a debt (**_FS debt_**) to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image010.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image010.gif)
 
 where:
 
@@ -1290,7 +1290,7 @@ where:
 
              (3)  If an FS debt or FS debts of a person that existed on 1 June in a year (**_the later date_**) are, or include, an FS debt or FS debts that existed on 1 June in the immediately preceding year (**_the earlier date_**), the person incurs on the later date an **_accumulated FS debt_** to the Commonwealth worked out using the formula: 
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image011.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image011.gif)
 
 where:
 
@@ -1302,7 +1302,7 @@ where:
 
              (4)  The reference in subsection (3) to the adjusted accumulated FS debt of a person at the earlier date is a reference to the amount worked out using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image012.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image012.gif)
 
 where:
 
@@ -1324,7 +1324,7 @@ where:
 
              (6)  The factor to be calculated for the purposes of the definition of **_indexation factor_** in subsection (1) or (3) in determining an FS debt or the accumulated FS debt of a person at 1 June in a year (**_the relevant year_**) is the number worked out to 3 decimal places using the formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image013.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image013.gif)
 
              (7)  If an indexation factor calculated in accordance with subsection (6) would end with a number greater than 4 if it were worked out to 4 decimal places, the indexation factor is increased by 0.001.
 
@@ -1850,7 +1850,7 @@ then:
 
                              (ii)  if subparagraph (a)(ii) applies—the amount worked out using the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image014.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image014.gif)
 
              (4)  Any amount paid to the Commonwealth by or under the authority of the person in relation to the recoverable amount is:
 
@@ -2170,7 +2170,7 @@ Formula for working out present value of unpaid amount
 
              (6)  For the purposes of subsection (5), the **_present value of the unpaid amount_** is the amount worked out in accordance with the following formula:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image015.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image015.gif)
 
 where:
 
@@ -2190,7 +2190,7 @@ Facts:         Terry owed a debt of $8,000 to the Commonwealth. 
 
 Result:        The present value of the unpaid amount of $6,000 to be repaid in 5 years at a 10% interest rate is worked out as follows:
 
-![](http://www.comlaw.gov.au/Details/C2011C00587/Html/f71e4329-304c-4c99-95d4-a39ba46f5fd7_files/image016.gif)
+![](http://www.comlaw.gov.au/Details/C2011C00476/Html/15b20b0f-6362-4896-bfaa-6aa7cd0b1fe8_files/image016.gif)
 
                    As the proposed payment of $4,700 is more than the present value of the unpaid amount (which is $4,548 as shown), and as the other conditions in subsection (5) apply, the Secretary may accept Terry’s offer and make an agreement with him as described in subsection (4).
 
@@ -3416,19 +3416,27 @@ Note:          A person to whom information is disclosed may c
 
 Secretary to act according to guidelines
 
-             (2)  In giving certificates for the purposes of paragraph (1)(a), the Secretary must act in accordance with guidelines (if any) from time to time in force under section 356.
+             (2)  In giving certificates for the purposes of paragraph (1)(a), the Secretary must act in accordance with guidelines from time to time in force under subsection 356(1).
 
 Disclosure to be in accordance with guidelines
 
-             (3)  In disclosing information under paragraph (1)(b), the Secretary must act in accordance with guidelines (if any) from time to time in force under section 356.
+             (3)  In disclosing information under paragraph (1)(b), the Secretary must act in accordance with guidelines from time to time in force under subsection 356(1).
 
-##### <a id="356"></a>356  Guidelines for exercise of Secretary’s disclosure powers
+##### <a id="356"></a>356  Guidelines for exercise of Secretary’s certificate power
 
-                   The Minister may, by legislative instrument, make guidelines for the exercise of either or both of the following:
+Minister may set guidelines
 
-                     (a)  the Secretary’s power to give certificates for the purposes of paragraph 355(1)(a);
+             (1)  The Minister, by written determination:
 
-                     (b)  the Secretary’s power under paragraph 355(1)(b).
+                     (a)  is to set guidelines for the exercise of Secretary’s power to give certificates for the purposes of paragraph 355(1)(a); and
+
+                     (b)  is to set guidelines for the exercise of the Secretary’s power under paragraph 355(1)(b); and
+
+                     (c)  may revoke or vary those guidelines.
+
+Disallowable instrument
+
+             (2)  A determination made under subsection (1) is a disallowable instrument.
 
 ##### <a id="356A"></a>356A  Disclosure of information—education expenses tax offset
 
@@ -3518,7 +3526,7 @@ Note:          For **_officer_** see subsection 3(1).
 
 ##### <a id="361"></a>361  Freedom of Information Act not affected
 
-                   The provisions of this Part that relate to the disclosure of information do not affect the operation of the _Freedom of Information Act 1982._
+                   The provisions of this Part that relate to the disclosure of information do not affect the operation of the _Freedom of Information Act 1982._
 
 # Notes to the _Student Assistance Act 1973_
 
@@ -4747,78 +4755,6 @@ Schedule 7 (item 130): 19 Apr 2011</div>
   <td>
     <div>—</div>
   </td>
-</tr>
-<tr>
-  <td>
-    <div>Acts Interpretation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>46, 2011</div>
-  </td>
-  <td>
-    <div>27 June 2011</div>
-  </td>
-  <td>
-    <div>Schedule 2 (items 1070–1072) and Schedule 3 (items 10, 11): \[ <i>see</i>Note 2 and Table A]</div>
-  </td>
-  <td>
-    <div>Sch. 3 (items 10, 11) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011</div>
-  </td>
-  <td>
-    <div>79, 2011</div>
-  </td>
-  <td>
-    <div>25 July 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 12): <i>(zb)</i> 
-Schedule 4 (items 13–15): 26 July 2011</div>
-  </td>
-  <td>
-    <div>Sch. 4 (item 15) \[ <i>see</i>Table A] 
-S. 2(1) (item 5) (rs. by 32, 2011, Sch. 4 \[item 658]) 
-S. 2(1) (items 
-6–12) (ad. by 32, 2011, Sch. 4 \[item 658])</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Human Services Legislation Amendment Act 2011</div>
-  </td>
-  <td>
-    <div>32, 2011</div>
-  </td>
-  <td>
-    <div>25 May 2011</div>
-  </td>
-  <td>
-    <div>Schedule 4 (item 658): <i>(zc)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
 </tr></table>
 
 _(a)_     The _Student Assistance Act 1973_ was amended by Part XXXIX (sections 218–237) only of the _Statute Law (Miscellaneous Amendments) Act (No. 1) 1982_, subsection 2(12) of which provides as follows: 
@@ -4983,160 +4919,6 @@ _(za)_ The _Student Assistance Act 1973_ was amended by Schedule 3 (items 49
                  (1)   Subject to this section, this Act commences, or is taken to have commenced, immediately after the commencement of section 1 of the _A New Tax System (Tax Administration) Act 1999_.
 
          Section 1 commenced on 22 December 1999.
-
-_(zb)_   Subsection 2(1) (item 10) of the _Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td colspan="3">
-      <div>
-        <b>
-          Commencement information
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Column 1
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 2
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Column 3
-        </b>
-      </div>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      10\. Schedule 4, item 12
-    </div>
-  </td>
-  <td>
-    <div>
-      The day after this Act receives the Royal Assent.
-    </div>
-    <div>
-      However, if item 657 of Schedule 4 to the
-        <i>Human Services Legislation Amendment Act 2011</i>commences before the
-        day after this Act receives the Royal Assent, the provision(s) do not commence
-        at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      Does not commence
-    </div>
-  </td>
-</tr></table>
-
-_(zc)_   Subsection 2(1) (item 7B) of the _Human Services Legislation Amendment Act 2011_ provides as follows:
-
-                 (1)   Each provision of this Act specified in column 1 of the table commences, or is taken to have commenced, in accordance with column 2 of the table. Any other statement in column 2 has effect according to its terms.
-
-<table>
-<colgroup>
-  <col width="24%">
-  <col width="54%">
-  <col width="22%">
-</colgroup>
-
-<thead>
-  <tr>
-    <td>
-      <div>
-        <b>
-          Provision(s)
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Commencement
-        </b>
-      </div>
-    </td>
-    <td>
-      <div>
-        <b>
-          Date/Details
-        </b>
-      </div>
-    </td>
-  </tr>
-</thead>
-<tr>
-  <td>
-    <div>
-      7B. Schedule 4, Part 6
-    </div>
-  </td>
-  <td>
-    <div>
-      Immediately after the commencement of section 2 of the
-        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
-          Measures) Act 2011</i>.
-    </div>
-    <div>
-      However, if section 2 of the
-        <i>Family Assistance and Other Legislation Amendment (Child Care and Other
-          Measures) Act 2011</i>commences before the day this Act receives the Royal
-        Assent, the provision(s) do not commence at all.
-    </div>
-  </td>
-  <td>
-    <div>
-      25 July 2011
-    </div>
-  </td>
-</tr></table>
 
 The amendment history of the _Student Assistance Act 1973_ after renumbering by the _Student Assistance Amendment Act (No. 2) 1989_ appears in the Table below.
 
@@ -12682,7 +12464,7 @@ rep. No. 45, 1998</div>
     <div></div>
   </td>
   <td>
-    <div>am. No. 29, 1997; No. 45, 1998; Nos. 5, 32 and 79, 2011</div>
+    <div>am. No. 29, 1997; No. 45, 1998; Nos. 5 and 32, 2011</div>
   </td>
 </tr>
 <tr>
@@ -12691,14 +12473,6 @@ rep. No. 45, 1998</div>
   </td>
   <td>
     <div>ad. No. 183, 1994</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>rs. No. 79, 2011</div>
   </td>
 </tr>
 <tr>
@@ -13133,28 +12907,6 @@ Certain provisions of the _Student Assistance Act 1973_ as amended were repealed
     <div>rep. No. 171, 1989</div>
   </td>
 </tr></table>
-
-### Note 2
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following amendments commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 2
-
-## 1070  Subsection 343(1) (note)
-
-Omit “paragraph 22(1)(a)”, substitute “subsection 2C(1)”.
-
-## 1071  Subsection 344(1) (note)
-
-Omit “paragraph 22(1)(a)”, substitute “subsection 2C(1)”.
-
-## 1072  Subsection 345(1) (note)
-
-Omit “paragraph 22(1)(a)”, substitute “subsection 2C(1)”.
-
-As at 29 July 2011 the amendments are not incorporated in this compilation.
 
 ## Table A
 
@@ -13664,34 +13416,6 @@ _Tax Laws Amendment (2009 Measures No. 1) Act 2009 (No. 27, 2009)_
 ## 102  Application
 
 (1)       The amendments made by this Schedule apply in relation to income years starting on or after 1 July 2009.
-
-* * *
-
-_Acts Interpretation Amendment Act 2011 (No. 46, 2011)_
-
-The following provisions commence on 27 December 2011 unless proclaimed earlier:
-
-## Schedule 3
-
-## 10  Saving—appointments
-
-The amendments made by Schedule 2 do not affect the validity of an appointment that was made under an Act before the commencement of this item and that was in force immediately before that commencement.
-
-## 11  Transitional regulations
-
-The Governor‑General may make regulations prescribing matters of a transitional nature (including prescribing any saving or application provisions) relating to the amendments and repeals made by Schedules 1 and 2.
-
-* * *
-
-_Family Assistance and Other Legislation Amendment (Child Care and Other Measures) Act 2011 (No. 79, 2011)_
-
-## Schedule 4
-
-## 15  Transitional—guidelines for exercise of Secretary’s disclosure powers
-
-(1)       Guidelines in force under section 356 of the _Student Assistance Act 1973_ immediately before the commencement of this item continue in effect, after that commencement, as if they had been made under that section, as in force after that commencement.
-
-(2)       Subitem (1) does not prevent the variation or revocation of the guidelines after that commencement.
 
 Table showing new Part, Division and section numbers of the _Student Assistance Act 1973_ after renumbering by the _Student Assistance Amendment Act (No. 2) 1989_ (No. 171, 1989).
 
