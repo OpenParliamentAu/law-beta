@@ -1,100 +1,102 @@
-![](http://www.comlaw.gov.au/Details/C2008C00189/Html/HistoricShipwrecks1976_image001.gif)
+![](http://www.comlaw.gov.au/Details/C2006C00172/Html/081BBE474A5AAAA1CA2571550019CDDD/$FILE/image001.gif)
 
 # Historic Shipwrecks Act 1976
 
 **Act No. 190 of 1976 as amended**
 
-This compilation was prepared on 1 July 2008
- taking into account amendments up to Act No. 17 of 2006
+This compilation was prepared on 10 April 2006
+taking into account amendments up to Act No. 17 of 2006
 
 The text of any of those amendments not in force 
- on that date is appended in the Notes section
+on that date is appended in the Notes section
 
 The operation of amendments that have been incorporated may be 
- affected by application provisions that are set out in the Notes section
+affected by application provisions that are set out in the Notes section
 
 Prepared by the Office of Legislative Drafting and Publishing,
- Attorney-General’s Department, Canberra
+Attorney-General’s Department, 
+Canberra
+
 
 # Contents
 
 **Part I—Preliminary**
 
-[1](#1).            Short title [_see_ Note 1]
+[1](#1).            Short title [_see_ Note 1]                                                                        1
 
-[2](#2).            Commencement and application of Act [_see_ Note 1]
+[2](#2).            Commencement and application of Act [_see_ Note 1]                          1
 
-[3](#3).            Interpretation
+[3](#3).            Interpretation                                                                                       4
 
-[3A](#3A).         Wrecks etc  partly in Australian waters and partly in State waters
+[3A](#3A).         Wrecks etc  partly in Australian waters and partly in State waters    7
 
-[3B](#3B).         Application and extension of Act
+[3B](#3B).         Application and extension of Act                                                        7
 
-[4](#4).            Act to bind Crown
+[4](#4).            Act to bind Crown                                                                               7
 
-[4AA](#4AA).      Application of the _Criminal Code_
+[4AA](#4AA).      Application of the _Criminal Code_                                                       8
 
 **Part II—Protection of historic shipwrecks and relics**
 
-[4A](#4A).         Shipwrecks and relics associated with State or Territory may be declared to be historic
+[4A](#4A).         Shipwrecks and relics associated with State or Territory may be declared to be historic       9
 
-[5](#5).            Certain shipwrecks and relics may be declared to be historic
+[5](#5).            Certain shipwrecks and relics may be declared to be historic           12
 
-[6](#6).            Provisional declaration that shipwrecks and relics are historic
+[6](#6).            Provisional declaration that shipwrecks and relics are historic         13
 
-[7](#7).            Protected zones
+[7](#7).            Protected zones                                                                                 14
 
-[8](#8).            Further publication of notices 
+[8](#8).            Further publication of notices                                                           15
 
-[9](#9).            Notice of location of historic shipwrecks and relics
+[9](#9).            Notice of location of historic shipwrecks and relics                          15
 
-[10](#10).          Power of Minister to ascertain location of historic shipwrecks and relics
+[10](#10).          Power of Minister to ascertain location of historic shipwrecks and relics              17
 
-[11](#11).          Power of Minister to give directions in relation to custody etc  of historic shipwrecks and relics
+[11](#11).          Power of Minister to give directions in relation to custody etc  of historic shipwrecks and relics         18
 
-[12](#12).          Register of Historic Shipwrecks
+[12](#12).          Register of Historic Shipwrecks                                                        19
 
-[13](#13).          Prohibition of certain action in relation to historic shipwrecks and relics
+[13](#13).          Prohibition of certain action in relation to historic shipwrecks and relics               19
 
-[14](#14).          Regulations may prohibit certain activities in protected zone
+[14](#14).          Regulations may prohibit certain activities in protected zone          20
 
-[15](#15).          Permits for exploration or recovery of shipwrecks and relics
+[15](#15).          Permits for exploration or recovery of shipwrecks and relics           21
 
-[16](#16).          Defences
+[16](#16).          Defences                                                                                            23
 
-[17](#17).          Discovery of shipwrecks and relics to be notified
+[17](#17).          Discovery of shipwrecks and relics to be notified                            23
 
-[18](#18).          Rewards
+[18](#18).          Rewards                                                                                             23
 
 **Part III—Miscellaneous**
 
-[19](#19).          Arrangements for State and Northern Territory authorities to perform certain functions
+[19](#19).          Arrangements for State and Northern Territory authorities to perform certain functions      25
 
-[20](#20).          Declaration as to ownership of remains of ships or relics
+[20](#20).          Declaration as to ownership of remains of ships or relics                 25
 
-[21](#21).          Compensation
+[21](#21).          Compensation                                                                                    26
 
-[22](#22).          Appointment of inspectors
+[22](#22).          Appointment of inspectors                                                               27
 
-[23](#23).          Powers of inspectors
+[23](#23).          Powers of inspectors                                                                         27
 
-[24](#24).          Arrest without warrant
+[24](#24).          Arrest without warrant                                                                      29
 
-[25](#25).          Seizure and forfeiture
+[25](#25).          Seizure and forfeiture                                                                         29
 
-[26](#26).          Certain offences indictable
+[26](#26).          Certain offences indictable                                                                 30
 
-[27](#27).          Jurisdiction of courts
+[27](#27).          Jurisdiction of courts                                                                         31
 
-[28](#28).          Operation of Act
+[28](#28).          Operation of Act                                                                               31
 
-[29](#29).          Certificate by Minister to be evidence
+[29](#29).          Certificate by Minister to be evidence                                              31
 
-[30](#30).          Delegation
+[30](#30).          Delegation                                                                                          31
 
-[31](#31).          Notices
+[31](#31).          Notices                                                                                               32
 
-[32](#32).          Regulations
+[32](#32).          Regulations                                                                                        32
 
 **Schedules** 
 
@@ -103,6 +105,7 @@ Prepared by the Office of Legislative Drafting and Publishing,
 **Schedule 2—Dutch shipwrecks off the coast of Western Australia** 
 
 **Notes** 
+
 
 ## An Act relating to the Protection of Certain Shipwrecks and Relics of Historic Significance 
 
@@ -232,7 +235,7 @@ BE IT THEREFORE ENACTED by the Queen, and the Senate and House of Representative
 
              (4)  A reference in this Act to an article associated with a ship shall be construed as a reference to an article that appears to have formed part of, to have been installed or carried on, or to have been constructed or used by a person associated with, a ship.
 
-             (5)  For the purpose of this Act, and of any Proclamation under this Act (whether made before or after the commencement of this subsection), the waters adjacent to the coast of a State or of the Northern Territory shall be deemed to comprise so much of the waters within the area the boundary of which was described under the heading referring to that State or Territory in Schedule 2 to the repealed _Petroleum (Submerged Lands) Act 1967_ as in force immediately after the commencement of Part II of the _Petroleum (Submerged Lands—Miscellaneous Amendments) Act 1981_ as are within the outer limit of the continental shelf of Australia.
+             (5)  For the purpose of this Act, and of any Proclamation under this Act (whether made before or after the commencement of this subsection), the waters adjacent to the coast of a State or of the Northern Territory shall be deemed to comprise so much of the waters within the area the boundary of which is described under the heading referring to that State or Territory in Schedule 2 to the _Petroleum (Submerged Lands) Act 1967_ as in force immediately after the commencement of Part II of the _Petroleum (Submerged Lands—Miscellaneous Amendments) Act 1981_ as are within the outer limit of the continental shelf of Australia.
 
 ##### <a id="3A"></a>3A  Wrecks etc. partly in Australian waters and partly in State waters
 
@@ -252,7 +255,7 @@ the Minister may declare, in writing, that the part referred to in paragraph (
 
 ##### <a id="4"></a>4  Act to bind Crown
 
-                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk  Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
+                   This Act binds the Crown in right of the Commonwealth, of each of the States, of the Northern Territory and of Norfolk Island, but nothing in this Act renders the Crown liable to be prosecuted for an offence.
 
 ##### <a id="4AA"></a>4AA  Application of the _Criminal Code_
 
@@ -352,9 +355,9 @@ the declaration continues to apply in relation to that article.
 
            (11)  In this section:
 
-                    <a name="state"></a>**_State_** includes the Northern Territory and Norfolk  Island. 
+                    <a name="state"></a>**_State_** includes the Northern Territory and Norfolk Island. 
 
-                    <a name="territori"></a>**_Territory_** does not include the Northern   Territory or Norfolk Island.
+                    <a name="territori"></a>**_Territory_** does not include the Northern Territory or Norfolk Island.
 
            (12)  In this section:
 
@@ -698,7 +701,7 @@ or both.
 
 ##### <a id="19"></a>19  Arrangements for State and Northern Territory authorities to perform certain functions
 
-             (1)  The Governor-General may make arrangements with the Governor of a State or the Administrator of the Northern   Territory for the performance of functions by a competent authority of the State or of the Northern Territory in relation to the protection, recovery, preservation and exhibition of historic shipwrecks and historic relics.
+             (1)  The Governor-General may make arrangements with the Governor of a State or the Administrator of the Northern Territory for the performance of functions by a competent authority of the State or of the Northern Territory in relation to the protection, recovery, preservation and exhibition of historic shipwrecks and historic relics.
 
              (2)  Without prejudice to subsection (1), the Governor-General may make arrangements with the Governor of Western Australia for the performance by The Western Australian Museum of functions in relation to the protection, recovery, preservation and exhibition of Dutch shipwrecks and Dutch relics.
 
@@ -862,6 +865,7 @@ is _prima facie_ evidence of the matters stated in the certificate.
 
                    The Governor-General may make regulations, not inconsistent with this Act, prescribing all matters required or permitted by this Act to be prescribed or necessary or convenient to be prescribed for carrying out or giving effect to this Act or carrying out or giving effect to the Australia-Netherlands Agreement or any other relevant agreement.
 
+
 # Schedules
 
 # Schedule 1—Agreement between the Netherlands and Australia concerning old Dutch shipwrecks
@@ -904,7 +908,7 @@ _Article 7:_     Expenditure incurred by the Committee in the performanc
 
    (III)     the expenses of transportation of articles distributed in accordance with determinations of the Committee shall be borne by the recipients of the articles.
 
-_Article 8:_ If the members of the Committee referred to in article 4 of this Agreement cannot come to an agreement on the disposition of particular articles, Australia and the Netherlands shall appoint an independent consultant to report on the matter in issue and the report shall be referred to the Committee for re-consideration of the matter. The cost of the report shall be shared between the two Parties represented on the Committee, the share to be borne by the Netherlands being one third and that by   Australia two thirds.
+_Article 8:_ If the members of the Committee referred to in article 4 of this Agreement cannot come to an agreement on the disposition of particular articles, Australia and the Netherlands shall appoint an independent consultant to report on the matter in issue and the report shall be referred to the Committee for re-consideration of the matter. The cost of the report shall be shared between the two Parties represented on the Committee, the share to be borne by the Netherlands being one third and that by Australia two thirds.
 
 _Article 9:_     If, on considering the consultant’s report on a matter, the members of the Committee cannot come to an agreement on the disposition of the recovered articles, the matter will be referred to the Government of the Kingdom of the Netherlands and the Government of the Commonwealth of Australia, which will settle the matter by negotiation.
 
@@ -928,7 +932,7 @@ _General Principles_
 
 **Representative collections**
 
-The cost of recovery (including treatment) is likely to exceed by far the intrinsic or antiquarian sale-value of material recovered. The Government of Western Australia is spending considerable sums on this work ($92,000 in the last financial year) and estimates that the total cost will be $2,000,000 or more. Although a division would not be warranted by consideration of cash value alone, the historic, educational, scientific and international considerations are such as to make the deposition of representative collections in the museums of the Netherlands and Australia most desirable. The remainder of the material would be held in the Western Australian  Museum. 
+The cost of recovery (including treatment) is likely to exceed by far the intrinsic or antiquarian sale-value of material recovered. The Government of Western Australia is spending considerable sums on this work ($92,000 in the last financial year) and estimates that the total cost will be $2,000,000 or more. Although a division would not be warranted by consideration of cash value alone, the historic, educational, scientific and international considerations are such as to make the deposition of representative collections in the museums of the Netherlands and Australia most desirable. The remainder of the material would be held in the Western Australian Museum. 
 
 **Considerations governing the partition of archaeological collections**
 
@@ -944,7 +948,7 @@ _Operating Principles_
 
 **Code of Operation**
 
-The Committee will operate by reviewing proposals for distribution made, from time to time, by the Director of the Western Australian  Museum; it could decide that the proposed samples be increased or decreased in content in the light of the total material collected and other factors.
+The Committee will operate by reviewing proposals for distribution made, from time to time, by the Director of the Western Australian Museum; it could decide that the proposed samples be increased or decreased in content in the light of the total material collected and other factors.
 
 **General aims**
 
@@ -964,6 +968,7 @@ THE HAGUE,
 
 6th November, 1972 
 
+
 # Schedule 2—Dutch shipwrecks off the coast of Western Australia
 
 _Section 3_
@@ -974,46 +979,49 @@ _Section 3_
   <col width="56%">
 </colgroup>
 
-<tr>
-  <td>
-    <div>Name by which Vessel was known</div>
-  </td>
-  <td>
-    <div>Approximate location</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>“Batavia”...................................</div>
-  </td>
-  <td>
-    <div>Beacon Island, Wallabi Group, Houtmans Abrolhos</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>“Vergulde Draeck” or “Gilt Dragon”</div>
-  </td>
-  <td>
-    <div>Ledge Point</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>“Zuytdorp”.................................</div>
-  </td>
-  <td>
-    <div>40 miles north of the mouth of the Murchison River</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>“Zeewyk”..................................</div>
-  </td>
-  <td>
-    <div>Gun Island, Pelsart Group, Houtmans Abrolhos</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Name by which Vessel was known</div>
+    </td>
+    <td>
+      <div>Approximate location</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>“Batavia”...................................</div>
+    </td>
+    <td>
+      <div>Beacon Island, Wallabi Group, Houtmans Abrolhos</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>“Vergulde Draeck” or “Gilt Dragon”</div>
+    </td>
+    <td>
+      <div>Ledge Point</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>“Zuytdorp”.................................</div>
+    </td>
+    <td>
+      <div>40 miles north of the mouth of the Murchison River</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>“Zeewyk”..................................</div>
+    </td>
+    <td>
+      <div>Gun Island, Pelsart Group, Houtmans Abrolhos</div>
+    </td>
+  </tr>
+</tbody></table>
+
 
 # Notes to the _Historic Shipwrecks Act 1976_
 
@@ -1042,11 +1050,13 @@ All relevant information pertaining to application, saving or transitional provi
     </td>
     <td>
       <div>Number 
-and year</div>
+and year 
+ </div>
     </td>
     <td>
       <div>Date 
-of Assent</div>
+of Assent 
+ </div>
     </td>
     <td>
       <div>Date of commencement</div>
@@ -1056,204 +1066,210 @@ of Assent</div>
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Historic Shipwrecks Act 1976</div>
-  </td>
-  <td>
-    <div>190, 1976</div>
-  </td>
-  <td>
-    <div>15 Dec 1976</div>
-  </td>
-  <td colspan="2">
-    <div>15 Dec 1976</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
-  </td>
-  <td>
-    <div>19, 1979</div>
-  </td>
-  <td>
-    <div>28 Mar 1979</div>
-  </td>
-  <td colspan="2">
-    <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
-Remainder: Royal Assent</div>
-  </td>
-  <td>
-    <div>S. 124</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Historic Shipwrecks Amendment Act 1980</div>
-  </td>
-  <td>
-    <div>88, 1980</div>
-  </td>
-  <td>
-    <div>29 May 1980</div>
-  </td>
-  <td colspan="2">
-    <div>29 May 1980</div>
-  </td>
-  <td>
-    <div>S. 6(2)</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law Revision Act 1981</div>
-  </td>
-  <td>
-    <div>61, 1981</div>
-  </td>
-  <td>
-    <div>12 June 1981</div>
-  </td>
-  <td colspan="2">
-    <div>Part XIII (ss. 56, 57): 19 June 1981 <i>(a)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Torres Strait Treaty (Miscellaneous Amendments) Act 1984</div>
-  </td>
-  <td>
-    <div>22, 1984</div>
-  </td>
-  <td>
-    <div>26 Apr 1984</div>
-  </td>
-  <td colspan="2">
-    <div>Part X (ss. 29, 30): 15 Feb 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1985, No. S38) 
-Remainder: 15 Feb 1985 (see s. 2(1) and <i>Gazette</i>1985, No. S38)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
-  </td>
-  <td>
-    <div>65, 1985</div>
-  </td>
-  <td>
-    <div>5 June 1985</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: 3 July 1985 <i>(b)</i></div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>as amended by</div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-  <td colspan="2">
-    <div></div>
-  </td>
-  <td>
-    <div></div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
-  </td>
-  <td>
-    <div>193, 1985</div>
-  </td>
-  <td>
-    <div>16 Dec 1985</div>
-  </td>
-  <td colspan="2">
-    <div>S. 3: 3 July 1985 <i>(c)</i></div>
-  </td>
-  <td>
-    <div>S. 16</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
-  </td>
-  <td>
-    <div>137, 2000</div>
-  </td>
-  <td>
-    <div>24 Nov 2000</div>
-  </td>
-  <td colspan="2">
-    <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
-Remainder: 24 May 2001</div>
-  </td>
-  <td>
-    <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001</div>
-  </td>
-  <td>
-    <div>15, 2001</div>
-  </td>
-  <td>
-    <div>22 Mar 2001</div>
-  </td>
-  <td colspan="2">
-    <div>S. 4 and Schedule 1 (items 96–103): 24 May 2001 <i>(d)</i></div>
-  </td>
-  <td>
-    <div>S. 4 \[ <i>see</i>Table A]</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
-  </td>
-  <td>
-    <div>17, 2006</div>
-  </td>
-  <td>
-    <div>29 Mar 2006</div>
-  </td>
-  <td colspan="2">
-    <div>Schedule 2 (item 37): 1 July 2008 ( <i>see</i>s. 2(1) and F2008L02273)</div>
-  </td>
-  <td>
-    <div>—</div>
-  </td>
-</tr>
-<tr height="0">
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-  <td></td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Historic Shipwrecks Act 1976</div>
+    </td>
+    <td>
+      <div>190, 1976</div>
+    </td>
+    <td>
+      <div>15 Dec 1976</div>
+    </td>
+    <td colspan="2">
+      <div>15 Dec 1976</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Jurisdiction of Courts (Miscellaneous Amendments) Act 1979</div>
+    </td>
+    <td>
+      <div>19, 1979</div>
+    </td>
+    <td>
+      <div>28 Mar 1979</div>
+    </td>
+    <td colspan="2">
+      <div>Parts II–XVII (ss. 3–123): 15 May 1979 ( <i>see Gazette</i>1979, No. S86) 
+Remainder: Royal Assent 
+</div>
+    </td>
+    <td>
+      <div>S. 124</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Historic Shipwrecks Amendment Act 1980</div>
+    </td>
+    <td>
+      <div>88, 1980</div>
+    </td>
+    <td>
+      <div>29 May 1980</div>
+    </td>
+    <td colspan="2">
+      <div>29 May 1980</div>
+    </td>
+    <td>
+      <div>S. 6(2)</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law Revision Act 1981</div>
+    </td>
+    <td>
+      <div>61, 1981</div>
+    </td>
+    <td>
+      <div>12 June 1981</div>
+    </td>
+    <td colspan="2">
+      <div>Part XIII (ss. 56, 57): 19 June 1981 <i>(a)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Torres Strait Treaty (Miscellaneous Amendments) Act 1984</div>
+    </td>
+    <td>
+      <div>22, 1984</div>
+    </td>
+    <td>
+      <div>26 Apr 1984</div>
+    </td>
+    <td colspan="2">
+      <div>Part X (ss. 29, 30): 15 Feb 1985 ( <i>see</i>s. 2(2) and <i>Gazette</i>1985, No. S38) 
+Remainder: 15 Feb 1985 (see s. 2(1) and <i>Gazette</i>1985, No. S38) 
+</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 1) 1985</div>
+    </td>
+    <td>
+      <div>65, 1985</div>
+    </td>
+    <td>
+      <div>5 June 1985</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: 3 July 1985 <i>(b)</i></div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>as amended by</div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+    <td colspan="2">
+      <div></div>
+    </td>
+    <td>
+      <div></div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Statute Law (Miscellaneous Provisions) Act (No. 2) 1985</div>
+    </td>
+    <td>
+      <div>193, 1985</div>
+    </td>
+    <td>
+      <div>16 Dec 1985</div>
+    </td>
+    <td colspan="2">
+      <div>S. 3: 3 July 1985 <i>(c)</i></div>
+    </td>
+    <td>
+      <div>S. 16</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000</div>
+    </td>
+    <td>
+      <div>137, 2000</div>
+    </td>
+    <td>
+      <div>24 Nov 2000</div>
+    </td>
+    <td colspan="2">
+      <div>Ss. 1-3 and Schedule 1 (items 1, 4, 6, 7, 9–11, 32): Royal Assent 
+Remainder: 24 May 2001 
+</div>
+    </td>
+    <td>
+      <div>Sch. 2 (items 418, 419) \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001</div>
+    </td>
+    <td>
+      <div>15, 2001</div>
+    </td>
+    <td>
+      <div>22 Mar 2001</div>
+    </td>
+    <td colspan="2">
+      <div>S. 4 and Schedule 1 (items 96–103): 24 May 2001 <i>(d)</i></div>
+    </td>
+    <td>
+      <div>S. 4 \[ <i>see</i>Table A]</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Offshore Petroleum (Repeals and Consequential Amendments) Act 2006</div>
+    </td>
+    <td>
+      <div>17, 2006</div>
+    </td>
+    <td>
+      <div>29 Mar 2006</div>
+    </td>
+    <td colspan="2">
+      <div>Schedule 2 (item 37): \[ <i>see</i>Note 2]</div>
+    </td>
+    <td>
+      <div>—</div>
+    </td>
+  </tr>
+  <tr height="0">
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</tbody></table>
+
 
 _(a)_     The _Historic Shipwrecks Act 1976_ was amended by Part XIII (sections 56 and 57) only of the _Statute Law Revision Act 1981_, subsection 2(6) of which provides as follows:
 
@@ -1272,6 +1288,7 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
                  (1)   Subject to this section, this Act commences on the latest of the following days:
 
                               (c)   the day on which item 15 of Schedule 1 to the _Criminal Code Amendment (Theft, Fraud, Bribery and Related Offences) Act 2000_ commences.
+
 
 ## Table of Amendments
 
@@ -1296,206 +1313,226 @@ _(d)_     The _Historic Shipwrecks Act 1976_ was amended by Schedule 1
     </td>
   </tr>
 </thead>
-<tr>
-  <td>
-    <div>Preamble</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 2</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1980; No. 22, 1984; No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 3</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1980; No. 61, 1981; No. 22, 1984; No. 65, 1985; No. 15, 2001; No. 17, 2006</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 3A, 3B</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S.4</div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4AA</div>
-  </td>
-  <td>
-    <div>ad. No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 4A</div>
-  </td>
-  <td>
-    <div>ad. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 5</div>
-  </td>
-  <td>
-    <div>am. No. 22, 1984; No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 6–9</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 10</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 11, 12</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 13</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 15</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 16</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 17</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985; No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 18</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 19</div>
-  </td>
-  <td>
-    <div>am. No. 88, 1980</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 20</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 21</div>
-  </td>
-  <td>
-    <div>am. No. 19, 1979</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 22</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 23</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985 (as am. by No. 193, 1985); No. 137, 2000; No. 15, 2001</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 24, 25</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>S. 26</div>
-  </td>
-  <td>
-    <div>rs. No. 65, 1985</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div></div>
-  </td>
-  <td>
-    <div>am. No. 137, 2000</div>
-  </td>
-</tr>
-<tr>
-  <td>
-    <div>Ss. 29, 30</div>
-  </td>
-  <td>
-    <div>am. No. 65, 1985</div>
-  </td>
-</tr></table>
+<tbody>
+  <tr>
+    <td>
+      <div>Preamble</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 2</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1980; No. 22, 1984; No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 3</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1980; No. 61, 1981; No. 22, 1984; No. 65, 1985; No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 3A, 3B</div>
+    </td>
+    <td>
+      <div>ad. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S.4</div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4AA</div>
+    </td>
+    <td>
+      <div>ad. No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 4A</div>
+    </td>
+    <td>
+      <div>ad. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 5</div>
+    </td>
+    <td>
+      <div>am. No. 22, 1984; No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 6–9</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 10</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 11, 12</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 13</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 15</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 16</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 17</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985; No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 18</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 19</div>
+    </td>
+    <td>
+      <div>am. No. 88, 1980</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 20</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 21</div>
+    </td>
+    <td>
+      <div>am. No. 19, 1979</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 22</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 23</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985 (as am. by No. 193, 1985); No. 137, 2000; No. 15, 2001</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 24, 25</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>S. 26</div>
+    </td>
+    <td>
+      <div>rs. No. 65, 1985</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div></div>
+    </td>
+    <td>
+      <div>am. No. 137, 2000</div>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <div>Ss. 29, 30</div>
+    </td>
+    <td>
+      <div>am. No. 65, 1985</div>
+    </td>
+  </tr>
+</tbody></table>
+
+
+### Note 2
+
+_Offshore Petroleum (Repeals and Consequential Amendments) Act 2006 
+(No. 17, 2006)
+_
+
+The following amendment commences on proclamation:
+
+## Schedule 2
+
+## 37  Subsection 3(5)
+
+Omit “is described under the heading referring to that State or Territory in Schedule 2 to the”, substitute “was described under the heading referring to that State or Territory in Schedule 2 to the repealed”.
+
+As at 10 April 2006 the amendment is not incorporated in this compilation.
+
 
 ## Table A
 
@@ -1531,7 +1568,9 @@ If:
 
 the amendment of the first-mentioned provision by this Schedule does not affect the validity of such a notice that was given before the commencement of this item.
 
-* * *
+<div style="BORDER-RIGHT: medium none; PADDING-RIGHT: 0cm; BORDER-TOP: medium none; PADDING-LEFT: 0cm; PADDING-BOTTOM: 5pt; MARGIN-LEFT: 144pt; BORDER-LEFT: medium none; MARGIN-RIGHT: 144pt; PADDING-TOP: 0cm; BORDER-BOTTOM: windowtext 1pt solid">
+
+ </div>
 
 _Environment and Heritage Legislation Amendment (Application of Criminal Code) Act 2001 (No. 15, 2001)_
 
@@ -1541,6 +1580,5 @@ _Environment and Heritage Legislation Amendment (Application of Criminal Code) A
 
              (2)  For the purposes of this section, if an act or omission is alleged to have taken place between 2 dates, one before and one on or after the day on which a particular amendment commences, the act or omission is alleged to have taken place before the amendment commences.
 
- 
 
  
